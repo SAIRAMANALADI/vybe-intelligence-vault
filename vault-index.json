@@ -1,1 +1,1026 @@
-[]
+{
+  "nodes": [
+    {
+      "id": "maps/3d-webdev-map.md",
+      "title": "3D Web Dev Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Modern WebGL, WebGPU, and 3D animations for creative creative interfaces. Scene graphs, camera constraints, shaders, layout grids, animations...."
+    },
+    {
+      "id": "maps/agent-stack-map.md",
+      "title": "Agent Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Autonomous loop design, agent memories, and task execution. ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persistence...."
+    },
+    {
+      "id": "maps/ai-engineering-map.md",
+      "title": "AI Engineering Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Core AI orchestration, API execution, and large language model configuration. Context window management, prompt engineering, few-shot prompting, API rate limit ..."
+    },
+    {
+      "id": "maps/frontend-ai-ui-map.md",
+      "title": "Frontend AI UI Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "User interface elements optimized for chatbot dashboards, widgets, and state streams. Streaming JSON rendering, message bubble styles, typing animations, layout..."
+    },
+    {
+      "id": "maps/llmops-map.md",
+      "title": "LLMOps Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Model serving, latency optimization, observability, cost tracking, and security. Quantization, inference optimization, model evaluations, security guardrails...."
+    },
+    {
+      "id": "maps/mcp-stack-map.md",
+      "title": "MCP Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Model Context Protocol for exposing data and tools safely to LLMs. MCP client-server architecture, JSON-RPC, tools, resources, prompts...."
+    },
+    {
+      "id": "maps/rag-stack-map.md",
+      "title": "RAG Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Retrieval-Augmented Generation for grounding LLM outputs in verified databases. Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc..."
+    },
+    {
+      "id": "maps/README.md",
+      "title": "Builder Stack Maps",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "These maps explain core builder stacks, technologies, recommended files, learning paths, and folders. Use them to guide your development. *   [AI Engineering Ma..."
+    },
+    {
+      "id": "maps/startup-builder-map.md",
+      "title": "Startup Builder Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Micro-SaaS templates, boilerplate configurations, public APIs, and deployment guides. Boilerplates, landing landing conversions, billing integrations, database ..."
+    },
+    {
+      "id": "skills/ai-agents.md",
+      "title": "AI Agents",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Autonomous software entities powered by large language models that can perceive environments, make decisions, use tools, and collaborate to achieve specific goa..."
+    },
+    {
+      "id": "skills/ai-coding-agents.md",
+      "title": "AI Coding Agents",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Specialized AI agents designed to interact with codebases, analyze project structures, run tests, write code, and automatically resolve bugs or implement featur..."
+    },
+    {
+      "id": "skills/automation.md",
+      "title": "Workflow Automation",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Automation involves scripting recurring developer routines, webhook data flows, local triggers, and CI/CD actions to minimize manual labor. It saves hours of re..."
+    },
+    {
+      "id": "skills/fastapi.md",
+      "title": "FastAPI",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints. It provides rapid API development..."
+    },
+    {
+      "id": "skills/framer-motion.md",
+      "title": "Framer Motion",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Framer Motion is a production-ready motion library for React that simplifies building physics-based layout animations and state transitions. It enables smooth m..."
+    },
+    {
+      "id": "skills/frontend-ai-ui.md",
+      "title": "Frontend AI & UI",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "The integration of AI features directly into user interfaces, including generative UI, real-time chat components, natural language control panels, and interacti..."
+    },
+    {
+      "id": "skills/gsap.md",
+      "title": "GSAP",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "GreenSock Animation Platform (GSAP) is an ultra-high-performance HTML5 animation library that animates anything JavaScript can touch. GSAP provides precise time..."
+    },
+    {
+      "id": "skills/langgraph.md",
+      "title": "LangGraph",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "LangGraph is a framework for building stateful, multi-actor applications with LLMs, enabling the design of cyclic agent workflows and complex execution trees. C..."
+    },
+    {
+      "id": "skills/llmops.md",
+      "title": "LLMOps",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Large Language Model Operations (LLMOps) encompasses the practices, techniques, and tools used to deploy, monitor, evaluate, and manage LLMs in production envir..."
+    },
+    {
+      "id": "skills/local-llm.md",
+      "title": "Local LLMs & Inference",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Deploying and running large language models locally on consumer hardware, optimizing for speed, privacy, and offline accessibility. Running models locally elimi..."
+    },
+    {
+      "id": "skills/mcp.md",
+      "title": "Model Context Protocol (MCP)",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "The Model Context Protocol (MCP) is an open standard designed by Anthropic to enable secure, standardized data sharing and tool discovery between AI models and ..."
+    },
+    {
+      "id": "skills/prompt-engineering.md",
+      "title": "Prompt Engineering",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Prompt Engineering is the practice of structuring text inputs to Large Language Models to maximize generation quality, target specific schemas, and enforce reas..."
+    },
+    {
+      "id": "skills/rag.md",
+      "title": "RAG",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Retrieval-Augmented Generation (RAG) is an architectural pattern that optimizes the output of a Large Language Model by querying authoritative, external knowled..."
+    },
+    {
+      "id": "skills/react-three-fiber.md",
+      "title": "React Three Fiber",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "React Three Fiber is a React renderer for Three.js. It allows developers to declare Three.js scenes using reusable, state-driven React components. It brings Rea..."
+    },
+    {
+      "id": "skills/shadcn-ui.md",
+      "title": "shadcn/ui",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "shadcn/ui is a collection of re-usable, copy-paste components built using Radix Primitives and styled with Tailwind CSS. It grants complete layout ownership to ..."
+    },
+    {
+      "id": "skills/tailwind.md",
+      "title": "Tailwind CSS",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces directly in your markup. It speeds up styling iterations, avoids bloat..."
+    },
+    {
+      "id": "skills/threejs.md",
+      "title": "Three.js & WebGL",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Three.js is a lightweight, cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a ..."
+    },
+    {
+      "id": "skills/vector-databases.md",
+      "title": "Vector Databases",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Specialized database management systems designed to store, index, and query high-dimensional vector embeddings efficiently. Vector databases form the retrieval ..."
+    },
+    {
+      "id": "skills/webgpu.md",
+      "title": "WebGPU",
+      "category": "skills",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "WebGPU is a future-facing web API providing low-level, high-performance access to physical graphics processor units for rendering and general-purpose compute. W..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-11",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. Sovereign, Open Source Retrieval-Augmented Generation ([Source](https://open-rag.a..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-12",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacke..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-15",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-16",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (growth velocity: 6) - `web-develo..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-17",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [shadcn-ui/ui](https://github.com/shadcn-ui/ui) (growth velocity: 12) - `web-devel..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-18",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [VoltAgent/awesome-ai-agent-papers](https://github.com/voltagent/awesome-ai-agent-..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-21",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) (growth velocity: 10) - ..."
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md",
+      "title": "Daily AI + Web Development Digest — 2026-06-22",
+      "category": "daily-digests",
+      "tags": [],
+      "tech_stack": [],
+      "stars": 0,
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "last_updated": "",
+      "summary": "Auto-generated daily digest from the local AI + Web Development Harvester. 1. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai) - `ai/commu..."
+    }
+  ],
+  "edges": [
+    {
+      "id": "maps/README.md->maps/ai-engineering-map.md",
+      "source": "maps/README.md",
+      "target": "maps/ai-engineering-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/agent-stack-map.md",
+      "source": "maps/README.md",
+      "target": "maps/agent-stack-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/rag-stack-map.md",
+      "source": "maps/README.md",
+      "target": "maps/rag-stack-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/mcp-stack-map.md",
+      "source": "maps/README.md",
+      "target": "maps/mcp-stack-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/llmops-map.md",
+      "source": "maps/README.md",
+      "target": "maps/llmops-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/frontend-ai-ui-map.md",
+      "source": "maps/README.md",
+      "target": "maps/frontend-ai-ui-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/3d-webdev-map.md",
+      "source": "maps/README.md",
+      "target": "maps/3d-webdev-map.md",
+      "type": "link"
+    },
+    {
+      "id": "maps/README.md->maps/startup-builder-map.md",
+      "source": "maps/README.md",
+      "target": "maps/startup-builder-map.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-11.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-11.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-12.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-12.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/frontend-ai-ui.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/frontend-ai-ui.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-15.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-15.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-16.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-16.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-17.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-17.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-18.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-18.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-21.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-21.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/ai-agents.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/ai-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/rag.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/rag.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/mcp.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/mcp.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/prompt-engineering.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/prompt-engineering.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/llmops.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/llmops.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/ai-coding-agents.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/ai-coding-agents.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/frontend-ai-ui.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/frontend-ai-ui.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/threejs.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/threejs.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/automation.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/automation.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/fastapi.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/fastapi.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/vector-databases.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/vector-databases.md",
+      "type": "link"
+    },
+    {
+      "id": "daily-digests/2026/06/2026-06-22.md->skills/local-llm.md",
+      "source": "daily-digests/2026/06/2026-06-22.md",
+      "target": "skills/local-llm.md",
+      "type": "link"
+    }
+  ]
+}
