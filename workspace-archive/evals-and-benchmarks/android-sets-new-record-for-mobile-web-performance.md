@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-sets-new-record-for-mobile-web-performance.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Android Sets New Record for Mobile Web Performance
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Benchmark Performance**: Android flagship devices achieved record-high scores in **Speedometer 3.1** (responsiveness) and **LoadLine** (page load speed), outperforming competitors by up to **47%** in LoadLine metrics (Chrome 146, March 2026).
+- **Benchmark Performance**: Android flagship devices achieved record-high scores in **Speedometer 3.1** (responsiveness) and **LoadLine** (page load speed), outperforming competitors by up to **47%** in LoadLine metrics, with Speedometer correlating strongly (-0.8) to real-world interaction latency (INP).
 
-- **Benchmark Correlations**: **Speedometer** scores (-0.8 correlation) and **LoadLine** scores (-0.8 correlation) directly predict real-world **Interaction to Next Paint (INP)** and **page load latency**, validating benchmark relevance for user experi
+- **Vertical Optimization**: Performance gains stemmed from cross-layer optimizations, including **SoC tuning**, **kernel scheduler policy adjustments**, and **Chrome/OS software refinements*
 
 ## Use Cases
 

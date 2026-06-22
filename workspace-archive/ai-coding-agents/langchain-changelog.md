@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Renaming**: LangSmith Agent Builder has been rebranded as **LangSmith Fleet**, effective March 19, 2026.
-- **Scope Expansion**: The new name reflects an expanded scope beyond the original Agent Builder functionality.
-- **UI Update**: The change will be reflected across all LangSmith interfaces and documentation.
+- **Renaming**: LangSmith Agent Builder has been rebranded as **LangSmith Fleet**, with the new name reflected across all interfaces and documentation.
+- **Scope Expansion**: The renaming indicates an expansion of functionality beyond the original Agent Builder capabilities, though specific changes are not detailed in the announcement.
+- **Effective Date**: The change was implemented on **March 19, 2026**, marking a formal update to the product's identity.
 
 ## Use Cases
 

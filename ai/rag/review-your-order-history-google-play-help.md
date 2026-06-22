@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/googleplay/answer/2850369?hl=en
-published_at: '2026-06-22T11:15:04.523947+05:30'
-collected_at: '2026-06-22T11:15:04.523961+05:30'
+published_at: '2026-06-23T01:07:16.212250+05:30'
+collected_at: '2026-06-23T01:07:16.212260+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:review-your-order-history-google-play-help
-first_seen: '2026-06-22T11:15:04.523961+05:30'
-last_seen: '2026-06-22T11:15:04.523961+05:30'
-last_checked: '2026-06-22T11:15:04.523961+05:30'
+first_seen: '2026-06-23T01:07:16.212260+05:30'
+last_seen: '2026-06-23T01:07:16.212260+05:30'
+last_checked: '2026-06-23T01:07:16.212260+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Order History Access**: Google Play order history is accessible via the Play Store app (`Payments & subscriptions` > `Budget & history`) or [play.google.com](https://play.google.com/store/account/orderhistory) (`Profile icon` > `Payments & subscriptions` > `Budget & Order history`), excluding non-Google Play transactions (e.g., Google Pay).
+- **Order History Access**: Google Play order history is accessible via the Play Store app (Profile icon → Payments & subscriptions → Budget & history) or [play.google.com](https://play.google.com/store/account/orderhistory) (Profile icon → Payments & subscriptions → Budget & Order history), excluding non-Google Play transactions (use [payments.google.com](https://payments.google.com/) for those).
 
-- **Charge Timing**: Google Play charges appear immediately for Play Store purchases, while third-party payment method charges may take up to 10 business days; bank-specific delays are possible.
+- **Charge Timing**: Google Play charges appear shortly after purchase, while other payment methods may take up to 10 business days; immediate balance changes reflect Google Play credits.
 
-- **Dispute Resolution**: Unrecognized charges can be reported via [Google Play support](https://support.google.com/googleplay/answer/2851610); order status can be checked via [Google Play workflow](https://support.google.com/googleplay/workflow/10945996).
+- **Dispute Resolution**: Unrecognized charges can be reported via [Google Play support](https://support.google.com/googleplay/answer/2851610); order status can be checked via [workflow](https://support.google.com/googleplay/workflow/10945996).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:15:04.523947+05:30
+- Published: 2026-06-23T01:07:16.212250+05:30
 
 ## Related Tags
 

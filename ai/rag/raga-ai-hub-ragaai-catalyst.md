@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/raga-ai-hub/ragaai-catalyst
-collected_at: '2026-06-22T11:12:00.377533+05:30'
-published_at: '2026-06-22T05:14:36Z'
+collected_at: '2026-06-23T01:03:49.913974+05:30'
+published_at: '2026-06-22T14:41:15Z'
 tags:
 - agents
 - benchmark
@@ -15,8 +15,8 @@ language: Python
 status: active
 resource_id: github:raga-ai-hub/ragaai-catalyst
 first_seen: '2026-06-18T23:35:18.966556+05:30'
-last_seen: '2026-06-22T11:12:00.377533+05:30'
-last_checked: '2026-06-22T11:12:00.377533+05:30'
+last_seen: '2026-06-23T01:03:49.913974+05:30'
+last_checked: '2026-06-23T01:03:49.913974+05:30'
 health_score: 100
 ---
 
@@ -34,10 +34,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: raga-ai-hub
 - Stars: 16151
-- Forks: 3595
+- Forks: 3593
 - Language: Python
 - Topics: agentic-ai, agentic-ai-development, agentneo, agents, ai-agent-monitoring, ai-application-debugging, ai-evaluation-tools, ai-performance-optimization, ai-tool-interaction-monitoring, llm-testing, llm-tracing, llmops
-- Last Updated: 2026-06-22T05:14:36Z
+- Last Updated: 2026-06-22T14:41:15Z
 
 ## Possible Use Cases
 

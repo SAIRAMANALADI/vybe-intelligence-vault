@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyterlab.readthedocs.io/en/latest
-published_at: '2026-06-22T11:23:47.175869+05:30'
-collected_at: '2026-06-22T11:23:47.175882+05:30'
+published_at: '2026-06-23T01:11:45.208053+05:30'
+collected_at: '2026-06-23T01:11:45.208063+05:30'
 tags:
 - frontend_ui
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
-first_seen: '2026-06-22T11:23:47.175882+05:30'
-last_seen: '2026-06-22T11:23:47.175882+05:30'
-last_checked: '2026-06-22T11:23:47.175882+05:30'
+first_seen: '2026-06-23T01:11:45.208063+05:30'
+last_seen: '2026-06-23T01:11:45.208063+05:30'
+last_checked: '2026-06-23T01:11:45.208063+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible IDE for computational notebooks (combining code, visualizations, and markdown) and a successor to Jupyter Notebook, offering advanced features like real-time collaboration, debugging, and multi-language support via the Language Server Protocol (LSP).
+- **JupyterLab** is an extensible, feature-rich environment for notebook authoring and computational workflows, part of **Project Jupyter**, supporting interactive computing with notebooks that integrate code, visualizations, and rich media.
 
-- **Architecture**: Built as a client-server application with a React-based frontend (using `@jupyterlab` npm packages) and a Python-based Jupyter Server backend, enabling plugin-based extensibility and workspace customization.
+- **Key features** include a modular architecture with support for extensions, real-time collaboration, Language Server Protocol (LSP), debugging, and customizable workspaces via UI plugins and CSS overrides.
 
-- **Development & Contribution**: Supports extension development (via TypeScript/JavaScript), testing (unit/UI/performance), and contributions through GitHub PRs, with detailed guidelines for local setup, debugging, and documentation contributions.
+- **Development ecosystem** provides tools for extension creation (React-based UI components, virtual DOM), testing (visual regression, UI tests), and contribution workflows (local dev setup, pull requests, performance testing).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:23:47.175869+05:30
+- Published: 2026-06-23T01:11:45.208053+05:30
 
 ## Related Tags
 

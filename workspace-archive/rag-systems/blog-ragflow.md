@@ -6,19 +6,16 @@ source_url: https://ragflow.io/blog
 resource_id: blog:blog-ragflow
 local_vault_path: ai/rag/blog-ragflow.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: benchmark
 importance: medium
 tags:
-- anthropic
-- hackernews
-- openai
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Blog | RAGFlow
@@ -26,19 +23,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic, local models) with standardized input/output handling; introduced provider-specific adapters for seamless integration and reduced boilerplate.
+- **API & Model Provider Refactoring**: RAGFlow 0.26 introduces a modularized architecture for API and model provider integration, enabling dynamic loading/unloading of providers and improved extensibility via standardized interfaces.
 
-- **Incremental Data Sources**: Implemented delta updates for document ingestion, enabling efficient synchronization with external sources (e.g., databases, APIs) via change detection (e.g., timestamps, versioning) without full reprocessing.
+- **Incremental Data Sources**: Supports incremental data ingestion from connected sources (e.g., databases, APIs), reducing redundant processing by tracking and updating only new or modified content.
 
-- **Perform
+- **Performance Optimizations**: Enhanced parallel processing
 
 ## Use Cases
 

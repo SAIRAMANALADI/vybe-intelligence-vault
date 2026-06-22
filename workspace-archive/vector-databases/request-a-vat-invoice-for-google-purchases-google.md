@@ -8,7 +8,7 @@ local_vault_path: ai/rag/request-a-vat-invoice-for-google-purchases-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
@@ -23,15 +23,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- VAT invoices for Google purchases are only available to users in the **European Economic Area (EEA) or Morocco**, with the address on the invoice reflecting the legal address at the time of purchase (non-modifiable post-purchase).
-- Users must **enter their tax ID number** in Google Payments settings **before** making a purchase to qualify for a VAT invoice; otherwise, the option may be unavailable.
-- VAT invoices/receipts can be downloaded via **Google Payments > Activity > Transaction Detail
+- VAT invoices for Google purchases in the EEA/Morocco are tied to the legal address at transaction time and cannot be modified post-purchase.
+- Users must ensure their tax ID is entered in [Google Payments Settings](https://payments.google.com/#settings) before purchase to qualify for VAT invoicing.
+- VAT invoices are exclusively available to EEA/Morocco residents via **Activity** > Transaction > **Download VAT invoice** in Google Payments.
 
 ## Use Cases
 

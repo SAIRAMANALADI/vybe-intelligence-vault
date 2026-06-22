@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with straightforward syntax, including true division (`/`) and floor division (`//`), and allows grouping via parentheses.
-- Python’s **compound data types** (e.g., lists) support indexing, slicing, and operations like list comprehensions (`[fruit.upper() for fruit in fruits]`), alongside built-in functions like `enumerate()`.
-- Python’s **control flow** includes standard constructs (`if`, `for`, `while`, `range`) and s
+- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (`/`) and floor division (`//`), and allows expression grouping via parentheses.
+
+- Python enables **compound data manipulation** via built-in types like lists, supporting indexing, slicing, list comprehensions, and iteration constructs (`for`, `while`), alongside functions like `enumerate()` for indexed traversal.
+
+- Python provides **control flow primitives** (`if`, `for`
 
 ## Use Cases
 

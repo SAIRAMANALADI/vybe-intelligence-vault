@@ -8,14 +8,14 @@ local_vault_path: ai/rag/langchain-reference-docs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Reference Docs
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive API Coverage**: Provides unified reference documentation for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, including Python and TypeScript packages.
-- **Structured Documentation**: Organizes classes, functions, and types across the entire LangChain ecosystem for easy navigation and reference.
-- **Separate Resources**: Directs users to guides, tutorials, and conceptual documentation via the main LangChain documentation site ([docs.langchain.com](https://d
+- **Unified API Reference**: Provides centralized documentation for LangChain, LangGraph, Deep Agents, LangSmith, and integrations across Python and TypeScript ecosystems.
+- **Package Coverage**: Encompasses classes, functions, and types for the entire LangChain framework.
+- **Separate Guides**: Links to conceptual docs, tutorials, and guides are available on the [main documentation site](https://docs.langchain.com).
 
 ## Use Cases
 

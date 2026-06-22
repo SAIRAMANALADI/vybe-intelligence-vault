@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Workflow Enhancement**: Atlassian Marketplace offers AI-driven apps to optimize workflows, including automation, predictive analytics, and intelligent task prioritization.
+- **Marketplace Apps**: Atlassian Marketplace offers curated apps to enhance Atlassian product functionality, categorized into **Project Management, Content & Communication, Admin Tools, AI, Data & Analytics, Software Development**, and more.
 
-- **Data & Analytics Integration**: Provides tools for real-time data visualization, business intelligence, and advanced analytics to derive actionable insights from Atlassian ecosystem data.
+- **Infrastructure & Security**: Apps listed under **"Runs on Atlassian"** leverage Atlassian’s infrastructure, ensuring data is securely stored within the platform.
 
-- **Secure, In-Platform App Infrastructure**: Features apps that leverage Atlassian’s native infrastructure, ensuring d
+- **AI & Automation**: The **"Artificial Intelligence"** and **"Atlassian Rovo"** collect
 
 ## Use Cases
 

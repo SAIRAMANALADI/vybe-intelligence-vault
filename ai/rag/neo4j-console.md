@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://console.neo4j.org/?id=vrs4
-published_at: '2026-06-22T15:17:57.151211+05:30'
-collected_at: '2026-06-22T15:17:57.151222+05:30'
+published_at: '2026-06-23T01:07:57.821683+05:30'
+collected_at: '2026-06-23T01:07:57.821691+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:neo4j-console
-first_seen: '2026-06-22T15:17:57.151222+05:30'
-last_seen: '2026-06-22T15:17:57.151222+05:30'
-last_checked: '2026-06-22T15:17:57.151222+05:30'
+first_seen: '2026-06-23T01:07:57.821691+05:30'
+last_seen: '2026-06-23T01:07:57.821691+05:30'
+last_checked: '2026-06-23T01:07:57.821691+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive Graph Console**: Neo4j provides a browser-based interactive console for graph visualization, querying, and modification using Cypher, with real-time updates and sharing capabilities via Heroku-hosted URLs.
-
-- **Cypher Syntax Support**: Supports multiple Cypher compilers (3.0-cost, 3.0-rule, 2.3-cost, 2.3-rule) for graph operations, including node/relationship creation (`CREATE (neo:Person {name: "Neo"})`) and complex queries (e.g., `MATCH (user)-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user, friend`).
-
-- **Graph Initialization & Sharing**: Predefined initial graphs (e.g., `vrs4`) can be cleared or reset; graphs can be shared via direct links or embedded HTML, with source code available on [GitHub](http://github.com/neo4j-contrib/rabbithole).
+- **Interactive Graph Management**: Neo4j Console enables real-time graph construction/deletion via Cypher (`CREATE`/`MATCH`/`DELETE`) with nodes/relationships (e.g., `(neo)-[:KNOWS {since:"2 days"}]->(morpheus)`).
+- **Querying Capabilities**: Supports advanced Cypher queries (e.g., filtering with `WHERE`, projections, and pattern matching) for graph traversal and updates (e.g., `MATCH (n:Person) WHERE exists(n.name) ...`).
+- **Deployment & Sharing**: Hosted on Heroku with open-source code (GitHub); allows sharing via URLs/embedding HTML snippets and resets via `?init=&no_root=true`.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:17:57.151211+05:30
+- Published: 2026-06-23T01:07:57.821683+05:30
 
 ## Related Tags
 

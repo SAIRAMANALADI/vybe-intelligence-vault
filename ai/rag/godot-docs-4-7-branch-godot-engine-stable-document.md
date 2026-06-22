@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.godotengine.org
-published_at: '2026-06-22T10:31:30.889502+05:30'
-collected_at: '2026-06-22T10:31:30.889516+05:30'
+published_at: '2026-06-23T01:08:51.683428+05:30'
+collected_at: '2026-06-23T01:08:51.683444+05:30'
 tags:
 - agents
 - animation
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
-first_seen: '2026-06-22T10:31:30.889516+05:30'
-last_seen: '2026-06-22T10:31:30.889516+05:30'
-last_checked: '2026-06-22T10:31:30.889516+05:30'
+first_seen: '2026-06-23T01:08:51.683444+05:30'
+last_seen: '2026-06-23T01:08:51.683444+05:30'
+last_checked: '2026-06-23T01:08:51.683444+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform 2D/3D engine**: Godot supports both 2D and 3D rendering with dedicated pipelines, physics (2D/3D), shaders, and a modular GUI system, enabling scalable game and application development.
+- **Cross-platform game engine** with support for 2D/3D rendering, physics, shaders, and scripting (GDScript, C#, C++ via GDExtension), optimized for both desktop and mobile platforms.
 
-- **Scripting & extensibility**: Native support for GDScript (optimized for Godot), C#, C++, and GDExtension for custom engine modules; avoids STL/exceptions for deterministic performance.
+- **Modular architecture** with a lightweight core, avoiding STL/exceptions, and supporting ECS-like patterns without enforcing strict DOD, enabling extensibility via plugins and GDExtension.
 
-- **License compliance & release policy**: MIT-licensed core with strict third-party license inclusion requirements; follows semantic versioning with long-term support (LTS) releases and backward compatibility guidelines.
+- **Versioning policy** follows semantic versioning (MAJOR.MINOR.PATCH), with LTS releases (e.g., 4.x) receiving 2+ years of support, and backward compatibility prioritized for minor updates.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:31:30.889502+05:30
+- Published: 2026-06-23T01:08:51.683428+05:30
 
 ## Related Tags
 

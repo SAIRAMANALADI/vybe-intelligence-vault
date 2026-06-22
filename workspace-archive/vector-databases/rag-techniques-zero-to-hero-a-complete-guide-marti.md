@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -31,15 +31,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical) with LLMs to ground generation in external knowledge, improving factuality and reducing hallucinations while avoiding costly retraining.
-- **Key Components**: Retriever (ANN/BM25), vector store (HNSW/IVF), reranker (cross-encoder distillation), and LLM generator with context management (autocut, citation prompting).
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG, context distillation, and retrieval-aware fine-tuning to optimiz
+- **RAG Architecture**: Combines retrieval (vector/lexical search over external knowledge) with generative LLMs to ground outputs in retrieved context, improving factuality and adaptability without retraining the LLM.
+
+- **Key Pipeline Components**: Retriever (vector/BM25), vector store (ANN indexes like HNSW), reranker (cross-encoders for precision), and LLM generator conditioned on retrieved context; orchestration layers manage caching, query rewriting, and multi-hop retrieval.
+
+- **Advanced T
 
 ## Use Cases
 

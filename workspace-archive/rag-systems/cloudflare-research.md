@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Lossless MLP Weight Compression**: Unweight achieves 1.44x compression on BF16 MLP weights for LLM inference with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100/H200).
+- **Unweight**: Lossless MLP weight compression system for LLM inference, achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **Research Focus Areas**: Cloudflare Research targets five pillars—privacy-enhancing tech, cryptographic/security advances, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
+- **RFC 9935**: Introduces algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in Internet X.509 Public Key Infrastructure, enhancing post-quantum cryptographic standards.
 
-- **Recent Publications**: Includes RFC 9935 (ML-KEM X.509 PKI algorithm identif
+- **Research Focus Areas**: Cloudflare's research spans privacy-enhancing technologies, cryptog
 
 ## Use Cases
 

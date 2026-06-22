@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org
-published_at: '2026-06-22T15:47:09.771463+05:30'
-collected_at: '2026-06-22T15:47:09.771479+05:30'
+published_at: '2026-06-23T01:09:29.458865+05:30'
+collected_at: '2026-06-23T01:09:29.458874+05:30'
 tags:
 - hackernews
 - web-crawled
-- workflows
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-06-22T15:47:09.771479+05:30'
-last_seen: '2026-06-22T15:47:09.771479+05:30'
-last_checked: '2026-06-22T15:47:09.771479+05:30'
+first_seen: '2026-06-23T01:09:29.458874+05:30'
+last_seen: '2026-06-23T01:09:29.458874+05:30'
+last_checked: '2026-06-23T01:09:29.458874+05:30'
 health_score: 100
 ---
 
@@ -22,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format Documentation Generation**: Supports output formats including HTML, LaTeX (PDF), ePub, and Texinfo via extensible builder mechanisms.
-- **Cross-Referencing & Extensibility**: Enables intra/inter-project cross-references (sections, figures, code objects) and modular extension via built-in/third-party plugins (e.g., autodoc, intersphinx).
-- **Authoring & Internationalization**: Supports reStructuredText/MyST Markdown for structured content and provides i18n workflows for multilingual documentation.
+- **Documentation Generation**: Sphinx automates API documentation generation for Python, C++, and other languages via `autodoc` and supports rich text formatting using reStructuredText or MyST Markdown, including tables, code blocks, and mathematical notations.
+
+- **Multi-Format Output & Extensibility**: Supports output formats (HTML, LaTeX/PDF, ePub, Texinfo) with extensive theme customization (built-in/third-party) and robust extension mechanisms for adding functionality (e.g., diagrams, testing).
+
+- **Cross-Referencing & Internationalization**: Enables cross-project referencing (`intersphinx`) for sections, figures, and code objects, and supports multilingual documentation via internationalization (i18n) features.
 
 ## Why It Matters
 
@@ -34,13 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:47:09.771463+05:30
+- Published: 2026-06-23T01:09:29.458865+05:30
 
 ## Related Tags
 
 - hackernews
 - web-crawled
-- workflows
 
 ## Source
 

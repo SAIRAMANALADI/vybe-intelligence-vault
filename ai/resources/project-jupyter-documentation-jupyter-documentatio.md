@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-06-22T15:47:47.803427+05:30'
-collected_at: '2026-06-22T15:47:47.803444+05:30'
+published_at: '2026-06-23T01:11:16.379557+05:30'
+collected_at: '2026-06-23T01:11:16.379565+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-22T15:47:47.803444+05:30'
-last_seen: '2026-06-22T15:47:47.803444+05:30'
-last_checked: '2026-06-22T15:47:47.803444+05:30'
+first_seen: '2026-06-23T01:11:16.379565+05:30'
+last_seen: '2026-06-23T01:11:16.379565+05:30'
+last_checked: '2026-06-23T01:11:16.379565+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular framework centered on interactive computing via computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format (`.ipynb`), with core components including JupyterLab (feature-rich IDE), Jupyter Notebook (lightweight UI), and nbformat (notebook structure specification).
+- **Jupyter ecosystem**: A modular framework centered around interactive computing with notebooks, supporting code execution, rich visualizations, and narrative documentation via tools like JupyterLab and Jupyter Notebook.
 
-- **Sub-projects and kernels**: Extensible architecture with specialized tools such as JupyterHub (multi-user server), nbconvert (document conversion), ipywidgets (interactive UI components), and language-agnostic kernels (e.g., IPython, IRkernel, IJulia) enabling polyglot notebook execution.
+- **Sub-projects**: Includes kernels (e.g., IPython, IRkernel), UI tools (e.g., JupyterLite, Voilà), and infrastructure (e.g., JupyterHub, nbformat) for notebook execution, conversion, and deployment.
 
-- **Deployment and integration**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes), Docker Stacks for reproducible environments, and APIs (e.g., jupyter-server, jupyter-client) for custom application development, alongside AI integration tools like jupyter-ai.
+- **Architecture**: Defined by the Jupyter Messaging Protocol (`jupyter-client`), notebook format (`nbformat`), and server components (`jupyter-server`, `jupyterlab-server`) enabling extensible, language-agnostic computing environments.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:47:47.803427+05:30
+- Published: 2026-06-23T01:11:16.379557+05:30
 
 ## Related Tags
 

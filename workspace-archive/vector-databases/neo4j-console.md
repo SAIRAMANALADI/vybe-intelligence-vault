@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Interactive Graph Console**: Neo4j provides a browser-based interactive console for graph visualization, querying, and modification using Cypher, with real-time updates and sharing capabilities via Heroku-hosted URLs.
-
-- **Cypher Syntax Support**: Supports multiple Cypher compilers (3.0-cost, 3.0-rule, 2.3-cost, 2.3-rule) for graph operations, including node/relationship creation (`CREATE (neo:Person {name: "Neo"})`) and complex queries (e.g., `MATCH (user)-[:KNOWS]->(friend) WHERE friend.ag
+- **Interactive Graph Management**: Neo4j Console enables real-time graph construction/deletion via Cypher (`CREATE`/`MATCH`/`DELETE`) with nodes/relationships (e.g., `(neo)-[:KNOWS {since:"2 days"}]->(morpheus)`).
+- **Querying Capabilities**: Supports advanced Cypher queries (e.g., filtering with `WHERE`, projections, and pattern matching) for graph traversal and updates (e.g., `MATCH (n:Person) WHERE exists(n.name) ...`).
+- **Deployment & Sharing**: Hosted on Heroku with open-source code (GitH
 
 ## Use Cases
 

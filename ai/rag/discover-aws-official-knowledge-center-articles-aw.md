@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-06-22T15:24:08.066783+05:30'
-collected_at: '2026-06-22T15:24:08.066798+05:30'
+published_at: '2026-06-23T01:09:48.595229+05:30'
+collected_at: '2026-06-23T01:09:48.595238+05:30'
 tags:
 - dataset
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-06-22T15:24:08.066798+05:30'
-last_seen: '2026-06-22T15:24:08.066798+05:30'
-last_checked: '2026-06-22T15:24:08.066798+05:30'
+first_seen: '2026-06-23T01:09:48.595238+05:30'
+last_seen: '2026-06-23T01:09:48.595238+05:30'
+last_checked: '2026-06-23T01:09:48.595238+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failures**: Troubleshoot Amazon S3 replication issues by verifying IAM permissions, bucket policies, replication configuration, and destination bucket ownership.
-- **EC2 SSH Connection Errors**: Resolve "Connection refused" or "Connection timed out" errors by checking security group rules, network ACLs, instance status, and SSH configuration.
-- **API Gateway 403 Errors**: Diagnose HTTP 403 errors in API Gateway by validating IAM policies, resource policies, API keys, and CORS configurations.
+- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or replication timeouts; verify destination bucket ownership and encryption settings.
+
+- **EC2 SSH Connection Errors**: "Connection refused" typically indicates security group misconfiguration (denied inbound SSH/port 22) or instance-level firewall rules; "Permission denied" errors often stem from incorrect key pair associations or disabled `sshd` service.
+
+- **S3 403 Access Denied**: Resolve by auditing IAM policies, bucket policies, and ACLs; ensure proper `Principal` definitions in cross-account scenarios and validate object ownership in versioned buckets.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:24:08.066783+05:30
+- Published: 2026-06-23T01:09:48.595229+05:30
 
 ## Related Tags
 

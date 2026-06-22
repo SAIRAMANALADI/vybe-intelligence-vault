@@ -13,13 +13,14 @@ collected_at: '2026-06-22T15:16:21.059299+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apertus-open-foundation-model-for-sovereign-ai
 first_seen: '2026-06-22T10:21:37.848552+05:30'
 last_seen: '2026-06-22T15:16:21.059299+05:30'
 last_checked: '2026-06-22T15:16:21.059299+05:30'
 health_score: 100
 ---
+
 
 # Apertus – Open Foundation Model for Sovereign AI
 

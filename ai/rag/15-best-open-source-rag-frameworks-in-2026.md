@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-22T15:18:12.262246+05:30'
-collected_at: '2026-06-22T15:18:12.262265+05:30'
+published_at: '2026-06-23T01:04:45.423103+05:30'
+collected_at: '2026-06-23T01:04:45.423116+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-06-22T15:18:12.262265+05:30'
-last_seen: '2026-06-22T15:18:12.262265+05:30'
-last_checked: '2026-06-22T15:18:12.262265+05:30'
+first_seen: '2026-06-23T01:04:45.423116+05:30'
+last_seen: '2026-06-23T01:04:45.423116+05:30'
+last_checked: '2026-06-23T01:04:45.423116+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring `llms.txt` generation, structured crawling (Markdown/HTML), AI agent-based extraction, and deep research capabilities via REST APIs.
+- **LangChain**: Modular framework (105k ⭐) for chaining LLM components with data sources, embeddings, and vector stores; supports retrieval pipelines, model flexibility, and evaluation tools (LangSmith/LangGraph) for RAG systems.
 
-- **LangChain**: Modular framework for RAG pipelines with 105k+ GitHub stars, offering model/embedding/vector store interfaces, retrieval components, evaluation tools, and ecosystem integrations (LangSmith/LangGraph) for chaining LLM workflows.
+- **Milvus**: High-performance (33.9k ⭐) cloud-native vector database optimized for ANN search, hybrid queries, and multi-modal embeddings; integrates with RAG frameworks and scales to billions of vectors for production deployments.
 
-- **Milvus**: High-performance, distributed vector database (33.9k stars) optimized for ANN search, hybrid queries, and multi-modal embeddings, with horizontal scalability and enterprise-grade features for production RAG systems.
+- **RAGFlow**: Open-source (48.5k ⭐) RAG engine with deep document parsing (tables/layouts), GraphRAG support, and visual web interface; offers Elasticsearch/Infinity storage backends and agentic reasoning for complex retrieval workflows.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:18:12.262246+05:30
+- Published: 2026-06-23T01:04:45.423103+05:30
 
 ## Related Tags
 

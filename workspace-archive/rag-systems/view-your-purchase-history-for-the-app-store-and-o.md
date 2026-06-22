@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Access Methods**: Purchase history for Apple media services can be viewed online via [reportaproblem.apple.com](https://reportaproblem.apple.com/?s=6) or directly on devices (iPhone, iPad, Mac, Windows PC) through their respective App Store/Account Settings.
-- **Filtering & Search**: Supports filtering by time (e.g., "Last 90 Days") and searching by charge amount; EU users may need to check alternative payment methods outside the App Store.
-- **Troubleshooting**: Unrecognized purchases can b
+- **Purchase History Access**: Users can view App Store, iTunes, and other media purchases via [reportaproblem.apple.com](https://reportaproblem.apple.com/?s=6) or directly through device-specific methods (iPhone/iPad: App Store > Sign-In > Purchase History; Mac: App Store > Account Settings > Purchase History; Windows: Apple Music/Apple TV app > View My Account > Purchase History).
+
+- **EU Alternative Payments**: Purchases made via third-party payment systems or external links in the EU bypass
 
 ## Use Cases
 

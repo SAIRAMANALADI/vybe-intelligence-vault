@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
+archive_score: 80
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload by injecting only pertinent chunks into the LLM prompt.
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (documents, databases) dynamically, addressing context window limitations (e.g., GPT-4.1: 1M tokens) by injecting only pertinent chunks (1K–3K tokens) into prompts, avoiding full-document overload.
 
-- **Embedding Pipeline**: Chunks source documents (e.g., PDFs, CSVs) into fixed-token segments, converts them via embedding models (e.g., OpenAI’s 3,072-dimension vectors) into high-dimensional vectors, and stores them in vector databases (e.g., Pinecone, FAISS) for semanti
+- **Embedding Pipeline**: Chunks (10K from 10M tokens) are converted to high-dimensional vectors (e.g., OpenAI’s 3,072-D embeddings) via embedding models (e.g., `text-embedding-3-large`), enabling semantic si
 
 ## Use Cases
 

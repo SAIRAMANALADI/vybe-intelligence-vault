@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Integration**: Combines Neo4j (graph database) and Databricks (data processing) to enhance AI agents with structured relational reasoning via Graph Retrieval-Augmented Generation (GraphRAG).
+- **GraphRAG Integration**: Combines Neo4j's graph database with Databricks for enhanced Retrieval-Augmented Generation (RAG) by leveraging structured knowledge graphs to improve context retrieval and agent reasoning.
 
-- **Technical Workflow**: Databricks processes raw data into graph structures stored in Neo4j, enabling AI agents to query and reason over relationships for improved contextual understanding and response generation.
+- **Technical Workflow**: Databricks processes raw data, Neo4j constructs and queries the graph, enabling dynamic relationship extraction and semantic search for AI agents.
 
-- **Use Case**: Demonstrates scalable, real-world deployment of GraphRAG for A
+- **Use Case**: Enables smarter AI agents with improved accuracy in knowledge-intensive tasks by grounding
 
 ## Use Cases
 

@@ -22,7 +22,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai)
-- [topoteretes/cognee](https://github.com/topoteretes/cognee)
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 - [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills)
 - [GitHub Docs](https://docs.github.com)
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-22 15:59 IST*
+*Last updated: 2026-06-23 03:04 IST*

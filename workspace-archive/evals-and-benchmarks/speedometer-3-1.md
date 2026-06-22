@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Speedometer 3.1 is a browser benchmark tool designed to measure the responsiveness of web applications by simulating user interactions (e.g., adding to-do items) using demo web apps.
-- **Requirements**: Accurate results require a viewport size of at least 850px by 650px; subtests failing to produce durations indicate potential misconfiguration or browser setting issues.
-- **Output**: Provides detailed metrics (aggregate, overview, and specifics) in JSON/CSV formats for performance
+- **Benchmark Purpose**: Measures Web application responsiveness by simulating user actions (e.g., adding to-do items) in demo applications.
+- **Technical Requirements**: Requires viewport size ≥ 850px × 650px for accurate results; subtest failures may indicate misconfigured browser settings.
+- **Output Format**: Provides detailed metrics (JSON/CSV) for performance analysis, including aggregate and test-specific durations.
 
 ## Use Cases
 

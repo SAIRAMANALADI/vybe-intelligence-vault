@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Functionality**: Typer is a CLI library leveraging Python type hints for intuitive CLI development, offering automatic help generation, shell completion, and minimal boilerplate (e.g., 2-line minimal example).
+- **Python Type Hints Integration**: Typer leverages Python type hints for CLI parameter declaration, enabling automatic generation of CLI arguments/options, help text, and type validation without additional syntax.
 
-- **Architecture**: Built as FastAPI’s CLI counterpart, Typer supports hierarchical command structures, parameter validation via Python types (e.g., `int`, `bool`, `Enum`), and embedded Click (since v0.26.0) for maintained compatibility.
+- **Subcommand & Group Support**: Supports hierarchical CLI structures via `typer.Typer()` app with `@app.command()` decorators, enabling complex command trees with nested subcommands and shared/global options.
 
-- **Dependencies & Extensibility**: Core
+- **Automatic Tooling**: Provides built-in `--help`, shell completion (
 
 ## Use Cases
 

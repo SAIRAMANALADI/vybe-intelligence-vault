@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 5,928</p>
-        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 143</p>
+        <p><b>Resources tracked:</b> 6,083</p>
+        <p><b>Active:</b> 5,928 | <b>Inactive:</b> 155</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 24,573</p>
+        <p><b>Archive Files:</b> 24,862</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-23 00:27 IST</p>
+        <p><b>Last Update:</b> 2026-06-23 03:05 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,22 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Explore Marketplace solutions for Atlassian apps | Atlassian Marketplace](ai/rag/explore-marketplace-solutions-for-atlassian-apps-a.md)** • Rank: <kbd>+269</kbd>
+- 🔼 **[Bitbucket](ai/resources/bitbucket.md)** • Rank: <kbd>+765</kbd>
+- 🔼 **[Examples â Atlaskit](ai/resources/examples-a-atlaskit.md)** • Rank: <kbd>+281</kbd>
+- 🔼 **[Cloud developer documentation - Atlassian Developer](ai/rag/cloud-developer-documentation-atlassian-developer.md)** • Rank: <kbd>+861</kbd>
+- 🔼 **[Atlassian Documentation | Atlassian Support | Atlassian Documentation](ai/resources/atlassian-documentation-atlassian-support-atlassia.md)** • Rank: <kbd>+281</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** • Score: `0`
-- 🆕 **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** • Score: `0`
-- 🆕 **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** • Score: `0`
-- 🆕 **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** • Score: `0`
-- 🆕 **[Building Deep Research: How we Achieved State of the Art](ai/models/huggingface-blog-tavily.md)** • Score: `0`
+- 🆕 **[Moebius: 0.2B image inpainting model with 10B-level performance](ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)** • Score: `151`
+- 🆕 **[Show HN: Oak – Git replacement designed for agents](ai/community/show-hn-oak-git-replacement-designed-for-agents.md)** • Score: `77`
+- 🆕 **[Blogger defeats photographer's copyright claim](ai/community/blogger-defeats-photographer-s-copyright-claim.md)** • Score: `32`
+- 🆕 **[Show HN: Selector Forge – browser extension for AI-generated resilient selectors](ai/community/intuned-selector-forge.md)** • Score: `24`
+- 🆕 **[Bain tests software takeover targets by vibecoding AI replicas](ai/community/bain-tests-software-takeover-targets-by-vibecoding.md)** • Score: `21`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)**
+- 💤 **[Danish privacy activist Lars Andersen raided by police](ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md)**
+- 💤 **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)**
+- 💤 **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)**
+- 💤 **[Munich 1991: The Roots of the Current AI Boom](ai/community/munich-1991-the-roots-of-the-current-ai-boom.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

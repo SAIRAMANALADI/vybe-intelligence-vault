@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation
-published_at: '2026-06-22T15:26:56.743459+05:30'
-collected_at: '2026-06-22T15:26:56.743474+05:30'
+published_at: '2026-06-23T01:19:00.188451+05:30'
+collected_at: '2026-06-23T01:19:00.188460+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:atlassian-documentation-atlassian-support-atlassia
-first_seen: '2026-06-22T15:26:56.743474+05:30'
-last_seen: '2026-06-22T15:26:56.743474+05:30'
-last_checked: '2026-06-22T15:26:56.743474+05:30'
+first_seen: '2026-06-23T01:19:00.188460+05:30'
+last_seen: '2026-06-23T01:19:00.188460+05:30'
+last_checked: '2026-06-23T01:19:00.188460+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Atlassian provides **separate documentation portals** for **Cloud** and **Data Center** deployments, covering products like **Jira Software, Jira Service Management, Confluence, Bitbucket, and Opsgenie**, with version-specific guides (e.g., Jira Software Data Center 11.3).
-
-- **Developer resources** include API documentation and integration guides via the [Atlassian Developer Portal](https://developer.atlassian.com/docs/), while **enterprise-focused** documentation addresses **Data Center scalability and architecture** for large-scale deployments.
-
-- Additional tools like **Bamboo, Crucible, Fisheye, Crowd, and Sourcetree** have dedicated documentation pages, and **Questions for Confluence** offers specialized knowledge base features.
+- Atlassian provides centralized documentation for **Cloud** and **Data Center** deployments, covering products like **Jira Software, Jira Service Management, Confluence, Bitbucket, Bamboo, and Opsgenie**, with version-specific guides (e.g., Jira Software Data Center 11.3).
+- Developer resources include **API documentation and integration guides** for app development, accessible via [developer.atlassian.com/docs](https://developer.atlassian.com/docs/).
+- Enterprise-focused documentation details **Atlassian Enterprise and Data Center** architectures, with links to [enterprise-specific resources](https://confluence.atlassian.com/enterprise/atlassian-enterprise-documentation-587303541.html).
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:26:56.743459+05:30
+- Published: 2026-06-23T01:19:00.188451+05:30
 
 ## Related Tags
 

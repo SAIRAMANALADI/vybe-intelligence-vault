@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com
-published_at: '2026-06-22T15:20:27.395631+05:30'
-collected_at: '2026-06-22T15:20:27.395649+05:30'
+published_at: '2026-06-23T01:11:26.927395+05:30'
+collected_at: '2026-06-23T01:11:26.927412+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-mobile-app-developer-tools-android-develop
-first_seen: '2026-06-22T15:20:27.395649+05:30'
-last_seen: '2026-06-22T15:20:27.395649+05:30'
-last_checked: '2026-06-22T15:20:27.395649+05:30'
+first_seen: '2026-06-23T01:11:26.927412+05:30'
+last_seen: '2026-06-23T01:11:26.927412+05:30'
+last_checked: '2026-06-23T01:11:26.927412+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- Android 17 (API 37) source code is now live on AOSP, with rollout to supported Pixel devices; key updates require app adaptations for compatibility.
-- Android XR platform expands engine support and resources for building, testing, and scaling immersive experiences across devices.
-- Android Studio Quail 1 | 2026.1.1 Patch 2 introduces new SDK tools under a restricted license, prohibiting reverse engineering, derivative works, or unauthorized redistribution.
+- **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app compatibility and new features.
+
+- **Android XR & AI Integration**: Expanded engine support for XR development; Android evolving into an AI-driven intelligence system with new tools for building intelligent experiences.
+
+- **SDK License Terms**: Strict usage restrictions; prohibits reverse engineering, derivative works, or unauthorized redistribution; Google retains all IP rights; compliance with export laws required.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:20:27.395631+05:30
+- Published: 2026-06-23T01:11:26.927395+05:30
 
 ## Related Tags
 

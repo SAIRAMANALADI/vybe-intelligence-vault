@@ -2,17 +2,17 @@
 title: Medium Help Center
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://help.medium.com/hc/en-us?source=post_page
+source_url: https://help.medium.com/hc/en-us?source=
 resource_id: blog:medium-help-center
 local_vault_path: ai/rag/medium-help-center.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Medium Help Center
@@ -21,15 +21,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Medium's **Partner Program** enables monetization via the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187), with earnings calculated based on [Partner Program earnings dashboard](https://help.medium.com/hc/en-us/articles/360007171314) and [earnings algorithm](https://help.medium.com/hc/en-us/articles/360036691193).
-- **Publications** on Medium allow collaborative content curation, with submission management via [story submission workflow](https://help.medium.com/
+- **Account Management**: Medium provides granular control over user profiles, email preferences, social media integrations, and subscription management via dedicated settings and URL customization tools.
+- **Content Distribution & Monetization**: Stories published on Medium follow a multi-tier distribution system (Boost/General/Network), with eligibility for the Partner Program enabling revenue generation through curated content.
+- **Safety & Compliance**: Medium enforces strict content policie
 
 ## Use Cases
 
@@ -39,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://help.medium.com/hc/en-us?source=post_page
+Original source URL: https://help.medium.com/hc/en-us?source=
 
 ## Local Vault File
 

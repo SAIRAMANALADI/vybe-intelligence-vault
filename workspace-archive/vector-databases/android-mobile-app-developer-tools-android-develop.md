@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Android 17 (API 37) source code is now live on AOSP, with rollout to supported Pixel devices; key updates require app adaptations for compatibility.
-- Android XR platform expands engine support and resources for building, testing, and scaling immersive experiences across devices.
-- Android Studio Quail 1 | 2026.1.1 Patch 2 introduces new SDK tools under a restricted license, prohibiting reverse engineering, derivative works, or unauthorized redistribution.
+- **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app compatibility and new features.
+
+- **Android XR & AI Integration**: Expanded engine support for XR development; Android evolving into an AI-driven intelligence system with new tools for building intelligent experiences.
+
+- **SDK License Terms**: Strict usage restrictions; prohibits reverse engineering, derivative works, or unauthorized redistribution; Google reta
 
 ## Use Cases
 

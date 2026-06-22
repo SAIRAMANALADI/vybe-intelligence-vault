@@ -9,13 +9,14 @@ collected_at: '2026-06-22T15:16:21.363062+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:koala73/worldmonitor
 first_seen: '2026-06-21T20:19:14.645687+05:30'
 last_seen: '2026-06-22T15:16:21.363062+05:30'
 last_checked: '2026-06-22T15:16:21.363062+05:30'
 health_score: 100
 ---
+
 
 # koala73/worldmonitor
 

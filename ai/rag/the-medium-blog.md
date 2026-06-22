@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/blog?source=collection_home_page
+source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
-----15f753907972----------------------------------------
-published_at: '2026-06-22T15:24:03.634664+05:30'
-collected_at: '2026-06-22T15:24:03.634681+05:30'
+-----d10bb5769280---------------------------------------
+published_at: '2026-06-23T01:05:09.094200+05:30'
+collected_at: '2026-06-23T01:05:09.094212+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-22T15:24:03.634681+05:30'
-last_seen: '2026-06-22T15:24:03.634681+05:30'
-last_checked: '2026-06-22T15:24:03.634681+05:30'
+first_seen: '2026-06-23T01:05:09.094212+05:30'
+last_seen: '2026-06-23T01:05:09.094212+05:30'
+last_checked: '2026-06-23T01:05:09.094212+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Medium's sitemap** (`/sitemap.xml`) provides structured XML-based navigation for indexing content, including blog posts, topics, and user-generated articles.
-- **Authentication endpoints** (`/m/signin`, `/m/register`) use OAuth2-based redirects for session management, enabling secure user access to publishing and account features.
-- **Content delivery** leverages CDN-hosted static assets (e.g., `/resize:fill:*`) and dynamic APIs for responsive image rendering and real-time updates.
+- **Authentication & Navigation**: Medium employs OAuth2-based authentication flows for sign-in (`/m/signin`) and registration (`/m/signin?operation=register`), with redirects to post-auth endpoints (e.g., `/new-story`). The UI integrates a global navigation bar with persistent links to sitemap, app download, search, and write functionality.
+
+- **Content & Editorial Structure**: The Medium Blog (official publication) aggregates content via topic-based URLs (e.g., `/all?topic=product`) and features 5+ editors. Follower counts (3.4M) and contributor avatars (e.g., Scott Lamb, Kassandra @ Medium) are dynamically rendered, while promotional banners use responsive image endpoints (`resize:fit:500/900`).
+
+- **Platform Integration & Policies**: Cross-platform links (Android app, text-to-speech) and legal endpoints (Privacy, Terms, Rules) are centralized under `/policy/` and `/help/`. Status checks are available via `status.medium.com`, and newsletter subscriptions leverage `/newsletter` with weekly delivery.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:24:03.634664+05:30
+- Published: 2026-06-23T01:05:09.094200+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/blog?source=collection_home_page----15f753907972----------------------------------------
+Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------

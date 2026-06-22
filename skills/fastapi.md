@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 92 resources matched in the intelligence vault.
+Active signals: 95 resources matched in the intelligence vault.
 Recently detected signals:
-- [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Data tools | resources.data.gov](../ai/agents/data-tools-resources-data-gov.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Docker Hub | Docker Docs](../ai/resources/docker-hub-docker-docs.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Canvas LMS | Instructure Developer Documentation Portal](../ai/resources/canvas-lms-instructure-developer-documentation-por.md) (Source: Unknown Source) - Collected 2026-06-22
-- [WordPress.tv – WordPress-related videos curated and moderated by the WordPress.org community](../ai/resources/wordpress-tv-wordpress-related-videos-curated-and.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Jobs | Solana Network Opportunities Job Board](../ai/rag/jobs-solana-network-opportunities-job-board.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Cloud developer documentation - Atlassian Developer](../ai/rag/cloud-developer-documentation-atlassian-developer.md) (Source: Unknown Source) - Collected 2026-06-23
+- [The Opera Blog - News | Opera](../ai/rag/the-opera-blog-news-opera.md) (Source: Unknown Source) - Collected 2026-06-23
+- [WasmAssembly](../ai/resources/wasmassembly.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -85,22 +85,17 @@ Recently detected signals:
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 12. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
-- Stars: 0
-- Language: Unknown
-- Description: - **Jekyll Static Site Generator**: Repository contains the source for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`).
-
-### 13. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 12. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 14. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 13. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
-### 15. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 14. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: huggingface/transformers
@@ -125,4 +120,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T03:04:01.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

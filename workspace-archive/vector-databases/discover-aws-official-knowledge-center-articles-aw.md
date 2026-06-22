@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Troubleshoot Amazon S3 replication issues by verifying IAM permissions, bucket policies, replication configuration, and destination bucket ownership.
-- **EC2 SSH Connection Errors**: Resolve "Connection refused" or "Connection timed out" errors by checking security group rules, network ACLs, instance status, and SSH configuration.
-- **API Gateway 403 Errors**: Diagnose HTTP 403 errors in API Gateway by validating IAM policies, resource policies, API keys, and CORS
+- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or replication timeouts; verify destination bucket ownership and encryption settings.
+
+- **EC2 SSH Connection Errors**: "Connection refused" typically indicates security group misconfiguration (denied inbound SSH/port 22) or instance-level firewall rules; "Permission denied" errors often stem from incorrect key pair associa
 
 ## Use Cases
 

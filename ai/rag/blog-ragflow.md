@@ -4,19 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://ragflow.io/blog
-published_at: '2026-06-22T11:14:11.694113+05:30'
-collected_at: '2026-06-22T11:14:11.694123+05:30'
+published_at: '2026-06-23T01:05:04.310169+05:30'
+collected_at: '2026-06-23T01:05:04.310177+05:30'
 tags:
-- anthropic
-- hackernews
-- openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:blog-ragflow
-first_seen: '2026-06-22T11:14:11.694123+05:30'
-last_seen: '2026-06-22T11:14:11.694123+05:30'
-last_checked: '2026-06-22T11:14:11.694123+05:30'
+first_seen: '2026-06-23T01:05:04.310177+05:30'
+last_seen: '2026-06-23T01:05:04.310177+05:30'
+last_checked: '2026-06-23T01:05:04.310177+05:30'
 health_score: 100
 ---
 
@@ -24,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic, local models) with standardized input/output handling; introduced provider-specific adapters for seamless integration and reduced boilerplate.
+- **API & Model Provider Refactoring**: RAGFlow 0.26 introduces a modularized architecture for API and model provider integration, enabling dynamic loading/unloading of providers and improved extensibility via standardized interfaces.
 
-- **Incremental Data Sources**: Implemented delta updates for document ingestion, enabling efficient synchronization with external sources (e.g., databases, APIs) via change detection (e.g., timestamps, versioning) without full reprocessing.
+- **Incremental Data Sources**: Supports incremental data ingestion from connected sources (e.g., databases, APIs), reducing redundant processing by tracking and updating only new or modified content.
 
-- **Performance Optimizations**: Reduced latency in embedding generation (~20% faster) via batched inference and optimized vector storage indexing (HNSW) for low-latency retrieval in large-scale RAG pipelines.
+- **Performance Optimizations**: Enhanced parallel processing for embedding generation and retrieval, reducing latency in RAG pipelines while maintaining high throughput.
 
 ## Why It Matters
 
@@ -38,13 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:14:11.694113+05:30
+- Published: 2026-06-23T01:05:04.310169+05:30
 
 ## Related Tags
 
-- anthropic
-- hackernews
-- openai
 - rag
 - web-crawled
 

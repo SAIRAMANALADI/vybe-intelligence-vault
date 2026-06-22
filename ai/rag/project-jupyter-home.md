@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyter.org
-published_at: '2026-06-22T15:51:55.520818+05:30'
-collected_at: '2026-06-22T15:51:55.520838+05:30'
+published_at: '2026-06-23T01:12:35.881584+05:30'
+collected_at: '2026-06-23T01:12:35.881592+05:30'
 tags:
 - rag
 - reddit
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:project-jupyter-home
-first_seen: '2026-06-22T15:51:55.520838+05:30'
-last_seen: '2026-06-22T15:51:55.520838+05:30'
-last_checked: '2026-06-22T15:51:55.520838+05:30'
+first_seen: '2026-06-23T01:12:35.881592+05:30'
+last_seen: '2026-06-23T01:12:35.881592+05:30'
+last_checked: '2026-06-23T01:12:35.881592+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with configurable, multi-pane workspaces for advanced workflows in data science, ML, and scientific computing.
+- **JupyterLab** is a modular, extensible, web-based IDE supporting notebooks, code, and data workflows, with flexible workspace configurations (single/multi-document) and extension support for enhanced functionality.
 
-- **Jupyter Notebook** is the original document-centric interface for creating and sharing computational documents, supporting >40 languages (Python, R, Julia, Scala) with rich interactive outputs (HTML, LaTeX, videos) and big data integration (Spark, pandas, TensorFlow).
+- **Jupyter Notebook** is a document-centric, web-based interface for creating/sharing computational documents with support for **40+ languages**, rich interactive outputs (HTML, LaTeX, etc.), and big data integration (e.g., Apache Spark, pandas, TensorFlow).
 
-- **JupyterHub** enables scalable, multi-user deployments with pluggable authentication (PAM/OAuth), container support (Docker/Kubernetes), centralized infrastructure, and tools like **Voilà** for transforming notebooks into secure, shareable web apps.
+- **JupyterHub** enables centralized, scalable deployments with pluggable authentication (PAM/OAuth), container-friendly (Docker/Kubernetes) infrastructure, and supports open standards like the **Notebook Document Format (JSON-based)** and **Interactive Computing Protocol (JSON over ZMQ/WebSockets)** for kernel communication.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:51:55.520818+05:30
+- Published: 2026-06-23T01:12:35.881584+05:30
 
 ## Related Tags
 

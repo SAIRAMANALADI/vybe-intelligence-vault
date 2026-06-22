@@ -9,13 +9,14 @@ collected_at: '2026-06-22T15:16:21.364334+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:smicallef/spiderfoot
 first_seen: '2026-06-21T20:19:14.646592+05:30'
 last_seen: '2026-06-22T15:16:21.364334+05:30'
 last_checked: '2026-06-22T15:16:21.364334+05:30'
 health_score: 100
 ---
+
 
 # smicallef/spiderfoot
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified ORM Framework**: SQLModel combines SQLAlchemy (ORM) and Pydantic (data validation) into a single Python class, enabling type-annotated SQL table definitions with minimal code duplication while maintaining full compatibility with both underlying libraries.
+- **Unified ORM Framework**: SQLModel combines Pydantic (for data validation) and SQLAlchemy (for database interactions) into a single library, enabling Python type annotations to define both data models and database schemas with minimal code duplication.
 
-- **FastAPI Integration**: Designed specifically for FastAPI, it streamlines SQL database interactions by providing autocompletion, inline error detection, and seamless CRUD operations with SQLite/PostgreSQL via a thin abstraction
+- **FastAPI Integration**: Designed for seamless compatibility with FastAPI, SQLModel reduces boilerplate by allowing direct use of SQLModel models as Pydantic schemas in FastAPI endpoints while maintaining SQLAlchemy’s full ORM capabilities.
 
 ## Use Cases
 

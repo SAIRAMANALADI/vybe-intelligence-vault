@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **CPython Development Workflow**: Requires forking the [CPython repository](https://github.com/python/cpython), setting up Git, and building Python from source using platform-specific commands (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix). Tests are executed via `./python -m test -j3`.
+- **CPython Development Setup**: Requires Git, C compiler, and dependencies; build commands vary by platform (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix, `PCbuild\build.bat -e -d` for Windows).
 
-- **Contribution Process**: Contributors must sign the [Contributor Licensing Agreement (CLA)](https://devguide.python.org/getting-started/pull-request-lifecycle/#cla), submit pull requests
+- **Contribution Workflow**: Fork [CPython](https://github.com/python/cpython), create a branch (e.g., `git checkout -b fix-issue-12345 main`), implement changes, run tests (`./python -m test -j3`), and submit a PR with `gh-NNNNNN` prefix and `Misc/NEWS.d/` entry via `blurb`.
+
+- **Tr
 
 ## Use Cases
 

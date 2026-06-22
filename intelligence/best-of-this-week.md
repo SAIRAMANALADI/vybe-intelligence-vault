@@ -12,12 +12,12 @@ Curated highlights from the current week's collection, representing high-quality
 *   [crewAIInc/crewAI Release: 1.14.8a2](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
+*   [Jira | Atlassian Community](https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software) (Score: 70) - Category: `ai-coding-agents/`
 *   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
 *   [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237) (Score: 70) - Category: `ai-coding-agents/`
 *   [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) (Score: 70) - Category: `ai-coding-agents/`
 *   [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) (Score: 70) - Category: `ai-coding-agents/`
 *   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
 *   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
-*   [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](https://artificialanalysis.ai/agents/coding-agents) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

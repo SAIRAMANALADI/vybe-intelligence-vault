@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Atlassian Cloud apps leverage **Forge** (serverless platform) and **Connect** (UI extensions) frameworks, differing from Data Center apps which use **Server** or **DC apps** architecture.
-- **REST APIs** and **GraphQL** endpoints are provided for Jira, Confluence, Bitbucket, and other Atlassian Cloud products, with dedicated modules for AI-powered tools like **Rovo Agents** and **Atlassian MCP server**.
-- **OAuth 2.0** and **SCIM** are supported for authentication and user provisioning, while
+- **Cloud vs. Data Center Apps**: Atlassian Cloud apps differ fundamentally from Data Center apps, requiring distinct development approaches; Cloud apps leverage Forge, Connect, or REST APIs for integration.
+- **Forge & AI Integration**: Forge enables AI-powered development via Rovo Agents and MCP server, while Atlassian GraphQL API provides unified access to platform services.
+- **Platform-Specific APIs**: Each Atlassian Cloud product (Jira, Confluence, Bitbucket, etc.) offers dedicated REST/Gr
 
 ## Use Cases
 

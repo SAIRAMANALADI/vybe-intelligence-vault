@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - models
-status: active
+status: inactive
 resource_id: hackernews:good-results-fine-tuning-a-local-llm-like-qwen-3-0
 first_seen: '2026-06-22T10:21:38.319419+05:30'
 last_seen: '2026-06-22T15:16:21.817179+05:30'
 last_checked: '2026-06-22T15:16:21.817179+05:30'
 health_score: 100
 ---
+
 
 # Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions
 

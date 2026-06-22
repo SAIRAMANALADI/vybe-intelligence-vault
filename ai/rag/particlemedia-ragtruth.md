@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-22T11:16:45.422420+05:30'
+collected_at: '2026-06-23T01:07:44.892986+05:30'
 published_at: '2026-06-19T20:18:39Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-22T11:16:45.422420+05:30'
-last_seen: '2026-06-22T11:16:45.422420+05:30'
-last_checked: '2026-06-22T11:16:45.422420+05:30'
+first_seen: '2026-06-23T01:07:44.892986+05:30'
+last_seen: '2026-06-23T01:07:44.892986+05:30'
+last_checked: '2026-06-23T01:07:44.892986+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and quantifying hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) systems by identifying and mitigating hallucinations in generated outputs.
 
-- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucinations in RAG systems, leveraging synthetic and real-world data to simulate retrieval errors and inconsistencies.
+- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucination datasets, leveraging retrieval-augmented architectures to simulate real-world inaccuracies.
 
-- **Evaluation Framework**: Provides metrics and methodologies for assessing hallucination rates, enabling developers to fine-tune RAG models for higher factual accuracy and reliability in downstream tasks.
+- **Evaluation Framework**: Provides metrics and methodologies for assessing RAG model performance, focusing on hallucination detection, correction, and reliability in downstream tasks.
 
 ## Why It Matters
 

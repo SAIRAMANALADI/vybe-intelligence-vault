@@ -14,7 +14,6 @@ tags:
 - agents
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Loop Engineering in Agents**: Introduces methodologies for designing iterative agent workflows, emphasizing dynamic feedback loops for improved adaptability and decision-making in agent architectures.
+- **Loop Engineering in Agents**: Introduces iterative feedback loops for agent self-correction, emphasizing dynamic adaptation in agent architectures for improved performance and reliability.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent systems, ensuring flexibility and cost efficiency in AI deployments.
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs) is more critical than cloud neutrality, as it enables flexibility in model selection without vendor lock-in.
 
-- **Fault Tolerance in LangGraph**: Details LangGraph
+- **Fault Tolerance in LangGraph**: Details retry mechanisms, timeouts, and error handlers in Lan
 
 ## Use Cases
 

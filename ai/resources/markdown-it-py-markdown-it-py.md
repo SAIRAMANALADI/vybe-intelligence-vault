@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://markdown-it-py.readthedocs.io
-published_at: '2026-06-22T11:32:27.247499+05:30'
-collected_at: '2026-06-22T11:32:27.247510+05:30'
+published_at: '2026-06-23T01:15:27.191187+05:30'
+collected_at: '2026-06-23T01:15:27.191196+05:30'
 tags:
 - benchmark
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:markdown-it-py-markdown-it-py
-first_seen: '2026-06-22T11:32:27.247510+05:30'
-last_seen: '2026-06-22T11:32:27.247510+05:30'
-last_checked: '2026-06-22T11:32:27.247510+05:30'
+first_seen: '2026-06-23T01:15:27.191196+05:30'
+last_seen: '2026-06-23T01:15:27.191196+05:30'
+last_checked: '2026-06-23T01:15:27.191196+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Python port of `markdown-it` adhering to the **CommonMark spec** with configurable syntax rules and pluggable extensions.
-- High-performance parser with **benchmarking support**, security hardening, and Google Assured Open Source Software membership.
-- Maintains structural parity with the original JavaScript implementation while incorporating Pythonic syntax enhancements.
+- Python port of the JavaScript `markdown-it` parser, maintaining structural parity with minimal Pythonic syntactical adjustments.
+- Fully compliant with the **CommonMark specification**, supports extensible syntax via configurable rules and pluggable extensions.
+- Optimized for performance, security, and interoperability (e.g., Google Assured OSS, CommonMark benchmarking).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:32:27.247499+05:30
+- Published: 2026-06-23T01:15:27.191187+05:30
 
 ## Related Tags
 

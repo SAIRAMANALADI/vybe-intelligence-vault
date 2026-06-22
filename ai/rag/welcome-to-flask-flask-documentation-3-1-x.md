@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://flask.palletsprojects.com
-published_at: '2026-06-22T10:27:58.613900+05:30'
-collected_at: '2026-06-22T10:27:58.613912+05:30'
+published_at: '2026-06-23T01:10:17.945420+05:30'
+collected_at: '2026-06-23T01:10:17.945429+05:30'
 tags:
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 status: active
 resource_id: blog:welcome-to-flask-flask-documentation-3-1-x
-first_seen: '2026-06-22T10:27:58.613912+05:30'
-last_seen: '2026-06-22T10:27:58.613912+05:30'
-last_checked: '2026-06-22T10:27:58.613912+05:30'
+first_seen: '2026-06-23T01:10:17.945429+05:30'
+last_seen: '2026-06-23T01:10:17.945429+05:30'
+last_checked: '2026-06-23T01:10:17.945429+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development with modular architecture.
+- **Framework Overview**: Flask is a lightweight WSGI web application framework designed for rapid development and scalability, leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit).
 
-- Core components include request/response handling, templating (Jinja2), configuration management, error handling, and modular blueprints for application structuring and URL routing.
+- **Core Components**: Key features include routing, template rendering, request/response handling, session management, error handling, and modular application design via Blueprints.
 
-- Supports development via built-in server, CLI for task automation, signals for event handling, and integrates extensions for extended functionality (e.g., SQLAlchemy, caching).
+- **Configuration & Extensibility**: Supports dynamic configuration (Python files, environment variables, instance folders) and integrates community extensions for enhanced functionality (e.g., SQLAlchemy, caching, file uploads).
 
 ## Why It Matters
 
@@ -38,14 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:27:58.613900+05:30
+- Published: 2026-06-23T01:10:17.945420+05:30
 
 ## Related Tags
 
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 
 ## Source

@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Customer Support](../ai/resources/customer-support.md) ([Source URL](https://support.granicus.com/s/article/granicus-llc-subscriber-cookie-statement))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:58:17.497055+05:30
-- **Local Path**: `ai/resources/customer-support.md`
-
-### 2. [How to Apply for a Federal Funding Opportunity on Grants.gov – Grants.gov Community Blog](../ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md) ([Source URL](https://grantsgovprod.wordpress.com/2021/04/28/how-to-apply-for-a-federal-funding-opportunity-on-grants-gov))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:58:08.778944+05:30
-- **Local Path**: `ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md`
-
-### 3. [Tanium Titans Community](../ai/resources/tanium-titans-community.md) ([Source URL](https://community.tanium.com/s/developer-community))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:58:05.506061+05:30
-- **Local Path**: `ai/resources/tanium-titans-community.md`
-
-### 4. [Solodit](../ai/resources/solodit.md) ([Source URL](https://support.cyfrin.io/solodit/overview))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:58:01.219643+05:30
-- **Local Path**: `ai/resources/solodit.md`
-
-### 5. [Lesson Plan: Intro to Web Lab - Code.org](../ai/resources/lesson-plan-intro-to-web-lab-code-org.md) ([Source URL](https://studio.code.org/courses/intro-to-web-lab/units/1/lessons/1))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:57.108288+05:30
-- **Local Path**: `ai/resources/lesson-plan-intro-to-web-lab-code-org.md`
-
-### 6. [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md) ([Source URL](https://community.utexas.edu/disability))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:52.429838+05:30
-- **Local Path**: `ai/resources/the-university-of-texas-at-austin.md`
-
-### 7. [Predicting Viral Hijacking Through Genome-Scale Modeling | Article | PNNL](../ai/rag/predicting-viral-hijacking-through-genome-scale-mo.md) ([Source URL](https://pnnl.gov/publications/predicting-viral-hijacking-through-genome-scale-modeling))
+### 1. [Quickstart | GitBook Documentation](../ai/rag/quickstart-gitbook-documentation.md) ([Source URL](https://gitbook.com/docs/getting-started/quickstart))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:57:40.816460+05:30
-- **Local Path**: `ai/rag/predicting-viral-hijacking-through-genome-scale-mo.md`
+- **Collected At**: 2026-06-23T01:24:19.576257+05:30
+- **Local Path**: `ai/rag/quickstart-gitbook-documentation.md`
 
-### 8. [Research.gov - Grants Management for NSF Community](../ai/resources/research-gov-grants-management-for-nsf-community.md) ([Source URL](https://research.gov/research-web))
+### 2. [Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry](../ai/resources/hypertext-transfer-protocol-http-authentication-sc.md) ([Source URL](http://iana.org/assignments/http-authschemes))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:34.715336+05:30
-- **Local Path**: `ai/resources/research-gov-grants-management-for-nsf-community.md`
+- **Collected At**: 2026-06-23T01:24:15.720534+05:30
+- **Local Path**: `ai/resources/hypertext-transfer-protocol-http-authentication-sc.md`
 
-### 9. [Table of contents — voila 0.5.8 documentation](../ai/resources/table-of-contents-voila-0-5-8-documentation.md) ([Source URL](https://voila.readthedocs.io))
+### 3. [GitBook Status](../ai/resources/gitbook-status.md) ([Source URL](https://gitbookstatus.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:30.656785+05:30
-- **Local Path**: `ai/resources/table-of-contents-voila-0-5-8-documentation.md`
+- **Collected At**: 2026-06-23T01:24:12.442469+05:30
+- **Local Path**: `ai/resources/gitbook-status.md`
 
-### 10. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source URL](https://peps.python.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:57:26.024086+05:30
-- **Local Path**: `ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md`
-
-### 11. [CAS - Central Authentication Service Login](../ai/resources/cas-central-authentication-service-login.md) ([Source URL](https://freedom-to-tinker.com/2016/01/14/the-web-privacy-problem-is-a-transparency-problem-introducing-the-openwpm-measurement-tool))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:21.432214+05:30
-- **Local Path**: `ai/resources/cas-central-authentication-service-login.md`
-
-### 12. [k12cs.org – K–12 Computer Science Framework](../ai/resources/k12cs-org-k-12-computer-science-framework.md) ([Source URL](https://k12cs.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:12.917886+05:30
-- **Local Path**: `ai/resources/k12cs-org-k-12-computer-science-framework.md`
-
-### 13. [Notetaking (Notetakers) Home](../ai/resources/notetaking-notetakers-home.md) ([Source URL](https://ssdportal.ddce.utexas.edu/clockwork/user/notetakingnotetakers/default.aspx))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:07.785811+05:30
-- **Local Path**: `ai/resources/notetaking-notetakers-home.md`
-
-### 14. [Get a UCLA job — ASUCLA](../ai/resources/get-a-ucla-job-asucla.md) ([Source URL](https://asucla.ucla.edu/get-a-job))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:57:03.789133+05:30
-- **Local Path**: `ai/resources/get-a-ucla-job-asucla.md`
-
-### 15. [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md) ([Source URL](https://defineamerican.com/research/immigrants-belong-toolkit))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:59.173612+05:30
-- **Local Path**: `ai/rag/immigrants-belong-toolkit-define-american.md`
-
-### 16. [Project Pythia](../ai/rag/project-pythia.md) ([Source URL](https://projectpythia.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:53.453931+05:30
-- **Local Path**: `ai/rag/project-pythia.md`
-
-### 17. [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) ([Source URL](https://jupyter-server.readthedocs.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:49.098865+05:30
-- **Local Path**: `ai/rag/welcome-jupyter-server-documentation.md`
-
-### 18. [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md) ([Source URL](https://chameleoncloud.gitbook.io/chi-edge/getting-started))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:56:44.440642+05:30
-- **Local Path**: `ai/resources/getting-started-chi-edge.md`
-
-### 19. [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md) ([Source URL](https://engineering.princeton.edu/news/2026/06/16/new-way-look-developing-lifeforms-using-energy-predict-action))
+### 4. [Overview | GitBook Documentation](../ai/agents/overview-gitbook-documentation.md) ([Source URL](https://gitbook.com/docs))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T15:56:39.010907+05:30
-- **Local Path**: `ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md`
+- **Collected At**: 2026-06-23T01:24:07.994856+05:30
+- **Local Path**: `ai/agents/overview-gitbook-documentation.md`
 
-### 20. [UCOP Facilities Manual](../ai/resources/ucop-facilities-manual.md) ([Source URL](https://facilitiesmanual.ucop.edu))
+### 5. [Hypertext Transfer Protocol (HTTP) Status Code Registry](../ai/rag/hypertext-transfer-protocol-http-status-code-regis.md) ([Source URL](http://iana.org/assignments/http-status-codes))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:24:03.374613+05:30
+- **Local Path**: `ai/rag/hypertext-transfer-protocol-http-status-code-regis.md`
+
+### 6. [v2.realms.today](../ai/resources/v2-realms-today.md) ([Source URL](https://v2.realms.today))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:56:35.071671+05:30
-- **Local Path**: `ai/resources/ucop-facilities-manual.md`
+- **Collected At**: 2026-06-23T01:23:57.266603+05:30
+- **Local Path**: `ai/resources/v2-realms-today.md`
 
-### 21. [CIRCT](../ai/rag/circt.md) ([Source URL](https://circt.llvm.org))
+### 7. [Marinade Price Today, MNDE to USD live price chart, marketcap & news](../ai/rag/marinade-price-today-mnde-to-usd-live-price-chart.md) ([Source URL](https://jup.ag/tokens/mndefzgvmt87ueuhvvu9vctqsap5b3ftgpshuupa5ey))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:30.626416+05:30
-- **Local Path**: `ai/rag/circt.md`
+- **Collected At**: 2026-06-23T01:23:53.911875+05:30
+- **Local Path**: `ai/rag/marinade-price-today-mnde-to-usd-live-price-chart.md`
 
-### 22. [Law Library](../ai/resources/law-library.md) ([Source URL](https://law.library.cornell.edu))
+### 8. [SSI - Solana Staking Index](../ai/resources/ssi-solana-staking-index.md) ([Source URL](https://solstakingindex.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:56:25.941878+05:30
-- **Local Path**: `ai/resources/law-library.md`
+- **Collected At**: 2026-06-23T01:23:50.490466+05:30
+- **Local Path**: `ai/resources/ssi-solana-staking-index.md`
 
-### 23. [What is the Rich Content Editor (RCE)? - Instructure Community](../ai/rag/what-is-the-rich-content-editor-rce-instructure-co.md) ([Source URL](https://community.instructure.com/en/kb/articles/662769-what-is-the-rich-content-editor-rce))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:21.116085+05:30
-- **Local Path**: `ai/rag/what-is-the-rich-content-editor-rce-instructure-co.md`
-
-### 24. [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](../ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md) ([Source URL](https://nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship))
+### 9. [Jito Explorer | Bundles Overview](../ai/resources/jito-explorer-bundles-overview.md) ([Source URL](https://explorer.jito.wtf))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:56:15.780811+05:30
-- **Local Path**: `ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md`
+- **Collected At**: 2026-06-23T01:23:46.324323+05:30
+- **Local Path**: `ai/resources/jito-explorer-bundles-overview.md`
 
-### 25. [| UCOP](../ai/rag/ucop.md) ([Source URL](https://ucop.edu/terms))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:08.258671+05:30
-- **Local Path**: `ai/rag/ucop.md`
-
-### 26. [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md) ([Source URL](https://puzzles.modular.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:56:03.336688+05:30
-- **Local Path**: `ai/rag/introduction-mojo-gpu-puzzles.md`
-
-### 27. [MESA | Mathematics, Engineering, Science, Achievement](../ai/rag/mesa-mathematics-engineering-science-achievement.md) ([Source URL](https://mesa.ucop.edu))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:55:58.813026+05:30
-- **Local Path**: `ai/rag/mesa-mathematics-engineering-science-achievement.md`
-
-### 28. [The NPDB - Health Care Organizations Sign In](../ai/rag/the-npdb-health-care-organizations-sign-in.md) ([Source URL](https://iqrs.npdb.hrsa.gov))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:55:54.593111+05:30
-- **Local Path**: `ai/rag/the-npdb-health-care-organizations-sign-in.md`
-
-### 29. [Zendesk Status](../ai/resources/zendesk-status.md) ([Source URL](https://status.zendesk.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:51.846927+05:30
-- **Local Path**: `ai/resources/zendesk-status.md`
-
-### 30. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:55:47.888808+05:30
-- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
-
-### 31. [UCLA - Official Athletics Website](../ai/resources/ucla-official-athletics-website.md) ([Source URL](https://uclabruins.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:39.775888+05:30
-- **Local Path**: `ai/resources/ucla-official-athletics-website.md`
-
-### 32. [Web Privacy Policy | Enterprise Technology](../ai/rag/web-privacy-policy-enterprise-technology.md) ([Source URL](https://utexas.edu/web-privacy-policy))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:55:34.559571+05:30
-- **Local Path**: `ai/rag/web-privacy-policy-enterprise-technology.md`
-
-### 33. [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) ([Source URL](https://openai.github.io/openai-agents-js/extensions/ai-sdk))
+### 10. [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md) ([Source URL](https://gitbook.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T15:55:29.794237+05:30
-- **Local Path**: `ai/agents/ai-sdk-integration-openai-agents-sdk.md`
+- **Collected At**: 2026-06-23T01:23:41.601357+05:30
+- **Local Path**: `ai/agents/the-knowledge-layer-for-ai-gitbook.md`
 
-### 34. [Data Privacy Framework](../ai/resources/data-privacy-framework.md) ([Source URL](https://dataprivacyframework.gov))
+### 11. [Ashby](../ai/resources/ashby.md) ([Source URL](https://developers.ashbyhq.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:26.028867+05:30
-- **Local Path**: `ai/resources/data-privacy-framework.md`
+- **Collected At**: 2026-06-23T01:23:37.476935+05:30
+- **Local Path**: `ai/resources/ashby.md`
 
-### 35. [Cornell Tech](../ai/rag/cornell-tech.md) ([Source URL](http://tech.cornell.edu))
+### 12. [All-in-one Recruiting Software for Ambitious Teams | Ashby](../ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md) ([Source URL](https://ashbyhq.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:23:29.021589+05:30
+- **Local Path**: `ai/resources/all-in-one-recruiting-software-for-ambitious-teams.md`
+
+### 13. [Realms](../ai/rag/realms.md) ([Source URL](https://app.realms.today/dao/mnde))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:55:18.299179+05:30
-- **Local Path**: `ai/rag/cornell-tech.md`
+- **Collected At**: 2026-06-23T01:23:24.971354+05:30
+- **Local Path**: `ai/rag/realms.md`
 
-### 36. [Legislative Developments | U.S. Copyright Office](../ai/resources/legislative-developments-u-s-copyright-office.md) ([Source URL](https://copyright.gov/legislation))
+### 14. [Sign up - Mintlify](../ai/resources/sign-up-mintlify.md) ([Source URL](https://mintlify.com/start))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:13.377050+05:30
-- **Local Path**: `ai/resources/legislative-developments-u-s-copyright-office.md`
+- **Collected At**: 2026-06-23T01:23:21.308527+05:30
+- **Local Path**: `ai/resources/sign-up-mintlify.md`
 
-### 37. [Home | Grants.gov](../ai/resources/home-grants-gov.md) ([Source URL](https://grants.gov))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:08.486540+05:30
-- **Local Path**: `ai/resources/home-grants-gov.md`
-
-### 38. [NSF PAR Search | NSF Public Access Repository](../ai/resources/nsf-par-search-nsf-public-access-repository.md) ([Source URL](https://par.nsf.gov))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:03.981663+05:30
-- **Local Path**: `ai/resources/nsf-par-search-nsf-public-access-repository.md`
-
-### 39. [BUY.GSA.GOV](../ai/resources/buy-gsa-gov.md) ([Source URL](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:55:01.525671+05:30
-- **Local Path**: `ai/resources/buy-gsa-gov.md`
-
-### 40. [Home | High Altitude Observatory](../ai/rag/home-high-altitude-observatory.md) ([Source URL](https://www2.hao.ucar.edu))
+### 15. [RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](../ai/rag/rfc-7235-hypertext-transfer-protocol-http-1-1-auth.md) ([Source URL](https://datatracker.ietf.org/doc/html/rfc7235))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:54:56.499762+05:30
-- **Local Path**: `ai/rag/home-high-altitude-observatory.md`
+- **Collected At**: 2026-06-23T01:23:16.469023+05:30
+- **Local Path**: `ai/rag/rfc-7235-hypertext-transfer-protocol-http-1-1-auth.md`
 
-### 41. [dev-program](../ai/resources/dev-program.md) ([Source URL](https://partners.tanium.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:52.831081+05:30
-- **Local Path**: `ai/resources/dev-program.md`
-
-### 42. [Visual Studio: IDE and Code Editor for Software Development](../ai/rag/visual-studio-ide-and-code-editor-for-software-dev.md) ([Source URL](https://visualstudio.microsoft.com))
+### 16. [Privacy policy, PostHog style](../ai/rag/privacy-policy-posthog-style.md) ([Source URL](https://posthog.com/privacy))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:54:48.325506+05:30
-- **Local Path**: `ai/rag/visual-studio-ide-and-code-editor-for-software-dev.md`
+- **Collected At**: 2026-06-23T01:23:11.460620+05:30
+- **Local Path**: `ai/rag/privacy-policy-posthog-style.md`
 
-### 43. [TeachAI | Homepage](../ai/resources/teachai-homepage.md) ([Source URL](https://teachai.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:44.583851+05:30
-- **Local Path**: `ai/resources/teachai-homepage.md`
-
-### 44. [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md) ([Source URL](https://ibm.com/think/topics/diffusion-models))
+### 17. [Marinade: Native & Liquid Solana Staking for Leading Rewards](../ai/rag/marinade-native-liquid-solana-staking-for-leading.md) ([Source URL](https://marinade.finance))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:54:39.318165+05:30
-- **Local Path**: `ai/rag/what-are-diffusion-models-ibm.md`
+- **Collected At**: 2026-06-23T01:23:07.166304+05:30
+- **Local Path**: `ai/rag/marinade-native-liquid-solana-staking-for-leading.md`
 
-### 45. [NSF - U.S. National Science Foundation](../ai/agents/nsf-u-s-national-science-foundation.md) ([Source URL](https://nsf.gov))
+### 18. [How to Create and Manage API Keys - Affinity Help Center](../ai/rag/how-to-create-and-manage-api-keys-affinity-help-ce.md) ([Source URL](https://support.affinity.co/s/article/how-to-create-and-manage-api-keys))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:23:02.652352+05:30
+- **Local Path**: `ai/rag/how-to-create-and-manage-api-keys-affinity-help-ce.md`
+
+### 19. [About Cinemachine | Cinemachine | 2.10.7](../ai/resources/about-cinemachine-cinemachine-2-10-7.md) ([Source URL](https://docs.unity3d.com/packages/com.unity.cinemachine@2.10/manual/index.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:22:58.136928+05:30
+- **Local Path**: `ai/resources/about-cinemachine-cinemachine-2-10-7.md`
+
+### 20. [Introduction - Mintlify](../ai/agents/introduction-mintlify.md) ([Source URL](https://mintlify.com/docs))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T15:54:34.886119+05:30
-- **Local Path**: `ai/agents/nsf-u-s-national-science-foundation.md`
+- **Collected At**: 2026-06-23T01:22:53.979110+05:30
+- **Local Path**: `ai/agents/introduction-mintlify.md`
 
-### 46. [Home | SAM.gov](../ai/resources/home-sam-gov.md) ([Source URL](https://sam.gov))
+### 21. [developers](../ai/resources/developers.md) ([Source URL](https://auth0.com/developers))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:30.703036+05:30
-- **Local Path**: `ai/resources/home-sam-gov.md`
+- **Collected At**: 2026-06-23T01:22:51.290257+05:30
+- **Local Path**: `ai/resources/developers.md`
 
-### 47. [RAL Home | Research Applications Laboratory](../ai/resources/ral-home-research-applications-laboratory.md) ([Source URL](https://ral.ucar.edu))
+### 22. [Amazon S3](../ai/resources/amazon-s3.md) ([Source URL](https://docs.aws.amazon.com/amazons3/latest/api/sigv4-auth-using-authorization-header.html))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:26.636555+05:30
-- **Local Path**: `ai/resources/ral-home-research-applications-laboratory.md`
+- **Collected At**: 2026-06-23T01:22:47.944290+05:30
+- **Local Path**: `ai/resources/amazon-s3.md`
 
-### 48. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
+### 23. [Mintlify Learn - Mintlify Learn](../ai/agents/mintlify-learn-mintlify-learn.md) ([Source URL](https://learn.mintlify.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-23T01:22:43.961873+05:30
+- **Local Path**: `ai/agents/mintlify-learn-mintlify-learn.md`
+
+### 24. [Jito Foundation - Community Discourse](../ai/resources/jito-foundation-community-discourse.md) ([Source URL](https://forum.jito.network))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:22.397629+05:30
-- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
+- **Collected At**: 2026-06-23T01:22:39.476945+05:30
+- **Local Path**: `ai/resources/jito-foundation-community-discourse.md`
 
-### 49. [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md) ([Source URL](https://developer.tanium.com/site/global/home/index.gsp))
+### 25. [Web Authentication (WebAuthn) Credential and Login Demo](../ai/resources/web-authentication-webauthn-credential-and-login-d.md) ([Source URL](https://webauthn.me))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:22:34.733152+05:30
+- **Local Path**: `ai/resources/web-authentication-webauthn-credential-and-login-d.md`
+
+### 26. [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md) ([Source URL](https://developer.mozilla.org/en-us/docs/web/http/authentication))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-23T01:22:29.550760+05:30
+- **Local Path**: `ai/agents/http-authentication-http-mdn.md`
+
+### 27. [Fern: Docs, SDKs, and CLIs for your API](../ai/rag/fern-docs-sdks-and-clis-for-your-api.md) ([Source URL](https://buildwithfern.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T15:54:14.418977+05:30
-- **Local Path**: `ai/rag/tanium-developer-portal.md`
+- **Collected At**: 2026-06-23T01:22:24.557561+05:30
+- **Local Path**: `ai/rag/fern-docs-sdks-and-clis-for-your-api.md`
 
-### 50. [Microsoft Research – Emerging Technology, Computer, & Software Research](../ai/resources/microsoft-research-emerging-technology-computer-so.md) ([Source URL](http://research.microsoft.com))
+### 28. [Mintlify - The Knowledge Platform Built for Agents](../ai/agents/mintlify-the-knowledge-platform-built-for-agents.md) ([Source URL](https://mintlify.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-23T01:22:20.346863+05:30
+- **Local Path**: `ai/agents/mintlify-the-knowledge-platform-built-for-agents.md`
+
+### 29. [Search Results | Atlassian Marketplace](../ai/rag/search-results-atlassian-marketplace.md) ([Source URL](https://marketplace.atlassian.com/search?hosting=cloud&product=jira))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:22:15.617398+05:30
+- **Local Path**: `ai/rag/search-results-atlassian-marketplace.md`
+
+### 30. [About Cinemachine | Cinemachine | 3.0.1](../ai/resources/about-cinemachine-cinemachine-3-0-1.md) ([Source URL](https://docs.unity3d.com/packages/com.unity.cinemachine@3.0/manual/index.html))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T15:54:08.943455+05:30
-- **Local Path**: `ai/resources/microsoft-research-emerging-technology-computer-so.md`
+- **Collected At**: 2026-06-23T01:22:10.273409+05:30
+- **Local Path**: `ai/resources/about-cinemachine-cinemachine-3-0-1.md`
+
+### 31. [OpenID Connect Playground](../ai/resources/openid-connect-playground.md) ([Source URL](https://openidconnect.net))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:22:08.138774+05:30
+- **Local Path**: `ai/resources/openid-connect-playground.md`
+
+### 32. [Privacy Policy | Jito Foundation](../ai/rag/privacy-policy-jito-foundation.md) ([Source URL](https://jito.network/docs/jitosol/resources/privacy-policy))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:22:03.501556+05:30
+- **Local Path**: `ai/rag/privacy-policy-jito-foundation.md`
+
+### 33. [Passkeys for Developers](../ai/rag/passkeys-for-developers.md) ([Source URL](https://learnpasskeys.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:59.296830+05:30
+- **Local Path**: `ai/rag/passkeys-for-developers.md`
+
+### 34. [en](../ai/resources/en.md) ([Source URL](https://unstake.sanctum.so/en))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:21:56.541896+05:30
+- **Local Path**: `ai/resources/en.md`
+
+### 35. [Jito Foundation | Solana Liquid Stake Pool: Non-Custodial Liquid Staking](../ai/rag/jito-foundation-solana-liquid-stake-pool-non-custo.md) ([Source URL](https://jito.network))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:51.506411+05:30
+- **Local Path**: `ai/rag/jito-foundation-solana-liquid-stake-pool-non-custo.md`
+
+### 36. [JSON Web Tokens - jwt.io](../ai/agents/json-web-tokens-jwt-io.md) ([Source URL](https://jwt.io))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-23T01:21:46.721171+05:30
+- **Local Path**: `ai/agents/json-web-tokens-jwt-io.md`
+
+### 37. [Solana Validators | www.validators.app](../ai/resources/solana-validators-www-validators-app.md) ([Source URL](https://validators.app))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:21:41.891714+05:30
+- **Local Path**: `ai/resources/solana-validators-www-validators-app.md`
+
+### 38. [Bearer Authentication | Swagger Docs](../ai/resources/bearer-authentication-swagger-docs.md) ([Source URL](https://swagger.io/docs/specification/v3_0/authentication/bearer-authentication))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:21:37.344813+05:30
+- **Local Path**: `ai/resources/bearer-authentication-swagger-docs.md`
+
+### 39. [Getting Started With The Affinity API + FAQs - Affinity Help Center](../ai/rag/getting-started-with-the-affinity-api-faqs-affinit.md) ([Source URL](https://support.affinity.co/hc/en-us/articles/5563700459533-getting-started-with-the-affinity-api-faqs))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:32.126148+05:30
+- **Local Path**: `ai/rag/getting-started-with-the-affinity-api-faqs-affinit.md`
+
+### 40. [Grants and Funding | Solana: Build crypto apps that scale](../ai/rag/grants-and-funding-solana-build-crypto-apps-that-s.md) ([Source URL](https://solana.org/grants-funding))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:27.160267+05:30
+- **Local Path**: `ai/rag/grants-and-funding-solana-build-crypto-apps-that-s.md`
+
+### 41. [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md) ([Source URL](https://university.atlassian.com/student/catalog/list?category_ids=21559-content-by-product))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-23T01:21:23.076209+05:30
+- **Local Path**: `ai/agents/24-i-cset-awesome.md`
+
+### 42. [Explore Marketplace solutions for Atlassian apps | Atlassian Marketplace](../ai/rag/explore-marketplace-solutions-for-atlassian-apps-a.md) ([Source URL](https://marketplace.atlassian.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:18.660822+05:30
+- **Local Path**: `ai/rag/explore-marketplace-solutions-for-atlassian-apps-a.md`
+
+### 43. [Cinemachine package | Cinemachine | 3.1.7](../ai/rag/cinemachine-package-cinemachine-3-1-7.md) ([Source URL](https://docs.unity3d.com/packages/com.unity.cinemachine@3.1/manual/index.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:13.976766+05:30
+- **Local Path**: `ai/rag/cinemachine-package-cinemachine-3-1-7.md`
+
+### 44. [Postman Academy](../ai/rag/postman-academy.md) ([Source URL](https://academy.postman.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:10.167582+05:30
+- **Local Path**: `ai/rag/postman-academy.md`
+
+### 45. [Get started in Postman | Postman Docs](../ai/resources/get-started-in-postman-postman-docs.md) ([Source URL](https://learning.postman.com/docs/introduction/overview))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:21:05.471983+05:30
+- **Local Path**: `ai/resources/get-started-in-postman-postman-docs.md`
+
+### 46. [Postman: The World's Leading API Platform | Sign Up for Free](../ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md) ([Source URL](https://postman.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:21:01.075224+05:30
+- **Local Path**: `ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md`
+
+### 47. [Affinity V1 API Reference](../ai/rag/affinity-v1-api-reference.md) ([Source URL](https://api-docs.affinity.co))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T01:20:56.523947+05:30
+- **Local Path**: `ai/rag/affinity-v1-api-reference.md`
+
+### 48. [Grants | Superteam Earn](../ai/resources/grants-superteam-earn.md) ([Source URL](https://earn.superteam.fun/grants?_hsmi=161969574))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:20:51.577862+05:30
+- **Local Path**: `ai/resources/grants-superteam-earn.md`
+
+### 49. [Introduction - Affinity Developer Documentation](../ai/resources/introduction-affinity-developer-documentation.md) ([Source URL](https://developer.affinity.co/docs/v2))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:20:47.197482+05:30
+- **Local Path**: `ai/resources/introduction-affinity-developer-documentation.md`
+
+### 50. [Bitbucket](../ai/resources/bitbucket.md) ([Source URL](https://bitbucket.org/atlassian/atlassian-connect-spring-boot))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-23T01:20:44.383699+05:30
+- **Local Path**: `ai/resources/bitbucket.md`
 
 ---
-*Index generated on 2026-06-22T15:58:25.807375+05:30*
+*Index generated on 2026-06-23T03:04:04.508336+05:30*

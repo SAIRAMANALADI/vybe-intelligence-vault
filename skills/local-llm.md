@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 109 resources matched in the intelligence vault.
+Active signals: 108 resources matched in the intelligence vault.
 Recently detected signals:
-- [library](../ai/rag/library.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Community Providers: Ollama](../ai/rag/community-providers-ollama.md) (Source: Unknown Source) - Collected 2026-06-22
-- [run-locally-ollama.md](../ai/agents/run-locally-ollama-md.md) (Source: Unknown Source) - Collected 2026-06-22
-- [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md) (Source: Unknown Source) - Collected 2026-06-23
+- [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-23
+- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T03:04:01.608603+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

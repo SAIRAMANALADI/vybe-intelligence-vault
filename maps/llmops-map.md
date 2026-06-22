@@ -10,10 +10,10 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
-*   [Apple Vision Pro - Apple](https://www.apple.com/apple-vision-pro)
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [DagsHub - YouTube](https://youtube.com/c/dagshub)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
+*   [Manage your Apple Account](https://account.apple.com)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org)
 
 ## Project Ideas

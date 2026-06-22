@@ -4,16 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://readthedocs.org
-published_at: '2026-06-22T15:51:50.801471+05:30'
-collected_at: '2026-06-22T15:51:50.801488+05:30'
+published_at: '2026-06-23T01:08:32.673870+05:30'
+collected_at: '2026-06-23T01:08:32.673878+05:30'
 tags:
 - agents
 - web-crawled
 status: active
 resource_id: blog:full-featured-documentation-deployment-platform-re
-first_seen: '2026-06-22T15:51:50.801488+05:30'
-last_seen: '2026-06-22T15:51:50.801488+05:30'
-last_checked: '2026-06-22T15:51:50.801488+05:30'
+first_seen: '2026-06-23T01:08:32.673878+05:30'
+last_seen: '2026-06-23T01:08:32.673878+05:30'
+last_checked: '2026-06-23T01:08:32.673878+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-a-Service for Documentation**: Hosts and automates builds, previews, and deployments for documentation via Git integration, supporting tools like Sphinx, MkDocs, and Docusaurus with AI agent compatibility (e.g., `llms.txt`).
-- **Versioning & Access Control**: Enables multi-version documentation (branches/tags) with live PR previews and visual diffs, plus SSO (GitHub/GitLab) for granular access management (paid feature for private repos).
-- **Open Source & Enterprise Support**: Free tier for open-source projects (e.g., Flask, Jupyter, Godot) with YAML-based config (`.readthedocs.yaml`) for dependency/toolchain management (Python, Node.js, etc.).
+- **Infrastructure-as-Code for Docs**: Enables Git repository integration with automated builds, previews, and versioning (Sphinx/MkDocs/Docusaurus) via `.readthedocs.yaml` config, eliminating manual pipeline management for engineering/docs teams.
+
+- **AI & Access Control Features**: Supports AI agent integration (llms.txt, Markdown negotiation) and SSO (GitHub/GitLab) for permission management, alongside live PR preview builds with visual diffs against production.
+
+- **Open Source & Enterprise Tiers**: Free for open-source projects (e.g., Flask, Jupyter, Godot) with paid plans offering private repo support, advanced auth, and CI/CD resources for scalable documentation hosting.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T15:51:50.801471+05:30
+- Published: 2026-06-23T01:08:32.673870+05:30
 
 ## Related Tags
 

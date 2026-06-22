@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://swift.org
-published_at: '2026-06-22T11:19:06.277092+05:30'
-collected_at: '2026-06-22T11:19:06.277101+05:30'
+published_at: '2026-06-23T01:09:59.956452+05:30'
+collected_at: '2026-06-23T01:09:59.956465+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:swift-programming-language
-first_seen: '2026-06-22T11:19:06.277101+05:30'
-last_seen: '2026-06-22T11:19:06.277101+05:30'
-last_checked: '2026-06-22T11:19:06.277101+05:30'
+first_seen: '2026-06-23T01:09:59.956465+05:30'
+last_seen: '2026-06-23T01:09:59.956465+05:30'
+last_checked: '2026-06-23T01:09:59.956465+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Multiplatform & Performance**: Swift compiles to native code, supports SIMD/vectorization, and ensures predictable memory management for high-performance applications across Linux, macOS, Windows, embedded systems, and cloud services.
+- **Performance & Safety**: Swift compiles to native code with predictable memory management, enforces compile-time memory/data race safety, and eliminates entire classes of bugs via language design.
 
-- **Memory & Data Race Safety**: Enforces compile-time memory safety and data race safety, eliminating entire classes of bugs (e.g., buffer overflows, dangling pointers) while maintaining interoperability with C/C++.
+- **Multiplatform & Interoperable**: Supports embedded systems to cloud services, with seamless C/C++ interoperability, native Windows/iOS integration, and cross-platform tooling (Xcode, VS Code, etc.).
 
-- **Interoperability & Tooling**: Native C/C++ interoperability (no FFI), bidirectional bridging, and LSP support (Xcode, VS Code, Emacs, Neovim) enable incremental adoption in existing codebases.
+- **Expressive & Adaptable**: Features concise, readable syntax (e.g., functional/generic programming), progressive disclosure for beginners, and direct hardware manipulation (e.g., MMIO for microcontrollers).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:19:06.277092+05:30
+- Published: 2026-06-23T01:09:59.956452+05:30
 
 ## Related Tags
 

@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Metrics Definitions**: *Presentations* (story suggestions across feeds/search/email), *Views* (unique user access ≥5s), *Reads* (unique user engagement ≥30s), *Followers/Subscribers* (account growth metrics), all deduplicated per user/surface/day.
-- **Data Granularity**: Monthly stats updated hourly; Lifetime stats updated hourly (first month) or daily (older stories), sortable by views/reads/earnings.
-- **Partner Program Insights**: Dedicated dashboard tracks earnings (Overview, Earnings su
+- **Metrics Definitions**: *Presentations* count Medium’s story suggestions (excluding Digest) across feeds/searches/notifications; *Views* require ≥5s engagement (bounce-resistant); *Reads* require ≥30s engagement. All metrics are unique (per-user, per-surface, per-day deduplication).
+
+- **Data Granularity**: Monthly stats update hourly with daily/weekly historical access; Lifetime stats update hourly for new stories (<1 month) and daily for older stories, sortable by views/reads/earnings.
+
+- *
 
 ## Use Cases
 

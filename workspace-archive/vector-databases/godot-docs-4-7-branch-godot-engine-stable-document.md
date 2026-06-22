@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform 2D/3D engine**: Godot supports both 2D and 3D rendering with dedicated pipelines, physics (2D/3D), shaders, and a modular GUI system, enabling scalable game and application development.
+- **Cross-platform game engine** with support for 2D/3D rendering, physics, shaders, and scripting (GDScript, C#, C++ via GDExtension), optimized for both desktop and mobile platforms.
 
-- **Scripting & extensibility**: Native support for GDScript (optimized for Godot), C#, C++, and GDExtension for custom engine modules; avoids STL/exceptions for deterministic performance.
+- **Modular architecture** with a lightweight core, avoiding STL/exceptions, and supporting ECS-like patterns without enforcing strict DOD, enabling extensibility via plugins and GDExtension.
 
-- **License compliance & release policy**: MIT-licensed core with strict third-party license inclusion r
+- **Versioning policy** follows semantic versioning (MAJOR.MINOR.PATCH), with LTS releases (e.g., 4.x) receiving 2+ years
 
 ## Use Cases
 

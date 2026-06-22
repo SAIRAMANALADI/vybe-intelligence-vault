@@ -8,7 +8,7 @@ local_vault_path: ai/rag/open-government-licence.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: high
 tags:
 - dataset
@@ -16,7 +16,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Open Government Licence
@@ -25,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under OGL v3.0, subject to attribution requirements.
+- **Global, royalty-free usage rights**: Grants worldwide, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including attribution requirements.
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement.
+- **Exclusions and limitations**: Excludes personal data, unpublished/unreleased information, logos, military insignia, third-party rights, and specific identity documents; prohibits use implying official endorsement.
 
-- *
+- **Legal framework and compliance**: Governed by jurisdict
 
 ## Use Cases
 

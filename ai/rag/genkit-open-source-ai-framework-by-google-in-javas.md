@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://genkit.dev
-published_at: '2026-06-22T15:28:12.830857+05:30'
-collected_at: '2026-06-22T15:28:12.830875+05:30'
+published_at: '2026-06-23T01:13:43.535937+05:30'
+collected_at: '2026-06-23T01:13:43.535947+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:genkit-open-source-ai-framework-by-google-in-javas
-first_seen: '2026-06-22T15:28:12.830875+05:30'
-last_seen: '2026-06-22T15:28:12.830875+05:30'
-last_checked: '2026-06-22T15:28:12.830875+05:30'
+first_seen: '2026-06-23T01:13:43.535947+05:30'
+last_seen: '2026-06-23T01:13:43.535947+05:30'
+last_checked: '2026-06-23T01:13:43.535947+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Open-source framework by Google for building full-stack, agentic applications across TypeScript, Go, Python (Preview), and Dart (Preview), supporting multiple LLM providers (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK.
+- **Unified AI Framework**: Google's open-source Genkit enables full-stack, agentic AI applications across platforms with support for multiple LLM providers (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK with language-specific implementations (TypeScript, Go, Python, Dart).
 
-- **Modular & Production-Ready**: Enables composable workflows (RAG, tool use, agents) with built-in primitives, local dev/debugging UI, and deployment options (Firebase, Cloud Run, custom infrastructure).
+- **Modular Workflow System**: Provides composable primitives for structured AI workflows (chat, RAG, tool use, agents) and production-ready tooling including local dev, debugging UI, and deployment options (Firebase, Cloud Run).
 
-- **Developer Tools & Examples**: Includes Genkit CLI, Developer UI for debugging, and pre-built demo apps (e.g., Firebase, Next.js) with code samples for rapid prototyping and deployment.
+- **Developer-Centric Tooling**: Includes a Genkit CLI and visual Developer UI for debugging/inspection, with pre-built production examples (Firebase, Angular, Next.js) and unified APIs abstracting model-specific complexities.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:28:12.830857+05:30
+- Published: 2026-06-23T01:13:43.535937+05:30
 
 ## Related Tags
 

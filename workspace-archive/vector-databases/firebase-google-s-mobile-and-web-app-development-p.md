@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Development Platform**: Firebase provides a suite of managed services (e.g., App Hosting, Firestore, Authentication, Cloud Functions) for building, deploying, and scaling AI-powered applications across iOS, Android, Web, and other platforms, leveraging Google Cloud infrastructure.
+- **Unified Backend Services**: Firebase provides a suite of managed backend services (e.g., Firestore, Realtime Database, Authentication, Cloud Functions) for scalable app development, with AI integration via Firebase AI Logic and Genkit for generative AI workflows.
 
-- **AI Integration & Extensibility**: Supports generative AI workflows via Firebase AI Logic, Genkit, and integrations with Google’s Gemini, alongside pre-packaged extensions (e.g., Stripe payments, Algoli
+- **Cross-Platform SDKs & Integrations**: Supports iOS, Android, Web, Flutter, Unity, and C++ with pre-built SDKs, and offers extensions (e.g., Stripe payments, Algolia search) and third-party integrations (e.g., BigQuery, Slack, J
 
 ## Use Cases
 
