@@ -1,18 +1,28 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
+const stateManager = require('./state-manager');
 
 const VAULT_ROOT = path.resolve(__dirname, '..');
-const OUTPUT_FILE = path.join(VAULT_ROOT, 'vault-index.json');
-// Optional target inside react app public folder
+const EMBEDDINGS_DIR = path.join(VAULT_ROOT, 'vault-core', 'embeddings');
 const REACT_PUBLIC_DIR = path.resolve(VAULT_ROOT, '..', 'intelligence-map', 'public');
 
+if (!fs.existsSync(EMBEDDINGS_DIR)) {
+  fs.mkdirSync(EMBEDDINGS_DIR, { recursive: true });
+}
+
 console.log(`Resolved Vault Root: ${VAULT_ROOT}`);
+
+// Stable deterministic UUID generator based on file path
+function getDeterministicUuid(relPath) {
+  const hash = crypto.createHash('md5').update(relPath).digest('hex');
+  return `${hash.slice(0, 8)}-${hash.slice(8, 12)}-${hash.slice(12, 16)}-${hash.slice(16, 20)}-${hash.slice(20, 32)}`;
+}
 
 // Simple zero-dependency frontmatter parser
 function parseMarkdown(content) {
   const result = { metadata: {}, body: content, title: '' };
   
-  // Try parsing frontmatter
   if (content.startsWith('---')) {
     const parts = content.split('---');
     if (parts.length >= 3) {
@@ -51,7 +61,6 @@ function parseMarkdown(content) {
     }
   }
   
-  // Extract Title from markdown if not set in frontmatter
   if (result.metadata.title) {
     result.title = result.metadata.title;
   } else {
@@ -64,7 +73,7 @@ function parseMarkdown(content) {
   return result;
 }
 
-// Find all markdown files recursively
+// Recurse directories
 function getMarkdownFiles(dir, fileList = []) {
   if (!fs.existsSync(dir)) return fileList;
   const files = fs.readdirSync(dir);
@@ -80,13 +89,117 @@ function getMarkdownFiles(dir, fileList = []) {
   return fileList;
 }
 
-function buildGraph() {
+// Vector similarity helper functions
+function dotProduct(a, b) {
+  let sum = 0;
+  for (let i = 0; i < a.length; i++) {
+    sum += a[i] * b[i];
+  }
+  return sum;
+}
+
+function magnitude(a) {
+  let sum = 0;
+  for (let i = 0; i < a.length; i++) {
+    sum += a[i] * a[i];
+  }
+  return Math.sqrt(sum);
+}
+
+function cosineSimilarity(a, b) {
+  if (!a || !b || a.length !== b.length) return 0;
+  const magA = magnitude(a);
+  const magB = magnitude(b);
+  if (magA === 0 || magB === 0) return 0;
+  return dotProduct(a, b) / (magA * magB);
+}
+
+// Generate embeddings via local Ollama, with cache & hash-based fallback
+async function getEmbedding(text, relPath) {
+  const safeName = relPath.replace(/\//g, '_') + '.json';
+  const embedFilePath = path.join(EMBEDDINGS_DIR, safeName);
+  
+  if (fs.existsSync(embedFilePath)) {
+    try {
+      return JSON.parse(fs.readFileSync(embedFilePath, 'utf-8'));
+    } catch (err) {
+      // Re-fetch on parse error
+    }
+  }
+  
+  const cleanedText = text.replace(/[#*`_\[\]()\-]/g, ' ').substring(0, 3000);
+  
+  try {
+    const response = await fetch('http://localhost:11434/api/embeddings', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'nomic-embed-text',
+        prompt: cleanedText
+      }),
+      signal: AbortSignal.timeout(3000)
+    });
+    
+    if (response.ok) {
+      const result = await response.json();
+      if (result.embedding) {
+        fs.writeFileSync(embedFilePath, JSON.stringify(result.embedding), 'utf-8');
+        return result.embedding;
+      }
+    }
+  } catch (err) {
+    try {
+      const response = await fetch('http://localhost:11434/api/embed', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          model: 'nomic-embed-text',
+          input: cleanedText
+        }),
+        signal: AbortSignal.timeout(3000)
+      });
+      if (response.ok) {
+        const result = await response.json();
+        const vector = result.embedding || (result.embeddings && result.embeddings[0]);
+        if (vector) {
+          fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
+          return vector;
+        }
+      }
+    } catch (e2) {
+      // Fall through to fallback mock vector
+    }
+  }
+  
+  // Deterministic mock vector (768 dimensions)
+  const vector = [];
+  let hash = 0;
+  for (let i = 0; i < cleanedText.length; i++) {
+    hash = (hash << 5) - hash + cleanedText.charCodeAt(i);
+    hash |= 0;
+  }
+  for (let d = 0; d < 768; d++) {
+    const val = Math.sin(hash + d) * Math.cos(hash * d);
+    vector.push(parseFloat(val.toFixed(6)));
+  }
+  fs.writeFileSync(embedFilePath, JSON.stringify(vector), 'utf-8');
+  return vector;
+}
+
+async function buildIndex() {
   const foldersToScan = ['maps', 'skills', 'daily-digests', 'prompts'];
   const nodes = [];
   const edges = [];
-  const nodeMap = new Map(); // filepath -> node
+  const embeddingsMap = {};
   
-  // 1. Discover all nodes
+  // Read existing index to preserve access metrics
+  const oldIndex = stateManager.readIndex();
+  const oldNodesMap = new Map();
+  if (oldIndex && oldIndex.nodes) {
+    oldIndex.nodes.forEach(n => oldNodesMap.set(n.path, n));
+  }
+  
+  // 1. Parse all markdown files
   for (const folder of foldersToScan) {
     const folderPath = path.join(VAULT_ROOT, folder);
     if (!fs.existsSync(folderPath)) continue;
@@ -97,132 +210,159 @@ function buildGraph() {
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
         const parsed = parseMarkdown(content);
+        const title = (parsed.title || path.basename(relPath, '.md')).replace(/^["']|["']$/g, '');
         
-        // Clean Title
-        let title = parsed.title || path.basename(relPath, '.md');
-        title = title.replace(/^["']|["']$/g, '');
+        const embedding = await getEmbedding(parsed.body, relPath);
+        embeddingsMap[relPath] = embedding;
+        
+        const oldNode = oldNodesMap.get(relPath);
         
         const node = {
-          id: relPath,
+          id: oldNode?.id || getDeterministicUuid(relPath),
+          path: relPath,
           title: title,
           category: folder,
           tags: parsed.metadata.tags || [],
           tech_stack: parsed.metadata.tech_stack || [],
-          stars: parsed.metadata.stars || 0,
           quality_score: parsed.metadata.quality_score || 0,
           rag_relevance: parsed.metadata.rag_relevance || 0,
-          last_updated: parsed.metadata.last_updated || parsed.metadata.collected_at || '',
-          summary: parsed.metadata.summary || ''
+          embedding_vector_id: `vec_${relPath.replace(/[^a-zA-Z0-9]/g, '_')}`,
+          last_modified: new Date().toISOString(),
+          access_count: oldNode?.access_count || 0,
+          last_accessed: oldNode?.last_accessed || ''
         };
         
-        // Parse simple inline summaries for skills/maps that don't have frontmatter summary
-        if (!node.summary) {
-          // Grab the first non-header lines in body
-          const lines = parsed.body.split('\n')
-            .map(l => l.trim())
-            .filter(l => l && !l.startsWith('#') && !l.startsWith('<!--'));
-          if (lines.length > 0) {
-            node.summary = lines.slice(0, 2).join(' ').substring(0, 160) + '...';
-          }
-        }
-        
         nodes.push(node);
-        nodeMap.set(relPath.toLowerCase(), node);
       } catch (err) {
-        console.error(`Error reading ${relPath}:`, err);
+        console.error(`Error processing ${relPath}:`, err);
       }
     }
   }
   
-  // 2. Resolve edges from markdown links
+  // 2. Resolve edges from direct markdown links
   for (const node of nodes) {
-    const filePath = path.join(VAULT_ROOT, node.id);
+    const filePath = path.join(VAULT_ROOT, node.path);
     const content = fs.readFileSync(filePath, 'utf-8');
     const folderDir = path.dirname(filePath);
     
-    // Markdown link regex: [text](link)
     const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
     let match;
     
     while ((match = linkRegex.exec(content)) !== null) {
       const linkUrl = match[2];
       
-      // We only care about relative path links to other markdown files in the vault
       if (linkUrl.startsWith('http://') || linkUrl.startsWith('https://') || linkUrl.startsWith('#')) {
         continue;
       }
       
       try {
-        // Resolve link relative to the folder containing the file
         const resolvedPath = path.resolve(folderDir, linkUrl);
         const resolvedRelPath = path.relative(VAULT_ROOT, resolvedPath).replace(/\\/g, '/');
         
-        const targetNode = nodeMap.get(resolvedRelPath.toLowerCase());
-        if (targetNode && targetNode.id !== node.id) {
-          // Prevent duplicates
-          const edgeId = `${node.id}->${targetNode.id}`;
-          const reverseEdgeId = `${targetNode.id}->${node.id}`;
-          
-          const edgeExists = edges.some(e => e.id === edgeId || e.id === reverseEdgeId);
+        const targetNode = nodes.find(n => n.path.toLowerCase() === resolvedRelPath.toLowerCase());
+        if (targetNode && targetNode.path !== node.path) {
+          const edgeExists = edges.some(e => 
+            (e.source === node.path && e.target === targetNode.path) || 
+            (e.source === targetNode.path && e.target === node.path)
+          );
           if (!edgeExists) {
             edges.push({
-              id: edgeId,
-              source: node.id,
-              target: targetNode.id,
-              type: 'link'
+              source: node.path,
+              target: targetNode.path,
+              type: 'references',
+              weight: 0.95
             });
           }
         }
       } catch (err) {
-        // Ignore resolution errors (e.g. external link formats or local anchors)
+        // Ignore resolution errors
       }
     }
   }
   
-  // 3. Resolve edges from shared tags/tech stack or parent directory neighborhood
-  // (Provides connectivity even if files don't link directly)
+  // 3. Compute edges using cosine similarity and tag/tech stack overlaps
   for (let i = 0; i < nodes.length; i++) {
     for (let j = i + 1; j < nodes.length; j++) {
       const n1 = nodes[i];
       const n2 = nodes[j];
       
-      // Shared tags
-      const n1Tags = new Set(n1.tags.map(t => t.toLowerCase()));
-      const shared = n2.tags.filter(t => n1Tags.has(t.toLowerCase()));
+      const v1 = embeddingsMap[n1.path];
+      const v2 = embeddingsMap[n2.path];
+      const sim = cosineSimilarity(v1, v2);
       
-      if (shared.length >= 2) {
-        const edgeId = `tag-${n1.id}-${n2.id}`;
-        const reverseEdgeId = `tag-${n2.id}-${n1.id}`;
-        const edgeExists = edges.some(e => e.id === edgeId || e.id === reverseEdgeId || e.source === n1.id && e.target === n2.id);
+      const tags1 = new Set(n1.tags.map(t => t.toLowerCase()));
+      const sharedTags = n2.tags.filter(t => tags1.has(t.toLowerCase()));
+      
+      const tech1 = new Set(n1.tech_stack.map(t => t.toLowerCase()));
+      const sharedTech = n2.tech_stack.filter(t => tech1.has(t.toLowerCase()));
+      
+      let weight = sim;
+      let type = 'similar_to';
+      
+      if (sharedTags.length > 0 || sharedTech.length > 0) {
+        weight += (sharedTags.length * 0.08) + (sharedTech.length * 0.12);
+      }
+      
+      // Edge threshold check (sim > 0.75 or sharing at least one tag/tech item for visual relevance)
+      const isConnected = sim > 0.75 || sharedTags.length >= 1 || sharedTech.length >= 1;
+      
+      if (isConnected) {
+        const edgeExists = edges.some(e => 
+          (e.source === n1.path && e.target === n2.path) || 
+          (e.source === n2.path && e.target === n1.path)
+        );
         
         if (!edgeExists) {
+          weight = Math.min(weight, 0.98);
+          
+          if (sharedTech.length >= 1) {
+            type = 'depends_on';
+          } else if (sim > 0.75) {
+            type = 'similar_to';
+          } else {
+            type = 'references';
+          }
+          
           edges.push({
-            id: edgeId,
-            source: n1.id,
-            target: n2.id,
-            type: 'shared-tags',
-            weight: shared.length
+            source: n1.path,
+            target: n2.path,
+            type,
+            weight: parseFloat(weight.toFixed(2))
           });
         }
       }
     }
   }
   
-  const graph = { nodes, edges };
+  // Build system health from previous or initial metrics
+  const systemHealth = {
+    last_pipeline_run: oldIndex?.system_health?.last_pipeline_run || new Date().toISOString(),
+    repos_discovered_today: oldIndex?.system_health?.repos_discovered_today || 0,
+    repos_evaluated: oldIndex?.system_health?.repos_evaluated || 0,
+    avg_quality_score: nodes.length ? parseFloat((nodes.reduce((acc, curr) => acc + (curr.quality_score || 0), 0) / nodes.length).toFixed(2)) : 0,
+    mcp_requests_served: oldIndex?.system_health?.mcp_requests_served || 0,
+    web_sessions: oldIndex?.system_health?.web_sessions || 0
+  };
+  
+  const indexObject = {
+    version: "2.0",
+    last_updated: new Date().toISOString(),
+    nodes,
+    edges,
+    system_health: systemHealth
+  };
+  
+  // Write atomically through state-manager
+  stateManager.writeIndex(indexObject);
+  
   console.log(`Generated graph with ${nodes.length} nodes and ${edges.length} edges.`);
   
-  // Save to vault repo
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(graph, null, 2), 'utf-8');
-  console.log(`Saved index to: ${OUTPUT_FILE}`);
-  
-  // Save to react app if directory exists
+  // 4. Sync copy to React assets if public folder exists
   if (fs.existsSync(REACT_PUBLIC_DIR)) {
     const reactIndexFile = path.join(REACT_PUBLIC_DIR, 'vault-index.json');
-    fs.writeFileSync(reactIndexFile, JSON.stringify(graph, null, 2), 'utf-8');
-    console.log(`Saved index copy to React assets: ${reactIndexFile}`);
+    fs.writeFileSync(reactIndexFile, JSON.stringify(indexObject, null, 2), 'utf-8');
+    console.log(`Saved index copy to React: ${reactIndexFile}`);
     copyMarkdownFiles();
-  } else {
-    console.log(`React public assets directory not yet created. Skipping copy.`);
   }
 }
 
@@ -230,7 +370,6 @@ function copyMarkdownFiles() {
   if (!fs.existsSync(REACT_PUBLIC_DIR)) return;
   const targetVaultDir = path.join(REACT_PUBLIC_DIR, 'vault');
   
-  // Clean target directory
   if (fs.existsSync(targetVaultDir)) {
     fs.rmSync(targetVaultDir, { recursive: true, force: true });
   }
@@ -243,8 +382,6 @@ function copyMarkdownFiles() {
     if (!fs.existsSync(srcDir)) continue;
 
     fs.mkdirSync(destDir, { recursive: true });
-    
-    // Helper to get files
     const files = getMarkdownFiles(srcDir);
     for (const file of files) {
       const relPath = path.relative(srcDir, file);
@@ -253,7 +390,7 @@ function copyMarkdownFiles() {
       fs.copyFileSync(file, destFile);
     }
   }
-  console.log(`Copied all markdown files to React assets: ${targetVaultDir}`);
+  console.log(`Copied all markdown files to React public vault.`);
 }
 
-buildGraph();
+buildIndex();

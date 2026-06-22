@@ -1,0 +1,11 @@
+version: "2.0"
+topics:
+  - "ai-agent"
+  - "mcp-server"
+  - "rag-stack"
+daily_budget: 2.00
+cloud_llm:
+  model: "gpt-4o-mini"
+local_llm:
+  model: "qwen2.5:14b"
+  endpoint: "http://localhost:11434"

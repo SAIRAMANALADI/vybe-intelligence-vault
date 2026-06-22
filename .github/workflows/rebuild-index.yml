@@ -1,0 +1,47 @@
+name: Rebuild Vault Index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "maps/**"
+      - "skills/**"
+      - "daily-digests/**"
+      - "prompts/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    name: Rebuild Graph Index
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run Rebuild Index
+        run: |
+          node scripts/build-index.js
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add vault-index.json vault-core/vault-index.json
+            git commit -m "chore: auto-rebuild graph index [skip ci]"
+            git push origin main
+          else
+            echo "Index unchanged."
+          fi

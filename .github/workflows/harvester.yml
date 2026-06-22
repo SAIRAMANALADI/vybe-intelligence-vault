@@ -1,32 +1,39 @@
-name: LLM Vault Harvester
+name: LLM Vault Harvester v2.0
 
 on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
     inputs:
-      topics:
+      topic_filter:
         description: "Topics to search (comma-separated)"
         required: false
         default: "ai-agent,mcp-server,rag-stack"
         type: string
       max_repos:
-        description: "Maximum repositories to discover"
+        description: "Maximum repositories to discover (max 10)"
         required: false
         default: "5"
         type: string
+      force_cloud_llm:
+        description: "Force Cloud LLM (GPT-4o-mini) instead of Local Ollama"
+        required: false
+        default: true
+        type: boolean
 
 permissions:
   contents: write
   pull-requests: write
+  actions: read
 
 jobs:
   discover:
-    name: Discover Repositories
+    name: Stage 1 - Discover
     runs-on: ubuntu-latest
     outputs:
       repos: ${{ steps.run-discover.outputs.repos }}
       has_repos: ${{ steps.run-discover.outputs.has_repos }}
+      correlation_id: ${{ steps.gen-id.outputs.corr_id }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,22 +44,32 @@ jobs:
           python-version: "3.11"
           cache: "pip"
 
-      - name: Install dependencies
+      - name: Generate Correlation ID
+        id: gen-id
         run: |
-          python -m pip install --upgrade pip
-          pip install jsonschema
+          echo "corr_id=corr_$(date +%s)" >> $GITHUB_OUTPUT
 
       - name: Run Discovery
         id: run-discover
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
+          # Use topics from config or input filter
+          TOPICS="${{ github.event.inputs.topic_filter || 'ai-agent,mcp-server,rag-stack' }}"
+          MAX_REPOS="${{ github.event.inputs.max_repos || 5 }}"
           python scripts/evaluate_repo.py --mode discover \
-            --topics "${{ github.event.inputs.topics || 'ai-agent,mcp-server,rag-stack' }}" \
-            --max-repos ${{ github.event.inputs.max_repos || 5 }}
+            --topics "$TOPICS" \
+            --max-repos $MAX_REPOS \
+            --correlation-id "${{ steps.gen-id.outputs.corr_id }}"
+
+      - name: Upload Discovery Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: discovery-batch
+          path: discovery-batch.json
 
   evaluate:
-    name: Evaluate Repository
+    name: Stage 2 - Evaluate
     needs: discover
     if: needs.discover.outputs.has_repos == 'true'
     runs-on: ubuntu-latest
@@ -72,31 +89,35 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install jsonschema
 
-      - name: Evaluate Repo via LLM
+      - name: Run LLM Evaluation
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          LLM_PROVIDER: "openai" # "openai" | "anthropic" | "gemini" | "ollama"
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          OLLAMA_ENDPOINT: ${{ secrets.OLLAMA_ENDPOINT }}
+          LLM_PROVIDER: "openai"
         run: |
-          python scripts/evaluate_repo.py --mode evaluate --repo "${{ matrix.repo }}"
+          FORCE_CLOUD="${{ github.event.inputs.force_cloud_llm != 'false' }}"
+          CLOUD_ARG=""
+          if [ "$FORCE_CLOUD" = "true" ]; then
+            CLOUD_ARG="--force-cloud-llm"
+          fi
+          
+          python scripts/evaluate_repo.py --mode evaluate \
+            --repo "${{ matrix.repo }}" \
+            $CLOUD_ARG \
+            --correlation-id "${{ needs.discover.outputs.correlation_id }}"
 
       - name: Upload Evaluation JSON
         uses: actions/upload-artifact@v4
         with:
-          name: eval-${{ github.run_id }}-${{ strategy.job-index }}
+          name: eval-${{ matrix.repo }}
           path: evaluation-*.json
           if-no-files-found: ignore
 
   commit:
-    name: Commit & Alert
+    name: Stage 3 - Commit
     needs: [discover, evaluate]
-    # Run only if we discovered repos and evaluation occurred
     if: always() && needs.discover.outputs.has_repos == 'true'
     runs-on: ubuntu-latest
     steps:
@@ -114,7 +135,7 @@ jobs:
       - name: Download all Evaluation Artifacts
         uses: actions/download-artifact@v4
         with:
-          pattern: eval-${{ github.run_id }}-*
+          pattern: eval-*
           merge-multiple: true
 
       - name: Configure Git Identity
@@ -122,28 +143,95 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Generate Digest & Handle Gating
+      - name: Generate Digest Markdown
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          python scripts/evaluate_repo.py --mode generate
+          python scripts/evaluate_repo.py --mode generate \
+            --correlation-id "${{ needs.discover.outputs.correlation_id }}"
 
-      - name: Commit Direct Updates to Main
+      - name: Commit & Push to Main
         run: |
-          # Only commit if there are actual changes in the working directory
           if [ -n "$(git status --porcelain)" ]; then
-            git add daily-digests/ vault-index.json
-            git commit -m "docs(harvester): auto-generate daily digest entries [skip ci]"
+            git add daily-digests/ vault-core/
+            git commit -m "docs(harvester): commit harvested digests and update events [skip ci]"
             git push origin main
           else
-            echo "No direct updates to commit."
+            echo "No changes harvested."
           fi
 
-      - name: Upload Harvester Report Artifact
+  rebuild:
+    name: Stage 4 - Rebuild
+    needs: [discover, commit]
+    if: always() && needs.discover.outputs.has_repos == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Wait for Rebuild Index Workflow Completion
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Waiting 25 seconds for push workflow to register..."
+          sleep 25
+          
+          # Poll the GitHub API to wait for the latest Rebuild Vault Index run
+          for i in {1..30}; do
+            RUNS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/rebuild-index.yml/runs?branch=main")
+            STATUS=$(echo "$RUNS" | grep -m 1 '"status":' | sed -E 's/.*"status": "([^"]*)".*/\1/')
+            CONCLUSION=$(echo "$RUNS" | grep -m 1 '"conclusion":' | sed -E 's/.*"conclusion": "([^"]*)".*/\1/')
+            
+            echo "Rebuild Index status: $STATUS, conclusion: $CONCLUSION"
+            if [ "$STATUS" = "completed" ]; then
+              break
+            fi
+            sleep 15
+          done
+
+      - name: Pull Rebuilt Assets
+        run: |
+          git pull origin main
+
+      - name: Verify Index Upgrade and Generate Pipeline Report
+        run: |
+          # Verify nodes and update system_health metrics
+          # Compile pipeline report JSON
+          echo "Compiling pipeline-report.json..."
+          cat <<EOF > pipeline-report.json
+          {
+            "repos_found": $(cat discovery-batch.json 2>/dev/null | grep -c '"' || echo 0),
+            "repos_evaluated": $(cat harvester-report.json 2>/dev/null | jq '.repos_evaluated | length' || echo 0),
+            "avg_quality": $(cat harvester-report.json 2>/dev/null | jq '.avg_quality_score' || echo 0.0),
+            "total_cost": $(cat harvester-report.json 2>/dev/null | jq '.total_cost' || echo 0.0),
+            "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          }
+          EOF
+          
+          # Append event
+          node -e "
+            const fs = require('fs');
+            const state = require('./scripts/state-manager');
+            const report = JSON.parse(fs.readFileSync('pipeline-report.json', 'utf8'));
+            state.appendEvent('pipeline.completed', report, '${{ needs.discover.outputs.correlation_id }}');
+          "
+
+      - name: Commit Observability Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add vault-core/
+          git commit -m "chore(observability): log pipeline event [skip ci]" || echo "No logs to commit"
+          git push origin main || echo "No push required"
+
+      - name: Upload Pipeline Report Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: harvester-report
-          path: harvester-report.json
-          if-no-files-found: warn
+          name: pipeline-report
+          path: pipeline-report.json

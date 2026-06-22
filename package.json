@@ -1,0 +1,7 @@
+{
+  "name": "ai-web-intel-vault",
+  "version": "2.0.0",
+  "scripts": {
+    "build-index": "node scripts/build-index.js"
+  }
+}

@@ -15,3 +15,6 @@ credentials/
 *.sqlite
 *.db
 .DS_Store
+vault-core/embeddings/
+state.lock
+

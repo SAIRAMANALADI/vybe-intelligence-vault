@@ -53,6 +53,10 @@
       "type": "string",
       "enum": ["Low", "Medium", "High"],
       "description": "Deployment complexity rating"
+    },
+    "why_it_matters": {
+      "type": "string",
+      "description": "1 sentence summarizing why it matters for RAG builders"
     }
   },
   "required": [
@@ -63,6 +67,7 @@
     "rag_relevance",
     "tags",
     "key_features",
-    "deployment_complexity"
+    "deployment_complexity",
+    "why_it_matters"
   ]
 }
