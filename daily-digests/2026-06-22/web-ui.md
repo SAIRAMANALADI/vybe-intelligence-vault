@@ -1,25 +1,25 @@
 ---
 title: "browser-use/web-ui"
 category: "UI Component"
-tech_stack: ["Python", "Gradio", "Playwright", "Docker", "LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)", "WebRTC/VNC"]
+tech_stack: ["Python", "Gradio", "Playwright", "Docker", "LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)", "WebRTC"]
 quality_score: 9
 rag_relevance: 7
-tags: ["AI agent interface", "browser automation", "LLM integration", "persistent sessions", "web UI"]
+tags: ["AI agent interface", "browser automation", "LLM integration", "persistent sessions", "screen recording"]
 source: "https://github.com/browser-use/web-ui"
-discovered_at: "2026-06-22T17:06:44Z"
+discovered_at: "2026-06-22T18:13:42Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A user-friendly web-based UI for the browser-use framework, enabling AI agents to interact with websites through Gradio. It supports custom LLM integrations, persistent browser sessions, and high-definition screen recording for seamless agent operations.
+A user-friendly Gradio-based web interface for the browser-use framework, enabling AI agents to interact with websites via a browser UI. It supports multiple LLMs, custom browser configurations, persistent sessions, and screen recording.
 
 ## Key Features
-- Gradio-based interactive web UI for browser-use framework
+- Gradio-based interactive UI for managing AI agents and browser tasks
 - Support for multiple LLM providers (Google, OpenAI, Anthropic, etc.)
-- Persistent browser sessions with custom browser integration and screen recording
+- Custom browser integration with persistent sessions and HD screen recording
 
 ## Why It Matters for RAG Builders
-It provides an accessible, visual interface for managing AI agents that interact with web browsers, simplifying deployment and monitoring for RAG builders.
+It provides an accessible, visual interface for AI agents to interact with websites, simplifying deployment and debugging for RAG builders.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -37,8 +37,8 @@ Automated review identified **Docker** as a key module contributing to infrastru
 ### LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)
 Automated review identified **LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebRTC/VNC
-Automated review identified **WebRTC/VNC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebRTC
+Automated review identified **WebRTC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

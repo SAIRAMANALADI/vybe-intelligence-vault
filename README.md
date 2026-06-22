@@ -33,8 +33,8 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 6,053</p>
-        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 268</p>
+        <p><b>Resources tracked:</b> 5,928</p>
+        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 143</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-22 23:05 IST</p>
+        <p><b>Last Update:</b> 2026-06-22 23:46 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,13 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+2</kbd>
+- No trending items found.
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[Denis2054/Context-Engineering-for-Multi-Agent-Systems](ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)** • Score: `0`
-- 🆕 **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** • Score: `0`
-- 🆕 **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** • Score: `0`
-- 🆕 **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** • Score: `0`
-- 🆕 **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

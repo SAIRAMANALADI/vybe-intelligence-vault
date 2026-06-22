@@ -4,22 +4,22 @@ category: "Orchestrator"
 tech_stack: ["TypeScript", "Node.js", "React", "PostgreSQL", "Redis", "Docker", "Bun", "MCP (Model Context Protocol)", "PostHog"]
 quality_score: 9
 rag_relevance: 8
-tags: ["workflow automation", "AI agents", "MCP servers", "no-code builder", "self-hosted"]
+tags: ["automation", "workflow engine", "AI agents", "MCP servers", "no-code"]
 source: "https://github.com/activepieces/activepieces"
-discovered_at: "2026-06-22T17:06:45Z"
+discovered_at: "2026-06-22T18:14:16Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Activepieces is an open-source automation platform and no-code workflow builder designed as a self-hosted alternative to Zapier. It enables users to create AI-driven workflows with over 280 pre-built integrations (pieces) and supports custom TypeScript-based integrations.
+Activepieces is an open-source automation platform that serves as a self-hostable alternative to Zapier, enabling users to create AI-driven workflows with a no-code builder and extensible TypeScript-based pieces framework.
 
 ## Key Features
-- Extensible TypeScript-based 'pieces' framework for custom integrations with hot reloading
-- Supports 280+ pre-built integrations (60% community-contributed) and MCP servers for AI agents
-- Enterprise-ready with self-hosting, human-in-the-loop workflows, and AI-first automation
+- Extensible TypeScript-based pieces framework for custom integrations
+- 280+ pre-built pieces with MCP support for AI agents
+- Self-hostable with enterprise-grade security and scalability
 
 ## Why It Matters for RAG Builders
-Activepieces provides a scalable, open-source foundation for building AI-driven automation workflows with MCP server support, enabling seamless integration with LLMs and agent frameworks.
+Activepieces provides a modular, open-source foundation for building AI-driven workflows and MCP servers, enabling seamless integration with LLMs and automation tools.
 
 ## Tech Stack Deep Dive
 ### TypeScript

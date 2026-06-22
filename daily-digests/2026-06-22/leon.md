@@ -6,20 +6,20 @@ quality_score: 8
 rag_relevance: 7
 tags: ["AI Assistant", "Agentic Execution", "Privacy-Focused", "Modular Skills", "Local AI"]
 source: "https://github.com/leon-ai/leon"
-discovered_at: "2026-06-22T17:06:45Z"
+discovered_at: "2026-06-22T18:14:15Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Leon is an open-source personal AI assistant designed for privacy-aware, tool-driven, and agentic execution. It supports local and remote AI providers, modular skills, and layered memory for grounded, context-aware interactions.
+Leon is an open-source personal AI assistant designed for privacy-aware, tool-driven, and agentic execution. It supports local and remote AI providers, layered memory, and modular skills for real-world task completion.
 
 ## Key Features
-- Supports controlled, smart, and agent modes for task execution with tool integration
-- Layered memory system for durable and contextual recall
+- Supports multiple execution modes (smart, controlled, agent) for flexible task handling
+- Integrates tools, memory, and context for grounded, deterministic workflows
 - Modular architecture with native and agent skills for extensibility
 
 ## Why It Matters for RAG Builders
-Leon provides a privacy-aware, tool-driven framework for building agentic AI assistants with modular skills and memory systems, essential for developers seeking grounded, context-aware automation.
+Leon provides a privacy-aware, tool-driven framework for building AI assistants that can execute real-world tasks with modular skills and agentic execution.
 
 ## Tech Stack Deep Dive
 ### TypeScript

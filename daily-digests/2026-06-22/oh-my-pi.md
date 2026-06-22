@@ -1,32 +1,32 @@
 ---
 title: "can1357/oh-my-pi"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Rust", "Bun", "Python", "LSP (Language Server Protocol)", "DAP (Debug Adapter Protocol)", "Node.js", "WebAssembly"]
+tech_stack: ["Rust", "TypeScript", "Bun", "Python", "LSP (Language Server Protocol)", "DAP (Debug Adapter Protocol)", "Node.js", "WebAssembly"]
 quality_score: 9
 rag_relevance: 8
-tags: ["coding agent", "IDE integration", "multi-model", "debugging", "subagents"]
+tags: ["coding agent", "IDE integration", "multi-model tooling", "debugging", "LSP/DAP"]
 source: "https://github.com/can1357/oh-my-pi"
-discovered_at: "2026-06-22T17:06:51Z"
+discovered_at: "2026-06-22T18:13:40Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Oh-My-Pi is a high-performance coding agent that integrates an IDE directly into its workflow, offering advanced features like LSP integration, debugger attachment, and multi-model tool-calling. It is designed for real-world coding tasks with persistent kernels, subagents, and time-traveling stream rules.
+Oh-My-Pi is a highly capable coding agent with an integrated IDE, designed for AI-driven development workflows. It combines a Rust core with TypeScript/Bun tooling to provide advanced features like LSP integration, debugger support, and multi-model tool calling.
 
 ## Key Features
-- LSP and DAP integration for real-time code intelligence and debugging
-- Persistent kernels (Python, Bun) with tool-calling and loopback bridges
-- Time-traveling stream rules and subagent coordination for complex tasks
+- Deep IDE integration via LSP and DAP for real-time code manipulation and debugging
+- Multi-model tool calling with optimized tool harness for efficient task execution
+- Time-traveling stream rules and subagents for parallelized, schema-validated workflows
 
 ## Why It Matters for RAG Builders
-It provides a robust, IDE-integrated agent framework that enhances RAG systems with real-time code execution, debugging, and multi-model tool-calling capabilities.
+Oh-My-Pi provides a robust, production-ready agent framework with unparalleled IDE and debugging integration, making it essential for AI-driven development workflows.
 
 ## Tech Stack Deep Dive
-### TypeScript
-Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Rust
 Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Bun
 Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
