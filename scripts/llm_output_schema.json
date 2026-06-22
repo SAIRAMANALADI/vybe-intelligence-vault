@@ -46,8 +46,8 @@
         "type": "string"
       },
       "minItems": 3,
-      "maxItems": 3,
-      "description": "Array of exactly 3 key feature bullet points"
+      "maxItems": 5,
+      "description": "Array of 3 to 5 key feature bullet points"
     },
     "deployment_complexity": {
       "type": "string",
