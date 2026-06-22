@@ -641,7 +641,7 @@ def main():
     parser = argparse.ArgumentParser(description="Vybe Vault LLM Harvester v2.0")
     parser.add_argument("--mode", choices=["discover", "evaluate", "generate"], required=True)
     parser.add_argument("--topics", default="ai-agent,mcp-server,rag-stack")
-    parser.add_argument("--max-repos", type=int, default=5)
+    parser.add_argument("--max-repos", type=int, default=10)
     parser.add_argument("--repo")
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--force-cloud-llm", action="store_true")
