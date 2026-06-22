@@ -1,25 +1,25 @@
 ---
 title: "shareAI-lab/learn-claude-code"
 category: "Orchestrator"
-tech_stack: ["Python", "Bash", "Claude Code", "LLM APIs", "MCP (Model Context Protocol)", "Async programming", "Sandboxing", "Git"]
+tech_stack: ["Python", "Bash", "Claude Code", "LLM APIs", "MCP (Model Context Protocol)", "Async Programming", "Sandboxing", "Git"]
 quality_score: 9
 rag_relevance: 8
-tags: ["agent harness", "LLM tools", "model orchestration", "AI infrastructure", "coding agents"]
+tags: ["AI agent harness", "LLM tooling", "agent infrastructure", "model deployment", "coding agents"]
 source: "https://github.com/shareAI-lab/learn-claude-code"
-discovered_at: "2026-06-22T15:48:04Z"
+discovered_at: "2026-06-22T15:56:25Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-This repository teaches how to build agent harnesses for AI models, focusing on the operational environment (harness) rather than the model itself. It provides a structured tutorial on creating tools, managing context, curating knowledge, and controlling permissions to enable real-world agent functionality.
+A comprehensive tutorial repository teaching how to build harnesses for AI agents, focusing on the distinction between model intelligence and operational infrastructure. It provides hands-on lessons for creating environments where LLMs can act as agents with tools, context management, and permission controls.
 
 ## Key Features
-- Teaches the core pattern of agent harnesses with a minimal, reusable loop structure for tool execution and context management.
-- Provides hands-on tutorials (20 chapters) for building tools, knowledge bases, and permission systems to operationalize AI models.
-- Emphasizes the separation of model intelligence (provided by LLMs) and operational infrastructure (harness), avoiding over-engineered workflows.
+- Teaches the core pattern of agent harnesses with a minimal, reusable loop structure for LLM tool use
+- Provides 20 structured tutorials covering tools, context management, permissions, and subagent coordination
+- Demonstrates real-world agent patterns with Claude Code as a reference implementation
 
 ## Why It Matters for RAG Builders
-It provides a foundational blueprint for building the operational environments that turn trained AI models into functional agents, critical for RAG and AI stack builders.
+It clarifies the critical role of harness engineering in transforming trained LLMs into functional agents, providing practical patterns for building scalable and secure agent infrastructures.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -37,8 +37,8 @@ Automated review identified **LLM APIs** as a key module contributing to infrast
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Async programming
-Automated review identified **Async programming** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Async Programming
+Automated review identified **Async Programming** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Sandboxing
 Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
