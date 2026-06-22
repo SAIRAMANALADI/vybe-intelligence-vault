@@ -222,8 +222,8 @@ async function buildIndex() {
           path: relPath,
           title: title,
           category: folder,
-          tags: parsed.metadata.tags || [],
-          tech_stack: parsed.metadata.tech_stack || [],
+          tags: Array.isArray(parsed.metadata.tags) ? parsed.metadata.tags : (parsed.metadata.tags ? [String(parsed.metadata.tags)] : []),
+          tech_stack: Array.isArray(parsed.metadata.tech_stack) ? parsed.metadata.tech_stack : (parsed.metadata.tech_stack ? [String(parsed.metadata.tech_stack)] : []),
           quality_score: parsed.metadata.quality_score || 0,
           rag_relevance: parsed.metadata.rag_relevance || 0,
           embedding_vector_id: `vec_${relPath.replace(/[^a-zA-Z0-9]/g, '_')}`,
@@ -290,11 +290,11 @@ async function buildIndex() {
       const v2 = embeddingsMap[n2.path];
       const sim = cosineSimilarity(v1, v2);
       
-      const tags1 = new Set(n1.tags.map(t => t.toLowerCase()));
-      const sharedTags = n2.tags.filter(t => tags1.has(t.toLowerCase()));
+      const tags1 = new Set(n1.tags.map(t => String(t).toLowerCase()));
+      const sharedTags = n2.tags.filter(t => tags1.has(String(t).toLowerCase()));
       
-      const tech1 = new Set(n1.tech_stack.map(t => t.toLowerCase()));
-      const sharedTech = n2.tech_stack.filter(t => tech1.has(t.toLowerCase()));
+      const tech1 = new Set(n1.tech_stack.map(t => String(t).toLowerCase()));
+      const sharedTech = n2.tech_stack.filter(t => tech1.has(String(t).toLowerCase()));
       
       let weight = sim;
       let type = 'similar_to';
