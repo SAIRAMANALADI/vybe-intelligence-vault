@@ -6,7 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | arxiv | 3263 |
 | huggingface | 854 |
-| github | 397 |
+| github | 398 |
 | nextjs.org | 64 |
 | react.dev | 23 |
 | medium.com | 17 |
