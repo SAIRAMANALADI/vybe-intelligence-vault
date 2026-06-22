@@ -108,10 +108,16 @@ jobs:
             $CLOUD_ARG \
             --correlation-id "${{ needs.discover.outputs.correlation_id }}"
 
+      - name: Generate Safe Artifact Name
+        id: safe-name
+        run: |
+          SAFE_NAME=$(echo "${{ matrix.repo }}" | tr '/' '-')
+          echo "artifact_name=eval-$SAFE_NAME" >> $GITHUB_OUTPUT
+
       - name: Upload Evaluation JSON
         uses: actions/upload-artifact@v4
         with:
-          name: eval-${{ matrix.repo }}
+          name: ${{ steps.safe-name.outputs.artifact_name }}
           path: evaluation-*.json
           if-no-files-found: ignore
 
