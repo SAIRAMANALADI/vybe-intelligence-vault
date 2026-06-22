@@ -56,7 +56,7 @@ jobs:
         run: |
           # Use topics from config or input filter
           TOPICS="${{ github.event.inputs.topic_filter || 'ai-agent,mcp-server,rag-stack' }}"
-          MAX_REPOS="${{ github.event.inputs.max_repos || 10 }}"
+          MAX_REPOS="${{ github.event.inputs.max_repos || 50 }}"
           python scripts/evaluate_repo.py --mode discover \
             --topics "$TOPICS" \
             --max-repos $MAX_REPOS \
