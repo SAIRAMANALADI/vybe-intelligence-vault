@@ -205,7 +205,20 @@ def query_eval_llm(prompt, system_prompt, force_cloud=True):
                 cost = (prompt_tokens * 0.15 + completion_tokens * 0.60) / 1000000
                 total_tokens = prompt_tokens + completion_tokens
                 return raw_text, cloud_model, total_tokens, cost
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                log("Cloud LLM rate limited (HTTP 429). Retrying after 15s...")
+                time.sleep(15)
+                raise e
+            if force_cloud:
+                log(f"Cloud LLM HTTP error: {e}. Retrying in cloud mode...")
+                raise e
+            log(f"Cloud LLM failed: {e}. Falling back to local Ollama...")
+            provider = "ollama"
         except Exception as e:
+            if force_cloud:
+                log(f"Cloud LLM failed: {e}. Retrying in cloud mode...")
+                raise e
             log(f"Cloud LLM failed: {e}. Falling back to local Ollama...")
             provider = "ollama"
 
@@ -379,7 +392,9 @@ def evaluate_mode(args):
     system_prompt = (
         "Analyze this repository for inclusion in an AI engineering intelligence vault.\n"
         "Return strictly valid JSON conforming to the requested schema.\n"
-        "Do not include conversational text or markdown code fences around the JSON."
+        "Do not include conversational text or markdown code fences around the JSON.\n"
+        f"EXPECTED JSON SCHEMA:\n{json.dumps(schema, indent=2)}\n"
+        "CRITICAL: The 'why_it_matters' field MUST be a single plain string sentence. Do NOT return an object or dictionary for why_it_matters."
     )
     
     truncated_readme = readme[:12000] if readme else ""
@@ -393,7 +408,7 @@ def evaluate_mode(args):
     )
     
     # Query with retry/validation
-    retry_count = 1
+    retry_count = 3
     eval_data = None
     model_used = "gpt-4o-mini"
     tokens = 0
@@ -412,7 +427,7 @@ def evaluate_mode(args):
                 error_file.write_text(json.dumps({"repo": repo, "error": str(e)}))
                 append_event("pipeline.failed", {"repo": repo, "error": str(e)}, args.correlation_id)
                 sys.exit(1)
-            time.sleep(2)
+            time.sleep(15 if "429" in str(e) else 3)
             
     result = {
         "repo_name": repo,
