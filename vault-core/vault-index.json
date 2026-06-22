@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-22T16:10:46.443Z",
+  "last_updated": "2026-06-22T16:56:06.438Z",
   "nodes": [
     {
       "id": "845a857f-9694-cc91-6c9d-2d60de8f31d7",
@@ -12,7 +12,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_3d_webdev_map_md",
-      "last_modified": "2026-06-22T16:10:46.073Z",
+      "last_modified": "2026-06-22T16:56:06.049Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -26,7 +26,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_README_md",
-      "last_modified": "2026-06-22T16:10:46.077Z",
+      "last_modified": "2026-06-22T16:56:06.052Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -40,7 +40,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_agent_stack_map_md",
-      "last_modified": "2026-06-22T16:10:46.080Z",
+      "last_modified": "2026-06-22T16:56:06.056Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -54,7 +54,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_ai_engineering_map_md",
-      "last_modified": "2026-06-22T16:10:46.083Z",
+      "last_modified": "2026-06-22T16:56:06.059Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -68,7 +68,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_frontend_ai_ui_map_md",
-      "last_modified": "2026-06-22T16:10:46.087Z",
+      "last_modified": "2026-06-22T16:56:06.062Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -82,7 +82,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_llmops_map_md",
-      "last_modified": "2026-06-22T16:10:46.090Z",
+      "last_modified": "2026-06-22T16:56:06.066Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -96,7 +96,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_mcp_stack_map_md",
-      "last_modified": "2026-06-22T16:10:46.093Z",
+      "last_modified": "2026-06-22T16:56:06.069Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -110,7 +110,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_rag_stack_map_md",
-      "last_modified": "2026-06-22T16:10:46.097Z",
+      "last_modified": "2026-06-22T16:56:06.072Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -124,7 +124,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_startup_builder_map_md",
-      "last_modified": "2026-06-22T16:10:46.099Z",
+      "last_modified": "2026-06-22T16:56:06.074Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -138,7 +138,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_agents_md",
-      "last_modified": "2026-06-22T16:10:46.103Z",
+      "last_modified": "2026-06-22T16:56:06.078Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -152,7 +152,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_coding_agents_md",
-      "last_modified": "2026-06-22T16:10:46.105Z",
+      "last_modified": "2026-06-22T16:56:06.080Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -166,7 +166,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_automation_md",
-      "last_modified": "2026-06-22T16:10:46.108Z",
+      "last_modified": "2026-06-22T16:56:06.083Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -180,7 +180,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_fastapi_md",
-      "last_modified": "2026-06-22T16:10:46.111Z",
+      "last_modified": "2026-06-22T16:56:06.085Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -194,7 +194,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_framer_motion_md",
-      "last_modified": "2026-06-22T16:10:46.114Z",
+      "last_modified": "2026-06-22T16:56:06.088Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -208,7 +208,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_frontend_ai_ui_md",
-      "last_modified": "2026-06-22T16:10:46.117Z",
+      "last_modified": "2026-06-22T16:56:06.090Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -222,7 +222,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_gsap_md",
-      "last_modified": "2026-06-22T16:10:46.120Z",
+      "last_modified": "2026-06-22T16:56:06.092Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -236,7 +236,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_langgraph_md",
-      "last_modified": "2026-06-22T16:10:46.124Z",
+      "last_modified": "2026-06-22T16:56:06.095Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -250,7 +250,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_llmops_md",
-      "last_modified": "2026-06-22T16:10:46.127Z",
+      "last_modified": "2026-06-22T16:56:06.098Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -264,7 +264,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_local_llm_md",
-      "last_modified": "2026-06-22T16:10:46.129Z",
+      "last_modified": "2026-06-22T16:56:06.100Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -278,7 +278,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_mcp_md",
-      "last_modified": "2026-06-22T16:10:46.131Z",
+      "last_modified": "2026-06-22T16:56:06.102Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -292,7 +292,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_prompt_engineering_md",
-      "last_modified": "2026-06-22T16:10:46.133Z",
+      "last_modified": "2026-06-22T16:56:06.104Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -306,7 +306,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_rag_md",
-      "last_modified": "2026-06-22T16:10:46.136Z",
+      "last_modified": "2026-06-22T16:56:06.107Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -320,7 +320,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_react_three_fiber_md",
-      "last_modified": "2026-06-22T16:10:46.138Z",
+      "last_modified": "2026-06-22T16:56:06.109Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -334,7 +334,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_shadcn_ui_md",
-      "last_modified": "2026-06-22T16:10:46.140Z",
+      "last_modified": "2026-06-22T16:56:06.111Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -348,7 +348,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_tailwind_md",
-      "last_modified": "2026-06-22T16:10:46.142Z",
+      "last_modified": "2026-06-22T16:56:06.114Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -362,7 +362,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_threejs_md",
-      "last_modified": "2026-06-22T16:10:46.145Z",
+      "last_modified": "2026-06-22T16:56:06.116Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -376,7 +376,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_vector_databases_md",
-      "last_modified": "2026-06-22T16:10:46.147Z",
+      "last_modified": "2026-06-22T16:56:06.119Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -390,7 +390,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_webgpu_md",
-      "last_modified": "2026-06-22T16:10:46.149Z",
+      "last_modified": "2026-06-22T16:56:06.121Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -404,7 +404,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_11_md",
-      "last_modified": "2026-06-22T16:10:46.156Z",
+      "last_modified": "2026-06-22T16:56:06.128Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -418,7 +418,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_12_md",
-      "last_modified": "2026-06-22T16:10:46.161Z",
+      "last_modified": "2026-06-22T16:56:06.133Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -432,7 +432,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_15_md",
-      "last_modified": "2026-06-22T16:10:46.173Z",
+      "last_modified": "2026-06-22T16:56:06.143Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -446,7 +446,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_16_md",
-      "last_modified": "2026-06-22T16:10:46.180Z",
+      "last_modified": "2026-06-22T16:56:06.154Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -460,7 +460,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_17_md",
-      "last_modified": "2026-06-22T16:10:46.187Z",
+      "last_modified": "2026-06-22T16:56:06.160Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -474,7 +474,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_18_md",
-      "last_modified": "2026-06-22T16:10:46.196Z",
+      "last_modified": "2026-06-22T16:56:06.167Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -488,7 +488,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_21_md",
-      "last_modified": "2026-06-22T16:10:46.202Z",
+      "last_modified": "2026-06-22T16:56:06.173Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -502,7 +502,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_22_md",
-      "last_modified": "2026-06-22T16:10:46.212Z",
+      "last_modified": "2026-06-22T16:56:06.179Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -520,7 +520,25 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_agent_reach_md",
-      "last_modified": "2026-06-22T16:10:46.214Z",
+      "last_modified": "2026-06-22T16:56:06.181Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "b4e6a726-07b2-3354-742d-27f6c784875f",
+      "path": "daily-digests/2026-06-22/aionui.md",
+      "title": "iOfficeAI/AionUi",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI coworking\", \"multi-agent collaboration\", \"document automation\", \"cross-platform\", \"open-source\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Electron\", \"React\", \"Node.js\", \"Python\", \"MCP (Model Context Protocol)\", \"WebSockets\", \"Docker\", \"SQLite\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_aionui_md",
+      "last_modified": "2026-06-22T16:56:06.184Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -538,7 +556,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_career_ops_md",
-      "last_modified": "2026-06-22T16:10:46.216Z",
+      "last_modified": "2026-06-22T16:56:06.186Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -556,7 +574,43 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cherry_studio_md",
-      "last_modified": "2026-06-22T16:10:46.218Z",
+      "last_modified": "2026-06-22T16:56:06.188Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "1e76fac1-fdb8-2e86-b472-d58ee1083c48",
+      "path": "daily-digests/2026-06-22/cli.md",
+      "title": "googleworkspace/cli",
+      "category": "daily-digests",
+      "tags": [
+        "[\"Google Workspace\", \"CLI\", \"API Integration\", \"AI Agent Tools\", \"Automation\"]"
+      ],
+      "tech_stack": [
+        "[\"Rust\", \"Node.js\", \"TypeScript\", \"OAuth 2.0\", \"Google Discovery API\", \"CLI\", \"Nix\", \"Homebrew\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_cli_md",
+      "last_modified": "2026-06-22T16:56:06.190Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "87d02f18-c5e7-223c-1a14-e0c42f82f2c5",
+      "path": "daily-digests/2026-06-22/copilotkit.md",
+      "title": "CopilotKit/CopilotKit",
+      "category": "daily-digests",
+      "tags": [
+        "[\"agentic applications\", \"generative UI\", \"multi-platform\", \"human-in-the-loop\", \"LLM integration\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"React\", \"Angular\", \"Vue\", \"React Native\", \"Node.js\", \"AG-UI Protocol\", \"LLM APIs (OpenAI, Anthropic, Gemini)\", \"Slack API\", \"Microsoft Teams API\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_copilotkit_md",
+      "last_modified": "2026-06-22T16:56:06.193Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -574,7 +628,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cowagent_md",
-      "last_modified": "2026-06-22T16:10:46.219Z",
+      "last_modified": "2026-06-22T16:56:06.195Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -592,7 +646,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_daily_stock_analysis_md",
-      "last_modified": "2026-06-22T16:10:46.221Z",
+      "last_modified": "2026-06-22T16:56:06.197Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -610,7 +664,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_front_end_checklist_md",
-      "last_modified": "2026-06-22T16:10:46.223Z",
+      "last_modified": "2026-06-22T16:56:06.199Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -628,7 +682,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_hermes_agent_md",
-      "last_modified": "2026-06-22T16:10:46.225Z",
+      "last_modified": "2026-06-22T16:56:06.201Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -646,7 +700,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_learn_claude_code_md",
-      "last_modified": "2026-06-22T16:10:46.226Z",
+      "last_modified": "2026-06-22T16:56:06.203Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -664,7 +718,43 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nanobot_md",
-      "last_modified": "2026-06-22T16:10:46.228Z",
+      "last_modified": "2026-06-22T16:56:06.206Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "1093a705-0dd9-704b-61d9-9d80c568a549",
+      "path": "daily-digests/2026-06-22/openclaude.md",
+      "title": "Gitlawb/openclaude",
+      "category": "daily-digests",
+      "tags": [
+        "[\"coding agent\", \"multi-provider\", \"CLI tool\", \"MCP integration\", \"terminal workflow\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"CLI\", \"MCP (Model Context Protocol)\", \"OAuth\", \"REST APIs\", \"VS Code Extension\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_openclaude_md",
+      "last_modified": "2026-06-22T16:56:06.209Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "5b123743-84fa-3b0d-b988-0c3c4a93ef15",
+      "path": "daily-digests/2026-06-22/ppt-master.md",
+      "title": "hugohe3/ppt-master",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI-generated presentations\", \"PowerPoint automation\", \"document-to-PPTX\", \"editable slides\", \"AI workflow harness\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Claude Code\", \"VS Code + Copilot\", \"PowerPoint API\", \"AI IDEs\", \"Claude\", \"GPT\", \"Gemini\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 6,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_ppt_master_md",
+      "last_modified": "2026-06-22T16:56:06.211Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -682,7 +772,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_siyuan_md",
-      "last_modified": "2026-06-22T16:10:46.230Z",
+      "last_modified": "2026-06-22T16:56:06.213Z",
       "access_count": 0,
       "last_accessed": ""
     }
@@ -1281,7 +1371,7 @@
     "last_pipeline_run": "2026-06-22T11:57:57.721Z",
     "repos_discovered_today": 0,
     "repos_evaluated": 0,
-    "avg_quality_score": 1.96,
+    "avg_quality_score": 2.65,
     "mcp_requests_served": 0,
     "web_sessions": 0
   }
