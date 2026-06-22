@@ -6,35 +6,22 @@
 
 # Vybe Intelligence Vault
 
-An auto-updating open-source intelligence vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.
+An automated, self-reinforcing knowledge repository for AI Engineering, Agentic Workflows, Model Context Protocol (MCP) integrations, RAG architectures, and modern web application development.
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-111111)]()
-[![Auto Updated](https://img.shields.io/badge/Updated-Every%203%20Hours-2563eb)]()
-[![AI Agents](https://img.shields.io/badge/AI-Agents-7c3aed)]()
-[![RAG](https://img.shields.io/badge/RAG-Systems-059669)]()
-[![MCP](https://img.shields.io/badge/MCP-Servers-d97706)]()
-[![Web Dev](https://img.shields.io/badge/Web-Development-0f766e)]()
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-111111?style=flat-square)]()
+[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-059669?style=flat-square)]()
+[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-2563eb?style=flat-square)]()
+[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-d97706?style=flat-square)]()
 
 </div>
 
-<p align="center">
-  <a href="#why-this-vault-is-different">Why Different</a> ·
-  <a href="#vault-stats">Stats</a> ·
-  <a href="#explore-the-vault">Explore</a> ·
-  <a href="#living-skill-files">Living Skills</a> ·
-  <a href="#start-building">Start Building</a> ·
-  <a href="#how-updates-work">Updates</a>
-</p>
-
 ---
 
-## Intro
+## 🌟 Overview
 
-The AI Internet moves fast. New agents, tools, repositories, prompts, research papers, templates, workflows, and frameworks appear every day.
+The velocity of the AI landscape is unprecedented. Navigating the daily influx of new agent frameworks, retrieval paradigms, tool protocols, templates, and research demands structured synthesis rather than static logs.
 
-Vybe Intelligence Vault tracks the signal and organizes it into a clean, builder-friendly archive.
-
-Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligence vault that tracks public AI and web-development signals and organizes them into maps, learning paths, build ideas, skill files, indexes, and archive sections.
+**Vybe Intelligence Vault** bridges this gap. It operates as an active, self-indexing repository that continuously harvests emerging public signals, evaluates repositories using cloud and local LLMs, and maps cognitive relationships into an interactive 3D WebGL dashboard.
 
 ---
 
@@ -80,232 +67,118 @@ The stats shown here are generated from the current vault content. They refresh 
 
 ---
 
-## Why This Vault Is Different
+## ⚡ Key Differentiators
 
-| Typical archive      | Vybe Intelligence Vault                                           |
-| -------------------- | ----------------------------------------------------------------- |
-| Static list of links | Auto-updated every 3 hours                                        |
-| Tool dump            | Builder-focused intelligence system                               |
-| Hard to navigate     | Maps, best-of guides, search index, learning paths                |
-| Popular repos only   | Also tracks early-stage relevant repos, including zero-star repos |
-| Manual updates       | Scheduled automation through GitHub Actions                       |
-| Random resources     | Scored, categorized, safety-scanned resources                     |
-| Only AI tools        | AI, agents, RAG, MCP, prompts, webdev, automation, startup ideas  |
+| Aspect | Legacy Directories | Vybe Intelligence Vault |
+| :--- | :--- | :--- |
+| **Updating Frequency** | Static / Manual curation | Automated 3-hour harvest pipeline |
+| **Curation Philosophy** | Popularity / Star-gated | Value-centric (incorporates emerging zero-star findings) |
+| **Navigation Model** | Flat markdown index lists | Interactive 3D relation graphs & learning paths |
+| **Agent Readiness** | Human-readable only | Native MCP Resource endpoints & context injection |
+| **Validation Layer** | Unverified suggestions | LLM-driven quality scoring & JSON Schema validation |
 
 ---
 
-## Explore the Vault
+## 🏗️ System Architecture (Vault 2.0)
 
-| Section                                 | What it gives you                                    |
-| --------------------------------------- | ---------------------------------------------------- |
-| [Search Index](search-index.md)         | Searchable map of vault resources                    |
-| [Intelligence](intelligence/)           | Latest AI signals, trends, research, repos           |
-| [Workspace Archive](workspace-archive/) | Categorized AI and web development archive           |
-| [Builder Maps](maps/)                   | Stack maps for agents, RAG, MCP, LLMOps, frontend AI |
-| [Build Ideas](build-ideas/)             | Practical project ideas for portfolio and products   |
-| [Learning Paths](learning-paths/)       | 7-day learning paths for key skills                  |
-| [Examples](examples/)                   | How to use this vault with coding agents             |
-| [Stats](stats/)                         | Public vault stats and category counts               |
-| [Roadmap](ROADMAP.md)                   | Planned improvements and future direction            |
-| [Changelog](CHANGELOG.md)               | Latest meaningful vault updates                      |
-
----
-
-## What Is Inside
-
-| Area                    | Includes                                        |
-| ----------------------- | ----------------------------------------------- |
-| AI Agents               | Agent frameworks, orchestration, tool use       |
-| RAG Systems             | Retrieval apps, templates, chunking, reranking  |
-| MCP Servers             | Servers, tools, examples, security notes        |
-| Prompt Libraries        | System prompts, coding prompts, agent prompts   |
-| AI Coding Agents        | Codex, Cursor, Windsurf, Claude Code, Cline     |
-| LLM App Templates       | FastAPI, Next.js, chat apps, AI SaaS templates  |
-| Evals and Observability | RAGAS, promptfoo, Langfuse, tracing, monitoring |
-| Frontend AI UI          | Chat UI, dashboards, shadcn, Tailwind layouts   |
-| 3D Creative Web         | Three.js, R3F, WebGPU, shaders, Spline          |
-| Startup Builder         | MVP ideas, SaaS resources, launch patterns      |
-
----
-
-## Living Skill Files
-
-The vault does not only save links. It continuously updates skill guides based on recent public GitHub repositories, tools, frameworks, docs, templates, and other useful public resources.
-
-Stars and forks are bonus signals, not gatekeeping filters. A zero-star repository can still be included if it is fresh, relevant, and useful for builders.
-
-| Skill            | Updated signals                                  |
-| ---------------- | ------------------------------------------------ |
-| AI Agents        | Frameworks, orchestration patterns, agent repos  |
-| RAG              | Templates, vector databases, chunking, reranking |
-| MCP              | Servers, tools, integrations, examples           |
-| LLMOps           | Evals, tracing, monitoring, RAG evaluation       |
-| AI Coding Agents | Codex, Cursor, Windsurf, Claude Code, Cline      |
-| Frontend AI UI   | Chat UI, dashboards, AI interfaces               |
-| 3D Web           | Three.js, React Three Fiber, WebGPU, shaders     |
-| Automation       | n8n, Playwright, browser workflows               |
-
----
-
-## Start Building
-
-| Start Here               | Path                                                                                                           |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Essential AI Engineering | [workspace-archive/best-of/essential-ai-engineering.md](workspace-archive/best-of/essential-ai-engineering.md) |
-| Essential Agent Building | [workspace-archive/best-of/essential-agent-building.md](workspace-archive/best-of/essential-agent-building.md) |
-| Essential RAG Stack      | [workspace-archive/best-of/essential-rag-stack.md](workspace-archive/best-of/essential-rag-stack.md)           |
-| Essential Frontend AI UI | [workspace-archive/best-of/essential-frontend-ai-ui.md](workspace-archive/best-of/essential-frontend-ai-ui.md) |
-| Essential 3D Web Dev     | [workspace-archive/best-of/essential-3d-webdev.md](workspace-archive/best-of/essential-3d-webdev.md)           |
-| Essential Automation     | [workspace-archive/best-of/essential-automation.md](workspace-archive/best-of/essential-automation.md)         |
-| Newest Resources         | [workspace-archive/_navigation/newest.md](workspace-archive/_navigation/newest.md)                             |
-| Skill Index              | [_index/skill-index.md](_index/skill-index.md)                                                                 |
-
----
-
-## Use With AI Coding Agents
-
-Vault 2.0 features a native Model Context Protocol (MCP) server and HTTP Orchestrator bridge, allowing AI coding agents (such as Codex, Cursor, Windsurf, Claude Code, Cline, and Aider) to query, search, and inject vault files directly into their context window.
-
-Example prompt:
-```txt
-Use this vault to find the best RAG project ideas and create a 7-day build plan.
-```
-
----
-
-## 🏗️ Vault 2.0 Architecture
-
-Vybe Vault 2.0 establishes a fully self-reinforcing knowledge loop between the automated pipeline, your local LLMs, and a 3D interface:
+Vybe Vault 2.0 introduces a closed-loop system syncing automated harvesting, local inference, and visual analytics:
 
 ```mermaid
 graph TD
-    A[Cron / Dispatch Workflow] -->|1. Discover| B(evaluate_repo.py)
+    A[Cron / Dispatch Trigger] -->|1. Discover| B(evaluate_repo.py)
     B -->|2. Evaluate via Cloud/Local LLM| C{Decision Engine}
-    C -->|Commit Node & Events| D[vault-core/]
+    C -->|Commit Nodes & Logs| D[vault-core/]
     D -->|3. Trigger push| E(rebuild-index.yml)
-    E -->|4. Generate embeddings| F[vault-index.json]
+    E -->|4. Generate vector coordinates| F[vault-index.json]
     F -->|5. SWR Polling| G[React 3D Intelligence Map]
-    H[Coding Agent] -->|6. MCP Request| I[Orchestrator HTTP Bridge: 3456]
-    I -->|Query & Context Inject| D
+    H[AI Agent] -->|6. MCP Request| I[Orchestrator HTTP Bridge: 3456]
+    I -->|Read & Inject| D
 ```
 
-### 1. The Single Source of Truth (`vault-core/`)
-- `vault-index.json`: Compiled graph mapping containing v2.0 metadata nodes, edges calculated from cosine vector similarities, and system health metrics.
-- `vault-events.log`: Append-only event-sourced JSONL stream tracking discovery, valuations, and agent reads.
-- `embeddings/`: Gitignored cache storing 768-dimension nomic-embed-text vector files for each node.
+### 1. Unified Core Storage (`vault-core/`)
+Serving as the single source of truth:
+- `vault-index.json`: v2.0 graph dataset specifying nodes, metadata, system health, and vector similarity edges.
+- `vault-events.log`: Append-only event-sourcing JSONL ledger logging pipeline discoveries, audits, and reads.
+- `embeddings/`: Gitignored vector coordinates cache generated at build time.
 
 ### 2. HTTP Orchestration Bridge & Decision Engine
-Runs as a lightweight, Express-free Node service on port `3456`:
-- `/orchestrate`: Handles pipeline commands (`harvest`, `rebuild`), filters (`query`), and prompt injections (`inject`).
-- `/events`: Accesses the tail of the events log.
-- `/health`: Health status checks of local ports.
-- **Decision Engine**: Automatically tracks daily API cost budgets and routes query evaluations to local Ollama (qwen2.5:14b) or cloud LLMs (gpt-4o-mini).
+Runs as a zero-dependency HTTP daemon on port `3456`:
+- `/orchestrate`: Endpoint routing action calls (`harvest`, `query`, `status`, `rebuild`, `inject`).
+- `/events`: Stream access to event history.
+- **Decision Engine**: Allocates daily token budgets and manages fallback routing (Cloud GPT-4o-mini for validation, local Ollama Qwen 2.5:14b for metadata summaries).
 
-### 3. Interactive 3D Web Dashboard (`intelligence-map/`)
-- **Visuals**: React 19 + Vite dashboard running on port `5173`, styled with 90s CRT vignettes and scanlines.
-- **3D Physics Layout**: Computes real-time layouts using `d3-force-3d` with collision physics.
-- **Geometries**: Icosahedron (skills), Box (maps), and Octahedron (daily-digests) category structures.
-- **Shader Edges**: Glowing Cylinder meshes running custom fragment shaders representing data-flow paths.
-- **Features**: SWR polling hooks, Framer Motion Cmd+K fuzzy-search search chip modal, and GSAP scroll trajectories.
+### 3. Model Context Protocol (MCP) Server
+A FastMCP-compliant server enabling coding assistants (Cursor, Claude Code, Cline, etc.) to:
+- Browse guides as dynamic, self-documenting MCP prompts.
+- Query search indices directly using natural language.
+- Load clean RAG context cards using URI schemas (`vault://{path}`).
 
-### 4. Unified Harvester Pipeline
-A multi-stage GitHub Actions runner executing every 3 hours:
-- **DISCOVER**: Searches GitHub API for configuring topics and saves `discovery-batch.json`.
-- **EVALUATE**: Fetches readme content, calls cloud or local Ollama routines, and writes `evaluated-batch.json`.
-- **COMMIT**: Commits new daily-digests markdown entries and appends cost tracking correlation IDs.
-- **REBUILD**: Wait for the rebuild-index workflow, recalculates averages, and publishes `pipeline-report.json`.
+### 4. Interactive 3D Web Dashboard (`intelligence-map/`)
+- **WebGL Rendering**: React 19 + Vite dashboard running on port `5173`.
+- **Force Simulation**: Dynamic layouts computed via `d3-force-3d` with collision detection.
+- **Visual Materials**: glowing cylinder meshes running custom fragment shaders representing data-flow paths.
+- **Navigation**: GSAP ScrollTrigger camera flight-paths, Framer Motion filter chips, and Cmd+K command palettes.
 
 ---
 
-## ⚡ Quick Start: Local Orchestration
+## 🚀 Quick Start: Local Curation Engine
 
-To run the entire Vault 2.0 system locally:
+Launch the concurrent services suite locally using a single startup control script:
 
 ```bash
-# 1. Start Ollama (Ensure nomic-embed-text is pulled)
+# 1. Start local LLM services (Ensure models are loaded)
 ollama pull nomic-embed-text
 ollama pull qwen2.5:14b
 
-# 2. Run the start helper from the repository root
+# 2. Run the initialization utility from the repository root
 bash scripts/vault-init.sh
 ```
 
-This starts all three services concurrently in your terminal:
+Upon execution, the terminal starts:
 - **MCP Server** (FastMCP) at `http://localhost:3000`
 - **Orchestrator Bridge** (Agent Command gateway) at `http://localhost:3456`
-- **Intelligence Map Web App** (CRT 3D dashboard) at `http://localhost:5173`
+- **Intelligence Map Dashboard** (WebGL Visuals) at `http://localhost:5173`
 
-To audit the current health of the vault, run:
+To audit the current health status of the services, run:
 ```bash
 bash scripts/vault-status.sh
 ```
 
 ---
 
-## 📂 Repository Structure
+## 📁 Directory Layout
 
 ```txt
 .
 ├── vault-core/
-│   ├── config.yaml          # Topic list and token budget config
-│   ├── vault-index.json     # Node/edge graph metadata
-│   └── vault-events.log     # Event sourced audit stream
-├── intelligence-map/        # React 19 3D Web GL Dashboard
-├── mcp-server/              # Native python FastMCP server
+│   ├── config.yaml          # Topic search queries and budget boundaries
+│   ├── vault-index.json     # Compiled relation graph
+│   └── vault-events.log     # Event sourced pipeline ledger
+├── intelligence-map/        # React 19 visual WebGL 3D dashboard
+├── mcp-server/              # FastMCP integration server
 ├── scripts/
-│   ├── orchestrator/        # Context injection and routing engines
-│   ├── state-manager.js     # Thread-safe read/write locking module
-│   ├── build-index.js       # Index parser and vector edge generator
-│   ├── vault-init.sh        # Service startup helper
-│   └── vault-status.sh      # Service health status query script
-├── maps/                    # Stack blueprints (Cyan nodes)
-├── skills/                  # Living guides (Amber nodes)
-├── daily-digests/           # Discovered repo reviews (Magenta nodes)
-├── prompts/                 # Prompt templates (Green nodes)
+│   ├── orchestrator/        # Context optimization and routing engines
+│   ├── state-manager.js     # Lock-safe state management module
+│   ├── build-index.js       # Index compiler and embedding calculator
+│   ├── vault-init.sh        # Concurrent services startup helper
+│   └── vault-status.sh      # Service stats audit tool
+├── maps/                    # High-level architecture blueprints (Cyan)
+├── skills/                  # Living guides & stack tutorials (Amber)
+├── daily-digests/           # Discovered repository reviews (Magenta)
+├── prompts/                 # Prompt templates & LLM instructions (Green)
 └── search-index.md
 ```
 
 ---
 
-## How Updates Work
+## 🤝 Contributing
 
-This vault is refreshed every 3 hours by a private harvester bot running through GitHub Actions configured to the canonical **Asia/Kolkata (IST)** timezone (`+05:30`).
-
-Each run:
-- queries GitHub and filters already indexed entries in `vault-index.json`
-- evaluates readme files using cloud models or local fallback routers
-- commits daily digests and logs token costs in the event log
-- rebuilds similarity coordinates and publishes reports
-
-If no meaningful changes are found, the workflow exits successfully without creating empty commits.
-For details on timezone mapping and bot attribution verification, see the [Timezone Audit Report](timezone_audit_report.md).
+Found a relevant AI repository, tool stack, MCP server, prompt template, or web dev resource?
+Contributions are welcome. Please open an issue or submit a pull request conforming to the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## Contributing
+## 📜 License & Attribution
 
-Found a useful AI repo, prompt library, MCP server, RAG template, dataset, API, or web-development resource?
-
-Open an issue or pull request.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## Attribution and Disclaimer
-
-This vault contains curated metadata, summaries, links, and notes from public resources. Original content belongs to respective authors. Source URLs are preserved wherever available.
-
-This repository does not claim ownership of external resources.
-
----
-
-## License
-
-This project is released under the MIT License where applicable. See [LICENSE](LICENSE).
-
----
-
-## Support the Vault
-
-If this vault helps you discover useful AI resources, consider starring the repo so more builders can find it.
+- Metadata, links, and content summaries are compiled from public repositories. Intellectual ownership remains with original creators.
+- This codebase is released under the **MIT License**. For licensing details, see [LICENSE](LICENSE).
