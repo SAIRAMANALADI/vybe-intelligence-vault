@@ -1,109 +1,241 @@
-     __    __     __          
- _  / /__ / /__ _/ /_ ___     
-| |/ / // / _ `/ __// -_)    
-|___/\_, /\_,_/\__/ \__/     
-    /___/                    
-  ___       __       __   ___ 
- (_-</ _ \ / // _ \ / // _ \/ -_)
-/___/_//_//_//_//_//_//_//_/\__/ 
-     __   __        ____      
- | |/ /__ _ __ / / /_      
- |   // _` // // // / // _/     
- |___/\_,_/ \_,_//_/ /_//_/     
+<p align="center">
+  <img src="assets/vault-hero.png" alt="Vybe Intelligence Vault" width="100%">
+</p>
 
-*autonomous knowledge acquisition network*
+<div align="center">
 
-[![pipeline](https://img.shields.io/badge/pipeline-active-green?style=flat-square)](#)
-[![resources](https://img.shields.io/badge/resources-5900+-blue?style=flat-square)](#)
-[![sync](https://img.shields.io/badge/sync-hourly-lightgrey?style=flat-square)](#)
-[![license](https://img.shields.io/badge/license-MIT-red?style=flat-square)](#)
+# Vybe Intelligence Vault
 
-a self-updating repository of machine learning and engineering patterns.
-the harvester crawls github, extracts context, and indexes architectures hourly.
+An automated, self-reinforcing knowledge repository for AI Engineering, Agentic Workflows, Model Context Protocol (MCP) integrations, RAG architectures, and modern web application development.
 
-### pipeline
+[![License](https://img.shields.io/badge/License-MIT-111111?style=flat-square)]()
+[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-1f2937?style=flat-square)]()
+[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-374151?style=flat-square)]()
+[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-4b5563?style=flat-square)]()
 
-discover -> fetch -> evaluate -> index -> push
+</div>
 
-| stage | tool | action |
-|---|---|---|
-| discover | `github api` | polls for top recently updated repos |
-| fetch | `robots_guard` | downloads context, respects tarpits |
-| evaluate | `mistral llm` | structures unistructured text to json |
-| index | `node.js` | builds relational graph database |
 
-### live stats
+
+## ── Dossier Overview
+
+The velocity of the AI landscape is unprecedented. Curation of tools, retrieval paradigms, agent protocols, and template architectures requires active synthesis. Vybe Intelligence Vault processes emerging public signals, scoring and indexing repositories using local and cloud LLM evaluations.
+
+---
 
 <!-- VAULT_STATS:START -->
-```bash
-$ cat stats/vault-stats.json | jq '.'
-{
-  "vault_status": "synced",
-  "total_resources": 5912,
-  "top_topics": {
-    "agent-framework": 1204,
-    "vector-db": 843,
-    "rag-stack": 655
-  },
-  "last_crawl": "2026-06-22T23:00:00Z"
-}
-```
+
+<div align="center">
+  <h2>📊 Intelligence Analytics Dashboard</h2>
+  <p><em>Real-time metrics generated from active vault contents.</em></p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🗄️ Core Storage</h3>
+        <p><b>Resources tracked:</b> 5,928</p>
+        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 143</p>
+      </td>
+      <td align="center">
+        <h3>📂 Archives & Maps</h3>
+        <p><b>Archive Files:</b> 24,573</p>
+        <p><b>Builder Maps:</b> 8</p>
+      </td>
+      <td align="center">
+        <h3>⚡ Status</h3>
+        <p><b>Last Update:</b> 2026-06-23 00:27 IST</p>
+        <p><b>Health:</b> 🟢 Optimal</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 📈 Trending Signals
+> Top rising resources based on momentum and community velocity.
+
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+1</kbd>
+
+### 🌟 New Discoveries
+> Fresh intelligence recently indexed into the vault.
+
+- 🆕 **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** • Score: `0`
+- 🆕 **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** • Score: `0`
+- 🆕 **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** • Score: `0`
+- 🆕 **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** • Score: `0`
+- 🆕 **[Building Deep Research: How we Achieved State of the Art](ai/models/huggingface-blog-tavily.md)** • Score: `0`
+
+### 💤 Recently Inactive
+> Resources showing declined activity or relevance.
+
+- None.
+
+The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
+
+<!-- Automated Stats Injection Block -->
+
 <!-- VAULT_STATS:END -->
 
-### key internals
+---
 
-`src/discovery/robots_guard.py`
-```python
-def wait_if_needed(self, url: str) -> None:
-    # prevents tarpit slowloris hangs on aggressive crawls
-    for chunk in res.iter_content(chunk_size=8192):
-        if time.time() - start_time > 10.0:
-            break
+## ── Core Architecture (Vault 2.0)
+
+Vybe Vault 2.0 establishes a closed-loop system syncing automated harvesting, local vector inference, and visual analytics:
+
+```mermaid
+graph TD
+    A[Cron / Dispatch Trigger] -->|1. Discover| B(evaluate_repo.py)
+    B -->|2. Evaluate via Cloud/Local LLM| C{Decision Engine}
+    C -->|Commit Nodes & Logs| D[vault-core/]
+    D -->|3. Trigger push| E(rebuild-index.yml)
+    E -->|4. Generate vector coordinates| F[vault-index.json]
+    F -->|5. SWR Polling| G[React 3D Intelligence Map]
+    H[AI Agent] -->|6. MCP Request| I[Orchestrator HTTP Bridge: 3456]
+    I -->|Read & Inject| D
 ```
 
-`scripts/evaluate_repo.py`
-```python
-def extract_and_validate_json(raw_text, schema):
-    # forces llm output into strictly typed schema structures
-    parsed = json.loads(text)
-    jsonschema.validate(instance=parsed, schema=schema)
+### 1. State Management & Event Sourcing
+State write-locks (`state.lock`) prevent collision writes. Updates append to `vault-events.log` (JSONL format) while reads leverage a 30s TTL in memory.
+
+*Commented node index updates:*
+```javascript
+// scripts/state-manager.js
+async function updateNode(id, mutations) {
+  // Acquire lock using 'wx' flag on state.lock file to prevent collisions
+  await acquireLock();
+  try {
+    const index = readIndex();
+    let node = index.nodes.find(n => n.id === id);
+    const nowStr = new Date().toISOString();
+    
+    if (node) {
+      // Merge node properties and update modified timestamp
+      Object.assign(node, mutations);
+      node.last_modified = nowStr;
+    } else {
+      // Initialize node using the version 2.0 schema structure
+      node = {
+        id,
+        path: mutations.path || id,
+        title: mutations.title || path.basename(id, '.md'),
+        category: mutations.category || 'skills',
+        tags: mutations.tags || [],
+        tech_stack: mutations.tech_stack || [],
+        quality_score: mutations.quality_score || 0,
+        rag_relevance: mutations.rag_relevance || 0,
+        embedding_vector_id: mutations.embedding_vector_id || '',
+        last_modified: nowStr,
+        access_count: 0,
+        last_accessed: ''
+      };
+      index.nodes.push(node);
+    }
+    
+    // Write out updated index to source of truth and root copy
+    writeIndex(index);
+    return node;
+  } finally {
+    // Gracefully release lock file
+    releaseLock();
+  }
+}
 ```
 
-`.github/workflows/harvester.yml`
-```yaml
-strategy:
-  # constrains concurrent hits to bypass cloud provider 429 limits
-  max-parallel: 2
+### 2. Embeddings & Relation Edges
+Runs cosine similarity (`sim > 0.75`) using local Ollama (`nomic-embed-text`) to establish semantic edges, combining tag overlap and parsed relative markdown links.
+
+*Commented similarity edge evaluations:*
+```javascript
+// scripts/build-index.js
+// Calculate similarity and tags to dynamically draw edges
+const sim = cosineSimilarity(vector1, vector2);
+const sharedTags = tags2.filter(t => tags1.has(t));
+
+if (sim > 0.75 || sharedTags.length >= 1) {
+  // Select type based on tech stack or category overlaps
+  let type = 'similar_to';
+  if (sharedTech.length >= 1) type = 'depends_on';
+  else if (n1.category === n2.category) type = 'references';
+  
+  edges.push({
+    source: n1.path,
+    target: n2.path,
+    type,
+    weight: parseFloat((sim + sharedTags.length * 0.08).toFixed(2))
+  });
+}
 ```
 
-### quickstart
+### 3. Agentic Command gateway
+Runs concurrently on port `3456` enabling local agents to inject clean prompt contexts dynamically:
+
+*Commented injection formatter:*
+```javascript
+// scripts/orchestrator/context-injector.js
+function injectFile(filePath) {
+  const fullPath = path.resolve(ROOT_DIR, filePath);
+  
+  // Enforce directory boundaries
+  if (!fullPath.startsWith(ROOT_DIR)) {
+    throw new Error('Access denied: Out of bounds path');
+  }
+  
+  const content = fs.readFileSync(fullPath, 'utf-8');
+  
+  // Formats file cleanly for the LLM context window
+  let header = `=== VAULT ENTRY: ${filePath} ===\n`;
+  header += `================================================\n\n`;
+  
+  return `${header}${content}\n\n=== END VAULT ENTRY ===`;
+}
+```
+
+---
+
+## ⚡ Execution Control
+
+Launch local orchestration using the concurrent init script:
 
 ```bash
-# clone the intelligence graph
-git clone https://github.com/sairaman436/vybe-intelligence-vault.git
+# 1. Start Ollama and download models
+ollama pull nomic-embed-text
+ollama pull qwen2.5:14b
 
-# run the engine locally
-cd vybe-intelligence-vault
-python scripts/evaluate_repo.py --mode discover --max-repos 50
-
-# process the queue
-python scripts/evaluate_repo.py --mode evaluate --repo owner/name
+# 2. Run system init (concurrently runs MCP, Orchestrator, & Web UI)
+bash scripts/vault-init.sh
 ```
 
-### structure
+Audit system ports, events, and health metrics:
+```bash
+bash scripts/vault-status.sh
+```
 
-```text
+---
+
+## 📁 Repository Layout
+
+```txt
 .
-├── vault/                  # the raw indexed json and markdown
-├── engine/                 # the harvester core logic
-├── scripts/                # pipeline orchestrators
-│   └── evaluate_repo.py    # the llm bridge
-├── .github/
-│   └── workflows/          # cron scheduling and ci
-└── README.md
+├── vault-core/
+│   ├── config.yaml          # Search topics and token budget limits
+│   ├── vault-index.json     # Compiled relation graph (nodes and edges)
+│   └── vault-events.log     # Event sourced pipeline ledger
+├── intelligence-map/        # React 19 3D visual WebGL dashboard
+├── mcp-server/              # FastMCP integration server
+├── scripts/
+│   ├── orchestrator/        # Context window optimization engines
+│   ├── state-manager.js     # Lock-safe state management module
+│   ├── build-index.js       # Index compiler and embedding calculator
+│   ├── vault-init.sh        # Startup orchestrator daemon
+│   └── vault-status.sh      # Service health status query script
+└── search-index.md
 ```
 
-### links
+---
 
-[engine source](https://github.com/sairaman436/vybe-intelligence-engine)
-[issues](https://github.com/sairaman436/vybe-intelligence-vault/issues)
+## 🤝 Contributing & License
+
+- Submit issues or pull requests conforming to guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+- Code is released under the **MIT License**. Details available in [LICENSE](LICENSE).
