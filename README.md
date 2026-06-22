@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vybe-intelligence-vault-banner.svg" alt="Vybe Intelligence Vault" width="100%">
+  <img src="assets/vault-hero.png" alt="Vybe Intelligence Vault" width="100%">
 </p>
 
 <div align="center">
@@ -8,20 +8,24 @@
 
 An automated, self-reinforcing knowledge repository for AI Engineering, Agentic Workflows, Model Context Protocol (MCP) integrations, RAG architectures, and modern web application development.
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-111111?style=flat-square)]()
-[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-059669?style=flat-square)]()
-[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-2563eb?style=flat-square)]()
-[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-d97706?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-111111?style=flat-square)]()
+[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-1f2937?style=flat-square)]()
+[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-374151?style=flat-square)]()
+[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-4b5563?style=flat-square)]()
 
 </div>
 
 ---
 
-## 🌟 Overview
+> [!NOTE]
+> ### 🌐 [Launch Interactive 3D Web Dashboard (Local: 5173)](http://localhost:5173/)
+> Experience the vault in a premium WebGL environment. Paired with dynamic D3-force physical layouts, cylinder shaders, and scroll-driven GSAP camera flight path trajectories.
 
-The velocity of the AI landscape is unprecedented. Navigating the daily influx of new agent frameworks, retrieval paradigms, tool protocols, templates, and research demands structured synthesis rather than static logs.
+---
 
-**Vybe Intelligence Vault** bridges this gap. It operates as an active, self-indexing repository that continuously harvests emerging public signals, evaluates repositories using cloud and local LLMs, and maps cognitive relationships into an interactive 3D WebGL dashboard.
+## ── Dossier Overview
+
+The velocity of the AI landscape is unprecedented. Curation of tools, retrieval paradigms, agent protocols, and template architectures requires active synthesis. Vybe Intelligence Vault processes emerging public signals, scoring and indexing repositories using local and cloud LLM evaluations.
 
 ---
 
@@ -67,21 +71,9 @@ The stats shown here are generated from the current vault content. They refresh 
 
 ---
 
-## ⚡ Key Differentiators
+## ── Core Architecture (Vault 2.0)
 
-| Aspect | Legacy Directories | Vybe Intelligence Vault |
-| :--- | :--- | :--- |
-| **Updating Frequency** | Static / Manual curation | Automated 3-hour harvest pipeline |
-| **Curation Philosophy** | Popularity / Star-gated | Value-centric (incorporates emerging zero-star findings) |
-| **Navigation Model** | Flat markdown index lists | Interactive 3D relation graphs & learning paths |
-| **Agent Readiness** | Human-readable only | Native MCP Resource endpoints & context injection |
-| **Validation Layer** | Unverified suggestions | LLM-driven quality scoring & JSON Schema validation |
-
----
-
-## 🏗️ System Architecture (Vault 2.0)
-
-Vybe Vault 2.0 introduces a closed-loop system syncing automated harvesting, local inference, and visual analytics:
+Vybe Vault 2.0 establishes a closed-loop system syncing automated harvesting, local vector inference, and visual analytics:
 
 ```mermaid
 graph TD
@@ -95,90 +87,146 @@ graph TD
     I -->|Read & Inject| D
 ```
 
-### 1. Unified Core Storage (`vault-core/`)
-Serving as the single source of truth:
-- `vault-index.json`: v2.0 graph dataset specifying nodes, metadata, system health, and vector similarity edges.
-- `vault-events.log`: Append-only event-sourcing JSONL ledger logging pipeline discoveries, audits, and reads.
-- `embeddings/`: Gitignored vector coordinates cache generated at build time.
+### 1. State Management & Event Sourcing
+State write-locks (`state.lock`) prevent collision writes. Updates append to `vault-events.log` (JSONL format) while reads leverage a 30s TTL in memory.
 
-### 2. HTTP Orchestration Bridge & Decision Engine
-Runs as a zero-dependency HTTP daemon on port `3456`:
-- `/orchestrate`: Endpoint routing action calls (`harvest`, `query`, `status`, `rebuild`, `inject`).
-- `/events`: Stream access to event history.
-- **Decision Engine**: Allocates daily token budgets and manages fallback routing (Cloud GPT-4o-mini for validation, local Ollama Qwen 2.5:14b for metadata summaries).
+*Commented node index updates:*
+```javascript
+// scripts/state-manager.js
+async function updateNode(id, mutations) {
+  // Acquire lock using 'wx' flag on state.lock file to prevent collisions
+  await acquireLock();
+  try {
+    const index = readIndex();
+    let node = index.nodes.find(n => n.id === id);
+    const nowStr = new Date().toISOString();
+    
+    if (node) {
+      // Merge node properties and update modified timestamp
+      Object.assign(node, mutations);
+      node.last_modified = nowStr;
+    } else {
+      // Initialize node using the version 2.0 schema structure
+      node = {
+        id,
+        path: mutations.path || id,
+        title: mutations.title || path.basename(id, '.md'),
+        category: mutations.category || 'skills',
+        tags: mutations.tags || [],
+        tech_stack: mutations.tech_stack || [],
+        quality_score: mutations.quality_score || 0,
+        rag_relevance: mutations.rag_relevance || 0,
+        embedding_vector_id: mutations.embedding_vector_id || '',
+        last_modified: nowStr,
+        access_count: 0,
+        last_accessed: ''
+      };
+      index.nodes.push(node);
+    }
+    
+    // Write out updated index to source of truth and root copy
+    writeIndex(index);
+    return node;
+  } finally {
+    // Gracefully release lock file
+    releaseLock();
+  }
+}
+```
 
-### 3. Model Context Protocol (MCP) Server
-A FastMCP-compliant server enabling coding assistants (Cursor, Claude Code, Cline, etc.) to:
-- Browse guides as dynamic, self-documenting MCP prompts.
-- Query search indices directly using natural language.
-- Load clean RAG context cards using URI schemas (`vault://{path}`).
+### 2. Embeddings & Relation Edges
+Runs cosine similarity (`sim > 0.75`) using local Ollama (`nomic-embed-text`) to establish semantic edges, combining tag overlap and parsed relative markdown links.
 
-### 4. Interactive 3D Web Dashboard (`intelligence-map/`)
-- **WebGL Rendering**: React 19 + Vite dashboard running on port `5173`.
-- **Force Simulation**: Dynamic layouts computed via `d3-force-3d` with collision detection.
-- **Visual Materials**: glowing cylinder meshes running custom fragment shaders representing data-flow paths.
-- **Navigation**: GSAP ScrollTrigger camera flight-paths, Framer Motion filter chips, and Cmd+K command palettes.
+*Commented similarity edge evaluations:*
+```javascript
+// scripts/build-index.js
+// Calculate similarity and tags to dynamically draw edges
+const sim = cosineSimilarity(vector1, vector2);
+const sharedTags = tags2.filter(t => tags1.has(t));
+
+if (sim > 0.75 || sharedTags.length >= 1) {
+  // Select type based on tech stack or category overlaps
+  let type = 'similar_to';
+  if (sharedTech.length >= 1) type = 'depends_on';
+  else if (n1.category === n2.category) type = 'references';
+  
+  edges.push({
+    source: n1.path,
+    target: n2.path,
+    type,
+    weight: parseFloat((sim + sharedTags.length * 0.08).toFixed(2))
+  });
+}
+```
+
+### 3. Agentic Command gateway
+Runs concurrently on port `3456` enabling local agents to inject clean prompt contexts dynamically:
+
+*Commented injection formatter:*
+```javascript
+// scripts/orchestrator/context-injector.js
+function injectFile(filePath) {
+  const fullPath = path.resolve(ROOT_DIR, filePath);
+  
+  // Enforce directory boundaries
+  if (!fullPath.startsWith(ROOT_DIR)) {
+    throw new Error('Access denied: Out of bounds path');
+  }
+  
+  const content = fs.readFileSync(fullPath, 'utf-8');
+  
+  // Formats file cleanly for the LLM context window
+  let header = `=== VAULT ENTRY: ${filePath} ===\n`;
+  header += `================================================\n\n`;
+  
+  return `${header}${content}\n\n=== END VAULT ENTRY ===`;
+}
+```
 
 ---
 
-## 🚀 Quick Start: Local Curation Engine
+## ⚡ Execution Control
 
-Launch the concurrent services suite locally using a single startup control script:
+Launch local orchestration using the concurrent init script:
 
 ```bash
-# 1. Start local LLM services (Ensure models are loaded)
+# 1. Start Ollama and download models
 ollama pull nomic-embed-text
 ollama pull qwen2.5:14b
 
-# 2. Run the initialization utility from the repository root
+# 2. Run system init (concurrently runs MCP, Orchestrator, & Web UI)
 bash scripts/vault-init.sh
 ```
 
-Upon execution, the terminal starts:
-- **MCP Server** (FastMCP) at `http://localhost:3000`
-- **Orchestrator Bridge** (Agent Command gateway) at `http://localhost:3456`
-- **Intelligence Map Dashboard** (WebGL Visuals) at `http://localhost:5173`
-
-To audit the current health status of the services, run:
+Audit system ports, events, and health metrics:
 ```bash
 bash scripts/vault-status.sh
 ```
 
 ---
 
-## 📁 Directory Layout
+## 📁 Repository Layout
 
 ```txt
 .
 ├── vault-core/
-│   ├── config.yaml          # Topic search queries and budget boundaries
-│   ├── vault-index.json     # Compiled relation graph
+│   ├── config.yaml          # Search topics and token budget limits
+│   ├── vault-index.json     # Compiled relation graph (nodes and edges)
 │   └── vault-events.log     # Event sourced pipeline ledger
-├── intelligence-map/        # React 19 visual WebGL 3D dashboard
+├── intelligence-map/        # React 19 3D visual WebGL dashboard
 ├── mcp-server/              # FastMCP integration server
 ├── scripts/
-│   ├── orchestrator/        # Context optimization and routing engines
+│   ├── orchestrator/        # Context window optimization engines
 │   ├── state-manager.js     # Lock-safe state management module
 │   ├── build-index.js       # Index compiler and embedding calculator
-│   ├── vault-init.sh        # Concurrent services startup helper
-│   └── vault-status.sh      # Service stats audit tool
-├── maps/                    # High-level architecture blueprints (Cyan)
-├── skills/                  # Living guides & stack tutorials (Amber)
-├── daily-digests/           # Discovered repository reviews (Magenta)
-├── prompts/                 # Prompt templates & LLM instructions (Green)
+│   ├── vault-init.sh        # Startup orchestrator daemon
+│   └── vault-status.sh      # Service health status query script
 └── search-index.md
 ```
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing & License
 
-Found a relevant AI repository, tool stack, MCP server, prompt template, or web dev resource?
-Contributions are welcome. Please open an issue or submit a pull request conforming to the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## 📜 License & Attribution
-
-- Metadata, links, and content summaries are compiled from public repositories. Intellectual ownership remains with original creators.
-- This codebase is released under the **MIT License**. For licensing details, see [LICENSE](LICENSE).
+- Submit issues or pull requests conforming to guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+- Code is released under the **MIT License**. Details available in [LICENSE](LICENSE).
