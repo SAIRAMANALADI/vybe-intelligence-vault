@@ -175,7 +175,7 @@ jobs:
           from stats.vault_stats_builder import VaultStatsBuilder
           from pathlib import Path
           builder = VaultStatsBuilder(Path('.'))
-          stats = builder.build_stats()
+          stats = builder.calculate_stats()
           builder.write_stats_files(stats)
           "
 
