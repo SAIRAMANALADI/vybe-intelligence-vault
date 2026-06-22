@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-22T11:58:57.020Z",
+  "last_updated": "2026-06-22T12:10:09.658Z",
   "nodes": [
     {
       "id": "845a857f-9694-cc91-6c9d-2d60de8f31d7",
@@ -12,91 +12,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_3d_webdev_map_md",
-      "last_modified": "2026-06-22T11:58:56.839Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "18cda000-92e9-9300-aa3b-59245154b5e3",
-      "path": "maps/agent-stack-map.md",
-      "title": "Agent Stack Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_agent_stack_map_md",
-      "last_modified": "2026-06-22T11:58:56.841Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "7ce7adfe-bf6f-c5d1-daff-505154843b13",
-      "path": "maps/ai-engineering-map.md",
-      "title": "AI Engineering Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_ai_engineering_map_md",
-      "last_modified": "2026-06-22T11:58:56.841Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "b8c83fe8-3d84-c5b3-3668-a868d8f40b25",
-      "path": "maps/frontend-ai-ui-map.md",
-      "title": "Frontend AI UI Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_frontend_ai_ui_map_md",
-      "last_modified": "2026-06-22T11:58:56.842Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "b9601f84-9e8e-942a-f7fb-6c4e7f6cd802",
-      "path": "maps/llmops-map.md",
-      "title": "LLMOps Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_llmops_map_md",
-      "last_modified": "2026-06-22T11:58:56.843Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "fbf7bd43-6fee-52a1-958f-60001f950432",
-      "path": "maps/mcp-stack-map.md",
-      "title": "MCP Stack Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_mcp_stack_map_md",
-      "last_modified": "2026-06-22T11:58:56.843Z",
-      "access_count": 0,
-      "last_accessed": ""
-    },
-    {
-      "id": "ea070d78-378c-38a1-658c-d7a282321b0e",
-      "path": "maps/rag-stack-map.md",
-      "title": "RAG Stack Map",
-      "category": "maps",
-      "tags": [],
-      "tech_stack": [],
-      "quality_score": 0,
-      "rag_relevance": 0,
-      "embedding_vector_id": "vec_maps_rag_stack_map_md",
-      "last_modified": "2026-06-22T11:58:56.843Z",
+      "last_modified": "2026-06-22T12:10:09.400Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -110,7 +26,91 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_README_md",
-      "last_modified": "2026-06-22T11:58:56.844Z",
+      "last_modified": "2026-06-22T12:10:09.403Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "18cda000-92e9-9300-aa3b-59245154b5e3",
+      "path": "maps/agent-stack-map.md",
+      "title": "Agent Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_agent_stack_map_md",
+      "last_modified": "2026-06-22T12:10:09.405Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "7ce7adfe-bf6f-c5d1-daff-505154843b13",
+      "path": "maps/ai-engineering-map.md",
+      "title": "AI Engineering Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_ai_engineering_map_md",
+      "last_modified": "2026-06-22T12:10:09.408Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "b8c83fe8-3d84-c5b3-3668-a868d8f40b25",
+      "path": "maps/frontend-ai-ui-map.md",
+      "title": "Frontend AI UI Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_frontend_ai_ui_map_md",
+      "last_modified": "2026-06-22T12:10:09.411Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "b9601f84-9e8e-942a-f7fb-6c4e7f6cd802",
+      "path": "maps/llmops-map.md",
+      "title": "LLMOps Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_llmops_map_md",
+      "last_modified": "2026-06-22T12:10:09.414Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "fbf7bd43-6fee-52a1-958f-60001f950432",
+      "path": "maps/mcp-stack-map.md",
+      "title": "MCP Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_mcp_stack_map_md",
+      "last_modified": "2026-06-22T12:10:09.416Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "ea070d78-378c-38a1-658c-d7a282321b0e",
+      "path": "maps/rag-stack-map.md",
+      "title": "RAG Stack Map",
+      "category": "maps",
+      "tags": [],
+      "tech_stack": [],
+      "quality_score": 0,
+      "rag_relevance": 0,
+      "embedding_vector_id": "vec_maps_rag_stack_map_md",
+      "last_modified": "2026-06-22T12:10:09.418Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -124,7 +124,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_startup_builder_map_md",
-      "last_modified": "2026-06-22T11:58:56.845Z",
+      "last_modified": "2026-06-22T12:10:09.421Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -138,7 +138,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_agents_md",
-      "last_modified": "2026-06-22T11:58:56.846Z",
+      "last_modified": "2026-06-22T12:10:09.424Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -152,7 +152,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_coding_agents_md",
-      "last_modified": "2026-06-22T11:58:56.847Z",
+      "last_modified": "2026-06-22T12:10:09.426Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -166,7 +166,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_automation_md",
-      "last_modified": "2026-06-22T11:58:56.847Z",
+      "last_modified": "2026-06-22T12:10:09.428Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -180,7 +180,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_fastapi_md",
-      "last_modified": "2026-06-22T11:58:56.848Z",
+      "last_modified": "2026-06-22T12:10:09.430Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -194,7 +194,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_framer_motion_md",
-      "last_modified": "2026-06-22T11:58:56.849Z",
+      "last_modified": "2026-06-22T12:10:09.432Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -208,7 +208,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_frontend_ai_ui_md",
-      "last_modified": "2026-06-22T11:58:56.849Z",
+      "last_modified": "2026-06-22T12:10:09.434Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -222,7 +222,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_gsap_md",
-      "last_modified": "2026-06-22T11:58:56.849Z",
+      "last_modified": "2026-06-22T12:10:09.435Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -236,7 +236,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_langgraph_md",
-      "last_modified": "2026-06-22T11:58:56.850Z",
+      "last_modified": "2026-06-22T12:10:09.438Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -250,7 +250,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_llmops_md",
-      "last_modified": "2026-06-22T11:58:56.851Z",
+      "last_modified": "2026-06-22T12:10:09.439Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -264,7 +264,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_local_llm_md",
-      "last_modified": "2026-06-22T11:58:56.851Z",
+      "last_modified": "2026-06-22T12:10:09.441Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -278,7 +278,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_mcp_md",
-      "last_modified": "2026-06-22T11:58:56.851Z",
+      "last_modified": "2026-06-22T12:10:09.443Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -292,7 +292,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_prompt_engineering_md",
-      "last_modified": "2026-06-22T11:58:56.852Z",
+      "last_modified": "2026-06-22T12:10:09.444Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -306,7 +306,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_rag_md",
-      "last_modified": "2026-06-22T11:58:56.852Z",
+      "last_modified": "2026-06-22T12:10:09.446Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -320,7 +320,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_react_three_fiber_md",
-      "last_modified": "2026-06-22T11:58:56.852Z",
+      "last_modified": "2026-06-22T12:10:09.448Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -334,7 +334,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_shadcn_ui_md",
-      "last_modified": "2026-06-22T11:58:56.852Z",
+      "last_modified": "2026-06-22T12:10:09.450Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -348,7 +348,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_tailwind_md",
-      "last_modified": "2026-06-22T11:58:56.853Z",
+      "last_modified": "2026-06-22T12:10:09.452Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -362,7 +362,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_threejs_md",
-      "last_modified": "2026-06-22T11:58:56.853Z",
+      "last_modified": "2026-06-22T12:10:09.454Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -376,7 +376,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_vector_databases_md",
-      "last_modified": "2026-06-22T11:58:56.853Z",
+      "last_modified": "2026-06-22T12:10:09.456Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -390,7 +390,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_webgpu_md",
-      "last_modified": "2026-06-22T11:58:56.854Z",
+      "last_modified": "2026-06-22T12:10:09.458Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -404,7 +404,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_11_md",
-      "last_modified": "2026-06-22T11:58:56.858Z",
+      "last_modified": "2026-06-22T12:10:09.464Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -418,7 +418,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_12_md",
-      "last_modified": "2026-06-22T11:58:56.860Z",
+      "last_modified": "2026-06-22T12:10:09.468Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -432,7 +432,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_15_md",
-      "last_modified": "2026-06-22T11:58:56.862Z",
+      "last_modified": "2026-06-22T12:10:09.474Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -446,7 +446,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_16_md",
-      "last_modified": "2026-06-22T11:58:56.864Z",
+      "last_modified": "2026-06-22T12:10:09.485Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -460,7 +460,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_17_md",
-      "last_modified": "2026-06-22T11:58:56.865Z",
+      "last_modified": "2026-06-22T12:10:09.490Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -474,7 +474,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_18_md",
-      "last_modified": "2026-06-22T11:58:56.866Z",
+      "last_modified": "2026-06-22T12:10:09.496Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -488,7 +488,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_21_md",
-      "last_modified": "2026-06-22T11:58:56.867Z",
+      "last_modified": "2026-06-22T12:10:09.501Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -502,7 +502,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_22_md",
-      "last_modified": "2026-06-22T11:58:56.869Z",
+      "last_modified": "2026-06-22T12:10:09.506Z",
       "access_count": 0,
       "last_accessed": ""
     }
