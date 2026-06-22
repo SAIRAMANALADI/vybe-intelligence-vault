@@ -142,12 +142,15 @@ def sanitize_markdown(content: str) -> str:
     return content
 
 def query_eval_llm(prompt, system_prompt, force_cloud=True):
-    """Query cloud LLM (gpt-4o-mini) with local Ollama (qwen2.5:14b) fallback."""
-    provider = "openai" if force_cloud else "ollama"
+    """Query cloud LLM with local Ollama fallback."""
+    provider_env = os.environ.get("LLM_PROVIDER", "openai")
+    provider = provider_env if force_cloud else "ollama"
+    
     openai_key = os.environ.get("OPENAI_API_KEY")
+    mistral_key = os.environ.get("MISTRAL_API_KEY")
     
     config_path = VAULT_ROOT / "vault-core" / "config.yaml"
-    cloud_model = "gpt-4o-mini"
+    cloud_model = "mistral-small-latest" if provider_env == "mistral" else "gpt-4o-mini"
     local_model = "qwen2.5:14b"
     ollama_endpoint = "http://localhost:11434"
     
@@ -169,14 +172,18 @@ def query_eval_llm(prompt, system_prompt, force_cloud=True):
     if provider == "openai" and not openai_key:
         log("OPENAI_API_KEY missing. Routing directly to local Ollama.")
         provider = "ollama"
+    elif provider == "mistral" and not mistral_key:
+        log("MISTRAL_API_KEY missing. Routing directly to local Ollama.")
+        provider = "ollama"
 
-    if provider == "openai":
+    if provider in ["openai", "mistral"]:
         try:
-            log(f"Calling Cloud LLM ({cloud_model})...")
-            url = "https://api.openai.com/v1/chat/completions"
+            log(f"Calling Cloud LLM ({provider} - {cloud_model})...")
+            url = "https://api.openai.com/v1/chat/completions" if provider == "openai" else "https://api.mistral.ai/v1/chat/completions"
+            api_key = openai_key if provider == "openai" else mistral_key
             headers = {
                 "Content-Type": "application/json",
-                "Authorization": f"Bearer {openai_key}"
+                "Authorization": f"Bearer {api_key}"
             }
             payload = {
                 "model": cloud_model,
