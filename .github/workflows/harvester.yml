@@ -133,10 +133,20 @@ jobs:
           token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
+      - name: Checkout Intelligence Engine
+        uses: actions/checkout@v4
+        with:
+          repository: santifer/vybe-intelligence-engine
+          path: engine
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Install Engine Dependencies
+        run: pip install -r engine/requirements.txt
 
       - name: Download all Evaluation Artifacts
         uses: actions/download-artifact@v4
@@ -158,11 +168,22 @@ jobs:
           python scripts/evaluate_repo.py --mode generate \
             --correlation-id "${{ needs.discover.outputs.correlation_id }}"
 
+      - name: Update Vault Stats & README
+        run: |
+          export PYTHONPATH=$(pwd)/engine/src
+          python -c "
+          from stats.vault_stats_builder import VaultStatsBuilder
+          from pathlib import Path
+          builder = VaultStatsBuilder(Path('.'))
+          stats = builder.build_stats()
+          builder.write_stats_files(stats)
+          "
+
       - name: Commit & Push to Main
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git add daily-digests/ vault-core/
-            git commit -m "docs(harvester): commit harvested digests and update events [skip ci]"
+            git add daily-digests/ vault-core/ README.md stats/ status/ trends/ reports/ change-log/
+            git commit -m "docs(harvester): commit harvested digests and update vault stats [skip ci]"
             git push origin main
           else
             echo "No changes harvested."
