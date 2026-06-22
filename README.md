@@ -164,51 +164,121 @@ Stars and forks are bonus signals, not gatekeeping filters. A zero-star reposito
 
 ## Use With AI Coding Agents
 
-Use this vault with Codex, Cursor, Windsurf, Claude Code, Cline, and Aider.
+Vault 2.0 features a native Model Context Protocol (MCP) server and HTTP Orchestrator bridge, allowing AI coding agents (such as Codex, Cursor, Windsurf, Claude Code, Cline, and Aider) to query, search, and inject vault files directly into their context window.
 
 Example prompt:
-
 ```txt
 Use this vault to find the best RAG project ideas and create a 7-day build plan.
 ```
 
 ---
 
-## How Updates Work
+## 🏗️ Vault 2.0 Architecture
 
-This vault is refreshed every 3 hours by a private harvester bot running through GitHub Actions configured to the canonical **Asia/Kolkata (IST)** timezone (`+05:30`) for consistent daily reporting, scheduled executions, and contribution graph attribution.
+Vybe Vault 2.0 establishes a fully self-reinforcing knowledge loop between the automated pipeline, your local LLMs, and a 3D interface:
 
-Each run:
-- discovers public resources
-- updates archive files
-- refreshes living skill files when meaningful changes exist
-- rebuilds indexes and stats
-- runs a public safety scan
-- commits and pushes only valid changes
+```mermaid
+graph TD
+    A[Cron / Dispatch Workflow] -->|1. Discover| B(evaluate_repo.py)
+    B -->|2. Evaluate via Cloud/Local LLM| C{Decision Engine}
+    C -->|Commit Node & Events| D[vault-core/]
+    D -->|3. Trigger push| E(rebuild-index.yml)
+    E -->|4. Generate embeddings| F[vault-index.json]
+    F -->|5. SWR Polling| G[React 3D Intelligence Map]
+    H[Coding Agent] -->|6. MCP Request| I[Orchestrator HTTP Bridge: 3456]
+    I -->|Query & Context Inject| D
+```
 
-If no meaningful changes are found, the workflow exits successfully without creating an empty commit.
+### 1. The Single Source of Truth (`vault-core/`)
+- `vault-index.json`: Compiled graph mapping containing v2.0 metadata nodes, edges calculated from cosine vector similarities, and system health metrics.
+- `vault-events.log`: Append-only event-sourced JSONL stream tracking discovery, valuations, and agent reads.
+- `embeddings/`: Gitignored cache storing 768-dimension nomic-embed-text vector files for each node.
 
-The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scanned updates before push. For details on timezone mapping and bot attribution verification, see the [Timezone Audit Report](timezone_audit_report.md).
+### 2. HTTP Orchestration Bridge & Decision Engine
+Runs as a lightweight, Express-free Node service on port `3456`:
+- `/orchestrate`: Handles pipeline commands (`harvest`, `rebuild`), filters (`query`), and prompt injections (`inject`).
+- `/events`: Accesses the tail of the events log.
+- `/health`: Health status checks of local ports.
+- **Decision Engine**: Automatically tracks daily API cost budgets and routes query evaluations to local Ollama (qwen2.5:14b) or cloud LLMs (gpt-4o-mini).
+
+### 3. Interactive 3D Web Dashboard (`intelligence-map/`)
+- **Visuals**: React 19 + Vite dashboard running on port `5173`, styled with 90s CRT vignettes and scanlines.
+- **3D Physics Layout**: Computes real-time layouts using `d3-force-3d` with collision physics.
+- **Geometries**: Icosahedron (skills), Box (maps), and Octahedron (daily-digests) category structures.
+- **Shader Edges**: Glowing Cylinder meshes running custom fragment shaders representing data-flow paths.
+- **Features**: SWR polling hooks, Framer Motion Cmd+K fuzzy-search search chip modal, and GSAP scroll trajectories.
+
+### 4. Unified Harvester Pipeline
+A multi-stage GitHub Actions runner executing every 3 hours:
+- **DISCOVER**: Searches GitHub API for configuring topics and saves `discovery-batch.json`.
+- **EVALUATE**: Fetches readme content, calls cloud or local Ollama routines, and writes `evaluated-batch.json`.
+- **COMMIT**: Commits new daily-digests markdown entries and appends cost tracking correlation IDs.
+- **REBUILD**: Wait for the rebuild-index workflow, recalculates averages, and publishes `pipeline-report.json`.
 
 ---
 
-## Repository Structure
+## ⚡ Quick Start: Local Orchestration
+
+To run the entire Vault 2.0 system locally:
+
+```bash
+# 1. Start Ollama (Ensure nomic-embed-text is pulled)
+ollama pull nomic-embed-text
+ollama pull qwen2.5:14b
+
+# 2. Run the start helper from the repository root
+bash scripts/vault-init.sh
+```
+
+This starts all three services concurrently in your terminal:
+- **MCP Server** (FastMCP) at `http://localhost:3000`
+- **Orchestrator Bridge** (Agent Command gateway) at `http://localhost:3456`
+- **Intelligence Map Web App** (CRT 3D dashboard) at `http://localhost:5173`
+
+To audit the current health of the vault, run:
+```bash
+bash scripts/vault-status.sh
+```
+
+---
+
+## 📂 Repository Structure
 
 ```txt
 .
-├── intelligence/
-├── workspace-archive/
-├── maps/
-├── build-ideas/
-├── learning-paths/
-├── skills/
-├── stats/
-├── examples/
-├── _index/
-├── search-index.md
-├── CHANGELOG.md
-└── ROADMAP.md
+├── vault-core/
+│   ├── config.yaml          # Topic list and token budget config
+│   ├── vault-index.json     # Node/edge graph metadata
+│   └── vault-events.log     # Event sourced audit stream
+├── intelligence-map/        # React 19 3D Web GL Dashboard
+├── mcp-server/              # Native python FastMCP server
+├── scripts/
+│   ├── orchestrator/        # Context injection and routing engines
+│   ├── state-manager.js     # Thread-safe read/write locking module
+│   ├── build-index.js       # Index parser and vector edge generator
+│   ├── vault-init.sh        # Service startup helper
+│   └── vault-status.sh      # Service health status query script
+├── maps/                    # Stack blueprints (Cyan nodes)
+├── skills/                  # Living guides (Amber nodes)
+├── daily-digests/           # Discovered repo reviews (Magenta nodes)
+├── prompts/                 # Prompt templates (Green nodes)
+└── search-index.md
 ```
+
+---
+
+## How Updates Work
+
+This vault is refreshed every 3 hours by a private harvester bot running through GitHub Actions configured to the canonical **Asia/Kolkata (IST)** timezone (`+05:30`).
+
+Each run:
+- queries GitHub and filters already indexed entries in `vault-index.json`
+- evaluates readme files using cloud models or local fallback routers
+- commits daily digests and logs token costs in the event log
+- rebuilds similarity coordinates and publishes reports
+
+If no meaningful changes are found, the workflow exits successfully without creating empty commits.
+For details on timezone mapping and bot attribution verification, see the [Timezone Audit Report](timezone_audit_report.md).
 
 ---
 
