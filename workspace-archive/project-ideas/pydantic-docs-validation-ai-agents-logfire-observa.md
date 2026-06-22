@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Pydantic Validation**: Python library for parsing, validating, and serializing complex data structures using type annotations; generates JSON schemas and ensures data integrity via runtime validation.
+- **Pydantic Validation**: Python-based data validation using type annotations; supports parsing/validation of complex data structures, JSON schema generation, and data integrity enforcement.
 
-- **Pydantic AI**: Agent framework enabling type-safe, structured AI workflows with tool integration, multi-agent orchestration, and native observability via Logfire for production-grade AI applications.
+- **Pydantic AI**: Production-grade agent framework enabling type-safe, structured AI outputs, tool integration, and multi-agent orchestration with built-in Logfire observability.
 
-- **Pydantic Logfire**: Observability platform for monitoring LLM interactions, agent beh
+- **Pydantic Logfire**: Observability platform for monitoring LLM interactions, agent behavior, cost tracking, and performance
 
 ## Use Cases
 

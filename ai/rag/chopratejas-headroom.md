@@ -10,13 +10,14 @@ tags:
 - github-trending
 - python
 - rag
-status: active
+status: inactive
 resource_id: github:chopratejas/headroom
 first_seen: '2026-06-21T20:19:14.644952+05:30'
 last_seen: '2026-06-22T11:12:00.708125+05:30'
 last_checked: '2026-06-22T11:12:00.708125+05:30'
 health_score: 100
 ---
+
 
 # chopratejas/headroom
 

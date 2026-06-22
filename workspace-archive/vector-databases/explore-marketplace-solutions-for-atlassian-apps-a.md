@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - rag
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Admin Tools**: Apps for managing users, security, and system settings within Atlassian ecosystems.
-- **Runs on Atlassian**: Apps leveraging Atlassian infrastructure for secure, in-platform data storage.
-- **Artificial Intelligence**: AI-powered apps to optimize workflows and enhance productivity in Atlassian environments.
+- **AI-Powered Workflow Enhancement**: Atlassian Marketplace offers AI-driven apps to optimize workflows, including automation, predictive analytics, and intelligent task prioritization.
+
+- **Data & Analytics Integration**: Provides tools for real-time data visualization, business intelligence, and advanced analytics to derive actionable insights from Atlassian ecosystem data.
+
+- **Secure, In-Platform App Infrastructure**: Features apps that leverage Atlassian’s native infrastructure, ensuring d
 
 ## Use Cases
 

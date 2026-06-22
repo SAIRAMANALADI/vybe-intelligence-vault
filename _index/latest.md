@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [FAQ - Unicode Frequently Asked Questions](../ai/resources/faq-unicode-frequently-asked-questions.md) ([Source URL](https://unicode.org/faq))
+### 1. [Customer Support](../ai/resources/customer-support.md) ([Source URL](https://support.granicus.com/s/article/granicus-llc-subscriber-cookie-statement))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:39:38.690260+05:30
-- **Local Path**: `ai/resources/faq-unicode-frequently-asked-questions.md`
+- **Collected At**: 2026-06-22T15:58:17.497055+05:30
+- **Local Path**: `ai/resources/customer-support.md`
 
-### 2. [NIST Guidelines, Information Quality Standards and Administrative Mechanism | NIST](../ai/rag/nist-guidelines-information-quality-standards-and.md) ([Source URL](https://nist.gov/nist-information-quality-standards))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:39:34.258255+05:30
-- **Local Path**: `ai/rag/nist-guidelines-information-quality-standards-and.md`
-
-### 3. [First Citizens Bank Responsible Disclosure](../ai/resources/first-citizens-bank-responsible-disclosure.md) ([Source URL](https://firstcitizensbank.responsibledisclosure.com/hc/en-us))
+### 2. [How to Apply for a Federal Funding Opportunity on Grants.gov – Grants.gov Community Blog](../ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md) ([Source URL](https://grantsgovprod.wordpress.com/2021/04/28/how-to-apply-for-a-federal-funding-opportunity-on-grants-gov))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:39:31.036642+05:30
-- **Local Path**: `ai/resources/first-citizens-bank-responsible-disclosure.md`
+- **Collected At**: 2026-06-22T15:58:08.778944+05:30
+- **Local Path**: `ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md`
 
-### 4. [EditPad® Pro: Text Editor for Windows](../ai/resources/editpad-r-pro-text-editor-for-windows.md) ([Source URL](https://editpadpro.com))
+### 3. [Tanium Titans Community](../ai/resources/tanium-titans-community.md) ([Source URL](https://community.tanium.com/s/developer-community))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:39:26.420681+05:30
-- **Local Path**: `ai/resources/editpad-r-pro-text-editor-for-windows.md`
+- **Collected At**: 2026-06-22T15:58:05.506061+05:30
+- **Local Path**: `ai/resources/tanium-titans-community.md`
 
-### 5. [Cybersecurity & Privacy Stakeholder Engagement | NIST](../ai/rag/cybersecurity-privacy-stakeholder-engagement-nist.md) ([Source URL](https://nist.gov/cybersecurity/cybersecurity-privacy-stakeholder-engagement))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:39:21.401416+05:30
-- **Local Path**: `ai/rag/cybersecurity-privacy-stakeholder-engagement-nist.md`
-
-### 6. [HelpScribble - Complete Help Authoring Tool - WinHelp hlp, HTML Help chm, Printed Manual and Web Help](../ai/resources/helpscribble-complete-help-authoring-tool-winhelp.md) ([Source URL](https://helpscribble.com))
+### 4. [Solodit](../ai/resources/solodit.md) ([Source URL](https://support.cyfrin.io/solodit/overview))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:39:17.056299+05:30
-- **Local Path**: `ai/resources/helpscribble-complete-help-authoring-tool-winhelp.md`
+- **Collected At**: 2026-06-22T15:58:01.219643+05:30
+- **Local Path**: `ai/resources/solodit.md`
 
-### 7. [UAX #15: Unicode Normalization Forms](../ai/rag/uax-15-unicode-normalization-forms.md) ([Source URL](https://unicode.org/reports/tr15))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:39:12.981445+05:30
-- **Local Path**: `ai/rag/uax-15-unicode-normalization-forms.md`
-
-### 8. [Lightweight Cryptography | CSRC](../ai/rag/lightweight-cryptography-csrc.md) ([Source URL](https://csrc.nist.gov/projects/lightweight-cryptography))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:39:08.386488+05:30
-- **Local Path**: `ai/rag/lightweight-cryptography-csrc.md`
-
-### 9. [BP Team Updates | Follow BuddyPress development & documentation latest news](../ai/rag/bp-team-updates-follow-buddypress-development-docu.md) ([Source URL](https://bpdevel.wordpress.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:39:04.019261+05:30
-- **Local Path**: `ai/rag/bp-team-updates-follow-buddypress-development-docu.md`
-
-### 10. [Responsible Disclosure (Powered by Synack)](../ai/resources/responsible-disclosure-powered-by-synack.md) ([Source URL](https://synack.responsibledisclosure.com/hc/en-us))
+### 5. [Lesson Plan: Intro to Web Lab - Code.org](../ai/resources/lesson-plan-intro-to-web-lab-code-org.md) ([Source URL](https://studio.code.org/courses/intro-to-web-lab/units/1/lessons/1))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:39:00.386967+05:30
-- **Local Path**: `ai/resources/responsible-disclosure-powered-by-synack.md`
+- **Collected At**: 2026-06-22T15:57:57.108288+05:30
+- **Local Path**: `ai/resources/lesson-plan-intro-to-web-lab-code-org.md`
 
-### 11. [ResponsibleDisclosure.com Terms of Service – Department of Energy Responsible Disclosure Powered by Synack](../ai/agents/responsibledisclosure-com-terms-of-service-departm.md) ([Source URL](https://doe.responsibledisclosure.com/hc/en-us/articles/360052066494))
+### 6. [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md) ([Source URL](https://community.utexas.edu/disability))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:52.429838+05:30
+- **Local Path**: `ai/resources/the-university-of-texas-at-austin.md`
+
+### 7. [Predicting Viral Hijacking Through Genome-Scale Modeling | Article | PNNL](../ai/rag/predicting-viral-hijacking-through-genome-scale-mo.md) ([Source URL](https://pnnl.gov/publications/predicting-viral-hijacking-through-genome-scale-modeling))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:57:40.816460+05:30
+- **Local Path**: `ai/rag/predicting-viral-hijacking-through-genome-scale-mo.md`
+
+### 8. [Research.gov - Grants Management for NSF Community](../ai/resources/research-gov-grants-management-for-nsf-community.md) ([Source URL](https://research.gov/research-web))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:34.715336+05:30
+- **Local Path**: `ai/resources/research-gov-grants-management-for-nsf-community.md`
+
+### 9. [Table of contents — voila 0.5.8 documentation](../ai/resources/table-of-contents-voila-0-5-8-documentation.md) ([Source URL](https://voila.readthedocs.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:30.656785+05:30
+- **Local Path**: `ai/resources/table-of-contents-voila-0-5-8-documentation.md`
+
+### 10. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source URL](https://peps.python.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:57:26.024086+05:30
+- **Local Path**: `ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md`
+
+### 11. [CAS - Central Authentication Service Login](../ai/resources/cas-central-authentication-service-login.md) ([Source URL](https://freedom-to-tinker.com/2016/01/14/the-web-privacy-problem-is-a-transparency-problem-introducing-the-openwpm-measurement-tool))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:21.432214+05:30
+- **Local Path**: `ai/resources/cas-central-authentication-service-login.md`
+
+### 12. [k12cs.org – K–12 Computer Science Framework](../ai/resources/k12cs-org-k-12-computer-science-framework.md) ([Source URL](https://k12cs.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:12.917886+05:30
+- **Local Path**: `ai/resources/k12cs-org-k-12-computer-science-framework.md`
+
+### 13. [Notetaking (Notetakers) Home](../ai/resources/notetaking-notetakers-home.md) ([Source URL](https://ssdportal.ddce.utexas.edu/clockwork/user/notetakingnotetakers/default.aspx))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:07.785811+05:30
+- **Local Path**: `ai/resources/notetaking-notetakers-home.md`
+
+### 14. [Get a UCLA job — ASUCLA](../ai/resources/get-a-ucla-job-asucla.md) ([Source URL](https://asucla.ucla.edu/get-a-job))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:57:03.789133+05:30
+- **Local Path**: `ai/resources/get-a-ucla-job-asucla.md`
+
+### 15. [Immigrants Belong Toolkit - Define American](../ai/rag/immigrants-belong-toolkit-define-american.md) ([Source URL](https://defineamerican.com/research/immigrants-belong-toolkit))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:56:59.173612+05:30
+- **Local Path**: `ai/rag/immigrants-belong-toolkit-define-american.md`
+
+### 16. [Project Pythia](../ai/rag/project-pythia.md) ([Source URL](https://projectpythia.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:56:53.453931+05:30
+- **Local Path**: `ai/rag/project-pythia.md`
+
+### 17. [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) ([Source URL](https://jupyter-server.readthedocs.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:56:49.098865+05:30
+- **Local Path**: `ai/rag/welcome-jupyter-server-documentation.md`
+
+### 18. [Getting started | CHI@Edge](../ai/resources/getting-started-chi-edge.md) ([Source URL](https://chameleoncloud.gitbook.io/chi-edge/getting-started))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:56:44.440642+05:30
+- **Local Path**: `ai/resources/getting-started-chi-edge.md`
+
+### 19. [A new way to look at developing lifeforms, using energy to predict action - Princeton Engineering](../ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md) ([Source URL](https://engineering.princeton.edu/news/2026/06/16/new-way-look-developing-lifeforms-using-energy-predict-action))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T11:38:55.880831+05:30
-- **Local Path**: `ai/agents/responsibledisclosure-com-terms-of-service-departm.md`
+- **Collected At**: 2026-06-22T15:56:39.010907+05:30
+- **Local Path**: `ai/agents/a-new-way-to-look-at-developing-lifeforms-using-en.md`
 
-### 12. [Let’s get Digital! Updated Digital Identity Guidelines are Here! | NIST](../ai/resources/lets-get-digital-updated-digital-identity-guidelin.md) ([Source URL](https://nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here))
+### 20. [UCOP Facilities Manual](../ai/resources/ucop-facilities-manual.md) ([Source URL](https://facilitiesmanual.ucop.edu))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:38:51.301926+05:30
-- **Local Path**: `ai/resources/lets-get-digital-updated-digital-identity-guidelin.md`
+- **Collected At**: 2026-06-22T15:56:35.071671+05:30
+- **Local Path**: `ai/resources/ucop-facilities-manual.md`
 
-### 13. [Welcome to Just Great Software](../ai/rag/welcome-to-just-great-software.md) ([Source URL](https://just-great-software.com))
+### 21. [CIRCT](../ai/rag/circt.md) ([Source URL](https://circt.llvm.org))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:46.966847+05:30
-- **Local Path**: `ai/rag/welcome-to-just-great-software.md`
+- **Collected At**: 2026-06-22T15:56:30.626416+05:30
+- **Local Path**: `ai/rag/circt.md`
 
-### 14. [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md) ([Source URL](https://unicode.org/unicode/onlinedat/resources.html))
+### 22. [Law Library](../ai/resources/law-library.md) ([Source URL](https://law.library.cornell.edu))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:38:43.333318+05:30
-- **Local Path**: `ai/resources/redirecting-to-unicode-resources-page.md`
+- **Collected At**: 2026-06-22T15:56:25.941878+05:30
+- **Local Path**: `ai/resources/law-library.md`
 
-### 15. [Sara AI Pentesting Product Tour | Synack](../ai/rag/sara-ai-pentesting-product-tour-synack.md) ([Source URL](https://go.synack.com/sara-ai-pentesting-product-tour))
+### 23. [What is the Rich Content Editor (RCE)? - Instructure Community](../ai/rag/what-is-the-rich-content-editor-rce-instructure-co.md) ([Source URL](https://community.instructure.com/en/kb/articles/662769-what-is-the-rich-content-editor-rce))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:38.991672+05:30
-- **Local Path**: `ai/rag/sara-ai-pentesting-product-tour-synack.md`
+- **Collected At**: 2026-06-22T15:56:21.116085+05:30
+- **Local Path**: `ai/rag/what-is-the-rich-content-editor-rce-instructure-co.md`
 
-### 16. [PowerGREP: Windows grep Software to Search (and Replace) through Files and Folders on Your PC and Network](../ai/resources/powergrep-windows-grep-software-to-search-and-repl.md) ([Source URL](https://powergrep.com))
+### 24. [Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](../ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md) ([Source URL](https://nus.edu.sg/research/odprt-home/fellowships/eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:38:34.469410+05:30
-- **Local Path**: `ai/resources/powergrep-windows-grep-software-to-search-and-repl.md`
+- **Collected At**: 2026-06-22T15:56:15.780811+05:30
+- **Local Path**: `ai/resources/eric-and-wendy-schmidt-ai-in-science-postdoctoral.md`
 
-### 17. [BuddyPress Developer Resources | Your best buddies ever to help you code.](../ai/resources/buddypress-developer-resources-your-best-buddies-e.md) ([Source URL](https://developer.buddypress.org))
+### 25. [| UCOP](../ai/rag/ucop.md) ([Source URL](https://ucop.edu/terms))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:56:08.258671+05:30
+- **Local Path**: `ai/rag/ucop.md`
+
+### 26. [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md) ([Source URL](https://puzzles.modular.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:56:03.336688+05:30
+- **Local Path**: `ai/rag/introduction-mojo-gpu-puzzles.md`
+
+### 27. [MESA | Mathematics, Engineering, Science, Achievement](../ai/rag/mesa-mathematics-engineering-science-achievement.md) ([Source URL](https://mesa.ucop.edu))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:55:58.813026+05:30
+- **Local Path**: `ai/rag/mesa-mathematics-engineering-science-achievement.md`
+
+### 28. [The NPDB - Health Care Organizations Sign In](../ai/rag/the-npdb-health-care-organizations-sign-in.md) ([Source URL](https://iqrs.npdb.hrsa.gov))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:55:54.593111+05:30
+- **Local Path**: `ai/rag/the-npdb-health-care-organizations-sign-in.md`
+
+### 29. [Zendesk Status](../ai/resources/zendesk-status.md) ([Source URL](https://status.zendesk.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:38:29.329375+05:30
-- **Local Path**: `ai/resources/buddypress-developer-resources-your-best-buddies-e.md`
+- **Collected At**: 2026-06-22T15:55:51.846927+05:30
+- **Local Path**: `ai/resources/zendesk-status.md`
 
-### 18. [perluniintro - Perl Unicode introduction - Perldoc Browser](../ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md) ([Source URL](https://perldoc.perl.org/perluniintro.html))
+### 30. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:24.623743+05:30
-- **Local Path**: `ai/rag/perluniintro-perl-unicode-introduction-perldoc-bro.md`
+- **Collected At**: 2026-06-22T15:55:47.888808+05:30
+- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
 
-### 19. [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](../ai/resources/x-690-information-technology-asn-1-encoding-rules.md) ([Source URL](https://itu.int/rec/t-rec-x.690/en))
+### 31. [UCLA - Official Athletics Website](../ai/resources/ucla-official-athletics-website.md) ([Source URL](https://uclabruins.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:38:20.989473+05:30
-- **Local Path**: `ai/resources/x-690-information-technology-asn-1-encoding-rules.md`
+- **Collected At**: 2026-06-22T15:55:39.775888+05:30
+- **Local Path**: `ai/resources/ucla-official-athletics-website.md`
 
-### 20. [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](../ai/rag/nist-finalizes-lightweight-cryptography-standard-t.md) ([Source URL](https://nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices))
+### 32. [Web Privacy Policy | Enterprise Technology](../ai/rag/web-privacy-policy-enterprise-technology.md) ([Source URL](https://utexas.edu/web-privacy-policy))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:13.568281+05:30
-- **Local Path**: `ai/rag/nist-finalizes-lightweight-cryptography-standard-t.md`
+- **Collected At**: 2026-06-22T15:55:34.559571+05:30
+- **Local Path**: `ai/rag/web-privacy-policy-enterprise-technology.md`
 
-### 21. [Security Content Automation Protocol | CSRC](../ai/rag/security-content-automation-protocol-csrc.md) ([Source URL](https://csrc.nist.gov/projects/security-content-automation-protocol))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:09.603682+05:30
-- **Local Path**: `ai/rag/security-content-automation-protocol-csrc.md`
-
-### 22. [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md) ([Source URL](https://synack.com/red-team))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:05.176466+05:30
-- **Local Path**: `ai/rag/the-synack-red-team-synack.md`
-
-### 23. [2026 State of Vulnerabilities Report | Synack](../ai/rag/2026-state-of-vulnerabilities-report-synack.md) ([Source URL](https://go.synack.com/2026-state-of-vulnerabilities-report))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:38:00.222883+05:30
-- **Local Path**: `ai/rag/2026-state-of-vulnerabilities-report-synack.md`
-
-### 24. [RegexMagic: Regular Expression Generator](../ai/agents/regexmagic-regular-expression-generator.md) ([Source URL](https://regexmagic.com))
+### 33. [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) ([Source URL](https://openai.github.io/openai-agents-js/extensions/ai-sdk))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T11:37:56.377443+05:30
-- **Local Path**: `ai/agents/regexmagic-regular-expression-generator.md`
+- **Collected At**: 2026-06-22T15:55:29.794237+05:30
+- **Local Path**: `ai/agents/ai-sdk-integration-openai-agents-sdk.md`
 
-### 25. [Penetration Testing Company | Synack PTaaS Platform](../ai/rag/penetration-testing-company-synack-ptaas-platform.md) ([Source URL](https://synack.com))
+### 34. [Data Privacy Framework](../ai/resources/data-privacy-framework.md) ([Source URL](https://dataprivacyframework.gov))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:55:26.028867+05:30
+- **Local Path**: `ai/resources/data-privacy-framework.md`
+
+### 35. [Cornell Tech](../ai/rag/cornell-tech.md) ([Source URL](http://tech.cornell.edu))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:37:51.528407+05:30
-- **Local Path**: `ai/rag/penetration-testing-company-synack-ptaas-platform.md`
+- **Collected At**: 2026-06-22T15:55:18.299179+05:30
+- **Local Path**: `ai/rag/cornell-tech.md`
 
-### 26. [Easy Regular Expression Builder](../ai/resources/easy-regular-expression-builder.md) ([Source URL](https://regexbuddy.com/create.html))
+### 36. [Legislative Developments | U.S. Copyright Office](../ai/resources/legislative-developments-u-s-copyright-office.md) ([Source URL](https://copyright.gov/legislation))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:37:46.898766+05:30
-- **Local Path**: `ai/resources/easy-regular-expression-builder.md`
+- **Collected At**: 2026-06-22T15:55:13.377050+05:30
+- **Local Path**: `ai/resources/legislative-developments-u-s-copyright-office.md`
 
-### 27. [Department of Energy Responsible Disclosure Powered by Synack](../ai/resources/department-of-energy-responsible-disclosure-powere.md) ([Source URL](https://gcc02.safelinks.protection.outlook.com?url=https%3A%2F%2Fdoe.responsibledisclosure.com%2F&data=05%7C02%7Cdoe.ocio.executive-secretariat%40hq.doe.gov%7C8cf34cb63beb4f1105e308dcdf29340d%7C6b183ecc4b554ed5b3f87f64be1c4138%7C0%7C0%7C638630615282153198%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=SPZ2KA%2Fx19aKSd3egwbdVRUrF9vs1b6kSRAdCHwVV6Q%3D&reserved=0))
+### 37. [Home | Grants.gov](../ai/resources/home-grants-gov.md) ([Source URL](https://grants.gov))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:37:41.781100+05:30
-- **Local Path**: `ai/resources/department-of-energy-responsible-disclosure-powere.md`
+- **Collected At**: 2026-06-22T15:55:08.486540+05:30
+- **Local Path**: `ai/resources/home-grants-gov.md`
 
-### 28. [Directives, Guidance, and Delegations | Department of Energy](../ai/rag/directives-guidance-and-delegations-department-of.md) ([Source URL](https://directives.doe.gov))
+### 38. [NSF PAR Search | NSF Public Access Repository](../ai/resources/nsf-par-search-nsf-public-access-repository.md) ([Source URL](https://par.nsf.gov))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:55:03.981663+05:30
+- **Local Path**: `ai/resources/nsf-par-search-nsf-public-access-repository.md`
+
+### 39. [BUY.GSA.GOV](../ai/resources/buy-gsa-gov.md) ([Source URL](https://interact.gsa.gov/group/integrated-award-environment-iae-industry-community))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:55:01.525671+05:30
+- **Local Path**: `ai/resources/buy-gsa-gov.md`
+
+### 40. [Home | High Altitude Observatory](../ai/rag/home-high-altitude-observatory.md) ([Source URL](https://www2.hao.ucar.edu))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:37:36.872694+05:30
-- **Local Path**: `ai/rag/directives-guidance-and-delegations-department-of.md`
+- **Collected At**: 2026-06-22T15:54:56.499762+05:30
+- **Local Path**: `ai/rag/home-high-altitude-observatory.md`
 
-### 29. [Character Class Intersection in Regular Expressions](../ai/resources/character-class-intersection-in-regular-expression.md) ([Source URL](https://regular-expressions.info/charclassintersect.html))
+### 41. [dev-program](../ai/resources/dev-program.md) ([Source URL](https://partners.tanium.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:37:32.803535+05:30
-- **Local Path**: `ai/resources/character-class-intersection-in-regular-expression.md`
+- **Collected At**: 2026-06-22T15:54:52.831081+05:30
+- **Local Path**: `ai/resources/dev-program.md`
 
-### 30. [BuddyPress Codex](../ai/resources/buddypress-codex.md) ([Source URL](https://codex.buddypress.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:37:24.095615+05:30
-- **Local Path**: `ai/resources/buddypress-codex.md`
-
-### 31. [Vulnerability Disclosure Policy | Department of Energy](../ai/rag/vulnerability-disclosure-policy-department-of-ener.md) ([Source URL](https://energy.gov/vulnerability-disclosure-policy))
+### 42. [Visual Studio: IDE and Code Editor for Software Development](../ai/rag/visual-studio-ide-and-code-editor-for-software-dev.md) ([Source URL](https://visualstudio.microsoft.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:37:17.919682+05:30
-- **Local Path**: `ai/rag/vulnerability-disclosure-policy-department-of-ener.md`
+- **Collected At**: 2026-06-22T15:54:48.325506+05:30
+- **Local Path**: `ai/rag/visual-studio-ide-and-code-editor-for-software-dev.md`
 
-### 32. [National Institute of Standards and Technology](../ai/agents/national-institute-of-standards-and-technology.md) ([Source URL](https://nist.gov))
+### 43. [TeachAI | Homepage](../ai/resources/teachai-homepage.md) ([Source URL](https://teachai.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-22T15:54:44.583851+05:30
+- **Local Path**: `ai/resources/teachai-homepage.md`
+
+### 44. [What are Diffusion Models? | IBM](../ai/rag/what-are-diffusion-models-ibm.md) ([Source URL](https://ibm.com/think/topics/diffusion-models))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-22T15:54:39.318165+05:30
+- **Local Path**: `ai/rag/what-are-diffusion-models-ibm.md`
+
+### 45. [NSF - U.S. National Science Foundation](../ai/agents/nsf-u-s-national-science-foundation.md) ([Source URL](https://nsf.gov))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-22T11:37:13.861556+05:30
-- **Local Path**: `ai/agents/national-institute-of-standards-and-technology.md`
+- **Collected At**: 2026-06-22T15:54:34.886119+05:30
+- **Local Path**: `ai/agents/nsf-u-s-national-science-foundation.md`
 
-### 33. [Cybersecurity and Privacy Reference Tool | CSRC](../ai/rag/cybersecurity-and-privacy-reference-tool-csrc.md) ([Source URL](https://csrc.nist.gov/projects/risk-management/sp800-53-controls/release-search))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:37:09.675306+05:30
-- **Local Path**: `ai/rag/cybersecurity-and-privacy-reference-tool-csrc.md`
-
-### 34. [ICU 78.3: icu::UnicodeSet Class Reference](../ai/resources/icu-78-3-icu-unicodeset-class-reference.md) ([Source URL](https://unicode-org.github.io/icu-docs/apidoc/released/icu4c/classicu_1_1unicodeset.html))
+### 46. [Home | SAM.gov](../ai/resources/home-sam-gov.md) ([Source URL](https://sam.gov))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:37:03.286755+05:30
-- **Local Path**: `ai/resources/icu-78-3-icu-unicodeset-class-reference.md`
+- **Collected At**: 2026-06-22T15:54:30.703036+05:30
+- **Local Path**: `ai/resources/home-sam-gov.md`
 
-### 35. [Ghost: The best open source blog & newsletter platform](../ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md) ([Source URL](https://ghost.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:36:58.188146+05:30
-- **Local Path**: `ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md`
-
-### 36. [UTS #18: Unicode Regular Expressions](../ai/rag/uts-18-unicode-regular-expressions.md) ([Source URL](https://unicode.org/reports/tr18))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:36:53.351575+05:30
-- **Local Path**: `ai/rag/uts-18-unicode-regular-expressions.md`
-
-### 37. [NIST Data Repository Page](../ai/resources/nist-data-repository-page.md) ([Source URL](https://data.nist.gov/sdp))
+### 47. [RAL Home | Research Applications Laboratory](../ai/resources/ral-home-research-applications-laboratory.md) ([Source URL](https://ral.ucar.edu))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:36:28.842256+05:30
-- **Local Path**: `ai/resources/nist-data-repository-page.md`
+- **Collected At**: 2026-06-22T15:54:26.636555+05:30
+- **Local Path**: `ai/resources/ral-home-research-applications-laboratory.md`
 
-### 38. [Standard Reference Data | NIST](../ai/resources/standard-reference-data-nist.md) ([Source URL](https://nist.gov/srd))
+### 48. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:36:24.529246+05:30
-- **Local Path**: `ai/resources/standard-reference-data-nist.md`
+- **Collected At**: 2026-06-22T15:54:22.397629+05:30
+- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
 
-### 39. [NIST Computer Security Resource Center | CSRC](../ai/rag/nist-computer-security-resource-center-csrc.md) ([Source URL](https://csrc.nist.gov))
+### 49. [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md) ([Source URL](https://developer.tanium.com/site/global/home/index.gsp))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:36:20.041542+05:30
-- **Local Path**: `ai/rag/nist-computer-security-resource-center-csrc.md`
+- **Collected At**: 2026-06-22T15:54:14.418977+05:30
+- **Local Path**: `ai/rag/tanium-developer-portal.md`
 
-### 40. [FAQ - Mozilla Data Collective](../ai/resources/faq-mozilla-data-collective.md) ([Source URL](https://community.mozilladatacollective.com/tag/faq))
+### 50. [Microsoft Research – Emerging Technology, Computer, & Software Research](../ai/resources/microsoft-research-emerging-technology-computer-so.md) ([Source URL](http://research.microsoft.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:36:16.152032+05:30
-- **Local Path**: `ai/resources/faq-mozilla-data-collective.md`
-
-### 41. [Join | Mozilla Data Collective](../ai/resources/join-mozilla-data-collective.md) ([Source URL](https://datacollective.mozillafoundation.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:36:09.704384+05:30
-- **Local Path**: `ai/resources/join-mozilla-data-collective.md`
-
-### 42. [UAX #44: Unicode Character Database](../ai/rag/uax-44-unicode-character-database.md) ([Source URL](https://unicode.org/reports/tr44))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:36:04.907376+05:30
-- **Local Path**: `ai/rag/uax-44-unicode-character-database.md`
-
-### 43. [National Vulnerability Database | NIST](../ai/rag/national-vulnerability-database-nist.md) ([Source URL](https://nist.gov/itl/nvd))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:35:37.821033+05:30
-- **Local Path**: `ai/rag/national-vulnerability-database-nist.md`
-
-### 44. [rfc5378.txt](../ai/rag/rfc5378-txt.md) ([Source URL](http://rfc-editor.org/rfc/rfc5378.txt))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:35:34.127790+05:30
-- **Local Path**: `ai/rag/rfc5378-txt.md`
-
-### 45. [Mozilla Foundation Grantmaking | Mozilla Foundation - Mozilla Foundation](../ai/rag/mozilla-foundation-grantmaking-mozilla-foundation.md) ([Source URL](https://mozillafoundation.org/en/what-we-do/grantmaking))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:35:28.371432+05:30
-- **Local Path**: `ai/rag/mozilla-foundation-grantmaking-mozilla-foundation.md`
-
-### 46. [Welcome to Mozilla Foundation - Mozilla Foundation](../ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md) ([Source URL](https://foundation.mozilla.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:35:24.404643+05:30
-- **Local Path**: `ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md`
-
-### 47. [Open Policy & Advocacy - Mozilla's official blog on open Internet policy initiatives and developments](../ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md) ([Source URL](https://blog.mozilla.org/privacy))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:35:19.565119+05:30
-- **Local Path**: `ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md`
-
-### 48. [Client Challenge](../ai/resources/client-challenge.md) ([Source URL](https://support.mozilla.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:35:16.085798+05:30
-- **Local Path**: `ai/resources/client-challenge.md`
-
-### 49. [ECMAScript® 2027 Language Specification](../ai/rag/ecmascript-r-2027-language-specification.md) ([Source URL](https://tc39.es/ecma262))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-22T11:35:11.017134+05:30
-- **Local Path**: `ai/rag/ecmascript-r-2027-language-specification.md`
-
-### 50. [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](../ai/resources/x-680-information-technology-abstract-syntax-notat.md) ([Source URL](https://itu.int/rec/t-rec-x.680/en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-22T11:34:46.459733+05:30
-- **Local Path**: `ai/resources/x-680-information-technology-abstract-syntax-notat.md`
+- **Collected At**: 2026-06-22T15:54:08.943455+05:30
+- **Local Path**: `ai/resources/microsoft-research-emerging-technology-computer-so.md`
 
 ---
-*Index generated on 2026-06-22T13:12:15.480202+05:30*
+*Index generated on 2026-06-22T15:58:25.807375+05:30*

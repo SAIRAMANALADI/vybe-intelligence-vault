@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.zendesk.com/hc/en-us/articles/360006277374
-published_at: '2026-06-22T11:14:49.612061+05:30'
-collected_at: '2026-06-22T11:14:49.612073+05:30'
+published_at: '2026-06-22T15:23:57.741696+05:30'
+collected_at: '2026-06-22T15:23:57.741711+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:manage-your-subscription-medium-help-center
-first_seen: '2026-06-22T11:14:49.612073+05:30'
-last_seen: '2026-06-22T11:14:49.612073+05:30'
-last_checked: '2026-06-22T11:14:49.612073+05:30'
+first_seen: '2026-06-22T15:23:57.741711+05:30'
+last_seen: '2026-06-22T15:23:57.741711+05:30'
+last_checked: '2026-06-22T15:23:57.741711+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Accessing Subscription Details**: View/edit subscription plan, billing period, and payment info via **Settings > Membership and payment** (web/mobile). For PayPal/iTunes/Google Play, update payment details in respective stores.
-- **Changing Payment Plan**: Modify subscription tier (Monthly/Annual) via **Settings > Billing** (web) or store-specific paths (iTunes: *Settings > [Name] > iTunes & App Store > Subscriptions*; Google Play: *Account > Purchase history*).
-- **Cancellation & Invoices**:
-  - **Cancel**: Via **Settings > Membership and payment** (web) or store-specific cancellation (iTunes/Google Play); benefits persist until billing cycle ends.
-  - **Invoices**: Download via **Settings > Membership billing history** (credit/PayPal) or store systems (iTunes: *Purchase History*; Google Play: *Account > Purchase history*).
+- **Subscription Management**: Access subscription details (plan, billing period, payment info) via **Settings > Membership and payment** on web/mobile; update credit card details directly or via PayPal/iTunes/Google Play for third-party purchases.
+- **Plan Modification & Cancellation**: Change subscription tier (monthly/annual) via **Settings > Billing** (web) or app-specific flows (iTunes: *Settings > [name] > iTunes & App Store > Subscriptions*; Google Play: *Profile > Payments & subscriptions > Subscriptions*); cancel via **Settings > Cancel membership** (web) or respective storefronts (iTunes/Google Play), with changes effective at billing cycle end.
+- **Billing Artifacts**: Retrieve invoices via **Settings > Membership billing history** (credit card/PayPal) or store-specific flows (iTunes: *Purchase History*; Google Play: *Account > Purchase history*); VAT invoices require additional steps via Google Pay Help.
 
 ## Why It Matters
 
@@ -36,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:14:49.612061+05:30
+- Published: 2026-06-22T15:23:57.741696+05:30
 
 ## Related Tags
 

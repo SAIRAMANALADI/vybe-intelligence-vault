@@ -13,9 +13,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`kruxai-ragbuilder.md`](../../ai/rag/kruxai-ragbuilder.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
@@ -23,15 +43,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `84` | **Path**: [`how-to-contribute-contributing-to-godot.md`](../../ai/rag/how-to-contribute-contributing-to-godot.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [Nonresident Supplemental Tuition Exemptions | Registrar’s Office](https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`nonresident-supplemental-tuition-exemptions-regist.md`](../../ai/resources/nonresident-supplemental-tuition-exemptions-regist.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Introduction | Electron](https://electronjs.org/docs/latest)
 - **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`introduction-electron.md`](../../ai/resources/introduction-electron.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`wordpress-developer-resources-developer-wordpress.md`](../../ai/resources/wordpress-developer-resources-developer-wordpress.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code)
 - **Category**: `ai/resources` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
@@ -42,31 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`git.md`](../../ai/resources/git.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main)
-- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`anaconda-documentation-anaconda.md`](../../ai/resources/anaconda-documentation-anaconda.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers)
-- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`twilio-sendgrid-developer-documentation-sendgrid-d.md`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows)
-- **Category**: `ai/companies/mistral` | **Kind**: `WORKFLOW` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`product-workflows-for-work-that-runs-the-business.md`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`mastering-langgraph-a-production-ready-coding-walk.md`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-11304.md`](../../ai/rag/arxiv-2606-11304.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-22 13:12 IST*
+*Last updated: 2026-06-22 15:59 IST*

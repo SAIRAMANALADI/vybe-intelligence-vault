@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- Medium’s sitemap (`/sitemap.xml`) exposes structured URLs for SEO indexing, including `/blog`, `/new-story`, and `/search` endpoints.
-- The platform uses OAuth2-based authentication flows (`/m/signin`) with redirect URIs for session management across web and mobile apps.
-- Medium’s blog aggregates content via topic-based endpoints (e.g., `/blog/all?topic=product`) and supports newsletter subscriptions via `blog.medium.com/newsletter`.
+- **Medium's sitemap** (`/sitemap.xml`) provides structured XML-based navigation for indexing content, including blog posts, topics, and user-generated articles.
+- **Authentication endpoints** (`/m/signin`, `/m/register`) use OAuth2-based redirects for session management, enabling secure user access to publishing and account features.
+- **Content delivery** leverages CDN-hosted static assets (e.g., `/resize:fill:*`) and dynamic APIs for responsive image rendering and real-time updates.
 
 ## Use Cases
 

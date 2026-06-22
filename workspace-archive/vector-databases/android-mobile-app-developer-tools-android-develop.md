@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Android XR Platform Expansion**: New tools and updates for building, testing, and scaling XR experiences across Android's ecosystem, including expanded engine support and resources.
-
-- **Android 17 Release**: Source code live on AOSP, rolling out to Pixel devices; top 5 updates highlighted for app readiness with API 37.
-
-- **Android SDK License Agreement (2026.1.1 Patch 2)**: Grants limited, royalty-free license for app development on compatible Android implementations; prohibits reverse eng
+- Android 17 (API 37) source code is now live on AOSP, with rollout to supported Pixel devices; key updates require app adaptations for compatibility.
+- Android XR platform expands engine support and resources for building, testing, and scaling immersive experiences across devices.
+- Android Studio Quail 1 | 2026.1.1 Patch 2 introduces new SDK tools under a restricted license, prohibiting reverse engineering, derivative works, or unauthorized redistribution.
 
 ## Use Cases
 

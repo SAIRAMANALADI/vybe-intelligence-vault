@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hub.docker.com
-published_at: '2026-06-22T11:30:50.069610+05:30'
-collected_at: '2026-06-22T11:30:50.069623+05:30'
+published_at: '2026-06-22T15:31:11.774903+05:30'
+collected_at: '2026-06-22T15:31:11.774921+05:30'
 tags:
 - agents
 - rag
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:docker-hub-container-image-library-app-containeriz
-first_seen: '2026-06-22T11:30:50.069623+05:30'
-last_seen: '2026-06-22T11:30:50.069623+05:30'
-last_checked: '2026-06-22T11:30:50.069623+05:30'
+first_seen: '2026-06-22T15:31:11.774921+05:30'
+last_seen: '2026-06-22T15:31:11.774921+05:30'
+last_checked: '2026-06-22T15:31:11.774921+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Docker Hardened Images**: Free, near-zero CVE images with built-in security, compliance, and continuous updates; includes enterprise-grade base images (Ubuntu, Debian, Java) with CVE remediation, SLAs, and long-term support.
+- **Docker Hardened Images**: Free, near-zero CVE images with built-in security, compliance, and continuous updates for enterprise-grade base images (e.g., Ubuntu, Debian, Java) with CVE remediation and long-term support.
 
-- **Docker Hub Features**: Hosts official, verified, and sponsored OSS images; supports AI/ML frameworks (TensorFlow, PyTorch, LangChain), databases (PostgreSQL, MySQL), and developer tools (Gradle, Bash); offers automated builds, webhooks, and team collaboration.
+- **Docker Hub Content Categories**: Hosts trusted content including Docker Hardened Images, Docker Official Images, Verified Publisher images, and Sponsored OSS, alongside curated categories like AI/ML, security, databases, and developer tools.
 
-- **Docker Verified Publisher Program**: Enhances trust, discoverability, and provides exclusive analytics for publishers; requires subscription for increased reach and adoption on Docker Hub.
+- **Docker Hub Features**: Supports seamless image publishing, team collaboration via user/access management, automated builds/webhooks for CI/CD pipelines, and extensions for enhanced functionality (e.g., Kubernetes debugging, resource management).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:30:50.069610+05:30
+- Published: 2026-06-22T15:31:11.774903+05:30
 
 ## Related Tags
 

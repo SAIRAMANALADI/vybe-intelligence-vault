@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by dev-experiments. Score: 79, Comments: 16.
+Hacker News story by dev-experiments. Score: 130, Comments: 30.
 Original Link: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 
 ## Use Cases

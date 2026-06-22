@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered DevOps**: Integrates Atlassian Intelligence for AI-driven code review, pipeline triage, Jira updates, and agentic CI/CD automation (e.g., feature flag cleanup, test fixes) across the SDLC.
-- **Jira-Bitbucket Synergy**: Native Jira integration enables bidirectional traceability—commits link to Jira issues, PRs reference work items, and deployment statuses update automatically for end-to-end visibility.
-- **Enterprise Governance**: Enforces coding standards, security policies, and b
+- **AI-augmented SDLC**: Atlassian integrates AI across the software development lifecycle (SDLC) with capabilities including AI-powered code search, chat, automated code review, pipeline triage, and Jira updates to reduce cycle times and enhance developer productivity.
+
+- **Connected DevOps platform**: Bitbucket natively integrates with Jira and Jira Service Management, enabling seamless traceability from planning to production with minimal context switching, supported by the Teamwork Graph for
 
 ## Use Cases
 

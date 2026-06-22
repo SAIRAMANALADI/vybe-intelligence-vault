@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **bbPress Codex** is a community-driven documentation hub for bbPress, powered by WordPress.org/BuddyPress.org accounts, enabling collaborative updates and maintenance of forum-related technical resources.
-
-- **Core components** include installation guides, theme/plugin development, hooks/actions/filters, user roles/capabilities, and multilingual support, with version-specific documentation (e.g., 2.6, 2.5).
-
-- **Advanced features** cover forum configuration, shortcodes, widgets, BuddyPress in
+- **bbPress Codex** is a community-driven documentation hub for bbPress, powered by users and professionals, offering up-to-date guides on installation, configuration, and customization of bbPress forums.
+- **Key resources** include developer guides for plugin/theme development, role/capability management, shortcodes, widgets, and integration with BuddyPress, alongside version-specific documentation (e.g., 2.6, 2.5).
+- **Contribution framework** allows registered users to modify content; structu
 
 ## Use Cases
 

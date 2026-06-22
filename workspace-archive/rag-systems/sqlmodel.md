@@ -8,7 +8,7 @@ local_vault_path: ai/rag/sqlmodel.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - rag
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified ORM Framework**: SQLModel combines Pydantic (for data validation) and SQLAlchemy (for database interactions) into a single library, enabling Python type-annotated models to represent both database tables and data schemas with minimal code duplication.
+- **Unified ORM Framework**: SQLModel combines SQLAlchemy (ORM) and Pydantic (data validation) into a single Python class, enabling type-annotated SQL table definitions with minimal code duplication while maintaining full compatibility with both underlying libraries.
 
-- **FastAPI Integration**: Designed for seamless compatibility with FastAPI, SQLModel leverages Python type hints for automatic request/response validation and editor support (autocompletion, inline errors) while maintaining SQLAlchemy
+- **FastAPI Integration**: Designed specifically for FastAPI, it streamlines SQL database interactions by providing autocompletion, inline error detection, and seamless CRUD operations with SQLite/PostgreSQL via a thin abstraction
 
 ## Use Cases
 

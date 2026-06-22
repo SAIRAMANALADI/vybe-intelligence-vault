@@ -6,10 +6,10 @@ source_url: https://support.atlassian.com/bitbucket-cloud/docs/write-a-pipe-for-
 resource_id: blog:write-a-pipe-for-bitbucket-pipelines-bitbucket-clo
 local_vault_path: ai/rag/write-a-pipe-for-bitbucket-pipelines-bitbucket-clo.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - hackernews
 - rag
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Pipe Structure**: A Bitbucket Pipe consists of a script/binary (task logic), a Dockerfile (container definition), and optional metadata/docs for reusability and marketplace eligibility.
+- **Pipe Structure**: A Bitbucket Pipe consists of a script/binary (task logic), a Dockerfile (container configuration), and optional metadata/docs for reusability and marketplace eligibility.
 
-- **Dockerfile Essentials**: Requires `FROM` (base image, e.g., `alpine:3.8`), `COPY` (script files), and `ENTRYPOINT` (execution command) to package the pipe into a Docker container.
+- **Dockerfile Requirements**: Must include `FROM` (base image, e.g., `alpine:3.8`), `COPY` (script/binaries), and `ENTRYPOINT` (execution command) to containerize the pipe.
 
-- **Metadata & Variables**: The `pipe.yml` file defines pipe metadata (name, category, maintainer) and configurable variable
+- **Metadata & Configuration**: `pipe.yml` defines pipe attributes (name, category, variables) and `README.md` documents usage, whi
 
 ## Use Cases
 

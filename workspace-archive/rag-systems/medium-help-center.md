@@ -28,9 +28,8 @@ selection_reason:
 
 ## Summary
 
-- **Account Management**: Medium provides tools for profile customization, email preferences, subscription management, and social media integration via dedicated help articles.
-- **Content Creation & Analytics**: The platform offers a story editor for publishing, image embedding, topic tagging, and detailed audience/story analytics (e.g., stats, audience insights).
-- **Distribution & Monetization**: Stories are subject to Medium’s curation guidelines for distribution tiers; eligible content can
+- Medium's **Partner Program** enables monetization via the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187), with earnings calculated based on [Partner Program earnings dashboard](https://help.medium.com/hc/en-us/articles/360007171314) and [earnings algorithm](https://help.medium.com/hc/en-us/articles/360036691193).
+- **Publications** on Medium allow collaborative content curation, with submission management via [story submission workflow](https://help.medium.com/
 
 ## Use Cases
 

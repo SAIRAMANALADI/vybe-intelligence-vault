@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org
-published_at: '2026-06-22T11:23:58.553758+05:30'
-collected_at: '2026-06-22T11:23:58.553771+05:30'
+published_at: '2026-06-22T15:57:26.024065+05:30'
+collected_at: '2026-06-22T15:57:26.024086+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-22T11:23:58.553771+05:30'
-last_seen: '2026-06-22T11:23:58.553771+05:30'
-last_checked: '2026-06-22T11:23:58.553771+05:30'
+first_seen: '2026-06-22T15:57:26.024086+05:30'
+last_seen: '2026-06-22T15:57:26.024086+05:30'
+last_checked: '2026-06-22T15:57:26.024086+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are permanently assigned unique numbers by editors; version-controlled GitHub history maintains their authoritative record, with metadata exposed via a public JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are permanently assigned unique numbers by the PEP editors, with version-controlled historical records maintained in GitHub; PEP metadata is accessible via a structured JSON API (`peps.json`).
 
-- **Categorization & Status**: PEPs are classified into **Process/Meta-PEPs**, **Informational**, **Provisional**, **Accepted**, **Open**, **Finished**, **Deferred**, or **Rejected**, with status tracked via standardized keys (e.g., PA = Process Accepted, IA = Informational Accepted).
+- **Categorization & Status**: PEPs are classified into categories (e.g., Process, Informational, Provisional) and statuses (e.g., Accepted, Finished, Rejected), with cross-referenced indices for governance, packaging, and typing PEPs.
 
-- **Specialized Subsets**: PEPs are indexed by topic (e.g., **Governance**, **Packaging**, **Typing**) and include critical infrastructure PEPs (e.g., PEP 333/WSGI, PEP 482/Type Hints) alongside release-specific PEPs (e.g., PEP 619 for Python 3.10).
+- **Specialized PEPs**: Includes technical PEPs like `PEP 333` (WSGI), `PEP 484` (Type Hints), and `PEP 636` (Structural Pattern Matching), alongside infrastructure PEPs (e.g., `PEP 676` for PEP process governance).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:23:58.553758+05:30
+- Published: 2026-06-22T15:57:26.024065+05:30
 
 ## Related Tags
 

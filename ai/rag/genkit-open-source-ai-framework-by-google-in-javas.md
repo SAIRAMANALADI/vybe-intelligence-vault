@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://genkit.dev
-published_at: '2026-06-22T11:21:06.942228+05:30'
-collected_at: '2026-06-22T11:21:06.942239+05:30'
+published_at: '2026-06-22T15:28:12.830857+05:30'
+collected_at: '2026-06-22T15:28:12.830875+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:genkit-open-source-ai-framework-by-google-in-javas
-first_seen: '2026-06-22T11:21:06.942239+05:30'
-last_seen: '2026-06-22T11:21:06.942239+05:30'
-last_checked: '2026-06-22T11:21:06.942239+05:30'
+first_seen: '2026-06-22T15:28:12.830875+05:30'
+last_seen: '2026-06-22T15:28:12.830875+05:30'
+last_checked: '2026-06-22T15:28:12.830875+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Google's open-source Genkit enables cross-platform, agentic AI app development with support for multiple LLMs (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK, abstracting provider-specific APIs.
+- **Unified AI Framework**: Open-source framework by Google for building full-stack, agentic applications across TypeScript, Go, Python (Preview), and Dart (Preview), supporting multiple LLM providers (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK.
 
-- **Multi-Language & Multi-Modal Support**: Provides TypeScript, Go, Python (preview), and Dart SDKs with built-in support for text and image generation (e.g., `gemini-3.1-flash-image` with `responseModalities: ['IMAGE', 'TEXT']`).
+- **Modular & Production-Ready**: Enables composable workflows (RAG, tool use, agents) with built-in primitives, local dev/debugging UI, and deployment options (Firebase, Cloud Run, custom infrastructure).
 
-- **Production-Ready Tooling**: Includes a local developer UI for debugging, CLI for workflow management, and deployment options to Firebase/Cloud Run, with composable workflows for RAG, agents, and tool integration.
+- **Developer Tools & Examples**: Includes Genkit CLI, Developer UI for debugging, and pre-built demo apps (e.g., Firebase, Next.js) with code samples for rapid prototyping and deployment.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:21:06.942228+05:30
+- Published: 2026-06-22T15:28:12.830857+05:30
 
 ## Related Tags
 

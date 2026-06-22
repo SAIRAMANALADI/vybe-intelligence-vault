@@ -12,6 +12,7 @@ resource_kind: framework
 importance: high
 tags:
 - agents
+- frontend_ui
 - github-repo
 - models
 - openai
@@ -35,7 +36,11 @@ selection_reason:
 
 ## Summary
 
-Production-ready platform for agentic workflow development.
+- **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low-code/no-code capabilities.
+
+- **Multi-Model & Tool Integration**: Supports LLM APIs (OpenAI, GPT-4, Gemini), RAG pipelines, MCP (Model Context Protocol), and external tool orchestration via Next.js-based UI.
+
+- **Scalable Deployment**: Enables end-to-end agentic workflows (automation, AI agents, orchestration) with modu
 
 ## Use Cases
 

@@ -6,10 +6,10 @@ source_url: https://codex.buddypress.org
 resource_id: blog:buddypress-codex
 local_vault_path: ai/resources/buddypress-codex.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - hackernews
 - reddit
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **BuddyPress Codex** serves as the official documentation hub for BuddyPress, a WordPress plugin, providing community-driven technical guides, API references, and version-specific changelogs for core components (e.g., Activity Streams, Groups, Extended Profiles).
+- **BuddyPress Codex** is an open-source, community-driven documentation hub for BuddyPress, covering installation, features, development, and administration, with version-specific changelogs and trac references.
 
-- **Key sections** include *Administrator Guide* (backend management), *BP Plugin Development* (hooks, filters, and custom plugin integration), and *Developer Resources* (classes, functions, and template tags for extending functional
+- **Core components** include Activity Streams, Blogs, Extended Profiles, Friends, Groups, Messages, Notifications, and Settings, each with dedicated documentation pages.
+
+- **Development resources** provide technical guides for BP plugin/theme development, hooks (actions/filters), tem
 
 ## Use Cases
 

@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 286 resources matched in the intelligence vault.
+Active signals: 289 resources matched in the intelligence vault.
 Recently detected signals:
-- [Train deep learning PyTorch models (SDK v2) - Azure Machine Learning | Microsoft Learn](../ai/rag/train-deep-learning-pytorch-models-sdk-v2-azure-ma.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Teaching OPT to Paraphrase through Soft Prompt Tuning | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/teaching-opt-to-paraphrase-through-soft-prompt-tun.md) (Source: Unknown Source) - Collected 2026-06-22
-- [RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices](../ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md) (Source: Unknown Source) - Collected 2026-06-22
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-22
+- [google/gemma-3-12b-it · Hugging Face](../ai/resources/huggingface-google-gemma-3-12b-it.md) (Source: Unknown Source) - Collected 2026-06-22
+- [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](../ai/resources/arxiv-2401-12178.md) (Source: Unknown Source) - Collected 2026-06-22
+- [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](../ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -34,27 +34,27 @@ Recently detected signals:
 ### 1. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: Arize-ai/phoenix
+- Description: AI Observability & Evaluation
 
 ### 2. [truera/trulens](../ai/agents/truera-trulens.md) ([GitHub](https://github.com/truera/trulens))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: truera/trulens
+- Description: Evaluation and Tracking for LLM Experiments and AI Agents
 
 ### 3. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: raga-ai-hub/RagaAI-Catalyst
+- Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
 
 ### 4. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: GoogleCloudPlatform/agent-starter-pack
+- Description: Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
 
 ### 5. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
+- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
 
 ### 6. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
 - Stars: 0
@@ -89,7 +89,7 @@ Recently detected signals:
 ### 12. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: langwatch/langwatch
+- Description: The platform for LLM evaluations and AI agent testing
 
 ### 13. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
@@ -121,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T13:12:11.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

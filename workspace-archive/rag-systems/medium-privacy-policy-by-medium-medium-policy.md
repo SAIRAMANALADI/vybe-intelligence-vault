@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, avatar) and automatically gathers activity logs (e.g., reading history, device identifiers, IP addresses, cookies) via tracking technologies like web beacons and analytics providers for service optimization and personalization.
+- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, biometrics) and automatically gathers activity, transactional, device, and usage data via IP addresses, cookies, and tracking technologies for service personalization, analytics, and security.
 
-- **Third-Party Data Sharing**: Personal data is shared with vendors, service providers, and third parties for infrastructure, analytics, fraud prevention, and legal compliance;
+- **Third-Party Sharing & Legal Compliance**: Personal data is shared with vendors, affiliates, and under legal obligations (e.g., mergers, law enforcement requests), while aggregated/de-identified data is exempt;
 
 ## Use Cases
 

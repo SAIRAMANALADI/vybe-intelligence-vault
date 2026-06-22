@@ -11,10 +11,10 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
 *   [Apple Vision Pro - Apple](https://www.apple.com/apple-vision-pro)
+*   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [DagsHub - YouTube](https://youtube.com/c/dagshub)
+*   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org)
-*   [Overview Â· Cloudflare Workers AI docs](https://developers.cloudflare.com/workers-ai)
-*   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

@@ -1,0 +1,49 @@
+---
+title: Stats – Medium Help Center
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://medium.zendesk.com/hc/en-us/articles/215108608
+resource_id: blog:stats-medium-help-center
+local_vault_path: ai/rag/stats-medium-help-center.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- rag
+- reddit
+- web-crawled
+selection_reason:
+- Valuable developer reference
+---
+
+# Stats – Medium Help Center
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **Metrics Definitions**: *Presentations* (story suggestions across feeds/search/email), *Views* (unique user access ≥5s), *Reads* (unique user engagement ≥30s), *Followers/Subscribers* (account growth metrics), all deduplicated per user/surface/day.
+- **Data Granularity**: Monthly stats updated hourly; Lifetime stats updated hourly (first month) or daily (older stories), sortable by views/reads/earnings.
+- **Partner Program Insights**: Dedicated dashboard tracks earnings (Overview, Earnings su
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://medium.zendesk.com/hc/en-us/articles/215108608
+
+## Local Vault File
+
+Path: [stats-medium-help-center.md](../../ai/rag/stats-medium-help-center.md)

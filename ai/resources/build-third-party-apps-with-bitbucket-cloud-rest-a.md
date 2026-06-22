@@ -5,15 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api
-published_at: '2026-06-22T11:29:42.006156+05:30'
-collected_at: '2026-06-22T11:29:42.006170+05:30'
+published_at: '2026-06-22T15:25:23.151503+05:30'
+collected_at: '2026-06-22T15:25:23.151522+05:30'
 tags:
+- reddit
 - web-crawled
 status: active
 resource_id: blog:build-third-party-apps-with-bitbucket-cloud-rest-a
-first_seen: '2026-06-22T11:29:42.006170+05:30'
-last_seen: '2026-06-22T11:29:42.006170+05:30'
-last_checked: '2026-06-22T11:29:42.006170+05:30'
+first_seen: '2026-06-22T15:25:23.151522+05:30'
+last_seen: '2026-06-22T15:25:23.151522+05:30'
+last_checked: '2026-06-22T15:25:23.151522+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Rate Limits**: Bitbucket Cloud enforces a **rate limit of 1,000 requests per hour per OAuth consumer** (or per user for Basic Auth). Anonymous requests are limited to **60 requests per hour**.
-
-- **Rate Limit Cycling**: Limits reset **hourly**, aligned with the **UTC hour** (e.g., 12:00–13:00 UTC). Exceeding limits returns a `429 Too Many Requests` response.
-
-- **Mitigation Strategies**: Use **OAuth consumers** for higher limits, implement **exponential backoff** for retries, and cache responses to reduce API calls. Monitor headers (`X-RateLimit-*`) for remaining quota.
+- **Rate Limits**: Bitbucket Cloud enforces API request limits of **5,000 requests per hour per OAuth consumer** or **unauthenticated requests**, and **1,000 requests per hour per authenticated user/IP**.
+- **Reset Cycle**: Limits reset **hourly on a rolling basis** (not at UTC midnight), tracked per consumer/user/IP.
+- **Best Practices**: Use **authenticated requests**, implement **exponential backoff** for retries, and cache responses to minimize API calls.
 
 ## Why It Matters
 
@@ -35,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:29:42.006156+05:30
+- Published: 2026-06-22T15:25:23.151503+05:30
 
 ## Related Tags
 
+- reddit
 - web-crawled
 
 ## Source

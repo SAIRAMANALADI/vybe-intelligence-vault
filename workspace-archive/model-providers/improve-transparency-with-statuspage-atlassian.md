@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Incident Communication**: Statuspage enables proactive user communication during incidents via customizable public/private status pages, integrating with 150+ third-party tools (e.g., Stripe, PagerDuty) to display component statuses and reduce duplicate support tickets.
+- **Real-time incident communication**: Statuspage enables proactive user notifications during incidents via email, SMS, in-app messages, and integrations with tools like Slack, Microsoft Teams, and PagerDuty, reducing duplicate support tickets.
 
-- **Scalable Tiered Pricing**: Offers tiered plans (Free to Enterprise) with varying subscriber limits (100–25,000), team members (2–50), metrics (2–50), and notifications (email/SMS/webhook/Slack/MS Teams), includ
+- **Component monitoring & uptime tracking**: Supports 150+ third-party integrations (e.g., Stripe, Mailgun) to display status of critical dependencies, with historical uptime metrics for transparency and trust-building.
+
+- **Scalable pricing tiers**: O
 
 ## Use Cases
 

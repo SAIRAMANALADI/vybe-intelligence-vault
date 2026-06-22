@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.atlassian.com/software/statuspage?utm_campaign=status.npmjs.org&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp
-published_at: '2026-06-22T11:22:02.800325+05:30'
-collected_at: '2026-06-22T11:22:02.800338+05:30'
+published_at: '2026-06-22T15:19:38.660123+05:30'
+collected_at: '2026-06-22T15:19:38.660141+05:30'
 tags:
 - reddit
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:improve-transparency-with-statuspage-atlassian
-first_seen: '2026-06-22T11:22:02.800338+05:30'
-last_seen: '2026-06-22T11:22:02.800338+05:30'
-last_checked: '2026-06-22T11:22:02.800338+05:30'
+first_seen: '2026-06-22T15:19:38.660141+05:30'
+last_seen: '2026-06-22T15:19:38.660141+05:30'
+last_checked: '2026-06-22T15:19:38.660141+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time Incident Communication**: Statuspage enables proactive user communication during incidents via customizable public/private status pages, integrating with 150+ third-party tools (e.g., Stripe, PagerDuty) to display component statuses and reduce duplicate support tickets.
+- **Real-time incident communication**: Statuspage enables proactive user notifications during incidents via email, SMS, in-app messages, and integrations with tools like Slack, Microsoft Teams, and PagerDuty, reducing duplicate support tickets.
 
-- **Scalable Tiered Pricing**: Offers tiered plans (Free to Enterprise) with varying subscriber limits (100–25,000), team members (2–50), metrics (2–50), and notifications (email/SMS/webhook/Slack/MS Teams), including custom domains, SSO, and REST API access.
+- **Component monitoring & uptime tracking**: Supports 150+ third-party integrations (e.g., Stripe, Mailgun) to display status of critical dependencies, with historical uptime metrics for transparency and trust-building.
 
-- **Audience-Specific Views & Reliability Metrics**: Supports audience-specific pages (e.g., internal teams vs. public users) with uptime showcasing (Uptime Showcase) and historical metrics, enhancing transparency and trust for marketing/sales teams.
+- **Scalable pricing tiers**: Offers free (100 subscribers, 25 components), Hobby ($29/mo), Startup ($99/mo), Business ($399/mo), and Enterprise ($1,499/mo) plans with tiered features like SSO, custom domains, and role-based access control.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:22:02.800325+05:30
+- Published: 2026-06-22T15:19:38.660123+05:30
 
 ## Related Tags
 

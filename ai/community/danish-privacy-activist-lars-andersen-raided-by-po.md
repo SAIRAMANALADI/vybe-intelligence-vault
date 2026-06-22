@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://twitter.com/larsanders1620/status/2068208864747540516
 hn_url: https://news.ycombinator.com/item?id=48625823
-score: 62
+score: 257
 author: I_am_tiberius
-comments_count: 27
+comments_count: 188
 published_at: '2026-06-22T10:20:26+05:30'
-collected_at: '2026-06-22T11:11:59.207257+05:30'
+collected_at: '2026-06-22T15:16:23.369049+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:danish-privacy-activist-lars-andersen-raided-by-po
 first_seen: '2026-06-22T11:11:59.207257+05:30'
-last_seen: '2026-06-22T11:11:59.207257+05:30'
-last_checked: '2026-06-22T11:11:59.207257+05:30'
+last_seen: '2026-06-22T15:16:23.369049+05:30'
+last_checked: '2026-06-22T15:16:23.369049+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by I_am_tiberius. Score: 62, Comments: 27.
+Hacker News story by I_am_tiberius. Score: 257, Comments: 188.
 Original Link: https://twitter.com/LarsAnders1620/status/2068208864747540516#m
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: I_am_tiberius
-- Score: 62 Upvotes
-- Comments: 27 Discussions
+- Score: 257 Upvotes
+- Comments: 188 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48625823
 - Original Article: https://twitter.com/larsanders1620/status/2068208864747540516
 

@@ -8,6 +8,7 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ## Top Matched Resources
 
+- [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (framework - USEFUL Tier)
 - [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -28,4 +29,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-06-22 13:12 IST*
+*Last updated: 2026-06-22 15:59 IST*

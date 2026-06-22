@@ -29,11 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code for Docs**: Hosts documentation builds, previews, and auth via Git integration (Sphinx, MkDocs, Docusaurus) with live PR previews and visual diffs against production.
-
-- **Enterprise & Open Source Support**: Free for open-source projects (e.g., Flask, Jupyter, Godot); paid plans offer SSO (GitHub/GitLab), private repo access, and AMD/Canonical-backed infrastructure.
-
-- **Automated Versioning & AI Readiness**: Supports versioned docs from branches/tags, llms.txt integra
+- **Infrastructure-as-a-Service for Documentation**: Hosts and automates builds, previews, and deployments for documentation via Git integration, supporting tools like Sphinx, MkDocs, and Docusaurus with AI agent compatibility (e.g., `llms.txt`).
+- **Versioning & Access Control**: Enables multi-version documentation (branches/tags) with live PR previews and visual diffs, plus SSO (GitHub/GitLab) for granular access management (paid feature for private repos).
+- **Open Source & Enterprise Support
 
 ## Use Cases
 

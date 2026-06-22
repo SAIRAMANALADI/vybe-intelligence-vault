@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Backend Support**: Keras 3 enables seamless execution across JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), allowing dynamic backend selection for optimal performance without code changes.
+- **Multi-Backend Architecture**: Keras 3 supports JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), enabling dynamic backend selection for optimal performance without code changes, and seamless integration with respective ecosystems (e.g., TF-Serving, PyTorch `Module` compatibility).
 
-- **Cross-Framework Compatibility**: Keras 3 models and components (layers, metrics, optimizers) are framework-agnostic, enabling integration with PyTorch `Module`, TensorFlow `SavedModel`, and JAX functions while maintaining identical numerics via `keras.ops`.
-
-- **Advanced Distribution &
+- **Unified Cross-Framework API**: Implements a full Keras API across backends with `keras.ops` providing NumPy-like and neural network-specific operations, ensuring single-codebase compatibility for custom
 
 ## Use Cases
 

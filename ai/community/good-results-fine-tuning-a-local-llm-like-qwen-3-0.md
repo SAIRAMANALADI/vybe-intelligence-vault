@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 hn_url: https://news.ycombinator.com/item?id=48623434
-score: 79
+score: 130
 author: dev-experiments
-comments_count: 16
+comments_count: 30
 published_at: '2026-06-22T04:25:23+05:30'
-collected_at: '2026-06-22T11:11:59.486889+05:30'
+collected_at: '2026-06-22T15:16:21.817179+05:30'
 tags:
 - hackernews
 - llm
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:good-results-fine-tuning-a-local-llm-like-qwen-3-0
 first_seen: '2026-06-22T10:21:38.319419+05:30'
-last_seen: '2026-06-22T11:11:59.486889+05:30'
-last_checked: '2026-06-22T11:11:59.486889+05:30'
+last_seen: '2026-06-22T15:16:21.817179+05:30'
+last_checked: '2026-06-22T15:16:21.817179+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by dev-experiments. Score: 79, Comments: 16.
+Hacker News story by dev-experiments. Score: 130, Comments: 30.
 Original Link: https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: dev-experiments
-- Score: 79 Upvotes
-- Comments: 16 Discussions
+- Score: 130 Upvotes
+- Comments: 30 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48623434
 - Original Article: https://teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions
 

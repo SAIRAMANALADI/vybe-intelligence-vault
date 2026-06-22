@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://builder.aws.com/content/2zYQkMbmrsxHPtT89s3teyKJh79/aws-tools-and-resources-python?nc1=f_dr
-published_at: '2026-06-22T11:19:32.284331+05:30'
-collected_at: '2026-06-22T11:19:32.284343+05:30'
+published_at: '2026-06-22T15:19:43.072104+05:30'
+collected_at: '2026-06-22T15:19:43.072119+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:aws-builder-center
-first_seen: '2026-06-22T11:19:32.284343+05:30'
-last_seen: '2026-06-22T11:19:32.284343+05:30'
-last_checked: '2026-06-22T11:19:32.284343+05:30'
+first_seen: '2026-06-22T15:19:43.072119+05:30'
+last_seen: '2026-06-22T15:19:43.072119+05:30'
+last_checked: '2026-06-22T15:19:43.072119+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:19:32.284331+05:30
+- Published: 2026-06-22T15:19:43.072104+05:30
 
 ## Related Tags
 

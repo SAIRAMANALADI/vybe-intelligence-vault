@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.llamaindex.ai
-published_at: '2026-06-22T11:16:53.005844+05:30'
-collected_at: '2026-06-22T11:16:53.005858+05:30'
+published_at: '2026-06-22T15:27:10.745293+05:30'
+collected_at: '2026-06-22T15:27:10.745309+05:30'
 tags:
 - agents
 - meta-ai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-06-22T11:16:53.005858+05:30'
-last_seen: '2026-06-22T11:16:53.005858+05:30'
-last_checked: '2026-06-22T11:16:53.005858+05:30'
+first_seen: '2026-06-22T15:27:10.745309+05:30'
+last_seen: '2026-06-22T15:27:10.745309+05:30'
+last_checked: '2026-06-22T15:27:10.745309+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware OCR engine**: Parse processes PDFs, scans, tables, and charts with spatial awareness, extracting structured content while preserving layout and formatting.
-
-- **Multi-format output**: Converts parsed documents into clean markdown, plain text, or JSON for seamless integration into LLM pipelines.
-
-- **Agentic parsing**: Designed for autonomous operation in LLM workflows, optimizing document understanding with minimal manual intervention.
+- **Layout-Aware OCR**: Parse performs Optical Character Recognition (OCR) while preserving document layout, enabling accurate extraction of text, tables, and charts from PDFs and scanned documents.
+- **Multi-Format Output**: Converts parsed documents into clean markdown, plain text, or structured JSON, facilitating seamless integration with LLM pipelines.
+- **Agentic Processing**: Designed as an autonomous parser for LLM workflows, optimizing document understanding and extraction for downstream AI applications.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T11:16:53.005844+05:30
+- Published: 2026-06-22T15:27:10.745293+05:30
 
 ## Related Tags
 

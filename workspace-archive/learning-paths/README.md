@@ -13,9 +13,9 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development) (dataset - USEFUL Tier)
 - [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (dataset - USEFUL Tier)
 - [Python Packaging Authority — PyPA documentation](https://www.pypa.io/en/latest) (tutorial - USEFUL Tier)
+- [Learn WordPress - There's always more to learn | Learn WordPress](https://learn.wordpress.org) (tutorial - USEFUL Tier)
 - [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](https://labs.ripe.net/author/adonis_stergiopoulos/streamlining-ripestat-building-an-interface-for-the-future) (dataset - USEFUL Tier)
 - [Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap](https://arxiv.org/abs/2606.15091) (framework - USEFUL Tier)
-- [RAG Status Reports, Dashboards, and Templates: Red Amber Green](https://business-docs.co.uk/downloads/category/rag) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -37,4 +37,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-22 13:12 IST*
+*Last updated: 2026-06-22 15:59 IST*

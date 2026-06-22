@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-22T13:13:07.617956+05:30`
+Generated at: `2026-06-22T15:59:15.465796+05:30`
 
 ## Executive Summary
 
@@ -8,47 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Danish privacy activist Lars Andersen raided by police** - Score: `62` in category `ai/community` ([Link](https://twitter.com/larsanders1620/status/2068208864747540516)) ([File](../ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md))
-- **FAQ - Unicode Frequently Asked Questions** - Score: `0` in category `ai/resources` ([Link](https://unicode.org/faq)) ([File](../ai/resources/faq-unicode-frequently-asked-questions.md))
-- **NIST Guidelines, Information Quality Standards and Administrative Mechanism | NIST** - Score: `0` in category `ai/rag` ([Link](https://nist.gov/nist-information-quality-standards)) ([File](../ai/rag/nist-guidelines-information-quality-standards-and.md))
-- **First Citizens Bank Responsible Disclosure** - Score: `0` in category `ai/resources` ([Link](https://firstcitizensbank.responsibledisclosure.com/hc/en-us)) ([File](../ai/resources/first-citizens-bank-responsible-disclosure.md))
-- **EditPad® Pro: Text Editor for Windows** - Score: `0` in category `ai/resources` ([Link](https://editpadpro.com)) ([File](../ai/resources/editpad-r-pro-text-editor-for-windows.md))
-- **Cybersecurity & Privacy Stakeholder Engagement | NIST** - Score: `0` in category `ai/rag` ([Link](https://nist.gov/cybersecurity/cybersecurity-privacy-stakeholder-engagement)) ([File](../ai/rag/cybersecurity-privacy-stakeholder-engagement-nist.md))
-- **HelpScribble - Complete Help Authoring Tool - WinHelp hlp, HTML Help chm, Printed Manual and Web Help** - Score: `0` in category `ai/resources` ([Link](https://helpscribble.com)) ([File](../ai/resources/helpscribble-complete-help-authoring-tool-winhelp.md))
-- **UAX #15: Unicode Normalization Forms** - Score: `0` in category `ai/rag` ([Link](https://unicode.org/reports/tr15)) ([File](../ai/rag/uax-15-unicode-normalization-forms.md))
-- **Lightweight Cryptography | CSRC** - Score: `0` in category `ai/rag` ([Link](https://csrc.nist.gov/projects/lightweight-cryptography)) ([File](../ai/rag/lightweight-cryptography-csrc.md))
-- **BP Team Updates | Follow BuddyPress development & documentation latest news** - Score: `0` in category `ai/rag` ([Link](https://bpdevel.wordpress.com)) ([File](../ai/rag/bp-team-updates-follow-buddypress-development-docu.md))
-- **Responsible Disclosure (Powered by Synack)** - Score: `0` in category `ai/resources` ([Link](https://synack.responsibledisclosure.com/hc/en-us)) ([File](../ai/resources/responsible-disclosure-powered-by-synack.md))
-- **ResponsibleDisclosure.com Terms of Service – Department of Energy Responsible Disclosure Powered by Synack** - Score: `0` in category `ai/agents` ([Link](https://doe.responsibledisclosure.com/hc/en-us/articles/360052066494)) ([File](../ai/agents/responsibledisclosure-com-terms-of-service-departm.md))
-- **Let’s get Digital! Updated Digital Identity Guidelines are Here! | NIST** - Score: `0` in category `ai/resources` ([Link](https://nist.gov/blogs/cybersecurity-insights/lets-get-digital-updated-digital-identity-guidelines-are-here)) ([File](../ai/resources/lets-get-digital-updated-digital-identity-guidelin.md))
-- **Welcome to Just Great Software** - Score: `0` in category `ai/rag` ([Link](https://just-great-software.com)) ([File](../ai/rag/welcome-to-just-great-software.md))
-- **Redirecting to Unicode Resources page** - Score: `0` in category `ai/resources` ([Link](https://unicode.org/unicode/onlinedat/resources.html)) ([File](../ai/resources/redirecting-to-unicode-resources-page.md))
+- **Munich 1991: The Roots of the Current AI Boom** - Score: `53` in category `ai/community` ([Link](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html)) ([File](../ai/community/munich-1991-the-roots-of-the-current-ai-boom.md))
+- **Customer Support** - Score: `0` in category `ai/resources` ([Link](https://support.granicus.com/s/article/granicus-llc-subscriber-cookie-statement)) ([File](../ai/resources/customer-support.md))
+- **How to Apply for a Federal Funding Opportunity on Grants.gov – Grants.gov Community Blog** - Score: `0` in category `ai/resources` ([Link](https://grantsgovprod.wordpress.com/2021/04/28/how-to-apply-for-a-federal-funding-opportunity-on-grants-gov)) ([File](../ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md))
+- **Tanium Titans Community** - Score: `0` in category `ai/resources` ([Link](https://community.tanium.com/s/developer-community)) ([File](../ai/resources/tanium-titans-community.md))
+- **Solodit** - Score: `0` in category `ai/resources` ([Link](https://support.cyfrin.io/solodit/overview)) ([File](../ai/resources/solodit.md))
+- **Lesson Plan: Intro to Web Lab - Code.org** - Score: `0` in category `ai/resources` ([Link](https://studio.code.org/courses/intro-to-web-lab/units/1/lessons/1)) ([File](../ai/resources/lesson-plan-intro-to-web-lab-code-org.md))
+- **The University of Texas at Austin** - Score: `0` in category `ai/resources` ([Link](https://community.utexas.edu/disability)) ([File](../ai/resources/the-university-of-texas-at-austin.md))
+- **Predicting Viral Hijacking Through Genome-Scale Modeling | Article | PNNL** - Score: `0` in category `ai/rag` ([Link](https://pnnl.gov/publications/predicting-viral-hijacking-through-genome-scale-modeling)) ([File](../ai/rag/predicting-viral-hijacking-through-genome-scale-mo.md))
+- **Research.gov - Grants Management for NSF Community** - Score: `0` in category `ai/resources` ([Link](https://research.gov/research-web)) ([File](../ai/resources/research-gov-grants-management-for-nsf-community.md))
+- **Table of contents — voila 0.5.8 documentation** - Score: `0` in category `ai/resources` ([Link](https://voila.readthedocs.io)) ([File](../ai/resources/table-of-contents-voila-0-5-8-documentation.md))
+- **CAS - Central Authentication Service Login** - Score: `0` in category `ai/resources` ([Link](https://freedom-to-tinker.com/2016/01/14/the-web-privacy-problem-is-a-transparency-problem-introducing-the-openwpm-measurement-tool)) ([File](../ai/resources/cas-central-authentication-service-login.md))
+- **k12cs.org – K–12 Computer Science Framework** - Score: `0` in category `ai/resources` ([Link](https://k12cs.org)) ([File](../ai/resources/k12cs-org-k-12-computer-science-framework.md))
+- **Notetaking (Notetakers) Home** - Score: `0` in category `ai/resources` ([Link](https://ssdportal.ddce.utexas.edu/clockwork/user/notetakingnotetakers/default.aspx)) ([File](../ai/resources/notetaking-notetakers-home.md))
+- **Get a UCLA job — ASUCLA** - Score: `0` in category `ai/resources` ([Link](https://asucla.ucla.edu/get-a-job)) ([File](../ai/resources/get-a-ucla-job-asucla.md))
+- **Immigrants Belong Toolkit - Define American** - Score: `0` in category `ai/rag` ([Link](https://defineamerican.com/research/immigrants-belong-toolkit)) ([File](../ai/rag/immigrants-belong-toolkit-define-american.md))
 
 ## Top Trending Resources
 
-- **Apertus – Open Foundation Model for Sovereign AI** - Score: `294` (+17), Rank Change: `0` ([File](../ai/community/apertus-open-foundation-model-for-sovereign-ai.md))
-- **Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions** - Score: `79` (+15), Rank Change: `0` ([File](../ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md))
-- **JSON-LD explained for personal websites** - Score: `189` (+3), Rank Change: `0` ([File](../ai/community/json-ld-explained-for-personal-websites.md))
-- **Welcome to Mozilla Foundation - Mozilla Foundation** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md))
-- **Font Awesome** - Score: `0` (0), Rank Change: `+310` ([File](../ai/resources/font-awesome.md))
-- **HTML Standard** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/html-standard.md))
-- **Pydantic Docs - Validation, AI Agents, Logfire Observability** - Score: `0` (0), Rank Change: `+306` ([File](../ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md))
-- **Gerrit** - Score: `0` (0), Rank Change: `+133` ([File](../ai/resources/gerrit.md))
-- **gitiles - Git at Google** - Score: `0` (0), Rank Change: `+186` ([File](../ai/resources/gitiles-git-at-google.md))
-- **Material for MkDocs** - Score: `0` (0), Rank Change: `+324` ([File](../ai/resources/material-for-mkdocs.md))
+- **Danish privacy activist Lars Andersen raided by police** - Score: `257` (+195), Rank Change: `+2` ([File](../ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md))
+- **Apertus – Open Foundation Model for Sovereign AI** - Score: `376` (+82), Rank Change: `0` ([File](../ai/community/apertus-open-foundation-model-for-sovereign-ai.md))
+- **Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions** - Score: `130` (+51), Rank Change: `-1` ([File](../ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md))
+- **JSON-LD explained for personal websites** - Score: `217` (+28), Rank Change: `-1` ([File](../ai/community/json-ld-explained-for-personal-websites.md))
+- **PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org** - Score: `0` (0), Rank Change: `+125` ([File](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md))
+- **Built-in AI | AI on Chrome | Chrome for Developers** - Score: `0` (0), Rank Change: `+494` ([File](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md))
+- **Python Packaging Authority — PyPA documentation** - Score: `0` (0), Rank Change: `+553` ([File](../ai/resources/python-packaging-authority-pypa-documentation.md))
+- **Community Guide** - Score: `0` (0), Rank Change: `+35` ([File](../ai/resources/community-guide.md))
+- **Python Packaging User Guide** - Score: `0` (0), Rank Change: `+578` ([File](../ai/resources/python-packaging-user-guide.md))
+- **Full featured documentation deployment platform - Read the Docs** - Score: `0` (0), Rank Change: `+555` ([File](../ai/agents/full-featured-documentation-deployment-platform-re.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+4972`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog** - (Rank Change: `+4538`) ([File](../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md))
-- **Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn** - (Rank Change: `+4535`) ([File](../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md))
-- **RAG** - (Rank Change: `+4525`) ([File](../ai/rag/rag.md))
-- **Material for MkDocs** - (Rank Change: `+324`) ([File](../ai/resources/material-for-mkdocs.md))
-- **Font Awesome** - (Rank Change: `+310`) ([File](../ai/resources/font-awesome.md))
-- **Pydantic Docs - Validation, AI Agents, Logfire Observability** - (Rank Change: `+306`) ([File](../ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md))
-- **FastAPI - FastAPI** - (Rank Change: `+280`) ([File](../ai/rag/fastapi-fastapi.md))
-- **PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org** - (Rank Change: `+267`) ([File](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md))
-- **Python Developer’s Guide** - (Rank Change: `+260`) ([File](../ai/rag/python-developers-guide.md))
+- **langgenius/dify** - (Rank Change: `+4802`) ([File](../ai/rag/langgenius-dify.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+819`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **Unlocking the power of unstructured data with RAG - The GitHub Blog** - (Rank Change: `+786`) ([File](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md))
+- **Python Packaging User Guide** - (Rank Change: `+578`) ([File](../ai/resources/python-packaging-user-guide.md))
+- **Full featured documentation deployment platform - Read the Docs** - (Rank Change: `+555`) ([File](../ai/agents/full-featured-documentation-deployment-platform-re.md))
+- **Python Packaging Authority — PyPA documentation** - (Rank Change: `+553`) ([File](../ai/resources/python-packaging-authority-pypa-documentation.md))
+- **Built-in AI | AI on Chrome | Chrome for Developers** - (Rank Change: `+494`) ([File](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md))
+- **Mojo** - (Rank Change: `+345`) ([File](../ai/agents/mojo.md))
+- **Keras: Deep Learning for humans** - (Rank Change: `+339`) ([File](../ai/rag/keras-deep-learning-for-humans.md))
+- **Cloud Native Computing Foundation** - (Rank Change: `+275`) ([File](../ai/rag/cloud-native-computing-foundation.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -59,5 +59,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **chopratejas/headroom** (Category: `ai/rag`) ([File](../ai/rag/chopratejas-headroom.md))

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://neo4j.com/blog/developer/rag-tutorial
-published_at: '2026-06-22T11:15:33.082718+05:30'
-collected_at: '2026-06-22T11:15:33.082732+05:30'
+published_at: '2026-06-22T15:17:33.553783+05:30'
+collected_at: '2026-06-22T15:17:33.553801+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
-first_seen: '2026-06-22T11:15:33.082732+05:30'
-last_seen: '2026-06-22T11:15:33.082732+05:30'
-last_checked: '2026-06-22T11:15:33.082732+05:30'
+first_seen: '2026-06-22T15:17:33.553801+05:30'
+last_seen: '2026-06-22T15:17:33.553801+05:30'
+last_checked: '2026-06-22T15:17:33.553801+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enhance RAG systems, enabling both unstructured text retrieval and relational reasoning for improved accuracy and explainability.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) in Neo4j, enabling hybrid retrieval for LLMs. Uses LangChain for orchestration and OpenAI for embeddings/generation, integrating structured metadata and unstructured text for explainable, scalable RAG pipelines.
 
-- **Core RAG Workflow**: Three-stage process—(1) **Retrieval** (embedding-based vector search + structured filtering), (2) **Augmentation** (combining retrieved context with user query into a richer prompt), and (3) **Generation** (LLM produces grounded responses with traceable sources).
+- **Core RAG Process**: Three-stage workflow—(1) **Retrieval**: Embeds user queries and retrieves top-*k* relevant chunks via vector similarity (e.g., cosine) from a vector index, (2) **Augmentation**: Constructs an enriched prompt by combining retrieved context with the original query, (3) **Generation**: LLM (e.g., GPT-4) generates a grounded response with traceable citations.
 
-- **Implementation Prerequisites**: Requires Neo4j (5.11+) for graph/vector storage, OpenAI API for embeddings/LLM, and Python libraries (`langchain`, `neo4j`, `openai`) to orchestrate hybrid retrieval-augmentation pipelines.
+- **Advantages Over Vector-Only RAG**: GraphRAG resolves limitations of vector-only systems by enabling structured reasoning (e.g., "How many unresolved tickets for Team A?"), explicit relationship tracing for explainability, and fine-grained control via Cypher queries, critical for regulated domains (finance/healthcare).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:15:33.082718+05:30
+- Published: 2026-06-22T15:17:33.553783+05:30
 
 ## Related Tags
 

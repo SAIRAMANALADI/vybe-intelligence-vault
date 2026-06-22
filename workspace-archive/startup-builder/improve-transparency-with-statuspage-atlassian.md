@@ -6,7 +6,7 @@ source_url: https://www.atlassian.com/software/statuspage?utm_campaign=status.np
 resource_id: blog:improve-transparency-with-statuspage-atlassian
 local_vault_path: ai/resources/improve-transparency-with-statuspage-atlassian.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Startup Builder`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Incident Communication**: Statuspage enables proactive user communication during incidents via customizable public/private status pages, integrating with 150+ third-party tools (e.g., Stripe, PagerDuty) to display component statuses and reduce duplicate support tickets.
+- **Real-time incident communication**: Statuspage enables proactive user notifications during incidents via email, SMS, in-app messages, and integrations with tools like Slack, Microsoft Teams, and PagerDuty, reducing duplicate support tickets.
 
-- **Scalable Tiered Pricing**: Offers tiered plans (Free to Enterprise) with varying subscriber limits (100–25,000), team members (2–50), metrics (2–50), and notifications (email/SMS/webhook/Slack/MS Teams), includ
+- **Component monitoring & uptime tracking**: Supports 150+ third-party integrations (e.g., Stripe, Mailgun) to display status of critical dependencies, with historical uptime metrics for transparency and trust-building.
+
+- **Scalable pricing tiers**: O
 
 ## Use Cases
 

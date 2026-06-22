@@ -7,6 +7,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Codex](https://codex.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
+*   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [crewAIInc/crewAI Release: 1.14.8a2](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
 *   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
 *   [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](https://artificialanalysis.ai/agents/coding-agents) (Score: 70) - Category: `ai-coding-agents/`
-*   [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

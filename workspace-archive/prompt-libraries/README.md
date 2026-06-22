@@ -14,8 +14,8 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (prompt - USEFUL Tier)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (prompt - USEFUL Tier)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (prompt - USEFUL Tier)
+- [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](https://arxiv.org/abs/2401.12178) (framework - USEFUL Tier)
 - [Google AI Studio](https://aistudio.google.com) (prompt - USEFUL Tier)
-- [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -41,4 +41,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-22 13:12 IST*
+*Last updated: 2026-06-22 15:59 IST*

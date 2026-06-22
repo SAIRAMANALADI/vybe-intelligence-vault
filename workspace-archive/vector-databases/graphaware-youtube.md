@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services like live streaming, monetization (via YouTube Partners), and subscription features (YouTube Premium, YouTube Music).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools for creators and advertisers.
 
-- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video delivery, including CDN optimization, adaptive bitrate streaming (DASH), and AI-driven content recommendation algorithms (e.g., deep ne
+- **Technical Infrastructure**: Utilizes Google's distributed infrastructure for scalable video delivery, with APIs (YouTube Data/Player APIs) enabling third-party integrations and developer access for custom implementations.
+
+- **Policy & Compliance**: Enforces strict [Terms of Servic
 
 ## Use Cases
 

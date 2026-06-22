@@ -10,6 +10,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 
 - [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/rec/T-REC-X.680/en) (prompt - USEFUL Tier)
 - [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](https://www.itu.int/rec/T-REC-X.690/en) (tutorial - USEFUL Tier)
+- [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -33,4 +34,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-06-22 13:12 IST*
+*Last updated: 2026-06-22 15:58 IST*

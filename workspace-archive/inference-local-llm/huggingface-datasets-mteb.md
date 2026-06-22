@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: mteb/results (Likes: 4, Downloads: 1005185)
+Trending Hugging Face dataset: mteb/results (Likes: 4, Downloads: 972982)
 
 ## Use Cases
 

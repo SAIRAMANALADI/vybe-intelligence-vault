@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ethanhawksley. Score: 189, Comments: 56.
+Hacker News story by ethanhawksley. Score: 217, Comments: 64.
 Original Link: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/
 
 ## Use Cases

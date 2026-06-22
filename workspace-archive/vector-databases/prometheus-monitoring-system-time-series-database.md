@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Dimensional Data Model**: Prometheus uses a flexible dimensional data model where time series are uniquely identified by a metric name and key-value pairs, enabling high-cardinality labeling.
+- **Dimensional Data Model**: Prometheus uses a flexible dimensional data model where time series are identified by a metric name and key-value pairs, enabling high-cardinality labeling.
 
-- **PromQL Querying & Alerting**: PromQL enables powerful querying, correlation, and transformation of time-series data; alerting rules leverage this for precise notifications via the Alertmanager component.
+- **PromQL Querying & Alerting**: Prometheus Query Language (PromQL) supports powerful querying, correlation, and transformation of time series data, with alerting rules leveraging this model and managed via the Alertmanager component.
 
-- **Cloud-Native & Open Source**: Designed for cloud-native environments (e.g., Kubernetes), P
+- **Cloud-Native & Open Source**: Designed for cloud-native environments (e
 
 ## Use Cases
 

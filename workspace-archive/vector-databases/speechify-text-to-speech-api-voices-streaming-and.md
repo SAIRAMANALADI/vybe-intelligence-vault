@@ -29,11 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **API Endpoint & Authentication**: Single POST `/v1/audio/speech` endpoint with `Authorization: Bearer` token for authentication; supports JSON input with fields like `input`, `voice_id`, `audio_format`, and `model`.
-
-- **Voice & Language Features**: Supports voice cloning from 10-30s samples, multilingual output (30+ languages), and SSML for fine-grained control over pitch, rate, pauses, and 13 emotion presets.
-
-- **Models & Streaming**: Three models available (`simba-english`, `simba-multili
+- **API Endpoint & Authentication**: Single POST endpoint `/v1/audio/speech` with `Authorization: Bearer` token for authentication; supports streaming up to 20,000 characters per request.
+- **Voice Cloning & Multilingual Support**: Clone voices from 10-30s samples; `simba-multilingual` model supports 30+ languages with unified voice IDs and SSML/emotion control.
+- **Model Variants & Features**: `simba-english` (flagship, full SSML/emotion), `simba-3.0` (low-latency streaming); includes speech ma
 
 ## Use Cases
 

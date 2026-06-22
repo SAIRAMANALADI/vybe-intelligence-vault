@@ -5,10 +5,13 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
 | [The world's fastest framework for building websites](https://gohugo.io) | `frontend-ai-ui/` | 70 |
+| [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [RPKI Dashboard](https://dashboard.rpki.ripe.net) | `frontend-ai-ui/` | 70 |
 | [ShakeNet Web App: Raspberry Shakes' Community Portal](https://shakenet.raspberryshake.org/privacy) | `frontend-ai-ui/` | 70 |
 | [Standalone SSO - Stytch Docs](https://stytch.com/docs/multi-tenant-auth/authentication/sso/standalone) | `frontend-ai-ui/` | 70 |
+| [Table of contents — voila 0.5.8 documentation](https://voila.readthedocs.io) | `frontend-ai-ui/` | 70 |
 | [Work with member roles - Operations - Confluence](https://compass-ops-help.atlassian.net/wiki/spaces/OPERATIONS/pages/10420253/Work+with+member+roles) | `frontend-ai-ui/` | 70 |
+| [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | `frontend-ai-ui/` | 70 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | `frontend-ai-ui/` | 70 |
 | [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
@@ -21,8 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [kartikk-k/dashboard-ui](https://github.com/kartikk-k/dashboard-ui) | `frontend-ai-ui/` | 70 |
 | [uixmat/onborda](https://github.com/uixmat/onborda) | `frontend-ai-ui/` | 70 |
 | [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app) | `frontend-ai-ui/` | 70 |
-| [SikandarJODD/svelte-animations](https://github.com/sikandarjodd/svelte-animations) | `frontend-ai-ui/` | 70 |
-| [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) | `frontend-ai-ui/` | 70 |
-| [ShowravKormokar/capsule](https://github.com/showravkormokar/capsule) | `frontend-ai-ui/` | 70 |
 
 More resources will appear as the harvester collects them.

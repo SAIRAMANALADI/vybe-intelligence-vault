@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Docker Hardened Images**: Free, near-zero CVE images with built-in security, compliance, and continuous updates; includes enterprise-grade base images (Ubuntu, Debian, Java) with CVE remediation, SLAs, and long-term support.
+- **Docker Hardened Images**: Free, near-zero CVE images with built-in security, compliance, and continuous updates for enterprise-grade base images (e.g., Ubuntu, Debian, Java) with CVE remediation and long-term support.
 
-- **Docker Hub Features**: Hosts official, verified, and sponsored OSS images; supports AI/ML frameworks (TensorFlow, PyTorch, LangChain), databases (PostgreSQL, MySQL), and developer tools (Gradle, Bash); offers automated builds, webhooks, and team collaboration.
+- **Docker Hub Content Categories**: Hosts trusted content including Docker Hardened Images, Docker Official Images, Verified Publisher images, and Sponsored OSS, alongside curated categories like AI/ML, security, databases, and developer tools.
 
-- **
+- **Docker Hub Features**: Sup
 
 ## Use Cases
 

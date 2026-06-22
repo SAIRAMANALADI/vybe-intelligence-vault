@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org
-published_at: '2026-06-22T11:21:45.324247+05:30'
-collected_at: '2026-06-22T11:21:45.324258+05:30'
+published_at: '2026-06-22T15:47:09.771463+05:30'
+collected_at: '2026-06-22T15:47:09.771479+05:30'
 tags:
 - hackernews
 - web-crawled
+- workflows
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-06-22T11:21:45.324258+05:30'
-last_seen: '2026-06-22T11:21:45.324258+05:30'
-last_checked: '2026-06-22T11:21:45.324258+05:30'
+first_seen: '2026-06-22T15:47:09.771479+05:30'
+last_seen: '2026-06-22T15:47:09.771479+05:30'
+last_checked: '2026-06-22T15:47:09.771479+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via Intersphinx.
-- **Multi-Format Output**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, and other formats with extensive built-in and third-party theme support for customization.
-- **Extensible & Automated**: Fully extensible via APIs and extensions (Python, C++, etc.), supports automatic API documentation generation from docstrings, and includes internationalization (i18n) for multilingual docs.
+- **Multi-format Documentation Generation**: Supports output formats including HTML, LaTeX (PDF), ePub, and Texinfo via extensible builder mechanisms.
+- **Cross-Referencing & Extensibility**: Enables intra/inter-project cross-references (sections, figures, code objects) and modular extension via built-in/third-party plugins (e.g., autodoc, intersphinx).
+- **Authoring & Internationalization**: Supports reStructuredText/MyST Markdown for structured content and provides i18n workflows for multilingual documentation.
 
 ## Why It Matters
 
@@ -33,12 +34,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:21:45.324247+05:30
+- Published: 2026-06-22T15:47:09.771463+05:30
 
 ## Related Tags
 
 - hackernews
 - web-crawled
+- workflows
 
 ## Source
 

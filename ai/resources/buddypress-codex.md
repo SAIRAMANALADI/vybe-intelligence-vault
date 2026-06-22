@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://codex.buddypress.org
-published_at: '2026-06-22T11:37:24.095603+05:30'
-collected_at: '2026-06-22T11:37:24.095615+05:30'
+published_at: '2026-06-22T15:52:50.684831+05:30'
+collected_at: '2026-06-22T15:52:50.684847+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:buddypress-codex
-first_seen: '2026-06-22T11:37:24.095615+05:30'
-last_seen: '2026-06-22T11:37:24.095615+05:30'
-last_checked: '2026-06-22T11:37:24.095615+05:30'
+first_seen: '2026-06-22T15:52:50.684847+05:30'
+last_seen: '2026-06-22T15:52:50.684847+05:30'
+last_checked: '2026-06-22T15:52:50.684847+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **BuddyPress Codex** serves as the official documentation hub for BuddyPress, a WordPress plugin, providing community-driven technical guides, API references, and version-specific changelogs for core components (e.g., Activity Streams, Groups, Extended Profiles).
+- **BuddyPress Codex** is an open-source, community-driven documentation hub for BuddyPress, covering installation, features, development, and administration, with version-specific changelogs and trac references.
 
-- **Key sections** include *Administrator Guide* (backend management), *BP Plugin Development* (hooks, filters, and custom plugin integration), and *Developer Resources* (classes, functions, and template tags for extending functionality).
+- **Core components** include Activity Streams, Blogs, Extended Profiles, Friends, Groups, Messages, Notifications, and Settings, each with dedicated documentation pages.
 
-- **Version tracking** is centralized via detailed changelogs (e.g., 4.2.0, 2.9.4) with trac references, while contribution pathways (GitHub, support forums) enable community-driven updates to maintain accuracy.
+- **Development resources** provide technical guides for BP plugin/theme development, hooks (actions/filters), template tags, and legacy system integration, with active contribution pathways via GitHub and WordPress Trac.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:37:24.095603+05:30
+- Published: 2026-06-22T15:52:50.684831+05:30
 
 ## Related Tags
 

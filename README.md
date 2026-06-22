@@ -44,35 +44,35 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 5550 |
-| Active resources | 5407 |
+| Resources tracked | 5927 |
+| Active resources | 5784 |
 | Inactive resources | 143 |
-| Archive files | 23959 |
+| Archive files | 24571 |
 | Archive categories | 35 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-22 13:13 IST |
+| Last meaningful update | 2026-06-22 15:59 IST |
 
 ### Trend Intelligence Dashboard
 
 #### Trending Resources
-- **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)** (+17 points)
-- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)** (+15 points)
-- **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)** (+3 points)
-- **[Welcome to Mozilla Foundation - Mozilla Foundation](ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md)** (Rank: +14)
-- **[Font Awesome](ai/resources/font-awesome.md)** (Rank: +310)
+- **[Danish privacy activist Lars Andersen raided by police](ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md)** (Rank: +2) (+195 points)
+- **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)** (+82 points)
+- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)** (+51 points)
+- **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)** (+28 points)
+- **[PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md)** (Rank: +125)
 
 #### New Discoveries
-- **[Danish privacy activist Lars Andersen raided by police](ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md)** (Score: 62)
-- **[FAQ - Unicode Frequently Asked Questions](ai/resources/faq-unicode-frequently-asked-questions.md)** (Score: 0)
-- **[NIST Guidelines, Information Quality Standards and Administrative Mechanism | NIST](ai/rag/nist-guidelines-information-quality-standards-and.md)** (Score: 0)
-- **[First Citizens Bank Responsible Disclosure](ai/resources/first-citizens-bank-responsible-disclosure.md)** (Score: 0)
-- **[EditPad® Pro: Text Editor for Windows](ai/resources/editpad-r-pro-text-editor-for-windows.md)** (Score: 0)
+- **[Munich 1991: The Roots of the Current AI Boom](ai/community/munich-1991-the-roots-of-the-current-ai-boom.md)** (Score: 53)
+- **[Customer Support](ai/resources/customer-support.md)** (Score: 0)
+- **[How to Apply for a Federal Funding Opportunity on Grants.gov – Grants.gov Community Blog](ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md)** (Score: 0)
+- **[Tanium Titans Community](ai/resources/tanium-titans-community.md)** (Score: 0)
+- **[Solodit](ai/resources/solodit.md)** (Score: 0)
 
 #### Recently Inactive Resources
-- None.
+- **[chopratejas/headroom](ai/rag/chopratejas-headroom.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

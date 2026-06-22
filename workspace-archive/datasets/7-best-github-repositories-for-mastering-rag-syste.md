@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation; supports Python, JavaScript, and TypeScript with integrations to OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation; supports multi-language (Python, JS/TS) and integrates with providers like OpenAI, Hugging Face, and Azure.
 
-- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise-grade document retrieval and question answering, featuring modular pipelines, pre-built components, and support for dense/sparse retrieval methods.
+- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise use, featuring modular pipelines, document stores (Elasticsearch, FAISS), and pre-built components for indexing, retrieval, and query processing.
 
-- **LlamaIndex**: Data f
+- **LlamaIndex**
 
 ## Use Cases
 

@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are permanently assigned unique numbers by editors; version-controlled GitHub history maintains their authoritative record, with metadata exposed via a public JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are permanently assigned unique numbers by the PEP editors, with version-controlled historical records maintained in GitHub; PEP metadata is accessible via a structured JSON API (`peps.json`).
 
-- **Categorization & Status**: PEPs are classified into **Process/Meta-PEPs**, **Informational**, **Provisional**, **Accepted**, **Open**, **Finished**, **Deferred**, or **Rejected**, with status tracked via standardized keys (e.g., PA = Process Accepted, IA = Informational Accepted)
+- **Categorization & Status**: PEPs are classified into categories (e.g., Process, Informational, Provisional) and statuses (e.g., Accepted, Finished, Rejected), with cross-referenced indices for governance, packaging, and typing PEPs.
+
+- **Specialized PEPs**: Includes tech
 
 ## Use Cases
 

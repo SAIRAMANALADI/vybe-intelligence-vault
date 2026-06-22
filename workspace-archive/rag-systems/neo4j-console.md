@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Interactive Graph Management**: Neo4j Console enables real-time graph construction/deletion via Cypher (`CREATE` for nodes/relationships, `MATCH`/`DELETE` for queries/removals) with integrated visualization.
-- **Cypher Query Support**: Supports multiple query compilers (3.0-cost/rule, 2.3-cost/rule) and complex graph traversals (e.g., `MATCH (user)-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user,friend`).
-- **Deployment & Sharing**: Hosted on Heroku with source on GitHub; allows sharing
+- **Interactive Graph Console**: Neo4j provides a browser-based interactive console for graph visualization, querying, and modification using Cypher, with real-time updates and sharing capabilities via Heroku-hosted URLs.
+
+- **Cypher Syntax Support**: Supports multiple Cypher compilers (3.0-cost, 3.0-rule, 2.3-cost, 2.3-rule) for graph operations, including node/relationship creation (`CREATE (neo:Person {name: "Neo"})`) and complex queries (e.g., `MATCH (user)-[:KNOWS]->(friend) WHERE friend.ag
 
 ## Use Cases
 

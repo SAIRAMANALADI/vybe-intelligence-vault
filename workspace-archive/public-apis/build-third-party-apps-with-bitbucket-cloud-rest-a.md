@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Rate Limits**: Bitbucket Cloud enforces a **rate limit of 1,000 requests per hour per OAuth consumer** (or per user for Basic Auth). Anonymous requests are limited to **60 requests per hour**.
-
-- **Rate Limit Cycling**: Limits reset **hourly**, aligned with the **UTC hour** (e.g., 12:00–13:00 UTC). Exceeding limits returns a `429 Too Many Requests` response.
-
-- **Mitigation Strategies**: Use **OAuth consumers** for higher limits, implement **exponential backoff** for retries, and cache respo
+- **Rate Limits**: Bitbucket Cloud enforces API request limits of **5,000 requests per hour per OAuth consumer** or **unauthenticated requests**, and **1,000 requests per hour per authenticated user/IP**.
+- **Reset Cycle**: Limits reset **hourly on a rolling basis** (not at UTC midnight), tracked per consumer/user/IP.
+- **Best Practices**: Use **authenticated requests**, implement **exponential backoff** for retries, and cache responses to minimize API calls.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+source_url: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Link**: [Milvus Bootcamp - Build RAG with Milvus](https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb)
-- **Platform**: Google Colab notebook for implementing Retrieval-Augmented Generation (RAG) using Milvus vector database.
-- **Objective**: Tutorial demonstrating end-to-end RAG pipeline construction with Milvus for efficient vector similarity search and retrieval.
+- **Resource Unavailable**: The provided link requires authentication (Google Sign-In) and does not grant direct access to the content.
+
+- **Contextual Clue**: The URL suggests the resource is a Jupyter Notebook (`00-simple-local-rag.ipynb`) hosted on GitHub under the `mrdbourke/simple-local-rag` repository, focusing on a "simple local RAG" implementation.
+
+- **Technical Focus**: The notebook likely covers Retrieval-Augmented Generation (RAG) techniques executed locally, emphasizing practical, l
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+Original source URL: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
 
 ## Local Vault File
 

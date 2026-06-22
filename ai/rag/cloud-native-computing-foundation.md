@@ -3,9 +3,9 @@ title: Cloud Native Computing Foundation
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.cncf.io
-published_at: '2026-06-22T10:46:36.743170+05:30'
-collected_at: '2026-06-22T10:46:36.743179+05:30'
+source_url: https://cncf.io
+published_at: '2026-06-22T15:38:40.516333+05:30'
+collected_at: '2026-06-22T15:38:40.516351+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloud-native-computing-foundation
-first_seen: '2026-06-22T10:46:36.743179+05:30'
-last_seen: '2026-06-22T10:46:36.743179+05:30'
-last_checked: '2026-06-22T10:46:36.743179+05:30'
+first_seen: '2026-06-22T15:38:40.516351+05:30'
+last_seen: '2026-06-22T15:38:40.516351+05:30'
+last_checked: '2026-06-22T15:38:40.516351+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **CNCF hosts 226 projects** across three maturity stages: 36 graduated, 37 incubating, and 153 sandbox projects, under the Linux Foundation umbrella.
-- **Core projects include Kubernetes (container orchestration), Envoy (service mesh/data plane), Prometheus (monitoring), and etcd (distributed key-value store)**, forming the backbone of cloud-native computing.
-- **Graduated projects** like Helm (package manager), Linkerd (service mesh), and Jaeger (tracing) meet strict CNCF graduation criteria, ensuring production-grade stability and adoption.
+- **CNCF hosts 36 graduated, 37 incubating, and 153 sandbox projects**, including Kubernetes, Envoy, Prometheus, and OpenTelemetry, under the Linux Foundation’s governance.
+- **Projects span critical cloud-native domains**: orchestration (Kubernetes, KubeVirt), service mesh (Istio, Linkerd), observability (Prometheus, OpenTelemetry), security (Falco, SPIFFE), and storage (Rook, Longhorn).
+- **Membership-driven ecosystem**: Over 700 members collaborate to advance cloud-native tech, with case studies from organizations like Bloomberg and Mercedes-Benz leveraging CNCF projects for scalable, secure deployments.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:46:36.743170+05:30
+- Published: 2026-06-22T15:38:40.516333+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.cncf.io
+Original source: https://cncf.io

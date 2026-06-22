@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by I_am_tiberius. Score: 62, Comments: 27.
+Hacker News story by I_am_tiberius. Score: 257, Comments: 188.
 Original Link: https://twitter.com/LarsAnders1620/status/2068208864747540516#m
 
 ## Use Cases

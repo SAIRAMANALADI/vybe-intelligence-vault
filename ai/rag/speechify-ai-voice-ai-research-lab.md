@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai
-published_at: '2026-06-22T10:36:14.180322+05:30'
-collected_at: '2026-06-22T10:36:14.180336+05:30'
+published_at: '2026-06-22T15:22:53.003702+05:30'
+collected_at: '2026-06-22T15:22:53.003726+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-ai-voice-ai-research-lab
-first_seen: '2026-06-22T10:36:14.180336+05:30'
-last_seen: '2026-06-22T10:36:14.180336+05:30'
-last_checked: '2026-06-22T10:36:14.180336+05:30'
+first_seen: '2026-06-22T15:22:53.003726+05:30'
+last_seen: '2026-06-22T15:22:53.003726+05:30'
+last_checked: '2026-06-22T15:22:53.003726+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Streaming-Native Model (Simba 3.0)**: Features sub-100ms time-to-first-byte, granular emotional control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML-based prosody manipulation.
+- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from 10s reference clips, and SSML-based prosody manipulation.
 
-- **Multilingual & Emotional Synthesis**: Supports 30+ locales with native-quality, locale-specific voices; emotion modeled at prosodic level (rhythm, tone, micro-expressions) beyond pitch/speed.
+- **Multilingual & emotion-aware synthesis** supporting 30+ locales with native pronunciation/prosody, and emotion modeling at prosodic level (rhythmic/tonal micro-patterns) beyond basic pitch/speed adjustments.
 
-- **Unified API**: Single endpoint (`/v1/audio/speech`) for streaming, cloning, and emotion control with minimal code (e.g., `curl` example provided).
+- **Unified API** for streaming, voice cloning, and emotion control with minimal code integration (e.g., `curl` example) and mixed-language input handling.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:36:14.180322+05:30
+- Published: 2026-06-22T15:22:53.003702+05:30
 
 ## Related Tags
 

@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Google's open-source Genkit enables cross-platform, agentic AI app development with support for multiple LLMs (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK, abstracting provider-specific APIs.
+- **Unified AI Framework**: Open-source framework by Google for building full-stack, agentic applications across TypeScript, Go, Python (Preview), and Dart (Preview), supporting multiple LLM providers (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK.
 
-- **Multi-Language & Multi-Modal Support**: Provides TypeScript, Go, Python (preview), and Dart SDKs with built-in support for text and image generation (e.g., `gemini-3.1-flash-image` with `responseModalities: ['IMAGE', 'TEXT']`).
+- **Modular & Production-Ready**: Enables composable workflows (RAG, tool use, agents) with built-in primitives, local dev/debugging UI, and deployment options (Firebase, Cloud Run, custom infrastructure).
 
-- **Production-Ready To
+- **Developer Tools &
 
 ## Use Cases
 

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Streaming-Native Model (Simba 3.0)**: Features sub-100ms time-to-first-byte, granular emotional control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML-based prosody manipulation.
+- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from 10s reference clips, and SSML-based prosody manipulation.
 
-- **Multilingual & Emotional Synthesis**: Supports 30+ locales with native-quality, locale-specific voices; emotion modeled at prosodic level (rhythm, tone, micro-expressions) beyond pitch/speed.
+- **Multilingual & emotion-aware synthesis** supporting 30+ locales with native pronunciation/prosody, and emotion modeling at prosodic level (rhythmic/tonal micro-patterns) beyond basic pitch/speed adjustments.
 
-- **Unified API**: Single endpoint (`/v1/audio/speech`) for
+- **Unified API** for streaming, voice cloning, and e
 
 ## Use Cases
 

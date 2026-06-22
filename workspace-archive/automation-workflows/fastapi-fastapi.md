@@ -8,7 +8,7 @@ local_vault_path: ai/rag/fastapi-fastapi.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: template
+resource_kind: benchmark
 importance: high
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # FastAPI - FastAPI
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: template
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Performance & Standards**: Built on Starlette (web layer) and Pydantic (data validation), FastAPI delivers high performance comparable to NodeJS/Go, while fully supporting OpenAPI and JSON Schema standards for API documentation and interoperability.
-
-- **Developer Productivity**: Leverages Python type hints for automatic request validation, serialization, and interactive API docs (Swagger UI/ReDoc), reducing boilerplate and human error by ~40% while enabling IDE autocompletion.
-
-- **Producti
+- **Performance & Standards**: Built on Starlette (web layer) and Pydantic (data validation), achieving performance comparable to NodeJS/Go while fully supporting OpenAPI and JSON Schema for API standardization.
+- **Developer Efficiency**: Reduces development time by ~200-300% and cuts human-induced errors by ~40% through Python type hints, automatic validation, and interactive API docs (Swagger/ReDoc).
+- **Production-Ready Features**: Includes built-in async support, automatic interactive docum
 
 ## Use Cases
 

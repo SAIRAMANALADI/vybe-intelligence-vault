@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -30,16 +30,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Primary Git Repository Host**: The Android Open Source Project (AOSP) maintains its official Git repositories at [android.googlesource.com](https://android.googlesource.com/), providing version-controlled access to Android's source code, device-specific configurations, and kernel branches.
+- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure under `android.googlesource.com` with subdirectories for device-specific configurations (e.g., `device/google/bluejay`), kernel sources (e.g., `device/google/bluejay-kernel`), and security policies (e.g., `device/google/bluejay-sepolicy`), organized by device codename and hardware platform.
 
-- **Device-Specific Branches & Kernels**: AOSP includes dedicated repositories for device-specific implementations (e.g., `device/google/bluejay`, `device/google/taimen`) with parallel kernel (`*-kernel`)
+- **Versioned Kernel Support**: Includes kernel branches for multiple Android versions (e.g., `5.10`, `5.15`, `6.1`) unde
 
 ## Use Cases
 
