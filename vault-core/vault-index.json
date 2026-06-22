@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-22T18:29:23.327Z",
+  "last_updated": "2026-06-22T18:38:08.750Z",
   "nodes": [
     {
       "id": "845a857f-9694-cc91-6c9d-2d60de8f31d7",
@@ -12,7 +12,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_3d_webdev_map_md",
-      "last_modified": "2026-06-22T18:29:22.851Z",
+      "last_modified": "2026-06-22T18:38:08.179Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -26,7 +26,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_README_md",
-      "last_modified": "2026-06-22T18:29:22.854Z",
+      "last_modified": "2026-06-22T18:38:08.182Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -40,7 +40,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_agent_stack_map_md",
-      "last_modified": "2026-06-22T18:29:22.857Z",
+      "last_modified": "2026-06-22T18:38:08.185Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -54,7 +54,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_ai_engineering_map_md",
-      "last_modified": "2026-06-22T18:29:22.859Z",
+      "last_modified": "2026-06-22T18:38:08.188Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -68,7 +68,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_frontend_ai_ui_map_md",
-      "last_modified": "2026-06-22T18:29:22.862Z",
+      "last_modified": "2026-06-22T18:38:08.191Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -82,7 +82,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_llmops_map_md",
-      "last_modified": "2026-06-22T18:29:22.865Z",
+      "last_modified": "2026-06-22T18:38:08.194Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -96,7 +96,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_mcp_stack_map_md",
-      "last_modified": "2026-06-22T18:29:22.867Z",
+      "last_modified": "2026-06-22T18:38:08.197Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -110,7 +110,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_rag_stack_map_md",
-      "last_modified": "2026-06-22T18:29:22.869Z",
+      "last_modified": "2026-06-22T18:38:08.201Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -124,7 +124,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_startup_builder_map_md",
-      "last_modified": "2026-06-22T18:29:22.871Z",
+      "last_modified": "2026-06-22T18:38:08.203Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -138,7 +138,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_agents_md",
-      "last_modified": "2026-06-22T18:29:22.874Z",
+      "last_modified": "2026-06-22T18:38:08.206Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -152,7 +152,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_coding_agents_md",
-      "last_modified": "2026-06-22T18:29:22.876Z",
+      "last_modified": "2026-06-22T18:38:08.209Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -166,7 +166,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_automation_md",
-      "last_modified": "2026-06-22T18:29:22.878Z",
+      "last_modified": "2026-06-22T18:38:08.211Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -180,7 +180,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_fastapi_md",
-      "last_modified": "2026-06-22T18:29:22.880Z",
+      "last_modified": "2026-06-22T18:38:08.214Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -194,7 +194,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_framer_motion_md",
-      "last_modified": "2026-06-22T18:29:22.883Z",
+      "last_modified": "2026-06-22T18:38:08.218Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -208,7 +208,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_frontend_ai_ui_md",
-      "last_modified": "2026-06-22T18:29:22.885Z",
+      "last_modified": "2026-06-22T18:38:08.220Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -222,7 +222,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_gsap_md",
-      "last_modified": "2026-06-22T18:29:22.887Z",
+      "last_modified": "2026-06-22T18:38:08.223Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -236,7 +236,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_langgraph_md",
-      "last_modified": "2026-06-22T18:29:22.891Z",
+      "last_modified": "2026-06-22T18:38:08.227Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -250,7 +250,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_llmops_md",
-      "last_modified": "2026-06-22T18:29:22.893Z",
+      "last_modified": "2026-06-22T18:38:08.229Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -264,7 +264,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_local_llm_md",
-      "last_modified": "2026-06-22T18:29:22.895Z",
+      "last_modified": "2026-06-22T18:38:08.231Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -278,7 +278,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_mcp_md",
-      "last_modified": "2026-06-22T18:29:22.896Z",
+      "last_modified": "2026-06-22T18:38:08.233Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -292,7 +292,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_prompt_engineering_md",
-      "last_modified": "2026-06-22T18:29:22.898Z",
+      "last_modified": "2026-06-22T18:38:08.235Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -306,7 +306,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_rag_md",
-      "last_modified": "2026-06-22T18:29:22.900Z",
+      "last_modified": "2026-06-22T18:38:08.237Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -320,7 +320,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_react_three_fiber_md",
-      "last_modified": "2026-06-22T18:29:22.901Z",
+      "last_modified": "2026-06-22T18:38:08.239Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -334,7 +334,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_shadcn_ui_md",
-      "last_modified": "2026-06-22T18:29:22.903Z",
+      "last_modified": "2026-06-22T18:38:08.241Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -348,7 +348,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_tailwind_md",
-      "last_modified": "2026-06-22T18:29:22.905Z",
+      "last_modified": "2026-06-22T18:38:08.243Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -362,7 +362,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_threejs_md",
-      "last_modified": "2026-06-22T18:29:22.907Z",
+      "last_modified": "2026-06-22T18:38:08.246Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -376,7 +376,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_vector_databases_md",
-      "last_modified": "2026-06-22T18:29:22.909Z",
+      "last_modified": "2026-06-22T18:38:08.248Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -390,7 +390,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_webgpu_md",
-      "last_modified": "2026-06-22T18:29:22.911Z",
+      "last_modified": "2026-06-22T18:38:08.250Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -404,7 +404,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_11_md",
-      "last_modified": "2026-06-22T18:29:22.917Z",
+      "last_modified": "2026-06-22T18:38:08.257Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -418,7 +418,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_12_md",
-      "last_modified": "2026-06-22T18:29:22.921Z",
+      "last_modified": "2026-06-22T18:38:08.261Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -432,7 +432,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_15_md",
-      "last_modified": "2026-06-22T18:29:22.927Z",
+      "last_modified": "2026-06-22T18:38:08.273Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -446,7 +446,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_16_md",
-      "last_modified": "2026-06-22T18:29:22.937Z",
+      "last_modified": "2026-06-22T18:38:08.280Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -460,7 +460,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_17_md",
-      "last_modified": "2026-06-22T18:29:22.941Z",
+      "last_modified": "2026-06-22T18:38:08.287Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -474,7 +474,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_18_md",
-      "last_modified": "2026-06-22T18:29:22.947Z",
+      "last_modified": "2026-06-22T18:38:08.296Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -488,7 +488,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_21_md",
-      "last_modified": "2026-06-22T18:29:22.952Z",
+      "last_modified": "2026-06-22T18:38:08.301Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -502,7 +502,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_22_md",
-      "last_modified": "2026-06-22T18:29:22.957Z",
+      "last_modified": "2026-06-22T18:38:08.311Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -520,7 +520,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_activepieces_md",
-      "last_modified": "2026-06-22T18:29:22.959Z",
+      "last_modified": "2026-06-22T18:38:08.313Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -538,7 +538,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_agent_reach_md",
-      "last_modified": "2026-06-22T18:29:22.961Z",
+      "last_modified": "2026-06-22T18:38:08.315Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -556,7 +556,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_aionui_md",
-      "last_modified": "2026-06-22T18:29:22.962Z",
+      "last_modified": "2026-06-22T18:38:08.317Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -574,7 +574,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_auto_claude_code_research_in_sleep_md",
-      "last_modified": "2026-06-22T18:29:22.964Z",
+      "last_modified": "2026-06-22T18:38:08.319Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -592,7 +592,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_browser_harness_md",
-      "last_modified": "2026-06-22T18:29:22.966Z",
+      "last_modified": "2026-06-22T18:38:08.320Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -610,7 +610,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_career_ops_md",
-      "last_modified": "2026-06-22T18:29:22.968Z",
+      "last_modified": "2026-06-22T18:38:08.322Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -628,7 +628,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cherry_studio_md",
-      "last_modified": "2026-06-22T18:29:22.969Z",
+      "last_modified": "2026-06-22T18:38:08.324Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -646,7 +646,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_chrome_devtools_mcp_md",
-      "last_modified": "2026-06-22T18:29:22.971Z",
+      "last_modified": "2026-06-22T18:38:08.326Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -664,7 +664,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cli_md",
-      "last_modified": "2026-06-22T18:29:22.973Z",
+      "last_modified": "2026-06-22T18:38:08.328Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -682,7 +682,7 @@
       "quality_score": 10,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_codebase_memory_mcp_md",
-      "last_modified": "2026-06-22T18:29:22.975Z",
+      "last_modified": "2026-06-22T18:38:08.330Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -700,7 +700,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_context_mode_md",
-      "last_modified": "2026-06-22T18:29:22.976Z",
+      "last_modified": "2026-06-22T18:38:08.331Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -718,7 +718,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_context7_md",
-      "last_modified": "2026-06-22T18:29:22.978Z",
+      "last_modified": "2026-06-22T18:38:08.333Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -736,7 +736,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_copilotkit_md",
-      "last_modified": "2026-06-22T18:29:22.980Z",
+      "last_modified": "2026-06-22T18:38:08.337Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -754,7 +754,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cowagent_md",
-      "last_modified": "2026-06-22T18:29:22.982Z",
+      "last_modified": "2026-06-22T18:38:08.339Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -772,7 +772,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cua_md",
-      "last_modified": "2026-06-22T18:29:22.984Z",
+      "last_modified": "2026-06-22T18:38:08.341Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -790,7 +790,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_daily_stock_analysis_md",
-      "last_modified": "2026-06-22T18:29:22.985Z",
+      "last_modified": "2026-06-22T18:38:08.343Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -808,7 +808,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_deepseek_reasonix_md",
-      "last_modified": "2026-06-22T18:29:22.987Z",
+      "last_modified": "2026-06-22T18:38:08.344Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -826,7 +826,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_e2b_md",
-      "last_modified": "2026-06-22T18:29:22.989Z",
+      "last_modified": "2026-06-22T18:38:08.346Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -844,7 +844,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_fastapi_mcp_md",
-      "last_modified": "2026-06-22T18:29:22.990Z",
+      "last_modified": "2026-06-22T18:38:08.348Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -862,7 +862,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_front_end_checklist_md",
-      "last_modified": "2026-06-22T18:29:22.992Z",
+      "last_modified": "2026-06-22T18:38:08.350Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -880,7 +880,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_funasr_md",
-      "last_modified": "2026-06-22T18:29:22.994Z",
+      "last_modified": "2026-06-22T18:38:08.352Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -898,7 +898,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_gemini_cli_md",
-      "last_modified": "2026-06-22T18:29:22.996Z",
+      "last_modified": "2026-06-22T18:38:08.354Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -916,7 +916,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_genericagent_md",
-      "last_modified": "2026-06-22T18:29:22.997Z",
+      "last_modified": "2026-06-22T18:38:08.355Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -934,7 +934,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_github_mcp_server_md",
-      "last_modified": "2026-06-22T18:29:22.999Z",
+      "last_modified": "2026-06-22T18:38:08.357Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -952,7 +952,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_gpt_researcher_md",
-      "last_modified": "2026-06-22T18:29:23.000Z",
+      "last_modified": "2026-06-22T18:38:08.359Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -970,7 +970,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_guizang_ppt_skill_md",
-      "last_modified": "2026-06-22T18:29:23.002Z",
+      "last_modified": "2026-06-22T18:38:08.361Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -988,7 +988,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_hermes_agent_md",
-      "last_modified": "2026-06-22T18:29:23.004Z",
+      "last_modified": "2026-06-22T18:38:08.362Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1006,7 +1006,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_hermes_desktop_md",
-      "last_modified": "2026-06-22T18:29:23.005Z",
+      "last_modified": "2026-06-22T18:38:08.364Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1024,7 +1024,7 @@
       "quality_score": 9,
       "rag_relevance": 4,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_hexstrike_ai_md",
-      "last_modified": "2026-06-22T18:29:23.007Z",
+      "last_modified": "2026-06-22T18:38:08.366Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1042,7 +1042,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_learn_claude_code_md",
-      "last_modified": "2026-06-22T18:29:23.008Z",
+      "last_modified": "2026-06-22T18:38:08.368Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1060,7 +1060,7 @@
       "quality_score": 8,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_leon_md",
-      "last_modified": "2026-06-22T18:29:23.010Z",
+      "last_modified": "2026-06-22T18:38:08.369Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1078,7 +1078,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_maxkb_md",
-      "last_modified": "2026-06-22T18:29:23.011Z",
+      "last_modified": "2026-06-22T18:38:08.371Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1096,7 +1096,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_mcp_for_beginners_md",
-      "last_modified": "2026-06-22T18:29:23.013Z",
+      "last_modified": "2026-06-22T18:38:08.373Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1114,7 +1114,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_mcp_use_md",
-      "last_modified": "2026-06-22T18:29:23.015Z",
+      "last_modified": "2026-06-22T18:38:08.374Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1132,7 +1132,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_n8n_mcp_md",
-      "last_modified": "2026-06-22T18:29:23.016Z",
+      "last_modified": "2026-06-22T18:38:08.376Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1150,7 +1150,7 @@
       "quality_score": 10,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_n8n_md",
-      "last_modified": "2026-06-22T18:29:23.018Z",
+      "last_modified": "2026-06-22T18:38:08.378Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1168,7 +1168,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nanobot_md",
-      "last_modified": "2026-06-22T18:29:23.019Z",
+      "last_modified": "2026-06-22T18:38:08.380Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1186,7 +1186,7 @@
       "quality_score": 9,
       "rag_relevance": 6,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nginx_ui_md",
-      "last_modified": "2026-06-22T18:29:23.021Z",
+      "last_modified": "2026-06-22T18:38:08.381Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1204,7 +1204,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nocobase_md",
-      "last_modified": "2026-06-22T18:29:23.024Z",
+      "last_modified": "2026-06-22T18:38:08.383Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1222,7 +1222,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nuclear_md",
-      "last_modified": "2026-06-22T18:29:23.026Z",
+      "last_modified": "2026-06-22T18:38:08.385Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1240,7 +1240,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_oh_my_pi_md",
-      "last_modified": "2026-06-22T18:29:23.027Z",
+      "last_modified": "2026-06-22T18:38:08.386Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1258,7 +1258,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_openclaude_md",
-      "last_modified": "2026-06-22T18:29:23.029Z",
+      "last_modified": "2026-06-22T18:38:08.388Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1276,7 +1276,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_opencli_md",
-      "last_modified": "2026-06-22T18:29:23.030Z",
+      "last_modified": "2026-06-22T18:38:08.390Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1294,7 +1294,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_openmetadata_md",
-      "last_modified": "2026-06-22T18:29:23.032Z",
+      "last_modified": "2026-06-22T18:38:08.392Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1312,7 +1312,7 @@
       "quality_score": 9,
       "rag_relevance": 6,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_ppt_master_md",
-      "last_modified": "2026-06-22T18:29:23.033Z",
+      "last_modified": "2026-06-22T18:38:08.393Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1330,7 +1330,7 @@
       "quality_score": 8,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_qhub_wiki_md",
-      "last_modified": "2026-06-22T18:29:23.035Z",
+      "last_modified": "2026-06-22T18:38:08.395Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1348,7 +1348,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_ruflo_md",
-      "last_modified": "2026-06-22T18:29:23.036Z",
+      "last_modified": "2026-06-22T18:38:08.397Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1366,7 +1366,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_scrapling_md",
-      "last_modified": "2026-06-22T18:29:23.038Z",
+      "last_modified": "2026-06-22T18:38:08.399Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1384,7 +1384,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_serena_md",
-      "last_modified": "2026-06-22T18:29:23.040Z",
+      "last_modified": "2026-06-22T18:38:08.401Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1402,7 +1402,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_siyuan_md",
-      "last_modified": "2026-06-22T18:29:23.041Z",
+      "last_modified": "2026-06-22T18:38:08.403Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1420,7 +1420,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_skill_seekers_md",
-      "last_modified": "2026-06-22T18:29:23.043Z",
+      "last_modified": "2026-06-22T18:38:08.405Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1438,7 +1438,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_trendradar_md",
-      "last_modified": "2026-06-22T18:29:23.044Z",
+      "last_modified": "2026-06-22T18:38:08.407Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1456,7 +1456,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_trigger_dev_md",
-      "last_modified": "2026-06-22T18:29:23.046Z",
+      "last_modified": "2026-06-22T18:38:08.408Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1474,7 +1474,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_ui_tars_desktop_md",
-      "last_modified": "2026-06-22T18:29:23.048Z",
+      "last_modified": "2026-06-22T18:38:08.410Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1492,7 +1492,7 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_vibe_trading_md",
-      "last_modified": "2026-06-22T18:29:23.049Z",
+      "last_modified": "2026-06-22T18:38:08.412Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1510,7 +1510,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_waoowaoo_md",
-      "last_modified": "2026-06-22T18:29:23.051Z",
+      "last_modified": "2026-06-22T18:38:08.414Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1528,7 +1528,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_web_ui_md",
-      "last_modified": "2026-06-22T18:29:23.052Z",
+      "last_modified": "2026-06-22T18:38:08.416Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1546,7 +1546,7 @@
       "quality_score": 9,
       "rag_relevance": 3,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_xhs_downloader_md",
-      "last_modified": "2026-06-22T18:29:23.054Z",
+      "last_modified": "2026-06-22T18:38:08.418Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1564,7 +1564,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_xiaohongshu_mcp_md",
-      "last_modified": "2026-06-22T18:29:23.055Z",
+      "last_modified": "2026-06-22T18:38:08.419Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -1582,7 +1582,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_xiaozhi_esp32_server_md",
-      "last_modified": "2026-06-22T18:29:23.057Z",
+      "last_modified": "2026-06-22T18:38:08.421Z",
       "access_count": 0,
       "last_accessed": ""
     }
