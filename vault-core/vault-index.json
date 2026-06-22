@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-06-22T16:56:06.438Z",
+  "last_updated": "2026-06-22T18:18:32.356Z",
   "nodes": [
     {
       "id": "845a857f-9694-cc91-6c9d-2d60de8f31d7",
@@ -12,7 +12,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_3d_webdev_map_md",
-      "last_modified": "2026-06-22T16:56:06.049Z",
+      "last_modified": "2026-06-22T18:18:31.757Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -26,7 +26,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_README_md",
-      "last_modified": "2026-06-22T16:56:06.052Z",
+      "last_modified": "2026-06-22T18:18:31.760Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -40,7 +40,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_agent_stack_map_md",
-      "last_modified": "2026-06-22T16:56:06.056Z",
+      "last_modified": "2026-06-22T18:18:31.764Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -54,7 +54,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_ai_engineering_map_md",
-      "last_modified": "2026-06-22T16:56:06.059Z",
+      "last_modified": "2026-06-22T18:18:31.767Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -68,7 +68,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_frontend_ai_ui_map_md",
-      "last_modified": "2026-06-22T16:56:06.062Z",
+      "last_modified": "2026-06-22T18:18:31.771Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -82,7 +82,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_llmops_map_md",
-      "last_modified": "2026-06-22T16:56:06.066Z",
+      "last_modified": "2026-06-22T18:18:31.774Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -96,7 +96,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_mcp_stack_map_md",
-      "last_modified": "2026-06-22T16:56:06.069Z",
+      "last_modified": "2026-06-22T18:18:31.777Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -110,7 +110,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_rag_stack_map_md",
-      "last_modified": "2026-06-22T16:56:06.072Z",
+      "last_modified": "2026-06-22T18:18:31.780Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -124,7 +124,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_maps_startup_builder_map_md",
-      "last_modified": "2026-06-22T16:56:06.074Z",
+      "last_modified": "2026-06-22T18:18:31.783Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -138,7 +138,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_agents_md",
-      "last_modified": "2026-06-22T16:56:06.078Z",
+      "last_modified": "2026-06-22T18:18:31.787Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -152,7 +152,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_ai_coding_agents_md",
-      "last_modified": "2026-06-22T16:56:06.080Z",
+      "last_modified": "2026-06-22T18:18:31.789Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -166,7 +166,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_automation_md",
-      "last_modified": "2026-06-22T16:56:06.083Z",
+      "last_modified": "2026-06-22T18:18:31.792Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -180,7 +180,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_fastapi_md",
-      "last_modified": "2026-06-22T16:56:06.085Z",
+      "last_modified": "2026-06-22T18:18:31.794Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -194,7 +194,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_framer_motion_md",
-      "last_modified": "2026-06-22T16:56:06.088Z",
+      "last_modified": "2026-06-22T18:18:31.797Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -208,7 +208,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_frontend_ai_ui_md",
-      "last_modified": "2026-06-22T16:56:06.090Z",
+      "last_modified": "2026-06-22T18:18:31.799Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -222,7 +222,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_gsap_md",
-      "last_modified": "2026-06-22T16:56:06.092Z",
+      "last_modified": "2026-06-22T18:18:31.802Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -236,7 +236,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_langgraph_md",
-      "last_modified": "2026-06-22T16:56:06.095Z",
+      "last_modified": "2026-06-22T18:18:31.805Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -250,7 +250,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_llmops_md",
-      "last_modified": "2026-06-22T16:56:06.098Z",
+      "last_modified": "2026-06-22T18:18:31.807Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -264,7 +264,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_local_llm_md",
-      "last_modified": "2026-06-22T16:56:06.100Z",
+      "last_modified": "2026-06-22T18:18:31.809Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -278,7 +278,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_mcp_md",
-      "last_modified": "2026-06-22T16:56:06.102Z",
+      "last_modified": "2026-06-22T18:18:31.811Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -292,7 +292,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_prompt_engineering_md",
-      "last_modified": "2026-06-22T16:56:06.104Z",
+      "last_modified": "2026-06-22T18:18:31.813Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -306,7 +306,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_rag_md",
-      "last_modified": "2026-06-22T16:56:06.107Z",
+      "last_modified": "2026-06-22T18:18:31.816Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -320,7 +320,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_react_three_fiber_md",
-      "last_modified": "2026-06-22T16:56:06.109Z",
+      "last_modified": "2026-06-22T18:18:31.818Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -334,7 +334,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_shadcn_ui_md",
-      "last_modified": "2026-06-22T16:56:06.111Z",
+      "last_modified": "2026-06-22T18:18:31.820Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -348,7 +348,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_tailwind_md",
-      "last_modified": "2026-06-22T16:56:06.114Z",
+      "last_modified": "2026-06-22T18:18:31.823Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -362,7 +362,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_threejs_md",
-      "last_modified": "2026-06-22T16:56:06.116Z",
+      "last_modified": "2026-06-22T18:18:31.825Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -376,7 +376,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_vector_databases_md",
-      "last_modified": "2026-06-22T16:56:06.119Z",
+      "last_modified": "2026-06-22T18:18:31.828Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -390,7 +390,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_skills_webgpu_md",
-      "last_modified": "2026-06-22T16:56:06.121Z",
+      "last_modified": "2026-06-22T18:18:31.830Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -404,7 +404,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_11_md",
-      "last_modified": "2026-06-22T16:56:06.128Z",
+      "last_modified": "2026-06-22T18:18:31.837Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -418,7 +418,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_12_md",
-      "last_modified": "2026-06-22T16:56:06.133Z",
+      "last_modified": "2026-06-22T18:18:31.843Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -432,7 +432,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_15_md",
-      "last_modified": "2026-06-22T16:56:06.143Z",
+      "last_modified": "2026-06-22T18:18:31.850Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -446,7 +446,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_16_md",
-      "last_modified": "2026-06-22T16:56:06.154Z",
+      "last_modified": "2026-06-22T18:18:31.863Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -460,7 +460,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_17_md",
-      "last_modified": "2026-06-22T16:56:06.160Z",
+      "last_modified": "2026-06-22T18:18:31.869Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -474,7 +474,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_18_md",
-      "last_modified": "2026-06-22T16:56:06.167Z",
+      "last_modified": "2026-06-22T18:18:31.876Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -488,7 +488,7 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_21_md",
-      "last_modified": "2026-06-22T16:56:06.173Z",
+      "last_modified": "2026-06-22T18:18:31.882Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -502,7 +502,25 @@
       "quality_score": 0,
       "rag_relevance": 0,
       "embedding_vector_id": "vec_daily_digests_2026_06_2026_06_22_md",
-      "last_modified": "2026-06-22T16:56:06.179Z",
+      "last_modified": "2026-06-22T18:18:31.888Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c20397a8-72ec-6382-8a54-1d4a811c8a5e",
+      "path": "daily-digests/2026-06-22/activepieces.md",
+      "title": "activepieces/activepieces",
+      "category": "daily-digests",
+      "tags": [
+        "[\"automation\", \"workflow engine\", \"AI agents\", \"MCP servers\", \"no-code\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"React\", \"PostgreSQL\", \"Redis\", \"Docker\", \"Bun\", \"MCP (Model Context Protocol)\", \"PostHog\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_activepieces_md",
+      "last_modified": "2026-06-22T18:18:31.891Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -520,7 +538,7 @@
       "quality_score": 9,
       "rag_relevance": 9,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_agent_reach_md",
-      "last_modified": "2026-06-22T16:56:06.181Z",
+      "last_modified": "2026-06-22T18:18:31.893Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -538,7 +556,43 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_aionui_md",
-      "last_modified": "2026-06-22T16:56:06.184Z",
+      "last_modified": "2026-06-22T18:18:31.895Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "29b2f612-16a2-6204-912b-7e81537b987c",
+      "path": "daily-digests/2026-06-22/auto-claude-code-research-in-sleep.md",
+      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "category": "daily-digests",
+      "tags": [
+        "[\"autonomous research\", \"cross-model review\", \"LLM agents\", \"experiment automation\", \"multimodal generation\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Claude Code\", \"Codex CLI\", \"MCP (Model Context Protocol)\", \"HTML/CSS\", \"JavaScript\", \"Bash\", \"GitHub Actions\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_auto_claude_code_research_in_sleep_md",
+      "last_modified": "2026-06-22T18:18:31.897Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "cd047309-f0e8-35a2-0b08-50663690e942",
+      "path": "daily-digests/2026-06-22/browser-harness.md",
+      "title": "browser-use/browser-harness",
+      "category": "daily-digests",
+      "tags": [
+        "[\"browser automation\", \"LLM agent harness\", \"self-improving systems\", \"CDP integration\", \"web interaction\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Chrome DevTools Protocol (CDP)\", \"WebSocket\", \"LLM Integration\", \"Self-healing Automation\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_browser_harness_md",
+      "last_modified": "2026-06-22T18:18:31.899Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -556,7 +610,7 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_career_ops_md",
-      "last_modified": "2026-06-22T16:56:06.186Z",
+      "last_modified": "2026-06-22T18:18:31.901Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -574,7 +628,25 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cherry_studio_md",
-      "last_modified": "2026-06-22T16:56:06.188Z",
+      "last_modified": "2026-06-22T18:18:31.903Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "f91133f4-84dc-d2c7-ceff-90fe65b46210",
+      "path": "daily-digests/2026-06-22/chrome-devtools-mcp.md",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "category": "daily-digests",
+      "tags": [
+        "[\"browser automation\", \"debugging\", \"performance analysis\", \"MCP server\", \"AI agent tools\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Puppeteer\", \"Chrome DevTools Protocol\", \"Model-Context-Protocol (MCP)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_chrome_devtools_mcp_md",
+      "last_modified": "2026-06-22T18:18:31.905Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -592,7 +664,61 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cli_md",
-      "last_modified": "2026-06-22T16:56:06.190Z",
+      "last_modified": "2026-06-22T18:18:31.907Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "af90388a-033a-2fc1-b836-d3925c556c01",
+      "path": "daily-digests/2026-06-22/codebase-memory-mcp.md",
+      "title": "DeusData/codebase-memory-mcp",
+      "category": "daily-digests",
+      "tags": [
+        "[\"code intelligence\", \"knowledge graph\", \"MCP server\", \"static binary\", \"semantic search\"]"
+      ],
+      "tech_stack": [
+        "[\"C\", \"SQLite\", \"tree-sitter\", \"LZ4 compression\", \"Nomic embeddings\", \"MCP (Model Context Protocol)\", \"Git\", \"Docker\", \"Kubernetes\"]"
+      ],
+      "quality_score": 10,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_codebase_memory_mcp_md",
+      "last_modified": "2026-06-22T18:18:31.909Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "7e57e84c-ea81-6da4-ed4f-797f781e8c87",
+      "path": "daily-digests/2026-06-22/context-mode.md",
+      "title": "mksglu/context-mode",
+      "category": "daily-digests",
+      "tags": [
+        "[\"context optimization\", \"MCP server\", \"AI agent tooling\", \"session continuity\", \"sandboxing\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"SQLite\", \"FTS5 (Full-Text Search)\", \"MCP (Model Context Protocol)\", \"Bun\", \"Playwright\", \"GitHub CLI\", \"Gemini CLI\", \"Claude Code\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_context_mode_md",
+      "last_modified": "2026-06-22T18:18:31.912Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "704a12fc-bf48-61c5-4ce3-e2352b56948b",
+      "path": "daily-digests/2026-06-22/context7.md",
+      "title": "upstash/context7",
+      "category": "daily-digests",
+      "tags": [
+        "[\"documentation\", \"real-time\", \"AI agents\", \"code examples\", \"library integration\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"MCP (Model Context Protocol)\", \"CLI\", \"REST API\", \"OAuth\", \"GitHub API\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_context7_md",
+      "last_modified": "2026-06-22T18:18:31.914Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -610,7 +736,7 @@
       "quality_score": 9,
       "rag_relevance": 10,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_copilotkit_md",
-      "last_modified": "2026-06-22T16:56:06.193Z",
+      "last_modified": "2026-06-22T18:18:31.916Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -628,7 +754,25 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_cowagent_md",
-      "last_modified": "2026-06-22T16:56:06.195Z",
+      "last_modified": "2026-06-22T18:18:31.919Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "9f56e8cc-4492-495b-d701-eedd59968243",
+      "path": "daily-digests/2026-06-22/cua.md",
+      "title": "trycua/cua",
+      "category": "daily-digests",
+      "tags": [
+        "[\"agent automation\", \"computer-use agents\", \"sandbox environments\", \"benchmarking\", \"virtualization\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Rust\", \"Swift\", \"QEMU\", \"Virtualization.Framework\", \"MCP (Model Context Protocol)\", \"Docker\", \"CLI\", \"RL Environments\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_cua_md",
+      "last_modified": "2026-06-22T18:18:31.921Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -646,7 +790,43 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_daily_stock_analysis_md",
-      "last_modified": "2026-06-22T16:56:06.197Z",
+      "last_modified": "2026-06-22T18:18:31.923Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "5e8717e9-06bd-3afe-2b54-be0cd6c12f66",
+      "path": "daily-digests/2026-06-22/deepseek-reasonix.md",
+      "title": "esengine/DeepSeek-Reasonix",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI coding agent\", \"DeepSeek integration\", \"CLI tool\", \"MCP support\", \"config-driven\"]"
+      ],
+      "tech_stack": [
+        "[\"Go\", \"DeepSeek API\", \"OpenAI-compatible endpoints\", \"TOML\", \"JSON-RPC\", \"MCP (Model Context Protocol)\", \"CI/CD (GitHub Actions)\", \"Cross-compilation\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_deepseek_reasonix_md",
+      "last_modified": "2026-06-22T18:18:31.925Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c1946e0b-0b24-53f5-1ca4-2da4f7ce6bf5",
+      "path": "daily-digests/2026-06-22/fastapi_mcp.md",
+      "title": "tadata-org/fastapi_mcp",
+      "category": "daily-digests",
+      "tags": [
+        "[\"MCP\", \"FastAPI\", \"API Integration\", \"Authentication\", \"Tool Conversion\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"FastAPI\", \"ASGI\", \"MCP (Model Context Protocol)\", \"HTTP/SSE Transport\", \"uv\", \"PyPI\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_fastapi_mcp_md",
+      "last_modified": "2026-06-22T18:18:31.927Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -664,7 +844,115 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_front_end_checklist_md",
-      "last_modified": "2026-06-22T16:56:06.199Z",
+      "last_modified": "2026-06-22T18:18:31.928Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "1568bc22-3a4f-0bb8-1c70-90f2f2461009",
+      "path": "daily-digests/2026-06-22/funasr.md",
+      "title": "modelscope/FunASR",
+      "category": "daily-digests",
+      "tags": [
+        "[\"speech recognition\", \"real-time processing\", \"multilingual ASR\", \"speaker diarization\", \"emotion detection\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"PyTorch\", \"TorchAudio\", \"vLLM\", \"LLM (Qwen3, GLM)\", \"Whisper\", \"VAD (FSMN-VAD)\", \"Speaker Diarization (CAM++)\", \"Punctuation Models (CT-Transformer)\", \"GGUF (llama.cpp)\", \"FastAPI\", \"Docker\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 9,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_funasr_md",
+      "last_modified": "2026-06-22T18:18:31.931Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "d57174cd-0fb5-ca3d-575c-e5c90467c187",
+      "path": "daily-digests/2026-06-22/gemini-cli.md",
+      "title": "google-gemini/gemini-cli",
+      "category": "daily-digests",
+      "tags": [
+        "[\"terminal AI\", \"Gemini integration\", \"code agent\", \"automation\", \"MCP support\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Gemini API\", \"MCP (Model Context Protocol)\", \"OAuth\", \"React\", \"GitHub Actions\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_gemini_cli_md",
+      "last_modified": "2026-06-22T18:18:31.933Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "04b8c6d8-78e8-c940-66c9-6f6888652718",
+      "path": "daily-digests/2026-06-22/genericagent.md",
+      "title": "lsdefine/GenericAgent",
+      "category": "daily-digests",
+      "tags": [
+        "[\"autonomous agents\", \"self-evolving\", \"minimal architecture\", \"system control\", \"skill crystallization\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"LLM APIs (Claude, Gemini, Kimi, MiniMax)\", \"TMWebdriver (browser automation)\", \"ADB (Android Debug Bridge)\", \"OCR (RapidOCR)\", \"Streamlit\", \"PyWebView\", \"Simple WebSocket Server\", \"AIOHTTP\", \"BeautifulSoup4\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_genericagent_md",
+      "last_modified": "2026-06-22T18:18:31.935Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "50fc9883-0b2a-494f-e56d-b00b378ddf75",
+      "path": "daily-digests/2026-06-22/github-mcp-server.md",
+      "title": "github/github-mcp-server",
+      "category": "daily-digests",
+      "tags": [
+        "[\"GitHub integration\", \"MCP server\", \"AI agent tools\", \"natural language automation\", \"CI/CD insights\"]"
+      ],
+      "tech_stack": [
+        "[\"Go\", \"Docker\", \"GitHub API\", \"MCP (Model Context Protocol)\", \"HTTP/REST\", \"GraphQL\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_github_mcp_server_md",
+      "last_modified": "2026-06-22T18:18:31.936Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "7f1941e8-1fea-8f83-3916-9870d5c74b27",
+      "path": "daily-digests/2026-06-22/gpt-researcher.md",
+      "title": "assafelovic/gpt-researcher",
+      "category": "daily-digests",
+      "tags": [
+        "[\"autonomous research\", \"multi-agent system\", \"deep research\", \"RAG enhancement\", \"document processing\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"FastAPI\", \"LangChain\", \"Tavily API\", \"OpenAI API\", \"Gemini (Nano Banana)\", \"Docker\", \"React\", \"Tailwind CSS\", \"MCP (Model Context Protocol)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_gpt_researcher_md",
+      "last_modified": "2026-06-22T18:18:31.938Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "99a9572e-f9b1-ab45-bc87-62fd5f739b6b",
+      "path": "daily-digests/2026-06-22/guizang-ppt-skill.md",
+      "title": "op7418/guizang-ppt-skill",
+      "category": "daily-digests",
+      "tags": [
+        "[\"PPT generation\", \"AI agent skill\", \"HTML slides\", \"visual design\", \"presentation tool\"]"
+      ],
+      "tech_stack": [
+        "[\"HTML\", \"CSS\", \"JavaScript\", \"Claude Code\", \"Codex\", \"WebGL\", \"SVG\", \"Git\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_guizang_ppt_skill_md",
+      "last_modified": "2026-06-22T18:18:31.940Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -682,7 +970,43 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_hermes_agent_md",
-      "last_modified": "2026-06-22T16:56:06.201Z",
+      "last_modified": "2026-06-22T18:18:31.942Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "dc328321-8e81-797e-273f-8b3c9f86977a",
+      "path": "daily-digests/2026-06-22/hermes-desktop.md",
+      "title": "fathah/hermes-desktop",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI Assistant\", \"Desktop GUI\", \"Hermes Agent\", \"Tool Integration\", \"Multi-Provider\"]"
+      ],
+      "tech_stack": [
+        "[\"Electron\", \"TypeScript\", \"React\", \"Node.js\", \"Python\", \"SSE (Server-Sent Events)\", \"SQLite\", \"Vitest\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_hermes_desktop_md",
+      "last_modified": "2026-06-22T18:18:31.944Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "292bbba6-98b1-409b-af7f-fdf57f5c9a5c",
+      "path": "daily-digests/2026-06-22/hexstrike-ai.md",
+      "title": "0x4m4/hexstrike-ai",
+      "category": "daily-digests",
+      "tags": [
+        "[\"penetration testing\", \"autonomous agents\", \"cybersecurity automation\", \"MCP protocol\", \"vulnerability discovery\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"FastMCP\", \"Nmap\", \"SQLMap\", \"Nuclei\", \"Burp Suite\", \"Selenium\", \"Docker\", \"FastAPI\", \"Mermaid.js\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 4,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_hexstrike_ai_md",
+      "last_modified": "2026-06-22T18:18:31.946Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -700,7 +1024,115 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_learn_claude_code_md",
-      "last_modified": "2026-06-22T16:56:06.203Z",
+      "last_modified": "2026-06-22T18:18:31.948Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "2f4e986a-3e44-a26c-b16e-3a4ffe8c6e7c",
+      "path": "daily-digests/2026-06-22/leon.md",
+      "title": "leon-ai/leon",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI Assistant\", \"Agentic Execution\", \"Privacy-Focused\", \"Modular Skills\", \"Local AI\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Python\", \"Agentic Architecture\", \"Memory Systems\", \"Context Management\", \"REST APIs\", \"WebSockets\"]"
+      ],
+      "quality_score": 8,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_leon_md",
+      "last_modified": "2026-06-22T18:18:31.950Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "8030cc2b-8e99-42cf-aa27-9a41608bd14e",
+      "path": "daily-digests/2026-06-22/maxkb.md",
+      "title": "1Panel-dev/MaxKB",
+      "category": "daily-digests",
+      "tags": [
+        "[\"RAG\", \"AI Agents\", \"Enterprise\", \"Multi-modal\", \"Workflow Orchestration\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Django\", \"Vue.js\", \"LangChain\", \"PostgreSQL\", \"pgvector\", \"Docker\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_maxkb_md",
+      "last_modified": "2026-06-22T18:18:31.952Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "64af61be-912a-ce2f-35e3-f4fccca83874",
+      "path": "daily-digests/2026-06-22/mcp-for-beginners.md",
+      "title": "microsoft/mcp-for-beginners",
+      "category": "daily-digests",
+      "tags": [
+        "[\"Model Context Protocol\", \"AI integration\", \"multi-language\", \"beginner-friendly\", \"curriculum\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"JavaScript\", \"TypeScript\", \"Rust\", \"C#\", \"Jupyter Notebook\", \"GitHub Actions\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_mcp_for_beginners_md",
+      "last_modified": "2026-06-22T18:18:31.954Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "e05501b1-7595-4925-fec5-dec077ee7977",
+      "path": "daily-digests/2026-06-22/mcp-use.md",
+      "title": "mcp-use/mcp-use",
+      "category": "daily-digests",
+      "tags": [
+        "[\"MCP\", \"AI Agents\", \"Fullstack Development\", \"Widget Builder\", \"Debugging Tools\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Python\", \"React\", \"Node.js\", \"Zod\", \"MCP (Model Context Protocol)\", \"Docker\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_mcp_use_md",
+      "last_modified": "2026-06-22T18:18:31.956Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c461fb94-3b46-7f90-e7e8-3a30353393ff",
+      "path": "daily-digests/2026-06-22/n8n-mcp.md",
+      "title": "czlonkowski/n8n-mcp",
+      "category": "daily-digests",
+      "tags": [
+        "[\"workflow automation\", \"AI integration\", \"n8n\", \"MCP server\", \"template discovery\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Docker\", \"n8n\", \"Model Context Protocol (MCP)\", \"REST APIs\", \"GitHub Actions\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 9,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_n8n_mcp_md",
+      "last_modified": "2026-06-22T18:18:31.958Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "67c357b7-ae92-2f0e-ad3c-3084c96a9e1e",
+      "path": "daily-digests/2026-06-22/n8n.md",
+      "title": "n8n-io/n8n",
+      "category": "daily-digests",
+      "tags": [
+        "[\"workflow automation\", \"AI orchestration\", \"no-code\", \"self-hosted\", \"enterprise-ready\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"JavaScript\", \"Python\", \"Docker\", \"LangChain\"]"
+      ],
+      "quality_score": 10,
+      "rag_relevance": 9,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_n8n_md",
+      "last_modified": "2026-06-22T18:18:31.960Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -718,7 +1150,79 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_nanobot_md",
-      "last_modified": "2026-06-22T16:56:06.206Z",
+      "last_modified": "2026-06-22T18:18:31.962Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "97a18890-fb5a-6587-d447-67e83c66b699",
+      "path": "daily-digests/2026-06-22/nginx-ui.md",
+      "title": "0xJacky/nginx-ui",
+      "category": "daily-digests",
+      "tags": [
+        "[\"Nginx management\", \"Web UI\", \"Configuration tool\", \"DevOps\", \"Automation\"]"
+      ],
+      "tech_stack": [
+        "[\"Go\", \"Vue.js\", \"Docker\", \"Systemd\", \"Nginx\", \"WebSocket\", \"LLM Integration\", \"MCP (Model Context Protocol)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 6,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_nginx_ui_md",
+      "last_modified": "2026-06-22T18:18:31.964Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "a8454dd5-bd66-4bd6-323a-f6a55cdd0b01",
+      "path": "daily-digests/2026-06-22/nocobase.md",
+      "title": "nocobase/nocobase",
+      "category": "daily-digests",
+      "tags": [
+        "[\"no-code\", \"AI integration\", \"business systems\", \"plugin architecture\", \"WYSIWYG\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"React\", \"SQL (PostgreSQL, MySQL, KingBase, etc.)\", \"AI Agents (Claude Code, Cursor, OpenCode, etc.)\", \"Plugin Architecture\", \"RESTful APIs\", \"CLI\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_nocobase_md",
+      "last_modified": "2026-06-22T18:18:31.967Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "78bbd5ab-e7fa-53de-2498-541e6e1a81c4",
+      "path": "daily-digests/2026-06-22/nuclear.md",
+      "title": "nukeop/nuclear",
+      "category": "daily-digests",
+      "tags": [
+        "[\"music player\", \"MCP server\", \"plugin system\", \"cross-platform\", \"AI integration\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Rust\", \"React\", \"Tauri\", \"pnpm\", \"Turborepo\", \"Node.js\", \"MCP (Model Context Protocol)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_nuclear_md",
+      "last_modified": "2026-06-22T18:18:31.969Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "43986190-f521-3b5e-b467-b206f958a36f",
+      "path": "daily-digests/2026-06-22/oh-my-pi.md",
+      "title": "can1357/oh-my-pi",
+      "category": "daily-digests",
+      "tags": [
+        "[\"coding agent\", \"IDE integration\", \"multi-model tooling\", \"debugging\", \"LSP/DAP\"]"
+      ],
+      "tech_stack": [
+        "[\"Rust\", \"TypeScript\", \"Bun\", \"Python\", \"LSP (Language Server Protocol)\", \"DAP (Debug Adapter Protocol)\", \"Node.js\", \"WebAssembly\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_oh_my_pi_md",
+      "last_modified": "2026-06-22T18:18:31.971Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -736,7 +1240,43 @@
       "quality_score": 9,
       "rag_relevance": 8,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_openclaude_md",
-      "last_modified": "2026-06-22T16:56:06.209Z",
+      "last_modified": "2026-06-22T18:18:31.973Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "4b2734cb-3fba-8b3e-e785-aa252f304af7",
+      "path": "daily-digests/2026-06-22/opencli.md",
+      "title": "jackwener/OpenCLI",
+      "category": "daily-digests",
+      "tags": [
+        "[\"CLI automation\", \"browser control\", \"AI agent integration\", \"website scraping\", \"Electron app interaction\"]"
+      ],
+      "tech_stack": [
+        "[\"JavaScript\", \"Node.js\", \"Chrome DevTools Protocol\", \"Electron\", \"TypeScript\", \"npm\", \"Browser Extensions\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_opencli_md",
+      "last_modified": "2026-06-22T18:18:31.975Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "7892b3c4-76e9-f07e-0b5b-fef58093663f",
+      "path": "daily-digests/2026-06-22/openmetadata.md",
+      "title": "open-metadata/OpenMetadata",
+      "category": "daily-digests",
+      "tags": [
+        "[\"metadata management\", \"data governance\", \"AI context layer\", \"knowledge graph\", \"data catalog\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Java\", \"Python\", \"Apache Jena\", \"React\", \"Elasticsearch\", \"PostgreSQL\", \"Kafka\", \"OpenLineage\", \"MCP (Model Context Protocol)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_openmetadata_md",
+      "last_modified": "2026-06-22T18:18:31.977Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -754,7 +1294,79 @@
       "quality_score": 9,
       "rag_relevance": 6,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_ppt_master_md",
-      "last_modified": "2026-06-22T16:56:06.211Z",
+      "last_modified": "2026-06-22T18:18:31.979Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "2a377462-9e38-22d5-59c0-bae75eb96cb8",
+      "path": "daily-digests/2026-06-22/qhub-wiki.md",
+      "title": "intelliconnect/QHub-Wiki",
+      "category": "daily-digests",
+      "tags": [
+        "[\"self-hosted\", \"knowledge base\", \"vector search\", \"AI-powered\", \"SMB\"]"
+      ],
+      "tech_stack": [
+        "[\"WikiJS\", \"Qdrant\", \"Python\", \"Ansible\", \"NGINX\", \"Docker\", \"LLM APIs (Claude, OpenAI, GROQ)\"]"
+      ],
+      "quality_score": 8,
+      "rag_relevance": 9,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_qhub_wiki_md",
+      "last_modified": "2026-06-22T18:18:31.981Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c7a27e97-e287-404f-2a91-7d673c9e472b",
+      "path": "daily-digests/2026-06-22/ruflo.md",
+      "title": "ruvnet/ruflo",
+      "category": "daily-digests",
+      "tags": [
+        "[\"multi-agent systems\", \"agent orchestration\", \"RAG integration\", \"self-learning swarms\", \"Claude Code integration\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Rust\", \"MCP (Model Context Protocol)\", \"Vector Databases\", \"Graph RAG\", \"WASM\", \"React\", \"Svelte\", \"GraphQL\", \"Ollama\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_ruflo_md",
+      "last_modified": "2026-06-22T18:18:31.984Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "a9324630-844a-1d26-9234-d9e0ba1f6bf2",
+      "path": "daily-digests/2026-06-22/scrapling.md",
+      "title": "D4Vinci/Scrapling",
+      "category": "daily-digests",
+      "tags": [
+        "[\"web scraping\", \"anti-bot bypass\", \"proxy rotation\", \"adaptive parsing\", \"AI agent integration\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Playwright\", \"BeautifulSoup\", \"Asyncio\", \"Proxy Rotation\", \"MCP Server\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_scrapling_md",
+      "last_modified": "2026-06-22T18:18:31.987Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "edb55d5d-d35f-0b98-87bf-12dbeafc2e26",
+      "path": "daily-digests/2026-06-22/serena.md",
+      "title": "oraios/serena",
+      "category": "daily-digests",
+      "tags": [
+        "[\"semantic code analysis\", \"MCP server\", \"AI agent IDE\", \"code refactoring\", \"symbol-level operations\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Model Context Protocol (MCP)\", \"Language Server Protocol (LSP)\", \"YAML\", \"JetBrains Plugin (optional)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_serena_md",
+      "last_modified": "2026-06-22T18:18:31.990Z",
       "access_count": 0,
       "last_accessed": ""
     },
@@ -772,7 +1384,187 @@
       "quality_score": 9,
       "rag_relevance": 7,
       "embedding_vector_id": "vec_daily_digests_2026_06_22_siyuan_md",
-      "last_modified": "2026-06-22T16:56:06.213Z",
+      "last_modified": "2026-06-22T18:18:31.993Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "a56467a2-f568-f8ef-a527-4b8e18f336fd",
+      "path": "daily-digests/2026-06-22/skill_seekers.md",
+      "title": "yusufkaraaslan/Skill_Seekers",
+      "category": "daily-digests",
+      "tags": [
+        "[\"documentation processing\", \"AI skill generation\", \"RAG pipeline\", \"multi-source ingestion\", \"automated data preprocessing\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Model Context Protocol (MCP)\", \"LangChain\", \"LlamaIndex\", \"Pinecone\", \"ChromaDB\", \"FAISS\", \"Qdrant\", \"YouTube API\", \"FFmpeg\", \"Natural Language Processing (NLP)\", \"Machine Learning (ML)\", \"CLI\", \"PyPI\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 10,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_skill_seekers_md",
+      "last_modified": "2026-06-22T18:18:31.996Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "98ea5f98-515f-c416-79ae-df972983bf89",
+      "path": "daily-digests/2026-06-22/trendradar.md",
+      "title": "sansan0/TrendRadar",
+      "category": "daily-digests",
+      "tags": [
+        "[\"trend monitoring\", \"AI filtering\", \"multi-platform aggregation\", \"RSS\", \"notification automation\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Docker\", \"GitHub Actions\", \"RSS\", \"AI (OpenAI-compatible models)\", \"MCP (Model Context Protocol)\", \"Webhooks\", \"Markdown\", \"HTML/CSS\", \"GitHub Pages\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_trendradar_md",
+      "last_modified": "2026-06-22T18:18:31.999Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "e7e2cd3d-1dc6-9144-b9e7-9e106885669f",
+      "path": "daily-digests/2026-06-22/trigger_dev.md",
+      "title": "triggerdotdev/trigger.dev",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI workflows\", \"durable tasks\", \"TypeScript SDK\", \"long-running processes\", \"observability\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"React\", \"Docker\", \"Kubernetes\", \"PostgreSQL\", \"Redis\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 9,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_trigger_dev_md",
+      "last_modified": "2026-06-22T18:18:32.002Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c0418e09-50e4-c083-045f-0793ec9e14db",
+      "path": "daily-digests/2026-06-22/ui-tars-desktop.md",
+      "title": "bytedance/UI-TARS-desktop",
+      "category": "daily-digests",
+      "tags": [
+        "[\"GUI Agent\", \"Multimodal AI\", \"Computer Control\", \"Browser Automation\", \"MCP Integration\"]"
+      ],
+      "tech_stack": [
+        "[\"TypeScript\", \"Node.js\", \"Electron\", \"React\", \"MCP (Model Context Protocol)\", \"Multimodal LLMs\", \"Web UI\", \"CLI\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_ui_tars_desktop_md",
+      "last_modified": "2026-06-22T18:18:32.004Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "625fbb68-8ea6-d1d1-ba6e-36170271c055",
+      "path": "daily-digests/2026-06-22/vibe-trading.md",
+      "title": "HKUDS/Vibe-Trading",
+      "category": "daily-digests",
+      "tags": [
+        "[\"trading automation\", \"quantitative finance\", \"AI agent\", \"broker integration\", \"research automation\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"FastAPI\", \"React\", \"MCP (Model Context Protocol)\", \"FastAPI\", \"CCXT\", \"YFinance\", \"Ta-Lib\", \"DuckDB\", \"Docker\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 8,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_vibe_trading_md",
+      "last_modified": "2026-06-22T18:18:32.006Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "a8527623-dc95-5822-1307-c32b4b320b97",
+      "path": "daily-digests/2026-06-22/waoowaoo.md",
+      "title": "waooAI/waoowaoo",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI video generation\", \"storyboard automation\", \"multimodal content creation\", \"AI voice synthesis\", \"visual consistency\"]"
+      ],
+      "tech_stack": [
+        "[\"Next.js\", \"React\", \"TypeScript\", \"MySQL\", \"Prisma ORM\", \"Redis\", \"BullMQ\", \"Tailwind CSS\", \"NextAuth.js\", \"Docker\", \"MinIO\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_waoowaoo_md",
+      "last_modified": "2026-06-22T18:18:32.009Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "99a1b770-ee03-1ae1-8011-b20f762fbdc9",
+      "path": "daily-digests/2026-06-22/web-ui.md",
+      "title": "browser-use/web-ui",
+      "category": "daily-digests",
+      "tags": [
+        "[\"AI agent interface\", \"browser automation\", \"LLM integration\", \"persistent sessions\", \"screen recording\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Gradio\", \"Playwright\", \"Docker\", \"LLM APIs (Google, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama)\", \"WebRTC\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_web_ui_md",
+      "last_modified": "2026-06-22T18:18:32.011Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "c6f7062f-4a40-0832-b4ab-6e94d9630eb8",
+      "path": "daily-digests/2026-06-22/xhs-downloader.md",
+      "title": "JoeanAmier/XHS-Downloader",
+      "category": "daily-digests",
+      "tags": [
+        "[\"content extraction\", \"social media downloader\", \"Xiaohongshu\", \"API integration\", \"automation\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Docker\", \"FastAPI\", \"Tampermonkey\", \"Sourcery\", \"SQLite\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 3,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_xhs_downloader_md",
+      "last_modified": "2026-06-22T18:18:32.013Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "2d777883-480b-dd7e-4c78-ed872642907a",
+      "path": "daily-digests/2026-06-22/xiaohongshu-mcp.md",
+      "title": "xpzouying/xiaohongshu-mcp",
+      "category": "daily-digests",
+      "tags": [
+        "[\"social media automation\", \"content publishing\", \"MCP server\", \"AI integration\", \"data retrieval\"]"
+      ],
+      "tech_stack": [
+        "[\"Go\", \"Model Context Protocol (MCP)\", \"Docker\", \"Chromium (Headless Browser)\", \"HTTP/HTTPS\", \"SOCKS5 Proxy\", \"Claude Code CLI\", \"Open Code CLI\", \"Cursor\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_xiaohongshu_mcp_md",
+      "last_modified": "2026-06-22T18:18:32.015Z",
+      "access_count": 0,
+      "last_accessed": ""
+    },
+    {
+      "id": "d39b50fb-cfef-4b41-3575-1b2dce03886c",
+      "path": "daily-digests/2026-06-22/xiaozhi-esp32-server.md",
+      "title": "xinnan-tech/xiaozhi-esp32-server",
+      "category": "daily-digests",
+      "tags": [
+        "[\"ESP32\", \"Voice Interaction\", \"Multi-Modal AI\", \"Device Orchestration\", \"Open-Source Hardware\"]"
+      ],
+      "tech_stack": [
+        "[\"Python\", \"Java\", \"Vue.js\", \"MQTT\", \"UDP\", \"WebSocket\", \"MCP\", \"ASR (FunASR, Xunfei, etc.)\", \"TTS (EdgeTTS, Huoshan, etc.)\", \"LLM (GLM, Qwen, etc.)\", \"VLLM (GLM-V, Qwen-VL, etc.)\", \"Docker\", \"SQL/NoSQL (for memory and knowledge storage)\"]"
+      ],
+      "quality_score": 9,
+      "rag_relevance": 7,
+      "embedding_vector_id": "vec_daily_digests_2026_06_22_xiaozhi_esp32_server_md",
+      "last_modified": "2026-06-22T18:18:32.017Z",
       "access_count": 0,
       "last_accessed": ""
     }
@@ -1365,13 +2157,19 @@
       "target": "skills/local-llm.md",
       "type": "references",
       "weight": 0.95
+    },
+    {
+      "source": "skills/shadcn-ui.md",
+      "target": "daily-digests/2026-06-22/trigger_dev.md",
+      "type": "similar_to",
+      "weight": 0.98
     }
   ],
   "system_health": {
     "last_pipeline_run": "2026-06-22T11:57:57.721Z",
     "repos_discovered_today": 0,
     "repos_evaluated": 0,
-    "avg_quality_score": 2.65,
+    "avg_quality_score": 5.59,
     "mcp_requests_served": 0,
     "web_sessions": 0
   }
