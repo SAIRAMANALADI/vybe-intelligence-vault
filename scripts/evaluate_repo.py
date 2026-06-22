@@ -394,7 +394,8 @@ def evaluate_mode(args):
         "Return strictly valid JSON conforming to the requested schema.\n"
         "Do not include conversational text or markdown code fences around the JSON.\n"
         f"EXPECTED JSON SCHEMA:\n{json.dumps(schema, indent=2)}\n"
-        "CRITICAL: The 'why_it_matters' field MUST be a single plain string sentence. Do NOT return an object or dictionary for why_it_matters."
+        "CRITICAL: The 'why_it_matters' field MUST be a single plain string sentence. Do NOT return an object or dictionary for why_it_matters.\n"
+        "CRITICAL: The 'key_features' array MUST contain exactly 3 items. Do NOT return 4 or more items."
     )
     
     truncated_readme = readme[:12000] if readme else ""
@@ -408,7 +409,7 @@ def evaluate_mode(args):
     )
     
     # Query with retry/validation
-    retry_count = 3
+    retry_count = 5
     eval_data = None
     model_used = "gpt-4o-mini"
     tokens = 0
