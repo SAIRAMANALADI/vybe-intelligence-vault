@@ -1,0 +1,60 @@
+name: "🔴 Report a Dead Link"
+description: "Found a broken or outdated link in the vault? Report it here."
+title: "[DEAD LINK] "
+labels: ["dead-link", "maintenance"]
+assignees: ["sairaman436"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help keep the vault clean. Dead links get fixed or removed within 24 hours.
+
+  - type: input
+    id: broken-url
+    attributes:
+      label: "🔗 Broken URL"
+      description: "The exact URL that is not working"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: found-in
+    attributes:
+      label: "📁 Found in file"
+      description: "Which file or folder contains this link?"
+      placeholder: "e.g. intelligence/weekly/2026-W24.md"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: error-type
+    attributes:
+      label: "❌ Error type"
+      options:
+        - "404 Not Found"
+        - "Domain gone / expired"
+        - "Redirect loop"
+        - "Paywall (was free)"
+        - "Content removed"
+        - "Other"
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: "🔄 Replacement URL (optional)"
+      description: "If you know a working alternative, drop it here"
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "📝 Additional notes"
+      placeholder: "Anything else useful..."
+    validations:
+      required: false

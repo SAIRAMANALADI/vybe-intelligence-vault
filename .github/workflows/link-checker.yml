@@ -1,0 +1,50 @@
+name: 🔗 Dead Link Checker
+
+on:
+  schedule:
+    # Runs every Monday at 08:00 UTC (1:30 PM IST)
+    - cron: "0 8 * * 1"
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  lychee:
+    name: Check for broken links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Lychee link checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Check all markdown files in the vault
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,204,206,429
+            --timeout 30
+            --max-retries 3
+            --exclude "localhost"
+            --exclude "127.0.0.1"
+            --exclude "example.com"
+            --exclude "twitter.com"
+            --exclude "x.com"
+            --exclude "linkedin.com"
+            './**/*.md'
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue for broken links
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔴 [Auto] Dead links detected — Week ${{ github.run_number }}"
+          content-filepath: ./lychee/out.md
+          labels: |
+            dead-link
+            maintenance
+            automated
+          assignees: sairaman436

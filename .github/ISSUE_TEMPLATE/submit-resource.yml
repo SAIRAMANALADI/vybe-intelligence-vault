@@ -1,0 +1,86 @@
+name: "📦 Submit a Resource"
+description: "Suggest a link, tool, paper, or repo to add to the vault"
+title: "[RESOURCE] "
+labels: ["resource", "triage"]
+assignees: ["sairaman436"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to **Vybe Intelligence Vault**! 
+        Fill out the form below and it'll be reviewed within 48 hours.
+
+  - type: input
+    id: resource-url
+    attributes:
+      label: "🔗 Resource URL"
+      description: "Direct link to the resource"
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: resource-title
+    attributes:
+      label: "📌 Title"
+      description: "Name of the resource"
+      placeholder: "e.g. LangGraph Agent Architecture Deep Dive"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "📂 Category"
+      description: "Which vault section does this belong to?"
+      options:
+        - "intelligence/ (AI/ML news & research)"
+        - "learning-paths/ (tutorials & courses)"
+        - "build-ideas/ (project ideas)"
+        - "maps/ (stack maps & architecture)"
+        - "free-inference/ (free LLM APIs)"
+        - "prompts/ (prompt library)"
+        - "web-development/ (frontend & WebGL)"
+        - "discord-security/ (bot security)"
+        - "internship-intel/ (jobs & prep)"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: resource-type
+    attributes:
+      label: "🏷️ Resource Type"
+      options:
+        - "Paper / Research"
+        - "GitHub Repo"
+        - "Tool / Library"
+        - "Course / Tutorial"
+        - "Blog Post / Article"
+        - "Video"
+        - "Dataset"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: "💡 Why should this be in the vault?"
+      description: "1-3 sentences on what makes this worth including"
+      placeholder: "This paper introduces a new approach to RAG that outperforms naive chunking by 30%..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "✅ Pre-submission checklist"
+      options:
+        - label: "I checked that this resource isn't already in the vault"
+          required: true
+        - label: "The link is working and publicly accessible"
+          required: true
+        - label: "This is genuinely useful, not self-promotion"
+          required: true

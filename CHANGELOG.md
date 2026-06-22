@@ -1,6 +1,7 @@
-# Changelog
+# 📋 Changelog
 
-## Latest Update
+All notable additions and changes to **Vybe Intelligence Vault** are documented here.
+Updated weekly. Format: `[Week] — [Date Range]`
 
 <!-- LATEST:START -->
 * Last updated: 2026-06-22 15:59 IST
@@ -12,10 +13,41 @@
 * Update policy: No-empty-commit active (committed only when meaningful changes are found)
 <!-- LATEST:END -->
 
-## History
+---
+
+## [W25] — June 16–22, 2026
+
+### ✨ Infrastructure Upgrades
+- Added 3 GitHub Issue Templates: Submit Resource, Report Dead Link, Suggest Build Idea
+- Added automated weekly dead-link checker via Lychee (runs every Monday)
+- Added `CHANGELOG.md` for tracking vault evolution
+- Pinned 20 repo topic tags for discoverability
+- Updated README with "Start Here" funnel and live badges
+
+### 📦 Content Added
+- `free-inference/` folder scaffolded — curated free LLM API list incoming
+- `prompts/` folder scaffolded — prompt library structure defined
+- `discord-security/` folder scaffolded — Sovereign Perimeter architecture docs incoming
+- `internship-intel/` folder scaffolded — India ML/AI internship tracker incoming
+- `build-ideas/` expanded from 8 → target 40+ (in progress)
+
+### 🔧 Harvester Updates
+- No changes this week
+
+---
+
+## [W24] — June 9–15, 2026
+
+### 🔧 Harvester Updates
+- Initial vault structure and auto-harvesting pipeline live
+- GitHub Actions running on schedule
+- LightRAG integration active
+
+---
+
+## 📅 Activity History
 
 ### Daily Summaries
-
 <!-- DAILY:START -->
 * **2026-06-22**: Added 1261 resources. Rebuilt archive and search index.
 * **2026-06-21**: Added 39 resources. Rebuilt archive and search index.
@@ -28,9 +60,26 @@
 <!-- DAILY:END -->
 
 ### Weekly Intelligence Reports
-
 <!-- WEEKLY:START -->
 * [Weekly Report — 2026 Week 26](weekly-reports/2026/week-26.md)
 * [Weekly Report — 2026 Week 25](weekly-reports/2026/week-25.md)
 * [Weekly Report — 2026 Week 24](weekly-reports/2026/week-24.md)
 <!-- WEEKLY:END -->
+
+<!-- 
+TEMPLATE FOR NEW ENTRIES:
+
+## [WXX] — Month DD–DD, YYYY
+
+### ✨ Infrastructure Upgrades
+- 
+
+### 📦 Content Added
+- `folder/` — description
+
+### 🔧 Harvester Updates
+- 
+
+### 🗑️ Removed / Fixed
+- 
+-->

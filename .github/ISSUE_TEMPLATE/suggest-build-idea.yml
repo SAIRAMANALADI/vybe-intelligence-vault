@@ -1,0 +1,78 @@
+name: "🛠️ Suggest a Build Idea"
+description: "Got a project idea that belongs in the vault? Submit it."
+title: "[IDEA] "
+labels: ["build-idea", "triage"]
+assignees: ["sairaman436"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Great build ideas get added to `build-ideas/` with full credit. 
+        Be specific — vague ideas get closed.
+
+  - type: input
+    id: idea-title
+    attributes:
+      label: "💡 Idea Title"
+      description: "Short, punchy name for the project"
+      placeholder: "e.g. AI-Powered GitHub PR Reviewer Bot"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "📄 Description"
+      description: "What does it do? Who is it for? Why is it useful?"
+      placeholder: "A bot that reviews PRs using Claude, flags security issues, suggests refactors..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: "⚡ Difficulty Tier"
+      options:
+        - "🟢 Beginner (weekend project, 1 API)"
+        - "🟡 Portfolio (2-4 weeks, multi-service)"
+        - "🔴 Production-Grade (months, full architecture)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: stack
+    attributes:
+      label: "🧱 Suggested Stack"
+      description: "Languages, frameworks, APIs, infra"
+      placeholder: "Python, FastAPI, Claude API, PostgreSQL, Docker..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: recruiter-signal
+    attributes:
+      label: "🎯 What skills does this demonstrate?"
+      description: "What would a recruiter / hiring manager see in this project?"
+      placeholder: "Agentic AI, RAG pipeline design, async Python, API integration..."
+    validations:
+      required: false
+
+  - type: input
+    id: prior-art
+    attributes:
+      label: "🔗 Similar projects (if any)"
+      description: "Links to similar open-source work for reference"
+      placeholder: "https://github.com/..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "✅ Checklist"
+      options:
+        - label: "This idea doesn't already exist in build-ideas/"
+          required: true
+        - label: "This is actually buildable, not just a concept"
+          required: true
