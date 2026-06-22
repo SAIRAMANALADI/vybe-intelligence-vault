@@ -136,7 +136,7 @@ jobs:
       - name: Checkout Intelligence Engine
         uses: actions/checkout@v4
         with:
-          repository: santifer/vybe-intelligence-engine
+          repository: sairaman436/vybe-intelligence-engine
           path: engine
           token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
 
