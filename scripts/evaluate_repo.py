@@ -295,7 +295,7 @@ def discover_mode(args):
     for topic in topics:
         log(f"Searching GitHub for topic: {topic}...")
         escaped_topic = urllib.parse.quote(topic)
-        url = f"https://api.github.com/search/repositories?q=topic:{escaped_topic}&sort=stars&order=desc&per_page=30"
+        url = f"https://api.github.com/search/repositories?q=topic:{escaped_topic}&sort=updated&order=desc&per_page=50"
         
         try:
             results = github_api_request(url, token=token)
