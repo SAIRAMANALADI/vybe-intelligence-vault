@@ -1,0 +1,149 @@
+name: LLM Vault Harvester
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      topics:
+        description: "Topics to search (comma-separated)"
+        required: false
+        default: "ai-agent,mcp-server,rag-stack"
+        type: string
+      max_repos:
+        description: "Maximum repositories to discover"
+        required: false
+        default: "5"
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    name: Discover Repositories
+    runs-on: ubuntu-latest
+    outputs:
+      repos: ${{ steps.run-discover.outputs.repos }}
+      has_repos: ${{ steps.run-discover.outputs.has_repos }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema
+
+      - name: Run Discovery
+        id: run-discover
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/evaluate_repo.py --mode discover \
+            --topics "${{ github.event.inputs.topics || 'ai-agent,mcp-server,rag-stack' }}" \
+            --max-repos ${{ github.event.inputs.max_repos || 5 }}
+
+  evaluate:
+    name: Evaluate Repository
+    needs: discover
+    if: needs.discover.outputs.has_repos == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo: ${{ fromJSON(needs.discover.outputs.repos) }}
+      fail-fast: false
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jsonschema
+
+      - name: Evaluate Repo via LLM
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          LLM_PROVIDER: "openai" # "openai" | "anthropic" | "gemini" | "ollama"
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OLLAMA_ENDPOINT: ${{ secrets.OLLAMA_ENDPOINT }}
+        run: |
+          python scripts/evaluate_repo.py --mode evaluate --repo "${{ matrix.repo }}"
+
+      - name: Upload Evaluation JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-${{ github.run_id }}-${{ strategy.job-index }}
+          path: evaluation-*.json
+          if-no-files-found: ignore
+
+  commit:
+    name: Commit & Alert
+    needs: [discover, evaluate]
+    # Run only if we discovered repos and evaluation occurred
+    if: always() && needs.discover.outputs.has_repos == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Download all Evaluation Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: eval-${{ github.run_id }}-*
+          merge-multiple: true
+
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate Digest & Handle Gating
+        env:
+          GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python scripts/evaluate_repo.py --mode generate
+
+      - name: Commit Direct Updates to Main
+        run: |
+          # Only commit if there are actual changes in the working directory
+          if [ -n "$(git status --porcelain)" ]; then
+            git add daily-digests/ vault-index.json
+            git commit -m "docs(harvester): auto-generate daily digest entries [skip ci]"
+            git push origin main
+          else
+            echo "No direct updates to commit."
+          fi
+
+      - name: Upload Harvester Report Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: harvester-report
+          path: harvester-report.json
+          if-no-files-found: warn

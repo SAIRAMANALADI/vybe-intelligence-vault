@@ -1,0 +1,22 @@
+name: "vybe-vault-mcp"
+version: "1.0.0"
+description: "Model Context Protocol (MCP) server for Vybe Intelligence Vault, exposing vault resources, search, and skill prompts."
+author: "sairaman436"
+repository: "https://github.com/sairaman436/vybe-intelligence-vault"
+license: "MIT"
+category: "utilities"
+tags:
+  - mcp
+  - vault
+  - knowledge-base
+  - search
+requirements:
+  python: ">=3.10"
+startCommand:
+  type: stdio
+  command: python
+  args:
+    - "-m"
+    - "mcp_server.server"
+  env:
+    VAULT_PATH: "."

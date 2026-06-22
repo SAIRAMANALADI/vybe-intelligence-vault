@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "RepoEvaluation",
+  "type": "object",
+  "properties": {
+    "summary": {
+      "type": "string",
+      "description": "2-3 sentence description of what the repo does"
+    },
+    "tech_stack": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Array of identified technologies"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["Vector DB", "Agent Framework", "UI Component", "SaaS Template", "Orchestrator", "Tooling"],
+      "description": "Category of the repository"
+    },
+    "quality_score": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10,
+      "description": "Integer 1-10 based on README completeness, star count, recent activity, and code organization"
+    },
+    "rag_relevance": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10,
+      "description": "Integer 1-10 rating how essential this is for RAG/AI stack builders"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 3,
+      "maxItems": 5,
+      "description": "Array of 3-5 descriptive tags"
+    },
+    "key_features": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 3,
+      "maxItems": 3,
+      "description": "Array of exactly 3 key feature bullet points"
+    },
+    "deployment_complexity": {
+      "type": "string",
+      "enum": ["Low", "Medium", "High"],
+      "description": "Deployment complexity rating"
+    }
+  },
+  "required": [
+    "summary",
+    "tech_stack",
+    "category",
+    "quality_score",
+    "rag_relevance",
+    "tags",
+    "key_features",
+    "deployment_complexity"
+  ]
+}
