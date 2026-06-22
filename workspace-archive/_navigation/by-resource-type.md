@@ -21,20 +21,22 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 - [A comparative and critical study of EEGNet for fNIRS-driven cognitive load classification](https://arxiv.org/abs/2606.16160) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16160.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
+- [Discourse Meta](https://meta.discourse.org) (Tier: `useful` | [`Local File`](../../ai/rag/discourse-meta.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
+- [android Git repositories - Git at Google](https://android.googlesource.com) (Tier: `useful` | [`Local File`](../../ai/rag/android-git-repositories-git-at-google.md))
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
 - [Search & information retrieval](https://microsoft.com/en-us/research/research-area/search-information-retrieval) (Tier: `useful` | [`Local File`](../../ai/companies/search-information-retrieval.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-19502.md))
-- [Kolmogorov Regression for Robust Diffusion Policies](https://arxiv.org/abs/2606.18186) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-18186.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-19502.md))
+- [Discourse Meta](https://meta.discourse.org) (Tier: `useful` | [`Local File`](../../ai/rag/discourse-meta.md))
 
 ## DATASET
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2602-09329.md))
 - [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11930.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-rag-systems-best-practic.md))
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15349.md))
@@ -42,9 +44,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11635.md))
 - [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](https://arxiv.org/abs/2606.12594) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12594.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11930.md))
-- [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 
 ## FRAMEWORK
 
@@ -104,7 +104,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
+- [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Tier: `useful` | [`Local File`](../../ai/resources/get-source-code.md))
 
 ## REFERENCE
 
@@ -157,14 +157,14 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (Tier: `useful` | [`Local File`](../../web-development/webgpu/hjlld-learningwebgpu.md))
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md))
 - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
-- [Medium Privacy Policy | by Medium | Medium Policy](https://medium.com/policy/medium-privacy-policy-c256b9ca0581) (Tier: `useful` | [`Local File`](../../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- [The Medium Blog](https://blog.medium.com/) (Tier: `useful` | [`Local File`](../../ai/rag/the-medium-blog.md))
 - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
+- [Jobs at Medium](https://job-boards.greenhouse.io/medium) (Tier: `useful` | [`Local File`](../../ai/rag/jobs-at-medium.md))
+- [V-DAT Working Group | National Centers for Environmental Information (NCEI)](https://www.ngdc.noaa.gov/IAGA/vdat) (Tier: `useful` | [`Local File`](../../ai/rag/v-dat-working-group-national-centers-for-environme.md))
+- [Miniconda - Anaconda](https://docs.anaconda.com/free/miniconda) (Tier: `useful` | [`Local File`](../../ai/resources/miniconda-anaconda.md))
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
 - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
-- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) (Tier: `useful` | [`Local File`](../../ai/rag/adongwanai-agentguide.md))
-- [puxiao/threejs-tutorial](https://github.com/puxiao/threejs-tutorial) (Tier: `useful` | [`Local File`](../../web-development/threejs/puxiao-threejs-tutorial.md))
-- [Next.js 7](https://nextjs.org/blog/next-7) (Tier: `useful` | [`Local File`](../../web-development/nextjs/next-js-7.md))
+- [Git](https://git-scm.com) (Tier: `useful` | [`Local File`](../../ai/resources/git.md))
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
 
 ## WORKFLOW
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](../../ai/agents/haohao-end-openagent.md))
 
 ---
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

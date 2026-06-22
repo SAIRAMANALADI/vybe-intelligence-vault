@@ -13,13 +13,14 @@ collected_at: '2026-06-21T22:25:29.605572+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:mysk-research/loupe
 first_seen: '2026-06-21T20:19:13.892760+05:30'
 last_seen: '2026-06-21T22:25:29.605572+05:30'
 last_checked: '2026-06-21T22:25:29.605572+05:30'
 health_score: 100
 ---
+
 
 # Loupe – A iOS app that raises awareness about what native apps can see
 

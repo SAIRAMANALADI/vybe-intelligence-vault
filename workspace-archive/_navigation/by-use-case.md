@@ -25,6 +25,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Document Knowledge base & Search (RAG)
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `rag-systems` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `rag-systems` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `rag-systems` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
@@ -32,7 +33,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `rag-systems` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `rag-systems` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Category: `vector-databases` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
-- [langgenius/dify](https://github.com/langgenius/dify) (Category: `vector-databases` | [`Local File`](../../ai/rag/langgenius-dify.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -49,23 +49,23 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
-- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 
 ## Script Automations & External API Integration
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `automation-workflows` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Category: `automation-workflows` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Category: `automation-workflows` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Category: `automation-workflows` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (Category: `automation-workflows` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Category: `automation-workflows` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Category: `automation-workflows` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Category: `automation-workflows` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
+- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (Category: `automation-workflows` | [`Local File`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md))
+- [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Category: `automation-workflows` | [`Local File`](../../ai/resources/get-source-code.md))
+- [Git](https://git-scm.com) (Category: `automation-workflows` | [`Local File`](../../ai/resources/git.md))
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Category: `automation-workflows` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
+- [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers) (Category: `automation-workflows` | [`Local File`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11197.md))
 
 ---
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

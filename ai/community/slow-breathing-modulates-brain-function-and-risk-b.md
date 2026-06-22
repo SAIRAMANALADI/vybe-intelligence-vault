@@ -13,13 +13,14 @@ collected_at: '2026-06-21T22:25:30.051477+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:slow-breathing-modulates-brain-function-and-risk-b
 first_seen: '2026-06-21T20:19:14.430885+05:30'
 last_seen: '2026-06-21T22:25:30.051477+05:30'
 last_checked: '2026-06-21T22:25:30.051477+05:30'
 health_score: 100
 ---
+
 
 # Slow breathing modulates brain function and risk behavior
 

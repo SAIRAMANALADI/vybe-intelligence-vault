@@ -36,7 +36,9 @@ selection_reason:
 
 ## Summary
 
-LightRAG: Simple and Fast Retrieval-Augmented Generation Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang*, Data Intelligence Lab, University of Hong Kong. Beijing University of Posts and Telecommunications. (*Correspondence) Paper Code Video Ab...
+- **Graph-Enhanced Indexing**: LightRAG employs LLM-driven entity/relationship extraction and deduplication to construct a knowledge graph, enabling multi-hop subgraph queries and efficient key-value indexing for precise retrieval, outperforming traditional embedding-based or chunk-traversal methods.
+
+- **Dual-Level Retrieval Paradigm**: Combines low-level (entity-specific) and high-level (abstract/theme-based) retrieval strategies, leveraging graph structures to balance precision (detailed node
 
 ## Use Cases
 

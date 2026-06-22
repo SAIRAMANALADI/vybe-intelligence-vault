@@ -33,8 +33,8 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, **RagTag** ([GitHub](https://github.com/malonge/RagTag)).
-- **Functionality**: Designed for **genome assembly scaffolding** and **chromosome-scale scaffolding** in bioinformatics workflows.
+- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, [RagTag](https://github.com/malonge/RagTag).
+- **Functionality**: Designed for **genome assembly scaffolding** and **chromosome-scale assembly** in bioinformatics workflows.
 - **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases

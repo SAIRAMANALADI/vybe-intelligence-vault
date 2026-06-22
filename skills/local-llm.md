@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 98 resources matched in the intelligence vault.
+Active signals: 101 resources matched in the intelligence vault.
 Recently detected signals:
-- [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-21
-- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Overview of natively supported quantization schemes in 🤗 Transformers](../ai/models/overview-of-natively-supported-quantization-scheme.md) (Source: Unknown Source) - Collected 2026-06-21
+- [Improve performance and UX for client-side AI | web.dev](../ai/rag/improve-performance-and-ux-for-client-side-ai-web.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Transformers · Hugging Face](../ai/rag/huggingface-docs-transformers.md) (Source: Unknown Source) - Collected 2026-06-22
+- [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-22
+- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](../ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

@@ -1,18 +1,266 @@
 {
-  "generated_at": "2026-06-21T22:27:44.224392+05:30",
+  "generated_at": "2026-06-22T11:10:22.681526+05:30",
   "trending_resources": [
+    {
+      "id": "blog:client-challenge",
+      "title": "Client Challenge",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support",
+      "file_path": "ai/resources/client-challenge.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1091,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:using-a-knowledge-graph-to-implement-a-rag-applica",
+      "title": "Using a knowledge graph to implement a RAG application",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://neo4j.com/blog/developer/rag-tutorial",
+      "file_path": "ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1954,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "blog:using-a-knowledge-graph-to-implement-a-rag-applica",
+      "title": "Using a knowledge graph to implement a RAG application",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://neo4j.com/blog/developer/rag-tutorial",
+      "file_path": "ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1954,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:client-challenge",
+      "title": "Client Challenge",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support",
+      "file_path": "ai/resources/client-challenge.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1091,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "hackernews:apertus-open-foundation-model-for-sovereign-ai",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://apertvs.ai",
+      "file_path": "ai/community/apertus-open-foundation-model-for-sovereign-ai.md",
+      "score": 277,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:json-ld-explained-for-personal-websites",
+      "title": "JSON-LD explained for personal websites",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites",
+      "file_path": "ai/community/json-ld-explained-for-personal-websites.md",
+      "score": 186,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:good-results-fine-tuning-a-local-llm-like-qwen-3-0",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "file_path": "ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md",
+      "score": 64,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:nsf-sage-data-services-nodes-dmc-software-complete",
+      "title": "NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://ds.iris.edu/ds/nodes/dmc/software/downloads",
+      "file_path": "ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:science-ouverte",
+      "title": "Science ouverte",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://scienceouverte.unistra.fr",
+      "file_path": "ai/resources/science-ouverte.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:structuration-de-la-recherche-universite-de-strasb",
+      "title": "Structuration de la recherche | Université de Strasbourg",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://unistra.fr/fr/structuration-la-recherche",
+      "file_path": "ai/rag/structuration-de-la-recherche-universite-de-strasb.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:yapay-zeka-ekosistem-2023-cagrisi-guncellendi-tubi",
+      "title": "Yapay Zekâ Ekosistem 2023 Çağrısı Güncellendi | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://tubitak.gov.tr/tr/duyuru/yapay-zeka-ekosistem-2023-cagrisi-guncellendi",
+      "file_path": "ai/resources/yapay-zeka-ekosistem-2023-cagrisi-guncellendi-tubi.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:international-real-time-magnetic-observatory-netwo",
+      "title": "International Real-time Magnetic Observatory Network",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "http://intermagnet.org",
+      "file_path": "ai/rag/international-real-time-magnetic-observatory-netwo.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:pds-small-bodies-node-home",
+      "title": "PDS: Small Bodies Node Home",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://pds-smallbodies.astro.umd.edu",
+      "file_path": "ai/resources/pds-small-bodies-node-home.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:org-mode-for-gnu-emacs",
+      "title": "Org mode for GNU Emacs",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "http://orgmode.org",
+      "file_path": "ai/resources/org-mode-for-gnu-emacs.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:list-of-talks-done-by-ben-cartwright-cox",
+      "title": "List of Talks done by Ben Cartwright-Cox",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://benjojo.co.uk/talks",
+      "file_path": "ai/rag/list-of-talks-done-by-ben-cartwright-cox.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:grid-by-example",
+      "title": "Grid by Example",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://gridbyexample.com",
+      "file_path": "ai/resources/grid-by-example.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:the-rpki-observatory-the-rpki-observatory",
+      "title": "The RPKI Observatory | The RPKI Observatory",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://nusenu.github.io/rpki-observatory",
+      "file_path": "ai/rag/the-rpki-observatory-the-rpki-observatory.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:krdae-deprem-muhendisligi-ana-bilim-dali",
+      "title": "KRDAE | Deprem Mühendisliği Ana Bilim Dalı",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://eqe.bogazici.edu.tr",
+      "file_path": "ai/resources/krdae-deprem-muhendisligi-ana-bilim-dali.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:rfc-9234-route-leak-prevention-and-detection-using",
+      "title": "RFC 9234 - Route Leak Prevention and Detection Using Roles in UPDATE and OPEN Messages",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://datatracker.ietf.org/doc/rfc9234",
+      "file_path": "ai/rag/rfc-9234-route-leak-prevention-and-detection-using.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    }
+  ],
+  "recently_inactive_resources": [
     {
       "id": "github:mysk-research/loupe",
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://github.com/mysk-research/loupe",
-      "file_path": "ai/community/mysk-research-loupe.md",
-      "score": 440,
-      "score_change": 45,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
+      "file_path": "ai/community/mysk-research-loupe.md"
     },
     {
       "id": "hackernews:slow-breathing-modulates-brain-function-and-risk-b",
@@ -20,12 +268,7 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://cell.com/neuron/fulltext/s0896-6273(26)00339-9",
-      "file_path": "ai/community/slow-breathing-modulates-brain-function-and-risk-b.md",
-      "score": 319,
-      "score_change": 41,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
+      "file_path": "ai/community/slow-breathing-modulates-brain-function-and-risk-b.md"
     },
     {
       "id": "hackernews:building-reliable-agentic-ai-systems",
@@ -33,12 +276,7 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "file_path": "ai/community/building-reliable-agentic-ai-systems.md",
-      "score": 157,
-      "score_change": 26,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
+      "file_path": "ai/community/building-reliable-agentic-ai-systems.md"
     },
     {
       "id": "hackernews:the-case-against-geometric-algebra-2024",
@@ -46,31 +284,17 @@
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "file_path": "ai/community/the-case-against-geometric-algebra-2024.md",
-      "score": 97,
-      "score_change": 18,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [],
-  "new_discoveries": [
+      "file_path": "ai/community/the-case-against-geometric-algebra-2024.md"
+    },
     {
       "id": "hackernews:ai-has-broken-hiring",
       "title": "AI Has Broken Hiring",
       "category": "ai/community",
       "source_type": "hackernews",
       "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "file_path": "ai/community/ai-has-broken-hiring.md",
-      "score": 15,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
+      "file_path": "ai/community/ai-has-broken-hiring.md"
     }
   ],
-  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }

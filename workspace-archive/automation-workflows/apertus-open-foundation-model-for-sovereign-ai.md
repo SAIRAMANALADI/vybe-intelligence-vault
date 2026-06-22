@@ -1,0 +1,49 @@
+---
+title: Apertus – Open Foundation Model for Sovereign AI
+archive_category: automation-workflows
+source_category: ai/community
+source_url: https://apertvs.ai
+resource_id: hackernews:apertus-open-foundation-model-for-sovereign-ai
+local_vault_path: ai/community/apertus-open-foundation-model-for-sovereign-ai.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: workflow
+importance: medium
+tags:
+- ai
+- hackernews
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Apertus – Open Foundation Model for Sovereign AI
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Hacker News story by T-A. Score: 277, Comments: 101.
+Original Link: https://apertvs.ai/
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://apertvs.ai
+
+## Local Vault File
+
+Path: [apertus-open-foundation-model-for-sovereign-ai.md](../../ai/community/apertus-open-foundation-model-for-sovereign-ai.md)

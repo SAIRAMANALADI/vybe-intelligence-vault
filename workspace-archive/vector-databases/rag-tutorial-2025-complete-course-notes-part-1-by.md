@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 70
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -22,6 +22,7 @@ tags:
 - producthunt
 - rag
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,14 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-RAG Tutorial 2025: Complete Course Notes — Part 1Pragati Mehra41 min read·Jan 27, 2026--ListenShareThanks to Harish Neel Sir for this amazing tutorial.Note: This is a raw word-to-word transcript of the entire video. It requires editing.VIDEO 01: Comp...
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (documents, databases) for accurate responses, avoiding context window overload; splits into **Injection Pipeline** (data ingestion, chunking, embeddings) and **Retrieval Pipeline** (query embedding, similarity search, LLM augmentation).
+
+- **Embeddings & Vector Databases**: Text is converted into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) using embedding models; vector databases (Pin
 
 ## Use Cases
 

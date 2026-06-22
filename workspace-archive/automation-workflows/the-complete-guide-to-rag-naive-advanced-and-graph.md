@@ -9,7 +9,7 @@ local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - models
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -33,14 +33,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-Mr. Latte Hello ▾AboutWork With MeContactBuild ▾ProductsProjectsWriting ▾BlogResearchLearn ▾CoursesStoreHobby ▾PaintingsKOAboutWork With MeContactProductsProjectsBlogResearchCoursesStorePaintings한국어The Complete Guide to RAG: Naive, Advanced, and Grap...
+- **RAG Architecture Evolution**: Covers four generations—Naive RAG (basic retrieval + generation), Advanced RAG (hybrid search, reranking, query transformation), Modular RAG (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—with trade-offs in complexity vs. reasoning capability.
+
+- **Core RAG Components**: Retrieval (vector/keyword search, hybrid methods), Augmentation (context injection), and Generation (LLM with constrained output), addressing limitations l
 
 ## Use Cases
 

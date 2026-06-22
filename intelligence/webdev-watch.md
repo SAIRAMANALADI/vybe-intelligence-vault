@@ -4,6 +4,11 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
+| [The world's fastest framework for building websites](https://gohugo.io) | `frontend-ai-ui/` | 70 |
+| [RPKI Dashboard](https://dashboard.rpki.ripe.net) | `frontend-ai-ui/` | 70 |
+| [ShakeNet Web App: Raspberry Shakes' Community Portal](https://shakenet.raspberryshake.org/privacy) | `frontend-ai-ui/` | 70 |
+| [Standalone SSO - Stytch Docs](https://stytch.com/docs/multi-tenant-auth/authentication/sso/standalone) | `frontend-ai-ui/` | 70 |
+| [Work with member roles - Operations - Confluence](https://compass-ops-help.atlassian.net/wiki/spaces/OPERATIONS/pages/10420253/Work+with+member+roles) | `frontend-ai-ui/` | 70 |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | `frontend-ai-ui/` | 70 |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | `frontend-ai-ui/` | 70 |
 | [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
@@ -19,10 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [SikandarJODD/svelte-animations](https://github.com/sikandarjodd/svelte-animations) | `frontend-ai-ui/` | 70 |
 | [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) | `frontend-ai-ui/` | 70 |
 | [ShowravKormokar/capsule](https://github.com/showravkormokar/capsule) | `frontend-ai-ui/` | 70 |
-| [playcanvas/engine](https://github.com/playcanvas/engine) | `webdev-3d-creative/` | 70 |
-| [ChartGPU/ChartGPU](https://github.com/chartgpu/chartgpu) | `webdev-3d-creative/` | 70 |
-| [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples) | `webdev-3d-creative/` | 70 |
-| [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo) | `webdev-3d-creative/` | 70 |
-| [Orillusion/orillusion](https://github.com/orillusion/orillusion) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

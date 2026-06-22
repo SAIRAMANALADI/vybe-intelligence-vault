@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1228 resources matched in the intelligence vault.
+Active signals: 1393 resources matched in the intelligence vault.
 Recently detected signals:
-- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [malonge/RaGOO](../ai/rag/malonge-ragoo.md) (Source: Unknown Source) - Collected 2026-06-21
+- [NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](../ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Structuration de la recherche | Université de Strasbourg](../ai/rag/structuration-de-la-recherche-universite-de-strasb.md) (Source: Unknown Source) - Collected 2026-06-22
+- [International Real-time Magnetic Observatory Network](../ai/rag/international-real-time-magnetic-observatory-netwo.md) (Source: Unknown Source) - Collected 2026-06-22
+- [List of Talks done by Ben Cartwright-Cox](../ai/rag/list-of-talks-done-by-ben-cartwright-cox.md) (Source: Unknown Source) - Collected 2026-06-22
+- [The RPKI Observatory | The RPKI Observatory](../ai/rag/the-rpki-observatory-the-rpki-observatory.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -60,105 +60,105 @@ Recently detected signals:
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 7. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 7. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive RAG Stack Guide**: Covers end-to-end RAG development with frameworks like LangChain, LlamaIndex, and deep learning models (DeepSeek, Kimi-K2), including embedding, retrieval, and ...
+
+### 8. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
 - Description: 2026  AI Agent  ·  +  +  ·  · LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG /  ·  · 0 +  +
 
-### 8. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 9. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready platform for agentic workflow development.
 
-### 9. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
+### 10. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
 - Stars: 0
 - Language: Unknown
 - Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
 
-### 10. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
+### 11. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: Arize-ai/phoenix
 
-### 11. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 12. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
 
-### 12. [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) ([GitHub](https://github.com/rokbenko/ai-playground))
+### 13. [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) ([GitHub](https://github.com/rokbenko/ai-playground))
 - Stars: 0
 - Language: Unknown
 - Description: Code from tutorials presented on the "Code AI with Rok" YouTube channel
 
-### 13. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
+### 14. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [ICLR 2026] Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning
 
-### 14. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+### 15. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
 - Stars: 0
 - Language: Unknown
 - Description: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
-### 15. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
+### 16. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 
-### 16. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
+### 17. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
 - Stars: 0
 - Language: Unknown
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 17. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 18. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-### 18. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
+### 19. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
 - Stars: 0
 - Language: Unknown
 - Description: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. /AI.
 
-### 19. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 20. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
 - Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 
-### 20. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+### 21. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - Stars: 0
 - Language: Unknown
 - Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-### 21. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 22. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
 - Stars: 0
 - Language: Unknown
 - Description: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-### 22. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
+### 23. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
 - Stars: 0
 - Language: Unknown
 - Description: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 
-### 23. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 24. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
-### 24. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 25. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 25. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
+### 26. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: VoltAgent/awesome-ai-agent-papers
-
-### 26. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal integration with models like DeepSe...
 
 ### 27. [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) ([GitHub](https://github.com/datawhalechina/hello-agents))
 - Stars: 0
@@ -240,45 +240,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: pydantic/pydantic-ai
 
-### 43. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([GitHub](https://github.com/sylphai-inc/githubchat))
-- Stars: 0
-- Language: Unknown
-- Description: - **Practical RAG Implementation**: GitHubChat enables local deployment of a Retrieval-Augmented Generation (RAG) system for querying GitHub repositories, facilitating offline interaction with repo...
-
-### 44. [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome.md) ([GitHub](https://github.com/sbalnojan/ai-chaos-awesome))
+### 43. [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome.md) ([GitHub](https://github.com/sbalnojan/ai-chaos-awesome))
 - Stars: 0
 - Language: Unknown
 - Description: Awesome list for AI chaos engineering: experiments, evaluations, guardrails & observability for LLM/RAG.
 
-### 45. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
+### 44. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
 - Stars: 0
 - Language: Unknown
 - Description: "RAG-Anything: All-in-One RAG Framework"
 
+### 45. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([GitHub](https://github.com/particlemedia/ragtruth))
+- Stars: 0
+- Language: Unknown
+- Description: - **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) systems by providing annotated exam...
+
 ### 46. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (0 stars, 66 forks)
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based)
 
 ### 47. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
 - Stars: 0
 - Language: Unknown
-- Description: - **Educational Resource**: A beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks and hosted online for interactive learning.
+- Description: - **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM applications, focusing on practical implementation via Jupyter Notebooks.
 
-### 48. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based, last updated 2025-01-08)
-
-### 49. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+### 48. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 50. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) ([GitHub](https://github.com/wgcyeo/universalrag))
+### 49. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) ([GitHub](https://github.com/wgcyeo/universalrag))
 - Stars: 0
 - Language: Unknown
 - Description: [ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
+
+### 50. [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag.md) ([GitHub](https://github.com/deep-polyu/linearrag))
+- Stars: 0
+- Language: Unknown
+- Description: [ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

@@ -37,7 +37,11 @@ selection_reason:
 
 ## Summary
 
-The Ultimate List of Python RAG Projects on GitHub 2 March 2026·13 mins AI/ML DevOps Community Python RAG LangChain LlamaIndex RAGFlow Retrieval-Augmented Generation The landscape of Retrieval-Augmented Generation (RAG) in Python has evolved signific...
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, LLM compatibility (e.g., Llama 3.1 70b instruct), and minimal-code deployment via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+
+- **LlamaIndex v0.12.0** introduces semantic chunking and 30% improved retrieval accuracy via advanced filtering, optimized for large-scale unstructured data with support for multi-format parsing (PDFs, CSVs, Word) and structured database connectors.
+
+- **RAGFlow v0.24.0*
 
 ## Use Cases
 

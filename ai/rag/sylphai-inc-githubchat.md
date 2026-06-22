@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-06-21T22:26:26.058005+05:30'
+collected_at: '2026-06-22T10:30:56.491040+05:30'
 published_at: '2026-06-18T16:16:42Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 97
 language: Python
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-06-21T22:26:26.058005+05:30'
-last_seen: '2026-06-21T22:26:26.058005+05:30'
-last_checked: '2026-06-21T22:26:26.058005+05:30'
+first_seen: '2026-06-22T10:30:56.491040+05:30'
+last_seen: '2026-06-22T10:30:56.491040+05:30'
+last_checked: '2026-06-22T10:30:56.491040+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: GitHubChat enables local deployment of a Retrieval-Augmented Generation (RAG) system for querying GitHub repositories, facilitating offline interaction with repository content.
-
-- **Python-Based Architecture**: The project is implemented in Python, leveraging libraries and frameworks compatible with RAG pipelines (e.g., vector databases, LLM integration).
-
-- **Self-Hosted Repository Interaction**: Users can download and interact with GitHub repositories locally, avoiding API rate limits while enabling customizable, private RAG workflows.
+- **Purpose**: Enables Retrieval-Augmented Generation (RAG) for interacting with GitHub repositories via natural language queries.
+- **Implementation**: Python-based system with local download and indexing of repository content for contextual chat.
+- **Metadata**: 97 stars, 20 forks, last updated 2026-06-18.
 
 ## Why It Matters
 

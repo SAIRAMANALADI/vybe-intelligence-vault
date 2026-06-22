@@ -13,13 +13,14 @@ collected_at: '2026-06-21T22:25:30.355433+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-case-against-geometric-algebra-2024
 first_seen: '2026-06-21T20:19:13.299001+05:30'
 last_seen: '2026-06-21T22:25:30.355433+05:30'
 last_checked: '2026-06-21T22:25:30.355433+05:30'
 health_score: 100
 ---
+
 
 # The case against geometric algebra (2024)
 

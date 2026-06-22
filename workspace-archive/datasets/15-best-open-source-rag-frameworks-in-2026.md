@@ -39,7 +39,11 @@ selection_reason:
 
 ## Summary
 
-Blog15 Best Open-Source RAG Frameworks in 2026Bex TuychievJan 02, 2026Introduction Last year, Llama 4 came out with 10 million tokens of context window. Naturally, people started wondering if that was the end of RAG because the models seem to crush n...
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, supporting structured document generation (Markdown/HTML), agent-based data retrieval, and deep research endpoints via API (`scrape()`, `crawl()`, `agent()` methods).
+
+- **RAGFlow**: Open-source RAG engine with deep document parsing (tables/layouts) and GraphRAG support, offering visual web UI, Elasticsearch/Infinity storage backends, and Python/REST APIs for structured RAG workflows.
+
+- **Milvus**: Cloud-native ve
 
 ## Use Cases
 

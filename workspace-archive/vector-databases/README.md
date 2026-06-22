@@ -14,8 +14,8 @@ Vector databases provide sub-millisecond similarity search across millions of em
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355) (framework - USEFUL Tier)
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (dataset - USEFUL Tier)
-- [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

@@ -10,6 +10,7 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
+*   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org)
 *   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
 *   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
 *   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)

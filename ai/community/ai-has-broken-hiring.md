@@ -13,13 +13,14 @@ collected_at: '2026-06-21T22:25:30.449231+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-has-broken-hiring
 first_seen: '2026-06-21T22:25:30.449231+05:30'
 last_seen: '2026-06-21T22:25:30.449231+05:30'
 last_checked: '2026-06-21T22:25:30.449231+05:30'
 health_score: 100
 ---
+
 
 # AI Has Broken Hiring
 

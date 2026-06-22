@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/malonge/RaGOO
-collected_at: '2026-06-21T22:26:31.019645+05:30'
+collected_at: '2026-06-22T10:34:00.519136+05:30'
 published_at: '2026-06-18T17:12:07Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2018-02-01T16:24:07Z'
 pushed_at: '2021-05-30T18:18:23Z'
 resource_id: github:malonge/ragoo
-first_seen: '2026-06-21T22:26:31.019645+05:30'
-last_seen: '2026-06-21T22:26:31.019645+05:30'
-last_checked: '2026-06-21T22:26:31.019645+05:30'
+first_seen: '2026-06-22T10:34:00.519136+05:30'
+last_seen: '2026-06-22T10:34:00.519136+05:30'
+last_checked: '2026-06-22T10:34:00.519136+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, **RagTag** ([GitHub](https://github.com/malonge/RagTag)).
-- **Functionality**: Designed for **genome assembly scaffolding** and **chromosome-scale scaffolding** in bioinformatics workflows.
+- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, [RagTag](https://github.com/malonge/RagTag).
+- **Functionality**: Designed for **genome assembly scaffolding** and **chromosome-scale assembly** in bioinformatics workflows.
 - **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Why It Matters

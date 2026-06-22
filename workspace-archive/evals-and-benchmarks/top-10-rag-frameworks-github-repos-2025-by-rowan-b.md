@@ -6,10 +6,10 @@ source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
 local_vault_path: ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - benchmark
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,7 +38,9 @@ selection_reason:
 
 ## Summary
 
-Top 10 RAG Frameworks Github Repos 2025Rowan Blackwoon10 min read·May 15, 2025--ListenShareRetrieval-Augmented Generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models.RAG frameworks combine the str...
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications, supporting multi-document stores (Elasticsearch, FAISS, SQL) and scalable pipelines for retrieval, QA, and summarization with integration for BERT, RoBERTa, and DPR models.
+
+- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, intuitive workflow design, and support for custom embedding models with vector database integr
 
 ## Use Cases
 

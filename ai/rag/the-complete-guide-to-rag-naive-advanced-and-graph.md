@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide
-published_at: '2026-06-18T23:37:46.414857+05:30'
-collected_at: '2026-06-18T23:37:46.414870+05:30'
+published_at: '2026-06-22T10:26:30.108016+05:30'
+collected_at: '2026-06-22T10:26:30.108029+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-18T23:37:46.414870+05:30'
-last_seen: '2026-06-18T23:37:46.414870+05:30'
-last_checked: '2026-06-18T23:37:46.414870+05:30'
+first_seen: '2026-06-22T10:26:30.108029+05:30'
+last_seen: '2026-06-22T10:26:30.108029+05:30'
+last_checked: '2026-06-22T10:26:30.108029+05:30'
 health_score: 100
 ---
 
@@ -39,7 +39,11 @@ health_score: 100
 
 ## Summary
 
-Mr. Latte Hello ▾AboutWork With MeContactBuild ▾ProductsProjectsWriting ▾BlogResearchLearn ▾CoursesStoreHobby ▾PaintingsKOAboutWork With MeContactProductsProjectsBlogResearchCoursesStorePaintings한국어The Complete Guide to RAG: Naive, Advanced, and Grap...
+- **RAG Architecture Evolution**: Covers four generations—Naive RAG (basic retrieval + generation), Advanced RAG (hybrid search, reranking, query transformation), Modular RAG (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—with trade-offs in complexity vs. reasoning capability.
+
+- **Core RAG Components**: Retrieval (vector/keyword search, hybrid methods), Augmentation (context injection), and Generation (LLM with constrained output), addressing limitations like hallucinations, stale knowledge, and private data access.
+
+- **Implementation Stack**: Uses frameworks like LangChain/LCEL for orchestration, vector DBs (Chroma, Qdrant) for storage, and HuggingFace embeddings (e.g., `BAAI/bge-m3`), with operational considerations for production (evaluation metrics, cost, and scalability).
 
 ## Why It Matters
 
@@ -49,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T23:37:46.414857+05:30
+- Published: 2026-06-22T10:26:30.108016+05:30
 
 ## Related Tags
 

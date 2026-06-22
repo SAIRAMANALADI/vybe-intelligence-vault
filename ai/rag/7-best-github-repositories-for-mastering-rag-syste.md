@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-published_at: '2026-06-18T23:37:03.795433+05:30'
-collected_at: '2026-06-18T23:37:03.795446+05:30'
+published_at: '2026-06-22T10:22:37.318393+05:30'
+collected_at: '2026-06-22T10:22:37.318407+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-18T23:37:03.795446+05:30'
-last_seen: '2026-06-18T23:37:03.795446+05:30'
-last_checked: '2026-06-18T23:37:03.795446+05:30'
+first_seen: '2026-06-22T10:22:37.318407+05:30'
+last_seen: '2026-06-22T10:22:37.318407+05:30'
+last_checked: '2026-06-22T10:22:37.318407+05:30'
 health_score: 100
 ---
 
@@ -36,7 +36,11 @@ health_score: 100
 
 ## Summary
 
-India's Most Futuristic AI Conference Is Back – Bigger, Sharper, Bolder d : h : m : s Get Details Free Courses Accelerator Program New GenAI Pinnacle Plus Agentic AI Pioneer DHS 2026 Login Switch Mode Logout Interview PrepCareerGenAIPrompt EnggChatGP...
+- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation; supports multi-language (Python, JS/TS) and integrates with providers like OpenAI, Hugging Face, and Azure.
+
+- **RAGFlow**: Open-source RAG engine enabling document parsing, semantic indexing, and retrieval-augmented generation with support for multi-modal inputs and customizable pipelines.
+
+- **LLMWare**: Lightweight framework for building RAG applications with pre-trained models, vector databases, and optimized retrieval mechanisms for low-latency inference.
 
 ## Why It Matters
 
@@ -46,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T23:37:03.795433+05:30
+- Published: 2026-06-22T10:22:37.318393+05:30
 
 ## Related Tags
 

@@ -1,0 +1,47 @@
+---
+title: Android Open Source Project
+category: ai/resources
+source_type: web
+source_name: Web Discovery
+source_url: https://source.android.com
+published_at: '2026-06-22T10:33:14.544149+05:30'
+collected_at: '2026-06-22T10:33:14.544161+05:30'
+tags:
+- producthunt
+- web-crawled
+status: active
+resource_id: blog:android-open-source-project
+first_seen: '2026-06-22T10:33:14.544161+05:30'
+last_seen: '2026-06-22T10:33:14.544161+05:30'
+last_checked: '2026-06-22T10:33:14.544161+05:30'
+health_score: 100
+---
+
+# Android Open Source Project
+
+## Summary
+
+- **AOSP Release Schedule**: Starting in 2026, AOSP source code will be published bi-annually (Q2 and Q4) to align with the trunk stable development model, ensuring platform stability for the ecosystem.
+
+- **Recommended Build Branch**: For AOSP contributions and builds, use the `android-latest-release` manifest branch instead of `aosp-main`, as it always references the most recent release pushed to AOSP.
+
+- **Feature Launch Flags**: Android employs feature launch flags in AOSP to ensure only tested code is executed, maintaining stability in the development branch for contributors.
+
+## Why It Matters
+
+General public resource representing technology updates, guides, or tutorials.
+
+## Details
+
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-06-22T10:33:14.544149+05:30
+
+## Related Tags
+
+- producthunt
+- web-crawled
+
+## Source
+
+Original source: https://source.android.com

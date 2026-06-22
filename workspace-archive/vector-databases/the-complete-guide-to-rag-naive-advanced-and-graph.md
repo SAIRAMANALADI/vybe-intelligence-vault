@@ -7,9 +7,9 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,8 @@ tags:
 - mistral
 - models
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -31,14 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-Mr. Latte Hello ▾AboutWork With MeContactBuild ▾ProductsProjectsWriting ▾BlogResearchLearn ▾CoursesStoreHobby ▾PaintingsKOAboutWork With MeContactProductsProjectsBlogResearchCoursesStorePaintings한국어The Complete Guide to RAG: Naive, Advanced, and Grap...
+- **RAG Architecture Evolution**: Covers four generations—Naive RAG (basic retrieval + generation), Advanced RAG (hybrid search, reranking, query transformation), Modular RAG (routing, looping, tool integration), and Graph RAG (entity-relation graph traversal)—with trade-offs in complexity vs. reasoning capability.
+
+- **Core RAG Components**: Retrieval (vector/keyword search, hybrid methods), Augmentation (context injection), and Generation (LLM with constrained output), addressing limitations l
 
 ## Use Cases
 

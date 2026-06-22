@@ -39,7 +39,9 @@ selection_reason:
 
 ## Summary
 
-RAG Tutorial 2025: Complete Course Notes — Part 1Pragati Mehra41 min read·Jan 27, 2026--ListenShareThanks to Harish Neel Sir for this amazing tutorial.Note: This is a raw word-to-word transcript of the entire video. It requires editing.VIDEO 01: Comp...
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (documents, databases) for accurate responses, avoiding context window overload; splits into **Injection Pipeline** (data ingestion, chunking, embeddings) and **Retrieval Pipeline** (query embedding, similarity search, LLM augmentation).
+
+- **Embeddings & Vector Databases**: Text is converted into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) using embedding models; vector databases (Pin
 
 ## Use Cases
 

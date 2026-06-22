@@ -9,7 +9,7 @@ local_vault_path: ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -33,14 +33,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-Top 10 RAG Frameworks on GitHub (By Stars) — January 2026florinelchis5 min read·Jan 19, 2026--ListenShareA data-driven ranking of the most popular open-source Retrieval-Augmented Generation frameworks based on GitHub stars.Why This List MattersRetrie...
+- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines.
+- **RAGFlow**: Python-based framework (70K+ stars) specializing in enterprise-grade document parsing (tables, images, PDFs) with template-based chunking and grounded citations to minimize hallucinations.
+- **Pathway**: Python/Rust framework (50K+ stars) enabling real-time data processing and incremental
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github
-published_at: '2026-06-18T23:37:38.795387+05:30'
-collected_at: '2026-06-18T23:37:38.795402+05:30'
+published_at: '2026-06-22T10:22:42.101627+05:30'
+collected_at: '2026-06-22T10:22:42.101640+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-06-18T23:37:38.795402+05:30'
-last_seen: '2026-06-18T23:37:38.795402+05:30'
-last_checked: '2026-06-18T23:37:38.795402+05:30'
+first_seen: '2026-06-22T10:22:42.101640+05:30'
+last_seen: '2026-06-22T10:22:42.101640+05:30'
+last_checked: '2026-06-22T10:22:42.101640+05:30'
 health_score: 100
 ---
 
@@ -29,7 +29,11 @@ health_score: 100
 
 ## Summary
 
-The Ultimate List of Python RAG Projects on GitHub 2 March 2026·13 mins AI/ML DevOps Community Python RAG LangChain LlamaIndex RAGFlow Retrieval-Augmented Generation The landscape of Retrieval-Augmented Generation (RAG) in Python has evolved signific...
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, LLM compatibility (e.g., Llama 3.1 70b instruct), and minimal-code deployment via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+
+- **LlamaIndex v0.12.0** introduces semantic chunking and 30% improved retrieval accuracy via advanced filtering, optimized for large-scale unstructured data with support for multi-format parsing (PDFs, CSVs, Word) and structured database connectors.
+
+- **RAGFlow v0.24.0** offers enterprise-grade multi-modal RAG with agent capabilities, cross-language queries, and integration with models like Gemini 3 Pro/GPT-5, featuring a built-in Python/JavaScript code executor for dynamic workflows.
 
 ## Why It Matters
 
@@ -39,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T23:37:38.795387+05:30
+- Published: 2026-06-22T10:22:42.101627+05:30
 
 ## Related Tags
 

@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 41 resources matched in the intelligence vault.
+Active signals: 46 resources matched in the intelligence vault.
 Recently detected signals:
-- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-21
-- [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) (Source: Unknown Source) - Collected 2026-06-21
-- [chopratejas/headroom](../ai/rag/chopratejas-headroom.md) (Source: Unknown Source) - Collected 2026-06-21
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) (Source: Unknown Source) - Collected 2026-06-21
+- [Speechify Voice Agents — Real-Time Voice AI Overview | Speechify API](../ai/rag/speechify-voice-agents-real-time-voice-ai-overview.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Gemini API | Google AI for Developers](../ai/agents/gemini-api-google-ai-for-developers.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Cloud developer documentation - Atlassian Developer](../ai/rag/cloud-developer-documentation-atlassian-developer.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Spaces · Hugging Face](../ai/rag/huggingface-docs-hub.md) (Source: Unknown Source) - Collected 2026-06-22
+- [DX Documentation](../ai/agents/dx-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -200,4 +200,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:28.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

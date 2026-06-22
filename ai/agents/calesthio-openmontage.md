@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/calesthio/openmontage
-published_at: '2026-06-21T22:25:29.974541+05:30'
-collected_at: '2026-06-21T22:25:29.974544+05:30'
+published_at: '2026-06-22T10:21:39.190986+05:30'
+collected_at: '2026-06-22T10:21:39.190990+05:30'
 tags:
 - agents
 - github-trending
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:calesthio/openmontage
 first_seen: '2026-06-21T20:19:14.644733+05:30'
-last_seen: '2026-06-21T22:25:29.974544+05:30'
-last_checked: '2026-06-21T22:25:29.974544+05:30'
+last_seen: '2026-06-22T10:21:39.190990+05:30'
+last_checked: '2026-06-22T10:21:39.190990+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-21T22:25:29.974541+05:30
+- Published: 2026-06-22T10:21:39.190986+05:30
 
 ## Related Tags
 

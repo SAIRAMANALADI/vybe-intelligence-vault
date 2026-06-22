@@ -2,7 +2,7 @@
 title: Medium Help Center
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://help.medium.com/
+source_url: https://help.medium.com/hc/en-us?source=post_page
 resource_id: blog:medium-help-center
 local_vault_path: ai/rag/medium-help-center.md
 quality_score: 70
@@ -10,8 +10,6 @@ archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -30,7 +28,9 @@ selection_reason:
 
 ## Summary
 
-Support documentation, guides, and FAQs for using Medium.
+- **Account Management**: Medium provides granular control over account settings, profile customization (e.g., URL, social media integration), and subscription management via dedicated dashboards.
+- **Content Distribution & Monetization**: Stories undergo curation for distribution tiers (Boost/General/Network), with earnings calculable via the Partner Program, which requires eligibility activation.
+- **Safety & Policies**: Enforcement of content policies (e.g., COVID-19, extremism) and user safe
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ Support documentation, guides, and FAQs for using Medium.
 
 ## Source
 
-Original source URL: https://help.medium.com/
+Original source URL: https://help.medium.com/hc/en-us?source=post_page
 
 ## Local Vault File
 

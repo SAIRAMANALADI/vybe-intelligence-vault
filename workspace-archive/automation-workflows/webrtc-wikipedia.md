@@ -1,0 +1,56 @@
+---
+title: WebRTC - Wikipedia
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://en.wikipedia.org/wiki/WebRTC
+resource_id: blog:webrtc-wikipedia
+local_vault_path: ai/rag/webrtc-wikipedia.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- hackernews
+- openai
+- rag
+- reddit
+- threejs
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# WebRTC - Wikipedia
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **WebRTC** is a free, open-source framework (C++/JS) standardized by W3C/IETF for real-time P2P communication in browsers/mobile apps, enabling audio/video/data streaming without plugins.
+- **Core APIs**: `getUserMedia` (media capture), `RTCPeerConnection` (secure P2P media transport with codec/bandwidth management), and `RTCDataChannel` (low-latency SCTP-over-DTLS data exchange).
+- **NAT Traversal**: Uses ICE/STUN/TURN protocols for peer connectivity; signaling (e.g., SIP/WebSockets) is appli
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://en.wikipedia.org/wiki/WebRTC
+
+## Local Vault File
+
+Path: [webrtc-wikipedia.md](../../ai/rag/webrtc-wikipedia.md)

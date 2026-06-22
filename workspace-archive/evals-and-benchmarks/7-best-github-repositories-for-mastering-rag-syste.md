@@ -6,9 +6,9 @@ source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - paper
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 7 Best GitHub Repositories For Mastering RAG Systems
@@ -31,15 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-India's Most Futuristic AI Conference Is Back – Bigger, Sharper, Bolder d : h : m : s Get Details Free Courses Accelerator Program New GenAI Pinnacle Plus Agentic AI Pioneer DHS 2026 Login Switch Mode Logout Interview PrepCareerGenAIPrompt EnggChatGP...
+- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation; supports multi-language (Python, JS/TS) and integrates with providers like OpenAI, Hugging Face, and Azure.
+
+- **RAGFlow**: Open-source RAG engine enabling document parsing, semantic indexing, and retrieval-augmented generation with support for multi-modal inputs and customizable pipelines.
+
+- **LLMWare**: Lightweight framework for building RAG appli
 
 ## Use Cases
 

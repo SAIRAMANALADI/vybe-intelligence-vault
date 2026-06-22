@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 281 resources matched in the intelligence vault.
+Active signals: 283 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-06-21
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-21
-- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-21
-- [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) (Source: Unknown Source) - Collected 2026-06-21
+- [Google AI Studio](../ai/resources/google-ai-studio.md) (Source: Unknown Source) - Collected 2026-06-22
+- [RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices](../ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md) (Source: Unknown Source) - Collected 2026-06-22
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-22
+- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,17 +91,12 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: langwatch/langwatch
 
-### 13. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal integration with models like DeepSe...
-
-### 14. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+### 13. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 15. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 14. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
@@ -126,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

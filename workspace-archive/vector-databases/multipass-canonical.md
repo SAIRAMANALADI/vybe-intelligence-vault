@@ -1,0 +1,53 @@
+---
+title: Multipass | Canonical
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://multipass.run
+resource_id: blog:multipass-canonical
+local_vault_path: ai/rag/multipass-canonical.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- paper
+- producthunt
+- rag
+- reddit
+- scripts
+- web-crawled
+- youtube
+selection_reason:
+- Valuable developer reference
+---
+
+# Multipass | Canonical
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **Multipass**: Canonical's lightweight VM manager for cross-platform (Windows/macOS/Linux) virtualization, enabling rapid deployment of Ubuntu instances.
+- **Ubuntu Pro**: Enterprise-grade security subscription offering 10-year ESM, FIPS compliance, CIS hardening, and confidential computing for cloud/on-prem deployments.
+- **MicroK8s/Charmed Kubernetes**: Canonical's Kubernetes distributions—MicroK8s for edge/embedded use and Charmed Kubernetes for enterprise-grade, composable deployments with
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://multipass.run
+
+## Local Vault File
+
+Path: [multipass-canonical.md](../../ai/rag/multipass-canonical.md)

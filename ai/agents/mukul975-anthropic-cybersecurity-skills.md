@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/mukul975/anthropic-cybersecurity-skills
-published_at: '2026-06-21T22:25:29.975977+05:30'
-collected_at: '2026-06-21T22:25:29.975979+05:30'
+published_at: '2026-06-22T10:21:39.192529+05:30'
+collected_at: '2026-06-22T10:21:39.192532+05:30'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:mukul975/anthropic-cybersecurity-skills
 first_seen: '2026-06-21T20:19:14.646224+05:30'
-last_seen: '2026-06-21T22:25:29.975979+05:30'
-last_checked: '2026-06-21T22:25:29.975979+05:30'
+last_seen: '2026-06-22T10:21:39.192532+05:30'
+last_checked: '2026-06-22T10:21:39.192532+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-21T22:25:29.975977+05:30
+- Published: 2026-06-22T10:21:39.192529+05:30
 
 ## Related Tags
 

@@ -18,6 +18,36 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`how-to-contribute-contributing-to-godot.md`](../../ai/rag/how-to-contribute-contributing-to-godot.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html)
+- **Category**: `ai/resources` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`installation-jupyterlab-4-6-0-documentation.md`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code)
+- **Category**: `ai/resources` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`get-source-code.md`](../../ai/resources/get-source-code.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Git](https://git-scm.com)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`git.md`](../../ai/resources/git.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`anaconda-documentation-anaconda.md`](../../ai/resources/anaconda-documentation-anaconda.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers)
+- **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`twilio-sendgrid-developer-documentation-sendgrid-d.md`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows)
 - **Category**: `ai/companies/mistral` | **Kind**: `WORKFLOW` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`product-workflows-for-work-that-runs-the-business.md`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
@@ -37,36 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-openai-ag.md`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-rea.md`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-langgraph.md`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md`](../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-07150.md`](../../ai/rag/arxiv-2606-07150.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [DN-Hypo-Pipeline: An AI-Driven Workflow for Hypothesis Generation via Large Language Models and Scientific Explanations](https://arxiv.org/abs/2606.08532)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-08532.md`](../../ai/rag/arxiv-2606-08532.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practic.md`](../../ai/rag/building-production-ready-rag-systems-best-practic.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

@@ -10,11 +10,11 @@ Scene graphs, camera constraints, shaders, layout grids, animations.
 Three.js, React Three Fiber (R3F), GSAP, WebGPU, Spline.
 
 ## Recommended Resources from the Vault
+*   [Accueil â Capitole du Libre](https://capitoledulibre.org)
+*   [Toulibre â Logiciel Libre en Occitanie](https://toulibre.org)
 *   [playcanvas/engine](https://github.com/playcanvas/engine)
 *   [ChartGPU/ChartGPU](https://github.com/chartgpu/chartgpu)
 *   [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples)
-*   [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo)
-*   [Orillusion/orillusion](https://github.com/orillusion/orillusion)
 
 ## Project Ideas
 *   Interactive 3D landing landing page using React Three Fiber and GSAP.

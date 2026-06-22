@@ -39,7 +39,11 @@ selection_reason:
 
 ## Summary
 
-Blog home Close Blog homeDeveloperGenAINews Developer GenAI Knowledge graph RAG tutorial: How to build a RAG system on a knowledge graph Tomaž Bratanič Graph ML and GenAI Research, Neo4j August 22, 2025 18 min read Building a retrieval-augmented gene...
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enable relational reasoning, improving retrieval accuracy and explainability over traditional vector-only RAG systems.
+
+- **Core Components**: Requires a Neo4j graph database (5.11+) for structured storage, LangChain for orchestration, OpenAI embeddings for vectorization, and a synthetic DevOps dataset for demonstration.
+
+- **Implementation Steps**: Setup involves Neo4
 
 ## Use Cases
 

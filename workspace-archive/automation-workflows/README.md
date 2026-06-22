@@ -10,12 +10,12 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (workflow - USEFUL Tier)
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (dataset - USEFUL Tier)
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (framework - USEFUL Tier)
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (tutorial - USEFUL Tier)
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (benchmark - USEFUL Tier)
+- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (dataset - USEFUL Tier)
+- [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (prompt - USEFUL Tier)
+- [Git](https://git-scm.com) (tutorial - USEFUL Tier)
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (tutorial - USEFUL Tier)
+- [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/n8n-io/n8n (n8n)
 - [langgenius/dify](https://github.com/langgenius/dify)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
+- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository)
 - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow)
 - [VoltAgent/awesome-ai-agent-papers](https://github.com/voltagent/awesome-ai-agent-papers)
-- [fzn0x/watchtower](https://github.com/fzn0x/watchtower)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

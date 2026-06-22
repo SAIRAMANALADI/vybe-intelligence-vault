@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/pixiv/three-vrm
-collected_at: '2026-06-21T20:19:13.244937+05:30'
-published_at: '2026-06-21T08:50:14Z'
+collected_at: '2026-06-22T10:21:37.915877+05:30'
+published_at: '2026-06-21T19:53:51Z'
 tags:
 - threejs
-stars: 1975
+stars: 1976
 language: TypeScript
 status: active
 resource_id: github:pixiv/three-vrm
 first_seen: '2026-06-15T19:09:15.513262+00:00'
-last_seen: '2026-06-21T20:19:13.244937+05:30'
-last_checked: '2026-06-21T20:19:13.244937+05:30'
+last_seen: '2026-06-22T10:21:37.915877+05:30'
+last_checked: '2026-06-22T10:21:37.915877+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pixiv
-- Stars: 1975
-- Forks: 173
+- Stars: 1976
+- Forks: 174
 - Language: TypeScript
 - Topics: 3d, avatar, gltf, threejs, vrm, webgl
-- Last Updated: 2026-06-21T08:50:14Z
+- Last Updated: 2026-06-21T19:53:51Z
 
 ## Possible Use Cases
 

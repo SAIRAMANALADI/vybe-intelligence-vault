@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 46 resources matched in the intelligence vault.
+Active signals: 73 resources matched in the intelligence vault.
 Recently detected signals:
-- [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) (Source: Unknown Source) - Collected 2026-06-21
-- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md) (Source: Unknown Source) - Collected 2026-06-21
-- [Exploring Quantization Backends in Diffusers](../ai/models/exploring-quantization-backends-in-diffusers.md) (Source: Unknown Source) - Collected 2026-06-21
+- [libdatachannel](../ai/resources/libdatachannel.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Installation — JupyterLab 4.6.0 documentation](../ai/resources/installation-jupyterlab-4-6-0-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
+- [The Jira Service Management ops REST API](../ai/resources/the-jira-service-management-ops-rest-api.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Give users admin permissions | Atlassian Support](../ai/resources/give-users-admin-permissions-atlassian-support.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,17 +75,22 @@ Recently detected signals:
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 10. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 10. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
+- Stars: 0
+- Language: Unknown
+- Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
+
+### 11. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 11. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 12. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
-### 12. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 13. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: huggingface/transformers
@@ -110,4 +115,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

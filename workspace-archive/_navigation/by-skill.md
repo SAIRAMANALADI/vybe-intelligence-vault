@@ -25,7 +25,14 @@ This index groups curated resources by target developer skills.
 
 ## API Design
 
-- *No resources indexed for this skill in the current cycle.*
+- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (Tier: `useful` | [`Local File`](../../ai/resources/fdsnws-event-web-service-interface-documentation-i.md))
+- [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (Tier: `useful` | [`Local File`](../../ai/resources/microsoft-graph-support.md))
+- [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (Tier: `useful` | [`Local File`](../../ai/resources/alerts-and-notifications-texts-and-emails-twilio.md))
+- [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (Tier: `useful` | [`Local File`](../../ai/resources/the-compass-rest-api.md))
+- [The Jira Service Management ops REST API](https://developer.atlassian.com/cloud/jira/service-desk-ops/rest/v2/intro/#jira-cloud-platform-apis) (Tier: `useful` | [`Local File`](../../ai/resources/the-jira-service-management-ops-rest-api.md))
+- [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) (Tier: `useful` | [`Local File`](../../ai/rag/cloud-developer-documentation-atlassian-developer.md))
+- [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks) (Tier: `useful` | [`Local File`](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
+- [Platform Marketplace](https://developer.atlassian.com/platform/marketplace) (Tier: `useful` | [`Local File`](../../ai/rag/platform-marketplace.md))
 
 ## API Routing
 
@@ -112,15 +119,16 @@ This index groups curated resources by target developer skills.
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15349.md))
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
+- [OpenTelemetry](https://opentelemetry.io) (Tier: `useful` | [`Local File`](../../ai/agents/opentelemetry.md))
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-16316.md))
-- [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [Damage Adaptation in Seconds for Architected Materials](https://arxiv.org/abs/2606.17394) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17394.md))
 
 ## Embedding Vectors
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
@@ -128,7 +136,6 @@ This index groups curated resources by target developer skills.
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 
 ## Full-stack AI Engineering
 
@@ -165,6 +172,7 @@ This index groups curated resources by target developer skills.
 
 ## Knowledge Graphs
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
@@ -172,29 +180,28 @@ This index groups curated resources by target developer skills.
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 
 ## LLM Evaluation
 
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
-- [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
 
 ## LLMOps Observability
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15349.md))
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
+- [OpenTelemetry](https://opentelemetry.io) (Tier: `useful` | [`Local File`](../../ai/agents/opentelemetry.md))
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-16316.md))
-- [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [Damage Adaptation in Seconds for Architected Materials](https://arxiv.org/abs/2606.17394) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17394.md))
 
 ## Local LLMs
 
@@ -299,13 +306,20 @@ This index groups curated resources by target developer skills.
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (Tier: `useful` | [`Local File`](../../ai/trending/asgeirtj-system-prompts-leaks.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
+- [Google AI Studio](https://aistudio.google.com) (Tier: `useful` | [`Local File`](../../ai/resources/google-ai-studio.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
-- [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
 
 ## REST API Integration
 
-- *No resources indexed for this skill in the current cycle.*
+- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (Tier: `useful` | [`Local File`](../../ai/resources/fdsnws-event-web-service-interface-documentation-i.md))
+- [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (Tier: `useful` | [`Local File`](../../ai/resources/microsoft-graph-support.md))
+- [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (Tier: `useful` | [`Local File`](../../ai/resources/alerts-and-notifications-texts-and-emails-twilio.md))
+- [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (Tier: `useful` | [`Local File`](../../ai/resources/the-compass-rest-api.md))
+- [The Jira Service Management ops REST API](https://developer.atlassian.com/cloud/jira/service-desk-ops/rest/v2/intro/#jira-cloud-platform-apis) (Tier: `useful` | [`Local File`](../../ai/resources/the-jira-service-management-ops-rest-api.md))
+- [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) (Tier: `useful` | [`Local File`](../../ai/rag/cloud-developer-documentation-atlassian-developer.md))
+- [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks) (Tier: `useful` | [`Local File`](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
+- [Platform Marketplace](https://developer.atlassian.com/platform/marketplace) (Tier: `useful` | [`Local File`](../../ai/rag/platform-marketplace.md))
 
 ## React Layouts
 
@@ -321,16 +335,17 @@ This index groups curated resources by target developer skills.
 ## Regression Testing
 
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
-- [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
 
 ## Reranking Pipelines
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
@@ -338,18 +353,17 @@ This index groups curated resources by target developer skills.
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 
 ## Roadmap Planning
 
 - [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (Tier: `useful` | [`Local File`](../../web-development/framer-motion/iamshaunjp-framer-motion.md))
+- [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (Tier: `useful` | [`Local File`](../../ai/rag/resources-linux-foundation-education.md))
+- [Python Packaging Authority — PyPA documentation](https://www.pypa.io/en/latest) (Tier: `useful` | [`Local File`](../../ai/resources/python-packaging-authority-pypa-documentation.md))
+- [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](https://labs.ripe.net/author/adonis_stergiopoulos/streamlining-ripestat-building-an-interface-for-the-future) (Tier: `useful` | [`Local File`](../../ai/resources/streamlining-ripestat-building-an-interface-for-th.md))
 - [Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap](https://arxiv.org/abs/2606.15091) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15091.md))
 - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](https://business-docs.co.uk/downloads/category/rag) (Tier: `useful` | [`Local File`](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
 - [Overcoming the Impedance Mismatch: A Theoretical Roadmap for Fusing Foundation Models and Knowledge Graphs](https://arxiv.org/abs/2606.15656) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15656.md))
 - [Position: Modular Memory is the Key to Continual Learning Agents](https://arxiv.org/abs/2603.01761) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-01761.md))
-- [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](https://huggingface.co/blog/prezi-case-study) (Tier: `useful` | [`Local File`](../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md))
-- [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) (Tier: `useful` | [`Local File`](../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md))
-- [RAG Status Dashboard Roadmap Template - WordLayouts](https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template) (Tier: `useful` | [`Local File`](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md))
 
 ## SaaS Architectures
 
@@ -366,12 +380,12 @@ This index groups curated resources by target developer skills.
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
+- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (Tier: `useful` | [`Local File`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md))
+- [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Tier: `useful` | [`Local File`](../../ai/resources/get-source-code.md))
+- [Git](https://git-scm.com) (Tier: `useful` | [`Local File`](../../ai/resources/git.md))
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
+- [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers) (Tier: `useful` | [`Local File`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md))
 
 ## Similarity Search
 
@@ -381,8 +395,8 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
+- [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355) (Tier: `useful` | [`Local File`](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 
 ## Software Engineering Automation
 
@@ -424,9 +438,9 @@ This index groups curated resources by target developer skills.
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (Tier: `useful` | [`Local File`](../../ai/trending/asgeirtj-system-prompts-leaks.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
+- [Google AI Studio](https://aistudio.google.com) (Tier: `useful` | [`Local File`](../../ai/resources/google-ai-studio.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
-- [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
 
 ## TailwindCSS
 
@@ -480,19 +494,19 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
+- [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355) (Tier: `useful` | [`Local File`](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 
 ## Workflow Automation
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
+- [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
+- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (Tier: `useful` | [`Local File`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md))
+- [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Tier: `useful` | [`Local File`](../../ai/resources/get-source-code.md))
+- [Git](https://git-scm.com) (Tier: `useful` | [`Local File`](../../ai/resources/git.md))
+- [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
+- [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers) (Tier: `useful` | [`Local File`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md))
 
 ---
-*Last updated: 2026-06-21 22:27 IST*
+*Last updated: 2026-06-22 11:10 IST*

@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1030 resources matched in the intelligence vault.
+Active signals: 1177 resources matched in the intelligence vault.
 Recently detected signals:
-- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) (Source: Unknown Source) - Collected 2026-06-21
-- [malonge/RaGOO](../ai/rag/malonge-ragoo.md) (Source: Unknown Source) - Collected 2026-06-21
+- [NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](../ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Org mode for GNU Emacs](../ai/resources/org-mode-for-gnu-emacs.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert | Communications Earth & Environment](../ai/rag/monsoonal-imprint-on-late-quaternary-landscapes-of.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Stack Internal - Create Profile](../ai/resources/stack-internal-create-profile.md) (Source: Unknown Source) - Collected 2026-06-22
+- [BİLGEM - Informatics and Information Security Advanced Technologies Research Center - TÜBİTAK BİLGEM](../ai/rag/bilgem-informatics-and-information-security-advanc.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -68,27 +68,27 @@ Recently detected signals:
 ### 8. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (0 stars, 66 forks)
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based)
 
-### 9. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based, last updated 2025-01-08)
-
-### 10. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
+### 9. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
 - Stars: 0
 - Language: Unknown
 - Description: A travel agent python app built with CrewAI framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions.
 
-### 11. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
+### 10. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
 - Language: Unknown
 - Description: MCP server for AI-driven security pipelines
 
-### 12. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
+### 11. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
 - Stars: 0
 - Language: Unknown
 - Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
+
+### 12. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Structure**: Python-based workflow for a RAG (Retrieval-Augmented Generation) homework assignment, hosted on GitHub Classroom.
 
 ### 13. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
@@ -105,30 +105,30 @@ Recently detected signals:
 - Language: Unknown
 - Description: A collection of DevOps skills designed for LLM-powered agents and AI workflows. This repository provides reusable capabilities, tools, prompts, and best-practice patterns to help automate infrastru...
 
-### 16. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), last updated **2025-09-16T07:09:35Z**.
-
-### 17. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+### 16. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
 - Stars: 0
 - Language: Unknown
 - Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
 
-### 18. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 17. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-### 19. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+### 18. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - Stars: 0
 - Language: Unknown
 - Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-### 20. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
+### 19. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: VoltAgent/awesome-ai-agent-papers
+
+### 20. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (Python-based)
 
 ### 21. [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md) ([GitHub](https://github.com/infiniumtek/terraform-review-agent))
 - Stars: 0
@@ -185,10 +185,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: GoogleCloudPlatform/agent-starter-pack
 
-### 32. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([GitHub](https://github.com/sylphai-inc/githubchat))
+### 32. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
 - Stars: 0
 - Language: Unknown
-- Description: - **Practical RAG Implementation**: GitHubChat enables local deployment of a Retrieval-Augmented Generation (RAG) system for querying GitHub repositories, facilitating offline interaction with repo...
+- Description: - **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM applications, focusing on practical implementation via Jupyter Notebooks.
 
 ### 33. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-21T22:26:57.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

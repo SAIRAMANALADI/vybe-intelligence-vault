@@ -6,7 +6,7 @@ source_url: https://neo4j.com/blog/developer/rag-tutorial
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -22,6 +22,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,14 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-Blog home Close Blog homeDeveloperGenAINews Developer GenAI Knowledge graph RAG tutorial: How to build a RAG system on a knowledge graph Tomaž Bratanič Graph ML and GenAI Research, Neo4j August 22, 2025 18 min read Building a retrieval-augmented gene...
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) to enable relational reasoning, improving retrieval accuracy and explainability over traditional vector-only RAG systems.
+
+- **Core Components**: Requires a Neo4j graph database (5.11+) for structured storage, LangChain for orchestration, OpenAI embeddings for vectorization, and a synthetic DevOps dataset for demonstration.
+
+- **Implementation Steps**: Setup involves Neo4
 
 ## Use Cases
 
