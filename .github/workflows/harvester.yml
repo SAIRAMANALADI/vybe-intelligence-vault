@@ -212,10 +212,10 @@ jobs:
           echo "Compiling pipeline-report.json..."
           cat <<EOF > pipeline-report.json
           {
-            "repos_found": $(cat discovery-batch.json 2>/dev/null | grep -c '"' || echo 0),
-            "repos_evaluated": $(cat harvester-report.json 2>/dev/null | jq '.repos_evaluated | length' || echo 0),
-            "avg_quality": $(cat harvester-report.json 2>/dev/null | jq '.avg_quality_score' || echo 0.0),
-            "total_cost": $(cat harvester-report.json 2>/dev/null | jq '.total_cost' || echo 0.0),
+            "repos_found": $(jq 'length' discovery-batch.json 2>/dev/null || echo 0),
+            "repos_evaluated": $(jq '.repos_evaluated | length' harvester-report.json 2>/dev/null || echo 0),
+            "avg_quality": $(jq '.avg_quality_score' harvester-report.json 2>/dev/null || echo 0.0),
+            "total_cost": $(jq '.total_cost' harvester-report.json 2>/dev/null || echo 0.0),
             "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
           }
           EOF
