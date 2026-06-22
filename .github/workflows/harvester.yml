@@ -2,7 +2,7 @@ name: LLM Vault Harvester v2.0
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
     inputs:
       topic_filter:
@@ -11,9 +11,9 @@ on:
         default: "ai-agent,mcp-server,rag-stack"
         type: string
       max_repos:
-        description: "Maximum repositories to discover (max 10)"
+        description: "Maximum repositories to discover"
         required: false
-        default: "10"
+        default: "50"
         type: string
       force_cloud_llm:
         description: "Force Cloud LLM (Mistral) instead of Local Ollama"
