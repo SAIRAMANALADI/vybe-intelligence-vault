@@ -178,6 +178,7 @@ jobs:
           git add broken-links.md
           if ! git diff --quiet && ! git diff --staged --quiet; then
             git commit -m "diagnostics: update dead-link reports [skip ci]"
+            git pull --rebase origin main || true
             git push origin main
           else
             echo "No changes in dead-link reports."
