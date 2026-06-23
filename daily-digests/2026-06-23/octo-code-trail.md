@@ -1,27 +1,27 @@
 ---
 title: "Easyman2-cpu/octo-code-trail"
 category: "Tooling"
-tech_stack: ["SQLite", "Rust", "Python", "JavaScript/TypeScript", "Multi-language Parsing", "Natural Language Processing (NLP)", "Web UI (HTML/CSS/JS)", "API Integration (OpenAI, Claude)"]
-quality_score: 9
+tech_stack: ["SQLite", "Rust", "Python", "TypeScript", "JavaScript", "Multi-language Parsing", "Natural Language Processing (NLP)", "Mermaid.js", "YAML"]
+quality_score: 8
 rag_relevance: 9
-tags: ["code analysis", "knowledge graph", "SQLite database", "multi-language support", "AI-assisted querying"]
+tags: ["code analysis", "knowledge graph", "SQLite database", "multi-language support", "audit trails"]
 source: "https://github.com/Easyman2-cpu/octo-code-trail"
-discovered_at: "2026-06-23T19:16:14Z"
+discovered_at: "2026-06-23T21:35:21Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-CodeGraph AI is a SQLite-based code analysis platform that transforms codebases into searchable, auditable knowledge graphs across 28 programming languages. It enables SQL-powered querying, dependency tracing, safety gate enforcement, and AI-assisted natural language interactions without cloud dependencies.
+CodeGraph AI is a SQLite-based code analysis platform that transforms codebases into searchable, auditable knowledge graphs across 28 programming languages. It enables SQL-powered querying, dependency tracing, safety gate enforcement, and AI-assisted natural language analysis without cloud dependencies.
 
 ## Key Features
-- SQL-powered codebase querying across 28 languages
-- Automated change-safety gates with impact scoring
-- Compliance-ready audit evidence generation
-- 224 MCP tools for dependency mapping, dead code detection, and security scanning
-- Optional AI integration for natural language code queries
+- SQL-powered code querying across 28 languages with millisecond response times
+- Automated change-safety gates for dependency impact, security, and regression analysis
+- Compliance-ready audit evidence generation with full diff context and metadata
+- 224 MCP tools for dependency mapping, dead code detection, and technical debt calculation
+- Optional AI integration (OpenAI/Claude) for natural language code queries and migration planning
 
 ## Why It Matters for RAG Builders
-CodeGraph AI provides a local-first, SQL-driven approach to code intelligence that enables RAG builders to query, analyze, and audit codebases programmatically without cloud dependencies, making it ideal for building secure, self-hosted AI systems.
+CodeGraph AI provides a local-first, SQL-powered approach to code intelligence that enables precise, auditable, and AI-augmented analysis without cloud dependencies, making it essential for RAG builders seeking deep, queryable codebase insights.
 
 ## Tech Stack Deep Dive
 ### SQLite
@@ -33,8 +33,11 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JavaScript/TypeScript
-Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Multi-language Parsing
 Automated review identified **Multi-language Parsing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -42,11 +45,11 @@ Automated review identified **Multi-language Parsing** as a key module contribut
 ### Natural Language Processing (NLP)
 Automated review identified **Natural Language Processing (NLP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web UI (HTML/CSS/JS)
-Automated review identified **Web UI (HTML/CSS/JS)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mermaid.js
+Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### API Integration (OpenAI, Claude)
-Automated review identified **API Integration (OpenAI, Claude)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

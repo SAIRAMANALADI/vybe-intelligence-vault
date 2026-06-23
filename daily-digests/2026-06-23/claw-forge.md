@@ -1,27 +1,27 @@
 ---
 title: "HellenAngeli/claw-forge"
 category: "Agent Framework"
-tech_stack: ["Rust", "YAML", "SQLite", "Redis", "OpenAPI", "Claude API", "WebAssembly", "JWT", "Docker-Free Deployment"]
+tech_stack: ["Rust", "YAML", "REST API", "SQLite", "Redis", "WebAssembly", "React (Web UI)", "JWT Authentication", "Mermaid.js (Diagrams)"]
 quality_score: 9
-rag_relevance: 9
+rag_relevance: 8
 tags: ["agent orchestration", "local AI deployment", "multi-provider support", "Rust-based", "digital sovereignty"]
 source: "https://github.com/HellenAngeli/claw-forge"
-discovered_at: "2026-06-23T19:11:07Z"
+discovered_at: "2026-06-23T21:28:31Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-thClaws is an open-source agent harness platform built in Rust for deploying, managing, and orchestrating AI agents locally with zero cloud dependencies. It supports multi-provider integration, sovereign data control, and real-time agent orchestration for autonomous systems.
+thClaws is an open-source agent harness platform built in Rust, enabling developers to deploy, manage, and orchestrate AI agents locally with zero cloud dependency. It supports multi-provider integration, sovereign AI principles, and real-time agent orchestration for autonomous systems.
 
 ## Key Features
-- Zero cloud dependency with local execution for full data control
-- Multi-provider agnosticism supporting OpenAI, Claude, and local models
-- Rust-powered runtime for high-performance agent orchestration
-- Responsive web UI and CLI for monitoring and management
-- Plugin architecture with hot-reload support for extensibility
+- Zero cloud dependency with local-first architecture
+- Multi-provider agnosticism (OpenAI, Claude, local models, custom endpoints)
+- Rust-powered runtime for high performance and memory safety
+- Plugin architecture supporting Rust, Python, and WebAssembly
+- Built-in rate limiting, cost control, and audit logging
 
 ## Why It Matters for RAG Builders
-thClaws empowers RAG builders to deploy sovereign, high-performance agent systems locally without cloud dependencies, ensuring full data privacy and control over agentic workflows.
+thClaws empowers RAG builders to deploy sovereign, high-performance agent systems locally without cloud dependencies, ensuring data privacy and control while supporting multi-provider flexibility for robust AI orchestration.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -30,26 +30,26 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 ### YAML
 Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### SQLite
 Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Redis
 Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAPI
-Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude API
-Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### WebAssembly
 Automated review identified **WebAssembly** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JWT
-Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React (Web UI)
+Automated review identified **React (Web UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker-Free Deployment
-Automated review identified **Docker-Free Deployment** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JWT Authentication
+Automated review identified **JWT Authentication** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Mermaid.js (Diagrams)
+Automated review identified **Mermaid.js (Diagrams)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

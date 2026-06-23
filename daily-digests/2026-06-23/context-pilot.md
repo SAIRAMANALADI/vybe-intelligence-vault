@@ -1,27 +1,27 @@
 ---
 title: "bigmoostache/context-pilot"
 category: "Orchestrator"
-tech_stack: ["Rust", "React", "TypeScript", "Vite", "Tauri", "Ratatuil", "Crossterm", "Meilisearch", "SQLite", "Unix sockets", "Server-Sent Events (SSE)", "REST APIs"]
+tech_stack: ["Rust", "React", "TypeScript", "Vite", "Tauri", "TUI (Ratatui, Crossterm)", "Meilisearch", "SQLite", "Unix sockets", "HTTP/REST", "Server-Sent Events (SSE)"]
 quality_score: 9
 rag_relevance: 8
-tags: ["AI coding agent", "multi-agent orchestration", "terminal IDE", "real-time collaboration", "modular architecture"]
+tags: ["AI coding agent", "multi-agent orchestration", "self-hosted", "terminal IDE", "fleet management"]
 source: "https://github.com/bigmoostache/context-pilot"
-discovered_at: "2026-06-23T19:11:27Z"
+discovered_at: "2026-06-23T21:30:17Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Context Pilot is a Rust-based AI coding agent that operates in the terminal and orchestrates fleets of agents via a web cockpit. It features a modular plugin system, durable state management, and real-time synchronization for collaborative AI-driven development.
+Context Pilot is a self-hosted AI coding agent with a terminal-based TUI and a fleet orchestration system, enabling multiple agents to collaborate, be supervised, and managed via a web cockpit. It combines Rust-based agents, a React frontend, and a backend orchestrator for scalable AI-driven development workflows.
 
 ## Key Features
-- Self-hosted terminal-based AI agent with a React web cockpit for fleet management
-- Modular plugin system with 21+ crates for extensibility (e.g., memory, git, search, OCR)
-- Three-tier durability model (oplog, state cache, stream plane) for robust state management
-- Real-time synchronization via oplog tailing and Server-Sent Events (SSE) for sub-millisecond updates
-- Fleet orchestration with per-agent realms, cost tracking, and lifecycle supervision
+- Multi-agent fleet orchestration with real-time supervision via web cockpit
+- Elm/Redux-style event loop for agent TUI with adaptive cadence (2ms to 50ms)
+- Three-tier durability model (oplog, state cache, stream plane) for resilience
+- Modular plugin system with 21+ crates for extensible functionality
+- Unix socket-based communication between agents, orchestrator, and services
 
 ## Why It Matters for RAG Builders
-It provides a scalable, self-hosted platform for orchestrating multiple AI agents with real-time collaboration and durable state management, essential for building advanced RAG systems.
+It provides a scalable, self-hosted platform for managing multiple AI coding agents with real-time collaboration, supervision, and persistent state, critical for enterprise-grade AI development workflows.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -39,11 +39,8 @@ Automated review identified **Vite** as a key module contributing to infrastruct
 ### Tauri
 Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ratatuil
-Automated review identified **Ratatuil** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Crossterm
-Automated review identified **Crossterm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TUI (Ratatui, Crossterm)
+Automated review identified **TUI (Ratatui, Crossterm)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Meilisearch
 Automated review identified **Meilisearch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -54,11 +51,11 @@ Automated review identified **SQLite** as a key module contributing to infrastru
 ### Unix sockets
 Automated review identified **Unix sockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### HTTP/REST
+Automated review identified **HTTP/REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Server-Sent Events (SSE)
 Automated review identified **Server-Sent Events (SSE)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### REST APIs
-Automated review identified **REST APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

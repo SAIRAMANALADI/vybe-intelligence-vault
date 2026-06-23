@@ -1,27 +1,27 @@
 ---
 title: "norrietaylor/distillery"
-category: "Tooling"
-tech_stack: ["Python", "DuckDB", "FastEmbed", "Claude Code", "MCP (Model Context Protocol)", "GitHub OAuth", "Jina AI", "OpenAI API", "uv (package manager)", "FastAPI"]
+category: "Orchestrator"
+tech_stack: ["Python", "DuckDB", "FastEmbed", "Claude Code", "Jina AI", "OpenAI", "GitHub API", "HTTP/REST", "Vector Embeddings", "Claude MCP"]
 quality_score: 9
-rag_relevance: 8
-tags: ["knowledge management", "vector database", "team collaboration", "RAG augmentation", "local-first"]
+rag_relevance: 9
+tags: ["knowledge management", "vector database", "team collaboration", "RAG", "Claude Code"]
 source: "https://github.com/norrietaylor/distillery"
-discovered_at: "2026-06-23T16:32:35Z"
+discovered_at: "2026-06-23T21:36:56Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Distillery is a team knowledge base plugin for Claude Code that captures, classifies, and surfaces conversational knowledge through natural language commands. It transforms raw meeting notes, decisions, and documentation into searchable vector embeddings stored in DuckDB, enabling teams to retrieve and synthesize insights effortlessly.
+Distillery is a team knowledge base accessed via Claude Code skills that captures, classifies, and synthesizes team knowledge into searchable vector embeddings stored in DuckDB. It enables natural language retrieval and conversational interaction with team insights, meetings, and documentation.
 
 ## Key Features
-- 14 conversational slash commands for capturing, searching, and synthesizing team knowledge
-- Local-first deployment with DuckDB and FastEmbed for offline embeddings (no API key required)
-- Semantic search with provenance and multi-entry synthesis for contextual recall
-- GitHub integration for syncing issues, PRs, and monitored feeds into the knowledge base
-- Hosted demo server for evaluation and team deployment options
+- 14 Claude Code slash commands for capturing, classifying, and retrieving team knowledge
+- Local-first deployment with DuckDB and FastEmbed for offline embeddings
+- Semantic search with provenance and multi-entry synthesis
+- GitHub integration for syncing issues, PRs, and repository activity
+- Ambient feed monitoring and team activity dashboards
 
 ## Why It Matters for RAG Builders
-Distillery automates the capture and retrieval of team knowledge, reducing information loss and enabling RAG systems to leverage high-quality, contextualized data from daily interactions.
+Distillery automates the capture and retrieval of team knowledge, reducing information loss and enabling RAG systems to access high-quality, context-rich data directly from team interactions and artifacts.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,23 +36,23 @@ Automated review identified **FastEmbed** as a key module contributing to infras
 ### Claude Code
 Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GitHub OAuth
-Automated review identified **GitHub OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Jina AI
 Automated review identified **Jina AI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAI
+Automated review identified **OpenAI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### uv (package manager)
-Automated review identified **uv (package manager)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GitHub API
+Automated review identified **GitHub API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### HTTP/REST
+Automated review identified **HTTP/REST** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Vector Embeddings
+Automated review identified **Vector Embeddings** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude MCP
+Automated review identified **Claude MCP** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,52 +1,67 @@
 ---
 title: "archestra-ai/archestra"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Docker", "Kubernetes", "PostgreSQL", "MCP (Model Context Protocol)", "A2A Protocol", "Terraform", "Helm"]
+tech_stack: ["TypeScript", "Kubernetes", "Docker", "OpenTelemetry", "Prometheus", "Terraform", "Helm", "OAuth", "SSO", "RBAC", "LLM Gateway", "MCP Gateway", "A2A Gateway"]
 quality_score: 9
-rag_relevance: 10
-tags: ["MCP orchestrator", "AI security", "RAG platform", "enterprise AI", "prompt injection prevention"]
+rag_relevance: 8
+tags: ["enterprise AI", "MCP orchestrator", "agent framework", "RAG platform", "governance"]
 source: "https://github.com/archestra-ai/archestra"
-discovered_at: "2026-06-23T16:32:51Z"
+discovered_at: "2026-06-23T21:36:32Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Archestra is an MCP-native secure AI platform designed to centralize and secure AI tooling, observability, and governance for enterprises. It provides a unified orchestrator for MCP servers, built-in RAG knowledge bases, and robust security guardrails to prevent data exfiltration and prompt injection attacks.
+Archestra.AI is an all-in-one enterprise AI platform designed to simplify the deployment and management of AI agents, MCP servers, and RAG systems with built-in governance, security, observability, and cost tracking features.
 
 ## Key Features
-- Centralized MCP server orchestration with Kubernetes-native deployment
-- Built-in RAG knowledge base eliminating the need for external vector databases
-- Non-probabilistic security engine to prevent data exfiltration and prompt injection attacks
-- Cost monitoring, limits, and dynamic model optimization reducing AI expenses up to 96%
-- Comprehensive observability with metrics, traces, and logs for AI usage tracking
+- Unified AI platform with built-in LLM and MCP gateways for seamless integration
+- Enterprise-grade security with SSO, RBAC, and secrets management
+- Advanced observability via OpenTelemetry, Prometheus, and cost tracking
+- Kubernetes-native deployment with Helm and Terraform support
+- Deterministic guardrails, dual LLM protections, and sandboxed agent execution
 
 ## Why It Matters for RAG Builders
-Archestra provides a critical security and governance layer for RAG builders, ensuring safe and cost-effective deployment of MCP-based AI systems at enterprise scale.
+Archestra.AI provides a production-ready, end-to-end platform for deploying and managing RAG and AI agents at scale with enterprise-grade governance and security.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Kubernetes
 Automated review identified **Kubernetes** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PostgreSQL
-Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenTelemetry
+Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### A2A Protocol
-Automated review identified **A2A Protocol** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Prometheus
+Automated review identified **Prometheus** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Terraform
 Automated review identified **Terraform** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Helm
 Automated review identified **Helm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SSO
+Automated review identified **SSO** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### RBAC
+Automated review identified **RBAC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### LLM Gateway
+Automated review identified **LLM Gateway** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MCP Gateway
+Automated review identified **MCP Gateway** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### A2A Gateway
+Automated review identified **A2A Gateway** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

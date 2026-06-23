@@ -1,12 +1,12 @@
 ---
 title: "rush86999/atom"
 category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PostgreSQL", "SQLite", "Docker", "LLM (OpenAI, Anthropic, MiniMax)", "GraphRAG", "Event Bus", "FastAPI", "Next.js"]
+tech_stack: ["Python", "FastAPI", "PostgreSQL", "SQLite", "Docker", "React", "TypeScript", "GraphRAG", "LLM Integration", "Event-Driven Architecture"]
 quality_score: 9
 rag_relevance: 8
-tags: ["multi-agent systems", "self-hosted AI", "workflow automation", "LLM orchestration", "knowledge graph"]
+tags: ["AI Agents", "Self-Hosted", "Multi-Agent Orchestration", "Workflow Automation", "Knowledge Graph"]
 source: "https://github.com/rush86999/atom"
-discovered_at: "2026-06-23T10:34:39Z"
+discovered_at: "2026-06-23T21:31:41Z"
 evaluated_by: "mistral-small-latest"
 ---
 
@@ -14,14 +14,14 @@ evaluated_by: "mistral-small-latest"
 Atom is an open-source, self-hosted AI agent platform designed for business automation and multi-agent workflows. It enables users to automate complex tasks via natural language commands while maintaining full data privacy within their infrastructure.
 
 ## Key Features
-- Multi-agent governance with 4-tier maturity levels (Student → Autonomous)
-- Episodic memory and self-evolution for continuous learning
-- 46+ business integrations (Slack, Gmail, HubSpot, Salesforce, etc.)
-- GraphRAG for recursive knowledge retrieval and dynamic graph construction
-- Zero-trust federation identity with DID and Verifiable Credentials
+- Multi-agent system with specialty agents for business automation (CRM, support, dev tools)
+- Episodic memory with 4-tier maturity system (Student → Autonomous) for agent learning
+- GraphRAG integration for recursive knowledge retrieval and dynamic graph construction
+- Voice interface and real-time guidance via interactive canvas presentations
+- Zero-trust federation identity and enhanced security with supply chain protection
 
 ## Why It Matters for RAG Builders
-Atom provides a robust, self-hosted framework for building and deploying multi-agent AI systems with advanced governance, memory, and integration capabilities, making it essential for RAG builders seeking scalable and secure automation solutions.
+Atom provides a robust, self-hosted framework for building and orchestrating AI agents with advanced memory, governance, and knowledge graph capabilities, making it essential for developers prioritizing data privacy and complex workflow automation.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -39,20 +39,20 @@ Automated review identified **SQLite** as a key module contributing to infrastru
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM (OpenAI, Anthropic, MiniMax)
-Automated review identified **LLM (OpenAI, Anthropic, MiniMax)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### GraphRAG
 Automated review identified **GraphRAG** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Event Bus
-Automated review identified **Event Bus** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM Integration
+Automated review identified **LLM Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Next.js
-Automated review identified **Next.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Event-Driven Architecture
+Automated review identified **Event-Driven Architecture** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

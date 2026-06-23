@@ -1,27 +1,27 @@
 ---
 title: "ruvnet/agent-harness-generator"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "React (for Studio UI)", "Model Routing (custom logic)"]
+tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "Witness (provenance/signing)", "React (Studio UI)"]
 quality_score: 9
 rag_relevance: 8
-tags: ["agent scaffolding", "repo-aware AI", "model routing", "MCP integration", "self-improving harness"]
+tags: ["agent harness", "MCP server", "model routing", "self-improving", "provenance"]
 source: "https://github.com/ruvnet/agent-harness-generator"
-discovered_at: "2026-06-23T13:50:41Z"
+discovered_at: "2026-06-23T21:33:05Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MetaHarness is a CLI and library that generates custom AI agent harnesses tailored to any repository, enabling users to scaffold, optimize, and deploy repo-specific agents with minimal setup. It acts as a factory for agent frameworks rather than a fixed framework itself.
+MetaHarness is a CLI tool and library that generates custom AI agent harnesses for any repository, enabling users to create repo-aware agents, MCP servers, and governance policies. It supports multiple agent hosts and provides features like model routing, self-improvement loops, and witness-signed provenance.
 
 ## Key Features
-- Generates custom AI agent harnesses from any GitHub repo or blank slate in under 60 seconds
-- Supports 9+ agent hosts (Claude Code, OpenAI Codex, Hermes, RVM, etc.) with default-deny MCP policies
-- Includes Darwin Mode for self-improving harnesses via local sandboxed evolution
-- Provides model routing to optimize cost/performance (e.g., `@metaharness/router`)
-- Enables publishing harnesses as branded npm packages for team-wide use
+- Generates repo-aware AI agent harnesses with MCP servers and governance policies
+- Supports 9 agent hosts including Claude Code, OpenAI Codex, and GitHub Actions
+- Includes model routing for cost optimization and performance tuning
+- Enables self-improvement via Darwin Mode for harness evolution
+- Provides witness-signed provenance and release verification
 
 ## Why It Matters for RAG Builders
-It streamlines the creation of repo-specific, cost-optimized AI agent harnesses that can be tailored, evolved, and deployed as reusable npm packages, reducing setup time and operational overhead for RAG builders.
+It streamlines the creation of custom, repo-specific AI agent harnesses, reducing setup time and cost while ensuring security and governance for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,11 +42,11 @@ Automated review identified **npm** as a key module contributing to infrastructu
 ### GitHub Actions
 Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React (for Studio UI)
-Automated review identified **React (for Studio UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Witness (provenance/signing)
+Automated review identified **Witness (provenance/signing)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Model Routing (custom logic)
-Automated review identified **Model Routing (custom logic)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React (Studio UI)
+Automated review identified **React (Studio UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
