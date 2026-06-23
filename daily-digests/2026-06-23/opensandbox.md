@@ -1,27 +1,27 @@
 ---
 title: "opensandbox-group/OpenSandbox"
 category: "Orchestrator"
-tech_stack: ["Python", "Java/Kotlin", "JavaScript/TypeScript", "C#/.NET", "Go", "Docker", "Kubernetes", "FastAPI", "gVisor", "Kata Containers", "Firecracker", "MCP (Model Context Protocol)"]
+tech_stack: ["Python", "Java/Kotlin", "JavaScript/TypeScript", "C#/.NET", "Go", "Docker", "Kubernetes", "FastAPI", "gVisor", "Kata Containers", "Firecracker", "OpenAPI"]
 quality_score: 9
 rag_relevance: 8
-tags: ["sandbox runtime", "multi-language SDKs", "AI agent isolation", "Kubernetes orchestration", "secure execution"]
+tags: ["sandboxing", "AI execution", "multi-language SDKs", "container orchestration", "secure isolation"]
 source: "https://github.com/opensandbox-group/OpenSandbox"
-discovered_at: "2026-06-23T06:49:19Z"
+discovered_at: "2026-06-23T08:58:17Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OpenSandbox is a secure, extensible sandbox runtime platform designed for AI applications, providing multi-language SDKs, unified APIs, and Docker/Kubernetes runtimes for coding agents, GUI automation, and RL training workloads.
+OpenSandbox is a secure, extensible sandbox platform designed for AI applications, providing multi-language SDKs, unified APIs, and Docker/Kubernetes runtimes. It enables safe execution of coding agents, GUI automation, AI code execution, and reinforcement learning workloads with strong isolation and network policies.
 
 ## Key Features
 - Multi-language SDKs (Python, Java, JS/TS, C#, Go) for seamless integration
 - Unified sandbox lifecycle and execution APIs with protocol support
-- Docker and Kubernetes runtime backends with high-performance scheduling
-- Built-in secure isolation using gVisor, Kata Containers, and Firecracker
-- Network policy controls (ingress gateway, egress filtering) and credential vault
+- Docker and Kubernetes runtime support with high-performance scheduling
+- Built-in secure isolation via gVisor, Kata Containers, and Firecracker microVMs
+- Network policy with ingress gateway and per-sandbox egress controls
 
 ## Why It Matters for RAG Builders
-OpenSandbox provides a secure, scalable foundation for isolating and orchestrating AI workloads, critical for building robust RAG systems and agent frameworks.
+OpenSandbox provides a secure, scalable foundation for executing untrusted AI workloads, critical for building robust RAG systems that require isolated code execution and resource management.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -57,8 +57,8 @@ Automated review identified **Kata Containers** as a key module contributing to 
 ### Firecracker
 Automated review identified **Firecracker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAPI
+Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

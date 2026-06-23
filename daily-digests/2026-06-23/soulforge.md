@@ -1,27 +1,27 @@
 ---
 title: "SungYongMOON/soulforge"
 category: "Orchestrator"
-tech_stack: ["JavaScript", "Git", "Mermaid", "YAML", "Node.js", "GitHub", "Ontology Modeling"]
+tech_stack: ["JavaScript", "Git", "Mermaid.js", "YAML", "Node.js", "GitHub", "Ontology Modeling"]
 quality_score: 8
 rag_relevance: 9
-tags: ["agent architecture", "workflow orchestration", "project materialization", "canonical roots", "cross-project operations"]
+tags: ["AI agent architecture", "workflow orchestration", "project materialization", "canonical roots", "cross-project operations"]
 source: "https://github.com/SungYongMOON/soulforge"
-discovered_at: "2026-06-23T06:49:49Z"
+discovered_at: "2026-06-23T08:56:38Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Soulforge is a design repository that establishes canonical root structures and project-local materialization policies for managing agent-based architectures, workflows, and cross-project operations in AI engineering environments.
+Soulforge is a design repository that establishes canonical root structures and project-local materialization policies for managing AI agent architectures, workflows, and cross-project operations. It provides a structured framework for organizing agent units, missions, registries, and reusable workflows across multiple workspaces.
 
 ## Key Features
-- Defines seven canonical root structures for agent, workflow, mission, and cross-project operations management
-- Enforces project-local materialization policies with strict owner boundaries and public/private tracking
-- Provides a structured ontology model for entity/relationship management in AI agent systems
-- Includes cross-project state management via `guild_hall` with local-only constraints
-- Offers comprehensive documentation and validation workflows for agent execution contracts and post-development reviews
+- Seven canonical root structures (.registry, .unit, .workflow, .party, .mission, guild_hall, _workspaces) for organizing AI agent systems
+- Project-local materialization policies with shared and PC-local workspace separation
+- Cross-project operations management via guild_hall for state, automation, and monitoring
+- Ontology-based modeling for agent execution contracts, skills, and knowledge packs
+- Comprehensive documentation and governance policies for public/private state boundaries
 
 ## Why It Matters for RAG Builders
-Soulforge provides a rigorous framework for structuring AI agent systems, ensuring consistency, scalability, and clear ownership boundaries essential for building reliable RAG and agent-based applications.
+Soulforge provides a rigorous framework for structuring AI agent systems and workflows, ensuring scalability, governance, and reproducibility in complex RAG and agentic AI deployments.
 
 ## Tech Stack Deep Dive
 ### JavaScript
@@ -30,8 +30,8 @@ Automated review identified **JavaScript** as a key module contributing to infra
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Mermaid
-Automated review identified **Mermaid** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Mermaid.js
+Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### YAML
 Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
