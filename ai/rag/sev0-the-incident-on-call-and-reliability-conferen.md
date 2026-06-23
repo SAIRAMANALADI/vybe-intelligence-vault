@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sev0.com
-published_at: '2026-06-23T01:12:18.718905+05:30'
-collected_at: '2026-06-23T01:12:18.718915+05:30'
+published_at: '2026-06-23T09:55:25.245156+05:30'
+collected_at: '2026-06-23T09:55:25.245162+05:30'
 tags:
 - anthropic
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:sev0-the-incident-on-call-and-reliability-conferen
-first_seen: '2026-06-23T01:12:18.718915+05:30'
-last_seen: '2026-06-23T01:12:18.718915+05:30'
-last_checked: '2026-06-23T01:12:18.718915+05:30'
+first_seen: '2026-06-23T09:55:25.245162+05:30'
+last_seen: '2026-06-23T09:55:25.245162+05:30'
+last_checked: '2026-06-23T09:55:25.245162+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Conference Overview**: SEV0 is a practitioner-focused reliability conference held in San Francisco (Oct 27, 2026) and London (Oct 20, 2026), featuring sessions on incident response, SRE practices, and scalable reliability engineering from industry leaders.
+- **Conference Overview**: SEV0 is a practitioner-focused reliability conference held in San Francisco (Oct 27, 2026) and London (Oct 20, 2026), featuring sessions on incident response, SRE practices, and scalable reliability engineering with no vendor pitches.
 
-- **Technical Content**: Sessions include topics like AI-driven incident management (e.g., "Humans, machines, and the future of incident response"), cross-system debugging ("Boundary Cases"), and migration strategies (e.g., Zendesk’s transition to incident.io).
+- **Key Speakers & Topics**: Past sessions included keynotes on AI-driven incident management (Stephen Whitworth, incident.io), human factors in incidents (Molly Struve, Netflix), and technical deep dives like cross-system debugging (Sara Hartse, Render) and pre-incident strategies (Derek Brown, Plaid).
 
-- **Target Audience & Format**: Exclusively for senior SREs, engineering leaders, and CTOs; no vendor pitches—focused on practical, real-world reliability challenges with speakers from companies like Netflix, OpenAI, and NVIDIA.
+- **Target Audience & Pricing**: Targets senior SREs, engineering leaders, and CTOs from top-tier companies (e.g., Netflix, OpenAI, Airbnb); early-bird pricing is $199 (SF) / £150 (LDN) through September.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:12:18.718905+05:30
+- Published: 2026-06-23T09:55:25.245156+05:30
 
 ## Related Tags
 

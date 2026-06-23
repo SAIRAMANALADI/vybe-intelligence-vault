@@ -8,14 +8,14 @@ local_vault_path: ai/rag/introduction-to-cloud-tpu-google-cloud-documentati.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Introduction to Cloud TPU | Google Cloud Documentation
@@ -24,16 +24,15 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **TPU Architecture & Compilation**: Cloud TPUs are Google's ASICs optimized for large-scale matrix operations in ML workloads, featuring on-chip HBM and XLA compiler support for TPU machine code generation, with TPU VMs hosting the XLA compiler and host machine execution.
-- **Workload Suitability**: TPUs excel in matrix-dominated, large-batch models (e.g., weeks-long training) but are unsuitable for high-precision arithmetic, frequent branching, or custom ops in the main training loop.
-- **Bes
+- **TPU Architecture & Optimization**: TPUs are Google's ASICs optimized for large matrix operations in ML workloads, featuring on-chip HBM for larger models/batch sizes; XLA compiler converts ML framework graphs into TPU machine code, with the rest running on the host machine.
+- **Workload Suitability**: TPUs excel in matrix-heavy, large-batch models (e.g., weeks-long training) but fail for dynamic shapes, high-precision arithmetic, or custom ops in training loops; GPUs/CPUs are better for flex
 
 ## Use Cases
 

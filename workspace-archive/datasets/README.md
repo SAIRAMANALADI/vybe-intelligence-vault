@@ -20,12 +20,11 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
-- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
 - [Arize-ai/phoenix](https://github.com/arize-ai/phoenix)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
 - [glgh/awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets)
-- [malonge/RaGOO](https://github.com/malonge/RaGOO)
+- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
 
 ## Best Learning Resources
 
@@ -43,4 +42,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-23 03:04 IST*
+*Last updated: 2026-06-23 11:51 IST*

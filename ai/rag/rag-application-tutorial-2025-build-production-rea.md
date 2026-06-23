@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
-published_at: '2026-06-23T01:05:44.681914+05:30'
-collected_at: '2026-06-23T01:05:44.681928+05:30'
+published_at: '2026-06-23T09:54:22.110892+05:30'
+collected_at: '2026-06-23T09:54:22.110908+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-23T01:05:44.681928+05:30'
-last_seen: '2026-06-23T01:05:44.681928+05:30'
-last_checked: '2026-06-23T01:05:44.681928+05:30'
+first_seen: '2026-06-23T09:54:22.110908+05:30'
+last_seen: '2026-06-23T09:54:22.110908+05:30'
+last_checked: '2026-06-23T09:54:22.110908+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual responses.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), embedding optimization (e.g., fine-tuning models like `sentence-transformers`), and vector database integration (e.g., Supabase for scalable retrieval).
 
-- **Production Optimizations**: Key strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, and load balancing across multiple models to reduce latency and improve response consistency.
+- **Production Optimization Techniques**: Advanced retrieval methods such as hybrid search (combining dense/sparse embeddings), query expansion/rewriting, and caching strategies to reduce latency; deployment via Cloudflare Workers for edge computing.
 
-- **Monitoring & Scaling**: Implementation requires observability tools (e.g., Sentry), token-efficient embeddings, and deployment via edge workers (e.g., Cloudflare) with multi-modal support (text/PDF/images) for scalability.
+- **Monitoring & Cost Control**: Integration with observability tools (e.g., Sentry for error tracking) and performance benchmarks (e.g., token usage optimization, latency breakdown) to balance cost vs. performance trade-offs in large-scale RAG systems.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:05:44.681914+05:30
+- Published: 2026-06-23T09:54:22.110892+05:30
 
 ## Related Tags
 

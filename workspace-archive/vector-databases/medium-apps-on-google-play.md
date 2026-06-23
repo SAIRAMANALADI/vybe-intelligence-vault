@@ -2,16 +2,14 @@
 title: Medium - Apps on Google Play
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar
+source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 resource_id: blog:medium-apps-on-google-play
 local_vault_path: ai/rag/medium-apps-on-google-play.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
-tags:
-- web-crawled
 selection_reason:
 - Valuable developer reference
 ---
@@ -22,13 +20,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-Medium reader application on Google Play Store.
+- **Platform Overview**: Medium is a content platform offering ad-free, long-form articles from expert writers, with features like highlighting, bookmarking, personalized recommendations, and audio playback; supports cross-device sync and dark/light modes.
+
+- **Subscription Model**: Free tier with limited access; $4.99/month or $49.99/year membership unlocks full content; auto-renewing subscriptions managed via Google Play, with data encrypted in transit and no third-party sharing.
+
+- **Data & P
 
 ## Use Cases
 
@@ -38,7 +40,7 @@ Medium reader application on Google Play Store.
 
 ## Source
 
-Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar
+Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 
 ## Local Vault File
 

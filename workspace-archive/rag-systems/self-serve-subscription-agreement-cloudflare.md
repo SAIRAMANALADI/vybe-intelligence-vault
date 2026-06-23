@@ -1,0 +1,56 @@
+---
+title: Self-Serve Subscription Agreement | Cloudflare
+archive_category: rag-systems
+source_category: ai/rag
+source_url: https://www.cloudflare.com/terms
+resource_id: blog:self-serve-subscription-agreement-cloudflare
+local_vault_path: ai/rag/self-serve-subscription-agreement-cloudflare.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- agents
+- benchmark
+- hackernews
+- rag
+- web-crawled
+- youtube
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Self-Serve Subscription Agreement | Cloudflare
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Arbitration & Class Action Waiver**: Mandates arbitration for disputes and prohibits class actions; requires explicit acceptance for legal enforcement.
+
+- **Service Restrictions & Compliance**: Prohibits unauthorized third-party access, reverse engineering, benchmarking without disclosure, and use of Services for VPN/proxy or PHI without consent.
+
+- **Customer Content & Liability**: Grants Cloudflare a worldwide, sublicensable license to Customer Content for service provision; user retains o
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://www.cloudflare.com/terms
+
+## Local Vault File
+
+Path: [self-serve-subscription-agreement-cloudflare.md](../../ai/rag/self-serve-subscription-agreement-cloudflare.md)

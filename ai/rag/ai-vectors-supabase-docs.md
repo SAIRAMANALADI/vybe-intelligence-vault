@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-06-22T11:13:32.232392+05:30'
-collected_at: '2026-06-22T11:13:32.232405+05:30'
+published_at: '2026-06-23T09:54:57.817342+05:30'
+collected_at: '2026-06-23T09:54:57.817357+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-06-22T11:13:32.232405+05:30'
-last_seen: '2026-06-22T11:13:32.232405+05:30'
-last_checked: '2026-06-22T11:13:32.232405+05:30'
+first_seen: '2026-06-23T09:54:57.817357+05:30'
+last_seen: '2026-06-23T09:54:57.817357+05:30'
+last_checked: '2026-06-23T09:54:57.817357+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Supabase integrates with **pgvector** in Postgres to provide a **scalable vector store** for AI applications, supporting storage, indexing, and querying of vector embeddings via client libraries and Edge Functions.
+- **Supabase integrates vector search capabilities directly into PostgreSQL via `pgvector`**, enabling storage, indexing, and querying of vector embeddings at scale without external vector databases.
 
-- Supports **semantic, keyword, and hybrid search** workflows, with examples for **headless vector search, image search (OpenAI CLIP), and Hugging Face inference**.
+- **Supports hybrid search workflows** combining semantic, keyword, and hybrid search methods for enhanced retrieval performance in AI applications.
 
-- Offers **integrations with OpenAI, Hugging Face, LangChain, and LlamaIndex**, with case studies demonstrating migrations from AWS RDS and Pinecone to Supabase for vector embeddings.
+- **Provides client libraries and Edge Function integrations** for open-source (e.g., Hugging Face) and proprietary (e.g., OpenAI) embedding models, with case studies demonstrating migrations from AWS RDS and Pinecone to Supabase for improved efficiency and GDPR compliance.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:13:32.232392+05:30
+- Published: 2026-06-23T09:54:57.817342+05:30
 
 ## Related Tags
 

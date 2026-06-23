@@ -16,7 +16,6 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Chrome 150 Beta** introduces new features preview, including upcoming Web Platform APIs and performance optimizations, while **Chrome 149 Stable** adds CSS gap decorations, WebSocket bfcache handling, and `Intl.Locale` variants support.
-
-- **Chrome DevTools** provides real-time debugging, profiling, and editing capabilities, while **Puppeteer** enables automated Chromium control for testing and scraping workflows.
-
-- **Chrome Extensions** leverage HTML/CSS/JS for browser customization, and t
+- **Chrome 150 Beta & 149 Stable Updates**: Introduces CSS gap decorations, WebSocket disconnection for bfcache, and Intl.Locale variants in Chrome 149 stable; Chrome 150 beta previews upcoming features.
+- **Chrome DevTools & Automation**: Chrome DevTools for debugging, Puppeteer for browser automation, and ChromeDriver for Selenium-based testing.
+- **AI & Web Platform Enhancements**: New AI-powered capabilities (e.g., auto_awesome), Baseline standardization for web features, and Web App Manifes
 
 ## Use Cases
 

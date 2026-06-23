@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pytorch/pytorch
 published_at: '2026-06-18T00:41:17Z'
-collected_at: '2026-06-23T01:03:50.229097+05:30'
+collected_at: '2026-06-23T09:51:02.292259+05:30'
 tags:
 - github-release
 - pytorch-pytorch
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:pytorch/pytorch
 first_seen: '2026-06-16T13:57:13.028028+05:30'
-last_seen: '2026-06-23T01:03:50.229097+05:30'
-last_checked: '2026-06-23T01:03:50.229097+05:30'
+last_seen: '2026-06-23T09:51:02.292259+05:30'
+last_checked: '2026-06-23T09:51:02.292259+05:30'
 health_score: 100
 ---
 

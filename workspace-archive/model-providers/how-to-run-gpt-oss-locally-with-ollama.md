@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Requirements**: `gpt-oss-20b` requires ≥16GB VRAM (or unified memory) for consumer hardware, while `gpt-oss-120b` demands ≥60GB VRAM; both models are shipped in MXFP4 quantization and support CPU offloading at reduced performance.
+- **Model Specifications**: `gpt-oss-20b` requires ≥16GB VRAM (or unified memory) and is optimized for consumer GPUs/Apple Silicon; `gpt-oss-120b` needs ≥60GB VRAM (or unified memory), ideal for multi-GPU/workstations. Both models ship MXFP4 quantized with optional CPU offloading (slower performance).
 
-- **Ollama Integration**: Models are deployed via `ollama pull/push` commands, with chat and API endpoints (`http://localhost:11434/v1`) supporting OpenAI-compatible Chat Completions and function calling (tools) for local inference.
-
-- **SDK/Proxy Support**:
+- **Ollama Integration**: Supports local deployment via `ollama pull/pull` (e.g., `gpt-oss:20b`), chat/terminal interaction (`ollama run`), and a Chat Completions-compatible API (OpenAI SDK-compat
 
 ## Use Cases
 

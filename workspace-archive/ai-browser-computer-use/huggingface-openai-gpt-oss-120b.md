@@ -8,10 +8,11 @@ local_vault_path: ai/agents/huggingface-openai-gpt-oss-120b.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - openai
 - web-crawled
 selection_reason:
@@ -24,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Open-weight models** optimized for **reasoning, agentic tasks, and developer versatility**.
-- **Collection includes 2 models**, updated as of **August 7, 2025**.
-- **Hugging Face-hosted**, facilitating accessibility for AI research and deployment.
+- **Open-weight models** optimized for advanced reasoning, agentic tasks, and developer versatility.
+- **2 models** available in the collection, updated as of **Aug 7, 2025**.
+- **446** total items in the collection (likely including variants, benchmarks, or documentation).
 
 ## Use Cases
 

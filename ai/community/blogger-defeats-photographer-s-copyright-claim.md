@@ -13,13 +13,14 @@ collected_at: '2026-06-23T01:03:50.289106+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:blogger-defeats-photographer-s-copyright-claim
 first_seen: '2026-06-23T01:03:50.289106+05:30'
 last_seen: '2026-06-23T01:03:50.289106+05:30'
 last_checked: '2026-06-23T01:03:50.289106+05:30'
 health_score: 100
 ---
+
 
 # Blogger defeats photographer's copyright claim
 

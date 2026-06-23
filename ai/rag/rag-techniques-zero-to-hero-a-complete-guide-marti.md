@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
-published_at: '2026-06-23T01:07:48.390922+05:30'
-collected_at: '2026-06-23T01:07:48.390931+05:30'
+published_at: '2026-06-23T09:57:37.762343+05:30'
+collected_at: '2026-06-23T09:57:37.762352+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-23T01:07:48.390931+05:30'
-last_seen: '2026-06-23T01:07:48.390931+05:30'
-last_checked: '2026-06-23T01:07:48.390931+05:30'
+first_seen: '2026-06-23T09:57:37.762352+05:30'
+last_seen: '2026-06-23T09:57:37.762352+05:30'
+last_checked: '2026-06-23T09:57:37.762352+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical search over external knowledge) with generative LLMs to ground outputs in retrieved context, improving factuality and adaptability without retraining the LLM.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator conditioned on retrieved context, and optional rerankers/query rewriters; orchestration layers (caching, metadata filtering) optimize performance and cost.
 
-- **Key Pipeline Components**: Retriever (vector/BM25), vector store (ANN indexes like HNSW), reranker (cross-encoders for precision), and LLM generator conditioned on retrieved context; orchestration layers manage caching, query rewriting, and multi-hop retrieval.
+- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and hybrid retrieval (BM25 + vector) for robust precision/recall.
 
-- **Advanced Techniques**: Hybrid retrieval (BM25 + vector fusion), iterative multi-hop reasoning (GraphRAG), context distillation (LLM-based evidence condensation), and retrieval-aware fine-tuning to optimize end-to-end performance.
+- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (first-stage ANN + second-stage cross-encoder reranking) improves precision; context distillation (LLM-based summarization) and token budgeting mitigate hallucinations while multi-hop/iterative retrieval enables complex reasoning workflows.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:07:48.390922+05:30
+- Published: 2026-06-23T09:57:37.762343+05:30
 
 ## Related Tags
 

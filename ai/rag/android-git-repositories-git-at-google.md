@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-22T15:22:21.609357+05:30'
-collected_at: '2026-06-22T15:22:21.609376+05:30'
+published_at: '2026-06-23T10:01:24.784658+05:30'
+collected_at: '2026-06-23T10:01:24.784674+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -19,13 +19,12 @@ tags:
 - scripts
 - threejs
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-22T15:22:21.609376+05:30'
-last_seen: '2026-06-22T15:22:21.609376+05:30'
-last_checked: '2026-06-22T15:22:21.609376+05:30'
+first_seen: '2026-06-23T10:01:24.784674+05:30'
+last_seen: '2026-06-23T10:01:24.784674+05:30'
+last_checked: '2026-06-23T10:01:24.784674+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure under `android.googlesource.com` with subdirectories for device-specific configurations (e.g., `device/google/bluejay`), kernel sources (e.g., `device/google/bluejay-kernel`), and security policies (e.g., `device/google/bluejay-sepolicy`), organized by device codename and hardware platform.
+- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/asus/flo-kernel`).
 
-- **Versioned Kernel Support**: Includes kernel branches for multiple Android versions (e.g., `5.10`, `5.15`, `6.1`) under device-specific paths (e.g., `device/google/akita-kernels/6.1`), enabling cross-version compatibility and long-term maintenance for specific hardware targets.
+- **Multi-Project Manifests & Branching**: Uses `manifest` repositories (e.g., `accessories/manifest`, `brillo/manifest`) to define project dependencies and configurations, with kernel versions tracked in subdirectories (e.g., `device/google/akita-kernels/6.1`).
 
-- **Access Control & Authentication**: Requires OAuth2-based authentication for repository access, with Gerrit-based code review workflows (`android-review.googlesource.com`) and granular permission management via Google Security Settings for repository contributors.
+- **Security & Access Control**: Authentication via Google OAuth2 (`accounts.google.com/o/oauth2/auth`) enforces code review permissions (`gerritcodereview` scope) and password management through Google Security settings (`security.google.com/settings/security/permissions`).
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:22:21.609357+05:30
+- Published: 2026-06-23T10:01:24.784658+05:30
 
 ## Related Tags
 
@@ -63,7 +62,6 @@ General public resource representing technology updates, guides, or tutorials.
 - scripts
 - threejs
 - web-crawled
-- workflows
 - youtube
 
 ## Source

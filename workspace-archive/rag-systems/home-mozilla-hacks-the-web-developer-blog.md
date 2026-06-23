@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Web Serial API in Firefox 151**: Enables direct web-to-hardware communication (e.g., microcontrollers, 3D printers) without native software, expanding IoT/web integration capabilities.
-- **Firefox 148 Sanitizer API**: First browser to implement standardized `Sanitizer` API for DOM insertion of untrusted HTML, mitigating XSS vulnerabilities via built-in sanitization.
-- **CRLite in Firefox**: Implements private, high-speed certificate revocation checks (via compressed certificate logs) without
+- **Firefox 151 introduces Web Serial API**, enabling direct web-based communication with serial-connected hardware (e.g., microcontrollers, 3D printers) without native software dependencies.
+- **Firefox 148 ships the standardized Sanitizer API**, replacing `innerHTML` with `setHTML` to mitigate XSS vulnerabilities via DOM sanitization.
+- **Mozilla deployed CRLite in Firefox**, providing fast, private certificate revocation checks without exposing user browsing activity to third parties.
 
 ## Use Cases
 

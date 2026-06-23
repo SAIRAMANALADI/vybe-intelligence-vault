@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -34,10 +34,8 @@ selection_reason:
 ## Summary
 
 - **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app compatibility and new features.
-
-- **Android XR & AI Integration**: Expanded engine support for XR development; Android evolving into an AI-driven intelligence system with new tools for building intelligent experiences.
-
-- **SDK License Terms**: Strict usage restrictions; prohibits reverse engineering, derivative works, or unauthorized redistribution; Google reta
+- **Android XR Platform**: Expanded engine support and new resources for building, testing, and scaling XR experiences across the Android ecosystem.
+- **Android SDK License Agreement (Quail 1 | 2026.1.1 Patch 2)**: Grants limited, royalty-free license for app development on compatible Android implementations; prohibits reverse engi
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

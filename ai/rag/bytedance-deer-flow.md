@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/bytedance/deer-flow
-published_at: '2026-06-23T01:03:50.204878+05:30'
-collected_at: '2026-06-23T01:03:50.204898+05:30'
+published_at: '2026-06-23T09:51:01.172927+05:30'
+collected_at: '2026-06-23T09:51:01.172928+05:30'
 tags:
 - agents
 - github-trending
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:bytedance/deer-flow
 first_seen: '2026-06-21T20:19:14.645860+05:30'
-last_seen: '2026-06-23T01:03:50.204898+05:30'
-last_checked: '2026-06-23T01:03:50.204898+05:30'
+last_seen: '2026-06-23T09:51:01.172928+05:30'
+last_checked: '2026-06-23T09:51:01.172928+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/rag
-- Published: 2026-06-23T01:03:50.204878+05:30
+- Published: 2026-06-23T09:51:01.172927+05:30
 
 ## Related Tags
 

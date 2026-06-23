@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://smith.langchain.com
-published_at: '2026-06-23T01:06:15.444652+05:30'
-collected_at: '2026-06-23T01:06:15.444660+05:30'
+published_at: '2026-06-23T09:53:50.215451+05:30'
+collected_at: '2026-06-23T09:53:50.215457+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:langsmith
-first_seen: '2026-06-23T01:06:15.444660+05:30'
-last_seen: '2026-06-23T01:06:15.444660+05:30'
-last_checked: '2026-06-23T01:06:15.444660+05:30'
+first_seen: '2026-06-23T09:53:50.215457+05:30'
+last_seen: '2026-06-23T09:53:50.215457+05:30'
+last_checked: '2026-06-23T09:53:50.215457+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:06:15.444652+05:30
+- Published: 2026-06-23T09:53:50.215451+05:30
 
 ## Related Tags
 

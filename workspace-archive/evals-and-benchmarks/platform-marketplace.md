@@ -40,8 +40,8 @@ selection_reason:
 ## Summary
 
 - **Marketplace APIs & Licensing**: Provides REST API v2, Java client tutorials, in-product license API, and Connect framework for app integration, licensing, and marketplace operations.
-- **Partner Onboarding & App Development**: Offers structured guides for becoming an Atlassian Marketplace Partner, including planning, building (Forge apps), launching, and growing cloud/server apps with trust and compliance requirements.
-- **Programs & Security Compliance**: Includes security-focused programs
+- **App Development & Launch Pipeline**: Offers structured onboarding guides for defining products, Forge app development/testing, pricing/licensing models, branding, security compliance, and submission/review processes.
+- **Programs & Compliance**: Includes security bug bounty, penetration testing, Cloud Fortif
 
 ## Use Cases
 

@@ -8,12 +8,10 @@ local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tool
 importance: medium
 tags:
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -26,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to its successor, [RagTag](https://github.com/malonge/RagTag), for continued development and support.
-- **Technical Scope**: Python-based tool for **genome assembly scaffolding**, optimizing contig ordering and orientation using reference genomes or related datasets.
-- **Performance Metrics**: 173 GitHub stars, 28 forks, with the last update recorded on **2026-06-18**, indicating a shift in focus to RagTag for future imp
+- **Deprecation Notice**: RaGOO is no longer supported; users are directed to use its successor, **RagTag** (`malonge/RagTag`), for genome assembly and scaffolding tasks.
+- **Repository Metrics**: 173 stars, 28 forks; primarily written in **Python**, with a focus on **bioinformatics** and **genome assembly/scaffolding**.
+- **Last Update**: Repository was last modified on **June 18, 2026**, indicating end-of-life status.
 
 ## Use Cases
 

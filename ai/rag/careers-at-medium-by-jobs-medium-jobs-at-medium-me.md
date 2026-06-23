@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
-published_at: '2026-06-22T10:28:59.904308+05:30'
-collected_at: '2026-06-22T10:28:59.904316+05:30'
+published_at: '2026-06-23T09:56:34.476740+05:30'
+collected_at: '2026-06-23T09:56:34.476747+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me
-first_seen: '2026-06-22T10:28:59.904316+05:30'
-last_seen: '2026-06-22T10:28:59.904316+05:30'
-last_checked: '2026-06-22T10:28:59.904316+05:30'
+first_seen: '2026-06-23T09:56:34.476747+05:30'
+last_seen: '2026-06-23T09:56:34.476747+05:30'
+last_checked: '2026-06-23T09:56:34.476747+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Values**: Medium prioritizes building an ad-free, high-quality publishing platform focused on meaningful storytelling, diversity, and combating harmful content, with a remote-first culture and all-company retreats.
+- **Mission-driven remote-first workplace**: Medium operates as a 100% remote company with a stipend for home office expenses, Wi-Fi reimbursement, and co-working space memberships, while hosting bi-annual all-company retreats to foster in-person collaboration.
 
-- **Scam Awareness**: Medium only hires via [Greenhouse.io](https://job-boards.greenhouse.io/medium); unsolicited job offers via LinkedIn or other platforms are fraudulent and should be reported to [help.medium.com](http://help.medium.com).
+- **Anti-scamming verification process**: All job offers are exclusively listed on [Greenhouse.io](https://job-boards.greenhouse.io/medium), and Medium explicitly warns against fraudulent offers via other platforms, directing candidates to verify via [help.medium.com](http://help.medium.com/).
 
-- **Benefits & Hiring Policy**: Offers comprehensive health, financial, and professional development benefits, while explicitly guiding candidates on responsible AI use in applications to preserve human-centric hiring.
+- **Human-centric hiring & AI guidelines**: Medium emphasizes human-driven hiring processes, discouraging over-reliance on AI tools, and provides comprehensive benefits including mental health support, financial advising, and unlimited PTO.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:28:59.904308+05:30
+- Published: 2026-06-23T09:56:34.476740+05:30
 
 ## Related Tags
 

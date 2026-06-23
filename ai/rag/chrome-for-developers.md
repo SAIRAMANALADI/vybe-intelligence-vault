@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/home
-published_at: '2026-06-22T11:21:32.197145+05:30'
-collected_at: '2026-06-22T11:21:32.197157+05:30'
+published_at: '2026-06-23T09:59:55.292750+05:30'
+collected_at: '2026-06-23T09:59:55.292765+05:30'
 tags:
 - agents
 - hackernews
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:chrome-for-developers
-first_seen: '2026-06-22T11:21:32.197157+05:30'
-last_seen: '2026-06-22T11:21:32.197157+05:30'
-last_checked: '2026-06-22T11:21:32.197157+05:30'
+first_seen: '2026-06-23T09:59:55.292765+05:30'
+last_seen: '2026-06-23T09:59:55.292765+05:30'
+last_checked: '2026-06-23T09:59:55.292765+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Chrome 150 Beta** introduces new features preview, including upcoming Web Platform APIs and performance optimizations, while **Chrome 149 Stable** adds CSS gap decorations, WebSocket bfcache handling, and `Intl.Locale` variants support.
-
-- **Chrome DevTools** provides real-time debugging, profiling, and editing capabilities, while **Puppeteer** enables automated Chromium control for testing and scraping workflows.
-
-- **Chrome Extensions** leverage HTML/CSS/JS for browser customization, and the **Chrome Web Store** serves as the distribution platform for publishing extensions and themes.
+- **Chrome 150 Beta & 149 Stable Updates**: Introduces CSS gap decorations, WebSocket disconnection for bfcache, and Intl.Locale variants in Chrome 149 stable; Chrome 150 beta previews upcoming features.
+- **Chrome DevTools & Automation**: Chrome DevTools for debugging, Puppeteer for browser automation, and ChromeDriver for Selenium-based testing.
+- **AI & Web Platform Enhancements**: New AI-powered capabilities (e.g., auto_awesome), Baseline standardization for web features, and Web App Manifest integration for Android.
 
 ## Why It Matters
 
@@ -40,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:21:32.197145+05:30
+- Published: 2026-06-23T09:59:55.292750+05:30
 
 ## Related Tags
 
@@ -49,7 +46,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

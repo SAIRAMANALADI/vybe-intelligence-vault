@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://community.mozilladatacollective.com/tag/faq
-published_at: '2026-06-22T11:36:16.152024+05:30'
-collected_at: '2026-06-22T11:36:16.152032+05:30'
+published_at: '2026-06-23T10:08:58.812147+05:30'
+collected_at: '2026-06-23T10:08:58.812153+05:30'
 tags:
 - dataset
 - web-crawled
 status: active
 resource_id: blog:faq-mozilla-data-collective
-first_seen: '2026-06-22T11:36:16.152032+05:30'
-last_seen: '2026-06-22T11:36:16.152032+05:30'
-last_checked: '2026-06-22T11:36:16.152032+05:30'
+first_seen: '2026-06-23T10:08:58.812153+05:30'
+last_seen: '2026-06-23T10:08:58.812153+05:30'
+last_checked: '2026-06-23T10:08:58.812153+05:30'
 health_score: 100
 ---
 
@@ -22,8 +22,8 @@ health_score: 100
 ## Summary
 
 - **Immutable Terms of Use Fields**: After publishing a dataset, fields defining its terms of use become uneditable to maintain compliance and legal integrity.
-- **Prevention of Post-Publication Modifications**: The restriction ensures that critical legal terms remain unchanged, preserving the original agreement between data providers and users.
-- **Static Metadata Enforcement**: Only non-legal metadata fields remain modifiable post-publication, while legal/terms-related fields are locked to prevent unauthorized alterations.
+- **Data Integrity Protection**: Prevents unauthorized modifications to critical metadata that govern dataset usage rights and restrictions.
+- **Version Control Enforcement**: Ensures consistent terms across all versions of a published dataset, avoiding ambiguity in licensing or usage agreements.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:36:16.152024+05:30
+- Published: 2026-06-23T10:08:58.812147+05:30
 
 ## Related Tags
 

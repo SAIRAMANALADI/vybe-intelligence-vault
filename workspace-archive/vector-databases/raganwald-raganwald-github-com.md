@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Jekyll Static Site Generator**: Repository contains the source code for a Jekyll-based static website hosted on GitHub Pages.
-- **HTML-Centric Structure**: The project is primarily composed of HTML files, with no additional languages or frameworks specified.
-- **Outdated Metadata**: Last commit timestamp (`2026-06-20T15:41:20Z`) is in the future, indicating potential metadata corruption or placeholder data.
+- **Jekyll Static Site Generator**: Repository contains the source code for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`).
+- **Minimalist Structure**: Uses HTML as the primary language with no additional frameworks or complex dependencies (e.g., no JavaScript frameworks or CSS preprocessors).
+- **Outdated Metadata**: Last commit timestamp (`2026-06-20T15:41:20Z`) suggests potential staleness or placeholder data, despite active forks/stars.
 
 ## Use Cases
 

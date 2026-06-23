@@ -6,8 +6,8 @@ source_url: https://genkit.dev
 resource_id: blog:genkit-open-source-ai-framework-by-google-in-javas
 local_vault_path: ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
+archive_score: 84
+archive_tier: useful
 resource_kind: framework
 importance: high
 tags:
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 86 (essential)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Google's open-source Genkit enables full-stack, agentic AI applications across platforms with support for multiple LLM providers (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) via a single SDK with language-specific implementations (TypeScript, Go, Python, Dart).
+- **Unified AI Framework**: Google's open-source Genkit provides a single SDK to interact with multiple AI models (Gemini, OpenAI, Anthropic, xAI, DeepSeek, Ollama) across TypeScript, Go, Python, and Dart, enabling seamless integration and switching between providers.
 
-- **Modular Workflow System**: Provides composable primitives for structured AI workflows (chat, RAG, tool use, agents) and production-ready tooling including local dev, debugging UI, and deployment opti
+- **Composable Agentic Workflows**: Supports structured development of AI agents with built-in primitives for chat, RAG, tool use, and multi-modal outputs (text/image), with debugging via a local Developer UI and CLI.
+
+- **Product
 
 ## Use Cases
 

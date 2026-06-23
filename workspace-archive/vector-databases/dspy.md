@@ -2,7 +2,7 @@
 title: DSPy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://dspy-docs.vercel.app
+source_url: https://dspy.ai
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM workflows.
-- **Signatures & Modules**: Enforces typed input/output task definitions via `dspy.Signature`, with composable modules (`dspy.Predict`, `dspy.ChainOfThought`, `dspy.ReAct`) for modular program design.
-- **GEPA Optimizer**: Compiles programs against custom metrics (e.g., semantic F1) to iteratively optimize performance, reducing relianc
+- **ReActV2 Module & LM/BaseLM Improvements**: DSPy 3.3.0b1 introduces an updated `ReActV2` module for enhanced reasoning and tool integration, alongside optimizations to the base `LM` and `BaseLM` classes for improved performance and modularity.
+
+- **Structured Task Definition via Signatures**: Tasks are defined using typed `Signature` classes (inputs/outputs) instead of manual prompts, enabling portable, maintainable, and optimizable programs with support for multimodal fields (e.g., images) a
 
 ## Use Cases
 
@@ -48,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy-docs.vercel.app
+Original source URL: https://dspy.ai
 
 ## Local Vault File
 

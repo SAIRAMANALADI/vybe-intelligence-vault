@@ -15,7 +15,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
 - [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (framework - USEFUL Tier)
 - [Build third-party apps with Bitbucket Cloud REST API | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api) (tutorial - USEFUL Tier)
-- [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (tutorial - USEFUL Tier)
+- [API for Developers - Gainsight Inc.](https://support.gainsight.com/PX/API_for_Developers) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -37,4 +37,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-23 03:04 IST*
+*Last updated: 2026-06-23 11:51 IST*

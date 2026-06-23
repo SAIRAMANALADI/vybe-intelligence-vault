@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://datacollective.mozillafoundation.org
-published_at: '2026-06-22T11:36:09.704373+05:30'
-collected_at: '2026-06-22T11:36:09.704384+05:30'
+published_at: '2026-06-23T10:07:00.318890+05:30'
+collected_at: '2026-06-23T10:07:00.318904+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:join-mozilla-data-collective
-first_seen: '2026-06-22T11:36:09.704384+05:30'
-last_seen: '2026-06-22T11:36:09.704384+05:30'
-last_checked: '2026-06-22T11:36:09.704384+05:30'
+first_seen: '2026-06-23T10:07:00.318904+05:30'
+last_seen: '2026-06-23T10:07:00.318904+05:30'
+last_checked: '2026-06-23T10:07:00.318904+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access, licensing, and terms, ensuring fair value exchange and consent-driven data usage.
+- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access terms, licensing, and revenue (100% retained by rights holders).
 
-- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI and technology development serves underrepresented communities, emphasizing provenance, ethical governance, and open/community-driven licensing models.
+- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI/ML technologies are inclusive, with provenance tracking and consent-based licensing for ethical data usage.
 
-- **Mission-Locked Non-Profit Infrastructure**: Operates as a British mission-locked entity under Mozilla Foundation, providing a trustworthy, non-extractive platform for organizations (libraries, archives, non-profits) to share data in alignment with their ethical and mission-driven values.
+- **Community-Driven Governance**: Operates as a mission-locked, non-extractive platform incubated by Mozilla Foundation, allowing organizations (libraries, non-profits, etc.) to share data aligned with their values under open-source or compensated models.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:36:09.704373+05:30
+- Published: 2026-06-23T10:07:00.318890+05:30
 
 ## Related Tags
 

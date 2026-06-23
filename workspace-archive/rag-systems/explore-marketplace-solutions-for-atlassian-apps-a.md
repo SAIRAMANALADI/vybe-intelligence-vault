@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Marketplace Apps**: Atlassian Marketplace offers curated apps to enhance Atlassian product functionality, categorized into **Project Management, Content & Communication, Admin Tools, AI, Data & Analytics, Software Development**, and more.
+- **Atlassian Marketplace** provides curated apps to extend Atlassian product functionality, including infrastructure-native solutions (`Runs on Atlassian`) with in-platform data storage.
 
-- **Infrastructure & Security**: Apps listed under **"Runs on Atlassian"** leverage Atlassian’s infrastructure, ensuring data is securely stored within the platform.
+- **Key app categories** include AI-powered tools (`Artificial Intelligence`), DevOps workflows (`Software Development`), admin utilities (`Admin Tools`), and project management suites (`Project Management`).
 
-- **AI & Automation**: The **"Artificial Intelligence"** and **"Atlassian Rovo"** collect
+- **Specialized collections** like `Atlassian Rovo` (AI-enhanced apps), `Content & Communication` (do
 
 ## Use Cases
 

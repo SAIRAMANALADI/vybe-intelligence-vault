@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://creativecommons.org/licenses/by-sa/3.0
-published_at: '2026-06-22T11:33:54.312094+05:30'
-collected_at: '2026-06-22T11:33:54.312105+05:30'
+published_at: '2026-06-23T10:02:24.935131+05:30'
+collected_at: '2026-06-23T10:02:24.935138+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deed-attribution-sharealike-3-0-unported-creative
-first_seen: '2026-06-22T11:33:54.312105+05:30'
-last_seen: '2026-06-22T11:33:54.312105+05:30'
-last_checked: '2026-06-22T11:33:54.312105+05:30'
+first_seen: '2026-06-23T10:02:24.935138+05:30'
+last_seen: '2026-06-23T10:02:24.935138+05:30'
+last_checked: '2026-06-23T10:02:24.935138+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- A **canonical URL** is the preferred, standardized version of a webpage's URL, specified using the `<link rel="canonical">` HTML tag or HTTP header to prevent duplicate content issues.
-- It consolidates ranking signals (e.g., SEO value) to a single URL, mitigating dilution caused by identical or similar content accessible via multiple URLs (e.g., session IDs, tracking parameters).
-- Implemented via `<head>` tag (e.g., `<link rel="canonical" href="https://example.com/preferred-page" />`) or server-side HTTP headers, ensuring search engines index the canonical version.
+- **Definition**: A canonical URL is a specific URL designated as the preferred version among multiple duplicate or similar pages to consolidate ranking signals and avoid content duplication issues.
+- **Purpose**: Implements the `rel="canonical"` link element or HTTP header to indicate the canonical version to search engines, preventing SEO penalties from duplicate content.
+- **Implementation**: Can be set via HTML tags, HTTP headers, or sitemaps to ensure search engines index the correct version of a page.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:33:54.312094+05:30
+- Published: 2026-06-23T10:02:24.935131+05:30
 
 ## Related Tags
 

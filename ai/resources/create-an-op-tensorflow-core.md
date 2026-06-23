@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.tensorflow.org/guide/create_op
-published_at: '2026-06-22T15:35:09.103339+05:30'
-collected_at: '2026-06-22T15:35:09.103358+05:30'
+published_at: '2026-06-23T09:54:04.281590+05:30'
+collected_at: '2026-06-23T09:54:04.281605+05:30'
 tags:
 - producthunt
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:create-an-op-tensorflow-core
-first_seen: '2026-06-22T15:35:09.103358+05:30'
-last_seen: '2026-06-22T15:35:09.103358+05:30'
-last_checked: '2026-06-22T15:35:09.103358+05:30'
+first_seen: '2026-06-23T09:54:04.281605+05:30'
+last_seen: '2026-06-23T09:54:04.281605+05:30'
+last_checked: '2026-06-23T09:54:04.281605+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow only when necessary (e.g., non-composable operations, performance-critical fusion), ensuring ABI compatibility via the [Custom op repository](https://github.com/tensorflow/custom-op) and following TensorFlow's op registration (`REGISTER_OP`), kernel implementation (`OpKernel`), and optional Python wrapper/gradient steps.
+- **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow by first attempting Python composition, then implementing a C++ kernel (`OpKernel`) with thread-safe `Compute` method; register op interface via `REGISTER_OP` and kernel via `REGISTER_KERNEL_BUILDER`, supporting multi-device (CPU/GPU) implementations with templated functors.
 
-- **Multi-Device Kernel Implementation**: Define device-agnostic kernels using templated `OpKernel` classes and functors, with separate CPU/GPU specializations (`.cc` for CPU, `.cu.cc` for CUDA kernels), registered via `REGISTER_KERNEL_BUILDER` with constraints (e.g., `DEVICE_CPU`, `DEVICE_GPU`).
+- **ABI Compatibility & Build Systems**: Ensure ABI compatibility with TensorFlow pip packages by following the [Custom op repository](https://github.com/tensorflow/custom-op); compile using system compiler with `TF_CFLAGS`/`TF_LFLAGS` (e.g., `g++ -shared zero_out.cc -o zero_out.so ${TF_CFLAGS[@]} ${TF_LFLAGS[@]}`) or via Bazel (`tf_custom_op_library` with `BUILD` file) for source installations.
 
-- **Build Systems**: Compile custom ops either via system compiler (using `tf.sysconfig.get_include()`/`get_lib()` flags) or Bazel (with `tf_custom_op_library` in `BUILD` files), ensuring ABI compatibility (e.g., `-D_GLIBCXX_USE_CXX11_ABI=0` for older TensorFlow versions).
+- **GPU Kernel Implementation**: For GPU ops, split implementation into `.cc` (CPU/host logic) and `.cu.cc` (CUDA kernel with `ExampleCudaKernel`); use `Eigen::GpuDevice` and `gpu_kernel_helper.h` for device-specific execution, with explicit template instantiation for registered types (e.g., `float`, `int32`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:35:09.103339+05:30
+- Published: 2026-06-23T09:54:04.281590+05:30
 
 ## Related Tags
 

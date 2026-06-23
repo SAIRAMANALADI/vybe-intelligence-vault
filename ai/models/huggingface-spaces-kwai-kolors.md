@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_space
 source_name: Hugging Face Trending Spaces
 source_url: https://huggingface.co/spaces/kwai-kolors
-published_at: '2026-06-23T01:03:49.626862+05:30'
-collected_at: '2026-06-23T01:03:49.626866+05:30'
+published_at: '2026-06-23T09:51:01.304432+05:30'
+collected_at: '2026-06-23T09:51:01.304434+05:30'
 tags:
 - hf-space
 - huggingface
 status: active
 resource_id: huggingface:spaces/kwai-kolors
 first_seen: '2026-06-18T23:35:18.514985+05:30'
-last_seen: '2026-06-23T01:03:49.626866+05:30'
-last_checked: '2026-06-23T01:03:49.626866+05:30'
+last_seen: '2026-06-23T09:51:01.304434+05:30'
+last_checked: '2026-06-23T09:51:01.304434+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Spaces
 - Category: ai/models
-- Published: 2026-06-23T01:03:49.626862+05:30
+- Published: 2026-06-23T09:51:01.304432+05:30
 
 ## Related Tags
 

@@ -35,9 +35,9 @@ selection_reason:
 
 - **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher, graph data modeling, and data import, with durations ranging from 1 to 8 hours.
 
-- **Generative AI & GraphRAG courses** focus on integrating Neo4j with LLMs for intelligent applications, covering topics like vector indexes, knowledge graph construction, and building chatbots with Python/TypeScript.
+- **Generative AI & GraphRAG courses** focus on integrating Neo4j with LLMs for intelligent applications, covering topics like vector indexes, knowledge graph construction, LangChain integration, and chatbot development in Python/TypeScript.
 
-- **Certifications** available: *Neo4j Certified Professional* and *Neo4j Gra
+- **Certifications** available include *Neo4j Certifie
 
 ## Use Cases
 

@@ -1,5 +1,5 @@
 ---
-title: 'Show HN: Oak – Git replacement designed for agents'
+title: 'Show HN: Oak – Git alternative designed for agents'
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://oak.space/oak/oak
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Show HN: Oak – Git replacement designed for agents
+# Show HN: Oak – Git alternative designed for agents
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by zdgeier. Score: 77, Comments: 87.
+Hacker News story by zdgeier. Score: 163, Comments: 154.
 Original Link: https://oak.space/oak/oak
 
 ## Use Cases

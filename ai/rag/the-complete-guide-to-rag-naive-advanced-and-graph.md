@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide
-published_at: '2026-06-22T15:18:17.249774+05:30'
-collected_at: '2026-06-22T15:18:17.249791+05:30'
+published_at: '2026-06-23T09:53:16.108502+05:30'
+collected_at: '2026-06-23T09:53:16.108516+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-22T15:18:17.249791+05:30'
-last_seen: '2026-06-22T15:18:17.249791+05:30'
-last_checked: '2026-06-22T15:18:17.249791+05:30'
+first_seen: '2026-06-23T09:53:16.108516+05:30'
+last_seen: '2026-06-23T09:53:16.108516+05:30'
+last_checked: '2026-06-23T09:53:16.108516+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized in 2020 by Lewis et al., addressing freshness, private knowledge, and hallucination issues by dynamically pulling relevant external data during inference.
+- **RAG Architecture Overview**: RAG combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations like hallucinations, outdated knowledge, and private data access.
 
-- **Evolution of RAG**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (dynamic routing, tool integration), and Graph RAG (entity-relation graph traversal for multi-hop reasoning).
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformations) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with modular RAG enabling tool integration and adaptive routing.
 
-- **Key techniques**: Dense/sparse retrieval (BM25, embeddings), ANN algorithms (HNSW, IVF-PQ), reranking (cross-encoders), and frameworks like LangChain/LlamaIndex for modular implementation.
+- **Key Components & Techniques**: Utilizes embeddings (e.g., `BAAI/bge-m3`), vector databases (Chroma, Pinecone), hybrid retrieval (BM25 + dense vectors), reranking (cross-encoders), and frameworks like LangChain/LCEL for pipeline orchestration.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:18:17.249774+05:30
+- Published: 2026-06-23T09:53:16.108502+05:30
 
 ## Related Tags
 

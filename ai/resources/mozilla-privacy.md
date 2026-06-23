@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mozilla.org/privacy
-published_at: '2026-06-22T11:34:30.469491+05:30'
-collected_at: '2026-06-22T11:34:30.469501+05:30'
+published_at: '2026-06-23T10:02:57.255114+05:30'
+collected_at: '2026-06-23T10:02:57.255121+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:mozilla-privacy
-first_seen: '2026-06-22T11:34:30.469501+05:30'
-last_seen: '2026-06-22T11:34:30.469501+05:30'
-last_checked: '2026-06-22T11:34:30.469501+05:30'
+first_seen: '2026-06-23T10:02:57.255121+05:30'
+last_seen: '2026-06-23T10:02:57.255121+05:30'
+last_checked: '2026-06-23T10:02:57.255121+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Definition & Handling of Personal Data**: Mozilla defines "personal information" as data that directly identifies an individual (e.g., name, email, IP address) or can be reasonably linked to them. Non-personal data is anonymized or aggregated; if combined with personal data, it becomes personal. Mozilla commits to transparency about data collection and usage.
+- **Definition & Handling of Personal Data**: Mozilla defines "personal information" as data directly identifying a user (e.g., name, email, IP address) or combinable to identify them; non-personal data is anonymized. Combining personal and non-personal data reclassifies the set as personal. Data retention is minimized to the purpose of collection, with destruction post-use unless legally mandated otherwise.
 
-- **Data Sharing & Legal Compliance**: Mozilla shares user data only with explicit consent, for service provision under contractual obligations, or when required by law (with user notification unless prohibited). Data may also be shared to prevent harm or during organizational changes (e.g., mergers), with efforts to minimize re-identification risks.
+- **Data Collection & Sharing Practices**: Data is gathered directly from users, automatically via products/services (e.g., crash reports, update checks), or from third parties (e.g., email providers). Sharing occurs with explicit consent, contractual obligations, legal requirements, harm prevention, or organizational changes (e.g., mergers), with anonymization prioritized for open-source contributions.
 
-- **Security & Retention**: Mozilla employs physical, technical, and business security measures to protect data, notifies users of breaches, and retains data only as long as necessary (unless legally mandated). Policy updates are communicated via official channels, and users are bound by continued use post-update.
+- **Security & Policy Updates**: Mozilla employs physical, technical, and business security measures to protect data, notifying users of breaches. Policy updates are posted online; substantive changes are announced via Mozilla’s channels (e.g., blogs, forums). Users retain the right to request corrections or data removal (including for minors under 13) via designated channels (e.g., compliance@mozilla.com, privacy portal).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:34:30.469491+05:30
+- Published: 2026-06-23T10:02:57.255114+05:30
 
 ## Related Tags
 

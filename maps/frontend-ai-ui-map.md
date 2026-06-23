@@ -13,8 +13,8 @@ React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 *   [The world's fastest framework for building websites](https://gohugo.io)
 *   [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started)
 *   [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com)
+*   [Memberstack Dashboard](https://app.memberstack.com/signup)
 *   [RPKI Dashboard](https://dashboard.rpki.ripe.net)
-*   [ShakeNet Web App: Raspberry Shakes' Community Portal](https://shakenet.raspberryshake.org/privacy)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

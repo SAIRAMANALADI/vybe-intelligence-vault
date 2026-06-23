@@ -32,8 +32,8 @@ selection_reason:
 ## Summary
 
 - **Immutable Terms of Use Fields**: After publishing a dataset, fields defining its terms of use become uneditable to maintain compliance and legal integrity.
-- **Prevention of Post-Publication Modifications**: The restriction ensures that critical legal terms remain unchanged, preserving the original agreement between data providers and users.
-- **Static Metadata Enforcement**: Only non-legal metadata fields remain modifiable post-publication, while legal/terms-related fields are locked to pre
+- **Data Integrity Protection**: Prevents unauthorized modifications to critical metadata that govern dataset usage rights and restrictions.
+- **Version Control Enforcement**: Ensures consistent terms across all versions of a published dataset, avoiding ambiguity in licensing or usage agreements.
 
 ## Use Cases
 

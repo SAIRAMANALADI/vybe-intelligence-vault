@@ -3,24 +3,31 @@ title: Privacy Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://code.org/privacy
-published_at: '2026-06-22T15:50:31.597678+05:30'
-collected_at: '2026-06-22T15:50:31.597696+05:30'
+source_url: https://www.datacamp.com/privacy-policy
+published_at: '2026-06-23T10:04:58.507773+05:30'
+collected_at: '2026-06-23T10:04:58.507782+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
+- creative_dev
+- dataset
 - frontend_ui
 - hackernews
+- models
+- openai
+- paper
+- producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-06-22T15:50:31.597696+05:30'
-last_seen: '2026-06-22T15:50:31.597696+05:30'
-last_checked: '2026-06-22T15:50:31.597696+05:30'
+first_seen: '2026-06-23T10:04:58.507782+05:30'
+last_seen: '2026-06-23T10:04:58.507782+05:30'
+last_checked: '2026-06-23T10:04:58.507782+05:30'
 health_score: 100
 ---
 
@@ -28,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Minimization & Purpose Limitation**: CodeAI collects minimal personal data (e.g., display name, age, state, hashed email) only when necessary for educational services; no account is required for basic course access, and progress isn’t saved without one. Data is strictly used for mission-driven purposes (e.g., personalizing learning, teacher professional development) and never for advertising or profit.
+- **Course Catalog Structure**: DataCamp organizes courses into skill levels (Beginner, Intermediate, Advanced) and domains (Data Engineering, Data Analysis, AI, Cloud, etc.), with dedicated paths for specific tools (Python, R, SQL, Power BI, Tableau) and concepts (ML, NLP, Data Visualization).
 
-- **Strict Privacy Controls for Minors**: For students under 13, parental consent is required via email (stored only as a hash), and no birthdates are collected—only age ranges. Student records shared with third-party evaluators are de-identified per industry standards, and schools retain control over data retention directives.
+- **Key Technical Domains Covered**: Includes foundational and advanced topics such as deep learning (PyTorch), cloud platforms (AWS, Azure), data pipelines (dbt, Airflow), statistical modeling (Bayesian, regression), and MLOps (MLflow, monitoring).
 
-- **Technical Safeguards & Transparency**: Account identifiers and technical metadata (e.g., IP addresses, login times) are automatically collected for service optimization and troubleshooting but are protected via physical, administrative, and technical safeguards. Users retain rights to access, correct, or delete data, with GDPR compliance explicitly addressed for international users.
+- **Specialized Tracks**: Offers niche certifications like financial modeling, prompt engineering, reinforcement learning (Gymnasium), and APIs (OpenAI, AWS Boto), alongside core data manipulation (pandas, SQL) and visualization (Seaborn, ggplot2) techniques.
 
 ## Why It Matters
 
@@ -42,20 +49,27 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:50:31.597678+05:30
+- Published: 2026-06-23T10:04:58.507773+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
+- creative_dev
+- dataset
 - frontend_ui
 - hackernews
+- models
+- openai
+- paper
+- producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://code.org/privacy
+Original source: https://www.datacamp.com/privacy-policy

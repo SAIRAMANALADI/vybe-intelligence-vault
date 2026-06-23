@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama
-published_at: '2026-06-22T15:33:19.624298+05:30'
-collected_at: '2026-06-22T15:33:19.624315+05:30'
+published_at: '2026-06-23T09:56:15.199994+05:30'
+collected_at: '2026-06-23T09:56:15.200004+05:30'
 tags:
 - agents
 - meta-ai
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:how-to-run-gpt-oss-locally-with-ollama
-first_seen: '2026-06-22T15:33:19.624315+05:30'
-last_seen: '2026-06-22T15:33:19.624315+05:30'
-last_checked: '2026-06-22T15:33:19.624315+05:30'
+first_seen: '2026-06-23T09:56:15.200004+05:30'
+last_seen: '2026-06-23T09:56:15.200004+05:30'
+last_checked: '2026-06-23T09:56:15.200004+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Requirements**: `gpt-oss-20b` requires ≥16GB VRAM (or unified memory) for consumer hardware, while `gpt-oss-120b` demands ≥60GB VRAM; both models are shipped in MXFP4 quantization and support CPU offloading at reduced performance.
+- **Model Specifications**: `gpt-oss-20b` requires ≥16GB VRAM (or unified memory) and is optimized for consumer GPUs/Apple Silicon; `gpt-oss-120b` needs ≥60GB VRAM (or unified memory), ideal for multi-GPU/workstations. Both models ship MXFP4 quantized with optional CPU offloading (slower performance).
 
-- **Ollama Integration**: Models are deployed via `ollama pull/push` commands, with chat and API endpoints (`http://localhost:11434/v1`) supporting OpenAI-compatible Chat Completions and function calling (tools) for local inference.
+- **Ollama Integration**: Supports local deployment via `ollama pull/pull` (e.g., `gpt-oss:20b`), chat/terminal interaction (`ollama run`), and a Chat Completions-compatible API (OpenAI SDK-compatible). Tools/function calling and Responses API workarounds (via proxy/server) are supported.
 
-- **SDK/Proxy Support**: Enables local model usage with OpenAI Agents SDK via LiteLLM (Python) or AI SDK (TypeScript), and provides workarounds (Responses.js proxy) for Responses API compatibility.
+- **Agents SDK Compatibility**: Enables integration with OpenAI’s Agents SDK (Python/TypeScript) using LiteLLM or AI SDK adapters to route requests to local Ollama-hosted models (e.g., `ollama/gpt-oss:120b`).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T15:33:19.624298+05:30
+- Published: 2026-06-23T09:56:15.199994+05:30
 
 ## Related Tags
 

@@ -1,0 +1,55 @@
+---
+title: 'LangSmith - LLM & AI Agent Evals Platform: Continuously improve agents'
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://www.langchain.com/langsmith/evaluation
+resource_id: blog:langsmith-llm-ai-agent-evals-platform-continuously
+local_vault_path: ai/rag/langsmith-llm-ai-agent-evals-platform-continuously.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- agents
+- benchmark
+- dataset
+- hackernews
+- rag
+- web-crawled
+- workflows
+selection_reason:
+- Valuable developer reference
+---
+
+# LangSmith - LLM & AI Agent Evals Platform: Continuously improve agents
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **LangSmith Evaluations** provides a unified platform for **pre- and post-deployment assessment** of LLM-based agents, enabling continuous quality improvement via structured evaluations and expert feedback integration.
+
+- **Dual-mode evaluation system**: Supports **offline evals** (curated datasets for regression testing and benchmarking) and **online evals** (real-time scoring of production interactions for issue detection and quality measurement).
+
+- **Advanced evaluation techniques**: Inclu
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://www.langchain.com/langsmith/evaluation
+
+## Local Vault File
+
+Path: [langsmith-llm-ai-agent-evals-platform-continuously.md](../../ai/rag/langsmith-llm-ai-agent-evals-platform-continuously.md)

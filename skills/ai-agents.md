@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1043 resources matched in the intelligence vault.
+Active signals: 1058 resources matched in the intelligence vault.
 Recently detected signals:
-- [Overview | GitBook Documentation](../ai/agents/overview-gitbook-documentation.md) (Source: Unknown Source) - Collected 2026-06-23
-- [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Introduction - Mintlify](../ai/agents/introduction-mintlify.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Mintlify Learn - Mintlify Learn](../ai/agents/mintlify-learn-mintlify-learn.md) (Source: Unknown Source) - Collected 2026-06-23
-- [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Home - Inside Atlassian](../ai/agents/home-inside-atlassian.md) (Source: Unknown Source) - Collected 2026-06-23
+- [university.atlassian.com](../ai/agents/university-atlassian-com.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Collaboration software for software, IT and business teams | Atlassian](../ai/rag/collaboration-software-for-software-it-and-busines.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Atlassian Design](../ai/agents/atlassian-design.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -276,10 +276,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 50. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([GitHub](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
+### 50. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
 - Stars: 0
 - Language: Unknown
-- Description: - **Template Repository**: GitHub Classroom-created starter template for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
+- Description: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T03:04:00.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T11:51:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io
-published_at: '2026-06-23T01:11:07.860508+05:30'
-collected_at: '2026-06-23T01:11:07.860516+05:30'
+published_at: '2026-06-23T09:56:24.855045+05:30'
+collected_at: '2026-06-23T09:56:24.855054+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:the-world-s-fastest-framework-for-building-website
-first_seen: '2026-06-23T01:11:07.860516+05:30'
-last_seen: '2026-06-23T01:11:07.860516+05:30'
-last_checked: '2026-06-23T01:11:07.860516+05:30'
+first_seen: '2026-06-23T09:56:24.855054+05:30'
+last_seen: '2026-06-23T09:56:24.855054+05:30'
+last_checked: '2026-06-23T09:56:24.855054+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; 88,676 GitHub stars (as of June 21, 2026).
-- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds with advanced templating and asset pipelines.
-- **Features**: Supports multilingual content, taxonomies, image/Sass/JS processing, TailwindCSS, and embedded web server for live reloading.
+- **License & Popularity**: Distributed under Apache 2.0 License; has 88,693 GitHub stars (as of June 22, 2026) with an active community and frequent releases.
+
+- **Performance & Flexibility**: Written in Go, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
+
+- **Development & Features**: Includes an embedded web server for real-time previews; supports documentation, corporate, news, and project sites with robust taxonomy and image/EXIF handling.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:11:07.860508+05:30
+- Published: 2026-06-23T09:56:24.855045+05:30
 
 ## Related Tags
 

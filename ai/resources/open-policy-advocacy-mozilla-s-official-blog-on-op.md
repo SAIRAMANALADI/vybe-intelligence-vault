@@ -5,15 +5,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.mozilla.org/privacy
-published_at: '2026-06-22T11:35:19.565109+05:30'
-collected_at: '2026-06-22T11:35:19.565119+05:30'
+published_at: '2026-06-23T10:03:11.167019+05:30'
+collected_at: '2026-06-23T10:03:11.167025+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:open-policy-advocacy-mozilla-s-official-blog-on-op
-first_seen: '2026-06-22T11:35:19.565119+05:30'
-last_seen: '2026-06-22T11:35:19.565119+05:30'
-last_checked: '2026-06-22T11:35:19.565119+05:30'
+first_seen: '2026-06-23T10:03:11.167025+05:30'
+last_seen: '2026-06-23T10:03:11.167025+05:30'
+last_checked: '2026-06-23T10:03:11.167025+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Market Concentration**: AICOA targets monopolistic control by dominant tech firms (e.g., Google, Apple, Amazon) that dictate online ecosystems, restricting competition and user choice.
-- **Regulatory Mechanism**: Proposes structural separation and anti-discrimination rules to prevent self-preferencing and anti-competitive practices in digital platforms.
-- **Impact on Innovation**: Aims to foster a level playing field for smaller entities, potentially increasing diversity and innovation in web services.
+- **AICOA's Reintroduction**: Mozilla advocates for the revival of the American Innovation and Choice Online Act (AICOA) to address monopolistic control by a few tech giants over the web ecosystem.
+- **Market Dominance**: A small number of companies currently dictate the online experience for over 300 million users, stifling competition and innovation.
+- **Regulatory Objective**: AICOA aims to enforce fair competition by preventing anti-competitive practices, such as self-preferencing and discriminatory access, by dominant platforms.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:35:19.565109+05:30
+- Published: 2026-06-23T10:03:11.167019+05:30
 
 ## Related Tags
 

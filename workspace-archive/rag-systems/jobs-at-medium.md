@@ -6,10 +6,10 @@ source_url: https://job-boards.greenhouse.io/medium
 resource_id: blog:jobs-at-medium
 local_vault_path: ai/rag/jobs-at-medium.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - rag
 - web-crawled
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- No active job postings or career opportunities listed on Medium's official careers page as of the latest scan.
-- Medium's hiring pipeline appears to be currently inactive, with no roles open for application.
-- Job seekers cannot set up alerts for opportunities since no positions are available.
+- **No active job postings** at Medium as of the article's publication date.
+- **Job alert feature** available for users to receive notifications for future openings via email.
+- **Medium's mission** remains focused on building a premier platform for reading and writing content online.
 
 ## Use Cases
 

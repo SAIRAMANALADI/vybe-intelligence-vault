@@ -2,16 +2,16 @@
 title: Medium Help Center
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://help.medium.com/hc/en-us?source=
+source_url: https://help.medium.com/hc/en-us?source=post_page
 resource_id: blog:medium-help-center
 local_vault_path: ai/rag/medium-help-center.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Medium Help Center
@@ -20,15 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Account Management**: Medium provides granular control over user profiles, email preferences, social media integrations, and subscription management via dedicated settings and URL customization tools.
-- **Content Distribution & Monetization**: Stories published on Medium follow a multi-tier distribution system (Boost/General/Network), with eligibility for the Partner Program enabling revenue generation through curated content.
-- **Safety & Compliance**: Medium enforces strict content policie
+- **Account Management**: Medium provides tools for profile customization, email preferences, subscription management, and social media integration via dedicated help articles.
+- **Content Distribution & Monetization**: Platform enforces distribution guidelines for story curation (Boost/General/Network) and offers a Partner Program with earnings tracking and eligibility criteria.
+- **Safety & Policies**: Medium enforces content policies (e.g., COVID-19, controversial content) and provides user s
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://help.medium.com/hc/en-us?source=
+Original source URL: https://help.medium.com/hc/en-us?source=post_page
 
 ## Local Vault File
 

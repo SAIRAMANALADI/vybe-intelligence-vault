@@ -8,14 +8,15 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - rag
 - web-crawled
+- workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -24,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Loop Engineering in Agents**: Introduces iterative feedback loops for agent self-correction, emphasizing dynamic adaptation in agent architectures for improved performance and reliability.
+- **Loop Engineering in AI Agents**: Emphasizes iterative refinement of agent workflows via feedback loops, optimizing decision-making and task execution through structured retries, timeouts, and error-handling mechanisms in frameworks like LangGraph.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs) is more critical than cloud neutrality, as it enables flexibility in model selection without vendor lock-in.
-
-- **Fault Tolerance in LangGraph**: Details retry mechanisms, timeouts, and error handlers in Lan
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, enabling flexibility, cost optimization, and reduced dependency on proprietary model
 
 ## Use Cases
 

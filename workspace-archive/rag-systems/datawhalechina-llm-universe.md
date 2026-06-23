@@ -12,9 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with a focus on practical implementation.
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing large model applications, structured as Jupyter Notebooks with online access via GitHub Pages.
 
-- **Core Components**: Integrates LangChain for workflow orchestration and Retrieval-Augmented Generation (RAG) for enhancing LLM responses with external knowledge.
+- **Technical Focus**: Covers LangChain and Retrieval-Augmented Generation (RAG) frameworks for building LLM-powered applications.
 
-- **Repository Metrics**: 13.3K+ stars, 1.3K+ forks, last updated June 2026, emphasizing active community engagement and maintenance.
+- **Actively Maintained**: Last updated in June 2026, with 13.3K stars and 1.3K forks, indicating strong community engagement.
 
 ## Use Cases
 

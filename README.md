@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 6,083</p>
-        <p><b>Active:</b> 5,928 | <b>Inactive:</b> 155</p>
+        <p><b>Resources tracked:</b> 6,249</p>
+        <p><b>Active:</b> 6,091 | <b>Inactive:</b> 158</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 24,862</p>
+        <p><b>Archive Files:</b> 25,252</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-23 08:21 IST</p>
+        <p><b>Last Update:</b> 2026-06-23 11:52 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,21 +55,27 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Moebius: 0.2B image inpainting model with 10B-level performance](ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)** • <kbd>+100 pts</kbd>
+- 🔼 **[Show HN: Oak – Git alternative designed for agents](ai/community/show-hn-oak-git-replacement-designed-for-agents.md)** • <kbd>+86 pts</kbd>
+- 🔼 **[Get an app for Mastodon - Mastodon](ai/resources/get-an-app-for-mastodon-mastodon.md)** • Rank: <kbd>+1104</kbd>
+- 🔼 **[Bitbucket](ai/resources/bitbucket.md)** • Rank: <kbd>+24</kbd>
+- 🔼 **[AUI - Documentation](ai/resources/aui-documentation.md)** • Rank: <kbd>+1017</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md)** • Score: `372`
+- 🆕 **[Polymarket has flooded social media with deceptive videos by paid creators](ai/community/polymarket-has-flooded-social-media-with-deceptive.md)** • Score: `83`
+- 🆕 **[In praise of memcached](ai/community/in-praise-of-memcached.md)** • Score: `76`
+- 🆕 **[OECC2026](ai/rag/oecc2026.md)** • Score: `0`
+- 🆕 **[Discover Sengi](ai/resources/discover-sengi.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Blogger defeats photographer's copyright claim](ai/community/blogger-defeats-photographer-s-copyright-claim.md)**
+- 💤 **[Show HN: Selector Forge – browser extension for AI-generated resilient selectors](ai/community/intuned-selector-forge.md)**
+- 💤 **[Bain tests software takeover targets by vibecoding AI replicas](ai/community/bain-tests-software-takeover-targets-by-vibecoding.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

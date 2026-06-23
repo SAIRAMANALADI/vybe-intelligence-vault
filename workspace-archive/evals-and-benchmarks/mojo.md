@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Language Design**: Mojo combines Python-like syntax with C++-like performance, offering memory safety (inspired by Rust) and compile-time metaprogramming (inspired by Zig), targeting heterogeneous hardware (CPUs/GPUs/ASICs) for AI workloads.
+- **Language Design**: Mojo combines Python-like syntax with C++-level performance, offering memory safety (Rust-inspired) and compile-time metaprogramming (Zig-inspired) for high-performance computing across CPUs, GPUs, and accelerators.
 
-- **Key Features**: Supports GPU kernel programming without vendor-specific libraries, seamless Python interoperability for incremental optimization, and compile-time metaprogramming for zero-cost abstractions (e.g., SIMD vectorization, hardware-specifi
+- **Key Features**: Supports GPU programming without vendor lock-in, zero-cost abstractions via compile-time metaprogramming, and seamless Python interoperability for incremental performance optimization.
+
+- **Roadmap & Ecosystem**: Phased development (core pa
 
 ## Use Cases
 

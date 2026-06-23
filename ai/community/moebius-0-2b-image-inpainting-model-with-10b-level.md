@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://hustvl.github.io/moebius
 hn_url: https://news.ycombinator.com/item?id=48630171
-score: 151
+score: 251
 author: DSemba
-comments_count: 39
+comments_count: 65
 published_at: '2026-06-22T19:23:02+05:30'
-collected_at: '2026-06-23T01:03:48.875548+05:30'
+collected_at: '2026-06-23T09:51:02.252850+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:moebius-0-2b-image-inpainting-model-with-10b-level
 first_seen: '2026-06-23T01:03:48.875548+05:30'
-last_seen: '2026-06-23T01:03:48.875548+05:30'
-last_checked: '2026-06-23T01:03:48.875548+05:30'
+last_seen: '2026-06-23T09:51:02.252850+05:30'
+last_checked: '2026-06-23T09:51:02.252850+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by DSemba. Score: 151, Comments: 39.
+Hacker News story by DSemba. Score: 251, Comments: 65.
 Original Link: https://hustvl.github.io/Moebius/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: DSemba
-- Score: 151 Upvotes
-- Comments: 39 Discussions
+- Score: 251 Upvotes
+- Comments: 65 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48630171
 - Original Article: https://hustvl.github.io/moebius
 

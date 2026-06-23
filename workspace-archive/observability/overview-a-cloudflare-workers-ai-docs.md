@@ -8,14 +8,14 @@ local_vault_path: ai/resources/overview-a-cloudflare-workers-ai-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Overview Â· Cloudflare Workers AI docs
@@ -24,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Workers AI**: Cloudflare's serverless GPU-accelerated inference platform enabling low-latency AI model execution at the edge.
-- **Wrangler CLI**: Tool for local development, testing, and deployment of Workers AI applications with minimal configuration.
-- **Zero-configuration**: Supports automatic binding of pre-trained models (e.g., LLMs, diffusion) via `@cloudflare/workers-ai` runtime.
+- **Workers Wrangler CLI**: A command-line tool for initializing, building, and deploying Workers AI projects, integrating with Cloudflare Workers for serverless execution.
+- **Project Initialization**: Run `npm create cloudflare@latest` to scaffold a Workers AI project with predefined templates and dependencies.
+- **Deployment**: Use `wrangler deploy` to push the Workers AI application to Cloudflare’s global network, enabling low-latency inference at the edge.
 
 ## Use Cases
 

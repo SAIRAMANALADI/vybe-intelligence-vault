@@ -2,7 +2,7 @@
 title: Medium Status
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://status.medium.com/?source=
+source_url: https://status.medium.com/?source=post_page
 resource_id: blog:medium-status
 local_vault_path: ai/rag/medium-status.md
 quality_score: 70
@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **Web Services**: 100% uptime reported for 3 components (Mar 2026–Jun 2026).
-- **Mobile Apps**: 100% uptime reported for 2 components (Mar 2026–Jun 2026).
-- **System Status**: No reported issues affecting Medium’s operational status as of the latest update.
+- **System Status**: Medium reports 100% uptime for all web services (3 components) and mobile apps (2 components) from March 2026 to June 2026.
+- **Operational State**: No known issues affecting Medium's systems during the reported period.
+- **Components**: Web services and mobile apps each consist of 3 and 2 components, respectively, all functioning without disruption.
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://status.medium.com/?source=
+Original source URL: https://status.medium.com/?source=post_page
 
 ## Local Vault File
 

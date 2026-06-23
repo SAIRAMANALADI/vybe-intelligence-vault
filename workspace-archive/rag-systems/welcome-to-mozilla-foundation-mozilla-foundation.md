@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Intersection of Media & AI Ethics**: Focuses on leveraging media as a tool to drive social impact while addressing ethical considerations in AI applications.
-- **Public Interest Tech**: Advocates for inclusive decision-making in tech development, ensuring diverse communities have a voice in co-designing solutions.
-- **Role at RNW Media**: Works at RNW Media in the Netherlands, specializing in media strategies that align with societal and ethical tech advancements.
+- **AI Ethics in Media**: Focuses on leveraging media as a tool to drive social impact while addressing AI ethics, ensuring diverse groups have a voice in tech co-design.
+- **Public Interest Tech**: Advocates for decision-making power in communities to co-create technology that serves public interest and aligns with ethical AI principles.
+- **RNW Media Role**: Works at RNW Media (Netherlands) to integrate media and AI ethics, emphasizing real-world impact and inclusive tech development.
 
 ## Use Cases
 

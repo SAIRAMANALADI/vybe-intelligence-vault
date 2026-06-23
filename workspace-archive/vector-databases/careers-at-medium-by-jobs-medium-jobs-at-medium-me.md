@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Values**: Medium prioritizes building an ad-free, high-quality publishing platform focused on meaningful storytelling, diversity, and combating harmful content, with a remote-first culture and all-company retreats.
+- **Mission-driven remote-first workplace**: Medium operates as a 100% remote company with a stipend for home office expenses, Wi-Fi reimbursement, and co-working space memberships, while hosting bi-annual all-company retreats to foster in-person collaboration.
 
-- **Scam Awareness**: Medium only hires via [Greenhouse.io](https://job-boards.greenhouse.io/medium); unsolicited job offers via LinkedIn or other platforms are fraudulent and should be reported to [help.medium.com](http://help.medium.com).
-
-- **Benefits & Hiring Policy
+- **Anti-scamming verification process**: All job offers are exclusively listed on [Greenhouse.io](https://job-boards.greenhouse.io/medium), and Medium explicitly warns against fraudulent offers via other platforms, directing candidates
 
 ## Use Cases
 

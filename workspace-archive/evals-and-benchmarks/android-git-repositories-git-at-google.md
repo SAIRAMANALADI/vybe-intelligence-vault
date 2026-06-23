@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - benchmark
 - frontend_ui
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure under `android.googlesource.com` with subdirectories for device-specific configurations (e.g., `device/google/bluejay`), kernel sources (e.g., `device/google/bluejay-kernel`), and security policies (e.g., `device/google/bluejay-sepolicy`), organized by device codename and hardware platform.
+- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/asus/flo-kernel`).
 
-- **Versioned Kernel Support**: Includes kernel branches for multiple Android versions (e.g., `5.10`, `5.15`, `6.1`) unde
+- **Multi-Project Manifests & Branching**: Uses `manifest` repositories (e.g., `accessories/manifest`, `brillo/manifest`) to define project dependencies and configurations, with kernel versions tracked in subd
 
 ## Use Cases
 

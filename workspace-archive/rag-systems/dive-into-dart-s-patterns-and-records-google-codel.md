@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dive-into-dart-s-patterns-and-records-google-codel.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Dive into Dart's patterns and records | Google Codelabs
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Records in Dart 3**: Enable returning multiple values of different types from functions using comma-delimited fields enclosed in parentheses, supporting both named and positional fields (e.g., `(String, {DateTime modified})`).
-- **Pattern Matching & Destructuring**: Patterns validate and extract data from records/objects into local variables (e.g., `final (title, :modified) = document.metadata`), reducing boilerplate via destructuring.
-- **Switch Enhancements**: Dart 3 introduces exhaustive
+- **Records in Dart 3**: Enable returning multiple values of different types from functions using comma-delimited, parenthesized structures with support for both positional (e.g., `$1`) and named fields (e.g., `modified:`).
+- **Pattern Matching & Destructuring**: Patterns validate structure, extract values, and bind them to variables (e.g., `(title, :modified)`) for concise data unpacking from records or objects.
+- **Switch Enhancements**: Dart 3 introduces switch expressions and exhaustive case
 
 ## Use Cases
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access, licensing, and terms, ensuring fair value exchange and consent-driven data usage.
+- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access terms, licensing, and revenue (100% retained by rights holders).
 
-- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI and technology development serves underrepresented communities, emphasizing provenance, ethical governance, and open/community-driv
+- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI/ML technologies are inclusive, with provenance tracking and consent-based licensing for ethical data usage.
+
+- **Community-Driven Governance**: Opera
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/atlassian-design.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Unified Design System**: Atlassian employs a cohesive design language across all products, ensuring consistency and familiarity for teams while enabling efficient collaboration.
+- **Unified Design System**: Atlassian employs a cohesive design language across all products, ensuring consistency and familiarity for teams, with foundational components like color, typography, iconography, and grid systems.
 
-- **AI Integration**: The design system incorporates AI patterns (e.g., Rovo) to enhance user experiences, focusing on clarity and usability in AI-driven workflows.
+- **AI Integration Patterns**: The design system includes AI-specific patterns (e.g., Rovo) to create clear, useful AI experiences, emphasizing human-AI collaboration and workflow optimization.
 
-- **Foundational Components**: Includes structured foundations such as color systems, typography, accessibility guidelines, and design tokens to standa
+- **Accessibility & Tokens**: The system enforces accessibility standards (e.
 
 ## Use Cases
 

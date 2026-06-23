@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.flutter.dev/get-started/install
-published_at: '2026-06-23T01:13:47.920836+05:30'
-collected_at: '2026-06-23T01:13:47.920845+05:30'
+published_at: '2026-06-23T10:01:16.609982+05:30'
+collected_at: '2026-06-23T10:01:16.609994+05:30'
 tags:
 - producthunt
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:install-flutter
-first_seen: '2026-06-23T01:13:47.920845+05:30'
-last_seen: '2026-06-23T01:13:47.920845+05:30'
-last_checked: '2026-06-23T01:13:47.920845+05:30'
+first_seen: '2026-06-23T10:01:16.609994+05:30'
+last_seen: '2026-06-23T10:01:16.609994+05:30'
+last_checked: '2026-06-23T10:01:16.609994+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Flutter SDK installation provides two primary setup paths: **Quick Start** (VS Code/Code OSS-based editors) for rapid environment setup and **Custom Setup** for manual SDK installation and platform configuration.
-- Flutter supports **online testing via DartPad** for single-file apps without local setup, while **SDK updates** require following the [Upgrading Flutter](https://docs.flutter.dev/install/upgrade) process, including checks for breaking changes in release notes.
-- Flutter SDK management includes **PATH configuration**, **troubleshooting guides** for environment issues, and **SDK uninstallation** procedures, with recommended use of `stable` or `beta` releases for production apps.
+- Flutter SDK installation requires adding the SDK path to the system `PATH` environment variable for command-line access.
+- Flutter provides two primary setup paths: **Quick Start** (VS Code/Code OSS-based editors) and **Custom Setup** (manual SDK installation and platform configuration).
+- Flutter supports version management via release channels (`stable`, `beta`) and provides tools for upgrading, troubleshooting, and reverting to previous SDK releases.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:13:47.920836+05:30
+- Published: 2026-06-23T10:01:16.609982+05:30
 
 ## Related Tags
 

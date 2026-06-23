@@ -17,12 +17,12 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
 | [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
+| [Gainsight University](https://education.gainsight.com) | `mcp-registry/` | 70 |
 | [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
 | [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
+| [Greenhouse | Applicant tracking software & hiring platform](https://www.greenhouse.com) | `mcp-registry/` | 70 |
+| [Better Stack - 30x cheaper than Datadog, Exceptional support](https://betterstack.com) | `mcp-registry/` | 70 |
 | [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](https://unity3d.com) | `mcp-registry/` | 70 |
-| [langgenius/dify](https://github.com/langgenius/dify) | `mcp-registry/` | 70 |
-| [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](https://arxiv.org/abs/2606.18037) | `mcp-registry/` | 70 |
-| [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

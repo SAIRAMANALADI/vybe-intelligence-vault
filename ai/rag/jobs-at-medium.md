@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://job-boards.greenhouse.io/medium
-published_at: '2026-06-22T10:30:12.714134+05:30'
-collected_at: '2026-06-22T10:30:12.714143+05:30'
+published_at: '2026-06-23T10:02:44.702888+05:30'
+collected_at: '2026-06-23T10:02:44.702896+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:jobs-at-medium
-first_seen: '2026-06-22T10:30:12.714143+05:30'
-last_seen: '2026-06-22T10:30:12.714143+05:30'
-last_checked: '2026-06-22T10:30:12.714143+05:30'
+first_seen: '2026-06-23T10:02:44.702896+05:30'
+last_seen: '2026-06-23T10:02:44.702896+05:30'
+last_checked: '2026-06-23T10:02:44.702896+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- No active job postings or career opportunities listed on Medium's official careers page as of the latest scan.
-- Medium's hiring pipeline appears to be currently inactive, with no roles open for application.
-- Job seekers cannot set up alerts for opportunities since no positions are available.
+- **No active job postings** at Medium as of the article's publication date.
+- **Job alert feature** available for users to receive notifications for future openings via email.
+- **Medium's mission** remains focused on building a premier platform for reading and writing content online.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:30:12.714134+05:30
+- Published: 2026-06-23T10:02:44.702888+05:30
 
 ## Related Tags
 

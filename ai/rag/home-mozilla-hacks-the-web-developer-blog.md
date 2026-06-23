@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://hacks.mozilla.org
-published_at: '2026-06-22T11:33:37.401299+05:30'
-collected_at: '2026-06-22T11:33:37.401308+05:30'
+published_at: '2026-06-23T10:02:07.763456+05:30'
+collected_at: '2026-06-23T10:02:07.763462+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:home-mozilla-hacks-the-web-developer-blog
-first_seen: '2026-06-22T11:33:37.401308+05:30'
-last_seen: '2026-06-22T11:33:37.401308+05:30'
-last_checked: '2026-06-22T11:33:37.401308+05:30'
+first_seen: '2026-06-23T10:02:07.763462+05:30'
+last_seen: '2026-06-23T10:02:07.763462+05:30'
+last_checked: '2026-06-23T10:02:07.763462+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Web Serial API in Firefox 151**: Enables direct web-to-hardware communication (e.g., microcontrollers, 3D printers) without native software, expanding IoT/web integration capabilities.
-- **Firefox 148 Sanitizer API**: First browser to implement standardized `Sanitizer` API for DOM insertion of untrusted HTML, mitigating XSS vulnerabilities via built-in sanitization.
-- **CRLite in Firefox**: Implements private, high-speed certificate revocation checks (via compressed certificate logs) without exposing user browsing data, improving TLS security.
+- **Firefox 151 introduces Web Serial API**, enabling direct web-based communication with serial-connected hardware (e.g., microcontrollers, 3D printers) without native software dependencies.
+- **Firefox 148 ships the standardized Sanitizer API**, replacing `innerHTML` with `setHTML` to mitigate XSS vulnerabilities via DOM sanitization.
+- **Mozilla deployed CRLite in Firefox**, providing fast, private certificate revocation checks without exposing user browsing activity to third parties.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:33:37.401299+05:30
+- Published: 2026-06-23T10:02:07.763456+05:30
 
 ## Related Tags
 

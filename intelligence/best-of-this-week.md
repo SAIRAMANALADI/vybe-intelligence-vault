@@ -5,6 +5,7 @@ Curated highlights from the current week's collection, representing high-quality
 ## Top Highlights
 
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Announcing Dart 3.9 | The Dart Blog](https://blog.dart.dev/announcing-dart-3-9-ba49e8f38298) (Score: 70) - Category: `ai-coding-agents/`
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Codex](https://codex.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Fair Cognitive Impairment Detection Through Unlearning](https://arxiv.org/abs/2606.18571) (Score: 70) - Category: `ai-coding-agents/`
 *   [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) (Score: 70) - Category: `ai-coding-agents/`
 *   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
-*   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

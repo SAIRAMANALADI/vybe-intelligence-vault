@@ -6,16 +6,16 @@ source_name: Web Discovery
 source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
 -----d10bb5769280---------------------------------------
-published_at: '2026-06-23T01:05:09.094200+05:30'
-collected_at: '2026-06-23T01:05:09.094212+05:30'
+published_at: '2026-06-23T09:53:26.139210+05:30'
+collected_at: '2026-06-23T09:53:26.139217+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-23T01:05:09.094212+05:30'
-last_seen: '2026-06-23T01:05:09.094212+05:30'
-last_checked: '2026-06-23T01:05:09.094212+05:30'
+first_seen: '2026-06-23T09:53:26.139217+05:30'
+last_seen: '2026-06-23T09:53:26.139217+05:30'
+last_checked: '2026-06-23T09:53:26.139217+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication & Navigation**: Medium employs OAuth2-based authentication flows for sign-in (`/m/signin`) and registration (`/m/signin?operation=register`), with redirects to post-auth endpoints (e.g., `/new-story`). The UI integrates a global navigation bar with persistent links to sitemap, app download, search, and write functionality.
+- **Medium's sitemap.xml** provides structured XML-based navigation for search engine indexing, including links to `/blog`, `/search`, and `/new-story` endpoints for content discovery and user onboarding.
 
-- **Content & Editorial Structure**: The Medium Blog (official publication) aggregates content via topic-based URLs (e.g., `/all?topic=product`) and features 5+ editors. Follower counts (3.4M) and contributor avatars (e.g., Scott Lamb, Kassandra @ Medium) are dynamically rendered, while promotional banners use responsive image endpoints (`resize:fit:500/900`).
+- **Medium’s frontend** integrates dynamic UI components (e.g., avatars, logos) via CDN-hosted assets (`miro.medium.com`) and supports multi-platform access through app store links (`com.medium.reader`) and web-based sign-in/registration flows.
 
-- **Platform Integration & Policies**: Cross-platform links (Android app, text-to-speech) and legal endpoints (Privacy, Terms, Rules) are centralized under `/policy/` and `/help/`. Status checks are available via `status.medium.com`, and newsletter subscriptions leverage `/newsletter` with weekly delivery.
+- **Medium’s content ecosystem** includes editorial teams (5+ editors), topic-specific feeds (e.g., `Product News`), a weekly newsletter (`/newsletter`), and compliance pages (Privacy, Terms, Rules) hosted under `/policy` and `/about` subdomains.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:05:09.094200+05:30
+- Published: 2026-06-23T09:53:26.139210+05:30
 
 ## Related Tags
 

@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Dify**: Production-ready TypeScript/JavaScript platform for agentic workflow development with Docker-based deployment, supporting customizable AI app creation and integration with Ollama.
+- **dify**: TypeScript-based production-ready platform for agentic workflow development, enabling orchestration of AI agents with built-in RAG capabilities and modular component integration.
 
-- **RAGFlow**: Open-source Python-based RAG engine combining advanced retrieval with agent capabilities, optimized for LLMs with structured data processing and EU AI Act compliance support.
+- **ragflow**: Python-based open-source RAG engine combining advanced retrieval with agentic workflows, supporting structured data extraction from PDFs/images via OCR (PaddleOCR integration) for LLM context augmentation.
 
-- **Milvus**: High-performance, cloud-native Go vector database designed for scalable approximate nearest neighbor (
+- **Milvus**: Go-based cloud-native vector database optimized for high-performance, di
 
 ## Use Cases
 

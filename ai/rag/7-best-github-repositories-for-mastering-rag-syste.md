@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-published_at: '2026-06-23T01:04:40.784076+05:30'
-collected_at: '2026-06-23T01:04:40.784088+05:30'
+published_at: '2026-06-23T09:52:49.905361+05:30'
+collected_at: '2026-06-23T09:52:49.905376+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-23T01:04:40.784088+05:30'
-last_seen: '2026-06-23T01:04:40.784088+05:30'
-last_checked: '2026-06-23T01:04:40.784088+05:30'
+first_seen: '2026-06-23T09:52:49.905376+05:30'
+last_seen: '2026-06-23T09:52:49.905376+05:30'
+last_checked: '2026-06-23T09:52:49.905376+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation in RAG pipelines; supports Python, JavaScript, and TypeScript with integrations to providers like OpenAI and Hugging Face.
+- **LangChain**: Open-source LLM toolkit with modular RAG pipeline components (document loading, text splitting, embedding, retrieval, output generation) supporting Python/JS/TS and integrations with OpenAI, Hugging Face, Azure.
 
-- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise applications, featuring modular pipelines for document retrieval, indexing, and query processing with pre-built components for scalability and production deployment.
+- **RAGFlow**: Open-source RAG system with document preprocessing, vector storage (Milvus/Weaviate), and hybrid retrieval (dense + sparse) for enterprise-grade context-aware LLM responses.
 
-- **LlamaIndex**: Data framework for building RAG systems, offering tools for indexing, querying, and integrating custom data sources; supports advanced retrieval techniques like vector and keyword search with Python-based APIs.
+- **LlamaIndex**: Data framework for RAG pipelines, offering document ingestion, indexing (vector + keyword), and query engines with support for advanced retrieval techniques (e.g., sub-question querying, multi-modal inputs).
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:04:40.784076+05:30
+- Published: 2026-06-23T09:52:49.905361+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html
-published_at: '2026-06-23T01:05:55.332258+05:30'
-collected_at: '2026-06-23T01:05:55.332270+05:30'
+published_at: '2026-06-23T09:54:37.973521+05:30'
+collected_at: '2026-06-23T09:54:37.973528+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cypher-variable-length-relationships-by-example
-first_seen: '2026-06-23T01:05:55.332270+05:30'
-last_seen: '2026-06-23T01:05:55.332270+05:30'
-last_checked: '2026-06-23T01:05:55.332270+05:30'
+first_seen: '2026-06-23T09:54:37.973528+05:30'
+last_seen: '2026-06-23T09:54:37.973528+05:30'
+last_checked: '2026-06-23T09:54:37.973528+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Variable-length relationships in Cypher are specified using the `*n..m` syntax, where `n` is the minimum and `m` the maximum path length (e.g., `-[:KNOWS*2..3]->` matches paths with 2 or 3 `KNOWS` relationships).
-- Zero-length paths (`*0`) bind the same node to both ends of a pattern, enabling unified result handling without `OPTIONAL MATCH` (e.g., `-[:PREVIOUS_POST*0..1]->` captures posts with/without prior posts).
-- Infinite-length paths (`*`) should be avoided in production due to performance risks; always constrain with upper bounds (e.g., `-[:KNOWS*..5]->`) to prevent unbounded traversals.
+- Cypher supports **variable-length relationships** in patterns using `*minHops..maxHops` syntax (e.g., `-[:KNOWS*2..3]->`), enabling traversal of paths with dynamic or unbounded depth.
+- **Zero-length paths** (`*0`) bind the same node to both ends of a relationship pattern, simplifying queries where optional relationships may not exist (e.g., retrieving all posts regardless of prior/next links).
+- Infinite-length paths (`*`) should be avoided in production due to performance risks; always specify upper bounds (e.g., `*..5`) to constrain traversal depth.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:05:55.332258+05:30
+- Published: 2026-06-23T09:54:37.973521+05:30
 
 ## Related Tags
 
