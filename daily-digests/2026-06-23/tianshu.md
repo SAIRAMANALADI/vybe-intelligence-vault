@@ -1,27 +1,27 @@
 ---
 title: "tianshu-ai/tianshu"
-category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Playwright", "noVNC", "Microsandbox", "SQLite", "REST/WebSocket APIs", "Docker", "LLM APIs (Anthropic, OpenAI, Google)"]
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Node.js", "React", "Vite", "Playwright", "noVNC", "microsandbox", "REST/WebSocket APIs", "Docker", "launchd/systemd"]
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent platform", "browser automation", "multi-tenant", "sandbox isolation", "self-hosted"]
+tags: ["AI agent platform", "multi-tenant", "browser automation", "sandbox isolation", "orchestration"]
 source: "https://github.com/tianshu-ai/tianshu"
-discovered_at: "2026-06-23T13:43:00Z"
+discovered_at: "2026-06-23T16:29:37Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Tianshu is a self-hosted AI agent platform that provides real browser automation, isolated Linux sandboxes, and multi-tenant workspaces for AI-driven tasks. It includes a setup assistant to configure providers, plugins, and sandboxes interactively.
+Tianshu is a self-hosted AI agent platform that provides real browser automation, isolated Linux sandboxes, and multi-tenant workspaces for AI-driven workflows. It includes a setup assistant and orchestrator for managing agents, tools, and configurations.
 
 ## Key Features
-- Real Chromium browser sidecar per tenant with live visualization via noVNC
-- Isolated Linux sandboxes (microsandbox) for secure execution of arbitrary commands
-- Interactive setup assistant with 18+ tools for configuration, troubleshooting, and updates
-- Multi-tenant architecture with tenant-isolated workspaces, sidecars, and worker pools
-- Background worker pool for parallel task execution with real-time monitoring
+- Real Chromium browser sidecar per tenant with Playwright + noVNC for live interaction
+- Isolated Linux sandboxes per tenant using microsandbox for secure execution
+- Multi-tenant workspace with persistent file systems and real-time UI preview
+- Interactive setup assistant with 18 tools for configuration, sandbox building, and troubleshooting
+- Orchestrator-driven analytics and recommendations for tuning agent performance
 
 ## Why It Matters for RAG Builders
-Tianshu provides a robust, self-hosted foundation for building production-grade AI agents with secure execution environments and real browser automation, critical for RAG systems requiring sandboxed tool execution and multi-tenant isolation.
+Tianshu provides a robust, self-hosted foundation for building and managing AI agents with real browser automation and secure sandboxing, critical for production-grade RAG and agentic workflows.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,11 +42,8 @@ Automated review identified **Playwright** as a key module contributing to infra
 ### noVNC
 Automated review identified **noVNC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Microsandbox
-Automated review identified **Microsandbox** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### microsandbox
+Automated review identified **microsandbox** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### REST/WebSocket APIs
 Automated review identified **REST/WebSocket APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -54,8 +51,8 @@ Automated review identified **REST/WebSocket APIs** as a key module contributing
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM APIs (Anthropic, OpenAI, Google)
-Automated review identified **LLM APIs (Anthropic, OpenAI, Google)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### launchd/systemd
+Automated review identified **launchd/systemd** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

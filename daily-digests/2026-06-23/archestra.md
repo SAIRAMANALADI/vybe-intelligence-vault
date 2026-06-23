@@ -3,25 +3,25 @@ title: "archestra-ai/archestra"
 category: "Orchestrator"
 tech_stack: ["TypeScript", "Docker", "Kubernetes", "PostgreSQL", "MCP (Model Context Protocol)", "A2A Protocol", "Terraform", "Helm"]
 quality_score: 9
-rag_relevance: 8
-tags: ["MCP orchestrator", "AI security", "enterprise AI", "prompt injection prevention", "cost optimization"]
+rag_relevance: 10
+tags: ["MCP orchestrator", "AI security", "RAG platform", "enterprise AI", "prompt injection prevention"]
 source: "https://github.com/archestra-ai/archestra"
-discovered_at: "2026-06-23T10:40:24Z"
+discovered_at: "2026-06-23T16:32:51Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Archestra is an MCP-native secure AI platform that centralizes and orchestrates Model Context Protocol (MCP) servers, providing observability, security guardrails, and cost management for enterprise AI deployments. It enables organizations to adopt MCP tools at scale while mitigating risks like data exfiltration and prompt injection attacks.
+Archestra is an MCP-native secure AI platform designed to centralize and secure AI tooling, observability, and governance for enterprises. It provides a unified orchestrator for MCP servers, built-in RAG knowledge bases, and robust security guardrails to prevent data exfiltration and prompt injection attacks.
 
 ## Key Features
-- Centralized MCP server management with Kubernetes-native orchestration
-- Built-in RAG knowledge base without requiring external vector databases
+- Centralized MCP server orchestration with Kubernetes-native deployment
+- Built-in RAG knowledge base eliminating the need for external vector databases
 - Non-probabilistic security engine to prevent data exfiltration and prompt injection attacks
-- Cost monitoring, dynamic optimization, and per-team/organization limits
-- Observability with metrics, traces, and logs for AI usage and performance
+- Cost monitoring, limits, and dynamic model optimization reducing AI expenses up to 96%
+- Comprehensive observability with metrics, traces, and logs for AI usage tracking
 
 ## Why It Matters for RAG Builders
-Archestra provides a critical security and governance layer for MCP-based AI systems, enabling safe and scalable enterprise adoption while reducing operational complexity and costs.
+Archestra provides a critical security and governance layer for RAG builders, ensuring safe and cost-effective deployment of MCP-based AI systems at enterprise scale.
 
 ## Tech Stack Deep Dive
 ### TypeScript

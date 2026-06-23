@@ -4,24 +4,24 @@ category: "Agent Framework"
 tech_stack: ["Python", "Claude API", "OpenAI API", "SE Ranking MCP Server", "Flask (for optional web UI)", "Mermaid.js (for architecture diagrams)", "YAML (for configuration)"]
 quality_score: 9
 rag_relevance: 7
-tags: ["SEO automation", "Claude agent", "Content strategy", "Search intelligence", "MCP server"]
+tags: ["SEO automation", "Claude Agent", "Content strategy", "Backlink analysis", "Schema markup"]
 source: "https://github.com/Mary2241/seo-skills-agent-toolbox"
-discovered_at: "2026-06-23T10:40:51Z"
+discovered_at: "2026-06-23T16:33:35Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A production-grade Claude Agent Skills framework for the SE Ranking MCP server that automates SEO tasks like content brief generation, AI Search share of voice analysis, backlink gap identification, and schema markup optimization. It transforms raw search data into actionable content strategies using a behavioral framework for AI agents.
+A production-grade framework for automating SEO tasks using Claude Agents and the SE Ranking MCP server. It transforms raw search data into actionable content strategies, including content brief generation, AI Search share of voice analysis, backlink gap identification, and schema markup optimization.
 
 ## Key Features
 - Content brief generation with intent stratification (informational, navigational, commercial, transactional)
 - AI Search Share of Voice (SSoV) measurement for brand visibility in AI-generated summaries
-- Backlink gap identification with semantic relevance and domain authority classification
+- Backlink gap identification with semantic relevance classification
 - Keyword cluster mapping using cosine similarity for intent-based grouping
-- Schema markup generation and validation for FAQ, HowTo, Product, and other structured data types
+- Schema markup generation and validation for multiple content types (FAQ, Product, Article, etc.)
 
 ## Why It Matters for RAG Builders
-This framework enables AI agents to autonomously perform advanced SEO tasks, reducing manual effort and improving content strategy accuracy for RAG pipelines.
+It enables AI agents to autonomously execute complex SEO workflows, reducing manual effort and improving content strategy precision for RAG pipelines.
 
 ## Tech Stack Deep Dive
 ### Python

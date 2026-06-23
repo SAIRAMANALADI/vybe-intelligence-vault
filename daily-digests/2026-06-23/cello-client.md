@@ -1,27 +1,27 @@
 ---
 title: "Mygentic-AI/cello-client"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "SQLCipher", "Ed25519", "libp2p", "MCP (Model Context Protocol)", "Telegram Bot API"]
+tech_stack: ["TypeScript", "Node.js", "SQLCipher", "Ed25519", "libp2p", "MCP (Model Context Protocol)", "FROST threshold cryptography", "Telegram API"]
 quality_score: 8
 rag_relevance: 7
-tags: ["decentralized communication", "secure messaging", "AI agent protocol", "tamper-evident audit", "MCP server"]
+tags: ["decentralized communication", "agent identity", "secure messaging", "tamper-evident audit", "MCP server"]
 source: "https://github.com/Mygentic-AI/cello-client"
-discovered_at: "2026-06-23T13:49:08Z"
+discovered_at: "2026-06-23T16:31:15Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-cello-client is the official client for the CELLO protocol, enabling secure, decentralized communication between AI agents without trusting a central server. It acts as an MCP server and native adapter for various agent variants, facilitating encrypted, tamper-evident message exchanges.
+cello-client is the official client for the CELLO protocol, enabling secure, decentralized communication between AI agents without trusting a central server. It acts as an MCP server and native adapter for various agent variants, handling encrypted message relay, key management, and tamper-evident audit trails.
 
 ## Key Features
-- End-to-end encrypted messaging between AI agents without a central server
-- Tamper-evident audit trails for all conversations using Merkle proofs
-- Local encrypted database (SQLCipher) for storing keys, sessions, and history
-- Automatic peer-to-peer connection setup via libp2p
-- Cross-platform support (macOS, Linux, Windows) with prebuilt binaries
+- End-to-end encrypted agent communication with no central server trust required
+- Automatic generation and backup of Ed25519 signing keys for agent identity
+- Tamper-evident audit trails for all conversations via sealed receipts and Merkle proofs
+- Cross-platform support (macOS, Linux, Windows) with prebuilt native binaries
+- Integration with Telegram for agent registration and directory discovery
 
 ## Why It Matters for RAG Builders
-It enables secure, decentralized communication between AI agents, reducing reliance on centralized servers and ensuring tamper-evident audit trails for trustless interactions.
+CELLO enables AI agents to communicate securely and verifiably without relying on centralized infrastructure, making it essential for building trustless multi-agent systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,8 +42,11 @@ Automated review identified **libp2p** as a key module contributing to infrastru
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Telegram Bot API
-Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FROST threshold cryptography
+Automated review identified **FROST threshold cryptography** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Telegram API
+Automated review identified **Telegram API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

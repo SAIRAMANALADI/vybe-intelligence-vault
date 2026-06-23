@@ -1,27 +1,27 @@
 ---
 title: "KongFangXun/sofagent"
 category: "Agent Framework"
-tech_stack: ["Bash", "Shell Scripting", "Node.js", "npm", "OpenClaw", "WorkBuddy", "Claude Code", "Codex", "Hermes Agent", "Git", "Mermaid Diagrams"]
+tech_stack: ["Bash", "Shell Scripting", "Markdown", "Node.js", "npm", "OpenClaw", "agency-orchestrator", "Git"]
 quality_score: 8
-rag_relevance: 9
-tags: ["Agent Discipline", "RAG Safety", "Behavioral Constraints", "Task Orchestration", "Reflection Loops"]
+rag_relevance: 7
+tags: ["Agent Discipline", "AI Governance", "Behavioral Constraints", "Task Orchestration", "Cross-Platform"]
 source: "https://github.com/KongFangXun/sofagent"
-discovered_at: "2026-06-23T13:42:30Z"
+discovered_at: "2026-06-23T16:25:00Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-sofagent is a discipline layer for AI agents that enforces behavioral constraints (e.g., read-before-write, verify-before-continue, cautious modifications) to improve reliability and reduce errors. It operates as a 'discipline committee' rather than a governance layer, focusing on practical constraints that enhance agent performance without requiring platform-specific enforcement.
+sofagent is a discipline layer for AI agents that enforces behavioral constraints (e.g., read-before-write, verify-before-act, cautious modifications) to improve reliability and reduce errors. It operates as a cross-platform 'discipline committee' for agents, with core functionality in plain text rules and optional orchestration for complex tasks.
 
 ## Key Features
-- Enforces 'discipline layer' constraints (e.g., read-before-write, verification, cautious modifications) to reduce agent errors by 40% in tested scenarios
-- Provides a three-tier foundation (constitution, reflection, custom rules) that remains active throughout agent sessions
-- Supports cross-platform compatibility (OpenClaw, WorkBuddy, Claude Code, Codex, Hermes Agent) with varying levels of automation
-- Includes a task orchestration engine (optional) for complex task decomposition and loop checking, primarily for OpenClaw
-- Automates reflection and error logging to improve agent learning and future task execution
+- Enforces agent discipline through a 'constitution' (4 core rules + 10 iron laws) and reflection loops to learn from mistakes
+- Cross-platform compatibility with partial support for OpenClaw, WorkBuddy, Claude Code, Codex, and Hermes Agent
+- Optional task orchestration engine for complex workflows (OpenClaw-specific)
+- Audit and logging system for tracking agent actions and outcomes
+- Lite mode for quick deployment with minimal dependencies
 
 ## Why It Matters for RAG Builders
-sofagent directly addresses the critical gap in AI agent reliability by enforcing discipline constraints that reduce errors and improve task completion rates, making it essential for RAG builders who need dependable agent behavior.
+sofagent provides a standardized, cross-platform discipline layer that improves AI agent reliability by enforcing behavioral constraints and reflection loops, reducing errors and improving task completion rates.
 
 ## Tech Stack Deep Dive
 ### Bash
@@ -29,6 +29,9 @@ Automated review identified **Bash** as a key module contributing to infrastruct
 
 ### Shell Scripting
 Automated review identified **Shell Scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -39,23 +42,11 @@ Automated review identified **npm** as a key module contributing to infrastructu
 ### OpenClaw
 Automated review identified **OpenClaw** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WorkBuddy
-Automated review identified **WorkBuddy** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Codex
-Automated review identified **Codex** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Hermes Agent
-Automated review identified **Hermes Agent** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### agency-orchestrator
+Automated review identified **agency-orchestrator** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Mermaid Diagrams
-Automated review identified **Mermaid Diagrams** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

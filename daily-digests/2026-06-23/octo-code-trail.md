@@ -1,12 +1,12 @@
 ---
 title: "Easyman2-cpu/octo-code-trail"
 category: "Tooling"
-tech_stack: ["SQLite", "Rust", "Python", "Multi-language Parsing", "Natural Language Processing (NLP)", "Mermaid.js", "YAML", "OpenAPI", "Claude API", "Terminal UI", "Web Dashboard"]
+tech_stack: ["SQLite", "Rust", "Python", "TypeScript", "JavaScript", "OpenAI API", "Claude API", "Mermaid.js", "YAML"]
 quality_score: 9
-rag_relevance: 10
-tags: ["code analysis", "knowledge graph", "SQLite", "multi-language support", "AI integration"]
+rag_relevance: 9
+tags: ["code analysis", "knowledge graph", "SQLite", "multi-language", "AI integration"]
 source: "https://github.com/Easyman2-cpu/octo-code-trail"
-discovered_at: "2026-06-23T10:41:14Z"
+discovered_at: "2026-06-23T16:34:22Z"
 evaluated_by: "mistral-small-latest"
 ---
 
@@ -15,13 +15,13 @@ CodeGraph AI is a SQLite-based code analysis platform that transforms codebases 
 
 ## Key Features
 - SQL-powered code querying across 28 languages
-- Automated change-safety gates with dependency impact scoring
+- Automated change-safety gates with impact scoring
 - Compliance-ready audit evidence generation
-- 224 MCP tools for code intelligence (dependency mapping, dead code detection, security scanning)
-- Optional OpenAI/Claude API integration for natural language queries
+- 224 MCP tools for dependency mapping, dead code detection, and security scanning
+- Optional AI integration for natural language queries
 
 ## Why It Matters for RAG Builders
-It provides a unified, queryable representation of codebases that enables precise RAG retrieval, dependency-aware context generation, and automated safety checks for AI-driven development workflows.
+CodeGraph AI provides a unified, queryable representation of codebases that enables precise RAG retrieval, dependency-aware context generation, and automated safety checks for AI-driven development workflows.
 
 ## Tech Stack Deep Dive
 ### SQLite
@@ -33,29 +33,23 @@ Automated review identified **Rust** as a key module contributing to infrastruct
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Multi-language Parsing
-Automated review identified **Multi-language Parsing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Natural Language Processing (NLP)
-Automated review identified **Natural Language Processing (NLP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude API
+Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Mermaid.js
 Automated review identified **Mermaid.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### YAML
 Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAPI
-Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Claude API
-Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Terminal UI
-Automated review identified **Terminal UI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Web Dashboard
-Automated review identified **Web Dashboard** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

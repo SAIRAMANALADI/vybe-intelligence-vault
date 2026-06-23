@@ -1,55 +1,55 @@
 ---
 title: "Jayrajsinh45/ossmate-stack-mate"
-category: "Orchestrator"
-tech_stack: ["Node.js", "Python (Subagent SDK)", "YAML (Configuration)", "CLI (Command Line Interface)", "Web Dashboard (Responsive UI)", "OpenAI API", "Claude API", "Docker (Containerization)", "Git (Version Control)"]
+category: "Tooling"
+tech_stack: ["Node.js", "Python", "Claude API", "OpenAI API", "Docker", "YAML/JSON", "CLI", "Web Dashboard", "Model Context Protocol (MCP)"]
 quality_score: 8
 rag_relevance: 7
-tags: ["Claude Code", "Extension Management", "Orchestration", "Developer Tools", "AI Workflow"]
+tags: ["Claude Code", "Extension Management", "Automation", "Developer Tools", "Orchestration"]
 source: "https://github.com/Jayrajsinh45/ossmate-stack-mate"
-discovered_at: "2026-06-23T10:40:58Z"
+discovered_at: "2026-06-23T16:33:44Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-OSSMate Commander is a unified CLI and dashboard tool designed to manage all Claude Code extension surfaces—Skills, Subagents, Hooks, MCP, Plugins, Agent SDK, and Cron—through a single intelligent command center. It acts as a central orchestrator for open-source project maintenance workflows.
+OSSMate Commander is a unified CLI and dashboard for managing Claude Code extensions, including Skills, Subagents, Hooks, MCP tools, Plugins, Agent SDKs, and Cron jobs through a single intelligent command center.
 
 ## Key Features
-- Unified management of Skills, Subagents, Hooks, MCP, Plugins, Agent SDK, and Cron through a single interface
+- Unified management of Skills, Subagents, Hooks, MCP, Plugins, and Cron jobs
 - Automated dependency resolution and version pinning for extensions
-- AI-powered error detection and self-healing capabilities for 24/7 support
-- Multi-platform support (Linux, macOS, Windows, Docker) with responsive UI and multilingual localization
-- Subagent SDK for custom extension development and integration
+- AI-powered integration with OpenAI and Claude APIs for smart orchestration
+- Responsive UI with multilingual support and terminal mode
+- 24/7 autonomous support system for self-diagnosis and remediation
 
 ## Why It Matters for RAG Builders
-It simplifies the complex orchestration of multiple AI agent extensions into a single, manageable workflow, reducing maintenance overhead and improving developer productivity.
+It simplifies the management of diverse Claude Code extension surfaces, reducing context switching and maintenance overhead for AI-driven development workflows.
 
 ## Tech Stack Deep Dive
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Python (Subagent SDK)
-Automated review identified **Python (Subagent SDK)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### YAML (Configuration)
-Automated review identified **YAML (Configuration)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CLI (Command Line Interface)
-Automated review identified **CLI (Command Line Interface)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Web Dashboard (Responsive UI)
-Automated review identified **Web Dashboard (Responsive UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### OpenAI API
-Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Python
+Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Claude API
 Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker (Containerization)
-Automated review identified **Docker (Containerization)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenAI API
+Automated review identified **OpenAI API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git (Version Control)
-Automated review identified **Git (Version Control)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### YAML/JSON
+Automated review identified **YAML/JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Web Dashboard
+Automated review identified **Web Dashboard** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
