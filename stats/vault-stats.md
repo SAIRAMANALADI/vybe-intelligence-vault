@@ -4,7 +4,7 @@
 | -------------------- | ----: |
 | Active resources     |  6091 |
 | Inactive resources   |   158 |
-| Markdown files       | 31848 |
+| Markdown files       | 31919 |
 | Archive files        | 25252 |
 | Archive categories   |    35 |
 | Skill files          |    19 |
@@ -16,16 +16,16 @@
 | Examples             |     8 |
 | Search index entries |  6091 |
 
-Last Generated: 2026-06-23 11:52 IST
+Last Generated: 2026-06-23 12:24 IST
 
 ## Top Categories
-- **Ai/Rag**: 1769 files
+- **Ai/Rag**: 1771 files
 - **Ai/Research**: 1726 files
-- **Ai/Agents**: 827 files
+- **Ai/Agents**: 826 files
 - **Ai/Models**: 774 files
 - **Ai/Resources**: 703 files
 - **Web Development/Nextjs**: 75 files
-- **Web Development**: 28 files
+- **Web Development**: 27 files
 - **Web Development/Shadcn Ui**: 26 files
 - **Web Development/Webgpu**: 26 files
 - **Web Development/Framer Motion**: 25 files

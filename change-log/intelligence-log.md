@@ -2,6 +2,15 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-06-23T12:24:40.110160+05:30
+- **[New Discovery]** `Show HN: Oak – Git alternative designed for agents` registered with score `163` in `ai/community`
+- **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
+- **[Rank Rise]** `Medium Privacy Policy | by Medium | Medium Policy`: Rank rose by +1
+- **[Rank Rise]** `The Medium Blog`: Rank rose by +1
+- **[Rank Rise]** `Medium Status`: Rank rose by +1
+- **[Rank Rise]** `Medium Help Center`: Rank rose by +1
+- **[Rank Drop]** `Medium Terms of Service | by Medium | Medium Policy`: Rank dropped by -4
+
 ### Run: 2026-06-23T11:52:01.802342+05:30
 - **[New Discovery]** `Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040` registered with score `372` in `ai/community`
 - **[New Discovery]** `Polymarket has flooded social media with deceptive videos by paid creators` registered with score `83` in `ai/community`
