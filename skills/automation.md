@@ -20,11 +20,11 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 1485 resources matched in the intelligence vault.
 Recently detected signals:
-- [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Cour de justice de l'UE (@Curia_fr@curia.social-network.europa.eu) - Mastodon](../ai/resources/cour-de-justice-de-l-ue-curia-fr-curia-social-netw.md) (Source: Unknown Source) - Collected 2026-06-23
-- [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Home - Inside Atlassian](../ai/agents/home-inside-atlassian.md) (Source: Unknown Source) - Collected 2026-06-23
-- [EU Funding & Tenders Portal](../ai/resources/eu-funding-tenders-portal.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) (Source: Unknown Source) - Collected 2026-06-23
+- [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) (Source: Unknown Source) - Collected 2026-06-23
+- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) (Source: Unknown Source) - Collected 2026-06-23
+- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) (Source: Unknown Source) - Collected 2026-06-23
+- [malonge/RaGOO](../ai/rag/malonge-ragoo.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,65 +95,65 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **GitHub Core Functionality**: GitHub integrates Git (open-source VCS) with cloud-based collaboration tools, enabling repository management, version control, and secure access via SSH for remote ...
 
-### 14. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
+### 14. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (GitHub Classroom-created)
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (0 stars, 66 forks)
 
 ### 15. [SciPhi-AI/R2R](../ai/rag/sciphi-ai-r2r.md) ([GitHub](https://github.com/sciphi-ai/r2r))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic agentic workflows for AI-driven retrieval tasks.
 
-### 16. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow`, a GitHub Classroom-created Python-based repository for RAG (Retrieval-Augmented Generation) homework assignment...
-
-### 17. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 16. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 18. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+### 17. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 19. [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md) ([GitHub](https://github.com/sirius-zuo/devops-skills))
+### 18. [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md) ([GitHub](https://github.com/sirius-zuo/devops-skills))
 - Stars: 0
 - Language: Unknown
 - Description: A collection of DevOps skills designed for LLM-powered agents and AI workflows. This repository provides reusable capabilities, tools, prompts, and best-practice patterns to help automate infrastru...
 
-### 20. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+### 19. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
 - Stars: 0
 - Language: Unknown
 - Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
 
-### 21. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
+### 20. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
 - Stars: 0
 - Language: Unknown
 - Description: - **Course Repository**: GitHub repository named `production-agentic-rag-course` focused on production-level agentic RAG (Retrieval-Augmented Generation) systems.
 
-### 22. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 21. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-### 23. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+### 22. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - Stars: 0
 - Language: Unknown
 - Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-### 24. [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md) ([GitHub](https://github.com/towardsai/ragbook-notebooks))
+### 23. [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md) ([GitHub](https://github.com/towardsai/ragbook-notebooks))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Hosts Jupyter Notebooks accompanying the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
 
-### 25. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
+### 24. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: VoltAgent/awesome-ai-agent-papers
+
+### 25. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), a GitHub Classroom-created Python-based project.
 
 ### 26. [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md) ([GitHub](https://github.com/infiniumtek/terraform-review-agent))
 - Stars: 0
@@ -198,7 +198,7 @@ Recently detected signals:
 ### 34. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal retrieval techniques with framework...
+- Description: - **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating tools like LangChain, LlamaIndex, and Milvus for...
 
 ### 35. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md) ([GitHub](https://github.com/mergisi/awesome-openclaw-agents))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T11:51:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.922417+05:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

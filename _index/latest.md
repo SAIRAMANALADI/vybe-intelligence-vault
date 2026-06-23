@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [OECC2026](../ai/rag/oecc2026.md) ([Source URL](https://oecc2026.org/workshops.php))
+### 1. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([Source URL](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:16:26.777447+05:30
-- **Local Path**: `ai/rag/oecc2026.md`
+- **Collected At**: 2026-06-23T15:35:15.848018+05:30
+- **Local Path**: `ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md`
 
-### 2. [Discover Sengi](../ai/resources/discover-sengi.md) ([Source URL](https://nicolasconstant.github.io/sengi))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:16:21.052653+05:30
-- **Local Path**: `ai/resources/discover-sengi.md`
-
-### 3. [Get an app for Mastodon - Mastodon](../ai/resources/get-an-app-for-mastodon-mastodon.md) ([Source URL](https://joinmastodon.org/apps))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:16:16.350049+05:30
-- **Local Path**: `ai/resources/get-an-app-for-mastodon-mastodon.md`
-
-### 4. [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md) ([Source URL](https://atlassian.com/blog/ai-at-work/teaching-ai-to-speak-our-design-language))
+### 2. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:16:10.803010+05:30
-- **Local Path**: `ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md`
+- **Collected At**: 2026-06-23T15:35:10.841594+05:30
+- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md`
 
-### 5. [Atlassian Support](../ai/resources/atlassian-support.md) ([Source URL](https://support.atlassian.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:16:06.846990+05:30
-- **Local Path**: `ai/resources/atlassian-support.md`
-
-### 6. [Cour de justice de l'UE (@Curia_fr@curia.social-network.europa.eu) - Mastodon](../ai/resources/cour-de-justice-de-l-ue-curia-fr-curia-social-netw.md) ([Source URL](https://curia.social-network.europa.eu/@curia_fr))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:16:02.605879+05:30
-- **Local Path**: `ai/resources/cour-de-justice-de-l-ue-curia-fr-curia-social-netw.md`
-
-### 7. [The European Commission 2024-2029](../ai/rag/the-european-commission-2024-2029.md) ([Source URL](https://ec.europa.eu/stories/2024-2029-commission))
+### 3. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:15:56.341306+05:30
-- **Local Path**: `ai/rag/the-european-commission-2024-2029.md`
+- **Collected At**: 2026-06-23T15:35:05.860174+05:30
+- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md`
 
-### 8. [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md) ([Source URL](https://atlassian.com/blog/ai-at-work/how-content-assistant-raised-the-design-quality-bar-without-slowing-us-down))
+### 4. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source URL](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:15:50.075932+05:30
-- **Local Path**: `ai/rag/how-content-assistant-raised-the-design-quality-ba.md`
+- **Collected At**: 2026-06-23T15:35:00.874141+05:30
+- **Local Path**: `ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md`
 
-### 9. [Home · Chips Ju](../ai/resources/home-chips-ju.md) ([Source URL](https://chips-ju.europa.eu))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:15:44.991059+05:30
-- **Local Path**: `ai/resources/home-chips-ju.md`
-
-### 10. [Use of languages on our websites | European Union](../ai/rag/use-of-languages-on-our-websites-european-union.md) ([Source URL](https://european-union.europa.eu/languages-our-websites_en))
+### 5. [malonge/RaGOO](../ai/rag/malonge-ragoo.md) ([Source URL](https://github.com/malonge/ragoo))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:15:39.428401+05:30
-- **Local Path**: `ai/rag/use-of-languages-on-our-websites-european-union.md`
+- **Collected At**: 2026-06-23T15:34:55.773439+05:30
+- **Local Path**: `ai/rag/malonge-ragoo.md`
 
-### 11. [Home - Inside Atlassian](../ai/agents/home-inside-atlassian.md) ([Source URL](https://atlassian.com/blog))
+### 6. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md) ([Source URL](https://github.com/sylphai-inc/githubchat))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T15:34:50.857261+05:30
+- **Local Path**: `ai/rag/sylphai-inc-githubchat.md`
+
+### 7. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md) ([Source URL](https://github.com/particlemedia/ragtruth))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T15:34:45.850844+05:30
+- **Local Path**: `ai/rag/particlemedia-ragtruth.md`
+
+### 8. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([Source URL](https://github.com/raganwald/raganwald.github.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T15:34:40.838277+05:30
+- **Local Path**: `ai/rag/raganwald-raganwald-github-com.md`
+
+### 9. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([Source URL](https://github.com/datawhalechina/llm-universe))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T15:34:35.854635+05:30
+- **Local Path**: `ai/rag/datawhalechina-llm-universe.md`
+
+### 10. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([Source URL](https://github.com/datawhalechina/all-in-rag))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-23T15:34:24.802911+05:30
+- **Local Path**: `ai/rag/datawhalechina-all-in-rag.md`
+
+### 11. [crewAIInc/crewAI Release: 1.14.8a2](../ai/rag/crewaiinc-crewai.md) ([Source URL](https://github.com/crewaiinc/crewai))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:15:33.872151+05:30
-- **Local Path**: `ai/agents/home-inside-atlassian.md`
+- **Collected At**: 2026-06-23T15:33:34.786278+05:30
+- **Local Path**: `ai/rag/crewaiinc-crewai.md`
 
-### 12. [Home | Clean Aviation](../ai/resources/home-clean-aviation.md) ([Source URL](https://clean-aviation.eu))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:15:28.280998+05:30
-- **Local Path**: `ai/resources/home-clean-aviation.md`
-
-### 13. [Homepage - Clean Hydrogen Partnership - European Union](../ai/resources/homepage-clean-hydrogen-partnership-european-union.md) ([Source URL](https://clean-hydrogen.europa.eu/index_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:15:22.695139+05:30
-- **Local Path**: `ai/resources/homepage-clean-hydrogen-partnership-european-union.md`
-
-### 14. [Court of Justice of the European Union - curia](../ai/resources/court-of-justice-of-the-european-union-curia.md) ([Source URL](https://curia.europa.eu/jcms/jcms/j_6/en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:15:16.674352+05:30
-- **Local Path**: `ai/resources/court-of-justice-of-the-european-union-curia.md`
-
-### 15. [EU institutions and bodies profiles | European Union](../ai/resources/eu-institutions-and-bodies-profiles-european-union.md) ([Source URL](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:15:10.260674+05:30
-- **Local Path**: `ai/resources/eu-institutions-and-bodies-profiles-european-union.md`
-
-### 16. [Implementing decision - 2021/914 - EN - EUR-Lex](../ai/rag/implementing-decision-2021-914-en-eur-lex.md) ([Source URL](http://data.europa.eu/eli/dec_impl/2021/914/oj))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:15:04.966977+05:30
-- **Local Path**: `ai/rag/implementing-decision-2021-914-en-eur-lex.md`
-
-### 17. [Funding and tenders - European Commission](../ai/resources/funding-and-tenders-european-commission.md) ([Source URL](https://commission.europa.eu/funding-tenders_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:58.068152+05:30
-- **Local Path**: `ai/resources/funding-and-tenders-european-commission.md`
-
-### 18. [EU Funding & Tenders Portal](../ai/resources/eu-funding-tenders-portal.md) ([Source URL](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:54.146748+05:30
-- **Local Path**: `ai/resources/eu-funding-tenders-portal.md`
-
-### 19. [European Data Portal](../ai/resources/european-data-portal.md) ([Source URL](http://data.europa.eu/euodp/en/data))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:51.657029+05:30
-- **Local Path**: `ai/resources/european-data-portal.md`
-
-### 20. [Comprehensive Data Protection | Atlassian](../ai/resources/comprehensive-data-protection-atlassian.md) ([Source URL](https://atlassian.com/trust/data-protection))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:45.548710+05:30
-- **Local Path**: `ai/resources/comprehensive-data-protection-atlassian.md`
-
-### 21. [Learning materials - Learning corner - European Union](../ai/resources/learning-materials-learning-corner-european-union.md) ([Source URL](https://europa.eu/learning-corner/learning-materials_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:40.789114+05:30
-- **Local Path**: `ai/resources/learning-materials-learning-corner-european-union.md`
-
-### 22. [Learning Corner](../ai/resources/learning-corner.md) ([Source URL](https://learning-corner.learning.europa.eu/index_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:35.133116+05:30
-- **Local Path**: `ai/resources/learning-corner.md`
-
-### 23. [Use of machine translation on Europa - European Commission](../ai/resources/use-of-machine-translation-on-europa-european-comm.md) ([Source URL](https://commission.europa.eu/languages-our-websites/use-machine-translation-europa_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:30.648512+05:30
-- **Local Path**: `ai/resources/use-of-machine-translation-on-europa-european-comm.md`
-
-### 24. [university.atlassian.com](../ai/agents/university-atlassian-com.md) ([Source URL](https://university.atlassian.com))
+### 12. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([Source URL](https://github.com/microsoft/autogen))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:14:20.054831+05:30
-- **Local Path**: `ai/agents/university-atlassian-com.md`
+- **Collected At**: 2026-06-23T15:33:34.318689+05:30
+- **Local Path**: `ai/agents/microsoft-autogen.md`
 
-### 25. [Trademark | Atlassian](../ai/rag/trademark-atlassian.md) ([Source URL](https://atlassian.com/legal/trademark))
+### 13. [Search & information retrieval](../ai/companies/search-information-retrieval.md) ([Source URL](https://microsoft.com/en-us/research/research-area/search-information-retrieval))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926753+05:30
+- **Local Path**: `ai/companies/search-information-retrieval.md`
+
+### 14. [Human language technologies](../ai/companies/human-language-technologies.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-language-technologies))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926709+05:30
+- **Local Path**: `ai/companies/human-language-technologies.md`
+
+### 15. [Human-computer interaction](../ai/companies/human-computer-interaction.md) ([Source URL](https://microsoft.com/en-us/research/research-area/human-computer-interaction))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926664+05:30
+- **Local Path**: `ai/companies/human-computer-interaction.md`
+
+### 16. [Graphics & multimedia](../ai/companies/graphics-multimedia.md) ([Source URL](https://microsoft.com/en-us/research/research-area/graphics-and-multimedia))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926616+05:30
+- **Local Path**: `ai/companies/graphics-multimedia.md`
+
+### 17. [Computer vision](../ai/companies/computer-vision.md) ([Source URL](https://microsoft.com/en-us/research/research-area/computer-vision))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926575+05:30
+- **Local Path**: `ai/companies/computer-vision.md`
+
+### 18. [Audio & acoustics](../ai/companies/audio-acoustics.md) ([Source URL](https://microsoft.com/en-us/research/research-area/audio-acoustics))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926534+05:30
+- **Local Path**: `ai/companies/audio-acoustics.md`
+
+### 19. [Artificial intelligence](../ai/companies/artificial-intelligence.md) ([Source URL](https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926489+05:30
+- **Local Path**: `ai/companies/artificial-intelligence.md`
+
+### 20. [Microsoft Research blog](../ai/companies/microsoft-research-blog.md) ([Source URL](https://microsoft.com/en-us/research/blog))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926432+05:30
+- **Local Path**: `ai/companies/microsoft-research-blog.md`
+
+### 21. [Code & data](../ai/companies/code-data.md) ([Source URL](https://microsoft.com/en-us/research/tools))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926370+05:30
+- **Local Path**: `ai/companies/code-data.md`
+
+### 22. [Publications](../ai/companies/publications.md) ([Source URL](https://microsoft.com/en-us/research/publications))
+- **Category**: ai/companies
+- **Collected At**: 2026-06-23T15:33:33.926238+05:30
+- **Local Path**: `ai/companies/publications.md`
+
+### 23. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) ([Source URL](https://github.com/pydantic/pydantic-ai))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:14:15.226844+05:30
-- **Local Path**: `ai/rag/trademark-atlassian.md`
+- **Collected At**: 2026-06-23T15:33:33.828782+05:30
+- **Local Path**: `ai/rag/pydantic-pydantic-ai.md`
 
-### 26. [Bitbucket](../ai/resources/bitbucket.md) ([Source URL](https://bitbucket.org/atlassian/aui/src/10.2.0/changelog.md))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:12.942568+05:30
-- **Local Path**: `ai/resources/bitbucket.md`
+### 24. [AI Built a Nuke and Still Lost](../ai/community/ai-built-a-nuke-and-still-lost.md) ([Source URL](https://lwilko.com/blog/i-gave-an-ai-a-civilization))
+- **Category**: ai/community
+- **Collected At**: 2026-06-23T15:33:33.723148+05:30
+- **Local Path**: `ai/community/ai-built-a-nuke-and-still-lost.md`
 
-### 27. [AUI - Documentation](../ai/resources/aui-documentation.md) ([Source URL](https://docs.atlassian.com/aui))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:14:07.791030+05:30
-- **Local Path**: `ai/resources/aui-documentation.md`
+### 25. [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) ([Source URL](https://github.com/modelcontextprotocol/servers))
+- **Category**: ai/releases
+- **Collected At**: 2026-06-23T15:33:33.384651+05:30
+- **Local Path**: `ai/releases/modelcontextprotocol-servers.md`
 
-### 28. [Collaboration software for software, IT and business teams | Atlassian](../ai/rag/collaboration-software-for-software-it-and-busines.md) ([Source URL](https://atlassian.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:13:52.173125+05:30
-- **Local Path**: `ai/rag/collaboration-software-for-software-it-and-busines.md`
+### 26. [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](../ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md) ([Source URL](https://cbc.ca/news/politics/federal-nuclear-strategy-9.7244509))
+- **Category**: ai/community
+- **Collected At**: 2026-06-23T15:33:33.108855+05:30
+- **Local Path**: `ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md`
 
-### 29. [CORDIS | European Commission](../ai/resources/cordis-european-commission.md) ([Source URL](https://cordis.europa.eu))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:13:46.861532+05:30
-- **Local Path**: `ai/resources/cordis-european-commission.md`
+### 27. [Show HN: Oak – Git alternative designed for agents](../ai/community/show-hn-oak-git-replacement-designed-for-agents.md) ([Source URL](https://oak.space/oak/oak))
+- **Category**: ai/community
+- **Collected At**: 2026-06-23T15:33:32.963895+05:30
+- **Local Path**: `ai/community/show-hn-oak-git-replacement-designed-for-agents.md`
 
-### 30. [TED - EU Tenders, the Supplement to the Official Journal - TED](../ai/resources/ted-eu-tenders-the-supplement-to-the-official-jour.md) ([Source URL](https://ted.europa.eu/ted/main/homepage.do))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:13:41.058241+05:30
-- **Local Path**: `ai/resources/ted-eu-tenders-the-supplement-to-the-official-jour.md`
+### 28. [langchain-ai/langchain Release: langchain-openrouter==0.2.4](../ai/releases/langchain-ai-langchain.md) ([Source URL](https://github.com/langchain-ai/langchain))
+- **Category**: ai/releases
+- **Collected At**: 2026-06-23T15:33:32.913871+05:30
+- **Local Path**: `ai/releases/langchain-ai-langchain.md`
 
-### 31. [Learnworlds Status Page Status](../ai/resources/learnworlds-status-page-status.md) ([Source URL](https://status.learnworlds.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:13:34.823318+05:30
-- **Local Path**: `ai/resources/learnworlds-status-page-status.md`
+### 29. [Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md) ([Source URL](https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.569142+05:30
+- **Local Path**: `ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md`
 
-### 32. [Support : LearnWorlds Help Center](../ai/resources/support-learnworlds-help-center.md) ([Source URL](https://support.learnworlds.com/support/home))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:13:30.015198+05:30
-- **Local Path**: `ai/resources/support-learnworlds-help-center.md`
+### 30. [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md) ([Source URL](https://mistral.ai/news/workflows))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.568995+05:30
+- **Local Path**: `ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md`
 
-### 33. [Atlassian Design](../ai/agents/atlassian-design.md) ([Source URL](https://atlassian.design))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:13:25.139259+05:30
-- **Local Path**: `ai/agents/atlassian-design.md`
+### 31. [Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md) ([Source URL](https://mistral.ai/news/accelerate-ai-native-industry))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.568886+05:30
+- **Local Path**: `ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md`
 
-### 34. [Artificial intelligence script steps](../ai/rag/artificial-intelligence-script-steps.md) ([Source URL](https://help.claris.com/en/pro-help/content/artificial-intelligence-script-steps.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:13:13.135852+05:30
-- **Local Path**: `ai/rag/artificial-intelligence-script-steps.md`
+### 32. [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md) ([Source URL](https://mistral.ai/news/physics-ai-research))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.568837+05:30
+- **Local Path**: `ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md`
 
-### 35. [LMS Software for Learning Businesses | LearnWorlds](../ai/resources/lms-software-for-learning-businesses-learnworlds.md) ([Source URL](https://learnworlds.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:13:03.824008+05:30
-- **Local Path**: `ai/resources/lms-software-for-learning-businesses-learnworlds.md`
+### 33. [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md) ([Source URL](https://mistral.ai/news/search-toolkit))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567879+05:30
+- **Local Path**: `ai/companies/mistral/introducing-search-toolkit.md`
 
-### 36. [Examples â Atlaskit](../ai/resources/examples-a-atlaskit.md) ([Source URL](https://atlaskit.atlassian.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:12:55.883035+05:30
-- **Local Path**: `ai/resources/examples-a-atlaskit.md`
+### 34. [Vibe gets to work.](../ai/companies/mistral/vibe-gets-to-work.md) ([Source URL](https://mistral.ai/news/vibe-agent))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567841+05:30
+- **Local Path**: `ai/companies/mistral/vibe-gets-to-work.md`
 
-### 37. [Atlassian Community Events Community-Led Classes](../ai/rag/atlassian-community-events-community-led-classes.md) ([Source URL](https://ace.atlassian.com/community-led-classes))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:12:51.205094+05:30
-- **Local Path**: `ai/rag/atlassian-community-events-community-led-classes.md`
+### 35. [AI Now Summit 2026](../ai/companies/mistral/ai-now-summit-2026.md) ([Source URL](https://mistral.ai/news/ai-now-summit-2026))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567804+05:30
+- **Local Path**: `ai/companies/mistral/ai-now-summit-2026.md`
 
-### 38. [Platform Marketplace](../ai/rag/platform-marketplace.md) ([Source URL](https://developer.atlassian.com/platform/marketplace))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:12:46.228960+05:30
-- **Local Path**: `ai/rag/platform-marketplace.md`
+### 36. [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md) ([Source URL](https://mistral.ai/news/voxtral-tts))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567708+05:30
+- **Local Path**: `ai/companies/mistral/voxtral-tts.md`
 
-### 39. [university](../ai/agents/university.md) ([Source URL](https://atlassian.com/university))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:12:41.784725+05:30
-- **Local Path**: `ai/agents/university.md`
+### 37. [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md) ([Source URL](https://mistral.ai/news/mistral-small-4))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567650+05:30
+- **Local Path**: `ai/companies/mistral/mistral-small-4.md`
 
-### 40. [Artificial intelligence functions](../ai/rag/artificial-intelligence-functions.md) ([Source URL](https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:12:33.610616+05:30
-- **Local Path**: `ai/rag/artificial-intelligence-functions.md`
+### 38. [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md) ([Source URL](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-23T15:33:32.567579+05:30
+- **Local Path**: `ai/companies/mistral/mistral-medium-3-5.md`
 
-### 41. [learning](../ai/agents/learning.md) ([Source URL](https://community.atlassian.com/learning))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:12:28.619205+05:30
-- **Local Path**: `ai/agents/learning.md`
+### 39. [Moebius: 0.2B image inpainting model with 10B-level performance](../ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md) ([Source URL](https://hustvl.github.io/moebius))
+- **Category**: ai/community
+- **Collected At**: 2026-06-23T15:33:32.488788+05:30
+- **Local Path**: `ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md`
 
-### 42. [developer.atlassian.com](../ai/resources/developer-atlassian-com.md) ([Source URL](https://developer.atlassian.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:12:24.494730+05:30
-- **Local Path**: `ai/resources/developer-atlassian-com.md`
+### 40. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([Source URL](https://github.com/huggingface/transformers))
+- **Category**: ai/releases
+- **Collected At**: 2026-06-23T15:33:32.332146+05:30
+- **Local Path**: `ai/releases/huggingface-transformers.md`
 
-### 43. [Privacy Policy | Atlassian](../ai/rag/privacy-policy-atlassian.md) ([Source URL](https://atlassian.com/legal/privacy-policy))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:12:19.535695+05:30
-- **Local Path**: `ai/rag/privacy-policy-atlassian.md`
+### 41. [Learn more](../ai/companies/deepmind/learn-more.md) ([Source URL](https://deepmind.google/blog/securing-the-future-of-ai-agents))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-23T15:33:32.297170+05:30
+- **Local Path**: `ai/companies/deepmind/learn-more.md`
 
-### 44. [Installing Marketplace apps | Atlassian Support | Atlassian Documentation](../ai/resources/installing-marketplace-apps-atlassian-support-atla.md) ([Source URL](https://confluence.atlassian.com/upm/installing-add-ons-273875715.html))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:12:10.793557+05:30
-- **Local Path**: `ai/resources/installing-marketplace-apps-atlassian-support-atla.md`
+### 42. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source URL](https://deepmind.google/blog))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-23T15:33:32.296904+05:30
+- **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md`
 
-### 45. [Explore Marketplace solutions for Atlassian apps | Atlassian Marketplace](../ai/rag/explore-marketplace-solutions-for-atlassian-apps-a.md) ([Source URL](https://marketplace.atlassian.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:12:06.262747+05:30
-- **Local Path**: `ai/rag/explore-marketplace-solutions-for-atlassian-apps-a.md`
+### 43. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source URL](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-23T15:33:32.296855+05:30
+- **Local Path**: `ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md`
 
-### 46. [Memberstack Developers Documentation](../ai/agents/memberstack-developers-documentation.md) ([Source URL](https://developers.memberstack.com/docs))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-23T10:12:01.806749+05:30
-- **Local Path**: `ai/agents/memberstack-developers-documentation.md`
+### 44. [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source URL](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-23T15:33:32.296820+05:30
+- **Local Path**: `ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md`
 
-### 47. [Atlassian Customer Agreement | Atlassian](../ai/rag/atlassian-customer-agreement-atlassian.md) ([Source URL](https://atlassian.com/legal/cloud-terms-of-service))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-23T10:11:57.037100+05:30
-- **Local Path**: `ai/rag/atlassian-customer-agreement-atlassian.md`
+### 45. [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source URL](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-23T15:33:32.296724+05:30
+- **Local Path**: `ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md`
 
-### 48. [[OBSOLETE] Gainsight Support Quick Reference Guide - Gainsight Inc.](../ai/resources/obsolete-gainsight-support-quick-reference-guide-g.md) ([Source URL](https://support.gainsight.com/contact_support/gainsight_product_support/gainsight_support_quick_reference_guide))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:11:52.864256+05:30
-- **Local Path**: `ai/resources/obsolete-gainsight-support-quick-reference-guide-g.md`
+### 46. [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md) ([Source URL](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-23T15:33:31.750555+05:30
+- **Local Path**: `ai/companies/anthropic/responsible-scaling-policy.md`
 
-### 49. [Legal - Claris Documentation — Claris](../ai/resources/legal-claris-documentation-claris.md) ([Source URL](https://claris.com/company/legal/claris-documentation.html))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:11:47.691539+05:30
-- **Local Path**: `ai/resources/legal-claris-documentation-claris.md`
+### 47. [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md) ([Source URL](https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-23T15:33:31.750327+05:30
+- **Local Path**: `ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md`
 
-### 50. [Security Overview & SOC 2 Certification – Memberstack 2.0](../ai/resources/security-overview-soc-2-certification-memberstack.md) ([Source URL](https://docs.memberstack.com/hc/en-us/articles/11420444005531-security-policy))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-23T10:11:43.214381+05:30
-- **Local Path**: `ai/resources/security-overview-soc-2-certification-memberstack.md`
+### 48. [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md) ([Source URL](https://anthropic.com/news/services-track-partner-hub))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-23T15:33:31.750297+05:30
+- **Local Path**: `ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md`
+
+### 49. [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md) ([Source URL](https://anthropic.com/news/claude-fable-5-mythos-5))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-23T15:33:31.750267+05:30
+- **Local Path**: `ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md`
+
+### 50. [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md) ([Source URL](https://anthropic.com/news/dxc-anthropic-alliance))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-23T15:33:31.750226+05:30
+- **Local Path**: `ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md`
 
 ---
-*Index generated on 2026-06-23T11:51:32.854883+05:30*
+*Index generated on 2026-06-23T15:35:24.059794+05:30*

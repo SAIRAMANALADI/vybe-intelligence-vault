@@ -1338,10 +1338,13 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Built a Nuke and Still Lost](../ai/community/ai-built-a-nuke-and-still-lost.md)
   - [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](../ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md)
   - [In praise of memcached](../ai/community/in-praise-of-memcached.md)
   - [Moebius: 0.2B image inpainting model with 10B-level performance](../ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)
+  - [OpenAI DayBreak – GPT-5.5-Cyber](../ai/community/openai-daybreak-gpt-5-5-cyber.md)
   - [Polymarket has flooded social media with deceptive videos by paid creators](../ai/community/polymarket-has-flooded-social-media-with-deceptive.md)
+  - [The new HTTP QUERY method explained](../ai/community/the-new-http-query-method-explained.md)
 
 ## animation
 
@@ -3129,7 +3132,7 @@ Resources organized by keyword tags.
   - [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md)
   - [config/benchmark/loadline2 - crossbench - Git at Google](../ai/rag/config-benchmark-loadline2-crossbench-git-at-googl.md)
   - [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [draft-ietf-sidrops-vrp-notation-05 - Human Readable Validate ROA Payload Notation](../ai/agents/draft-ietf-sidrops-vrp-notation-05-human-readable.md)
   - [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md)
   - [eBPF Research Papers | pchaigno](../ai/rag/ebpf-research-papers-pchaigno.md)
@@ -4229,6 +4232,7 @@ Resources organized by keyword tags.
   - [ksolovev/FineNews](../ai/models/huggingface-datasets-ksolovev.md)
   - [langwatch/langwatch](../ai/agents/langwatch-langwatch.md)
   - [library](../ai/rag/library.md)
+  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [mteb/results](../ai/models/huggingface-datasets-mteb.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [osv5m/osv5m](../ai/models/huggingface-datasets-osv5m.md)
@@ -4925,6 +4929,7 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Agent Security & Control Platform | Oso for Agents](../ai/agents/ai-agent-security-control-platform-oso-for-agents.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
+  - [AI Built a Nuke and Still Lost](../ai/community/ai-built-a-nuke-and-still-lost.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
   - [AI Foundation - AIAP](../ai/rag/ai-foundation-aiap.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
@@ -5102,7 +5107,6 @@ Resources organized by keyword tags.
   - [CommonMark](../ai/resources/commonmark.md)
   - [CommonMark Spec](../ai/resources/commonmark-spec.md)
   - [Community Providers: Ollama](../ai/rag/community-providers-ollama.md)
-  - [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)
   - [Complete RAG Tutorial 2025: Build AI Apps with Retrieval Augmented Generation - YouTube](../ai/rag/complete-rag-tutorial-2025-build-ai-apps-with-retr.md)
   - [Comprehensive Data Protection | Atlassian](../ai/resources/comprehensive-data-protection-atlassian.md)
   - [Comprobador de IBAN: validación de número de cuenta bancaria internacional](../ai/resources/comprobador-de-iban-validacion-de-numero-de-cuenta.md)
@@ -5485,6 +5489,7 @@ Resources organized by keyword tags.
   - [Open Government Licence](../ai/rag/open-government-licence.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
+  - [OpenAI DayBreak – GPT-5.5-Cyber](../ai/community/openai-daybreak-gpt-5-5-cyber.md)
   - [OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](../ai/research/arxiv-2606-19149.md)
   - [OpenSearchCon North America | LF Events](../ai/rag/opensearchcon-north-america-lf-events.md)
   - [Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory](../ai/rag/arxiv-2606-14289.md)
@@ -5713,6 +5718,7 @@ Resources organized by keyword tags.
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
+  - [The new HTTP QUERY method explained](../ai/community/the-new-http-query-method-explained.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Toolkit: Best Practices for Launching an LMS](../ai/resources/toolkit-best-practices-for-launching-an-lms.md)
@@ -5865,6 +5871,7 @@ Resources organized by keyword tags.
   - [learning](../ai/agents/learning.md)
   - [library](../ai/rag/library.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
+  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [markdown-it-py — markdown-it-py](../ai/resources/markdown-it-py-markdown-it-py.md)
   - [mount - With Ubuntu 26.04, running kernel 7.1.1, how do I enable use of the new NTFS driver? - Ask Ubuntu](../ai/agents/mount-with-ubuntu-26-04-running-kernel-7-1-1-how-d.md)
   - [nbconvert: Convert Notebooks to other formats — nbconvert 7.17.1 documentation](../ai/resources/nbconvert-convert-notebooks-to-other-formats-nbcon.md)
@@ -5986,6 +5993,7 @@ Resources organized by keyword tags.
 ## java
 
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
+  - [Stirling-Tools/Stirling-PDF](../ai/trending/stirling-tools-stirling-pdf.md)
   - [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md)
 
 ## javascript
@@ -7322,6 +7330,7 @@ Resources organized by keyword tags.
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
+  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [denniszielke/agentic-playground](../ai/agents/denniszielke-agentic-playground.md)
   - [eBPF - Introduction, Tutorials & Community Resources](../ai/rag/ebpf-introduction-tutorials-community-resources.md)
   - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
@@ -7488,6 +7497,7 @@ Resources organized by keyword tags.
   - [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md)
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
   - [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
+  - [OpenAI DayBreak – GPT-5.5-Cyber](../ai/community/openai-daybreak-gpt-5-5-cyber.md)
   - [OpenAI Platform](../ai/resources/openai-platform.md)
   - [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
   - [PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes](../ai/research/arxiv-2606-18636.md)
@@ -11427,6 +11437,7 @@ Resources organized by keyword tags.
   - [nbconvert: Convert Notebooks to other formats — nbconvert 7.17.1 documentation](../ai/resources/nbconvert-convert-notebooks-to-other-formats-nbcon.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [rpki-client(8) - OpenBSD manual pages](../ai/agents/rpki-client-8-openbsd-manual-pages.md)
   - [seehiong/seehiong.github.io](../ai/agents/seehiong-seehiong-github-io.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
@@ -11589,7 +11600,6 @@ Resources organized by keyword tags.
   - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio.md)
   - [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md)
   - [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md)
-  - [Stirling-Tools/Stirling-PDF](../ai/trending/stirling-tools-stirling-pdf.md)
   - [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
   - [akihirookuda95/openai-agents-sdk-tutorial](../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md)
@@ -14330,4 +14340,4 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-06-23T11:51:32.814829+05:30*
+*Index generated on 2026-06-23T15:35:23.984370+05:30*

@@ -4,21 +4,21 @@ category: ai/rag
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/voltagent/awesome-ai-agent-papers
-collected_at: '2026-06-23T09:51:01.777000+05:30'
-published_at: '2026-06-23T04:04:29Z'
+collected_at: '2026-06-23T15:33:31.530666+05:30'
+published_at: '2026-06-23T09:44:46Z'
 tags:
 - agents
 - benchmark
 - paper
 - rag
 - workflows
-stars: 1446
+stars: 1451
 language: Unknown
 status: active
 resource_id: github:voltagent/awesome-ai-agent-papers
 first_seen: '2026-06-11T13:06:36.034473+00:00'
-last_seen: '2026-06-23T09:51:01.777000+05:30'
-last_checked: '2026-06-23T09:51:01.777000+05:30'
+last_seen: '2026-06-23T15:33:31.530666+05:30'
+last_checked: '2026-06-23T15:33:31.530666+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: VoltAgent
-- Stars: 1446
+- Stars: 1451
 - Forks: 161
 - Language: Unknown
 - Topics: ai-agents, awesome, awesome-list, llm, llm-agents, memory, rag, research-paper
-- Last Updated: 2026-06-23T04:04:29Z
+- Last Updated: 2026-06-23T09:44:46Z
 
 ## Possible Use Cases
 

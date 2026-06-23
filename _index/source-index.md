@@ -3710,11 +3710,14 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Built a Nuke and Still Lost](../ai/community/ai-built-a-nuke-and-still-lost.md)
   - [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](../ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md)
   - [In praise of memcached](../ai/community/in-praise-of-memcached.md)
   - [Moebius: 0.2B image inpainting model with 10B-level performance](../ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)
+  - [OpenAI DayBreak – GPT-5.5-Cyber](../ai/community/openai-daybreak-gpt-5-5-cyber.md)
   - [Polymarket has flooded social media with deceptive videos by paid creators](../ai/community/polymarket-has-flooded-social-media-with-deceptive.md)
   - [Show HN: Oak – Git alternative designed for agents](../ai/community/show-hn-oak-git-replacement-designed-for-agents.md)
+  - [The new HTTP QUERY method explained](../ai/community/the-new-http-query-method-explained.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -4354,6 +4357,7 @@ Resources organized by publisher feed and query sources.
   - [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)
   - [Share your open ML datasets on Hugging Face Hub!](../ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)
   - [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)
+  - [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](../ai/models/huggingface-blog-huggingface-hub-release-ci.md)
   - [Showcase Your Projects in Spaces using Gradio](../ai/models/showcase-your-projects-in-spaces-using-gradio.md)
   - [SigLIP 2: A better multilingual vision language encoder](../ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)
   - [Simple considerations for simple people building fancy neural networks](../ai/models/simple-considerations-for-simple-people-building-f.md)
@@ -4480,6 +4484,7 @@ Resources organized by publisher feed and query sources.
   - [We Got Claude to Fine-Tune an Open Source LLM](../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)
   - [We Raised $100 Million for Open & Collaborative Machine Learning 🚀](../ai/models/we-raised-100-million-for-open-collaborative-machi.md)
   - [We are hiring interns!](../ai/models/we-are-hiring-interns.md)
+  - [We got local models to triage the OpenClaw repo for FREE!*](../ai/models/huggingface-blog-local-models-pr-triage.md)
   - [We now support VLMs in smolagents!](../ai/agents/we-now-support-vlms-in-smolagents.md)
   - [Welcome EmbeddingGemma, Google's new efficient embedding model](../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)
   - [Welcome Falcon Mamba: The first strong attention-free 7B model](../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)
@@ -6133,4 +6138,4 @@ Resources organized by publisher feed and query sources.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
 
 ---
-*Index generated on 2026-06-23T11:51:32.851403+05:30*
+*Index generated on 2026-06-23T15:35:24.053899+05:30*

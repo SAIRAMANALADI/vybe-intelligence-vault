@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/zerostaticthemes/square-ui
-collected_at: '2026-06-23T09:51:01.522247+05:30'
-published_at: '2026-06-23T03:33:35Z'
+collected_at: '2026-06-23T15:33:30.392059+05:30'
+published_at: '2026-06-23T09:19:31Z'
 tags:
 - frontend_ui
-stars: 5875
+stars: 5880
 language: TypeScript
 status: active
 resource_id: github:zerostaticthemes/square-ui
 first_seen: '2026-06-23T01:03:49.571855+05:30'
-last_seen: '2026-06-23T09:51:01.522247+05:30'
-last_checked: '2026-06-23T09:51:01.522247+05:30'
+last_seen: '2026-06-23T15:33:30.392059+05:30'
+last_checked: '2026-06-23T15:33:30.392059+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: zerostaticthemes
-- Stars: 5875
+- Stars: 5880
 - Forks: 653
 - Language: TypeScript
 - Topics: layout, shadcn-ui, template
-- Last Updated: 2026-06-23T03:33:35Z
+- Last Updated: 2026-06-23T09:19:31Z
 
 ## Possible Use Cases
 

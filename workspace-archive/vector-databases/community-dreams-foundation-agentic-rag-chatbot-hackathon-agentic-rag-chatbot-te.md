@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Structure**: Template repository for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon use cases.
-- **Technical Stack**: Implemented in Python, leveraging agentic workflows for dynamic retrieval and generation.
-- **Metadata**: Forked 68 times, last updated on 2026-02-17, with no additional topics or stars.
+- **Repository**: `Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` (0 stars, 68 forks) for a Python-based **Agentic RAG Chatbot** template.
+- **Purpose**: Designed for hackathon use, likely facilitating **Retrieval-Augmented Generation (RAG)** workflows with agentic capabilities.
+- **Metadata**: Last updated on **2026-02-17**, hosted under GitHub Classroom for structured deployment.
 
 ## Use Cases
 

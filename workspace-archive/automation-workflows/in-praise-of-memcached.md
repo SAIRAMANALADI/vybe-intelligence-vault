@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by j03b. Score: 76, Comments: 26.
+Hacker News story by j03b. Score: 160, Comments: 60.
 Original Link: https://jchri.st/blog/in-praise-of-memcached/
 
 ## Use Cases

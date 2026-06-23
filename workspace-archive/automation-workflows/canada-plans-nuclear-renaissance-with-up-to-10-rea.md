@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by geox. Score: 372, Comments: 225.
+Hacker News story by geox. Score: 485, Comments: 333.
 Original Link: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509
 
 ## Use Cases

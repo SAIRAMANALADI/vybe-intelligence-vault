@@ -516,4 +516,4 @@ This index groups curated resources by target developer skills.
 - [Nonresident Supplemental Tuition Exemptions | Registrar’s Office](https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions) (Tier: `useful` | [`Local File`](../../ai/resources/nonresident-supplemental-tuition-exemptions-regist.md))
 
 ---
-*Last updated: 2026-06-23 11:51 IST*
+*Last updated: 2026-06-23 15:36 IST*

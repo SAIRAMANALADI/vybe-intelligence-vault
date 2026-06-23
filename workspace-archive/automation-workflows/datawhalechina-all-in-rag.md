@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - meta-ai
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal retrieval techniques with frameworks like DeepSeek and Kimi-K2.
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating tools like LangChain, LlamaIndex, and Milvus for AI application development.
 
-- **Multi-Model & Vector Database Integration**: Demonstrates integration with vector databases (Milvus) and graph databases (Neo4j) for advanced retrieval, alongside embedding models and LLM fine-tuning workflows.
+- **Multi-Model & Multimodal Support**: Includes frameworks (e.g., DeepSeek, Kimi-K2) and databases (Neo4j, Milvus) for hybrid retrieval, supporting both text and multimodal data pipelines.
 
-- **Practical Python Toolkit**: Provides hands-on Python
+- **Python-Centric Implementation**: Focuses on Python-based workflows, with pract
 
 ## Use Cases
 

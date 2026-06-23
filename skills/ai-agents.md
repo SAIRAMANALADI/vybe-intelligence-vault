@@ -21,11 +21,11 @@ AI agents represent the transition from passive text generation to active, goal-
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 1058 resources matched in the intelligence vault.
 Recently detected signals:
-- [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Home - Inside Atlassian](../ai/agents/home-inside-atlassian.md) (Source: Unknown Source) - Collected 2026-06-23
-- [university.atlassian.com](../ai/agents/university-atlassian-com.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Collaboration software for software, IT and business teams | Atlassian](../ai/rag/collaboration-software-for-software-it-and-busines.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Atlassian Design](../ai/agents/atlassian-design.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) (Source: Unknown Source) - Collected 2026-06-23
+- [crewAIInc/crewAI Release: 1.14.8a2](../ai/rag/crewaiinc-crewai.md) (Source: Unknown Source) - Collected 2026-06-23
+- [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-23
+- [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) (Source: Unknown Source) - Collected 2026-06-23
+- [heygen-com/hyperframes](../ai/agents/heygen-com-hyperframes.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T11:51:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.399836+05:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

@@ -5,7 +5,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 3264 |
-| huggingface | 855 |
+| huggingface | 857 |
 | github | 399 |
 | nextjs.org | 64 |
 | react.dev | 23 |
@@ -18,6 +18,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | anthropic.com | 9 |
 | support.google.com | 8 |
 | docs.unity3d.com | 8 |
+| openai.com | 7 |
 | developer.atlassian.com | 7 |
 | datatracker.ietf.org | 7 |
 | twilio.com | 7 |
@@ -25,7 +26,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | web.dev | 6 |
 | rfc-editor.org | 6 |
 | dev.to | 6 |
-| openai.com | 6 |
 | support.atlassian.com | 5 |
 | support.gainsight.com | 5 |
 | cloudflare.com | 5 |
@@ -173,10 +173,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | benchmarkingagents.com | 2 |
 | policy.medium.com | 2 |
 | cbc.ca | 1 |
+| wsj.com | 1 |
 | hustvl.github.io | 1 |
 | oak.space | 1 |
-| wsj.com | 1 |
 | jchri.st | 1 |
+| kreya.app | 1 |
+| lwilko.com | 1 |
 | oecc2026.org | 1 |
 | nicolasconstant.github.io | 1 |
 | joinmastodon.org | 1 |

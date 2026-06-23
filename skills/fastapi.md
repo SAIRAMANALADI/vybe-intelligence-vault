@@ -20,11 +20,11 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 109 resources matched in the intelligence vault.
 Recently detected signals:
-- [Platform Marketplace](../ai/rag/platform-marketplace.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Memberstack Developers Documentation](../ai/agents/memberstack-developers-documentation.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Membership Platform for Webflow, WordPress & Any Site | Memberstack](../ai/rag/membership-platform-for-webflow-wordpress-any-site.md) (Source: Unknown Source) - Collected 2026-06-23
-- [register](../ai/resources/register.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Comprobador de IBAN: validación de número de cuenta bancaria internacional](../ai/resources/comprobador-de-iban-validacion-de-numero-de-cuenta.md) (Source: Unknown Source) - Collected 2026-06-23
+- [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) (Source: Unknown Source) - Collected 2026-06-23
+- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Exploring Quantization Backends in Diffusers](../ai/models/exploring-quantization-backends-in-diffusers.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -120,4 +120,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T11:51:31.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.990811+05:30.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

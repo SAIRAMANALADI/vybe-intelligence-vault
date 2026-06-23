@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 294 resources matched in the intelligence vault.
 Recently detected signals:
-- [Artificial intelligence script steps](../ai/rag/artificial-intelligence-script-steps.md) (Source: Unknown Source) - Collected 2026-06-23
-- [vLLM](../ai/rag/vllm.md) (Source: Unknown Source) - Collected 2026-06-23
-- [[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](../ai/rag/arxiv-2407-10930.md) (Source: Unknown Source) - Collected 2026-06-23
-- [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) (Source: Unknown Source) - Collected 2026-06-23
-- [gpt-oss • Cookbook](../ai/resources/gpt-oss-cookbook.md) (Source: Unknown Source) - Collected 2026-06-23
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-06-23
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-23
+- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-23
+- [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) (Source: Unknown Source) - Collected 2026-06-23
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -81,10 +81,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 11. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+### 11. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal retrieval techniques with framework...
+- Description: - **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RA...
 
 ### 12. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
 - Stars: 0
@@ -126,4 +126,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T11:51:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

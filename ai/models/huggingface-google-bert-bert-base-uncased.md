@@ -4,8 +4,8 @@ category: ai/models
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/google-bert/bert-base-uncased
-published_at: '2026-06-23T09:51:01.058528+05:30'
-collected_at: '2026-06-23T09:51:01.058532+05:30'
+published_at: '2026-06-23T15:33:30.479823+05:30'
+collected_at: '2026-06-23T15:33:30.479830+05:30'
 tags:
 - dataset
 - hf-model
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:google-bert/bert-base-uncased
 first_seen: '2026-06-18T23:35:18.374767+05:30'
-last_seen: '2026-06-23T09:51:01.058532+05:30'
-last_checked: '2026-06-23T09:51:01.058532+05:30'
+last_seen: '2026-06-23T15:33:30.479830+05:30'
+last_checked: '2026-06-23T15:33:30.479830+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2687, Downloads: 59044227)
+Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2688, Downloads: 59681901)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/models
-- Published: 2026-06-23T09:51:01.058528+05:30
+- Published: 2026-06-23T15:33:30.479823+05:30
 
 ## Related Tags
 

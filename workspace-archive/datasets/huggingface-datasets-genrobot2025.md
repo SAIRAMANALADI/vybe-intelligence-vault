@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: genrobot2025/10Kh-RealOmin-OpenData (Likes: 219, Downloads: 915151)
+Trending Hugging Face dataset: genrobot2025/10Kh-RealOmin-OpenData (Likes: 219, Downloads: 960808)
 
 ## Use Cases
 

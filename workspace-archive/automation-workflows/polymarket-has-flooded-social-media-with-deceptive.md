@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Vaslo. Score: 83, Comments: 84.
+Hacker News story by Vaslo. Score: 293, Comments: 227.
 Original Link: https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2
 
 ## Use Cases

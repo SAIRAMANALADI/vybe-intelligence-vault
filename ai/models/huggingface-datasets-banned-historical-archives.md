@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/banned-historical-archives
 published_at: '2025-10-19T15:21:40.000Z'
-collected_at: '2026-06-22T15:16:20.631486+05:30'
+collected_at: '2026-06-23T15:33:30.503561+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/banned-historical-archives
 first_seen: '2026-06-18T23:35:18.472255+05:30'
-last_seen: '2026-06-22T15:16:20.631486+05:30'
-last_checked: '2026-06-22T15:16:20.631486+05:30'
+last_seen: '2026-06-23T15:33:30.503561+05:30'
+last_checked: '2026-06-23T15:33:30.503561+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 47, Downloads: 1290296)
+Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 47, Downloads: 1339138)
 
 ## Why It Matters
 

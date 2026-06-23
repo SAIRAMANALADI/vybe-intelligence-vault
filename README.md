@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 6,249</p>
-        <p><b>Active:</b> 6,091 | <b>Inactive:</b> 158</p>
+        <p><b>Resources tracked:</b> 6,254</p>
+        <p><b>Active:</b> 6,096 | <b>Inactive:</b> 158</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 25,252</p>
+        <p><b>Archive Files:</b> 25,264</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-23 14:33 IST</p>
+        <p><b>Last Update:</b> 2026-06-23 15:36 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,16 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Polymarket has flooded social media with deceptive videos by paid creators](ai/community/polymarket-has-flooded-social-media-with-deceptive.md)** • <kbd>+210 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md)** • <kbd>+113 pts</kbd>
+- 🔼 **[In praise of memcached](ai/community/in-praise-of-memcached.md)** • <kbd>+84 pts</kbd>
+- 🔼 **[Moebius: 0.2B image inpainting model with 10B-level performance](ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)** • <kbd>+39 pts</kbd>
+- 🔼 **[Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)** • Rank: <kbd>+128</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Show HN: Oak – Git alternative designed for agents](ai/community/show-hn-oak-git-replacement-designed-for-agents.md)** • Score: `163`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Show HN: Oak – Git alternative designed for agents](ai/community/show-hn-oak-git-replacement-designed-for-agents.md)** • Score: `188`
+- 🆕 **[The new HTTP QUERY method explained](ai/community/the-new-http-query-method-explained.md)** • Score: `107`
+- 🆕 **[OpenAI DayBreak – GPT-5.5-Cyber](ai/community/openai-daybreak-gpt-5-5-cyber.md)** • Score: `100`
+- 🆕 **[AI Built a Nuke and Still Lost](ai/community/ai-built-a-nuke-and-still-lost.md)** • Score: `53`
+- 🆕 **[We got local models to triage the OpenClaw repo for FREE!*](ai/models/huggingface-blog-local-models-pr-triage.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
