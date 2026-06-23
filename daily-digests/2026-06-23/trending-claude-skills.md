@@ -1,34 +1,34 @@
 ---
 title: "linny006/trending-claude-skills"
 category: "Tooling"
-tech_stack: ["GitHub Actions", "Python", "GitHub Search API", "Markdown", "GitHub Pages"]
-quality_score: 9
+tech_stack: ["Python", "GitHub Actions", "GitHub Search API", "Markdown", "Shell"]
+quality_score: 8
 rag_relevance: 7
-tags: ["Claude Skills", "AI Agents", "GitHub Automation", "Trending Repos", "Leaderboard"]
+tags: ["Claude Code", "AI Agent Skills", "GitHub Trends", "Auto-updated", "Leaderboard"]
 source: "https://github.com/linny006/trending-claude-skills"
-discovered_at: "2026-06-23T10:39:21Z"
+discovered_at: "2026-06-23T23:11:55Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A live leaderboard that auto-updates every 15 minutes to track trending Claude skills and AI agent repositories by querying GitHub's Search API, ranking them by freshness and momentum rather than total stars.
+A live leaderboard that auto-updates every 15 minutes to track trending AI agent skills and repositories for Claude Code, sourced from GitHub Search API. It ranks repositories by freshness and momentum rather than all-time stars.
 
 ## Key Features
 - Auto-updates every 15 minutes via GitHub Actions cron job
-- Ranks repositories by freshness and momentum, not just star count
-- Multi-language README support (English, Chinese, Japanese, Korean, Spanish, Portuguese)
-- Publicly tracks and displays 50+ curated AI agent and Claude skill repositories
-- Self-updating README with real-time data from GitHub Search API
+- Ranks repositories by freshness and momentum, not just stars
+- Multi-language support with localized READMEs (English, Chinese, Japanese, Korean, Spanish, Portuguese)
+- Real-time data sourced directly from GitHub Search API
+- Self-updating README table reflecting live changes in upstream data
 
 ## Why It Matters for RAG Builders
-Provides real-time visibility into emerging AI agent and Claude skill repositories, enabling developers to stay current with the fastest-growing tools and trends in the ecosystem.
+Provides real-time visibility into trending AI agent skills, enabling developers to quickly discover and adopt cutting-edge tools for RAG and AI workflows.
 
 ## Tech Stack Deep Dive
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GitHub Actions
+Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### GitHub Search API
 Automated review identified **GitHub Search API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -36,8 +36,8 @@ Automated review identified **GitHub Search API** as a key module contributing t
 ### Markdown
 Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub Pages
-Automated review identified **GitHub Pages** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Shell
+Automated review identified **Shell** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

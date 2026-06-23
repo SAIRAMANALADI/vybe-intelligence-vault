@@ -1,27 +1,27 @@
 ---
 title: "lemonade-sdk/lemonade"
 category: "Orchestrator"
-tech_stack: ["C++", "Python", "GGUF", "ONNX", "llamacpp", "vLLM", "ROCm", "CUDA", "Vulkan", "Metal", "Docker", "GitHub Actions"]
+tech_stack: ["C++", "Python", "GGUF", "ONNX", "llamacpp", "vLLM", "ROCm", "CUDA", "Vulkan", "Metal", "Ryzen AI NPU", "Docker", "CLI", "REST API", "OpenAI-compatible API"]
 quality_score: 9
-rag_relevance: 9
-tags: ["local AI", "multi-modal", "GPU/NPU optimization", "model serving", "privacy-focused"]
+rag_relevance: 10
+tags: ["local AI", "LLM serving", "multi-modal", "privacy-focused", "hardware optimization"]
 source: "https://github.com/lemonade-sdk/lemonade"
-discovered_at: "2026-06-23T21:34:09Z"
+discovered_at: "2026-06-23T23:12:16Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Lemonade is a local AI server enabling users to run LLMs, speech, image generation, and other AI models entirely on their own hardware with support for OpenAI, Anthropic, and Ollama APIs. It offers both a server and embeddable binary for seamless integration into applications.
+Lemonade is an open-source local AI server that enables users to run large language models (LLMs), speech, image generation, and other AI workloads entirely on their own hardware with privacy and cost efficiency. It provides both a standalone server and embeddable binary for integrating local AI into applications.
 
 ## Key Features
 - Supports multiple inference engines (llamacpp, vLLM, FLM) for LLMs, speech, and image generation
-- Offers both server and embeddable binary deployment options
-- Cross-platform compatibility (Windows, Linux, macOS, Docker)
-- Hardware-optimized for AMD, NVIDIA, and Apple Silicon
-- Cloud offload capability for hybrid local-cloud setups
+- Hardware-optimized backends for AMD, NVIDIA, Apple Silicon, and NPUs
+- OpenAI-compatible API for seamless integration with existing tools
+- Built-in model manager for downloading and managing GGUF/ONNX models
+- Hybrid cloud offload for scaling beyond local hardware
 
 ## Why It Matters for RAG Builders
-Lemonade provides a unified, hardware-optimized local AI serving platform that simplifies deploying multi-modal models for RAG and agent systems while ensuring privacy and performance.
+Lemonade enables RAG builders to deploy and serve local AI models efficiently while maintaining privacy and reducing dependency on cloud APIs.
 
 ## Tech Stack Deep Dive
 ### C++
@@ -54,11 +54,20 @@ Automated review identified **Vulkan** as a key module contributing to infrastru
 ### Metal
 Automated review identified **Metal** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Ryzen AI NPU
+Automated review identified **Ryzen AI NPU** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### REST API
+Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI-compatible API
+Automated review identified **OpenAI-compatible API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

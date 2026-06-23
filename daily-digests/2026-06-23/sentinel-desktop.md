@@ -1,73 +1,49 @@
 ---
 title: "dirtysouthalpha/sentinel-desktop"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "PyTorch", "Tesseract OCR", "uiautomation", "OpenCV", "Tkinter", "PyQt", "WebSocket", "LLM Providers (20+)", "TTS/STT (Voice Engine)", "SQLite", "Bcrypt", "Pytest", "Ruff"]
-quality_score: 9
-rag_relevance: 8
-tags: ["desktop automation", "multi-agent orchestration", "voice control", "LLM integration", "cross-platform"]
+category: "Tooling"
+tech_stack: ["Python", "CustomTkinter", "PyAutoGUI", "psutil", "requests", "Neuralis Brain API", "Pytest"]
+quality_score: 8
+rag_relevance: 6
+tags: ["desktop automation", "AI assistant", "system monitoring", "multi-agent orchestration", "Windows automation"]
 source: "https://github.com/dirtysouthalpha/sentinel-desktop"
-discovered_at: "2026-06-23T21:28:15Z"
+discovered_at: "2026-06-23T23:06:49Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sentinel Desktop is a cross-platform AI-powered desktop automation agent with a cyberpunk-themed HUD, enabling goal-driven automation via natural language. It interacts with applications, learns from tasks via the Neuralis Brain, and supports voice control, event triggers, and multi-agent orchestration.
+Sentinel Desktop is an AI-powered Windows desktop automation assistant that integrates with Neuralis Brain for advanced reasoning and task delegation. It provides system diagnostics, mouse/keyboard automation, network tools, and process management via natural language commands.
 
 ## Key Features
-- Vision-driven agent loop with screenshot-to-action execution
-- Neuralis Brain integration for fleet-wide shared memory and learning
-- Voice Engine with wake-word detection and ambient monitoring
-- Event Trigger System for reactive automation (file changes, schedules, etc.)
-- 20+ LLM provider support with native tool/function calling
+- Natural language command processing for system and automation tasks
+- Integration with Neuralis Brain for AI-driven reasoning and knowledge recall
+- Comprehensive system diagnostics (CPU, memory, disk, processes, battery)
+- Cross-platform support (Windows/Linux) with GUI and CLI modes
+- Modular architecture with 43+ passing tests and CI/CD pipelines
 
 ## Why It Matters for RAG Builders
-It provides a robust framework for building autonomous desktop agents that can learn, adapt, and collaborate across a fleet, reducing repetitive tasks and improving efficiency in AI-driven workflows.
+It provides a robust framework for building AI-driven desktop automation tools that can integrate with external AI services like Neuralis Brain, making it valuable for RAG builders seeking to automate complex system interactions.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CustomTkinter
+Automated review identified **CustomTkinter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### PyTorch
-Automated review identified **PyTorch** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### PyAutoGUI
+Automated review identified **PyAutoGUI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tesseract OCR
-Automated review identified **Tesseract OCR** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### psutil
+Automated review identified **psutil** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### uiautomation
-Automated review identified **uiautomation** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### requests
+Automated review identified **requests** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenCV
-Automated review identified **OpenCV** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Tkinter
-Automated review identified **Tkinter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PyQt
-Automated review identified **PyQt** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### WebSocket
-Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### LLM Providers (20+)
-Automated review identified **LLM Providers (20+)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### TTS/STT (Voice Engine)
-Automated review identified **TTS/STT (Voice Engine)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### SQLite
-Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Bcrypt
-Automated review identified **Bcrypt** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Neuralis Brain API
+Automated review identified **Neuralis Brain API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Pytest
 Automated review identified **Pytest** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Ruff
-Automated review identified **Ruff** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,27 +1,27 @@
 ---
 title: "ruvnet/agent-harness-generator"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Node.js", "CLI", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "Witness (provenance/signing)", "React (Studio UI)"]
+tech_stack: ["TypeScript", "Node.js", "CLI (Command Line Interface)", "MCP (Model Context Protocol)", "npm", "GitHub Actions", "Witness-signed provenance", "Model routing (cheapest model selection)"]
 quality_score: 9
 rag_relevance: 8
-tags: ["agent harness", "MCP server", "model routing", "self-improving", "provenance"]
+tags: ["agent harness", "custom AI agents", "MCP server", "model routing", "repo-aware"]
 source: "https://github.com/ruvnet/agent-harness-generator"
-discovered_at: "2026-06-23T21:33:05Z"
+discovered_at: "2026-06-23T23:09:34Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-MetaHarness is a CLI tool and library that generates custom AI agent harnesses for any repository, enabling users to create repo-aware agents, MCP servers, and governance policies. It supports multiple agent hosts and provides features like model routing, self-improvement loops, and witness-signed provenance.
+MetaHarness is a CLI tool and library that generates custom AI agent harnesses tailored to any repository, enabling users to create branded, repo-aware agents with MCP servers, memory, governance policies, and witness-signed provenance. It supports multiple agent hosts like Claude Code, OpenAI Codex, and GitHub Actions.
 
 ## Key Features
-- Generates repo-aware AI agent harnesses with MCP servers and governance policies
-- Supports 9 agent hosts including Claude Code, OpenAI Codex, and GitHub Actions
-- Includes model routing for cost optimization and performance tuning
-- Enables self-improvement via Darwin Mode for harness evolution
-- Provides witness-signed provenance and release verification
+- Generates repo-specific AI agent harnesses with MCP servers and governance policies
+- Supports multiple agent hosts (Claude Code, OpenAI Codex, GitHub Actions, etc.)
+- Includes witness-signed provenance and release verification
+- Features a model router for cost-efficient task execution
+- Allows self-improvement via Darwin Mode for harness evolution
 
 ## Why It Matters for RAG Builders
-It streamlines the creation of custom, repo-specific AI agent harnesses, reducing setup time and cost while ensuring security and governance for RAG and AI stack builders.
+It enables RAG builders to create highly customized, repo-aware AI agents with minimal setup, reducing costs and improving efficiency by dynamically routing tasks to the most suitable models.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -30,8 +30,8 @@ Automated review identified **TypeScript** as a key module contributing to infra
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI
-Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI (Command Line Interface)
+Automated review identified **CLI (Command Line Interface)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -42,11 +42,11 @@ Automated review identified **npm** as a key module contributing to infrastructu
 ### GitHub Actions
 Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Witness (provenance/signing)
-Automated review identified **Witness (provenance/signing)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Witness-signed provenance
+Automated review identified **Witness-signed provenance** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React (Studio UI)
-Automated review identified **React (Studio UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model routing (cheapest model selection)
+Automated review identified **Model routing (cheapest model selection)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,34 +1,34 @@
 ---
 title: "bradleybond512/crystal-ball"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Tauri 2", "Cesium.js", "MapLibre", "React", "Node.js", "Web Workers", "IndexedDB", "Web Audio API", "Ollama", "LM Studio", "Groq", "MCP Server"]
+tech_stack: ["TypeScript", "Tauri", "Cesium.js", "MapLibre", "React", "Node.js", "Web Workers", "IndexedDB", "Web Audio API", "Ollama", "LM Studio", "Groq", "STIX/TAXII", "OSRM", "GraphHopper", "Valhalla"]
 quality_score: 9
-rag_relevance: 7
-tags: ["real-time intelligence", "geospatial analytics", "cross-domain correlation", "explainable AI", "MCP integration"]
+rag_relevance: 8
+tags: ["real-time intelligence", "geospatial analytics", "multi-domain correlation", "explainable AI", "MCP server"]
 source: "https://github.com/bradleybond512/crystal-ball"
-discovered_at: "2026-06-23T21:34:33Z"
+discovered_at: "2026-06-23T23:11:45Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Crystal Ball is a real-time global intelligence platform offering a desktop app and web dashboard that aggregates 50+ live data feeds into 402 interactive panels, a 3D Cesium globe with 75 geospatial layers, and an explainable algorithm intelligence layer for cross-domain reasoning and forecasting.
+Crystal Ball is a real-time global intelligence platform offering a desktop app and web dashboard that aggregates 50+ live data feeds into 402 interactive panels, a 3D Cesium globe with 75 geospatial layers, and an explainable algorithm intelligence layer for cross-domain reasoning and risk assessment.
 
 ## Key Features
 - Aggregates 50+ live data feeds into 402 interactive panels and a 3D Cesium globe with 75 geospatial layers
-- Explainable algorithm intelligence layer with truth scoring, evidence graphs, situation clustering, and compound risk analysis
-- Unified alert system with geofencing, correlation, and customizable delivery channels (SMS, desktop, voice)
-- Local-first LLM integration for AI-powered analysis and briefing with daily budget controls
-- MCP server enabling terminal-based queries via Claude Code for programmatic access
+- Explainable algorithm intelligence layer with truth scoring, evidence graph, situation clustering, and compound risk analysis
+- Unified alert system with geofencing, custom rules, and multi-channel notifications (desktop, SMS, voice)
+- Analyst HUD for cross-domain reasoning with hypothesis generation, skeptic personas, and local-first LLM integration
+- MCP server enabling terminal-based queries via Claude Code for programmatic access to intelligence data
 
 ## Why It Matters for RAG Builders
-It provides a unified, explainable, and real-time intelligence platform that integrates multiple data sources and AI-driven analysis, making it essential for building robust RAG systems in geospatial, security, and cross-domain contexts.
+It provides a unified, explainable intelligence platform for RAG builders to integrate real-time geospatial and multi-domain data with advanced correlation and reasoning capabilities.
 
 ## Tech Stack Deep Dive
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tauri 2
-Automated review identified **Tauri 2** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Tauri
+Automated review identified **Tauri** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Cesium.js
 Automated review identified **Cesium.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -60,8 +60,17 @@ Automated review identified **LM Studio** as a key module contributing to infras
 ### Groq
 Automated review identified **Groq** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP Server
-Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### STIX/TAXII
+Automated review identified **STIX/TAXII** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OSRM
+Automated review identified **OSRM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GraphHopper
+Automated review identified **GraphHopper** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Valhalla
+Automated review identified **Valhalla** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
