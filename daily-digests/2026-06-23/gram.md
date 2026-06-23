@@ -1,12 +1,12 @@
 ---
 title: "speakeasy-api/gram"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Go", "Golang", "Goa (API framework)", "Temporal (workflow engine)", "OpenAPI", "MCP (Model Context Protocol)", "CLI (Command Line Interface)"]
+tech_stack: ["TypeScript", "Go", "Golang", "Goa (API framework)", "Temporal (workflow engine)", "OpenAPI", "MCP (Model Context Protocol)", "CLI", "OAuth"]
 quality_score: 9
 rag_relevance: 9
-tags: ["MCP", "Model Context Protocol", "TypeScript", "OpenAPI", "Agent Tools"]
+tags: ["MCP", "Model Context Protocol", "TypeScript SDK", "OpenAPI", "Agent Tools"]
 source: "https://github.com/speakeasy-api/gram"
-discovered_at: "2026-06-23T13:47:51Z"
+discovered_at: "2026-06-23T19:15:33Z"
 evaluated_by: "mistral-small-latest"
 ---
 
@@ -14,14 +14,14 @@ evaluated_by: "mistral-small-latest"
 Gram is a cloud platform for creating, curating, and hosting Model Context Protocol (MCP) servers, enabling LLMs and agents to access data and tools efficiently. It supports OpenAPI documents and custom TypeScript functions as sources for tools, providing a hosted and secure MCP server environment.
 
 ## Key Features
-- Minimal and lightweight TypeScript SDK for MCP server creation
-- Support for OpenAPI 3.0.X and 3.1.X specifications
+- High-level TypeScript SDK for defining and composing MCP tools
+- Support for OpenAPI 3.0.X and 3.1.X as tool sources
 - OAuth integration (DCR, BYO Authorization, standard flows)
-- Hosted and secure MCP servers with custom domains
-- High-level tool composition and chaining for higher-order tools
+- Hosted and secure MCP server deployment with custom domains
+- CLI for programmatic management of MCP servers and tools
 
 ## Why It Matters for RAG Builders
-Gram simplifies the deployment and management of MCP servers, making it essential for AI engineers building scalable and secure agentic workflows.
+Gram simplifies the deployment and management of MCP servers, enabling RAG builders to integrate secure, scalable, and customizable tools into their AI workflows with minimal overhead.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -45,8 +45,11 @@ Automated review identified **OpenAPI** as a key module contributing to infrastr
 ### MCP (Model Context Protocol)
 Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI (Command Line Interface)
-Automated review identified **CLI (Command Line Interface)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
