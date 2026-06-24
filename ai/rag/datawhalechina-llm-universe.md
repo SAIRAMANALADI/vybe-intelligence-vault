@@ -4,25 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-06-23T15:34:35.854635+05:30'
-published_at: '2026-06-23T05:03:14Z'
+collected_at: '2026-06-24T10:09:22.018566+05:30'
+published_at: '2026-06-24T02:37:55Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
-- models
 - rag
-stars: 13311
+stars: 13318
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-06-23T15:34:35.854635+05:30'
-last_seen: '2026-06-23T15:34:35.854635+05:30'
-last_checked: '2026-06-23T15:34:35.854635+05:30'
+first_seen: '2026-06-24T10:09:22.018566+05:30'
+last_seen: '2026-06-24T10:09:22.018566+05:30'
+last_checked: '2026-06-24T10:09:22.018566+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RAG (Retrieval-Augmented Generation) systems.
+- **Educational Framework**: A structured tutorial repository designed for novice developers to build large language model (LLM) applications, with a focus on practical implementation using Jupyter Notebooks.
 
-- **Technical Scope**: Focuses on practical implementation of LLM integration, including model deployment, fine-tuning, and evaluation, with hands-on examples for real-world applications.
+- **Technical Stack**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** for enhancing model responses with external knowledge retrieval.
 
-- **Community & Maintenance**: Actively maintained (last updated June 2026) with 13.3K+ stars and 1.3K+ forks, indicating strong community adoption and collaborative development in Chinese-speaking developer circles.
+- **Resource Accessibility**: Provides an online reading interface (hosted via GitHub Pages) and is actively maintained with the latest update as of **2026-06-24**.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13311
-- Forks: 1361
+- Stars: 13318
+- Forks: 1362
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-06-23T05:03:14Z
+- Last Updated: 2026-06-24T02:37:55Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-02-24T14:33:21Z

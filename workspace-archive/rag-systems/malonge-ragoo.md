@@ -8,10 +8,9 @@ local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tool
 importance: medium
 tags:
-- dataset
 - github-repo
 - hackernews
 - python
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** ([GitHub](https://github.com/malonge/RagTag)) for genome assembly and scaffolding tasks.
-- **Technical Scope**: Python-based tool designed for **bioinformatics**, specifically **genome assembly** and **scaffolding** of large genomic datasets.
-- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
+- **Project Status**: RaGOO is deprecated; users are directed to its successor, [RagTag](https://github.com/malonge/RagTag), for continued development.
+- **Technical Scope**: Python-based tool for **bioinformatics**, specifically **genome assembly** and **scaffolding**.
+- **Repository Metrics**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases
 

@@ -8,14 +8,14 @@ local_vault_path: ai/rag/speechify-text-to-speech-api-voices-streaming-and.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Speechify Text to Speech API — Voices, Streaming, and SSML | Speechify API
@@ -24,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **API Endpoint & Authentication**: Single POST `/v1/audio/speech` endpoint with `Authorization: Bearer` token authentication; supports streaming up to 20,000 characters per request.
-- **Voice & Model Features**: Supports voice cloning from 10-30s samples, multilingual output (30+ languages), and model variants (`simba-english`, `simba-multilingual`, `simba-3.0`) with SSML/emotion control and speech marks for word-level timestamps.
-- **SDK & Setup**: Provides Python (`speechify-api`) and TypeSc
+- **API Endpoint & Authentication**: Single POST `/v1/audio/speech` endpoint with `Authorization: Bearer` token for authentication; supports streaming up to 20,000 characters per request.
+- **Voice Cloning & Multilingual Support**: Clone voices from 10-30 second samples; supports 30+ languages with unified voice IDs across languages via `simba-multilingual` model.
+- **Advanced Features**: Full SSML control (pitch, rate, pauses, emotion presets) and word-level timestamps (`speech marks`) for audi
 
 ## Use Cases
 

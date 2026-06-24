@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Guest Mode Isolation**: Guest mode in Chrome prevents local storage of browsing history, cookies, and site data, ensuring no traces remain on the host machine after session termination.
-- **Access Control**: Guest mode restricts access to other Chrome profiles and their associated data, providing a sandboxed environment for temporary use.
-- **Data Visibility Risks**: Despite local deletion, browsing activity may still be visible to websites, network administrators, ISPs, and search engines,
+- **Guest mode** in Chrome prevents local storage of browsing history, cookies, and site data, ensuring no traces remain on the host machine after session termination.
+- **Session isolation** restricts access to other Chrome profiles and prevents modification of existing profiles during Guest mode operation.
+- **Data exposure risks** persist as websites, network administrators, ISPs, and search engines may still log activity, location, or search queries during Guest mode.
 
 ## Use Cases
 

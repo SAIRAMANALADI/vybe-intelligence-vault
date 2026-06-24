@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purchase History Access**: Users can view App Store, iTunes, and other media purchases via [reportaproblem.apple.com](https://reportaproblem.apple.com/?s=6) or directly through device-specific methods (iPhone/iPad: App Store > Sign-In > Purchase History; Mac: App Store > Account Settings > Purchase History; Windows: Apple Music/Apple TV app > View My Account > Purchase History).
-
-- **EU Alternative Payments**: Purchases made via third-party payment systems or external links in the EU bypass
+- **Purchase History Access**: Users can view App Store/iTunes purchases via [reportaproblem.apple.com](https://reportaproblem.apple.com/?s=6) or directly in the App Store/Music/TV apps on iOS, iPadOS, macOS, or Windows PC under "Purchase History."
+- **EU Alternative Payments**: Digital purchases via third-party payment systems or developer links (common in the EU) are not billed through Apple’s In-App Purchase system and require direct developer support.
+- **Fraud/Refund Handling**: Unrecognize
 
 ## Use Cases
 

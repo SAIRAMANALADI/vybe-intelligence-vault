@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code for Docs**: Enables Git repository integration with automated builds, previews, and versioning (Sphinx/MkDocs/Docusaurus) via `.readthedocs.yaml` config, eliminating manual pipeline management for engineering/docs teams.
+- **Infrastructure-as-Code for Docs**: Automates builds, previews, and hosting for documentation via Git integration, treating docs as code with CI/CD pipelines (e.g., `.readthedocs.yaml` config for Sphinx/MkDocs).
 
-- **AI & Access Control Features**: Supports AI agent integration (llms.txt, Markdown negotiation) and SSO (GitHub/GitLab) for permission management, alongside live PR preview builds with visual diffs against production.
+- **AI & Versioning Support**: Enables AI agent integration (e.g., `llms.txt`), supports versioned docs from branches/tags, and provides live PR previews with visual diffs against production.
 
-- **Open Source & Enterprise
+- **Access Control & Enterprise Features**: Offers SSO (GitHub/GitLab), private repo suppor
 
 ## Use Cases
 

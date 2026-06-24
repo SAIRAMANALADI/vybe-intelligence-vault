@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.apple.com/legal/privacy/data/en/app-store
-published_at: '2026-06-23T10:05:35.658983+05:30'
-collected_at: '2026-06-23T10:05:35.658995+05:30'
+published_at: '2026-06-24T10:15:00.742700+05:30'
+collected_at: '2026-06-24T10:15:00.742712+05:30'
 tags:
 - hackernews
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:legal-app-store-privacy-apple
-first_seen: '2026-06-23T10:05:35.658995+05:30'
-last_seen: '2026-06-23T10:05:35.658995+05:30'
-last_checked: '2026-06-23T10:05:35.658995+05:30'
+first_seen: '2026-06-24T10:15:00.742712+05:30'
+last_seen: '2026-06-24T10:15:00.742712+05:30'
+last_checked: '2026-06-24T10:15:00.742712+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, app interactions) to personalize App Store content, recommendations, and ads; device trust scores (based on usage metrics) are used for fraud prevention, with values obscured to protect privacy.
+- **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, device trust score) to personalize App Store experiences, recommend content, and serve targeted ads, with opt-out options available for personalization and marketing communications.
 
-- **Advertising & Third-Party Sharing**: App Store ads are targeted using aggregated user segments (>5,000 users) tied to random identifiers; non-personal data (e.g., subscription metrics) is shared with developers for analytics, while external purchases bypass Apple’s system and are reported anonymously.
+- **Fraud Prevention & Analytics**: Device activity (e.g., call/email frequency) is used to compute a privacy-preserving "device trust score" for fraud detection, while aggregated browsing/purchase data (with IP/unique IDs) is analyzed to improve store functionality and search models.
 
-- **User Control & Legal Compliance**: Users can opt out of personalization, reset identifiers, or disable location-based ads; Apple processes data under contractual/legal obligations, with age verification and IP-based geo-restrictions applied where required.
+- **Third-Party Sharing & Legal Basis**: Non-personal data (e.g., subscription metrics) is shared with developers/partners for analytics/accounting, while legal processing of personal data occurs under contract fulfillment or compliance obligations, with limited exceptions for external purchases.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:05:35.658983+05:30
+- Published: 2026-06-24T10:15:00.742700+05:30
 
 ## Related Tags
 

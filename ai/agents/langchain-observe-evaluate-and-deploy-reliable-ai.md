@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.langchain.com
-published_at: '2026-06-23T10:00:44.494211+05:30'
-collected_at: '2026-06-23T10:00:44.494223+05:30'
+published_at: '2026-06-24T10:10:11.950738+05:30'
+collected_at: '2026-06-24T10:10:11.950752+05:30'
 tags:
 - agents
 - benchmark
 - web-crawled
 status: active
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
-first_seen: '2026-06-23T10:00:44.494223+05:30'
-last_seen: '2026-06-23T10:00:44.494223+05:30'
-last_checked: '2026-06-23T10:00:44.494223+05:30'
+first_seen: '2026-06-24T10:10:11.950752+05:30'
+last_seen: '2026-06-24T10:10:11.950752+05:30'
+last_checked: '2026-06-24T10:10:11.950752+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-language SDK support**: Provides Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration across any stack.
+- **LangSmith Engine** autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes to accelerate agent improvement cycles.
 
-- **Autonomous failure analysis**: LangSmith Engine clusters production failures, identifies root causes in traces/code, and proposes fixes for iterative agent improvement.
+- **Multi-framework observability** via native tracing (OpenTelemetry, Python/TypeScript/Go/Java SDKs) with message threading and AI-driven analytics for multi-turn agent debugging.
 
-- **Production-grade agent deployment**: Supports long-running async agents with durable memory, checkpointing, and fault-tolerant scaling via native A2A/MCP protocol support.
+- **Production-grade deployment** with fault-tolerant runtime supporting human-in-the-loop interactions, A2A/MCP protocols, and scalable distributed agent swarms with durable checkpointing.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-23T10:00:44.494211+05:30
+- Published: 2026-06-24T10:10:11.950738+05:30
 
 ## Related Tags
 

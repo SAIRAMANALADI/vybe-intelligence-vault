@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org
-published_at: '2026-06-23T01:11:36.816639+05:30'
-collected_at: '2026-06-23T01:11:36.816652+05:30'
+published_at: '2026-06-24T10:23:18.702751+05:30'
+collected_at: '2026-06-24T10:23:18.702766+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-23T01:11:36.816652+05:30'
-last_seen: '2026-06-23T01:11:36.816652+05:30'
-last_checked: '2026-06-23T01:11:36.816652+05:30'
+first_seen: '2026-06-24T10:23:18.702766+05:30'
+last_seen: '2026-06-24T10:23:18.702766+05:30'
+last_checked: '2026-06-24T10:23:18.702766+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled history tracked via GitHub; metadata exposed via a public JSON API (`/api/peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled text histories maintained in GitHub; includes a JSON-based [PEPS API](https://peps.python.org/api/peps.json) for metadata access.
 
-- **Categorization Framework**: PEPs are classified by status (e.g., Accepted, Rejected) and topic (e.g., Governance, Packaging, Typing), with specialized indices for Process/Meta-PEPs and Informational PEPs.
+- **Categorization & Status**: PEPs are organized by status (e.g., *Process*, *Provisional*, *Accepted*, *Finished*) and topic (e.g., *Governance*, *Packaging*, *Typing*), with reserved numbers and status/type keys defined in PEP 0.
 
-- **Structured Governance**: PEPs define Python’s governance (e.g., PEP 13), release cycles (e.g., PEP 602), and technical standards (e.g., PEP 333 for WSGI, PEP 483/482 for type hints).
+- **Specialized PEPs**: Includes foundational PEPs like [PEP 8](https://peps.python.org/pep-0008/) (Python style guide), [PEP 333](https://peps.python.org/pep-0333/) (WSGI), and [PEP 484](https://peps.python.org/pep-0484/) (type hints), alongside governance and infrastructure PEPs (e.g., [PEP 731](https://peps.python.org/pep-0731/), [PEP 761](https://peps.python.org/pep-0761/)).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:11:36.816639+05:30
+- Published: 2026-06-24T10:23:18.702751+05:30
 
 ## Related Tags
 

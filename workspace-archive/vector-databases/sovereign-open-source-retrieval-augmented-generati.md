@@ -6,9 +6,9 @@ source_url: https://open-rag.ai
 resource_id: blog:sovereign-open-source-retrieval-augmented-generati
 local_vault_path: ai/rag/sovereign-open-source-retrieval-augmented-generati.md
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,8 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # Sovereign, Open Source Retrieval-Augmented Generation
@@ -30,14 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-Understanding OpenRag Features Tech stack How it Works Webinar Understanding OpenRag Features Tech stack How it Works Webinar Contact Us Contact us Just type your contacts Inquiry Type - Select - Marketing HR Sales Inquiry Type Press & Relations publ...
+- **Modular RAG Framework**: OpenRAG is an AGPL-licensed, open-source framework for Retrieval-Augmented Generation (RAG) designed for transparency, rapid experimentation, and production-scale deployment of document-grounded AI systems.
+
+- **Optimized Embedding-Reranking Pipeline**: Benchmarked on SciFact dataset, the framework pairs **KaLM-mini-instruct** with **GTE** or **Jina v2** embedders for optimal performance/latency trade-offs in retrieval tasks.
+
+- **Distributed & Multimodal Processing*
 
 ## Use Cases
 

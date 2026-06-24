@@ -32,8 +32,8 @@ selection_reason:
 
 ## Summary
 
-- **Usage Restrictions**: Unauthorized commercial use of Claris trademarks (e.g., logos) without prior written consent constitutes trademark infringement; referential use of word marks is permitted only under strict guidelines (e.g., no misleading associations, proper attribution with ™/® symbols, and no use in company/product names).
-- **Proper Trademark Formatting**: Trademarks must be used as adjectives followed by a generic term (e.g., "Claris FileMaker Pro software"), never pluralized/posse
+- **Usage Rights**: Unauthorized commercial use of Claris trademarks (e.g., logos) without written consent may constitute trademark infringement; referential use (without logos) is permitted under strict guidelines, including proper attribution, non-prominence, and no misleading association.
+- **Proper Trademark Formatting**: Trademarks must be used as adjectives followed by a generic noun (e.g., "Claris FileMaker Pro software"), never pluralized/possessive, and must retain exact spelling/capita
 
 ## Use Cases
 

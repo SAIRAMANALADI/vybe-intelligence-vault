@@ -14,13 +14,14 @@ tags:
 - ai
 - frontend_ui
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:canada-plans-nuclear-renaissance-with-up-to-10-rea
 first_seen: '2026-06-23T09:51:02.564689+05:30'
 last_seen: '2026-06-23T15:33:33.108855+05:30'
 last_checked: '2026-06-23T15:33:33.108855+05:30'
 health_score: 100
 ---
+
 
 # Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040
 

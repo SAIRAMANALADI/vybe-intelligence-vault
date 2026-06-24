@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -29,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Metrics Definitions**: *Presentations* count Medium’s story suggestions (excluding Digest) across feeds/searches/notifications; *Views* require ≥5s engagement (bounce-resistant); *Reads* require ≥30s engagement. All metrics are unique (per-user, per-surface, per-day deduplication).
+- **Metrics Definitions**: Medium's Stats provides deduplicated metrics including *Presentations* (story suggestions across feeds/search/email/push, excluding Digest), *Views* (accesses with ≥5s duration), *Reads* (engagement ≥30s), *Followers* (account follows), and *Subscribers* (email notification opt-ins), updated hourly for monthly stats and daily for lifetime metrics.
 
-- **Data Granularity**: Monthly stats update hourly with daily/weekly historical access; Lifetime stats update hourly for new stories (<1 month) and daily for older stories, sortable by views/reads/earnings.
-
-- *
+- **Lifetime Story Analytics**: The Lifetime section aggregates total *presentations* (pre-2025 excluded), *views*, *reads
 
 ## Use Cases
 

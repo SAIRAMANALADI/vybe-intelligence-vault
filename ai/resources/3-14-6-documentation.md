@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-23T01:10:25.943911+05:30'
-collected_at: '2026-06-23T01:10:25.943919+05:30'
+published_at: '2026-06-24T10:23:09.260029+05:30'
+collected_at: '2026-06-24T10:23:09.260042+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-23T01:10:25.943919+05:30'
-last_seen: '2026-06-23T01:10:25.943919+05:30'
-last_checked: '2026-06-23T01:10:25.943919+05:30'
+first_seen: '2026-06-24T10:23:09.260042+05:30'
+last_seen: '2026-06-24T10:23:09.260042+05:30'
+last_checked: '2026-06-24T10:23:09.260042+05:30'
 health_score: 100
 ---
 
@@ -21,8 +21,8 @@ health_score: 100
 ## Summary
 
 - **Python 3.14.6** is the latest stable release, with documentation covering syntax, standard library, C API, and packaging guidelines.
-- **Deprecated versions** (e.g., Python 3.9–3.13) receive security fixes, while EOL versions (≤3.8) are no longer supported.
-- **Documentation structure** includes tutorials, language/reference manuals, HOWTOs, and indices (e.g., `genindex`, `py-modindex`) for developer access.
+- **Deprecated versions** (e.g., Python 3.7–3.9) are marked **EOL**, while **3.10–3.12** receive security fixes; **3.15** is in pre-release, and **3.16** is under development.
+- **Documentation resources** include tutorials, HOWTOs, PEPs, and a **static typing guide**, with Sphinx-generated indices for modules, glossary, and search functionality.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:10:25.943911+05:30
+- Published: 2026-06-24T10:23:09.260029+05:30
 
 ## Related Tags
 

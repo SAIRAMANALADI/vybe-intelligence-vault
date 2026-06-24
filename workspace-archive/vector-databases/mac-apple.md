@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Mac Product Lineup**: Apple offers a range of Mac devices including MacBook Neo (new budget model), MacBook Air (13”/15”), MacBook Pro (14”/16”), iMac (all-in-one desktop with 7 color options), Mac mini (affordable compact desktop), and Mac Studio (high-performance workstation).
-
-- **Education Pricing**: College students and educators qualify for discounted pricing on Mac devices via the Apple Store, with savings applied at checkout.
-
-- **Customization & Trade-In**: Macs support hardware cus
+- **Education Pricing**: Apple offers discounted Mac pricing for college students and educators through the Apple Store, with savings applied at checkout.
+- **Mac Lineup**: Current Mac models include MacBook Neo (new budget-friendly option), MacBook Air (13" & 15"), MacBook Pro (14" & 16"), iMac (all-in-one desktop with multiple color options), Mac mini (entry-level desktop), and Mac Studio (high-performance workstation).
+- **Customization & Trade-In**: Macs support deep customization (chip, mem
 
 ## Use Cases
 

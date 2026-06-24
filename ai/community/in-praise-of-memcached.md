@@ -13,13 +13,14 @@ collected_at: '2026-06-23T15:33:31.002813+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:in-praise-of-memcached
 first_seen: '2026-06-23T09:51:01.330740+05:30'
 last_seen: '2026-06-23T15:33:31.002813+05:30'
 last_checked: '2026-06-23T15:33:31.002813+05:30'
 health_score: 100
 ---
+
 
 # In praise of memcached
 

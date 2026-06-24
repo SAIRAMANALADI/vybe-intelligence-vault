@@ -8,7 +8,7 @@ local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (emails, photos), device/browser metadata (IP, OS, unique identifiers), and activity logs (searches, watch history, location via GPS/Wi-Fi/cell towers). Non-account data is tied to anonymized identifiers.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked info (emails, location, device identifiers) and non-account data (IP addresses, browser/app interactions, sensor data) for personalization and security.
 
-- **Cross-Platform Tracking**: Activity on third-party sites/apps using Google services (e.g., ads, analytics) is logged, alongside call/message logs (phon
+- **Technical Mechanisms**: Uses unique identifiers, cookies, pixel tags, and local storage (e.g., browser web storage) to track activity, store preferences, and enable cross-session functionality, even when signed out.
 
 ## Use Cases
 

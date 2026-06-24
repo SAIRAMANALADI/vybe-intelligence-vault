@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **DSPy Optimization Framework**: Used DSPy's GEPA optimizer to systematically adapt a relevance judge from a high-cost proprietary model (OpenAI’s o3) to a lower-cost open model (gpt-oss-120b), reducing NMSE by 45% (from 8.83 to 4.86) while cutting adaptation time from weeks to days.
+- **DSPy Optimization Framework**: Used DSPy's GEPA optimizer to systematically adapt a relevance judge from a high-cost proprietary model (OpenAI’s o3) to a lower-cost open model (gpt-oss-120b), reducing NMSE by 45% (from 8.83 to 4.86) and cutting adaptation time from weeks to days while maintaining alignment with human judgments.
 
-- **Structural Reliability Enhancement**: Optimized a smaller model (gemma-3-12b) to reduce malformed JSON outputs by >97% (from 40% to <3%), ensuring operational dependability for downstream pipelines despite mo
+- **Operational Reliability Enhancement**: Optimized a smaller model (gemma-3-12b) to reduce malformed JSON outputs by >97% (from 40% to <1%) while improving NMSE fr
 
 ## Use Cases
 

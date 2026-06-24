@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Overview**: LoadLine 2 is a next-gen web performance benchmark for Android (phone/tablet) using replayed workloads from the `chrome-partner-loadline` cloud bucket, with metrics based on visual/interactive marks and geomean scoring across 5 representative sites per configuration.
+- **Benchmark Suite**: LoadLine 2 is a next-generation web performance benchmark designed for realistic workloads on mobile phones and Android tablets, featuring shorter execution times, stable metrics, and cross-platform support via recorded/replayed web page interactions.
 
-- **Technical Implementation**: Uses Perfetto traces (with `org.chromium.LoadLine2` plugin) for analysis, supports debug traces via `loadline2-phone-debug`, and enforces reproducibility via webpagereplay a
+- **Workload & Metrics**: Uses 5 representative sites per configuration (phone/tablet) with dual scoring (visual/interactive marks) based on time-to-completion, aggregated via geometric mean for final benchmark score.
+
+- **T
 
 ## Use Cases
 

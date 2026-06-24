@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 146 resources matched in the intelligence vault.
+Active signals: 172 resources matched in the intelligence vault.
 Recently detected signals:
-- [langchain-ai/langchain Release: langchain-openrouter==0.2.4](../ai/releases/langchain-ai-langchain.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-23
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-23
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md) (Source: Unknown Source) - Collected 2026-06-23
-- [university.atlassian.com](../ai/agents/university-atlassian-com.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Building RAG-based LLM Applications for Production](../ai/rag/building-rag-based-llm-applications-for-production.md) (Source: Unknown Source) - Collected 2026-06-24
+- [copilot-explorer | Hacky repo to see what the Copilot extension sends to the server](../ai/rag/copilot-explorer-hacky-repo-to-see-what-the-copilo.md) (Source: Unknown Source) - Collected 2026-06-24
+- [LlamaParse Platform Quickstart | Developer Documentation](../ai/agents/llamaparse-platform-quickstart-developer-documenta.md) (Source: Unknown Source) - Collected 2026-06-24
+- [allenai/scifact · Datasets at Hugging Face](../ai/rag/huggingface-datasets-allenai.md) (Source: Unknown Source) - Collected 2026-06-24
+- [LlamaIndex | AI Agents for Document OCR + Workflows](../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -65,4 +65,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:45.535710+05:30.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

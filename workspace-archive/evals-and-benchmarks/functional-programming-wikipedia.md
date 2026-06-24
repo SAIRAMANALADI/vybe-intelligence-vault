@@ -6,7 +6,7 @@ source_url: https://en.wikipedia.org/wiki/Functional_programming
 resource_id: blog:functional-programming-wikipedia
 local_vault_path: ai/rag/functional-programming-wikipedia.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Paradigm Definition**: Functional programming is a declarative paradigm where programs are constructed by applying and composing functions, treating them as first-class entities (bindable to names, passable as arguments, returnable from functions).
+- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed via function application and composition, avoiding imperative state mutation in favor of expression-based evaluation trees.
 
-- **Pure Functions**: Purely functional programming (a subset) restricts functions to deterministic mathematical operations with no side effects (no mutable state, no I/O interactions), ensuring consistent outputs for identical inputs.
+- **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
 
-- **Modul
+- **Pure vs. Impure FP**: Pure functional p
 
 ## Use Cases
 

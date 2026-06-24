@@ -13,8 +13,8 @@ Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [DagsHub - YouTube](https://youtube.com/c/dagshub)
 *   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
-*   [Manage your Apple Account](https://account.apple.com)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org)
+*   [Design Tech - Cornell University](https://designtech.cornell.edu/design-tech)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

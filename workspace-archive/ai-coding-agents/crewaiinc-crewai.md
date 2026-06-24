@@ -1,5 +1,5 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.14.8a2'
+title: 'crewAIInc/crewAI Release: 1.14.8a3'
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://github.com/crewaiinc/crewai
@@ -18,7 +18,7 @@ selection_reason:
 - Active open-source repository
 ---
 
-# crewAIInc/crewAI Release: 1.14.8a2
+# crewAIInc/crewAI Release: 1.14.8a3
 
 ## Why This Is In The Archive
 

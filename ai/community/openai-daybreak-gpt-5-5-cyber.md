@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-daybreak-gpt-5-5-cyber
 first_seen: '2026-06-23T15:33:31.298288+05:30'
 last_seen: '2026-06-23T15:33:31.298288+05:30'
 last_checked: '2026-06-23T15:33:31.298288+05:30'
 health_score: 100
 ---
+
 
 # OpenAI DayBreak – GPT-5.5-Cyber
 

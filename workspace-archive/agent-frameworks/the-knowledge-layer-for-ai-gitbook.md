@@ -2,7 +2,7 @@
 title: The knowledge layer for AI | GitBook
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=jcBkwIHRLHkf9D1lm834&utm_content=site_Ky6Ml
+source_url: https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-MZqboFGZzD87nn7oPsm&utm_content=site_qsKgM
 resource_id: blog:the-knowledge-layer-for-ai-gitbook
 local_vault_path: ai/agents/the-knowledge-layer-for-ai-gitbook.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Documentation Management**: GitBook employs AI-driven tools like GitBook Agent to monitor, analyze, and proactively suggest improvements for documentation accuracy, ensuring alignment with product updates and user needs.
+- **AI-Ready Documentation Layer**: GitBook provides a structured knowledge layer for AI agents via built-in MCP (Model Context Protocol), enabling agents to query docs with structured access and providing analytics on tool usage and queries.
 
-- **Multi-Source Knowledge Integration**: Supports unified knowledge layers by connecting documentation with product updates, community feedback, support tickets, and other sources via built-in MCP (Model Context Protocol) for AI agent access.
+- **Proactive Documentation Management**: GitBook Agent monitors docs in real-time, proactively suggesting improvements (e.g., updates, corrections) by analyzing support tickets, changelogs, and repositories to ensure accuracy and relevance.
 
-- **Enterprise-Gra
+- **Unified K
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=jcBkwIHRLHkf9D1lm834&utm_content=site_Ky6Ml
+Original source URL: https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=-MZqboFGZzD87nn7oPsm&utm_content=site_qsKgM
 
 ## Local Vault File
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://js.langchain.com
-published_at: '2026-06-23T01:06:08.460791+05:30'
-collected_at: '2026-06-23T01:06:08.460802+05:30'
+published_at: '2026-06-24T10:13:21.931349+05:30'
+collected_at: '2026-06-24T10:13:21.931360+05:30'
 tags:
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-23T01:06:08.460802+05:30'
-last_seen: '2026-06-23T01:06:08.460802+05:30'
-last_checked: '2026-06-23T01:06:08.460802+05:30'
+first_seen: '2026-06-24T10:13:21.931360+05:30'
+last_seen: '2026-06-24T10:13:21.931360+05:30'
+last_checked: '2026-06-24T10:13:21.931360+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: `create_agent` in LangChain provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: `create_agent` in LangChain provides a minimal, configurable harness combining model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google for flexible agent construction.
 
-- **Harness Architecture**: LangChain agents are built on LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while `create_agent` allows incremental middleware integration (e.g., guardrails, retries) for tailored behavior.
+- **Modular Architecture**: LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop support, enabling advanced workflows while maintaining portability across models via a standard interface.
 
-- **Observability & Debugging**: LangSmith integrates with LangChain/LangGraph agents for tracing, debugging (tool calls, state transitions), and evaluation, with optional `LANGSMITH_TRACING` for real-time monitoring and issue detection.
+- **Observability & Debugging**: LangSmith integrates for tracing, debugging, and evaluating agent behavior, capturing tool calls, state transitions, and latency to optimize performance and reliability.
 
 ## Why It Matters
 
@@ -42,13 +41,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:06:08.460791+05:30
+- Published: 2026-06-24T10:13:21.931349+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
-- benchmark
 - meta-ai
 - models
 - openai

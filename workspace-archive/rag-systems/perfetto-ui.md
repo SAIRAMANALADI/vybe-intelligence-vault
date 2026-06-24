@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Network instability** is the primary cause of Perfetto UI failure, typically resolved by toggling WiFi or reloading the page.
-- **Cache corruption** can trigger unrecoverable errors; clearing site storage (Ctrl+Shift+R) or devtools cache may restore functionality.
-- **Persistent issues** require bug reporting with devtools logs/screenshots via `go/perfetto-ui-bug` (Googlers) or GitHub (`google/perfetto/issues`).
+- **Network Issues**: UI failure typically stems from slow/unreliable network connectivity, often resolved by toggling WiFi or reloading.
+- **Cache Corruption**: Persistent errors may require clearing site storage/caches (via `Ctrl+Shift+R` or DevTools) to force a clean reload.
+- **Debugging Steps**: If unresolved, report the issue with DevTools logs/screenshots to [GitHub](https://github.com/google/perfetto/issues/new) or internal [go/perfetto-ui-bug](http://go/perfetto-ui-bug).
 
 ## Use Cases
 

@@ -4,11 +4,12 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
-| [crewAIInc/crewAI Release: 1.14.8a2](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
+| [crewAIInc/crewAI Release: 1.14.8a3](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | `ai-coding-agents/` | 70 |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | `ai-coding-agents/` | 70 |
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [riolaf05/blog-writer-crewai](https://github.com/riolaf05/blog-writer-crewai) | `ai-coding-agents/` | 70 |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
@@ -23,11 +24,10 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Haohao-end/openagent](https://github.com/Haohao-end/openagent) | `ai-coding-agents/` | 70 |
 | [dorisoy/FFmpeg.AutoGen.Toolkit](https://github.com/dorisoy/FFmpeg.AutoGen.Toolkit) | `ai-coding-agents/` | 70 |
 | [CS-433/ml-project-2-nlp_of_autogentext](https://github.com/CS-433/ml-project-2-nlp_of_autogentext) | `ai-coding-agents/` | 70 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | `ai-coding-agents/` | 70 |
 | [phoenix0706/langgraph-agent-gaia-benchmark](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark) | `ai-coding-agents/` | 70 |
 | [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | `ai-coding-agents/` | 70 |
 | [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) | `ai-coding-agents/` | 70 |
 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | `ai-coding-agents/` | 70 |
-| [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) | `ai-coding-agents/` | 70 |
-| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

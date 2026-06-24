@@ -6,13 +6,12 @@ source_url: https://browserbench.org/Speedometer3.1
 resource_id: blog:speedometer-3-1
 local_vault_path: ai/resources/speedometer-3-1.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -24,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Purpose**: Measures Web application responsiveness by simulating user actions (e.g., adding to-do items) in demo applications.
-- **Technical Requirements**: Requires viewport size ≥ 850px × 650px for accurate results; subtest failures may indicate misconfigured browser settings.
-- **Output Format**: Provides detailed metrics (JSON/CSV) for performance analysis, including aggregate and test-specific durations.
+- **Purpose**: Speedometer 3.1 is a browser benchmark designed to evaluate the responsiveness of web applications by simulating user interactions (e.g., adding to-do items) using demo applications.
+
+- **Requirements**: Accurate results require a viewport size of at least **850px by 650px**; suboptimal sizing may lead to incomplete test durations.
+
+- **Output**: The benchmark generates performance metrics (e.g., duration) for subtests, with results exportable in JSON/CSV formats; errors (e.g., mi
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular RAG pipeline components (document loading, text splitting, embedding, retrieval, output generation) supporting Python/JS/TS and integrations with OpenAI, Hugging Face, Azure.
+- **LangChain**: Open-source LLM toolkit (MIT license) for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, and output generation), supporting Python/JavaScript/TypeScript and integrations with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG system with document preprocessing, vector storage (Milvus/Weaviate), and hybrid retrieval (dense + sparse) for enterprise-grade context-aware LLM responses.
-
-- **LlamaIndex**: Data framework for RAG pipelines, offering document ingestion,
+- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLMs by integrating external knowledge sources (databases, APIs) to mitigate hallucinations and knowledge cut-off issues, enabling c
 
 ## Use Cases
 

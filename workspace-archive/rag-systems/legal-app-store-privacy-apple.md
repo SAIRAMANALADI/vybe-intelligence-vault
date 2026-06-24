@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, app interactions) to personalize App Store content, recommendations, and ads; device trust scores (based on usage metrics) are used for fraud prevention, with values obscured to protect privacy.
+- **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, device trust score) to personalize App Store experiences, recommend content, and serve targeted ads, with opt-out options available for personalization and marketing communications.
 
-- **Advertising & Third-Party Sharing**: App Store ads are targeted using aggregated user segments (>5,000 users) tied to random identifiers; non-personal data (e.g., subscription
+- **Fraud Prevention & Analytics**: Device activity (e.g., call/email frequency) is used to compute a privacy-preserving "device trust score" for fraud detection, while aggregated browsing/pur
 
 ## Use Cases
 

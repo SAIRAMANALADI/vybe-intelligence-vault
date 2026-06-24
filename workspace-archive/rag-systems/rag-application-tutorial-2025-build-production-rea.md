@@ -7,7 +7,7 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 90
+archive_score: 88
 archive_tier: essential
 resource_kind: dataset
 importance: high
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 90 (essential)
+- Quality score: 70 | Archive score: 88 (essential)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), embedding optimization (e.g., fine-tuning models like `sentence-transformers`), and vector database integration (e.g., Supabase for scalable retrieval).
+- **RAG Pipeline Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, and chunking strategies to enhance retrieval quality and reduce latency; benchmarks show latency breakdowns and optimization results for production-grade performance.
 
-- **Production Optimization Techniques**: Advanced retrieval methods such as hybrid search (combining dense/sparse embeddings), query expansion/rewriting, and caching strategies to reduce latency; deployment via Cloudflare Workers
+- **Scalable Architecture**: Deploys with Cloudflare Workers for edge computing, employs load balancing across multiple models, and uses Supabase as a vector database; includes caching strategies and Sentry integration for observ
 
 ## Use Cases
 

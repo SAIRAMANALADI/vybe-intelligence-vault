@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-23T10:01:24.784658+05:30'
-collected_at: '2026-06-23T10:01:24.784674+05:30'
+published_at: '2026-06-24T10:17:21.716247+05:30'
+collected_at: '2026-06-24T10:17:21.716262+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-23T10:01:24.784674+05:30'
-last_seen: '2026-06-23T10:01:24.784674+05:30'
-last_checked: '2026-06-23T10:01:24.784674+05:30'
+first_seen: '2026-06-24T10:17:21.716262+05:30'
+last_seen: '2026-06-24T10:17:21.716262+05:30'
+last_checked: '2026-06-24T10:17:21.716262+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/asus/flo-kernel`).
-
-- **Multi-Project Manifests & Branching**: Uses `manifest` repositories (e.g., `accessories/manifest`, `brillo/manifest`) to define project dependencies and configurations, with kernel versions tracked in subdirectories (e.g., `device/google/akita-kernels/6.1`).
-
-- **Security & Access Control**: Authentication via Google OAuth2 (`accounts.google.com/o/oauth2/auth`) enforces code review permissions (`gerritcodereview` scope) and password management through Google Security settings (`security.google.com/settings/security/permissions`).
+- **Official Android Git Repository**: Hosted at `android.googlesource.com`, providing access to Android's open-source codebase, including device-specific implementations, kernels, and platform components.
+- **Device-Specific Repositories**: Contains per-device configurations (e.g., `device/google/bluejay`, `device/asus/flo`) with kernel (`*-kernel`), SELinux policies (`*-sepolicy`), and variant-specific branches (e.g., `5.10`, `6.1`).
+- **Code Review & Authentication**: Uses Gerrit (`android-review.googlesource.com`) for code review, with OAuth2-based authentication (`accounts.google.com`) for secure access and password management.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:01:24.784658+05:30
+- Published: 2026-06-24T10:17:21.716247+05:30
 
 ## Related Tags
 

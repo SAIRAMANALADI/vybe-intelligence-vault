@@ -8,7 +8,7 @@ local_vault_path: ai/rag/medium-apps-on-google-play.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -21,18 +21,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: Medium is a content platform offering ad-free, long-form articles from expert writers, with features like highlighting, bookmarking, personalized recommendations, and audio playback; supports cross-device sync and dark/light modes.
+- **Medium** is a content platform offering ad-free, long-form articles from expert writers, with features like highlighting, bookmarking, and personalized recommendations, accessible across devices with light/dark mode support.
 
-- **Subscription Model**: Free tier with limited access; $4.99/month or $49.99/year membership unlocks full content; auto-renewing subscriptions managed via Google Play, with data encrypted in transit and no third-party sharing.
+- **Subscription Model**: Free tier with limited access; full content requires a $4.99/month or $49.99/year membership, auto-renewing via Google Play unless canceled 24 hours prior.
 
-- **Data & P
+- **Data Handling**: Collects personal info, photos, and other data types; encrypts dat
 
 ## Use Cases
 

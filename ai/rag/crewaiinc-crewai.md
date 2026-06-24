@@ -1,11 +1,11 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.14.8a2'
+title: 'crewAIInc/crewAI Release: 1.14.8a3'
 category: ai/rag
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/crewaiinc/crewai
-published_at: '2026-06-18T23:42:26Z'
-collected_at: '2026-06-23T15:33:34.786278+05:30'
+published_at: '2026-06-23T21:11:46Z'
+collected_at: '2026-06-24T10:06:17.289714+05:30'
 tags:
 - agents
 - crewaiinc-crewai
@@ -13,29 +13,26 @@ tags:
 status: active
 resource_id: github:crewaiinc/crewai
 first_seen: '2026-06-16T13:57:16.144372+05:30'
-last_seen: '2026-06-23T15:33:34.786278+05:30'
-last_checked: '2026-06-23T15:33:34.786278+05:30'
+last_seen: '2026-06-24T10:06:17.289714+05:30'
+last_checked: '2026-06-24T10:06:17.289714+05:30'
 health_score: 100
 ---
 
 
-# crewAIInc/crewAI Release: 1.14.8a2
+# crewAIInc/crewAI Release: 1.14.8a3
 
 ## Summary
 
 ## What's Changed
 
 ### Features
-- Add single agent action to Flow definitions
-- Validate flow CEL expressions at definition load time
-
-### Documentation
-- Add Datadog integration guide with importable operations dashboard
-- Update snapshot and changelog for v1.14.8a1
-
-## Contributors
-
-@joaomdmoura, ...
+- Add unified declarative flow loading
+- Improve crewai run startup UX
+- Consolidate `crewai run` and `crewai flow kickoff`
+- Keep flow method progress visible for nested crews
+- Add declarative Flow CLI support
+- Allow `@router()` as start method of a flow
+- Add type...
 
 ## Why It Matters
 
@@ -45,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Releases AI
 - Category: ai/agents
-- Published: 2026-06-18T23:42:26Z
+- Published: 2026-06-23T21:11:46Z
 
 ## Related Tags
 

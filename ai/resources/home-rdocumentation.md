@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.rdocumentation.org
-published_at: '2026-06-23T10:07:09.653737+05:30'
-collected_at: '2026-06-23T10:07:09.653743+05:30'
+published_at: '2026-06-24T10:17:13.771701+05:30'
+collected_at: '2026-06-24T10:17:13.771714+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:home-rdocumentation
-first_seen: '2026-06-23T10:07:09.653743+05:30'
-last_seen: '2026-06-23T10:07:09.653743+05:30'
-last_checked: '2026-06-23T10:07:09.653743+05:30'
+first_seen: '2026-06-24T10:17:13.771714+05:30'
+last_seen: '2026-06-24T10:17:13.771714+05:30'
+last_checked: '2026-06-24T10:17:13.771714+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Package Search Engine**: Provides a searchable interface for 32,476 R packages from CRAN and Bioconductor, enabling function-level queries (e.g., `lm(stats)`) for efficient lookup of R functions and their respective packages.
+- **R Package Repository**: Aggregates **32,476 R packages** from **CRAN** and **Bioconductor**, enabling function-specific searches (e.g., `lm(stats)`) for efficient package discovery.
 
-- **Learning Resources**: Offers structured learning paths (e.g., *R Fundamentals*, *Big Data with R*) and tutorials (e.g., *Introduction to R*, *Data Manipulation with R*) via DataCamp, including cheat sheets (e.g., *R Basics Cheat Sheet*) and topic-specific guides (e.g., *Linear Regression in R*, *PCA in R*).
+- **Learning Resources**: Provides structured **DataCamp tracks** (e.g., *R Fundamentals*, *Machine Learning with R*) and **tutorials** (e.g., *Linear Regression in R*, *PCA Analysis in R*) for skill development.
 
-- **Machine Learning & Advanced Analytics**: Hosts specialized tracks (e.g., *Machine Learning with R*, *Supervised Machine Learning in R*) and tutorials (e.g., *Decision Trees in R*, *Hierarchical Clustering in R*) for advanced statistical and ML applications in R.
+- **Cheat Sheets & Technical Guides**: Offers **R Basics Cheat Sheet** and domain-specific tutorials (e.g., *Importing Data into R*, *Hierarchical Clustering in R*) for practical implementation.
 
 ## Why It Matters
 
@@ -34,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T10:07:09.653737+05:30
+- Published: 2026-06-24T10:17:13.771701+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

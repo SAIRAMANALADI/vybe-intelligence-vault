@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Mojo's GPU Programming Features**: Combines Python-like syntax with systems-level performance, offering zero-cost abstractions, strong compile-time type checking, built-in tensor support, direct access to CPU/GPU intrinsics, and cross-hardware portability for high-performance heterogeneous computing.
-
-- **Puzzle-Based Learning Methodology**: Employs incremental, hands-on challenges to teach GPU programming concepts through practical problem-solving, emphasizing real-world scenarios, systemat
+- **Mojo GPU Puzzles** introduces GPU programming via hands-on puzzles using Mojo, a high-performance language combining Python syntax with systems-level capabilities, targeting NVIDIA GPUs with CUDA support.
+- **Key Learning Objectives** span GPU fundamentals (thread/block indexing, memory hierarchies), algorithmic optimizations (reductions, convolutions, matrix multiplication), and advanced topics (warp programming, tensor cores, cluster programming).
+- **Methodology** emphasizes puzzle-based
 
 ## Use Cases
 

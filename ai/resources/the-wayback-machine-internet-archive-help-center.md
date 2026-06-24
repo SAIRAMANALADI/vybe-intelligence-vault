@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://help.archive.org/help/category/the-wayback-machine
-published_at: '2026-06-23T01:16:34.114734+05:30'
-collected_at: '2026-06-23T01:16:34.114745+05:30'
+published_at: '2026-06-24T10:11:16.563899+05:30'
+collected_at: '2026-06-24T10:11:16.563912+05:30'
 tags:
 - hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:the-wayback-machine-internet-archive-help-center
-first_seen: '2026-06-23T01:16:34.114745+05:30'
-last_seen: '2026-06-23T01:16:34.114745+05:30'
-last_checked: '2026-06-23T01:16:34.114745+05:30'
+first_seen: '2026-06-24T10:11:16.563912+05:30'
+last_seen: '2026-06-24T10:11:16.563912+05:30'
+last_checked: '2026-06-24T10:11:16.563912+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- The Wayback Machine archives snapshots of web pages via crawling, enabling historical access to defunct or modified content, with over 800 billion pages stored as of 2024.
+- The Wayback Machine is a digital archive of the World Wide Web, capturing and preserving web pages through time via periodic snapshots, enabling historical web research and content recovery.
 
-- Users can manually submit URLs for archiving via the "Save Page Now" feature, though processing delays may occur due to queue prioritization and resource constraints.
+- Users can manually submit URLs for archiving, request removals (e.g., for non-consensual intimate images), or rebuild websites using archived snapshots if original sources are unavailable.
 
-- Removal requests for sensitive content (e.g., non-consensual intimate images) are handled via a dedicated DMCA-compliant process, distinct from general takedown policies.
+- Publishers may block Wayback Machine crawlers via `robots.txt` or other mechanisms, though the archive retains historical snapshots even if live sites restrict access.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:16:34.114734+05:30
+- Published: 2026-06-24T10:11:16.563899+05:30
 
 ## Related Tags
 

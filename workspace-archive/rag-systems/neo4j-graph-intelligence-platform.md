@@ -6,16 +6,14 @@ source_url: http://neo4j.org/resources/cypher
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: benchmark
-importance: medium
+resource_kind: tutorial
+importance: high
 tags:
-- agents
 - hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -26,19 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GraphRAG Integration**: Combines Neo4j's graph database with Databricks for enhanced Retrieval-Augmented Generation (RAG) by leveraging structured knowledge graphs to improve AI agent contextual reasoning.
-
-- **Technical Workflow**: Implements graph-based retrieval to dynamically fetch and synthesize relevant data, optimizing query performance and reducing latency in AI-driven applications.
-
-- **Use Case Focus**: Demonstrates real-world deployment of GraphRAG for smarter AI agents, emphasizi
+- **Event**: GraphTalk Netherlands, a European-focused conference on graph technologies.
+- **Date & Time**: June 24, 2026, at 10:00 AM PDT.
+- **Registration**: Link provided for event sign-up via Neo4j's official page.
 
 ## Use Cases
 

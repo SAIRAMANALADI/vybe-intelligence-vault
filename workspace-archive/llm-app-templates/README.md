@@ -25,8 +25,8 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [GitHub Copilot documentation - GitHub Docs](https://docs.github.com/copilot)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-23 15:35 IST*
+*Last updated: 2026-06-24 12:07 IST*

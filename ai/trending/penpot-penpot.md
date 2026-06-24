@@ -9,13 +9,14 @@ collected_at: '2026-06-23T15:33:31.563993+05:30'
 tags:
 - clojure
 - github-trending
-status: active
+status: inactive
 resource_id: github:penpot/penpot
 first_seen: '2026-06-17T16:47:27.411033+05:30'
 last_seen: '2026-06-23T15:33:31.563993+05:30'
 last_checked: '2026-06-23T15:33:31.563993+05:30'
 health_score: 100
 ---
+
 
 # penpot/penpot
 

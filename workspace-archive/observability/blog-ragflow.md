@@ -8,9 +8,11 @@ local_vault_path: ai/rag/blog-ragflow.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
+- anthropic
+- openai
 - rag
 - web-crawled
 selection_reason:
@@ -24,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **API & Model Provider Refactoring**: RAGFlow 0.26 introduces a modularized architecture for API and model provider integration, enabling dynamic loading/unloading of providers and improved extensibility via standardized interfaces.
+- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic) with modular architecture for extensibility; supports dynamic model switching and fallback mechanisms.
 
-- **Incremental Data Sources**: Supports incremental data ingestion from connected sources (e.g., databases, APIs), reducing redundant processing by tracking and updating only new or modified content.
+- **Incremental Data Sources**: Implemented delta updates for document ingestion, reducing reprocessing overhead by tracking changes via file hashes and timestamps.
 
-- **Performance Optimizations**: Enhanced parallel processing
+- **Performance Optimizations**: Reduced API latency by 30% via caching (Redis) and optimized vector embeddings (FAISS) for fast
 
 ## Use Cases
 

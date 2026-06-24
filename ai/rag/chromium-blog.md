@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.chromium.org
-published_at: '2026-06-23T01:10:54.883730+05:30'
-collected_at: '2026-06-23T01:10:54.883746+05:30'
+published_at: '2026-06-24T10:22:10.791629+05:30'
+collected_at: '2026-06-24T10:22:10.791646+05:30'
 tags:
 - benchmark
 - rag
 - web-crawled
 status: active
 resource_id: blog:chromium-blog
-first_seen: '2026-06-23T01:10:54.883746+05:30'
-last_seen: '2026-06-23T01:10:54.883746+05:30'
-last_checked: '2026-06-23T01:10:54.883746+05:30'
+first_seen: '2026-06-24T10:22:10.791646+05:30'
+last_seen: '2026-06-24T10:22:10.791646+05:30'
+last_checked: '2026-06-24T10:22:10.791646+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Performance Milestone**: Android achieved a new record for mobile web performance, surpassing other platforms in Speedometer 2.0 benchmark scores.
-- **Optimizations**: Chromium's advancements, including V8 JavaScript engine improvements and rendering optimizations, contributed to the 25% performance boost.
-- **Benchmark Results**: Speedometer 2.0 scores on Android devices reached **100+** (up from ~80), indicating significant efficiency gains in real-world web workloads.
+- **Performance Milestone**: Chromium-based browsers on Android achieved a new record in web performance, as measured by the Speedometer 2.1 benchmark, outperforming other mobile platforms.
+- **Optimizations**: Key improvements include enhanced JavaScript execution, optimized rendering pipeline, and reduced memory overhead via V8 engine and Blink rendering engine enhancements.
+- **Benchmark Results**: Speedometer 2.1 scores exceeded prior records by **~25%**, demonstrating significant gains in real-world web app responsiveness and load times.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:10:54.883730+05:30
+- Published: 2026-06-24T10:22:10.791629+05:30
 
 ## Related Tags
 

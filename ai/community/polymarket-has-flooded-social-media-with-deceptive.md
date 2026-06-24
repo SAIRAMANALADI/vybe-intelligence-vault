@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:polymarket-has-flooded-social-media-with-deceptive
 first_seen: '2026-06-23T09:51:01.434352+05:30'
 last_seen: '2026-06-23T15:33:30.325451+05:30'
 last_checked: '2026-06-23T15:33:30.325451+05:30'
 health_score: 100
 ---
+
 
 # Polymarket has flooded social media with deceptive videos by paid creators
 

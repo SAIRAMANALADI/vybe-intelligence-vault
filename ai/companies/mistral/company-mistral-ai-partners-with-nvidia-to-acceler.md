@@ -12,13 +12,14 @@ tags:
 - mistral
 - mistral-ai-news
 - models
-status: active
+status: inactive
 resource_id: blog:company-mistral-ai-partners-with-nvidia-to-acceler
 first_seen: '2026-06-16T04:26:33.366246+00:00'
 last_seen: '2026-06-23T15:33:32.569142+05:30'
 last_checked: '2026-06-23T15:33:32.569142+05:30'
 health_score: 100
 ---
+
 
 # Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI
 

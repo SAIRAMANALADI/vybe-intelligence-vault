@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://diataxis.fr
-published_at: '2026-06-22T10:51:22.753873+05:30'
-collected_at: '2026-06-22T10:51:22.753879+05:30'
+published_at: '2026-06-24T10:27:00.769592+05:30'
+collected_at: '2026-06-24T10:27:00.769613+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:diataxis
-first_seen: '2026-06-22T10:51:22.753879+05:30'
-last_seen: '2026-06-22T10:51:22.753879+05:30'
-last_checked: '2026-06-22T10:51:22.753879+05:30'
+first_seen: '2026-06-24T10:27:00.769613+05:30'
+last_seen: '2026-06-24T10:27:00.769613+05:30'
+last_checked: '2026-06-24T10:27:00.769613+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Four Documentation Types**: Diátaxis categorizes documentation into four distinct forms—*tutorials* (learning-oriented), *how-to guides* (problem-solving), *technical reference* (information-dense), and *explanation* (conceptual)—each addressing specific user needs and structured for clarity.
+- **Four-Documentation Framework**: Diátaxis categorizes technical documentation into four distinct types—*tutorials* (learning-oriented), *how-to guides* (problem-solving), *technical reference* (information-oriented), and *explanation* (understanding-oriented)—each addressing specific user needs and structured for clarity.
 
-- **Systematic Architecture**: Documentation should be organized around user needs, with each type mapped to a quadrant in a structured framework (e.g., tutorials for step-by-step learning, reference for API details), ensuring logical content placement and discoverability.
+- **Systematic Architecture**: Documentation is organized around user needs, with each type serving a unique purpose in the user journey, ensuring content is discoverable, maintainable, and aligned with practical application.
 
-- **Quality & Maintainability**: Diátaxis provides a lightweight, scalable approach to documentation, improving content quality, contributor workflows, and long-term maintainability without imposing rigid implementation constraints.
+- **Quality & Practicality**: Diátaxis provides a lightweight, adaptable framework for documentation creators, emphasizing content quality, style, and architecture without imposing rigid implementation constraints.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:51:22.753873+05:30
+- Published: 2026-06-24T10:27:00.769592+05:30
 
 ## Related Tags
 

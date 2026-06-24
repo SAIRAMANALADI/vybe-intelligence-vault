@@ -2,7 +2,7 @@
 title: Artificial intelligence functions
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
+source_url: http://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
 resource_id: blog:artificial-intelligence-functions
 local_vault_path: ai/rag/artificial-intelligence-functions.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - benchmark
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Embedding Operations**: FileMaker Pro supports vector embeddings via functions like `AddEmbeddings`, `SubtractEmbeddings`, and `NormalizeEmbedding`, enabling vector arithmetic and normalization for AI/ML workflows.
-
-- **Model Integration**: Functions `ComputeModel` and `PredictFromModel` interface with Core ML or regression models, returning JSON-formatted predictions or evaluations for structured data processing.
-
-- **Embedding Conversion & Metadata**: Functions `GetEmbedding`, `GetEmbeddin
+- **Embedding Operations**: Functions like `AddEmbeddings`, `SubtractEmbeddings`, and `NormalizeEmbedding` perform vector arithmetic and normalization on embedding representations for AI model inputs/outputs.
+- **Model Interaction**: `ComputeModel` evaluates Core ML models, `PredictFromModel` runs regression predictions, and `GetModelAttributes` retrieves metadata for loaded models.
+- **Embedding Conversion**: `GetEmbedding` generates vector embeddings from input data, while `GetEmbeddingAsFile`
 
 ## Use Cases
 
@@ -47,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
+Original source URL: http://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
 
 ## Local Vault File
 

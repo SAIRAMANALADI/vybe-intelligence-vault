@@ -9,13 +9,14 @@ collected_at: '2026-06-23T15:33:31.565573+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:firecrawl/firecrawl
 first_seen: '2026-06-23T01:03:50.205434+05:30'
 last_seen: '2026-06-23T15:33:31.565573+05:30'
 last_checked: '2026-06-23T15:33:31.565573+05:30'
 health_score: 100
 ---
+
 
 # firecrawl/firecrawl
 

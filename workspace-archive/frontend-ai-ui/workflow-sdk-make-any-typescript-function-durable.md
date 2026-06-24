@@ -1,0 +1,57 @@
+---
+title: Workflow SDK - Make any TypeScript Function Durable
+archive_category: frontend-ai-ui
+source_category: ai/rag
+source_url: https://workflow-sdk.dev
+resource_id: blog:workflow-sdk-make-any-typescript-function-durable
+local_vault_path: ai/rag/workflow-sdk-make-any-typescript-function-durable.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- frontend_ui
+- rag
+- reddit
+- scripts
+- web-crawled
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Workflow SDK - Make any TypeScript Function Durable
+
+## Why This Is In The Archive
+
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Durability & State Management**: Workflow SDK enables TypeScript functions to be "durable" via simple directives (`"use workflow"`), providing automatic retries, state persistence, and resumable execution without manual queue/retries infrastructure.
+
+- **Framework Agnostic & AI Integration**: Supports multiple frameworks (Next.js, Astro, Express, etc.) and deep AI SDK integration, enabling reliable, long-running AI agents with built-in observability and streaming.
+
+- **Zero-Config Observabil
+
+## Use Cases
+
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
+
+## Source
+
+Original source URL: https://workflow-sdk.dev
+
+## Local Vault File
+
+Path: [workflow-sdk-make-any-typescript-function-durable.md](../../ai/rag/workflow-sdk-make-any-typescript-function-durable.md)

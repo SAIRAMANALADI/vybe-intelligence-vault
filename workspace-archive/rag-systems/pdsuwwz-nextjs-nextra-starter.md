@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI 落地页等核心场景，提供响应式设计、暗黑模式和鉴权示例代码，开箱即用、工程化完善, Deployed on Netlify and Vercel.
+🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI SaaS 落地页等核心场景，提供响应式设计、暗黑模式、鉴权示例与项目蒸馏 Skill，开箱即用、工程化完善, Deployed on Netlify and Vercel.
 
 ## Use Cases
 

@@ -2,13 +2,13 @@
 title: Welcome to Flask — Flask Documentation (3.1.x)
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://flask.palletsprojects.com
+source_url: http://flask.pocoo.org
 resource_id: blog:welcome-to-flask-flask-documentation-3-1-x
 local_vault_path: ai/rag/welcome-to-flask-flask-documentation-3-1-x.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -25,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Framework Overview**: Flask is a lightweight WSGI web application framework designed for rapid development and scalability, leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit).
-
-- **Core Components**: Key features include routing, template rendering, request/response handling, session management, error handling, and modular application design via Blueprints.
-
-- **Configuration & Extensibility**: Supports dynamic configuration (Python files, environment vari
+- **Core Dependencies**: Flask is a lightweight WSGI web application framework that relies on **Werkzeug** (WSGI toolkit), **Jinja** (templating engine), and **Click** (CLI toolkit) for its core functionality.
+- **Modular Architecture**: Supports **Blueprints** for modular application design, enabling separation of concerns and reusable components in large-scale applications.
+- **Context Management**: Utilizes **Application Context** and **Request Context** for managing application state and req
 
 ## Use Cases
 
@@ -45,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://flask.palletsprojects.com
+Original source URL: http://flask.pocoo.org
 
 ## Local Vault File
 

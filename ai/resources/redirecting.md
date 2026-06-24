@@ -1,28 +1,26 @@
 ---
-title: Redirecting…
+title: Redirecting...
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://web-platform-dx.github.io/web-features
-published_at: '2026-06-23T10:01:12.923984+05:30'
-collected_at: '2026-06-23T10:01:12.923996+05:30'
+source_url: https://payments.google.com
+published_at: '2026-06-24T10:14:37.677058+05:30'
+collected_at: '2026-06-24T10:14:37.677069+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:redirecting
-first_seen: '2026-06-23T10:01:12.923996+05:30'
-last_seen: '2026-06-23T10:01:12.923996+05:30'
-last_checked: '2026-06-23T10:01:12.923996+05:30'
+first_seen: '2026-06-24T10:14:37.677069+05:30'
+last_seen: '2026-06-24T10:14:37.677069+05:30'
+last_checked: '2026-06-24T10:14:37.677069+05:30'
 health_score: 100
 ---
 
-# Redirecting…
+# Redirecting...
 
 ## Summary
 
-- **Resource Redirection**: The page has been moved to a new URL.
-- **Baseline Initiative**: The new location is part of the Web Platform DX (Developer Experience) group's Baseline project.
-- **Access Method**: Users are redirected automatically; manual fallback via [click here](https://web-platform-dx.github.io/baseline/) provided.
+No summary provided. Reference resource: Redirecting...
 
 ## Why It Matters
 
@@ -32,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T10:01:12.923984+05:30
+- Published: 2026-06-24T10:14:37.677058+05:30
 
 ## Related Tags
 
@@ -40,4 +38,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://web-platform-dx.github.io/web-features
+Original source: https://payments.google.com

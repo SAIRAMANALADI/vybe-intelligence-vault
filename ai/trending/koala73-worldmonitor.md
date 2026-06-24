@@ -4,19 +4,18 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/koala73/worldmonitor
-published_at: '2026-06-22T15:16:21.363058+05:30'
-collected_at: '2026-06-22T15:16:21.363062+05:30'
+published_at: '2026-06-24T10:06:14.482904+05:30'
+collected_at: '2026-06-24T10:06:14.482910+05:30'
 tags:
 - github-trending
 - typescript
-status: inactive
+status: active
 resource_id: github:koala73/worldmonitor
 first_seen: '2026-06-21T20:19:14.645687+05:30'
-last_seen: '2026-06-22T15:16:21.363062+05:30'
-last_checked: '2026-06-22T15:16:21.363062+05:30'
+last_seen: '2026-06-24T10:06:14.482910+05:30'
+last_checked: '2026-06-24T10:06:14.482910+05:30'
 health_score: 100
 ---
-
 
 # koala73/worldmonitor
 
@@ -32,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-22T15:16:21.363058+05:30
+- Published: 2026-06-24T10:06:14.482904+05:30
 
 ## Related Tags
 

@@ -8,12 +8,11 @@ local_vault_path: ai/rag/all-in-one-incident-management-platform-incident-i.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -25,18 +24,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Implements machine learning to filter and prioritize critical alerts, minimizing unnecessary pages while ensuring critical incidents are addressed promptly.
-
-- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skill sets, and rotation policies, optimizing response efficiency and reducing manual overhead.
-
-- **Real-time incident trends analysis**: Provides actionable insights via trend visualization, enab
+- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by leveraging machine learning to prioritize critical incidents.
+- **Automated scheduling & escalation**: Dynamically assigns on-call duties based on team availability, skills, and incident trends, with built-in escalation policies.
+- **Real-time analytics & trends**: Provides historical and predictive insights into incident frequency, response times, and team performance via a centralized dashboard.
 
 ## Use Cases
 

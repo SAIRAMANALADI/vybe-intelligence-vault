@@ -1,0 +1,54 @@
+---
+title: iPhone - Apple
+archive_category: ai-tools-products
+source_category: ai/resources
+source_url: https://www.apple.com/iphone
+resource_id: blog:iphone-apple
+local_vault_path: ai/resources/iphone-apple.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- openai
+- paper
+- reddit
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# iPhone - Apple
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro purchases.
+- **A19/A19 Pro chipset**: Features Neural Accelerators in GPU for AI workloads, supports AAA gaming, and enables advanced camera features with improved battery efficiency.
+- **Apple Intelligence integration**: On-device AI tools include Live Translation, Visual Intelligence for screen interactions, Clean Up for photo editing, and Siri with ChatGPT access while maintainin
+
+## Use Cases
+
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
+
+## Source
+
+Original source URL: https://www.apple.com/iphone
+
+## Local Vault File
+
+Path: [iphone-apple.md](../../ai/resources/iphone-apple.md)

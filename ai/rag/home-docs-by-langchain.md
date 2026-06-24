@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com
-published_at: '2026-06-23T09:53:41.339472+05:30'
-collected_at: '2026-06-23T09:53:41.339485+05:30'
+published_at: '2026-06-24T10:10:26.793727+05:30'
+collected_at: '2026-06-24T10:10:26.793741+05:30'
 tags:
 - agents
 - benchmark
 - dataset
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:home-docs-by-langchain
-first_seen: '2026-06-23T09:53:41.339485+05:30'
-last_seen: '2026-06-23T09:53:41.339485+05:30'
-last_checked: '2026-06-23T09:53:41.339485+05:30'
+first_seen: '2026-06-24T10:10:26.793741+05:30'
+last_seen: '2026-06-24T10:10:26.793741+05:30'
+last_checked: '2026-06-24T10:10:26.793741+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain Documentation Index**: Centralized repository of all LangChain documentation available at `/llms.txt` for discovering available pages and resources.
+- LangChain provides a centralized documentation index (`/llms.txt`) for discovering all available technical resources and API references.
 
-- **Agent Development Platform**: Supports the full agent lifecycle—**building** (LangChain, LangGraph, Deep Agents), **testing** (datasets, evaluations), **deployment**, **monitoring**, and **governance**—with tools like LangSmith for observability and failure analysis.
+- The platform supports the full agent development lifecycle with modular tools for building (LangChain/LangGraph), testing (datasets/evaluations), deploying, monitoring, and governing agents.
 
-- **No-Code & Enterprise Features**: Offers **LangSmith Fleet** for no-code agent development and deployment, alongside compliance (HIPAA, SOC 2, GDPR) via the Trust Center.
+- LangSmith offers no-code agent development via Fleet, automated failure detection via Engine, and compliance certifications (HIPAA/SOC 2/GDPR) for production deployments.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:53:41.339472+05:30
+- Published: 2026-06-24T10:10:26.793727+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - dataset
+- hackernews
 - rag
 - web-crawled
 

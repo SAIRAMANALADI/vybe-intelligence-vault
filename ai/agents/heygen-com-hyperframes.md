@@ -11,13 +11,14 @@ tags:
 - github-trending
 - typescript
 - youtube
-status: active
+status: inactive
 resource_id: github:heygen-com/hyperframes
 first_seen: '2026-06-23T01:03:50.204525+05:30'
 last_seen: '2026-06-23T15:33:31.564657+05:30'
 last_checked: '2026-06-23T15:33:31.564657+05:30'
 health_score: 100
 ---
+
 
 # heygen-com/hyperframes
 

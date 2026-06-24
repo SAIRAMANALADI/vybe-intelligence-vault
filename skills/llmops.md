@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 294 resources matched in the intelligence vault.
+Active signals: 326 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-06-23
-- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-23
-- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-23
-- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-23
-- [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) (Source: Unknown Source) - Collected 2026-06-23
+- [Develop AI apps using Azure services | Microsoft Learn](../ai/rag/develop-ai-apps-using-azure-services-microsoft-lea.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Introduction - TimeGPT Foundational model for time series forecasting and anomaly detection](../ai/resources/introduction-timegpt-foundational-model-for-time-s.md) (Source: Unknown Source) - Collected 2026-06-24
+- [google/gemma-3-270m • LM Studio](../ai/rag/google-gemma-3-270m-lm-studio.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Aseprite - Docs - Cli](../ai/resources/aseprite-docs-cli.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -81,27 +81,22 @@ Recently detected signals:
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 11. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
-- Stars: 0
-- Language: Unknown
-- Description: - **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RA...
-
-### 12. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+### 11. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
 
-### 13. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
+### 12. [langwatch/langwatch](../ai/agents/langwatch-langwatch.md) ([GitHub](https://github.com/langwatch/langwatch))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: langwatch/langwatch
 
-### 14. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+### 13. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 15. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 14. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
@@ -126,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-23T15:35:20.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:45.616017+05:30.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

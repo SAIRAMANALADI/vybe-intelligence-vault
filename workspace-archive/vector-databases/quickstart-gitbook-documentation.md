@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
 - hackernews
 - rag
 - web-crawled
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitBook supports **two primary editing workflows**: a **visual WYSIWYG editor** (for non-technical users) and a **docs-as-code workflow** (via GitHub/GitLab sync with Markdown support).
-- **Change requests** in GitBook allow real-time preview and versioned updates, with changes merged to the primary content upon approval, triggering immediate site updates.
-- **Customization options** include site navigation restructuring, visual themes (logo, colors, fonts), custom domains/subdirectories, and
+- **Dual-Editing Workflows**: GitBook supports both a WYSIWYG visual editor (ideal for non-technical users) and a docs-as-code workflow via GitHub/GitLab sync (for developers), with changes managed through branch-based editing and pull requests.
+
+- **Real-Time Preview & Versioning**: Edits are previewed in live desktop/mobile views before merging, and GitBook tracks all changes via version history, including GitHub/GitLab pull request integrations for traceability.
+
+- **Customization & Deploymen
 
 ## Use Cases
 

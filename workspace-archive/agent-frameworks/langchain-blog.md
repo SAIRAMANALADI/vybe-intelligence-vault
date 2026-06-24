@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain Blog
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Loop Engineering in AI Agents**: Emphasizes iterative refinement of agent workflows via feedback loops, optimizing decision-making and task execution through structured retries, timeouts, and error-handling mechanisms in frameworks like LangGraph.
+- **Loop Engineering in Agents**: Introduces *loop engineering* as a critical discipline for optimizing agent architectures, emphasizing iterative refinement of agent loops for performance, reliability, and adaptability in dynamic environments.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, enabling flexibility, cost optimization, and reduced dependency on proprietary model
+- **Model Neutrality vs. Cloud Neutrality**: Argues that *model neutrality* (ability to switch LLMs without architectural changes) is more impactful than cloud neutrality, enabling cost optimization, performance tuning, and avoiding vendor lock-in withou
 
 ## Use Cases
 

@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (`/`) and floor division (`//`), and allows expression grouping via parentheses.
-
-- Python enables **compound data manipulation** via built-in types like lists, supporting indexing, slicing, list comprehensions, and iteration constructs (`for`, `while`), alongside functions like `enumerate()` for indexed traversal.
-
-- Python provides **control flow primitives** (`if`, `for`
+- Python supports arithmetic operations with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and floating-point division, with syntax resembling mathematical expressions.
+- Python’s list comprehensions enable concise transformations and enumerations, e.g., `[fruit.upper() for fruit in fruits]` and `list(enumerate(fruits))`.
+- Python 3.15.0 beta 3 released alongside security patches for API authentication bypass in python.org download metadata.
 
 ## Use Cases
 

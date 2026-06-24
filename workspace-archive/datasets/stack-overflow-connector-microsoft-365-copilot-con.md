@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Connector Functionality**: Enables indexing of Stack Overflow Q&A content for Microsoft 365 Copilot and Search clients, supporting Stack Internal (Business/Enterprise) with OAuth (Enterprise) or Basic Auth (Business) authentication.
+- **Indexing & Search**: The Stack Overflow Copilot connector indexes questions/answers from Stack Overflow (including Stack Internal Business/Enterprise) to enable Microsoft 365 Copilot and Search clients to retrieve technical content via semantic search.
 
-- **Prerequisites & Setup**: Requires AI admin privileges; uses organization-specific Stack Overflow instance URLs (e.g., `https://.stackenterprise.co` for Enterprise, `https://api.stackoverflowteams.com/v3/teams/` for Business) and supports staged rollout for v
+- **Authentication & Setup**: Supports OAuth (Stack Internal Enterprise) or Basic Auth (Stack Internal Business), requires admin privileges, and requires organization-specific instance URLs (e.g., `https://.stackenterprise.co` or `https://api
 
 ## Use Cases
 

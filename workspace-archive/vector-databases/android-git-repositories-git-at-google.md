@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device trees, kernels, and platform components (e.g., `device/google/bluejay-kernel`, `device/asus/flo-kernel`).
-
-- **Multi-Project Manifests & Branching**: Uses `manifest` repositories (e.g., `accessories/manifest`, `brillo/manifest`) to define project dependencies and configurations, with kernel versions tracked in subd
+- **Official Android Git Repository**: Hosted at `android.googlesource.com`, providing access to Android's open-source codebase, including device-specific implementations, kernels, and platform components.
+- **Device-Specific Repositories**: Contains per-device configurations (e.g., `device/google/bluejay`, `device/asus/flo`) with kernel (`*-kernel`), SELinux policies (`*-sepolicy`), and variant-specific branches (e.g., `5.10`, `6.1`).
+- **Code Review & Authentication**: Uses Gerrit (`android-re
 
 ## Use Cases
 

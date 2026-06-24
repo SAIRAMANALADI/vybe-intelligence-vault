@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 6,254</p>
-        <p><b>Active:</b> 6,096 | <b>Inactive:</b> 158</p>
+        <p><b>Resources tracked:</b> 6,888</p>
+        <p><b>Active:</b> 6,717 | <b>Inactive:</b> 171</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 25,264</p>
+        <p><b>Archive Files:</b> 27,619</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-24 08:21 IST</p>
+        <p><b>Last Update:</b> 2026-06-24 12:07 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[MyST Markdown - Tools for the future of technical communication - MyST Markdown](ai/resources/myst-markdown-tools-for-the-future-of-technical-co.md)** • Rank: <kbd>+336</kbd>
+- 🔼 **[RST-to-MyST — RST-to-MyST: v0.4.0](ai/resources/rst-to-myst-rst-to-myst-v0-4-0.md)** • Rank: <kbd>+325</kbd>
+- 🔼 **[Discourse API Docs](ai/resources/discourse-api-docs.md)** • Rank: <kbd>+74</kbd>
+- 🔼 **[Read the Docs tutorial — Read the Docs user documentation](ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md)** • Rank: <kbd>+459</kbd>
+- 🔼 **[Full featured documentation deployment platform - Read the Docs](ai/agents/full-featured-documentation-deployment-platform-re.md)** • Rank: <kbd>+368</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[The Low-Tech AI of Elden Ring](ai/community/the-low-tech-ai-of-elden-ring.md)** • Score: `126`
+- 🆕 **[Show HN: RLM-based local debugger for AI agent traces](ai/community/context-labs-halo.md)** • Score: `16`
+- 🆕 **[Qwen-AgentWorld: Language World Models for General Agents](ai/community/arxiv-2606-24597.md)** • Score: `13`
+- 🆕 **[Contributing guide — Zulip 12.0-dev+git documentation](ai/rag/contributing-guide-zulip-12-0-dev-git-documentatio.md)** • Score: `0`
+- 🆕 **[Install a Zulip server — Zulip 12.0 documentation](ai/rag/install-a-zulip-server-zulip-12-0-documentation.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](ai/community/canada-plans-nuclear-renaissance-with-up-to-10-rea.md)**
+- 💤 **[Polymarket has flooded social media with deceptive videos by paid creators](ai/community/polymarket-has-flooded-social-media-with-deceptive.md)**
+- 💤 **[Moebius: 0.2B image inpainting model with 10B-level performance](ai/community/moebius-0-2b-image-inpainting-model-with-10b-level.md)**
+- 💤 **[Show HN: Oak – Git alternative designed for agents](ai/community/show-hn-oak-git-replacement-designed-for-agents.md)**
+- 💤 **[In praise of memcached](ai/community/in-praise-of-memcached.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

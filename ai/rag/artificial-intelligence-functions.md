@@ -3,19 +3,18 @@ title: Artificial intelligence functions
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
-published_at: '2026-06-23T10:12:33.610606+05:30'
-collected_at: '2026-06-23T10:12:33.610616+05:30'
+source_url: http://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
+published_at: '2026-06-24T10:16:47.268052+05:30'
+collected_at: '2026-06-24T10:16:47.268065+05:30'
 tags:
 - benchmark
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:artificial-intelligence-functions
-first_seen: '2026-06-23T10:12:33.610616+05:30'
-last_seen: '2026-06-23T10:12:33.610616+05:30'
-last_checked: '2026-06-23T10:12:33.610616+05:30'
+first_seen: '2026-06-24T10:16:47.268065+05:30'
+last_seen: '2026-06-24T10:16:47.268065+05:30'
+last_checked: '2026-06-24T10:16:47.268065+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Embedding Operations**: FileMaker Pro supports vector embeddings via functions like `AddEmbeddings`, `SubtractEmbeddings`, and `NormalizeEmbedding`, enabling vector arithmetic and normalization for AI/ML workflows.
-
-- **Model Integration**: Functions `ComputeModel` and `PredictFromModel` interface with Core ML or regression models, returning JSON-formatted predictions or evaluations for structured data processing.
-
-- **Embedding Conversion & Metadata**: Functions `GetEmbedding`, `GetEmbeddingAsFile`, and `GetEmbeddingAsText` handle embedding generation/conversion, while `GetModelAttributes` and `GetRAGSpaceInfo` retrieve metadata for loaded models or RAG (Retrieval-Augmented Generation) spaces.
+- **Embedding Operations**: Functions like `AddEmbeddings`, `SubtractEmbeddings`, and `NormalizeEmbedding` perform vector arithmetic and normalization on embedding representations for AI model inputs/outputs.
+- **Model Interaction**: `ComputeModel` evaluates Core ML models, `PredictFromModel` runs regression predictions, and `GetModelAttributes` retrieves metadata for loaded models.
+- **Embedding Conversion**: `GetEmbedding` generates vector embeddings from input data, while `GetEmbeddingAsFile`/`GetEmbeddingAsText` handle binary/text conversions for storage/processing.
 
 ## Why It Matters
 
@@ -37,15 +34,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:12:33.610606+05:30
+- Published: 2026-06-24T10:16:47.268052+05:30
 
 ## Related Tags
 
 - benchmark
 - rag
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html
+Original source: http://help.claris.com/en/pro-help/content/artificial-intelligence-functions.html

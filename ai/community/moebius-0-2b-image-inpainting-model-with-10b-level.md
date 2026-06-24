@@ -13,13 +13,14 @@ collected_at: '2026-06-23T15:33:32.488788+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:moebius-0-2b-image-inpainting-model-with-10b-level
 first_seen: '2026-06-23T01:03:48.875548+05:30'
 last_seen: '2026-06-23T15:33:32.488788+05:30'
 last_checked: '2026-06-23T15:33:32.488788+05:30'
 health_score: 100
 ---
+
 
 # Moebius: 0.2B image inpainting model with 10B-level performance
 

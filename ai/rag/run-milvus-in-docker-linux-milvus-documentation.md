@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/install_standalone-docker.md
-published_at: '2026-06-22T11:18:22.110867+05:30'
-collected_at: '2026-06-22T11:18:22.110881+05:30'
+published_at: '2026-06-24T10:08:29.094438+05:30'
+collected_at: '2026-06-24T10:08:29.094452+05:30'
 tags:
 - anthropic
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:run-milvus-in-docker-linux-milvus-documentation
-first_seen: '2026-06-22T11:18:22.110881+05:30'
-last_seen: '2026-06-22T11:18:22.110881+05:30'
-last_checked: '2026-06-22T11:18:22.110881+05:30'
+first_seen: '2026-06-24T10:08:29.094452+05:30'
+last_seen: '2026-06-24T10:08:29.094452+05:30'
+last_checked: '2026-06-24T10:08:29.094452+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus v3.0.x** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queuing, and a **consolidated architecture** for improved performance in standalone Docker deployments.
+- **Milvus v3.0.x** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queueing with reduced overhead, and an **optimized architecture** consolidating components for improved performance.
 
-- **Standalone Docker deployment** uses an embedded etcd (port `2379`) and Milvus server (port `19530`), with data stored in a mapped volume (`volumes/milvus`), configurable via `user.yaml` for custom settings.
+- **Docker-based deployment** via `standalone_embed.sh` automates Milvus setup in a container with embedded etcd (port 2379), exposes Milvus API at port 19530, and maps data to `volumes/milvus`; configurations can be customized via `user.yaml`.
 
-- **Upgrade/downgrade** is managed via `standalone_embed.sh` (e.g., `upgrade`, `restart`), preserving data and configurations, while **Zilliz Cloud** offers a fully managed, 10x faster alternative.
+- **Upgrade path** includes a built-in `upgrade` command in the script, preserving data/configs while pulling the latest Milvus image; managed alternative **Zilliz Cloud** offers a fully managed, 10x faster Milvus service.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:18:22.110867+05:30
+- Published: 2026-06-24T10:08:29.094438+05:30
 
 ## Related Tags
 

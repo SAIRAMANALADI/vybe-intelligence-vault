@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Family Library Setup**: Requires a family manager (≥18, valid payment method, not part of another group) to initiate via Google Play app → **Settings** → **Family** → **Sign up for Family Library**; all members must follow setup steps.
-- **Content Eligibility & Sharing**: Apps/games (post-July 2016, developer-enabled), movies/TV (family payment method required post-setup), and books (publisher-enabled) can be shared; rentals, in-app purchases, and free content are excluded.
-- **Access & Limi
+- **Eligibility & Requirements**: Family Library supports sharing apps, games, movies, TV shows, and e-books/audiobooks among up to 5 members in supported countries. The family manager (18+, valid payment method, not part of another group) must set up a family group, while members require a Google Account and must reside in the same country.
+
+- **Content Management**: Eligible purchases can be auto-added or manually toggled in Family Library via respective apps (Play Store, Play Movies & TV, Pla
 
 ## Use Cases
 

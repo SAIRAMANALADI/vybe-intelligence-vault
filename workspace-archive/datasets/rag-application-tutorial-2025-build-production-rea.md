@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), embedding optimization (e.g., fine-tuning models like `sentence-transformers`), and vector database integration (e.g., Supabase for scalable retrieval).
+- **RAG Pipeline Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, and chunking strategies to enhance retrieval quality and reduce latency; benchmarks show latency breakdowns and optimization results for production-grade performance.
 
-- **Production Optimization Techniques**: Advanced retrieval methods such as hybrid search (combining dense/sparse embeddings), query expansion/rewriting, and caching strategies to reduce latency; deployment via Cloudflare Workers
+- **Scalable Architecture**: Deploys with Cloudflare Workers for edge computing, employs load balancing across multiple models, and uses Supabase as a vector database; includes caching strategies and Sentry integration for observ
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled history tracked via GitHub; metadata exposed via a public JSON API (`/api/peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled text histories maintained in GitHub; includes a JSON-based [PEPS API](https://peps.python.org/api/peps.json) for metadata access.
 
-- **Categorization Framework**: PEPs are classified by status (e.g., Accepted, Rejected) and topic (e.g., Governance, Packaging, Typing), with specialized indices for Process/Meta-PEPs and Informational PEPs.
+- **Categorization & Status**: PEPs are organized by status (e.g., *Process*, *Provisional*, *Accepted*, *Finished*) and topic (e.g., *Governance*, *Packaging*, *Typing*), with reserved numbers and status/type keys defined in PEP 0.
 
-- **Structured Governance**: PEPs define Python’s governance (e.g., PEP 13), release cycles (e.g., PEP
+- **Specialized PEPs**: Includes fou
 
 ## Use Cases
 

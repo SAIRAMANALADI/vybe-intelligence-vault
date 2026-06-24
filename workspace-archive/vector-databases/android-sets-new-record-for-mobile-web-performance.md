@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Performance**: Android flagship devices achieved record-high scores in **Speedometer 3.1** (responsiveness) and **LoadLine** (page load speed), outperforming competitors by up to **47%** in LoadLine metrics, with Speedometer correlating strongly (-0.8) to real-world interaction latency (INP).
+- **Benchmark Performance**: Android flagship devices achieved record scores in Speedometer (responsiveness) and LoadLine (page load speed) benchmarks, outperforming competitors by up to 47% in LoadLine and demonstrating 20-60% year-over-year improvements in key metrics.
 
-- **Vertical Optimization**: Performance gains stemmed from cross-layer optimizations, including **SoC tuning**, **kernel scheduler policy adjustments**, and **Chrome/OS software refinements*
+- **Benchmark Methodology**: Speedometer 3.1 measures interaction latency using real-world web frameworks (React, Angular, jQuery), while LoadLine evaluates end-to-end page load performance using recorded versions of production
 
 ## Use Cases
 

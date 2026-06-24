@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/googleplay/answer/7007852
-published_at: '2026-06-23T09:59:24.119452+05:30'
-collected_at: '2026-06-23T09:59:24.119470+05:30'
+published_at: '2026-06-24T10:19:39.086334+05:30'
+collected_at: '2026-06-24T10:19:39.086346+05:30'
 tags:
 - hackernews
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:use-google-play-family-library-google-play-help
-first_seen: '2026-06-23T09:59:24.119470+05:30'
-last_seen: '2026-06-23T09:59:24.119470+05:30'
-last_checked: '2026-06-23T09:59:24.119470+05:30'
+first_seen: '2026-06-24T10:19:39.086346+05:30'
+last_seen: '2026-06-24T10:19:39.086346+05:30'
+last_checked: '2026-06-24T10:19:39.086346+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Family Library Setup**: Requires a family manager (≥18, valid payment method, not part of another group) to initiate via Google Play app → **Settings** → **Family** → **Sign up for Family Library**; all members must follow setup steps.
-- **Content Eligibility & Sharing**: Apps/games (post-July 2016, developer-enabled), movies/TV (family payment method required post-setup), and books (publisher-enabled) can be shared; rentals, in-app purchases, and free content are excluded.
-- **Access & Limitations**: Up to 6 devices per family can download books; movies/TV shows limited to 5 devices per user/12 per family, with 6 concurrent streams; removal by one member revokes access for all.
+- **Eligibility & Requirements**: Family Library supports sharing apps, games, movies, TV shows, and e-books/audiobooks among up to 5 members in supported countries. The family manager (18+, valid payment method, not part of another group) must set up a family group, while members require a Google Account and must reside in the same country.
+
+- **Content Management**: Eligible purchases can be auto-added or manually toggled in Family Library via respective apps (Play Store, Play Movies & TV, Play Books). Movies/TV shows require family payment method for post-setup purchases; books/apps/games allow any payment method if a valid family credit card is on file. Removal or leaving the group revokes access.
+
+- **Limitations & Restrictions**: Sharing is country-dependent; ineligible content includes in-app purchases, rentals, YouTube purchases, Newsstand items, and pre-July 2, 2016 apps/games (unless developer-enabled). Parental controls can restrict visibility, and each shared book can be downloaded on up to 6 devices simultaneously.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:59:24.119452+05:30
+- Published: 2026-06-24T10:19:39.086334+05:30
 
 ## Related Tags
 

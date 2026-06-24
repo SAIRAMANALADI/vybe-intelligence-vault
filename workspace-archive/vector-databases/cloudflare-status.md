@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Scheduled Maintenance in EWR (Newark)**: Planned maintenance between **2026-06-22 01:00 UTC** and **2026-06-23 09:00 UTC** may cause latency spikes and traffic failover for PNI/CNI customers due to temporary unavailability of network interfaces.
+- **Scheduled Maintenance in ARN (Stockholm)**: Cloudflare is performing scheduled maintenance in the ARN (Stockholm) datacenter on 2026-06-24 between 00:00 and 05:00 UTC, potentially causing increased latency and traffic failover for affected users.
 
-- **Workers AI Degraded Performance**: `@cf/moonshotai/kimi-k2.6` and `@cf/moonshotai/kimi-k2.7-code` models are experiencing degraded availability, with Cloudflare investigating the root cause.
+- **Workers AI Degraded Performance**: Cloudflare is investigating degraded availability in specific Workers AI models (`@cf/moonshotai/kimi-k2.6` and `@cf/moonshotai/kimi-k2.7-code`), with the issue currently under investigation.
 
-- **Incorrect Invoice Payment Status**: Customers may
+- **Regional Ope
 
 ## Use Cases
 

@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [github/github-mcp-server](https://github.com/github/github-mcp-server)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`github-github-mcp-server.md`](../../ai/resources/github-github-mcp-server.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2606-11456.md`](../../ai/agents/arxiv-2606-11456.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
-- **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex.md`](../../ai/rag/girijesh-ai-ai-interview-codex.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-23 15:36 IST*
+*Last updated: 2026-06-24 12:07 IST*

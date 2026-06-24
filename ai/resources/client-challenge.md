@@ -3,16 +3,16 @@ title: Client Challenge
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://support.mozilla.org
-published_at: '2026-06-23T10:03:07.899651+05:30'
-collected_at: '2026-06-23T10:03:07.899657+05:30'
+source_url: https://pypi.org/project/Flask
+published_at: '2026-06-24T10:24:15.328082+05:30'
+collected_at: '2026-06-24T10:24:15.328093+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:client-challenge
-first_seen: '2026-06-23T10:03:07.899657+05:30'
-last_seen: '2026-06-23T10:03:07.899657+05:30'
-last_checked: '2026-06-23T10:03:07.899657+05:30'
+first_seen: '2026-06-24T10:24:15.328093+05:30'
+last_seen: '2026-06-24T10:24:15.328093+05:30'
+last_checked: '2026-06-24T10:24:15.328093+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **JavaScript Disabled**: The browser has JavaScript disabled, which is required for site functionality.
-- **Potential Causes**: Issues may stem from browser extensions, network problems, or browser settings.
-- **Recommended Actions**: Enable JavaScript, check network connection, disable ad blockers, or switch browsers.
+- **JavaScript Dependency**: The webpage requires JavaScript to function; it fails to load due to JavaScript being disabled in the browser.
+- **Potential Causes**: Disabled JavaScript, browser extensions (e.g., ad blockers), network issues, or browser settings may prevent the page from loading.
+- **Recommended Actions**: Enable JavaScript, check network connectivity, disable browser extensions, or switch to a different browser to resolve the issue.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T10:03:07.899651+05:30
+- Published: 2026-06-24T10:24:15.328082+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://support.mozilla.org
+Original source: https://pypi.org/project/Flask

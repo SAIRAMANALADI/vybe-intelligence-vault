@@ -26,11 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Medium's sitemap.xml** provides structured XML-based navigation for search engine indexing, including links to `/blog`, `/search`, and `/new-story` endpoints for content discovery and user onboarding.
-
-- **Medium’s frontend** integrates dynamic UI components (e.g., avatars, logos) via CDN-hosted assets (`miro.medium.com`) and supports multi-platform access through app store links (`com.medium.reader`) and web-based sign-in/registration flows.
-
-- **Medium’s content ecosystem** includes editor
+- **Medium's sitemap.xml** provides structured indexing for SEO, listing all public-facing URLs (e.g., `/blog`, `/search`, `/about`) for crawlers.
+- **Medium's navigation** integrates authentication flows (`/signin`, `/register`) with OAuth2 redirects, supporting both web and mobile app (`com.medium.reader`) access.
+- **Medium's footer** includes links to platform policies (Privacy, Terms, Rules), support (`/help`), and monetization paths (Newsletter, Store).
 
 ## Use Cases
 

@@ -11,11 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
-- models
 - rag
 selection_reason:
 - Useful for project building
@@ -33,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: A beginner-friendly tutorial repository for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RAG (Retrieval-Augmented Generation) systems.
+- **Educational Framework**: A structured tutorial repository designed for novice developers to build large language model (LLM) applications, with a focus on practical implementation using Jupyter Notebooks.
 
-- **Technical Scope**: Focuses on practical implementation of LLM integration, including model deployment, fine-tuning, and evaluation, with hands-on examples for real-world applications.
+- **Technical Stack**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** for enhancing model responses with external knowledge retrieval.
 
-- **Community & Maintenance**: Actively maintained (last updated June
+- **Resource Accessibility**: Provides an online reading interface (hosted via GitHub Pages) and is actively
 
 ## Use Cases
 

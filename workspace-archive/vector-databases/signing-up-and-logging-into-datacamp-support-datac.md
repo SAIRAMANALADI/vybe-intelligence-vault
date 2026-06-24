@@ -6,11 +6,12 @@ source_url: https://support.datacamp.com/hc/en-us/articles/360010018054
 resource_id: blog:signing-up-and-logging-into-datacamp-support-datac
 local_vault_path: ai/rag/signing-up-and-logging-into-datacamp-support-datac.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- agents
 - rag
 - web-crawled
 selection_reason:
@@ -22,16 +23,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Account Creation**: Supports email/password registration or OAuth via Google, LinkedIn, or Facebook; email uniqueness enforced to prevent duplicate accounts.
-- **Authentication**: Login via email/password or third-party OAuth; DataCamp does not store social provider credentials.
-- **Session Management**: Post-authentication, users can subscribe to access DataCamp’s content via supported subscription plans.
+- **Account Creation**: Users can register via email/password or OAuth (Google, LinkedIn, Facebook); email uniqueness enforced, OAuth avoids password storage by DataCamp.
+- **Authentication**: Login via email/password or OAuth; password reset supported via [DataCamp’s official guide](https://support.datacamp.com/hc/en-us/articles/360002261654).
+- **Post-Registration**: Access to subscription-based content after account creation; subscription plans detailed [here](https://support.datacamp.com/hc/
 
 ## Use Cases
 

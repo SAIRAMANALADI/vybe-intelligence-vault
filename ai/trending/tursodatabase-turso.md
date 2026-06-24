@@ -9,13 +9,14 @@ collected_at: '2026-06-23T15:33:31.564832+05:30'
 tags:
 - github-trending
 - rust
-status: active
+status: inactive
 resource_id: github:tursodatabase/turso
 first_seen: '2026-06-21T20:19:14.645132+05:30'
 last_seen: '2026-06-23T15:33:31.564832+05:30'
 last_checked: '2026-06-23T15:33:31.564832+05:30'
 health_score: 100
 ---
+
 
 # tursodatabase/turso
 

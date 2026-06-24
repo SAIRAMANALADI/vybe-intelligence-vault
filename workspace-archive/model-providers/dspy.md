@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module & LM/BaseLM Improvements**: DSPy 3.3.0b1 introduces an updated `ReActV2` module for enhanced reasoning and tool integration, alongside optimizations to the base `LM` and `BaseLM` classes for improved performance and modularity.
-
-- **Structured Task Definition via Signatures**: Tasks are defined using typed `Signature` classes (inputs/outputs) instead of manual prompts, enabling portable, maintainable, and optimizable programs with support for multimodal fields (e.g., images) a
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM tasks.
+- **Improved LM/BaseLM**: Enhanced base language model handling with better prompt optimization and modular execution control for higher task accuracy.
+- **Structured Task Definition**: Uses typed `Signature` classes (inputs/outputs) and composable `Module` primitives (e.g., `ChainOfThought`, `ReAct`) to replace ad-hoc prompting with maint
 
 ## Use Cases
 

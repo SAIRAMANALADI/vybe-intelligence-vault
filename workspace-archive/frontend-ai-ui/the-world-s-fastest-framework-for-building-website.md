@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 88,693 GitHub stars (as of June 22, 2026) with an active community and frequent releases.
+- **License & Popularity**: Distributed under Apache 2.0 License; has 88,704 GitHub stars as of June 23, 2026.
 
-- **Performance & Flexibility**: Written in Go, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
+- **Performance & Flexibility**: Written in Go, optimized for speed; renders large sites in seconds with advanced templating, multilingual support, and powerful taxonomy system.
 
-- **Development & Features**: Includes an embedded web server for real-time previews; supports documentation, corporate, news, and project s
+- **Asset Pipeline & Development**: Supports image processing, JavaScript bundling, Sass processing, and TailwindCSS; includes an embedded web server for real-time development feedback.
 
 ## Use Cases
 

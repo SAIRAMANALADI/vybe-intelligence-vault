@@ -2,13 +2,13 @@
 title: Read the Docs tutorial — Read the Docs user documentation
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://docs.readthedocs.io/page/tutorial
+source_url: https://docs.readthedocs.io/page/tutorial/index.html
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
 local_vault_path: ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Read the Docs tutorial — Read the Docs user documentation
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: template
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GitHub Integration**: Read the Docs imports Sphinx-based documentation projects from GitHub repositories via `.readthedocs.yaml` configuration, requiring public visibility for seamless webhook-based builds and synchronization.
+- **GitHub Repository Setup**: Create a public GitHub repo using the [Read the Docs tutorial template](https://github.com/readthedocs/tutorial-template/), including `.readthedocs.yaml`, `pyproject.toml`, and Sphinx docs in `docs/source/` for automatic documentation generation.
 
-- **Automated Build Pipeline**: Projects trigger automated builds on branch commits, with real-time logging accessible via the dashboard; successful builds generate live HTML documentation at a unique subdomain (e.g., `{username}-rtd-tutorial.readthedocs.io`).
+- **Read the Docs Integration**: Authorize Read the Docs via GitHub OAuth, then import the repo as a project using the dashboard, configuring the default branch (`main`) and unique subdomain during setup.
 
-- **Co
+- **Automated B
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.readthedocs.io/page/tutorial
+Original source URL: https://docs.readthedocs.io/page/tutorial/index.html
 
 ## Local Vault File
 

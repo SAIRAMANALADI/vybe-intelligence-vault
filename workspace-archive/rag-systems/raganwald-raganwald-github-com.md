@@ -8,13 +8,12 @@ local_vault_path: ai/rag/raganwald-raganwald-github-com.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - html
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll (v3.x+) to compile HTML from Markdown and Liquid templates for a static blog hosted on GitHub Pages.
-- **GitHub Pages Integration**: Configured for automatic deployment via GitHub Actions, leveraging the `gh-pages` branch for hosting.
-- **Minimalist Structure**: Lightweight repository with no external dependencies, relying solely on Jekyll’s default plugins and GitHub’s native tooling.
+- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **Minimalist structure**: Primarily consists of HTML files with no additional languages/frameworks, indicating a lightweight, content-focused deployment.
+- **Outdated metadata**: Last commit timestamp (`2026-06-20`) suggests potential future-dated or incorrect version control history.
 
 ## Use Cases
 

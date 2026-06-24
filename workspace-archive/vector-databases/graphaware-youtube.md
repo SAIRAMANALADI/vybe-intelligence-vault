@@ -8,7 +8,7 @@ local_vault_path: ai/rag/graphaware-youtube.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # GraphAware - YouTube
@@ -25,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools for creators and advertisers.
-
-- **Technical Infrastructure**: Utilizes Google's distributed infrastructure for scalable video delivery, with APIs (YouTube Data/Player APIs) enabling third-party integrations and developer access for custom implementations.
-
-- **Policy & Compliance**: Enforces strict [Terms of Servic
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools.
+- **Developer & API Access**: Provides a public API (via [developers.google.com/youtube](https://developers.google.com/youtube)) for integration, data retrieval, and custom YouTube tool development.
+- **Operational Framework**: Detailed technical documentation on infrastructure, algorithms, and monetization policie
 
 ## Use Cases
 

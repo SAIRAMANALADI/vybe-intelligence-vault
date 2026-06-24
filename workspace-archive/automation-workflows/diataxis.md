@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Four Documentation Types**: Diátaxis categorizes documentation into four distinct forms—*tutorials* (learning-oriented), *how-to guides* (problem-solving), *technical reference* (information-dense), and *explanation* (conceptual)—each addressing specific user needs and structured for clarity.
+- **Four-Documentation Framework**: Diátaxis categorizes technical documentation into four distinct types—*tutorials* (learning-oriented), *how-to guides* (problem-solving), *technical reference* (information-oriented), and *explanation* (understanding-oriented)—each addressing specific user needs and structured for clarity.
 
-- **Systematic Architecture**: Documentation should be organized around user needs, with each type mapped to a quadrant in a structured framework (e.g., tutorials for step-by-step learning, reference f
+- **Systematic Architecture**: Documentation is organized around user needs, with each type serving a unique purpose in the user journey, ensuring content is discoverable,
 
 ## Use Cases
 

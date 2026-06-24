@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cloudflare-developer-docs-cloudflare-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -18,6 +18,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -30,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI with single-command execution (`npm create cloudflare@latest my-app`, `npx wrangler ai models`), eliminating server management, cold starts, and GPU overhead.
+- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via Workers, Containers, Durable Objects, and Workers AI, supporting one-command deployment (`npm create cloudflare@latest my-app`) and AI model execution (`npx wrangler ai models`) without GPU management.
 
-- **Distributed Data & Media Pipelines**: Supports serverless SQL (D1), globally distributed KV/R2 storage, and media optimization (Images/Strea
+- **Unified Global Data & Media Services**: Provides serverless SQL (D1), globally distributed key-value (KV), object storage (R2), and media pipelines
 
 ## Use Cases
 

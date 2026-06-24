@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cloudflare-research.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Cloudflare Research
@@ -27,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Unweight**: Lossless compression system for LLM weight tensors achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Lossless MLP weight compression system achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** for LLM inference on NVIDIA Hopper GPUs (H100, H200).
 
-- **RFC 9935**: Standardizes algorithm identifiers for ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism) in X.509 PKI, enabling post-quantum cryptographic interoperability.
+- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** in X.509 PKI, defining algorithm identifiers for post-quantum cryptographic key exchange.
 
-- **Research Focus Areas**: Cloudflare targets privacy-enhancing tech, cryptographic/security advancements, next-gen network
+- **Research Focus Areas**: Cloudflare targets **privacy-enhancing tech, cryptographic/security advancements, next-gen pro
 
 ## Use Cases
 

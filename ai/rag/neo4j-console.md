@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://console.neo4j.org/?id=vrs4
-published_at: '2026-06-23T09:57:46.636727+05:30'
-collected_at: '2026-06-23T09:57:46.636737+05:30'
+published_at: '2026-06-24T10:09:58.013166+05:30'
+collected_at: '2026-06-24T10:09:58.013179+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:neo4j-console
-first_seen: '2026-06-23T09:57:46.636737+05:30'
-last_seen: '2026-06-23T09:57:46.636737+05:30'
-last_checked: '2026-06-23T09:57:46.636737+05:30'
+first_seen: '2026-06-24T10:09:58.013179+05:30'
+last_seen: '2026-06-24T10:09:58.013179+05:30'
+last_checked: '2026-06-24T10:09:58.013179+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive Graph Console**: Provides a web-based interface for creating, querying, and visualizing graphs using Cypher, with support for multiple query compilers (3.0-cost, 3.0-rule, 2.3-cost, 2.3-rule).
+- **Interactive Graph Management**: The Neo4j Console allows real-time graph modification via Cypher queries (e.g., `CREATE (neo:Person { name: "Neo" })` for nodes, `CREATE (neo)-[:KNOWS {since:"2 days"}]->(morpheus)` for relationships) with integrated visualization.
 
-- **Graph Manipulation via Cypher**: Enables node/relationship creation (`CREATE (neo:Person { name : "Neo" })`) and complex queries (e.g., `MATCH (user:Person {name:"Neo"})-[:KNOWS]->(friend) RETURN ...`).
+- **Querying Capabilities**: Supports advanced graph traversal and updates using Cypher (e.g., `MATCH (user:Person {name:"Neo"})-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user,friend ORDER BY friend.age LIMIT 10`).
 
-- **Hosted on Heroku**: Console is deployed on Heroku with open-source code available on GitHub; supports sharing via URLs and embedding in websites.
+- **Deployment & Access**: Hosted on Heroku with source code on GitHub; allows sharing via generated URLs or embedding in websites using provided HTML snippets.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:57:46.636727+05:30
+- Published: 2026-06-24T10:09:58.013166+05:30
 
 ## Related Tags
 

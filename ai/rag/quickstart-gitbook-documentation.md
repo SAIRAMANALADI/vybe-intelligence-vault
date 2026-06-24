@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gitbook.com/docs/getting-started/quickstart
-published_at: '2026-06-23T01:24:19.576245+05:30'
-collected_at: '2026-06-23T01:24:19.576257+05:30'
+published_at: '2026-06-24T10:29:26.670961+05:30'
+collected_at: '2026-06-24T10:29:26.670974+05:30'
 tags:
+- agents
 - hackernews
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:quickstart-gitbook-documentation
-first_seen: '2026-06-23T01:24:19.576257+05:30'
-last_seen: '2026-06-23T01:24:19.576257+05:30'
-last_checked: '2026-06-23T01:24:19.576257+05:30'
+first_seen: '2026-06-24T10:29:26.670974+05:30'
+last_seen: '2026-06-24T10:29:26.670974+05:30'
+last_checked: '2026-06-24T10:29:26.670974+05:30'
 health_score: 100
 ---
 
@@ -23,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- GitBook supports **two primary editing workflows**: a **visual WYSIWYG editor** (for non-technical users) and a **docs-as-code workflow** (via GitHub/GitLab sync with Markdown support).
-- **Change requests** in GitBook allow real-time preview and versioned updates, with changes merged to the primary content upon approval, triggering immediate site updates.
-- **Customization options** include site navigation restructuring, visual themes (logo, colors, fonts), custom domains/subdirectories, and integrations (e.g., API references, auto-translations, analytics).
+- **Dual-Editing Workflows**: GitBook supports both a WYSIWYG visual editor (ideal for non-technical users) and a docs-as-code workflow via GitHub/GitLab sync (for developers), with changes managed through branch-based editing and pull requests.
+
+- **Real-Time Preview & Versioning**: Edits are previewed in live desktop/mobile views before merging, and GitBook tracks all changes via version history, including GitHub/GitLab pull request integrations for traceability.
+
+- **Customization & Deployment**: Docs sites can be customized with logos, themes, and navigation structures, published instantly via a unique URL, and optionally configured with custom domains or subdirectories.
 
 ## Why It Matters
 
@@ -35,10 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:24:19.576245+05:30
+- Published: 2026-06-24T10:29:26.670961+05:30
 
 ## Related Tags
 
+- agents
 - hackernews
 - rag
 - web-crawled

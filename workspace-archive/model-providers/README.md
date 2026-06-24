@@ -14,8 +14,8 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (tutorial - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-23 15:35 IST*
+*Last updated: 2026-06-24 12:07 IST*
