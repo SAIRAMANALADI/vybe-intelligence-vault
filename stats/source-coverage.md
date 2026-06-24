@@ -1247,5 +1247,5 @@ Distribution of original signal ingestion sources across processed URLs:
 | botpenguin.com | 1 |
 | startdesigns.com | 1 |
 | signitysolutions.com | 1 |
-| status.medium.com | 1 |
 | blog.medium.com | 1 |
+| status.medium.com | 1 |

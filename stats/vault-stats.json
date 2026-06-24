@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-24T12:07:41.132039+05:30",
-  "last_updated": "2026-06-24 12:07 IST",
+  "generated_at": "2026-06-24T12:22:05.562233+05:30",
+  "last_updated": "2026-06-24 12:22 IST",
   "total_resources": 6888,
   "active_resources": 6717,
   "inactive_resources": 171,
-  "total_markdown_files": 35248,
+  "total_markdown_files": 35316,
   "archive_files": 27619,
   "archive_categories": 35,
   "workspace_archive_categories": 35,
@@ -17,11 +17,11 @@
   "examples_count": 8,
   "search_index_entries": 6717,
   "latest_resource_date": "2026-06-24T10:35:08.997914+05:30",
-  "latest_update_time": "2026-06-24T12:07:41.132090+05:30",
+  "latest_update_time": "2026-06-24T12:22:05.562297+05:30",
   "top_categories": [
     {
       "name": "ai/rag",
-      "count": 1999
+      "count": 2001
     },
     {
       "name": "ai/research",
@@ -29,7 +29,7 @@
     },
     {
       "name": "ai/agents",
-      "count": 905
+      "count": 904
     },
     {
       "name": "ai/models",
@@ -45,7 +45,7 @@
     },
     {
       "name": "web-development",
-      "count": 28
+      "count": 27
     },
     {
       "name": "web-development/shadcn-ui",
@@ -62,7 +62,7 @@
   ],
   "category_breakdown": {
     "": 1,
-    "ai/agents": 905,
+    "ai/agents": 904,
     "ai/community": 3,
     "ai/companies": 10,
     "ai/companies/anthropic": 9,
@@ -70,12 +70,12 @@
     "ai/companies/mistral": 10,
     "ai/companies/openai": 4,
     "ai/models": 776,
-    "ai/rag": 1999,
+    "ai/rag": 2001,
     "ai/releases": 3,
     "ai/research": 1975,
     "ai/resources": 773,
     "ai/trending": 7,
-    "web-development": 28,
+    "web-development": 27,
     "web-development/framer-motion": 25,
     "web-development/gsap": 6,
     "web-development/nextjs": 75,
@@ -1330,8 +1330,8 @@
     "startdesigns.com": 1,
     "signitysolutions.com": 1,
     "policy.medium.com": 2,
-    "status.medium.com": 1,
-    "blog.medium.com": 1
+    "blog.medium.com": 1,
+    "status.medium.com": 1
   },
   "trends": {
     "trending_resources": [
@@ -20685,7 +20685,7 @@
       {
         "id": "blog:react-canaries-enabling-incremental-feature-rollou",
         "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-        "category": "web-development",
+        "category": "ai/rag",
         "source_type": "rss",
         "url": "https://react.dev/blog/2023/05/03/react-canaries",
         "file_path": "ai/rag/react-canaries-enabling-incremental-feature-rollou.md",
@@ -34010,7 +34010,7 @@
       {
         "id": "github:crewaiinc/crewai",
         "title": "crewAIInc/crewAI Release: 1.14.8a3",
-        "category": "ai/agents",
+        "category": "ai/rag",
         "source_type": "github_releases",
         "url": "https://github.com/crewaiinc/crewai",
         "file_path": "ai/rag/crewaiinc-crewai.md",
@@ -35106,19 +35106,6 @@
         "source_type": "company_blog",
         "url": "https://mistral.ai/news/physics-ai-research",
         "file_path": "ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -620,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:introducing-search-toolkit",
-        "title": "Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral",
-        "category": "ai/companies/mistral",
-        "source_type": "company_blog",
-        "url": "https://mistral.ai/news/search-toolkit",
-        "file_path": "ai/companies/mistral/introducing-search-toolkit.md",
         "score": 0,
         "score_change": 0,
         "rank_change": -620,
@@ -80847,32 +80834,6 @@
         "tier": "tier-3"
       },
       {
-        "id": "blog:medium-status",
-        "title": "Medium Status",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://status.medium.com",
-        "file_path": "ai/rag/medium-status.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -619,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-terms-of-service-by-medium-medium-policy",
-        "title": "Medium Terms of Service | by Medium | Medium Policy",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
-        "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -618,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
         "id": "blog:the-medium-blog",
         "title": "The Medium Blog",
         "category": "ai/rag",
@@ -80881,7 +80842,20 @@
         "file_path": "ai/rag/the-medium-blog.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -622,
+        "rank_change": -620,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-status",
+        "title": "Medium Status",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://status.medium.com",
+        "file_path": "ai/rag/medium-status.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -620,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -80894,7 +80868,20 @@
         "file_path": "ai/rag/medium-help-center.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -622,
+        "rank_change": -621,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-terms-of-service-by-medium-medium-policy",
+        "title": "Medium Terms of Service | by Medium | Medium Policy",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+        "file_path": "ai/rag/medium-terms-of-service-by-medium-medium-policy.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -621,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -80918,19 +80905,6 @@
         "source_type": "web",
         "url": "https://speechify.com/medium",
         "file_path": "ai/rag/medium-members-can-listen-to-any-medium-story-with.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -621,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:category",
-        "title": "[CATEGORY] - ",
-        "category": "",
-        "source_type": "",
-        "url": "",
-        "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
         "score": 0,
         "score_change": 0,
         "rank_change": -621,
