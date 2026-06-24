@@ -2,6 +2,15 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-06-24T15:58:24.648192+05:30
+- **[New Discovery]** `Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral` registered with score `0` in `ai/companies/mistral`
+- **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
+- **[Rank Rise]** `The Medium Blog`: Rank rose by +2
+- **[Rank Rise]** `Medium`: Rank rose by +1
+- **[Rank Rise]** `Medium Help Center`: Rank rose by +1
+- **[Rank Drop]** `Medium Status`: Rank dropped by -1
+- **[Rank Drop]** `Medium Terms of Service | by Medium | Medium Policy`: Rank dropped by -3
+
 ### Run: 2026-06-24T12:22:05.562233+05:30
 - **[New Discovery]** `The Low-Tech AI of Elden Ring` registered with score `126` in `ai/community`
 - **[New Discovery]** `Show HN: RLM-based local debugger for AI agent traces` registered with score `16` in `ai/community`
