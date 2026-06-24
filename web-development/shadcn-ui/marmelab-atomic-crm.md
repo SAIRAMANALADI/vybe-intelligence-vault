@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/marmelab/atomic-crm
-collected_at: '2026-06-24T10:06:13.846811+05:30'
-published_at: '2026-06-23T17:20:56Z'
+collected_at: '2026-06-24T20:38:09.326461+05:30'
+published_at: '2026-06-24T12:53:40Z'
 tags:
 - frontend_ui
-stars: 1111
+stars: 1112
 language: TypeScript
 status: active
 resource_id: github:marmelab/atomic-crm
 first_seen: '2026-06-16T04:26:21.211397+00:00'
-last_seen: '2026-06-24T10:06:13.846811+05:30'
-last_checked: '2026-06-24T10:06:13.846811+05:30'
+last_seen: '2026-06-24T20:38:09.326461+05:30'
+last_checked: '2026-06-24T20:38:09.326461+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: marmelab
-- Stars: 1111
-- Forks: 713
+- Stars: 1112
+- Forks: 714
 - Language: TypeScript
 - Topics: crm, react, react-admin, react-hook-form, react-query, react-router, shadcn-ui, supabase
-- Last Updated: 2026-06-23T17:20:56Z
+- Last Updated: 2026-06-24T12:53:40Z
 
 ## Possible Use Cases
 

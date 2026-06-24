@@ -10,13 +10,14 @@ tags:
 - anthropic
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:anthropics/claude-plugins-official
 first_seen: '2026-06-24T10:06:14.483236+05:30'
 last_seen: '2026-06-24T10:06:14.483236+05:30'
 last_checked: '2026-06-24T10:06:14.483236+05:30'
 health_score: 100
 ---
+
 
 # anthropics/claude-plugins-official
 

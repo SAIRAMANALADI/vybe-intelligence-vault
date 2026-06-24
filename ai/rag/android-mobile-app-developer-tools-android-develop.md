@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://developer.android.com/index.html
-published_at: '2026-06-24T10:16:22.338518+05:30'
-collected_at: '2026-06-24T10:16:22.338533+05:30'
+published_at: '2026-06-24T20:41:04.660859+05:30'
+collected_at: '2026-06-24T20:41:04.660873+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-mobile-app-developer-tools-android-develop
-first_seen: '2026-06-24T10:16:22.338533+05:30'
-last_seen: '2026-06-24T10:16:22.338533+05:30'
-last_checked: '2026-06-24T10:16:22.338533+05:30'
+first_seen: '2026-06-24T20:41:04.660873+05:30'
+last_seen: '2026-06-24T20:41:04.660873+05:30'
+last_checked: '2026-06-24T20:41:04.660873+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Android 17 (API 37) released**: Source code available on AOSP; rolling out to supported Pixel devices; requires app updates for compatibility.
-- **Android XR platform updates**: Expanded engine support and new resources for building, testing, and scaling XR experiences across devices.
-- **Android SDK License Agreement (v2026.1.1)**: Grants limited, royalty-free license for app development; prohibits reverse engineering, unauthorized use, or distribution of SDK components.
+- **Android 17**: Source code released on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app readiness.
+- **Android XR & AI Integration**: Expanded engine support and tools for XR development; Android evolving into an intelligence system for building intelligent experiences.
+- **SDK License Agreement**: Grants limited, royalty-free license for Android app development; prohibits reverse engineering, derivative works, or unauthorized use; Google retains all IP rights.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:16:22.338518+05:30
+- Published: 2026-06-24T20:41:04.660859+05:30
 
 ## Related Tags
 

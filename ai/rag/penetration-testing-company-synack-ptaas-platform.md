@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.synack.com
-published_at: '2026-06-22T11:37:51.528393+05:30'
-collected_at: '2026-06-22T11:37:51.528407+05:30'
+published_at: '2026-06-24T21:16:37.891869+05:30'
+collected_at: '2026-06-24T21:16:37.891883+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:penetration-testing-company-synack-ptaas-platform
-first_seen: '2026-06-22T11:37:51.528407+05:30'
-last_seen: '2026-06-22T11:37:51.528407+05:30'
-last_checked: '2026-06-22T11:37:51.528407+05:30'
+first_seen: '2026-06-24T21:16:37.891883+05:30'
+last_seen: '2026-06-24T21:16:37.891883+05:30'
+last_checked: '2026-06-24T21:16:37.891883+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid AI-Human Pentesting**: Synack combines **Sara AI Pentesting** (autonomous vulnerability detection/prioritization) with **Synack Red Team (SRT)** (1,500+ vetted security researchers) for continuous, validated security testing at scale.
+- **Synack Platform**: Combines AI-driven tools (e.g., Sara AI Pentesting) with human expertise (Synack Red Team, 1,500+ researchers) for continuous, scalable penetration testing across web apps, hosts, cloud, and APIs.
 
-- **Platform Capabilities**: Offers **on-demand researcher access**, **vulnerability management**, **AI-driven attack surface validation**, and **third-party integrations** (e.g., API/cloud/application testing, compliance checks).
+- **Performance Metrics**: Reports 32% lower pentesting costs, 22 days saved per test, 35 hours saved for security teams, and 47% faster vulnerability remediation.
 
-- **Performance Metrics**: Reports **32% lower pentesting costs**, **22 days saved per test**, **35 hours saved for security teams**, and **47% faster vulnerability remediation** via AI-human synergy.
+- **Attack Surface Management**: Provides real-time validation of vulnerabilities (e.g., broken access controls) across AWS/Azure/GCP with automated and human-verified testing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:37:51.528393+05:30
+- Published: 2026-06-24T21:16:37.891869+05:30
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: Medium Privacy Policy | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+source_url: https://medium.com/policy/f03bf92035c9
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
 local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
 quality_score: 70
@@ -10,6 +10,12 @@ archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
+tags:
+- agents
+- hackernews
+- rag
+- web-crawled
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -28,9 +34,8 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, posts, interactions) and automatically gathers device/usage metrics (IP, OS, browser, activity logs) via cookies, web beacons, and third-party analytics tools. Payment data is processed by third-party processors (not stored by Medium).
-
-- **Data Sharing & Processing**: Personal data is shared with service providers (e.g., hosting, analytics, fraud prevention) and may be disclosed for legal compliance, mergers, or
+- **Data Collection Scope**: Collects user-provided data (e.g., posts, profile info) and automatically gathered data (e.g., IP, device IDs, reading history) via cookies, web beacons, and third-party analytics providers for service personalization and security.
+- **Information Sharing & Third-Party Embeds**: Shares user data with vendors, service providers, and affiliates for infrastructure/analytics; embeds (e.g., YouTube videos) transmit interaction data to third parties, governed by their poli
 
 ## Use Cases
 
@@ -40,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=
+Original source URL: https://medium.com/policy/f03bf92035c9
 
 ## Local Vault File
 

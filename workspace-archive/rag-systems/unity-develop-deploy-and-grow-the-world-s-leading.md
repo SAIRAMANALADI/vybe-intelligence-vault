@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Unity AI Beta Integration**: Unity AI Beta introduces an in-engine agent optimized for Unity workflows, with AI Gateway and MCP Server enabling secure integration of third-party AI tools for game development.
-- **Multiplatform Deployment**: Unity supports cross-platform development across 25+ platforms (desktop, mobile, consoles, XR) with built-in analytics for player behavior optimization.
-- **AI-Driven Monetization & Growth**: Unity’s AI-powered tools enable predictive player acquisition,
+- **Unity AI Beta Integration**: Introduces an AI agent optimized for Unity workflows, with AI Gateway and MCP Server support for secure third-party tool integration in Unity 6.
+- **Cross-Platform Deployment**: Supports native deployment across 25+ platforms (desktop, mobile, console, XR) with built-in analytics for player behavior optimization.
+- **Monetization & Growth Tools**: Provides flexible commerce tools (ads, in-app purchases) and user acquisition analytics to maximize lifetime value an
 
 ## Use Cases
 

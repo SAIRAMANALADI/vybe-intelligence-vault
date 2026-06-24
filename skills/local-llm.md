@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 127 resources matched in the intelligence vault.
+Active signals: 128 resources matched in the intelligence vault.
 Recently detected signals:
-- [google/gemma-3-270m • LM Studio](../ai/rag/google-gemma-3-270m-lm-studio.md) (Source: Unknown Source) - Collected 2026-06-24
-- [gemma3](../ai/resources/gemma3.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md) (Source: Unknown Source) - Collected 2026-06-24
-- [AI-powered tools for custom apps with Claris FileMaker | claris.com](../ai/rag/ai-powered-tools-for-custom-apps-with-claris-filem.md) (Source: Unknown Source) - Collected 2026-06-24
-- [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Gemma 4 with quantization-aware training](../ai/rag/gemma-4-with-quantization-aware-training.md) (Source: Unknown Source) - Collected 2026-06-24
+- [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-24
+- [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](../ai/research/arxiv-2606-21428.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](../ai/research/arxiv-2602-23334.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:46.135729+05:30.114090+05:30.096090+05:30.608603+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.889174+05:30.135729+05:30.114090+05:30.096090+05:30.608603+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

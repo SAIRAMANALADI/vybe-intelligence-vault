@@ -4,19 +4,19 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/iamshaunjp/framer-motion
-collected_at: '2026-06-24T10:06:13.060717+05:30'
-published_at: '2026-06-24T02:03:23Z'
+collected_at: '2026-06-24T20:38:08.725251+05:30'
+published_at: '2026-06-24T09:58:49Z'
 tags:
 - animation
 - frontend_ui
 - youtube
-stars: 399
+stars: 400
 language: Unknown
 status: active
 resource_id: github:iamshaunjp/framer-motion
 first_seen: '2026-06-12T10:40:18.782776+00:00'
-last_seen: '2026-06-24T10:06:13.060717+05:30'
-last_checked: '2026-06-24T10:06:13.060717+05:30'
+last_seen: '2026-06-24T20:38:08.725251+05:30'
+last_checked: '2026-06-24T20:38:08.725251+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: iamshaunjp
-- Stars: 399
+- Stars: 400
 - Forks: 321
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-24T02:03:23Z
+- Last Updated: 2026-06-24T09:58:49Z
 
 ## Possible Use Cases
 

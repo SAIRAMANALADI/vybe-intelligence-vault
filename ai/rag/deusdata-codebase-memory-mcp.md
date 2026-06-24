@@ -10,13 +10,14 @@ tags:
 - c
 - github-trending
 - rag
-status: active
+status: inactive
 resource_id: github:deusdata/codebase-memory-mcp
 first_seen: '2026-06-17T16:47:27.408481+05:30'
 last_seen: '2026-06-24T10:06:14.484214+05:30'
 last_checked: '2026-06-24T10:06:14.484214+05:30'
 health_score: 100
 ---
+
 
 # DeusData/codebase-memory-mcp
 

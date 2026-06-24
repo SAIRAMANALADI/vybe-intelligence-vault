@@ -4,17 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.microsoft.com
-published_at: '2026-06-24T10:32:28.170974+05:30'
-collected_at: '2026-06-24T10:32:28.170986+05:30'
+published_at: '2026-06-24T20:40:53.320212+05:30'
+collected_at: '2026-06-24T20:40:53.320224+05:30'
 tags:
 - rag
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:microsoft-learn-build-with-answers-in-reach
-first_seen: '2026-06-24T10:32:28.170986+05:30'
-last_seen: '2026-06-24T10:32:28.170986+05:30'
-last_checked: '2026-06-24T10:32:28.170986+05:30'
+first_seen: '2026-06-24T20:40:53.320224+05:30'
+last_seen: '2026-06-24T20:40:53.320224+05:30'
+last_checked: '2026-06-24T20:40:53.320224+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **AI Fundamentals**: Microsoft provides core resources for understanding AI concepts, frameworks, and applications, including Azure AI services and tools for machine learning, computer vision, and natural language processing.
-
-- **Azure Integration**: Azure offers scalable cloud infrastructure and AI services (e.g., Azure Machine Learning, Cognitive Services) for deploying, managing, and scaling AI workloads with enterprise-grade security and compliance.
-
-- **Microsoft Copilot**: Copilot leverages large language models (LLMs) and Azure AI to enhance productivity via AI-driven assistance in coding, data analysis, and enterprise workflows.
+- **Azure AI Services**: Provides pre-built APIs for vision, speech, language, and decision-making tasks, enabling rapid AI integration with minimal custom code.
+- **Microsoft Copilot**: AI-powered assistant leveraging large language models (LLMs) for code generation, debugging, and contextual task automation within Azure and Microsoft 365 ecosystems.
+- **Azure Machine Learning (Azure ML)**: End-to-end platform for training, deploying, and managing ML models at scale, supporting both traditional ML and deep learning workflows.
 
 ## Why It Matters
 
@@ -36,11 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:32:28.170974+05:30
+- Published: 2026-06-24T20:40:53.320212+05:30
 
 ## Related Tags
 
 - rag
+- scripts
 - web-crawled
 - workflows
 

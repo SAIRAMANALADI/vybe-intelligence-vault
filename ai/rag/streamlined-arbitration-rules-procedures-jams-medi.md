@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.jamsadr.com/rules-streamlined-arbitration
-published_at: '2026-06-23T01:07:11.090828+05:30'
-collected_at: '2026-06-23T01:07:11.090838+05:30'
+published_at: '2026-06-24T21:07:31.989190+05:30'
+collected_at: '2026-06-24T21:07:31.989203+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:streamlined-arbitration-rules-procedures-jams-medi
-first_seen: '2026-06-23T01:07:11.090838+05:30'
-last_seen: '2026-06-23T01:07:11.090838+05:30'
-last_checked: '2026-06-23T01:07:11.090838+05:30'
+first_seen: '2026-06-24T21:07:31.989203+05:30'
+last_seen: '2026-06-24T21:07:31.989203+05:30'
+last_checked: '2026-06-24T21:07:31.989203+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Applicability**: JAMS Streamlined Arbitration Rules apply to disputes ≤$250K (excl. interest/fees) or where parties agree to JAMS administration; JAMS NAC/General Counsel oversees rule enforcement and case administration.
+- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC or General Counsel oversees administration, with authority to assign cases to Resolution Centers.
 
-- **Commencement & Service**: Arbitration commences upon JAMS issuing a Commencement Letter after meeting criteria (e.g., executed agreement, court order); service/e-filing governed by strict timelines, holiday extensions, and JAMS Electronic Filing System requirements.
+- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter (triggered by executed agreement, pre-dispute clause, court order, or respondent’s failure to object); service/e-filing governed by strict timelines and electronic system requirements (Rule 5(f)).
 
-- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations (same/related parties) or suspend proceedings for unpaid fees; administrative conferences and location determinations prioritize convenience and resource equity.
+- **Consolidation & Administrative Powers**: JAMS may consolidate arbitrations if overlapping parties/cases exist (Rule 6(e)), suspend proceedings for unpaid fees (Rule 6(c)), or convene administrative conferences to resolve procedural disputes (Rule 6(a)).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:07:11.090828+05:30
+- Published: 2026-06-24T21:07:31.989190+05:30
 
 ## Related Tags
 

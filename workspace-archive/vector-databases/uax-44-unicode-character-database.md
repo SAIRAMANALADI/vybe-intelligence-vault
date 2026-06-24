@@ -2,7 +2,7 @@
 title: 'UAX #44: Unicode Character Database'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://unicode.org/reports/tr44/#XID_Start
+source_url: https://unicode.org/reports/tr44
 resource_id: blog:uax-44-unicode-character-database
 local_vault_path: ai/rag/uax-44-unicode-character-database.md
 quality_score: 70
@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **UCD Core Documentation**: Defines the Unicode Character Database (UCD) structure, organization, and formal character property definitions for Unicode 17.0.0, serving as a normative reference for Unicode conformance.
+- **UCD Core Documentation**: UAX #44 defines the Unicode Character Database (UCD) structure, organization, and formal character property definitions as part of Unicode 17.0.0, ensuring normative compliance for implementations.
 
-- **Property Classification**: Distinguishes between *simple* (non-derived) and *derived* properties (e.g., `Uppercase`, `XID_Start`), with derived properties defined via set operations on other properties or contributory properties for stability.
-
-- **External Dependencies & De
+- **Property Classification**: Character properties are categorized as *simple* (atomic, non-derived) or *derived* (rule-based combinations of other properties), with derived properties (e.g., `ID_Start`, `Default_Ignorable_Code_Point`) critical for algorithms like norma
 
 ## Use Cases
 
@@ -44,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://unicode.org/reports/tr44/#XID_Start
+Original source URL: https://unicode.org/reports/tr44
 
 ## Local Vault File
 

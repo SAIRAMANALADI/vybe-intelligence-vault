@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - dataset
-- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- LangChain provides a centralized documentation index (`/llms.txt`) for discovering all available technical resources and API references.
+- **LangChain Documentation Index**: Centralized `/llms.txt` file listing all available documentation pages for LangChain, accessible at [/llms.txt](https://docs.langchain.com/llms.txt).
 
-- The platform supports the full agent development lifecycle with modular tools for building (LangChain/LangGraph), testing (datasets/evaluations), deploying, monitoring, and governing agents.
+- **Agent Development Platform**: Unified platform supporting agent lifecycle stages—development (LangChain/LangGraph/Deep Agents), testing (datasets/evaluations), deployment, monitoring, and governance.
 
-- LangSmith offers no-code agent development via Fleet, automated failure detection via Engine, and compliance certifications (HIPAA/SOC 2/GDPR) for production deploy
+- **LangSmith Features**: Includes Engine for automated failure detection, no-code agent builder (LangSmith
 
 ## Use Cases
 

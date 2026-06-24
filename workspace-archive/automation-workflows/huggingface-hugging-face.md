@@ -8,9 +8,11 @@ local_vault_path: ai/rag/huggingface-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- agents
+- models
 - rag
 - web-crawled
 - workflows
@@ -25,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GitHub-Native Integration**: Serge operates directly within GitHub repositories, enabling AI-powered code reviews via pull requests without requiring external tools or services.
+- **Architecture**: Moon Bot integrates a Slack-native coding agent with Hugging Face's infrastructure, leveraging Hugging Face Buckets for model storage and retrieval, enabling real-time, context-aware code assistance within Slack.
 
-- **Self-Hosted & Open-Source**: Deployable as a self-hosted solution using Hugging Face's `transformers` and `diffusers` libraries, ensuring data privacy and customization.
+- **Functionality**: The agent autonomously processes and executes coding tasks (e.g., code generation, debugging) by interfacing with Hugging Face's model APIs, while maintaining Slack-native workflows via slash commands and interactive messages.
 
-- **Multi-Model Support**: Leverages large language models (LLMs) for contextual code analysis, providing feedback on syntax, logic, and best
+- **Deployment**:
 
 ## Use Cases
 

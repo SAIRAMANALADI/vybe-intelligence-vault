@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 120 resources matched in the intelligence vault.
+Active signals: 135 resources matched in the intelligence vault.
 Recently detected signals:
-- [Contributing guide — Zulip 12.0-dev+git documentation](../ai/rag/contributing-guide-zulip-12-0-dev-git-documentatio.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Install a Zulip server — Zulip 12.0 documentation](../ai/rag/install-a-zulip-server-zulip-12-0-documentation.md) (Source: Unknown Source) - Collected 2026-06-24
-- [FHIR Community - closed - discussion moved to chat.fhir.org](../ai/resources/fhir-community-closed-discussion-moved-to-chat-fhi.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Marquez Project | Marquez Project](../ai/resources/marquez-project-marquez-project.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Azure documentation | Microsoft Learn](../ai/rag/azure-documentation-microsoft-learn.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Tito Lookup](../ai/resources/tito-lookup.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Browse Zabbix / Zabbix - ZABBIX GIT](../ai/resources/browse-zabbix-zabbix-zabbix-git.md) (Source: Unknown Source) - Collected 2026-06-24
+- [JetBrains AI - The JetBrains Blog](../ai/rag/jetbrains-ai-the-jetbrains-blog.md) (Source: Unknown Source) - Collected 2026-06-24
+- [JupyterLite — JupyterLite 0.8.0 documentation](../ai/rag/jupyterlite-jupyterlite-0-8-0-documentation.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Dart programming language](../ai/resources/dart-programming-language.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -120,4 +120,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:46.001401+05:30.990811+05:30.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.741819+05:30.001401+05:30.990811+05:30.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

@@ -2,13 +2,13 @@
 title: Bitbucket | Git solution for teams using Jira
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://bitbucket.org/product
+source_url: https://bitbucket.org
 resource_id: blog:bitbucket-git-solution-for-teams-using-jira
 local_vault_path: ai/rag/bitbucket-git-solution-for-teams-using-jira.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Bitbucket | Git solution for teams using Jira
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **AI-augmented SDLC**: Atlassian integrates AI across the software development lifecycle (SDLC) with capabilities including AI-powered code search, chat, automated code review, pipeline triage, and Jira updates to reduce cycle times and enhance developer productivity.
+- **AI-powered DevOps lifecycle**: Integrates AI across planning, code review, CI/CD pipelines, and Jira updates to reduce cycle times, automate pipeline triage, and enforce governance policies (e.g., coding standards, CI/CD policies) via the Teamwork Graph for contextualized responses.
 
-- **Connected DevOps platform**: Bitbucket natively integrates with Jira and Jira Service Management, enabling seamless traceability from planning to production with minimal context switching, supported by the Teamwork Graph for
+- **Unified Jira-Bitbucket CI/CD**: Native Jira integration enables automated issue tracking, PR-to-Jira linkage, and deployment traceability, while Bitbucket Pipelines supports scalable, automated workflows wit
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://bitbucket.org/product
+Original source URL: https://bitbucket.org
 
 ## Local Vault File
 

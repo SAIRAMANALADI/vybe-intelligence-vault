@@ -16,9 +16,9 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
 | [Table of contents — voila 0.5.8 documentation](https://voila.readthedocs.io) | `frontend-ai-ui/` | 70 |
 | [Work with member roles - Operations - Confluence](https://compass-ops-help.atlassian.net/wiki/spaces/OPERATIONS/pages/10420253/Work+with+member+roles) | `frontend-ai-ui/` | 70 |
+| [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html) | `frontend-ai-ui/` | 70 |
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | `frontend-ai-ui/` | 70 |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | `frontend-ai-ui/` | 70 |
 | [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
 | [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) | `frontend-ai-ui/` | 70 |
 | [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants) | `frontend-ai-ui/` | 70 |

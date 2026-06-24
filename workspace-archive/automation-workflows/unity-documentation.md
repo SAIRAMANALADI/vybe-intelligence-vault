@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multiplayer & Networking**: Unity provides integrated services for multiplayer game development, including **Netcode for GameObjects** and **Netcode for Entities**, with tools like **Unity Transport** and **Distributed Authority** for scalable networking solutions.
+- **Multiplayer & Networking**: Unity provides integrated tools like **Netcode for GameObjects**, **Unity Transport**, and **Distributed Authority** for scalable multiplayer game development, alongside services for **Friends**, **Leaderboards**, and **Vivox** for real-time communication.
 
-- **LiveOps & Monetization**: Unity’s **LiveOps** suite includes **In-App Purchasing (IAP)**, **Analytics**, **Cloud Save**, and **Remote Config**, while monetization tools like **LevelPlay** (mediation) and **Unity Ads** enable
+- **Monetization & Ads**: Supports **in-app purchasing (IAP)**, **ad mediation via LevelPlay**, and **programmatic ad buying/selling**, with additional tools for **ad quality control**, **Offerwall monetization
 
 ## Use Cases
 

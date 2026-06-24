@@ -11,13 +11,14 @@ tags:
 - anthropic
 - github-trending
 - html
-status: active
+status: inactive
 resource_id: github:shanraisshan/claude-code-best-practice
 first_seen: '2026-06-24T10:06:14.483395+05:30'
 last_seen: '2026-06-24T10:06:14.483395+05:30'
 last_checked: '2026-06-24T10:06:14.483395+05:30'
 health_score: 100
 ---
+
 
 # shanraisshan/claude-code-best-practice
 

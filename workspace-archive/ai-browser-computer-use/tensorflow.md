@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end ML platform**: TensorFlow provides a comprehensive ecosystem for developing, training, deploying, and optimizing machine learning models across diverse environments (cloud, edge, web, mobile) with support for reinforcement learning, graph neural networks (GNNs), and production-grade pipelines via TFX.
+- **End-to-end ML platform**: TensorFlow provides a comprehensive ecosystem for developing, training, deploying, and managing machine learning models across diverse environments, from edge devices to cloud platforms.
 
-- **Core APIs & Tools**: Includes `tf.keras` for high-level model building, `tf.data` for input pipeline optimization, TensorBoard for visualization, and TensorFlow.js/LiteRT for br
+- **High-level APIs & tools**: Includes `tf.keras` for model building, `tf.data` for input pipelines, TensorBoard for visualization, and specialized libraries like TensorFlow GNN (graph neural networks) and TF Agents (reinforcement learning).
+
+- **Cross-platform deployment**: Suppo
 
 ## Use Cases
 

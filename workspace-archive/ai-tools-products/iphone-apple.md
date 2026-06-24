@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro purchases.
-- **A19/A19 Pro chipset**: Features Neural Accelerators in GPU for AI workloads, supports AAA gaming, and enables advanced camera features with improved battery efficiency.
-- **Apple Intelligence integration**: On-device AI tools include Live Translation, Visual Intelligence for screen interactions, Clean Up for photo editing, and Siri with ChatGPT access while maintainin
+- **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro models.
+- **A19/A19 Pro SoC**: Features Neural Accelerators in GPU, enabling AAA gaming, advanced camera features, and AI workflow acceleration.
+- **Apple Intelligence integration**: On-device AI models power Live Translation, Visual Intelligence, Clean Up tool, and enhanced Siri capabilities while maintaining data privacy.
 
 ## Use Cases
 

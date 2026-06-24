@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Null Safety Enhancements**: Dart 3.9 improves type promotion, reachability, and definite assignment by assuming null safety with SDK constraint `^3.9.0`, potentially increasing `dead_code` warnings.
+- **Null Safety Enhancements**: Dart 3.9 improves type promotion, reachability, and definite assignment under null safety; requires SDK constraint `sdk: ^3.9.0` and may introduce additional `dead_code` warnings.
 
-- **Dart & Flutter MCP Server**: Introduces an AI assistant bridge enabling deep project context understanding for tools like Gemini CLI, Cursor, and GitHub Copilot to perform tasks like fixing runtime errors and managing dependencies.
+- **Dart & Flutter MCP Server**: New stable-channel tool enables AI assistants (e.g., Gemini CLI, Copilot) to deeply analyze Dart/Flutter projects for tasks like runtime error fixing, dependency management, and code generation.
 
-- **Performance Optimizations**: AOT-compiled analysis serv
+- **Performance & Cross-Compilation**: AOT-compiled analys
 
 ## Use Cases
 

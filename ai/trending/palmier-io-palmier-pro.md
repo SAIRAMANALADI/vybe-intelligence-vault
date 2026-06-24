@@ -10,13 +10,14 @@ tags:
 - github-trending
 - swift
 - youtube
-status: active
+status: inactive
 resource_id: github:palmier-io/palmier-pro
 first_seen: '2026-06-21T20:19:14.644527+05:30'
 last_seen: '2026-06-24T10:06:14.483079+05:30'
 last_checked: '2026-06-24T10:06:14.483079+05:30'
 health_score: 100
 ---
+
 
 # palmier-io/palmier-pro
 

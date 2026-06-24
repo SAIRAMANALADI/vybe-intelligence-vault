@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-24T10:07:50.802492+05:30'
-collected_at: '2026-06-24T10:07:50.802505+05:30'
+published_at: '2026-06-24T20:40:15.830260+05:30'
+collected_at: '2026-06-24T20:40:15.830274+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-24T10:07:50.802505+05:30'
-last_seen: '2026-06-24T10:07:50.802505+05:30'
-last_checked: '2026-06-24T10:07:50.802505+05:30'
+first_seen: '2026-06-24T20:40:15.830274+05:30'
+last_seen: '2026-06-24T20:40:15.830274+05:30'
+last_checked: '2026-06-24T20:40:15.830274+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines, supporting multi-document stores (Elasticsearch, FAISS, SQL) and integration with BERT/RoBERTa/DPR models for scalable QA and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines with support for multiple document stores (Elasticsearch, FAISS, SQL) and LLMs (BERT, RoBERTa, DPR), enabling scalable document retrieval, QA, and summarization.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, offering pre-built RAG pipelines, vector DB integration, and a user-friendly workflow design interface for rapid prototyping.
+- **RAGFlow (infiniflow)**: Open-source RAG engine focused on deep document understanding with pre-built RAG pipelines, intuitive workflow design, and integration with vector databases and custom embedding models for streamlined deployment.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research with distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed performance (WWW2025).
+- **Canopy (Pinecone-io)**: RAG framework leveraging Pinecone’s vector database for efficient real-time retrieval, advanced query processing, and knowledge base versioning, optimized for scalability and integration with Pinecone’s ecosystem.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:07:50.802492+05:30
+- Published: 2026-06-24T20:40:15.830260+05:30
 
 ## Related Tags
 

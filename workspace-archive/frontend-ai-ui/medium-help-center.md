@@ -28,8 +28,8 @@ selection_reason:
 
 ## Summary
 
-- Medium's **Partner Program** enables monetization via the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187), with earnings calculated based on [Partner Program earnings dashboard](https://help.medium.com/hc/en-us/articles/360007171314) and [earnings algorithm](https://help.medium.com/hc/en-us/articles/360036691193).
-- **Publications** on Medium allow collaborative content curation, with submission management via [story submission workflow](https://help.medium.com/
+- **Account Management**: Medium provides granular control over profile settings, email preferences, subscription management, and social media integration via dedicated help articles (e.g., [profile URL customization](https://help.medium.com/hc/en-us/articles/115004746707-Your-profile-page-URL), [subscription adjustments](https://medium.zendesk.com/hc/en-us/articles/360006277374)).
+- **Content Distribution & Monetization**: Stories undergo curation for distribution tiers (Boost/General/Network),
 
 ## Use Cases
 

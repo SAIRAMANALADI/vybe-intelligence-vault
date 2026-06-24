@@ -4,22 +4,23 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai
-published_at: '2026-06-24T10:11:53.974768+05:30'
-collected_at: '2026-06-24T10:11:53.974782+05:30'
+published_at: '2026-06-24T20:42:44.239203+05:30'
+collected_at: '2026-06-24T20:42:44.239216+05:30'
 tags:
 - agents
 - benchmark
 - meta-ai
 - models
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-24T10:11:53.974782+05:30'
-last_seen: '2026-06-24T10:11:53.974782+05:30'
-last_checked: '2026-06-24T10:11:53.974782+05:30'
+first_seen: '2026-06-24T20:42:44.239216+05:30'
+last_seen: '2026-06-24T20:42:44.239216+05:30'
+last_checked: '2026-06-24T20:42:44.239216+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (e.g., text, charts, tables), auto-correction loops for error detection/fixing, and semantic understanding to convert complex layouts into LLM-ready structured outputs.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of defined schemas without manual training, reducing processing time from hours to seconds.
 
-- **Enterprise Features**: Supports 50+ unstructured file types (PDFs, images, handwritten notes), schema-based LLM extraction, enterprise-grade chunking/embedding, and deployment options (cloud or VPC) with 99.9% uptime, SOC2/HIPAA/GDPR compliance, and dedicated SLAs.
+- **Multi-Modal Document Agents**: Specialized agents decompose complex documents (text, charts, tables, handwritten notes) into structured data via recursive auto-correction loops, ensuring high accuracy even with messy scans or multi-modal inputs.
 
-- **Performance & Scalability**: Benchmarks show superior accuracy in parsing, charts, and tables vs. proprietary/commercial/open-source OCR tools; free tier offers 10K credits/month (~1K pages), with 1B+ documents processed and 25M+ monthly package downloads.
+- **Enterprise-Grade Performance**: Benchmark data shows superior parsing accuracy for charts/tables compared to proprietary VLM, commercial IDP, and open-source OCR solutions, with support for 50+ unstructured file types and HIPAA/GDPR/SOC2 compliance.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:11:53.974768+05:30
+- Published: 2026-06-24T20:42:44.239203+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - meta-ai
 - models
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-24T10:07:39.466179+05:30'
-published_at: '2026-06-24T03:00:04Z'
+collected_at: '2026-06-24T20:38:50.472701+05:30'
+published_at: '2026-06-24T14:40:45Z'
 tags:
 - benchmark
 - github-repo
@@ -14,16 +14,16 @@ tags:
 - models
 - python
 - rag
-stars: 8872
+stars: 8898
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-24T10:07:39.466179+05:30'
-last_seen: '2026-06-24T10:07:39.466179+05:30'
-last_checked: '2026-06-24T10:07:39.466179+05:30'
+first_seen: '2026-06-24T20:38:50.472701+05:30'
+last_seen: '2026-06-24T20:38:50.472701+05:30'
+last_checked: '2026-06-24T20:38:50.472701+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) implementation, integrating cutting-edge LLMs (e.g., DeepSeek, Kimi-K2) with Python-based frameworks like LangChain and LlamaIndex.
+- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) model development, covering end-to-end implementation strategies, evaluation, and deployment.
 
-- **Multi-Technology Stack**: Demonstrates hybrid retrieval systems leveraging vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings for advanced knowledge augmentation.
+- **Multi-Framework Integration**: Supports multiple RAG frameworks (LangChain, LlamaIndex) and vector databases (Milvus, Neo4j), with examples for multimodal RAG and integration with LLMs (DeepSeek, Kimi-K2).
 
-- **Production-Ready Tooling**: Includes deployment strategies, benchmarking, and optimization techniques for scalable RAG pipelines, with practical examples and benchmarking tools.
+- **Practical Implementation**: Includes hands-on code examples in Python, covering embedding models, retrieval pipelines, and optimization techniques for production-grade RAG systems.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 8872
-- Forks: 4414
+- Stars: 8898
+- Forks: 4433
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-06-24T03:00:04Z
+- Last Updated: 2026-06-24T14:40:45Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

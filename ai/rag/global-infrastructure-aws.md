@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure
-published_at: '2026-06-23T09:58:58.296311+05:30'
-collected_at: '2026-06-23T09:58:58.296326+05:30'
+published_at: '2026-06-24T21:01:58.354570+05:30'
+collected_at: '2026-06-24T21:01:58.354583+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-06-23T09:58:58.296326+05:30'
-last_seen: '2026-06-23T09:58:58.296326+05:30'
-last_checked: '2026-06-23T09:58:58.296326+05:30'
+first_seen: '2026-06-24T21:01:58.354583+05:30'
+last_seen: '2026-06-24T21:01:58.354583+05:30'
+last_checked: '2026-06-24T21:01:58.354583+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Scale**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents** with planned expansions (e.g., Saudi Arabia, Chile, New Zealand).
+- **Global Reach & Scalability**: AWS operates 123 Availability Zones (AZs) across 39 geographic regions, with plans to expand to 46 AZs in 41 regions, including new regions in Saudi Arabia, Chile, New Zealand, and Taiwan. The infrastructure includes 750+ CloudFront Points of Presence (PoPs) and 15 regional edge caches, enabling low-latency global content delivery.
 
-- **Resilient & Secure Infrastructure**: Each Region contains **≥3 isolated AZs**, interconnected via **~20M km of fiber**, ensuring **high availability, fault tolerance, and sub-millisecond latency** while adhering to **regulatory and sovereignty requirements** (e.g., Dedicated Local Zones, Outposts).
+- **High Availability & Resilience**: Each AWS Region consists of at least three independent, physically separated AZs, ensuring fault tolerance and high availability. AWS’s global network backbone spans nearly 20 million kilometers of fiber optic cabling, optimizing data transfer speeds and reducing latency for applications.
 
-- **Hybrid & Edge Compute**: Supports **on-premises (Outposts), edge (Local/Wavelength Zones), and global CDN (CloudFront)** deployments, optimized for **AI/ML workloads** and **real-time applications** via **AWS’s proprietary network backbone**.
+- **Diverse Infrastructure Offerings**: AWS provides specialized solutions such as Local Zones, Dedicated Local Zones, Outposts, and Wavelength for edge computing, alongside traditional Regions and CloudFront for content delivery. These offerings support hybrid, on-premises, and low-latency workloads while maintaining consistent cloud performance.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:58:58.296311+05:30
+- Published: 2026-06-24T21:01:58.354570+05:30
 
 ## Related Tags
 

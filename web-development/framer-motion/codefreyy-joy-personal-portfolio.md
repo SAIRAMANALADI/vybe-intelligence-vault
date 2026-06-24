@@ -4,19 +4,19 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/codefreyy/joy-personal-portfolio
-collected_at: '2026-06-16T17:27:23.872021+05:30'
-published_at: '2026-05-07T13:56:31Z'
+collected_at: '2026-06-24T20:38:08.725738+05:30'
+published_at: '2026-06-24T10:14:19Z'
 tags:
 - animation
 - creative_dev
 - frontend_ui
-stars: 186
+stars: 187
 language: TypeScript
 status: active
 resource_id: github:codefreyy/joy-personal-portfolio
 first_seen: '2026-06-12T10:40:18.782977+00:00'
-last_seen: '2026-06-16T17:27:23.872021+05:30'
-last_checked: '2026-06-16T17:27:23.872021+05:30'
+last_seen: '2026-06-24T20:38:08.725738+05:30'
+last_checked: '2026-06-24T20:38:08.725738+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: Codefreyy
-- Stars: 186
+- Stars: 187
 - Forks: 33
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-05-07T13:56:31Z
+- Last Updated: 2026-06-24T10:14:19Z
 
 ## Possible Use Cases
 

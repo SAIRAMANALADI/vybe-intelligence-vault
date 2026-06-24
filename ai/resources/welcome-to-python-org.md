@@ -3,9 +3,9 @@ title: Welcome to Python.org
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.python.org
-published_at: '2026-06-24T10:27:57.733797+05:30'
-collected_at: '2026-06-24T10:27:57.733811+05:30'
+source_url: http://www.python.org
+published_at: '2026-06-24T20:57:42.565437+05:30'
+collected_at: '2026-06-24T20:57:42.565451+05:30'
 tags:
 - anthropic
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-to-python-org
-first_seen: '2026-06-24T10:27:57.733811+05:30'
-last_seen: '2026-06-24T10:27:57.733811+05:30'
-last_checked: '2026-06-24T10:27:57.733811+05:30'
+first_seen: '2026-06-24T20:57:42.565451+05:30'
+last_seen: '2026-06-24T20:57:42.565451+05:30'
+last_checked: '2026-06-24T20:57:42.565451+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Python supports arithmetic operations with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and floating-point division, with syntax resembling mathematical expressions.
-- Python’s list comprehensions enable concise transformations and enumerations, e.g., `[fruit.upper() for fruit in fruits]` and `list(enumerate(fruits))`.
-- Python 3.15.0 beta 3 released alongside security patches for API authentication bypass in python.org download metadata.
+- Python 3 supports arithmetic operations (`/`, `//`, `**`), list comprehensions, and built-in functions like `enumerate()` for compound data type manipulation.
+- The Python Software Foundation (PSF) promotes the language, supports community growth, and mitigates security risks (e.g., API authentication bypass fixes in `python.org` metadata).
+- Python is widely used in AI/ML (PyTorch, TensorFlow), web development (Django, FastAPI), and system administration (Ansible, Salt), with active releases (e.g., Python 3.15.0 beta 3).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:27:57.733797+05:30
+- Published: 2026-06-24T20:57:42.565437+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.python.org
+Original source: http://www.python.org

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://scipy.github.io/devdocs/dev/roadmap.html
-published_at: '2026-06-22T11:29:46.038684+05:30'
-collected_at: '2026-06-22T11:29:46.038696+05:30'
+published_at: '2026-06-24T21:08:15.418758+05:30'
+collected_at: '2026-06-24T21:08:15.418784+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:scipy-roadmap-scipy-v1-19-0-dev-manual
-first_seen: '2026-06-22T11:29:46.038696+05:30'
-last_seen: '2026-06-22T11:29:46.038696+05:30'
-last_checked: '2026-06-22T11:29:46.038696+05:30'
+first_seen: '2026-06-24T21:08:15.418784+05:30'
+last_seen: '2026-06-24T21:08:15.418784+05:30'
+last_checked: '2026-06-24T21:08:15.418784+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Distributed/GPU Array Support**: Leverage NumPy's `__array_function__` and `__array_ufunc__` protocols to enable SciPy functions to accept distributed (e.g., `dask.array.Array`) and GPU arrays (e.g., `cupy.ndarray`). Map and improve algorithm compatibility and performance for these array types.
+- **Distributed/GPU Array Support**: SciPy aims to leverage NumPy's `__array_function__` and `__array_ufunc__` protocols to enable compatibility with distributed (e.g., Dask) and GPU arrays (e.g., CuPy), with performance mapping and optimization for SciPy algorithms.
 
-- **Performance Enhancements**: Adopt multiprocessing via the `workers` keyword API, integrate Numba’s `@njit` for JIT compilation, and optimize specific functions (e.g., in `scipy.optimize` and `scipy.interpolate`) for speed and memory efficiency.
+- **Performance Enhancements**: SciPy targets speed, memory efficiency, and parallelization via multiprocessing (`workers` keyword), Numba JIT integration (e.g., Transonic), and targeted optimizations in `scipy.optimize` and `scipy.interpolate`.
 
-- **Sparse Arrays Expansion**: Replace sparse matrices with sparse arrays (COO, CSR, DOK formats) supporting nD arrays, broadcasting, and NumPy-like behavior. Plan deprecation of sparse matrices and collaborate with NumPy on `numpy.matrix` removal.
+- **Sparse Arrays & Hardware Expansion**: SciPy plans to replace sparse matrices with nD sparse arrays (COO, CSR, DOK formats), add broadcasting support, and expand hardware compatibility (ARM64, POWER8/9, IBM Z) with CI and `manylinux2014` wheels.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:29:46.038684+05:30
+- Published: 2026-06-24T21:08:15.418758+05:30
 
 ## Related Tags
 

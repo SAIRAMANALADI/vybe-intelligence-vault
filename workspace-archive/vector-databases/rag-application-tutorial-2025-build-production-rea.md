@@ -7,7 +7,7 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 82
+archive_score: 80
 archive_tier: useful
 resource_kind: dataset
 importance: high
@@ -23,7 +23,6 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -32,17 +31,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Optimization**: Implements hybrid search (dense + sparse retrieval), query expansion, and chunking strategies to enhance retrieval quality and reduce latency; benchmarks show latency breakdowns and optimization results for production-grade performance.
+- **RAG Architecture**: Core components include document chunking, embedding optimization (e.g., using LangChain), and vector storage (e.g., Supabase) for efficient retrieval and generation.
 
-- **Scalable Architecture**: Deploys with Cloudflare Workers for edge computing, employs load balancing across multiple models, and uses Supabase as a vector database; includes caching strategies and Sentry integration for observ
+- **Production Optimizations**: Advanced strategies like hybrid search (dense + sparse retrieval), query expansion, caching, and load balancing are critical for latency, cost, and scalability in RAG pipelines.
+
+- **Monitoring & Scaling**: Integration with observability tools (e.g., Sentry) and deployment vi
 
 ## Use Cases
 

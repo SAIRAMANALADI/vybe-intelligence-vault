@@ -12,6 +12,8 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- github-trending
+- python
 selection_reason:
 - Active open-source repository
 ---

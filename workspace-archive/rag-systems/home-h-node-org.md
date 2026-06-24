@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Objective**: h-node is a collaborative, wiki-structured hardware database identifying devices compatible with fully free operating systems (e.g., FSF-endorsed GNU/Linux distros), excluding non-free firmware/drivers.
+- **Objective**: h-node is a collaborative, wiki-style hardware database identifying devices compatible with fully free operating systems (e.g., FSF-endorsed GNU/Linux distros) by testing with free drivers/firmware only (e.g., Debian `main` archive, excluding `contrib`/`non-free`).
 
-- **Testing Requirements**: Hardware must be verified using only free software—specifically FSF-endorsed distros or Debian with **only the `main` archive enabled** (`apt-cache policy` must show no `contrib`/`non-free`).
+- **Contribution & Licensing**: Users can contribute by editing entries or suggesting hardware; all text submissions are licensed under CC0 (public domain), enabling unrestricted reuse/modification.
 
-- **Contribution & License**: Users can edit/add hardware
+- **Technical Co
 
 ## Use Cases
 

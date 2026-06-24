@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: dataset
 importance: high
 tags:
+- agents
 - dataset
 - frontend_ui
 - hackernews
@@ -38,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetReplicationConfiguration`), incorrect bucket policy configurations, or replication timeouts; verify destination bucket ownership and encryption settings.
+- **S3 Replication Failure**: Verify S3 bucket replication configuration, including IAM roles, replication rules, and destination bucket permissions; ensure source and destination regions are correctly specified.
 
-- **EC2 SSH Connection Errors**: "Connection refused" typically indicates security group misconfiguration (denied inbound SSH/port 22) or instance-level firewall rules; "Permission denied" errors often stem from incorrect key pair associa
+- **EC2 Connection Issues**: Troubleshoot SSH/RDP access by validating security group rules, network ACLs, and instance-level firewalls; check key pair associations and SSM Agent status for Session Manager.
+
+- **Lambda Modification Tracking**: Use AWS CloudTrail to audit Lambda functio
 
 ## Use Cases
 

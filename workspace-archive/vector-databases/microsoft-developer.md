@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Microsoft Foundry 2026 Updates**: Introduced runtime, tools, memory, grounding, models, observability, and governance features for production-grade AI agent deployment and management.
-
-- **MAI Model Family Launch**: Seven new multimodal AI models (image, voice, transcription, coding, reasoning) forming a cohesive ecosystem for real-world tasks.
-
-- **GitHub Agentic Development**: New GitHub Copilot app enables agent-native desktop experiences, integrating AI agents into existing workflows.
+- **Microsoft Build 2026 Announcements**: Introduced seven new MAI AI models (image, voice, transcription, coding, reasoning) forming a multimodal ecosystem, alongside GitHub’s agent-native desktop experience for agentic development.
+- **Microsoft Foundry Platform Updates**: Enhanced with runtime, tools, memory, grounding, models, observability, and governance features to support production-grade AI agent deployment and scaling.
+- **Security & Agentic SDLC**: Launched Microsoft Scout (always-on
 
 ## Use Cases
 

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://xoofx.github.io
-published_at: '2026-06-23T01:16:51.419622+05:30'
-collected_at: '2026-06-23T01:16:51.419630+05:30'
+published_at: '2026-06-24T21:15:10.389566+05:30'
+collected_at: '2026-06-24T21:15:10.389578+05:30'
 tags:
 - hackernews
 - web-crawled
 status: active
 resource_id: blog:home-xoofx
-first_seen: '2026-06-23T01:16:51.419630+05:30'
-last_seen: '2026-06-23T01:16:51.419630+05:30'
-last_checked: '2026-06-23T01:16:51.419630+05:30'
+first_seen: '2026-06-24T21:15:10.389578+05:30'
+last_seen: '2026-06-24T21:15:10.389578+05:30'
+last_checked: '2026-06-24T21:15:10.389578+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Professional Identity**: Alexandre Mutel (aka *xoofx*), a C# software engineer at Unity Technologies since 2014, specializing in .NET, C#, and Visual Studio (Microsoft MVP in this domain).
-- **Technical Contributions**: Maintains multiple open-source projects and private codebases, with a decade-long focus on C# development and contributions to Unity Technologies' ecosystem.
-- **Online Presence**: Active on Mastodon (@xoofx), previously on Twitter, with a technical blog and RSS feed; site built using the *lunet* static site generator.
+- **Professional Background**: Software Engineer at Unity Technologies, Microsoft MVP (since 2014) in .NET/C#, with 10+ years of C# experience; maintains OSS and private projects.
+- **Online Presence**: Active on Mastodon (@xoofx), previously Twitter; blogs at [xoofx.github.io/blog](https://xoofx.github.io/blog) with RSS feed ([feed.xml](https://xoofx.github.io/feed.xml)).
+- **Technical Stack**: Uses [lunet](https://github.com/lunet-io/lunet) for site generation; site content licensed under CC BY 2.5.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:16:51.419622+05:30
+- Published: 2026-06-24T21:15:10.389566+05:30
 
 ## Related Tags
 

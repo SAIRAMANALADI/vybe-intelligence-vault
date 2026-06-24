@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.wikidata.org/wiki/Wikidata:Main_Page
-published_at: '2026-06-22T15:29:45.311142+05:30'
-collected_at: '2026-06-22T15:29:45.311159+05:30'
+published_at: '2026-06-24T21:02:28.012481+05:30'
+collected_at: '2026-06-24T21:02:28.012494+05:30'
 tags:
 - anthropic
-- dataset
 - hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:wikidata
-first_seen: '2026-06-22T15:29:45.311159+05:30'
-last_seen: '2026-06-22T15:29:45.311159+05:30'
-last_checked: '2026-06-22T15:29:45.311159+05:30'
+first_seen: '2026-06-24T21:02:28.012494+05:30'
+last_seen: '2026-06-24T21:02:28.012494+05:30'
+last_checked: '2026-06-24T21:02:28.012494+05:30'
 health_score: 100
 ---
 
@@ -25,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- Wikidata is a **free, open, machine-readable knowledge base** with **122M+ structured entities**, serving as a central data repository for Wikimedia projects and beyond via **RDF/SPARQL** endpoints.
-- Supports **multi-datatype editing** (including mobile interfaces) and **temporary accounts** for unregistered contributors, with data available under **CC0 licensing** and accessible via **standardized exports** (JSON, RDF, TSV).
-- Features **SPARQL query service**, **WikiProjects** for community-driven data curation (e.g., WikiProject Women), and **interoperability** with external linked datasets via **standardized identifiers (QIDs/PIDs)**.
+- **Wikidata** is a free, open, machine-readable knowledge base with **122M+ entities**, serving as structured data storage for Wikimedia projects and beyond, using **RDF/Linked Data** standards for interoperability.
+- Supports **SPARQL query service** for structured data retrieval, **mobile editing** of all datatypes, and **temporary accounts** for unregistered editors (replacing IP-based identification).
+- Features **WikiProjects** (e.g., WikiProject Women) for community-driven data curation, **bot-updated lists**, and tools like **Spinach** for natural language querying, with data licensed under **CC0**.
 
 ## Why It Matters
 
@@ -37,12 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:29:45.311142+05:30
+- Published: 2026-06-24T21:02:28.012481+05:30
 
 ## Related Tags
 
 - anthropic
-- dataset
 - hackernews
 - rag
 - web-crawled

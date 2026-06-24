@@ -9,13 +9,14 @@ collected_at: '2026-06-24T10:06:14.483739+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:jamiepine/voicebox
 first_seen: '2026-06-23T01:03:50.203487+05:30'
 last_seen: '2026-06-24T10:06:14.483739+05:30'
 last_checked: '2026-06-24T10:06:14.483739+05:30'
 health_score: 100
 ---
+
 
 # jamiepine/voicebox
 

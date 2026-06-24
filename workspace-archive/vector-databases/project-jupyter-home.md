@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible, web-based IDE supporting notebooks, code, and data workflows, with flexible workspace configurations (single/multi-document) and extension support for enhanced functionality.
+- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with configurable, multi-panel workspaces for advanced workflows in data science and ML.
 
-- **Jupyter Notebook** is a document-centric, web-based interface for creating/sharing computational documents with support for **40+ languages**, rich interactive outputs (HTML, LaTeX, etc.), and big data integration (e.g., Apache Spark, pandas, TensorFlow).
+- **Jupyter Notebook** uses an open JSON-based `.ipynb` format for reproducible computational documents, supporting 40+ languages and rich interactive outputs (HTML, LaTeX, widgets) via an open ZMQ/WebSocket-based kernel protocol.
 
-- **JupyterHub** ena
+- **JupyterHub** enables centralized, scalable deployments (Docker/Kubernetes) with p
 
 ## Use Cases
 

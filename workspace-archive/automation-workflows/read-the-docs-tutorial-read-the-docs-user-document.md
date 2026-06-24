@@ -8,7 +8,7 @@ local_vault_path: ai/agents/read-the-docs-tutorial-read-the-docs-user-document.m
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Read the Docs tutorial — Read the Docs user documentation
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **GitHub Repository Setup**: Create a public GitHub repo using the [Read the Docs tutorial template](https://github.com/readthedocs/tutorial-template/), including `.readthedocs.yaml`, `pyproject.toml`, and Sphinx docs in `docs/source/` for automatic documentation generation.
+- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml`, `README.rst`, `pyproject.toml`, source code (`lumache.py`), and Sphinx docs in `docs/source/` (including `conf.py` and `index.rst`).
 
-- **Read the Docs Integration**: Authorize Read the Docs via GitHub OAuth, then import the repo as a project using the dashboard, configuring the default branch (`main`) and unique subdomain during setup.
+- **Account Integration**: Sign-up via GitHub OAuth grants elevated permissions for webhooks and automated workflows; email verification finalizes account creation.
 
-- **Automated B
+- **Automated Builds**: Initial build triggered post-project creation; logs accessible via "Your documentation is buildi
 
 ## Use Cases
 

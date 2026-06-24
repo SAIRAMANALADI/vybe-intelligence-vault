@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 326 resources matched in the intelligence vault.
 Recently detected signals:
-- [Develop AI apps using Azure services | Microsoft Learn](../ai/rag/develop-ai-apps-using-azure-services-microsoft-lea.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Introduction - TimeGPT Foundational model for time series forecasting and anomaly detection](../ai/resources/introduction-timegpt-foundational-model-for-time-s.md) (Source: Unknown Source) - Collected 2026-06-24
-- [google/gemma-3-270m • LM Studio](../ai/rag/google-gemma-3-270m-lm-studio.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Aseprite - Docs - Cli](../ai/resources/aseprite-docs-cli.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-06-24
+- [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) (Source: Unknown Source) - Collected 2026-06-24
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-24
+- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -121,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:45.616017+05:30.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.323842+05:30.616017+05:30.629111+05:30.781924+05:30.133773+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

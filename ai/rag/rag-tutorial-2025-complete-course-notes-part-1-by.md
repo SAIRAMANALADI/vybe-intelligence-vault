@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-06-24T10:08:11.352493+05:30'
-collected_at: '2026-06-24T10:08:11.352507+05:30'
+published_at: '2026-06-24T20:39:21.186029+05:30'
+collected_at: '2026-06-24T20:39:21.186043+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-06-24T10:08:11.352507+05:30'
-last_seen: '2026-06-24T10:08:11.352507+05:30'
-last_checked: '2026-06-24T10:08:11.352507+05:30'
+first_seen: '2026-06-24T20:39:21.186043+05:30'
+last_seen: '2026-06-24T20:39:21.186043+05:30'
+last_checked: '2026-06-24T20:39:21.186043+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) for improved answers while avoiding context window overload; splits into **injection pipeline** (chunking + embedding) and **retrieval pipeline** (query embedding + similarity search).
-
-- **Embeddings & Vector DBs**: Text is converted into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) via embedding models; vector databases (Pinecone, Weaviate, FAISS) store these embeddings for semantic similarity search during retrieval.
-
-- **Chunking & Retrieval Workflow**: Documents are split into fixed-token chunks (e.g., 1,000 tokens), embedded, and stored; user queries are embedded and matched against stored vectors to retrieve top-*k* relevant chunks, which are then fed to the LLM for answer generation.
+- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context (e.g., documents) dynamically, avoiding context window overload by injecting only pertinent chunks into prompts.
+- **Embedding Pipeline**: Chunks source documents (e.g., PDFs) into fixed-token segments, converts them into high-dimensional vectors (e.g., 3,072D for OpenAI's `text-embedding-3-large`) using embedding models, and stores them in vector databases (e.g., Pinecone, FAISS) for semantic similarity search.
+- **Retrieval Workflow**: User queries are embedded into vectors, matched against stored embeddings via similarity algorithms (e.g., cosine distance), and the top-*k* relevant chunks are passed to the LLM for answer generation, ensuring efficient and accurate responses.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:08:11.352493+05:30
+- Published: 2026-06-24T20:39:21.186029+05:30
 
 ## Related Tags
 

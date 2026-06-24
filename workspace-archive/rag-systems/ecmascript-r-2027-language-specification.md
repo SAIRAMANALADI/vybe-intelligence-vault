@@ -2,7 +2,7 @@
 title: ECMAScript® 2027 Language Specification
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://tc39.es/ecma262/#sec-list-and-record-specification-type
+source_url: https://tc39.github.io/ecma262/#sec-tostring
 resource_id: blog:ecmascript-r-2027-language-specification
 local_vault_path: ai/rag/ecmascript-r-2027-language-specification.md
 quality_score: 70
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **ECMAScript Specification Structure**: Defines language types (Undefined, Null, Boolean, String, Symbol, Numeric), abstract operations, and grammar conventions (lexical, syntactic, numeric string) with detailed subsections for each type (e.g., `Number::add`, `BigInt::multiply`).
-
-- **Runtime & Static Semantics**: Specifies evaluation order, completion records, and runtime semantics (e.g., `Throw`, `Completion (completionRecord)`) alongside static semantics for grammar rules and mathematical o
+- **ECMAScript Specification Navigation Shortcuts**: Toggle user code annotations (`u`), early exit annotations (`e`), multipage navigation (`m`), search box access (`/`), pinning clauses (`p`), and direct pin jumps (`1-9`, `0`).
+- **ECMAScript Data Types & Abstract Operations**: Defines core types (Undefined, Null, Boolean, String, Symbol, Number) and numeric operations (arithmetic, bitwise, comparison) with abstract algorithms (e.g., `Number::add`, `Number::bitwiseAND`).
+- **Grammar & Semantic
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://tc39.es/ecma262/#sec-list-and-record-specification-type
+Original source URL: https://tc39.github.io/ecma262/#sec-tostring
 
 ## Local Vault File
 

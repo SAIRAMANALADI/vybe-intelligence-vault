@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Interactive Graph Management**: The Neo4j Console allows real-time graph modification via Cypher queries (e.g., `CREATE (neo:Person { name: "Neo" })` for nodes, `CREATE (neo)-[:KNOWS {since:"2 days"}]->(morpheus)` for relationships) with integrated visualization.
+- **Interactive Graph Management**: The Neo4j Console allows real-time graph modifications via Cypher queries, enabling node creation (`CREATE (neo:Person { name : "Neo" })`) and relationship establishment (`CREATE (neo)-[:KNOWS {since:"2 days"}]->(morpheus)`).
 
-- **Querying Capabilities**: Supports advanced graph traversal and updates using Cypher (e.g., `MATCH (user:Person {name:"Neo"})-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user,friend ORDER BY friend.age LIMIT 10`).
+- **Querying Capabilities**: Supports complex graph traversals and updates using Cypher, e.g., `MATCH (user:Person {name:"Neo"})-[:KNOWS]->(friend) WHERE friend.age > 20 RETURN user,friend ORDER BY friend.age LIMIT 10`.
 
-- **Deplo
+- **Hosting & Ac
 
 ## Use Cases
 

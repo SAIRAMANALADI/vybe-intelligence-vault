@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://ace.atlassian.com/community-led-classes
-published_at: '2026-06-23T10:12:51.205081+05:30'
-collected_at: '2026-06-23T10:12:51.205094+05:30'
+published_at: '2026-06-24T21:18:27.055941+05:30'
+collected_at: '2026-06-24T21:18:27.055955+05:30'
 tags:
 - hackernews
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:atlassian-community-events-community-led-classes
-first_seen: '2026-06-23T10:12:51.205094+05:30'
-last_seen: '2026-06-23T10:12:51.205094+05:30'
-last_checked: '2026-06-23T10:12:51.205094+05:30'
+first_seen: '2026-06-24T21:18:27.055955+05:30'
+last_seen: '2026-06-24T21:18:27.055955+05:30'
+last_checked: '2026-06-24T21:18:27.055955+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Free instructor-led Atlassian training**: Community-Led Classes offers no-cost, live sessions covering Jira, Confluence, and Atlassian apps, delivered by expert community members and champions.
-- **Structured certification pathways**: Provides guided study sessions (e.g., ACA-900, ACP-120) and self-paced courses via Atlassian University for role-specific certifications.
-- **Global community-driven events**: Hosts virtual/regional events (e.g., Assets Masterclass, Jira Service Management for IT Teams) with past sessions archived for on-demand review.
+- **Free instructor-led Atlassian training** leveraging community expertise for Jira, Confluence, and Atlassian ecosystem tools, targeting all skill levels via live sessions and self-paced modules.
+
+- **Structured certification pathways** including ACA-900 (Jira Essentials) and ACP-120 (Cloud Admin), with exam-focused workshops and bulk-editing/JQL deep dives.
+
+- **Community-driven events** featuring expert-led sessions (e.g., Jira Service Management optimization, legacy Server/DC migration insights) and partnerships with organizations like Connect Centric and Hean.Tech.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:12:51.205081+05:30
+- Published: 2026-06-24T21:18:27.055941+05:30
 
 ## Related Tags
 

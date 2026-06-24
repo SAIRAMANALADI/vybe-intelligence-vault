@@ -8,7 +8,7 @@ local_vault_path: ai/rag/building-rag-based-llm-applications-for-production.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: A RAG system processes queries by embedding them via an embedding model, retrieving top-*k* relevant contexts from a vector database using vector similarity search, and generating responses via an LLM augmented with retrieved context.
+- **RAG Pipeline Architecture**: Implements a retrieval-augmented generation (RAG) system where queries are embedded, vectorized, and matched against a knowledge base (e.g., Ray documentation) to retrieve top-*k* relevant contexts, which are then passed to an LLM for response generation.
 
-- **Scalable Data Processing**: Utilizes Ray Datasets for parallelized, distributed processing (e.g., chunking, embedding) of large-scale document corpora, ensuring linear scalability across compute resources for workloads like loa
+- **Scalable Data Processing**: Uses Ray Datasets for parallelized, distributed processing of large-scale document corpora (e.g., web-scraped HTML), including section extraction, chunking (via `RecursiveCharact
 
 ## Use Cases
 

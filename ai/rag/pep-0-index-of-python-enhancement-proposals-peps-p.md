@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org
-published_at: '2026-06-24T10:23:18.702751+05:30'
-collected_at: '2026-06-24T10:23:18.702766+05:30'
+published_at: '2026-06-24T21:11:19.491912+05:30'
+collected_at: '2026-06-24T21:11:19.491926+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-24T10:23:18.702766+05:30'
-last_seen: '2026-06-24T10:23:18.702766+05:30'
-last_checked: '2026-06-24T10:23:18.702766+05:30'
+first_seen: '2026-06-24T21:11:19.491926+05:30'
+last_seen: '2026-06-24T21:11:19.491926+05:30'
+last_checked: '2026-06-24T21:11:19.491926+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled text histories maintained in GitHub; includes a JSON-based [PEPS API](https://peps.python.org/api/peps.json) for metadata access.
+- **PEP Indexing System**: PEPs are assigned immutable numbers by PEP editors, with their version-controlled history serving as the authoritative record; a JSON API (`peps.json`) provides structured metadata access.
 
-- **Categorization & Status**: PEPs are organized by status (e.g., *Process*, *Provisional*, *Accepted*, *Finished*) and topic (e.g., *Governance*, *Packaging*, *Typing*), with reserved numbers and status/type keys defined in PEP 0.
+- **PEP Categorization**: PEPs are classified into statuses (e.g., *Accepted*, *Finished*, *Rejected*) and topics (e.g., *Governance*, *Packaging*, *Typing*), with specialized subcategories like *Process and Meta-PEPs* (e.g., PEP 1, PEP 8) and *Informational PEPs* (e.g., PEP 20, PEP 333).
 
-- **Specialized PEPs**: Includes foundational PEPs like [PEP 8](https://peps.python.org/pep-0008/) (Python style guide), [PEP 333](https://peps.python.org/pep-0333/) (WSGI), and [PEP 484](https://peps.python.org/pep-0484/) (type hints), alongside governance and infrastructure PEPs (e.g., [PEP 731](https://peps.python.org/pep-0731/), [PEP 761](https://peps.python.org/pep-0761/)).
+- **Governance & Infrastructure**: PEPs define Python’s governance (e.g., PEP 13, PEP 811) and infrastructure processes (e.g., PEP 676, PEP 731), including release cycles (PEP 602), security policies (PEP 811), and migration plans (PEP 588).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:23:18.702751+05:30
+- Published: 2026-06-24T21:11:19.491912+05:30
 
 ## Related Tags
 

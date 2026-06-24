@@ -3,13 +3,13 @@ title: Medium Members Can Listen To Any Medium Story With The Speechify Play But
   | Speechify
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://speechify.com/medium?source=search_post
+source_url: https://speechify.com/medium?source=
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
 local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -22,16 +22,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio, with text highlighted in sync, supporting multitasking (e.g., commuting, exercising) and improving retention via dual sensory input.
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio (0.5x–4.5x speed) with synchronized text highlighting, improving accessibility for users with dyslexia, visual impairments, or time constraints (e.g., multitasking, commuting).
 
-- **Customization & Utility**: Users can adjust playback speed (0.5x–4.5x) for productivity, use Speechify for proofreading drafts (detecting awkward phrasing via audio), and select from multiple narrators to cater to indivi
+- **Productivity & Proofreading**: Users report consuming up to 3x more content via audio, with speed listening (up to 4.5x) enhancing efficiency. Writers leverage the feature for r
 
 ## Use Cases
 
@@ -41,7 +41,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://speechify.com/medium?source=search_post
+Original source URL: https://speechify.com/medium?source=
 
 ## Local Vault File
 

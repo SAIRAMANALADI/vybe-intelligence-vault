@@ -26,9 +26,8 @@ selection_reason:
 
 ## Summary
 
-- **Account Management**: Medium provides tools for profile customization, email preferences, social media integration, and subscription management via dedicated settings and URLs.
-- **Content Distribution & Monetization**: Stories are distributed based on curation guidelines, with earnings tracked through the Partner Program, including eligibility criteria and revenue calculation.
-- **Safety & Policies**: Medium enforces content policies (e.g., COVID-19, controversial content), provides user sa
+- **Account Management**: Medium provides granular control over profile settings, email preferences, subscription management, and social media integration via dedicated help articles (e.g., [profile URL customization](https://help.medium.com/hc/en-us/articles/115004746707-Your-profile-page-URL), [subscription adjustments](https://medium.zendesk.com/hc/en-us/articles/360006277374)).
+- **Content Distribution & Monetization**: Stories undergo curation for distribution tiers (Boost/General/Network),
 
 ## Use Cases
 

@@ -8,6 +8,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
 | [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
 | [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
+| [Announcing Dart 3.9 | The Dart Blog](https://blog.dart.dev/announcing-dart-3-9-ba49e8f38298) | `mcp-registry/` | 70 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
 | [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) | `mcp-registry/` | 70 |
 | [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
 | [Greenhouse | Applicant tracking software & hiring platform](https://www.greenhouse.com) | `mcp-registry/` | 70 |
 | [Better Stack - 30x cheaper than Datadog, Exceptional support](https://betterstack.com) | `mcp-registry/` | 70 |
-| [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](https://unity3d.com) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,19 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.wikimedia.org
-published_at: '2026-06-22T15:25:01.691210+05:30'
-collected_at: '2026-06-22T15:25:01.691222+05:30'
+published_at: '2026-06-24T20:59:09.214704+05:30'
+collected_at: '2026-06-24T20:59:09.214713+05:30'
 tags:
-- dataset
 - hackernews
 - paper
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:discover-and-build-wikimedia-technology-wikimedia
-first_seen: '2026-06-22T15:25:01.691222+05:30'
-last_seen: '2026-06-22T15:25:01.691222+05:30'
-last_checked: '2026-06-22T15:25:01.691222+05:30'
+first_seen: '2026-06-24T20:59:09.214713+05:30'
+last_seen: '2026-06-24T20:59:09.214713+05:30'
+last_checked: '2026-06-24T20:59:09.214713+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **APIs & Data Access**: Wikimedia provides public APIs and bulk data dumps for programmatic access to Wikipedia articles, media files, and structured datasets (e.g., Wikidata, page dumps).
-- **Tooling & Automation**: Developers can build bots and tools (e.g., edit assistants, moderation scripts) using Wikimedia’s open-source frameworks and APIs to enhance content maintenance.
-- **Community & Contribution**: Open-source contributions to Wikimedia’s infrastructure (e.g., MediaWiki, Wikibase) are facilitated via Git repositories, mentorship programs, and technical community forums.
+- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads for programmatic use.
+- **Tooling & Automation**: Develop bots and tools to streamline editing, maintenance, and workflows for Wikimedia projects.
+- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem by contributing to software development and community-driven projects.
 
 ## Why It Matters
 
@@ -36,15 +36,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:25:01.691210+05:30
+- Published: 2026-06-24T20:59:09.214704+05:30
 
 ## Related Tags
 
-- dataset
 - hackernews
 - paper
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

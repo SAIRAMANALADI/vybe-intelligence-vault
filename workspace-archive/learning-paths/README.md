@@ -10,12 +10,12 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (tutorial - USEFUL Tier)
+- [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (tutorial - USEFUL Tier)
 - [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development) (dataset - USEFUL Tier)
 - [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (dataset - USEFUL Tier)
 - [Python Packaging Authority — PyPA documentation](https://www.pypa.io/en/latest) (tutorial - USEFUL Tier)
-- [Learn WordPress - There's always more to learn | Learn WordPress](https://learn.wordpress.org) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -36,4 +36,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-24 12:07 IST*
+*Last updated: 2026-06-24 21:20 IST*

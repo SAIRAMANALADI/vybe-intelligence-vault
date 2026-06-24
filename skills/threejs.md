@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 124 resources matched in the intelligence vault.
+Active signals: 139 resources matched in the intelligence vault.
 Recently detected signals:
-- [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md) (Source: Unknown Source) - Collected 2026-06-24
-- [google/gemma-3-270m • LM Studio](../ai/rag/google-gemma-3-270m-lm-studio.md) (Source: Unknown Source) - Collected 2026-06-24
-- [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) (Source: Unknown Source) - Collected 2026-06-24
+- [The Best Assets for Game Making | Unity Asset Store](../ai/rag/the-best-assets-for-game-making-unity-asset-store.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Esri Developer](../ai/rag/esri-developer.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Select Identity Provider](../ai/rag/select-identity-provider.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Emscripten 6.0.2-git (dev) documentation](../ai/rag/emscripten-6-0-2-git-dev-documentation.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T12:06:45.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

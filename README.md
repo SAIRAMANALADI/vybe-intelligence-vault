@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 6,888</p>
-        <p><b>Active:</b> 6,717 | <b>Inactive:</b> 171</p>
+        <p><b>Resources tracked:</b> 7,215</p>
+        <p><b>Active:</b> 7,031 | <b>Inactive:</b> 184</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 27,619</p>
+        <p><b>Archive Files:</b> 28,163</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-24 18:56 IST</p>
+        <p><b>Last Update:</b> 2026-06-24 21:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[Medium](ai/rag/medium.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Qwen-AgentWorld: Language World Models for General Agents](ai/community/arxiv-2606-24597.md)** • <kbd>+154 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Atlassian Community Events Community-Led Classes](ai/rag/atlassian-community-events-community-led-classes.md)** • Rank: <kbd>+776</kbd>
+- 🔼 **[The Best Assets for Game Making | Unity Asset Store](ai/rag/the-best-assets-for-game-making-unity-asset-store.md)** • Rank: <kbd>+1016</kbd>
+- 🔼 **[Python Packaging Authority — PyPA documentation](ai/resources/python-packaging-authority-pypa-documentation.md)** • Rank: <kbd>+1135</kbd>
+- 🔼 **[Atlassian Documentation | Atlassian Support | Atlassian Documentation](ai/resources/atlassian-documentation-atlassian-support-atlassia.md)** • Rank: <kbd>+994</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral](ai/companies/mistral/introducing-search-toolkit.md)** • Score: `0`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md)** • Score: `157`
+- 🆕 **[Minimus container images are now free](ai/community/minimus-container-images-are-now-free.md)** • Score: `86`
+- 🆕 **[RubyLLM: A single, beautiful Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • Score: `10`
+- 🆕 **[Antora](ai/resources/antora.md)** • Score: `0`
+- 🆕 **[Version Control with Subversion](ai/resources/version-control-with-subversion.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The Low-Tech AI of Elden Ring](ai/community/the-low-tech-ai-of-elden-ring.md)**
+- 💤 **[Show HN: RLM-based local debugger for AI agent traces](ai/community/context-labs-halo.md)**
+- 💤 **[shanraisshan/claude-code-best-practice](ai/agents/shanraisshan-claude-code-best-practice.md)**
+- 💤 **[anthropics/claude-plugins-official](ai/trending/anthropics-claude-plugins-official.md)**
+- 💤 **[garrytan/gstack](ai/trending/garrytan-gstack.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

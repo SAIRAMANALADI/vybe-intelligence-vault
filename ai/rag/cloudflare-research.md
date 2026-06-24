@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com
-published_at: '2026-06-24T10:27:31.209876+05:30'
-collected_at: '2026-06-24T10:27:31.209888+05:30'
+published_at: '2026-06-24T20:41:08.724742+05:30'
+collected_at: '2026-06-24T20:41:08.724756+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-06-24T10:27:31.209888+05:30'
-last_seen: '2026-06-24T10:27:31.209888+05:30'
-last_checked: '2026-06-24T10:27:31.209888+05:30'
+first_seen: '2026-06-24T20:41:08.724756+05:30'
+last_seen: '2026-06-24T20:41:08.724756+05:30'
+last_checked: '2026-06-24T20:41:08.724756+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight**: Lossless MLP weight compression system achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** for LLM inference on NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Lossless MLP weight compression system for LLM inference, achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** in X.509 PKI, defining algorithm identifiers for post-quantum cryptographic key exchange.
+- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** algorithm identifiers in **X.509 PKI**, enhancing post-quantum cryptographic interoperability.
 
-- **Research Focus Areas**: Cloudflare targets **privacy-enhancing tech, cryptographic/security advancements, next-gen protocols (HTTP/3), distributed system resilience, and open internet measurement standards**.
+- **Research Focus Areas**: Cloudflare’s initiatives span **privacy-enhancing technologies**, **cryptographic/security advancements**, **next-gen network protocols (HTTP/3)**, **distributed system resilience**, and **open internet measurement frameworks**.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:27:31.209876+05:30
+- Published: 2026-06-24T20:41:08.724742+05:30
 
 ## Related Tags
 

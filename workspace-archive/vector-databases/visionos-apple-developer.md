@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Spatial Computing Architecture**: visionOS supports dynamic transitions between windows, 3D volumes (via RealityKit/Unity), and immersive Full Spaces, enabling apps to blend digital content with physical surroundings or create fully isolated experiences.
+- **Spatial Computing Architecture**: visionOS supports multi-modal spatial experiences via **Windows** (2D SwiftUI views with optional 3D depth), **Volumes** (3D SwiftUI scenes rendered via RealityKit/Unity in Shared or Full Space), and **Spaces** (Shared Space for multi-app environments or Full Space for immersive, app-exclusive experiences).
 
-- **Core Frameworks & Integration**: SwiftUI provides native support for 3D depth, gestures, and spatial scenes, while RealityKit handles real-time 3D rendering with MaterialX-based shaders; ARKit enables advanced spatial tracking (plane es
+- **Core Frameworks & Integration**: Development leverages **SwiftUI** (with new 3D/depth APIs) for UI, **RealityKit** (MaterialX-compliant 3D rendering
 
 ## Use Cases
 

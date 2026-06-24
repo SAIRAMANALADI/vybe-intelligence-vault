@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Prerequisites**: Requires Dart SDK 3.10.0+ for Genkit integration.
-- **Setup & Installation**: Initialize a Dart project (`dart create -t console-simple my_genkit_app`), install Genkit CLI (`curl -sL cli.genkit.dev | bash`), and add dependencies (`genkit`, `genkit_google_genai`, `schemantic`, `dev:build_runner`).
-- **Flow Definition**: Define structured input/output schemas using `@Schema`, configure the `gemini-flash-latest` model, and deploy a type-safe flow for AI-driven content generatio
+- **Setup & Installation**: Install Genkit CLI (`curl -sL cli.genkit.dev | bash`) and Dart packages (`genkit`, `genkit_google_genai`, `schemantic`, `dev:build_runner`).
+- **Flow Definition**: Define type-safe input/output schemas using `@Schema`, configure `gemini-flash-latest` model, and deploy flows via `build_runner` and Genkit Dev UI (`genkit start -- dart run`).
 
 ## Use Cases
 

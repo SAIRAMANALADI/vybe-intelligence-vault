@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai
-published_at: '2026-06-23T09:57:24.906251+05:30'
-collected_at: '2026-06-23T09:57:24.906262+05:30'
+published_at: '2026-06-24T20:44:35.362006+05:30'
+collected_at: '2026-06-24T20:44:35.362019+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-ai-voice-ai-research-lab
-first_seen: '2026-06-23T09:57:24.906262+05:30'
-last_seen: '2026-06-23T09:57:24.906262+05:30'
-last_checked: '2026-06-23T09:57:24.906262+05:30'
+first_seen: '2026-06-24T20:44:35.362019+05:30'
+last_seen: '2026-06-24T20:44:35.362019+05:30'
+last_checked: '2026-06-24T20:44:35.362019+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody support.
+- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, fine-grained emotion control, zero-shot voice cloning (10s reference audio), and SSML prosody support across expanding languages.
 
-- **Multilingual synthesis** across 30+ locales with native pronunciation/prosody, leveraging locale-specific voice recordings and automatic mixed-language input handling.
+- **Zero-shot voice cloning** captures speaker identity (timbre, cadence, micro-expressions) from ≤10s clips, while **emotion control** modulates prosody (rhythm, tone) to synthesize neutral, happy, sad, excited, calm, or custom emotional states.
 
-- **Unified API** for streaming, voice cloning, and emotion control, enabling programmatic access via REST calls with minimal code (e.g., `curl` example for MP3 output).
+- **Multilingual synthesis** supports 30+ locales with native-quality voices, automatic mixed-language handling, and a unified API for streaming, cloning, and emotion control via minimal code integration.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:57:24.906251+05:30
+- Published: 2026-06-24T20:44:35.362006+05:30
 
 ## Related Tags
 

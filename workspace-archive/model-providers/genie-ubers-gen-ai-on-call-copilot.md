@@ -2,13 +2,13 @@
 title: 'Genie: Uber’s Gen AI On-Call Copilot'
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.uber.com/gb/en/blog/genie-ubers-gen-ai-on-call-copilot
+source_url: https://www.uber.com/en-GB/blog/genie-ubers-gen-ai-on-call-copilot
 resource_id: blog:genie-ubers-gen-ai-on-call-copilot
 local_vault_path: ai/rag/genie-ubers-gen-ai-on-call-copilot.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -23,7 +23,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Genie: Uber’s Gen AI On-Call Copilot
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Genie Architecture**: Uber’s Gen AI on-call copilot (Genie) uses **Retrieval-Augmented Generation (RAG)** with OpenAI embeddings stored in a vector database (Sia) to answer ~45K monthly Slack questions, replacing manual on-call engineer responses with automated, context-aware replies.
+- **Genie Architecture**: Uber’s on-call copilot uses **Retrieval-Augmented Generation (RAG)** with OpenAI embeddings stored in a vector database (Sia) to answer ~45K monthly Slack questions, replacing slow manual responses with automated, context-aware replies.
 
-- **ETL Pipeline**: A **Spark-based ETL** processes internal data sources (Engwiki, Stack Overflow) into chunked embeddings, stored in Terrablob and indexed via a bootstrap job, enabling real-time retrieval fo
+- **ETL Pipeline**: A **PySpark-based ETL** ingests data from Uber’s internal wiki (Engwiki) and Stack Overflow, chunks content via LangChain, generates embeddings with OpenAI models, and pushes vectors to Terrablob for retrieval during
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.uber.com/gb/en/blog/genie-ubers-gen-ai-on-call-copilot
+Original source URL: https://www.uber.com/en-GB/blog/genie-ubers-gen-ai-on-call-copilot
 
 ## Local Vault File
 

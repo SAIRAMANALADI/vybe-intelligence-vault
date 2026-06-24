@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - hackernews
-- models
 - openai
 - rag
 - reddit
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Spring Boot Thread Synchronization**: Implement `CountDownLatch` or `CompletableFuture` in Spring Boot to pause thread execution until a Firebase notification is sent, then resume with a 10-second delay.
-- **Firebase App Hosting Image Handling**: Configure Next.js `next.config.js` to include `assetPrefix` and `publicRuntimeConfig` for static assets when deploying to Firebase App Hosting.
-- **Firebase Project Permissions**: Resolve `403 PERMISSION_DENIED` by granting the Firebase service acco
+- **Spring Boot Thread Synchronization**: Implement `CountDownLatch` or `CompletableFuture` in Spring Boot to block a thread until a Firebase notification is sent, ensuring thread-safe async operations.
+- **Firebase App Hosting Image Handling**: Configure Next.js `next.config.js` to rewrite static asset paths (`/images/**`) to Firebase Storage/CDN endpoints to resolve broken image links in Firebase App Hosting.
+- **Firebase Project Permissions**: Resolve `403 PERMISSION_DENIED` errors by grantin
 
 ## Use Cases
 

@@ -11,13 +11,14 @@ tags:
 - anthropic
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:mukul975/anthropic-cybersecurity-skills
 first_seen: '2026-06-21T20:19:14.646224+05:30'
 last_seen: '2026-06-24T10:06:14.482234+05:30'
 last_checked: '2026-06-24T10:06:14.482234+05:30'
 health_score: 100
 ---
+
 
 # mukul975/Anthropic-Cybersecurity-Skills
 

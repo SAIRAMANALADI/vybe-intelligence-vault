@@ -2,7 +2,7 @@
 title: 24*I:cset_awesome*
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://university.atlassian.com/student/catalog/list?category_ids=21559-content-by-product&utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:university*C:community*W:newproducts*H:11/21/24*I:cset_awesome*
+source_url: https://university.atlassian.com/student/activity/2227811-all-learning-paths?utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:community*C:community*W:newpaths*H:11/20/24*I:cset_awesome*
 resource_id: blog:24-i-cset-awesome
 local_vault_path: ai/agents/24-i-cset-awesome.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Atlassian University** offers structured learning paths, certifications, and live training for Atlassian tools (Jira, Confluence, Jira Service Management) across skill levels, from bite-sized modules to in-depth courses.
-- **AI Prompt Engineering** is highlighted in dedicated lessons, emphasizing techniques to optimize AI outputs for Atlassian tools like Rovo AI.
-- **Career Growth Resources** include role-specific hubs (e.g., Developers, IT Support) and global certifications to validate expe
+- **Atlassian University** offers structured learning paths, certifications, and live training for Atlassian tools (Jira, Confluence, Jira Service Management) to enhance technical proficiency and career advancement.
+- **AI Prompt Engineering Guidance** provides best practices for optimizing AI outputs, enabling users to refine workflows and improve productivity in Atlassian environments.
+- **Community & Career Resources** include peer-led classes, career hubs, and expert testimonials, supporting
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://university.atlassian.com/student/catalog/list?category_ids=21559-content-by-product&utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:university*C:community*W:newproducts*H:11/21/24*I:cset_awesome*
+Original source URL: https://university.atlassian.com/student/activity/2227811-all-learning-paths?utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:community*C:community*W:newpaths*H:11/20/24*I:cset_awesome*
 
 ## Local Vault File
 

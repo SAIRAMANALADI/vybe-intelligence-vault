@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid AI-Human Pentesting**: Synack combines **Sara AI Pentesting** (autonomous vulnerability detection/prioritization) with **Synack Red Team (SRT)** (1,500+ vetted security researchers) for continuous, validated security testing at scale.
+- **Synack Platform**: Combines AI-driven tools (e.g., Sara AI Pentesting) with human expertise (Synack Red Team, 1,500+ researchers) for continuous, scalable penetration testing across web apps, hosts, cloud, and APIs.
 
-- **Platform Capabilities**: Offers **on-demand researcher access**, **vulnerability management**, **AI-driven attack surface validation**, and **third-party integrations** (e.g., API/cloud/application testing, compliance checks).
+- **Performance Metrics**: Reports 32% lower pentesting costs, 22 days saved per test, 35 hours saved for security teams, and 47% faster vulnerability remediation.
 
-- **Performance Metri
+- **Attack Surface Management**: Provides real-time validation of vulnerabilities (e.g., broken access controls) a
 
 ## Use Cases
 

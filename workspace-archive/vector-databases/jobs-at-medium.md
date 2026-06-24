@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **No active job postings** at Medium as of the article's publication date.
-- **Job alert feature** available for users to receive notifications for future openings via email.
-- **Medium's mission** remains focused on building a premier platform for reading and writing content online.
+- **No active job openings** at Medium as of the latest update.
+- **Job alert system** available for users to receive notifications for future opportunities.
+- **Medium’s mission** remains focused on building the optimal platform for reading and writing online.
 
 ## Use Cases
 

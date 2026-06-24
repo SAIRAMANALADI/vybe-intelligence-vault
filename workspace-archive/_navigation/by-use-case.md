@@ -25,14 +25,14 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Document Knowledge base & Search (RAG)
 
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `rag-systems` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `rag-systems` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `rag-systems` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `rag-systems` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 
 ## Model Selection, Inference & Cost Profiling
 
@@ -43,11 +43,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `model-providers` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `model-providers` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (Category: `model-providers` | [`Local File`](../../ai/trending/anthropics-claude-plugins-official.md))
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `model-providers` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 
 ## Production Auditing & Prompt Injection Protection
 
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
@@ -55,6 +54,7 @@ This index groups resources by direct developer use-cases and design goals.
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Welcome to Oversight.gov | Oversight.gov](https://oversight.gov) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/welcome-to-oversight-gov-oversight-gov.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 
 ## Script Automations & External API Integration
 
@@ -93,12 +93,12 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (Category: `learning-paths` | [`Local File`](../../ai/rag/unity-essentials-pathway-learn-game-development-fo.md))
+- [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (Category: `learning-paths` | [`Local File`](../../ai/research/arxiv-2507-16696.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Category: `project-ideas` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11214.md))
-- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 
 ---
-*Last updated: 2026-06-24 12:07 IST*
+*Last updated: 2026-06-24 21:20 IST*

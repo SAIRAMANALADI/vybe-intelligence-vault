@@ -2,7 +2,7 @@
 title: The Medium Blog
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog?source=collection_home_page
 resource_id: blog:the-medium-blog
 local_vault_path: ai/rag/the-medium-blog.md
 quality_score: 70
@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Medium's sitemap.xml** provides structured indexing for SEO, listing all public-facing URLs (e.g., `/blog`, `/search`, `/about`) for crawlers.
-- **Medium's navigation** integrates authentication flows (`/signin`, `/register`) with OAuth2 redirects, supporting both web and mobile app (`com.medium.reader`) access.
-- **Medium's footer** includes links to platform policies (Privacy, Terms, Rules), support (`/help`), and monetization paths (Newsletter, Store).
+- Medium's sitemap (`/sitemap.xml`) provides structured XML-based navigation for SEO indexing, including links to posts, collections, and static pages.
+- The platform supports OAuth-based authentication via `/m/signin` with redirect URIs for seamless session management across web and mobile apps.
+- Medium's blog (`/blog`) aggregates content from 5+ editors, categorized under topics like *Product News* and *Latest*, with a weekly newsletter subscription option.
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.medium.com/?source=post_page
+Original source URL: https://medium.com/blog?source=collection_home_page
 
 ## Local Vault File
 

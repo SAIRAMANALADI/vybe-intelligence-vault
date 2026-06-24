@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Rayfin**: Fully managed, agent- and code-optimized backend-as-a-service (BaaS) available on Microsoft Fabric or via SDK, designed for enterprise-scale AI systems.
+- **Rayfin**: Fully managed, agent- and code-optimized backend-as-a-service (BaaS) on Microsoft Fabric or via SDK, designed for enterprise-scale AI systems.
 
-- **Azure HorizonDB**: PostgreSQL-based cloud database service engineered for ultra-low latency, scalable reads, and built-in AI integration to support mission-critical applications.
+- **Azure HorizonDB**: PostgreSQL-based cloud database service engineered for ultra-low latency, scalable reads, and built-in AI integration, enabling mission-critical app scalability.
 
-- **Foundry IQ**: AI-powered agentic layer that unifies organizational data, enabling agents to deliver superior, grounded results at enterprise sca
+- **Foundry IQ**: AI-powered knowledge integration service that unifies organizational data to provide contextual grounding for agents, improving trust and
 
 ## Use Cases
 

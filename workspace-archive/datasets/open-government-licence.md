@@ -8,7 +8,7 @@ local_vault_path: ai/rag/open-government-licence.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: high
 tags:
 - dataset
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Open Government Licence
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Global, royalty-free usage rights**: Grants worldwide, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under specified conditions, including attribution requirements.
+- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Exclusions and limitations**: Excludes personal data, unpublished/unreleased information, logos, military insignia, third-party rights, and specific identity documents; prohibits use implying official endorsement.
-
-- **Legal framework and compliance**: Governed by jurisdict
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests (unless integral), mi
 
 ## Use Cases
 

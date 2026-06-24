@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:context-labs/halo
 first_seen: '2026-06-24T10:06:15.659518+05:30'
 last_seen: '2026-06-24T10:06:15.659518+05:30'
 last_checked: '2026-06-24T10:06:15.659518+05:30'
 health_score: 100
 ---
+
 
 # Show HN: RLM-based local debugger for AI agent traces
 

@@ -7,7 +7,7 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -40,9 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling, integrating Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for vectorization, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and complex reasoning beyond static LLM outputs.
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (via `Retrieval Chain`) only when additional context is required, combining LLM reasoning with tool-based retrieval for enhanced accuracy.
 
-- **Pipeline Workflow**: Implements a Retrieval Chain where user prompts are embedded, searched in a vector database, reranked, and fed into the LLM—aug
+- **NVIDIA Nemotron Model Stack**: Integrates `Nemotron Nano 9b V2` (response generation), `Llama 3.2 EmbedQA 1b V2` (document embedding), and `Llama 3.2 RerankQA 1b V2` (document reranking) for end-to-end RAG workflows.
+
+- **NVIDIA
 
 ## Use Cases
 

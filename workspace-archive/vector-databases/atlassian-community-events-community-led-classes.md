@@ -6,10 +6,10 @@ source_url: https://ace.atlassian.com/community-led-classes
 resource_id: blog:atlassian-community-events-community-led-classes
 local_vault_path: ai/rag/atlassian-community-events-community-led-classes.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - hackernews
 - producthunt
@@ -26,16 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Free instructor-led Atlassian training**: Community-Led Classes offers no-cost, live sessions covering Jira, Confluence, and Atlassian apps, delivered by expert community members and champions.
-- **Structured certification pathways**: Provides guided study sessions (e.g., ACA-900, ACP-120) and self-paced courses via Atlassian University for role-specific certifications.
-- **Global community-driven events**: Hosts virtual/regional events (e.g., Assets Masterclass, Jira Service Management for
+- **Free instructor-led Atlassian training** leveraging community expertise for Jira, Confluence, and Atlassian ecosystem tools, targeting all skill levels via live sessions and self-paced modules.
+
+- **Structured certification pathways** including ACA-900 (Jira Essentials) and ACP-120 (Cloud Admin), with exam-focused workshops and bulk-editing/JQL deep dives.
+
+- **Community-driven events** featuring expert-led sessions (e.g., Jira Service Management optimization, legacy Server/DC migration insi
 
 ## Use Cases
 

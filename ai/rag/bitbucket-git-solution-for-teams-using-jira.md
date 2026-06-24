@@ -3,9 +3,9 @@ title: Bitbucket | Git solution for teams using Jira
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://bitbucket.org/product
-published_at: '2026-06-22T15:20:05.623804+05:30'
-collected_at: '2026-06-22T15:20:05.623821+05:30'
+source_url: https://bitbucket.org
+published_at: '2026-06-24T21:17:35.556324+05:30'
+collected_at: '2026-06-24T21:17:35.556338+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:bitbucket-git-solution-for-teams-using-jira
-first_seen: '2026-06-22T15:20:05.623821+05:30'
-last_seen: '2026-06-22T15:20:05.623821+05:30'
-last_checked: '2026-06-22T15:20:05.623821+05:30'
+first_seen: '2026-06-24T21:17:35.556338+05:30'
+last_seen: '2026-06-24T21:17:35.556338+05:30'
+last_checked: '2026-06-24T21:17:35.556338+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-augmented SDLC**: Atlassian integrates AI across the software development lifecycle (SDLC) with capabilities including AI-powered code search, chat, automated code review, pipeline triage, and Jira updates to reduce cycle times and enhance developer productivity.
+- **AI-powered DevOps lifecycle**: Integrates AI across planning, code review, CI/CD pipelines, and Jira updates to reduce cycle times, automate pipeline triage, and enforce governance policies (e.g., coding standards, CI/CD policies) via the Teamwork Graph for contextualized responses.
 
-- **Connected DevOps platform**: Bitbucket natively integrates with Jira and Jira Service Management, enabling seamless traceability from planning to production with minimal context switching, supported by the Teamwork Graph for contextual AI responses.
+- **Unified Jira-Bitbucket CI/CD**: Native Jira integration enables automated issue tracking, PR-to-Jira linkage, and deployment traceability, while Bitbucket Pipelines supports scalable, automated workflows with granular permissions (workspace/repo/branch/environment-level).
 
-- **Governance & security**: Enforces coding standards, CI/CD policies, and change management workflows at scale with granular permissions (workspace/project/repo/branch/environment levels) and shift-left security integrations for compliance and secure software delivery.
+- **Security & compliance framework**: Enforces code compliance via customizable merge checks, integrates shift-left security tools, and provides centralized CI/CD visibility with hosted/private runners, ensuring secure, auditable software delivery.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:20:05.623804+05:30
+- Published: 2026-06-24T21:17:35.556324+05:30
 
 ## Related Tags
 
@@ -60,4 +60,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://bitbucket.org/product
+Original source: https://bitbucket.org

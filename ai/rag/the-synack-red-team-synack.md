@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://synack.com/red-team
-published_at: '2026-06-22T11:38:05.176456+05:30'
-collected_at: '2026-06-22T11:38:05.176466+05:30'
+published_at: '2026-06-24T21:16:57.047218+05:30'
+collected_at: '2026-06-24T21:16:57.047230+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-synack-red-team-synack
-first_seen: '2026-06-22T11:38:05.176466+05:30'
-last_seen: '2026-06-22T11:38:05.176466+05:30'
-last_checked: '2026-06-22T11:38:05.176466+05:30'
+first_seen: '2026-06-24T21:16:57.047230+05:30'
+last_seen: '2026-06-24T21:16:57.047230+05:30'
+last_checked: '2026-06-24T21:16:57.047230+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Synack Platform**: Combines AI-driven **Sara Autonomous Red Agent** with **1,500+ vetted SRT researchers** for continuous, scalable pentesting, integrating vulnerability management, reporting, and third-party integrations (e.g., API/cloud/app testing, compliance checks).
+- **Synack Platform**: Combines AI-driven vulnerability discovery (via **Sara AI Pentesting**) with a curated **Synack Red Team (SRT)** of 1,500+ vetted security researchers for continuous, scalable penetration testing, vulnerability management, and reporting.
 
-- **Hybrid Security Model**: Merges **agentic AI** (automated vulnerability discovery/prioritization) with **human expertise** (manual validation, social engineering, active offense) to deliver enterprise-grade offensive security beyond traditional bug bounties.
+- **SRT Vetting & Earning Model**: Multi-stage vetting (resume review, technical assessment, background checks) ensures elite researcher quality; compensation includes per-vulnerability bounties, hourly mission payouts, and mentorship opportunities with flexible, global remote access.
 
-- **Researcher Ecosystem**: Curated via **5-step vetting** (resume, technical assessment, background check, interview, training), offering flexible income streams (missions, bounties, mentorship) with **52k+ annual tests** and legal protections for global ethical hackers.
+- **Enterprise Solutions**: Offers **AI + human-powered pentesting** for industries (financial, public sector, retail) with specialized services (API/cloud testing, compliance audits, social engineering) and integrations via **Synack’s Autonomous Red Agent (Sara)** and third-party security tool partnerships.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:38:05.176456+05:30
+- Published: 2026-06-24T21:16:57.047218+05:30
 
 ## Related Tags
 

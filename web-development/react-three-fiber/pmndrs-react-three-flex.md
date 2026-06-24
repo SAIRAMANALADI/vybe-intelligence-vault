@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-three-flex
-collected_at: '2026-06-16T17:27:23.737288+05:30'
-published_at: '2026-06-02T20:52:38Z'
+collected_at: '2026-06-24T20:38:08.550204+05:30'
+published_at: '2026-06-24T12:35:37Z'
 tags:
 - frontend_ui
 - threejs
-stars: 1734
+stars: 1735
 language: TypeScript
 status: active
 resource_id: github:pmndrs/react-three-flex
 first_seen: '2026-06-12T10:40:15.865506+00:00'
-last_seen: '2026-06-16T17:27:23.737288+05:30'
-last_checked: '2026-06-16T17:27:23.737288+05:30'
+last_seen: '2026-06-24T20:38:08.550204+05:30'
+last_checked: '2026-06-24T20:38:08.550204+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 1734
+- Stars: 1735
 - Forks: 43
 - Language: TypeScript
 - Topics: 3d, flex, flexbox, r3f, react, react-three-fiber, three, yoga, yoga-layout
-- Last Updated: 2026-06-02T20:52:38Z
+- Last Updated: 2026-06-24T12:35:37Z
 
 ## Possible Use Cases
 

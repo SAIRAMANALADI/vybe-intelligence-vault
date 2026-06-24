@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog?source=collection_home_page
 resource_id: blog:the-medium-blog
------d10bb5769280---------------------------------------
-published_at: '2026-06-24T10:11:36.488681+05:30'
-collected_at: '2026-06-24T10:11:36.488693+05:30'
+----15f753907972----------------------------------------
+published_at: '2026-06-24T20:45:52.090876+05:30'
+collected_at: '2026-06-24T20:45:52.090889+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-24T10:11:36.488693+05:30'
-last_seen: '2026-06-24T10:11:36.488693+05:30'
-last_checked: '2026-06-24T10:11:36.488693+05:30'
+first_seen: '2026-06-24T20:45:52.090889+05:30'
+last_seen: '2026-06-24T20:45:52.090889+05:30'
+last_checked: '2026-06-24T20:45:52.090889+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Medium's sitemap.xml** provides structured indexing for SEO, listing all public-facing URLs (e.g., `/blog`, `/search`, `/about`) for crawlers.
-- **Medium's navigation** integrates authentication flows (`/signin`, `/register`) with OAuth2 redirects, supporting both web and mobile app (`com.medium.reader`) access.
-- **Medium's footer** includes links to platform policies (Privacy, Terms, Rules), support (`/help`), and monetization paths (Newsletter, Store).
+- Medium's sitemap (`/sitemap.xml`) provides structured XML-based navigation for SEO indexing, including links to posts, collections, and static pages.
+- The platform supports OAuth-based authentication via `/m/signin` with redirect URIs for seamless session management across web and mobile apps.
+- Medium's blog (`/blog`) aggregates content from 5+ editors, categorized under topics like *Product News* and *Latest*, with a weekly newsletter subscription option.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:11:36.488681+05:30
+- Published: 2026-06-24T20:45:52.090876+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------
+Original source: https://medium.com/blog?source=collection_home_page----15f753907972----------------------------------------

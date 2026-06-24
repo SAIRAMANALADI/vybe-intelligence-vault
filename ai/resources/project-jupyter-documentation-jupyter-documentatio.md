@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-06-24T10:24:23.620742+05:30'
-collected_at: '2026-06-24T10:24:23.620755+05:30'
+published_at: '2026-06-24T21:05:56.767424+05:30'
+collected_at: '2026-06-24T21:05:56.767437+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-24T10:24:23.620755+05:30'
-last_seen: '2026-06-24T10:24:23.620755+05:30'
-last_checked: '2026-06-24T10:24:23.620755+05:30'
+first_seen: '2026-06-24T21:05:56.767437+05:30'
+last_seen: '2026-06-24T21:05:56.767437+05:30'
+last_checked: '2026-06-24T21:05:56.767437+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks (e.g., Jupyter Notebook, JupyterLab), supporting code execution, rich visualizations, and narrative documentation in a single document format.
+- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
 
-- **Sub-projects and tools**: Includes user interfaces (e.g., JupyterLite, Voilà), kernels (e.g., IPython, IRkernel), deployment tools (e.g., JupyterHub, Docker Stacks), and utilities for notebook management (e.g., nbconvert, nbformat, nbclient).
+- **Core components**: Includes JupyterLab (advanced IDE), Jupyter Notebook (lightweight interface), kernels (e.g., IPython, IRkernel), and tools for notebook lifecycle management (nbconvert, nbformat, nbclient).
 
-- **Architecture and standards**: Defined by the Jupyter Messaging Protocol (via `jupyter-client`), notebook format specification (`nbformat`), and modular components like `jupyter-server` and `jupyterlab-server` for extensibility and interoperability.
+- **Sub-projects & deployment**: Encompasses JupyterHub (multi-user server), JupyterLite (browser-based), widgets (ipywidgets), AI integrations (jupyter-ai), and deployment solutions (Docker, Kubernetes, Enterprise Gateway).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:24:23.620742+05:30
+- Published: 2026-06-24T21:05:56.767424+05:30
 
 ## Related Tags
 

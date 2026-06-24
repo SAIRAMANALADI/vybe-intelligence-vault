@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Distributed/GPU Array Support**: Leverage NumPy's `__array_function__` and `__array_ufunc__` protocols to enable SciPy functions to accept distributed (e.g., `dask.array.Array`) and GPU arrays (e.g., `cupy.ndarray`). Map and improve algorithm compatibility and performance for these array types.
+- **Distributed/GPU Array Support**: SciPy aims to leverage NumPy's `__array_function__` and `__array_ufunc__` protocols to enable compatibility with distributed (e.g., Dask) and GPU arrays (e.g., CuPy), with performance mapping and optimization for SciPy algorithms.
 
-- **Performance Enhancements**: Adopt multiprocessing via the `workers` keyword API, integrate Numba’s `@njit` for JIT compilation, and optimize specific functions (e.g., in `scipy.optimize` and `sci
+- **Performance Enhancements**: SciPy targets speed, memory efficiency, and parallelization via multiprocessing (`workers` keyword), Numba JIT integration (e.g., Transonic), and targeted optimizations in `scipy.optimize` and `scipy
 
 ## Use Cases
 

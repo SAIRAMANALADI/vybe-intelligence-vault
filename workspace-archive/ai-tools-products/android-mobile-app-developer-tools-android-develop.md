@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Android 17 (API 37) released**: Source code available on AOSP; rolling out to supported Pixel devices; requires app updates for compatibility.
-- **Android XR platform updates**: Expanded engine support and new resources for building, testing, and scaling XR experiences across devices.
-- **Android SDK License Agreement (v2026.1.1)**: Grants limited, royalty-free license for app development; prohibits reverse engineering, unauthorized use, or distribution of SDK components.
+- **Android 17**: Source code released on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app readiness.
+- **Android XR & AI Integration**: Expanded engine support and tools for XR development; Android evolving into an intelligence system for building intelligent experiences.
+- **SDK License Agreement**: Grants limited, royalty-free license for Android app development; prohibits reverse engineering, derivative works, or unauthorized use; Google retains all IP
 
 ## Use Cases
 

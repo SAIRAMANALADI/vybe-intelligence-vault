@@ -30,8 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Subscription Management**: Access subscription details (plan, billing period, payment info) via **Settings > Membership and payment**; update credit card details directly or via PayPal/iTunes/Google Play for store-based subscriptions.
-- **Plan Modification & Cancellation**: Change subscription tiers (monthly/annual) via **Settings** or store-specific flows (iTunes: *Settings > [name] > iTunes & App Store > Subscriptions*; Google Play: *Payments & subscriptions > Subscriptions*); cancel via *
+- **Accessing Subscription Details**: View/edit subscription plan, billing period, and payment info via **Settings > Membership and payment** (web/iOS/Android); credit card updates done here, while PayPal/iTunes/Google Play require external store management.
+
+- **Plan Modification & Cancellation**: Change billing frequency (monthly/annual) via **Settings > Membership and payment** (web) or store-specific flows (iTunes: *Settings > [Name] > iTunes & App Store > Subscriptions*; Google Play: *Profi
 
 ## Use Cases
 
