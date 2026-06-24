@@ -1,27 +1,27 @@
 ---
 title: "multiplex-ai/muggle-ai-works"
 category: "Tooling"
-tech_stack: ["TypeScript", "Node.js", "Electron", "MCP (Model Context Protocol)", "Playwright", "React", "Cloud Services"]
+tech_stack: ["TypeScript", "Node.js", "Electron", "MCP (Model Context Protocol)", "Playwright", "React", "npm"]
 quality_score: 9
 rag_relevance: 8
 tags: ["E2E testing", "AI agent integration", "browser automation", "acceptance testing", "CI/CD"]
 source: "https://github.com/multiplex-ai/muggle-ai-works"
-discovered_at: "2026-06-24T18:57:58Z"
+discovered_at: "2026-06-24T22:19:29Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-muggle-ai-works enables AI coding agents to execute real-browser end-to-end acceptance tests on web applications by generating test scripts from plain English prompts, replaying them, and validating user flows like signup and checkout. It integrates with AI coding assistants like Claude Code and Cursor to automate testing and reporting.
+muggle-ai-works enables AI coding agents to execute real-browser end-to-end acceptance tests on web applications by generating test scripts from plain English, replaying them, and validating user flows like signup or checkout. It integrates with popular AI coding tools like Claude Code and Cursor to automate testing workflows.
 
 ## Key Features
 - Generates test scripts from plain English prompts for AI coding agents
-- Supports real-browser execution with screenshot capture and validation
-- Integrates with popular AI coding assistants (Claude Code, Cursor, Codex, Windsurf)
-- Provides 70+ MCP tools for custom E2E workflows and automation
-- Autonomous dev pipeline from requirements to PR with E2E acceptance testing
+- Supports real-browser execution with screenshot capture and failure reporting
+- Integrates with AI coding tools like Claude Code, Cursor, and Windsurf via MCP
+- Provides 70+ MCP tools for custom E2E acceptance testing workflows
+- Autonomous dev pipeline (`/muggle:muggle-do`) for requirements-to-PR automation
 
 ## Why It Matters for RAG Builders
-It bridges the gap between AI-generated code and real-world functionality by enabling automated, real-browser E2E testing directly from AI coding agents, ensuring deployed features work as intended.
+It bridges the gap between AI-generated code and real-world functionality by enabling AI agents to autonomously validate user flows in real browsers, ensuring deployed features actually work as intended.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,8 +42,8 @@ Automated review identified **Playwright** as a key module contributing to infra
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cloud Services
-Automated review identified **Cloud Services** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
