@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-24 23:31 IST</p>
+        <p><b>Last Update:</b> 2026-06-25 00:29 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,27 +55,23 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • <kbd>+167 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](ai/rag/haystack-haystack.md)** • <kbd>+60 pts</kbd> • Rank: <kbd>+401</kbd>
-- 🔼 **[Add-ons for Firefox (en-US)](ai/resources/add-ons-for-firefox-en-us.md)** • Rank: <kbd>+2057</kbd>
-- 🔼 **[Open Policy & Advocacy - Mozilla's official blog on open Internet policy initiatives and developments](ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md)** • Rank: <kbd>+1228</kbd>
-- 🔼 **[Get Firefox for desktop and mobile — Firefox.com](ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md)** • Rank: <kbd>+2068</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Medium - Apps on Google Play](ai/rag/medium-apps-on-google-play.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[OpenAI and Broadcom unveil LLM-optimized inference chip](ai/community/openai-and-broadcom-unveil-llm-optimized-inference.md)** • Score: `116`
-- 🆕 **[Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"](ai/community/boffin-claims-microsoft-s-quantum-leap-is-invalid.md)** • Score: `72`
-- 🆕 **[For Most of the World, Open-Source AI Is the Only Way Forward](ai/community/for-most-of-the-world-open-source-ai-is-the-only-w.md)** • Score: `45`
-- 🆕 **[PR spam today looks like email spam in the early 2000s](ai/community/pr-spam-today-looks-like-email-spam-in-the-early-2.md)** • Score: `31`
-- 🆕 **[CAPTCHAs have failed for 20 years](ai/community/captchas-have-failed-for-20-years.md)** • Score: `31`
+- 🆕 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • Score: `177`
+- 🆕 **[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](ai/rag/haystack-haystack.md)** • Score: `60`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Qwen-AgentWorld: Language World Models for General Agents](ai/community/arxiv-2606-24597.md)**
-- 💤 **[Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md)**
-- 💤 **[Minimus container images are now free](ai/community/minimus-container-images-are-now-free.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
