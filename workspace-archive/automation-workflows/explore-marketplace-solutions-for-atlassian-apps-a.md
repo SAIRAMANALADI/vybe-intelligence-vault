@@ -12,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - rag
-- reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -36,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Marketplace Integration**: Atlassian Marketplace provides curated apps to extend functionality across project management, AI, admin tools, and DevOps workflows within Atlassian ecosystems (e.g., Jira, Confluence).
+- **Atlassian Rovo** integrates AI-driven agents to enhance app functionality within the Atlassian ecosystem, enabling automated workflows and intelligent task execution.
 
-- **Specialized Categories**: Apps are organized into technical domains such as **Artificial Intelligence** (productivity automation), **Data & Analytics** (visualization tools), and **Runs on Atlassian** (secure, in-platform data storage solutions).
+- **Admin Tools** category provides specialized applications for user management, security policies, and system configurations, optimizing administrative control and compliance.
 
-- **Developer & Admin Focus**
+- **Runs on Atlassian** collection ensures apps leverage Atlassian’s native infrastructure, guaranteeing secure data storage, seamless integration, a
 
 ## Use Cases
 

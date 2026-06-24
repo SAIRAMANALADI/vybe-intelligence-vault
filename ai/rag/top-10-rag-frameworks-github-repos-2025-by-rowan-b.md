@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-24T20:40:15.830260+05:30'
-collected_at: '2026-06-24T20:40:15.830274+05:30'
+published_at: '2026-06-24T22:50:58.039904+05:30'
+collected_at: '2026-06-24T22:50:58.039916+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-24T20:40:15.830274+05:30'
-last_seen: '2026-06-24T20:40:15.830274+05:30'
-last_checked: '2026-06-24T20:40:15.830274+05:30'
+first_seen: '2026-06-24T22:50:58.039916+05:30'
+last_seen: '2026-06-24T22:50:58.039916+05:30'
+last_checked: '2026-06-24T22:50:58.039916+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines with support for multiple document stores (Elasticsearch, FAISS, SQL) and LLMs (BERT, RoBERTa, DPR), enabling scalable document retrieval, QA, and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines, supporting multi-model integration (BERT, RoBERTa, DPR) and scalable document stores (Elasticsearch, FAISS, SQL) with 14.6k GitHub stars.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine focused on deep document understanding with pre-built RAG pipelines, intuitive workflow design, and integration with vector databases and custom embedding models for streamlined deployment.
+- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, vector DB integration, and a 11.6k-star GitHub repository with a focus on simplicity and efficiency.
 
-- **Canopy (Pinecone-io)**: RAG framework leveraging Pinecone’s vector database for efficient real-time retrieval, advanced query processing, and knowledge base versioning, optimized for scalability and integration with Pinecone’s ecosystem.
+- **txtai (neuml)**: All-in-one AI framework combining semantic search, LLM orchestration, and embeddings DB for multi-language workflows, with 7.5k GitHub stars and extensible architecture for custom pipelines.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:40:15.830260+05:30
+- Published: 2026-06-24T22:50:58.039904+05:30
 
 ## Related Tags
 

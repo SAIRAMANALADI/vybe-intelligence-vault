@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.unity.com
-published_at: '2026-06-24T21:16:46.981819+05:30'
-collected_at: '2026-06-24T21:16:46.981831+05:30'
+published_at: '2026-06-24T23:09:18.277694+05:30'
+collected_at: '2026-06-24T23:09:18.277707+05:30'
 tags:
 - hackernews
 - leaderboard
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:unity-documentation
-first_seen: '2026-06-24T21:16:46.981831+05:30'
-last_seen: '2026-06-24T21:16:46.981831+05:30'
-last_checked: '2026-06-24T21:16:46.981831+05:30'
+first_seen: '2026-06-24T23:09:18.277707+05:30'
+last_seen: '2026-06-24T23:09:18.277707+05:30'
+last_checked: '2026-06-24T23:09:18.277707+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Multiplayer & Networking**: Unity provides integrated tools like **Netcode for GameObjects**, **Unity Transport**, and **Distributed Authority** for scalable multiplayer game development, alongside services for **Friends**, **Leaderboards**, and **Vivox** for real-time communication.
+- **Development & Deployment**: Unity provides cross-platform engine support (2D/3D), API references, and tools like Unity Hub, Asset Store, and multiplayer networking (Netcode for GameObjects/Entities, Unity Transport) for scalable game development and deployment.
 
-- **Monetization & Ads**: Supports **in-app purchasing (IAP)**, **ad mediation via LevelPlay**, and **programmatic ad buying/selling**, with additional tools for **ad quality control**, **Offerwall monetization**, and **analytics-driven optimization**.
+- **User Acquisition & Monetization**: Unity Ads and LevelPlay enable programmatic ad buying/selling, in-app purchasing, and mediation across networks, while Offerwall and Analytics optimize user growth and retention strategies.
 
-- **3D Asset Optimization & Industry Solutions**: **Asset Transformer SDK** enables automated 3D asset import/optimization, while **Unity Studio** offers a no-code web-based editor for interactive 3D applications targeting enterprise and industrial use cases.
+- **Industry Solutions & Optimization**: Unity Studio (web-based editor) and Asset Transformer SDK streamline 3D asset processing, while LiveOps tools (Cloud Save, Remote Config) and DevOps pipelines (Version Control, Build Automation) enhance operational efficiency.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:16:46.981819+05:30
+- Published: 2026-06-24T23:09:18.277694+05:30
 
 ## Related Tags
 

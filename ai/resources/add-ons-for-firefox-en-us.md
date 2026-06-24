@@ -4,17 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources
-published_at: '2026-06-22T10:56:37.048183+05:30'
-collected_at: '2026-06-22T10:56:37.048195+05:30'
+published_at: '2026-06-24T23:27:29.098880+05:30'
+collected_at: '2026-06-24T23:27:29.098893+05:30'
 tags:
+- anthropic
+- openai
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:add-ons-for-firefox-en-us
-first_seen: '2026-06-22T10:56:37.048195+05:30'
-last_seen: '2026-06-22T10:56:37.048195+05:30'
-last_checked: '2026-06-22T10:56:37.048195+05:30'
+first_seen: '2026-06-24T23:27:29.098893+05:30'
+last_seen: '2026-06-24T23:27:29.098893+05:30'
+last_checked: '2026-06-24T23:27:29.098893+05:30'
 health_score: 100
 ---
 
@@ -22,15 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Firefox Add-ons Platform**: Mozilla's official repository hosts extensions, themes, and language packs, accessible via [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/), with support for desktop and Android browsers.
+- **Firefox Add-ons Ecosystem**: Mozilla's official repository provides extensions (e.g., `ClearURLs` for URL tracking removal, `NoScript` for XSS protection), themes (e.g., `Dreamer – Balanced`), and language tools, accessible via [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/).
 
-- **Key Extensions**:
-  - **FoxyProxy Standard**: Open-source proxy management tool replacing Firefox's native proxying (214,862 users, 4/5 rating).
-  - **SponsorBlock**: Skips YouTube sponsors via crowd-sourced database (747,097 users, 4.8/5 rating).
+- **Specialized Extensions**: High-utility add-ons include `SponsorBlock` (YouTube sponsor skipping), `Return YouTube Dislike` (restores dislike metrics), and `Malwarebytes Browser Guard` (blocks trackers/phishing), with user ratings >4.0 and active maintenance.
 
-- **Themes & Functional Add-ons**:
-  - **Themes**: Customizable UI skins (e.g., *Activist – Balanced*, 344,614 users, 4.6/5).
-  - **automaticDark**: Time-based theme changer for dynamic color adjustments.
+- **Security & Privacy Focus**: Antivirus-tagged extensions like `Kaspersky Protection` and `Popup Blocker (strict)` enhance browser security via heuristic analysis and strict popup mitigation, respectively.
 
 ## Why It Matters
 
@@ -40,10 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:56:37.048183+05:30
+- Published: 2026-06-24T23:27:29.098880+05:30
 
 ## Related Tags
 
+- anthropic
+- openai
 - reddit
 - web-crawled
 - youtube

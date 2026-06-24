@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cloudflare-s-privacy-policy-cloudflare.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Cloudflare's Privacy Policy | Cloudflare
@@ -30,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including DDoS protection, CDN, Zero Trust SASE, and API security, with tailored solutions for enterprises, SMBs, and partners.
+- **Cloudflare’s SASE (Cloudflare One) framework** integrates zero trust network access (ZTNA), secure web gateway (SWG), SD-WAN, and email security into a unified cloud-native architecture for enterprise security and networking.
 
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and observability (Workers Observability), enabling edge-native application deployment with pay-as-you-go pricing.
+- **Developer platform** supports serverless compute (Workers), AI/ML inference (Workers AI), R2 object storage, D1 SQL databases, and observability tools (logs/metrics/traces) with global edge deployment.
 
-- **Global Infrastructur
+- **Threat intelligence and compliance** leverages Cloudflare
 
 ## Use Cases
 

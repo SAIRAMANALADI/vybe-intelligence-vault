@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io
-published_at: '2026-06-24T20:40:48.803964+05:30'
-collected_at: '2026-06-24T20:40:48.803977+05:30'
+published_at: '2026-06-24T22:51:12.620746+05:30'
+collected_at: '2026-06-24T22:51:12.620758+05:30'
 tags:
 - frontend_ui
 - web-crawled
+- workflows
 status: active
 resource_id: blog:the-world-s-fastest-framework-for-building-website
-first_seen: '2026-06-24T20:40:48.803977+05:30'
-last_seen: '2026-06-24T20:40:48.803977+05:30'
-last_checked: '2026-06-24T20:40:48.803977+05:30'
+first_seen: '2026-06-24T22:51:12.620758+05:30'
+last_seen: '2026-06-24T22:51:12.620758+05:30'
+last_checked: '2026-06-24T22:51:12.620758+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 88,704 GitHub stars (as of June 23, 2026) with an active community and frequent releases.
+- **License & Popularity**: Distributed under Apache 2.0 License; has 88,704 GitHub stars (as of June 23, 2026).
 
-- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds using advanced templating and fast asset pipelines.
+- **Performance & Flexibility**: Written in Go, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
 
-- **Features**: Supports multilingual content, powerful taxonomy, image/Sass/JS processing (e.g., tree shaking, TailwindCSS), and includes an embedded web server for live reloading.
+- **Development Workflow**: Includes an embedded web server for real-time preview of changes during development.
 
 ## Why It Matters
 
@@ -35,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T20:40:48.803964+05:30
+- Published: 2026-06-24T22:51:12.620746+05:30
 
 ## Related Tags
 
 - frontend_ui
 - web-crawled
+- workflows
 
 ## Source
 

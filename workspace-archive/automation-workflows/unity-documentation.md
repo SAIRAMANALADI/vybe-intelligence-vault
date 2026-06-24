@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multiplayer & Networking**: Unity provides integrated tools like **Netcode for GameObjects**, **Unity Transport**, and **Distributed Authority** for scalable multiplayer game development, alongside services for **Friends**, **Leaderboards**, and **Vivox** for real-time communication.
+- **Development & Deployment**: Unity provides cross-platform engine support (2D/3D), API references, and tools like Unity Hub, Asset Store, and multiplayer networking (Netcode for GameObjects/Entities, Unity Transport) for scalable game development and deployment.
 
-- **Monetization & Ads**: Supports **in-app purchasing (IAP)**, **ad mediation via LevelPlay**, and **programmatic ad buying/selling**, with additional tools for **ad quality control**, **Offerwall monetization
+- **User Acquisition & Monetization**: Unity Ads and LevelPlay enable programmatic ad buying/selling, in-app purchasing, and mediation across networks, while Offerwall and Analytics optimize user growth and retention strategies.
+
+- *
 
 ## Use Cases
 

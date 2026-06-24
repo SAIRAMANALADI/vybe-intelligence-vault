@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.bsky.app/blog
-published_at: '2026-06-24T10:28:21.247484+05:30'
-collected_at: '2026-06-24T10:28:21.247497+05:30'
+published_at: '2026-06-24T22:56:34.823426+05:30'
+collected_at: '2026-06-24T22:56:34.823434+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:blog-bluesky
-first_seen: '2026-06-24T10:28:21.247497+05:30'
-last_seen: '2026-06-24T10:28:21.247497+05:30'
-last_checked: '2026-06-24T10:28:21.247497+05:30'
+first_seen: '2026-06-24T22:56:34.823434+05:30'
+last_seen: '2026-06-24T22:56:34.823434+05:30'
+last_checked: '2026-06-24T22:56:34.823434+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Transition Schedule**: The `bsky.network` firehose endpoint will switch from `narelay.pop2.bsky.network` to `relay1.us-west.bsky.network` on **January 27, 2026 (US/Pacific)**, with a sequence jump from ~17.5B to ~26.6B.
-
-- **Consumer Impact**: WebSocket connections may drop, causing cursor jumps and potential event duplication; auto-reconnection mitigates most issues, and deduplication is possible via the `rev` field.
-
-- **Sync 1.1 Support**: The new relay enables `#sync` message type and MST inversion proofs (currently with relaxed verification), while removing deprecated archival relay code for improved maintainability.
+- **Transition Date & Endpoint**: The `bsky.network` firehose will switch from `narelay.pop2.bsky.network` to `relay1.us-west.bsky.network` on **January 27, 2026 (US/Pacific)**, with sequence numbers jumping from ~17.5B to ~26.6B.
+- **Consumer Impact**: WebSocket connections may drop with cursor jumps, but auto-reconnection should mitigate issues; minor event duplication may occur, resolvable via `rev` field or direct relay targeting (`relay1.us-east.bsky.network` as fallback).
+- **Protocol & Operational Changes**: New relay supports **Sync 1.1** (MST inversion proofs, `#sync` messages) and removes deprecated archival relay code; PDS hosts remain unaffected due to pre-synchronized rate limits and mirrored crawl requests.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:28:21.247484+05:30
+- Published: 2026-06-24T22:56:34.823426+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/terms
-published_at: '2026-06-23T09:57:07.658683+05:30'
-collected_at: '2026-06-23T09:57:07.658698+05:30'
+published_at: '2026-06-24T22:59:25.523077+05:30'
+collected_at: '2026-06-24T22:59:25.523091+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:self-serve-subscription-agreement-cloudflare
-first_seen: '2026-06-23T09:57:07.658698+05:30'
-last_seen: '2026-06-23T09:57:07.658698+05:30'
-last_checked: '2026-06-23T09:57:07.658698+05:30'
+first_seen: '2026-06-24T22:59:25.523091+05:30'
+last_seen: '2026-06-24T22:59:25.523091+05:30'
+last_checked: '2026-06-24T22:59:25.523091+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Mandates arbitration for disputes and prohibits class actions; requires explicit acceptance for legal enforcement.
+- **Arbitration & Class Action Waiver**: Agreement mandates arbitration for disputes and waives class action participation against Cloudflare, requiring explicit acceptance of these terms.
 
-- **Service Restrictions & Compliance**: Prohibits unauthorized third-party access, reverse engineering, benchmarking without disclosure, and use of Services for VPN/proxy or PHI without consent.
+- **Service Restrictions & Credential Liability**: Users prohibited from sublicensing, reverse engineering, or using Cloudflare services for unauthorized proxy/VPN purposes; users solely responsible for credential security and third-party access risks.
 
-- **Customer Content & Liability**: Grants Cloudflare a worldwide, sublicensable license to Customer Content for service provision; user retains ownership but is solely liable for compliance and content legality.
+- **Customer Content & Network Data Ownership**: Users retain rights to Customer Content but grant Cloudflare a worldwide, royalty-free license to process/modify it for service provision; Cloudflare retains ownership of derived Network Data and may scan/modify content for performance/security enhancements.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:57:07.658683+05:30
+- Published: 2026-06-24T22:59:25.523077+05:30
 
 ## Related Tags
 

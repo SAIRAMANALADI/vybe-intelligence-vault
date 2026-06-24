@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Hierarchy**: Core stacks follow a layered inheritance model starting from `jupyter/docker-stacks-foundation` (base with conda/mamba, unprivileged user `jovyan`, and system tools) to specialized stacks like `jupyter/scipy-notebook`, `jupyter/r-notebook`, and `jupyter/tensorflow-notebook`, each adding domain-specific packages while inheriting dependencies.
+- **Image Hierarchy**: Core stacks are built hierarchically, starting from `jupyter/docker-stacks-foundation` (base OS + package managers) to `jupyter/base-notebook` (Jupyter apps) and extending to specialized stacks (e.g., `scipy-notebook`, `r-notebook`, `tensorflow-notebook`).
 
-- **Pre-built vs Custom**: Pre-built images from Quay.io are optimized for common use cases (e.g., data science, R, Julia), while cu
+- **Pre-Built vs Custom**: Pre-built images from Quay.io are recommended for standard use cases; custom builds are required for system-level package additions, preinstalling large libraries, or organization-specific CI
 
 ## Use Cases
 

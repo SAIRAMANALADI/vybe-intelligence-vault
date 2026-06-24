@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Official Android Git Repository**: Hosted at `android.googlesource.com`, providing access to Android's open-source codebase, including device-specific implementations, kernels, and platform components.
-- **Device-Specific Repositories**: Contains per-device configurations (e.g., `device/google/bluejay`, `device/asus/flo`) with kernel (`*-kernel`), SELinux policies (`*-sepolicy`), and variant-specific branches (e.g., `5.10`, `6.1`).
-- **Code Review & Authentication**: Uses Gerrit (`android-re
+- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device configurations, kernels, and platform adaptations.
+
+- **Device-Specific Branches**: Includes per-device kernel (`*-kernel`), device tree (`device/google/<device>`), and SELinux policy (`*-sepolicy`) repositories for devices like Pixel, Cuttlefish, and generic ARM/x86 targets.
+
+- **Build & Emulation Support**: Contains emulator-spe
 
 ## Use Cases
 

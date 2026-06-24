@@ -6,10 +6,10 @@ source_url: https://learn.microsoft.com/visualstudio
 resource_id: blog:visual-studio-product-family-documentation-microso
 local_vault_path: ai/resources/visual-studio-product-family-documentation-microso.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: tutorial
-importance: medium
+resource_kind: prompt
+importance: high
 tags:
 - reddit
 - web-crawled
@@ -24,17 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Visual Studio Family Documentation**: Centralized hub for Visual Studio IDE (2022/2026), VS Code, subscriptions, and language-specific guidance (C#, C++, VB, Python, JS/TS, F#).
-- **AI/Cloud Integration**: GitHub Copilot support in VS 2022/VS Code, Microsoft Dev Box for cloud-based VS environments, and Azure services (Dev Tunnels, Codespaces, Deployment Environments).
-- **Release & Tooling**: Versioned release notes (VS 2022/2026, VS Code) and specialized toolkits (e.g., C# Dev Kit) for lang
+- **Visual Studio IDE & Tools**: Documentation covers Visual Studio IDE (2022/2026 releases), subscriptions, and language-specific guidance (C#, C/C++, VB, Python, JS/TS, F#) with dedicated release notes and setup instructions.
+
+- **Visual Studio Code & Extensions**: Official docs include VS Code core functionality, C# Dev Kit integration, GitHub Copilot support, and remote development via GitHub Codespaces.
+
+- **Cloud & Productivity Services**: Includes Azure Dev Tunnels, Microsoft Dev Box (VS-
 
 ## Use Cases
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Selection & Optimization**: Prioritize task-specific, lightweight models (e.g., <5MB for general use, <315KB for text tasks) using libraries like TensorFlow.js or Transformers.js; avoid large LLMs (>10MB) unless necessary, leveraging model shrinking techniques (e.g., quantization, pruning) to balance accuracy and size.
+- **Model Selection & Optimization**: Choose task-specific, lightweight models (e.g., <5MB for general use, <10MB for mobile) and leverage shrinking techniques (quantization, pruning) to balance accuracy and size; specialized models (e.g., language detection at 315KB) outperform generic LLMs (e.g., Gemma 2B at 1.3GB).
 
-- **Performance Mitigation Strategies**: Offload model downloads (chunked via `fetch-in-chunks`) and inference to Web Workers; detect hardware constraints (e.g., `Navig
+- **Performance Mitigation Strategies**: Offload model preparation/inference to Web Workers, use WebGPU where supported (with Wasm fallback), and chunk downloads (e.g., `fetch-in-
 
 ## Use Cases
 

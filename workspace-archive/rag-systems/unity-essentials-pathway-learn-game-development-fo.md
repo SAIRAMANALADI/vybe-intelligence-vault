@@ -11,10 +11,8 @@ archive_tier: useful
 resource_kind: tutorial
 importance: high
 tags:
-- hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Pathway Overview**: Unity Essentials is a foundational 2-week guided learning pathway for beginners, covering core Unity Editor skills via hands-on project work (e.g., designing rooms, 2D/3D scene building, and basic scripting).
-- **Technical Skills Covered**: Includes GameObject management (prefabs, components, scripting), Unity Editor navigation (2D/3D), physics integration, audio setup, camera configuration, and project publishing workflows.
-- **Learning Outcomes**: Teaches code comprehen
+- **Target Audience**: Beginner-focused guided learning pathway for Unity, requiring no prior experience; designed for foundational skill development in Unity Editor usage and project creation.
+
+- **Core Learning Objectives**: Covers essential Unity concepts including GameObject management, 2D/3D scene building, basic scripting (logic structures, APIs), audio integration, camera configuration, and project publishing.
+
+- **Educator Resources**: Provides CSV outline and Common Cartridge file for L
 
 ## Use Cases
 

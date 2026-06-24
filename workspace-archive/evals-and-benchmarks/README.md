@@ -13,7 +13,7 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [Welcome to Oversight.gov | Oversight.gov](https://oversight.gov) (benchmark - USEFUL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (dataset - USEFUL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (prompt - USEFUL Tier)
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (framework - USEFUL Tier)
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (framework - USEFUL Tier)
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-24 21:19 IST*
+*Last updated: 2026-06-24 23:30 IST*

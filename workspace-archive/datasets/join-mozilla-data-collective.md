@@ -8,7 +8,7 @@ local_vault_path: ai/resources/join-mozilla-data-collective.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Join | Mozilla Data Collective
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access terms, licensing, and revenue (100% retained by rights holders).
+- **Decentralized Data Ownership & Monetization**: Platform enables users to upload datasets while retaining full ownership, allowing them to set access terms, licensing conditions, and retain 100% revenue from data usage.
 
-- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI/ML technologies are inclusive, with provenance tracking and consent-based licensing for ethical data usage.
+- **Multilingual & Multicultural Dataset Curation**: Aggregates diverse, globally-sourced datasets (text, audio, visual) to ensure AI/ML systems are trained on representative, ethically-sourced data from underrepresented communities.
 
-- **Community-Driven Governance**: Opera
+- **Community-Governed & Ethical AI Frame
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **SMTP & API Integration**: Provides guides for SMTP email sending (`How to Send an SMTP Email`) and X-SMTPAPI header construction (`Building an X-SMTPAPI Header`) for advanced email routing.
-- **Multi-Language Quickstarts**: Offers language-specific Email API quickstarts (C#, Go, Java, Node.js, PHP, Python, Ruby) for rapid implementation.
-- **Webhooks & SDKs**: Includes event tracking via webhooks (`Event Webhook Reference`), inbound email parsing (`Inbound Parse API`), and official SDKs (C#,
+- **SMTP Integration**: Provides guides for sending emails via SMTP and constructing X-SMTPAPI headers for advanced email routing and metadata handling.
+- **Multi-Language Email API Quickstarts**: Offers language-specific tutorials (C#, Go, Java, Node.js, PHP, Python, Ruby) for rapid implementation of SendGrid’s Email API.
+- **Webhook & SDK Support**: Includes documentation for inbound/outbound event tracking via webhooks, engagement APIs, and official SDKs for major programming languages.
 
 ## Use Cases
 

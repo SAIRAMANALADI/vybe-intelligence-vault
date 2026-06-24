@@ -3,18 +3,18 @@ title: CommonMark
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://commonmark.org
-published_at: '2026-06-24T21:08:37.853618+05:30'
-collected_at: '2026-06-24T21:08:37.853630+05:30'
+source_url: http://commonmark.org
+published_at: '2026-06-24T23:01:56.879038+05:30'
+collected_at: '2026-06-24T23:01:56.879048+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:commonmark
-first_seen: '2026-06-24T21:08:37.853630+05:30'
-last_seen: '2026-06-24T21:08:37.853630+05:30'
-last_checked: '2026-06-24T21:08:37.853630+05:30'
+first_seen: '2026-06-24T23:01:56.879048+05:30'
+last_seen: '2026-06-24T23:01:56.879048+05:30'
+last_checked: '2026-06-24T23:01:56.879048+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **CommonMark** is a standardized, unambiguous specification for Markdown, addressing syntax ambiguities in John Gruber’s original 2004 implementation (`Markdown.pl`) and resolving divergent implementations across platforms.
-- **Key components** include a formal syntax specification ([spec.commonmark.org](https://spec.commonmark.org/)), a reference implementation, and a comprehensive test suite to validate parser compliance.
-- **Adoption** includes major platforms (GitHub, GitLab, Reddit, Stack Overflow) and libraries in dozens of languages, ensuring interoperability and eliminating prior inconsistencies.
+- **Purpose**: CommonMark is a standardized, unambiguous syntax specification for Markdown, addressing divergence in implementations due to the lack of a formal spec and buggy reference implementation (`Markdown.pl`).
+
+- **Key Features**: Includes a comprehensive test suite for validation and is adopted by major platforms (e.g., GitHub, Reddit, Stack Overflow) to ensure interoperability and consistency.
+
+- **Resources**: Spec available at [spec.commonmark.org](https://spec.commonmark.org/), with reference implementations, validation tools, and community support via GitHub and Discourse.
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:08:37.853618+05:30
+- Published: 2026-06-24T23:01:56.879038+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://commonmark.org
+Original source: http://commonmark.org

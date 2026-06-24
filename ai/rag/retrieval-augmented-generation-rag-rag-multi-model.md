@@ -4,16 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io
-published_at: '2026-06-17T16:48:29.982529+05:30'
-collected_at: '2026-06-17T16:48:29.982541+05:30'
+published_at: '2026-06-24T22:51:55.246000+05:30'
+collected_at: '2026-06-24T22:51:55.246013+05:30'
 tags:
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-06-17T16:48:29.982541+05:30'
-last_seen: '2026-06-17T16:48:29.982541+05:30'
-last_checked: '2026-06-17T16:48:29.982541+05:30'
+first_seen: '2026-06-24T22:51:55.246013+05:30'
+last_seen: '2026-06-24T22:51:55.246013+05:30'
+last_checked: '2026-06-24T22:51:55.246013+05:30'
 health_score: 100
 ---
 
@@ -21,7 +22,11 @@ health_score: 100
 
 ## Summary
 
-RAG multi model Introduction Introduction Implimentation What is Retrieval-Augmented Generation (RAG)? Step-by-Step Breakdown: Python Code Explanation Installation and Guide Installation Instructions Step-by-Step Guide for Using the Application Guide...
+- **RAG Framework**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching and integrating external knowledge.
+
+- **Implementation Components**: Modular Python-based system with `process_pdf.py` (PDF splitting/embedding), `question_handler.py` (Q&A chains), `summarizer.py` (document summarization), and `translator.py` (text translation), all orchestrated via Streamlit for UI.
+
+- **Key Workflow**: End-to-end pipeline includes document ingestion → chunking → vector storage → model selection → query processing → result rendering, with explicit support for comparing multiple RAG models (e.g., retrieval strategies, LLM backends).
 
 ## Why It Matters
 
@@ -31,12 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-17T16:48:29.982529+05:30
+- Published: 2026-06-24T22:51:55.246000+05:30
 
 ## Related Tags
 
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

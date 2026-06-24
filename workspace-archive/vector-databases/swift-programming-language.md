@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Performance & Safety**: Swift compiles to native code with predictable memory management, enforces compile-time memory/data race safety, and eliminates entire classes of bugs via language design.
-- **Multiplatform & Interoperable**: Supports embedded systems, mobile (iOS/Windows), cloud services, and ML/AI; natively interoperates with C/C++ and allows incremental adoption in existing codebases.
-- **Expressive Syntax & Tooling**: Combines concise, readable code with powerful paradigms (OOP, f
+- **Multiplatform & Performance**: Swift compiles to native code with predictable memory management, enabling high-performance execution across Linux, macOS, Windows, and embedded systems (e.g., microcontrollers).
+- **Safety & Interoperability**: Enforces compile-time memory/data race safety while supporting seamless C/C++ interoperability (e.g., direct `std::string` usage) and incremental adoption in existing codebases.
+- **Expressive Tooling**: Supports object-oriented, functional, and generic
 
 ## Use Cases
 

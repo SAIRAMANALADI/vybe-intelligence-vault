@@ -13,13 +13,14 @@ collected_at: '2026-06-24T20:38:09.963978+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:minimus-container-images-are-now-free
 first_seen: '2026-06-24T20:38:09.963978+05:30'
 last_seen: '2026-06-24T20:38:09.963978+05:30'
 last_checked: '2026-06-24T20:38:09.963978+05:30'
 health_score: 100
 ---
+
 
 # Minimus container images are now free
 

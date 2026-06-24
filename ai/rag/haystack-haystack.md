@@ -1,59 +1,55 @@
 ---
-title: Haystack | Haystack
+title: 'Haystack: Open-Source AI Framework for Production Ready Agents, RAG'
 category: ai/rag
-source_type: web
-source_name: Web Discovery
+source_type: hackernews
+source_name: Hacker News AI
 source_url: https://haystack.deepset.ai
-published_at: '2026-06-24T20:43:52.458630+05:30'
-collected_at: '2026-06-24T20:43:52.458644+05:30'
+hn_url: https://news.ycombinator.com/item?id=48658095
+score: 60
+author: doener
+comments_count: 19
+published_at: '2026-06-24T16:51:32+05:30'
+collected_at: '2026-06-24T22:48:56.263195+05:30'
 tags:
 - agents
-- anthropic
-- mistral
-- models
-- openai
+- ai
+- hackernews
 - rag
-- web-crawled
-- workflows
 status: active
 resource_id: blog:haystack-haystack
 first_seen: '2026-06-24T20:43:52.458644+05:30'
-last_seen: '2026-06-24T20:43:52.458644+05:30'
-last_checked: '2026-06-24T20:43:52.458644+05:30'
+last_seen: '2026-06-24T22:48:56.263195+05:30'
+last_checked: '2026-06-24T22:48:56.263195+05:30'
 health_score: 100
 ---
 
-# Haystack | Haystack
+
+# Haystack: Open-Source AI Framework for Production Ready Agents, RAG
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full pipeline visibility, debugging, and optimization capabilities.
-
-- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) via an open architecture, avoiding vendor lock-in.
-
-- **Enterprise-Grade Scalability**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, enabling scalable AI operations across environments.
+Hacker News story by doener. Score: 60, Comments: 19.
+Original Link: https://haystack.deepset.ai/
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
 
-## Details
+## Discussion Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-06-24T20:43:52.458630+05:30
+- Author: doener
+- Score: 60 Upvotes
+- Comments: 19 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=48658095
+- Original Article: https://haystack.deepset.ai
+
+## Implementation Notes
+
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
 
 ## Related Tags
 
 - agents
-- anthropic
-- mistral
-- models
-- openai
+- ai
+- hackernews
 - rag
-- web-crawled
-- workflows
-
-## Source
-
-Original source: https://haystack.deepset.ai

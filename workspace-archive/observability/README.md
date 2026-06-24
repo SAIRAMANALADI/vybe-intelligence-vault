@@ -10,12 +10,12 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (dataset - USEFUL Tier)
+- [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org) (tutorial - USEFUL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (prompt - USEFUL Tier)
+- [Distributed authority quickstart | Netcode for GameObjects | 2.11.2](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html) (tutorial - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
-- [FastAPI - FastAPI](https://fastapi.tiangolo.com) (template - USEFUL Tier)
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (dataset - USEFUL Tier)
-- [Top 23 rag Open-Source Projects | LibHunt](https://www.libhunt.com/topic/rag) (benchmark - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-24 21:19 IST*
+*Last updated: 2026-06-24 23:30 IST*

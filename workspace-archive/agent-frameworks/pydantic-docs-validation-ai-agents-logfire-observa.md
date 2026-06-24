@@ -2,7 +2,7 @@
 title: Pydantic Docs - Validation, AI Agents, Logfire Observability
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://pydantic-docs.helpmanual.io
+source_url: https://docs.pydantic.dev
 resource_id: blog:pydantic-docs-validation-ai-agents-logfire-observa
 local_vault_path: ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Pydantic Validation**: Python-based data validation using type annotations; supports parsing/validation of complex data structures, JSON schema generation, and data integrity enforcement.
+- **Pydantic Validation**: Python-based data validation using type annotations; supports parsing, validation, and JSON schema generation for complex data structures.
 
-- **Pydantic AI**: Production-grade agent framework enabling type-safe, structured AI outputs, tool integration, and multi-agent orchestration with built-in Logfire observability.
+- **Pydantic AI**: Agent framework enabling type-safe, structured AI applications with tool integration and multi-agent orchestration, natively integrated with Logfire for observability.
 
-- **Pydantic Logfire**: Observability platform for monitoring LLM interactions, agent behavior, cost tracking, and performance
+- **Pydantic Logfire**: Observability tool for monitoring LLM interactions, agent behavior, cost tracking, and performance metrics across full-st
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://pydantic-docs.helpmanual.io
+Original source URL: https://docs.pydantic.dev
 
 ## Local Vault File
 

@@ -11,9 +11,11 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - threejs
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Art Pipeline Optimization**: Utilized Unity’s built-in tools and Asset Store extensions (e.g., Aseprite, Spine) for hand-drawn animations and pixel-perfect art, prioritizing visual fidelity over real-time rendering complexity.
-
-- **Atmospheric Depth via Lighting & Post-Processing**: Leveraged Unity’s 2D lighting system and custom shaders (e.g., Screen Space Reflections, Bloom) to create a moody, immersive world without relying on 3D assets or heavy compute.
-
-- **Performance-Conscious Design*
+- Utilized Unity’s **2D Animation** and **Tilemap** tools for hand-drawn art and level design, optimizing workflow for pixel-perfect visuals.
+- Leveraged **Unity Asset Store extensions** (e.g., **A* Pathfinding Project**, **Cinemachine**) for efficient AI navigation and dynamic camera systems.
+- Prioritized **atmosphere and feel** over technical complexity, employing **lighting, particle effects, and shader-based post-processing** (e.g., **Unity’s Shader Graph**) to enhance mood.
 
 ## Use Cases
 

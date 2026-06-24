@@ -35,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- Built on **Starlette** (web layer) and **Pydantic** (data validation), FastAPI leverages Python type hints for automatic request/response validation, serialization, and OpenAPI/Swagger documentation generation.
-- Achieves **high performance** comparable to NodeJS/Go via ASGI (Asynchronous Server Gateway Interface) and non-blocking I/O, with benchmarked low latency and high throughput.
-- Provides **automatic interactive API docs** (Swagger UI/ReDoc), **async/await support**, and **dependency in
+- **Performance & Standards**: Built on Starlette (web layer) and Pydantic (data validation), delivering high performance comparable to NodeJS/Go while fully supporting OpenAPI and JSON Schema standards for API documentation and validation.
+- **Type-Driven Development**: Leverages Python type hints for automatic request/response validation, editor support (autocompletion, error detection), and reduced boilerplate, accelerating development (~200-300% faster) and minimizing bugs (~40% fewer errors
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://overturemaps.org
 resource_id: blog:home-overture-maps-foundation
 local_vault_path: ai/resources/home-overture-maps-foundation.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Collaborative Map Data Infrastructure**: Overture integrates map data from member organizations, authoritative sources, and open data communities to create a unified, interoperable map dataset that no single entity could produce independently.
-
-- **Global Entity Reference System (GERS)**: Provides stable, unique identifiers for real-world entities, enabling seamless cross-dataset integration and unambiguous data linkage without manual reconciliation.
-
-- **Modular, Extensible Schema & Quality
+- **Collaborative Data Integration**: Aggregates map data from member organizations, authoritative sources, and open data communities to produce comprehensive, interoperable datasets.
+- **Global Entity Reference System (GERS)**: Implements stable, unique identifiers to link identical real-world entities across disparate datasets, enabling seamless data fusion without manual reconciliation.
+- **Modular, Extensible Schema**: Defines a structured, theme-based schema for map and AI applications, ens
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.twilio.org/en-us
-published_at: '2026-06-22T10:30:20.974550+05:30'
-collected_at: '2026-06-22T10:30:20.974561+05:30'
+published_at: '2026-06-24T23:06:15.228534+05:30'
+collected_at: '2026-06-24T23:06:15.228547+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:nonprofit-communications-twilio-org
-first_seen: '2026-06-22T10:30:20.974561+05:30'
-last_seen: '2026-06-22T10:30:20.974561+05:30'
-last_checked: '2026-06-22T10:30:20.974561+05:30'
+first_seen: '2026-06-24T23:06:15.228547+05:30'
+last_seen: '2026-06-24T23:06:15.228547+05:30'
+last_checked: '2026-06-24T23:06:15.228547+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Twilio.org** enables **30,000+ social impact organizations** (2025) to scale communication via **SMS, voice, chatbots, and WhatsApp**, supporting sectors like healthcare, education, and humanitarian aid.
+- **Twilio.org** enables social impact organizations (e.g., healthcare, education, humanitarian aid) to scale communication via SMS, voice, chatbots, and WhatsApp, leveraging Twilio’s APIs and partner resources for digital transformation.
 
-- **Key use cases** include **multichannel alerts/notifications**, **cloud-based hotlines/helplines**, **MFA for user authentication**, and **personalized donor engagement** via real-time data integration.
+- **Key metrics**: 800M+ people reached, 30,000+ organizations using Twilio in 2025, 37B+ messages sent in 2024, and $66M+ in grants/product credits/discounts provided.
 
-- **Impact metrics**: **800M+ people reached**, **37B+ messages sent (2024)**, and **$66M+ in grants/discounts (2025)** provided to social impact organizations leveraging Twilio’s infrastructure.
+- **Use cases**: Alerts/notifications, hotlines/helplines (cloud contact centers), user authentication (MFA via SMS/push), and marketing/fundraising (personalized donor engagement).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:30:20.974550+05:30
+- Published: 2026-06-24T23:06:15.228534+05:30
 
 ## Related Tags
 

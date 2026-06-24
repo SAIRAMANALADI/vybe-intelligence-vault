@@ -8,7 +8,7 @@ local_vault_path: ai/agents/documentation-for-visual-studio-code.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Documentation for Visual Studio Code
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: mcp-server
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **AI Agents Integration**: VS Code supports autonomous AI agents for task automation, with options for local, background, or cloud execution; sessions are trackable within the editor, supporting custom AI providers and MCP servers for workflow tailoring.
+- **AI Agents Integration**: VS Code supports autonomous AI agents for task automation, with options for local, background, or cloud execution, and multi-provider AI integration, including session tracking and cost/performance optimization guides.
 
-- **Enterprise & Remote Capabilities**: Features enterprise policy management, AI customization, and remote development via SSH, WSL, Dev Containers, and GitHub Codespaces, with VS Code Server enabling cloud-based workflows.
+- **Enterprise & Remote Development**: Features enterprise policies, AI customization, and remote development via SSH, WSL, Dev Containers, and GitHub Codespaces, with security controls like Restricted Mode and approvals.
 
-- **Debugging &
+- **Debugging & Testing Enha
 
 ## Use Cases
 

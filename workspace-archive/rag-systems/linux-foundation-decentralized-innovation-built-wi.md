@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing 89M lines of code weekly** across **21K+ organizations**, supported by **100+ standards/specifications**.
-- **Neutral Collaboration Hub**: Provides a **trusted, vendor-neutral ecosystem** for open software, hardware, standards, and data projects, including **CNCF, Linux Kernel, OpenSSF, and RISC-V**.
-- **Training & Events**: Trained **4M+ developers** via LF Education, hosts **229+ events**, and off
+- **Scale & Impact**: Hosts **1,300+ open-source projects**, with **855K+ developers contributing code**, adding **89M lines weekly**, supported by **21K+ organizations**.
+- **Neutral Collaboration Hub**: Provides a **trusted, vendor-neutral ecosystem** for open software, hardware, standards, and data projects, including **100+ standards/specifications**.
+- **Dual Membership/Project Hosting Model**: Enables organizations to **join as members** (shape ecosystem, measure contributions) or **host p
 
 ## Use Cases
 

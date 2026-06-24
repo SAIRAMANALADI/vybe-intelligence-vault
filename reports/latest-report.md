@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-24T21:54:51.157596+05:30`
+Generated at: `2026-06-24T23:31:13.845170+05:30`
 
 ## Executive Summary
 
@@ -8,47 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'** - Score: `157` in category `ai/community` ([Link](https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake)) ([File](../ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md))
-- **Minimus container images are now free** - Score: `86` in category `ai/community` ([Link](https://images.minimus.io)) ([File](../ai/community/minimus-container-images-are-now-free.md))
-- **RubyLLM: A single, beautiful Ruby framework for all major AI providers** - Score: `10` in category `ai/community` ([Link](https://rubyllm.com)) ([File](../ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md))
-- **Antora** - Score: `0` in category `ai/resources` ([Link](https://antora.org)) ([File](../ai/resources/antora.md))
-- **Version Control with Subversion** - Score: `0` in category `ai/resources` ([Link](http://svnbook.red-bean.com)) ([File](../ai/resources/version-control-with-subversion.md))
-- **Building A Music-Based Combat System For Fretless: The Wrath of Riffson | Unity** - Score: `0` in category `ai/resources` ([Link](https://unity.com/blog/how-fretless-set-up-fmod-integrations-in-unity)) ([File](../ai/resources/building-a-music-based-combat-system-for-fretless.md))
-- **AsciiDoc Language Documentation | Asciidoctor Docs** - Score: `0` in category `ai/resources` ([Link](https://docs.asciidoctor.org/asciidoc/latest)) ([File](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md))
-- **Coverage.py — Coverage.py 7.14.3 documentation** - Score: `0` in category `ai/rag` ([Link](https://coverage.readthedocs.io)) ([File](../ai/rag/coverage-py-coverage-py-7-14-3-documentation.md))
-- **Tito Lookup** - Score: `0` in category `ai/resources` ([Link](https://lookup.tito.io)) ([File](../ai/resources/tito-lookup.md))
-- **A successful Git branching model » nvie.com** - Score: `0` in category `ai/rag` ([Link](http://nvie.com/posts/a-successful-git-branching-model)) ([File](../ai/rag/a-successful-git-branching-model-nvie-com.md))
-- **RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation** - Score: `0` in category `ai/rag` ([Link](https://rvm.io)) ([File](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md))
-- **AsciiDoc** - Score: `0` in category `ai/rag` ([Link](https://asciidoc.org)) ([File](../ai/rag/asciidoc.md))
-- **Coverage report** - Score: `0` in category `ai/rag` ([Link](https://mailman.gitlab.io/postorius)) ([File](../ai/rag/coverage-report.md))
-- **Building MCPs with Netlify | Netlify Developers** - Score: `0` in category `ai/agents` ([Link](https://developers.netlify.com/guides/write-mcps-on-netlify)) ([File](../ai/agents/building-mcps-with-netlify-netlify-developers.md))
-- **SIMPLE-Py | scikit-build** - Score: `0` in category `ai/resources` ([Link](https://scikit-build.org/events/simple-py)) ([File](../ai/resources/simple-py-scikit-build.md))
+- **OpenAI and Broadcom unveil LLM-optimized inference chip** - Score: `116` in category `ai/community` ([Link](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)) ([File](../ai/community/openai-and-broadcom-unveil-llm-optimized-inference.md))
+- **Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"** - Score: `72` in category `ai/community` ([Link](https://theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489)) ([File](../ai/community/boffin-claims-microsoft-s-quantum-leap-is-invalid.md))
+- **For Most of the World, Open-Source AI Is the Only Way Forward** - Score: `45` in category `ai/community` ([Link](https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward)) ([File](../ai/community/for-most-of-the-world-open-source-ai-is-the-only-w.md))
+- **PR spam today looks like email spam in the early 2000s** - Score: `31` in category `ai/community` ([Link](https://greptile.com/blog/prs-on-openclaw)) ([File](../ai/community/pr-spam-today-looks-like-email-spam-in-the-early-2.md))
+- **CAPTCHAs have failed for 20 years** - Score: `31` in category `ai/community` ([Link](https://browserbase.com/blog/why-captchas-are-getting-harder)) ([File](../ai/community/captchas-have-failed-for-20-years.md))
+- **Show HN: peerd – AI agent harness that runs entirely in your browser** - Score: `15` in category `ai/community` ([Link](https://github.com/notasithlord/peerd)) ([File](../ai/community/notasithlord-peerd.md))
+- **Support : Preprints Help Center** - Score: `0` in category `ai/resources` ([Link](https://support.researchsquare.com)) ([File](../ai/resources/support-preprints-help-center.md))
+- **Home | Research Square** - Score: `0` in category `ai/resources` ([Link](https://researchsquare.com)) ([File](../ai/resources/home-research-square.md))
+- **Writing a Research Paper: 2nd Edition | Nature Masterclasses** - Score: `0` in category `ai/resources` ([Link](https://masterclasses.nature.com/writing-a-research-paper-2nd-edition/26269116)) ([File](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md))
+- **Librarian Portal | Springer Nature** - Score: `0` in category `ai/resources` ([Link](https://librarian.springernature.com/research-impact-solutions)) ([File](../ai/resources/librarian-portal-springer-nature.md))
+- **Springer Nature author service | Editing, translation & support** - Score: `0` in category `ai/rag` ([Link](https://authorservices.springernature.com)) ([File](../ai/rag/springer-nature-author-service-editing-translation.md))
+- **Data Analysis: Conducting and Troubleshooting | Nature Masterclasses** - Score: `0` in category `ai/rag` ([Link](https://masterclasses.nature.com/data-analysis-conducting-and-troubleshooting/20066524)) ([File](../ai/rag/data-analysis-conducting-and-troubleshooting-natur.md))
+- **Nature Masterclasses | Librarian Portal | Springer Nature** - Score: `0` in category `ai/rag` ([Link](https://librarian.springernature.com/nature-masterclasses)) ([File](../ai/rag/nature-masterclasses-librarian-portal-springer-nat.md))
+- **Talk to Posit Sales - We're Here to Help You** - Score: `0` in category `ai/resources` ([Link](https://posit.co/trial-license)) ([File](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md))
+- **Springer Nature Group | Springer Nature** - Score: `0` in category `ai/resources` ([Link](https://group.springernature.com/gp/group)) ([File](../ai/resources/springer-nature-group-springer-nature.md))
 
 ## Top Trending Resources
 
-- **Qwen-AgentWorld: Language World Models for General Agents** - Score: `167` (+154), Rank Change: `+2` ([File](../ai/community/arxiv-2606-24597.md))
-- **Atlassian Community Events Community-Led Classes** - Score: `0` (0), Rank Change: `+776` ([File](../ai/rag/atlassian-community-events-community-led-classes.md))
-- **The Best Assets for Game Making | Unity Asset Store** - Score: `0` (0), Rank Change: `+1016` ([File](../ai/rag/the-best-assets-for-game-making-unity-asset-store.md))
-- **Python Packaging Authority — PyPA documentation** - Score: `0` (0), Rank Change: `+1135` ([File](../ai/resources/python-packaging-authority-pypa-documentation.md))
-- **Atlassian Documentation | Atlassian Support | Atlassian Documentation** - Score: `0` (0), Rank Change: `+994` ([File](../ai/resources/atlassian-documentation-atlassian-support-atlassia.md))
-- **Bitbucket | Git solution for teams using Jira** - Score: `0` (0), Rank Change: `+1456` ([File](../ai/rag/bitbucket-git-solution-for-teams-using-jira.md))
-- **A safe and modern home for JavaScript technologies | OpenJS Foundation** - Score: `0` (0), Rank Change: `+1580` ([File](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md))
-- **Unity Playworks - Developer Docs | Unity Playworks - Developer Docs** - Score: `0` (0), Rank Change: `+1003` ([File](../ai/resources/unity-playworks-developer-docs-unity-playworks-dev.md))
-- **The Synack Red Team | Synack** - Score: `0` (0), Rank Change: `+1484` ([File](../ai/rag/the-synack-red-team-synack.md))
-- **24*I:cset_awesome*** - Score: `0` (0), Rank Change: `+958` ([File](../ai/agents/24-i-cset-awesome.md))
+- **RubyLLM: A Ruby framework for all major AI providers** - Score: `177` (+167), Rank Change: `+3` ([File](../ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md))
+- **Haystack: Open-Source AI Framework for Production Ready Agents, RAG** - Score: `60` (+60), Rank Change: `+401` ([File](../ai/rag/haystack-haystack.md))
+- **Add-ons for Firefox (en-US)** - Score: `0` (0), Rank Change: `+2057` ([File](../ai/resources/add-ons-for-firefox-en-us.md))
+- **Open Policy & Advocacy - Mozilla's official blog on open Internet policy initiatives and developments** - Score: `0` (0), Rank Change: `+1228` ([File](../ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md))
+- **Get Firefox for desktop and mobile — Firefox.com** - Score: `0` (0), Rank Change: `+2068` ([File](../ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md))
+- **Org mode for GNU Emacs** - Score: `0` (0), Rank Change: `+1943` ([File](../ai/resources/org-mode-for-gnu-emacs.md))
+- **Mozilla Privacy** - Score: `0` (0), Rank Change: `+1221` ([File](../ai/resources/mozilla-privacy.md))
+- **Quarto** - Score: `0` (0), Rank Change: `+111` ([File](../ai/resources/quarto.md))
+- **Discourse API Docs** - Score: `0` (0), Rank Change: `+448` ([File](../ai/resources/discourse-api-docs.md))
+- **Discourse | Where Tech Companies Build Communities** - Score: `0` (0), Rank Change: `+469` ([File](../ai/resources/discourse-where-tech-companies-build-communities.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+6485`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
-- **Medium: Read and write stories.** - (Rank Change: `+1736`) ([File](../ai/rag/medium-read-and-write-stories.md))
-- **Graph neural networks in TensorFlow — The TensorFlow Blog** - (Rank Change: `+1735`) ([File](../ai/rag/graph-neural-networks-in-tensorflow-the-tensorflow.md))
-- **A safe and modern home for JavaScript technologies | OpenJS Foundation** - (Rank Change: `+1580`) ([File](../ai/resources/a-safe-and-modern-home-for-javascript-technologies.md))
-- **CloudEvents |** - (Rank Change: `+1560`) ([File](../ai/resources/cloudevents.md))
-- **huggingface (Hugging Face)** - (Rank Change: `+1559`) ([File](../ai/rag/huggingface-hugging-face.md))
-- **Overview - Knative** - (Rank Change: `+1524`) ([File](../ai/rag/overview-knative.md))
-- **AI and Cloud Computing Services | Google Cloud** - (Rank Change: `+1500`) ([File](../ai/rag/ai-and-cloud-computing-services-google-cloud.md))
-- **The Synack Red Team | Synack** - (Rank Change: `+1484`) ([File](../ai/rag/the-synack-red-team-synack.md))
-- **Penetration Testing Company | Synack PTaaS Platform** - (Rank Change: `+1483`) ([File](../ai/rag/penetration-testing-company-synack-ptaas-platform.md))
+- **Retrieval-Augmented Generation (RAG) — RAG multi model documentation** - (Rank Change: `+2448`) ([File](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md))
+- **get-source-code** - (Rank Change: `+2106`) ([File](../ai/resources/get-source-code.md))
+- **Get Firefox for desktop and mobile — Firefox.com** - (Rank Change: `+2068`) ([File](../ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md))
+- **Add-ons for Firefox (en-US)** - (Rank Change: `+2057`) ([File](../ai/resources/add-ons-for-firefox-en-us.md))
+- **Alerts and notifications: Texts and emails | Twilio** - (Rank Change: `+2051`) ([File](../ai/resources/alerts-and-notifications-texts-and-emails-twilio.md))
+- **BGP Routing Security Training Course - RIPE NCC** - (Rank Change: `+2028`) ([File](../ai/resources/bgp-routing-security-training-course-ripe-ncc.md))
+- **Nonprofit Communications | Twilio.org** - (Rank Change: `+2017`) ([File](../ai/rag/nonprofit-communications-twilio-org.md))
+- **Home | RIPE NCC Academy** - (Rank Change: `+2012`) ([File](../ai/resources/home-ripe-ncc-academy.md))
+- **IPv6 Security Training Course - RIPE NCC** - (Rank Change: `+2010`) ([File](../ai/resources/ipv6-security-training-course-ripe-ncc.md))
+- **User verification and mobile identity signals | Twilio** - (Rank Change: `+2005`) ([File](../ai/resources/user-verification-and-mobile-identity-signals-twil.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -59,13 +59,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **The Low-Tech AI of Elden Ring** (Category: `ai/community`) ([File](../ai/community/the-low-tech-ai-of-elden-ring.md))
-- **Show HN: RLM-based local debugger for AI agent traces** (Category: `ai/community`) ([File](../ai/community/context-labs-halo.md))
-- **shanraisshan/claude-code-best-practice** (Category: `ai/agents`) ([File](../ai/agents/shanraisshan-claude-code-best-practice.md))
-- **anthropics/claude-plugins-official** (Category: `ai/trending`) ([File](../ai/trending/anthropics-claude-plugins-official.md))
-- **garrytan/gstack** (Category: `ai/trending`) ([File](../ai/trending/garrytan-gstack.md))
-- **jamiepine/voicebox** (Category: `ai/trending`) ([File](../ai/trending/jamiepine-voicebox.md))
-- **byoungd/English-level-up-tips** (Category: `ai/trending`) ([File](../ai/trending/byoungd-english-level-up-tips.md))
-- **mukul975/Anthropic-Cybersecurity-Skills** (Category: `ai/agents`) ([File](../ai/agents/mukul975-anthropic-cybersecurity-skills.md))
-- **bytedance/deer-flow** (Category: `ai/rag`) ([File](../ai/rag/bytedance-deer-flow.md))
-- **koala73/worldmonitor** (Category: `ai/trending`) ([File](../ai/trending/koala73-worldmonitor.md))
+- **Qwen-AgentWorld: Language World Models for General Agents** (Category: `ai/community`) ([File](../ai/community/arxiv-2606-24597.md))
+- **Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'** (Category: `ai/community`) ([File](../ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md))
+- **Minimus container images are now free** (Category: `ai/community`) ([File](../ai/community/minimus-container-images-are-now-free.md))

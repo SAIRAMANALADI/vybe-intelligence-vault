@@ -11,10 +11,10 @@ Three.js, React Three Fiber (R3F), GSAP, WebGPU, Spline.
 
 ## Recommended Resources from the Vault
 *   [Accueil â Capitole du Libre](https://capitoledulibre.org)
+*   [Blend-Exchange](https://blend-exchange.com/b/e4gMgdv2)
 *   [Listen to WasmAssembly podcast | Deezer](https://www.deezer.com/show/1000884501)
 *   [Toulibre â Logiciel Libre en Occitanie](https://toulibre.org)
 *   [playcanvas/engine](https://github.com/playcanvas/engine)
-*   [ChartGPU/ChartGPU](https://github.com/chartgpu/chartgpu)
 
 ## Project Ideas
 *   Interactive 3D landing landing page using React Three Fiber and GSAP.

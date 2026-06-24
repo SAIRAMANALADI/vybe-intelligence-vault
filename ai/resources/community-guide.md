@@ -4,19 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyterbook.org
-published_at: '2026-06-23T01:14:56.701043+05:30'
-collected_at: '2026-06-23T01:14:56.701052+05:30'
+published_at: '2026-06-24T22:54:44.144967+05:30'
+collected_at: '2026-06-24T22:54:44.144981+05:30'
 tags:
 - models
 - reddit
 - web-crawled
 - workflows
-- youtube
 status: active
 resource_id: blog:community-guide
-first_seen: '2026-06-23T01:14:56.701052+05:30'
-last_seen: '2026-06-23T01:14:56.701052+05:30'
-last_checked: '2026-06-23T01:14:56.701052+05:30'
+first_seen: '2026-06-24T22:54:44.144981+05:30'
+last_seen: '2026-06-24T22:54:44.144981+05:30'
+last_checked: '2026-06-24T22:54:44.144981+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Engine & Performance**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to v1.0.
+- **Architecture**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to its predecessor.
 
-- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via MyST Markdown or Jupyter Notebooks, with cross-referencing, live code execution (Python/R/Julia), and web publishing.
+- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via Notebooks/Markdown, cross-referencing, live widget integration, and execution of Python/R/Julia at build time.
 
-- **Deployment & Extensibility**: Deployable to the web with live widgets (JupyterHub/Binder), customizable via plugins, and includes upgrade paths from v1.0 with documented limitations and community support channels.
+- **Deployment & Extensibility**: Allows publishing to the web with live widgets, supports JupyterHub/Binder integration, and enables customization through plugins, with upgrade paths from JB1 and community-driven development.
 
 ## Why It Matters
 
@@ -38,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:14:56.701043+05:30
+- Published: 2026-06-24T22:54:44.144967+05:30
 
 ## Related Tags
 
@@ -46,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - web-crawled
 - workflows
-- youtube
 
 ## Source
 

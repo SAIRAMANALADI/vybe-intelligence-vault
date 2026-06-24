@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://atproto.com
-published_at: '2026-06-24T10:25:41.461716+05:30'
-collected_at: '2026-06-24T10:25:41.461728+05:30'
+published_at: '2026-06-24T22:56:19.111199+05:30'
+collected_at: '2026-06-24T22:56:19.111209+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:at-protocol
-first_seen: '2026-06-24T10:25:41.461728+05:30'
-last_seen: '2026-06-24T10:25:41.461728+05:30'
-last_checked: '2026-06-24T10:25:41.461728+05:30'
+first_seen: '2026-06-24T22:56:19.111209+05:30'
+last_seen: '2026-06-24T22:56:19.111209+05:30'
+last_checked: '2026-06-24T22:56:19.111209+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Model**: AT Protocol represents all social data (posts, profiles, interactions) as strongly-typed JSON records with shared schemas (Lexicon) for composability and extensibility.
+- **JSON-based Data Network**: AT Protocol represents all entities (posts, likes, follows, profiles) as strongly typed JSON records, enabling schema-based composition and extension via shared Lexicons.
 
-- **Decentralized Identity & Linking**: Uses DIDs (Decentralized Identifiers) and Content-CIDs (Content Identifiers) to enable strong, verifiable links between user-owned data across independent Personal Data Servers (PDS).
+- **Decentralized Identity & Hyperlinking**: Usernames are domain-based identities (e.g., `@atproto.com`), with every record assigned a unique URI and CID for interoperable, strongly linked data across decentralized Personal Data Servers (PDS).
 
-- **Real-Time Data Access**: Provides a public WebSocket-based firehose (`wss://jetstream1.us-east.bsky.network/subscribe`) for streaming all public activity without API keys, enabling live feed generation, bot development, and analytics.
+- **Real-Time Public Firehose**: Provides a WebSocket-based event stream (`wss://jetstream1.us-east.bsky.network/subscribe`) for live public activity, enabling bot development, feed generation, and applications without API key restrictions.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:25:41.461716+05:30
+- Published: 2026-06-24T22:56:19.111199+05:30
 
 ## Related Tags
 

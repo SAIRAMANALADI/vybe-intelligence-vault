@@ -58,15 +58,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`introduction-electron.md`](../../ai/resources/introduction-electron.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Visual Studio product family documentation | Microsoft Learn](https://learn.microsoft.com/visualstudio)
+- **Category**: `ai/resources` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`visual-studio-product-family-documentation-microso.md`](../../ai/resources/visual-studio-product-family-documentation-microso.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`wordpress-developer-resources-developer-wordpress.md`](../../ai/resources/wordpress-developer-resources-developer-wordpress.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code)
-- **Category**: `ai/resources` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`get-source-code.md`](../../ai/resources/get-source-code.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-24 21:20 IST*
+*Last updated: 2026-06-24 23:31 IST*

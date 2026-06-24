@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyter.org
-published_at: '2026-06-24T21:06:29.385059+05:30'
-collected_at: '2026-06-24T21:06:29.385067+05:30'
+published_at: '2026-06-24T22:54:34.609875+05:30'
+collected_at: '2026-06-24T22:54:34.609884+05:30'
 tags:
 - rag
 - reddit
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:project-jupyter-home
-first_seen: '2026-06-24T21:06:29.385067+05:30'
-last_seen: '2026-06-24T21:06:29.385067+05:30'
-last_checked: '2026-06-24T21:06:29.385067+05:30'
+first_seen: '2026-06-24T22:54:34.609884+05:30'
+last_seen: '2026-06-24T22:54:34.609884+05:30'
+last_checked: '2026-06-24T22:54:34.609884+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with configurable, multi-panel workspaces for advanced workflows in data science and ML.
+- **Modular Architecture**: JupyterLab extends the classic Jupyter Notebook with a modular, extensible interface supporting multiple document/workspace configurations, enabling custom workflows in data science, ML, and scientific computing.
 
-- **Jupyter Notebook** uses an open JSON-based `.ipynb` format for reproducible computational documents, supporting 40+ languages and rich interactive outputs (HTML, LaTeX, widgets) via an open ZMQ/WebSocket-based kernel protocol.
+- **Multi-Language & Big Data Support**: Supports 40+ languages (Python, R, Julia, Scala) with seamless integration to big data tools (Apache Spark, pandas, TensorFlow) and rich interactive outputs (HTML, LaTeX, videos, custom MIME types).
 
-- **JupyterHub** enables centralized, scalable deployments (Docker/Kubernetes) with pluggable authentication (PAM/OAuth), multi-user isolation, and integration with big data tools (Spark, pandas, TensorFlow).
+- **Scalable Deployment & Open Standards**: JupyterHub enables centralized, containerized (Docker/Kubernetes) deployments with pluggable authentication (PAM/OAuth), while open standards (JSON-based Notebook format, ZMQ/WebSocket protocol) allow third-party customization and interoperability.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T21:06:29.385059+05:30
+- Published: 2026-06-24T22:54:34.609875+05:30
 
 ## Related Tags
 

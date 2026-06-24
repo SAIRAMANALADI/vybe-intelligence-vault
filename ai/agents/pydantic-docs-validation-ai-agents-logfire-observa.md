@@ -3,17 +3,17 @@ title: Pydantic Docs - Validation, AI Agents, Logfire Observability
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://pydantic-docs.helpmanual.io
-published_at: '2026-06-22T15:26:33.240154+05:30'
-collected_at: '2026-06-22T15:26:33.240169+05:30'
+source_url: https://docs.pydantic.dev
+published_at: '2026-06-24T22:53:56.473131+05:30'
+collected_at: '2026-06-24T22:53:56.473143+05:30'
 tags:
 - agents
 - web-crawled
 status: active
 resource_id: blog:pydantic-docs-validation-ai-agents-logfire-observa
-first_seen: '2026-06-22T15:26:33.240169+05:30'
-last_seen: '2026-06-22T15:26:33.240169+05:30'
-last_checked: '2026-06-22T15:26:33.240169+05:30'
+first_seen: '2026-06-24T22:53:56.473143+05:30'
+last_seen: '2026-06-24T22:53:56.473143+05:30'
+last_checked: '2026-06-24T22:53:56.473143+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Pydantic Validation**: Python-based data validation using type annotations; supports parsing/validation of complex data structures, JSON schema generation, and data integrity enforcement.
+- **Pydantic Validation**: Python-based data validation using type annotations; supports parsing, validation, and JSON schema generation for complex data structures.
 
-- **Pydantic AI**: Production-grade agent framework enabling type-safe, structured AI outputs, tool integration, and multi-agent orchestration with built-in Logfire observability.
+- **Pydantic AI**: Agent framework enabling type-safe, structured AI applications with tool integration and multi-agent orchestration, natively integrated with Logfire for observability.
 
-- **Pydantic Logfire**: Observability platform for monitoring LLM interactions, agent behavior, cost tracking, and performance metrics across full-stack AI deployments.
+- **Pydantic Logfire**: Observability tool for monitoring LLM interactions, agent behavior, cost tracking, and performance metrics across full-stack AI deployments.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T15:26:33.240154+05:30
+- Published: 2026-06-24T22:53:56.473131+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://pydantic-docs.helpmanual.io
+Original source: https://docs.pydantic.dev

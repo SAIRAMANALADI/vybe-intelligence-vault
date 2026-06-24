@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Transfer Learning Scenarios**: Two primary approaches are detailed: *finetuning* (updating all network weights from a pretrained model like ResNet18 on ImageNet) and *fixed feature extractor* (freezing all weights except the final fully connected layer, which is retrained).
+- **Transfer Learning Scenarios**: Two primary approaches are outlined: (1) *Finetuning the ConvNet*, where a pretrained network (e.g., ResNet18 on ImageNet) is initialized and trained further, and (2) *ConvNet as a fixed feature extractor*, where all layers except the final fully connected layer are frozen and only the new classifier is trained.
 
-- **Data Handling & Augmentation**: Uses `torchvision` with `ImageFolder` and `DataLoader`; applies random resized crops, horizontal flips, and normalization (mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]) for tr
+- **Data Handling & Augmentation**: Uses `torchvision` with `ImageFolder` and `DataLoader` for loading a small dataset (ants/bees) with augmentation (
 
 ## Use Cases
 

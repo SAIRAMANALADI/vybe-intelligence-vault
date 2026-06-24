@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://microsoft.github.io/graphrag
-published_at: '2026-06-22T15:23:52.794677+05:30'
-collected_at: '2026-06-22T15:23:52.794693+05:30'
+published_at: '2026-06-24T22:52:03.642803+05:30'
+collected_at: '2026-06-24T22:52:03.642814+05:30'
 tags:
 - dataset
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-graphrag
-first_seen: '2026-06-22T15:23:52.794693+05:30'
-last_seen: '2026-06-22T15:23:52.794693+05:30'
-last_checked: '2026-06-22T15:23:52.794693+05:30'
+first_seen: '2026-06-24T22:52:03.642814+05:30'
+last_seen: '2026-06-24T22:52:03.642814+05:30'
+last_checked: '2026-06-24T22:52:03.642814+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG Architecture**: Structured hierarchical RAG method that constructs a knowledge graph from raw text, performs hierarchical clustering (e.g., Leiden algorithm), and generates community summaries for improved reasoning over private datasets.
+- **Hierarchical RAG Framework**: GraphRAG transforms raw text into a structured knowledge graph (entities, relationships, claims) via hierarchical Leiden clustering, enabling multi-scale reasoning beyond naive vector similarity in RAG systems.
 
-- **Query Modes**: Supports multiple retrieval strategies—*Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric traversal), *DRIFT Search* (entity-centric with community context), and *Basic Search* (baseline vector similarity).
+- **Query Modes**: Supports *Global Search* (holistic corpus understanding via community summaries), *Local Search* (entity-centric reasoning via neighborhood traversal), and *DRIFT Search* (hybrid approach combining local graph context with community-level insights).
 
-- **Pipeline Steps**: *Index* phase extracts entities/relationships, clusters hierarchically, and summarizes communities; *Query* phase augments LLM prompts with graph-derived context; *Prompt Tuning* is recommended for optimization.
+- **Pipeline Stages**: Indexing phase extracts fine-grained TextUnits, builds the graph, and generates bottom-up community summaries; Query phase augments LLM prompts with graph-derived context; Prompt tuning is recommended for optimal performance.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:23:52.794677+05:30
+- Published: 2026-06-24T22:52:03.642803+05:30
 
 ## Related Tags
 

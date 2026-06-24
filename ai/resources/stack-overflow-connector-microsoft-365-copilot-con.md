@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.microsoft.com/en-us/microsoftsearch/stack-overflow-connector
-published_at: '2026-06-24T10:23:41.906046+05:30'
-collected_at: '2026-06-24T10:23:41.906059+05:30'
+published_at: '2026-06-24T23:15:02.866179+05:30'
+collected_at: '2026-06-24T23:15:02.866193+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stack-overflow-connector-microsoft-365-copilot-con
-first_seen: '2026-06-24T10:23:41.906059+05:30'
-last_seen: '2026-06-24T10:23:41.906059+05:30'
-last_checked: '2026-06-24T10:23:41.906059+05:30'
+first_seen: '2026-06-24T23:15:02.866193+05:30'
+last_seen: '2026-06-24T23:15:02.866193+05:30'
+last_checked: '2026-06-24T23:15:02.866193+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Indexing & Search**: The Stack Overflow Copilot connector indexes questions/answers from Stack Overflow (including Stack Internal Business/Enterprise) to enable Microsoft 365 Copilot and Search clients to retrieve technical content via semantic search.
+- **Indexing & Search**: The Stack Overflow Copilot connector indexes questions/answers from Stack Overflow (including Stack Internal Business/Enterprise) for Microsoft 365 Copilot and Search, enabling semantic search for technical queries (e.g., API best practices, performance optimization).
 
-- **Authentication & Setup**: Supports OAuth (Stack Internal Enterprise) or Basic Auth (Stack Internal Business), requires admin privileges, and requires organization-specific instance URLs (e.g., `https://.stackenterprise.co` or `https://api.stackoverflowteams.com/v3/teams/`).
+- **Authentication & Setup**: Requires AI admin rights; authentication varies by tier—OAuth for Stack Internal Enterprise (`https://.stackenterprise.co`) and Basic Auth for Stack Internal Business (`https://api.stackoverflowteams.com/v3/teams/`). Approved domain (`office.com`) must be configured for Enterprise.
 
-- **Data Management**: Default indexed properties include `QuestionBody`, `BestAnswerBody`, `Tags`, and metadata like `CreationDate`/`LastActivityDate`; admins can customize schema (searchable/queryable/retrievable/refinable) and sync intervals (full/incremental crawl).
+- **Data Management**: Admins can customize indexed properties (e.g., `BestAnswerBody`, `Tags`, `CreationDate`) with schema controls (searchable/queryable/retrievable/refinable), set sync intervals (full/incremental crawl), and manage access permissions for all Microsoft 365 users.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:23:41.906046+05:30
+- Published: 2026-06-24T23:15:02.866179+05:30
 
 ## Related Tags
 

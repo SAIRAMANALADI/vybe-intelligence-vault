@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-published_at: '2026-06-24T20:39:07.206051+05:30'
-collected_at: '2026-06-24T20:39:07.206066+05:30'
+published_at: '2026-06-24T22:49:50.210170+05:30'
+collected_at: '2026-06-24T22:49:50.210184+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-24T20:39:07.206066+05:30'
-last_seen: '2026-06-24T20:39:07.206066+05:30'
-last_checked: '2026-06-24T20:39:07.206066+05:30'
+first_seen: '2026-06-24T22:49:50.210184+05:30'
+last_seen: '2026-06-24T22:49:50.210184+05:30'
+last_checked: '2026-06-24T22:49:50.210184+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JS/TS), integrating with providers like OpenAI, Hugging Face, and Azure. Features tool chaining, prompt templates, agents, and memory for RAG pipelines.
+- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation; supports Python/JS/TS and integrates with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring adaptive chunking, OCR integration, and multi-modal retrieval (text, tables, images) with support for 100+ document formats and vector databases (Milvus, Weaviate, Qdrant).
+- **RAGFlow**: Open-source RAG framework optimized for document parsing and structured retrieval, featuring OCR, layout analysis, and vector database integration for enterprise-grade accuracy.
 
-- **Haystack by deepset-ai**: Modular RAG framework with pipeline-based architecture, supporting hybrid search (BM25 + vector), document stores (Elasticsearch, FAISS), and production-grade deployment tools (Docker, REST APIs) for scalable enterprise RAG applications.
+- **LLMWare**: Lightweight RAG library with pre-built pipelines for document ingestion, embedding, and retrieval; supports hybrid search (vector + keyword) and multi-modal data processing.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:39:07.206051+05:30
+- Published: 2026-06-24T22:49:50.210170+05:30
 
 ## Related Tags
 

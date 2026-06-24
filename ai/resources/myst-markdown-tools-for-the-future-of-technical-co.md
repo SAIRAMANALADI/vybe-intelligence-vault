@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://mystmd.org
-published_at: '2026-06-24T10:32:13.548055+05:30'
-collected_at: '2026-06-24T10:32:13.548067+05:30'
+published_at: '2026-06-24T22:54:49.137317+05:30'
+collected_at: '2026-06-24T22:54:49.137330+05:30'
 tags:
 - creative_dev
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:myst-markdown-tools-for-the-future-of-technical-co
-first_seen: '2026-06-24T10:32:13.548067+05:30'
-last_seen: '2026-06-24T10:32:13.548067+05:30'
-last_checked: '2026-06-24T10:32:13.548067+05:30'
+first_seen: '2026-06-24T22:54:49.137330+05:30'
+last_seen: '2026-06-24T22:54:49.137330+05:30'
+last_checked: '2026-06-24T22:54:49.137330+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Supports conversion of scientific documents to PDF, LaTeX, Microsoft Word, and interactive web formats from 400+ LaTeX journal templates.
-- Enables dynamic, reproducible scientific communication via JupyterHub integration, Python in-browser execution, and direct computational output embedding.
-- Open-source framework (MyST) with modular, composable tools for accessible, high-performance scientific publishing, backed by an evolving specification and community-driven development.
+- **Multi-format Publishing**: Supports conversion of scientific documents to PDF (via 400+ LaTeX templates), Microsoft Word, and interactive web formats from a single MyST Markdown source.
+- **Interactive & Reproducible Content**: Enables dynamic documents with Jupyter integration, live computations, and reproducible outputs directly embedded in publications.
+- **Open-Source Framework**: Built on an open specification and community-driven ecosystem (Executable Book Project), offering modular components, accessibility, and performance optimization for scientific communication.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:32:13.548055+05:30
+- Published: 2026-06-24T22:54:49.137317+05:30
 
 ## Related Tags
 

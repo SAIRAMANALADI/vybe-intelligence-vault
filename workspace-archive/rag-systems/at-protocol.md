@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Data Model**: AT Protocol represents all social data (posts, profiles, interactions) as strongly-typed JSON records with shared schemas (Lexicon) for composability and extensibility.
+- **JSON-based Data Network**: AT Protocol represents all entities (posts, likes, follows, profiles) as strongly typed JSON records, enabling schema-based composition and extension via shared Lexicons.
 
-- **Decentralized Identity & Linking**: Uses DIDs (Decentralized Identifiers) and Content-CIDs (Content Identifiers) to enable strong, verifiable links between user-owned data across independent Personal Data Servers (PDS).
+- **Decentralized Identity & Hyperlinking**: Usernames are domain-based identities (e.g., `@atproto.com`), with every record assigned a unique URI and CID for interoperable, strongly linked data across decentralized Personal Data Servers (PDS).
 
-- **Real-Time Data Access**: Provides a public WebSocket-based firehose (`wss://jetstre
+- **Real-Time Public Firehose**: Provides a WebSock
 
 ## Use Cases
 

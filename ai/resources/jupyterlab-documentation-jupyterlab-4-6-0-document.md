@@ -3,9 +3,9 @@ title: JupyterLab Documentation — JupyterLab 4.6.0 documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://jupyterlab.readthedocs.io
-published_at: '2026-06-24T21:12:42.967425+05:30'
-collected_at: '2026-06-24T21:12:42.967436+05:30'
+source_url: https://jupyterlab.readthedocs.io/en/latest
+published_at: '2026-06-24T22:55:40.971291+05:30'
+collected_at: '2026-06-24T22:55:40.971303+05:30'
 tags:
 - frontend_ui
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
-first_seen: '2026-06-24T21:12:42.967436+05:30'
-last_seen: '2026-06-24T21:12:42.967436+05:30'
-last_checked: '2026-06-24T21:12:42.967436+05:30'
+first_seen: '2026-06-24T22:55:40.971303+05:30'
+last_seen: '2026-06-24T22:55:40.971303+05:30'
+last_checked: '2026-06-24T22:55:40.971303+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is an extensible, feature-rich IDE for computational notebooks, part of **Project Jupyter**, supporting interactive computing with code, visualizations, and rich text in a single document.
-
-- **Core features** include a modular interface for file editing, notebooks, terminals, debugging, and real-time collaboration, with deep customization via extensions and plugins.
-
-- **Architecture** is built on **NPM packages**, **Jupyter Server Extensions**, and follows **Language Server Protocol (LSP)** for language-aware tooling, enabling advanced development workflows.
+- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting computational notebooks with code, visualizations, and rich text, built as part of **Project Jupyter**.
+- **Core features** include multi-language support, a debugger, terminals, file editors, and real-time collaboration via extensions and workspaces.
+- **Architecture** is plugin-based (NPM packages, server extensions) with a React-based UI, enabling customization, testing, and contribution workflows.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:12:42.967425+05:30
+- Published: 2026-06-24T22:55:40.971291+05:30
 
 ## Related Tags
 
@@ -48,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://jupyterlab.readthedocs.io
+Original source: https://jupyterlab.readthedocs.io/en/latest

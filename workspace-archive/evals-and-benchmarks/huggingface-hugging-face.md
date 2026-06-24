@@ -8,11 +8,11 @@ local_vault_path: ai/rag/huggingface-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - agents
-- models
+- dataset
 - rag
 - web-crawled
 - workflows
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Architecture**: Moon Bot integrates a Slack-native coding agent with Hugging Face's infrastructure, leveraging Hugging Face Buckets for model storage and retrieval, enabling real-time, context-aware code assistance within Slack.
+- **Architecture**: Moon Bot integrates a Slack-native coding agent with Hugging Face's infrastructure, leveraging **Buckets** for model storage and retrieval, enabling seamless deployment of ML models in Slack workflows.
 
-- **Functionality**: The agent autonomously processes and executes coding tasks (e.g., code generation, debugging) by interfacing with Hugging Face's model APIs, while maintaining Slack-native workflows via slash commands and interactive messages.
+- **Integration**: Uses **Hugging Face’s Transformers** and **Datasets** libraries for on-demand model inference, with **Slack’s Events API** and **Socket Mode** for real-time, bidirectional communication between the agent and Slack workspace.
 
-- **Deployment**:
+- **Scalability**: Designed for
 
 ## Use Cases
 

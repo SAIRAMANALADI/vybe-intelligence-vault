@@ -4,7 +4,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
-| [crewAIInc/crewAI Release: 1.14.8a3](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
+| [crewAIInc/crewAI Release: 1.14.8a4](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |

@@ -8,6 +8,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 ## Top Matched Resources
 
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (prompt - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (framework - USEFUL Tier)
@@ -15,7 +16,6 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (prompt - USEFUL Tier)
 - [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](https://arxiv.org/abs/2401.12178) (framework - USEFUL Tier)
 - [Google AI Studio](https://aistudio.google.com) (prompt - USEFUL Tier)
-- [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -40,4 +40,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-24 21:20 IST*
+*Last updated: 2026-06-24 23:30 IST*

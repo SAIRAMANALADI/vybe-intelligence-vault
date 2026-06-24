@@ -8,14 +8,15 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -24,14 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-RAG multi model Introduction Introduction Implimentation What is Retrieval-Augmented Generation (RAG)? Step-by-Step Breakdown: Python Code Explanation Installation and Guide Installation Instructions Step-by-Step Guide for Using the Application Guide...
+- **RAG Framework**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching and integrating external knowledge.
+
+- **Implementation Components**: Modular Python-based system with `process_pdf.py` (PDF splitting/embedding), `question_handler.py` (Q&A chains), `summarizer.py` (document summarization), and `translator.py` (text translation), all orchestrated via Streamlit for UI.
 
 ## Use Cases
 

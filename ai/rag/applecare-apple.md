@@ -3,18 +3,18 @@ title: AppleCare - Apple
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.apple.com/support/products
-published_at: '2026-06-23T10:07:54.711563+05:30'
-collected_at: '2026-06-23T10:07:54.711575+05:30'
+source_url: http://www.apple.com/support/products
+published_at: '2026-06-24T22:54:25.245717+05:30'
+collected_at: '2026-06-24T22:54:25.245731+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:applecare-apple
-first_seen: '2026-06-23T10:07:54.711575+05:30'
-last_seen: '2026-06-23T10:07:54.711575+05:30'
-last_checked: '2026-06-23T10:07:54.711575+05:30'
+first_seen: '2026-06-24T22:54:25.245731+05:30'
+last_seen: '2026-06-24T22:54:25.245731+05:30'
+last_checked: '2026-06-24T22:54:25.245731+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Coverage Plan**: AppleCare One consolidates protection for up to three Apple devices (expandable to additional devices at $5.99/month each) under a single plan, offering unified accidental damage (drops/spills), liquid damage, battery replacements (<80% capacity), and theft/loss coverage (up to 3 claims/year for iPhone/iPad/Apple Watch).
+- **Unified Coverage & Claims**: AppleCare One consolidates protection for up to 3 Apple devices (expandable to additional devices at $5.99/month each), offering unlimited accidental damage repairs (drops/spills), liquid damage coverage, and up to 3 annual theft/loss claims for iPhone/iPad/Apple Watch—exceeding AppleCare+’s 2-claim limit.
 
-- **Service & Support Infrastructure**: Provides 24/7 priority support via chat/call/tap, same-day repairs at Apple Stores or authorized providers, express replacement for iPhones, onsite/mobile service for Macs/Displays, and global access to 5,000+ service centers with flat service fees ($29–$299 depending on repair type).
+- **Hardware & Battery Assurance**: Includes no-cost battery replacements if capacity drops below 80%, extended warranty coverage for hardware defects, and same-day repairs (where available) via Apple Stores or 5,000+ authorized service providers globally.
 
-- **Hardware-Specific Benefits**: iPhone/iPad/Apple Watch plans include theft/loss coverage (2 claims/12 months for individual plans, 3 total for AppleCare One), while Mac/Display plans cover unlimited accidental damage repairs with no battery replacement fees. All plans use genuine Apple parts and include extended warranty coverage.
+- **24/7 Priority Support & Flexible Service**: Provides round-the-clock expert support (chat/call/tap) and multiple repair options (in-store, mail-in, onsite, or express replacement), with low flat-fee service charges ($29–$299 depending on damage type).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:07:54.711563+05:30
+- Published: 2026-06-24T22:54:25.245717+05:30
 
 ## Related Tags
 
@@ -46,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.apple.com/support/products
+Original source: http://www.apple.com/support/products

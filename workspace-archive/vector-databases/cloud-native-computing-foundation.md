@@ -2,7 +2,7 @@
 title: Cloud Native Computing Foundation
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://cncf.io
+source_url: https://www.cncf.io
 resource_id: blog:cloud-native-computing-foundation
 local_vault_path: ai/rag/cloud-native-computing-foundation.md
 quality_score: 70
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **CNCF hosts 36 graduated, 37 incubating, and 153 sandbox projects**, including Kubernetes, Envoy, Prometheus, and OpenTelemetry, under the Linux Foundation’s governance.
-- **Projects span critical cloud-native domains**: orchestration (Kubernetes, KubeVirt), service mesh (Istio, Linkerd), observability (Prometheus, OpenTelemetry), security (Falco, SPIFFE), and storage (Rook, Longhorn).
-- **Membership-driven ecosystem**: Over 700 members collaborate to advance cloud-native tech, with case stud
+- **CNCF Project Maturity**: Manages 36 graduated, 37 incubating, and 153 sandbox projects under Linux Foundation, including Kubernetes, Envoy, and Prometheus, with a total of 226 projects.
+- **Project Categories**: Encompasses diverse cloud-native domains such as orchestration (Kubernetes, KubeVirt), observability (Prometheus, OpenTelemetry), networking (Envoy, Cilium), security (Falco, Kyverno), and storage (Rook, Longhorn).
+- **Community & Governance**: Provides support, oversight, and direct
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cncf.io
+Original source URL: https://www.cncf.io
 
 ## Local Vault File
 

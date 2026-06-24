@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Python port of the JavaScript `markdown-it` parser, maintaining structural parity with minimal Pythonic syntactical adjustments.
-- Fully compliant with the **CommonMark specification**, supports extensible syntax via configurable rules and pluggable extensions.
-- Optimized for performance, security, and interoperability (e.g., Google Assured OSS, CommonMark benchmarking).
+- Python port of the JavaScript `markdown-it` parser, adhering closely to the original code structure with minimal syntactic changes.
+- Implements the **CommonMark spec** for baseline parsing, with configurable syntax, pluggable extensions, and high-speed performance benchmarks.
+- Supports security hardening, Google’s Assured Open Source Software compliance, and includes a modular architecture for token stream processing, rendering, and plugin integration.
 
 ## Use Cases
 

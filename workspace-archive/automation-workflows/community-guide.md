@@ -15,7 +15,6 @@ tags:
 - reddit
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Engine & Performance**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to v1.0.
+- **Architecture**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to its predecessor.
 
-- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via MyST Markdown or Jupyter Notebooks, with cross-referencing, live code execution (Python/R/Julia), and web publishing.
+- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via Notebooks/Markdown, cross-referencing, live widget integration, and execution of Python/R/Julia at build time.
 
-- **Deployment & Extensibility**: Deployable to the web with live widgets (JupyterHub/Binder), customizable via pl
+- **Deployment & Extensibility**: Allows publishing to the web with live widgets, supports JupyterHub/Binder integrati
 
 ## Use Cases
 

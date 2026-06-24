@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/apple/container
-published_at: '2026-06-24T20:38:09.766265+05:30'
-collected_at: '2026-06-24T20:38:09.766268+05:30'
+published_at: '2026-06-24T22:48:55.945402+05:30'
+collected_at: '2026-06-24T22:48:55.945405+05:30'
 tags:
 - github-trending
 - swift
 status: active
 resource_id: github:apple/container
 first_seen: '2026-06-24T20:38:09.766268+05:30'
-last_seen: '2026-06-24T20:38:09.766268+05:30'
-last_checked: '2026-06-24T20:38:09.766268+05:30'
+last_seen: '2026-06-24T22:48:55.945405+05:30'
+last_checked: '2026-06-24T22:48:55.945405+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-24T20:38:09.766265+05:30
+- Published: 2026-06-24T22:48:55.945402+05:30
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: 'Unity: Develop, Deploy, and Grow | The World''s Leading Game Engine'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://unity3d.com
+source_url: https://unity.com
 resource_id: blog:unity-develop-deploy-and-grow-the-world-s-leading
 local_vault_path: ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md
 quality_score: 70
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unity AI Beta Integration**: Introduces an AI agent optimized for Unity workflows, with AI Gateway and MCP Server support for secure third-party tool integration in Unity 6.
-- **Cross-Platform Deployment**: Supports native deployment across 25+ platforms (desktop, mobile, console, XR) with built-in analytics for player behavior optimization.
-- **Monetization & Growth Tools**: Provides flexible commerce tools (ads, in-app purchases) and user acquisition analytics to maximize lifetime value an
+- **Unity AI Beta Integration**: Unity AI Beta introduces an agent optimized for Unity workflows, enabling AI-driven game development, with optional secure integration via AI Gateway and MCP Server for custom toolchains.
+
+- **Multiplatform Deployment & Analytics**: Unity supports cross-platform development (desktop, mobile, console, XR) with built-in player insights and monetization tools, including Unity Cloud for user acquisition and app monetization.
+
+- **Learning & Scalability**: Unity Learn
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://unity3d.com
+Original source URL: https://unity.com
 
 ## Local Vault File
 

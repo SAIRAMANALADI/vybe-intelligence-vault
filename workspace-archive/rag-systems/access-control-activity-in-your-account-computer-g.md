@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Activity Data Collection & Storage**: Google's "My Activity" aggregates user activity (searches, browsing, videos) across services (Search, YouTube, Chrome) into a centralized account dashboard, with data retention controlled by **Web & App Activity** settings; activity is saved only when signed in and requires online connectivity.
+- **Activity Tracking**: Google Account stores user activity (searches, websites visited, videos watched) in the "My Activity" section, including associated metadata like location, contingent on enabled activity settings and active sign-in status.
 
-- **Activity Management & Deletion**: Users can **view, filter, and delete** activity items individually or via automatic deletion rules; **extra verification**
+- **Activity Management**: Users can view, delete, or disable activity tracking via [My Activity settings](https://myactivity.google.com/myactivity), with options for manual deletion or automatic deletion of older activity.
+
+- **Activity Verification
 
 ## Use Cases
 

@@ -26,8 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Account Management**: Medium provides granular control over profile settings, email preferences, subscription management, and social media integration via dedicated help articles (e.g., [profile URL customization](https://help.medium.com/hc/en-us/articles/115004746707-Your-profile-page-URL), [subscription adjustments](https://medium.zendesk.com/hc/en-us/articles/360006277374)).
-- **Content Distribution & Monetization**: Stories undergo curation for distribution tiers (Boost/General/Network),
+- Medium's **Partner Program** enables monetization via eligibility criteria, earnings dashboards, and revenue calculation metrics (e.g., read ratio, member reading time).
+- **Publication management** includes story submission workflows, curation settings, and layout customization (e.g., editorial guidelines, contributor roles).
+- **Content policies** enforce strict moderation via COVID-19, controversial content, and journalism best-practice guidelines, with user safety tools for blocking/report
 
 ## Use Cases
 

@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.api.nvidia.com
-published_at: '2026-06-24T20:49:45.443590+05:30'
-collected_at: '2026-06-24T20:49:45.443604+05:30'
+published_at: '2026-06-24T23:01:43.417551+05:30'
+collected_at: '2026-06-24T23:01:43.417564+05:30'
 tags:
 - hackernews
 - reddit
 - web-crawled
 status: active
 resource_id: blog:nvidia
-first_seen: '2026-06-24T20:49:45.443604+05:30'
-last_seen: '2026-06-24T20:49:45.443604+05:30'
-last_checked: '2026-06-24T20:49:45.443604+05:30'
+first_seen: '2026-06-24T23:01:43.417564+05:30'
+last_seen: '2026-06-24T23:01:43.417564+05:30'
+last_checked: '2026-06-24T23:01:43.417564+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **NVIDIA API Suite**: Provides access to NIM (NVIDIA Inference Microservices) and CUDA-X microservices for integration into products via API references, including Cloud Functions, Attestation, and NGC services.
+- **NVIDIA API Suite**: Provides access to NIM (NVIDIA Inference Microservices) and CUDA-X microservices for integration into products via API references, including NIM, Cloud Functions, Attestation, and NGC services.
 
-- **Prototyping Endpoints**: Offers cloud-hosted NIM endpoints for rapid prototyping across domains such as Large Language Models (LLMs), Visual Design, Multimodal, Retrieval, Healthcare, and Weather Prediction (e.g., NVIDIA Earth-2).
+- **Prototyping Endpoints**: Offers cloud-hosted NIM endpoints for rapid application prototyping across domains such as Large Language Models (LLMs), Visual Design, Multimodal, Retrieval, Healthcare, and Weather Prediction (e.g., NVIDIA Earth-2).
 
-- **Developer Resources**: Includes NVIDIA Docs Hub, Developer portal, GitHub examples, and legal/privacy policies for upskilling, code samples, and compliance documentation.
+- **Developer Resources**: Includes NVIDIA Docs Hub, Developer portal, GitHub examples, and legal/privacy policies for technical documentation, tutorials, and sample projects.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T20:49:45.443590+05:30
+- Published: 2026-06-24T23:01:43.417551+05:30
 
 ## Related Tags
 

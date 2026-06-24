@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Syntax-based Markdown Processor**: Textile converts plain text with lightweight markup syntax into valid HTML, automating typographic refinements (e.g., smart quotes, em/en dashes) and structural elements (paragraphs, headers, blockquotes) without requiring manual HTML tags.
+- **Textile markup language**: A lightweight plaintext-to-HTML conversion tool (2002) that auto-generates typographic refinements (smart quotes, dashes) and structural HTML elements (paragraphs, headers, blockquotes) via simple syntax like `h*n*.`, `bq.`, `#`, and `*`.
 
-- **Modular Markup Rules**: Supports block-level modifiers (e.g., `h*n*.` for headers, `bq.` for blockquotes, `#`/ `*` for lists) and inline phrase modifiers (e.g., `_italic_`, `*bold*`, `??citation??`, `-deleted-`, `+i
+- **Inline formatting syntax**: Supports phrase-level modifiers including `_italic_`, `*bold*`, `??citation??`, `-deleted text-`, `+inserted text+`, `^superscript^`, and `~subscript~`, along with link (`"text":url`) and image (`!
 
 ## Use Cases
 

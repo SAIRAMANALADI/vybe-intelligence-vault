@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.chromium.org
-published_at: '2026-06-24T10:22:10.791629+05:30'
-collected_at: '2026-06-24T10:22:10.791646+05:30'
+published_at: '2026-06-24T23:10:42.859913+05:30'
+collected_at: '2026-06-24T23:10:42.859925+05:30'
 tags:
 - benchmark
 - rag
 - web-crawled
 status: active
 resource_id: blog:chromium-blog
-first_seen: '2026-06-24T10:22:10.791646+05:30'
-last_seen: '2026-06-24T10:22:10.791646+05:30'
-last_checked: '2026-06-24T10:22:10.791646+05:30'
+first_seen: '2026-06-24T23:10:42.859925+05:30'
+last_seen: '2026-06-24T23:10:42.859925+05:30'
+last_checked: '2026-06-24T23:10:42.859925+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Performance Milestone**: Chromium-based browsers on Android achieved a new record in web performance, as measured by the Speedometer 2.1 benchmark, outperforming other mobile platforms.
-- **Optimizations**: Key improvements include enhanced JavaScript execution, optimized rendering pipeline, and reduced memory overhead via V8 engine and Blink rendering engine enhancements.
-- **Benchmark Results**: Speedometer 2.1 scores exceeded prior records by **~25%**, demonstrating significant gains in real-world web app responsiveness and load times.
+- **Performance Benchmark**: Android achieved the highest Speedometer 2.0 score (102) among mobile platforms, surpassing competitors in web app performance.
+- **Optimizations**: Chromium's V8 JavaScript engine and rendering pipeline enhancements contributed to the 25% improvement in web app responsiveness.
+- **Benchmark Context**: Speedometer 2.0 measures real-world web app performance, simulating complex workloads like TodoMVC and Flight Planning.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:22:10.791629+05:30
+- Published: 2026-06-24T23:10:42.859913+05:30
 
 ## Related Tags
 

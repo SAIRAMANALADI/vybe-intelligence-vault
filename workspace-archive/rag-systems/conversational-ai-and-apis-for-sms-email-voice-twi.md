@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Conversation Orchestration**: Twilio's platform enables seamless coordination between humans and AI agents across channels (voice, chat, SMS, RCS, email) with persistent memory, real-time context retention, and intelligent handoffs based on conversation complexity.
+- **Unified Conversational AI**: Twilio integrates **Conversation Orchestrator, Memory, and Intelligence** to enable AI agents to deliver personalized, context-aware interactions across all channels (voice, chat, SMS, email) with persistent memory and real-time data.
 
-- **AI-Powered Personalization**: Leverages internal knowledge and real-time data to transform every interaction—including first contact—into a contextual, personalized dialogue, with products like **Conversation Intellig
+- **Seamless Human-AI Handoff**: Uses **Conversation Intelligence** and **Relay** to dynamically escalate complex queries to human agents while preserving full conversation context, eliminating repetition for customers.
+
+- **Cross-
 
 ## Use Cases
 

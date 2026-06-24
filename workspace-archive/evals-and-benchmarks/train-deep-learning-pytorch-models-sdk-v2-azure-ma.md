@@ -15,7 +15,6 @@ tags:
 - benchmark
 - dataset
 - hackernews
-- models
 - rag
 - reddit
 - web-crawled
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **PyTorch Model Training & Deployment**: Azure Machine Learning (AML) enables scalable training, hyperparameter tuning, and deployment of PyTorch models using the Python SDK v2, leveraging elastic cloud compute resources for distributed workloads.
+- **PyTorch Model Training & Deployment**: Azure Machine Learning (AML) enables scalable training, hyperparameter tuning, and deployment of PyTorch models using the Python SDK v2, leveraging elastic cloud compute resources for distributed training and production-grade model management.
 
-- **Transfer Learning & Compute Setup**: Utilizes PyTorch’s transfer learning (e.g., fine-tuning pre-trained models) to reduce training time/data requirements; AML provisions GPU clusters (e.g., `STANDARD_NC4AS_T4_V3`) via `AmlCompute` for accelerat
+- **Compute & Environment Setup**: AML supports GPU-accelerated compute clusters (e.g., `Standard_NC4as_T4_v3`) and curated PyTorch environments (e.g., `AzureML-acpt-pytorch-2.8-cuda12.6@latest`) for efficient tr
 
 ## Use Cases
 

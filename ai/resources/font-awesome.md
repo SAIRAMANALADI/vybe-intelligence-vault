@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://fontawesome.com
-published_at: '2026-06-24T21:06:01.578923+05:30'
-collected_at: '2026-06-24T21:06:01.578938+05:30'
+published_at: '2026-06-24T23:03:33.157768+05:30'
+collected_at: '2026-06-24T23:03:33.157780+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:font-awesome
-first_seen: '2026-06-24T21:06:01.578938+05:30'
-last_seen: '2026-06-24T21:06:01.578938+05:30'
-last_checked: '2026-06-24T21:06:01.578938+05:30'
+first_seen: '2026-06-24T23:03:33.157780+05:30'
+last_seen: '2026-06-24T23:03:33.157780+05:30'
+last_checked: '2026-06-24T23:03:33.157780+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:06:01.578923+05:30
+- Published: 2026-06-24T23:03:33.157768+05:30
 
 ## Related Tags
 

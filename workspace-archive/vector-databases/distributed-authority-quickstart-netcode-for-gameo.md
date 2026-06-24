@@ -6,10 +6,10 @@ source_url: https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11
 resource_id: blog:distributed-authority-quickstart-netcode-for-gameo
 local_vault_path: ai/rag/distributed-authority-quickstart-netcode-for-gameo.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - rag
 - threejs
@@ -23,18 +23,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Distributed Authority Setup**: Configure Netcode for GameObjects to delegate authority across multiple clients/servers for latency optimization and performance balancing in multiplayer games.
+- **Distributed Authority Setup**: Configure Netcode for GameObjects to use distributed authority by following the [official quickstart guide](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/learn/distributed-authority-quick-start.html), enabling server-client authority delegation for scalable multiplayer architectures.
 
-- **WebGL-Specific Implementation**: Adapt distributed authority principles for WebGL builds, ensuring cross-platform compatibility while maintaining authoritative control over game state.
-
-- **Performance Optimization**: Leverage distributed authority to mitigate latency issues by dynamically distribu
+- **WebGL-Specific Adaptation**: Implement distributed authority in WebGL builds via the [dedicated quickstart](https://docs.unity3d.com/Packages/com
 
 ## Use Cases
 

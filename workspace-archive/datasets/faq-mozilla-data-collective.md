@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Immutable Terms of Use Fields**: After publishing a dataset, fields defining its terms of use become uneditable to maintain compliance and legal integrity.
-- **Data Integrity Protection**: Prevents unauthorized modifications to critical metadata that govern dataset usage rights and restrictions.
-- **Version Control Enforcement**: Ensures consistent terms across all versions of a published dataset, avoiding ambiguity in licensing or usage agreements.
+- **Immutable Terms of Use Fields**: Post-publication, dataset terms of use fields (e.g., license, usage restrictions) are locked to ensure legal compliance and prevent unauthorized modifications.
+- **Data Integrity Enforcement**: Editing critical metadata after publication could compromise dataset authenticity, provenance tracking, or compliance with licensing agreements.
+- **System-Level Locking Mechanism**: The platform enforces read-only access to these fields via backend constraints, trigge
 
 ## Use Cases
 

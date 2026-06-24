@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **VS Code Marketplace**: Centralized platform for discovering, installing, and publishing extensions for Visual Studio Code (VS Code), developed by Microsoft.
-
-- **Integration & Features**: Supports seamless extension integration with VS Code, enabling enhanced functionality (e.g., language support, debuggers, linters) via a JSON-based configuration (`package.json`).
-
-- **Ecosystem & Compliance**: Hosts a curated ecosystem of extensions under Microsoft’s [Terms of Use](https://aka.ms/vsmarketp
+- **Marketplace Platform**: Visual Studio Marketplace serves as a centralized hub for discovering, installing, and publishing extensions, themes, and other VS Code integrations.
+- **Authentication & Integration**: Requires sign-in via Microsoft’s identity platform (`app.vssps.visualstudio.com`) for access, with OAuth2-based workflows (`workflowId=marketplace`).
+- **Compliance & Policies**: Enforces Microsoft’s [Terms of Use](https://aka.ms/vsmarketplace-ToU), [Privacy Policy](https://go.microsof
 
 ## Use Cases
 

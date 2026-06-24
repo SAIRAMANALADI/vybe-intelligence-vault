@@ -28,10 +28,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `rag-systems` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `rag-systems` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `rag-systems` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `rag-systems` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
+- [malonge/RaGOO](https://github.com/malonge/RaGOO) (Category: `rag-systems` | [`Local File`](../../ai/rag/malonge-ragoo.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `rag-systems` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 
 ## Model Selection, Inference & Cost Profiling
@@ -91,6 +91,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Curriculums & Reference Projects
 
+- [Get Started - The Go Programming Language](https://go.dev/learn) (Category: `learning-paths` | [`Local File`](../../ai/resources/get-started-the-go-programming-language.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (Category: `learning-paths` | [`Local File`](../../ai/rag/unity-essentials-pathway-learn-game-development-fo.md))
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (Category: `learning-paths` | [`Local File`](../../ai/agents/bitbucket-atlassian-community.md))
@@ -98,7 +99,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Category: `project-ideas` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
-- [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11214.md))
 
 ---
-*Last updated: 2026-06-24 21:20 IST*
+*Last updated: 2026-06-24 23:31 IST*

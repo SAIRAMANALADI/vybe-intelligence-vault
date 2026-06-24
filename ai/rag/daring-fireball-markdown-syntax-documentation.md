@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://daringfireball.net/projects/markdown/syntax
-published_at: '2026-06-24T21:13:02.281457+05:30'
-collected_at: '2026-06-24T21:13:02.281470+05:30'
+published_at: '2026-06-24T22:58:35.878104+05:30'
+collected_at: '2026-06-24T22:58:35.878119+05:30'
 tags:
-- anthropic
+- agents
 - hackernews
-- openai
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:daring-fireball-markdown-syntax-documentation
-first_seen: '2026-06-24T21:13:02.281470+05:30'
-last_seen: '2026-06-24T21:13:02.281470+05:30'
-last_checked: '2026-06-24T21:13:02.281470+05:30'
+first_seen: '2026-06-24T22:58:35.878119+05:30'
+last_seen: '2026-06-24T22:58:35.878119+05:30'
+last_checked: '2026-06-24T22:58:35.878119+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax Design**: Markdown uses punctuation characters (e.g., `*`, `#`, `>`, `-`) to represent formatting (emphasis, headers, blockquotes, lists) with syntax designed for readability in plain text while mapping to HTML output.
+- **Markdown Syntax Design**: Prioritizes human-readable plain text formatting using punctuation (e.g., `*emphasis*`, `# Headers`) while allowing seamless inline HTML for unsupported elements, ensuring compatibility with web publishing without complex tagging.
 
-- **HTML Integration**: Supports inline HTML for unsupported elements and automatically escapes `<` and `&` to `&lt;` and `&amp;` unless used in code spans/blocks, ensuring valid HTML without manual escaping.
+- **Automatic Escaping & Special Characters**: Handles HTML-sensitive characters (`<`, `&`) automatically—converting them to entities (`&lt;`, `&amp;`) in rendered output—except within code spans/blocks where they remain escaped for syntax clarity.
 
-- **Block vs. Span Elements**: Block-level HTML requires blank-line separation and no indentation, while span-level tags (e.g., `<em>`, `<strong>`) can be embedded inline; Markdown syntax is processed within span tags but ignored in block-level HTML.
+- **Block & Span Elements**: Supports structured content via block-level elements (e.g., headers with `=`/`-` underlines or `#` prefixes, blockquotes with `>`, lists with `*`, `+`, `-`, or numbered items) and inline span elements (e.g., links `[text](url)`, emphasis `*bold*`, code `` `inline` ``).
 
 ## Why It Matters
 
@@ -39,13 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T21:13:02.281457+05:30
+- Published: 2026-06-24T22:58:35.878104+05:30
 
 ## Related Tags
 
-- anthropic
+- agents
 - hackernews
-- openai
 - rag
 - reddit
 - web-crawled

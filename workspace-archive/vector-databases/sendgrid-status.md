@@ -15,7 +15,6 @@ tags:
 - rag
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Valuable developer reference
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Notification Channels**: SendGrid offers email, SMS (via reCAPTCHA-protected OTP), and webhook notifications for incident updates, with support for 200+ country codes and configurable retry intervals.
-- **Operational Status Monitoring**: Real-time system status is tracked across Mail Sending, API v2/v3, SMTP, Marketing Campaigns, Webhooks, Parse API, and Billing, with historical incident logs available via Atom/RSS feeds.
-- **Incident Resolution Workflow**: Recent incidents (e.g., June 14, 2
+- **SendGrid Status Page**: Provides real-time operational status for SendGrid services (e.g., Mail Sending, API v3, SMTP, Marketing Campaigns) via [status.sendgrid.com](https://status.sendgrid.com), including incident history, severity levels, and resolution updates.
+
+- **Notification Subscriptions**: Supports email, SMS (global country codes), and webhook-based incident notifications for **create**, **update**, **resolve**, or **component status change** events, with reCAPTCHA and Atlassian/Go
 
 ## Use Cases
 

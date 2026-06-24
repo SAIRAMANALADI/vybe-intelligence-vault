@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://xoofx.github.io
-published_at: '2026-06-24T21:15:10.389566+05:30'
-collected_at: '2026-06-24T21:15:10.389578+05:30'
+published_at: '2026-06-24T23:08:59.307493+05:30'
+collected_at: '2026-06-24T23:08:59.307501+05:30'
 tags:
 - hackernews
+- reddit
 - web-crawled
 status: active
 resource_id: blog:home-xoofx
-first_seen: '2026-06-24T21:15:10.389578+05:30'
-last_seen: '2026-06-24T21:15:10.389578+05:30'
-last_checked: '2026-06-24T21:15:10.389578+05:30'
+first_seen: '2026-06-24T23:08:59.307501+05:30'
+last_seen: '2026-06-24T23:08:59.307501+05:30'
+last_checked: '2026-06-24T23:08:59.307501+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **Professional Background**: Software Engineer at Unity Technologies, Microsoft MVP (since 2014) in .NET/C#, with 10+ years of C# experience; maintains OSS and private projects.
-- **Online Presence**: Active on Mastodon (@xoofx), previously Twitter; blogs at [xoofx.github.io/blog](https://xoofx.github.io/blog) with RSS feed ([feed.xml](https://xoofx.github.io/feed.xml)).
-- **Technical Stack**: Uses [lunet](https://github.com/lunet-io/lunet) for site generation; site content licensed under CC BY 2.5.
+- **Professional Identity**: Alexandre Mutel (aka *xoofx*), a C# software engineer at Unity Technologies since at least 2023, with a Microsoft MVP award (2014–present) in .NET/C#/Visual Studio.
+- **Technical Focus**: Maintains open-source projects and blogs about software development, primarily using C# (10+ years of experience), with prior social media activity on Twitter/Mastodon.
+- **Platform & Tools**: Site powered by *lunet*, content licensed under CC BY 2.5, with RSS feed support and resume hosted on GitHub Pages.
 
 ## Why It Matters
 
@@ -33,11 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:15:10.389566+05:30
+- Published: 2026-06-24T23:08:59.307493+05:30
 
 ## Related Tags
 
 - hackernews
+- reddit
 - web-crawled
 
 ## Source

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://swift.org
-published_at: '2026-06-24T20:58:03.431933+05:30'
-collected_at: '2026-06-24T20:58:03.431947+05:30'
+published_at: '2026-06-24T23:06:52.977576+05:30'
+collected_at: '2026-06-24T23:06:52.977585+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:swift-programming-language
-first_seen: '2026-06-24T20:58:03.431947+05:30'
-last_seen: '2026-06-24T20:58:03.431947+05:30'
-last_checked: '2026-06-24T20:58:03.431947+05:30'
+first_seen: '2026-06-24T23:06:52.977585+05:30'
+last_seen: '2026-06-24T23:06:52.977585+05:30'
+last_checked: '2026-06-24T23:06:52.977585+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Performance & Safety**: Swift compiles to native code with predictable memory management, enforces compile-time memory/data race safety, and eliminates entire classes of bugs via language design.
-- **Multiplatform & Interoperable**: Supports embedded systems, mobile (iOS/Windows), cloud services, and ML/AI; natively interoperates with C/C++ and allows incremental adoption in existing codebases.
-- **Expressive Syntax & Tooling**: Combines concise, readable code with powerful paradigms (OOP, functional, generic); provides cross-platform tools (Xcode, VS Code, LLVM-based editors) and open-source governance via Swift Evolution.
+- **Multiplatform & Performance**: Swift compiles to native code with predictable memory management, enabling high-performance execution across Linux, macOS, Windows, and embedded systems (e.g., microcontrollers).
+- **Safety & Interoperability**: Enforces compile-time memory/data race safety while supporting seamless C/C++ interoperability (e.g., direct `std::string` usage) and incremental adoption in existing codebases.
+- **Expressive Tooling**: Supports object-oriented, functional, and generic programming with tools like `ArgumentParser` for CLI development and `SwiftPM` for package management, optimized for both constrained and large-scale environments.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:58:03.431933+05:30
+- Published: 2026-06-24T23:06:52.977576+05:30
 
 ## Related Tags
 

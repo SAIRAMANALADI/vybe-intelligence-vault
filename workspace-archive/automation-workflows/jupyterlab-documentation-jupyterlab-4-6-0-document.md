@@ -2,7 +2,7 @@
 title: JupyterLab Documentation — JupyterLab 4.6.0 documentation
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://jupyterlab.readthedocs.io
+source_url: https://jupyterlab.readthedocs.io/en/latest
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
 local_vault_path: ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **JupyterLab** is an extensible, feature-rich IDE for computational notebooks, part of **Project Jupyter**, supporting interactive computing with code, visualizations, and rich text in a single document.
-
-- **Core features** include a modular interface for file editing, notebooks, terminals, debugging, and real-time collaboration, with deep customization via extensions and plugins.
-
-- **Architecture** is built on **NPM packages**, **Jupyter Server Extensions**, and follows **Language Server Pr
+- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting computational notebooks with code, visualizations, and rich text, built as part of **Project Jupyter**.
+- **Core features** include multi-language support, a debugger, terminals, file editors, and real-time collaboration via extensions and workspaces.
+- **Architecture** is plugin-based (NPM packages, server extensions) with a React-based UI, enabling customization, testing, and contribution workflows.
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyterlab.readthedocs.io
+Original source URL: https://jupyterlab.readthedocs.io/en/latest
 
 ## Local Vault File
 

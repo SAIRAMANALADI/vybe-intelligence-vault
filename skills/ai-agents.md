@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1181 resources matched in the intelligence vault.
+Active signals: 1211 resources matched in the intelligence vault.
 Recently detected signals:
-- [Building MCPs with Netlify | Netlify Developers](../ai/agents/building-mcps-with-netlify-netlify-developers.md) (Source: Unknown Source) - Collected 2026-06-24
-- [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Bitbucket | Atlassian Community](../ai/agents/bitbucket-atlassian-community.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Netlify CLI command reference | Netlify CLI command reference](../ai/rag/netlify-cli-command-reference-netlify-cli-command.md) (Source: Unknown Source) - Collected 2026-06-24
+- [End User License Agreement (EULA) | Posit Software, PBC](../ai/agents/end-user-license-agreement-eula-posit-software-pbc.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Terms and conditions | Legal information | Springer Nature](../ai/agents/terms-and-conditions-legal-information-springer-na.md) (Source: Unknown Source) - Collected 2026-06-24
+- [transforms - How do I lock the rotation of a bone to the world's Z-axis while still allowing it to follow the motion of](../ai/agents/transforms-how-do-i-lock-the-rotation-of-a-bone-to.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Git : Code : snapd](../ai/agents/git-code-snapd.md) (Source: Unknown Source) - Collected 2026-06-24
+- [geometry nodes - How to randomly offset instances animation - Blender Stack Exchange](../ai/agents/geometry-nodes-how-to-randomly-offset-instances-an.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -71,7 +71,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
 
-### 9. [crewAIInc/crewAI Release: 1.14.8a3](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
+### 9. [crewAIInc/crewAI Release: 1.14.8a4](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: crewAIInc/crewAI
@@ -266,20 +266,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 48. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
+### 48. [Show HN: peerd – AI agent harness that runs entirely in your browser](../ai/community/notasithlord-peerd.md) ([GitHub](https://github.com/notasithlord/peerd))
+- Stars: 0
+- Language: Unknown
+- Description: Title: Show HN: peerd – AI agent harness that runs entirely in your browser
+
+### 49. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
 - Stars: 0
 - Language: Unknown
 - Description: https://adongwanai.github.io/AgentGuide | AI Agent | LangGraph | RAG |  |  |  |  |
 
-### 49. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 50. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
-
-### 50. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
-- Stars: 0
-- Language: Unknown
-- Description: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.050602+05:30.366932+05:30.399836+05:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T23:30:02.384632+05:30.050602+05:30.366932+05:30.399836+05:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular Scientific Content Management**: Curvenote's SCMS organizes research into reusable, modular components (protocols, datasets, code) for cross-project compatibility, enabling dynamic, interactive publishing and eliminating redundant work.
+- **Modular Research Components**: Curvenote's SCMS organizes research into reusable, shareable modular components (protocols, datasets, models) that maintain traceability across projects, enabling dynamic remixing and reducing redundant work.
 
-- **Workflow Acceleration & Integration**: Enables real-time collaboration in web-first formats with direct integrations to existing tools (lab notebooks, preprint repositories), ensuring metadata compliance, open access, and seamless reuse of resear
+- **Interactive, Data-Rich Publishing**: The platform transforms static PDFs into interactive, data-connected research ecosystems where results retain source history, credit, and context, facilitating real-time collaboration and computational workflows.
 
 ## Use Cases
 

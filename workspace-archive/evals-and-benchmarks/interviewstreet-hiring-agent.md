@@ -12,8 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- github-trending
-- python
 selection_reason:
 - Strong keyword match
 - Active open-source repository

@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/salesforce
 published_at: '2024-01-04T16:49:18.000Z'
-collected_at: '2026-06-24T20:38:09.040059+05:30'
+collected_at: '2026-06-24T22:48:55.073613+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/salesforce
 first_seen: '2026-06-18T23:35:18.472194+05:30'
-last_seen: '2026-06-24T20:38:09.040059+05:30'
-last_checked: '2026-06-24T20:38:09.040059+05:30'
+last_seen: '2026-06-24T22:48:55.073613+05:30'
+last_checked: '2026-06-24T22:48:55.073613+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: Salesforce/wikitext (Likes: 724, Downloads: 1319115)
+Trending Hugging Face dataset: Salesforce/wikitext (Likes: 725, Downloads: 1319115)
 
 ## Why It Matters
 

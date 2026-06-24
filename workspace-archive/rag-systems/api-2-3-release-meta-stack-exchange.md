@@ -6,13 +6,14 @@ source_url: https://meta.stackexchange.com/questions/366977/api-2-3-release
 resource_id: blog:api-2-3-release-meta-stack-exchange
 local_vault_path: ai/rag/api-2-3-release-meta-stack-exchange.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - agents
 - hackernews
+- paper
 - rag
 - reddit
 - scripts
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **API v2.3 Release Notes**: Introduced support for [Collectives](https://meta.stackoverflow.com/questions/408585/beta-release-of-collectives-on-stack-overflow) and Articles, added flag retraction capability, and exposed new endpoints for suggested edits, tag preferences, and network achievements.
-
-- **API Consistency Issues**: New `collective-report` type fields (`ActivityReportDimensions`, `HealthReportDimensions`, `UsersReportDimensions`) violate snake_case convention, breaking API naming co
+- **API 2.3 introduces new endpoints for Collectives and Articles**, including the ability to retract flags, with changes logged in the [official Change Log](https://api.stackexchange.com/docs/change-log).
+- **Inconsistent field naming conventions** observed in the new `collective-report` type, where three fields (`ActivityReportDimensions`, `HealthReportDimensions`, `UsersReportDimensions`) deviate from the API’s standard snake_case format.
+- **Bug fixes and documentation updates** include corr
 
 ## Use Cases
 

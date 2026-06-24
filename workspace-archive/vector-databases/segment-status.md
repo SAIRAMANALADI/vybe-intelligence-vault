@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -29,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Incident Status**: Facebook Custom Audiences destination experienced partial delivery failures for select workspaces, with root cause identified and a fix deployed; ongoing monitoring confirms stability.
-- **System Uptime**: All Segment services (APIs, pipelines, interfaces) reported 100% uptime over the past 90 days, with no recorded downtime.
-- **Notification System**: Users can subscribe to real-time incident updates via email/SMS (global numbers supported) through reCAPTCHA-protected Atl
+- **Incident Status**: Facebook Custom Audiences destination experienced partial delivery failures for select workspaces, with a fix deployed and confirmed stable as of June 8, 2026, after root cause identification on June 5, 2026.
+
+- **System Metrics**: All core Segment services (e.g., Data Ingestion API, Data Processing Pipeline, Web Interface) reported 100% uptime across US and EU regions over the past 90 days, with no recorded downtime.
+
+- **External Dependency Impact**: A June 22, 2026 outa
 
 ## Use Cases
 

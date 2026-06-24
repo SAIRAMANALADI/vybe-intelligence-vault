@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **iPad Compatibility Matrix**: 45 distinct iPad models listed with release years and supported OS versions (iOS/iPadOS), including legacy and current devices.
-- **OS Version Tracking**: Each model’s latest supported OS version is specified, reflecting Apple’s staggered update policies for older hardware.
-- **Hardware-Software Correlation**: Data highlights OS support gaps between newer and older iPads, e.g., A9/A9X chips max out at iPadOS 15, while A12+ support iPadOS 17+.
+- **Automatic Activation**: Focus modes (e.g., Do Not Disturb) can trigger automatically based on contextual factors like location, time, or app usage patterns.
+- **Smart Activation**: Uses on-device intelligence (e.g., ML) to detect user behavior (e.g., work hours, sleep patterns) and enable Focus modes without manual input.
+- **Scheduled Activation**: Predefined time-based triggers (e.g., calendar events, recurring schedules) to enforce Focus modes at specific intervals.
 
 ## Use Cases
 

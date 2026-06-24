@@ -4,21 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.atlassian.com
-published_at: '2026-06-24T21:14:16.852887+05:30'
-collected_at: '2026-06-24T21:14:16.852901+05:30'
+published_at: '2026-06-24T23:11:42.503787+05:30'
+collected_at: '2026-06-24T23:11:42.503800+05:30'
 tags:
 - agents
-- hackernews
 - rag
-- reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:explore-marketplace-solutions-for-atlassian-apps-a
-first_seen: '2026-06-24T21:14:16.852901+05:30'
-last_seen: '2026-06-24T21:14:16.852901+05:30'
-last_checked: '2026-06-24T21:14:16.852901+05:30'
+first_seen: '2026-06-24T23:11:42.503800+05:30'
+last_seen: '2026-06-24T23:11:42.503800+05:30'
+last_checked: '2026-06-24T23:11:42.503800+05:30'
 health_score: 100
 ---
 
@@ -26,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Marketplace Integration**: Atlassian Marketplace provides curated apps to extend functionality across project management, AI, admin tools, and DevOps workflows within Atlassian ecosystems (e.g., Jira, Confluence).
+- **Atlassian Rovo** integrates AI-driven agents to enhance app functionality within the Atlassian ecosystem, enabling automated workflows and intelligent task execution.
 
-- **Specialized Categories**: Apps are organized into technical domains such as **Artificial Intelligence** (productivity automation), **Data & Analytics** (visualization tools), and **Runs on Atlassian** (secure, in-platform data storage solutions).
+- **Admin Tools** category provides specialized applications for user management, security policies, and system configurations, optimizing administrative control and compliance.
 
-- **Developer & Admin Focus**: Tools include **Software Development** lifecycle integrations, **Admin Tools** for user/security management, and **Solutions Hub** for team productivity optimization.
+- **Runs on Atlassian** collection ensures apps leverage Atlassian’s native infrastructure, guaranteeing secure data storage, seamless integration, and platform-native performance.
 
 ## Why It Matters
 
@@ -40,15 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T21:14:16.852887+05:30
+- Published: 2026-06-24T23:11:42.503787+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - rag
-- reddit
-- scripts
 - web-crawled
 - workflows
 

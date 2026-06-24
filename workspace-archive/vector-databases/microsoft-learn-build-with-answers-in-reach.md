@@ -12,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- scripts
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Azure AI Services**: Provides pre-built APIs for vision, speech, language, and decision-making tasks, enabling rapid AI integration with minimal custom code.
-- **Microsoft Copilot**: AI-powered assistant leveraging large language models (LLMs) for code generation, debugging, and contextual task automation within Azure and Microsoft 365 ecosystems.
-- **Azure Machine Learning (Azure ML)**: End-to-end platform for training, deploying, and managing ML models at scale, supporting both traditional
+- **AI Fundamentals**: Microsoft provides structured learning paths for AI concepts, tools, and applications, including Azure AI services and responsible AI practices.
+- **Azure Integration**: Azure offers scalable cloud infrastructure with AI/ML services (e.g., Azure Machine Learning, Cognitive Services) for deploying and managing AI workloads.
+- **Copilot Ecosystem**: Microsoft Copilot leverages AI models (e.g., LLMs) to enhance productivity via natural language interfaces across Azure, M365,
 
 ## Use Cases
 

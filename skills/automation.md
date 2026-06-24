@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1734 resources matched in the intelligence vault.
+Active signals: 1855 resources matched in the intelligence vault.
 Recently detected signals:
-- [Antora](../ai/resources/antora.md) (Source: Unknown Source) - Collected 2026-06-24
-- [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Atlassian Community Events Community-Led Classes](../ai/rag/atlassian-community-events-community-led-classes.md) (Source: Unknown Source) - Collected 2026-06-24
-- [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Home | Research Square](../ai/resources/home-research-square.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Librarian Portal | Springer Nature](../ai/resources/librarian-portal-springer-nature.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Data Analysis: Conducting and Troubleshooting | Nature Masterclasses](../ai/rag/data-analysis-conducting-and-troubleshooting-natur.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Nature Masterclasses | Librarian Portal | Springer Nature](../ai/rag/nature-masterclasses-librarian-portal-springer-nat.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,45 +75,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Agent Apps & Skills**: GitHub Copilot supports partner-built agent apps integrated into workflows, with **specialized skills** enabling task-specific automation under a single Copilot subscript...
 
-### 10. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
+### 10. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based, last updated 2025-02-14).
+
+### 11. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based)
 
-### 11. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
+### 12. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
 - Stars: 0
 - Language: Unknown
 - Description: A travel agent python app built with CrewAI framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions.
 
-### 12. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
+### 13. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
 - Language: Unknown
 - Description: MCP server for AI-driven security pipelines
 
-### 13. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+### 14. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
 - Language: Unknown
 - Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
-### 14. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
+### 15. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
 - Stars: 0
 - Language: Unknown
 - Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
 
-### 15. [GitHub Docs](../ai/agents/github-docs.md) ([GitHub](https://docs.github.com))
+### 16. [GitHub Docs](../ai/agents/github-docs.md) ([GitHub](https://docs.github.com))
 - Stars: 0
 - Language: Unknown
 - Description: - **GitHub Core Functionality**: GitHub integrates Git (open-source VCS) with cloud-based collaboration tools, enabling repository management, version control, and secure access via SSH for remote ...
 
-### 16. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based)
-
 ### 17. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks)
+- Description: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (Python-based, last updated 2025-09-16).
 
 ### 18. [SciPhi-AI/R2R](../ai/rag/sciphi-ai-r2r.md) ([GitHub](https://github.com/sciphi-ai/r2r))
 - Stars: 0
@@ -165,120 +165,120 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: VoltAgent/awesome-ai-agent-papers
 
-### 28. [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md) ([GitHub](https://github.com/infiniumtek/terraform-review-agent))
+### 28. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive RAG Implementation Guide**: Provides a full-stack technical manual for developing Retrieval-Augmented Generation (RAG) applications, covering end-to-end workflows, architectures, ...
+
+### 29. [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md) ([GitHub](https://github.com/infiniumtek/terraform-review-agent))
 - Stars: 0
 - Language: Unknown
 - Description: Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.
 
-### 29. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md) ([GitHub](https://github.com/sjseo298/spring-ai-template))
+### 30. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md) ([GitHub](https://github.com/sjseo298/spring-ai-template))
 - Stars: 0
 - Language: Unknown
 - Description: A modern starter template for building AI agents and applications using Java 21, Spring Boot 4, and Spring AI 2.0.0-M1. Pre-configured with OpenAI support, Maven Wrapper, and best practices for cre...
 
-### 30. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
+### 31. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
 - Stars: 0
 - Language: Unknown
 - Description: A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintain...
 
-### 31. [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md) ([GitHub](https://github.com/maunappl8/openai-agents-ts-kit))
+### 32. [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md) ([GitHub](https://github.com/maunappl8/openai-agents-ts-kit))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready OpenAI Agents SDK (TypeScript) template — agents, handoffs, tools, guardrails, sessions, tracing, CLI.
 
-### 32. [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md) ([GitHub](https://github.com/failproofai/ai-reliability-standards))
+### 33. [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md) ([GitHub](https://github.com/failproofai/ai-reliability-standards))
 - Stars: 0
 - Language: Unknown
 - Description: Architectural standards and best practices for building reliable AI Agents and LLM workflows. Defining the framework for AI Reliability Engineering (AIRE).
 
-### 33. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 34. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
-### 34. [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md) ([GitHub](https://github.com/nottelabs/open-operator-evals))
+### 35. [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md) ([GitHub](https://github.com/nottelabs/open-operator-evals))
 - Stars: 0
 - Language: Unknown
 - Description: Opensource benchmark evaluating web operators/agents performance
 
-### 35. [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) ([GitHub](https://github.com/jcodesmore/ai-website-cloner-template))
+### 36. [JCodesMore/ai-website-cloner-template](../ai/agents/jcodesmore-ai-website-cloner-template.md) ([GitHub](https://github.com/jcodesmore/ai-website-cloner-template))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: JCodesMore/ai-website-cloner-template
 
-### 36. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md) ([GitHub](https://github.com/mergisi/awesome-openclaw-agents))
+### 37. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md) ([GitHub](https://github.com/mergisi/awesome-openclaw-agents))
 - Stars: 0
 - Language: Unknown
 - Description: 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 
-### 37. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+### 38. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides end-to-end, code-first tutorials for developing production-grade GenAI agents, covering prototyping to enterprise deployment.
 
-### 38. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
+### 39. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready Python template for building MCP servers with FastMCP, FastAPI, OAuth, and OpenShift deployment.
 
-### 39. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
+### 40. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: raga-ai-hub/RagaAI-Catalyst
 
-### 40. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
+### 41. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: GoogleCloudPlatform/agent-starter-pack
 
-### 41. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 42. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
 - Description: 2026  AI Agent  ·  +  +  ·  · LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG /  ·  · 0 +  +
 
-### 42. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+### 43. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
 - Stars: 0
 - Language: Unknown
 - Description: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic capabilities, enabling dynamic context augmentation and multi-step reasoning ...
 
-### 43. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
+### 44. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
 - Stars: 0
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 44. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
+### 45. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: Arize-ai/phoenix
 
-### 45. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 46. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
 
-### 46. [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md) ([GitHub](https://github.com/flexpa/llm-fhir-eval))
+### 47. [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md) ([GitHub](https://github.com/flexpa/llm-fhir-eval))
 - Stars: 0
 - Language: Unknown
 - Description: Benchmarking Large Language Models for FHIR
 
-### 47. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
+### 48. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
 - Stars: 0
 - Language: Unknown
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 48. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
+### 49. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
 
-### 49. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
+### 50. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
 - Stars: 0
 - Language: Unknown
 - Description: - **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows.
-
-### 50. [HeJiguang/codescan](../ai/agents/hejiguang-codescan.md) ([GitHub](https://github.com/hejiguang/codescan))
-- Stars: 0
-- Language: Unknown
-- Description: Agent-native code security review with MCP, structured findings, and practical pre-merge scanning workflows.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.662814+05:30.928472+05:30.922417+05:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T23:30:03.003040+05:30.662814+05:30.928472+05:30.922417+05:30.971624+05:30.421412+05:30.567508+05:30.687177+05:30.355273+05:30.481745+05:30.837280+05:30.183844+05:30.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://build.nvidia.com/nvidia/llama-3_2-nv-embedqa-1b-v2
-published_at: '2026-06-24T10:16:12.697701+05:30'
-collected_at: '2026-06-24T10:16:12.697714+05:30'
+published_at: '2026-06-24T22:56:01.654931+05:30'
+collected_at: '2026-06-24T22:56:01.654959+05:30'
 tags:
 - meta-ai
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:llama-3-2-nv-embedqa-1b-v2-model-by-nvidia-nvidia
-first_seen: '2026-06-24T10:16:12.697714+05:30'
-last_seen: '2026-06-24T10:16:12.697714+05:30'
-last_checked: '2026-06-24T10:16:12.697714+05:30'
+first_seen: '2026-06-24T22:56:01.654959+05:30'
+last_seen: '2026-06-24T22:56:01.654959+05:30'
+last_checked: '2026-06-24T22:56:01.654959+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:16:12.697701+05:30
+- Published: 2026-06-24T22:56:01.654931+05:30
 
 ## Related Tags
 

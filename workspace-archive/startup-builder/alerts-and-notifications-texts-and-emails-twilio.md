@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Twilio Pricing Model**: Utilizes a pay-as-you-go pricing structure for alerts and notifications, with costs based on message volume and channel type (SMS, voice, email, etc.).
+- **Twilio Pricing Model**: Tiered pricing based on usage volume for alerts and notifications services, with costs scaling per message sent/received.
 
-- **API-Driven Notifications**: Enables programmatic sending of alerts/notifications via REST APIs, supporting scalability and integration with third-party systems.
+- **API-Driven Architecture**: Enables programmatic integration of alerts/notifications via RESTful APIs, supporting SMS, voice, email, and push notifications.
 
-- **Multi-Channel Support**: Supports multiple communication channels (SMS, voice, email, WhatsApp, etc.) with regional compliance (e.g., GDPR, TCPA) and
+- **Use Case Flexibility**: Supports real-time alerts, automated notifications, and multi-channel communication for enterprise and developer workflows.
 
 ## Use Cases
 

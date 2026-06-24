@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.archive.org/web/20021226035527/http://textism.com/tools/textile
-published_at: '2026-06-23T01:16:28.565978+05:30'
-collected_at: '2026-06-23T01:16:28.565990+05:30'
+published_at: '2026-06-24T22:59:01.432077+05:30'
+collected_at: '2026-06-24T22:59:01.432088+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:textism-tools-textile
-first_seen: '2026-06-23T01:16:28.565990+05:30'
-last_seen: '2026-06-23T01:16:28.565990+05:30'
-last_checked: '2026-06-23T01:16:28.565990+05:30'
+first_seen: '2026-06-24T22:59:01.432088+05:30'
+last_seen: '2026-06-24T22:59:01.432088+05:30'
+last_checked: '2026-06-24T22:59:01.432088+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Syntax-based Markdown Processor**: Textile converts plain text with lightweight markup syntax into valid HTML, automating typographic refinements (e.g., smart quotes, em/en dashes) and structural elements (paragraphs, headers, blockquotes) without requiring manual HTML tags.
+- **Textile markup language**: A lightweight plaintext-to-HTML conversion tool (2002) that auto-generates typographic refinements (smart quotes, dashes) and structural HTML elements (paragraphs, headers, blockquotes) via simple syntax like `h*n*.`, `bq.`, `#`, and `*`.
 
-- **Modular Markup Rules**: Supports block-level modifiers (e.g., `h*n*.` for headers, `bq.` for blockquotes, `#`/ `*` for lists) and inline phrase modifiers (e.g., `_italic_`, `*bold*`, `??citation??`, `-deleted-`, `+inserted+`) via simple text annotations.
+- **Inline formatting syntax**: Supports phrase-level modifiers including `_italic_`, `*bold*`, `??citation??`, `-deleted text-`, `+inserted text+`, `^superscript^`, and `~subscript~`, along with link (`"text":url`) and image (`!url!`) embedding.
 
-- **Link/Image Embedding**: Implements inline link syntax (`"text":url`) and image embedding (`!url!`) for dynamic content inclusion, with optional attributes (e.g., titles, dimensions) supported in extended syntax.
+- **List generation**: Converts `#` for ordered lists and `*` for unordered lists, with block modifiers for headers (`h1.`–`h6.`) and blockquotes (`bq.`).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:16:28.565978+05:30
+- Published: 2026-06-24T22:59:01.432077+05:30
 
 ## Related Tags
 

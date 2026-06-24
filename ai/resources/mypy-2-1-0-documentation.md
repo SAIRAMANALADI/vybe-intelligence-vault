@@ -3,16 +3,16 @@ title: mypy 2.1.0 documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://mypy.readthedocs.io
-published_at: '2026-06-24T21:13:42.318864+05:30'
-collected_at: '2026-06-24T21:13:42.318877+05:30'
+source_url: https://mypy.readthedocs.org/en/stable
+published_at: '2026-06-24T23:08:33.655320+05:30'
+collected_at: '2026-06-24T23:08:33.655332+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:mypy-2-1-0-documentation
-first_seen: '2026-06-24T21:13:42.318877+05:30'
-last_seen: '2026-06-24T21:13:42.318877+05:30'
-last_checked: '2026-06-24T21:13:42.318877+05:30'
+first_seen: '2026-06-24T23:08:33.655332+05:30'
+last_seen: '2026-06-24T23:08:33.655332+05:30'
+last_checked: '2026-06-24T23:08:33.655332+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Static Type Checking**: Mypy is a static type checker for Python that detects type errors without executing code, using PEP 484-compliant type hints to enforce correctness in variable/function usage.
+- **Static Type Checking**: Mypy is a static type checker for Python that validates type hints (PEP 484) without executing code, catching type errors early by analyzing variable/function usage against declared types.
 
-- **Gradual Typing & Compatibility**: Supports gradual typing for incremental adoption, with structural subtyping, generics, and union types; type hints are non-intrusive and do not affect runtime behavior.
+- **Gradual Typing & Compatibility**: Supports gradual adoption of static typing with backward compatibility; type hints are optional and do not interfere with runtime execution, allowing dynamic typing where needed.
 
-- **Advanced Features**: Includes type inference, callable types, protocols, TypedDict, and metaclass support; provides configuration options for strictness and performance optimization.
+- **Advanced Type System Features**: Implements type inference, generics, structural subtyping (protocols), union types, callable types, and TypedDict, with support for narrowing, enums, and literal types for precise type validation.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:13:42.318864+05:30
+- Published: 2026-06-24T23:08:33.655320+05:30
 
 ## Related Tags
 
@@ -42,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://mypy.readthedocs.io
+Original source: https://mypy.readthedocs.org/en/stable

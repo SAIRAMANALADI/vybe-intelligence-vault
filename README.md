@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 7,215</p>
-        <p><b>Active:</b> 7,031 | <b>Inactive:</b> 184</p>
+        <p><b>Resources tracked:</b> 7,465</p>
+        <p><b>Active:</b> 7,278 | <b>Inactive:</b> 187</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 28,163</p>
+        <p><b>Archive Files:</b> 28,694</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-24 21:54 IST</p>
+        <p><b>Last Update:</b> 2026-06-24 23:31 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,27 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Qwen-AgentWorld: Language World Models for General Agents](ai/community/arxiv-2606-24597.md)** • <kbd>+154 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[Atlassian Community Events Community-Led Classes](ai/rag/atlassian-community-events-community-led-classes.md)** • Rank: <kbd>+776</kbd>
-- 🔼 **[The Best Assets for Game Making | Unity Asset Store](ai/rag/the-best-assets-for-game-making-unity-asset-store.md)** • Rank: <kbd>+1016</kbd>
-- 🔼 **[Python Packaging Authority — PyPA documentation](ai/resources/python-packaging-authority-pypa-documentation.md)** • Rank: <kbd>+1135</kbd>
-- 🔼 **[Atlassian Documentation | Atlassian Support | Atlassian Documentation](ai/resources/atlassian-documentation-atlassian-support-atlassia.md)** • Rank: <kbd>+994</kbd>
+- 🔼 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • <kbd>+167 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Haystack: Open-Source AI Framework for Production Ready Agents, RAG](ai/rag/haystack-haystack.md)** • <kbd>+60 pts</kbd> • Rank: <kbd>+401</kbd>
+- 🔼 **[Add-ons for Firefox (en-US)](ai/resources/add-ons-for-firefox-en-us.md)** • Rank: <kbd>+2057</kbd>
+- 🔼 **[Open Policy & Advocacy - Mozilla's official blog on open Internet policy initiatives and developments](ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md)** • Rank: <kbd>+1228</kbd>
+- 🔼 **[Get Firefox for desktop and mobile — Firefox.com](ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md)** • Rank: <kbd>+2068</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md)** • Score: `157`
-- 🆕 **[Minimus container images are now free](ai/community/minimus-container-images-are-now-free.md)** • Score: `86`
-- 🆕 **[RubyLLM: A single, beautiful Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • Score: `10`
-- 🆕 **[Antora](ai/resources/antora.md)** • Score: `0`
-- 🆕 **[Version Control with Subversion](ai/resources/version-control-with-subversion.md)** • Score: `0`
+- 🆕 **[OpenAI and Broadcom unveil LLM-optimized inference chip](ai/community/openai-and-broadcom-unveil-llm-optimized-inference.md)** • Score: `116`
+- 🆕 **[Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"](ai/community/boffin-claims-microsoft-s-quantum-leap-is-invalid.md)** • Score: `72`
+- 🆕 **[For Most of the World, Open-Source AI Is the Only Way Forward](ai/community/for-most-of-the-world-open-source-ai-is-the-only-w.md)** • Score: `45`
+- 🆕 **[PR spam today looks like email spam in the early 2000s](ai/community/pr-spam-today-looks-like-email-spam-in-the-early-2.md)** • Score: `31`
+- 🆕 **[CAPTCHAs have failed for 20 years](ai/community/captchas-have-failed-for-20-years.md)** • Score: `31`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[The Low-Tech AI of Elden Ring](ai/community/the-low-tech-ai-of-elden-ring.md)**
-- 💤 **[Show HN: RLM-based local debugger for AI agent traces](ai/community/context-labs-halo.md)**
-- 💤 **[shanraisshan/claude-code-best-practice](ai/agents/shanraisshan-claude-code-best-practice.md)**
-- 💤 **[anthropics/claude-plugins-official](ai/trending/anthropics-claude-plugins-official.md)**
-- 💤 **[garrytan/gstack](ai/trending/garrytan-gstack.md)**
+- 💤 **[Qwen-AgentWorld: Language World Models for General Agents](ai/community/arxiv-2606-24597.md)**
+- 💤 **[Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'](ai/community/reid-hoffman-says-spacex-not-an-ai-company-xai-com.md)**
+- 💤 **[Minimus container images are now free](ai/community/minimus-container-images-are-now-free.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

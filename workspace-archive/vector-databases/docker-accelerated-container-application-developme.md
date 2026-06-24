@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **MicroVM-based Isolation**: Docker Sandboxes leverage MicroVMs (e.g., SEV-SNP TEE) to provide hardware-enforced isolation for agent sessions, locking down network and filesystem access at runtime with minimal overhead.
+- **MicroVM-based Isolation**: Docker Sandboxes leverage MicroVMs (e.g., SEV-SNP, TEE) to provide hardware-enforced isolation for agent sessions, locking down network and filesystem access at runtime while extending cloud-grade security to local development.
 
-- **Unified Governance & Verification**: Docker AI Governance enforces identity-bound policies (e.g., OPA/Rego) and verifies components via SLSA Level 3 signed images (Cosign), ensuring least-privilege execution and immutable audit trails.
-
-- **Zero-Setup Scalability**: Agents
+- **Unified Governance & Hardened Components**: Docker AI Governance enforces identity-bound policies (e.g., Rego-based checks) and audit trails, while Docker Hardened Images (SLSA Level 3, signed, and continuously patched) mitigate supply
 
 ## Use Cases
 

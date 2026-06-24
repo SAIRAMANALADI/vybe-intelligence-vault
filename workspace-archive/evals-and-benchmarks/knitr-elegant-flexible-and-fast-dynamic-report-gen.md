@@ -9,13 +9,12 @@ local_vault_path: ai/resources/knitr-elegant-flexible-and-fast-dynamic-report-ge
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Unified Dynamic Report Generation**: Combines Sweave, cacheSweave, pgfSweave, and other tools into a single package with support for multiple input (R, Python, shell) and output (LaTeX, HTML, Markdown) languages.
+- **Dynamic Report Generation Engine**: **knitr** is a transparent, modular engine for dynamic report generation in R, combining features from Sweave, cacheSweave, pgfSweave, and others, supporting multiple input (R, Python, shell) and output (LaTeX, HTML, Markdown) languages with built-in caching, code formatting via **formatR**, and 20+ graphics devices.
 
-- **Transparent & Faithful Execution**: Evaluates R code as if pasted in a terminal, capturing all output (plots, warnings, errors) by default via the **evaluate** package, with configurable formatting and caching.
-
-- **Extensible Architecture**: Supports custom hooks for pre/post-
+- **Faithful Output & Flexible Graphics**: Uses **evaluate** to capture all terminal-like outputs (printed results, plots, warnings, errors)
 
 ## Use Cases
 

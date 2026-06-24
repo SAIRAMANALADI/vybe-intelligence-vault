@@ -1,15 +1,15 @@
 ---
-title: 'RubyLLM: A single, beautiful Ruby framework for all major AI providers'
+title: 'RubyLLM: A Ruby framework for all major AI providers'
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rubyllm.com
 hn_url: https://news.ycombinator.com/item?id=48660711
-score: 10
+score: 177
 author: doener
-comments_count: 0
+comments_count: 23
 published_at: '2026-06-24T20:11:41+05:30'
-collected_at: '2026-06-24T20:38:08.667888+05:30'
+collected_at: '2026-06-24T22:48:54.741812+05:30'
 tags:
 - ai
 - hackernews
@@ -17,16 +17,16 @@ tags:
 status: active
 resource_id: hackernews:rubyllm-a-single-beautiful-ruby-framework-for-all
 first_seen: '2026-06-24T20:38:08.667888+05:30'
-last_seen: '2026-06-24T20:38:08.667888+05:30'
-last_checked: '2026-06-24T20:38:08.667888+05:30'
+last_seen: '2026-06-24T22:48:54.741812+05:30'
+last_checked: '2026-06-24T22:48:54.741812+05:30'
 health_score: 100
 ---
 
-# RubyLLM: A single, beautiful Ruby framework for all major AI providers
+# RubyLLM: A Ruby framework for all major AI providers
 
 ## Summary
 
-Hacker News story by doener. Score: 10, Comments: 0.
+Hacker News story by doener. Score: 177, Comments: 23.
 Original Link: https://rubyllm.com/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: doener
-- Score: 10 Upvotes
-- Comments: 0 Discussions
+- Score: 177 Upvotes
+- Comments: 23 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48660711
 - Original Article: https://rubyllm.com
 

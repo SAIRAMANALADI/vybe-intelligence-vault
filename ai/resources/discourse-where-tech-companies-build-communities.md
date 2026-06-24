@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.discourse.org
-published_at: '2026-06-24T10:29:13.658740+05:30'
-collected_at: '2026-06-24T10:29:13.658754+05:30'
+published_at: '2026-06-24T23:25:48.575692+05:30'
+collected_at: '2026-06-24T23:25:48.575700+05:30'
 tags:
 - hackernews
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discourse-where-tech-companies-build-communities
-first_seen: '2026-06-24T10:29:13.658754+05:30'
-last_seen: '2026-06-24T10:29:13.658754+05:30'
-last_checked: '2026-06-24T10:29:13.658754+05:30'
+first_seen: '2026-06-24T23:25:48.575700+05:30'
+last_seen: '2026-06-24T23:25:48.575700+05:30'
+last_checked: '2026-06-24T23:25:48.575700+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Scalable Open-Source Platform**: Discourse is an open-source, customizable community platform used by 22,000+ organizations (e.g., OpenAI, Zoom, GitLab), supporting high-traffic workloads (3M+ monthly posts, 1B+ page views) with enterprise-grade infrastructure, SSO/SAML, and dedicated SLAs.
+- **Scalable Community Platform**: Discourse powers 22,000+ communities with features like SSO, SAML, enterprise authentication, and dedicated infrastructure with SLA guarantees for mission-critical deployments.
 
-- **Modular Community Features**: Supports structured use cases (support hubs, developer collaboration, product feedback) via categories, tags, GitHub integrations, and AI-assisted moderation, with plugins/themes for extensibility.
+- **Modular Community Solutions**: Supports use cases including support hubs, team workspaces, product feedback, and developer communities with built-in moderation, AI-assisted management, and GitHub integration for technical workflows.
 
-- **Data Sovereignty & Hosting Options**: Full data ownership (exportable anytime), self-hosting or managed hosting, and a codebase available on GitHub for auditability, avoiding vendor lock-in.
+- **Open-Source & Data Sovereignty**: Entire codebase available on GitHub under open-source license; users retain full ownership of data with export capabilities, self-hosting options, and no vendor lock-in.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T10:29:13.658740+05:30
+- Published: 2026-06-24T23:25:48.575692+05:30
 
 ## Related Tags
 

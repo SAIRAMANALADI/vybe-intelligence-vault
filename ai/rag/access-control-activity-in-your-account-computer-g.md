@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/accounts?p=my_activity&hl=en_US
-published_at: '2026-06-23T10:03:32.432991+05:30'
-collected_at: '2026-06-23T10:03:32.433005+05:30'
+published_at: '2026-06-24T22:55:10.144703+05:30'
+collected_at: '2026-06-24T22:55:10.144715+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:access-control-activity-in-your-account-computer-g
-first_seen: '2026-06-23T10:03:32.433005+05:30'
-last_seen: '2026-06-23T10:03:32.433005+05:30'
-last_checked: '2026-06-23T10:03:32.433005+05:30'
+first_seen: '2026-06-24T22:55:10.144715+05:30'
+last_seen: '2026-06-24T22:55:10.144715+05:30'
+last_checked: '2026-06-24T22:55:10.144715+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Activity Data Collection & Storage**: Google's "My Activity" aggregates user activity (searches, browsing, videos) across services (Search, YouTube, Chrome) into a centralized account dashboard, with data retention controlled by **Web & App Activity** settings; activity is saved only when signed in and requires online connectivity.
+- **Activity Tracking**: Google Account stores user activity (searches, websites visited, videos watched) in the "My Activity" section, including associated metadata like location, contingent on enabled activity settings and active sign-in status.
 
-- **Activity Management & Deletion**: Users can **view, filter, and delete** activity items individually or via automatic deletion rules; **extra verification** can be enabled for privacy on shared devices, and **Incognito mode** temporarily prevents activity logging.
+- **Activity Management**: Users can view, delete, or disable activity tracking via [My Activity settings](https://myactivity.google.com/myactivity), with options for manual deletion or automatic deletion of older activity.
 
-- **Activity Visibility & Anomalies**: Not all activity appears in "My Activity" (e.g., **Maps Timeline** data is stored separately); unfamiliar entries may stem from **shared devices, multi-account sign-ins, or predicted content** (e.g., YouTube autoplay), requiring manual review or security checks.
+- **Activity Verification & Security**: Users can require extra verification to access full history on shared devices and troubleshoot missing activity by ensuring correct sign-in, online status, and account settings.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:03:32.432991+05:30
+- Published: 2026-06-24T22:55:10.144703+05:30
 
 ## Related Tags
 

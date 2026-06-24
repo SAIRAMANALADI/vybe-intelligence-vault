@@ -2,7 +2,7 @@
 title: Medium - Apps on Google Play
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=post_page
+source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 resource_id: blog:medium-apps-on-google-play
 local_vault_path: ai/rag/medium-apps-on-google-play.md
 quality_score: 70
@@ -28,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Features**: Medium is a long-form content platform offering ad-free articles, audio versions, personalized recommendations, and cross-device synchronization (smartphone, tablet, desktop) with light/dark mode support.
+- **Platform**: Medium is a content-sharing platform offering long-form stories, articles, and audio versions, accessible across Android, iOS, and web, with features like highlighting, bookmarking, and personalized recommendations.
 
-- **Subscription Model**: Free tier available; $4.99/month or $49.99/year membership unlocks unlimited access, supports writers, and auto-renews via Google Play unless canceled 24h prior to billing cycle end.
+- **Monetization & Data**: Uses a freemium model with a $4.99/month or $49.99/year subscription for unlimited access; collects personal data (e.g., photos, location) but encrypts it in transit and allows deletion requests.
 
-- **Data Handling**: No third-party data sharing; collects
+- **Content & Ratings**: Hosts 10M+ downloa
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=post_page
+Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 
 ## Local Vault File
 

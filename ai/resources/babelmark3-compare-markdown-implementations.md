@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://babelmark.github.io
-published_at: '2026-06-24T21:08:55.541982+05:30'
-collected_at: '2026-06-24T21:08:55.541994+05:30'
+published_at: '2026-06-24T23:08:15.790178+05:30'
+collected_at: '2026-06-24T23:08:15.790190+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:babelmark3-compare-markdown-implementations
-first_seen: '2026-06-24T21:08:55.541994+05:30'
-last_seen: '2026-06-24T21:08:55.541994+05:30'
-last_checked: '2026-06-24T21:08:55.541994+05:30'
+first_seen: '2026-06-24T23:08:15.790190+05:30'
+last_seen: '2026-06-24T23:08:15.790190+05:30'
+last_checked: '2026-06-24T23:08:15.790190+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-Implementation Markdown Comparison Tool**: Babelmark III evaluates and compares Markdown parsing outputs across 20+ implementations, highlighting discrepancies in rendering (e.g., CommonMark, GitHub Flavored Markdown, Pandoc).
-- **Normalization & Conversion Utility**: Supports normalization of Markdown to a standardized format (via "Normalize" button) and conversion of `CTRL+ENTER` line breaks to Markdown-compatible syntax.
-- **Open-Source & Feedback-Driven**: Hosted on GitHub Pages with source available; users can report issues or suggest improvements via GitHub Issues for continuous refinement.
+- **Babelmark III** is a web-based tool for comparing Markdown implementations across different parsers, highlighting discrepancies in output rendering.
+
+- **Key features** include normalization of Markdown input, conversion of `CTRL`+`ENTER` to line breaks, and a feedback mechanism via GitHub issues.
+
+- **Developed by Alexandre Mutel** (2016), with logo design by Chameleon Design (Noun Project), the tool aids in identifying parser-specific quirks in Markdown processing.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:08:55.541982+05:30
+- Published: 2026-06-24T23:08:15.790178+05:30
 
 ## Related Tags
 

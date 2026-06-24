@@ -12,7 +12,6 @@ resource_kind: dataset
 importance: medium
 tags:
 - dataset
-- hackernews
 - rag
 - reddit
 - web-crawled
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Overture Maps Foundation** develops open, standardized, and interoperable global spatial datasets via a collaborative, 50-member consortium, addressing challenges in digital mapping through community-driven infrastructure.
+- **Overture Maps Foundation** develops open, standardized, and interoperable global spatial datasets via a collaborative, 50-member consortium, addressing challenges in digital world mapping.
 
-- **Microsoft’s integration** leverages Overture’s spatial data to enhance next-gen tools, with Microsoft serving as a founding member and steering committee participant to ensure alignment with industry needs.
+- **Microsoft’s integration** leverages Overture’s spatial data in next-gen tools, with Microsoft as a founding member and steering committee participant to enhance geospatial infrastructure.
 
-- **Key technical challenges** include achieving reliable, i
+- **Key challenges addressed** include scalability, data consistency, and interoperability across diverse mapping
 
 ## Use Cases
 

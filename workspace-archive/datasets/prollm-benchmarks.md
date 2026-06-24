@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-world benchmarking**: ProLLM develops language model benchmarks from industry-specific use cases and proprietary datasets (e.g., StackOverflow), ensuring practical applicability and granular performance insights for testing and production systems.
+- **Real-world benchmarking**: ProLLM develops language model benchmarks derived from industry-specific use cases (e.g., JavaScript debugging) and proprietary datasets (e.g., StackOverflow), ensuring practical applicability and granular performance insights.
 
-- **Integrity & transparency**: Benchmark sets are undisclosed to prevent data leakage, with mirrored subsets provided for transparency; results are updated rapidly (often within hours of new model releases) to maintain timeliness.
+- **Integrity & transparency**: Benchmark sets are undisclosed to prevent data leakage, with mirrored subsets provided for validation; results are updated rapidly (often within hours of model releases) to maintain timeliness.
 
-- **Diver
+- **Multiling
 
 ## Use Cases
 

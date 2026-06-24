@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html
-published_at: '2026-06-23T01:17:47.104196+05:30'
-collected_at: '2026-06-23T01:17:47.104202+05:30'
+published_at: '2026-06-24T23:12:58.774795+05:30'
+collected_at: '2026-06-24T23:12:58.774807+05:30'
 tags:
 - rag
 - threejs
 - web-crawled
 status: active
 resource_id: blog:distributed-authority-quickstart-netcode-for-gameo
-first_seen: '2026-06-23T01:17:47.104202+05:30'
-last_seen: '2026-06-23T01:17:47.104202+05:30'
-last_checked: '2026-06-23T01:17:47.104202+05:30'
+first_seen: '2026-06-24T23:12:58.774807+05:30'
+last_seen: '2026-06-24T23:12:58.774807+05:30'
+last_checked: '2026-06-24T23:12:58.774807+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Distributed Authority Setup**: Configure Netcode for GameObjects to delegate authority across multiple clients/servers for latency optimization and performance balancing in multiplayer games.
+- **Distributed Authority Setup**: Configure Netcode for GameObjects to use distributed authority by following the [official quickstart guide](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/learn/distributed-authority-quick-start.html), enabling server-client authority delegation for scalable multiplayer architectures.
 
-- **WebGL-Specific Implementation**: Adapt distributed authority principles for WebGL builds, ensuring cross-platform compatibility while maintaining authoritative control over game state.
+- **WebGL-Specific Adaptation**: Implement distributed authority in WebGL builds via the [dedicated quickstart](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/learn/distributed-authority-webgl.html), addressing WebGL’s threading limitations and network synchronization constraints.
 
-- **Performance Optimization**: Leverage distributed authority to mitigate latency issues by dynamically distributing authority roles (e.g., client vs. server) based on network conditions and player roles.
+- **Latency & Performance Optimization**: Leverage distributed authority to mitigate latency by offloading authority logic from clients to dedicated servers, ensuring deterministic behavior and improved frame pacing in high-player-count scenarios.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T01:17:47.104196+05:30
+- Published: 2026-06-24T23:12:58.774795+05:30
 
 ## Related Tags
 

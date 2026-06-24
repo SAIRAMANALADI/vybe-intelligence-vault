@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://everpass.com/live-sports/nfl-sunday-ticket
-published_at: '2026-06-24T10:10:07.185452+05:30'
-collected_at: '2026-06-24T10:10:07.185466+05:30'
+published_at: '2026-06-24T23:00:30.769881+05:30'
+collected_at: '2026-06-24T23:00:30.769895+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:nfl-sunday-ticket-for-business
-first_seen: '2026-06-24T10:10:07.185466+05:30'
-last_seen: '2026-06-24T10:10:07.185466+05:30'
-last_checked: '2026-06-24T10:10:07.185466+05:30'
+first_seen: '2026-06-24T23:00:30.769895+05:30'
+last_seen: '2026-06-24T23:00:30.769895+05:30'
+last_checked: '2026-06-24T23:00:30.769895+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **NFL Sunday Ticket via EverPass** provides commercial establishments with live out-of-market Sunday NFL games (excluding in-market/local, NFL Network, and national games) over an 18-week season, delivered via commercial-grade streaming devices with plug-and-play setup and remote management via EverPass Core.
+- **Discount & Hardware Offer**: Up to **15% off NFL Sunday Ticket** for commercial use (bars/restaurants) with **6 free commercial-grade streaming devices** and **3 months free EverPass Core** for new sign-ups by June 30, 2026.
 
-- **Promotional Offer**: New customers can receive up to **15% off NFL Sunday Ticket** (max $1,500 discount per location), **6 free streaming devices**, **3 months free EverPass Core**, and flexible multi-payment plans if signed by **June 30, 2026**; eligibility restricted to U.S. bars/restaurants (excludes casinos/sportsbooks).
+- **Content & Coverage**: Provides **all live out-of-market Sunday NFL games** (excluding in-market/local, national, or digital-only games) with **flexible multi-payment plans** and **centralized management via EverPass Core**.
 
-- **EverPass Core** enables centralized scheduling, device management, and complimentary premium sports packages (e.g., MLS, Formula 1, Thursday Night Football) alongside NFL Sunday Ticket, with automatic renewal subject to EverPass’s distribution terms.
+- **Eligibility & Exclusions**: Valid only for **U.S.-based commercial venues** (no casinos/sportsbooks); promotional pricing requires **active EverPass Core subscription** and may be retroactively adjusted if eligibility criteria (e.g., fire code occupancy) are violated.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:10:07.185452+05:30
+- Published: 2026-06-24T23:00:30.769881+05:30
 
 ## Related Tags
 

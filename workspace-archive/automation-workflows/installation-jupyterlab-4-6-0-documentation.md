@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag in the container).
+- JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), `pipenv` (`pipenv install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag in the container).
 
-- Proxy/firewall issues during installation can be mitigated by configuring `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disabling SSL verification (not recommended) with `conda config --set ssl_verify
+- Proxy/firewall restrictions may require configuring `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disabling SSL verification (`conda config --set ssl_verify Fal
 
 ## Use Cases
 

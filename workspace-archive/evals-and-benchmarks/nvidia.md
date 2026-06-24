@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **NVIDIA API Suite**: Provides access to NIM (NVIDIA Inference Microservices) and CUDA-X microservices for integration into products via API references, including Cloud Functions, Attestation, and NGC services.
+- **NVIDIA API Suite**: Provides access to NIM (NVIDIA Inference Microservices) and CUDA-X microservices for integration into products via API references, including NIM, Cloud Functions, Attestation, and NGC services.
 
-- **Prototyping Endpoints**: Offers cloud-hosted NIM endpoints for rapid prototyping across domains such as Large Language Models (LLMs), Visual Design, Multimodal, Retrieval, Healthcare, and Weather Prediction (e.g., NVIDIA Earth-2).
+- **Prototyping Endpoints**: Offers cloud-hosted NIM endpoints for rapid application prototyping across domains such as Large Language Models (LLMs), Visual Design, Multimodal, Retrieval, Healthcare, and Weather Prediction (e.g., NVIDIA Earth-2).
 
-- **Developer Resources**: Includes NVIDIA Docs Hu
+- **Developer Resources**: Includ
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.unity3d.com
-published_at: '2026-06-23T01:19:44.267620+05:30'
-collected_at: '2026-06-23T01:19:44.267630+05:30'
+published_at: '2026-06-24T23:20:59.523200+05:30'
+collected_at: '2026-06-24T23:20:59.523214+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:unity-manual-unity-6-5-user-manual
-first_seen: '2026-06-23T01:19:44.267630+05:30'
-last_seen: '2026-06-23T01:19:44.267630+05:30'
-last_checked: '2026-06-23T01:19:44.267630+05:30'
+first_seen: '2026-06-24T23:20:59.523214+05:30'
+last_seen: '2026-06-24T23:20:59.523214+05:30'
+last_checked: '2026-06-24T23:20:59.523214+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Unity 6.5** introduces advanced **rendering pipelines**, **lighting systems**, and **visual effects** for high-performance, scalable visuals across platforms.
-- **Multiplayer and AI integration** enhanced via dedicated packages (e.g., `com.unity.multiplayer`, `com.unity.ai.*`) for runtime inference, asset generation, and contextual editor assistance.
-- **Cross-platform optimization** includes mobile runtime improvements, **Shader Graph** updates, and **Visual Effect Graph** enhancements for engaging visuals and productivity tools like **Cinemachine** and **ProBuilder**.
+- **Unity 6.5** introduces **scalable rendering performance** via updated render pipelines, lighting systems, and visual effects, enabling high-quality, high-performance experiences across platforms.
+
+- **Multiplayer and AI integration** are enhanced with dedicated packages for **multiplayer game creation** and **AI-driven tools** (code generation, asset creation, runtime inference) within the Unity Editor.
+
+- **Cross-platform optimization** includes a **new mobile runtime**, expanded platform-specific features, and improved **UI Toolkit**, **Cinemachine**, and **ProBuilder** for enhanced productivity.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T01:19:44.267620+05:30
+- Published: 2026-06-24T23:20:59.523200+05:30
 
 ## Related Tags
 

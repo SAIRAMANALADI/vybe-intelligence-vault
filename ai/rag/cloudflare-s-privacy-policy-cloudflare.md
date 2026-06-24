@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/privacy
-published_at: '2026-06-23T09:58:23.427914+05:30'
-collected_at: '2026-06-23T09:58:23.427928+05:30'
+published_at: '2026-06-24T22:57:24.426424+05:30'
+collected_at: '2026-06-24T22:57:24.426437+05:30'
 tags:
 - agents
 - creative_dev
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloudflare-s-privacy-policy-cloudflare
-first_seen: '2026-06-23T09:58:23.427928+05:30'
-last_seen: '2026-06-23T09:58:23.427928+05:30'
-last_checked: '2026-06-23T09:58:23.427928+05:30'
+first_seen: '2026-06-24T22:57:24.426437+05:30'
+last_seen: '2026-06-24T22:57:24.426437+05:30'
+last_checked: '2026-06-24T22:57:24.426437+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including DDoS protection, CDN, Zero Trust SASE, and API security, with tailored solutions for enterprises, SMBs, and partners.
+- **Cloudflare’s SASE (Cloudflare One) framework** integrates zero trust network access (ZTNA), secure web gateway (SWG), SD-WAN, and email security into a unified cloud-native architecture for enterprise security and networking.
 
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and observability (Workers Observability), enabling edge-native application deployment with pay-as-you-go pricing.
+- **Developer platform** supports serverless compute (Workers), AI/ML inference (Workers AI), R2 object storage, D1 SQL databases, and observability tools (logs/metrics/traces) with global edge deployment.
 
-- **Global Infrastructure** operates 300+ data centers worldwide, providing low-latency routing (Argo Smart Routing), DNS (1.1.1.1), and post-quantum cryptography compliance, with compliance certifications across healthcare, finance, and public sector industries.
+- **Threat intelligence and compliance** leverages Cloudflare Radar for real-time internet traffic analysis, Cloudforce One for threat operations, and supports post-quantum cryptography (PQC) for future-proof security standards.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:58:23.427914+05:30
+- Published: 2026-06-24T22:57:24.426424+05:30
 
 ## Related Tags
 

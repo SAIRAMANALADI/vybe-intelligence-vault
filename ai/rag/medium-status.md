@@ -6,16 +6,17 @@ source_name: Web Discovery
 source_url: https://status.medium.com/?source=post_page
 resource_id: blog:medium-status
 -----d10bb5769280---------------------------------------
-published_at: '2026-06-23T09:54:31.904043+05:30'
-collected_at: '2026-06-23T09:54:31.904049+05:30'
+published_at: '2026-06-24T22:51:17.029493+05:30'
+collected_at: '2026-06-24T22:51:17.029505+05:30'
 tags:
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-status
-first_seen: '2026-06-23T09:54:31.904049+05:30'
-last_seen: '2026-06-23T09:54:31.904049+05:30'
-last_checked: '2026-06-23T09:54:31.904049+05:30'
+first_seen: '2026-06-24T22:51:17.029505+05:30'
+last_seen: '2026-06-24T22:51:17.029505+05:30'
+last_checked: '2026-06-24T22:51:17.029505+05:30'
 health_score: 100
 ---
 
@@ -23,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **System Status**: Medium reports 100% uptime for all web services (3 components) and mobile apps (2 components) from March 2026 to June 2026.
-- **Operational State**: No known issues affecting Medium's systems during the reported period.
-- **Components**: Web services and mobile apps each consist of 3 and 2 components, respectively, all functioning without disruption.
+- **Operational Status**: Medium reports 100% uptime for both Web Services (3 components) and Mobile Apps (2 components) from March 2026 to June 2026 with no known system issues.
+- **Component Breakdown**: Web Services consist of 3 distinct components, while Mobile Apps are divided into 2 separate components, all maintaining full operational status.
+- **Calendar Integration**: The status page includes a non-functional calendar UI (June 2026) with no technical details provided on backend integration or data sources.
 
 ## Why It Matters
 
@@ -35,10 +36,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:54:31.904043+05:30
+- Published: 2026-06-24T22:51:17.029493+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - web-crawled
 

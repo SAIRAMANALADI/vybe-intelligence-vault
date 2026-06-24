@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Python Type Hints Integration**: Typer leverages Python type hints for CLI parameter declaration, enabling automatic generation of CLI arguments/options, help text, and type validation without additional syntax.
-
-- **Subcommand & Group Support**: Supports hierarchical CLI structures via `typer.Typer()` app with `@app.command()` decorators, enabling complex command trees with nested subcommands and shared/global options.
-
-- **Automatic Tooling**: Provides built-in `--help`, shell completion (
+- **Type-Driven CLI Framework**: Typer leverages Python type hints to automatically generate CLI interfaces, eliminating boilerplate while ensuring type safety and editor support (autocompletion, linting).
+- **Dual Execution Modes**: Supports direct Python execution (`python main.py`) and standalone CLI invocation via the `typer` command, enabling automatic conversion of scripts to CLI apps without internal Typer dependencies.
+- **Subcommand & Option Handling**: Implements hierarchical command s
 
 ## Use Cases
 

@@ -6,9 +6,9 @@ source_url: https://microsoft.github.io/graphrag
 resource_id: blog:welcome-graphrag
 local_vault_path: ai/rag/welcome-graphrag.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Welcome - GraphRAG
@@ -27,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GraphRAG Architecture**: Structured hierarchical RAG method that constructs a knowledge graph from raw text, performs hierarchical clustering (e.g., Leiden algorithm), and generates community summaries for improved reasoning over private datasets.
+- **Hierarchical RAG Framework**: GraphRAG transforms raw text into a structured knowledge graph (entities, relationships, claims) via hierarchical Leiden clustering, enabling multi-scale reasoning beyond naive vector similarity in RAG systems.
 
-- **Query Modes**: Supports multiple retrieval strategies—*Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric traversal), *DRIFT Search* (entity-centric with community context), and *Basic Search* (b
+- **Query Modes**: Supports *Global Search* (holistic corpus understanding via community summaries), *Local Search* (entity-centric reasoning via neighborhood traversal), and *DRIFT Search* (hybrid approach combining local graph context with community-le
 
 ## Use Cases
 

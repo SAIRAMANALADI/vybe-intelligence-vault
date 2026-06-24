@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K stars, offering 700+ integrations, modular chains, and LangGraph for complex RAG pipelines; ideal for flexible, multi-step implementations.
-- **Dify**: 114K-star visual RAG platform with drag-and-drop workflows, built-in document management, and one-click deployment; optimized for rapid prototyping and non-developers.
-- **Pathway**: 50K-star Python/Rust framework specializing in real-time data processing with 350+ connectors, enabling low-la
+- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows, ideal for complex RAG pipelines.
+- **Pathway**: Python (Rust runtime) framework with 50K+ stars, specializing in real-time data processing and incremental updates for dynamic knowledge bases.
+- **LightRAG**: Python-based framework with 27.4K stars, utilizing graph-based approaches (GraphRAG) for relationship-aware retrieval, derived from HKU resea
 
 ## Use Cases
 

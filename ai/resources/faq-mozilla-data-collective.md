@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://community.mozilladatacollective.com/tag/faq
-published_at: '2026-06-23T10:08:58.812147+05:30'
-collected_at: '2026-06-23T10:08:58.812153+05:30'
+published_at: '2026-06-24T23:16:03.333015+05:30'
+collected_at: '2026-06-24T23:16:03.333024+05:30'
 tags:
 - dataset
 - web-crawled
 status: active
 resource_id: blog:faq-mozilla-data-collective
-first_seen: '2026-06-23T10:08:58.812153+05:30'
-last_seen: '2026-06-23T10:08:58.812153+05:30'
-last_checked: '2026-06-23T10:08:58.812153+05:30'
+first_seen: '2026-06-24T23:16:03.333024+05:30'
+last_seen: '2026-06-24T23:16:03.333024+05:30'
+last_checked: '2026-06-24T23:16:03.333024+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Immutable Terms of Use Fields**: After publishing a dataset, fields defining its terms of use become uneditable to maintain compliance and legal integrity.
-- **Data Integrity Protection**: Prevents unauthorized modifications to critical metadata that govern dataset usage rights and restrictions.
-- **Version Control Enforcement**: Ensures consistent terms across all versions of a published dataset, avoiding ambiguity in licensing or usage agreements.
+- **Immutable Terms of Use Fields**: Post-publication, dataset terms of use fields (e.g., license, usage restrictions) are locked to ensure legal compliance and prevent unauthorized modifications.
+- **Data Integrity Enforcement**: Editing critical metadata after publication could compromise dataset authenticity, provenance tracking, or compliance with licensing agreements.
+- **System-Level Locking Mechanism**: The platform enforces read-only access to these fields via backend constraints, triggered upon dataset publication to maintain auditability and regulatory adherence.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-23T10:08:58.812147+05:30
+- Published: 2026-06-24T23:16:03.333015+05:30
 
 ## Related Tags
 

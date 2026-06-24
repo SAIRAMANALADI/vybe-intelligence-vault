@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Safari Support**: Provides troubleshooting for Safari across Apple devices, including updating the browser, clearing browsing history, blocking pop-ups, managing cookies, resolving website loading issues, and enhancing online security via phishing warnings and Privacy Report.
-- **Safari User Guide**: Offers comprehensive documentation for Safari features and settings on iPhone, iPad, and Mac, accessible via Apple Support.
-- **Apple Support Ecosystem**: Includes product support, service/repai
+- **Safari Updates & Troubleshooting**: Safari updates are platform-agnostic (Mac, iPhone, iPad, Apple Vision Pro) and require manual installation via system updates; unresolved loading issues may stem from corrupted caches, DNS conflicts, or extension interference, requiring diagnostic steps like resetting network settings or disabling extensions.
+
+- **Privacy & Tracking Mitigation**: Safari enforces Intelligent Tracking Prevention (ITP) to block cross-site tracking, provides a Privacy Report f
 
 ## Use Cases
 

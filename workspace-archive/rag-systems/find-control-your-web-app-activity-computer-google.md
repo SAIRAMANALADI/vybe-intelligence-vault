@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Web & App Activity** logs data from Google services (e.g., Assistant, TV, Store) and associated metadata (language, device type, location, IP) to personalize recommendations and ads, with optional inclusion of Chrome history and voice/audio activity.
-- Users can toggle the feature via [My Activity settings](https://myactivity.google.com/myactivity), with granular controls for deletion (manual/automatic) and security (extra verification for history access).
-- Activity persists even when signe
+- **Web & App Activity** logs data from Google services (e.g., Assistant, TV, Store) and associated metadata (language, device type, location, IP) to personalize recommendations and improve services.
+- Users can toggle **Web & App Activity** on/off via [My Activity settings](https://myactivity.google.com/myactivity), with options to delete past data or enable automatic deletion.
+- Enabling **Chrome history sync** and "Include voice/audio activity" expands tracking to browsing data, app usage, an
 
 ## Use Cases
 

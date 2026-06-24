@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unity 6.0 Documentation**: Official manual and scripting API for Unity 6.0 (6000.0), supporting English, Chinese, Japanese, and Korean, with legacy and supported version distinctions.
+- **Unity 6.0 Documentation**: Official manual and scripting API for Unity 6.0 (6000.0), including best practice guides for art/design, DevOps, graphics/rendering, performance optimization, and scripting, with localized versions (English, 中文, 日本語, 한국어).
 
-- **Best Practice Guides**: Structured resources covering art/design, DevOps, graphics/rendering, performance optimization, and scripting, including guides on VR/XR, URP/HDRP shaders, version control, and C# style guides.
+- **Rendering Pipelines & VFX**: URP/HDRP guides for shader creation (e.g., toon/outline shaders via Shader Graph), lighting/environment optimization in HDRP, and advanced VFX using VFX Graph in Unity 6.
 
-- **Advanced Technical Resources**: Includes guides on multiplayer networking (Netcode f
+- **Performance & Scripting**: Guides on
 
 ## Use Cases
 

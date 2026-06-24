@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2131 resources matched in the intelligence vault.
+Active signals: 2237 resources matched in the intelligence vault.
 Recently detected signals:
-- [Coverage.py — Coverage.py 7.14.3 documentation](../ai/rag/coverage-py-coverage-py-7-14-3-documentation.md) (Source: Unknown Source) - Collected 2026-06-24
-- [A successful Git branching model » nvie.com](../ai/rag/a-successful-git-branching-model-nvie-com.md) (Source: Unknown Source) - Collected 2026-06-24
-- [Atlassian Community Events Community-Led Classes](../ai/rag/atlassian-community-events-community-led-classes.md) (Source: Unknown Source) - Collected 2026-06-24
-- [The Best Assets for Game Making | Unity Asset Store](../ai/rag/the-best-assets-for-game-making-unity-asset-store.md) (Source: Unknown Source) - Collected 2026-06-24
-- [RVM: Ruby Version Manager - RVM Ruby Version Manager - Documentation](../ai/rag/rvm-ruby-version-manager-rvm-ruby-version-manager.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Data Analysis: Conducting and Troubleshooting | Nature Masterclasses](../ai/rag/data-analysis-conducting-and-troubleshooting-natur.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Nature Masterclasses | Librarian Portal | Springer Nature](../ai/rag/nature-masterclasses-librarian-portal-springer-nat.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Building Better Connections: The Story of Crossref's Metadata Development - Crossref](../ai/rag/building-better-connections-the-story-of-crossref.md) (Source: Unknown Source) - Collected 2026-06-24
+- [Differences between carbon budget estimates unravelled | Nature Climate Change](../ai/rag/differences-between-carbon-budget-estimates-unrave.md) (Source: Unknown Source) - Collected 2026-06-24
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,45 +75,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 10. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 10. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive RAG Implementation Guide**: Provides a full-stack technical manual for developing Retrieval-Augmented Generation (RAG) applications, covering end-to-end workflows, architectures, ...
+
+### 11. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
 - Description: 2026  AI Agent  ·  +  +  ·  · LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG /  ·  · 0 +  +
 
-### 11. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+### 12. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
 - Stars: 0
 - Language: Unknown
 - Description: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic capabilities, enabling dynamic context augmentation and multi-step reasoning ...
 
-### 12. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
+### 13. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low-code/no-code capab...
 
-### 13. [SciPhi-AI/R2R](../ai/rag/sciphi-ai-r2r.md) ([GitHub](https://github.com/sciphi-ai/r2r))
+### 14. [SciPhi-AI/R2R](../ai/rag/sciphi-ai-r2r.md) ([GitHub](https://github.com/sciphi-ai/r2r))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic agentic workflows for AI-driven retrieval tasks.
 
-### 14. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
+### 15. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial.md) ([GitHub](https://github.com/chiggyjain/pythonlangsmithtutorial))
 - Stars: 0
 - Language: Unknown
 - Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
 
-### 15. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
+### 16. [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) ([GitHub](https://github.com/arize-ai/phoenix))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: Arize-ai/phoenix
 
-### 16. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 17. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
-
-### 17. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) model development, covering end-to-end implementation strategies, evaluation...
 
 ### 18. [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) ([GitHub](https://github.com/rokbenko/ai-playground))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-24T21:19:17.813398+05:30.066292+05:30.051325+05:30.054959+05:30.547440+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-24T23:30:03.154175+05:30.813398+05:30.066292+05:30.051325+05:30.054959+05:30.547440+05:30.703175+05:30.798681+05:30.466126+05:30.589982+05:30.933382+05:30.283410+05:30.277409+05:30.638018+05:30.577059+05:30.107484+05:30.018009+05:30.164497+05:30.642075+05:30.664174+05:30.711551+05:30.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

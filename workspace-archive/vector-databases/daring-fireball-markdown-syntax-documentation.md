@@ -11,9 +11,8 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- anthropic
+- agents
 - hackernews
-- openai
 - rag
 - reddit
 - web-crawled
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Syntax Design**: Markdown uses punctuation characters (e.g., `*`, `#`, `>`, `-`) to represent formatting (emphasis, headers, blockquotes, lists) with syntax designed for readability in plain text while mapping to HTML output.
+- **Markdown Syntax Design**: Prioritizes human-readable plain text formatting using punctuation (e.g., `*emphasis*`, `# Headers`) while allowing seamless inline HTML for unsupported elements, ensuring compatibility with web publishing without complex tagging.
 
-- **HTML Integration**: Supports inline HTML for unsupported elements and automatically escapes `<` and `&` to `&lt;` and `&amp;` unless used in code spans/blocks, ensuring valid HTML without manual escaping.
-
-- **Block vs. Span Elements**: Block-level HTML requires bl
+- **Automatic Escaping & Special Characters**: Handles HTML-sensitive characters (`<`, `&`) automatically—converting them to entities (`&lt;`, `&amp;`) in rendered output—except within code spans/blocks where they remain escaped for synta
 
 ## Use Cases
 

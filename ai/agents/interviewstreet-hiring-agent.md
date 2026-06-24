@@ -1,20 +1,20 @@
 ---
 title: interviewstreet/hiring-agent
 category: ai/agents
-source_type: github_trending
-source_name: GitHub Trending AI
+source_type: github
+source_name: GitHub Topics AI Search
 source_url: https://github.com/interviewstreet/hiring-agent
-published_at: '2026-06-24T20:38:09.766459+05:30'
-collected_at: '2026-06-24T20:38:09.766462+05:30'
+collected_at: '2026-06-24T22:48:55.931346+05:30'
+published_at: '2026-06-24T17:18:12Z'
 tags:
 - agents
-- github-trending
-- python
+stars: 2009
+language: Python
 status: active
 resource_id: github:interviewstreet/hiring-agent
 first_seen: '2026-06-18T23:35:18.966794+05:30'
-last_seen: '2026-06-24T20:38:09.766462+05:30'
-last_checked: '2026-06-24T20:38:09.766462+05:30'
+last_seen: '2026-06-24T22:48:55.931346+05:30'
+last_checked: '2026-06-24T22:48:55.931346+05:30'
 health_score: 100
 ---
 
@@ -26,19 +26,30 @@ AI agent to evaluate and score resumes.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: GitHub Trending AI
-- Category: ai/agents
-- Published: 2026-06-24T20:38:09.766459+05:30
+- Owner: interviewstreet
+- Stars: 2009
+- Forks: 580
+- Language: Python
+- Topics: None
+- Last Updated: 2026-06-24T17:18:12Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- github-trending
-- python
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 

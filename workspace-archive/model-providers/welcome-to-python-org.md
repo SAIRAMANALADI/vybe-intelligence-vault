@@ -2,7 +2,7 @@
 title: Welcome to Python.org
 archive_category: model-providers
 source_category: ai/resources
-source_url: http://www.python.org
+source_url: https://www.python.org
 resource_id: blog:welcome-to-python-org
 local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
@@ -14,6 +14,7 @@ tags:
 - anthropic
 - producthunt
 - reddit
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Python 3 supports arithmetic operations (`/`, `//`, `**`), list comprehensions, and built-in functions like `enumerate()` for compound data type manipulation.
-- The Python Software Foundation (PSF) promotes the language, supports community growth, and mitigates security risks (e.g., API authentication bypass fixes in `python.org` metadata).
-- Python is widely used in AI/ML (PyTorch, TensorFlow), web development (Django, FastAPI), and system administration (Ansible, Salt), with active releases
+- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (float result) and floor division (integer result), as demonstrated in its interactive shell.
+- Python's **compound data types**, such as lists, support indexing, slicing, and operations like list comprehensions (`[fruit.upper() for fruit in fruits]`) and built-in functions (`enumerate()`).
+- Python provides **control flow structures** (`if`, `for`, `while`, `range`) and **
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://www.python.org
+Original source URL: https://www.python.org
 
 ## Local Vault File
 

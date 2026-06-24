@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Transition Schedule**: The `bsky.network` firehose endpoint will switch from `narelay.pop2.bsky.network` to `relay1.us-west.bsky.network` on **January 27, 2026 (US/Pacific)**, with a sequence jump from ~17.5B to ~26.6B.
-
-- **Consumer Impact**: WebSocket connections may drop, causing cursor jumps and potential event duplication; auto-reconnection mitigates most issues, and deduplication is possible via the `rev` field.
-
-- **Sync 1.1 Support**: The new relay enables `#sync` message type and MS
+- **Transition Date & Endpoint**: The `bsky.network` firehose will switch from `narelay.pop2.bsky.network` to `relay1.us-west.bsky.network` on **January 27, 2026 (US/Pacific)**, with sequence numbers jumping from ~17.5B to ~26.6B.
+- **Consumer Impact**: WebSocket connections may drop with cursor jumps, but auto-reconnection should mitigate issues; minor event duplication may occur, resolvable via `rev` field or direct relay targeting (`relay1.us-east.bsky.network` as fallback).
+- **Protocol & Op
 
 ## Use Cases
 

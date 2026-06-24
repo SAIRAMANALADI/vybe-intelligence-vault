@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:reid-hoffman-says-spacex-not-an-ai-company-xai-com
 first_seen: '2026-06-24T20:38:11.102669+05:30'
 last_seen: '2026-06-24T20:38:11.102669+05:30'
 last_checked: '2026-06-24T20:38:11.102669+05:30'
 health_score: 100
 ---
+
 
 # Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'
 

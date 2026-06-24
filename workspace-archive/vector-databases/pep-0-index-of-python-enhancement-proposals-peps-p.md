@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by PEP editors, with their version-controlled history serving as the authoritative record; a JSON API (`peps.json`) provides structured metadata access.
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors and categorized via structured indices (e.g., numerical, topic-based, or status-based) with metadata accessible via a [PEPS API](https://peps.python.org/api/peps.json) providing JSON-formatted PEP data.
 
-- **PEP Categorization**: PEPs are classified into statuses (e.g., *Accepted*, *Finished*, *Rejected*) and topics (e.g., *Governance*, *Packaging*, *Typing*), with specialized subcategories like *Process and Meta-PEPs* (e.g., PEP 1, PEP 8) and *Informational PEPs* (e.g., PEP 20, PEP
+- **PEP Status Workflow**: PEPs traverse statuses (e.g., Draft, Accepted, Finished, Rejected) with governance defined in [PEP 1](https://peps.python.org/pep-0001/) and specialized processes like [PEP 729](https://peps.pyth
 
 ## Use Cases
 

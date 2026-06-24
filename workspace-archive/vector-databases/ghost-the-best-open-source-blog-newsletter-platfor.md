@@ -8,10 +8,9 @@ local_vault_path: ai/rag/ghost-the-best-open-source-blog-newsletter-platfor.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
 - hackernews
 - producthunt
 - rag
@@ -20,7 +19,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Ghost: The best open source blog & newsletter platform
@@ -29,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Ghost 6.0** introduces a **headless CMS architecture**, decoupling the content management backend from the presentation layer, enabling seamless integration with modern frontend frameworks (e.g., Next.js, Gatsby) via GraphQL API.
+- **Ghost 6.0** is a headless CMS and publishing platform enabling professional publishers to monetize content via custom websites, newsletters, and paid memberships with native Stripe integration for subscription management.
 
-- **Native membership & subscription engine** with **Stripe integration**, supporting dynamic pricing tiers (monthly/yearly), automated email newsletters, and granular audience segmentation for monetization.
+- **Advanced Creator Tools** include a distraction-free, Markdown-based editor supporting rich media (galleries, embeds, dynamic cards) and built-in email newsletters with audience segmentation for scalable content distribution.
 
-- **Modular content system** with **rich dynamic cards**
+- **Native Analytics & Integrations** provi
 
 ## Use Cases
 

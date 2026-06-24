@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
-published_at: '2026-06-24T20:39:33.605586+05:30'
-collected_at: '2026-06-24T20:39:33.605600+05:30'
+published_at: '2026-06-24T22:51:08.083895+05:30'
+collected_at: '2026-06-24T22:51:08.083909+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-24T20:39:33.605600+05:30'
-last_seen: '2026-06-24T20:39:33.605600+05:30'
-last_checked: '2026-06-24T20:39:33.605600+05:30'
+first_seen: '2026-06-24T22:51:08.083909+05:30'
+last_seen: '2026-06-24T22:51:08.083909+05:30'
+last_checked: '2026-06-24T22:51:08.083909+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Core components include document chunking, embedding optimization (e.g., using LangChain), and vector storage (e.g., Supabase) for efficient retrieval and generation.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like FAISS or Supabase), retrieval (hybrid dense/sparse search), and LLM integration (LangChain/PyTorch) with latency benchmarks targeting <500ms end-to-end.
 
-- **Production Optimizations**: Advanced strategies like hybrid search (dense + sparse retrieval), query expansion, caching, and load balancing are critical for latency, cost, and scalability in RAG pipelines.
+- **Production Optimization**: Key strategies involve adaptive chunking (semantic-aware), embedding quantization (e.g., 8-bit), vector DB indexing (HNSW/PQ), caching (Redis), and load balancing across GPU/CPU inference endpoints with Cloudflare Workers for edge deployment.
 
-- **Monitoring & Scaling**: Integration with observability tools (e.g., Sentry) and deployment via Cloudflare Workers enable real-time debugging, performance tracking, and horizontal scaling of RAG applications.
+- **Monitoring & Cost Control**: Observability via Sentry for error tracking, Prometheus/Grafana for metrics, token-efficient prompt engineering (e.g., retrieval pruning), and cost-performance trade-offs via model distillation (e.g., quantized LLMs) and query rewriting for reduced API calls.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:39:33.605586+05:30
+- Published: 2026-06-24T22:51:08.083895+05:30
 
 ## Related Tags
 

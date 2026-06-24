@@ -1,5 +1,5 @@
 ---
-title: 'RubyLLM: A single, beautiful Ruby framework for all major AI providers'
+title: 'RubyLLM: A Ruby framework for all major AI providers'
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://rubyllm.com
@@ -19,7 +19,7 @@ selection_reason:
 - Useful for project building
 ---
 
-# RubyLLM: A single, beautiful Ruby framework for all major AI providers
+# RubyLLM: A Ruby framework for all major AI providers
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by doener. Score: 10, Comments: 0.
+Hacker News story by doener. Score: 177, Comments: 23.
 Original Link: https://rubyllm.com/
 
 ## Use Cases
