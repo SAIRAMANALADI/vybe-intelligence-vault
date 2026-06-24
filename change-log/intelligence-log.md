@@ -2,6 +2,15 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-06-24T18:56:25.577077+05:30
+- **[New Discovery]** `Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral` registered with score `0` in `ai/companies/mistral`
+- **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
+- **[Rank Rise]** `The Medium Blog`: Rank rose by +2
+- **[Rank Rise]** `Medium`: Rank rose by +1
+- **[Rank Rise]** `Medium Help Center`: Rank rose by +1
+- **[Rank Drop]** `Medium Status`: Rank dropped by -1
+- **[Rank Drop]** `Medium Terms of Service | by Medium | Medium Policy`: Rank dropped by -3
+
 ### Run: 2026-06-24T15:58:24.648192+05:30
 - **[New Discovery]** `Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral` registered with score `0` in `ai/companies/mistral`
 - **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``

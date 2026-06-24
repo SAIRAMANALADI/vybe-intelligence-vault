@@ -1,27 +1,27 @@
 ---
 title: "EKKOLearnAI/hermes-studio"
 category: "Orchestrator"
-tech_stack: ["TypeScript", "Electron", "Node.js", "React", "Socket.IO", "SQLite", "Docker", "Python", "Web Speech API", "OpenAI-compatible APIs", "Express.js", "WebSockets", "PWA"]
+tech_stack: ["TypeScript", "Electron", "Node.js", "React", "Socket.IO", "SQLite", "Docker", "Python", "WebSocket", "npm", "YAML", "SQL", "Web Speech API", "TTS/STT", "node-pty", "@xterm/xterm"]
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agent management", "local RAG deployment", "multi-platform chat", "automation tools", "model orchestration"]
+tags: ["Agent Management", "Local AI Runtime", "Multi-Platform Integration", "Automation", "Desktop App"]
 source: "https://github.com/EKKOLearnAI/hermes-studio"
-discovered_at: "2026-06-24T10:19:14Z"
+discovered_at: "2026-06-24T13:18:20Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Hermes Studio is a comprehensive desktop app, local runtime, and web console designed to interact with the Hermes Agent. It provides a unified interface for managing AI agents, models, sessions, platform channels, automation jobs, and workspace tools entirely locally.
+Hermes Studio is a comprehensive desktop app, local runtime, and web console for managing and interacting with the Hermes Agent. It provides a unified interface for agent chat, model management, automation, file operations, and multi-platform integrations, all designed for local-first AI workflows.
 
 ## Key Features
-- Unified desktop/web interface for Hermes Agent with real-time chat streaming and session management
-- Multi-platform channel integration (Telegram, Discord, Slack, WhatsApp, Matrix, etc.) with credential management
-- Built-in automation tools including cron jobs, Kanban boards, and scheduled tasks
-- Comprehensive workspace tools like file browsers, web terminals, voice I/O, and coding agents
-- Local-first architecture with SQLite persistence, Docker support, and multi-profile management
+- Unified dashboard for Hermes Agent with real-time chat, session management, and tool traces
+- Multi-platform channel integrations (Telegram, Discord, Slack, WhatsApp, etc.) with credential management
+- Automation engine for scheduled jobs, Kanban tasks, and group chats with profile scoping
+- Integrated file browser, web terminal, and coding agent runners for local workflows
+- Usage analytics, model management, and multi-profile support with SQLite persistence
 
 ## Why It Matters for RAG Builders
-Hermes Studio provides a critical local runtime and management layer for Hermes Agent, enabling seamless integration of AI agents into production workflows without cloud dependencies.
+Hermes Studio simplifies the orchestration and management of local AI agents, making it essential for RAG builders who need a unified, local-first platform for agent interactions, automation, and multi-platform integrations.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -48,20 +48,29 @@ Automated review identified **Docker** as a key module contributing to infrastru
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### WebSocket
+Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### SQL
+Automated review identified **SQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### Web Speech API
 Automated review identified **Web Speech API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### OpenAI-compatible APIs
-Automated review identified **OpenAI-compatible APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TTS/STT
+Automated review identified **TTS/STT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Express.js
-Automated review identified **Express.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### node-pty
+Automated review identified **node-pty** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSockets
-Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### PWA
-Automated review identified **PWA** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### @xterm/xterm
+Automated review identified **@xterm/xterm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

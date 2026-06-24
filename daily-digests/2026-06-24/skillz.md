@@ -1,37 +1,37 @@
 ---
 title: "mugoherick12-boop/skillz"
 category: "Tooling"
-tech_stack: ["Python", "MCP Server", "Cross-Platform"]
+tech_stack: ["Python", "MCP (Model Context Protocol)", "Cross-platform (Windows, macOS, Linux)"]
 quality_score: 5
 rag_relevance: 6
-tags: ["MCP", "Skills Management", "Cross-Platform", "Tooling", "Integration"]
+tags: ["MCP", "skill management", "cross-platform", "tool integration", "AI client"]
 source: "https://github.com/mugoherick12-boop/skillz"
-discovered_at: "2026-06-24T10:24:28Z"
+discovered_at: "2026-06-24T13:25:13Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-skillz is a tool designed to load and manage skills onto an MCP (Model Context Protocol) server, enabling non-Claude clients to utilize skills originally designed for Claude. It simplifies skill integration and deployment across different platforms.
+skillz is a tool designed to load and manage skills onto an MCP (Model Context Protocol) server, enabling non-Claude clients to interact with skills seamlessly. It provides an intuitive interface for installing, updating, and monitoring skills across multiple platforms.
 
 ## Key Features
-- Loads skills onto MCP servers for non-Claude clients
+- Simplifies loading skills onto MCP servers for non-Claude clients
 - Cross-platform support (Windows, macOS, Linux)
-- Intuitive interface for skill management
-- Real-time skill updates and monitoring
-- In-app user guides for ease of use
+- Real-time skill updates and performance monitoring
+- Intuitive user interface for skill management
+- In-app guides and help section for ease of use
 
 ## Why It Matters for RAG Builders
-skillz bridges the gap between Claude-specific skills and broader MCP client compatibility, expanding the utility of AI skills for developers.
+skillz bridges the gap between Claude-style skills and non-Claude MCP clients, enabling broader skill integration in AI systems.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP Server
-Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Cross-Platform
-Automated review identified **Cross-Platform** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Cross-platform (Windows, macOS, Linux)
+Automated review identified **Cross-platform (Windows, macOS, Linux)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
