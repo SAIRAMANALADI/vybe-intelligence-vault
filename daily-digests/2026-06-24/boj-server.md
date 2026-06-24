@@ -1,27 +1,27 @@
 ---
 title: "hyperpolymath/boj-server"
 category: "Agent Framework"
-tech_stack: ["MCP (Model Context Protocol)", "Deno", "Zig", "Idris2", "JavaScript/TypeScript", "REST API", "FFI (Foreign Function Interface)", "Docker", "Kubernetes", "PostgreSQL", "MongoDB", "Redis", "Neo4j", "Cloudflare Workers", "Vercel", "GitHub Actions", "CI/CD Pipelines"]
+tech_stack: ["MCP (Model Context Protocol)", "Deno", "Zig", "Idris2", "JavaScript/TypeScript", "REST API", "Formal Verification", "Docker", "Kubernetes", "PostgreSQL", "MongoDB", "Redis"]
 quality_score: 9
 rag_relevance: 10
-tags: ["MCP Server", "Multi-Tool Integration", "AI Agent Framework", "Cloud Automation", "Formal Verification"]
+tags: ["MCP server", "AI tooling", "multi-cartridge", "formal verification", "cloud integration"]
 source: "https://github.com/hyperpolymath/boj-server"
-discovered_at: "2026-06-24T18:53:52Z"
+discovered_at: "2026-06-24T20:49:48Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-BoJ (Bundle of Joy) is a unified Model Context Protocol (MCP) server that consolidates 115+ pluggable cartridges into a single endpoint, enabling access to tools across GitHub, GitLab, cloud platforms, databases, CI/CD, communications, and more. It serves as a runtime-agnostic bridge for AI agents and LLMs to interact with diverse services via a standardized interface.
+BoJ (Bundle of Joy) is a unified MCP server that consolidates 115+ tooling cartridges into a single endpoint, including GitHub, GitLab, cloud platforms, communication tools, ML services, and browser automation. It serves as a runtime-agnostic bridge for AI agents and MCP clients with formal verification and zero runtime dependencies.
 
 ## Key Features
-- Unified MCP server consolidating 115+ cartridges into a single endpoint for AI agents and LLMs
-- Runtime-agnostic bridge supporting Deno, Bun, Node.js, and other runtimes with zero dependencies
-- Formal verification of cartridges using Idris2 and Zig for safety and reliability
-- Extensive tooling across GitHub, GitLab, cloud platforms (AWS, GCP, Cloudflare), databases, and CI/CD systems
-- Local coordination and multi-instance AI peer discovery via `local-coord-mcp`
+- Unified MCP server consolidating 115+ cartridges across domains (Git, Cloud, ML, Databases, etc.)
+- Runtime-agnostic bridge (Deno, Bun, Node.js) with zero runtime dependencies
+- Formal verification (Idris2) and safety lemmas for credential isolation
+- Supports 10+ AI IDEs and clients (Claude, Gemini, VS Code, Cursor, etc.)
+- AAA-tier MCP definitions with structured tool descriptions and schema enforcement
 
 ## Why It Matters for RAG Builders
-BoJ simplifies the integration of diverse tools and services into AI workflows by providing a single, verified MCP endpoint, making it essential for building robust and scalable RAG systems.
+BoJ provides a single, verified endpoint for integrating 115+ AI tools and services, drastically simplifying RAG and agentic workflows by unifying disparate APIs into a standardized MCP interface.
 
 ## Tech Stack Deep Dive
 ### MCP (Model Context Protocol)
@@ -42,8 +42,8 @@ Automated review identified **JavaScript/TypeScript** as a key module contributi
 ### REST API
 Automated review identified **REST API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FFI (Foreign Function Interface)
-Automated review identified **FFI (Foreign Function Interface)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Formal Verification
+Automated review identified **Formal Verification** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -59,21 +59,6 @@ Automated review identified **MongoDB** as a key module contributing to infrastr
 
 ### Redis
 Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Neo4j
-Automated review identified **Neo4j** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Cloudflare Workers
-Automated review identified **Cloudflare Workers** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Vercel
-Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### GitHub Actions
-Automated review identified **GitHub Actions** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### CI/CD Pipelines
-Automated review identified **CI/CD Pipelines** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

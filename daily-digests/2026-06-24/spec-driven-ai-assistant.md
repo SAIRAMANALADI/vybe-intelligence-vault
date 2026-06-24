@@ -1,27 +1,27 @@
 ---
 title: "vishnu1432/spec-driven-ai-assistant"
-category: "Agent Framework"
-tech_stack: ["Python", "FastAPI", "TypeScript", "Go", "Rust", "Java", "C#", "Docker", "Kubernetes", "OpenAI API", "Claude API", "WebSockets", "Markdown", "YAML"]
+category: "Tooling"
+tech_stack: ["Python", "FastAPI", "TypeScript", "Go", "Rust", "Java", "C#", "Docker", "Kubernetes", "OpenAI API", "Claude API", "WebSocket", "Markdown"]
 quality_score: 8
 rag_relevance: 9
-tags: ["spec-driven development", "autonomous coding", "AI code generation", "spec validation", "traceability"]
+tags: ["spec-driven development", "autonomous coding", "code generation", "AI validation", "traceability"]
 source: "https://github.com/vishnu1432/spec-driven-ai-assistant"
-discovered_at: "2026-06-24T18:48:46Z"
+discovered_at: "2026-06-24T20:44:44Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A spec-driven autonomous AI coding agent that interprets formal specifications to generate, validate, and refine production-quality code with zero hallucinations, ensuring bidirectional traceability between specs and implementation.
+A spec-driven autonomous AI coding agent that interprets formal specifications to generate, validate, and refine production-quality code with bidirectional traceability between specs and implementation, eliminating hallucinations in code generation.
 
 ## Key Features
-- Interprets formal specifications in natural language or structured formats for precise code generation
-- Automatically validates generated code against original specifications to eliminate hallucinations
+- Interprets formal specifications in natural language or structured formats to generate production-quality code
+- Automatically validates generated code against original specifications with bidirectional traceability
 - Supports multi-language and multi-framework code generation (Python, TypeScript, Go, React, FastAPI, etc.)
-- Bidirectional traceability between specifications and implementation for compliance and debugging
-- Interactive ambiguity resolution and recursive refinement for unclear or incomplete specs
+- Includes interactive ambiguity resolution and auto-generated tests/documentation
+- Integrates with OpenAI and Claude APIs for optimized specification interpretation
 
 ## Why It Matters for RAG Builders
-It ensures AI-generated code strictly adheres to documented specifications, reducing errors and improving reliability for RAG and AI stack builders.
+It ensures AI-generated code strictly adheres to specifications, reducing hallucinations and improving reliability for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -57,14 +57,11 @@ Automated review identified **OpenAI API** as a key module contributing to infra
 ### Claude API
 Automated review identified **Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WebSockets
-Automated review identified **WebSockets** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### WebSocket
+Automated review identified **WebSocket** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Markdown
 Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
