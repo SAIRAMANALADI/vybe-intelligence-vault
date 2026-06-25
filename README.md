@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-25 23:11 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 01:30 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](ai/community/anthropic-says-alibaba-illicitly-extracted-claude.md)** • <kbd>+67 pts</kbd>
-- 🔼 **[GLM-5.2 is a step change for open agents](ai/community/glm-5-2-is-a-step-change-for-open-agents.md)** • <kbd>+33 pts</kbd>
-- 🔼 **[Wikipedia Workers in Britain set global first by seeking union recognition](ai/community/wikipedia-workers-in-britain-set-global-first-by-s.md)** • <kbd>+28 pts</kbd>
-- 🔼 **[OpenAI unveils its first custom chip, built by Broadcom](ai/community/openai-unveils-its-first-custom-chip-built-by-broa.md)** • <kbd>+24 pts</kbd>
-- 🔼 **[Fern: Docs, SDKs, and CLIs for your API](ai/rag/fern-docs-sdks-and-clis-for-your-api.md)** • Rank: <kbd>+2410</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](ai/community/ford-ai-hiccups-push-carmaker-to-rehire-gray-beard.md)** • Score: `508`
-- 🆕 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • Score: `233`
-- 🆕 **[Political bias in AI: Where the AI models stand](ai/community/political-bias-in-ai-where-the-ai-models-stand.md)** • Score: `24`
-- 🆕 **[Postman Inc. · GitHub](ai/resources/postman-inc-github.md)** • Score: `0`
-- 🆕 **[Astro AI | Where agents become teammates](ai/agents/astro-ai-where-agents-become-teammates.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)**
-- 💤 **[Tell HN: OpenAI has started putting ads on paid programs](ai/community/tell-hn-openai-has-started-putting-ads-on-paid-pro.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
