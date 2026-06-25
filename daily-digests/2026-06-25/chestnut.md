@@ -1,27 +1,27 @@
 ---
 title: "nutshell-dev/chestnut"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Node.js", "pnpm", "Git", "LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)", "CLI Development"]
+tech_stack: ["TypeScript", "Node.js", "pnpm", "Git", "LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)", "CLI"]
 quality_score: 9
 rag_relevance: 8
-tags: ["AI agents", "task decomposition", "verification gates", "local-first", "workflow automation"]
+tags: ["AI agents", "intent-driven", "contract-based execution", "local-first", "verification gates"]
 source: "https://github.com/nutshell-dev/chestnut"
-discovered_at: "2026-06-25T07:24:59Z"
+discovered_at: "2026-06-25T08:30:12Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-chestnut is a local-first AI agent framework that decomposes user intent into verifiable contracts executed by isolated 'claws'. It ensures task accuracy through skill-matched dispatch, dedicated context windows, verification gates, and retrospective learning, while maintaining transparency via versioned workspaces and inspectable execution traces.
+chestnut is a local-first AI agent framework that decomposes user intent into verifiable contracts executed by isolated 'claws' with dedicated context windows. It emphasizes intent preservation, transparent workflows, and continuous learning through retrospective skill distillation.
 
 ## Key Features
-- Intent-driven contract execution with verifiable subtasks
-- Isolated 'claws' with dedicated context windows for focused task handling
-- Skill-matched dispatch and retrospective learning for continuous improvement
-- Transparent and inspectable execution via versioned Git workspaces and CLI traces
-- Provider-agnostic LLM integration with local-first support (e.g., Ollama)
+- Intent preservation through contract-based task decomposition
+- Isolated 'claws' with dedicated context windows for focused execution
+- Verification gates ensuring subtask completion meets specified criteria
+- Retrospective learning that distills completed tasks into reusable skills
+- Transparent, inspectable workflows with versioned workspaces
 
 ## Why It Matters for RAG Builders
-It enables precise, verifiable AI task execution by decomposing intent into enforceable contracts, reducing hallucinations and improving reliability for RAG builders.
+It provides a robust framework for building reliable, verifiable AI agents that honor user intent while enabling continuous improvement through skill learning.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -39,8 +39,8 @@ Automated review identified **Git** as a key module contributing to infrastructu
 ### LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)
 Automated review identified **LLM Providers (Ollama, Anthropic, OpenAI, DeepSeek, Gemini)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### CLI Development
-Automated review identified **CLI Development** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### CLI
+Automated review identified **CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

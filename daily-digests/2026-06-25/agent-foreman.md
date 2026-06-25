@@ -4,24 +4,24 @@ category: "Agent Framework"
 tech_stack: ["Python", "FastAPI", "SQLite", "SQLModel", "httpx", "Web Push (VAPID)", "PWA", "Claude Code", "Codex CLI"]
 quality_score: 7
 rag_relevance: 8
-tags: ["AI agent supervision", "self-hosted", "coding assistant", "LLM review", "PWA notifications"]
+tags: ["AI agent supervision", "self-hosted", "coding assistant", "LLM review", "PWA integration"]
 source: "https://github.com/simplerjiang/agent-foreman"
-discovered_at: "2026-06-25T07:25:51Z"
+discovered_at: "2026-06-25T08:27:39Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Foreman is a self-hosted project manager agent that supervises local AI coding agents like Claude Code and Codex CLI. It monitors their activity, reviews outputs with a user's own LLM, and sends push notifications to a self-hosted PWA for approvals or task dispatching.
+Foreman is a self-hosted project manager agent that supervises local AI coding agents like Claude Code and Codex CLI. It monitors their activity, reviews outputs using a user-provided LLM, and communicates critical updates to the user via a self-hosted PWA on their phone.
 
 ## Key Features
 - Real-time monitoring of local AI coding agents (Claude Code, Codex CLI)
-- Automated LLM-driven review of agent outputs for risk assessment
-- Self-hosted PWA for remote approvals, task dispatching, and status updates
-- Gatekeeping system to pause risky actions and request human approval
-- Scalable architecture supporting both personal and team modes
+- Automated LLM-based review of agent outputs for risk assessment
+- Self-hosted PWA for remote approvals and task dispatching
+- Gatekeeping system to pause risky actions and notify the user
+- Scalable from personal to team use cases with shared relay mode
 
 ## Why It Matters for RAG Builders
-Foreman provides critical oversight and control for local AI coding agents, ensuring safe and efficient operation while enabling remote management through a self-hosted PWA.
+Foreman bridges the gap between autonomous AI coding agents and human oversight by providing real-time monitoring, risk assessment, and remote control, ensuring safer and more efficient AI-driven development workflows.
 
 ## Tech Stack Deep Dive
 ### Python
