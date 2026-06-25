@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-25T20:45:53.019731+05:30'
+collected_at: '2026-06-25T22:56:12.497301+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-25T20:45:53.019731+05:30'
-last_seen: '2026-06-25T20:45:53.019731+05:30'
-last_checked: '2026-06-25T20:45:53.019731+05:30'
+first_seen: '2026-06-25T22:56:12.497301+05:30'
+last_seen: '2026-06-25T22:56:12.497301+05:30'
+last_checked: '2026-06-25T22:56:12.497301+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval methods.
+- **Curated RAG-Vision Resources**: A specialized GitHub repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs), multimodal retrieval, and domain-specific adaptations.
 
-- **Scope & focus**: Encompasses cutting-edge RAG architectures, datasets, evaluation benchmarks, and tools for integrating **vision encoders** (e.g., ViT, CLIP) with **LLMs** to enhance visual question answering, image captioning, and scene understanding.
+- **Multimodal Retrieval Focus**: Highlights cutting-edge approaches where **visual retrieval** (e.g., image-to-text, cross-modal similarity) enhances generative tasks, with emphasis on **zero-shot learning**, **few-shot adaptation**, and **semantic alignment** between modalities.
 
-- **Community & updates**: Maintained repository with **336 stars** and **9 forks**, last updated **June 25, 2026**; serves as a dynamic reference for researchers and practitioners in **multimodal AI**.
+- **Dynamic & Evolving**: Last updated **June 2026**, suggesting active maintenance and inclusion of emerging techniques like **diffusion-based RAG**, **vision foundation models**, and **efficient retrieval architectures** (e.g., vector databases, graph-based indexing).
 
 ## Why It Matters
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built framework** for evaluating large language models (LLMs), implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Key features** include LLM evaluation metrics, real-time safety mechanisms, and security-oriented controls for production-grade deployments.
-- **Repository status** as of June 2026: 114 stars, 14 forks, actively maintained with the latest commit timestamped `2026-06-11T18:44:18Z`.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
+- **Supports LLMops** with integrated evaluation metrics, security checks, and runtime guardrails for production-grade deployments.
+- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focusing on scalability and modular integration for AI safety.
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool (Agent Skills open format).
+- **Purpose**: Provides expert SwiftUI best practices as an AI coding tool skill in the Agent Skills open format.
 - **Technical Stack**: Implemented in Python for integration with AI agents.
 - **Metadata**: 3,104 stars, 143 forks, last updated 2026-06-25.
 

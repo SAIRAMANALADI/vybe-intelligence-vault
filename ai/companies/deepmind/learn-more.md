@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/securing-the-future-of-ai-agents
-published_at: '2026-06-25T20:43:54.492620+05:30'
-collected_at: '2026-06-25T20:43:54.492631+05:30'
+published_at: '2026-06-25T22:54:21.445563+05:30'
+collected_at: '2026-06-25T22:54:21.445566+05:30'
 tags:
 - agents
 - blog-post
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: blog:learn-more
 first_seen: '2026-06-16T04:26:32.686042+00:00'
-last_seen: '2026-06-25T20:43:54.492631+05:30'
-last_checked: '2026-06-25T20:43:54.492631+05:30'
+last_seen: '2026-06-25T22:54:21.445566+05:30'
+last_checked: '2026-06-25T22:54:21.445566+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/securing-the-future-of-ai-agents
-- Collected At: 2026-06-25T20:43:54.492631+05:30
+- Collected At: 2026-06-25T22:54:21.445566+05:30
 
 ## Related Tags
 

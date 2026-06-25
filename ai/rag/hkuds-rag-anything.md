@@ -4,18 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-25T20:44:52.990596+05:30'
-published_at: '2026-06-25T14:59:40Z'
+collected_at: '2026-06-25T22:55:07.493872+05:30'
+published_at: '2026-06-25T16:03:27Z'
 tags:
+- dataset
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
-- workflows
 - youtube
-stars: 21578
+stars: 21579
 language: Python
 status: active
 license: MIT
@@ -23,9 +20,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-06-25T20:44:52.990596+05:30'
-last_seen: '2026-06-25T20:44:52.990596+05:30'
-last_checked: '2026-06-25T20:44:52.990596+05:30'
+first_seen: '2026-06-25T22:55:07.493872+05:30'
+last_seen: '2026-06-25T22:55:07.493872+05:30'
+last_checked: '2026-06-25T22:55:07.493872+05:30'
 health_score: 100
 ---
 
@@ -33,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Provides plug-and-play components for document parsing, embedding, vector storage, retrieval, and generation, enabling customizable RAG workflows.
-- **Optimized for Scalability**: Supports distributed vector search (e.g., FAISS, Milvus) and integrates with LLMs (e.g., Llama, Mistral) for high-throughput multi-modal RAG applications.
+- **Multi-Modal RAG Framework**: Unified Python-based framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, retrieval, and generation.
+
+- **Modular Architecture**: Implements plug-and-play pipelines with customizable retrievers (e.g., dense/sparse), rerankers, and LLMs, enabling end-to-end optimization for diverse multi-modal datasets.
+
+- **Scalable & Extensible**: Optimized for large-scale multi-modal data with support for distributed retrieval, dynamic chunking, and integration with state-of-the-art embedding models (e.g., CLIP, BLIP).
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21578
+- Stars: 21579
 - Forks: 2523
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-06-25T14:59:40Z
+- Last Updated: 2026-06-25T16:03:27Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

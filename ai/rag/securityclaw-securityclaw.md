@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-25T20:46:08.074267+05:30'
+collected_at: '2026-06-25T22:56:27.512455+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 251
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-25T20:46:08.074267+05:30'
-last_seen: '2026-06-25T20:46:08.074267+05:30'
-last_checked: '2026-06-25T20:46:08.074267+05:30'
+first_seen: '2026-06-25T22:56:27.512455+05:30'
+last_seen: '2026-06-25T22:56:27.512455+05:30'
+last_checked: '2026-06-25T22:56:27.512455+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based modules for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating anomalies in real-time using LLMs.
+- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch data, enabling adaptive threat detection and response workflows.
 
-- **Threat Detection Pipeline**: Combines retrieval-augmented generation (RAG) with LLM reasoning to contextualize security events, enabling adaptive threat hunting and anomaly validation without manual intervention.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct dynamic behavioral memory profiles, facilitating contextual anomaly validation via LLMs for improved threat identification.
 
-- **Autonomous Operations**: Designed for SOC automation with pluggable components, supporting threat detection, incident response, and continuous monitoring while maintaining modularity for extensibility.
+- **LLM-Powered Anomaly Validation**: Integrates large language models (LLMs) to cross-validate detected anomalies in real-time, enhancing detection accuracy and reducing false positives in autonomous SOC operations.
 
 ## Why It Matters
 

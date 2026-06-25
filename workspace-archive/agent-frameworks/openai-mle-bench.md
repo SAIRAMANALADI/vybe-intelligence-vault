@@ -8,7 +8,7 @@ local_vault_path: ai/agents/openai-mle-bench.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - python
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # openai/mle-bench
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
 
-- **Technical Implementation**: Written in Python, it provides a standardized framework for testing agents' ability to handle real-world ML workflows via executable tasks and automated evaluation metrics.
+- **Technical Implementation**: Built in Python, the benchmark consists of modular tasks with standardized APIs, enabling reproducible evaluation of agent performance across diverse ML workflows.
 
-- **Update Status**: Last updated on **2026-06-25**, with **1,595 stars** and **255 forks**,
+- **Evaluation Metrics**: Tracks agent success rates, task completion efficiency, and code qual
 
 ## Use Cases
 

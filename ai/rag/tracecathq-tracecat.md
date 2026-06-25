@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-25T20:47:53.250846+05:30'
+collected_at: '2026-06-25T22:58:12.682462+05:30'
 published_at: '2026-06-25T14:22:24Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -21,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-25T15:14:18Z'
+pushed_at: '2026-06-25T17:03:12Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-25T20:47:53.250846+05:30'
-last_seen: '2026-06-25T20:47:53.250846+05:30'
-last_checked: '2026-06-25T20:47:53.250846+05:30'
+first_seen: '2026-06-25T22:58:12.682462+05:30'
+last_seen: '2026-06-25T22:58:12.682462+05:30'
+last_checked: '2026-06-25T22:58:12.682462+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Open-source security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python for core logic and Pydantic for data validation.
+- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration and event-driven execution.
 
-- **Key Features**: Event-driven automation with low-code workflows, OpenAPI/Swagger integration for API management, and LLM support for AI agent interactions in security operations.
+- **Core Components**: Integrates Pydantic for data validation, OpenAPI for API specification, and supports LLM-driven automation with low-code workflows for security operations and monitoring.
 
-- **Technical Stack**: Uses temporalio for durable execution, FastAPI for REST APIs, and integrates monitoring with Python-based workflows, targeting teams and AI agents for security automation.
+- **Deployment & Scalability**: Designed for teams and AI agents, enabling scalable, modular security automation with built-in monitoring and orchestration capabilities.
 
 ## Why It Matters
 
@@ -54,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-25T15:14:18Z
+- Pushed At: 2026-06-25T17:03:12Z
 
 ## Possible Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/alvinreal-awesome-opensource-ai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tool
 importance: medium
 tags:
 - agents
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Curated Repository**: A meticulously maintained GitHub repository (`alvinreal/awesome-opensource-ai`) listing high-quality, truly open-source AI projects, models, tools, and infrastructure, updated daily.
-- **Technical Scope**: Focuses on core AI domains including agents, generative AI, LLMs, machine learning (MLOps), and retrieval-augmented generation (RAG), with primary implementation in Python.
-- **Community Metrics**: Actively maintained with 3,949 stars, 460 forks, and last updated on *
+*   Curated `awesome-list` aggregating truly open-source AI projects, models, tools, and infrastructure.
+*   Technical scope covers `agents`, `LLM`, `generative-ai`, `RAG`, `MLOps`, and general `machine-learning` domains.
+*   Maintained with
 
 ## Use Cases
 

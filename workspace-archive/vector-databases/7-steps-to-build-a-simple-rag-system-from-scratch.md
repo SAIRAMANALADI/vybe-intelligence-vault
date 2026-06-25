@@ -6,7 +6,7 @@ source_url: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-
 resource_id: blog:7-steps-to-build-a-simple-rag-system-from-scratch
 local_vault_path: ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -20,8 +20,9 @@ tags:
 - openai
 - rag
 - reddit
-- scripts
+- web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,14 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter ...
+- **RAG Architecture**: A RAG system consists of two core components: a **retriever** (searches and fetches relevant text chunks from a knowledge base) and a **generator** (LLM that synthesizes answers using retrieved context to reduce hallucinations and improve accuracy).
+
+- **Vector Embedding & Storage**: Text chunks are converted into numerical **vector embeddings** (e.g., using `sentence-transformers/all-MiniLM-L6-v2`) and stored in a **FAISS index** for efficient similarity search, enabling
 
 ## Use Cases
 

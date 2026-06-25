@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark framework for evaluating conversational RAG systems across multi-turn interactions, including metrics for context relevance, response coherence, and retrieval accuracy.
-
-- **Technical Implementation**: Python-based repository with modular components for dataset curation, evaluation pipelines, and performance metrics, leveraging state-of-the-art RAG architectures (e.g., dense retrieval + generative models).
-
-- **Eva
+- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark evaluating conversational retrieval performance across sequential queries with context retention.
+- **Technical Stack**: Python-based framework with dependencies on RAG-specific libraries (e.g., LangChain, FAISS, or similar vector stores) for multi-turn interaction testing.
+- **Evaluation Metrics**: Focuses on metrics like context relevance, answer consistency, and retrieval latency across multi-turn dialogues, wit
 
 ## Use Cases
 

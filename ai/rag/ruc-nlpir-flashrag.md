@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-25T20:45:58.075959+05:30'
+collected_at: '2026-06-25T22:56:12.545643+05:30'
 published_at: '2026-06-25T10:07:06Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - python
 - rag
 - reddit
-- workflows
 stars: 3509
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-25T20:45:58.075959+05:30'
-last_seen: '2026-06-25T20:45:58.075959+05:30'
-last_checked: '2026-06-25T20:45:58.075959+05:30'
+first_seen: '2026-06-25T22:56:12.545643+05:30'
+last_seen: '2026-06-25T22:56:12.545643+05:30'
+last_checked: '2026-06-25T22:56:12.545643+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based framework designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Dataset Integration**: The toolkit includes standardized benchmarks and datasets to evaluate RAG systems, enabling reproducible and comparative studies across retrieval and generation tasks.
+- **Benchmark & Dataset Support**: The toolkit includes built-in benchmarks and datasets tailored for evaluating RAG systems, enabling standardized performance comparisons across retrieval and generation tasks.
 
-- **Modular & Extensible**: FlashRAG supports modular components (e.g., retrievers, rerankers, generators) with plug-and-play compatibility, facilitating rapid prototyping and customization for advanced RAG workflows.
+- **Modular Architecture**: FlashRAG provides a modular framework with plug-and-play components for retrieval, reranking, and generation, facilitating rapid prototyping and experimentation in RAG pipelines.
 
 ## Why It Matters
 

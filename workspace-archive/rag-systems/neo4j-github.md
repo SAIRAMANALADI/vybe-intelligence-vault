@@ -14,7 +14,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j Core Project**: Open-source graph database implemented in Java (16.8k stars, 2.6k forks), serving as the foundation for the Neo4j ecosystem with core graph storage and query processing capabilities.
+- **Neo4j** is a graph database management system with core Java-based implementation (`neo4j/neo4j` repo, 16.8k stars) supporting ACID transactions and Cypher query language.
 
-- **Multi-Language Bolt Drivers**: Official Neo4j drivers for Java (342 stars), JavaScript (915 stars), and Python (1.0k stars) enabling Bolt protocol communication with the database, all licensed under Apache-2.0.
+- **Multi-language driver ecosystem** includes official Bolt protocol drivers for Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), and Python (`neo4j-python-driver`), enabling graph operations via language-specific APIs.
 
-- **Graph Data Science (GDS) Library**: Java-based library (798 stars) pro
+- **Graph Data Science (GDS) library** (`graph-data-science`) provides scalable gr
 
 ## Use Cases
 

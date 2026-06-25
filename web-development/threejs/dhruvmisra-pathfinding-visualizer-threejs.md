@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/dhruvmisra/pathfinding-visualizer-threejs
-collected_at: '2026-06-24T20:38:08.583730+05:30'
+collected_at: '2026-06-25T22:54:19.052401+05:30'
 published_at: '2026-06-24T06:46:13Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: Vue
 status: active
 resource_id: github:dhruvmisra/pathfinding-visualizer-threejs
 first_seen: '2026-06-12T10:40:14.585893+00:00'
-last_seen: '2026-06-24T20:38:08.583730+05:30'
-last_checked: '2026-06-24T20:38:08.583730+05:30'
+last_seen: '2026-06-25T22:54:19.052401+05:30'
+last_checked: '2026-06-25T22:54:19.052401+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: dhruvmisra
 - Stars: 482
-- Forks: 67
+- Forks: 68
 - Language: Vue
 - Topics: 3d, graph-algorithms, pathfinding, shortest-paths, threejs, visualization, vuejs, webgl
 - Last Updated: 2026-06-24T06:46:13Z

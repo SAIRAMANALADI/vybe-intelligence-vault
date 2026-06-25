@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-06-25T20:47:58.188106+05:30'
+collected_at: '2026-06-25T22:58:17.650323+05:30'
 published_at: '2026-06-25T11:56:58Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 4407
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-06-25T20:47:58.188106+05:30'
-last_seen: '2026-06-25T20:47:58.188106+05:30'
-last_checked: '2026-06-25T20:47:58.188106+05:30'
+first_seen: '2026-06-25T22:58:17.650323+05:30'
+last_seen: '2026-06-25T22:58:17.650323+05:30'
+last_checked: '2026-06-25T22:58:17.650323+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Cognita is an open-source Python framework designed for building production-ready Retrieval Augmented Generation (RAG) applications with modular components, enabling customization and scalability.
+- **Modular RAG Framework**: Open-source Python library designed for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
 
-- **Multi-Language Support**: Supports both Python and TypeScript, facilitating integration across different tech stacks while maintaining core RAG functionality.
+- **Multi-Language Support**: Core framework in Python with TypeScript integration, enabling cross-language compatibility for frontend/backend components in AI applications.
 
-- **MLOps & Deployment Features**: Includes tools for fine-tuning, model deployment, and LLM operations (LLMOps), streamlining the lifecycle of generative AI applications in production environments.
+- **MLOps & Deployment Features**: Supports LLM fine-tuning, model deployment, and end-to-end MLOps workflows, including retrieval pipelines, agent orchestration, and production-grade data handling.
 
 ## Why It Matters
 

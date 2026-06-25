@@ -2,13 +2,13 @@
 title: The Firebase Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://firebase.blog
+source_url: https://firebase.blog/
 resource_id: blog:the-firebase-blog
 local_vault_path: ai/rag/the-firebase-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # The Firebase Blog
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Gemini Integration**: Firebase now supports Google's Gemini models via Apple's Foundation Models framework, enabling advanced AI capabilities in Firebase applications.
-- **Firestore Enhancements**: Firestore pipelines now support full-text search and JOIN-like operations, improving NoSQL query flexibility.
-- **Dart Support**: Cloud Functions for Firebase now supports Dart, expanding backend development options for Firebase applications.
+- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via pipelines, enhancing NoSQL query capabilities while maintaining real-time sync.
+
+- **Dart Support in Cloud Functions**: Adds Dart as a supported runtime for Firebase Cloud Functions, enabling serverless Dart-based backend development with native Firebase integration.
+
+- **Firebase Phone Number Verification (GA)**: Provides general availability for phone number authentication, offering OTP-base
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.blog
+Original source URL: https://firebase.blog/
 
 ## Local Vault File
 

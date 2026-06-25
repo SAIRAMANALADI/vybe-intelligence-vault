@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-25T20:49:24.766619+05:30'
-collected_at: '2026-06-25T20:49:24.766632+05:30'
+published_at: '2026-06-25T23:01:07.421853+05:30'
+collected_at: '2026-06-25T23:01:07.421862+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-25T20:49:24.766632+05:30'
-last_seen: '2026-06-25T20:49:24.766632+05:30'
-last_checked: '2026-06-25T20:49:24.766632+05:30'
+first_seen: '2026-06-25T23:01:07.421862+05:30'
+last_seen: '2026-06-25T23:01:07.421862+05:30'
+last_checked: '2026-06-25T23:01:07.421862+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagents for concurrent task execution, with `/model` switching to compare approaches across providers (Anthropic, Google, OpenAI) and `/resume` for session persistence.
+- **Multi-Agent Workflows**: GitHub Copilot CLI enables parallelized task execution via `/fleet`, allowing multiple subagents to process tasks concurrently, with `/model` for switching between foundation models (e.g., Anthropic, Google, OpenAI).
 
-- **GitHub-Native Workflow Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, branches, and labels while enforcing org policies (branch protections, required checks) and supports `/plan` to `/IDE` transitions (VS Code) and direct PR creation via `/delegate`.
+- **Native GitHub Integration**: Built on GitHub’s Model Context Protocol (MCP), Copilot CLI interacts directly with issues, pull requests, and branches, inheriting organizational policies (e.g., branch protections) while maintaining explicit user approval for file/command execution.
 
-- **Customizable Agentic Runtime**: Supports `/agent` and `/skills` for defining custom instructions (via `AGENTS.md`), MCP server integrations for extended tooling, and experimental features (`/experimental show`), with SDK access (`@github/copilot`) for programmatic agent orchestration.
+- **Session Persistence & Extensibility**: Supports `/resume` for resuming interrupted workflows, `/agent` for custom instructions via `AGENTS.md`, and MCP server integrations for tool/skill extensions, with SDK support (`@github/copilot`) for application-level agentic logic.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T20:49:24.766619+05:30
+- Published: 2026-06-25T23:01:07.421853+05:30
 
 ## Related Tags
 

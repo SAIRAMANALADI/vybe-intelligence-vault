@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by chobeat. Score: 168, Comments: 159.
+Hacker News story by chobeat. Score: 196, Comments: 187.
 Original Link: https://utaw.tech/news/wikipedia-recognition
 
 ## Use Cases

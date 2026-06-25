@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Capabilities**: txtai integrates semantic search, LLM orchestration, and language model workflows into a unified Python-based AI framework, supporting embeddings, RAG, and vector search.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, transformers, and vector databases for end-to-end AI pipelines.
 
-- **Key Features**: Supports agents, transformers, sentence embeddings, and vector databases, enabling advanced NLP tasks like retrieval-augmented generation and information retrieval.
+- **Key Features**: Supports agents, RAG (Retrieval-Augmented Generation), sentence embeddings, and vector search, optimized for NLP tasks with seamless integration of large language models (LLMs).
 
-- **Technical Stack**: Built on Python, leveraging transformers and vector search for scalable, end-to-end AI wo
+- **Technical Stack**: Built on Python with support for Hugging Face trans
 
 ## Use Cases
 

@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Licensing & Adoption**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026) with an active community and frequent releases.
-- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds via advanced templating and fast asset pipelines.
-- **Features & Tooling**: Supports multilingual sites, powerful taxonomies, image/JS/Sass processing, TailwindCSS integration, and an embedded web server for real-time development.
+- **License & Popularity**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026).
+
+- **Technical Features**: Written in Go, optimized for speed; supports multilingual content, advanced templating, fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS), and embedded web server for live reloading.
+
+- **Community & Maintenance**: Active community via Hugo forums; frequent releases with regular feature additions and maintenance.
 
 ## Use Cases
 

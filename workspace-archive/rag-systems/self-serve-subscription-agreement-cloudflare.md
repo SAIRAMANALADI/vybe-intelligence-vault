@@ -2,7 +2,7 @@
 title: Self-Serve Subscription Agreement | Cloudflare
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.cloudflare.com/terms
+source_url: https://www.cloudflare.com/terms/
 resource_id: blog:self-serve-subscription-agreement-cloudflare
 local_vault_path: ai/rag/self-serve-subscription-agreement-cloudflare.md
 quality_score: 70
@@ -15,6 +15,7 @@ tags:
 - benchmark
 - hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Agreement mandates arbitration for disputes and waives class action participation against Cloudflare, requiring explicit acceptance of these terms.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring explicit acceptance of these terms upon service access or use.
 
-- **Service Restrictions & Credential Liability**: Users prohibited from sublicensing, reverse engineering, or using Cloudflare services for unauthorized proxy/VPN purposes; users solely responsible for credential security and third-party access risks.
+- **Service Access & Restrictions**: Grants revocable, non-exclusive access to Services with strict prohibitions on sublicensing, reverse engineering, automated scraping, or use for VPN/proxy services, and requires adherence to service-specific terms and usage limits.
 
-- **Customer Content & Network Data Ownership**: Users r
+- **Customer Content &
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.cloudflare.com/terms
+Original source URL: https://www.cloudflare.com/terms/
 
 ## Local Vault File
 

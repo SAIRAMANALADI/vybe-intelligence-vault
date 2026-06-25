@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-06-25T20:46:53.102447+05:30'
+collected_at: '2026-06-25T22:57:07.606516+05:30'
 published_at: '2026-06-25T12:52:30Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-06-24T03:38:04Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-06-25T20:46:53.102447+05:30'
-last_seen: '2026-06-25T20:46:53.102447+05:30'
-last_checked: '2026-06-25T20:46:53.102447+05:30'
+first_seen: '2026-06-25T22:57:07.606516+05:30'
+last_seen: '2026-06-25T22:57:07.606516+05:30'
+last_checked: '2026-06-25T22:57:07.606516+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Workshop for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven code generation/automation workflows.
-- **Technical Stack**: Primarily implemented in **Go**, with integration of AI models for code analysis, generation, and task execution.
-- **Scope**: Provides a **step-by-step tutorial** on agent architecture, tooling, and deployment, targeting developers building AI-assisted coding tools.
+- **Purpose**: Workshop providing a step-by-step guide to building a **coding agent** (similar to Roo Code, Cline, Amp, Cursor, Windsurf, or OpenCode) using **Go**.
+- **Technical Stack**: Primarily implemented in **Go**, with focus on AI-driven agent architectures for code generation, editing, and automation.
+- **Scope**: Covers **tutorial-style** implementation, agent workflows, and integration with AI models for real-time coding assistance. Last updated **June 25, 2026**.
 
 ## Why It Matters
 

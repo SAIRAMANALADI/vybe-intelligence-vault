@@ -8,19 +8,15 @@ local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Cinnamon/kotaemon
@@ -29,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable conversational querying over uploaded documents, leveraging LLMs for contextual responses.
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
-- **Open-Source Deployment**: Supports self-hosting with Docker, includes REST API endpoints, and integrates with popular LLMs
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational responses by dynamically fetching and integrating relevant document snippets during inference.
+
+- **Modular Python Framework**: Built with extensible components for document ingestion, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., Hugging Face Transformers), supporting custom pipelines and retrieval strategies.
+
+- **Scalable Deployment**: Optimized for local
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.electronjs.org/
-published_at: '2026-06-25T16:43:11.080294+05:30'
-collected_at: '2026-06-25T16:43:11.080306+05:30'
+published_at: '2026-06-25T23:09:19.264011+05:30'
+collected_at: '2026-06-25T23:09:19.264018+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
-first_seen: '2026-06-25T16:43:11.080306+05:30'
-last_seen: '2026-06-25T16:43:11.080306+05:30'
-last_checked: '2026-06-25T16:43:11.080306+05:30'
+first_seen: '2026-06-25T23:09:19.264018+05:30'
+last_seen: '2026-06-25T23:09:19.264018+05:30'
+last_checked: '2026-06-25T23:09:19.264018+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend operations, enabling cross-platform desktop app development using JavaScript, HTML, and CSS.
-- **Security & Maintenance**: Releases are synchronized with Chromium updates to ensure timely security patches and stable rendering targets across macOS, Windows, and Linux.
-- **Extensibility & Tooling**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular) via Electron Forge for building, packaging, and distributing apps (DMG, MSI, Snap).
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Security & Stability**: Synchronized Chromium releases ensure timely security patches and stable rendering targets for Electron applications.
+- **Tooling & Ecosystem**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular) via Electron Forge and Fiddle for development, distribution, and debugging.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:43:11.080294+05:30
+- Published: 2026-06-25T23:09:19.264011+05:30
 
 ## Related Tags
 

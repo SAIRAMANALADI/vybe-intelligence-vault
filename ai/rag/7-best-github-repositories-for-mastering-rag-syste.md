@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-06-25T20:44:50.910935+05:30'
-collected_at: '2026-06-25T20:44:50.910950+05:30'
+published_at: '2026-06-25T22:55:08.537920+05:30'
+collected_at: '2026-06-25T22:55:08.537928+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-25T20:44:50.910950+05:30'
-last_seen: '2026-06-25T20:44:50.910950+05:30'
-last_checked: '2026-06-25T20:44:50.910950+05:30'
+first_seen: '2026-06-25T22:55:08.537928+05:30'
+last_seen: '2026-06-25T22:55:08.537928+05:30'
+last_checked: '2026-06-25T22:55:08.537928+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and extensive integrations (OpenAI, Hugging Face, Azure) across Python, JavaScript, and TypeScript.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval) and integrations with providers like OpenAI, Hugging Face, and Azure; supports Python, JavaScript, and TypeScript.
 
-- **Haystack by deepset-ai**: Production-ready RAG framework optimized for enterprise-scale applications, featuring modular pipelines, document stores (Elasticsearch, Weaviate), and pre-built components for retrieval, ranking, and LLM integration.
+- **RAGFlow**: Open-source RAG engine optimized for enterprise use, featuring advanced document parsing, hybrid retrieval (dense + sparse), and evaluation tools for production-grade RAG systems.
 
-- **LlamaIndex**: Data framework for constructing RAG systems with focus on indexing and querying private or custom datasets, supporting vector stores (Pinecone, Milvus), hybrid search, and advanced retrieval strategies (sub-queries, multi-modal retrieval).
+- **LlamaIndex**: Data framework for LLM applications, enabling efficient indexing of private/structured data with built-in retrieval, query engines, and support for advanced RAG techniques like sub-question decomposition and multi-modal retrieval.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:44:50.910935+05:30
+- Published: 2026-06-25T22:55:08.537920+05:30
 
 ## Related Tags
 

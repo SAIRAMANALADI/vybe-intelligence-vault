@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-25T20:46:03.086443+05:30'
+collected_at: '2026-06-25T22:56:22.538943+05:30'
 published_at: '2026-06-25T09:47:53Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-25T20:46:03.086443+05:30'
-last_seen: '2026-06-25T20:46:03.086443+05:30'
-last_checked: '2026-06-25T20:46:03.086443+05:30'
+first_seen: '2026-06-25T22:56:22.538943+05:30'
+last_seen: '2026-06-25T22:56:22.538943+05:30'
+last_checked: '2026-06-25T22:56:22.538943+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,14 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in domain-specific contexts.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world contexts.
 
-- **Dataset Composition**: Includes synthetic and real-world enterprise data, covering diverse document types (e.g., contracts, emails, reports) to simulate internal knowledge bases, with synthetic data generation for scalability and privacy compliance.
+- **Key Features**:
+  - Includes synthetic data generation for enterprise knowledge bases.
+  - Covers evaluation metrics for retrieval quality, answer correctness, and semantic search performance.
+  - Supports Python-based RAG pipelines with modular components for LLM evaluation.
 
-- **Evaluation Metrics**: Supports structured evaluation of RAG pipelines via metrics like retrieval accuracy, answer correctness, and latency, with Python-based tooling for automated benchmarking and reproducibility.
+- **Scope**: Targets enterprise search, generative AI, and LLM evaluation, with emphasis on information retrieval, semantic search, and QA tasks in proprietary document environments.
 
 ## Why It Matters
 

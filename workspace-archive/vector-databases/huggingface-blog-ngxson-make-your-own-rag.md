@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -29,7 +30,11 @@ selection_reason:
 
 ## Summary
 
-CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.69k • 16
+- **Model Specifications**: `bge-base-en-v1.5-gguf` is a quantized (GGUF format) English text embedding model with ~0.1B parameters, derived from the BAAI General Embedding (BGE) architecture.
+
+- **Optimization**: Uses GGUF quantization for efficient inference with reduced memory footprint while maintaining performance parity with the original FP16/FP32 versions.
+
+- **Hugging Face Availability**: Hosted on Hugging Face Hub with 1.58k downloads (as of Feb 17, 2024), providing a lightweight altern
 
 ## Use Cases
 

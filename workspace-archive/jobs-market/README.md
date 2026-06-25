@@ -8,6 +8,7 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ## Top Matched Resources
 
+- [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (benchmark - USEFUL Tier)
 - [IT Salary Calculator | Estimate Your Tech Career Earnings | JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/lp/devecosystem-it-salary-calculator) (dataset - USEFUL Tier)
 - [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (framework - USEFUL Tier)
 - [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
@@ -30,4 +31,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-06-25 21:00 IST*
+*Last updated: 2026-06-25 23:11 IST*

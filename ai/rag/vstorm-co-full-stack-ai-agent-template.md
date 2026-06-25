@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-25T20:45:08.002334+05:30'
+collected_at: '2026-06-25T22:55:27.485398+05:30'
 published_at: '2026-06-25T12:53:58Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1460
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-24T16:19:06Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-25T20:45:08.002334+05:30'
-last_seen: '2026-06-25T20:45:08.002334+05:30'
-last_checked: '2026-06-25T20:45:08.002334+05:30'
+first_seen: '2026-06-25T22:55:27.485398+05:30'
+last_seen: '2026-06-25T22:55:27.485398+05:30'
+last_checked: '2026-06-25T22:55:27.485398+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Combines FastAPI (backend) and Next.js (frontend) with AI agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
+- **Tech Stack**: Full-stack template combining FastAPI (backend) and Next.js (frontend) with Docker support, PostgreSQL for persistence, and WebSocket for real-time streaming.
 
-- **Key Features**: Pre-configured PostgreSQL database, WebSocket support, Docker deployment, and modular agent frameworks (e.g., CrewAI, LangChain) for scalable AI workflows.
+- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, and LLM interactions; includes 20+ third-party integrations out of the box.
 
-- **Architecture**: TypeScript (frontend) + Python (backend) with Pydantic validation, real-time streaming, and built-in RAG (Retrieval-Augmented Generation) capabilities.
+- **Features**: Built-in authentication, streaming support, and Pydantic-Deep validation; optimized for rapid deployment of AI agents with modular architecture and TypeScript/React frontend.
 
 ## Why It Matters
 

@@ -9,24 +9,24 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 ## Top Matched Resources
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (framework - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-25 21:00 IST*
+*Last updated: 2026-06-25 23:10 IST*

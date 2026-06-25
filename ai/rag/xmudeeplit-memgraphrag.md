@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-25T20:46:33.101865+05:30'
+collected_at: '2026-06-25T22:56:47.565586+05:30'
 published_at: '2026-06-21T11:24:56Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-25T20:46:33.101865+05:30'
-last_seen: '2026-06-25T20:46:33.101865+05:30'
-last_checked: '2026-06-25T20:46:33.101865+05:30'
+first_seen: '2026-06-25T22:56:47.565586+05:30'
+last_seen: '2026-06-25T22:56:47.565586+05:30'
+last_checked: '2026-06-25T22:56:47.565586+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms for coordinated multi-agent collaboration in graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and retrieval.
+- **Multi-Agent Framework**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced knowledge retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Proposes an ontology-driven approach for constructing and querying knowledge graphs, enhancing semantic precision and contextual relevance in RAG pipelines.
+- **Graph Construction & Ontology Integration**: Dynamically constructs and utilizes graph structures with ontology alignment to improve contextual understanding and retrieval efficiency in RAG pipelines.
 
-- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, with modular components for agent-memory, graph operations, and ontology alignment.
+- **Python Implementation**: Provides a Python-based open-source repository with modular components for agent-memory, graph construction, and ontology integration, optimized for KDD 2026 research standards.
 
 ## Why It Matters
 

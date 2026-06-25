@@ -6,7 +6,7 @@ source_url: https://developers.cloudflare.com/
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
 local_vault_path: ai/rag/cloudflare-developer-docs-cloudflare-docs.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -21,7 +21,6 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,17 +29,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions and full-stack apps via Workers, Containers, Durable Objects, and Queues with single-command execution (`npm create cloudflare@latest my-app`), while offering an AI inference platform (Workers AI) supporting model execution, agents, and vector search without GPU management.
+- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via single commands (e.g., `npm create cloudflare@latest my-app`, `npx wrangler ai models`) with no GPU/region management, leveraging Workers, Containers, Durable Objects, Queues, Workers AI, AI Gateway, and Vectorize.
 
-- **Unified Data & Media Services**: Provides globally distributed databases (D1 SQL, KV, R2 object storage, Hyperdrive
+- **Unified Data & Media Services**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and media pipelines (Imag
 
 ## Use Cases
 

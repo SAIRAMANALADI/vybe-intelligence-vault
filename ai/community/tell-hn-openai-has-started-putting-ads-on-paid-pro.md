@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:tell-hn-openai-has-started-putting-ads-on-paid-pro
 first_seen: '2026-06-25T20:43:53.319937+05:30'
 last_seen: '2026-06-25T20:43:53.319937+05:30'
 last_checked: '2026-06-25T20:43:53.319937+05:30'
 health_score: 100
 ---
+
 
 # Tell HN: OpenAI has started putting ads on paid programs
 

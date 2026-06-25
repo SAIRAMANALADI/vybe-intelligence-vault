@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning architectures.
-- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026's KnowFM track, emphasizing knowledge-intensive, multi-step reasoning tasks for deep research applications.
-- **High-Activity Repository**: Maintains active development (778 stars, 63 forks) with last update in June 2
+- **Curated resource list** for agentic deep research, focusing on LLM-driven reasoning, search, and retrieval-augmented generation (RAG) systems.
+- **Includes frameworks and tools** for autonomous research agents, multi-agent collaboration, and advanced knowledge synthesis from ACL 2026 contributions.
+- **Covers state-of-the-art methods** in reasoning agents, dynamic search strategies, and scalable deep research pipelines for large language models.
 
 ## Use Cases
 

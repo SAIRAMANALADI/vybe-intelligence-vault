@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Curated repository of AI agents built using Google's Agent Development Kit (ADK), encompassing templates, best practices, and production-ready examples.
-*   Focuses on agentic AI and multi-agent systems, with specific support for ADK-Python and ADK-Web implementations.
-*   Primarily developed in Python, facilitating research, business automation, and educational applications of ADK-based agents.
+- **Curated ADK-Agents Repository**: A GitHub repository (`Sri-Krishna-V/awesome-adk-agents`) hosting a structured collection of AI agents built using Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+
+- **Technical Stack & Scope**: Primarily implemented in Python (`adk-python`), with support for `adk-web` and multi-agent systems; includes samples for `gemini-ai`, `google-adk
 
 ## Use Cases
 

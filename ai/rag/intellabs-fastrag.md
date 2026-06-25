@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-25T20:46:03.098958+05:30'
+collected_at: '2026-06-25T22:56:22.530530+05:30'
 published_at: '2026-06-22T17:29:39Z'
 tags:
 - benchmark
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 1782
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-25T20:46:03.098958+05:30'
-last_seen: '2026-06-25T20:46:03.098958+05:30'
-last_checked: '2026-06-25T20:46:03.098958+05:30'
+first_seen: '2026-06-25T22:56:22.530530+05:30'
+last_seen: '2026-06-25T22:56:22.530530+05:30'
+last_checked: '2026-06-25T22:56:22.530530+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for low-latency and high-throughput applications in generative AI, leveraging state-of-the-art techniques like ColBERT for retrieval and diffusion models for generation.
-
-- **Key Features**: Supports multi-modal inputs (text, knowledge graphs), integrates sentence-transformers for semantic search, and includes benchmarks for evaluating performance across tasks like question-answering, summarization, and semantic search.
-
-- **Architectural Focus**: Designed for scalability with modular components, enabling hybrid retrieval (dense + sparse), efficient indexing, and seamless integration with transformer-based LLMs for real-time RAG pipelines.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG) optimized for speed and scalability, supporting multi-modal and knowledge-intensive tasks.
+- **Core Components**: Integrates advanced retrieval techniques (e.g., ColBERT, semantic search) with generative models (e.g., LLMs, diffusion) and supports dynamic pipelines for tasks like QA, summarization, and knowledge graph augmentation.
+- **Performance Focus**: Designed for low-latency, high-throughput RAG workflows with modular architecture, leveraging sentence-transformers and transformer models for efficient information retrieval and generation.
 
 ## Why It Matters
 

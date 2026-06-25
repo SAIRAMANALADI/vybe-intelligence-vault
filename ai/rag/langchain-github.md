@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-25T20:48:03.721521+05:30'
-collected_at: '2026-06-25T20:48:03.721533+05:30'
+published_at: '2026-06-25T22:59:33.523875+05:30'
+collected_at: '2026-06-25T22:59:33.523888+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-25T20:48:03.721533+05:30'
-last_seen: '2026-06-25T20:48:03.721533+05:30'
-last_checked: '2026-06-25T20:48:03.721533+05:30'
+first_seen: '2026-06-25T22:59:33.523888+05:30'
+last_seen: '2026-06-25T22:59:33.523888+05:30'
+last_checked: '2026-06-25T22:59:33.523888+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agent planning, subagents, and file system interactions for complex tasks.
+- **Core Libraries**: LangChain/LangChain.js provide reusable LLM application components and integrations; LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning with filesystem access.
 
-- **Commercial Platform**: LangSmith offers a platform for developing and monitoring production-grade LLM applications.
+- **Commercial & OSS Extensions**: LangSmith offers production-grade LLM application development/monitoring; Deep Agents Code and Open SWE provide terminal-based and asynchronous coding agents; MCP Adapters and Agent Protocol standardize tool integration and framework-agnostic agent APIs.
 
-- **OSS Extensions**: Deep Agents Code and Open SWE are open-source coding agents; MCP Adapters integrate MCP tools with LangChain/LangGraph; Agent Protocol standardizes framework-agnostic APIs for serving LLM agents in production.
+- **Learning Resources**: Unified documentation at docs.langchain.com; community forum and LangChain Academy for training and support.
 
 ## Why It Matters
 
@@ -38,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:48:03.721521+05:30
+- Published: 2026-06-25T22:59:33.523875+05:30
 
 ## Related Tags
 
@@ -46,6 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

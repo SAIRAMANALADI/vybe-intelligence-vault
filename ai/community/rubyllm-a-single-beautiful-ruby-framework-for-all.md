@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:rubyllm-a-ruby-framework-for-all-major-ai-provider
 first_seen: '2026-06-24T20:38:08.667888+05:30'
 last_seen: '2026-06-25T20:43:54.530930+05:30'
 last_checked: '2026-06-25T20:43:54.530930+05:30'
 health_score: 100
 ---
+
 
 # RubyLLM: A Ruby framework for all major AI providers
 

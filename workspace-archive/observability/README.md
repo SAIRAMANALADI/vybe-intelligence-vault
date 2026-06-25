@@ -24,8 +24,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/ragaai-catalyst)
-- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [milvus-io/milvus](https://github.com/milvus-io/milvus)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-25 21:00 IST*
+*Last updated: 2026-06-25 23:10 IST*

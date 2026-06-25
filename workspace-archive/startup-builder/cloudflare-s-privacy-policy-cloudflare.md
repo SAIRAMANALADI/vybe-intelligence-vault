@@ -2,7 +2,7 @@
 title: Cloudflare's Privacy Policy | Cloudflare
 archive_category: startup-builder
 source_category: ai/rag
-source_url: https://www.cloudflare.com/privacy
+source_url: https://www.cloudflare.com/privacy/
 resource_id: blog:cloudflare-s-privacy-policy-cloudflare
 local_vault_path: ai/rag/cloudflare-s-privacy-policy-cloudflare.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including DDoS protection, CDN, Zero Trust SASE, and API security, with tailored solutions for enterprises, SMBs, and partners.
+- **Cloudflare’s connectivity cloud** integrates 60+ networking, security, and performance services, including SASE (Cloudflare One), application security (L7 DDoS protection, WAF, API security), and application performance (CDN, DNS, load balancing).
 
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and observability (Workers Observability), enabling edge-native application deployment with pay-as-you-go pricing.
+- **Developer platform** supports AI/ML (Workers AI, AI Gateway), serverless compute (Workers), storage (R2, D1), and real-time media (Realtime, Images), with pricing tiers for Workers, KV, and R2.
 
-- **Global Infrastructur
+- **Enterprise-grade solutions** include Zero Tr
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.cloudflare.com/privacy
+Original source URL: https://www.cloudflare.com/privacy/
 
 ## Local Vault File
 

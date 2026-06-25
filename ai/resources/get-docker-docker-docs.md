@@ -3,17 +3,16 @@ title: Get Docker | Docker Docs
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.docker.com/install/
-published_at: '2026-06-25T16:45:26.987536+05:30'
-collected_at: '2026-06-25T16:45:26.987543+05:30'
+source_url: https://docs.docker.com/get-docker/
+published_at: '2026-06-25T22:58:23.439329+05:30'
+collected_at: '2026-06-25T22:58:23.439337+05:30'
 tags:
 - web-crawled
-- workflows
 status: active
 resource_id: blog:get-docker-docker-docs
-first_seen: '2026-06-25T16:45:26.987543+05:30'
-last_seen: '2026-06-25T16:45:26.987543+05:30'
-last_checked: '2026-06-25T16:45:26.987543+05:30'
+first_seen: '2026-06-25T22:58:23.439337+05:30'
+last_seen: '2026-06-25T22:58:23.439337+05:30'
+last_checked: '2026-06-25T22:58:23.439337+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Docker is an open-source platform for developing, shipping, and running applications in isolated containers, enabling rapid software delivery by decoupling applications from infrastructure.
+- Docker is an open platform enabling rapid development, shipping, and execution of applications by decoupling them from infrastructure, facilitating faster software delivery cycles.
 
-- Docker provides native desktop applications (Mac, Windows, Linux) for container management, with enterprise use requiring a paid subscription for organizations exceeding 250 employees or $10M annual revenue.
+- Docker Desktop provides native applications for macOS, Windows, and Linux, delivering all Docker tools in a platform-specific sandboxed environment.
 
-- Docker Desktop simplifies containerized workflows by integrating tools for building, testing, and deploying applications, reducing the time between code development and production deployment.
+- Commercial use of Docker Desktop in enterprises (>250 employees or >$10M revenue) requires a paid subscription per Docker’s pricing terms.
 
 ## Why It Matters
 
@@ -35,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:45:26.987536+05:30
+- Published: 2026-06-25T22:58:23.439329+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://docs.docker.com/install/
+Original source: https://docs.docker.com/get-docker/

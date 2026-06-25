@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-06-25T20:46:38.080851+05:30'
+collected_at: '2026-06-25T22:56:57.596270+05:30'
 published_at: '2026-06-25T00:33:57Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - producthunt
 - scripts
 - typescript
+- workflows
 stars: 861
 language: TypeScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-06-25T00:33:53Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-06-25T20:46:38.080851+05:30'
-last_seen: '2026-06-25T20:46:38.080851+05:30'
-last_checked: '2026-06-25T20:46:38.080851+05:30'
+first_seen: '2026-06-25T22:56:57.596270+05:30'
+last_seen: '2026-06-25T22:56:57.596270+05:30'
+last_checked: '2026-06-25T22:56:57.596270+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiled from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions for bilingual ZH/EN reports.
-- **Technical Stack**: Built in TypeScript, with scheduled updates (last commit: 2026-06-25T00:33:57Z) and no explicit dependency constraints.
-- **Repository Metrics**: 861 stars, 136 forks, zero topics, minimal maintenance overhead (single maintainer implied by automation).
+- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual (ZH/EN) Reporting**: Generates reports in both Chinese and English, automated and published through GitHub Actions workflows.
+- **TypeScript-Based Tool**: Open-source project written in TypeScript, with 861 stars and 136 forks, last updated on 2026-06-25.
 
 ## Why It Matters
 

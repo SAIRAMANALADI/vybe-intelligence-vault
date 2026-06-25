@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - frontend_ui
 - github-repo
 - openai
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible model switching and evaluation via a unified interface.
+- **Multi-LLM Integration**: Open-source AI chat platform supporting **any LLM** (e.g., ChatGPT, open-source models) via modular backend architecture, enabling seamless switching between providers while maintaining consistent frontend UI.
 
-- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for high-accuracy, context-aware AI responses in self-hosted environments.
+- **Enterprise-Grade RAG & Vector Search**: Implements **Retrieval-Augmented Generation (RAG)** with vector-based semantic search (likely using FAISS/Weaviate/Pinecone) for low-latency, context-aware responses in large-scale deployments.
 
-- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering a modern chat UI, enterprise sear
+- **Full-Stack Archit
 
 ## Use Cases
 

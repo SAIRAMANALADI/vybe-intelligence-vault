@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-25T20:46:03.096621+05:30'
+collected_at: '2026-06-25T22:56:17.548082+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-25T20:46:03.096621+05:30'
-last_seen: '2026-06-25T20:46:03.096621+05:30'
-last_checked: '2026-06-25T20:46:03.096621+05:30'
+first_seen: '2026-06-25T22:56:17.548082+05:30'
+last_seen: '2026-06-25T22:56:17.548082+05:30'
+last_checked: '2026-06-25T22:56:17.548082+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark framework for evaluating conversational RAG systems across multi-turn interactions, including metrics for context relevance, response coherence, and retrieval accuracy.
-
-- **Technical Implementation**: Python-based repository with modular components for dataset curation, evaluation pipelines, and performance metrics, leveraging state-of-the-art RAG architectures (e.g., dense retrieval + generative models).
-
-- **Evaluation Scope**: Focuses on dynamic, multi-turn dialogue scenarios with adaptive retrieval strategies, enabling comparison of models under realistic conversational constraints (e.g., latency, memory, and context window limitations).
+- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark evaluating conversational retrieval performance across sequential queries with context retention.
+- **Technical Stack**: Python-based framework with dependencies on RAG-specific libraries (e.g., LangChain, FAISS, or similar vector stores) for multi-turn interaction testing.
+- **Evaluation Metrics**: Focuses on metrics like context relevance, answer consistency, and retrieval latency across multi-turn dialogues, with no explicit metrics listed in the repository metadata.
 
 ## Why It Matters
 

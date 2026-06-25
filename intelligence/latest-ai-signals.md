@@ -12,6 +12,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
+| 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` | 70 |
 | 2026-04-22 | [aigateway-sh/awesome-ai-gateway](https://github.com/aigateway-sh/awesome-ai-gateway) | `evals-and-benchmarks/` | 70 |
 | 2026-04-21 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | `rag-systems/` | 70 |
 | 2026-04-17 | [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-03-12 | [jayta1314/awesome-ai-sre](https://github.com/jayta1314/awesome-ai-sre) | `ai-coding-agents/` | 70 |
 | 2026-03-11 | [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) | `ai-coding-agents/` | 70 |
 | 2026-03-09 | [ChiggyJain/PythonLangSmithTutorial](https://github.com/ChiggyJain/PythonLangSmithTutorial) | `rag-systems/` | 70 |
-| 2026-03-07 | [our-never-ending-job/awesome-rag-debugging](https://github.com/our-never-ending-job/awesome-rag-debugging) | `rag-systems/` | 70 |
 
 More resources will appear as the harvester collects them.

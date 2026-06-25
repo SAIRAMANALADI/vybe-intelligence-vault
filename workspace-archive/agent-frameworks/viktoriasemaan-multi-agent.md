@@ -8,7 +8,7 @@ local_vault_path: ai/agents/viktoriasemaan-multi-agent.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - jupyter notebook
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # viktoriasemaan/multi-agent
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Contains Jupyter Notebook examples demonstrating multi-agent AI solutions, with 209 stars and 123 forks.
-- **Technical Stack**: Implemented in Jupyter Notebook, last updated on 2026-06-23.
-- **Purpose**: Focuses on practical implementations of AI multi-agent systems without additional metadata or documentation.
+- **Repository Overview**: GitHub repository showcasing examples of AI multi-agent solutions implemented in Jupyter Notebook format.
+- **Metadata**: 209 stars, 123 forks, last updated on 2026-06-23T22:55:07Z.
+- **Technical Stack**: Focuses on multi-agent AI systems with no explicit language/framework constraints beyond Jupyter Notebook usage.
 
 ## Use Cases
 

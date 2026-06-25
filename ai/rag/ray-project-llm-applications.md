@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-25T20:46:23.172024+05:30'
+collected_at: '2026-06-25T22:56:42.532970+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-25T20:46:23.172024+05:30'
-last_seen: '2026-06-25T20:46:23.172024+05:30'
-last_checked: '2026-06-25T20:46:23.172024+05:30'
+first_seen: '2026-06-25T22:56:42.532970+05:30'
+last_seen: '2026-06-25T22:56:42.532970+05:30'
+last_checked: '2026-06-25T22:56:42.532970+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, integrating retrieval mechanisms with generative models for enhanced contextual outputs.
-
-- **Multi-Framework Support**: Demonstrates integration with leading LLM frameworks (e.g., Llama2, OpenAI) and tools (e.g., Anyscale, Ray for distributed serving), with examples in Jupyter Notebooks for fine-tuning and deployment workflows.
-
-- **Scalable Serving & Deployment**: Leverages Ray for distributed serving, enabling scalable inference pipelines with optimized resource utilization for production-grade LLM applications.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computation, integrating retrieval (e.g., vector DBs) with LLMs (e.g., Llama2, OpenAI) for real-time inference.
+- **Fine-Tuning & Serving**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable, low-latency serving in production environments.
+- **Multi-Cloud & Tooling**: Includes examples leveraging Anyscale for managed LLM services and Ray’s ecosystem (e.g., Ray AIR) for end-to-end ML pipelines, with focus on reproducibility and performance optimization.
 
 ## Why It Matters
 

@@ -12,8 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
-- models
 - rag
 - unknown
 selection_reason:
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
-- **Technical Breadth**: Encompasses tools and libraries spanning AI, LLMs, NLP, and machine learning, with a focus on retrieval-augmented techniques for enhancing generative models.
-- **Active Maintenance**: Last updated in mid-2026, ensuring ongoing updates and relevance for pract
+- **Curated RAG Ecosystem**: Centralized open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG) in AI/ML/NLP applications.
+- **Community-Driven Development**: Hosts 1,923+ stars and 181 forks, enabling collaborative contributions to the evolving RAG landscape (last updated June 2026).
+- **Multi-Topic Integration**: Covers core topics including LLMs, NLP, machine learning, and open-source tools under the `rag` umbrella.
 
 ## Use Cases
 

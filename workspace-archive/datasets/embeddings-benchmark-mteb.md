@@ -14,10 +14,8 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- leaderboard
 - python
 - rag
-- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS) in **12+ languages**, supporting **multimodal** and **low-resource NLP** scenarios with standardized metrics.
+- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, and reranking, supporting multilingual and multimodal scenarios.
 
-- **Modular Python Framework**: Built on **Sentence-Transformers**, it integrates **30+ datasets**, supports **custom task integration**, and provides **leaderboards** for comparing models (e.g., SBERT, neural search, reranking).
+- **Task Coverage**: Includes 58 datasets spanning 112 languages, with tasks like bitext mining, semantic textual similarity (STS), and low-resource NLP, enabling comprehensive performance assessment of embedding models.
 
-- **Performance Tracking**: Automat
+- **Integratio
 
 ## Use Cases
 

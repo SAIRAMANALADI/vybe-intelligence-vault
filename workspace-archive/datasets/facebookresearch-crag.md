@@ -15,6 +15,7 @@ tags:
 - dataset
 - github-repo
 - jupyter notebook
+- paper
 - rag
 selection_reason:
 - Strong keyword match
@@ -34,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: CRAG provides a comprehensive evaluation suite for Retrieval-Augmented Generation (RAG) systems, including metrics for factuality, citation accuracy, and robustness across diverse datasets.
-- **Modular Design**: Implements a modular architecture for seamless integration of new datasets, retrievers, and generators, enabling extensible benchmarking.
-- **Open-Source Toolkit**: Released under an open-source license (MIT) with Jupyter Notebook-based examples, facilitating r
+- **Benchmark Design**: CRAG evaluates Retrieval-Augmented Generation (RAG) systems across **11 datasets**, including **4 synthetic** (e.g., multi-hop QA, long-form generation) and **7 real-world** (e.g., news, Wikipedia, scientific papers), with **100K+ queries** and **200K+ documents**.
+- **Evaluation Metrics**: Measures **retrieval quality** (precision/recall, MRR, nDCG) and **generation quality** (faithfulness, relevance, hallucination rate) using **LLM-as-a-judge** and human annotations for
 
 ## Use Cases
 

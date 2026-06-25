@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: high
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including 12 instructor-led sessions and source code.
-
-- **Tech Stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdrant, Qwak, Comet-ML, and Superlinked, with Docker for containerization and ML system design focus.
-
-- **MLOps Integration**: Covers end-to-end workflows including infrastructure-as-code (IaC), MLOps, and generative AI deployment, emphasizing sca
+- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
+- **Technical Stack**: Utilizes Python-based tools (e.g., AWS, Bytewax, Comet.ML, Pulumi, Qdrant, Qwak) for infrastructure-as-code, MLOps, and generative AI workflows.
+- **Deployment Focus**: Emphasizes Docker, ML system design, and scalable infrastructure for deploying LLMs and RAG applications.
 
 ## Use Cases
 

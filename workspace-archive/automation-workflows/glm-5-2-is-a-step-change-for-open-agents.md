@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by vantareed. Score: 311, Comments: 182.
+Hacker News story by vantareed. Score: 344, Comments: 197.
 Original Link: https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open
 
 ## Use Cases

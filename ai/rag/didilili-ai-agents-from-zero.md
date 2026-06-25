@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-25T20:46:48.071598+05:30'
+collected_at: '2026-06-25T22:57:07.635314+05:30'
 published_at: '2026-06-25T14:38:57Z'
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-25T20:46:48.071598+05:30'
-last_seen: '2026-06-25T20:46:48.071598+05:30'
-last_checked: '2026-06-25T20:46:48.071598+05:30'
+first_seen: '2026-06-25T22:57:07.635314+05:30'
+last_seen: '2026-06-25T22:57:07.635314+05:30'
+last_checked: '2026-06-25T22:57:07.635314+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes hands-on projects, interview questions, and enterprise deployment/finetuning workflows.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows.
 
-- **Enterprise-Grade AI Development**: Integrates skills, LLM integration, RAG pipelines, and agent frameworks (e.g., LangChain/LangGraph) for scalable AI agent applications aligned with 2026 industry standards.
+- **Hands-on Projects & Interview Prep**: Provides practical implementations, real-world projects, and an interview question bank aligned with AI application engineer roles.
 
-- **Full-Stack AI Agent Pipeline**: From zero-to-deploy workflows, covering development (Python), deployment, and production-grade optimization, with resources targeting roles like AI Application Development Engineer.
+- **Multi-Framework & Tool Integration**: Supports skills, LLM APIs, RAG pipelines, and enterprise-grade tools; updated as of June 2026 with Python-based implementations.
 
 ## Why It Matters
 

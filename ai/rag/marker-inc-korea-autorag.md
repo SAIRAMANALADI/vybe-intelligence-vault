@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-25T20:45:23.034468+05:30'
+collected_at: '2026-06-25T22:55:37.513466+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4839
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-25T20:45:23.034468+05:30'
-last_seen: '2026-06-25T20:45:23.034468+05:30'
-last_checked: '2026-06-25T20:45:23.034468+05:30'
+first_seen: '2026-06-25T22:55:37.513466+05:30'
+last_seen: '2026-06-25T22:55:37.513466+05:30'
+last_checked: '2026-06-25T22:55:37.513466+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Optimization**: Automates hyperparameter tuning, prompt engineering, and pipeline configuration for RAG systems using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms) to maximize performance metrics like answer relevance, faithfulness, and context precision.
+- **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, including hyperparameter tuning, component selection, and performance benchmarking without manual intervention.
 
-- **Comprehensive Evaluation Suite**: Implements standardized benchmarks (e.g., RAGTruth, KILT) and custom metrics (e.g., retrieval latency, generation quality) to assess RAG pipelines across dimensions like retrieval efficiency, answer correctness, and computational cost, with support for multi-modal inputs (text, tables, images).
+- **Comprehensive RAG Optimization**: Supports end-to-end RAG optimization with built-in modules for document parsing, embedding generation, retrieval strategies, and LLM integration, enabling seamless pipeline construction and evaluation.
 
-- **Modular Pipeline Architecture**: Provides a Python-based framework with pluggable components (e.g., retrievers like BM25/FAISS, LLMs via HuggingFace/transformers, document parsers) and built-in support for distributed training/inference, enabling end-to-end RAG workflows with minimal boilerplate code.
+- **Benchmarking & Evaluation Suite**: Includes standardized benchmarking tools for assessing RAG performance across metrics like answer correctness, retrieval efficiency, and latency, with support for custom datasets and evaluation criteria.
 
 ## Why It Matters
 

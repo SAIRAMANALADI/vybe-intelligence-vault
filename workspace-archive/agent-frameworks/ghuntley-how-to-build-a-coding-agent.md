@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Workshop for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven code generation/automation workflows.
-- **Technical Stack**: Primarily implemented in **Go**, with integration of AI models for code analysis, generation, and task execution.
-- **Scope**: Provides a **step-by-step tutorial** on agent architecture, tooling, and deployment, targeting developers building AI-assisted coding tools.
+- **Purpose**: Workshop providing a step-by-step guide to building a **coding agent** (similar to Roo Code, Cline, Amp, Cursor, Windsurf, or OpenCode) using **Go**.
+- **Technical Stack**: Primarily implemented in **Go**, with focus on AI-driven agent architectures for code generation, editing, and automation.
+- **Scope**: Covers **tutorial-style** implementation, agent workflows, and integration with AI models for real-time coding assistance. Last updated **June 25, 2026**.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-25T20:45:03.071590+05:30'
+collected_at: '2026-06-25T22:55:17.503228+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-25T20:45:03.071590+05:30'
-last_seen: '2026-06-25T20:45:03.071590+05:30'
-last_checked: '2026-06-25T20:45:03.071590+05:30'
+first_seen: '2026-06-25T22:55:17.503228+05:30'
+last_seen: '2026-06-25T22:55:17.503228+05:30'
+last_checked: '2026-06-25T22:55:17.503228+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials and examples for integrating vector search (LanceDB) with LLMs (e.g., GPT-4 Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and AI agents.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to enable multimodal AI and Retrieval-Augmented Generation (RAG) workflows.
 
-- **Embedding & Fine-Tuning Workflows**: Includes demonstrations of embedding generation (multimodal/text), fine-tuning techniques, and end-to-end pipelines for deploying multimodal AI applications using vector databases and deep learning frameworks.
+- **Vector Database Integration**: Focuses on LanceDB as the vector database backend, demonstrating efficient storage, retrieval, and fine-tuning techniques for embeddings in AI pipelines.
 
-- **Agentic & Multimodal Tooling**: Showcases agent-based architectures leveraging OpenAI APIs, vector search for context retrieval, and multimodal data processing (e.g., combining text, images) for advanced AI agent systems.
+- **Agent & Workflow Optimization**: Includes recipes for deploying AI agents, fine-tuning embeddings, and optimizing multimodal pipelines using OpenAI, LangChain, and other deep-learning frameworks.
 
 ## Why It Matters
 

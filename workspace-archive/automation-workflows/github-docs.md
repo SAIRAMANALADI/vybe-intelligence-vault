@@ -2,11 +2,11 @@
 title: GitHub Docs
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://docs.github.com
+source_url: https://docs.github.com/
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local version control, supports SSH for secure remote connections, and enables repository creation/management for collaborative development workflows.
-
-- **Collaboration & Automation**: Key features include pull requests for code review/merging, GitHub Actions for CI/CD pipelines, and GitHub Copilot for AI-driven code suggestions in IDEs.
-
-- **Security & Extensibility**: GitHub provides tools for secret management, vuln
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure connections via SSH for encrypted remote operations.
+- **Repository Management**: Users can create, manage, and format repositories with basic syntax for documentation and collaboration.
+- **Collaborative Workflows**: Pull requests enable code review and merging, while GitHub Copilot provides IDE-based AI-driven code suggestions.
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com
+Original source URL: https://docs.github.com/
 
 ## Local Vault File
 

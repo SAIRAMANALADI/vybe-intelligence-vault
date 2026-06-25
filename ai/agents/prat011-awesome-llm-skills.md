@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-06-25T16:39:35.051405+05:30'
+collected_at: '2026-06-25T22:57:52.579868+05:30'
 published_at: '2026-06-24T15:35:37Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-06-25T16:39:35.051405+05:30'
-last_seen: '2026-06-25T16:39:35.051405+05:30'
-last_checked: '2026-06-25T16:39:35.051405+05:30'
+first_seen: '2026-06-25T22:57:52.579868+05:30'
+last_seen: '2026-06-25T22:57:52.579868+05:30'
+last_checked: '2026-06-25T22:57:52.579868+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM & AI Agent Skills Repository**: A GitHub repository (`Prat011/awesome-llm-skills`) providing a structured collection of tools, resources, and skills for customizing AI agent workflows, compatible with platforms like **Claude Code, Codex, Gemini CLI**, and custom agents.
-
-- **Multi-Platform Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and related CLI tools (e.g., `claude-skills`, `codex-cli`, `gemini-cli`), with a focus on **Python-based** implementations.
-
-- **Active Maintenance & Metadata**: Last updated **June 24, 2026**; contains **1,341 stars, 208 forks**; categorized under topics like `awesome-list`, `llms`, and `opencode`.
+- **Curated Resource**: A GitHub repository (`Prat011/awesome-llm-skills`) compiling tools, libraries, and workflows for customizing LLM-based AI agents, compatible with platforms like **Claude Code**, **Codex CLI**, **Gemini CLI**, and custom setups.
+- **Technical Scope**: Focuses on **LLM skills**, **AI agent workflows**, and integrations with models such as **Llama**, **Qwen**, **OpenAI**, and **Anthropic**, alongside CLI tools like **Codex**, **Gemini**, and **Claude**.
+- **Metadata**: 1,341 stars, 208 forks, primarily Python-based, last updated **2026-06-24**, covering topics like `anthropic`, `awesome-lists`, and `skills-creator`.
 
 ## Why It Matters
 

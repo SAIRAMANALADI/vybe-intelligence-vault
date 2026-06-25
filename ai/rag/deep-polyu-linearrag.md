@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-25T20:46:28.111982+05:30'
+collected_at: '2026-06-25T22:56:42.565440+05:30'
 published_at: '2026-06-25T10:44:52Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-25T20:46:28.111982+05:30'
-last_seen: '2026-06-25T20:46:28.111982+05:30'
-last_checked: '2026-06-25T20:46:28.111982+05:30'
+first_seen: '2026-06-25T22:56:42.565440+05:30'
+last_seen: '2026-06-25T22:56:42.565440+05:30'
+last_checked: '2026-06-25T22:56:42.565440+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to reduce computational overhead.
+- **Proposes LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimizing linear retrieval for large-scale corpora by leveraging graph structures to enhance efficiency and scalability.
 
-- **Key Innovation**: Proposes a linear-time graph construction method that enables efficient retrieval of relevant context, outperforming traditional dense retrieval methods in both speed and memory usage while maintaining or improving answer quality.
+- **Introduces linear graph retrieval**, a method that transforms traditional graph traversal into a linear-time process, reducing computational overhead while maintaining retrieval accuracy for LLM augmentation.
 
-- **Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and integration with LLMs, supporting dynamic updates and large-scale corpus processing.
+- **Evaluates on ICLR 2026 benchmarks**, demonstrating superior performance in retrieval quality and generation coherence compared to conventional RAG systems, with open-source implementation in Python.
 
 ## Why It Matters
 

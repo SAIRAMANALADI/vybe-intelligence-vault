@@ -17,6 +17,7 @@ tags:
 - rag
 - scripts
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous and multi-agent systems.
-- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, robotics, gaming, and enterprise automation with categorized resources.
-- **Open-Source Focus**: Primarily features open-source projects with active maintenance, last updated June 2026.
+- **Curated AI Agents Repository**: A comprehensive, community-driven collection of AI agents, frameworks, libraries, and tools for autonomous task execution, multi-agent systems, and agentic AI research.
+
+- **Multi-Topic Coverage**: Encompasses agents for web browsing, code generation, research automation, gaming, robotics, and enterprise workflows, with links to research papers, tutorials, and open-source implementations.
+
+- **High Activity & Maintenance**: Actively updated (last commit: 2026-
 
 ## Use Cases
 

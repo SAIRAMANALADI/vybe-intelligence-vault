@@ -6,11 +6,12 @@ source_url: https://github.com/bangoc123/retrieval-backend-with-rag
 resource_id: github:bangoc123/retrieval-backend-with-rag
 local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Implements a Python-based retrieval-augmented generation (RAG) backend.
-*   Demonstrates RAG best practices specifically optimized for the Vietnamese language.
-*   Focuses on linguistic adaptation of RAG systems for specific language contexts.
+- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese language Retrieval-Augmented Generation (RAG) using Python, focusing on efficient retrieval and generation pipelines tailored for Vietnamese text processing.
+
+- **Modular Architecture**: Includes components for document retrieval, embedding generation (e.g., using `sentence-transformers` for Vietnamese), and integration with LLMs (e.g., `vllm` or `transformers`) for contextual generation.
+
+- **Evalu
 
 ## Use Cases
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Resource**: A GitHub repository (`caramaschiHG/awesome-ai-agents-2026`) hosting a structured, monthly-updated list of **300+ AI agents, frameworks, and tools** spanning **20+ categories** (e.g., LLMs, LangChain, ChatGPT) for 2026.
-- **Technical Scope**: Focuses on **AI agents, machine learning, and LLM ecosystems**, with cross-references to tools like LangChain and ChatGPT, emphasizing cutting-edge advancements.
-- **Community Metrics**: Maintains **1,156 stars** and **403 fo
+- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools categorized into 20+ sections, updated monthly as of June 2026.
+- **Key Technologies Covered**: Includes frameworks like LangChain, ChatGPT, and LLM integrations, with focus on machine learning and artificial intelligence applications.
+- **Repository Metrics**: 1,159 stars, 403 forks, maintained under the `caramaschiHG` GitHub organization.
 
 ## Use Cases
 

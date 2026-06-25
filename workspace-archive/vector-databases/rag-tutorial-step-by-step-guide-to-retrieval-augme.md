@@ -7,12 +7,13 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: template
 importance: medium
 tags:
 - benchmark
+- hackernews
 - models
 - openai
 - paper
@@ -20,7 +21,8 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -28,14 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: template
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-Tutorials / RAG: Step-by-StepFree Tutorial Intermediate ~45 min readRAG Tutorial: A Step-by-Step Guide to Retrieval-Augmented GenerationBuild a complete RAG system from scratch — from loading your first document to returning cited answers grounded in...
+- **RAG Architecture**: A 5-stage pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized pieces), **Embed** (convert to vectors via `text-embedding-3-small`), **Retrieve** (semantic search with ChromaDB), and **Generate** (LLM synthesizes answer from retrieved context using `gpt-4o-mini`).
+
+- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** for vector storage, and **OpenAI’s embedding/Chat models**; retriever configured with `k=4` for top chun
 
 ## Use Cases
 

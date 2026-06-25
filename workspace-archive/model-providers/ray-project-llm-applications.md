@@ -6,10 +6,10 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
 tags:
 - github-repo
 - jupyter notebook
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # ray-project/llm-applications
@@ -28,19 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, integrating retrieval mechanisms with generative models for enhanced contextual outputs.
-
-- **Multi-Framework Support**: Demonstrates integration with leading LLM frameworks (e.g., Llama2, OpenAI) and tools (e.g., Anyscale, Ray for distributed serving), with examples in Jupyter Notebooks for fine-tuning and deployment workflows.
-
-- **Scalable Serving
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computation, integrating retrieval (e.g., vector DBs) with LLMs (e.g., Llama2, OpenAI) for real-time inference.
+- **Fine-Tuning & Serving**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable, low-latency serving in production environments.
+- **Multi-Cloud & Tooling**: Includes examples leveraging Anyscale for man
 
 ## Use Cases
 

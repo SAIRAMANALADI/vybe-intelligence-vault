@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-06-25T16:39:45.127098+05:30'
-published_at: '2026-06-24T16:10:46Z'
+collected_at: '2026-06-25T22:58:02.611330+05:30'
+published_at: '2026-06-25T13:21:06Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - workflows
-stars: 731
+stars: 733
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-06-25T16:39:45.127098+05:30'
-last_seen: '2026-06-25T16:39:45.127098+05:30'
-last_checked: '2026-06-25T16:39:45.127098+05:30'
+first_seen: '2026-06-25T22:58:02.611330+05:30'
+last_seen: '2026-06-25T22:58:02.611330+05:30'
+last_checked: '2026-06-25T22:58:02.611330+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks (e.g., coding, debugging, project management).
-- **Tech Stack**: Python-based framework with modular agent architectures, task definitions, and evaluation metrics for LLM-driven agents.
-- **Metrics**: Tracks agent performance across software engineering workflows, including task completion rates, efficiency, and adaptability to dynamic environments.
+- **Purpose**: Simulated software company environment for benchmarking AI agents on complex, multi-step tasks.
+- **Technical Stack**: Python-based implementation with focus on agent interaction, task decomposition, and performance evaluation.
+- **Metrics**: Evaluates agent capabilities in software development workflows, including debugging, collaboration, and task completion efficiency.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TheAgentCompany
-- Stars: 731
+- Stars: 733
 - Forks: 119
 - Language: Python
 - Topics: agent, ai, ai-benchmark, ai-research, benchmark, llm
-- Last Updated: 2026-06-24T16:10:46Z
+- Last Updated: 2026-06-25T13:21:06Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-11T09:08:11Z

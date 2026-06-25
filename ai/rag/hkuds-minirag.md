@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-25T20:45:23.039398+05:30'
+collected_at: '2026-06-25T22:55:37.480815+05:30'
 published_at: '2026-06-25T07:33:20Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 1952
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-25T20:45:23.039398+05:30'
-last_seen: '2026-06-25T20:45:23.039398+05:30'
-last_checked: '2026-06-25T20:45:23.039398+05:30'
+first_seen: '2026-06-25T22:55:37.480815+05:30'
+last_seen: '2026-06-25T22:55:37.480815+05:30'
+last_checked: '2026-06-25T22:55:37.480815+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-
-- **Architectural Efficiency**: Optimizes retrieval-augmented generation by integrating lightweight embedding models (e.g., `bge-small-en-v1.5`) and distilled SLMs (e.g., `Qwen2-0.5B-Instruct`) for low-latency, cost-effective deployment.
-
-- **Benchmark Performance**: Achieves competitive results on standard RAG benchmarks (e.g., MS MARCO, NQ) with minimal hardware requirements, demonstrating viability for resource-constrained environments.
+- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance.
+- Implements **modular, lightweight retrieval and generation pipelines** optimized for efficiency, enabling deployment on resource-constrained hardware.
+- Achieves **competitive results** on benchmarks with minimal fine-tuning, demonstrating viability for low-cost, scalable RAG applications.
 
 ## Why It Matters
 

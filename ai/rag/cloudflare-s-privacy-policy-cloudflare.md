@@ -3,9 +3,9 @@ title: Cloudflare's Privacy Policy | Cloudflare
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.cloudflare.com/privacy
-published_at: '2026-06-24T22:57:24.426424+05:30'
-collected_at: '2026-06-24T22:57:24.426437+05:30'
+source_url: https://www.cloudflare.com/privacy/
+published_at: '2026-06-25T23:02:08.552782+05:30'
+collected_at: '2026-06-25T23:02:08.552789+05:30'
 tags:
 - agents
 - creative_dev
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloudflare-s-privacy-policy-cloudflare
-first_seen: '2026-06-24T22:57:24.426437+05:30'
-last_seen: '2026-06-24T22:57:24.426437+05:30'
-last_checked: '2026-06-24T22:57:24.426437+05:30'
+first_seen: '2026-06-25T23:02:08.552789+05:30'
+last_seen: '2026-06-25T23:02:08.552789+05:30'
+last_checked: '2026-06-25T23:02:08.552789+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloudflare’s SASE (Cloudflare One) framework** integrates zero trust network access (ZTNA), secure web gateway (SWG), SD-WAN, and email security into a unified cloud-native architecture for enterprise security and networking.
+- **Cloudflare’s connectivity cloud** integrates 60+ networking, security, and performance services, including SASE (Cloudflare One), application security (L7 DDoS protection, WAF, API security), and application performance (CDN, DNS, load balancing).
 
-- **Developer platform** supports serverless compute (Workers), AI/ML inference (Workers AI), R2 object storage, D1 SQL databases, and observability tools (logs/metrics/traces) with global edge deployment.
+- **Developer platform** supports AI/ML (Workers AI, AI Gateway), serverless compute (Workers), storage (R2, D1), and real-time media (Realtime, Images), with pricing tiers for Workers, KV, and R2.
 
-- **Threat intelligence and compliance** leverages Cloudflare Radar for real-time internet traffic analysis, Cloudforce One for threat operations, and supports post-quantum cryptography (PQC) for future-proof security standards.
+- **Enterprise-grade solutions** include Zero Trust (ZTNA, SWG), network protection (L3/4 DDoS, Firewall-as-a-Service), and compliance-focused services (post-quantum cryptography, data compliance).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:57:24.426424+05:30
+- Published: 2026-06-25T23:02:08.552782+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.cloudflare.com/privacy
+Original source: https://www.cloudflare.com/privacy/

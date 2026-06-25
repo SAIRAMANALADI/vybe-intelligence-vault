@@ -3,9 +3,9 @@ title: The Firebase Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firebase.blog
-published_at: '2026-06-24T10:20:14.369450+05:30'
-collected_at: '2026-06-24T10:20:14.369462+05:30'
+source_url: https://firebase.blog/
+published_at: '2026-06-25T23:01:13.878846+05:30'
+collected_at: '2026-06-25T23:01:13.878853+05:30'
 tags:
 - frontend_ui
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:the-firebase-blog
-first_seen: '2026-06-24T10:20:14.369462+05:30'
-last_seen: '2026-06-24T10:20:14.369462+05:30'
-last_checked: '2026-06-24T10:20:14.369462+05:30'
+first_seen: '2026-06-25T23:01:13.878853+05:30'
+last_seen: '2026-06-25T23:01:13.878853+05:30'
+last_checked: '2026-06-25T23:01:13.878853+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Integration**: Firebase now supports Google's Gemini models via Apple's Foundation Models framework, enabling advanced AI capabilities in Firebase applications.
-- **Firestore Enhancements**: Firestore pipelines now support full-text search and JOIN-like operations, improving NoSQL query flexibility.
-- **Dart Support**: Cloud Functions for Firebase now supports Dart, expanding backend development options for Firebase applications.
+- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via pipelines, enhancing NoSQL query capabilities while maintaining real-time sync.
+
+- **Dart Support in Cloud Functions**: Adds Dart as a supported runtime for Firebase Cloud Functions, enabling serverless Dart-based backend development with native Firebase integration.
+
+- **Firebase Phone Number Verification (GA)**: Provides general availability for phone number authentication, offering OTP-based verification with improved security and reliability.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:20:14.369450+05:30
+- Published: 2026-06-25T23:01:13.878846+05:30
 
 ## Related Tags
 
@@ -46,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://firebase.blog
+Original source: https://firebase.blog/

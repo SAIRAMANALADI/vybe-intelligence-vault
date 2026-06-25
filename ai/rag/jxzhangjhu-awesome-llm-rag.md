@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-25T20:45:48.034316+05:30'
+collected_at: '2026-06-25T22:56:07.499183+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-25T20:45:48.034316+05:30'
-last_seen: '2026-06-25T20:45:48.034316+05:30'
-last_checked: '2026-06-25T20:45:48.034316+05:30'
+first_seen: '2026-06-25T22:56:07.499183+05:30'
+last_seen: '2026-06-25T22:56:07.499183+05:30'
+last_checked: '2026-06-25T22:56:07.499183+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
-- **Technical Focus**: Includes cutting-edge methods for enhancing LLM performance via dynamic retrieval, hybrid search (dense + sparse), and context-aware augmentation to mitigate hallucinations and improve factual grounding.
-- **Community-Driven**: Actively maintained repository with contributions from researchers, featuring benchmarks, papers, and practical implementations for optimizing RAG pipelines in production environments.
+- **Curated RAG Resources**: A comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval strategies, and integration methods.
+- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including retrieval-information optimization, LLM-embedding interactions, and hybrid retrieval architectures for enhanced generation quality.
+- **Community-Driven**: Actively maintained repository (last updated 2026-06-23) with 1,340+ stars and 84 forks, aggregating research papers, benchmarks, and practical implementations in RAG-embeddings and LLM integration.
 
 ## Why It Matters
 

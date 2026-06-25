@@ -2,11 +2,11 @@
 title: RAG System with LangChain and LangGraph - GeeksforGeeks
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
+source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
 resource_id: blog:rag-system-with-langchain-and-langgraph-geeksforge
 local_vault_path: ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,7 +39,11 @@ selection_reason:
 
 ## Summary
 
-CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsRAG System with LangChain and LangGraphLast Updated :...
+- **RAG System Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for workflow orchestration (state management, retrieval-generation pipeline) to enable context-aware responses from LLMs.
+
+- **Key Components**:
+  - **LangChain**: Handles document loading, text splitting (e.g., `RecursiveCharacterTextSplitter`), vector embeddings (`OpenAIEmbeddings`), and similarity search (`InMemoryVectorStore`).
+  - **LangGraph**: Defines a stateful graph (`StateGrap
 
 ## Use Cases
 
@@ -49,7 +53,7 @@ CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject 
 
 ## Source
 
-Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
+Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/
 
 ## Local Vault File
 

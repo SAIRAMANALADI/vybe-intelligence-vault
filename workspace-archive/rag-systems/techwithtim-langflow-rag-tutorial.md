@@ -14,6 +14,7 @@ tags:
 - github-repo
 - rag
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09.
-- **Language/Topics**: Unknown (metadata not specified).
-- **Purpose**: No description provided; likely a tutorial on Langflow-based RAG (Retrieval-Augmented Generation) implementation.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09T12:30:18Z.
+- **Language/Topics**: No explicit language or topics specified in metadata.
+- **Purpose**: Unclear (no description provided); likely a tutorial for Langflow-based RAG (Retrieval-Augmented Generation) workflows.
 
 ## Use Cases
 

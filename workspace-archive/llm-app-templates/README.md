@@ -15,7 +15,7 @@ Starter kits and application templates drastically accelerate the deployment of 
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
 - [Next.js 7](https://nextjs.org/blog/next-7) (tutorial - USEFUL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
+- [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-25 21:00 IST*
+*Last updated: 2026-06-25 23:10 IST*

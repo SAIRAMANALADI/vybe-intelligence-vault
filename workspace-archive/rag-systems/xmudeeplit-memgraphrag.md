@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms for coordinated multi-agent collaboration in graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and retrieval.
+- **Multi-Agent Framework**: Implements a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory and ontology construction for enhanced knowledge retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Proposes an ontology-driven approach for constructing and querying knowledge graphs, enhancing semantic precision and contextual relevance in RAG pipelines.
+- **Graph Construction & Ontology Integration**: Dynamically constructs and utilizes graph structures with ontology alignment to improve contextual understanding and retrieval efficiency in RAG pipelines.
 
-- **Python Implementation**: Provides an open-
+- **Python Implementation**: Provides a Python-based open-source re
 
 ## Use Cases
 

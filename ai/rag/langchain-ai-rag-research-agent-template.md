@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-25T20:45:08.112825+05:30'
+collected_at: '2026-06-25T22:55:27.553524+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 313
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-25T20:45:08.112825+05:30'
-last_seen: '2026-06-25T20:45:08.112825+05:30'
-last_checked: '2026-06-25T20:45:08.112825+05:30'
+first_seen: '2026-06-25T22:55:27.553524+05:30'
+last_seen: '2026-06-25T22:55:27.553524+05:30'
+last_checked: '2026-06-25T22:55:27.553524+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `langchain-ai/rag-research-agent-template`
-- **Technical Stack**: Python-based template for Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain framework.
-- **Last Updated**: 2026-06-24T06:49:45Z (indicates active maintenance or recent development).
+- **Template Purpose**: Provides a structured starter for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and synthesis workflows.
+
+- **Key Components**: Includes modular components for document loaders, vector stores (e.g., FAISS, Chroma), and LLM integration (e.g., LangChain’s `LLMChain` or `ConversationalRetrievalChain`).
+
+- **Technical Stack**: Python-based, leveraging LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) with dependencies like `pydantic`, `sentence-transformers`, and optional GPU-accelerated libraries (e.g., `torch`).
 
 ## Why It Matters
 

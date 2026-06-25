@@ -13,7 +13,9 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
+- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -30,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Demonstrates Google's Agent Development Kit (ADK) for AI agent development.
-*   Implements a marketing campaign assistant agent as a practical ADK application.
-*   Developed using Python, showcasing a specific language binding for the ADK.
+- **Google ADK Integration**: Demonstrates the use of Google's Agent Development Kit (ADK) to create a marketing campaign assistant agent in Python.
+- **Repository Metrics**: Contains 60 stars and 33 forks, last updated on 2026-06-22.
+- **Purpose**: Provides a technical example of building AI agents for marketing automation using Google ADK.
 
 ## Use Cases
 

@@ -11,13 +11,10 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -37,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Provides plug-and-play components for document parsing, embedding, vector storage, retrieval, and generation, enabling customizable RAG workflows.
-- **Optimized for Scalability**: Supports distributed vector search (e.g., FAISS, Milvus) and integrates with LLMs (e.g., Llama,
+- **Multi-Modal RAG Framework**: Unified Python-based framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, retrieval, and generation.
+
+- **Modular Architecture**: Implements plug-and-play pipelines with customizable retrievers (e.g., dense/sparse), rerankers, and LLMs, enabling end-to-end optimization for diverse multi-modal datasets.
+
+- **Scalable & Extensible**: Optimized for large-scale multi-modal data with support for
 
 ## Use Cases
 

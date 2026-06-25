@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-25T20:47:03.135922+05:30'
+collected_at: '2026-06-25T22:57:17.594601+05:30'
 published_at: '2026-06-23T20:27:24Z'
 tags:
 - agents
 - github-repo
+- models
 - openai
 - rag
 - typescript
-- workflows
 stars: 219
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-25T20:47:03.135922+05:30'
-last_seen: '2026-06-25T20:47:03.135922+05:30'
-last_checked: '2026-06-25T20:47:03.135922+05:30'
+first_seen: '2026-06-25T22:57:17.594601+05:30'
+last_seen: '2026-06-25T22:57:17.594601+05:30'
+last_checked: '2026-06-25T22:57:17.594601+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, including contract scaffolding and integration hooks.
+- **TypeScript-based AI-Agent Contract Template**: Provides a starter framework for integrating OpenAI's API with Phala Network's confidential computing for AI agent contracts.
 
-- **Key Components**: Includes pre-configured modules for agent orchestration, OpenAI API calls, and Phala Network-specific runtime environments (e.g., pRuntime, worker pools).
+- **Confidential Computing Integration**: Leverages Phala Network's Trusted Execution Environment (TEE) to ensure secure, privacy-preserving execution of AI agent logic.
 
-- **Deployment Workflow**: Demonstrates end-to-end deployment steps for AI agents, leveraging Phala's confidential computing for secure execution and OpenAI's model inference.
+- **OpenAI API Compatibility**: Designed for seamless interaction with OpenAI's models (e.g., GPT-4) while maintaining on-chain privacy and verifiability.
 
 ## Why It Matters
 

@@ -3,21 +3,22 @@ title: Self-Serve Subscription Agreement | Cloudflare
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.cloudflare.com/terms
-published_at: '2026-06-24T22:59:25.523077+05:30'
-collected_at: '2026-06-24T22:59:25.523091+05:30'
+source_url: https://www.cloudflare.com/terms/
+published_at: '2026-06-25T23:02:03.580103+05:30'
+collected_at: '2026-06-25T23:02:03.580111+05:30'
 tags:
 - agents
 - benchmark
 - hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:self-serve-subscription-agreement-cloudflare
-first_seen: '2026-06-24T22:59:25.523091+05:30'
-last_seen: '2026-06-24T22:59:25.523091+05:30'
-last_checked: '2026-06-24T22:59:25.523091+05:30'
+first_seen: '2026-06-25T23:02:03.580111+05:30'
+last_seen: '2026-06-25T23:02:03.580111+05:30'
+last_checked: '2026-06-25T23:02:03.580111+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Agreement mandates arbitration for disputes and waives class action participation against Cloudflare, requiring explicit acceptance of these terms.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring explicit acceptance of these terms upon service access or use.
 
-- **Service Restrictions & Credential Liability**: Users prohibited from sublicensing, reverse engineering, or using Cloudflare services for unauthorized proxy/VPN purposes; users solely responsible for credential security and third-party access risks.
+- **Service Access & Restrictions**: Grants revocable, non-exclusive access to Services with strict prohibitions on sublicensing, reverse engineering, automated scraping, or use for VPN/proxy services, and requires adherence to service-specific terms and usage limits.
 
-- **Customer Content & Network Data Ownership**: Users retain rights to Customer Content but grant Cloudflare a worldwide, royalty-free license to process/modify it for service provision; Cloudflare retains ownership of derived Network Data and may scan/modify content for performance/security enhancements.
+- **Customer Content & Liability**: Retains Cloudflare’s right to process/modify Customer Content for service provision while disclaiming liability for its content; users must ensure compliance with applicable laws and maintain credential confidentiality.
 
 ## Why It Matters
 
@@ -39,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:59:25.523077+05:30
+- Published: 2026-06-25T23:02:03.580103+05:30
 
 ## Related Tags
 
@@ -47,9 +48,10 @@ General public resource representing technology updates, guides, or tutorials.
 - benchmark
 - hackernews
 - rag
+- scripts
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: https://www.cloudflare.com/terms
+Original source: https://www.cloudflare.com/terms/

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   Implements Knowledge-Graph-Based Generation for RAG.
-*   Utilizes Semantic Aggregation for contextual information synthesis.
-*   Employs Hierarchical Retrieval mechanisms for structured information access.
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, improving contextual relevance in generation tasks.
+
+- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively narrow down and optimize knowledge extraction from large-scale knowledge graphs.
+
+- **Efficiency & Scalability**: Designed for AAAI 2026 benchmarks, optimizing computational overhead while ma
 
 ## Use Cases
 

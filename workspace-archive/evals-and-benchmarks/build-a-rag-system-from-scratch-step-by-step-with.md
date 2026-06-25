@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -33,14 +33,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-{/* Last updated: 2026-04-10 | Verified on: Docker python:3.12-slim | LangChain 0.3.25 | LangGraph 1.1+ | ChromaDB 0.6.3 | RAGAS 0.2.15 */} Every code block in this guide was executed in a clean Docker container and produces real output. The terminal...
+- **Hybrid Retrieval Pipeline**: Combines BM25 (keyword-based) and vector search (semantic-based) for improved retrieval, followed by cross-encoder reranking to boost precision; implemented using `rank-bm25` and a free cross-encoder model.
+
+- **ChromaDB Integration**: Stores 207 document chunks (800-token size, 100-token overlap) embedded via OpenAI `text-embedding-3-small` (1,536D vectors), enabling efficient hybrid retrieval with L2 distance scoring.
+
+- **RAG Chain with Grounding**: Uses a str
 
 ## Use Cases
 

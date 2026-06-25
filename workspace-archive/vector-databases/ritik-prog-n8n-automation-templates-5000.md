@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `ritik-prog/n8n-automation-templates-5000` – A GitHub repository hosting **5,000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Key Features**: Templates are **open-source, free**, and designed for real-world automation use cases with **last update on 2026-06-24**.
-- **Metrics**: **393 stars**, **157 forks**, with **no specified primary language** (topics field empty).
+- **Repository**: `ritik-prog/n8n-automation-templates-5000` – A GitHub repository offering **5,000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
+- **Key Features**: **Open-source and free**, with templates designed for real-world automation use cases; last updated on **2026-06-24**.
+- **Metadata**: **393 stars**, **157 forks**, and categorized under unspecified language/topics.
 
 ## Use Cases
 

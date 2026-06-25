@@ -2,7 +2,7 @@
 title: 'Postman: The World''s Leading API Platform | Sign Up for Free'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.postman.com
+source_url: https://postman.com/
 resource_id: blog:postman-the-world-s-leading-api-platform-sign-up-f
 local_vault_path: ai/rag/postman-the-world-s-leading-api-platform-sign-up-f.md
 quality_score: 70
@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Native API Lifecycle Management**: Postman's AI Engineer automates API development, testing, and maintenance across enterprise-scale services, leveraging contextual awareness of existing infrastructure.
+- **AI-native API lifecycle management**: Postman's new platform integrates AI-driven automation for API development, testing, management, and distribution, optimized for enterprise-scale workflows.
 
-- **Unified API Development Platform**: Integrates design, testing, management, and distribution of APIs/ services with AI-driven workflows, optimized for large-scale enterprise deployment.
+- **Context-aware AI Engineer**: The AI Engineer dynamically builds, tests, and maintains APIs by leveraging real-time context from existing services, reducing manual intervention and accelerating deployment cycles.
 
-- **Enterprise Adoption Validation**: Supported by major enterprises (Microsoft, AWS, Meta, Salesf
+- **Enterprise-grade integrations**: Supports seamless collaboration across major c
 
 ## Use Cases
 
@@ -48,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.postman.com
+Original source URL: https://postman.com/
 
 ## Local Vault File
 

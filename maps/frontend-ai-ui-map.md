@@ -11,10 +11,10 @@ React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
 *   [The world's fastest framework for building websites](https://gohugo.io/)
+*   [- YouTube](https://youtu.be/XVFevYxRKAE)
 *   [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started)
 *   [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com)
 *   [Memberstack Dashboard](https://app.memberstack.com/signup)
-*   [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](https://docs.jupyter.org)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

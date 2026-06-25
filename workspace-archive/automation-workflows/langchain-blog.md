@@ -2,7 +2,7 @@
 title: LangChain Blog
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://blog.langchain.com/
+source_url: https://blog.langchain.com
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - web-crawled
 - workflows
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Memory Implementation**: LangChain's framework enables persistent memory storage for agents via structured state management, allowing sequential task execution and contextual recall across interactions without external dependencies.
+- **SmithDB Inverted Index**: Implemented a scalable inverted index in SmithDB for full-text search, optimized for object storage with efficient tokenization, postings list compression, and probabilistic data structures (e.g., Bloom filters) for metadata filtering.
 
-- **Fault Tolerance in LangGraph**: Implements retry mechanisms, configurable timeouts, and hierarchical error handlers to ensure resilience in distributed agent workflows, critical for production-grade autonomy.
-
-- **Model Neutrality Optimization**: Prior
+- **Model Neutrality Framework**: Proposed a model-neutral architecture prioritizing API abstraction over cloud provider lock-in, enabling seamless switching between LLMs via standardized interfaces while maintaining performance pari
 
 ## Use Cases
 
@@ -49,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com/
+Original source URL: https://blog.langchain.com
 
 ## Local Vault File
 

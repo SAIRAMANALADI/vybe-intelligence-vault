@@ -2,7 +2,7 @@
 title: 'Fern: Docs, SDKs, and CLIs for your API'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://buildwithfern.com
+source_url: https://buildwithfern.com/
 resource_id: blog:fern-docs-sdks-and-clis-for-your-api
 local_vault_path: ai/rag/fern-docs-sdks-and-clis-for-your-api.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC, ensuring consistency across protocols.
+- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC via OpenAPI specs.
 
-- **AI-native documentation features**: Includes agent-friendly docs with built-in AI chat, MCP server integration, auto-generated `llms.txt`, and AI-assisted authoring via `docs.yml` and `theme.css` customization.
+- **AI-native documentation features**: Includes AI chat, MCP server integration, auto-generated `llms.txt`, and AI-assisted authoring (e.g., Fern Writer) for real-time agent interactions and reduced hallucinations.
 
-- **Enterprise-grade scalability**: Offers multi-source docs aggregation, role-based access control
+- **Enterprise-grade scalability**: Supports multi-source docs aggregation, SAML/OIDC role-based access control, SOC 2
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://buildwithfern.com
+Original source URL: https://buildwithfern.com/
 
 ## Local Vault File
 

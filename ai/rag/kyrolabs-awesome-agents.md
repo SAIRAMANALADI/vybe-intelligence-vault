@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-06-25T16:39:30.095924+05:30'
-published_at: '2026-06-25T08:11:02Z'
+collected_at: '2026-06-25T22:57:47.586910+05:30'
+published_at: '2026-06-25T14:50:22Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,17 @@ tags:
 - rag
 - scripts
 - unknown
-stars: 2546
+- workflows
+stars: 2549
 language: Unknown
 status: active
 archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-06-22T00:56:18Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-06-25T16:39:30.095924+05:30'
-last_seen: '2026-06-25T16:39:30.095924+05:30'
-last_checked: '2026-06-25T16:39:30.095924+05:30'
+first_seen: '2026-06-25T22:57:47.586910+05:30'
+last_seen: '2026-06-25T22:57:47.586910+05:30'
+last_checked: '2026-06-25T22:57:47.586910+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous and multi-agent systems.
-- **Multi-Domain Coverage**: Encompasses agents for web browsing, code generation, robotics, gaming, and enterprise automation with categorized resources.
-- **Open-Source Focus**: Primarily features open-source projects with active maintenance, last updated June 2026.
+- **Curated AI Agents Repository**: A comprehensive, community-driven collection of AI agents, frameworks, libraries, and tools for autonomous task execution, multi-agent systems, and agentic AI research.
+
+- **Multi-Topic Coverage**: Encompasses agents for web browsing, code generation, research automation, gaming, robotics, and enterprise workflows, with links to research papers, tutorials, and open-source implementations.
+
+- **High Activity & Maintenance**: Actively updated (last commit: 2026-06-25) with 2,549 stars and 654 forks, indicating strong community engagement and ongoing contributions.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: kyrolabs
-- Stars: 2546
-- Forks: 655
+- Stars: 2549
+- Forks: 654
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-25T08:11:02Z
+- Last Updated: 2026-06-25T14:50:22Z
 - Archived: No
 - Created At: 2023-07-02T11:12:36Z
 - Pushed At: 2026-06-22T00:56:18Z

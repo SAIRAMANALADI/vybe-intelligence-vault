@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by jamdesk. Score: 767, Comments: 438.
+Hacker News story by jamdesk. Score: 791, Comments: 451.
 Original Link: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
 
 ## Use Cases

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-25T20:45:28.039559+05:30'
+collected_at: '2026-06-25T22:55:47.549249+05:30'
 published_at: '2026-06-17T07:23:12Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-25T20:45:28.039559+05:30'
-last_seen: '2026-06-25T20:45:28.039559+05:30'
-last_checked: '2026-06-25T20:45:28.039559+05:30'
+first_seen: '2026-06-25T22:55:47.549249+05:30'
+last_seen: '2026-06-25T22:55:47.549249+05:30'
+last_checked: '2026-06-25T22:55:47.549249+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval.
-- **Streamlit UI**: Provides a real-time interactive interface for querying and visualizing RAG-based responses with LangChain’s retrieval and generation pipelines.
-- **Modular Pipeline**: Includes configurable components (embedding models, retrievers, LLMs) with example datasets, showcasing end-to-end RAG workflow in a production-ready Streamlit app.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval with hybrid search (likely BM25 + dense retrieval) for improved document retrieval accuracy.
+
+- **LangChain Integration**: Utilizes LangChain for orchestrating the RAG workflow, including document loading, text splitting, embedding generation (e.g., with `sentence-transformers`), and LLM interaction.
+
+- **Streamlit UI**: Deploys a Streamlit-based web interface to visualize and interact with the RAG system, enabling users to query and retrieve relevant documents with hybrid search results.
 
 ## Why It Matters
 

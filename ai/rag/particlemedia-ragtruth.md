@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-25T20:44:43.034845+05:30'
+collected_at: '2026-06-25T22:54:57.650630+05:30'
 published_at: '2026-06-24T17:13:25Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-25T20:44:43.034845+05:30'
-last_seen: '2026-06-25T20:44:43.034845+05:30'
-last_checked: '2026-06-25T20:44:43.034845+05:30'
+first_seen: '2026-06-25T22:54:57.650630+05:30'
+last_seen: '2026-06-25T22:54:57.650630+05:30'
+last_checked: '2026-06-25T22:54:57.650630+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) models by identifying and mitigating hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Composition**: Contains structured datasets with annotated hallucination cases, enabling fine-grained analysis of RAG model failures across retrieval and generation stages.
+- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
 
-- **Implementation**: Provides Python-based tools for corpus generation, evaluation metrics, and benchmarking, facilitating reproducible research in trustworthy RAG systems.
+- **Implementation**: Provides a Python-based framework for dataset access, evaluation metrics, and baseline model training/testing to benchmark hallucination mitigation strategies in RAG systems.
 
 ## Why It Matters
 

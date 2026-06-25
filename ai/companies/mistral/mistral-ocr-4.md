@@ -4,8 +4,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/ocr-4
-published_at: '2026-06-25T20:43:54.832453+05:30'
-collected_at: '2026-06-25T20:43:54.832467+05:30'
+published_at: '2026-06-25T22:54:21.782993+05:30'
+collected_at: '2026-06-25T22:54:21.783001+05:30'
 tags:
 - blog-post
 - mistral
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:mistral-ocr-4
 first_seen: '2026-06-24T10:06:18.771007+05:30'
-last_seen: '2026-06-25T20:43:54.832467+05:30'
-last_checked: '2026-06-25T20:43:54.832467+05:30'
+last_seen: '2026-06-25T22:54:21.783001+05:30'
+last_checked: '2026-06-25T22:54:21.783001+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/ocr-4
-- Collected At: 2026-06-25T20:43:54.832467+05:30
+- Collected At: 2026-06-25T22:54:21.783001+05:30
 
 ## Related Tags
 

@@ -19,11 +19,8 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Best GitHub Repositories
 
-- [Azure/GenAIOps-project-template](https://github.com/Azure/GenAIOps-project-template)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 - [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
@@ -40,4 +37,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-25 21:00 IST*
+*Last updated: 2026-06-25 23:11 IST*
