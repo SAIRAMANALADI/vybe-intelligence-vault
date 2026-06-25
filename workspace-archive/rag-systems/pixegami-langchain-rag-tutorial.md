@@ -6,7 +6,7 @@ source_url: https://github.com/pixegami/langchain-rag-tutorial
 resource_id: github:pixegami/langchain-rag-tutorial
 local_vault_path: ai/rag/pixegami-langchain-rag-tutorial.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based response generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector stores (e.g., FAISS, Chroma) for document indexing/retrieval.
-- **Modular Structure**: Includes components for document loading (e.g., PyPDFLoader), text splitting (RecursiveCharacterTextSpli
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
+- **Python-Based**: Entirely implemented in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS, Chroma).
+- **Modular Design**: Includes components for document loading (e.g., PDFs, text), embedding generation (e.g., HuggingFace models), and retrieval-augmented QA chains.
 
 ## Use Cases
 

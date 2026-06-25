@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-26T01:55:59.288922+05:30'
+collected_at: '2026-06-26T04:18:52.535743+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
-- benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 171
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-26T01:55:59.288922+05:30'
-last_seen: '2026-06-26T01:55:59.288922+05:30'
-last_checked: '2026-06-26T01:55:59.288922+05:30'
+first_seen: '2026-06-26T04:18:52.535743+05:30'
+last_seen: '2026-06-26T04:18:52.535743+05:30'
+last_checked: '2026-06-26T04:18:52.535743+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained segments), leveraging unified encoders and retrievers.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or token-level retrieval) via a unified architecture.
 
-- **ACL 2026 Oral-Presented Architecture**: Implements a modular pipeline with modality-agnostic embeddings, adaptive retrieval strategies, and a fusion mechanism to integrate heterogeneous corpora into coherent LLM prompts for improved generation.
+- **Modality-Agnostic Retrieval & Generation**: Implements a modality-agnostic encoder-decoder pipeline with cross-modal attention mechanisms, enabling seamless integration of heterogeneous corpora without modality-specific fine-tuning.
 
-- **Open-Source Python Implementation**: Provides a scalable, extensible codebase with pre-trained models, retrieval optimization tools, and benchmarking utilities for evaluating cross-modal RAG performance.
+- **Dynamic Granularity Adaptation**: Introduces a granularity-aware retrieval strategy that dynamically selects the optimal retrieval unit (e.g., paragraph vs. sentence) based on query complexity and corpus structure, improving generation quality.
 
 ## Why It Matters
 

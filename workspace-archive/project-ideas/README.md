@@ -19,6 +19,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Best GitHub Repositories
 
+- [truefoundry/cognita](https://github.com/truefoundry/cognita)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
@@ -36,4 +37,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-26 02:10 IST*
+*Last updated: 2026-06-26 04:33 IST*

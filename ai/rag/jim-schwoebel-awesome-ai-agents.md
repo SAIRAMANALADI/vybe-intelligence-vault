@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jim-schwoebel/awesome_ai_agents
-collected_at: '2026-06-25T20:47:33.135867+05:30'
+collected_at: '2026-06-26T04:19:52.584540+05:30'
 published_at: '2026-06-25T12:00:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - unknown
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-01-03T22:37:37Z'
 pushed_at: '2026-03-28T08:28:51Z'
 resource_id: github:jim-schwoebel/awesome_ai_agents
-first_seen: '2026-06-25T20:47:33.135867+05:30'
-last_seen: '2026-06-25T20:47:33.135867+05:30'
-last_checked: '2026-06-25T20:47:33.135867+05:30'
+first_seen: '2026-06-26T04:19:52.584540+05:30'
+last_seen: '2026-06-26T04:19:52.584540+05:30'
+last_checked: '2026-06-26T04:19:52.584540+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates 1,500+ technical resources, tools, and frameworks for AI agents, covering agent-based modeling, multi-agent systems, and AI agent workflows.
-- **Multi-Topic Coverage**: Encompasses AI agent frameworks, CLI tools, learning materials, and workflow optimization, with a focus on agentic AI and multi-agent architectures.
-- **Active Maintenance**: Last updated June 25, 2026, with 1,852 stars and 581 forks, indicating ongoing community engagement and updates.
+- **Comprehensive Resource Hub**: Curated list of **1,500+ tools, frameworks, and resources** focused on AI agents, covering agent-based modeling, multi-agent systems, and agentic workflows.
+- **Multi-Topic Coverage**: Encompasses **20+ subtopics**, including AI agent frameworks, CLI tools, learning resources, and multi-agent system architectures.
+- **High Community Engagement**: **1,852 stars** and **580 forks**, indicating strong adoption and collaborative development in the AI agent ecosystem.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: jim-schwoebel
 - Stars: 1852
-- Forks: 581
+- Forks: 580
 - Language: Unknown
 - Topics: agent-based-modeling, agentic, agentic-ai, agentic-workflow, agents, ai, ai-agent, ai-agent-framework, ai-agent-tools, ai-agents-cli, ai-agents-framework, aiagent, aiagents, aiworkflow, awesome-list, awesome-lists, learning, multi-agent, multi-agent-system, multi-agent-systems
 - Last Updated: 2026-06-25T12:00:28Z

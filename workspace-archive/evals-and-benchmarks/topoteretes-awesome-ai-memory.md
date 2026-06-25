@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including short-term (contextual) and long-term (persistent) memory architectures.
-- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging libraries like `langchain`, `transformers`, and `faiss` for memory management and retrieval-augmented generation (RAG).
-- **Active maintenance & community**: Last updated June 2026, with 797 st
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on memory management in AI systems, including agent-based and RAG (Retrieval-Augmented Generation) applications.
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, emphasizing its dominance in AI memory research and development.
+- **Active maintenance & community engagement**: Last updated in 2026, with 797 stars and 86 forks, indicating ongoing community in
 
 ## Use Cases
 

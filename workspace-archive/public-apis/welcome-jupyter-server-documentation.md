@@ -2,7 +2,7 @@
 title: Welcome! — Jupyter Server documentation
 archive_category: public-apis
 source_category: ai/rag
-source_url: https://jupyter-server.readthedocs.io
+source_url: https://jupyter-server.readthedocs.io/
 resource_id: blog:welcome-jupyter-server-documentation
 local_vault_path: ai/rag/welcome-jupyter-server-documentation.md
 quality_score: 70
@@ -36,10 +36,8 @@ selection_reason:
 ## Summary
 
 - **Core Backend Service**: Jupyter Server replaces Tornado Web Server in Jupyter Notebook, providing core services, APIs, and REST endpoints for Jupyter web applications (e.g., JupyterLab, NbClassic).
-
-- **Extension Framework**: Enables creation of server extensions (e.g., Jupyter Resource Usage, Jupyter Scheduler) for custom applications, leveraging Jupyter Server’s framework and services.
-
-- **Multi-Role Documentation**: Targets distinct technical personas (Users, Operators, Developers, Contr
+- **Extension Framework**: Enables development of server extensions (e.g., Jupyter Resource Usage, Jupyter Scheduler) for custom applications, leveraging Jupyter Server’s framework and services.
+- **Multi-Role Documentation**: Targets distinct personas (Users, Operators, Developers, Contributors)
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyter-server.readthedocs.io
+Original source URL: https://jupyter-server.readthedocs.io/
 
 ## Local Vault File
 

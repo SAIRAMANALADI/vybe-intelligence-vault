@@ -8,16 +8,17 @@ local_vault_path: ai/rag/jxzhangjhu-awesome-llm-rag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
+- models
+- paper
 - rag
 - unknown
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # jxzhangjhu/Awesome-LLM-RAG
@@ -26,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Resource**: A comprehensive, community-driven repository aggregating cutting-edge research, tools, and frameworks focused on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including advanced embedding techniques and retrieval optimization strategies.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling state-of-the-art techniques and papers on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including advanced embedding methods and retrieval strategies.
 
-- **Key Topics Covered**: Encompasses **RAG architectures**, **embedding models**, **retrieval mechanisms**, and **LLM integration**, with emphasis on improving factual accuracy, context relevance, and genera
+- **Technical focus**: Encompasses **RAG architectures**, **embedding optimization**, and **retrieval mechanisms**, with emphasis on improving factual accuracy, context relevance, and generation quality in LLMs via external knowledge
 
 ## Use Cases
 

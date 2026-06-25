@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by zdw. Score: 56, Comments: 19.
+Hacker News story by zdw. Score: 85, Comments: 25.
 Original Link: https://github.com/decrazyo/anes
 
 ## Use Cases

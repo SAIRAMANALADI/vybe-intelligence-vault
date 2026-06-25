@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-26T01:55:24.311599+05:30'
+collected_at: '2026-06-26T04:18:22.552296+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-26T01:55:24.311599+05:30'
-last_seen: '2026-06-26T01:55:24.311599+05:30'
-last_checked: '2026-06-26T01:55:24.311599+05:30'
+first_seen: '2026-06-26T04:18:22.552296+05:30'
+last_seen: '2026-06-26T04:18:22.552296+05:30'
+last_checked: '2026-06-26T04:18:22.552296+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) evaluation framework for assessing conversational RAG systems across multi-turn interactions, including metrics for context relevance, answer accuracy, and coherence over sequential queries.
-
-- **Technical Implementation**: Python-based benchmark with modular components for dataset integration, retrieval evaluation, and generation assessment, supporting customizable pipelines for different RAG architectures.
-
-- **Evaluation Metrics**: Includes turn-level and session-level metrics (e.g., precision/recall for retrieval, factual consistency for generation) with logging and visualization tools for comparative analysis.
+- **Benchmark Design**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention across dialogue turns.
+- **Technical Scope**: Implements Python-based evaluation frameworks for assessing RAG models' performance in multi-turn conversational settings, including retrieval accuracy and response coherence.
+- **Dataset & Metrics**: Provides standardized datasets and metrics for benchmarking, emphasizing long-term dependency tracking and dynamic knowledge integration in RAG pipelines.
 
 ## Why It Matters
 

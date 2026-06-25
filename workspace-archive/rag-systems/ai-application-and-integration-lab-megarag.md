@@ -6,11 +6,12 @@ source_url: https://github.com/AI-Application-and-Integration-Lab/MegaRAG
 resource_id: github:ai-application-and-integration-lab/megarag
 local_vault_path: ai/rag/ai-application-and-integration-lab-megarag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, an advanced Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, etc.) and graph structures for enhanced knowledge retrieval and integration in ACL 2026.
+- **Multimodal Graph-based Retrieval-Augmented Generation (RAG)**: Introduces MegaRAG, a framework leveraging multimodal graphs (text, images, etc.) to enhance RAG systems by structuring and retrieving complex, cross-modal relationships for improved contextual generation.
 
-- **Python Implementation**: Fully implemented in Python, enabling modular integration with existing AI pipelines and facilitating reproducibility via open-source release.
-
-- **ACL 2026 Submission**: Presented as a novel approach in the ACL 2026 co
+- **Graph Neural Networks (GNNs) Integration**: Utilizes GNNs to dynamically model and traverse multimodal knowledge graphs, enabling efficient retrieval of relevant subgraphs for downstream tasks while preserving semantic and
 
 ## Use Cases
 

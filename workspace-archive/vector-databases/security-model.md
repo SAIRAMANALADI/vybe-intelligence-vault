@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) sources, with inline shortcodes requiring explicit trust. The `hugo server` is restricted to local development.
-
-- **Runtime Security**: Hugo enforces sandboxing via a virtual file system, read-only access for user-defined components, and strict control over external binaries (e.g., Asciidoctor). Arbitrary OS command execution is disabled by design.
-
-- **Depend
+- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) directories; `hugo server` is strictly for local development.
+- **Runtime Security**: Uses a virtual file system, read-only access, and controlled external binaries (e.g., Asciidoctor) with strict sandboxing; avoids arbitrary OS command execution.
+- **Dependency & Output Security**: Enforces checksum validation via `go.sum` for dependencies; sanitizes untrusted
 
 ## Use Cases
 

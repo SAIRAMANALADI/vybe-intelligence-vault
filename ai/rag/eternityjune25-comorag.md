@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-26T01:55:54.277422+05:30'
+collected_at: '2026-06-26T04:18:47.504583+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-26T01:55:54.277422+05:30'
-last_seen: '2026-06-26T01:55:54.277422+05:30'
-last_checked: '2026-06-26T01:55:54.277422+05:30'
+first_seen: '2026-06-26T04:18:47.504583+05:30'
+last_seen: '2026-06-26T04:18:47.504583+05:30'
+last_checked: '2026-06-26T04:18:47.504583+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework inspired by human cognitive memory structures, enabling efficient stateful long narrative reasoning via hierarchical memory modules.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or documents, leveraging episodic and semantic memory layers.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, leveraging hierarchical memory organization.
 
-- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks compared to traditional RAG baselines, with open-source Python implementation available.
+- **AAAI 2026 Poster Submission**: Presents empirical validation of the system's superiority in long-form reasoning tasks, with performance benchmarks and comparative analysis against traditional RAG models.
 
 ## Why It Matters
 

@@ -12,6 +12,7 @@ resource_kind: mcp-server
 importance: medium
 tags:
 - github-repo
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API, enabling interactions with Cloudflare Workers and other Cloudflare services via the MCP (Model Context Protocol) standard.
-
-- **Key features** include dynamic resource discovery, structured command execution, and real-time API integration for Cloudflare's platform (e.g., Workers, DNS, R2, KV).
-
-- **Repository status**: Actively maintained (last update: 2026-06-25), with 572 stars and 67 forks, indicating communi
+- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API, enabling automation of Cloudflare Workers and other Cloudflare services.
+- **Integrates with MCP (Model Context Protocol)** to facilitate structured interactions between AI models and Cloudflare's infrastructure.
+- **Last updated June 2026**, reflecting ongoing maintenance and potential support for Cloudflare's latest API features and MCP standards.
 
 ## Use Cases
 

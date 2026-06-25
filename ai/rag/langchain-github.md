@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-26T01:57:24.860680+05:30'
-collected_at: '2026-06-26T01:57:24.860689+05:30'
+published_at: '2026-06-26T04:20:22.971059+05:30'
+collected_at: '2026-06-26T04:20:22.971066+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-26T01:57:24.860689+05:30'
-last_seen: '2026-06-26T01:57:24.860689+05:30'
-last_checked: '2026-06-26T01:57:24.860689+05:30'
+first_seen: '2026-06-26T04:20:22.971066+05:30'
+last_seen: '2026-06-26T04:20:22.971066+05:30'
+last_checked: '2026-06-26T04:20:22.971066+05:30'
 health_score: 100
 ---
 
@@ -29,7 +29,7 @@ health_score: 100
 
 - **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
 
-- **Commercial & Extensible Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent Protocol standardize framework-agnostic agent APIs for interoperability.
+- **Commercial & OSS Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters, Agent Protocol, and Open SWE provide framework-agnostic interoperability and coding agent capabilities.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:57:24.860680+05:30
+- Published: 2026-06-26T04:20:22.971059+05:30
 
 ## Related Tags
 

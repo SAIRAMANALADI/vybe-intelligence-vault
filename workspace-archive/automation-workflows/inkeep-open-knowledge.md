@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by engomez. Score: 58, Comments: 22.
+Hacker News story by engomez. Score: 150, Comments: 69.
 Original Link: https://github.com/inkeep/open-knowledge
 
 ## Use Cases

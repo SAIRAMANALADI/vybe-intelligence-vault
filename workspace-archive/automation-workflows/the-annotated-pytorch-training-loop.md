@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by smaddrellmander. Score: 23, Comments: 3.
+Hacker News story by smaddrellmander. Score: 47, Comments: 9.
 Original Link: https://idlemachines.co.uk/essays/pytorch-training-loop
 
 ## Use Cases

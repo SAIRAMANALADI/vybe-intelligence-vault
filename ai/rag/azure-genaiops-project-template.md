@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-26T01:54:39.325699+05:30'
+collected_at: '2026-06-26T04:17:32.556301+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
 - scripts
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-26T01:54:39.325699+05:30'
-last_seen: '2026-06-26T01:54:39.325699+05:30'
-last_checked: '2026-06-26T01:54:39.325699+05:30'
+first_seen: '2026-06-26T04:17:32.556301+05:30'
+last_seen: '2026-06-26T04:17:32.556301+05:30'
+last_checked: '2026-06-26T04:17:32.556301+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with Retrieval-Augmented Generation (RAG) architecture, enabling automated provisioning of Azure resources (e.g., AI services, storage, networking) for scalable GenAI workflows.
-
-- **Modular Design**: Structured as a reusable project template with configurable parameters (e.g., resource names, SKUs, deployment regions) to adapt to varying GenAI Ops requirements while maintaining consistency across environments.
-
-- **CI/CD-Ready**: Includes GitHub Actions workflows for automated testing, validation, and deployment of the Bicep template, ensuring infrastructure parity and operational efficiency in GenAI pipelines.
+- **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
+- **Pre-configured RAG architecture** with modular components for **document ingestion, vector storage (Azure AI Search), and LLM inference (Azure OpenAI)**, optimized for GenAIOps workflows.
+- **GitHub repository** last updated in **May 2026**, with **44 stars and 55 forks**, serving as a starter template for Azure-based GenAIOps implementations.
 
 ## Why It Matters
 

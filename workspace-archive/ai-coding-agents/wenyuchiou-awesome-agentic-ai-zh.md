@@ -8,7 +8,7 @@ local_vault_path: ai/rag/wenyuchiou-awesome-agentic-ai-zh.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # WenyuChiou/awesome-agentic-ai-zh
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, with **240+ curated resources** and hands-on Python examples.
+- **Trilingual Learning Roadmap**: Curates 240+ resources (Python-based) covering LLM fundamentals to multi-agent systems, with support for Traditional Chinese (繁中), English, and Simplified Chinese (简中).
 
-- **Covers key topics** including agentic workflows, prompt engineering, RAG, MCP, CLI tools, and multi-agent architectures, with integration examples for **Claude Code/Skills**.
+- **Key Topics**: Includes agentic AI workflows, LLM agents, RAG, prompt engineering, MCP (Model Context Protocol), CLI tools, and multi-agent system architectures.
 
-- **Actively maintained** (last updated 2026-06-25) repository with **3.3K+ stars** and **457 forks**, structured as an **awesome-list** for AI
+- **Hands-on Resources**: Provides practical examples and tutorials for Claude Code/Skills, CLI applications, and integration wit
 
 ## Use Cases
 

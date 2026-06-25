@@ -16,7 +16,6 @@ tags:
 - github-repo
 - hackernews
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Pattern Reconstruction**: Analyzes and reconstructs system prompts for agentic AI coding assistants, focusing on modular, reusable prompt structures to enhance agent coordination and task delegation.
-
-- **Agent Coordination Mechanisms**: Investigates multi-agent architectures, including role specialization, communication protocols, and conflict resolution strategies for collaborative AI-driven coding workflows.
-
-- **Security Classification Framework**: Proposes a security taxonomy for
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms in agentic AI systems for coding tasks.
+- **Security Classification**: Investigates security frameworks and classifications relevant to AI-driven coding assistants.
+- **Prompt Engineering & System Prompts**: Focuses on advanced prompt engineering techniques and system-level prompt design for AI agents.
 
 ## Use Cases
 

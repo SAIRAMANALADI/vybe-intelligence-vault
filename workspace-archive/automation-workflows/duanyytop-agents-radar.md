@@ -37,8 +37,8 @@ selection_reason:
 ## Summary
 
 - **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Report Generation**: Produces reports in both Chinese and English, automated through scheduled GitHub Actions workflows.
-- **TypeScript-Based Repository**: Open-source project with 861 stars, 136 forks, last updated on 2026-06-25, focused on AI ecosystem tracking.
+- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled GitHub Actions workflows.
+- **TypeScript Implementation**: Open-source project written in TypeScript, with 861 stars and 136 forks, last updated on 2026-06-25.
 
 ## Use Cases
 

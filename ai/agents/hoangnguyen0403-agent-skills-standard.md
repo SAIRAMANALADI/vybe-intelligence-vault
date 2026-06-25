@@ -4,16 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-25T22:57:42.595548+05:30'
+collected_at: '2026-06-26T04:19:42.602087+05:30'
 published_at: '2026-06-25T00:33:36Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
-- reddit
 - typescript
-- workflows
 stars: 511
 language: TypeScript
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-24T16:17:57Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-25T22:57:42.595548+05:30'
-last_seen: '2026-06-25T22:57:42.595548+05:30'
-last_checked: '2026-06-25T22:57:42.595548+05:30'
+first_seen: '2026-06-26T04:19:42.602087+05:30'
+last_seen: '2026-06-26T04:19:42.602087+05:30'
+last_checked: '2026-06-26T04:19:42.602087+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: A curated TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot, and more.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot) to guide AI agents in adhering to coding standards.
 
-- **Technical Scope**: Encompasses agentic AI development, mobile (iOS/Android), frontend (React/Next.js), backend (NestJS/Spring Boot), and cross-platform (Flutter/React Native) with structured rules for consistency.
+- **Key Features**: Includes framework-specific best practices, coding standards, and Cursor rules to optimize AI agent performance and consistency across multiple tech stacks.
 
-- **Metadata**: 511 stars, 149 forks, last updated June 25, 2026; includes `.cursorrules` for AI agent guidance and supports TypeScript-centric workflows.
+- **Metadata**: 511 stars, 149 forks, last updated June 25, 2026, with topics covering agentic AI, mobile (iOS/Android), and web frameworks (React, Angular, Next.js).
 
 ## Why It Matters
 

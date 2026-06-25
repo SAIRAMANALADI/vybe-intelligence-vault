@@ -34,8 +34,8 @@ selection_reason:
 
 ## Summary
 
-- **Core DSA Fundamentals**: Covers essential data structures (arrays, linked lists, trees, heaps) and algorithms (binary search, quick sort, merge sort), with emphasis on asymptotic analysis (Big-O, Θ, Ω) and complexity trade-offs for real-world applications (e.g., GPS, AI, databases).
-- **Progressive Learning Pipeline**: Structured progression from fundamentals (recursion, pattern generation) to advanced topics (2D array traversals, matrix rotations, circular subarrays), including hard problem
+- **Core DSA Fundamentals**: Covers essential data structures (arrays, linked lists, trees, heaps) and algorithms (binary search, quick sort, merge sort), with foundational topics like complexity analysis (Big-O, Θ, Ω), recursion, and pattern generation.
+- **Structured Learning Path**: Organized progression from basic programming constructs (I/O, loops, functions) to advanced topics (matrix traversals, circular subarrays, text justification), including 2D array manipulations (spiral traversal, T
 
 ## Use Cases
 

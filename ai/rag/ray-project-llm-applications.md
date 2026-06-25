@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-26T01:55:49.279693+05:30'
+collected_at: '2026-06-26T04:18:42.579887+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-26T01:55:49.279693+05:30'
-last_seen: '2026-06-26T01:55:49.279693+05:30'
-last_checked: '2026-06-26T01:55:49.279693+05:30'
+first_seen: '2026-06-26T04:18:42.579887+05:30'
+last_seen: '2026-06-26T04:18:42.579887+05:30'
+last_checked: '2026-06-26T04:18:42.579887+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed compute, integrating Llama2 and OpenAI models with fine-tuning and serving optimizations.
-- **Scalable Serving Architecture**: Leverages Ray’s distributed framework for low-latency LLM inference and multi-model serving, with notebook-based examples for deployment in cloud/on-prem environments.
-- **End-to-End Tooling**: Includes Anyscale integration for cost-efficient training, evaluation scripts for benchmarking, and modular components for custom RAG pipelines (e.g., vector DB connectors, prompt engineering).
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with notebooks covering end-to-end pipelines from retrieval to LLM inference.
+- **Multi-LLM Support**: Includes examples for integrating models like Llama2, OpenAI APIs, and fine-tuned variants, with emphasis on scalability via Ray’s actor model and resource management.
+- **Deployment & Optimization**: Provides guidance on fine-tuning, batch inference, and serving optimizations (e.g., vLLM integration) for low-latency, high-throughput LLM applications.
 
 ## Why It Matters
 

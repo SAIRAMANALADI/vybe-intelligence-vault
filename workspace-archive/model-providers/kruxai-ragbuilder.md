@@ -8,16 +8,17 @@ local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # KruxAI/ragbuilder
@@ -26,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, rerankers) and customizable workflows.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and pipelines for data ingestion, indexing, and retrieval.
 
-- **Optimization Features**: Includes automated tuning for retrieval strategies, chunking, and prompt engineering to maximize context relevance and generation quality.
+- **Optimization Framework**: Implements techniques for dynamic chunking, embedding tuning, and retrieval strategies (e.g., hybrid search, reranking) to enhance context relevance and reduce hallucinations in LLM outputs.
 
-- **Scalability & Deployment**: Supports integration with vector databases (e.g., FAISS, Pinecone) and cloud services, enablin
+- **Evaluation & Deployment**: Includes built-i
 
 ## Use Cases
 

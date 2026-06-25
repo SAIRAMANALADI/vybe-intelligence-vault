@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-06-26T01:55:14.280769+05:30'
+collected_at: '2026-06-26T04:18:07.537501+05:30'
 published_at: '2026-06-25T20:10:23Z'
 tags:
 - benchmark
@@ -13,7 +13,6 @@ tags:
 - paper
 - rag
 - unknown
-- workflows
 stars: 2494
 language: Unknown
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-06-26T01:55:14.280769+05:30'
-last_seen: '2026-06-26T01:55:14.280769+05:30'
-last_checked: '2026-06-26T01:55:14.280769+05:30'
+first_seen: '2026-06-26T04:18:07.537501+05:30'
+last_seen: '2026-06-26T04:18:07.537501+05:30'
+last_checked: '2026-06-26T04:18:07.537501+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)** for enhancing large language models (LLMs) with structured knowledge.
-- **Technical Scope**: Covers **knowledge graphs**, **RAG frameworks**, and **LLM integration** methodologies, emphasizing graph-augmented retrieval and generation workflows.
-- **Active Maintenance**: Last updated **June 2026**, with **2,494 stars** and **216 forks**, indicating ongoing community engagement and updates.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on graph-based retrieval-augmented generation (GraphRAG), facilitating research and development in the field.
+- **Technical Scope**: Covers key topics including graphRAG architectures, knowledge graphs, large language models (LLMs), and retrieval-augmented generation (RAG) methodologies.
+- **Community & Updates**: Maintained repository with 2,494 stars and 216 forks, last updated on 2026-06-25, ensuring access to recent advancements and community-driven contributions.
 
 ## Why It Matters
 

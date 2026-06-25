@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Core ML Paradigms**: Supervised learning (labeled data for prediction/classification), unsupervised learning (pattern discovery in unlabeled data via clustering/dimensionality reduction), and reinforcement learning (trial-and-error optimization via reward maximization).
+- **Core ML Types**: Supervised learning (labeled data, classification/regression), unsupervised learning (unlabeled data, clustering/dimensionality reduction), and reinforcement learning (trial-and-error, reward maximization); additional types include self-supervised and semi-supervised learning.
 
-- **Key Algorithms**:
-  - *Supervised*: Linear/logistic regression, decision trees, SVM, k-NN, Naïve Bayes, Random Forest (ensemble bagging).
-  - *Unsupervised*: K-means (centroid-based), hierarchical/DBSCAN (density-based),
+- **Supervised Learning Algorithms**: Linear regression (predictive modeling), logistic regression (binary classification), decision trees (flowchart-based decisions), SVM (optimal separating hyperpla
 
 ## Use Cases
 

@@ -14,12 +14,10 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -36,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates AI agents' document parsing capabilities, covering PDF parsing, OCR, table extraction, and vision-language models.
-- **Technical Scope**: Supports evaluation of LlamaIndex and other frameworks for document parsing tasks in machine learning workflows.
-- **Metrics & Tools**: Provides standardized metrics and tools for assessing parsing accuracy, efficiency, and robustness across diverse document types.
+- **Benchmark Suite**: ParseBench provides a standardized evaluation framework for document parsing tasks, including PDF parsing, OCR, and table extraction, designed for AI agents and LLMs.
+- **Multi-Modal Support**: Supports vision-language models (VLMs) alongside traditional text-based parsing, enabling evaluation across diverse document types (text, tables, images).
+- **Integration Ready**: Compatible with LlamaIndex and other document AI pipelines, facilitating reproducible benchmarking for
 
 ## Use Cases
 

@@ -4,20 +4,20 @@ This index groups resources by direct developer use-cases and design goals.
 ## Autonomous Coding & Agent Workflows
 
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/arxiv-2606-24429.md))
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/greensock-gsap-skills.md))
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/resources/github-github-mcp-server.md))
 - [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (Category: `mcp-registry` | [`Local File`](../../ai/resources/jlbadano-ig-mcp.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `mcp-registry` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `mcp-registry` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `mcp-registry` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/agents/sonarsource-sonarqube-mcp-server.md))
-- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (Category: `mcp-registry` | [`Local File`](../../ai/agents/aws-agent-toolkit-for-aws.md))
 
 ## Orchestrating Multi-Agent Logic
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
@@ -25,31 +25,31 @@ This index groups resources by direct developer use-cases and design goals.
 
 ## Document Knowledge base & Search (RAG)
 
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `rag-systems` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Category: `rag-systems` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `rag-systems` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `rag-systems` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `rag-systems` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `rag-systems` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `rag-systems` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `rag-systems` | [`Local File`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `rag-systems` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 
 ## Model Selection, Inference & Cost Profiling
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `model-providers` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `model-providers` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `observability` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `observability` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `observability` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `model-providers` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `model-providers` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `model-providers` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 
 ## Production Auditing & Prompt Injection Protection
 
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization](https://arxiv.org/abs/2606.25656) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-25656.md))
@@ -60,7 +60,7 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Category: `automation-workflows` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Category: `automation-workflows` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `automation-workflows` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [langgenius/dify](https://github.com/langgenius/dify) (Category: `automation-workflows` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [LlamaIndex · GitHub](https://github.com/run-llama/) (Category: `automation-workflows` | [`Local File`](../../ai/rag/llamaindex-github.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `automation-workflows` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [cli/cli](https://github.com/cli/cli#installation) (Category: `automation-workflows` | [`Local File`](../../ai/rag/cli-cli.md))
@@ -92,7 +92,7 @@ This index groups resources by direct developer use-cases and design goals.
 ## Curriculums & Reference Projects
 
 - [github/roadmap](https://github.com/github/roadmap) (Category: `learning-paths` | [`Local File`](../../ai/resources/github-roadmap.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `learning-paths` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
+- [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (Category: `learning-paths` | [`Local File`](../../ai/resources/dsa-tutorial-geeksforgeeks.md))
 - [Get Started - The Go Programming Language](https://go.dev/learn) (Category: `learning-paths` | [`Local File`](../../ai/resources/get-started-the-go-programming-language.md))
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (Category: `learning-paths` | [`Local File`](../../ai/rag/unity-essentials-pathway-learn-game-development-fo.md))
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 
 ---
-*Last updated: 2026-06-26 02:10 IST*
+*Last updated: 2026-06-26 04:33 IST*

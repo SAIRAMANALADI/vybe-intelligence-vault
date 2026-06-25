@@ -19,7 +19,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `NirDiamant/RAG_Techniques` provides Jupyter Notebook tutorials on advanced **Retrieval-Augmented Generation (RAG)** techniques, covering frameworks like **LangChain** and **LlamaIndex**, with implementations for **OpenAI**, **LLMs**, and **vector databases**.
-- **Key Topics**: Includes **agentic RAG**, **semantic search**, **embeddings**, **NLP**, and **machine learning** workflows, with a focus on optimizing **retrieval-augmented pipelines** for generative AI.
-- **Metadata**:
+*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques, including agentic RAG, via detailed Jupyter Notebook tutorials.
+*   Explores core RAG components such as embeddings, vector databases, and semantic search implementations.
+*   Leverages prominent LLM frameworks like Langchain and LlamaIndex for practical RAG system development.
 
 ## Use Cases
 

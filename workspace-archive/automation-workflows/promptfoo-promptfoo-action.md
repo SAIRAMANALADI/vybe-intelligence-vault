@@ -6,7 +6,7 @@ source_url: https://github.com/promptfoo/promptfoo-action
 resource_id: github:promptfoo/promptfoo-action
 local_vault_path: ai/rag/promptfoo-promptfoo-action.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 - workflows
 selection_reason:
@@ -30,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning for LLMs.
-
-- **Multi-Model Performance Comparison**: Supports benchmarking across LLMs (e.g., GPT, Claude, Gemini, Llama) with declarative configurations and CI/CD integration.
-
-- **TypeScript-Based Implementation**: Provides a TypeScript-based action for seamless integration with GitHub workflows, updated as of 2026-06-15.
+- **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems via GitHub Actions, supporting CI/CD pipelines with declarative configurations.
+- **Multi-Model Evaluation**: Facilitates performance comparison across LLM providers (e.g., GPT, Claude, Gemini, Llama) with AI red teaming and vulnerability scanning capabilities.
+- **TypeScript-Based**: Implemented in TypeScript, providing command-line and CI/CD compatibility for security-focused LLM testing and prompt e
 
 ## Use Cases
 

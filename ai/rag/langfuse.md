@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-06-24T20:49:09.476600+05:30'
-collected_at: '2026-06-24T20:49:09.476614+05:30'
+published_at: '2026-06-26T04:28:14.375303+05:30'
+collected_at: '2026-06-26T04:28:14.375311+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-06-24T20:49:09.476614+05:30'
-last_seen: '2026-06-24T20:49:09.476614+05:30'
-last_checked: '2026-06-24T20:49:09.476614+05:30'
+first_seen: '2026-06-26T04:28:14.375311+05:30'
+last_seen: '2026-06-26T04:28:14.375311+05:30'
+last_checked: '2026-06-26T04:28:14.375311+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption Metrics**: Deployed by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
+- **Adoption Metrics**: Used by 19 Fortune 500 companies, processing **10+ billion observations/month**, with **100,000+ engineers** leveraging the platform for AI agent development and observability.
 
-- **Core Capabilities**: Provides end-to-end LLM engineering observability via hierarchical traces, prompt management, LLM-as-a-judge evaluations, human annotation workflows, and cost/latency monitoring in a single integrated platform.
+- **Core Capabilities**: Provides **end-to-end LLM engineering workflow** with hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated platform.
 
-- **Multi-Framework Support**: Compatible with **100+ integrations** (e.g., LangChain, Vercel AI SDK, LiteLLM) and **multiple languages** (Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift) via OpenTelemetry instrumentation, with no framework lock-in.
+- **Multi-Language & Framework Support**: Compatible with **Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift** (via OpenTelemetry) and integrates with **100+ frameworks** (e.g., LangChain, Vercel AI SDK, LiteLLM) and **model providers** (e.g., OpenAI, Anthropic, Mistral AI, Google Gemini).
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:49:09.476600+05:30
+- Published: 2026-06-26T04:28:14.375303+05:30
 
 ## Related Tags
 

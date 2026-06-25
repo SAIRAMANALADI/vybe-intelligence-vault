@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-26T01:54:04.175184+05:30'
+collected_at: '2026-06-26T04:16:57.471702+05:30'
 published_at: '2026-06-25T14:30:57Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - meta-ai
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-26T01:54:04.175184+05:30'
-last_seen: '2026-06-26T01:54:04.175184+05:30'
-last_checked: '2026-06-26T01:54:04.175184+05:30'
+first_seen: '2026-06-26T04:16:57.471702+05:30'
+last_seen: '2026-06-26T04:16:57.471702+05:30'
+last_checked: '2026-06-26T04:16:57.471702+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Covers full-stack RAG (Retrieval-Augmented Generation) implementation with Python, integrating frameworks like LangChain and LlamaIndex, and supporting multimodal inputs (text, images).
-
-- **Advanced Vector & Graph Databases**: Demonstrates integration with Milvus (vector DB) and Neo4j (graph DB) for efficient retrieval and structured knowledge representation.
-
-- **LLM & Embedding Optimization**: Focuses on optimizing large language models (e.g., DeepSeek, Kimi-K2) with embedding techniques and retrieval strategies for high-performance RAG applications.
+- **Comprehensive RAG Stack Guide**: Covers end-to-end development of Retrieval-Augmented Generation (RAG) applications, integrating frameworks like LangChain, LlamaIndex, and deep learning models (e.g., DeepSeek, Kimi-K2) with Python.
+- **Multi-Technology Integration**: Demonstrates hybrid retrieval systems combining vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings for enhanced context-aware LLM responses.
+- **Practical Implementation**: Provides hands-on tutorials and code examples for deploying scalable RAG pipelines, optimized for production environments with real-world datasets.
 
 ## Why It Matters
 

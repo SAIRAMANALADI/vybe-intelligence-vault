@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/about/security/
-published_at: '2026-06-25T23:00:30.793506+05:30'
-collected_at: '2026-06-25T23:00:30.793515+05:30'
+published_at: '2026-06-26T04:26:43.568690+05:30'
+collected_at: '2026-06-26T04:26:43.568697+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:security-model
-first_seen: '2026-06-25T23:00:30.793515+05:30'
-last_seen: '2026-06-25T23:00:30.793515+05:30'
-last_checked: '2026-06-25T23:00:30.793515+05:30'
+first_seen: '2026-06-26T04:26:43.568697+05:30'
+last_seen: '2026-06-26T04:26:43.568697+05:30'
+last_checked: '2026-06-26T04:26:43.568697+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) sources, with inline shortcodes requiring explicit trust. The `hugo server` is restricted to local development.
-
-- **Runtime Security**: Hugo enforces sandboxing via a virtual file system, read-only access for user-defined components, and strict control over external binaries (e.g., Asciidoctor). Arbitrary OS command execution is disabled by design.
-
-- **Dependency & Output Security**: Hugo uses Go modules with `go.sum` for dependency integrity checks. HTML output follows OWASP-aligned defaults, escaping untrusted data unless explicitly marked as safe via `safe` functions. Markdown rendering sanitizes unsafe content by default.
+- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) directories; `hugo server` is strictly for local development.
+- **Runtime Security**: Uses a virtual file system, read-only access, and controlled external binaries (e.g., Asciidoctor) with strict sandboxing; avoids arbitrary OS command execution.
+- **Dependency & Output Security**: Enforces checksum validation via `go.sum` for dependencies; sanitizes untrusted content by default (e.g., Markdown rendering) and provides `safe` functions for explicit trust marking.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:30.793506+05:30
+- Published: 2026-06-26T04:26:43.568690+05:30
 
 ## Related Tags
 

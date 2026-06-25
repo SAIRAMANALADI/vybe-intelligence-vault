@@ -6,7 +6,7 @@ source_url: https://github.com/HKUDS/RAG-Anything
 resource_id: github:hkuds/rag-anything
 local_vault_path: ai/rag/hkuds-rag-anything.md
 quality_score: 70
-archive_score: 75
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,8 +15,10 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 - youtube
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,18 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-Modal RAG Framework**: Unified Python-based framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with modular components for ingestion, retrieval, and generation.
-
-- **Modular Architecture**: Implements plug-and-play pipelines with customizable retrievers (e.g., dense/sparse), rerankers, and LLMs, enabling end-to-end optimization for diverse multi-modal datasets.
-
-- **Scalable & Extensible**: Optimized for large-scale multi-modal data with support for
+- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
+- **Modular Architecture**: Features plug-and-play components (e.g., encoders, retrievers, generators) with configurable pipelines for custom RAG workflows across modalities.
+- **Scalable & Efficient**: Optimized for large-scale multi-modal datasets with distributed indexing, vector search (FAISS/Weavia
 
 ## Use Cases
 

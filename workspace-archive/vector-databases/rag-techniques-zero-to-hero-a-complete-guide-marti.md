@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -22,7 +22,6 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -31,19 +30,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata) optimize performance and cost.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriting, caching, and orchestration layers enhance precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), cross-encoder rerankers (precision-focused), and multi-hop/query decomposition improve recall/precision; ANN indexes (HNSW/IVF) enable scalable vector search.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) optimize retrieval coherence; embeddings (off-the-shelf or fine-tuned) must balance dimensionality, normalization, and modality support (multilingual/multimodal).
 
-- **Context Optimization & Training**:
+- **Advanced Retri
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/embeddings-benchmark/mteb
 resource_id: github:embeddings-benchmark/mteb
 local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- leaderboard
 - python
 - rag
 selection_reason:
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, and reranking, supporting multilingual and multimodal scenarios.
+- **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks (e.g., retrieval, clustering, classification) and modalities (text, multimodal), supporting multilingual and low-resource NLP scenarios.
 
-- **Task Coverage**: Includes 58 datasets spanning 112 languages, with tasks like bitext mining, semantic textual similarity (STS), and low-resource NLP, enabling comprehensive performance assessment of embedding models.
+- **Task Coverage**: Includes 58 datasets spanning 11 task categories (e.g., semantic textual similarity, bitext mining, reranking) with standardized evaluation protocols for reproducibility.
 
-- **Integratio
+- **Integration & Extensibility**: Compatible with Sentence-BE
 
 ## Use Cases
 

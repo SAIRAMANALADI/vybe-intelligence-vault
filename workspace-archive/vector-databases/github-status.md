@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking.
-- **Notification Systems**: Supports email, SMS (via reCAPTCHA-protected OTP), Slack, and webhook-based incident notifications for GitHub service disruptions.
-- **Regional Status Endpoints**: Offers dedicated status pages for GitHub Enterprise Cloud regions (Australia, EU, Japan, US) with historical uptime data.
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (90-day) and incident reporting.
+- **Incident Management**: Documents resolved/ongoing incidents (e.g., degraded Webhooks/PRs on June 25, 2026; Copilot model disruptions) with root causes (e.g., configuration errors, upstream provider failures) and mitigation steps.
+- **Notification Systems**: Supports multi-channel incident alerts via e
 
 ## Use Cases
 

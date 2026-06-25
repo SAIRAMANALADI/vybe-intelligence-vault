@@ -18,10 +18,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [LlamaIndex · GitHub](https://github.com/run-llama/)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -29,9 +29,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [cli/cli](https://github.com/cli/cli#installation)
 - **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
@@ -48,11 +48,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
-- **Category**: `ai/agents` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`how-to-contribute-contributing-to-godot.md`](../../ai/rag/how-to-contribute-contributing-to-godot.md)
@@ -66,6 +61,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Nonresident Supplemental Tuition Exemptions | Registrar’s Office](https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions)
 - **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`nonresident-supplemental-tuition-exemptions-regist.md`](../../ai/resources/nonresident-supplemental-tuition-exemptions-regist.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Visual Studio product family documentation | Microsoft Learn](https://learn.microsoft.com/visualstudio)
+- **Category**: `ai/resources` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`visual-studio-product-family-documentation-microso.md`](../../ai/resources/visual-studio-product-family-documentation-microso.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-26 02:10 IST*
+*Last updated: 2026-06-26 04:33 IST*

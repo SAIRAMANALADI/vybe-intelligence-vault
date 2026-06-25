@@ -1,46 +1,44 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 89
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
 tags:
 - agents
-- github-repo
-- mdx
-- models
-- openai
+- anthropic
 - rag
+- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 89 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, multimodal systems, and conversational workflows.
+- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.7k GitHub stars** and **2.9k forks**.
 
-- **Context-Engineered Design**: Optimized for semantic search, question-answering, and summarization, leveraging transformers and PyTorch for advanced NLP and information retrieval tasks.
+- **Recent discussions** include debugging retrieval failures, a **diagnostics engine** for RAG pipelines, and **agent memory guard** for security against poisoning attacks.
 
-- **Production-Ready Features**: Supports agent workfl
+- **Community tools** like `cowork-to-code-bridge` for async execution and proposals for **Python CLI diagnostics** (`python -m haystack info`) are be
 
 ## Use Cases
 
@@ -50,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

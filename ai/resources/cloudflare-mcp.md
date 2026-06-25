@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp
-collected_at: '2026-06-25T22:59:28.138621+05:30'
+collected_at: '2026-06-26T04:22:14.429703+05:30'
 published_at: '2026-06-25T15:55:21Z'
 tags:
 - github-repo
+- scripts
 - typescript
 stars: 572
 language: TypeScript
@@ -17,9 +18,9 @@ archived: false
 created_at: '2026-01-29T15:10:49Z'
 pushed_at: '2026-06-22T15:47:30Z'
 resource_id: github:cloudflare/mcp
-first_seen: '2026-06-25T22:59:28.138621+05:30'
-last_seen: '2026-06-25T22:59:28.138621+05:30'
-last_checked: '2026-06-25T22:59:28.138621+05:30'
+first_seen: '2026-06-26T04:22:14.429703+05:30'
+last_seen: '2026-06-26T04:22:14.429703+05:30'
+last_checked: '2026-06-26T04:22:14.429703+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API, enabling interactions with Cloudflare Workers and other Cloudflare services via the MCP (Model Context Protocol) standard.
-
-- **Key features** include dynamic resource discovery, structured command execution, and real-time API integration for Cloudflare's platform (e.g., Workers, DNS, R2, KV).
-
-- **Repository status**: Actively maintained (last update: 2026-06-25), with 572 stars and 67 forks, indicating community adoption and ongoing development.
+- **TypeScript-based MCP server** providing programmatic access to Cloudflare's API, enabling automation of Cloudflare Workers and other Cloudflare services.
+- **Integrates with MCP (Model Context Protocol)** to facilitate structured interactions between AI models and Cloudflare's infrastructure.
+- **Last updated June 2026**, reflecting ongoing maintenance and potential support for Cloudflare's latest API features and MCP standards.
 
 ## Why It Matters
 

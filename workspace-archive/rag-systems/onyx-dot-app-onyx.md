@@ -13,9 +13,12 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
+- mistral
+- models
 - openai
 - python
 - rag
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI platform supporting integration with any large language model (LLM) via standardized APIs, enabling flexible deployment across diverse AI backends.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM) via modular backend architecture, enabling seamless switching between providers (e.g., OpenAI, Mistral, local LLMs).
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search for enterprise-grade information retrieval and context-aware AI responses.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search (e.g., FAISS, Chroma) for enterprise-grade information retrieval and context-aware responses.
 
-- **Next.js + Python Stack**: Hybrid frontend (Next.js) and backend (Python) architecture with self-hosting cap
+- **Full-Stack Architecture**: Combines Next.js fr
 
 ## Use Cases
 

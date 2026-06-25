@@ -16,7 +16,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: Combines FastAPI (backend) and Next.js (frontend) with AI agents, RAG, streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
+- **Tech Stack**: Pre-configured full-stack template with FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker for containerization, supporting Python and TypeScript.
 
-- **Key Features**: Pre-configured PostgreSQL database, WebSocket support, Docker deployment, and modular agent frameworks (e.g., CrewAI, LangChain) for scalable AI workflows.
+- **AI Features**: Built-in AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG (Retrieval-Augmented Generation), real-time streaming via WebSocket, and 20+ integrations (e.g., LLM APIs).
 
-- **Architecture**: TypeScript (frontend) + Python (backend) with Pydantic validation, real-time streaming, and built-in RAG (Ret
+- **DevOps & Auth**: Includes authentication, Pydantic-Deep for data validation, and pre-integrated tools
 
 ## Use Cases
 

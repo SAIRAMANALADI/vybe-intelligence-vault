@@ -3,17 +3,17 @@ title: Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha docum
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.jupyter.org
-published_at: '2026-06-25T20:52:04.098640+05:30'
-collected_at: '2026-06-25T20:52:04.098655+05:30'
+source_url: https://docs.jupyter.org/en/latest/#what-is-a-notebook
+published_at: '2026-06-26T04:27:13.700563+05:30'
+collected_at: '2026-06-26T04:27:13.700570+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-25T20:52:04.098655+05:30'
-last_seen: '2026-06-25T20:52:04.098655+05:30'
-last_checked: '2026-06-25T20:52:04.098655+05:30'
+first_seen: '2026-06-26T04:27:13.700570+05:30'
+last_seen: '2026-06-26T04:27:13.700570+05:30'
+last_checked: '2026-06-26T04:27:13.700570+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
+- **Jupyter Ecosystem**: A modular framework comprising interactive notebooks (e.g., JupyterLab, Jupyter Notebook) for code execution, visualization, and documentation, centered around the IPython kernel and Jupyter Messaging Protocol (`jupyter-client`).
 
-- **Core components**: Includes Jupyter Notebook (lightweight), JupyterLab (feature-rich IDE-like interface), kernels (e.g., IPython, IRkernel, IJulia), and tools for notebook lifecycle management (nbconvert, nbclient, nbformat).
+- **Sub-Projects & Kernels**: Includes specialized tools like `nbconvert` (notebook conversion), `nbgrader` (grading), and kernels for multiple languages (e.g., IRkernel for R, IJulia for Julia), with extensible architecture via `traitlets` and `ipywidgets`.
 
-- **Sub-projects & deployment**: Encompasses JupyterHub (multi-user server), nbgrader (grading), Voilà (dashboarding), widgets (ipywidgets), and deployment options like Docker/Kubernetes via Jupyter Enterprise Gateway.
+- **Deployment & Community**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and fosters open collaboration through governance, contributor guides, and resources like `Zero to JupyterHub` for cloud-based setups.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T20:52:04.098640+05:30
+- Published: 2026-06-26T04:27:13.700563+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.jupyter.org
+Original source: https://docs.jupyter.org/en/latest/#what-is-a-notebook

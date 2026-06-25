@@ -6,15 +6,13 @@ source_url: https://github.com/continuedev/continue
 resource_id: github:continuedev/continue
 local_vault_path: ai/agents/continuedev-continue.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: workflow
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - typescript
 - workflows
 selection_reason:
@@ -27,19 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Open-source AI Coding Agent**: Continue is an autonomous coding assistant built with TypeScript, enabling AI-driven code generation, debugging, and refactoring via CLI and IDE integrations.
-
-- **Modular Architecture**: Supports extensible plugins for custom models, tools, and workflows, facilitating integration with local/remote LLMs (e.g., GitHub Models, Ollama, vLLM).
-
-- **Multi-IDE Compatibility**: Provides seamless integration with VS Code, JetBrains, and other editors, offering real-tim
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous code generation, refactoring, and debugging via natural language prompts.
+- **CLI-driven workflow** integrates with IDEs (VS Code, JetBrains) to provide real-time AI assistance, context-aware completions, and multi-file edits.
+- **Extensible plugin architecture** supports custom models (e.g., LLMs), tools, and workflows for enterprise-grade developer tooling.
 
 ## Use Cases
 

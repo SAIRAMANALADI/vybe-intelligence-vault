@@ -12,20 +12,20 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Apple Watch - Apple](https://www.apple.com/watch/) (tutorial - USEFUL Tier)
 - [Developer Hub | Twilio](https://www.twilio.com/en-us/developers) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
+- [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases) (dataset - USEFUL Tier)
 - [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills) (benchmark - USEFUL Tier)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (template - USEFUL Tier)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
+- [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases)
 - [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
-- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-06-26 02:10 IST*
+*Last updated: 2026-06-26 04:33 IST*

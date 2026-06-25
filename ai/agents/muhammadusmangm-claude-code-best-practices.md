@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-06-26T01:56:54.421645+05:30'
+collected_at: '2026-06-26T04:19:47.589908+05:30'
 published_at: '2026-06-24T15:23:13Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 stars: 55
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-06-26T01:56:54.421645+05:30'
-last_seen: '2026-06-26T01:56:54.421645+05:30'
-last_checked: '2026-06-26T01:56:54.421645+05:30'
+first_seen: '2026-06-26T04:19:47.589908+05:30'
+last_seen: '2026-06-26T04:19:47.589908+05:30'
+last_checked: '2026-06-26T04:19:47.589908+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily Shell-based repository with resources for agentic AI, MCP (Model Context Protocol), CLI tools, and integration with Anthropic's LLM frameworks.
-- **Last Updated**: Repository last updated on **2026-06-24**, with 55 stars and 10 forks, indicating active maintenance and community engagement.
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell scripts with topics covering **agentic AI**, **Anthropic's Claude**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** workflows.
+- **Metadata**: 55 stars, 10 forks, last updated **2026-06-24**; serves as a curated resource for developers optimizing AI-driven coding workflows.
 
 ## Why It Matters
 

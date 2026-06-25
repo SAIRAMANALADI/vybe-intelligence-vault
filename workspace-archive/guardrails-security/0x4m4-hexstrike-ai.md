@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **MCP Server for AI Agents**: HexStrike AI provides an MCP server enabling AI agents (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for automated penetration testing, vulnerability discovery, bug bounty automation, and security research.
+- **MCP Server Integration**: HexStrike AI MCP Agents is a Python-based MCP server enabling AI agents (e.g., Claude, GPT, Copilot) to autonomously execute **150+ cybersecurity tools** for automated pentesting, vulnerability discovery, bug bounty automation, and security research.
 
-- **LLM Integration**: Bridges large language models (LLMs) with real-world offensive security capabilities, facilitating seamless interaction between AI-driven decision-making and practical security tooling.
+- **Offensive Security Automation**: Bridges LLMs with real-world offensive security capabilities, facilitating **Kali Linux tool integration** and CTF automation via structured MCP tooling.
 
-- **Python-Bas
+- **High-Activity Reposito
 
 ## Use Cases
 

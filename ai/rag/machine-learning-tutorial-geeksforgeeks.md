@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/machine-learning/machine-learning/
-published_at: '2026-06-25T23:00:16.099583+05:30'
-collected_at: '2026-06-25T23:00:16.099589+05:30'
+published_at: '2026-06-26T04:22:22.216967+05:30'
+collected_at: '2026-06-26T04:22:22.216975+05:30'
 tags:
 - agents
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:machine-learning-tutorial-geeksforgeeks
-first_seen: '2026-06-25T23:00:16.099589+05:30'
-last_seen: '2026-06-25T23:00:16.099589+05:30'
-last_checked: '2026-06-25T23:00:16.099589+05:30'
+first_seen: '2026-06-26T04:22:22.216975+05:30'
+last_seen: '2026-06-26T04:22:22.216975+05:30'
+last_checked: '2026-06-26T04:22:22.216975+05:30'
 health_score: 100
 ---
 
@@ -29,14 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Core ML Paradigms**: Supervised learning (labeled data for prediction/classification), unsupervised learning (pattern discovery in unlabeled data via clustering/dimensionality reduction), and reinforcement learning (trial-and-error optimization via reward maximization).
+- **Core ML Types**: Supervised learning (labeled data, classification/regression), unsupervised learning (unlabeled data, clustering/dimensionality reduction), and reinforcement learning (trial-and-error, reward maximization); additional types include self-supervised and semi-supervised learning.
 
-- **Key Algorithms**:
-  - *Supervised*: Linear/logistic regression, decision trees, SVM, k-NN, Naïve Bayes, Random Forest (ensemble bagging).
-  - *Unsupervised*: K-means (centroid-based), hierarchical/DBSCAN (density-based), PCA/t-SNE (dimensionality reduction), Apriori (association rules).
-  - *Reinforcement*: Q-learning, Deep Q-Networks (DQN), policy gradient methods.
+- **Supervised Learning Algorithms**: Linear regression (predictive modeling), logistic regression (binary classification), decision trees (flowchart-based decisions), SVM (optimal separating hyperplanes), k-NN (instance-based classification), Naïve Bayes (probabilistic classification), and ensemble methods like Random Forest (bagging) and boosting.
 
-- **Pipeline Components**: Data preprocessing (cleaning, scaling, feature engineering), exploratory data analysis (EDA), model evaluation (cross-validation, AUC-ROC, hyperparameter tuning), and ensemble methods (bagging/boosting for improved generalization).
+- **Unsupervised Learning Techniques**: Clustering (K-Means, DBSCAN, hierarchical), dimensionality reduction (PCA, t-SNE, LLE), and association rule mining (Apriori, FP-Growth) for pattern discovery in transactional data.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:16.099583+05:30
+- Published: 2026-06-26T04:22:22.216967+05:30
 
 ## Related Tags
 

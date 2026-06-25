@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alfredodeza/azure-rag
-collected_at: '2026-06-26T01:54:54.218437+05:30'
+collected_at: '2026-06-26T04:17:47.508626+05:30'
 published_at: '2026-04-23T18:04:11Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-12-26T16:03:29Z'
 pushed_at: '2024-01-03T12:16:36Z'
 resource_id: github:alfredodeza/azure-rag
-first_seen: '2026-06-26T01:54:54.218437+05:30'
-last_seen: '2026-06-26T01:54:54.218437+05:30'
-last_checked: '2026-06-26T01:54:54.218437+05:30'
+first_seen: '2026-06-26T04:17:47.508626+05:30'
+last_seen: '2026-06-26T04:17:47.508626+05:30'
+last_checked: '2026-06-26T04:17:47.508626+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating document retrieval with generative AI models.
-- **Implementation**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI for generation.
-- **Updates**: Last modified on April 23, 2026, with 53 stars and 226 forks.
+- **Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with Azure Cognitive Search and Azure OpenAI for contextual response generation.
+
+- **Architecture**: Leverages Python with Azure SDKs (e.g., `azure-search-documents`, `azure-ai-openai`) to process documents, embed queries, and retrieve augmented responses from a vectorized knowledge base.
+
+- **Deployment**: Example includes infrastructure-as-code (IaC) templates (likely Bicep/ARM) for provisioning Azure resources (e.g., Azure OpenAI, Cognitive Search, Storage) and a sample FastAPI application for endpoint exposure.
 
 ## Why It Matters
 

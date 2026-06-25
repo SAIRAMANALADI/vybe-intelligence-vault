@@ -20,12 +20,12 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
+- [continuedev/continue](https://github.com/continuedev/continue)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [Azure/GenAIOps-project-template](https://github.com/Azure/GenAIOps-project-template)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-26 02:10 IST*
+*Last updated: 2026-06-26 04:33 IST*

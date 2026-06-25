@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - meta-ai
 - models
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refreshes to incorporate new documents without full re-indexing.
-- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for evaluating retrieval accuracy, LLM response quality, and end-to-end pipeline robustness.
+- **Local LLM Integration**: Demonstrates a RAG pipeline using local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
+- **Dynamic Database Updates**: Implements a mechanism to refresh vector embeddings and document stores (e.g., ChromaDB) when new data is added.
+- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) to assess retrieval quality, answer correctness, and latency metrics.
 
 ## Use Cases
 

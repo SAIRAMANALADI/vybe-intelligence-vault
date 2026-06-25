@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-26T01:55:34.492760+05:30'
+collected_at: '2026-06-26T04:18:27.535770+05:30'
 published_at: '2026-06-25T03:51:18Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 - reddit
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-26T01:55:34.492760+05:30'
-last_seen: '2026-06-26T01:55:34.492760+05:30'
-last_checked: '2026-06-26T01:55:34.492760+05:30'
+first_seen: '2026-06-26T04:18:27.535770+05:30'
+last_seen: '2026-06-26T04:18:27.535770+05:30'
+last_checked: '2026-06-26T04:18:27.535770+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated outputs while maintaining high retrieval relevance.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases to manipulate LLM outputs.
 
-- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversarial documents are crafted to exploit RAG’s retrieval and generation pipeline, ensuring target misinformation is retrieved and prioritized during inference without altering the LLM’s weights.
+- **Knowledge Corruption Mechanism**: Demonstrates how adversaries can inject malicious documents into RAG pipelines, causing LLMs to generate incorrect or harmful responses while maintaining high retrieval confidence.
 
-- **Evaluation & Impact**: Validated on multiple RAG benchmarks (e.g., KILT, MS MARCO), showing up to **90% attack success rate** in inducing incorrect or biased responses while evading detection, highlighting critical vulnerabilities in trustworthy AI deployments.
+- **Evaluation & Mitigations**: Validates attack efficacy on multiple RAG benchmarks, proposes detection/defense strategies, and highlights vulnerabilities in current trustworthy AI frameworks.
 
 ## Why It Matters
 

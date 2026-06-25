@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform Sandboxing**: Provides isolated, reproducible environments for training/evaluating AI agents across macOS, Linux, and Windows using containerization and virtualization (e.g., Apple's Virtualization Framework, Windows Sandbox).
-- **Agent Development SDK**: Offers tools (e.g., Swift/HTML-based APIs) to build and benchmark Computer-Use Agents (CUAs) capable of full desktop automation and interaction.
-- **Benchmarking & Integration**: Includes standardized tasks and metrics for ev
+- **Multi-OS Agent Framework**: Provides open-source infrastructure for training and evaluating AI agents capable of full desktop control across macOS, Linux, and Windows via sandboxes, SDKs, and benchmarks.
+
+- **Virtualization & Sandboxing**: Implements containerization and virtualization (e.g., Windows Sandbox, macOS Virtualization Framework) to safely isolate agent interactions with desktop environments.
+
+- **Cross-Platform Tooling**: Supports development in Swift (macOS), HTML (web interface
 
 ## Use Cases
 

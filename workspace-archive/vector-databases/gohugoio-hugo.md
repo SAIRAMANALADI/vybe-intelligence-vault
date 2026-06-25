@@ -6,7 +6,7 @@ source_url: https://github.com/gohugoio/hugo/releases
 resource_id: github:gohugoio/hugo
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - scripts
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Active open-source repository
 ---
 
@@ -28,19 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for `babel`/`postcss` config variants in resource processing.
+- **Hugo v0.163.3** introduces fixes for markup rendering (code block language escaping), parser preservation of non-ASCII whitespace, and expanded support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** resolves filesystem access errors (`ERR_ACCESS_DENIED`) in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **Hugo v0.163.2** resolves Node.js resolver access errors and standardizes external converter behavior when missing.
 
-- **Hugo v0.163.0** improves AVIF image handling by lowering default quality to 60, introduces per-forma
+- **Hugo v0.163.1** addresses security vulnerabilities (including Go’s `golang.org/x/image` updates) and fixes multi-segment rendering and symlink handling in filesy
 
 ## Use Cases
 

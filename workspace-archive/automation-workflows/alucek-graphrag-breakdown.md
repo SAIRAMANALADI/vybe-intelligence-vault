@@ -15,6 +15,7 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-*   Elucidates Retrieval-Augmented Generation (RAG) architectures enhanced by knowledge graphs.
-*   Provides detailed technical breakdowns, conceptual diagrams, and practical examples for GraphRAG implementation.
-*   Demonstrates GraphRAG mechanics and workflows primarily through Jupyter Notebooks.
+- **GraphRAG Architecture**: Provides a structured breakdown of Knowledge Graph Retrieval-Augmented Generation (KG-RAG), illustrating components like graph construction, query processing, and integration with LLMs via vector/graph retrieval.
+
+- **Visual & Practical Examples**: Includes Jupyter Notebook-based diagrams and case studies demonstrating end-to-end KG-RAG workflows, such as entity resolution, relationship extraction, and multi-modal retrieval strategies.
+
+- **Technical Implementation**
 
 ## Use Cases
 

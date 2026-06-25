@@ -4,22 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-06-26T01:54:24.221403+05:30'
-published_at: '2026-06-25T05:25:07Z'
+collected_at: '2026-06-26T04:17:17.437945+05:30'
+published_at: '2026-06-25T22:22:11Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 964
+stars: 965
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-06-26T01:54:24.221403+05:30'
-last_seen: '2026-06-26T01:54:24.221403+05:30'
-last_checked: '2026-06-26T01:54:24.221403+05:30'
+first_seen: '2026-06-26T04:17:17.437945+05:30'
+last_seen: '2026-06-26T04:17:17.437945+05:30'
+last_checked: '2026-06-26T04:17:17.437945+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based response generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector stores (e.g., FAISS, Chroma) for document indexing/retrieval.
-- **Modular Structure**: Includes components for document loading (e.g., PyPDFLoader), text splitting (RecursiveCharacterTextSplitter), embedding (e.g., HuggingFace embeddings), and retrieval-augmented QA chains.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with LLM-based generation.
+- **Python-Based**: Entirely implemented in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS, Chroma).
+- **Modular Design**: Includes components for document loading (e.g., PDFs, text), embedding generation (e.g., HuggingFace models), and retrieval-augmented QA chains.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 964
+- Stars: 965
 - Forks: 518
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T05:25:07Z
+- Last Updated: 2026-06-25T22:22:11Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

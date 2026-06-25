@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-06-26T01:55:39.298319+05:30'
+collected_at: '2026-06-26T04:18:32.552694+05:30'
 published_at: '2026-06-25T16:50:44Z'
 tags:
 - agents
@@ -13,6 +13,8 @@ tags:
 - openai
 - python
 - rag
+- scripts
+- workflows
 stars: 19093
 language: Python
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-06-19T15:32:08Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-06-26T01:55:39.298319+05:30'
-last_seen: '2026-06-26T01:55:39.298319+05:30'
-last_checked: '2026-06-26T01:55:39.298319+05:30'
+first_seen: '2026-06-26T04:18:32.552694+05:30'
+last_seen: '2026-06-26T04:18:32.552694+05:30'
+last_checked: '2026-06-26T04:18:32.552694+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for SQL generation, query execution, and data analysis without direct API exposure.
-
-- **Multi-Model & RAG Integration**: Supports retrieval-augmented generation (RAG) for private/local data processing, with security-focused architecture to mitigate data leakage risks in enterprise environments.
-
-- **Modular Python Architecture**: Extensible plugin system for agents, database connectors (e.g., MySQL, PostgreSQL), and custom LLMs, optimized for hacktoberfest contributions and scalable AI + data product deployment.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and workflow automation.
+- **Security & Privacy Focus**: Supports private, on-premises deployment with RAG (Retrieval-Augmented Generation) for secure, local data processing without cloud dependency.
+- **Modular Architecture**: Integrates agents, BGI (likely a custom component), and Python-based tooling for extensible data product development with hacktoberfest contributions.
 
 ## Why It Matters
 

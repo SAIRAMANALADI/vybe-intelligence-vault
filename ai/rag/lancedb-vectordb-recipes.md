@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-26T01:54:29.217062+05:30'
+collected_at: '2026-06-26T04:17:22.464657+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-26T01:54:29.217062+05:30'
-last_seen: '2026-06-26T01:54:29.217062+05:30'
-last_checked: '2026-06-26T01:54:29.217062+05:30'
+first_seen: '2026-06-26T04:17:22.464657+05:30'
+last_seen: '2026-06-26T04:17:22.464657+05:30'
+last_checked: '2026-06-26T04:17:22.464657+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides practical examples and tutorials for integrating vector search with LLMs, including multimodal AI (e.g., GPT-4 Vision) and Retrieval-Augmented Generation (RAG) workflows using LanceDB.
+- **Multimodal AI & RAG Integration**: Repository provides Jupyter Notebook-based examples and tutorials for combining vector search, LLMs, and multimodal AI (e.g., GPT-4 Vision) with frameworks like LangChain and LlamaIndex for Retrieval-Augmented Generation (RAG) applications.
 
-- **Agent & Pipeline Examples**: Demonstrates agent-based systems and end-to-end pipelines leveraging LangChain, LlamaIndex, and OpenAI APIs for tasks like fine-tuning, embeddings generation, and vector database operations.
+- **Vector Database Focus**: Demonstrates practical implementations using LanceDB as the vector database, covering embeddings, fine-tuning, and agent-based workflows for AI-driven applications.
 
-- **Technical Stack & Tools**: Focuses on deep-learning frameworks, vector databases (LanceDB), and Jupyter Notebooks to showcase multimodal AI, embeddings, and LLM integration for scalable AI applications.
+- **Toolchain & Ecosystem**: Highlights integration with OpenAI models, deep learning techniques, and tools for machine learning pipelines, emphasizing multimodal data processing and agentic systems.
 
 ## Why It Matters
 

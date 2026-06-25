@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-agents-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Deep Agents overview - Docs by LangChain
@@ -31,18 +31,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends), filesystem permissions (declarative access control), code execution (sandboxed shell & JS interpreter), and streaming (typed event streams for real-time monitoring).
+- **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control via glob patterns), code execution (sandboxed shell & JS interpreter), and streaming (typed event streams for real-time monitoring).
 
-- **Context Management**: Integrates skills, memory, summarization, context offloading, and prompt caching for scalable, long-running tasks with efficient context handling.
-
-- **Delegation & Steering**: Enables task p
+- **Context Management**: Integrates skills, memory, summarization, context offloading, and prompt caching to handle growing context efficiently, enabl
 
 ## Use Cases
 

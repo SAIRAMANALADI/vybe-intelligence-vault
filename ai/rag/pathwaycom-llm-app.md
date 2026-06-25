@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pathwaycom/llm-app
-collected_at: '2026-06-26T01:54:44.257807+05:30'
+collected_at: '2026-06-26T04:17:37.494327+05:30'
 published_at: '2026-06-25T19:10:41Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
+- openai
 - rag
+- workflows
 stars: 59237
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-07-19T08:43:37Z'
 pushed_at: '2026-06-10T12:49:56Z'
 resource_id: github:pathwaycom/llm-app
-first_seen: '2026-06-26T01:54:44.257807+05:30'
-last_seen: '2026-06-26T01:54:44.257807+05:30'
-last_checked: '2026-06-26T01:54:44.257807+05:30'
+first_seen: '2026-06-26T04:17:37.494327+05:30'
+last_seen: '2026-06-26T04:17:37.494327+05:30'
+last_checked: '2026-06-26T04:17:37.494327+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** via Docker containers.
-- **Multi-source integration** supports live data feeds from **SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs**.
-- **Technical stack** includes **Jupyter Notebooks**, **vector databases**, **Hugging Face models**, and **LLM security/prompting** tools for **LLMOps** and **local LLM deployment**.
+- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search, supporting live data sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs.
+
+- **Multi-source integration**: Docker-friendly architecture ensures compatibility with Hugging Face, OpenAI, and local LLM deployments, with built-in support for vector databases, prompt engineering, and LLM security/ops (LLMOps).
+
+- **Real-time data processing**: Enables dynamic updates from structured/unstructured sources (e.g., APIs, databases) while maintaining low-latency retrieval for vector-indexed search and chatbot applications.
 
 ## Why It Matters
 

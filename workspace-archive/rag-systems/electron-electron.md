@@ -33,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration.
-- **Core architecture** combines a minimal Chromium distribution with Node.js bindings, exposing APIs for low-level system access (e.g., native modules, IPC).
-- **Performance-critical runtime** optimized via V8 engine, supporting ES6+ features and enabling native addon development through C++ bindings.
+- **C++ core** with bindings to JavaScript/TypeScript, providing low-level access to system APIs while abstracting platform-specific complexities.
+- **Electron Shell** encapsulates Chromium's rendering engine and Node.js runtime, enabling single-codebase deployment across Windows, macOS, and Linux.
 
 ## Use Cases
 

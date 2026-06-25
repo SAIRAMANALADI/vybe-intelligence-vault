@@ -2,14 +2,20 @@
 title: infiniflow/ragflow
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow?source=post_page
+source_url: https://github.com/infiniflow/ragflow
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
+tags:
+- agents
+- github-repo
+- go
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -21,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hybrid RAG-Engine**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with Agentic AI capabilities, enabling dynamic context augmentation for LLMs through structured workflows and tool orchestration.
+- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context handling, enabling dynamic retrieval, reasoning, and tool-use capabilities beyond traditional RAG systems.
 
-- **Multi-Modal Context Management**: Supports fine-grained context extraction, storage, and retrieval across diverse data modalities (text, structured/unstructured documents) with built-in preprocessing, chunking, and indexing pipelines.
-
-- **Scalable, Production-Grade Architec
+- **Context Engine with Multi-Modal Support**: Implements a sophisticated context management layer supporting structured/unstructured data (text, tables, images) with adaptive chunking, semantic indexing, and cross-modal retrieval for high
 
 ## Use Cases
 
@@ -42,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow?source=post_page
+Original source URL: https://github.com/infiniflow/ragflow
 
 ## Local Vault File
 

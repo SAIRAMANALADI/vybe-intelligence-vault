@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring `llms.txt` generation, structured crawling (Markdown/HTML), AI agent-based extraction, and deep research capabilities via REST APIs.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering structured document conversion (Markdown/HTML), agent-based data retrieval, and deep research capabilities via REST APIs for RAG pipeline data ingestion.
 
-- **LangChain**: Modular framework for RAG pipelines with 105k+ GitHub stars, offering model/embedding/vector store interfaces, retrieval components, evaluation tools, and ecosystem integrations (LangSmith/LangGraph) for chaining LLM workflows.
-
-- **Milvus**: High-
+- **LangChain**: Modular framework for LLM application development with 105k+ GitHub stars, providing data connectors, model flexibility, retrieval components, and evaluation tools for RAG implementations across diverse vector stores and model providers.
 
 ## Use Cases
 

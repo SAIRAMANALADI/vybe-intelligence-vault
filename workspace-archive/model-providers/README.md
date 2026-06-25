@@ -8,7 +8,7 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 
 ## Top Matched Resources
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (benchmark - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
@@ -21,7 +21,7 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [langgenius/dify](https://github.com/langgenius/dify)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-26 02:09 IST*
+*Last updated: 2026-06-26 04:33 IST*

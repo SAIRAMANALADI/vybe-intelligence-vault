@@ -15,6 +15,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated on **2026-06-22**.
-- **Technical Scope**: Provides curated guidelines and implementations for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and integration with LLMs.
-- **Repository Metrics**: 92 stars, 10 forks, and no additional topics specified.
+- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on best practices for **Retrieval-Augmented Generation (RAG)** with large language models (LLMs), last updated June 22, 2026.
+- **Key Focus**: Implements techniques for optimizing **retrieval-augmented generation** workflows, including indexing, chunking, and prompt engineering strategies.
+- **Scalability & Performance**: Designed for efficient integration with LLMs, emphasizing **low-latency retrieval** and
 
 ## Use Cases
 

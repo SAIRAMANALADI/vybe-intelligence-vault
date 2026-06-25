@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-06-26T01:57:04.392703+05:30'
+collected_at: '2026-06-26T04:19:57.672434+05:30'
 published_at: '2026-06-25T18:28:58Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - python
+- workflows
 stars: 1439
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-06-25T17:13:21Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-06-26T01:57:04.392703+05:30'
-last_seen: '2026-06-26T01:57:04.392703+05:30'
-last_checked: '2026-06-26T01:57:04.392703+05:30'
+first_seen: '2026-06-26T04:19:57.672434+05:30'
+last_seen: '2026-06-26T04:19:57.672434+05:30'
+last_checked: '2026-06-26T04:19:57.672434+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with a structured, multi-domain framework.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and language model agents with a structured, multi-domain task framework.
 
-- **Technical Scope**: Implemented in Python, the benchmark includes 1,439+ stars and 368+ forks, emphasizing tool integration, agent decision-making, and user interaction fidelity in dynamic environments.
+- **Technical Scope**: Implemented in Python, the benchmark includes 1439+ stars and 368+ forks, emphasizing LLM-driven agent performance in dynamic, multi-turn tool-use scenarios.
 
-- **Evaluation Metrics**: Measures performance via task completion, interaction efficiency, and adaptability, providing standardized metrics for comparing LLM-agent systems in practical scenarios.
+- **Evaluation Metrics**: Measures agent adaptability, tool integration efficiency, and user interaction quality in complex, domain-specific workflows, updated as of June 2026.
 
 ## Why It Matters
 

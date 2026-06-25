@@ -13,6 +13,7 @@ importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - workflows
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **ColBERT Integration**: Provides a modular, Python-based framework for integrating late-interaction retrieval methods (ColBERT) into RAG pipelines with minimal overhead.
-- **Training & Inference**: Supports both training and inference workflows for ColBERT models, optimized for modularity and ease of integration.
-- **Research-Backed**: Built on state-of-the-art retrieval techniques, ensuring high performance in document search and ranking tasks.
+- **ColBERT Integration**: Facilitates seamless deployment and fine-tuning of ColBERT, a late-interaction retrieval model, within Retrieval-Augmented Generation (RAG) pipelines via a modular Python framework.
+
+- **Modular Design**: Optimized for flexibility, enabling customization of retrieval components while maintaining compatibility with existing RAG architectures and workflows.
+
+- **Research-Backed**: Leverages state-of-the-art late-interaction retrieval techniques, ensuring high-performance
 
 ## Use Cases
 

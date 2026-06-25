@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-26T01:55:09.311781+05:30'
+collected_at: '2026-06-26T04:18:02.536726+05:30'
 published_at: '2026-06-24T11:17:14Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 4358
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-26T01:55:09.311781+05:30'
-last_seen: '2026-06-26T01:55:09.311781+05:30'
-last_checked: '2026-06-26T01:55:09.311781+05:30'
+first_seen: '2026-06-26T04:18:02.536726+05:30'
+last_seen: '2026-06-26T04:18:02.536726+05:30'
+last_checked: '2026-06-26T04:18:02.536726+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM & RAG System**: Course provides hands-on guidance for building production-ready large language model (LLM) and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **End-to-End LLM/RAG System**: Provides a production-ready framework for building **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** systems using **LLMOps best practices**, including source code and 12 hands-on lessons.
 
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Qdrant (vector DB), Bytewax (streaming), Comet-ML (experiment tracking), Qwak (MLOps), and Docker for containerization, with integrations for MLOps and ML system design.
+- **Tech Stack & Tools**: Implements **Python-based infrastructure** with AWS, Docker, Pulumi (IaC), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform), while integrating **Bytewax** for stream processing.
 
-- **Course Structure**: Focuses on infrastructure-as-code, generative AI deployment, and scalable ML engineering, updated as of June 2026, with topics spanning LLMops, RAG, and system design.
+- **ML System Design Focus**: Covers **scalable ML system architecture**, **MLOps pipelines**, and **infrastructure-as-code (IaC)** for deploying LLMs and RAG systems, with emphasis on **superlinked** for semantic search optimization.
 
 ## Why It Matters
 

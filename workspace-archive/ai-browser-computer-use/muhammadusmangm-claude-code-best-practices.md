@@ -15,6 +15,7 @@ tags:
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily Shell-based repository with resources for agentic AI, MCP (Model Context Protocol), CLI tools, and integration with Anthropic's LLM frameworks.
-- **Last Updated**: Repository last updated on **2026-06-24**, with 55 stars and 10 forks, indicating active maintenance and
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell scripts with topics covering **agentic AI**, **Anthropic's Claude**, **CLI tools**, **LLM integration**, and **MCP (Model Context Protocol)** workflows.
+- **Metadata**: 55 stars, 10 forks, last upda
 
 ## Use Cases
 

@@ -39,7 +39,7 @@ selection_reason:
 
 - **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
 
-- **Commercial & Extensible Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters
+- **Commercial & OSS Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters, Agent
 
 ## Use Cases
 

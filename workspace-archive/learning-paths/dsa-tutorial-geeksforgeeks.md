@@ -1,0 +1,52 @@
+---
+title: DSA Tutorial - GeeksforGeeks
+archive_category: learning-paths
+source_category: ai/resources
+source_url: https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
+resource_id: blog:dsa-tutorial-geeksforgeeks
+local_vault_path: ai/resources/dsa-tutorial-geeksforgeeks.md
+quality_score: 70
+archive_score: 82
+archive_tier: useful
+resource_kind: benchmark
+importance: high
+tags:
+- benchmark
+- hackernews
+- reddit
+- web-crawled
+- youtube
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# DSA Tutorial - GeeksforGeeks
+
+## Why This Is In The Archive
+
+- Matched archive category: `Learning Paths`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Core DSA Fundamentals**: Covers essential data structures (arrays, linked lists, trees, heaps) and algorithms (binary search, quick sort, merge sort), with foundational topics like complexity analysis (Big-O, Θ, Ω), recursion, and pattern generation.
+- **Structured Learning Path**: Organized progression from basic programming constructs (I/O, loops, functions) to advanced topics (matrix traversals, circular subarrays, text justification), including 2D array manipulations (spiral traversal, T
+
+## Use Cases
+
+- AI developer roadmap
+- Webdev learning tracks
+- RAG systems path
+
+## Source
+
+Original source URL: https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/
+
+## Local Vault File
+
+Path: [dsa-tutorial-geeksforgeeks.md](../../ai/resources/dsa-tutorial-geeksforgeeks.md)

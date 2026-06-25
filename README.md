@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,306</p>
-        <p><b>Active:</b> 8,100 | <b>Inactive:</b> 206</p>
+        <p><b>Resources tracked:</b> 8,331</p>
+        <p><b>Active:</b> 8,124 | <b>Inactive:</b> 207</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 31,902</p>
+        <p><b>Archive Files:</b> 31,995</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 03:03 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 04:33 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+105 pts</kbd>
+- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+92 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](ai/community/decrazyo-anes.md)** • <kbd>+29 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[The annotated PyTorch training loop](ai/community/the-annotated-pytorch-training-loop.md)** • <kbd>+24 pts</kbd>
+- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+639</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[OpenAI Leans Toward Waiting Until Next Year for IPO](ai/community/openai-leans-toward-waiting-until-next-year-for-ip.md)** • Score: `48`
+- 🆕 **[Release History - The Go Programming Language](ai/resources/release-history-the-go-programming-language.md)** • Score: `0`
+- 🆕 **[cockroachdb/cockroach](ai/rag/cockroachdb-cockroach.md)** • Score: `0`
+- 🆕 **[go](ai/resources/go.md)** • Score: `0`
+- 🆕 **[Go Modules Reference - The Go Programming Language](ai/rag/go-modules-reference-the-go-programming-language.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Political bias in AI: Where the AI models stand](ai/community/political-bias-in-ai-where-the-ai-models-stand.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-06-26T01:57:14.443398+05:30'
-published_at: '2026-06-25T20:14:08Z'
+collected_at: '2026-06-26T04:20:07.673709+05:30'
+published_at: '2026-06-25T22:42:33Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 10648
+stars: 10665
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-06-25T00:23:50Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-06-26T01:57:14.443398+05:30'
-last_seen: '2026-06-26T01:57:14.443398+05:30'
-last_checked: '2026-06-26T01:57:14.443398+05:30'
+first_seen: '2026-06-26T04:20:07.673709+05:30'
+last_seen: '2026-06-26T04:20:07.673709+05:30'
+last_checked: '2026-06-26T04:20:07.673709+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-- **Python-Based**: Implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to identify security flaws.
-- **Open-Source Security Scanner**: Released under an open-source license (likely Apache 2.0), enabling integration into CI/CD pipelines for proactive security assessment of AI agent skills.
+- **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI-driven applications.
+- **Technical Details**: Implemented in Python, leveraging static and dynamic analysis techniques to evaluate AI agent skills for potential security threats.
+- **Repository Stats**: 10,665 stars, 856 forks, last updated on 2026-06-25.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 10648
-- Forks: 855
+- Stars: 10665
+- Forks: 856
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T20:14:08Z
+- Last Updated: 2026-06-25T22:42:33Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

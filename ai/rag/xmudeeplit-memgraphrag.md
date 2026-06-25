@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-26T01:55:59.331842+05:30'
+collected_at: '2026-06-26T04:18:52.574644+05:30'
 published_at: '2026-06-25T20:12:28Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 104
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-26T01:55:59.331842+05:30'
-last_seen: '2026-06-26T01:55:59.331842+05:30'
-last_checked: '2026-06-26T01:55:59.331842+05:30'
+first_seen: '2026-06-26T04:18:52.574644+05:30'
+last_seen: '2026-06-26T04:18:52.574644+05:30'
+last_checked: '2026-06-26T04:18:52.574644+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel RAG framework leveraging memory-augmented agents to enhance graph-based retrieval and generation, optimizing contextual relevance in KDD 2026 tasks.
+- **Memory-based Multi-Agent System**: Introduces a **KDD 2026** framework leveraging **memory-augmented agents** to enhance **Graph Retrieval-Augmented Generation (GraphRAG)** by dynamically storing and retrieving contextual knowledge via graph structures.
 
-- **Graph Construction & Ontology Integration**: Implements dynamic graph construction with ontology-driven schema to structure knowledge, enabling efficient multi-agent collaboration for complex query resolution.
+- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships between entities, enabling **multi-agent collaboration** for structured knowledge retrieval and reasoning.
 
-- **Python Implementation**: Provides an open-source Python-based system with modular components for agent-memory interaction, graph retrieval, and ontology alignment, supporting scalable deployment.
+- **Python Implementation**: Provides an open-source **Python-based** toolkit with **104 stars** and **16 forks**, supporting **graph-based RAG** workflows for scalable, memory-efficient multi-agent systems.
 
 ## Why It Matters
 

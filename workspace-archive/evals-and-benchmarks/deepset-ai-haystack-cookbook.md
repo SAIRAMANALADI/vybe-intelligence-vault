@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Repository of Jupyter Notebooks demonstrating practical applications of Haystack, an open-source framework for building search and question-answering systems.
-- **Content**: Includes examples for agentic AI, generative AI use cases, and Retrieval-Augmented Generation (RAG) pipelines using Haystack's Python-based tools.
-- **Metadata**: 545 stars, 126 forks, last updated June 24, 2026. Topics include agentic AI, generative AI, and Python-based RAG implementations.
+- **Content**: Examples cover agentic AI, generative AI use cases, retrieval-augmented generation (RAG), and Python-based implementations.
+- **Metadata**: 545 stars, 126 forks, last updated June 24, 2026.
 
 ## Use Cases
 

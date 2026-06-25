@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-25T22:55:17.930000+05:30'
-collected_at: '2026-06-25T22:55:17.930008+05:30'
+published_at: '2026-06-26T04:17:23.316430+05:30'
+collected_at: '2026-06-26T04:17:23.316436+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-06-25T22:55:17.930008+05:30'
-last_seen: '2026-06-25T22:55:17.930008+05:30'
-last_checked: '2026-06-25T22:55:17.930008+05:30'
+first_seen: '2026-06-26T04:17:23.316436+05:30'
+last_seen: '2026-06-26T04:17:23.316436+05:30'
+last_checked: '2026-06-26T04:17:23.316436+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: A 5-stage pipeline—**Load** (ingest documents), **Chunk** (split into retrieval-sized pieces), **Embed** (convert to vectors via `text-embedding-3-small`), **Retrieve** (semantic search with ChromaDB), and **Generate** (LLM synthesizes answer from retrieved context using `gpt-4o-mini`).
+- **RAG Pipeline**: Five-stage process—**load** (ingest documents via LangChain loaders), **chunk** (split using `RecursiveCharacterTextSplitter` with 512-token chunks and 50-token overlap), **embed/index** (convert chunks to vectors using OpenAI embeddings and store in ChromaDB), **retrieve** (embed query and fetch top-*k* semantically similar chunks via cosine similarity), **generate** (pass retrieved context to LLM with a structured prompt for grounded answers).
 
-- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** for vector storage, and **OpenAI’s embedding/Chat models**; retriever configured with `k=4` for top chunks; prompt template enforces grounded answers with citations.
+- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** as the vector store, and **OpenAI’s `text-embedding-3-small`** for embeddings; retriever configured with `search_kwargs={"k": 4}` for top-4 chunk retrieval; prompt template enforces strict context adherence with citation requirements.
 
-- **Production Enhancements**: **Re-ranking** via cross-encoder (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) improves retrieval precision; **RAGAS** framework evaluates faithfulness, relevancy, and context precision for optimization.
+- **Production Enhancements**: **Re-ranking** via `CrossEncoderReranker` (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) improves retrieval precision by re-scoring chunks in full query context; **evaluation** with RAGAS metrics (faithfulness, answer relevancy, context precision) ensures system reliability.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T22:55:17.930000+05:30
+- Published: 2026-06-26T04:17:23.316430+05:30
 
 ## Related Tags
 

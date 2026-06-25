@@ -6,7 +6,7 @@ source_url: https://langfuse.com
 resource_id: blog:langfuse
 local_vault_path: ai/rag/langfuse.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Deployed by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
+- **Adoption Metrics**: Used by 19 Fortune 500 companies, processing **10+ billion observations/month**, with **100,000+ engineers** leveraging the platform for AI agent development and observability.
 
-- **Core Capabilities**: Provides end-to-end LLM engineering observability via hierarchical traces, prompt management, LLM-as-a-judge evaluations, human annotation workflows, and cost/latency monitoring in a single integrated platform.
+- **Core Capabilities**: Provides **end-to-end LLM engineering workflow** with hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated platform.
 
-- **Multi-Framework Support**: Compatible with **100+ integrations** (e.g., LangChain, Ve
+- **Multi-Language & Framework Support**: Compat
 
 ## Use Cases
 

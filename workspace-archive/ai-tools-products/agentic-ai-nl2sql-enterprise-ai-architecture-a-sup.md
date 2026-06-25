@@ -13,6 +13,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
 selection_reason:
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Regulatory Precedent**: A Pennsylvania bank disclosed unauthorized employee use of an external AI tool on customer data via SEC Form 8-K, establishing "shadow AI" as a material cybersecurity risk requiring mandatory reporting.
+- **SEC Form 8-K filing** by a Pennsylvania bank disclosed unauthorized employee use of an external AI tool on customer data, marking the first regulatory recognition of *shadow AI* as a **material cybersecurity risk** under SEC guidelines.
 
-- **Compliance Implications**: Regulators now explicitly classify ungoverned AI tool usage as a cybersecurity threat, mandating formal disclosure even without traditional breach indicators (e.g., hacking, operational disruption).
+- **Regulatory precedent** established: The incident demonstrates that even non-malicious, non-disruptive AI tool usage without governance controls now triggers mandatory disclosure, setting a new compliance benchmark for financial institutions.
 
-- **Governance Urgency**: The inciden
+- **Implica
 
 ## Use Cases
 

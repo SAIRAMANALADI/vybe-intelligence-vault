@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.haystack.deepset.ai/docs/intro
-published_at: '2026-06-26T01:59:21.678747+05:30'
-collected_at: '2026-06-26T01:59:21.678756+05:30'
+published_at: '2026-06-26T04:26:33.010386+05:30'
+collected_at: '2026-06-26T04:26:33.010392+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:introduction-to-haystack-haystack-documentation
-first_seen: '2026-06-26T01:59:21.678756+05:30'
-last_seen: '2026-06-26T01:59:21.678756+05:30'
-last_checked: '2026-06-26T01:59:21.678756+05:30'
+first_seen: '2026-06-26T04:26:33.010392+05:30'
+last_seen: '2026-06-26T04:26:33.010392+05:30'
+last_checked: '2026-06-26T04:26:33.010392+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, customizable components and pipelines.
+- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-grade AI agents, RAG applications, and multimodal search systems using reusable, task-specific components and pipelines.
 
-- **Core Architecture**: Built on components, pipelines, document stores, agents, tools, and integrations (e.g., OpenAI, Hugging Face Transformers), enabling scalable LLM-based applications with modular flexibility.
+- **Multi-Provider Integration**: Supports modular integration with LLMs and tools from providers like OpenAI, Google, Anthropic, and open-source models (e.g., Hugging Face Transformers).
 
-- **Enterprise & Community Support**: Offers enterprise-grade deployment guidance (Haystack Enterprise Starter/Platform) alongside an active developer community for production-scale AI development.
+- **Enterprise Scalability**: Offers enterprise-grade support (Haystack Enterprise Starter/Platform) for production deployment, including data management, governance, and best practices.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:59:21.678747+05:30
+- Published: 2026-06-26T04:26:33.010386+05:30
 
 ## Related Tags
 

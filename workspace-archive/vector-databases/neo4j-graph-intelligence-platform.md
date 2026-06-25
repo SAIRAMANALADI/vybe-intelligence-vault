@@ -2,7 +2,7 @@
 title: Neo4j Graph Intelligence Platform
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://neo4j.org/resources/cypher
+source_url: http://neo4j.com/
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -29,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Ontology-driven semantic layers** enable structured, machine-readable knowledge representation by leveraging graph-based models (e.g., Neo4j) to define entities, relationships, and hierarchies for domain-specific applications.
+- **Ontology-Driven Semantic Layer**: Focuses on building a semantic layer using ontology to enhance data integration, interoperability, and contextual understanding in enterprise systems.
 
-- **Core components** include taxonomies, inference rules, and semantic mappings to unify disparate data sources, ensuring consistency and enabling advanced analytics, reasoning, and contextual querying.
+- **Core Components**: Emphasizes defining entities, relationships, and constraints within the ontology to model domain-specific knowledge for accurate semantic querying and reasoning.
 
-- **Implementation benefits** include improved data interoperab
+- **Technical Implementation**: Highlights leveraging graph databases (e.g., Neo4j) to efficiently store, traverse, and quer
 
 ## Use Cases
 
@@ -43,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://neo4j.org/resources/cypher
+Original source URL: http://neo4j.com/
 
 ## Local Vault File
 

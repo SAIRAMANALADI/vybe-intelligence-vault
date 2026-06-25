@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-26T01:57:19.451747+05:30'
+collected_at: '2026-06-26T04:20:12.675493+05:30'
 published_at: '2026-06-25T16:39:55Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-- scripts
 - workflows
 stars: 755
 language: Python
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-06-25T16:49:20Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-26T01:57:19.451747+05:30'
-last_seen: '2026-06-26T01:57:19.451747+05:30'
-last_checked: '2026-06-26T01:57:19.451747+05:30'
+first_seen: '2026-06-26T04:20:12.675493+05:30'
+last_seen: '2026-06-26T04:20:12.675493+05:30'
+last_checked: '2026-06-26T04:20:12.675493+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Governance Framework**: DefenseClaw provides a Python-based framework for enforcing security policies in agentic AI systems, ensuring compliance with governance standards through programmable controls.
+- **Security Governance Framework**: DefenseClaw provides a Python-based framework for enforcing security policies in agentic AI systems, ensuring compliance with governance requirements through programmable controls.
 
-- **Agentic AI Protection**: Implements runtime monitoring and mitigation techniques to detect and neutralize adversarial threats targeting autonomous AI agents, including prompt injection and unauthorized tool access.
+- **Agentic AI Protection**: Implements runtime monitoring and policy enforcement to mitigate risks such as unauthorized actions, data leakage, and adversarial exploits in AI-driven agents.
 
-- **Modular Design**: Offers extensible modules for policy enforcement, threat detection, and response automation, enabling integration with existing AI workflows and security infrastructures.
+- **Extensible Policy Engine**: Supports custom security policies via modular Python components, enabling integration with existing AI workflows and third-party security tools.
 
 ## Why It Matters
 

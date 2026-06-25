@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Deployed by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
+- **Adoption Metrics**: Used by 19 Fortune 500 companies, processing **10+ billion observations/month**, with **100,000+ engineers** leveraging the platform for AI agent development and observability.
 
-- **Core Capabilities**: Provides end-to-end LLM engineering observability via hierarchical traces, prompt management, LLM-as-a-judge evaluations, human annotation workflows, and cost/latency monitoring in a single integrated platform.
+- **Core Capabilities**: Provides **end-to-end LLM engineering workflow** with hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated platform.
 
-- **Multi-Framework Support**: Compatible with **100+ integrations** (e.g., LangChain, Ve
+- **Multi-Language & Framework Support**: Compat
 
 ## Use Cases
 

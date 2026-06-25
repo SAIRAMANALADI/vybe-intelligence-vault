@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-26T01:55:29.269032+05:30'
+collected_at: '2026-06-26T04:18:22.546078+05:30'
 published_at: '2026-06-25T09:47:53Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 423
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-26T01:55:29.269032+05:30'
-last_seen: '2026-06-26T01:55:29.269032+05:30'
-last_checked: '2026-06-26T01:55:29.269032+05:30'
+first_seen: '2026-06-26T04:18:22.546078+05:30'
+last_seen: '2026-06-26T04:18:22.546078+05:30'
+last_checked: '2026-06-26T04:18:22.546078+05:30'
 health_score: 100
 ---
 
@@ -30,14 +31,16 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise contexts.
+- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world business contexts.
 
 - **Key Features**:
-  - Synthetic data generation for enterprise knowledge bases.
-  - Evaluation metrics for information retrieval, semantic search, and QA tasks.
-  - Supports Python-based RAG pipelines with focus on internal document search.
+  - Synthetic data generation for diverse enterprise document types (e.g., contracts, emails, reports).
+  - Evaluation metrics for retrieval quality, answer correctness, and contextual relevance.
+  - Supports semantic search, hybrid retrieval, and multi-modal RAG pipelines.
 
-- **Scope**: Covers LLM evaluation, generative AI, and enterprise search, with tools for assessing retrieval quality and generative performance on sensitive corporate data.
+- **Technical Scope**:
+  - Includes Python-based tools for dataset curation, synthetic Q&A pair generation, and automated evaluation.
+  - Covers topics like hybrid search, LLM hallucination detection, and domain-specific knowledge integration.
 
 ## Why It Matters
 

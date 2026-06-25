@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework inspired by human cognitive memory structures, enabling efficient stateful long narrative reasoning via hierarchical memory modules.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or documents, leveraging episodic and semantic memory layers.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, leveraging hierarchical memory organization.
 
-- **AAAI 2026 Poster Submission**: Presents empirical evaluatio
+- **AAAI 2026 Poster Submission**: Presents empirical validation of the sy
 
 ## Use Cases
 

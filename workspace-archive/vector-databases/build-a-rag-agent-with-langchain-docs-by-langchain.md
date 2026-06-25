@@ -6,7 +6,7 @@ source_url: https://docs.langchain.com/oss/python/langchain/rag
 resource_id: blog:build-a-rag-agent-with-langchain-docs-by-langchain
 local_vault_path: ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -22,6 +22,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,15 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-*   RAG indexing pipelines ingest unstructured data by loading it into `Document` objects, chunking with `RecursiveCharacterTextSplitter`, embedding via an `Embeddings` model, and persisting in a `VectorStore` for efficient semantic retrieval.
-*   Retrieval involves embedding a user query and performing a similarity search against the `VectorStore` to fetch contextually relevant document splits, which are then passed to an
+- **RAG Pipeline**: LangChain implements Retrieval-Augmented Generation (RAG) via a two-phase process: **indexing** (loading, splitting, and storing documents in a vector store) and **retrieval-and-generation** (query-time retrieval of relevant context followed by LLM-based response synthesis).
+
+- **Agent/Chain Architectures**: Supports two query execution modes: (1) **RAG agents** (multi-step tool-based orchestration for complex queries) and (2) **RAG chains** (single LLM call per query for eff
 
 ## Use Cases
 

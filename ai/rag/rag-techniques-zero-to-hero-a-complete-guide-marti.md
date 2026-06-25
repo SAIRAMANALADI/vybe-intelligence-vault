@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-25T22:55:08.007613+05:30'
-collected_at: '2026-06-25T22:55:08.007626+05:30'
+published_at: '2026-06-26T04:17:12.978621+05:30'
+collected_at: '2026-06-26T04:17:12.978627+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-25T22:55:08.007626+05:30'
-last_seen: '2026-06-25T22:55:08.007626+05:30'
-last_checked: '2026-06-25T22:55:08.007626+05:30'
+first_seen: '2026-06-26T04:17:12.978627+05:30'
+last_seen: '2026-06-26T04:17:12.978627+05:30'
+last_checked: '2026-06-26T04:17:12.978627+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata) optimize performance and cost.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriting, caching, and orchestration layers enhance precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), cross-encoder rerankers (precision-focused), and multi-hop/query decomposition improve recall/precision; ANN indexes (HNSW/IVF) enable scalable vector search.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) optimize retrieval coherence; embeddings (off-the-shelf or fine-tuned) must balance dimensionality, normalization, and modality support (multilingual/multimodal).
 
-- **Context Optimization & Training**: Autocut/context trimming balances token budgets; retrieval-aware fine-tuning (LLMs + retrievers) and distillation reduce hallucinations; evaluation metrics span retrieval (nDCG/MRR) and generation (factuality/hallucination rate).
+- **Advanced Retrieval & Evaluation**: Hybrid retrieval (BM25 + vector) with ANN indexes improves recall; multi-hop/iterative retrieval and GraphRAG enable complex reasoning; evaluation metrics (precision/recall/MRR/nDCG) assess both retrieval and generation stages.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T22:55:08.007613+05:30
+- Published: 2026-06-26T04:17:12.978621+05:30
 
 ## Related Tags
 

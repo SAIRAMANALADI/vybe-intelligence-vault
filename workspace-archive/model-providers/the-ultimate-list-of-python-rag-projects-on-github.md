@@ -7,14 +7,13 @@ source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
 local_vault_path: ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- dataset
 - hackernews
 - meta-ai
 - models
@@ -32,19 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and improved LLM compatibility (e.g., Llama 3.1 70b instruct), reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and supports advanced LLMs like Llama 3.1 70b instruct, facilitating flexible integration of document loaders, retrieval systems, and LLMs with minimal code overhead.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in complex datasets, with support for multi-format document parsing (CSV, PDF, images) via `DBConnectors` and `Unstructured.io`.
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by up to 30% for large-scale unstructured data, with optimized document indexing and support for multi-modal data formats.
 
-- **RAGFlow
+- **RAGFlow v0.24.0*
 
 ## Use Cases
 

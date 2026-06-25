@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Provides a foundational, "from-scratch" tutorial on intelligent agent construction principles and practical implementation.
-*   Emphasizes the integration of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures in agent design.
-*   Implemented in Python, offering a hands-on guide for developing autonomous agents.
+*   Python-centric tutorial detailing foundational principles and practical implementation of AI agents.
+*   Covers integration of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent architectures.
+*   Offers a comprehensive, hands-on curriculum for end-to-end intelligent agent construction.
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-26T01:59:21.421309+05:30'
-collected_at: '2026-06-26T01:59:21.421318+05:30'
+published_at: '2026-06-26T04:26:33.157641+05:30'
+collected_at: '2026-06-26T04:26:33.157650+05:30'
 tags:
 - agents
-- benchmark
 - models
 - rag
 - scripts
@@ -16,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-26T01:59:21.421318+05:30'
-last_seen: '2026-06-26T01:59:21.421318+05:30'
-last_checked: '2026-06-26T01:59:21.421318+05:30'
+first_seen: '2026-06-26T04:26:33.157650+05:30'
+last_seen: '2026-06-26T04:26:33.157650+05:30'
+last_checked: '2026-06-26T04:26:33.157650+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Platform supports full-cycle development (prototyping to production) with data ingestion, model selection, evaluation, deployment, and monitoring for AI-powered applications.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, deployment, and monitoring of AI-powered applications, supporting prototyping to large-scale production with integrated data, model, and pipeline management.
 
-- **Modular Pipeline Architecture**: Enables building enterprise-grade agents and RAG systems via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations (multiple LLM/embedding providers).
+- **Modular RAG & Agentic Workflows**: Provides visual Pipeline Builder for constructing multi-component RAG systems and AI agents with interchangeable retrievers, rankers, generators, and tool integrations across model providers.
 
-- **Observability & Deployment Tools**: Integrates tracing (Langfuse, Weights & Biases) and REST API for automation, while providing performance dashboards, logs, and prototype sharing (branded links) for iterative development and production deployment.
+- **Observability & API-Driven Control**: Offers model-agnostic integrations (e.g., Langfuse, Weights & Biases) for tracing and debugging, alongside a REST API for programmatic pipeline execution, monitoring, and lifecycle automation.
 
 ## Why It Matters
 
@@ -40,12 +39,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:59:21.421309+05:30
+- Published: 2026-06-26T04:26:33.157641+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
 - models
 - rag
 - scripts

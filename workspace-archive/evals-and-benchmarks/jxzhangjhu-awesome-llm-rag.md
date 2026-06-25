@@ -6,19 +6,20 @@ source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
 resource_id: github:jxzhangjhu/awesome-llm-rag
 local_vault_path: ai/rag/jxzhangjhu-awesome-llm-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
+- models
+- paper
 - rag
 - unknown
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # jxzhangjhu/Awesome-LLM-RAG
@@ -26,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Resource**: A comprehensive, community-driven repository aggregating cutting-edge research, tools, and frameworks focused on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including advanced embedding techniques and retrieval optimization strategies.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling state-of-the-art techniques and papers on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including advanced embedding methods and retrieval strategies.
 
-- **Key Topics Covered**: Encompasses **RAG architectures**, **embedding models**, **retrieval mechanisms**, and **LLM integration**, with emphasis on improving factual accuracy, context relevance, and genera
+- **Technical focus**: Encompasses **RAG architectures**, **embedding optimization**, and **retrieval mechanisms**, with emphasis on improving factual accuracy, context relevance, and generation quality in LLMs via external knowledge
 
 ## Use Cases
 

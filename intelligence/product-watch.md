@@ -16,6 +16,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
 | [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
 | [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
+| [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | `mcp-registry/` | 70 |
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Gainsight University](https://education.gainsight.com) | `mcp-registry/` | 70 |
 | [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) | `mcp-registry/` | 70 |
 | [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
-| [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

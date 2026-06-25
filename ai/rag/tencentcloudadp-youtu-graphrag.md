@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-26T01:55:54.349030+05:30'
+collected_at: '2026-06-26T04:18:47.591042+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 stars: 1212
@@ -22,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-26T01:55:54.349030+05:30'
-last_seen: '2026-06-26T01:55:54.349030+05:30'
-last_checked: '2026-06-26T01:55:54.349030+05:30'
+first_seen: '2026-06-26T04:18:47.591042+05:30'
+last_seen: '2026-06-26T04:18:47.591042+05:30'
+last_checked: '2026-06-26T04:18:47.591042+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by combining hierarchical agents (e.g., planner, retriever, executor) with graph-based knowledge structures.
+- **Unified Agent Framework**: Introduces a vertically integrated multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by decomposing tasks into specialized sub-agents (e.g., retrieval, reasoning, synthesis) with graph-aware coordination.
 
-- **Graph-Centric RAG Pipeline**: Leverages dynamic graph representations (e.g., knowledge graphs, reasoning paths) to enhance LLM context retrieval, improving factual accuracy and logical coherence in multi-step reasoning tasks.
+- **Graph-Centric RAG Pipeline**: Leverages knowledge graphs (KGs) to enhance LLM reasoning by dynamically constructing and querying graph structures for context-aware retrieval, mitigating hallucinations in long-form or multi-hop QA tasks.
 
-- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive graph traversal, agent collaboration protocols, and retrieval-augmented fine-tuning, achieving state-of-the-art performance in complex reasoning benchmarks.
+- **Optimized for Scalability**: Implements hierarchical graph partitioning and distributed agent orchestration to handle large-scale KGs efficiently, with benchmarks demonstrating superior performance over traditional RAG baselines in ICLR 2026 evaluations.
 
 ## Why It Matters
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on constructing AI agents on Azure, covering key areas such as search optimization, agent design, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks for implementation and demonstration, with the last update recorded on May 27, 2026.
-- **Repository Metrics**: Contains 56 stars and 31 forks, indicating limited but active community engagement.
+- **Purpose**: Repository focused on constructing AI agents on Azure, emphasizing search optimization, agent design, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
+- **Technical Stack**: Implemented using Jupyter Notebooks, with the latest update as of May 27, 2026.
+- **Repository Metrics**: 56 stars, 31 forks, and no associated topics.
 
 ## Use Cases
 

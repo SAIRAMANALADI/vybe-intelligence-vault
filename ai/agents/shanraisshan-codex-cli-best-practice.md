@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-26T01:56:49.320980+05:30'
+collected_at: '2026-06-26T04:19:42.537810+05:30'
 published_at: '2026-06-25T12:58:49Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-26T01:56:49.320980+05:30'
-last_seen: '2026-06-26T01:56:49.320980+05:30'
-last_checked: '2026-06-26T01:56:49.320980+05:30'
+first_seen: '2026-06-26T04:19:42.537810+05:30'
+last_seen: '2026-06-26T04:19:42.537810+05:30'
+last_checked: '2026-06-26T04:19:42.537810+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 - **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides a curated set of *Codex CLI commands*, agent templates, and skill configurations to optimize AI agent interactions, including context management, multi-agent orchestration, and skill chaining.
+- **Codex CLI Best Practices**: Provides a curated repository of optimized commands, agent templates, and CLI skills for OpenAI Codex, including reusable hooks and context-engineering techniques to enhance AI agent productivity and reliability.
 
-- **Open-Source Toolkit**: Repository serves as a technical reference for *Codex CLI agents*, featuring Python-based implementations, hook systems, and workflow automation patterns tailored for AI-assisted software engineering.
+- **Pakistani Developer Contribution**: A community-driven project by a Pakistani developer, showcasing advanced AI agent orchestration patterns, CLI-based agentic workflows, and practical implementations for scalable AI-assisted coding.
 
 ## Why It Matters
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-26T01:54:49.185851+05:30'
+collected_at: '2026-06-26T04:17:42.487761+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
+- dataset
 - github-repo
 - jupyter notebook
 - models
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-26T01:54:49.185851+05:30'
-last_seen: '2026-06-26T01:54:49.185851+05:30'
-last_checked: '2026-06-26T01:54:49.185851+05:30'
+first_seen: '2026-06-26T04:17:42.487761+05:30'
+last_seen: '2026-06-26T04:17:42.487761+05:30'
+last_checked: '2026-06-26T04:17:42.487761+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data flows.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to analyze RAG components (e.g., retrieval, generation) with real-time visual feedback and customizable configurations.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, facilitating real-time visualization of RAG components (e.g., retrieval mechanisms, context relevance, and model outputs) with dynamic, interactive plots.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting integration with LLM frameworks and retrieval systems; last updated June 2026 with active community contributions (1221 stars, 115 forks).
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics visualization (e.g., retrieval accuracy, latency, and response quality).
 
 ## Why It Matters
 

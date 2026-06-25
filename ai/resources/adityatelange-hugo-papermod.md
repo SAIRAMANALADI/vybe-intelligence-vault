@@ -4,15 +4,15 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adityatelange/hugo-PaperMod/
-collected_at: '2026-06-25T20:48:03.152656+05:30'
-published_at: '2026-06-25T13:23:32Z'
+collected_at: '2026-06-26T04:20:22.588038+05:30'
+published_at: '2026-06-25T16:07:51Z'
 tags:
 - creative_dev
 - github-repo
 - hackernews
 - html
 - paper
-stars: 13705
+stars: 13706
 language: HTML
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2020-07-21T04:45:10Z'
 pushed_at: '2026-05-10T05:30:12Z'
 resource_id: github:adityatelange/hugo-papermod
-first_seen: '2026-06-25T20:48:03.152656+05:30'
-last_seen: '2026-06-25T20:48:03.152656+05:30'
-last_checked: '2026-06-25T20:48:03.152656+05:30'
+first_seen: '2026-06-26T04:20:22.588038+05:30'
+last_seen: '2026-06-26T04:20:22.588038+05:30'
+last_checked: '2026-06-26T04:20:22.588038+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Performance & Features**: Optimized for speed with a clean, responsive design; supports multilingual content, high-performance rendering, and includes a feature-rich set of components (e.g., portfolio, blogging tools).
-- **Technical Stack**: Built as a Hugo theme (HTML-based) with a MIT license, emphasizing well-documented code and modularity for extensibility.
-- **Community & Maintenance**: Actively maintained (last update: 2026-06-25) with 13.7K+ stars and 3.4K+ forks, indicating strong adoption and collaborative development.
+- **Features**: Hugo-PaperMod is a fast, clean, and responsive Hugo theme with support for multilingual content, grayscale styling, and high-performance optimizations.
+- **Technical Stack**: Built with HTML, offering a feature-rich, well-documented blog and portfolio theme under the MIT license.
+- **Metrics**: Maintains 13,706 stars and 3,399 forks on GitHub, last updated on 2026-06-25.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adityatelange
-- Stars: 13705
-- Forks: 3398
+- Stars: 13706
+- Forks: 3399
 - Language: HTML
 - Topics: blog, blog-theme, clean, fast, feature-rich, grayscale, high-performance, hugo, hugo-blog-theme, hugo-theme, mit-license, multilingual, papermod, portfolio, theme, well-documented
-- Last Updated: 2026-06-25T13:23:32Z
+- Last Updated: 2026-06-25T16:07:51Z
 - License: MIT
 - Archived: No
 - Created At: 2020-07-21T04:45:10Z

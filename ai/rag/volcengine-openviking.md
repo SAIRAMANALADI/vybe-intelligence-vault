@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-26T01:54:49.249744+05:30'
+collected_at: '2026-06-26T04:17:42.514388+05:30'
 published_at: '2026-06-25T19:27:36Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-05T07:11:17Z'
 pushed_at: '2026-06-25T15:13:18Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-26T01:54:49.249744+05:30'
-last_seen: '2026-06-26T01:54:49.249744+05:30'
-last_checked: '2026-06-26T01:54:49.249744+05:30'
+first_seen: '2026-06-26T04:17:42.514388+05:30'
+last_seen: '2026-06-26T04:17:42.514388+05:30'
+last_checked: '2026-06-26T04:17:42.514388+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **File System-Based Context Management**: OpenViking implements a hierarchical, filesystem-like paradigm to unify and manage context (memory, resources, and skills) for AI Agents, enabling structured and scalable context delivery.
+- **Context Management System**: OpenViking provides a file system-based paradigm for unified management of context (memory, resources, and skills) required by AI Agents like OpenClaw, enabling hierarchical context delivery and self-evolution.
 
-- **Self-Evolving Architecture**: Designed for dynamic adaptation, OpenViking supports autonomous evolution of context management, allowing AI Agents to refine and expand their capabilities over time.
+- **Open-Source Context Database**: Designed as an open-source solution, it supports hierarchical context delivery and self-evolving capabilities, facilitating efficient context engineering for AI agents.
 
-- **Integration with AI Agents**: Specifically optimized for frameworks like OpenClaw, OpenViking facilitates agentic-RAG (Retrieval-Augmented Generation) by providing structured, filesystem-accessible context storage and retrieval mechanisms.
+- **Python-Based Implementation**: Built in Python, it integrates with LLM frameworks and supports RAG (Retrieval-Augmented Generation) for enhanced context-aware AI agent operations.
 
 ## Why It Matters
 
