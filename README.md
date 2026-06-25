@@ -1,85 +1,260 @@
-<p align="center">
-  <img src="assets/vault-hero.png" alt="Vybe Intelligence Vault" width="100%">
-</p>
+<div align="center">
 
-Automated knowledge harvesting for AI engineers.
-Self-updating. LLM-scored. Agent-ready.
+[![Vybe Intelligence Vault](https://github.com/sairaman436/vybe-intelligence-vault/raw/main/assets/vault-hero.png)](https://github.com/sairaman436/vybe-intelligence-vault)
 
-[![License](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](LICENSE)
-[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-1f2937?style=flat-square)](.github/workflows/rebuild-index.yml)
-[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-374151?style=flat-square)](.github/workflows/harvester.yml)
-[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-4b5563?style=flat-square)](mcp-server/)
+# `vybe-intelligence-vault`
 
-## What It Does
+**Automated knowledge harvesting for AI engineers.**  
+Scrapes. Scores. Commits. Every 3 hours. Zero manual effort.
 
-- Scrapes and scores AI/ML resources on a 3-hour GitHub Actions cron
-- Builds a vector-indexed knowledge graph with semantic edges (cosine sim > 0.75)
-- Exposes an MCP-compatible context injection gateway on port 3456
-- Tracks trending signals, scores resources via local Ollama + cloud LLM fallback
+[![License: MIT](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](./LICENSE)
+[![Pipeline](https://img.shields.io/github/actions/workflow/status/sairaman436/vybe-intelligence-vault/harvest.yml?style=flat-square&label=Pipeline)](https://github.com/sairaman436/vybe-intelligence-vault/actions)
+[![Resources](https://img.shields.io/badge/Resources%20Indexed-5%2C928-1f2937?style=flat-square)](#)
+[![MCP Ready](https://img.shields.io/badge/MCP-Agent%20Ready-4b5563?style=flat-square)](./mcp-server)
+[![Last Sync](https://img.shields.io/badge/Last%20Sync-2026--06--23-374151?style=flat-square)](#)
 
-## Architecture
+[Overview](#-overview) · [How It Works](#-how-it-works) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [Vault Stats](#-vault-stats) · [Contributing](#-contributing)
+
+</div>
+
+---
+
+## 📌 Overview
+
+Most AI knowledge bases go stale the moment you stop updating them. Vybe Intelligence Vault doesn't — it runs itself.
+
+A GitHub Actions pipeline wakes up every 3 hours, discovers emerging AI/ML resources, evaluates them with an LLM scoring engine, and commits the ranked results back into the repo. No human in the loop. No manual curation.
+
+The result: a self-reinforcing knowledge graph of **5,928 indexed resources** spanning AI agents, RAG architectures, MCP servers, and modern web tooling — always current, always queryable by local agents via an HTTP gateway.
+
+**Built for:** AI engineers who want a living knowledge base they can plug into agentic workflows, not a static awesome-list that someone forked two years ago.
+
+---
+
+## ⚙️ How It Works
+
+```
+Every 3 hours:
+
+  GitHub Actions Cron
+       │
+       ▼
+  evaluate_repo.py          ← discovers candidate resources from configured topics
+       │
+       ▼
+  LLM Scoring Engine        ← qwen2.5:14b (local) or cloud fallback
+       │  scores: quality, rag_relevance, tech_stack match
+       ▼
+  vault-core/               ← ranked .md files committed back to repo
+       │
+       ├─▶ rebuild-index.yml  ← triggers on push
+       │         │
+       │         ▼
+       │   nomic-embed-text   ← local Ollama embeddings
+       │         │
+       │         ▼
+       │   vault-index.json   ← semantic node/edge graph (cosine sim > 0.75)
+       │         │
+       │         ▼
+       │   React 3D Map       ← WebGL intelligence visualization (SWR polling)
+       │
+       └─▶ Orchestrator :3456 ← MCP gateway for agent context injection
+```
+
+### Scoring Pipeline
+
+Each resource is evaluated across 4 dimensions:
+
+| Signal | Method |
+|---|---|
+| Content quality | LLM pass via `qwen2.5:14b` / cloud fallback |
+| RAG relevance | Keyword + semantic scoring |
+| Community velocity | Stars delta, fork rate |
+| Tech stack match | Tag overlap with `config.yaml` topics |
+
+### Semantic Graph
+
+Embeddings via `nomic-embed-text` (Ollama). Two nodes are linked if:
+- Cosine similarity `> 0.75` → `similar_to`
+- Shared tech stack → `depends_on`  
+- Same category + shared tags → `references`
+
+Edge weight = `cosine_sim + (shared_tags × 0.08)`
+
+### MCP Gateway
+
+HTTP bridge on `:3456`. Send a vault file path → receive a clean, LLM-formatted context block. Agents can pull any resource into their context window without reading the filesystem directly.
+
+```bash
+# Example agent request
+curl -X POST http://localhost:3456/inject \
+  -d '{"path": "ai/agents/tool-use-patterns.md"}'
+```
+
+---
+
+## 🏗 Architecture
 
 ```mermaid
 graph TD
-    A[Cron] -->|Discover| B[evaluate_repo.py]
-    B -->|Score & Commit| C[vault-core/]
-    C -->|Index| D[vault-index.json]
-    D -->|Poll| E[React UI]
-    F[MCP Agent] -->|Read| C
+    A[⏰ Cron / Dispatch Trigger] -->|every 3h| B(evaluate_repo.py)
+    B -->|LLM score| C{Decision Engine}
+    C -->|pass threshold| D[vault-core/]
+    C -->|reject| X[❌ Discarded]
+    D -->|git push| E(rebuild-index.yml)
+    E -->|nomic-embed-text| F[vault-index.json]
+    F -->|SWR poll| G[🌐 React 3D Map]
+    H[🤖 AI Agent] -->|MCP request| I[Orchestrator :3456]
+    I -->|read + format| D
+
+    style A fill:#1f2937,color:#e5e7eb
+    style D fill:#111827,color:#e5e7eb
+    style G fill:#1f2937,color:#e5e7eb
+    style H fill:#374151,color:#e5e7eb
 ```
 
-- **State Management**: Handled by `scripts/state-manager.js`
-- **Embeddings**: Semantic edges calculated in `scripts/build-index.js`
-- **Gateway**: Local agent context injection routed through `scripts/orchestrator/context-injector.js`
+### Key Design Decisions
 
-## Analytics
+**Write-lock state management** — `state.lock` prevents collision writes when multiple pipeline jobs run concurrently. All mutations are append-only to `vault-events.log` (JSONL). In-memory reads use a 30s TTL. → [`scripts/state-manager.js`](./scripts/state-manager.js)
 
-<!-- VAULT_STATS:START -->
-| Metric | Value |
-|--------|-------|
-| Resources Tracked | 6,628 |
-| Last Update | 2026-06-25 |
-| Health | 🟢 Optimal |
-<!-- VAULT_STATS:END -->
+**Hybrid inference** — Pipeline tries local Ollama first (zero cost, no rate limits). Falls back to cloud LLM if Ollama is unavailable. Scoring is deterministic via fixed seed. → [`scripts/evaluate_repo.py`](./scripts/evaluate_repo.py)
 
-Trending signals update on each pipeline run.
+**Bot commits on heatmap** — Git identity configured so automated commits register on the contribution graph. Pipeline runs as `vybe-bot` with a PAT scoped to `repo` only. → [`.github/workflows/harvest.yml`](./.github/workflows/harvest.yml)
 
-## Execution Control
+---
 
-Initialize the local orchestrator and required LLM models.
+## 🚀 Quick Start
+
+### Prerequisites
+
+- [Ollama](https://ollama.com) installed and running
+- Node.js 18+
+- Python 3.10+
+
+### Setup
+
 ```bash
-# 1. Start Ollama and download models
-ollama pull nomic-embed-text
-ollama pull qwen2.5:14b
+# Clone
+git clone https://github.com/sairaman436/vybe-intelligence-vault.git
+cd vybe-intelligence-vault
 
-# 2. Run system init (concurrently runs MCP, Orchestrator, & Web UI)
+# Pull required models
+ollama pull nomic-embed-text   # embeddings
+ollama pull qwen2.5:14b        # scoring
+
+# Install dependencies
+npm install
+pip install -r requirements.txt
+
+# Start everything (MCP server + orchestrator + web UI)
 bash scripts/vault-init.sh
 ```
 
-Check system health, port status, and pipeline events.
+### Verify
+
 ```bash
+# Check service health, ports, and event log
 bash scripts/vault-status.sh
 ```
 
-## Repository Layout
+Open `http://localhost:3000` for the 3D intelligence map.
 
-```txt
-.
-├── vault-core/
-│   ├── config.yaml          # Search topics and token budget limits
-│   ├── vault-index.json     # Compiled relation graph (nodes and edges)
-│   └── vault-events.log     # Event sourced pipeline ledger
-├── intelligence-map/        # React 19 3D visual WebGL dashboard
-├── mcp-server/              # FastMCP integration server
-├── scripts/
-│   ├── orchestrator/        # Context window optimization engines
-│   ├── state-manager.js     # Lock-safe state management module
-│   ├── build-index.js       # Index compiler and embedding calculator
-│   ├── vault-init.sh        # Startup orchestrator daemon
-│   └── vault-status.sh      # Service health status query script
-└── search-index.md
+### Configure Topics
+
+Edit `vault-core/config.yaml` to control what gets harvested:
+
+```yaml
+topics:
+  - ai-agents
+  - rag-architectures
+  - mcp-servers
+  - llm-inference
+  - next-gen-web
+
+token_budget: 4096
+score_threshold: 0.65
 ```
 
-## Contributing
+---
 
-PRs welcome — see CONTRIBUTING.md. MIT licensed.
+## 📊 Vault Stats
+
+| Metric | Value |
+|---|---|
+| Total Resources | 5,928 |
+| Active | 5,785 |
+| Inactive / Archived | 143 |
+| Archive Files | 24,573 |
+| Builder Maps | 8 |
+| Last Pipeline Run | 2026-06-23 00:27 IST |
+| Health | 🟢 Optimal |
+
+*Regenerated automatically on every pipeline push.*
+
+---
+
+## 📁 Repository Layout
+
+```
+vybe-intelligence-vault/
+├── .github/
+│   └── workflows/
+│       ├── harvest.yml          # Main 3h cron pipeline
+│       └── rebuild-index.yml    # Triggered on vault-core/ push
+│
+├── vault-core/
+│   ├── config.yaml              # Topics, token budgets, score thresholds
+│   ├── vault-index.json         # Compiled semantic node/edge graph
+│   └── vault-events.log         # Append-only JSONL event ledger
+│
+├── intelligence-map/            # React 19 + WebGL 3D dashboard
+│
+├── mcp-server/                  # FastMCP integration server
+│
+├── scripts/
+│   ├── evaluate_repo.py         # Resource discovery + LLM scoring
+│   ├── orchestrator/
+│   │   └── context-injector.js  # MCP context formatter
+│   ├── state-manager.js         # Lock-safe state writes
+│   ├── build-index.js           # Embedding + edge compiler
+│   ├── vault-init.sh            # Startup daemon (concurrent)
+│   └── vault-status.sh          # Port + health diagnostics
+│
+├── ai/                          # Indexed resources by category
+│   ├── agents/
+│   ├── rag/
+│   ├── models/
+│   └── mcp/
+│
+└── search-index.md              # Flat searchable index
+```
+
+---
+
+## 🗺 Roadmap
+
+- [ ] Vector search API over `vault-index.json` (FastAPI endpoint)
+- [ ] Discord/Slack bot that answers "what's new in RAG this week?"
+- [ ] Contributor scoring — track who surfaces the highest-value resources
+- [ ] Export to Obsidian vault format
+- [ ] GitHub App so others can run their own vault instance
+
+---
+
+## 🤝 Contributing
+
+PRs welcome. Read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
+
+```bash
+# Run the scoring pipeline locally against a single URL
+python scripts/evaluate_repo.py --url https://github.com/your/repo --dry-run
+```
+
+Bug reports → [open an issue](https://github.com/sairaman436/vybe-intelligence-vault/issues)  
+MIT License — see [LICENSE](./LICENSE)
+
+---
+
+<div align="center">
+<sub>Built by <a href="https://github.com/sairaman436">@sairaman436</a> · Auto-updating since 2024</sub>
+</div>
