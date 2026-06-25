@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low-code/no-code capabilities.
+- **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and managing agentic AI workflows with low-code/no-code capabilities, supporting orchestration, RAG, and multi-LLM integrations (OpenAI, GPT-4, Gemini).
 
-- **Multi-Model & Tool Integration**: Supports LLM APIs (OpenAI, GPT-4, Gemini), RAG pipelines, MCP (Model Context Protocol), and external tool orchestration via Next.js-based UI.
+- **Multi-Language & Framework Support**: Primarily developed in TypeScript (Next.js frontend) with Python backend, enabling hybrid agentic workflows and MCP (Model Context Protocol) integration for extensibility.
 
-- **Scalable Deployment**: Enables end-to-end agentic workflows (automation, AI agents, orchestration) with modu
+- **Enterprise-Grade Features**:
 
 ## Use Cases
 

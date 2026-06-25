@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** combines retrieval, augmentation, and generation, formalized in 2020 by Lewis et al., addressing freshness, private knowledge, and hallucination issues by dynamically pulling relevant external data during inference.
+- **RAG Architecture Overview**: RAG combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations like hallucinations, outdated knowledge, and private data access.
 
-- **Evolution of RAG**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (dynamic routing, tool integration), and Graph RAG (entity-relation graph traversal for multi-hop reasoni
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformations) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with modular RAG enabling tool i
 
 ## Use Cases
 

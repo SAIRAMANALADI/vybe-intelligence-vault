@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.atlassian.com
-published_at: '2026-06-22T10:34:45.558107+05:30'
-collected_at: '2026-06-22T10:34:45.558119+05:30'
+published_at: '2026-06-24T23:07:23.997359+05:30'
+collected_at: '2026-06-24T23:07:23.997369+05:30'
 tags:
 - web-crawled
-- workflows
+- youtube
 status: active
 resource_id: blog:developer-atlassian-com
-first_seen: '2026-06-22T10:34:45.558119+05:30'
-last_seen: '2026-06-22T10:34:45.558119+05:30'
-last_checked: '2026-06-22T10:34:45.558119+05:30'
+first_seen: '2026-06-24T23:07:23.997369+05:30'
+last_seen: '2026-06-24T23:07:23.997369+05:30'
+last_checked: '2026-06-24T23:07:23.997369+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Atlassian's developer platform (Forge) supports AI-powered development workflows for rapid prototyping and deployment.
-- Provides dedicated documentation and resources for **Cloud** and **Data Center** environments.
-- Offers changelog tracking, system status monitoring, and legal compliance resources (privacy, terms, trademarks).
+- Atlassian provides an AI-powered developer platform (Forge) enabling rapid prototyping and deployment of cloud-based applications.
+- Documentation and resources are segmented for **Cloud** and **Data Center** environments, with dedicated support channels.
+- Platform includes **changelog tracking**, **system status monitoring**, and compliance with **developer terms** and **privacy policies**.
 
 ## Why It Matters
 
@@ -33,12 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:34:45.558107+05:30
+- Published: 2026-06-24T23:07:23.997359+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
+- youtube
 
 ## Source
 

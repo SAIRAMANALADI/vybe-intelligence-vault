@@ -2,7 +2,7 @@
 title: The Linux Kernel documentation — The Linux Kernel documentation
 archive_category: observability
 source_category: ai/resources
-source_url: https://docs.kernel.org
+source_url: https://docs.kernel.org/
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
 local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md
 quality_score: 70
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Development & Contribution**: The Linux Kernel documentation provides structured guides for interacting with the kernel development community, including processes for submitting patches, development workflows, and maintainer handbooks.
-- **API & Subsystem Documentation**: Covers core APIs, driver APIs, subsystem-specific documentation, and locking mechanisms, serving as a reference for kernel developers interfacing with internal kernel components.
-- **Architecture & Tooling Support**:
+- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides on the development process, patch submission, maintainer handbooks, and community interaction via the `linux-doc` mailing list (`vger.kernel.org`).
+
+- **API & Subsystem Documentation**: Includes core API references, driver APIs, subsystem-specific documentation, and locking mechanisms for kernel developers interfacing with internal kernel components.
+
+- **Architecture & Tooling Support**: Covers CPU arch
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.kernel.org
+Original source URL: https://docs.kernel.org/
 
 ## Local Vault File
 

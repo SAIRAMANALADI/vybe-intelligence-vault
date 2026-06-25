@@ -3,9 +3,9 @@ title: Cloudflare Developer Docs | Cloudflare Docs
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.cloudflare.com
-published_at: '2026-06-22T10:52:04.726023+05:30'
-collected_at: '2026-06-22T10:52:04.726036+05:30'
+source_url: https://developers.cloudflare.com/
+published_at: '2026-06-25T23:04:30.060904+05:30'
+collected_at: '2026-06-25T23:04:30.060911+05:30'
 tags:
 - agents
 - anthropic
@@ -14,12 +14,13 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
-first_seen: '2026-06-22T10:52:04.726036+05:30'
-last_seen: '2026-06-22T10:52:04.726036+05:30'
-last_checked: '2026-06-22T10:52:04.726036+05:30'
+first_seen: '2026-06-25T23:04:30.060911+05:30'
+last_seen: '2026-06-25T23:04:30.060911+05:30'
+last_checked: '2026-06-25T23:04:30.060911+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI with single-command execution (`npm create cloudflare@latest my-app`, `npx wrangler ai models`), eliminating server management, cold starts, and GPU overhead.
+- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via single commands (e.g., `npm create cloudflare@latest my-app`, `npx wrangler ai models`) with no GPU/region management, leveraging Workers, Containers, Durable Objects, Queues, Workers AI, AI Gateway, and Vectorize.
 
-- **Distributed Data & Media Pipelines**: Supports serverless SQL (D1), globally distributed KV/R2 storage, and media optimization (Images/Stream) with direct Worker integration, enabling low-latency, connectionless queries and scalable media delivery via APIs (`npx wrangler d1 create my-database`, `curl --request POST https://api.cloudflare.com/client/v4/accounts/$ACCOUNT_ID/images/v1`).
+- **Unified Data & Media Services**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and media pipelines (Images/Stream) with direct Worker integration, supporting advanced SQL operations (window functions, DISTINCT, set ops) and real-time media processing via APIs.
 
-- **Unified Networking & Security**: Introduces Cloudflare Mesh for centralized route management across Tunnel/WAN/Magic Transit, quantum-safe access via Access/Tunnel, and WAF/SSL/TLS hardening; supports temporary AI agent deployments (`wrangler deploy --temporary`) and new APAC region hints for Durable Objects.
+- **Security & Performance Stack**: Offers WAF, SSL/TLS, Turnstile, post-quantum tunnels (Cloudflare Tunnel), Access, and Gateway for security, alongside CDN, caching, image optimization, and Web Analytics for performance, with all features managed via API-driven, globally distributed infrastructure.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:52:04.726023+05:30
+- Published: 2026-06-25T23:04:30.060904+05:30
 
 ## Related Tags
 
@@ -52,8 +53,9 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source
 
-Original source: https://developers.cloudflare.com
+Original source: https://developers.cloudflare.com/

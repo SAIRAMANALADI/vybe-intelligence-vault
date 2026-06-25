@@ -35,7 +35,11 @@ selection_reason:
 
 ## Summary
 
-Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-augmented generation without relying on black-box solutions.
+
+- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on transparency and educational value for developers.
+
+- **Modular Components**: Provides a clear,
 
 ## Use Cases
 

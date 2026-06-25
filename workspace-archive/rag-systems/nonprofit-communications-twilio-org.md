@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Twilio.org** enables **30,000+ social impact organizations** (2025) to scale communication via **SMS, voice, chatbots, and WhatsApp**, supporting sectors like healthcare, education, and humanitarian aid.
+- **Twilio.org** enables social impact organizations (e.g., healthcare, education, humanitarian aid) to scale communication via SMS, voice, chatbots, and WhatsApp, leveraging Twilio’s APIs and partner resources for digital transformation.
 
-- **Key use cases** include **multichannel alerts/notifications**, **cloud-based hotlines/helplines**, **MFA for user authentication**, and **personalized donor engagement** via real-time data integration.
+- **Key metrics**: 800M+ people reached, 30,000+ organizations using Twilio in 2025, 37B+ messages sent in 2024, and $66M+ in grants/product credits/discounts provided.
 
-- **Impact metrics**: **800M+ people reached**, **37B+ messages sent (2024)**, and *
+- **Use cases**: Alerts/notifications, hotlines/helplines (cloud contact centers), user au
 
 ## Use Cases
 

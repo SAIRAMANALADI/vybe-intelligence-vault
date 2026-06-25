@@ -28,4 +28,3 @@ Last Generated: 2026-06-25 12:36 IST
 - **Web Development**: 28 files
 - **Web Development/Webgpu**: 26 files
 - **Web Development/Framer Motion**: 25 files
-- **Web Development/React Three Fiber**: 25 files

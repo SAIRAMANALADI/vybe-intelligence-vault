@@ -8,7 +8,7 @@ local_vault_path: ai/resources/baseline-web-dev.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
@@ -16,7 +16,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Baseline | web.dev
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Baseline Framework**: Defined by the WebDX Community Group, Baseline provides a standardized reference for browser support of web platform features, categorized into *Newly available* (interoperable across core browsers) and *Widely available* (30 months post-interoperability). Core browsers include Chrome, Edge, Firefox, and Safari (desktop/Android/iOS).
+- **Baseline Definition & Governance**: Defined by the WebDX Community Group, Baseline provides interoperability status for web platform features across core browsers (Chrome, Edge, Firefox, Safari). Features progress through stages: *Limited availability* → *Newly available* (all core browsers support) → *Widely available* (30 months post-interoperability).
 
-- **Tooling Integration**: Baseline is integrated into development workflows via tools like Browserslist (supports Baseline queries), Chr
+- **Tooling Integration**: Baseline is integrated into development workflows via tools like Browserslist (feature queries), Chrome DevTool
 
 ## Use Cases
 

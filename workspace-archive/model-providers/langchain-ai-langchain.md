@@ -1,5 +1,5 @@
 ---
-title: 'langchain-ai/langchain Release: langchain==1.3.10'
+title: 'langchain-ai/langchain Release: langchain-openrouter==0.2.4'
 archive_category: model-providers
 source_category: ai/releases
 source_url: https://github.com/langchain-ai/langchain
@@ -8,10 +8,10 @@ local_vault_path: ai/releases/langchain-ai-langchain.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
-- anthropic
+- benchmark
 - github-release
 - langchain-ai-langchain
 - openai
@@ -20,26 +20,25 @@ selection_reason:
 - Active open-source repository
 ---
 
-# langchain-ai/langchain Release: langchain==1.3.10
+# langchain-ai/langchain Release: langchain-openrouter==0.2.4
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-Changes since langchain==1.3.9
+Changes since langchain-openrouter==0.2.3
 
-release(langchain): 1.3.10 (#38255)
-chore: bump cryptography from 46.0.7 to 48.0.1 in /libs/langchain_v1 (#38176)
-chore: bump aiohttp from 3.14.0 to 3.14.1 in /libs/langchain_v1 (#38179)
-fix(langchain): switch summary format (#38171)
-fix(langchain): detect provider st...
+release(openrouter): 0.2.4 (#38381)
+chore(openrouter): bump `openrouter` floor to 0.9.2, drop file workaround (#38216)
+test(openrouter): cover `cache_control` passthrough on tool defs (#38215)
+feat(openrouter): surface `parallel_tool_calls` on `bind_tools` ...
 
 ## Use Cases
 

@@ -6,10 +6,10 @@ source_url: https://www.twilio.com/en-us/developers
 resource_id: blog:developer-hub-twilio
 local_vault_path: ai/resources/developer-hub-twilio.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - web-crawled
 - youtube
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Startup Builder`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Twilio Pricing Model**: Twilio employs a pay-as-you-go pricing structure for its cloud communications APIs, including Programmable Voice, SMS, and Video, with costs based on usage metrics (e.g., per-minute rates for calls, per-message charges for SMS).
-
-- **Developer Access**: Provides free-tier access for developers to test APIs, with limited usage quotas (e.g., $15/month in free credits for Programmable SMS).
-
-- **Scalability & Customization**: Offers tiered pricing plans (e.g., Starter, G
+- **Twilio Pricing Model**: Twilio employs a pay-as-you-go pricing structure for its communication APIs, with costs varying by service (e.g., SMS, voice, video) and usage volume.
+- **Developer Access**: Provides a free tier for developers to test APIs, with paid plans scaling based on feature requirements and traffic.
+- **Pricing Transparency**: Detailed pricing is available on Twilio’s official developer portal, segmented by region and service type.
 
 ## Use Cases
 

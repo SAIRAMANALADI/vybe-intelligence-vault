@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-06-18T23:38:33.939347+05:30'
-published_at: '2026-06-18T18:07:54Z'
+collected_at: '2026-06-25T22:55:12.499344+05:30'
+published_at: '2026-06-25T14:58:56Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,8 @@ tags:
 - models
 - openai
 - rag
-stars: 28036
+- workflows
+stars: 28180
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-17T20:54:18Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-06-18T23:38:33.939347+05:30'
-last_seen: '2026-06-18T23:38:33.939347+05:30'
-last_checked: '2026-06-18T23:38:33.939347+05:30'
+first_seen: '2026-06-25T22:55:12.499344+05:30'
+last_seen: '2026-06-25T22:55:12.499344+05:30'
+last_checked: '2026-06-25T22:55:12.499344+05:30'
 health_score: 100
 ---
 
@@ -33,7 +34,9 @@ health_score: 100
 
 ## Summary
 
-This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
+- **Metrics**: 28.2K stars, 3.4K forks; last updated June 2026 with topics spanning generative AI, NLP, and machine learning.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 28036
-- Forks: 3392
+- Stars: 28180
+- Forks: 3421
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-06-18T18:07:54Z
+- Last Updated: 2026-06-25T14:58:56Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

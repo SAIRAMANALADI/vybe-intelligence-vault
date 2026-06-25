@@ -2,13 +2,13 @@
 title: 'RAG Techniques: Zero to Hero — A Complete Guide | martinuke0''s Blog'
 archive_category: datasets
 source_category: ai/rag
-source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
+source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -32,16 +32,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical) with LLMs to ground generation in external knowledge, improving factuality and reducing hallucinations while avoiding costly retraining.
-- **Key Components**: Retriever (ANN/BM25), vector store (HNSW/IVF), reranker (cross-encoder distillation), and LLM generator with context management (autocut, citation prompting).
-- **Advanced Techniques**: Multi-hop retrieval, GraphRAG, context distillation, and retrieval-aware fine-tuning to optimiz
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata) optimize performance and cost.
+
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), cross-encoder rerankers (precision-focused), and multi-hop/query decomposition improve recall/precision; ANN indexes (HNSW/IVF) enable scalable vector search.
+
+- **Context Optimization & Training**:
 
 ## Use Cases
 
@@ -51,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
+Original source URL: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
 
 ## Local Vault File
 

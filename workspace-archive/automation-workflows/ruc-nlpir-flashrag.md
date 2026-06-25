@@ -1,0 +1,57 @@
+---
+title: RUC-NLPIR/FlashRAG
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/RUC-NLPIR/FlashRAG
+resource_id: github:ruc-nlpir/flashrag
+local_vault_path: ai/rag/ruc-nlpir-flashrag.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- python
+- rag
+- reddit
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# RUC-NLPIR/FlashRAG
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based framework designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+
+- **Benchmark & Dataset Integration**: The toolkit includes standardized benchmarks and datasets to evaluate RAG systems, enabling reproducible and comparative studies across retrieval and generation tasks.
+
+- **Modular & Extensible**: FlashRAG supports modular components (e.
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG
+
+## Local Vault File
+
+Path: [ruc-nlpir-flashrag.md](../../ai/rag/ruc-nlpir-flashrag.md)

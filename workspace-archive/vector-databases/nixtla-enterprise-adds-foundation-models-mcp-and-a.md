@@ -1,0 +1,54 @@
+---
+title: Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://www.nixtla.io/blog/genai-announcement
+resource_id: blog:nixtla-enterprise-adds-foundation-models-mcp-and-a
+local_vault_path: ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- agents
+- anthropic
+- benchmark
+- dataset
+- models
+- rag
+- web-crawled
+- workflows
+selection_reason:
+- Valuable developer reference
+---
+
+# Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **Multi-Model Integration**: Nixtla Enterprise now supports multiple foundation models (e.g., Chronos, TimesFM) alongside TimeGPT via a unified `NixtlaClient` interface, enabling benchmarking and selection without tool-switching or API fragmentation.
+
+- **MCP Standardization**: Integration with the **Model Context Protocol (MCP)** provides a standardized interoperability layer for time series workflows, enabling consistent data/metadata access, reusable tools, and shared execution context acro
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://www.nixtla.io/blog/genai-announcement
+
+## Local Vault File
+
+Path: [nixtla-enterprise-adds-foundation-models-mcp-and-a.md](../../ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)

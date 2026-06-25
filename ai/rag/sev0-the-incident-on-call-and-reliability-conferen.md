@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sev0.com
-published_at: '2026-06-22T11:16:37.331067+05:30'
-collected_at: '2026-06-22T11:16:37.331077+05:30'
+published_at: '2026-06-23T09:55:25.245156+05:30'
+collected_at: '2026-06-23T09:55:25.245162+05:30'
 tags:
 - anthropic
 - hackernews
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:sev0-the-incident-on-call-and-reliability-conferen
-first_seen: '2026-06-22T11:16:37.331077+05:30'
-last_seen: '2026-06-22T11:16:37.331077+05:30'
-last_checked: '2026-06-22T11:16:37.331077+05:30'
+first_seen: '2026-06-23T09:55:25.245162+05:30'
+last_seen: '2026-06-23T09:55:25.245162+05:30'
+last_checked: '2026-06-23T09:55:25.245162+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Conference Focus**: SEV0 is a practitioner-driven event (Oct 20-27, 2026) in San Francisco/London, exclusively covering reliability engineering, incident response, and on-call practices without vendor pitches.
+- **Conference Overview**: SEV0 is a practitioner-focused reliability conference held in San Francisco (Oct 27, 2026) and London (Oct 20, 2026), featuring sessions on incident response, SRE practices, and scalable reliability engineering with no vendor pitches.
 
-- **Speaker & Attendee Profile**: Features senior SREs/CTOs from companies like Netflix, OpenAI, Airbnb, and Databricks, with sessions on AI-driven incident management, human factors in outages, and cross-system debugging.
+- **Key Speakers & Topics**: Past sessions included keynotes on AI-driven incident management (Stephen Whitworth, incident.io), human factors in incidents (Molly Struve, Netflix), and technical deep dives like cross-system debugging (Sara Hartse, Render) and pre-incident strategies (Derek Brown, Plaid).
 
-- **Practical Outcomes**: Sessions emphasize actionable insights (e.g., Plaid’s pre-incident workflows, Zendesk’s migration to incident.io) and include a $199/$150 early-bird pricing tier.
+- **Target Audience & Pricing**: Targets senior SREs, engineering leaders, and CTOs from top-tier companies (e.g., Netflix, OpenAI, Airbnb); early-bird pricing is $199 (SF) / £150 (LDN) through September.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:16:37.331067+05:30
+- Published: 2026-06-23T09:55:25.245156+05:30
 
 ## Related Tags
 
@@ -49,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 
 ## Source

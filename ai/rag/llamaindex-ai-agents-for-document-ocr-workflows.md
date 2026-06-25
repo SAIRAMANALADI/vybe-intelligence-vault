@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.llamaindex.ai
-published_at: '2026-06-22T15:21:48.716579+05:30'
-collected_at: '2026-06-22T15:21:48.716597+05:30'
+source_url: https://www.llamaindex.ai/
+published_at: '2026-06-25T20:47:58.630356+05:30'
+collected_at: '2026-06-25T20:47:58.630370+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-22T15:21:48.716597+05:30'
-last_seen: '2026-06-22T15:21:48.716597+05:30'
-last_checked: '2026-06-22T15:21:48.716597+05:30'
+first_seen: '2026-06-25T20:47:58.630370+05:30'
+last_seen: '2026-06-25T20:47:58.630370+05:30'
+last_checked: '2026-06-25T20:47:58.630370+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Vision-Language Model (VLM)-Powered OCR**: LlamaParse leverages VLMs for agentic OCR, enabling layout-aware document parsing and structured schema extraction with minimal manual intervention.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables), recursive auto-correction loops, and semantic understanding to convert complex layouts into LLM-ready structured outputs.
 
-- **Multi-Modal Document Agents**: Task-specific agents decompose complex documents (text, charts, tables, handwriting) into structured data via recursive auto-correction loops, achieving high pass-through rates even on noisy inputs.
+- **Performance & Scalability**: Benchmarks show superior performance in parsing, extracting, and indexing across 50+ unstructured file types, including handwritten text, multi-page tables, and embedded images, with enterprise-grade reliability (99.9% uptime) and compliance (HIPAA, GDPR, SOC2).
 
-- **Enterprise-Grade Document Automation**: Supports 50+ unstructured file types with schema-based extraction, enterprise-grade chunking/embedding, and deployment options (cloud or VPC) with SOC2/HIPAA compliance and 99.9% uptime.
+- **Deployment Flexibility**: Offers a free tier (10K credits/month) and open-source LiteParse for local processing, with options for cloud deployment or full VPC integration, supporting schema-based extraction, document classification, and chunking/embedding pipelines for RAG applications.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:21:48.716579+05:30
+- Published: 2026-06-25T20:47:58.630356+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.llamaindex.ai
+Original source: https://www.llamaindex.ai/

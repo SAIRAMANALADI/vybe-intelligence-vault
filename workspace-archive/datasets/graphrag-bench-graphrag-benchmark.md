@@ -1,0 +1,54 @@
+---
+title: GraphRAG-Bench/GraphRAG-Benchmark
+archive_category: datasets
+source_category: ai/rag
+source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
+resource_id: github:graphrag-bench/graphrag-benchmark
+local_vault_path: ai/rag/graphrag-bench-graphrag-benchmark.md
+quality_score: 70
+archive_score: 81
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- hackernews
+- python
+- rag
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# GraphRAG-Bench/GraphRAG-Benchmark
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
+- **Technical Scope**: Focuses on graph retrieval strategies, analyzing when and how graph structures enhance RAG performance, with implementations in Python for reproducibility.
+- **ICLR'26 Contribution**: Introduces a comprehensive analysis of graph-based RAG methods, offering insights into o
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
+
+## Local Vault File
+
+Path: [graphrag-bench-graphrag-benchmark.md](../../ai/rag/graphrag-bench-graphrag-benchmark.md)

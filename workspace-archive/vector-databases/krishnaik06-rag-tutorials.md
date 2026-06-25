@@ -8,7 +8,7 @@ local_vault_path: ai/rag/krishnaik06-rag-tutorials.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -25,13 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-No description provided.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 353 stars and 320 forks.
+- **Technical Stack**: Primarily uses Jupyter Notebooks for educational content on RAG methodologies and implementations.
+- **Last Activity**: Last updated on June 24, 2026, indicating recent or ongoing development.
 
 ## Use Cases
 

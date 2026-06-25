@@ -2,26 +2,24 @@
 title: Org mode for GNU Emacs
 archive_category: evals-and-benchmarks
 source_category: ai/resources
-source_url: http://orgmode.org
+source_url: https://orgmode.org
 resource_id: blog:org-mode-for-gnu-emacs
 local_vault_path: ai/resources/org-mode-for-gnu-emacs.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: template
 importance: medium
 tags:
 - benchmark
 - hackernews
 - paper
 - reddit
-- scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Org mode for GNU Emacs
@@ -30,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Structured Plain Text Format**: Org mode is a GNU Emacs major mode for managing notes, documents, to-do lists, and projects using a fast, extensible plain text format with hierarchical headings, metadata, and lightweight markup (e.g., `* Headline`, `#+TAGS`, `[[links]]`).
-
-- **Literate Programming & Babel**: Supports executable code blocks (`#+begin_src`) with live evaluation, tangling, and results caching across languages (e.g., Python, R), enabling reproducible research and computational n
+- **Structured Plain Text Format**: Org mode is a major mode for GNU Emacs that uses a highly flexible, structured plain text file format (`.org` mimetype: `text/org`) for notes, documents, to-do lists, projects, and literate programming with Babel for live code execution.
+- **Core Features**: Supports outlining with folding, agenda/todo tracking, prose authoring, metadata handling, and literate programming via Babel (e.g., `#begin_src`/`#end_src` blocks with live evaluation and `#RESULTS`).
+- *
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://orgmode.org
+Original source URL: https://orgmode.org
 
 ## Local Vault File
 

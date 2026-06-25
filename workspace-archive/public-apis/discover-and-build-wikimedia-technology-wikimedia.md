@@ -8,17 +8,17 @@ local_vault_path: ai/resources/discover-and-build-wikimedia-technology-wikimedia
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- dataset
 - hackernews
 - paper
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Discover and build Wikimedia technology - Wikimedia Developer Portal
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Public APIs`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **APIs & Data Access**: Wikimedia provides public APIs and bulk data dumps for programmatic access to Wikipedia articles, media files, and structured datasets (e.g., Wikidata, page dumps).
-- **Tooling & Automation**: Developers can build bots and tools (e.g., edit assistants, moderation scripts) using Wikimedia’s open-source frameworks and APIs to enhance content maintenance.
-- **Community & Contribution**: Open-source contributions to Wikimedia’s infrastructure (e.g., MediaWiki, Wikibase) are
+- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads for programmatic use.
+- **Tooling & Automation**: Develop bots and tools to streamline editing, maintenance, and workflows for Wikimedia projects.
+- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem by contributing to software development and community-driven projects.
 
 ## Use Cases
 

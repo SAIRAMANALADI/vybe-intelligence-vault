@@ -2,7 +2,7 @@
 title: 'RAG Techniques: Zero to Hero — A Complete Guide | martinuke0''s Blog'
 archive_category: observability
 source_category: ai/rag
-source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
+source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers manage caching, latency, and cost optimization.
+- **RAG Architecture & Pipeline**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/caching; hybrid retrieval (BM25 + vector) improves recall/precision, while ANN indexes (HNSW, IVF+PQ) enable scalable vector search.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-hop iterative retrieval, and cross-encoder reranking improve precision/recall, while query rewriting and semantic chunking enhance semantic alignment and context coherence.
-
-- **Context Opt
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings should be domain-fine-tuned, normalized, and periodically re-embedded f
 
 ## Use Cases
 
@@ -53,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
+Original source URL: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
 
 ## Local Vault File
 

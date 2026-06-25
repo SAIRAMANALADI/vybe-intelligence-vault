@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Twilio SendGrid API Integration**: Uses SDKs (Node.js, Python, Ruby, etc.) to send emails via API with structured payloads (e.g., `from`, `to`, `subject`, `html`/`text` fields) and environment variables for API key authentication (`SENDGRID_API_KEY`).
-
-- **Multi-Language Support**: Provides SDKs and quickstart guides for C#, Go, Java, Node.js, PHP, Python, and Ruby, demonstrating cross-platform email sending with language-specific syntax (e.g., `SendGridClient` in C#, `mail.NewSingleEmail` i
+- **API Integration**: Twilio SendGrid provides a RESTful v3 API for sending transactional and marketing emails, with SDKs available in multiple languages (e.g., Node.js, Python, Java) to simplify implementation.
+- **Authentication & Security**: Requires API key authentication (`SENDGRID_API_KEY`) and supports domain authentication (DKIM/SPF) to ensure deliverability and prevent spoofing.
+- **Advanced Features**: Supports dynamic templates (Handlebars), inbound email parsing, event webhooks for
 
 ## Use Cases
 

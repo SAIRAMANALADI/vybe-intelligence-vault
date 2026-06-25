@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://mystmd.org/guide/deployment#deploy-base-url
-published_at: '2026-06-22T11:32:13.044110+05:30'
-collected_at: '2026-06-22T11:32:13.044122+05:30'
+published_at: '2026-06-24T22:59:20.310280+05:30'
+collected_at: '2026-06-24T22:59:20.310295+05:30'
 tags:
 - reddit
 - scripts
 - web-crawled
 status: active
 resource_id: blog:host-your-myst-site-myst-markdown
-first_seen: '2026-06-22T11:32:13.044122+05:30'
-last_seen: '2026-06-22T11:32:13.044122+05:30'
-last_checked: '2026-06-22T11:32:13.044122+05:30'
+first_seen: '2026-06-24T22:59:20.310295+05:30'
+last_seen: '2026-06-24T22:59:20.310295+05:30'
+last_checked: '2026-06-24T22:59:20.310295+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- MyST supports **static website deployment** (via `myst build --html` → `_build/html`) and **application-based deployment** (via `myst build --site` → `_build/site`), with the latter enabling dynamic rendering, performance optimizations (e.g., pre-fetching), and seamless updates.
+- MyST supports two deployment modes: **static websites** (pre-built HTML files served from hosts like GitHub Pages/Netlify) and **application mode** (dynamic generation via a MyST server on providers like Curvenote/Vercel), with the latter offering performance optimizations (e.g., pre-fetching, instant transitions) and seamless updates.
 
-- Static deployments require a root `index.html` (auto-generated unless nested URLs are used) and folder-based paths (e.g., `/folder/mydoc/index.html`), while dynamic deployments rely on structured site data (e.g., metadata, cross-references) in `_build/site` for server-side processing.
+- Static deployments require `myst build --html` to generate `_build/html` (with `index.html` at root for root URLs), while application deployments use `myst build --site` to create structured site data (`_build/site`) for dynamic serving, with environment variables like `BASE_URL` resolving subfolder links.
 
-- Static hosting platforms (GitHub Pages, Netlify) require manual `BASE_URL` configuration for subfolder deployments (e.g., `mysite.org/docs/`), whereas application hosting (e.g., Curvenote) natively supports MyST’s dynamic themes and runtime features.
+- Static sites must exclude `_build` from Git via `.gitignore`, whereas application deployments (e.g., Curvenote) natively support MyST’s structured data format (MyST AST) and managed themes, enabling dynamic content rendering.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:32:13.044110+05:30
+- Published: 2026-06-24T22:59:20.310280+05:30
 
 ## Related Tags
 

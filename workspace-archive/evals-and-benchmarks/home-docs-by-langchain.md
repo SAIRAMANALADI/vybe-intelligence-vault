@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain Documentation Index**: Centralized `/llms.txt` file lists all available documentation pages for LangChain, LangGraph, and Deep Agents.
+- **LangChain Documentation Index**: Centralized `/llms.txt` file listing all available documentation pages for LangChain, accessible at [/llms.txt](https://docs.langchain.com/llms.txt).
 
-- **Agent Development Lifecycle Platform**: Supports **build** (LangChain/LangGraph/Deep Agents), **test** (datasets/evaluations), **deploy**, **monitor**, and **govern** phases for reliable agent deployment.
+- **Agent Development Platform**: Unified platform supporting agent lifecycle stages—development (LangChain/LangGraph/Deep Agents), testing (datasets/evaluations), deployment, monitoring, and governance.
 
-- **LangSmith Features**: Includes **Engine** (automated failure detection), **Fleet** (no-code agent builder), **Academy** (training course
+- **LangSmith Features**: Includes Engine for automated failure detection, no-code agent builder (LangSmith
 
 ## Use Cases
 

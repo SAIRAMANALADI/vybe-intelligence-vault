@@ -3,7 +3,7 @@ title: 'The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Super
   Retrieval-Augmented Generation Systems | mar'
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems
+source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
 local_vault_path: ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md
 quality_score: 70
@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and LangSmith for observability; supports dense/sparse retrieval and vector stores like Pinecone/Weaviate, ideal for complex, production-grade pipelines.
+- **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, stateful pipelines but has a steep learning curve. Supports dense/sparse retrieval and integrates with vector stores like Pinecone/Weaviate.
 
-- **LlamaIndex**: Specializes in advanced data ingestion, indexing, and retrieval with multimodal support (text/images/PDFs); optimized for enterprise-scale knowledge bases and robust retrieval accuracy via custom retrievers and query engines.
-
-- **Haystack
+- **LlamaIndex**: Optimized for production-grade indexing and retrieval, handling multimodal data (text/images/PDFs) with advanced routers and query engines. Features 100+ data source integrations
 
 ## Use Cases
 
@@ -54,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems
+Original source URL: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
 
 ## Local Vault File
 

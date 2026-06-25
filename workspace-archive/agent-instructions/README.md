@@ -17,6 +17,8 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 
 https://github.com/cursor-rules (Cursor Rules Community)
 https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
 
 ## Best Learning Resources
 

@@ -4,7 +4,7 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/google/tour-of-wgsl
-collected_at: '2026-06-16T17:27:23.807133+05:30'
+collected_at: '2026-06-25T16:35:45.217134+05:30'
 published_at: '2026-05-22T13:14:28Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:google/tour-of-wgsl
 first_seen: '2026-06-12T10:40:17.491041+00:00'
-last_seen: '2026-06-16T17:27:23.807133+05:30'
-last_checked: '2026-06-16T17:27:23.807133+05:30'
+last_seen: '2026-06-25T16:35:45.217134+05:30'
+last_checked: '2026-06-25T16:35:45.217134+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: google
 - Stars: 155
-- Forks: 27
+- Forks: 26
 - Language: TypeScript
 - Topics: graphics, webgpu, wgsl
 - Last Updated: 2026-05-22T13:14:28Z

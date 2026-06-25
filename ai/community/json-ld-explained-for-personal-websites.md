@@ -13,13 +13,14 @@ collected_at: '2026-06-22T15:16:22.219761+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:json-ld-explained-for-personal-websites
 first_seen: '2026-06-22T10:21:38.613805+05:30'
 last_seen: '2026-06-22T15:16:22.219761+05:30'
 last_checked: '2026-06-22T15:16:22.219761+05:30'
 health_score: 100
 ---
+
 
 # JSON-LD explained for personal websites
 

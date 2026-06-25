@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://packaging.python.org
-published_at: '2026-06-22T15:53:13.782891+05:30'
-collected_at: '2026-06-22T15:53:13.782910+05:30'
+published_at: '2026-06-25T20:50:07.895700+05:30'
+collected_at: '2026-06-25T20:50:07.895714+05:30'
 tags:
 - models
 - web-crawled
 - workflows
 status: active
 resource_id: blog:python-packaging-user-guide
-first_seen: '2026-06-22T15:53:13.782910+05:30'
-last_seen: '2026-06-22T15:53:13.782910+05:30'
-last_checked: '2026-06-22T15:53:13.782910+05:30'
+first_seen: '2026-06-25T20:50:07.895714+05:30'
+last_seen: '2026-06-25T20:50:07.895714+05:30'
+last_checked: '2026-06-25T20:50:07.895714+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Python Packaging User Guide** is a curated resource maintained by the Python Packaging Authority (PyPA) on GitHub, providing tutorials, guides, and references for modern Python package distribution and installation workflows.
-- **Tutorials** cover foundational tasks such as installing packages, managing dependencies in version-controlled projects, and packaging/distributing projects, while **Guides** offer task-specific instructions for users already familiar with packaging concepts.
-- **Reference materials** include PyPA specifications for interoperability, a glossary of key terms, and discussions on advanced topics like deployment strategies and tool comparisons (e.g., `pip` vs. `easy_install`).
+- **Python Packaging User Guide** provides structured documentation for distributing and installing Python packages using modern tools, maintained by the Python Packaging Authority (PyPA) on [GitHub](https://github.com/pypa/packaging.python.org).
+
+- **Key sections** include *Tutorials* (step-by-step guides for packaging, dependency management, and installation), *Guides* (focused "how-to" instructions for users familiar with packaging), and *Reference* (PyPA specifications, key projects, and a glossary of terms).
+
+- **Additional resources** cover *Explanations and Discussions* (in-depth topics like deployment and tool comparisons) and an *Overview* of Python packaging workflows to aid tool selection and project preparation.
 
 ## Why It Matters
 
@@ -34,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:53:13.782891+05:30
+- Published: 2026-06-25T20:50:07.895700+05:30
 
 ## Related Tags
 

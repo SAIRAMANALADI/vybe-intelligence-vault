@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://todap.github.io/RAG
-published_at: '2026-06-18T16:18:37.116641+05:30'
-collected_at: '2026-06-18T16:18:37.116656+05:30'
+published_at: '2026-06-23T09:54:18.294247+05:30'
+collected_at: '2026-06-23T09:54:18.294252+05:30'
 tags:
 - mistral
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-chatbot-application-rag
-first_seen: '2026-06-18T16:18:37.116656+05:30'
-last_seen: '2026-06-18T16:18:37.116656+05:30'
-last_checked: '2026-06-18T16:18:37.116656+05:30'
+first_seen: '2026-06-23T09:54:18.294252+05:30'
+last_seen: '2026-06-23T09:54:18.294252+05:30'
+last_checked: '2026-06-23T09:54:18.294252+05:30'
 health_score: 100
 ---
 
@@ -23,7 +23,9 @@ health_score: 100
 
 ## Summary
 
-RAG RAG Chatbot Application🤖 Introduction This project implements a Context-Awarew Retrieval-Augmented Generation (RAG) chatbot using Streamlit.The chatbot is powered by the Mistral-7B-Instruct-v0.3 language model integrated with ChromaDB as vector d...
+- **Architecture**: Implements a RAG-based chatbot using Mistral-7B-Instruct-v0.3 LLM with ChromaDB as the vector database for contextual retrieval.
+- **Key Features**: Supports document uploads, conversational history retention, and user feedback for response improvement.
+- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb` for operation.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T16:18:37.116641+05:30
+- Published: 2026-06-23T09:54:18.294247+05:30
 
 ## Related Tags
 

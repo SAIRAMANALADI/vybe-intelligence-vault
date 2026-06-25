@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
 selection_reason:
@@ -33,7 +34,9 @@ selection_reason:
 
 ## Summary
 
-🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
+- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools categorized into 20+ sections, updated monthly as of June 2026.
+- **Key Technologies Covered**: Includes frameworks like LangChain, ChatGPT, and LLM integrations, with focus on machine learning and artificial intelligence applications.
+- **Repository Metrics**: 1,159 stars, 403 forks, maintained under the `caramaschiHG` GitHub organization.
 
 ## Use Cases
 

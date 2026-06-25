@@ -1,0 +1,55 @@
+---
+title: onyx-dot-app/EnterpriseRAG-Bench
+archive_category: observability
+source_category: ai/rag
+source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
+resource_id: github:onyx-dot-app/enterpriserag-bench
+local_vault_path: ai/rag/onyx-dot-app-enterpriserag-bench.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- rag
+- unknown
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# onyx-dot-app/EnterpriseRAG-Bench
+
+## Why This Is In The Archive
+
+- Matched archive category: `Observability`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in domain-specific contexts.
+
+- **Dataset Composition**: Includes synthetic and real-world enterprise data, covering diverse document types (e.g., contracts, emails, reports) to simulate internal knowledge bases, with synthetic data generation for scalability and privacy compliance.
+
+- **E
+
+## Use Cases
+
+- Production trace tracking
+- LLM request cost audits
+- Latency profiling
+
+## Source
+
+Original source URL: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
+
+## Local Vault File
+
+Path: [onyx-dot-app-enterpriserag-bench.md](../../ai/rag/onyx-dot-app-enterpriserag-bench.md)

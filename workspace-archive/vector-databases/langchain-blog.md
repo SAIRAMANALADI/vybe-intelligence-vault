@@ -8,15 +8,16 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - rag
 - web-crawled
 - workflows
+- youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -25,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Loop Engineering in Agents**: Introduces methodologies for designing iterative agent workflows, emphasizing dynamic feedback loops for improved adaptability and decision-making in agent architectures.
+- **SmithDB Inverted Index**: Implemented a scalable inverted index in SmithDB for full-text search, optimized for object storage with efficient tokenization, postings list compression, and probabilistic data structures (e.g., Bloom filters) for metadata filtering.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent systems, ensuring flexibility and cost efficiency in AI deployments.
-
-- **Fault Tolerance in LangGraph**: Details LangGraph
+- **Model Neutrality Framework**: Proposed a model-neutral architecture prioritizing API abstraction over cloud provider lock-in, enabling seamless switching between LLMs via standardized interfaces while maintaining performance pari
 
 ## Use Cases
 

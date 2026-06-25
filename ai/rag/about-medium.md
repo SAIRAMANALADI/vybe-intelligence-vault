@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://about.medium.com
-published_at: '2026-06-22T15:27:28.601752+05:30'
-collected_at: '2026-06-22T15:27:28.601767+05:30'
+published_at: '2026-06-25T23:00:21.039206+05:30'
+collected_at: '2026-06-25T23:00:21.039213+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:about-medium
-first_seen: '2026-06-22T15:27:28.601767+05:30'
-last_seen: '2026-06-22T15:27:28.601767+05:30'
-last_checked: '2026-06-22T15:27:28.601767+05:30'
+first_seen: '2026-06-25T23:00:21.039213+05:30'
+last_seen: '2026-06-25T23:00:21.039213+05:30'
+last_checked: '2026-06-25T23:00:21.039213+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists.
-
-- **Monetization & Community**: Operates without ads or data sales, funded by over a million paying members who support its mission of fostering meaningful writing and reading experiences.
-
-- **User Base & Engagement**: Hosts over 100 million monthly active users, including diverse contributors (e.g., developers, CEOs, novelists) who publish long-form content on topics ranging from personal experiences to professional expertise.
+- **Mission & Model**: Medium is a content platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, funded by a community of over 1M members rather than ads or data monetization.
+- **User Base**: Hosts 100M+ monthly users (developers, designers, executives, etc.) sharing expertise, experiences, and insights without requiring pre-existing audiences.
+- **Core Features**: Offers a collaborative, ad-free space for publishing and discovery, with built-in tools for reading and writing, supported by membership-driven sustainability.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:27:28.601752+05:30
+- Published: 2026-06-25T23:00:21.039206+05:30
 
 ## Related Tags
 

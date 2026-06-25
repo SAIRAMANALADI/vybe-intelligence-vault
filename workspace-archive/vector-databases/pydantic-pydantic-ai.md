@@ -1,5 +1,5 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)'
+title: 'pydantic/pydantic-ai Release: v2.0.0 (2026-06-23)'
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://github.com/pydantic/pydantic-ai
@@ -8,33 +8,37 @@ local_vault_path: ai/rag/pydantic-pydantic-ai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
 - github-release
+- hackernews
+- mistral
+- models
+- openai
 - pydantic-pydantic-ai
 - rag
 selection_reason:
 - Active open-source repository
 ---
 
-# pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)
+# pydantic/pydantic-ai Release: v2.0.0 (2026-06-23)
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-# 🚀 Pydantic AI V2 Beta 7 is here!
+# 🎉 Pydantic AI V2.0 is here!
 
-For more information on Pydantic AI V2, see the [release notes](https://github.com/pydantic/pydantic-ai/releases/tag/v2.0.0b1) for `v2.0.0b1` and the [Upgrade Guide](https://fb...
+After seven betas, **Pydantic AI V2 is now stable.** V2 leans into a harness-first design with [capabilities](https://ai.pydantic.dev/capabilities/) as a core primitive — a single composable unit that bundles an agent's tools, hooks, instructions, and model settings, r...
 
 ## Use Cases
 

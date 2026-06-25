@@ -1,5 +1,6 @@
 ---
-title: Introducing Search Toolkit
+title: Product Introducing Search Toolkit Production search pipelines, anywhere. May
+  28, 2026 Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/search-toolkit
@@ -8,7 +9,7 @@ local_vault_path: ai/companies/mistral/introducing-search-toolkit.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: reference
+resource_kind: workflow
 importance: high
 tags:
 - blog-post
@@ -20,20 +21,20 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Introducing Search Toolkit
+# Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: reference
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Introducing Search Toolkit
+Recent update from Mistral AI News Blog: Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral
 
 ## Use Cases
 

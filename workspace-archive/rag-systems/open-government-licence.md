@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under OGL v3.0, subject to attribution requirements.
+- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement.
-
-- *
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests (unless integral), mi
 
 ## Use Cases
 

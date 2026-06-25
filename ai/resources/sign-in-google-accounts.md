@@ -3,18 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://security.google.com/settings/security/permissions
-published_at: '2026-06-22T11:30:12.550426+05:30'
-collected_at: '2026-06-22T11:30:12.550437+05:30'
+source_url: https://issuetracker.google.com/issues/new?component=186600&template=874803
+published_at: '2026-06-25T22:59:51.579766+05:30'
+collected_at: '2026-06-25T22:59:51.579773+05:30'
 tags:
-- reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-06-22T11:30:12.550437+05:30'
-last_seen: '2026-06-22T11:30:12.550437+05:30'
-last_checked: '2026-06-22T11:30:12.550437+05:30'
+first_seen: '2026-06-25T22:59:51.579773+05:30'
+last_seen: '2026-06-25T22:59:51.579773+05:30'
+last_checked: '2026-06-25T22:59:51.579773+05:30'
 health_score: 100
 ---
 
@@ -22,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Mechanism**: Utilizes Google Account-based sign-in with CAPTCHA verification to distinguish human users from automated bots.
-- **Privacy Option**: Provides Guest mode for private browsing, disabling account-specific data retention during session.
-- **Session Handling**: Redirects users to account creation workflow upon selecting "Create account" option.
+- **Authentication Flow**: The page implements Google's OAuth-based sign-in flow with a `WebLiteSignIn` endpoint, requiring email/phone input and redirecting to `ServiceLogin` for credential validation.
+
+- **Recovery & Security**: Includes a `usernamerecovery` endpoint for forgotten emails and enforces private browsing mode (`Guest mode`) for non-trusted devices via `p=signin_privatebrowsing` parameter.
+
+- **Lifecycle Management**: Provides account creation via `GlifWebSignIn` flow (`SignUp` endpoint) and tracks post-authentication redirects using `followup` and `continue` query parameters for seamless issue submission.
 
 ## Why It Matters
 
@@ -34,14 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:30:12.550426+05:30
+- Published: 2026-06-25T22:59:51.579766+05:30
 
 ## Related Tags
 
-- reddit
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://security.google.com/settings/security/permissions
+Original source: https://issuetracker.google.com/issues/new?component=186600&template=874803

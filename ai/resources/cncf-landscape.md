@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://landscape.cncf.io
-published_at: '2026-06-22T10:47:49.644242+05:30'
-collected_at: '2026-06-22T10:47:49.644250+05:30'
+published_at: '2026-06-24T23:09:37.003000+05:30'
+collected_at: '2026-06-24T23:09:37.003010+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:cncf-landscape
-first_seen: '2026-06-22T10:47:49.644250+05:30'
-last_seen: '2026-06-22T10:47:49.644250+05:30'
-last_checked: '2026-06-22T10:47:49.644250+05:30'
+first_seen: '2026-06-24T23:09:37.003010+05:30'
+last_seen: '2026-06-24T23:09:37.003010+05:30'
+last_checked: '2026-06-24T23:09:37.003010+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:47:49.644242+05:30
+- Published: 2026-06-24T23:09:37.003000+05:30
 
 ## Related Tags
 

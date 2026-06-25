@@ -6,7 +6,7 @@ source_url: https://todap.github.io/RAG
 resource_id: blog:rag-chatbot-application-rag
 local_vault_path: ai/rag/rag-chatbot-application-rag.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,7 +33,9 @@ selection_reason:
 
 ## Summary
 
-RAG RAG Chatbot Application🤖 Introduction This project implements a Context-Awarew Retrieval-Augmented Generation (RAG) chatbot using Streamlit.The chatbot is powered by the Mistral-7B-Instruct-v0.3 language model integrated with ChromaDB as vector d...
+- **Architecture**: Implements a RAG-based chatbot using Mistral-7B-Instruct-v0.3 LLM with ChromaDB as the vector database for contextual retrieval.
+- **Key Features**: Supports document uploads, conversational history retention, and user feedback for response improvement.
+- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb` for operation.
 
 ## Use Cases
 

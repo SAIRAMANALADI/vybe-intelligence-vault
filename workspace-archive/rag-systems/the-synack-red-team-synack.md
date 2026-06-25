@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Synack Platform**: Combines AI-driven **Sara Autonomous Red Agent** with **1,500+ vetted SRT researchers** for continuous, scalable pentesting, integrating vulnerability management, reporting, and third-party integrations (e.g., API/cloud/app testing, compliance checks).
+- **Synack Platform**: Combines AI-driven vulnerability discovery (via **Sara AI Pentesting**) with a curated **Synack Red Team (SRT)** of 1,500+ vetted security researchers for continuous, scalable penetration testing, vulnerability management, and reporting.
 
-- **Hybrid Security Model**: Merges **agentic AI** (automated vulnerability discovery/prioritization) with **human expertise** (manual validation, social engineering, active offense) to deliver enterprise-grade offensive se
+- **SRT Vetting & Earning Model**: Multi-stage vetting (resume review, technical assessment, background checks) ensures elite researcher quality; compensation includes per-vulnerability bounties, hourly mission payouts, and mentorship opp
 
 ## Use Cases
 

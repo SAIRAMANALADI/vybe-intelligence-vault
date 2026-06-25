@@ -20,7 +20,7 @@ tags:
 - openai
 - rag
 - reddit
-- scripts
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,7 +39,9 @@ selection_reason:
 
 ## Summary
 
-Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter ...
+- **RAG Architecture**: A RAG system consists of two core components: a **retriever** (searches and fetches relevant text chunks from a knowledge base) and a **generator** (LLM that synthesizes answers using retrieved context to reduce hallucinations and improve accuracy).
+
+- **Vector Embedding & Storage**: Text chunks are converted into numerical **vector embeddings** (e.g., using `sentence-transformers/all-MiniLM-L6-v2`) and stored in a **FAISS index** for efficient similarity search, enabling
 
 ## Use Cases
 

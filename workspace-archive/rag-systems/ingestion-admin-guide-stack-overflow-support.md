@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Ingestion Configuration**: Admins enable/disable ingestion via **Admin settings > INGESTION**, controlling file uploads, API endpoints, and connector access. Regular users gain ingestion permissions if their reputation exceeds an admin-defined threshold.
+- **Ingestion Configuration**: Enabled via **Admin settings > INGESTION > Enable Ingestion**, allowing file uploads (manual/API) and AI-driven content transformation into Q&A pairs (knowledge objects), with a default quota of **100 objects/month** (expandable via paid tiers).
 
-- **Confluence Cloud Connector**: Requires a **1-year API token** (created in Confluence Cloud) with permissions for Stack Internal to ingest Confluence Cloud space pages (excluding attachments) via daily scans, avoiding duplicate content.
+- **Confluence Cloud Connector**: Requires **API token generation** (1-year expiry) in Confluence Cloud (via `id.atlassian.com/manage-profile/security/api-tokens`) and configuration in Stack Internal with **space keys**, *
 
 ## Use Cases
 

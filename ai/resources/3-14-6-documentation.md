@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-22T15:51:45.838075+05:30'
-collected_at: '2026-06-22T15:51:45.838094+05:30'
+published_at: '2026-06-25T20:49:04.134447+05:30'
+collected_at: '2026-06-25T20:49:04.134460+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-22T15:51:45.838094+05:30'
-last_seen: '2026-06-22T15:51:45.838094+05:30'
-last_checked: '2026-06-22T15:51:45.838094+05:30'
+first_seen: '2026-06-25T20:49:04.134460+05:30'
+last_seen: '2026-06-25T20:49:04.134460+05:30'
+last_checked: '2026-06-25T20:49:04.134460+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Python 3.14.6** is the latest stable release, with **3.15 (pre-release)** and **3.16 (in development)** available for testing; versions **3.9–3.13** receive security fixes, while **3.0–3.8** and **2.7–2.6** are end-of-life (EOL).
+- **Documentation Structure**: Python 3.14.6 documentation is organized into sections including "What's new," "Tutorial," "Library reference," "Language reference," "Python setup and usage," and "Python HOWTOs," covering syntax, standard library, and advanced topics.
 
-- **Official documentation** includes structured sections: *What's New*, *Tutorial*, *Library/Reference Manuals*, *C API*, *HOWTOs*, and *FAQs*, with additional resources like *PEP Index*, *Packaging Guide*, and *Static Typing* docs.
+- **Version Support**: Python provides active documentation for versions 3.10–3.16 (with 3.14 marked stable), while versions 3.9 and below are marked as End-of-Life (EOL), indicating no further updates or security fixes.
 
-- **Documentation is generated via Sphinx 8.2.3**, licensed under **PSF License v2 + Zero-Clause BSD**, with source available for bug reporting and contributions via the [Python Developer’s Guide](https://devguide.python.org/).
+- **Additional Resources**: Includes PEP Index, packaging guides, static typing documentation, and developer resources, with Sphinx 8.2.3 used for documentation generation and licensing under PSF License Version 2.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:51:45.838075+05:30
+- Published: 2026-06-25T20:49:04.134447+05:30
 
 ## Related Tags
 

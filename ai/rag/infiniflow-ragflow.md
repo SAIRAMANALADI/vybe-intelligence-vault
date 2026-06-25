@@ -3,25 +3,28 @@ title: infiniflow/ragflow
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-06-22T15:18:03.159007+05:30'
-published_at: '2026-06-22T09:33:54Z'
+source_url: https://github.com/infiniflow/ragflow?source=post_page
+resource_id: github:infiniflow/ragflow
+-----dba899ae0355---------------------------------------
+collected_at: '2026-06-25T22:58:17.643541+05:30'
+published_at: '2026-06-25T17:26:20Z'
 tags:
 - agents
 - github-repo
-- python
+- go
 - rag
-stars: 83339
-language: Python
+- workflows
+stars: 83630
+language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-06-22T09:33:47Z'
+pushed_at: '2026-06-25T13:45:36Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-06-22T15:18:03.159007+05:30'
-last_seen: '2026-06-22T15:18:03.159007+05:30'
-last_checked: '2026-06-22T15:18:03.159007+05:30'
+first_seen: '2026-06-25T22:58:17.643541+05:30'
+last_seen: '2026-06-25T22:58:17.643541+05:30'
+last_checked: '2026-06-25T22:58:17.643541+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic capabilities, enabling dynamic context augmentation and multi-step reasoning for LLMs beyond traditional RAG pipelines.
+- **Hybrid RAG-Plus-Agent Architecture**: Combines traditional RAG with agentic workflows to enhance LLM context processing via dynamic retrieval, reasoning, and tool integration.
 
-- **Context Engine & Management**: Implements a structured context layer for LLMs, featuring context extraction, compression, and adaptive retrieval to optimize prompt relevance and reduce hallucinations.
+- **Go-Based Implementation**: Optimized for high-performance context management with native support for parallelized document processing and vectorized retrieval.
 
-- **Open-Source Python Framework**: Built in Python with modular components for document parsing, vector search, and agent orchestration, supporting scalable deployment for production-grade LLM applications.
+- **Enterprise-Grade Features**: Supports structured/unstructured data ingestion, multi-modal retrieval, and adaptive context compression for scalable LLM applications.
 
 ## Why It Matters
 
@@ -42,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 83339
-- Forks: 9648
-- Language: Python
+- Stars: 83630
+- Forks: 9700
+- Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-22T09:33:54Z
+- Last Updated: 2026-06-25T17:26:20Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-06-22T09:33:47Z
+- Pushed At: 2026-06-25T13:45:36Z
 
 ## Possible Use Cases
 
@@ -68,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/infiniflow/ragflow
+Original source: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------

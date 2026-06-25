@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -32,14 +32,15 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-On this pageOverviewConceptsPreviewSetupInstallationLangSmithComponents1. IndexingLoading documentsSplitting documentsStoring documents2. Retrieval and generationRAG agentsRAG chainsSecurity: indirect prompt injectionNext stepsTutorialsLangChainBuild...
+*   RAG indexing pipelines ingest unstructured data by loading it into `Document` objects, chunking with `RecursiveCharacterTextSplitter`, embedding via an `Embeddings` model, and persisting in a `VectorStore` for efficient semantic retrieval.
+*   Retrieval involves embedding a user query and performing a similarity search against the `VectorStore` to fetch contextually relevant document splits, which are then passed to an
 
 ## Use Cases
 

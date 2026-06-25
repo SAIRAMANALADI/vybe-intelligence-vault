@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://academy.ripe.net
-published_at: '2026-06-22T10:50:14.496789+05:30'
-collected_at: '2026-06-22T10:50:14.496800+05:30'
+published_at: '2026-06-24T23:18:03.403734+05:30'
+collected_at: '2026-06-24T23:18:03.403745+05:30'
 tags:
+- hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:home-ripe-ncc-academy
-first_seen: '2026-06-22T10:50:14.496800+05:30'
-last_seen: '2026-06-22T10:50:14.496800+05:30'
-last_checked: '2026-06-22T10:50:14.496800+05:30'
+first_seen: '2026-06-24T23:18:03.403745+05:30'
+last_seen: '2026-06-24T23:18:03.403745+05:30'
+last_checked: '2026-06-24T23:18:03.403745+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **RIPE NCC Academy** offers structured training and certifications across key internet infrastructure domains, including IPv6, routing, measurements, registry management, and governance, with verifiable digital badges upon completion.
-
-- **Upcoming instructor-led and webinar-based training events** cover advanced topics such as RPKI deployment, BGP routing security, and RIPE Database management, scheduled globally (e.g., Amsterdam, Oslo, Vilnius) through August 2026.
-
-- **Additional resources** include a video library for conceptual explanations, a proctored certification exam system, and a program for hosting RIPE NCC training courses in local regions.
+- **Training & Certification**: RIPE NCC Academy offers structured courses and certifications in IPv6, routing, RPKI, BGP security, RIPE Database management, and Internet governance, with verifiable digital badges upon completion.
+- **Upcoming Events**: Instructor-led training and webinars scheduled through August 2026, covering advanced IPv6, RPKI deployment, routing security, and LIR operations across multiple global locations.
+- **Resources**: Video library for technical concepts, hosting opportunities for local training events, and survey-driven improvements to training services.
 
 ## Why It Matters
 
@@ -35,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:50:14.496789+05:30
+- Published: 2026-06-24T23:18:03.403734+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 - youtube
 

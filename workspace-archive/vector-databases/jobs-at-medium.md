@@ -6,10 +6,10 @@ source_url: https://job-boards.greenhouse.io/medium
 resource_id: blog:jobs-at-medium
 local_vault_path: ai/rag/jobs-at-medium.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - rag
 - web-crawled
@@ -22,16 +22,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- No active job postings or career opportunities listed on Medium's official careers page as of the latest scan.
-- Medium's hiring pipeline appears to be currently inactive, with no roles open for application.
-- Job seekers cannot set up alerts for opportunities since no positions are available.
+- **No active job openings** at Medium as of the latest update.
+- **Job alert system** available for users to receive notifications for future opportunities.
+- **Medium’s mission** remains focused on building the optimal platform for reading and writing online.
 
 ## Use Cases
 

@@ -199,7 +199,24 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [],
+  "recently_inactive_resources": [
+    {
+      "id": "hackernews:rubyllm-a-ruby-framework-for-all-major-ai-provider",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://rubyllm.com",
+      "file_path": "ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md"
+    },
+    {
+      "id": "hackernews:tell-hn-openai-has-started-putting-ads-on-paid-pro",
+      "title": "Tell HN: OpenAI has started putting ads on paid programs",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=48673194",
+      "file_path": "ai/community/tell-hn-openai-has-started-putting-ads-on-paid-pro.md"
+    }
+  ],
   "entered_essential": [],
   "left_essential": []
 }

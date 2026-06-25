@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format Documentation Generation**: Supports output formats including HTML, LaTeX (PDF), ePub, and Texinfo via extensible builder mechanisms.
-- **Cross-Referencing & Extensibility**: Enables intra/inter-project cross-references (sections, figures, code objects) and modular extension via built-in/third-party plugins (e.g., autodoc, intersphinx).
-- **Authoring & Internationalization**: Supports reStructuredText/MyST Markdown for structured content and provides i18n workflows for multiling
+- **Documentation Generation**: Sphinx converts reStructuredText or MyST Markdown into structured technical documents with support for tables, code blocks, math notations, and cross-references across projects via `intersphinx`.
+
+- **Multi-Format Output & Extensibility**: Supports HTML, LaTeX (PDF), ePub, Texinfo, and more, with built-in/third-party themes and extensions for custom functionality (e.g., API docs via `autodoc`).
+
+- **Automated & Internationalized Workflows**: Generates API document
 
 ## Use Cases
 

@@ -15,7 +15,6 @@ tags:
 - frontend_ui
 - hackernews
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Conversations API Suite**: Provides persistent, cross-channel conversation memory (`Conversation Memory`), intelligent orchestration (`Conversation Orchestrator`), AI-powered transcription/analysis (`Conversation Intelligence`), and voice AI integration (`Conversation Relay`) for seamless human/AI interactions.
+- **Twilio Conversations** provides persistent, cross-channel messaging with AI-powered memory, orchestration, and intelligence for seamless human/AI agent interactions, including voice transcription and real-time context.
 
-- **Core Communications Stack**: Includes multichannel messaging APIs (SMS, WhatsApp, RCS), global voice APIs (`Voice API`), SIP trunking (`Elastic SIP Trunking`), and contact center
+- **Twilio Communications APIs** enable scalable, global messaging (SMS, WhatsApp, RCS), voice calling, email (SendGrid), and SIP trunking, with tools like TaskRouter for skills-based routing and Event Streams for real-time data feeds.
+
+- **Twilio’s Authentication & Developer
 
 ## Use Cases
 

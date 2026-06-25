@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://datacollective.mozillafoundation.org
-published_at: '2026-06-22T11:36:09.704373+05:30'
-collected_at: '2026-06-22T11:36:09.704384+05:30'
+published_at: '2026-06-24T23:15:55.403919+05:30'
+collected_at: '2026-06-24T23:15:55.403927+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:join-mozilla-data-collective
-first_seen: '2026-06-22T11:36:09.704384+05:30'
-last_seen: '2026-06-22T11:36:09.704384+05:30'
-last_checked: '2026-06-22T11:36:09.704384+05:30'
+first_seen: '2026-06-24T23:15:55.403927+05:30'
+last_seen: '2026-06-24T23:15:55.403927+05:30'
+last_checked: '2026-06-24T23:15:55.403927+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Decentralized Data Sharing Platform**: Mozilla Data Collective enables users to upload, share, and monetize datasets while retaining full ownership and control over access, licensing, and terms, ensuring fair value exchange and consent-driven data usage.
+- **Decentralized Data Ownership & Monetization**: Platform enables users to upload datasets while retaining full ownership, allowing them to set access terms, licensing conditions, and retain 100% revenue from data usage.
 
-- **Multilingual, Multicultural, Multimodal Focus**: Curates diverse, globally sourced datasets to ensure AI and technology development serves underrepresented communities, emphasizing provenance, ethical governance, and open/community-driven licensing models.
+- **Multilingual & Multicultural Dataset Curation**: Aggregates diverse, globally-sourced datasets (text, audio, visual) to ensure AI/ML systems are trained on representative, ethically-sourced data from underrepresented communities.
 
-- **Mission-Locked Non-Profit Infrastructure**: Operates as a British mission-locked entity under Mozilla Foundation, providing a trustworthy, non-extractive platform for organizations (libraries, archives, non-profits) to share data in alignment with their ethical and mission-driven values.
+- **Community-Governed & Ethical AI Framework**: Operates as a mission-locked British nonprofit, prioritizing consent, provenance transparency, and fair value exchange to mitigate exploitative data extraction practices in AI development.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:36:09.704373+05:30
+- Published: 2026-06-24T23:15:55.403919+05:30
 
 ## Related Tags
 

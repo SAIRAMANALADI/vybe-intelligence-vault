@@ -1,0 +1,54 @@
+---
+title: vercel/ai
+archive_category: model-providers
+source_category: ai/agents
+source_url: https://github.com/vercel/ai
+resource_id: github:vercel/ai
+local_vault_path: ai/agents/vercel-ai.md
+quality_score: 70
+archive_score: 81
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- anthropic
+- frontend_ui
+- github-repo
+- openai
+- typescript
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# vercel/ai
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **AI SDK Core**: Open-source TypeScript library for building AI-powered applications and agents, developed by Vercel (creators of Next.js).
+- **Multi-Model & Framework Support**: Integrates with Anthropic, Gemini, OpenAI LLMs and supports React, Svelte, Vue, and Next.js for generative UI.
+- **Generative UI & Tooling**: Enables structured AI responses with TypeScript-first tooling, optimized for Vercel deployments (last updated 2026-06-25).
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://github.com/vercel/ai
+
+## Local Vault File
+
+Path: [vercel-ai.md](../../ai/agents/vercel-ai.md)

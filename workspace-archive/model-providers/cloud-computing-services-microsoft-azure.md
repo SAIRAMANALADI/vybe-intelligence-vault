@@ -2,7 +2,7 @@
 title: Cloud Computing Services | Microsoft Azure
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://azure.microsoft.com
+source_url: https://azure.microsoft.com/en-us
 resource_id: blog:cloud-computing-services-microsoft-azure
 local_vault_path: ai/rag/cloud-computing-services-microsoft-azure.md
 quality_score: 70
@@ -41,9 +41,9 @@ selection_reason:
 
 - **Rayfin**: Fully managed, agent- and code-optimized backend-as-a-service (BaaS) available on Microsoft Fabric or via SDK, designed for enterprise-scale AI systems.
 
-- **Azure HorizonDB**: PostgreSQL-based cloud database service engineered for ultra-low latency, scalable reads, and built-in AI integration to support mission-critical applications.
+- **Azure HorizonDB**: PostgreSQL-compatible cloud database service engineered for ultra-low latency, scalable reads, and built-in AI integration to support mission-critical applications.
 
-- **Foundry IQ**: AI-powered agentic layer that unifies organizational data, enabling agents to deliver superior, grounded results at enterprise sca
+- **Foundry IQ**: AI-powered knowledge integration layer enabling agents to access unified organizational data for delivering superior, context
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://azure.microsoft.com
+Original source URL: https://azure.microsoft.com/en-us
 
 ## Local Vault File
 

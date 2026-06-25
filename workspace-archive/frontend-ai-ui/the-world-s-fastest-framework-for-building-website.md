@@ -2,7 +2,7 @@
 title: The world's fastest framework for building websites
 archive_category: frontend-ai-ui
 source_category: ai/resources
-source_url: https://gohugo.io
+source_url: https://gohugo.io/
 resource_id: blog:the-world-s-fastest-framework-for-building-website
 local_vault_path: ai/resources/the-world-s-fastest-framework-for-building-website.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 88,676 GitHub stars (as of June 21, 2026).
+- **License & Popularity**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026).
 
-- **Performance & Flexibility**: Written in Go, optimized for speed; renders large sites in seconds with advanced templating, multilingual support, and powerful taxonomy system.
+- **Technical Features**: Written in Go, optimized for speed; supports multilingual content, advanced templating, fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS), and embedded web server for live reloading.
 
-- **Asset Pipeline & Development**: Supports image processing, JavaScript bundling, Sass, and TailwindCSS; includes an embedded web server for real-time development preview.
+- **Community & Maintenance**: Active community via Hugo forums; frequent releases with regular feature additions and maintenance.
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://gohugo.io
+Original source URL: https://gohugo.io/
 
 ## Local Vault File
 

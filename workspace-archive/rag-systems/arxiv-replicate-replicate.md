@@ -8,7 +8,7 @@ local_vault_path: ai/rag/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Music Generation**: `minimax/music-2.6` generates full-length songs or instrumentals from text prompts, optionally including auto-generated lyrics, with 13.8K runs recorded.
-
-- **Image Synthesis**: `krea/krea-2-medium` is a foundation image model optimized for expressive illustration, anime, and painterly styles, achieving fast and consistent performance across artistic directions with 5.6K runs.
-
-- **LLM Advancement**: `anthropic/claude-opus-4.7` is Anthropic’s most capable model, featuring
+- **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 195.9K runs.
+- **Claude-Opus-4.7**: Anthropic's advanced model excelling in agentic coding, vision tasks, and multi-step reasoning, with 112.6K runs.
+- **Seedream-5-Lite**: ByteDance’s image generation model featuring built-in reasoning, example-based editing, and deep domain knowledge, with 2.7M runs.
 
 ## Use Cases
 

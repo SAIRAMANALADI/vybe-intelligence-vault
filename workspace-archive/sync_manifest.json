@@ -106707,7 +106707,7 @@
       "source_url": "https://arxiv.org/abs/2606.15308",
       "archive_category": "evals-and-benchmarks",
       "quality_score": 70,
-      "archive_score": 74,
+      "archive_score": 72,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:15.188870+05:30"
@@ -142754,7 +142754,7 @@
       "source_url": "https://arxiv.org/abs/2602.11510",
       "archive_category": "model-providers",
       "quality_score": 70,
-      "archive_score": 76,
+      "archive_score": 72,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:31.705379+05:30"
@@ -156785,9 +156785,9 @@
       "generated_at": "2026-06-25T12:35:38.008523+05:30"
     },
     {
-      "archive_file": "workspace-archive/inference-local-llm/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md",
-      "source_vault_file": "ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md",
-      "source_url": "https://teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "archive_file": "workspace-archive/inference-local-llm/arxiv-2606-21428.md",
+      "source_vault_file": "ai/research/arxiv-2606-21428.md",
+      "source_url": "https://arxiv.org/abs/2606.21428",
       "archive_category": "inference-local-llm",
       "quality_score": 70,
       "archive_score": 72,
@@ -166184,7 +166184,7 @@
       "source_url": "https://arxiv.org/abs/2606.15004",
       "archive_category": "inference-local-llm",
       "quality_score": 70,
-      "archive_score": 72,
+      "archive_score": 78,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:42.021384+05:30"
@@ -166206,7 +166206,7 @@
       "source_url": "https://arxiv.org/abs/2606.15682",
       "archive_category": "inference-local-llm",
       "quality_score": 70,
-      "archive_score": 72,
+      "archive_score": 70,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:42.032273+05:30"
@@ -166217,7 +166217,7 @@
       "source_url": "https://arxiv.org/abs/2606.16131",
       "archive_category": "inference-local-llm",
       "quality_score": 70,
-      "archive_score": 82,
+      "archive_score": 84,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:42.037787+05:30"
@@ -166239,7 +166239,7 @@
       "source_url": "https://arxiv.org/abs/2606.18122",
       "archive_category": "inference-local-llm",
       "quality_score": 70,
-      "archive_score": 72,
+      "archive_score": 74,
       "archive_tier": "useful",
       "resource_kind": "framework",
       "generated_at": "2026-06-25T12:35:42.048945+05:30"
@@ -229649,10 +229649,87 @@
       "generated_at": "2026-06-25T12:36:09.285625+05:30"
     },
     {
-      "archive_file": "workspace-archive/public-apis/gemini-api-google-ai-for-developers.md",
-      "source_vault_file": "ai/agents/gemini-api-google-ai-for-developers.md",
-      "source_url": "https://ai.google.dev/gemini-api/docs",
+      "archive_file": "workspace-archive/public-apis/welcome-to-snowflake-documentation-snowflake-docum.md",
+      "source_vault_file": "ai/rag/welcome-to-snowflake-documentation-snowflake-docum.md",
+      "source_url": "https://docs.snowflake.net/manuals/index.html",
       "archive_category": "public-apis",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "benchmark",
+      "generated_at": "2026-06-25T23:11:05.484439+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/public-apis/fastapi-fastapi.md",
+      "source_vault_file": "ai/rag/fastapi-fastapi.md",
+      "source_url": "https://fastapi.tiangolo.com/",
+      "archive_category": "public-apis",
+      "quality_score": 70,
+      "archive_score": 82,
+      "archive_tier": "useful",
+      "resource_kind": "template",
+      "generated_at": "2026-06-25T23:11:05.486486+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/public-apis/memberstack-developers-documentation.md",
+      "source_vault_file": "ai/agents/memberstack-developers-documentation.md",
+      "source_url": "https://developers.memberstack.com/docs",
+      "archive_category": "public-apis",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "mcp-server",
+      "generated_at": "2026-06-25T23:11:05.488419+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/public-apis/newest-tensorflow-questions-stack-overflow.md",
+      "source_vault_file": "ai/agents/newest-tensorflow-questions-stack-overflow.md",
+      "source_url": "https://stackoverflow.com/questions/tagged/tensorflow",
+      "archive_category": "public-apis",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "dataset",
+      "generated_at": "2026-06-25T23:11:05.490563+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/ai-tools-products/opera-desktop-team-s-blog-opera.md",
+      "source_vault_file": "ai/resources/opera-desktop-team-s-blog-opera.md",
+      "source_url": "https://blogs.opera.com/desktop",
+      "archive_category": "ai-tools-products",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "tutorial",
+      "generated_at": "2026-06-25T23:11:05.492633+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/ai-tools-products/iphone-apple.md",
+      "source_vault_file": "ai/resources/iphone-apple.md",
+      "source_url": "https://www.apple.com/iphone",
+      "archive_category": "ai-tools-products",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "tutorial",
+      "generated_at": "2026-06-25T23:11:05.494619+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/ai-tools-products/beezwax-blog.md",
+      "source_vault_file": "ai/resources/beezwax-blog.md",
+      "source_url": "https://blog.beezwax.net",
+      "archive_category": "ai-tools-products",
+      "quality_score": 70,
+      "archive_score": 72,
+      "archive_tier": "useful",
+      "resource_kind": "dataset",
+      "generated_at": "2026-06-25T23:11:05.496637+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/ai-tools-products/jetbrains-academy-learn-tech-skills-with-developer.md",
+      "source_vault_file": "ai/resources/jetbrains-academy-learn-tech-skills-with-developer.md",
+      "source_url": "https://jetbrains.com/academy",
+      "archive_category": "ai-tools-products",
       "quality_score": 70,
       "archive_score": 72,
       "archive_tier": "useful",
@@ -229686,6 +229763,17 @@
       "source_vault_file": "ai/rag/integrating-with-bitbucket-cloud.md",
       "source_url": "https://developer.atlassian.com/bitbucket",
       "archive_category": "public-apis",
+      "quality_score": 70,
+      "archive_score": 74,
+      "archive_tier": "useful",
+      "resource_kind": "prompt",
+      "generated_at": "2026-06-25T23:11:05.663210+05:30"
+    },
+    {
+      "archive_file": "workspace-archive/ai-tools-products/university-atlassian-com.md",
+      "source_vault_file": "ai/agents/university-atlassian-com.md",
+      "source_url": "https://university.atlassian.com",
+      "archive_category": "ai-tools-products",
       "quality_score": 70,
       "archive_score": 72,
       "archive_tier": "useful",
@@ -229935,12 +230023,12 @@
       "generated_at": "2026-06-25T12:36:09.424153+05:30"
     },
     {
-      "archive_file": "workspace-archive/ai-tools-products/github-docs.md",
-      "source_vault_file": "ai/agents/github-docs.md",
-      "source_url": "https://docs.github.com",
+      "archive_file": "workspace-archive/ai-tools-products/building-mcps-with-netlify-netlify-developers.md",
+      "source_vault_file": "ai/agents/building-mcps-with-netlify-netlify-developers.md",
+      "source_url": "https://developers.netlify.com/guides/write-mcps-on-netlify",
       "archive_category": "ai-tools-products",
       "quality_score": 70,
-      "archive_score": 77,
+      "archive_score": 72,
       "archive_tier": "useful",
       "resource_kind": "tutorial",
       "generated_at": "2026-06-25T12:36:09.429747+05:30"
@@ -244647,7 +244735,7 @@
       "source_url": "https://www.ripe.net/analyse/internet-measurements/ripestat",
       "archive_category": "learning-paths",
       "quality_score": 70,
-      "archive_score": 72,
+      "archive_score": 77,
       "archive_tier": "useful",
       "resource_kind": "dataset",
       "generated_at": "2026-06-25T12:36:15.953799+05:30"
@@ -245183,7 +245271,7 @@
     {
       "archive_file": "workspace-archive/project-ideas/pydantic-docs-validation-ai-agents-logfire-observa.md",
       "source_vault_file": "ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md",
-      "source_url": "https://pydantic-docs.helpmanual.io",
+      "source_url": "https://docs.pydantic.dev",
       "archive_category": "project-ideas",
       "quality_score": 70,
       "archive_score": 72,

@@ -8,7 +8,7 @@ Below is the file distribution across the vault categories.
 | `ai/agents/` | 892 |
 | `ai/community/` | 5 |
 | `ai/companies/` | 10 |
-| `ai/companies/anthropic/` | 8 |
+| `ai/companies/anthropic/` | 9 |
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
@@ -23,7 +23,7 @@ Below is the file distribution across the vault categories.
 | `web-development/gsap/` | 6 |
 | `web-development/nextjs/` | 75 |
 | `web-development/react-three-fiber/` | 25 |
-| `web-development/shadcn-ui/` | 25 |
+| `web-development/shadcn-ui/` | 26 |
 | `web-development/tailwind/` | 1 |
 | `web-development/threejs/` | 24 |
 | `web-development/webgl/` | 1 |

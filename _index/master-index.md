@@ -7,7 +7,7 @@ Welcome to your private local Intelligence Vault.
 - **ai/agents**: 892 files
 - **ai/community**: 5 files
 - **ai/companies**: 10 files
-- **ai/companies/anthropic**: 8 files
+- **ai/companies/anthropic**: 9 files
 - **ai/companies/deepmind**: 5 files
 - **ai/companies/mistral**: 10 files
 - **ai/companies/openai**: 4 files
@@ -20,11 +20,12 @@ Welcome to your private local Intelligence Vault.
 
 ## Web Development
 
+- **web-development/dashboards**: 1 files
 - **web-development/framer-motion**: 25 files
 - **web-development/gsap**: 6 files
 - **web-development/nextjs**: 75 files
 - **web-development/react-three-fiber**: 25 files
-- **web-development/shadcn-ui**: 25 files
+- **web-development/shadcn-ui**: 26 files
 - **web-development/tailwind**: 1 files
 - **web-development/threejs**: 24 files
 - **web-development/webgl**: 1 files

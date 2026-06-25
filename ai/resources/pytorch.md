@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://pytorch.org
-published_at: '2026-06-22T11:24:28.239201+05:30'
-collected_at: '2026-06-22T11:24:28.239212+05:30'
+published_at: '2026-06-24T10:30:02.714020+05:30'
+collected_at: '2026-06-24T10:30:02.714034+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:pytorch
-first_seen: '2026-06-22T11:24:28.239212+05:30'
-last_seen: '2026-06-22T11:24:28.239212+05:30'
-last_checked: '2026-06-22T11:24:28.239212+05:30'
+first_seen: '2026-06-24T10:30:02.714034+05:30'
+last_seen: '2026-06-24T10:30:02.714034+05:30'
+last_checked: '2026-06-24T10:30:02.714034+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Helion** utilizes Likelihood-Free Bayesian Optimization (LFBO) for autotuning performance-critical ML kernels, reducing tuning time from minutes to seconds via LLM-guided search strategies.
-
-- **PyTorch Certified Associate (PTCA)** is a new certification launched by Linux Foundation Education and PyTorch Foundation, targeting early-stage practitioners to validate foundational PyTorch proficiency.
-
-- **PyTorch 2.7.0** (stable) requires Python ≥3.10 and supports CUDA 11.8/12.6/12.8, ROCm 6.3, and CPU-only builds, with installation via `pip` or LibTorch for C++/Java integration.
+- **PyTorch 2.7.0** introduces optimized kernel autotuning via **Likelihood-Free Bayesian Optimization (LFBO)** in **Helion DSL**, reducing LLM-guided kernel optimization from minutes to seconds for performance-critical ML workloads.
+- **SGLang runtime** achieves **5x higher throughput** for **DeepSeek-V4** on **GB300** accelerators while maintaining interactivity, enabled by coordinated kernel/runtime optimizations and Day-0 production readiness.
+- **PyTorch Certified Associate (PTCA)** certification launched for early-stage practitioners, validating foundational PyTorch skills alongside **TorchScript**, **torch.distributed**, and **TorchServe** for production deployment.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:24:28.239201+05:30
+- Published: 2026-06-24T10:30:02.714020+05:30
 
 ## Related Tags
 

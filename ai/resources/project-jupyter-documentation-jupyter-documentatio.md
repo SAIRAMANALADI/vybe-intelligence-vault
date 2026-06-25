@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-06-22T15:47:47.803427+05:30'
-collected_at: '2026-06-22T15:47:47.803444+05:30'
+published_at: '2026-06-25T20:52:04.098640+05:30'
+collected_at: '2026-06-25T20:52:04.098655+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-22T15:47:47.803444+05:30'
-last_seen: '2026-06-22T15:47:47.803444+05:30'
-last_checked: '2026-06-22T15:47:47.803444+05:30'
+first_seen: '2026-06-25T20:52:04.098655+05:30'
+last_seen: '2026-06-25T20:52:04.098655+05:30'
+last_checked: '2026-06-25T20:52:04.098655+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular framework centered on interactive computing via computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format (`.ipynb`), with core components including JupyterLab (feature-rich IDE), Jupyter Notebook (lightweight UI), and nbformat (notebook structure specification).
+- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
 
-- **Sub-projects and kernels**: Extensible architecture with specialized tools such as JupyterHub (multi-user server), nbconvert (document conversion), ipywidgets (interactive UI components), and language-agnostic kernels (e.g., IPython, IRkernel, IJulia) enabling polyglot notebook execution.
+- **Core components**: Includes Jupyter Notebook (lightweight), JupyterLab (feature-rich IDE-like interface), kernels (e.g., IPython, IRkernel, IJulia), and tools for notebook lifecycle management (nbconvert, nbclient, nbformat).
 
-- **Deployment and integration**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes), Docker Stacks for reproducible environments, and APIs (e.g., jupyter-server, jupyter-client) for custom application development, alongside AI integration tools like jupyter-ai.
+- **Sub-projects & deployment**: Encompasses JupyterHub (multi-user server), nbgrader (grading), Voilà (dashboarding), widgets (ipywidgets), and deployment options like Docker/Kubernetes via Jupyter Enterprise Gateway.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:47:47.803427+05:30
+- Published: 2026-06-25T20:52:04.098640+05:30
 
 ## Related Tags
 

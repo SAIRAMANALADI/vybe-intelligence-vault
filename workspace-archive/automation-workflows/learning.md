@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Atlassian offers structured learning paths, certifications, and live training for its suite of tools (Jira, Confluence, Jira Service Management) to enhance technical proficiency and career advancement.
-- Best practices for AI prompt engineering are provided to optimize AI-generated outputs within Atlassian’s ecosystem (e.g., Rovo AI workflows).
-- Community-driven resources, career hubs, and free courses are available to support skill development across roles (Developers, IT Support, Platform E
+- Atlassian offers structured learning paths, certifications, and live training for its suite of tools (e.g., Jira, Confluence, Jira Service Management) via its [Learning Catalog](https://community.atlassian.com/learning/catalog).
+- Free, role-specific career hubs provide targeted upskilling for roles (e.g., Developers, IT Support) to enhance job performance and career advancement.
+- Best practices for AI prompt engineering are taught to optimize AI tool integration (e.g., Rovo AI workflows) for
 
 ## Use Cases
 

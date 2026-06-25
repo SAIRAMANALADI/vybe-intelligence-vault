@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-sets-new-record-for-mobile-web-performance.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Android Sets New Record for Mobile Web Performance
@@ -27,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Benchmark Performance**: Android flagship devices achieved record-high scores in **Speedometer 3.1** (responsiveness) and **LoadLine** (page load speed), outperforming competitors by up to **47%** in LoadLine metrics (Chrome 146, March 2026).
+- **Benchmark Performance**: Android flagship devices achieved record scores in Speedometer (responsiveness) and LoadLine (page load speed) benchmarks, outperforming competitors by up to 47% in LoadLine and demonstrating 20-60% year-over-year improvements in key metrics.
 
-- **Benchmark Correlations**: **Speedometer** scores (-0.8 correlation) and **LoadLine** scores (-0.8 correlation) directly predict real-world **Interaction to Next Paint (INP)** and **page load latency**, validating benchmark relevance for user experi
+- **Benchmark Methodology**: Speedometer 3.1 measures interaction latency using real-world web frameworks (React, Angular, jQuery), while LoadLine evaluates end-to-end page load performance using recorded versions of production
 
 ## Use Cases
 

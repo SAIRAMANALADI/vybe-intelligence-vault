@@ -2,7 +2,7 @@
 title: 'Keras: Deep Learning for humans'
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://keras.io/keras_3
+source_url: https://keras.io/keras_3/
 resource_id: blog:keras-deep-learning-for-humans
 local_vault_path: ai/rag/keras-deep-learning-for-humans.md
 quality_score: 70
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Backend Architecture**: Keras 3 supports JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), enabling dynamic backend selection for optimal performance without code changes, and seamless integration with respective ecosystems (e.g., TF-Serving, PyTorch `Module` compatibility).
+- **Multi-Backend Architecture**: Keras 3 supports JAX, TensorFlow, PyTorch, and OpenVINO (inference-only), enabling dynamic backend selection for optimal performance without code changes, and cross-framework model compatibility (e.g., PyTorch `Module`, TensorFlow `SavedModel`).
 
-- **Unified Cross-Framework API**: Implements a full Keras API across backends with `keras.ops` providing NumPy-like and neural network-specific operations, ensuring single-codebase compatibility for custom
+- **Unified `keras.ops` API**: Provides a framework-agnostic NumPy-like API (`keras.ops.matmul`, `ops.softmax`, etc.) for writing custom layers, models, metrics, and optimizers that work identically across backends with
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://keras.io/keras_3
+Original source URL: https://keras.io/keras_3/
 
 ## Local Vault File
 

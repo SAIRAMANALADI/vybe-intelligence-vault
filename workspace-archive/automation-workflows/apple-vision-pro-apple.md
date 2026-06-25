@@ -8,7 +8,7 @@ local_vault_path: ai/resources/apple-vision-pro-apple.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **M5 Chip Integration**: Apple Vision Pro incorporates the new M5 chip, enhancing performance for spatial computing tasks, including advanced image processing, real-time environmental mapping, and low-latency hand/eye tracking.
+- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital and physical spaces with advanced processing for spatial computing tasks.
 
-- **Dual Knit Band & Fit System**: Features a counterbalanced Dual Knit Band with breathable straps and an independent Fit Dial for personalized comfort, while the Light Seal magnetically conforms to the face to block stray light and ensure precise fit.
+- **Dual Knit Band & Fit System**: The Dual Knit Band combines breathable, counterbalanced straps with an independent Fit Dial for adjustable upper/lower strap tension, ensuring comfort and personalized fit while maintaining immersion.
 
-- **Spatial Au
+- **ZEISS Optical I
 
 ## Use Cases
 

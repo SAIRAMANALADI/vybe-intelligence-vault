@@ -43,5 +43,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **RubyLLM: A Ruby framework for all major AI providers** (Category: `ai/community`) ([File](../ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md))
+- **Tell HN: OpenAI has started putting ads on paid programs** (Category: `ai/community`) ([File](../ai/community/tell-hn-openai-has-started-putting-ads-on-paid-pro.md))

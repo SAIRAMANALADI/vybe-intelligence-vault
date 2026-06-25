@@ -15,7 +15,6 @@ tags:
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Ghost 6.0** is a headless CMS and publishing platform enabling professional publishers to build, customize, and monetize websites with native newsletter, membership, and subscription tools, leveraging a modern tech stack for scalability.
+- **Ghost 6.0** is a headless CMS and publishing platform enabling professional publishers to monetize content via custom websites, newsletters, and paid memberships with native Stripe integration for subscription management.
 
-- **Advanced Creator Tools** include a distraction-free WYSIWYG editor with dynamic content cards (galleries, embeds, accordions), built-in email newsletter delivery, audience segmentation, and native analytics for engagement tracking and revenue optimizati
+- **Advanced Creator Tools** include a distraction-free, Markdown-based editor supporting rich media (galleries, embeds, dynamic cards) and built-in email newsletters with audience segmentation for scalable content distribution.
+
+- **Native Analytics & Integrations** provi
 
 ## Use Cases
 

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow only when necessary (e.g., non-composable operations, performance-critical fusion), ensuring ABI compatibility via the [Custom op repository](https://github.com/tensorflow/custom-op) and following TensorFlow's op registration (`REGISTER_OP`), kernel implementation (`OpKernel`), and optional Python wrapper/gradient steps.
+- **Custom Op Development Workflow**: Create C++ custom ops for TensorFlow by first attempting Python composition, then implementing a C++ kernel (`OpKernel`) with thread-safe `Compute` method; register op interface via `REGISTER_OP` and kernel via `REGISTER_KERNEL_BUILDER`, supporting multi-device (CPU/GPU) implementations with templated functors.
 
-- **Multi-Device Kernel Implementation**: Define device-agnostic kernels using templated `OpKernel` c
+- **ABI Compatibility & Build Systems**: Ensure ABI compatibility with TensorFlow pip packages by following the [Custom op repository](https://githu
 
 ## Use Cases
 

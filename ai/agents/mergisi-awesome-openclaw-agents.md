@@ -4,26 +4,36 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-06-11T13:10:33.660238+00:00'
-published_at: '2026-06-11T11:34:09Z'
+collected_at: '2026-06-25T22:57:17.575108+05:30'
+published_at: '2026-06-25T17:10:31Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - html
 - scripts
-stars: 3631
+stars: 3729
 language: HTML
-status: new
+status: active
+license: MIT
+archived: false
+created_at: '2026-02-05T10:51:17Z'
+pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
+first_seen: '2026-06-25T22:57:17.575108+05:30'
+last_seen: '2026-06-25T22:57:17.575108+05:30'
+last_checked: '2026-06-25T22:57:17.575108+05:30'
+health_score: 100
 ---
-
 
 # mergisi/awesome-openclaw-agents
 
 ## Summary
 
-162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories, with a submission process for community contributions.
+- **Technical Stack**: Primarily HTML-based, supporting Docker, MCP, multi-agent systems, and no-code configurations; integrates with Anthropic, Claude, and Telegram bot frameworks.
+- **Metadata**: 3,729 stars, 607 forks, last updated 2026-06-25; categorized under AI automation, LLM, productivity, and OpenClaw-specific tools.
 
 ## Why It Matters
 
@@ -32,11 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3631
-- Forks: 590
+- Stars: 3729
+- Forks: 607
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-06-11T11:34:09Z
+- Last Updated: 2026-06-25T17:10:31Z
+- License: MIT
+- Archived: No
+- Created At: 2026-02-05T10:51:17Z
+- Pushed At: 2026-05-25T10:21:05Z
 
 ## Possible Use Cases
 

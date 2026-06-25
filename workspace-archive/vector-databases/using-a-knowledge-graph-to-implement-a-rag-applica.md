@@ -2,11 +2,11 @@
 title: Using a knowledge graph to implement a RAG application
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://neo4j.com/blog/developer/rag-tutorial
+source_url: https://neo4j.com/blog/developer/rag-tutorial/
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) in Neo4j, enabling hybrid retrieval for LLMs. Uses LangChain for orchestration and OpenAI for embeddings/generation, integrating structured metadata and unstructured text for explainable, scalable RAG pipelines.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by leveraging both unstructured text embeddings and structured relational data.
 
-- **Core RAG Process**: Three-stage workflow—(1) **Retrieval**: Embeds user queries and retrieves top-*k* relevant chunks via vector similarity (e.g., cosine) fr
+- **Core RAG Workflow**: Three-stage process—(1) **Retrieval**: Embed user queries and fetch top-*k* relevant document chunks from a vector database (e.g., Neo4j’s vector index) using cosin
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://neo4j.com/blog/developer/rag-tutorial
+Original source URL: https://neo4j.com/blog/developer/rag-tutorial/
 
 ## Local Vault File
 

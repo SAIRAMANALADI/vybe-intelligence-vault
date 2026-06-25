@@ -8,11 +8,10 @@ local_vault_path: ai/rag/wikidata.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - anthropic
-- dataset
 - hackernews
 - rag
 - web-crawled
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- Wikidata is a **free, open, machine-readable knowledge base** with **122M+ structured entities**, serving as a central data repository for Wikimedia projects and beyond via **RDF/SPARQL** endpoints.
-- Supports **multi-datatype editing** (including mobile interfaces) and **temporary accounts** for unregistered contributors, with data available under **CC0 licensing** and accessible via **standardized exports** (JSON, RDF, TSV).
-- Features **SPARQL query service**, **WikiProjects** for community
+- **Wikidata** is a free, open, machine-readable knowledge base with **122M+ entities**, serving as structured data storage for Wikimedia projects and beyond, using **RDF/Linked Data** standards for interoperability.
+- Supports **SPARQL query service** for structured data retrieval, **mobile editing** of all datatypes, and **temporary accounts** for unregistered editors (replacing IP-based identification).
+- Features **WikiProjects** (e.g., WikiProject Women) for community-driven data curation,
 
 ## Use Cases
 

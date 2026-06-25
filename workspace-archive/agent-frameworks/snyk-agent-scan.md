@@ -30,7 +30,9 @@ selection_reason:
 
 ## Summary
 
-Security scanner for AI agents, MCP servers and agent skills.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
+- **Key Features**: Supports Model Context Protocol (MCP) and integrates with Python-based agent ecosystems.
+- **Repository Stats**: 2,657 stars, 235 forks, last updated on 2026-06-25.
 
 ## Use Cases
 

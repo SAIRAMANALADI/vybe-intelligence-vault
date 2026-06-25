@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Variable-length relationships in Cypher** allow pattern matching with dynamic path lengths using syntax like `-[:KNOWS*2..3]->`, enabling queries for friends of friends (2 hops) or friends of friends of friends (3 hops) in a single traversal.
-- **Zero-length paths** (`-[:REL*0..1]->`) bind the same node to variables in both ends, simplifying queries for optional relationships (e.g., retrieving all blog posts, including the latest one, without `OPTIONAL MATCH`).
-- **Performance considerations
+- **Variable-length relationships in Cypher** use `*n..m` syntax to match paths with 1+ to unbounded (`*`) or bounded (`*n..m`) relationship lengths, enabling flexible traversal (e.g., `-[:KNOWS*2..3]->` for friends-of-friends or friends-of-friends-of-friends).
+- **Zero-length paths** (`*0`) bind a node to itself, simplifying queries by avoiding `OPTIONAL MATCH` for edge cases (e.g., retrieving all blog posts of friends regardless of count).
+- **Performance considerations** require explicit leng
 
 ## Use Cases
 

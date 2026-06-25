@@ -8,7 +8,7 @@ local_vault_path: ai/resources/markdown-it-py-markdown-it-py.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- Python port of `markdown-it` adhering to the **CommonMark spec** with configurable syntax rules and pluggable extensions.
-- High-performance parser with **benchmarking support**, security hardening, and Google Assured Open Source Software membership.
-- Maintains structural parity with the original JavaScript implementation while incorporating Pythonic syntax enhancements.
+- Python port of the JavaScript `markdown-it` parser, adhering closely to the original code structure with minimal syntactic changes.
+- Implements the **CommonMark spec** for baseline parsing, with configurable syntax, pluggable extensions, and high-speed performance benchmarks.
+- Supports security hardening, Google’s Assured Open Source Software compliance, and includes a modular architecture for token stream processing, rendering, and plugin integration.
 
 ## Use Cases
 

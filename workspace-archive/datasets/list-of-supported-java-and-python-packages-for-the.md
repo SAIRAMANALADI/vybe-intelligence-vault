@@ -9,7 +9,7 @@ local_vault_path: ai/rag/list-of-supported-java-and-python-packages-for-the.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - scripts
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # List of supported Java and Python packages for the Assured Open Source Software free tier | Google Cloud Documentation
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Assured Open Source Software (AOSS) free tier** supports **3,203 curated binaries**, including **1,527 Java, 1,622 Python, and 54 Go** primary packages as of June 11, 2024.
+- **Assured Open Source Software (AOSS) free tier** supports **3,203 curated binaries**, including **1,527 Java, 1,622 Python, and 54 Go packages**, with premium tier packages listed separately.
 
-- **Java packages** in AOSS free tier include **core libraries** (e.g., `com.fasterxml.jackson:jackson-databind`, `com.google.guava:guava`) and **AWS SDKs** (e.g., `com.amazonaws:aws-java-sdk-s3`), with full list retrievable via [AOSS Java API](https://cloud.google.com/artifact-registry/docs/reference/rest/v1/projects.lo
+- **Java packages** are accessible via the [Artifact Registry API](https://cloud.google.com/artifact-registry/docs/reference/rest/v1/projects.locations.repositories.mavenArtifacts/list), with examples including `com.fasterxml.jackson:jackson-base`, `com.google.guava:guava`, and `com.squareup.okhttp3:okh
 
 ## Use Cases
 

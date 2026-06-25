@@ -3,20 +3,19 @@ title: Welcome to Flask — Flask Documentation (3.1.x)
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://flask.palletsprojects.com
-published_at: '2026-06-22T10:27:58.613900+05:30'
-collected_at: '2026-06-22T10:27:58.613912+05:30'
+source_url: https://flask.palletsprojects.com/
+published_at: '2026-06-25T20:49:06.539969+05:30'
+collected_at: '2026-06-25T20:49:06.539983+05:30'
 tags:
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 status: active
 resource_id: blog:welcome-to-flask-flask-documentation-3-1-x
-first_seen: '2026-06-22T10:27:58.613912+05:30'
-last_seen: '2026-06-22T10:27:58.613912+05:30'
-last_checked: '2026-06-22T10:27:58.613912+05:30'
+first_seen: '2026-06-25T20:49:06.539983+05:30'
+last_seen: '2026-06-25T20:49:06.539983+05:30'
+last_checked: '2026-06-25T20:49:06.539983+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development with modular architecture.
+- **WSGI Framework**: Flask is a lightweight WSGI web application framework designed for rapid development and scalability, leveraging Werkzeug for WSGI handling, Jinja2 for templating, and Click for CLI operations.
 
-- Core components include request/response handling, templating (Jinja2), configuration management, error handling, and modular blueprints for application structuring and URL routing.
+- **Modular Architecture**: Supports blueprints for modular application design, enabling separation of concerns via reusable components, nested blueprints, and centralized error handling.
 
-- Supports development via built-in server, CLI for task automation, signals for event handling, and integrates extensions for extended functionality (e.g., SQLAlchemy, caching).
+- **Context Management**: Implements application and request contexts for thread-local data isolation, with explicit context lifetimes, manual context pushing, and support for signals/events for asynchronous operations.
 
 ## Why It Matters
 
@@ -38,16 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:27:58.613900+05:30
+- Published: 2026-06-25T20:49:06.539969+05:30
 
 ## Related Tags
 
 - hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 
 ## Source
 
-Original source: https://flask.palletsprojects.com
+Original source: https://flask.palletsprojects.com/

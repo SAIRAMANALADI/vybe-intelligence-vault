@@ -2,7 +2,7 @@
 title: Project Jupyter | Home
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://jupyter.org
+source_url: https://jupyter.org/
 resource_id: blog:project-jupyter-home
 local_vault_path: ai/rag/project-jupyter-home.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with configurable, multi-pane workspaces for advanced workflows in data science, ML, and scientific computing.
+- **Modular Architecture**: JupyterLab offers a modular, extensible interface for interactive computing, supporting multi-document workspaces, customizable workflows, and third-party extensions for data science, ML, and scientific computing.
 
-- **Jupyter Notebook** is the original document-centric interface for creating and sharing computational documents, supporting >40 languages (Python, R, Julia, Scala) with rich interactive outputs (HTML, LaTeX, videos) and big data integration (Spark, pandas, TensorFlow).
+- **Multi-Language & Big Data Support**: Supports 40+ languages (Python, R, Julia, Scala) with rich interactive outputs (HTML, LaTeX, videos) and integrates with big data tools (Apache Spark, pandas, TensorFlow).
 
-- **JupyterHub** enab
+- **Scalable Deployment & Open Standards**:
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyter.org
+Original source URL: https://jupyter.org/
 
 ## Local Vault File
 

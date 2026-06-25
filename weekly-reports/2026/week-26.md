@@ -54,8 +54,6 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/companies/anthropic | 8 |
 | ai/community | 5 |
 | ai/companies/deepmind | 5 |
-| web-development/webgpu | 4 |
-| web-development/threejs | 4 |
 | ai/companies/openai | 4 |
 | web-development/framer-motion | 3 |
 | web-development/react-three-fiber | 2 |

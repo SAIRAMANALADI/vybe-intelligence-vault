@@ -2,7 +2,7 @@
 title: Python Developer’s Guide
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://devguide.python.org
+source_url: https://devguide.python.org/
 resource_id: blog:python-developers-guide
 local_vault_path: ai/rag/python-developers-guide.md
 quality_score: 70
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **CPython Development Workflow**: Requires forking the [CPython repository](https://github.com/python/cpython), setting up Git, and building Python from source using platform-specific commands (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix). Tests are executed via `./python -m test -j3`.
+- **Development Setup**: Requires Git, CPython source forked from [python/cpython](https://github.com/python/cpython), and platform-specific build steps (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix, `PCbuild\build.bat -e -d` for Windows).
 
-- **Contribution Process**: Contributors must sign the [Contributor Licensing Agreement (CLA)](https://devguide.python.org/getting-started/pull-request-lifecycle/#cla), submit pull requests
+- **Contribution Workflow**: New contributions require a GitHub issue (or trivial fixes), a feature branch (`git checkout -b fix-issue-12345 main`), and a pull request with `gh-NNNNNN` prefix; CLA signing mandatory for first-time contributo
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://devguide.python.org
+Original source URL: https://devguide.python.org/
 
 ## Local Vault File
 

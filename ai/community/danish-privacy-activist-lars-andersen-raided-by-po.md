@@ -13,13 +13,14 @@ collected_at: '2026-06-22T15:16:23.369049+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:danish-privacy-activist-lars-andersen-raided-by-po
 first_seen: '2026-06-22T11:11:59.207257+05:30'
 last_seen: '2026-06-22T15:16:23.369049+05:30'
 last_checked: '2026-06-22T15:16:23.369049+05:30'
 health_score: 100
 ---
+
 
 # Danish privacy activist Lars Andersen raided by police
 

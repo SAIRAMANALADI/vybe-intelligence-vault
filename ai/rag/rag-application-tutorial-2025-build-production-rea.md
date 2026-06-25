@@ -4,9 +4,9 @@ title: 'RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmente
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
-published_at: '2026-06-22T11:13:18.255955+05:30'
-collected_at: '2026-06-22T11:13:18.255970+05:30'
+source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
+published_at: '2026-06-25T22:55:09.436401+05:30'
+collected_at: '2026-06-25T22:55:09.436409+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-22T11:13:18.255970+05:30'
-last_seen: '2026-06-22T11:13:18.255970+05:30'
-last_checked: '2026-06-22T11:13:18.255970+05:30'
+first_seen: '2026-06-25T22:55:09.436409+05:30'
+last_seen: '2026-06-25T22:55:09.436409+05:30'
+last_checked: '2026-06-25T22:55:09.436409+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), optimized embeddings (e.g., Sentence-BERT, VoyageAI), and vector databases (e.g., Supabase, Pinecone) for efficient retrieval; advanced retrieval combines dense (vector) and sparse (BM25) methods.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; LangChain provides modular implementation for retrieval and generation phases.
 
-- **Production Optimization**: Implements caching (e.g., Redis), load balancing across multiple LLM instances, and deployment via Cloudflare Workers; token usage is minimized via prompt compression and selective context inclusion.
+- **Production Optimization Techniques**: Hybrid search (dense + sparse retrieval), query expansion/rewriting, and caching strategies reduce latency; load balancing across multiple models and deployment via Cloudflare Workers enhance scalability.
 
-- **Monitoring & Scalability**: Integrates Sentry for observability, tracks latency metrics (e.g., retrieval vs. generation time), and addresses common issues like poor retrieval (via hybrid search tuning) or hallucinations (via context validation and reranking).
+- **Monitoring & Cost Trade-offs**: Integration with Sentry for observability, token usage optimization (e.g., truncation, selective retrieval), and benchmarking latency vs. performance to balance cost (e.g., API calls) and accuracy.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:13:18.255955+05:30
+- Published: 2026-06-25T22:55:09.436401+05:30
 
 ## Related Tags
 
@@ -63,4 +63,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://sysdebug.com/posts/rag-application-tutorial-production-guide
+Original source: https://sysdebug.com/posts/rag-application-tutorial-production-guide/

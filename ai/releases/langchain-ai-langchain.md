@@ -1,35 +1,34 @@
 ---
-title: 'langchain-ai/langchain Release: langchain==1.3.10'
+title: 'langchain-ai/langchain Release: langchain-openrouter==0.2.4'
 category: ai/releases
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/langchain-ai/langchain
-published_at: '2026-06-18T19:43:17Z'
-collected_at: '2026-06-21T20:19:16.288856+05:30'
+published_at: '2026-06-23T03:45:32Z'
+collected_at: '2026-06-23T09:51:03.905113+05:30'
 tags:
-- anthropic
+- benchmark
 - github-release
 - langchain-ai-langchain
 - openai
 status: active
 resource_id: github:langchain-ai/langchain
 first_seen: '2026-06-16T13:57:14.246405+05:30'
-last_seen: '2026-06-21T20:19:16.288856+05:30'
-last_checked: '2026-06-21T20:19:16.288856+05:30'
+last_seen: '2026-06-23T09:51:03.905113+05:30'
+last_checked: '2026-06-23T09:51:03.905113+05:30'
 health_score: 100
 ---
 
-# langchain-ai/langchain Release: langchain==1.3.10
+# langchain-ai/langchain Release: langchain-openrouter==0.2.4
 
 ## Summary
 
-Changes since langchain==1.3.9
+Changes since langchain-openrouter==0.2.3
 
-release(langchain): 1.3.10 (#38255)
-chore: bump cryptography from 46.0.7 to 48.0.1 in /libs/langchain_v1 (#38176)
-chore: bump aiohttp from 3.14.0 to 3.14.1 in /libs/langchain_v1 (#38179)
-fix(langchain): switch summary format (#38171)
-fix(langchain): detect provider st...
+release(openrouter): 0.2.4 (#38381)
+chore(openrouter): bump `openrouter` floor to 0.9.2, drop file workaround (#38216)
+test(openrouter): cover `cache_control` passthrough on tool defs (#38215)
+feat(openrouter): surface `parallel_tool_calls` on `bind_tools` ...
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Releases AI
 - Category: ai/releases
-- Published: 2026-06-18T19:43:17Z
+- Published: 2026-06-23T03:45:32Z
 
 ## Related Tags
 
-- anthropic
+- benchmark
 - github-release
 - langchain-ai-langchain
 - openai

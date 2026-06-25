@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **SSO Integration**: Stytch's API-first SSO enables Enterprise Single Sign-On without full authentication stack migration, supporting embedded configuration via Dashboard, Admin UI, or direct API calls.
-
-- **Authentication Flow**: SSO authentication involves configuring a callback URL, handling the `/authenticate` endpoint to process `sso_token`, and initiating SSO via `sso.start()` with a `connection_id` and `public_token`.
-
-- **Connection Identification**: SSO connections can be identified b
+- **SSO Integration**: Stytch's API-first architecture allows standalone SSO integration without migrating existing auth stacks, using either Dashboard/Admin UI or direct API configuration.
+- **Authentication Flow**: SSO authentication involves configuring a callback URL, initiating SSO via `sso.start()`, and handling the response to create user/organization records and sessions.
+- **Connection Identification**: SSO connections can be identified by organization ID (via `organizations.get()`) or
 
 ## Use Cases
 

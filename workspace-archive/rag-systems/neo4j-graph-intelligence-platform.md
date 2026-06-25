@@ -8,17 +8,15 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- agents
 - hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -27,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **GraphRAG Integration**: Combines Neo4j (graph database) and Databricks (data processing) to enhance AI agents with structured relational reasoning via Graph Retrieval-Augmented Generation (GraphRAG).
+- **Ontology-Driven Semantic Layer**: Focuses on leveraging a core ontology to structure and unify data semantics, enabling consistent interpretation and querying across disparate data sources.
 
-- **Technical Workflow**: Databricks processes raw data into graph structures stored in Neo4j, enabling AI agents to query and reason over relationships for improved contextual understanding and response generation.
+- **Graph-Based Semantics**: Utilizes graph technology (e.g., Neo4j) to model relationships and hierarchies in the ontology, enhancing contextual understanding and query performance.
 
-- **Use Case**: Demonstrates scalable, real-world deployment of GraphRAG for A
+- **Semantic Interoperability**: Enables seamless integration and querying of heterogeneous data by aligning schema, meta
 
 ## Use Cases
 

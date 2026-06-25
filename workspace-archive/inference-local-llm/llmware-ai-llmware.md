@@ -1,0 +1,57 @@
+---
+title: llmware-ai/llmware
+archive_category: inference-local-llm
+source_category: ai/rag
+source_url: https://github.com/llmware-ai/llmware
+resource_id: github:llmware-ai/llmware
+local_vault_path: ai/rag/llmware-ai-llmware.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- github-repo
+- hackernews
+- meta-ai
+- models
+- python
+- rag
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# llmware-ai/llmware
+
+## Why This Is In The Archive
+
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models (e.g., ONNX, OpenVINO, llama.cpp) optimized for efficiency and deployment.
+
+- **Key Features**: Integrates parsing, retrieval, and generative AI tools with agent-based orchestration, supporting multi-model inference and cross-platform compatibility (CPU/GPU acceleration).
+
+- **Technical Stack**: Leverages lightweight inference en
+
+## Use Cases
+
+- Private AI execution
+- Offline model serving
+- Quantization setups
+
+## Source
+
+Original source URL: https://github.com/llmware-ai/llmware
+
+## Local Vault File
+
+Path: [llmware-ai-llmware.md](../../ai/rag/llmware-ai-llmware.md)

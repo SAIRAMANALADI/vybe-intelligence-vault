@@ -8,7 +8,7 @@ local_vault_path: ai/rag/hkuds-videorag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # HKUDS/VideoRAG
@@ -26,14 +26,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-[KDD'2026] "VideoRAG: Chat with Your Videos"
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long videos by segmenting, indexing, and retrieving relevant video segments for contextual Q&A.
+
+- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using a unified encoder (e.g., CLIP or Whisper) to extract dense features and enable cross-modal retrieval for accurate video understanding.
+
+- **Scalable Long-Video Processing**: Implements hierarch
 
 ## Use Cases
 

@@ -18,8 +18,10 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 2 resources matched in the intelligence vault.
+Active signals: 4 resources matched in the intelligence vault.
 Recently detected signals:
+- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Langfuse](../ai/rag/langfuse.md) (Source: Unknown Source) - Collected 2026-06-24
 - [AI SDK Integration | OpenAI Agents SDK](../ai/agents/ai-sdk-integration-openai-agents-sdk.md) (Source: Unknown Source) - Collected 2026-06-22
 - [mkrl/e0](../ai/agents/mkrl-e0.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
@@ -27,7 +29,12 @@ Recently detected signals:
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
+### 1. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
+- Stars: 0
+- Language: Unknown
+- Description: - **AI SDK Core**: Open-source TypeScript library for building AI-powered applications and agents, developed by Vercel (creators of Next.js).
+
+### 2. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
 - Stars: 0
 - Language: Unknown
 - Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.

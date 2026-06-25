@@ -4,21 +4,22 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/vibe-agent
-published_at: '2026-06-22T15:16:24.078010+05:30'
-collected_at: '2026-06-22T15:16:24.078012+05:30'
+published_at: '2026-06-24T10:06:18.771254+05:30'
+collected_at: '2026-06-24T10:06:18.771255+05:30'
 tags:
 - agents
 - blog-post
 - mistral
 - mistral-ai-news
 - models
-status: active
+status: inactive
 resource_id: blog:vibe-gets-to-work
 first_seen: '2026-06-16T04:26:33.364169+00:00'
-last_seen: '2026-06-22T15:16:24.078012+05:30'
-last_checked: '2026-06-22T15:16:24.078012+05:30'
+last_seen: '2026-06-24T10:06:18.771255+05:30'
+last_checked: '2026-06-24T10:06:18.771255+05:30'
 health_score: 100
 ---
+
 
 # Vibe gets to work.
 
@@ -34,7 +35,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/vibe-agent
-- Collected At: 2026-06-22T15:16:24.078012+05:30
+- Collected At: 2026-06-24T10:06:18.771255+05:30
 
 ## Related Tags
 

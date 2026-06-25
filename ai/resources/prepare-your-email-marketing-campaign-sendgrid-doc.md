@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://sendgrid.com/docs/User_Guide/index.html
-published_at: '2026-06-22T10:53:28.829663+05:30'
-collected_at: '2026-06-22T10:53:28.829674+05:30'
+published_at: '2026-06-24T23:07:58.500033+05:30'
+collected_at: '2026-06-24T23:07:58.500043+05:30'
 tags:
 - scripts
 - web-crawled
 status: active
 resource_id: blog:prepare-your-email-marketing-campaign-sendgrid-doc
-first_seen: '2026-06-22T10:53:28.829674+05:30'
-last_seen: '2026-06-22T10:53:28.829674+05:30'
-last_checked: '2026-06-22T10:53:28.829674+05:30'
+first_seen: '2026-06-24T23:07:58.500043+05:30'
+last_seen: '2026-06-24T23:07:58.500043+05:30'
+last_checked: '2026-06-24T23:07:58.500043+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Components Required for Marketing Campaigns**: A verified timezone (for scheduling), a verified sender email address (for sender identification), notification email addresses (for progress updates), recipient lists (for contact management), and an unsubscribe mechanism (for recipient opt-out).
+- **Marketing Campaign Components**: Requires verified timezone (for scheduling), sender email (verified per regulations), notification emails, recipient lists (via CSV upload, signup forms, manual entry, or APIs), and an unsubscribe mechanism.
 
-- **Sender Verification Process**: US, Canadian, and EU compliance requires sender verification; if the sender's domain isn’t authenticated, the "From email" address must be verified via a confirmation email sent by Twilio SendGrid.
+- **Sender Verification**: US/Canadian/EU compliance mandates sender identity; non-authenticated domains require email verification via a Twilio SendGrid sent link.
 
-- **Contact Management Methods**: Contacts can be added to recipient lists via CSV upload, signup forms, manual entry, or Contact Management APIs.
+- **Unsubscribe Groups**: Allows granular opt-out options (vs. global unsubscribe) via Twilio SendGrid’s Unsubscribe Group feature.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:53:28.829663+05:30
+- Published: 2026-06-24T23:07:58.500033+05:30
 
 ## Related Tags
 

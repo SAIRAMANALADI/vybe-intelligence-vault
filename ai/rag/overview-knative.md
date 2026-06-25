@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://knative.dev/docs
-published_at: '2026-06-22T10:36:28.704104+05:30'
-collected_at: '2026-06-22T10:36:28.704117+05:30'
+published_at: '2026-06-24T20:46:10.019676+05:30'
+collected_at: '2026-06-24T20:46:10.019690+05:30'
 tags:
 - benchmark
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:overview-knative
-first_seen: '2026-06-22T10:36:28.704117+05:30'
-last_seen: '2026-06-22T10:36:28.704117+05:30'
-last_checked: '2026-06-22T10:36:28.704117+05:30'
+first_seen: '2026-06-24T20:46:10.019690+05:30'
+last_seen: '2026-06-24T20:46:10.019690+05:30'
+last_checked: '2026-06-24T20:46:10.019690+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime with Services, Routes, Configurations, and Revisions), **Eventing** (CloudEvents-based asynchronous event routing with Sources, Brokers, Triggers, and Sinks), and **Functions** (developer-focused framework for stateless function deployment leveraging Serving/Eventing).
+- **Knative Architecture**: Comprises three core components—**Serving** (HTTP-triggered autoscaling container runtime with lifecycle management), **Eventing** (CloudEvents-based asynchronous event routing), and **Functions** (developer-focused framework for stateless function deployment)—all operating as Kubernetes-native CRDs for scalable, portable serverless workloads.
 
-- **Serving Scalability & GPU Support**: Enables **scale-to-zero** with automatic pod scaling, traffic splitting (blue-green/canary), and direct integration with Kubernetes resources (e.g., GPUs) for LLM inference via standard HTTP interfaces or KServe for advanced model serving.
+- **Serving Scaling & Networking**: Implements **scale-to-zero** via the **Activator** component, with requests routed through **Queue-Proxy** sidecars for concurrency control and metrics collection; supports **blue-green deployments**, **canary releases**, and **GPU acceleration** for AI/ML inference (e.g., LLM serving) via Kubernetes pod resource specifications.
 
-- **Eventing Decoupling**: Implements **loosely coupled event-driven architectures** using CloudEvents over HTTP, where Brokers route events to Sinks based on Trigger filters, enabling scalable data pipelines, real-time analytics, and cross-system integration without vendor lock-in.
+- **Eventing Model**: Uses **Brokers** (event routers), **Triggers** (event filters), and **Sources/Sinks** (producers/consumers) to decouple event generation and processing; enforces **CloudEvents** standards for interoperability, enabling real-time pipelines, workflow orchestration, and cross-system integration via HTTP POST-based event delivery.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:36:28.704104+05:30
+- Published: 2026-06-24T20:46:10.019676+05:30
 
 ## Related Tags
 

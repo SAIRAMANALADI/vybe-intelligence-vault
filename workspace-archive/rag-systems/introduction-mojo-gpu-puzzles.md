@@ -8,7 +8,7 @@ local_vault_path: ai/rag/introduction-mojo-gpu-puzzles.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🔥 Introduction - Mojo 🔥 GPU Puzzles
@@ -29,16 +29,15 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Mojo's GPU Programming Features**: Combines Python-like syntax with systems-level performance, offering zero-cost abstractions, strong compile-time type checking, built-in tensor support, direct access to CPU/GPU intrinsics, and cross-hardware portability for high-performance heterogeneous computing.
-
-- **Puzzle-Based Learning Methodology**: Employs incremental, hands-on challenges to teach GPU programming concepts through practical problem-solving, emphasizing real-world scenarios, systemat
+- **Mojo for GPU Programming**: Combines Python-like syntax with systems-level performance, offering zero-cost abstractions, strong compile-time type checking, built-in tensor support, and direct access to CPU/GPU intrinsics for cross-hardware portability and improved safety over traditional C/C++.
+- **Puzzle-Based Learning Framework**: Focuses on immediate, hands-on GPU programming challenges to build practical skills incrementally, emphasizing real-world scenarios, systematic debugging, and de
 
 ## Use Cases
 

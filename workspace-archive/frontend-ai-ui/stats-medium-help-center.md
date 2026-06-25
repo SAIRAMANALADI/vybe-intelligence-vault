@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Metrics Definitions**: *Presentations* (story suggestions across feeds/search/email), *Views* (unique user access ≥5s), *Reads* (unique user engagement ≥30s), *Followers/Subscribers* (account growth metrics), all deduplicated per user/surface/day.
-- **Data Granularity**: Monthly stats updated hourly; Lifetime stats updated hourly (first month) or daily (older stories), sortable by views/reads/earnings.
-- **Partner Program Insights**: Dedicated dashboard tracks earnings (Overview, Earnings su
+- **Metrics Definitions**: Medium's *Stats* dashboard tracks unique, deduplicated metrics per user/day: *Presentations* (story suggestions excluding Digest), *Views* (accessed ≥5s), *Reads* (≥30s engagement), *Followers* (account follows), and *Subscribers* (email opt-ins). Lifetime metrics exclude pre-2025 presentations.
+
+- **Update Cadence**: Monthly stats refresh hourly; Lifetime stats update hourly for new stories (<1 month) and daily for older ones. Sortable by views/reads/earnings via drop
 
 ## Use Cases
 

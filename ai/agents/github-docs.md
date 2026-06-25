@@ -3,9 +3,9 @@ title: GitHub Docs
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.github.com
-published_at: '2026-06-22T11:19:19.647366+05:30'
-collected_at: '2026-06-22T11:19:19.647376+05:30'
+source_url: https://docs.github.com/
+published_at: '2026-06-25T23:01:07.173331+05:30'
+collected_at: '2026-06-25T23:01:07.173338+05:30'
 tags:
 - agents
 - scripts
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-docs
-first_seen: '2026-06-22T11:19:19.647376+05:30'
-last_seen: '2026-06-22T11:19:19.647376+05:30'
-last_checked: '2026-06-22T11:19:19.647376+05:30'
+first_seen: '2026-06-25T23:01:07.173338+05:30'
+last_seen: '2026-06-25T23:01:07.173338+05:30'
+last_checked: '2026-06-25T23:01:07.173338+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Core Functionality**: GitHub integrates Git (open-source VCS) with cloud-based collaboration tools, enabling repository management, version control, and secure access via SSH for remote operations.
-
-- **CI/CD & Automation**: Supports GitHub Actions for workflow automation, GitHub Packages for artifact management, and GitHub Pages for static site hosting, facilitating DevOps pipelines.
-
-- **Security & Developer Tools**: Provides CodeQL for vulnerability analysis, REST/GraphQL APIs for programmatic access, and GitHub Copilot for AI-driven code suggestions in IDEs.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure connections via SSH for encrypted remote operations.
+- **Repository Management**: Users can create, manage, and format repositories with basic syntax for documentation and collaboration.
+- **Collaborative Workflows**: Pull requests enable code review and merging, while GitHub Copilot provides IDE-based AI-driven code suggestions.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T11:19:19.647366+05:30
+- Published: 2026-06-25T23:01:07.173331+05:30
 
 ## Related Tags
 
@@ -50,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.github.com
+Original source: https://docs.github.com/

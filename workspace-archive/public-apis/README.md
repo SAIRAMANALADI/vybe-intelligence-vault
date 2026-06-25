@@ -20,6 +20,8 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 
 ## Best Learning Resources
 

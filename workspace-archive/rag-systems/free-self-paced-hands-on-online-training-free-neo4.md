@@ -2,14 +2,14 @@
 title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://graphacademy.neo4j.com
+source_url: https://graphacademy.neo4j.com/
 resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
 local_vault_path: ai/rag/free-self-paced-hands-on-online-training-free-neo4.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: tutorial
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -19,7 +19,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
@@ -27,19 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher, graph data modeling, and data import, with durations ranging from 1 to 8 hours.
-
-- **Generative AI & GraphRAG courses** focus on integrating Neo4j with LLMs for intelligent applications, covering topics like vector indexes, knowledge graph construction, and building chatbots with Python/TypeScript.
-
-- **Certifications** available: *Neo4j Certified Professional* and *Neo4j Gra
+*   GraphAcademy provides specialized training for integrating Neo4j knowledge graphs with Generative AI, covering vector indexes, LLM-driven knowledge graph construction (GraphRAG), and application development with frameworks like LangChain for chatbots and agentic systems.
+*   Core curriculum encompasses Neo4j fundamentals, Cypher query language proficiency (from basics to advanced aggregations, indexes, and constraints), graph data modeling best practices, and data import methodologies.
+*   A
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://graphacademy.neo4j.com
+Original source URL: https://graphacademy.neo4j.com/
 
 ## Local Vault File
 

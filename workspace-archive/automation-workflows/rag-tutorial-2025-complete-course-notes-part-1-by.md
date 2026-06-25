@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload by injecting only pertinent chunks into the LLM prompt.
+- **RAG Fundamentals**: RAG combines LLMs with retrieval systems to enhance responses by fetching relevant external data (documents, databases) without overloading the LLM's context window, addressing limitations of direct document ingestion (e.g., 10M+ tokens in enterprise data).
 
-- **Embedding Pipeline**: Chunks source documents (e.g., PDFs, CSVs) into fixed-token segments, converts them via embedding models (e.g., OpenAI’s 3,072-dimension vectors) into high-dimensional vectors, and stores them in vector databases (e.g., Pinecone, FAISS) for semanti
+- **Vector Embeddings & Pipeline**: Documents are chunked (e.g., 1,000 tokens), converted into high-dimensional vectors (e.g., 3,072D via OpenAI's `text-embedding-3-large`), and stored in vector databases (e.g., Pinec
 
 ## Use Cases
 

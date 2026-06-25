@@ -2,7 +2,7 @@
 title: Medium Rules | by Medium | Medium Policy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/policy/medium-rules-30e5b2c5348
+source_url: https://policy.medium.com/medium-rules-30e5502c4eb4?source=
 resource_id: blog:medium-rules-by-medium-medium-policy
 local_vault_path: ai/rag/medium-rules-by-medium-medium-policy.md
 quality_score: 70
@@ -10,8 +10,6 @@ archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- web-crawled
 selection_reason:
 - Valuable developer reference
 ---
@@ -28,7 +26,9 @@ selection_reason:
 
 ## Summary
 
-Rules and guidelines for publishing and interacting on the Medium platform.
+- **Prohibited Content**: Medium enforces strict rules against threats of violence, hate speech, harassment, doxxing, non-consensual intimate content, self-harm promotion, spam, and copyright/trademark infringement, with account restrictions or suspensions for violations.
+
+- **Platform Misuse**: Spam, duplicate content, artificial engagement (e.g., bulk follows/claps via bots), deceptive conduct (e.g., phishing, impersonation), and unauthorized third-party promotions are banned to maintain platf
 
 ## Use Cases
 
@@ -38,7 +38,7 @@ Rules and guidelines for publishing and interacting on the Medium platform.
 
 ## Source
 
-Original source URL: https://medium.com/policy/medium-rules-30e5b2c5348
+Original source URL: https://policy.medium.com/medium-rules-30e5502c4eb4?source=
 
 ## Local Vault File
 

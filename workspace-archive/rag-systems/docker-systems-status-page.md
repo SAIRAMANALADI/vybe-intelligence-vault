@@ -2,7 +2,7 @@
 title: Docker Systems Status Page
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://dockerstatus.com
+source_url: https://www.dockerstatus.com/
 resource_id: blog:docker-systems-status-page
 local_vault_path: ai/rag/docker-systems-status-page.md
 quality_score: 70
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **All Docker services operational** with 100% uptime across all components (Docker Hub, Desktop, Authentication, AI Governance, etc.).
-
-- **API response times** average ~412ms (Registry Hub API), ~427ms (Registry), and ~445ms (Docker.com) with consistent performance.
-
-- **Status monitoring** via email, webhook, RSS, and Slack with historical tracking and issue reporting enabled.
+- All Docker services (Registry Hub, Authentication, Desktop, Docs, etc.) are **fully operational** with 100% uptime for core APIs (Registry Hub, Registry, Docker.com) and near-perfect uptime (99.86–99.99%) for secondary services.
+- **API response times** average **411–462ms** for Registry Hub, **425–462ms** for Registry, and **418–429ms** for Docker.com, indicating consistent performance.
+- **Monitoring and alerting** available via email, webhook, RSS, Slack, and historical status tracking thro
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dockerstatus.com
+Original source URL: https://www.dockerstatus.com/
 
 ## Local Vault File
 

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://opensource.apple.com
-published_at: '2026-06-22T11:18:49.443953+05:30'
-collected_at: '2026-06-22T11:18:49.443964+05:30'
+published_at: '2026-06-24T23:04:55.225253+05:30'
+collected_at: '2026-06-24T23:04:55.225261+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:apple-open-source
-first_seen: '2026-06-22T11:18:49.443964+05:30'
-last_seen: '2026-06-22T11:18:49.443964+05:30'
-last_checked: '2026-06-22T11:18:49.443964+05:30'
+first_seen: '2026-06-24T23:04:55.225261+05:30'
+last_seen: '2026-06-24T23:04:55.225261+05:30'
+last_checked: '2026-06-24T23:04:55.225261+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Language Design**: Swift is a statically-typed, compiled language developed by Apple, emphasizing safety, performance, and modern software engineering principles (e.g., memory safety via ARC, optionals, and type inference).
+- **Modern Language Design**: Swift is a statically-typed, compiled language emphasizing safety, performance, and contemporary software engineering patterns (e.g., optionals, generics, and memory safety via ARC).
 
-- **Interoperability**: Supports seamless C++ interoperability (via Clang/LLVM integration) and Objective-C compatibility, enabling gradual migration and hybrid codebases.
+- **Multi-Paradigm Support**: Combines imperative, object-oriented (OOP), and functional programming features, with C++ interoperability for low-level system integration.
 
-- **Toolchain & Ecosystem**: Distributed as an open-source project (LLVM-based compiler, REPL, debugger) with tooling for cross-platform development (Linux/macOS) and package management (Swift Package Manager).
+- **Toolchain & Ecosystem**: Includes LLVM-based compiler (`swiftc`), interactive REPL, package manager (`swift-package-manager`), and cross-platform support (Linux, Windows, macOS).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:18:49.443953+05:30
+- Published: 2026-06-24T23:04:55.225253+05:30
 
 ## Related Tags
 

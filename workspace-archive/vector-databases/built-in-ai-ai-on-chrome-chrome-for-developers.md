@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Nano Integration**: Chrome's built-in AI leverages Google's Gemini Nano for on-device inference, enabling AI-powered features directly in the browser without cloud dependency.
-- **Core APIs**: Chrome provides APIs like `Proofreader`, `Writer`, `Rewriter`, `Translator`, `Language Detector`, and `Summarizer` for client-side text processing, with additional `Prompt` and `Task` APIs for extensibility.
-- **Model Management**: Chrome handles on-device model downloads, updates, and caching,
+- **Gemini Nano Integration**: Chrome's built-in AI leverages **Gemini Nano**, a lightweight model managed by the browser, enabling on-device AI tasks via APIs like summarization, translation, and text rewriting.
+- **API Ecosystem**: Chrome provides **origin-trial APIs** (e.g., `Proofreader`, `Writer`, `Translator`, `Summarizer`) for client-side AI tasks, with polyfills (`Prompt API`, `Task API`) for broader compatibility.
+- **Model Management**: Chrome handles **on-device model downloads, updat
 
 ## Use Cases
 

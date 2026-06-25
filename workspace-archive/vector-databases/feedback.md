@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Form Submission**: Requires Google Account sign-in to save progress, with fields for email and feedback submission.
-- **Security Notice**: Explicitly warns against submitting passwords via the form.
-- **Google Forms Integration**: Uses Google's infrastructure but disclaims content ownership, linking to Google's Terms of Service and Privacy Policy.
+- Google Forms submission endpoint (`/viewform`) uses `POST` with required `Email` field validation.
+- Form submission bypasses client-side JS; server-side processing handles data via Google’s Wise service.
+- Form hosted on `docs.google.com/forms` with abuse reporting endpoint (`/abuse`) and Google branding compliance.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: DSPy
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://dspy-docs.vercel.app
+source_url: https://dspy.ai/
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM workflows.
-- **Signatures & Modules**: Enforces typed input/output task definitions via `dspy.Signature`, with composable modules (`dspy.Predict`, `dspy.ChainOfThought`, `dspy.ReAct`) for modular program design.
-- **GEPA Optimizer**: Compiles programs against custom metrics (e.g., semantic F1) to iteratively optimize performance, reducing relianc
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and structured output handling for dynamic task execution.
+- **Improved LM/BaseLM**: Optimized base language model handling with enhanced modularity and performance for structured signature-based task execution.
+- **GEPA Optimizer**: Reflective prompt evolution optimizer (`dspy.GEPA`) that compiles programs against a metric, improving task-specific performance (e.g., 62% → 89% F1 in metadata ext
 
 ## Use Cases
 
@@ -50,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy-docs.vercel.app
+Original source URL: https://dspy.ai/
 
 ## Local Vault File
 

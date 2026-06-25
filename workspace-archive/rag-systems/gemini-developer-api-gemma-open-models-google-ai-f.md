@@ -2,7 +2,7 @@
 title: Gemini Developer API | Gemma open models | Google AI for Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://ai.google.dev
+source_url: https://ai.google.dev/
 resource_id: blog:gemini-developer-api-gemma-open-models-google-ai-f
 local_vault_path: ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code generation in Google AI Studio.
-- **On-Device & Edge AI**: Supports deploying AI models (e.g., Gemini Nano) directly on-device for low-latency, privacy-preserving applications across mobile, web, and embedded systems.
-- **Responsible AI Development**: Offers frameworks (e.g., Secure AI Framework) and tools for secure, ethical AI deploym
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code transformation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of AI models (e.g., Gemini Nano) across mobile, web, and embedded systems with low-latency, on-device processing via Google AI Edge.
+- **Responsible AI Development**: Offers frameworks (SAIF, Responsible GenAI Toolkit) and guidelines for secure, ethical A
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://ai.google.dev
+Original source URL: https://ai.google.dev/
 
 ## Local Vault File
 

@@ -1,47 +1,71 @@
 ---
 title: trycua/cua
 category: ai/agents
-source_type: github_trending
-source_name: GitHub Trending AI
+source_type: github
+source_name: GitHub Discovery
 source_url: https://github.com/trycua/cua
-published_at: '2026-06-16T13:57:13.168581+05:30'
-collected_at: '2026-06-16T13:57:13.168583+05:30'
+collected_at: '2026-06-25T22:57:57.628752+05:30'
+published_at: '2026-06-25T17:24:54Z'
 tags:
 - agents
 - benchmark
-- github-trending
+- github-repo
 - html
-status: inactive
+- scripts
+stars: 18964
+language: HTML
+status: active
+license: MIT
+archived: false
+created_at: '2025-01-31T15:02:49Z'
+pushed_at: '2026-06-25T15:32:09Z'
 resource_id: github:trycua/cua
-first_seen: '2026-06-16T13:57:13.168583+05:30'
-last_seen: '2026-06-16T13:57:13.168583+05:30'
-last_checked: '2026-06-16T13:57:13.168583+05:30'
+first_seen: '2026-06-25T22:57:57.628752+05:30'
+last_seen: '2026-06-25T22:57:57.628752+05:30'
+last_checked: '2026-06-25T22:57:57.628752+05:30'
 health_score: 100
 ---
-
 
 # trycua/cua
 
 ## Summary
 
-Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- **Multi-Platform Sandboxing**: Provides isolated environments for training/evaluating AI agents across macOS, Linux, and Windows using containerization and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox).
+
+- **Agent Development SDKs**: Offers tooling (in Swift/HTML) to build Computer-Use Agents (CUAs) capable of full desktop automation, including GUI interaction, file system manipulation, and application control.
+
+- **Benchmarking Suite**: Includes standardized tasks and metrics to evaluate agent performance in real-world desktop scenarios, supporting reproducibility and comparative analysis.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: GitHub Trending AI
-- Category: ai/agents
-- Published: 2026-06-16T13:57:13.168581+05:30
+- Owner: trycua
+- Stars: 18964
+- Forks: 1234
+- Language: HTML
+- Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
+- Last Updated: 2026-06-25T17:24:54Z
+- License: MIT
+- Archived: No
+- Created At: 2025-01-31T15:02:49Z
+- Pushed At: 2026-06-25T15:32:09Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- benchmark
-- github-trending
-- html
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 

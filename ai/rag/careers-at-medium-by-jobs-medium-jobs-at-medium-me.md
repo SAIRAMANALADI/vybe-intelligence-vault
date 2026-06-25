@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
-published_at: '2026-06-22T10:28:59.904308+05:30'
-collected_at: '2026-06-22T10:28:59.904316+05:30'
+published_at: '2026-06-24T20:50:55.361215+05:30'
+collected_at: '2026-06-24T20:50:55.361229+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:careers-at-medium-by-jobs-medium-jobs-at-medium-me
-first_seen: '2026-06-22T10:28:59.904316+05:30'
-last_seen: '2026-06-22T10:28:59.904316+05:30'
-last_checked: '2026-06-22T10:28:59.904316+05:30'
+first_seen: '2026-06-24T20:50:55.361229+05:30'
+last_seen: '2026-06-24T20:50:55.361229+05:30'
+last_checked: '2026-06-24T20:50:55.361229+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Mission & Values**: Medium prioritizes building an ad-free, high-quality publishing platform focused on meaningful storytelling, diversity, and combating harmful content, with a remote-first culture and all-company retreats.
+- **Mission & Values**: Medium prioritizes a high-quality, ad-free platform for storytelling, emphasizing diversity, inclusion, and combating harmful content, with hiring strictly via [greenhouse.io](https://job-boards.greenhouse.io/medium) to avoid scams.
 
-- **Scam Awareness**: Medium only hires via [Greenhouse.io](https://job-boards.greenhouse.io/medium); unsolicited job offers via LinkedIn or other platforms are fraudulent and should be reported to [help.medium.com](http://help.medium.com).
+- **Remote-First Infrastructure**: Fully remote workforce with stipends for home office setup, Wi-Fi reimbursement, co-working space access, and bi-annual all-company retreats for in-person collaboration.
 
-- **Benefits & Hiring Policy**: Offers comprehensive health, financial, and professional development benefits, while explicitly guiding candidates on responsible AI use in applications to preserve human-centric hiring.
+- **Benefits & Culture**: Offers comprehensive health/retirement benefits, unlimited PTO, mental health support, and a creative environment fostering experimentation, collaboration, and professional development.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:28:59.904308+05:30
+- Published: 2026-06-24T20:50:55.361215+05:30
 
 ## Related Tags
 

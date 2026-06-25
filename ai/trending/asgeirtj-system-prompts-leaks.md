@@ -11,13 +11,14 @@ tags:
 - github-trending
 - javascript
 - openai
-status: active
+status: inactive
 resource_id: github:asgeirtj/system_prompts_leaks
 first_seen: '2026-06-21T20:19:14.647167+05:30'
 last_seen: '2026-06-22T15:16:21.365165+05:30'
 last_checked: '2026-06-22T15:16:21.365165+05:30'
 health_score: 100
 ---
+
 
 # asgeirtj/system_prompts_leaks
 

@@ -2,13 +2,13 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Android Mobile App Developer Tools - Android Developers
@@ -28,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- Android 17 (API 37) source code is now live on AOSP, with rollout to supported Pixel devices; key updates require app adaptations for compatibility.
-- Android XR platform expands engine support and resources for building, testing, and scaling immersive experiences across devices.
-- Android Studio Quail 1 | 2026.1.1 Patch 2 introduces new SDK tools under a restricted license, prohibiting reverse engineering, derivative works, or unauthorized redistribution.
+- **Android 17 Update**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with top 5 updates for app compatibility and new features.
+
+- **Android XR Expansion**: Enhanced engine support and resources for building, testing, and scaling XR experiences across Android's ecosystem.
+
+- **Google Play Billing Changes**: Expanded billing flexibility, reduced fees, and new programs introduced to support developer monetization strategies.
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

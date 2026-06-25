@@ -8,7 +8,7 @@ local_vault_path: ai/agents/mojo.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Mojo
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Language Design**: Mojo combines Python-like syntax with C++-like performance, offering memory safety (inspired by Rust) and compile-time metaprogramming (inspired by Zig), targeting heterogeneous hardware (CPUs/GPUs/ASICs) for AI workloads.
+- **Language Design**: Mojo combines Python-like syntax with C++-level performance, offering memory safety (inspired by Rust) and compile-time metaprogramming (inspired by Zig) for high-performance computing across CPUs, GPUs, and accelerators.
 
-- **Key Features**: Supports GPU kernel programming without vendor-specific libraries, seamless Python interoperability for incremental optimization, and compile-time metaprogramming for zero-cost abstractions (e.g., SIMD vectorization, hardware-specifi
+- **Key Features**: Supports GPU programming without vendor-specific libraries, provides Python interoperability for incremental optimization, and enables zero-cost abstractions via compile-time metaprogramming for hardware-specific optimizations.
+
+- **D
 
 ## Use Cases
 

@@ -5,15 +5,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.mozilla.org/privacy
-published_at: '2026-06-22T11:35:19.565109+05:30'
-collected_at: '2026-06-22T11:35:19.565119+05:30'
+published_at: '2026-06-24T23:27:18.710749+05:30'
+collected_at: '2026-06-24T23:27:18.710760+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:open-policy-advocacy-mozilla-s-official-blog-on-op
-first_seen: '2026-06-22T11:35:19.565119+05:30'
-last_seen: '2026-06-22T11:35:19.565119+05:30'
-last_checked: '2026-06-22T11:35:19.565119+05:30'
+first_seen: '2026-06-24T23:27:18.710760+05:30'
+last_seen: '2026-06-24T23:27:18.710760+05:30'
+last_checked: '2026-06-24T23:27:18.710760+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Market Concentration**: AICOA targets monopolistic control by dominant tech firms (e.g., Google, Apple, Amazon) that dictate online ecosystems, restricting competition and user choice.
-- **Regulatory Mechanism**: Proposes structural separation and anti-discrimination rules to prevent self-preferencing and anti-competitive practices in digital platforms.
-- **Impact on Innovation**: Aims to foster a level playing field for smaller entities, potentially increasing diversity and innovation in web services.
+- **Ex-ante Competition Framework**: The Digital Markets Act (DMA) was the first regulatory framework to introduce ex-ante rules to ensure contestability and foster innovation in digital markets, shifting from traditional ex-post enforcement.
+- **Contestability & Innovation Focus**: The DMA mandates structural separation, interoperability, and fair access to data to prevent anti-competitive practices by large platforms, aiming to lower barriers for new entrants and SMEs.
+- **Implementation Challenges**: Critics argue the DMA’s effectiveness depends on rigorous enforcement, cross-border coordination, and adaptive regulatory mechanisms to address evolving market dynamics and loopholes.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:35:19.565109+05:30
+- Published: 2026-06-24T23:27:18.710749+05:30
 
 ## Related Tags
 

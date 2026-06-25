@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Installation & Setup**: Docker provides platform-specific installation paths to deploy the Docker Engine and CLI tools for container management.
+- **Installation & Setup**: Docker provides platform-specific installation paths (e.g., Docker Desktop) to deploy the Docker engine and CLI tools for container runtime execution.
 
-- **Core Concepts**: Docker containers encapsulate applications and dependencies in isolated, lightweight environments, distinct from virtual machines.
+- **Core Concepts**: Docker containers encapsulate applications and dependencies in isolated, lightweight environments, distinct from virtual machines (VMs) via kernel-level process isolation.
 
-- **Learning Resources**: Official guides cover foundational topics (containers, images, Dockerfiles) and include hands-on workshops for practical implementation.
+- **Learning Resources**: Docker’s official guides cover foundational topics (containers vs. images, Dockerfiles) and hands-on
 
 ## Use Cases
 

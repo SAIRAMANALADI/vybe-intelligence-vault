@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **TensorFlow GNN 1.0 (TF-GNN)**: A production-ready library for building and training Graph Neural Networks (GNNs) in TensorFlow, supporting heterogeneous graphs with distinct node/edge types and `tfgnn.GraphTensor` as a first-class tensor type for graph-structured data.
+- **TF-GNN 1.0 Release**: TensorFlow GNN (TF-GNN) 1.0 is introduced as a production-ready library for building and training Graph Neural Networks (GNNs) at scale, supporting heterogeneous graphs with distinct node/edge types and integration with TensorFlow's `tf.data` and Keras APIs via `tfgnn.GraphTensor`.
 
-- **Dynamic Subgraph Sampling**: TF-GNN introduces flexible APIs for dynamic/interactive subgraph sampling (in-memory or via Apache Beam) to scale GNN training to large graphs (hundreds of millions of nodes, billions of edges
+- **Dynamic Subgraph Sampling**: TF-GNN 1.0 supports dynamic, interactive subgraph sampling (in-memory or via Apache Beam) for efficient GNN training on large-scale graphs (hundreds of milli
 
 ## Use Cases
 

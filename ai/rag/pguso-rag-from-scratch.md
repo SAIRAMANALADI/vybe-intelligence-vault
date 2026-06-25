@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-18T16:20:06.377982+05:30'
-published_at: '2026-06-18T10:14:00Z'
+collected_at: '2026-06-25T22:55:17.469465+05:30'
+published_at: '2026-06-25T16:18:34Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1462
+stars: 1469
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-18T16:20:06.377982+05:30'
-last_seen: '2026-06-18T16:20:06.377982+05:30'
-last_checked: '2026-06-18T16:20:06.377982+05:30'
+first_seen: '2026-06-25T22:55:17.469465+05:30'
+last_seen: '2026-06-25T22:55:17.469465+05:30'
+last_checked: '2026-06-25T22:55:17.469465+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,11 @@ health_score: 100
 
 ## Summary
 
-Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-augmented generation without relying on black-box solutions.
+
+- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on transparency and educational value for developers.
+
+- **Modular Components**: Provides a clear, step-by-step tutorial covering agents, AI agents, RAG chatbots, and the full RAG pipeline, including vector database integration and retrieval logic.
 
 ## Why It Matters
 
@@ -40,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1462
-- Forks: 173
+- Stars: 1469
+- Forks: 174
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-06-18T10:14:00Z
+- Last Updated: 2026-06-25T16:18:34Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

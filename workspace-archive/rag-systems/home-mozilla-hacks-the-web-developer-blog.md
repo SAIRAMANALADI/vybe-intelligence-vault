@@ -12,11 +12,12 @@ resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
-- frontend_ui
+- hackernews
 - producthunt
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Web Serial API in Firefox 151**: Enables direct web-to-hardware communication (e.g., microcontrollers, 3D printers) without native software, expanding IoT/web integration capabilities.
-- **Firefox 148 Sanitizer API**: First browser to implement standardized `Sanitizer` API for DOM insertion of untrusted HTML, mitigating XSS vulnerabilities via built-in sanitization.
-- **CRLite in Firefox**: Implements private, high-speed certificate revocation checks (via compressed certificate logs) without
+- **PACT: Anonymous Credentials for the Web** introduces a privacy-preserving credential system to mitigate bot traffic while maintaining web openness, leveraging cryptographic proofs for selective disclosure without revealing user identity.
+
+- **Web Serial API in Firefox 151** enables direct serial communication between web apps and hardware devices (e.g., microcontrollers, 3D printers) via a standardized browser API, eliminating the need for native software dependencies.
+
+- **Firefox 148 imple
 
 ## Use Cases
 

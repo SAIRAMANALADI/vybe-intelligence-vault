@@ -16,7 +16,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Conference Focus**: SEV0 is a practitioner-driven event (Oct 20-27, 2026) in San Francisco/London, exclusively covering reliability engineering, incident response, and on-call practices without vendor pitches.
+- **Conference Overview**: SEV0 is a practitioner-focused reliability conference held in San Francisco (Oct 27, 2026) and London (Oct 20, 2026), featuring sessions on incident response, SRE practices, and scalable reliability engineering with no vendor pitches.
 
-- **Speaker & Attendee Profile**: Features senior SREs/CTOs from companies like Netflix, OpenAI, Airbnb, and Databricks, with sessions on AI-driven incident management, human factors in outages, and cross-system debugging.
-
-- **Practical Outcomes**: Sessions emphasize actionable insig
+- **Key Speakers & Topics**: Past sessions included keynotes on AI-driven incident management (Stephen Whitworth, incident.io), human factors in incidents (Molly Struve, Netflix), and technical deep dives like cross-system debugging (Sar
 
 ## Use Cases
 

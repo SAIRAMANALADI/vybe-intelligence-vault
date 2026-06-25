@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Functionality**: The `:has()` CSS pseudo-class enables selection of an element if any relative selector passed as an argument matches at least one element when anchored against it, allowing parent or previous sibling selection (e.g., `h1:has(+ p)` styles an `h1` if immediately followed by a `p`).
+- **Functionality**: The `:has()` CSS pseudo-class enables selection of an element if any relative selector passed as an argument matches at least one element when anchored against it, allowing parent/sibling traversal (e.g., `h1:has(+ p)` styles an `h1` followed by a `p`).
 
-- **Syntax & Constraints**: Takes a relative selector list as an argument, inherits specificity from its most specific selector, cannot be nested, and rejects pseudo-elements or pseudo-elements as
+- **Syntax Constraints**: Cannot be nested, does not support pseudo-elements, and fails entirely in unsupported browsers unless used in forgiving selector lists (e.g., `:is()` or `:where()`).
+
+- **Performance Considerations*
 
 ## Use Cases
 

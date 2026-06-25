@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
-published_at: '2026-06-22T10:23:48.813676+05:30'
-collected_at: '2026-06-22T10:23:48.813687+05:30'
+published_at: '2026-06-24T21:11:10.163064+05:30'
+collected_at: '2026-06-24T21:11:10.163076+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-06-22T10:23:48.813687+05:30'
-last_seen: '2026-06-22T10:23:48.813687+05:30'
-last_checked: '2026-06-22T10:23:48.813687+05:30'
+first_seen: '2026-06-24T21:11:10.163076+05:30'
+last_seen: '2026-06-24T21:11:10.163076+05:30'
+last_checked: '2026-06-24T21:11:10.163076+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under OGL v3.0, subject to attribution requirements.
+- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement.
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests (unless integral), military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement or violating other IP rights.
 
-- **Liability & Compliance**: Information provided "as is" with no warranties; licensors are not liable for errors/omissions or damages; failure to attribute terminates rights; governed by UK jurisdiction unless specified otherwise.
+- **Liability & Compliance**: Information provided "as is" with no warranties; licensor not liable for errors/omissions/damages; compliance with attribution is mandatory to retain rights; governed by the jurisdiction of the Information Provider.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:23:48.813676+05:30
+- Published: 2026-06-24T21:11:10.163064+05:30
 
 ## Related Tags
 

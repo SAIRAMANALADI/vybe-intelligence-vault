@@ -6,19 +6,18 @@ source_url: https://ragflow.io/blog
 resource_id: blog:blog-ragflow
 local_vault_path: ai/rag/blog-ragflow.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
-- hackernews
 - openai
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Blog | RAGFlow
@@ -26,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic, local models) with standardized input/output handling; introduced provider-specific adapters for seamless integration and reduced boilerplate.
+- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic) with modular architecture for extensibility; supports dynamic model switching and fallback mechanisms.
 
-- **Incremental Data Sources**: Implemented delta updates for document ingestion, enabling efficient synchronization with external sources (e.g., databases, APIs) via change detection (e.g., timestamps, versioning) without full reprocessing.
+- **Incremental Data Sources**: Implemented delta updates for document ingestion, reducing reprocessing overhead by tracking changes via file hashes and timestamps.
 
-- **Perform
+- **Performance Optimizations**: Reduced API latency by 30% via caching (Redis) and optimized vector embeddings (FAISS) for fast
 
 ## Use Cases
 

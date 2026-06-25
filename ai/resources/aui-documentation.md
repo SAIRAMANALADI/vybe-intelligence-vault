@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.atlassian.com/aui
-published_at: '2026-06-22T10:47:04.918147+05:30'
-collected_at: '2026-06-22T10:47:04.918155+05:30'
+published_at: '2026-06-23T10:14:07.791022+05:30'
+collected_at: '2026-06-23T10:14:07.791030+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:aui-documentation
-first_seen: '2026-06-22T10:47:04.918155+05:30'
-last_seen: '2026-06-22T10:47:04.918155+05:30'
-last_checked: '2026-06-22T10:47:04.918155+05:30'
+first_seen: '2026-06-23T10:14:07.791030+05:30'
+last_seen: '2026-06-23T10:14:07.791030+05:30'
+last_checked: '2026-06-23T10:14:07.791030+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: AUI is a frontend library designed to implement Atlassian Design Guidelines-compliant user interfaces.
-- **Documentation**: Provides versioned guides (e.g., v10.2), upgrade paths, and archived resources for component implementation.
-- **Consumption**: Supports multiple integration methods (e.g., CDN, npm) with version-specific setup guides and changelogs.
+- **Purpose**: AUI is a frontend library designed to implement Atlassian Design Guidelines for UI components.
+- **Versioning**: Supports multiple versions (latest: 10.2) with upgrade guides and archived documentation available.
+- **Consumption**: Provides multiple integration methods (e.g., CDN, npm) with version-specific resources and changelog tracking.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:47:04.918147+05:30
+- Published: 2026-06-23T10:14:07.791022+05:30
 
 ## Related Tags
 

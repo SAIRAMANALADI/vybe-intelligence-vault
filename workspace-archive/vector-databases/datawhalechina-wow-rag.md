@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 selection_reason:
@@ -30,7 +32,11 @@ selection_reason:
 
 ## Summary
 
-A simple and trans-platform rag framework and tutorial
+- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments.
+
+- **Tutorial Integration**: Provides step-by-step technical tutorials covering RAG pipeline construction, evaluation metrics, and deployment strategies, with executable notebooks for reproducibility.
+
+- **Extensibility**: Supports custom retrievers, embeddings, and LLM backends,
 
 ## Use Cases
 

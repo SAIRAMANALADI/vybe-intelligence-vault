@@ -13,8 +13,9 @@ importance: medium
 tags:
 - agents
 - benchmark
-- github-trending
+- github-repo
 - html
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,7 +34,11 @@ selection_reason:
 
 ## Summary
 
-Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- **Multi-Platform Sandboxing**: Provides isolated environments for training/evaluating AI agents across macOS, Linux, and Windows using containerization and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox).
+
+- **Agent Development SDKs**: Offers tooling (in Swift/HTML) to build Computer-Use Agents (CUAs) capable of full desktop automation, including GUI interaction, file system manipulation, and application control.
+
+- **Benchmarking Suite**: Includes standardi
 
 ## Use Cases
 
@@ -47,4 +52,4 @@ Original source URL: https://github.com/trycua/cua
 
 ## Local Vault File
 
-Path: [trycua-cua.md](file:///../../ai/agents/trycua-cua.md)
+Path: [trycua-cua.md](../../ai/agents/trycua-cua.md)

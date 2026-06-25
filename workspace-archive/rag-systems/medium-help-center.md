@@ -28,8 +28,9 @@ selection_reason:
 
 ## Summary
 
-- Medium's **Partner Program** enables monetization via the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187), with earnings calculated based on [Partner Program earnings dashboard](https://help.medium.com/hc/en-us/articles/360007171314) and [earnings algorithm](https://help.medium.com/hc/en-us/articles/360036691193).
-- **Publications** on Medium allow collaborative content curation, with submission management via [story submission workflow](https://help.medium.com/
+- Medium's **Partner Program** enables monetization via eligibility criteria, earnings dashboards, and revenue calculation metrics (e.g., read ratio, member reading time).
+- **Publication management** includes story submission workflows, curation settings, and layout customization (e.g., editorial guidelines, contributor roles).
+- **Content policies** enforce strict moderation via COVID-19, controversial content, and journalism best-practice guidelines, with user safety tools for blocking/report
 
 ## Use Cases
 

@@ -33,7 +33,11 @@ selection_reason:
 
 ## Summary
 
-AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️
+- **Multi-format security scanner** for AI agents, supporting CLI, GitHub Action, ECC plugin, and GitHub App integration to detect vulnerabilities in configurations, MCP servers, and tool permissions.
+
+- **TypeScript-based** implementation targeting AI agent ecosystems (e.g., Anthropic, Claude Code, MCP) with a focus on security hardening and permission validation.
+
+- **Actively maintained** (last updated June 2026) with 921 stars and 201 forks, indicating growing adoption in AI agent security r
 
 ## Use Cases
 

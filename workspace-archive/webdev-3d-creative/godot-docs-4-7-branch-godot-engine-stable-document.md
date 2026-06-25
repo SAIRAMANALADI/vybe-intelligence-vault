@@ -2,11 +2,11 @@
 title: Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English
 archive_category: webdev-3d-creative
 source_category: ai/rag
-source_url: https://docs.godotengine.org
+source_url: https://docs.godotengine.org/en/
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
 local_vault_path: ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Webdev 3D Creative`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform 2D/3D engine**: Godot supports both 2D and 3D rendering with dedicated pipelines, physics (2D/3D), shaders, and a modular GUI system, enabling scalable game and application development.
+- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
 
-- **Scripting & extensibility**: Native support for GDScript (optimized for Godot), C#, C++, and GDExtension for custom engine modules; avoids STL/exceptions for deterministic performance.
+- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
 
-- **License compliance & release policy**: MIT-licensed core with strict third-party license inclusion r
+- **Rendering & ph
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.godotengine.org
+Original source URL: https://docs.godotengine.org/en/
 
 ## Local Vault File
 

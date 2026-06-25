@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://pagespeed.web.dev
-published_at: '2026-06-22T11:21:54.551083+05:30'
-collected_at: '2026-06-22T11:21:54.551094+05:30'
+published_at: '2026-06-25T20:51:08.915699+05:30'
+collected_at: '2026-06-25T20:51:08.915711+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:pagespeed-insights
-first_seen: '2026-06-22T11:21:54.551094+05:30'
-last_seen: '2026-06-22T11:21:54.551094+05:30'
-last_checked: '2026-06-22T11:21:54.551094+05:30'
+first_seen: '2026-06-25T20:51:08.915711+05:30'
+last_seen: '2026-06-25T20:51:08.915711+05:30'
+last_checked: '2026-06-25T20:51:08.915711+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop devices, providing optimization suggestions based on real-world data from the Chrome User Experience Report.
 
-- **Scoring Mechanism**: Scores (0-100) are derived from Lighthouse audits, assessing metrics like First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Cumulative Layout Shift (CLS).
+- **Core Metrics**: Scores are derived from **Lighthouse** audits, focusing on **First Contentful Paint (FCP)**, **Largest Contentful Paint (LCP)**, **First Input Delay (FID)**, **Cumulative Layout Shift (CLS)**, and other performance/UX indicators.
 
-- **Optimization Recommendations**: Generates actionable insights (e.g., image compression, JavaScript minification, caching strategies) to improve Core Web Vitals and overall page speed.
+- **Optimization Guidance**: Delivers actionable recommendations (e.g., image compression, JavaScript/CSS minification, caching strategies) to improve **Core Web Vitals** and overall page load efficiency.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:21:54.551083+05:30
+- Published: 2026-06-25T20:51:08.915699+05:30
 
 ## Related Tags
 

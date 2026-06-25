@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html
-published_at: '2026-06-22T11:24:10.355658+05:30'
-collected_at: '2026-06-22T11:24:10.355671+05:30'
+published_at: '2026-06-25T16:43:17.414810+05:30'
+collected_at: '2026-06-25T16:43:17.414822+05:30'
 tags:
 - producthunt
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:installation-jupyterlab-4-6-0-documentation
-first_seen: '2026-06-22T11:24:10.355671+05:30'
-last_seen: '2026-06-22T11:24:10.355671+05:30'
-last_checked: '2026-06-22T11:24:10.355671+05:30'
+first_seen: '2026-06-25T16:43:17.414822+05:30'
+last_seen: '2026-06-25T16:43:17.414822+05:30'
+last_checked: '2026-06-25T16:43:17.414822+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag in the container).
+- JupyterLab can be installed via `conda`, `mamba`, `pip`, `pipenv`, `uv`, or Docker, with installation commands varying by package manager (e.g., `conda install -c conda-forge jupyterlab`, `pip install jupyterlab`, or `docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes jupyter/datascience-notebook`).
 
-- Proxy/firewall issues during installation can be mitigated by configuring `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disabling SSL verification (not recommended) with `conda config --set ssl_verify False` or `npm set strict-ssl False`.
+- Compatibility risks exist due to semantic versioning; extensions and customizations may break with major updates, requiring explicit version management.
 
-- JupyterLab supports Firefox, Chrome, Safari, and Edge; Jupyverse (FastAPI-based alternative) can be installed via `pip install "jupyverse[auth,jupyterlab]"` or `conda install -c conda-forge jupyverse fps-auth fps-jupyterlab`.
+- Proxy/firewall configurations may block package manager access; solutions include setting `HTTP_PROXY`/`HTTPS_PROXY` environment variables, disabling SSL verification (not recommended), or trusting specific hosts (e.g., `pip install --trusted-host pypi.org pandas`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:24:10.355658+05:30
+- Published: 2026-06-25T16:43:17.414810+05:30
 
 ## Related Tags
 

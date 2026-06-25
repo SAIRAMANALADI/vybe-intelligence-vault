@@ -4,17 +4,19 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-18T20:51:09.932870+05:30'
-published_at: '2026-06-18T12:30:20Z'
+collected_at: '2026-06-25T22:55:17.503228+05:30'
+published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
-stars: 962
+- workflows
+stars: 963
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -22,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-18T20:51:09.932870+05:30'
-last_seen: '2026-06-18T20:51:09.932870+05:30'
-last_checked: '2026-06-18T20:51:09.932870+05:30'
+first_seen: '2026-06-25T22:55:17.503228+05:30'
+last_seen: '2026-06-25T22:55:17.503228+05:30'
+last_checked: '2026-06-25T22:55:17.503228+05:30'
 health_score: 100
 ---
 
@@ -32,7 +34,11 @@ health_score: 100
 
 ## Summary
 
-Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to enable multimodal AI and Retrieval-Augmented Generation (RAG) workflows.
+
+- **Vector Database Integration**: Focuses on LanceDB as the vector database backend, demonstrating efficient storage, retrieval, and fine-tuning techniques for embeddings in AI pipelines.
+
+- **Agent & Workflow Optimization**: Includes recipes for deploying AI agents, fine-tuning embeddings, and optimizing multimodal pipelines using OpenAI, LangChain, and other deep-learning frameworks.
 
 ## Why It Matters
 
@@ -41,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lancedb
-- Stars: 962
-- Forks: 169
+- Stars: 963
+- Forks: 170
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
-- Last Updated: 2026-06-18T12:30:20Z
+- Last Updated: 2026-06-25T15:06:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-25T06:10:35Z

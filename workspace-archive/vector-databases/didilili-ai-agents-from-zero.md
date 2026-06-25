@@ -13,8 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,7 +33,11 @@ selection_reason:
 
 ## Summary
 
-🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows.
+
+- **Hands-on Projects & Interview Prep**: Provides practical implementations, real-world projects, and an interview question bank aligned with AI application engineer roles.
+
+- **Multi-Framework & Tool Integration**: Supports skills, LLM APIs, RAG pipelines, and enterprise-grade tools; u
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Cloudflare Research
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://research.cloudflare.com
+source_url: https://research.cloudflare.com/
 resource_id: blog:cloudflare-research
 local_vault_path: ai/rag/cloudflare-research.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Lossless MLP Weight Compression**: Unweight achieves 1.44x compression on BF16 MLP weights for LLM inference with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100/H200).
+- **Lossless LLM Weight Compression**: Unweight achieves **1.44x compression** on BF16 MLP weights with **GPU-native decompression**, enabling efficient inference on NVIDIA Hopper GPUs (H100/H200).
 
-- **Research Focus Areas**: Cloudflare Research targets five pillars—privacy-enhancing tech, cryptographic/security advances, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
+- **RFC 9935 Standardization**: Introduces **algorithm identifiers for ML-KEM** in X.509 PKI, formalizing **module-lattice-based key encapsulation** for post-quantum cryptography.
 
-- **Recent Publications**: Includes RFC 9935 (ML-KEM X.509 PKI algorithm identif
+- **Research Focus Areas**: Cloudflare’s research spans **privacy-enhancing tech, cryptographic security, next-gen proto
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://research.cloudflare.com
+Original source URL: https://research.cloudflare.com/
 
 ## Local Vault File
 

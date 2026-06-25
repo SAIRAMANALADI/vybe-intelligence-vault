@@ -13,13 +13,14 @@ collected_at: '2026-06-22T15:16:21.162442+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:munich-1991-the-roots-of-the-current-ai-boom
 first_seen: '2026-06-22T15:16:21.162442+05:30'
 last_seen: '2026-06-22T15:16:21.162442+05:30'
 last_checked: '2026-06-22T15:16:21.162442+05:30'
 health_score: 100
 ---
+
 
 # Munich 1991: The Roots of the Current AI Boom
 

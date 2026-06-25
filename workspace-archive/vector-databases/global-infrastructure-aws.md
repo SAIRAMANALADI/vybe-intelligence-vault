@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Global Reach & Scale**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents** with planned expansions in **Saudi Arabia, Chile, New Zealand, Taiwan**, and **Australia**.
+- **Global Reach & Scalability**: AWS operates 123 Availability Zones (AZs) across 39 Geographic Regions, with plans for 7 more AZs and 2 additional Regions (Saudi Arabia, Chile). Includes 750+ CloudFront Points of Presence (PoPs) and 45 Local Zones/Wavelength Zones for ultra-low-latency edge computing.
 
-- **High Availability & Resilience**: Each **Region** consists of **≥3 isolated AZs**, ensuring fault tolerance and **99.99% uptime SLA**, while AWS’s **20M
+- **High Availability & Resilience**: Each AWS Region consists of ≥3 physically isolated AZs, ensuring fault tolerance. Backed by ~20M km of fiber optic backbone for optimized latency, performan
 
 ## Use Cases
 

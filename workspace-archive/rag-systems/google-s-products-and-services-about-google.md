@@ -13,10 +13,11 @@ importance: medium
 tags:
 - creative_dev
 - hackernews
-- models
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Circle to Search & AI Mode**: Android devices support visual and contextual search via "Circle to Search" (highlight/tap screen regions) and AI-powered responses with follow-up query support, leveraging Google’s multimodal models for real-time assistance.
+- **AI-Powered Search Enhancements**: Google Search introduces *Circle to Search* (visual search via camera/gesture), *AI Mode* (conversational AI responses with follow-ups), and *Lens* (multimodal search via images/camera), leveraging LLMs for contextual understanding and real-time problem-solving (e.g., handwritten equation solving).
 
-- **Gemini AI Suite**: Integrates conversational AI (Gemini Live), canvas-based prototyping, image/video generation, and multimodal reasoning, with native support in Chrome, Workspace (Gmail/Docs), and Pixel devices for cross-platform prod
+- **Gemini AI Ecosystem**: Google’s *Gemini* integrates across products with features like *Gemini Live* (real-time voice interaction), *Canvas* (AI-driven proto
 
 ## Use Cases
 

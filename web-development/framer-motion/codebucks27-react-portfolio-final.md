@@ -4,19 +4,19 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/codebucks27/react-portfolio-final
-collected_at: '2026-06-18T14:43:53.171588+05:30'
-published_at: '2026-06-18T07:15:55Z'
+collected_at: '2026-06-25T22:54:19.020806+05:30'
+published_at: '2026-06-25T16:10:40Z'
 tags:
 - animation
 - creative_dev
 - frontend_ui
-stars: 466
+stars: 467
 language: JavaScript
 status: active
 resource_id: github:codebucks27/react-portfolio-final
 first_seen: '2026-06-12T10:40:18.783036+00:00'
-last_seen: '2026-06-18T14:43:53.171588+05:30'
-last_checked: '2026-06-18T14:43:53.171588+05:30'
+last_seen: '2026-06-25T22:54:19.020806+05:30'
+last_checked: '2026-06-25T22:54:19.020806+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: codebucks27
-- Stars: 466
+- Stars: 467
 - Forks: 150
 - Language: JavaScript
 - Topics: beginner-project, framer-motion, frontend, javascript, portfolio, portfolio-website, react, reactjs, styled-components, webdesign, webdeveloper, webdevelopment
-- Last Updated: 2026-06-18T07:15:55Z
+- Last Updated: 2026-06-25T16:10:40Z
 
 ## Possible Use Cases
 

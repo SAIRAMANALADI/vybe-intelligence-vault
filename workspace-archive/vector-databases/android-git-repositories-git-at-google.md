@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - benchmark
 - frontend_ui
@@ -30,16 +30,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Android Git Repository Structure**: Hosts a hierarchical Git repository structure under `android.googlesource.com` with subdirectories for device-specific configurations (e.g., `device/google/bluejay`), kernel sources (e.g., `device/google/bluejay-kernel`), and security policies (e.g., `device/google/bluejay-sepolicy`), organized by device codename and hardware platform.
+- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device configurations, kernels, and platform adaptations.
 
-- **Versioned Kernel Support**: Includes kernel branches for multiple Android versions (e.g., `5.10`, `5.15`, `6.1`) unde
+- **Device-Specific Branches**: Includes per-device kernel (`*-kernel`), device tree (`device/google/<device>`), and SELinux policy (`*-sepolicy`) repositories for devices like Pixel, Cuttlefish, and generic ARM/x86 targets.
+
+- **Build & Emulation Support**: Contains emulator-spe
 
 ## Use Cases
 

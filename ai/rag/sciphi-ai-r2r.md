@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-06-22T15:48:37.077937+05:30'
-published_at: '2026-06-21T16:33:34Z'
+collected_at: '2026-06-25T22:56:37.555418+05:30'
+published_at: '2026-06-25T14:08:23Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 7892
+stars: 7897
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-06-22T15:48:37.077937+05:30'
-last_seen: '2026-06-22T15:48:37.077937+05:30'
-last_checked: '2026-06-22T15:48:37.077937+05:30'
+first_seen: '2026-06-25T22:56:37.555418+05:30'
+last_seen: '2026-06-25T22:56:37.555418+05:30'
+last_checked: '2026-06-25T22:56:37.555418+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic agentic workflows for AI-driven retrieval tasks.
-- **Python-Based Architecture**: Implemented in Python, leveraging state-of-the-art (SoTA) techniques for large language models (LLMs), question-answering, and retrieval systems.
-- **Scalable Retrieval & Search**: Optimized for high-performance retrieval and search operations, with active maintenance and updates as of June 2026.
+- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) framework with a RESTful API for production-grade AI retrieval tasks.
+- **Python-Based Architecture**: Built in Python, supporting large language models (LLMs), question-answering, and retrieval systems with modular components.
+- **Scalable & Modern Features**: Optimized for high performance with a RESTful API, versioned document ingestion, and integration with vector databases (e.g., Postgres, Qdrant, Weaviate).
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SciPhi-AI
-- Stars: 7892
-- Forks: 636
+- Stars: 7897
+- Forks: 637
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-06-21T16:33:34Z
+- Last Updated: 2026-06-25T14:08:23Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

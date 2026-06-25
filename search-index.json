@@ -98383,6 +98383,74 @@
     "last_updated": "2026-06-22T15:21:14.205394+05:30"
   },
   {
+    "title": "Practice | GeeksforGeeks | A computer science portal for geeks",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "hackernews",
+      "web-crawled"
+    ],
+    "source_url": "https://practice.geeksforgeeks.org/events/rec/job-a",
+    "local_path": "ai/resources/practice-geeksforgeeks-a-computer-science-portal-f.md",
+    "summary": "- **Comprehensive Technical Resource Hub**: GeeksforGeeks aggregates structured tutorials, problem-solving exercises, and interview preparation materials across **DSA, C/C++, Java, Python, JavaScript, Linux, DevOps, Data Science, and Machine Learning",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T22:58:25.725543+05:30"
+  },
+  {
+    "title": "GNU Mailman",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "producthunt",
+      "web-crawled",
+      "youtube"
+    ],
+    "source_url": "http://list.org",
+    "local_path": "ai/resources/gnu-mailman.md",
+    "summary": "- **GNU Mailman** is a free, Python-based mailing list manager with integrated web administration, archiving, bounce processing, content filtering, digest delivery, and spam filtering. - **Mailman 3.3.10 (Tom Sawyer)** is the current stable release (",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T21:05:13.117135+05:30"
+  },
+  {
+    "title": "Nomenius - Inregistrare marci la OSIM, EUIPO & WIPO",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://nomenius.ro",
+    "local_path": "ai/resources/nomenius-inregistrare-marci-la-osim-euipo-wipo.md",
+    "summary": "- **Expertiză și autorizare**: Echipa Nomenius, autorizată de Camera Națională a Consilierilor în Proprietate Industrială din România din 2006, a înregistrat peste **2000 de mărci** naționale, europene și internaționale, cu suport juridic specializat",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-23T01:19:30.577514+05:30"
+  },
+  {
+    "title": "Learn Code the Hard Way",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://learncodethehardway.com/client/#/product/learn-c-the-hard-way",
+    "local_path": "ai/resources/learn-code-the-hard-way.md",
+    "summary": "No summary provided. Reference resource: Learn Code the Hard Way",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T10:33:21.695923+05:30"
+  },
+  {
     "title": "Accessibility Resources | UCLA Library",
     "category": "ai/resources",
     "section": "evals-and-benchmarks",
@@ -98414,6 +98482,41 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-22T10:49:13.474271+05:30"
+  },
+  {
+    "title": "databrickslabs/doc-qa",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "github-repo",
+      "hackernews",
+      "python"
+    ],
+    "source_url": "https://github.com/databrickslabs/doc-qa",
+    "local_path": "ai/resources/databrickslabs-doc-qa.md",
+    "summary": "- **Repository Purpose**: Unspecified, but likely related to document-based question answering (QA) systems given the name `doc-qa`. - **Technical Stack**: Implemented in Python, with no additional metadata on dependencies or frameworks. - **Activity",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T23:01:27.360606+05:30"
+  },
+  {
+    "title": "[Feature] Code splitting on async import() statements. · Issue #16 · evanw/esbuild · GitHub",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "frontend_ui",
+      "web-crawled"
+    ],
+    "source_url": "https://github.com/evanw/esbuild/issues/16",
+    "local_path": "ai/resources/evanw-esbuild.md",
+    "summary": "- **Code splitting**: Implemented for dynamic `import()` statements to enable efficient bundling of JavaScript modules. - **Shared dependency optimization**: Automatically splits and merges shared dependencies across bundles for improved performance.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T16:46:14.669354+05:30"
   },
   {
     "title": "Accueil â Capitole du Libre",
@@ -98564,14 +98667,13 @@
       "paper",
       "reddit",
       "web-crawled",
-      "workflows",
       "youtube"
     ],
     "source_url": "https://www.anaconda.com",
     "local_path": "ai/resources/advance-ai-with-open-source-anaconda.md",
     "summary": "- **Trusted Python Package Management**: Anaconda Core provides validated open-source packages with automated security scanning and intelligent dependency conflict resolution, ensuring reliable Python environment management for AI/ML workflows. - **A",
     "quality_score": 70,
-    "archive_score": 72,
+    "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-22T10:58:26.803142+05:30"
@@ -98611,6 +98713,55 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-22T15:40:30.042909+05:30"
+  },
+  {
+    "title": "Cloudflare Dashboard | Manage Your Account",
+    "category": "ai/resources",
+    "section": "frontend-ai-ui",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://support.cloudflare.com",
+    "local_path": "ai/resources/cloudflare-dashboard-manage-your-account.md",
+    "summary": "No summary provided. Reference resource: Cloudflare Dashboard | Manage Your Account",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T23:05:26.224094+05:30"
+  },
+  {
+    "title": "Notion",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://deepnote.notion.site/Media-Press-Kit-1ee4dc7a34a14cb8964700f78ec6082f",
+    "local_path": "ai/resources/notion.md",
+    "summary": "- **Notion Web Application Dependency**: The platform requires JavaScript to be enabled in the browser for full functionality, as it relies on client-side scripting for rendering and interactivity. - **Block-Based Architecture**: Notion employs a mod",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T10:24:56.326063+05:30"
+  },
+  {
+    "title": "Verify API | Twilio",
+    "category": "ai/resources",
+    "section": "startup-builder",
+    "tags": [
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://www.twilio.com/en-us/user-authentication-identity/verify",
+    "local_path": "ai/resources/verify-api-twilio.md",
+    "summary": "- **Twilio Verify Pricing**: Pricing details available via provided link, structured per verification method (SMS, voice, email, etc.) with volume-based discounts. - **Product Removal**: Explicit instruction to remove the product, implying deprecatio",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T23:20:55.161341+05:30"
   },
   {
     "title": "AI in Science Fellowship - Schmidt Sciences",
@@ -98937,12 +99088,12 @@
     ],
     "source_url": "https://www.apple.com/apple-vision-pro",
     "local_path": "ai/resources/apple-vision-pro-apple.md",
-    "summary": "- **M5 Chip Integration**: Apple Vision Pro incorporates the new M5 chip, enhancing performance for spatial computing tasks, including advanced image processing, real-time environmental mapping, and low-latency hand/eye tracking. - **Dual Knit Band &",
+    "summary": "- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital and physical spaces with advanced processing for spatial computing tasks. - **Dua",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
-    "resource_kind": "dataset",
-    "last_updated": "2026-06-22T11:17:28.375450+05:30"
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T22:59:15.493108+05:30"
   },
   {
     "title": "ARGEPORTAL GİRİŞ",
@@ -99378,6 +99529,54 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-22T10:53:42.489568+05:30"
+  },
+  {
+    "title": "SSP Extensions Explorer | SSP Extensions Explorer",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://ssp-extensions.apps.ece.iiasa.ac.at",
+    "local_path": "ai/resources/ssp-extensions-explorer-ssp-extensions-explorer.md",
+    "summary": "- **SSP Extensions Explorer** is an interactive platform by IIASA providing extensions of the Shared Socioeconomic Pathways (SSPs) for comparative analysis of socioeconomic and environmental indicators across countries and scenarios. - **Core modules",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T23:24:08.985695+05:30"
+  },
+  {
+    "title": "Inclusive Speaker Orientation (LFC101) - Linux Foundation - Education",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation",
+    "local_path": "ai/resources/inclusive-speaker-orientation-lfc101-linux-foundat.md",
+    "summary": "- **Definition & Impact**: Unconscious bias refers to automatic, unintentional stereotypes affecting behavior, often leading to discriminatory outcomes in hiring, promotions, and workplace dynamics. - **Mechanisms**: Cognitive shortcuts (heuristics)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T23:05:46.990171+05:30"
+  },
+  {
+    "title": "Exploring JavaScript: temporarily offline",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://exploringjs.com",
+    "local_path": "ai/resources/exploring-javascript-temporarily-offline.md",
+    "summary": "- **Financial Impact**: AI-driven traffic surge caused ad revenue collapse, eliminating income from free online book access and blog content. - **Temporary Shutdown**: All free online resources (blog and books) taken offline indefinitely due to unsus",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T21:06:54.303212+05:30"
   },
   {
     "title": "Blacklight – The Markup",
@@ -100976,6 +101175,41 @@
     "last_updated": "2026-06-22T11:37:41.781100+05:30"
   },
   {
+    "title": "pradyunsg (Pradyun Gedam) · GitHub",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://github.com/pradyunsg",
+    "local_path": "ai/resources/pradyunsg-pradyun-gedam-github.md",
+    "summary": "- **Core contributor** to Python packaging ecosystem: Maintains `pip` (Python package installer), `packaging.python.org` (Python Packaging User Guide), and is a member of **PyPA** (Python Packaging Authority). - **Active in language/tooling developme",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T16:45:28.651799+05:30"
+  },
+  {
+    "title": "How We Handle Ads, Funding, and Data Security - Google - About Google",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "hackernews",
+      "reddit",
+      "web-crawled",
+      "youtube"
+    ],
+    "source_url": "https://about.google/intl/en_US/how-our-business-works",
+    "local_path": "ai/resources/how-we-handle-ads-funding-and-data-security-google.md",
+    "summary": "- **Revenue Model**: Google primarily monetizes through advertising by selling ad space on its platforms (Search, Maps, YouTube) and partner sites/apps, with most earnings derived from contextual ads alongside Search results. - **Data Privacy**: Goog",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T23:00:48.579929+05:30"
+  },
+  {
     "title": "Design Tech - Cornell University",
     "category": "ai/resources",
     "section": "observability",
@@ -101981,12 +102215,11 @@
   {
     "title": "get-source-code",
     "category": "ai/resources",
-    "section": "automation-workflows",
+    "section": "project-ideas",
     "tags": [
       "producthunt",
       "reddit",
-      "web-crawled",
-      "workflows"
+      "web-crawled"
     ],
     "source_url": "https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code",
     "local_path": "ai/resources/get-source-code.md",
@@ -101996,6 +102229,42 @@
     "archive_tier": "useful",
     "resource_kind": "prompt",
     "last_updated": "2026-06-22T10:44:41.201691+05:30"
+  },
+  {
+    "title": "Get started with Sourcetree | Sourcetree | Atlassian Documentation",
+    "category": "ai/resources",
+    "section": "automation-workflows",
+    "tags": [
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://confluence.atlassian.com/get-started-with-sourcetree",
+    "local_path": "ai/resources/get-started-with-sourcetree-sourcetree-atlassian-d.md",
+    "summary": "- **SourceTree** is a GUI client for **Git** and **Mercurial** version control systems, simplifying repository management via a visual interface. - **Core workflows** include **cloning, committing, pushing, pulling, branching, and merging**, with ded",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T21:13:51.043970+05:30"
+  },
+  {
+    "title": "Toolkit: Best Practices for Launching an LMS",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "hackernews",
+      "producthunt",
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://info.skilljar.com/best-practices-launching-lms",
+    "local_path": "ai/resources/toolkit-best-practices-for-launching-an-lms.md",
+    "summary": "- **Define and scope project requirements** prior to LMS provider selection to align technical, functional, and business objectives with measurable KPIs for success. - **Evaluate platform capabilities** against use cases (e.g., customer/partner train",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-23T10:06:21.540810+05:30"
   },
   {
     "title": "Get started | Docker Docs",
@@ -102008,12 +102277,12 @@
     ],
     "source_url": "https://docs.docker.com/get-started",
     "local_path": "ai/resources/get-started-docker-docs.md",
-    "summary": "- **Installation & Setup**: Docker provides platform-specific installation paths to deploy the Docker Engine and CLI tools for container management. - **Core Concepts**: Docker containers encapsulate applications and dependencies in isolated, lightwe",
+    "summary": "- **Installation & Setup**: Docker provides platform-specific installation paths (e.g., Docker Desktop) to deploy the Docker engine and CLI tools for container runtime execution. - **Core Concepts**: Docker containers encapsulate applications and dep",
     "quality_score": 70,
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-22T15:33:38.355336+05:30"
+    "last_updated": "2026-06-24T20:52:45.260138+05:30"
   },
   {
     "title": "Getting started | CHI@Edge",
@@ -102080,12 +102349,12 @@
     ],
     "source_url": "https://gerrit.googlesource.com/gitiles",
     "local_path": "ai/resources/gitiles-git-at-google.md",
-    "summary": "- **Gitiles Overview**: A lightweight, JGit-based Git repository browser with no access controls, write support, or JavaScript dependencies; renders Markdown files (`*.md`) into HTML for documentation. - **Configuration & Dependencies**: Uses a `giti",
+    "summary": "- **Purpose & Design**: Gitiles is a lightweight, read-only Git repository browser built on JGit, prioritizing simplicity with no access controls, write operations, or JavaScript dependencies. - **Features**: Automatically renders Markdown (`*.md`) f",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:23:02.270327+05:30"
+    "last_updated": "2026-06-24T10:18:48.635469+05:30"
   },
   {
     "title": "Give users admin permissions | Atlassian Support",
@@ -102156,6 +102425,25 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-22T11:06:26.765516+05:30"
+  },
+  {
+    "title": "Overview (egeria 6.1-SNAPSHOT API)",
+    "category": "ai/resources",
+    "section": "public-apis",
+    "tags": [
+      "dataset",
+      "hackernews",
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://odpi.github.io/egeria/index.html",
+    "local_path": "ai/resources/overview-egeria-6-1-snapshot-api.md",
+    "summary": "- **Apache Atlas Integration**: Packages provide connectors for Apache Atlas, including REST API interfaces (`org.odpi.openmetadata.adapters.connectors.apacheatlas.resource`), glossary term publishing (`org.odpi.openmetadata.adapters.connectors.apach",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-24T10:24:11.290591+05:30"
   },
   {
     "title": "Google AI Studio",
@@ -102864,6 +103152,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-22T15:58:08.778944+05:30"
+  },
+  {
+    "title": ".NET and .NET Core official support policy | .NET",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "hackernews",
+      "web-crawled"
+    ],
+    "source_url": "https://dotnet.microsoft.com/platform/support/policy/dotnet-core",
+    "local_path": "ai/resources/net-and-net-core-official-support-policy-net.md",
+    "summary": "- **Support Lifecycle & Cadence**: .NET follows an annual major release cycle (November) with even-numbered releases (e.g., .NET 8, 10) as LTS (3-year support) and odd-numbered (e.g., .NET 9) as STS (2-year support), governed by Microsoft’s Modern Li",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T10:34:43.110815+05:30"
   },
   {
     "title": "google/gemma-3-12b-it · Hugging Face",
@@ -104982,6 +105287,90 @@
     "last_updated": "2026-06-22T11:38:34.469410+05:30"
   },
   {
+    "title": "deepset Trust Center",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://trust.deepset.ai",
+    "local_path": "ai/resources/deepset-trust-center.md",
+    "summary": "No summary provided. Reference resource: deepset Trust Center",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T20:46:29.375553+05:30"
+  },
+  {
+    "title": "Shared Socioeconomic Pathways | Shared Socioeconomic Pathways | Scenario Explorer hosted by IIASA",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=about",
+    "local_path": "ai/resources/shared-socioeconomic-pathways-shared-socioeconomic.md",
+    "summary": "- **SSPs**: Five narrative-based scenarios (SSP1-SSP5) quantifying societal, economic, and demographic trajectories to 2100, spanning high-to-low challenges for adaptation and mitigation. - **IAM Quantifications**: Integrated Assessment Models (IAMs)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T23:21:42.167841+05:30"
+  },
+  {
+    "title": "[OBSOLETE] Gainsight Support Quick Reference Guide - Gainsight Inc.",
+    "category": "ai/resources",
+    "section": "automation-workflows",
+    "tags": [
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://support.gainsight.com/Contact_Support/Gainsight_Product_Support/Gainsight_Support_Quick_Reference_Guide",
+    "local_path": "ai/resources/obsolete-gainsight-support-quick-reference-guide-g.md",
+    "summary": "- **Deprecation Notice**: Gainsight has upgraded from the SFDC Edition to the NXT Customer Success platform, rendering SFDC documentation obsolete and scheduled for removal. - **Migration Path**: Users directed to SFDC documentation via search should",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-23T10:11:52.864256+05:30"
+  },
+  {
+    "title": "R Markdown",
+    "category": "ai/resources",
+    "section": "frontend-ai-ui",
+    "tags": [
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://rmarkdown.rstudio.com",
+    "local_path": "ai/resources/r-markdown.md",
+    "summary": "- **R Markdown** enables reproducible, multi-language (R, Python, SQL) documents combining narrative text, code, and output in formats like HTML, PDF, Word, and Beamer via a notebook interface. - **Output flexibility** includes static (HTML, PDF, Wor",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T23:22:23.293897+05:30"
+  },
+  {
+    "title": "Home - Green Web Foundation",
+    "category": "ai/resources",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hackernews",
+      "web-crawled"
+    ],
+    "source_url": "https://thegreenwebfoundation.org",
+    "local_path": "ai/resources/home-green-web-foundation.md",
+    "summary": "- **Mission & Tools**: The Green Web Foundation (GWF) tracks and promotes green energy usage in internet infrastructure, aiming for a fossil-free internet by 2030. Key tools include the **Green Web Dataset** (API-accessible public dataset to verify g",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-24T23:15:15.817992+05:30"
+  },
+  {
     "title": "Prepare your email Marketing Campaign | SendGrid Docs | Twilio",
     "category": "ai/resources",
     "section": "ai/resources",
@@ -104991,12 +105380,12 @@
     ],
     "source_url": "https://sendgrid.com/docs/User_Guide/index.html",
     "local_path": "ai/resources/prepare-your-email-marketing-campaign-sendgrid-doc.md",
-    "summary": "- **Components Required for Marketing Campaigns**: A verified timezone (for scheduling), a verified sender email address (for sender identification), notification email addresses (for progress updates), recipient lists (for contact management), and a",
+    "summary": "- **Marketing Campaign Components**: Requires verified timezone (for scheduling), sender email (verified per regulations), notification emails, recipient lists (via CSV upload, signup forms, manual entry, or APIs), and an unsubscribe mechanism. - **S",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T10:53:28.829674+05:30"
+    "last_updated": "2026-06-24T23:07:58.500043+05:30"
   },
   {
     "title": "Presenter Capabilities | Knowledge Base",
@@ -106904,6 +107293,25 @@
     "last_updated": "2026-06-22T15:44:08.187234+05:30"
   },
   {
+    "title": "The Mailman Suite — Mailman Suite 3.3 documentation",
+    "category": "ai/resources",
+    "section": "public-apis",
+    "tags": [
+      "reddit",
+      "scripts",
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://docs.mailman3.org",
+    "local_path": "ai/resources/the-mailman-suite-mailman-suite-3-3-documentation.md",
+    "summary": "- **Mailman Suite Architecture**: Comprises 5 core projects—Mailman Core (list management), Postorius (web UI), Hyperkitty (archiver), Mailmanclient (REST API bindings), and Django-mailman3 (Django utilities)—licensed under GPLv3+ and copyrighted by",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-24T21:03:17.507287+05:30"
+  },
+  {
     "title": "Trust Legal Provisions (TLP) – IETF Trust",
     "category": "ai/resources",
     "section": "ai/resources",
@@ -107223,6 +107631,39 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-22T15:33:43.779750+05:30"
+  },
+  {
+    "title": "elk.zone",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "web-crawled"
+    ],
+    "source_url": "https://elk.zone",
+    "local_path": "ai/resources/elk-zone.md",
+    "summary": "No summary provided. Reference resource: elk.zone",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-24T23:14:52.484442+05:30"
+  },
+  {
+    "title": "SIMPLE-Py | scikit-build",
+    "category": "ai/resources",
+    "section": "automation-workflows",
+    "tags": [
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://scikit-build.org/events/simple-py",
+    "local_path": "ai/resources/simple-py-scikit-build.md",
+    "summary": "- **Workshop Focus**: Two-day hands-on training (July 13-14, 2026) on modern Python packaging for scientific computing, covering pure-Python and compiled extensions (scikit-build-core, Pybind11, nanobind, Maturin/PyO3), CI/CD, and secure publishing w",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-24T21:17:31.203685+05:30"
   },
   {
     "title": "UCLA Transportation Attains Accredited Organization Status | Transportation",
@@ -108232,7 +108673,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.394710+05:30"
+    "last_updated": "2026-06-25T22:54:21.037999+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
@@ -108250,7 +108691,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.394658+05:30"
+    "last_updated": "2026-06-25T22:54:21.037906+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -108268,7 +108709,25 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.394686+05:30"
+    "last_updated": "2026-06-25T22:54:21.037948+05:30"
+  },
+  {
+    "title": "ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+    "category": "ai/companies/anthropic",
+    "section": "model-providers",
+    "tags": [
+      "anthropic",
+      "anthropic-news",
+      "blog-post"
+    ],
+    "source_url": "https://anthropic.com/news/introducing-claude-tag",
+    "local_path": "ai/companies/anthropic/productjun-23-2026introducing-claude-tagclaude-tag.md",
+    "summary": "Recent update from Anthropic News Blog: ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.",
+    "quality_score": 70,
+    "archive_score": 82,
+    "archive_tier": "useful",
+    "resource_kind": "product",
+    "last_updated": "2026-06-25T22:54:21.037631+05:30"
   },
   {
     "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
@@ -108377,7 +108836,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.794927+05:30"
+    "last_updated": "2026-06-25T22:54:21.445212+05:30"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -108417,7 +108876,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.795263+05:30"
+    "last_updated": "2026-06-25T22:54:21.445566+05:30"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -108456,7 +108915,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:23.794827+05:30"
+    "last_updated": "2026-06-25T22:54:21.445131+05:30"
   },
   {
     "title": "AI Now Summit 2026",
@@ -108475,7 +108934,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:24.077982+05:30"
+    "last_updated": "2026-06-25T22:54:21.783382+05:30"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -108610,7 +109069,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-22T15:16:24.078815+05:30"
+    "last_updated": "2026-06-25T22:54:21.784773+05:30"
   },
   {
     "title": "Vibe gets to work.",
@@ -108649,7 +109108,26 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-22T15:16:24.077912+05:30"
+    "last_updated": "2026-06-25T22:54:21.783185+05:30"
+  },
+  {
+    "title": "Mistral OCR 4",
+    "category": "ai/companies/mistral",
+    "section": "model-providers",
+    "tags": [
+      "blog-post",
+      "mistral",
+      "mistral-ai-news",
+      "models"
+    ],
+    "source_url": "https://mistral.ai/news/ocr-4",
+    "local_path": "ai/companies/mistral/mistral-ocr-4.md",
+    "summary": "Recent update from Mistral AI News Blog: Mistral OCR 4",
+    "quality_score": 70,
+    "archive_score": 82,
+    "archive_tier": "useful",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-25T22:54:21.783001+05:30"
   },
   {
     "title": "AI Adoption",

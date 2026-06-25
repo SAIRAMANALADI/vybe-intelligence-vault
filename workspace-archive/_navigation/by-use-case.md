@@ -37,6 +37,7 @@ This index groups resources by direct developer use-cases and design goals.
 ## Model Selection, Inference & Cost Profiling
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `model-providers` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Category: `model-providers` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Category: `model-providers` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `observability` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `model-providers` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
@@ -50,7 +51,7 @@ This index groups resources by direct developer use-cases and design goals.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/kruxai-ragbuilder.md))
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
 - [Algorithmic Prompt Generation for Diverse Human-like Teaming and Communication with Large Language Models](https://arxiv.org/abs/2504.03991) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/arxiv-2504-03991.md))
@@ -70,7 +71,7 @@ This index groups resources by direct developer use-cases and design goals.
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `frontend-ai-ui` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `startup-builder` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Category: `llm-app-templates` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))

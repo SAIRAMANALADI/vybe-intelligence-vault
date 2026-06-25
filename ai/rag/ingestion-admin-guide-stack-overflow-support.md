@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://support.stackenterprise.co/support/solutions/articles/22000294803-ingestion-admin-guide#confluence-cloud-connector
-published_at: '2026-06-22T11:01:30.054668+05:30'
-collected_at: '2026-06-22T11:01:30.054677+05:30'
+published_at: '2026-06-24T23:12:54.362246+05:30'
+collected_at: '2026-06-24T23:12:54.362260+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ingestion-admin-guide-stack-overflow-support
-first_seen: '2026-06-22T11:01:30.054677+05:30'
-last_seen: '2026-06-22T11:01:30.054677+05:30'
-last_checked: '2026-06-22T11:01:30.054677+05:30'
+first_seen: '2026-06-24T23:12:54.362260+05:30'
+last_seen: '2026-06-24T23:12:54.362260+05:30'
+last_checked: '2026-06-24T23:12:54.362260+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Ingestion Configuration**: Admins enable/disable ingestion via **Admin settings > INGESTION**, controlling file uploads, API endpoints, and connector access. Regular users gain ingestion permissions if their reputation exceeds an admin-defined threshold.
+- **Ingestion Configuration**: Enabled via **Admin settings > INGESTION > Enable Ingestion**, allowing file uploads (manual/API) and AI-driven content transformation into Q&A pairs (knowledge objects), with a default quota of **100 objects/month** (expandable via paid tiers).
 
-- **Confluence Cloud Connector**: Requires a **1-year API token** (created in Confluence Cloud) with permissions for Stack Internal to ingest Confluence Cloud space pages (excluding attachments) via daily scans, avoiding duplicate content.
+- **Confluence Cloud Connector**: Requires **API token generation** (1-year expiry) in Confluence Cloud (via `id.atlassian.com/manage-profile/security/api-tokens`) and configuration in Stack Internal with **space keys**, **host URL**, and **service account email**; performs **daily delta scans** for new pages (excluding attachments).
 
-- **Knowledge Objects & Limits**: Enterprise plans include **100 free knowledge objects/month**; exceeding this freezes ingestion until the next cycle or an upgrade. Advanced stats track user activity (edits, deletions, publishes) with configurable review thresholds.
+- **Access Control & Monitoring**: **Admin/Moderator roles** have full ingestion/review permissions; end-users require a **reputation threshold** (set in **Admin settings > Reputation**); **review suspensions** and **advanced stats** (e.g., Q&A edits/publishes) are tracked under **Stats > Advanced stats** with 30-day filtering.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:01:30.054668+05:30
+- Published: 2026-06-24T23:12:54.362246+05:30
 
 ## Related Tags
 

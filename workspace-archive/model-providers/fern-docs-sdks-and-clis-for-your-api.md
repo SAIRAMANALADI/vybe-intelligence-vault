@@ -1,0 +1,58 @@
+---
+title: 'Fern: Docs, SDKs, and CLIs for your API'
+archive_category: model-providers
+source_category: ai/rag
+source_url: https://buildwithfern.com/
+resource_id: blog:fern-docs-sdks-and-clis-for-your-api
+local_vault_path: ai/rag/fern-docs-sdks-and-clis-for-your-api.md
+quality_score: 70
+archive_score: 74
+archive_tier: useful
+resource_kind: mcp-server
+importance: medium
+tags:
+- agents
+- anthropic
+- openai
+- rag
+- reddit
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Fern: Docs, SDKs, and CLIs for your API
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC via OpenAPI specs.
+
+- **AI-native documentation features**: Includes AI chat, MCP server integration, auto-generated `llms.txt`, and AI-assisted authoring (e.g., Fern Writer) for real-time agent interactions and reduced hallucinations.
+
+- **Enterprise-grade scalability**: Supports multi-source docs aggregation, SAML/OIDC role-based access control, SOC 2
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://buildwithfern.com/
+
+## Local Vault File
+
+Path: [fern-docs-sdks-and-clis-for-your-api.md](../../ai/rag/fern-docs-sdks-and-clis-for-your-api.md)

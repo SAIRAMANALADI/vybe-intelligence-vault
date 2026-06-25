@@ -2,7 +2,7 @@
 title: Medium Privacy Policy | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://medium.com/policy/f03bf92035c9
+source_url: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
 local_vault_path: ai/rag/medium-privacy-policy-by-medium-medium-policy.md
 quality_score: 70
@@ -34,9 +34,8 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, content, biometrics) and automatically gathers activity, transactional, device, and usage data via IP addresses, cookies, and tracking technologies for service personalization, analytics, and security.
-
-- **Third-Party Sharing & Legal Compliance**: Personal data is shared with vendors, affiliates, and under legal obligations (e.g., mergers, law enforcement requests), while aggregated/de-identified data is exempt;
+- **Data Collection & Sources**: Collects user-provided data (e.g., name, email, content) and automatically gathers activity, transactional, device, and usage data (IP, cookies, device IDs) via tracking technologies like web beacons and third-party analytics providers.
+- **Data Sharing & Legal Compliance**: Shares personal data with third-party vendors (e.g., analytics, fraud prevention), affiliates, and under legal obligations (e.g., subpoenas), while allowing user visibility of shared content
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/policy/f03bf92035c9
+Original source URL: https://policy.medium.com/medium-privacy-policy-f03bf92035c9
 
 ## Local Vault File
 

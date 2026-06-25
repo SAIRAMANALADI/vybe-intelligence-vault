@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.atlassian.com
-published_at: '2026-06-22T15:30:21.114353+05:30'
-collected_at: '2026-06-22T15:30:21.114369+05:30'
+published_at: '2026-06-24T23:11:42.503787+05:30'
+collected_at: '2026-06-24T23:11:42.503800+05:30'
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:explore-marketplace-solutions-for-atlassian-apps-a
-first_seen: '2026-06-22T15:30:21.114369+05:30'
-last_seen: '2026-06-22T15:30:21.114369+05:30'
-last_checked: '2026-06-22T15:30:21.114369+05:30'
+first_seen: '2026-06-24T23:11:42.503800+05:30'
+last_seen: '2026-06-24T23:11:42.503800+05:30'
+last_checked: '2026-06-24T23:11:42.503800+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered Workflow Enhancement**: Atlassian Marketplace offers AI-driven apps to optimize workflows, including automation, predictive analytics, and intelligent task prioritization.
+- **Atlassian Rovo** integrates AI-driven agents to enhance app functionality within the Atlassian ecosystem, enabling automated workflows and intelligent task execution.
 
-- **Data & Analytics Integration**: Provides tools for real-time data visualization, business intelligence, and advanced analytics to derive actionable insights from Atlassian ecosystem data.
+- **Admin Tools** category provides specialized applications for user management, security policies, and system configurations, optimizing administrative control and compliance.
 
-- **Secure, In-Platform App Infrastructure**: Features apps that leverage Atlassian’s native infrastructure, ensuring data residency, compliance, and reduced third-party dependency risks.
+- **Runs on Atlassian** collection ensures apps leverage Atlassian’s native infrastructure, guaranteeing secure data storage, seamless integration, and platform-native performance.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:30:21.114353+05:30
+- Published: 2026-06-24T23:11:42.503787+05:30
 
 ## Related Tags
 
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 

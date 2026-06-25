@@ -2,7 +2,7 @@
 title: Read the Docs tutorial — Read the Docs user documentation
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://docs.readthedocs.io/page/tutorial
+source_url: https://docs.readthedocs.io/page/tutorial/index.html
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
 local_vault_path: ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md
 quality_score: 70
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Integration**: Read the Docs imports Sphinx-based documentation projects from GitHub repositories via `.readthedocs.yaml` configuration, requiring public visibility for seamless webhook-based builds and synchronization.
+- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml`, `README.rst`, `pyproject.toml`, source code (`lumache.py`), and Sphinx docs in `docs/source/` (including `conf.py` and `index.rst`).
 
-- **Automated Build Pipeline**: Projects trigger automated builds on branch commits, with real-time logging accessible via the dashboard; successful builds generate live HTML documentation at a unique subdomain (e.g., `{username}-rtd-tutorial.readthedocs.io`).
+- **Account Integration**: Sign-up via GitHub OAuth grants elevated permissions for webhooks and automated workflows; email verification finalizes account creation.
 
-- **Co
+- **Automated Builds**: Initial build triggered post-project creation; logs accessible via "Your documentation is buildi
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.readthedocs.io/page/tutorial
+Original source URL: https://docs.readthedocs.io/page/tutorial/index.html
 
 ## Local Vault File
 

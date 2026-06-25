@@ -2,7 +2,7 @@
 title: Medium Terms of Service | by Medium | Medium Policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
 local_vault_path: ai/rag/medium-terms-of-service-by-medium-medium-policy.md
 quality_score: 70
@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a worldwide, royalty-free, sublicensable license to reproduce, modify, distribute, and display user content across all media formats within Medium’s Services, including derivative works (e.g., previews, curated lists) with attribution.
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, sublicensable, royalty-free license** to reproduce, modify, distribute, and display user content across all Medium services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
 
-- **Dispute Resolution**: Mandatory binding arbitration (via JAMS) replaces court proceedings for all disputes, excluding small claims or intellectual property injunctions; class actions and rep
+- **Dispute Resolution & Liability**: Mandatory **binding arbitration** (JAMS rules) waives class actions/jury trials; liability is capped at **$50 USD or fees paid**, excluding
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
+Original source URL: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
 
 ## Local Vault File
 
