@@ -2,202 +2,51 @@
   <img src="assets/vault-hero.png" alt="Vybe Intelligence Vault" width="100%">
 </p>
 
-<div align="center">
+Automated knowledge harvesting for AI engineers.
+Self-updating. LLM-scored. Agent-ready.
 
-# Vybe Intelligence Vault
+[![License](https://img.shields.io/badge/License-MIT-111111?style=flat-square)](LICENSE)
+[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-1f2937?style=flat-square)](.github/workflows/rebuild-index.yml)
+[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-374151?style=flat-square)](.github/workflows/harvester.yml)
+[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-4b5563?style=flat-square)](mcp-server/)
 
-An automated, self-reinforcing knowledge repository for AI Engineering, Agentic Workflows, Model Context Protocol (MCP) integrations, RAG architectures, and modern web application development.
+## What It Does
 
-[![License](https://img.shields.io/badge/License-MIT-111111?style=flat-square)]()
-[![Pipeline Status](https://img.shields.io/badge/Pipeline-Active-1f2937?style=flat-square)]()
-[![Update Cycle](https://img.shields.io/badge/Updates-3--Hour%20Interval-374151?style=flat-square)]()
-[![Model Protocol](https://img.shields.io/badge/MCP-Integrated-4b5563?style=flat-square)]()
+- Scrapes and scores AI/ML resources on a 3-hour GitHub Actions cron
+- Builds a vector-indexed knowledge graph with semantic edges (cosine sim > 0.75)
+- Exposes an MCP-compatible context injection gateway on port 3456
+- Tracks trending signals, scores resources via local Ollama + cloud LLM fallback
 
-</div>
-
-
-
-## ── Dossier Overview
-
-The velocity of the AI landscape is unprecedented. Curation of tools, retrieval paradigms, agent protocols, and template architectures requires active synthesis. Vybe Intelligence Vault processes emerging public signals, scoring and indexing repositories using local and cloud LLM evaluations.
-
----
-
-<!-- VAULT_STATS:START -->
-
-<div align="center">
-  <h2>📊 Intelligence Analytics Dashboard</h2>
-  <p><em>Real-time metrics generated from active vault contents.</em></p>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 5,928</p>
-        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 143</p>
-      </td>
-      <td align="center">
-        <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 24,573</p>
-        <p><b>Builder Maps:</b> 8</p>
-      </td>
-      <td align="center">
-        <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-23 00:27 IST</p>
-        <p><b>Health:</b> 🟢 Optimal</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-### 📈 Trending Signals
-> Top rising resources based on momentum and community velocity.
-
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Medium Status](ai/rag/medium-status.md)** • Rank: <kbd>+1</kbd>
-
-### 🌟 New Discoveries
-> Fresh intelligence recently indexed into the vault.
-
-- 🆕 **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** • Score: `0`
-- 🆕 **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** • Score: `0`
-- 🆕 **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** • Score: `0`
-- 🆕 **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** • Score: `0`
-- 🆕 **[Building Deep Research: How we Achieved State of the Art](ai/models/huggingface-blog-tavily.md)** • Score: `0`
-
-### 💤 Recently Inactive
-> Resources showing declined activity or relevance.
-
-- None.
-
-The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
-
-<!-- Automated Stats Injection Block -->
-
-<!-- VAULT_STATS:END -->
-
----
-
-## ── Core Architecture (Vault 2.0)
-
-Vybe Vault 2.0 establishes a closed-loop system syncing automated harvesting, local vector inference, and visual analytics:
+## Architecture
 
 ```mermaid
 graph TD
-    A[Cron / Dispatch Trigger] -->|1. Discover| B(evaluate_repo.py)
-    B -->|2. Evaluate via Cloud/Local LLM| C{Decision Engine}
-    C -->|Commit Nodes & Logs| D[vault-core/]
-    D -->|3. Trigger push| E(rebuild-index.yml)
-    E -->|4. Generate vector coordinates| F[vault-index.json]
-    F -->|5. SWR Polling| G[React 3D Intelligence Map]
-    H[AI Agent] -->|6. MCP Request| I[Orchestrator HTTP Bridge: 3456]
-    I -->|Read & Inject| D
+    A[Cron] -->|Discover| B[evaluate_repo.py]
+    B -->|Score & Commit| C[vault-core/]
+    C -->|Index| D[vault-index.json]
+    D -->|Poll| E[React UI]
+    F[MCP Agent] -->|Read| C
 ```
 
-### 1. State Management & Event Sourcing
-State write-locks (`state.lock`) prevent collision writes. Updates append to `vault-events.log` (JSONL format) while reads leverage a 30s TTL in memory.
+- **State Management**: Handled by `scripts/state-manager.js`
+- **Embeddings**: Semantic edges calculated in `scripts/build-index.js`
+- **Gateway**: Local agent context injection routed through `scripts/orchestrator/context-injector.js`
 
-*Commented node index updates:*
-```javascript
-// scripts/state-manager.js
-async function updateNode(id, mutations) {
-  // Acquire lock using 'wx' flag on state.lock file to prevent collisions
-  await acquireLock();
-  try {
-    const index = readIndex();
-    let node = index.nodes.find(n => n.id === id);
-    const nowStr = new Date().toISOString();
-    
-    if (node) {
-      // Merge node properties and update modified timestamp
-      Object.assign(node, mutations);
-      node.last_modified = nowStr;
-    } else {
-      // Initialize node using the version 2.0 schema structure
-      node = {
-        id,
-        path: mutations.path || id,
-        title: mutations.title || path.basename(id, '.md'),
-        category: mutations.category || 'skills',
-        tags: mutations.tags || [],
-        tech_stack: mutations.tech_stack || [],
-        quality_score: mutations.quality_score || 0,
-        rag_relevance: mutations.rag_relevance || 0,
-        embedding_vector_id: mutations.embedding_vector_id || '',
-        last_modified: nowStr,
-        access_count: 0,
-        last_accessed: ''
-      };
-      index.nodes.push(node);
-    }
-    
-    // Write out updated index to source of truth and root copy
-    writeIndex(index);
-    return node;
-  } finally {
-    // Gracefully release lock file
-    releaseLock();
-  }
-}
-```
+## Analytics
 
-### 2. Embeddings & Relation Edges
-Runs cosine similarity (`sim > 0.75`) using local Ollama (`nomic-embed-text`) to establish semantic edges, combining tag overlap and parsed relative markdown links.
+<!-- VAULT_STATS:START -->
+| Metric | Value |
+|--------|-------|
+| Resources Tracked | 6,628 |
+| Last Update | 2026-06-25 |
+| Health | 🟢 Optimal |
+<!-- VAULT_STATS:END -->
 
-*Commented similarity edge evaluations:*
-```javascript
-// scripts/build-index.js
-// Calculate similarity and tags to dynamically draw edges
-const sim = cosineSimilarity(vector1, vector2);
-const sharedTags = tags2.filter(t => tags1.has(t));
+Trending signals update on each pipeline run.
 
-if (sim > 0.75 || sharedTags.length >= 1) {
-  // Select type based on tech stack or category overlaps
-  let type = 'similar_to';
-  if (sharedTech.length >= 1) type = 'depends_on';
-  else if (n1.category === n2.category) type = 'references';
-  
-  edges.push({
-    source: n1.path,
-    target: n2.path,
-    type,
-    weight: parseFloat((sim + sharedTags.length * 0.08).toFixed(2))
-  });
-}
-```
+## Execution Control
 
-### 3. Agentic Command gateway
-Runs concurrently on port `3456` enabling local agents to inject clean prompt contexts dynamically:
-
-*Commented injection formatter:*
-```javascript
-// scripts/orchestrator/context-injector.js
-function injectFile(filePath) {
-  const fullPath = path.resolve(ROOT_DIR, filePath);
-  
-  // Enforce directory boundaries
-  if (!fullPath.startsWith(ROOT_DIR)) {
-    throw new Error('Access denied: Out of bounds path');
-  }
-  
-  const content = fs.readFileSync(fullPath, 'utf-8');
-  
-  // Formats file cleanly for the LLM context window
-  let header = `=== VAULT ENTRY: ${filePath} ===\n`;
-  header += `================================================\n\n`;
-  
-  return `${header}${content}\n\n=== END VAULT ENTRY ===`;
-}
-```
-
----
-
-## ⚡ Execution Control
-
-Launch local orchestration using the concurrent init script:
-
+Initialize the local orchestrator and required LLM models.
 ```bash
 # 1. Start Ollama and download models
 ollama pull nomic-embed-text
@@ -207,14 +56,12 @@ ollama pull qwen2.5:14b
 bash scripts/vault-init.sh
 ```
 
-Audit system ports, events, and health metrics:
+Check system health, port status, and pipeline events.
 ```bash
 bash scripts/vault-status.sh
 ```
 
----
-
-## 📁 Repository Layout
+## Repository Layout
 
 ```txt
 .
@@ -233,9 +80,6 @@ bash scripts/vault-status.sh
 └── search-index.md
 ```
 
----
+## Contributing
 
-## 🤝 Contributing & License
-
-- Submit issues or pull requests conforming to guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-- Code is released under the **MIT License**. Details available in [LICENSE](LICENSE).
+PRs welcome — see CONTRIBUTING.md. MIT licensed.
