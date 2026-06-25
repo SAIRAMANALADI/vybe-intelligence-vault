@@ -6,7 +6,7 @@ source_type: rss
 source_name: Import AI Newsletter
 source_url: https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar
 published_at: '2026-04-06T12:31:31+05:30'
-collected_at: '2026-06-16T17:27:26.738139+05:30'
+collected_at: '2026-06-25T12:31:11.537889+05:30'
 tags:
 - anthropic
 - benchmark
@@ -18,14 +18,13 @@ tags:
 - paper
 - rag
 - scripts
-status: inactive
+status: active
 resource_id: blog:import-ai-452-scaling-laws-for-cyberwar-rising-tid
 first_seen: '2026-06-16T17:27:26.738139+05:30'
-last_seen: '2026-06-16T17:27:26.738139+05:30'
-last_checked: '2026-06-16T17:27:26.738139+05:30'
+last_seen: '2026-06-25T12:31:11.537889+05:30'
+last_checked: '2026-06-25T12:31:11.537889+05:30'
 health_score: 100
 ---
-
 
 # Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting
 

@@ -5,13 +5,13 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/arm/ai-sound-gen-on-arm
 published_at: '2025-06-03T15:04:36+05:30'
-collected_at: '2026-06-16T17:27:22.375330+05:30'
+collected_at: '2026-06-25T12:31:11.377429+05:30'
 tags: []
 status: active
-resource_id: huggingface:blog/ai-sound-gen-on-arm
+resource_id: huggingface:blog/arm/ai-sound-gen-on-arm
 first_seen: '2026-06-15T06:35:32.415314+00:00'
-last_seen: '2026-06-16T17:27:22.375330+05:30'
-last_checked: '2026-06-16T17:27:22.375330+05:30'
+last_seen: '2026-06-25T12:31:11.377429+05:30'
+last_checked: '2026-06-25T12:31:11.377429+05:30'
 health_score: 100
 ---
 

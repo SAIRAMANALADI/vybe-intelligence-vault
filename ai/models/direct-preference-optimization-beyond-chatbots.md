@@ -5,13 +5,13 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots
 published_at: '2026-06-03T12:55:11+05:30'
-collected_at: '2026-06-16T17:27:22.372250+05:30'
+collected_at: '2026-06-25T12:31:11.375030+05:30'
 tags: []
 status: active
-resource_id: huggingface:blog/direct-preference-optimization-beyond-chatbots
+resource_id: huggingface:blog/dharma-ai/direct-preference-optimization-beyond-chatbots
 first_seen: '2026-06-15T06:35:32.410822+00:00'
-last_seen: '2026-06-16T17:27:22.372250+05:30'
-last_checked: '2026-06-16T17:27:22.372250+05:30'
+last_seen: '2026-06-25T12:31:11.375030+05:30'
+last_checked: '2026-06-25T12:31:11.375030+05:30'
 health_score: 100
 ---
 

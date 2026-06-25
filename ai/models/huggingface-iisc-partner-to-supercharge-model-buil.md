@@ -6,13 +6,13 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/iisc-huggingface-collab
 published_at: '2025-02-27T00:00:00+05:30'
-collected_at: '2026-06-16T17:27:22.375926+05:30'
+collected_at: '2026-06-25T12:31:11.378231+05:30'
 tags: []
 status: active
 resource_id: huggingface:blog/iisc-huggingface-collab
 first_seen: '2026-06-12T10:40:08.812253+00:00'
-last_seen: '2026-06-16T17:27:22.375926+05:30'
-last_checked: '2026-06-16T17:27:22.375926+05:30'
+last_seen: '2026-06-25T12:31:11.378231+05:30'
+last_checked: '2026-06-25T12:31:11.378231+05:30'
 health_score: 100
 ---
 

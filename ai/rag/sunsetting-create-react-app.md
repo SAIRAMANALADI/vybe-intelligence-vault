@@ -5,15 +5,15 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2025/02/14/sunsetting-create-react-app
 published_at: '2025-02-14T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.731871+05:30'
+collected_at: '2026-06-25T12:31:10.369901+05:30'
 tags:
 - frontend_ui
 - rag
 status: active
 resource_id: blog:sunsetting-create-react-app
 first_seen: '2026-06-18T23:35:18.731871+05:30'
-last_seen: '2026-06-18T23:35:18.731871+05:30'
-last_checked: '2026-06-18T23:35:18.731871+05:30'
+last_seen: '2026-06-25T12:31:10.369901+05:30'
+last_checked: '2026-06-25T12:31:10.369901+05:30'
 health_score: 100
 ---
 

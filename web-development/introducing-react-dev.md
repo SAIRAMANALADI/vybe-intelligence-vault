@@ -5,15 +5,15 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2023/03/16/introducing-react-dev
 published_at: '2023-03-16T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.732102+05:30'
+collected_at: '2026-06-25T12:31:10.370073+05:30'
 tags:
 - frontend_ui
 - producthunt
 status: active
 resource_id: blog:introducing-react-dev
 first_seen: '2026-06-18T23:35:18.732102+05:30'
-last_seen: '2026-06-18T23:35:18.732102+05:30'
-last_checked: '2026-06-18T23:35:18.732102+05:30'
+last_seen: '2026-06-25T12:31:10.370073+05:30'
+last_checked: '2026-06-25T12:31:10.370073+05:30'
 health_score: 100
 ---
 

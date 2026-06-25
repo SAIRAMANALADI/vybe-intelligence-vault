@@ -5,14 +5,14 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
 published_at: '2025-12-11T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.731642+05:30'
+collected_at: '2026-06-25T12:31:10.369721+05:30'
 tags:
 - frontend_ui
 status: active
 resource_id: blog:denial-of-service-and-source-code-exposure-in-reac
 first_seen: '2026-06-18T23:35:18.731642+05:30'
-last_seen: '2026-06-18T23:35:18.731642+05:30'
-last_checked: '2026-06-18T23:35:18.731642+05:30'
+last_seen: '2026-06-25T12:31:10.369721+05:30'
+last_checked: '2026-06-25T12:31:10.369721+05:30'
 health_score: 100
 ---
 

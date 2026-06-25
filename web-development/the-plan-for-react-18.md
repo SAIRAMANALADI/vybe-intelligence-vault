@@ -5,14 +5,14 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2021/06/08/the-plan-for-react-18
 published_at: '2021-06-08T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.732237+05:30'
+collected_at: '2026-06-25T12:31:10.370176+05:30'
 tags:
 - frontend_ui
 status: active
 resource_id: blog:the-plan-for-react-18
 first_seen: '2026-06-18T23:35:18.732237+05:30'
-last_seen: '2026-06-18T23:35:18.732237+05:30'
-last_checked: '2026-06-18T23:35:18.732237+05:30'
+last_seen: '2026-06-25T12:31:10.370176+05:30'
+last_checked: '2026-06-25T12:31:10.370176+05:30'
 health_score: 100
 ---
 

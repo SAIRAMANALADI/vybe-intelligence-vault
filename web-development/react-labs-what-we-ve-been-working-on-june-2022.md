@@ -5,14 +5,14 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022
 published_at: '2022-06-15T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.732140+05:30'
+collected_at: '2026-06-25T12:31:10.370094+05:30'
 tags:
 - frontend_ui
 status: active
 resource_id: blog:react-labs-what-we-ve-been-working-on-june-2022
 first_seen: '2026-06-18T23:35:18.732140+05:30'
-last_seen: '2026-06-18T23:35:18.732140+05:30'
-last_checked: '2026-06-18T23:35:18.732140+05:30'
+last_seen: '2026-06-25T12:31:10.370094+05:30'
+last_checked: '2026-06-25T12:31:10.370094+05:30'
 health_score: 100
 ---
 

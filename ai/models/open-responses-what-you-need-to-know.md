@@ -5,13 +5,13 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/open-responses
 published_at: '2026-01-15T00:00:00+05:30'
-collected_at: '2026-06-16T17:27:22.373551+05:30'
+collected_at: '2026-06-25T12:31:11.375853+05:30'
 tags: []
 status: active
 resource_id: huggingface:blog/open-responses
 first_seen: '2026-06-12T10:40:08.808345+00:00'
-last_seen: '2026-06-16T17:27:22.373551+05:30'
-last_checked: '2026-06-16T17:27:22.373551+05:30'
+last_seen: '2026-06-25T12:31:11.375853+05:30'
+last_checked: '2026-06-25T12:31:11.375853+05:30'
 health_score: 100
 ---
 

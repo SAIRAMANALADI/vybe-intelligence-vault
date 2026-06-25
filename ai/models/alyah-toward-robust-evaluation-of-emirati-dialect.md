@@ -6,14 +6,14 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/tiiuae/emirati-benchmarks
 published_at: '2026-01-27T10:26:42+05:30'
-collected_at: '2026-06-16T17:27:22.373448+05:30'
+collected_at: '2026-06-25T12:31:11.375784+05:30'
 tags:
 - benchmark
 status: active
-resource_id: huggingface:blog/emirati-benchmarks
+resource_id: huggingface:blog/tiiuae/emirati-benchmarks
 first_seen: '2026-06-15T06:35:32.412367+00:00'
-last_seen: '2026-06-16T17:27:22.373448+05:30'
-last_checked: '2026-06-16T17:27:22.373448+05:30'
+last_seen: '2026-06-25T12:31:11.375784+05:30'
+last_checked: '2026-06-25T12:31:11.375784+05:30'
 health_score: 100
 ---
 

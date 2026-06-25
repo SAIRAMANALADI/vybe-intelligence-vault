@@ -5,7 +5,7 @@ source_type: rss
 source_name: Import AI Newsletter
 source_url: https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon
 published_at: '2026-05-18T13:31:17+05:30'
-collected_at: '2026-06-16T17:27:26.738026+05:30'
+collected_at: '2026-06-25T12:31:11.537747+05:30'
 tags:
 - agents
 - anthropic
@@ -15,14 +15,13 @@ tags:
 - openai
 - paper
 - rag
-status: inactive
+status: active
 resource_id: blog:import-ai-457-ai-stuxnet-cursed-muon-optimizer-and
 first_seen: '2026-06-16T17:27:26.738026+05:30'
-last_seen: '2026-06-16T17:27:26.738026+05:30'
-last_checked: '2026-06-16T17:27:26.738026+05:30'
+last_seen: '2026-06-25T12:31:11.537747+05:30'
+last_checked: '2026-06-25T12:31:11.537747+05:30'
 health_score: 100
 ---
-
 
 # Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment
 

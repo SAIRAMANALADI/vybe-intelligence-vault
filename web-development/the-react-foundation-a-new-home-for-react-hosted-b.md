@@ -5,15 +5,15 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2026/02/24/the-react-foundation
 published_at: '2026-02-24T00:00:00+05:30'
-collected_at: '2026-06-18T23:35:18.731596+05:30'
+collected_at: '2026-06-25T12:31:10.369641+05:30'
 tags:
 - frontend_ui
 - producthunt
 status: active
 resource_id: blog:the-react-foundation-a-new-home-for-react-hosted-b
 first_seen: '2026-06-18T23:35:18.731596+05:30'
-last_seen: '2026-06-18T23:35:18.731596+05:30'
-last_checked: '2026-06-18T23:35:18.731596+05:30'
+last_seen: '2026-06-25T12:31:10.369641+05:30'
+last_checked: '2026-06-25T12:31:10.369641+05:30'
 health_score: 100
 ---
 
