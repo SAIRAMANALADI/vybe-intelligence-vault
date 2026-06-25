@@ -2,17 +2,18 @@
 title: The Linux Kernel documentation — The Linux Kernel documentation
 archive_category: observability
 source_category: ai/resources
-source_url: https://docs.kernel.org
+source_url: https://docs.kernel.org/
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
 local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -23,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Development & Contribution**: The Linux Kernel documentation provides structured guides for kernel development, including the [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html), and community interaction via the [Code of Conduct](https://docs.kernel.org/process/code-of-conduct.html) and [Maintainer Handbook](https://docs.kernel.org/maintainer/index.html).
+- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides on the development process, patch submission, maintainer handbooks, and community interaction via the `linux-doc` mailing list (`vger.kernel.org`).
 
-- **Core & Subsystem APIs**:
+- **API & Subsystem Documentation**: Includes core API references, driver APIs, subsystem-specific documentation, and locking mechanisms for kernel developers interfacing with internal kernel components.
+
+- **Architecture & Tooling Support**: Covers CPU arch
 
 ## Use Cases
 
@@ -43,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.kernel.org
+Original source URL: https://docs.kernel.org/
 
 ## Local Vault File
 

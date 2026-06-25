@@ -8,7 +8,6 @@ Micro-SaaS templates, business validations, boilerplate code, and builder launch
 | [Ulusal Destek Programları | TÜBİTAK | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu](https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari) | `startup-builder/` | 70 |
 | [Home - Center For Technology Licensing](https://ctl.cornell.edu) | `startup-builder/` | 70 |
 | [Dr. Axel Rauschmayer](https://dr-axel.de) | `startup-builder/` | 70 |
-| [Chat LangChain](https://chat.langchain.com/) | `startup-builder/` | 70 |
 | [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code) | `startup-builder/` | 70 |
 | [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code) | `startup-builder/` | 70 |
 | [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3d-landing-page-for-apple-iphone) | `startup-builder/` | 70 |

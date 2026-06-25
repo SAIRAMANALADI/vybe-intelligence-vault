@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-25T16:36:44.915360+05:30'
+collected_at: '2026-06-25T20:44:43.034845+05:30'
 published_at: '2026-06-24T17:13:25Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-25T16:36:44.915360+05:30'
-last_seen: '2026-06-25T16:36:44.915360+05:30'
-last_checked: '2026-06-25T16:36:44.915360+05:30'
+first_seen: '2026-06-25T20:44:43.034845+05:30'
+last_seen: '2026-06-25T20:44:43.034845+05:30'
+last_checked: '2026-06-25T20:44:43.034845+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the reliability of Retrieval-Augmented Generation (RAG) models by identifying and mitigating hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval, generation, and integration stages.
+- **Technical Composition**: Contains structured datasets with annotated hallucination cases, enabling fine-grained analysis of RAG model failures across retrieval and generation stages.
 
-- **Implementation**: Repository includes Python-based tools for dataset construction, evaluation metrics, and baseline model implementations to benchmark hallucination detection and mitigation strategies.
+- **Implementation**: Provides Python-based tools for corpus generation, evaluation metrics, and benchmarking, facilitating reproducible research in trustworthy RAG systems.
 
 ## Why It Matters
 

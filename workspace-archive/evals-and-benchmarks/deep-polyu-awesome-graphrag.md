@@ -8,10 +8,11 @@ local_vault_path: ai/rag/deep-polyu-awesome-graphrag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - paper
@@ -28,18 +29,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and retrieval-augmented generation (RAG) methodologies.
-
-- **Technical Scope**: Encompasses advanced topics such as **graph neural networks (GNNs)**, **knowledge graph embeddings**, and **LLM integration** for enhanced retrieval and generation in structured data contexts.
-
-- **Co
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
+- **Technical Scope**: Encompasses **graphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent fields (e.g., knowledge graph construction, LLM reasoning).
+- **Active Maintenance**: Last updated **June 2026**, reflecting ongoing upd
 
 ## Use Cases
 

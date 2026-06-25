@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-06-25T16:40:05.123067+05:30'
-published_at: '2026-06-24T06:23:00Z'
+collected_at: '2026-06-25T20:47:58.188106+05:30'
+published_at: '2026-06-25T11:56:58Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
-- workflows
-stars: 4408
+stars: 4407
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-06-25T16:40:05.123067+05:30'
-last_seen: '2026-06-25T16:40:05.123067+05:30'
-last_checked: '2026-06-25T16:40:05.123067+05:30'
+first_seen: '2026-06-25T20:47:58.188106+05:30'
+last_seen: '2026-06-25T20:47:58.188106+05:30'
+last_checked: '2026-06-25T20:47:58.188106+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
+- **Modular RAG Framework**: Cognita is an open-source Python framework designed for building production-ready Retrieval Augmented Generation (RAG) applications with modular components, enabling customization and scalability.
 
-- **Multi-Language Support**: Integrates Python and TypeScript, enabling cross-language compatibility for frontend/backend components in AI applications.
+- **Multi-Language Support**: Supports both Python and TypeScript, facilitating integration across different tech stacks while maintaining core RAG functionality.
 
-- **MLOps & Deployment Features**: Supports fine-tuning, model deployment, and LLM Ops with built-in tools for data retrieval, agent orchestration, and generative AI workflows.
+- **MLOps & Deployment Features**: Includes tools for fine-tuning, model deployment, and LLM operations (LLMOps), streamlining the lifecycle of generative AI applications in production environments.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: truefoundry
-- Stars: 4408
+- Stars: 4407
 - Forks: 390
 - Language: Python
 - Topics: agent, ai, application, data, deep-learning, fine-tuning, framework, generative-ai, llm, llm-ops, llmops, machine-learning, mlops, model-deployment, python, rag, retrieval-augmented-generation, typescript
-- Last Updated: 2026-06-24T06:23:00Z
+- Last Updated: 2026-06-25T11:56:58Z
 - License: Apache-2.0
 - Archived: Yes
 - Created At: 2023-07-26T13:08:54Z

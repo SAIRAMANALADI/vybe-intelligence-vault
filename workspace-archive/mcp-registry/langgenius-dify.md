@@ -6,7 +6,7 @@ source_url: https://github.com/langgenius/dify
 resource_id: github:langgenius/dify
 local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
-archive_score: 89
+archive_score: 87
 archive_tier: essential
 resource_kind: framework
 importance: high
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Enables development of agentic workflows with support for LLM integration (OpenAI, GPT-4, Gemini), RAG pipelines, and MCP (Model Context Protocol) for tool orchestration in TypeScript/Python.
+- **Multi-agent orchestration framework**: Supports agentic workflows with LLM integration (OpenAI, GPT-4, Gemini), MCP, and RAG capabilities for autonomous task execution and automation.
 
-- **Low-code/no-code platform**: Provides a Next.js-based UI for visual workflow design, automation, and deployment of AI agents without deep coding expertise.
+- **Low-code/No-code development**: Built with Next.js (TypeScript) and Python, enabling drag-and-drop workflow construction with pre-built components for rapid AI agent deployment.
 
-- **Production-ready stack**: Combines agentic AI capabilities (autonomous agents, orchestration) with
+- **Production-ready scalability**: Designed for enterprise-grade orchestration with Git-based versioning, API-first architectur
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Welcome to Python.org
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Python supports arithmetic operations with intuitive syntax (`+`, `-`, `*`, `/`, `//`, `**`), including true division (`/`) and floor division (`//`), with parentheses for grouping expressions.
-- Python’s compound data types (e.g., lists) enable indexed access, slicing, and manipulation via built-in functions, while list comprehensions provide concise transformations (e.g., `[fruit.upper() for fruit in fruits]`).
-- Python’s control flow includes standard constructs (`if`, `for`, `while`, `rang
+- Python 3 supports **list comprehensions** (`[fruit.upper() for fruit in fruits]`) and **enumeration** (`enumerate(fruits)`) for compound data type manipulation.
+- **Control flow** in Python includes standard constructs (`if`, `for`, `while`, `range`) with additional features like **mandatory/optional arguments** and **keyword arguments** in functions.
+- Python’s **standard library** spans **AI/ML** (PyTorch, TensorFlow), **scientific computing** (SciPy, Pandas), **web frameworks** (Django, Fas
 
 ## Use Cases
 

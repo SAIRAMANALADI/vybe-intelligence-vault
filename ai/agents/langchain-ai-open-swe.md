@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-06-25T16:39:10.003651+05:30'
-published_at: '2026-06-25T08:37:30Z'
+collected_at: '2026-06-25T20:47:08.161759+05:30'
+published_at: '2026-06-25T14:52:24Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
+- workflows
 stars: 10043
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-06-25T09:16:24Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-06-25T16:39:10.003651+05:30'
-last_seen: '2026-06-25T16:39:10.003651+05:30'
-last_checked: '2026-06-25T16:39:10.003651+05:30'
+first_seen: '2026-06-25T20:47:08.161759+05:30'
+last_seen: '2026-06-25T20:47:08.161759+05:30'
+last_checked: '2026-06-25T20:47:08.161759+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, multi-agent system for autonomous code generation and modification using LLMs (OpenAI, Anthropic, etc.), with support for parallel task execution and dependency management.
-
-- **ClaudeCode Integration**: Supports Anthropic's `ClaudeCode` for high-fidelity code synthesis and editing, with fallback to OpenAI models for broader compatibility.
-
-- **Modular Architecture**: Designed for extensibility with configurable agent roles, tooling (e.g., file I/O, shell commands), and async-first runtime for scalable, low-latency operations.
+- **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
+- **Multi-LLM Integration**: Supports concurrent interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized API abstractions for tool orchestration.
+- **Stateful Workflow Engine**: Manages persistent task states across asynchronous operations, enabling resumable, fault-tolerant agent pipelines with structured output validation.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1143
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-06-25T08:37:30Z
+- Last Updated: 2026-06-25T14:52:24Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -30,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google collects data across services (e.g., Search, YouTube, Android) including account-linked personal info (name, email, payment data) and device/browser metadata (IP, unique IDs, crash reports) to personalize services and ads.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (name, email, payment data) and non-account data (unique identifiers, IP addresses, device/browser metadata) to personalize content, ads, and improve services.
 
-- **Activity & Location Tracking**: User activity (searches, videos watched, purchases) and location data (GPS, IP, Wi-Fi signals) are logged and associated with accounts unless opted out, enabling features like ad targeting and location-ba
+- **Activity & Location Tracking**: Collects granular user activity (searches, watch history, interactions) and location data (GPS, IP, Wi-Fi/Bluetooth signals) via services like Maps and Timeline, wi
 
 ## Use Cases
 

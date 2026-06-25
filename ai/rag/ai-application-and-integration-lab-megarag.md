@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AI-Application-and-Integration-Lab/MegaRAG
-collected_at: '2026-06-25T16:38:34.958500+05:30'
+collected_at: '2026-06-25T20:46:33.132528+05:30'
 published_at: '2026-06-24T06:31:29Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-08-14T13:38:20Z'
 pushed_at: '2026-04-17T09:26:14Z'
 resource_id: github:ai-application-and-integration-lab/megarag
-first_seen: '2026-06-25T16:38:34.958500+05:30'
-last_seen: '2026-06-25T16:38:34.958500+05:30'
-last_checked: '2026-06-25T16:38:34.958500+05:30'
+first_seen: '2026-06-25T20:46:33.132528+05:30'
+last_seen: '2026-06-25T20:46:33.132528+05:30'
+last_checked: '2026-06-25T20:46:33.132528+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured in a unified graph-based representation for enhanced contextual retrieval and generation.
+- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a unified graph for enhanced contextual retrieval and generation.
 
-- **Graph-Centric Retrieval Mechanism**: Implements a hierarchical graph retrieval strategy where nodes represent multimodal entities/chunks, edges encode relationships, and a dynamic subgraph extraction module optimizes retrieval precision by focusing on relevant subgraphs rather than flat document chunks.
+- **Graph-Centric Retrieval Mechanism**: Implements a hierarchical graph traversal algorithm to dynamically extract relevant subgraphs, optimizing retrieval precision and reducing noise in large-scale multimodal datasets.
 
-- **ACL 2026 Contribution**: Proposes a scalable, end-to-end pipeline integrating graph neural networks (GNNs) for retrieval and a transformer-based generator, demonstrating state-of-the-art performance on multimodal benchmarks while addressing challenges like cross-modal alignment and graph noise mitigation.
+- **ACL 2026 Contribution**: Proposes a scalable architecture with modular components for graph construction, retrieval, and generation, validated on multimodal benchmarks with state-of-the-art performance in contextual accuracy and efficiency.
 
 ## Why It Matters
 

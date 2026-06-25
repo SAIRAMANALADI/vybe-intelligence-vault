@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) with LangChain for modular pipeline implementation.
+- **RAG Pipeline Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic/recursive splitting), embedding optimization (e.g., fine-tuning `all-MiniLM-L6-v2` for domain-specific accuracy), and vector storage/retrieval using Supabase with pgvector for production-grade performance.
 
-- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding fine-tuning (e.g., `text-embedding-3-small`), and hybrid retrieval (dense + BM25) via Supabase for low-latency production systems.
-
-- **Scaling & Monitoring**: Implements caching (Redis), load balancing (multiple LLM endpoints), Cloudflare Workers for edge
+- **Advanced Retrieval & Optimization**: Hybrid search (dense + sparse retrieval via BM25) improves recall; query expansion/rewriting (e.g., HyDE) mitigates ambiguity; caching (Red
 
 ## Use Cases
 

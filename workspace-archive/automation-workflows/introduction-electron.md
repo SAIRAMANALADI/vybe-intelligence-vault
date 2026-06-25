@@ -8,7 +8,7 @@ local_vault_path: ai/resources/introduction-electron.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: high
 tags:
 - producthunt
@@ -25,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based development of native desktop applications for Windows, macOS, and Linux without requiring native development expertise.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based cross-platform desktop applications without native development requirements.
 
-- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle via `BrowserWindow`, a preload script (`preload.js`) bridging Node.js APIs to the renderer, and an HTML/JS/CSS frontend (`index.html`) for UI rendering
+- **Electron Fiddle**: A sandbox tool for prototyping and testing Electron APIs, integrating with documentation via "Open in Electron Fiddle" buttons to streamline development workflows.
+
+- **Official documentation structure**: Organized into tutorials, process references, best practices, exa
 
 ## Use Cases
 

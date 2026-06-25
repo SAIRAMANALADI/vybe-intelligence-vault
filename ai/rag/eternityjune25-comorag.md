@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-25T16:38:29.977283+05:30'
+collected_at: '2026-06-25T20:46:28.078853+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-25T16:38:29.977283+05:30'
-last_seen: '2026-06-25T16:38:29.977283+05:30'
-last_checked: '2026-06-25T16:38:29.977283+05:30'
+first_seen: '2026-06-25T20:46:28.078853+05:30'
+last_seen: '2026-06-25T20:46:28.078853+05:30'
+last_checked: '2026-06-25T20:46:28.078853+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human-like memory organization for stateful long narrative reasoning, leveraging episodic and semantic memory structures.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning for complex, multi-turn interactions.
 
-- **Stateful Reasoning Mechanism**: Implements a dynamic memory update system that tracks narrative state changes, enabling coherent multi-turn reasoning over extended contexts by integrating retrieved and generated knowledge hierarchically.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update strategies to maintain contextual coherence across extended dialogues, leveraging episodic and semantic memory modules for hierarchical knowledge retention.
 
-- **AAAI 2026 Contribution**: Proposes a novel evaluation framework for long-form narrative reasoning, demonstrating superior performance in coherence, factual consistency, and contextual recall compared to traditional RAG baselines.
+- **AAAI 2026 Contribution**: Proposes a novel RAG paradigm optimized for long-form reasoning tasks, with empirical validation demonstrating superior performance in narrative understanding, memory consistency, and contextual relevance compared to traditional RAG systems.
 
 ## Why It Matters
 

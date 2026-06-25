@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, and monetization via ads (Google Ads) and subscriptions (YouTube Premium).
-- **Developer & API Access**: Provides APIs and tools for developers (YouTube Data API, YouTube Analytics API) to integrate platform features into third-party applications.
-- **Policy & Compliance**: Enforces content policies (Community Guidelines, Copyright, Privacy Policy) with t
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, creator monetization, advertising, and live streaming (e.g., NFL Sunday Ticket).
+
+- **Developer & Technical Resources**: Provides APIs and tools for developers (e.g., [YouTube Data API](https://developers.google.com/youtube)), documentation for AI integration (e.g., RAG tutorials), and experimental features via [YouTube Labs](https://www.youtube.com/new).
+
+- **Policy & C
 
 ## Use Cases
 

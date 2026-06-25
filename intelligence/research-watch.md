@@ -12,6 +12,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
 | ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
 | [LemonHarness Technical Report](https://arxiv.org/abs/2606.24311) | `ai-coding-agents/` | 70 |
+| [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988) | `ai-coding-agents/` | 70 |
 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | `ai-coding-agents/` | 70 |
 | [AeroCast: Probabilistic 3D Trajectory Prediction for Non-Cooperative Aerial Obstacles via Transformer-MDN Architecture](https://arxiv.org/abs/2606.25122) | `ai-coding-agents/` | 70 |
 | [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Asynchronous Decentralized Federated Learning over Lossy Wireless Links via Reception- and Age-Aware Aggregation](https://arxiv.org/abs/2606.10774) | `ai-coding-agents/` | 70 |
 | [Chronological Thinking in Full-Duplex Spoken Dialogue Language Models](https://arxiv.org/abs/2510.05150) | `ai-coding-agents/` | 70 |
 | [Forecasting what Matters: Decision-Focused RL for Controlled EV Charging with Unknown Departure Times](https://arxiv.org/abs/2606.19199) | `ai-coding-agents/` | 70 |
-| [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](https://arxiv.org/abs/2606.14956) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://chat.langchain.com/
-published_at: '2026-06-25T16:41:26.143680+05:30'
-collected_at: '2026-06-25T16:41:26.143687+05:30'
+published_at: '2026-06-25T20:49:19.173189+05:30'
+collected_at: '2026-06-25T20:49:19.173203+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:chat-langchain
-first_seen: '2026-06-25T16:41:26.143687+05:30'
-last_seen: '2026-06-25T16:41:26.143687+05:30'
-last_checked: '2026-06-25T16:41:26.143687+05:30'
+first_seen: '2026-06-25T20:49:19.173203+05:30'
+last_seen: '2026-06-25T20:49:19.173203+05:30'
+last_checked: '2026-06-25T20:49:19.173203+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 ## Summary
 
 ```markdown
-- **Dynamic Loading Mechanism**: The system employs a runtime dynamic loading strategy for modules/plugins, utilizing a plugin architecture that supports hot-swapping without full application restarts.
+- **Latency & Throughput Trade-offs**: The article discusses the inherent trade-offs between latency and throughput in distributed systems, emphasizing how optimizing for one often degrades the other due to factors like network congestion, queuing delays, and resource contention.
 
-- **Memory Optimization**: Implements lazy-loading for resource-intensive components, deferring initialization until first access to reduce initial memory footprint and improve startup performance.
+- **Consensus Algorithms**: It compares consensus protocols (e.g., Paxos, Raft, PBFT) in terms of fault tolerance, performance, and scalability, highlighting how leader-based protocols (Raft) reduce complexity but introduce single points of failure compared to leaderless approaches (e.g., Paxos variants).
 
-- **Dependency Resolution**: Features an advanced dependency graph resolver that validates and loads transitive dependencies in topological order, ensuring correct initialization sequences and avoiding circular dependency deadlocks.
+- **Data Consistency Models**: The resource outlines consistency models (strong, eventual, causal) and their impact on system design, noting that strong consistency (e.g., linearizability) guarantees correctness but at the cost of higher latency, while eventual consistency improves performance but risks temporary inconsistencies.
 ```
 
 ## Why It Matters
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:41:26.143680+05:30
+- Published: 2026-06-25T20:49:19.173189+05:30
 
 ## Related Tags
 

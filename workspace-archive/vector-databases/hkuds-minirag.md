@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, pruned attention layers) to enable deployment on resource-constrained hardware without sacrificing accuracy.
+- **Architectural Efficiency**: Optimizes retrieval-augmented generation by integrating lightweight embedding models (e.g., `bge-small-en-v1.5`) and distilled SLMs (e.g., `Qwen2-0.5B-Instruct`) for low-latency, cost-effective deployment.
 
-- **Open-Source Toolkit**: Provi
+- **Benchmark Performance**: Achieves competitive results
 
 ## Use Cases
 

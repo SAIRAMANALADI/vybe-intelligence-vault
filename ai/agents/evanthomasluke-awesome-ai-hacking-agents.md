@@ -4,22 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-06-25T16:39:35.021530+05:30'
-published_at: '2026-06-24T09:10:13Z'
+collected_at: '2026-06-25T20:47:33.134203+05:30'
+published_at: '2026-06-25T12:56:11Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
-stars: 504
+stars: 505
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-06-09T03:10:27Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-06-25T16:39:35.021530+05:30'
-last_seen: '2026-06-25T16:39:35.021530+05:30'
-last_checked: '2026-06-25T16:39:35.021530+05:30'
+first_seen: '2026-06-25T20:47:33.134203+05:30'
+last_seen: '2026-06-25T20:47:33.134203+05:30'
+last_checked: '2026-06-25T20:47:33.134203+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-powered hacking agents, frameworks, and tools for offensive security research and penetration testing.
-- **Metadata**: 504 stars, 83 forks, last updated 2026-06-24; language unspecified, no listed topics.
-- **Purpose**: Resource for aggregating AI-driven cybersecurity tools, likely including autonomous attack simulators, vulnerability scanners, and red-teaming agents.
+- **Repository Overview**: Curated list of AI-driven autonomous agents designed for cybersecurity research, penetration testing, and vulnerability assessment.
+- **Metadata**: 505 stars, 83 forks, last updated June 25, 2026.
+- **Technical Gap**: Language unspecified; lacks explicit topics or documentation details.
 
 ## Why It Matters
 
@@ -38,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 504
+- Stars: 505
 - Forks: 83
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-24T09:10:13Z
+- Last Updated: 2026-06-25T12:56:11Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
 - Pushed At: 2026-06-09T03:10:27Z

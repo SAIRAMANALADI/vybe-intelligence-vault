@@ -2,7 +2,7 @@
 title: WSGI — WSGI.org
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://wsgi.readthedocs.io/en/latest
+source_url: https://wsgi.readthedocs.io/en/latest/
 resource_id: blog:wsgi-wsgi-org
 local_vault_path: ai/rag/wsgi-wsgi-org.md
 quality_score: 70
@@ -30,8 +30,10 @@ selection_reason:
 ## Summary
 
 - **WSGI (Web Server Gateway Interface)** is a standardized interface between web servers and Python web applications/frameworks, enabling interoperability and portability across different server implementations.
-- **Key components** include frameworks (e.g., Django, Flask), servers (e.g., Gunicorn, uWSGI), middleware, and libraries, all adhering to the WSGI specification for request/response handling.
-- **Documentation and resources** cover specifications (WSGI 1.0/2.0), Python 3 compatibility,
+
+- **Key components** include servers (e.g., Gunicorn, uWSGI), frameworks (e.g., Django, Flask), middleware, and applications, all adhering to the WSGI specification for request/response handling.
+
+- **Documentation** provides specifications, amendments (WSGI 1.0/2.0), Python 3 compatib
 
 ## Use Cases
 
@@ -41,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://wsgi.readthedocs.io/en/latest
+Original source URL: https://wsgi.readthedocs.io/en/latest/
 
 ## Local Vault File
 

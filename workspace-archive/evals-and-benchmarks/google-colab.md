@@ -2,18 +2,20 @@
 title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
+source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- hackernews
+- benchmark
+- models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Unavailable**: The provided link requires authentication (Google Sign-In) and does not grant direct access to the content.
+- **LoRA Tuning**: The document outlines the process of fine-tuning Gemma models using Low-Rank Adaptation (LoRA), a parameter-efficient transfer learning method that freezes pre-trained weights and injects trainable low-rank matrices into transformer layers.
 
-- **Contextual Clue**: The URL suggests the resource is a Jupyter Notebook (`00-simple-local-rag.ipynb`) hosted on GitHub under the `mrdbourke/simple-local-rag` repository, focusing on a "simple local RAG" implementation.
+- **Implementation Details**: Includes code snippets for applying LoRA to Gemma's attention layers (e.g., `LoRALinear` class), with configurable rank (`r`), alpha (`lora_alpha`), and dropout (`lora_dropout`) hyperparameters.
 
-- **Technical Focus**: The notebook likely covers Retrieval-Augmented Generation (RAG) techniques executed locally, emphasizing practical, l
+- **Training
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
+Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 
 ## Local Vault File
 

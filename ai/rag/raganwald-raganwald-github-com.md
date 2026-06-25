@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-06-25T16:36:44.844569+05:30'
+collected_at: '2026-06-25T20:44:43.093673+05:30'
 published_at: '2026-06-20T15:41:20Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-20T15:41:16Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-06-25T16:36:44.844569+05:30'
-last_seen: '2026-06-25T16:36:44.844569+05:30'
-last_checked: '2026-06-25T16:36:44.844569+05:30'
+first_seen: '2026-06-25T20:44:43.093673+05:30'
+last_seen: '2026-06-25T20:44:43.093673+05:30'
+last_checked: '2026-06-25T20:44:43.093673+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll to convert Markdown, Textile, etc. into static HTML for the personal website.
-- **GitHub Pages Hosting**: Deployed directly from the `raganwald.github.com` repository to GitHub Pages.
-- **Minimalist Structure**: HTML-based source with no additional dependencies or complex build pipelines.
+- **Jekyll-based static site generator** for `raganwald.com`, utilizing HTML templates and Markdown content.
+- **GitHub Pages deployment** via the `gh-pages` branch, with a last commit timestamp of **2026-06-20T15:41:20Z**.
+- **Minimal repository** with **30 stars** and **60 forks**, indicating limited community adoption or visibility.
 
 ## Why It Matters
 

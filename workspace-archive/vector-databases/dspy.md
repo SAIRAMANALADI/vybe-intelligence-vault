@@ -2,7 +2,7 @@
 title: DSPy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://dspy.ai
+source_url: https://dspy.ai/
 resource_id: blog:dspy
 local_vault_path: ai/rag/dspy.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and adaptive execution strategies for complex LLM tasks.
-- **Improved LM/BaseLM**: Enhanced base language model handling with better prompt optimization and modular execution control for higher task accuracy.
-- **Structured Task Definition**: Uses typed `Signature` classes (inputs/outputs) and composable `Module` primitives (e.g., `ChainOfThought`, `ReAct`) to replace ad-hoc prompting with maint
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and structured output handling for dynamic task execution.
+- **Improved LM/BaseLM**: Optimized base language model handling with enhanced modularity and performance for structured signature-based task execution.
+- **GEPA Optimizer**: Reflective prompt evolution optimizer (`dspy.GEPA`) that compiles programs against a metric, improving task-specific performance (e.g., 62% → 89% F1 in metadata ext
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy.ai
+Original source URL: https://dspy.ai/
 
 ## Local Vault File
 

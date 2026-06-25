@@ -8,13 +8,14 @@ local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
-- hackernews
+- benchmark
 - models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -25,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Resource**: Google Colab notebook for LoRA (Low-Rank Adaptation) fine-tuning of Gemma models.
-- **Key Focus**: Demonstrates parameter-efficient fine-tuning (PEFT) using LoRA on Gemma models via Hugging Face Transformers.
-- **Technical Details**: Includes implementation steps for applying LoRA to Gemma, leveraging `peft` and `transformers` libraries for memory-efficient training.
+- **LoRA Tuning**: The document outlines the process of fine-tuning Gemma models using Low-Rank Adaptation (LoRA), a parameter-efficient transfer learning method that freezes pre-trained weights and injects trainable low-rank matrices into transformer layers.
+
+- **Implementation Details**: Includes code snippets for applying LoRA to Gemma's attention layers (e.g., `LoRALinear` class), with configurable rank (`r`), alpha (`lora_alpha`), and dropout (`lora_dropout`) hyperparameters.
+
+- **Training
 
 ## Use Cases
 

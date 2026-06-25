@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with efficiency and performance focus.
-
-- **Key Features**: Supports evaluation across multiple modalities (text, vision, generative AI) and includes tools for Retrieval-Augmented Generation (RAG) performance assessment.
-
-- **Repository Stats**: 2,982 stars, 407 forks, last updated June 25, 2026.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG and performance metrics.
+- **Key Features**: Efficient evaluation pipelines, modular architecture for customization, and standardized performance benchmarking across diverse model types.
+- **Repository Stats**: 2,982 stars, 407 forks, last updated 2026-06-25.
 
 ## Use Cases
 

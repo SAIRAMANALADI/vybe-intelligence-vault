@@ -2,7 +2,7 @@
 title: Full featured documentation deployment platform - Read the Docs
 archive_category: ai-tools-products
 source_category: ai/agents
-source_url: https://readthedocs.org
+source_url: https://about.readthedocs.com/
 resource_id: blog:full-featured-documentation-deployment-platform-re
 local_vault_path: ai/agents/full-featured-documentation-deployment-platform-re.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code for Docs**: Hosts documentation builds, previews, and auth via Git integration (Sphinx, MkDocs, Docusaurus) with live PR previews and visual diffs against production.
+- **Infrastructure-as-Code for Documentation**: Automates builds, previews, and deployments for docs via Git repositories using `.readthedocs.yaml` config, supporting tools like Sphinx, MkDocs, and Docusaurus without manual pipeline management.
 
-- **Enterprise & Open Source Support**: Free for open-source projects (e.g., Flask, Jupyter, Godot); paid plans offer SSO (GitHub/GitLab), private repo access, and AMD/Canonical-backed infrastructure.
+- **PR-Based Review & Versioning**: Generates live preview builds for pull requests with visual diffs against production, and supports versioned documentation synchronized with product releases via branches/tags.
 
-- **Automated Versioning & AI Readiness**: Supports versioned docs from branches/tags, llms.txt integra
+- **Access Control & AI Readiness**: Off
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://readthedocs.org
+Original source URL: https://about.readthedocs.com/
 
 ## Local Vault File
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - html
 - scripts
 selection_reason:
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides an open-source framework for training and evaluating **Computer-Use Agents (CUAs)** capable of full desktop control across **macOS, Linux, and Windows** via sandboxes, SDKs, and benchmarks.
-- **Key Features**: Includes **containerization** (via Lume), **virtualization** (macOS Virtualization Framework, Windows Sandbox), and **desktop automation** tools for AI agent interaction.
-- **Technical Stack**: Primarily **HTML**-based, with integrations for **Swift (macOS)**, **Win
+- **Multi-Platform Sandboxing**: Provides isolated, reproducible environments for macOS, Linux, and Windows to safely train and evaluate AI agents capable of full desktop control via containerization and virtualization frameworks.
+
+- **Comprehensive SDK & Benchmarks**: Includes specialized SDKs (e.g., Swift for macOS, Windows Sandbox integration) and standardized benchmarks to assess agent performance in real-world desktop automation tasks.
+
+- **Open-Source Infrastructure**: Facilitates developm
 
 ## Use Cases
 

@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-06-25T16:39:35.089257+05:30'
-published_at: '2026-06-25T09:01:18Z'
+collected_at: '2026-06-25T20:47:33.112696+05:30'
+published_at: '2026-06-25T14:59:58Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
-stars: 1153
+stars: 1156
 language: Unknown
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-06-25T16:39:35.089257+05:30'
-last_seen: '2026-06-25T16:39:35.089257+05:30'
-last_checked: '2026-06-25T16:39:35.089257+05:30'
+first_seen: '2026-06-25T20:47:33.112696+05:30'
+last_seen: '2026-06-25T20:47:33.112696+05:30'
+last_checked: '2026-06-25T20:47:33.112696+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated repository** with 300+ AI agent resources, frameworks, and tools, categorized into 20+ topics, updated monthly.
-- **Key topics covered**: AI agents, LLM frameworks (e.g., LangChain, ChatGPT), machine learning tools, and 2026-focused AI advancements.
-- **Metadata**: 1,153 stars, 401 forks, last updated 2026-06-25T09:01:18Z.
+- **Curated AI Agent Resource**: A GitHub repository (`caramaschiHG/awesome-ai-agents-2026`) hosting a structured, monthly-updated list of **300+ AI agents, frameworks, and tools** spanning **20+ categories** (e.g., LLMs, LangChain, ChatGPT) for 2026.
+- **Technical Scope**: Focuses on **AI agents, machine learning, and LLM ecosystems**, with cross-references to tools like LangChain and ChatGPT, emphasizing cutting-edge advancements.
+- **Community Metrics**: Maintains **1,156 stars** and **403 forks**, with the last update on **2026-06-25**, reflecting active maintenance and relevance.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: caramaschiHG
-- Stars: 1153
-- Forks: 401
+- Stars: 1156
+- Forks: 403
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
-- Last Updated: 2026-06-25T09:01:18Z
+- Last Updated: 2026-06-25T14:59:58Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-03-07T13:21:09Z

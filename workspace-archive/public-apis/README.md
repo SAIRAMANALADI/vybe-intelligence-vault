@@ -11,16 +11,19 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) (framework - USEFUL Tier)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) (benchmark - USEFUL Tier)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
-- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
-- [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
-- [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 
 ## Best Learning Resources
 
@@ -38,4 +41,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-25 16:52 IST*
+*Last updated: 2026-06-25 21:00 IST*

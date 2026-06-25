@@ -17,7 +17,8 @@ tags:
 - models
 - python
 - rag
-- reddit
+- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements an end-to-end Retrieval-Augmented Generation (RAG) system supporting text, images, audio, and structured data via a modular Python architecture.
-
-- **Advanced Retrieval Mechanisms**: Integrates hybrid retrieval (dense + sparse embeddings), cross-modal retrieval, and dynamic chunking for optimized context extraction across modalities.
-
-- **Scalable Deployment**: Supports cloud-native deployment (Docker/Kubernetes), integrates with vector databas
+- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
+- **Modular Architecture**: Provides plug-and-play components for document parsing, embedding, vector storage, retrieval, and generation, enabling customizable RAG workflows.
+- **Optimized for Scalability**: Supports distributed vector search (e.g., FAISS, Milvus) and integrates with LLMs (e.g., Llama,
 
 ## Use Cases
 

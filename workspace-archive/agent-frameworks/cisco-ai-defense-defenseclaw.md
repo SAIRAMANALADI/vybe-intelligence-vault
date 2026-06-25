@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Security Governance Framework**: DefenseClaw provides a Python-based framework for enforcing security policies and governance in agentic AI systems, enabling structured control over AI agent behaviors and interactions.
-
-- **Policy Enforcement Engine**: Implements a modular policy engine to dynamically apply and enforce security rules, ensuring compliance with predefined governance models in AI-driven environments.
-
-- **Agent Behavior Monitoring**: Integrates real-time monitoring and logging
+- **Purpose**: Framework for enforcing security governance in agentic AI systems, ensuring compliance and risk mitigation.
+- **Implementation**: Python-based toolkit with 754 stars and 133 forks, last updated June 25, 2026.
+- **Scope**: Focuses on policy-driven controls for autonomous AI agents, though no explicit topics are tagged.
 
 ## Use Cases
 

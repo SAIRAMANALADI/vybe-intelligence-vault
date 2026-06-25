@@ -35,7 +35,9 @@ selection_reason:
 
 ## Summary
 
-Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiled from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions for bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last commit: 2026-06-25T00:33:57Z) and no explicit dependency constraints.
+- **Repository Metrics**: 861 stars, 136 forks, zero topics, minimal maintenance overhead (single maintainer implied by automation).
 
 ## Use Cases
 

@@ -8,14 +8,14 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -24,17 +24,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Ontology-Driven Semantic Layer**: Focuses on constructing a core ontology to enhance a semantic layer, enabling structured data integration and improved query capabilities.
+- **Ontology-Driven Semantic Layer**: Focuses on leveraging a core ontology to structure and unify data semantics, enabling consistent interpretation and querying across disparate data sources.
 
-- **Technical Implementation**: Utilizes graph database technologies (e.g., Neo4j) to model relationships and hierarchies, ensuring scalable and flexible data representation.
+- **Graph-Based Semantics**: Utilizes graph technology (e.g., Neo4j) to model relationships and hierarchies in the ontology, enhancing contextual understanding and query performance.
 
-- **Benefits**: Enables semantic interoperability, reduces data silos, and supports advanced analytics by leveraging domain-specific knowledge enc
+- **Semantic Interoperability**: Enables seamless integration and querying of heterogeneous data by aligning schema, meta
 
 ## Use Cases
 

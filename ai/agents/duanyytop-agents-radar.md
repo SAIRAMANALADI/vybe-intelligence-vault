@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-06-11T13:07:02.545492+00:00'
-published_at: '2026-06-11T11:16:46Z'
+collected_at: '2026-06-25T20:46:38.080851+05:30'
+published_at: '2026-06-25T00:33:57Z'
 tags:
 - agents
 - github-repo
@@ -13,18 +13,27 @@ tags:
 - producthunt
 - scripts
 - typescript
-stars: 814
+stars: 861
 language: TypeScript
-status: new
+status: active
+license: MIT
+archived: false
+created_at: '2026-02-23T03:22:26Z'
+pushed_at: '2026-06-25T00:33:53Z'
 resource_id: github:duanyytop/agents-radar
+first_seen: '2026-06-25T20:46:38.080851+05:30'
+last_seen: '2026-06-25T20:46:38.080851+05:30'
+last_checked: '2026-06-25T20:46:38.080851+05:30'
+health_score: 100
 ---
-
 
 # duanyytop/agents-radar
 
 ## Summary
 
-Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
+- **Automated AI Ecosystem Aggregator**: Daily digest compiled from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) using GitHub Actions for bilingual ZH/EN reports.
+- **Technical Stack**: Built in TypeScript, with scheduled updates (last commit: 2026-06-25T00:33:57Z) and no explicit dependency constraints.
+- **Repository Metrics**: 861 stars, 136 forks, zero topics, minimal maintenance overhead (single maintainer implied by automation).
 
 ## Why It Matters
 
@@ -33,11 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: duanyytop
-- Stars: 814
-- Forks: 125
+- Stars: 861
+- Forks: 136
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-11T11:16:46Z
+- Last Updated: 2026-06-25T00:33:57Z
+- License: MIT
+- Archived: No
+- Created At: 2026-02-23T03:22:26Z
+- Pushed At: 2026-06-25T00:33:53Z
 
 ## Possible Use Cases
 

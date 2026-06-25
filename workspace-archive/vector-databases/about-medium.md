@@ -13,6 +13,7 @@ importance: medium
 tags:
 - hackernews
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Model**: Medium operates as an ad-free, subscription-supported platform with over 1M members, prioritizing depth and nuance over sensationalism, and enabling writers to monetize content via memberships rather than ads or data sales.
+- **Mission & Model**: Medium is a platform for long-form, in-depth writing, prioritizing thoughtful content over sensationalism, funded by a subscription-based membership model (~1M members) rather than ads or data monetization.
 
-- **User Base & Content**: Hosts 100M+ monthly users (developers, CEOs, writers, etc.) who publish long-form, insight-driven content on topics ranging from technical expertise to personal narratives, fostering thoughtful discourse.
+- **User Base & Content**: Hosts over 100M monthly users (developers, executives, writers, etc.) sharing expertise, personal insights, and niche knowledge, fostering collaborative knowledge exchange.
 
-- **Technical & Ethi
+- **Technical Structure**: Utilizes a sitemap (`sitemap.xml`) for SE
 
 ## Use Cases
 

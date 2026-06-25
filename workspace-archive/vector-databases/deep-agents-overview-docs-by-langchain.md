@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell/JS interpreter), and streaming (typed event streams for messages/tools/values/delegated tasks).
+- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell + JS interpreter), and streaming (typed event streams for messages, tools, values, and tasks).
 
-- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching for managing growing context and long-term memory during agen
+- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching for managing growing context during long runs.
+
+- **Dele
 
 ## Use Cases
 

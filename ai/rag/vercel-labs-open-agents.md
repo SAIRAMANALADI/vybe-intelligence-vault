@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/open-agents
-collected_at: '2026-06-25T16:38:55.015256+05:30'
+collected_at: '2026-06-25T20:46:58.112376+05:30'
 published_at: '2026-06-25T09:00:22Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 5679
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-26T17:01:07Z'
 pushed_at: '2026-06-17T21:25:51Z'
 resource_id: github:vercel-labs/open-agents
-first_seen: '2026-06-25T16:38:55.015256+05:30'
-last_seen: '2026-06-25T16:38:55.015256+05:30'
-last_checked: '2026-06-25T16:38:55.015256+05:30'
+first_seen: '2026-06-25T20:46:58.112376+05:30'
+last_seen: '2026-06-25T20:46:58.112376+05:30'
+last_checked: '2026-06-25T20:46:58.112376+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-native AI agents with modular components for extensibility and scalability.
+- **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-based AI agents, leveraging Vercel's infrastructure for deployment and scalability.
 
-- **Agent Orchestration**: Implements background agent workflows with Vercel’s serverless infrastructure, enabling asynchronous task execution and state management.
+- **Agent Capabilities**: Supports background agents with persistent, event-driven execution, enabling asynchronous task processing and long-running operations.
 
-- **Integration Focus**: Designed for seamless integration with AI models, APIs, and databases, leveraging Vercel’s ecosystem for deployment and monitoring.
+- **Integration & Extensibility**: Designed for modularity, allowing custom agent logic, tool integrations, and seamless deployment via Vercel’s serverless and edge functions.
 
 ## Why It Matters
 

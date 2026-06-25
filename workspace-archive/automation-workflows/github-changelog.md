@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Self-service credential revocation**: GitHub introduces a new feature enabling users to revoke compromised or unnecessary credentials (e.g., tokens, SSH keys) without admin intervention, accelerating incident response workflows.
+- **Enterprise Team Assignment to Cost Centers**: GitHub now allows enterprise teams to be directly assigned to cost centers, enabling granular financial tracking and resource allocation at the team level within enterprise accounts.
 
-- **Integration with enterprise tools**: The revocation system is designed to work seamlessly with existing enterprise management tools (e.g., SIEM, IAM platforms) via APIs and webhooks for automated remediation.
+- **Enhanced Account Management Integration**: The update integrates enterprise team assignments with existing account management tools, streamlining administrative workflows for large-scale deployments.
 
-- **Audit and compliance**: All revocation actions a
+- **Improved Enterprise Tooling**: The change enhances enterp
 
 ## Use Cases
 

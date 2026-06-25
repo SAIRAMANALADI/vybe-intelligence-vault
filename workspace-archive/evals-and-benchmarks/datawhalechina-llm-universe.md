@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM applications, leveraging Jupyter Notebooks for hands-on learning.
-- **Core Technologies**: Focuses on LangChain and Retrieval-Augmented Generation (RAG) pipelines for LLM integration and optimization.
-- **Resources & Updates**: Hosts an online book (https://datawhalechina.github.io/llm-universe/) with continuous updates (last modified: 2026-06-24).
+- **Educational Framework**: Provides a structured tutorial for beginners in large language model (LLM) application development, covering foundational to advanced concepts.
+
+- **Technical Stack**: Utilizes **LangChain** and **RAG (Retrieval-Augmented Generation)** methodologies, implemented primarily in **Jupyter Notebook** format for interactive learning.
+
+- **Resource Metrics**: Hosted on GitHub with **13,329 stars** and **1,366 forks**, last updated **June 25, 2026**.
 
 ## Use Cases
 

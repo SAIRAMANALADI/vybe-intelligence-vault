@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-25T16:43:16.549502+05:30'
-collected_at: '2026-06-25T16:43:16.549511+05:30'
+published_at: '2026-06-25T20:49:24.766619+05:30'
+collected_at: '2026-06-25T20:49:24.766632+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-25T16:43:16.549511+05:30'
-last_seen: '2026-06-25T16:43:16.549511+05:30'
-last_checked: '2026-06-25T16:43:16.549511+05:30'
+first_seen: '2026-06-25T20:49:24.766632+05:30'
+last_seen: '2026-06-25T20:49:24.766632+05:30'
+last_checked: '2026-06-25T20:49:24.766632+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: GitHub Copilot CLI supports `/fleet` mode, enabling parallelized subagents to execute tasks across multiple models (e.g., Anthropic, Google, OpenAI) simultaneously, with `/model` for dynamic switching and convergence on a decision-ready result.
+- **Multi-Agent Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagents for concurrent task execution, with `/model` switching to compare approaches across providers (Anthropic, Google, OpenAI) and `/resume` for session persistence.
 
-- **GitHub-Native Workflow Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, pull requests, branches, and labels, allowing seamless transitions from `/plan` to merged PRs while inheriting organization policies (e.g., branch protections, required checks).
+- **GitHub-Native Workflow Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, PRs, branches, and labels while enforcing org policies (branch protections, required checks) and supports `/plan` to `/IDE` transitions (VS Code) and direct PR creation via `/delegate`.
 
-- **Session Persistence & Governance**: Maintains persistent chat history and context across sessions (`/resume`), supports custom agent behaviors via `AGENTS.md` and `/skills`, and enforces security/compliance by inheriting Copilot Business/Enterprise governance policies, with explicit user approval required for all file modifications and command executions.
+- **Customizable Agentic Runtime**: Supports `/agent` and `/skills` for defining custom instructions (via `AGENTS.md`), MCP server integrations for extended tooling, and experimental features (`/experimental show`), with SDK access (`@github/copilot`) for programmatic agent orchestration.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T16:43:16.549502+05:30
+- Published: 2026-06-25T20:49:24.766619+05:30
 
 ## Related Tags
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://utaw.tech/news/wikipedia-recognition
 hn_url: https://news.ycombinator.com/item?id=48669932
-score: 90
+score: 168
 author: chobeat
-comments_count: 95
+comments_count: 159
 published_at: '2026-06-25T12:32:37+05:30'
-collected_at: '2026-06-25T16:35:46.592247+05:30'
+collected_at: '2026-06-25T20:43:53.035179+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:wikipedia-workers-in-britain-set-global-first-by-s
 first_seen: '2026-06-25T16:35:46.592247+05:30'
-last_seen: '2026-06-25T16:35:46.592247+05:30'
-last_checked: '2026-06-25T16:35:46.592247+05:30'
+last_seen: '2026-06-25T20:43:53.035179+05:30'
+last_checked: '2026-06-25T20:43:53.035179+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by chobeat. Score: 90, Comments: 95.
+Hacker News story by chobeat. Score: 168, Comments: 159.
 Original Link: https://utaw.tech/news/wikipedia-recognition
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: chobeat
-- Score: 90 Upvotes
-- Comments: 95 Discussions
+- Score: 168 Upvotes
+- Comments: 159 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48669932
 - Original Article: https://utaw.tech/news/wikipedia-recognition
 

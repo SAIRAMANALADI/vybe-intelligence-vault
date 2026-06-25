@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-25T16:37:39.870619+05:30'
+collected_at: '2026-06-25T20:45:38.019646+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-25T16:37:39.870619+05:30'
-last_seen: '2026-06-25T16:37:39.870619+05:30'
-last_checked: '2026-06-25T16:37:39.870619+05:30'
+first_seen: '2026-06-25T20:45:38.019646+05:30'
+last_seen: '2026-06-25T20:45:38.019646+05:30'
+last_checked: '2026-06-25T20:45:38.019646+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices for Vietnamese, including vector database integration (e.g., FAISS or Weaviate) and retrieval-augmented pipelines in Python.
-- **Key Components**: Features a modular architecture with document preprocessing (e.g., Vietnamese text normalization), embedding models (e.g., `vinai/phobert-base`), and retrieval-optimized query handling.
-- **Evaluation**: Includes benchmarking scripts for Vietnamese RAG tasks, comparing retrieval strategies (e.g., BM25 vs. dense retrieval) and generation quality metrics.
+*   Implements a Python-based retrieval-augmented generation (RAG) backend.
+*   Demonstrates RAG best practices specifically optimized for the Vietnamese language.
+*   Focuses on linguistic adaptation of RAG systems for specific language contexts.
 
 ## Why It Matters
 

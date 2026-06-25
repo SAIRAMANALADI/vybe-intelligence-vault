@@ -17,7 +17,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication & Storage Integration**: Uses Supabase Auth for user authentication (magic links/email-passwordless), Postgres database with Row Level Security (RLS) for user data isolation, and Supabase Storage for profile photo uploads.
-
-- **Next.js Server-Side Auth Architecture**: Implements `@supabase/ssr` for session management via cookies, separates client-side (`lib/supabase/client.ts`) and server-side (`lib/supabase/server.ts`) Supabase clients, and uses Next.js proxy middleware for t
+- **Authentication & Storage**: Implements Supabase Auth for user sign-up/login (via Magic Links), Postgres database with Row Level Security (RLS) for storing user profiles, and Supabase Storage for profile photo uploads.
+- **Next.js Integration**: Uses `@supabase/ssr` for server-side auth (cookie-based sessions), separates client (`lib/supabase/client.ts`) and server (`lib/supabase/server.ts`) Supabase clients, and employs a Next.js proxy (`proxy.ts`) to refresh expired auth tokens.
+- **Securit
 
 ## Use Cases
 

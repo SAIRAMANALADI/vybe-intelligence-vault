@@ -13,13 +13,14 @@ collected_at: '2026-06-25T16:35:45.906741+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:markdy-like-mermaid-diagrams-but-for-motion
 first_seen: '2026-06-25T16:35:45.906741+05:30'
 last_seen: '2026-06-25T16:35:45.906741+05:30'
 last_checked: '2026-06-25T16:35:45.906741+05:30'
 health_score: 100
 ---
+
 
 # Markdy: Like Mermaid Diagrams, but for Motion
 

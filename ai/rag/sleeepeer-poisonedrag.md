@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-25T16:38:09.912512+05:30'
+collected_at: '2026-06-25T20:46:08.069140+05:30'
 published_at: '2026-06-25T03:51:18Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-25T16:38:09.912512+05:30'
-last_seen: '2026-06-25T16:38:09.912512+05:30'
-last_checked: '2026-06-25T16:38:09.912512+05:30'
+first_seen: '2026-06-25T20:46:08.069140+05:30'
+last_seen: '2026-06-25T20:46:08.069140+05:30'
+last_checked: '2026-06-25T20:46:08.069140+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Mechanism**: Introduces *PoisonedRAG*, a novel knowledge corruption attack targeting Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining plausible responses.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance scores.
 
-- **Technical Implementation**: Demonstrates attack feasibility by poisoning the embedding space of RAG systems via adversarial document insertion, exploiting vulnerabilities in the retrieval pipeline to manipulate top-k document selection and subsequent generation.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that trigger specific retrieval behaviors, leveraging gradient-based optimization to align poisoned content with target attack objectives (e.g., misinformation propagation or biased responses).
 
-- **Impact & Mitigation**: Evaluates attack effectiveness across multiple RAG architectures (e.g., dense retrieval, BM25) and proposes preliminary defense strategies, including embedding sanitization and retrieval filtering, to mitigate knowledge corruption risks.
+- **Evaluation & Impact**: Validates effectiveness across multiple LLMs and datasets, showing that even small-scale poisoning (e.g., 1-5% of corpus) can significantly degrade RAG performance, with attack success rates exceeding 80% in controlled experiments.
 
 ## Why It Matters
 

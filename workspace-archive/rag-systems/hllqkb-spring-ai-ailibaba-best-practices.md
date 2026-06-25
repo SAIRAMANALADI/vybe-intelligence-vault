@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements AI Q&A system** with Server-Sent Events (SSE) streaming, Agent-based workflows, and RAG over knowledge graphs for real-time responses.
-- **Supports multimodal processing** including image generation (via FunctionCall), image understanding, and embedding-based vector search in a Java-based Spring AI framework.
-- **Integrates vector database** for RAG, historical message management, and embedding pipelines with Alibaba Cloud AI services.
+- **Implements Server-Sent Events (SSE) streaming** for real-time AI question-answering responses in a Java-based Spring AI application.
+- **Integrates multiple AI capabilities**: RAG with knowledge graphs, FunctionCall, historical message management, image generation/understanding, and Embedding/VectorDatabase operations.
+- **Demonstrates advanced AI agent workflows** using Alibaba Cloud AI services within a Spring framework context, optimized for enterprise best practices.
 
 ## Use Cases
 

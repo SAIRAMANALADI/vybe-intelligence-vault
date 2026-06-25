@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-25T16:38:04.920439+05:30'
+collected_at: '2026-06-25T20:46:03.086443+05:30'
 published_at: '2026-06-25T09:47:53Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-25T16:38:04.920439+05:30'
-last_seen: '2026-06-25T16:38:04.920439+05:30'
-last_checked: '2026-06-25T16:38:04.920439+05:30'
+first_seen: '2026-06-25T20:46:03.086443+05:30'
+last_seen: '2026-06-25T20:46:03.086443+05:30'
+last_checked: '2026-06-25T20:46:03.086443+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured evaluation framework for Retrieval-Augmented Generation (RAG) systems using synthetic and real-world enterprise internal documents, covering diverse domains (e.g., finance, legal, HR).
+- **Purpose**: Provides a benchmarking framework and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in domain-specific contexts.
 
-- **Evaluation Metrics**: Includes standardized metrics for assessing RAG performance (e.g., retrieval precision/recall, answer correctness, hallucination rate) with Python-based tooling for automated benchmarking.
+- **Dataset Composition**: Includes synthetic and real-world enterprise data, covering diverse document types (e.g., contracts, emails, reports) to simulate internal knowledge bases, with synthetic data generation for scalability and privacy compliance.
 
-- **Synthetic Data Generation**: Implements synthetic data pipelines to augment evaluation sets, ensuring scalability and reproducibility for enterprise-specific RAG testing scenarios.
+- **Evaluation Metrics**: Supports structured evaluation of RAG pipelines via metrics like retrieval accuracy, answer correctness, and latency, with Python-based tooling for automated benchmarking and reproducibility.
 
 ## Why It Matters
 

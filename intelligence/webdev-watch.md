@@ -4,9 +4,11 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
+| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com) | `frontend-ai-ui/` | 70 |
 | [Memberstack Dashboard](https://app.memberstack.com/signup) | `frontend-ai-ui/` | 70 |
+| [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](https://docs.jupyter.org) | `frontend-ai-ui/` | 70 |
 | [RPKI Dashboard](https://dashboard.rpki.ripe.net) | `frontend-ai-ui/` | 70 |
 | [EverPass](https://help.upshow.tv/hc/en-us) | `frontend-ai-ui/` | 70 |
 | [ShakeNet Web App: Raspberry Shakes' Community Portal](https://shakenet.raspberryshake.org/privacy) | `frontend-ai-ui/` | 70 |
@@ -22,7 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [R Markdown](https://rmarkdown.rstudio.com) | `frontend-ai-ui/` | 70 |
 | [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
 | [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) | `frontend-ai-ui/` | 70 |
-| [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants) | `frontend-ai-ui/` | 70 |
-| [adrianhajdin/project_metaverse](https://github.com/adrianhajdin/project_metaverse) | `frontend-ai-ui/` | 70 |
 
 More resources will appear as the harvester collects them.

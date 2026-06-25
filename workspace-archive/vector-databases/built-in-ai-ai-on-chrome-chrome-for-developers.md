@@ -16,7 +16,6 @@ tags:
 - rag
 - threejs
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Nano Integration**: Chrome's built-in AI leverages Google's Gemini Nano for on-device AI tasks, enabling features like text translation, summarization, and content generation without server-side processing.
-- **API Suite for AI Workloads**: Chrome provides multiple APIs (e.g., Proofreader, Writer, Rewriter, Translator, Language Detector, Summarizer, Prompt) for client-side AI tasks, with support for polyfills and hybrid cloud/on-device workflows.
-- **Model Management & Best Practices*
+- **Gemini Nano Integration**: Chrome's built-in AI leverages **Gemini Nano**, a lightweight model managed by the browser, enabling on-device AI tasks via APIs like summarization, translation, and text rewriting.
+- **API Ecosystem**: Chrome provides **origin-trial APIs** (e.g., `Proofreader`, `Writer`, `Translator`, `Summarizer`) for client-side AI tasks, with polyfills (`Prompt API`, `Task API`) for broader compatibility.
+- **Model Management**: Chrome handles **on-device model downloads, updat
 
 ## Use Cases
 

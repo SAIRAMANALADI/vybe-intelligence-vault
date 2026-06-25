@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-25T16:37:59.922833+05:30'
+collected_at: '2026-06-25T20:46:03.096621+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 144
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-25T16:37:59.922833+05:30'
-last_seen: '2026-06-25T16:37:59.922833+05:30'
-last_checked: '2026-06-25T16:37:59.922833+05:30'
+first_seen: '2026-06-25T20:46:03.096621+05:30'
+last_seen: '2026-06-25T20:46:03.096621+05:30'
+last_checked: '2026-06-25T20:46:03.096621+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems across multi-turn interactions, focusing on context retention and iterative retrieval quality.
+- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark framework for evaluating conversational RAG systems across multi-turn interactions, including metrics for context relevance, response coherence, and retrieval accuracy.
 
-- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, retrieval precision) and novel multi-turn-specific metrics (e.g., context coherence, turn-level consistency) for comprehensive assessment.
+- **Technical Implementation**: Python-based repository with modular components for dataset curation, evaluation pipelines, and performance metrics, leveraging state-of-the-art RAG architectures (e.g., dense retrieval + generative models).
 
-- **Implementation**: Python-based framework with modular components for dataset integration, retrieval models, and generative evaluation, supporting extensibility for custom RAG pipelines.
+- **Evaluation Scope**: Focuses on dynamic, multi-turn dialogue scenarios with adaptive retrieval strategies, enabling comparison of models under realistic conversational constraints (e.g., latency, memory, and context window limitations).
 
 ## Why It Matters
 

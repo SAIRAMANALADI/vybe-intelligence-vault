@@ -6,14 +6,14 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -27,19 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment, with reusable Python utilities and hands-on demos.
-
-- **Technical Implementation**: Provides working code examples and reusable modules for building RAG systems, including vector DB interactions, embedding generation, and LLM fine-tuning.
-
-- **Updated & Python-Based**: Last updated June 2026; repository is Python-focused,
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+- **Technical Focus**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (local/cloud), and advanced RAG techniques like query rewriting and multi-modal retrieval.
+- **Hands-on Demos**: Includes interactive notebooks and CLI tools for testing retrieval pipelines, hybrid search, and evalua
 
 ## Use Cases
 

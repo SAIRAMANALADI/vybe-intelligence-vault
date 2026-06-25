@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Architecture**: Open-source security automation platform built with Python backend (FastAPI, Pydantic, Temporal.io) and Next.js frontend, enabling event-driven workflow orchestration for security operations.
+- **Platform Architecture**: Open-source security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python for core logic and Pydantic for data validation.
 
-- **Key Features**: Supports low-code automation, AI agent integration (via LLM), and OpenAPI-based API design, with monitoring capabilities for security workflows and event handling.
+- **Key Features**: Event-driven automation with low-code workflows, OpenAPI/Swagger integration for API management, and LLM support for AI agent interactions in security operations.
 
-- **Technical Stack**: Leverages temporal.io for workflow engine, FastAPI for REST endpoints,
+- **Technical Stack**: Uses temporalio for durable execution, FastAPI for REST APIs, a
 
 ## Use Cases
 

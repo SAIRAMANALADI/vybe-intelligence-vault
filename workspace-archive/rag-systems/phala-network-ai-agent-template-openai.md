@@ -16,6 +16,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network, enabling on-chain AI computations.
+- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, including contract scaffolding and integration hooks.
 
-- **OpenAI Integration**: Facilitates secure, decentralized interactions with OpenAI's models via Phala's confidential computing infrastructure, ensuring data privacy.
+- **Key Components**: Includes pre-configured modules for agent orchestration, OpenAI API calls, and Phala Network-specific runtime environments (e.g., pRuntime, worker pools).
 
-- **Deployment Ready**: Includes pre-configured scripts and dependencies for rapid deployment of AI agents on Phala Network, leveraging OpenAI's API for inference.
+- **Deployment Workflow**: Demonstrates end-to-end deployment steps for AI agents, leveraging Phala's confidential computing for se
 
 ## Use Cases
 

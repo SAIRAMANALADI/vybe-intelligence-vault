@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-25T16:37:49.882836+05:30'
+collected_at: '2026-06-25T20:45:48.034316+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - paper
 - rag
 - unknown
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-25T16:37:49.882836+05:30'
-last_seen: '2026-06-25T16:37:49.882836+05:30'
-last_checked: '2026-06-25T16:37:49.882836+05:30'
+first_seen: '2026-06-25T20:45:48.034316+05:30'
+last_seen: '2026-06-25T20:45:48.034316+05:30'
+last_checked: '2026-06-25T20:45:48.034316+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A comprehensive, structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**, focusing on integration with embeddings and retrieval mechanisms.
-- **Technical Scope**: Covers **embedding models**, **retrieval strategies**, and **RAG architectures**, including hybrid retrieval, multi-modal RAG, and fine-tuning methodologies for improving factuality and context-aware generation.
-- **Dynamic Updates**: Actively maintained repository (last updated **2026-06-23**) with categorized links to tools, benchmarks, and open-source implementations for scalable RAG deployments.
+- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Technical Focus**: Includes cutting-edge methods for enhancing LLM performance via dynamic retrieval, hybrid search (dense + sparse), and context-aware augmentation to mitigate hallucinations and improve factual grounding.
+- **Community-Driven**: Actively maintained repository with contributions from researchers, featuring benchmarks, papers, and practical implementations for optimizing RAG pipelines in production environments.
 
 ## Why It Matters
 

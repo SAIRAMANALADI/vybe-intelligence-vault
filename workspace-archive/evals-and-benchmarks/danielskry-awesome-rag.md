@@ -6,12 +6,14 @@ source_url: https://github.com/Danielskry/Awesome-RAG
 resource_id: github:danielskry/awesome-rag
 local_vault_path: ai/rag/danielskry-awesome-rag.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - github-repo
+- models
+- paper
 - rag
 - unknown
 selection_reason:
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering diverse use cases and implementations.
-- **Active Maintenance**: Repository last updated on **2026-06-25**, indicating ongoing updates and community engagement (1,262 stars, 153 forks).
-- **Multi-Topic Focus**: Covers key areas including **LLM integration, retrieval mechanisms, and AI-driven augmentation** across artificial intelligence and
+- Curated collection of **Retrieval-Augmented Generation (RAG)** applications, frameworks, and tools in generative AI, emphasizing integration of retrieval mechanisms with large language models (LLMs).
+- Aggregates open-source projects, research papers, and production-ready systems spanning **LLM fine-tuning, vector databases, and hybrid retrieval pipelines**.
+- Maintains an actively updated repository with contributions tracked via GitHub stars (1.2k+) and forks (154+), last synced in **June 20
 
 ## Use Cases
 

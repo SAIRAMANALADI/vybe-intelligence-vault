@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-06-25T16:39:05.041659+05:30'
+collected_at: '2026-06-25T20:47:08.163396+05:30'
 published_at: '2026-06-24T15:06:11Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 stars: 6455
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-06-25T16:39:05.041659+05:30'
-last_seen: '2026-06-25T16:39:05.041659+05:30'
-last_checked: '2026-06-25T16:39:05.041659+05:30'
+first_seen: '2026-06-25T20:47:08.163396+05:30'
+last_seen: '2026-06-25T20:47:08.163396+05:30'
+last_checked: '2026-06-25T20:47:08.163396+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents with dynamic, real-time data access via semantic search and retrieval-augmented generation (RAG).
+- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to retrieve and integrate contextual data from enterprise sources, enhancing retrieval-augmented generation (RAG) workflows.
 
-- **Key Features**: Provides API-driven integration with enterprise data sources, supports semantic search, and offers SDKs for seamless LLM augmentation and context-aware agent interactions.
+- **Enterprise data connectors**: Supports semantic search, API integrations, and structured/unstructured data retrieval across databases, documents, and third-party services via modular connectors.
 
-- **Technical Stack**: Python-based, with connectors for diverse data formats, enabling low-latency retrieval and integration with existing AI/ML pipelines.
+- **Scalable search API**: Implements advanced retrieval techniques (e.g., vector search, hybrid queries) with low-latency performance, optimized for AI agent infrastructure and LLM augmentation.
 
 ## Why It Matters
 

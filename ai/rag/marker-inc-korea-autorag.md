@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-25T16:37:19.893483+05:30'
+collected_at: '2026-06-25T20:45:23.034468+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-25T16:37:19.893483+05:30'
-last_seen: '2026-06-25T16:37:19.893483+05:30'
-last_checked: '2026-06-25T16:37:19.893483+05:30'
+first_seen: '2026-06-25T20:45:23.034468+05:30'
+last_seen: '2026-06-25T20:45:23.034468+05:30'
+last_checked: '2026-06-25T20:45:23.034468+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance.
+- **AutoML-Style Optimization**: Automates hyperparameter tuning, prompt engineering, and pipeline configuration for RAG systems using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms) to maximize performance metrics like answer relevance, faithfulness, and context precision.
 
-- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking within a single Python framework.
+- **Comprehensive Evaluation Suite**: Implements standardized benchmarks (e.g., RAGTruth, KILT) and custom metrics (e.g., retrieval latency, generation quality) to assess RAG pipelines across dimensions like retrieval efficiency, answer correctness, and computational cost, with support for multi-modal inputs (text, tables, images).
 
-- **Open-Source & Extensible**: Designed for scalability and integration with existing RAG workflows, featuring modular components for embeddings, retrieval, and LLM interaction.
+- **Modular Pipeline Architecture**: Provides a Python-based framework with pluggable components (e.g., retrievers like BM25/FAISS, LLMs via HuggingFace/transformers, document parsers) and built-in support for distributed training/inference, enabling end-to-end RAG workflows with minimal boilerplate code.
 
 ## Why It Matters
 

@@ -16,7 +16,6 @@ tags:
 - github-repo
 - python
 - scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Curated collection of **tools, frameworks, and resources** for developing AI-powered web agents, with a focus on **browser automation** and **LLM integration**.
-- Includes benchmarks and evaluation metrics for **LLM-based web agents**, supporting **Python**-based development workflows.
-- Maintains an active repository with **1,482 stars** and **189 forks**, last updated **June 25, 2026**.
+- **Curated collection** of tools, frameworks, and resources for developing AI-powered web agents, including browser automation and LLM benchmarking utilities.
+- **Python-centric** with focus on AI agents, LLMs, and web interaction automation (e.g., Selenium, Playwright, LangChain integrations).
+- **Actively maintained** (last updated 2026-06-25) with 1,483 stars and 190 forks, covering topics like AI agents, LLMs, and benchmarking methodologies.
 
 ## Use Cases
 

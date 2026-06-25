@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-25T16:37:24.856787+05:30'
+collected_at: '2026-06-25T20:45:23.002160+05:30'
 published_at: '2026-06-23T13:29:42Z'
 tags:
 - github-repo
 - jupyter notebook
+- models
 - rag
-- scripts
 - workflows
 stars: 1220
 language: Jupyter Notebook
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-25T16:37:24.856787+05:30'
-last_seen: '2026-06-25T16:37:24.856787+05:30'
-last_checked: '2026-06-25T16:37:24.856787+05:30'
+first_seen: '2026-06-25T20:45:23.002160+05:30'
+last_seen: '2026-06-25T20:45:23.002160+05:30'
+last_checked: '2026-06-25T20:45:23.002160+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and analysis of LLM interactions.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to explore RAG components (retrievers, embeddings, prompts) dynamically with Python-based workflows.
+- **Streamlit-Powered UI**: Built with Python and Streamlit for real-time, web-based visualization of RAG workflows, including retrieval steps, context integration, and model outputs.
 
-- **Modular Python Framework**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python scripts, with visualization features for token flows, retrieval metrics, and response generation paths.
+- **Modular Design**: Supports customization for different RAG architectures, with topics tagged for LLM, Python, and interactive data visualization (last updated June 2026).
 
 ## Why It Matters
 

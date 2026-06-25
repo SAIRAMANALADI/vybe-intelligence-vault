@@ -3,17 +3,17 @@ title: WSGI — WSGI.org
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://wsgi.readthedocs.io/en/latest
-published_at: '2026-06-22T10:36:10.020691+05:30'
-collected_at: '2026-06-22T10:36:10.020701+05:30'
+source_url: https://wsgi.readthedocs.io/en/latest/
+published_at: '2026-06-25T20:52:12.685787+05:30'
+collected_at: '2026-06-25T20:52:12.685800+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:wsgi-wsgi-org
-first_seen: '2026-06-22T10:36:10.020701+05:30'
-last_seen: '2026-06-22T10:36:10.020701+05:30'
-last_checked: '2026-06-22T10:36:10.020701+05:30'
+first_seen: '2026-06-25T20:52:12.685800+05:30'
+last_seen: '2026-06-25T20:52:12.685800+05:30'
+last_checked: '2026-06-25T20:52:12.685800+05:30'
 health_score: 100
 ---
 
@@ -22,8 +22,10 @@ health_score: 100
 ## Summary
 
 - **WSGI (Web Server Gateway Interface)** is a standardized interface between web servers and Python web applications/frameworks, enabling interoperability and portability across different server implementations.
-- **Key components** include frameworks (e.g., Django, Flask), servers (e.g., Gunicorn, uWSGI), middleware, and libraries, all adhering to the WSGI specification for request/response handling.
-- **Documentation and resources** cover specifications (WSGI 1.0/2.0), Python 3 compatibility, testing tools, and amendments, with open-source contributions hosted on [GitHub](https://github.com/GrahamDumpleton/wsgiorg).
+
+- **Key components** include servers (e.g., Gunicorn, uWSGI), frameworks (e.g., Django, Flask), middleware, and applications, all adhering to the WSGI specification for request/response handling.
+
+- **Documentation** provides specifications, amendments (WSGI 1.0/2.0), Python 3 compatibility notes, and resources for testing, libraries, and contributions via GitHub.
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:36:10.020691+05:30
+- Published: 2026-06-25T20:52:12.685787+05:30
 
 ## Related Tags
 
@@ -42,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://wsgi.readthedocs.io/en/latest
+Original source: https://wsgi.readthedocs.io/en/latest/

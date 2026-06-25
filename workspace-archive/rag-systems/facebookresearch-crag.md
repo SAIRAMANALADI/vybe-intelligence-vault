@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: CRAG provides a comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, including diverse datasets and metrics for assessing performance across tasks like open-domain QA, fact-checking, and long-form generation.
-
-- **Evaluation Metrics**: Implements fine-grained metrics (e.g., correctness, faithfulness, context relevance) to dissect RAG pipeline components (retriever, generator, reranker) and identify failure modes in real-world scenarios.
-
-- *
+- **Benchmark Framework**: CRAG provides a comprehensive evaluation suite for Retrieval-Augmented Generation (RAG) systems, including metrics for factuality, citation accuracy, and robustness across diverse datasets.
+- **Modular Design**: Implements a modular architecture for seamless integration of new datasets, retrievers, and generators, enabling extensible benchmarking.
+- **Open-Source Toolkit**: Released under an open-source license (MIT) with Jupyter Notebook-based examples, facilitating r
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -36,9 +37,9 @@ selection_reason:
 
 - **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
 
-- **AI/ML Integration**: Offers Firebase AI Logic for generative AI workflows, SQL Connect for database integration, and pre-built extensions (e.g., Stripe payments, Algolia search) to automate backend tasks and enhance app intelligence.
+- **Managed AI & Generative AI Integration**: Offers Firebase AI Logic for AI-powered app logic and pre-built integrations with Google’s Gemini, enabling generative AI features like agent skills and AI-assisted development workflows.
 
-- **Monitoring & Optimization**: Includes Crashlytics for
+- **Modular Backend Services**: Includes Firebase Extensions (
 
 ## Use Cases
 

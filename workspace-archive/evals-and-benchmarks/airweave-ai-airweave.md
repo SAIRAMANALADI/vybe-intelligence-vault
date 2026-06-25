@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents with dynamic, real-time data access via semantic search and retrieval-augmented generation (RAG).
+- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to retrieve and integrate contextual data from enterprise sources, enhancing retrieval-augmented generation (RAG) workflows.
 
-- **Key Features**: Provides API-driven integration with enterprise data sources, supports semantic search, and offers SDKs for seamless LLM augmentation and context-aware agent interactions.
+- **Enterprise data connectors**: Supports semantic search, API integrations, and structured/unstructured data retrieval across databases, documents, and third-party services via modular connectors.
 
-- **Technical Stack**: Python-based, with connectors for diverse data formats, enabling low-latency retrieval and integration w
+- **Scalable search API**: Implements advanced retrieval techniques (e.g., vecto
 
 ## Use Cases
 

@@ -8,14 +8,14 @@ local_vault_path: ai/rag/opendataloader-project-opendataloader-pdf.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- hackernews
 - java
 - rag
 - scripts
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed to extract and convert PDF content into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility compliance (PDF/UA, WCAG).
-- **Advanced Document Parsing**: Supports tagged PDFs, bounding box detection, table extraction, and structured data output for RAG pipelines.
-- **Accessibility & Automation**: Automates PDF accessibility remediation, including OCR recognition and conversion to tagged PDFs for assistive technologies.
+- **Java-based PDF Parser**: Open-source tool designed for AI-ready PDF data extraction, supporting accessibility compliance (PDF/UA, WCAG) and structured output formats (HTML, JSON, Markdown).
+
+- **Advanced OCR & Layout Analysis**: Implements OCR recognition (bounding boxes, tables) and tagged PDF processing for accurate document structure preservation, enabling automation of PDF accessibility workflows.
+
+- **Multi-format Conversion & RAG Integration**: Converts PDFs to HTML/JSON/Markdown, extr
 
 ## Use Cases
 

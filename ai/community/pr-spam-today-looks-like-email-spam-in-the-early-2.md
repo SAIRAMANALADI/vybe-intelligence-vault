@@ -13,13 +13,14 @@ collected_at: '2026-06-25T16:35:47.850114+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pr-spam-today-looks-like-email-spam-in-the-early-2
 first_seen: '2026-06-24T22:48:55.323062+05:30'
 last_seen: '2026-06-25T16:35:47.850114+05:30'
 last_checked: '2026-06-25T16:35:47.850114+05:30'
 health_score: 100
 ---
+
 
 # PR spam today looks like email spam in the early 2000s
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-25T16:37:14.862544+05:30'
-published_at: '2026-06-25T06:04:54Z'
+collected_at: '2026-06-25T20:45:13.095742+05:30'
+published_at: '2026-06-25T11:08:02Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - rag
-stars: 1286
+stars: 1285
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-25T16:37:14.862544+05:30'
-last_seen: '2026-06-25T16:37:14.862544+05:30'
-last_checked: '2026-06-25T16:37:14.862544+05:30'
+first_seen: '2026-06-25T20:45:13.095742+05:30'
+last_seen: '2026-06-25T20:45:13.095742+05:30'
+last_checked: '2026-06-25T20:45:13.095742+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server implementation** in Python, integrating RAG, knowledge graphs, and OpenAI for contextual code intelligence and search.
-- **IDE-agnostic plugin** supporting Copilot-like features, multi-agent orchestration, and real-time codebase grounding via MCP protocol.
+- **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for codebase-specific responses.
+
+- **MCP server integration**: Provides a standardized interface for AI agents to interact with the workspace, supporting OpenAI, MCP, and other LLM frameworks.
+
+- **Python-based toolkit**: Offers developer tools for code search, intelligence, and multi-agent collaboration, compatible with IDE plugins and CLI environments.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: study8677
-- Stars: 1286
+- Stars: 1285
 - Forks: 262
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
-- Last Updated: 2026-06-25T06:04:54Z
+- Last Updated: 2026-06-25T11:08:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-19T08:51:14Z

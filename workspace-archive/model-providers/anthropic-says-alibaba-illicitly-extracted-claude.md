@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by htrp. Score: 450, Comments: 782.
+Hacker News story by htrp. Score: 629, Comments: 1008.
 Original Link: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
 
 ## Use Cases

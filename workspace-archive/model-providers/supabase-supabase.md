@@ -8,7 +8,7 @@ local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
@@ -28,15 +28,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- Supabase docs follow a structured taxonomy: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (short, procedural), and **Reference** (factual, parameter/return-type focused, auto-generated from spec files).
-- Docs are authored in **MDX** with YAML frontmatter for metadata (e.g., `title`, `hideToc`), and reference docs are dynamically generated from spec files (`common-client-libs-sections.json`, language-specific YAML/JSON specs) via automated pipe
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
+
+- Docs are written in MDX with YAML frontmatter (e.g., `title`, `hideToc`) and stored in `apps/docs/content`, while reference docs are auto-generated from spec files (common/client-specific) via `spec/Makefil
 
 ## Use Cases
 

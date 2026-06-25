@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 7,986</p>
-        <p><b>Active:</b> 7,790 | <b>Inactive:</b> 196</p>
+        <p><b>Resources tracked:</b> 8,183</p>
+        <p><b>Active:</b> 7,984 | <b>Inactive:</b> 199</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 30,660</p>
+        <p><b>Archive Files:</b> 31,491</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-25 19:51 IST</p>
+        <p><b>Last Update:</b> 2026-06-25 21:00 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,28 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](ai/community/anthropic-says-alibaba-illicitly-extracted-claude.md)** • <kbd>+179 pts</kbd>
+- 🔼 **[Wikipedia Workers in Britain set global first by seeking union recognition](ai/community/wikipedia-workers-in-britain-set-global-first-by-s.md)** • <kbd>+78 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[GLM-5.2 is a step change for open agents](ai/community/glm-5-2-is-a-step-change-for-open-agents.md)** • <kbd>+64 pts</kbd>
+- 🔼 **[OpenAI unveils its first custom chip, built by Broadcom](ai/community/openai-unveils-its-first-custom-chip-built-by-broa.md)** • <kbd>+53 pts</kbd>
+- 🔼 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • <kbd>+29 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Tell HN: OpenAI has started putting ads on paid programs](ai/community/tell-hn-openai-has-started-putting-ads-on-paid-pro.md)** • Score: `67`
+- 🆕 **[OWASP Top 10 for LLM — AI Vendor Risk Assessment | PromptArmor](ai/rag/owasp-top-10-for-llm-ai-vendor-risk-assessment-pro.md)** • Score: `0`
+- 🆕 **[Dropbox's AI Transparency Center](ai/rag/dropbox-s-ai-transparency-center.md)** • Score: `0`
+- 🆕 **[bvaughn/react-window](ai/resources/bvaughn-react-window.md)** • Score: `0`
+- 🆕 **[AddyOsmani.com - Infinite Scroll without Layout Shifts](ai/rag/addyosmani-com-infinite-scroll-without-layout-shif.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[PR spam today looks like email spam in the early 2000s](ai/community/pr-spam-today-looks-like-email-spam-in-the-early-2.md)**
+- 💤 **[Markdy: Like Mermaid Diagrams, but for Motion](ai/community/markdy-like-mermaid-diagrams-but-for-motion.md)**
+- 💤 **[Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?](ai/community/show-hn-brain-frog-can-you-be-random-enough-for-11.md)**
+- 💤 **[Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported](ai/community/aisle-discovers-6-new-cves-in-curl-including-the-o.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

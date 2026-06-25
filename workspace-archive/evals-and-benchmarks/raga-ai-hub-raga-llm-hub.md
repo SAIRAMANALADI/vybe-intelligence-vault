@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM Evaluation Framework**: Provides structured methodologies for assessing large language model (LLM) performance across predefined benchmarks, including metrics for accuracy, bias, and robustness.
-- **Guardrails & Security**: Implements runtime controls to enforce safety policies, prevent prompt injection, and mitigate adversarial attacks via input/output validation and context-aware filtering.
-- **LLMOps Integration**: Supports deployment pipelines for LLMs with monitoring, logging, and c
+- **Purpose-built framework** for evaluating large language models (LLMs), implementing guardrails, and enforcing security protocols in Python-based workflows.
+- **Key features** include LLM evaluation metrics, real-time safety mechanisms, and security-oriented controls for production-grade deployments.
+- **Repository status** as of June 2026: 114 stars, 14 forks, actively maintained with the latest commit timestamped `2026-06-11T18:44:18Z`.
 
 ## Use Cases
 

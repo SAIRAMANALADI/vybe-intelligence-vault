@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) best practices for Vietnamese, including vector database integration (e.g., FAISS or Weaviate) and retrieval-augmented pipelines in Python.
-- **Key Components**: Features a modular architecture with document preprocessing (e.g., Vietnamese text normalization), embedding models (e.g., `vinai/phobert-base`), and retrieval-optimized query handling.
-- **Evaluation**: Includes benchmarking scripts for Vietnamese RAG tasks, compar
+*   Implements a Python-based retrieval-augmented generation (RAG) backend.
+*   Demonstrates RAG best practices specifically optimized for the Vietnamese language.
+*   Focuses on linguistic adaptation of RAG systems for specific language contexts.
 
 ## Use Cases
 

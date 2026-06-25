@@ -18,6 +18,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -36,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` (1536-dim default, 62.5k pages/$) and `text-embedding-3-large` (3072-dim default, 9.6k pages/$) offer lower costs, improved multilingual performance, and adjustable dimensions via API parameter for performance/cost trade-offs.
+- **Model Specifications**: New `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) embeddings offer lower costs, improved multilingual performance, and configurable dimensionality via the `dimensions` parameter, outperforming `text-embedding-ada-002` (61.0% vs. 62.3%/64.6% on MTEB benchmark).
 
-- **Embedding Mechanics**: Text strings are converted to floating-point vectors (embeddings) where cosine similarity quantifies semantic relatedness; dimensions can be reduced post-generation (e.g., to 256) while preser
+- **Technical Implementation**: Embeddings are L2-normalized vectors (default 1536/3072 dims) generated via API calls (`/v1/embeddings`) with tok
 
 ## Use Cases
 

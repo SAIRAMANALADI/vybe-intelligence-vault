@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom
 hn_url: https://news.ycombinator.com/item?id=48663324
-score: 714
+score: 767
 author: jamdesk
-comments_count: 402
+comments_count: 438
 published_at: '2026-06-24T23:17:00+05:30'
-collected_at: '2026-06-25T16:35:45.450824+05:30'
+collected_at: '2026-06-25T20:43:52.963783+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:openai-unveils-its-first-custom-chip-built-by-broa
 first_seen: '2026-06-25T16:35:45.450824+05:30'
-last_seen: '2026-06-25T16:35:45.450824+05:30'
-last_checked: '2026-06-25T16:35:45.450824+05:30'
+last_seen: '2026-06-25T20:43:52.963783+05:30'
+last_checked: '2026-06-25T20:43:52.963783+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by jamdesk. Score: 714, Comments: 402.
+Hacker News story by jamdesk. Score: 767, Comments: 438.
 Original Link: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: jamdesk
-- Score: 714 Upvotes
-- Comments: 402 Discussions
+- Score: 767 Upvotes
+- Comments: 438 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48663324
 - Original Article: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom
 

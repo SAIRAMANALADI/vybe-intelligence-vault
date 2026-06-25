@@ -12,9 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
-- reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; 88,719 GitHub stars (as of June 24, 2026).
-- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
-- **Development Workflow**: Includes embedded web server for real-time content/structure/behavior/presentation updates during development.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026) with an active community and frequent releases.
+- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds via advanced templating and fast asset pipelines.
+- **Features & Tooling**: Supports multilingual sites, powerful taxonomies, image/JS/Sass processing, TailwindCSS integration, and an embedded web server for real-time development.
 
 ## Use Cases
 

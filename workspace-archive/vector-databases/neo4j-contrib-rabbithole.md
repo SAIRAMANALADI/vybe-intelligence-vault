@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Embeddable Neo4j Console**: Provides an interactive, embeddable Neo4j browser console for Java applications, enabling in-process Cypher query execution and visualization.
-
-- **Java-Based Implementation**: Built entirely in Java, leveraging Neo4j's core libraries for seamless integration with Neo4j databases.
-
-- **Minimalist Design**: Focuses on core functionality without external dependencies, offering a lightweight solution for embedded Neo4j interaction.
+- **Embeddable Neo4j Console**: Provides an interactive, embeddable console for Neo4j, enabling in-process database interaction and management.
+- **Java-Based Implementation**: Fully implemented in Java, leveraging Neo4j's core libraries for seamless integration and performance.
+- **Last Updated (2026-03-07)**: Repository was last updated on March 7, 2026, indicating active maintenance and recent development.
 
 ## Use Cases
 

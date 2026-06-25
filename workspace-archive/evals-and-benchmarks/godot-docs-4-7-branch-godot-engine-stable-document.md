@@ -2,7 +2,7 @@
 title: Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://docs.godotengine.org
+source_url: https://docs.godotengine.org/en/
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
 local_vault_path: ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md
 quality_score: 70
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform game engine** with support for 2D/3D rendering, physics, shaders, and scripting (GDScript, C#, C++ via GDExtension), optimized for both desktop and mobile platforms.
+- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
 
-- **Modular architecture** with a lightweight core, avoiding STL/exceptions, and supporting ECS-like patterns without enforcing strict DOD, enabling extensibility via plugins and GDExtension.
+- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
 
-- **Versioning policy** follows semantic versioning (MAJOR.MINOR.PATCH), with LTS releases (e.g., 4.x) receiving 2+ years
+- **Rendering & ph
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.godotengine.org
+Original source URL: https://docs.godotengine.org/en/
 
 ## Local Vault File
 

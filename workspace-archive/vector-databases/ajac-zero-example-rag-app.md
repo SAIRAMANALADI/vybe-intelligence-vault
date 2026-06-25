@@ -8,12 +8,10 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: api
 importance: medium
 tags:
-- anthropic
 - github-repo
-- openai
 - rag
 - typescript
 selection_reason:
@@ -26,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: api
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
-- **Strict Type Safety & Testing**: Full TypeScript type-checking with 100% test coverage, ensuring robustness and developer confidence.
-- **Containerized Deployment**: Dockerized setup for scalable, reproducible RAG application deployment with modular architecture.
+*   RAG application featuring integrated LLM observability via Langfuse.
+*   Multi-provider LLM support enabled by LiteLLM, facilitating 100+ API integrations.
+*   Dockerized architecture with full TypeScript type-checking and 100% test coverage for robust deployment.
 
 ## Use Cases
 

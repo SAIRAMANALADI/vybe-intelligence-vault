@@ -2,21 +2,25 @@
 title: Retrieval-Augmented Generation (RAG) — RAG multi model documentation
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://rag.readthedocs.io
+source_url: https://rag.readthedocs.io/
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
+- meta-ai
+- mistral
+- models
 - rag
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -25,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Framework**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching and integrating external knowledge.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
 
-- **Implementation Components**: Modular Python-based system with `process_pdf.py` (PDF splitting/embedding), `question_handler.py` (Q&A chains), `summarizer.py` (document summarization), and `translator.py` (text translation), all orchestrated via Streamlit for UI.
+- **Modular Implementation**: Python-based system with distinct components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for PDF processing, Q&A, summarization, and translation, orchestrated via Streamlit for interactive UI.
+
+- **Multi-Model Integ
 
 ## Use Cases
 
@@ -44,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://rag.readthedocs.io
+Original source URL: https://rag.readthedocs.io/
 
 ## Local Vault File
 

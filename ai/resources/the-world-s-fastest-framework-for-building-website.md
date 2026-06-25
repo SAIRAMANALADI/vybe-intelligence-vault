@@ -4,18 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/
-published_at: '2026-06-25T16:40:06.597630+05:30'
-collected_at: '2026-06-25T16:40:06.597637+05:30'
+published_at: '2026-06-25T20:48:03.486569+05:30'
+collected_at: '2026-06-25T20:48:03.486583+05:30'
 tags:
 - frontend_ui
-- reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:the-world-s-fastest-framework-for-building-website
-first_seen: '2026-06-25T16:40:06.597637+05:30'
-last_seen: '2026-06-25T16:40:06.597637+05:30'
-last_checked: '2026-06-25T16:40:06.597637+05:30'
+first_seen: '2026-06-25T20:48:03.486583+05:30'
+last_seen: '2026-06-25T20:48:03.486583+05:30'
+last_checked: '2026-06-25T20:48:03.486583+05:30'
 health_score: 100
 ---
 
@@ -23,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; 88,719 GitHub stars (as of June 24, 2026).
-- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image processing, JS bundling, Sass, TailwindCSS).
-- **Development Workflow**: Includes embedded web server for real-time content/structure/behavior/presentation updates during development.
+- **Licensing & Adoption**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026) with an active community and frequent releases.
+- **Performance & Architecture**: Written in Go, optimized for speed; renders large sites in seconds via advanced templating and fast asset pipelines.
+- **Features & Tooling**: Supports multilingual sites, powerful taxonomies, image/JS/Sass processing, TailwindCSS integration, and an embedded web server for real-time development.
 
 ## Why It Matters
 
@@ -35,14 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:40:06.597630+05:30
+- Published: 2026-06-25T20:48:03.486569+05:30
 
 ## Related Tags
 
 - frontend_ui
-- reddit
 - web-crawled
-- workflows
 
 ## Source
 

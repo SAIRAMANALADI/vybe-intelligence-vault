@@ -4,13 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-25T16:37:19.911216+05:30'
-published_at: '2026-06-25T07:10:29Z'
+collected_at: '2026-06-25T20:45:18.048404+05:30'
+published_at: '2026-06-25T13:29:36Z'
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
-stars: 25491
+- workflows
+stars: 25492
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +22,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-25T16:37:19.911216+05:30'
-last_seen: '2026-06-25T16:37:19.911216+05:30'
-last_checked: '2026-06-25T16:37:19.911216+05:30'
+first_seen: '2026-06-25T20:45:18.048404+05:30'
+last_seen: '2026-06-25T20:45:18.048404+05:30'
+last_checked: '2026-06-25T20:45:18.048404+05:30'
 health_score: 100
 ---
 
@@ -28,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions with LLMs.
-- **Modular Python Framework**: Built with extensible components for document ingestion, retrieval, and LLM integration.
-- **Open-Source License**: Released under an open-source license, supporting community contributions and self-hosting.
+- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable conversational querying over uploaded documents, leveraging LLMs for contextual responses.
+- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
+- **Open-Source Deployment**: Supports self-hosting with Docker, includes REST API endpoints, and integrates with popular LLMs (e.g., Llama, Mistral) for customizable chatbot workflows.
 
 ## Why It Matters
 
@@ -39,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Cinnamon
-- Stars: 25491
+- Stars: 25492
 - Forks: 2123
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-06-25T07:10:29Z
+- Last Updated: 2026-06-25T13:29:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

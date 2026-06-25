@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://werkzeug.palletsprojects.com
-published_at: '2026-06-22T10:34:27.439962+05:30'
-collected_at: '2026-06-22T10:34:27.439975+05:30'
+published_at: '2026-06-25T20:50:13.445392+05:30'
+collected_at: '2026-06-25T20:50:13.445406+05:30'
 tags:
 - agents
 - reddit
 - web-crawled
 status: active
 resource_id: blog:werkzeug-werkzeug-documentation-3-1-x
-first_seen: '2026-06-22T10:34:27.439975+05:30'
-last_seen: '2026-06-22T10:34:27.439975+05:30'
-last_checked: '2026-06-22T10:34:27.439975+05:30'
+first_seen: '2026-06-25T20:50:13.445406+05:30'
+last_seen: '2026-06-25T20:50:13.445406+05:30'
+last_checked: '2026-06-25T20:50:13.445406+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **WSGI-compliant utility library**: Werkzeug is a WSGI-compliant web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or database adapters.
+- **WSGI-compliant utility library**: Werkzeug is a modular WSGI web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or databases.
 
-- **Modular request/response handling**: Implements mutable `Request` and `Response` wrappers with built-in support for header parsing, cookie management, form data parsing, and conditional responses via dedicated classes (`werkzeug.wrappers.Request`, `werkzeug.wrappers.Response`).
+- **Core components**: Includes request/response wrappers, URL routing (with rule-based dispatching), HTTP utilities (header parsing, cookies, form data), and WSGI helpers (environment manipulation, streaming responses).
 
-- **Middleware and deployment flexibility**: Includes middleware components (e.g., `ProxyFix`, `DispatcherMiddleware`) and supports deployment via WSGI servers (Gunicorn, uWSGI, Waitress) with SSL, Unix socket, and proxy-aware configurations.
+- **Deployment & debugging**: Supports production deployment via WSGI servers (Gunicorn, uWSGI, Waitress) and includes a built-in debugger, test client, and middleware for proxy fixes and profiling.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T10:34:27.439962+05:30
+- Published: 2026-06-25T20:50:13.445392+05:30
 
 ## Related Tags
 

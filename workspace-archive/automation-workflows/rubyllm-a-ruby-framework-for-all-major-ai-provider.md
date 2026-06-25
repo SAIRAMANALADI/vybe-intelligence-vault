@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by doener. Score: 393, Comments: 68.
+Hacker News story by doener. Score: 422, Comments: 71.
 Original Link: https://rubyllm.com/
 
 ## Use Cases

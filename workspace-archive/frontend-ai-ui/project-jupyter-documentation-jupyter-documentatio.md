@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
+- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing with computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
 
-- **Core components**: Includes user interfaces (JupyterLab, Jupyter Notebook), kernels (IPython, IRkernel, IJulia), notebook tools (nbformat, nbconvert, nbclient), and deployment solutions (JupyterHub, Docker Stacks).
+- **Core components**: Includes Jupyter Notebook (lightweight), JupyterLab (feature-rich IDE-like interface), kernels (e.g., IPython, IRkernel, IJulia), and tools for notebook lifecycle management (nbconvert, nbclient, nbformat).
 
-- **Sub-projects & standards
+- **Sub-projects & deployment**: Encompasses Ju
 
 ## Use Cases
 

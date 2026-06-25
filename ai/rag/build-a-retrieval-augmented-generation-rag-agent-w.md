@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-06-25T16:36:56.039481+05:30'
-collected_at: '2026-06-25T16:36:56.039495+05:30'
+published_at: '2026-06-25T20:44:54.683470+05:30'
+collected_at: '2026-06-25T20:44:54.683484+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-06-25T16:36:56.039495+05:30'
-last_seen: '2026-06-25T16:36:56.039495+05:30'
-last_checked: '2026-06-25T16:36:56.039495+05:30'
+first_seen: '2026-06-25T20:44:54.683484+05:30'
+last_seen: '2026-06-25T20:44:54.683484+05:30'
+last_checked: '2026-06-25T20:44:54.683484+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic decision-making, using tool calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling (retrieval vs. direct response) powered by NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for embeddings, and NeMo Retriever Reranking Model for relevance scoring).
 
-- **NVIDIA Nemotron Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output, async operations, and enterprise reliability; models are configured via LangChain's ChatNVIDIA connector with system prompts enforcing grounded, cited, and concise responses.
+- **Pipeline Components**: Implements a Retrieval Chain with vector database search (semantic indexing), hybrid retrieval, and LLM-grounded response generation, where the ReAct agent iteratively decides retrieval necessity and tool usage.
 
-- **Pipeline Components**: Includes data ingestion, text splitting, vector database storage, document retrieval/reranking, and retrieval chain tool integration, with the agent dynamically invoking retrieval only when additional context is required for accurate response generation.
+- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for tool binding, structured output (Pydantic), async operations, and enterprise-grade inference, with system prompts enforcing grounding, source citation, and role-specific behavior.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:36:56.039481+05:30
+- Published: 2026-06-25T20:44:54.683470+05:30
 
 ## Related Tags
 

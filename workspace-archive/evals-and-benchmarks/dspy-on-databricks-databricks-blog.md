@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Databricks AI Research (via DSPy)**: Introduces DSPy, a framework for optimizing language model (LM) prompts and weights, enabling programmatic, declarative, and self-improving LM pipelines for structured outputs and reasoning tasks.
+- **Databricks AI Research & DSPy Integration**: Introduces DSPy, a framework for optimizing LLM prompts and weights programmatically, enabling structured, reproducible AI pipelines with automatic prompt optimization (APO) and teleprompters for fine-tuning.
 
-- **Unified Data & AI Platform**: Core platform integrates data engineering, analytics, AI/ML, and governance (Unity Catalog) with serverless compute, enabling end-to-end workflows from ETL to GenAI deployment.
-
-- **Open Ecosystem & Marketplace**: Supports open
+- **Unified Lakehouse Platform**: Core Databricks platform consolidates data engineering, warehousing, AI/ML, and governance into a single environment, supporting batch/streaming ETL, GenAI deployments, and real-time analytics with Unity Cat
 
 ## Use Cases
 

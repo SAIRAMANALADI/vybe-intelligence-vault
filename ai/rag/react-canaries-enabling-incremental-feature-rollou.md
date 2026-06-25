@@ -5,15 +5,15 @@ source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2023/05/03/react-canaries
 published_at: '2023-05-03T00:00:00+05:30'
-collected_at: '2026-06-25T16:35:46.083210+05:30'
+collected_at: '2026-06-25T20:43:53.315547+05:30'
 tags:
 - frontend_ui
 - youtube
 status: active
 resource_id: blog:react-canaries-enabling-incremental-feature-rollou
 first_seen: '2026-06-18T23:27:42.208696+05:30'
-last_seen: '2026-06-25T16:35:46.083210+05:30'
-last_checked: '2026-06-25T16:35:46.083210+05:30'
+last_seen: '2026-06-25T20:43:53.315547+05:30'
+last_checked: '2026-06-25T20:43:53.315547+05:30'
 health_score: 100
 ---
 

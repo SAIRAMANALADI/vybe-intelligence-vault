@@ -2,17 +2,25 @@
 title: RUC-NLPIR/FlashRAG
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
+source_url: https://github.com/RUC-NLPIR/FlashRAG
 resource_id: github:ruc-nlpir/flashrag
 local_vault_path: ai/rag/ruc-nlpir-flashrag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
+tags:
+- benchmark
+- dataset
+- github-repo
+- python
+- rag
+- reddit
+- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # RUC-NLPIR/FlashRAG
@@ -21,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based framework designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Datasets**: Includes standardized benchmarks and datasets to evaluate RAG systems, enabling reproducible and comparative studies in retrieval-augmented generation tasks.
+- **Benchmark & Dataset Integration**: The toolkit includes standardized benchmarks and datasets to evaluate RAG systems, enabling reproducible and comparative studies across retrieval and generation tasks.
 
-- **Modular & Extensible**: Provides a modular architecture for integrating custom retrieva
+- **Modular & Extensible**: FlashRAG supports modular components (e.
 
 ## Use Cases
 
@@ -42,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/RUC-NLPIR/FlashRAG?source=post_page
+Original source URL: https://github.com/RUC-NLPIR/FlashRAG
 
 ## Local Vault File
 

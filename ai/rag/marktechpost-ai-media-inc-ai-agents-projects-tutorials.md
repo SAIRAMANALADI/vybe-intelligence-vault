@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-06-25T16:38:49.966246+05:30'
-published_at: '2026-06-25T07:42:33Z'
+collected_at: '2026-06-25T20:46:48.112604+05:30'
+published_at: '2026-06-25T14:49:53Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
-stars: 2730
+stars: 2733
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-06-24T19:09:32Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-06-25T16:38:49.966246+05:30'
-last_seen: '2026-06-25T16:38:49.966246+05:30'
-last_checked: '2026-06-25T16:38:49.966246+05:30'
+first_seen: '2026-06-25T20:46:48.112604+05:30'
+last_seen: '2026-06-25T20:46:48.112604+05:30'
+last_checked: '2026-06-25T20:46:48.112604+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and frameworks for agentic AI development.
-- **Memory & reasoning loops**: Includes tutorials on integrating memory architectures and iterative reasoning loops for enhanced agentic behavior.
-- **Jupyter Notebook-based**: All projects and tutorials are implemented in Jupyter Notebooks, covering agentic RAG, coding, and engineering applications.
+- **Multi-Agent Architectures**: Repository focuses on designing and implementing systems with multiple AI agents, emphasizing inter-agent communication, task delegation, and coordination mechanisms for complex workflows.
+
+- **Memory & Reasoning Loops**: Includes tutorials on integrating memory systems (short-term/long-term) and iterative reasoning loops to enhance agent decision-making, adaptability, and contextual awareness in dynamic environments.
+
+- **Agentic RAG & Workflows**: Demonstrates advanced Retrieval-Augmented Generation (RAG) techniques and agentic workflows for autonomous task execution, planning, and tool integration in Jupyter Notebook-based projects.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MARKTECHPOST-AI-MEDIA-INC
-- Stars: 2730
+- Stars: 2733
 - Forks: 599
 - Language: Jupyter Notebook
 - Topics: agent-skills, agentic-ai, agentic-ai-development, agentic-coding, agentic-engineering, agentic-framework, agentic-rag, agentic-workflow, ai, aiagent, aiagents
-- Last Updated: 2026-06-25T07:42:33Z
+- Last Updated: 2026-06-25T14:49:53Z
 - Archived: No
 - Created At: 2025-05-15T09:00:54Z
 - Pushed At: 2026-06-24T19:09:32Z

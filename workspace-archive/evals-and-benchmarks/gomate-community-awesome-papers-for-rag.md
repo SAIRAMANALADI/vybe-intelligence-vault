@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - paper
 - python
 - rag
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric**: Entirely Python-based, leveraging libraries like `transformers`, `langchain`, and `faiss` for RAG implementation and evaluation.
-- **Last Updated**: Repository synchronized with latest RAG advancements as of **2026-06-11**, ensuring relevance in fast-evolving domain.
+- **Curated RAG Resources**: Repository compiling peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Technical Scope**: Primarily Python-based, emphasizing empirical evaluations, benchmarks, and novel techniques for integrating retrieval mechanisms with generative models.
+- **Last Updated**: June 11, 2026, reflecting recent advancements in RAG research and implementation.
 
 ## Use Cases
 

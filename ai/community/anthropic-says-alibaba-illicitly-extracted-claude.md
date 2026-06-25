@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
 hn_url: https://news.ycombinator.com/item?id=48664814
-score: 450
+score: 629
 author: htrp
-comments_count: 782
+comments_count: 1008
 published_at: '2026-06-25T01:18:01+05:30'
-collected_at: '2026-06-25T16:35:45.281901+05:30'
+collected_at: '2026-06-25T20:43:52.607248+05:30'
 tags:
 - ai
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:anthropic-says-alibaba-illicitly-extracted-claude
 first_seen: '2026-06-25T16:35:45.281901+05:30'
-last_seen: '2026-06-25T16:35:45.281901+05:30'
-last_checked: '2026-06-25T16:35:45.281901+05:30'
+last_seen: '2026-06-25T20:43:52.607248+05:30'
+last_checked: '2026-06-25T20:43:52.607248+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by htrp. Score: 450, Comments: 782.
+Hacker News story by htrp. Score: 629, Comments: 1008.
 Original Link: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: htrp
-- Score: 450 Upvotes
-- Comments: 782 Discussions
+- Score: 629 Upvotes
+- Comments: 1008 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48664814
 - Original Article: https://reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
 

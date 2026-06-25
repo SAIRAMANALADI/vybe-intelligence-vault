@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Stream Processing & Real-time Analytics**: Python-based ETL framework enabling low-latency stream processing, real-time analytics, and time-series analysis with support for Kafka integration.
+- **Unified ETL & Stream Processing**: Python framework supporting both batch and real-time data pipelines with Kafka integration, optimized for low-latency analytics and time-series processing.
 
-- **LLM & RAG Pipelines**: Supports building and deploying large language model (LLM) pipelines and retrieval-augmented generation (RAG) workflows for AI-driven data processing.
+- **LLM & RAG Pipelines**: Native support for Large Language Model (LLM) workflows and Retrieval-Augmented Generation (RAG) systems, enabling dynamic data ingestion and transformation.
 
-- **Hybrid Batch/Stream Processing**: Combines batch and stream processing capabilities with Rust-based optimizations for hi
+- **Hybrid Rust-Python Architecture**: Leverages Rust for performance-critical components while maintaining Python usa
 
 ## Use Cases
 

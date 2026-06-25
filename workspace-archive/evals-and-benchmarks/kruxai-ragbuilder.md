@@ -6,19 +6,19 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 89
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
+- benchmark
 - github-repo
-- hackernews
 - models
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # KruxAI/ragbuilder
@@ -26,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 89 (essential)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized pipelines for data ingestion, indexing, and retrieval.
-
-- **Automated Optimization**: Implements techniques like dynamic chunking, embedding fine-tuning, and retrieval latency reduction to maximize RAG performance (e.g., precision, recall, latency) without manual tuning.
-
-- **Scalable Deployment**: Supports distri
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for optimal performance.
+- **Optimization Tools**: Includes utilities for benchmarking, fine-tuning, and validating RAG setups to ensure scalability and efficiency in real-world deployments.
+- **Integration Support**: Designed for seamless integration with GenAI frameworks and developer tools, supporting custom data ingestion a
 
 ## Use Cases
 

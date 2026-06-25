@@ -1,47 +1,42 @@
 ---
-title: Privacy Policy
+title: Privacy policy
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.datacamp.com/privacy-policy
+source_url: https://www.langchain.com/privacy-policy
 resource_id: blog:privacy-policy
 local_vault_path: ai/rag/privacy-policy.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- anthropic
-- benchmark
-- creative_dev
-- dataset
-- frontend_ui
 - hackernews
-- models
-- openai
-- paper
+- rag
+- reddit
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
 
-# Privacy Policy
+# Privacy policy
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Course Catalog Structure**: DataCamp organizes courses into skill levels (Beginner, Intermediate, Advanced) and domains (Data Engineering, Data Analysis, AI, Cloud, etc.), with dedicated paths for specific tools (Python, R, SQL, Power BI, Tableau) and concepts (ML, NLP, Data Visualization).
+- **Data Collection Scope**: Collects personal and business contact information (emails, payment details, roles), usage data (device specs, IP, browser), and third-party sourced data (marketing partners, social media interactions) for service operation, marketing, and compliance.
 
-- **Key Technical Domains Covered**: Includes foundational and advanced topics such as deep learning (PyTorch), cloud platforms (AWS, Azure), data pipelines (dbt, Airflow), statistical modeling (Bayesian
+- **Processing & Sharing**: Uses data for service provision, research, and legal compliance; shares with service providers, affiliates, authorities, and in business transfers (e.g., mergers) under contractual safeguard
 
 ## Use Cases
 
@@ -51,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.datacamp.com/privacy-policy
+Original source URL: https://www.langchain.com/privacy-policy
 
 ## Local Vault File
 

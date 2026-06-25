@@ -4,9 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-25T16:37:54.863134+05:30'
+collected_at: '2026-06-25T20:45:53.019731+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-25T16:37:54.863134+05:30'
-last_seen: '2026-06-25T16:37:54.863134+05:30'
-last_checked: '2026-06-25T16:37:54.863134+05:30'
+first_seen: '2026-06-25T20:45:53.019731+05:30'
+last_seen: '2026-06-25T20:45:53.019731+05:30'
+last_checked: '2026-06-25T20:45:53.019731+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: GitHub repository listing advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) applications.
-- **Scope**: Encompasses cutting-edge RAG methods for CV tasks such as image captioning, visual question answering (VQA), and cross-modal retrieval.
-- **Maintenance**: Last updated in **June 2026**, indicating active curation with potential inclusion of recent advancements in vision-language RAG architectures.
+- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and cross-modal retrieval methods.
+
+- **Scope & focus**: Encompasses cutting-edge RAG architectures, datasets, evaluation benchmarks, and tools for integrating **vision encoders** (e.g., ViT, CLIP) with **LLMs** to enhance visual question answering, image captioning, and scene understanding.
+
+- **Community & updates**: Maintained repository with **336 stars** and **9 forks**, last updated **June 25, 2026**; serves as a dynamic reference for researchers and practitioners in **multimodal AI**.
 
 ## Why It Matters
 

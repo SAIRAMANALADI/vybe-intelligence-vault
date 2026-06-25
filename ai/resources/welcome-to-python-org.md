@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.python.org/
-published_at: '2026-06-25T16:43:16.392683+05:30'
-collected_at: '2026-06-25T16:43:16.392692+05:30'
+published_at: '2026-06-25T20:51:49.873973+05:30'
+collected_at: '2026-06-25T20:51:49.873984+05:30'
 tags:
 - anthropic
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-to-python-org
-first_seen: '2026-06-25T16:43:16.392692+05:30'
-last_seen: '2026-06-25T16:43:16.392692+05:30'
-last_checked: '2026-06-25T16:43:16.392692+05:30'
+first_seen: '2026-06-25T20:51:49.873984+05:30'
+last_seen: '2026-06-25T20:51:49.873984+05:30'
+last_checked: '2026-06-25T20:51:49.873984+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- Python supports arithmetic operations with intuitive syntax (`+`, `-`, `*`, `/`, `//`, `**`), including true division (`/`) and floor division (`//`), with parentheses for grouping expressions.
-- Python’s compound data types (e.g., lists) enable indexed access, slicing, and manipulation via built-in functions, while list comprehensions provide concise transformations (e.g., `[fruit.upper() for fruit in fruits]`).
-- Python’s control flow includes standard constructs (`if`, `for`, `while`, `range`) and supports function definitions with optional/keyword arguments, enabling extensible and modular programming paradigms.
+- Python 3 supports **list comprehensions** (`[fruit.upper() for fruit in fruits]`) and **enumeration** (`enumerate(fruits)`) for compound data type manipulation.
+- **Control flow** in Python includes standard constructs (`if`, `for`, `while`, `range`) with additional features like **mandatory/optional arguments** and **keyword arguments** in functions.
+- Python’s **standard library** spans **AI/ML** (PyTorch, TensorFlow), **scientific computing** (SciPy, Pandas), **web frameworks** (Django, FastAPI), and **system administration tools** (Ansible, Salt).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:43:16.392683+05:30
+- Published: 2026-06-25T20:51:49.873973+05:30
 
 ## Related Tags
 

@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai/built-in
-published_at: '2026-06-24T22:57:00.414999+05:30'
-collected_at: '2026-06-24T22:57:00.415012+05:30'
+published_at: '2026-06-25T20:51:09.442809+05:30'
+collected_at: '2026-06-25T20:51:09.442830+05:30'
 tags:
 - hackernews
 - producthunt
 - rag
 - threejs
 - web-crawled
-- workflows
 status: active
 resource_id: blog:built-in-ai-ai-on-chrome-chrome-for-developers
-first_seen: '2026-06-24T22:57:00.415012+05:30'
-last_seen: '2026-06-24T22:57:00.415012+05:30'
-last_checked: '2026-06-24T22:57:00.415012+05:30'
+first_seen: '2026-06-25T20:51:09.442830+05:30'
+last_seen: '2026-06-25T20:51:09.442830+05:30'
+last_checked: '2026-06-25T20:51:09.442830+05:30'
 health_score: 100
 ---
 
@@ -25,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Nano Integration**: Chrome's built-in AI leverages Google's Gemini Nano for on-device AI tasks, enabling features like text translation, summarization, and content generation without server-side processing.
-- **API Suite for AI Workloads**: Chrome provides multiple APIs (e.g., Proofreader, Writer, Rewriter, Translator, Language Detector, Summarizer, Prompt) for client-side AI tasks, with support for polyfills and hybrid cloud/on-device workflows.
-- **Model Management & Best Practices**: Chrome handles on-device model downloads, updates, and caching, while offering guidance on streaming responses, debugging, and ethical AI implementation for optimal performance and user experience.
+- **Gemini Nano Integration**: Chrome's built-in AI leverages **Gemini Nano**, a lightweight model managed by the browser, enabling on-device AI tasks via APIs like summarization, translation, and text rewriting.
+- **API Ecosystem**: Chrome provides **origin-trial APIs** (e.g., `Proofreader`, `Writer`, `Translator`, `Summarizer`) for client-side AI tasks, with polyfills (`Prompt API`, `Task API`) for broader compatibility.
+- **Model Management**: Chrome handles **on-device model downloads, updates, and caching**, optimizing performance and user experience while enforcing technical/UX best practices (e.g., streaming responses, session management).
 
 ## Why It Matters
 
@@ -37,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:57:00.414999+05:30
+- Published: 2026-06-25T20:51:09.442809+05:30
 
 ## Related Tags
 
@@ -46,7 +45,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - threejs
 - web-crawled
-- workflows
 
 ## Source
 

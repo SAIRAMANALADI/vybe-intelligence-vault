@@ -1,45 +1,34 @@
 ---
-title: Privacy Policy
+title: Privacy policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.datacamp.com/privacy-policy
-published_at: '2026-06-23T10:04:58.507773+05:30'
-collected_at: '2026-06-23T10:04:58.507782+05:30'
+source_url: https://www.langchain.com/privacy-policy
+published_at: '2026-06-25T20:49:24.174604+05:30'
+collected_at: '2026-06-25T20:49:24.174623+05:30'
 tags:
 - agents
-- anthropic
-- benchmark
-- creative_dev
-- dataset
-- frontend_ui
 - hackernews
-- models
-- openai
-- paper
-- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
-- youtube
 status: active
 resource_id: blog:privacy-policy
-first_seen: '2026-06-23T10:04:58.507782+05:30'
-last_seen: '2026-06-23T10:04:58.507782+05:30'
-last_checked: '2026-06-23T10:04:58.507782+05:30'
+first_seen: '2026-06-25T20:49:24.174623+05:30'
+last_seen: '2026-06-25T20:49:24.174623+05:30'
+last_checked: '2026-06-25T20:49:24.174623+05:30'
 health_score: 100
 ---
 
-# Privacy Policy
+# Privacy policy
 
 ## Summary
 
-- **Course Catalog Structure**: DataCamp organizes courses into skill levels (Beginner, Intermediate, Advanced) and domains (Data Engineering, Data Analysis, AI, Cloud, etc.), with dedicated paths for specific tools (Python, R, SQL, Power BI, Tableau) and concepts (ML, NLP, Data Visualization).
+- **Data Collection Scope**: Collects personal and business contact information (emails, payment details, roles), usage data (device specs, IP, browser), and third-party sourced data (marketing partners, social media interactions) for service operation, marketing, and compliance.
 
-- **Key Technical Domains Covered**: Includes foundational and advanced topics such as deep learning (PyTorch), cloud platforms (AWS, Azure), data pipelines (dbt, Airflow), statistical modeling (Bayesian, regression), and MLOps (MLflow, monitoring).
+- **Processing & Sharing**: Uses data for service provision, research, and legal compliance; shares with service providers, affiliates, authorities, and in business transfers (e.g., mergers) under contractual safeguards.
 
-- **Specialized Tracks**: Offers niche certifications like financial modeling, prompt engineering, reinforcement learning (Gymnasium), and APIs (OpenAI, AWS Boto), alongside core data manipulation (pandas, SQL) and visualization (Seaborn, ggplot2) techniques.
+- **User Rights & Jurisdiction**: Grants GDPR/UK rights (access, rectification, erasure, portability) but may deny requests if conflicting with legal obligations (e.g., fraud prevention); processes data in the U.S. with cross-border safeguards.
 
 ## Why It Matters
 
@@ -49,27 +38,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:04:58.507773+05:30
+- Published: 2026-06-25T20:49:24.174604+05:30
 
 ## Related Tags
 
 - agents
-- anthropic
-- benchmark
-- creative_dev
-- dataset
-- frontend_ui
 - hackernews
-- models
-- openai
-- paper
-- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
-- youtube
 
 ## Source
 
-Original source: https://www.datacamp.com/privacy-policy
+Original source: https://www.langchain.com/privacy-policy

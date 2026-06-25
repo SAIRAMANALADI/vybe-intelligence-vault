@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-25T16:37:29.921812+05:30'
+collected_at: '2026-06-25T20:45:28.039559+05:30'
 published_at: '2026-06-17T07:23:12Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-25T16:37:29.921812+05:30'
-last_seen: '2026-06-25T16:37:29.921812+05:30'
-last_checked: '2026-06-25T16:37:29.921812+05:30'
+first_seen: '2026-06-25T20:45:28.039559+05:30'
+last_seen: '2026-06-25T20:45:28.039559+05:30'
+last_checked: '2026-06-25T20:45:28.039559+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Streamlit application demonstrating Retrieval Augmented Generation (RAG) workflows.
-*   Utilizes LangChain for orchestrating LLM interactions and document processing within the RAG pipeline.
-*   Features a vectorstore and hybrid search mechanism for efficient information retrieval.
+- **Hybrid RAG Implementation**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval.
+- **Streamlit UI**: Provides a real-time interactive interface for querying and visualizing RAG-based responses with LangChain’s retrieval and generation pipelines.
+- **Modular Pipeline**: Includes configurable components (embedding models, retrievers, LLMs) with example datasets, showcasing end-to-end RAG workflow in a production-ready Streamlit app.
 
 ## Why It Matters
 

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube
-published_at: '2026-06-25T16:40:11.347314+05:30'
-collected_at: '2026-06-25T16:40:11.347321+05:30'
+published_at: '2026-06-25T20:48:08.801069+05:30'
+collected_at: '2026-06-25T20:48:08.801083+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-google-for-developers
-first_seen: '2026-06-25T16:40:11.347321+05:30'
-last_seen: '2026-06-25T16:40:11.347321+05:30'
-last_checked: '2026-06-25T16:40:11.347321+05:30'
+first_seen: '2026-06-25T20:48:08.801083+05:30'
+last_seen: '2026-06-25T20:48:08.801083+05:30'
+last_checked: '2026-06-25T20:48:08.801083+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Embedded Player API**: Enables playback of YouTube videos directly in applications with customizable parameters via IFrame, iOS helper, and player parameters for tailored user experience.
+- **YouTube IFrame API**: Enables embedded video playback with customizable parameters for iOS and web applications via IFrame integration.
 
-- **Data API v3**: Facilitates search, upload, playlist management, and other core YouTube functionalities through structured endpoints, references, and code samples for integration.
+- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and user interactions through RESTful endpoints and code samples.
 
-- **Analytics & Live Streaming**: Provides reporting tools for user interaction insights and supports scheduling/managing live broadcasts via dedicated APIs and documentation.
+- **YouTube Analytics & Live Streaming APIs**: Provides channel performance metrics and supports live broadcast scheduling with real-time stream management.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:40:11.347314+05:30
+- Published: 2026-06-25T20:48:08.801069+05:30
 
 ## Related Tags
 

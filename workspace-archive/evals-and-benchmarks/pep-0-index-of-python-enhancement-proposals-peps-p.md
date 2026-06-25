@@ -6,7 +6,7 @@ source_url: https://peps.python.org/
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
 local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are permanently assigned unique numbers by editors, with version-controlled historical records maintained in a GitHub repository; numerical assignments are immutable.
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained in a GitHub repository; PEPs are categorized by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance, Packaging, Typing).
 
-- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details.
+- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, statuses, and categorizations.
 
-- **PEP Categorization**: PEPs are classified into statuses (e.g., Accepted, Finished, Rejected) and topics (e.g.,
+- **PEP Cate
 
 ## Use Cases
 

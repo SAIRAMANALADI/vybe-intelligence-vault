@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/azure-openai-rag-workshop-template
-collected_at: '2026-06-25T16:37:14.920352+05:30'
+collected_at: '2026-06-25T20:45:13.099238+05:30'
 published_at: '2026-03-04T07:23:59Z'
 tags:
 - github-repo
 - openai
 - rag
 - typescript
-- workflows
 stars: 21
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-11-07T15:26:56Z'
 pushed_at: '2024-06-11T20:54:41Z'
 resource_id: github:azure-samples/azure-openai-rag-workshop-template
-first_seen: '2026-06-25T16:37:14.920352+05:30'
-last_seen: '2026-06-25T16:37:14.920352+05:30'
-last_checked: '2026-06-25T16:37:14.920352+05:30'
+first_seen: '2026-06-25T20:45:13.099238+05:30'
+last_seen: '2026-06-25T20:45:13.099238+05:30'
+last_checked: '2026-06-25T20:45:13.099238+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a TypeScript-based template for implementing a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
-- **Structure**: Includes pre-configured components for vector search, document retrieval, and LLM integration to enable end-to-end RAG workflows.
-- **Workshop Focus**: Designed to guide users through deploying and customizing a ChatGPT-like system with Azure OpenAI and proprietary data.
+- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
+- **Tech Stack**: Implemented in TypeScript, leveraging Azure OpenAI for LLM integration and retrieval mechanisms.
+- **Structure**: Provides a workshop-based template with modular components for RAG pipelines, including data ingestion, vector storage, and chat interface.
 
 ## Why It Matters
 

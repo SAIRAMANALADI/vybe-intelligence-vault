@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
-published_at: '2026-06-25T16:44:26.405659+05:30'
-collected_at: '2026-06-25T16:44:26.405671+05:30'
+published_at: '2026-06-25T20:49:20.122256+05:30'
+collected_at: '2026-06-25T20:49:20.122271+05:30'
 tags:
 - frontend_ui
 - openai
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-25T16:44:26.405671+05:30'
-last_seen: '2026-06-25T16:44:26.405671+05:30'
-last_checked: '2026-06-25T16:44:26.405671+05:30'
+first_seen: '2026-06-25T20:49:20.122271+05:30'
+last_seen: '2026-06-25T20:49:20.122271+05:30'
+last_checked: '2026-06-25T20:49:20.122271+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- Supabase docs follow a structured taxonomy: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (short, procedural), and **Reference** (factual, parameter/return-type focused, auto-generated from spec files).
-- Docs are authored in **MDX** with YAML frontmatter for metadata (e.g., `title`, `hideToc`), and reference docs are dynamically generated from spec files (`common-client-libs-sections.json`, language-specific YAML/JSON specs) via automated pipelines.
-- Content reuse is enforced via **partials** (MDX snippets in `apps/docs/content/_partials`), while UI components (e.g., admonitions, Mermaid diagrams, tabs) adhere to strict formatting rules (e.g., `danger`/`note` admonitions, lowercase SQL, relative links).
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
+
+- Docs are written in MDX with YAML frontmatter (e.g., `title`, `hideToc`) and stored in `apps/docs/content`, while reference docs are auto-generated from spec files (common/client-specific) via `spec/Makefile` transformations, requiring library maintainers to merge changes to `master` for updates.
+
+- Reusable content is managed via **partials** in `apps/docs/content/_partials`, and custom components (e.g., admonitions, Mermaid diagrams, tabs) enforce strict styling/grammar rules (e.g., sentence-case headings, Oxford comma, American English) with automated linting (`supa-mdx-lint`) and CI-driven validation.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:26.405659+05:30
+- Published: 2026-06-25T20:49:20.122256+05:30
 
 ## Related Tags
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
-- **Technical Scope**: Focuses on key AI/ML concepts including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent-based architectures, implemented in Python.
-- **Community & Maintenance**: Highly active with **61,692 stars** and **7,609 forks**, last updated on **2026-06-2
+- **Educational Repository**: Provides a comprehensive tutorial on constructing AI agents from scratch, covering both theoretical principles and practical implementations.
+- **Technical Focus**: Integrates key AI concepts including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based architectures using Python.
+- **Open-Source Project**: Actively maintained (last updated June 2026) with 61.7k+ stars and 7.6k+ forks, indicating strong community engagement and collab
 
 ## Use Cases
 

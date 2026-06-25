@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-25T16:37:14.917267+05:30'
+collected_at: '2026-06-25T20:45:13.054413+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
 - scripts
 - workflows
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-25T16:37:14.917267+05:30'
-last_seen: '2026-06-25T16:37:14.917267+05:30'
-last_checked: '2026-06-25T16:37:14.917267+05:30'
+first_seen: '2026-06-25T20:45:13.054413+05:30'
+last_seen: '2026-06-25T20:45:13.054413+05:30'
+last_checked: '2026-06-25T20:45:13.054413+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a Generative AI Ops RAG (Retrieval-Augmented Generation) solution on Azure, leveraging Bicep for declarative resource provisioning.
-
-- **RAG Pipeline Integration**: Includes pre-configured components for RAG workflows, enabling seamless integration of vector databases, embedding models, and LLM endpoints for production-grade generative AI applications.
-
-- **GenAIOps Automation**: Designed for operationalizing generative AI with CI/CD, monitoring, and governance features, ensuring scalability, security, and maintainability in enterprise environments.
+- **Bicep-based IaC template** for deploying a **Generative AI Ops RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for GenAI workloads.
+- **Modular design** with reusable Bicep modules for core components (e.g., compute, storage, networking, and AI services) to streamline GenAI project deployments.
+- **Last updated (May 2026)** with support for **RAG workflows**, integrating Azure AI services (e.g., Azure OpenAI, Cognitive Search) for enhanced LLM-based applications.
 
 ## Why It Matters
 

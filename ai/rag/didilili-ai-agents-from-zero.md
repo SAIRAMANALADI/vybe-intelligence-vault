@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-25T16:38:49.947965+05:30'
-published_at: '2026-06-25T10:56:10Z'
+collected_at: '2026-06-25T20:46:48.071598+05:30'
+published_at: '2026-06-25T14:38:57Z'
 tags:
 - agents
 - github-repo
-- models
 - python
 - rag
 - workflows
-stars: 2202
+stars: 2211
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-25T16:38:49.947965+05:30'
-last_seen: '2026-06-25T16:38:49.947965+05:30'
-last_checked: '2026-06-25T16:38:49.947965+05:30'
+first_seen: '2026-06-25T20:46:48.071598+05:30'
+last_seen: '2026-06-25T20:46:48.071598+05:30'
+last_checked: '2026-06-25T20:46:48.071598+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Learning Path (2026)**: Covers LangChain, LangGraph, Coze, Dify, MCP, and skills, integrating LLM, RAG, prompt engineering, enterprise deployment, and fine-tuning for AI agent development roles.
+- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes hands-on projects, interview questions, and enterprise deployment/finetuning workflows.
 
-- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment workflows, and a curated interview question database aligned with AI application development engineer positions.
+- **Enterprise-Grade AI Development**: Integrates skills, LLM integration, RAG pipelines, and agent frameworks (e.g., LangChain/LangGraph) for scalable AI agent applications aligned with 2026 industry standards.
 
-- **Full-Stack AI Agent Development**: Bridges learning to deployment with modular components (skills, RAG, MCP) and supports Python-based frameworks for end-to-end AI agent lifecycle management.
+- **Full-Stack AI Agent Pipeline**: From zero-to-deploy workflows, covering development (Python), deployment, and production-grade optimization, with resources targeting roles like AI Application Development Engineer.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2202
-- Forks: 292
+- Stars: 2211
+- Forks: 293
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-06-25T10:56:10Z
+- Last Updated: 2026-06-25T14:38:57Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

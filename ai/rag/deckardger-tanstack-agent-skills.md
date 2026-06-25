@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-06-25T16:39:24.983937+05:30'
+collected_at: '2026-06-25T20:47:23.142803+05:30'
 published_at: '2026-06-23T14:06:56Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-06-25T16:39:24.983937+05:30'
-last_seen: '2026-06-25T16:39:24.983937+05:30'
-last_checked: '2026-06-25T16:39:24.983937+05:30'
+first_seen: '2026-06-25T20:47:23.142803+05:30'
+last_seen: '2026-06-25T20:47:23.142803+05:30'
+last_checked: '2026-06-25T20:47:23.142803+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
-
-- **Router Best Practices for AI Agents**: Implements dynamic routing strategies with TanStack Router to handle complex navigation flows, state management, and real-time updates in AI coding environments.
-
-- **Start Framework Integration**: Provides guidelines for initializing and structuring TanStack Start applications to maximize AI agent compatibility, including modular architecture and optimized build configurations.
+- **Optimized State Management**: Implements advanced caching, background updates, and stale-while-revalidate strategies in TanStack Query for efficient AI agent state synchronization.
+- **Dynamic Route Handling**: Utilizes TanStack Router for declarative route definitions and lazy-loaded components, enabling seamless navigation in AI-driven applications.
+- **Performance-Centric Startup**: Leverages TanStack Start for minimal bundle sizes and optimized hydration, reducing cold-start latency in AI coding agents.
 
 ## Why It Matters
 

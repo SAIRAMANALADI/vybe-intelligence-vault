@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking across regions (AU, EU, JP, US).
+- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, API Requests, Webhooks) with historical uptime metrics (e.g., 99.99% for Git Operations over 90 days).
 
-- **Recent Incidents**: Multiple high-impact outages reported (e.g., Copilot Next Edit Suggestions, Webhooks payload errors, Opus 4.8 model failures) with root causes linked to configuration changes, upstream provider issues, and feature-flag service failures.
+- **Incident Management** includes detailed post-mortems for past outages (e.g., Copilot Next Edit Suggestions degradation on June 23, 2026, due to routing layer misconfiguration; Webhooks payload issues on June 17, 2026, caused by missing installation data in 11.3% of deliveries).
 
-- **Notification & Integ
+- **No
 
 ## Use Cases
 

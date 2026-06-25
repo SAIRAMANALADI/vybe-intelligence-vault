@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/z2586300277/three-cesium-examples
-collected_at: '2026-06-25T16:35:44.975295+05:30'
+collected_at: '2026-06-25T20:43:52.478650+05:30'
 published_at: '2026-06-25T01:49:50Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: JavaScript
 status: active
 resource_id: github:z2586300277/three-cesium-examples
 first_seen: '2026-06-16T04:26:13.956597+00:00'
-last_seen: '2026-06-25T16:35:44.975295+05:30'
-last_checked: '2026-06-25T16:35:44.975295+05:30'
+last_seen: '2026-06-25T20:43:52.478650+05:30'
+last_checked: '2026-06-25T20:43:52.478650+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: z2586300277
 - Stars: 2086
-- Forks: 323
+- Forks: 324
 - Language: JavaScript
 - Topics: cesium, three, webgl
 - Last Updated: 2026-06-25T01:49:50Z

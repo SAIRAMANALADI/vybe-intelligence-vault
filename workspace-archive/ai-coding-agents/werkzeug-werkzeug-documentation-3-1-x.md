@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **WSGI-compliant utility library**: Werkzeug is a WSGI-compliant web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or database adapters.
+- **WSGI-compliant utility library**: Werkzeug is a modular WSGI web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or databases.
 
-- **Modular request/response handling**: Implements mutable `Request` and `Response` wrappers with built-in support for header parsing, cookie management, form data parsing, and conditional responses via dedicated classes (`werkzeug.wrappers.Request`
+- **Core components**: Includes request/response wrappers, URL routing (with rule-based dispatching), HTTP utilities (header parsing, cookies, form data), and WSGI helpers (environment manipulation, streaming responses).
+
+- **Deployment & debugging**: Supports
 
 ## Use Cases
 

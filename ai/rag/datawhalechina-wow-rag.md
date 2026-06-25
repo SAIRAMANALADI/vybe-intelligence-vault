@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-25T16:37:09.921880+05:30'
+collected_at: '2026-06-25T20:45:08.168196+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-25T16:37:09.921880+05:30'
-last_seen: '2026-06-25T16:37:09.921880+05:30'
-last_checked: '2026-06-25T16:37:09.921880+05:30'
+first_seen: '2026-06-25T20:45:08.168196+05:30'
+last_seen: '2026-06-25T20:45:08.168196+05:30'
+last_checked: '2026-06-25T20:45:08.168196+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of use.
+- **Framework Design**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, emphasizing modularity and ease of deployment across different environments.
 
-- **Key Features**: Supports plug-and-play components (e.g., embeddings, retrievers, LLMs) with minimal configuration, enabling rapid prototyping and experimentation.
+- **Core Components**: Includes retrieval mechanisms (e.g., vector databases, embeddings) and generative AI integration (e.g., LLM APIs) with pre-configured pipelines for rapid prototyping and experimentation.
 
-- **Tutorial-Driven**: Includes structured tutorials demonstrating end-to-end RAG pipelines, from document ingestion to query response generation.
+- **Tutorial-Driven**: Provides step-by-step guides and example notebooks for building custom RAG systems, covering data ingestion, indexing, retrieval strategies, and evaluation metrics.
 
 ## Why It Matters
 

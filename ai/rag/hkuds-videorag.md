@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-25T16:38:24.959337+05:30'
+collected_at: '2026-06-25T20:46:28.080887+05:30'
 published_at: '2026-06-25T01:35:18Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-25T16:38:24.959337+05:30'
-last_seen: '2026-06-25T16:38:24.959337+05:30'
-last_checked: '2026-06-25T16:38:24.959337+05:30'
+first_seen: '2026-06-25T20:46:28.080887+05:30'
+last_seen: '2026-06-25T20:46:28.080887+05:30'
+last_checked: '2026-06-25T20:46:28.080887+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (KDD'2026).
-
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to enhance video comprehension and query-based retrieval.
-
-- **Key Features**: Supports long-video understanding, multi-modal interactions, and efficient retrieval mechanisms, with last update on 2026-06-25.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query and chat with video content via multi-modal inputs.
+- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal capabilities to process and retrieve information from extended video sequences.
+- **KDD'2026 Contribution**: Proposes a novel approach for scalable, interactive video analysis, addressing challenges in long-video comprehension through retrieval-augmented techniques.
 
 ## Why It Matters
 
