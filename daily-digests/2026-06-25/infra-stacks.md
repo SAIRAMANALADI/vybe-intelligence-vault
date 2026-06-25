@@ -2,26 +2,26 @@
 title: "Luizgugss/infra-stacks"
 category: "Tooling"
 tech_stack: ["Docker", "Docker Compose", "Shell", "YAML"]
-quality_score: 6
+quality_score: 7
 rag_relevance: 5
-tags: ["self-hosting", "docker-compose", "infrastructure", "pre-configured", "production-ready"]
+tags: ["self-hosting", "docker-compose", "infrastructure", "pre-configured stacks", "devops"]
 source: "https://github.com/Luizgugss/infra-stacks"
-discovered_at: "2026-06-25T00:10:32Z"
+discovered_at: "2026-06-25T05:02:25Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-infra-stacks provides pre-configured Docker Compose stacks for self-hosting essential infrastructure tools like Chatwoot, Grafana, PostgreSQL, and Prometheus, simplifying deployment with minimal setup required.
+infra-stacks provides pre-configured Docker Compose stacks for self-hosting applications like Chatwoot, Grafana, PostgreSQL, and Prometheus, simplifying deployment with minimal setup required.
 
 ## Key Features
-- Pre-configured Docker Compose stacks for rapid deployment
-- Modular architecture enabling easy enable/disable of services
-- Multi-application support (Chatwoot, Grafana, PostgreSQL, Prometheus)
-- Community-contributed stack examples for inspiration
-- Production-ready configurations optimized for performance
+- Pre-configured Docker Compose stacks for popular applications
+- Modular architecture to enable/disable services as needed
+- Multi-application support for self-hosted environments
+- Simplified deployment with minimal configuration
+- Community-contributed stack examples
 
 ## Why It Matters for RAG Builders
-It accelerates the setup of essential infrastructure tools for AI/ML workflows by providing ready-to-use Docker stacks.
+It enables AI engineers to quickly deploy and manage self-hosted infrastructure components essential for RAG systems without complex setup.
 
 ## Tech Stack Deep Dive
 ### Docker
