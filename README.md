@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-25 16:53 IST</p>
+        <p><b>Last Update:</b> 2026-06-25 17:14 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,18 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[PR spam today looks like email spam in the early 2000s](ai/community/pr-spam-today-looks-like-email-spam-in-the-early-2.md)** • <kbd>+199 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Manage your Apple Account](ai/resources/manage-your-apple-account.md)** • Rank: <kbd>+955</kbd>
-- 🔼 **[Community Guide](ai/resources/community-guide.md)** • Rank: <kbd>+358</kbd>
-- 🔼 **[FastAPI - FastAPI](ai/rag/fastapi-fastapi.md)** • Rank: <kbd>+371</kbd>
-- 🔼 **[Get Docker | Docker Docs](ai/resources/get-docker-docker-docs.md)** • Rank: <kbd>+327</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[OpenAI unveils its first custom chip, built by Broadcom](ai/community/openai-unveils-its-first-custom-chip-built-by-broa.md)** • Score: `714`
-- 🆕 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](ai/community/anthropic-says-alibaba-illicitly-extracted-claude.md)** • Score: `450`
-- 🆕 **[RubyLLM: A Ruby framework for all major AI providers](ai/community/rubyllm-a-single-beautiful-ruby-framework-for-all.md)** • Score: `393`
-- 🆕 **[GLM-5.2 is a step change for open agents](ai/community/glm-5-2-is-a-step-change-for-open-agents.md)** • Score: `247`
-- 🆕 **[Wikipedia Workers in Britain set global first by seeking union recognition](ai/community/wikipedia-workers-in-britain-set-global-first-by-s.md)** • Score: `90`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[OpenAI and Broadcom unveil LLM-optimized inference chip](ai/community/openai-and-broadcom-unveil-llm-optimized-inference.md)**
-- 💤 **[Boffin claims Microsoft's "quantum leap" is invalid due to "basic Python errors"](ai/community/boffin-claims-microsoft-s-quantum-leap-is-invalid.md)**
-- 💤 **[Haystack | Haystack](ai/rag/haystack-haystack.md)**
-- 💤 **[For Most of the World, Open-Source AI Is the Only Way Forward](ai/community/for-most-of-the-world-open-source-ai-is-the-only-w.md)**
-- 💤 **[CAPTCHAs have failed for 20 years](ai/community/captchas-have-failed-for-20-years.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
