@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 49 resources matched in the intelligence vault.
+Active signals: 51 resources matched in the intelligence vault.
 Recently detected signals:
-- [langgenius/dify](../ai/rag/langgenius-dify.md) (Source: Unknown Source) - Collected 2026-06-22
-- [AI Agent Security & Control Platform | Oso for Agents](../ai/agents/ai-agent-security-control-platform-oso-for-agents.md) (Source: Unknown Source) - Collected 2026-06-22
-- [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) (Source: Unknown Source) - Collected 2026-06-22
-- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-22
-- [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) (Source: Unknown Source) - Collected 2026-06-22
+- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](../ai/rag/arxiv-2606-24937.md) (Source: Unknown Source) - Collected 2026-06-25
+- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Upskill your LLMs With Gradio MCP Servers](../ai/models/upskill-your-llms-with-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Building the Hugging Face MCP Server](../ai/models/building-the-hugging-face-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Five Big Improvements to Gradio MCP Servers](../ai/models/five-big-improvements-to-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,107 +75,112 @@ Recently detected signals:
 - Language: Unknown
 - Description: Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
 
-### 10. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+### 10. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
 - Language: Unknown
-- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
+- Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
 
 ### 11. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low-code/no-code capab...
 
-### 12. [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) ([GitHub](https://github.com/flux159/mcp-chat))
+### 12. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+- Stars: 0
+- Language: Unknown
+- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
+
+### 13. [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) ([GitHub](https://github.com/flux159/mcp-chat))
 - Stars: 0
 - Language: Unknown
 - Description: Open Source Generic MCP Client for testing & evaluating mcp servers and agents
 
-### 13. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
+### 14. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
 - Stars: 0
 - Language: Unknown
 - Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
 
-### 14. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md) ([GitHub](https://github.com/demcp/awesome-web3-mcp-servers))
+### 15. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md) ([GitHub](https://github.com/demcp/awesome-web3-mcp-servers))
 - Stars: 0
 - Language: Unknown
 - Description: DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain.
-
-### 15. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
 ### 16. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - Stars: 0
 - Language: Unknown
 - Description: Scan MCP servers for potential threats & security findings.
 
-### 17. [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) ([GitHub](https://github.com/deusdata/codebase-memory-mcp))
+### 17. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: DeusData/codebase-memory-mcp
+- Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
-### 18. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
+### 18. [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) ([GitHub](https://github.com/deusdata/codebase-memory-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static bin...
+
+### 19. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 
-### 19. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
+### 20. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
 - Stars: 0
 - Language: Unknown
 - Description: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug b...
 
-### 20. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
-- Stars: 0
-- Language: Unknown
-- Description: Security scanner for AI agents, MCP servers and agent skills.
-
-### 21. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
-- Stars: 0
-- Language: Unknown
-- Description: MCP server for AI-driven security pipelines
-
-### 22. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
+### 21. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
 - Description: AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
 
-### 23. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
+### 22. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
+- Stars: 0
+- Language: Unknown
+- Description: MCP server for AI-driven security pipelines
+
+### 23. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
+- Stars: 0
+- Language: Unknown
+- Description: Security scanner for AI agents, MCP servers and agent skills.
+
+### 24. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
 - Stars: 0
 - Language: Unknown
 - Description: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
 
-### 24. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
+### 25. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A production-ready Model Context Protocol (MCP) server that enables AI applications to seamlessly interact with Instagram Business accounts.
 
-### 25. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
-- Stars: 0
-- Language: Unknown
-- Description: A MCP server for using Semgrep to scan code for security vulnerabilities.
-
-### 26. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: Production ready MCP server with real-time search, extract, map & crawl.
-
-### 27. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+### 26. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
 - Stars: 0
 - Language: Unknown
 - Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
 
-### 28. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
+### 27. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
 - Stars: 0
 - Language: Unknown
 - Description: Security scanner for MCP servers
 
-### 29. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
+### 28. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
+- Stars: 0
+- Language: Unknown
+- Description: A MCP server for using Semgrep to scan code for security vulnerabilities.
+
+### 29. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: Production ready MCP server with real-time search, extract, map & crawl.
+
+### 30. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
 - Stars: 0
 - Language: Unknown
 - Description: Make your MCP servers secure and production ready
 
-### 30. [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) ([GitHub](https://github.com/modelcontextprotocol/servers))
+### 31. [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) ([GitHub](https://github.com/modelcontextprotocol/servers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: modelcontextprotocol/servers
@@ -200,4 +205,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-25T12:33:59.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

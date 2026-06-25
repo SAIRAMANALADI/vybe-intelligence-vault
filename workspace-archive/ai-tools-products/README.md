@@ -9,23 +9,23 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
-- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 - [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (framework - USEFUL Tier)
+- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
+- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 - [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (framework - USEFUL Tier)
 - [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (framework - USEFUL Tier)
-- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai)
-- [topoteretes/cognee](https://github.com/topoteretes/cognee)
+- [GitHub Docs](https://docs.github.com)
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 - [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills)
-- [GitHub Docs](https://docs.github.com)
+- [topoteretes/cognee](https://github.com/topoteretes/cognee)
+- [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai)
+- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-22 15:59 IST*
+*Last updated: 2026-06-25 12:36 IST*

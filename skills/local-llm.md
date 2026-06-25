@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 109 resources matched in the intelligence vault.
+Active signals: 123 resources matched in the intelligence vault.
 Recently detected signals:
-- [library](../ai/rag/library.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Community Providers: Ollama](../ai/rag/community-providers-ollama.md) (Source: Unknown Source) - Collected 2026-06-22
-- [run-locally-ollama.md](../ai/agents/run-locally-ollama-md.md) (Source: Unknown Source) - Collected 2026-06-22
-- [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](../ai/research/arxiv-2606-21428.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators](../ai/research/arxiv-2602-23334.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Beyond U-Net: A Latent-Representation-Aligned Skip-Free Backbone for Flow-Matching Speech Enhancement](../ai/research/arxiv-2606-24745.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Lightweight Transformer Models for On-Device Fault Detection: A Benchmark Study on Resource-Constrained Deployment](../ai/rag/arxiv-2606-24173.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR](../ai/rag/arxiv-2606-24169.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -50,30 +50,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, qu...
 
-### 5. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([GitHub](https://github.com/microsoft/autogen))
+### 5. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: microsoft/autogen
+- Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
 ### 6. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 0
 - Language: Unknown
 - Description: An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and testing.
 
-### 7. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
-- Stars: 0
-- Language: Unknown
-- Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
-
-### 8. [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md) ([GitHub](https://github.com/llamasearchai/openagi-customization))
+### 7. [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md) ([GitHub](https://github.com/llamasearchai/openagi-customization))
 - Stars: 0
 - Language: Unknown
 - Description: Enterprise-grade LLM inference gateway providing a unified, production-ready API for OpenAI and Ollama. Built with best practices in observability, security, resilience, and performance.
 
-### 9. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 8. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: huggingface/transformers
+- Description: # Patch release v5.12.1
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -95,4 +90,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-25T12:34:00.174840+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

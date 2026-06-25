@@ -8,14 +8,14 @@ AI coding agents represent the next leap in software engineering, moving from co
 
 ## Top Matched Resources
 
+- [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
+- [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (tool - USEFUL Tier)
-- [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- [golf-mcp/golf](https://github.com/golf-mcp/golf)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-06-22 15:58 IST*
+*Last updated: 2026-06-25 12:34 IST*

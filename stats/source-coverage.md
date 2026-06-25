@@ -4,11 +4,12 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 3263 |
-| huggingface | 854 |
+| arxiv | 3830 |
+| huggingface | 861 |
 | github | 398 |
 | nextjs.org | 64 |
 | react.dev | 23 |
+| importai.substack.com | 20 |
 | medium.com | 17 |
 | microsoft.com | 12 |
 | nist.gov | 10 |

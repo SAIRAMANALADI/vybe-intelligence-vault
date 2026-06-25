@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
-*   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
-*   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
-*   [Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems](https://arxiv.org/abs/2606.18837)
-*   [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](https://www.mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide)
-*   [Phi-Actor-Critic: Steering General-Sum Games to Pareto-Efficient Correlated Equilibria](https://arxiv.org/abs/2606.11284)
+*   [10 Best CrewAI Projects You Must Build in 2026](https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)
+*   [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks)
+*   [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](https://qubittool.com/blog/ai-agent-framework-comparison-2026)
+*   [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)
+*   [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

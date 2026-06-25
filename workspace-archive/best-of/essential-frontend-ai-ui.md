@@ -23,9 +23,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `85` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
 - **Selection Reason**: Useful for project building
 
-### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
+### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
+- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
+- **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
@@ -33,39 +38,34 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
+### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
+### [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
+- **Score**: `81` | **Path**: [`changoman-nextjs-mdx-blog.md`](../../web-development/nextjs/changoman-nextjs-mdx-blog.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
+### [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`ixartz-saas-boilerplate.md`](../../web-development/nextjs/ixartz-saas-boilerplate.md)
+- **Score**: `81` | **Path**: [`danybeltran-nextjs-typescript-and-postgresql.md`](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+### [enesien/venefish](https://github.com/enesien/venefish)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`nobruf-shadcn-landing-page.md`](../../web-development/nextjs/nobruf-shadcn-landing-page.md)
+- **Score**: `81` | **Path**: [`enesien-venefish.md`](../../web-development/nextjs/enesien-venefish.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`gonzalochale-saas-landing-template.md`](../../web-development/nextjs/gonzalochale-saas-landing-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`shadcnspace-shadcnspace.md`](../../web-development/nextjs/shadcnspace-shadcnspace.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-22 15:59 IST*
+*Last updated: 2026-06-25 12:36 IST*

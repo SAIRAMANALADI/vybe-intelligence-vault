@@ -9,13 +9,13 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 ## Top Matched Resources
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
-- [Community Providers: Ollama](https://ai-sdk.dev/providers/community-providers/ollama) (framework - USEFUL Tier)
 - [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (framework - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
+- [Community Providers: Ollama](https://ai-sdk.dev/providers/community-providers/ollama) (framework - USEFUL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (framework - USEFUL Tier)
-- [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056) (framework - USEFUL Tier)
 - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (framework - USEFUL Tier)
+- [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
-- [curiousily/AI-Bootcamp](https://github.com/curiousily/AI-Bootcamp)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio)
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph)
 - [Bhaskar-Kurasala/AI-Arch-Hub](https://github.com/Bhaskar-Kurasala/AI-Arch-Hub)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-22 15:58 IST*
+*Last updated: 2026-06-25 12:35 IST*

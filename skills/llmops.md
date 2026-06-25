@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 289 resources matched in the intelligence vault.
+Active signals: 329 resources matched in the intelligence vault.
 Recently detected signals:
-- [google/gemma-3-12b-it · Hugging Face](../ai/resources/huggingface-google-gemma-3-12b-it.md) (Source: Unknown Source) - Collected 2026-06-22
-- [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](../ai/resources/arxiv-2401-12178.md) (Source: Unknown Source) - Collected 2026-06-22
-- [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](../ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR](../ai/research/arxiv-2606-19791.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts](../ai/research/arxiv-2606-16845.md) (Source: Unknown Source) - Collected 2026-06-25
+- [A Training-Free Mixture-of-Agents Framework for Multi-Document Summarization using LLMs and Knowledge Graphs](../ai/rag/arxiv-2606-03867.md) (Source: Unknown Source) - Collected 2026-06-25
+- [When Language Overwrites Vision: Over-Alignment and Geometric Debiasing in Vision-Language Models](../ai/rag/arxiv-2605-08245.md) (Source: Unknown Source) - Collected 2026-06-25
+- [WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models](../ai/research/arxiv-2604-08558.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -41,15 +41,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Evaluation and Tracking for LLM Experiments and AI Agents
 
-### 3. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
-- Stars: 0
-- Language: Unknown
-- Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
-
-### 4. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
+### 3. [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) ([GitHub](https://github.com/googlecloudplatform/agent-starter-pack))
 - Stars: 0
 - Language: Unknown
 - Description: Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+
+### 4. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
+- Stars: 0
+- Language: Unknown
+- Description: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced a...
 
 ### 5. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
@@ -121,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-25T12:33:59.443954+05:30.251607+05:30.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

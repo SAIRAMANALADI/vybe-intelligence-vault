@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [The world's fastest framework for building websites](https://gohugo.io)
-*   [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started)
-*   [RPKI Dashboard](https://dashboard.rpki.ripe.net)
-*   [ShakeNet Web App: Raspberry Shakes' Community Portal](https://shakenet.raspberryshake.org/privacy)
-*   [Standalone SSO - Stytch Docs](https://stytch.com/docs/multi-tenant-auth/authentication/sso/standalone)
+*   [adrianhajdin/project_metaverse](https://github.com/adrianhajdin/project_metaverse)
+*   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
+*   [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants)
+*   [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio)
+*   [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

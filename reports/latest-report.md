@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-23T00:27:33.786380+05:30`
+Generated at: `2026-06-25T12:36:32.621416+05:30`
 
 ## Executive Summary
 
@@ -8,27 +8,31 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **How Long Prompts Block Other Requests - Optimizing LLM Performance** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/tngtech)) ([File](../ai/models/huggingface-blog-tngtech.md))
-- **Fine-tune Any LLM from the Hugging Face Hub with Together AI** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/togethercomputer)) ([File](../ai/models/huggingface-blog-togethercomputer.md))
-- **BigCodeArena: Judging code generations end to end with code executions** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/bigcode)) ([File](../ai/models/huggingface-blog-bigcode.md))
-- **AI for Food Allergies** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/hugging-science)) ([File](../ai/models/huggingface-blog-hugging-science.md))
-- **Building Deep Research: How we Achieved State of the Art** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/tavily)) ([File](../ai/models/huggingface-blog-tavily.md))
-- **Differential Transformer V2** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/microsoft)) ([File](../ai/models/huggingface-blog-microsoft.md))
-- **Building Blocks for Foundation Model Training and Inference on AWS** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/amazon)) ([File](../ai/models/huggingface-blog-amazon.md))
-- **Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality** - Score: `0` in category `ai/rag` ([Link](https://huggingface.co/blog/ibm-granite)) ([File](../ai/rag/huggingface-blog-ibm-granite.md))
-- **Direct Preference Optimization Beyond Chatbots** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/dharma-ai)) ([File](../ai/models/huggingface-blog-dharma-ai.md))
-- **Introducing North Mini Code: Cohere’s First Model For Developers** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/coherelabs)) ([File](../ai/models/huggingface-blog-coherelabs.md))
-- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
+- **Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.23604)) ([File](../ai/rag/arxiv-2606-23604.md))
+- **AI Fiction in the Wild** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.22748)) ([File](../ai/research/arxiv-2606-22748.md))
+- **On the Position Bias of On-Policy Distillation** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.22600)) ([File](../ai/rag/arxiv-2606-22600.md))
+- **Diffusion Integrated Gradients: Controllable Path Generation for Flexible Feature Attribution** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.22314)) ([File](../ai/research/arxiv-2606-22314.md))
+- **MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.22220)) ([File](../ai/research/arxiv-2606-22220.md))
+- **Alternate loss functions and regression models that achieve robustness to outliers by modulating the learning rate** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.22068)) ([File](../ai/research/arxiv-2606-22068.md))
+- **Skills for the future software profession: beyond agentic AI!** - Score: `0` in category `ai/agents` ([Link](https://arxiv.org/abs/2606.21894)) ([File](../ai/agents/arxiv-2606-21894.md))
+- **Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.21428)) ([File](../ai/research/arxiv-2606-21428.md))
+- **Sexualised synthetic personas encode and amplify gendered power asymmetries through voice** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.21366)) ([File](../ai/research/arxiv-2606-21366.md))
+- **Topological Neural Dynamics: A Neuron-wise Framework for Sequence Modeling** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.21295)) ([File](../ai/research/arxiv-2606-21295.md))
+- **HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.20189)) ([File](../ai/rag/arxiv-2606-20189.md))
+- **Cross-Dataset, Age, and Gender Generalization: A Comprehensive Analysis of Fine-Tuning Strategies for Low-Resource Children's ASR** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.19791)) ([File](../ai/research/arxiv-2606-19791.md))
+- **FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.10124)) ([File](../ai/research/arxiv-2606-10124.md))
+- **AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.09831)) ([File](../ai/research/arxiv-2606-09831.md))
+- **Page image classifier fine-tuned on century-spanning archives of scanned documents for further content-specific processing** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.07558)) ([File](../ai/research/arxiv-2606-07558.md))
 
 ## Top Trending Resources
 
-- **The Medium Blog** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/the-medium-blog.md))
-- **Medium Status** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/medium-status.md))
+No trending resources with score/rank increases detected.
+
 
 ## 🚀 Fastest Rising Tools
 
-- **The Medium Blog** - (Rank Change: `+4`) ([File](../ai/rag/the-medium-blog.md))
-- **Medium Status** - (Rank Change: `+1`) ([File](../ai/rag/medium-status.md))
+No rising tools detected in this run.
+
 
 ## 🔄 Essential Tier Transitions
 

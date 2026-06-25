@@ -1,6 +1,6 @@
 ---
 title: 'React Canaries: Enabling Incremental Feature Rollout Outside Meta'
-category: web-development
+category: ai/rag
 source_type: rss
 source_name: React Blog
 source_url: https://react.dev/blog/2023/05/03/react-canaries
@@ -16,6 +16,7 @@ last_seen: '2026-06-25T12:31:10.370031+05:30'
 last_checked: '2026-06-25T12:31:10.370031+05:30'
 health_score: 100
 ---
+
 
 # React Canaries: Enabling Incremental Feature Rollout Outside Meta
 

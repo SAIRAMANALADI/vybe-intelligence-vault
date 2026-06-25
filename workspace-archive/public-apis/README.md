@@ -8,14 +8,14 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
-- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
-- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
-- [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
-- [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (framework - USEFUL Tier)
-- [Build third-party apps with Bitbucket Cloud REST API | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api) (tutorial - USEFUL Tier)
-- [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (tutorial - USEFUL Tier)
+- [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
+- [Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs) (framework - USEFUL Tier)
+- [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks) (framework - USEFUL Tier)
+- [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) (mcp-server - USEFUL Tier)
+- [Integrating with Bitbucket Cloud](https://developer.atlassian.com/bitbucket) (tutorial - USEFUL Tier)
+- [Marketplace search results and rankings](https://developer.atlassian.com/platform/marketplace/marketplace-search-results-and-rankings) (benchmark - USEFUL Tier)
+- [Platform Marketplace](https://developer.atlassian.com/platform/marketplace) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -37,4 +37,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-22 15:59 IST*
+*Last updated: 2026-06-25 12:36 IST*

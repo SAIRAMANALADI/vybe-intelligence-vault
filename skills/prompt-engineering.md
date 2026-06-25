@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 139 resources matched in the intelligence vault.
+Active signals: 160 resources matched in the intelligence vault.
 Recently detected signals:
-- [[2401.12178] In-Context Learning for Extreme Multi-Label Classification](../ai/resources/arxiv-2401-12178.md) (Source: Unknown Source) - Collected 2026-06-22
-- [DSPy](../ai/rag/dspy.md) (Source: Unknown Source) - Collected 2026-06-22
-- [learning](../ai/agents/learning.md) (Source: Unknown Source) - Collected 2026-06-22
-- [DSPy on Databricks | Databricks Blog](../ai/rag/dspy-on-databricks-databricks-blog.md) (Source: Unknown Source) - Collected 2026-06-22
-- [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts](../ai/research/arxiv-2606-16845.md) (Source: Unknown Source) - Collected 2026-06-25
+- [MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment](../ai/rag/arxiv-2509-14001.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Rule2Text: A Framework for Generating and Evaluating Natural Language Explanations of Knowledge Graph Rules](../ai/rag/arxiv-2508-10971.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Grounding Multi-Hop Reasoning in Structural Causal Models via Group Relative Policy Optimization](../ai/research/arxiv-2605-01482.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Grounded Chess Reasoning in Language Models via Master Distillation](../ai/rag/arxiv-2603-20510.md) (Source: Unknown Source) - Collected 2026-06-25
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -43,7 +43,7 @@ Recently detected signals:
 ### 3. [asgeirtj/system_prompts_leaks](../ai/trending/asgeirtj-system-prompts-leaks.md) ([GitHub](https://github.com/asgeirtj/system_prompts_leaks))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: asgeirtj/system_prompts_leaks
+- Description: Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravit...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -65,4 +65,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T15:58:22.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-25T12:33:59.335293+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

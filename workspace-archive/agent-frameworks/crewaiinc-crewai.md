@@ -1,7 +1,7 @@
 ---
 title: 'crewAIInc/crewAI Release: 1.14.8a2'
 archive_category: agent-frameworks
-source_category: ai/agents
+source_category: ai/rag
 source_url: https://github.com/crewaiinc/crewai
 resource_id: github:crewaiinc/crewai
 local_vault_path: ai/rag/crewaiinc-crewai.md
