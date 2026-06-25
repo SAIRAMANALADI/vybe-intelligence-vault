@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-06-25T22:57:17.575108+05:30'
-published_at: '2026-06-25T17:10:31Z'
+collected_at: '2026-06-26T01:56:24.317652+05:30'
+published_at: '2026-06-25T17:36:19Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - html
 - scripts
-stars: 3729
+stars: 3730
 language: HTML
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-06-25T22:57:17.575108+05:30'
-last_seen: '2026-06-25T22:57:17.575108+05:30'
-last_checked: '2026-06-25T22:57:17.575108+05:30'
+first_seen: '2026-06-26T01:56:24.317652+05:30'
+last_seen: '2026-06-26T01:56:24.317652+05:30'
+last_checked: '2026-06-26T01:56:24.317652+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories, with a submission process for community contributions.
-- **Technical Stack**: Primarily HTML-based, supporting Docker, MCP, multi-agent systems, and no-code configurations; integrates with Anthropic, Claude, and Telegram bot frameworks.
-- **Metadata**: 3,729 stars, 607 forks, last updated 2026-06-25; categorized under AI automation, LLM, productivity, and OpenClaw-specific tools.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories, with a submission process for new templates.
+- **Technical Stack**: Primarily HTML-based, integrating Docker for containerization, MCP for multi-agent orchestration, and supports no-code automation via SOUL.md.
+- **Community & Metadata**: 3,730 stars, 607 forks, last updated June 25, 2026; includes tags for AI agents, Anthropic, LLM, multi-agent systems, and Telegram bot integrations.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3729
+- Stars: 3730
 - Forks: 607
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-06-25T17:10:31Z
+- Last Updated: 2026-06-25T17:36:19Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

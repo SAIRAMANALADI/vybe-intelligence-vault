@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/
-published_at: '2026-06-25T20:48:03.982178+05:30'
-collected_at: '2026-06-25T20:48:03.982192+05:30'
+published_at: '2026-06-26T01:57:29.970194+05:30'
+collected_at: '2026-06-26T01:57:29.970207+05:30'
 tags:
 - hackernews
 - scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-06-25T20:48:03.982192+05:30'
-last_seen: '2026-06-25T20:48:03.982192+05:30'
-last_checked: '2026-06-25T20:48:03.982192+05:30'
+first_seen: '2026-06-26T01:57:29.970207+05:30'
+last_seen: '2026-06-26T01:57:29.970207+05:30'
+last_checked: '2026-06-26T01:57:29.970207+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Markup & Syntax Support**: Supports reStructuredText and MyST Markdown for structured technical documentation, including tables, code blocks, math notations, and cross-references via roles/directives.
+- **Documentation Generation**: Sphinx supports reStructuredText and MyST Markdown for structured technical documentation, with output formats including HTML, LaTeX (PDF), ePub, and Texinfo, enabling cross-referencing, tables, code blocks, and mathematical notations.
 
-- **Multi-Format Generation & Theming**: Outputs documentation in HTML, LaTeX (PDF), ePub, Texinfo, etc., with extensive built-in/third-party theme support and customization via `sphinxsetup`.
+- **Extensibility & Automation**: Provides robust extension mechanisms (built-in and third-party) for custom functionality, automatic API documentation generation from docstrings (Python, C++, etc.), and theme customization for visually appealing outputs.
 
-- **Extensibility & Automation**: Provides robust extension APIs (built-in/third-party) for features like API doc generation (via `autodoc`), internationalization (i18n), and inter-project cross-referencing (`intersphinx`).
+- **Internationalization & Community**: Supports multi-language documentation via i18n, includes command-line tools, configuration options, and is actively maintained with community-driven support, contributions, and extensive documentation resources.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T20:48:03.982178+05:30
+- Published: 2026-06-26T01:57:29.970194+05:30
 
 ## Related Tags
 

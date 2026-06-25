@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-06-25T22:57:22.609798+05:30'
+collected_at: '2026-06-26T01:56:34.381835+05:30'
 published_at: '2026-06-24T15:06:11Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 6455
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-06-25T22:57:22.609798+05:30'
-last_seen: '2026-06-25T22:57:22.609798+05:30'
-last_checked: '2026-06-25T22:57:22.609798+05:30'
+first_seen: '2026-06-26T01:56:34.381835+05:30'
+last_seen: '2026-06-26T01:56:34.381835+05:30'
+last_checked: '2026-06-26T01:56:34.381835+05:30'
 health_score: 100
 ---
 
@@ -30,15 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to relevant data via semantic search and retrieval-augmented generation (RAG) pipelines.
+- **Open-source context retrieval layer**: Provides a modular, Python-based SDK for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) for enhanced LLM performance.
 
-- **Key Features**:
-  - Supports **enterprise data connectors** for seamless integration with structured/unstructured sources (e.g., databases, APIs, documents).
-  - Implements **semantic search** and **vector-based retrieval** to dynamically augment LLM prompts with contextual information.
+- **Multi-protocol data connectors**: Supports semantic search, structured/unstructured retrieval, and real-time API integrations (e.g., SQL, REST, vector DBs) via a unified interface for RAG workflows.
 
-- **Technical Stack**:
-  - Primarily written in **Python** with SDKs for extensibility.
-  - Enables **real-time context retrieval** via a RESTful API, optimizing agent performance for enterprise-scale applications.
+- **Enterprise-ready features**: Includes authentication, rate limiting, and caching, optimized for scalable, low-latency retrieval in production AI agent infrastructures.
 
 ## Why It Matters
 

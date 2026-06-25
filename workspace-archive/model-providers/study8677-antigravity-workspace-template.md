@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
-- **Unified knowledge engine**: Integrates RAG, MCP servers, and knowledge graphs to provide context-aware responses across Python-based AI IDEs.
-- **IDE-agnostic plugin**: Designed for extensibility, supporting OpenAI models, Copilot, and Windsurf while maintaining compatibility with existing developer workflows.
+- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, integrating with AI IDEs (Claude Code, Cursor, Codex CLI) for enhanced developer workflows.
+
+- **Knowledge engine architecture**: Implements a RAG-based system with MCP servers, Python SDK, and OpenAI compatibility to construct a searchable knowledge graph over code repositories.
+
+- **IDE-agnostic plugin model**: Provides a template for deploying multi-agent systems across IDEs (i
 
 ## Use Cases
 

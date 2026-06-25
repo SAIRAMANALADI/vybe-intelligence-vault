@@ -9,6 +9,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
 | [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
 | [Announcing Dart 3.9 | The Dart Blog](https://blog.dart.dev/announcing-dart-3-9-ba49e8f38298) | `mcp-registry/` | 70 |
+| [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) | `mcp-registry/` | 70 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
 | [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) | `mcp-registry/` | 70 |
 | [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) | `mcp-registry/` | 70 |
 | [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
 | [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
-| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

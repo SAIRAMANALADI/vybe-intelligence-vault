@@ -4,13 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-25T22:55:57.484612+05:30'
+collected_at: '2026-06-26T01:55:09.294769+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 92
 language: Python
 status: active
@@ -19,9 +22,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-25T22:55:57.484612+05:30'
-last_seen: '2026-06-25T22:55:57.484612+05:30'
-last_checked: '2026-06-25T22:55:57.484612+05:30'
+first_seen: '2026-06-26T01:55:09.294769+05:30'
+last_seen: '2026-06-26T01:55:09.294769+05:30'
+last_checked: '2026-06-26T01:55:09.294769+05:30'
 health_score: 100
 ---
 
@@ -29,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated on **2026-06-22**.
-- **Technical Scope**: Provides curated guidelines and implementations for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and integration with LLMs.
-- **Repository Metrics**: 92 stars, 10 forks, and no additional topics specified.
+- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on large language models (LLMs) with techniques like query reformulation, chunking strategies, and retrieval tuning.
+
+- **Modular Implementation**: Includes modular components for document preprocessing, vector storage (e.g., FAISS, Chroma), and LLM integration, enabling scalable and customizable RAG workflows.
+
+- **Evaluation & Benchmarking**: Offers tools for assessing RAG performance via metrics like answer relevance, context precision, and latency, with sample datasets for reproducibility.
 
 ## Why It Matters
 

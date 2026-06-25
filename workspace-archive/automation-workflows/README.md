@@ -10,9 +10,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (benchmark - ESSENTIAL Tier)
+- [LlamaIndex · GitHub](https://github.com/run-llama/) (framework - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
@@ -22,9 +22,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 https://github.com/n8n-io/n8n (n8n)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- [langgenius/dify](https://github.com/langgenius/dify)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- [LlamaIndex · GitHub](https://github.com/run-llama/)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [cli/cli](https://github.com/cli/cli#installation)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-25 23:11 IST*
+*Last updated: 2026-06-26 02:10 IST*

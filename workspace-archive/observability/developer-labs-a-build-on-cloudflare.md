@@ -2,7 +2,7 @@
 title: "Developer Labs â\x80\x94 Build on Cloudflare"
 archive_category: observability
 source_category: ai/rag
-source_url: https://labs.cloudflare.dev
+source_url: https://labs.cloudflare.dev/
 resource_id: blog:developer-labs-a-build-on-cloudflare
 local_vault_path: ai/rag/developer-labs-a-build-on-cloudflare.md
 quality_score: 70
@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Serverless API Architecture**: Cloudflare Workers enables building HTTP APIs using serverless functions, leveraging Cloudflare's global edge network for low-latency execution.
+- **Serverless API Architecture**: Utilizes Cloudflare Workers to build a serverless HTTP API for bookmark management, leveraging edge computing for low-latency responses.
 
-- **Integrated Storage & AI**: Supports KV storage for persistent data, D1 (SQLite-compatible database) for relational data, and Workers AI for on-edge inference (e.g., embeddings, LLMs).
+- **Integrated Storage & AI**: Combines Cloudflare KV for key-value storage, D1 for SQL-based relational data, and Workers AI for on-device machine learning inference (e.g., text processing).
 
-- **Lab-Driven Development**: Provides 7 hands-on labs (e.g., routing, KV/D1 integration, AI inference) to prototype and deploy a
+- **Multi-Lab Development Pipeline**: Follows a structured 7-lab workflow (via [Cloudflare Labs](https://labs.cloudflare.dev/workers))
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://labs.cloudflare.dev
+Original source URL: https://labs.cloudflare.dev/
 
 ## Local Vault File
 

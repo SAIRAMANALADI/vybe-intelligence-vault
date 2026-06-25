@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain overview - Docs by LangChain
@@ -30,15 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
-- LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop workflows, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
-- Standardized model interfaces and incremental middleware-based customization allow portable, scalable agent development with minimal code c
+- `create_agent` in LangChain provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
+
+- The framework offers a standard model interface for cross-provider compatibility and a highly configurable harness (`create_ag
 
 ## Use Cases
 

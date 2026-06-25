@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained in a GitHub repository; PEPs are categorized by status (e.g., Accepted, Finished, Rejected) and topic (e.g., Governance, Packaging, Typing).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with their version-controlled history stored in a GitHub repository; metadata is exposed via a public JSON API (`peps.json`) for programmatic access.
 
-- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, statuses, and categorizations.
+- **Categorization Framework**: PEPs are systematically categorized (e.g., Process, Informational, Provisional) with subindices for topics like governance, packaging, and typing; statuses include "Accepted," "Finished," or "Rejected."
 
-- **PEP Cate
+- **Structured PEP Types**: PEPs follo
 
 ## Use Cases
 

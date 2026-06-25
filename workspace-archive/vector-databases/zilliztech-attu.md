@@ -8,7 +8,7 @@ local_vault_path: ai/rag/zilliztech-attu.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: api
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: api
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Attu**: A web-based GUI designed for Milvus, a vector database, providing an intuitive interface for database management and visualization.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs and web technologies for frontend interaction.
-- **Features**: Enables users to perform CRUD operations, monitor cluster health, and visualize vector data relationships within Milvus deployments.
+- **Attu**: A web-based GUI designed for Milvus, a vector database, providing a user-friendly interface for database management and operations.
+- **Technical Stack**: Primarily implemented in Shell, with integration capabilities for Milvus-specific functionalities (e.g., collection management, data querying).
+- **Repository Metrics**: 2,993 stars, 217 forks, last updated June 25, 2026; categorized under `attu`, `milvus`, and `vector-database` topics.
 
 ## Use Cases
 

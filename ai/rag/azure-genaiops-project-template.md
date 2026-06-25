@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-25T22:55:27.546744+05:30'
+collected_at: '2026-06-26T01:54:39.325699+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-25T22:55:27.546744+05:30'
-last_seen: '2026-06-25T22:55:27.546744+05:30'
-last_checked: '2026-06-25T22:55:27.546744+05:30'
+first_seen: '2026-06-26T01:54:39.325699+05:30'
+last_seen: '2026-06-26T01:54:39.325699+05:30'
+last_checked: '2026-06-26T01:54:39.325699+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Azure/GenAIOps-project-template provides an Infrastructure-as-Code (IaC) foundation for deploying Generative AI Operations (GenAIOps) with Retrieval-Augmented Generation (RAG) pipelines using Bicep.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Generative AI Ops with Retrieval-Augmented Generation (RAG) architecture, enabling automated provisioning of Azure resources (e.g., AI services, storage, networking) for scalable GenAI workflows.
 
-- **Components**: The template includes modular Bicep definitions for Azure resources such as compute, networking, and AI services to support scalable RAG workflows.
+- **Modular Design**: Structured as a reusable project template with configurable parameters (e.g., resource names, SKUs, deployment regions) to adapt to varying GenAI Ops requirements while maintaining consistency across environments.
 
-- **Deployment**: Designed for Azure environments, enabling automated provisioning of GenAIOps infrastructure with minimal configuration overhead.
+- **CI/CD-Ready**: Includes GitHub Actions workflows for automated testing, validation, and deployment of the Bicep template, ensuring infrastructure parity and operational efficiency in GenAI pipelines.
 
 ## Why It Matters
 

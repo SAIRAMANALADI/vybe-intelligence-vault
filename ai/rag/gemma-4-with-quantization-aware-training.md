@@ -3,9 +3,9 @@ title: Gemma 4 with quantization-aware training
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
-published_at: '2026-06-24T20:47:14.859665+05:30'
-collected_at: '2026-06-24T20:47:14.859677+05:30'
+source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
+published_at: '2026-06-26T02:02:17.566109+05:30'
+collected_at: '2026-06-26T02:02:17.566120+05:30'
 tags:
 - deepmind
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemma-4-with-quantization-aware-training
-first_seen: '2026-06-24T20:47:14.859677+05:30'
-last_seen: '2026-06-24T20:47:14.859677+05:30'
-last_checked: '2026-06-24T20:47:14.859677+05:30'
+first_seen: '2026-06-26T02:02:17.566120+05:30'
+last_seen: '2026-06-26T02:02:17.566120+05:30'
+last_checked: '2026-06-26T02:02:17.566120+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Quantization-Aware Training (QAT)**: Integrates quantization into training to minimize quality loss, outperforming Post-Training Quantization (PTQ) while reducing memory footprint and accelerating inference for Gemma 4 models.
+- **Quantization-Aware Training (QAT) Integration**: Gemma 4 models now use QAT to simulate quantization during training, minimizing quality loss and outperforming standard Post-Training Quantization (PTQ) in preserving model performance while reducing memory footprint.
 
-- **Mobile-Optimized Quantization**: Custom schema for edge devices with static activations, channel-wise quantization, targeted 2-bit quantization for token generation layers, and KV cache optimization, reducing Gemma 4 E2B to **<1GB** memory usage.
+- **Mobile-Optimized Compression**: Custom mobile quantization schema includes static activations, channel-wise quantization, targeted 2-bit quantization for token generation layers, and KV cache optimization, reducing Gemma 4 E2B memory footprint to **<1GB** for efficient on-device deployment.
 
-- **Deployment & Tooling Support**: QAT checkpoints available in Q4_0 and mobile formats via Hugging Face, with integrations for llama.cpp, Ollama, LM Studio, LiteRT-LM, Transformers.js, SGLang, vLLM, and MLX for local/edge deployment.
+- **Multi-Format Deployment Support**: QAT checkpoints released in Q4_0 and mobile formats, compatible with GGUF (llama.cpp), vLLM, and frameworks like MLX (Apple Silicon), with optimized runtimes (LiteRT-LM, Transformers.js) for edge and web deployment.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:47:14.859665+05:30
+- Published: 2026-06-26T02:02:17.566109+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+Original source: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/

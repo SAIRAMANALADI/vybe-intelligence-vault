@@ -2,22 +2,23 @@
 title: Welcome to Python.org
 archive_category: ai-browser-computer-use
 source_category: ai/resources
-source_url: https://www.python.org
+source_url: https://www.python.org/
 resource_id: blog:welcome-to-python-org
 local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
 - producthunt
 - reddit
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Welcome to Python.org
@@ -26,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Python supports arithmetic operations with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and floating-point division, with syntax resembling mathematical expressions.
-- Python’s list comprehensions enable concise transformations and enumerations, e.g., `[fruit.upper() for fruit in fruits]` and `list(enumerate(fruits))`.
-- Python 3.15.0 beta 3 released alongside security patches for API authentication bypass in python.org download metadata.
+- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations (e.g., `[fruit.upper() for fruit in fruits]`).
+- **Control flow** includes `if`, `for`, `while`, and `range`, with **function definitions** supporting mandatory/optional arguments, keyword arguments, and variable-length parameter lists.
+- Python integrates with **AI/ML** (PyTorch, TensorFlow), **web frameworks** (Django, FastAPI), and *
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.python.org
+Original source URL: https://www.python.org/
 
 ## Local Vault File
 

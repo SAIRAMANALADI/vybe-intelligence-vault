@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-06-25T22:58:07.591989+05:30'
+collected_at: '2026-06-26T01:57:14.347384+05:30'
 published_at: '2026-06-25T11:10:57Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - unknown
+- workflows
 stars: 2464
 language: Unknown
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-06-25T22:58:07.591989+05:30'
-last_seen: '2026-06-25T22:58:07.591989+05:30'
-last_checked: '2026-06-25T22:58:07.591989+05:30'
+first_seen: '2026-06-26T01:57:14.347384+05:30'
+last_seen: '2026-06-26T01:57:14.347384+05:30'
+last_checked: '2026-06-26T01:57:14.347384+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and mechanisms for agent coordination in AI coding assistants, emphasizing system prompts and prompt engineering techniques.
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, ensuring safe and controlled interactions within coding environments.
-- **Claude Integration**: Explores the integration of Claude-based models within agentic AI systems, optimizing their performance for coding and research tasks.
+- **Prompt Pattern Reconstruction**: Analyzes and reconstructs system prompts for agentic AI coding assistants, focusing on modular, reusable prompt structures to enhance agent coordination and task delegation.
+
+- **Agent Coordination Mechanisms**: Investigates multi-agent architectures, including role specialization, communication protocols, and conflict resolution strategies for collaborative AI-driven coding workflows.
+
+- **Security Classification Framework**: Proposes a security taxonomy for agentic AI systems, categorizing risks (e.g., prompt injection, data leakage) and mitigation techniques (e.g., sandboxing, access controls).
 
 ## Why It Matters
 

@@ -1,43 +1,68 @@
 ---
-title: Sign in to GitHub · GitHub
+title: cloudflare/cloudflare-docs
 category: ai/resources
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx
-published_at: '2026-06-25T22:59:33.156846+05:30'
-collected_at: '2026-06-25T22:59:33.156853+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/cloudflare/cloudflare-docs
+collected_at: '2026-06-26T01:59:11.876073+05:30'
+published_at: '2026-06-25T20:20:56Z'
 tags:
-- web-crawled
+- github-repo
+- hackernews
+- mdx
+stars: 4867
+language: MDX
 status: active
+license: CC-BY-4.0
+archived: false
+created_at: '2020-09-03T20:29:26Z'
+pushed_at: '2026-06-25T19:49:54Z'
 resource_id: github:cloudflare/cloudflare-docs
-first_seen: '2026-06-25T22:59:33.156853+05:30'
-last_seen: '2026-06-25T22:59:33.156853+05:30'
-last_checked: '2026-06-25T22:59:33.156853+05:30'
+first_seen: '2026-06-26T01:59:11.876073+05:30'
+last_seen: '2026-06-26T01:59:11.876073+05:30'
+last_checked: '2026-06-26T01:59:11.876073+05:30'
 health_score: 100
 ---
 
-# Sign in to GitHub · GitHub
+# cloudflare/cloudflare-docs
 
 ## Summary
 
-- **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process.
-- **Recovery Option**: Users can reset their password via the provided "Forgot password?" link if access is lost.
-- **Alternative Sign-In**: GitHub supports passkey-based authentication as an alternative to traditional credentials.
+- **Repository Overview**: Hosts Cloudflare’s official documentation, written in MDX (Markdown + JSX) for dynamic content rendering.
+- **Metadata**: 4,867 stars, 15,290 forks; actively maintained (last update: 2026-06-25).
+- **Technical Stack**: Supports Markdown/MDX, includes topics like `cloudflare`, `docs`, and `hacktoberfest` for community contributions.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/resources
-- Published: 2026-06-25T22:59:33.156846+05:30
+- Owner: cloudflare
+- Stars: 4867
+- Forks: 15290
+- Language: MDX
+- Topics: cloudflare, docs, hacktoberfest, markdown, mdx
+- Last Updated: 2026-06-25T20:20:56Z
+- License: CC-BY-4.0
+- Archived: No
+- Created At: 2020-09-03T20:29:26Z
+- Pushed At: 2026-06-25T19:49:54Z
 
-## Related Tags
+## Possible Use Cases
 
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx
+Original source: https://github.com/cloudflare/cloudflare-docs

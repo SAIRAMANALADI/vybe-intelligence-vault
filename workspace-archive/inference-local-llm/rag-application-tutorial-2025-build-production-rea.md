@@ -3,13 +3,13 @@ title: 'RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmente
   Generation Systems · System Debug'
 archive_category: inference-local-llm
 source_category: ai/rag
-source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
+source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: high
 tags:
 - agents
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like FAISS or Supabase), retrieval (hybrid dense/sparse search), and LLM integration (LangChain/PyTorch) with latency benchmarks targeting <500ms end-to-end.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., fine-tuned models, quantization) for contextual grounding.
 
-- **Production Optimization**: Key strategies involve adaptive chunking (semantic-aware), embedding quantization (e.g., 8-bit), vector DB indexing (HNSW/PQ), caching (Redis), and load balancing across GPU/CPU inference
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), load balancing (multi-model inference), and latency reduction via Cloudflare Workers for scalab
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://sysdebug.com/posts/rag-application-tutorial-production-guide
+Original source URL: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
 
 ## Local Vault File
 

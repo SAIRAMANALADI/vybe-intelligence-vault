@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,252</p>
-        <p><b>Active:</b> 8,051 | <b>Inactive:</b> 201</p>
+        <p><b>Resources tracked:</b> 8,306</p>
+        <p><b>Active:</b> 8,100 | <b>Inactive:</b> 206</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 31,717</p>
+        <p><b>Archive Files:</b> 31,902</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 01:30 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 02:10 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+223 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Political bias in AI: Where the AI models stand](ai/community/political-bias-in-ai-where-the-ai-models-stand.md)** • <kbd>+42 pts</kbd> • Rank: <kbd>+5</kbd>
+- 🔼 **[Python Developer’s Guide](ai/rag/python-developers-guide.md)** • Rank: <kbd>+584</kbd>
+- 🔼 **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** • Rank: <kbd>+1305</kbd>
+- 🔼 **[Shows | web.dev](ai/resources/shows-web-dev.md)** • Rank: <kbd>+2549</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • Score: `58`
+- 🆕 **[Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](ai/community/decrazyo-anes.md)** • Score: `56`
+- 🆕 **[The annotated PyTorch training loop](ai/community/the-annotated-pytorch-training-loop.md)** • Score: `23`
+- 🆕 **[python/cpython](ai/resources/python-cpython.md)** • Score: `0`
+- 🆕 **[Lighthouse CPU Throttling Calculator](ai/resources/lighthouse-cpu-throttling-calculator.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[OpenAI unveils its first custom chip, built by Broadcom](ai/community/openai-unveils-its-first-custom-chip-built-by-broa.md)**
+- 💤 **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](ai/community/anthropic-says-alibaba-illicitly-extracted-claude.md)**
+- 💤 **[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors](ai/community/ford-ai-hiccups-push-carmaker-to-rehire-gray-beard.md)**
+- 💤 **[GLM-5.2 is a step change for open agents](ai/community/glm-5-2-is-a-step-change-for-open-agents.md)**
+- 💤 **[Wikipedia Workers in Britain set global first by seeking union recognition](ai/community/wikipedia-workers-in-britain-set-global-first-by-s.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

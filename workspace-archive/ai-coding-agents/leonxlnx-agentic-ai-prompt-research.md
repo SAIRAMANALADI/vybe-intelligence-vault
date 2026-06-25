@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and mechanisms for agent coordination in AI coding assistants, emphasizing system prompts and prompt engineering techniques.
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, ensuring safe and controlled interactions within coding environments.
-- **Claude Integration**: Explores the integration of Claude-based models within agentic AI systems, optimizin
+- **Prompt Pattern Reconstruction**: Analyzes and reconstructs system prompts for agentic AI coding assistants, focusing on modular, reusable prompt structures to enhance agent coordination and task delegation.
+
+- **Agent Coordination Mechanisms**: Investigates multi-agent architectures, including role specialization, communication protocols, and conflict resolution strategies for collaborative AI-driven coding workflows.
+
+- **Security Classification Framework**: Proposes a security taxonomy for
 
 ## Use Cases
 

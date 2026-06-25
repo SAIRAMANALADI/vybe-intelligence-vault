@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-06-25T16:41:09.554574+05:30'
+collected_at: '2026-06-26T01:58:32.211815+05:30'
 published_at: '2026-06-25T08:49:24Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-06-25T16:41:09.554574+05:30'
-last_seen: '2026-06-25T16:41:09.554574+05:30'
-last_checked: '2026-06-25T16:41:09.554574+05:30'
+first_seen: '2026-06-26T01:58:32.211815+05:30'
+last_seen: '2026-06-26T01:58:32.211815+05:30'
+last_checked: '2026-06-26T01:58:32.211815+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Attu**: A web-based GUI designed for Milvus, a vector database, providing an intuitive interface for database management and visualization.
-- **Technical Stack**: Primarily implemented in Shell, with dependencies on Milvus APIs and web technologies for frontend interaction.
-- **Features**: Enables users to perform CRUD operations, monitor cluster health, and visualize vector data relationships within Milvus deployments.
+- **Attu**: A web-based GUI designed for Milvus, a vector database, providing a user-friendly interface for database management and operations.
+- **Technical Stack**: Primarily implemented in Shell, with integration capabilities for Milvus-specific functionalities (e.g., collection management, data querying).
+- **Repository Metrics**: 2,993 stars, 217 forks, last updated June 25, 2026; categorized under `attu`, `milvus`, and `vector-database` topics.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/ai-sdk-preview-rag
-collected_at: '2026-06-25T22:55:27.499236+05:30'
-published_at: '2026-06-18T19:17:50Z'
+collected_at: '2026-06-26T01:54:34.256989+05:30'
+published_at: '2026-06-25T20:17:51Z'
 tags:
 - frontend_ui
 - github-repo
@@ -15,13 +15,13 @@ stars: 409
 language: TypeScript
 status: active
 license: MIT
-archived: false
+archived: true
 created_at: '2024-07-10T16:28:52Z'
 pushed_at: '2026-04-19T20:34:23Z'
 resource_id: github:vercel-labs/ai-sdk-preview-rag
-first_seen: '2026-06-25T22:55:27.499236+05:30'
-last_seen: '2026-06-25T22:55:27.499236+05:30'
-last_checked: '2026-06-25T22:55:27.499236+05:30'
+first_seen: '2026-06-26T01:54:34.256989+05:30'
+last_seen: '2026-06-26T01:54:34.256989+05:30'
+last_checked: '2026-06-26T01:54:34.256989+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM generation for enhanced contextual responses.
-
-- **Next.js Integration**: Built as a Next.js application, leveraging server components and Vercel's edge/network optimizations for scalable RAG pipelines.
-
-- **Modular Architecture**: Uses `@ai-sdk/react` and `@ai-sdk/rag-core` for core RAG operations, with TypeScript strict typing and modular document processing pipelines.
+- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM generation in a Next.js application.
+- **Tech Stack**: Built with TypeScript, leveraging Next.js for frontend/backend, and the AI SDK for structured LLM interactions and tooling.
+- **Key Features**: Supports dynamic document retrieval, context-aware generation, and modular architecture for extensibility (updated June 2026).
 
 ## Why It Matters
 
@@ -46,9 +44,9 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 84
 - Language: TypeScript
 - Topics: ai-sdk, nextjs, rag
-- Last Updated: 2026-06-18T19:17:50Z
+- Last Updated: 2026-06-25T20:17:51Z
 - License: MIT
-- Archived: No
+- Archived: Yes
 - Created At: 2024-07-10T16:28:52Z
 - Pushed At: 2026-04-19T20:34:23Z
 

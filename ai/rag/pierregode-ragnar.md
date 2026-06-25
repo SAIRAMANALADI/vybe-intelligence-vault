@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-06-25T22:56:27.519514+05:30'
-published_at: '2026-06-25T16:26:42Z'
+collected_at: '2026-06-26T01:55:34.246411+05:30'
+published_at: '2026-06-25T18:20:54Z'
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
-stars: 637
+- workflows
+stars: 638
 language: Python
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-11-01T03:12:25Z'
 pushed_at: '2026-06-24T04:07:33Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-06-25T22:56:27.519514+05:30'
-last_seen: '2026-06-25T22:56:27.519514+05:30'
-last_checked: '2026-06-25T22:56:27.519514+05:30'
+first_seen: '2026-06-26T01:55:34.246411+05:30'
+last_seen: '2026-06-26T01:55:34.246411+05:30'
+last_checked: '2026-06-26T01:55:34.246411+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Ragnar**: A Python-based offensive security tool for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Discovers network targets, enumerates open ports, identifies exposed services, and detects vulnerabilities.
-- **Metadata**: 637 stars, 58 forks, last updated 2026-06-25.
+- **Purpose & Functionality**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment, including target discovery, port scanning, service enumeration, and vulnerability detection.
+
+- **Technical Stack**: Implemented in Python, leveraging modular design for extensibility and integration with offensive security workflows.
+
+- **Hardware Integration**: Utilizes a 2.13-inch e-Paper HAT for low-power, high-contrast display of scan results, optimized for portable security operations.
 
 ## Why It Matters
 
@@ -40,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 637
+- Stars: 638
 - Forks: 58
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T16:26:42Z
+- Last Updated: 2026-06-25T18:20:54Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z

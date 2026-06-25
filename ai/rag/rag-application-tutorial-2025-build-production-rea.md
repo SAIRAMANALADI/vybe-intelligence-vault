@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-25T22:55:09.436401+05:30'
-collected_at: '2026-06-25T22:55:09.436409+05:30'
+published_at: '2026-06-26T01:54:19.053715+05:30'
+collected_at: '2026-06-26T01:54:19.053725+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-25T22:55:09.436409+05:30'
-last_seen: '2026-06-25T22:55:09.436409+05:30'
-last_checked: '2026-06-25T22:55:09.436409+05:30'
+first_seen: '2026-06-26T01:54:19.053725+05:30'
+last_seen: '2026-06-26T01:54:19.053725+05:30'
+last_checked: '2026-06-26T01:54:19.053725+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; LangChain provides modular implementation for retrieval and generation phases.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., fine-tuned models, quantization) for contextual grounding.
 
-- **Production Optimization Techniques**: Hybrid search (dense + sparse retrieval), query expansion/rewriting, and caching strategies reduce latency; load balancing across multiple models and deployment via Cloudflare Workers enhance scalability.
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), load balancing (multi-model inference), and latency reduction via Cloudflare Workers for scalable, low-latency deployments.
 
-- **Monitoring & Cost Trade-offs**: Integration with Sentry for observability, token usage optimization (e.g., truncation, selective retrieval), and benchmarking latency vs. performance to balance cost (e.g., API calls) and accuracy.
+- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage/latency metrics, and balances cost-performance trade-offs (e.g., model selection, retrieval depth) while preventing hallucinations via retrieval validation and post-processing checks.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T22:55:09.436401+05:30
+- Published: 2026-06-26T01:54:19.053715+05:30
 
 ## Related Tags
 

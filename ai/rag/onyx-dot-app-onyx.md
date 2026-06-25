@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/onyx
-collected_at: '2026-06-25T22:55:42.488795+05:30'
-published_at: '2026-06-25T17:15:48Z'
+collected_at: '2026-06-26T01:54:49.246335+05:30'
+published_at: '2026-06-25T20:19:39Z'
 tags:
 - frontend_ui
 - github-repo
@@ -18,11 +18,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-27T06:04:01Z'
-pushed_at: '2026-06-25T17:17:20Z'
+pushed_at: '2026-06-25T20:23:09Z'
 resource_id: github:onyx-dot-app/onyx
-first_seen: '2026-06-25T22:55:42.488795+05:30'
-last_seen: '2026-06-25T22:55:42.488795+05:30'
-last_checked: '2026-06-25T22:55:42.488795+05:30'
+first_seen: '2026-06-26T01:54:49.246335+05:30'
+last_seen: '2026-06-26T01:54:49.246335+05:30'
+last_checked: '2026-06-26T01:54:49.246335+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-LLM Integration**: Open-source AI chat platform supporting **any LLM** (e.g., ChatGPT, open-source models) via modular backend architecture, enabling seamless switching between providers while maintaining consistent frontend UI.
+- **Multi-LLM Compatibility**: Open-source AI platform supporting integration with any large language model (LLM) via standardized APIs, enabling flexible deployment across diverse AI backends.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements **Retrieval-Augmented Generation (RAG)** with vector-based semantic search (likely using FAISS/Weaviate/Pinecone) for low-latency, context-aware responses in large-scale deployments.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search for enterprise-grade information retrieval and context-aware AI responses.
 
-- **Full-Stack Architecture**: Combines **Next.js (React)** frontend with **Python (FastAPI/Flask)** backend, supporting self-hosting, enterprise search integration, and advanced features like conversation history, multi-modal input, and plugin extensibility.
+- **Next.js + Python Stack**: Hybrid frontend (Next.js) and backend (Python) architecture with self-hosting capabilities, optimized for scalable, low-latency AI chat interactions.
 
 ## Why It Matters
 
@@ -47,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 4190
 - Language: Python
 - Topics: ai, ai-chat, chatgpt, chatui, enterprise-search, gen-ai, information-retrieval, llm, llm-ui, nextjs, python, rag, self-hosted, vector-search
-- Last Updated: 2026-06-25T17:15:48Z
+- Last Updated: 2026-06-25T20:19:39Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-27T06:04:01Z
-- Pushed At: 2026-06-25T17:17:20Z
+- Pushed At: 2026-06-25T20:23:09Z
 
 ## Possible Use Cases
 

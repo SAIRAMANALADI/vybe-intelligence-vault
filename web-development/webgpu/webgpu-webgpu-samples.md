@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/webgpu/webgpu-samples
-collected_at: '2026-06-25T16:35:45.217158+05:30'
-published_at: '2026-06-25T09:40:12Z'
+collected_at: '2026-06-26T01:53:19.139770+05:30'
+published_at: '2026-06-25T20:02:58Z'
 tags:
 - threejs
-stars: 2139
+stars: 2140
 language: TypeScript
 status: active
 resource_id: github:webgpu/webgpu-samples
 first_seen: '2026-06-15T16:20:25.621097+00:00'
-last_seen: '2026-06-25T16:35:45.217158+05:30'
-last_checked: '2026-06-25T16:35:45.217158+05:30'
+last_seen: '2026-06-26T01:53:19.139770+05:30'
+last_checked: '2026-06-26T01:53:19.139770+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: webgpu
-- Stars: 2139
+- Stars: 2140
 - Forks: 357
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-25T09:40:12Z
+- Last Updated: 2026-06-25T20:02:58Z
 
 ## Possible Use Cases
 

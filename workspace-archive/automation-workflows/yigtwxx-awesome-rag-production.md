@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resources**: Repository provides a vetted list of production-grade RAG tools, frameworks, and best practices for scalable AI systems.
-- **Technical scope**: Covers embeddings, vector databases, LLMOps, and integration with frameworks like LangChain for enterprise-grade RAG deployments.
-- **Python-centric**: Focuses on Python-based implementations, with last update in June 2026, ensuring relevance for current AI/ML workflows.
+- **Curated resources**: Repository aggregates production-grade RAG tools, frameworks, and best practices for scalable AI systems, covering LLMs, embeddings, and vector databases.
+- **Technical focus**: Includes LangChain, MLOps, and LLMops tools, emphasizing Python-based implementations for RAG pipelines and generative AI workflows.
+- **Community metrics**: 123 stars, 32 forks, last updated June 2026, with topics spanning AI engineering, retrieval-augmented generation, and vector storage optimi
 
 ## Use Cases
 

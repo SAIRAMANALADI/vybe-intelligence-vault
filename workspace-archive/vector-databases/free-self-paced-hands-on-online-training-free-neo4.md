@@ -6,10 +6,10 @@ source_url: https://graphacademy.neo4j.com/
 resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
 local_vault_path: ai/rag/free-self-paced-hands-on-online-training-free-neo4.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: tutorial
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
@@ -26,16 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-*   GraphAcademy provides specialized training for integrating Neo4j knowledge graphs with Generative AI, covering vector indexes, LLM-driven knowledge graph construction (GraphRAG), and application development with frameworks like LangChain for chatbots and agentic systems.
-*   Core curriculum encompasses Neo4j fundamentals, Cypher query language proficiency (from basics to advanced aggregations, indexes, and constraints), graph data modeling best practices, and data import methodologies.
-*   A
+- **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher, graph data modeling, and data import, with durations ranging from 1 to 8 hours.
+
+- **Generative AI & GraphRAG Integration** courses cover Neo4j’s integration with LLMs for knowledge graph construction, vector indexes, LangChain integration, and building chatbots in Python/TypeScript, with most courses lasting 2 hours.
+
+- **Certifications** available include *Neo4j Certified P
 
 ## Use Cases
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anthropic-says-alibaba-illicitly-extracted-claude
 first_seen: '2026-06-25T16:35:45.281901+05:30'
 last_seen: '2026-06-25T22:54:20.010366+05:30'
 last_checked: '2026-06-25T22:54:20.010366+05:30'
 health_score: 100
 ---
+
 
 # Anthropic says Alibaba illicitly extracted Claude AI model capabilities
 

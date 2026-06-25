@@ -11,8 +11,10 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -29,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-driven alert noise reduction**: Uses machine learning to filter and prioritize critical alerts, minimizing false positives and unnecessary pages to streamline incident response.
+- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging ML to distinguish between high-impact incidents and low-priority noise.
 
-- **Automated scheduling & escalation**: Implements intelligent rotation and escalation policies with a mobile app for real-time on-call management, ensuring optimal coverage and reduced human error.
+- **Dynamic on-call scheduling**: Implements intelligent rotation algorithms to ensure optimal coverage while accounting for team availability, time zones, and skill sets, reducing manual scheduling overhead.
 
-- **Trend analysis & incident metrics**: Provides historical data and trend visualization to identify recurring i
+- **Real-time incident trends & analytics**: Provides actionable insights via tre
 
 ## Use Cases
 

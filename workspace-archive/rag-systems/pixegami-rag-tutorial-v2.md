@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to validate RA
+- **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma) refreshes to incorporate new documents without full re-indexing.
+- **Testing Framework**: Includes unit/integration tests (e.g., pytest) for evaluating retrieval accuracy, LLM response quality, and end-to-end pipeline robustness.
 
 ## Use Cases
 

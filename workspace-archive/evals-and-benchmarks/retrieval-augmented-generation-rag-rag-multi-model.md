@@ -6,15 +6,11 @@ source_url: https://rag.readthedocs.io/
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
-- meta-ai
-- mistral
-- models
 - rag
 - web-crawled
 - workflows
@@ -28,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Modular Implementation**: Python-based system with distinct components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for PDF processing, Q&A, summarization, and translation, orchestrated via Streamlit for interactive UI.
+- **Implementation Components**: Includes PDF processing (`process_pdf.py`), question-answering (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`) pipelines, orchestrated via Streamlit for UI.
 
-- **Multi-Model Integ
+- **Key Workflow**: Document ingestion → chunking → embeddin
 
 ## Use Cases
 

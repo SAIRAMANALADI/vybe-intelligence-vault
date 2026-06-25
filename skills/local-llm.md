@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 150 resources matched in the intelligence vault.
+Active signals: 151 resources matched in the intelligence vault.
 Recently detected signals:
-- [CompendiumLabs/bge-base-en-v1.5-gguf · Hugging Face](../ai/resources/huggingface-compendiumlabs-bge-base-en-v1-5-gguf.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Qdrant - Vector Search Engine](../ai/rag/qdrant-vector-search-engine.md) (Source: Unknown Source) - Collected 2026-06-25
-- [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) (Source: Unknown Source) - Collected 2026-06-25
-- [NVIDIA Nemotron V2 - a nvidia Collection](../ai/rag/huggingface-collections-nvidia.md) (Source: Unknown Source) - Collected 2026-06-25
-- [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Gemma 4 with quantization-aware training](../ai/rag/gemma-4-with-quantization-aware-training.md) (Source: Unknown Source) - Collected 2026-06-26
+- [🧑‍ Cookbook | Haystack](../ai/rag/cookbook-haystack.md) (Source: Unknown Source) - Collected 2026-06-26
+- [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) (Source: Unknown Source) - Collected 2026-06-26
+- [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-26
+- [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md) (Source: Unknown Source) - Collected 2026-06-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -33,77 +33,77 @@ Recently detected signals:
 ### 1. [vndee/local-assistant-examples](../ai/rag/vndee-local-assistant-examples.md) ([GitHub](https://github.com/vndee/local-assistant-examples))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Demonstrates building a local ChatPDF application using Python, LangChain, and Ollama for RAG (Retrieval-Augmented Generation) workflows.
+- Description: - **Implementation**: Demonstrates building a local ChatPDF application using Python, LangChain, and Ollama for LLM integration, with RAG (Retrieval-Augmented Generation) for document processing.
 
-### 2. [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) ([GitHub](https://github.com/llmware-ai/llmware))
-- Stars: 0
-- Language: Unknown
-- Description: - **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models (e.g., ONNX, OpenVINO, llama...
-
-### 3. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
+### 2. [ollama/ollama-python](../ai/resources/ollama-ollama-python.md) ([GitHub](https://github.com/ollama/ollama-python))
 - Stars: 0
 - Language: Unknown
 - Description: - Python client library for interacting with Ollama's local LLM service via REST API
 
+### 3. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+- Stars: 0
+- Language: Unknown
+- Description: - **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM integration, avoiding proprietary APIs or black-box systems.
+
 ### 4. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Template for deploying AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities, built on FastAPI.
+- Description: - **FastAPI-based RAG template**: Implements Retrieval-Augmented Generation (RAG) with vector search for AI chatbots and document management, leveraging FastAPI for backend operations.
 
-### 5. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
-- Stars: 0
-- Language: Unknown
-- Description: - **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-a...
-
-### 6. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 5. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 7. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
+### 6. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese language Retrieval-Augmented Generation (RAG) using Python, focusing on efficient retrieval and gen...
+- Description: - **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
+
+### 7. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+- Stars: 0
+- Language: Unknown
+- Description: - **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
 
 ### 8. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md) ([GitHub](https://github.com/agentops-ai/agentops))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-framework integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
+- Description: - **Python SDK** for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation metrics.
 
-### 9. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
-- Stars: 0
-- Language: Unknown
-- Description: - **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via LangChain, eliminating dependency on cloud-based APIs.
-
-### 10. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
+### 9. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
 - Stars: 0
 - Language: Unknown
 - Description: - **RAG Mastery Curriculum**: 5-week structured learning path covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and Matryoshka representation learning for e...
 
-### 11. [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md) ([GitHub](https://github.com/docker/compose-for-agents))
+### 10. [docker/compose-for-agents](../ai/agents/docker-compose-for-agents.md) ([GitHub](https://github.com/docker/compose-for-agents))
 - Stars: 0
 - Language: Unknown
 - Description: - Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, LLMs (e.g., llama.cpp), and tools in a self-hosted environment.
 
-### 12. [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md) ([GitHub](https://github.com/pguso/ai-agents-from-scratch))
+### 11. [IntelLabs/fastRAG](../ai/rag/intellabs-fastrag.md) ([GitHub](https://github.com/intellabs/fastrag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and avoiding black-box models.
+- Description: - **Framework Overview**: FastRAG is an efficient Retrieval Augmented Generation (RAG) framework designed for scalable and high-performance NLP tasks, leveraging PyTorch and Hugging Face Transforme...
 
-### 13. [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub.md) ([GitHub](https://github.com/bhaskar-kurasala/ai-arch-hub))
+### 12. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+- Stars: 0
+- Language: Unknown
+- Description: - **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** via Docker containers.
+
+### 13. [pguso/ai-agents-from-scratch](../ai/agents/pguso-ai-agents-from-scratch.md) ([GitHub](https://github.com/pguso/ai-agents-from-scratch))
+- Stars: 0
+- Language: Unknown
+- Description: - **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and enabling deep understandin...
+
+### 14. [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub.md) ([GitHub](https://github.com/bhaskar-kurasala/ai-arch-hub))
 - Stars: 0
 - Language: Unknown
 - Description: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, qu...
 
-### 14. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([GitHub](https://github.com/microsoft/autogen))
+### 15. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([GitHub](https://github.com/microsoft/autogen))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: microsoft/autogen
-
-### 15. [continuedev/continue](../ai/agents/continuedev-continue.md) ([GitHub](https://github.com/continuedev/continue))
-- Stars: 0
-- Language: Unknown
-- Description: - **Open-source AI Coding Agent**: Continue is an autonomous coding assistant built with TypeScript, enabling AI-driven code generation, debugging, and refactoring via CLI and IDE integrations.
 
 ### 16. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
@@ -140,4 +140,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-25T23:10:01.623009+05:30.074999+05:30.324442+05:30.229885+05:30.889174+05:30.135729+05:30.114090+05:30.096090+05:30.608603+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-26T02:09:09.711193+05:30.623009+05:30.074999+05:30.324442+05:30.229885+05:30.889174+05:30.135729+05:30.114090+05:30.096090+05:30.608603+05:30.771312+05:30.853749+05:30.520837+05:30.643653+05:30.981025+05:30.333498+05:30.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-06-25T20:49:24.577426+05:30'
-published_at: '2026-06-24T01:06:35Z'
+collected_at: '2026-06-26T01:59:23.255084+05:30'
+published_at: '2026-06-25T18:42:17Z'
 tags:
 - agents
 - github-repo
@@ -19,11 +19,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:46Z'
-pushed_at: '2026-06-25T07:12:22Z'
+pushed_at: '2026-06-25T20:23:59Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-06-25T20:49:24.577426+05:30'
-last_seen: '2026-06-25T20:49:24.577426+05:30'
-last_checked: '2026-06-25T20:49:24.577426+05:30'
+first_seen: '2026-06-26T01:59:23.255084+05:30'
+last_seen: '2026-06-26T01:59:23.255084+05:30'
+last_checked: '2026-06-26T01:59:23.255084+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities with a TypeScript interface, enabling structured extraction from unstructured documents.
-- **Document Processing Features**: Supports `information-extraction`, `parser`, and `document-agent` workflows for advanced text and layout analysis.
-- **Integration with Llama Cloud**: Designed to work with LlamaParse's cloud services, offering scalable document processing with minimal local computation.
+- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llamaparse` library, enabling structured extraction from unstructured documents.
+- **Document Processing & Information Extraction**: Supports `document-agent` workflows for parsing, indexing, and retrieving document content with metadata extraction.
+- **Integration-Ready**: Designed for AI agents, with TypeScript support, and last updated in June 2026 for compatibility with modern LLM pipelines.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 7
 - Language: TypeScript
 - Topics: agent, agents, document-agent, document-processing, information-extraction, llamaparse, ocr, parser
-- Last Updated: 2026-06-24T01:06:35Z
+- Last Updated: 2026-06-25T18:42:17Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:46Z
-- Pushed At: 2026-06-25T07:12:22Z
+- Pushed At: 2026-06-25T20:23:59Z
 
 ## Possible Use Cases
 

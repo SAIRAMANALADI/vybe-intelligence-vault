@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-25T22:56:17.548082+05:30'
+collected_at: '2026-06-26T01:55:24.311599+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-25T22:56:17.548082+05:30'
-last_seen: '2026-06-25T22:56:17.548082+05:30'
-last_checked: '2026-06-25T22:56:17.548082+05:30'
+first_seen: '2026-06-26T01:55:24.311599+05:30'
+last_seen: '2026-06-26T01:55:24.311599+05:30'
+last_checked: '2026-06-26T01:55:24.311599+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) benchmark evaluating conversational retrieval performance across sequential queries with context retention.
-- **Technical Stack**: Python-based framework with dependencies on RAG-specific libraries (e.g., LangChain, FAISS, or similar vector stores) for multi-turn interaction testing.
-- **Evaluation Metrics**: Focuses on metrics like context relevance, answer consistency, and retrieval latency across multi-turn dialogues, with no explicit metrics listed in the repository metadata.
+- **Benchmark Design**: Multi-Turn RAG (Retrieval-Augmented Generation) evaluation framework for assessing conversational RAG systems across multi-turn interactions, including metrics for context relevance, answer accuracy, and coherence over sequential queries.
+
+- **Technical Implementation**: Python-based benchmark with modular components for dataset integration, retrieval evaluation, and generation assessment, supporting customizable pipelines for different RAG architectures.
+
+- **Evaluation Metrics**: Includes turn-level and session-level metrics (e.g., precision/recall for retrieval, factual consistency for generation) with logging and visualization tools for comparative analysis.
 
 ## Why It Matters
 

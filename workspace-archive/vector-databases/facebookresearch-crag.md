@@ -15,7 +15,6 @@ tags:
 - dataset
 - github-repo
 - jupyter notebook
-- paper
 - rag
 selection_reason:
 - Useful for project building
@@ -33,8 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: CRAG evaluates Retrieval-Augmented Generation (RAG) systems across **11 datasets**, including **4 synthetic** (e.g., multi-hop QA, long-form generation) and **7 real-world** (e.g., news, Wikipedia, scientific papers), with **100K+ queries** and **200K+ documents**.
-- **Evaluation Metrics**: Measures **retrieval quality** (precision/recall, MRR, nDCG) and **generation quality** (faithfulness, relevance, hallucination rate) using **LLM-as-a-judge** and human annotations for
+- **Purpose**: CRAG is a **Comprehensive benchmark** for evaluating **Retrieval-Augmented Generation (RAG)** systems, designed to assess performance across diverse retrieval and generation tasks.
+
+- **Implementation**: The repository provides a **Jupyter Notebook-based framework** with standardized evaluation metrics, datasets, and methodologies for benchmarking RAG pipelines.
+
+- **Scope**: Focuses on **systematic comparison** of retrieval strategies, context integration, and generation quality
 
 ## Use Cases
 

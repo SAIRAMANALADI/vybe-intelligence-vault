@@ -6,10 +6,10 @@ source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and extensive integrations (OpenAI, Hugging Face, Azure) across Python, JavaScript, and TypeScript.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, and output generation), supporting multi-language (Python, JS/TS) and integrations with providers like OpenAI, Hugging Face, and Azure.
 
-- **Haystack by deepset-ai**: Production-ready RAG framework optimized for enterprise-scale applications, featuring modular pipelines, document stores (Elasticsearch, Weaviate), and pre-built components for retrieval, ranking, and
+- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise-grade document search and QA, featuring advanced retrieval (BM25, dense retrieval) and integration with Elasticsearch, Weaviate, and o
 
 ## Use Cases
 

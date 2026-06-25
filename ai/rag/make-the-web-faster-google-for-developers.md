@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/speed/
-published_at: '2026-06-25T16:44:31.207690+05:30'
-collected_at: '2026-06-25T16:44:31.207699+05:30'
+published_at: '2026-06-26T02:00:27.993013+05:30'
+collected_at: '2026-06-26T02:00:27.993023+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:make-the-web-faster-google-for-developers
-first_seen: '2026-06-25T16:44:31.207699+05:30'
-last_seen: '2026-06-25T16:44:31.207699+05:30'
-last_checked: '2026-06-25T16:44:31.207699+05:30'
+first_seen: '2026-06-26T02:00:27.993023+05:30'
+last_seen: '2026-06-26T02:00:27.993023+05:30'
+last_checked: '2026-06-26T02:00:27.993023+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **PageSpeed Tools**: Google's PageSpeed Insights provides performance scores and optimization suggestions via online analysis, while PageSpeed Modules (Apache/Nginx) automatically rewrite and optimize web resources in real-time.
+- **PageSpeed Tools**: Google's PageSpeed Insights provides performance scores and optimization suggestions via online analysis, while PageSpeed Modules (for Apache/Nginx) automatically optimize resources server-side.
 
-- **Infrastructure Leveraging**: Google Public DNS enhances browsing speed/security, and Google's CDN hosts popular open-source JavaScript libraries to reduce latency and offload server load.
+- **Infrastructure Leveraging**: Google Public DNS improves browsing speed/security, and Google-hosted libraries (e.g., jQuery) offload popular open-source JS libraries for faster delivery.
 
-- **Performance Standards & Protocols**: Google contributes to modern web standards (e.g., WebP) and publishes best-practice guidelines for optimizing website performance across metrics.
+- **Performance Standards & Protocols**: Google contributes to web performance via standards like WebP and publishes best-practice guides (e.g., caching, compression) for site optimization.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:31.207690+05:30
+- Published: 2026-06-26T02:00:27.993013+05:30
 
 ## Related Tags
 

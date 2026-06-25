@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Provides a CI/CD-ready GitHub Action for `promptfoo`, enabling automated testing of prompts, agents, and RAG systems with declarative configurations.
-- **Multi-Model Evaluation**: Supports comparative performance analysis across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning capabilities.
-- **Security & Pentesting**: Facilitates LLM security testing via automated red teaming and pentesting workflows, integrat
+- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and vulnerability scanning for LLMs.
+
+- **Multi-Model Performance Comparison**: Supports benchmarking across LLMs (e.g., GPT, Claude, Gemini, Llama) with declarative configurations and CI/CD integration.
+
+- **TypeScript-Based Implementation**: Provides a TypeScript-based action for seamless integration with GitHub workflows, updated as of 2026-06-15.
 
 ## Use Cases
 

@@ -20,7 +20,6 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 ## Best GitHub Repositories
 
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
-- [felladrin/awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
@@ -37,4 +36,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-25 23:11 IST*
+*Last updated: 2026-06-26 02:10 IST*

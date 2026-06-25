@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-25T22:56:42.565440+05:30'
+collected_at: '2026-06-26T01:55:54.347222+05:30'
 published_at: '2026-06-25T10:44:52Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-25T22:56:42.565440+05:30'
-last_seen: '2026-06-25T22:56:42.565440+05:30'
-last_checked: '2026-06-25T22:56:42.565440+05:30'
+first_seen: '2026-06-26T01:55:54.347222+05:30'
+last_seen: '2026-06-26T01:55:54.347222+05:30'
+last_checked: '2026-06-26T01:55:54.347222+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Proposes LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimizing linear retrieval for large-scale corpora by leveraging graph structures to enhance efficiency and scalability.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval and augmentation in large-scale corpora, optimizing LLM performance (ICLR 2026 submission).
 
-- **Introduces linear graph retrieval**, a method that transforms traditional graph traversal into a linear-time process, reducing computational overhead while maintaining retrieval accuracy for LLM augmentation.
+- **Scalability & Efficiency**: Implements linear graph-based indexing to reduce computational overhead, enabling scalable retrieval and generation on massive text datasets while maintaining low latency.
 
-- **Evaluates on ICLR 2026 benchmarks**, demonstrating superior performance in retrieval quality and generation coherence compared to conventional RAG systems, with open-source implementation in Python.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting extensibility for custom corpora and retrieval strategies.
 
 ## Why It Matters
 

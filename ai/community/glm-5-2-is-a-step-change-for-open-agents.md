@@ -13,13 +13,14 @@ collected_at: '2026-06-25T22:54:21.726085+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:glm-5-2-is-a-step-change-for-open-agents
 first_seen: '2026-06-25T16:35:47.194138+05:30'
 last_seen: '2026-06-25T22:54:21.726085+05:30'
 last_checked: '2026-06-25T22:54:21.726085+05:30'
 health_score: 100
 ---
+
 
 # GLM-5.2 is a step change for open agents
 

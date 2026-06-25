@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Season Pass Renewal**: Automatic renewal at full retail price before the next season; non-refundable but cancellable prior to renewal to avoid charges. Mid-season cancellation retains access until season end if YouTube TV plan is active.
-- **Month-to-Month Billing**: Charges occur on the same billing date monthly; cancellable anytime via Settings, with access retained until the next billing date.
-- **Payment & Plan Management**: Billing date and payment method can be viewed/updated at `tv.yo
+- **Season Pass Renewal**: Automatic renewal occurs at full retail price before the next season; cancellation must be done prior to renewal to avoid charges. Mid-season cancellations retain access until the current plan expires.
+- **Month-to-Month Billing**: Charges occur monthly on the same date; cancellation is possible anytime via Settings, with access retained until the next billing cycle.
+- **Payment & Plan Management**: Billing details and credit card updates are managed at `tv.youtube.com
 
 ## Use Cases
 

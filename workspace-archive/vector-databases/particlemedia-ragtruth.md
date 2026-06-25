@@ -8,7 +8,7 @@ local_vault_path: ai/rag/particlemedia-ragtruth.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -18,7 +18,7 @@ tags:
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # ParticleMedia/RAGTruth
@@ -27,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
-
-- **Technical Composition**: Contains structured hallucination annotations (e.g., factual inaccuracies, unsupported claims) paired with retrieval contexts, enabling fine-grained analysis of RAG model failures in real-world scenarios.
-
-- **Implementation
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve trustworthiness in Retrieval-Augmented Generation (RAG) systems by identifying and categorizing hallucinations in generated outputs.
+- **Technical Scope**: Provides a structured dataset with annotated hallucinations (e.g., factual inaccuracies, unsupported claims) to benchmark and fine-tune RAG models for reliability.
+- **Implementation**: Python-based repository offering tools for dataset gener
 
 ## Use Cases
 

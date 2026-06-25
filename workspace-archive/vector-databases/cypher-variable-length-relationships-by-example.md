@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Variable-length relationships in Cypher** use `*n..m` syntax to match paths with 1+ to unbounded (`*`) or bounded (`*n..m`) relationship lengths, enabling flexible traversal (e.g., `-[:KNOWS*2..3]->` for friends-of-friends or friends-of-friends-of-friends).
-- **Zero-length paths** (`*0`) bind a node to itself, simplifying queries by avoiding `OPTIONAL MATCH` for edge cases (e.g., retrieving all blog posts of friends regardless of count).
-- **Performance considerations** require explicit leng
+- **Variable-length relationships in Cypher** are defined using `*n..m` syntax, where `n` is the minimum and `m` the maximum path length (e.g., `-[:KNOWS*2..3]->` matches paths with 2-3 `KNOWS` relationships).
+- **Zero-length paths** (`*0`) allow binding a node to itself, simplifying queries where optional relationships may not exist (e.g., matching a user’s latest blog post and its predecessor in one pattern).
+- **Performance considerations** require explicit length limits (e.g., `-[:KNOWS*..5]
 
 ## Use Cases
 

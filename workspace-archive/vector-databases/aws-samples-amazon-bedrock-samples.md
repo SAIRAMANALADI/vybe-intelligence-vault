@@ -12,7 +12,9 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
+- models
 - rag
 - workflows
 selection_reason:
@@ -31,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models (e.g., Amazon Titan) for quick customer onboarding and experimentation.
-
-- **Multi-Use Case Implementations**: Includes demos for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
-
-- **AWS Service Integration**: Demonstrates Amazon Bedrock’s integration with AWS services (e.g., knowledge bases,
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) to facilitate customer adoption.
+- **Technical Components**: Includes Jupyter Notebooks demonstrating core Bedrock features such as embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) workflows.
+- **Integration Tools**: Showcases LangChain integration for building AI applications, with modular examples for knowledge base managem
 
 ## Use Cases
 

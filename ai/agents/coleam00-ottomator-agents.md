@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/ottomator-agents
-collected_at: '2026-06-25T22:57:27.546246+05:30'
-published_at: '2026-06-25T14:02:25Z'
+collected_at: '2026-06-26T01:56:34.329722+05:30'
+published_at: '2026-06-25T17:47:39Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-stars: 5652
+stars: 5653
 language: Python
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-12-02T00:47:45Z'
 pushed_at: '2025-11-09T21:46:48Z'
 resource_id: github:coleam00/ottomator-agents
-first_seen: '2026-06-25T22:57:27.546246+05:30'
-last_seen: '2026-06-25T22:57:27.546246+05:30'
-last_checked: '2026-06-25T22:57:27.546246+05:30'
+first_seen: '2026-06-26T01:56:34.329722+05:30'
+last_seen: '2026-06-26T01:56:34.329722+05:30'
+last_checked: '2026-06-26T01:56:34.329722+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts open-source AI agents on the oTTomator Live Agent Studio platform, implemented in Python.
-- **Metrics**: 5,652 stars, 1,937 forks, last updated 2026-06-25.
-- **Access**: Available at [GitHub](https://github.com/coleam00/ottomator-agents).
+- **Repository Overview**: Hosts open-source AI agents on the oTTomator Live Agent Studio platform, with 5,653 stars and 1,937 forks as of the last update (2026-06-25).
+- **Technical Stack**: Entirely implemented in Python, with no additional topics or metadata specified.
+- **Access & Updates**: Publicly accessible via GitHub; last commit timestamp indicates active maintenance (2026-06-25T17:47:39Z).
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: coleam00
-- Stars: 5652
+- Stars: 5653
 - Forks: 1937
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T14:02:25Z
+- Last Updated: 2026-06-25T17:47:39Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-02T00:47:45Z

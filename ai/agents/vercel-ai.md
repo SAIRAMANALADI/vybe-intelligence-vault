@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-06-25T22:57:22.640535+05:30'
-published_at: '2026-06-25T16:45:02Z'
+collected_at: '2026-06-26T01:56:29.370375+05:30'
+published_at: '2026-06-25T20:18:44Z'
 tags:
 - agents
 - anthropic
@@ -13,17 +13,18 @@ tags:
 - github-repo
 - openai
 - typescript
-stars: 25135
+- workflows
+stars: 25137
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-05-23T15:04:08Z'
-pushed_at: '2026-06-25T17:12:08Z'
+pushed_at: '2026-06-25T20:24:34Z'
 resource_id: github:vercel/ai
-first_seen: '2026-06-25T22:57:22.640535+05:30'
-last_seen: '2026-06-25T22:57:22.640535+05:30'
-last_checked: '2026-06-25T22:57:22.640535+05:30'
+first_seen: '2026-06-26T01:56:29.370375+05:30'
+last_seen: '2026-06-26T01:56:29.370375+05:30'
+last_checked: '2026-06-26T01:56:29.370375+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **AI SDK Core**: Open-source TypeScript library for building AI-powered applications and agents, developed by Vercel (creators of Next.js).
-- **Multi-Model & Framework Support**: Integrates with Anthropic, Gemini, OpenAI LLMs and supports React, Svelte, Vue, and Next.js for generative UI.
-- **Generative UI & Tooling**: Enables structured AI responses with TypeScript-first tooling, optimized for Vercel deployments (last updated 2026-06-25).
+- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like Anthropic, Gemini, and OpenAI.
+- **Framework Integration**: Compatible with Next.js, React, Svelte, Vue, and JavaScript/TypeScript, enabling generative UI and LLM interactions.
+- **Features**: Includes tools for structured outputs, streaming, and agent workflows, last updated June 2026.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel
-- Stars: 25135
-- Forks: 4652
+- Stars: 25137
+- Forks: 4655
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-06-25T16:45:02Z
+- Last Updated: 2026-06-25T20:18:44Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z
-- Pushed At: 2026-06-25T17:12:08Z
+- Pushed At: 2026-06-25T20:24:34Z
 
 ## Possible Use Cases
 

@@ -12,10 +12,8 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -33,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **YouTube's RAG Integration**: YouTube's infrastructure supports Retrieval Augmented Generation (RAG) via its [Developers](https://developers.google.com/youtube) portal, enabling AI apps to leverage YouTube's vast video metadata, transcripts, and contextual data for enhanced retrieval and generation tasks.
-
-- **Technical Workflow**: RAG systems on YouTube utilize a two-stage process: retrieval (querying YouTube's search/indexing APIs for relevant video content) and generation (using LLMs to sy
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, and monetization for creators via the YouTube Partner Program.
+- **Developer & API Access**: Provides a [YouTube Developer API](https://developers.google.com/youtube) for programmatic interaction with platform features (e.g., video uploads, analytics, and search).
+- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Pr
 
 ## Use Cases
 

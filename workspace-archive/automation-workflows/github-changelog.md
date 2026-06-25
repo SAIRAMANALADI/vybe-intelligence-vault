@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Enterprise Team Assignment to Cost Centers**: GitHub now allows enterprise teams to be directly assigned to cost centers, enabling granular financial tracking and resource allocation at the team level within enterprise accounts.
+- **Saved Views for Repository Issues (Public Preview)**: Introduces a feature allowing users to save and reuse custom filtered views for repository issues, enhancing issue tracking efficiency and consistency across workflows.
 
-- **Enhanced Account Management Integration**: The update integrates enterprise team assignments with existing account management tools, streamlining administrative workflows for large-scale deployments.
+- **Adjustable Row Heights in Projects**: Enables dynamic resizing of row heights in GitHub Projects, improving readability and customization for board layouts.
 
-- **Improved Enterprise Tooling**: The change enhances enterp
+- **Integration with GitHub Projects**: Both features are part of the Projects & Issues changelog updates, ind
 
 ## Use Cases
 

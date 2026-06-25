@@ -8,24 +8,24 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Android Developers Blog](https://android-developers.googleblog.com/) (tutorial - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
 - [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
 - [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - USEFUL Tier)
+- [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
+- [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- [langgenius/dify](https://github.com/langgenius/dify)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [Azure/GenAIOps-project-template](https://github.com/Azure/GenAIOps-project-template)
+- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
 - [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-25 23:11 IST*
+*Last updated: 2026-06-26 02:10 IST*

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based AI-Agent Contract Template**: Provides a starter framework for integrating OpenAI's API with Phala Network's confidential computing for AI agent contracts.
+- **TypeScript-based AI-Agent Contract Template**: Provides a structured foundation for deploying AI agents using OpenAI's API within a blockchain context, leveraging TypeScript for type safety and modularity.
 
-- **Confidential Computing Integration**: Leverages Phala Network's Trusted Execution Environment (TEE) to ensure secure, privacy-preserving execution of AI agent logic.
+- **OpenAI Integration**: Designed to interact with OpenAI's models (e.g., GPT-4) for natural language processing tasks, enabling agents to execute prompts, process responses, and handle tool calls via OpenAI's API endpoints.
 
-- **OpenAI API Compatibility**: Designed for seamless interaction with OpenAI's models (e.g., GPT-4) while maintaining on-chain privacy and verifiabili
+- **Phala Network Compatibility**: Built for deployment on Pha
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-25T22:58:12.682462+05:30'
+collected_at: '2026-06-26T01:57:19.444102+05:30'
 published_at: '2026-06-25T14:22:24Z'
 tags:
 - agents
@@ -20,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-25T17:03:12Z'
+pushed_at: '2026-06-25T18:09:45Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-25T22:58:12.682462+05:30'
-last_seen: '2026-06-25T22:58:12.682462+05:30'
-last_checked: '2026-06-25T22:58:12.682462+05:30'
+first_seen: '2026-06-26T01:57:19.444102+05:30'
+last_seen: '2026-06-26T01:57:19.444102+05:30'
+last_checked: '2026-06-26T01:57:19.444102+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Python-based open-source security automation platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for workflow orchestration and event-driven execution.
-
-- **Core Components**: Integrates Pydantic for data validation, OpenAPI for API specification, and supports LLM-driven automation with low-code workflows for security operations and monitoring.
-
-- **Deployment & Scalability**: Designed for teams and AI agents, enabling scalable, modular security automation with built-in monitoring and orchestration capabilities.
+- **Platform Overview**: Tracecat is an open-source, event-driven security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend and frontend components.
+- **Core Architecture**: Utilizes Temporal.io for workflow orchestration, Pydantic for data validation, and OpenAPI for API specification, enabling low-code security automation with LLM integration.
+- **Key Features**: Supports monitoring, event-driven triggers, and security-focused workflows, with a modular design for extensibility and AI agent collaboration.
 
 ## Why It Matters
 
@@ -53,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-25T17:03:12Z
+- Pushed At: 2026-06-25T18:09:45Z
 
 ## Possible Use Cases
 

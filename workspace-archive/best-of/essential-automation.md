@@ -18,20 +18,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [langgenius/dify](https://github.com/langgenius/dify)
+### [LlamaIndex · GitHub](https://github.com/run-llama/)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`jamwithai-production-agentic-rag-course.md`](../../ai/rag/jamwithai-production-agentic-rag-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [cli/cli](https://github.com/cli/cli#installation)
 - **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
@@ -48,15 +48,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- **Category**: `ai/agents` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
@@ -67,6 +62,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Nonresident Supplemental Tuition Exemptions | Registrar’s Office](https://registrar.ucla.edu/fees-residence/residence-requirements/nonresident-supplemental-tuition-exemptions)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`nonresident-supplemental-tuition-exemptions-regist.md`](../../ai/resources/nonresident-supplemental-tuition-exemptions-regist.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-25 23:11 IST*
+*Last updated: 2026-06-26 02:10 IST*

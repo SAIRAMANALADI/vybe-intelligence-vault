@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-25T16:40:05.408003+05:30'
-collected_at: '2026-06-25T16:40:05.408012+05:30'
+published_at: '2026-06-26T02:01:07.666620+05:30'
+collected_at: '2026-06-26T02:01:07.666630+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-25T16:40:05.408012+05:30'
-last_seen: '2026-06-25T16:40:05.408012+05:30'
-last_checked: '2026-06-25T16:40:05.408012+05:30'
+first_seen: '2026-06-26T02:01:07.666630+05:30'
+last_seen: '2026-06-26T02:01:07.666630+05:30'
+last_checked: '2026-06-26T02:01:07.666630+05:30'
 health_score: 100
 ---
 
@@ -27,8 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Haystack enables the construction of advanced RAG pipelines, including generative, multimodal, conversational, and agentic configurations with websearch fallback and hybrid retrieval, alongside multi-agent systems leveraging tool-calling and human-in-the-loop strategies.
-*   The framework supports robust pipeline engineering through serialization (YAML/Python), custom `SuperComponents`, diverse file type preprocessing, and metadata embedding for enhanced retrieval, complemented by
+- **Evaluation Framework**: Haystack provides a guided tutorial for implementing evaluation metrics to assess RAG pipeline performance, covering statistical and model-based validation techniques.
+- **Agentic Architectures**: Tutorials demonstrate advanced agent workflows, including multi-agent systems, tool-calling agents, and conversational RAG with `InMemoryChatMessageStore` for multi-turn interactions.
+- **Multimodal & Hybrid Pipelines**: Haystack supports multimodal RAG (vision+text) and hybrid retrieval (combining dense and keyword-based methods) with structured output generation using OpenAI Pydantic/JSON schema.
 
 ## Why It Matters
 
@@ -38,12 +40,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:40:05.408003+05:30
+- Published: 2026-06-26T02:01:07.666620+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

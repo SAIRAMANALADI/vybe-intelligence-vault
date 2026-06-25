@@ -18,104 +18,94 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 205 resources matched in the intelligence vault.
+Active signals: 203 resources matched in the intelligence vault.
 Recently detected signals:
-- [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md) (Source: Unknown Source) - Collected 2026-06-25
-- [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) (Source: Unknown Source) - Collected 2026-06-25
-- [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-06-25
-- [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) (Source: Unknown Source) - Collected 2026-06-25
+- [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) (Source: Unknown Source) - Collected 2026-06-26
+- [Changelog - Docs by LangChain](../ai/rag/changelog-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-26
+- [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) (Source: Unknown Source) - Collected 2026-06-26
+- [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) (Source: Unknown Source) - Collected 2026-06-26
+- [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-06-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+### 1. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-Agent Systems**: Repository focuses on advanced AI agent architectures, including cooperative and competitive multi-agent systems with emphasis on inter-agent communication, task delegati...
+- Description: - **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
 
 ### 2. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployme...
+- Description: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from basics to enterprise deployment and ...
 
 ### 3. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive trilingual learning roadmap** covering agentic AI from LLM fundamentals to multi-agent systems, with **240+ curated resources** and hands-on Python examples.
+- Description: - **Trilingual Learning Roadmap**: Curates 240+ resources (/English/) spanning LLM fundamentals to multi-agent systems, with hands-on Python examples and CLI tools.
 
-### 4. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 4. [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md) ([GitHub](https://github.com/ray-project/llm-applications))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed compute, integrating Llama2 and OpenAI models with fine-tuning...
+
+### 5. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 5. [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([GitHub](https://github.com/azure-samples/chat-with-your-data-solution-accelerator))
+### 6. [Azure-Samples/chat-with-your-data-solution-accelerator](../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([GitHub](https://github.com/azure-samples/chat-with-your-data-solution-accelerator))
 - Stars: 0
 - Language: Unknown
-- Description: - **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative AI, enabling ChatGPT-style and Q&A ...
+- Description: - **Architecture**: Implements **Retrieval-Augmented Generation (RAG)** pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs for generative responses, ena...
 
-### 6. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
-- Stars: 0
-- Language: Unknown
-- Description: - **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and mechanisms for agent coordination in AI coding assistants, emphasizing system prompts and prompt engineeri...
-
-### 7. [czl9707/build-your-own-openclaw](../ai/agents/czl9707-build-your-own-openclaw.md) ([GitHub](https://github.com/czl9707/build-your-own-openclaw))
-- Stars: 0
-- Language: Unknown
-- Description: - **Modular AI Agent Architecture**: Implements a Python-based framework for constructing AI agents using a componentized design, enabling customization of perception, memory, reasoning, and action...
-
-### 8. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
+### 7. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
 - Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
 
-### 9. [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md) ([GitHub](https://github.com/gabrielchua/ragxplorer))
+### 8. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Open-source Python-based tool (Jupyter Notebook) for interactive visualization and debugging of Retrieval-Augmented Generation (RAG) pipelines, leveraging Streamlit for UI.
+- Description: - **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, rerankers) and customizable work...
 
-### 10. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
+### 9. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated...
+- Description: - **Curated Resource**: Aggregates GitHub Copilot enhancement files (instructions, prompts, MCPs, agent skills) in a structured, searchable format for AI agent development.
 
-### 11. [zhengxuJosh/Awesome-RAG-Vision](../ai/rag/zhengxujosh-awesome-rag-vision.md) ([GitHub](https://github.com/zhengxujosh/awesome-rag-vision))
+### 10. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated RAG-Vision Resources**: A specialized GitHub repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods...
+- Description: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like Anthropic, Gemini, and OpenAI.
 
-### 12. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
+### 11. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated GitHub Copilot Enhancements**: Repository containing structured GitHub Copilot instructions, prompts, skills, MCPs, and agent markdown files to optimize AI agent interactions and workfl...
+- Description: - **Prompt Pattern Reconstruction**: Analyzes and reconstructs system prompts for agentic AI coding assistants, focusing on modular, reusable prompt structures to enhance agent coordination and tas...
 
-### 13. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
-- Stars: 0
-- Language: Unknown
-- Description: - **Programmatic LM Optimization**: DSPy introduces a framework that shifts from manual prompt engineering to programmatic optimization of language models, enabling automatic generation and tuning ...
-
-### 14. [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md) ([GitHub](https://github.com/langchain-ai/open-swe))
-- Stars: 0
-- Language: Unknown
-- Description: - **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
-
-### 15. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
+### 12. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
 - Stars: 0
 - Language: Unknown
 - Description: - **FastChat** is an open-source framework from `lm-sys` (4.8k forks, 39.5k stars) designed for evaluating LLM responses, with structured prompts for pairwise and single-judge evaluations across ge...
 
-### 16. [opendataloader-project/opendataloader-pdf](../ai/rag/opendataloader-project-opendataloader-pdf.md) ([GitHub](https://github.com/opendataloader-project/opendataloader-pdf))
+### 13. [langchain-ai/open-swe](../ai/agents/langchain-ai-open-swe.md) ([GitHub](https://github.com/langchain-ai/open-swe))
 - Stars: 0
 - Language: Unknown
-- Description: - **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (PDF/UA) and automated tagging for structured output.
+- Description: - **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
 
-### 17. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
+### 14. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Curated collection of community-driven resources for GitHub Copilot, including instructions, agents, skills, and configurations to enhance productivity and customization.
 
-### 18. [langchain-ai/langchain Release: langchain-openrouter==0.2.4](../ai/releases/langchain-ai-langchain.md) ([GitHub](https://github.com/langchain-ai/langchain))
+### 15. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
+- Stars: 0
+- Language: Unknown
+- Description: - **Programmatic LM Optimization**: DSPy introduces a programming model to replace manual prompt engineering, enabling structured optimization of language model (LM) pipelines via declarative modul...
+
+### 16. [langchain-ai/langchain Release: langchain-openrouter==0.2.4](../ai/releases/langchain-ai-langchain.md) ([GitHub](https://github.com/langchain-ai/langchain))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: langchain-ai/langchain
@@ -140,4 +130,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-25T23:10:00.882415+05:30.319828+05:30.612588+05:30.573867+05:30.238346+05:30.535710+05:30.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-26T02:09:08.953011+05:30.882415+05:30.319828+05:30.612588+05:30.573867+05:30.238346+05:30.535710+05:30.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

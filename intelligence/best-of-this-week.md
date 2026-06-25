@@ -5,6 +5,7 @@ Curated highlights from the current week's collection, representing high-quality
 ## Top Highlights
 
 *   [Photojournal - NASA Science](https://photojournal.jpl.nasa.gov/index.html) (Score: 70) - Category: `ai-coding-agents/`
+*   [Building custom connectors - Claude.ai Documentation](https://claude.com/docs/connectors/building) (Score: 70) - Category: `ai-coding-agents/`
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Mojo Manual | Mojo](https://docs.modular.com/mojo/manual) (Score: 70) - Category: `ai-coding-agents/`
@@ -13,11 +14,10 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [crewAIInc/crewAI Release: 1.14.8a5](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
+*   [What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
 *   [Jira | Atlassian Community](https://community.atlassian.com/t5/JIRA-Software/ct-p/jira-software) (Score: 70) - Category: `ai-coding-agents/`
-*   [LangChain · GitHub](https://github.com/langchain-ai) (Score: 70) - Category: `ai-coding-agents/`
 *   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
-*   [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

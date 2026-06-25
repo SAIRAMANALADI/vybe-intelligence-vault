@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-25T22:56:47.513653+05:30'
+collected_at: '2026-06-26T01:55:54.277422+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-25T22:56:47.513653+05:30'
-last_seen: '2026-06-25T22:56:47.513653+05:30'
-last_checked: '2026-06-25T22:56:47.513653+05:30'
+first_seen: '2026-06-26T01:55:54.277422+05:30'
+last_seen: '2026-06-26T01:55:54.277422+05:30'
+last_checked: '2026-06-26T01:55:54.277422+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Cognitive Memory Organization**: Introduces a memory-optimized RAG framework inspired by human cognitive memory structures, enabling efficient stateful long narrative reasoning via hierarchical memory modules.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory organization to maintain context coherence over extended interactions, addressing limitations in traditional RAG systems for complex, multi-turn reasoning tasks.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or documents, leveraging episodic and semantic memory layers.
 
-- **AAAI 2026 Poster Contribution**: Proposes a novel approach to long-form narrative understanding, leveraging memory hierarchies and retrieval mechanisms to enhance reasoning capabilities in generative AI models.
+- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks compared to traditional RAG baselines, with open-source Python implementation available.
 
 ## Why It Matters
 

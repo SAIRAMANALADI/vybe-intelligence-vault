@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 168 resources matched in the intelligence vault.
+Active signals: 170 resources matched in the intelligence vault.
 Recently detected signals:
-- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-25
-- [All Sites - Stack Exchange](../ai/rag/all-sites-stack-exchange.md) (Source: Unknown Source) - Collected 2026-06-25
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-25
-- [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) (Source: Unknown Source) - Collected 2026-06-25
-- [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) (Source: Unknown Source) - Collected 2026-06-25
+- [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) (Source: Unknown Source) - Collected 2026-06-26
+- [What is the Model Context Protocol (MCP)? - Model Context Protocol](../ai/rag/what-is-the-model-context-protocol-mcp-model-conte.md) (Source: Unknown Source) - Collected 2026-06-26
+- [Is BGP safe yet? · Cloudflare](../ai/rag/is-bgp-safe-yet-cloudflare.md) (Source: Unknown Source) - Collected 2026-06-26
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-26
+- [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) (Source: Unknown Source) - Collected 2026-06-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -236,35 +236,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: spite/Wagner
 
-### 42. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/drei
-
-### 43. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/uikit
-
-### 44. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-flex
-
-### 45. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/triplex
-
-### 46. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+### 42. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: patriciogonzalezvivo/lygia
 
-### 47. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
+### 43. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: playcanvas/engine
+
+### 44. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/drei
+
+### 45. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/uikit
+
+### 46. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/react-three-flex
+
+### 47. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/triplex
 
 ### 48. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-25T23:10:01.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-26T02:09:09.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

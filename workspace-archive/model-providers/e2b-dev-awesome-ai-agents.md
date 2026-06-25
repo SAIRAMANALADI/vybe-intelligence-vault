@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated collection** of autonomous AI agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in agentic AI systems.
-- **Categorized resources** covering Python-based implementations, OpenAI/GPT-4 integrations, and agent orchestration frameworks for AI-driven automation.
-- **Actively maintained** GitHub repository (last updated June 2026) with 28.5k+ stars and 3k+ forks, serving as a reference for cutting-edge AI agent architectures.
+- **Curated list** of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) with a focus on Python-based implementations and OpenAI/GPT-4 compatibility.
+- **Highly active repository** with 28.4K+ stars and 3K+ forks, last updated June 2026, indicating strong community engagement and continuous updates.
+- **Topics span** autonomous agents, copilots, and AI-driven automation, emphasizing practical applications in artificial intelligence and agentic systems.
 
 ## Use Cases
 

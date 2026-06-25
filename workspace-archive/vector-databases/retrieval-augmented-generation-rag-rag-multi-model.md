@@ -11,10 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
-- meta-ai
-- mistral
-- models
 - rag
 - web-crawled
 - workflows
@@ -36,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Modular Implementation**: Python-based system with distinct components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for PDF processing, Q&A, summarization, and translation, orchestrated via Streamlit for interactive UI.
+- **Implementation Components**: Includes PDF processing (`process_pdf.py`), question-answering (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`) pipelines, orchestrated via Streamlit for UI.
 
-- **Multi-Model Integ
+- **Key Workflow**: Document ingestion → chunking → embeddin
 
 ## Use Cases
 

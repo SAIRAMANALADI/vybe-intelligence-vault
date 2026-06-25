@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-25T22:57:07.635314+05:30'
+collected_at: '2026-06-26T01:56:14.286701+05:30'
 published_at: '2026-06-25T14:38:57Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 2211
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-25T22:57:07.635314+05:30'
-last_seen: '2026-06-25T22:57:07.635314+05:30'
-last_checked: '2026-06-25T22:57:07.635314+05:30'
+first_seen: '2026-06-26T01:56:14.286701+05:30'
+last_seen: '2026-06-26T01:56:14.286701+05:30'
+last_checked: '2026-06-26T01:56:14.286701+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from basics to enterprise deployment and fine-tuning.
 
-- **Hands-on Projects & Interview Prep**: Provides practical implementations, real-world projects, and an interview question bank aligned with AI application engineer roles.
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment, and a curated interview question bank aligned with AI application development roles.
 
-- **Multi-Framework & Tool Integration**: Supports skills, LLM APIs, RAG pipelines, and enterprise-grade tools; updated as of June 2026 with Python-based implementations.
+- **Tech Stack & Tools**: Python-based repository integrating agent frameworks (LangChain, LangGraph), AI services (Coze, Dify), and MCP for building, deploying, and scaling AI agents.
 
 ## Why It Matters
 

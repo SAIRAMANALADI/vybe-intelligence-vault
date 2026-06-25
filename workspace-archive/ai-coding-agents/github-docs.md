@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting secure connections via SSH for encrypted remote operations.
-- **Repository Management**: Users can create, manage, and format repositories with basic syntax for documentation and collaboration.
-- **Collaborative Workflows**: Pull requests enable code review and merging, while GitHub Copilot provides IDE-based AI-driven code suggestions.
+- GitHub integrates **Git** for local version control and supports **SSH** for secure remote authentication over unsecured networks.
+- **Pull requests** enable collaborative code review, proposal, and merging workflows in GitHub repositories.
+- **GitHub Actions** provides CI/CD automation, while **GitHub Copilot** offers AI-driven code suggestions directly in supported IDEs.
 
 ## Use Cases
 

@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-25T22:56:47.568529+05:30'
+collected_at: '2026-06-26T01:55:54.349030+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 1212
@@ -19,9 +22,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-25T22:56:47.568529+05:30'
-last_seen: '2026-06-25T22:56:47.568529+05:30'
-last_checked: '2026-06-25T22:56:47.568529+05:30'
+first_seen: '2026-06-26T01:55:54.349030+05:30'
+last_seen: '2026-06-26T01:55:54.349030+05:30'
+last_checked: '2026-06-26T01:55:54.349030+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
+- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by combining hierarchical agents (e.g., planner, retriever, executor) with graph-based knowledge structures.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph-based retrieval with LLMs, enabling dynamic subgraph extraction and structured knowledge integration to improve factual accuracy and reasoning depth in downstream tasks.
+- **Graph-Centric RAG Pipeline**: Leverages dynamic graph representations (e.g., knowledge graphs, reasoning paths) to enhance LLM context retrieval, improving factual accuracy and logical coherence in multi-step reasoning tasks.
 
-- **Python Implementation**: Provides an open-source Python library optimized for large-scale graph operations, with modular agent designs and efficient memory management for handling dynamic knowledge graphs.
+- **Optimized for ICLR 2026**: Implements advanced techniques like adaptive graph traversal, agent collaboration protocols, and retrieval-augmented fine-tuning, achieving state-of-the-art performance in complex reasoning benchmarks.
 
 ## Why It Matters
 

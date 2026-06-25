@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-25T22:55:22.577642+05:30'
+collected_at: '2026-06-26T01:54:34.289442+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-25T22:55:22.577642+05:30'
-last_seen: '2026-06-25T22:55:22.577642+05:30'
-last_checked: '2026-06-25T22:55:22.577642+05:30'
+first_seen: '2026-06-26T01:54:34.289442+05:30'
+last_seen: '2026-06-26T01:54:34.289442+05:30'
+last_checked: '2026-06-26T01:54:34.289442+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments.
-
-- **Tutorial Integration**: Provides step-by-step technical tutorials covering RAG pipeline construction, evaluation metrics, and deployment strategies, with executable notebooks for reproducibility.
-
-- **Extensibility**: Supports custom retrievers, embeddings, and LLM backends, with lightweight dependencies for seamless integration across Windows, macOS, and Linux systems.
+- **Framework Overview**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework designed for simplicity and modularity, implemented primarily in Jupyter Notebooks.
+- **Key Features**: Supports multi-platform deployment with minimal dependencies, enabling seamless integration of retrieval and generation components for LLM-based applications.
+- **Tutorial Integration**: Includes structured tutorials demonstrating end-to-end RAG workflows, from document ingestion to query processing and response generation.
 
 ## Why It Matters
 

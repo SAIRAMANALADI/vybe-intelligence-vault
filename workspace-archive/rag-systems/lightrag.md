@@ -2,7 +2,7 @@
 title: LightRAG
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://lightrag.github.io
+source_url: https://lightrag.github.io/
 resource_id: blog:lightrag
 local_vault_path: ai/rag/lightrag.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Graph-Enhanced Indexing**: LightRAG employs LLM-driven entity/relationship extraction from segmented text, constructs a deduplicated knowledge graph, and generates key-value pairs for nodes/edges to enable efficient retrieval via graph traversal and vector representations.
+- **Graph-Enhanced Indexing**: LightRAG employs LLM-driven entity/relationship extraction from segmented text, constructs a knowledge graph, and uses deduplication to optimize graph operations, enabling multi-hop subgraph reasoning for complex queries.
 
-- **Dual-Level Retrieval**: Implements low-level (entity-specific) and high-level (abstract/theme-based) retrieval strategies, combining localized graph traversal with multi-hop subgraph analysis to address both precise a
+- **Dual-Level Retrieval**: Implements low-level (entity-specific) and high-level (abstract/conceptual) retrieval strategies, leveraging graph structures and vector representations to improve precision and contextual relevance in responses.
+
+- **
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://lightrag.github.io
+Original source URL: https://lightrag.github.io/
 
 ## Local Vault File
 

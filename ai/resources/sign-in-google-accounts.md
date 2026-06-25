@@ -3,16 +3,17 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://issuetracker.google.com/issues/new?component=186600&template=874803
-published_at: '2026-06-25T22:59:51.579766+05:30'
-collected_at: '2026-06-25T22:59:51.579773+05:30'
+source_url: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp
+published_at: '2026-06-26T01:59:21.137982+05:30'
+collected_at: '2026-06-26T01:59:21.137995+05:30'
 tags:
 - web-crawled
+- youtube
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-06-25T22:59:51.579773+05:30'
-last_seen: '2026-06-25T22:59:51.579773+05:30'
-last_checked: '2026-06-25T22:59:51.579773+05:30'
+first_seen: '2026-06-26T01:59:21.137995+05:30'
+last_seen: '2026-06-26T01:59:21.137995+05:30'
+last_checked: '2026-06-26T01:59:21.137995+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: The page implements Google's OAuth-based sign-in flow with a `WebLiteSignIn` endpoint, requiring email/phone input and redirecting to `ServiceLogin` for credential validation.
+- **Authentication**: Requires Google Account credentials (email/phone) for access to Google services.
 
-- **Recovery & Security**: Includes a `usernamerecovery` endpoint for forgotten emails and enforces private browsing mode (`Guest mode`) for non-trusted devices via `p=signin_privatebrowsing` parameter.
+- **Recovery Option**: Provides "Forgot email?" functionality via Google's username recovery service.
 
-- **Lifecycle Management**: Provides account creation via `GlifWebSignIn` flow (`SignUp` endpoint) and tracks post-authentication redirects using `followup` and `continue` query parameters for seamless issue submission.
+- **Privacy Mode**: Supports private browsing for non-primary device sign-ins, with additional details available via Google's Guest mode documentation.
 
 ## Why It Matters
 
@@ -34,12 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T22:59:51.579766+05:30
+- Published: 2026-06-26T01:59:21.137982+05:30
 
 ## Related Tags
 
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://issuetracker.google.com/issues/new?component=186600&template=874803
+Original source: https://support.google.com/youtubetv/gethelp?symptom=about_nfl_sunday_ticket&utm_source=st_lp

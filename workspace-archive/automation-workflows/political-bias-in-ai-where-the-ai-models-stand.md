@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by mektrik. Score: 24, Comments: 73.
+Hacker News story by mektrik. Score: 66, Comments: 136.
 Original Link: https://trakkr.ai/bias
 
 ## Use Cases

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-25T22:55:32.443449+05:30'
+collected_at: '2026-06-26T01:54:39.149072+05:30'
 published_at: '2026-06-25T11:08:02Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-25T22:55:32.443449+05:30'
-last_seen: '2026-06-25T22:55:32.443449+05:30'
-last_checked: '2026-06-25T22:55:32.443449+05:30'
+first_seen: '2026-06-26T01:54:39.149072+05:30'
+last_seen: '2026-06-26T01:54:39.149072+05:30'
+last_checked: '2026-06-26T01:54:39.149072+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
-- **Unified knowledge engine**: Integrates RAG, MCP servers, and knowledge graphs to provide context-aware responses across Python-based AI IDEs.
-- **IDE-agnostic plugin**: Designed for extensibility, supporting OpenAI models, Copilot, and Windsurf while maintaining compatibility with existing developer workflows.
+- **Multi-agent codebase Q&A system**: Enables grounded interactions with codebases via file paths and line numbers, integrating with AI IDEs (Claude Code, Cursor, Codex CLI) for enhanced developer workflows.
+
+- **Knowledge engine architecture**: Implements a RAG-based system with MCP servers, Python SDK, and OpenAI compatibility to construct a searchable knowledge graph over code repositories.
+
+- **IDE-agnostic plugin model**: Provides a template for deploying multi-agent systems across IDEs (including Windsurf) with support for OpenAI models, MCP, and copilot-style assistance.
 
 ## Why It Matters
 

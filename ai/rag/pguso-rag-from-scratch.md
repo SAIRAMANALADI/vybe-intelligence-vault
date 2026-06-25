@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-25T22:55:17.469465+05:30'
+collected_at: '2026-06-26T01:54:29.193576+05:30'
 published_at: '2026-06-25T16:18:34Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-25T22:55:17.469465+05:30'
-last_seen: '2026-06-25T22:55:17.469465+05:30'
-last_checked: '2026-06-25T22:55:17.469465+05:30'
+first_seen: '2026-06-26T01:54:29.193576+05:30'
+last_seen: '2026-06-26T01:54:29.193576+05:30'
+last_checked: '2026-06-26T01:54:29.193576+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-augmented generation without relying on black-box solutions.
-
-- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on transparency and educational value for developers.
-
-- **Modular Components**: Provides a clear, step-by-step tutorial covering agents, AI agents, RAG chatbots, and the full RAG pipeline, including vector database integration and retrieval logic.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM integration, avoiding proprietary APIs or black-box systems.
+- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval augmentation, and context-augmented generation—with no external dependencies.
+- **Educational Focus**: Provides a hands-on tutorial for building a RAG chatbot from scratch, emphasizing transparency in embeddings, retrieval mechanics, and prompt augmentation for Node.js environments.
 
 ## Why It Matters
 

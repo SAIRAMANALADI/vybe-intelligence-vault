@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-25T22:56:52.549645+05:30'
+collected_at: '2026-06-26T01:55:59.288922+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
+- benchmark
 - github-repo
-- paper
 - python
 - rag
 stars: 171
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-25T22:56:52.549645+05:30'
-last_seen: '2026-06-25T22:56:52.549645+05:30'
-last_checked: '2026-06-25T22:56:52.549645+05:30'
+first_seen: '2026-06-26T01:55:59.288922+05:30'
+last_seen: '2026-06-26T01:55:59.288922+05:30'
+last_checked: '2026-06-26T01:55:59.288922+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence-level), leveraging a unified retrieval mechanism.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained segments), leveraging unified encoders and retrievers.
 
-- **ACL 2026 Oral Paper**: The repository accompanies a high-impact paper accepted as an oral presentation at ACL 2026, highlighting novel contributions in scalable multimodal retrieval and generation.
+- **ACL 2026 Oral-Presented Architecture**: Implements a modular pipeline with modality-agnostic embeddings, adaptive retrieval strategies, and a fusion mechanism to integrate heterogeneous corpora into coherent LLM prompts for improved generation.
 
-- **Python Implementation**: Provides an open-source Python-based toolkit with modular components for integrating multimodal corpora, retrieval strategies, and generation pipelines, optimized for flexibility and extensibility.
+- **Open-Source Python Implementation**: Provides a scalable, extensible codebase with pre-trained models, retrieval optimization tools, and benchmarking utilities for evaluating cross-modal RAG performance.
 
 ## Why It Matters
 

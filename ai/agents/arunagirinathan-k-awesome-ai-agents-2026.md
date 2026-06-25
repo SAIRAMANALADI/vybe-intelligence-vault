@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-06-25T22:58:02.583578+05:30'
+collected_at: '2026-06-26T01:57:09.354789+05:30'
 published_at: '2026-06-25T17:23:04Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-06-25T17:22:59Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-06-25T22:58:02.583578+05:30'
-last_seen: '2026-06-25T22:58:02.583578+05:30'
-last_checked: '2026-06-25T22:58:02.583578+05:30'
+first_seen: '2026-06-26T01:57:09.354789+05:30'
+last_seen: '2026-06-26T01:57:09.354789+05:30'
+last_checked: '2026-06-26T01:57:09.354789+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates **300+ AI agents, frameworks, and tools** spanning coding, creative, voice, research, and enterprise domains, with focus on 2026 advancements.
-- **Technical Resources**: Includes **comparison guides, benchmarks, and deep dives** on agent frameworks like CrewAI, LangChain, and LLM-based autonomous agents.
-- **Metadata**: Last updated **2026-06-25**, contains **179 stars** and **81 forks**, categorized under topics like `ai-agents`, `llm`, and `autonomous-agents`.
+- **Comprehensive Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with a focus on 2026 advancements.
+- **Technical Resources**: Includes comparison guides, benchmarks, and deep-dive analyses for AI agent ecosystems (e.g., CrewAI, LangChain, LLM-based agents).
+- **Active Maintenance**: Last updated June 25, 2026, with 179 stars and 81 forks, indicating ongoing community engagement and updates.
 
 ## Why It Matters
 

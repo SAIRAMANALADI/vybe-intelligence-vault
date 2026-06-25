@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-24T22:52:23.023500+05:30'
-collected_at: '2026-06-24T22:52:23.023513+05:30'
+published_at: '2026-06-26T02:02:25.335744+05:30'
+collected_at: '2026-06-26T02:02:25.335758+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-24T22:52:23.023513+05:30'
-last_seen: '2026-06-24T22:52:23.023513+05:30'
-last_checked: '2026-06-24T22:52:23.023513+05:30'
+first_seen: '2026-06-26T02:02:25.335758+05:30'
+last_seen: '2026-06-26T02:02:25.335758+05:30'
+last_checked: '2026-06-26T02:02:25.335758+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to hardware-specific device configurations, kernels, and platform adaptations.
+- **Centralized Git Repository Hosting**: Android's official source code is hosted on Google's Git service (`android.googlesource.com`), providing a unified platform for version control and collaboration across diverse hardware/software projects (e.g., device drivers, kernels, accessories).
 
-- **Device-Specific Branches**: Includes per-device kernel (`*-kernel`), device tree (`device/google/<device>`), and SELinux policy (`*-sepolicy`) repositories for devices like Pixel, Cuttlefish, and generic ARM/x86 targets.
+- **Device-Specific Kernel & Hardware Support**: Repository includes per-device kernel trees (e.g., `device/google/bluejay-kernel/`, `device/google/akita-kernels/6.1/`) and hardware-specific configurations (e.g., `device/asus/flo`, `device/google/cuttlefish`), with versioned branches (e.g., Linux 5.10/6.1) for targeted Android builds.
 
-- **Build & Emulation Support**: Contains emulator-specific device trees (`device/generic/*-emulator`), prebuilt binaries (`device/google/cuttlefish_prebuilts`), and kernel modules for virtualization (e.g., `device/google/cuttlefish_vmm`).
+- **Security & Access Control**: Authentication via Google OAuth2 (`accounts.google.com/o/oauth2/auth`) enforces Gerrit code review (`android-review.googlesource.com`) and role-based access (e.g., sepolicy for SELinux policies in `device/google/*-sepolicy/`).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:52:23.023500+05:30
+- Published: 2026-06-26T02:02:25.335744+05:30
 
 ## Related Tags
 

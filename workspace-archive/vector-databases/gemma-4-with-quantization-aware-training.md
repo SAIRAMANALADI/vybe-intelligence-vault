@@ -2,13 +2,13 @@
 title: Gemma 4 with quantization-aware training
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+source_url: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 resource_id: blog:gemma-4-with-quantization-aware-training
 local_vault_path: ai/rag/gemma-4-with-quantization-aware-training.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - deepmind
@@ -21,7 +21,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Gemma 4 with quantization-aware training
@@ -30,17 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Quantization-Aware Training (QAT)**: Integrates quantization into training to minimize quality loss, outperforming Post-Training Quantization (PTQ) while reducing memory footprint and accelerating inference for Gemma 4 models.
+- **Quantization-Aware Training (QAT) Integration**: Gemma 4 models now use QAT to simulate quantization during training, minimizing quality loss and outperforming standard Post-Training Quantization (PTQ) in preserving model performance while reducing memory footprint.
 
-- **Mobile-Optimized Quantization**: Custom schema for edge devices with static activations, channel-wise quantization, targeted 2-bit quantization for token generation layers, and KV cache optimization, reducing Gemma 4 E2B to **<1GB** memory usage.
-
-- **Deployment &
+- **Mobile-Optimized Compression**: Custom mobile quantization schema includes static activations, channel-wise quantization, targeted 2-bit quantization for token generation layers, and KV cache optimization, reducing Gemma 4 E
 
 ## Use Cases
 
@@ -50,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4
+Original source URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
 
 ## Local Vault File
 

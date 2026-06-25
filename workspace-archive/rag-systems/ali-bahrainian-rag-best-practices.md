@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, implemented in Python.
-- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19.
-- **Purpose**: No description provided; likely serves as a technical reference or educational resource for RAG optimization.
+- **Repository Overview**: Python-based collection of best practices for Retrieval-Augmented Generation (RAG) systems, curated by ali-bahrainian.
+- **Activity**: Last updated on 2026-06-19, with 107 stars and 20 forks, indicating moderate community engagement.
+- **Purpose**: Focuses on technical optimization and implementation strategies for RAG pipelines, though no explicit documentation is provided.
 
 ## Use Cases
 

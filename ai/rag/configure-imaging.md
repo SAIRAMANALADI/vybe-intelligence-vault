@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-06-25T23:00:25.893630+05:30'
-collected_at: '2026-06-25T23:00:25.893638+05:30'
+published_at: '2026-06-26T01:59:30.261301+05:30'
+collected_at: '2026-06-26T01:59:30.261312+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-06-25T23:00:25.893638+05:30'
-last_seen: '2026-06-25T23:00:25.893638+05:30'
-last_checked: '2026-06-25T23:00:25.893638+05:30'
+first_seen: '2026-06-26T01:59:30.261312+05:30'
+last_seen: '2026-06-26T01:59:30.261312+05:30'
+last_checked: '2026-06-26T01:59:30.261312+05:30'
 health_score: 100
 ---
 
@@ -23,15 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75` and `method: 2`).
+- **Image Processing Configuration**: Hugo's `imaging` section supports format-specific settings for AVIF (`lossy/lossless` compression, `encoderSpeed`, `hint`, `quality`), JPEG (`quality`), and WebP (`compression`, `hint`, `method`, `quality`, `useSharpYuv`), with defaults optimized for photographic content.
 
-- **Format-Specific Configurations**:
-  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
-  - **WebP**: Supports `lossy`/`lossless` compression, `method: 0-6`, `hint: photo/drawing/icon/text`, `quality: 1-100`, and `useSharpYuv: bool`.
+- **Resampling & Cropping**: Uses `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) for resizing, `anchor` (e.g., `smart`, `Center`) for focal point detection during cropping/filling, and `bgColor` for transparent-to-opaque format conversions.
 
-- **Metadata & Exif Control**:
-  - `meta.fields` allows glob-based filtering of metadata fields (e.g., excluding `GPS|Exif|Exposure*`).
-  - `meta.sources` defines metadata extraction sources (`exif`, `iptc`, `xmp`), defaulting to `['exif', 'iptc']` for performance.
+- **Metadata Handling**: Configurable via `meta.fields` (glob-based field filtering) and `meta.sources` (`exif`, `iptc`, `xmp`), with performance-focused defaults excluding technical metadata like GPS/Exif fields.
 
 ## Why It Matters
 
@@ -41,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:25.893630+05:30
+- Published: 2026-06-26T01:59:30.261301+05:30
 
 ## Related Tags
 

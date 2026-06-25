@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/imadmaalouf02/RAG
-collected_at: '2026-06-25T16:40:10.072750+05:30'
+collected_at: '2026-06-26T01:57:34.410211+05:30'
 published_at: '2024-12-05T01:18:06Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-11-29T23:05:21Z'
 pushed_at: '2024-12-05T01:18:03Z'
 resource_id: github:imadmaalouf02/rag
-first_seen: '2026-06-25T16:40:10.072750+05:30'
-last_seen: '2026-06-25T16:40:10.072750+05:30'
-last_checked: '2026-06-25T16:40:10.072750+05:30'
+first_seen: '2026-06-26T01:57:34.410211+05:30'
+last_seen: '2026-06-26T01:57:34.410211+05:30'
+last_checked: '2026-06-26T01:57:34.410211+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `imadmaalouf02/RAG` (Python-based)
+- **Repository**: `imadmaalouf02/RAG`
+- **Language**: Python
 - **Last Updated**: 2024-12-05T01:18:06Z
-- **Metrics**: 0 stars, 0 forks, no topics or description provided
 
 ## Why It Matters
 

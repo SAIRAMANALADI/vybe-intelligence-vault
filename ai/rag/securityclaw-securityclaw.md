@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-25T22:56:27.512455+05:30'
+collected_at: '2026-06-26T01:55:34.364029+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-25T22:56:27.512455+05:30'
-last_seen: '2026-06-25T22:56:27.512455+05:30'
-last_checked: '2026-06-25T22:56:27.512455+05:30'
+first_seen: '2026-06-26T01:55:34.364029+05:30'
+last_seen: '2026-06-26T01:55:34.364029+05:30'
+last_checked: '2026-06-26T01:55:34.364029+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch data, enabling adaptive threat detection and response workflows.
-
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct dynamic behavioral memory profiles, facilitating contextual anomaly validation via LLMs for improved threat identification.
-
-- **LLM-Powered Anomaly Validation**: Integrates large language models (LLMs) to cross-validate detected anomalies in real-time, enhancing detection accuracy and reducing false positives in autonomous SOC operations.
+- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOC), integrating OpenSearch/Elasticsearch for real-time monitoring and anomaly detection.
+- **RAG & LLM Integration**: Utilizes Retrieval-Augmented Generation (RAG) to build behavioral memory and employs Large Language Models (LLMs) for validating and contextualizing real-time anomalies.
+- **Threat Detection & Automation**: Implements skill-based automation for threat hunting, anomaly validation, and SOC workflow optimization, supporting AI-driven cybersecurity operations.
 
 ## Why It Matters
 

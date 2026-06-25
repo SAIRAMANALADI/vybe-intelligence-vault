@@ -16,7 +16,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path from basics to enterprise deployment and fine-tuning.
 
-- **Hands-on Projects & Interview Prep**: Provides practical implementations, real-world projects, and an interview question bank aligned with AI application engineer roles.
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment, and a curated interview question bank aligned with AI application development roles.
 
-- **Multi-Framework & Tool Integration**: Supports skills, LLM APIs, RAG pipelines, and enterprise-grade tools; u
+- **Tech Stack & Tools**: Python-based repository integrating agent frameworks (LangChain, LangGraph),
 
 ## Use Cases
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-25T22:56:42.532970+05:30'
+collected_at: '2026-06-26T01:55:49.279693+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-25T22:56:42.532970+05:30'
-last_seen: '2026-06-25T22:56:42.532970+05:30'
-last_checked: '2026-06-25T22:56:42.532970+05:30'
+first_seen: '2026-06-26T01:55:49.279693+05:30'
+last_seen: '2026-06-26T01:55:49.279693+05:30'
+last_checked: '2026-06-26T01:55:49.279693+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computation, integrating retrieval (e.g., vector DBs) with LLMs (e.g., Llama2, OpenAI) for real-time inference.
-- **Fine-Tuning & Serving**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable, low-latency serving in production environments.
-- **Multi-Cloud & Tooling**: Includes examples leveraging Anyscale for managed LLM services and Ray’s ecosystem (e.g., Ray AIR) for end-to-end ML pipelines, with focus on reproducibility and performance optimization.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed compute, integrating Llama2 and OpenAI models with fine-tuning and serving optimizations.
+- **Scalable Serving Architecture**: Leverages Ray’s distributed framework for low-latency LLM inference and multi-model serving, with notebook-based examples for deployment in cloud/on-prem environments.
+- **End-to-End Tooling**: Includes Anyscale integration for cost-efficient training, evaluation scripts for benchmarking, and modular components for custom RAG pipelines (e.g., vector DB connectors, prompt engineering).
 
 ## Why It Matters
 

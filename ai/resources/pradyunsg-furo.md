@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pradyunsg/furo
-collected_at: '2026-06-25T16:43:21.368420+05:30'
+collected_at: '2026-06-26T02:01:26.564142+05:30'
 published_at: '2026-06-25T08:47:17Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2020-09-01T21:08:17Z'
 pushed_at: '2026-06-22T20:57:55Z'
 resource_id: github:pradyunsg/furo
-first_seen: '2026-06-25T16:43:21.368420+05:30'
-last_seen: '2026-06-25T16:43:21.368420+05:30'
-last_checked: '2026-06-25T16:43:21.368420+05:30'
+first_seen: '2026-06-26T02:01:26.564142+05:30'
+last_seen: '2026-06-26T02:01:26.564142+05:30'
+last_checked: '2026-06-26T02:01:26.564142+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Furo**: A minimal, three-column Sphinx documentation theme implemented in Sass, emphasizing clean and customizable design for technical documentation.
-- **Key Features**: Supports extensive theming via Sass variables, responsive layout, and integrates seamlessly with Sphinx's documentation ecosystem.
-- **Status**: Actively maintained (last updated June 2026), with 3.5k+ stars and 379 forks, indicating strong community adoption.
+- **Theme Overview**: Furo is a minimal, clean, and highly customizable Sphinx documentation theme featuring a three-column layout, optimized for readability and modern web standards.
+- **Technical Stack**: Built with Sass for styling, integrates seamlessly with Sphinx (Python documentation generator) while supporting extensive customization via theme configuration.
+- **Features**: Supports responsive design, dark/light mode toggles, and structured documentation layouts, with active maintenance and updates as of June 2026.
 
 ## Why It Matters
 

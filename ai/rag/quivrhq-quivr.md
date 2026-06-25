@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-25T22:56:22.523427+05:30'
+collected_at: '2026-06-26T01:55:29.267228+05:30'
 published_at: '2026-06-25T13:38:15Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-25T22:56:22.523427+05:30'
-last_seen: '2026-06-25T22:56:22.523427+05:30'
-last_checked: '2026-06-25T22:56:22.523427+05:30'
+first_seen: '2026-06-26T01:55:29.267228+05:30'
+last_seen: '2026-06-26T01:55:29.267228+05:30'
+last_checked: '2026-06-26T01:55:29.267228+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases while abstracting RAG complexities.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for specific use cases.
 
-- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across infrastructures with support for various file types and APIs.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), allowing flexible deployment across diverse infrastructures with support for various file types and integration methods.
 
-- **Full-Stack Toolkit**: Provides a Python-based backend with PostgreSQL/Docker integration, a React/TypeScript frontend, and security/privacy features for scalable, production-ready GenAI applications.
+- **Full-Stack Toolkit**: Provides a Python-based backend with Docker support, a React/TypeScript frontend, and APIs for OpenAI/Groq integration, emphasizing privacy, security, and ease of integration into existing products.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/python-developers-guide.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -20,7 +20,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Python Developer’s Guide
@@ -29,16 +29,15 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Development Setup**: Requires Git, CPython source forked from [python/cpython](https://github.com/python/cpython), and platform-specific build steps (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix, `PCbuild\build.bat -e -d` for Windows).
-
-- **Contribution Workflow**: New contributions require a GitHub issue (or trivial fixes), a feature branch (`git checkout -b fix-issue-12345 main`), and a pull request with `gh-NNNNNN` prefix; CLA signing mandatory for first-time contributo
+- **Contribution Pathways**: Python’s developer guide provides structured pathways for contributing to documentation, code, and issue triage, including setup/build instructions, PR lifecycle, testing, and triaging workflows ([devguide](https://devguide.python.org/)).
+- **Core Development Focus**: Emphasizes contributions to CPython (C-based interpreter core + Python standard library), with guidelines for C (PEP 7) and Python (PEP 8) coding styles, and tools like GDB/Clang for dynamic analysis ([
 
 ## Use Cases
 

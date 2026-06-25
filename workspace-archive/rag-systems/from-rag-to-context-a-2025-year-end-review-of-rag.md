@@ -8,7 +8,7 @@ local_vault_path: ai/rag/from-rag-to-context-a-2025-year-end-review-of-rag.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG's Evolution & Enterprise Adoption**: RAG has solidified its role as critical enterprise AI infrastructure in 2025, despite skepticism and overshadowing by AI Agents, with mid-to-large organizations deepening investments due to its practical effectiveness in handling private knowledge.
+- **RAG's Evolution & Enterprise Adoption**: Despite skepticism and overshadowing by AI Agents in 2025, RAG solidified its role as critical enterprise AI infrastructure, with mid-to-large organizations deepening investments. Long-context capabilities did not replace RAG but prompted "Context Engineering," emphasizing end-to-end optimization of retrieval-context assembly-model reasoning pipelines.
 
-- **Long-Context vs. RAG Synergy**: Direct long-context LLM usage is cost-prohibitive and suffers from "Lost in the Middle" issues, while RAG remains optimal; emerging "Context Engineering" paradigms (e.g.
+- **Technical Limitations & Optimizations**: Traditional RAG faces trade-offs between semantic matc
 
 ## Use Cases
 

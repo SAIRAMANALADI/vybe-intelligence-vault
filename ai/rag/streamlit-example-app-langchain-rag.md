@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-25T22:55:47.549249+05:30'
+collected_at: '2026-06-26T01:54:54.265701+05:30'
 published_at: '2026-06-17T07:23:12Z'
 tags:
+- frontend_ui
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-25T22:55:47.549249+05:30'
-last_seen: '2026-06-25T22:55:47.549249+05:30'
-last_checked: '2026-06-25T22:55:47.549249+05:30'
+first_seen: '2026-06-26T01:54:54.265701+05:30'
+last_seen: '2026-06-26T01:54:54.265701+05:30'
+last_checked: '2026-06-26T01:54:54.265701+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval with hybrid search (likely BM25 + dense retrieval) for improved document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app combining LangChain with a vectorstore (likely FAISS or Chroma) for retrieval-augmented generation (RAG), integrating hybrid search (dense + sparse retrieval) for enhanced document retrieval.
 
-- **LangChain Integration**: Utilizes LangChain for orchestrating the RAG workflow, including document loading, text splitting, embedding generation (e.g., with `sentence-transformers`), and LLM interaction.
+- **LangChain Integration**: Utilizes LangChain’s modular framework for chaining LLM prompts, retrievers, and document loaders, with a focus on end-to-end RAG workflows (e.g., `RetrievalQA` or `ConversationalRetrievalChain`).
 
-- **Streamlit UI**: Deploys a Streamlit-based web interface to visualize and interact with the RAG system, enabling users to query and retrieve relevant documents with hybrid search results.
+- **Streamlit Frontend**: Deploys a reactive UI for querying and visualizing RAG outputs, with dynamic updates for user inputs and retrieved context, leveraging Streamlit’s session state for stateful interactions.
 
 ## Why It Matters
 

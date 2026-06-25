@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-06-25T20:46:38.139804+05:30'
+collected_at: '2026-06-26T01:56:04.341470+05:30'
 published_at: '2026-06-21T13:14:15Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- leaderboard
+- hackernews
 - unknown
 stars: 283
 language: Unknown
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-06-25T20:46:38.139804+05:30'
-last_seen: '2026-06-25T20:46:38.139804+05:30'
-last_checked: '2026-06-25T20:46:38.139804+05:30'
+first_seen: '2026-06-26T01:56:04.341470+05:30'
+last_seen: '2026-06-26T01:56:04.341470+05:30'
+last_checked: '2026-06-26T01:56:04.341470+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges.
-- **GitHub-based submission system** enabling version-controlled agent development and evaluation.
-- **Real-time leaderboards and performance metrics** to track agent efficacy across dynamic, multi-agent scenarios.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with asynchronous community challenges, integrating competitive agentic AI development.
+- **GitHub-based submissions**: Enables developer participation via repository forks, pull requests, and issue tracking for challenge submissions.
+- **Technical framework**: Supports agentic AI development with structured, event-driven interactions and real-time performance evaluation.
 
 ## Why It Matters
 

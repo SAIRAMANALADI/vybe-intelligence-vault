@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-25T22:57:17.594601+05:30'
+collected_at: '2026-06-26T01:56:29.355396+05:30'
 published_at: '2026-06-23T20:27:24Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-25T22:57:17.594601+05:30'
-last_seen: '2026-06-25T22:57:17.594601+05:30'
-last_checked: '2026-06-25T22:57:17.594601+05:30'
+first_seen: '2026-06-26T01:56:29.355396+05:30'
+last_seen: '2026-06-26T01:56:29.355396+05:30'
+last_checked: '2026-06-26T01:56:29.355396+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based AI-Agent Contract Template**: Provides a starter framework for integrating OpenAI's API with Phala Network's confidential computing for AI agent contracts.
+- **TypeScript-based AI-Agent Contract Template**: Provides a structured foundation for deploying AI agents using OpenAI's API within a blockchain context, leveraging TypeScript for type safety and modularity.
 
-- **Confidential Computing Integration**: Leverages Phala Network's Trusted Execution Environment (TEE) to ensure secure, privacy-preserving execution of AI agent logic.
+- **OpenAI Integration**: Designed to interact with OpenAI's models (e.g., GPT-4) for natural language processing tasks, enabling agents to execute prompts, process responses, and handle tool calls via OpenAI's API endpoints.
 
-- **OpenAI API Compatibility**: Designed for seamless interaction with OpenAI's models (e.g., GPT-4) while maintaining on-chain privacy and verifiability.
+- **Phala Network Compatibility**: Built for deployment on Phala Network, a decentralized cloud computing platform, ensuring privacy-preserving computation and secure execution of AI-agent logic via Trusted Execution Environments (TEEs).
 
 ## Why It Matters
 

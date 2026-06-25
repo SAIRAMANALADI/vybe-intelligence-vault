@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama/
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - meta-ai
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse OCR Integration**: Utilizes state-of-the-art (SOTA) agentic OCR via LlamaParse to enhance document workflows and agent-based processing pipelines.
+- **LlamaParse** provides **state-of-the-art (SOTA) agentic OCR** for document workflows, enabling high-accuracy text extraction and structured parsing via cloud-based APIs (`Parse` and `Extract`).
 
-- **Open-Source Toolchain**: Provides open-source components including **LiteParse** (lightweight parsing), **LlamaAgents** (agent framework), and **LlamaIndex** (Python-based data framework) with comprehensive documentation.
+- **Open-source components** include **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (comprehensive RAG/data framework), all with detailed documentation.
 
-- **Cloud & Extract Services**: Offers cloud-based **Parse** and **Extract** services for document processing,
+- **Multi-platform support** via official **X (Twitter), LinkedIn, and YouTube** channels
 
 ## Use Cases
 

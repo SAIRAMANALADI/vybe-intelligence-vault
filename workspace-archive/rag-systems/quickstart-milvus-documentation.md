@@ -6,9 +6,9 @@ source_url: https://milvus.io/docs/quickstart.md
 resource_id: blog:quickstart-milvus-documentation
 local_vault_path: ai/rag/quickstart-milvus-documentation.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -18,10 +18,11 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Quickstart | Milvus Documentation
@@ -29,17 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Milvus Lite**: Lightweight, embeddable Python library (`pymilvus`) for local vector database operations, stored in a single file (e.g., `milvus_demo.db`), enabling quick setup without Docker/Kubernetes.
-- **Vector Search & Metadata Filtering**: Supports semantic search via vector embeddings (e.g., 768-dim vectors) with optional scalar field filtering (e.g., `subject == 'biology'`) for precision.
-- **Deployment Flexibility**: API-compatible across Milvus Lite, Docker, and Kubernetes; supports
+- **Milvus Lite**: Lightweight, embeddable vector database (via `pymilvus`) for local Python applications, storing data in a single file (e.g., `milvus_demo.db`), with support for semantic search, metadata filtering, and CRUD operations.
+- **Vector Search Workflow**: Encode text to vectors (768D by default) using embedding models (e.g., `paraphrase-albert-small-v2`), insert into collections, and query via vector similarity or scalar filters (e.g., `subject == 'biology'`).
+- **Scalability & Deplo
 
 ## Use Cases
 
