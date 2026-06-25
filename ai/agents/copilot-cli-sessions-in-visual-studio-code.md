@@ -1,0 +1,49 @@
+---
+title: Copilot CLI sessions in Visual Studio Code
+category: ai/agents
+source_type: web
+source_name: Web Discovery
+source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
+published_at: '2026-06-25T16:45:18.838916+05:30'
+collected_at: '2026-06-25T16:45:18.838925+05:30'
+tags:
+- agents
+- openai
+- web-crawled
+status: active
+resource_id: blog:copilot-cli-sessions-in-visual-studio-code
+first_seen: '2026-06-25T16:45:18.838925+05:30'
+last_seen: '2026-06-25T16:45:18.838925+05:30'
+last_checked: '2026-06-25T16:45:18.838925+05:30'
+health_score: 100
+---
+
+# Copilot CLI sessions in Visual Studio Code
+
+## Summary
+
+- **Copilot CLI Sessions**: Background agent sessions running autonomously via Copilot CLI, managed through VS Code’s Chat view; support parallel execution, slash commands (`/research`, `/yolo`), and two isolation modes (Worktree/Git worktrees for isolation, Folder for direct workspace changes).
+
+- **Permissions & Approvals**: Worktree isolation enforces auto-approval (Bypass Approvals), while Folder isolation allows Default Approvals, Bypass Approvals, or Autopilot modes; permissions are set at session creation.
+
+- **Session Lifecycle**: Created via Chat view or Command Palette, supports handoff from local agents, multi-repository workspaces, and deep research tasks; sessions persist outside VS Code and terminate only when explicitly stopped or last linked session is archived.
+
+## Why It Matters
+
+General public resource representing technology updates, guides, or tutorials.
+
+## Details
+
+- Source: Web Discovery
+- Category: ai/agents
+- Published: 2026-06-25T16:45:18.838916+05:30
+
+## Related Tags
+
+- agents
+- openai
+- web-crawled
+
+## Source
+
+Original source: https://code.visualstudio.com/docs/copilot/agents/background-agents

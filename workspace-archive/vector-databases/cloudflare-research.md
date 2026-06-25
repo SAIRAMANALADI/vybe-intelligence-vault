@@ -2,13 +2,13 @@
 title: Cloudflare Research
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://research.cloudflare.com
+source_url: https://research.cloudflare.com/
 resource_id: blog:cloudflare-research
 local_vault_path: ai/rag/cloudflare-research.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Cloudflare Research
@@ -27,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Unweight**: Lossless MLP weight compression system for LLM inference achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Lossless MLP weight compression system for LLM inference, achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
 - **RFC 9935**: Standardizes algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in X.509 Public Key Infrastructure, enhancing post-quantum cryptographic interoperability.
 
-- **Research Focus Areas**: Cloudflare's research spans privacy-enhancing technologies, cryptogr
+- **Research Focus Areas**: Cloudflare’s research spans **privacy-enhancing technologies**, **c
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://research.cloudflare.com
+Original source URL: https://research.cloudflare.com/
 
 ## Local Vault File
 

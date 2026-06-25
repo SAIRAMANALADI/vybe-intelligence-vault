@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://ai.google.dev/gemini-api/docs
-published_at: '2026-06-22T10:45:34.115211+05:30'
-collected_at: '2026-06-22T10:45:34.115221+05:30'
+published_at: '2026-06-25T16:44:28.842455+05:30'
+collected_at: '2026-06-25T16:44:28.842465+05:30'
 tags:
 - agents
 - web-crawled
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-api-google-ai-for-developers
-first_seen: '2026-06-22T10:45:34.115221+05:30'
-last_seen: '2026-06-22T10:45:34.115221+05:30'
-last_checked: '2026-06-22T10:45:34.115221+05:30'
+first_seen: '2026-06-25T16:44:28.842465+05:30'
+last_seen: '2026-06-25T16:44:28.842465+05:30'
+last_checked: '2026-06-25T16:44:28.842465+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini Deep Research API** introduces collaborative planning, visualization, and MCP (Model Context Protocol) support for enhanced multi-step reasoning and tool integration in preview mode.
+- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects.
 
-- **Multi-language SDKs** (Python, JavaScript, Go, Java, C#) and **REST API** enable programmatic access to Gemini models (e.g., `gemini-3.5-flash`) via standardized `generate_content` calls with structured input/output handling.
+- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **structured outputs** (JSON), with Python/JS/REST SDKs for seamless integration.
 
-- **Model Suite** includes multimodal (Gemini 3.1 Pro), cost-efficient (Gemini 3.5 Flash), specialized (Nano Banana for images, Veo 3.1 for video), and agentic tools (function calling, structured outputs, long-context processing up to 1M tokens).
+- Offers **advanced capabilities** like long-context processing (millions of tokens), function calling for tool integration, and real-time voice agents via Live API.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T10:45:34.115211+05:30
+- Published: 2026-06-25T16:44:28.842455+05:30
 
 ## Related Tags
 

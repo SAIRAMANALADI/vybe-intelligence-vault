@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Support : Preprints Help Center](../ai/resources/support-preprints-help-center.md) ([Source URL](https://support.researchsquare.com))
+### 1. [The Neo4j Graph Data Science Library Manual v2026.05 - Neo4j Graph Data Science](../ai/resources/the-neo4j-graph-data-science-library-manual-v2026.md) ([Source URL](https://neo4j.com/docs/graph-data-science/current))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:55.693397+05:30
-- **Local Path**: `ai/resources/support-preprints-help-center.md`
+- **Collected At**: 2026-06-25T16:47:50.568348+05:30
+- **Local Path**: `ai/resources/the-neo4j-graph-data-science-library-manual-v2026.md`
 
-### 2. [Home | Research Square](../ai/resources/home-research-square.md) ([Source URL](https://researchsquare.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:51.197474+05:30
-- **Local Path**: `ai/resources/home-research-square.md`
-
-### 3. [Writing a Research Paper: 2nd Edition | Nature Masterclasses](../ai/resources/writing-a-research-paper-2nd-edition-nature-master.md) ([Source URL](https://masterclasses.nature.com/writing-a-research-paper-2nd-edition/26269116))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:46.050033+05:30
-- **Local Path**: `ai/resources/writing-a-research-paper-2nd-edition-nature-master.md`
-
-### 4. [Librarian Portal | Springer Nature](../ai/resources/librarian-portal-springer-nature.md) ([Source URL](https://librarian.springernature.com/research-impact-solutions))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:39.796818+05:30
-- **Local Path**: `ai/resources/librarian-portal-springer-nature.md`
-
-### 5. [Springer Nature author service | Editing, translation & support](../ai/rag/springer-nature-author-service-editing-translation.md) ([Source URL](https://authorservices.springernature.com))
+### 2. [Build a User Management App with Next.js | Supabase Docs](../ai/rag/build-a-user-management-app-with-next-js-supabase.md) ([Source URL](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:29:31.906519+05:30
-- **Local Path**: `ai/rag/springer-nature-author-service-editing-translation.md`
+- **Collected At**: 2026-06-25T16:47:14.665973+05:30
+- **Local Path**: `ai/rag/build-a-user-management-app-with-next-js-supabase.md`
 
-### 6. [Data Analysis: Conducting and Troubleshooting | Nature Masterclasses](../ai/rag/data-analysis-conducting-and-troubleshooting-natur.md) ([Source URL](https://masterclasses.nature.com/data-analysis-conducting-and-troubleshooting/20066524))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:29:27.766282+05:30
-- **Local Path**: `ai/rag/data-analysis-conducting-and-troubleshooting-natur.md`
-
-### 7. [Nature Masterclasses | Librarian Portal | Springer Nature](../ai/rag/nature-masterclasses-librarian-portal-springer-nat.md) ([Source URL](https://librarian.springernature.com/nature-masterclasses))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:29:21.420558+05:30
-- **Local Path**: `ai/rag/nature-masterclasses-librarian-portal-springer-nat.md`
-
-### 8. [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md) ([Source URL](https://posit.co/trial-license))
+### 3. [Learn Why Cypher is the Leading Language for Graph Databases](../ai/resources/learn-why-cypher-is-the-leading-language-for-graph.md) ([Source URL](https://neo4j.com/product/cypher-graph-query-language))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:17.032898+05:30
-- **Local Path**: `ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md`
+- **Collected At**: 2026-06-25T16:47:09.561831+05:30
+- **Local Path**: `ai/resources/learn-why-cypher-is-the-leading-language-for-graph.md`
 
-### 9. [Springer Nature Group | Springer Nature](../ai/resources/springer-nature-group-springer-nature.md) ([Source URL](https://group.springernature.com/gp/group))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:10.570993+05:30
-- **Local Path**: `ai/resources/springer-nature-group-springer-nature.md`
-
-### 10. [Building Better Connections: The Story of Crossref's Metadata Development - Crossref](../ai/rag/building-better-connections-the-story-of-crossref.md) ([Source URL](https://doi.org/10.64000/5h9y8-d9z22))
+### 4. [YouTube Researcher Program Application - YouTube Help](../ai/rag/youtube-researcher-program-application-youtube-hel.md) ([Source URL](https://support.google.com/youtube/contact/yt_researcher_certification))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:29:05.996331+05:30
-- **Local Path**: `ai/rag/building-better-connections-the-story-of-crossref.md`
+- **Collected At**: 2026-06-25T16:47:09.339527+05:30
+- **Local Path**: `ai/rag/youtube-researcher-program-application-youtube-hel.md`
 
-### 11. [MARC records and custom Excel title lists | Librarian Portal | Springer Nature](../ai/resources/marc-records-and-custom-excel-title-lists-libraria.md) ([Source URL](https://metadata.springernature.com))
+### 5. [PEP 621 Metadata - PDM](../ai/rag/pep-621-metadata-pdm.md) ([Source URL](https://pdm-project.org/latest/reference/pep621))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:47:06.637810+05:30
+- **Local Path**: `ai/rag/pep-621-metadata-pdm.md`
+
+### 6. [Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation](../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source URL](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:47:06.377945+05:30
+- **Local Path**: `ai/rag/configuring-setuptools-using-pyproject-toml-files.md`
+
+### 7. [Graph Software & Framework for Data Scientists](../ai/rag/graph-software-framework-for-data-scientists.md) ([Source URL](https://neo4j.com/graph-data-science-software))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:47:03.952516+05:30
+- **Local Path**: `ai/rag/graph-software-framework-for-data-scientists.md`
+
+### 8. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:29:00.947382+05:30
-- **Local Path**: `ai/resources/marc-records-and-custom-excel-title-lists-libraria.md`
+- **Collected At**: 2026-06-25T16:46:24.699556+05:30
+- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
 
-### 12. [End User License Agreement (EULA) | Posit Software, PBC](../ai/agents/end-user-license-agreement-eula-posit-software-pbc.md) ([Source URL](https://posit.co/about/eula))
+### 9. [Set up Apple Watch for a family member - Apple Support](../ai/resources/set-up-apple-watch-for-a-family-member-apple-suppo.md) ([Source URL](https://support.apple.com/109036))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:23.509532+05:30
+- **Local Path**: `ai/resources/set-up-apple-watch-for-a-family-member-apple-suppo.md`
+
+### 10. [Connect to a satellite with your Apple Watch Ultra 3 - Apple Support](../ai/rag/connect-to-a-satellite-with-your-apple-watch-ultra.md) ([Source URL](https://support.apple.com/123924))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:46:23.450369+05:30
+- **Local Path**: `ai/rag/connect-to-a-satellite-with-your-apple-watch-ultra.md`
+
+### 11. [Manage your Apple Account](../ai/resources/manage-your-apple-account.md) ([Source URL](https://account.apple.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:18.719903+05:30
+- **Local Path**: `ai/resources/manage-your-apple-account.md`
+
+### 12. [Official Apple Support](../ai/resources/official-apple-support.md) ([Source URL](https://support.apple.com?cid=gn-ols-home-hp-tab))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:18.261467+05:30
+- **Local Path**: `ai/resources/official-apple-support.md`
+
+### 13. [[Feature] Code splitting on async import() statements. · Issue #16 · evanw/esbuild · GitHub](../ai/resources/evanw-esbuild.md) ([Source URL](https://github.com/evanw/esbuild))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:14.669354+05:30
+- **Local Path**: `ai/resources/evanw-esbuild.md`
+
+### 14. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:46:13.962997+05:30
+- **Local Path**: `ai/rag/cli-cli.md`
+
+### 15. [V8 JavaScript engine](../ai/resources/v8-javascript-engine.md) ([Source URL](https://v8.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:10.351223+05:30
+- **Local Path**: `ai/resources/v8-javascript-engine.md`
+
+### 16. [google/closure-compiler](../ai/rag/google-closure-compiler.md) ([Source URL](https://github.com/google/closure-compiler))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:46:09.060515+05:30
+- **Local Path**: `ai/rag/google-closure-compiler.md`
+
+### 17. [terser/terser](../ai/resources/terser-terser.md) ([Source URL](https://github.com/terser/terser))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:08.895887+05:30
+- **Local Path**: `ai/resources/terser-terser.md`
+
+### 18. [Tree Shaking | webpack](../ai/resources/tree-shaking-webpack.md) ([Source URL](https://webpack.js.org/guides/tree-shaking))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:08.321995+05:30
+- **Local Path**: `ai/resources/tree-shaking-webpack.md`
+
+### 19. [Project Jupyter · GitHub](../ai/resources/project-jupyter-github.md) ([Source URL](https://github.com/jupyter))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:04.382724+05:30
+- **Local Path**: `ai/resources/project-jupyter-github.md`
+
+### 20. [Community Guide](../ai/resources/community-guide.md) ([Source URL](https://jupyterbook.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:46:03.647743+05:30
+- **Local Path**: `ai/resources/community-guide.md`
+
+### 21. [GitHub Security · GitHub](../ai/resources/github-security-github.md) ([Source URL](https://github.com/security))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:50.753967+05:30
+- **Local Path**: `ai/resources/github-security-github.md`
+
+### 22. [Authlib 1.7.2 documentation](../ai/resources/authlib-1-7-2-documentation.md) ([Source URL](https://docs.authlib.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:29.399065+05:30
+- **Local Path**: `ai/resources/authlib-1-7-2-documentation.md`
+
+### 23. [Vyper - Vyper documentation](../ai/rag/vyper-vyper-documentation.md) ([Source URL](https://docs.vyperlang.org/en/stable))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:29.269671+05:30
+- **Local Path**: `ai/rag/vyper-vyper-documentation.md`
+
+### 24. [sentry-python 2.63.0 documentation](../ai/resources/sentry-python-2-63-0-documentation.md) ([Source URL](https://getsentry.github.io/sentry-python))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:29.056201+05:30
+- **Local Path**: `ai/resources/sentry-python-2-63-0-documentation.md`
+
+### 25. [pradyunsg (Pradyun Gedam) · GitHub](../ai/resources/pradyunsg-pradyun-gedam-github.md) ([Source URL](https://github.com/pradyunsg))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:28.651799+05:30
+- **Local Path**: `ai/resources/pradyunsg-pradyun-gedam-github.md`
+
+### 26. [jupyter-server/jupyter_server](../ai/resources/jupyter-server-jupyter-server.md) ([Source URL](https://github.com/jupyter-server/jupyter_server))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:28.536620+05:30
+- **Local Path**: `ai/resources/jupyter-server-jupyter-server.md`
+
+### 27. [FastAPI - FastAPI](../ai/rag/fastapi-fastapi.md) ([Source URL](https://fastapi.tiangolo.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:27.247685+05:30
+- **Local Path**: `ai/rag/fastapi-fastapi.md`
+
+### 28. [Get Docker | Docker Docs](../ai/resources/get-docker-docker-docs.md) ([Source URL](https://docs.docker.com/install))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:26.987543+05:30
+- **Local Path**: `ai/resources/get-docker-docker-docs.md`
+
+### 29. [GitHub - adityatelange/hugo-PaperMod: A fast, clean, responsive Hugo theme. · GitHub](../ai/resources/github-adityatelange-hugo-papermod-a-fast-clean-re.md) ([Source URL](https://git.io/hugopapermod))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:26.945304+05:30
+- **Local Path**: `ai/resources/github-adityatelange-hugo-papermod-a-fast-clean-re.md`
+
+### 30. [deepset (deepset)](../ai/rag/deepset-deepset.md) ([Source URL](https://huggingface.co/deepset))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:24.302064+05:30
+- **Local Path**: `ai/rag/deepset-deepset.md`
+
+### 31. [Welcome to Flask — Flask Documentation (3.1.x)](../ai/rag/welcome-to-flask-flask-documentation-3-1-x.md) ([Source URL](https://flask.palletsprojects.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:22.878876+05:30
+- **Local Path**: `ai/rag/welcome-to-flask-flask-documentation-3-1-x.md`
+
+### 32. [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) ([Source URL](https://jupyter-server.readthedocs.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:21.602178+05:30
+- **Local Path**: `ai/rag/welcome-jupyter-server-documentation.md`
+
+### 33. [Jupyter Client 8.9 — jupyter_client 8.9.1 documentation](../ai/rag/jupyter-client-8-9-jupyter-client-8-9-1-documentat.md) ([Source URL](https://jupyter-client.readthedocs.io/en/latest))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:21.352082+05:30
+- **Local Path**: `ai/rag/jupyter-client-8-9-jupyter-client-8-9-1-documentat.md`
+
+### 34. [Introduction — xeus documentation](../ai/resources/introduction-xeus-documentation.md) ([Source URL](https://xeus.readthedocs.io/en/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:21.226725+05:30
+- **Local Path**: `ai/resources/introduction-xeus-documentation.md`
+
+### 35. [Python Developer’s Guide](../ai/rag/python-developers-guide.md) ([Source URL](https://devguide.python.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-25T16:45:19.935496+05:30
+- **Local Path**: `ai/rag/python-developers-guide.md`
+
+### 36. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-24T23:28:44.376080+05:30
-- **Local Path**: `ai/agents/end-user-license-agreement-eula-posit-software-pbc.md`
+- **Collected At**: 2026-06-25T16:45:18.838925+05:30
+- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
 
-### 13. [Differences between carbon budget estimates unravelled | Nature Climate Change](../ai/rag/differences-between-carbon-budget-estimates-unrave.md) ([Source URL](https://doi.org/10.1038/nclimate2868))
+### 37. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:28:39.292744+05:30
-- **Local Path**: `ai/rag/differences-between-carbon-budget-estimates-unrave.md`
+- **Collected At**: 2026-06-25T16:45:15.536865+05:30
+- **Local Path**: `ai/rag/codeql-documentation.md`
 
-### 14. [Support : Springer Nature Support](../ai/resources/support-springer-nature-support.md) ([Source URL](https://support.springernature.com/en/support/home))
+### 38. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:28:34.377059+05:30
-- **Local Path**: `ai/resources/support-springer-nature-support.md`
+- **Collected At**: 2026-06-25T16:45:15.504394+05:30
+- **Local Path**: `ai/resources/npm-docs.md`
 
-### 15. [Terms and conditions | Legal information | Springer Nature](../ai/agents/terms-and-conditions-legal-information-springer-na.md) ([Source URL](https://springernature.com/gp/legal/general-terms-of-use/15067848))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-24T23:28:29.928645+05:30
-- **Local Path**: `ai/agents/terms-and-conditions-legal-information-springer-na.md`
-
-### 16. [Data Science Blog: R, Python & AI Insights | Posit](../ai/resources/data-science-blog-r-python-ai-insights-posit.md) ([Source URL](http://posit.co/blog))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:28:25.476599+05:30
-- **Local Path**: `ai/resources/data-science-blog-r-python-ai-insights-posit.md`
-
-### 17. [CRAN: Package rticles](../ai/resources/cran-package-rticles.md) ([Source URL](https://doi.org/10.32614/cran.package.rticles))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:28:21.240536+05:30
-- **Local Path**: `ai/resources/cran-package-rticles.md`
-
-### 18. [Introduction | Springer API](../ai/resources/introduction-springer-api.md) ([Source URL](https://dev.springernature.com/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:28:16.705535+05:30
-- **Local Path**: `ai/resources/introduction-springer-api.md`
-
-### 19. [Posit Status](../ai/rag/posit-status.md) ([Source URL](https://status.rstudio.com))
+### 39. [electron/forge](../ai/rag/electron-forge.md) ([Source URL](https://github.com/electron/forge))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:28:11.866432+05:30
-- **Local Path**: `ai/rag/posit-status.md`
+- **Collected At**: 2026-06-25T16:45:15.160817+05:30
+- **Local Path**: `ai/rag/electron-forge.md`
 
-### 20. [About Posit | The Open-Source Data Science Company](../ai/resources/about-posit-the-open-source-data-science-company.md) ([Source URL](https://posit.co/about))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:28:06.802239+05:30
-- **Local Path**: `ai/resources/about-posit-the-open-source-data-science-company.md`
-
-### 21. [GMD - fair-calibrate v1.4.1: calibration, constraining, and validation of the FaIR simple climate model for reliable fut](../ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md) ([Source URL](https://doi.org/10.5194/gmd-17-8569-2024))
+### 40. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:28:02.118602+05:30
-- **Local Path**: `ai/rag/gmd-fair-calibrate-v1-4-1-calibration-constraining.md`
+- **Collected At**: 2026-06-25T16:45:15.159431+05:30
+- **Local Path**: `ai/rag/electron-electron.md`
 
-### 22. [TDM API | Springer Nature Data Solutions](../ai/resources/tdm-api-springer-nature-data-solutions.md) ([Source URL](https://datasolutions.springernature.com/products/tdm))
+### 41. [electron/fiddle](../ai/resources/electron-fiddle.md) ([Source URL](https://github.com/electron/fiddle))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:58.235467+05:30
-- **Local Path**: `ai/resources/tdm-api-springer-nature-data-solutions.md`
+- **Collected At**: 2026-06-25T16:45:15.157786+05:30
+- **Local Path**: `ai/resources/electron-fiddle.md`
 
-### 23. [Text and Data Mining | For Researchers | Springer Nature](../ai/rag/text-and-data-mining-for-researchers-springer-natu.md) ([Source URL](http://springer.com/tdm))
+### 42. [Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support](../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md) ([Source URL](https://support.apple.com/en-us/ht208288))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-25T16:45:11.876747+05:30
+- **Local Path**: `ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md`
+
+### 43. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source URL](https://deepset.ai/products-and-services/deepset-ai-platform))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:27:53.160556+05:30
-- **Local Path**: `ai/rag/text-and-data-mining-for-researchers-springer-natu.md`
+- **Collected At**: 2026-06-25T16:45:10.100795+05:30
+- **Local Path**: `ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md`
 
-### 24. [Privacy Policy | Posit Software, PBC](../ai/rag/privacy-policy-posit-software-pbc.md) ([Source URL](https://posit.co/about/privacy-policy))
+### 44. [Change audio settings on Apple TV 4K - Apple Support](../ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md) ([Source URL](https://support.apple.com/guide/tv/adjust-video-and-audio-settings-atvba773c3c9))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:27:43.872856+05:30
-- **Local Path**: `ai/rag/privacy-policy-posit-software-pbc.md`
+- **Collected At**: 2026-06-25T16:45:07.071340+05:30
+- **Local Path**: `ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md`
 
-### 25. [GMD - The need for carbon-emissions-driven climate projections in CMIP7](../ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md) ([Source URL](https://doi.org/10.5194/gmd-17-8141-2024))
+### 45. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([Source URL](https://github.com/deepset-ai/haystack-cookbook))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:27:38.964521+05:30
-- **Local Path**: `ai/rag/gmd-the-need-for-carbon-emissions-driven-climate-p.md`
+- **Collected At**: 2026-06-25T16:45:05.173850+05:30
+- **Local Path**: `ai/rag/deepset-ai-haystack-cookbook.md`
 
-### 26. [BONE -- Reports -- Org mode ML](../ai/resources/bone-reports-org-mode-ml.md) ([Source URL](https://tracker.orgmode.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:34.369080+05:30
-- **Local Path**: `ai/resources/bone-reports-org-mode-ml.md`
-
-### 27. [Add-ons for Firefox (en-US)](../ai/resources/add-ons-for-firefox-en-us.md) ([Source URL](https://addons.mozilla.org/firefox))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:29.098893+05:30
-- **Local Path**: `ai/resources/add-ons-for-firefox-en-us.md`
-
-### 28. [~bzg/org - Emacs Org Mode project description - sourcehut git](../ai/resources/bzg-org-emacs-org-mode-project-description-sourceh.md) ([Source URL](https://git.sr.ht/~bzg/org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:24.041827+05:30
-- **Local Path**: `ai/resources/bzg-org-emacs-org-mode-project-description-sourceh.md`
-
-### 29. [Open Policy & Advocacy - Mozilla's official blog on open Internet policy initiatives and developments](../ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md) ([Source URL](https://blog.mozilla.org/privacy))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:18.710760+05:30
-- **Local Path**: `ai/resources/open-policy-advocacy-mozilla-s-official-blog-on-op.md`
-
-### 30. [Get Firefox for desktop and mobile — Firefox.com](../ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md) ([Source URL](https://mozilla.org/firefox))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:13.385373+05:30
-- **Local Path**: `ai/resources/get-firefox-for-desktop-and-mobile-firefox-com.md`
-
-### 31. [Knowledge Futures and Crossref: Exploring High-Volume DOI Management](../ai/resources/knowledge-futures-and-crossref-exploring-high-volu.md) ([Source URL](https://knowledgefutures.org/updates/2026-04-crossref-collaboration))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:10.008874+05:30
-- **Local Path**: `ai/resources/knowledge-futures-and-crossref-exploring-high-volu.md`
-
-### 32. [Crossref](../ai/rag/crossref.md) ([Source URL](http://crossref.org))
+### 46. [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source URL](https://developer.android.com/jetpack))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:27:05.247656+05:30
-- **Local Path**: `ai/rag/crossref.md`
+- **Collected At**: 2026-06-25T16:44:56.514463+05:30
+- **Local Path**: `ai/rag/android-jetpack-dev-resources-android-developers.md`
 
-### 33. [RStudio Latest Builds](../ai/resources/rstudio-latest-builds.md) ([Source URL](https://dailies.rstudio.com))
+### 47. [Android Developer Newsletters | Android Developers](../ai/resources/android-developer-newsletters-android-developers.md) ([Source URL](https://developer.android.com/newsletter))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:27:00.553682+05:30
-- **Local Path**: `ai/resources/rstudio-latest-builds.md`
+- **Collected At**: 2026-06-25T16:44:52.237638+05:30
+- **Local Path**: `ai/resources/android-developer-newsletters-android-developers.md`
 
-### 34. [Crossmark](../ai/resources/crossmark.md) ([Source URL](https://crossmark.crossref.org/dialog?doi=10.1038%2Fnclimate2868))
+### 48. [Web Vitals | Articles | web.dev](../ai/resources/web-vitals-articles-web-dev.md) ([Source URL](https://web.dev/articles/vitals))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:56.150063+05:30
-- **Local Path**: `ai/resources/crossmark.md`
+- **Collected At**: 2026-06-25T16:44:32.729649+05:30
+- **Local Path**: `ai/resources/web-vitals-articles-web-dev.md`
 
-### 35. [R for Data Science (2e) - Solutions to Exercises](../ai/resources/r-for-data-science-2e-solutions-to-exercises.md) ([Source URL](https://mine-cetinkaya-rundel.github.io/r4ds-solutions))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:50.249536+05:30
-- **Local Path**: `ai/resources/r-for-data-science-2e-solutions-to-exercises.md`
-
-### 36. [Org mode for GNU Emacs](../ai/resources/org-mode-for-gnu-emacs.md) ([Source URL](https://orgmode.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:45.767394+05:30
-- **Local Path**: `ai/resources/org-mode-for-gnu-emacs.md`
-
-### 37. [Posit | Data Science Platform for Enterprise Teams](../ai/rag/posit-data-science-platform-for-enterprise-teams.md) ([Source URL](https://posit.co))
+### 49. [Make the Web Faster | Google for Developers](../ai/rag/make-the-web-faster-google-for-developers.md) ([Source URL](https://developers.google.com/speed))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:26:39.373294+05:30
-- **Local Path**: `ai/rag/posit-data-science-platform-for-enterprise-teams.md`
+- **Collected At**: 2026-06-25T16:44:31.207699+05:30
+- **Local Path**: `ai/rag/make-the-web-faster-google-for-developers.md`
 
-### 38. [Mozilla Privacy](../ai/resources/mozilla-privacy.md) ([Source URL](https://mozilla.org/privacy))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:28.141961+05:30
-- **Local Path**: `ai/resources/mozilla-privacy.md`
-
-### 39. [Quarto](../ai/resources/quarto.md) ([Source URL](https://quarto.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:23.713166+05:30
-- **Local Path**: `ai/resources/quarto.md`
-
-### 40. [R for Data Science (2e)](../ai/resources/r-for-data-science-2e.md) ([Source URL](https://r4ds.hadley.nz))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:19.386279+05:30
-- **Local Path**: `ai/resources/r-for-data-science-2e.md`
-
-### 41. [Tidyverse](../ai/resources/tidyverse.md) ([Source URL](http://tidyverse.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:15.093793+05:30
-- **Local Path**: `ai/resources/tidyverse.md`
-
-### 42. [Account Provider Selection](../ai/resources/account-provider-selection.md) ([Source URL](https://wikis.mit.edu/confluence/display/mitcs3))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:26:12.075754+05:30
-- **Local Path**: `ai/resources/account-provider-selection.md`
-
-### 43. [pkgdown 2.1.0](../ai/rag/pkgdown-2-1-0.md) ([Source URL](https://tidyverse.org/blog/2024/07/pkgdown-2-1-0))
+### 50. [Gemini in Android Studio - Android Developers](../ai/rag/gemini-in-android-studio-android-developers.md) ([Source URL](https://developer.android.com/gemini-in-android))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:26:04.842074+05:30
-- **Local Path**: `ai/rag/pkgdown-2-1-0.md`
-
-### 44. [Community Participation Guidelines — Mozilla](../ai/rag/community-participation-guidelines-mozilla.md) ([Source URL](https://mozilla.org/about/governance/policies/participation))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:25:55.388853+05:30
-- **Local Path**: `ai/rag/community-participation-guidelines-mozilla.md`
-
-### 45. [Discourse API Docs](../ai/resources/discourse-api-docs.md) ([Source URL](https://docs.discourse.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:25:52.718489+05:30
-- **Local Path**: `ai/resources/discourse-api-docs.md`
-
-### 46. [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md) ([Source URL](https://discourse.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:25:48.575700+05:30
-- **Local Path**: `ai/resources/discourse-where-tech-companies-build-communities.md`
-
-### 47. [Vimwiki by vimwiki](../ai/resources/vimwiki-by-vimwiki.md) ([Source URL](https://vimwiki.github.io))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:25:44.407606+05:30
-- **Local Path**: `ai/resources/vimwiki-by-vimwiki.md`
-
-### 48. [Posit Community](../ai/resources/posit-community.md) ([Source URL](https://forum.posit.co))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-24T23:25:39.544768+05:30
-- **Local Path**: `ai/resources/posit-community.md`
-
-### 49. [Pandoc - Pandoc Userâs Guide](../ai/rag/pandoc-pandoc-useras-guide.md) ([Source URL](https://pandoc.org/manual.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:25:34.560618+05:30
-- **Local Path**: `ai/rag/pandoc-pandoc-useras-guide.md`
-
-### 50. [Posit Open Source](../ai/rag/posit-open-source.md) ([Source URL](https://opensource.posit.co))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-24T23:25:27.408241+05:30
-- **Local Path**: `ai/rag/posit-open-source.md`
+- **Collected At**: 2026-06-25T16:44:30.018900+05:30
+- **Local Path**: `ai/rag/gemini-in-android-studio-android-developers.md`
 
 ---
-*Index generated on 2026-06-24T23:30:07.217163+05:30*
+*Index generated on 2026-06-25T16:51:54.217149+05:30*

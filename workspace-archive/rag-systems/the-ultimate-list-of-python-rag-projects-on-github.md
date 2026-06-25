@@ -3,7 +3,7 @@ title: The Ultimate List of Python RAG Projects on GitHub · Technical news abou
   coding and all
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github
+source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
 local_vault_path: ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md
 quality_score: 70
@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and supports **Llama 3.1 70b instruct**, reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and improved LLM compatibility (e.g., Llama 3.1 70b instruct), reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with support for **multi-modal parsing** (CSV, PDF, images) and structured database connectors.
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, boosting retrieval accuracy by **30%** in large-scale unstructured datasets, with support for multi-format parsing (CSV, PDF, Word) and structured database connectors.
 
-- **RAGFlow v0.24.0** offers enterprise-grade
+- **RAGFlow
 
 ## Use Cases
 
@@ -54,7 +54,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dasroot.net/posts/2026/03/python-rag-projects-github
+Original source URL: https://dasroot.net/posts/2026/03/python-rag-projects-github/
 
 ## Local Vault File
 

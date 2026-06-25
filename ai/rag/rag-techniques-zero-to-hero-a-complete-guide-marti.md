@@ -3,9 +3,9 @@ title: 'RAG Techniques: Zero to Hero — A Complete Guide | martinuke0''s Blog'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
-published_at: '2026-06-24T22:53:19.431021+05:30'
-collected_at: '2026-06-24T22:53:19.431030+05:30'
+source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
+published_at: '2026-06-25T16:36:55.617997+05:30'
+collected_at: '2026-06-25T16:36:55.618008+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-24T22:53:19.431030+05:30'
-last_seen: '2026-06-24T22:53:19.431030+05:30'
-last_checked: '2026-06-24T22:53:19.431030+05:30'
+first_seen: '2026-06-25T16:36:55.618008+05:30'
+last_seen: '2026-06-25T16:36:55.618008+05:30'
+last_checked: '2026-06-25T16:36:55.618008+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/caching layers; hybrid search (BM25 + vector) improves recall/precision by combining exact-match and semantic retrieval.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator, optionally enhanced with rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
 
-- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific embedding fine-tuning and dimensionality normalization enhance performance, while ANN indexes (HNSW/IVF) enable scalable vector search.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) directly impact retrieval quality; embeddings (off-the-shelf or fine-tuned) must balance dimensionality, normalization, and modality support for optimal performance.
 
-- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (first-stage candidate generation + cross-encoder reranking) balances precision/latency; iterative multi-hop retrieval and context distillation reduce hallucinations by decomposing queries and condensing evidence before LLM generation.
+- **Multi-Stage Retrieval & Context Management**: Hybrid retrieval (BM25 + vector) with ANN indexes improves recall; two-stage retrieval (retriever + cross-encoder reranker) enhances precision; context distillation and autocut strategies mitigate hallucinations and token budget constraints.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:53:19.431021+05:30
+- Published: 2026-06-25T16:36:55.617997+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide
+Original source: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/

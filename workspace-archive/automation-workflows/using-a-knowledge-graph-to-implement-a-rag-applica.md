@@ -2,13 +2,13 @@
 title: Using a knowledge graph to implement a RAG application
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://neo4j.com/blog/developer/rag-tutorial
+source_url: https://neo4j.com/blog/developer/rag-tutorial/
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) using Neo4j and LangChain, enabling hybrid retrieval for explainable, scalable RAG systems with both unstructured and structured data integration.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured domain knowledge with unstructured text retrieval.
 
-- **Core RAG Workflow**: Three-stage process—(1) **Retrieval** via embedding models and vector databases, (2) **Augmentation** by combining retrieved context with user queries into an augmented prompt, (3) **Generation** using
+- **Core RAG Workflow**: Retrieval (embedding-based semantic search), Augmentation (combining retrieved context with user query), and Generation (LLM response grounded in retrieved data), with GraphR
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://neo4j.com/blog/developer/rag-tutorial
+Original source URL: https://neo4j.com/blog/developer/rag-tutorial/
 
 ## Local Vault File
 

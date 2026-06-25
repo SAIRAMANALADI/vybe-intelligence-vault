@@ -31,9 +31,10 @@ selection_reason:
 
 ## Summary
 
-- **Supported Platforms**: YouTube TV is accessible on computers (Chrome/Firefox/Safari), smart TVs (LG/Samsung/Roku/Vizio/etc.), streaming devices (Fire TV, Apple TV, Chromecast, Roku, etc.), game consoles (PS4/PS5, Xbox), and XR devices (Meta Quest, Apple Vision Pro).
-- **System Requirements**: Requires latest browser versions (Chrome/Firefox/Safari) or specific device models; older devices (pre-2018) may have reduced multiview functionality or performance.
-- **Troubleshooting**: Common fixes
+- **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG 2017+, Samsung 2017+, Roku TV, Vizio SmartCast, Hisense select models, Fire TV Edition), streaming devices (Apple TV 4th Gen+, Chromecast, Roku devices, Fire TV Stick/4K/Cube, TiVo Stream 4K, Xfinity Flex), and XR devices (Android XR, Meta Quest 2+, Pico, Apple Vision Pro).
+
+- **System Requirements & Troubleshooting**:
+  - **Computers**: Requires latest Chrome, Firefox, or Safari; external
 
 ## Use Cases
 

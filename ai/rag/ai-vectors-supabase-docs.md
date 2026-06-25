@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-06-23T09:54:57.817342+05:30'
-collected_at: '2026-06-23T09:54:57.817357+05:30'
+published_at: '2026-06-25T16:40:10.547115+05:30'
+collected_at: '2026-06-25T16:40:10.547122+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-06-23T09:54:57.817357+05:30'
-last_seen: '2026-06-23T09:54:57.817357+05:30'
-last_checked: '2026-06-23T09:54:57.817357+05:30'
+first_seen: '2026-06-25T16:40:10.547122+05:30'
+last_seen: '2026-06-25T16:40:10.547122+05:30'
+last_checked: '2026-06-25T16:40:10.547122+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Supabase integrates vector search capabilities directly into PostgreSQL via `pgvector`**, enabling storage, indexing, and querying of vector embeddings at scale without external vector databases.
+- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector store for storing, indexing, and querying vector embeddings at scale, eliminating the need for external vector databases.
 
-- **Supports hybrid search workflows** combining semantic, keyword, and hybrid search methods for enhanced retrieval performance in AI applications.
+- **Multi-Model Embedding Workflow**: Supports unstructured embeddings via a Python client, open-source model-based embedding generation in Edge Functions, and structured embeddings through database migrations, with integrations for OpenAI, Hugging Face, LangChain, and others.
 
-- **Provides client libraries and Edge Function integrations** for open-source (e.g., Hugging Face) and proprietary (e.g., OpenAI) embedding models, with case studies demonstrating migrations from AWS RDS and Pinecone to Supabase for improved efficiency and GDPR compliance.
+- **Search Modalities & Case Studies**: Enables semantic, keyword, and hybrid search; includes production-ready examples (e.g., image search with OpenAI CLIP, ChatGPT plugins) and case studies (e.g., Berri AI, Firecrawl) demonstrating migration from AWS RDS/Pinecone to Supabase for vector embeddings.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:54:57.817342+05:30
+- Published: 2026-06-25T16:40:10.547115+05:30
 
 ## Related Tags
 

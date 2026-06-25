@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:notasithlord/peerd
 first_seen: '2026-06-24T22:48:57.047785+05:30'
 last_seen: '2026-06-24T22:48:57.047785+05:30'
 last_checked: '2026-06-24T22:48:57.047785+05:30'
 health_score: 100
 ---
+
 
 # Show HN: peerd – AI agent harness that runs entirely in your browser
 

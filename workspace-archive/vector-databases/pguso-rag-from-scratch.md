@@ -6,9 +6,9 @@ source_url: https://github.com/pguso/rag-from-scratch
 resource_id: github:pguso/rag-from-scratch
 local_vault_path: ai/rag/pguso-rag-from-scratch.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,15 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- Demonstrates Retrieval-Augmented Generation (RAG) implementation using local LLMs with `node-llama-cpp`, eliminating external dependencies for full transparency.
+- Covers end-to-end pipeline: embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval, and context-augmented generation in JavaScript/Node.js.
+- Educational repository targeting developers to understand core RAG mechanics (e.g., chunking strategies, retrieval tuning, prompt engineering) without propriet
 
 ## Use Cases
 

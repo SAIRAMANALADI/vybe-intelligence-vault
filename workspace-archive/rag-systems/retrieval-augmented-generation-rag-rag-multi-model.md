@@ -2,21 +2,22 @@
 title: Retrieval-Augmented Generation (RAG) — RAG multi model documentation
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://rag.readthedocs.io
+source_url: https://rag.readthedocs.io/
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
-archive_score: 76
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
+- meta-ai
+- models
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -24,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Framework**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching and integrating external knowledge.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Implementation Components**: Modular Python-based system with `process_pdf.py` (PDF splitting/embedding), `question_handler.py` (Q&A chains), `summarizer.py` (document summarization), and `translator.py` (text translation), all orchestrated via Streamlit for UI.
+- **Implementation Components**: Includes document processing (`process_pdf.py`), question-answering (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`) via modular Python chains.
+
+- **Streamlit-Based UI**: Provides an interactive interface for PDF upload
 
 ## Use Cases
 
@@ -44,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://rag.readthedocs.io
+Original source URL: https://rag.readthedocs.io/
 
 ## Local Vault File
 

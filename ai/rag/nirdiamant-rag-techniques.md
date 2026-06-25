@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-06-18T23:38:33.939347+05:30'
-published_at: '2026-06-18T18:07:54Z'
+collected_at: '2026-06-25T16:36:59.838292+05:30'
+published_at: '2026-06-25T10:44:08Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - models
 - openai
 - rag
-stars: 28036
+stars: 28174
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-17T20:54:18Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-06-18T23:38:33.939347+05:30'
-last_seen: '2026-06-18T23:38:33.939347+05:30'
-last_checked: '2026-06-18T23:38:33.939347+05:30'
+first_seen: '2026-06-25T16:36:59.838292+05:30'
+last_seen: '2026-06-25T16:36:59.838292+05:30'
+last_checked: '2026-06-25T16:36:59.838292+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,9 @@ health_score: 100
 
 ## Summary
 
-This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and vector databases, supporting frameworks like LangChain, LlamaIndex, and OpenAI.
+- **Technical Scope**: Includes semantic search, LLM integration, and Python-based implementations for retrieval-augmented generation, with a focus on machine learning and NLP applications.
+- **Metadata**: 28.1K stars, 3.4K forks, last updated June 25, 2026, emphasizing generative AI and Python-centric RAG methodologies.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 28036
-- Forks: 3392
+- Stars: 28174
+- Forks: 3421
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-06-18T18:07:54Z
+- Last Updated: 2026-06-25T10:44:08Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

@@ -8,6 +8,8 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 
 ## Top Matched Resources
 
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli) (tutorial - USEFUL Tier)
 - [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/rec/T-REC-X.680/en) (prompt - USEFUL Tier)
 - [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](https://www.itu.int/rec/T-REC-X.690/en) (tutorial - USEFUL Tier)
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
@@ -17,6 +19,8 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 
 https://github.com/cursor-rules (Cursor Rules Community)
 https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [GitHub Copilot CLI · GitHub](https://github.com/features/copilot/cli)
 
 ## Best Learning Resources
 
@@ -34,4 +38,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-06-24 23:30 IST*
+*Last updated: 2026-06-25 16:52 IST*

@@ -8,14 +8,14 @@ local_vault_path: ai/rag/wgcyeo-universalrag.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - python
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # wgcyeo/UniversalRAG
@@ -24,13 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-[ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
+- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval mechanisms.
+
+- **ACL 2026 Oral Contribution**: The framework introduces novel architectures for adaptive retrieval and fusion, optimizing performance across heterogeneous corpora while maintaining low latency and
 
 ## Use Cases
 

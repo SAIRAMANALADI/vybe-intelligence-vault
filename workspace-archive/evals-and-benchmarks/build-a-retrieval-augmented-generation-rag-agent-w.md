@@ -3,7 +3,7 @@ title: Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron |
   Technical Blog
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron
+source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes ReAct agent design where the LLM dynamically decides between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic decision-making, using tool calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **RAG Pipeline Components**: Implements a multi-stage retrieval process: user prompt embedding via Llama 3.2 EmbedQA 1b V2, vector database search for semantically relevant
+- **NVIDIA Nemotron Integration**: Utilizes NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output, async operat
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron
+Original source URL: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
 
 ## Local Vault File
 

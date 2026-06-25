@@ -13,13 +13,14 @@ collected_at: '2026-06-24T22:48:54.939841+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:captchas-have-failed-for-20-years
 first_seen: '2026-06-24T22:48:54.939841+05:30'
 last_seen: '2026-06-24T22:48:54.939841+05:30'
 last_checked: '2026-06-24T22:48:54.939841+05:30'
 health_score: 100
 ---
+
 
 # CAPTCHAs have failed for 20 years
 

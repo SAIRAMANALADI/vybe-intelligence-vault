@@ -14,15 +14,15 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Zoom Privacy Statement | Zoom](https://zoom.us/privacy) | `mcp-registry/` | 70 |
 | [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
 | [Welcome to the Planetary Data System](https://pds.nasa.gov) | `mcp-registry/` | 70 |
+| [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | `mcp-registry/` | 70 |
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
 | [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
 | [Gainsight University](https://education.gainsight.com) | `mcp-registry/` | 70 |
+| [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) | `mcp-registry/` | 70 |
 | [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) | `mcp-registry/` | 70 |
 | [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) | `mcp-registry/` | 70 |
 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | `mcp-registry/` | 70 |
-| [Greenhouse | Applicant tracking software & hiring platform](https://www.greenhouse.com) | `mcp-registry/` | 70 |
-| [Better Stack - 30x cheaper than Datadog, Exceptional support](https://betterstack.com) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

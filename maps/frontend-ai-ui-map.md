@@ -13,8 +13,8 @@ React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 *   [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started)
 *   [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com)
 *   [Memberstack Dashboard](https://app.memberstack.com/signup)
-*   [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](https://docs.jupyter.org)
 *   [RPKI Dashboard](https://dashboard.rpki.ripe.net)
+*   [EverPass](https://help.upshow.tv/hc/en-us)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

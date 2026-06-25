@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rubyllm.com
 hn_url: https://news.ycombinator.com/item?id=48660711
-score: 177
+score: 393
 author: doener
-comments_count: 23
+comments_count: 68
 published_at: '2026-06-24T20:11:41+05:30'
-collected_at: '2026-06-24T22:48:54.741812+05:30'
+collected_at: '2026-06-25T16:35:47.698030+05:30'
 tags:
 - ai
 - hackernews
 - llm
 status: active
-resource_id: hackernews:rubyllm-a-single-beautiful-ruby-framework-for-all
+resource_id: hackernews:rubyllm-a-ruby-framework-for-all-major-ai-provider
 first_seen: '2026-06-24T20:38:08.667888+05:30'
-last_seen: '2026-06-24T22:48:54.741812+05:30'
-last_checked: '2026-06-24T22:48:54.741812+05:30'
+last_seen: '2026-06-25T16:35:47.698030+05:30'
+last_checked: '2026-06-25T16:35:47.698030+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by doener. Score: 177, Comments: 23.
+Hacker News story by doener. Score: 393, Comments: 68.
 Original Link: https://rubyllm.com/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: doener
-- Score: 177 Upvotes
-- Comments: 23 Discussions
+- Score: 393 Upvotes
+- Comments: 68 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48660711
 - Original Article: https://rubyllm.com
 

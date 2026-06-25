@@ -4,25 +4,34 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-11T13:06:22.684493+00:00'
-published_at: '2026-06-08T23:22:43Z'
+collected_at: '2026-06-25T16:38:29.899135+05:30'
+published_at: '2026-06-25T11:00:28Z'
 tags:
 - agents
 - github-repo
 - rag
 - unknown
-stars: 762
+stars: 778
 language: Unknown
-status: new
+status: active
+license: MIT
+archived: false
+created_at: '2025-06-06T01:54:55Z'
+pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
+first_seen: '2026-06-25T16:38:29.899135+05:30'
+last_seen: '2026-06-25T16:38:29.899135+05:30'
+last_checked: '2026-06-25T16:38:29.899135+05:30'
+health_score: 100
 ---
-
 
 # DavidZWZ/Awesome-Deep-Research
 
 ## Summary
 
-[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning architectures.
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026's KnowFM track, emphasizing knowledge-intensive, multi-step reasoning tasks for deep research applications.
+- **High-Activity Repository**: Maintains active development (778 stars, 63 forks) with last update in June 2026, covering topics like reasoning-agent frameworks, LLM-based search, and hybrid retrieval-generation paradigms.
 
 ## Why It Matters
 
@@ -31,11 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DavidZWZ
-- Stars: 762
-- Forks: 61
+- Stars: 778
+- Forks: 63
 - Language: Unknown
 - Topics: agentic-ai, agentic-rag, deep-research, deep-research-agent, large-language-models, llms, rag, reasoning, reasoning-agent, search-agent
-- Last Updated: 2026-06-08T23:22:43Z
+- Last Updated: 2026-06-25T11:00:28Z
+- License: MIT
+- Archived: No
+- Created At: 2025-06-06T01:54:55Z
+- Pushed At: 2026-05-02T04:18:19Z
 
 ## Possible Use Cases
 

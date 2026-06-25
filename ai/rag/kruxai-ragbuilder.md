@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-22T15:36:56.347550+05:30'
+collected_at: '2026-06-25T16:38:19.974859+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
-- workflows
 stars: 1535
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-22T15:36:56.347550+05:30'
-last_seen: '2026-06-22T15:36:56.347550+05:30'
-last_checked: '2026-06-22T15:36:56.347550+05:30'
+first_seen: '2026-06-25T16:38:19.974859+05:30'
+last_seen: '2026-06-25T16:38:19.974859+05:30'
+last_checked: '2026-06-25T16:38:19.974859+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows.
-- **Data Preprocessing & Chunking**: Includes utilities for document parsing, text splitting, and metadata extraction to enhance retrieval quality and context relevance.
-- **Evaluation & Benchmarking**: Integrates tools for assessing RAG performance (e.g., retrieval accuracy, response quality) and supports iterative optimization for deployment.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized pipelines for data ingestion, indexing, and retrieval.
+
+- **Automated Optimization**: Implements techniques like dynamic chunking, embedding fine-tuning, and retrieval latency reduction to maximize RAG performance (e.g., precision, recall, latency) without manual tuning.
+
+- **Scalable Deployment**: Supports distributed inference, caching, and integration with cloud-native tools (e.g., Docker, Kubernetes) for seamless scaling in enterprise environments.
 
 ## Why It Matters
 

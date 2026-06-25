@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling local interaction with GitHub repositories via natural language queries.
-- **Python-Based Tool**: Built in Python, leveraging LLM capabilities for code comprehension and contextual responses.
-- **Repository Metadata**: 98 stars, 20 forks, last updated June 24, 2026; designed for offline/local use with GitHub repo integration.
+- **Practical RAG Implementation**: GitHubChat is a Retrieval-Augmented Generation (RAG) system enabling users to download and interact with GitHub repositories via natural language queries.
+- **Python-Based Tool**: The project is developed in Python, leveraging libraries for repository parsing, vector embeddings, and LLM integration for contextual responses.
+- **Self-Hosted Chat Interface**: Provides a local chat interface to query repository contents, with updates as recent as June 24, 2026.
 
 ## Use Cases
 

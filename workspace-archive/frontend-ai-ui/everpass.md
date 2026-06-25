@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **EverPass Manager**: Centralized dashboard for managing screens, devices, and data analytics.
-- **Live Event Streaming**: Supports real-time streaming of live events directly via EverPass.
-- **Device Lifecycle Support**: Covers installation, troubleshooting, and ordering processes for EverPass-compatible devices.
+- **EverPass Manager**: Centralized dashboard for managing screens, devices, and data analytics, serving as the primary control hub for the platform.
+- **Live Event Streaming**: Supports real-time streaming of live events directly through the EverPass infrastructure with dedicated tutorials for setup and management.
+- **Device & Billing Management**: Provides end-to-end support for device installation, troubleshooting, ordering, and billing-related operations via structured forms and documentati
 
 ## Use Cases
 

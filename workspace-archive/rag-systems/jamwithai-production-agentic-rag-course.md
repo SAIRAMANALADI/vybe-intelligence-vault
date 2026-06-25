@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Repository**: GitHub repository named `production-agentic-rag-course` focused on production-level agentic RAG (Retrieval-Augmented Generation) systems.
-- **Technical Stack**: Primarily implemented in Python, targeting advanced AI/ML workflows for scalable RAG deployments.
-- **Activity**: Last updated on **2026-06-22**, with **6,950 stars** and **1,554 forks**, indicating significant community engagement.
+- **Course Focus**: Production-grade Agentic RAG (Retrieval-Augmented Generation) implementation in Python, emphasizing scalable, real-world deployment.
+- **Repository Stats**: 6,999 stars, 1,571 forks, last updated June 25, 2026.
+- **Technical Scope**: Advanced RAG pipelines with agentic workflows, optimized for production environments.
 
 ## Use Cases
 

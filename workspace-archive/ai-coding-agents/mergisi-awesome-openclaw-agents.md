@@ -32,7 +32,9 @@ selection_reason:
 
 ## Summary
 
-162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
+- **Metadata**: 3,727 stars, 607 forks, primarily HTML-based, last updated on 2026-06-25T07:30:04Z.
+- **Scope & Topics**: Encompasses AI agent templates, automation, multi-agent systems, no-code solutions, and integrations with tools like Docker, MCP, and Telegram bots.
 
 ## Use Cases
 

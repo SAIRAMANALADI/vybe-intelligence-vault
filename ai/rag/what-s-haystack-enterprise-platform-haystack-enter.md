@@ -4,21 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-24T20:44:39.719442+05:30'
-collected_at: '2026-06-24T20:44:39.719453+05:30'
+published_at: '2026-06-25T16:41:25.926804+05:30'
+collected_at: '2026-06-25T16:41:25.926811+05:30'
 tags:
 - agents
-- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-24T20:44:39.719453+05:30'
-last_seen: '2026-06-24T20:44:39.719453+05:30'
-last_checked: '2026-06-24T20:44:39.719453+05:30'
+first_seen: '2026-06-25T16:41:25.926811+05:30'
+last_seen: '2026-06-25T16:41:25.926811+05:30'
+last_checked: '2026-06-25T16:41:25.926811+05:30'
 health_score: 100
 ---
 
@@ -26,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
+- **Data Processing & Indexing**: Supports automated conversion of raw data (PDFs, Office docs, images) into searchable content via OCR and document conversion, with configurable indexing for fast retrieval in document stores.
 
-- **Modular RAG & Agentic Workflows**: Enables construction of advanced retrieval-augmented generation (RAG) pipelines and multi-step AI agents via configurable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic switching.
+- **Modular AI Pipeline Construction**: Enables building enterprise-grade AI agents and RAG pipelines using interchangeable components (retrievers, rankers, generators) via a visual Pipeline Builder, with model-agnostic support for switching LLMs/embeddings.
 
-- **Production-Grade Observability & APIs**: Provides REST API for automation, integrates with third-party tracing tools (Langfuse, Weights & Biases), and includes built-in performance dashboards and logs for debugging, monitoring, and user behavior analysis.
+- **Observability & Deployment**: Integrates with tracing tools (Langfuse, Weave) for debugging, includes built-in performance dashboards/logs, and supports prototype sharing (branded links) before production deployment via REST API.
 
 ## Why It Matters
 
@@ -40,15 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:44:39.719442+05:30
+- Published: 2026-06-25T16:41:25.926804+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 

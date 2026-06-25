@@ -2,7 +2,7 @@
 title: Welcome to Python.org
 archive_category: model-providers
 source_category: ai/resources
-source_url: https://www.python.org
+source_url: https://www.python.org/
 resource_id: blog:welcome-to-python-org
 local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - anthropic
 - producthunt
 - reddit
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (float result) and floor division (integer result), as demonstrated in its interactive shell.
-- Python's **compound data types**, such as lists, support indexing, slicing, and operations like list comprehensions (`[fruit.upper() for fruit in fruits]`) and built-in functions (`enumerate()`).
-- Python provides **control flow structures** (`if`, `for`, `while`, `range`) and **
+- Python supports arithmetic operations with intuitive syntax (`+`, `-`, `*`, `/`, `//`, `**`), including true division (`/`) and floor division (`//`), with parentheses for grouping expressions.
+- Python’s compound data types (e.g., lists) enable indexed access, slicing, and manipulation via built-in functions, while list comprehensions provide concise transformations (e.g., `[fruit.upper() for fruit in fruits]`).
+- Python’s control flow includes standard constructs (`if`, `for`, `while`, `rang
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.python.org
+Original source URL: https://www.python.org/
 
 ## Local Vault File
 

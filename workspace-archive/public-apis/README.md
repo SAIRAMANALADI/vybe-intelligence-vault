@@ -10,16 +10,17 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
+- [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 - [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
 - [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
 - [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (framework - USEFUL Tier)
-- [Build third-party apps with Bitbucket Cloud REST API | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api) (tutorial - USEFUL Tier)
-- [API for Developers - Gainsight Inc.](https://support.gainsight.com/PX/API_for_Developers) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -37,4 +38,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-24 23:30 IST*
+*Last updated: 2026-06-25 16:52 IST*

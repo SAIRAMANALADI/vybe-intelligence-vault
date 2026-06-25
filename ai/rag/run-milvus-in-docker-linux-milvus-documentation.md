@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/install_standalone-docker.md
-published_at: '2026-06-24T10:08:29.094438+05:30'
-collected_at: '2026-06-24T10:08:29.094452+05:30'
+published_at: '2026-06-25T16:40:05.846788+05:30'
+collected_at: '2026-06-25T16:40:05.846795+05:30'
 tags:
 - anthropic
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:run-milvus-in-docker-linux-milvus-documentation
-first_seen: '2026-06-24T10:08:29.094452+05:30'
-last_seen: '2026-06-24T10:08:29.094452+05:30'
-last_checked: '2026-06-24T10:08:29.094452+05:30'
+first_seen: '2026-06-25T16:40:05.846795+05:30'
+last_seen: '2026-06-25T16:40:05.846795+05:30'
+last_checked: '2026-06-25T16:40:05.846795+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus v3.0.x** introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queueing with reduced overhead, and an **optimized architecture** consolidating components for improved performance.
+- **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script to deploy Milvus in a single Docker container with embedded etcd (port `2379`) and Milvus (port `19530`), with data persisted in `./volumes/milvus`; WebUI accessible at `http://127.0.0.1:9091/webui/`.
 
-- **Docker-based deployment** via `standalone_embed.sh` automates Milvus setup in a container with embedded etcd (port 2379), exposes Milvus API at port 19530, and maps data to `volumes/milvus`; configurations can be customized via `user.yaml`.
+- **Key v3.0 Features**: Introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queuing, and an **optimized architecture** with consolidated components for improved performance.
 
-- **Upgrade path** includes a built-in `upgrade` command in the script, preserving data/configs while pulling the latest Milvus image; managed alternative **Zilliz Cloud** offers a fully managed, 10x faster Milvus service.
+- **Upgrade & Config Management**: Supports in-place upgrades via `standalone_embed.sh upgrade`, preserves data/configs, and allows runtime modifications via `user.yaml` with forced restarts; backup recommended via Docker Compose for standalone deployments.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:08:29.094438+05:30
+- Published: 2026-06-25T16:40:05.846788+05:30
 
 ## Related Tags
 

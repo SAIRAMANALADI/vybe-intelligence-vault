@@ -3,9 +3,9 @@ title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from Grap
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://graphacademy.neo4j.com
-published_at: '2026-06-24T20:47:46.668440+05:30'
-collected_at: '2026-06-24T20:47:46.668455+05:30'
+source_url: https://graphacademy.neo4j.com/
+published_at: '2026-06-25T16:44:16.837030+05:30'
+collected_at: '2026-06-25T16:44:16.837044+05:30'
 tags:
 - agents
 - frontend_ui
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
-first_seen: '2026-06-24T20:47:46.668455+05:30'
-last_seen: '2026-06-24T20:47:46.668455+05:30'
-last_checked: '2026-06-24T20:47:46.668455+05:30'
+first_seen: '2026-06-25T16:44:16.837044+05:30'
+last_seen: '2026-06-25T16:44:16.837044+05:30'
+last_checked: '2026-06-25T16:44:16.837044+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher, graph modeling, and data import, with durations ranging from 1 to 8 hours.
-
-- **Generative AI & GraphRAG Pathway** includes courses on integrating Neo4j with LLMs (e.g., LangChain, Python MCP tools) for building knowledge graphs, chatbots, and agentic systems, with most courses lasting 2 hours.
-
-- **Certifications** available: *Neo4j Certified Professional* (1 hour) and *Neo4j Graph Data Science Certification* (1 hour), both providing accredited validation of expertise.
+*   GraphAcademy provides specialized training for integrating Neo4j knowledge graphs with Generative AI, covering vector indexes, LLM-driven knowledge graph construction (GraphRAG), and application development with frameworks like LangChain for chatbots and agentic systems.
+*   Core curriculum encompasses Neo4j fundamentals, Cypher query language proficiency (from basics to advanced aggregations, indexes, and constraints), graph data modeling best practices, and data import methodologies.
+*   Application development pathways support multiple programming languages (Python, TypeScript, .NET, Node.js, Java, Go) using official Neo4j drivers and frameworks (e.g., Spring Data, GraphQL), alongside modules on applying the Neo4j Graph Data Science (GDS) library for graph algorithms and machine learning.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:47:46.668440+05:30
+- Published: 2026-06-25T16:44:16.837030+05:30
 
 ## Related Tags
 
@@ -52,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://graphacademy.neo4j.com
+Original source: https://graphacademy.neo4j.com/

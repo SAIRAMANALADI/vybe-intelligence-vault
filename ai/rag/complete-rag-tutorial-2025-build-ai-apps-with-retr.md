@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-06-23T09:59:14.682568+05:30'
-collected_at: '2026-06-23T09:59:14.682580+05:30'
+published_at: '2026-06-25T16:36:55.175849+05:30'
+collected_at: '2026-06-25T16:36:55.175863+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-06-23T09:59:14.682580+05:30'
-last_seen: '2026-06-23T09:59:14.682580+05:30'
-last_checked: '2026-06-23T09:59:14.682580+05:30'
+first_seen: '2026-06-25T16:36:55.175863+05:30'
+last_seen: '2026-06-25T16:36:55.175863+05:30'
+last_checked: '2026-06-25T16:36:55.175863+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional features for creators, advertisers, and developers.
-
-- **Technical Infrastructure**: Utilizes Google's distributed systems (e.g., CDNs, AI-driven recommendations) to optimize content delivery, scalability, and personalized user experiences.
-
-- **Policy & Compliance**: Enforces strict [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Safety Guidelines](https://www.youtube.com/about/policies/) to regulate uploads, monetization, and legal compliance.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, and monetization via ads (Google Ads) and subscriptions (YouTube Premium).
+- **Developer & API Access**: Provides APIs and tools for developers (YouTube Data API, YouTube Analytics API) to integrate platform features into third-party applications.
+- **Policy & Compliance**: Enforces content policies (Community Guidelines, Copyright, Privacy Policy) with tools for creators, advertisers, and users to manage compliance and disputes.
 
 ## Why It Matters
 
@@ -38,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T09:59:14.682568+05:30
+- Published: 2026-06-25T16:36:55.175849+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 - youtube

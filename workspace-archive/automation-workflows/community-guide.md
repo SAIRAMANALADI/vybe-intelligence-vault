@@ -2,7 +2,7 @@
 title: Community Guide
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://jupyterbook.org
+source_url: https://jupyterbook.org/
 resource_id: blog:community-guide
 local_vault_path: ai/resources/community-guide.md
 quality_score: 70
@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - models
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -35,9 +34,9 @@ selection_reason:
 
 - **Architecture**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to its predecessor.
 
-- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via Notebooks/Markdown, cross-referencing, live widget integration, and execution of Python/R/Julia at build time.
+- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via MyST Markdown or Jupyter Notebooks, with features like cross-referencing, in-build code execution (Python, R, Julia), and live widget integration for web publishing.
 
-- **Deployment & Extensibility**: Allows publishing to the web with live widgets, supports JupyterHub/Binder integrati
+- **Deployment & Extensibility**: Facilitates deployment to the
 
 ## Use Cases
 
@@ -47,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyterbook.org
+Original source URL: https://jupyterbook.org/
 
 ## Local Vault File
 

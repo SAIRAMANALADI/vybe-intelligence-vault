@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:nousresearch/hermes-agent
 first_seen: '2026-06-24T10:06:14.484371+05:30'
 last_seen: '2026-06-24T22:48:55.947497+05:30'
 last_checked: '2026-06-24T22:48:55.947497+05:30'
 health_score: 100
 ---
+
 
 # NousResearch/hermes-agent
 

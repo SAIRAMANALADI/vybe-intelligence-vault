@@ -2,14 +2,14 @@
 title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://graphacademy.neo4j.com
+source_url: https://graphacademy.neo4j.com/
 resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
 local_vault_path: ai/rag/free-self-paced-hands-on-online-training-free-neo4.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
-resource_kind: tutorial
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -18,7 +18,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
@@ -26,18 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher, graph modeling, and data import, with durations ranging from 1 to 8 hours.
-
-- **Generative AI & GraphRAG Pathway** includes courses on integrating Neo4j with LLMs (e.g., LangChain, Python MCP tools) for building knowledge graphs, chatbots, and agentic systems, with most courses lasting 2 hours.
-
-- **Certifications** available: *Neo4j Certified Professional* (1 hour) and *Neo4
+*   GraphAcademy provides specialized training for integrating Neo4j knowledge graphs with Generative AI, covering vector indexes, LLM-driven knowledge graph construction (GraphRAG), and application development with frameworks like LangChain for chatbots and agentic systems.
+*   Core curriculum encompasses Neo4j fundamentals, Cypher query language proficiency (from basics to advanced aggregations, indexes, and constraints), graph data modeling best practices, and data import methodologies.
+*   A
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://graphacademy.neo4j.com
+Original source URL: https://graphacademy.neo4j.com/
 
 ## Local Vault File
 

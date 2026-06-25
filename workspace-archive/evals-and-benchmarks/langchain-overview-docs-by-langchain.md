@@ -6,13 +6,14 @@ source_url: https://js.langchain.com
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -29,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Composition**: `create_agent` in LangChain provides a minimal, configurable harness combining model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google for flexible agent construction.
-
-- **Modular Architecture**: LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop support, enabling advanced workflows while maintaining portability across models via a standard interface.
-
-- **Observability & Debugging**: LangS
+- `create_agent` provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- LangChain agents leverage LangGraph for durable execution, persistence, and human-in-the-loop workflows, while LangSmith enables tracing, debugging, and evaluation of agent behavior.
+- Standardized model interfaces and incremental middleware-based customization allow portable, scalable agent development with minimal code c
 
 ## Use Cases
 

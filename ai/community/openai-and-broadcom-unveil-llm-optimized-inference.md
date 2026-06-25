@@ -15,13 +15,14 @@ tags:
 - hackernews
 - llm
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-and-broadcom-unveil-llm-optimized-inference
 first_seen: '2026-06-24T22:48:56.935370+05:30'
 last_seen: '2026-06-24T22:48:56.935370+05:30'
 last_checked: '2026-06-24T22:48:56.935370+05:30'
 health_score: 100
 ---
+
 
 # OpenAI and Broadcom unveil LLM-optimized inference chip
 

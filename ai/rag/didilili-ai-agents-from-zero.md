@@ -4,25 +4,38 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-11T13:11:18.771848+00:00'
-published_at: '2026-06-11T12:44:48Z'
+collected_at: '2026-06-25T16:38:49.947965+05:30'
+published_at: '2026-06-25T10:56:10Z'
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
-stars: 1887
+- workflows
+stars: 2202
 language: Python
-status: new
+status: active
+license: MIT
+archived: false
+created_at: '2026-01-29T02:49:11Z'
+pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
+first_seen: '2026-06-25T16:38:49.947965+05:30'
+last_seen: '2026-06-25T16:38:49.947965+05:30'
+last_checked: '2026-06-25T16:38:49.947965+05:30'
+health_score: 100
 ---
-
 
 # didilili/ai-agents-from-zero
 
 ## Summary
 
-🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
+- **Comprehensive AI Agent Learning Path (2026)**: Covers LangChain, LangGraph, Coze, Dify, MCP, and skills, integrating LLM, RAG, prompt engineering, enterprise deployment, and fine-tuning for AI agent development roles.
+
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment workflows, and a curated interview question database aligned with AI application development engineer positions.
+
+- **Full-Stack AI Agent Development**: Bridges learning to deployment with modular components (skills, RAG, MCP) and supports Python-based frameworks for end-to-end AI agent lifecycle management.
 
 ## Why It Matters
 
@@ -31,11 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 1887
-- Forks: 251
+- Stars: 2202
+- Forks: 292
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-06-11T12:44:48Z
+- Last Updated: 2026-06-25T10:56:10Z
+- License: MIT
+- Archived: No
+- Created At: 2026-01-29T02:49:11Z
+- Pushed At: 2026-06-23T16:29:23Z
 
 ## Possible Use Cases
 

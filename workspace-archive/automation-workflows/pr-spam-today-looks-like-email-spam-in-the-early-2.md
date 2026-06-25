@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by dakshgupta. Score: 31, Comments: 25.
+Hacker News story by dakshgupta. Score: 230, Comments: 135.
 Original Link: https://www.greptile.com/blog/prs-on-openclaw
 
 ## Use Cases

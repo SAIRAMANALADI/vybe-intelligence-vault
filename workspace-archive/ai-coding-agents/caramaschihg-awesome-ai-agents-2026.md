@@ -31,7 +31,9 @@ selection_reason:
 
 ## Summary
 
-🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
+- **Curated repository** with 300+ AI agent resources, frameworks, and tools, categorized into 20+ topics, updated monthly.
+- **Key topics covered**: AI agents, LLM frameworks (e.g., LangChain, ChatGPT), machine learning tools, and 2026-focused AI advancements.
+- **Metadata**: 1,153 stars, 401 forks, last updated 2026-06-25T09:01:18Z.
 
 ## Use Cases
 

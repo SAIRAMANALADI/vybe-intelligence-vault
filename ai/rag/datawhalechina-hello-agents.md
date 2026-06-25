@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-18T23:38:29.081043+05:30'
-published_at: '2026-06-18T16:27:54Z'
+collected_at: '2026-06-25T16:36:59.884982+05:30'
+published_at: '2026-06-25T11:02:40Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-stars: 60220
+stars: 61692
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-09-07T09:50:24Z'
-pushed_at: '2026-06-18T15:59:33Z'
+pushed_at: '2026-06-24T17:33:54Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-18T23:38:29.081043+05:30'
-last_seen: '2026-06-18T23:38:29.081043+05:30'
-last_checked: '2026-06-18T23:38:29.081043+05:30'
+first_seen: '2026-06-25T16:36:59.884982+05:30'
+last_seen: '2026-06-25T16:36:59.884982+05:30'
+last_checked: '2026-06-25T16:36:59.884982+05:30'
 health_score: 100
 ---
 
@@ -29,7 +30,9 @@ health_score: 100
 
 ## Summary
 
-📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building intelligent agents from scratch, covering both theoretical principles and practical implementations.
+- **Technical Scope**: Focuses on key AI/ML concepts including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent-based architectures, implemented in Python.
+- **Community & Maintenance**: Highly active with **61,692 stars** and **7,609 forks**, last updated on **2026-06-25**, indicating ongoing development and community engagement.
 
 ## Why It Matters
 
@@ -38,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 60220
-- Forks: 7408
+- Stars: 61692
+- Forks: 7609
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-18T16:27:54Z
+- Last Updated: 2026-06-25T11:02:40Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z
-- Pushed At: 2026-06-18T15:59:33Z
+- Pushed At: 2026-06-24T17:33:54Z
 
 ## Possible Use Cases
 

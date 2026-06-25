@@ -4,24 +4,36 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-11T13:05:29.058314+00:00'
-published_at: '2026-06-11T09:44:13Z'
+collected_at: '2026-06-25T16:38:29.964035+05:30'
+published_at: '2026-06-25T10:44:52Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
-stars: 505
+stars: 518
 language: Python
-status: new
+status: active
+license: GPL-3.0
+archived: false
+created_at: '2025-10-27T02:16:18Z'
+pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
+first_seen: '2026-06-25T16:38:29.964035+05:30'
+last_seen: '2026-06-25T16:38:29.964035+05:30'
+last_checked: '2026-06-25T16:38:29.964035+05:30'
+health_score: 100
 ---
-
 
 # DEEP-PolyU/LinearRAG
 
 ## Summary
 
-[ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and traversal.
+
+- **Scalable Graph Construction**: Implements linear-time graph construction (O(n)) for corpus encoding, enabling efficient storage and retrieval while maintaining semantic relationships across large document collections.
+
+- **Performance Benchmarks**: Demonstrates state-of-the-art results on ICLR 2026 benchmarks, with significant improvements in retrieval accuracy (up to +18.7%) and generation quality over traditional RAG baselines.
 
 ## Why It Matters
 
@@ -30,11 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DEEP-PolyU
-- Stars: 505
-- Forks: 59
+- Stars: 518
+- Forks: 61
 - Language: Python
 - Topics: graphrag, llms, rag
-- Last Updated: 2026-06-11T09:44:13Z
+- Last Updated: 2026-06-25T10:44:52Z
+- License: GPL-3.0
+- Archived: No
+- Created At: 2025-10-27T02:16:18Z
+- Pushed At: 2026-05-21T00:49:58Z
 
 ## Possible Use Cases
 

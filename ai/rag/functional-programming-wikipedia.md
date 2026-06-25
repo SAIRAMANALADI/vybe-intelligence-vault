@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Functional_programming
-published_at: '2026-06-24T10:10:59.250142+05:30'
-collected_at: '2026-06-24T10:10:59.250158+05:30'
+published_at: '2026-06-25T16:44:27.050414+05:30'
+collected_at: '2026-06-25T16:44:27.050422+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:functional-programming-wikipedia
-first_seen: '2026-06-24T10:10:59.250158+05:30'
-last_seen: '2026-06-24T10:10:59.250158+05:30'
-last_checked: '2026-06-24T10:10:59.250158+05:30'
+first_seen: '2026-06-25T16:44:27.050422+05:30'
+last_seen: '2026-06-25T16:44:27.050422+05:30'
+last_checked: '2026-06-25T16:44:27.050422+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed via function application and composition, avoiding imperative state mutation in favor of expression-based evaluation trees.
+- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed by applying and composing functions, avoiding imperative state mutations in favor of expression-based trees mapping inputs to outputs.
 
 - **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
 
-- **Pure vs. Impure FP**: Pure functional programming restricts functions to deterministic, side-effect-free operations (mathematical purity), contrasting with impure procedures that modify state or produce side effects, aiming to reduce bugs and ease testing.
+- **Pure vs. Impure Functions**: Pure functions are deterministic, side-effect-free, and stateless, contrasting with impure procedures that modify state or produce side effects, with proponents arguing FP reduces bugs and simplifies debugging/testing.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:10:59.250142+05:30
+- Published: 2026-06-25T16:44:27.050414+05:30
 
 ## Related Tags
 

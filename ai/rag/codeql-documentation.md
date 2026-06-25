@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs
-published_at: '2026-06-22T15:17:52.952341+05:30'
-collected_at: '2026-06-22T15:17:52.952356+05:30'
+published_at: '2026-06-25T16:45:15.536859+05:30'
+collected_at: '2026-06-25T16:45:15.536865+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-06-22T15:17:52.952356+05:30'
-last_seen: '2026-06-22T15:17:52.952356+05:30'
-last_checked: '2026-06-22T15:17:52.952356+05:30'
+first_seen: '2026-06-25T16:45:15.536865+05:30'
+last_seen: '2026-06-25T16:45:15.536865+05:30'
+last_checked: '2026-06-25T16:45:15.536865+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
-
-- **Core Components**: Includes QL language reference, standard libraries, and query help; supported by CLI releases, VS Code extension, and open-source repository for contributions.
-
-- **Learning & Execution**: Provides guides for writing queries, language-specific documentation, and tools for running queries on single/multiple codebases, with system requirements and changelogs for updates.
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks via QL (query language).
+- **Supported & Documentation**: Covers 12+ languages (e.g., C/C++, Java, Python), with release notes, system requirements, and CWE coverage mappings.
+- **Resources & Tools**: Provides CLI, VS Code extension, open-source repository, and QL language/standard library references for query development and execution.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:17:52.952341+05:30
+- Published: 2026-06-25T16:45:15.536859+05:30
 
 ## Related Tags
 

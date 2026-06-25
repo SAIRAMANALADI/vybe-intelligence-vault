@@ -3,18 +3,19 @@ title: Google Colab
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
-published_at: '2026-06-22T15:19:11.411864+05:30'
-collected_at: '2026-06-22T15:19:11.411880+05:30'
+source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+published_at: '2026-06-25T16:42:30.827336+05:30'
+collected_at: '2026-06-25T16:42:30.827345+05:30'
 tags:
 - hackernews
+- models
 - rag
 - web-crawled
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-06-22T15:19:11.411880+05:30'
-last_seen: '2026-06-22T15:19:11.411880+05:30'
-last_checked: '2026-06-22T15:19:11.411880+05:30'
+first_seen: '2026-06-25T16:42:30.827345+05:30'
+last_seen: '2026-06-25T16:42:30.827345+05:30'
+last_checked: '2026-06-25T16:42:30.827345+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Resource Unavailable**: The provided link requires authentication (Google Sign-In) and does not grant direct access to the content.
-
-- **Contextual Clue**: The URL suggests the resource is a Jupyter Notebook (`00-simple-local-rag.ipynb`) hosted on GitHub under the `mrdbourke/simple-local-rag` repository, focusing on a "simple local RAG" implementation.
-
-- **Technical Focus**: The notebook likely covers Retrieval-Augmented Generation (RAG) techniques executed locally, emphasizing practical, lightweight implementations without cloud dependencies.
+- **Resource**: Google Colab notebook for LoRA (Low-Rank Adaptation) fine-tuning of Gemma models.
+- **Key Focus**: Demonstrates parameter-efficient fine-tuning (PEFT) using LoRA on Gemma models via Hugging Face Transformers.
+- **Technical Details**: Includes implementation steps for applying LoRA to Gemma, leveraging `peft` and `transformers` libraries for memory-efficient training.
 
 ## Why It Matters
 
@@ -36,14 +35,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:19:11.411864+05:30
+- Published: 2026-06-25T16:42:30.827336+05:30
 
 ## Related Tags
 
 - hackernews
+- models
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
+Original source: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb

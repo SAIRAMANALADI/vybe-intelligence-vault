@@ -2,13 +2,13 @@
 title: Cloudflare Developer Docs | Cloudflare Docs
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://developers.cloudflare.com
+source_url: https://developers.cloudflare.com/
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
 local_vault_path: ai/rag/cloudflare-developer-docs-cloudflare-docs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via Workers, Containers, Durable Objects, and Workers AI, supporting one-command deployment (`npm create cloudflare@latest my-app`) and AI model execution (`npx wrangler ai models`) without GPU management.
+- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions and full-stack apps via Workers, Containers, Durable Objects, and Queues with single-command execution (`npm create cloudflare@latest my-app`), while offering an AI inference platform (Workers AI) supporting model execution, agents, and vector search without GPU management.
 
-- **Unified Global Data & Media Services**: Provides serverless SQL (D1), globally distributed key-value (KV), object storage (R2), and media pipelines
+- **Unified Data & Media Services**: Provides globally distributed databases (D1 SQL, KV, R2 object storage, Hyperdrive
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.cloudflare.com
+Original source URL: https://developers.cloudflare.com/
 
 ## Local Vault File
 

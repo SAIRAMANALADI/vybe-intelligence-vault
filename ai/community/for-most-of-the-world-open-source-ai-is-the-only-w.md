@@ -13,13 +13,14 @@ collected_at: '2026-06-24T22:48:55.232134+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:for-most-of-the-world-open-source-ai-is-the-only-w
 first_seen: '2026-06-24T22:48:55.232134+05:30'
 last_seen: '2026-06-24T22:48:55.232134+05:30'
 last_checked: '2026-06-24T22:48:55.232134+05:30'
 health_score: 100
 ---
+
 
 # For Most of the World, Open-Source AI Is the Only Way Forward
 

@@ -3,9 +3,9 @@ title: Cloudflare Developer Docs | Cloudflare Docs
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.cloudflare.com
-published_at: '2026-06-24T10:27:20.882342+05:30'
-collected_at: '2026-06-24T10:27:20.882356+05:30'
+source_url: https://developers.cloudflare.com/
+published_at: '2026-06-25T16:44:22.876614+05:30'
+collected_at: '2026-06-25T16:44:22.876622+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
-first_seen: '2026-06-24T10:27:20.882356+05:30'
-last_seen: '2026-06-24T10:27:20.882356+05:30'
-last_checked: '2026-06-24T10:27:20.882356+05:30'
+first_seen: '2026-06-25T16:44:22.876622+05:30'
+last_seen: '2026-06-25T16:44:22.876622+05:30'
+last_checked: '2026-06-25T16:44:22.876622+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables deployment of serverless functions, full-stack apps, and AI inference globally via Workers, Containers, Durable Objects, and Workers AI, supporting one-command deployment (`npm create cloudflare@latest my-app`) and AI model execution (`npx wrangler ai models`) without GPU management.
+- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions and full-stack apps via Workers, Containers, Durable Objects, and Queues with single-command execution (`npm create cloudflare@latest my-app`), while offering an AI inference platform (Workers AI) supporting model execution, agents, and vector search without GPU management.
 
-- **Unified Global Data & Media Services**: Provides serverless SQL (D1), globally distributed key-value (KV), object storage (R2), and media pipelines (Images, Stream) with native integration to Workers, enabling instant, globally distributed database queries and media optimization without infrastructure overhead.
+- **Unified Data & Media Services**: Provides globally distributed databases (D1 SQL, KV, R2 object storage, Hyperdrive for PostgreSQL/MySQL) with direct Worker integration, alongside media pipelines (Images, Stream) for scalable storage, optimization, and delivery via APIs like `curl --request POST https://api.cloudflare.com/client/v4/accounts/$ACCOUNT_ID/images/v1`.
 
-- **Security & Performance Stack**: Integrates WAF, SSL/TLS, Turnstile (bot mitigation), and Zero Trust networking (Tunnel, Access, Gateway) with CDN acceleration, caching, and real-time analytics, ensuring scalable security and performance for applications and corporate networks.
+- **Security & Performance Layer**: Integrates WAF, SSL/TLS, Turnstile (bot mitigation), and post-quantum encrypted tunnels (Cloudflare Tunnel) for application/API security, while optimizing web performance through CDN caching, image optimization, Smart Shield, and Web Analytics with cookie-less Core Web Vitals tracking.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:27:20.882342+05:30
+- Published: 2026-06-25T16:44:22.876614+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.cloudflare.com
+Original source: https://developers.cloudflare.com/

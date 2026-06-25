@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://help.upshow.tv/hc/en-us
-published_at: '2026-06-24T23:00:53.462167+05:30'
-collected_at: '2026-06-24T23:00:53.462180+05:30'
+published_at: '2026-06-25T16:43:05.998588+05:30'
+collected_at: '2026-06-25T16:43:05.998598+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:everpass
-first_seen: '2026-06-24T23:00:53.462180+05:30'
-last_seen: '2026-06-24T23:00:53.462180+05:30'
-last_checked: '2026-06-24T23:00:53.462180+05:30'
+first_seen: '2026-06-25T16:43:05.998598+05:30'
+last_seen: '2026-06-25T16:43:05.998598+05:30'
+last_checked: '2026-06-25T16:43:05.998598+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **EverPass Manager**: Centralized dashboard for managing screens, devices, and data analytics.
-- **Live Event Streaming**: Supports real-time streaming of live events directly via EverPass.
-- **Device Lifecycle Support**: Covers installation, troubleshooting, and ordering processes for EverPass-compatible devices.
+- **EverPass Manager**: Centralized dashboard for managing screens, devices, and data analytics, serving as the primary control hub for the platform.
+- **Live Event Streaming**: Supports real-time streaming of live events directly through the EverPass infrastructure with dedicated tutorials for setup and management.
+- **Device & Billing Management**: Provides end-to-end support for device installation, troubleshooting, ordering, and billing-related operations via structured forms and documentation.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T23:00:53.462167+05:30
+- Published: 2026-06-25T16:43:05.998588+05:30
 
 ## Related Tags
 

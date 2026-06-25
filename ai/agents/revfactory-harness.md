@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - html
-status: active
+status: inactive
 resource_id: github:revfactory/harness
 first_seen: '2026-06-24T10:06:14.483552+05:30'
 last_seen: '2026-06-24T22:48:55.946040+05:30'
 last_checked: '2026-06-24T22:48:55.946040+05:30'
 health_score: 100
 ---
+
 
 # revfactory/harness
 

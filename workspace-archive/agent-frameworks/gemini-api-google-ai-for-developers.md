@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini Deep Research API** introduces collaborative planning, visualization, and MCP (Model Context Protocol) support for enhanced multi-step reasoning and tool integration in preview mode.
+- **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects.
 
-- **Multi-language SDKs** (Python, JavaScript, Go, Java, C#) and **REST API** enable programmatic access to Gemini models (e.g., `gemini-3.5-flash`) via standardized `generate_content` calls with structured input/output handling.
+- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **structured outputs** (JSON), with Python/JS/REST SDKs for seamless integration.
 
-- **Model Suite** includes multimodal (Gemini 3.1 Pro), cost-efficient (Ge
+- Offers **advanced capabilities** like long-context processing (millions of tokens), function calling for tool integration, and real-time vo
 
 ## Use Cases
 

@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows, ideal for complex RAG pipelines.
-- **Pathway**: Python (Rust runtime) framework with 50K+ stars, specializing in real-time data processing and incremental updates for dynamic knowledge bases.
-- **LightRAG**: Python-based framework with 27.4K stars, utilizing graph-based approaches (GraphRAG) for relationship-aware retrieval, derived from HKU resea
+- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines but has a steep learning curve.
+- **Pathway** (⭐50K+): Python (Rust runtime) framework optimized for real-time data processing with 350+ connectors, incremental updates, and unified ETL+RAG for live knowledge bases.
+- **LightRAG** (⭐27.4K): Graph-based RAG from HKU (EMNLP 2025) using knowledge graphs for relationship-aware retrieval, li
 
 ## Use Cases
 

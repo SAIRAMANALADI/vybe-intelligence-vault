@@ -15,6 +15,7 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM applications, leveraging Jupyter Notebooks for hands-on learning.
-- **Core Technologies**: Focuses on LangChain and Retrieval-Augmented Generation (RAG) pipelines for LLM integration and optimization.
-- **Resources & Updates**: Hosts an online book (https://datawhalechina.github.io/llm-universe/) with continuous updates (last modified: 2026-06-24).
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with focus on LangChain and RAG frameworks.
+
+- **Technical Scope**: Covers end-to-end workflows for building, deploying, and optimizing large language model applications with practical, hands-on examples.
+
+- **Community & Maintenance**: Actively maintained (last updated June 2026) with 13,326 stars and 1,364 forks, indicating strong community engagement and adoption.
 
 ## Use Cases
 

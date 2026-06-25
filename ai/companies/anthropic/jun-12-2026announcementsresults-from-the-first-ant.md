@@ -4,8 +4,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/anthropic-public-record
-published_at: '2026-06-24T22:48:56.991371+05:30'
-collected_at: '2026-06-24T22:48:56.991373+05:30'
+published_at: '2026-06-25T16:35:48.562014+05:30'
+collected_at: '2026-06-25T16:35:48.562017+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: blog:jun-12-2026announcementsresults-from-the-first-ant
 first_seen: '2026-06-16T04:26:32.175979+00:00'
-last_seen: '2026-06-24T22:48:56.991373+05:30'
-last_checked: '2026-06-24T22:48:56.991373+05:30'
+last_seen: '2026-06-25T16:35:48.562017+05:30'
+last_checked: '2026-06-25T16:35:48.562017+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/anthropic-public-record
-- Collected At: 2026-06-24T22:48:56.991373+05:30
+- Collected At: 2026-06-25T16:35:48.562017+05:30
 
 ## Related Tags
 

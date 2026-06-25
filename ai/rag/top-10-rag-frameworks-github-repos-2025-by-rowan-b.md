@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-24T22:50:58.039904+05:30'
-collected_at: '2026-06-24T22:50:58.039916+05:30'
+published_at: '2026-06-25T16:36:50.516447+05:30'
+collected_at: '2026-06-25T16:36:50.516459+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-24T22:50:58.039916+05:30'
-last_seen: '2026-06-24T22:50:58.039916+05:30'
-last_checked: '2026-06-24T22:50:58.039916+05:30'
+first_seen: '2026-06-25T16:36:50.516459+05:30'
+last_seen: '2026-06-25T16:36:50.516459+05:30'
+last_checked: '2026-06-25T16:36:50.516459+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready RAG pipelines, supporting multi-model integration (BERT, RoBERTa, DPR) and scalable document stores (Elasticsearch, FAISS, SQL) with 14.6k GitHub stars.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable pipelines for retrieval, QA, and summarization, with integration for BERT/RoBERTa/DPR models.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, vector DB integration, and a 11.6k-star GitHub repository with a focus on simplicity and efficiency.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, pre-built RAG pipelines, and vector database integration, optimized for rapid prototyping with minimal setup overhead.
 
-- **txtai (neuml)**: All-in-one AI framework combining semantic search, LLM orchestration, and embeddings DB for multi-language workflows, with 7.5k GitHub stars and extensible architecture for custom pipelines.
+- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit designed for efficient RAG research, featuring optimized retrieval algorithms, distributed processing support, and benchmarking tools for performance-critical applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:50:58.039904+05:30
+- Published: 2026-06-25T16:36:50.516447+05:30
 
 ## Related Tags
 

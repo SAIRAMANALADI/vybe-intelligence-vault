@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Event**: GraphTalk Netherlands, a European-focused conference on graph technology.
-- **Date & Time**: June 24, 2026, at 10:00 AM PDT.
-- **Registration**: Open via [Neo4j Events](https://events.neo4j.com/graphtalknetherlands).
+- **Ontology-Driven Semantic Layer**: Focuses on constructing a core ontology to enhance a semantic layer, enabling structured data integration and improved query capabilities.
+
+- **Technical Implementation**: Utilizes graph database technologies (e.g., Neo4j) to model relationships and hierarchies, ensuring scalable and flexible data representation.
+
+- **Benefits**: Enables semantic interoperability, reduces data silos, and supports advanced analytics by leveraging domain-specific knowledge enc
 
 ## Use Cases
 

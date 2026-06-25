@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 18, Downloads: 1458815)
+Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 18, Downloads: 1446572)
 
 ## Use Cases
 

@@ -3,9 +3,9 @@ title: Cloudflare Research
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://research.cloudflare.com
-published_at: '2026-06-24T22:55:19.074092+05:30'
-collected_at: '2026-06-24T22:55:19.074101+05:30'
+source_url: https://research.cloudflare.com/
+published_at: '2026-06-25T16:41:20.116735+05:30'
+collected_at: '2026-06-25T16:41:20.116743+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-06-24T22:55:19.074101+05:30'
-last_seen: '2026-06-24T22:55:19.074101+05:30'
-last_checked: '2026-06-24T22:55:19.074101+05:30'
+first_seen: '2026-06-25T16:41:20.116743+05:30'
+last_seen: '2026-06-25T16:41:20.116743+05:30'
+last_checked: '2026-06-25T16:41:20.116743+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight**: Lossless MLP weight compression system for LLM inference achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Lossless MLP weight compression system for LLM inference, achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
 - **RFC 9935**: Standardizes algorithm identifiers for Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM) in X.509 Public Key Infrastructure, enhancing post-quantum cryptographic interoperability.
 
-- **Research Focus Areas**: Cloudflare's research spans privacy-enhancing technologies, cryptographic/security advancements, next-gen network protocols (e.g., HTTP/3), distributed system resilience, and open internet measurement/verification frameworks.
+- **Research Focus Areas**: Cloudflare’s research spans **privacy-enhancing technologies**, **cryptographic/security advancements**, **next-gen network protocols**, **distributed systems resilience**, and **open internet measurement/verification**.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:55:19.074092+05:30
+- Published: 2026-06-25T16:41:20.116735+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://research.cloudflare.com
+Original source: https://research.cloudflare.com/

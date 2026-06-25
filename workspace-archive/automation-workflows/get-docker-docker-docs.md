@@ -2,7 +2,7 @@
 title: Get Docker | Docker Docs
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://docs.docker.com/install
+source_url: https://docs.docker.com/install/
 resource_id: blog:get-docker-docker-docs
 local_vault_path: ai/resources/get-docker-docker-docs.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Docker is an open platform enabling rapid development, shipping, and execution of applications by decoupling them from infrastructure, facilitating CI/CD workflows and reducing time-to-production.
+- Docker is an open-source platform for developing, shipping, and running applications in isolated containers, enabling rapid software delivery by decoupling applications from infrastructure.
 
-- Docker Desktop provides native applications for macOS, Windows, and Linux, delivering all Docker tools with platform-specific sandbox security models (commercial use in large enterprises requires a paid subscription).
+- Docker provides native desktop applications (Mac, Windows, Linux) for container management, with enterprise use requiring a paid subscription for organizations exceeding 250 employees or $10M annual revenue.
 
-- Docker Engine, distinct from Docker Desktop, is installed separately for core
+- Docker Desktop simplifies containerized workflows by integrating tools for building, testing,
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.docker.com/install
+Original source URL: https://docs.docker.com/install/
 
 ## Local Vault File
 

@@ -2,25 +2,24 @@
 title: Jupyter AI
 archive_category: mcp-registry
 source_category: ai/rag
-source_url: https://jupyter-ai.readthedocs.io/en/latest
+source_url: https://jupyter-ai.readthedocs.io/en/latest/
 resource_id: blog:jupyter-ai
 local_vault_path: ai/rag/jupyter-ai.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - anthropic
+- hackernews
 - mistral
 - models
 - openai
 - rag
 - reddit
-- scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Jupyter AI** integrates AI agents (e.g., Claude, GitHub Copilot, Gemini) into JupyterLab via a modular extension, enabling real-time collaborative editing and AI-assisted notebook workflows.
-
-- **Security & Control**: Implements default guardrails (e.g., permission prompts) for file operations, command execution, and MCP tool usage to mitigate risks in AI-driven notebook interactions.
-
-- **Extensibility**: Supports custom AI personas and MCP servers, allowing users to define specialized agen
+- **Jupyter AI** integrates AI agents (e.g., Claude, Codex, GitHub Copilot, Gemini) into JupyterLab for real-time collaboration and computation.
+- **Features** include collaborative chats, frontier agent support, real-time UI updates, default guardrails, and extensible MCP server integration.
+- **Technical stack** leverages Python, R, Julia, Scala, NumPy, Pandas, TensorFlow, PyTorch, and Apache Spark for computational notebooks.
 
 ## Use Cases
 
@@ -53,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyter-ai.readthedocs.io/en/latest
+Original source URL: https://jupyter-ai.readthedocs.io/en/latest/
 
 ## Local Vault File
 
