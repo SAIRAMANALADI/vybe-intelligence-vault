@@ -5,7 +5,7 @@ Below is the file distribution across the vault categories.
 | Folder | Files |
 | :--- | ---: |
 | `/` | 1 |
-| `ai/agents/` | 1147 |
+| `ai/agents/` | 1146 |
 | `ai/community/` | 6 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 9 |
@@ -13,12 +13,12 @@ Below is the file distribution across the vault categories.
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
 | `ai/models/` | 780 |
-| `ai/rag/` | 2755 |
+| `ai/rag/` | 2757 |
 | `ai/releases/` | 3 |
 | `ai/research/` | 2444 |
 | `ai/resources/` | 1183 |
 | `ai/trending/` | 6 |
-| `web-development/` | 41 |
+| `web-development/` | 40 |
 | `web-development/dashboards/` | 1 |
 | `web-development/framer-motion/` | 25 |
 | `web-development/gsap/` | 6 |
