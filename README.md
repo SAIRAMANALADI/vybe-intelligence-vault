@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 15:56 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 18:45 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,13 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+139 pts</kbd>
-- 🔼 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](ai/community/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai.md)** • <kbd>+105 pts</kbd>
-- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+56 pts</kbd>
-- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+47 pts</kbd>
-- 🔼 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)** • <kbd>+39 pts</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+9</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Why current LLM costs are not sustainable](ai/community/why-current-llm-costs-are-not-sustainable.md)** • Score: `84`
-- 🆕 **[Gemini 3.5 â Google DeepMind](ai/rag/gemini-3-5-a-google-deepmind.md)** • Score: `0`
-- 🆕 **[Gemini Apps Privacy Hub - Gemini Apps Help](ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md)** • Score: `0`
-- 🆕 **[Delete a document, spreadsheet, presentation, or video - Computer - Google Docs Editors Help](ai/rag/delete-a-document-spreadsheet-presentation-or-vide.md)** • Score: `0`
-- 🆕 **[Google Help](ai/rag/google-help.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

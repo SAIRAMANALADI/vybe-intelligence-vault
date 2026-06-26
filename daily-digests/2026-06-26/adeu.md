@@ -1,27 +1,27 @@
 ---
 title: "dealfluence/adeu"
 category: "Tooling"
-tech_stack: ["Python", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "CriticMarkup", "DOCX/OpenXML", "Markdown", "uv (Python package manager)", "LangChain (integration in progress)"]
+tech_stack: ["Python", "TypeScript", "Node.js", "MCP (Model Context Protocol)", "CriticMarkup", "OpenXML", "DOCX", "Markdown", "uv (Python package manager)", "LangChain (integration in progress)"]
 quality_score: 9
 rag_relevance: 8
-tags: ["document editing", "DOCX to Markdown", "track changes", "AI agent tools", "non-destructive editing"]
+tags: ["document processing", "LLM integration", "track changes", "DOCX to Markdown", "AI agent tools"]
 source: "https://github.com/dealfluence/adeu"
-discovered_at: "2026-06-26T10:24:07Z"
+discovered_at: "2026-06-26T13:12:33Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Adeu is a Model Context Protocol (MCP) server and SDK that translates Microsoft Word DOCX files into LLM-friendly Markdown with CriticMarkup for non-destructive editing, enabling AI agents to safely modify documents while preserving formatting and structure.
+Adeu is a Model Context Protocol (MCP) server and SDK that translates Microsoft Word DOCX files into LLM-friendly Markdown with CriticMarkup, enabling AI agents to edit documents non-destructively while preserving formatting and XML structure. It acts as a Virtual DOM for Word, supporting two-way document manipulation with safety validation.
 
 ## Key Features
-- Two-way DOCX ↔ Markdown translation with CriticMarkup for safe AI edits
-- Preserves document formatting and structure during AI-driven modifications
+- Non-destructive DOCX editing via CriticMarkup and Track Changes
+- Two-way translation between DOCX and LLM-friendly Markdown
+- Safety validation to prevent ambiguous or invalid edits
 - MCP server and SDK support for Python and Node.js
-- Live Microsoft Word integration for real-time editing
-- Validation and safety gates to prevent ambiguous or invalid changes
+- Live Microsoft Word integration on Windows
 
 ## Why It Matters for RAG Builders
-Adeu enables AI agents to safely and efficiently edit Microsoft Word documents without corrupting formatting, making it essential for RAG pipelines handling document-based workflows.
+Adeu bridges the gap between AI agents and structured document editing, enabling safe, context-aware document manipulation without compromising formatting or XML integrity.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -39,8 +39,11 @@ Automated review identified **MCP (Model Context Protocol)** as a key module con
 ### CriticMarkup
 Automated review identified **CriticMarkup** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### DOCX/OpenXML
-Automated review identified **DOCX/OpenXML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### OpenXML
+Automated review identified **OpenXML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### DOCX
+Automated review identified **DOCX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Markdown
 Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
