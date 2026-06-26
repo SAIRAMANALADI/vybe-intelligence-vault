@@ -1,40 +1,55 @@
 ---
-title: "cocohig4830/Agent"
-category: "Tooling"
-tech_stack: ["Windows Desktop", "C#", ".NET Framework", "WinForms"]
-quality_score: 6
-rag_relevance: 3
-tags: ["interview prep", "note-taking", "Windows app", "study organizer", "career tools"]
-source: "https://github.com/cocohig4830/Agent"
-discovered_at: "2026-06-26T02:48:47Z"
+title: "quarkloop/agent"
+category: "Agent Framework"
+tech_stack: ["Go", "Rust", "NATS", "TypeScript", "Docker", "Dgraph", "OpenRouter", "OpenAI", "Anthropic"]
+quality_score: 9
+rag_relevance: 8
+tags: ["autonomous agents", "multi-provider routing", "plugin system", "observability", "workspace isolation"]
+source: "https://github.com/quarkloop/agent"
+discovered_at: "2026-06-26T20:31:59Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Agent is a Windows desktop application designed to help users organize and review interview preparation notes efficiently. It provides a structured way to collect questions, group topics, and track study progress for job interviews.
+Quark provides a local operating environment for autonomous AI workspaces, enabling isolated spaces, plugin-defined identities, typed service functions, and a supervisor for lifecycle management. It supports multi-provider model routing, tool execution, and observability with strict data-flow rules.
 
 ## Key Features
-- Organize interview questions and answers by role or skill area
-- Simple and clean interface for adding, reviewing, and tracking study notes
-- Built-in grouping and categorization for topics like system design, coding, and teamwork
-- Portable Windows application with no complex setup required
-- Progress tracking for studied vs. remaining topics
+- Isolated workspaces with authoritative configuration via `space.json`
+- Supervisor-controlled lifecycle, discovery, and persistent state management
+- Typed NATS service functions for deterministic tool execution and service dispatch
+- Multi-provider model routing with fallback, usage tracking, and quota enforcement
+- Redacted observability with activity timelines, model usage records, and diagnostics
 
 ## Why It Matters for RAG Builders
-It provides a structured and portable way for users to organize interview notes, which can be useful for AI systems that need to reference or generate interview-related content.
+Quark enables production-grade autonomous AI agents with strict ownership boundaries, typed service contracts, and lifecycle management, making it essential for building robust RAG and agentic systems.
 
 ## Tech Stack Deep Dive
-### Windows Desktop
-Automated review identified **Windows Desktop** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Go
+Automated review identified **Go** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### C#
-Automated review identified **C#** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### .NET Framework
-Automated review identified **.NET Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### NATS
+Automated review identified **NATS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### WinForms
-Automated review identified **WinForms** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Docker
+Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Dgraph
+Automated review identified **Dgraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenRouter
+Automated review identified **OpenRouter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAI
+Automated review identified **OpenAI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Anthropic
+Automated review identified **Anthropic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

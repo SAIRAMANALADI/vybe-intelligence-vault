@@ -1,52 +1,55 @@
 ---
-title: "Barbarel001/nexus"
+title: "blazelucastaco-ai/nexus"
 category: "Agent Framework"
-tech_stack: ["Python 3.9+", "Anthropic Claude API", "Flask", "Ollama (for local models)", "Web Speech API", "Server-Sent Events (SSE)", "Jinja2 (for templating)", "Pytest (for testing)"]
+tech_stack: ["TypeScript", "Node.js 22+", "Claude AI (Anthropic)", "Telegram Bot API", "ElevenLabs (TTS)", "SQLite", "AppleScript", "React (for Jarvis UI)", "pnpm"]
 quality_score: 9
-rag_relevance: 8
-tags: ["AI agent", "tool-use", "persistent memory", "streaming responses", "local model support"]
-source: "https://github.com/Barbarel001/nexus"
-discovered_at: "2026-06-26T18:28:30Z"
+rag_relevance: 7
+tags: ["autonomous agent", "persistent memory", "Telegram integration", "macOS automation", "multi-agent system"]
+source: "https://github.com/blazelucastaco-ai/nexus"
+discovered_at: "2026-06-26T20:31:34Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-N.E.X.U.S. is a Python-based personal AI assistant leveraging the Anthropic Claude API to create a tool-using agent with persistent memory, real-time job tracking, and multi-interface access (terminal and web HUD). It demonstrates agentic tool-use loops, streaming responses, and safe-by-default permissions for system interactions.
+NEXUS is a persistent, autonomous AI agent for macOS that operates 24/7 and communicates via Telegram. It executes multi-step tasks, manages system control, and features a multi-layer memory system, personality engine, and voice interface for hands-free interaction.
 
 ## Key Features
-- Agentic tool-use loop with function calling against the Anthropic API
-- Persistent memory across sessions via `memoria.json`
-- Multi-interface support (terminal and web HUD with streaming and voice)
-- Real-time job tracking from multiple freelance platforms
-- Safe system interactions with explicit user confirmation
+- Multi-layer memory system (episodic, semantic, procedural, dream-cycle) for persistent context
+- Personality engine with emotional states, circadian rhythm, and relationship progression
+- Telegram-native control with voice interface (Jarvis orb) for hands-free interaction
+- 10 specialized sub-agents for vision, file management, browser automation, code execution, and more
+- Co Work feature for parallel agent consultation during task execution failures
 
 ## Why It Matters for RAG Builders
-It provides a complete, production-ready blueprint for building agentic AI applications with tool-use, persistent memory, and multi-modal interfaces, essential for RAG/AI stack builders seeking modular and scalable solutions.
+NEXUS provides a robust framework for building autonomous AI agents with persistent memory, multi-agent collaboration, and system-level automation, making it ideal for developers seeking to create advanced, context-aware assistants.
 
 ## Tech Stack Deep Dive
-### Python 3.9+
-Automated review identified **Python 3.9+** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Anthropic Claude API
-Automated review identified **Anthropic Claude API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js 22+
+Automated review identified **Node.js 22+** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Flask
-Automated review identified **Flask** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude AI (Anthropic)
+Automated review identified **Claude AI (Anthropic)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Ollama (for local models)
-Automated review identified **Ollama (for local models)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Telegram Bot API
+Automated review identified **Telegram Bot API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Web Speech API
-Automated review identified **Web Speech API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ElevenLabs (TTS)
+Automated review identified **ElevenLabs (TTS)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Server-Sent Events (SSE)
-Automated review identified **Server-Sent Events (SSE)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SQLite
+Automated review identified **SQLite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Jinja2 (for templating)
-Automated review identified **Jinja2 (for templating)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### AppleScript
+Automated review identified **AppleScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Pytest (for testing)
-Automated review identified **Pytest (for testing)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React (for Jarvis UI)
+Automated review identified **React (for Jarvis UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### pnpm
+Automated review identified **pnpm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

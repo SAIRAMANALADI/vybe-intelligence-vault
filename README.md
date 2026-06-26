@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 01:56 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 02:06 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,18 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+71 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+33 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Swift Programming Language](ai/rag/swift-programming-language.md)** • Rank: <kbd>+1851</kbd>
-- 🔼 **[Apple Open Source](ai/resources/apple-open-source.md)** • Rank: <kbd>+1871</kbd>
-- 🔼 **[Stack Overflow Insights - Developer Hiring, Marketing, and User Research](ai/agents/stack-overflow-insights-developer-hiring-marketing.md)** • Rank: <kbd>+1871</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)** • Score: `77`
-- 🆕 **[Documentation | vlt /vōlt/](ai/resources/documentation-vlt-volt.md)** • Score: `0`
-- 🆕 **[The Shai-Hulud 2.0 npm worm: analysis, and what you need to know | Datadog Security Labs](ai/rag/the-shai-hulud-2-0-npm-worm-analysis-and-what-you.md)** • Score: `0`
-- 🆕 **[Generating provenance statements | npm Docs](ai/rag/generating-provenance-statements-npm-docs.md)** • Score: `0`
-- 🆕 **[azure-docs/articles/security/fundamentals/overview.md at main · MicrosoftDocs/azure-docs · GitHub](ai/rag/microsoftdocs-azure-docs.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
