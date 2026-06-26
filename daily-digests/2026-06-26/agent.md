@@ -1,27 +1,27 @@
 ---
 title: "quarkloop/agent"
 category: "Agent Framework"
-tech_stack: ["Go", "Rust", "NATS", "TypeScript", "Docker", "Dgraph", "OpenRouter", "OpenAI", "Anthropic"]
+tech_stack: ["Go", "Rust", "NATS", "TypeScript", "Docker", "OpenRouter", "OpenAI", "Anthropic"]
 quality_score: 9
 rag_relevance: 8
-tags: ["autonomous agents", "multi-provider routing", "plugin system", "observability", "workspace isolation"]
+tags: ["autonomous agents", "multi-agent systems", "LLM orchestration", "plugin architecture", "workspace isolation"]
 source: "https://github.com/quarkloop/agent"
-discovered_at: "2026-06-26T20:31:59Z"
+discovered_at: "2026-06-26T22:08:51Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Quark provides a local operating environment for autonomous AI workspaces, enabling isolated spaces, plugin-defined identities, typed service functions, and a supervisor for lifecycle management. It supports multi-provider model routing, tool execution, and observability with strict data-flow rules.
+Quark provides a local operating environment for autonomous AI workspaces, enabling isolated agent spaces, plugin-defined identities, typed service functions, and a supervisor for lifecycle management and persistent state. It supports multi-provider LLM routing, tool execution, and observability with strict data-flow rules.
 
 ## Key Features
-- Isolated workspaces with authoritative configuration via `space.json`
-- Supervisor-controlled lifecycle, discovery, and persistent state management
-- Typed NATS service functions for deterministic tool execution and service dispatch
-- Multi-provider model routing with fallback, usage tracking, and quota enforcement
-- Redacted observability with activity timelines, model usage records, and diagnostics
+- Isolated agent workspaces with `space.json` configuration
+- Supervisor-controlled lifecycle, discovery, and persistent state
+- Typed NATS service functions for deterministic tool execution
+- Multi-provider LLM routing with fallback and quota enforcement
+- Redacted observability and E2E testing artifacts
 
 ## Why It Matters for RAG Builders
-Quark enables production-grade autonomous AI agents with strict ownership boundaries, typed service contracts, and lifecycle management, making it essential for building robust RAG and agentic systems.
+Quark enables building production-grade autonomous AI agents with strict ownership boundaries, typed service contracts, and robust lifecycle management for RAG and AI stack builders.
 
 ## Tech Stack Deep Dive
 ### Go
@@ -38,9 +38,6 @@ Automated review identified **TypeScript** as a key module contributing to infra
 
 ### Docker
 Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Dgraph
-Automated review identified **Dgraph** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### OpenRouter
 Automated review identified **OpenRouter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.

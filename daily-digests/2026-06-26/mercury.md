@@ -1,27 +1,27 @@
 ---
 title: "Daniel-Boll/mercury"
 category: "Agent Framework"
-tech_stack: ["TypeScript", "Bun", "SQLite", "LinkedIn MCP Server", "Chrome MCP", "Agent Client Protocol (ACP)", "Typst", "React", "Tailwind CSS"]
+tech_stack: ["TypeScript", "Bun", "SQLite", "LinkedIn MCP Server", "Chrome MCP", "Agent Client Protocol (ACP)", "Typst (for resume generation)", "React (for dashboard UI)"]
 quality_score: 9
-rag_relevance: 7
+rag_relevance: 6
 tags: ["job search automation", "AI agent skills", "LinkedIn optimization", "resume tailoring", "recruiter outreach"]
 source: "https://github.com/Daniel-Boll/mercury"
-discovered_at: "2026-06-26T20:31:50Z"
+discovered_at: "2026-06-26T22:08:07Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mercury is an AI-powered job search automation tool that provides a suite of agent skills to optimize LinkedIn profiles, scout jobs, tailor resumes, and reach recruiters. It includes a local dashboard for managing the entire job search pipeline and integrates with AI coding assistants like Claude Code and OpenCode via the Agent Client Protocol (ACP).
+Mercury is an AI-powered job search automation toolkit that provides a suite of agent skills for optimizing LinkedIn profiles, scouting jobs, tailoring resumes, and reaching recruiters. It includes a local dashboard for managing the entire job search pipeline and integrates with AI coding assistants like Claude Code and OpenCode via the Agent Client Protocol (ACP).
 
 ## Key Features
-- End-to-end LinkedIn job search automation with AI agent skills (profile optimizer, job scout, experience bank, resume tailor, recruiter outreach)
-- Local dashboard for tracking job search metrics, recruiter interactions, and skill execution
-- Integration with AI coding assistants (Claude Code, OpenCode) via ACP for seamless skill execution
-- Automated resume tailoring with ATS keyword alignment and cover letter generation
-- Experience bank for storing and reusing achievements across applications
+- End-to-end LinkedIn job search automation with modular AI agent skills (profile optimizer, job scout, resume tailor, recruiter outreach, portal filler)
+- Local dashboard for centralized job search management, tracking, and execution of skills via ACP-compatible agents
+- Experience bank for storing and reusing achievements to tailor resumes and cover letters dynamically
+- Browser automation via Chrome MCP for LinkedIn profile edits and ATS application form filling
+- SQLite-backed local storage for full traceability of all job search artifacts and run history
 
 ## Why It Matters for RAG Builders
-Mercury streamlines the job search process by automating repetitive tasks and leveraging AI to optimize profiles and tailor resumes, making it a valuable tool for AI engineers building agent-based workflows for professional development.
+Mercury provides a structured, agent-based framework for automating complex job search workflows, making it easier for RAG builders to integrate AI-driven tools for profile optimization, resume tailoring, and recruiter outreach into their systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,14 +42,11 @@ Automated review identified **Chrome MCP** as a key module contributing to infra
 ### Agent Client Protocol (ACP)
 Automated review identified **Agent Client Protocol (ACP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Typst
-Automated review identified **Typst** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Typst (for resume generation)
+Automated review identified **Typst (for resume generation)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### React
-Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Tailwind CSS
-Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React (for dashboard UI)
+Automated review identified **React (for dashboard UI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

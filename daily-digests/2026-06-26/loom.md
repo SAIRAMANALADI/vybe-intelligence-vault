@@ -1,49 +1,49 @@
 ---
-title: "yhyzgn/loom"
-category: "Tooling"
-tech_stack: ["Python", "Git", "Shell Scripting", "Systemd (Linux)", "Launchd (macOS)", "Task Scheduler (Windows)", "JSON"]
-quality_score: 8
-rag_relevance: 7
-tags: ["configuration management", "AI agent sync", "Git-backed", "multi-machine sync", "personalization"]
-source: "https://github.com/yhyzgn/loom"
-discovered_at: "2026-06-26T16:13:59Z"
+title: "reslava/loom"
+category: "Orchestrator"
+tech_stack: ["TypeScript", "Model Context Protocol (MCP)", "Markdown", "Node.js", "VS Code Extension API", "CLI (npm)", "Git"]
+quality_score: 9
+rag_relevance: 10
+tags: ["AI workflow", "document graph", "context management", "MCP server", "persistent state"]
+source: "https://github.com/reslava/loom"
+discovered_at: "2026-06-26T22:12:38Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-`loom` is a personal configuration hub designed to synchronize global AI-agent and coding-agent harness settings across multiple machines using a Git-backed repository. It manages prompts, hooks, skills, and personas while excluding secrets, ensuring safe and consistent configuration sync for individual users.
+Loom provides a document-native workflow for AI-assisted development, enabling structured, scoped, and persistent context management through a document graph system. It replaces ephemeral chat sessions with auditable, version-controlled markdown documents that guide AI agents with precise, bounded context.
 
 ## Key Features
-- Git-backed synchronization of AI agent harness configurations across machines
-- Automatic export and import of managed files (prompts, hooks, skills, personas)
-- Periodic timer and harness hooks for automated sync triggers
-- Exclusion of secrets and sensitive files via manifest and Git ignore rules
-- Cross-platform support (Linux, macOS, Windows) with native timer backends
+- Structured document graph for project context (ctx.md, refs/, weaves/, threads/)
+- MCP-compatible server for integration with AI agents (Claude Code, Cursor, etc.)
+- Scoped and fresh context per session, avoiding bloated chat history
+- Requirements-driven development with locked scope (include/exclude/constrain)
+- Staleness detection and human approval gates at every phase transition
 
 ## Why It Matters for RAG Builders
-It enables AI engineers to maintain consistent, personalized agent configurations across multiple machines without manual effort, reducing setup overhead and ensuring uniformity.
+Loom fundamentally transforms AI-assisted development by replacing chaotic chat sessions with a structured, auditable document graph that ensures AI agents always operate with the precise, bounded context they need for reliable and traceable work.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Markdown
+Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### VS Code Extension API
+Automated review identified **VS Code Extension API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CLI (npm)
+Automated review identified **CLI (npm)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Git
 Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Shell Scripting
-Automated review identified **Shell Scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Systemd (Linux)
-Automated review identified **Systemd (Linux)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Launchd (macOS)
-Automated review identified **Launchd (macOS)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Task Scheduler (Windows)
-Automated review identified **Task Scheduler (Windows)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### JSON
-Automated review identified **JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
