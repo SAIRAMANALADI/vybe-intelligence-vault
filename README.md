@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 20:35 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 21:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+109 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+54 pts</kbd>
-- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+46 pts</kbd>
-- 🔼 **[cpython/Doc/tutorial/controlflow.rst at main · python/cpython · GitHub](ai/resources/python-cpython.md)** • Rank: <kbd>+887</kbd>
-- 🔼 **[4. More Control Flow Tools — Python 3.14.6 documentation](ai/rag/4-more-control-flow-tools-python-3-14-6-documentat.md)** • Rank: <kbd>+308</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The AI backlash is only getting started](ai/community/the-ai-backlash-is-only-getting-started.md)** • Score: `49`
-- 🆕 **[Ultrasound Imaging of the Brain](ai/community/ultrasound-imaging-of-the-brain.md)** • Score: `31`
-- 🆕 **[PEP 8 – Style Guide for Python Code | peps.python.org](ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md)** • Score: `0`
-- 🆕 **[Add NFL RedZone with Sports Plus to your YouTube TV membership - YouTube TV Help](ai/rag/add-nfl-redzone-with-sports-plus-to-your-youtube-t.md)** • Score: `0`
-- 🆕 **[conda-forge · GitHub](ai/resources/conda-forge-github.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](ai/community/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai.md)**
-- 💤 **[Why current LLM costs are not sustainable](ai/community/why-current-llm-costs-are-not-sustainable.md)**
-- 💤 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)**
-- 💤 **[every-app/open-seo](ai/trending/every-app-open-seo.md)**
-- 💤 **[alibaba/page-agent](ai/agents/alibaba-page-agent.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
