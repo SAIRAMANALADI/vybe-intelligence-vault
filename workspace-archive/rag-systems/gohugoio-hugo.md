@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 (JPEG/WebP at 75 is comparable), added per-format quality config, and introduced `hint` parameter (YUV420 for lossy photos, YUV444 for text/icons) to optimize memory usage.
+- **Hugo v0.163.3** introduces security and rendering fixes, including escaping language identifiers in code blocks (`markup/highlight`), preserving non-ASCII whitespace in parsers (`parser/pageparser`), and supporting Babel/PostCSS config variants (`resources`).
 
-- **Security Fixes**: Addressed integer IPv4 host encoding in HTTP URL checks (`a00b5c7`), removed symlink handling in `os.ReadDir`, `os.ReadFile`, `os.Stat`, and `os.FileExists` (`cf9c8f9`), and updated `golang.org/x/image` dependency (`93c8c7d`).
+- **Hugo v0.163.2** resolves filesystem access errors (`ERR_ACCESS_DENIED`) in Node.js resolvers and standardizes behavior for missing external converters (`markup`).
 
--
+- **Hugo v0.163.0** optimizes AVIF image handling by reducing defau
 
 ## Use Cases
 

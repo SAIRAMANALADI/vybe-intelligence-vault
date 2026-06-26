@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-06-26T22:40:55.386887+05:30'
+collected_at: '2026-06-27T01:42:04.998749+05:30'
 published_at: '2026-06-26T10:12:53Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 19102
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-06-19T15:32:08Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-06-26T22:40:55.386887+05:30'
-last_seen: '2026-06-26T22:40:55.386887+05:30'
-last_checked: '2026-06-26T22:40:55.386887+05:30'
+first_seen: '2026-06-27T01:42:04.998749+05:30'
+last_seen: '2026-06-27T01:42:04.998749+05:30'
+last_checked: '2026-06-27T01:42:04.998749+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) via RAG and agent-based workflows for next-gen AI+Data applications.
-
-- **Security & Private Deployment**: Supports local/private LLM deployment (BGI, GPT variants) with enhanced security measures for sensitive data handling in enterprise environments.
-
-- **Modular Architecture**: Python-based system with pluggable components for database connectors, LLM integration, and agent orchestration, optimized for hacktoberfest contributions and extensibility.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based retrieval.
+- **Security & Privacy Focus**: Supports private/localized LLM deployments with BGI (likely a security layer) to ensure data confidentiality and compliance.
+- **Python-Based Architecture**: Modular Python implementation with agentic capabilities, optimized for hacktoberfest contributions and integration with modern AI/DB stacks.
 
 ## Why It Matters
 

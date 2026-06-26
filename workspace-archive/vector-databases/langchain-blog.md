@@ -2,7 +2,7 @@
 title: LangChain Blog
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.langchain.com
+source_url: https://blog.langchain.com/
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
@@ -12,8 +12,10 @@ resource_kind: prompt
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -31,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts, reducing redundant computations and improving agent efficiency by leveraging model-specific optimizations (e.g., token reuse, context window management).
+- **Prompt Caching in Deep Agents**: Introduces a mechanism for caching and reusing LLM prompts in agent workflows to reduce redundant computations and improve efficiency in multi-turn interactions.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch between LLM providers) is more critical than cloud neutrality, as it ensures flexibility in model selection without vendor lock-in, enabling cost optimization a
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent flexibility and long-term scalability.
+
+- **LangSmith Engine for Agent Debugging**: Details a new debugging tool that provides gr
 
 ## Use Cases
 
@@ -43,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com
+Original source URL: https://blog.langchain.com/
 
 ## Local Vault File
 

@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - paper
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth in hybrid retrieval-generation architectures.
-- **Python-Centric Tooling**: Hosts Python-based implementations, libraries, and evaluation tools for RAG systems, facilitating reproducibility and integration with ML pipelines.
-- **Actively Maintained**: Last updated June 2026, ensuring inclusion of recent advancements in RA
+- **Curated RAG Resources**: Repository (`gomate-community/awesome-papers-for-rag`) listing high-quality research papers, frameworks, and tools focused on **Retrieval-Augmented Generation (RAG)**.
+- **Technical Scope**: Primarily Python-based, covering advancements in **RAG architectures**, **retrieval mechanisms**, and **generation optimization** for LLMs.
+- **Maintenance Status**: Last updated **June 2026**, indicating ongoing curation with **135 stars** and **12 forks** on GitHub.
 
 ## Use Cases
 

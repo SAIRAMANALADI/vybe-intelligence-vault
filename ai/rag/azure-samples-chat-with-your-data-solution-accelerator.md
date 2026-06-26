@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-26T22:40:25.568323+05:30'
+collected_at: '2026-06-27T01:41:34.963479+05:30'
 published_at: '2026-06-26T12:06:59Z'
 tags:
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-26T14:21:16Z'
+pushed_at: '2026-06-26T20:00:44Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-26T22:40:25.568323+05:30'
-last_seen: '2026-06-26T22:40:25.568323+05:30'
-last_checked: '2026-06-26T22:40:25.568323+05:30'
+first_seen: '2026-06-27T01:41:34.963479+05:30'
+last_seen: '2026-06-27T01:41:34.963479+05:30'
+last_checked: '2026-06-27T01:41:34.963479+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements a RAG pattern solution accelerator utilizing Azure AI Search for retrieval and Azure OpenAI for large language model inference.
-*   Delivers ChatGPT-style and Q&A conversational AI experiences against user-provided data.
-*   Developed in Python, incorporating Azure best practices for scalable RAG deployments.
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based implementation, including AZD templates for deployment and adhering to Azure best practices.
+- **Production-Ready Features**: Incorporates common requirements such as scalable retrieval, grounding with external data, and end-to-end orchestration for enterprise-grade AI applications.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-26T14:21:16Z
+- Pushed At: 2026-06-26T20:00:44Z
 
 ## Possible Use Cases
 

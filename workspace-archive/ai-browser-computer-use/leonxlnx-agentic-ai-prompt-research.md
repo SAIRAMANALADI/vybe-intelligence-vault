@@ -13,8 +13,8 @@ importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
-- hackernews
 - unknown
 - workflows
 selection_reason:
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, focusing on multi-agent architectures and task decomposition strategies.
-
-- **Security Classification Framework**: Proposes a security taxonomy for agentic AI systems, categorizing risks (e.g., prompt injection, data leakage) and mitigation techniques in AI-driven development workflows.
-
-- **Prompt Engineering for Agentic Systems**: Reconstructs system prompts for ag
+- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding workflows.
+- **Prompt Engineering & System Prompts**: Deconstructs reconstructed prompt patterns used in agentic AI systems, focusing on Claude and similar frameworks for multi-agent collaboration.
+- **Research & Classification**: Provides a structured security classification framework for agentic AI coding assistants, including evaluation of r
 
 ## Use Cases
 

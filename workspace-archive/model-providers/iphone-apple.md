@@ -2,7 +2,7 @@
 title: iPhone - Apple
 archive_category: model-providers
 source_category: ai/resources
-source_url: https://www.apple.com/iphone
+source_url: https://www.apple.com/iphone/
 resource_id: blog:iphone-apple
 local_vault_path: ai/resources/iphone-apple.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro models.
-- **A19/A19 Pro SoC**: Features Neural Accelerators in GPU, enabling AAA gaming, advanced camera features, and AI workflow acceleration.
-- **Apple Intelligence integration**: On-device AI models power Live Translation, Visual Intelligence, Clean Up tool, and enhanced Siri capabilities while maintaining data privacy.
+- **Trade-in Credits**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro models, with details available via Apple’s trade-in program.
+- **A19/A19 Pro Chipset**: New iPhone models feature advanced Apple silicon (A19/A19 Pro) with Neural Accelerators in the GPU, enabling AAA gaming, AI-driven camera features, and extended battery life.
+- **Apple Intelligence Integration**: iOS 26 includes on-device AI tools (e.g., Live Translation, Visual Intelligence, Cl
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.apple.com/iphone
+Original source URL: https://www.apple.com/iphone/
 
 ## Local Vault File
 

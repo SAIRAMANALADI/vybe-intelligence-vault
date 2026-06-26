@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-26T22:40:05.352176+05:30'
+collected_at: '2026-06-27T01:41:14.899792+05:30'
 published_at: '2026-06-26T13:33:59Z'
 tags:
 - github-repo
-- models
 - python
 - rag
 stars: 1954
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-26T22:40:05.352176+05:30'
-last_seen: '2026-06-26T22:40:05.352176+05:30'
-last_checked: '2026-06-26T22:40:05.352176+05:30'
+first_seen: '2026-06-27T01:41:14.899792+05:30'
+last_seen: '2026-06-27T01:41:14.899792+05:30'
+last_checked: '2026-06-27T01:41:14.899792+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
-
-- **Modular Architecture**: Implements a lightweight, modular design with optimized retrieval and generation components, enabling efficient deployment on resource-constrained hardware without sacrificing accuracy.
-
-- **Open-Source Optimization**: Provides a Python-based implementation with pre-trained models and fine-tuning tools, emphasizing accessibility and reproducibility for research and industrial applications.
+- Introduces **MiniRAG**, a simplified RAG (Retrieval-Augmented Generation) framework leveraging small, open-sourced language models (LLMs) for efficiency while maintaining performance.
+- Proposes architectural optimizations (e.g., lightweight retrieval and generation modules) to reduce computational overhead without sacrificing accuracy, targeting ACL 2026.
+- Provides a **Python-based** implementation with modular components for easy integration, published under the HKUDS organization with active community contributions (1954 stars, 250 forks).
 
 ## Why It Matters
 

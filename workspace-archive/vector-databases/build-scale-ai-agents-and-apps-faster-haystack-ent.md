@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** is built on the open-source Haystack framework, providing an end-to-end solution for building, testing, deploying, and monitoring production-ready AI agents and applications with enterprise-grade security, scalability, and support.
+- **Haystack Enterprise Platform** is a production-ready framework for building, testing, and deploying custom AI agents and applications, leveraging the open-source Haystack library while adding enterprise-grade security, scalability, and support.
 
-- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing (text, tables, images, documents), and built-in data/metadata management for sensitive/classified data with s
+- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing for text/tables/images with metadata management, and a governed deployment pipeline for iterative development with data soverei
 
 ## Use Cases
 

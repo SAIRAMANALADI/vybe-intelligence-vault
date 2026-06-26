@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-06-26T20:21:29.884659+05:30'
+collected_at: '2026-06-27T01:43:15.002147+05:30'
 published_at: '2026-06-25T16:29:08Z'
 tags:
 - agents
-- benchmark
+- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-06-26T20:21:29.884659+05:30'
-last_seen: '2026-06-26T20:21:29.884659+05:30'
-last_checked: '2026-06-26T20:21:29.884659+05:30'
+first_seen: '2026-06-27T01:43:15.002147+05:30'
+last_seen: '2026-06-27T01:43:15.002147+05:30'
+last_checked: '2026-06-27T01:43:15.002147+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., `staleTime`, `gcTime`) to minimize redundant network requests and improve AI agent efficiency in dynamic data fetching scenarios.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **State Management for AI Workflows**: Leverages TanStack Router for declarative route-based state synchronization, enabling seamless transitions between AI agent tasks without full page reloads.
+- **TanStack Router Best Practices**: Provides structured guidance on dynamic routing, lazy loading, and state management in AI agents, ensuring scalable and maintainable navigation architectures.
 
-- **Performance Benchmarking**: Provides structured benchmarks for TanStack Start integration, focusing on cold-start latency and memory footprint optimization for AI-driven applications.
+- **TanStack Start for AI Agents**: Highlights modular setup for AI agent workflows, emphasizing minimal boilerplate and seamless integration with TanStack ecosystem for rapid prototyping and deployment.
 
 ## Why It Matters
 

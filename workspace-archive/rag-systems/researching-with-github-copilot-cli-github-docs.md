@@ -8,7 +8,7 @@ local_vault_path: ai/rag/researching-with-github-copilot-cli-github-docs.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Autonomous Research Agent**: The `/research` command in GitHub Copilot CLI activates a specialized agent that autonomously gathers and synthesizes in-depth information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous Research Agent**: The `/research` command in GitHub Copilot CLI deploys a specialized agent that autonomously gathers and synthesizes in-depth information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Adaptive Query Handling**: The agent adapts its output format based on query type (process, conceptual, or technical deep-dive), generating architecture diagrams, code snippe
+- **Adaptive Output & Sharing**: Reports adapt to query types (process, conceptual, or technical deep-dive) and can be viewed via `Ctrl+Y`, saved as files, or shared as GitHub gist
 
 ## Use Cases
 

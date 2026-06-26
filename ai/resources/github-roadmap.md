@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/roadmap
-collected_at: '2026-06-26T15:29:33.976273+05:30'
+collected_at: '2026-06-27T01:45:32.317328+05:30'
 published_at: '2026-06-26T04:42:15Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2020-03-31T21:35:07Z'
 pushed_at: '2024-10-15T17:31:37Z'
 resource_id: github:github/roadmap
-first_seen: '2026-06-26T15:29:33.976273+05:30'
-last_seen: '2026-06-26T15:29:33.976273+05:30'
-last_checked: '2026-06-26T15:29:33.976273+05:30'
+first_seen: '2026-06-27T01:45:32.317328+05:30'
+last_seen: '2026-06-27T01:45:32.317328+05:30'
+last_checked: '2026-06-27T01:45:32.317328+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Public Roadmap Tracking**: GitHub's official repository provides a transparent, community-driven roadmap for GitHub products and features, including GitHub Enterprise.
-
-- **Collaborative Development**: The roadmap includes planned updates, beta features, and community feedback integration, enabling stakeholders to track progress and contribute input.
-
-- **Regular Updates**: The repository is actively maintained with the latest updates (e.g., last commit on 2026-06-26), ensuring alignment with evolving product strategies and user needs.
+- **Public Roadmap Tracking**: GitHub's official public roadmap for feature releases and platform updates, enabling community visibility into upcoming developments.
+- **Enterprise & Core Focus**: Tracks both GitHub.com and GitHub Enterprise roadmaps, covering core product enhancements and enterprise-specific features.
+- **Community-Driven Feedback**: Integrates user suggestions and prioritizes features based on community input, with last update timestamped for version control.
 
 ## Why It Matters
 

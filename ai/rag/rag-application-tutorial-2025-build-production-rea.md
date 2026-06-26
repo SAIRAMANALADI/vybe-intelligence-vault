@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-26T22:39:36.512971+05:30'
-collected_at: '2026-06-26T22:39:36.512982+05:30'
+published_at: '2026-06-27T01:40:44.473024+05:30'
+collected_at: '2026-06-27T01:40:44.473041+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-26T22:39:36.512982+05:30'
-last_seen: '2026-06-26T22:39:36.512982+05:30'
-last_checked: '2026-06-26T22:39:36.512982+05:30'
+first_seen: '2026-06-27T01:40:44.473041+05:30'
+last_seen: '2026-06-27T01:40:44.473041+05:30'
+last_checked: '2026-06-27T01:40:44.473041+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval during inference.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval augmented generation.
 
-- **Production Optimization**: Focuses on latency reduction (e.g., caching strategies, load balancing across models) and cost control via token usage optimization, with benchmarks highlighting trade-offs between performance and computational overhead.
+- **Production Optimization**: Key strategies involve token usage reduction (e.g., query rewriting, selective retrieval), caching (e.g., Redis), load balancing across models, and deployment via edge workers (e.g., Cloudflare) for low-latency inference.
 
-- **Advanced Patterns & Monitoring**: Supports multi-modal RAG (e.g., images/PDFs) and conversational memory, while integrating observability tools (Sentry) for real-time performance tracking and issue resolution (e.g., hallucination mitigation).
+- **Monitoring & Scalability**: Implements observability via Sentry for error tracking, benchmarks latency breakdowns, and scales through multi-model inference, hybrid retrieval, and multi-modal RAG (handling PDFs/images) while balancing cost-performance trade-offs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:39:36.512971+05:30
+- Published: 2026-06-27T01:40:44.473024+05:30
 
 ## Related Tags
 

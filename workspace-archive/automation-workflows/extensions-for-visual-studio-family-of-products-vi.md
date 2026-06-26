@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Visual Studio Marketplace** serves as the central hub for VS Code extensions, enabling users to discover, install, and manage third-party and Microsoft-developed tools directly within the editor.
-
-- **Authentication & Integration** requires sign-in via Azure DevOps (vssps.visualstudio.com) with OAuth2, supporting single sign-on (SSO) for seamless access to marketplace resources and workflows.
-
-- **Privacy & Compliance** adheres to Microsoft’s [Terms of Use](https://aka.ms/vsmarketplace-ToU)
+- **Visual Studio Marketplace** serves as the central hub for VS Code extensions, enabling seamless integration of third-party tools and services into the IDE.
+- **Authentication & Access Control** via Azure DevOps (`app.vssps.visualstudio.com`) ensures secure sign-in and session management for marketplace interactions.
+- **Privacy & Compliance** enforced through Microsoft’s cookie policies (`Your Privacy Choices`) and regional regulations (e.g., California Consumer Privacy Act).
 
 ## Use Cases
 

@@ -21,8 +21,8 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [cloudflare/mcp](https://github.com/cloudflare/mcp) | `mcp-registry/` | 70 |
 | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `mcp-registry/` | 70 |
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | `mcp-registry/` | 70 |
+| [Explore Stack Internal features (formerly Stack Overflow for Teams) - Stack Overflow](https://stackoverflow.co/internal/features/?utm_source=blog&utm_medium=referral&utm_campaign=footer) | `mcp-registry/` | 70 |
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
-| [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

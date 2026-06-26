@@ -32,9 +32,8 @@ selection_reason:
 
 ## Summary
 
-*   Curated list of Retrieval-Augmented Generation (RAG) application implementations within Generative AI.
-*   Catalogs practical RAG systems leveraging Large Language Models (LLMs).
-*   Community-driven resource (1.2k stars, 150+ forks) tracking RAG advancements and use cases.
+*   Curated list of Retrieval-Augmented Generation (RAG) applications.
+*
 
 ## Use Cases
 

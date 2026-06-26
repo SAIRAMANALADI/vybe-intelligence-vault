@@ -2,7 +2,7 @@
 title: visionOS - Apple Developer
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://developer.apple.com/visionos
+source_url: https://developer.apple.com/visionos/
 resource_id: blog:visionos-apple-developer
 local_vault_path: ai/rag/visionos-apple-developer.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - hackernews
 - producthunt
 - rag
-- reddit
 - threejs
 - web-crawled
 - workflows
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Spatial Computing Architecture**: visionOS supports hybrid experiences via **Windows** (2D SwiftUI views with optional 3D depth), **Volumes** (3D content in Shared/Full Space via RealityKit/Unity), and **Spaces** (Shared Space for multi-app coexistence or Full Space for immersive, app-exclusive environments).
+- **Spatial Computing Architecture**: visionOS supports dynamic transitions between windows, 3D volumes (via RealityKit/Unity), and immersive Full Spaces, enabling apps to blend digital content with physical surroundings or create fully enclosed environments.
 
-- **Core Frameworks & Integration**: SwiftUI enables 3D/volumetric UI with RealityKit for rendering (MaterialX-compliant shaders), while ARKit provides spatial awareness (plane estimat
+- **Integration with Apple Intelligence & Frameworks**: Apps can leverage Apple Intelligence for on-screen awareness and Siri integration via App Intents, while SwiftUI and RealityKit provide native support for 3D rendering, depth, gesture
 
 ## Use Cases
 
@@ -47,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.apple.com/visionos
+Original source URL: https://developer.apple.com/visionos/
 
 ## Local Vault File
 

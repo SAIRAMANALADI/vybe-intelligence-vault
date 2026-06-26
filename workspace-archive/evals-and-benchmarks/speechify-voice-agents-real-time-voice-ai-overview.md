@@ -6,10 +6,10 @@ source_url: https://docs.speechify.ai/voice-agents/guides/welcome
 resource_id: blog:speechify-voice-agents-real-time-voice-ai-overview
 local_vault_path: ai/rag/speechify-voice-agents-real-time-voice-ai-overview.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
-resource_kind: mcp-server
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
 - benchmark
@@ -27,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Real-time voice agents** with sub-2s per-turn latency, leveraging a curated catalog of natural voices (`GET /v1/agents/voices`) and a low-latency pipeline for seamless speech-to-speech interactions.
-- **Multi-modal tool integration** via webhook, client-side, MCP server, or built-ins (`end_call`, `transfer_to_number`), with full transcript persistence (timestamps + tool traces) and post-call LLM-graded evaluations.
-- **Deployment flexibility** through `POST /v1/agents/{id}/conversations` for
+- **Real-time voice interaction framework** leveraging Speechify API with sub-2s per-turn latency, enabling conversational AI agents via `POST /v1/agents/{id}/conversations` for session provisioning and token-based WebSocket connections.
+
+- **Modular agent architecture** supporting dynamic prompt configuration, curated Speechify voices (excluding cloned/personal TTS voices), and extensible tool integration (webhook, client-side, MCP, or built-ins like `end_call`/`transfer_to_number`) with full t
 
 ## Use Cases
 

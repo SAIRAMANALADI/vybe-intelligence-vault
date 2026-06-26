@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-26T22:42:05.471294+05:30'
+collected_at: '2026-06-27T01:43:15.020021+05:30'
 published_at: '2026-06-26T03:02:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-24T16:17:57Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-26T22:42:05.471294+05:30'
-last_seen: '2026-06-26T22:42:05.471294+05:30'
-last_checked: '2026-06-26T22:42:05.471294+05:30'
+first_seen: '2026-06-27T01:43:15.020021+05:30'
+last_seen: '2026-06-27T01:43:15.020021+05:30'
+last_checked: '2026-06-27T01:43:15.020021+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., React, NestJS, Spring Boot, Flutter), designed to guide AI agents in adhering to coding standards and framework-specific conventions.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
 
-- **Scope & Topics**: Covers 19+ topics including agentic AI, Android, iOS, web frameworks (Next.js, Angular), backend (Laravel, NestJS), and mobile (React Native, Flutter), with additional resources like Cursor rules for IDE optimization.
+- **Purpose**: Provides structured `cursor-rules` and standardized practices to ensure AI agents adhere to language/framework-specific conventions and optimal coding patterns.
 
-- **Metadata**: 513 stars, 149 forks, last updated June 26, 2026; serves as a curated reference for AI agents to implement language/framework-specific best practices efficiently.
+- **Scope & Maintenance**: Encompasses 19+ topics (e.g., `agentic-ai`, `laravel`, `kotlin`) with last update on **2026-06-26**; 513 stars and 149 forks indicate active community engagement.
 
 ## Why It Matters
 

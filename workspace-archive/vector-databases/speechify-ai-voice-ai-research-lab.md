@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Streaming-Native Architecture**: Simba 3.0 features a streaming-native design with reduced time-to-first-byte, enhanced emotional control, zero-shot voice cloning, and SSML prosody support, enabling real-time, high-fidelity speech synthesis.
+- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody support across expanding languages.
 
-- **Zero-Shot Voice Cloning**: Captures speaker identity (timbre, cadence, micro-expressions) from as little as 10 seconds of reference audio, enabling high-fidelity voice replication without extensive training data.
+- **Multilingual & emotional synthesis** with native-quality output in 30+ locales (e.g., en-US, es-MX, fr-FR) and prosody-level emotion modeling (timbre, cadence, micro-expressions) beyond pitch/speed adjustments.
 
-- **Multilingual & Emotional Synthe
+- **Unified API** for streaming,
 
 ## Use Cases
 

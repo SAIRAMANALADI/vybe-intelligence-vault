@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-26T22:40:00.344797+05:30'
+collected_at: '2026-06-27T01:41:09.922918+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
-- openai
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - scripts
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-26T22:40:00.344797+05:30'
-last_seen: '2026-06-26T22:40:00.344797+05:30'
-last_checked: '2026-06-26T22:40:00.344797+05:30'
+first_seen: '2026-06-27T01:41:09.922918+05:30'
+last_seen: '2026-06-27T01:41:09.922918+05:30'
+last_checked: '2026-06-27T01:41:09.922918+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning and pipeline optimization for RAG systems using black-box optimization techniques (e.g., Bayesian optimization) to maximize performance metrics like answer correctness and context relevance without manual intervention.
+- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning, pipeline optimization, and evaluation for RAG systems using a black-box optimization approach (e.g., Bayesian optimization) to maximize performance metrics (e.g., answer correctness, context relevance) without manual intervention.
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarking tools for RAG components (retriever, generator, reranker) across datasets (e.g., MS MARCO, TriviaQA) with standardized metrics (e.g., EM, F1, retrieval precision/recall) and supports custom evaluation pipelines.
+- **Comprehensive RAG Evaluation Suite**: Implements standardized benchmarks for RAG components (retrieval, generation, and end-to-end pipelines) with metrics like faithfulness, answer correctness, and context precision, enabling reproducible comparisons across models and configurations.
 
-- **Modular Pipeline Architecture**: Offers a configurable, end-to-end RAG pipeline with pluggable components (e.g., document parsers, embedding models, rerankers) and supports integration with major LLM APIs (e.g., OpenAI, Hugging Face) via a unified Python interface.
+- **Modular Python Framework**: Offers a flexible, open-source toolkit with built-in support for document parsing, embedding models (e.g., Sentence-BERT, E5), retrievers (e.g., FAISS, Weaviate), and LLMs (e.g., Llama, Mistral), with integration for custom components via YAML/JSON pipelines.
 
 ## Why It Matters
 

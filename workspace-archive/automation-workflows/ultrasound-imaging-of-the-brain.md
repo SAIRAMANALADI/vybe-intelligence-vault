@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rossant. Score: 107, Comments: 30.
+Hacker News story by rossant. Score: 178, Comments: 60.
 Original Link: https://alephneuro.com/blog/ultrasound-brain
 
 ## Use Cases

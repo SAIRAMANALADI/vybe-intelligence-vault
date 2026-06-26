@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5010, Downloads: 245744194)
+Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5011, Downloads: 245744194)
 
 ## Use Cases
 

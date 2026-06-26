@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-26T22:39:25.439600+05:30'
+collected_at: '2026-06-27T01:40:29.903527+05:30'
 published_at: '2026-06-26T16:33:56Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-26T22:39:25.439600+05:30'
-last_seen: '2026-06-26T22:39:25.439600+05:30'
-last_checked: '2026-06-26T22:39:25.439600+05:30'
+first_seen: '2026-06-27T01:40:29.903527+05:30'
+last_seen: '2026-06-27T01:40:29.903527+05:30'
+last_checked: '2026-06-27T01:40:29.903527+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation from embedding models to deployment.
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating Python-based frameworks like LangChain and LlamaIndex for LLM applications.
 
-- **Multi-Tool Integration**: Supports integration with multiple frameworks and tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and multimodal models like DeepSeek and Kimi-K2.
+- **Multi-Technology Integration**: Demonstrates RAG pipelines with diverse tools including Milvus (vector DB), Neo4j (graph DB), and multimodal embeddings, alongside models like DeepSeek and Kimi-K2.
 
-- **Python-Centric Implementation**: Entire stack is implemented in Python, with focus on practical RAG pipelines, embedding optimization, and deployment strategies for large language models (LLMs).
+- **Practical Deployment Focus**: Provides hands-on tutorials for building scalable RAG systems, optimized for production environments with updated tooling and methodologies as of mid-2026.
 
 ## Why It Matters
 

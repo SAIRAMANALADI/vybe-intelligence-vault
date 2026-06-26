@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-- **Python-Based Architecture**: Utilizes Python with LangChain's modular components (e.g., document loaders, embeddings, vector stores, and LLM chains) for end-to-end RAG workflows.
-- **GitHub Repository**: Hosted on GitHub with 966 stars and 518 forks, last updated June 26, 2026; serves as a tutorial
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, integrating document retrieval with LLM-based generation.
+- Utilizes **Python** with modular components (e.g., embeddings, vector stores, and LLMs) for scalable RAG workflows.
+- Provides a **tutorial-style repository** with practical examples, likely covering ingestion, indexing, and querying workflows.
 
 ## Use Cases
 

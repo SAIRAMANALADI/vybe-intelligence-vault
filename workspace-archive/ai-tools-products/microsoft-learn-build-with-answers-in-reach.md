@@ -2,7 +2,7 @@
 title: 'Microsoft Learn: Build with answers in reach'
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://learn.microsoft.com
+source_url: https://learn.microsoft.com/
 resource_id: blog:microsoft-learn-build-with-answers-in-reach
 local_vault_path: ai/rag/microsoft-learn-build-with-answers-in-reach.md
 quality_score: 70
@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Fundamentals**: Microsoft provides structured learning paths for AI concepts, tools, and applications, including Azure AI services and responsible AI practices.
-- **Azure Integration**: Azure offers scalable cloud infrastructure with AI/ML services (e.g., Azure Machine Learning, Cognitive Services) for deploying and managing AI workloads.
-- **Copilot Ecosystem**: Microsoft Copilot leverages AI models (e.g., LLMs) to enhance productivity via natural language interfaces across Azure, M365,
+- **AI Fundamentals**: Microsoft provides structured learning paths for AI concepts, including machine learning, neural networks, and responsible AI practices, accessible via [Microsoft Learn](https://learn.microsoft.com/ai).
+
+- **Azure AI Services**: Azure offers integrated cloud-based AI services (e.g., Azure Cognitive Services, Azure Machine Learning) for scalable deployment of AI models, documented at [Azure AI](https://learn.microsoft.com/azure).
+
+- **Copilot Integration**: Microsoft Copilo
 
 ## Use Cases
 
@@ -43,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://learn.microsoft.com
+Original source URL: https://learn.microsoft.com/
 
 ## Local Vault File
 

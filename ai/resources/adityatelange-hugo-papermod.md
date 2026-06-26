@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adityatelange/hugo-PaperMod/
-collected_at: '2026-06-26T15:26:49.542483+05:30'
+collected_at: '2026-06-27T01:43:55.054715+05:30'
 published_at: '2026-06-26T07:42:35Z'
 tags:
 - creative_dev
@@ -20,9 +20,9 @@ archived: false
 created_at: '2020-07-21T04:45:10Z'
 pushed_at: '2026-05-10T05:30:12Z'
 resource_id: github:adityatelange/hugo-papermod
-first_seen: '2026-06-26T15:26:49.542483+05:30'
-last_seen: '2026-06-26T15:26:49.542483+05:30'
-last_checked: '2026-06-26T15:26:49.542483+05:30'
+first_seen: '2026-06-27T01:43:55.054715+05:30'
+last_seen: '2026-06-27T01:43:55.054715+05:30'
+last_checked: '2026-06-27T01:43:55.054715+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Features**: Hugo-PaperMod is a high-performance, feature-rich theme optimized for blogs, portfolios, and multilingual sites, with built-in support for Grayscale design and responsive layouts.
-- **Technical Stack**: Built using Hugo (static site generator) with HTML templating, ensuring fast rendering and minimal overhead.
-- **Licensing & Maintenance**: Released under the MIT License, last updated in 2026, with active community contributions (13.7k+ stars, 3.4k+ forks).
+- **Hugo-PaperMod**: A high-performance, feature-rich Hugo theme optimized for speed, clean design, and responsiveness, supporting multilingual content and portfolio layouts.
+
+- **Technical Stack**: Built with HTML, offering a grayscale aesthetic, well-documented codebase, and compliance with MIT licensing for open-source flexibility.
+
+- **Repository Stats**: Maintained with 13,707 stars, 3,399 forks, and last updated on **2026-06-26**, ensuring active development and community engagement.
 
 ## Why It Matters
 
@@ -42,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: adityatelange
 - Stars: 13707
-- Forks: 3398
+- Forks: 3399
 - Language: HTML
 - Topics: blog, blog-theme, clean, fast, feature-rich, grayscale, high-performance, hugo, hugo-blog-theme, hugo-theme, mit-license, multilingual, papermod, portfolio, theme, well-documented
 - Last Updated: 2026-06-26T07:42:35Z

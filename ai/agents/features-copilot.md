@@ -4,22 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-26T22:44:21.186552+05:30'
-collected_at: '2026-06-26T22:44:21.186565+05:30'
+published_at: '2026-06-27T01:45:11.317590+05:30'
+collected_at: '2026-06-27T01:45:11.317605+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-26T22:44:21.186565+05:30'
-last_seen: '2026-06-26T22:44:21.186565+05:30'
-last_checked: '2026-06-26T22:44:21.186565+05:30'
+first_seen: '2026-06-27T01:45:11.317605+05:30'
+last_seen: '2026-06-27T01:45:11.317605+05:30'
+last_checked: '2026-06-27T01:45:11.317605+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, while maintaining session persistence via `/resume` for long-running tasks.
+- **Multi-Agent Workflows & Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI) for concurrent task resolution, with `/plan` to `/pr` pipelines for issue-to-PR automation.
 
-- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (e.g., branch protections, required checks) and enabling seamless transitions from `/plan` to merged PRs without leaving the terminal.
+- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`), CLI interacts natively with issues, branches, and PRs, inheriting org policies (branch protections, required checks) while supporting custom `/agent` skills and `/skills` for behavior consistency.
 
-- **Customizable & Extensible**: Supports AGENTS.md for defining custom agent behavior, MCP server integrations for tool access, and experimental features via `/experimental show`, while enforcing explicit approval for all file modifications and command executions for security governance.
+- **Terminal-to-IDE Continuity**: Supports seamless transitions from terminal (`/plan`, `/resume`) to VS Code for refinement, with `/delegate` for autonomous branch creation/PR generation, and session persistence across devices via `/remote` for cross-platform monitoring.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T22:44:21.186552+05:30
+- Published: 2026-06-27T01:45:11.317590+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube

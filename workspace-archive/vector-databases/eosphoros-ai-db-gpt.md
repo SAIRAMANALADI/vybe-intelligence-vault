@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) via RAG and agent-based workflows for next-gen AI+Data applications.
-
-- **Security & Private Deployment**: Supports local/private LLM deployment (BGI, GPT variants) with enhanced security measures for sensitive data handling in enterprise environments.
-
-- **Modular Architecture**: Python-based system with pluggable components for database connectors, LL
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based retrieval.
+- **Security & Privacy Focus**: Supports private/localized LLM deployments with BGI (likely a security layer) to ensure data confidentiality and compliance.
+- **Python-Based Architecture**: Modular Python implementation with agentic capabilities, optimized for hacktoberfest contributions and integration w
 
 ## Use Cases
 

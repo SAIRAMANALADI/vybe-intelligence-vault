@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-26T22:40:35.335182+05:30'
+collected_at: '2026-06-27T01:41:44.929876+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-26T22:40:35.335182+05:30'
-last_seen: '2026-06-26T22:40:35.335182+05:30'
-last_checked: '2026-06-26T22:40:35.335182+05:30'
+first_seen: '2026-06-27T01:41:44.929876+05:30'
+last_seen: '2026-06-27T01:41:44.929876+05:30'
+last_checked: '2026-06-27T01:41:44.929876+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of advanced RAG techniques specifically tailored for **Computer Vision (CV)**, including multimodal retrieval-augmented generation methods.
-- **Repository structure** organizes cutting-edge approaches, frameworks, and papers focused on integrating RAG with vision tasks (e.g., image captioning, visual question answering).
-- **Last updated June 2026**, indicating active maintenance with potential inclusion of recent advancements in **vision-language models (VLMs)** and retrieval-augmented architectures.
+- **Curated Collection**: Repository aggregates advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)**, including multimodal and vision-language models.
+- **Resource Scope**: Encompasses cutting-edge methodologies for integrating **vision encoders** with **large language models (LLMs)** to enhance visual question answering, image captioning, and cross-modal retrieval.
+- **Framework Agnostic**: Includes implementations and papers leveraging frameworks like **CLIP, BLIP, Flamingo, and LLaVA**, with emphasis on zero-shot/few-shot adaptation and retrieval-augmented visual reasoning.
 
 ## Why It Matters
 

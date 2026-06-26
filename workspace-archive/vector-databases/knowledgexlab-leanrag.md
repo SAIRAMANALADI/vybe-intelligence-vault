@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -31,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (e.g., node/edge-level) and semantic aggregation to enhance context relevance.
-- **Efficiency Optimizations**: Designed for AAAI 2026 with lightweight architectures (Python-based) to reduce computational overhead while maintaining retrieval accuracy.
-- **Dynamic Knowledge Integration**: Supports real-time updates to the knowledge graph, enabling adaptive retrieval an
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance contextual relevance in generation tasks.
+
+- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high accuracy in knowledge-grounded responses.
+
+- **Python-Based Implementation**: Provides a modular, open-source toolkit with APIs fo
 
 ## Use Cases
 

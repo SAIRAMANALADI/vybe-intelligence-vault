@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Project**: [Neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, providing ACID-compliant transactional capabilities with native graph storage and processing.
-
-- **Driver Ecosystem**: Maintains official Bolt protocol drivers for Java, JavaScript, Python, and Scala, enabling cross-language graph database interactions with Apache 2.0 licensing.
-
-- **Graph Analytics**: [Graph Data Science (GDS) Library](https://github.com/neo4j/graph-data
+- **Neo4j** is a graph database management system with core Java implementation, providing native graph storage and processing via the Cypher query language.
+- **Official drivers** exist for multiple languages (Java, JavaScript, Python) implementing the Bolt protocol for efficient binary communication with the database.
+- **Key repositories** include the main database (`neo4j`), Graph Data Science library (`graph-data-science`), and connectors for AWS Glue, Apache Spark, and Kafka.
 
 ## Use Cases
 

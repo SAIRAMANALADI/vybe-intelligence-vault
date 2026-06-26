@@ -2,7 +2,7 @@
 title: Mac - Apple
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.apple.com/mac
+source_url: https://www.apple.com/mac/
 resource_id: blog:mac-apple
 local_vault_path: ai/rag/mac-apple.md
 quality_score: 70
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Education Pricing**: Apple offers discounted Mac pricing for college students and educators via the Apple Store, with savings applied at checkout.
-- **Mac Lineup**: Current Mac models include MacBook Neo (new budget option), MacBook Air (13”/15”), MacBook Pro (14”/16”), iMac (all-in-one desktop), Mac mini (affordable desktop), and Mac Studio (pro-level performance).
-- **Customization & Trade-In**: Macs support configurable chip, memory, storage, and color options; Apple Trade-In allows users
+- **Mac Product Lineup**: Apple offers a range of Mac devices including MacBook Neo (13"), MacBook Air (13" & 15"), MacBook Pro (14" & 16"), iMac (all-in-one desktop with 7 color variants), Mac mini (compact desktop), and Mac Studio (high-performance desktop).
+
+- **Education Pricing**: Eligible college students and educators can purchase Mac devices at discounted education pricing through Apple’s education store, with additional savings on select models.
+
+- **Customization & Trade-In**: Mac devi
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.apple.com/mac
+Original source URL: https://www.apple.com/mac/
 
 ## Local Vault File
 

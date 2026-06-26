@@ -13,13 +13,14 @@ collected_at: '2026-06-26T22:38:42.477023+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:inkeep/open-knowledge
 first_seen: '2026-06-26T01:53:19.402410+05:30'
 last_seen: '2026-06-26T22:38:42.477023+05:30'
 last_checked: '2026-06-26T22:38:42.477023+05:30'
 health_score: 100
 ---
+
 
 # Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/aws/agent-toolkit-for-aws
-published_at: '2026-06-26T22:38:37.931404+05:30'
-collected_at: '2026-06-26T22:38:37.931406+05:30'
+published_at: '2026-06-27T01:39:49.172916+05:30'
+collected_at: '2026-06-27T01:39:49.172919+05:30'
 tags:
 - agents
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:aws/agent-toolkit-for-aws
 first_seen: '2026-06-25T16:35:46.163105+05:30'
-last_seen: '2026-06-26T22:38:37.931406+05:30'
-last_checked: '2026-06-26T22:38:37.931406+05:30'
+last_seen: '2026-06-27T01:39:49.172919+05:30'
+last_checked: '2026-06-27T01:39:49.172919+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-26T22:38:37.931404+05:30
+- Published: 2026-06-27T01:39:49.172916+05:30
 
 ## Related Tags
 

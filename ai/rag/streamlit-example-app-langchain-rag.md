@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-26T22:40:10.370757+05:30'
+collected_at: '2026-06-27T01:41:19.919246+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
+- workflows
 stars: 156
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-26T22:40:10.370757+05:30'
-last_seen: '2026-06-26T22:40:10.370757+05:30'
-last_checked: '2026-06-26T22:40:10.370757+05:30'
+first_seen: '2026-06-27T01:41:19.919246+05:30'
+last_seen: '2026-06-27T01:41:19.919246+05:30'
+last_checked: '2026-06-27T01:41:19.919246+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (likely FAISS or similar) with hybrid retrieval (e.g., BM25 + dense embeddings) for improved document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
 
-- **LangChain Integration**: Utilizes LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM inference (e.g., via `ChatOpenAI` or local models).
+- **LangChain + Vectorstore Workflow**: Implements a Streamlit app showcasing LangChain's retrieval-augmented generation (RAG) using a vector database (e.g., FAISS, Chroma) for contextual question answering.
 
-- **Streamlit Frontend**: Deploys a real-time interactive UI with Streamlit for querying the RAG system, displaying retrieved context, and streaming LLM responses, with support for dynamic parameter adjustments (e.g., retrieval top-k, temperature).
+- **Streamlit UI for RAG**: Provides a frontend interface to interact with the RAG system, allowing users to input queries and receive generated responses augmented by retrieved documents.
 
 ## Why It Matters
 

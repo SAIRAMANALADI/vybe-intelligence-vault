@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-06-26T22:42:20.540958+05:30'
+collected_at: '2026-06-27T01:43:30.080794+05:30'
 published_at: '2026-06-26T14:33:05Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-06-25T17:13:21Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-06-26T22:42:20.540958+05:30'
-last_seen: '2026-06-26T22:42:20.540958+05:30'
-last_checked: '2026-06-26T22:42:20.540958+05:30'
+first_seen: '2026-06-27T01:43:30.080794+05:30'
+last_seen: '2026-06-27T01:43:30.080794+05:30'
+last_checked: '2026-06-27T01:43:30.080794+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with multi-turn tool usage.
 
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability to dynamic user requirements in complex environments.
+- **Technical Scope**: Implements a Python-based framework to simulate complex, domain-specific workflows requiring dynamic tool integration, user feedback loops, and agent decision-making.
 
-- **Evaluation Metrics**: Measures performance via task completion rates, latency, and robustness to user ambiguity/error propagation in tool-agent workflows.
+- **Evaluation Metrics**: Measures performance via task completion rates, tool selection accuracy, and interaction efficiency, targeting real-world applicability in AI agent systems.
 
 ## Why It Matters
 

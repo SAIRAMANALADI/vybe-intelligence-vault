@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-06-26T22:40:55.508159+05:30'
+collected_at: '2026-06-27T01:42:05.051835+05:30'
 published_at: '2026-06-15T04:02:00Z'
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 stars: 70
 language: TypeScript
@@ -20,11 +22,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-21T03:10:38Z'
-pushed_at: '2026-06-25T08:31:16Z'
+pushed_at: '2026-06-26T19:04:01Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-06-26T22:40:55.508159+05:30'
-last_seen: '2026-06-26T22:40:55.508159+05:30'
-last_checked: '2026-06-26T22:40:55.508159+05:30'
+first_seen: '2026-06-27T01:42:05.051835+05:30'
+last_seen: '2026-06-27T01:42:05.051835+05:30'
+last_checked: '2026-06-27T01:42:05.051835+05:30'
 health_score: 100
 ---
 
@@ -32,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action for Promptfoo**: Enables automated testing of prompts, agents, and RAG systems with AI red teaming, pentesting, and LLM vulnerability scanning.
-- **Multi-Model Support**: Compares performance across LLMs (GPT, Claude, Gemini, Llama, etc.) via declarative configurations.
-- **CI/CD Integration**: Provides command-line and CI/CD compatibility with TypeScript-based implementation.
+- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems via GitHub Actions with CI/CD compatibility.
+- **Multi-Model Benchmarking**: Facilitates performance comparison across LLMs (e.g., GPT, Claude, Gemini, Llama) and supports AI red teaming for security/vulnerability assessment.
+- **Declarative Configuration**: Uses simple YAML/JSON configs for test scenarios with TypeScript-based implementation and command-line interface support.
 
 ## Why It Matters
 
@@ -51,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-21T03:10:38Z
-- Pushed At: 2026-06-25T08:31:16Z
+- Pushed At: 2026-06-26T19:04:01Z
 
 ## Possible Use Cases
 

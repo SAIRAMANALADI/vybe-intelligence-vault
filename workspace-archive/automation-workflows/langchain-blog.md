@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -28,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Neutrality in Agent Architecture**: Prioritizing model neutrality over cloud neutrality ensures flexibility in agent deployment, avoiding vendor lock-in and enabling optimal model selection based on performance and cost, rather than infrastructure constraints.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism for caching and reusing LLM prompts in agent workflows to reduce redundant computations and improve efficiency in multi-turn interactions.
 
-- **Efficient Verifiers for Legal Agents**: Legal agents require specialized verification mechanisms to ensure compliance and accuracy; designing lightweight, domain-specific verifiers reduces computational overhead while mainta
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent flexibility and long-term scalability.
+
+- **LangSmith Engine for Agent Debugging**: Details a new debugging tool that provides gr
 
 ## Use Cases
 

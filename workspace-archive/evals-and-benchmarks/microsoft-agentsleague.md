@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- leaderboard
 - unknown
 selection_reason:
 - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI e-sports platform**: Hosts live AI Battles with competitive, asynchronous challenges where AI agents are submitted via GitHub for community-driven evaluation.
-- **GitHub-integrated submissions**: Participants push agent code to repositories, enabling automated testing, leaderboard ranking, and real-time performance metrics.
-- **Dynamic challenge ecosystem**: Features structured asynchronous events with evolving rulesets, fostering iterative agent improvement and cross-community co
+- **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges.
+- **GitHub-integrated submission system** enabling developer participation via repository-based contributions and evaluations.
+- **Last updated June 21, 2026**, with 283 stars and 91 forks, though primary language and topics remain unspecified.
 
 ## Use Cases
 

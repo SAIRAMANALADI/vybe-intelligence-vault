@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-26T22:40:45.411813+05:30'
+collected_at: '2026-06-27T01:41:54.946549+05:30'
 published_at: '2026-06-26T15:53:54Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-26T22:40:45.411813+05:30'
-last_seen: '2026-06-26T22:40:45.411813+05:30'
-last_checked: '2026-06-26T22:40:45.411813+05:30'
+first_seen: '2026-06-27T01:41:54.946549+05:30'
+last_seen: '2026-06-27T01:41:54.946549+05:30'
+last_checked: '2026-06-27T01:41:54.946549+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based question-answering metrics tailored for internal knowledge bases.
-- **Technical Scope**: Supports Python-based RAG pipelines, with focus on large language models (LLMs), information retrieval, and enterprise search optimization.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
+
+- **Key Features**:
+  - Synthetic data generation for enterprise-specific QA tasks.
+  - Evaluation metrics for retrieval quality, answer correctness, and LLM performance in domain-specific contexts.
+
+- **Technical Scope**:
+  - Supports Python-based RAG pipelines with focus on semantic search, information retrieval, and LLM evaluation.
+  - Includes tools for benchmarking enterprise search, generative AI, and knowledge base integration.
 
 ## Why It Matters
 

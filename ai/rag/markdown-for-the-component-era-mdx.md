@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://mdxjs.com/
-published_at: '2026-06-25T20:50:29.143102+05:30'
-collected_at: '2026-06-25T20:50:29.143114+05:30'
+published_at: '2026-06-27T01:45:18.901488+05:30'
+collected_at: '2026-06-27T01:45:18.901500+05:30'
 tags:
 - frontend_ui
 - rag
 - web-crawled
 status: active
 resource_id: blog:markdown-for-the-component-era-mdx
-first_seen: '2026-06-25T20:50:29.143114+05:30'
-last_seen: '2026-06-25T20:50:29.143114+05:30'
-last_checked: '2026-06-25T20:50:29.143114+05:30'
+first_seen: '2026-06-27T01:45:18.901500+05:30'
+last_seen: '2026-06-27T01:45:18.901500+05:30'
+last_checked: '2026-06-27T01:45:18.901500+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **MDX 3** drops Node.js <16 support, adds ES2024 features (including `await`), and removes deprecated options while maintaining backward compatibility for JSX-based frameworks.
+- **MDX 3** drops Node.js <16 support, adds ES2024 features (e.g., `await`), and removes deprecated options while maintaining JSX-in-markdown functionality for modern frameworks.
 
-- **MDX** enables markdown content with embedded JSX components (e.g., charts, alerts) via `.mdx` files, compiling to framework-compatible JavaScript (React/Preact/Vue).
+- **MDX compiles markdown with embedded JSX components** (e.g., `<Chart />`) into framework-compatible JavaScript, enabling dynamic content in static markdown (e.g., `{year}` interpolation, component imports).
 
-- **Key features**: Zero runtime overhead (compile-time only), markdown simplicity with optional JSX components, and deep customization via component mapping (e.g., `{h1: MyHeading}`).
+- **Zero runtime overhead**: MDX compiles entirely during build, preserving markdown simplicity while allowing component-based extensibility (e.g., `{h1: MyHeading}` overrides) across bundlers (Webpack/Rollup) and frameworks (React/Vue).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:50:29.143102+05:30
+- Published: 2026-06-27T01:45:18.901488+05:30
 
 ## Related Tags
 

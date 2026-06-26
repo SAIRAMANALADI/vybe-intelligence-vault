@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-06-26T22:41:30.475521+05:30'
+collected_at: '2026-06-27T01:42:40.022765+05:30'
 published_at: '2026-06-26T09:31:41Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-05-14T11:46:10Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-06-26T22:41:30.475521+05:30'
-last_seen: '2026-06-26T22:41:30.475521+05:30'
-last_checked: '2026-06-26T22:41:30.475521+05:30'
+first_seen: '2026-06-27T01:42:40.022765+05:30'
+last_seen: '2026-06-27T01:42:40.022765+05:30'
+last_checked: '2026-06-27T01:42:40.022765+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based collection of examples and tutorials for building AI systems, covering agents, LLMs (OpenAI, Anthropic), and AI integration patterns.
+- **Repository Overview**: `ai-cookbook` by `daveebbelaar` provides practical examples and tutorials for building AI systems, focusing on agents, LLMs (OpenAI, Anthropic), and Python implementation.
 
-- **Key Metrics**: 4,248 stars, 1,501 forks, last updated June 26, 2026.
+- **Technical Scope**: Covers integration with OpenAI and Anthropic APIs, agent-based architectures, and Python-based AI workflows with 4,248 stars and 1,501 forks.
 
-- **Technical Focus**: Demonstrates practical implementations of AI workflows, agent architectures, and LLM interactions using Python.
+- **Last Update & Maintenance**: Last updated on **2026-06-26**, indicating active maintenance and recent contributions to AI development resources.
 
 ## Why It Matters
 

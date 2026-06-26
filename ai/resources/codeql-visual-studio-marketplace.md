@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql
-published_at: '2026-06-22T15:18:35.370261+05:30'
-collected_at: '2026-06-22T15:18:35.370279+05:30'
+published_at: '2026-06-27T01:47:15.576393+05:30'
+collected_at: '2026-06-27T01:47:15.576408+05:30'
 tags:
 - hackernews
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:codeql-visual-studio-marketplace
-first_seen: '2026-06-22T15:18:35.370279+05:30'
-last_seen: '2026-06-22T15:18:35.370279+05:30'
-last_checked: '2026-06-22T15:18:35.370279+05:30'
+first_seen: '2026-06-27T01:47:15.576408+05:30'
+last_seen: '2026-06-27T01:47:15.576408+05:30'
+last_checked: '2026-06-27T01:47:15.576408+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Features**: VS Code extension enabling CodeQL queries for static analysis, with IntelliSense, path query visualization, and access to GitHub's open-source security query repository.
-- **Setup & Workflow**: Requires VS Code ≥1.39; supports CLI-managed or custom CodeQL CLI, database import from GitHub, and query execution via Command Palette or UI.
-- **Telemetry & Licensing**: MIT-licensed extension with optional GitHub telemetry (30-day IP retention, 180-day anonymous data); adheres to GitHub CodeQL Terms & Conditions.
+- **Integration & Features**: The CodeQL VS Code extension enables static analysis by allowing users to query CodeQL databases directly within VS Code, providing path query visualization for security triage, access to open-source security queries, and IntelliSense for query development.
+
+- **Setup & Workflow**: Requires VS Code ≥1.39; automates CLI management but allows manual override; supports importing GitHub-generated databases and running queries via the Command Palette or UI, with results displayed in a dedicated view.
+
+- **Telemetry & Licensing**: MIT-licensed extension; opt-in telemetry collects usage metrics (retained for 30 days for IPs/IDs, 180 days anonymized) to improve functionality, per GitHub’s privacy policy.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T15:18:35.370261+05:30
+- Published: 2026-06-27T01:47:15.576393+05:30
 
 ## Related Tags
 

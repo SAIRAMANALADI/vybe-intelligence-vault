@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Covers agentic AI, CLI tools, LLM interactions, and MCP (Model Context Protocol) integrations with Anthropic's Claude Code.
-- **Resource Utility**: Offers Shell-based scripts and templates to optimize AI-driven development workflows, last updated June 2026.
+- **Repository Overview**: Hosts a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Scope**: Primarily Shell-based, covering CLI tools, MCP integration, and LLM-driven agentic AI workflows with Anthropic’s Claude framework.
+- **Metadata**: 55 stars, 10 forks, last updated 2026-06-24; topics include agentic-ai, developer-tools, and AI optimization.
 
 ## Use Cases
 

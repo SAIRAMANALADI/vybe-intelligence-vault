@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-06-26T15:30:12.560484+05:30'
-collected_at: '2026-06-26T15:30:12.560502+05:30'
+published_at: '2026-06-27T01:46:34.515789+05:30'
+collected_at: '2026-06-27T01:46:34.515804+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-ai-voice-ai-research-lab
-first_seen: '2026-06-26T15:30:12.560502+05:30'
-last_seen: '2026-06-26T15:30:12.560502+05:30'
-last_checked: '2026-06-26T15:30:12.560502+05:30'
+first_seen: '2026-06-27T01:46:34.515804+05:30'
+last_seen: '2026-06-27T01:46:34.515804+05:30'
+last_checked: '2026-06-27T01:46:34.515804+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Streaming-Native Architecture**: Simba 3.0 features a streaming-native design with reduced time-to-first-byte, enhanced emotional control, zero-shot voice cloning, and SSML prosody support, enabling real-time, high-fidelity speech synthesis.
+- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody support across expanding languages.
 
-- **Zero-Shot Voice Cloning**: Captures speaker identity (timbre, cadence, micro-expressions) from as little as 10 seconds of reference audio, enabling high-fidelity voice replication without extensive training data.
+- **Multilingual & emotional synthesis** with native-quality output in 30+ locales (e.g., en-US, es-MX, fr-FR) and prosody-level emotion modeling (timbre, cadence, micro-expressions) beyond pitch/speed adjustments.
 
-- **Multilingual & Emotional Synthesis**: Supports native-quality speech across 30+ locales with locale-specific voices, while enabling fine-grained emotional expression (neutral, happy, sad, excited, calm) at the prosody level for nuanced output.
+- **Unified API** for streaming, voice cloning, and emotion control; example curl implementation demonstrates minimal (<10 lines) integration for MP3 output generation with voice_id and locale parameters.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:30:12.560484+05:30
+- Published: 2026-06-27T01:46:34.515789+05:30
 
 ## Related Tags
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-26T22:40:45.438353+05:30'
+collected_at: '2026-06-27T01:41:54.934745+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-26T22:40:45.438353+05:30'
-last_seen: '2026-06-26T22:40:45.438353+05:30'
-last_checked: '2026-06-26T22:40:45.438353+05:30'
+first_seen: '2026-06-27T01:41:54.934745+05:30'
+last_seen: '2026-06-27T01:41:54.934745+05:30'
+last_checked: '2026-06-27T01:41:54.934745+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and robustness) in LLMs.
 
-- **Evaluation Scope**: Covers four key dimensions—**C**omplexity, **R**etrieval, **U**nderstanding, and **D**iversity—with 10 sub-tasks to assess RAG performance across varied scenarios.
+- **CRUD Framework**: Implements a structured pipeline (Create, Read, Update, Delete) to simulate dynamic knowledge scenarios, testing LLMs' ability to handle evolving or conflicting information in retrieval-augmented contexts.
 
-- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation metrics, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
+- **Evaluation Metrics**: Provides standardized metrics for Chinese RAG performance, including retrieval precision/recall, factual consistency, and contextual relevance, enabling comparative analysis against other benchmarks.
 
 ## Why It Matters
 

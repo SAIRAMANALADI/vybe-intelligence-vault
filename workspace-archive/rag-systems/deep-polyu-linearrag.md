@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency via linear graph traversal and hierarchical indexing.
-- **ICLR 2026 Contribution**: Proposes a scalable architecture that integrates graph-based retrieval with LLM generation, reducing computational overhead while maintaining contextual relevance in retrieval-augmented tasks.
-- **Implementation**: Python-based,
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and querying.
+
+- **Scalability & Efficiency**: Implements linear graph traversal algorithms to reduce retrieval latency and memory overhead, enabling real-time augmentation for LLMs on massive datasets (e.g., >1M documents).
+
+- **Python Implementation**: Provides an op
 
 ## Use Cases
 

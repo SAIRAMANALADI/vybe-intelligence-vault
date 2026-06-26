@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-26T22:39:50.425629+05:30'
+collected_at: '2026-06-27T01:40:59.926907+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
+- anthropic
 - github-repo
-- hackernews
+- openai
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-26T22:39:50.425629+05:30'
-last_seen: '2026-06-26T22:39:50.425629+05:30'
-last_checked: '2026-06-26T22:39:50.425629+05:30'
+first_seen: '2026-06-27T01:40:59.926907+05:30'
+last_seen: '2026-06-27T01:40:59.926907+05:30'
+last_checked: '2026-06-27T01:40:59.926907+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter kit for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and synthesis workflows.
+- **Template Structure**: Provides a pre-configured Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's modular architecture.
 
-- **Key Components**: Includes modular Python code for document loaders, vector stores (e.g., FAISS), retrievers, and agent-based query processing with LLM integration (e.g., LangChain’s `ResearchAgent`).
+- **Key Components**: Includes core modules for document retrieval, prompt engineering, and agent orchestration, optimized for research-oriented workflows.
 
-- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vector DB libraries (e.g., `chromadb`/`FAISS`), optimized for scalable RAG pipelines and agentic workflows.
+- **Dependencies**: Relies on LangChain ecosystem (e.g., `langchain-core`, `langchain-community`) and integrates with vector stores (e.g., Chroma, FAISS) and LLMs (e.g., OpenAI, Anthropic).
 
 ## Why It Matters
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **WSL 2.7.10** backports VHD restore fix: Passes mounting user's token to resolve permissions issue (`#40907`).
-- **WSL 2.7.9** updates kernel to `6.18.33.2-2` to fix Windows under KVM and older AMD chipset boot regression.
-- **WSL 2.7.8** resolves `CreateInstance` failure by capping Windows hosts file message size and updates kernel to `6.18.33.1-1`.
+- **WSL 2.7.10**: Backported fix for VHD restore by passing the mounting user's token (PR [#40907](https://github.com/microsoft/WSL/pull/40907)), resolving a security/access control issue in WSL's virtual disk handling.
+
+- **WSL 2.7.9**: Updated Microsoft.WSL.Kernel to version `6.18.33.2-2` to address a regression causing boot failures on Windows under KVM with older AMD chipsets, as documented in PR [#40728](https://github.com/microsoft/WSL/pull/40728).
+
+- **WSL 2.7.8**: Resolved `CreateInstanc
 
 ## Use Cases
 

@@ -12,6 +12,7 @@ resource_kind: template
 importance: high
 tags:
 - github-repo
+- hackernews
 - rag
 - scripts
 - unknown
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection of 5000+ production-ready n8n workflow templates covering AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: 393 stars, 157 forks, last updated 2026-06-24T12:43:11Z.
-- **Accessibility**: Free to use, language unspecified, no additional topics listed.
+- **Repository Content**: Hosts 5000+ production-ready n8n workflow templates for AI, CRM, finance, e-commerce, marketing, and RAG automation, fully open-source and free.
+- **Metadata**: 393 stars, 157 forks, last updated on 2026-06-24.
+- **Technical Details**: Language unspecified; no additional topics tagged.
 
 ## Use Cases
 

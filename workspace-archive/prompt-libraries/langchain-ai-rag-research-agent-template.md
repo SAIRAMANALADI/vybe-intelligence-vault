@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - openai
 - python
 - rag
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured framework for building Retrieval-Augmented Generation (RAG) agents using LangChain, facilitating research-oriented workflows.
-- **Key Components**: Includes modular components for document retrieval, prompt engineering, and agent orchestration, leveraging LangChain’s ecosystem (e.g., `langchain_core`, `langchain_community`).
-- **Technical Stack**: Python-based, designed for integration with vector databases (e.g., Chroma, FAISS) and LLM APIs (e.g., O
+- **Template Structure**: Provides a pre-configured Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's modular architecture.
+
+- **Key Components**: Includes core modules for document retrieval, prompt engineering, and agent orchestration, optimized for research-oriented workflows.
+
+- **Dependencies**: Relies on LangChain ecosystem (e.g., `langchain-core`, `langchain-community`) and integrates with vector stores (e.g., Chroma, FAISS) a
 
 ## Use Cases
 

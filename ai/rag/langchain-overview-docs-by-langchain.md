@@ -3,9 +3,9 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/concepts/document_loaders/
-published_at: '2026-06-26T20:23:22.547866+05:30'
-collected_at: '2026-06-26T20:23:22.547880+05:30'
+source_url: https://js.langchain.com
+published_at: '2026-06-27T01:44:01.432870+05:30'
+collected_at: '2026-06-27T01:44:01.432885+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-26T20:23:22.547880+05:30'
-last_seen: '2026-06-26T20:23:22.547880+05:30'
-last_checked: '2026-06-26T20:23:22.547880+05:30'
+first_seen: '2026-06-27T01:44:01.432885+05:30'
+last_seen: '2026-06-27T01:44:01.432885+05:30'
+last_checked: '2026-06-27T01:44:01.432885+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple LLM providers (e.g., OpenAI, Anthropic, Google).
+- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Framework Integration**: LangChain agents are built atop LangGraph, inheriting durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability for tracing, debugging, and evaluating agent behavior via execution data.
+- **Unified Abstraction Layer**: Implements a standard interface for chat models, embeddings, and tools across providers, ensuring application portability with minimal code changes and incremental capability addition via middleware.
 
-- **Modular Architecture**: Supports a standard model interface across providers, allowing seamless model switching, and a highly configurable harness (`create_agent`) that enables incremental addition of capabilities (e.g., guardrails, retries, routing) via middleware.
+- **LangGraph Integration & Observability**: Built on LangGraph for durable execution, persistence, and human-in-the-loop support; integrates with LangSmith for tracing, debugging, and evaluating agent behavior through execution data.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:23:22.547866+05:30
+- Published: 2026-06-27T01:44:01.432870+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com/docs/concepts/document_loaders/
+Original source: https://js.langchain.com

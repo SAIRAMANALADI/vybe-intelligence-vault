@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
-published_at: '2026-06-26T15:27:23.490583+05:30'
-collected_at: '2026-06-26T15:27:23.490601+05:30'
+published_at: '2026-06-27T01:48:11.777724+05:30'
+collected_at: '2026-06-27T01:48:11.777738+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
-first_seen: '2026-06-26T15:27:23.490601+05:30'
-last_seen: '2026-06-26T15:27:23.490601+05:30'
-last_checked: '2026-06-26T15:27:23.490601+05:30'
+first_seen: '2026-06-27T01:48:11.777738+05:30'
+last_seen: '2026-06-27T01:48:11.777738+05:30'
+last_checked: '2026-06-27T01:48:11.777738+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Enterprise Platform** is built on the open-source Haystack framework, providing an end-to-end solution for building, testing, deploying, and monitoring production-ready AI agents and applications with enterprise-grade security, scalability, and support.
+- **Haystack Enterprise Platform** is a production-ready framework for building, testing, and deploying custom AI agents and applications, leveraging the open-source Haystack library while adding enterprise-grade security, scalability, and support.
 
-- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing (text, tables, images, documents), and built-in data/metadata management for sensitive/classified data with sovereign control.
+- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing for text/tables/images with metadata management, and a governed deployment pipeline for iterative development with data sovereignty controls.
 
-- **Enterprise workflow acceleration** is achieved via pre-built pipeline templates, a visual Pipeline Builder, custom component integration, and dedicated testing/debugging tools (Playground, Prompt Explorer) to streamline the AI lifecycle from prototype to deployment.
+- **Integrated workflow** supports end-to-end AI lifecycle management with pipeline templates, custom component integration, repeatable jobs, and monitoring—accelerated by embedded AI expertise for rapid prototyping and deployment.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:27:23.490583+05:30
+- Published: 2026-06-27T01:48:11.777724+05:30
 
 ## Related Tags
 

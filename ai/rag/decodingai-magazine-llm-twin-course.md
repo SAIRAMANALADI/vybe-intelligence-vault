@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-26T22:40:25.358563+05:30'
+collected_at: '2026-06-27T01:41:34.923392+05:30'
 published_at: '2026-06-24T11:17:14Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-26T22:40:25.358563+05:30'
-last_seen: '2026-06-26T22:40:25.358563+05:30'
-last_checked: '2026-06-26T22:40:25.358563+05:30'
+first_seen: '2026-06-27T01:41:34.923392+05:30'
+last_seen: '2026-06-27T01:41:34.923392+05:30'
+last_checked: '2026-06-27T01:41:34.923392+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM & RAG system**: Course provides hands-on guidance for building production-ready LLMs and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Tech stack integration**: Covers AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked, with deployment via Docker and infrastructure-as-code workflows.
-- **ML system design focus**: Emphasizes machine learning engineering, system architecture, and scalable MLOps pipelines for generative AI applications, updated as of June 2026.
+- **Course Structure**: Provides a hands-on, production-ready guide for building **LLM & RAG systems** using **LLMOps best practices**, including **12 structured lessons** and **source code** for practical implementation.
+
+- **Tech Stack**: Integrates **AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Qwak (MLOps), Comet-ML (experiment tracking), and Superlinked (embeddings)** with Docker for containerization.
+
+- **ML Engineering Focus**: Covers **end-to-end system design**, **ML system architecture**, and **scalable deployment** with **LLMOps workflows**, emphasizing reproducibility and infrastructure-as-code.
 
 ## Why It Matters
 

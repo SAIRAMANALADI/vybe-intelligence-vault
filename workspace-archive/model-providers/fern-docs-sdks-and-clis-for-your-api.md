@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC via OpenAPI specs.
+- **Multi-protocol API support**: Generates Docs, SDKs, and CLI from a single source of truth for REST, WebSockets, GraphQL, AsyncAPI, and gRPC, ensuring consistency across all API interactions.
 
-- **AI-native documentation features**: Includes AI chat, MCP server integration, auto-generated `llms.txt`, and AI-assisted authoring (e.g., Fern Writer) for real-time agent interactions and reduced hallucinations.
+- **AI-native documentation features**: Integrates AI chat, MCP server, llms.txt, and AI-assisted authoring into docs, enabling real-time agent queries, hallucination-free responses, and automated content updates via Git workflows.
 
-- **Enterprise-grade scalability**: Supports multi-source docs aggregation, SAML/OIDC role-based access control, SOC 2
+- **Enterprise-grade scalability**: Offers SOC 2 Type II compliance, mu
 
 ## Use Cases
 

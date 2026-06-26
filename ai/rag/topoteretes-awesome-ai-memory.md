@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-06-26T22:40:35.358487+05:30'
+collected_at: '2026-06-27T01:41:44.937460+05:30'
 published_at: '2026-06-24T12:37:59Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
 stars: 797
 language: Python
 status: active
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-06-26T22:40:35.358487+05:30'
-last_seen: '2026-06-26T22:40:35.358487+05:30'
-last_checked: '2026-06-26T22:40:35.358487+05:30'
+first_seen: '2026-06-27T01:41:44.937460+05:30'
+last_seen: '2026-06-27T01:41:44.937460+05:30'
+last_checked: '2026-06-27T01:41:44.937460+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including short-term, long-term, and context-aware memory mechanisms.
-- **Python-centric ecosystem**: Majority of projects leverage Python, with integrations for ML frameworks (e.g., PyTorch, TensorFlow) and memory-augmented architectures (e.g., Neural Turing Machines, Memory Networks).
-- **Covers RAG and agentic workflows**: Includes projects enabling Retrieval-Augmented Generation (RAG), agent memory management, and hybrid approaches combining symbolic and neural memory systems.
+- **Curated list of AI memory projects**: Repository aggregates open-source and research initiatives focused on AI memory systems, including agents, memory management, and retrieval-augmented generation (RAG) frameworks.
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, leveraging libraries like LangChain, LlamaIndex, and custom memory architectures for stateful AI applications.
+- **Active maintenance & growth**: Last updated in June 2026, with 797 stars and 86 forks, indicating sustained community engagement in advancing AI memory techniques.
 
 ## Why It Matters
 

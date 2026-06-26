@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-06-26T22:41:05.416382+05:30'
+collected_at: '2026-06-27T01:42:14.978088+05:30'
 published_at: '2026-06-26T16:45:28Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-06-26T22:41:05.416382+05:30'
-last_seen: '2026-06-26T22:41:05.416382+05:30'
-last_checked: '2026-06-26T22:41:05.416382+05:30'
+first_seen: '2026-06-27T01:42:14.978088+05:30'
+last_seen: '2026-06-27T01:42:14.978088+05:30'
+last_checked: '2026-06-27T01:42:14.978088+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements an advanced Agentic Retrieval-Augmented Generation (RAG) system with RESTful API support for production-grade AI retrieval tasks.
-
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector search, and LLM integration, optimized for large-scale question-answering workflows.
-
-- **Production-Ready Features**: Supports real-time retrieval, hybrid search (semantic + keyword), and dynamic agent-based query routing, with last update (2026-06-26) ensuring ongoing enhancements.
+- **Agentic RAG Framework**: Implements an agentic Retrieval-Augmented Generation (RAG) system with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows.
+- **Production-Ready Retrieval**: Optimized for scalability and low-latency search operations, supporting vector and keyword-based retrieval with hybrid query processing.
+- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, indexing, and agent-driven query resolution, leveraging modern AI/ML libraries.
 
 ## Why It Matters
 

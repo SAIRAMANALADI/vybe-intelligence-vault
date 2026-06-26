@@ -11,7 +11,6 @@ archive_tier: essential
 resource_kind: framework
 importance: high
 tags:
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Protocol Definition**: MCP is an open standard protocol enabling standardized bidirectional communication between LLM applications and external data sources/tools via structured context exchange.
-- **Multi-Language SDK Support**: Provides official SDKs in TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, and Swift for protocol implementation and server/client development.
-- **Project Ecosystem**: Hosted under the Linux Foundation, includes core repositories for protocol specificatio
+- **Protocol Definition**: MCP is an open protocol enabling standardized integration between LLM applications and external data sources/tools via a structured interface for context exchange.
+- **Multi-Language SDK Support**: Provides official SDKs (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) for protocol implementation across ecosystems.
+- **Project Ecosystem**: Hosted under The Linux Foundation, includes specification/docs, maintained servers, and authorization extensions
 
 ## Use Cases
 

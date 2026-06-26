@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-06-26T22:42:25.510267+05:30'
+collected_at: '2026-06-27T01:43:35.078011+05:30'
 published_at: '2026-06-26T15:26:42Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-06-26T22:42:25.510267+05:30'
-last_seen: '2026-06-26T22:42:25.510267+05:30'
-last_checked: '2026-06-26T22:42:25.510267+05:30'
+first_seen: '2026-06-27T01:43:35.078011+05:30'
+last_seen: '2026-06-27T01:43:35.078011+05:30'
+last_checked: '2026-06-27T01:43:35.078011+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for comprehensive **AI agent monitoring**, **LLM cost tracking**, and **benchmarking** with support for **most LLMs** and **agent frameworks** (e.g., CrewAI, LangChain, Autogen, OpenAI Agents SDK).
+- **Python SDK** for comprehensive **AI agent monitoring**, **LLM cost tracking**, and **benchmarking**, with support for **most LLMs** and **agent frameworks** (e.g., CrewAI, LangChain, Autogen, OpenAI Agents SDK, AG2, CamelAI).
 
-- **Integrations** include **CrewAI, Agno, OpenAI Agents SDK, LangChain, Autogen, AG2, CamelAI**, and **LLM providers** like **Anthropic, Groq, Mistral, Ollama, OpenAI**.
+- **Integrates** with major LLM providers (**OpenAI, Anthropic, Mistral, Groq, Ollama**) and agent frameworks, enabling **real-time metrics**, **cost estimation**, and **evaluation metrics** (e.g., evals, performance benchmarks).
 
-- **Features** encompass **cost estimation, evaluation metrics (evals), and real-time monitoring**, with **last update on 2026-06-26** and **5,655 stars, 601 forks**.
+- **Open-source** repository (MIT License) with **5,655+ stars** and **601+ forks**, last updated **June 26, 2026**; designed for **production-grade agent observability** and **multi-framework compatibility**.
 
 ## Why It Matters
 

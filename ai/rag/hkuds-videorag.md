@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-26T22:41:05.406970+05:30'
+collected_at: '2026-06-27T01:42:14.970626+05:30'
 published_at: '2026-06-26T04:45:56Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-26T22:41:05.406970+05:30'
-last_seen: '2026-06-26T22:41:05.406970+05:30'
-last_checked: '2026-06-26T22:41:05.406970+05:30'
+first_seen: '2026-06-27T01:42:14.970626+05:30'
+last_seen: '2026-06-27T01:42:14.970626+05:30'
+last_checked: '2026-06-27T01:42:14.970626+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **VideoRAG**, a framework enabling **long-video understanding** via **Retrieval-Augmented Generation (RAG)** for multi-modal LLMs, allowing natural language interaction with video content.
-- Implements **hierarchical video chunking** and **semantic-aware retrieval** to efficiently process and query lengthy videos with **Python** leveraging PyTorch and Hugging Face ecosystems.
-- Achieves **state-of-the-art performance** on video QA benchmarks by integrating **cross-modal alignment** and **temporal reasoning** into the RAG pipeline.
+- **Multi-modal RAG Framework**: Introduces VideoRAG, a retrieval-augmented generation (RAG) system enabling LLMs to process and reason over long videos by integrating video embeddings, temporal segmentation, and multi-modal retrieval.
+
+- **Temporal-Aware Retrieval**: Implements a hierarchical retrieval mechanism with chunk-level and frame-level indexing to optimize long-video understanding, reducing computational overhead while preserving contextual relevance.
+
+- **Open-Source Implementation**: Provides a Python-based toolkit with pre-trained models, supporting multi-modal LLMs (e.g., LLaVA, VideoChat) for scalable video Q&A, retrieval, and summarization tasks.
 
 ## Why It Matters
 

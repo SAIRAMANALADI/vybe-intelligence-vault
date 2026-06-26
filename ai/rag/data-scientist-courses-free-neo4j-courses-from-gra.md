@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphacademy.neo4j.com/categories/data-scientist/
-published_at: '2026-06-26T20:28:11.801617+05:30'
-collected_at: '2026-06-26T20:28:11.801632+05:30'
+published_at: '2026-06-27T01:47:06.822704+05:30'
+collected_at: '2026-06-27T01:47:06.822720+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:data-scientist-courses-free-neo4j-courses-from-gra
-first_seen: '2026-06-26T20:28:11.801632+05:30'
-last_seen: '2026-06-26T20:28:11.801632+05:30'
-last_checked: '2026-06-26T20:28:11.801632+05:30'
+first_seen: '2026-06-27T01:47:06.822720+05:30'
+last_seen: '2026-06-27T01:47:06.822720+05:30'
+last_checked: '2026-06-27T01:47:06.822720+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data, with dedicated courses for data scientists (e.g., *GDS Fundamentals*, *Path Finding with GDS*).
-- **GraphRAG & Generative AI Integration** offered via structured learning paths (e.g., *Build a GraphRAG Personal Assistant*) targeting context engineering and AI-driven knowledge graph applications.
-- **Targeted Certifications & Courses** for personas including *Data Scientists* (2 courses), *Developers* (9 courses), and *Context Engineers* (11 courses), with durations ranging from 1 to 5 hours.
+- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data, with dedicated courses for fundamentals, pathfinding, and applied algorithms (e.g., shortest paths, community detection).
+
+- **GraphRAG & Generative AI Integration** offers learning paths for building knowledge graph-based retrieval-augmented generation (RAG) systems, targeting roles like Context Engineers and Data Scientists.
+
+- **Targeted Learning Paths** include specialized courses for Data Scientists (e.g., GDS fundamentals, algorithm application) and other personas (Developers, Data Engineers), with durations ranging from 1 to 5 hours.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:28:11.801617+05:30
+- Published: 2026-06-27T01:47:06.822704+05:30
 
 ## Related Tags
 

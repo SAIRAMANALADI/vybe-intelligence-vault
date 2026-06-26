@@ -8,17 +8,16 @@ local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - dataset
 - github-repo
-- leaderboard
 - python
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # embeddings-benchmark/mteb
@@ -27,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) in **100+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics.
-- **Modular Architecture**: Implements **task-specific modules** (e.g., `BitextMining`, `Clustering`) with **unified APIs** for seamless integration of models (e.g., SBERT, Sentence-Transformers) and datasets.
-- **State-of-the-Art Tracking**: Maintains **leaderb
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., classification, clustering, retrieval) and 112 languages, supporting both monolingual and multilingual assessments.
+
+- **Modality Support**: Extends evaluation to multimodal embeddings (text + image) via tasks like image-text retrieval and cross-modal similarity, integrating datasets like COCO and Flickr30k.
+
+- **Modular Architecture**: Implements a standardized Python framework with t
 
 ## Use Cases
 

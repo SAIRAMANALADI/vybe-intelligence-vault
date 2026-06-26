@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - rag
@@ -31,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Design**: Implements a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework optimized for modularity and ease of deployment across diverse environments.
+- **Framework**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework designed for modularity and ease of integration across different environments.
 
-- **Notebook-Based Implementation**: Entirely developed in Jupyter Notebooks, facilitating interactive experimentation, visualization, and step-by-step tutorials for RAG pipeline construction.
+- **Implementation**: Primarily implemented in Jupyter Notebooks, leveraging Python-based libraries for document processing, vector embeddings, and LLM interaction.
 
-- **Tutorial Integration**: Provides structured educational content covering core RAG concepts, including retrieval
+- **Tutorials**: Includes step-by-step guides covering RAG pipeline construction, retrieval optimization, and deployment strategies for practical applications.
 
 ## Use Cases
 

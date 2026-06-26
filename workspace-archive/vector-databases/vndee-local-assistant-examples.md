@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain for LLM integration and RAG (Retrieval-Augmented Generation) for document processing.
-- **Dependencies**: Utilizes Ollama for local LLM inference, enabling offline operation without external API calls.
-- **Deployment**: Provides a self-contained, locally runnable example with modular components for document ingestion, embedding, and interactive querying.
+- **Implementation**: Demonstrates building a local ChatPDF system using Python, leveraging LangChain for LLM integration and RAG (Retrieval-Augmented Generation) for document processing.
+- **Dependencies**: Utilizes Ollama for local LLM inference, enabling offline operation without cloud dependency.
+- **Repository Structure**: Provides example scripts and configurations to deploy a self-hosted PDF assistant with modular components for document ingestion, retrieval, and response generation.
 
 ## Use Cases
 

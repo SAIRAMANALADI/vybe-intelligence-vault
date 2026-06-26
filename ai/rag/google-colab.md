@@ -3,20 +3,17 @@ title: Google Colab
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
-published_at: '2026-06-25T20:51:09.721462+05:30'
-collected_at: '2026-06-25T20:51:09.721477+05:30'
+source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+published_at: '2026-06-27T01:48:14.791025+05:30'
+collected_at: '2026-06-27T01:48:14.791038+05:30'
 tags:
-- benchmark
-- models
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-06-25T20:51:09.721477+05:30'
-last_seen: '2026-06-25T20:51:09.721477+05:30'
-last_checked: '2026-06-25T20:51:09.721477+05:30'
+first_seen: '2026-06-27T01:48:14.791038+05:30'
+last_seen: '2026-06-27T01:48:14.791038+05:30'
+last_checked: '2026-06-27T01:48:14.791038+05:30'
 health_score: 100
 ---
 
@@ -24,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **LoRA Tuning**: The document outlines the process of fine-tuning Gemma models using Low-Rank Adaptation (LoRA), a parameter-efficient transfer learning method that freezes pre-trained weights and injects trainable low-rank matrices into transformer layers.
+- **Resource Unavailable**: The provided link requires authentication via Google Sign-In, restricting access to the Haystack tutorial on building a first RAG pipeline.
 
-- **Implementation Details**: Includes code snippets for applying LoRA to Gemma's attention layers (e.g., `LoRALinear` class), with configurable rank (`r`), alpha (`lora_alpha`), and dropout (`lora_dropout`) hyperparameters.
+- **Tutorial Focus**: The notebook (if accessible) likely covers end-to-end implementation of a Retrieval-Augmented Generation (RAG) pipeline using Haystack, including document retrieval and LLM integration.
 
-- **Training Workflow**: Demonstrates integration with Hugging Face's `Trainer` API, leveraging PEFT (Parameter-Efficient Fine-Tuning) libraries for memory-efficient training, and highlights metrics like perplexity for evaluation.
+- **Prerequisite**: Requires prior setup of Haystack (`pip install farm-haystack`) and dependencies (e.g., transformers, sentence-transformers) for execution.
 
 ## Why It Matters
 
@@ -38,16 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:51:09.721462+05:30
+- Published: 2026-06-27T01:48:14.791025+05:30
 
 ## Related Tags
 
-- benchmark
-- models
 - rag
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb

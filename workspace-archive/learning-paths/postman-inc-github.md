@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Postman's open philosophy**: Transparent roadmaps, issue tracking, and support for major API specifications, driven by feedback from a 17M+ developer community.
-- **Open-source contributions**: Core projects like Newman (CLI for Postman Collections), Postman Collection SDK (JavaScript), and Code Generators (20+ languages) enable extensibility and automation.
-- **Community resources**: Public release notes, GitHub issue tracking, documentation, and tutorials (YouTube/blog) facilitate collabor
+- **Postman's Open Philosophy**: Actively engages with a 17M+ developer community for continuous improvements, transparent roadmaps, and support for major API specifications (OpenAPI, GraphQL, etc.).
+
+- **Open-Source Contributions**: Hosts multiple open-source projects (e.g., [Newman](https://github.com/postmanlabs/newman), [Postman Collection SDK](https://github.com/postmanlabs/postman-collection)) enabling CLI testing, SDK integration, and code generation in 20+ languages.
+
+- **Community & Res
 
 ## Use Cases
 

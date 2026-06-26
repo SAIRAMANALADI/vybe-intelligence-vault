@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
-- **Agentic AI Development**: Contains Jupyter Notebooks covering agentic frameworks, memory management, and retrieval-augmented generation (RAG) for enhanced reasoning.
-- **Technical Tutorials**: Provides hands-on projects and tutorials in agentic coding, engineering, and workflow optimization (last updated June 2026).
+- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex task execution.
+- **Agentic AI Development**: Contains Jupyter Notebooks covering agentic frameworks, RAG (Retrieval-Augmented Generation), and workflow optimization for AI agents.
+- **Technical Resources**: Provides tutorials on agentic coding, engineering, and framework implementation, updated as of June 2026.
 
 ## Use Cases
 

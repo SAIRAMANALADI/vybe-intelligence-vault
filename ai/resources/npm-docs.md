@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-06-26T22:46:06.665893+05:30'
-collected_at: '2026-06-26T22:46:06.665903+05:30'
+published_at: '2026-06-27T01:46:10.707102+05:30'
+collected_at: '2026-06-27T01:46:10.707115+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-06-26T22:46:06.665903+05:30'
-last_seen: '2026-06-26T22:46:06.665903+05:30'
-last_checked: '2026-06-26T22:46:06.665903+05:30'
+first_seen: '2026-06-27T01:46:10.707115+05:30'
+last_seen: '2026-06-27T01:46:10.707115+05:30'
+last_checked: '2026-06-27T01:46:10.707115+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for managing Node.js packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
-- **Package Registry**: Centralized repository for publishing, discovering, and installing JavaScript packages with semantic versioning (`^1.0.0`, `~1.0.0`).
-- **Security & Policies**: Enforces registry policies (e.g., 2FA, package signing) and mitigates threats (e.g., typosquatting, dependency confusion) via npm’s threat analysis tools.
+- **npm CLI**: Command-line interface for managing npm packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
+- **Registry & Packages**: Centralized npm registry hosts public/private packages with versioning, dependency resolution, and semantic versioning (semver) support.
+- **Security Policies**: Enforces package signing (npm provenance), vulnerability scanning, and access controls via organizations and two-factor authentication (2FA).
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T22:46:06.665893+05:30
+- Published: 2026-06-27T01:46:10.707102+05:30
 
 ## Related Tags
 

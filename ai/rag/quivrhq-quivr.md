@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-26T22:40:45.384801+05:30'
+collected_at: '2026-06-27T01:41:54.932805+05:30'
 published_at: '2026-06-26T16:45:52Z'
 tags:
 - frontend_ui
@@ -14,6 +14,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 stars: 39178
 language: Python
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-26T22:40:45.384801+05:30'
-last_seen: '2026-06-26T22:40:45.384801+05:30'
-last_checked: '2026-06-26T22:40:45.384801+05:30'
+first_seen: '2026-06-27T01:41:54.932805+05:30'
+last_seen: '2026-06-27T01:41:54.932805+05:30'
+last_checked: '2026-06-27T01:41:54.932805+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for LLMs (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss) without vendor lock-in.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization for existing products.
 
-- **Multi-Format & Multi-Store Support**: Enables integration with any file type and provides flexible deployment options, including Docker, PostgreSQL, and React-based frontends, while ensuring privacy and security compliance.
+- **Multi-LLM & Vector Store Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse GenAI and storage backends.
 
-- **Tech Stack**: Built in Python with TypeScript/JavaScript for frontend, supporting APIs, chatbots, and LLMs via OpenAI/Groq, optimized for extensibility and rapid deployment in production environments.
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, alongside a React/TypeScript frontend, enabling end-to-end GenAI solutions with API-driven workflows and file ingestion flexibility.
 
 ## Why It Matters
 

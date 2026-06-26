@@ -6,14 +6,15 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-26T22:42:40.560481+05:30'
-published_at: '2026-06-26T16:51:59Z'
+collected_at: '2026-06-27T01:43:50.050137+05:30'
+published_at: '2026-06-26T20:13:42Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 83687
+- workflows
+stars: 83693
 language: Go
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-12-12T06:13:13Z'
 pushed_at: '2026-06-26T14:55:49Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-06-26T22:42:40.560481+05:30'
-last_seen: '2026-06-26T22:42:40.560481+05:30'
-last_checked: '2026-06-26T22:42:40.560481+05:30'
+first_seen: '2026-06-27T01:43:50.050137+05:30'
+last_seen: '2026-06-27T01:43:50.050137+05:30'
+last_checked: '2026-06-27T01:43:50.050137+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Engine**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic capabilities to enhance LLM context processing, enabling superior contextual understanding and response generation.
+- **Hybrid RAG-Plus-Agent Architecture**: Integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities to enhance LLM context processing via dynamic retrieval and reasoning workflows.
 
-- **Go-Based Architecture**: Implemented in Go, the system emphasizes high-performance context management and retrieval, supporting scalable LLM applications with optimized context-engine operations.
+- **Multi-Model Context Engine**: Supports structured/unstructured data ingestion, chunking, and vectorization with built-in context management for high-precision LLM context augmentation.
 
-- **Open-Source Ecosystem**: Hosted on GitHub with 83.6K+ stars and 9.7K+ forks, RAGFlow provides a modular framework for agentic retrieval, search, and AI-driven context optimization in production-grade deployments.
+- **Production-Grade Go Implementation**: Optimized for scalability with Go-based backend, offering RESTful APIs, multi-database support (e.g., PostgreSQL, Milvus), and modular pipelines for agentic search/retrieval.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 83687
-- Forks: 9711
+- Stars: 83693
+- Forks: 9712
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-26T16:51:59Z
+- Last Updated: 2026-06-26T20:13:42Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z

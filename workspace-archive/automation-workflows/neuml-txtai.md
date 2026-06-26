@@ -1,9 +1,8 @@
 ---
-title: txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai
-  · GitHub
+title: neuml/txtai
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
+source_url: https://github.com/neuml/txtai
 resource_id: github:neuml/txtai
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
@@ -12,17 +11,18 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- hackernews
+- agents
+- dataset
+- github-repo
+- python
 - rag
-- reddit
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai · GitHub
+# neuml/txtai
 
 ## Why This Is In The Archive
 
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: `txtai` is an open-source Python library by `neuml` (12.7k stars, 835 forks) hosted on GitHub, focused on NLP and semantic search applications.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
 
-- **Notebook Content**: The file `52_Build_RAG_pipelines_with_txtai.ipynb` (592 lines, 21.8 KB) demonstrates constructing Retrieval-Augmented Generation (RAG) pipelines using `txtai`.
+- **Modular Components**: Supports embeddings, vector search, RAG, and transformer models with built-in agents for scalable NLP and information retrieval tasks.
 
-- **Technical Scope**: The notebook provides executable examples for integrating `txtai` with RAG architectures, emphasizing vector search, emb
+- **Vector Database Integration**: Enables efficient storage and retrieval of sentence embeddings with optimized vector search capabilities for large-scale datasets.
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
+Original source URL: https://github.com/neuml/txtai
 
 ## Local Vault File
 

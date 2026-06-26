@@ -37,9 +37,9 @@ selection_reason:
 
 - **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
 
-- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for orchestration and an agentic workflow, leveraging foundation models and benchmark-backed evaluations for adaptive anomaly detection.
+- **ADEngine & Agentic Workflow**: Features benchmark-backed orchestration (ADEngine) and an agentic workflow for AI agents, facilitating automated, adaptive anomaly detection pipelines.
 
-- **Scalable & Diverse Applications**: Optimized for fraud detection, graph/sequence anomalies, and OOD scenarios;
+- **Foundation for Fraud & OOD Detection**: Provides specialized tools for fraud detection, out-of-distribution (OOD) analysis
 
 ## Use Cases
 

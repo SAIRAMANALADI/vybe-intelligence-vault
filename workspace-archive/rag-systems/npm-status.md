@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **npm Statuspage** provides real-time operational metrics and incident tracking for npm services, including website uptime (99.93% over 90 days), package installation, publishing, search, security audit, and replication feed, all currently marked as operational.
-
-- **Incident Management** includes historical tracking (e.g., June 12, 2026, intermittent publish failures resolved via monitoring and fixes) and notification systems via email/SMS for incident updates, with compliance to Atlassian an
+- **npm Statuspage** provides real-time incident tracking for npm services, including website, package installation, publishing, search, security audit, and replication feed, with historical uptime data (e.g., 99.93% uptime for `www.npmjs.com` over 90 days).
+- **Notification System** supports email and SMS alerts for incident creation, updates, and resolutions, with OTP-based verification and country-specific phone number support.
+- **Recent Incident** (June 12, 2026): Intermittent publish failu
 
 ## Use Cases
 

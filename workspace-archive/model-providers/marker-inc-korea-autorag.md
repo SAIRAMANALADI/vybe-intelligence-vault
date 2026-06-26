@@ -12,10 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
-- openai
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - scripts
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning and pipeline optimization for RAG systems using black-box optimization techniques (e.g., Bayesian optimization) to maximize performance metrics like answer correctness and context relevance without manual intervention.
+- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning, pipeline optimization, and evaluation for RAG systems using a black-box optimization approach (e.g., Bayesian optimization) to maximize performance metrics (e.g., answer correctness, context relevance) without manual intervention.
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarking tools for RAG components (retriever, generator, reranker) across datasets (e.g., MS MARCO, TriviaQA) with standardized metrics
+- **Comprehensive RAG Evaluation Suite**: Implements standardized benchmarks for RAG components (retrieval, generation, and end-to-end pipelines) with metrics like faithfulness, answer corr
 
 ## Use Cases
 

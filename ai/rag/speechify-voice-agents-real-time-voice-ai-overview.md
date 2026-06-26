@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-06-22T10:49:21.965282+05:30'
-collected_at: '2026-06-22T10:49:21.965291+05:30'
+published_at: '2026-06-27T01:44:58.276623+05:30'
+collected_at: '2026-06-27T01:44:58.276636+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechify-voice-agents-real-time-voice-ai-overview
-first_seen: '2026-06-22T10:49:21.965291+05:30'
-last_seen: '2026-06-22T10:49:21.965291+05:30'
-last_checked: '2026-06-22T10:49:21.965291+05:30'
+first_seen: '2026-06-27T01:44:58.276636+05:30'
+last_seen: '2026-06-27T01:44:58.276636+05:30'
+last_checked: '2026-06-27T01:44:58.276636+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time voice agents** with sub-2s per-turn latency, leveraging a curated catalog of natural voices (`GET /v1/agents/voices`) and a low-latency pipeline for seamless speech-to-speech interactions.
-- **Multi-modal tool integration** via webhook, client-side, MCP server, or built-ins (`end_call`, `transfer_to_number`), with full transcript persistence (timestamps + tool traces) and post-call LLM-graded evaluations.
-- **Deployment flexibility** through `POST /v1/agents/{id}/conversations` for real-time sessions, supporting inbound/outbound use cases (support, IVR replacement) and no-code console configuration.
+- **Real-time voice interaction framework** leveraging Speechify API with sub-2s per-turn latency, enabling conversational AI agents via `POST /v1/agents/{id}/conversations` for session provisioning and token-based WebSocket connections.
+
+- **Modular agent architecture** supporting dynamic prompt configuration, curated Speechify voices (excluding cloned/personal TTS voices), and extensible tool integration (webhook, client-side, MCP, or built-ins like `end_call`/`transfer_to_number`) with full transcript persistence and post-call LLM evaluation.
+
+- **Production-ready IVR replacement** for inbound/outbound workflows, deployable via no-code console or API, with automated structured data extraction and webhook-based lifecycle event notifications.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:49:21.965282+05:30
+- Published: 2026-06-27T01:44:58.276623+05:30
 
 ## Related Tags
 

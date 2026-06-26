@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured in a unified graph-based representation for enhanced knowledge retrieval and generation.
+- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, etc.) structured as a graph for enhanced contextual retrieval and generation, targeting ACL 2026.
 
-- **Graph-Centric Retrieval Mechanism**: Implements a hierarchical retrieval strategy where queries traverse a multimodal knowledge graph to dynamically aggregate contextually relevant subgraphs, improving precision over traditional
+- **Python Implementation**: Fully implemented in Python, enabling modular integration with existing deep learning pipelines and graph-based processing libraries (e.g., PyTorch, DGL, or NetworkX).
+
+- **Scalable Architecture**: Designed for lar
 
 ## Use Cases
 

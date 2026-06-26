@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-26T22:40:05.368062+05:30'
+collected_at: '2026-06-27T01:41:14.893082+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-26T22:40:05.368062+05:30'
-last_seen: '2026-06-26T22:40:05.368062+05:30'
-last_checked: '2026-06-26T22:40:05.368062+05:30'
+first_seen: '2026-06-27T01:41:14.893082+05:30'
+last_seen: '2026-06-27T01:41:14.893082+05:30'
+last_checked: '2026-06-27T01:41:14.893082+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and performance assessment.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling users to interactively explore and debug RAG workflows.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to explore RAG components (e.g., retrieval, generation) with dynamic controls and real-time updates.
+- **Tech Stack**: Built with Python, Streamlit for UI, and integrates with LLMs; designed for modularity and extensibility in RAG system analysis.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG configurations, evaluation metrics, and visualization of intermediate pipeline steps (e.g., embeddings, retrieved contexts).
+- **Features**: Real-time visualization of retrieval, generation, and intermediate steps; supports custom datasets and model integration; last updated June 2026.
 
 ## Why It Matters
 

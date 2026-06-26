@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data, with dedicated courses for data scientists (e.g., *GDS Fundamentals*, *Path Finding with GDS*).
-- **GraphRAG & Generative AI Integration** offered via structured learning paths (e.g., *Build a GraphRAG Personal Assistant*) targeting context engineering and AI-driven knowledge graph applications.
-- **Targeted Certifications & Courses** for personas including *Data S
+- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data, with dedicated courses for fundamentals, pathfinding, and applied algorithms (e.g., shortest paths, community detection).
+
+- **GraphRAG & Generative AI Integration** offers learning paths for building knowledge graph-based retrieval-augmented generation (RAG) systems, targeting roles like Context Engineers and Data Scientists.
+
+- **Targeted Learning Paths** include
 
 ## Use Cases
 

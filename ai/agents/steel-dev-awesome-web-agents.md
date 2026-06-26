@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-06-26T22:42:15.504655+05:30'
+collected_at: '2026-06-27T01:43:25.077448+05:30'
 published_at: '2026-06-26T06:33:20Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - scripts
 stars: 1484
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-06-25T14:08:57Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-06-26T22:42:15.504655+05:30'
-last_seen: '2026-06-26T22:42:15.504655+05:30'
-last_checked: '2026-06-26T22:42:15.504655+05:30'
+first_seen: '2026-06-27T01:43:25.077448+05:30'
+last_seen: '2026-06-27T01:43:25.077448+05:30'
+last_checked: '2026-06-27T01:43:25.077448+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository aggregates tools, frameworks, and benchmarks for developing AI-driven web agents, focusing on browser automation and LLM integration.
-- **Technical scope**: Covers Python-based solutions, LLM benchmarking, and AI agent architectures for web interaction.
-- **Community metrics**: 1.48k stars, 190 forks, last updated June 2026.
+- **Curated collection** of tools, frameworks, and resources for developing AI web agents, focusing on browser automation and LLM integration.
+- **Python-centric** repository with 1,484 stars and 191 forks, last updated June 2026.
+- **Topics** include AI agents, LLM benchmarking, and automation, serving as a reference for cutting-edge web agent development.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: steel-dev
 - Stars: 1484
-- Forks: 190
+- Forks: 191
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
 - Last Updated: 2026-06-26T06:33:20Z

@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval during inference.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval augmented generation.
 
-- **Production Optimization**: Focuses on latency reduction (e.g., caching strategies, load balancing across models) and cost control via token usage optimization, with benchmarks highlighting trade-offs between performance and computational ov
+- **Production Optimization**: Key strategies involve token usage reduction (e.g., query rewriting, selective retrieval), caching (e.g., Redis), load balancing across models, and deployment via edge workers (e.g., Cloudflare) for low-latenc
 
 ## Use Cases
 

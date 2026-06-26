@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-26T15:30:10.466947+05:30'
-collected_at: '2026-06-26T15:30:10.466957+05:30'
+published_at: '2026-06-27T01:44:32.221693+05:30'
+collected_at: '2026-06-27T01:44:32.221706+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-26T15:30:10.466957+05:30'
-last_seen: '2026-06-26T15:30:10.466957+05:30'
-last_checked: '2026-06-26T15:30:10.466957+05:30'
+first_seen: '2026-06-27T01:44:32.221706+05:30'
+last_seen: '2026-06-27T01:44:32.221706+05:30'
+last_checked: '2026-06-27T01:44:32.221706+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic workflows.
+- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
 
-- **Agentic & Multimodal Pipelines**: Tutorials on building tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems with conditional routing fallbacks.
+- **Multimodal RAG Pipeline**: Tutorial demonstrating a Vision+Text RAG system that integrates image and text embeddings for cross-modal retrieval and question answering.
 
-- **Advanced Optimization & Serialization**: Covers KV cache compression (TurboQuant) for LLM memory reduction, pipeline serialization (YAML/Python), and hybrid retrieval combining keyword and dense retrieval methods.
+- **KV Cache Compression**: Guide on using TurboQuant quantization to reduce memory usage in LLM inference, enabling deployment of large models on consumer GPUs.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:30:10.466947+05:30
+- Published: 2026-06-27T01:44:32.221693+05:30
 
 ## Related Tags
 

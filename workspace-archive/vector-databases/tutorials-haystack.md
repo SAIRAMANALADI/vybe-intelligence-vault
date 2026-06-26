@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic workflows.
+- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
 
-- **Agentic & Multimodal Pipelines**: Tutorials on building tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems with conditional routing fallbacks.
+- **Multimodal RAG Pipeline**: Tutorial demonstrating a Vision+Text RAG system that integrates image and text embeddings for cross-modal retrieval and question answering.
 
-- **Advanced Optimization & Serialization**: Covers KV cache compression (TurboQuant) for LLM memory reduction, pi
+- **KV Cache Compression**: Guide on using TurboQuant quantization to reduce memory usage in LLM inference, enabling deployment of l
 
 ## Use Cases
 

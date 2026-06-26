@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-06-26T22:40:50.401483+05:30'
+collected_at: '2026-06-27T01:41:59.917494+05:30'
 published_at: '2026-06-26T04:53:52Z'
 tags:
+- agents
 - github-repo
 - paper
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-11-01T03:12:25Z'
 pushed_at: '2026-06-26T05:46:39Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-06-26T22:40:50.401483+05:30'
-last_seen: '2026-06-26T22:40:50.401483+05:30'
-last_checked: '2026-06-26T22:40:50.401483+05:30'
+first_seen: '2026-06-27T01:41:59.917494+05:30'
+last_seen: '2026-06-27T01:41:59.917494+05:30'
+last_checked: '2026-06-27T01:41:59.917494+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is a Python-based offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port identification, exposed service detection, and vulnerability assessment.
-- **Features**: Automates reconnaissance tasks including network mapping, service enumeration, and vulnerability scanning, consolidating offensive security operations in a portable form factor.
-- **Hardware Integration**: Leverages a Raspberry Pi with an e-Paper HAT for display and likely low-power operation, optimized for field deployments in security assessments.
+- **Network Scanning & Offensive Security Tool**: Ragnar is a Python-based utility designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network target discovery, open port enumeration, exposed service identification, and vulnerability assessment.
+
+- **Autonomous Operation**: Leverages hardware integration (e-Paper HAT) for portable, standalone offensive security operations, optimized for Raspberry Pi ecosystems.
+
+- **Active Development**: Last updated in 2026, indicating ongoing maintenance and feature expansion (e.g., Bjorn integration as a related tool).
 
 ## Why It Matters
 

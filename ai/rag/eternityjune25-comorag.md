@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-26T22:41:10.407639+05:30'
+collected_at: '2026-06-27T01:42:19.888732+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-26T22:41:10.407639+05:30'
-last_seen: '2026-06-26T22:41:10.407639+05:30'
-last_checked: '2026-06-26T22:41:10.407639+05:30'
+first_seen: '2026-06-27T01:42:19.888732+05:30'
+last_seen: '2026-06-27T01:42:19.888732+05:30'
+last_checked: '2026-06-27T01:42:19.888732+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning by dynamically organizing and retrieving contextual information.
+- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization for stateful long narrative reasoning, leveraging hierarchical memory structures.
 
-- **Stateful Reasoning Mechanism**: Implements a hierarchical memory system (e.g., episodic, semantic, and procedural layers) to maintain coherence across extended dialogues or narratives, addressing limitations of traditional RAG in long-term dependency tracking.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended interactions, enabling persistent reasoning over long narratives.
 
-- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics and benchmarks for stateful reasoning, demonstrating superior performance in tasks requiring multi-turn contextual understanding compared to baseline RAG models.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge solution for long-form narrative understanding, with codebase in Python and active development (last updated June 2026).
 
 ## Why It Matters
 

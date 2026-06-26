@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Worktree Support**: GitHub Desktop 3.6 introduces native worktree management, enabling parallel branch development without repository duplication, with streamlined UI for creation, switching, and pruning operations.
+- **MAI-Code-1-Flash Integration**: Introduces MAI-Code-1-Flash model for Copilot Business and Enterprise, enhancing AI-driven code generation and contextual understanding with optimized performance for enterprise workflows.
 
-- **Enhanced Copilot Integration**: Deeper GitHub Copilot embedding in Desktop provides inline code suggestions, natural language commit message generation, and contextual chat within the client for improved developer workflow.
+- **GitHub Changelog Update**: Published under GitHub’s changelog for June 26, 2026, with the `copilot` label, marking a new feature release in the Copilot product line.
 
-- **Performance Optimizations**: Reduced memory fo
+- **Enterprise-Focused Enhancements**: Designed to improve developer productivity in business environme
 
 ## Use Cases
 

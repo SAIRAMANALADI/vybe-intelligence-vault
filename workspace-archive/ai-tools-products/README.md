@@ -9,23 +9,23 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [towardsai/ragbook-notebooks](https://github.com/towardsai/ragbook-notebooks) (benchmark - ESSENTIAL Tier)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [CommandCodeAI/langbase-examples](https://github.com/CommandCodeAI/langbase-examples) (workflow - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Android Developers Blog](https://android-developers.googleblog.com/) (tutorial - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
 - [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
-- [Android Mobile App Developer Tools - Android Developers](https://developer.android.com/) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [towardsai/ragbook-notebooks](https://github.com/towardsai/ragbook-notebooks)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [CommandCodeAI/langbase-examples](https://github.com/CommandCodeAI/langbase-examples)
+- [opendevin/opendevin](https://github.com/opendevin/opendevin)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [run-llama/ParseBench](https://github.com/run-llama/ParseBench)
-- [elizaOS/eliza](https://github.com/elizaOS/eliza)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-26 22:55 IST*
+*Last updated: 2026-06-27 01:56 IST*

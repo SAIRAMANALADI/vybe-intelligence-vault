@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by MHard. Score: 45, Comments: 22.
+Hacker News story by MHard. Score: 77, Comments: 60.
 Original Link: https://jan-herlyn.com/blog/doing-a-masters-while-working/
 
 ## Use Cases

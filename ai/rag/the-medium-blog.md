@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/blog/all?topic=product&source=collection_home_page
+source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
-----15f753907972-----0-----------------------------------
-published_at: '2026-06-24T22:50:36.106427+05:30'
-collected_at: '2026-06-24T22:50:36.106441+05:30'
+-----d10bb5769280---------------------------------------
+published_at: '2026-06-27T01:43:56.925804+05:30'
+collected_at: '2026-06-27T01:43:56.925818+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-24T22:50:36.106441+05:30'
-last_seen: '2026-06-24T22:50:36.106441+05:30'
-last_checked: '2026-06-24T22:50:36.106441+05:30'
+first_seen: '2026-06-27T01:43:56.925818+05:30'
+last_seen: '2026-06-27T01:43:56.925818+05:30'
+last_checked: '2026-06-27T01:43:56.925818+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Medium's sitemap.xml** provides a structured XML-based index of all accessible URLs, enabling efficient crawling and indexing by search engines.
-
-- **Authentication endpoints** (`/m/signin`) use OAuth2-based operations (`login`, `register`) with redirect URIs for session management and new post creation.
-
-- **API-driven navigation** includes dynamic topic filtering (e.g., `/blog?topic=product`) and embedded media assets (e.g., `miro.medium.com` resized images) for responsive UI rendering.
+- Medium’s sitemap (`/sitemap.xml`) provides structured indexing of all public-facing URLs, including blog posts, static pages, and API endpoints.
+- The platform supports OAuth2-based authentication flows via `/m/signin` for user registration/login, with redirects handling post-auth navigation.
+- Medium’s content delivery leverages CDN-based image resizing (e.g., `miro.medium.com/v2/resize:fill:`) for dynamic asset optimization across devices.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T22:50:36.106427+05:30
+- Published: 2026-06-27T01:43:56.925804+05:30
 
 ## Related Tags
 
@@ -46,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/blog/all?topic=product&source=collection_home_page----15f753907972-----0-----------------------------------
+Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------

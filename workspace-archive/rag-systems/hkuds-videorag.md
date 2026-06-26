@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Introduces **VideoRAG**, a framework enabling **long-video understanding** via **Retrieval-Augmented Generation (RAG)** for multi-modal LLMs, allowing natural language interaction with video content.
-- Implements **hierarchical video chunking** and **semantic-aware retrieval** to efficiently process and query lengthy videos with **Python** leveraging PyTorch and Hugging Face ecosystems.
-- Achieves **state-of-the-art performance** on video QA benchmarks by integrating **cross-modal alignment**
+- **Multi-modal RAG Framework**: Introduces VideoRAG, a retrieval-augmented generation (RAG) system enabling LLMs to process and reason over long videos by integrating video embeddings, temporal segmentation, and multi-modal retrieval.
+
+- **Temporal-Aware Retrieval**: Implements a hierarchical retrieval mechanism with chunk-level and frame-level indexing to optimize long-video understanding, reducing computational overhead while preserving contextual relevance.
+
+- **Open-Source Implementation**:
 
 ## Use Cases
 

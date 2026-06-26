@@ -4,23 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/snyk/agent-scan
-collected_at: '2026-06-25T16:39:55.162183+05:30'
-published_at: '2026-06-25T10:07:18Z'
+collected_at: '2026-06-27T01:43:45.082248+05:30'
+published_at: '2026-06-26T19:53:27Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-stars: 2657
+- workflows
+stars: 2675
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2025-04-07T14:31:26Z'
-pushed_at: '2026-06-25T10:13:50Z'
+pushed_at: '2026-06-26T16:08:23Z'
 resource_id: github:snyk/agent-scan
-first_seen: '2026-06-25T16:39:55.162183+05:30'
-last_seen: '2026-06-25T16:39:55.162183+05:30'
-last_checked: '2026-06-25T16:39:55.162183+05:30'
+first_seen: '2026-06-27T01:43:45.082248+05:30'
+last_seen: '2026-06-27T01:43:45.082248+05:30'
+last_checked: '2026-06-27T01:43:45.082248+05:30'
 health_score: 100
 ---
 
@@ -29,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Supports Model Context Protocol (MCP) and integrates with Python-based agent ecosystems.
-- **Repository Stats**: 2,657 stars, 235 forks, last updated on 2026-06-25.
+- **Key Features**: Supports detection of security flaws in AI workflows, integrates with Model Context Protocol (MCP).
+- **Technical Stack**: Implemented in Python, actively maintained with last update on 2026-06-26.
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: snyk
-- Stars: 2657
+- Stars: 2675
 - Forks: 235
 - Language: Python
 - Topics: agent, ai, mcp, modelcontextprotocol, security
-- Last Updated: 2026-06-25T10:07:18Z
+- Last Updated: 2026-06-26T19:53:27Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-07T14:31:26Z
-- Pushed At: 2026-06-25T10:13:50Z
+- Pushed At: 2026-06-26T16:08:23Z
 
 ## Possible Use Cases
 

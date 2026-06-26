@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-26T22:41:15.370155+05:30'
+collected_at: '2026-06-27T01:42:24.925018+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-26T22:41:15.370155+05:30'
-last_seen: '2026-06-26T22:41:15.370155+05:30'
-last_checked: '2026-06-26T22:41:15.370155+05:30'
+first_seen: '2026-06-27T01:42:24.925018+05:30'
+last_seen: '2026-06-27T01:42:24.925018+05:30'
+last_checked: '2026-06-27T01:42:24.925018+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), enabling unified processing of heterogeneous corpora.
+- **UniversalRAG Framework**: Introduces a retrieval-augmented generation (RAG) system designed to handle corpora across diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) with a unified architecture.
 
-- **ACL 2026 Oral-Presented Architecture**: The system introduces a modular pipeline with modality-agnostic retrievers and generators, leveraging cross-modal attention mechanisms and adaptive chunking strategies to optimize retrieval-augmented generation performance.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism leveraging modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared latent space for joint indexing and retrieval.
 
-- **Open-Source Python Implementation**: The repository provides a reference implementation with pre-trained models, benchmark datasets, and APIs for integrating UniversalRAG into downstream applications, emphasizing scalability and extensibility.
+- **Dynamic Granularity Adaptation**: Employs a granularity-aware retrieval strategy that dynamically selects the optimal granularity (e.g., paragraph vs. sentence) based on query complexity and context, optimizing both retrieval precision and generation quality.
 
 ## Why It Matters
 

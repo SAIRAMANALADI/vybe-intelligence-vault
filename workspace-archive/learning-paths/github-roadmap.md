@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap Tracking**: GitHub's official repository provides a transparent, community-driven roadmap for GitHub products and features, including GitHub Enterprise.
-
-- **Collaborative Development**: The roadmap includes planned updates, beta features, and community feedback integration, enabling stakeholders to track progress and contribute input.
-
-- **Regular Updates**: The repository is actively maintained with the latest updates (e.g., last commit on 2026-06-26), ensuring alignment wit
+- **Public Roadmap Tracking**: GitHub's official public roadmap for feature releases and platform updates, enabling community visibility into upcoming developments.
+- **Enterprise & Core Focus**: Tracks both GitHub.com and GitHub Enterprise roadmaps, covering core product enhancements and enterprise-specific features.
+- **Community-Driven Feedback**: Integrates user suggestions and prioritizes features based on community input, with last update timestamped for version control.
 
 ## Use Cases
 

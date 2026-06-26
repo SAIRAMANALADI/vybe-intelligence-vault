@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by cuchoi. Score: 300, Comments: 129.
+Hacker News story by cuchoi. Score: 333, Comments: 154.
 Original Link: https://www.fernandoi.cl/posts/hackmyclaw/
 
 ## Use Cases

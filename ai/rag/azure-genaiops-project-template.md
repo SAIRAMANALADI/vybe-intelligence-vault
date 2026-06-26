@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-26T22:39:55.331855+05:30'
+collected_at: '2026-06-27T01:41:04.923301+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-26T22:39:55.331855+05:30'
-last_seen: '2026-06-26T22:39:55.331855+05:30'
-last_checked: '2026-06-26T22:39:55.331855+05:30'
+first_seen: '2026-06-27T01:41:04.923301+05:30'
+last_seen: '2026-06-27T01:41:04.923301+05:30'
+last_checked: '2026-06-27T01:41:04.923301+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Deploys a Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline using Bicep, enabling automated provisioning of Azure resources for AI workloads.
-- **RAG Pipeline Integration**: Provides a structured framework for implementing RAG workflows, including document retrieval, embedding generation, and LLM inference orchestration on Azure.
-- **Azure Native Dependencies**: Leverages Azure services (e.g., Azure AI Search, Azure OpenAI, Azure Container Instances) for scalable, production-grade GenAI operations with built-in monitoring and CI/CD support.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Ops (GenAIOps) project, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
+
+- **RAG Pipeline Integration**: Includes pre-configured components for document ingestion, vector storage (e.g., Azure Cognitive Search), and LLM inference orchestration, facilitating end-to-end RAG workflows.
+
+- **GenAIOps Best Practices**: Implements Azure-native monitoring, logging (via Azure Monitor), and CI/CD pipelines (GitHub Actions) to ensure operational resilience and scalability for generative AI applications.
 
 ## Why It Matters
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; queries can be shared to improve collective security analysis.
-- **Supported Languages & Frameworks**: Latest release supports multiple languages/libraries (see [supported list](https://codeql.github.com/codeql-overview/supported-languages-and-frameworks/)); detailed CWE coverage documented [here](https://codeql.github.com/codeql-query-help/codeql-cwe-coverage/).
-- **Resources & Tools**: Includes QL l
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks via structured QL queries.
+- **Core Resources**: Provides CLI releases, VS Code extension, and open-source repository ([github.com/github/codeql](https://github.com/github/codeql)) for tooling and community contributions.
+- **Documentation & Support**: Includes QL language reference, standard libraries, query help, CWE coverage, and system requirements for analysis
 
 ## Use Cases
 

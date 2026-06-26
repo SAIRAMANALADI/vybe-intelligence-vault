@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling the creation of AI-driven Site Reliability Engineering (SRE) agents for automated observability, incident management, and root-cause analysis.
-- **Multi-Platform Integration**: Supports observability tools like Datadog, Grafana, and alerting systems (e.g., Slack), facilitating seamless incident detection, remediation, and collaboration.
-- **Python-Based Automation**: Leverages Python for extensible agent development, focusi
+- **AI SRE Agent Framework**: Open-source Python toolkit enabling autonomous Site Reliability Engineering (SRE) agents with root-cause analysis, incident management, and remediation capabilities for AI-era infrastructure.
+
+- **Integration Ecosystem**: Supports observability platforms (Datadog, Grafana), alerting systems, and collaboration tools (Slack) for end-to-end incident lifecycle automation.
+
+- **Modular Architecture**: Designed for extensibility with pluggable components for custom SRE wo
 
 ## Use Cases
 

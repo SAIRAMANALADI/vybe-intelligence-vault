@@ -6,7 +6,7 @@ source_url: https://platform.openai.com/docs/guides/embeddings
 resource_id: blog:vector-embeddings-openai-api
 local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -19,6 +19,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -27,16 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable output dimensions (default: 1536/3072) via the `dimensions` parameter, with performance trade-offs (e.g., 256-dim `text-embedding-3-large` outperforms 1536-dim `text-embedding-ada-002` on MTEB).
+- **Model Specifications**: `text-embedding-3-small` (1536D vectors, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, 9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, with max input length of 8192 tokens.
 
-- **Embedding Mechanics**: Text embeddings are high-dimensional vectors (floating-point lists) where cosine similarity/distance quantifies semantic rel
+- **API Integration**: Embeddings generated via `/v1/embeddings` endpoint; vectors are L2-normalized floating-point lists used for semantic search, clustering, classification, and anomaly detection, billed per input token
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-26T22:40:00.359757+05:30'
+collected_at: '2026-06-27T01:41:09.887966+05:30'
 published_at: '2026-06-26T16:19:53Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 25499
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-26T22:40:00.359757+05:30'
-last_seen: '2026-06-26T22:40:00.359757+05:30'
-last_checked: '2026-06-26T22:40:00.359757+05:30'
+first_seen: '2026-06-27T01:41:09.887966+05:30'
+last_seen: '2026-06-27T01:41:09.887966+05:30'
+last_checked: '2026-06-27T01:41:09.887966+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, dynamically retrieving relevant document chunks to enhance LLM responses.
-
-- **Modular Python Framework**: Built with extensible components for document ingestion, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., HuggingFace, OpenAI APIs).
-
-- **Open-Source Deployment**: Supports self-hosted setups with Docker, includes pre-built pipelines for PDFs/Office docs, and offers REST/gRPC APIs for integration with downstream applications.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions with LLMs.
+- **Open-Source Python Toolkit**: Provides a modular, extensible framework for document ingestion, retrieval, and LLM-based response generation.
+- **Scalable & Customizable**: Supports integration with various vector databases, LLMs, and document formats for enterprise-grade deployment.
 
 ## Why It Matters
 

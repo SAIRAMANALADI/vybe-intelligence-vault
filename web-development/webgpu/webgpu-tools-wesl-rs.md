@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/webgpu-tools/wesl-rs
-collected_at: '2026-06-26T04:16:24.818602+05:30'
-published_at: '2026-06-25T20:48:47Z'
+collected_at: '2026-06-27T01:39:47.793587+05:30'
+published_at: '2026-06-26T19:23:32Z'
 tags:
 - threejs
-stars: 116
+stars: 117
 language: WGSL
 status: active
 resource_id: github:webgpu-tools/wesl-rs
 first_seen: '2026-06-12T10:40:17.491165+00:00'
-last_seen: '2026-06-26T04:16:24.818602+05:30'
-last_checked: '2026-06-26T04:16:24.818602+05:30'
+last_seen: '2026-06-27T01:39:47.793587+05:30'
+last_checked: '2026-06-27T01:39:47.793587+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: webgpu-tools
-- Stars: 116
+- Stars: 117
 - Forks: 29
 - Language: WGSL
 - Topics: rust, shaders, webgpu, wesl, wgsl
-- Last Updated: 2026-06-25T20:48:47Z
+- Last Updated: 2026-06-26T19:23:32Z
 
 ## Possible Use Cases
 

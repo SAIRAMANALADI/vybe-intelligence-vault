@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com/
-published_at: '2026-06-26T22:44:16.384141+05:30'
-collected_at: '2026-06-26T22:44:16.384150+05:30'
+source_url: https://www.githubstatus.com
+published_at: '2026-06-27T01:46:13.393918+05:30'
+collected_at: '2026-06-27T01:46:13.393933+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-06-26T22:44:16.384150+05:30'
-last_seen: '2026-06-26T22:44:16.384150+05:30'
-last_checked: '2026-06-26T22:44:16.384150+05:30'
+first_seen: '2026-06-27T01:46:13.393933+05:30'
+last_seen: '2026-06-27T01:46:13.393933+05:30'
+last_checked: '2026-06-27T01:46:13.393933+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,13 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status and incident reports for GitHub services, including uptime metrics (e.g., 99.99% for Git Operations over 90 days) and historical data via Atom/RSS feeds.
-- **Incident Resolution Workflow** involves automated alerts (email, SMS, Slack, webhooks) for incident creation/updates/resolution, with documented root cause analyses (e.g., Webhooks payload defects, Copilot model routing failures).
-- **Regional Status Monitoring** tracks GitHub Enterprise Cloud status across regions (US, EU, Australia, Japan) with per-service uptime breakdowns (e.g., 100% for Webhooks, 99.62% for Pull Requests).
+- **GitHub Status Page** provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% for Git Operations over 90 days) for GitHub services (Actions, API, Webhooks, Copilot, etc.) via [githubstatus.com](https://www.githubstatus.com).
+
+- **Notification Systems** support multi-channel incident alerts: email (SMTP/OTP), SMS (global country codes), Slack integration, and webhooks (POST payloads to custom endpoints) for automated incident tracking.
+
+- **Recent Incidents** include:
+  - **June 25, 2026**: Degraded performance across Webhooks, Pull Requests, Actions, and Issues (resolved via mitigations).
+  - **June 17, 2026**: Webhook payloads missing installation data (11.3% impact) due to defective delivery code path; Copilot Opus 4.8 model failures from upstream provider.
 
 ## Why It Matters
 
@@ -39,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:44:16.384141+05:30
+- Published: 2026-06-27T01:46:13.393918+05:30
 
 ## Related Tags
 
@@ -54,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com/
+Original source: https://www.githubstatus.com

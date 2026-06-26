@@ -4,8 +4,8 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/garrytan/gstack
-published_at: '2026-06-26T22:38:37.931804+05:30'
-collected_at: '2026-06-26T22:38:37.931808+05:30'
+published_at: '2026-06-27T01:39:49.173279+05:30'
+collected_at: '2026-06-27T01:39:49.173282+05:30'
 tags:
 - anthropic
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:garrytan/gstack
 first_seen: '2026-06-23T01:03:50.204293+05:30'
-last_seen: '2026-06-26T22:38:37.931808+05:30'
-last_checked: '2026-06-26T22:38:37.931808+05:30'
+last_seen: '2026-06-27T01:39:49.173282+05:30'
+last_checked: '2026-06-27T01:39:49.173282+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-26T22:38:37.931804+05:30
+- Published: 2026-06-27T01:39:49.173279+05:30
 
 ## Related Tags
 

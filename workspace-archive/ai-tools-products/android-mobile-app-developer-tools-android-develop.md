@@ -2,14 +2,14 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://developer.android.com/
+source_url: http://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - agents
 - producthunt
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Android 17** released with AOSP source code and rolling out to Pixel devices; developers must prepare for API 37 with top 5 updates outlined in the [official blog](https://android-developers.googleblog.com/2026/06/Android-17.html).
-
-- **Android XR** platform expands engine support and resources for building, testing, and scaling XR experiences; new tools and updates are detailed in the [XR blog](http://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html).
-
-- **Google Play**
+- **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with 5 key updates for app compatibility.
+- **Android XR Expansion**: New tools and resources for building, testing, and scaling XR experiences across Android’s ecosystem.
+- **Google Play Updates**: Expanded billing flexibility, lower fees, and new programs to support developer monetization.
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com/
+Original source URL: http://developer.android.com/index.html
 
 ## Local Vault File
 

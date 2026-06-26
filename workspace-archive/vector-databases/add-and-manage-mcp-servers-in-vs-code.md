@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Integration**: Visual Studio Code supports the **Model Context Protocol (MCP)**, enabling AI models to connect with external tools/services (e.g., file ops, databases, APIs) via MCP servers, which provide tools, resources, prompts, and interactive apps for AI customization.
+- **MCP Integration**: VS Code supports Model Context Protocol (MCP) servers for AI model integration with external tools/services, enabling file operations, database interactions, and API calls via standardized tooling in chat sessions.
 
-- **MCP Server Management**: MCP servers can be installed globally or per-workspace via `.vscode/mcp.json`, with configurations synced across devices; trust policies and security checks are enforced for local/server-
+- **Server Management**: MCP servers can be installed via Extensions view (`@mcp` search), configured in `mcp.json` (workspace/user profiles), and managed for trust/sandboxing; Dev Containers and remote environments support MCP via `devcontainer.json` or remote
 
 ## Use Cases
 

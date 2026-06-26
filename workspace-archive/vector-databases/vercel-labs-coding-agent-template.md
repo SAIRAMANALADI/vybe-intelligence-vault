@@ -15,6 +15,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Multi-agent AI system leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI model access and routing.
-
-- **Tech Stack**: TypeScript-based implementation with Vercel's serverless infrastructure, enabling scalable, event-driven agent interactions.
-
-- **Use Case**: Template for building autonomous AI coding assistants with distributed agent collaboration, designed for rapid deployment on Vercel's platform.
+- **Multi-agent AI Coding Platform**: Leverages Vercel Sandbox and AI Gateway for distributed AI-driven code generation, testing, and debugging workflows.
+- **TypeScript-Based Architecture**: Implements a scalable, modular system using TypeScript for agent orchestration, inter-agent communication, and sandboxed execution environments.
+- **Vercel Integration**: Utilizes Vercel's AI Gateway for optimized LLM inference and Sandbox for secure, isolated code execution in a cloud-native deployment mod
 
 ## Use Cases
 
