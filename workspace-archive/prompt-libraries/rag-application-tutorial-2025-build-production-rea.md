@@ -3,13 +3,13 @@ title: 'RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmente
   Generation Systems · System Debug'
 archive_category: prompt-libraries
 source_category: ai/rag
-source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
+source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like FAISS or Supabase), retrieval (hybrid dense/sparse search), and LLM integration (LangChain/PyTorch) with latency benchmarks targeting <500ms end-to-end.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; advanced implementations combine dense (vector) and sparse (keyword) retrieval methods for hybrid search.
 
-- **Production Optimization**: Key strategies involve adaptive chunking (semantic-aware), embedding quantization (e.g., 8-bit), vector DB indexing (HNSW/PQ), caching (Redis), and load balancing across GPU/CPU inference
+- **Production Optimization**: Key considerations involve token usage reduction (via prompt engineering), caching strategies (e.g., Redis for repeated queries), and load balancing across multip
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://sysdebug.com/posts/rag-application-tutorial-production-guide
+Original source URL: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
 
 ## Local Vault File
 

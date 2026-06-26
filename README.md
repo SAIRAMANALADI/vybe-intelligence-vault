@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,331</p>
-        <p><b>Active:</b> 8,124 | <b>Inactive:</b> 207</p>
+        <p><b>Resources tracked:</b> 8,799</p>
+        <p><b>Active:</b> 8,590 | <b>Inactive:</b> 209</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 31,995</p>
+        <p><b>Archive Files:</b> 33,861</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 08:27 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 10:27 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,27 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+107 pts</kbd>
+- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+79 pts</kbd>
+- 🔼 **[AT Protocol](ai/rag/at-protocol.md)** • Rank: <kbd>+1379</kbd>
+- 🔼 **[GDPR FAQs | Cloudflare](ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md)** • Rank: <kbd>+403</kbd>
+- 🔼 **[Cloudflare's Privacy Policy | Cloudflare](ai/rag/cloudflare-s-privacy-policy-cloudflare.md)** • Rank: <kbd>+401</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](ai/community/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai.md)** • Score: `155`
+- 🆕 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • Score: `17`
+- 🆕 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)** • Score: `6`
+- 🆕 **[Sign in on a device that's not yours - Computer - Google Account Help](ai/rag/sign-in-on-a-device-that-s-not-yours-computer-goog.md)** • Score: `0`
+- 🆕 **[Advertising Privacy Settings on TVs & Streaming Devices - The NAI: Network Advertising Initiative](ai/resources/advertising-privacy-settings-on-tvs-streaming-devi.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](ai/community/decrazyo-anes.md)**
+- 💤 **[OpenAI Leans Toward Waiting Until Next Year for IPO](ai/community/openai-leans-toward-waiting-until-next-year-for-ip.md)**
+- 💤 **[The annotated PyTorch training loop](ai/community/the-annotated-pytorch-training-loop.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

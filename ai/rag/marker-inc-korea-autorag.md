@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-26T04:17:42.525331+05:30'
+collected_at: '2026-06-26T10:12:08.490567+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
+- workflows
 stars: 4839
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-26T04:17:42.525331+05:30'
-last_seen: '2026-06-26T04:17:42.525331+05:30'
-last_checked: '2026-06-26T04:17:42.525331+05:30'
+first_seen: '2026-06-26T10:12:08.490567+05:30'
+last_seen: '2026-06-26T10:12:08.490567+05:30'
+last_checked: '2026-06-26T10:12:08.490567+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning, pipeline optimization, and evaluation for Retrieval-Augmented Generation (RAG) systems using a machine learning-driven approach.
+- **AutoML-Style Automation**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter optimization and pipeline configuration.
 
-- **Comprehensive RAG Toolkit**: Integrates document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking within a single framework for end-to-end RAG system development.
+- **Comprehensive RAG Toolkit**: Provides an open-source framework for parsing documents, generating embeddings, benchmarking, and evaluating RAG systems, supporting tasks like question answering (QA) with built-in metrics and analysis tools.
 
-- **Open-Source Python Framework**: Supports modular components (e.g., embeddings, retrievers, generators) with built-in AutoML techniques to optimize performance across diverse datasets and use cases.
+- **Python-Based & Modular**: Implements a modular Python library for seamless integration with LLM workflows, enabling Ops teams to deploy, monitor, and optimize RAG pipelines efficiently with support for embeddings, retrieval strategies, and LLM evaluation.
 
 ## Why It Matters
 

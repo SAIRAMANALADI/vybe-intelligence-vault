@@ -13,13 +13,14 @@ collected_at: '2026-06-26T04:16:26.481312+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-annotated-pytorch-training-loop
 first_seen: '2026-06-26T01:53:20.224074+05:30'
 last_seen: '2026-06-26T04:16:26.481312+05:30'
 last_checked: '2026-06-26T04:16:26.481312+05:30'
 health_score: 100
 ---
+
 
 # The annotated PyTorch training loop
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **RaGOO**: A discontinued Python-based tool for genome assembly and scaffolding, previously hosted at `malonge/RaGOO`.
-- **Migration**: Users advised to switch to **RagTag** (`malonge/RagTag`) for continued support and updates.
-- **Metadata**: 173 stars, 28 forks; last updated June 18, 2026; categorized under bioinformatics and genome assembly.
+- **Deprecation Notice**: RaGOO (Python-based) is no longer maintained; users are directed to migrate to **RagTag** ([GitHub](https://github.com/malonge/RagTag)) for genome scaffolding.
+- **Functionality**: Designed for **bioinformatics** applications, specifically **genome assembly** and **scaffolding** of large genomic sequences.
+- **Metrics**: Repository has **173 stars**, **28 forks**, and was last updated on **June 18, 2026**.
 
 ## Use Cases
 

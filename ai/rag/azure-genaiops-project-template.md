@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-26T04:17:32.556301+05:30'
+collected_at: '2026-06-26T10:11:58.524889+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-26T04:17:32.556301+05:30'
-last_seen: '2026-06-26T04:17:32.556301+05:30'
-last_checked: '2026-06-26T04:17:32.556301+05:30'
+first_seen: '2026-06-26T10:11:58.524889+05:30'
+last_seen: '2026-06-26T10:11:58.524889+05:30'
+last_checked: '2026-06-26T10:11:58.524889+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
-- **Pre-configured RAG architecture** with modular components for **document ingestion, vector storage (Azure AI Search), and LLM inference (Azure OpenAI)**, optimized for GenAIOps workflows.
-- **GitHub repository** last updated in **May 2026**, with **44 stars and 55 forks**, serving as a starter template for Azure-based GenAIOps implementations.
+- **Infrastructure-as-Code (IaC) Template**: Uses Bicep to deploy Azure resources for a Generative AI Operations (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline, enabling automated infrastructure provisioning.
+
+- **RAG Pipeline Integration**: Provides a structured template for deploying a Retrieval-Augmented Generation system, facilitating efficient data retrieval and generative AI model integration within Azure.
+
+- **Azure Native Deployment**: Designed for seamless integration with Azure services, leveraging native Azure capabilities for scalability, security, and operational efficiency in GenAIOps workflows.
 
 ## Why It Matters
 

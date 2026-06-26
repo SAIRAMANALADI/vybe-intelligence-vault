@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Web Access API**: Provides real-time search, extraction, research, and web crawling via a single secure API, enabling AI agents to ground models with fresh web context while minimizing hallucinations through structured, chunked data retrieval.
+- **Real-time web data retrieval & extraction**: Provides structured, chunked web data via API for grounding LLMs, enabling factual reasoning without hallucinations, with support for real-time search, extraction, and crawling.
 
-- **Scalable Production-Grade Retrieval**: Implements a high-performance retrieval stack with real-time search, intelligent caching, and indexing, achieving **180ms p50 latency** and handling **300M+ monthly requests** with **99.99% uptime** f
+- **Scalable, low-latency infrastructure**: Handles thousands of queries per second with intelligent caching, indexing, and a production-grade stack, achieving **180ms p50 latency** and **99.99% uptime** at scale (300M+ monthly requests).
+
+- **Enterprise-grade security &
 
 ## Use Cases
 

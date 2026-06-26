@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and extensibility via Postgres extensions.
-- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), with Row-Level Security (RLS) for granular access control in integrated object storage.
-- **Edge Compute & APIs**: Offers globally distributed Edge Functions for low-latency serverless execut
+- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and extensibility via PostgreSQL extensions.
+- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), Row-Level Security (RLS) for fine-grained access control, and scalable object storage with direct Postgres integration.
+- **Edge Compute & API Layer**: Offers globally distributed Edge Func
 
 ## Use Cases
 

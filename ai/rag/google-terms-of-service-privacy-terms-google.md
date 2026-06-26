@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://accounts.google.com/TOS?loc=US&hl=en-US
-published_at: '2026-06-25T23:01:20.571980+05:30'
-collected_at: '2026-06-25T23:01:20.571994+05:30'
+published_at: '2026-06-26T10:21:15.225084+05:30'
+collected_at: '2026-06-26T10:21:15.225097+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-06-25T23:01:20.571994+05:30'
-last_seen: '2026-06-25T23:01:20.571994+05:30'
-last_checked: '2026-06-25T23:01:20.571994+05:30'
+first_seen: '2026-06-26T10:21:15.225097+05:30'
+last_seen: '2026-06-26T10:21:15.225097+05:30'
+last_checked: '2026-06-26T10:21:15.225097+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Governance & Compliance**: Google LLC (Delaware-registered) provides services under U.S. law, with terms updated May 22, 2024 (next revision July 30, 2026). Users must comply with service-specific policies (e.g., age requirements, Generative AI Prohibited Use Policy) and Google’s Privacy Policy, which governs data handling, export/management of user content, and legal requests.
+- **Governance & Legal Framework**: Google LLC (Delaware-registered) provides services under U.S. laws, requiring parental consent for minors and compliance with service-specific terms (e.g., age restrictions, AI use policies).
 
-- **Service Usage & Restrictions**: Users agree to access services under defined permissions, including prohibitions on abuse (e.g., malware, phishing, reverse engineering), fraudulent activity (e.g., fake accounts, AI-generated misrepresentation), and automated scraping (e.g., violating `robots.txt`). Google retains intellectual property rights and may modify/delete services with prior notice (except in urgent cases like security threats).
+- **Service Provision & Updates**: Google grants access to services (Search, Maps, Pixel devices, etc.) with automatic updates via AI/ML-driven improvements, retention of IP rights, and material change notifications (except for urgent security/legal actions).
 
-- **Accountability & Enforcement**: Google reserves the right to terminate access for violations, with mechanisms for reporting abuse (e.g., Copyright Help Center, Safety Center). Users must respect others’ rights (privacy, IP) and comply with export control/sanctions laws. Service-specific terms (e.g., Pixel devices, Google Nest) may impose additional constraints.
+- **User Obligations & Restrictions**: Users must adhere to anti-abuse rules (e.g., no malware, phishing, reverse engineering, or AI misuse), respect privacy/intellectual property, and comply with export control/human trafficking laws; violations may trigger account termination or legal action.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:01:20.571980+05:30
+- Published: 2026-06-26T10:21:15.225084+05:30
 
 ## Related Tags
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Resource Hub**: Curated list of 300+ AI agents, frameworks, and tools for 2026, spanning 20+ categories, updated monthly.
-- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools under AI agents and artificial intelligence topics.
-- **Repository Metrics**: 1,166 stars, 404 forks, last updated 2026-06-25, with active maintenance in AI agent ecosystem development.
+- **Curated AI Agent Resources**: Comprehensive GitHub repository (`caramaschiHG/awesome-ai-agents-2026`) listing 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly as of June 2026.
+- **Technical Scope**: Covers key AI/ML domains including LangChain, LLMs, ChatGPT, and machine learning tools, with a focus on agentic systems and frameworks.
+- **Metadata**: 1,191 stars, 410 forks, last updated June 26, 2026; language unspecified but topics indicate Python-centric tooling.
 
 ## Use Cases
 

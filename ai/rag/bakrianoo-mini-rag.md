@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-26T04:18:42.504634+05:30'
+collected_at: '2026-06-26T10:13:08.544940+05:30'
 published_at: '2026-06-24T13:24:12Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 639
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-26T04:18:42.504634+05:30'
-last_seen: '2026-06-26T04:18:42.504634+05:30'
-last_checked: '2026-06-26T04:18:42.504634+05:30'
+first_seen: '2026-06-26T10:13:08.544940+05:30'
+last_seen: '2026-06-26T10:13:08.544940+05:30'
+last_checked: '2026-06-26T10:13:08.544940+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates step-by-step implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **Production-Ready RAG Pipeline**: Implements a modular FastAPI-based architecture for Retrieval-Augmented Generation (RAG) with Docker containerization, covering end-to-end workflows from document ingestion to LLM inference.
 
-- **GenAI Integration**: Focuses on integrating generative AI models with retrieval systems, emphasizing scalability and real-world applicability in a containerized environment.
+- **Educational Focus**: Step-by-step tutorials and code examples demonstrate best practices for scaling RAG applications, including vector database integration (e.g., Chroma/FAISS), retrieval optimization, and prompt engineering.
 
-- **Modular Architecture**: Provides a structured approach to building RAG systems, covering components like document ingestion, vector databases, and API endpoints for seamless GenAI interactions.
+- **GenAI Integration**: Demonstrates real-time LLM interaction with structured prompts, chunking strategies, and evaluation metrics for production-grade generative AI systems.
 
 ## Why It Matters
 

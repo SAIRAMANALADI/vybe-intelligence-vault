@@ -15,7 +15,6 @@ tags:
 - benchmark
 - hackernews
 - rag
-- scripts
 - web-crawled
 - youtube
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring explicit acceptance of these terms upon service access or use.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring users to waive jury trials and collective legal actions.
 
-- **Service Access & Restrictions**: Grants revocable, non-exclusive access to Services with strict prohibitions on sublicensing, reverse engineering, automated scraping, or use for VPN/proxy services, and requires adherence to service-specific terms and usage limits.
+- **Service Restrictions & Compliance**: Prohibits unauthorized sublicensing, reverse engineering, benchmarking disclosures without full replication data, and use of Services for VPN/proxy or processing protected health information without explicit consent.
 
-- **Customer Content &
+- **Customer Content & Credential Liabil
 
 ## Use Cases
 

@@ -23,9 +23,9 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [continuedev/continue](https://github.com/continuedev/continue)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
-- [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template)
+- [topoteretes/awesome-ai-memory](https://github.com/topoteretes/awesome-ai-memory)
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-26 04:33 IST*
+*Last updated: 2026-06-26 10:27 IST*

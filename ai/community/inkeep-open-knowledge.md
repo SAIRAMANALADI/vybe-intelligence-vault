@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/inkeep/open-knowledge
 hn_url: https://news.ycombinator.com/item?id=48675435
-score: 150
+score: 229
 author: engomez
-comments_count: 69
+comments_count: 111
 published_at: '2026-06-25T21:34:46+05:30'
-collected_at: '2026-06-26T04:16:25.472569+05:30'
+collected_at: '2026-06-26T10:10:28.847332+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:inkeep/open-knowledge
 first_seen: '2026-06-26T01:53:19.402410+05:30'
-last_seen: '2026-06-26T04:16:25.472569+05:30'
-last_checked: '2026-06-26T04:16:25.472569+05:30'
+last_seen: '2026-06-26T10:10:28.847332+05:30'
+last_checked: '2026-06-26T10:10:28.847332+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by engomez. Score: 150, Comments: 69.
+Hacker News story by engomez. Score: 229, Comments: 111.
 Original Link: https://github.com/inkeep/open-knowledge
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: engomez
-- Score: 150 Upvotes
-- Comments: 69 Discussions
+- Score: 229 Upvotes
+- Comments: 111 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48675435
 - Original Article: https://github.com/inkeep/open-knowledge
 

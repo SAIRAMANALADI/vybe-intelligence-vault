@@ -6,10 +6,10 @@ source_url: https://landing.llamaindex.ai/retrieval-harness
 resource_id: blog:building-agentic-retrieval-with-llamaparse-index
 local_vault_path: ai/rag/building-agentic-retrieval-with-llamaparse-index.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: dataset
-importance: high
+importance: medium
 tags:
 - agents
 - benchmark
@@ -28,16 +28,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Hybrid retrieval necessity**: Semantic search provides fast, large-scale corpus scanning, while grep/file-based retrieval ensures precision, verification, and recovery from truncated top-*k* chunks; both are essential for robust enterprise agent context.
+- **Hybrid retrieval necessity**: Combining semantic search (embeddings) for broad corpus scanning and grep/file-level tools for precision verification is critical for enterprise agents, as each method compensates for the other's limitations (e.g., embeddings' chunk boundaries vs. grep's exact matches).
 
-- **Harness architecture**: Combines server-side grep, directory listings, file-level navigation, hybrid search (semantic + keyword), reranking, and multimodal file objects (text, layout, metadata, screenshots) to handle complex formats and
+- **Harness architecture**: LlamaParse Index integrates server-side grep, semantic search, and multimodal file navigation (text, layout, metadata, screenshots) into a unified reasoning loop, add
 
 ## Use Cases
 

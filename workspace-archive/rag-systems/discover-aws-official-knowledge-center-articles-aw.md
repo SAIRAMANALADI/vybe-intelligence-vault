@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failure**: Verify S3 bucket replication configuration, including IAM roles, replication rules, and destination bucket permissions; ensure source and destination regions are correctly specified.
+- **S3 Replication Issues**: Common causes for S3 object replication failures include missing IAM permissions, incorrect bucket policy configurations, or misconfigured replication rules (e.g., missing `s3:ReplicateObject` permissions or improper destination bucket policies).
 
-- **EC2 Connection Issues**: Troubleshoot SSH/RDP access by validating security group rules, network ACLs, and instance-level firewalls; check key pair associations and SSM Agent status for Session Manager.
+- **EC2 Connection Failures**: SSH/RDP connection errors to EC2 instances often stem from misconfigured security groups, missing key pairs, incorrect IAM roles, or disabled SSM Agent for Session Manager access.
 
-- **Lambda Modification Tracking**: Use AWS CloudTrail to audit Lambda functio
+- **Lambda
 
 ## Use Cases
 

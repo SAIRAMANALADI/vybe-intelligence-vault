@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-06-25T20:49:22.417399+05:30'
-collected_at: '2026-06-25T20:49:22.417413+05:30'
+published_at: '2026-06-26T10:15:22.087575+05:30'
+collected_at: '2026-06-26T10:15:22.087589+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-06-25T20:49:22.417413+05:30'
-last_seen: '2026-06-25T20:49:22.417413+05:30'
-last_checked: '2026-06-25T20:49:22.417413+05:30'
+first_seen: '2026-06-26T10:15:22.087589+05:30'
+last_seen: '2026-06-26T10:15:22.087589+05:30'
+last_checked: '2026-06-26T10:15:22.087589+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean Markdown.
-
-- **Scalable multimodal architecture** with granular parsing modes, multilingual OCR (100+ languages), and enterprise-grade features including local/cloud deployment, high concurrency, and dedicated support.
-
-- **Proven production deployment** with 1B+ documents processed, 25M+ monthly package downloads, and testimonials from leading AI teams citing superior accuracy and reliability in complex document workflows.
+- **Layout-aware parsing** with support for 90+ formats, enabling extraction of structured data from complex layouts (headers, footers, split sections) while maintaining context.
+- **Multimodal processing** combining OCR, layout analysis, and multimodal LLMs to extract and interpret data from tables, charts, handwriting, checkboxes, and images into clean markdown.
+- **Scalable, enterprise-grade solution** with granular parsing modes, multilingual support (100+ languages), and local/cloud deployment options optimized for high-volume document processing (1B+ documents processed).
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:49:22.417399+05:30
+- Published: 2026-06-26T10:15:22.087575+05:30
 
 ## Related Tags
 

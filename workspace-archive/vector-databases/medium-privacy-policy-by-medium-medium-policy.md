@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, device, and usage data (IP, OS, browser, cookies) via tracking technologies like web beacons and third-party analytics providers.
+- **Data Collection & Sources**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathers activity, device, and usage data (IP addresses, cookies, web beacons) via tracking technologies, including third-party analytics providers.
 
-- **Data Sharing & Processing**: Personal data is shared with service providers (e.g., hosting, analytics, fraud prevention) and may be disclosed for legal compliance or mergers. Embedded third-party content (e.g., YouTube) transmits user
+- **Data Sharing & Third-Party Access**: Personal data is shared with vendors (e.g., hosting, analytics, fraud prevention) and may be disclosed for legal compliance or mergers. Third-party embeds (e.g., YouTube) transmit user interactions
 
 ## Use Cases
 

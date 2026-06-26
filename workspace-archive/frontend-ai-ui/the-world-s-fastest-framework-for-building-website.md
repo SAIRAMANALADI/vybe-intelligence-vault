@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; has 88,727 GitHub stars (as of June 25, 2026).
+- **Licensing & Popularity**: Distributed under Apache 2.0 License with 88,727 GitHub stars (as of June 25, 2026) and an active community supported via [Hugo forums](https://discourse.gohugo.io).
 
-- **Performance & Features**: Written in Go, optimized for speed; renders large sites in seconds with advanced templating, multilingual support, and powerful taxonomy system.
+- **Performance & Flexibility**: Go-based, optimized for speed with sub-second rendering for large sites; supports multilingual content, advanced taxonomies, and flexible templating for diverse site types.
 
-- **Asset Processing & Development**: Supports image/Sass/JS processing (e.g., tree shaking, TailwindCSS); includes embedded web server for live reloading during development.
+- **Asset Pipeline & Development**: Features fast image processing (EXIF extraction, filters), J
 
 ## Use Cases
 

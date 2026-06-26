@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a **KDD 2026** framework leveraging **memory-augmented agents** to enhance **Graph Retrieval-Augmented Generation (GraphRAG)** by dynamically storing and retrieving contextual knowledge via graph structures.
+- **Multi-Agent System**: Implements a memory-based multi-agent framework for graph retrieval-augmented generation (GraphRAG), enabling collaborative knowledge synthesis and reasoning over graph-structured data.
 
-- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships between entities, enabling **multi-agent collaboration** for structured knowledge retrieval and reasoning.
+- **Graph & Ontology Construction**: Dynamically constructs and maintains graph structures and ontologies from input data, facilitating efficient retrieval and augmentation of contextual information for generation tasks.
 
-- **Python
+- **Python Implementation**: Provides a Python-based implementati
 
 ## Use Cases
 

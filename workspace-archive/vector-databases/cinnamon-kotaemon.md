@@ -6,18 +6,17 @@ source_url: https://github.com/Cinnamon/kotaemon
 resource_id: github:cinnamon/kotaemon
 local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # Cinnamon/kotaemon
@@ -25,17 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document querying and conversation using LLMs.
-- **Python Framework**: Built with Python, leveraging libraries like LangChain for modular document processing and vector storage (e.g., FAISS, Chroma).
-- **Open-Source & Extensible**: Supports custom document ingestion pipelines, retrieval strategies, and LLM integrations (e.g., Hugging Face, OpenAI APIs).
+- **RAG Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational AI, combining document retrieval with large language models (LLMs) for contextual responses.
+- **Modular Pipeline**: Features a pluggable retrieval and processing pipeline supporting PDFs, text, and other document formats with customizable chunking, embedding, and indexing strategies.
+- **Open-Source Stack**: Built in Python with integration for vector databases (e.g., FAISS, Chroma) a
 
 ## Use Cases
 

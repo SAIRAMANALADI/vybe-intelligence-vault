@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-26T04:18:37.563794+05:30'
+collected_at: '2026-06-26T10:13:03.547395+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-26T04:18:37.563794+05:30'
-last_seen: '2026-06-26T04:18:37.563794+05:30'
-last_checked: '2026-06-26T04:18:37.563794+05:30'
+first_seen: '2026-06-26T10:13:03.547395+05:30'
+last_seen: '2026-06-26T10:13:03.547395+05:30'
+last_checked: '2026-06-26T10:13:03.547395+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and pipelines for data ingestion, indexing, and retrieval.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems with customizable components (e.g., embedders, retrievers, LLMs) via a modular architecture.
 
-- **Optimization Framework**: Implements techniques for dynamic chunking, embedding tuning, and retrieval strategies (e.g., hybrid search, reranking) to enhance context relevance and reduce hallucinations in LLM outputs.
+- **Optimized Retrieval & Generation**: Implements advanced techniques for data preprocessing, vector indexing (e.g., FAISS, Chroma), and retrieval tuning to enhance context relevance and generation quality in RAG workflows.
 
-- **Evaluation & Deployment**: Includes built-in metrics for assessing RAG performance (e.g., retrieval accuracy, answer correctness) and supports deployment-ready APIs for seamless integration into GenAI applications.
+- **Scalability & Deployment**: Supports scalable RAG deployments with built-in integration for cloud services (e.g., AWS, GCP) and APIs, enabling seamless transition from development to production environments.
 
 ## Why It Matters
 

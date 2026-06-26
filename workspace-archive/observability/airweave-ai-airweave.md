@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a modular, Python-based SDK for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) for enhanced LLM performance.
+- **Context Retrieval Layer**: Open-source Python-based infrastructure enabling AI agents to dynamically fetch and integrate contextual data from enterprise systems via semantic search and retrieval-augmented generation (RAG).
 
-- **Multi-protocol data connectors**: Supports semantic search, structured/unstructured retrieval, and real-time API integrations (e.g., SQL, REST, vector DBs) via a unified interface for RAG workflows.
+- **Data Connectors & APIs**: Supports 100+ enterprise data sources (e.g., databases, APIs, unstructured docs) with pre-built connectors and a RESTful search API for real-time context augmentation.
 
-- **Enterprise-ready features**: Includes authentication, rate limiting,
+- **Agent Infrastructure**: Modular SDK for building AI agents with plugg
 
 ## Use Cases
 

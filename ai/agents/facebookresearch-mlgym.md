@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-26T04:20:07.658997+05:30'
+collected_at: '2026-06-26T10:14:33.676329+05:30'
 published_at: '2026-06-22T11:26:21Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- scripts
+- workflows
 stars: 607
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-26T04:20:07.658997+05:30'
-last_seen: '2026-06-26T04:20:07.658997+05:30'
-last_checked: '2026-06-26T04:20:07.658997+05:30'
+first_seen: '2026-06-26T10:14:33.676329+05:30'
+last_seen: '2026-06-26T10:14:33.676329+05:30'
+last_checked: '2026-06-26T10:14:33.676329+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a structured environment for training, evaluating, and benchmarking autonomous agents in machine learning tasks.
+- **Framework Overview**: MLGym is a Python-based framework designed to standardize and advance AI research agents through modular, scalable, and reproducible workflows for machine learning experiments.
 
-- **Key Features**: Supports modular agent design, customizable environments, and standardized benchmarks to facilitate reproducible research and fair comparisons across different AI agent methodologies.
+- **Key Features**: Supports distributed training, hyperparameter optimization, and benchmarking with built-in tools for task scheduling, logging, and evaluation across heterogeneous hardware.
 
-- **Benchmarking & Evaluation**: Implements a suite of standardized tasks and metrics to assess agent performance, enabling systematic progress tracking in AI research automation.
+- **Benchmark Suite**: Includes predefined benchmarks and tasks to facilitate comparative analysis of AI agents, with extensibility for custom environments and metrics.
 
 ## Why It Matters
 

@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-26T04:18:07.555873+05:30'
+collected_at: '2026-06-26T10:12:33.606278+05:30'
 published_at: '2026-06-25T10:19:25Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
 stars: 1172
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-25T21:48:03Z'
+pushed_at: '2026-06-26T01:05:34Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-26T04:18:07.555873+05:30'
-last_seen: '2026-06-26T04:18:07.555873+05:30'
-last_checked: '2026-06-26T04:18:07.555873+05:30'
+first_seen: '2026-06-26T10:12:33.606278+05:30'
+last_seen: '2026-06-26T10:12:33.606278+05:30'
+last_checked: '2026-06-26T10:12:33.606278+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** for LLM-powered chat/Q&A, with Python-based orchestration.
-
-- **Azure Deployment**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code (IaC) provisioning, integrating best practices for scalability, security, and cost optimization.
-
-- **Prebuilt Components**: Includes end-to-end solution with **document ingestion pipelines**, **vector search**, **prompt engineering**, and **chat interface**, optimized for enterprise-grade generative AI workflows.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, ensuring scalability and adherence to Azure best practices.
+- **Python-Based**: Provides a **Python-based** solution accelerator with preconfigured components for common enterprise requirements, including data ingestion, retrieval, and LLM orchestration.
 
 ## Why It Matters
 
@@ -51,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-25T21:48:03Z
+- Pushed At: 2026-06-26T01:05:34Z
 
 ## Possible Use Cases
 

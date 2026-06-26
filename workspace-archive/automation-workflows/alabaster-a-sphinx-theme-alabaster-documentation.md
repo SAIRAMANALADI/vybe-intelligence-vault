@@ -6,14 +6,12 @@ source_url: https://alabaster.readthedocs.io
 resource_id: blog:alabaster-a-sphinx-theme-alabaster-documentation
 local_vault_path: ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Theme Specifications**: Alabaster is a lightweight, responsive Sphinx theme requiring Python 3.10+ and Sphinx 6.2+, derived from Kenneth Reitz’s "krTheme" (originally based on Armin Ronacher’s Flask theme), now the default theme in Sphinx 1.3+.
-
-- **Customization & Features**: Offers extensive customization hooks (sidebar/footer components, color controls) with improved code-block alignment, GitHub button placement, and optional related-items sidebar; includes a minimal Sphinx extension for
+- **Sphinx-compatible theme**: Lightweight, responsive theme for Sphinx (≥6.2) requiring Python ≥3.10; default theme in Sphinx ≥1.3.
+- **Customization & features**: Supports extensive theme tweaks (sidebar/footer components, colors) and includes a minimal Sphinx extension for dynamic metadata injection.
+- **Derived from krTheme**: Modified version of Kenneth Reitz’s krTheme (originally based on Flask theme), with improved code-block alignment and GitHub button placement.
 
 ## Use Cases
 

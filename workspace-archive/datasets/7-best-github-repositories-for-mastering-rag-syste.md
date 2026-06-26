@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JS/TS), integrating with providers like OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, embedding, retrieval, and output generation), supporting multi-language (Python, JS/TS) and integrations with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring automated knowledge graph construction, multi-modal retrieval (text, tables, images), and evaluation tools for assessing RAG system p
+- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring automated chunking, hybrid retrieval (dense + sparse), and evaluation tools for production-grade RAG systems.
+
+- **LlamaIndex**: Data framewo
 
 ## Use Cases
 

@@ -14,7 +14,6 @@ tags:
 - anthropic
 - producthunt
 - reddit
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations (e.g., `[fruit.upper() for fruit in fruits]`).
-- **Control flow** includes `if`, `for`, `while`, and `range`, with **function definitions** supporting mandatory/optional arguments, keyword arguments, and variable-length parameter lists.
-- Python integrates with **AI/ML** (PyTorch, TensorFlow), **web frameworks** (Django, FastAPI), and *
+- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations, e.g., `[fruit.upper() for fruit in fruits]`.
+- **Control flow** includes `if`, `for`, `while`, and `range`, with functions supporting **mandatory/optional arguments**, **keyword arguments**, and **arbitrary argument lists**.
+- Python’s **standard library** integrates with **AI/ML** (PyTorch, TensorFlow), **scientific computing** (SciPy
 
 ## Use Cases
 

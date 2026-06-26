@@ -4,20 +4,22 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
-published_at: '2026-06-25T20:49:20.122256+05:30'
-collected_at: '2026-06-25T20:49:20.122271+05:30'
+published_at: '2026-06-26T10:19:09.499146+05:30'
+collected_at: '2026-06-26T10:19:09.499160+05:30'
 tags:
 - frontend_ui
+- hackernews
 - openai
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-25T20:49:20.122271+05:30'
-last_seen: '2026-06-25T20:49:20.122271+05:30'
-last_checked: '2026-06-25T20:49:20.122271+05:30'
+first_seen: '2026-06-26T10:19:09.499160+05:30'
+last_seen: '2026-06-26T10:19:09.499160+05:30'
+last_checked: '2026-06-26T10:19:09.499160+05:30'
 health_score: 100
 ---
 
@@ -25,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
+- Supabase docs support four structured document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **Reference** (factual, parameter/return-type-focused, auto-generated from specs).
 
-- Docs are written in MDX with YAML frontmatter (e.g., `title`, `hideToc`) and stored in `apps/docs/content`, while reference docs are auto-generated from spec files (common/client-specific) via `spec/Makefile` transformations, requiring library maintainers to merge changes to `master` for updates.
+- Docs are authored in **MDX** with YAML frontmatter, stored in `apps/docs/content`, and organized via navigation files; reference docs are dynamically generated from spec files (`common-client-libs-sections.json`, language-specific YAML) using automated workflows.
 
-- Reusable content is managed via **partials** in `apps/docs/content/_partials`, and custom components (e.g., admonitions, Mermaid diagrams, tabs) enforce strict styling/grammar rules (e.g., sentence-case headings, Oxford comma, American English) with automated linting (`supa-mdx-lint`) and CI-driven validation.
+- Reusable content is managed via **partials** in `_partials/`, while styling adheres to American English, sentence-case headings, Oxford commas, and Mermaid diagrams for technical illustrations; admonitions (`danger`, `tip`, etc.) are used sparingly for critical notes.
 
 ## Why It Matters
 
@@ -39,15 +41,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:49:20.122256+05:30
+- Published: 2026-06-26T10:19:09.499146+05:30
 
 ## Related Tags
 
 - frontend_ui
+- hackernews
 - openai
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 
 ## Source

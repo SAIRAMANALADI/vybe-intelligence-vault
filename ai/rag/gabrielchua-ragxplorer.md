@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-26T04:17:42.487761+05:30'
+collected_at: '2026-06-26T10:12:08.540150+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
-- models
 - rag
+- scripts
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-26T04:17:42.487761+05:30'
-last_seen: '2026-06-26T04:17:42.487761+05:30'
-last_checked: '2026-06-26T04:17:42.487761+05:30'
+first_seen: '2026-06-26T10:12:08.540150+05:30'
+last_seen: '2026-06-26T10:12:08.540150+05:30'
+last_checked: '2026-06-26T10:12:08.540150+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application designed for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling users to interactively explore model outputs, retrieval mechanisms, and performance metrics.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, facilitating real-time visualization of RAG components (e.g., retrieval mechanisms, context relevance, and model outputs) with dynamic, interactive plots.
+- **Streamlit-Powered Interface**: Integrates Streamlit for a web-based, user-friendly dashboard to dynamically visualize RAG components (e.g., retrieval quality, context relevance, latency) with interactive plots, tables, and debugging tools.
 
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics visualization (e.g., retrieval accuracy, latency, and response quality).
+- **Modular & Extensible**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python scripts, with built-in metrics (e.g., faithfulness, answer relevance) and compatibility with popular libraries (e.g., LangChain, FAISS). Last updated June 2026.
 
 ## Why It Matters
 

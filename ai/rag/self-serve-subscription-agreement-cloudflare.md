@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/terms/
-published_at: '2026-06-25T23:02:03.580103+05:30'
-collected_at: '2026-06-25T23:02:03.580111+05:30'
+published_at: '2026-06-26T10:21:12.004311+05:30'
+collected_at: '2026-06-26T10:21:12.004325+05:30'
 tags:
 - agents
 - benchmark
 - hackernews
 - rag
-- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:self-serve-subscription-agreement-cloudflare
-first_seen: '2026-06-25T23:02:03.580111+05:30'
-last_seen: '2026-06-25T23:02:03.580111+05:30'
-last_checked: '2026-06-25T23:02:03.580111+05:30'
+first_seen: '2026-06-26T10:21:12.004325+05:30'
+last_seen: '2026-06-26T10:21:12.004325+05:30'
+last_checked: '2026-06-26T10:21:12.004325+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring explicit acceptance of these terms upon service access or use.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring users to waive jury trials and collective legal actions.
 
-- **Service Access & Restrictions**: Grants revocable, non-exclusive access to Services with strict prohibitions on sublicensing, reverse engineering, automated scraping, or use for VPN/proxy services, and requires adherence to service-specific terms and usage limits.
+- **Service Restrictions & Compliance**: Prohibits unauthorized sublicensing, reverse engineering, benchmarking disclosures without full replication data, and use of Services for VPN/proxy or processing protected health information without explicit consent.
 
-- **Customer Content & Liability**: Retains Cloudflare’s right to process/modify Customer Content for service provision while disclaiming liability for its content; users must ensure compliance with applicable laws and maintain credential confidentiality.
+- **Customer Content & Credential Liability**: Grants Cloudflare a sublicensable, royalty-free license to modify Customer Content for service provision, while holding users solely responsible for credential security and third-party access risks.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:02:03.580103+05:30
+- Published: 2026-06-26T10:21:12.004311+05:30
 
 ## Related Tags
 
@@ -48,7 +47,6 @@ General public resource representing technology updates, guides, or tutorials.
 - benchmark
 - hackernews
 - rag
-- scripts
 - web-crawled
 - youtube
 

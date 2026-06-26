@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` section supports format-specific settings for AVIF (`lossy/lossless` compression, `encoderSpeed`, `hint`, `quality`), JPEG (`quality`), and WebP (`compression`, `hint`, `method`, `quality`, `useSharpYuv`), with defaults optimized for photographic content.
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, and format-specific encodings (AVIF: `lossy` @60 quality, JPEG: `75` quality, WebP: `lossy` @75 quality, `method: 2`).
 
-- **Resampling & Cropping**: Uses `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) for resizing, `anchor` (e.g., `smart`, `Center`) for focal point detection during cropping/filling
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1-10), `hint` (photo/picture/text), and `quality` (1-100).
+  - **WebP**: Configurable via `compression`, `hint`, `method` (0-6), `quality` (1-100), and `
 
 ## Use Cases
 

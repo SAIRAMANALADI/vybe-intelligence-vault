@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an event-driven, non-blocking architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
-- **Multi-LLM Integration**: Supports concurrent interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized API abstractions for tool orchestration.
-- **Stateful Workflow Engine**: Manages persistent task states across asynchronous operations, enabling resumable, fault-tolerant agent p
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and modification using LLMs (OpenAI, Anthropic, etc.) with non-blocking I/O operations.
+- **Multi-Agent Orchestration**: Supports concurrent agent collaboration via a distributed task queue (e.g., Celery/RQ) with state management for handling complex, multi-step coding workflows.
+- **Tool Integration & Extensibility**: Provides modular interfaces for integrating with version contr
 
 ## Use Cases
 

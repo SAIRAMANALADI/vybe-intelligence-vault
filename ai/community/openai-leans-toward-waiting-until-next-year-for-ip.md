@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-leans-toward-waiting-until-next-year-for-ip
 first_seen: '2026-06-26T04:16:27.546397+05:30'
 last_seen: '2026-06-26T04:16:27.546397+05:30'
 last_checked: '2026-06-26T04:16:27.546397+05:30'
 health_score: 100
 ---
+
 
 # OpenAI Leans Toward Waiting Until Next Year for IPO
 

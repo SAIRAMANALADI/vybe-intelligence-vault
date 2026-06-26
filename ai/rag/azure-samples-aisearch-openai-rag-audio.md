@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-06-26T04:17:52.553548+05:30'
+collected_at: '2026-06-26T10:12:18.558693+05:30'
 published_at: '2026-06-25T12:08:19Z'
 tags:
 - github-repo
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 556
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-06-26T04:17:52.553548+05:30'
-last_seen: '2026-06-26T04:17:52.553548+05:30'
-last_checked: '2026-06-26T04:17:52.553548+05:30'
+first_seen: '2026-06-26T10:12:18.558693+05:30'
+last_seen: '2026-06-26T10:12:18.558693+05:30'
+last_checked: '2026-06-26T10:12:18.558693+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of VoiceRAG Pattern**: Demonstrates an interactive voice generative AI system using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
+- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for retrieval and Azure OpenAI's `gpt-4o-realtime-preview` model for interactive voice generative AI experiences.
 
-- **Technical Stack**: Built in Python, leveraging Azure AI Search for vector-based retrieval and Azure OpenAI for generative responses, enabling low-latency voice interactions.
+- **Technical Stack**: Python-based solution integrating Azure AI Search (vector database), Azure OpenAI, and RAG (Retrieval-Augmented Generation) for real-time audio processing.
 
-- **Deployment & Scalability**: Uses Azure Developer CLI (azd) templates for infrastructure-as-code deployment, supporting scalable vector search and real-time audio-to-text generation workflows.
+- **Deployment**: Part of Azure Developer CLI (azd) templates, enabling scalable, cloud-native deployment with vector search and generative AI capabilities.
 
 ## Why It Matters
 

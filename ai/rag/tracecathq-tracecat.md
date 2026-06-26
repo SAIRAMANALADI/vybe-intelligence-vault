@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-26T04:20:12.690750+05:30'
+collected_at: '2026-06-26T10:14:38.696235+05:30'
 published_at: '2026-06-25T21:47:12Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -21,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-25T22:46:04Z'
+pushed_at: '2026-06-25T23:21:10Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-26T04:20:12.690750+05:30'
-last_seen: '2026-06-26T04:20:12.690750+05:30'
-last_checked: '2026-06-26T04:20:12.690750+05:30'
+first_seen: '2026-06-26T10:14:38.696235+05:30'
+last_seen: '2026-06-26T10:14:38.696235+05:30'
+last_checked: '2026-06-26T10:14:38.696235+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Tracecat is an open-source, security-focused automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js for backend and frontend components respectively.
+- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and Temporal.io for event-driven workflow orchestration, enabling low-code security automation for teams and AI agents.
 
-- **Architecture & Features**: Implements an event-driven, low-code workflow engine using Temporal.io for orchestration, Pydantic for data validation, and OpenAPI for API specifications, enabling secure, scalable automation with LLM integration.
+- **Integrates LLM capabilities** with OpenAPI specifications for dynamic API interactions, supporting monitoring and automation of security workflows via a Next.js frontend.
 
-- **Technical Stack**: Supports monitoring and security automation via a modular design, integrating temporal workflows, FastAPI endpoints, and Next.js UI, with active development as of June 2026.
+- **Designed for scalability** with a modular architecture, combining workflow engines, security-focused automation, and agent-based interactions for real-time threat response and orchestration.
 
 ## Why It Matters
 
@@ -54,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-25T22:46:04Z
+- Pushed At: 2026-06-25T23:21:10Z
 
 ## Possible Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriting, caching, and orchestration layers enhance precision and efficiency.
-
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, overlap, semantic, structure-aware, LLM-based) optimize retrieval coherence; embeddings (off-the-shelf or fine-tuned) must balance dimensionality, normalization, and modality support (multilingual/multimodal).
-
-- **Advanced Retri
+- **Core RAG Pipeline**: Retriever (vector/lexical) + vector store + LLM generator; optional reranker, query rewriting, caching, and orchestration layers for precision/efficiency.
+- **Chunking & Embeddings**: Structure-aware chunking with overlap; domain-fine-tuned embeddings (normalized, multilingual/multimodal support) for improved retrieval quality.
+- **Multi-Stage Retrieval & Reasoning**: Hybrid (BM25 + vector) search with cross-encoder reranking; multi-hop/iterative retrieval and GraphRAG f
 
 ## Use Cases
 

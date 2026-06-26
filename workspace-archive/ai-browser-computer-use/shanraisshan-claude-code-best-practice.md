@@ -13,8 +13,10 @@ importance: medium
 tags:
 - agents
 - anthropic
-- github-trending
+- github-repo
+- hackernews
 - html
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -31,7 +33,11 @@ selection_reason:
 
 ## Summary
 
-from vibe coding to agentic engineering - practice makes claude perfect
+- **Repository Overview**: Curated guide by `shanraisshan` on transitioning from *vibe coding* to *agentic engineering* using **Claude Code**, covering best practices, commands, and workflows for AI-driven development.
+
+- **Key Focus Areas**: Deep dive into *context engineering*, *agentic workflows*, and *Claude Code skills* with emphasis on structured, scalable AI agent interactions for software engineering tasks.
+
+- **Technical Scope**: Repository includes HTML-based resources, categorized und
 
 ## Use Cases
 

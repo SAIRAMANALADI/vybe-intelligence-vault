@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-26T04:19:02.603740+05:30'
+collected_at: '2026-06-26T10:13:28.595007+05:30'
 published_at: '2026-06-25T15:07:30Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 540
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-26T04:19:02.603740+05:30'
-last_seen: '2026-06-26T04:19:02.603740+05:30'
-last_checked: '2026-06-26T04:19:02.603740+05:30'
+first_seen: '2026-06-26T10:13:28.595007+05:30'
+last_seen: '2026-06-26T10:13:28.595007+05:30'
+last_checked: '2026-06-26T10:13:28.595007+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) providing a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI agent interactions.
-- **Technical Scope**: Focuses on advanced GitHub Copilot customization, including `agent-skills`, `prompt-engineering`, `custom-agents`, and `MCP` integration for enhanced AI-driven development workflows in VS Code.
-- **Metadata**: 540 stars, 85 forks, TypeScript-based, last updated June 25, 2026; covers topics like `copilot-instructions`, `copilot-prompting`, and `vscode-copilot-chat`.
+- **Curated Resource**: Repository containing GitHub Copilot AI enhancement materials including instructions, prompts, skills, MCPs, and agent markdown files.
+- **Technical Scope**: Supports agent-skills, AI-agents, prompt-engineering, and VSCode Copilot Chat integration with TypeScript-based implementations.
+- **Metadata**: 540 stars, 85 forks, last updated 2026-06-25, covering copilot-instructions, copilot-prompting, and custom-agents.
 
 ## Why It Matters
 

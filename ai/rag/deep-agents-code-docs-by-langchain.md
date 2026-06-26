@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-26T01:58:20.311292+05:30'
-collected_at: '2026-06-26T01:58:20.311306+05:30'
+published_at: '2026-06-26T10:15:23.550464+05:30'
+collected_at: '2026-06-26T10:15:23.550478+05:30'
 tags:
 - agents
 - anthropic
@@ -13,14 +13,15 @@ tags:
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-26T01:58:20.311306+05:30'
-last_seen: '2026-06-26T01:58:20.311306+05:30'
-last_checked: '2026-06-26T01:58:20.311306+05:30'
+first_seen: '2026-06-26T10:15:23.550478+05:30'
+last_seen: '2026-06-26T10:15:23.550478+05:30'
+last_checked: '2026-06-26T10:15:23.550478+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (OpenAI, Anthropic, Google, etc.) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for context retention.
+- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory, customizable skills, and approval-gated code execution.
 
-- **Human-in-the-Loop & Sandboxing**: Enforces approval gates for destructive operations (file edits, shell execution) and supports remote sandboxes (LangSmith, E2B, Modal) for secure code execution with configurable allowlists (`--shell-allow-list`).
+- **Core Capabilities**: Includes file operations (read/write/edit), shell execution (with human-in-the-loop approval), web search (via Tavily API), task planning, subagents, memory storage/retrieval, MCP tool integration, and LangSmith tracing for observability.
 
-- **Non-Interactive Mode & Tracing**: CLI flags (`-n`, `--timeout`, `--max-turns`) enable headless task execution with strict turn/time limits, while LangSmith integration (`LANGSMITH_TRACING`) logs agent operations, tool calls, and decisions for observability.
+- **CLI Features**: Supports interactive/non-interactive modes, remote sandboxes, auto-approval toggles, startup commands, and granular control via `--shell-allow-list`, `--sandbox`, and `--mcp-config` flags for secure, extensible automation.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:58:20.311292+05:30
+- Published: 2026-06-26T10:15:23.550464+05:30
 
 ## Related Tags
 
@@ -52,6 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - youtube

@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- paper
 - rag
 - unknown
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A GitHub repository aggregating cutting-edge resources on agentic deep research, focusing on autonomous agents leveraging large language models (LLMs) for multi-step reasoning and knowledge synthesis.
-- **Key Topics**: Encompasses agentic RAG (Retrieval-Augmented Generation), reasoning agents, search agents, and deep research methodologies, with emphasis on scalability and autonomous problem-solving.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's Knowledge Fo
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems.
+- **Key Topics Covered**: Includes agentic AI, deep research agents, search agents, reasoning mechanisms, and applications in LLMs for advanced knowledge synthesis.
+- **Updated Framework**: Last modified in June 2026, aligning with ACL 2026 KnowFM, ensuring inclusion of recent advancements i
 
 ## Use Cases
 

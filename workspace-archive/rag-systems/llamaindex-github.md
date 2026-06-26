@@ -2,19 +2,20 @@
 title: LlamaIndex · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/run-llama/
+source_url: https://github.com/run-llama
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - meta-ai
 - models
 - rag
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse** provides **state-of-the-art (SOTA) agentic OCR** for document workflows, enabling high-accuracy text extraction and structured parsing via cloud-based APIs (`Parse` and `Extract`).
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via three core products—`Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform Documentation` for integration and workflow automation.
 
-- **Open-source components** include **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (comprehensive RAG/data framework), all with detailed documentation.
+- **Open-Source Tooling**: Offers `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the foundational `LlamaIndex (Python)` library, all with dedicated documentation for custom agentic workflows.
 
-- **Multi-platform support** via official **X (Twitter), LinkedIn, and YouTube** channels
+- **Community & Support**: Maintains activ
 
 ## Use Cases
 
@@ -50,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama/
+Original source URL: https://github.com/run-llama
 
 ## Local Vault File
 

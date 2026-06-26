@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-26T04:18:22.528161+05:30'
+collected_at: '2026-06-26T10:12:48.553607+05:30'
 published_at: '2026-06-16T18:11:54Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 392
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-26T04:18:22.528161+05:30'
-last_seen: '2026-06-26T04:18:22.528161+05:30'
-last_checked: '2026-06-26T04:18:22.528161+05:30'
+first_seen: '2026-06-26T10:12:48.553607+05:30'
+last_seen: '2026-06-26T10:12:48.553607+05:30'
+last_checked: '2026-06-26T10:12:48.553607+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on retrieval and generation performance in Chinese contexts.
-
-- **Evaluation Metrics**: The repository includes standardized metrics for assessing both retrieval accuracy (e.g., precision, recall) and generation quality (e.g., coherence, factuality) in RAG pipelines.
-
-- **Open-Source Toolkit**: Implements a Python-based toolkit with modular components for dataset curation, retrieval evaluation, and LLM fine-tuning, supporting reproducibility and extensibility for RAG research.
+- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on Chinese-language tasks.
+- **CRUD Operations Integration**: The benchmark incorporates Create, Read, Update, and Delete (CRUD) operations to assess RAG performance across dynamic data scenarios, ensuring robustness in real-world applications.
+- **Open-Source Toolkit**: Implemented in Python, the repository offers an open-source toolkit for researchers and developers to benchmark and improve RAG models in Chinese contexts.
 
 ## Why It Matters
 

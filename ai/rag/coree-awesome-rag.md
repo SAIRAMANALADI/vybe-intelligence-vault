@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-06-26T04:18:12.529461+05:30'
+collected_at: '2026-06-26T10:12:38.504796+05:30'
 published_at: '2026-06-25T09:26:32Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - paper
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-06-26T04:18:12.529461+05:30'
-last_seen: '2026-06-26T04:18:12.529461+05:30'
-last_checked: '2026-06-26T04:18:12.529461+05:30'
+first_seen: '2026-06-26T10:12:38.504796+05:30'
+last_seen: '2026-06-26T10:12:38.504796+05:30'
+last_checked: '2026-06-26T10:12:38.504796+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates high-quality tools, papers, frameworks, and datasets for retrieval-augmented generation (RAG) in LLMs, including embeddings, retrieval systems, and model architectures.
-- **Multi-Topic Coverage**: Encompasses foundational RAG concepts, advanced retrieval techniques (e.g., dense/sparse retrieval), and integration methods for LLMs, with emphasis on scalability and efficiency.
-- **Active Maintenance**: Last updated in 2026, indicating ongoing curation of state-of-the-art RAG methodologies, benchmarks, and open-source implementations for research/industry applications.
+- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, and RAG model architectures, including implementations and benchmarks for optimizing LLM performance via external knowledge retrieval.
+- **Community-Driven**: Actively maintained GitHub repository with 425 stars and 48 forks, last updated in June 2026, aggregating community-vetted resources for RAG advancements.
 
 ## Why It Matters
 

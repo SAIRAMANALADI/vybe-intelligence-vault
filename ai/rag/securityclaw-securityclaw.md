@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-26T04:18:27.570785+05:30'
+collected_at: '2026-06-26T10:12:53.592094+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-26T04:18:27.570785+05:30'
-last_seen: '2026-06-26T04:18:27.570785+05:30'
-last_checked: '2026-06-26T04:18:27.570785+05:30'
+first_seen: '2026-06-26T10:12:53.592094+05:30'
+last_seen: '2026-06-26T10:12:53.592094+05:30'
+last_checked: '2026-06-26T10:12:53.592094+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for monitoring OpenSearch/Elasticsearch data, integrating RAG for behavioral memory, and validating real-time anomalies using LLMs.
-
-- **Threat Detection Pipeline**: Combines retrieval-augmented generation (RAG) for contextual memory with LLM-driven anomaly validation to enhance threat hunting and detection in security operations.
-
-- **OpenSearch/Elasticsearch Integration**: Dynamically processes and analyzes log data from OpenSearch/Elasticsearch clusters to enable automated threat detection and SOC automation.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility in cybersecurity operations.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build and query historical behavioral patterns, enabling contextual anomaly validation via LLMs.
+- **LLM-Driven Threat Detection**: Validates real-time anomalies using large language models (LLMs) for dynamic threat detection, threat hunting, and SOC automation.
 
 ## Why It Matters
 

@@ -6,9 +6,9 @@ source_url: https://github.com/rohitg00/agentmemory
 resource_id: github:rohitg00/agentmemory
 local_vault_path: ai/rag/rohitg00-agentmemory.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # rohitg00/agentmemory
@@ -28,19 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Persistent Memory Layer**: Provides durable, long-term storage for AI coding agents, enabling state retention across sessions based on real-world benchmarking.
+- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, enabling state retention across sessions based on real-world benchmarking.
 
-- **TypeScript Implementation**: Built in TypeScript, optimized for integration with AI coding tools (e.g., ClaudeCode, Cursor, Copilot) and supports modular extensions via topics like `agentmemory` and `hermes`.
+- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility, supporting integration with popular AI coding tools (Claude, Codex, Copilot, etc.).
 
-- **Benchmark-Driven Design**: Evaluated against real-world use cases, ensuring performance and reliability for agent-bas
+- **Open-Source & Extensible**: Released under an open-source license (MIT) with 24K+ stars, facilitating community contributions and customization f
 
 ## Use Cases
 

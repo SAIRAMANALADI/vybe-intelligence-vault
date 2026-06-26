@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Context Retrieval Layer**: Open-source Python-based framework (`airweave`) designed to enhance AI agents with dynamic context retrieval, enabling efficient integration of enterprise data and external APIs for improved LLM performance.
+- **Context Retrieval Layer**: Open-source Python-based infrastructure enabling AI agents to dynamically fetch and integrate contextual data from enterprise systems via semantic search and retrieval-augmented generation (RAG).
 
-- **Modular Architecture**: Supports semantic search, retrieval-augmented generation (RAG), and data connectors for structured/unstructured data, facilitating seamless integration with vector databases, APIs, and enterprise systems.
+- **Data Connectors & APIs**: Supports 100+ enterprise data sources (e.g., databases, APIs, unstructured docs) with pre-built connectors and a RESTful search API for real-time context augmentation.
 
-- **Developer & Enterprise
+- **Agent Infrastructure**: Modular SDK for building AI agents with plugg
 
 ## Use Cases
 

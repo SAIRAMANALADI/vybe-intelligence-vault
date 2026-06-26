@@ -7,7 +7,7 @@ source_url: https://www.databricks.com/blog/accelerate-ai-development-databricks
 resource_id: blog:accelerate-ai-development-with-databricks-discover
 local_vault_path: ai/rag/accelerate-ai-development-with-databricks-discover.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Context Protocol (MCP) Integration**: Databricks introduces MCP for standardized AI agent interoperability, enabling seamless integration with external tools and services via a unified protocol, enhancing agent brick functionality.
+- **MCP & Agent Bricks Integration**: Databricks introduces Model Context Protocol (MCP) and Agent Bricks to accelerate AI development by enabling seamless integration of AI agents with structured data pipelines and governance frameworks within the Databricks Lakehouse Platform.
 
-- **Agent Bricks Framework**: New modular framework for building, deploying, and governing AI agents with built-in governance, lifecycle management, and orchestration capabilities, leveraging Databricks' Lakehouse architecture.
-
-- **Unified AI Development P
+- **Unified Governance & Discovery**: The platform provides unified governance for AI/ML models, data, and applications via Unity Catalog, while enabling discovery through a centralized marketplace for datasets, models,
 
 ## Use Cases
 

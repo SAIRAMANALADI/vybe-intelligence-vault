@@ -3,9 +3,9 @@ title: Global Infrastructure - AWS
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://aws.amazon.com/about-aws/global-infrastructure
-published_at: '2026-06-24T23:00:21.895625+05:30'
-collected_at: '2026-06-24T23:00:21.895638+05:30'
+source_url: https://aws.amazon.com/about-aws/global-infrastructure/
+published_at: '2026-06-26T10:17:02.988044+05:30'
+collected_at: '2026-06-26T10:17:02.988058+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-06-24T23:00:21.895638+05:30'
-last_seen: '2026-06-24T23:00:21.895638+05:30'
-last_checked: '2026-06-24T23:00:21.895638+05:30'
+first_seen: '2026-06-26T10:17:02.988058+05:30'
+last_seen: '2026-06-26T10:17:02.988058+05:30'
+last_checked: '2026-06-26T10:17:02.988058+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Scalability**: AWS operates 123 Availability Zones (AZs) across 39 Geographic Regions, with plans for 7 more AZs and 2 additional Regions (Saudi Arabia, Chile). Includes 750+ CloudFront Points of Presence (PoPs) and 45 Local Zones/Wavelength Zones for ultra-low-latency edge computing.
+- **Global Reach & Scale**: AWS operates 123 Availability Zones (AZs) across 39 Geographic Regions, with plans to expand to 46 AZs in 41 Regions, including new deployments in Saudi Arabia, Chile, New Zealand, Taiwan, and Australia, supported by 750+ CloudFront POPs and 15 Regional edge caches for ultra-low latency.
 
-- **High Availability & Resilience**: Each AWS Region consists of ≥3 physically isolated AZs, ensuring fault tolerance. Backed by ~20M km of fiber optic backbone for optimized latency, performance, and redundancy.
+- **Resilient & Secure Architecture**: Each AWS Region consists of ≥3 physically isolated AZs, ensuring high availability and fault tolerance, while AWS’s global fiber optic backbone (20M km) enables sub-millisecond latency and optimized data transfer for performance-critical workloads.
 
-- **Diverse Deployment Models**: Supports hybrid/multi-cloud via Outposts, Local Zones, Dedicated Local Zones, and Wavelength, enabling consistent infrastructure across cloud, on-premises, and telco edge environments.
+- **Diverse Deployment Models**: Supports hybrid, edge, and on-premises workloads via Local Zones, Dedicated Local Zones, Outposts, Wavelength, and CloudFront, enabling consistent low-latency, high-throughput operations across distributed environments.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:00:21.895625+05:30
+- Published: 2026-06-26T10:17:02.988044+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://aws.amazon.com/about-aws/global-infrastructure
+Original source: https://aws.amazon.com/about-aws/global-infrastructure/

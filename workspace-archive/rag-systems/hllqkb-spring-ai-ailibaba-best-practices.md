@@ -6,16 +6,16 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - java
 - rag
-- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements multiple AI integration patterns** in Java using Spring AI with Alibaba Cloud, including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message management.
-
-- **Supports multimodal AI capabilities** such as image generation (via diffusion models), image understanding (OCR/VLM), and embedding-based retrieval using vector databases for RAG pipelines.
-
-- **Leverages advanced AI infrastructure** including embedding models, vector databases,
+- **Implementation**: Demonstrates Spring AI integration with Alibaba Cloud services, featuring SSE streaming, agent-based workflows, and RAG with knowledge graphs.
+- **Capabilities**: Supports function calling, historical message retention, image generation/understanding, embedding models, and vector database operations.
+- **Technical Stack**: Utilizes Java with Spring AI, embedding models, and vector databases for retrieval-augmented generation (RAG) workflows.
 
 ## Use Cases
 

@@ -4,15 +4,15 @@ category: web-development/nextjs
 source_type: rss
 source_name: Next.js Blog
 source_url: https://nextjs.org/blog/next-16-3-instant-navigations
-published_at: '2026-06-24T20:00:00+05:30'
-collected_at: '2026-06-26T01:53:20.212732+05:30'
+published_at: '2026-06-25T20:00:00+05:30'
+collected_at: '2026-06-26T10:10:28.616312+05:30'
 tags:
 - frontend_ui
 status: active
 resource_id: blog:next-js-16-3-instant-navigations
 first_seen: '2026-06-26T01:53:20.212732+05:30'
-last_seen: '2026-06-26T01:53:20.212732+05:30'
-last_checked: '2026-06-26T01:53:20.212732+05:30'
+last_seen: '2026-06-26T10:10:28.616312+05:30'
+last_checked: '2026-06-26T10:10:28.616312+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Next.js Blog
 - Category: web-development/nextjs
-- Published: 2026-06-24T20:00:00+05:30
+- Published: 2026-06-25T20:00:00+05:30
 
 ## Related Tags
 

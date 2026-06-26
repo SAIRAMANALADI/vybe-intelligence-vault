@@ -3,7 +3,7 @@ title: Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration,
   Services
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.jamsadr.com/rules-streamlined-arbitration
+source_url: https://www.jamsadr.com/rules-streamlined-arbitration/
 resource_id: blog:streamlined-arbitration-rules-procedures-jams-medi
 local_vault_path: ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md
 quality_score: 70
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC or General Counsel oversees administration, with authority to assign cases to Resolution Centers.
+- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or where disputed claims ≤$250K (excl. interest/fees); JAMS NAC or designees administer per agreement.
 
-- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter (triggered by executed agreement, pre-dispute clause, court order, or respondent’s failure to object); service/e-filing governed by strict timelines a
+- **Electronic Filing & Service**: Mandatory e-filing/service via JAMS Electronic Filing System; documents deemed filed/served upon transmission completion (11:59 p.m. deadline), with technical errors subject to nunc pro tunc approval for good cause.
+
+- **Consolidation & Administrative Auth
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.jamsadr.com/rules-streamlined-arbitration
+Original source URL: https://www.jamsadr.com/rules-streamlined-arbitration/
 
 ## Local Vault File
 

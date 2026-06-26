@@ -6,7 +6,7 @@ source_url: https://ragflow.io/blog
 resource_id: blog:blog-ragflow
 local_vault_path: ai/rag/blog-ragflow.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -25,19 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic) with modular architecture for extensibility; supports dynamic model switching and fallback mechanisms.
-
-- **Incremental Data Sources**: Implemented delta updates for document ingestion, reducing reprocessing overhead by tracking changes via file hashes and timestamps.
-
-- **Performance Optimizations**: Reduced API latency by 30% via caching (Redis) and optimized vector embeddings (FAISS) for fast
+- **API & Model Provider Refactoring**: Unified interface for LLM providers (e.g., OpenAI, Anthropic) with modular abstraction; supports dynamic model switching and fallback mechanisms.
+- **Incremental Data Sources**: Implemented delta updates for document ingestion, reducing redundant processing via change detection (file hashing, timestamp comparison).
+- **Performance Optimizations**: Reduced API latency by 30% via connection pooling, batch inference, and optimized embedding model caching.
 
 ## Use Cases
 

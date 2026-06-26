@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-26T04:18:22.552296+05:30'
+collected_at: '2026-06-26T10:12:48.538301+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-26T04:18:22.552296+05:30'
-last_seen: '2026-06-26T04:18:22.552296+05:30'
-last_checked: '2026-06-26T04:18:22.552296+05:30'
+first_seen: '2026-06-26T10:12:48.538301+05:30'
+last_seen: '2026-06-26T10:12:48.538301+05:30'
+last_checked: '2026-06-26T10:12:48.538301+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative query refinement and context retention across dialogue turns.
-- **Technical Scope**: Implements Python-based evaluation frameworks for assessing RAG models' performance in multi-turn conversational settings, including retrieval accuracy and response coherence.
-- **Dataset & Metrics**: Provides standardized datasets and metrics for benchmarking, emphasizing long-term dependency tracking and dynamic knowledge integration in RAG pipelines.
+- **Benchmark Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on iterative retrieval and generation performance.
+- **Technical Stack**: Implemented in Python, leveraging RAG pipelines for multi-turn conversational evaluation.
+- **Update Status**: Last commit on 2026-06-23, indicating active development or maintenance.
 
 ## Why It Matters
 

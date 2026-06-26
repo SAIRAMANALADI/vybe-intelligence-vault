@@ -2,7 +2,7 @@
 title: LlamaParse Platform Quickstart | Developer Documentation
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://developers.llamaindex.ai/
+source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
 local_vault_path: ai/agents/llamaparse-platform-quickstart-developer-documenta.md
 quality_score: 70
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Layout-aware OCR**: Parse processes PDFs, scans, tables, and charts using advanced OCR to preserve document structure and layout.
-- **Multi-format output**: Converts input into clean markdown, plain text, or structured JSON for downstream LLM pipelines.
-- **Agentic parsing**: Designed for autonomous operation within LLM workflows, optimizing document extraction for AI-driven applications.
+- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
+
+- **Multi-format Output**: Converts processed documents into clean markdown, plain text, or structured JSON, optimizing compatibility with LLM pipelines.
+
+- **Agentic Pipeline Integration**: Designed as an autonomous component within LLM workflows, enhancing document understanding through contextual
 
 ## Use Cases
 
@@ -44,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.llamaindex.ai/
+Original source URL: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

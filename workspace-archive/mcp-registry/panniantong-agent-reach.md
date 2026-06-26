@@ -6,9 +6,9 @@ source_url: https://github.com/Panniantong/Agent-Reach
 resource_id: github:panniantong/agent-reach
 local_vault_path: ai/agents/panniantong-agent-reach.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: api
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,6 +17,7 @@ tags:
 - python
 - reddit
 - scripts
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -28,15 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- **Multi-platform web scraping**: CLI tool in Python that scrapes content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, enabling AI agents to "see" the internet via direct scraping.
+
+- **Zero-cost automation**: Eliminates API costs by using open-source scrapers and transcript extractors (e.g., YouTube transcripts), optimized for integration with LLM tools like Claude Code and Cursor.
+
+- **Agent infrastructure integration**: Designed as an MCP (Model Context
 
 ## Use Cases
 
@@ -50,4 +55,4 @@ Original source URL: https://github.com/Panniantong/Agent-Reach
 
 ## Local Vault File
 
-Path: [panniantong-agent-reach.md](file:///../../ai/agents/panniantong-agent-reach.md)
+Path: [panniantong-agent-reach.md](../../ai/agents/panniantong-agent-reach.md)

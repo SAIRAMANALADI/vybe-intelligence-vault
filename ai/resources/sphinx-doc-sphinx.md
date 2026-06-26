@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sphinx-doc/sphinx
-collected_at: '2026-06-26T04:22:04.407695+05:30'
+collected_at: '2026-06-26T10:15:34.915263+05:30'
 published_at: '2026-06-24T09:55:46Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2015-01-02T10:53:28Z'
 pushed_at: '2026-06-21T23:52:48Z'
 resource_id: github:sphinx-doc/sphinx
-first_seen: '2026-06-26T04:22:04.407695+05:30'
-last_seen: '2026-06-26T04:22:04.407695+05:30'
-last_checked: '2026-06-26T04:22:04.407695+05:30'
+first_seen: '2026-06-26T10:15:34.915263+05:30'
+last_seen: '2026-06-26T10:15:34.915263+05:30'
+last_checked: '2026-06-26T10:15:34.915263+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: Sphinx is a Python-based documentation generator that converts reStructuredText (RST) or Markdown markup into static websites, PDFs, or other output formats via extensions.
-- **Key Features**: Supports cross-referencing, syntax highlighting, and templating; integrates with tools like autodoc for auto-generating API docs from Python docstrings.
-- **Extensibility**: Highly modular with plugins for additional parsers (e.g., MyST), themes, and builders (e.g., LaTeX, HTML).
+- **Core Functionality**: Sphinx is a Python-based static documentation generator supporting reStructuredText (primary) and Markdown via extensions, enabling automated documentation builds from source files.
+
+- **Extensibility**: Features a plugin architecture for custom directives, themes, and builders, with built-in support for internationalization (i18n), cross-referencing, and LaTeX/PDF output.
+
+- **Integration & Tooling**: Supports intersphinx for cross-project references, autodoc for Python API documentation, and integrates with CI/CD pipelines for automated documentation deployment.
 
 ## Why It Matters
 

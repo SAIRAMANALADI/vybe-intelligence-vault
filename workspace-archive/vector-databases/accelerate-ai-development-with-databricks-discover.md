@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Context Protocol (MCP) Integration**: Databricks introduces MCP for standardized AI agent interoperability, enabling seamless integration with external tools and services via a unified protocol, enhancing agent brick functionality.
+- **MCP & Agent Bricks Integration**: Databricks introduces Model Context Protocol (MCP) and Agent Bricks to accelerate AI development by enabling seamless integration of AI agents with structured data pipelines and governance frameworks within the Databricks Lakehouse Platform.
 
-- **Agent Bricks Framework**: New modular framework for building, deploying, and governing AI agents with built-in governance, lifecycle management, and orchestration capabilities, leveraging Databricks' Lakehouse architecture.
-
-- **Unified AI Development P
+- **Unified Governance & Discovery**: The platform provides unified governance for AI/ML models, data, and applications via Unity Catalog, while enabling discovery through a centralized marketplace for datasets, models,
 
 ## Use Cases
 

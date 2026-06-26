@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.llamaindex.ai/
-published_at: '2026-06-26T01:57:25.246599+05:30'
-collected_at: '2026-06-26T01:57:25.246610+05:30'
+source_url: http://llamaindex.ai
+published_at: '2026-06-26T10:16:23.809166+05:30'
+collected_at: '2026-06-26T10:16:23.809175+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-26T01:57:25.246610+05:30'
-last_seen: '2026-06-26T01:57:25.246610+05:30'
-last_checked: '2026-06-26T01:57:25.246610+05:30'
+first_seen: '2026-06-26T10:16:23.809175+05:30'
+last_seen: '2026-06-26T10:16:23.809175+05:30'
+last_checked: '2026-06-26T10:16:23.809175+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring specialized experts for text, charts, tables, and handwritten content, with auto-correction loops for error detection and high pass-through rates.
+- **Agentic OCR & VLM Integration**: LlamaParse employs Vision-Language Model (VLM)-powered agents for autonomous, layout-aware document parsing with structured schema extraction, reducing manual processing from hours to seconds.
 
-- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-powered extraction of structured insights from 50+ unstructured file types (e.g., PDFs, Office docs) and demonstrates superior performance in benchmarks for overall parsing, charts, and tables compared to proprietary VLM, commercial IDP, and open-source OCR solutions.
+- **Multi-Modal Document Processing**: Supports 50+ unstructured file types, including embedded images, complex layouts, multi-page tables, handwritten text, charts, and graphs, with auto-correction loops for error mitigation.
 
-- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1,000 pages), supports HIPAA/GDPR/SOC2 compliance, provides 99.9% uptime, flexible deployment (cloud or VPC), and dedicated SLAs for mission-critical AI workloads.
+- **Enterprise-Grade Features**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and dedicated SLAs for mission-critical AI workloads.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:57:25.246599+05:30
+- Published: 2026-06-26T10:16:23.809166+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.llamaindex.ai/
+Original source: http://llamaindex.ai

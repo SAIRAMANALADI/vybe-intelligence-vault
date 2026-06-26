@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-26T04:17:27.506130+05:30'
-published_at: '2026-06-25T12:53:58Z'
+collected_at: '2026-06-26T10:11:53.495868+05:30'
+published_at: '2026-06-25T23:13:37Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - python
 - rag
-stars: 1460
+stars: 1461
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-24T16:19:06Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-26T04:17:27.506130+05:30'
-last_seen: '2026-06-26T04:17:27.506130+05:30'
-last_checked: '2026-06-26T04:17:27.506130+05:30'
+first_seen: '2026-06-26T10:11:53.495868+05:30'
+last_seen: '2026-06-26T10:11:53.495868+05:30'
+last_checked: '2026-06-26T10:11:53.495868+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Pre-configured full-stack template with FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker for containerization, supporting Python and TypeScript.
+- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, integrating AI Agents via CrewAI/LangChain/LangGraph, RAG pipelines, and 20+ pre-configured integrations (e.g., PostgreSQL, Pydantic-ai/deep).
 
-- **AI Features**: Built-in AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG (Retrieval-Augmented Generation), real-time streaming via WebSocket, and 20+ integrations (e.g., LLM APIs).
+- **Key Features**: Real-time streaming (WebSocket), authentication, modular agent architecture, and pre-built Docker support for scalable deployments.
 
-- **DevOps & Auth**: Includes authentication, Pydantic-Deep for data validation, and pre-integrated tools for rapid deployment and scalability.
+- **Data Layer**: PostgreSQL for structured storage, Pydantic models for data validation, and RAG-optimized retrieval for LLM context.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vstorm-co
-- Stars: 1460
+- Stars: 1461
 - Forks: 292
 - Language: Python
 - Topics: agent-framework, ai-agent-template, ai-agents, crewai, docker, fastapi, full-stack, langchain, langgraph, llm, nextjs, postgresql, pydantic-ai, pydantic-deep, python, rag, react, typescript, vstorm, websocket
-- Last Updated: 2026-06-25T12:53:58Z
+- Last Updated: 2026-06-25T23:13:37Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-19T12:23:15Z

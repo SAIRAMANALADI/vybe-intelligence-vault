@@ -17,6 +17,7 @@ tags:
 - github-repo
 - hackernews
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-disciplinary Skills Repository**: Open-source collection covering web design, knowledge retrieval (RAG), image generation (GPT-Image-2), and AI agent integration, primarily implemented in CSS.
-- **High Community Engagement**: 8,725 stars and 1,178 forks, indicating strong adoption and collaborative interest in the repository.
-- **Last Updated**: June 25, 2026, with active development in AI-driven tools (e.g., RAG, image generation) and web technologies.
+- **Repository Overview**: Open-source collection curated by ConardLi, encompassing web design, knowledge retrieval, image generation, and other technical skills.
+- **Technical Stack**: Primarily implemented in CSS, with additional tools/utilities for agent-based workflows, RAG (Retrieval-Augmented Generation), and image generation (e.g., GPT-Image-2).
+- **Metadata**: 8,746 stars, 1,182 forks, last updated June 26, 2026; topics include agent, RAG, web-design, and image generation.
 
 ## Use Cases
 

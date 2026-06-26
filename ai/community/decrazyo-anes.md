@@ -13,13 +13,14 @@ collected_at: '2026-06-26T04:16:27.213198+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:decrazyo/anes
 first_seen: '2026-06-26T01:53:20.991958+05:30'
 last_seen: '2026-06-26T04:16:27.213198+05:30'
 last_checked: '2026-06-26T04:16:27.213198+05:30'
 health_score: 100
 ---
+
 
 # Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs
 

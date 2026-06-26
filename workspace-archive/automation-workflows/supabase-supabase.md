@@ -1,0 +1,56 @@
+---
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+resource_id: github:supabase/supabase
+local_vault_path: ai/rag/supabase-supabase.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- frontend_ui
+- hackernews
+- openai
+- rag
+- reddit
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- Supabase docs support four structured document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **Reference** (factual, parameter/return-type-focused, auto-generated from specs).
+
+- Docs are authored in **MDX** with YAML frontmatter, stored in `apps/docs/content`, and organized via navigation files; reference docs are dynamically generated from spec files (`common-client-libs-sections.
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+
+## Local Vault File
+
+Path: [supabase-supabase.md](../../ai/rag/supabase-supabase.md)

@@ -6,11 +6,12 @@ source_url: https://rag.readthedocs.io/
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - workflows
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge into responses.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector DBs) with generative models (e.g., LLMs) to enhance contextual relevance by fetching external knowledge before generating responses.
 
-- **Streamlit Implementation**: Modular Python application with components for PDF processing (`process_pdf.py`), question answering (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), leveraging chains (e.g., `get_question_answer_chain`)
+- **Implementation Components**: Includes document processing (PDF splitting/embedding), model chaining (QA/summarization/translation), and a Streamlit UI for interactive model comparison and task execution.
+
+- **Technical Workflow**: Involves backend functions (`process_pdf.py`, `question_handler.py
 
 ## Use Cases
 

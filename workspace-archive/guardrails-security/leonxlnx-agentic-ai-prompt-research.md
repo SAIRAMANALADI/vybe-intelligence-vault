@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Pattern Reconstruction**: Analyzes and reconstructs system prompts for agentic AI coding assistants, focusing on modular, reusable prompt structures to enhance agent coordination and task delegation.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows, emphasizing multi-agent collaboration and task decomposition.
 
-- **Agent Coordination Mechanisms**: Investigates multi-agent architectures, including role specialization, communication protocols, and conflict resolution strategies for collaborative AI-driven coding workflows.
+- **Security Classification Framework**: Introduces a security classification system for agentic AI prompts, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool execution.
 
-- **Security Classification Framework**: Proposes a security taxonomy for
+- **System Prompt Optimization**: Explores techniques for optimizing
 
 ## Use Cases
 

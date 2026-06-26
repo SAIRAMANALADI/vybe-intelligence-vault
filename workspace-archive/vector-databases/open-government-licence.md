@@ -2,7 +2,7 @@
 title: Open Government Licence
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 resource_id: blog:open-government-licence
 local_vault_path: ai/rag/open-government-licence.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Licence Scope & Permissions**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use, copy, publish, distribute, adapt, and exploit (commercially/non-commercially) public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0").
+- **Licence Terms**: Grants a worldwide, royalty-free, perpetual, non-exclusive licence to use public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0") and compliance with attribution requirements when combining multiple sources.
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests (unless integral), mi
+- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party ri
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+Original source URL: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
 ## Local Vault File
 

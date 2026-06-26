@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-26T04:18:52.525469+05:30'
+collected_at: '2026-06-26T10:13:18.542255+05:30'
 published_at: '2026-06-25T21:13:45Z'
 tags:
 - agents
 - github-repo
-- paper
 - rag
 - unknown
 stars: 779
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-26T04:18:52.525469+05:30'
-last_seen: '2026-06-26T04:18:52.525469+05:30'
-last_checked: '2026-06-26T04:18:52.525469+05:30'
+first_seen: '2026-06-26T10:13:18.542255+05:30'
+last_seen: '2026-06-26T10:13:18.542255+05:30'
+last_checked: '2026-06-26T10:13:18.542255+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A GitHub repository aggregating cutting-edge resources on agentic deep research, focusing on autonomous agents leveraging large language models (LLMs) for multi-step reasoning and knowledge synthesis.
-- **Key Topics**: Encompasses agentic RAG (Retrieval-Augmented Generation), reasoning agents, search agents, and deep research methodologies, with emphasis on scalability and autonomous problem-solving.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's Knowledge Foundation Models (KnowFM) initiative, providing structured access to papers, frameworks, and tools for next-gen AI research agents.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems.
+- **Key Topics Covered**: Includes agentic AI, deep research agents, search agents, reasoning mechanisms, and applications in LLMs for advanced knowledge synthesis.
+- **Updated Framework**: Last modified in June 2026, aligning with ACL 2026 KnowFM, ensuring inclusion of recent advancements in reasoning and retrieval-based AI systems.
 
 ## Why It Matters
 

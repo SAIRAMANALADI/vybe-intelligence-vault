@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-06-26T01:59:30.261301+05:30'
-collected_at: '2026-06-26T01:59:30.261312+05:30'
+published_at: '2026-06-26T10:16:26.438974+05:30'
+collected_at: '2026-06-26T10:16:26.438986+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-06-26T01:59:30.261312+05:30'
-last_seen: '2026-06-26T01:59:30.261312+05:30'
-last_checked: '2026-06-26T01:59:30.261312+05:30'
+first_seen: '2026-06-26T10:16:26.438986+05:30'
+last_seen: '2026-06-26T10:16:26.438986+05:30'
+last_checked: '2026-06-26T10:16:26.438986+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` section supports format-specific settings for AVIF (`lossy/lossless` compression, `encoderSpeed`, `hint`, `quality`), JPEG (`quality`), and WebP (`compression`, `hint`, `method`, `quality`, `useSharpYuv`), with defaults optimized for photographic content.
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, and format-specific encodings (AVIF: `lossy` @60 quality, JPEG: `75` quality, WebP: `lossy` @75 quality, `method: 2`).
 
-- **Resampling & Cropping**: Uses `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) for resizing, `anchor` (e.g., `smart`, `Center`) for focal point detection during cropping/filling, and `bgColor` for transparent-to-opaque format conversions.
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1-10), `hint` (photo/picture/text), and `quality` (1-100).
+  - **WebP**: Configurable via `compression`, `hint`, `method` (0-6), `quality` (1-100), and `useSharpYuv` (bool).
 
-- **Metadata Handling**: Configurable via `meta.fields` (glob-based field filtering) and `meta.sources` (`exif`, `iptc`, `xmp`), with performance-focused defaults excluding technical metadata like GPS/Exif fields.
+- **Metadata Control**:
+  - **Exif Filtering**: Excludes fields like `GPS`, `Exif`, and `Sharp` by default; supports glob-based inclusion/exclusion.
+  - **Sources**: Configurable via `sources: ['exif', 'iptc', 'xmp']` (XMP excluded by default for performance).
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:59:30.261301+05:30
+- Published: 2026-06-26T10:16:26.438974+05:30
 
 ## Related Tags
 

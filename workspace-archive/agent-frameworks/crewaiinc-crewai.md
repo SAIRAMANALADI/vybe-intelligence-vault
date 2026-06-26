@@ -1,5 +1,5 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.14.8a5'
+title: 'crewAIInc/crewAI Release: 1.15.0'
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://github.com/crewaiinc/crewai
@@ -19,7 +19,7 @@ selection_reason:
 - Active open-source repository
 ---
 
-# crewAIInc/crewAI Release: 1.14.8a5
+# crewAIInc/crewAI Release: 1.15.0
 
 ## Why This Is In The Archive
 

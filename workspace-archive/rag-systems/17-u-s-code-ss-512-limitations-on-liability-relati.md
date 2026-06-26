@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Transitory Digital Network Communications (§512(a))**: Service providers are exempt from monetary liability (and most injunctive relief) for automated, passive transmission/storage of user-uploaded content if: (1) the process is initiated by a third party, (2) no material modification occurs, (3) storage is transient and inaccessible to unauthorized parties, and (4) recipients are selected automatically without provider intervention.
+- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from liability for copyright infringement when transmitting, routing, or providing connections for material through their systems, provided the process is automated, unmodified, and transient, with no retention beyond necessary transmission.
 
-- **System Caching (§512(b))**: Providers are shielded fr
+- **System Caching (§512(b))**: Providers are not liable for temporary storage of infringing material if caching is automatic, unmodified, and compliant with refresh/u
 
 ## Use Cases
 

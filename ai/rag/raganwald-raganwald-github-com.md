@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-06-26T04:17:02.401198+05:30'
+collected_at: '2026-06-26T10:11:28.496769+05:30'
 published_at: '2026-06-20T15:41:20Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-20T15:41:16Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-06-26T04:17:02.401198+05:30'
-last_seen: '2026-06-26T04:17:02.401198+05:30'
-last_checked: '2026-06-26T04:17:02.401198+05:30'
+first_seen: '2026-06-26T10:11:28.496769+05:30'
+last_seen: '2026-06-26T10:11:28.496769+05:30'
+last_checked: '2026-06-26T10:11:28.496769+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll-based static site generator** for `raganwald.com`, utilizing HTML for content structure.
-- **GitHub-hosted repository** with 30 stars and 60 forks, last updated on **2026-06-20**.
-- **Minimalist configuration** with no additional topics or dependencies specified.
+- **Static Site Generator**: Jekyll-based repository for generating `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
+- **GitHub Pages Integration**: Hosted directly via GitHub Pages, utilizing the `gh-pages` branch for deployment (implied by `.github.com` domain).
+- **Minimalist Structure**: HTML-centric with no additional frameworks, relying on Jekyll’s default asset pipeline (CSS/JS via `_includes` and `_layouts`).
 
 ## Why It Matters
 

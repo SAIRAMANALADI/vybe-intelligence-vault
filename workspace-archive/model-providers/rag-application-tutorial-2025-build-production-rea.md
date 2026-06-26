@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 84
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -33,18 +33,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) to enhance factual accuracy; LangChain simplifies pipeline implementation.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; advanced implementations combine dense (vector) and sparse (keyword) retrieval methods for hybrid search.
 
-- **Production Optimization**: Chunking strategies (e.g., semantic splitting), embedding optimization (e.g., `sentence-transformers`), and hybrid retrieval (dense + sparse) reduce latency and improve relevance.
-
-- **Scalability & Monitoring**: Caching (e.g., Redis), load balancing (multi-model inference), and observ
+- **Production Optimization**: Key considerations involve token usage reduction (via prompt engineering), caching strategies (e.g., Redis for repeated queries), and load balancing across multip
 
 ## Use Cases
 

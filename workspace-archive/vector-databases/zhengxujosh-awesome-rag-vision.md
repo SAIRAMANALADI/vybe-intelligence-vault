@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: A specialized repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including cutting-edge methods, frameworks, and research papers.
-- **Metadata**: 336 stars, 9 forks, last updated **June 25, 2026**; language unspecified, with no predefined topics.
-- **Purpose**: Serves as a centralized hub for **vision-based RAG** innovations, bridging generative AI with multimodal (tex
+- **Curated Resource**: A specialized repository compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including state-of-the-art methods, frameworks, and research papers.
+- **Scope**: Encompasses **vision-language models (VLMs)**, **multimodal RAG**, and **cross-modal retrieval** approaches, with a focus on enhancing generative tasks in CV via external knowledge retrieval.
+- **Maintenance**: Actively updated (last commit: **2026-06-25**),
 
 ## Use Cases
 

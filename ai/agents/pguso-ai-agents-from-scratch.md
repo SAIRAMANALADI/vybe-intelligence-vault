@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-06-26T01:56:14.281046+05:30'
+collected_at: '2026-06-26T10:13:33.557730+05:30'
 published_at: '2026-06-25T12:14:04Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-06-26T01:56:14.281046+05:30'
-last_seen: '2026-06-26T01:56:14.281046+05:30'
-last_checked: '2026-06-26T01:56:14.281046+05:30'
+first_seen: '2026-06-26T10:13:33.557730+05:30'
+last_seen: '2026-06-26T10:13:33.557730+05:30'
+last_checked: '2026-06-26T10:13:33.557730+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and enabling deep understanding of function calling, memory management, and ReAct (Reasoning and Acting) patterns.
+- **Educational Repository**: Demonstrates building AI agents from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and provide hands-on understanding of core concepts.
 
-- **Technical Implementation**: Utilizes **JavaScript** with **node-llama-cpp** for local LLM integration, demonstrating real-world agent architectures including **React-agent** patterns for dynamic reasoning and action execution.
+- **Key Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns to implement functional AI agents without relying on proprietary APIs.
 
-- **Project Scope**: Covers core agent components (e.g., state management, tool integration) while avoiding cloud dependencies, ensuring reproducibility and practical learning for developers. Last updated June 2026.
+- **Project Structure**: Includes tutorials and examples for developing agent-based systems, emphasizing practical implementation of Node.js-based LLM agents with modular, transparent architectures.
 
 ## Why It Matters
 

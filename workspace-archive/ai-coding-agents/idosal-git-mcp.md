@@ -14,8 +14,8 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
-
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interactions.
-
-- **Features**: Supports real-time Git operations (e.g., cloning, diffing, file retrieval) and exposes a standardized int
+*   GitMCP is a TypeScript-based, open-source remote MCP server designed to mitigate AI code hallucinations within any GitHub repository.
+*   It integrates with various LLM-powered agents (e.g., Claude, Copilot, Cursor) to provide enhanced context and validation for code generation.
+*   The system extends Git workflows by offering a centralized, agentic AI solution for improving code accuracy and reducing errors from AI-assisted development.
 
 ## Use Cases
 

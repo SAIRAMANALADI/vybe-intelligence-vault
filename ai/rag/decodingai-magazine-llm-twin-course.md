@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-26T04:18:02.536726+05:30'
+collected_at: '2026-06-26T10:12:28.524167+05:30'
 published_at: '2026-06-24T11:17:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-26T04:18:02.536726+05:30'
-last_seen: '2026-06-26T04:18:02.536726+05:30'
-last_checked: '2026-06-26T04:18:02.536726+05:30'
+first_seen: '2026-06-26T10:12:28.524167+05:30'
+last_seen: '2026-06-26T10:12:28.524167+05:30'
+last_checked: '2026-06-26T10:12:28.524167+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM/RAG System**: Provides a production-ready framework for building **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** systems using **LLMOps best practices**, including source code and 12 hands-on lessons.
-
-- **Tech Stack & Tools**: Implements **Python-based infrastructure** with AWS, Docker, Pulumi (IaC), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform), while integrating **Bytewax** for stream processing.
-
-- **ML System Design Focus**: Covers **scalable ML system architecture**, **MLOps pipelines**, and **infrastructure-as-code (IaC)** for deploying LLMs and RAG systems, with emphasis on **superlinked** for semantic search optimization.
+- **Course Structure**: Provides a 12-lesson hands-on guide for building production-ready LLM & RAG systems using LLMOps best practices, including source code and infrastructure-as-code (IaC) templates.
+- **Tech Stack**: Integrates AWS, Pulumi (IaC), Qdrant (vector DB), Bytewax (streaming), Comet.ml (ML tracking), Qwak (MLOps), and Docker for containerization.
+- **Focus Areas**: Covers end-to-end ML system design, generative AI deployment, and scalable infrastructure for LLM applications, emphasizing MLOps and real-world production readiness.
 
 ## Why It Matters
 

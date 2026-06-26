@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-06-26T04:17:17.494469+05:30'
+collected_at: '2026-06-26T10:11:43.449627+05:30'
 published_at: '2026-06-25T10:01:56Z'
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 stars: 956
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-06-26T04:17:17.494469+05:30'
-last_seen: '2026-06-26T04:17:17.494469+05:30'
-last_checked: '2026-06-26T04:17:17.494469+05:30'
+first_seen: '2026-06-26T10:11:43.449627+05:30'
+last_seen: '2026-06-26T10:11:43.449627+05:30'
+last_checked: '2026-06-26T10:11:43.449627+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates a RAG pipeline using local language models (e.g., Ollama) for offline inference, avoiding cloud dependency.
-- **Dynamic Database Updates**: Implements a mechanism to refresh vector embeddings and document stores (e.g., ChromaDB) when new data is added.
-- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS) to assess retrieval quality, answer correctness, and latency metrics.
+- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging locally hosted LLMs for privacy and cost efficiency, with configurable model parameters (e.g., temperature, context window).
+
+- **Dynamic Database Updates**: Implements automated ingestion pipelines for updating vector stores (e.g., Chroma, FAISS) with new documents via Langchain’s `Document` loaders and embedding models (e.g., `sentence-transformers`).
+
+- **Testing Framework**: Includes unit/integration tests for RAG components (e.g., retriever accuracy, LLM response validation) using pytest, with mocking for external APIs and deterministic evaluation metrics (e.g., cosine similarity, ROUGE scores).
 
 ## Why It Matters
 

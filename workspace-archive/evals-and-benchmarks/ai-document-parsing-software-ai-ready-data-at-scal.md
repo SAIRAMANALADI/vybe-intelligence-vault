@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format parsing engine** supporting 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean Markdown.
-
-- **Scalable multimodal architecture** with granular parsing modes, multilingual OCR (100+ languages), and enterprise-grade features including local/cloud deployment, high concurrency, and dedicated support.
-
-- **Proven production deployment** with 1B+ documents process
+- **Layout-aware parsing** with support for 90+ formats, enabling extraction of structured data from complex layouts (headers, footers, split sections) while maintaining context.
+- **Multimodal processing** combining OCR, layout analysis, and multimodal LLMs to extract and interpret data from tables, charts, handwriting, checkboxes, and images into clean markdown.
+- **Scalable, enterprise-grade solution** with granular parsing modes, multilingual support (100+ languages), and local/cloud deploym
 
 ## Use Cases
 
