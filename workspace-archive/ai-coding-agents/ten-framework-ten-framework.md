@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source Python framework for building real-time, multi-modal (voice/video) conversational AI agents with low-latency processing.
-- **Key Features**: Supports voice and video modalities, optimized for real-time interactions, and designed for extensibility via modular architecture.
-- **Ecosystem**: Active community (10.7K+ stars, 1.3K+ forks), last updated June 2026, with focus on AI agent development and deployment.
+- **Purpose**: Open-source Python framework for building real-time, multi-modal (voice/video) conversational AI agents with voice capabilities.
+- **Key Features**: Supports real-time voice interactions, integrates video processing, and enables multi-modal agent development.
+- **Status**: Actively maintained with latest update on 2026-06-25, featuring 10.7K+ stars and 1.3K+ forks.
 
 ## Use Cases
 

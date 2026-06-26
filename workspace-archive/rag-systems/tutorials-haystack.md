@@ -6,14 +6,13 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines using statistical and model-based metrics, covering both RAG and agentic workflows.
 
-- **Agentic RAG Systems**: Tutorials on building multi-agent workflows, tool-calling agents with web search fallback, and conversational RAG with `InMemoryChatMessageStore` for multi-turn interactions.
+- **Agentic & Multimodal Pipelines**: Tutorials on building tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems with conditional routing fallbacks.
 
-- **Advanced Retrieval & Optimization**: Techniques for hybrid retrieval (dense + keyword), metadata
+- **Advanced Optimization & Serialization**: Covers KV cache compression (TurboQuant) for LLM memory reduction, pi
 
 ## Use Cases
 

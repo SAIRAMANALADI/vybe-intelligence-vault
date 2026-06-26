@@ -6,9 +6,9 @@ source_url: https://platform.openai.com/docs/guides/embeddings
 resource_id: blog:vector-embeddings-openai-api
 local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -19,6 +19,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -27,16 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D vectors, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, ~9.6k pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between vector size and performance.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim vectors, ~62,500 pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim vectors, ~9,615 pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between performance and cost.
 
-- **API Integration**: Embeddings are generated via API calls (e.g., `POST /v1/embeddings`) with input text tokenized and billed per token; responses include normalized float vectors (default 1536/3072D) a
+- **API Integration**: Embeddings are generated via `/v1/embeddings` endpoint using input text and model ID; response includes vectorized embeddings (floating-point lists) and metadata (e.g., token usage)
 
 ## Use Cases
 

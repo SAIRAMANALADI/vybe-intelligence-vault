@@ -15,6 +15,7 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via pipelines, enhancing NoSQL query capabilities while maintaining real-time sync.
+- **Firestore Pipelines (GA)**: Introduces full-text search and SQL-like JOINs via Firestore Pipelines, enabling advanced query capabilities in NoSQL while maintaining real-time updates and scalability.
 
-- **Dart Support in Cloud Functions**: Adds Dart as a supported runtime for Firebase Cloud Functions, enabling serverless Dart-based backend development with native Firebase integration.
+- **Dart Support in Cloud Functions**: Expands Firebase backend flexibility by adding Dart as a supported runtime for Cloud Functions, improving developer workflows for cross-platform applications.
 
-- **Firebase Phone Number Verification (GA)**: Provides general availability for phone number authentication, offering OTP-base
+- **AI Logic with Grounding**: Enhances AI applications by integrating real-world data (e.g., Map
 
 ## Use Cases
 

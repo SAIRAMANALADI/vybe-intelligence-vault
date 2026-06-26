@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - rag
 - reddit
 - web-crawled
@@ -35,13 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Promotions**:
-  - Main YouTube TV plan: **$67.99/month for first 3 months** (save $45), then **$82.99/month**; **Sports Plan: $54.99/month for first year** (save $120), then **$64.99/month**.
-  - Offer valid for new users only; ends **July 31, 2026**; no annual contracts, cancel anytime.
+- **Pricing & Promotions**: New users pay **$67.99/month for 3 months** (main plan, saving $45 total), then **$82.99/month**; Sports Plan is **$54.99/month for 12 months** (saving $120), then **$64.99/month**. Offers expire **7/31/26**; no refunds, cancel anytime.
 
-- **Core Features**:
-  - **Main Plan**: 100+ channels, **unlimited DVR**, **multiview**, **6 household accounts**, **3 simultaneous streams**.
-  - **Sports Plan**: 30+ channels, **unlimited DVR**,
+- **Plans & Features**: Main plan includes **100+ channels**, **unlimited DVR**, **multiview (up to 4 streams)**, **6 household accounts**, and **3 simultaneous streams**. Sports Plan offers **30+ channels** focused on live sports.
+
+-
 
 ## Use Cases
 

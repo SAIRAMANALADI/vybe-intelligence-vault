@@ -2,7 +2,7 @@
 title: 'Medium: Read and write stories.'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://medium.com/
+source_url: https://medium.com
 resource_id: blog:medium-read-and-write-stories
 local_vault_path: ai/rag/medium-read-and-write-stories.md
 quality_score: 70
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`) and content delivery (`/sitemap.xml`), with OAuth2-based session management for secure access.
+- Medium is a content publishing platform leveraging a subscription-based membership model (`/membership`) with OAuth2 authentication for user sign-in (`/signin`) and registration (`/write`).
 
-- The platform supports dynamic content rendering via CDN-optimized media endpoints (e.g., `miro.medium.com/v2/format:webp`) and client-side JavaScript for progressive loading of stories and user-generated content.
+- The platform supports structured content delivery via XML sitemaps (`/sitemap.xml`) and provides API-driven text-to-speech conversion (`speechify.com/medium`).
 
-- Medium enforces content moderation and monetization pol
+- Medium enforces content governance through a dedicated ruleset (`/rules`) and terms of service (`/terms-of-service`), while operational transp
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/
+Original source URL: https://medium.com
 
 ## Local Vault File
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/keras-team/keras/issues/18467
-published_at: '2026-06-25T16:44:27.163754+05:30'
-collected_at: '2026-06-25T16:44:27.163762+05:30'
+published_at: '2026-06-26T15:30:47.071152+05:30'
+collected_at: '2026-06-26T15:30:47.071168+05:30'
 tags:
 - frontend_ui
 - models
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:keras-team/keras
-first_seen: '2026-06-25T16:44:27.163762+05:30'
-last_seen: '2026-06-25T16:44:27.163762+05:30'
-last_checked: '2026-06-25T16:44:27.163762+05:30'
+first_seen: '2026-06-26T15:30:47.071168+05:30'
+last_seen: '2026-06-26T15:30:47.071168+05:30'
+last_checked: '2026-06-26T15:30:47.071168+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Breaking Changes in Keras 3**: Major updates include removal of deprecated/experimental APIs, default `jit_compile=True` (may require `jit_compile=False` for custom models), and disallowed `tf.Variable` usage as layer attributes (must use `self.add_weight()` or `keras.Variable`).
-- **TF SavedModel Compatibility**: `model.save()` no longer supports TF SavedModel format; use `tf.save_model.save(model)`. Loading SavedModel via `keras.models.load_model()` is also unsupported; use `keras.layers.TFSMLayer(filepath, call_endpoint="serving_default")` instead.
-- **Structural & Functional Restrictions**: Keras 3 enforces stricter input/output nesting limits, disallows `None` in nested tensor arguments, removes `RaggedTensor` support, and deprecates locally-connected/kernelized layers (requires manual reimplementation).
+- **Breaking Changes in Keras 3**: Keras 3 introduces major breaking changes from Keras 2, including removal of deprecated APIs (`compat.v1`, `experimental` namespaces), default `jit_compile=True`, disallowed `tf.Variable` usage as layer attributes, and unsupported `None` entries in nested tensor arguments.
+
+- **TF-Specific Incompatibilities**: Keras 3 drops support for saving/loading TF SavedModel format via `model.save()`/`keras.models.load_model()`, requires `tf.save_model.save()` and `keras.layers.TFSMLayer` instead, and enforces stricter input/output nesting rules in functional models.
+
+- **Removed Features & Workarounds**: Keras 3 removes low-usage layers (`LocallyConnected`, `Kernelized`, `AlphaDropout`, `ThresholdedReLU`) and RNN arguments (`constants`, `time_major`), while requiring manual migration for niche cases (e.g., copying layer implementations or using `keras.ops` for TF ops).
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:27.163754+05:30
+- Published: 2026-06-26T15:30:47.071152+05:30
 
 ## Related Tags
 

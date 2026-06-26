@@ -8,11 +8,12 @@ local_vault_path: ai/rag/haystack-haystack.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: high
 tags:
 - agents
 - anthropic
+- hackernews
 - mistral
 - models
 - openai
@@ -30,18 +31,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and context-engineered systems with full visibility into retrieval, reasoning, memory, and tool use.
+- **Modular AI Orchestration Framework**: Haystack provides a transparent, open-source framework for building production-ready AI agents, RAG systems, and multimodal applications with modular components (e.g., retrieval, reasoning, memory) and no vendor lock-in, supporting integrations with models/services like OpenAI, Hugging Face, and Weaviate.
 
-- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable workflows.
-
-- **Enterprise-Scale D
+- **Enterprise-Scale Deployment**: Supports cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides
 
 ## Use Cases
 

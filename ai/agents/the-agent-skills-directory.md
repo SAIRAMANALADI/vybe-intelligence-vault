@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://skills.sh
-published_at: '2026-06-24T10:15:30.330373+05:30'
-collected_at: '2026-06-24T10:15:30.330389+05:30'
+published_at: '2026-06-26T15:29:27.571310+05:30'
+collected_at: '2026-06-26T15:29:27.571326+05:30'
 tags:
 - agents
 - animation
@@ -16,14 +16,15 @@ tags:
 - models
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:the-agent-skills-directory
-first_seen: '2026-06-24T10:15:30.330389+05:30'
-last_seen: '2026-06-24T10:15:30.330389+05:30'
-last_checked: '2026-06-24T10:15:30.330389+05:30'
+first_seen: '2026-06-26T15:29:27.571326+05:30'
+last_seen: '2026-06-26T15:29:27.571326+05:30'
+last_checked: '2026-06-26T15:29:27.571326+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Top 3 most installed skills**: `find-skills` (2.2M), `frontend-design` (582.8K), `vercel-react-best-practices` (498.2K), indicating high demand for AI-assisted frontend development and skill discovery tools.
-
-- **Dominant contributors**: Microsoft (`azure-skills` with 6.1M total installs), Vercel Labs (`agent-skills` with 4.5M+ installs), and Anthropic (`skills` with 1M+ installs), showcasing enterprise and AI-driven tooling focus.
-
-- **Emerging AI/ML skill clusters**: Runcomfy-com/Doany-ai dominate AI media generation (image/video/audio) with 180K+ installs per skill (e.g., `ai-video-generation`, `face-swap`, `elevenlabs-music-generation`), reflecting rapid adoption of generative AI workflows.
+- **Top 3 Skills by Install Count**: `find-skills` (2.2M), `frontend-design` (592.9K), `vercel-react-best-practices` (504.2K), all hosted on Vercel Labs, Anthropic, and Vercel Labs respectively.
+- **Dominant Publishers**: Microsoft Azure Skills (6.2M total installs across 14 skills), Larksuite CLI (6.5M total installs across 22 skills), and Matt Pocock Skills (1.4M+ total installs across 10 skills).
+- **AI/ML & Automation Focus**: High concentration of AI-driven skills (e.g., `ai-image-generation`, `ai-video-generation`, `kling-3-0`) and automation tools (e.g., `lark-approval`, `lark-doc`) with sub-250K installs but emerging trends in agent-based workflows.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-24T10:15:30.330373+05:30
+- Published: 2026-06-26T15:29:27.571310+05:30
 
 ## Related Tags
 
@@ -58,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube

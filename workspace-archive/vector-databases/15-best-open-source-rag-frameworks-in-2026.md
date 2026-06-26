@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Modular framework for LLM application development with 105k+ GitHub stars, offering data connection interfaces, model flexibility, retrieval components, and evaluation tools for RAG pipelines; installed via `pip install -U langchain`.
+- **LangChain**: Open-source framework with 105k stars, offering modular RAG pipelines, model flexibility, and integration with 300+ components (LLMs, vector stores, retrievers) via Python (`pip install -U langchain`). Supports evaluation tools (LangSmith) and workflow orchestration (LangGraph).
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding (PDFs, tables, layouts) with GraphRAG support, agentic reasoning, and visual web interface; deployable via Docker with 2GB/9GB image options.
-
-- **Milv
+- **RAGFlow**: 48.5k-star RAG engine with deep document parsing (PDFs, tables, layouts) and GraphRAG support. Features a visual web interface, agentic reasoning, and multiple embedding/storage backends
 
 ## Use Cases
 

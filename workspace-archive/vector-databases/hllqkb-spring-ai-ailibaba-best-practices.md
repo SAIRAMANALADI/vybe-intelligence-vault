@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Spring AI integration with Alibaba Cloud services, featuring SSE streaming, agent-based workflows, and RAG with knowledge graphs.
-- **Capabilities**: Supports function calling, historical message retention, image generation/understanding, embedding models, and vector database operations.
-- **Technical Stack**: Utilizes Java with Spring AI, embedding models, and vector databases for retrieval-augmented generation (RAG) workflows.
+- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based architectures**, **knowledge graph RAG**, **Function Call**, **historical message handling**, **image generation/understanding**, **Embedding**, **Vector Database**, and **RAG** techniques.
+
+- **Features**: Integrates **multi-modal AI capabilities** (text/image) with **real-time data processing** via **Spring AI** and **Alibaba Cloud AI services**, leveraging **vector da
 
 ## Use Cases
 

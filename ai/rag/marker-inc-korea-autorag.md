@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-26T10:12:08.490567+05:30'
+collected_at: '2026-06-26T15:24:04.424306+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-26T10:12:08.490567+05:30'
-last_seen: '2026-06-26T10:12:08.490567+05:30'
-last_checked: '2026-06-26T10:12:08.490567+05:30'
+first_seen: '2026-06-26T15:24:04.424306+05:30'
+last_seen: '2026-06-26T15:24:04.424306+05:30'
+last_checked: '2026-06-26T15:24:04.424306+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter optimization and pipeline configuration.
+- **AutoML-driven RAG Optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and evaluation) using AutoML techniques to optimize performance without manual intervention.
 
-- **Comprehensive RAG Toolkit**: Provides an open-source framework for parsing documents, generating embeddings, benchmarking, and evaluating RAG systems, supporting tasks like question answering (QA) with built-in metrics and analysis tools.
+- **Comprehensive RAG Benchmarking**: Provides standardized evaluation metrics and datasets for assessing RAG systems, enabling reproducible benchmarking across retrieval, generation, and end-to-end tasks.
 
-- **Python-Based & Modular**: Implements a modular Python library for seamless integration with LLM workflows, enabling Ops teams to deploy, monitor, and optimize RAG pipelines efficiently with support for embeddings, retrieval strategies, and LLM evaluation.
+- **Modular Python Framework**: Offers a flexible, open-source Python library with built-in support for document parsing, embeddings, retrieval strategies, and LLM integration, facilitating customizable RAG workflows.
 
 ## Why It Matters
 

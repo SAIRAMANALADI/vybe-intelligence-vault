@@ -1,20 +1,29 @@
 ---
 title: JCodesMore/ai-website-cloner-template
 category: ai/agents
-source_type: github_trending
-source_name: GitHub Trending AI
-source_url: https://github.com/jcodesmore/ai-website-cloner-template
-published_at: '2026-06-26T10:10:27.844084+05:30'
-collected_at: '2026-06-26T10:10:27.844087+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/JCodesMore/ai-website-cloner-template
+collected_at: '2026-06-26T15:25:39.449796+05:30'
+published_at: '2026-06-26T09:55:07Z'
 tags:
 - agents
-- github-trending
+- anthropic
+- frontend_ui
+- github-repo
+- scripts
 - typescript
+stars: 20920
+language: TypeScript
 status: active
+license: MIT
+archived: false
+created_at: '2026-03-13T11:14:39Z'
+pushed_at: '2026-06-01T04:09:21Z'
 resource_id: github:jcodesmore/ai-website-cloner-template
-first_seen: '2026-06-23T01:03:50.205617+05:30'
-last_seen: '2026-06-26T10:10:27.844087+05:30'
-last_checked: '2026-06-26T10:10:27.844087+05:30'
+first_seen: '2026-06-26T15:25:39.449796+05:30'
+last_seen: '2026-06-26T15:25:39.449796+05:30'
+last_checked: '2026-06-26T15:25:39.449796+05:30'
 health_score: 100
 ---
 
@@ -22,24 +31,41 @@ health_score: 100
 
 ## Summary
 
-Clone any website with one command using AI coding agents
+- **AI-Powered Website Cloning**: Enables one-command website replication using AI coding agents (e.g., Claude Code) with TypeScript, Next.js, and React.
+- **Automated Reverse Engineering**: Combines web scraping, DOM analysis, and AI-driven code generation to reconstruct UI components (shadcn/ui, TailwindCSS).
+- **Developer Toolkit**: Boilerplate template with pre-configured AI agent integration, modular skills, and automation pipelines for scalable website cloning.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: GitHub Trending AI
-- Category: ai/agents
-- Published: 2026-06-26T10:10:27.844084+05:30
+- Owner: JCodesMore
+- Stars: 20920
+- Forks: 3054
+- Language: TypeScript
+- Topics: ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
+- Last Updated: 2026-06-26T09:55:07Z
+- License: MIT
+- Archived: No
+- Created At: 2026-03-13T11:14:39Z
+- Pushed At: 2026-06-01T04:09:21Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- github-trending
-- typescript
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/jcodesmore/ai-website-cloner-template
+Original source: https://github.com/JCodesMore/ai-website-cloner-template

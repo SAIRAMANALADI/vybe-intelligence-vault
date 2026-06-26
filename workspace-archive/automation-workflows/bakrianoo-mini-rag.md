@@ -8,11 +8,11 @@ local_vault_path: ai/rag/bakrianoo-mini-rag.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: prompt
+resource_kind: benchmark
 importance: high
 tags:
-- benchmark
 - github-repo
+- models
 - python
 - rag
 - workflows
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Implements a modular FastAPI-based architecture for Retrieval-Augmented Generation (RAG) with Docker containerization, covering end-to-end workflows from document ingestion to LLM inference.
+- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modularity and scalability.
 
-- **Educational Focus**: Step-by-step tutorials and code examples demonstrate best practices for scaling RAG applications, including vector database integration (e.g., Chroma/FAISS), retrieval optimization, and prompt engineering.
+- **Modular Architecture**: Implements a structured workflow with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, emphasizing best practices for deployment.
 
-- **GenAI Integration**: Demonstrates r
+- **GenAI Integration**: Focuses on integrating generative AI models (e.g., H
 
 ## Use Cases
 

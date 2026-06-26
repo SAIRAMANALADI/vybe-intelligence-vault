@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a structured tutorial for beginners in LLM (Large Language Model) application development, focusing on practical implementation via Jupyter Notebooks.
+- **Educational Framework**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with a focus on practical implementation.
 
-- **Technical Stack**: Integrates **LangChain** for LLM orchestration and **RAG** (Retrieval-Augmented Generation) for enhanced knowledge retrieval and response generation.
+- **Core Technologies**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** for enhancing model responses with external knowledge.
 
-- **Resource Accessibility**: Hosted on GitHub with 13.3K+ stars and 1.3K+ forks, offering an online read-through at [datawhalechina.git
+- **Repository Metrics**: 13.3K+ stars, 1.3K+ forks, last updated June 2026, emphasizing active maintenance and community engagement.
 
 ## Use Cases
 

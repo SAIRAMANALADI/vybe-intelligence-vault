@@ -4,20 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/
-published_at: '2026-06-26T02:00:15.214640+05:30'
-collected_at: '2026-06-26T02:00:15.214650+05:30'
+published_at: '2026-06-26T15:29:17.166942+05:30'
+collected_at: '2026-06-26T15:29:17.166958+05:30'
 tags:
 - agents
-- hackernews
 - rag
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-tv-watch-dvr-live-sports-shows-news
-first_seen: '2026-06-26T02:00:15.214650+05:30'
-last_seen: '2026-06-26T02:00:15.214650+05:30'
-last_checked: '2026-06-26T02:00:15.214650+05:30'
+first_seen: '2026-06-26T15:29:17.166958+05:30'
+last_seen: '2026-06-26T15:29:17.166958+05:30'
+last_checked: '2026-06-26T15:29:17.166958+05:30'
 health_score: 100
 ---
 
@@ -25,18 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Promotions**:
-  - Main YouTube TV plan: **$67.99/month for first 3 months** (save $45), then **$82.99/month**; **Sports Plan: $54.99/month for first year** (save $120), then **$64.99/month**.
-  - Offer valid for new users only; ends **July 31, 2026**; no annual contracts, cancel anytime.
+- **Pricing & Promotions**: New users pay **$67.99/month for 3 months** (main plan, saving $45 total), then **$82.99/month**; Sports Plan is **$54.99/month for 12 months** (saving $120), then **$64.99/month**. Offers expire **7/31/26**; no refunds, cancel anytime.
 
-- **Core Features**:
-  - **Main Plan**: 100+ channels, **unlimited DVR**, **multiview**, **6 household accounts**, **3 simultaneous streams**.
-  - **Sports Plan**: 30+ channels, **unlimited DVR**, **multiview**, **6 household accounts**, **3 streams**.
+- **Plans & Features**: Main plan includes **100+ channels**, **unlimited DVR**, **multiview (up to 4 streams)**, **6 household accounts**, and **3 simultaneous streams**. Sports Plan offers **30+ channels** focused on live sports.
 
-- **Add-Ons & Technical Capabilities**:
-  - **4K Plus ($9.99/month)**: Unlimited home streams, offline downloads, 4K playback.
-  - **Entertainment Plus ($29.99/month)**: Bundles Max, Paramount+, STARZ, Showtime.
-  - **Sports Plus ($10.99/month)**: Adds NFL RedZone, beIN SPORTS, Stadium, MAVTV.
+- **Add-Ons & Flexibility**: Optional add-ons include **4K Plus ($9.99/mo)**, **Entertainment Plus ($29.99/mo)**, **Sports Plus ($10.99/mo)**, and **Spanish TV ($14.99/mo)**. No contracts, hidden fees, or installation costs; all-in-one app with cross-device streaming.
 
 ## Why It Matters
 
@@ -46,12 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T02:00:15.214640+05:30
+- Published: 2026-06-26T15:29:17.166942+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - rag
 - reddit
 - web-crawled

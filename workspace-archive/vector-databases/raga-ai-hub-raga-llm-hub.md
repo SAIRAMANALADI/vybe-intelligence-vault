@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
-- **Modular architecture** supporting LLMops integration with evaluation metrics, safety checks, and compliance enforcement.
-- **Open-source repository** (114 stars, 14 forks) last updated June 2026, focused on secure and reliable LLM deployment.
+- **Purpose**: Framework for evaluating, securing, and implementing guardrails in Large Language Models (LLMs) within LLM operations (LLMOps).
+- **Key Features**: Supports LLM evaluation metrics, security protocols, and guardrail mechanisms to mitigate risks like hallucinations, bias, and misuse.
+- **Technical Stack**: Python-based, integrates with LLM workflows for real-time monitoring and compliance enforcement.
 
 ## Use Cases
 

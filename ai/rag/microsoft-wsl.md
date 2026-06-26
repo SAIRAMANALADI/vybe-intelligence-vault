@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/microsoft/wsl/releases
-published_at: '2026-06-26T02:00:56.402082+05:30'
-collected_at: '2026-06-26T02:00:56.402096+05:30'
+published_at: '2026-06-26T15:29:25.531636+05:30'
+collected_at: '2026-06-26T15:29:25.531663+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: github:microsoft/wsl
-first_seen: '2026-06-26T02:00:56.402096+05:30'
-last_seen: '2026-06-26T02:00:56.402096+05:30'
-last_checked: '2026-06-26T02:00:56.402096+05:30'
+first_seen: '2026-06-26T15:29:25.531663+05:30'
+last_seen: '2026-06-26T15:29:25.531663+05:30'
+last_checked: '2026-06-26T15:29:25.531663+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Kernel Updates**: WSL 2.7.x releases include kernel updates (e.g., `6.18.33.2-2`, `6.18.33.1-1`, `6.18.26.1`) addressing regressions (e.g., AMD chipset boot issues under KVM) and performance optimizations.
-
-- **Bug Fixes & Security**: Patches address critical issues such as `CreateInstance` failures due to oversized Windows hosts files, DNS over TCP instability, and CVE-2026-32178 (via .NET runtime bump to `10.0.6`).
-
-- **Infrastructure & Build Improvements**: Enhancements include Source Link integration for PDB debugging, MSI installer fixes (e.g., re-signing `wsldevicehost.dll`), and ARM64 test distro support via PRs like `#14500` and `#40055`.
+- **WSL 2.7.10** backports VHD restore fix: Passes mounting user's token to resolve permissions issue (`#40907`).
+- **WSL 2.7.9** updates kernel to `6.18.33.2-2` to fix Windows under KVM and older AMD chipset boot regression.
+- **WSL 2.7.8** resolves `CreateInstance` failure by capping Windows hosts file message size and updates kernel to `6.18.33.1-1`.
 
 ## Why It Matters
 
@@ -39,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T02:00:56.402082+05:30
+- Published: 2026-06-26T15:29:25.531636+05:30
 
 ## Related Tags
 

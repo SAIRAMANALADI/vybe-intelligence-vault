@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-26T10:12:33.606278+05:30'
+collected_at: '2026-06-26T15:24:29.503948+05:30'
 published_at: '2026-06-25T10:19:25Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
+- reddit
 stars: 1172
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-26T01:05:34Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-26T10:12:33.606278+05:30'
-last_seen: '2026-06-26T10:12:33.606278+05:30'
-last_checked: '2026-06-26T10:12:33.606278+05:30'
+first_seen: '2026-06-26T15:24:29.503948+05:30'
+last_seen: '2026-06-26T15:24:29.503948+05:30'
+last_checked: '2026-06-26T15:24:29.503948+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code deployment, ensuring scalability and adherence to Azure best practices.
-- **Python-Based**: Provides a **Python-based** solution accelerator with preconfigured components for common enterprise requirements, including data ingestion, retrieval, and LLM orchestration.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for ChatGPT-style/Q&A interactions, incorporating common requirements and best practices.
+
+- **Key Components**: Includes **Python-based** solution with **AZD templates**, leveraging **Azure AI Search** for vector/semantic search and **Azure OpenAI** for LLM-powered responses.
+
+- **Deployment**: Provides a structured accelerator with pre-configured templates for rapid deployment, updated as of **2026-06-25**.
 
 ## Why It Matters
 

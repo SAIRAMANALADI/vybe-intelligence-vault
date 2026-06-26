@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25
 hn_url: https://news.ycombinator.com/item?id=48672732
-score: 668
+score: 724
 author: virgildotcodes
-comments_count: 960
+comments_count: 1031
 published_at: '2026-06-25T18:32:56+05:30'
-collected_at: '2026-06-26T10:10:29.531489+05:30'
+collected_at: '2026-06-26T15:22:57.045546+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:apple-raises-prices-of-macbooks-ipads
 first_seen: '2026-06-25T22:54:19.562857+05:30'
-last_seen: '2026-06-26T10:10:29.531489+05:30'
-last_checked: '2026-06-26T10:10:29.531489+05:30'
+last_seen: '2026-06-26T15:22:57.045546+05:30'
+last_checked: '2026-06-26T15:22:57.045546+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by virgildotcodes. Score: 668, Comments: 960.
+Hacker News story by virgildotcodes. Score: 724, Comments: 1031.
 Original Link: https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: virgildotcodes
-- Score: 668 Upvotes
-- Comments: 960 Discussions
+- Score: 724 Upvotes
+- Comments: 1031 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48672732
 - Original Article: https://reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25
 

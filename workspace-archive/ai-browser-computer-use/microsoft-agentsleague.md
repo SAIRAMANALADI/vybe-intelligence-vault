@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- leaderboard
 - unknown
 - workflows
 selection_reason:
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges, integrating GitHub-based submissions for agentic AI development.
-- **GitHub-centric workflow**: Enables submissions, versioning, and collaboration via GitHub, facilitating structured competition and community-driven innovation.
-- **Scheduled updates**: Repository last updated on **2026-06-21**, indicating active but infrequent maintenance.
+- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges, integrating GitHub for submissions and leaderboards.
+- **GitHub-centric workflow**: Submissions, scoring, and community engagement are managed via GitHub repositories, enabling version control and collaborative development.
+- **Scheduled updates**: Last repository update recorded on **2026-06-21T13:14:15Z**, indicating ongoing or future competition phases.
 
 ## Use Cases
 

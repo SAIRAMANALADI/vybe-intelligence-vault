@@ -8,16 +8,15 @@ local_vault_path: ai/resources/tavily-ai-tavily-search-evals.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # tavily-ai/tavily-search-evals
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Public repository for executing standardized search benchmarks across multiple search providers to evaluate performance and accuracy.
-- **Technical Stack**: Implemented in Python, facilitating cross-provider compatibility and extensibility.
-- **Metadata**: No active topics, last updated May 31, 2026, with 11 stars and 0 forks.
+- **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluation metrics.
+- **Implementation**: Python-based framework for executing and comparing search evaluations, enabling reproducible testing.
+- **Metadata**: Last updated in 2026, minimal activity (11 stars, 0 forks), no associated topics.
 
 ## Use Cases
 

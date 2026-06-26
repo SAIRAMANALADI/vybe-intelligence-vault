@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: osv5m/osv5m (Likes: 54, Downloads: 1237933)
+Trending Hugging Face dataset: osv5m/osv5m (Likes: 54, Downloads: 1234017)
 
 ## Use Cases
 

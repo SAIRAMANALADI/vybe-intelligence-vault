@@ -34,8 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Breaking Changes in Keras 3**: Major updates include removal of deprecated/experimental APIs, default `jit_compile=True` (may require `jit_compile=False` for custom models), and disallowed `tf.Variable` usage as layer attributes (must use `self.add_weight()` or `keras.Variable`).
-- **TF SavedModel Compatibility**: `model.save()` no longer supports TF SavedModel format; use `tf.save_model.save(model)`. Loading SavedModel via `keras.models.load_model()` is also unsupported; use `keras.layers.T
+- **Breaking Changes in Keras 3**: Keras 3 introduces major breaking changes from Keras 2, including removal of deprecated APIs (`compat.v1`, `experimental` namespaces), default `jit_compile=True`, disallowed `tf.Variable` usage as layer attributes, and unsupported `None` entries in nested tensor arguments.
+
+- **TF-Specific Incompatibilities**: Keras 3 drops support for saving/loading TF SavedModel format via `model.save()`/`keras.models.load_model()`, requires `tf.save_model.save()` and `keras.
 
 ## Use Cases
 

@@ -14,6 +14,7 @@ tags:
 - github-repo
 - html
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository for generating `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
-- **GitHub Pages Integration**: Hosted directly via GitHub Pages, utilizing the `gh-pages` branch for deployment (implied by `.github.com` domain).
-- **Minimalist Structure**: HTML-centric with no additional frameworks, relying on Jekyll’s default asset pipeline (CSS/JS via `_includes` and `_layouts`).
+- **Static Site Generator**: Jekyll-based repository for generating the static website `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
+- **GitHub Pages Integration**: Hosted directly via GitHub Pages, utilizing GitHub Actions for automated builds and deployments.
+- **Minimalist Structure**: HTML-centric layout with no additional frameworks, relying solely on Jekyll’s default structure (`_layouts`, `_includes`, `_posts`).
 
 ## Use Cases
 

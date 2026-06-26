@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11141, Downloads: 0)
+Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11142, Downloads: 0)
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.githubstatus.com
-published_at: '2026-06-26T10:19:36.853128+05:30'
-collected_at: '2026-06-26T10:19:36.853141+05:30'
+published_at: '2026-06-26T15:29:03.389025+05:30'
+collected_at: '2026-06-26T15:29:03.389043+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-06-26T10:19:36.853141+05:30'
-last_seen: '2026-06-26T10:19:36.853141+05:30'
-last_checked: '2026-06-26T10:19:36.853141+05:30'
+first_seen: '2026-06-26T15:29:03.389043+05:30'
+last_seen: '2026-06-26T15:29:03.389043+05:30'
+last_checked: '2026-06-26T15:29:03.389043+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- GitHub Status provides real-time operational metrics and incident tracking for GitHub services, including Git Operations (99.99% uptime), Webhooks (100.0% uptime), API Requests (99.94% uptime), and Copilot (99.88% uptime) over the past 90 days.
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) for GitHub services (API, Actions, Webhooks, Copilot, etc.) via [githubstatus.com](https://www.githubstatus.com).
 
-- Recent incidents include a June 25, 2026 degradation affecting Webhooks, Pull Requests, Actions, and Issues (resolved via mitigations), and a June 17, 2026 Copilot disruption due to a routing layer misconfiguration causing Next Edit Suggestion failures.
+- **Notification Systems**: Supports multi-channel incident notifications including email, SMS (global country codes), Slack, and webhooks for automated incident tracking and resolution updates.
 
-- Notification mechanisms for GitHub incidents include email, SMS (global), Slack, and webhook integrations, with historical data accessible via Atom/RSS feeds and regional status pages (e.g., `au.githubstatus.com`, `eu.githubstatus.com`).
+- **Regional Status Monitoring**: Tracks GitHub Enterprise Cloud status by region (Australia, EU, Japan, US) with dedicated subdomains (e.g., [au.githubstatus.com](https://au.githubstatus.com)), alongside historical uptime analytics and RSS/Atom feeds.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:19:36.853128+05:30
+- Published: 2026-06-26T15:29:03.389025+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://tavily.com
-published_at: '2026-06-26T10:16:20.747822+05:30'
-collected_at: '2026-06-26T10:16:20.747832+05:30'
+published_at: '2026-06-26T15:28:08.848954+05:30'
+collected_at: '2026-06-26T15:28:08.848968+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:tavily
-first_seen: '2026-06-26T10:16:20.747832+05:30'
-last_seen: '2026-06-26T10:16:20.747832+05:30'
-last_checked: '2026-06-26T10:16:20.747832+05:30'
+first_seen: '2026-06-26T15:28:08.848968+05:30'
+last_seen: '2026-06-26T15:28:08.848968+05:30'
+last_checked: '2026-06-26T15:28:08.848968+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time web data retrieval & extraction**: Provides structured, chunked web data via API for grounding LLMs, enabling factual reasoning without hallucinations, with support for real-time search, extraction, and crawling.
+- **Real-time web data retrieval & extraction**: Provides structured, chunked web data to ground AI models with fresh context, reducing hallucinations by ensuring factual accuracy in agent responses.
 
-- **Scalable, low-latency infrastructure**: Handles thousands of queries per second with intelligent caching, indexing, and a production-grade stack, achieving **180ms p50 latency** and **99.99% uptime** at scale (300M+ monthly requests).
+- **Scalable, low-latency infrastructure**: Handles thousands of queries per second with a production-grade stack featuring real-time search, intelligent caching, and indexing, maintaining predictable latency at scale.
 
-- **Enterprise-grade security & compliance**: Enforces PII leakage prevention, prompt injection blocking, and malicious source filtering via built-in validation layers, with drop-in integration for major LLM providers (OpenAI, Anthropic, Groq).
+- **Enterprise-grade security & compliance**: Implements security layers to block PII leakage, prompt injection, and malicious sources, validated for production deployment in mission-critical systems.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T10:16:20.747822+05:30
+- Published: 2026-06-26T15:28:08.848954+05:30
 
 ## Related Tags
 

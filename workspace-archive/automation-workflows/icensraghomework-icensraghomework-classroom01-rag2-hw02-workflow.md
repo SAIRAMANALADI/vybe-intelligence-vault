@@ -14,7 +14,6 @@ tags:
 - github-repo
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), last updated 2025-09-16.
-- **Language**: Python-based workflow for RAG (Retrieval-Augmented Generation) homework assignment.
-- **Purpose**: GitHub Classroom-managed repository for RAG2 homework (HW02) workflow automation.
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks)
+- **Language**: Python-based workflow for RAG (Retrieval-Augmented Generation) tasks
+- **Last Updated**: 2025-09-16T07:09:35Z
 
 ## Use Cases
 

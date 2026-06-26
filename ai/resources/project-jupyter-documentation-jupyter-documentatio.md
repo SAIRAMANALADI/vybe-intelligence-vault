@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org/en/latest/#what-is-a-notebook
-published_at: '2026-06-26T04:27:13.700563+05:30'
-collected_at: '2026-06-26T04:27:13.700570+05:30'
+published_at: '2026-06-26T15:30:15.608559+05:30'
+collected_at: '2026-06-26T15:30:15.608575+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-26T04:27:13.700570+05:30'
-last_seen: '2026-06-26T04:27:13.700570+05:30'
-last_checked: '2026-06-26T04:27:13.700570+05:30'
+first_seen: '2026-06-26T15:30:15.608575+05:30'
+last_seen: '2026-06-26T15:30:15.608575+05:30'
+last_checked: '2026-06-26T15:30:15.608575+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter Ecosystem**: A modular framework comprising interactive notebooks (e.g., JupyterLab, Jupyter Notebook) for code execution, visualization, and documentation, centered around the IPython kernel and Jupyter Messaging Protocol (`jupyter-client`).
+- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., JupyterLab, Jupyter Notebook) that integrate code, visualizations, and narrative text in a single document format.
 
-- **Sub-Projects & Kernels**: Includes specialized tools like `nbconvert` (notebook conversion), `nbgrader` (grading), and kernels for multiple languages (e.g., IRkernel for R, IJulia for Julia), with extensible architecture via `traitlets` and `ipywidgets`.
+- **Sub-projects and kernels**: Includes specialized tools like `nbconvert` (conversion), `nbclient` (execution), `JupyterHub` (multi-user deployment), and kernels for languages beyond Python (e.g., IRkernel for R, IJulia for Julia).
 
-- **Deployment & Community**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and fosters open collaboration through governance, contributor guides, and resources like `Zero to JupyterHub` for cloud-based setups.
+- **Architecture and standards**: Defined by protocols like `jupyter-client` (messaging) and `nbformat` (notebook structure), enabling extensibility via widgets, AI integrations (e.g., `jupyter-ai`), and deployment solutions (e.g., Docker Stacks, Kubernetes).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T04:27:13.700563+05:30
+- Published: 2026-06-26T15:30:15.608559+05:30
 
 ## Related Tags
 

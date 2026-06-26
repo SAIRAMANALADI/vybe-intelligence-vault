@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-06-26T10:11:34.901209+05:30'
-collected_at: '2026-06-26T10:11:34.901222+05:30'
+published_at: '2026-06-26T15:23:36.359387+05:30'
+collected_at: '2026-06-26T15:23:36.359398+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-26T10:11:34.901222+05:30'
-last_seen: '2026-06-26T10:11:34.901222+05:30'
-last_checked: '2026-06-26T10:11:34.901222+05:30'
+first_seen: '2026-06-26T15:23:36.359398+05:30'
+last_seen: '2026-06-26T15:23:36.359398+05:30'
+last_checked: '2026-06-26T15:23:36.359398+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, embedding, retrieval, and output generation), supporting multi-language (Python, JS/TS) and integrations with providers like OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embeddings, retrieval, output generation) and integrations with providers like OpenAI, Hugging Face, and Azure; supports Python, JavaScript, and TypeScript.
 
-- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring automated chunking, hybrid retrieval (dense + sparse), and evaluation tools for production-grade RAG systems.
+- **RAGFlow**: Open-source RAG engine optimized for enterprise-grade document processing, featuring advanced OCR, multi-modal retrieval, and fine-grained chunking for high-precision context augmentation in LLMs.
 
-- **LlamaIndex**: Data framework for RAG applications, providing tools for indexing, querying, and evaluating knowledge bases, with support for advanced retrieval techniques (e.g., sub-question decomposition, multi-modal retrieval).
+- **LLMWare**: Lightweight RAG framework designed for rapid prototyping and deployment, offering pre-built pipelines for document ingestion, vector search, and LLM response generation with minimal configuration overhead.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:11:34.901209+05:30
+- Published: 2026-06-26T15:23:36.359387+05:30
 
 ## Related Tags
 

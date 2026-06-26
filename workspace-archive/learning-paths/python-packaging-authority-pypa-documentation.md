@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **PyPA Overview**: The Python Packaging Authority (PyPA) is a working group that maintains core Python packaging tools, including `pip`, `setuptools`, and `twine`, enabling packaging, distribution, and installation of Python software via repositories like PyPI.
+- **PyPA Overview**: The Python Packaging Authority (PyPA) is a working group maintaining core Python packaging tools, including `pip` for PyPI interactions, and publishes the [Python Packaging User Guide](https://packaging.python.org) as the authoritative resource for packaging, publishing, and installing Python projects.
 
-- **Documentation & Governance**: PyPA publishes the [Python Packaging User Guide](https://packaging.python.org), the authoritative resource for modern Python packaging workflows, and hosts projects on [GitHub](https://github.com/pypa)
+- **Key Projects & Resources**: PyPA hosts projects on [GitHub](https://github.com/pypa), discusses issues on [discuss.python.org](https://discuss.python.org/c/packaging), an
 
 ## Use Cases
 

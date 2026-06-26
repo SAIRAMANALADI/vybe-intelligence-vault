@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by scrlk. Score: 155, Comments: 115.
+Hacker News story by scrlk. Score: 260, Comments: 255.
 Original Link: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true
 
 ## Use Cases

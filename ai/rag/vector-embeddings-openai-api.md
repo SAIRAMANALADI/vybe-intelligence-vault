@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-06-26T04:20:30.000584+05:30'
-collected_at: '2026-06-26T04:20:30.000594+05:30'
+published_at: '2026-06-26T15:26:52.799878+05:30'
+collected_at: '2026-06-26T15:26:52.799893+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-06-26T04:20:30.000594+05:30'
-last_seen: '2026-06-26T04:20:30.000594+05:30'
-last_checked: '2026-06-26T04:20:30.000594+05:30'
+first_seen: '2026-06-26T15:26:52.799893+05:30'
+last_seen: '2026-06-26T15:26:52.799893+05:30'
+last_checked: '2026-06-26T15:26:52.799893+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D vectors, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, ~9.6k pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between vector size and performance.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim vectors, ~62,500 pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim vectors, ~9,615 pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs between performance and cost.
 
-- **API Integration**: Embeddings are generated via API calls (e.g., `POST /v1/embeddings`) with input text tokenized and billed per token; responses include normalized float vectors (default 1536/3072D) and metadata (e.g., `prompt_tokens`).
+- **API Integration**: Embeddings are generated via `/v1/embeddings` endpoint using input text and model ID; response includes vectorized embeddings (floating-point lists) and metadata (e.g., token usage), with cosine similarity used for downstream tasks like search/clustering.
 
-- **Use Cases & Techniques**: Embeddings enable semantic search (cosine similarity), clustering, recommendation systems, and anomaly detection; dimension reduction (e.g., to 256D) via `dimensions` or manual truncation (with L2 normalization) optimizes storage/compute without significant accuracy loss.
+- **Use Case Flexibility**: Embeddings enable multilingual semantic search, recommendation systems, anomaly detection, and ML feature encoding; dimensionality can be manually truncated/normalized (e.g., L2 normalization) for compatibility with vector databases or reduced compute costs.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:20:30.000584+05:30
+- Published: 2026-06-26T15:26:52.799878+05:30
 
 ## Related Tags
 

@@ -13,6 +13,8 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -33,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates Langchain-based RAG pipeline leveraging locally hosted LLMs for privacy and cost efficiency, with configurable model parameters (e.g., temperature, context window).
-
-- **Dynamic Database Updates**: Implements automated ingestion pipelines for updating vector stores (e.g., Chroma, FAISS) with new documents via Langchain’s `Document` loaders and embedding models (e.g., `sentence-transformers`).
-
-- **Testing Framework**: Includes unit/integration tests for
+- **Local LLM Integration**: Demonstrates a refined RAG pipeline using local language models (e.g., Ollama, LM Studio) for offline inference, reducing dependency on cloud APIs.
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, Qdrant) refresh mechanisms to incorporate new documents without full re-indexing.
+- **Testing Framework**: Includes structured evaluation metrics (e.g., retrieval precision, answer correctness) and unit tests for RAG components (embedding,
 
 ## Use Cases
 

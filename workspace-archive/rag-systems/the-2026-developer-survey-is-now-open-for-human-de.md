@@ -3,7 +3,7 @@ title: The 2026 Developer Survey is now open (for human developers only)! - Stac
   Overflow
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only
+source_url: https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only/
 resource_id: blog:the-2026-developer-survey-is-now-open-for-human-de
 local_vault_path: ai/rag/the-2026-developer-survey-is-now-open-for-human-de.md
 quality_score: 70
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Survey Focus**: Stack Overflow's 2026 Developer Survey targets human developers to assess evolving software development trends, emphasizing AI agent adoption, usage patterns, and trust metrics in the development lifecycle.
-- **AI Integration**: Highlights AI agent usage doubling since 2025, with growing concerns about AI-generated code quality and developer decision fatigue in AI-assisted workflows.
-- **Survey Logistics**: Conducted via Qualtrics, with regional restrictions (e.g., Cuba, Iran
+- **Survey Focus**: Stack Overflow's 2026 Developer Survey targets human developers to assess evolving software development trends, including AI agent adoption, trust metrics, and lifecycle integration, while retaining classic questions on tools and work conditions.
+
+- **AI & Agent Insights**: AI tool usage has doubled since 2025, but developer skepticism persists; survey aims to quantify AI's role in development workflows and ROI implications amid growing concerns.
+
+- **Access & Participation**
 
 ## Use Cases
 
@@ -46,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only
+Original source URL: https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only/
 
 ## Local Vault File
 

@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 171 resources matched in the intelligence vault.
+Active signals: 172 resources matched in the intelligence vault.
 Recently detected signals:
+- [Project Fugu API Showcase | Capabilities | Chrome for Developers](../ai/rag/project-fugu-api-showcase-capabilities-chrome-for.md) (Source: Unknown Source) - Collected 2026-06-26
+- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-26
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-26
 - [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-26
 - [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) (Source: Unknown Source) - Collected 2026-06-26
-- [SuboptimalEng/slime-sim-webgpu](../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) (Source: Unknown Source) - Collected 2026-06-26
-- [gnikoloff/webgpu-raytracer](../web-development/webgpu/gnikoloff-webgpu-raytracer.md) (Source: Unknown Source) - Collected 2026-06-26
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -56,40 +56,40 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: Mario343214420/Webgl-Data-Demo
 
-### 6. [coldi/r3f-game-demo](../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([GitHub](https://github.com/coldi/r3f-game-demo))
+### 6. [fireship-io/threejs-scroll-animation-demo](../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([GitHub](https://github.com/fireship-io/threejs-scroll-animation-demo))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: fireship-io/threejs-scroll-animation-demo
+
+### 7. [coldi/r3f-game-demo](../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([GitHub](https://github.com/coldi/r3f-game-demo))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: coldi/r3f-game-demo
 
-### 7. [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([GitHub](https://github.com/emmelleppi/r3f-cheers))
+### 8. [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([GitHub](https://github.com/emmelleppi/r3f-cheers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: emmelleppi/r3f-cheers
-
-### 8. [fireship-io/threejs-scroll-animation-demo](../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([GitHub](https://github.com/fireship-io/threejs-scroll-animation-demo))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: fireship-io/threejs-scroll-animation-demo
 
 ### 9. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([GitHub](https://github.com/juniorxsound/r3f.multiplayer))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: juniorxsound/R3F.Multiplayer
 
-### 10. [emmelleppi/codrops-r3f-mirrors](../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([GitHub](https://github.com/emmelleppi/codrops-r3f-mirrors))
+### 10. [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md) ([GitHub](https://github.com/gkjohnson/threejs-sandbox))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: gkjohnson/threejs-sandbox
+
+### 11. [emmelleppi/codrops-r3f-mirrors](../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([GitHub](https://github.com/emmelleppi/codrops-r3f-mirrors))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: emmelleppi/codrops-r3f-mirrors
 
-### 11. [wass08/r3f-ultimate-character-configurator](../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([GitHub](https://github.com/wass08/r3f-ultimate-character-configurator))
+### 12. [wass08/r3f-ultimate-character-configurator](../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([GitHub](https://github.com/wass08/r3f-ultimate-character-configurator))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wass08/r3f-ultimate-character-configurator
-
-### 12. [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md) ([GitHub](https://github.com/gkjohnson/threejs-sandbox))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: gkjohnson/threejs-sandbox
 
 ### 13. [ykob/sketch-threejs](../web-development/threejs/ykob-sketch-threejs.md) ([GitHub](https://github.com/ykob/sketch-threejs))
 - Stars: 0
@@ -111,60 +111,60 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: gsimone/r3f-bubbles
 
-### 17. [pmndrs/react-three-fiber](../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-fiber
-
-### 18. [14islands/r3f-scroll-rig](../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([GitHub](https://github.com/14islands/r3f-scroll-rig))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: 14islands/r3f-scroll-rig
-
-### 19. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md) ([GitHub](https://github.com/mrdoob/three.js))
+### 17. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js.md) ([GitHub](https://github.com/mrdoob/three.js))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mrdoob/three.js
 
-### 20. [davidlyons/threejs-intro](../web-development/threejs/davidlyons-threejs-intro.md) ([GitHub](https://github.com/davidlyons/threejs-intro))
+### 18. [davidlyons/threejs-intro](../web-development/threejs/davidlyons-threejs-intro.md) ([GitHub](https://github.com/davidlyons/threejs-intro))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: davidlyons/threejs-intro
 
-### 21. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
+### 19. [pmndrs/react-three-fiber](../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/react-three-fiber
+
+### 20. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: dhruvmisra/Pathfinding-Visualizer-ThreeJS
 
-### 22. [fritx/vue-threejs](../web-development/threejs/fritx-vue-threejs.md) ([GitHub](https://github.com/fritx/vue-threejs))
+### 21. [fritx/vue-threejs](../web-development/threejs/fritx-vue-threejs.md) ([GitHub](https://github.com/fritx/vue-threejs))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: fritx/vue-threejs
 
-### 23. [gsimone/awesome-react-three-fiber](../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([GitHub](https://github.com/gsimone/awesome-react-three-fiber))
+### 22. [14islands/r3f-scroll-rig](../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([GitHub](https://github.com/14islands/r3f-scroll-rig))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: gsimone/awesome-react-three-fiber
+- Description: Repository: 14islands/r3f-scroll-rig
 
-### 24. [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([GitHub](https://github.com/tiagocavalcante/r3f-native-orbitcontrols))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: TiagoCavalcante/r3f-native-orbitcontrols
-
-### 25. [xiao149/ThreeJsDemo](../web-development/threejs/xiao149-threejsdemo.md) ([GitHub](https://github.com/xiao149/threejsdemo))
+### 23. [xiao149/ThreeJsDemo](../web-development/threejs/xiao149-threejsdemo.md) ([GitHub](https://github.com/xiao149/threejsdemo))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: xiao149/ThreeJsDemo
 
-### 26. [wechat-miniprogram/threejs-miniprogram](../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([GitHub](https://github.com/wechat-miniprogram/threejs-miniprogram))
+### 24. [wechat-miniprogram/threejs-miniprogram](../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([GitHub](https://github.com/wechat-miniprogram/threejs-miniprogram))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wechat-miniprogram/threejs-miniprogram
 
-### 27. [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) ([GitHub](https://github.com/josdirksen/learning-threejs-third))
+### 25. [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) ([GitHub](https://github.com/josdirksen/learning-threejs-third))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: josdirksen/learning-threejs-third
+
+### 26. [gsimone/awesome-react-three-fiber](../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([GitHub](https://github.com/gsimone/awesome-react-three-fiber))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: gsimone/awesome-react-three-fiber
+
+### 27. [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([GitHub](https://github.com/tiagocavalcante/r3f-native-orbitcontrols))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: TiagoCavalcante/r3f-native-orbitcontrols
 
 ### 28. [z2586300277/three-cesium-examples](../web-development/threejs/z2586300277-three-cesium-examples.md) ([GitHub](https://github.com/z2586300277/three-cesium-examples))
 - Stars: 0
@@ -216,60 +216,60 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: benjaminmiles/react-three-vite
 
-### 38. [pmndrs/react-postprocessing](../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([GitHub](https://github.com/pmndrs/react-postprocessing))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-postprocessing
-
-### 39. [vasturiano/3d-force-graph](../web-development/threejs/vasturiano-3d-force-graph.md) ([GitHub](https://github.com/vasturiano/3d-force-graph))
+### 38. [vasturiano/3d-force-graph](../web-development/threejs/vasturiano-3d-force-graph.md) ([GitHub](https://github.com/vasturiano/3d-force-graph))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: vasturiano/3d-force-graph
 
-### 40. [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula.md) ([GitHub](https://github.com/creativelifeform/three-nebula))
+### 39. [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula.md) ([GitHub](https://github.com/creativelifeform/three-nebula))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: creativelifeform/three-nebula
 
-### 41. [spite/Wagner](../web-development/threejs/spite-wagner.md) ([GitHub](https://github.com/spite/wagner))
+### 40. [spite/Wagner](../web-development/threejs/spite-wagner.md) ([GitHub](https://github.com/spite/wagner))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: spite/Wagner
 
-### 42. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
+### 41. [pmndrs/react-postprocessing](../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([GitHub](https://github.com/pmndrs/react-postprocessing))
 - Stars: 0
 - Language: Unknown
-- Description: Repository: pmndrs/drei
+- Description: Repository: pmndrs/react-postprocessing
 
-### 43. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/uikit
-
-### 44. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-flex
-
-### 45. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/triplex
-
-### 46. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
+### 42. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mkkellogg/GaussianSplats3D
 
-### 47. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
+### 43. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pixiv/three-vrm
 
-### 48. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+### 44. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wolfwind521/indoor3D
+
+### 45. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/drei
+
+### 46. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/uikit
+
+### 47. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/react-three-flex
+
+### 48. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/triplex
 
 ### 49. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-26T10:26:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-26T15:38:29.195924+05:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

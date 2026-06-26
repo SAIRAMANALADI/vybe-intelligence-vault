@@ -8,7 +8,7 @@ local_vault_path: ai/rag/awesome-opencode-awesome-opencode.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: api
 importance: medium
 tags:
 - agents
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: api
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository aggregating plugins, themes, agents, projects, and resources specifically for [opencode.ai](https://opencode.ai), structured as a community-driven "awesome" list.
-- **Technical Stack**: Primarily implemented in JavaScript, leveraging GitHub's platform for version control, issue tracking, and collaborative contributions.
-- **High Engagement Metrics**: Maintains 8,341 stars and 592 forks as of the last update (2026-06-25), indicating strong community
+- **Curated Resource Hub**: Aggregates plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as a community-driven repository.
+- **Technical Stack**: Primarily developed in JavaScript, leveraging modern web technologies for extensibility and integration.
+- **High Activity Metrics**: Maintains 8,351 stars and 596 forks, indicating strong community engagement and rapid updates (last synced: 2026-06-26).
 
 ## Use Cases
 

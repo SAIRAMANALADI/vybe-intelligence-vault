@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://jan-herlyn.com/blog/doing-a-masters-while-working
 hn_url: https://news.ycombinator.com/item?id=48627027
-score: 6
+score: 45
 author: MHard
-comments_count: 0
+comments_count: 22
 published_at: '2026-06-22T13:14:03+05:30'
-collected_at: '2026-06-26T10:10:29.122310+05:30'
+collected_at: '2026-06-26T15:22:56.084426+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:doing-a-masters-while-working-in-spain
 first_seen: '2026-06-26T10:10:29.122310+05:30'
-last_seen: '2026-06-26T10:10:29.122310+05:30'
-last_checked: '2026-06-26T10:10:29.122310+05:30'
+last_seen: '2026-06-26T15:22:56.084426+05:30'
+last_checked: '2026-06-26T15:22:56.084426+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by MHard. Score: 6, Comments: 0.
+Hacker News story by MHard. Score: 45, Comments: 22.
 Original Link: https://jan-herlyn.com/blog/doing-a-masters-while-working/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: MHard
-- Score: 6 Upvotes
-- Comments: 0 Discussions
+- Score: 45 Upvotes
+- Comments: 22 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48627027
 - Original Article: https://jan-herlyn.com/blog/doing-a-masters-while-working
 

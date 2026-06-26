@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-26T10:13:03.547395+05:30'
+collected_at: '2026-06-26T15:25:04.478885+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-26T10:13:03.547395+05:30'
-last_seen: '2026-06-26T10:13:03.547395+05:30'
-last_checked: '2026-06-26T10:13:03.547395+05:30'
+first_seen: '2026-06-26T15:25:04.478885+05:30'
+last_seen: '2026-06-26T15:25:04.478885+05:30'
+last_checked: '2026-06-26T15:25:04.478885+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems with customizable components (e.g., embedders, retrievers, LLMs) via a modular architecture.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Optimized Retrieval & Generation**: Implements advanced techniques for data preprocessing, vector indexing (e.g., FAISS, Chroma), and retrieval tuning to enhance context relevance and generation quality in RAG workflows.
+- **Performance Optimization**: Implements techniques like dynamic chunking, hybrid retrieval (dense + sparse), and reranking to enhance retrieval accuracy and reduce latency in end-to-end RAG applications.
 
-- **Scalability & Deployment**: Supports scalable RAG deployments with built-in integration for cloud services (e.g., AWS, GCP) and APIs, enabling seamless transition from development to production environments.
+- **Scalability & Deployment**: Supports distributed indexing (e.g., FAISS, Milvus) and integrates with cloud-native tools (e.g., Docker, Kubernetes) for scalable, production-ready deployments across environments.
 
 ## Why It Matters
 

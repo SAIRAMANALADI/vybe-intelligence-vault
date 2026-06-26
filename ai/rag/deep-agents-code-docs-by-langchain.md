@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-26T10:15:23.550464+05:30'
-collected_at: '2026-06-26T10:15:23.550478+05:30'
+published_at: '2026-06-26T15:27:24.788080+05:30'
+collected_at: '2026-06-26T15:27:24.788090+05:30'
 tags:
 - agents
 - anthropic
@@ -13,15 +13,14 @@ tags:
 - openai
 - producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-26T10:15:23.550478+05:30'
-last_seen: '2026-06-26T10:15:23.550478+05:30'
-last_checked: '2026-06-26T10:15:23.550478+05:30'
+first_seen: '2026-06-26T15:27:24.788090+05:30'
+last_seen: '2026-06-26T15:27:24.788090+05:30'
+last_checked: '2026-06-26T15:27:24.788090+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory, customizable skills, and approval-gated code execution.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for behavior adaptation.
 
-- **Core Capabilities**: Includes file operations (read/write/edit), shell execution (with human-in-the-loop approval), web search (via Tavily API), task planning, subagents, memory storage/retrieval, MCP tool integration, and LangSmith tracing for observability.
+- **Human-in-the-Loop & Safety Controls**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) with optional auto-approve (`-y`/`--auto-approve`), configurable allowlists (`--shell-allow-list`), and remote sandbox execution for isolation.
 
-- **CLI Features**: Supports interactive/non-interactive modes, remote sandboxes, auto-approval toggles, startup commands, and granular control via `--shell-allow-list`, `--sandbox`, and `--mcp-config` flags for secure, extensible automation.
+- **Advanced Tooling & Observability**: Includes built-in tools for file operations, web search (Tavily), subagents, and MCP integration, with LangSmith tracing for debugging and observability via environment variables (`LANGSMITH_TRACING=true`).
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:15:23.550464+05:30
+- Published: 2026-06-26T15:27:24.788080+05:30
 
 ## Related Tags
 
@@ -53,7 +52,6 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
 - youtube

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -30,15 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Layout-aware parsing** with support for 90+ formats, enabling extraction of structured data from complex layouts (headers, footers, split sections) while maintaining context.
-- **Multimodal processing** combining OCR, layout analysis, and multimodal LLMs to extract and interpret data from tables, charts, handwriting, checkboxes, and images into clean markdown.
-- **Scalable, enterprise-grade solution** with granular parsing modes, multilingual support (100+ languages), and local/cloud deploym
+- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately interpret complex document structures, including headers, footers, multi-column layouts, and split sections, ensuring precise extraction of hierarchical content.
+
+- **Multimodal and multilingual support**: Processes 90+ document formats (PDFs, scans, images, etc.) with embedded tables, charts, and handwriting, while supporting 100+ languages out-of-the-box for global applications.
+
+- **Scalable, enterprise-grade
 
 ## Use Cases
 

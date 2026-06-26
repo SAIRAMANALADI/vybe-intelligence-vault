@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-26T10:13:18.594811+05:30'
+collected_at: '2026-06-26T15:25:19.499004+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-26T10:13:18.594811+05:30'
-last_seen: '2026-06-26T10:13:18.594811+05:30'
-last_checked: '2026-06-26T10:13:18.594811+05:30'
+first_seen: '2026-06-26T15:25:19.499004+05:30'
+last_seen: '2026-06-26T15:25:19.499004+05:30'
+last_checked: '2026-06-26T15:25:19.499004+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a memory-based multi-agent framework for graph retrieval-augmented generation (GraphRAG), enabling collaborative knowledge synthesis and reasoning over graph-structured data.
+- **Memory-Based Multi-Agent Framework**: Introduces a novel **memory-augmented multi-agent system** where agents dynamically construct and query **knowledge graphs (KGs)** for retrieval-augmented generation (RAG), leveraging agent-specific memory for adaptive reasoning.
 
-- **Graph & Ontology Construction**: Dynamically constructs and maintains graph structures and ontologies from input data, facilitating efficient retrieval and augmentation of contextual information for generation tasks.
+- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships between entities, enabling structured knowledge retrieval and reasoning while maintaining scalability via modular agent interactions.
 
-- **Python Implementation**: Provides a Python-based implementation with modular components for agent-memory integration, graph operations, and ontology-driven retrieval, optimized for scalability and adaptability.
+- **KDD 2026 Contribution**: Proposes **MemGraphRAG** as a first-of-its-kind system integrating **agent memory, graph-based RAG, and ontology alignment**, validated on benchmark tasks to demonstrate superior performance in complex knowledge-intensive scenarios.
 
 ## Why It Matters
 

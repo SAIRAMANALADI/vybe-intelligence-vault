@@ -6,18 +6,18 @@ source_url: https://github.com/bangoc123/retrieval-backend-with-rag
 resource_id: github:bangoc123/retrieval-backend-with-rag
 local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
-archive_score: 79
-archive_tier: useful
-resource_kind: framework
-importance: medium
+archive_score: 91
+archive_tier: essential
+resource_kind: benchmark
+importance: high
 tags:
 - github-repo
-- hackernews
+- models
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # bangoc123/retrieval-backend-with-rag
@@ -25,19 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 91 (essential)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG Implementation for Vietnamese**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and LLMs for contextual retrieval.
+- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing** using Python, leveraging vector databases and embedding models tailored for Vietnamese text.
 
-- **Technical Stack**: Utilizes Python with frameworks/libraries such as LangChain, FAISS (for vector search), and Hugging Face Transformers for embedding and generation tasks.
+- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **embedding fine-tuning**, and **retrieval optimization** for low-resource languages.
 
-- **Deployment & Scalability**: Includes Dockerized setup for containerized deployment, with modular com
+- Provides a **production-ready backend** with **FastAPI integration**, supporting **dynamic document ingestion**, **semant
 
 ## Use Cases
 

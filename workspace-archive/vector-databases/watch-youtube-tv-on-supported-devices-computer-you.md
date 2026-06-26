@@ -2,14 +2,14 @@
 title: Watch YouTube TV on supported devices - Computer - YouTube TV Help
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
+source_url: https://support.google.com/youtubetv/answer/7129767?visit_id=638288444130677992-263304352&p=NFL_Sunday_Ticket_YTV_Devices&rd=1
 resource_id: blog:watch-youtube-tv-on-supported-devices-computer-you
 local_vault_path: ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md
 quality_score: 70
-archive_score: 70
+archive_score: 80
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - rag
 - reddit
@@ -24,17 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Supported Platforms**: YouTube TV is compatible with computers (Chrome, Firefox, Safari), smart TVs (LG 2017+, Samsung 2017+, Roku TV, Vizio SmartCast, Hisense select models, Fire TV Edition), streaming devices (Apple TV 4th Gen+, Chromecast, Roku devices, Fire TV Stick/4K/Cube, TiVo Stream 4K, Xfinity Flex), and XR devices (Android XR, Meta Quest 2+, Pico, Apple Vision Pro).
+- **Supported Platforms**: YouTube TV is officially supported on select **smart TVs** (LG 2017+, Samsung 2017+, Roku TV, Hisense/Vizio select models), **streaming devices** (Apple TV 4th Gen+, Chromecast w/ Google TV, Fire TV Stick/4K/Cube, Roku Ultra/LT/Express+, TiVo Stream 4K, Xfinity Flex), **game consoles** (PS4/PS5, Xbox One/S/X), and **XR devices** (Meta Quest 2+, Pico, Apple Vision Pro via YouTube XR app).
 
-- **System Requirements & Troubleshooting**:
-  - **Computers**: Requires latest Chrome, Firefox, or Safari; external
+- **System Requirements**: Requires **Chrome, Firefox, or Safari** (latest versio
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745
+Original source URL: https://support.google.com/youtubetv/answer/7129767?visit_id=638288444130677992-263304352&p=NFL_Sunday_Ticket_YTV_Devices&rd=1
 
 ## Local Vault File
 

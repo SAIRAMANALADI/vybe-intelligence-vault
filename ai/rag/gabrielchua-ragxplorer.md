@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-26T10:12:08.540150+05:30'
+collected_at: '2026-06-26T15:24:09.411253+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
 - jupyter notebook
+- models
 - rag
-- scripts
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-26T10:12:08.540150+05:30'
-last_seen: '2026-06-26T10:12:08.540150+05:30'
-last_checked: '2026-06-26T10:12:08.540150+05:30'
+first_seen: '2026-06-26T15:24:09.411253+05:30'
+last_seen: '2026-06-26T15:24:09.411253+05:30'
+last_checked: '2026-06-26T15:24:09.411253+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook application designed for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling users to interactively explore model outputs, retrieval mechanisms, and performance metrics.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data flows.
 
-- **Streamlit-Powered Interface**: Integrates Streamlit for a web-based, user-friendly dashboard to dynamically visualize RAG components (e.g., retrieval quality, context relevance, latency) with interactive plots, tables, and debugging tools.
+- **Tech Stack**: Built with Python, leveraging Streamlit for interactive UI, designed for real-time analysis of RAG components (retrievers, LLMs, prompts) with modular notebook-based architecture.
 
-- **Modular & Extensible**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python scripts, with built-in metrics (e.g., faithfulness, answer relevance) and compatibility with popular libraries (e.g., LangChain, FAISS). Last updated June 2026.
+- **Features**: Supports visualization of retrieval quality, latency metrics, and hallucination detection; integrates with common RAG frameworks (e.g., LangChain) for end-to-end pipeline debugging and optimization.
 
 ## Why It Matters
 

@@ -1,5 +1,5 @@
 ---
-title: 'langchain-ai/langchain Release: langchain-openrouter==0.2.4'
+title: 'langchain-ai/langchain Release: langchain-fireworks==1.4.3'
 archive_category: model-providers
 source_category: ai/releases
 source_url: https://github.com/langchain-ai/langchain
@@ -20,7 +20,7 @@ selection_reason:
 - Active open-source repository
 ---
 
-# langchain-ai/langchain Release: langchain-openrouter==0.2.4
+# langchain-ai/langchain Release: langchain-fireworks==1.4.3
 
 ## Why This Is In The Archive
 
@@ -33,12 +33,12 @@ selection_reason:
 
 ## Summary
 
-Changes since langchain-openrouter==0.2.3
+Changes since langchain-fireworks==1.4.2
 
-release(openrouter): 0.2.4 (#38381)
-chore(openrouter): bump `openrouter` floor to 0.9.2, drop file workaround (#38216)
-test(openrouter): cover `cache_control` passthrough on tool defs (#38215)
-feat(openrouter): surface `parallel_tool_calls` on `bind_tools` ...
+release(fireworks): 1.4.3
+chore: bump vcrpy from 8.1.1 to 8.2.1 in /libs/partners/fireworks (#38314)
+chore: bump langsmith from 0.8.16 to 0.8.18 in /libs/partners/fireworks (#38313)
+chore: bump langsmith from 0.8.14 to 0.8.16 in /libs/partners/fireworks (#38...
 
 ## Use Cases
 

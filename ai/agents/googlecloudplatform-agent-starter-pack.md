@@ -4,18 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/googlecloudplatform/agent-starter-pack
-collected_at: '2026-06-25T22:54:20.166888+05:30'
-published_at: '2026-06-25T15:38:33Z'
+collected_at: '2026-06-26T15:22:55.441850+05:30'
+published_at: '2026-06-26T09:42:10Z'
 tags:
 - agents
 - benchmark
-stars: 6494
+stars: 6495
 language: Python
 status: active
 resource_id: github:googlecloudplatform/agent-starter-pack
 first_seen: '2026-06-18T23:35:18.966667+05:30'
-last_seen: '2026-06-25T22:54:20.166888+05:30'
-last_checked: '2026-06-25T22:54:20.166888+05:30'
+last_seen: '2026-06-26T15:22:55.441850+05:30'
+last_checked: '2026-06-26T15:22:55.441850+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: GoogleCloudPlatform
-- Stars: 6494
+- Stars: 6495
 - Forks: 1492
 - Language: Python
 - Topics: agents, gcp, gemini, genai-agents, generative-ai, llmops, mlops, observability
-- Last Updated: 2026-06-25T15:38:33Z
+- Last Updated: 2026-06-26T09:42:10Z
 
 ## Possible Use Cases
 

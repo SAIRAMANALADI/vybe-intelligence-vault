@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 selection_reason:
@@ -35,10 +36,8 @@ selection_reason:
 ## Summary
 
 - **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-
-- **Implementation**: Provided as Jupyter Notebooks, enabling reproducible experimentation and modular benchmarking of RAG pipelines.
-
-- **Evaluation Scope**: Covers multi-dimensional metrics (e.g., factuality, robustness, efficiency) to analyze RAG models under varying conditions (e.g., noise, domain shifts).
+- **Technical Components**: Implemented in Jupyter Notebooks, likely includes metrics for retrieval quality, generation accuracy, and end-to-end RAG pipeline efficiency.
+- **Benchmark Scope**: Covers multiple dimensions (e.g., factuality, robustness, latency) to provide a holistic assessment of RAG models, with updates as o
 
 ## Use Cases
 

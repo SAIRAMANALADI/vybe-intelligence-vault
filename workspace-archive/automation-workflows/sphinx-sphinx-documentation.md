@@ -2,7 +2,7 @@
 title: Sphinx — Sphinx documentation
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://www.sphinx-doc.org
+source_url: https://www.sphinx-doc.org/
 resource_id: blog:sphinx-sphinx-documentation
 local_vault_path: ai/resources/sphinx-sphinx-documentation.md
 quality_score: 70
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Documentation Generation**: Sphinx converts reStructuredText or MyST Markdown into structured technical documents with support for tables, code blocks, math notations, and cross-references across projects via `intersphinx`.
-
-- **Multi-Format Output & Extensibility**: Supports HTML, LaTeX (PDF), ePub, Texinfo, and more, with built-in/third-party themes and extensions for custom functionality (e.g., API docs via `autodoc`).
-
-- **Automated & Internationalized Workflows**: Generates API document
+- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via `intersphinx`.
+- **Multi-Format Output**: Generates documentation in HTML, LaTeX (PDF), ePub, Texinfo, and other formats using configurable builders, with extensive theme support (built-in/third-party) and customization options.
+- **Extensible & Automated**: Provides robust ex
 
 ## Use Cases
 
@@ -46,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.sphinx-doc.org
+Original source URL: https://www.sphinx-doc.org/
 
 ## Local Vault File
 

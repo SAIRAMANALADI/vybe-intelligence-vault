@@ -3,17 +3,17 @@ title: 'Medium: Read and write stories.'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://medium.com/
-published_at: '2026-06-25T16:42:13.383125+05:30'
-collected_at: '2026-06-25T16:42:13.383132+05:30'
+source_url: https://medium.com
+published_at: '2026-06-26T15:28:38.050386+05:30'
+collected_at: '2026-06-26T15:28:38.050399+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-read-and-write-stories
-first_seen: '2026-06-25T16:42:13.383132+05:30'
-last_seen: '2026-06-25T16:42:13.383132+05:30'
-last_checked: '2026-06-25T16:42:13.383132+05:30'
+first_seen: '2026-06-26T15:28:38.050399+05:30'
+last_seen: '2026-06-26T15:28:38.050399+05:30'
+last_checked: '2026-06-26T15:28:38.050399+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`) and content delivery (`/sitemap.xml`), with OAuth2-based session management for secure access.
+- Medium is a content publishing platform leveraging a subscription-based membership model (`/membership`) with OAuth2 authentication for user sign-in (`/signin`) and registration (`/write`).
 
-- The platform supports dynamic content rendering via CDN-optimized media endpoints (e.g., `miro.medium.com/v2/format:webp`) and client-side JavaScript for progressive loading of stories and user-generated content.
+- The platform supports structured content delivery via XML sitemaps (`/sitemap.xml`) and provides API-driven text-to-speech conversion (`speechify.com/medium`).
 
-- Medium enforces content moderation and monetization policies through a combination of client-side validation (e.g., `medium-rules-30e5502c4eb4`) and server-side policy checks (e.g., `medium-terms-of-service-9db0094a1e0f`), with additional integrations for accessibility (e.g., `speechify.com/medium`).
+- Medium enforces content governance through a dedicated ruleset (`/rules`) and terms of service (`/terms-of-service`), while operational transparency is maintained via a public status page (`/status`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:42:13.383125+05:30
+- Published: 2026-06-26T15:28:38.050386+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://medium.com/
+Original source: https://medium.com

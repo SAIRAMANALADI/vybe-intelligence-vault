@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed by applying and composing functions, avoiding imperative state mutations in favor of expression-based trees mapping inputs to outputs.
+- **Paradigm Definition**: Functional programming is a declarative paradigm where programs are constructed by applying and composing functions, treating them as first-class entities (bindable, passable, and returnable like data types).
 
-- **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
+- **Core Principle**: Emphasizes pure functions—deterministic, side-effect-free mappings from inputs to outputs—avoiding mutable state and imperative side effects to reduce bugs and improve testability.
 
-- **Pure vs. Impure Functions**:
+- **Modular Composition**: Enables declarative, composable,
 
 ## Use Cases
 

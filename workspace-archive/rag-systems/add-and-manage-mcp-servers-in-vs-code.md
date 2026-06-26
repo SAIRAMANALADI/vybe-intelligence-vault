@@ -16,6 +16,7 @@ tags:
 - rag
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Integration**: VS Code supports Model Context Protocol (MCP) servers for AI model integration with external tools/services (e.g., file ops, databases, APIs), enabling resource, prompt, and interactive app provisioning via standardized protocol.
+- **MCP Servers**: Visual Studio Code integrates with [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers to provide AI models with external tools (e.g., file ops, databases, APIs) via standardized interfaces, enabling secure, extensible AI-driven workflows.
 
-- **Server Management**: MCP servers can be installed globally (user profile) or per-workspace (`.vscode/mcp.json`), with trust verification required for local servers; configurations support environment variables for sensitive data (e.g., API ke
+- **Configuration & Trust**: MCP servers are configured via `mcp.json` (workspace/user-level), with support for remote execution, input variables for secrets, and explicit trust validation to mitigate arbitrary code exe
 
 ## Use Cases
 

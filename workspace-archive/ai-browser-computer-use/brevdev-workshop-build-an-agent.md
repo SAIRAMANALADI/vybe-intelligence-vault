@@ -8,13 +8,14 @@ local_vault_path: ai/agents/brevdev-workshop-build-an-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `brevdev/workshop-build-an-agent` focused on building AI agents, with 108 stars and 72 forks.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks for implementation and demonstration.
-- **Last Activity**: Last updated on June 24, 2026, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository `brevdev/workshop-build-an-agent` contains Jupyter Notebooks focused on building an AI agent, last updated on June 24, 2026.
+- **Metrics**: 108 stars and 72 forks, indicating moderate community engagement.
+- **Technical Stack**: Primarily uses Jupyter Notebooks, suggesting an interactive, educational, or prototyping-oriented workflow.
 
 ## Use Cases
 

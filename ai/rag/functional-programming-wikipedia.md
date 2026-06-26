@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Functional_programming
-published_at: '2026-06-25T16:44:27.050414+05:30'
-collected_at: '2026-06-25T16:44:27.050422+05:30'
+published_at: '2026-06-26T15:30:46.576548+05:30'
+collected_at: '2026-06-26T15:30:46.576570+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:functional-programming-wikipedia
-first_seen: '2026-06-25T16:44:27.050422+05:30'
-last_seen: '2026-06-25T16:44:27.050422+05:30'
-last_checked: '2026-06-25T16:44:27.050422+05:30'
+first_seen: '2026-06-26T15:30:46.576570+05:30'
+last_seen: '2026-06-26T15:30:46.576570+05:30'
+last_checked: '2026-06-26T15:30:46.576570+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Paradigm**: Functional programming (FP) is a declarative paradigm where programs are constructed by applying and composing functions, avoiding imperative state mutations in favor of expression-based trees mapping inputs to outputs.
+- **Paradigm Definition**: Functional programming is a declarative paradigm where programs are constructed by applying and composing functions, treating them as first-class entities (bindable, passable, and returnable like data types).
 
-- **First-Class Functions**: Functions are treated as first-class entities—bindable to identifiers, passable as arguments, and returnable from other functions—enabling modular, composable, and declarative program structures.
+- **Core Principle**: Emphasizes pure functions—deterministic, side-effect-free mappings from inputs to outputs—avoiding mutable state and imperative side effects to reduce bugs and improve testability.
 
-- **Pure vs. Impure Functions**: Pure functions are deterministic, side-effect-free, and stateless, contrasting with impure procedures that modify state or produce side effects, with proponents arguing FP reduces bugs and simplifies debugging/testing.
+- **Modular Composition**: Enables declarative, composable, and modular programming by combining small, reusable functions without altering program state, contrasting with imperative procedural approaches.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:27.050414+05:30
+- Published: 2026-06-26T15:30:46.576548+05:30
 
 ## Related Tags
 

@@ -4,17 +4,17 @@ category: web-development/tailwind
 source_type: github
 source_name: GitHub Tailwind UI Resources
 source_url: https://github.com/easyfrontendhq/html-tailwindcss-components
-collected_at: '2026-06-16T17:27:24.055322+05:30'
-published_at: '2026-06-10T16:54:50Z'
+collected_at: '2026-06-26T15:22:54.378823+05:30'
+published_at: '2026-06-26T07:03:14Z'
 tags:
 - frontend_ui
-stars: 614
+stars: 613
 language: HTML
 status: active
 resource_id: github:easyfrontendhq/html-tailwindcss-components
 first_seen: '2026-06-11T08:45:45.631080+00:00'
-last_seen: '2026-06-16T17:27:24.055322+05:30'
-last_checked: '2026-06-16T17:27:24.055322+05:30'
+last_seen: '2026-06-26T15:22:54.378823+05:30'
+last_checked: '2026-06-26T15:22:54.378823+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: EasyFrontendHQ
-- Stars: 614
+- Stars: 613
 - Forks: 33
 - Language: HTML
 - Topics: components, components-library, developer-tools, features, free, free-ui, frontend, frontend-web, hacktoberfest, hacktoberfest-accepted, hacktoberfest2025, hacktoberfest2025repo, html, sections, tailwind, tailwind-css, tailwindcss
-- Last Updated: 2026-06-10T16:54:50Z
+- Last Updated: 2026-06-26T07:03:14Z
 
 ## Possible Use Cases
 

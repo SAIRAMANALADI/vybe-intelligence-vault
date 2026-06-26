@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Curated repository indexing advanced Retrieval Augmented Generation (RAG) methodologies for Large Language Models (LLMs).
-*   Explores sophisticated integration of LLMs with information retrieval systems, emphasizing enhanced contextualization.
-*   Covers diverse RAG strategies, including specialized embedding techniques for improved retrieval and generation performance.
+*   Curated repository of advanced Retrieval Augmented Generation (RAG) techniques for Large Language Models (LLMs).
+*   Explores sophisticated methodologies for integrating external knowledge retrieval with LLM inference.
+*   Covers diverse embedding strategies critical for optimizing information retrieval within RAG architectures.
 
 ## Use Cases
 

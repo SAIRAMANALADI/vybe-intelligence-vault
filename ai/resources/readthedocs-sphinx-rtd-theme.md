@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/readthedocs/sphinx_rtd_theme
-collected_at: '2026-06-26T10:14:53.671610+05:30'
+collected_at: '2026-06-26T15:26:54.602171+05:30'
 published_at: '2026-06-20T23:54:13Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2013-10-17T17:10:49Z'
 pushed_at: '2026-01-12T16:02:04Z'
 resource_id: github:readthedocs/sphinx_rtd_theme
-first_seen: '2026-06-26T10:14:53.671610+05:30'
-last_seen: '2026-06-26T10:14:53.671610+05:30'
-last_checked: '2026-06-26T10:14:53.671610+05:30'
+first_seen: '2026-06-26T15:26:54.602171+05:30'
+last_seen: '2026-06-26T15:26:54.602171+05:30'
+last_checked: '2026-06-26T15:26:54.602171+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Sass-based Sphinx theme**: A responsive, customizable documentation theme for Sphinx, built with Sass for styling and layout.
-- **Read the Docs integration**: Designed to seamlessly integrate with Read the Docs, providing consistent styling for hosted documentation.
-- **Active maintenance**: Last updated in June 2026, ensuring ongoing support for modern Sphinx versions and web standards.
+- **Sass-based Sphinx theme**: Implements responsive, mobile-friendly documentation styling using Sass for dynamic CSS generation.
+- **Read the Docs integration**: Designed to seamlessly integrate with Sphinx documentation projects hosted on Read the Docs.
+- **Modern UI components**: Features collapsible navigation, version selectors, and optimized typography for improved readability.
 
 ## Why It Matters
 

@@ -15,7 +15,6 @@ tags:
 - meta-ai
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via three core products—`Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform Documentation` for integration and workflow automation.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for document processing workflows, with platform documentation available for integration.
 
-- **Open-Source Tooling**: Offers `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the foundational `LlamaIndex (Python)` library, all with dedicated documentation for custom agentic workflows.
+- **Open-Source Tooling**: Includes `LiteParse` for lightweight parsing, `LlamaAgents` for agent-based workflows, and the core `LlamaIndex` Python library for document indexing and retrieval.
 
-- **Community & Support**: Maintains activ
+- **Community & Documentation**: Maintains active presence on X (Twitter), LinkedIn, and YouTube, with extensive documentation
 
 ## Use Cases
 

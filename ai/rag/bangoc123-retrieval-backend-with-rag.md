@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-26T10:12:23.491242+05:30'
+collected_at: '2026-06-26T15:24:24.400316+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - github-repo
-- hackernews
+- models
 - python
 - rag
 stars: 263
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-26T10:12:23.491242+05:30'
-last_seen: '2026-06-26T10:12:23.491242+05:30'
-last_checked: '2026-06-26T10:12:23.491242+05:30'
+first_seen: '2026-06-26T15:24:24.400316+05:30'
+last_seen: '2026-06-26T15:24:24.400316+05:30'
+last_checked: '2026-06-26T15:24:24.400316+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation for Vietnamese**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and LLMs for contextual retrieval.
+- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing** using Python, leveraging vector databases and embedding models tailored for Vietnamese text.
 
-- **Technical Stack**: Utilizes Python with frameworks/libraries such as LangChain, FAISS (for vector search), and Hugging Face Transformers for embedding and generation tasks.
+- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **embedding fine-tuning**, and **retrieval optimization** for low-resource languages.
 
-- **Deployment & Scalability**: Includes Dockerized setup for containerized deployment, with modular components for scalability (e.g., API endpoints, retrieval pipelines, and model inference).
+- Provides a **production-ready backend** with **FastAPI integration**, supporting **dynamic document ingestion**, **semantic search**, and **LLM inference** with Vietnamese-specific enhancements.
 
 ## Why It Matters
 

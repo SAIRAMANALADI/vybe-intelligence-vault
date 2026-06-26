@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-26T10:11:48.468891+05:30'
+collected_at: '2026-06-26T15:23:49.369977+05:30'
 published_at: '2026-06-25T16:18:34Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-26T10:11:48.468891+05:30'
-last_seen: '2026-06-26T10:11:48.468891+05:30'
-last_checked: '2026-06-26T10:11:48.468891+05:30'
+first_seen: '2026-06-26T15:23:49.369977+05:30'
+last_seen: '2026-06-26T15:23:49.369977+05:30'
+last_checked: '2026-06-26T15:23:49.369977+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external black-box dependencies.
-- **Core Components**: Covers embeddings generation, vector search (likely via cosine similarity or FAISS-like indexing), retrieval mechanisms, and context-augmented generation with hands-on Node.js implementation.
-- **Educational Focus**: Provides a step-by-step tutorial for building a RAG chatbot, emphasizing transparency in embeddings, retrieval, and LLM interaction to foster deep technical understanding.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external dependencies.
+- **Core Components**: Covers embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval mechanisms, and context-augmented generation with step-by-step breakdown.
+- **Educational Focus**: Provides a hands-on tutorial to demystify RAG internals, emphasizing transparency and practical understanding of AI agents and chatbot pipelines.
 
 ## Why It Matters
 

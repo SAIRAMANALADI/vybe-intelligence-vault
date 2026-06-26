@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 84
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; advanced implementations combine dense (vector) and sparse (keyword) retrieval methods for hybrid search.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., model selection, dimensionality reduction) critical for performance.
 
-- **Production Optimization**: Key considerations involve token usage reduction (via prompt engineering), caching strategies (e.g., Redis for repeated queries), and load balancing across multip
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), and load balancing across multiple models; Supabase or similar vector DBs recommended for scalab
 
 ## Use Cases
 

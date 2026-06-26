@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-06-26T10:12:38.574412+05:30'
+collected_at: '2026-06-26T15:24:39.454931+05:30'
 published_at: '2026-06-24T12:37:59Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 797
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-06-26T10:12:38.574412+05:30'
-last_seen: '2026-06-26T10:12:38.574412+05:30'
-last_checked: '2026-06-26T10:12:38.574412+05:30'
+first_seen: '2026-06-26T15:24:39.454931+05:30'
+last_seen: '2026-06-26T15:24:39.454931+05:30'
+last_checked: '2026-06-26T15:24:39.454931+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates open-source and research projects focused on AI memory systems, including agents, memory management, and retrieval-augmented generation (RAG).
-- **Python-centric ecosystem**: Primarily Python-based tools/libraries, with emphasis on AI/ML integration for memory architectures (e.g., vector DBs, context windows, or persistent storage).
-- **Active maintenance**: Last updated June 2026, reflecting ongoing updates to tools like `LangChain`, `Mem0`, or `AutoGen` for dynamic memory handling in AI workflows.
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including agent-based and retrieval-augmented generation (RAG) approaches.
+- **Python-centric ecosystem**: Majority of projects are Python-based, leveraging libraries like `langchain`, `transformers`, and `faiss` for memory management and retrieval.
+- **Active maintenance & community**: Last updated in 2026, with 797 stars and 86 forks, indicating ongoing contributions and interest in AI memory optimization.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://langfuse.com
-published_at: '2026-06-26T04:28:14.375303+05:30'
-collected_at: '2026-06-26T04:28:14.375311+05:30'
+published_at: '2026-06-26T15:30:05.815790+05:30'
+collected_at: '2026-06-26T15:30:05.815803+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langfuse
-first_seen: '2026-06-26T04:28:14.375311+05:30'
-last_seen: '2026-06-26T04:28:14.375311+05:30'
-last_checked: '2026-06-26T04:28:14.375311+05:30'
+first_seen: '2026-06-26T15:30:05.815803+05:30'
+last_seen: '2026-06-26T15:30:05.815803+05:30'
+last_checked: '2026-06-26T15:30:05.815803+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Adoption Metrics**: Used by 19 Fortune 500 companies, processing **10+ billion observations/month**, with **100,000+ engineers** leveraging the platform for AI agent development and observability.
+- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processes **10+ billion observations/month**, and supports **100,000+ engineers** building on the platform.
 
-- **Core Capabilities**: Provides **end-to-end LLM engineering workflow** with hierarchical tracing, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a single integrated platform.
+- **Core Capabilities**: Provides hierarchical tracing of LLM calls, tool invocations, and retrieval steps; supports **LLM-as-a-judge**, heuristic evaluations, and human-in-the-loop annotation workflows; enables prompt management with versioning and rollback.
 
-- **Multi-Language & Framework Support**: Compatible with **Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift** (via OpenTelemetry) and integrates with **100+ frameworks** (e.g., LangChain, Vercel AI SDK, LiteLLM) and **model providers** (e.g., OpenAI, Anthropic, Mistral AI, Google Gemini).
+- **Integration Ecosystem**: Supports **100+ integrations** across languages (Python, TypeScript, Go, Java, .NET, Ruby, PHP, Swift), agent frameworks (LangChain, Vercel AI SDK, LiteLLM), and model providers (OpenAI, Anthropic, Mistral AI, Google Gemini), with OpenTelemetry (OTel) instrumentation for vendor-agnostic deployment.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:28:14.375303+05:30
+- Published: 2026-06-26T15:30:05.815790+05:30
 
 ## Related Tags
 

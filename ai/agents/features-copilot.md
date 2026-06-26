@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-26T10:17:27.912875+05:30'
-collected_at: '2026-06-26T10:17:27.912882+05:30'
+published_at: '2026-06-26T15:29:29.060534+05:30'
+collected_at: '2026-06-26T15:29:29.060548+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-26T10:17:27.912882+05:30'
-last_seen: '2026-06-26T10:17:27.912882+05:30'
-last_checked: '2026-06-26T10:17:27.912882+05:30'
+first_seen: '2026-06-26T15:29:29.060548+05:30'
+last_seen: '2026-06-26T15:29:29.060548+05:30'
+last_checked: '2026-06-26T15:29:29.060548+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent execution across multiple models (e.g., Anthropic, Google, OpenAI) for distributed task resolution, with `/plan` to `/IDE` pipelines for iterative refinement and PR generation.
+- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing with model switching via `/model` and autonomous workflows through `/autopilot`.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`), the CLI interacts natively with issues, PRs, and branches, inheriting organizational policies (branch protections, governance) while allowing custom agent behaviors via `AGENTS.md` and `/skills`.
+- **GitHub-native MCP integration**: Direct interaction with GitHub issues, PRs, and branches via `/mcp`, with session persistence and context retention for seamless workflow transitions between CLI and IDE.
 
-- **Session Persistence & Security**: Maintains cross-session context via `/resume` and memory compaction, with explicit approval gates for file/command execution; integrates with existing Copilot subscriptions (Free/Pro/Enterprise) and enforces org-level security/compliance policies.
+- **Customizable agentic runtime**: Supports `/agent` and `/skills` for defining custom behaviors, MCP server integrations for extensibility, and inherits Copilot Business/Enterprise governance policies for compliance.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T10:17:27.912875+05:30
+- Published: 2026-06-26T15:29:29.060534+05:30
 
 ## Related Tags
 

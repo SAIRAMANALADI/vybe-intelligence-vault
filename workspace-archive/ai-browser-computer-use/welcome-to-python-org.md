@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - anthropic
+- hackernews
 - producthunt
 - reddit
 - web-crawled
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations, e.g., `[fruit.upper() for fruit in fruits]`.
-- **Control flow** includes `if`, `for`, `while`, and `range`, with functions supporting **mandatory/optional arguments**, **keyword arguments**, and **arbitrary argument lists**.
-- Python’s **standard library** integrates with **AI/ML** (PyTorch, TensorFlow), **scientific computing** (SciPy
+- Python supports arithmetic operations with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and parentheses for grouping, with type-specific division behaviors (`/` returns float, `//` performs floor division).
+- Python's core language features include list comprehensions, `enumerate()` for indexed iteration, and control flow constructs (`if`, `for`, `while`, `range`), enabling concise and expressive data manipulation and algorithmic logic.
+- The Python Software Foundation (PSF) maintains t
 
 ## Use Cases
 

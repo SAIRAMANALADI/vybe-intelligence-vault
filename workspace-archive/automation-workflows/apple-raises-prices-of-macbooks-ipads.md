@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by virgildotcodes. Score: 668, Comments: 960.
+Hacker News story by virgildotcodes. Score: 724, Comments: 1031.
 Original Link: https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/
 
 ## Use Cases

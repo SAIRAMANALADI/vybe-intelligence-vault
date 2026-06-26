@@ -2,7 +2,7 @@
 title: NFL Sunday Ticket for Business
 archive_category: startup-builder
 source_category: ai/rag
-source_url: https://everpass.com/live-sports/nfl-sunday-ticket
+source_url: https://everpass.com/live-sports/nfl-sunday-ticket/
 resource_id: blog:nfl-sunday-ticket-for-business
 local_vault_path: ai/rag/nfl-sunday-ticket-for-business.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Discount & Hardware Offer**: Up to **15% off NFL Sunday Ticket** for commercial use (bars/restaurants) with **6 free commercial-grade streaming devices** and **3 months free EverPass Core** for new sign-ups by June 30, 2026.
+- **Discounted NFL Sunday Ticket**: Up to **15% off** commercial subscription for out-of-market Sunday NFL games (excluding in-market/local, national, or digital-only games), valid for new/existing EverPass customers signing up by **June 30, 2026**.
 
-- **Content & Coverage**: Provides **all live out-of-market Sunday NFL games** (excluding in-market/local, national, or digital-only games) with **flexible multi-payment plans** and **centralized management via EverPass Core**.
-
-- **Eligibility & Exclusions**: Valid onl
+- **Hardware & Software Bundle**: Includes **up to 6 free commercial-grade streaming devices** (preconfigured, plug-and-play) and **3 months free EverPass Core** for centralized device management, scheduling, and premium sports content integration (
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://everpass.com/live-sports/nfl-sunday-ticket
+Original source URL: https://everpass.com/live-sports/nfl-sunday-ticket/
 
 ## Local Vault File
 

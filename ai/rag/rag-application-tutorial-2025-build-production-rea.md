@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-26T10:11:39.781038+05:30'
-collected_at: '2026-06-26T10:11:39.781052+05:30'
+published_at: '2026-06-26T15:23:39.937838+05:30'
+collected_at: '2026-06-26T15:23:39.937847+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-26T10:11:39.781052+05:30'
-last_seen: '2026-06-26T10:11:39.781052+05:30'
-last_checked: '2026-06-26T10:11:39.781052+05:30'
+first_seen: '2026-06-26T15:23:39.937847+05:30'
+last_seen: '2026-06-26T15:23:39.937847+05:30'
+last_checked: '2026-06-26T15:23:39.937847+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies, embedding models (optimized for semantic search), and vector databases (e.g., Supabase) for efficient retrieval; advanced implementations combine dense (vector) and sparse (keyword) retrieval methods for hybrid search.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., model selection, dimensionality reduction) critical for performance.
 
-- **Production Optimization**: Key considerations involve token usage reduction (via prompt engineering), caching strategies (e.g., Redis for repeated queries), and load balancing across multiple LLM instances to mitigate latency and cost; deployment leverages Cloudflare Workers for edge computing.
+- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), and load balancing across multiple models; Supabase or similar vector DBs recommended for scalability.
 
-- **Monitoring & Scalability**: Observability frameworks (e.g., Sentry) track retrieval quality, response consistency, and pipeline latency; scaling involves multi-modal RAG (handling images/PDFs) and conversational memory for stateful interactions, with benchmarks validating trade-offs between performance and cost.
+- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks latency/token usage, and enforces trade-offs (e.g., retrieval depth vs. inference cost); multi-modal RAG (images/PDFs) requires specialized chunking/embedding pipelines.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:11:39.781038+05:30
+- Published: 2026-06-26T15:23:39.937838+05:30
 
 ## Related Tags
 

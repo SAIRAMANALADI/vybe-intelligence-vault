@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub Status provides real-time operational metrics and incident tracking for GitHub services, including Git Operations (99.99% uptime), Webhooks (100.0% uptime), API Requests (99.94% uptime), and Copilot (99.88% uptime) over the past 90 days.
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) for GitHub services (API, Actions, Webhooks, Copilot, etc.) via [githubstatus.com](https://www.githubstatus.com).
 
-- Recent incidents include a June 25, 2026 degradation affecting Webhooks, Pull Requests, Actions, and Issues (resolved via mitigations), and a June 17, 2026 Copilot disruption due to a routing layer misconfiguration causing Next Edit Suggestion failur
+- **Notification Systems**: Supports multi-channel incident notifications including email, SMS (global country codes), Slack, and webhooks for automated incident tracking and resolution updates.
+
+- **Regional Status Mo
 
 ## Use Cases
 

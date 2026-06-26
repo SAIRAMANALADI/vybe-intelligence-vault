@@ -4,12 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sphinx-doc/sphinx
-collected_at: '2026-06-26T10:15:34.915263+05:30'
-published_at: '2026-06-24T09:55:46Z'
+collected_at: '2026-06-26T15:27:26.135932+05:30'
+published_at: '2026-06-26T07:17:42Z'
 tags:
 - github-repo
+- hackernews
 - python
-stars: 7890
+stars: 7891
 language: Python
 status: active
 license: NOASSERTION
@@ -17,9 +18,9 @@ archived: false
 created_at: '2015-01-02T10:53:28Z'
 pushed_at: '2026-06-21T23:52:48Z'
 resource_id: github:sphinx-doc/sphinx
-first_seen: '2026-06-26T10:15:34.915263+05:30'
-last_seen: '2026-06-26T10:15:34.915263+05:30'
-last_checked: '2026-06-26T10:15:34.915263+05:30'
+first_seen: '2026-06-26T15:27:26.135932+05:30'
+last_seen: '2026-06-26T15:27:26.135932+05:30'
+last_checked: '2026-06-26T15:27:26.135932+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: Sphinx is a Python-based static documentation generator supporting reStructuredText (primary) and Markdown via extensions, enabling automated documentation builds from source files.
+- **Core Functionality**: Sphinx is a Python-based documentation generator that converts reStructuredText (RST) and Markdown markup languages into static websites, PDFs, or other output formats using a plugin-based architecture.
 
-- **Extensibility**: Features a plugin architecture for custom directives, themes, and builders, with built-in support for internationalization (i18n), cross-referencing, and LaTeX/PDF output.
+- **Key Features**: Supports extensibility via custom extensions, integrates with tools like autodoc for API documentation, and includes built-in directives for cross-referencing, syntax highlighting, and internationalization.
 
-- **Integration & Tooling**: Supports intersphinx for cross-project references, autodoc for Python API documentation, and integrates with CI/CD pipelines for automated documentation deployment.
+- **Technical Stack**: Primarily written in Python, with dependencies on Docutils for parsing RST and Jinja2 for templating; designed for scalability in large documentation projects.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sphinx-doc
-- Stars: 7890
+- Stars: 7891
 - Forks: 2467
 - Language: Python
 - Topics: docs, documentation, documentation-tool, markdown, python, restructuredtext, sphinx
-- Last Updated: 2026-06-24T09:55:46Z
+- Last Updated: 2026-06-26T07:17:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2015-01-02T10:53:28Z

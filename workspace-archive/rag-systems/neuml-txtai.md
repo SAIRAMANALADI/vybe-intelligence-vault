@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Capabilities**: End-to-end Python framework integrating semantic search, LLM orchestration, and language model workflows with support for agents, RAG, and vector search.
-- **Core Technologies**: Leverages embeddings, transformers, and vector databases for NLP tasks including sentence embeddings and information retrieval.
-- **Integration & Extensibility**: Designed for modularity with Python, enabling seamless integration of large language models (LLMs) and custom workflows.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
+
+- **Key Components**: Supports embeddings, vector search, RAG, transformers, and sentence embeddings with built-in vector database integration for efficient information retrieval.
+
+- **Extensible Architecture**: Enables agent-based workflows, NLP pipelines, and large-scale search via modular design, leveraging modern transforme
 
 ## Use Cases
 

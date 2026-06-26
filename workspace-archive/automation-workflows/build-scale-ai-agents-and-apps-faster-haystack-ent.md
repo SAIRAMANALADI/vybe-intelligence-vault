@@ -6,10 +6,10 @@ source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - agents
 - dataset
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** is built on the open-source Haystack framework, enabling end-to-end orchestration of AI agents and applications with enterprise-grade security, scalability, and governance for production deployment.
+- **Haystack Enterprise Platform** is built on the open-source Haystack framework, providing an end-to-end solution for building, testing, deploying, and monitoring production-ready AI agents and applications with enterprise-grade security, scalability, and support.
 
-- **Key features** include multimodal indexing (text, tables, images, documents), composable AI orchestration for LLM integration without vendor lock-in, and built-in data/metadata management for sensitive/classified data handling.
-
-- **Workflow acceleration** is a
+- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing (text, tables, images, documents), and built-in data/metadata management for sensitive/classified data with s
 
 ## Use Cases
 

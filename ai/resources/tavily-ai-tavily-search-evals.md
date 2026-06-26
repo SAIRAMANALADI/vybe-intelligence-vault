@@ -4,12 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tavily-ai/tavily-search-evals
-collected_at: '2026-06-26T10:17:22.596832+05:30'
+collected_at: '2026-06-26T15:29:24.016347+05:30'
 published_at: '2026-05-31T17:09:29Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 stars: 11
 language: Python
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-06-19T16:00:27Z'
 pushed_at: '2026-04-02T14:49:05Z'
 resource_id: github:tavily-ai/tavily-search-evals
-first_seen: '2026-06-26T10:17:22.596832+05:30'
-last_seen: '2026-06-26T10:17:22.596832+05:30'
-last_checked: '2026-06-26T10:17:22.596832+05:30'
+first_seen: '2026-06-26T15:29:24.016347+05:30'
+last_seen: '2026-06-26T15:29:24.016347+05:30'
+last_checked: '2026-06-26T15:29:24.016347+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Public repository for executing standardized search benchmarks across multiple search providers to evaluate performance and accuracy.
-- **Technical Stack**: Implemented in Python, facilitating cross-provider compatibility and extensibility.
-- **Metadata**: No active topics, last updated May 31, 2026, with 11 stars and 0 forks.
+- **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluation metrics.
+- **Implementation**: Python-based framework for executing and comparing search evaluations, enabling reproducible testing.
+- **Metadata**: Last updated in 2026, minimal activity (11 stars, 0 forks), no associated topics.
 
 ## Why It Matters
 

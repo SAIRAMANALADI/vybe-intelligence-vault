@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-26T10:13:13.534310+05:30'
+collected_at: '2026-06-26T15:25:14.438929+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-26T10:13:13.534310+05:30'
-last_seen: '2026-06-26T10:13:13.534310+05:30'
-last_checked: '2026-06-26T10:13:13.534310+05:30'
+first_seen: '2026-06-26T15:25:14.438929+05:30'
+last_seen: '2026-06-26T15:25:14.438929+05:30'
+last_checked: '2026-06-26T15:25:14.438929+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory hierarchies.
+- **Cognitive Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended interactions, leveraging episodic and semantic memory modules for enhanced reasoning.
+- **Stateful Reasoning**: Implements dynamic memory organization and retrieval mechanisms to maintain context coherence across extended interactions, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Contribution**: Proposes a novel RAG paradigm optimized for long-form narrative understanding, with empirical validation demonstrating superior performance in stateful reasoning tasks compared to traditional RAG systems.
+- **AAAI 2026 Poster**: Presented as a cutting-edge approach in the AAAI 2026 conference, with open-source implementation in Python for reproducibility and further research.
 
 ## Why It Matters
 

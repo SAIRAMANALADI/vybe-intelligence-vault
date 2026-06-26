@@ -1,0 +1,54 @@
+---
+title: Stainless - Stainless Docs Platform
+archive_category: frontend-ai-ui
+source_category: ai/rag
+source_url: https://www.stainless.com/products/docs
+resource_id: blog:stainless-stainless-docs-platform
+local_vault_path: ai/rag/stainless-stainless-docs-platform.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- frontend_ui
+- rag
+- web-crawled
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Stainless - Stainless Docs Platform
+
+## Why This Is In The Archive
+
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, eliminating manual updates and ensuring consistency across all documentation types.
+
+- **AI-Agent & Developer Optimization**: Docs are structured for AI agents to parse efficiently while remaining developer-friendly, featuring AI-powered hybrid search, minimal client-side JS, and SEO/search optimization.
+
+- **Extensible & Customizable Framework**: Built on Astro with TypeScript
+
+## Use Cases
+
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
+
+## Source
+
+Original source URL: https://www.stainless.com/products/docs
+
+## Local Vault File
+
+Path: [stainless-stainless-docs-platform.md](../../ai/rag/stainless-stainless-docs-platform.md)

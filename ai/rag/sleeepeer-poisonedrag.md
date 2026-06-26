@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-26T10:12:53.559497+05:30'
+collected_at: '2026-06-26T15:24:54.404381+05:30'
 published_at: '2026-06-25T03:51:18Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - reddit
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-26T10:12:53.559497+05:30'
-last_seen: '2026-06-26T10:12:53.559497+05:30'
-last_checked: '2026-06-26T10:12:53.559497+05:30'
+first_seen: '2026-06-26T15:24:54.404381+05:30'
+last_seen: '2026-06-26T15:24:54.404381+05:30'
+last_checked: '2026-06-26T15:24:54.404381+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases, forcing LLMs to generate adversarial outputs while maintaining plausible responses.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating how adversaries can corrupt the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs.
 
-- **Knowledge Corruption Mechanisms**: Demonstrates two attack vectors—*direct poisoning* (malicious document insertion) and *indirect poisoning* (trigger-based retrieval manipulation)—achieving up to 95% attack success rate with minimal (<1%) knowledge base contamination.
+- **Technical Mechanism**: Details a two-phase attack—*document poisoning* (embedding adversarial content in retrieved documents) and *response manipulation* (exploiting RAG’s retrieval-generation pipeline to alter LLM outputs)—validated against multiple LLM architectures.
 
-- **Defense Evaluation**: Proposes and benchmarks lightweight detection methods (e.g., semantic anomaly scoring) against PoisonedRAG, showing current defenses fail to mitigate attacks without significant performance trade-offs.
+- **Security Implications**: Highlights vulnerabilities in RAG systems’ reliance on external knowledge sources, proposing mitigation strategies such as adversarial filtering and robust retrieval mechanisms to detect/prevent poisoned inputs.
 
 ## Why It Matters
 

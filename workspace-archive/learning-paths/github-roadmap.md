@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-*   Official GitHub repository (`github/roadmap`) providing the public development roadmap.
-*   Details future feature planning and strategic direction for both GitHub.com and GitHub Enterprise platforms.
-*   Highly active and community-monitored project, evidenced by 8.7k+ stars and continuous future-dated updates.
+- **Public Roadmap Tracking**: GitHub's official repository provides a transparent, community-driven roadmap for GitHub products and features, including GitHub Enterprise.
+
+- **Collaborative Development**: The roadmap includes planned updates, beta features, and community feedback integration, enabling stakeholders to track progress and contribute input.
+
+- **Regular Updates**: The repository is actively maintained with the latest updates (e.g., last commit on 2026-06-26), ensuring alignment wit
 
 ## Use Cases
 

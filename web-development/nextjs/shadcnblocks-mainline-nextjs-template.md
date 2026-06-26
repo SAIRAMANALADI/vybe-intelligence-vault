@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/shadcnblocks/mainline-nextjs-template
-collected_at: '2026-06-26T10:10:27.614506+05:30'
+collected_at: '2026-06-26T15:22:54.875267+05:30'
 published_at: '2026-06-26T02:19:09Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:shadcnblocks/mainline-nextjs-template
 first_seen: '2026-06-15T19:09:21.837587+00:00'
-last_seen: '2026-06-26T10:10:27.614506+05:30'
-last_checked: '2026-06-26T10:10:27.614506+05:30'
+last_seen: '2026-06-26T15:22:54.875267+05:30'
+last_checked: '2026-06-26T15:22:54.875267+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 - Owner: shadcnblocks
 - Stars: 323
-- Forks: 95
+- Forks: 96
 - Language: TypeScript
 - Topics: nextjs-starter, nextjs-template, nextjs-theme, nextjs15, shadcn, shadcn-template, shadcn-ui, shadcnblocks, shadcnui, tailwindcss
 - Last Updated: 2026-06-26T02:19:09Z

@@ -8,7 +8,7 @@ local_vault_path: ai/resources/installation-jupyterlab-4-6-0-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - producthunt
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- JupyterLab can be installed via `conda`, `mamba`, `pip`, `pipenv`, `uv`, or Docker, with installation commands varying by package manager (e.g., `conda install -c conda-forge jupyterlab`, `pip install jupyterlab`, or `docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes jupyter/datascience-notebook`).
+- **Installation Methods**: JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `pip` (`pip install jupyterlab`), `pipenv` (`pipenv install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag in a Jupyter Docker image).
 
-- Compatibility risks exist due to semantic versioning; extensions and customizations may break with major updates, requiring explicit version management.
-
-- Proxy/firewall configurations may block
+- **Proxy/Firewall Workarounds**: For corporate networks, set `HTTP_PROXY`/`HTTPS_PROXY` environment variables or configure `conda`/`pip`/`npm` to bypass SSL (`conda config --set ss
 
 ## Use Cases
 

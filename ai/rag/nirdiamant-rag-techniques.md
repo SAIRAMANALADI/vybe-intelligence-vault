@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-06-26T10:11:43.434608+05:30'
-published_at: '2026-06-26T03:59:11Z'
+collected_at: '2026-06-26T15:23:44.343540+05:30'
+published_at: '2026-06-26T09:40:11Z'
 tags:
 - agents
 - github-repo
@@ -16,7 +16,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 28189
+stars: 28194
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -24,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-17T20:54:18Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-06-26T10:11:43.434608+05:30'
-last_seen: '2026-06-26T10:11:43.434608+05:30'
-last_checked: '2026-06-26T10:11:43.434608+05:30'
+first_seen: '2026-06-26T15:23:44.343540+05:30'
+last_seen: '2026-06-26T15:23:44.343540+05:30'
+last_checked: '2026-06-26T15:23:44.343540+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, vector databases, and integration with frameworks like LangChain, LlamaIndex, and OpenAI.
-- **Technical Scope**: Implements semantic search, LLM optimization, and retrieval-augmented generation (RAG) workflows in Python, leveraging NLP and machine learning for enhanced generative AI performance.
-- **Metadata**: 28.2K stars, 3.4K forks, last updated June 2026, with topics spanning AI, LLMs, and vector-based retrieval systems.
+- **Repository Overview**: Provides advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, vector databases, and integration with LangChain, LlamaIndex, and OpenAI.
+- **Technical Scope**: Includes semantic search, LLM optimization, and retrieval-augmented generation workflows in Python, with a focus on NLP and generative AI applications.
+- **Metadata**: 28,194 stars, 3,421 forks; last updated June 26, 2026; supports multi-topic workflows (e.g., GPT, LLMs, vector storage).
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 28189
-- Forks: 3420
+- Stars: 28194
+- Forks: 3421
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-06-26T03:59:11Z
+- Last Updated: 2026-06-26T09:40:11Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

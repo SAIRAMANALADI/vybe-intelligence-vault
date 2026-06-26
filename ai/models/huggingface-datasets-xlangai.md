@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/xlangai
 published_at: '2026-05-07T11:32:14.000Z'
-collected_at: '2026-06-25T16:35:45.613799+05:30'
+collected_at: '2026-06-26T15:22:54.987093+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/xlangai
 first_seen: '2026-06-18T23:35:18.472214+05:30'
-last_seen: '2026-06-25T16:35:45.613799+05:30'
-last_checked: '2026-06-25T16:35:45.613799+05:30'
+last_seen: '2026-06-26T15:22:54.987093+05:30'
+last_checked: '2026-06-26T15:22:54.987093+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 32, Downloads: 1408535)
+Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 32, Downloads: 1424322)
 
 ## Why It Matters
 

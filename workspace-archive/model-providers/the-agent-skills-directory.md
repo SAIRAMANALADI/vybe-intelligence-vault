@@ -20,7 +20,7 @@ tags:
 - models
 - paper
 - reddit
-- web-crawled
+- scripts
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Top 3 most installed skills**: `find-skills` (2.2M), `frontend-design` (582.8K), `vercel-react-best-practices` (498.2K), indicating high demand for AI-assisted frontend development and skill discovery tools.
-
-- **Dominant contributors**: Microsoft (`azure-skills` with 6.1M total installs), Vercel Labs (`agent-skills` with 4.5M+ installs), and Anthropic (`skills` with 1M+ installs), showcasing enterprise and AI-driven tooling focus.
-
-- **Emerging AI/ML skill clusters**: Runcomfy-com/Doany-ai
+- **Top 3 Skills by Install Count**: `find-skills` (2.2M), `frontend-design` (592.9K), `vercel-react-best-practices` (504.2K), all hosted on Vercel Labs, Anthropic, and Vercel Labs respectively.
+- **Dominant Publishers**: Microsoft Azure Skills (6.2M total installs across 14 skills), Larksuite CLI (6.5M total installs across 22 skills), and Matt Pocock Skills (1.4M+ total installs across 10 skills).
+- **AI/ML & Automation Focus**: High concentration of AI-driven skills (e.g., `ai-image-generatio
 
 ## Use Cases
 

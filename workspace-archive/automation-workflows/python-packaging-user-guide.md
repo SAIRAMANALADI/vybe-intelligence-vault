@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Python Packaging User Guide** is maintained by the Python Packaging Authority (PyPA) on GitHub, providing tutorials and references for modern Python package distribution and installation.
+- **Python Packaging User Guide** is a curated resource maintained by the Python Packaging Authority (PyPA) on GitHub, providing tutorials, guides, and references for modern Python package distribution and installation workflows.
 
-- **Key Sections**: Tutorials (e.g., packaging projects, managing dependencies), Guides (focused "how-to" instructions), Discussions (in-depth explanations like pip vs. easy_install), and Reference (PyPA specifications, glossary, and key projects).
-
-- **Workflow Overview**: The guide includes an overview o
+- **Core Sections**: Includes *Tutorials* (e.g., packaging/distributing projects, managing dependencies), *Guides* (task-specific instructions for packaging workflows), *Discussions* (deep dives like pip vs. easy_install), and *Reference* (PyPA specs, glossary, and key
 
 ## Use Cases
 

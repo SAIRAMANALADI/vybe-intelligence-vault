@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-06-25T16:36:54.957312+05:30'
+collected_at: '2026-06-26T15:23:39.542887+05:30'
 published_at: '2026-06-19T16:21:55Z'
 tags:
 - github-repo
@@ -13,6 +13,7 @@ tags:
 - models
 - openai
 - rag
+- reddit
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-06-25T16:36:54.957312+05:30'
-last_seen: '2026-06-25T16:36:54.957312+05:30'
-last_checked: '2026-06-25T16:36:54.957312+05:30'
+first_seen: '2026-06-26T15:23:39.542887+05:30'
+last_seen: '2026-06-26T15:23:39.542887+05:30'
+last_checked: '2026-06-26T15:23:39.542887+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Mastery Curriculum**: 5-week structured learning path covering RAG fundamentals, hybrid search (vector + keyword), quantization (binary/scalar), and Matryoshka representation learning for efficient LLM integration.
-
-- **Technical Stack**: Azure-hosted Jupyter Notebooks with OpenAI/GPT models, HNSW for approximate nearest neighbor search, and VS Code tooling for multimodal RAG pipelines.
-
-- **Responsible AI Focus**: Includes indexing optimization, retrieval strategies, and responsible AI practices for scalable, production-grade RAG deployments.
+- **RAG Implementation Guide**: 5-week structured learning path covering Retrieval-Augmented Generation (RAG) with Azure, OpenAI APIs, and multimodal integration in Jupyter Notebooks.
+- **Advanced Indexing & Search Techniques**: Implements HNSW (Hierarchical Navigable Small World) for vector search, hybrid search (vector + keyword), and quantization methods (scalar/binary) for efficient retrieval.
+- **Responsible AI & Optimization**: Focuses on Matryoshka Representation Learning for scalable embeddings and includes responsible AI practices for LLM deployment in Visual Studio Code.
 
 ## Why It Matters
 

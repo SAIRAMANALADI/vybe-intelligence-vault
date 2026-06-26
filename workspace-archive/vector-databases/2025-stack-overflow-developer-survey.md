@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AI Tool Adoption & Impact**: 84% of developers use AI tools (51% daily), with OpenAI GPT models dominating (82% usage), but 66% cite frustration with "almost right" solutions and 45% report debugging AI-generated code is time-consuming.
+- **AI Tool Adoption**: 84% of developers use or plan to use AI tools (up from 76% last year), with 51% of professionals using them daily; OpenAI GPT models dominate (81.4% usage).
 
-- **Developer Demographics & Trends**: 35% of respondents have <10 years of coding experience, GitHub surpassed Jira as the most desired collaboration tool (70.1% vs. 40.2%), and Rust’s Cargo is the most admired cloud/infrastructure tool (71%).
+- **AI Agent Impact & Frustrations**: 69% of AI agent users report increased productivity, but 66% cite frustration with "almost-right" AI solutions, and 45% find debugging AI-generated code time-consuming.
 
-- **AI Senti
+- **Developer Demographics & Preferences**: 35% of respondents have <10 years of coding experience; GitHub sur
 
 ## Use Cases
 

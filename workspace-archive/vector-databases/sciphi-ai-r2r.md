@@ -6,19 +6,19 @@ source_url: https://github.com/SciPhi-AI/R2R
 resource_id: github:sciphi-ai/r2r
 local_vault_path: ai/rag/sciphi-ai-r2r.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
 tags:
 - agents
-- dataset
 - github-repo
 - python
 - rag
 - workflows
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Active open-source repository
 ---
 
 # SciPhi-AI/R2R
@@ -26,18 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic RAG System**: Production-ready Retrieval-Augmented Generation (RAG) framework with RESTful API support, enabling dynamic, multi-step retrieval and generation workflows for AI applications.
-
-- **Python-Based Architecture**: Implemented in Python, leveraging modern AI/ML libraries for scalable retrieval, indexing, and agentic interaction with large language models (LLMs).
-
-- **Advanced Retrieval & QA Features**: Supports high-performance retrieval systems, question-answering (QA), and
+- **Agentic RAG System**: Implements an autonomous, production-grade Retrieval-Augmented Generation (RAG) pipeline with RESTful API endpoints for dynamic agentic workflows.
+- **Python-Based Architecture**: Built in Python with modular components for indexing, retrieval, and generation, optimized for large-scale AI applications.
+- **Advanced Retrieval & QA**: Supports high-performance vector search, structured filtering, and multi-modal retrieval for question-answering tasks.
 
 ## Use Cases
 

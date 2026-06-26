@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,799</p>
-        <p><b>Active:</b> 8,590 | <b>Inactive:</b> 209</p>
+        <p><b>Resources tracked:</b> 8,825</p>
+        <p><b>Active:</b> 8,616 | <b>Inactive:</b> 209</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 33,861</p>
+        <p><b>Archive Files:</b> 33,941</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 12:28 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 15:39 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,13 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+139 pts</kbd>
+- 🔼 **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](ai/community/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai.md)** • <kbd>+105 pts</kbd>
+- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+56 pts</kbd>
+- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+47 pts</kbd>
+- 🔼 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)** • <kbd>+39 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Why current LLM costs are not sustainable](ai/community/why-current-llm-costs-are-not-sustainable.md)** • Score: `84`
+- 🆕 **[Gemini 3.5 â Google DeepMind](ai/rag/gemini-3-5-a-google-deepmind.md)** • Score: `0`
+- 🆕 **[Gemini Apps Privacy Hub - Gemini Apps Help](ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md)** • Score: `0`
+- 🆕 **[Delete a document, spreadsheet, presentation, or video - Computer - Google Docs Editors Help](ai/rag/delete-a-document-spreadsheet-presentation-or-vide.md)** • Score: `0`
+- 🆕 **[Google Help](ai/rag/google-help.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

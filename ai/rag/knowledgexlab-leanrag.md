@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-26T10:13:13.598018+05:30'
+collected_at: '2026-06-26T15:25:14.483557+05:30'
 published_at: '2026-06-24T11:50:55Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-26T10:13:13.598018+05:30'
-last_seen: '2026-06-26T10:13:13.598018+05:30'
-last_checked: '2026-06-26T10:13:13.598018+05:30'
+first_seen: '2026-06-26T15:25:14.483557+05:30'
+last_seen: '2026-06-26T15:25:14.483557+05:30'
+last_checked: '2026-06-26T15:25:14.483557+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → full graph) and semantic aggregation for improved contextual relevance.
 
-- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy, as evaluated on AAAI 2026 benchmarks.
+- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
 
-- **Modular Python Implementation**: Provides a scalable, open-source toolkit with extensible APIs for integrating custom knowledge graphs and retrieval strategies in downstream NLP applications.
+- **Python Implementation**: Provides an open-source Python library with modular components for integration into downstream generative tasks.
 
 ## Why It Matters
 

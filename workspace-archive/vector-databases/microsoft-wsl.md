@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Updates**: WSL 2.7.x releases include kernel updates (e.g., `6.18.33.2-2`, `6.18.33.1-1`, `6.18.26.1`) addressing regressions (e.g., AMD chipset boot issues under KVM) and performance optimizations.
-
-- **Bug Fixes & Security**: Patches address critical issues such as `CreateInstance` failures due to oversized Windows hosts files, DNS over TCP instability, and CVE-2026-32178 (via .NET runtime bump to `10.0.6`).
-
-- **Infrastructure & Build Improvements**: Enhancements include Source Lin
+- **WSL 2.7.10** backports VHD restore fix: Passes mounting user's token to resolve permissions issue (`#40907`).
+- **WSL 2.7.9** updates kernel to `6.18.33.2-2` to fix Windows under KVM and older AMD chipset boot regression.
+- **WSL 2.7.8** resolves `CreateInstance` failure by capping Windows hosts file message size and updates kernel to `6.18.33.1-1`.
 
 ## Use Cases
 

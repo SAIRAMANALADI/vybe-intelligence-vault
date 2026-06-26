@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Retriever (vector/lexical) + vector store + LLM generator; optional reranker, query rewriting, caching, and orchestration layers for precision/efficiency.
-- **Chunking & Embeddings**: Structure-aware chunking with overlap; domain-fine-tuned embeddings (normalized, multilingual/multimodal support) for improved retrieval quality.
-- **Multi-Stage Retrieval & Reasoning**: Hybrid (BM25 + vector) search with cross-encoder reranking; multi-hop/iterative retrieval and GraphRAG f
+- **RAG Architecture**: Combines a retriever (vector/lexical search) with an LLM generator, enabling dynamic access to external knowledge for improved factuality and adaptability without full retraining.
+
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) and domain-specific embedding models (fine-tuned for retrieval tasks) are critical for retrieval precision and downstream generation quality.
+
+- **Multi-Stage Retrieval & Optimization**: Hybrid sea
 
 ## Use Cases
 

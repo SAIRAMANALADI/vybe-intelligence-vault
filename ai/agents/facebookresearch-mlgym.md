@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-26T10:14:33.676329+05:30'
+collected_at: '2026-06-26T15:26:29.571963+05:30'
 published_at: '2026-06-22T11:26:21Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 607
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-26T10:14:33.676329+05:30'
-last_seen: '2026-06-26T10:14:33.676329+05:30'
-last_checked: '2026-06-26T10:14:33.676329+05:30'
+first_seen: '2026-06-26T15:26:29.571963+05:30'
+last_seen: '2026-06-26T15:26:29.571963+05:30'
+last_checked: '2026-06-26T15:26:29.571963+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to standardize and advance AI research agents through modular, scalable, and reproducible workflows for machine learning experiments.
+- **MLGym Framework**: A Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
 
-- **Key Features**: Supports distributed training, hyperparameter optimization, and benchmarking with built-in tools for task scheduling, logging, and evaluation across heterogeneous hardware.
+- **Benchmark Suite**: Includes standardized tasks and metrics to assess AI agent performance, enabling reproducible research and fair comparisons across different algorithms and configurations.
 
-- **Benchmark Suite**: Includes predefined benchmarks and tasks to facilitate comparative analysis of AI agents, with extensibility for custom environments and metrics.
+- **Key Features**: Supports distributed training, integrates with popular ML libraries (e.g., PyTorch, TensorFlow), and offers tools for hyperparameter optimization, logging, and visualization.
 
 ## Why It Matters
 

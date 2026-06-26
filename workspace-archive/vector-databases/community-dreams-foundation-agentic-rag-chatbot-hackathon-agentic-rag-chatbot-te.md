@@ -13,8 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
@@ -34,8 +32,8 @@ selection_reason:
 ## Summary
 
 - **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
-- **Python-Based**: Implements core functionality in Python, leveraging libraries for RAG pipelines (e.g., LangChain, LlamaIndex) and agent orchestration.
-- **GitHub Classroom Integration**: Structured for educational use, with 68 forks indicating active community adoption or template usage.
+- **Python-Based**: Implements core RAG components (retriever, generator, agent orchestration) using Python libraries (e.g., LangChain, HuggingFace).
+- **GitHub Classroom Integration**: Structured for educational use, with automated setup via GitHub Classroom and last updated in Feb 2026.
 
 ## Use Cases
 

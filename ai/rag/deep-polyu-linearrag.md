@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-26T10:13:13.617082+05:30'
+collected_at: '2026-06-26T15:25:14.478935+05:30'
 published_at: '2026-06-25T10:44:52Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-26T10:13:13.617082+05:30'
-last_seen: '2026-06-26T10:13:13.617082+05:30'
-last_checked: '2026-06-26T10:13:13.617082+05:30'
+first_seen: '2026-06-26T15:25:14.478935+05:30'
+last_seen: '2026-06-26T15:25:14.478935+05:30'
+last_checked: '2026-06-26T15:25:14.478935+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework leveraging linear graph traversal for efficient large-scale corpus retrieval, optimizing LLM inference by reducing computational overhead.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining retrieval accuracy.
 
-- Proposes a **linear graph retrieval mechanism** that replaces traditional hierarchical or dense retrieval methods, enabling scalable and low-latency knowledge extraction from large document collections.
+- **Scalable Retrieval Mechanism**: Implements a linear-time graph traversal algorithm for dynamic knowledge graph construction, enabling sub-linear query response times on massive document collections (e.g., 10M+ tokens).
 
-- Achieves **state-of-the-art performance** on ICLR 2026 benchmarks by demonstrating superior retrieval efficiency and generation quality compared to conventional RAG systems, particularly in handling long-form corpora.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting customizable graph pruning and hybrid retrieval strategies.
 
 ## Why It Matters
 

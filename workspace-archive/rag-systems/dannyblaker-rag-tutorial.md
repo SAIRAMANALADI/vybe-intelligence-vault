@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
 archive_score: 89
 archive_tier: essential
-resource_kind: framework
+resource_kind: tutorial
 importance: high
 tags:
 - github-repo
@@ -18,7 +18,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # dannyblaker/rag-tutorial
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 89 (essential)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Progressive RAG Tutorial**: Six structured lessons covering foundational to advanced RAG concepts, with executable Python code, reusable utilities, and interactive demos.
-- **Core Technical Components**: Focuses on embeddings, vector databases, and large language models (LLMs) to implement end-to-end RAG pipelines.
-- **Production-Ready Framework**: Provides hands-on guidance for scaling RAG systems, last updated June 2026 with active development tracked in the repository.
+- **Progressive RAG Tutorial**: 6-step guide covering embeddings, vector databases, LLMs, and advanced RAG techniques with reusable Python utilities and hands-on demos.
+- **Production-Ready Code**: Includes working examples and reusable components for building scalable RAG systems from scratch.
+- **Last Updated**: June 16, 2026; Python-based repository with no forks or topics specified.
 
 ## Use Cases
 

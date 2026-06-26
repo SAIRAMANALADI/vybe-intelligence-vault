@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Open protocol** enabling standardized integration between LLM applications and external data sources/tools via a client-server architecture.
-- **Multi-language SDK support** (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) for protocol implementation and server development.
-- **Project structure** includes core protocol specification, language-specific SDKs, sample servers, and authorization extensions under the Linux Foundation.
+- **Open protocol standard** for bidirectional LLM ↔ external data/tool integration via standardized interfaces and resource access patterns
+- **Multi-language SDK support** (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) with protocol implementations and sample servers
+- **Modular architecture** with core protocol specification, maintained servers, and extensible authorization mechanisms (e.g., `ext-auth`)
 
 ## Use Cases
 

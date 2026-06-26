@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-26T10:11:48.484859+05:30'
+collected_at: '2026-06-26T15:23:49.422167+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-26T10:11:48.484859+05:30'
-last_seen: '2026-06-26T10:11:48.484859+05:30'
-last_checked: '2026-06-26T10:11:48.484859+05:30'
+first_seen: '2026-06-26T15:23:49.422167+05:30'
+last_seen: '2026-06-26T15:23:49.422167+05:30'
+last_checked: '2026-06-26T15:23:49.422167+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision) for enhanced contextual retrieval and generation.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
 
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) with frameworks like LangChain and LlamaIndex, showcasing efficient embedding storage, retrieval, and fine-tuning workflows for deep learning applications.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in deep learning workflows, including hybrid search and agent-based applications.
 
-- **Agent & LLM Optimization**: Includes tutorials on deploying AI agents, fine-tuning embeddings, and optimizing multimodal pipelines, leveraging OpenAI APIs and other LLMs for scalable, production-ready vector search systems.
+- **Tooling & Frameworks**: Showcases integration with OpenAI APIs, LangChain for agent orchestration, and fine-tuning techniques for optimizing multimodal and text-based models using vectorized data.
 
 ## Why It Matters
 
