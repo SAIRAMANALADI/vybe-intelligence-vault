@@ -2,7 +2,7 @@
 title: Google Terms of Service – Privacy & Terms – Google
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://myaccount.google.com/termsofservice?hl=en-US
+source_url: https://policies.google.com/terms
 resource_id: blog:google-terms-of-service-privacy-terms-google
 local_vault_path: ai/rag/google-terms-of-service-privacy-terms-google.md
 quality_score: 70
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Legal Framework & Compliance**: Google LLC (incorporated in Delaware, USA) operates under U.S. laws, with Terms of Service (effective May 22, 2024) governing user access to services, including age requirements (parental consent for minors) and compliance with export control, sanctions, and anti-trafficking regulations.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, USA) operates services under U.S. law, with age requirements for minors and service-specific policies for additional restrictions.
 
-- **Service Provision & Modifications**: Google provides a broad range of services (e.g., Search, Maps, Pixel devices) under a unified framework, with permission granted to u
+- **Service Usage & Compliance**: Users must adhere to Google’s terms, service-specific policies, and privacy guidelines; violations include abuse (e.g., malware, phishing, reverse engineering) and automated scraping (e.g., violating `robots.txt`).
+
+- **Content & Licensing**: Users retain IP
 
 ## Use Cases
 
@@ -49,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://myaccount.google.com/termsofservice?hl=en-US
+Original source URL: https://policies.google.com/terms
 
 ## Local Vault File
 

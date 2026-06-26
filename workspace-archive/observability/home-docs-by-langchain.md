@@ -8,7 +8,7 @@ local_vault_path: ai/rag/home-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Home - Docs by LangChain
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- LangChain provides a centralized [/llms.txt](https://docs.langchain.com/llms.txt) index for all documentation pages, enabling structured discovery of resources.
-- The platform supports agent development lifecycle phases: **Build** (LangChain, LangGraph, Deep Agents), **Test** (evaluations, prompt engineering), **Deploy** (scaling), **Monitor** (tracing/debugging), and **Govern** (access control).
-- LangSmith offers **no-code agent creation** (LangSmith Fleet) and **automated failure detection*
+*   LangChain provides an integrated platform for agent engineering, leveraging frameworks like LangChain, LangGraph, and Deep Agents for development.
+*   The platform supports the complete agent lifecycle, from building and testing (via datasets, evaluations, and prompt engineering) to deployment, production monitoring (tracing, debugging, observation), and governance.
+*   LangSmith is a central component, offering functionalities for agent evaluation, monitoring, no-code agent development (Fle
 
 ## Use Cases
 

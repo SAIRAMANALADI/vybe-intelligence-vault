@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document querying and conversation using LLMs.
-- **Python Framework**: Built with Python, leveraging libraries like LangChain for modular document processing and vector storage (e.g., FAISS, Chroma).
-- **Open-Source & Extensible**: Supports custom document ingestion pipelines, retrieval strategies, and LLM integrations (e.g., Hugging Face, OpenAI APIs).
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational AI, dynamically retrieving relevant document chunks to enhance LLM responses.
+
+- **Modular Python Framework**: Built with extensible components for document ingestion, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., HuggingFace, OpenAI APIs).
+
+- **Open-Source Deployment**: Supports self-hosted setups with Docker, includes pre-built pipelines for PDFs/Office do
 
 ## Use Cases
 

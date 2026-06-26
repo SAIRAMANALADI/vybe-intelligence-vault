@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 selection_reason:
 - Active open-source repository
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive agentic AI interactions, blending developer challenges with gaming dynamics.
-- **Asynchronous community engagement**: Features GitHub-based submissions and ongoing challenges, enabling scalable, community-driven AI development.
-- **Microsoft-backed initiative**: Repository last updated June 2026, indicating active support for agentic AI competitions and developer participation.
+- **E-sports-inspired AI challenge platform** facilitating live AI Battles and asynchronous community competitions with GitHub-based submissions.
+- **Dynamic developer engagement** via high-energy challenges, fostering collaborative and competitive agentic AI development.
+- **Repository last updated June 2026**, indicating active but unspecified technical stack (language/dependencies not disclosed).
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://tavily.com
 resource_id: blog:tavily
 local_vault_path: ai/agents/tavily.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time web data retrieval & extraction**: Provides structured, chunked web data to ground AI models with fresh context, reducing hallucinations by ensuring factual accuracy in agent responses.
+- **Real-time web access layer for AI agents**: Provides structured, chunked web data retrieval and extraction via a single API to ground LLMs with fresh context, reducing hallucinations by ensuring factual grounding.
 
-- **Scalable, low-latency infrastructure**: Handles thousands of queries per second with a production-grade stack featuring real-time search, intelligent caching, and indexing, maintaining predictable latency at scale.
+- **Scalable, secure production-grade infrastructure**: Handles 300M+ monthly requests with 99.99% uptime, p50 latency of 180ms, and built-in safeguards (PII protection, prompt injection blocking, malicious source filtering).
 
-- **Enterprise-grade security & compliance**: Implements security layers to blo
+- **Benchmark-proven performance**: Achieves state-of-
 
 ## Use Cases
 

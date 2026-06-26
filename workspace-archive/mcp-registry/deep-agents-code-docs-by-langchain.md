@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for behavior adaptation.
+- **Multi-Model & Provider Agnostic**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command or CLI flags (`--model provider:model`), with persistent memory for cross-session context.
 
-- **Human-in-the-Loop & Safety Controls**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) with optional auto-approve (`-y`/`--auto-approve`), configurable allowlists (`--shell-allow-list`), and remote sandbo
+- **Human-in-the-Loop & Sandboxing**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) via human-in-the-loop prompts, with optional auto-approval (`-y`). Supports remote sandboxe
 
 ## Use Cases
 

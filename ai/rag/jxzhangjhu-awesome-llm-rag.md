@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-26T20:19:54.808739+05:30'
+collected_at: '2026-06-26T22:40:30.342972+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - paper
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-26T20:19:54.808739+05:30'
-last_seen: '2026-06-26T20:19:54.808739+05:30'
-last_checked: '2026-06-26T20:19:54.808739+05:30'
+first_seen: '2026-06-26T22:40:30.342972+05:30'
+last_seen: '2026-06-26T22:40:30.342972+05:30'
+last_checked: '2026-06-26T22:40:30.342972+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A comprehensive, community-maintained repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**.
-- **Technical Scope**: Focuses on **embeddings**, **retrieval mechanisms**, and **RAG-augmented LLM architectures**, including topics like **retrieval-information** and **RAG-embeddings** optimization.
-- **Metadata**: 1,340 stars, 84 forks, last updated **June 23, 2026**; covers tools, benchmarks, and methodologies for enhancing LLM performance via dynamic knowledge retrieval.
+- **Curated RAG Resources**: Aggregates advanced techniques, frameworks, and research papers on retrieval-augmented generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+
+- **Technical Focus**: Includes topics on RAG-specific embeddings, retrieval optimization, and hybrid architectures, with emphasis on enhancing LLM performance via dynamic knowledge augmentation.
+
+- **Continuous Updates**: Repository actively maintained with last update in June 2026, ensuring inclusion of cutting-edge advancements in RAG methodologies and LLM integration.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-06-26T20:22:00.769061+05:30'
-collected_at: '2026-06-26T20:22:00.769077+05:30'
+published_at: '2026-06-26T22:42:40.915785+05:30'
+collected_at: '2026-06-26T22:42:40.915792+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-06-26T20:22:00.769077+05:30'
-last_seen: '2026-06-26T20:22:00.769077+05:30'
-last_checked: '2026-06-26T20:22:00.769077+05:30'
+first_seen: '2026-06-26T22:42:40.915792+05:30'
+last_seen: '2026-06-26T22:42:40.915792+05:30'
+last_checked: '2026-06-26T22:42:40.915792+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack provides a transparent, open-source framework for building production-ready AI agents, RAG systems, and multimodal applications with modular components for retrieval, reasoning, memory, and tool integration.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and context-engineered systems with full visibility for debugging and optimization.
 
-- **Enterprise-Grade Scalability**: Supports cloud-agnostic deployment (Kubernetes-ready), built-in observability, and vendor-neutral integration with LLMs (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch).
+- **Vendor-Neutral Integration**: Supports seamless integration with leading AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable workflows.
 
-- **Advanced Use Cases & Ecosystem**: Enables advanced RAG pipelines, AI agents with tool-calling, and multimodal processing, with enterprise support, visual pipeline design tools, and scalable deployment options via Haystack’s AI Orchestration Platform.
+- **Enterprise-Grade Scalability**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment guides, supporting scalable AI operations across environments.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:22:00.769061+05:30
+- Published: 2026-06-26T22:42:40.915785+05:30
 
 ## Related Tags
 

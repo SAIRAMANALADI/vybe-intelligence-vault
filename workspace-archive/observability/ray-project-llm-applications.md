@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -36,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with fine-tuning support.
-- **Modular Architecture**: Provides Jupyter Notebook-based templates for scalable LLM application deployment, emphasizing modular components for retrieval, generation, and serving layers.
-- **Tooling & Optimization**: Includes utilities for model fine-tuning, inference optimiza
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with modular retrieval and generation components.
+
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed serving, with benchmarks for latency, throughput, and cost efficiency.
+
+- **End-to-End Deployment**: Provides template
 
 ## Use Cases
 

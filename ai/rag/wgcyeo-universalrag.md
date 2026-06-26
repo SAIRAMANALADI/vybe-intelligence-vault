@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-26T20:20:39.843774+05:30'
+collected_at: '2026-06-26T22:41:15.370155+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 171
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-26T20:20:39.843774+05:30'
-last_seen: '2026-06-26T20:20:39.843774+05:30'
-last_checked: '2026-06-26T20:20:39.843774+05:30'
+first_seen: '2026-06-26T22:41:15.370155+05:30'
+last_seen: '2026-06-26T22:41:15.370155+05:30'
+last_checked: '2026-06-26T22:41:15.370155+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained chunks) within a single pipeline.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), enabling unified processing of heterogeneous corpora.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a modality-agnostic retrieval mechanism using cross-modal embeddings and a unified generation model, enabling seamless integration of heterogeneous corpora without task-specific fine-tuning.
+- **ACL 2026 Oral-Presented Architecture**: The system introduces a modular pipeline with modality-agnostic retrievers and generators, leveraging cross-modal attention mechanisms and adaptive chunking strategies to optimize retrieval-augmented generation performance.
 
-- **ACL 2026 Oral Contribution**: Presents a novel architecture with empirical validation on multimodal benchmarks, demonstrating state-of-the-art performance in cross-modal retrieval and generation tasks while maintaining scalability.
+- **Open-Source Python Implementation**: The repository provides a reference implementation with pre-trained models, benchmark datasets, and APIs for integrating UniversalRAG into downstream applications, emphasizing scalability and extensibility.
 
 ## Why It Matters
 

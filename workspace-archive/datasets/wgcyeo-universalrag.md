@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), leveraging unified embeddings and cross-modal retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), enabling unified processing of heterogeneous corpora.
 
-- **ACL 2026 Oral-Presented Architecture**: The system integrates modality-agnostic encoders, adaptive retrieval strategies, and a modality-fusion decoder to handle heterogeneous corpor
+- **ACL 2026 Oral-Presented Architecture**: The system introduces a modular pipeline with modality-agnostic retrievers and generators, leveraging cross-modal attention mechanisms and adaptive chunking stra
 
 ## Use Cases
 

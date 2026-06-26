@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys Azure AI Search for retrieval and Azure OpenAI LLMs for generating ChatGPT-style and Q&A responses, following RAG (Retrieval-Augmented Generation) pattern best practices.
-
-- **Azure Deployment**: Uses Azure Developer CLI (azd) templates for infrastructure-as-code deployment, integrating Azure AI Search, Azure OpenAI, and supporting services in a scalable architecture.
-
-- **Python-Based**: Provides a Python-based solution accelerator with pre-built components for
+*   Implements a RAG pattern solution accelerator utilizing Azure AI Search for retrieval and Azure OpenAI for large language model inference.
+*   Delivers ChatGPT-style and Q&A conversational AI experiences against user-provided data.
+*   Developed in Python, incorporating Azure best practices for scalable RAG deployments.
 
 ## Use Cases
 

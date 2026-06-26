@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
+*   [Getting Started | OpenTelemetry](https://opentelemetry.io/docs/getting-started/)
+*   [Versioning and stability for OpenTelemetry clients | OpenTelemetry](https://opentelemetry.io/docs/specs/otel/versioning-and-stability/)
 *   [UCLA COVID protocols - COVID-19 and vaccine resources](https://covid-19.ucla.edu/ucla-covid-protocols)
 *   [DagsHub - YouTube](https://youtube.com/c/dagshub)
-*   [Sanjeev Arora](https://www.cs.princeton.edu/~arora)
-*   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/)
-*   [Design Tech - Cornell University](https://designtech.cornell.edu/design-tech)
+*   [Telemetry Stability | OpenTelemetry](https://opentelemetry.io/docs/specs/otel/telemetry-stability/)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

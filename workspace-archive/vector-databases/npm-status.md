@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **npm Statuspage** provides real-time operational metrics for npm services, including uptime statistics (e.g., 99.93% for `www.npmjs.com` over 90 days) and incident tracking via email/SMS notifications.
-- **Historical Incident Resolution**: A major intermittent publish failure on June 12, 2026, was resolved after identification, monitoring, and implementation of fixes.
-- **Operational Services**: All core npm services (package installation, publishing, search, security audit, replication feed)
+- **npm Statuspage** provides real-time operational metrics and incident tracking for npm services, including website uptime (99.93% over 90 days), package installation, publishing, search, security audit, and replication feed, all currently marked as operational.
+
+- **Incident Management** includes historical tracking (e.g., June 12, 2026, intermittent publish failures resolved via monitoring and fixes) and notification systems via email/SMS for incident updates, with compliance to Atlassian an
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-26T15:29:29.060534+05:30'
-collected_at: '2026-06-26T15:29:29.060548+05:30'
+published_at: '2026-06-26T22:44:21.186552+05:30'
+collected_at: '2026-06-26T22:44:21.186565+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-26T15:29:29.060548+05:30'
-last_seen: '2026-06-26T15:29:29.060548+05:30'
-last_checked: '2026-06-26T15:29:29.060548+05:30'
+first_seen: '2026-06-26T22:44:21.186565+05:30'
+last_seen: '2026-06-26T22:44:21.186565+05:30'
+last_checked: '2026-06-26T22:44:21.186565+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing with model switching via `/model` and autonomous workflows through `/autopilot`.
+- **Multi-Agent Workflows**: GitHub Copilot CLI enables parallelized subagent execution via `/fleet`, allowing concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, while maintaining session persistence via `/resume` for long-running tasks.
 
-- **GitHub-native MCP integration**: Direct interaction with GitHub issues, PRs, and branches via `/mcp`, with session persistence and context retention for seamless workflow transitions between CLI and IDE.
+- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (e.g., branch protections, required checks) and enabling seamless transitions from `/plan` to merged PRs without leaving the terminal.
 
-- **Customizable agentic runtime**: Supports `/agent` and `/skills` for defining custom behaviors, MCP server integrations for extensibility, and inherits Copilot Business/Enterprise governance policies for compliance.
+- **Customizable & Extensible**: Supports AGENTS.md for defining custom agent behavior, MCP server integrations for tool access, and experimental features via `/experimental show`, while enforcing explicit approval for all file modifications and command executions for security governance.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T15:29:29.060534+05:30
+- Published: 2026-06-26T22:44:21.186552+05:30
 
 ## Related Tags
 

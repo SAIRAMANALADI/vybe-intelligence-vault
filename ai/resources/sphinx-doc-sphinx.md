@@ -4,11 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sphinx-doc/sphinx
-collected_at: '2026-06-26T20:23:21.653769+05:30'
+collected_at: '2026-06-26T22:43:35.761217+05:30'
 published_at: '2026-06-26T07:17:42Z'
 tags:
 - github-repo
 - python
+- scripts
 stars: 7891
 language: Python
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2015-01-02T10:53:28Z'
 pushed_at: '2026-06-21T23:52:48Z'
 resource_id: github:sphinx-doc/sphinx
-first_seen: '2026-06-26T20:23:21.653769+05:30'
-last_seen: '2026-06-26T20:23:21.653769+05:30'
-last_checked: '2026-06-26T20:23:21.653769+05:30'
+first_seen: '2026-06-26T22:43:35.761217+05:30'
+last_seen: '2026-06-26T22:43:35.761217+05:30'
+last_checked: '2026-06-26T22:43:35.761217+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Static Documentation Generator**: Sphinx is a Python-based tool that converts reStructuredText (RST) or Markdown markup into static HTML, LaTeX, ePub, or other formats for documentation generation.
+- **Static Documentation Generator**: Sphinx converts reStructuredText (RST) and Markdown files into static HTML, PDF, or other formats using a Python-based build system with extensible plugins and themes.
 
-- **Extensible Architecture**: Supports plugins and custom extensions (e.g., `sphinx.ext.autodoc` for API documentation) via a modular Python framework.
+- **Cross-Referencing & Indexing**: Supports advanced cross-referencing, automatic indexing, and domain-specific directives (e.g., Python, C) for structured documentation with deep linking.
 
-- **Cross-Referencing & Theming**: Features built-in cross-referencing, syntax highlighting, and customizable themes (e.g., `sphinx_rtd_theme`) for consistent documentation output.
+- **Integration & Automation**: Integrates with CI/CD pipelines, supports versioning, and provides APIs for custom extensions, while offering tools like `sphinx-build` and `sphinx-apidoc` for automated documentation generation.
 
 ## Why It Matters
 

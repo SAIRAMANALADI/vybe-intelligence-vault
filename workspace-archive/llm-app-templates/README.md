@@ -26,7 +26,7 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [langchain-ai/rag-research-agent-template](https://github.com/langchain-ai/rag-research-agent-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-26 20:34 IST*
+*Last updated: 2026-06-26 22:55 IST*

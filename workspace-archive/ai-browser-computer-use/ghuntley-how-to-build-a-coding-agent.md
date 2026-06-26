@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) with modular architecture for AI-driven code generation/editing.
-- **Key components**: Agent orchestration, LLM integration (APIs), file system interaction, and tooling for real-time code analysis/refactoring.
-- **Tutorial covers**: State management, context-aware prompting, and deployment strategies for scalable agentic workflows.
+- **Go-based workshop** for constructing a **coding agent** (similar to Cursor, Cline, or OpenCode) with modular architecture for extensibility.
+
+- **Key components** include AI integration (LLM APIs), tool orchestration (file I/O, shell commands), and state management for multi-step workflows.
+
+- **Tutorial covers** agent design patterns, prompt engineering, and deployment strategies, with emphasis on real-time code interaction and debugging.
 
 ## Use Cases
 

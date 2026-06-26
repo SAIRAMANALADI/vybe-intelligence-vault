@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com
-published_at: '2026-06-24T20:40:04.345298+05:30'
-collected_at: '2026-06-24T20:40:04.345313+05:30'
+published_at: '2026-06-26T22:44:05.167132+05:30'
+collected_at: '2026-06-26T22:44:05.167145+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:home-docs-by-langchain
-first_seen: '2026-06-24T20:40:04.345313+05:30'
-last_seen: '2026-06-24T20:40:04.345313+05:30'
-last_checked: '2026-06-24T20:40:04.345313+05:30'
+first_seen: '2026-06-26T22:44:05.167145+05:30'
+last_seen: '2026-06-26T22:44:05.167145+05:30'
+last_checked: '2026-06-26T22:44:05.167145+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain Documentation Index**: Centralized `/llms.txt` file listing all available documentation pages for LangChain, accessible at [/llms.txt](https://docs.langchain.com/llms.txt).
-
-- **Agent Development Platform**: Unified platform supporting agent lifecycle stages—development (LangChain/LangGraph/Deep Agents), testing (datasets/evaluations), deployment, monitoring, and governance.
-
-- **LangSmith Features**: Includes Engine for automated failure detection, no-code agent builder (LangSmith Fleet), free courses (LangChain Academy), community forum, compliance certifications (HIPAA/SOC 2/GDPR), and real-time service status tracking.
+*   LangChain provides an integrated platform for agent engineering, leveraging frameworks like LangChain, LangGraph, and Deep Agents for development.
+*   The platform supports the complete agent lifecycle, from building and testing (via datasets, evaluations, and prompt engineering) to deployment, production monitoring (tracing, debugging, observation), and governance.
+*   LangSmith is a central component, offering functionalities for agent evaluation, monitoring, no-code agent development (Fleet), and automated failure resolution through LangSmith Engine.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T20:40:04.345298+05:30
+- Published: 2026-06-26T22:44:05.167132+05:30
 
 ## Related Tags
 

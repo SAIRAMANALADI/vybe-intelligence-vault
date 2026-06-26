@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing.
-- **Features**: Detects prompt injection, OWASP Top 10 LLM risks, and other AI-specific threats using red-team techniques.
-- **Implementation**: Python-based tool supporting security audits, penetration testing, and CI/CD integration for LLM/RAG systems.
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection and OWASP Top 10 risks.
+- **Features**: Supports red-team testing, automated security audits, and integration with OpenAI/ChatGPT models; includes prompt-injection detection and vulnerability scanning.
+- **Technical Details**: Python-based tool with 71 stars, last updated June 2026; focuses on AI security, LLM security, and penetra
 
 ## Use Cases
 

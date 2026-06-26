@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-26T20:20:34.843099+05:30'
+collected_at: '2026-06-26T22:41:10.356364+05:30'
 published_at: '2026-06-26T08:49:25Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 780
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-26T20:20:34.843099+05:30'
-last_seen: '2026-06-26T20:20:34.843099+05:30'
-last_checked: '2026-06-26T20:20:34.843099+05:30'
+first_seen: '2026-06-26T22:41:10.356364+05:30'
+last_seen: '2026-06-26T22:41:10.356364+05:30'
+last_checked: '2026-06-26T22:41:10.356364+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous multi-agent systems, reasoning agents, and advanced RAG (Retrieval-Augmented Generation) architectures for complex knowledge synthesis.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's "Knowledge Foundation Models" (KnowFM) initiative, emphasizing scalable, interpretable deep research frameworks leveraging LLMs for multi-step reasoning and evidence retrieval.
-- **Technical Breadth**: Covers agentic AI, search agents, and reasoning pipelines, including benchmarks, methodologies, and tools for evaluating deep research agents in dynamic, real-world knowledge domains.
+- **Curated resource list** for agentic deep research, focusing on **LLMs, RAG, and reasoning agents** as presented in **ACL 2026 KnowFM**.
+- **Covers advanced topics** including **search agents, deep-research pipelines, and multi-agent reasoning frameworks**.
+- **Actively maintained** (last updated **2026-06-26**) with **780 stars** and **63 forks**, indicating strong community engagement.
 
 ## Why It Matters
 

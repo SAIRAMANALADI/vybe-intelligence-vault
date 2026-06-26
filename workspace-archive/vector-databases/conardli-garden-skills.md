@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills.
-- **Technical Stack**: Primarily CSS-based, with integrations for AI agents (Claude), RAG (Retrieval-Augmented Generation), and GPT-Image-2 for image generation.
-- **Metadata**: 8,768 stars, 1,186 forks, last updated June 26, 2026. Topics include agent-based systems, RAG, and web design.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, with 8,772 stars and 1,186 forks.
+- **Technical Stack**: Primarily implemented in CSS, with integrations for agents, RAG (Retrieval-Augmented Generation), and tools like GPT-Image-2.
+- **Last Update**: Repository last updated on **2026-06-26**, indicating active maintenance and potential future updates.
 
 ## Use Cases
 

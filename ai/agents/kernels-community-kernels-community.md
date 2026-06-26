@@ -4,17 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/kernels-community
-published_at: '2026-06-26T02:00:13.943001+05:30'
-collected_at: '2026-06-26T02:00:13.943015+05:30'
+published_at: '2026-06-26T22:45:15.458865+05:30'
+collected_at: '2026-06-26T22:45:15.458873+05:30'
 tags:
 - agents
 - web-crawled
-- workflows
 status: active
 resource_id: blog:kernels-community-kernels-community
-first_seen: '2026-06-26T02:00:13.943015+05:30'
-last_seen: '2026-06-26T02:00:13.943015+05:30'
-last_checked: '2026-06-26T02:00:13.943015+05:30'
+first_seen: '2026-06-26T22:45:15.458873+05:30'
+last_seen: '2026-06-26T22:45:15.458873+05:30'
+last_checked: '2026-06-26T22:45:15.458873+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Live Kernel Build Monitoring**: Real-time tracking of kernel build statuses via an interactive table, hosted on Hugging Face Spaces.
-
-- **Optional Grafana Integration**: Metrics dashboard available for advanced monitoring and visualization of kernel CI/CD performance.
-
-- **Community-Driven**: Open-source project (`kernels-community`) providing transparency and collaboration for kernel development workflows.
+- **Live Kernel Build Monitoring**: Provides real-time tracking of kernel builds via an interactive table interface.
+- **Optional Grafana Integration**: Enables optional visualization and metrics tracking for kernel build performance.
+- **Community-Driven Resource**: Hosted on Hugging Face Spaces by the `kernels-community` team for open-source kernel development monitoring.
 
 ## Why It Matters
 
@@ -36,13 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T02:00:13.943001+05:30
+- Published: 2026-06-26T22:45:15.458865+05:30
 
 ## Related Tags
 
 - agents
 - web-crawled
-- workflows
 
 ## Source
 

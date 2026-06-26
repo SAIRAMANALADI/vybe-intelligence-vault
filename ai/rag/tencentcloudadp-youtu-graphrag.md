@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-26T20:20:34.891933+05:30'
+collected_at: '2026-06-26T22:41:10.421043+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 1212
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-26T20:20:34.891933+05:30'
-last_seen: '2026-06-26T20:20:34.891933+05:30'
-last_checked: '2026-06-26T20:20:34.891933+05:30'
+first_seen: '2026-06-26T22:41:10.421043+05:30'
+last_seen: '2026-06-26T22:41:10.421043+05:30'
+last_checked: '2026-06-26T22:41:10.421043+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG system to enhance complex reasoning tasks.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
 
-- **Graph-Centric RAG**: Leverages graph structures (knowledge graphs, dynamic graphs) for structured retrieval and reasoning, enabling efficient handling of multi-hop queries and contextual dependencies in LLM-based systems.
+- **GraphRAG Integration**: Combines retrieval-augmented generation (RAG) with graph-based knowledge representation, enabling dynamic subgraph retrieval and reasoning over interconnected data for improved factual grounding and coherence.
 
-- **ICLR 2026 Contribution**: Proposes a novel architecture integrating graph-based retrieval with agentic workflows, optimizing performance for complex reasoning tasks while maintaining scalability in Python-based implementations.
+- **ICLR 2026 Contribution**: Proposes a novel architecture optimizing agent coordination and graph traversal for multi-hop reasoning, with empirical validation on complex reasoning benchmarks demonstrating state-of-the-art performance.
 
 ## Why It Matters
 

@@ -3,17 +3,18 @@ title: stanford-oval/storm
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/stanford-oval/storm
-collected_at: '2026-06-26T10:14:43.701915+05:30'
-published_at: '2026-06-26T04:02:33Z'
+source_url: https://github.com/stanford-oval/storm?source=post_page
+resource_id: github:stanford-oval/storm
+-----dba899ae0355---------------------------------------
+collected_at: '2026-06-26T22:42:40.530981+05:30'
+published_at: '2026-06-26T16:58:30Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
-stars: 29401
+stars: 29429
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-06-26T10:14:43.701915+05:30'
-last_seen: '2026-06-26T10:14:43.701915+05:30'
-last_checked: '2026-06-26T10:14:43.701915+05:30'
+first_seen: '2026-06-26T22:42:40.530981+05:30'
+last_seen: '2026-06-26T22:42:40.530981+05:30'
+last_checked: '2026-06-26T22:42:40.530981+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **System Architecture**: STORM is an LLM-powered system designed for autonomous knowledge curation, integrating retrieval-augmented generation (RAG) with agentic workflows to research topics and produce structured, citation-backed reports.
+- **LLM-Powered Research System**: STORM (Synthesis of Topic QA, Research, and Multi-source citations) autonomously researches a given topic using large language models (LLMs) and generates a comprehensive, citation-backed report.
 
-- **Key Components**: Utilizes a multi-agent framework where one agent decomposes research questions, another retrieves and synthesizes evidence, and a third generates the final report with inline citations, optimizing for depth and accuracy.
+- **Agentic RAG Pipeline**: Implements an agentic retrieval-augmented generation (RAG) framework with iterative sub-question decomposition, multi-source retrieval, and synthesis, enabling deep, multi-turn research with verifiable citations.
 
-- **Technical Specifications**: Implemented in Python, leveraging large language models (LLMs) for reasoning and retrieval, with optimizations for efficiency and scalability; presented at EMNLP 2024 and NAACL, emphasizing deep research and knowledge synthesis.
+- **EMNLP 2024 Publication**: Presented at EMNLP 2024, the system emphasizes structured knowledge curation, multi-source verification, and report generation, with a Python-based implementation leveraging modern NLP techniques.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29401
-- Forks: 2726
+- Stars: 29429
+- Forks: 2732
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-06-26T04:02:33Z
+- Last Updated: 2026-06-26T16:58:30Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z
@@ -70,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/stanford-oval/storm
+Original source: https://github.com/stanford-oval/storm?source=post_page-----dba899ae0355---------------------------------------

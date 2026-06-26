@@ -16,7 +16,6 @@ tags:
 - hackernews
 - openai
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts 300+ AI agent frameworks, tools, and resources across 20+ categories, updated monthly for 2026 relevance.
-- **Technical Scope**: Encompasses LLM integration (e.g., LangChain, ChatGPT), machine learning workflows, and agent-based systems.
-- **Community Metrics**: 1,247 stars, 416 forks, with last update on 2026-06-26, indicating active maintenance.
+- **Curated Collection**: Repository hosting 300+ AI agents, frameworks, and tools categorized into 20+ topics, updated monthly (last update: 2026-06-26).
+- **Technical Scope**: Encompasses AI agents, LLMs, machine learning tools, and frameworks like LangChain and ChatGPT-related resources.
+- **Community Metrics**: 1,258 stars and 419 forks, indicating active community engagement in AI agent development and research.
 
 ## Use Cases
 

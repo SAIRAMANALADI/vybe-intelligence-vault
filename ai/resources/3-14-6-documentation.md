@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-26T20:23:19.797465+05:30'
-collected_at: '2026-06-26T20:23:19.797481+05:30'
+published_at: '2026-06-26T22:43:34.507262+05:30'
+collected_at: '2026-06-26T22:43:34.507270+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-26T20:23:19.797481+05:30'
-last_seen: '2026-06-26T20:23:19.797481+05:30'
-last_checked: '2026-06-26T20:23:19.797481+05:30'
+first_seen: '2026-06-26T22:43:34.507270+05:30'
+last_seen: '2026-06-26T22:43:34.507270+05:30'
+last_checked: '2026-06-26T22:43:34.507270+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Python Documentation Structure**: Official docs for Python 3.14.6 include sections for "What's new," tutorial, library reference, language reference, setup/usage, HOWTOs, C API, FAQs, and deprecations, with additional resources like packaging guides and static typing docs.
+- **Python 3.14.6** is the latest stable release, with **3.15 (pre-release)** and **3.16 (in development)** available for testing; versions **3.9+** are end-of-life (EOL) except **3.10-3.12**, which receive security fixes.
 
-- **Version Support Matrix**: Python 3.14 (stable), 3.13 (stable), 3.12/3.11/3.10 (security-fixes), and versions 3.9–2.6 (EOL), with 3.16 (in development) and 3.15 (pre-release) available.
+- **Official documentation** includes structured sections: *Tutorial* (syntax/features), *Library Reference* (standard library), *Language Reference* (syntax/grammar), and *C API* (for C/C++ extensions).
 
-- **Licensing & Tools**: Documentation licensed under PSF License v2 + Zero-Clause BSD for code examples, built with Sphinx 8.2.3, and hosted with version-specific navigation (e.g., 3.14.6).
+- **Additional resources** include *PEP Index* (Python Enhancement Proposals), *Packaging Guide* (PyPI/module distribution), and *Static Typing* (type safety tools like `typing` module).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T20:23:19.797465+05:30
+- Published: 2026-06-26T22:43:34.507262+05:30
 
 ## Related Tags
 

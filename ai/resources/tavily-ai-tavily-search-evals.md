@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tavily-ai/tavily-search-evals
-collected_at: '2026-06-26T15:29:24.016347+05:30'
+collected_at: '2026-06-26T22:45:22.667706+05:30'
 published_at: '2026-05-31T17:09:29Z'
 tags:
 - benchmark
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-06-19T16:00:27Z'
 pushed_at: '2026-04-02T14:49:05Z'
 resource_id: github:tavily-ai/tavily-search-evals
-first_seen: '2026-06-26T15:29:24.016347+05:30'
-last_seen: '2026-06-26T15:29:24.016347+05:30'
-last_checked: '2026-06-26T15:29:24.016347+05:30'
+first_seen: '2026-06-26T22:45:22.667706+05:30'
+last_seen: '2026-06-26T22:45:22.667706+05:30'
+last_checked: '2026-06-26T22:45:22.667706+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluation metrics.
-- **Implementation**: Python-based framework for executing and comparing search evaluations, enabling reproducible testing.
-- **Metadata**: Last updated in 2026, minimal activity (11 stars, 0 forks), no associated topics.
+- **Implementation**: Python-based framework with automated evaluation pipelines for comparative analysis of search engine responses.
+- **Metadata**: Minimal activity (11 stars, 0 forks) with last update in May 2026, indicating limited recent development or community engagement.
 
 ## Why It Matters
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Production Resources**: Repository compiling battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
-- **Technical Scope**: Focuses on Python-based implementations, covering embeddings, vector databases, LLM integration, and MLOps/LLMOps workflows for RAG deployment.
-- **Updated & Community-Driven**: Last updated June 2026, with 124 stars and 32 forks, maintaining a curated list of production-grade RAG solut
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade RAG systems, covering AI engineering, LLMOps, and MLOps workflows.
+
+- **Comprehensive Technical Stack**: Includes Python-based tools for embeddings, vector databases, LangChain integration, and large language models (LLMs), with focus on deployment, scalability, and reliability.
+
+- **Actively Maintained & Community-Driven**: Last updated June 2026
 
 ## Use Cases
 

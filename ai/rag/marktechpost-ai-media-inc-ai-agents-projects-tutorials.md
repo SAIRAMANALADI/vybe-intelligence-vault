@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-06-26T20:20:54.882840+05:30'
+collected_at: '2026-06-26T22:41:30.424804+05:30'
 published_at: '2026-06-26T14:25:03Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-06-26T08:01:02Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-06-26T20:20:54.882840+05:30'
-last_seen: '2026-06-26T20:20:54.882840+05:30'
-last_checked: '2026-06-26T20:20:54.882840+05:30'
+first_seen: '2026-06-26T22:41:30.424804+05:30'
+last_seen: '2026-06-26T22:41:30.424804+05:30'
+last_checked: '2026-06-26T22:41:30.424804+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, emphasizing inter-agent communication, task delegation, and synchronization mechanisms.
-
-- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines (e.g., reflection, self-correction) to enhance agent decision-making and long-term planning.
-
-- **Agentic workflows**: Demonstrates end-to-end agentic frameworks (e.g., RAG, coding agents) with Jupyter Notebook-based tutorials covering planning, tool integration, and adaptive behavior.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed tasks, communication protocols, and synchronization mechanisms.
+- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines for agentic workflows.
+- **Jupyter Notebook-based**: All projects/tutorials are structured as executable notebooks, covering agent skills, RAG integration, and agentic frameworks.
 
 ## Why It Matters
 

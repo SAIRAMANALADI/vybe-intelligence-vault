@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with an LLM generator, enabling dynamic access to external knowledge for improved factuality and adaptability without full retraining.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), enabling dynamic access to external knowledge at inference time to improve factuality and reduce hallucinations, while introducing latency and cost overhead.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) and domain-specific embedding models (fine-tuned for retrieval tasks) are critical for retrieval precision and downstream generation quality.
-
-- **Multi-Stage Retrieval & Optimization**: Hybrid sea
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) and embedding models (off-the-shelf vs. fine-tuned) critically impact retrieval precision; hybrid search (BM25 + vector) and reranking (cross-encoders) enhan
 
 ## Use Cases
 

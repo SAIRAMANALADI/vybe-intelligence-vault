@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-06-26T20:19:59.807943+05:30'
+collected_at: '2026-06-26T22:40:35.394939+05:30'
 published_at: '2026-06-26T03:29:26Z'
 tags:
 - github-repo
 - hackernews
 - html
-- models
 - rag
 stars: 1358
 language: HTML
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-06-26T20:19:59.807943+05:30'
-last_seen: '2026-06-26T20:19:59.807943+05:30'
-last_checked: '2026-06-26T20:19:59.807943+05:30'
+first_seen: '2026-06-26T22:40:35.394939+05:30'
+last_seen: '2026-06-26T22:40:35.394939+05:30'
+last_checked: '2026-06-26T22:40:35.394939+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and applications, including LLM-based metasearch, RAG implementations, and generative AI search engines.
-- **Technical Scope**: Covers topics like `llm-inference`, `retrieval-augmented-generation (RAG)`, `question-answering`, and `information-retrieval`, with a focus on generative AI tools for enhanced search.
-- **Live Demo**: Hosted on Hugging Face Spaces (`hf.co/spaces/felladrin/awesome-ai-web-search`) for interactive exploration of listed tools.
+- **Curated List**: Repository containing a comprehensive, categorized list of AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
+- **Technical Scope**: Focuses on metasearch engines, AI search assistants, and retrieval-augmented generation (RAG) systems for dynamic, context-aware web queries.
+- **Resources**: Includes links to open-source projects, hosted demos (e.g., Hugging Face Spaces), and tools spanning generative AI, LLM inference, and artificial intelligence-driven search optimization.
 
 ## Why It Matters
 

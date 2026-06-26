@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-26T20:20:09.832457+05:30'
+collected_at: '2026-06-26T22:40:45.438353+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-26T20:20:09.832457+05:30'
-last_seen: '2026-06-26T20:20:09.832457+05:30'
-last_checked: '2026-06-26T20:20:09.832457+05:30'
+first_seen: '2026-06-26T22:40:45.438353+05:30'
+last_seen: '2026-06-26T22:40:45.438353+05:30'
+last_checked: '2026-06-26T22:40:45.438353+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive coverage of retrieval and generation capabilities in LLMs.
-- **Evaluation Framework**: Includes metrics for assessing CRUD (Create, Read, Update, Delete) operations in RAG pipelines, with standardized datasets and evaluation protocols for reproducibility.
-- **Open-Source Toolkit**: Provides a Python-based framework with modular components for benchmarking, supporting extensibility for custom datasets and RAG architectures.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks.
+
+- **Evaluation Scope**: Covers four key dimensions—**C**omplexity, **R**etrieval, **U**nderstanding, and **D**iversity—with 10 sub-tasks to assess RAG performance across varied scenarios.
+
+- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation metrics, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
 
 ## Why It Matters
 

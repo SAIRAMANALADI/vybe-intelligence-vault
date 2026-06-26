@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-26T20:19:09.827210+05:30'
+collected_at: '2026-06-26T22:39:45.349256+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-26T20:19:09.827210+05:30'
-last_seen: '2026-06-26T20:19:09.827210+05:30'
-last_checked: '2026-06-26T20:19:09.827210+05:30'
+first_seen: '2026-06-26T22:39:45.349256+05:30'
+last_seen: '2026-06-26T22:39:45.349256+05:30'
+last_checked: '2026-06-26T22:39:45.349256+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs, covering integration with frameworks like LangChain and LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates workflows leveraging LanceDB as a vector database for efficient embedding storage, retrieval, and similarity search in AI pipelines.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in deep learning pipelines.
 
-- **Tooling & Frameworks**: Includes tutorials on fine-tuning, embedding generation, and integration with OpenAI APIs, LangChain, and other deep-learning frameworks for end-to-end AI agent development.
+- **Agent & LLM Integration**: Includes tutorials for deploying AI agents, leveraging OpenAI’s GPT-4 Vision, and optimizing multimodal embeddings for real-world applications.
 
 ## Why It Matters
 

@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, emphasizing inter-agent communication, task delegation, and synchronization mechanisms.
-
-- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines (e.g., reflection, self-correction) to enhance agent decision-making and long-term planning.
-
-- **Agentic workflows**: Demonstrates end-to-end agentic frameworks (e.g., RAG, coding agents) with Jupyter Not
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed tasks, communication protocols, and synchronization mechanisms.
+- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines for agentic workflows.
+- **Jupyter Notebook-based**: All projects/tutorials are structured as executable notebooks, covering agent skills, RAG integration, and agentic frameworks.
 
 ## Use Cases
 

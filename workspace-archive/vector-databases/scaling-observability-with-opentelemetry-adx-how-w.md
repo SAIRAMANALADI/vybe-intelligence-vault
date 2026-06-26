@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Cost Reduction**: Migrated from Azure Application Insights to Azure Data Explorer (ADX) via OpenTelemetry (OTel), achieving **50–70% cost savings** by leveraging ADX’s compressed storage and compute-based pricing model instead of Application Insights’ per-GB ingestion fees.
+- **Cost Reduction**: Migrated from Azure Application Insights to Azure Data Explorer (ADX) via OpenTelemetry (OTel), achieving **50–70% cost savings** by leveraging ADX’s storage/compute-based pricing model (vs. Application Insights’ per-GB ingest model).
 
-- **Architecture Shift**: Replaced vendor-locked Application Insights with a decoupled stack using **OpenTelemetry SDKs** for instrumentation, an **OTel Collector** for signal processing/filtering, and ADX as the backend
+- **Architecture Shift**: Implemented a **three-tier observability stack**—OpenTelemetry SDKs for instrumentation, OTel Collector for processing/export, and ADX for storage/analytics—enabling vendor-neutral telemetry with Kusto Query Language
 
 ## Use Cases
 

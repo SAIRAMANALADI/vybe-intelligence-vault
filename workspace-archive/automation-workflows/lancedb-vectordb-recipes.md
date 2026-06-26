@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs, covering integration with frameworks like LangChain and LlamaIndex.
 
-- **Vector Database Integration**: Demonstrates workflows leveraging LanceDB as a vector database for efficient embedding storage, retrieval, and similarity search in AI pipelines.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings, and fine-tuning workflows in deep learning pipelines.
 
-- **Tooling & Frameworks**: Includes tutorials on fine-tuning, em
+- **Agent & LLM Integration**: Includes tutorials for d
 
 ## Use Cases
 

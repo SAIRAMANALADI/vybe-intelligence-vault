@@ -15,7 +15,6 @@ tags:
 - github-repo
 - openai
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
-- **Pre-configured RAG architecture** with modular components for **document ingestion, vector storage (Azure AI Search), and LLM inference (Azure OpenAI)**, optimized for GenAIOps workflows.
-- **GitHub repository** last updated in **May 2026**, with **44 stars and 55 forks**, serving as a starte
+- **Infrastructure-as-Code (IaC) Template**: Deploys a Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline using Bicep, enabling automated provisioning of Azure resources for AI workloads.
+- **RAG Pipeline Integration**: Provides a structured framework for implementing RAG workflows, including document retrieval, embedding generation, and LLM inference orchestration on Azure.
+- **Azure Native Dependencies**: Leverages Azure services (e.g., Azure AI Search, Azure OpenAI, Az
 
 ## Use Cases
 

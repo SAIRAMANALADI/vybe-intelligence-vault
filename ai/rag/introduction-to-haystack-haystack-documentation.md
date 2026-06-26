@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.haystack.deepset.ai/docs/intro
-published_at: '2026-06-26T15:28:17.634440+05:30'
-collected_at: '2026-06-26T15:28:17.634453+05:30'
+published_at: '2026-06-26T22:44:18.525371+05:30'
+collected_at: '2026-06-26T22:44:18.525379+05:30'
 tags:
 - agents
 - anthropic
 - hackernews
 - openai
 - rag
-- reddit
 - web-crawled
 status: active
 resource_id: blog:introduction-to-haystack-haystack-documentation
-first_seen: '2026-06-26T15:28:17.634453+05:30'
-last_seen: '2026-06-26T15:28:17.634453+05:30'
-last_checked: '2026-06-26T15:28:17.634453+05:30'
+first_seen: '2026-06-26T22:44:18.525379+05:30'
+last_seen: '2026-06-26T22:44:18.525379+05:30'
+last_checked: '2026-06-26T22:44:18.525379+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using modular components (e.g., Document Stores, Agents, Tools) and pipelines.
+- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, task-specific components and pipelines.
 
-- **Multi-Provider Integration**: Supports seamless integration with LLMs and tools from providers like OpenAI, Google, Anthropic, and open-source models (e.g., Hugging Face Transformers).
+- **Multi-Provider Integration**: Supports modular integration with technologies from providers like OpenAI, Google, Anthropic, and open-source models (e.g., Hugging Face Transformers) for flexible LLM-based development.
 
-- **Enterprise Scalability**: Offers enterprise-grade support (Haystack Enterprise Starter/Platform) for deployment, governance, testing, and scaling of LLM-based applications in production environments.
+- **Enterprise Scalability Tools**: Offers enterprise-grade support, deployment guidance, and platform tooling (via Haystack Enterprise) for managing data, pipelines, testing, and governance at scale.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:28:17.634440+05:30
+- Published: 2026-06-26T22:44:18.525371+05:30
 
 ## Related Tags
 
@@ -49,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - hackernews
 - openai
 - rag
-- reddit
 - web-crawled
 
 ## Source

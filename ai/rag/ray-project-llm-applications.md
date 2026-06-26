@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-26T20:20:29.872456+05:30'
+collected_at: '2026-06-26T22:41:05.426883+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-26T20:20:29.872456+05:30'
-last_seen: '2026-06-26T20:20:29.872456+05:30'
-last_checked: '2026-06-26T20:20:29.872456+05:30'
+first_seen: '2026-06-26T22:41:05.426883+05:30'
+last_seen: '2026-06-26T22:41:05.426883+05:30'
+last_checked: '2026-06-26T22:41:05.426883+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, with integration for models like Llama2 and OpenAI.
-- **Key Components**: Includes fine-tuning, serving, and deployment workflows leveraging Ray for distributed computing and Anyscale for scalable infrastructure.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, covering end-to-end pipelines from model optimization to real-time inference.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, and Anyscale models with modular retrieval and generation components.
+
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed serving, with benchmarks for latency, throughput, and cost efficiency.
+
+- **End-to-End Deployment**: Provides templates for deploying RAG-based LLM applications in production, covering data ingestion, vector DB integration, and scalable serving with Ray Serve.
 
 ## Why It Matters
 

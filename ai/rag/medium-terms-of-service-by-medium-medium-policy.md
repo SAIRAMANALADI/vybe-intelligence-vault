@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/policy/9db0094a1e0f
-published_at: '2026-06-26T20:25:13.714906+05:30'
-collected_at: '2026-06-26T20:25:13.714920+05:30'
+published_at: '2026-06-26T22:53:12.491881+05:30'
+collected_at: '2026-06-26T22:53:12.491891+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-06-26T20:25:13.714920+05:30'
-last_seen: '2026-06-26T20:25:13.714920+05:30'
-last_checked: '2026-06-26T20:25:13.714920+05:30'
+first_seen: '2026-06-26T22:53:12.491891+05:30'
+last_seen: '2026-06-26T22:53:12.491891+05:30'
+last_checked: '2026-06-26T22:53:12.491891+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution. Medium’s use is restricted to its platform and does not extend to external contexts.
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (web/mobile), with attribution, for operational and derivative purposes (e.g., previews, curated lists).
 
-- **Liability & Dispute Resolution**: Medium disclaims all warranties (explicit/implicit) and limits liability to **$50 USD or fees paid** (except for gross negligence/fraud). Disputes are resolved via **binding arbitration under JAMS Rules**, waiving class actions/jury trials, with venue in San Francisco (consumers may opt for local arbitration).
+- **Arbitration Clause**: Disputes (excluding small claims/IP injunctions) **must be resolved via binding arbitration** under JAMS Rules, waiving class actions/jury trials. Arbitration is held in San Francisco (or user’s county if a consumer) and governed by the **Federal Arbitration Act (9 U.S.C. § 1 et seq.)**.
 
-- **Data Processing & Compliance**: Users consent to cross-border data processing/storage (including non-EU regions) and must indemnify Medium for violations of laws/IP rights. Personal data handling must comply with applicable laws, prohibiting sale of user data without consent.
+- **Liability Limits**: Medium’s liability is capped at **$50 USD or fees paid** (whichever is greater) for most claims, excluding gross negligence/fraud. **No liability** for indirect damages (e.g., lost profits, incidental/consequential losses) unless prohibited by law.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:25:13.714906+05:30
+- Published: 2026-06-26T22:53:12.491881+05:30
 
 ## Related Tags
 

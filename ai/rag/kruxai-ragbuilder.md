@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-26T20:20:24.889066+05:30'
+collected_at: '2026-06-26T22:41:00.462299+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-26T20:20:24.889066+05:30'
-last_seen: '2026-06-26T20:20:24.889066+05:30'
-last_checked: '2026-06-26T20:20:24.889066+05:30'
+first_seen: '2026-06-26T22:41:00.462299+05:30'
+last_seen: '2026-06-26T22:41:00.462299+05:30'
+last_checked: '2026-06-26T22:41:00.462299+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit to construct production-ready Retrieval Augmented Generation (RAG) systems with configurable components for data ingestion, retrieval, and generation.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Optimized Retrieval Mechanisms**: Implements advanced retrieval strategies (e.g., vector similarity, hybrid search) to enhance context relevance and mitigate hallucinations in LLM outputs.
+- **Performance Optimization**: Implements techniques like dynamic chunking, vector database tuning, and query rewriting to enhance retrieval accuracy and generation quality while minimizing latency.
 
-- **Scalability & Deployment Tools**: Includes utilities for benchmarking, monitoring, and deploying RAG pipelines, supporting integration with cloud services and custom vector databases.
+- **Scalability & Deployment**: Supports distributed setups (e.g., Ray, Dask) and includes CI/CD-ready templates for deploying RAG pipelines in cloud/on-prem environments with monitoring and logging.
 
 ## Why It Matters
 

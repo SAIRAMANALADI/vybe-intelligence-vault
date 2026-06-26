@@ -13,13 +13,14 @@ collected_at: '2026-06-26T20:18:15.092858+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-ai-backlash-is-only-getting-started
 first_seen: '2026-06-26T20:18:15.092858+05:30'
 last_seen: '2026-06-26T20:18:15.092858+05:30'
 last_checked: '2026-06-26T20:18:15.092858+05:30'
 health_score: 100
 ---
+
 
 # The AI backlash is only getting started
 

@@ -16,6 +16,7 @@ tags:
 - github-repo
 - html
 - scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides open-source infrastructure for training and evaluating AI agents capable of full desktop control across macOS, Linux, and Windows via sandboxes, SDKs, and benchmarks.
+- **Multi-OS Agent Sandboxing**: Provides containerized, cross-platform sandboxes (macOS, Linux, Windows) for training/evaluating AI agents capable of full desktop control via virtualization frameworks (e.g., Apple Virtualization, Windows Sandbox).
 
-- **Virtualization & Sandboxing**: Implements containerization and virtualization (e.g., Windows Sandbox, macOS Virtualization Framework) to safely isolate agent interactions with desktop environments.
+- **Unified SDK & Benchmarks**: Offers a standardized SDK (with Swift support) and benchmark suites (`lume`, `manus`) to assess agent performance in computer-use tasks, including automation and operator workflows.
 
-- **Cross-Platform Tooling**: Supports development in Swift (macOS), HTML (web interface
+- **Open-Source Infrastructure**: R
 
 ## Use Cases
 

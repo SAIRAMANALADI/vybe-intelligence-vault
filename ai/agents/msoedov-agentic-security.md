@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/msoedov/agentic_security
-collected_at: '2026-06-26T20:21:54.918807+05:30'
+collected_at: '2026-06-26T22:42:30.475470+05:30'
 published_at: '2026-06-24T16:21:04Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- workflows
 stars: 1913
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-04-11T17:18:54Z'
 pushed_at: '2026-06-23T07:20:13Z'
 resource_id: github:msoedov/agentic_security
-first_seen: '2026-06-26T20:21:54.918807+05:30'
-last_seen: '2026-06-26T20:21:54.918807+05:30'
-last_checked: '2026-06-26T20:21:54.918807+05:30'
+first_seen: '2026-06-26T22:42:30.475470+05:30'
+last_seen: '2026-06-26T22:42:30.475470+05:30'
+last_checked: '2026-06-26T22:42:30.475470+05:30'
 health_score: 100
 ---
 
@@ -31,16 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner is an AI red-teaming framework designed to evaluate and test Large Language Model (LLM) security vulnerabilities, including jailbreaks, prompt injections, and guardrail bypasses.
-
-- **Features**:
-  - Supports **LLM fuzzing** and **prompt testing** via an extensible agent-based framework.
-  - Aggregates and automates security evaluations across multiple LLM vulnerabilities (e.g., adversarial prompts, data exfiltration risks).
-  - Includes built-in **LLM guardrails testing** and **jailbreak detection** mechanisms.
-
-- **Technical Stack**:
-  - Implemented in **Python** with modular agent architecture.
-  - Integrates with LLM APIs for real-time vulnerability scanning and automated red-teaming workflows.
+- **Purpose**: Agentic LLM Vulnerability Scanner designed for AI red teaming and LLM security assessment, supporting jailbreak detection, prompt testing, and vulnerability evaluation.
+- **Features**: Implements LLM fuzzing, evaluation frameworks, and guardrail testing with modular agent-based architecture for extensibility.
+- **Technical Stack**: Python-based, integrates with agent frameworks to aggregate and analyze LLM security risks and adversarial attacks.
 
 ## Why It Matters
 

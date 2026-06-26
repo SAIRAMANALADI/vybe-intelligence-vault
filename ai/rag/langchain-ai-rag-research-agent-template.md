@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-26T20:19:14.874884+05:30'
+collected_at: '2026-06-26T22:39:50.425629+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- openai
 - python
 - rag
 - workflows
@@ -22,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-26T20:19:14.874884+05:30'
-last_seen: '2026-06-26T20:19:14.874884+05:30'
-last_checked: '2026-06-26T20:19:14.874884+05:30'
+first_seen: '2026-06-26T22:39:50.425629+05:30'
+last_seen: '2026-06-26T22:39:50.425629+05:30'
+last_checked: '2026-06-26T22:39:50.425629+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
+- **Template Purpose**: Provides a structured starter kit for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and synthesis workflows.
 
-- **Key Components**: Includes pre-configured modules for document retrieval, vector storage (e.g., FAISS/Chroma), LLM integration (e.g., LangChain's `ChatOpenAI`), and agent orchestration for iterative research tasks.
+- **Key Components**: Includes modular Python code for document loaders, vector stores (e.g., FAISS), retrievers, and agent-based query processing with LLM integration (e.g., LangChain’s `ResearchAgent`).
 
-- **Technical Stack**: Python-based, leveraging LangChain's ecosystem (e.g., `langchain-core`, `langchain-community`) with modular pipelines for indexing, querying, and agent decision-making.
+- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vector DB libraries (e.g., `chromadb`/`FAISS`), optimized for scalable RAG pipelines and agentic workflows.
 
 ## Why It Matters
 

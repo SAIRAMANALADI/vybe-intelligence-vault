@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative LLMs (e.g., OpenAI) to answer queries using retrieved documents, demonstrated with Milvus FAQ data.
-- **Vector Database Integration**: Uses Milvus to store and retrieve embeddings (e.g., `text-embedding-3-small` with 1536-dim vectors) with dynamic schema support and configurable consistency levels.
-- **Deployment Flexibility**: Supports local (Milvus Lite), Docker/Kubernetes, or fully managed Zilliz Cloud in
+- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI) to produce context-aware responses, using semantic similarity for document retrieval.
+- **Dynamic Schema Handling**: Supports unstructured data insertion via a reserved JSON field (`text`), enabling flexible storage of non-schema-defined attributes alongside vector embeddings.
+- **Metric & Consistency Tuning**: Uses inner product (`IP`) for similarity search and `Bounded` consistency le
 
 ## Use Cases
 

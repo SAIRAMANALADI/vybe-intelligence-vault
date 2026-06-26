@@ -6,10 +6,10 @@ source_url: https://supabase.com/docs/guides/ai
 resource_id: blog:ai-vectors-supabase-docs
 local_vault_path: ai/rag/ai-vectors-supabase-docs.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: template
-importance: high
+resource_kind: tutorial
+importance: medium
 tags:
 - frontend_ui
 - hackernews
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # AI & Vectors | Supabase Docs
@@ -30,17 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a scalable vector store for embeddings, enabling storage, indexing, and querying of high-dimensional vectors directly within the database.
+- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector store for storing, indexing, and querying vector embeddings at scale, eliminating the need for external vector databases.
 
-- **Multi-Model AI Workflow**: Supports hybrid search (semantic, keyword, hybrid) and integrates with major AI providers (OpenAI, Hugging Face, LangChain) for embedding generation, inference, and LLM interactions via Edge Functions and client libraries
+- **Multi-Model Embedding Support**: Supabase supports embeddings generation via open-source models (e.g., Hugging Face) and integrates with major AI providers (OpenAI, LangChain, LlamaIndex) for hybrid search, semantic search, and keyword search capabi
 
 ## Use Cases
 

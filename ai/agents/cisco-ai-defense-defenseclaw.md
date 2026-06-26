@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-26T20:21:59.981713+05:30'
-published_at: '2026-06-26T08:21:31Z'
+collected_at: '2026-06-26T22:42:35.566314+05:30'
+published_at: '2026-06-26T15:35:34Z'
 tags:
 - agents
 - github-repo
 - python
-stars: 756
+stars: 757
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-06-25T16:49:20Z'
+pushed_at: '2026-06-26T15:24:03Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-26T20:21:59.981713+05:30'
-last_seen: '2026-06-26T20:21:59.981713+05:30'
-last_checked: '2026-06-26T20:21:59.981713+05:30'
+first_seen: '2026-06-26T22:42:35.566314+05:30'
+last_seen: '2026-06-26T22:42:35.566314+05:30'
+last_checked: '2026-06-26T22:42:35.566314+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Governance Framework**: DefenseClaw provides a structured approach to securing agentic AI systems, focusing on policy enforcement, access control, and audit mechanisms to mitigate risks in autonomous AI operations.
+- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance of agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring in AI-driven environments.
 
-- **Python-Based Implementation**: The repository is primarily written in Python, offering modular components for integrating security controls into AI agents, including authentication, authorization, and runtime monitoring.
+- **Core Components**: Implements **policy-driven controls** (e.g., RBAC, ABAC) and **runtime monitoring** to mitigate risks like adversarial attacks, data leakage, and unauthorized agent actions.
 
-- **Open-Source Governance Toolkit**: Designed for extensibility, DefenseClaw enables organizations to customize security policies for AI agents, with support for real-time threat detection and compliance enforcement.
+- **Integration**: Supports **real-time auditing** and **incident response** via modular APIs, compatible with agentic AI frameworks (e.g., LangChain, AutoGen) and cloud-native deployments.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cisco-ai-defense
-- Stars: 756
+- Stars: 757
 - Forks: 133
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-26T08:21:31Z
+- Last Updated: 2026-06-26T15:35:34Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-06-25T16:49:20Z
+- Pushed At: 2026-06-26T15:24:03Z
 
 ## Possible Use Cases
 

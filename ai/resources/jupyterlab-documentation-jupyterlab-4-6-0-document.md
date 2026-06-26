@@ -4,18 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyterlab.readthedocs.io/en/latest/
-published_at: '2026-06-26T20:32:11.882876+05:30'
-collected_at: '2026-06-26T20:32:11.882890+05:30'
+published_at: '2026-06-26T22:44:32.464307+05:30'
+collected_at: '2026-06-26T22:44:32.464314+05:30'
 tags:
+- benchmark
 - frontend_ui
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
-first_seen: '2026-06-26T20:32:11.882890+05:30'
-last_seen: '2026-06-26T20:32:11.882890+05:30'
-last_checked: '2026-06-26T20:32:11.882890+05:30'
+first_seen: '2026-06-26T22:44:32.464314+05:30'
+last_seen: '2026-06-26T22:44:32.464314+05:30'
+last_checked: '2026-06-26T22:44:32.464314+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is an extensible, feature-rich environment for notebook authoring, part of **Project Jupyter**, enabling interactive computing with computational notebooks that combine code, visualizations, and rich text.
+- **JupyterLab** is an extensible, feature-rich IDE for computational notebooks, supporting code execution, rich visualizations, and interactive controls within a modular, web-based interface.
 
-- Supports **advanced customization** via extensions, including **real-time collaboration**, **debugging**, **Language Server Protocol (LSP)**, and **UI/UX modifications** through plugins and CSS overrides.
+- **Architecture** is plugin-based (using npm packages) with a client-server model, enabling customization via extensions, real-time collaboration, and integration with JupyterHub/Binder.
 
-- Provides **comprehensive development and contribution guidelines**, including **extension development**, **local setup**, **testing frameworks**, and **architectural insights** for contributing to the JupyterLab ecosystem.
+- **Development workflow** includes TypeScript-based extension development, debugging via browser tools, and testing via visual regression/UI tests, with contributions guided by strict architectural and performance benchmarks.
 
 ## Why It Matters
 
@@ -37,10 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T20:32:11.882876+05:30
+- Published: 2026-06-26T22:44:32.464307+05:30
 
 ## Related Tags
 
+- benchmark
 - frontend_ui
 - reddit
 - web-crawled

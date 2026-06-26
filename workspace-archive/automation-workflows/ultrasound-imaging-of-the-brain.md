@@ -1,5 +1,5 @@
 ---
-title: Ultrasound Imaging of the Brain
+title: Ultrasound imaging of the brain
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://alephneuro.com/blog/ultrasound-brain
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Ultrasound Imaging of the Brain
+# Ultrasound imaging of the brain
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rossant. Score: 31, Comments: 7.
+Hacker News story by rossant. Score: 107, Comments: 30.
 Original Link: https://alephneuro.com/blog/ultrasound-brain
 
 ## Use Cases

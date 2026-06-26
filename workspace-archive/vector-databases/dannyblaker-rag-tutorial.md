@@ -6,9 +6,9 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 81
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - github-repo
@@ -26,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-
-- **Core Technical Components**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like query rewriting and hybrid retrieval.
-
-- **Practical Implementation**: Provides working code examples, modular utilities, and deployment-ready patter
+- **Progressive RAG Tutorial**: 6-step guide covering foundational concepts to production deployment, including embeddings, vector databases, LLMs, and advanced RAG techniques.
+- **Hands-on Resources**: Provides working code examples, reusable utilities, and interactive demos for practical implementation.
+- **Python-based Implementation**: Focuses on Python-based RAG system development with a last update timestamp of June 16, 2026.
 
 ## Use Cases
 

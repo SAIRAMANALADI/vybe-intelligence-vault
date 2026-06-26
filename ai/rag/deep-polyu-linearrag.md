@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-26T20:20:34.883261+05:30'
+collected_at: '2026-06-26T22:41:10.469603+05:30'
 published_at: '2026-06-25T10:44:52Z'
 tags:
 - dataset
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-26T20:20:34.883261+05:30'
-last_seen: '2026-06-26T20:20:34.883261+05:30'
-last_checked: '2026-06-26T20:20:34.883261+05:30'
+first_seen: '2026-06-26T22:41:10.469603+05:30'
+last_seen: '2026-06-26T22:41:10.469603+05:30'
+last_checked: '2026-06-26T22:41:10.469603+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency via linear-time graph traversal and hierarchical indexing.
-
-- **Scalability & Performance**: Achieves O(n) time complexity for retrieval by leveraging linear graph structures, enabling efficient handling of large-scale datasets while maintaining high accuracy in downstream generation tasks.
-
-- **Integration with LLMs**: Designed for seamless integration with large language models (LLMs), enhancing contextual relevance and reducing hallucinations through structured, linear graph-based retrieval mechanisms.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency via linear graph traversal and hierarchical indexing.
+- **ICLR 2026 Contribution**: Proposes a scalable architecture that integrates graph-based retrieval with LLM generation, reducing computational overhead while maintaining contextual relevance in retrieval-augmented tasks.
+- **Implementation**: Python-based, leveraging graph neural networks (GNNs) and linear-time retrieval mechanisms to handle large-scale datasets with minimal latency.
 
 ## Why It Matters
 

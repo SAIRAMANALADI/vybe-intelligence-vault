@@ -8,16 +8,15 @@ local_vault_path: ai/rag/felladrin-awesome-ai-web-search.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
 - hackernews
 - html
-- models
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # felladrin/awesome-ai-web-search
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Curated Resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and applications, including LLM-based metasearch, RAG implementations, and generative AI search engines.
-- **Technical Scope**: Covers topics like `llm-inference`, `retrieval-augmented-generation (RAG)`, `question-answering`, and `information-retrieval`, with a focus on generative AI tools for enhanced search.
-- **Live Demo**: Hosted on Hugging Face Spaces (`hf.co/spaces
+- **Curated List**: Repository containing a comprehensive, categorized list of AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
+- **Technical Scope**: Focuses on metasearch engines, AI search assistants, and retrieval-augmented generation (RAG) systems for dynamic, context-aware web queries.
+- **Resources**: Includes links to open-source projects, hosted demos (e.g., Hugging Face Spaces), and tools spanning generative
 
 ## Use Cases
 

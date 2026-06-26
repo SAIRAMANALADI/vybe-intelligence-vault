@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-26T20:19:49.794829+05:30'
+collected_at: '2026-06-26T22:40:25.325879+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
+- reddit
 stars: 92
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-26T20:19:49.794829+05:30'
-last_seen: '2026-06-26T20:19:49.794829+05:30'
-last_checked: '2026-06-26T20:19:49.794829+05:30'
+first_seen: '2026-06-26T22:40:25.325879+05:30'
+last_seen: '2026-06-26T22:40:25.325879+05:30'
+last_checked: '2026-06-26T22:40:25.325879+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Provides structured best practices for enhancing Large Language Models (LLMs) with retrieval-augmented generation (RAG), focusing on retrieval strategy, indexing, and prompt engineering for improved factual accuracy and context relevance.
-
-- **Python Implementation**: Includes modular Python codebase with utilities for document preprocessing, vector embedding (e.g., FAISS, Chroma), and dynamic query routing to optimize retrieval latency and precision.
-
-- **Evaluation & Benchmarking**: Incorporates metrics (e.g., Hit Rate, MRR) and tools for assessing RAG performance across domains, with support for hybrid retrieval (dense + sparse) and adaptive chunking strategies.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs) with modular Python components for indexing, retrieval, and generation pipelines.
+- **Technical Stack**: Utilizes Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for vector storage, embeddings, and LLM integration, optimized for Chinese-language contexts.
+- **Evaluation & Scalability**: Includes benchmarking tools for retrieval quality (e.g., MRR, Hit Rate) and generation metrics (e.g., ROUGE, BLEU), with support for distributed deployment via Docker/Kubernetes.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://tavily.com
-published_at: '2026-06-26T15:28:08.848954+05:30'
-collected_at: '2026-06-26T15:28:08.848968+05:30'
+published_at: '2026-06-26T22:44:14.450892+05:30'
+collected_at: '2026-06-26T22:44:14.450905+05:30'
 tags:
 - agents
 - anthropic
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:tavily
-first_seen: '2026-06-26T15:28:08.848968+05:30'
-last_seen: '2026-06-26T15:28:08.848968+05:30'
-last_checked: '2026-06-26T15:28:08.848968+05:30'
+first_seen: '2026-06-26T22:44:14.450905+05:30'
+last_seen: '2026-06-26T22:44:14.450905+05:30'
+last_checked: '2026-06-26T22:44:14.450905+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Real-time web data retrieval & extraction**: Provides structured, chunked web data to ground AI models with fresh context, reducing hallucinations by ensuring factual accuracy in agent responses.
+- **Real-time web access layer for AI agents**: Provides structured, chunked web data retrieval and extraction via a single API to ground LLMs with fresh context, reducing hallucinations by ensuring factual grounding.
 
-- **Scalable, low-latency infrastructure**: Handles thousands of queries per second with a production-grade stack featuring real-time search, intelligent caching, and indexing, maintaining predictable latency at scale.
+- **Scalable, secure production-grade infrastructure**: Handles 300M+ monthly requests with 99.99% uptime, p50 latency of 180ms, and built-in safeguards (PII protection, prompt injection blocking, malicious source filtering).
 
-- **Enterprise-grade security & compliance**: Implements security layers to block PII leakage, prompt injection, and malicious sources, validated for production deployment in mission-critical systems.
+- **Benchmark-proven performance**: Achieves state-of-the-art results on SimpleQA (factual QA benchmark) with GPT-4.1, integrates with leading LLM providers (OpenAI, Anthropic, Groq), and is trusted by enterprises (IBM, JetBrains, Databricks) for mission-critical AI applications.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T15:28:08.848954+05:30
+- Published: 2026-06-26T22:44:14.450892+05:30
 
 ## Related Tags
 

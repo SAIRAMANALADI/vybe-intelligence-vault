@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-26T20:19:09.790980+05:30'
+collected_at: '2026-06-26T22:39:45.310514+05:30'
 published_at: '2026-06-25T16:18:34Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-26T20:19:09.790980+05:30'
-last_seen: '2026-06-26T20:19:09.790980+05:30'
-last_checked: '2026-06-26T20:19:09.790980+05:30'
+first_seen: '2026-06-26T22:39:45.310514+05:30'
+last_seen: '2026-06-26T22:39:45.310514+05:30'
+last_checked: '2026-06-26T22:39:45.310514+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`), covering embeddings, vector search, retrieval, and context-augmented generation without proprietary APIs or black-box abstractions.
-
-- **JavaScript-Based Pipeline**: Leverages Node.js to implement core RAG components (e.g., document chunking, embedding generation with `node-llama-cpp`, vector storage/retrieval, and prompt augmentation) entirely in JavaScript, emphasizing educational transparency.
-
-- **Agent Integration & Tutorial Focus**: Includes a modular agent-based architecture for RAG workflows, providing a hands-on tutorial to dissect and customize each stage of the RAG pipeline for practical AI agent development.
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid proprietary black boxes.
+- **Core Components Exposed**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation with explicit, educational focus on each step.
+- **Practical Tutorial**: Provides a hands-on guide for implementing a RAG chatbot with Node.js, emphasizing transparency and real-world applicability for AI agents.
 
 ## Why It Matters
 

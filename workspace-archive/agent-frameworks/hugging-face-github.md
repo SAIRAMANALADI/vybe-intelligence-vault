@@ -15,6 +15,7 @@ tags:
 - dataset
 - models
 - producthunt
+- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: Hugging Face provides industry-standard open-source libraries like `transformers` (162k+ stars) for unified ML model definition (text/vision/audio/multimodal), `diffusers` (33.9k+ stars) for diffusion-based generative AI, and `datasets` (21.7k+ stars) for large-scale, optimized data handling.
+- **Core Libraries**: Hugging Face maintains industry-standard open-source libraries including `transformers` (SOTA ML frameworks for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative tasks), `datasets` (largest AI dataset hub with efficient tools), and `tokenizers` (high-performance Rust-based tokenization optimized for research/production).
 
-- **Optimization & Deployment**: Key tools include `accelerate` (9.7k+ stars) for PyTorch model training/inference across hardware, `optimum` (3.4k+ stars) for hardware-optimized infe
+- **Optimization & Fine-Tuning**: Provides `accelerate` (PyTorch acceleration across devices with mixed precision/FP8/FSD
 
 ## Use Cases
 

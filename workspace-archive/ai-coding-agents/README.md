@@ -14,7 +14,7 @@ AI coding agents represent the next leap in software engineering, moving from co
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (workflow - USEFUL Tier)
+- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (tool - USEFUL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-06-26 20:34 IST*
+*Last updated: 2026-06-26 22:54 IST*

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # embeddings-benchmark/mteb
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) in **50+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics (e.g., nDCG@10, MAP, accuracy).
-
-- **Modular Python Framework**: Implements a **unified API** for embedding models (e.g., Sentence-BERT, SBERT) with built-in support for **low-resource NLP**, **bitext mining**, and **cross-lingual tasks**, enablin
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) in **100+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics.
+- **Modular Architecture**: Implements **task-specific modules** (e.g., `BitextMining`, `Clustering`) with **unified APIs** for seamless integration of models (e.g., SBERT, Sentence-Transformers) and datasets.
+- **State-of-the-Art Tracking**: Maintains **leaderb
 
 ## Use Cases
 

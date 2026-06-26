@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/tiktoken
-collected_at: '2026-06-25T20:49:14.414452+05:30'
-published_at: '2026-06-25T14:38:00Z'
+collected_at: '2026-06-26T22:44:10.197541+05:30'
+published_at: '2026-06-26T17:00:43Z'
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
-stars: 18590
+stars: 18601
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2022-12-01T23:22:11Z'
 pushed_at: '2026-05-24T08:43:54Z'
 resource_id: github:openai/tiktoken
-first_seen: '2026-06-25T20:49:14.414452+05:30'
-last_seen: '2026-06-25T20:49:14.414452+05:30'
-last_checked: '2026-06-25T20:49:14.414452+05:30'
+first_seen: '2026-06-26T22:44:10.197541+05:30'
+last_seen: '2026-06-26T22:44:10.197541+05:30'
+last_checked: '2026-06-26T22:44:10.197541+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Fast BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models with high-speed performance.
-- **Python Implementation**: Written in Python, leveraging efficient data structures and algorithms for tokenization tasks.
-- **Pre-trained Models**: Includes pre-trained tokenizers for OpenAI models (e.g., GPT-4, GPT-3.5), supporting dynamic vocabulary updates.
+- **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models.
+- **Performance**: Designed for speed, leveraging fast BPE algorithms to handle large-scale tokenization tasks.
+- **Python Library**: Provides a lightweight, standalone Python package for tokenization with minimal dependencies.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 18590
+- Stars: 18601
 - Forks: 1513
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T14:38:00Z
+- Last Updated: 2026-06-26T17:00:43Z
 - License: MIT
 - Archived: No
 - Created At: 2022-12-01T23:22:11Z

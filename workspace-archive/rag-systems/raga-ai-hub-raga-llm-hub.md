@@ -15,7 +15,7 @@ tags:
 - github-repo
 - python
 - rag
-- scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM Evaluation & Guardrails Framework**: Python-based toolkit for assessing large language models (LLMs) and enforcing safety constraints via configurable guardrails.
-- **Security & Compliance Integration**: Supports LLM security protocols (e.g., input/output sanitization, bias detection) and audit trails for regulatory compliance.
-- **LLMOps Automation**: Enables CI/CD pipelines for LLM deployment with built-in evaluation metrics, monitoring, and automated rollback mechanisms.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
+- **Key features** include structured evaluation pipelines, real-time safety mechanisms, and compliance-oriented security modules for LLM deployments.
+- **Integration-ready** with LLMops tooling, supporting automated testing, monitoring, and policy enforcement in AI-driven applications.
 
 ## Use Cases
 

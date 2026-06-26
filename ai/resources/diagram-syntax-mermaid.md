@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://mermaid.js.org/intro/syntax-reference.html
-published_at: '2026-06-25T20:50:29.298990+05:30'
-collected_at: '2026-06-25T20:50:29.299004+05:30'
+published_at: '2026-06-26T22:45:09.889793+05:30'
+collected_at: '2026-06-26T22:45:09.889801+05:30'
 tags:
 - hackernews
+- reddit
 - web-crawled
 status: active
 resource_id: blog:diagram-syntax-mermaid
-first_seen: '2026-06-25T20:50:29.299004+05:30'
-last_seen: '2026-06-25T20:50:29.299004+05:30'
-last_checked: '2026-06-25T20:50:29.299004+05:30'
+first_seen: '2026-06-26T22:45:09.889801+05:30'
+last_seen: '2026-06-26T22:45:09.889801+05:30'
+last_checked: '2026-06-26T22:45:09.889801+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Diagram Syntax**: All Mermaid diagrams begin with a type declaration (e.g., `erDiagram`), followed by entity/element definitions; unknown words or misspellings break parsing, while invalid parameters fail silently.
+- **Diagram Initialization**: All Mermaid diagrams begin with a type declaration (e.g., `erDiagram` for Entity Relationship Diagrams), followed by entity definitions; exceptions include Frontmatter configurations.
 
-- **Diagram Breakers**: Specific words/symbols (e.g., `end`, `%%{}`) disrupt rendering; solutions include quoting reserved terms or avoiding `{}` in comments.
+- **Syntax Pitfalls**: Specific words/symbols (e.g., `end`, `%%{}`) break diagrams; solutions include wrapping terms in quotes or avoiding certain comment formats.
 
-- **Configuration Methods**: Mermaid supports customization via `initialize()` API calls, Live Editor settings, or deployment-specific configurations (e.g., themes, behaviors).
+- **Configuration Methods**: Mermaid supports three core components—syntax, deployment, and configuration—where the latter customizes behavior/appearance via methods like `initialize()` or Live Editor settings.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T20:50:29.298990+05:30
+- Published: 2026-06-26T22:45:09.889793+05:30
 
 ## Related Tags
 
 - hackernews
+- reddit
 - web-crawled
 
 ## Source

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-06-26T20:20:54.890131+05:30'
+collected_at: '2026-06-26T22:41:30.402192+05:30'
 published_at: '2026-06-26T14:19:52Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-06-24T03:38:04Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-06-26T20:20:54.890131+05:30'
-last_seen: '2026-06-26T20:20:54.890131+05:30'
-last_checked: '2026-06-26T20:20:54.890131+05:30'
+first_seen: '2026-06-26T22:41:30.402192+05:30'
+last_seen: '2026-06-26T22:41:30.402192+05:30'
+last_checked: '2026-06-26T22:41:30.402192+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) with modular architecture for AI-driven code generation/editing.
-- **Key components**: Agent orchestration, LLM integration (APIs), file system interaction, and tooling for real-time code analysis/refactoring.
-- **Tutorial covers**: State management, context-aware prompting, and deployment strategies for scalable agentic workflows.
+- **Go-based workshop** for constructing a **coding agent** (similar to Cursor, Cline, or OpenCode) with modular architecture for extensibility.
+
+- **Key components** include AI integration (LLM APIs), tool orchestration (file I/O, shell commands), and state management for multi-step workflows.
+
+- **Tutorial covers** agent design patterns, prompt engineering, and deployment strategies, with emphasis on real-time code interaction and debugging.
 
 ## Why It Matters
 

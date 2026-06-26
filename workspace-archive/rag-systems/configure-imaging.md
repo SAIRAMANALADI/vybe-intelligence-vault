@@ -33,8 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   Hugo's `imaging` configuration defines global image processing parameters including `anchor` for smart cropping, `bgColor` for transparency conversion, and `resampleFilter` (e.g., `box`, `lanczos`) for resizing algorithms.
-*   Granular, format-specific controls are provided for AVIF, JPEG, and WebP, allowing configuration of `quality` (1-100), `compression` (lossy
+- **Image Processing Configuration**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific controls for AVIF (`lossy` compression, `quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+
+- **Exif Metadata Handling**: Configurable via `meta.fields` (glob-based exclusion/inclusion) and `meta.sources` (`exif`, `iptc`, or `xmp`), with default exclusion of technical fields (e.g., `GPS`,
 
 ## Use Cases
 

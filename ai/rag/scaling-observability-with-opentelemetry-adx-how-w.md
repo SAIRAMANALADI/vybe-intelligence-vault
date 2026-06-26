@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://engineering.uipath.com/scaling-observability-with-opentelemetry-adx-how-we-improve-the-monitoring-with-cost-reduced-42100a99b89a
-published_at: '2026-06-22T10:44:25.704276+05:30'
-collected_at: '2026-06-22T10:44:25.704287+05:30'
+published_at: '2026-06-26T22:52:59.888789+05:30'
+collected_at: '2026-06-26T22:52:59.888796+05:30'
 tags:
 - models
 - rag
 - web-crawled
 status: active
 resource_id: blog:scaling-observability-with-opentelemetry-adx-how-w
-first_seen: '2026-06-22T10:44:25.704287+05:30'
-last_seen: '2026-06-22T10:44:25.704287+05:30'
-last_checked: '2026-06-22T10:44:25.704287+05:30'
+first_seen: '2026-06-26T22:52:59.888796+05:30'
+last_seen: '2026-06-26T22:52:59.888796+05:30'
+last_checked: '2026-06-26T22:52:59.888796+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Cost Reduction**: Migrated from Azure Application Insights to Azure Data Explorer (ADX) via OpenTelemetry (OTel), achieving **50–70% cost savings** by leveraging ADX’s compressed storage and compute-based pricing model instead of Application Insights’ per-GB ingestion fees.
+- **Cost Reduction**: Migrated from Azure Application Insights to Azure Data Explorer (ADX) via OpenTelemetry (OTel), achieving **50–70% cost savings** by leveraging ADX’s storage/compute-based pricing model (vs. Application Insights’ per-GB ingest model).
 
-- **Architecture Shift**: Replaced vendor-locked Application Insights with a decoupled stack using **OpenTelemetry SDKs** for instrumentation, an **OTel Collector** for signal processing/filtering, and ADX as the backend, enabling flexible routing and query capabilities via Kusto Query Language (KQL).
+- **Architecture Shift**: Implemented a **three-tier observability stack**—OpenTelemetry SDKs for instrumentation, OTel Collector for processing/export, and ADX for storage/analytics—enabling vendor-neutral telemetry with Kusto Query Language (KQL) compatibility.
 
-- **Compatibility & Scalability**: Maintained observability parity by replicating Application Insights tables (e.g., `requests`, `traces`) in ADX via update policies, while integrating Grafana for trace visualization, ensuring existing dashboards/alerts remained functional during the migration.
+- **Operational Efficiency**: Maintained backward compatibility by mapping OTel data to Application Insights-like schemas in ADX, while integrating Grafana for trace visualization, ensuring minimal disruption to existing dashboards/alerts.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:44:25.704276+05:30
+- Published: 2026-06-26T22:52:59.888789+05:30
 
 ## Related Tags
 

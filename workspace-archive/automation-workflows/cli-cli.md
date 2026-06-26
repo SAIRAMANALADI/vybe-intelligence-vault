@@ -2,7 +2,7 @@
 title: cli/cli
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/cli/cli#installation
+source_url: https://github.com/cli/cli
 resource_id: github:cli/cli
 local_vault_path: ai/rag/cli-cli.md
 quality_score: 70
@@ -15,6 +15,7 @@ tags:
 - go
 - hackernews
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose & Scope**: Official GitHub CLI tool (`gh`) for interacting with GitHub repositories, issues, PRs, and APIs directly from the command line.
-- **Technical Stack**: Implemented in Go, leveraging GitHub’s GraphQL API v4 for efficient data fetching and mutation operations.
-- **Integration & Features**: Supports Git operations, GitHub API interactions, and CLI-based workflows; last updated June 2026 with ongoing maintenance.
+- **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories, issues, PRs, and APIs directly from the command line.
+- **Technical Stack**: Built in Go, leveraging GitHub's GraphQL API (v4) for efficient data fetching and mutation operations.
+- **Features**: Supports Git operations, GitHub API interactions, and automation workflows; actively maintained with frequent updates.
 
 ## Use Cases
 
@@ -46,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/cli/cli#installation
+Original source URL: https://github.com/cli/cli
 
 ## Local Vault File
 

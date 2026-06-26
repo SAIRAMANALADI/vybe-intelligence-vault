@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-26T20:19:49.789145+05:30'
+collected_at: '2026-06-26T22:40:25.348158+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-26T20:19:49.789145+05:30'
-last_seen: '2026-06-26T20:19:49.789145+05:30'
-last_checked: '2026-06-26T20:19:49.789145+05:30'
+first_seen: '2026-06-26T22:40:25.348158+05:30'
+last_seen: '2026-06-26T22:40:25.348158+05:30'
+last_checked: '2026-06-26T22:40:25.348158+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **Server-Sent Events (SSE)** streaming, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs.
+- **Tech Stack & Features**: Implements Spring AI with Alibaba Cloud integrations, covering SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, message history, image generation/understanding, Embedding models, Vector DB (RAG), and multi-modal processing in Java.
 
-- **Core Components**: Integrates **Function Calling**, **historical message handling**, **image generation/understanding**, **Embedding models**, **Vector Databases**, and **RAG pipelines** for enhanced contextual retrieval and multimodal processing.
+- **Architecture**: Demonstrates end-to-end AI pipelines combining retrieval (vector DB), generation (LLM), and orchestration (Agent/FunctionCall) with persistent context management via historical messages and knowledge graphs.
 
-- **Technical Stack**: Utilizes **Java** with dependencies on **Spring AI**, **Alibaba Cloud SDKs**, and **vector database connectors** (e.g., Milvus, Weaviate) for scalable AI-driven workflows.
+- **Deployment**: Targets production-grade Java-based AI systems with modular components for embedding, RAG, and agentic workflows, optimized for Alibaba Cloud services (e.g., Model Studio, VectorDB).
 
 ## Why It Matters
 

@@ -2,20 +2,18 @@
 title: LangChain Blog
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://blog.langchain.com/
+source_url: https://blog.langchain.com
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -27,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Model Neutrality in Agent Architecture**: Prioritizing model neutrality over cloud neutrality ensures flexibility in agent deployment, avoiding vendor lock-in and enabling optimal model selection based on performance and cost, rather than infrastructure constraints.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts, reducing redundant computations and improving agent efficiency by leveraging model-specific optimizations (e.g., token reuse, context window management).
 
-- **Efficient Verifiers for Legal Agents**: Legal agents require specialized verification mechanisms to ensure compliance and accuracy; designing lightweight, domain-specific verifiers reduces computational overhead while mainta
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch between LLM providers) is more critical than cloud neutrality, as it ensures flexibility in model selection without vendor lock-in, enabling cost optimization a
 
 ## Use Cases
 
@@ -45,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com/
+Original source URL: https://blog.langchain.com
 
 ## Local Vault File
 

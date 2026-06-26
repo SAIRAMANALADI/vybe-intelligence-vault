@@ -2,7 +2,7 @@
 title: About Medium
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://about.medium.com/
+source_url: https://medium.com/about?autoplay=1&source=post_page
 resource_id: blog:about-medium
 local_vault_path: ai/rag/about-medium.md
 quality_score: 70
@@ -10,9 +10,6 @@ archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
-tags:
-- rag
-- web-crawled
 selection_reason:
 - Valuable developer reference
 ---
@@ -29,11 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Model**: Medium is a subscription-supported platform (1M+ members) prioritizing depth over sensationalism, rejecting ads/data monetization to focus on thoughtful writing and collective understanding.
+- **Mission & Model**: Medium is a content platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, funded by a membership model (1M+ users) rather than ads or data monetization.
 
-- **Audience & Content**: Hosts 100M+ monthly users (developers, CEOs, writers) sharing niche insights, lived experiences, and expertise via long-form posts, fostering nuanced discourse beyond surface-level content.
+- **User Base**: Hosts 100M+ monthly active users (developers, CEOs, writers) sharing insights, expertise, and personal narratives without requiring pre-existing audiences.
 
-- **Core Features**: Provides a minimalist, collaborative publishing
+- **Core Features**: Provides a minimalist, collaborative writing environment with built-in audience discovery, emphasiz
 
 ## Use Cases
 
@@ -43,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://about.medium.com/
+Original source URL: https://medium.com/about?autoplay=1&source=post_page
 
 ## Local Vault File
 

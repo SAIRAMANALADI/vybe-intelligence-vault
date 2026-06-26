@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-06-26T20:20:29.869695+05:30'
-published_at: '2026-06-26T10:37:02Z'
+collected_at: '2026-06-26T22:41:05.416382+05:30'
+published_at: '2026-06-26T16:45:28Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
-stars: 7900
+stars: 7902
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-06-26T20:20:29.869695+05:30'
-last_seen: '2026-06-26T20:20:29.869695+05:30'
-last_checked: '2026-06-26T20:20:29.869695+05:30'
+first_seen: '2026-06-26T22:41:05.416382+05:30'
+last_seen: '2026-06-26T22:41:05.416382+05:30'
+last_checked: '2026-06-26T22:41:05.416382+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) system with a RESTful API, enabling dynamic, multi-step retrieval and generation workflows for production-grade AI applications.
+- **Agentic RAG Framework**: Implements an advanced Agentic Retrieval-Augmented Generation (RAG) system with RESTful API support for production-grade AI retrieval tasks.
 
-- **Python-Based Architecture**: Built in Python with modular components for document ingestion, vector search, and LLM integration, optimized for scalability and extensibility in AI-driven retrieval tasks.
+- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector search, and LLM integration, optimized for large-scale question-answering workflows.
 
-- **State-of-the-Art Retrieval**: Supports advanced retrieval techniques (e.g., hybrid search, metadata filtering) and integrates with LLMs for context-aware question answering, question decomposition, and structured output generation.
+- **Production-Ready Features**: Supports real-time retrieval, hybrid search (semantic + keyword), and dynamic agent-based query routing, with last update (2026-06-26) ensuring ongoing enhancements.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SciPhi-AI
-- Stars: 7900
-- Forks: 637
+- Stars: 7902
+- Forks: 638
 - Language: Python
 - Topics: artificial-intelligence, large-language-models, python, question-answering, rag, retrieval-augmented-generation, retrieval-systems, search
-- Last Updated: 2026-06-26T10:37:02Z
+- Last Updated: 2026-06-26T16:45:28Z
 - License: MIT
 - Archived: No
 - Created At: 2024-02-12T03:24:27Z

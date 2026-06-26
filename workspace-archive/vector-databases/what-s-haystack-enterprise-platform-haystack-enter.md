@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
+- **Unified AI Application Lifecycle Management**: Platform supports full lifecycle from prototyping to production deployment for AI-powered applications, including data ingestion, model integration, evaluation, sharing, and monitoring.
 
-- **Modular RAG & Agentic Pipelines**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with support for multi-model switching and tool integration.
+- **Modular Pipeline Architecture**: Enables construction of enterprise-grade agents and advanced RAG systems using interchangeable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic LLM/embedding provider support.
 
--
+- **
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-26T20:23:27.979410+05:30'
-collected_at: '2026-06-26T20:23:27.979426+05:30'
+published_at: '2026-06-26T22:43:31.784760+05:30'
+collected_at: '2026-06-26T22:43:31.784770+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-26T20:23:27.979426+05:30'
-last_seen: '2026-06-26T20:23:27.979426+05:30'
-last_checked: '2026-06-26T20:23:27.979426+05:30'
+first_seen: '2026-06-26T22:43:31.784770+05:30'
+last_seen: '2026-06-26T22:43:31.784770+05:30'
+last_checked: '2026-06-26T22:43:31.784770+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.163.3** includes fixes for markup highlighting (escaping language names in code blocks), preservation of non-ASCII whitespace in parsers, and support for `babel/postcss` config variants in resource processing.
+- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 (JPEG/WebP at 75 is comparable), added per-format quality config, and introduced `hint` parameter (YUV420 for lossy photos, YUV444 for text/icons) to optimize memory usage.
 
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **Security Fixes**: Addressed integer IPv4 host encoding in HTTP URL checks (`a00b5c7`), removed symlink handling in `os.ReadDir`, `os.ReadFile`, `os.Stat`, and `os.FileExists` (`cf9c8f9`), and updated `golang.org/x/image` dependency (`93c8c7d`).
 
-- **Hugo v0.163.0** introduces AVIF image handling improvements (default quality reduction to 60, per-format quality settings, and YUV420/YUV444 chroma subsampling hints), alongside deprecated `baseUrl` removal and Go version alignment.
+- **Deprecations & Cleanup**: Removed deprecated `baseUrl` from JS config (`ff2903a`), deprecated `IsNode` in favor of `IsBranch` (`b89e7fe`), and adjusted tests for deprecated link/image render hook settings (`ca68936`).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:23:27.979410+05:30
+- Published: 2026-06-26T22:43:31.784760+05:30
 
 ## Related Tags
 

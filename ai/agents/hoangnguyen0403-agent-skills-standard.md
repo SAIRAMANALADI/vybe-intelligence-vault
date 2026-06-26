@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-26T20:21:29.890211+05:30'
+collected_at: '2026-06-26T22:42:05.471294+05:30'
 published_at: '2026-06-26T03:02:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-24T16:17:57Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-26T20:21:29.890211+05:30'
-last_seen: '2026-06-26T20:21:29.890211+05:30'
-last_checked: '2026-06-26T20:21:29.890211+05:30'
+first_seen: '2026-06-26T22:42:05.471294+05:30'
+last_seen: '2026-06-26T22:42:05.471294+05:30'
+last_checked: '2026-06-26T22:42:05.471294+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as React, Angular, Next.js, NestJS, Spring Boot, Flutter, Kotlin, and Laravel.
-- **Purpose & Scope**: Designed to guide AI agents in adhering to optimal programming practices across multiple frameworks and languages, including mobile (Android/iOS) and web development stacks.
-- **Metadata**: 513 stars, 149 forks, last updated on 2026-06-26, with topics including agentic AI, coding standards, and Cursor rules.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., React, NestJS, Spring Boot, Flutter), designed to guide AI agents in adhering to coding standards and framework-specific conventions.
+
+- **Scope & Topics**: Covers 19+ topics including agentic AI, Android, iOS, web frameworks (Next.js, Angular), backend (Laravel, NestJS), and mobile (React Native, Flutter), with additional resources like Cursor rules for IDE optimization.
+
+- **Metadata**: 513 stars, 149 forks, last updated June 26, 2026; serves as a curated reference for AI agents to implement language/framework-specific best practices efficiently.
 
 ## Why It Matters
 

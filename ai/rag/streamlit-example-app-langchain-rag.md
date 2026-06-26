@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-26T20:19:34.966454+05:30'
+collected_at: '2026-06-26T22:40:10.370757+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-26T20:19:34.966454+05:30'
-last_seen: '2026-06-26T20:19:34.966454+05:30'
-last_checked: '2026-06-26T20:19:34.966454+05:30'
+first_seen: '2026-06-26T22:40:10.370757+05:30'
+last_seen: '2026-06-26T22:40:10.370757+05:30'
+last_checked: '2026-06-26T22:40:10.370757+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval.
-- **Streamlit UI**: Provides a web interface for querying and visualizing RAG-based responses, leveraging Streamlit’s interactive components.
-- **Modular Architecture**: Uses LangChain’s `RetrievalQA` chain with configurable retrievers, embeddings (e.g., HuggingFace), and LLM backends (e.g., OpenAI, local models).
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (likely FAISS or similar) with hybrid retrieval (e.g., BM25 + dense embeddings) for improved document retrieval accuracy.
+
+- **LangChain Integration**: Utilizes LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM inference (e.g., via `ChatOpenAI` or local models).
+
+- **Streamlit Frontend**: Deploys a real-time interactive UI with Streamlit for querying the RAG system, displaying retrieved context, and streaming LLM responses, with support for dynamic parameter adjustments (e.g., retrieval top-k, temperature).
 
 ## Why It Matters
 

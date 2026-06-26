@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pguso-rag-from-scratch.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,7 +17,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -29,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`), covering embeddings, vector search, retrieval, and context-augmented generation without proprietary APIs or black-box abstractions.
-
-- **JavaScript-Based Pipeline**: Leverages Node.js to implement core RAG components (e.g., document chunking, embedding generation with `node-llama-cpp`, vector storage/retrieval, and prompt augmentation) e
+- **End-to-End RAG Implementation**: Demonstrates building a Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid proprietary black boxes.
+- **Core Components Exposed**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation with explicit, educational focus on each step.
+- **Practical Tutorial**: Provides a hands-on guide for implementing a RAG chatbot with Node.js, emphasiz
 
 ## Use Cases
 

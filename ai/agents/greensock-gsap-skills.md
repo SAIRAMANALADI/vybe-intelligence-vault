@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-06-26T20:21:24.925029+05:30'
-published_at: '2026-06-26T14:51:04Z'
+collected_at: '2026-06-26T22:42:00.524025+05:30'
+published_at: '2026-06-26T16:56:02Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
 - unknown
-stars: 10107
+- workflows
+stars: 10127
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-06-26T20:21:24.925029+05:30'
-last_seen: '2026-06-26T20:21:24.925029+05:30'
-last_checked: '2026-06-26T20:21:24.925029+05:30'
+first_seen: '2026-06-26T22:42:00.524025+05:30'
+last_seen: '2026-06-26T22:42:00.524025+05:30'
+last_checked: '2026-06-26T22:42:00.524025+05:30'
 health_score: 100
 ---
 
@@ -31,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **GSAP AI Skills Repository**: Provides structured training for AI agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Focus**: Includes guidance on efficient animation techniques, performance optimization, and correct usage of GSAP’s core and advanced features.
-- **Repository Metadata**: 10,107 stars, 613 forks, last updated June 26, 2026. Language not specified; no additional topics listed.
+- **Technical Focus**: Designed to optimize AI-driven animation workflows with GSAP, ensuring efficient and correct implementation of complex animations.
+- **Repository Metrics**: 10,127 stars, 613 forks, last updated June 26, 2026.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10107
+- Stars: 10127
 - Forks: 613
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-26T14:51:04Z
+- Last Updated: 2026-06-26T16:56:02Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

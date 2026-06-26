@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-*   `τ-Bench` is a Python-based benchmark designed for evaluating LLM-based conversational agents' performance in complex tool-agent-user interaction paradigms.
-*   It specifically targets real-world domains, assessing agent capabilities in practical, multi-turn scenarios involving tool utilization and user dialogue.
-*   The benchmark facilitates the technical analysis of language model agents' efficacy in integrating external tools and managing interactive user workflows.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+
+- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability to dynamic user requirements in complex environments.
+
+- **Evaluation Metrics**: Measures performance via task completion rates, latency, and robustness to user ambiguity/error propagation i
 
 ## Use Cases
 

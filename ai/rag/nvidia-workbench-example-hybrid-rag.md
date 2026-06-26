@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-26T20:19:34.790164+05:30'
+collected_at: '2026-06-26T22:40:10.405315+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 369
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-26T20:19:34.790164+05:30'
-last_seen: '2026-06-26T20:19:34.790164+05:30'
-last_checked: '2026-06-26T20:19:34.790164+05:30'
+first_seen: '2026-06-26T22:40:10.405315+05:30'
+last_seen: '2026-06-26T22:40:10.405315+05:30'
+last_checked: '2026-06-26T22:40:10.405315+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based search for enhanced document retrieval accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in LLM responses.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and scalability of RAG models.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and GPU-accelerated inference, ensuring scalability and performance optimization.
 
-- **Python-Based Example**: Provides a Python-based reference implementation with modular components for customization and extension of hybrid RAG workflows.
+- **Python-Based Pipeline**: Provides a Python-based reference implementation with modular components for document preprocessing, retrieval, and generation, optimized for NVIDIA GPUs (e.g., CUDA acceleration).
 
 ## Why It Matters
 

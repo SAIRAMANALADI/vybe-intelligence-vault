@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-26T20:19:44.822208+05:30'
+collected_at: '2026-06-26T22:40:20.368751+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 263
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-26T20:19:44.822208+05:30'
-last_seen: '2026-06-26T20:19:44.822208+05:30'
-last_checked: '2026-06-26T20:19:44.822208+05:30'
+first_seen: '2026-06-26T22:40:20.368751+05:30'
+last_seen: '2026-06-26T22:40:20.368751+05:30'
+last_checked: '2026-06-26T22:40:20.368751+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for Vietnamese-focused Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding models, and retrieval strategies optimized for Vietnamese language characteristics.
-
-- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and generation, leveraging libraries like `sentence-transformers` and `langchain` for Vietnamese-specific NLP tasks.
-
-- **Evaluation & Optimization**: Includes benchmarking scripts for assessing retrieval quality (e.g., MRR, Recall@K) and generation performance, with Vietnamese-specific datasets and metrics to validate end-to-end RAG effectiveness.
+- **Implementation**: Python-based RAG (Retrieval-Augmented Generation) backend optimized for Vietnamese text processing, integrating vector search with LLM inference.
+- **Key Features**: Demonstrates best practices for Vietnamese RAG pipelines, including text preprocessing, embedding generation (e.g., `vinai/phobert-base`), and retrieval-augmented generation workflows.
+- **Deployment**: Modular design with FastAPI for serving, supporting scalable Vietnamese document retrieval and generation.
 
 ## Why It Matters
 

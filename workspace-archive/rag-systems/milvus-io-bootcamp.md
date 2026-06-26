@@ -1,44 +1,43 @@
 ---
-title: bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp
+title: bootcamp/tutorials/quickstart/build_RAG_with_milvus.ipynb at master · milvus-io/bootcamp
   · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
+source_url: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 resource_id: github:milvus-io/bootcamp
 local_vault_path: ai/rag/milvus-io-bootcamp.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp · GitHub
+# bootcamp/tutorials/quickstart/build_RAG_with_milvus.ipynb at master · milvus-io/bootcamp · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `milvus-io/bootcamp` contains 779-line Jupyter notebook (`quickstart.ipynb`) in `/tutorials/quickstart/` for Milvus vector database tutorials, with 2.4k stars and 688 forks.
+- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) with 2.4k stars and 687 forks, containing tutorials for vector database applications, including a Jupyter notebook (`build_RAG_with_milvus.ipynb`) for building RAG pipelines with Milvus.
 
-- **File Metadata**: `quickstart.ipynb` is a 23.3 KB notebook with 779 lines of code, located in the `tutorials/quickstart/` directory of the `bootcamp` repository.
-
-- **Repository Stats**: Contains 8 open issues, 1 pull request, and no active security alerts; includes CI/CD via
+- **Notebook Content**: The `build_RAG_with_milvus.ipynb` notebook (529 lines, 17.1 KB) demonstrates Retrieval-Augmented Generation (RAG) workflows using Milvus as the vector store for efficient similarity search and retrie
 
 ## Use Cases
 
@@ -48,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
+Original source URL: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 
 ## Local Vault File
 

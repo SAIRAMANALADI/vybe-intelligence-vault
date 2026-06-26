@@ -8,7 +8,7 @@ local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - frontend_ui
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # onyx-dot-app/onyx
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any LLM, enabling flexible deployment across diverse language models for enterprise and self-hosted use.
+- **Open-source AI chat platform** supporting integration with any LLM, featuring advanced RAG, vector search, and enterprise-grade information retrieval capabilities.
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based search for high-accuracy information retrieval, optimized for enterprise-scale data processing.
+- **Tech stack**: Python backend with Next.js frontend, enabling self-hosted deployment and scalable AI-driven chat interfaces.
 
-- **Next.js + Python Stack**: Frontend built with Next.js (React framework) and backend in Python,
+- **Key features**: Multi-model support, customizable UI, and enterprise search with vector-based retrieval for enhanced generative AI workflows.
 
 ## Use Cases
 

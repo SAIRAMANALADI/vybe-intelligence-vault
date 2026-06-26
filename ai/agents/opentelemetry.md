@@ -3,9 +3,9 @@ title: OpenTelemetry
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://opentelemetry.io
-published_at: '2026-06-22T10:39:33.506665+05:30'
-collected_at: '2026-06-22T10:39:33.506673+05:30'
+source_url: https://opentelemetry.io/
+published_at: '2026-06-26T22:49:08.655471+05:30'
+collected_at: '2026-06-26T22:49:08.655480+05:30'
 tags:
 - agents
 - reddit
@@ -13,9 +13,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:opentelemetry
-first_seen: '2026-06-22T10:39:33.506673+05:30'
-last_seen: '2026-06-22T10:39:33.506673+05:30'
-last_checked: '2026-06-22T10:39:33.506673+05:30'
+first_seen: '2026-06-26T22:49:08.655480+05:30'
+last_seen: '2026-06-26T22:49:08.655480+05:30'
+last_checked: '2026-06-26T22:49:08.655480+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools for instrumenting applications to generate traces, metrics, logs, and baggage, enabling end-to-end observability in distributed systems.
+- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces, metrics, and logs from cloud-native applications, consolidating observability signals under a vendor-neutral standard.
 
-- **Vendor-Neutral & Multi-Language Support**: Supports 12+ languages (e.g., Java, Python, Go, JavaScript) with auto-instrumentation capabilities, allowing telemetry export to any backend (e.g., Jaeger, Prometheus) without vendor lock-in.
+- **Multi-Language & Zero-Code Instrumentation**: Native SDKs support 12+ languages (e.g., Java, Python, Go, JavaScript), with auto-instrumentation enabling zero-code telemetry capture for popular frameworks, while the OpenTelemetry Collector processes and routes data at scale via 200+ components.
 
-- **Open Specifications & Production-Ready**: Built on CNCF-governed, open specifications (e.g., OTLP) with stable APIs, 200+ collector components, and adoption by industry leaders (e.g., eBay, GitHub, Shopify) for scalable, hybrid, and multi-cloud deployments.
+- **Open Specifications & CNCF Backing**: Built on CNCF-governed, open specifications (e.g., OTLP protocol), ensuring long-term stability and interoperability, with stable APIs in production across major cloud providers and enterprises like eBay, Shopify, and Alibaba.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-22T10:39:33.506665+05:30
+- Published: 2026-06-26T22:49:08.655471+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://opentelemetry.io
+Original source: https://opentelemetry.io/

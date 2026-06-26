@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elizaOS/eliza
-collected_at: '2026-06-26T20:19:24.833948+05:30'
-published_at: '2026-06-26T14:48:20Z'
+collected_at: '2026-06-26T22:40:00.348968+05:30'
+published_at: '2026-06-26T17:05:21Z'
 tags:
 - agents
 - github-repo
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-07-09T07:55:40Z'
-pushed_at: '2026-06-26T14:48:15Z'
+pushed_at: '2026-06-26T17:05:14Z'
 resource_id: github:elizaos/eliza
-first_seen: '2026-06-26T20:19:24.833948+05:30'
-last_seen: '2026-06-26T20:19:24.833948+05:30'
-last_checked: '2026-06-26T20:19:24.833948+05:30'
+first_seen: '2026-06-26T22:40:00.348968+05:30'
+last_seen: '2026-06-26T22:40:00.348968+05:30'
+last_checked: '2026-06-26T22:40:00.348968+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin support for RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram).
-- **Decentralized & Modular**: Integrates crypto capabilities for agent coordination, plugin extensibility, and cross-platform agentic workflows.
-- **Latest Update**: Repository last updated on **2026-06-26** with **18.6k+ stars** and **5.5k+ forks**, reflecting active community adoption.
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with modular plugins for extensibility across platforms (Discord, Slack, Telegram) and functionalities (RAG, swarm coordination).
+
+- **Decentralized Integration**: Supports crypto-native operations and agent swarming, facilitating distributed, collaborative AI workflows with crypto-economic incentives.
+
+- **Real-Time Adaptability**: Last updated June 2026, featuring dynamic plugin architecture for real-time agent behavior adaptation and multi-platform deployment.
 
 ## Why It Matters
 
@@ -42,14 +44,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: elizaOS
 - Stars: 18646
-- Forks: 5571
+- Forks: 5573
 - Language: TypeScript
 - Topics: agent, agentic, ai, autonomous, chatbot, crypto, discord, eliza, elizaos, framework, plugins, rag, slack, swarm, telegram
-- Last Updated: 2026-06-26T14:48:20Z
+- Last Updated: 2026-06-26T17:05:21Z
 - License: MIT
 - Archived: No
 - Created At: 2024-07-09T07:55:40Z
-- Pushed At: 2026-06-26T14:48:15Z
+- Pushed At: 2026-06-26T17:05:14Z
 
 ## Possible Use Cases
 

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-26T20:20:29.858501+05:30'
+collected_at: '2026-06-26T22:41:05.406970+05:30'
 published_at: '2026-06-26T04:45:56Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-26T20:20:29.858501+05:30'
-last_seen: '2026-06-26T20:20:29.858501+05:30'
-last_checked: '2026-06-26T20:20:29.858501+05:30'
+first_seen: '2026-06-26T22:41:05.406970+05:30'
+last_seen: '2026-06-26T22:41:05.406970+05:30'
+last_checked: '2026-06-26T22:41:05.406970+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, transcripts).
-
-- **Technical Implementation**: Leverages Python with multi-modal LLMs (e.g., CLIP, Whisper) for video feature extraction, hierarchical indexing, and dynamic retrieval to enhance contextual reasoning over extended video sequences.
-
-- **KDD'2026 Contribution**: Proposes a novel architecture for scalable video-based Q&A, addressing challenges in temporal coherence, multimodal fusion, and efficient retrieval for long-duration videos.
+- Introduces **VideoRAG**, a framework enabling **long-video understanding** via **Retrieval-Augmented Generation (RAG)** for multi-modal LLMs, allowing natural language interaction with video content.
+- Implements **hierarchical video chunking** and **semantic-aware retrieval** to efficiently process and query lengthy videos with **Python** leveraging PyTorch and Hugging Face ecosystems.
+- Achieves **state-of-the-art performance** on video QA benchmarks by integrating **cross-modal alignment** and **temporal reasoning** into the RAG pipeline.
 
 ## Why It Matters
 

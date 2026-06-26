@@ -8,7 +8,7 @@ local_vault_path: ai/agents/shanraisshan-codex-cli-best-practice.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to structured agentic engineering using OpenAI Codex CLI, emphasizing systematic agent-based workflows for software development.
 
-- **Codex CLI Best Practices**: Provides optimized commands, agentic patterns, and CLI-based skill modules (e.g., `codex-cli-agents`, `codex-hooks`) to enhance OpenAI Codex’s efficiency in automated code generation and debugging.
+- **Codex CLI Best Practices**: Provides curated commands, hooks, and skills for Codex CLI to optimize AI-driven coding, context engineering, and agentic task automation in Python-based environments.
 
-- **Context &
+- **Context & Skill Optimization**: Focuses on advanced context engineering techn
 
 ## Use Cases
 

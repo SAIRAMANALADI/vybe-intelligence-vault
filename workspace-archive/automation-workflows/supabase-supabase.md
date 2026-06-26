@@ -1,8 +1,8 @@
 ---
-title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/examples/ai at master · supabase/supabase · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+source_url: https://github.com/supabase/supabase/tree/master/examples/ai
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
@@ -11,20 +11,18 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
-- hackernews
-- openai
+- meta-ai
+- models
 - rag
 - reddit
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/examples/ai at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
@@ -37,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- Supabase docs support four structured document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **Reference** (factual, parameter/return-type-focused, auto-generated from specs).
-
-- Docs are authored in **MDX** with YAML frontmatter, stored in `apps/docs/content`, and organized via navigation files; reference docs are dynamically generated from spec files (`common-client-libs-sections.
+- Supabase AI examples repository contains 10+ subdirectories and notebooks demonstrating integration with AI services (e.g., AWS Bedrock, LlamaIndex) and vector embeddings.
+- Includes edge function implementations (`edge-functions/`) and image processing workflows (`image_search/`, `aws_bedrock_image_search/`).
+- Features Jupyter notebooks for face similarity (`face_similarity.ipynb`), semantic deduplication (`semantic_text_deduplication.ipynb`), and vector search (`vector_hello_world.ipynb`).
 
 ## Use Cases
 
@@ -49,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+Original source URL: https://github.com/supabase/supabase/tree/master/examples/ai
 
 ## Local Vault File
 

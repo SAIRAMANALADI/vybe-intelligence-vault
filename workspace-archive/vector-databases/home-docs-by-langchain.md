@@ -8,7 +8,7 @@ local_vault_path: ai/rag/home-docs-by-langchain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Home - Docs by LangChain
@@ -26,17 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **LangChain Documentation Index**: Centralized `/llms.txt` file listing all available documentation pages for LangChain, accessible at [/llms.txt](https://docs.langchain.com/llms.txt).
-
-- **Agent Development Platform**: Unified platform supporting agent lifecycle stages—development (LangChain/LangGraph/Deep Agents), testing (datasets/evaluations), deployment, monitoring, and governance.
-
-- **LangSmith Features**: Includes Engine for automated failure detection, no-code agent builder (LangSmith
+*   LangChain provides an integrated platform for agent engineering, leveraging frameworks like LangChain, LangGraph, and Deep Agents for development.
+*   The platform supports the complete agent lifecycle, from building and testing (via datasets, evaluations, and prompt engineering) to deployment, production monitoring (tracing, debugging, observation), and governance.
+*   LangSmith is a central component, offering functionalities for agent evaluation, monitoring, no-code agent development (Fle
 
 ## Use Cases
 

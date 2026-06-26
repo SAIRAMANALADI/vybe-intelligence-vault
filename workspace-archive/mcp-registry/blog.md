@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling RAG, document processing, and enterprise search with modular pipeline architecture.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling RAG, document processing, and enterprise search with modular components (retrievers, readers, generators).
 
-- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harness design beyond model selection.
+- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harnesses rather than model selection alone.
 
-- **Haystack Enterprise Platform**: Unified commercial offering integrating MCP tooling, sovereign AI complianc
+- **Haystack Enterprise Platform**: Unified commercial offering integrating MCP tooli
 
 ## Use Cases
 

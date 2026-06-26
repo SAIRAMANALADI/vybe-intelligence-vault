@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **ParseBench**: A specialized benchmarking suite for evaluating document parsing capabilities of AI agents, focusing on PDF parsing, OCR, and table extraction tasks.
-
-- **Key Metrics**: Evaluates performance across vision-language models (VLMs), LLMs, and OCR pipelines, with metrics for accuracy, robustness, and efficiency in structured/unstructured document parsing.
-
-- **Integration**: Designed for compatibility with LlamaIndex, supporting modular evaluation of document parsing pipelines, inc
+- **Benchmark Suite**: ParseBench evaluates AI agents on document parsing tasks, including PDF parsing, OCR, and table extraction, with a focus on structured output evaluation.
+- **Integration**: Designed for compatibility with LlamaIndex, supporting LLMs, vision-language models, and machine learning pipelines for document AI workflows.
+- **Metrics & Tools**: Provides standardized evaluation metrics and tools for assessing parsing accuracy, robustness, and performance across diverse document for
 
 ## Use Cases
 

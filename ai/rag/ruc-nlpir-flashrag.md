@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-26T20:20:04.855893+05:30'
+collected_at: '2026-06-26T22:40:40.395867+05:30'
 published_at: '2026-06-25T10:07:06Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-26T20:20:04.855893+05:30'
-last_seen: '2026-06-26T20:20:04.855893+05:30'
-last_checked: '2026-06-26T20:20:04.855893+05:30'
+first_seen: '2026-06-26T22:40:40.395867+05:30'
+last_seen: '2026-06-26T22:40:40.395867+05:30'
+last_checked: '2026-06-26T22:40:40.395867+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations to accelerate experimentation and deployment.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Benchmark & Datasets**: Includes standardized benchmarks and curated datasets for evaluating RAG systems, enabling reproducible and comparative studies across different models and retrieval strategies.
+- **Benchmark & Dataset Support**: Provides built-in support for standardized RAG benchmarks and diverse datasets, enabling reproducible evaluation and comparison of retrieval-augmented models.
 
-- **Modular & Extensible**: Designed with modularity in mind, supporting integration with large language models (LLMs) and custom retrieval pipelines while maintaining compatibility with modern ML frameworks.
+- **Modular & Extensible**: Offers a modular architecture with plug-and-play components (e.g., retrievers, generators, evaluators) to facilitate rapid prototyping and integration with custom RAG pipelines.
 
 ## Why It Matters
 

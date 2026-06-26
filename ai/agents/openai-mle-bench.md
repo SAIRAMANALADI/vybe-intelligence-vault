@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-06-26T10:14:28.691198+05:30'
+collected_at: '2026-06-26T22:42:25.496291+05:30'
 published_at: '2026-06-26T00:45:25Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - openai
 - python
 - workflows
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-06-26T10:14:28.691198+05:30'
-last_seen: '2026-06-26T10:14:28.691198+05:30'
-last_checked: '2026-06-26T10:14:28.691198+05:30'
+first_seen: '2026-06-26T22:42:25.496291+05:30'
+last_seen: '2026-06-26T22:42:25.496291+05:30'
+last_checked: '2026-06-26T22:42:25.496291+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark designed to evaluate AI agents' proficiency in machine learning engineering tasks, encompassing end-to-end workflows from data preprocessing to model deployment.
-
-- **Technical Implementation**: Implemented in Python, the benchmark includes standardized tasks, metrics, and evaluation protocols to assess agents' performance in ML engineering scenarios.
-
-- **Repository Status**: Actively maintained with 1,596 stars and 255 forks as of the last update (June 26, 2026), indicating community engagement and potential for future contributions.
+- **MLE-bench**: A benchmark framework evaluating AI agents' proficiency in machine learning engineering tasks, implemented in Python.
+- **Metrics**: Focuses on assessing end-to-end ML workflows, including data handling, model training, hyperparameter tuning, and deployment.
+- **Open-source**: Public repository (MIT License) with 1,596 stars and 256 forks, last updated June 26, 2026.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: openai
 - Stars: 1596
-- Forks: 255
+- Forks: 256
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-26T00:45:25Z

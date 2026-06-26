@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/blog
-published_at: '2026-06-26T20:23:06.874369+05:30'
-collected_at: '2026-06-26T20:23:06.874400+05:30'
+published_at: '2026-06-26T22:43:26.889407+05:30'
+collected_at: '2026-06-26T22:43:26.889415+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:blog
-first_seen: '2026-06-26T20:23:06.874400+05:30'
-last_seen: '2026-06-26T20:23:06.874400+05:30'
-last_checked: '2026-06-26T20:23:06.874400+05:30'
+first_seen: '2026-06-26T22:43:26.889415+05:30'
+last_seen: '2026-06-26T22:43:26.889415+05:30'
+last_checked: '2026-06-26T22:43:26.889415+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling RAG, document processing, and enterprise search with modular pipeline architecture.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling RAG, document processing, and enterprise search with modular components (retrievers, readers, generators).
 
-- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harness design beyond model selection.
+- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harnesses rather than model selection alone.
 
-- **Haystack Enterprise Platform**: Unified commercial offering integrating MCP tooling, sovereign AI compliance, and scalable enterprise solutions for AI deployment and governance.
+- **Haystack Enterprise Platform**: Unified commercial offering integrating MCP tooling, sovereign AI compliance (e.g., Deutschland-Stack), and scalable pipelines for regulated industries (finance, government, healthcare).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:23:06.874369+05:30
+- Published: 2026-06-26T22:43:26.889407+05:30
 
 ## Related Tags
 

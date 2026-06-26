@@ -4,20 +4,21 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-06-25T23:00:19.120892+05:30'
-collected_at: '2026-06-25T23:00:19.120905+05:30'
+published_at: '2026-06-26T22:44:16.158119+05:30'
+collected_at: '2026-06-26T22:44:16.158132+05:30'
 tags:
 - agents
 - dataset
 - models
 - producthunt
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-06-25T23:00:19.120905+05:30'
-last_seen: '2026-06-25T23:00:19.120905+05:30'
-last_checked: '2026-06-25T23:00:19.120905+05:30'
+first_seen: '2026-06-26T22:44:16.158132+05:30'
+last_seen: '2026-06-26T22:44:16.158132+05:30'
+last_checked: '2026-06-26T22:44:16.158132+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: Hugging Face provides industry-standard open-source libraries like `transformers` (162k+ stars) for unified ML model definition (text/vision/audio/multimodal), `diffusers` (33.9k+ stars) for diffusion-based generative AI, and `datasets` (21.7k+ stars) for large-scale, optimized data handling.
+- **Core Libraries**: Hugging Face maintains industry-standard open-source libraries including `transformers` (SOTA ML frameworks for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative tasks), `datasets` (largest AI dataset hub with efficient tools), and `tokenizers` (high-performance Rust-based tokenization optimized for research/production).
 
-- **Optimization & Deployment**: Key tools include `accelerate` (9.7k+ stars) for PyTorch model training/inference across hardware, `optimum` (3.4k+ stars) for hardware-optimized inference/training, and `peft` (21.3k+ stars) for parameter-efficient fine-tuning (e.g., LoRA, prefix-tuning).
+- **Optimization & Fine-Tuning**: Provides `accelerate` (PyTorch acceleration across devices with mixed precision/FP8/FSDP/DeepSpeed), `peft` (parameter-efficient fine-tuning methods like LoRA), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
 
-- **Ecosystem & Tools**: The `tokenizers` library (Rust-based, 10.8k+ stars) offers high-performance tokenization, while `trl` (18.7k+ stars) enables RL-based fine-tuning of language models. The `huggingface_hub` (3.7k+ stars) provides Python client access to the Hugging Face Hub for model/dataset sharing.
+- **Hub & Community**: Hosts the [Hugging Face Hub](https://huggingface.co) (verified domain) with 65k+ followers, supporting model/dataset sharing, and sponsors cutting-edge projects like `agentcap` (agentic session capture) and `kernels` (compute kernel development).
 
 ## Why It Matters
 
@@ -39,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T23:00:19.120892+05:30
+- Published: 2026-06-26T22:44:16.158119+05:30
 
 ## Related Tags
 
@@ -47,6 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 - dataset
 - models
 - producthunt
+- reddit
 - web-crawled
 - youtube
 

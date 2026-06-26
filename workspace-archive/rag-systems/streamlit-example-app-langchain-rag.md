@@ -6,9 +6,9 @@ source_url: https://github.com/streamlit/example-app-langchain-rag
 resource_id: github:streamlit/example-app-langchain-rag
 local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # streamlit/example-app-langchain-rag
@@ -25,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates LangChain integration with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval.
-- **Streamlit UI**: Provides a web interface for querying and visualizing RAG-based responses, leveraging Streamlit’s interactive components.
-- **Modular Architecture**: Uses LangChain’s `RetrievalQA` chain with configurable retrievers, embeddings (e.g., HuggingFace), and LLM backends (e.g., OpenAI, local mod
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (likely FAISS or similar) with hybrid retrieval (e.g., BM25 + dense embeddings) for improved document retrieval accuracy.
+
+- **LangChain Integration**: Utilizes LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM inference (e.g., via `ChatOpenAI` or local models).
+
+- **Streamlit Frontend**: Deploys a real-
 
 ## Use Cases
 

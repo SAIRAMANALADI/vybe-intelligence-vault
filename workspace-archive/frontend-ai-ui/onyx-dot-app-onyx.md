@@ -13,7 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
-- hackernews
 - openai
 - python
 - rag
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Chat Platform**: Open-source Python-based system supporting **any LLM** with advanced features like **RAG (Retrieval-Augmented Generation)**, **vector search**, and **enterprise-grade information retrieval** via a **Next.js** frontend.
+- **Open-source AI chat platform** supporting integration with any LLM, featuring advanced RAG, vector search, and enterprise-grade information retrieval capabilities.
 
-- **Self-Hosted & Scalable**: Designed for **self-deployment** with **enterprise search** capabilities, enabling **on-premise or private cloud** usage while maintaining compatibility with **ChatGPT-like UI** and **multi-model LLM integrations**.
+- **Tech stack**: Python backend with Next.js frontend, enabling self-hosted deployment and scalable AI-driven chat interfaces.
 
--
+- **Key features**: Multi-model support, customizable UI, and enterprise search with vector-based retrieval for enhanced generative AI workflows.
 
 ## Use Cases
 

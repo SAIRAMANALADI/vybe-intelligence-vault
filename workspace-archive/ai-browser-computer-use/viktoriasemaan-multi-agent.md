@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Contains Jupyter Notebook examples demonstrating AI multi-agent solutions, with 209 stars and 123 forks.
-- **Technical Stack**: Implemented in Jupyter Notebook, last updated on 2026-06-23.
-- **Purpose**: Focuses on practical implementations of multi-agent AI systems without additional metadata or topics.
+- **Repository Overview**: GitHub repository containing examples of AI multi-agent solutions implemented in Jupyter Notebook.
+- **Metadata**: 209 stars, 123 forks, last updated on 2026-06-23.
+- **Technical Stack**: Focuses on multi-agent AI systems without additional topic tags or language specifications beyond Jupyter Notebook.
 
 ## Use Cases
 

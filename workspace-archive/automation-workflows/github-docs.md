@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local operations, supports SSH for secure remote connections, and manages repositories for version control and collaboration.
+- **Git Integration**: GitHub relies on Git, an open-source VCS, for local version control operations, requiring initial setup (`git config`) and SSH-based secure remote connections for repository interactions.
 
-- **Collaboration & Automation**: Pull requests enable code review and merging; GitHub Actions facilitates CI/CD pipelines; GitHub Copilot provides AI-driven code suggestions in IDEs.
+- **Collaborative Workflows**: Pull requests enable proposing, reviewing, and merging code changes, while GitHub Actions automates CI/CD pipelines for testing, building, and deploying software.
 
-- **Security & Extensibility**: GitHub enforces secure authentication (SSH, tokens), offers CodeQL for vulnerab
+- **Security & Automation**: GitHub provides tools like CodeQL for vulnerability analysis, Se
 
 ## Use Cases
 

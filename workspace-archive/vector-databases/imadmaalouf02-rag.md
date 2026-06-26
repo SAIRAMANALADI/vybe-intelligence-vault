@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `imadmaalouf02/RAG`
-- **Language**: Python
-- **Last Updated**: 2024-12-05T01:18:06Z
+- **Repository**: `imadmaalouf02/RAG` (Python-based)
+- **Metadata**: 0 stars, 0 forks, last updated 2024-12-05T01:18:06Z
+- **Status**: No description, topics, or additional metadata provided
 
 ## Use Cases
 

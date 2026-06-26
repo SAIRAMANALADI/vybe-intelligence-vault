@@ -6,10 +6,10 @@ source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
 resource_id: github:azure-samples/aisearch-openai-rag-audio
 local_vault_path: ai/rag/azure-samples-aisearch-openai-rag-audio.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - github-repo
 - hackernews
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search for vector storage and retrieval, paired with Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio-based generative AI interactions.
+- **VoiceRAG Implementation**: Demonstrates interactive voice generative AI using Azure AI Search for retrieval-augmented generation (RAG) and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
 
-- **Architecture**: Combines Retrieval-Augmented Generation (RAG) with Azure services to enable interactive voice experiences, leveraging vector embeddings and semantic search for dynamic audio-to-text and text-to-audio workflows.
+- **Technical Stack**: Python-based solution integrating Azure AI Search (vector database), Azure OpenAI services, and generative AI models for end-to-end voice-based RAG workflows.
 
-- **Technical Stack**: Python-based soluti
+- **Deployment & Scalability**: Uses Azure Developer CLI (azd) templates for infrastructure-as
 
 ## Use Cases
 

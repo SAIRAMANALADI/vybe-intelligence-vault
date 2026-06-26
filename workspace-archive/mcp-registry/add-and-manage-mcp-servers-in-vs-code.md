@@ -6,7 +6,7 @@ source_url: https://code.visualstudio.com/docs/copilot/chat/mcp-servers
 resource_id: blog:add-and-manage-mcp-servers-in-vs-code
 local_vault_path: ai/rag/add-and-manage-mcp-servers-in-vs-code.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **MCP Servers**: Visual Studio Code integrates with [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers to provide AI models with external tools (e.g., file ops, databases, APIs) via standardized interfaces, enabling secure, extensible AI-driven workflows.
+- **MCP Integration**: Visual Studio Code supports the **Model Context Protocol (MCP)**, enabling AI models to connect with external tools/services (e.g., file ops, databases, APIs) via MCP servers, which provide tools, resources, prompts, and interactive apps for AI customization.
 
-- **Configuration & Trust**: MCP servers are configured via `mcp.json` (workspace/user-level), with support for remote execution, input variables for secrets, and explicit trust validation to mitigate arbitrary code exe
+- **MCP Server Management**: MCP servers can be installed globally or per-workspace via `.vscode/mcp.json`, with configurations synced across devices; trust policies and security checks are enforced for local/server-
 
 ## Use Cases
 

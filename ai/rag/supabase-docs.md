@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs
-published_at: '2026-06-26T10:17:10.754676+05:30'
-collected_at: '2026-06-26T10:17:10.754690+05:30'
+published_at: '2026-06-26T22:45:14.463378+05:30'
+collected_at: '2026-06-26T22:45:14.463387+05:30'
 tags:
 - frontend_ui
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:supabase-docs
-first_seen: '2026-06-26T10:17:10.754690+05:30'
-last_seen: '2026-06-26T10:17:10.754690+05:30'
-last_checked: '2026-06-26T10:17:10.754690+05:30'
+first_seen: '2026-06-26T22:45:14.463387+05:30'
+last_seen: '2026-06-26T22:45:14.463387+05:30'
+last_checked: '2026-06-26T22:45:14.463387+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and extensibility via PostgreSQL extensions.
-- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), Row-Level Security (RLS) for fine-grained access control, and scalable object storage with direct Postgres integration.
-- **Edge Compute & API Layer**: Offers globally distributed Edge Functions for low-latency serverless execution and provides REST/GraphQL APIs, client libraries (JS, Python, Flutter, etc.), and migration tools for seamless integration with existing systems.
+- **PostgreSQL-based Backend**: Supabase provides a full PostgreSQL database per project with built-in realtime capabilities, automated backups, and support for extensions.
+- **Unified Authentication & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), with integrated object storage featuring Row-Level Security (RLS) policies.
+- **Edge Compute & APIs**: Offers globally distributed Edge Functions for low-latency execution, alongside REST/GraphQL APIs, AI tools, and migration support from major databases (e.g., Firebase, MySQL, PostgreSQL).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:17:10.754676+05:30
+- Published: 2026-06-26T22:45:14.463378+05:30
 
 ## Related Tags
 

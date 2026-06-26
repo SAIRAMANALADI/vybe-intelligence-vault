@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,849</p>
-        <p><b>Active:</b> 8,634 | <b>Inactive:</b> 215</p>
+        <p><b>Resources tracked:</b> 8,875</p>
+        <p><b>Active:</b> 8,658 | <b>Inactive:</b> 217</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 33,994</p>
+        <p><b>Archive Files:</b> 34,082</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 21:49 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 22:55 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,19 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+76 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+35 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+18 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+31</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8616</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Traces | OpenTelemetry](ai/agents/traces-opentelemetry.md)** • Score: `0`
+- 🆕 **[Getting Started | OpenTelemetry](ai/resources/getting-started-opentelemetry.md)** • Score: `0`
+- 🆕 **[Metrics | OpenTelemetry](ai/rag/metrics-opentelemetry.md)** • Score: `0`
+- 🆕 **[OpenTelemetry - CNCF · GitHub](ai/resources/opentelemetry-cncf-github.md)** • Score: `0`
+- 🆕 **[Specification Status Summary | OpenTelemetry](ai/resources/specification-status-summary-opentelemetry.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)**
+- 💤 **[The AI backlash is only getting started](ai/community/the-ai-backlash-is-only-getting-started.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

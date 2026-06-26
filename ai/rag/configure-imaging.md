@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-06-26T15:28:20.872417+05:30'
-collected_at: '2026-06-26T15:28:20.872425+05:30'
+published_at: '2026-06-26T22:44:21.425140+05:30'
+collected_at: '2026-06-26T22:44:21.425151+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-06-26T15:28:20.872425+05:30'
-last_seen: '2026-06-26T15:28:20.872425+05:30'
-last_checked: '2026-06-26T15:28:20.872425+05:30'
+first_seen: '2026-06-26T22:44:21.425151+05:30'
+last_seen: '2026-06-26T22:44:21.425151+05:30'
+last_checked: '2026-06-26T22:44:21.425151+05:30'
 health_score: 100
 ---
 
@@ -23,8 +23,11 @@ health_score: 100
 
 ## Summary
 
-*   Hugo's `imaging` configuration defines global image processing parameters including `anchor` for smart cropping, `bgColor` for transparency conversion, and `resampleFilter` (e.g., `box`, `lanczos`) for resizing algorithms.
-*   Granular, format-specific controls are provided for AVIF, JPEG, and WebP, allowing configuration of `quality` (1-100), `compression` (lossy
+- **Image Processing Configuration**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, with format-specific controls for AVIF (`lossy` compression, `quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`lossy` compression, `quality: 75`, `method: 2`).
+
+- **Exif Metadata Handling**: Configurable via `meta.fields` (glob-based exclusion/inclusion) and `meta.sources` (`exif`, `iptc`, or `xmp`), with default exclusion of technical fields (e.g., `GPS`, `Exif`, `Sharp`) to optimize performance.
+
+- **Deprecated Legacy Settings**: Top-level `compression`, `hint`, and `quality` parameters are deprecated (v0.163.0+) in favor of format-specific configurations (e.g., `imaging.avif.compression`, `imaging.webp.hint`).
 
 ## Why It Matters
 
@@ -34,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:28:20.872417+05:30
+- Published: 2026-06-26T22:44:21.425140+05:30
 
 ## Related Tags
 

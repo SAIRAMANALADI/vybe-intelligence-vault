@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-26T20:20:39.889915+05:30'
+collected_at: '2026-06-26T22:41:15.467598+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 105
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-26T20:20:39.889915+05:30'
-last_seen: '2026-06-26T20:20:39.889915+05:30'
-last_checked: '2026-06-26T20:20:39.889915+05:30'
+first_seen: '2026-06-26T22:41:15.467598+05:30'
+last_seen: '2026-06-26T22:41:15.467598+05:30'
+last_checked: '2026-06-26T22:41:15.467598+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework integrating memory mechanisms with multi-agent collaboration for enhanced graph-based retrieval-augmented generation (RAG), optimizing knowledge retention and retrieval efficiency.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms to enhance multi-agent collaboration for Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge integration and retrieval.
 
-- **Graph Construction & Ontology Integration**: Implements dynamic graph construction and ontology-aware techniques to structure and semantically enrich knowledge graphs, improving contextual relevance and multi-hop reasoning in RAG pipelines.
+- **Ontology-Guided Graph Construction**: Implements ontology-driven graph construction to structure and refine knowledge graphs, improving contextual relevance and retrieval precision for downstream generation tasks.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for agent-memory interaction, graph retrieval, and ontology construction, validated for scalability in KDD 2026 benchmarks.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, supporting multi-agent interactions, graph-based memory storage, and GraphRAG integration for KDD 2026 research.
 
 ## Why It Matters
 

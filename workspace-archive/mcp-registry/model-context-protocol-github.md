@@ -6,11 +6,12 @@ source_url: https://github.com/modelcontextprotocol
 resource_id: blog:model-context-protocol-github
 local_vault_path: ai/resources/model-context-protocol-github.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 89
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
+- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -23,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Open protocol standard** for bidirectional LLM ↔ external data/tool integration via standardized interfaces and resource access patterns
-- **Multi-language SDK support** (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) with protocol implementations and sample servers
-- **Modular architecture** with core protocol specification, maintained servers, and extensible authorization mechanisms (e.g., `ext-auth`)
+- **Protocol Definition**: MCP is an open standard protocol enabling standardized bidirectional communication between LLM applications and external data sources/tools via structured context exchange.
+- **Multi-Language SDK Support**: Provides official SDKs in TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, and Swift for protocol implementation and server/client development.
+- **Project Ecosystem**: Hosted under the Linux Foundation, includes core repositories for protocol specificatio
 
 ## Use Cases
 
