@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 22:55 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 00:05 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+76 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)** • <kbd>+35 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+18 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+31</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8616</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[About Medium](ai/rag/about-medium.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Traces | OpenTelemetry](ai/agents/traces-opentelemetry.md)** • Score: `0`
-- 🆕 **[Getting Started | OpenTelemetry](ai/resources/getting-started-opentelemetry.md)** • Score: `0`
-- 🆕 **[Metrics | OpenTelemetry](ai/rag/metrics-opentelemetry.md)** • Score: `0`
-- 🆕 **[OpenTelemetry - CNCF · GitHub](ai/resources/opentelemetry-cncf-github.md)** • Score: `0`
-- 🆕 **[Specification Status Summary | OpenTelemetry](ai/resources/specification-status-summary-opentelemetry.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)**
-- 💤 **[The AI backlash is only getting started](ai/community/the-ai-backlash-is-only-getting-started.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
