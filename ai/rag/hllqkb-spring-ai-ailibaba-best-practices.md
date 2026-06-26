@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-26T15:24:29.413312+05:30'
+collected_at: '2026-06-26T20:19:49.789145+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-26T15:24:29.413312+05:30'
-last_seen: '2026-06-26T15:24:29.413312+05:30'
-last_checked: '2026-06-26T15:24:29.413312+05:30'
+first_seen: '2026-06-26T20:19:49.789145+05:30'
+last_seen: '2026-06-26T20:19:49.789145+05:30'
+last_checked: '2026-06-26T20:19:49.789145+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Java-based repository demonstrating AI question-answering systems using **SSE streaming**, **Agent-based architectures**, **knowledge graph RAG**, **Function Call**, **historical message handling**, **image generation/understanding**, **Embedding**, **Vector Database**, and **RAG** techniques.
+- **Architecture**: Implements a Java-based AI Q&A system leveraging **Spring AI** with **Alibaba Cloud** integrations, featuring **Server-Sent Events (SSE)** streaming, **Agent-based workflows**, and **Retrieval-Augmented Generation (RAG)** with knowledge graphs.
 
-- **Features**: Integrates **multi-modal AI capabilities** (text/image) with **real-time data processing** via **Spring AI** and **Alibaba Cloud AI services**, leveraging **vector databases** for efficient retrieval-augmented generation (RAG).
+- **Core Components**: Integrates **Function Calling**, **historical message handling**, **image generation/understanding**, **Embedding models**, **Vector Databases**, and **RAG pipelines** for enhanced contextual retrieval and multimodal processing.
 
-- **Architecture**: Modular design showcasing **best practices** for **AI agent workflows**, **embedding pipelines**, and **hybrid retrieval** (text + knowledge graphs) with **Java Spring Boot** backend.
+- **Technical Stack**: Utilizes **Java** with dependencies on **Spring AI**, **Alibaba Cloud SDKs**, and **vector database connectors** (e.g., Milvus, Weaviate) for scalable AI-driven workflows.
 
 ## Why It Matters
 

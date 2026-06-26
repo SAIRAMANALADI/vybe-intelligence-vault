@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-26T15:23:29.483372+05:30'
-published_at: '2026-06-26T09:08:04Z'
+collected_at: '2026-06-26T20:18:49.906120+05:30'
+published_at: '2026-06-26T14:19:33Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,16 @@ tags:
 - models
 - python
 - rag
-stars: 8950
+stars: 8953
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-26T15:23:29.483372+05:30'
-last_seen: '2026-06-26T15:23:29.483372+05:30'
-last_checked: '2026-06-26T15:23:29.483372+05:30'
+first_seen: '2026-06-26T20:18:49.906120+05:30'
+last_seen: '2026-06-26T20:18:49.906120+05:30'
+last_checked: '2026-06-26T20:18:49.906120+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: Provides a full-stack technical reference for Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation with modern AI frameworks (LangChain, LlamaIndex) and multimodal integration.
+- **Comprehensive RAG Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) development, integrating multiple frameworks (LangChain, LlamaIndex) and tools (Milvus, Neo4j) for multimodal and deep learning applications.
 
-- **Multi-Technology Integration**: Demonstrates practical implementations with vector databases (Milvus), graph databases (Neo4j), embedding models, and LLM APIs (DeepSeek, Kimi-K2), emphasizing real-world deployment scenarios.
+- **Multi-Framework Integration**: Demonstrates practical implementations with Python, including embeddings (DeepSeek, Kimi-K2), vector databases (Milvus), and graph-based retrieval (Neo4j) for scalable RAG pipelines.
 
-- **Open-Source Repository**: Hosted Python-based project with 8,950+ stars and 4,457+ forks, offering executable code, documentation, and continuous updates (last modified June 2026).
+- **Updated Technical Repository**: Actively maintained (last update: 2026-06-26) with 8,953 stars and 4,460 forks, serving as a reference for AI practitioners leveraging LLMs, multimodal data, and advanced retrieval techniques.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 8950
-- Forks: 4457
+- Stars: 8953
+- Forks: 4460
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-06-26T09:08:04Z
+- Last Updated: 2026-06-26T14:19:33Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

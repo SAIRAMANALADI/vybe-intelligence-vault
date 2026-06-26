@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, identifies root causes in traces/code, and proposes fixes to accelerate agent improvement cycles.
+- **Multi-framework agent observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python/TypeScript/Go/Java, enabling structured debugging of long-context, branching agent workflows via message threading and AI-driven analytics.
 
-- **Multi-Framework Observability**: Provides native tracing for popular agent frameworks (via OpenTelemetry) with SDKs in Python/TypeScript/Go/Java, enabling structured debugging of long-context, branching agent workflows.
-
-- **Production-Grade Deployment**: Agent server supports fault-tolerant, scalable
+- **Automated evaluation & iterative improvement**: Captures production traces as test cases, supports LLM-as-judge and multi-turn evals, and integrates human feedback for calibration,
 
 ## Use Cases
 

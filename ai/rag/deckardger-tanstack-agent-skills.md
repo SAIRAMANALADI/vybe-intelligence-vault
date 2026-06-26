@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-06-26T15:26:09.490493+05:30'
+collected_at: '2026-06-26T20:21:29.884659+05:30'
 published_at: '2026-06-25T16:29:08Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - rag
 - reddit
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-06-26T15:26:09.490493+05:30'
-last_seen: '2026-06-26T15:26:09.490493+05:30'
-last_checked: '2026-06-26T15:26:09.490493+05:30'
+first_seen: '2026-06-26T20:21:29.884659+05:30'
+last_seen: '2026-06-26T20:21:29.884659+05:30'
+last_checked: '2026-06-26T20:21:29.884659+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns for efficient data caching, minimizing redundant API calls and improving performance in AI-driven applications.
+- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., `staleTime`, `gcTime`) to minimize redundant network requests and improve AI agent efficiency in dynamic data fetching scenarios.
 
-- **State Management Integration**: Demonstrates seamless integration of TanStack Router and Start for robust client-side state management, enabling dynamic routing and state synchronization in AI coding agents.
+- **State Management for AI Workflows**: Leverages TanStack Router for declarative route-based state synchronization, enabling seamless transitions between AI agent tasks without full page reloads.
 
-- **AI-Agent Best Practices**: Provides structured guidelines for leveraging TanStack libraries in AI workflows, emphasizing modularity, error handling, and real-time data synchronization.
+- **Performance Benchmarking**: Provides structured benchmarks for TanStack Start integration, focusing on cold-start latency and memory footprint optimization for AI-driven applications.
 
 ## Why It Matters
 

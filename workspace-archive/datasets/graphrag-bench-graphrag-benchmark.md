@@ -6,7 +6,7 @@ source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
 resource_id: github:graphrag-bench/graphrag-benchmark
 local_vault_path: ai/rag/graphrag-bench-graphrag-benchmark.md
 quality_score: 70
-archive_score: 91
+archive_score: 89
 archive_tier: essential
 resource_kind: framework
 importance: high
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 91 (essential)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on assessing when graph structures enhance RAG performance (ICLR'26 submission).
-
-- **Technical Scope**: Provides a comprehensive analysis framework, datasets, and evaluation metrics for GraphRAG systems, supporting reproducibility and standardized comparison across models.
-
-- **Implementation**: Python-based implementation with modular comp
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate GraphRAG (Graph Retrieval-Augmented Generation) models, with a focus on determining optimal use cases for graph-based RAG systems.
+- **Technical Scope**: Implements a comprehensive analysis pipeline for GraphRAG, including dataset curation, evaluation metrics, and model comparison tools, targeting ICLR'26 submission.
+- **Repository Metrics**: 448 stars, 52 forks; Python-based implementation with modular archi
 
 ## Use Cases
 

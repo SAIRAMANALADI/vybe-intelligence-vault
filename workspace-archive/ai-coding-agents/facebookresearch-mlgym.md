@@ -15,6 +15,7 @@ tags:
 - benchmark
 - github-repo
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **MLGym Framework**: A Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
+- **Framework & Benchmark**: MLGym is a Python-based framework and benchmark designed to advance AI research agents, providing structured environments for evaluating and training autonomous agents in machine learning tasks.
 
-- **Benchmark Suite**: Includes standardized tasks and metrics to assess AI agent performance, enabling reproducible research and fair comparisons across different algorithms and configurations.
+- **Modular Architecture**: Implements a modular design with configurable components (e.g., environments, agents, tasks) to enable reproducible experimentation and scalable research workflows.
 
-- **Key Features**: Supports distributed training, integrat
+- **Performance Tracking**: Integrates benchmarking tools to systematically asses
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 80
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with an LLM generator, enabling dynamic access to external knowledge for improved factuality and adaptability without full retraining.
+- **Core RAG Pipeline Architecture**: RAG systems integrate a retriever (vector/lexical), vector store/index, and LLM generator, optionally enhanced with rerankers, query rewriting, caching, and orchestration layers to optimize precision and efficiency.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) and domain-specific embedding models (fine-tuned for retrieval tasks) are critical for retrieval precision and downstream generation quality.
-
-- **Multi-Stage Retrieval & Optimization**: Hybrid sea
+- **Chunking and Embedding Optimization**: Effective RAG relies on semantic-aware chunking (e.g., structure-aware, LLM-based) and domain-fine-tuned embeddings (balanced dimensionality, normalized vectors) to improve retrieval recall and contextu
 
 ## Use Cases
 

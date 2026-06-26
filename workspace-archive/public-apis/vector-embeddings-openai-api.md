@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **New embedding models**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer lower cost, improved multilingual performance, and adjustable dimensions via API parameter for dimensionality reduction while maintaining concept-representation.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/$) and `text-embedding-3-large` (3072-dim, 9.6k pages/$) offer reduced costs and improved multilingual performance; both support up to 8192 tokens with dynamic dimensionality reduction via the `dimensions` parameter.
 
-- **Embedding mechanics**: Text strings are converted to dense vector embeddings (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; default dimensi
+- **Embedding Mechanics**: Text strings are converted to floating-point vectors where cosine similarity quantifies semantic relatedness; dimensionality can be manually truncated (e.g., to 256) while preserv
 
 ## Use Cases
 

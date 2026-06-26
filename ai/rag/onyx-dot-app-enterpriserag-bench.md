@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-26T15:24:49.469863+05:30'
+collected_at: '2026-06-26T20:20:09.855853+05:30'
 published_at: '2026-06-25T09:47:53Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
-- workflows
 stars: 423
 language: Unknown
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-26T15:24:49.469863+05:30'
-last_seen: '2026-06-26T15:24:49.469863+05:30'
-last_checked: '2026-06-26T15:24:49.469863+05:30'
+first_seen: '2026-06-26T20:20:09.855853+05:30'
+last_seen: '2026-06-26T20:20:09.855853+05:30'
+last_checked: '2026-06-26T20:20:09.855853+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,13 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based Q&A testing across enterprise knowledge bases, with Python-based tooling for reproducibility.
-- **Scope**: Covers key RAG evaluation dimensions (retrieval, generation, and end-to-end performance) with support for large language models, information retrieval, and generative AI workflows.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
+
+- **Key Features**:
+  - Synthetic data generation for enterprise-specific Q&A and retrieval tasks.
+  - Supports evaluation of semantic search, LLM accuracy, and retrieval-augmented responses in private document contexts.
+
+- **Technical Scope**: Includes Python-based tools for dataset creation, evaluation metrics, and RAG pipeline testing, covering topics like information retrieval, generative AI, and LLM evaluation.
 
 ## Why It Matters
 

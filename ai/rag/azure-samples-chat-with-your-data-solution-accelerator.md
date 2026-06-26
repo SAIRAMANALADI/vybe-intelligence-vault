@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-26T15:24:29.503948+05:30'
-published_at: '2026-06-25T10:19:25Z'
+collected_at: '2026-06-26T20:19:49.856710+05:30'
+published_at: '2026-06-26T12:06:59Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- reddit
-stars: 1172
+stars: 1173
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-26T01:05:34Z'
+pushed_at: '2026-06-26T14:21:16Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-26T15:24:29.503948+05:30'
-last_seen: '2026-06-26T15:24:29.503948+05:30'
-last_checked: '2026-06-26T15:24:29.503948+05:30'
+first_seen: '2026-06-26T20:19:49.856710+05:30'
+last_seen: '2026-06-26T20:19:49.856710+05:30'
+last_checked: '2026-06-26T20:19:49.856710+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for ChatGPT-style/Q&A interactions, incorporating common requirements and best practices.
+- **RAG Implementation**: Deploys Azure AI Search for retrieval and Azure OpenAI LLMs for generating ChatGPT-style and Q&A responses, following RAG (Retrieval-Augmented Generation) pattern best practices.
 
-- **Key Components**: Includes **Python-based** solution with **AZD templates**, leveraging **Azure AI Search** for vector/semantic search and **Azure OpenAI** for LLM-powered responses.
+- **Azure Deployment**: Uses Azure Developer CLI (azd) templates for infrastructure-as-code deployment, integrating Azure AI Search, Azure OpenAI, and supporting services in a scalable architecture.
 
-- **Deployment**: Provides a structured accelerator with pre-configured templates for rapid deployment, updated as of **2026-06-25**.
+- **Python-Based**: Provides a Python-based solution accelerator with pre-built components for common requirements (e.g., document ingestion, vector search, prompt engineering) and modular design for customization.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Azure-Samples
-- Stars: 1172
+- Stars: 1173
 - Forks: 636
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-06-25T10:19:25Z
+- Last Updated: 2026-06-26T12:06:59Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-26T01:05:34Z
+- Pushed At: 2026-06-26T14:21:16Z
 
 ## Possible Use Cases
 

@@ -12,11 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions, emphasizing context retention and iterative refinement.
-
-- **Technical Implementation**: Python-based benchmark with modular components for dataset curation, evaluation metrics (e.g., relevance, coherence, factuality), and standardized pipelines for reproducibility.
-
-- **Evaluation Scope**: Focuses on dynamic multi-turn scenari
+- **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, enabling systematic evaluation of conversational retrieval performance.
+- **Python-Based Implementation**: Implements benchmarking logic in Python, facilitating integration with existing RAG pipelines and evaluation workflows.
+- **Updated June 2026**: Last repository update reflects recent development, ensuring alignment with current RAG methodologies an
 
 ## Use Cases
 

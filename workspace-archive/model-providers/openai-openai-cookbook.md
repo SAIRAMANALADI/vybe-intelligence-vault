@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - openai
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-*   Offers practical, runnable examples and guides for OpenAI API integration.
-*   Utilizes Jupyter Notebooks for interactive code demonstrations and tutorials.
-*   Focuses on specific model applications, including ChatGPT and GPT-4 API usage.
+- **Repository Overview**: Hosts examples and guides for OpenAI API integration, covering models like ChatGPT and GPT-4, with 74,420 stars and 12,589 forks.
+- **Technical Stack**: Primarily implemented in Jupyter Notebooks, facilitating interactive API experimentation and demonstration.
+- **Last Updated**: Repository was last updated on June 26, 2026, ensuring relevance for current API practices.
 
 ## Use Cases
 

@@ -23,9 +23,9 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
-- [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
-- [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)
-- [AI-Application-and-Integration-Lab/MegaRAG](https://github.com/AI-Application-and-Integration-Lab/MegaRAG)
+- [bangoc123/retrieval-backend-with-rag](https://github.com/bangoc123/retrieval-backend-with-rag)
+- [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
+- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-26 15:39 IST*
+*Last updated: 2026-06-26 20:35 IST*

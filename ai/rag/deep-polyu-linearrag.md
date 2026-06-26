@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-26T15:25:14.478935+05:30'
+collected_at: '2026-06-26T20:20:34.883261+05:30'
 published_at: '2026-06-25T10:44:52Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-26T15:25:14.478935+05:30'
-last_seen: '2026-06-26T15:25:14.478935+05:30'
-last_checked: '2026-06-26T15:25:14.478935+05:30'
+first_seen: '2026-06-26T20:20:34.883261+05:30'
+last_seen: '2026-06-26T20:20:34.883261+05:30'
+last_checked: '2026-06-26T20:20:34.883261+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance by reducing computational overhead while maintaining retrieval accuracy.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency via linear-time graph traversal and hierarchical indexing.
 
-- **Scalable Retrieval Mechanism**: Implements a linear-time graph traversal algorithm for dynamic knowledge graph construction, enabling sub-linear query response times on massive document collections (e.g., 10M+ tokens).
+- **Scalability & Performance**: Achieves O(n) time complexity for retrieval by leveraging linear graph structures, enabling efficient handling of large-scale datasets while maintaining high accuracy in downstream generation tasks.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and LLM integration, supporting customizable graph pruning and hybrid retrieval strategies.
+- **Integration with LLMs**: Designed for seamless integration with large language models (LLMs), enhancing contextual relevance and reducing hallucinations through structured, linear graph-based retrieval mechanisms.
 
 ## Why It Matters
 

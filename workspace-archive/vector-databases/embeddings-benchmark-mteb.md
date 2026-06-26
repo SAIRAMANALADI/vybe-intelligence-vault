@@ -12,7 +12,9 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
+- leaderboard
 - python
 - rag
 selection_reason:
@@ -31,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-*   MTEB establishes a state-of-the-art benchmark for evaluating embedding models across diverse languages and modalities.
-*   It facilitates comprehensive assessment of embedding performance on a broad spectrum of downstream tasks, including STS, clustering, information retrieval, and text classification.
-*   The framework supports multilingual and multimodal NLP applications, integrating with prominent embedding architectures like Sentence-Transformers for neural and semantic search.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) in **50+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics (e.g., nDCG@10, MAP, accuracy).
+
+- **Modular Python Framework**: Implements a **unified API** for embedding models (e.g., Sentence-BERT, SBERT) with built-in support for **low-resource NLP**, **bitext mining**, and **cross-lingual tasks**, enablin
 
 ## Use Cases
 

@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Framework**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with a focus on practical implementation.
+- **Educational Framework**: Open-source tutorial repository (`datawhalechina/llm-universe`) designed for beginners in large language model (LLM) application development, featuring structured Jupyter Notebook-based learning modules.
 
-- **Core Technologies**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** for enhancing model responses with external knowledge.
+- **Technical Focus**: Integrates **LangChain** for LLM orchestration and **RAG (Retrieval-Augmented Generation)** methodologies to demonstrate practical implementations of LLM-powered applications.
 
-- **Repository Metrics**: 13.3K+ stars, 1.3K+ forks, last updated June 2026, emphasizing active maintenance and community engagement.
+- **Maintenance & Adoption**: Actively updated (last commit: 2026-
 
 ## Use Cases
 

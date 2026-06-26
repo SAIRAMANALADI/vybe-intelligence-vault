@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai
 first_seen: '2026-06-26T10:10:27.484807+05:30'
 last_seen: '2026-06-26T15:22:57.497813+05:30'
 last_checked: '2026-06-26T15:22:57.497813+05:30'
 health_score: 100
 ---
+
 
 # Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line
 

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-26T15:24:44.442397+05:30'
+collected_at: '2026-06-26T20:20:04.852549+05:30'
 published_at: '2026-06-23T18:58:04Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 144
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-26T15:24:44.442397+05:30'
-last_seen: '2026-06-26T15:24:44.442397+05:30'
-last_checked: '2026-06-26T15:24:44.442397+05:30'
+first_seen: '2026-06-26T20:20:04.852549+05:30'
+last_seen: '2026-06-26T20:20:04.852549+05:30'
+last_checked: '2026-06-26T20:20:04.852549+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions, emphasizing context retention and iterative refinement.
-
-- **Technical Implementation**: Python-based benchmark with modular components for dataset curation, evaluation metrics (e.g., relevance, coherence, factuality), and standardized pipelines for reproducibility.
-
-- **Evaluation Scope**: Focuses on dynamic multi-turn scenarios (e.g., follow-up queries, contextual dependencies) to measure RAG performance in real-world conversational settings, including latency and resource efficiency.
+- **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, enabling systematic evaluation of conversational retrieval performance.
+- **Python-Based Implementation**: Implements benchmarking logic in Python, facilitating integration with existing RAG pipelines and evaluation workflows.
+- **Updated June 2026**: Last repository update reflects recent development, ensuring alignment with current RAG methodologies and evaluation standards.
 
 ## Why It Matters
 

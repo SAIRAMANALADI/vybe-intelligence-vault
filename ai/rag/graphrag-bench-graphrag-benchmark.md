@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-06-26T15:24:44.416907+05:30'
+collected_at: '2026-06-26T20:20:04.833468+05:30'
 published_at: '2026-06-26T00:59:53Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-06-26T15:24:44.416907+05:30'
-last_seen: '2026-06-26T15:24:44.416907+05:30'
-last_checked: '2026-06-26T15:24:44.416907+05:30'
+first_seen: '2026-06-26T20:20:04.833468+05:30'
+last_seen: '2026-06-26T20:20:04.833468+05:30'
+last_checked: '2026-06-26T20:20:04.833468+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, with a focus on assessing when graph structures enhance RAG performance (ICLR'26 submission).
-
-- **Technical Scope**: Provides a comprehensive analysis framework, datasets, and evaluation metrics for GraphRAG systems, supporting reproducibility and standardized comparison across models.
-
-- **Implementation**: Python-based implementation with modular components for graph construction, retrieval, and generation, optimized for extensibility and benchmarking in research contexts.
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate GraphRAG (Graph Retrieval-Augmented Generation) models, with a focus on determining optimal use cases for graph-based RAG systems.
+- **Technical Scope**: Implements a comprehensive analysis pipeline for GraphRAG, including dataset curation, evaluation metrics, and model comparison tools, targeting ICLR'26 submission.
+- **Repository Metrics**: 448 stars, 52 forks; Python-based implementation with modular architecture for extensibility and reproducibility in graph-based RAG research.
 
 ## Why It Matters
 

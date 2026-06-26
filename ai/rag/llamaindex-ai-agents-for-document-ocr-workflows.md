@@ -3,9 +3,9 @@ title: LlamaIndex | AI Agents for Document OCR + Workflows
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://llamaindex.ai
-published_at: '2026-06-26T10:16:23.809166+05:30'
-collected_at: '2026-06-26T10:16:23.809175+05:30'
+source_url: https://www.llamaindex.ai/
+published_at: '2026-06-26T20:22:00.334614+05:30'
+collected_at: '2026-06-26T20:22:00.334632+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-26T10:16:23.809175+05:30'
-last_seen: '2026-06-26T10:16:23.809175+05:30'
-last_checked: '2026-06-26T10:16:23.809175+05:30'
+first_seen: '2026-06-26T20:22:00.334632+05:30'
+last_seen: '2026-06-26T20:22:00.334632+05:30'
+last_checked: '2026-06-26T20:22:00.334632+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & VLM Integration**: LlamaParse employs Vision-Language Model (VLM)-powered agents for autonomous, layout-aware document parsing with structured schema extraction, reducing manual processing from hours to seconds.
+- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic OCR system with specialized experts for text, charts, tables, and handwritten content, featuring auto-correction loops for recursive error detection and correction.
 
-- **Multi-Modal Document Processing**: Supports 50+ unstructured file types, including embedded images, complex layouts, multi-page tables, handwritten text, charts, and graphs, with auto-correction loops for error mitigation.
+- **Structured Extraction & Deployment**: Supports schema-based structured extraction (no training required), document classification, and enterprise-grade chunking/embedding for RAG, with a free tier offering 10,000 credits/month (~1,000 pages).
 
-- **Enterprise-Grade Features**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and dedicated SLAs for mission-critical AI workloads.
+- **Enterprise-Grade Features**: Offers 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and dedicated SLAs for mission-critical AI workloads, benchmarked for superior performance in complex document parsing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:16:23.809166+05:30
+- Published: 2026-06-26T20:22:00.334614+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://llamaindex.ai
+Original source: https://www.llamaindex.ai/

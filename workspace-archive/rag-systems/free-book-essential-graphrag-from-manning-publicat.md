@@ -12,10 +12,10 @@ resource_kind: benchmark
 importance: high
 tags:
 - agents
+- benchmark
 - hackernews
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -36,9 +36,9 @@ selection_reason:
 
 - **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured (text) data to enhance LLM responses, reducing hallucinations and improving contextual depth via interconnected data retrieval.
 
-- **Technical Implementation**: Covers advanced RAG techniques (e.g., vector similarity, query rewriting, parent document retrieval) and agentic AI construction, with a focus on evaluating performance and accuracy.
+- **Technical Components**: Covers vector similarity, query rewriting, parent document retrieval, knowledge graph construction via LLMs, and agentic AI integration for advanced RAG systems.
 
-- **Knowledge Graph Construction**: Demonstrates end-to-end workflow fo
+- **Evaluation & Implementation**: Provides methodologies for assessing RAG performance/accuracy
 
 ## Use Cases
 

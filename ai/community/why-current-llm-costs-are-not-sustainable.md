@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:why-current-llm-costs-are-not-sustainable
 first_seen: '2026-06-26T15:22:56.739993+05:30'
 last_seen: '2026-06-26T15:22:56.739993+05:30'
 last_checked: '2026-06-26T15:22:56.739993+05:30'
 health_score: 100
 ---
+
 
 # Why current LLM costs are not sustainable
 

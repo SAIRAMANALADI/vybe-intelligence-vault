@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-26T15:24:29.421392+05:30'
+collected_at: '2026-06-26T20:19:49.794829+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-26T15:24:29.421392+05:30'
-last_seen: '2026-06-26T15:24:29.421392+05:30'
-last_checked: '2026-06-26T15:24:29.421392+05:30'
+first_seen: '2026-06-26T20:19:49.794829+05:30'
+last_seen: '2026-06-26T20:19:49.794829+05:30'
+last_checked: '2026-06-26T20:19:49.794829+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs) in Python, focusing on efficient retrieval and generation integration.
-- **Modular Architecture**: Designed with modular components for document preprocessing, vector storage, retrieval strategies, and prompt engineering to enhance LLM performance.
-- **Benchmarking & Evaluation**: Includes evaluation metrics and benchmarking tools to assess RAG system performance across accuracy, latency, and relevance.
+- **RAG Optimization Framework**: Provides structured best practices for enhancing Large Language Models (LLMs) with retrieval-augmented generation (RAG), focusing on retrieval strategy, indexing, and prompt engineering for improved factual accuracy and context relevance.
+
+- **Python Implementation**: Includes modular Python codebase with utilities for document preprocessing, vector embedding (e.g., FAISS, Chroma), and dynamic query routing to optimize retrieval latency and precision.
+
+- **Evaluation & Benchmarking**: Incorporates metrics (e.g., Hit Rate, MRR) and tools for assessing RAG performance across domains, with support for hybrid retrieval (dense + sparse) and adaptive chunking strategies.
 
 ## Why It Matters
 

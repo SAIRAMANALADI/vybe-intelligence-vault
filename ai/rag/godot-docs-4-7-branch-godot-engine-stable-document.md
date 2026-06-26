@@ -3,9 +3,9 @@ title: Godot Docs – 4.7 branch — Godot Engine (stable) documentation in Engl
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.godotengine.org/en/
-published_at: '2026-06-25T20:52:11.299330+05:30'
-collected_at: '2026-06-25T20:52:11.299353+05:30'
+source_url: https://docs.godotengine.org/
+published_at: '2026-06-26T20:23:20.592688+05:30'
+collected_at: '2026-06-26T20:23:20.592707+05:30'
 tags:
 - agents
 - animation
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:godot-docs-4-7-branch-godot-engine-stable-document
-first_seen: '2026-06-25T20:52:11.299353+05:30'
-last_seen: '2026-06-25T20:52:11.299353+05:30'
-last_checked: '2026-06-25T20:52:11.299353+05:30'
+first_seen: '2026-06-26T20:23:20.592707+05:30'
+last_seen: '2026-06-26T20:23:20.592707+05:30'
+last_checked: '2026-06-26T20:23:20.592707+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform game engine**: Godot supports multiple platforms (Windows, macOS, Linux, BSD, iOS, Android, etc.) with a unified editor and export workflow, utilizing a custom engine architecture optimized for performance and flexibility.
+- **Cross-platform engine architecture**: Godot supports multi-platform deployment (Windows, Linux, macOS, Android, iOS, Web, etc.) with a unified editor and runtime, leveraging modular subsystems for rendering (Forward+, Mobile, Compatibility), physics (2D/3D), and scripting (GDScript, C#, C++ via GDExtension).
 
-- **Scripting & extensibility**: Primarily uses GDScript (Python-like, optimized for Godot) but supports C#, C++, and visual scripting; features GDExtension for native module integration and a plugin-based architecture for extensibility.
+- **Optimized rendering pipeline**: Implements clustered Forward+ rendering for 3D, with Vulkan backend (4.0+), supporting real-time global illumination, physically-based rendering (PBR), and custom shader workflows (GLSL-compatible), alongside a dedicated 2D renderer with batching for performance.
 
-- **Rendering & physics pipelines**: Offers both 2D/3D rendering with options like Forward+, Mobile, and Compatibility renderers; includes Bullet physics for 3D and a custom 2D physics engine, with shader support via a visual shader editor and GLSL/HLSL compatibility.
+- **Lightweight, open-source licensing**: MIT-licensed core with permissive third-party integration; avoids STL/exceptions for deterministic behavior; supports non-game applications and headless operation via GDExtension for embedded systems.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:52:11.299330+05:30
+- Published: 2026-06-26T20:23:20.592688+05:30
 
 ## Related Tags
 
@@ -64,4 +64,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.godotengine.org/en/
+Original source: https://docs.godotengine.org/

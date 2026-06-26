@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org/3/tutorial/controlflow.html
-published_at: '2026-06-26T10:20:25.774272+05:30'
-collected_at: '2026-06-26T10:20:25.774283+05:30'
+published_at: '2026-06-26T20:32:12.689466+05:30'
+collected_at: '2026-06-26T20:32:12.689477+05:30'
 tags:
 - hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:4-more-control-flow-tools-python-3-14-6-documentat
-first_seen: '2026-06-26T10:20:25.774283+05:30'
-last_seen: '2026-06-26T10:20:25.774283+05:30'
-last_checked: '2026-06-26T10:20:25.774283+05:30'
+first_seen: '2026-06-26T20:32:12.689477+05:30'
+last_seen: '2026-06-26T20:32:12.689477+05:30'
+last_checked: '2026-06-26T20:32:12.689477+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **`match` statements**: Introduced in Python 3.10, `match` statements perform pattern matching on data structures, allowing conditional branching based on structural patterns rather than just values, with support for destructuring, guards, and wildcard patterns.
+- Python’s `if` statements support `elif` and `else` clauses, enabling multi-way branching without excessive indentation, and the `match` statement provides pattern-matching capabilities similar to `switch` constructs in other languages.
 
-- **`range()` function**: Generates arithmetic progressions as an iterable sequence (not a list), optimizing memory usage by lazily yielding values; supports start, stop, and step parameters (including negative steps).
+- The `range()` function generates arithmetic progressions as an iterable, avoiding memory overhead by not constructing full lists, and supports start, stop, and step parameters for flexible iteration.
 
-- **Loop control flow**: `break` exits the innermost loop, `continue` skips to the next iteration, and loop `else` clauses execute only if no `break` occurs, enabling prime-checking patterns and early termination logic.
+- Loop control statements (`break`, `continue`, `else`) allow precise control over iteration flow, with `else` clauses executing only if no `break` occurs, and `pass` serves as a syntactic placeholder for unimplemented logic.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:20:25.774272+05:30
+- Published: 2026-06-26T20:32:12.689466+05:30
 
 ## Related Tags
 

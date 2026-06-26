@@ -6,24 +6,25 @@ source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-26T15:26:44.570636+05:30'
-published_at: '2026-06-26T09:56:29Z'
+collected_at: '2026-06-26T20:22:05.006908+05:30'
+published_at: '2026-06-26T14:15:34Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 83675
+- workflows
+stars: 83683
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-06-26T09:30:16Z'
+pushed_at: '2026-06-26T13:44:56Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-06-26T15:26:44.570636+05:30'
-last_seen: '2026-06-26T15:26:44.570636+05:30'
-last_checked: '2026-06-26T15:26:44.570636+05:30'
+first_seen: '2026-06-26T20:22:05.006908+05:30'
+last_seen: '2026-06-26T20:22:05.006908+05:30'
+last_checked: '2026-06-26T20:22:05.006908+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAGFlow** is an open-source **Retrieval-Augmented Generation (RAG)** engine implemented in **Go**, integrating **Agent capabilities** to enhance LLM context handling.
-- Supports **agentic-ai, agentic-retrieval, and agentic-search**, enabling dynamic, multi-step reasoning for improved LLM performance.
-- Features **context-engine** and **context-management** for structured data ingestion, retrieval, and fusion, optimized for **LLM-apps** and large-scale deployments.
+- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agent capabilities to enhance LLM context processing, enabling superior contextual understanding and dynamic interaction.
+
+- **Multi-Layered Context Management**: Implements a sophisticated context engine for document parsing, retrieval, and agentic workflows, optimizing LLM input through structured context fusion.
+
+- **Scalable, Go-Based Architecture**: Built in Go for high performance, supporting agentic retrieval, search, and LLM application integration with modular design for extensibility and efficiency.
 
 ## Why It Matters
 
@@ -42,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 83675
-- Forks: 9708
+- Stars: 83683
+- Forks: 9710
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-26T09:56:29Z
+- Last Updated: 2026-06-26T14:15:34Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-06-26T09:30:16Z
+- Pushed At: 2026-06-26T13:44:56Z
 
 ## Possible Use Cases
 

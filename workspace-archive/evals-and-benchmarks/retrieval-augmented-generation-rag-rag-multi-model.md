@@ -8,12 +8,9 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
-- meta-ai
-- mistral
-- models
 - rag
 - web-crawled
 - workflows
@@ -28,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching and conditioning responses on external knowledge sources.
-
-- **Streamlit Implementation**: Modular Python application with distinct components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for PDF processing, Q&A, summarization, and translation via chain functions (e.g., `get_question_answer_chain`).
-
-- **Deploym
+- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector stores) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
+- **Implementation Stack**: Uses Python with libraries like `langchain`, `streamlit`, and `PyPDF2` for document processing, model integration, and UI deployment.
+- **Modular Workflow**: Includes document ingestion (PDF splitting), vector indexing (FAISS/Chroma), LLM prompting (e.g., `get_question_answer_
 
 ## Use Cases
 

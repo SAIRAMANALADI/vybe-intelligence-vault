@@ -6,7 +6,7 @@ source_url: https://github.com/gomate-community/awesome-papers-for-rag
 resource_id: github:gomate-community/awesome-papers-for-rag
 local_vault_path: ai/rag/gomate-community-awesome-papers-for-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - python
 - rag
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,16 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on architectures, benchmarks, and advancements.
-- **Python-Centric**: All listed resources are Python-based, ensuring compatibility with popular ML/NLP frameworks (e.g., PyTorch, HuggingFace Transformers).
-- **Last Updated**: Repository was last synchronized on **2026-06-11**, reflecting recent contributions in RAG research.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth and practical implementations.
+- **Python-Centric Tooling**: Primarily supports Python-based RAG pipelines, including libraries for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and evaluation tools.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing curation of cutting-ed
 
 ## Use Cases
 

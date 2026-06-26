@@ -10,22 +10,22 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 
 - [Stainless · GitHub](https://github.com/stainless-api) (framework - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (workflow - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (template - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
-- [cli/cli](https://github.com/cli/cli#installation) (workflow - ESSENTIAL Tier)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications) (framework - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [Stainless · GitHub](https://github.com/stainless-api)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-26 15:39 IST*
+*Last updated: 2026-06-26 20:35 IST*

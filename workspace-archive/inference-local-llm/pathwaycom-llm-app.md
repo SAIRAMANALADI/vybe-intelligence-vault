@@ -13,8 +13,8 @@ importance: medium
 tags:
 - github-repo
 - jupyter notebook
+- openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, **AI pipelines**, and **enterprise search**, supporting real-time data synchronization with **SharePoint, Google Drive, S3, Kafka, PostgreSQL, and live APIs**.
+- **Cloud-native RAG & AI Pipeline Templates**: Provides Docker-ready, production-grade templates for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search, ensuring real-time synchronization with data sources like SharePoint, Google Drive, S3, Kafka, PostgreSQL, and live APIs.
 
-- **Docker-optimized** architecture with **Jupyter Notebook** integration, enabling **local LLM deployment**, **Hugging Face compatibility**, and **LLMOps workflows** for secure, scalable AI applications.
-
-- **Vector database & indexing** support for **real-time r
+- **Multi-Model & Security-Focused**: Supports integration with Hugging Face models, OpenAI APIs, and local LLMs, with built-in LLM security and LLMops practices for prompt management, retrieval augme
 
 ## Use Cases
 

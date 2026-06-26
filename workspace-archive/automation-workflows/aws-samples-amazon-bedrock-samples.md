@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) to facilitate customer onboarding.
+- **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) to facilitate customer adoption.
 - **Technical Components**: Includes Jupyter Notebooks demonstrating embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) workflows using LangChain.
-- **Integration Focus**: Showcases AWS-native tools (e.g., Bedrock, Titan) and frameworks (LangChain) for building generative AI applications with
+- **Integration Focus**: Showcases AWS-native tools (e.g., Bedrock, Titan) and frameworks (LangChain) for building generative AI and RAG applications
 
 ## Use Cases
 

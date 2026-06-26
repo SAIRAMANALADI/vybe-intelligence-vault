@@ -15,7 +15,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** for LLM-powered chat/Q&A, with Python-based orchestration.
+- **RAG Implementation**: Deploys Azure AI Search for retrieval and Azure OpenAI LLMs for generating ChatGPT-style and Q&A responses, following RAG (Retrieval-Augmented Generation) pattern best practices.
 
-- **Azure Deployment**: Leverages **Azure Developer CLI (azd) templates** for infrastructure-as-code (IaC) provisioning, integrating best practices for scalability, security, and cost optimization.
+- **Azure Deployment**: Uses Azure Developer CLI (azd) templates for infrastructure-as-code deployment, integrating Azure AI Search, Azure OpenAI, and supporting services in a scalable architecture.
 
-- **Prebuilt Components**: Includes end-to-end solution with **document ingestion pipelines**, **ve
+- **Python-Based**: Provides a Python-based solution accelerator with pre-built components for
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-06-26T15:24:39.438130+05:30'
+collected_at: '2026-06-26T20:19:59.845749+05:30'
 published_at: '2026-06-11T16:55:48Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-06-26T15:24:39.438130+05:30'
-last_seen: '2026-06-26T15:24:39.438130+05:30'
-last_checked: '2026-06-26T15:24:39.438130+05:30'
+first_seen: '2026-06-26T20:19:59.845749+05:30'
+last_seen: '2026-06-26T20:19:59.845749+05:30'
+last_checked: '2026-06-26T20:19:59.845749+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on architectures, benchmarks, and advancements.
-- **Python-Centric**: All listed resources are Python-based, ensuring compatibility with popular ML/NLP frameworks (e.g., PyTorch, HuggingFace Transformers).
-- **Last Updated**: Repository was last synchronized on **2026-06-11**, reflecting recent contributions in RAG research.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth and practical implementations.
+- **Python-Centric Tooling**: Primarily supports Python-based RAG pipelines, including libraries for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and evaluation tools.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing curation of cutting-edge RAG advancements, benchmarks (e.g., KILT, BEIR), and hybrid retrieval-generation architectures.
 
 ## Why It Matters
 

@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and workflow automation.
-- **Security & Privacy Focus**: Supports private, on-premises deployment with RAG (Retrieval-Augmented Generation) for secure, local data processing without cloud dependency.
-- **Modular Architecture**: Integrates agents, BGI (likely a custom component), and Python-based tooling for extensible data product
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interactions with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based workflows.
+- **Security & Privacy Focus**: Designed for private, on-premise deployments with BGI (ByteDance’s inference engine) integration to mitigate external API dependencies.
+- **Modular Architecture**: Supports hacktoberfest contributions, integrates with Python ecosystems, and includes agents for task automat
 
 ## Use Cases
 

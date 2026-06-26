@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-26T15:24:09.405287+05:30'
-published_at: '2026-06-26T01:25:49Z'
+collected_at: '2026-06-26T20:19:29.824123+05:30'
+published_at: '2026-06-26T13:33:59Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
-stars: 1953
+stars: 1954
 language: Python
 status: active
 license: MIT
@@ -21,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-26T15:24:09.405287+05:30'
-last_seen: '2026-06-26T15:24:09.405287+05:30'
-last_checked: '2026-06-26T15:24:09.405287+05:30'
+first_seen: '2026-06-26T20:19:29.824123+05:30'
+last_seen: '2026-06-26T20:19:29.824123+05:30'
+last_checked: '2026-06-26T20:19:29.824123+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
-
-- **Architectural Efficiency**: Optimizes retrieval and generation stages via lightweight model distillation, quantization, and pruning techniques to enable deployment on resource-constrained hardware without sacrificing accuracy.
-
-- **Open-Source Implementation**: Provides a Python-based, modular codebase with pre-trained models, inference scripts, and benchmarking tools to facilitate reproducibility and community-driven improvements in RAG systems.
+*   Simplifies Retrieval-Augmented Generation (RAG) by leveraging small, open-source language models (SLMs) for generation.
+*   Reduces computational overhead and enhances accessibility of RAG systems through SLM integration.
+*   Implements a streamlined RAG architecture, as detailed in an upcoming ACL2026 publication.
 
 ## Why It Matters
 
@@ -44,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1953
+- Stars: 1954
 - Forks: 250
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-26T01:25:49Z
+- Last Updated: 2026-06-26T13:33:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

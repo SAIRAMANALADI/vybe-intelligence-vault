@@ -6,7 +6,7 @@ source_url: https://github.com/Marker-Inc-Korea/AutoRAG
 resource_id: github:marker-inc-korea/autorag
 local_vault_path: ai/rag/marker-inc-korea-autorag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-driven RAG Optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and evaluation) using AutoML techniques to optimize performance without manual intervention.
+- **AutoML-Style RAG Optimization**: Framework automates end-to-end RAG pipeline optimization (retrieval, augmentation, generation) using AutoML techniques, eliminating manual hyperparameter tuning via adaptive search strategies (e.g., Bayesian optimization, evolutionary algorithms).
 
-- **Comprehensive RAG Benchmarking**: Provides standardized evaluation metrics and datasets for assessing RAG systems, enabling reproducible benchmarking across retrieval, generation, and end-to-end tasks.
-
-- **Modular Python Framework**: Offers a flexible, open-source Python library with built-in supp
+- **Comprehensive Evaluation Suite**: Integrates multi-dimensional RAG evaluation metrics (relevance, faithfulness, latency, cost) with built-in benchmarks (e.g., MS MARCO, TriviaQA) and custom dataset support for
 
 ## Use Cases
 

@@ -26,9 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **RAGFlow** is an open-source **Retrieval-Augmented Generation (RAG)** engine implemented in **Go**, integrating **Agent capabilities** to enhance LLM context handling.
-- Supports **agentic-ai, agentic-retrieval, and agentic-search**, enabling dynamic, multi-step reasoning for improved LLM performance.
-- Features **context-engine** and **context-management** for structured data ingestion, retrieval, and fusion, optimized for **LLM-apps** and large-scale deployments.
+- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agent capabilities to enhance LLM context processing, enabling superior contextual understanding and dynamic interaction.
+
+- **Multi-Layered Context Management**: Implements a sophisticated context engine for document parsing, retrieval, and agentic workflows, optimizing LLM input through structured context fusion.
+
+- **Scalable, Go-Based Architecture**: Built in Go for high performance, supporting agentic retri
 
 ## Use Cases
 

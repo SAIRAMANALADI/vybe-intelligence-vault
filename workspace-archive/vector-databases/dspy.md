@@ -18,6 +18,7 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and structured output handling for dynamic task execution.
-- **Improved LM/BaseLM**: Optimized base language model handling with enhanced modularity and performance for structured signature-based task execution.
-- **GEPA Optimizer**: Reflective prompt evolution optimizer (`dspy.GEPA`) that compiles programs against a metric, improving task-specific performance (e.g., 62% → 89% F1 in metadata ext
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and dynamic decision-making for complex LLM workflows.
+- **Enhanced LM/BaseLM**: Updated base language model handling with better performance and modularity for optimized task execution.
+- **Signature-Based Optimization**: GEPA optimizer compiles programs against metrics, improving accuracy (e.g., 62% → 89% F1) via reflective prompt evolution.
 
 ## Use Cases
 

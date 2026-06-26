@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source framework with 105k stars, offering modular RAG pipelines, model flexibility, and integration with 300+ components (LLMs, vector stores, retrievers) via Python (`pip install -U langchain`). Supports evaluation tools (LangSmith) and workflow orchestration (LangGraph).
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` for structured content, `crawl()` for site traversal, and `deep-research` for OpenAI-like research capabilities, with built-in infrastructure for dynamic site access.
 
-- **RAGFlow**: 48.5k-star RAG engine with deep document parsing (PDFs, tables, layouts) and GraphRAG support. Features a visual web interface, agentic reasoning, and multiple embedding/storage backends
+- **LangChain**: Open-source framework with 105k stars, providing modular RAG pipelines via `pip install -U langchain`, featuring model flexibility, vector store integrations, retrieval optimization, and evaluation tools (LangSmit
 
 ## Use Cases
 

@@ -8,17 +8,16 @@ local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
-- hackernews
 - producthunt
 - reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Welcome to Python.org
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- Python supports arithmetic operations with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and parentheses for grouping, with type-specific division behaviors (`/` returns float, `//` performs floor division).
-- Python's core language features include list comprehensions, `enumerate()` for indexed iteration, and control flow constructs (`if`, `for`, `while`, `range`), enabling concise and expressive data manipulation and algorithmic logic.
-- The Python Software Foundation (PSF) maintains t
+- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations, enabling efficient in-place operations like `loud_fruits = [fruit.upper() for fruit in fruits]`.
+- **Control flow** in Python includes `if`, `for`, `while`, and `range`, with **functions** supporting mandatory/optional arguments, keyword arguments, and arbitrary argument lists for modular programming.
+- The **Python Software Foundation
 
 ## Use Cases
 

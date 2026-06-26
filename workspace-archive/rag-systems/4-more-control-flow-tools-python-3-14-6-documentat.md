@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **`match` statements**: Introduced in Python 3.10, `match` statements perform pattern matching on data structures, allowing conditional branching based on structural patterns rather than just values, with support for destructuring, guards, and wildcard patterns.
+- Python’s `if` statements support `elif` and `else` clauses, enabling multi-way branching without excessive indentation, and the `match` statement provides pattern-matching capabilities similar to `switch` constructs in other languages.
 
-- **`range()` function**: Generates arithmetic progressions as an iterable sequence (not a list), optimizing memory usage by lazily yielding values; supports start, stop, and step parameters (including negative steps).
+- The `range()` function generates arithmetic progressions as an iterable, avoiding memory overhead by not constructing full lists, and supports start, stop, and step parameters for flexible iteration.
 
-- **Loop contr
+- Loop control statements (`break`, `continue`, `else`) al
 
 ## Use Cases
 

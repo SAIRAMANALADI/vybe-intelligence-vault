@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on architectures, benchmarks, and advancements.
-- **Python-Centric**: All listed resources are Python-based, ensuring compatibility with popular ML/NLP frameworks (e.g., PyTorch, HuggingFace Transformers).
-- **Last Updated**: Repository was last synchronized on **2026-06-11**, reflecting recent contributions in RAG research.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, benchmarks, and frameworks focused on retrieval-augmented generation (RAG), emphasizing technical depth and practical implementations.
+- **Python-Centric Tooling**: Primarily supports Python-based RAG pipelines, including libraries for vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and evaluation tools.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing curation of cutting-ed
 
 ## Use Cases
 

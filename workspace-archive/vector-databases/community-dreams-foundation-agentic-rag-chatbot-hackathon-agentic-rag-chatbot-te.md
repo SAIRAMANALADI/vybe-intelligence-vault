@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon submissions.
-- **Python-Based**: Implements core RAG components (retriever, generator, agent orchestration) using Python libraries (e.g., LangChain, HuggingFace).
-- **GitHub Classroom Integration**: Structured for educational use, with automated setup via GitHub Classroom and last updated in Feb 2026.
+- **Template Repository**: Provides a starter framework for building an **Agentic RAG (Retrieval-Augmented Generation) chatbot** using Python, designed for hackathon submissions.
+- **GitHub Classroom Integration**: Facilitates automated assignment distribution and grading for educational or collaborative development workflows.
+- **Metadata**: Zero stars, 68 forks, last updated on **2026-02-17**, with no additional topics or language specifications beyond Python.
 
 ## Use Cases
 

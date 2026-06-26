@@ -18,7 +18,6 @@ tags:
 - openai
 - python
 - reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics like agents, LLMs (OpenAI, Anthropic), and AI integration.
-
-- **Key Metrics**: 4,248 stars, 1,501 forks, last updated on June 26, 2026, with active development in AI/ML tooling and frameworks.
-
-- **Technical Focus**: Demonstrates implementation of AI agents, LLM interactions, and Python-based AI workflows with modular, reusable code patterns.
+- **Repository Overview**: Open-source Python-based AI cookbook (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, with 4,248 stars and 1,501 forks.
+- **Technical Scope**: Focuses on AI agents, large language models (LLMs), and integrations with Anthropic, OpenAI, and other AI frameworks/tools.
+- **Last Update**: Repository last updated on **June 26, 2026**, ensuring recent examples and compatibility with current AI advancements.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Werkzeug — Werkzeug Documentation (3.1.x)
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://werkzeug.palletsprojects.com
+source_url: https://werkzeug.palletsprojects.com/
 resource_id: blog:werkzeug-werkzeug-documentation-3-1-x
 local_vault_path: ai/agents/werkzeug-werkzeug-documentation-3-1-x.md
 quality_score: 70
@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **WSGI-compliant utility library**: Werkzeug is a modular WSGI web application library providing low-level utilities for request/response handling, routing, and middleware without enforcing dependencies on template engines or databases.
+- **WSGI Utility Library**: Werkzeug is a WSGI-compliant web application library providing low-level utilities (e.g., request/response handling, routing, HTTP parsing) without enforcing dependencies on template engines, databases, or request handling logic.
 
-- **Core components**: Includes request/response wrappers, URL routing (with rule-based dispatching), HTTP utilities (header parsing, cookies, form data), and WSGI helpers (environment manipulation, streaming responses).
-
-- **Deployment & debugging**: Supports
+- **Modular Architecture**: Includes core components for serving/testing (e.g., `run_simple()`, test client), URL routing (rule-based with converters), middleware (e.g., proxy fixes, profiling), and data structures (e.g., HTTP-related wrappe
 
 ## Use Cases
 
@@ -44,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://werkzeug.palletsprojects.com
+Original source URL: https://werkzeug.palletsprojects.com/
 
 ## Local Vault File
 

@@ -2,11 +2,11 @@
 title: Transformers · Hugging Face
 archive_category: inference-local-llm
 source_category: ai/rag
-source_url: https://huggingface.co/docs/transformers
+source_url: https://huggingface.co/docs/transformers/
 resource_id: huggingface:docs/transformers
 local_vault_path: ai/rag/huggingface-docs-transformers.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Model Framework**: `transformers` serves as a standardized model-definition framework across ML domains (text, vision, audio, multimodal), ensuring compatibility with training frameworks (e.g., DeepSpeed, FSDP), inference engines (e.g., vLLM, TGI), and libraries (e.g., llama.cpp, mlx).
+- **Unified Model Framework**: Transformers provides a standardized, cross-framework model-definition system (PyTorch, JAX, TensorFlow) supporting state-of-the-art architectures (text, vision, audio, multimodal) for both training and inference, ensuring compatibility with ecosystems like DeepSpeed, vLLM, and llama.cpp.
 
-- **Core Components**: Implemented via three primary classes (configuration, model, preprocessor), enabling rapid inference/training via `Pipeline` or `Trainer`, with support for mixed precision, Flas
+- **Core Components**: Implements models via three primary classes (config, model, preprocessor), enabling rapid deployment via `Pipeline` (optimized inference) and `Trainer` (di
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://huggingface.co/docs/transformers
+Original source URL: https://huggingface.co/docs/transformers/
 
 ## Local Vault File
 

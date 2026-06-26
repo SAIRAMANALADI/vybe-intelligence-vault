@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma).
-- **Modular Structure**: Includes components for document loading (e.g., PDFs), text splitting, embedding generation (e.g., OpenAI `text-embedding-a
+- **Python-Based**: Entirely developed in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma for embeddings).
+- **Modular Structure**: Includes components for document loading (e.g., PDFs, text), embedding generation (e.g., OpenAI, HuggingFa
 
 ## Use Cases
 

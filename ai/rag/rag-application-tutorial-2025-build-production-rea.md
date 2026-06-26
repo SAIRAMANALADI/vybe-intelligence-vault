@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-26T15:23:39.937838+05:30'
-collected_at: '2026-06-26T15:23:39.937847+05:30'
+published_at: '2026-06-26T20:18:58.776700+05:30'
+collected_at: '2026-06-26T20:18:58.776716+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-26T15:23:39.937847+05:30'
-last_seen: '2026-06-26T15:23:39.937847+05:30'
-last_checked: '2026-06-26T15:23:39.937847+05:30'
+first_seen: '2026-06-26T20:18:58.776716+05:30'
+last_seen: '2026-06-26T20:18:58.776716+05:30'
+last_checked: '2026-06-26T20:18:58.776716+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., model selection, dimensionality reduction) critical for performance.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval, followed by LLM-based generation augmented by retrieved context.
 
-- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), and load balancing across multiple models; Supabase or similar vector DBs recommended for scalability.
+- **Production Optimization**: Key considerations involve embedding model selection (e.g., `text-embedding-3-large`), chunking strategies (e.g., semantic splitting), caching (e.g., Redis), and deployment via edge workers (Cloudflare) to minimize latency and cost.
 
-- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks latency/token usage, and enforces trade-offs (e.g., retrieval depth vs. inference cost); multi-modal RAG (images/PDFs) requires specialized chunking/embedding pipelines.
+- **Monitoring & Scaling**: Implements observability via Sentry for error tracking, benchmarks pipeline latency (e.g., retrieval vs. generation phases), and scales via load balancing across multiple models while optimizing token usage for cost-performance trade-offs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:23:39.937838+05:30
+- Published: 2026-06-26T20:18:58.776700+05:30
 
 ## Related Tags
 

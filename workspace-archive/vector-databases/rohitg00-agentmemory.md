@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory Framework**: Provides structured, long-term memory storage for AI coding agents, enabling state retention across sessions based on real-world benchmarking.
+- **Persistent Memory Framework**: Provides a TypeScript-based persistent memory system designed for AI coding agents, validated through real-world benchmarks to ensure reliability and performance.
 
-- **TypeScript Implementation**: Built in TypeScript for cross-platform compatibility, supporting integration with popular AI coding tools (Claude, Codex, Copilot, etc.).
+- **Multi-Agent Compatibility**: Supports integration with popular AI coding agents (e.g., ClaudeCode, Cursor, Copilot) via modular interfaces, enabling seamless memory sharing and context retention across sessions.
 
-- **Open-Source & Extensible**: Released under an open-source license (MIT) with 24K+ stars, facilitating community contributions and customization f
+- **Benchmark-Driven Optimization**: Continuously updated (last commit: 2026-06-26)
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-26T15:25:04.444120+05:30'
+collected_at: '2026-06-26T20:20:24.820643+05:30'
 published_at: '2026-06-24T13:24:12Z'
 tags:
 - github-repo
-- models
 - python
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-26T15:25:04.444120+05:30'
-last_seen: '2026-06-26T15:25:04.444120+05:30'
-last_checked: '2026-06-26T15:25:04.444120+05:30'
+first_seen: '2026-06-26T20:20:24.820643+05:30'
+last_seen: '2026-06-26T20:20:24.820643+05:30'
+last_checked: '2026-06-26T20:20:24.820643+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modularity and scalability.
+- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
 
-- **Modular Architecture**: Implements a structured workflow with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, emphasizing best practices for deployment.
+- **Modular Architecture**: Implements a decoupled design with separate components for document ingestion, vector storage (FAISS/Chroma), and LLM inference, enabling scalable and maintainable GenAI workflows.
 
-- **GenAI Integration**: Focuses on integrating generative AI models (e.g., Hugging Face Transformers) with retrieval mechanisms, providing step-by-step guidance for fine-tuning and optimizing RAG pipelines.
+- **CI/CD & Scalability**: Includes Dockerized setup with FastAPI endpoints, optimized for GenAI workloads, and supports integration with modern vector databases and LLMs for enterprise-grade RAG deployments.
 
 ## Why It Matters
 

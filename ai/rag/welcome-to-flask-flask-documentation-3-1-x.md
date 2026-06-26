@@ -4,18 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://flask.palletsprojects.com/
-published_at: '2026-06-26T10:18:10.400622+05:30'
-collected_at: '2026-06-26T10:18:10.400636+05:30'
+published_at: '2026-06-26T20:23:18.282307+05:30'
+collected_at: '2026-06-26T20:23:18.282322+05:30'
 tags:
 - hackernews
 - rag
 - reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:welcome-to-flask-flask-documentation-3-1-x
-first_seen: '2026-06-26T10:18:10.400636+05:30'
-last_seen: '2026-06-26T10:18:10.400636+05:30'
-last_checked: '2026-06-26T10:18:10.400636+05:30'
+first_seen: '2026-06-26T20:23:18.282322+05:30'
+last_seen: '2026-06-26T20:23:18.282322+05:30'
+last_checked: '2026-06-26T20:23:18.282322+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development.
+- **Lightweight WSGI Framework**: Flask is a minimalist WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development with sensible defaults.
 
-- Core components include modular blueprints for application structuring, class-based views, and context management (application/request contexts) for request handling and data isolation.
+- **Modular Architecture**: Supports blueprints for modular application design, enabling separation of concerns, reusable components, and nested routing while maintaining a clean project structure.
 
-- Supports configuration via Python files, environment variables, or instance folders, with built-in debug mode, logging, error handling, and extensibility through community-maintained extensions.
+- **Context Management**: Implements application and request contexts for managing state, with explicit lifetime control, manual context pushing, and built-in signals for event-driven workflows.
 
 ## Why It Matters
 
@@ -37,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:18:10.400622+05:30
+- Published: 2026-06-26T20:23:18.282307+05:30
 
 ## Related Tags
 
@@ -45,6 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
+- workflows
 
 ## Source
 

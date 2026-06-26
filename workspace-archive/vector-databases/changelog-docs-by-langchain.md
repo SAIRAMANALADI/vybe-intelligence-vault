@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **DeepAgents v1.9.0-alpha.0**: Introduced async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support via `Uint8Array`, and simplified method names while maintaining backward compatibility via `adaptBackendProtocol`.
+- **`deepagents` v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects (e.g., `ReadResult`, `LsResult`), multi-modal file support via `Uint8Array` for binary content, and simplified method names (e.g., `ls` instead of `lsInfo`).
 
-- **LangGraph v1.1.0**: Added **StateSchema** with Standard JSON Schema support (Zod 4, Valibot, etc.), new primitives (`ReducedValue`, `UntrackedValue`, `MessagesValue`), a
+- **`@langchain/langgraph` v1.1.0**: Adds **StateSchema** for schema-first graph state definition with Standard JSON Schema support (compatible with Zod 4
 
 ## Use Cases
 

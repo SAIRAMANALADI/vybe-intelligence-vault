@@ -3,20 +3,18 @@ title: Medium Terms of Service | by Medium | Medium Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
-resource_id: blog:medium-terms-of-service-by-medium-medium-policy
---------------------------------------------
-published_at: '2026-06-26T10:16:12.466742+05:30'
-collected_at: '2026-06-26T10:16:12.466755+05:30'
+source_url: https://medium.com/policy/9db0094a1e0f
+published_at: '2026-06-26T20:25:13.714906+05:30'
+collected_at: '2026-06-26T20:25:13.714920+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-06-26T10:16:12.466755+05:30'
-last_seen: '2026-06-26T10:16:12.466755+05:30'
-last_checked: '2026-06-26T10:16:12.466755+05:30'
+first_seen: '2026-06-26T20:25:13.714920+05:30'
+last_seen: '2026-06-26T20:25:13.714920+05:30'
+last_checked: '2026-06-26T20:25:13.714920+05:30'
 health_score: 100
 ---
 
@@ -24,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (web/mobile) with attribution, including derivative works (e.g., previews, curated lists).
+- **License Grant & Content Ownership**: Users retain rights to submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution. Medium’s use is restricted to its platform and does not extend to external contexts.
 
-- **Dispute Resolution & Liability Waivers**: Mandatory **binding arbitration** replaces litigation for disputes, with class actions explicitly prohibited. Medium disclaims liability for indirect damages (e.g., loss of profits) and caps total liability at **$50 USD or fees paid**, except in cases of gross negligence/fraud.
+- **Liability & Dispute Resolution**: Medium disclaims all warranties (explicit/implicit) and limits liability to **$50 USD or fees paid** (except for gross negligence/fraud). Disputes are resolved via **binding arbitration under JAMS Rules**, waiving class actions/jury trials, with venue in San Francisco (consumers may opt for local arbitration).
 
-- **Data Processing & Compliance**: Users consent to **cross-border data transfers** (including to non-EU regions) for Service delivery. Users must comply with laws when handling others' personal data, indemnify Medium for violations, and waive claims under the **Federal Arbitration Act (9 U.S.C. § 1 et seq.)**.
+- **Data Processing & Compliance**: Users consent to cross-border data processing/storage (including non-EU regions) and must indemnify Medium for violations of laws/IP rights. Personal data handling must comply with applicable laws, prohibiting sale of user data without consent.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:16:12.466742+05:30
+- Published: 2026-06-26T20:25:13.714906+05:30
 
 ## Related Tags
 
@@ -48,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=--------------------------------------------
+Original source: https://medium.com/policy/9db0094a1e0f

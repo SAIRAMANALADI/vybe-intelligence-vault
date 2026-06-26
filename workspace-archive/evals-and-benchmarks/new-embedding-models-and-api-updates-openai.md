@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **New embedding models**: Introduced `text-embedding-3-small` (5x cheaper than `text-embedding-ada-002`, 62.3% avg. score on MTEB) and `text-embedding-3-large` (3072-dim, 64.6% avg. score on MTEB, priced at $0.00013/1k tokens).
+- **New Embedding Models**: Introduced `text-embedding-3-small` (5x cheaper than `text-embedding-ada-002`, 44.0% MIRACL, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 54.9% MIRACL, 64.6% MTEB, $0.00013/1K tokens), with native support for dynamic dimensionality reduction via `dimensions` parameter.
 
-- **API model updates**: Launched `gpt-3.5-turbo-0125` (50% cheaper input, 25% cheaper output) and `gpt-4-0125-preview` (improved code generation, UTF-8 bug fix); updated moderation model to `text-moderation-007`.
-
-- **API management enhancements**: Added granular API
+- **Model Updates & Pricing Reductions**: Launched `gpt-3.5-turbo-0125` (50% cheaper input, 25% cheaper output) and `gpt-4-0125-preview` (improved code generation, UTF-8 bug fix); deprecated `te
 
 ## Use Cases
 

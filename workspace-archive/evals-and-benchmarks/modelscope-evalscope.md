@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG performance assessment.
-
-- **Key Features**: Modular architecture enabling efficient, reproducible evaluation workflows with extensible metrics and task-specific configurations.
-
-- **Scalability & Integration**: Designed for high-throughput benchmarking with compatibility for distributed evaluation and seamless integration with ModelSco
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG workflows.
+- **Key Features**: Enables efficient performance benchmarking with modular and extensible architecture for large-scale model evaluation.
+- **Repository Stats**: 2,990 stars, 408 forks, last updated 2026-06-26.
 
 ## Use Cases
 

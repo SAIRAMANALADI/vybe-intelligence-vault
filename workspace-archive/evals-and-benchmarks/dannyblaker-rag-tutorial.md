@@ -6,12 +6,11 @@ source_url: https://github.com/dannyblaker/rag-tutorial
 resource_id: github:dannyblaker/rag-tutorial
 local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
-- **Technical Focus**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (local/cloud), and advanced RAG techniques like query rewriting and multi-modal retrieval.
-- **Hands-on Demos**: Includes interactive notebooks and CLI tools for testing retrieval pipelines, hybrid search, and evalua
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
+
+- **Core Technical Components**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like query rewriting and hybrid retrieval.
+
+- **Practical Implementation**: Provides working code examples, modular utilities, and deployment-ready patter
 
 ## Use Cases
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-26T15:27:36.230018+05:30'
+collected_at: '2026-06-26T20:23:31.686586+05:30'
 published_at: '2026-06-26T02:30:20Z'
 tags:
 - benchmark
+- dataset
 - github-repo
+- leaderboard
 - python
 - rag
 stars: 3321
@@ -19,9 +21,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-25T16:37:33Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-26T15:27:36.230018+05:30'
-last_seen: '2026-06-26T15:27:36.230018+05:30'
-last_checked: '2026-06-26T15:27:36.230018+05:30'
+first_seen: '2026-06-26T20:23:31.686586+05:30'
+last_seen: '2026-06-26T20:23:31.686586+05:30'
+last_checked: '2026-06-26T20:23:31.686586+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   MTEB establishes a state-of-the-art benchmark for evaluating embedding models across diverse languages and modalities.
-*   It facilitates comprehensive assessment of embedding performance on a broad spectrum of downstream tasks, including STS, clustering, information retrieval, and text classification.
-*   The framework supports multilingual and multimodal NLP applications, integrating with prominent embedding architectures like Sentence-Transformers for neural and semantic search.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) in **50+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics (e.g., nDCG@10, MAP, accuracy).
+
+- **Modular Python Framework**: Implements a **unified API** for embedding models (e.g., Sentence-BERT, SBERT) with built-in support for **low-resource NLP**, **bitext mining**, and **cross-lingual tasks**, enabling reproducible comparisons via CLI or programmatic integration.
+
+- **State-of-the-Art Tracking**: Maintains a **leaderboard** for top-performing models (e.g., `intfloat/e5-large-v2`, `BAAI/bge-large-en`) across tasks, with **automated updates** and **extensible task definitions** for custom dataset integration.
 
 ## Why It Matters
 

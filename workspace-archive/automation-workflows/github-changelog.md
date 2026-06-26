@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Saved Views for Repository Issues (Public Preview)**: Introduces a feature allowing users to save and reuse custom filtered views for repository issues, enhancing issue tracking efficiency and consistency across workflows.
+- **Worktree Support**: GitHub Desktop 3.6 introduces native worktree management, enabling parallel branch development without repository duplication, with streamlined UI for creation, switching, and pruning operations.
 
-- **Adjustable Row Heights in Projects**: Enables dynamic resizing of row heights in GitHub Projects, improving readability and customization for board layouts.
+- **Enhanced Copilot Integration**: Deeper GitHub Copilot embedding in Desktop provides inline code suggestions, natural language commit message generation, and contextual chat within the client for improved developer workflow.
 
-- **Integration with GitHub Projects**: Both features are part of the Projects & Issues changelog updates, ind
+- **Performance Optimizations**: Reduced memory fo
 
 ## Use Cases
 

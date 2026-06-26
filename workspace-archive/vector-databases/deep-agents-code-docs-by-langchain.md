@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for behavior adaptation.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session with persistent memory for cross-conversation context retention.
 
-- **Human-in-the-Loop & Safety Controls**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) with optional auto-approve (`-y`/`--auto-approve`), configurable allowlists (`--shell-allow-list`), and remote sandbo
+- **Human-in-the-Loop Controls**: Enforces approval gates for destructive operations (file edits, shell execution, web search) with optional auto-approve (`-y` flag) and configurable allowlists for non-interactive mode.
+
+- **Remote Execution & Observability**: Enables remote sandboxes (e.g., LangSmit
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-26T15:23:59.384519+05:30'
-published_at: '2026-06-26T08:32:41Z'
+collected_at: '2026-06-26T20:19:19.789542+05:30'
+published_at: '2026-06-26T12:09:22Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 1287
+stars: 1288
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-26T15:23:59.384519+05:30'
-last_seen: '2026-06-26T15:23:59.384519+05:30'
-last_checked: '2026-06-26T15:23:59.384519+05:30'
+first_seen: '2026-06-26T20:19:19.789542+05:30'
+last_seen: '2026-06-26T20:19:19.789542+05:30'
+last_checked: '2026-06-26T20:19:19.789542+05:30'
 health_score: 100
 ---
 
@@ -33,8 +32,8 @@ health_score: 100
 ## Summary
 
 - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server-based** implementation in Python, integrating RAG, knowledge graphs, and OpenAI models for codebase-specific intelligence.
-- **IDE-agnostic plugin** supporting Copilot, Windsurf, and other tools via MCP, facilitating cross-platform code search and developer workflows.
+- **RAG-based system** leveraging MCP servers and knowledge graphs for precise, context-aware codebase interactions.
+- **Python-based template** integrating OpenAI, MCP, and developer tools (agents-sdk, code-search) for scalable AI-driven code intelligence.
 
 ## Why It Matters
 
@@ -43,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: study8677
-- Stars: 1287
+- Stars: 1288
 - Forks: 261
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
-- Last Updated: 2026-06-26T08:32:41Z
+- Last Updated: 2026-06-26T12:09:22Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-19T08:51:14Z

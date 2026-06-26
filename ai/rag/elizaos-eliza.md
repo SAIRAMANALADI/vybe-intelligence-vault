@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/elizaOS/eliza
-collected_at: '2026-06-26T15:24:04.388331+05:30'
-published_at: '2026-06-26T09:49:50Z'
+collected_at: '2026-06-26T20:19:24.833948+05:30'
+published_at: '2026-06-26T14:48:20Z'
 tags:
 - agents
 - github-repo
@@ -18,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2024-07-09T07:55:40Z'
-pushed_at: '2026-06-26T09:47:12Z'
+pushed_at: '2026-06-26T14:48:15Z'
 resource_id: github:elizaos/eliza
-first_seen: '2026-06-26T15:24:04.388331+05:30'
-last_seen: '2026-06-26T15:24:04.388331+05:30'
-last_checked: '2026-06-26T15:24:04.388331+05:30'
+first_seen: '2026-06-26T20:19:24.833948+05:30'
+last_seen: '2026-06-26T20:19:24.833948+05:30'
+last_checked: '2026-06-26T20:19:24.833948+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based Agentic OS**: Open-source framework enabling autonomous AI agents with plugin support for RAG, Discord, Slack, Telegram, and crypto integrations.
-- **Swarm Architecture**: Designed for distributed agent collaboration with modular plugins and extensible agentic workflows.
-- **Last Updated (2026-06-26)**: Actively maintained with recent updates, emphasizing scalability for AI-driven autonomous systems.
+- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin support for RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram).
+- **Decentralized & Modular**: Integrates crypto capabilities for agent coordination, plugin extensibility, and cross-platform agentic workflows.
+- **Latest Update**: Repository last updated on **2026-06-26** with **18.6k+ stars** and **5.5k+ forks**, reflecting active community adoption.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 5571
 - Language: TypeScript
 - Topics: agent, agentic, ai, autonomous, chatbot, crypto, discord, eliza, elizaos, framework, plugins, rag, slack, swarm, telegram
-- Last Updated: 2026-06-26T09:49:50Z
+- Last Updated: 2026-06-26T14:48:20Z
 - License: MIT
 - Archived: No
 - Created At: 2024-07-09T07:55:40Z
-- Pushed At: 2026-06-26T09:47:12Z
+- Pushed At: 2026-06-26T14:48:15Z
 
 ## Possible Use Cases
 

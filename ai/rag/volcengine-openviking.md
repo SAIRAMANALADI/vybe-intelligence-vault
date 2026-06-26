@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-26T15:24:09.452097+05:30'
-published_at: '2026-06-26T09:44:38Z'
+collected_at: '2026-06-26T20:19:29.783851+05:30'
+published_at: '2026-06-26T14:39:16Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26072
+stars: 26083
 language: Python
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2026-01-05T07:11:17Z'
-pushed_at: '2026-06-26T09:45:16Z'
+pushed_at: '2026-06-26T14:29:21Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-26T15:24:09.452097+05:30'
-last_seen: '2026-06-26T15:24:09.452097+05:30'
-last_checked: '2026-06-26T15:24:09.452097+05:30'
+first_seen: '2026-06-26T20:19:29.783851+05:30'
+last_seen: '2026-06-26T20:19:29.783851+05:30'
+last_checked: '2026-06-26T20:19:29.783851+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **File System-Based Context Management**: OpenViking implements a hierarchical context database for AI Agents using a file system paradigm, enabling unified management of memory, resources, and skills through familiar filesystem operations.
-
-- **Self-Evolving Context Engine**: The system supports dynamic, self-evolving context delivery, allowing AI Agents (e.g., OpenClaw) to autonomously adapt and refine their context structures based on operational needs.
-
-- **Agentic RAG & Skill Integration**: Designed for Agentic Retrieval-Augmented Generation (RAG), OpenViking facilitates structured skill storage and retrieval, optimizing LLM interactions via a filesystem-like interface.
+*   OpenViking is an open-source context database optimized for AI Agents, unifying memory, resources, and skills.
+*   It leverages a file system paradigm for hierarchical context management and delivery to agents.
+*   The design enables self-evolving capabilities for AI agents through its structured context delivery mechanism.
 
 ## Why It Matters
 
@@ -42,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: volcengine
-- Stars: 26072
+- Stars: 26083
 - Forks: 2029
 - Language: Python
 - Topics: agent, agentic-rag, ai-agents, clawbot, context-database, context-engineering, filesystem, llm, memory, openclaw, opencode, rag, skill
-- Last Updated: 2026-06-26T09:44:38Z
+- Last Updated: 2026-06-26T14:39:16Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-01-05T07:11:17Z
-- Pushed At: 2026-06-26T09:45:16Z
+- Pushed At: 2026-06-26T14:29:21Z
 
 ## Possible Use Cases
 

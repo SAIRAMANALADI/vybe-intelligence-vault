@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic capabilities in Python-based workflows.
-
-- **Metadata**: 238 stars, 58 forks, last updated 2026-06-25; authored by Yuval Avidani using GitHub Copilot via VS Code Insiders.
-
-- **Technical Stack**: Python-based skills repository with no predefined topics, designed for extensibility in AI agent tooling.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), created using GitHub Copilot via VS Code Insiders.
+- **Metadata**: 239 stars, 58 forks, Python-based, last updated on 2026-06-25.
+- **Purpose**: Repository aims to enhance AI agent capabilities with domain-specific skills for software development workflows.
 
 ## Use Cases
 

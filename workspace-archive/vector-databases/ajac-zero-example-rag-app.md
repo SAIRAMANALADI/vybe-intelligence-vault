@@ -11,7 +11,11 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- anthropic
 - github-repo
+- mistral
+- models
+- openai
 - rag
 - typescript
 selection_reason:
@@ -30,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Application with LLM Observability**: Integrates Langfuse for real-time monitoring and observability of LLM interactions within a Retrieval-Augmented Generation (RAG) pipeline.
-- **Multi-Provider Support & Dockerized**: Supports 100+ LLM providers via LiteLLM abstraction, fully containerized for deployment consistency and scalability.
-- **Strict Development Standards**: Enforces TypeScript type-checking, achieves 100% test coverage, and includes CI/CD-ready Docker setup for robust, produ
+- **Observability & Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Mistral).
+- **DevOps & Testing**: Dockerized deployment with full TypeScript type-checking and 100% test coverage.
+- **Modern RAG Pipeline**: Example implementation of Retrieval-Augmented Generation (RAG) with structured logging and provider abstraction.
 
 ## Use Cases
 

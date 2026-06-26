@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by leveraging machine learning to prioritize critical incidents.
-- **Automated scheduling & escalation**: Dynamically assigns on-call duties based on team availability, skills, and incident trends, with built-in escalation policies.
-- **Real-time analytics & trends**: Provides historical and predictive insights into incident frequency, response times, and team performance via a centralized dashboard.
+- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
+
+- **Human-centric scheduling**: Implements effortless, automated on-call rotation with intelligent AI adjustments to ensure optimal team coverage and reduced fatigue.
+
+- **Real-time analytics & trends**: Provides actionable insights via mobile and web dashboards, tracking alert frequency, response times, and resolution trends to im
 
 ## Use Cases
 

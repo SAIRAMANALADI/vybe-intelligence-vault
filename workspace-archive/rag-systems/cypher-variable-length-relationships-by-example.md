@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cypher-variable-length-relationships-by-example.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-*   Cypher's variable-length relationship syntax `[:REL_TYPE*min..max]` enables matching paths with a specified range of relationship lengths, including exact lengths (`*N`) or unbounded lengths (`*`).
-*   Unbounded variable-length paths (`*`) are discouraged for performance reasons; explicit upper bounds (`*..max`) should always be used.
-*   Zero-length paths (`*0..max`) allow the start and end nodes of a variable-length segment to be identical, facilitating the retrieval of nodes even when int
+- **Variable-length path syntax in Cypher** enables traversal of relationships with dynamic depth using `*min..max` notation (e.g., `-[:KNOWS*2..3]->`), where `min` and `max` define inclusive bounds; omitting bounds defaults to `*1` (single relationship).
+- **Zero-length paths** (`*0`) bind the same node to both start and end variables, simplifying queries for optional relationships (e.g., `()-[:REL*0..1]->()` captures nodes with/without outgoing relationships uniformly).
+- **Performance conside
 
 ## Use Cases
 

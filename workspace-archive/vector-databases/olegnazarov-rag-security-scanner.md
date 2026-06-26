@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Tool Overview**: Python-based RAG/LLM Security Scanner designed to detect critical vulnerabilities in AI applications (e.g., chatbots, virtual assistants) via automated testing and red-team methodologies.
-- **Key Features**: Targets prompt injection, OWASP Top 10 LLM risks, and security misconfigurations in RAG systems, OpenAI integrations, and AI-powered knowledge retrieval.
-- **Technical Scope**: Supports security audits, penetration testing, and vulnerability scanning with a focus on LLM-
+- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing.
+- **Features**: Detects prompt injection, OWASP Top 10 LLM risks, and other AI-specific threats using red-team techniques.
+- **Implementation**: Python-based tool supporting security audits, penetration testing, and CI/CD integration for LLM/RAG systems.
 
 ## Use Cases
 

@@ -9,13 +9,14 @@ collected_at: '2026-06-26T15:22:55.585595+05:30'
 tags:
 - github-trending
 - swift
-status: active
+status: inactive
 resource_id: github:apple/container
 first_seen: '2026-06-24T20:38:09.766268+05:30'
 last_seen: '2026-06-26T15:22:55.585595+05:30'
 last_checked: '2026-06-26T15:22:55.585595+05:30'
 health_score: 100
 ---
+
 
 # apple/container
 

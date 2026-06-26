@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
 archive_score: 78
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Fundamentals**: Combines LLMs with retrieval systems to fetch external information (e.g., documents, databases) dynamically, avoiding context window overload by injecting only relevant chunks (e.g., 1,000-token segments) into prompts.
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for accurate responses without overloading LLM context windows, critical for enterprise-scale data (e.g., 1TB+ documents) where direct LLM input is infeasible.
 
-- **Vector Embeddings & Storage**: Chunks are converted into high-dimensional vectors (e.g., 3,072D for OpenAI’s `text-embedding-3-large`) using embedding models, stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity search via mathema
+- **Vector Embeddings & Chunking**: Documents are split into fixed-token chunks (e.g., 1,000 tokens) and converted into high-dimensional vectors (e.g., 3,072D for OpenAI’s `text-embedding-3-large`) using embedding models, ena
 
 ## Use Cases
 

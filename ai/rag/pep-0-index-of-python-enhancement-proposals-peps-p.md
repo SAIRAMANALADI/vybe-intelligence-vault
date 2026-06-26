@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org/
-published_at: '2026-06-26T15:28:19.972627+05:30'
-collected_at: '2026-06-26T15:28:19.972655+05:30'
+published_at: '2026-06-26T20:28:41.980492+05:30'
+collected_at: '2026-06-26T20:28:41.980508+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-26T15:28:19.972655+05:30'
-last_seen: '2026-06-26T15:28:19.972655+05:30'
-last_checked: '2026-06-26T15:28:19.972655+05:30'
+first_seen: '2026-06-26T20:28:41.980508+05:30'
+last_seen: '2026-06-26T20:28:41.980508+05:30'
+last_checked: '2026-06-26T20:28:41.980508+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained in a GitHub repository; numerical and categorical indices (e.g., Process, Informational, Provisional) are dynamically generated for navigation.
+- **PEP Indexing System**: PEPs are assigned immutable numbers by PEP editors, with their version-controlled history serving as the authoritative record; PEPs are categorized by status (e.g., *Accepted*, *Finished*, *Rejected*) and topic (e.g., *Packaging*, *Typing*, *Governance*).
 
-- **PEP Metadata API**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, statuses, and categorizations.
+- **PEP API & Metadata**: A JSON-based [PEPS API](https://peps.python.org/api/peps.json) provides structured metadata for all published PEPs, enabling programmatic access to PEP details, authors, and statuses.
 
-- **PEP Categorization & Statuses**: PEPs are classified into types (e.g., Standards Track, Informational, Process) and statuses (e.g., Accepted, Finished, Rejected), with specialized subcategories like "Typing PEPs" and "Governance PEPs" for domain-specific proposals.
+- **PEP Types & Workflows**: PEPs follow distinct types (*Informational*, *Process*, *Standards Track*) and undergo lifecycle stages (e.g., *Draft*, *Accepted*, *Deferred*), with specialized PEPs like [PEP 8](https://peps.python.org/pep-0008/) (Python Style Guide) and [PEP 333](https://peps.python.org/pep-0333/) (WSGI) defining critical infrastructure standards.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:28:19.972627+05:30
+- Published: 2026-06-26T20:28:41.980492+05:30
 
 ## Related Tags
 

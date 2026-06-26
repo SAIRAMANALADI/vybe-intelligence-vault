@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-06-26T15:24:39.443845+05:30'
-published_at: '2026-06-26T09:05:16Z'
+collected_at: '2026-06-26T20:19:59.760441+05:30'
+published_at: '2026-06-26T12:20:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 3955
+stars: 3956
 language: Python
 status: active
 license: CC0-1.0
 archived: false
 created_at: '2026-03-24T15:58:22Z'
-pushed_at: '2026-06-26T09:05:13Z'
+pushed_at: '2026-06-26T12:20:43Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-06-26T15:24:39.443845+05:30'
-last_seen: '2026-06-26T15:24:39.443845+05:30'
-last_checked: '2026-06-26T15:24:39.443845+05:30'
+first_seen: '2026-06-26T20:19:59.760441+05:30'
+last_seen: '2026-06-26T20:19:59.760441+05:30'
+last_checked: '2026-06-26T20:19:59.760441+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLops, RAG, and other advanced AI domains, primarily implemented in Python.
-- **Community Metrics**: Maintains 3,955 stars and 461 forks, reflecting active community engagement and contribution.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, RAG, and other core AI/ML components, primarily implemented in Python.
+- **Community & Maintenance**: Actively maintained (last update: 2026-06-26) with 3,956 stars and 461 forks, reflecting strong community engagement.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: alvinreal
-- Stars: 3955
+- Stars: 3956
 - Forks: 461
 - Language: Python
 - Topics: agents, ai, artificial-intelligence, awesome, awesome-list, generative-ai, llm, machine-learning, mlops, open-source, open-source-ai, rag
-- Last Updated: 2026-06-26T09:05:16Z
+- Last Updated: 2026-06-26T12:20:45Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2026-03-24T15:58:22Z
-- Pushed At: 2026-06-26T09:05:13Z
+- Pushed At: 2026-06-26T12:20:43Z
 
 ## Possible Use Cases
 

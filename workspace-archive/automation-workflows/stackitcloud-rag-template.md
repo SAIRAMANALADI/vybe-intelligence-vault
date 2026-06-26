@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
-- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker/Kubernetes** for container orchestration, with **vector database** integration for semantic search.
-- **Tech Stack**: Primarily **Python**-based, leveraging **STACKIT** cloud infrastructure, op
+- **Purpose**: Provides a template for AI chatbots and document management using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend operations.
+- **Key Components**: Integrates **Ollama** for LLM inference, **FastAPI** for REST endpoints, and supports **Docker/Kubernetes** for deployment, with **vector database** integration for document retrieval.
+- **Tech Stack**: Python-based, leveraging **STACKIT** cloud services, optimized for **RAG-chatbot** workflo
 
 ## Use Cases
 

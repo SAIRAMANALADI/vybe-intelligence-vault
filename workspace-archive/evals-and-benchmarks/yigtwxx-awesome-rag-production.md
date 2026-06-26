@@ -6,12 +6,13 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering end-to-end workflows from embeddings to deployment.
-
-- **Comprehensive Tooling & Libraries**: Includes curated list of production-ready components such as vector databases, LLM frameworks (e.g., LangChain), MLOps pipelines, and embedding models optimized for RAG deployments in Python.
-
-- **MLO
+- **Curated RAG Production Resources**: Repository compiling battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
+- **Technical Scope**: Focuses on Python-based implementations, covering embeddings, vector databases, LLM integration, and MLOps/LLMOps workflows for RAG deployment.
+- **Updated & Community-Driven**: Last updated June 2026, with 124 stars and 32 forks, maintaining a curated list of production-grade RAG solut
 
 ## Use Cases
 

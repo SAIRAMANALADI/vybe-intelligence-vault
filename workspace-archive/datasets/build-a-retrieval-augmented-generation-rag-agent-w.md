@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool calling, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and context-aware retrieval.
+- **Agentic RAG Architecture**: Utilizes a ReAct agent framework where the LLM dynamically decides between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Pipeline Workflow**: Implements a Retrieval Chain where the ReAct agent selectively activates retrieval only when needed, combining semantic search, hybrid
+- **Pipeline Workflow**: Implements a Retrieval Chain with a retriever tool, enabling the ReAct agent to query an external knowledge base via vector database search, sema
 
 ## Use Cases
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Curates a comprehensive list of Retrieval-Augmented Generation (RAG) application implementations.
-*   Focuses on practical RAG deployments within Generative AI and Large Language Model (LLM) ecosystems.
-*   Provides a structured resource for exploring diverse RAG use cases and architectural patterns.
+- **Curated RAG Applications**: Comprehensive repository listing cutting-edge Retrieval-Augmented Generation (RAG) applications in Generative AI, spanning large language models (LLMs) and related AI domains.
+- **Active Maintenance**: Last updated June 26, 2026, ensuring relevance with recent advancements in RAG architectures and implementations.
+- **Community-Driven Resource**: Open-source initiative with 1,269 stars and 156 forks, indicating strong community engagement and collaborative develop
 
 ## Use Cases
 

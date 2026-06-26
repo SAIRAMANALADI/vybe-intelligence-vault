@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dspy.ai/
-published_at: '2026-06-25T20:48:03.642833+05:30'
-collected_at: '2026-06-25T20:48:03.642849+05:30'
+published_at: '2026-06-26T20:22:05.512261+05:30'
+collected_at: '2026-06-26T20:22:05.512277+05:30'
 tags:
 - agents
 - benchmark
@@ -14,12 +14,13 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:dspy
-first_seen: '2026-06-25T20:48:03.642849+05:30'
-last_seen: '2026-06-25T20:48:03.642849+05:30'
-last_checked: '2026-06-25T20:48:03.642849+05:30'
+first_seen: '2026-06-26T20:22:05.512277+05:30'
+last_seen: '2026-06-26T20:22:05.512277+05:30'
+last_checked: '2026-06-26T20:22:05.512277+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and structured output handling for dynamic task execution.
-- **Improved LM/BaseLM**: Optimized base language model handling with enhanced modularity and performance for structured signature-based task execution.
-- **GEPA Optimizer**: Reflective prompt evolution optimizer (`dspy.GEPA`) that compiles programs against a metric, improving task-specific performance (e.g., 62% → 89% F1 in metadata extraction).
+- **ReActV2 Module**: Introduces an enhanced reasoning-and-acting loop with improved tool integration and dynamic decision-making for complex LLM workflows.
+- **Enhanced LM/BaseLM**: Updated base language model handling with better performance and modularity for optimized task execution.
+- **Signature-Based Optimization**: GEPA optimizer compiles programs against metrics, improving accuracy (e.g., 62% → 89% F1) via reflective prompt evolution.
 
 ## Why It Matters
 
@@ -39,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T20:48:03.642833+05:30
+- Published: 2026-06-26T20:22:05.512261+05:30
 
 ## Related Tags
 
@@ -50,6 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

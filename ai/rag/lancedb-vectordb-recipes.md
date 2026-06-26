@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-26T15:23:49.422167+05:30'
+collected_at: '2026-06-26T20:19:09.827210+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-26T15:23:49.422167+05:30'
-last_seen: '2026-06-26T15:23:49.422167+05:30'
-last_checked: '2026-06-26T15:23:49.422167+05:30'
+first_seen: '2026-06-26T20:19:09.827210+05:30'
+last_seen: '2026-06-26T20:19:09.827210+05:30'
+last_checked: '2026-06-26T20:19:09.827210+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in deep learning workflows, including hybrid search and agent-based applications.
+- **Vector Database Integration**: Demonstrates workflows leveraging LanceDB as a vector database for efficient embedding storage, retrieval, and similarity search in AI pipelines.
 
-- **Tooling & Frameworks**: Showcases integration with OpenAI APIs, LangChain for agent orchestration, and fine-tuning techniques for optimizing multimodal and text-based models using vectorized data.
+- **Tooling & Frameworks**: Includes tutorials on fine-tuning, embedding generation, and integration with OpenAI APIs, LangChain, and other deep-learning frameworks for end-to-end AI agent development.
 
 ## Why It Matters
 

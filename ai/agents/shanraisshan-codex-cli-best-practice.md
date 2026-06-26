@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-26T15:26:09.520997+05:30'
+collected_at: '2026-06-26T20:21:29.887947+05:30'
 published_at: '2026-06-26T06:02:33Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-26T15:26:09.520997+05:30'
-last_seen: '2026-06-26T15:26:09.520997+05:30'
-last_checked: '2026-06-26T15:26:09.520997+05:30'
+first_seen: '2026-06-26T20:21:29.887947+05:30'
+last_seen: '2026-06-26T20:21:29.887947+05:30'
+last_checked: '2026-06-26T20:21:29.887947+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides a structured approach to transition from "vibe coding" to agentic engineering using Codex CLI, emphasizing modular skills, hooks, and context engineering for autonomous AI workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **CLI Command & Skill Optimization**: Demonstrates best practices for Codex CLI commands, agentic workflows, and skill development, including reusable hooks and context management for efficient AI-driven coding tasks.
+- **Codex CLI Best Practices**: Provides optimized commands, agentic patterns, and CLI-based skill modules (e.g., `codex-cli-agents`, `codex-hooks`) to enhance OpenAI Codex’s efficiency in automated code generation and debugging.
 
-- **Open-Source Contribution Framework**: Showcases a Pakistani developer's open-source project with 899+ stars, serving as a reference for AI agentic engineering, OpenAI Codex integration, and scalable CLI-based AI automation.
+- **Context & Skill Engineering**: Focuses on *context-engineering* techniques to refine AI agent interactions, including dynamic prompt templating and stateful workflows, with examples tailored for Pakistani developers and OpenAI’s Codex ecosystem.
 
 ## Why It Matters
 

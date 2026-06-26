@@ -6,16 +6,15 @@ source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
 resource_id: github:nvidia/workbench-example-hybrid-rag
 local_vault_path: ai/rag/nvidia-workbench-example-hybrid-rag.md
 quality_score: 70
-archive_score: 81
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
-- models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document search accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based search for enhanced document retrieval accuracy.
 
-- **NVIDIA AI Workbench Integration**: Provides a Python-based example leveraging NVIDIA's AI Workbench framework for deploying and scaling RAG models with optimized GPU acceleration.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and scalability of RAG models.
 
-- **Modular Architecture**: Includes configurable components for document ingestion, retrieval, and generation,
+- **Python-Based Example**: Provides a Python-based reference implementation with modular components for customization and extension of hybrid RAG workflows.
 
 ## Use Cases
 

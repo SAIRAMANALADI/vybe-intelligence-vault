@@ -6,7 +6,7 @@ source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -22,7 +22,6 @@ tags:
 - openai
 - paper
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -31,19 +30,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embeddings, retrieval, output generation) and integrations with providers like OpenAI, Hugging Face, and Azure; supports Python, JavaScript, and TypeScript.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JS/TS), integrating with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG engine optimized for enterprise-grade document processing, featuring advanced OCR, multi-modal retrieval, and fine-grained chunking for high-precision context augmentation in LLMs.
-
--
+- **RAGFlow**: Open-source RAG engine optimized for document Q&A workflows, featuring automated document parsing, intelligent chunking, and hybrid retrieval (dense + sparse) with built-in evaluation metrics for performance
 
 ## Use Cases
 

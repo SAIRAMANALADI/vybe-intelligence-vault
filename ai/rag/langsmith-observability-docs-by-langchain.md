@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-26T15:27:19.637740+05:30'
-collected_at: '2026-06-26T15:27:19.637753+05:30'
+published_at: '2026-06-26T20:23:14.213915+05:30'
+collected_at: '2026-06-26T20:23:14.213929+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-26T15:27:19.637753+05:30'
-last_seen: '2026-06-26T15:27:19.637753+05:30'
-last_checked: '2026-06-26T15:27:19.637753+05:30'
+first_seen: '2026-06-26T20:23:14.213929+05:30'
+last_seen: '2026-06-26T20:23:14.213929+05:30'
+last_checked: '2026-06-26T20:23:14.213929+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics, with support for frameworks like OpenAI, Anthropic, and CrewAI.
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, production monitoring, and performance metrics across frameworks (e.g., OpenAI, Anthropic, CrewAI) via [available integrations](https://docs.langchain.com/langsmith/integrations).
 
-- **Key features** include automated failure detection via **Engine**, trace visualization/filtering, performance dashboarding, alerting, and user feedback collection through annotation queues.
+- **Core features** include automated failure detection (LangSmith Engine), trace visualization/filtering, dashboard creation for performance tracking, and feedback collection via queues or inline annotations.
 
-- **Setup options** include cloud, hybrid, or self-hosted deployments, with tracing enabled via environment variables, SDKs, or framework integrations, and pricing/retention details available in the [Usage and billing](https://docs.langchain.com/langsmith/usage-and-billing) section.
+- **Setup options** include cloud/hybrid/self-hosted deployments with observability, evaluation, prompt engineering, and deployment capabilities; requires API key generation post-account creation ([smith.langchain.com](https://smith.langchain.com)).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:27:19.637740+05:30
+- Published: 2026-06-26T20:23:14.213915+05:30
 
 ## Related Tags
 

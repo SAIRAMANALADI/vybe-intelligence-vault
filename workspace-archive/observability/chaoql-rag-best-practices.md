@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices for large language models (LLMs) in Python, focusing on efficient retrieval and generation integration.
-- **Modular Architecture**: Designed with modular components for document preprocessing, vector storage, retrieval strategies, and prompt engineering to enhance LLM performance.
-- **Benchmarking & Evaluation**: Includes evaluation metrics and benchmarking tools to assess RAG system performance acro
+- **RAG Optimization Framework**: Provides structured best practices for enhancing Large Language Models (LLMs) with retrieval-augmented generation (RAG), focusing on retrieval strategy, indexing, and prompt engineering for improved factual accuracy and context relevance.
+
+- **Python Implementation**: Includes modular Python codebase with utilities for document preprocessing, vector embedding (e.g., FAISS, Chroma), and dynamic query routing to optimize retrieval latency and precision.
+
+- **Evalu
 
 ## Use Cases
 

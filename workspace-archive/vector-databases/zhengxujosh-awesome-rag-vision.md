@@ -13,6 +13,7 @@ importance: medium
 tags:
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval-augmented generation methods.
-- **Metadata**: 336 stars, 9 forks, last updated June 25, 2026; language unspecified.
-- **Scope**: Focuses on bridging RAG with vision tasks (e.g., image-text retrieval, visual question answering, or scene understanding) via structured resources.
+- **Curated collection** of advanced RAG techniques specifically tailored for Computer Vision applications, including multimodal retrieval and generation methods.
+- **Repository metadata**: 336 stars, 9 forks, last updated June 25, 2026; language unspecified.
+- **Scope**: Focuses on integrating RAG with vision tasks (e.g., image captioning, visual question answering) via structured resources and research papers.
 
 ## Use Cases
 

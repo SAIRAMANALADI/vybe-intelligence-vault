@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-26T15:24:04.424306+05:30'
+collected_at: '2026-06-26T20:19:24.816573+05:30'
 published_at: '2026-06-25T07:30:43Z'
 tags:
 - benchmark
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-26T15:24:04.424306+05:30'
-last_seen: '2026-06-26T15:24:04.424306+05:30'
-last_checked: '2026-06-26T15:24:04.424306+05:30'
+first_seen: '2026-06-26T20:19:24.816573+05:30'
+last_seen: '2026-06-26T20:19:24.816573+05:30'
+last_checked: '2026-06-26T20:19:24.816573+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG Optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and evaluation) using AutoML techniques to optimize performance without manual intervention.
+- **AutoML-Style RAG Optimization**: Framework automates end-to-end RAG pipeline optimization (retrieval, augmentation, generation) using AutoML techniques, eliminating manual hyperparameter tuning via adaptive search strategies (e.g., Bayesian optimization, evolutionary algorithms).
 
-- **Comprehensive RAG Benchmarking**: Provides standardized evaluation metrics and datasets for assessing RAG systems, enabling reproducible benchmarking across retrieval, generation, and end-to-end tasks.
+- **Comprehensive Evaluation Suite**: Integrates multi-dimensional RAG evaluation metrics (relevance, faithfulness, latency, cost) with built-in benchmarks (e.g., MS MARCO, TriviaQA) and custom dataset support for reproducible performance assessment.
 
-- **Modular Python Framework**: Offers a flexible, open-source Python library with built-in support for document parsing, embeddings, retrieval strategies, and LLM integration, facilitating customizable RAG workflows.
+- **Modular Pipeline Architecture**: Python-based framework with pluggable components (embedding models, retrievers, LLMs) and YAML-configurable workflows, enabling seamless integration with Hugging Face, LangChain, or custom models while supporting document parsing (PDFs, CSVs) and vector databases (FAISS, Chroma).
 
 ## Why It Matters
 

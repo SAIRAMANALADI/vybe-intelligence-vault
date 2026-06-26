@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:alibaba/page-agent
 first_seen: '2026-06-25T16:35:46.163525+05:30'
 last_seen: '2026-06-26T15:22:55.587469+05:30'
 last_checked: '2026-06-26T15:22:55.587469+05:30'
 health_score: 100
 ---
+
 
 # alibaba/page-agent
 

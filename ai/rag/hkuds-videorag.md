@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-26T15:25:09.484239+05:30'
+collected_at: '2026-06-26T20:20:29.858501+05:30'
 published_at: '2026-06-26T04:45:56Z'
 tags:
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-26T15:25:09.484239+05:30'
-last_seen: '2026-06-26T15:25:09.484239+05:30'
-last_checked: '2026-06-26T15:25:09.484239+05:30'
+first_seen: '2026-06-26T20:20:29.858501+05:30'
+last_seen: '2026-06-26T20:20:29.858501+05:30'
+last_checked: '2026-06-26T20:20:29.858501+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to interactively query and chat with video content via multi-modal embeddings and retrieval mechanisms.
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, transcripts).
 
-- **Multi-Modal Integration**: Combines visual, audio, and textual modalities using advanced encoders (e.g., Vision Transformers, Whisper for speech) to generate unified representations for video segments.
+- **Technical Implementation**: Leverages Python with multi-modal LLMs (e.g., CLIP, Whisper) for video feature extraction, hierarchical indexing, and dynamic retrieval to enhance contextual reasoning over extended video sequences.
 
-- **Efficient Retrieval & Scalability**: Implements hierarchical retrieval (clip → segment → video) with approximate nearest neighbor (ANN) search (e.g., FAISS) to handle large-scale video datasets while maintaining low-latency inference.
+- **KDD'2026 Contribution**: Proposes a novel architecture for scalable video-based Q&A, addressing challenges in temporal coherence, multimodal fusion, and efficient retrieval for long-duration videos.
 
 ## Why It Matters
 

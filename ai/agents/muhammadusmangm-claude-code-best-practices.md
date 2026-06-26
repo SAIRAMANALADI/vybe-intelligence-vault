@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-06-26T15:26:14.518128+05:30'
+collected_at: '2026-06-26T20:21:34.886182+05:30'
 published_at: '2026-06-24T15:23:13Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
 stars: 55
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-06-26T15:26:14.518128+05:30'
-last_seen: '2026-06-26T15:26:14.518128+05:30'
-last_checked: '2026-06-26T15:26:14.518128+05:30'
+first_seen: '2026-06-26T20:21:34.886182+05:30'
+last_seen: '2026-06-26T20:21:34.886182+05:30'
+last_checked: '2026-06-26T20:21:34.886182+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Stack**: Primarily shell-based, with integration support for AI/ML workflows, MCP (Model Context Protocol), and CLI tools.
-- **Metadata**: 55 stars, 10 forks, last updated June 24, 2026; focuses on agentic AI, Anthropic tools, and LLM-driven development workflows.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including `CLAUDE.md` templates, workflow configurations, and multi-agent patterns to optimize AI-driven development workflows.
+
+- **Technical Focus**: Emphasizes CLI-based interactions, LLM integration, and MCP (Model Context Protocol) for enhanced agentic AI capabilities, with Shell scripts for automation and setup.
+
+- **Cost & Efficiency**: Includes optimization strategies for reducing computational costs while maintaining performance, with last update timestamp indicating active maintenance (2026-06-24).
 
 ## Why It Matters
 

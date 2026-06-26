@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-26T15:26:39.618906+05:30'
+collected_at: '2026-06-26T20:21:59.981713+05:30'
 published_at: '2026-06-26T08:21:31Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-06-25T16:49:20Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-26T15:26:39.618906+05:30'
-last_seen: '2026-06-26T15:26:39.618906+05:30'
-last_checked: '2026-06-26T15:26:39.618906+05:30'
+first_seen: '2026-06-26T20:21:59.981713+05:30'
+last_seen: '2026-06-26T20:21:59.981713+05:30'
+last_checked: '2026-06-26T20:21:59.981713+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring.
-- **Key Features**: Implements **runtime policy enforcement**, **behavioral anomaly detection**, and **audit logging** for AI agents to mitigate risks like unauthorized actions or adversarial exploits.
-- **Scope**: Focuses on **enterprise-grade security controls** for AI agents, including access management, input validation, and response integrity checks.
+- **Security Governance Framework**: DefenseClaw provides a structured approach to securing agentic AI systems, focusing on policy enforcement, access control, and audit mechanisms to mitigate risks in autonomous AI operations.
+
+- **Python-Based Implementation**: The repository is primarily written in Python, offering modular components for integrating security controls into AI agents, including authentication, authorization, and runtime monitoring.
+
+- **Open-Source Governance Toolkit**: Designed for extensibility, DefenseClaw enables organizations to customize security policies for AI agents, with support for real-time threat detection and compliance enforcement.
 
 ## Why It Matters
 

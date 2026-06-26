@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-*   Curates a technical registry of "skills" and resources for enhancing and customizing AI agent workflows.
-*   Supports a diverse ecosystem of LLMs and platforms, including Anthropic Claude Code, OpenAI Codex, Google Gemini CLI, Llama, and Qwen, alongside custom AI agents.
-*   Focuses on providing operational tooling and capabilities for programmatic AI agent customization and integration.
+- **Curated Repository**: Hosts a structured collection of LLM/AI agent skills, tools, and resources for customizing workflows compatible with **Claude Code, Codex, Gemini CLI**, and custom AI agents.
+- **Multi-Platform Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and related CLI tools (e.g., Codex CLI, Qwen-Coder).
+- **Technical Stack**: Primarily Python-based, with last update on **2026-06-26**, featuring **1,343 stars** and **209 forks** on GitHub.
 
 ## Use Cases
 

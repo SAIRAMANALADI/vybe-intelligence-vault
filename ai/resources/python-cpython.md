@@ -1,67 +1,47 @@
 ---
-title: python/cpython
+title: cpython/Doc/tutorial/controlflow.rst at main · python/cpython · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/python/cpython/
-collected_at: '2026-06-26T02:08:33.295639+05:30'
-published_at: '2026-06-25T20:31:38Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/python/cpython/blob/main/Doc/tutorial/controlflow.rst?plain=1
+published_at: '2026-06-26T20:32:26.096680+05:30'
+collected_at: '2026-06-26T20:32:26.096699+05:30'
 tags:
-- github-repo
-- python
-stars: 73417
-language: Python
+- hackernews
+- web-crawled
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2017-02-10T19:23:51Z'
-pushed_at: '2026-06-25T18:48:52Z'
 resource_id: github:python/cpython
-first_seen: '2026-06-26T02:08:33.295639+05:30'
-last_seen: '2026-06-26T02:08:33.295639+05:30'
-last_checked: '2026-06-26T02:08:33.295639+05:30'
+first_seen: '2026-06-26T20:32:26.096699+05:30'
+last_seen: '2026-06-26T20:32:26.096699+05:30'
+last_checked: '2026-06-26T20:32:26.096699+05:30'
 health_score: 100
 ---
 
-# python/cpython
+# cpython/Doc/tutorial/controlflow.rst at main · python/cpython · GitHub
 
 ## Summary
 
-- **Core Implementation**: Official CPython repository, the reference implementation of the Python programming language, written primarily in C with Python bindings.
-- **Version Control**: Tracks development of Python releases, including maintenance branches (e.g., `3.12`, `3.13`) and major version updates.
-- **Build System**: Uses `configure`, `Makefile`, and custom build scripts for cross-platform compilation (Windows, Unix-like systems) with support for embedding Python in other applications.
+- **CPython Repository**: Official Python interpreter implementation (C-based) with 34.8k forks and 73.4k stars on GitHub, containing core language features and standard library.
+
+- **Control Flow Documentation**: `controlflow.rst` in CPython's tutorial (1156 lines, 891 loc) details Python's control structures including `if`, `for`, `while`, `break`, `continue`, and `else` clauses in loops.
+
+- **Iterable Ranges**: Python's `range()` generates arithmetic progressions iteratively (memory-efficient) rather than materializing lists, supporting slicing, negative steps, and integration with `len()`/`enumerate()` for index-based iteration.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: python
-- Stars: 73417
-- Forks: 34780
-- Language: Python
-- Topics: None
-- Last Updated: 2026-06-25T20:31:38Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2017-02-10T19:23:51Z
-- Pushed At: 2026-06-25T18:48:52Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-06-26T20:32:26.096680+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/python/cpython/
+Original source: https://github.com/python/cpython/blob/main/Doc/tutorial/controlflow.rst?plain=1

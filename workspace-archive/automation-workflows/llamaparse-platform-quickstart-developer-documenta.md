@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - meta-ai
 - models
 - web-crawled
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Layout-Aware OCR Engine**: Parse employs advanced OCR technology with layout awareness to process PDFs, scans, tables, and charts, preserving document structure and formatting.
+- **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
 
-- **Multi-Format Output**: Converts parsed documents into clean markdown, plain text, or structured JSON, enabling seamless integration with LLM pipelines.
+- **Multi-format Output**: Converts processed documents into clean markdown, plain text, or structured JSON for seamless integration into LLM pipelines.
 
-- **Agentic Processing**: Designed as an autonomous agent for document parsing, optimizing OCR and layout analysis for high accuracy in LLM-driven workflows.
+- **Agentic Processing**: Utilizes autonomous agents to optimize parsing workflows, ensuring high accuracy and adaptability for complex document l
 
 ## Use Cases
 

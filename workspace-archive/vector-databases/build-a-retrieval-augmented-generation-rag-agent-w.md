@@ -7,9 +7,9 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,8 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog
@@ -31,16 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool calling, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and context-aware retrieval.
+- **Agentic RAG Architecture**: Utilizes a ReAct agent framework where the LLM dynamically decides between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Pipeline Workflow**: Implements a Retrieval Chain where the ReAct agent selectively activates retrieval only when needed, combining semantic search, hybrid
+- **Pipeline Workflow**: Implements a Retrieval Chain with a retriever tool, enabling the ReAct agent to query an external knowledge base via vector database search, sema
 
 ## Use Cases
 

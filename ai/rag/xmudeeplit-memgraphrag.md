@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-26T15:25:19.499004+05:30'
+collected_at: '2026-06-26T20:20:39.889915+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 105
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-26T15:25:19.499004+05:30'
-last_seen: '2026-06-26T15:25:19.499004+05:30'
-last_checked: '2026-06-26T15:25:19.499004+05:30'
+first_seen: '2026-06-26T20:20:39.889915+05:30'
+last_seen: '2026-06-26T20:20:39.889915+05:30'
+last_checked: '2026-06-26T20:20:39.889915+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Based Multi-Agent Framework**: Introduces a novel **memory-augmented multi-agent system** where agents dynamically construct and query **knowledge graphs (KGs)** for retrieval-augmented generation (RAG), leveraging agent-specific memory for adaptive reasoning.
+- **Memory-based Multi-Agent System**: Introduces a novel framework integrating memory mechanisms with multi-agent collaboration for enhanced graph-based retrieval-augmented generation (RAG), optimizing knowledge retention and retrieval efficiency.
 
-- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships between entities, enabling structured knowledge retrieval and reasoning while maintaining scalability via modular agent interactions.
+- **Graph Construction & Ontology Integration**: Implements dynamic graph construction and ontology-aware techniques to structure and semantically enrich knowledge graphs, improving contextual relevance and multi-hop reasoning in RAG pipelines.
 
-- **KDD 2026 Contribution**: Proposes **MemGraphRAG** as a first-of-its-kind system integrating **agent memory, graph-based RAG, and ontology alignment**, validated on benchmark tasks to demonstrate superior performance in complex knowledge-intensive scenarios.
+- **Python Implementation**: Provides an open-source Python-based implementation with modular components for agent-memory interaction, graph retrieval, and ontology construction, validated for scalability in KDD 2026 benchmarks.
 
 ## Why It Matters
 

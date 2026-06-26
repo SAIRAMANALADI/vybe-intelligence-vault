@@ -3,17 +3,17 @@ title: Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha docum
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.jupyter.org/en/latest/#what-is-a-notebook
-published_at: '2026-06-26T15:30:15.608559+05:30'
-collected_at: '2026-06-26T15:30:15.608575+05:30'
+source_url: https://docs.jupyter.org
+published_at: '2026-06-26T20:23:23.101576+05:30'
+collected_at: '2026-06-26T20:23:23.101591+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-26T15:30:15.608575+05:30'
-last_seen: '2026-06-26T15:30:15.608575+05:30'
-last_checked: '2026-06-26T15:30:15.608575+05:30'
+first_seen: '2026-06-26T20:23:23.101591+05:30'
+last_seen: '2026-06-26T20:23:23.101591+05:30'
+last_checked: '2026-06-26T20:23:23.101591+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., JupyterLab, Jupyter Notebook) that integrate code, visualizations, and narrative text in a single document format.
+- **Jupyter ecosystem**: A modular, extensible framework for interactive computing, centered around computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
 
-- **Sub-projects and kernels**: Includes specialized tools like `nbconvert` (conversion), `nbclient` (execution), `JupyterHub` (multi-user deployment), and kernels for languages beyond Python (e.g., IRkernel for R, IJulia for Julia).
+- **Sub-projects & tools**: Encompasses user interfaces (e.g., Voilà, QtConsole), kernels (e.g., IPython, IRkernel), deployment tools (e.g., JupyterHub, Docker Stacks), and notebook utilities (e.g., nbconvert, nbgrader) for execution, conversion, and collaboration.
 
-- **Architecture and standards**: Defined by protocols like `jupyter-client` (messaging) and `nbformat` (notebook structure), enabling extensibility via widgets, AI integrations (e.g., `jupyter-ai`), and deployment solutions (e.g., Docker Stacks, Kubernetes).
+- **Architecture & standards**: Defined by the Jupyter Messaging Protocol (`jupyter-client`), notebook format (`nbformat`), and server-client interactions (`jupyter-server`), enabling cross-language interoperability and extensibility.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T15:30:15.608559+05:30
+- Published: 2026-06-26T20:23:23.101576+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.jupyter.org/en/latest/#what-is-a-notebook
+Original source: https://docs.jupyter.org

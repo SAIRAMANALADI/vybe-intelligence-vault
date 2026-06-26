@@ -6,7 +6,7 @@ source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tuto
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
 local_vault_path: ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md
 quality_score: 70
-archive_score: 81
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on multi-agent architectures, emphasizing agent coordination, communication, and task delegation for complex workflows.
-- **Memory & Reasoning Loops**: Implements advanced memory mechanisms (short/long-term) and iterative reasoning loops for adaptive decision-making in agentic AI.
-- **Agentic Frameworks**: Provides tutorials on agentic RAG, coding, and workflow automation using Jupyter Notebooks, covering frameworks like LangChain, CrewAI, and AutoGe
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed roles, emphasizing inter-agent communication, task delegation, and synchronization mechanisms.
+
+- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines (e.g., reflection, self-correction) to enhance agent decision-making and long-term planning.
+
+- **Agentic workflows**: Demonstrates end-to-end agentic frameworks (e.g., RAG, coding agents) with Jupyter Not
 
 ## Use Cases
 

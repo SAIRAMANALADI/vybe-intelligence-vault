@@ -6,15 +6,17 @@ source_url: https://github.com/jamwithai/production-agentic-rag-course
 resource_id: github:jamwithai/production-agentic-rag-course
 local_vault_path: ai/rag/jamwithai-production-agentic-rag-course.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -24,16 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Course Focus**: A structured educational resource on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python, emphasizing scalable, real-world deployment.
-- **Repository Metrics**: 7,010 GitHub stars and 1,575 forks, indicating high community engagement and adoption potential.
-- **Last Updated**: June 26, 2026 (future-dated), suggesting active maintenance or potential pre-release state.
+- **Repository Overview**: GitHub repository focused on production-grade Agentic RAG (Retrieval-Augmented Generation) systems, with 7,011 stars and 1,574 forks, indicating significant community interest.
+- **Technical Stack**: Implemented in Python, targeting scalable, production-ready RAG architectures with agentic workflows for dynamic information retrieval and generation.
+- **Last Activity**: Last updated on **June 26, 2026**, suggesting ongoing development or maintenance of agentic RAG metho
 
 ## Use Cases
 

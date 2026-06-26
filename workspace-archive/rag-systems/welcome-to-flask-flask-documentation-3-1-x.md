@@ -15,6 +15,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development.
+- **Lightweight WSGI Framework**: Flask is a minimalist WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development with sensible defaults.
 
-- Core components include modular blueprints for application structuring, class-based views, and context management (application/request contexts) for request handling and data isolation.
+- **Modular Architecture**: Supports blueprints for modular application design, enabling separation of concerns, reusable components, and nested routing while maintaining a clean project structure.
 
-- Supports configuration via Python files, environment variables, or instance folders, with built-in debug mode, logging, error handling,
+- **Context Management**: Implements application and request contexts for
 
 ## Use Cases
 

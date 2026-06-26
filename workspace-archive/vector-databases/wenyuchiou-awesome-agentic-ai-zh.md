@@ -17,7 +17,6 @@ tags:
 - hackernews
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including hands-on examples and tutorials.
+- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including hands-on examples.
 
-- **Technical Scope**: Encompasses LLM agents, RAG, prompt engineering, CLI tools (e.g., `claude-code`, `claude-skills`), MCP (Model Context Protocol), and multi-agent workflows, with Python-based implementations.
+- **Technical Scope**: Encompasses agentic workflows, AI agents, LLM agents, RAG, prompt engineering, CLI tools, and Model Context Protocol (MCP), with Python-based implementations and tutorials.
 
-- **Community & Updates**: Actively maintained (last upda
+- **Community & Updates**: Actively maintained (last updated 2026-06-26), with 3,343 star
 
 ## Use Cases
 

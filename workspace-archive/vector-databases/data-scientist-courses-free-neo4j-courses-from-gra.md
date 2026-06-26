@@ -2,7 +2,7 @@
 title: Data Scientist Courses | Free Neo4j Courses from GraphAcademy
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://graphacademy.neo4j.com/categories/data-scientist
+source_url: https://graphacademy.neo4j.com/categories/data-scientist/
 resource_id: blog:data-scientist-courses-free-neo4j-courses-from-gra
 local_vault_path: ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md
 quality_score: 70
@@ -15,7 +15,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data for data science workflows.
-
-- **Data Scientist Courses** include *GDS Fundamentals* (3-4h), *Path Finding with GDS* (1h), and *Applied Algorithms in GDS* (4-5h, upcoming), focusing on graph analytics and algorithmic applications.
-
-- **GraphRAG & Generative AI** are highlighted as key learning paths, with dedicated courses (e.g., *Build a GraphRAG Personal Assistant
+- **Neo4j Graph Data Science (GDS) Library** enables execution of graph algorithms and machine learning pipelines on connected data, with dedicated courses for data scientists (e.g., *GDS Fundamentals*, *Path Finding with GDS*).
+- **GraphRAG & Generative AI Integration** offered via structured learning paths (e.g., *Build a GraphRAG Personal Assistant*) targeting context engineering and AI-driven knowledge graph applications.
+- **Targeted Certifications & Courses** for personas including *Data S
 
 ## Use Cases
 
@@ -46,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://graphacademy.neo4j.com/categories/data-scientist
+Original source URL: https://graphacademy.neo4j.com/categories/data-scientist/
 
 ## Local Vault File
 

@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, coordination mechanisms, and security classifications for autonomous AI coding assistants.
-- **Prompt Engineering & System Prompts**: Focuses on reconstructing effective prompt structures and system-level interactions for agentic AI workflows.
-- **Research & Tools**: Repository contains findings on `claude`-based agentic AI systems, with 2463 stars and 1066 forks as of last update (2026-06-24).
+- **Agentic AI Coding Assistants**: Reverse-engineers prompt patterns and coordination mechanisms in agentic AI systems (e.g., Claude) for autonomous coding tasks.
+- **Security Classification**: Analyzes threat models and vulnerabilities in agentic AI workflows, including prompt injection and privilege escalation risks.
+- **System Prompt Reconstruction**: Deconstructs and optimizes system-level prompts to enhance agent reliability, task decomposition, and inter-agent communication.
 
 ## Use Cases
 

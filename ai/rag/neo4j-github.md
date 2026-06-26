@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-26T04:20:33.058494+05:30'
-collected_at: '2026-06-26T04:20:33.058502+05:30'
+published_at: '2026-06-26T20:22:15.365672+05:30'
+collected_at: '2026-06-26T20:22:15.365688+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-26T04:20:33.058502+05:30'
-last_seen: '2026-06-26T04:20:33.058502+05:30'
-last_checked: '2026-06-26T04:20:33.058502+05:30'
+first_seen: '2026-06-26T20:22:15.365688+05:30'
+last_seen: '2026-06-26T20:22:15.365688+05:30'
+last_checked: '2026-06-26T20:22:15.365688+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j Core Engine**: Open-source graph database implemented in Java (`neo4j/neo4j`), supporting ACID transactions, Cypher query language, and native graph storage with 16.8k+ GitHub stars.
+- **Core Project**: [Neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, providing ACID-compliant transactional capabilities with native graph storage and processing.
 
-- **Multi-Language Drivers**: Official Bolt protocol drivers for Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), and Python (`neo4j-python-driver`), enabling graph operations in heterogeneous environments.
+- **Driver Ecosystem**: Maintains official Bolt protocol drivers for Java, JavaScript, Python, and Scala, enabling cross-language graph database interactions with Apache 2.0 licensing.
 
-- **Graph Data Science Ecosystem**: Dedicated libraries like `graph-data-science` (Java) and `graph-data-science-client` (Python) for scalable graph algorithms (e.g., PageRank, community detection) with Apache 2.0 licensing.
+- **Graph Analytics**: [Graph Data Science (GDS) Library](https://github.com/neo4j/graph-data-science) offers scalable graph algorithms (e.g., PageRank, community detection) integrated with Neo4j’s Cypher query language.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:20:33.058494+05:30
+- Published: 2026-06-26T20:22:15.365672+05:30
 
 ## Related Tags
 

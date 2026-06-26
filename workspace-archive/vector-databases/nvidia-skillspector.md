@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Tool Overview**: SkillSpector is an open-source security scanner designed to analyze AI agent skills for vulnerabilities, malicious patterns, and security risks in Python-based implementations.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
 
-- **Core Functionality**: Scans AI agent skills to detect security flaws, including code injection, privilege escalation, and unintended data exposure, leveraging static and dynamic analysis techniques.
+- **Python-Based**: The tool is implemented in Python, leveraging libraries for abstract syntax tree (AST) parsing and pattern matching to identify security issues.
 
-- **Repository Stats**: Maintained by NVIDIA, with 10,772 stars, 870 forks, and last updated on J
+- **NVIDIA Developed**: Developed by NVIDIA, the scanner is designed to enhance the security posture of AI agent systems by proactively identifying potent
 
 ## Use Cases
 

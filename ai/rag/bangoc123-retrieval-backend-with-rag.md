@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-26T15:24:24.400316+05:30'
+collected_at: '2026-06-26T20:19:44.822208+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
+- benchmark
+- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 263
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-26T15:24:24.400316+05:30'
-last_seen: '2026-06-26T15:24:24.400316+05:30'
-last_checked: '2026-06-26T15:24:24.400316+05:30'
+first_seen: '2026-06-26T20:19:44.822208+05:30'
+last_seen: '2026-06-26T20:19:44.822208+05:30'
+last_checked: '2026-06-26T20:19:44.822208+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing** using Python, leveraging vector databases and embedding models tailored for Vietnamese text.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Vietnamese-focused Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding models, and retrieval strategies optimized for Vietnamese language characteristics.
 
-- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **embedding fine-tuning**, and **retrieval optimization** for low-resource languages.
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and generation, leveraging libraries like `sentence-transformers` and `langchain` for Vietnamese-specific NLP tasks.
 
-- Provides a **production-ready backend** with **FastAPI integration**, supporting **dynamic document ingestion**, **semantic search**, and **LLM inference** with Vietnamese-specific enhancements.
+- **Evaluation & Optimization**: Includes benchmarking scripts for assessing retrieval quality (e.g., MRR, Recall@K) and generation performance, with Vietnamese-specific datasets and metrics to validate end-to-end RAG effectiveness.
 
 ## Why It Matters
 

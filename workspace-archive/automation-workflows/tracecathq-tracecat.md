@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Workflow Engine**: Python-based open-source platform leveraging **Temporal.io** for scalable, event-driven security automation orchestration with **FastAPI** and **Pydantic** for API and data validation.
+- **Platform Overview**: Open-source security automation platform designed for teams and AI agents, combining event-driven workflows with low-code orchestration via Python (FastAPI, Pydantic) and Next.js frontend.
 
-- **AI & LLM Integration**: Supports **AI agents** and **low-code** workflows with **Next.js** frontend, enabling secure automation via **OpenAPI** specifications and **LLM** interactions.
+- **Core Architecture**: Leverages Temporal.io for durable workflow execution and integrates LLM capabilities for AI-driven automation, exposing OpenAPI interfaces for extensibility.
 
-- **Security & Monitoring**: Designed for security operations with **monitoring** capabilities, optim
+- **Key Features**: Supports monitoring, security-focused workflows, and modular event handling, with
 
 ## Use Cases
 

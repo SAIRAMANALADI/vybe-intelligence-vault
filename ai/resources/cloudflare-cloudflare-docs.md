@@ -1,69 +1,43 @@
 ---
-title: cloudflare/cloudflare-docs
+title: Sign in to GitHub · GitHub
 category: ai/resources
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/cloudflare/cloudflare-docs
-collected_at: '2026-06-26T10:16:09.619175+05:30'
-published_at: '2026-06-26T04:20:32Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx
+published_at: '2026-06-26T20:23:31.709611+05:30'
+collected_at: '2026-06-26T20:23:31.709622+05:30'
 tags:
-- frontend_ui
-- github-repo
-- hackernews
-- mdx
-stars: 4868
-language: MDX
+- web-crawled
 status: active
-license: CC-BY-4.0
-archived: false
-created_at: '2020-09-03T20:29:26Z'
-pushed_at: '2026-06-26T04:20:26Z'
 resource_id: github:cloudflare/cloudflare-docs
-first_seen: '2026-06-26T10:16:09.619175+05:30'
-last_seen: '2026-06-26T10:16:09.619175+05:30'
-last_checked: '2026-06-26T10:16:09.619175+05:30'
+first_seen: '2026-06-26T20:23:31.709622+05:30'
+last_seen: '2026-06-26T20:23:31.709622+05:30'
+last_checked: '2026-06-26T20:23:31.709622+05:30'
 health_score: 100
 ---
 
-# cloudflare/cloudflare-docs
+# Sign in to GitHub · GitHub
 
 ## Summary
 
-- **Repository Structure**: Hosts Cloudflare's official documentation in MDX format, enabling dynamic content rendering with React components.
-- **Collaborative Features**: Supports community contributions via Hacktoberfest, with 15,299 forks and 4,868 stars indicating high engagement.
-- **Technical Stack**: Utilizes Markdown for content and MDX for enhanced interactivity, last updated on **2026-06-26**.
+- GitHub authentication failure detected during page load, requiring manual reload.
+- Account creation link provided for new users with return path to Cloudflare Workers AI documentation.
+- Passkey-based authentication option available as an alternative sign-in method.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: cloudflare
-- Stars: 4868
-- Forks: 15299
-- Language: MDX
-- Topics: cloudflare, docs, hacktoberfest, markdown, mdx
-- Last Updated: 2026-06-26T04:20:32Z
-- License: CC-BY-4.0
-- Archived: No
-- Created At: 2020-09-03T20:29:26Z
-- Pushed At: 2026-06-26T04:20:26Z
+- Source: Web Discovery
+- Category: ai/resources
+- Published: 2026-06-26T20:23:31.709611+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/cloudflare/cloudflare-docs
+Original source: https://github.com/cloudflare/cloudflare-docs/edit/production/src/content/docs/workers-ai/index.mdx

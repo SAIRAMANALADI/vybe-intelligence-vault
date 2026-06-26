@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-26T15:26:29.571963+05:30'
+collected_at: '2026-06-26T20:21:49.967186+05:30'
 published_at: '2026-06-22T11:26:21Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
+- workflows
 stars: 607
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-26T15:26:29.571963+05:30'
-last_seen: '2026-06-26T15:26:29.571963+05:30'
-last_checked: '2026-06-26T15:26:29.571963+05:30'
+first_seen: '2026-06-26T20:21:49.967186+05:30'
+last_seen: '2026-06-26T20:21:49.967186+05:30'
+last_checked: '2026-06-26T20:21:49.967186+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **MLGym Framework**: A Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training, evaluating, and benchmarking reinforcement learning (RL) and machine learning (ML) algorithms.
+- **Framework & Benchmark**: MLGym is a Python-based framework and benchmark designed to advance AI research agents, providing structured environments for evaluating and training autonomous agents in machine learning tasks.
 
-- **Benchmark Suite**: Includes standardized tasks and metrics to assess AI agent performance, enabling reproducible research and fair comparisons across different algorithms and configurations.
+- **Modular Architecture**: Implements a modular design with configurable components (e.g., environments, agents, tasks) to enable reproducible experimentation and scalable research workflows.
 
-- **Key Features**: Supports distributed training, integrates with popular ML libraries (e.g., PyTorch, TensorFlow), and offers tools for hyperparameter optimization, logging, and visualization.
+- **Performance Tracking**: Integrates benchmarking tools to systematically assess agent performance across diverse ML tasks, facilitating comparative analysis and reproducibility in AI research.
 
 ## Why It Matters
 

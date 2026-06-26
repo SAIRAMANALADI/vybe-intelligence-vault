@@ -8,7 +8,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Android Developers Blog](https://android-developers.googleblog.com/) (tutorial - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
@@ -20,10 +20,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)
 - [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills)
 - [vercel-labs/workflow-builder-template](https://github.com/vercel-labs/workflow-builder-template)
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-26 15:39 IST*
+*Last updated: 2026-06-26 20:35 IST*

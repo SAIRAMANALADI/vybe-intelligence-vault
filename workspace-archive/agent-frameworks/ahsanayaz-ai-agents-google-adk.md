@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Demonstrates Google ADK (Agent Development Kit) implementation in Python for building a marketing campaign assistant agent.
-- **Metadata**: 60 stars, 33 forks, last updated 2026-06-22T22:33:31Z.
-- **Purpose**: Provides a structured example for integrating Google ADK with agent-based systems for marketing automation.
+- **Google ADK Integration**: Demonstrates implementation of a marketing campaign assistant agent using Google's Agent Development Kit (ADK) in Python.
+
+- **Repository Metadata**: Contains 60 stars, 33 forks, last updated on 2026-06-22, and has no specified topics.
+
+- **Purpose**: Provides a practical example for building AI agents with Google ADK, specifically tailored for marketing campaign automation.
 
 ## Use Cases
 

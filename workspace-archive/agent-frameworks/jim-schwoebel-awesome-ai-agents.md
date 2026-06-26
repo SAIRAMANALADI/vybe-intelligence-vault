@@ -6,7 +6,7 @@ source_url: https://github.com/jim-schwoebel/awesome_ai_agents
 resource_id: github:jim-schwoebel/awesome_ai_agents
 local_vault_path: ai/rag/jim-schwoebel-awesome-ai-agents.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - rag
+- scripts
 - unknown
 - workflows
 selection_reason:
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Resource Hub**: Curated list of **1,500+ tools, frameworks, and resources** focused on AI agents, covering agent-based modeling, multi-agent systems, and agentic workflows.
-- **Multi-Topic Coverage**: Encompasses **20+ subtopics**, including AI agent frameworks, CLI tools, learning resources, and multi-agent system architectures.
-- **High Community Engagement**: **1,852 stars** and **580 forks**, indicating strong adoption and collaborative development in the AI agent ecosystem
+- **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, covering agent-based modeling, multi-agent systems, CLI tools, and workflow automation.
+- **Multi-Topic Coverage**: Encompasses AI agent development, agentic workflows, frameworks (e.g., LangChain, AutoGen), and learning resources under topics like `agentic-ai`, `multi-agent-system`, and `ai-agent-framework`.
+- **Active Maintenance**: Last updated June 26, 2026, with 1,855 stars and
 
 ## Use Cases
 

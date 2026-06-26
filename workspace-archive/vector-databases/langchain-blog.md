@@ -12,8 +12,10 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -31,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Neutrality in Agent Architectures**: Emphasizes that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent systems, ensuring flexibility and avoiding dependency on proprietary model APIs.
+- **Model Neutrality in Agent Architecture**: Prioritizing model neutrality over cloud neutrality ensures flexibility in agent deployment, avoiding vendor lock-in and enabling optimal model selection based on performance and cost, rather than infrastructure constraints.
 
-- **Efficient Verifiers for Legal Agents**: Introduces specialized verifier architectures for legal agents, leveraging domain-specific constraints to improve accuracy and reduce hallucinations in high-stakes applications.
-
-- **LangSmith Engi
+- **Efficient Verifiers for Legal Agents**: Legal agents require specialized verification mechanisms to ensure compliance and accuracy; designing lightweight, domain-specific verifiers reduces computational overhead while mainta
 
 ## Use Cases
 
