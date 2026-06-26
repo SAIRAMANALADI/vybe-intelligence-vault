@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-26 04:47 IST</p>
+        <p><b>Last Update:</b> 2026-06-26 08:27 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,18 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Apple raises prices of MacBooks, iPads](ai/community/apple-raises-prices-of-macbooks-ipads.md)** • <kbd>+105 pts</kbd>
-- 🔼 **[Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion](ai/community/inkeep-open-knowledge.md)** • <kbd>+92 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs](ai/community/decrazyo-anes.md)** • <kbd>+29 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[The annotated PyTorch training loop](ai/community/the-annotated-pytorch-training-loop.md)** • <kbd>+24 pts</kbd>
-- 🔼 **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** • Rank: <kbd>+639</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[OpenAI Leans Toward Waiting Until Next Year for IPO](ai/community/openai-leans-toward-waiting-until-next-year-for-ip.md)** • Score: `48`
-- 🆕 **[Release History - The Go Programming Language](ai/resources/release-history-the-go-programming-language.md)** • Score: `0`
-- 🆕 **[cockroachdb/cockroach](ai/rag/cockroachdb-cockroach.md)** • Score: `0`
-- 🆕 **[go](ai/resources/go.md)** • Score: `0`
-- 🆕 **[Go Modules Reference - The Go Programming Language](ai/rag/go-modules-reference-the-go-programming-language.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Political bias in AI: Where the AI models stand](ai/community/political-bias-in-ai-where-the-ai-models-stand.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
