@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-27T01:42:29.984730+05:30'
+collected_at: '2026-06-27T04:09:43.431878+05:30'
 published_at: '2026-06-25T15:07:30Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-27T01:42:29.984730+05:30'
-last_seen: '2026-06-27T01:42:29.984730+05:30'
-last_checked: '2026-06-27T01:42:29.984730+05:30'
+first_seen: '2026-06-27T04:09:43.431878+05:30'
+last_seen: '2026-06-27T04:09:43.431878+05:30'
+last_checked: '2026-06-27T04:09:43.431878+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates GitHub Copilot enhancement files (instructions, prompts, MCPs, agent markdowns) for AI agent customization and skill expansion.
-- **Technical Scope**: Covers TypeScript-based agent skills, prompt engineering, and VS Code Copilot Chat integration with GitHub Copilot.
-- **Repository Metrics**: 540 stars, 85 forks, last updated June 25, 2026, under the topics `agent-skills`, `ai-agents`, and `prompt-engineering`.
+- **Curated Repository**: Hosts a structured collection of GitHub Copilot enhancement resources, including instructions, prompts, skills, MCPs, and agent markdown files.
+- **Technical Scope**: Focuses on AI agent development, prompt engineering, and VS Code Copilot Chat integration with TypeScript-based implementations.
+- **Metadata**: 540 stars, 85 forks, last updated June 25, 2026, covering topics like `agent-skills`, `custom-agents`, and `prompt-engineering`.
 
 ## Why It Matters
 

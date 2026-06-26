@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated list of 300+ agentic AI resources, including tools, frameworks, research papers, and applications focused on autonomous AI agents.
-- **Technical Stack**: Primarily Python-based, with resources spanning agent architectures, multi-agent systems, reinforcement learning, and LLM-driven agent frameworks.
-- **Community & Maintenance**: Actively maintained (last updated June 2026) with 1,522 stars and 414 forks, indicating strong community engagement and contribution.
+- **Curated Resource Hub**: GitHub repository hosting 300+ agentic AI resources, including tools, frameworks, and research papers for AI agents.
+- **Metrics**: 1,522 stars and 414 forks, indicating significant community engagement and adoption.
+- **Technical Scope**: Primarily Python-based, focusing on agentic AI systems, with last update on 2026-06-26.
 
 ## Use Cases
 

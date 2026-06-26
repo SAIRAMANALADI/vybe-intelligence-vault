@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured trace analysis and code diagnostics.
+- **Unified Agent Lifecycle Management**: LangSmith provides a framework-agnostic platform for **observability, evaluation, deployment, and fleet management** of AI agents, supporting Python, TypeScript, Go, and Java SDKs with native tracing for popular frameworks and OpenTelemetry.
 
-- **Multi-Layered Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, human feedback), deployment (fault-tolerant runtime, A2A/MCP protocol), and fleet management (enterprise-grade automation).
-
-- **Open-Source Frameworks**: Provides `deepagents` (autonomous agents), `langchai
+- **Autonomous Debugging & Scalability**: **LangSmith Engine** autonomously clusters production failures, diagnoses root causes, and proposes fixes, while the **agent server** enables fault-tolerant, scalable deploy
 
 ## Use Cases
 

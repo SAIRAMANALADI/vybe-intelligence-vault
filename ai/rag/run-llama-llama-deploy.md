@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama_deploy
-collected_at: '2026-06-25T20:51:21.585214+05:30'
+collected_at: '2026-06-27T04:14:09.345234+05:30'
 published_at: '2026-06-09T17:23:27Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- scripts
 - workflows
 stars: 2068
 language: Python
@@ -24,9 +22,9 @@ archived: false
 created_at: '2024-05-29T16:52:16Z'
 pushed_at: '2026-04-06T20:36:41Z'
 resource_id: github:run-llama/llama_deploy
-first_seen: '2026-06-25T20:51:21.585214+05:30'
-last_seen: '2026-06-25T20:51:21.585214+05:30'
-last_checked: '2026-06-25T20:51:21.585214+05:30'
+first_seen: '2026-06-27T04:14:09.345234+05:30'
+last_seen: '2026-06-27T04:14:09.345234+05:30'
+last_checked: '2026-06-27T04:14:09.345234+05:30'
 health_score: 100
 ---
 
@@ -34,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Enables deployment of agentic workflows to production, leveraging LLM-based multi-agent systems with native support for LlamaIndex integration.
+- **Framework for Agentic Workflows**: Python-based framework (`llama_deploy`) designed to deploy production-ready agentic workflows with support for multi-agent systems and LLM integration (e.g., LlamaIndex).
 
-- **Key Features**: Supports modular agent composition, scalable workflow execution, and production-grade deployment pipelines for LLM-driven applications.
+- **Production Deployment**: Enables scalable deployment of agentic systems with tools for managing workflows, state, and inter-agent communication in distributed environments.
 
-- **Technical Stack**: Python-based framework optimized for multi-agent orchestration, LLM integration, and deployment automation with real-time updates (last commit: 2026-06-09).
+- **Key Features**: Supports LLM orchestration, modular agent design, and integrates with LlamaIndex for retrieval-augmented workflows; actively maintained (last update: 2026-06-09).
 
 ## Why It Matters
 
@@ -48,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: run-llama
 - Stars: 2068
-- Forks: 226
+- Forks: 225
 - Language: Python
 - Topics: agents, deployment, framework, llamaindex, llm, multi-agents
 - Last Updated: 2026-06-09T17:23:27Z

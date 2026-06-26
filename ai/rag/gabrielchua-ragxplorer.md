@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-27T01:41:14.893082+05:30'
+collected_at: '2026-06-27T04:08:28.392862+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1221
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-27T01:41:14.893082+05:30'
-last_seen: '2026-06-27T01:41:14.893082+05:30'
-last_checked: '2026-06-27T01:41:14.893082+05:30'
+first_seen: '2026-06-27T04:08:28.392862+05:30'
+last_seen: '2026-06-27T04:08:28.392862+05:30'
+last_checked: '2026-06-27T04:08:28.392862+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling users to interactively explore and debug RAG workflows.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Tech Stack**: Built with Python, Streamlit for UI, and integrates with LLMs; designed for modularity and extensibility in RAG system analysis.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, facilitating real-time visualization of RAG components (e.g., document retrieval, LLM responses) with dynamic, browser-based interaction.
 
-- **Features**: Real-time visualization of retrieval, generation, and intermediate steps; supports custom datasets and model integration; last updated June 2026.
+- **Python-Based Analysis**: Leverages Python for backend processing, supporting custom RAG workflows, and includes tools for evaluating retrieval quality, latency, and response accuracy via interactive notebooks.
 
 ## Why It Matters
 

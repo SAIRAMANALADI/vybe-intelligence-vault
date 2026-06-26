@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-27T01:43:15.000235+05:30'
+collected_at: '2026-06-27T04:10:28.442183+05:30'
 published_at: '2026-06-26T06:02:33Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-27T01:43:15.000235+05:30'
-last_seen: '2026-06-27T01:43:15.000235+05:30'
-last_checked: '2026-06-27T01:43:15.000235+05:30'
+first_seen: '2026-06-27T04:10:28.442183+05:30'
+last_seen: '2026-06-27T04:10:28.442183+05:30'
+last_checked: '2026-06-27T04:10:28.442183+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to agentic engineering using Codex CLI, emphasizing structured automation and multi-agent collaboration for complex tasks.
-- **Context & Hook Engineering**: Implements advanced context engineering with Codex hooks to dynamically manage AI agent states, enabling adaptive workflows and skill-based task execution.
-- **CLI Command Optimization**: Provides best practices for Codex CLI commands, including modular skill definitions, state management, and agentic debugging for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from traditional "vibe coding" to agentic engineering using Codex CLI, emphasizing modular, reusable agentic workflows and hooks for automation.
+
+- **CLI-Centric Best Practices**: Focuses on Codex CLI-specific optimizations, including skill management, context engineering, and command chaining to enhance AI-driven development efficiency and reproducibility.
+
+- **Open-Source Contribution Framework**: Offers a Pakistan-centric open-source template for AI agent development, with documented best practices for community collaboration, skill sharing, and CLI-based agent orchestration.
 
 ## Why It Matters
 

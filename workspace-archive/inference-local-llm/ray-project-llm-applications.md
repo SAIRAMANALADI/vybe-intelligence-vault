@@ -8,9 +8,11 @@ local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
+- benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -29,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with notebooks covering end-to-end pipelines from retrieval to LLM inference.
-- **Multi-LLM Support**: Includes examples for integrating models like Llama2, OpenAI APIs, and fine-tuned variants, with emphasis on scalability via Ray’s actor model and resource management.
-- **Deployment & Optimization**: Provides guidance on fine-tuning, batch inference, a
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows leveraging Ray for distributed serving, combining vector search (e.g., FAISS/Annoy) with LLMs (e.g., Llama2) for low-latency inference.
+- **Multi-Model Serving**: Implements Ray Serve for dynamic model loading/unloading of OpenAI-compatible and custom fine-tuned LLMs, optimizing GPU resource allocation via Ray’s autoscaling.
+- **Fine-Tuning & Evaluation**: Provides notebooks for supervise
 
 ## Use Cases
 

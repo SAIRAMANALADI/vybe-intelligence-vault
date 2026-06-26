@@ -6,7 +6,7 @@ source_url: https://supabase.com
 resource_id: blog:supabase-the-postgres-development-platform
 local_vault_path: ai/rag/supabase-the-postgres-development-platform.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -20,7 +20,6 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -29,19 +28,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Postgres-based platform** integrating core backend services (Auth, Storage, Realtime, Edge Functions) with **vector embeddings** for AI/ML workloads, all built atop a **fully portable, RLS-enabled Postgres database**.
+- **PostgreSQL-based platform** providing a full relational database with built-in authentication (RLS), RESTful APIs, and real-time capabilities via a managed cloud service.
 
-- **Serverless execution model** via Edge Functions for custom logic, **instant RESTful APIs** for CRUD operations, and **real-time synchronization** for multiplayer or event-driven architectures.
+- **Modular backend services** including Edge Functions for serverless compute, Storage for large file handling, and Vector embeddings for ML model integration (OpenAI, Hugging Face).
 
-- **Scalable infrastructure** with built-in auth scaling (e.g., 1M users in 7 m
+- **Scalable infrastructure** with instant deployment, automatic scaling, and enterprise-grade security, trusted by companies like Mozilla,
 
 ## Use Cases
 

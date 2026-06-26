@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers, spanning autonomous agents, multi-agent systems, and agent-based simulations.
-- **Multi-Domain Coverage**: Includes resources for task automation, conversational agents, reinforcement learning agents, and agent orchestration platforms across industries like robotics, finance, and healthcare.
-- **Open-Source Focus**: Primarily features open-source projects with GitHub repositor
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, tools, and research papers for autonomous agent development.
+- **Multi-Domain Coverage**: Encompasses agents for task automation, conversational AI, multi-agent systems, and reinforcement learning applications.
+- **Active Maintenance**: Last updated in 2026, ensuring inclusion of recent advancements and tools in the AI agent ecosystem.
 
 ## Use Cases
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-27T01:42:19.940034+05:30'
+collected_at: '2026-06-27T04:09:33.419873+05:30'
 published_at: '2026-06-26T08:49:25Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - rag
 - unknown
-- workflows
 stars: 780
 language: Unknown
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-27T01:42:19.940034+05:30'
-last_seen: '2026-06-27T01:42:19.940034+05:30'
-last_checked: '2026-06-27T01:42:19.940034+05:30'
+first_seen: '2026-06-27T04:09:33.419873+05:30'
+last_seen: '2026-06-27T04:09:33.419873+05:30'
+last_checked: '2026-06-27T04:09:33.419873+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List**: Repository aggregates cutting-edge resources on agentic deep research, focusing on ACL 2026 KnowFM contributions, covering agentic RAG, reasoning agents, and LLM-driven search methodologies.
-
-- **Technical Scope**: Encompasses topics such as deep research agents, reasoning agents, and advanced retrieval-augmented generation (RAG) techniques, emphasizing large language models (LLMs) and their integration into research workflows.
-
-- **Metrics**: Maintains 780 stars and 63 forks as of the last update (June 26, 2026), reflecting active community engagement and relevance in the AI research domain.
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and LLM-driven search methodologies for complex knowledge synthesis.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s KnowFM track, emphasizing multi-agent collaboration, dynamic knowledge retrieval, and structured reasoning pipelines for high-fidelity research outputs.
+- **Technical Scope**: Covers reasoning architectures, search-agent frameworks, and evaluation benchmarks for deep research tasks, including hybrid retrieval, memory-augmented reasoning, and adaptive query refinement.
 
 ## Why It Matters
 

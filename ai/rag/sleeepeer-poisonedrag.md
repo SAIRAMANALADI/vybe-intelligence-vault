@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-27T01:41:59.861205+05:30'
+collected_at: '2026-06-27T04:09:13.339235+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-27T01:41:59.861205+05:30'
-last_seen: '2026-06-27T01:41:59.861205+05:30'
-last_checked: '2026-06-27T01:41:59.861205+05:30'
+first_seen: '2026-06-27T04:09:13.339235+05:30'
+last_seen: '2026-06-27T04:09:13.339235+05:30'
+last_checked: '2026-06-27T04:09:13.339235+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks against Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, forcing LLMs to generate attacker-desired outputs while maintaining stealth.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to mislead LLMs into generating adversarial outputs.
 
-- **Technical Implementation**: Leverages adversarial document embedding techniques (e.g., trigger-based or semantic poisoning) to manipulate retrieval rankings and embed hidden backdoors in RAG pipelines, bypassing conventional safety filters.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines via *semantic poisoning*—embedding adversarial documents that alter retrieval rankings and induce incorrect or harmful responses from downstream LLMs.
 
-- **Evaluation & Impact**: Validated on multiple RAG architectures (e.g., dense/sparse retrievers + LLMs) with empirical results showing high attack success rates (e.g., >90% targeted misclassification) while evading detection via obfuscation and benign-looking perturbations.
+- **Mitigation Challenges**: Highlights the difficulty of defending against such attacks due to reliance on untrusted external corpora, proposing preliminary detection and filtering strategies to mitigate poisoning risks.
 
 ## Why It Matters
 

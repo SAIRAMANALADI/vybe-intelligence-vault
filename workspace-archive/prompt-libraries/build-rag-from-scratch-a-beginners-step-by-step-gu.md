@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
+- hackernews
 - openai
 - rag
 - web-crawled
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by limiting answers to provided context.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using a two-step process: (1) **semantic retrieval** via FAISS vector store (indexing document chunks with OpenAI embeddings) and (2) **context-constrained generation** using a prompt template that forces the LLM to answer only from retrieved context, with fallback to "I don't know" for out-of-context queries.
 
-- **Modular Architecture**: Structured into four components—`document_loader.py` (splits text into 300-token chunks with 50-token overlap), `vector_store.py` (stores embeddings in FAISS), `rag_chain.py` (defines prompt template and LLM integration), and `main.py` (
+- **Modular Architecture**: Follows a clean separation of concerns with four core components: `document_loader.py` (
 
 ## Use Cases
 

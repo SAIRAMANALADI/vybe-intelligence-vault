@@ -1,0 +1,55 @@
+---
+title: hllqkb/Spring-AI-Ailibaba-Best-Practices
+archive_category: llm-app-templates
+source_category: ai/rag
+source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
+resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
+local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- agents
+- github-repo
+- java
+- rag
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# hllqkb/Spring-AI-Ailibaba-Best-Practices
+
+## Why This Is In The Archive
+
+- Matched archive category: `LLM App Templates`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calls for hybrid retrieval, supporting text, images, and structured data.
+
+- **Agentic Workflows**: Deploys AI agents with stateful history management (SSE streaming) for dynamic decision-making, integrating tool use (FunctionCall) and multi-turn conversational memory.
+
+- **End-to-End Java Stack**: Leverages Spring AI with Alibaba Cloud services for em
+
+## Use Cases
+
+- Rapid project starts
+- Boilerplate reference
+- FastAPI/Next.js architectures
+
+## Source
+
+Original source URL: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
+
+## Local Vault File
+
+Path: [hllqkb-spring-ai-ailibaba-best-practices.md](../../ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md)

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-27T01:41:34.927436+05:30'
+collected_at: '2026-06-27T04:08:48.373391+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-27T01:41:34.927436+05:30'
-last_seen: '2026-06-27T01:41:34.927436+05:30'
-last_checked: '2026-06-27T01:41:34.927436+05:30'
+first_seen: '2026-06-27T04:08:48.373391+05:30'
+last_seen: '2026-06-27T04:08:48.373391+05:30'
+last_checked: '2026-06-27T04:08:48.373391+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements a Java-based AI Q&A system leveraging Spring AI with Alibaba Cloud integrations, featuring SSE streaming, Agent-based workflows, and RAG pipelines for knowledge graph-enhanced retrieval.
-- **Capabilities**: Supports function calling, historical message management, image generation/understanding, embedding models, and vector database integration (e.g., Chroma, Milvus) for advanced RAG.
-- **Technologies**: Utilizes Java with Spring AI, embedding models (e.g., BAAI/bge), vector databases, and multimodal processing (e.g., image generation via Stable Diffusion or similar).
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calls for hybrid retrieval, supporting text, images, and structured data.
+
+- **Agentic Workflows**: Deploys AI agents with stateful history management (SSE streaming) for dynamic decision-making, integrating tool use (FunctionCall) and multi-turn conversational memory.
+
+- **End-to-End Java Stack**: Leverages Spring AI with Alibaba Cloud services for embedding models, vector search (e.g., Milvus/Weaviate), and image generation/understanding via APIs.
 
 ## Why It Matters
 

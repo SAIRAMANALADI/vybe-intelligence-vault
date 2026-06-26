@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.ai/
-published_at: '2026-06-27T01:46:34.515789+05:30'
-collected_at: '2026-06-27T01:46:34.515804+05:30'
+published_at: '2026-06-27T04:12:17.966693+05:30'
+collected_at: '2026-06-27T04:12:17.966706+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:speechify-ai-voice-ai-research-lab
-first_seen: '2026-06-27T01:46:34.515804+05:30'
-last_seen: '2026-06-27T01:46:34.515804+05:30'
-last_checked: '2026-06-27T01:46:34.515804+05:30'
+first_seen: '2026-06-27T04:12:17.966706+05:30'
+last_seen: '2026-06-27T04:12:17.966706+05:30'
+last_checked: '2026-06-27T04:12:17.966706+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Streaming-native Simba 3.0 model** with sub-100ms time-to-first-byte, granular emotion control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody support across expanding languages.
+- **Streaming-native Simba 3.0 model**: Achieves lower time-to-first-byte than predecessors, supports fine-grained emotional control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody control with expanding language coverage.
 
-- **Multilingual & emotional synthesis** with native-quality output in 30+ locales (e.g., en-US, es-MX, fr-FR) and prosody-level emotion modeling (timbre, cadence, micro-expressions) beyond pitch/speed adjustments.
+- **Zero-shot voice cloning & emotion control**: Captures speaker identity (timbre, cadence, micro-expressions) from minimal input; models emotion at prosody level (rhythmic/tonal patterns) beyond speed/pitch, enabling consistent text with varied emotional expressions.
 
-- **Unified API** for streaming, voice cloning, and emotion control; example curl implementation demonstrates minimal (<10 lines) integration for MP3 output generation with voice_id and locale parameters.
+- **Multilingual synthesis & unified API**: Delivers native-quality speech across 30+ locales using locale-specific voices; single API endpoint integrates streaming, voice cloning, and emotion control with minimal code (e.g., `curl` example provided).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:46:34.515789+05:30
+- Published: 2026-06-27T04:12:17.966693+05:30
 
 ## Related Tags
 

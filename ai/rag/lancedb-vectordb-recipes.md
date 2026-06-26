@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-27T01:40:54.936275+05:30'
+collected_at: '2026-06-27T04:08:08.353556+05:30'
 published_at: '2026-06-25T15:06:50Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-27T01:40:54.936275+05:30'
-last_seen: '2026-06-27T01:40:54.936275+05:30'
-last_checked: '2026-06-27T01:40:54.936275+05:30'
+first_seen: '2026-06-27T04:08:08.353556+05:30'
+last_seen: '2026-06-27T04:08:08.353556+05:30'
+last_checked: '2026-06-27T04:08:08.353556+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and large language models (LLMs) like GPT-4 Vision.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and Large Language Models (LLMs).
 
-- **Integration of Tools & Frameworks**: Demonstrates workflows combining LanceDB (vector database), LangChain, LlamaIndex, and OpenAI embeddings for fine-tuning, agent-based systems, and multimodal applications.
+- **Integration of Key Libraries**: Demonstrates integration with tools like LangChain, LlamaIndex, OpenAI (GPT-4 Vision), and LanceDB for embeddings, fine-tuning, and vector database operations.
 
-- **Technical Focus Areas**: Covers deep learning, embeddings generation, vector database operations, and agent architectures, with updates as recent as June 2026.
+- **Technical Focus Areas**: Covers deep learning, embeddings, fine-tuning, and multimodal AI workflows, emphasizing practical implementations in Jupyter Notebooks for AI/ML pipelines.
 
 ## Why It Matters
 

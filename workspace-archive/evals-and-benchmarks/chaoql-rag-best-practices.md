@@ -6,18 +6,19 @@ source_url: https://github.com/chaoql/rag-best-practices
 resource_id: github:chaoql/rag-best-practices
 local_vault_path: ai/rag/chaoql-rag-best-practices.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 79
+archive_tier: useful
+resource_kind: framework
+importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # chaoql/rag-best-practices
@@ -25,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on best practices for **Retrieval-Augmented Generation (RAG)** with large language models (LLMs), last updated June 22, 2026.
-- **Scale & Activity**: Moderate community engagement with **92 stars** and **10 forks**, indicating niche but active interest in RAG optimization.
-- **Purpose**: Provides structured guidelines and implementations for enhancing LLM performance via **retrieval-augmented techniques**, e
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for document retrieval, embedding generation, and LLM integration in Python.
+- **Dynamic Retrieval Strategies**: Supports adaptive retrieval techniques (e.g., query rewriting, multi-hop retrieval) to enhance context relevance for large language models (LLMs).
+- **Evaluation & Benchmarking**: Includes standardized metrics and tools for assessing RAG system performance (e.g., re
 
 ## Use Cases
 

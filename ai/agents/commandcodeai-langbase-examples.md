@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/CommandCodeAI/langbase-examples
-collected_at: '2026-06-27T01:43:10.044478+05:30'
+collected_at: '2026-06-27T04:10:23.467451+05:30'
 published_at: '2026-06-19T07:27:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-28T18:31:33Z'
 pushed_at: '2026-05-15T21:04:04Z'
 resource_id: github:commandcodeai/langbase-examples
-first_seen: '2026-06-27T01:43:10.044478+05:30'
-last_seen: '2026-06-27T01:43:10.044478+05:30'
-last_checked: '2026-06-27T01:43:10.044478+05:30'
+first_seen: '2026-06-27T04:10:23.467451+05:30'
+last_seen: '2026-06-27T04:10:23.467451+05:30'
+last_checked: '2026-06-27T04:10:23.467451+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 - **Serverless AI Agents**: Demonstrates open-source, serverless AI agent implementations using Langbase, enabling scalable and event-driven AI workflows without infrastructure management.
 
-- **Composable AI Pipes & Memory**: Provides TypeScript examples for modular AI pipelines (`composable-ai`) and persistent memory systems, showcasing stateful AI interactions with reusable components.
+- **Composable AI Pipes & Memory**: Provides examples of modular AI pipelines and stateful memory systems, illustrating how to chain AI components and maintain context across interactions.
 
-- **Langbase Integration**: Includes practical use cases for Langbase's ecosystem, illustrating how to deploy AI agents, manage memory, and orchestrate composable AI workflows in production-ready examples.
+- **TypeScript-Based Examples**: Contains TypeScript implementations for AI agent orchestration, showcasing best practices in composable AI architecture and Langbase integration.
 
 ## Why It Matters
 

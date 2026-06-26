@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-06-27T01:41:39.866760+05:30'
+collected_at: '2026-06-27T04:08:53.365794+05:30'
 published_at: '2026-06-26T15:24:28Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 1270
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-11T13:11:48Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-06-27T01:41:39.866760+05:30'
-last_seen: '2026-06-27T01:41:39.866760+05:30'
-last_checked: '2026-06-27T01:41:39.866760+05:30'
+first_seen: '2026-06-27T04:08:53.365794+05:30'
+last_seen: '2026-06-27T04:08:53.365794+05:30'
+last_checked: '2026-06-27T04:08:53.365794+05:30'
 health_score: 100
 ---
 
@@ -28,8 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated list of Retrieval-Augmented Generation (RAG) applications.
-*
+- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering LLMs, vector databases, and evaluation methodologies.
+- **Active Maintenance**: Last updated June 26, 2026, with 1,270 stars and 156 forks, indicating ongoing community engagement and updates.
+- **Multi-Topic Focus**: Covers core RAG topics including artificial intelligence, generative AI, large language models (LLMs), and retrieval-augmented generation techniques.
 
 ## Why It Matters
 

@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-06-27T01:43:40.011146+05:30'
-published_at: '2026-06-26T08:56:13Z'
+collected_at: '2026-06-27T04:10:53.519902+05:30'
+published_at: '2026-06-26T22:32:48Z'
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - unknown
 - workflows
-stars: 2465
+stars: 2464
 language: Unknown
 status: active
 archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-06-27T01:43:40.011146+05:30'
-last_seen: '2026-06-27T01:43:40.011146+05:30'
-last_checked: '2026-06-27T01:43:40.011146+05:30'
+first_seen: '2026-06-27T04:10:53.519902+05:30'
+last_seen: '2026-06-27T04:10:53.519902+05:30'
+last_checked: '2026-06-27T04:10:53.519902+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding workflows.
-- **Prompt Engineering & System Prompts**: Deconstructs reconstructed prompt patterns used in agentic AI systems, focusing on Claude and similar frameworks for multi-agent collaboration.
-- **Research & Classification**: Provides a structured security classification framework for agentic AI coding assistants, including evaluation of risks and mitigation strategies.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing multi-agent system interactions and task delegation.
+
+- **Security Classification**: The repository classifies security risks and mitigation strategies for agentic AI systems, including prompt injection, data leakage, and unauthorized tool execution.
+
+- **System Prompts & Tools**: Documents optimized system prompts for agentic workflows (e.g., Claude-based assistants) and tool integration patterns for dynamic code analysis, debugging, and generation.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Leonxlnx
-- Stars: 2465
+- Stars: 2464
 - Forks: 1067
 - Language: Unknown
 - Topics: agentic-ai, ai-research, claude, prompt-engineering, system-prompts
-- Last Updated: 2026-06-26T08:56:13Z
+- Last Updated: 2026-06-26T22:32:48Z
 - Archived: No
 - Created At: 2026-03-31T11:47:04Z
 - Pushed At: 2026-03-31T19:04:33Z

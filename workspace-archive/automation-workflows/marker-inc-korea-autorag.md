@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Framework automates end-to-end RAG pipeline optimization (retrieval, augmentation, generation) using AutoML techniques, eliminating manual hyperparameter tuning via adaptive search strategies (e.g., Bayesian optimization, evolutionary algorithms).
+- **AutoML-driven RAG optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and post-processing) via black-box optimization techniques, eliminating manual configuration.
 
-- **Comprehensive Evaluation Suite**: Integrates multi-dimensional RAG evaluation metrics (relevance, faithfulness, latency, cost) with built-in benchmarks (e.g., MS MARCO, TriviaQA) and custom dataset support for
+- **Comprehensive RAG evaluation**: Integrates multi-metric benchmarking (e.g., relevance, faithfulness, latency) with standardized datasets to quantify performance across retrieval, LLM decoding, and hybrid components.
+
+- **Modular Python framework**: Supports pluggable components (embedding models,
 
 ## Use Cases
 

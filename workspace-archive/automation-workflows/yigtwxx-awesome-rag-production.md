@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade RAG systems, covering AI engineering, LLMOps, and MLOps workflows.
-
-- **Comprehensive Technical Stack**: Includes Python-based tools for embeddings, vector databases, LangChain integration, and large language models (LLMs), with focus on deployment, scalability, and reliability.
-
-- **Actively Maintained & Community-Driven**: Last updated June 2026
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, focusing on battle-tested solutions.
+- **Technical scope**: Covers core components such as embeddings, vector databases, LLMOps, and integration with frameworks like LangChain, emphasizing AI engineering and MLOps workflows.
+- **Python-centric**: Entirely Python-based, with a structured list of resources last updated in mid-2026, targeti
 
 ## Use Cases
 

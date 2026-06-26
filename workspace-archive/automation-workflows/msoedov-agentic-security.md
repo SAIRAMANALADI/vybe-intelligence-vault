@@ -35,12 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner is an AI red-teaming framework designed to evaluate and test Large Language Model (LLM) security vulnerabilities, including jailbreaks, prompt injections, and guardrail bypasses.
+- **Framework Overview**: Python-based agentic security toolkit (`msoedov/agentic_security`) for LLM vulnerability scanning, red teaming, and fuzzing, integrating agent frameworks, guardrails, and jailbreak detection.
 
-- **Features**:
-  - Supports **LLM fuzzing** and **prompt testing** via an extensible agent-based framework.
-  - Aggregates and automates security evaluations across multiple LLM vulnerabilities (e.g., adversarial prompts, data exfiltration risks).
-  - Includes built-in
+- **Core Capabilities**: Supports LLM evaluation, prompt testing, and vulnerability aggregation via modular components for fuzzing, jailbreak detection, and security assessment.
+
+- **Technical Scope**: Encompasses LLM security domains (e.g., prompt injection, adversarial attacks)
 
 ## Use Cases
 

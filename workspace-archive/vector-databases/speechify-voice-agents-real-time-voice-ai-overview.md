@@ -35,7 +35,7 @@ selection_reason:
 
 - **Real-time voice interaction framework** leveraging Speechify API with sub-2s per-turn latency, enabling conversational AI agents via `POST /v1/agents/{id}/conversations` for session provisioning and token-based WebSocket connections.
 
-- **Modular agent architecture** supporting dynamic prompt configuration, curated Speechify voices (excluding cloned/personal TTS voices), and extensible tool integration (webhook, client-side, MCP, or built-ins like `end_call`/`transfer_to_number`) with full t
+- **Modular agent architecture** supporting Speechify voices (excluding cloned/personal TTS-only voices), extensible tools (webhook, client, MCP, built-ins like `end_call`), and automated post-call evaluation with LLM-graded criteria and structured data extract
 
 ## Use Cases
 

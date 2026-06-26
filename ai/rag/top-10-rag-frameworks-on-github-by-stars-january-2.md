@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-06-27T01:40:40.482613+05:30'
-collected_at: '2026-06-27T01:40:40.482626+05:30'
+published_at: '2026-06-27T04:07:54.939106+05:30'
+collected_at: '2026-06-27T04:07:54.939119+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-06-27T01:40:40.482626+05:30'
-last_seen: '2026-06-27T01:40:40.482626+05:30'
-last_checked: '2026-06-27T01:40:40.482626+05:30'
+first_seen: '2026-06-27T04:07:54.939119+05:30'
+last_seen: '2026-06-27T04:07:54.939119+05:30'
+last_checked: '2026-06-27T04:07:54.939119+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines.
-- **RAGFlow** (⭐70K): Python-based "deep document understanding" framework with advanced parsing (tables, images, PDFs) and grounded citations for enterprise RAG.
-- **Pathway** (⭐50K+): Python (Rust runtime) framework specializing in real-time data processing with 350+ connectors and incremental updates for live knowledge bases.
+- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for stateful workflows, ideal for complex RAG pipelines.
+- **RAGFlow**: Python-based framework (70K+ stars) specializing in deep document parsing (tables, images, PDFs) with template-based chunking and grounded citations for enterprise-grade RAG.
+- **Pathway**: Python/Rust framework (50K+ stars) enabling real-time data processing with 350+ connectors, incremental updates, and unified ETL+RAG for dynamic knowledge bases.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:40:40.482613+05:30
+- Published: 2026-06-27T04:07:54.939106+05:30
 
 ## Related Tags
 

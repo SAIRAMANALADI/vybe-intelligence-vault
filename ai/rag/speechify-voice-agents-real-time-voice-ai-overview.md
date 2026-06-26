@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-06-27T01:44:58.276623+05:30'
-collected_at: '2026-06-27T01:44:58.276636+05:30'
+published_at: '2026-06-27T04:12:22.617843+05:30'
+collected_at: '2026-06-27T04:12:22.617854+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechify-voice-agents-real-time-voice-ai-overview
-first_seen: '2026-06-27T01:44:58.276636+05:30'
-last_seen: '2026-06-27T01:44:58.276636+05:30'
-last_checked: '2026-06-27T01:44:58.276636+05:30'
+first_seen: '2026-06-27T04:12:22.617854+05:30'
+last_seen: '2026-06-27T04:12:22.617854+05:30'
+last_checked: '2026-06-27T04:12:22.617854+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 - **Real-time voice interaction framework** leveraging Speechify API with sub-2s per-turn latency, enabling conversational AI agents via `POST /v1/agents/{id}/conversations` for session provisioning and token-based WebSocket connections.
 
-- **Modular agent architecture** supporting dynamic prompt configuration, curated Speechify voices (excluding cloned/personal TTS voices), and extensible tool integration (webhook, client-side, MCP, or built-ins like `end_call`/`transfer_to_number`) with full transcript persistence and post-call LLM evaluation.
+- **Modular agent architecture** supporting Speechify voices (excluding cloned/personal TTS-only voices), extensible tools (webhook, client, MCP, built-ins like `end_call`), and automated post-call evaluation with LLM-graded criteria and structured data extraction.
 
-- **Production-ready IVR replacement** for inbound/outbound workflows, deployable via no-code console or API, with automated structured data extraction and webhook-based lifecycle event notifications.
+- **Production-ready deployment** with full transcript persistence, lifecycle event handling, and no-code console workflows for prompt configuration, voice selection, knowledge attachment, and phone number integration.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:44:58.276623+05:30
+- Published: 2026-06-27T04:12:22.617843+05:30
 
 ## Related Tags
 

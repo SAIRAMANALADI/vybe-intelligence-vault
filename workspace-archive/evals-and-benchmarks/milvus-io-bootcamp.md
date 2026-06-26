@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) with 2.4k stars and 687 forks, containing tutorials for vector database applications, including a Jupyter notebook (`build_RAG_with_milvus.ipynb`) for building RAG pipelines with Milvus.
+- **Repository Overview**: GitHub repository `milvus-io/bootcamp` contains 529-line Jupyter notebook (`build_RAG_with_milvus.ipynb`) demonstrating Retrieval-Augmented Generation (RAG) workflows using Milvus vector database.
 
-- **Notebook Content**: The `build_RAG_with_milvus.ipynb` notebook (529 lines, 17.1 KB) demonstrates Retrieval-Augmented Generation (RAG) workflows using Milvus as the vector store for efficient similarity search and retrie
+- **Technical Scope**: Notebook covers end-to-end implementation of RAG systems, including data ingestion, vector embedding, similarity search, and integration with LLM pipelines.
+
+- **Metrics**: Repository has 2.4k stars, 687 forks, 1 open issue, and 1 open pull request, in
 
 ## Use Cases
 

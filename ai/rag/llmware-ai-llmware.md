@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-06-27T01:43:55.098371+05:30'
+collected_at: '2026-06-27T04:11:08.554641+05:30'
 published_at: '2026-06-26T04:10:23Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
 - rag
-- workflows
 stars: 14821
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-06-27T01:43:55.098371+05:30'
-last_seen: '2026-06-27T01:43:55.098371+05:30'
-last_checked: '2026-06-27T01:43:55.098371+05:30'
+first_seen: '2026-06-27T04:11:08.554641+05:30'
+last_seen: '2026-06-27T04:11:08.554641+05:30'
+last_checked: '2026-06-27T04:11:08.554641+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., ONNX, OpenVINO, llama.cpp).
+- **Framework Purpose**: Unified Python framework for constructing enterprise-grade RAG pipelines using small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO) optimized for efficiency and deployment.
 
-- **Multi-Backend Support**: Supports multiple inference backends (ONNX Runtime, OpenVINO, llama.cpp) and integrates parsing, retrieval, and generation workflows for modular AI agent deployment.
+- **Key Features**: Integrates parsing, retrieval, and generative AI tools with agent-based orchestration, supporting modular pipelines for enterprise applications.
 
-- **Enterprise Features**: Includes pre-built components for document parsing, vector storage, and agent orchestration, with last update (June 2026) reflecting ongoing support for generative AI tools and LLM integration.
+- **Technical Stack**: Leverages lightweight inference engines (LlamaCPP, ONNX Runtime, OpenVINO) for cross-platform compatibility and low-latency inference.
 
 ## Why It Matters
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curates 240+ resources (繁中/English/简中) covering LLM fundamentals to multi-agent systems, with hands-on Python examples and CLI tools.
-- **Agentic AI Focus**: Integrates topics like RAG, prompt engineering, MCP, and model-context protocols, emphasizing workflows for AI agents (e.g., Claude Code/Skills).
-- **Active Maintenance**: Last updated June 2026, with 3.3K+ stars and 466 forks, reflecting ongoing community contributions and updates.
+- **Trilingual Learning Roadmap**: Curated 240+ resources covering LLM fundamentals to multi-agent systems, available in Traditional Chinese, Simplified Chinese, and English with hands-on Python examples.
+
+- **Comprehensive Topics**: Encompasses agentic AI workflows, prompt engineering, RAG, MCP, CLI tools (Claude Code/Skills), and multi-agent architectures with structured tutorials.
+
+- **Active Maintenance**: Last updated June 26, 2026, with 3,354 stars and 466 forks, reflecting ongoing communi
 
 ## Use Cases
 

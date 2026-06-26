@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for optimal performance.
-- **Automated Optimization**: Implements techniques like dynamic chunking, query rewriting, and retrieval tuning to enhance accuracy and latency in real-world deployments.
-- **Scalable Deployment**: Supports integration with cloud services (e.g., AWS, GCP) and includes benchmarking tools for evaluating
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
+
+- **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance retrieval accuracy and reduce latency in real-world deployments.
+
+- **Evaluation & Deployment**: Includes
 
 ## Use Cases
 

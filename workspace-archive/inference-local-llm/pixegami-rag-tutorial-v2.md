@@ -11,8 +11,10 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 selection_reason:
@@ -33,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates retrieval-augmented generation (RAG) using locally deployed large language models (LLMs) via frameworks like LangChain, eliminating dependency on cloud-based APIs.
-
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving document corpora.
-
-- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., retrieval accu
+- Implements **LangChain RAG (Retrieval-Augmented Generation)** pipeline with local LLMs (e.g., Llama, Mistral) for privacy and cost efficiency.
+- Features **dynamic database updates** (via ChromaDB) to support real-time document ingestion and vector embeddings.
+- Includes **testing framework** (e.g., pytest) for evaluating retrieval accuracy, response quality, and end-to-end RAG performance.
 
 ## Use Cases
 

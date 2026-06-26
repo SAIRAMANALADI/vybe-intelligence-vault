@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/0x4m4/hexstrike-ai
-collected_at: '2026-06-27T01:43:40.012962+05:30'
-published_at: '2026-06-26T19:55:30Z'
+collected_at: '2026-06-27T04:10:53.482219+05:30'
+published_at: '2026-06-26T21:43:11Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - python
 - scripts
 - workflows
-stars: 9965
+stars: 9969
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-07-10T17:53:18Z'
 pushed_at: '2026-04-27T08:56:07Z'
 resource_id: github:0x4m4/hexstrike-ai
-first_seen: '2026-06-27T01:43:40.012962+05:30'
-last_seen: '2026-06-27T01:43:40.012962+05:30'
-last_checked: '2026-06-27T01:43:40.012962+05:30'
+first_seen: '2026-06-27T04:10:53.482219+05:30'
+last_seen: '2026-06-27T04:10:53.482219+05:30'
+last_checked: '2026-06-27T04:10:53.482219+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Pentesting & Vulnerability Discovery**: HexStrike AI MCP Agents integrates **150+ cybersecurity tools** (e.g., Kali Linux utilities, CTF tools) to enable AI agents (Claude, GPT, Copilot) to autonomously execute offensive security operations, including penetration testing and bug bounty automation.
+- **MCP Server for AI-Driven Cybersecurity**: HexStrike AI MCP Agents integrates 150+ offensive security tools (e.g., Kali Linux utilities) into an MCP server, enabling AI agents (Claude, GPT, Copilot) to autonomously execute pentesting, vulnerability discovery, and bug bounty automation via LLM integration.
 
-- **MCP Server Architecture**: Built as a **Python-based MCP (Model Context Protocol) server**, it bridges LLMs with real-world security tooling, allowing seamless LLM integration for generative AI-driven security research and attack simulations.
+- **Python-Based Automation Framework**: Built in Python, the project bridges LLMs with real-world security operations, supporting CTF tools, generative AI, and AI-hacking workflows while maintaining modularity for extensibility.
 
-- **Scalable & Modular Design**: Supports **2117+ forks** with active development (last updated June 2026), offering extensible modules for AI-driven security workflows, including AI-penetration testing and AI-hacking tool orchestration.
+- **High-Activity Open-Source Project**: Maintained repository with 9,969 stars, 2,117 forks, and last updated in 2026, focusing on AI-cybersecurity, penetration testing, and LLM-MCP tooling.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: 0x4m4
-- Stars: 9965
+- Stars: 9969
 - Forks: 2117
 - Language: Python
 - Topics: 0x4m4, ai, ai-agents, ai-cybersecurity, ai-hacking, ai-penetration-testing, ai-security-tool, artificial-intelligence, ctf-tools, generative-ai, hexstrike, kali-linux, kali-tools, llm, llm-integration, mcp, mcp-server, mcp-tools, pentesting, pentesting-tools
-- Last Updated: 2026-06-26T19:55:30Z
+- Last Updated: 2026-06-26T21:43:11Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-10T17:53:18Z

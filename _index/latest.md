@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Swift Programming Language](../ai/rag/swift-programming-language.md) ([Source URL](https://swift.org))
+### 1. [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) ([Source URL](https://vite.dev))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:54:39.421653+05:30
-- **Local Path**: `ai/rag/swift-programming-language.md`
+- **Collected At**: 2026-06-27T04:20:14.676190+05:30
+- **Local Path**: `ai/rag/vite-next-generation-frontend-tooling.md`
 
-### 2. [Apple Open Source](../ai/resources/apple-open-source.md) ([Source URL](https://opensource.apple.com))
+### 2. [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](../ai/rag/tailwind-css-rapidly-build-modern-websites-without.md) ([Source URL](https://tailwindcss.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:20:12.406080+05:30
+- **Local Path**: `ai/rag/tailwind-css-rapidly-build-modern-websites-without.md`
+
+### 3. [StackBlitz | Instant Dev Environments | Click. Code. Done.](../ai/rag/stackblitz-instant-dev-environments-click-code-don.md) ([Source URL](https://stackblitz.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:20:11.983009+05:30
+- **Local Path**: `ai/rag/stackblitz-instant-dev-environments-click-code-don.md`
+
+### 4. [LittleSound (Rizumu Ayaka) · GitHub](../ai/resources/littlesound-rizumu-ayaka-github.md) ([Source URL](https://github.com/littlesound))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:54:36.145525+05:30
-- **Local Path**: `ai/resources/apple-open-source.md`
+- **Collected At**: 2026-06-27T04:20:11.609869+05:30
+- **Local Path**: `ai/resources/littlesound-rizumu-ayaka-github.md`
 
-### 3. [Documentation | vlt /vōlt/](../ai/resources/documentation-vlt-volt.md) ([Source URL](https://docs.vlt.sh))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:52:14.767098+05:30
-- **Local Path**: `ai/resources/documentation-vlt-volt.md`
-
-### 4. [The Shai-Hulud 2.0 npm worm: analysis, and what you need to know | Datadog Security Labs](../ai/rag/the-shai-hulud-2-0-npm-worm-analysis-and-what-you.md) ([Source URL](https://securitylabs.datadoghq.com/articles/shai-hulud-2.0-npm-worm))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:08.299179+05:30
-- **Local Path**: `ai/rag/the-shai-hulud-2-0-npm-worm-analysis-and-what-you.md`
-
-### 5. [Generating provenance statements | npm Docs](../ai/rag/generating-provenance-statements-npm-docs.md) ([Source URL](https://docs.npmjs.com/generating-provenance-statements))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:08.006326+05:30
-- **Local Path**: `ai/rag/generating-provenance-statements-npm-docs.md`
-
-### 6. [azure-docs/articles/security/fundamentals/overview.md at main · MicrosoftDocs/azure-docs · GitHub](../ai/rag/microsoftdocs-azure-docs.md) ([Source URL](https://github.com/microsoftdocs/azure-docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:06.753763+05:30
-- **Local Path**: `ai/rag/microsoftdocs-azure-docs.md`
-
-### 7. [Transparent Data Encryption (TDE) - SQL Server | Microsoft Learn](../ai/resources/transparent-data-encryption-tde-sql-server-microso.md) ([Source URL](https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-2017))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:52:06.518617+05:30
-- **Local Path**: `ai/resources/transparent-data-encryption-tde-sql-server-microso.md`
-
-### 8. [Microsoft Entra ID (Formerly Azure AD) | Microsoft Security](../ai/rag/microsoft-entra-id-formerly-azure-ad-microsoft-sec.md) ([Source URL](https://microsoft.com/security/business/identity-access/microsoft-entra-id))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:06.448756+05:30
-- **Local Path**: `ai/rag/microsoft-entra-id-formerly-azure-ad-microsoft-sec.md`
-
-### 9. [OWASP Top Ten Web Application Security Risks | OWASP Foundation](../ai/rag/owasp-top-ten-web-application-security-risks-owasp.md) ([Source URL](https://owasp.org/www-project-top-ten))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:06.321802+05:30
-- **Local Path**: `ai/rag/owasp-top-ten-web-application-security-risks-owasp.md`
-
-### 10. [Introduction to Azure security | Microsoft Learn](../ai/rag/introduction-to-azure-security-microsoft-learn.md) ([Source URL](https://learn.microsoft.com/en-us/azure/security/fundamentals/overview))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:52:01.407872+05:30
-- **Local Path**: `ai/rag/introduction-to-azure-security-microsoft-learn.md`
-
-### 11. [Home | vlt /vōlt/](../ai/resources/home-vlt-volt.md) ([Source URL](https://blog.vlt.sh))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:51:39.330150+05:30
-- **Local Path**: `ai/resources/home-vlt-volt.md`
-
-### 12. [Introducing Socket Firewall: Free, Proactive Protection for ...](../ai/resources/introducing-socket-firewall-free-proactive-protect.md) ([Source URL](https://socket.dev/blog/introducing-socket-firewall))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:51:39.308755+05:30
-- **Local Path**: `ai/resources/introducing-socket-firewall-free-proactive-protect.md`
-
-### 13. [vlt exec-local | vlt /vōlt/](../ai/resources/vlt-exec-local-vlt-volt.md) ([Source URL](https://docs.vlt.sh/cli/commands/exec-local))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:51:36.661396+05:30
-- **Local Path**: `ai/resources/vlt-exec-local-vlt-volt.md`
-
-### 14. [The Hidden Blast Radius of the Axios Compromise - Socket](../ai/rag/the-hidden-blast-radius-of-the-axios-compromise-so.md) ([Source URL](https://socket.dev/blog/hidden-blast-radius-of-the-axios-compromise))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:51:34.370492+05:30
-- **Local Path**: `ai/rag/the-hidden-blast-radius-of-the-axios-compromise-so.md`
-
-### 15. [How We're Protecting Our Newsroom from npm Supply Chain Attacks | pnpm](../ai/rag/how-we-re-protecting-our-newsroom-from-npm-supply.md) ([Source URL](https://pnpm.io/blog/2025/12/05/newsroom-npm-supply-chain-security))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:51:34.253426+05:30
-- **Local Path**: `ai/rag/how-we-re-protecting-our-newsroom-from-npm-supply.md`
-
-### 16. [Enterprise Knowledge Process Assessment for Stack Internal - Stack Overflow](../ai/rag/enterprise-knowledge-process-assessment-for-stack.md) ([Source URL](https://stackoverflow.co/internal/implement))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:51:27.762777+05:30
-- **Local Path**: `ai/rag/enterprise-knowledge-process-assessment-for-stack.md`
-
-### 17. [Stack Internal security overview (formerly Stack Overflow for Teams) - Stack Overflow](../ai/rag/stack-internal-security-overview-formerly-stack-ov.md) ([Source URL](https://stackoverflow.co/internal/security))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:51:27.732424+05:30
-- **Local Path**: `ai/rag/stack-internal-security-overview-formerly-stack-ov.md`
-
-### 18. [Explore Stack Internal features (formerly Stack Overflow for Teams) - Stack Overflow](../ai/resources/explore-stack-internal-features-formerly-stack-ove.md) ([Source URL](https://stackoverflow.co/internal/features))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:51:15.816584+05:30
-- **Local Path**: `ai/resources/explore-stack-internal-features-formerly-stack-ove.md`
-
-### 19. [Stack Overflow Insights - Developer Hiring, Marketing, and User Research](../ai/agents/stack-overflow-insights-developer-hiring-marketing.md) ([Source URL](https://survey.stackoverflow.co))
+### 5. [nekomeowww (Neko) · GitHub](../ai/agents/nekomeowww-neko-github.md) ([Source URL](https://github.com/nekomeowww))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-27T01:51:11.064327+05:30
-- **Local Path**: `ai/agents/stack-overflow-insights-developer-hiring-marketing.md`
+- **Collected At**: 2026-06-27T04:20:11.543097+05:30
+- **Local Path**: `ai/agents/nekomeowww-neko-github.md`
 
-### 20. [visionOS - Apple Developer](../ai/rag/visionos-apple-developer.md) ([Source URL](https://developer.apple.com/visionos))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:25.013029+05:30
-- **Local Path**: `ai/rag/visionos-apple-developer.md`
-
-### 21. [Paging Charity! How can engineering leaders avoid becoming Bond villains? - Stack Overflow](../ai/rag/paging-charity-how-can-engineering-leaders-avoid-b.md) ([Source URL](https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:24.595026+05:30
-- **Local Path**: `ai/rag/paging-charity-how-can-engineering-leaders-avoid-b.md`
-
-### 22. [unified · GitHub](../ai/resources/unified-github.md) ([Source URL](https://github.com/unifiedjs))
+### 6. [Sign in to GitHub · GitHub](../ai/resources/getsentry-sentry-docs.md) ([Source URL](https://github.com/getsentry/sentry-docs))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:48:20.844110+05:30
-- **Local Path**: `ai/resources/unified-github.md`
+- **Collected At**: 2026-06-27T04:20:11.326264+05:30
+- **Local Path**: `ai/resources/getsentry-sentry-docs.md`
 
-### 23. [Docusaurus 3.10 | Docusaurus](../ai/rag/docusaurus-3-10-docusaurus.md) ([Source URL](https://docusaurus.io/blog/releases/3.10))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:20.525907+05:30
-- **Local Path**: `ai/rag/docusaurus-3-10-docusaurus.md`
-
-### 24. [micromark/micromark](../ai/resources/micromark-micromark.md) ([Source URL](https://github.com/micromark/micromark))
+### 7. [getsentry/sentry-javascript](../ai/resources/getsentry-sentry-javascript.md) ([Source URL](https://github.com/getsentry/sentry-javascript))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:48:20.247086+05:30
-- **Local Path**: `ai/resources/micromark-micromark.md`
+- **Collected At**: 2026-06-27T04:20:11.203828+05:30
+- **Local Path**: `ai/resources/getsentry-sentry-javascript.md`
 
-### 25. [The Heap - Stack Overflow](../ai/resources/the-heap-stack-overflow.md) ([Source URL](https://stackoverflow.blog/contributed))
+### 8. [nolebase/nolebase](../ai/rag/nolebase-nolebase.md) ([Source URL](https://github.com/nolebase/nolebase))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:20:11.187696+05:30
+- **Local Path**: `ai/rag/nolebase-nolebase.md`
+
+### 9. [JavaScript API | Vite](../ai/rag/javascript-api-vite.md) ([Source URL](https://vite.dev/guide/api-javascript))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:20:10.121485+05:30
+- **Local Path**: `ai/rag/javascript-api-vite.md`
+
+### 10. [Privacy Policy | Linux Foundation](../ai/rag/privacy-policy-linux-foundation.md) ([Source URL](https://linuxfoundation.org/legal/privacy-policy))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:19:46.186709+05:30
+- **Local Path**: `ai/rag/privacy-policy-linux-foundation.md`
+
+### 11. [Stainless · GitHub](../ai/resources/stainless-github.md) ([Source URL](https://github.com/stainless-api))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:48:19.709628+05:30
-- **Local Path**: `ai/resources/the-heap-stack-overflow.md`
+- **Collected At**: 2026-06-27T04:19:25.686464+05:30
+- **Local Path**: `ai/resources/stainless-github.md`
 
-### 26. [unified](../ai/rag/unified.md) ([Source URL](https://unifiedjs.com))
+### 12. [supabase/examples at master · supabase/supabase · GitHub](../ai/rag/supabase-supabase.md) ([Source URL](https://github.com/supabase/supabase))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:17.211961+05:30
-- **Local Path**: `ai/rag/unified.md`
+- **Collected At**: 2026-06-27T04:19:25.535762+05:30
+- **Local Path**: `ai/rag/supabase-supabase.md`
 
-### 27. [Google Colab](../ai/rag/google-colab.md) ([Source URL](https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_first_rag_pipeline.ipynb))
+### 13. [Faster Whisper - Beam](../ai/rag/faster-whisper-beam.md) ([Source URL](https://docs.beam.cloud/v2/examples/whisper))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:14.791038+05:30
-- **Local Path**: `ai/rag/google-colab.md`
+- **Collected At**: 2026-06-27T04:19:22.978976+05:30
+- **Local Path**: `ai/rag/faster-whisper-beam.md`
 
-### 28. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source URL](https://deepset.ai/products-and-services/deepset-ai-platform))
+### 14. [beam-cloud/beta9](../ai/rag/beam-cloud-beta9.md) ([Source URL](https://github.com/beam-cloud/beta9))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:48:11.777738+05:30
-- **Local Path**: `ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md`
+- **Collected At**: 2026-06-27T04:19:19.919602+05:30
+- **Local Path**: `ai/rag/beam-cloud-beta9.md`
 
-### 29. [nodejs/node](../ai/resources/nodejs-node.md) ([Source URL](https://github.com/nodejs/node))
+### 15. [vitejs/vite](../ai/rag/vitejs-vite.md) ([Source URL](https://github.com/vitejs/vite))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:19:19.902413+05:30
+- **Local Path**: `ai/rag/vitejs-vite.md`
+
+### 16. [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md) ([Source URL](https://github.com/vitejs/awesome-vite))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:48:10.286114+05:30
-- **Local Path**: `ai/resources/nodejs-node.md`
+- **Collected At**: 2026-06-27T04:19:19.893342+05:30
+- **Local Path**: `ai/resources/vitejs-awesome-vite.md`
 
-### 30. [Dropbox: Secure cloud storage, file sharing, and more](../ai/rag/dropbox-secure-cloud-storage-file-sharing-and-more.md) ([Source URL](https://dropbox.com))
+### 17. [Web Scraping with Beam Functions - Beam](../ai/rag/web-scraping-with-beam-functions-beam.md) ([Source URL](https://docs.beam.cloud/v2/examples/web-scraping))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:39.109174+05:30
-- **Local Path**: `ai/rag/dropbox-secure-cloud-storage-file-sharing-and-more.md`
+- **Collected At**: 2026-06-27T04:19:18.065164+05:30
+- **Local Path**: `ai/rag/web-scraping-with-beam-functions-beam.md`
 
-### 31. [electronjs.org](../ai/resources/electronjs-org.md) ([Source URL](https://discordapp.com/invite/apgc3k5yah))
+### 18. [Auth Tokens](../ai/resources/auth-tokens.md) ([Source URL](https://docs.sentry.io/product/accounts/auth-tokens))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:38.779638+05:30
-- **Local Path**: `ai/resources/electronjs-org.md`
+- **Collected At**: 2026-06-27T04:19:17.866283+05:30
+- **Local Path**: `ai/resources/auth-tokens.md`
 
-### 32. [Passwords, Secrets, and Access Management | 1Password](../ai/agents/passwords-secrets-and-access-management-1password.md) ([Source URL](https://1password.com))
+### 19. [Build fast. Run any code fearlessly. · Fly](../ai/rag/build-fast-run-any-code-fearlessly-fly.md) ([Source URL](https://fly.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:19:16.827487+05:30
+- **Local Path**: `ai/rag/build-fast-run-any-code-fearlessly-fly.md`
+
+### 20. [import.meta - JavaScript | MDN](../ai/resources/import-meta-javascript-mdn.md) ([Source URL](https://developer.mozilla.org/en-us/docs/web/javascript/reference/statements/import.meta))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:15.641189+05:30
+- **Local Path**: `ai/resources/import-meta-javascript-mdn.md`
+
+### 21. [Heroicons](../ai/resources/heroicons.md) ([Source URL](https://heroicons.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:15.110648+05:30
+- **Local Path**: `ai/resources/heroicons.md`
+
+### 22. [tailwindlabs/tailwindcss](../ai/rag/tailwindlabs-tailwindcss.md) ([Source URL](https://github.com/tailwindlabs/tailwindcss))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:19:14.863731+05:30
+- **Local Path**: `ai/rag/tailwindlabs-tailwindcss.md`
+
+### 23. [Headless UI - Unstyled, fully accessible UI components](../ai/resources/headless-ui-unstyled-fully-accessible-ui-component.md) ([Source URL](https://headlessui.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:14.788512+05:30
+- **Local Path**: `ai/resources/headless-ui-unstyled-fully-accessible-ui-component.md`
+
+### 24. [Nólëbase | 记录回忆，知识和畅想的地方](../ai/resources/nolebase-ji-lu-hui-yi-zhi-shi-he-chang-xiang-de-di.md) ([Source URL](https://nolebase.ayaka.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:13.260474+05:30
+- **Local Path**: `ai/resources/nolebase-ji-lu-hui-yi-zhi-shi-he-chang-xiang-de-di.md`
+
+### 25. [Astro | Sentry for Astro](../ai/resources/astro-sentry-for-astro.md) ([Source URL](https://docs.sentry.io/platforms/javascript/guides/astro/manual-setup))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:13.246605+05:30
+- **Local Path**: `ai/resources/astro-sentry-for-astro.md`
+
+### 26. [VueUse](../ai/resources/vueuse.md) ([Source URL](https://vueuse.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:19:12.931967+05:30
+- **Local Path**: `ai/resources/vueuse.md`
+
+### 27. [fly.io · GitHub](../ai/resources/fly-io-github.md) ([Source URL](https://github.com/superfly))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:26.419323+05:30
+- **Local Path**: `ai/resources/fly-io-github.md`
+
+### 28. [withastro/astro](../ai/resources/withastro-astro.md) ([Source URL](https://github.com/withastro/astro))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:25.570061+05:30
+- **Local Path**: `ai/resources/withastro-astro.md`
+
+### 29. [Supabase | The Postgres Development Platform.](../ai/rag/supabase-the-postgres-development-platform.md) ([Source URL](https://supabase.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:18:24.833947+05:30
+- **Local Path**: `ai/rag/supabase-the-postgres-development-platform.md`
+
+### 30. [On-Demand AI Compute | Beam](../ai/rag/on-demand-ai-compute-beam.md) ([Source URL](https://beam.cloud))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:18:24.760266+05:30
+- **Local Path**: `ai/rag/on-demand-ai-compute-beam.md`
+
+### 31. [Install Tailwind CSS with Astro - Tailwind CSS](../web-development/tailwind/install-tailwind-css-with-astro-tailwind-css.md) ([Source URL](https://tailwindcss.com/docs/installation/framework-guides/astro))
+- **Category**: web-development/tailwind
+- **Collected At**: 2026-06-27T04:18:22.342573+05:30
+- **Local Path**: `web-development/tailwind/install-tailwind-css-with-astro-tailwind-css.md`
+
+### 32. [Static Asset Handling | Vite](../ai/resources/static-asset-handling-vite.md) ([Source URL](https://vite.dev/guide/assets.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:22.189991+05:30
+- **Local Path**: `ai/resources/static-asset-handling-vite.md`
+
+### 33. [UnoCSS: The instant on-demand Atomic CSS engine](../ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md) ([Source URL](https://unocss.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:22.039028+05:30
+- **Local Path**: `ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md`
+
+### 34. [open-telemetry/community](../ai/resources/open-telemetry-community.md) ([Source URL](https://github.com/open-telemetry/community))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:20.575624+05:30
+- **Local Path**: `ai/resources/open-telemetry-community.md`
+
+### 35. [jqlang/jq](../ai/resources/jqlang-jq.md) ([Source URL](https://github.com/jqlang/jq))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:20.546968+05:30
+- **Local Path**: `ai/resources/jqlang-jq.md`
+
+### 36. [Why (and how) GitHub is adopting OpenTelemetry - The GitHub Blog](../ai/resources/why-and-how-github-is-adopting-opentelemetry-the-g.md) ([Source URL](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:18.799742+05:30
+- **Local Path**: `ai/resources/why-and-how-github-is-adopting-opentelemetry-the-g.md`
+
+### 37. [Building a large-scale Observability Ecosystem | by Juan Pi | Tecnología de Mercado Libre | Medium](../ai/rag/building-a-large-scale-observability-ecosystem-by.md) ([Source URL](https://medium.com/mercadolibre-tech/building-a-large-scale-observability-ecosystem-1edf654b249e))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:18:17.879281+05:30
+- **Local Path**: `ai/rag/building-a-large-scale-observability-ecosystem-by.md`
+
+### 38. [Integrations | Astro](../ai/rag/integrations-astro.md) ([Source URL](https://astro.build/integrations))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:18:14.482036+05:30
+- **Local Path**: `ai/rag/integrations-astro.md`
+
+### 39. [Styles and CSS | Docs](../web-development/tailwind/styles-and-css-docs.md) ([Source URL](https://docs.astro.build/en/guides/styling))
+- **Category**: web-development/tailwind
+- **Collected At**: 2026-06-27T04:18:14.431196+05:30
+- **Local Path**: `web-development/tailwind/styles-and-css-docs.md`
+
+### 40. [jq](../ai/resources/jq.md) ([Source URL](https://jqlang.github.io/jq))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-27T04:18:12.089783+05:30
+- **Local Path**: `ai/resources/jq.md`
+
+### 41. [OpenTelemetry](../ai/agents/opentelemetry.md) ([Source URL](https://opentelemetry.io))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-27T01:47:38.770576+05:30
-- **Local Path**: `ai/agents/passwords-secrets-and-access-management-1password.md`
+- **Collected At**: 2026-06-27T04:18:11.992598+05:30
+- **Local Path**: `ai/agents/opentelemetry.md`
 
-### 33. [Specification - Model Context Protocol](../ai/agents/specification-model-context-protocol.md) ([Source URL](https://modelcontextprotocol.io/specification/latest))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-27T01:47:26.086276+05:30
-- **Local Path**: `ai/agents/specification-model-context-protocol.md`
-
-### 34. [Microsoft Learn: Build with answers in reach](../ai/rag/microsoft-learn-build-with-answers-in-reach.md) ([Source URL](https://learn.microsoft.com))
+### 42. [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) ([Source URL](https://stainless.com/products/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:24.806437+05:30
-- **Local Path**: `ai/rag/microsoft-learn-build-with-answers-in-reach.md`
+- **Collected At**: 2026-06-27T04:18:08.417839+05:30
+- **Local Path**: `ai/rag/stainless-stainless-docs-platform.md`
 
-### 35. [opendevin/opendevin](../ai/agents/opendevin-opendevin.md) ([Source URL](https://github.com/opendevin/opendevin))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-27T01:47:23.450917+05:30
-- **Local Path**: `ai/agents/opendevin-opendevin.md`
-
-### 36. [Extensions for Visual Studio family of products | Visual Studio Marketplace](../ai/resources/extensions-for-visual-studio-family-of-products-vi.md) ([Source URL](https://marketplace.visualstudio.com/vscode))
+### 43. [Overview of Parse | Developer Documentation](../ai/resources/overview-of-parse-developer-documentation.md) ([Source URL](https://docs.cloud.llamaindex.ai/llamaparse))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:20.476990+05:30
-- **Local Path**: `ai/resources/extensions-for-visual-studio-family-of-products-vi.md`
+- **Collected At**: 2026-06-27T04:18:05.838053+05:30
+- **Local Path**: `ai/resources/overview-of-parse-developer-documentation.md`
 
-### 37. [Researching with GitHub Copilot CLI - GitHub Docs](../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research))
+### 44. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:19.340320+05:30
+- **Collected At**: 2026-06-27T04:17:38.479685+05:30
+- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
+
+### 45. [GitHub Copilot CLI command reference - GitHub Docs](../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-27T04:16:26.707054+05:30
+- **Local Path**: `ai/agents/github-copilot-cli-command-reference-github-docs.md`
+
+### 46. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:16:23.668659+05:30
+- **Local Path**: `ai/rag/microsoft-vscode.md`
+
+### 47. [Researching with GitHub Copilot CLI - GitHub Docs](../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-27T04:16:21.105979+05:30
 - **Local Path**: `ai/rag/researching-with-github-copilot-cli-github-docs.md`
 
-### 38. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:18.349999+05:30
-- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+### 48. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-27T04:16:17.794027+05:30
+- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
 
-### 39. [github/codeql](../ai/resources/github-codeql.md) ([Source URL](https://github.com/github/codeql))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:18.299605+05:30
-- **Local Path**: `ai/resources/github-codeql.md`
+### 49. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-27T04:16:12.450694+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
 
-### 40. [Newest 'electron' Questions - Stack Overflow](../ai/rag/newest-electron-questions-stack-overflow.md) ([Source URL](https://stackoverflow.com/questions/tagged/electron))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:17.806173+05:30
-- **Local Path**: `ai/rag/newest-electron-questions-stack-overflow.md`
-
-### 41. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:16.144598+05:30
-- **Local Path**: `ai/rag/npm-status.md`
-
-### 42. [CodeQL - Visual Studio Marketplace](../ai/resources/codeql-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:15.576408+05:30
-- **Local Path**: `ai/resources/codeql-visual-studio-marketplace.md`
-
-### 43. [Fern: Docs, SDKs, and CLIs for your API](../ai/rag/fern-docs-sdks-and-clis-for-your-api.md) ([Source URL](https://buildwithfern.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:13.979219+05:30
-- **Local Path**: `ai/rag/fern-docs-sdks-and-clis-for-your-api.md`
-
-### 44. [Postman Inc. · GitHub](../ai/resources/postman-inc-github.md) ([Source URL](https://github.com/postmanlabs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:13.812999+05:30
-- **Local Path**: `ai/resources/postman-inc-github.md`
-
-### 45. [Postman - YouTube](../ai/resources/postman-youtube.md) ([Source URL](https://youtube.com/postman))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-27T01:47:13.691022+05:30
-- **Local Path**: `ai/resources/postman-youtube.md`
-
-### 46. [Data Scientist Courses | Free Neo4j Courses from GraphAcademy](../ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md) ([Source URL](https://graphacademy.neo4j.com/categories/data-scientist))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:06.822720+05:30
-- **Local Path**: `ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md`
-
-### 47. [Neo4j · GitHub](../ai/rag/neo4j-github.md) ([Source URL](https://github.com/neo4j))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:06.597898+05:30
-- **Local Path**: `ai/rag/neo4j-github.md`
-
-### 48. [Free book: Essential GraphRAG from Manning Publications - Neo4j](../ai/rag/free-book-essential-graphrag-from-manning-publicat.md) ([Source URL](https://neo4j.com/essential-graphrag))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:47:05.679134+05:30
-- **Local Path**: `ai/rag/free-book-essential-graphrag-from-manning-publicat.md`
-
-### 49. [community · Discussions · GitHub](../ai/rag/orgs-community.md) ([Source URL](https://github.com/orgs/community))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:46:58.984551+05:30
-- **Local Path**: `ai/rag/orgs-community.md`
-
-### 50. [Android Mobile App Developer Tools - Android Developers](../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source URL](http://developer.android.com/index.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-27T01:46:35.278043+05:30
-- **Local Path**: `ai/rag/android-mobile-app-developer-tools-android-develop.md`
+### 50. [Overview | Developer Documentation](../ai/agents/overview-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/llamaagents/overview))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-27T04:14:39.551614+05:30
+- **Local Path**: `ai/agents/overview-developer-documentation.md`
 
 ---
-*Index generated on 2026-06-27T01:55:38.235109+05:30*
+*Index generated on 2026-06-27T04:22:59.032965+05:30*

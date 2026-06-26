@@ -25,8 +25,8 @@ https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
 - [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
-- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-27 01:56 IST*
+*Last updated: 2026-06-27 04:23 IST*

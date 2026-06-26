@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-06-27T01:40:49.857395+05:30'
-published_at: '2026-06-26T19:12:35Z'
+collected_at: '2026-06-27T04:08:03.325677+05:30'
+published_at: '2026-06-26T22:19:42Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-- workflows
-stars: 36069
+stars: 36074
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-06-08T11:18:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-06-27T01:40:49.857395+05:30'
-last_seen: '2026-06-27T01:40:49.857395+05:30'
-last_checked: '2026-06-27T01:40:49.857395+05:30'
+first_seen: '2026-06-27T04:08:03.325677+05:30'
+last_seen: '2026-06-27T04:08:03.325677+05:30'
+last_checked: '2026-06-27T04:08:03.325677+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, including implementation in Jupyter Notebooks.
-- **Real-World AI Agent Applications**: Focuses on practical deployments of AI agents, covering architecture, integration, and optimization for production environments.
-- **MCP & Advanced AI Topics**: Includes resources on Model Context Protocol (MCP), machine learning workflows, and emerging AI engineering methodologies, updated as of June 2026.
+- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,074 stars and 5,981 forks, focused on AI engineering tutorials using Jupyter Notebooks.
+- **Core Topics**: Covers LLMs, RAGs, AI agents, machine learning, and MCP (Model Context Protocol) with real-world applications.
+- **Last Updated**: June 26, 2026, indicating active maintenance and recent content updates.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36069
+- Stars: 36074
 - Forks: 5981
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-06-26T19:12:35Z
+- Last Updated: 2026-06-26T22:19:42Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

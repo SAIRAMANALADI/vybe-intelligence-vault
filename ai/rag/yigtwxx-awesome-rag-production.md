@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-27T01:41:34.928910+05:30'
+collected_at: '2026-06-27T04:08:48.367533+05:30'
 published_at: '2026-06-26T17:28:10Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 125
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-26T13:53:07Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-27T01:41:34.928910+05:30'
-last_seen: '2026-06-27T01:41:34.928910+05:30'
-last_checked: '2026-06-27T01:41:34.928910+05:30'
+first_seen: '2026-06-27T04:08:48.367533+05:30'
+last_seen: '2026-06-27T04:08:48.367533+05:30'
+last_checked: '2026-06-27T04:08:48.367533+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository provides a structured, production-focused collection of tools, frameworks, and best practices for building scalable RAG systems, covering LLMops, embeddings, and vector databases.
-
-- **Technical Scope**: Focuses on Python-based implementations, integrating LangChain, generative AI, and MLOps methodologies for end-to-end RAG pipeline optimization.
-
-- **Community & Updates**: Actively maintained (last updated June 2026) with 125 stars and 32 forks, reflecting ongoing contributions to AI engineering and retrieval-augmented generation advancements.
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, focusing on battle-tested solutions.
+- **Technical scope**: Covers core components such as embeddings, vector databases, LLMOps, and integration with frameworks like LangChain, emphasizing AI engineering and MLOps workflows.
+- **Python-centric**: Entirely Python-based, with a structured list of resources last updated in mid-2026, targeting large language models (LLMs) and generative AI deployments.
 
 ## Why It Matters
 

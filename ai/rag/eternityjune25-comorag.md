@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-27T01:42:19.888732+05:30'
+collected_at: '2026-06-27T04:09:33.393836+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-27T01:42:19.888732+05:30'
-last_seen: '2026-06-27T01:42:19.888732+05:30'
-last_checked: '2026-06-27T01:42:19.888732+05:30'
+first_seen: '2026-06-27T04:09:33.393836+05:30'
+last_seen: '2026-06-27T04:09:33.393836+05:30'
+last_checked: '2026-06-27T04:09:33.393836+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework mimicking human memory organization for stateful long narrative reasoning, leveraging hierarchical memory structures.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and hierarchical context management.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended interactions, enabling persistent reasoning over long narratives.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain coherent reasoning across extended narratives, leveraging episodic and semantic memory modules for contextual continuity.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge solution for long-form narrative understanding, with codebase in Python and active development (last updated June 2026).
+- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks, with modular Python-based implementation optimized for scalability and interpretability.
 
 ## Why It Matters
 

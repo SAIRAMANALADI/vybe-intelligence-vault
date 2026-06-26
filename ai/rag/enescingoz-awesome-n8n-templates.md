@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/enescingoz/awesome-n8n-templates
-collected_at: '2026-06-27T01:40:59.893247+05:30'
-published_at: '2026-06-26T20:01:08Z'
+collected_at: '2026-06-27T04:08:13.339859+05:30'
+published_at: '2026-06-26T22:25:17Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - scripts
 - unknown
 - workflows
-stars: 23469
+stars: 23471
 language: Unknown
 status: active
 license: NOASSERTION
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-05-08T18:34:01Z'
 pushed_at: '2026-06-20T19:12:52Z'
 resource_id: github:enescingoz/awesome-n8n-templates
-first_seen: '2026-06-27T01:40:59.893247+05:30'
-last_seen: '2026-06-27T01:40:59.893247+05:30'
-last_checked: '2026-06-27T01:40:59.893247+05:30'
+first_seen: '2026-06-27T04:08:13.339859+05:30'
+last_seen: '2026-06-27T04:08:13.339859+05:30'
+last_checked: '2026-06-27T04:08:13.339859+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Extensive Template Library**: Hosts **280+ pre-built n8n automation workflows** covering integrations with **Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI**, and more, enabling rapid deployment of automation pipelines.
-
-- **Diverse Automation Domains**: Supports **AI agents, RAG chatbots, email automation, social media management, DevOps, and document processing**, leveraging **low-code/no-code** paradigms for accessibility.
-
-- **Open-Source & Self-Hosted**: Repository is **community-driven** with **23,469 stars** and **6,203 forks**, optimized for **self-hosted** workflow automation using n8n’s extensible framework.
+- **Extensive Template Library**: 280+ pre-built n8n automation workflows covering integrations with Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more.
+- **Diverse Use Cases**: Includes AI agents, RAG chatbots, email automation, social media management, DevOps pipelines, and document processing workflows.
+- **Open-Source & Self-Hostable**: Largest open-source collection of n8n templates (23.4K+ stars, 6.2K+ forks) with low-code/no-code flexibility for self-hosted automation.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: enescingoz
-- Stars: 23469
-- Forks: 6203
+- Stars: 23471
+- Forks: 6202
 - Language: Unknown
 - Topics: ai-agents, ai-automation, automation, automation-templates, awesome, awesome-list, integration, low-code, n8n, n8n-automation, n8n-template, no-code-ai, no-code-automation, self-hosted, telegram-bot, workflow-automation
-- Last Updated: 2026-06-26T20:01:08Z
+- Last Updated: 2026-06-26T22:25:17Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-05-08T18:34:01Z

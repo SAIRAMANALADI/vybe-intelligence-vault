@@ -21,11 +21,11 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [Speechify · GitHub](https://github.com/SpeechifyInc)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [wgcyeo/UniversalRAG](https://github.com/wgcyeo/UniversalRAG)
+- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
-- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
+- [ray-project/llm-applications](https://github.com/ray-project/llm-applications)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-27 01:56 IST*
+*Last updated: 2026-06-27 04:23 IST*

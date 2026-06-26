@@ -16,6 +16,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI) to produce context-aware responses, using semantic similarity for document retrieval.
-- **Dynamic Schema Handling**: Supports unstructured data insertion via a reserved JSON field (`text`), enabling flexible storage of non-schema-defined attributes alongside vector embeddings.
-- **Metric & Consistency Tuning**: Uses inner product (`IP`) for similarity search and `Bounded` consistency le
+- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI's GPT) to answer queries using retrieved documents, demonstrated with Milvus documentation FAQs.
+- **Vector Database Integration**: Uses `pymilvus` to create a collection with 1536-dim embeddings (OpenAI `text-embedding-3-small`), storing text chunks and enabling similarity search with `IP` (inner product) metric.
+- **Dynamic Schema Handling**: Automatically manages undefined fields (e.g
 
 ## Use Cases
 

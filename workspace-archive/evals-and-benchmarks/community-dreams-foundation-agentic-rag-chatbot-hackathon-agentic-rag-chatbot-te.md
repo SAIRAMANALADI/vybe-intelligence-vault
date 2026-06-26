@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` by GitHub Classroom, initialized for an AI RAG chatbot hackathon.
-- **Metadata**: 0 stars, 68 forks, Python-based, last updated on **2026-02-17T18:07:23Z**.
-- **Purpose**: Template repository for building an **agentic RAG (Retrieval-Augmented Generation) chatbot**, likely structured for modular AI agent workflows.
+- **Repository**: `Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` (0 stars, 68 forks), last updated **2026-02-17T18:07:23Z**.
+- **Primary Language**: Python-based template for an **agentic RAG (Retrieval-Augmented Generation) chatbot**.
+- **Purpose**: Designed as a **hackathon starter repository** for building autonomous RAG chatbot agents.
 
 ## Use Cases
 

@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents.
-- **Technical Focus**: Covers key AI agent components including **LLM integration**, **Retrieval-Augmented Generation (RAG)**, and agent architecture design, with hands-on Python implementations.
-- **Community & Maintenance**: Actively maintained (last updated June 2026) with **62K+ stars** and
+- **Comprehensive Agent Development Tutorial**: Provides a zero-to-hero guide on building intelligent agents, covering core principles and practical implementations using Python.
+
+- **Key Components Integration**: Focuses on combining large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for real-world applications.
+
+- **Open-Source Educational Resource**: Hosted on GitHub with 62K+ stars and 7.6K+ forks, offering a collaborative platform for learning and re
 
 ## Use Cases
 

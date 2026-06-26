@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication via `--host` for GitHub Enterprise), `copilot init` (repository custom instructions), `copilot completion SHELL` (enables tab completion for `bash`/`zsh`/`fish`), and `copilot version` (version info/check for updates).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication via `--host` for GitHub Enterprise), `copilot init` (repository custom instructions), `copilot completion SHELL` (enables tab completion for `bash`/`zsh`/`fish`), and `copilot version` (version info and updates).
 
-- **Interactive UI Shortcuts**: Global shortcuts include `@ FILENAME` (include file context), `! COMMAND` (execute shell commands), `Ctrl+X`/`/` (slash commands mid
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (include file context), `! COMMAND` (shell bypass), `Ctrl+G` (external editor), `Ctrl+X` (sla
 
 ## Use Cases
 

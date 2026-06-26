@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-27T01:41:54.946549+05:30'
+collected_at: '2026-06-27T04:09:08.405474+05:30'
 published_at: '2026-06-26T15:53:54Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-27T01:41:54.946549+05:30'
-last_seen: '2026-06-27T01:41:54.946549+05:30'
-last_checked: '2026-06-27T01:41:54.946549+05:30'
+first_seen: '2026-06-27T04:09:08.405474+05:30'
+last_seen: '2026-06-27T04:09:08.405474+05:30'
+last_checked: '2026-06-27T04:09:08.405474+05:30'
 health_score: 100
 ---
 
@@ -31,15 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of performance in real-world internal knowledge bases.
+- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized performance assessment.
 
-- **Key Features**:
-  - Synthetic data generation for enterprise-specific QA tasks.
-  - Evaluation metrics for retrieval quality, answer correctness, and LLM performance in domain-specific contexts.
+- **Synthetic Data Generation**: Implements synthetic data generation techniques to create diverse, realistic enterprise document-query pairs for robust RAG model training and evaluation.
 
-- **Technical Scope**:
-  - Supports Python-based RAG pipelines with focus on semantic search, information retrieval, and LLM evaluation.
-  - Includes tools for benchmarking enterprise search, generative AI, and knowledge base integration.
+- **Multi-Topic Evaluation**: Covers 19 technical topics (e.g., semantic search, LLM evaluation, knowledge base integration) to assess RAG systems across enterprise-specific use cases like information retrieval and generative AI.
 
 ## Why It Matters
 

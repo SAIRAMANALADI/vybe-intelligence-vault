@@ -12,7 +12,10 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- anthropic
+- frontend_ui
 - github-repo
+- openai
 - rag
 - scripts
 - typescript
@@ -35,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based Visual AI Workflow Automation**: Provides a template for building visual AI-driven workflow automation platforms using TypeScript, enabling drag-and-drop workflow design with AI agent integration.
+- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop creation of multi-agent AI systems with real-time orchestration capabilities.
 
-- **Agent & Workflow Orchestration**: Supports multi-agent systems with configurable workflows, allowing dynamic task automation, conditional logic, and parallel processing via a visual interface.
+- **Repository structure optimized for Vercel deployments**, leveraging Next.js and serverless functions for scalable, low-latency workflow execution.
 
-- **Vercel-Optimized Deployment**: Leverages Vercel’s infrastructure for scalable,
+- **Pre-configured with AI agent templates** (e.g., RAG, code interpreters) and integrations for LLM APIs (OpenAI, Anthropic), with GitHub Actions for CI/CD.
 
 ## Use Cases
 

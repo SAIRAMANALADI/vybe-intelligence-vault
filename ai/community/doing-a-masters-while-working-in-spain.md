@@ -13,13 +13,14 @@ collected_at: '2026-06-27T01:39:51.316208+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:doing-a-masters-while-working-in-spain
 first_seen: '2026-06-26T10:10:29.122310+05:30'
 last_seen: '2026-06-27T01:39:51.316208+05:30'
 last_checked: '2026-06-27T01:39:51.316208+05:30'
 health_score: 100
 ---
+
 
 # Doing a masters while working in Spain
 

@@ -6,16 +6,17 @@ source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
 local_vault_path: ai/agents/copilot-cli-sessions-in-visual-studio-code.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - openai
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Strong keyword match
+- Useful for project building
 ---
 
 # Copilot CLI sessions in Visual Studio Code
@@ -23,16 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-- **Copilot CLI sessions** run autonomously in the background via the Copilot CLI agent harness, managed via VS Code's Chat view, enabling parallel task execution without blocking the editor.
-- **Isolation modes** support **Worktree** (Git worktree-based, auto-approved changes) and **Folder** (direct workspace modifications) isolation for controlled codebase interactions.
-- **Permissions & slash commands** include `/research`, `/yolo`, and `/autoApprove`, with worktree mode enforcing **Bypass Ap
+- **Copilot CLI sessions** run autonomously in the background via VS Code's Copilot SDK, enabling parallel task execution (e.g., feature implementation, POC variants) without blocking the editor, with status monitoring via the unified Chat view.
+
+- **Isolation modes** include **Worktree** (Git worktree for isolated changes) and **Folder** (direct workspace modifications), with Worktree auto-approving tool calls (Bypass Approvals) and Folder supporting configurable permission levels (Default/Bypa
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T01:40:59.952360+05:30'
+collected_at: '2026-06-27T04:08:13.417399+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T01:40:59.952360+05:30'
-last_seen: '2026-06-27T01:40:59.952360+05:30'
-last_checked: '2026-06-27T01:40:59.952360+05:30'
+first_seen: '2026-06-27T04:08:13.417399+05:30'
+last_seen: '2026-06-27T04:08:13.417399+05:30'
+last_checked: '2026-06-27T04:08:13.417399+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework designed for modularity and ease of integration across different environments.
+- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and educational use, implemented primarily in Jupyter Notebooks.
 
-- **Implementation**: Primarily implemented in Jupyter Notebooks, leveraging Python-based libraries for document processing, vector embeddings, and LLM interaction.
+- **Core Components**: Includes modular pipelines for document ingestion, embedding generation, vector storage (e.g., FAISS/Chroma), and LLM integration with retrieval-augmented query processing.
 
-- **Tutorials**: Includes step-by-step guides covering RAG pipeline construction, retrieval optimization, and deployment strategies for practical applications.
+- **Educational Focus**: Provides tutorials and examples for building custom RAG systems, emphasizing reproducibility and adaptability across different hardware/software environments.
 
 ## Why It Matters
 

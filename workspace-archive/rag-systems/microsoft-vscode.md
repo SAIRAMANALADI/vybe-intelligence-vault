@@ -8,12 +8,12 @@ local_vault_path: ai/rag/microsoft-vscode.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: api
 importance: medium
 tags:
 - github-repo
-- hackernews
 - rag
+- reddit
 - typescript
 selection_reason:
 - Strong keyword match
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Electron-based cross-platform editor**: VS Code is built using Electron (formerly Atom Shell), enabling a Chromium-based desktop application with web technologies (HTML/CSS/JS) while leveraging TypeScript for core logic and tooling.
-
-- **Language Server Protocol (LSP) integration**: Implements LSP to provide advanced language features (IntelliSense, refactoring, diagnostics) via a standardized protocol, decoupling language-specific implementations from the editor core.
-
-- **Extensible archit
+- **Architecture**: VS Code is built on Electron (Chromium + Node.js) with a TypeScript-based frontend and backend, enabling cross-platform desktop application development.
+- **Core Components**: Uses Monaco Editor (browser-based code editor) for rich text editing, integrates with Language Server Protocol (LSP) for language intelligence, and leverages Electron’s renderer/process model for performance.
+- **Extensibility**: Supports extensions via a well-defined API, enabling customization through
 
 ## Use Cases
 

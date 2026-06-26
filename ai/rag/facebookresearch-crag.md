@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-27T01:41:49.962989+05:30'
+collected_at: '2026-06-27T04:09:03.496602+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 292
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-27T01:41:49.962989+05:30'
-last_seen: '2026-06-27T01:41:49.962989+05:30'
-last_checked: '2026-06-27T01:41:49.962989+05:30'
+first_seen: '2026-06-27T04:09:03.496602+05:30'
+last_seen: '2026-06-27T04:09:03.496602+05:30'
+last_checked: '2026-06-27T04:09:03.496602+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **CRAG Benchmark**: A comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-- **Technical Implementation**: Developed using Jupyter Notebooks, enabling modular and reproducible experimentation with RAG pipelines.
-- **Repository Metadata**: Maintained by Facebook Research, last updated June 2026, with 292 stars and 35 forks, indicating active community engagement.
+- **Benchmark Design**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval quality, generation performance, and end-to-end effectiveness across diverse datasets and tasks.
+
+- **Evaluation Metrics**: Includes multi-dimensional metrics such as precision, recall, F1-score for retrieval, and coherence, factuality, and relevance for generation, enabling granular assessment of RAG components.
+
+- **Implementation**: Distributed as Jupyter Notebooks with modular components for easy integration, supporting custom datasets and retrieval/generation backends for extensibility and reproducibility.
 
 ## Why It Matters
 

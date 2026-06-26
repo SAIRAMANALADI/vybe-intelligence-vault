@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-27T01:42:19.977933+05:30'
+collected_at: '2026-06-27T04:09:33.460268+05:30'
 published_at: '2026-06-26T18:50:51Z'
 tags:
+- benchmark
 - dataset
 - github-repo
 - python
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-27T01:42:19.977933+05:30'
-last_seen: '2026-06-27T01:42:19.977933+05:30'
-last_checked: '2026-06-27T01:42:19.977933+05:30'
+first_seen: '2026-06-27T04:09:33.460268+05:30'
+last_seen: '2026-06-27T04:09:33.460268+05:30'
+last_checked: '2026-06-27T04:09:33.460268+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and querying.
-
-- **Scalability & Efficiency**: Implements linear graph traversal algorithms to reduce retrieval latency and memory overhead, enabling real-time augmentation for LLMs on massive datasets (e.g., >1M documents).
-
-- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and integration with LLMs, supporting customizable graph pruning and query optimization.
+- Introduces **LinearRAG**, a novel **Linear Graph Retrieval-Augmented Generation (RAG)** framework for large-scale corpora, optimizing retrieval efficiency via linear graph traversal.
+- Proposes a **scalable graph-based indexing** method to enable efficient subgraph retrieval, reducing computational overhead compared to traditional dense retrieval.
+- Demonstrates **state-of-the-art performance** on benchmark datasets while maintaining linear time complexity in retrieval operations.
 
 ## Why It Matters
 

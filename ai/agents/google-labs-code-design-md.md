@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/google-labs-code/design.md
-published_at: '2026-06-27T01:39:49.171193+05:30'
-collected_at: '2026-06-27T01:39:49.171198+05:30'
+published_at: '2026-06-27T04:07:01.647714+05:30'
+collected_at: '2026-06-27T04:07:01.647719+05:30'
 tags:
 - agents
 - frontend_ui
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:google-labs-code/design.md
 first_seen: '2026-06-24T20:38:09.767604+05:30'
-last_seen: '2026-06-27T01:39:49.171198+05:30'
-last_checked: '2026-06-27T01:39:49.171198+05:30'
+last_seen: '2026-06-27T04:07:01.647719+05:30'
+last_checked: '2026-06-27T04:07:01.647719+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-27T01:39:49.171193+05:30
+- Published: 2026-06-27T04:07:01.647714+05:30
 
 ## Related Tags
 

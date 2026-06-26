@@ -4,12 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jqlang/jq
-collected_at: '2026-06-26T22:49:19.087521+05:30'
-published_at: '2026-06-26T14:47:10Z'
+collected_at: '2026-06-27T04:18:20.546968+05:30'
+published_at: '2026-06-26T22:08:06Z'
 tags:
 - c
 - github-repo
-stars: 35050
+- workflows
+stars: 35034
 language: C
 status: active
 license: NOASSERTION
@@ -17,9 +18,9 @@ archived: false
 created_at: '2012-07-18T19:57:25Z'
 pushed_at: '2026-06-24T19:28:58Z'
 resource_id: github:jqlang/jq
-first_seen: '2026-06-26T22:49:19.087521+05:30'
-last_seen: '2026-06-26T22:49:19.087521+05:30'
-last_checked: '2026-06-26T22:49:19.087521+05:30'
+first_seen: '2026-06-27T04:18:20.546968+05:30'
+last_seen: '2026-06-27T04:18:20.546968+05:30'
+last_checked: '2026-06-27T04:18:20.546968+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: `jq` is a lightweight, high-performance command-line JSON processor written in C, enabling efficient parsing, filtering, and transformation of JSON data via a specialized query language.
-- **Query Language**: Implements a declarative, Turing-complete query language for JSON, supporting advanced features like recursive descent, arithmetic, string manipulation, and conditional logic.
-- **Portability & Integration**: Designed for minimal dependencies, optimized for speed, and widely used in scripting/pipelines due to its compact binary distribution and POSIX-compliant behavior.
+- **Lightweight JSON Processor**: `jq` is a high-performance, command-line JSON processor written in C, enabling efficient parsing, filtering, and transformation of JSON data with minimal overhead.
+
+- **Turing-Complete Query Language**: Implements a domain-specific language (DSL) for JSON manipulation, supporting complex operations like filtering, mapping, aggregation, and arithmetic with a syntax resembling functional programming constructs.
+
+- **Cross-Platform & Embeddable**: Distributed as a single binary with no external dependencies, optimized for performance-critical environments, and designed for seamless integration into shell pipelines and scripting workflows.
 
 ## Why It Matters
 
@@ -38,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jqlang
-- Stars: 35050
-- Forks: 1806
+- Stars: 35034
+- Forks: 1807
 - Language: C
 - Topics: jq
-- Last Updated: 2026-06-26T14:47:10Z
+- Last Updated: 2026-06-26T22:08:06Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2012-07-18T19:57:25Z

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-27T01:41:04.923301+05:30'
+collected_at: '2026-06-27T04:08:18.387817+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-27T01:41:04.923301+05:30'
-last_seen: '2026-06-27T01:41:04.923301+05:30'
-last_checked: '2026-06-27T01:41:04.923301+05:30'
+first_seen: '2026-06-27T04:08:18.387817+05:30'
+last_seen: '2026-06-27T04:08:18.387817+05:30'
+last_checked: '2026-06-27T04:08:18.387817+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Ops (GenAIOps) project, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
+- **Purpose**: Provides a structured Bicep-based template for deploying Generative AI Ops (GenAIOps) solutions with Retrieval-Augmented Generation (RAG) capabilities on Azure.
 
-- **RAG Pipeline Integration**: Includes pre-configured components for document ingestion, vector storage (e.g., Azure Cognitive Search), and LLM inference orchestration, facilitating end-to-end RAG workflows.
+- **Infrastructure as Code (IaC)**: Leverages Bicep for declarative Azure resource provisioning, enabling reproducible GenAIOps environments with integrated RAG pipelines.
 
-- **GenAIOps Best Practices**: Implements Azure-native monitoring, logging (via Azure Monitor), and CI/CD pipelines (GitHub Actions) to ensure operational resilience and scalability for generative AI applications.
+- **Deployment Scope**: Supports end-to-end GenAIOps workflows, including AI model integration, data ingestion, vector databases, and operational monitoring components.
 
 ## Why It Matters
 

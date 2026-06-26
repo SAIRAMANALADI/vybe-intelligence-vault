@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-27T01:41:19.953840+05:30'
+collected_at: '2026-06-27T04:08:33.391753+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-27T01:41:19.953840+05:30'
-last_seen: '2026-06-27T01:41:19.953840+05:30'
-last_checked: '2026-06-27T01:41:19.953840+05:30'
+first_seen: '2026-06-27T04:08:33.391753+05:30'
+last_seen: '2026-06-27T04:08:33.391753+05:30'
+last_checked: '2026-06-27T04:08:33.391753+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and context augmentation.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and orchestration of the RAG pipeline using NVIDIA AI Workbench, leveraging GPU-accelerated components (e.g., `nvidia-ai-endpoints`, `transformers`).
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined development, deployment, and experimentation with AI models in a hybrid RAG context.
 
-- **Python-Based Example**: Provides a Python reference implementation with modular components for retrieval, reranking, and generation, optimized for NVIDIA GPUs (e.g., A100, H100) and frameworks like LangChain.
+- **Python-Based Example**: Provides a Python-based reference implementation with modular components for retrieval, reranking, and generation, optimized for GPU acceleration.
 
 ## Why It Matters
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-27T01:43:45.064292+05:30'
-published_at: '2026-06-26T18:37:02Z'
+collected_at: '2026-06-27T04:10:58.561048+05:30'
+published_at: '2026-06-26T20:45:59Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -20,11 +21,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-26T20:11:08Z'
+pushed_at: '2026-06-26T22:03:32Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-27T01:43:45.064292+05:30'
-last_seen: '2026-06-27T01:43:45.064292+05:30'
-last_checked: '2026-06-27T01:43:45.064292+05:30'
+first_seen: '2026-06-27T04:10:58.561048+05:30'
+last_seen: '2026-06-27T04:10:58.561048+05:30'
+last_checked: '2026-06-27T04:10:58.561048+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Open-source security automation platform designed for teams and AI agents, leveraging Python with FastAPI, Pydantic, and Temporal.io for workflow orchestration and event-driven automation.
+- **Platform Overview**: Tracecat is an open-source security automation platform designed for teams and AI agents, leveraging Python with FastAPI, Pydantic, and Temporal.io for workflow orchestration and event-driven automation.
 
-- **Key Features**: Supports low-code workflows, OpenAPI integration, and real-time monitoring with Next.js frontend; optimized for LLM-driven security operations and scalable agent interactions.
+- **Technical Stack**: Uses Next.js for the frontend, OpenAPI for API specifications, and integrates LLM capabilities for AI-driven security operations, with a low-code interface for workflow design.
 
-- **Architecture**: Modular design with temporal workflow engine, FastAPI backend, and Next.js frontend; includes security-focused components for event processing and automation.
+- **Core Features**: Supports monitoring, security automation, and orchestration with a focus on scalability and extensibility, last updated in June 2026.
 
 ## Why It Matters
 
@@ -49,11 +50,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 376
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-06-26T18:37:02Z
+- Last Updated: 2026-06-26T20:45:59Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-26T20:11:08Z
+- Pushed At: 2026-06-26T22:03:32Z
 
 ## Possible Use Cases
 

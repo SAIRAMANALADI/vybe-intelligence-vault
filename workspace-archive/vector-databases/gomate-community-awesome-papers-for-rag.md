@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Repository (`gomate-community/awesome-papers-for-rag`) listing high-quality research papers, frameworks, and tools focused on **Retrieval-Augmented Generation (RAG)**.
-- **Technical Scope**: Primarily Python-based, covering advancements in **RAG architectures**, **retrieval mechanisms**, and **generation optimization** for LLMs.
-- **Maintenance Status**: Last updated **June 2026**, indicating ongoing curation with **135 stars** and **12 forks** on GitHub.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+- **Python-Centric**: All listed resources are Python-based, implying compatibility with frameworks like LangChain, Haystack, or custom PyTorch implementations.
+- **Last Updated**: Repository was last synchronized on **2026-06-11**, ensuring recent inclusion of cutting-edge RAG research (e.g., hybrid retrie
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-06-27T01:41:19.876587+05:30'
+collected_at: '2026-06-27T04:08:33.375741+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 370
 language: Jupyter Notebook
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-06-27T01:41:19.876587+05:30'
-last_seen: '2026-06-27T01:41:19.876587+05:30'
-last_checked: '2026-06-27T01:41:19.876587+05:30'
+first_seen: '2026-06-27T04:08:33.375741+05:30'
+last_seen: '2026-06-27T04:08:33.375741+05:30'
+last_checked: '2026-06-27T04:08:33.375741+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** using **Llama 2 70B** and **LlamaIndex** for document retrieval and generation.
-- Provided as a **Jupyter Notebook** for interactive experimentation and demonstration.
-- Last updated **2026-05-24**, indicating active maintenance and potential future updates.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model and LlamaIndex for document retrieval and context integration.
+- **Notebook-Based**: Entire workflow encapsulated in a Jupyter Notebook, facilitating interactive experimentation and reproducibility.
+- **Updated**: Last commit on 2026-05-24, indicating active maintenance and potential support for recent dependencies.
 
 ## Why It Matters
 

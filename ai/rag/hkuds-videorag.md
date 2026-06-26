@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-27T01:42:14.970626+05:30'
+collected_at: '2026-06-27T04:09:28.426591+05:30'
 published_at: '2026-06-26T04:45:56Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-27T01:42:14.970626+05:30'
-last_seen: '2026-06-27T01:42:14.970626+05:30'
-last_checked: '2026-06-27T01:42:14.970626+05:30'
+first_seen: '2026-06-27T04:09:28.426591+05:30'
+last_seen: '2026-06-27T04:09:28.426591+05:30'
+last_checked: '2026-06-27T04:09:28.426591+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG Framework**: Introduces VideoRAG, a retrieval-augmented generation (RAG) system enabling LLMs to process and reason over long videos by integrating video embeddings, temporal segmentation, and multi-modal retrieval.
-
-- **Temporal-Aware Retrieval**: Implements a hierarchical retrieval mechanism with chunk-level and frame-level indexing to optimize long-video understanding, reducing computational overhead while preserving contextual relevance.
-
-- **Open-Source Implementation**: Provides a Python-based toolkit with pre-trained models, supporting multi-modal LLMs (e.g., LLaVA, VideoChat) for scalable video Q&A, retrieval, and summarization tasks.
+- **VideoRAG Framework**: Introduces a novel Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling conversational interaction with video content via multi-modal LLMs.
+- **Technical Stack**: Implemented in Python, leveraging large language models (LLMs) and multi-modal techniques to process, index, and retrieve video segments for contextual Q&A.
+- **KDD'2026 Contribution**: Proposes an efficient pipeline for video indexing, retrieval, and generation, optimizing for scalability and accuracy in handling extended video durations.
 
 ## Why It Matters
 

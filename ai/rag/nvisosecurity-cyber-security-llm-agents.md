@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-06-27T01:43:45.040277+05:30'
+collected_at: '2026-06-27T04:10:58.576430+05:30'
 published_at: '2026-06-26T07:46:47Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-- scripts
+- workflows
 stars: 373
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-06-27T01:43:45.040277+05:30'
-last_seen: '2026-06-27T01:43:45.040277+05:30'
-last_checked: '2026-06-27T01:43:45.040277+05:30'
+first_seen: '2026-06-27T04:10:58.576430+05:30'
+last_seen: '2026-06-27T04:10:58.576430+05:30'
+last_checked: '2026-06-27T04:10:58.576430+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate common cybersecurity tasks such as adversary emulation and red teaming.
+- **LLM-Driven Cybersecurity Agents**: Repository provides Jupyter Notebook-based agents leveraging LLMs to automate routine cybersecurity tasks, including adversary emulation and red teaming operations.
 
-- **Integration with CALDERA**: Agents are designed to interface with the CALDERA adversary emulation platform, enabling automated execution of attack simulations and security assessments.
+- **Integration with CALDERA**: Agents are designed to interface with the CALDERA adversary emulation platform, enabling automated execution of attack simulations and security testing workflows.
 
-- **Open-Source Toolkit**: Provides a modular, extensible framework for cybersecurity professionals to deploy LLM-driven automation in offensive and defensive security operations.
+- **Open-Source Toolkit**: Repository offers a modular, extensible framework for developing LLM-powered cybersecurity tools, with a focus on practical infosec applications and adversarial simulation.
 
 ## Why It Matters
 

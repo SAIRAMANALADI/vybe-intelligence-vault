@@ -16,13 +16,13 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [CORDIS | European Commission](https://cordis.europa.eu) | `frontend-ai-ui/` | 70 |
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
 | [Table of contents — voila 0.5.8 documentation](https://voila.readthedocs.io) | `frontend-ai-ui/` | 70 |
+| [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com) | `frontend-ai-ui/` | 70 |
 | [Work with member roles - Operations - Confluence](https://compass-ops-help.atlassian.net/wiki/spaces/OPERATIONS/pages/10420253/Work+with+member+roles) | `frontend-ai-ui/` | 70 |
 | [Scenario Compass Initiative | IIASA](https://scenariocompass.org) | `frontend-ai-ui/` | 70 |
+| [Heroicons](https://heroicons.com) | `frontend-ai-ui/` | 70 |
 | [Support : Preprints Help Center](https://support.researchsquare.com) | `frontend-ai-ui/` | 70 |
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [R Markdown](https://rmarkdown.rstudio.com) | `frontend-ai-ui/` | 70 |
 | [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind) | `frontend-ai-ui/` | 70 |
-| [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
-| [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) | `frontend-ai-ui/` | 70 |
 
 More resources will appear as the harvester collects them.

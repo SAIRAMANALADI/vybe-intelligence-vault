@@ -1,5 +1,5 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.15.0'
+title: 'crewAIInc/crewAI Release: 1.15.1a1'
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://github.com/crewaiinc/crewai
@@ -8,25 +8,26 @@ local_vault_path: ai/rag/crewaiinc-crewai.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - agents
 - crewaiinc-crewai
 - github-release
+- scripts
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
-# crewAIInc/crewAI Release: 1.15.0
+# crewAIInc/crewAI Release: 1.15.1a1
 
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 

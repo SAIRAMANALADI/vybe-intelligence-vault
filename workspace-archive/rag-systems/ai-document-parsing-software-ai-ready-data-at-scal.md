@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately interpret complex document structures, including headers, footers, multi-column layouts, and split sections, ensuring precise extraction of hierarchical content.
+- **Multimodal & Layout-Aware Parsing**: Processes 90+ formats (PDFs, scans, handwriting, tables, charts) with layout-aware OCR, multimodal context extraction, and support for 100+ languages, optimizing for accuracy via granular parsing modes.
 
-- **Multimodal and multilingual support**: Processes 90+ document formats (PDFs, scans, images, etc.) with embedded tables, charts, and handwriting, while supporting 100+ languages out-of-the-box for global applications.
-
-- **Scalable, enterprise-grade
+- **Enterprise Scalability**: Handles 1B+ documents processed, 25M+ monthly package downloads, and 300k+ users with multimodal, multilingual, and layout-aware parsing, supporting local/cloud deployment for high concurrency and enterprise-grade workflows.
 
 ## Use Cases
 

@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Context Management System**: OpenViking provides a hierarchical, file-system-based context database for AI Agents, unifying memory, resources, and skills management with self-evolving capabilities.
-- **Agentic-RAG Integration**: Designed for OpenClaw and similar agents, it enables structured context delivery via a filesystem paradigm, optimizing retrieval-augmented generation (RAG) workflows.
-- **Python-Based Framework**: Open-source tool (26K+ stars) supporting agentic AI, memory systems, a
+- **Context Database for AI Agents**: OpenViking is an open-source, file system-paradigm-based context database designed to unify memory, resources, and skills management for AI Agents (e.g., OpenClaw), enabling hierarchical context delivery and self-evolution.
+
+- **Hierarchical & Self-Evolving Architecture**: Implements a filesystem-like structure for hierarchical context organization, supporting dynamic evolution of agent capabilities through integrated skill and resource management.
+
+- **Pyth
 
 ## Use Cases
 

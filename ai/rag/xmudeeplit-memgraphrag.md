@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-27T01:42:25.006974+05:30'
+collected_at: '2026-06-27T04:09:38.427361+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-27T01:42:25.006974+05:30'
-last_seen: '2026-06-27T01:42:25.006974+05:30'
-last_checked: '2026-06-27T01:42:25.006974+05:30'
+first_seen: '2026-06-27T04:09:38.427361+05:30'
+last_seen: '2026-06-27T04:09:38.427361+05:30'
+last_checked: '2026-06-27T04:09:38.427361+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System with Memory Integration**: Introduces a memory-based multi-agent architecture for Graph Retrieval-Augmented Generation (GraphRAG), leveraging agent-memory mechanisms to enhance graph-based knowledge retrieval and generation.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system where specialized agents collaboratively construct and refine a knowledge graph for retrieval-augmented generation (RAG).
 
-- **Graph Construction & Ontology Integration**: Implements ontology-driven graph construction to dynamically build and refine knowledge graphs, enabling structured, scalable, and context-aware retrieval for RAG systems.
+- **Graph Construction & Ontology Integration**: Dynamically builds and maintains a graph structure with ontology alignment, enabling efficient subgraph retrieval and contextual reasoning for downstream tasks.
 
-- **Python-Based Framework**: Provides an open-source Python implementation optimized for KDD 2026, supporting modular agent interactions, memory management, and graph operations for advanced RAG applications.
+- **Memory-Augmented RAG Pipeline**: Leverages agent memory to iteratively enhance graph construction, improving retrieval precision and generation quality in long-form or complex query scenarios.
 
 ## Why It Matters
 

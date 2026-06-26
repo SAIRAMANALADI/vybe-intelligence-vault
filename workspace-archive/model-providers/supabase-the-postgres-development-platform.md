@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Postgres-based platform** integrating core backend services (Auth, Storage, Realtime, Edge Functions) with **vector embeddings** for AI/ML workloads, all built atop a **fully portable, RLS-enabled Postgres database**.
+- **PostgreSQL-based platform** providing a full relational database with built-in authentication (RLS), RESTful APIs, and real-time capabilities via a managed cloud service.
 
-- **Serverless execution model** via Edge Functions for custom logic, **instant RESTful APIs** for CRUD operations, and **real-time synchronization** for multiplayer or event-driven architectures.
+- **Modular backend services** including Edge Functions for serverless compute, Storage for large file handling, and Vector embeddings for ML model integration (OpenAI, Hugging Face).
 
-- **Scalable infrastructure** with built-in auth scaling (e.g., 1M users in 7 m
+- **Scalable infrastructure** with instant deployment, automatic scaling, and enterprise-grade security, trusted by companies like Mozilla,
 
 ## Use Cases
 

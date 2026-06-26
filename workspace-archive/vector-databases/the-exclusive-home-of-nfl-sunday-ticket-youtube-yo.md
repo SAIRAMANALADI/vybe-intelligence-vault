@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - models
 - rag
 - reddit
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Pricing & Bundling**: NFL Sunday Ticket offers new users $240/year (12x $20/mo) for out-of-market Sunday games; bundled with YouTube TV Sports Plan ($54.99/mo for 12mo, then $64.99/mo) for local/national games (AFC/NFC coverage). Returning users pay $378/year (12x $31.50/mo) for the bundle or $480/year (12x $40/mo) for standalone Sunday Ticket. **Non-refundable, 12-month non-cancelable terms apply.**
+- **Pricing & Bundling**: NFL Sunday Ticket offers new users **$240/year** (12x$20/mo) for standalone access to out-of-market Sunday games; bundling with YouTube TV’s **Sports Plan** adds local/national games (ABC, CBS, FOX, ESPN) for **$378/year** (12x$31.50/mo). Returning users pay **$480/year** (standalone) or **$378/year** (bundled).
 
-- **Technical Requirements & Features**: Requires 3+ Mbps (7+ Mbps recommended) for streami
+- **Coverage & Features**: Includes **all 32 NFL teams’ out-of-market Sunday games**, multiview (4 games simultaneously), fantasy tracking, and key-play highli
 
 ## Use Cases
 

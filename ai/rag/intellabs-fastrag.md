@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-27T01:41:54.993008+05:30'
+collected_at: '2026-06-27T04:09:08.438778+05:30'
 published_at: '2026-06-22T17:29:39Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 1782
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-27T01:41:54.993008+05:30'
-last_seen: '2026-06-27T01:41:54.993008+05:30'
-last_checked: '2026-06-27T01:41:54.993008+05:30'
+first_seen: '2026-06-27T04:09:08.438778+05:30'
+last_seen: '2026-06-27T04:09:08.438778+05:30'
+last_checked: '2026-06-27T04:09:08.438778+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG) optimized for large-scale NLP tasks, integrating retrieval, generation, and augmentation pipelines with support for multi-modal and knowledge-graph-based retrieval.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval-Augmented Generation (RAG) optimized for speed and scalability, supporting multi-modal inputs, knowledge graphs, and diffusion models alongside standard NLP tasks.
 
-- **Key Components**: Supports advanced retrieval mechanisms (e.g., ColBERT, semantic search, sentence-transformers) and generative models (e.g., diffusion, LLMs) with modular design for customization in tasks like QA, summarization, and benchmarking.
+- **Key Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., LLMs) with modular pipelines for benchmarking, semantic search, QA, and summarization.
 
-- **Performance Focus**: Designed for scalability and efficiency, leveraging Intel’s optimizations for high-throughput inference and low-latency retrieval in generative AI workflows.
+- **Performance Focus**: Designed for low-latency inference and high-throughput processing, leveraging Intel hardware optimizations (e.g., oneAPI, AVX-512) for transformer-based workloads.
 
 ## Why It Matters
 

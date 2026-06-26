@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and modification using LLMs (OpenAI, Anthropic, etc.) with non-blocking I/O operations.
-- **Multi-Agent Orchestration**: Supports concurrent agent collaboration via a distributed task queue (e.g., Celery/RQ) with state management for handling complex, multi-step coding workflows.
-- **Tool Integration & Extensibility**: Provides modular interfaces for integrating with version contr
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and editing using LLMs (OpenAI, Anthropic) with non-blocking I/O operations.
+- **Multi-Agent Orchestration**: Supports concurrent agent-based workflows (e.g., planning, execution, validation) with state management via shared memory or external databases.
+- **Extensible Tooling**: Provides modular interfaces for integrating custom tools (e.g., linters, debuggers) and supports dynam
 
 ## Use Cases
 

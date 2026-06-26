@@ -14,7 +14,9 @@ tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic LLM Vulnerability Scanner**: Python-based framework for evaluating LLM security via agentic red teaming, enabling automated detection of jailbreaks, prompt injections, and other LLM-specific vulnerabilities.
+- **Framework Overview**: Python-based agentic security toolkit (`msoedov/agentic_security`) for LLM vulnerability scanning, red teaming, and fuzzing, integrating agent frameworks, guardrails, and jailbreak detection.
 
-- **Multi-Tool Integration**: Aggregates and orchestrates multiple LLM fuzzing tools (e.g., prompt testers, guardrail evaluators) to systematically assess LLM robustness and attack surface.
+- **Core Capabilities**: Supports LLM evaluation, prompt testing, and vulnerability aggregation via modular components for fuzzing, jailbreak detection, and security assessment.
 
-- **Evaluation & Benchmarking**: Provides structured LLM security assessment with predef
+- **Technical Scope**: Encompasses LLM security domains (e.g., prompt injection, adversarial attacks)
 
 ## Use Cases
 

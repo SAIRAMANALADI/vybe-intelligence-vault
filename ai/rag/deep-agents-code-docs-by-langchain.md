@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-27T01:44:31.733902+05:30'
-collected_at: '2026-06-27T01:44:31.733917+05:30'
+published_at: '2026-06-27T04:12:11.553396+05:30'
+collected_at: '2026-06-27T04:12:11.553409+05:30'
 tags:
 - agents
 - anthropic
@@ -15,13 +15,12 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-27T01:44:31.733917+05:30'
-last_seen: '2026-06-27T01:44:31.733917+05:30'
-last_checked: '2026-06-27T01:44:31.733917+05:30'
+first_seen: '2026-06-27T04:12:11.553409+05:30'
+last_seen: '2026-06-27T04:12:11.553409+05:30'
+last_checked: '2026-06-27T04:12:11.553409+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session, with persistent memory for cross-conversation context and configurable approval gates for code execution.
+- **Multi-Model & Provider Agnostic**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command, with persistent memory for cross-conversation context.
 
-- **Built-in Toolset & Sandboxing**: Provides 15+ native tools (file ops, shell execution, web search via Tavily) with human-in-the-loop approval for destructive actions, plus optional remote sandboxes (LangSmith, E2B, Modal) for isolated code execution.
+- **Human-in-the-Loop & Approval Controls**: Destructive operations (e.g., file writes, shell execution) require explicit user approval by default; auto-approve mode (`-y`) bypasses prompts, while `--shell-allow-list` restricts executable commands.
 
-- **CLI & Non-Interactive Modes**: Offers interactive sessions with `/auth`, `/model` commands and non-interactive execution via `-n` flag, supporting stdin piping, timeout control (`--max-turns`, `--timeout`), and auto-approval (`-y`) for automated workflows.
+- **Remote Execution & Observability**: Supports remote sandboxes (e.g., LangSmith, Daytona) for tool execution, web search via Tavily API, and LangSmith tracing for debugging, with non-interactive mode (`-n`) for scripted tasks and strict timeout controls.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:44:31.733902+05:30
+- Published: 2026-06-27T04:12:11.553396+05:30
 
 ## Related Tags
 
@@ -55,7 +54,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

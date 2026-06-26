@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI SRE Agent Framework**: Open-source Python toolkit enabling autonomous Site Reliability Engineering (SRE) agents with root-cause analysis, incident management, and remediation capabilities for AI-era infrastructure.
+- **AI-Powered SRE Toolkit**: Open-source Python framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven root-cause analysis, incident management, and remediation workflows.
 
-- **Integration Ecosystem**: Supports observability platforms (Datadog, Grafana), alerting systems, and collaboration tools (Slack) for end-to-end incident lifecycle automation.
+- **Integration-Centric Design**: Supports observability platforms (Datadog, Grafana) and collaboration tools (Slack) for real-time alerting, incident tracking, and automated response orchestration.
 
-- **Modular Architecture**: Designed for extensibility with pluggable components for custom SRE wo
+- **Modular Architecture**: Extensible toolkit for building custom AI SRE agents,
 
 ## Use Cases
 

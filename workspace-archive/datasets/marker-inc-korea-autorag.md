@@ -15,10 +15,10 @@ tags:
 - dataset
 - github-repo
 - hackernews
-- openai
 - python
 - rag
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning and pipeline optimization for RAG systems using black-box optimization techniques (e.g., Bayesian optimization) to maximize performance metrics like answer correctness and context relevance without manual intervention.
+- **AutoML-driven RAG optimization**: Automates end-to-end RAG pipeline tuning (retrieval, generation, and post-processing) via black-box optimization techniques, eliminating manual configuration.
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarking tools for RAG components (retriever, generator, reranker) across datasets (e.g., MS MARCO, TriviaQA) with standardized metrics
+- **Comprehensive RAG evaluation**: Integrates multi-metric benchmarking (e.g., relevance, faithfulness, latency) with standardized datasets to quantify performance across retrieval, LLM decoding, and hybrid components.
+
+- **Modular Python framework**: Supports pluggable components (embedding models,
 
 ## Use Cases
 

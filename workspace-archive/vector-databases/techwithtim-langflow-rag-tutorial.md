@@ -8,7 +8,7 @@ local_vault_path: ai/rag/techwithtim-langflow-rag-tutorial.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Details**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 94 stars and 25 forks, last updated on 2026-06-09.
-- **Language & Topics**: Repository language unspecified; no topics listed.
-- **Purpose**: No description provided in the repository metadata.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴) with unknown primary language, last updated **2026-06-09T12:30:18Z**.
+- **Content**: No description, topics, or README provided; repository structure and purpose remain undocumented.
+- **Potential Focus**: Implied relevance to **Langflow** and **RAG (Retrieval-Augmented Generation)** pipelines, but no verifiable details.
 
 ## Use Cases
 

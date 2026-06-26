@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,912</p>
-        <p><b>Active:</b> 8,695 | <b>Inactive:</b> 217</p>
+        <p><b>Resources tracked:</b> 8,954</p>
+        <p><b>Active:</b> 8,735 | <b>Inactive:</b> 219</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,183</p>
+        <p><b>Archive Files:</b> 34,298</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 03:45 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 04:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,18 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+35 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Stainless · GitHub](ai/resources/stainless-github.md)** • Rank: <kbd>+448</kbd>
+- 🔼 **[supabase/examples at master · supabase/supabase · GitHub](ai/rag/supabase-supabase.md)** • Rank: <kbd>+328</kbd>
+- 🔼 **[Supabase | The Postgres Development Platform.](ai/rag/supabase-the-postgres-development-platform.md)** • Rank: <kbd>+3986</kbd>
+- 🔼 **[jqlang/jq](ai/resources/jqlang-jq.md)** • Rank: <kbd>+270</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • Score: `54`
+- 🆕 **[Vite | Next Generation Frontend Tooling](ai/rag/vite-next-generation-frontend-tooling.md)** • Score: `0`
+- 🆕 **[Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](ai/rag/tailwind-css-rapidly-build-modern-websites-without.md)** • Score: `0`
+- 🆕 **[StackBlitz | Instant Dev Environments | Click. Code. Done.](ai/rag/stackblitz-instant-dev-environments-click-code-don.md)** • Score: `0`
+- 🆕 **[LittleSound (Rizumu Ayaka) · GitHub](ai/resources/littlesound-rizumu-ayaka-github.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[What happened after 2k people tried to hack my AI assistant](ai/community/what-happened-after-2k-people-tried-to-hack-my-ai.md)**
+- 💤 **[Doing a masters while working in Spain](ai/community/doing-a-masters-while-working-in-spain.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

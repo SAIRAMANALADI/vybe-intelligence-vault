@@ -13,13 +13,14 @@ collected_at: '2026-06-27T01:39:50.256532+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-happened-after-2k-people-tried-to-hack-my-ai
 first_seen: '2026-06-26T10:10:28.768374+05:30'
 last_seen: '2026-06-27T01:39:50.256532+05:30'
 last_checked: '2026-06-27T01:39:50.256532+05:30'
 health_score: 100
 ---
+
 
 # What happened after 2k people tried to hack my AI assistant
 

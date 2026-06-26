@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Provides structured best practices for enhancing Large Language Models (LLMs) with retrieval-augmented generation (RAG), focusing on retrieval strategy, indexing, and prompt engineering for improved factual accuracy and context relevance.
-
-- **Python Implementation**: Includes modular Python codebase with utilities for document preprocessing, vector embedding (e.g., FAISS, Chroma), and dynamic query routing to optimize retrieval latency and precision.
-
-- **Evalu
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for document retrieval, embedding generation, and LLM integration in Python.
+- **Dynamic Retrieval Strategies**: Supports adaptive retrieval techniques (e.g., query rewriting, multi-hop retrieval) to enhance context relevance for large language models (LLMs).
+- **Evaluation & Benchmarking**: Includes standardized metrics and tools for assessing RAG system performance (e.g., re
 
 ## Use Cases
 

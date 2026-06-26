@@ -2,13 +2,13 @@
 title: LlamaParse Platform Quickstart | Developer Documentation
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://developers.llamaindex.ai/
+source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
 local_vault_path: ai/agents/llamaparse-platform-quickstart-developer-documenta.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -27,7 +27,7 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
@@ -35,10 +35,8 @@ selection_reason:
 ## Summary
 
 - **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
-
-- **Multi-format Output**: Converts processed documents into clean markdown, plain text, or structured JSON for seamless integration into LLM pipelines.
-
-- **Agentic Processing**: Utilizes autonomous agents to optimize parsing workflows, ensuring high accuracy and adaptability for complex document l
+- **Multi-format output**: Converts processed documents into clean markdown, plain text, or structured JSON for seamless integration into LLM pipelines.
+- **Agentic processing**: Designed as an autonomous component for AI workflows, optimizing document parsing for downstream tasks like retrieval, ana
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.llamaindex.ai/
+Original source URL: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

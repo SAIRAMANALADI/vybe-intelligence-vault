@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-27T01:40:40.577703+05:30'
-collected_at: '2026-06-27T01:40:40.577720+05:30'
+published_at: '2026-06-27T04:07:54.120036+05:30'
+collected_at: '2026-06-27T04:07:54.120050+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-27T01:40:40.577720+05:30'
-last_seen: '2026-06-27T01:40:40.577720+05:30'
-last_checked: '2026-06-27T01:40:40.577720+05:30'
+first_seen: '2026-06-27T04:07:54.120050+05:30'
+last_seen: '2026-06-27T04:07:54.120050+05:30'
+last_checked: '2026-06-27T04:07:54.120050+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications, supporting multiple document stores (Elasticsearch, FAISS, SQL) and scalable pipelines for retrieval, QA, and summarization with integration for BERT, RoBERTa, and DPR models.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with support for multiple document stores (Elasticsearch, FAISS, SQL), scalable pipelines, and integration with BERT/RoBERTa/DPR models.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding with pre-built components, intuitive workflow design, and support for custom embedding models and vector databases for streamlined RAG pipeline development.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, pre-built RAG pipelines, and integration with vector databases for simplified workflow design and efficient deployment.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research, featuring distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed performance and scalability with popular language models and vector stores.
+- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research with distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed performance.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:40:40.577703+05:30
+- Published: 2026-06-27T04:07:54.120036+05:30
 
 ## Related Tags
 

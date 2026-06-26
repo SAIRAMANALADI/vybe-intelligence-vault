@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Pre-configured Cloud Templates**: Repository provides Docker-ready cloud templates for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search, supporting live data synchronization with **SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs**.
-
-- **Multi-Platform Integration**: Supports **vector databases, Hugging Face models, OpenAI APIs, and local LLM deployment**, with built-in security and prompting optimizations for **LLMOps** workflows.
-
-- **Real-Ti
+- **Cloud-native templates** for **Retrieval-Augmented Generation (RAG)**, AI pipelines, and enterprise search with **real-time data synchronization** (SharePoint, Google Drive, S3, Kafka, PostgreSQL, APIs).
+- **Docker-optimized** deployment with **live sync** capabilities for structured/unstructured data, supporting **vector databases** and **real-time indexing**.
+- **Enterprise-grade LLM integration** (OpenAI, Hugging Face) with **LLMOps, security, and prompting** best practices, leveraging **
 
 ## Use Cases
 

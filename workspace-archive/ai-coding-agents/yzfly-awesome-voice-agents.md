@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of voice AI agent frameworks, tools, and resources covering **STT (Speech-to-Text), TTS (Text-to-Speech), VAD (Voice Activity Detection), voice cloning, conversion, recognition, synthesis, and real-time chat**.
-- **Topics** include **voice agents, assistants, and multi-modal interaction** systems, with a focus on **real-time processing** and **voice-based AI applications**.
-- **Last updated** in **June 2026**, maintained by **yzfly**, with **33 stars** and **15 forks** on GitH
+- **Curated collection** of voice AI agent frameworks, tools, and best practices, covering **STT (Speech-to-Text), TTS (Text-to-Speech), VAD (Voice Activity Detection), voice cloning, conversion, recognition, and synthesis**.
+- **Topics include** realtime chat, voice assistants, and agent-based systems, with a focus on **modular integration** of voice processing components.
+- **Last updated June 2026**, maintaining relevance in **voice-agent architectures** and emerging AI-driven conversational
 
 ## Use Cases
 

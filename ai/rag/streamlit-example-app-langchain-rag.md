@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-27T01:41:19.919246+05:30'
+collected_at: '2026-06-27T04:08:33.339162+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-27T01:41:19.919246+05:30'
-last_seen: '2026-06-27T01:41:19.919246+05:30'
-last_checked: '2026-06-27T01:41:19.919246+05:30'
+first_seen: '2026-06-27T04:08:33.339162+05:30'
+last_seen: '2026-06-27T04:08:33.339162+05:30'
+last_checked: '2026-06-27T04:08:33.339162+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with keyword-based retrieval in a LangChain-based RAG pipeline for enhanced document retrieval accuracy.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
 
-- **LangChain + Vectorstore Workflow**: Implements a Streamlit app showcasing LangChain's retrieval-augmented generation (RAG) using a vector database (e.g., FAISS, Chroma) for contextual question answering.
+- **LangChain + RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow where user queries are processed via a vector store (e.g., FAISS or Chroma) and passed to an LLM (e.g., GPT) for contextual response generation.
 
-- **Streamlit UI for RAG**: Provides a frontend interface to interact with the RAG system, allowing users to input queries and receive generated responses augmented by retrieved documents.
+- **Streamlit UI**: Provides a real-time web interface (via Streamlit) to interact with the RAG system, displaying retrieved documents and generated answers with adjustable parameters (e.g., search weights, top-k results).
 
 ## Why It Matters
 

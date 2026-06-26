@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-27T01:42:20.019444+05:30'
+collected_at: '2026-06-27T04:09:33.447182+05:30'
 published_at: '2026-06-24T11:50:55Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-27T01:42:20.019444+05:30'
-last_seen: '2026-06-27T01:42:20.019444+05:30'
-last_checked: '2026-06-27T01:42:20.019444+05:30'
+first_seen: '2026-06-27T04:09:33.447182+05:30'
+last_seen: '2026-06-27T04:09:33.447182+05:30'
+last_checked: '2026-06-27T04:09:33.447182+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval: coarse-grained (semantic clustering) and fine-grained (hierarchical graph traversal) for efficient knowledge extraction.
 
-- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high accuracy in knowledge-grounded responses.
+- **AAAI 2026 Framework**: Proposes a lightweight (LeanRAG) architecture leveraging graph neural networks (GNNs) and transformer-based encoders to optimize context relevance and reduce computational overhead in knowledge-intensive generation tasks.
 
-- **Python-Based Implementation**: Provides a modular, open-source toolkit with APIs for integrating knowledge graphs into LLMs, supporting customizable retrieval strategies and graph schemas.
+- **Python Implementation**: Open-source repository with modular components for knowledge graph construction, retrieval augmentation, and semantic aggregation, supporting scalable deployment in generative AI pipelines.
 
 ## Why It Matters
 

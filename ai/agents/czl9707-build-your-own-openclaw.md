@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/czl9707/build-your-own-openclaw
-collected_at: '2026-06-26T04:19:12.598206+05:30'
-published_at: '2026-06-25T06:58:00Z'
+collected_at: '2026-06-27T04:09:58.417555+05:30'
+published_at: '2026-06-26T00:35:41Z'
 tags:
 - agents
 - github-repo
 - python
 - workflows
-stars: 1747
+stars: 1748
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-11T02:47:02Z'
 pushed_at: '2026-06-03T03:04:19Z'
 resource_id: github:czl9707/build-your-own-openclaw
-first_seen: '2026-06-26T04:19:12.598206+05:30'
-last_seen: '2026-06-26T04:19:12.598206+05:30'
-last_checked: '2026-06-26T04:19:12.598206+05:30'
+first_seen: '2026-06-27T04:09:58.417555+05:30'
+last_seen: '2026-06-27T04:09:58.417555+05:30'
+last_checked: '2026-06-27T04:09:58.417555+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Python Framework**: Provides a structured, extensible architecture for constructing AI agents using Python, emphasizing component-based design for customization.
+- **Modular Python Framework**: Open-source repository providing a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for extensibility and customization.
 
-- **OpenCLaw Integration**: Implements OpenCLaw (Open-source Chain-of-Thought Language Agent Workflow) to enable reasoning, memory, and tool-use capabilities in AI agents.
+- **LLM Integration**: Demonstrates integration with large language models (LLMs) for core agent functionality, including prompt engineering, tool usage, and response generation workflows.
 
-- **Step-by-Step Tutorial**: Offers a hands-on guide covering agent setup, tool integration, and chain-of-thought prompting with practical examples and code snippets.
+- **Tutorial-Driven Development**: Offers a hands-on tutorial with practical examples, covering agent architecture, memory management, and deployment strategies for building functional AI agents.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: czl9707
-- Stars: 1747
+- Stars: 1748
 - Forks: 310
 - Language: Python
 - Topics: ai-agent, build-your-own-x, llm, python, tutorial
-- Last Updated: 2026-06-25T06:58:00Z
+- Last Updated: 2026-06-26T00:35:41Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-11T02:47:02Z

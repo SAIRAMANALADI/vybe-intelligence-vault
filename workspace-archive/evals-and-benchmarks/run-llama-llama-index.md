@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Document Agent & OCR Platform**: LlamaIndex provides a framework for building document agents with integrated OCR capabilities, enabling structured extraction and processing of unstructured data sources.
-
-- **Modular RAG & Multi-Agent Architecture**: Supports Retrieval-Augmented Generation (RAG) workflows with vector database integration and facilitates multi-agent systems for complex task decomposition and execution.
-
-- **Python-Based Framework**: Offers a Python-centric toolkit for fine-tu
+- **LlamaIndex**: A Python-based framework and document agent platform enabling **RAG (Retrieval-Augmented Generation)**, **OCR**, and **multi-agent** workflows for LLM applications.
+- **Core Features**: Supports **vector database** integration, **fine-tuning**, and **application-level** data orchestration for document processing and agent-based systems.
+- **Ecosystem**: Highly extensible with **50K+ stars** and **7K+ forks**, emphasizing **agents**, **multi-agent** collaboration, and **data pip
 
 ## Use Cases
 

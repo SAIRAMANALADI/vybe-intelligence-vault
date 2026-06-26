@@ -1,0 +1,55 @@
+---
+title: datawhalechina/llm-universe
+archive_category: prompt-libraries
+source_category: ai/rag
+source_url: https://github.com/datawhalechina/llm-universe
+resource_id: github:datawhalechina/llm-universe
+local_vault_path: ai/rag/datawhalechina-llm-universe.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: prompt
+importance: medium
+tags:
+- github-repo
+- hackernews
+- jupyter notebook
+- rag
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# datawhalechina/llm-universe
+
+## Why This Is In The Archive
+
+- Matched archive category: `Prompt Libraries`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Educational Resource**: Provides a beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks with focus on LangChain and RAG (Retrieval-Augmented Generation) workflows.
+
+- **Technical Scope**: Covers end-to-end implementation of LLM-based systems, including model integration, prompt engineering, and retrieval mechanisms for real-world applications.
+
+- **Community & Maintenance**: Actively maintained (last update: 2026-06-26) with 13,347 stars and 1,367 forks
+
+## Use Cases
+
+- System prompt patterns
+- Structured prompt design
+- Few-shot examples
+
+## Source
+
+Original source URL: https://github.com/datawhalechina/llm-universe
+
+## Local Vault File
+
+Path: [datawhalechina-llm-universe.md](../../ai/rag/datawhalechina-llm-universe.md)

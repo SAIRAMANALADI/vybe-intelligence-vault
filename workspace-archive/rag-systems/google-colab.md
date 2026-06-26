@@ -2,7 +2,7 @@
 title: Google Colab
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
@@ -12,7 +12,9 @@ resource_kind: benchmark
 importance: medium
 tags:
 - rag
+- reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Unavailable**: The provided link requires authentication via Google Sign-In, restricting access to the Haystack tutorial on building a first RAG pipeline.
+- **Resource Link**: [Milvus Bootcamp - Build RAG with Milvus](https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb) (access requires Google sign-in).
 
-- **Tutorial Focus**: The notebook (if accessible) likely covers end-to-end implementation of a Retrieval-Augmented Generation (RAG) pipeline using Haystack, including document retrieval and LLM integration.
+- **Purpose**: Tutorial demonstrates **Retrieval-Augmented Generation (RAG)** using **Milvus** as a vector database for efficient similarity search in LLM applications.
 
-- **Prerequisite**: Requires prior setup of Haystack (`pip install farm-haystack`) and dependencies (e.g., transformers, s
+- **Key Components**: Covers **Milvus vector DB setup**, **embedding generation**, and **integration with gene
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 
 ## Local Vault File
 

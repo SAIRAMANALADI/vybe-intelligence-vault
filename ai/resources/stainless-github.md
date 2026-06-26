@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/stainless-api
-published_at: '2026-06-26T15:29:29.283908+05:30'
-collected_at: '2026-06-26T15:29:29.283924+05:30'
+published_at: '2026-06-27T04:19:25.686452+05:30'
+collected_at: '2026-06-27T04:19:25.686464+05:30'
 tags:
 - anthropic
 - openai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:stainless-github
-first_seen: '2026-06-26T15:29:29.283924+05:30'
-last_seen: '2026-06-26T15:29:29.283924+05:30'
-last_checked: '2026-06-26T15:29:29.283924+05:30'
+first_seen: '2026-06-27T04:19:25.686464+05:30'
+last_seen: '2026-06-27T04:19:25.686464+05:30'
+last_checked: '2026-06-27T04:19:25.686464+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-language SDK Generation**: Stainless produces official SDKs for TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven), covering APIs like OpenAI, Modern Treasury, Anthropic, Cloudflare, and others.
-- **Automated SDK Maintenance**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App to auto-generate Release PRs for SDK repositories.
-- **Integration Workflow**: Requires OpenAPI specs pushed to GitHub, with Stainless App managing SDK updates and versioning across supported languages.
+- **Multi-language SDK Generation**: Stainless produces production-grade SDKs in TypeScript, Python, Go, Java, and Kotlin, supporting popular APIs like OpenAI, Modern Treasury, Anthropic, and Cloudflare.
+
+- **Automated Workflow Integration**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App for automated Release PRs to maintain SDK synchronization with upstream APIs.
+
+- **Developer Onboarding**: Requires OpenAPI spec upload via Stainless web app or GitHub Action, with GitHub App installation for continuous SDK updates.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T15:29:29.283908+05:30
+- Published: 2026-06-27T04:19:25.686452+05:30
 
 ## Related Tags
 

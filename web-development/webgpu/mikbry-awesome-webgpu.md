@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/mikbry/awesome-webgpu
-collected_at: '2026-06-24T20:38:08.640316+05:30'
-published_at: '2026-06-24T13:39:24Z'
+collected_at: '2026-06-27T04:07:00.238558+05:30'
+published_at: '2026-06-26T22:36:19Z'
 tags:
 - threejs
-stars: 1923
+stars: 1924
 language: Unknown
 status: active
 resource_id: github:mikbry/awesome-webgpu
 first_seen: '2026-06-12T10:40:17.491217+00:00'
-last_seen: '2026-06-24T20:38:08.640316+05:30'
-last_checked: '2026-06-24T20:38:08.640316+05:30'
+last_seen: '2026-06-27T04:07:00.238558+05:30'
+last_checked: '2026-06-27T04:07:00.238558+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mikbry
-- Stars: 1923
+- Stars: 1924
 - Forks: 104
 - Language: Unknown
 - Topics: 3d, awesome, awesome-list, gpu-computing, javascript, w3c, webgl, webgpu
-- Last Updated: 2026-06-24T13:39:24Z
+- Last Updated: 2026-06-26T22:36:19Z
 
 ## Possible Use Cases
 

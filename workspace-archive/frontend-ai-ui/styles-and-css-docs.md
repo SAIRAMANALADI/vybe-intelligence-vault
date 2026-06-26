@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Astro supports **scoped styles** (compiled with unique `data-astro-cid-*` attributes) to prevent CSS leakage, allowing low-specificity selectors like `h1 {}` without global side effects, while preserving specificity boundaries for child components.
-- **CSS import order** determines cascading precedence: `<head>` link tags (lowest), imported stylesheets (middle), and scoped styles (highest), with later imports overriding earlier ones at equal specificity.
-- **Tailwind integration** in Astro req
+- Astro supports scoped styles (automatically scoped to the component) via `<style>` tags, preventing CSS leakage; global styles require explicit `is:global` attribute or opt-out via `scopedStyleStrategy` config.
+- CSS cascading order in Astro prioritizes: `<head>` link tags (lowest) → imported stylesheets → scoped styles (highest), with later imports overriding earlier ones at equal specificity.
+- Tailwind integration in Astro requires either the `astro add tailwind` CLI command (for v4+ via `@
 
 ## Use Cases
 

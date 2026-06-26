@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -10,17 +10,11 @@ archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- anthropic
-- rag
-- web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
@@ -32,11 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack** is an open-source framework by **deepset-ai** for building **RAG (Retrieval-Augmented Generation)** pipelines, with **25.7k stars** and **2.9k forks** on GitHub.
+- **Modular AI Orchestration Framework**: Enables construction of production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
-- **Key discussions** include debugging retrieval failures, **Haystack Diagnostics Engine** for RAG validation, and security enhancements like **Agent Memory Guard** against poisoning attacks.
+- **Multi-Use Case Support**: Facilitates scalable agents, RAG systems, multimodal applications, semantic search, and conversational AI through a unified architecture.
 
-- **Community-driven developments** involve async execution bridges, LLM usage tracking, and table QA support in **Haystack 2.0*
+- **Technical Stack**: Implemented in Python with PyTorch, leveraging modern NLP techniques (transfo
 
 ## Use Cases
 
@@ -46,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

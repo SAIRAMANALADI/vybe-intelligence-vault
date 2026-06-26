@@ -3,17 +3,19 @@ title: Google Colab
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
-published_at: '2026-06-27T01:48:14.791025+05:30'
-collected_at: '2026-06-27T01:48:14.791038+05:30'
+source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+published_at: '2026-06-27T04:12:13.912776+05:30'
+collected_at: '2026-06-27T04:12:13.912787+05:30'
 tags:
 - rag
+- reddit
 - web-crawled
+- workflows
 status: active
 resource_id: blog:google-colab
-first_seen: '2026-06-27T01:48:14.791038+05:30'
-last_seen: '2026-06-27T01:48:14.791038+05:30'
-last_checked: '2026-06-27T01:48:14.791038+05:30'
+first_seen: '2026-06-27T04:12:13.912787+05:30'
+last_seen: '2026-06-27T04:12:13.912787+05:30'
+last_checked: '2026-06-27T04:12:13.912787+05:30'
 health_score: 100
 ---
 
@@ -21,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Resource Unavailable**: The provided link requires authentication via Google Sign-In, restricting access to the Haystack tutorial on building a first RAG pipeline.
+- **Resource Link**: [Milvus Bootcamp - Build RAG with Milvus](https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb) (access requires Google sign-in).
 
-- **Tutorial Focus**: The notebook (if accessible) likely covers end-to-end implementation of a Retrieval-Augmented Generation (RAG) pipeline using Haystack, including document retrieval and LLM integration.
+- **Purpose**: Tutorial demonstrates **Retrieval-Augmented Generation (RAG)** using **Milvus** as a vector database for efficient similarity search in LLM applications.
 
-- **Prerequisite**: Requires prior setup of Haystack (`pip install farm-haystack`) and dependencies (e.g., transformers, sentence-transformers) for execution.
+- **Key Components**: Covers **Milvus vector DB setup**, **embedding generation**, and **integration with generative models** for enhanced retrieval-augmented workflows.
 
 ## Why It Matters
 
@@ -35,13 +37,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:48:14.791025+05:30
+- Published: 2026-06-27T04:12:13.912776+05:30
 
 ## Related Tags
 
 - rag
+- reddit
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
+Original source: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb

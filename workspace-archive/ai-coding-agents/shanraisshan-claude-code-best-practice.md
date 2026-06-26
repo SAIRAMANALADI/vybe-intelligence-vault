@@ -6,9 +6,9 @@ source_url: https://github.com/shanraisshan/claude-code-best-practice
 resource_id: github:shanraisshan/claude-code-best-practice
 local_vault_path: ai/agents/shanraisshan-claude-code-best-practice.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -16,10 +16,11 @@ tags:
 - github-repo
 - hackernews
 - html
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # shanraisshan/claude-code-best-practice
@@ -27,17 +28,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Evolution of AI Coding Workflows**: Transition from *vibe coding* (intuitive, unstructured AI-assisted development) to *agentic engineering* (structured, autonomous AI-driven development) with a focus on optimizing **Claude Code** workflows for efficiency and scalability.
+- Repository provides structured best practices for transitioning from **vibe coding** to **agentic engineering** using **Claude Code**, emphasizing systematic workflows over ad-hoc generation.
 
-- **Best Practices Repository**: Curated collection of **Claude Code** commands, skills, and context-engineering techniques to enhance AI agent performance, including modularization, error handling, and multi-agent collabo
+- Focuses on **context engineering**, **command optimization**, and **skill refinement** for **Claude Code Agents**, including advanced techniques like **Boris** for workflow automation.
+
+- Repository includes **HTML-based documentation**, **command templates**, and **case studies** from Pakistani develo
 
 ## Use Cases
 

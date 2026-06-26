@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Model & Provider Agnostic**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command or CLI flags (`--model provider:model`), with persistent memory for cross-session context.
+- **Multi-Model & Provider Agnostic**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command, with persistent memory for cross-conversation context.
 
-- **Human-in-the-Loop & Sandboxing**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) via human-in-the-loop prompts, with optional auto-approval (`-y`). Supports remote sandboxe
+- **Human-in-the-Loop & Approval Controls**: Destructive operations (e.g., file writes, shell execution) require explicit user approval by default; auto-approve mode (`-y`) bypasses prompts, while `--shell-allow-list` restricts executable commands.
+
+-
 
 ## Use Cases
 
