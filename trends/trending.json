@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T22:07:22.840795+05:30",
+  "generated_at": "2026-06-27T22:45:42.266498+05:30",
   "trending_resources": [
     {
       "id": "github:deepseek-ai/deepspec",
@@ -376,6 +376,19 @@
       "source_type": "github",
       "url": "https://github.com/zilliztech/claude-context",
       "file_path": "ai/rag/zilliztech-claude-context.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:broken-link",
+      "title": "[BROKEN LINK] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/broken-link.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
