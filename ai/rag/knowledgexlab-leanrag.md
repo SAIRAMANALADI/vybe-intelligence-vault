@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-27T14:22:44.498195+05:30'
+collected_at: '2026-06-27T16:37:11.228045+05:30'
 published_at: '2026-06-24T11:50:55Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-27T14:22:44.498195+05:30'
-last_seen: '2026-06-27T14:22:44.498195+05:30'
-last_checked: '2026-06-27T14:22:44.498195+05:30'
+first_seen: '2026-06-27T16:37:11.228045+05:30'
+last_seen: '2026-06-27T16:37:11.228045+05:30'
+last_checked: '2026-06-27T16:37:11.228045+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Introduces a knowledge-graph-based method for aggregating semantic relationships to enhance contextual retrieval and generation in RAG systems.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that leverages semantic aggregation and multi-level retrieval to enhance contextual relevance and reduce noise in generated outputs.
 
-- **Hierarchical Retrieval Framework**: Implements a multi-layered retrieval strategy to dynamically select and refine relevant subgraphs or entities from the knowledge graph for improved precision.
+- **Efficiency Optimizations**: Designed for AAAI 2026, the system optimizes retrieval and generation pipelines using lightweight graph traversal and hierarchical indexing, improving scalability for large knowledge graphs.
 
-- **Efficiency Optimization**: Designed for AAAI 2026, LeanRAG emphasizes lightweight, scalable architecture (Python-based) to reduce computational overhead while maintaining high retrieval accuracy.
+- **Python Implementation**: Open-source repository with modular components for graph construction, retrieval, and LLM integration, supporting extensibility for custom knowledge graphs and retrieval strategies.
 
 ## Why It Matters
 

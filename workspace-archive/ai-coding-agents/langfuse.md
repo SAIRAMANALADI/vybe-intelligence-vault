@@ -1,0 +1,60 @@
+---
+title: Langfuse
+archive_category: ai-coding-agents
+source_category: ai/rag
+source_url: https://langfuse.com
+resource_id: blog:langfuse
+local_vault_path: ai/rag/langfuse.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- anthropic
+- benchmark
+- dataset
+- hackernews
+- meta-ai
+- mistral
+- models
+- openai
+- producthunt
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Langfuse
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processing over 10 billion observations/month, with a developer community of 100,000+ engineers building on the platform.
+
+- **Core Capabilities**: Provides hierarchical tracing of LLM calls, tool invocations, and retrieval steps with observability, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a unified workflow.
+
+- **Integration Ecosystem**: Supports OpenTelem
+
+## Use Cases
+
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
+
+## Source
+
+Original source URL: https://langfuse.com
+
+## Local Vault File
+
+Path: [langfuse.md](../../ai/rag/langfuse.md)

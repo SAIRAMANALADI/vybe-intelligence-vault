@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-27T14:21:09.614387+05:30'
-collected_at: '2026-06-27T14:21:09.614398+05:30'
+published_at: '2026-06-27T16:35:36.245242+05:30'
+collected_at: '2026-06-27T16:35:36.245256+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-27T14:21:09.614398+05:30'
-last_seen: '2026-06-27T14:21:09.614398+05:30'
-last_checked: '2026-06-27T14:21:09.614398+05:30'
+first_seen: '2026-06-27T16:35:36.245256+05:30'
+last_seen: '2026-06-27T16:35:36.245256+05:30'
+last_checked: '2026-06-27T16:35:36.245256+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), embedding optimization (e.g., fine-tuning models like `sentence-transformers`), and vector database integration (e.g., Supabase with pgvector) for efficient retrieval.
-- **Production Optimization**: Advanced retrieval techniques (hybrid search combining dense/sparse vectors), caching strategies (e.g., Redis for embeddings), and deployment via Cloudflare Workers for low-latency scaling.
-- **Monitoring & Cost Control**: Latency benchmarks (e.g., retrieval vs. generation phases), token optimization (e.g., prompt compression), and observability via Sentry for error tracking and performance metrics.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance factual accuracy; LangChain simplifies pipeline integration.
+
+- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding optimization (model selection, quantization), hybrid retrieval (dense+sparse), and caching reduce latency/cost.
+
+- **Scaling & Monitoring**: Cloudflare Workers for edge deployment, Sentry for observability, load balancing across models, and token-usage optimization for cost-performance trade-offs.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:21:09.614387+05:30
+- Published: 2026-06-27T16:35:36.245242+05:30
 
 ## Related Tags
 

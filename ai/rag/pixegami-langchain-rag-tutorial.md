@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-06-27T14:21:14.389150+05:30'
-published_at: '2026-06-26T06:08:50Z'
+collected_at: '2026-06-27T16:35:41.072318+05:30'
+published_at: '2026-06-27T10:53:26Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
-stars: 966
+stars: 967
 language: Python
 status: active
 archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-06-27T14:21:14.389150+05:30'
-last_seen: '2026-06-27T14:21:14.389150+05:30'
-last_checked: '2026-06-27T14:21:14.389150+05:30'
+first_seen: '2026-06-27T16:35:41.072318+05:30'
+last_seen: '2026-06-27T16:35:41.072318+05:30'
+last_checked: '2026-06-27T16:35:41.072318+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
-
-- **Python-Based Architecture**: Utilizes Python with LangChain’s modular components (e.g., document loaders, embeddings, vector stores, and LLMs) to construct the RAG workflow.
-
-- **GitHub Repository**: Hosted on GitHub with 966 stars and 518 forks, last updated June 26, 2026, serving as a foundational tutorial for LangChain RAG applications.
+- **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced response generation.
+- **Modular Python Codebase**: Provides a structured, reusable Python implementation with clear separation of components (e.g., embedding, retrieval, LLM integration).
+- **Tutorial Focus**: Designed as an educational resource to illustrate core RAG concepts, including vector stores (e.g., FAISS), document chunking, and prompt engineering.
 
 ## Why It Matters
 
@@ -41,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pixegami
-- Stars: 966
+- Stars: 967
 - Forks: 518
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-26T06:08:50Z
+- Last Updated: 2026-06-27T10:53:26Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

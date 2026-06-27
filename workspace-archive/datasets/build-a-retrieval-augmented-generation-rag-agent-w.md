@@ -40,7 +40,9 @@ selection_reason:
 
 ## Summary
 
-*   Agentic RAG systems, built on a ReAct agent architecture, dynamically decide between
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and complex reasoning.
+
+- **Pipeline Workflow**: Implements a Retrieval Chain with a retriever tool, where the ReAct agent iteratively decides whether to retrieve external knowledge or respo
 
 ## Use Cases
 

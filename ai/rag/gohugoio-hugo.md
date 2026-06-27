@@ -1,57 +1,70 @@
 ---
-title: Releases · gohugoio/hugo · GitHub
+title: gohugoio/hugo
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-27T14:25:36.317499+05:30'
-collected_at: '2026-06-27T14:25:36.317513+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/gohugoio/hugo
+collected_at: '2026-06-27T16:39:26.672913+05:30'
+published_at: '2026-06-27T08:59:19Z'
 tags:
-- agents
-- frontend_ui
-- hackernews
+- github-repo
+- go
 - rag
-- reddit
-- scripts
-- web-crawled
+stars: 88746
+language: Go
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2013-07-04T15:26:26Z'
+pushed_at: '2026-06-25T10:09:52Z'
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-27T14:25:36.317513+05:30'
-last_seen: '2026-06-27T14:25:36.317513+05:30'
-last_checked: '2026-06-27T14:25:36.317513+05:30'
+first_seen: '2026-06-27T16:39:26.672913+05:30'
+last_seen: '2026-06-27T16:39:26.672913+05:30'
+last_checked: '2026-06-27T16:39:26.672913+05:30'
 health_score: 100
 ---
 
-# Releases · gohugoio/hugo · GitHub
+# gohugoio/hugo
 
 ## Summary
 
-- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 (JPEG/WebP at 75 is comparable), added per-format quality configuration, and introduced `hint` parameter for YUV420/YUV444 chroma subsampling optimization.
+- **Static Site Generator**: Hugo is a highly optimized static site generator written in Go, enabling rapid website builds by pre-compiling content into static files, eliminating runtime overhead.
 
-- **Security Fixes**: Addressed integer IPv4 host encoding normalization in HTTP URL checks, dropped symlink handling in filesystem operations, and updated `golang.org/x/image` dependency to mitigate vulnerabilities.
+- **Performance-Centric Design**: Leverages Go’s concurrency model and memory efficiency to achieve sub-millisecond build times, even for large-scale sites with thousands of pages.
 
-- **Regression Fixes**: Resolved page/section name collision regression and improved Node.js resolver error handling in `v0.163.3`, alongside standardization of external converter behavior in `v0.163.2`.
+- **Extensible Architecture**: Supports modular themes, custom shortcodes, and a robust plugin system, enabling integration with content pipelines, asset pipelines, and third-party APIs.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-06-27T14:25:36.317499+05:30
+- Owner: gohugoio
+- Stars: 88746
+- Forks: 8280
+- Language: Go
+- Topics: blog-engine, cms, content-management-system, documentation-tool, go, hugo, static-site-generator
+- Last Updated: 2026-06-27T08:59:19Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2013-07-04T15:26:26Z
+- Pushed At: 2026-06-25T10:09:52Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- frontend_ui
-- hackernews
-- rag
-- reddit
-- scripts
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo/releases
+Original source: https://github.com/gohugoio/hugo

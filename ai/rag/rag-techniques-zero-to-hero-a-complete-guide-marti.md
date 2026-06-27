@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-27T14:21:09.885740+05:30'
-collected_at: '2026-06-27T14:21:09.885747+05:30'
+published_at: '2026-06-27T16:35:36.449244+05:30'
+collected_at: '2026-06-27T16:35:36.449257+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-27T14:21:09.885747+05:30'
-last_seen: '2026-06-27T14:21:09.885747+05:30'
-last_checked: '2026-06-27T14:21:09.885747+05:30'
+first_seen: '2026-06-27T16:35:36.449257+05:30'
+last_seen: '2026-06-27T16:35:36.449257+05:30'
+last_checked: '2026-06-27T16:35:36.449257+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where retrieved context conditions generation to improve factuality and reduce hallucinations; core components include embeddings, vector stores, rerankers, and orchestration layers.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional rerankers/query rewriters; orchestration layers (caching, metadata) optimize performance and cost.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings (off-the-shelf or domain-fine-tuned) must balance dimensionality, modality support, and normalization for effective vector search.
+- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and embedding models (off-the-shelf vs. fine-tuned) directly impact retrieval precision; hybrid search (BM25 + vector) and ANN indexes (HNSW/IVF) balance latency and recall.
 
-- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, and context distillation improve complex QA; hybrid retrieval (BM25 + vector) and cross-encoder rerankers enhance precision, while evaluation metrics must cover both retrieval (MRR/nDCG) and generation (factuality/hallucination rate).
+- **Multi-Stage Retrieval & Context Control**: Two-stage retrieval (first-stage ANN/BM25 + second-stage cross-encoder rerankers) improves precision; context distillation (LLM-based summarization) and iterative multi-hop retrieval enhance reasoning while reducing hallucinations.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:21:09.885740+05:30
+- Published: 2026-06-27T16:35:36.449244+05:30
 
 ## Related Tags
 

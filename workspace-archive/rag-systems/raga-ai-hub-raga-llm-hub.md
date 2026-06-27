@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Python-based framework for evaluating large language models (LLMs), implementing guardrails, and enhancing LLM security within LLM operations (LLMOps).
-- **Core Features**: Includes modules for LLM evaluation metrics, runtime guardrails (e.g., input/output validation, toxicity filtering), and security hardening (e.g., prompt injection detection).
-- **Integration**: Designed for modular deployment in production pipelines, supporting customizable evaluation benchmarks and security p
+- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security in Python-based workflows.
+- **Key Features**: Supports LLM evaluation metrics, real-time guardrails for safety/compliance, and security hardening for LLM deployments.
+- **Integration**: Designed for LLMops pipelines, enabling automated evaluation and security enforcement in production environments.
 
 ## Use Cases
 

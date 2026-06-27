@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability, supporting 100+ providers via LiteLLM for seamless multi-model deployment and monitoring.
-
-- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for scalable, maintainable RAG applications.
-
-- **Modern Stack**: Built with AI/ML-centric tooling (RAG, LLM) in TypeScript, last updated March 2026, optimized for production-grade AI workflows.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM to support 100+ LLM providers.
+- **Strict Development Standards**: Full TypeScript type-checking, Dockerized deployment, and 100% test coverage.
+- **Modern AI Stack**: Built for RAG workflows with TypeScript, optimized for scalability and production-grade reliability.
 
 ## Use Cases
 

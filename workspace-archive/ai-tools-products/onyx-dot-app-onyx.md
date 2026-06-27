@@ -6,14 +6,13 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - frontend_ui
 - github-repo
-- models
 - openai
 - python
 - rag
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Chat Platform**: Open-source Python-based system supporting **any LLM** with advanced features (RAG, vector search, enterprise-grade retrieval) via a **Next.js** frontend.
-- **Enterprise Features**: Includes **self-hosted deployment**, **information retrieval**, and **multi-modal chat UI** optimized for Gen-AI workflows.
-- **Scalable Architecture**: Integrates **vector search**, **LLM fine-tuning**, and **real-time data processing** with modular design for extensibility.
+- **Open-source AI platform** supporting **multi-LLM integration** with advanced chat features, built in **Python** and **Next.js** for frontend/backend.
+- **Enterprise-grade capabilities** including **RAG (Retrieval-Augmented Generation)**, **vector search**, and **self-hosted deployment** for scalable information retrieval.
+- **17K+ stars** and **4K+ forks**, last updated **June 2026**, with active development in **AI chat UI**, **LLM optimization**, and **gen-AI workflows**.
 
 ## Use Cases
 

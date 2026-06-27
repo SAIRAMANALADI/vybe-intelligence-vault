@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,032</p>
-        <p><b>Active:</b> 8,811 | <b>Inactive:</b> 221</p>
+        <p><b>Resources tracked:</b> 9,044</p>
+        <p><b>Active:</b> 8,823 | <b>Inactive:</b> 221</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,525</p>
+        <p><b>Archive Files:</b> 34,565</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 15:38 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 16:51 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,15 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+3</kbd>
+- 🔼 **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](ai/community/u-s-allows-anthropic-to-release-mythos-ai-to-trust.md)** • <kbd>+41 pts</kbd>
+- 🔼 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[AI in mathematics is forcing big questions](ai/community/ai-in-mathematics-is-forcing-big-questions.md)** • <kbd>+19 pts</kbd>
+- 🔼 **[Anatomy of a Failed (Nation-State?) Attack](ai/community/anatomy-of-a-failed-nation-state-attack.md)** • <kbd>+15 pts</kbd>
+- 🔼 **[Show HN: Hacker News on a train station-style flip board](ai/community/show-hn-hacker-news-on-a-train-station-style-flip.md)** • <kbd>+11 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[gradio-app/gradio](ai/resources/gradio-app-gradio.md)** • Score: `0`
+- 🆕 **[Spaces - Hugging Face](ai/rag/spaces-hugging-face.md)** • Score: `0`
+- 🆕 **[hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub](ai/rag/huggingface-hub-docs.md)** • Score: `0`
+- 🆕 **[getsentry/sentry-go](ai/resources/getsentry-sentry-go.md)** • Score: `0`
+- 🆕 **[getsentry/sentry-java](ai/resources/getsentry-sentry-java.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-27T14:23:39.543094+05:30'
+collected_at: '2026-06-27T16:38:06.248901+05:30'
 published_at: '2026-06-27T05:59:41Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-24T16:17:57Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-27T14:23:39.543094+05:30'
-last_seen: '2026-06-27T14:23:39.543094+05:30'
-last_checked: '2026-06-27T14:23:39.543094+05:30'
+first_seen: '2026-06-27T16:38:06.248901+05:30'
+last_seen: '2026-06-27T16:38:06.248901+05:30'
+last_checked: '2026-06-27T16:38:06.248901+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized **Agent Skills** and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., React, Angular, Spring Boot, Laravel), designed to guide AI agents in adhering to industry-standard coding conventions.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as React, Angular, NestJS, Spring Boot, Kotlin, and Flutter.
 
-- **Scope & Topics**: Covers **19+ frameworks/languages** (Android, Flutter, Next.js, NestJS, etc.) and **agentic AI** methodologies, including **Cursor Rules** and **coding standards** for mobile (iOS/Android), web (React/Next.js), and backend (Spring Boot, Laravel) development.
+- **Purpose**: Designed to guide AI agents in adhering to industry-standard coding practices and framework-specific conventions for improved consistency and efficiency.
 
-- **Metadata**: **514 stars**, **149 forks**, last updated **2026-06-27**; serves as a structured reference for AI agents to implement consistent, high-quality code across diverse tech stacks.
+- **Metadata**: 514 stars, 149 forks, last updated on 2026-06-27, with topics including agentic AI, best practices, and multiple frontend/backend frameworks.
 
 ## Why It Matters
 

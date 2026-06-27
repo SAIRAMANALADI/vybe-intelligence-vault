@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-06-27T09:55:13.719370+05:30'
-collected_at: '2026-06-27T09:55:13.719382+05:30'
+published_at: '2026-06-27T16:39:25.692278+05:30'
+collected_at: '2026-06-27T16:39:25.692292+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-06-27T09:55:13.719382+05:30'
-last_seen: '2026-06-27T09:55:13.719382+05:30'
-last_checked: '2026-06-27T09:55:13.719382+05:30'
+first_seen: '2026-06-27T16:39:25.692292+05:30'
+last_seen: '2026-06-27T16:39:25.692292+05:30'
+last_checked: '2026-06-27T16:39:25.692292+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for managing npm registries, packages, and dependencies; includes commands like `npm install`, `npm publish`, and `npm audit` for security checks.
-- **Package Registry**: Centralized repository for JavaScript packages with versioning, dependency resolution, and metadata (e.g., `package.json`).
-- **Security & Policies**: Enforces access controls, threat mitigations (e.g., scope-based permissions), and compliance via npm’s threat and mitigation documentation.
+- **npm CLI**: Command-line interface for interacting with the npm registry, enabling package installation, version management, and dependency resolution via commands like `npm install`, `npm update`, and `npm publish`.
+
+- **Registry & Packages**: Centralized repository for JavaScript packages/modules, supporting semantic versioning (`semver`), dependency trees, and metadata via `package.json` for dependency management.
+
+- **Security & Policies**: Enforces security measures (e.g., `npm audit`, `npm ci`) and organizational policies (e.g., 2FA, package signing) to mitigate supply-chain threats like dependency confusion and malicious package uploads.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:55:13.719370+05:30
+- Published: 2026-06-27T16:39:25.692278+05:30
 
 ## Related Tags
 

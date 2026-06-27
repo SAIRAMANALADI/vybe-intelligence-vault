@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://spectrum.ieee.org/ai-in-mathematics
 hn_url: https://news.ycombinator.com/item?id=48692883
-score: 115
+score: 134
 author: rbanffy
-comments_count: 82
+comments_count: 101
 published_at: '2026-06-27T04:06:51+05:30'
-collected_at: '2026-06-27T14:20:27.892098+05:30'
+collected_at: '2026-06-27T16:34:51.382928+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-in-mathematics-is-forcing-big-questions
 first_seen: '2026-06-27T09:47:00.824442+05:30'
-last_seen: '2026-06-27T14:20:27.892098+05:30'
-last_checked: '2026-06-27T14:20:27.892098+05:30'
+last_seen: '2026-06-27T16:34:51.382928+05:30'
+last_checked: '2026-06-27T16:34:51.382928+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rbanffy. Score: 115, Comments: 82.
+Hacker News story by rbanffy. Score: 134, Comments: 101.
 Original Link: https://spectrum.ieee.org/ai-in-mathematics
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rbanffy
-- Score: 115 Upvotes
-- Comments: 82 Discussions
+- Score: 134 Upvotes
+- Comments: 101 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48692883
 - Original Article: https://spectrum.ieee.org/ai-in-mathematics
 

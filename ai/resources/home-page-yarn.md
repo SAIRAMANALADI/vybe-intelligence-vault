@@ -3,17 +3,17 @@ title: Home page | Yarn
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://yarnpkg.com
-published_at: '2026-06-22T11:20:05.021829+05:30'
-collected_at: '2026-06-22T11:20:05.021837+05:30'
+source_url: https://yarnpkg.com/
+published_at: '2026-06-27T16:42:38.653440+05:30'
+collected_at: '2026-06-27T16:42:38.653450+05:30'
 tags:
 - web-crawled
 - workflows
 status: active
 resource_id: blog:home-page-yarn
-first_seen: '2026-06-22T11:20:05.021837+05:30'
-last_seen: '2026-06-22T11:20:05.021837+05:30'
-last_checked: '2026-06-22T11:20:05.021837+05:30'
+first_seen: '2026-06-27T16:42:38.653450+05:30'
+last_seen: '2026-06-27T16:42:38.653450+05:30'
+last_checked: '2026-06-27T16:42:38.653450+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling modular project decomposition into sub-components for efficient dependency management in both simple and monorepo projects.
+- **Unified Package & Project Management**: Yarn 4+ serves as both a package manager and project manager, supporting simple projects to large-scale monorepos with features like workspaces for modular sub-component management.
 
-- **Stability & Reproducibility**: Yarn ensures deterministic installs, guaranteeing consistent behavior across environments and future versions, eliminating "works today, breaks tomorrow" scenarios.
+- **Deterministic & Future-Proof Installs**: Implements strict stability guarantees ensuring reproducible builds across environments and future Yarn versions via deterministic dependency resolution and zero-installs.
 
-- **Plugin Architecture**: Yarn provides extensibility via a robust plugin system, allowing users to customize workflows and integrate additional functionality beyond core package management capabilities.
+- **Extensible Plugin Architecture**: Provides a robust plugin system enabling custom workflows and tooling integration, while maintaining full open-source independence with community-driven roadmap and no corporate affiliation.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:20:05.021829+05:30
+- Published: 2026-06-27T16:42:38.653440+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://yarnpkg.com
+Original source: https://yarnpkg.com/

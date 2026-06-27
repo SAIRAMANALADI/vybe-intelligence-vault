@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-27T14:22:39.458937+05:30'
+collected_at: '2026-06-27T16:37:01.165182+05:30'
 published_at: '2026-06-26T23:05:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 640
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-27T14:22:39.458937+05:30'
-last_seen: '2026-06-27T14:22:39.458937+05:30'
-last_checked: '2026-06-27T14:22:39.458937+05:30'
+first_seen: '2026-06-27T16:37:01.165182+05:30'
+last_seen: '2026-06-27T16:37:01.165182+05:30'
+last_checked: '2026-06-27T16:37:01.165182+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates step-by-step construction of a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
 
-- **GenAI Integration**: Implements a lightweight GenAI backend with retrieval mechanisms, showcasing efficient document processing and vector embeddings for contextual augmentation.
+- **Modular Architecture**: Implements a structured workflow with components for document ingestion, vector storage (FAISS), retrieval, and LLM inference, emphasizing scalability and maintainability.
 
-- **Scalable Architecture**: Includes CI/CD-ready Docker setup, modular FastAPI endpoints, and educational examples for scaling RAG applications in production environments.
+- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., Hugging Face Transformers) and FastAPI for serving endpoints, with Dockerized deployment for reproducibility.
 
 ## Why It Matters
 

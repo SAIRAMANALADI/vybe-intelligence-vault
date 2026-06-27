@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-27T14:21:59.466914+05:30'
+collected_at: '2026-06-27T16:36:26.189761+05:30'
 published_at: '2026-06-27T08:16:54Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-27T14:21:59.466914+05:30'
-last_seen: '2026-06-27T14:21:59.466914+05:30'
-last_checked: '2026-06-27T14:21:59.466914+05:30'
+first_seen: '2026-06-27T16:36:26.189761+05:30'
+last_seen: '2026-06-27T16:36:26.189761+05:30'
+last_checked: '2026-06-27T16:36:26.189761+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM & RAG system development**: Course provides hands-on lessons (12 sessions) for building production-ready LLMs and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and infrastructure-as-code (IaC) templates.
-
-- **Tech stack integration**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Comet-ML) with cloud infrastructure (AWS) and IaC frameworks (Pulumi), alongside containerization (Docker) for scalable, modular ML system design.
-
-- **MLOps & deployment focus**: Covers ML system design, MLOps workflows, and deployment strategies (e.g., Qwak) with emphasis on scalability, monitoring, and integration of generative AI components in production environments.
+- **Course Structure**: Provides a free, hands-on guide to building a production-ready LLM and RAG system using LLMOps best practices, including source code and 12 interactive lessons.
+- **Tech Stack**: Implements AWS, Bytewax, Comet-ML, Pulumi (IaC), Qdrant (vector DB), Qwak (MLOps), and Superlinked for infrastructure and scalability.
+- **Deployment Focus**: Covers Docker, ML system design, and end-to-end MLOps workflows for generative AI applications.
 
 ## Why It Matters
 

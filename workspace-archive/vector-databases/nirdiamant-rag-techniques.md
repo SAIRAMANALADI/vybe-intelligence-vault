@@ -6,9 +6,9 @@ source_url: https://github.com/NirDiamant/RAG_Techniques
 resource_id: github:nirdiamant/rag_techniques
 local_vault_path: ai/rag/nirdiamant-rag-techniques.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -20,7 +20,8 @@ tags:
 - openai
 - rag
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Active open-source repository
 ---
 
 # NirDiamant/RAG_Techniques
@@ -28,16 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
-*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques through detailed Jupyter Notebook tutorials.
-*   Implements RAG systems leveraging `langchain`, `llama-index`, `OpenAI` (GPT), and various `LLMs` with `embeddings` and `vector-database` integration.
-*   Explores specialized RAG paradigms including `agentic-rag` and `semantic-search` within the RAG framework.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and vector databases, with 28,214 stars and 3,424 forks.
+- **Technical Scope**: Integrates LangChain, LlamaIndex, OpenAI, and semantic search, focusing on LLM-driven retrieval augmentation and Python-based implementations.
+- **Last Update**: Repository was last updated on **2026-06-27**, ensuring recent advancements in RAG methodologies are included.
 
 ## Use Cases
 

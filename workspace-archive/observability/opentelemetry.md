@@ -6,7 +6,7 @@ source_url: https://opentelemetry.io/
 resource_id: blog:opentelemetry
 local_vault_path: ai/agents/opentelemetry.md
 quality_score: 70
-archive_score: 84
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
 importance: high
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 84 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces, metrics, and logs from cloud-native applications, building on OpenTracing and OpenCensus while incorporating community best practices.
+- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools to capture distributed traces, metrics, and logs from cloud-native applications, consolidating observability signals (traces, metrics, logs, baggage) with shared context propagation across service boundaries.
 
-- **Vendor-Neutral & Multi-Language Support**: Instrument code once using OpenTelemetry APIs/SDKs (12+ languages) and export telemetry to any backend (e.g., Jaeger, Prometheus) without vendor lock-in; suppor
+- **Vendor-Neutral & Multi-Language Support**: Instrument applications once using OpenTelemetry APIs/SDKs (12+ languages) and export telemetry to any backend (Jaeger, Prometheus, commercial
 
 ## Use Cases
 

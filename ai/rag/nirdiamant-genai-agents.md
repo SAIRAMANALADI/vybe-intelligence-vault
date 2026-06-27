@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-06-27T14:23:04.514889+05:30'
+collected_at: '2026-06-27T16:37:26.215267+05:30'
 published_at: '2026-06-27T08:11:46Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-06-17T20:54:15Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-06-27T14:23:04.514889+05:30'
-last_seen: '2026-06-27T14:23:04.514889+05:30'
-last_checked: '2026-06-27T14:23:04.514889+05:30'
+first_seen: '2026-06-27T16:37:26.215267+05:30'
+last_seen: '2026-06-27T16:37:26.215267+05:30'
+last_checked: '2026-06-27T16:37:26.215267+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive repository featuring 50+ Jupyter Notebook implementations for GenAI agent techniques, ranging from foundational conversational LLM agents to complex multi-agent systems.
-*   Leverages key frameworks such as LangChain, LangGraph, and OpenAI APIs for agent development, emphasizing RAG architectures and autonomous agent design.
-*   Covers advanced agentic paradigms including multi-agent communication protocols (MCP) and sophisticated orchestration patterns for scalable AI systems.
+- **Repository Content**: Hosts 50+ technical tutorials and implementations for Generative AI Agents, spanning from basic conversational bots to advanced multi-agent systems, leveraging frameworks like LangChain, LangGraph, and MCP.
+
+- **Technical Stack**: Primarily implemented in Python using Jupyter Notebooks, with integrations for OpenAI LLMs, RAG (Retrieval-Augmented Generation), and agentic AI techniques for autonomous and multi-agent architectures.
+
+- **Metadata**: 22,886 stars, 3,849 forks, last updated 2026-06-27, covering topics including agentic AI, LLM optimization, and multi-agent orchestration.
 
 ## Why It Matters
 

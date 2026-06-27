@@ -1,43 +1,38 @@
 ---
-title: Releases · microsoft/WSL · GitHub
+title: microsoft/wsl
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/microsoft/wsl/releases
+source_url: https://github.com/microsoft/wsl
 resource_id: github:microsoft/wsl
 local_vault_path: ai/rag/microsoft-wsl.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: product
 importance: medium
 tags:
-- frontend_ui
-- hackernews
-- producthunt
+- c++
+- github-repo
 - rag
-- web-crawled
-- youtube
 selection_reason:
 - Active open-source repository
 ---
 
-# Releases · microsoft/WSL · GitHub
+# microsoft/wsl
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: product
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **WSL 2.7.10**: Backported fix for VHD restore by passing the mounting user's token (PR [#40907](https://github.com/microsoft/WSL/pull/40907)), resolving a security/access control issue in WSL's virtual disk handling.
+- **WSL Architecture**: Implements a lightweight compatibility layer for running Linux binary executables natively on Windows via a custom kernel-mode driver (`lxss.sys`) and user-mode components (`wsl.exe`, `wslservice.exe`), leveraging Windows NT kernel interfaces.
 
-- **WSL 2.7.9**: Updated Microsoft.WSL.Kernel to version `6.18.33.2-2` to address a regression causing boot failures on Windows under KVM with older AMD chipsets, as documented in PR [#40728](https://github.com/microsoft/WSL/pull/40728).
-
-- **WSL 2.7.8**: Resolved `CreateInstanc
+- **Kernel Integration**: Utilizes a custom Linux kernel (`wslkernel`) derived from the Windows NT kernel, providing system call translation and emulation for POSIX-compliant Linux syscalls while maintaining Windows security bounda
 
 ## Use Cases
 
@@ -47,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/microsoft/wsl/releases
+Original source URL: https://github.com/microsoft/wsl
 
 ## Local Vault File
 

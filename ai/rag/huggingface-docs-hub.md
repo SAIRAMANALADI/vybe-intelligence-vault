@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-06-26T22:45:05.825526+05:30'
-collected_at: '2026-06-26T22:45:05.825535+05:30'
+published_at: '2026-06-27T16:39:29.951714+05:30'
+collected_at: '2026-06-27T16:39:29.951730+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-06-26T22:45:05.825535+05:30'
-last_seen: '2026-06-26T22:45:05.825535+05:30'
-last_checked: '2026-06-26T22:45:05.825535+05:30'
+first_seen: '2026-06-27T16:39:29.951730+05:30'
+last_seen: '2026-06-27T16:39:29.951730+05:30'
+last_checked: '2026-06-27T16:39:29.951730+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & SDK Support**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio (Python SDK), Docker, and static HTML/JavaScript for rapid deployment.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JS apps, including GPU/accelerated hardware upgrades.
 
-- **Hardware Acceleration**: Spaces supports GPU/accelerated hardware upgrades (e.g., via [Spaces GPU Upgrades](https://huggingface.co/docs/hub/spaces-gpus)) for high-performance ML inference and demos.
+- **Multi-Environment SDKs**: Supports rapid development via Python (Gradio), full Docker flexibility, and static web apps, with additional features like Dev Mode, disk storage management, and custom domains.
 
-- **Advanced Configurations**: Supports custom domains, ZeroGPU mode, disk/storage management, MCP server integration, and API endpoint configurations for flexible deployment workflows.
+- **Collaboration & Integration**: Facilitates ML portfolio showcasing, collaborative projects, and GitHub Actions integration; supports embedding Spaces, MCP servers, and API endpoints for extended functionality.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:45:05.825526+05:30
+- Published: 2026-06-27T16:39:29.951714+05:30
 
 ## Related Tags
 

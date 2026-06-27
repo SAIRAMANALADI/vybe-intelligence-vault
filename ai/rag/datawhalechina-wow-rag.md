@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T14:21:24.447013+05:30'
+collected_at: '2026-06-27T16:35:46.175953+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T14:21:24.447013+05:30'
-last_seen: '2026-06-27T14:21:24.447013+05:30'
-last_checked: '2026-06-27T14:21:24.447013+05:30'
+first_seen: '2026-06-27T16:35:46.175953+05:30'
+last_seen: '2026-06-27T16:35:46.175953+05:30'
+last_checked: '2026-06-27T16:35:46.175953+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) system with modular components for document retrieval, embedding, and generation, primarily demonstrated via Jupyter Notebooks.
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented primarily in Jupyter Notebooks, designed for modularity and ease of integration.
 
-- **Technical Stack**: Utilizes Python-based libraries (e.g., `langchain`, `sentence-transformers`) for embedding generation, vector storage (e.g., FAISS), and LLM integration (e.g., Hugging Face models).
+- **Core Components**: Includes standard RAG pipelines (retriever, generator, and evaluator) with support for customizable embedding models, vector databases (e.g., FAISS), and LLM backends (e.g., Hugging Face Transformers).
 
-- **Tutorial Focus**: Provides step-by-step guides on deploying RAG pipelines, including preprocessing, retrieval strategies, and evaluation metrics for benchmarking performance.
+- **Tutorial-Driven**: Provides hands-on tutorials for end-to-end RAG workflows, covering indexing, retrieval strategies, and evaluation metrics, with examples for both English and Chinese language tasks.
 
 ## Why It Matters
 

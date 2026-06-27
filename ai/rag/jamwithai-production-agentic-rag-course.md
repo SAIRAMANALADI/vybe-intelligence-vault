@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-06-27T14:22:34.512800+05:30'
+collected_at: '2026-06-27T16:36:56.213640+05:30'
 published_at: '2026-06-27T08:17:27Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 stars: 7017
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-06-27T14:22:34.512800+05:30'
-last_seen: '2026-06-27T14:22:34.512800+05:30'
-last_checked: '2026-06-27T14:22:34.512800+05:30'
+first_seen: '2026-06-27T16:36:56.213640+05:30'
+last_seen: '2026-06-27T16:36:56.213640+05:30'
+last_checked: '2026-06-27T16:36:56.213640+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for a production-grade Agentic RAG (Retrieval-Augmented Generation) course, implemented in Python, with 7,017 stars and 1,573 forks.
-- **Technical Focus**: Course likely covers scalable RAG system design, agentic workflows, and production deployment strategies for LLM-based applications.
-- **Last Updated**: Repository was last updated on **June 27, 2026**, indicating active maintenance or recent development.
+- **Repository Overview**: A Python-based course repository focused on production-grade agentic RAG (Retrieval-Augmented Generation) systems, with 7,017 stars and 1,574 forks.
+- **Technical Scope**: Covers advanced RAG implementations, likely emphasizing scalability, reliability, and integration in production environments.
+- **Last Updated**: June 27, 2026, indicating active maintenance and recent development.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: jamwithai
 - Stars: 7017
-- Forks: 1573
+- Forks: 1574
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-27T08:17:27Z

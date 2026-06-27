@@ -6,9 +6,9 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -22,7 +22,8 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Valuable developer reference
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -30,16 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
-- **Agentic RAG Integration**: Demonstrates agent-based retrieval pipelines with tools like OpenStreetMap, MCP, and custom domain-aware agents (e.g., UI/UX reviewer) using Haystack’s framework for structured workflows.
-- **Advanced Retrieval Techniques**: Showcases hybrid RAG (BM42, HyDE), metadata enrichment, and query decomposition for improved precision, alongside PostgreSQL keyword search optimizations.
-- **Multimodal & Model Serving**: Covers multimodal agents (e.g., fastRAG), vLLM inferenc
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced RAG pipelines, including hybrid retrieval, query decomposition, and metadata enrichment.
+
+- **Key features** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), multimodal RAG, function calling, and model serving (e.g., vLLM, NVIDIA NIMs), with experimental tools like Mem0 memory store and DSPy prompt optimization.
 
 ## Use Cases
 

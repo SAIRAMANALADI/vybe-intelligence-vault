@@ -6,15 +6,16 @@ source_url: https://github.com/apecloud/ApeRAG
 resource_id: github:apecloud/aperag
 local_vault_path: ai/rag/apecloud-aperag.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: dataset
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-modal indexing & GraphRAG**: Implements a production-ready GraphRAG system with support for structured/unstructured data (text, images, etc.) via graph-based retrieval and augmentation.
-
-- **AI agents & MCP integration**: Incorporates autonomous AI agents for dynamic query processing and integrates with Model Context Protocol (MCP) for extensible tooling and interoperability.
-
-- **Scalable K8s deployment**: Designed for Kubernetes with Helm charts for horizontal scaling, fault toleranc
+- **Multi-modal indexing**: Supports structured/unstructured data integration (text, graphs, tables) with vector + graph-based retrieval for hybrid RAG workflows.
+- **AI agents & MCP integration**: Enables autonomous agent orchestration and Model Context Protocol (MCP) for dynamic tool/toolkit binding in RAG pipelines.
+- **Kubernetes-native scalability**: Helm-based deployment with horizontal pod autoscaling, distributed graph processing (Neo4j/JanusGraph), and vector DB (Milvus/Pinecone) suppor
 
 ## Use Cases
 

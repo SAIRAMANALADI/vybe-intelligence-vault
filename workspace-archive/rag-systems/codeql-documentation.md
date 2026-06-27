@@ -6,10 +6,10 @@ source_url: https://codeql.github.com/docs
 resource_id: blog:codeql-documentation
 local_vault_path: ai/rag/codeql-documentation.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - rag
 - web-crawled
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: Treats source code as data, enabling vulnerability detection via structured queries; supports multiple languages and frameworks (see [supported list](https://codeql.github.com/codeql-overview/supported-languages-and-frameworks/)).
-- **Query Development**: Provides language-specific guides, standard libraries, and QL reference docs for writing and optimizing queries; includes CWEs coverage documentation.
-- **Tooling & Resources**: Offers CLI, VS Code extension, and GitHub r
+- **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via custom queries; supported languages/frameworks, CWEs, and system requirements are documented in release resources.
+- **Query Development & Execution**: QL language reference, language-specific guides, and query-writing tutorials facilitate query creation; CLI and VS Code extension enable query execution on codebases.
+- **Resources & Contributions**: Official repositories (CLI, VS Code extension, GitHub) provi
 
 ## Use Cases
 

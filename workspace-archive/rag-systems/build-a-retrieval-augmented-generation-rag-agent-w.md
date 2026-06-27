@@ -7,7 +7,7 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,7 +40,9 @@ selection_reason:
 
 ## Summary
 
-*   Agentic RAG systems, built on a ReAct agent architecture, dynamically decide between
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization) to enable autonomous decision-making and complex reasoning.
+
+- **Pipeline Workflow**: Implements a Retrieval Chain with a retriever tool, where the ReAct agent iteratively decides whether to retrieve external knowledge or respo
 
 ## Use Cases
 

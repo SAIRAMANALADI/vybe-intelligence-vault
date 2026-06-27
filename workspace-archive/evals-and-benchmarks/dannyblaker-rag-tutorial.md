@@ -13,9 +13,11 @@ importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-
-- **Core Technical Components**: Covers embeddings, vector databases (e.g., FAISS, Chroma), LLMs (e.g., Hugging Face Transformers), and advanced RAG techniques like query rewriting and hybrid retrieval.
-
-- **Practical Implementation**: Provides working code examples, modular utilities, and deployment-ready patter
+- **Progressive RAG Tutorial**: Six structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+- **Technical Scope**: Covers embeddings, vector database integration, LLM fine-tuning, and advanced RAG techniques for building scalable retrieval-augmented systems.
+- **Python-Based Implementation**: Provides hands-on demos and modular utilities in Python, emphasizing practical deployment workflows
 
 ## Use Cases
 

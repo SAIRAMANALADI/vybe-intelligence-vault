@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `brevdev/workshop-build-an-agent` hosts a Jupyter Notebook-based project focused on constructing AI agents, with 108 stars and 72 forks.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks for agent development workflows.
-- **Last Activity**: Updated on **2026-06-24**, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository `brevdev/workshop-build-an-agent` contains Jupyter Notebooks focused on building an AI agent, last updated on **2026-06-24**.
+- **Metrics**: 108 stars, 72 forks, with no additional topics or description provided.
+- **Technical Stack**: Primarily uses Jupyter Notebooks for agent development workflows.
 
 ## Use Cases
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-06-27T14:22:24.516734+05:30'
-published_at: '2026-06-27T03:16:36Z'
+collected_at: '2026-06-27T16:36:51.204991+05:30'
+published_at: '2026-06-27T10:43:32Z'
 tags:
 - github-repo
 - paper
 - python
 - rag
-stars: 642
+stars: 643
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-11-01T03:12:25Z'
 pushed_at: '2026-06-27T00:18:39Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-06-27T14:22:24.516734+05:30'
-last_seen: '2026-06-27T14:22:24.516734+05:30'
-last_checked: '2026-06-27T14:22:24.516734+05:30'
+first_seen: '2026-06-27T16:36:51.204991+05:30'
+last_seen: '2026-06-27T16:36:51.204991+05:30'
+last_checked: '2026-06-27T16:36:51.204991+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning and vulnerability assessment.
-- **Functionality**: Automates discovery of network targets, open ports, exposed services, and known vulnerabilities via Python-based toolkit.
-- **Metadata**: 642 stars, 59 forks; last updated 2026-06-27; no associated topics.
+- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port enumeration, service identification, and vulnerability detection.
+- **Features**: Automates reconnaissance and vulnerability assessment via Python-based scripts, integrating hardware-specific display for real-time results.
+- **Dependencies**: Requires Raspberry Pi hardware with e-Paper HAT for full functionality; relies on Python for core scanning and analysis logic.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: PierreGode
-- Stars: 642
+- Stars: 643
 - Forks: 59
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-27T03:16:36Z
+- Last Updated: 2026-06-27T10:43:32Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z

@@ -31,8 +31,8 @@ selection_reason:
 ## Summary
 
 - **Repository Overview**: Open-source collection of AI agents hosted on the oTTomator Live Agent Studio platform, implemented in Python.
-- **Metrics**: 5,653 stars, 1,937 forks, last updated on 2026-06-26.
-- **Purpose**: Provides a centralized repository for AI agents developed and deployed on the oTTomator platform.
+- **Metrics**: 5,653 stars, 1,937 forks, last updated on June 26, 2026.
+- **Purpose**: Provides a centralized hub for deploying and managing AI agents in a live agent studio environment.
 
 ## Use Cases
 

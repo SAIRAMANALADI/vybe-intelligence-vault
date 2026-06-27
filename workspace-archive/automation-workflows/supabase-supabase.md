@@ -1,43 +1,41 @@
 ---
-title: supabase/examples/ai at master · supabase/supabase · GitHub
+title: supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/tree/master/examples/ai
+source_url: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
-- meta-ai
-- models
 - rag
 - reddit
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# supabase/examples/ai at master · supabase/supabase · GitHub
+# supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- Supabase AI examples repository contains 10+ subdirectories and notebooks demonstrating integration with AI services (e.g., AWS Bedrock, LlamaIndex) and vector embeddings.
-- Includes edge function implementations (`edge-functions/`) and image processing workflows (`image_search/`, `aws_bedrock_image_search/`).
-- Features Jupyter notebooks for face similarity (`face_similarity.ipynb`), semantic deduplication (`semantic_text_deduplication.ipynb`), and vector search (`vector_hello_world.ipynb`).
+- **Code of Conduct & Setup**: Contributors must review the [code of conduct](https://github.com/supabase/.github/blob/main/CODE_OF_CONDUCT.md) and follow [DEVELOPERS.md](https://github.com/supabase/supabase/blob/master/DEVELOPERS.md) for local setup; docs contributions require following the [docs-specific guide](https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md).
+
+- **Issue & PR Workflow**: Bug reports require reproduction steps (screenshots/URLs preferred); PRs must li
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/tree/master/examples/ai
+Original source URL: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
 
 ## Local Vault File
 

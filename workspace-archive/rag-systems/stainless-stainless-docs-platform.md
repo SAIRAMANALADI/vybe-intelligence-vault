@@ -15,7 +15,6 @@ tags:
 - frontend_ui
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, eliminating manual updates and ensuring accuracy.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, ensuring real-time accuracy and eliminating manual updates.
 
-- **AI-Optimized Hybrid Search**: Implements AI-powered hybrid search for enhanced developer and AI agent accessibility, alongside integration with AI tools for seamless workflows.
+- **AI-Optimized & Developer-Friendly**: Supports AI agents with structured, digestible content while providing a high-quality developer experience with features like AI-powered hybrid search and Markdown integration.
 
-- **Astro-Based Extensibility**: Built on Astro for high-performance, content-driven websites, enabling customization at every layer (UI components
+- **Extensible & Customizable**: Built on Astro, enabling full customization via TypeScript-first in
 
 ## Use Cases
 

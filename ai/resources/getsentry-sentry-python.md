@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/getsentry/sentry-python
-collected_at: '2026-06-27T09:53:20.458606+05:30'
+collected_at: '2026-06-27T16:40:21.197793+05:30'
 published_at: '2026-06-26T14:08:18Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2018-06-18T22:51:10Z'
 pushed_at: '2026-06-26T17:19:34Z'
 resource_id: github:getsentry/sentry-python
-first_seen: '2026-06-27T09:53:20.458606+05:30'
-last_seen: '2026-06-27T09:53:20.458606+05:30'
-last_checked: '2026-06-27T09:53:20.458606+05:30'
+first_seen: '2026-06-27T16:40:21.197793+05:30'
+last_seen: '2026-06-27T16:40:21.197793+05:30'
+last_checked: '2026-06-27T16:40:21.197793+05:30'
 health_score: 100
 ---
 
@@ -27,8 +27,8 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Official Python SDK for integrating with [Sentry.io](https://sentry.io), a real-time error monitoring and logging platform.
-- **Key Features**: Supports crash reporting, event capturing, and integration with Python applications for production debugging and monitoring.
+- **Purpose**: Official Python SDK for integrating Sentry.io error tracking and crash reporting in Python applications.
+- **Features**: Supports structured logging, exception handling, and performance monitoring with minimal overhead.
 - **Compatibility**: Works with Python 3.7+ and integrates with frameworks like Django, Flask, and FastAPI.
 
 ## Why It Matters

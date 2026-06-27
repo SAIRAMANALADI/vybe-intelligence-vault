@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-06-27T09:50:03.493972+05:30'
+collected_at: '2026-06-27T16:37:41.280405+05:30'
 published_at: '2026-06-27T00:12:24Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-06-27T09:50:03.493972+05:30'
-last_seen: '2026-06-27T09:50:03.493972+05:30'
-last_checked: '2026-06-27T09:50:03.493972+05:30'
+first_seen: '2026-06-27T16:37:41.280405+05:30'
+last_seen: '2026-06-27T16:37:41.280405+05:30'
+last_checked: '2026-06-27T16:37:41.280405+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop agent orchestration with real-time execution capabilities.
-- **Repository structure optimized for Vercel deployments**, leveraging Next.js for UI and serverless functions for workflow processing.
-- **Pre-configured templates for common AI workflows** (e.g., multi-agent collaboration, data pipelines) with modular component system for extensibility.
+- **TypeScript-based AI workflow automation platform** enabling visual construction of multi-agent systems with drag-and-drop interface for orchestrating AI-driven tasks and processes.
+
+- **Repository template** for deploying scalable, serverless workflows optimized for Vercel, leveraging Next.js and Vercel AI SDK for seamless integration with AI models and APIs.
+
+- **Key features**: Pre-configured agent templates, state management for workflows, and support for dynamic AI agent interactions with real-time monitoring and debugging tools.
 
 ## Why It Matters
 

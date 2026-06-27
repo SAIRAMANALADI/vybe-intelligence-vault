@@ -16,7 +16,6 @@ tags:
 - github-repo
 - html
 - scripts
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-Platform Agent Infrastructure**: Provides open-source sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows) via containerization and virtualization frameworks.
+- **Multi-Platform Agent Infrastructure**: Provides sandboxed environments (macOS, Linux, Windows) for training/evaluating AI agents capable of full desktop control via containerization and virtualization frameworks (e.g., Apple Virtualization Framework, Windows Sandbox).
 
-- **Multi-OS Virtualization Support**: Integrates with Apple’s Virtualization Framework (macOS), Windows Sandbox (Windows), and LXC/LXD (Linux) for isolated, reproducible agent testing environments.
+- **Tooling & Benchmarks**: Includes SDKs (e.g., Swift for macOS) and standardized benchmarks to assess agent performance in desktop automation tasks (e.g., file manipulation, GUI interaction).
 
-- **Swift & HTML Core**: Primary implementation in Swift (mac
+- **Open-Source Ecosystem**: Co
 
 ## Use Cases
 

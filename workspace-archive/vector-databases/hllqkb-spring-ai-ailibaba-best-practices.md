@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements SSE streaming, Agent-based workflows, and RAG with knowledge graphs** for AI Q&A systems using Spring AI and Alibaba Cloud components.
-- **Supports multimodal processing** (text/image generation and comprehension) with FunctionCall, historical message management, and embedding/vector database integration.
-- **Leverages Java-based Spring AI framework** with vector DB (RAG) and embedding models for scalable AI-driven question-answering pipelines.
+- Implements **Server-Sent Events (SSE)** for real-time AI question-answering streams in a Java-based Spring AI system.
+- Integrates **RAG (Retrieval-Augmented Generation)** with **vector databases**, **embeddings**, and **knowledge graphs** for enhanced contextual retrieval and response generation.
+- Supports **Agent workflows**, **Function Calling**, **historical message management**, and **multimodal processing** (image generation/understanding) within the Spring AI framework.
 
 ## Use Cases
 

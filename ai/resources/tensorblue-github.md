@@ -4,15 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/tensorblue
-published_at: '2026-06-27T14:24:24.694497+05:30'
-collected_at: '2026-06-27T14:24:24.694508+05:30'
+published_at: '2026-06-27T16:38:56.415342+05:30'
+collected_at: '2026-06-27T16:38:56.415356+05:30'
 tags:
+- dataset
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:tensorblue-github
-first_seen: '2026-06-27T14:24:24.694508+05:30'
-last_seen: '2026-06-27T14:24:24.694508+05:30'
-last_checked: '2026-06-27T14:24:24.694508+05:30'
+first_seen: '2026-06-27T16:38:56.415356+05:30'
+last_seen: '2026-06-27T16:38:56.415356+05:30'
+last_checked: '2026-06-27T16:38:56.415356+05:30'
 health_score: 100
 ---
 
@@ -20,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars, 2 followers, and no public repositories, projects, or packages.
-- **User Actions**: GitHub provides options to block or report the user, requiring login for blocking and direct support contact for abuse reporting.
-- **Error State**: The profile page displays an error ("Something went wrong") when attempting to load popular repositories, suggesting a transient or backend issue.
+- GitHub account `tensorblue` (ID: 253736847) has **51 stars** but **0 public repositories, projects, or packages** as of the last scrape.
+- Account has **2 followers** and **0 following**, with no public activity visible in repositories or projects.
+- No technical artifacts (code, datasets, or documentation) are accessible under the `tensorblue` namespace on GitHub.
 
 ## Why It Matters
 
@@ -32,10 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T14:24:24.694497+05:30
+- Published: 2026-06-27T16:38:56.415342+05:30
 
 ## Related Tags
 
+- dataset
+- hackernews
 - web-crawled
 
 ## Source

@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Minimal Integration**: SDK-based monitoring with single-line installation (e.g., `npx @sentry/wizard@latest -i nextjs`) and no agent overhead, enabling error tracking in ~5 lines of code across 20+ languages/frameworks (Next.js, React, Go, .NET MAU, etc.).
+- **Minimal Integration**: SDK-based monitoring with single-line installation (e.g., `npx @sentry/wizard@latest -i nextjs`) and zero agent overhead, enabling error tracking in ~5 lines of code across 20+ frameworks (Next.js, React, Go, .NET MAUI, etc.).
 
-- **AI-Powered Debugging**: Seer agent correlates logs, traces, stack traces, and PRs to auto-root-cause issues (e.g., DB timeouts, API key mismanagement) and generates merge-ready patches, reducing manual debugging by up to 80%.
-
-- **Uni
+- **AI-Powered Debugging**: Seer agent performs automated root-cause analysis using full context (logs, traces, stack traces) to generate merge-ready patches, predict regressions via PR correlation, and catch issues pre-production (e.g., DB time
 
 ## Use Cases
 

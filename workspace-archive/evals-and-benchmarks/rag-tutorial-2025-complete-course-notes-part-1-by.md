@@ -14,13 +14,13 @@ tags:
 - agents
 - anthropic
 - benchmark
-- dataset
 - hackernews
 - meta-ai
 - mistral
 - models
 - openai
 - producthunt
+- rag
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch external information (e.g., documents, databases) for context, avoiding prompt overload by limiting input to relevant chunks rather than entire datasets.
+- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload.
 
-- **Embedding & Vector Databases**: Text is converted into high-dimensional vector embeddings (e.g., 3,072 dimensions for OpenAI’s `text-embedding-3-large`) using specialized models, stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity search during
+- **Injection Pipeline**: Processes raw documents via chunking (e.g., 1K-token segments) and embeddings (e.g., OpenAI’s 3,072-dim vectors) stored in vector databases (Pinecone, Weaviate, FAISS), enabling semantic similarity searches.
+
+- **Retrieval Pipeline**:
 
 ## Use Cases
 

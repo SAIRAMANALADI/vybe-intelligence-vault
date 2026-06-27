@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-27T14:20:59.452123+05:30'
+collected_at: '2026-06-27T16:35:26.160253+05:30'
 published_at: '2026-06-25T22:30:21Z'
 tags:
+- benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 257
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-27T14:20:59.452123+05:30'
-last_seen: '2026-06-27T14:20:59.452123+05:30'
-last_checked: '2026-06-27T14:20:59.452123+05:30'
+first_seen: '2026-06-27T16:35:26.160253+05:30'
+last_seen: '2026-06-27T16:35:26.160253+05:30'
+last_checked: '2026-06-27T16:35:26.160253+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and mitigating hallucinations in generated outputs.
-
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval and generation stages using Python-based tooling.
-
-- **Repository Details**: Hosted on GitHub with 257 stars and 32 forks; last updated June 25, 2026, and implemented primarily in Python.
+- Introduces **RAGTruth**, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by providing annotated datasets for hallucination detection.
+- Provides a **Python-based framework** for generating, curating, and benchmarking hallucination cases in RAG systems, facilitating systematic assessment of model reliability.
+- Released under an open-source license with **257 stars and 32 forks**, last updated June 25, 2026, to support community-driven research in mitigating hallucinations in LLMs.
 
 ## Why It Matters
 

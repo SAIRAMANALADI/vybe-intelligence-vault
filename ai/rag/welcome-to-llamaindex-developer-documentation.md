@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card
-published_at: '2026-06-27T09:53:11.344286+05:30'
-collected_at: '2026-06-27T09:53:11.344300+05:30'
+published_at: '2026-06-27T16:42:06.170942+05:30'
+collected_at: '2026-06-27T16:42:06.170955+05:30'
 tags:
 - meta-ai
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-to-llamaindex-developer-documentation
-first_seen: '2026-06-27T09:53:11.344300+05:30'
-last_seen: '2026-06-27T09:53:11.344300+05:30'
-last_checked: '2026-06-27T09:53:11.344300+05:30'
+first_seen: '2026-06-27T16:42:06.170955+05:30'
+last_seen: '2026-06-27T16:42:06.170955+05:30'
+last_checked: '2026-06-27T16:42:06.170955+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Abstraction**: Simplifying complex systems by modeling classes/objects to represent real-world entities, hiding unnecessary details.
-- **Encapsulation**: Bundling data (attributes) and methods (functions) within a single unit (class) while restricting direct access to some components.
-- **Inheritance**: Mechanism enabling new classes (subclasses) to inherit properties/methods from existing ones (superclasses), promoting code reusability.
+- **Abstraction**: Simplifying complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
+- **Encapsulation**: Bundling data (attributes) and methods (functions) within a class, restricting direct access to some components (e.g., via access modifiers like `private`).
+- **Polymorphism**: Enabling objects of different classes to be treated as objects of a common superclass, facilitating method overriding (runtime) and overloading (compile-time).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:53:11.344286+05:30
+- Published: 2026-06-27T16:42:06.170942+05:30
 
 ## Related Tags
 

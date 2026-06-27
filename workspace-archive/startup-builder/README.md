@@ -13,19 +13,19 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Developer Hub | Twilio](https://www.twilio.com/en-us/developers) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases) (dataset - USEFUL Tier)
-- [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills) (benchmark - USEFUL Tier)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing) (tutorial - USEFUL Tier)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/) (prompt - USEFUL Tier)
+- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases)
-- [DeckardGer/tanstack-agent-skills](https://github.com/DeckardGer/tanstack-agent-skills)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-06-27 14:37 IST*
+*Last updated: 2026-06-27 16:51 IST*

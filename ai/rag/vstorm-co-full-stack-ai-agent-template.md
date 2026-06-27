@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-27T14:21:24.400488+05:30'
+collected_at: '2026-06-27T16:35:51.110678+05:30'
 published_at: '2026-06-27T08:26:36Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-27T03:24:33Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-27T14:21:24.400488+05:30'
-last_seen: '2026-06-27T14:21:24.400488+05:30'
-last_checked: '2026-06-27T14:21:24.400488+05:30'
+first_seen: '2026-06-27T16:35:51.110678+05:30'
+last_seen: '2026-06-27T16:35:51.110678+05:30'
+last_checked: '2026-06-27T16:35:51.110678+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker containerization for deployment.
+- **Tech Stack**: Full-stack template integrating FastAPI (backend) with Next.js (frontend), featuring AI agents, RAG (Retrieval-Augmented Generation), real-time streaming, authentication, and 20+ pre-configured integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **AI Features**: Pre-integrated AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG (Retrieval-Augmented Generation) pipelines, real-time streaming via WebSocket, and 20+ third-party integrations.
+- **Database & Architecture**: PostgreSQL for persistent storage, Docker for containerization, WebSocket support for real-time bidirectional communication, and Pydantic models for data validation/serialization.
 
-- **Authentication & Tooling**: Built-in authentication, Pydantic data validation (Pydantic-Deep), and pre-configured tooling for rapid AI agent development and deployment.
+- **AI Capabilities**: Built-in AI agent frameworks (CrewAI, LangChain, LangGraph), modular RAG pipelines, and TypeScript/Python interoperability with pre-configured LLM interactions.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/github-copilot-cli-command-reference-github-docs.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -16,13 +16,12 @@ tags:
 - models
 - openai
 - producthunt
-- reddit
 - scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # GitHub Copilot CLI command reference - GitHub Docs
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: mcp-server
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth auth via `--host`), `copilot init` (repo initialization), `copilot completion SHELL` (shell tab completion), `copilot version` (version check), and `copilot update` (update CLI). Authentication supports fine-grained PATs (`COPILOT_GITHUB_TOKEN`), OAuth tokens, or classic PATs (unsupported).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables shell tab completion for `bash`, `zsh`, `fish`), `copilot login` (OAuth device flow with `--host` for GitHub Enterprise), `copilot init` (repository custom instructions), `copilot update`/`version` (version management).
 
-- **Interactive UI Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `# NUMBER` (GitHub i
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (include file context), `# NUMBER` (GitHub issue/PR context), `! COMMAND` (shell executi
 
 ## Use Cases
 

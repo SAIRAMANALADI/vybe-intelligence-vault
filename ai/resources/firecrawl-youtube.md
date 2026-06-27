@@ -4,16 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/@Firecrawl_dev
-published_at: '2026-06-27T14:26:07.766897+05:30'
-collected_at: '2026-06-27T14:26:07.766906+05:30'
+published_at: '2026-06-27T16:40:51.019871+05:30'
+collected_at: '2026-06-27T16:40:51.019884+05:30'
 tags:
+- hackernews
 - web-crawled
 - youtube
 status: active
 resource_id: blog:firecrawl-youtube
-first_seen: '2026-06-27T14:26:07.766906+05:30'
-last_seen: '2026-06-27T14:26:07.766906+05:30'
-last_checked: '2026-06-27T14:26:07.766906+05:30'
+first_seen: '2026-06-27T16:40:51.019884+05:30'
+last_seen: '2026-06-27T16:40:51.019884+05:30'
+last_checked: '2026-06-27T16:40:51.019884+05:30'
 health_score: 100
 ---
 
@@ -21,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, with core functions including video hosting, streaming, and monetization via ads, supported by a global infrastructure for scalability and low-latency delivery.
-- The platform enforces strict [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Content Policies](https://www.youtube.com/about/policies/) to regulate user-generated content, copyright compliance, and platform safety.
-- YouTube provides APIs and developer tools ([YouTube Data API](https://developers.google.com/youtube), [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)) for third-party integration, alongside experimental features via [YouTube Labs](https://www.youtube.com/new).
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and creator tools (YouTube Studio, YouTube Kids).
+- **Technical Infrastructure**: Utilizes Google’s distributed systems (e.g., CDNs, AI-driven recommendation algorithms) to optimize content delivery, search, and ad targeting, with APIs (YouTube Data API v3) for third-party integration.
+- **Policy & Compliance**: Enforces [Content ID](https://www.youtube.com/howyoutubeworks/content-id/) for copyright claims, adheres to [COPPA](https://www.youtube.com/howyoutubeworks/coppa/) for child privacy, and complies with regional regulations (e.g., GDPR, DMCA).
 
 ## Why It Matters
 
@@ -33,10 +34,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T14:26:07.766897+05:30
+- Published: 2026-06-27T16:40:51.019871+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 - youtube
 

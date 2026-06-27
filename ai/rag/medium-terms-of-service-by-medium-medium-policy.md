@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/policy/9db0094a1e0f
-published_at: '2026-06-27T09:54:20.169575+05:30'
-collected_at: '2026-06-27T09:54:20.169589+05:30'
+published_at: '2026-06-27T16:41:18.718710+05:30'
+collected_at: '2026-06-27T16:41:18.718721+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-06-27T09:54:20.169589+05:30'
-last_seen: '2026-06-27T09:54:20.169589+05:30'
-last_checked: '2026-06-27T09:54:20.169589+05:30'
+first_seen: '2026-06-27T16:41:18.718721+05:30'
+last_seen: '2026-06-27T16:41:18.718721+05:30'
+last_checked: '2026-06-27T16:41:18.718721+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Content Rights**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all media formats (e.g., web, mobile) for Service operations, with attribution required for derivative works.
+- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Medium services, including derivative works (e.g., previews, curated lists) with attribution.
 
-- **Dispute Resolution & Liability Limits**: All disputes (except small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS rules, waiving class actions/jury trials. Medium’s liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with indemnification required for user violations.
+- **Dispute Resolution**: Mandatory **binding arbitration** (JAMS Streamlined Rules) replaces court/litigation for disputes, with **no class actions allowed**; opt-out possible via email within 30 days. Governs by FAA, limiting remedies to individual claims.
 
-- **Data Processing & Termination**: Users consent to **cross-border data processing/storage** (including outside local privacy laws). Medium may **suspend/terminate access** at will, and retains rights to limit storage, remove content, or discontinue Services entirely.
+- **Liability & Termination**: Medium disclaims warranties (services "as-is"), limits liability to **$50 USD or fees paid** (except gross negligence/fraud), and may **suspend/terminate access** or remove content at its sole discretion.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:54:20.169575+05:30
+- Published: 2026-06-27T16:41:18.718710+05:30
 
 ## Related Tags
 

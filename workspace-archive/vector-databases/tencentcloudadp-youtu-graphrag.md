@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents for Graph RAG**: Introduces Youtu-GraphRAG, a framework leveraging vertically unified agents to enhance complex reasoning via graph-based retrieval-augmented generation (GraphRAG), targeting ICLR 2026.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
 
-- **Graph-Centric Architecture**: Implements a graph-structured knowledge representation to enable multi-hop reasoning and contextual retrieval, optimizing LLM performance for complex queries.
+- **GraphRAG Integration**: Combines Retrieval-Augmented Generation (RAG) with graph-based knowledge representation, enabling dynamic subgraph retrieval and structured reasoning for improved factual accuracy and interpretability.
 
-- **Python-Based Implementation**: Provides an open-source Python reposit
+- **ICLR 2026 Contribution**:
 
 ## Use Cases
 

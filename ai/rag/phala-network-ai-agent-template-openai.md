@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-27T14:23:19.537910+05:30'
+collected_at: '2026-06-27T16:37:46.251904+05:30'
 published_at: '2026-06-23T20:27:24Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - rag
 - typescript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-27T14:23:19.537910+05:30'
-last_seen: '2026-06-27T14:23:19.537910+05:30'
-last_checked: '2026-06-27T14:23:19.537910+05:30'
+first_seen: '2026-06-27T16:37:46.251904+05:30'
+last_seen: '2026-06-27T16:37:46.251904+05:30'
+last_checked: '2026-06-27T16:37:46.251904+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network's decentralized compute infrastructure.
 
-- **Key Components**: Includes pre-configured OpenAI API interactions, Phala Network contract scaffolding, and TypeScript tooling for secure, off-chain AI agent deployment.
+- **OpenAI Integration**: Facilitates seamless interaction with OpenAI's API for AI agent deployment, leveraging Phala's confidential computing for secure execution.
 
-- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI agent functionality, and Phala's confidential computing for secure off-chain execution.
+- **Phala Network Compatibility**: Designed for Phala's blockchain environment, enabling on-chain AI agent operations with privacy-preserving features via Trusted Execution Environments (TEEs).
 
 ## Why It Matters
 

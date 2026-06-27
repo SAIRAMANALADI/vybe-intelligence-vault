@@ -1,55 +1,70 @@
 ---
-title: Releases · microsoft/WSL · GitHub
+title: microsoft/wsl
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/microsoft/wsl/releases
-published_at: '2026-06-27T01:46:24.651997+05:30'
-collected_at: '2026-06-27T01:46:24.652013+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/microsoft/wsl
+collected_at: '2026-06-27T16:44:11.015227+05:30'
+published_at: '2026-06-27T09:35:57Z'
 tags:
-- frontend_ui
-- hackernews
-- producthunt
+- c++
+- github-repo
 - rag
-- web-crawled
-- youtube
+stars: 32839
+language: C++
 status: active
+license: MIT
+archived: false
+created_at: '2016-04-06T17:32:56Z'
+pushed_at: '2026-06-27T08:03:55Z'
 resource_id: github:microsoft/wsl
-first_seen: '2026-06-27T01:46:24.652013+05:30'
-last_seen: '2026-06-27T01:46:24.652013+05:30'
-last_checked: '2026-06-27T01:46:24.652013+05:30'
+first_seen: '2026-06-27T16:44:11.015227+05:30'
+last_seen: '2026-06-27T16:44:11.015227+05:30'
+last_checked: '2026-06-27T16:44:11.015227+05:30'
 health_score: 100
 ---
 
-# Releases · microsoft/WSL · GitHub
+# microsoft/wsl
 
 ## Summary
 
-- **WSL 2.7.10**: Backported fix for VHD restore by passing the mounting user's token (PR [#40907](https://github.com/microsoft/WSL/pull/40907)), resolving a security/access control issue in WSL's virtual disk handling.
+- **WSL Architecture**: Implements a lightweight compatibility layer for running Linux binary executables natively on Windows via a custom kernel-mode driver (`lxss.sys`) and user-mode components (`wsl.exe`, `wslservice.exe`), leveraging Windows NT kernel interfaces.
 
-- **WSL 2.7.9**: Updated Microsoft.WSL.Kernel to version `6.18.33.2-2` to address a regression causing boot failures on Windows under KVM with older AMD chipsets, as documented in PR [#40728](https://github.com/microsoft/WSL/pull/40728).
+- **Kernel Integration**: Utilizes a custom Linux kernel (`wslkernel`) derived from the Windows NT kernel, providing system call translation and emulation for POSIX-compliant Linux syscalls while maintaining Windows security boundaries.
 
-- **WSL 2.7.8**: Resolved `CreateInstance` failures triggered by oversized Windows hosts files (PR [#40726](https://github.com/microsoft/WSL/pull/40726)) and updated the kernel to `6.18.33.1-1` (PR [#40728](https://github.com/microsoft/WSL/pull/40728)).
+- **Filesystem & Process Model**: Supports Linux filesystem semantics via a virtualized `/` mount (VFS layer) and isolates Linux processes in a containerized environment, using Windows Job Objects and namespace isolation for process containment.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-06-27T01:46:24.651997+05:30
+- Owner: microsoft
+- Stars: 32839
+- Forks: 1760
+- Language: C++
+- Topics: None
+- Last Updated: 2026-06-27T09:35:57Z
+- License: MIT
+- Archived: No
+- Created At: 2016-04-06T17:32:56Z
+- Pushed At: 2026-06-27T08:03:55Z
 
-## Related Tags
+## Possible Use Cases
 
-- frontend_ui
-- hackernews
-- producthunt
-- rag
-- web-crawled
-- youtube
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/microsoft/wsl/releases
+Original source: https://github.com/microsoft/wsl

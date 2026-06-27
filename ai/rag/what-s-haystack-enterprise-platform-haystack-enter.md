@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-27T14:26:04.805580+05:30'
-collected_at: '2026-06-27T14:26:04.805589+05:30'
+published_at: '2026-06-27T16:40:30.070164+05:30'
+collected_at: '2026-06-27T16:40:30.070178+05:30'
 tags:
 - agents
 - models
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-27T14:26:04.805589+05:30'
-last_seen: '2026-06-27T14:26:04.805589+05:30'
-last_checked: '2026-06-27T14:26:04.805589+05:30'
+first_seen: '2026-06-27T16:40:30.070178+05:30'
+last_seen: '2026-06-27T16:40:30.070178+05:30'
+last_checked: '2026-06-27T16:40:30.070178+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Processing & Indexing**: Supports automated ingestion, conversion (PDFs, Office, images), OCR, and structured indexing for fast retrieval in document stores.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, deployment, and monitoring of AI-powered applications with support for prototyping, production scaling, and lifecycle management.
 
-- **Modular AI Pipeline Construction**: Enables building multi-component RAG systems and AI agents via visual Pipeline Builder, with interchangeable retrievers, rankers, generators, and model-agnostic LLM/embedding provider integration.
+- **Modular RAG & Agentic Pipelines**: Facilitates building advanced retrieval-augmented generation (RAG) systems and autonomous AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations.
 
-- **Lifecycle Management & Observability**: Provides REST API for automation, built-in monitoring/logs, and third-party tracing (Langfuse, Weave) for debugging, performance optimization, and prototype sharing before production deployment.
+- **Observability & Deployment Tools**: Provides REST API for automation, built-in logging/monitoring dashboards, and third-party observability integrations (e.g., Langfuse, Weights & Biases) for debugging, performance tracking, and prototype sharing with stakeholders.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:26:04.805580+05:30
+- Published: 2026-06-27T16:40:30.070164+05:30
 
 ## Related Tags
 

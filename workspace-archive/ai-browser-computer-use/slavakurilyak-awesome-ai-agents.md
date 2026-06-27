@@ -8,15 +8,17 @@ local_vault_path: ai/agents/slavakurilyak-awesome-ai-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
+- paper
 - python
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # slavakurilyak/awesome-ai-agents
@@ -25,15 +27,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `slavakurilyak/awesome-ai-agents` is a curated list of 300+ resources focused on agentic AI, with 1,523 stars and 414 forks.
-- **Technical Stack**: Primarily implemented in Python, emphasizing agent-based architectures and agentic systems.
-- **Metadata**: Last updated on 2026-06-27, categorized under `agent`, `agentic`, and `agents` topics.
+- **Curated Collection**: Repository aggregates **300+ agentic AI resources**, including frameworks, tools, and research papers, organized for accessibility and discovery.
+- **Technical Scope**: Primarily focuses on **AI agents**, covering agent architectures, multi-agent systems, and agentic workflows, with Python as the dominant implementation language.
+- **Community & Maintenance**: Actively maintained (last updated **2026-06-27**), with **1.5k+ stars** and **400+ forks**, indicating strong c
 
 ## Use Cases
 

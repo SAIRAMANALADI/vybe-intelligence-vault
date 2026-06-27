@@ -1,0 +1,55 @@
+---
+title: dannyblaker/rag-tutorial
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/dannyblaker/rag-tutorial
+resource_id: github:dannyblaker/rag-tutorial
+local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- github-repo
+- hackernews
+- models
+- python
+- rag
+- reddit
+- workflows
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# dannyblaker/rag-tutorial
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Progressive RAG Tutorial**: Six structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
+- **Technical Scope**: Covers embeddings, vector database integration, LLM fine-tuning, and advanced RAG techniques for building scalable retrieval-augmented systems.
+- **Python-Based Implementation**: Provides hands-on demos and modular utilities in Python, emphasizing practical deployment workflows
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/dannyblaker/rag-tutorial
+
+## Local Vault File
+
+Path: [dannyblaker-rag-tutorial.md](../../ai/rag/dannyblaker-rag-tutorial.md)

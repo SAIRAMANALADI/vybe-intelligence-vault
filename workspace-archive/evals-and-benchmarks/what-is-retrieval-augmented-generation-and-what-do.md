@@ -3,7 +3,7 @@ title: What is retrieval-augmented generation, and what does it do for generativ
   AI? - The GitHub Blog
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai
+source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
 local_vault_path: ai/rag/what-is-retrieval-augmented-generation-and-what-do.md
 quality_score: 70
@@ -14,7 +14,9 @@ importance: medium
 tags:
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -33,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Contributions**: Nicole Choi is a documented contributor on GitHub, associated with [GitHub Blog](https://github.blog/author/nicchoi29/) and holds the username [@nicchoi29](https://github.com/nicchoi29).
+- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, cost reduction, and security hardening for scalable workflows.
 
-- **Profile Metadata**: The provided profile image URL (`https://avatars.githubusercontent.com/u/121124774?v=4&s=200`) indicates a GitHub user ID of `121124774` with a custom avatar of size `200x200`.
+- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, particularly in improving developer tooling, automation scripts, and documentation for enterprise-scale deployments.
 
-- **Author Affiliation**: Nicole Choi is listed as an author on the GitHub Blog, c
+- **Security & Compliance Advocacy**: Advocates for secure coding practices, supp
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai
+Original source URL: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/
 
 ## Local Vault File
 

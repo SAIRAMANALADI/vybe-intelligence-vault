@@ -13,12 +13,11 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
-- scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and workflow automation.
-- **Privacy & Security Focus**: Supports local/private deployments with RAG (Retrieval-Augmented Generation) for secure, on-premises data processing, avoiding cloud dependency.
-- **Modular Architecture**: Python-based system with agentic capabilities, integrating BGI (likely a proprietary or specialized c
+- **Purpose**: Open-source agentic AI framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI + Data products.
+- **Key Features**: Supports RAG (Retrieval-Augmented Generation), private/local LLM deployment, and integrates with BGI for enhanced data processing and security.
+- **Technical Stack**: Python-based, optimized for hacktoberfest contributions, with modular agents for database operations and AI-driven analytics.
 
 ## Use Cases
 

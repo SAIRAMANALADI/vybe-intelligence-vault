@@ -4,13 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-27T09:50:53.577295+05:30'
+collected_at: '2026-06-27T16:38:26.338770+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - python
+- scripts
+- workflows
 stars: 609
 language: Python
 status: active
@@ -19,9 +22,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-27T09:50:53.577295+05:30'
-last_seen: '2026-06-27T09:50:53.577295+05:30'
-last_checked: '2026-06-27T09:50:53.577295+05:30'
+first_seen: '2026-06-27T16:38:26.338770+05:30'
+last_seen: '2026-06-27T16:38:26.338770+05:30'
+last_checked: '2026-06-27T16:38:26.338770+05:30'
 health_score: 100
 ---
 
@@ -29,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a Python-based framework designed to standardize and benchmark AI research agents, enabling reproducible experimentation and comparative analysis across diverse tasks.
+- **Framework Design**: MLGym is a modular Python-based framework designed to standardize and automate AI research workflows, enabling reproducible experimentation through configurable pipelines and environments.
 
-- **Benchmark Suite**: Includes a curated set of tasks and metrics to evaluate agent performance, facilitating systematic advancement in AI research through consistent evaluation protocols.
+- **Benchmark Suite**: Introduces a comprehensive benchmark suite to evaluate AI research agents, featuring standardized tasks, metrics, and datasets to assess performance across diverse research scenarios.
 
-- **Modular Architecture**: Implements a plug-and-play design with configurable components (e.g., environments, agents, trainers) to support extensibility and rapid prototyping for novel research directions.
+- **Extensibility & Integration**: Supports plug-and-play integration of custom components (e.g., models, optimizers) and integrates with existing ML tools (e.g., PyTorch, TensorFlow) while providing CLI-driven automation for scalable experimentation.
 
 ## Why It Matters
 

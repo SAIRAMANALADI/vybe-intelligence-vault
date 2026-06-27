@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-27T14:22:19.483480+05:30'
+collected_at: '2026-06-27T16:36:41.187270+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-27T14:22:19.483480+05:30'
-last_seen: '2026-06-27T14:22:19.483480+05:30'
-last_checked: '2026-06-27T14:22:19.483480+05:30'
+first_seen: '2026-06-27T16:36:41.187270+05:30'
+last_seen: '2026-06-27T16:36:41.187270+05:30'
+last_checked: '2026-06-27T16:36:41.187270+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems with focus on conversational context retention, dynamic query reformulation, and multi-step reasoning across sequential interactions.
+- **Purpose**: Multi-Turn RAG Benchmark (`mt-rag-benchmark`) evaluates Retrieval-Augmented Generation (RAG) systems across multi-turn conversational contexts, emphasizing iterative retrieval and response refinement.
 
-- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, retrieval precision) augmented with turn-level coherence, context utilization efficiency, and cumulative performance degradation over multi-turn dialogues.
+- **Implementation**: Python-based benchmark with modular components for simulating multi-turn dialogues, integrating retrieval mechanisms, and assessing response quality via predefined metrics (e.g., relevance, coherence, factual accuracy).
 
-- **Implementation**: Python-based framework with modular components for dataset curation, retrieval models (e.g., dense/sparse retrievers), and LLM integration (e.g., fine-tuned LLMs or API-based models) for standardized multi-turn RAG assessment.
+- **Scope**: Focuses on latency, retrieval precision, and end-to-end performance in dynamic QA scenarios, providing a standardized framework for comparing RAG pipelines under realistic multi-turn conditions.
 
 ## Why It Matters
 

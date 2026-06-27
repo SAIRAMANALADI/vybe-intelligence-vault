@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://alephneuro.com/blog/ultrasound-brain
 hn_url: https://news.ycombinator.com/item?id=48685558
-score: 275
+score: 285
 author: rossant
-comments_count: 113
+comments_count: 114
 published_at: '2026-06-26T17:21:11+05:30'
-collected_at: '2026-06-27T14:20:29.342158+05:30'
+collected_at: '2026-06-27T16:34:52.410727+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ultrasound-imaging-of-the-brain
 first_seen: '2026-06-26T20:18:14.123810+05:30'
-last_seen: '2026-06-27T14:20:29.342158+05:30'
-last_checked: '2026-06-27T14:20:29.342158+05:30'
+last_seen: '2026-06-27T16:34:52.410727+05:30'
+last_checked: '2026-06-27T16:34:52.410727+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rossant. Score: 275, Comments: 113.
+Hacker News story by rossant. Score: 285, Comments: 114.
 Original Link: https://alephneuro.com/blog/ultrasound-brain
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rossant
-- Score: 275 Upvotes
-- Comments: 113 Discussions
+- Score: 285 Upvotes
+- Comments: 114 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48685558
 - Original Article: https://alephneuro.com/blog/ultrasound-brain
 

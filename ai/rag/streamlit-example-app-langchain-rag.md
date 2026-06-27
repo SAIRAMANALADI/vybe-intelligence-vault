@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-27T14:21:44.453299+05:30'
+collected_at: '2026-06-27T16:36:11.139872+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-27T14:21:44.453299+05:30'
-last_seen: '2026-06-27T14:21:44.453299+05:30'
-last_checked: '2026-06-27T14:21:44.453299+05:30'
+first_seen: '2026-06-27T16:36:11.139872+05:30'
+last_seen: '2026-06-27T16:36:11.139872+05:30'
+last_checked: '2026-06-27T16:36:11.139872+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vectorstore retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for improved document retrieval accuracy.
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with traditional keyword search for enhanced retrieval performance in LangChain RAG pipelines.
 
-- **LangChain Integration**: Utilizes LangChain's modular framework for chaining LLM calls, document loaders, and retrievers, with Streamlit for interactive UI deployment.
+- **LangChain + Vectorstore Integration**: Showcases end-to-end setup using LangChain's retrieval-augmented generation (RAG) with a vector database (e.g., FAISS, Chroma) for document indexing and querying.
 
-- **Streamlit Deployment**: Provides a production-ready Streamlit app (`app.py`) demonstrating real-time RAG inference, with configurable parameters for vectorstore, retriever, and LLM backend.
+- **Streamlit UI for RAG**: Provides a Streamlit-based frontend to interact with the RAG system, enabling users to input queries and visualize retrieved results with hybrid search.
 
 ## Why It Matters
 

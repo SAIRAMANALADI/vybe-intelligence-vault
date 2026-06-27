@@ -4,13 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-27T14:24:09.673068+05:30'
+collected_at: '2026-06-27T16:38:36.309460+05:30'
 published_at: '2026-06-27T01:13:23Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
+- workflows
 stars: 758
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-06-27T07:10:05Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-27T14:24:09.673068+05:30'
-last_seen: '2026-06-27T14:24:09.673068+05:30'
-last_checked: '2026-06-27T14:24:09.673068+05:30'
+first_seen: '2026-06-27T16:38:36.309460+05:30'
+last_seen: '2026-06-27T16:38:36.309460+05:30'
+last_checked: '2026-06-27T16:38:36.309460+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw provides a security governance framework for agentic AI systems, enabling policy enforcement, monitoring, and compliance checks in Python-based AI deployments.
+- **Security Governance Framework**: DefenseClaw provides a structured approach to security governance for agentic AI systems, focusing on policy enforcement, risk assessment, and compliance monitoring through Python-based tooling.
 
-- **Key Features**: Implements runtime security controls for AI agents, including policy validation, threat detection, and audit logging to mitigate risks in autonomous AI operations.
+- **Agentic AI Protection**: Implements mechanisms to secure autonomous AI agents by detecting anomalous behaviors, mitigating adversarial attacks, and enforcing least-privilege access controls in real-time.
 
-- **Technical Stack**: Python-based repository with no explicit external dependencies listed, focusing on agentic AI security governance and runtime enforcement mechanisms.
+- **Extensible Python Toolkit**: Offers modular libraries for integrating security policies into AI workflows, supporting custom rule definitions, logging, and audit trails for agentic AI deployments.
 
 ## Why It Matters
 

@@ -8,16 +8,18 @@ local_vault_path: ai/rag/coree-awesome-rag.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # coree/awesome-rag
@@ -26,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Curated resource list for Retrieval-Augmented Generation (RAG) within Large Language Models (LLMs).
-*   Focuses on technical aspects including embeddings, retrieval systems, and RAG model architectures.
-*   Aggregates diverse materials relevant to the implementation and understanding of RAG in LLM contexts.
+- **Curated RAG Resources**: Compilation of tools, frameworks, datasets, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Key Topics Covered**: Embeddings, retrieval systems, RAG model architectures, and integration techniques for enhancing LLMs with external knowledge.
+- **Last Updated**: June 25, 2026, with active community contributions (425 stars, 48 forks).
 
 ## Use Cases
 

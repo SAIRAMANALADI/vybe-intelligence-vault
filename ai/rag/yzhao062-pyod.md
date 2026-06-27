@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-06-27T14:23:59.629131+05:30'
+collected_at: '2026-06-27T16:38:26.258933+05:30'
 published_at: '2026-06-26T07:46:55Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-06-27T14:23:59.629131+05:30'
-last_seen: '2026-06-27T14:23:59.629131+05:30'
-last_checked: '2026-06-27T14:23:59.629131+05:30'
+first_seen: '2026-06-27T16:38:26.258933+05:30'
+last_seen: '2026-06-27T16:38:26.258933+05:30'
+last_checked: '2026-06-27T16:38:26.258933+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Multimodal anomaly detection library offering 60+ algorithms for tabular, time series, graph, text, image, and audio data.
-*   Features ADEngine for benchmark-backed orchestration and an agentic workflow for AI-driven anomaly detection.
-*   Supports diverse AD paradigms including novelty detection, out-of-distribution detection, and unsupervised outlier ensembles, leveraging deep learning.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed `ADEngine` orchestration for automated model selection and evaluation.
+
+- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection pipelines via agentic workflows, leveraging foundation models for adaptive decision-making.
+
+- **Multimodal & Unsupervised Capabilities**: Includes specialized detectors for fraud, graph anomalies, OOD detection, and novelty detection, with support for deep learning and unsupervised learning paradigms.
 
 ## Why It Matters
 

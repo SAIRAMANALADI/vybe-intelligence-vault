@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: LangChain (Python/JS) provides reusable components and integrations for LLM applications, while LangGraph (Python/JS) enables building LLM agents as computational graphs for complex workflows.
-- **Agent Frameworks**: Deep Agents (Python/JS) supports hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
-- **Commercial & Extensible Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem operations for advanced task execution.
+
+- **Commercial & Extensions**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Age
 
 ## Use Cases
 

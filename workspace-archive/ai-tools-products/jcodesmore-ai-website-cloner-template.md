@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Website Cloning**: Enables one-command website replication using AI coding agents (e.g., Claude Code) with TypeScript, Next.js, and React.
-- **Automated Reverse Engineering**: Combines web scraping, DOM analysis, and AI-driven code generation to reconstruct UI components (shadcn/ui, TailwindCSS).
-- **Developer Toolkit**: Boilerplate template with pre-configured AI agent integration, modular skills, and automation pipelines for scalable website cloning.
+- **AI-Powered Website Cloning**: Automates full website replication (HTML, CSS, JS) via AI coding agents (e.g., Claude Code) using a single command, eliminating manual reverse-engineering.
+- **Tech Stack**: Built with **Next.js**, **React**, **TypeScript**, **TailwindCSS**, and **shadcn/ui** for modern UI components; integrates **web-scraping** and **automation** tools.
+- **Template Features**: Pre-configured boilerplate for AI agent-driven cloning, supports **Claude Code** and other AI tools,
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-06-27T09:49:53.482013+05:30'
-published_at: '2026-06-26T09:31:41Z'
+collected_at: '2026-06-27T16:37:31.281255+05:30'
+published_at: '2026-06-27T07:45:24Z'
 tags:
 - agents
 - anthropic
@@ -15,7 +15,7 @@ tags:
 - python
 - reddit
 - workflows
-stars: 4248
+stars: 4249
 language: Python
 status: active
 license: MIT
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-05-14T11:46:10Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-06-27T09:49:53.482013+05:30'
-last_seen: '2026-06-27T09:49:53.482013+05:30'
-last_checked: '2026-06-27T09:49:53.482013+05:30'
+first_seen: '2026-06-27T16:37:31.281255+05:30'
+last_seen: '2026-06-27T16:37:31.281255+05:30'
+last_checked: '2026-06-27T16:37:31.281255+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics such as agents, LLMs (OpenAI, Anthropic), and AI integration.
-
-- **Key Metrics**: 4,248 stars, 1,501 forks, last updated on June 26, 2026, with active development in AI/ML tooling and frameworks.
-
-- **Technical Focus**: Demonstrates implementation of AI agents, large language model (LLM) interactions, and Python-based AI workflows for developers.
+- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, with 4,249 stars and 1,501 forks.
+- **Technical Focus**: Python-based implementations covering agents, LLMs (OpenAI/Anthropic), and AI system development workflows.
+- **Last Update**: Repository last updated on **June 27, 2026**, with active maintenance and updates.
 
 ## Why It Matters
 
@@ -46,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4248
+- Stars: 4249
 - Forks: 1501
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-06-26T09:31:41Z
+- Last Updated: 2026-06-27T07:45:24Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

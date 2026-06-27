@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-06-27T14:24:19.776242+05:30'
+collected_at: '2026-06-27T16:38:41.336078+05:30'
 published_at: '2026-06-27T08:16:04Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2019-11-14T09:05:28Z'
 pushed_at: '2026-06-26T17:04:31Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-06-27T14:24:19.776242+05:30'
-last_seen: '2026-06-27T14:24:19.776242+05:30'
-last_checked: '2026-06-27T14:24:19.776242+05:30'
+first_seen: '2026-06-27T16:38:41.336078+05:30'
+last_seen: '2026-06-27T16:38:41.336078+05:30'
+last_checked: '2026-06-27T16:38:41.336078+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and multimodal systems.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal apps, semantic search, and conversational systems, leveraging transformers and PyTorch for advanced NLP tasks.
+- **Context-Engineered Design**: Integrates semantic search, transformers, and PyTorch for advanced information retrieval and generative AI tasks like summarization, QA, and conversational systems.
 
-- **Open-Source Framework**: Python-based, integrates with GPT-4, Gemini, and other LLMs, optimized for information retrieval, summarization, and question-answering in enterprise-grade deployments.
+- **Production-Ready Features**: Supports agent workflows, explicit control over LLM interactions, and seamless integration with models like GPT-4 and Gemini, optimized for scalable deployment.
 
 ## Why It Matters
 

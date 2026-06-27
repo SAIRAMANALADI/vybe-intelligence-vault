@@ -14,8 +14,8 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - USEFUL Tier)
-- [promptfoo/promptfoo-action](https://github.com/promptfoo/promptfoo-action) (prompt - USEFUL Tier)
-- [chaoql/rag-best-practices](https://github.com/chaoql/rag-best-practices) (prompt - USEFUL Tier)
+- [pixegami/langchain-rag-tutorial](https://github.com/pixegami/langchain-rag-tutorial) (prompt - USEFUL Tier)
+- [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
-- [promptfoo/promptfoo-action](https://github.com/promptfoo/promptfoo-action)
-- [chaoql/rag-best-practices](https://github.com/chaoql/rag-best-practices)
-- [Azure/agent-innovator-lab](https://github.com/Azure/agent-innovator-lab)
+- [pixegami/langchain-rag-tutorial](https://github.com/pixegami/langchain-rag-tutorial)
+- [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-27 14:37 IST*
+*Last updated: 2026-06-27 16:51 IST*

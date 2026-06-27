@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita)
+- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-27 14:36 IST*
+*Last updated: 2026-06-27 16:51 IST*

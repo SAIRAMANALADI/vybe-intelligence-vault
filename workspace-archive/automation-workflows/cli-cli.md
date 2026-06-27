@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories, issues, PRs, and APIs directly from the command line.
-- **Technical Stack**: Built in Go, leveraging GitHub's GraphQL API (v4) for efficient data fetching and mutation operations.
-- **Features**: Supports Git operations, GitHub API interactions, and automation workflows; actively maintained with frequent updates.
+- **Technical Stack**: Built in Go, leveraging GitHub’s GraphQL API (v4) for efficient data fetching and mutations.
+- **Features**: Supports Git operations, GitHub API interactions, and workflow automation with a focus on developer productivity.
 
 ## Use Cases
 

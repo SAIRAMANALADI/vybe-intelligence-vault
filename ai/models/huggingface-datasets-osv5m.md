@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/osv5m
 published_at: '2024-04-27T01:39:53.000Z'
-collected_at: '2026-06-26T15:22:54.987149+05:30'
+collected_at: '2026-06-27T16:34:50.589304+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/osv5m
 first_seen: '2026-06-18T23:35:18.472234+05:30'
-last_seen: '2026-06-26T15:22:54.987149+05:30'
-last_checked: '2026-06-26T15:22:54.987149+05:30'
+last_seen: '2026-06-27T16:34:50.589304+05:30'
+last_checked: '2026-06-27T16:34:50.589304+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: osv5m/osv5m (Likes: 54, Downloads: 1234017)
+Trending Hugging Face dataset: osv5m/osv5m (Likes: 54, Downloads: 1226219)
 
 ## Why It Matters
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based visual AI workflow automation platform** enabling drag-and-drop agent orchestration with real-time execution capabilities.
-- **Repository structure optimized for Vercel deployments**, leveraging Next.js for UI and serverless functions for workflow processing.
-- **Pre-configured templates for common AI workflows** (e.g., multi-agent collaboration, data pipelines) with modular component system for extensibility.
+- **TypeScript-based AI workflow automation platform** enabling visual construction of multi-agent systems with drag-and-drop interface for orchestrating AI-driven tasks and processes.
+
+- **Repository template** for deploying scalable, serverless workflows optimized for Vercel, leveraging Next.js and Vercel AI SDK for seamless integration with AI models and APIs.
+
+- **Key features**: Pre-configured agent templates, state management for workflows, and support for dynamic AI agent interactions wit
 
 ## Use Cases
 

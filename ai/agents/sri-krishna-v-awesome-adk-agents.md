@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-06-27T04:10:28.508970+05:30'
+collected_at: '2026-06-27T16:38:06.234313+05:30'
 published_at: '2026-06-25T13:01:16Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 324
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-20T03:58:56Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-06-27T04:10:28.508970+05:30'
-last_seen: '2026-06-27T04:10:28.508970+05:30'
-last_checked: '2026-06-27T04:10:28.508970+05:30'
+first_seen: '2026-06-27T16:38:06.234313+05:30'
+last_seen: '2026-06-27T16:38:06.234313+05:30'
+last_checked: '2026-06-27T16:38:06.234313+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository containing Google's Agent Development Kit (ADK) templates, best practices, and production-ready AI agent examples across domains like research, business, automation, and education.
-- **Multi-Platform Support**: Includes ADK for Python (`adk-python`) and web (`adk-web`), with examples for multi-agent systems, Gemini AI integration, and Google ADK workflows.
-- **Technical Scope**: Focuses on agentic AI, agent samples, and templates, last updated June 2026, with 324 stars and 46 forks.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Multi-Language Support**: Focuses on Python-based ADK implementations (`adk-python`) with additional references to web-based ADK (`adk-web`), covering agentic AI, multi-agent systems, and integration with Google's Gemini AI.
+- **Metadata**: 324 stars, 46 forks, last updated June 25, 2026; categorized under topics like `awesome-list`, `agent-samples`, and `google-adk`.
 
 ## Why It Matters
 

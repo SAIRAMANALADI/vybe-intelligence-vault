@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-27T14:21:19.366814+05:30'
+collected_at: '2026-06-27T16:35:46.067480+05:30'
 published_at: '2026-06-27T06:24:18Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-27T14:21:19.366814+05:30'
-last_seen: '2026-06-27T14:21:19.366814+05:30'
-last_checked: '2026-06-27T14:21:19.366814+05:30'
+first_seen: '2026-06-27T16:35:46.067480+05:30'
+last_seen: '2026-06-27T16:35:46.067480+05:30'
+last_checked: '2026-06-27T16:35:46.067480+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
-- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular pipeline for embeddings, vector storage, and retrieval-augmented generation.
-- **Purpose**: Aims to demystify RAG by exposing core mechanics (e.g., embedding generation, similarity search, prompt augmentation) through a hands-on tutorial, targeting developers seeking practical, transparent AI agent implementations.
+- **Educational RAG Implementation**: Provides a step-by-step, open-source tutorial in JavaScript for building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs (via `node-llama-cpp`), eliminating black-box dependencies.
+
+- **Core RAG Pipeline Components**: Demonstrates embeddings generation, vector search (likely using cosine similarity or similar), retrieval-augmented context integration, and context-augmented generation—all implemented transparently for educational purposes.
+
+- **Agent-Based Architecture**: Includes AI agent integration (e.g., for dynamic retrieval or tool use) and is optimized for Node.js environments, with last updates as of June 2026.
 
 ## Why It Matters
 

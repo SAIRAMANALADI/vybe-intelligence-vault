@@ -13,7 +13,6 @@ importance: medium
 tags:
 - github-repo
 - go
-- models
 - rag
 selection_reason:
 - Active open-source repository
@@ -31,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Algorithm**: Implements a saliency-based image cropping algorithm in Go, analyzing image entropy, edges, and face detection to determine optimal crop regions.
-- **Features**: Supports arbitrary crop sizes and aspect ratios, with configurable scoring weights for different saliency metrics.
-- **Performance**: Optimized for speed with minimal dependencies, leveraging Go's concurrency for efficient image processing.
+- **Algorithm**: Implements a saliency-based cropping algorithm in Go, analyzing image entropy, edges, and face detection to determine optimal crop regions.
+- **Features**: Supports arbitrary crop sizes and aspect ratios, with optional face detection prioritization and smart fallback to center crops.
+- **Performance**: Optimized for speed with minimal dependencies, leveraging Go’s concurrency for efficient image processing.
 
 ## Use Cases
 

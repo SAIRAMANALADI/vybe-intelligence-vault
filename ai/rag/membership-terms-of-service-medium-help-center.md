@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/115004932468-Paid-Terms-of-Service
-published_at: '2026-06-27T14:26:18.023700+05:30'
-collected_at: '2026-06-27T14:26:18.023710+05:30'
+published_at: '2026-06-27T16:41:18.563266+05:30'
+collected_at: '2026-06-27T16:41:18.563280+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:membership-terms-of-service-medium-help-center
-first_seen: '2026-06-27T14:26:18.023710+05:30'
-last_seen: '2026-06-27T14:26:18.023710+05:30'
-last_checked: '2026-06-27T14:26:18.023710+05:30'
+first_seen: '2026-06-27T16:41:18.563280+05:30'
+last_seen: '2026-06-27T16:41:18.563280+05:30'
+last_checked: '2026-06-27T16:41:18.563280+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Recurring Billing & Renewal**: Member Services operate on automatic recurring payments (monthly/annually) billed on the same day of the month/year as initial purchase; failure to update invalid payment methods results in immediate service suspension and potential subscription cancellation.
+- **Payment & Renewal Terms**: Subscriptions are recurring (monthly/annual) with fees charged automatically on the same day of renewal; invalid payment methods may lead to immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
 
-- **Strict Usage & Licensing Terms**: Personal, non-commercial use only; violators face immediate termination without refund; prohibits password sharing, reverse-engineering, sublicensing, or illegal use of Member Services.
+- **License & Restrictions**: Users receive a non-exclusive, personal-use license; violations (e.g., illegal use, sharing credentials, reverse-engineering) may result in immediate termination without refund.
 
-- **Gift Memberships & Refund Policy**: Non-transferable, one-year expiry; no refunds for partially used periods; recipients must redeem via unique Access Code; Medium disclaims liability for non-delivery due to invalid emails or spam filters.
+- **Gift Memberships**: Prepaid, one-year access codes are non-transferable, non-refundable, and void upon redemption; recipients must have a Medium account to activate, with no cash redemption or combination with other offers permitted.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:26:18.023700+05:30
+- Published: 2026-06-27T16:41:18.563266+05:30
 
 ## Related Tags
 

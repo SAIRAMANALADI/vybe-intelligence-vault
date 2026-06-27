@@ -6,14 +6,13 @@ source_url: https://github.com/stainless-api
 resource_id: blog:stainless-github
 local_vault_path: ai/resources/stainless-github.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - anthropic
 - openai
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,8 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, and others.
-- **Automated SDK Maintenance**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App to auto-generate Release PRs for SDK repositories.
-- **Integration Workflow**: Requires OpenAPI specs pushed to GitHub, Stainless GitHub App installation, and initial setup via the [Stainless dashboard](https:
+- **Multi-language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, Cloudflare, and others.
+- **Automated OpenAPI Integration**: Users can automate SDK updates by pushing OpenAPI specs via a [GitHub Action](https://github.com/marketplace/actions/stainless-upload-openapi-specification) and installing the [Stainless GitHub App](https://github.com/marketplace/stainless-app) for Releas
 
 ## Use Cases
 

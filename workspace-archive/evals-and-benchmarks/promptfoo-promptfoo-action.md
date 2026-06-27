@@ -6,7 +6,7 @@ source_url: https://github.com/promptfoo/promptfoo-action
 resource_id: github:promptfoo/promptfoo-action
 local_vault_path: ai/rag/promptfoo-promptfoo-action.md
 quality_score: 70
-archive_score: 83
+archive_score: 81
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -29,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configs in CI/CD pipelines, supporting prompt engineering, RAG evaluation, and agent testing.
-
-- **AI Red Teaming & Security**: Provides pentesting and vulnerability scanning for LLMs, facilitating adversarial robustness assessments and security audits.
-
-- **Multi-Model Comparison**: Facilitates benchmarking across major LLMs (e.g., GPT, Claude, Gemini, Llama) with simple YAML/JS
+- **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems via GitHub Actions, supporting CI/CD pipelines for LLM evaluation.
+- **Multi-Model Benchmarking**: Compares performance across major LLMs (GPT, Claude, Gemini, Llama) with declarative YAML configs for reproducibility.
+- **Security & Red Teaming**: Provides AI red teaming, pentesting, and vulnerability scanning for LLMs, enhancing robustness and security posture.
 
 ## Use Cases
 

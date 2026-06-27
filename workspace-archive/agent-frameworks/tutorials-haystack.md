@@ -6,14 +6,13 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG)** pipelines, including **multimodal RAG** (combining text and vision) and **conversational RAG** (leveraging chat history for multi-turn interactions).
-- Advanced tutorials cover **agentic workflows**, including **multi-agent systems**, **tool-calling agents**, and **human-in-the-loop** mechanisms for safer AI interactions.
-- Key technical topics include **metadata filtering**, **hybrid retrieval** (combining dense
+- **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+
+- **Multimodal RAG Pipeline**: Demonstrates integration of vision and text modalities using Haystack’s multimodal components to enable cross-domain question answering.
+
+- **KV Cache Compression**: Introduces TurboQuant quantization for reducing memory footprint of LLMs, enabling deployment on consumer GPUs
 
 ## Use Cases
 

@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-27T14:22:44.521778+05:30'
+collected_at: '2026-06-27T16:37:11.231761+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 520
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-27T14:22:44.521778+05:30'
-last_seen: '2026-06-27T14:22:44.521778+05:30'
-last_checked: '2026-06-27T14:22:44.521778+05:30'
+first_seen: '2026-06-27T16:37:11.231761+05:30'
+last_seen: '2026-06-27T16:37:11.231761+05:30'
+last_checked: '2026-06-27T16:37:11.231761+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Introduces a linear-time graph retrieval mechanism for RAG, enabling efficient large-scale corpus processing by leveraging linear graph traversal instead of traditional dense retrieval methods.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance retrieval-augmented generation (RAG) performance (ICLR 2026 submission).
 
-- **Scalability via Graph Decomposition**: Proposes a graph decomposition technique to partition large-scale corpora into linear subgraphs, reducing retrieval complexity from O(N²) to O(N) while preserving contextual relevance.
+- **Key Innovation**: Proposes a linear-time graph traversal mechanism for document retrieval, reducing computational overhead while maintaining high retrieval accuracy in large-scale knowledge bases, addressing bottlenecks in traditional graph-based RAG systems.
 
-- **Hybrid Retrieval-Augmentation**: Integrates linear graph traversal with LLM-based generation, optimizing retrieval latency and improving factual accuracy in downstream tasks through structured, graph-aware context augmentation.
+- **Implementation**: Provides an open-source Python implementation with modular components for graph construction, retrieval, and generation, supporting integration with existing LLM pipelines and large-scale corpus processing.
 
 ## Why It Matters
 

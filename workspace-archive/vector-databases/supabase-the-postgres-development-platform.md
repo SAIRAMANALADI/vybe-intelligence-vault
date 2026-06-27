@@ -18,7 +18,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Useful for project building
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **PostgreSQL-based backend platform** providing a managed relational database with built-in authentication, RESTful APIs, and real-time capabilities via Row-Level Security (RLS) and Postgres extensions.
+- **PostgreSQL-based platform** offering a full-featured, portable database with built-in authentication (RLS), RESTful APIs, and extensibility via custom SQL.
 
-- **Serverless compute & storage integration** offering Edge Functions for custom logic, scalable object storage for media, and vector embeddings support for AI/ML workloads with integrations to OpenAI and Hugging Face.
+- **Integrated backend services** including Edge Functions (serverless compute), Realtime subscriptions (WebSocket-based sync), Storage (scalable file handling), and Vector embeddings (ML model integration).
 
-- **Unified development workflow** with an integrated dashboard for SQL/R
+- **Enterprise-grade scalability** with Row Level Security (RLS), multi-tenant support, and seamless integration with frameworks,
 
 ## Use Cases
 

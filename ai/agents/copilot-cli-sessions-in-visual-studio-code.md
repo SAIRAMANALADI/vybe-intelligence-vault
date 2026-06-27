@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-27T09:52:30.182528+05:30'
-collected_at: '2026-06-27T09:52:30.182541+05:30'
+published_at: '2026-06-27T16:39:32.185700+05:30'
+collected_at: '2026-06-27T16:39:32.185715+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-27T09:52:30.182541+05:30'
-last_seen: '2026-06-27T09:52:30.182541+05:30'
-last_checked: '2026-06-27T09:52:30.182541+05:30'
+first_seen: '2026-06-27T16:39:32.185715+05:30'
+last_seen: '2026-06-27T16:39:32.185715+05:30'
+last_checked: '2026-06-27T16:39:32.185715+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI sessions** run autonomously in the background via the Copilot CLI agent harness, managed via VS Code’s Chat view, with SDK integration for start/stop/monitoring; sessions persist outside VS Code (unlike local agents) and support multi-repository workspaces.
+- **Copilot CLI Sessions**: VS Code supports autonomous background agent sessions via GitHub Copilot CLI, managed through the Chat view; sessions run independently of the editor and can handle tasks like feature implementation or proof-of-concept creation with minimal user interaction.
 
-- **Isolation modes** include **Worktree** (Git worktree-based, auto-bypasses approvals, changes isolated) and **Folder** (direct workspace edits, configurable permissions: Default/Bypass/Autopilot).
+- **Isolation Modes**: Copilot CLI supports **Worktree** (isolated Git worktree for safe changes) and **Folder** (direct workspace modifications) isolation; Worktree auto-approves tools, while Folder allows configurable permission levels (Default/Bypass/Autopilot).
 
-- **Key features** include slash commands (`/research`, `/yolo`), reusable prompts/skills/hooks, and permission controls; sessions are suited for scoped, low-interaction tasks (e.g., feature implementation, deep research).
+- **Session Management**: Sessions are initiated via Chat view, Command Palette, or CLI commands; slash commands (`/research`, `/yolo`, etc.) enable advanced interactions, and multi-session parallel execution is supported for independent tasks.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-27T09:52:30.182528+05:30
+- Published: 2026-06-27T16:39:32.185700+05:30
 
 ## Related Tags
 

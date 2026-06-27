@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processing **10+ billion observations/month**, with **100,000+ engineers** leveraging the platform for AI agent development and observability.
+- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processing over 10 billion observations/month, with a developer community of 100,000+ engineers building on the platform.
 
-- **Core Capabilities**: Provides end-to-end LLM engineering workflow integration, including **hierarchical tracing** of LLM calls, tool invocations, and retrieval steps, **prompt management** with versioning and rollback, **evaluation** via LLM-as-a-judge or human review, and **cost/latency
+- **Core Capabilities**: Provides hierarchical tracing of LLM calls, tool invocations, and retrieval steps with observability, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a unified workflow.
+
+- **Integration Ecosystem**: Supports OpenTelem
 
 ## Use Cases
 

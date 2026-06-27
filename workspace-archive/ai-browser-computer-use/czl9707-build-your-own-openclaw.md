@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - python
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular Python Framework**: Open-source repository providing a structured, step-by-step implementation of an AI agent using Python, emphasizing modularity for extensibility and customization.
-
-- **LLM Integration**: Demonstrates integration with large language models (LLMs) for core agent functionality, including prompt engineering, tool usage, and response generation workflows.
-
-- **Tutorial-Driven Development**: Offers a hands-on tutorial with practical examples, covering agent architectur
+- **OpenCLaw Framework**: Provides a modular Python-based architecture for constructing AI agents, emphasizing extensibility via customizable components (e.g., memory, tools, reasoning modules).
+- **Step-by-Step Tutorial**: Guides users through implementing core functionalities (e.g., tool integration, LLM interaction) with practical examples and code snippets.
+- **Integration-Focused**: Designed to interoperate with LLMs (e.g., via APIs) and supports dynamic agent behavior through configurable
 
 ## Use Cases
 

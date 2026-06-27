@@ -8,7 +8,7 @@ local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: framework
+resource_kind: benchmark
 importance: high
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # deepset-ai/haystack
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and multimodal systems.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal apps, semantic search, and conversational systems, leveraging transformers and PyTorch for advanced NLP tasks.
+- **Context-Engineered Design**: Integrates semantic search, transformers, and PyTorch for advanced information retrieval and generative AI tasks like summarization, QA, and conversational systems.
 
-- **Open-Source Framework**: Python-based, integrates with GPT-4, Gemini, and other LLMs, optimized
+- **Production-Ready Features**: Supports agent workflows, explicit con
 
 ## Use Cases
 

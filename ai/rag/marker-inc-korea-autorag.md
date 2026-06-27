@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-27T14:21:39.440705+05:30'
+collected_at: '2026-06-27T16:36:01.111395+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-27T14:21:39.440705+05:30'
-last_seen: '2026-06-27T14:21:39.440705+05:30'
-last_checked: '2026-06-27T14:21:39.440705+05:30'
+first_seen: '2026-06-27T16:36:01.111395+05:30'
+last_seen: '2026-06-27T16:36:01.111395+05:30'
+last_checked: '2026-06-27T16:36:01.111395+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Provides automated pipeline for hyperparameter tuning, evaluation, and optimization of Retrieval-Augmented Generation (RAG) systems with minimal manual intervention.
+- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using machine learning techniques, reducing manual configuration overhead.
 
-- **Comprehensive RAG Benchmarking**: Includes built-in evaluation metrics and benchmarks for assessing RAG performance across document parsing, embeddings, retrieval, and generation stages.
+- **Comprehensive RAG Evaluation**: Includes built-in benchmarking tools for assessing retrieval quality, generation performance, and end-to-end RAG pipeline efficiency across multiple metrics.
 
-- **Modular Python Framework**: Supports customizable components (e.g., document parsers, embedding models, LLMs) and integrates with popular libraries (e.g., LangChain, HuggingFace) for end-to-end RAG workflow automation.
+- **Modular Python Framework**: Supports document parsing, embeddings generation, retrieval strategies, and LLM integration with extensible components for custom RAG workflows.
 
 ## Why It Matters
 

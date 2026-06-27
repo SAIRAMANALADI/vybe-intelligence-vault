@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/MicrosoftDocs/wsl/blob/main/WSL/install.md
-published_at: '2026-06-27T01:46:18.635313+05:30'
-collected_at: '2026-06-27T01:46:18.635326+05:30'
+published_at: '2026-06-27T16:41:33.132611+05:30'
+collected_at: '2026-06-27T16:41:33.132627+05:30'
 tags:
 - hackernews
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: github:microsoftdocs/wsl
-first_seen: '2026-06-27T01:46:18.635326+05:30'
-last_seen: '2026-06-27T01:46:18.635326+05:30'
-last_checked: '2026-06-27T01:46:18.635326+05:30'
+first_seen: '2026-06-27T16:41:33.132627+05:30'
+last_seen: '2026-06-27T16:41:33.132627+05:30'
+last_checked: '2026-06-27T16:41:33.132627+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Single-command WSL installation**: Execute `wsl --install` in **admin PowerShell** to enable WSL, install WSL 2, and default to Ubuntu; requires Windows 10 (2004+) or Windows 11.
-- **Version control & defaults**: Use `wsl --list --online` to list distros, `wsl --install -d <Distro>` to specify a non-default distro, and `wsl --set-default-version <1|2>` to configure WSL version per distro.
-- **Offline installation**: Download the WSL MSI package, enable `VirtualMachinePlatform` via `dism.exe`, then install a distro using its `.wsl` file from [DistributionInfo.json](https://github.com/microsoft/WSL/blob/master/distributions/DistributionInfo.json).
+- **WSL Installation**: Single-command installation via `wsl --install` in PowerShell (admin) enables WSL and installs Ubuntu by default; supports Windows 10 (v2004+) and Windows 11.
+- **Version Management**: WSL 2 is default for new installs; versions can be toggled via `wsl --set-version <Distro> <1|2>`; version visibility via `wsl -l -v`.
+- **Offline/Advanced Install**: Requires MSI package + `dism.exe` for VM Platform enablement; distributions installed via `.wsl` files from GitHub.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:46:18.635313+05:30
+- Published: 2026-06-27T16:41:33.132611+05:30
 
 ## Related Tags
 

@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-27T14:22:49.462788+05:30'
+collected_at: '2026-06-27T16:37:11.191909+05:30'
 published_at: '2026-06-26T08:49:25Z'
 tags:
 - agents
 - github-repo
-- hackernews
+- paper
 - rag
 - unknown
 stars: 780
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-27T14:22:49.462788+05:30'
-last_seen: '2026-06-27T14:22:49.462788+05:30'
-last_checked: '2026-06-27T14:22:49.462788+05:30'
+first_seen: '2026-06-27T16:37:11.191909+05:30'
+last_seen: '2026-06-27T16:37:11.191909+05:30'
+last_checked: '2026-06-27T16:37:11.191909+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive collection of cutting-edge research and tools focused on agentic deep research, including agentic RAG, reasoning agents, and search agents, as highlighted in ACL 2026 KnowFM.
-- **Technical Breadth**: Covers advanced topics such as large language models (LLMs), reasoning mechanisms, and deep research agents, with a strong emphasis on autonomous and multi-agent systems.
-- **Active Development**: Last updated in June 2026, reflecting ongoing updates and contributions to the rapidly evolving field of agentic AI research.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and their applications in deep research tasks.
+
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM initiative, providing structured access to papers, frameworks, and tools for autonomous research agents and knowledge-intensive reasoning.
+
+- **High-Activity Repository**: Maintains 780+ stars and 63 forks, indicating active community engagement, with the last update (June 26, 2026) reflecting ongoing contributions to agentic AI research.
 
 ## Why It Matters
 

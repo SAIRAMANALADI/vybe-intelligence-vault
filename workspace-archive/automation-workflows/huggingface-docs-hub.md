@@ -6,7 +6,7 @@ source_url: https://huggingface.co/docs/hub/spaces
 resource_id: huggingface:docs/hub
 local_vault_path: ai/rag/huggingface-docs-hub.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Hosting & SDK Support**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio (Python SDK), Docker, and static HTML/JavaScript for rapid deployment.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JS apps, including GPU/accelerated hardware upgrades.
 
-- **Hardware Acceleration**: Spaces supports GPU/accelerated hardware upgrades (e.g., via [Spaces GPU Upgrades](https://huggingface.co/docs/hub/spaces-gpus)) for high-performance ML inference and demos.
+- **Multi-Environment SDKs**: Supports rapid development via Python (Gradio), full Docker flexibility, and static web apps, with additional features like Dev Mode, disk storage management, and custom domains.
 
-- **Advanced Configurations**: Supports custom domains, ZeroGPU mode, disk
+- **Collaboration & Integration**: Facilitates ML portfolio s
 
 ## Use Cases
 

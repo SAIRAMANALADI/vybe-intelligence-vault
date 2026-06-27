@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-27T14:21:39.401382+05:30'
+collected_at: '2026-06-27T16:36:06.101591+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-27T14:21:39.401382+05:30'
-last_seen: '2026-06-27T14:21:39.401382+05:30'
-last_checked: '2026-06-27T14:21:39.401382+05:30'
+first_seen: '2026-06-27T16:36:06.101591+05:30'
+last_seen: '2026-06-27T16:36:06.101591+05:30'
+last_checked: '2026-06-27T16:36:06.101591+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, facilitating real-time analysis of RAG components (retriever, generator, and intermediate steps) with Python-based tooling.
-- **Metadata & Performance Tracking**: Captures and visualizes RAG pipeline metrics (e.g., retrieval latency, token usage, response quality) via structured logging, aiding debugging and optimization.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic exploration and visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time analysis of retrieval and generation processes.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to inspect RAG components (e.g., embeddings, retrieval scores, LLM outputs) via a browser-based dashboard with minimal setup.
+
+- **Python-Based & Modular**: Built in Python with modular design for extensibility; supports custom RAG pipelines, integrates with LLMs, and provides tools for debugging retrieval quality and generation coherence.
 
 ## Why It Matters
 

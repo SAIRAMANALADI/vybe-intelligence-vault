@@ -1,0 +1,49 @@
+---
+title: GitHub Next
+archive_category: ai-coding-agents
+source_category: ai/agents
+source_url: https://githubnext.com/
+resource_id: blog:github-next
+local_vault_path: ai/agents/github-next.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- agents
+- web-crawled
+- workflows
+selection_reason:
+- Valuable developer reference
+---
+
+# GitHub Next
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **Customizable AI Model Integration**: Agentic Workflows supports deployment on custom runners with flexibility to use any compatible AI host or model-routing platform, including local inference models on macOS.
+- **Runtime Control**: Provides complete control over the Actions runtime, enabling customization of the execution environment for agentic workflows.
+- **Local Inference Support**: Explicitly supports local inference capabilities, allowing models to run on local hardware (e.g., Mac) wi
+
+## Use Cases
+
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
+
+## Source
+
+Original source URL: https://githubnext.com/
+
+## Local Vault File
+
+Path: [github-next.md](../../ai/agents/github-next.md)

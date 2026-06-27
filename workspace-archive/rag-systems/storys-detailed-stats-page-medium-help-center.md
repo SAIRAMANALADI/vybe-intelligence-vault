@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Includes hourly-updated data on total presentations (Medium-suggested views), views (reader landings), reads (30+ second engagements), and impact metrics (earnings, followers, subscribers) for paywalled stories; earnings update daily.
-
-- **Monthly Metrics**: Daily-updated engagement data (claps, highlights, responses, new followers) and earnings (if paywalled), with yellow-highlighted metrics indicating potential earnings contributions; includes Member read ratio to penal
+- **Lifetime Metrics**: Track hourly-updated reach funnel (presentations, views, reads, feed clickthrough rate, read ratio) and impact metrics (earnings, follower/subscription changes) for paywalled stories; earnings update daily.
+- **Monthly Engagement**: Daily-updated breakdown of earnings, views, reads, and engagement (claps, highlights, responses, new followers), with yellow highlights indicating metrics contributing to earnings.
+- **Traffic & Audience Analysis**: Hourly-updated traffic sour
 
 ## Use Cases
 

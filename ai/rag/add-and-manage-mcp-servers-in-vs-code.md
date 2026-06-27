@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/chat/mcp-servers
-published_at: '2026-06-27T01:46:20.447426+05:30'
-collected_at: '2026-06-27T01:46:20.447442+05:30'
+published_at: '2026-06-27T16:41:50.654140+05:30'
+collected_at: '2026-06-27T16:41:50.654154+05:30'
 tags:
 - agents
 - anthropic
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:add-and-manage-mcp-servers-in-vs-code
-first_seen: '2026-06-27T01:46:20.447442+05:30'
-last_seen: '2026-06-27T01:46:20.447442+05:30'
-last_checked: '2026-06-27T01:46:20.447442+05:30'
+first_seen: '2026-06-27T16:41:50.654154+05:30'
+last_seen: '2026-06-27T16:41:50.654154+05:30'
+last_checked: '2026-06-27T16:41:50.654154+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **MCP Integration**: VS Code supports Model Context Protocol (MCP) servers for AI model integration with external tools/services, enabling file operations, database interactions, and API calls via standardized tooling in chat sessions.
-
-- **Server Management**: MCP servers can be installed via Extensions view (`@mcp` search), configured in `mcp.json` (workspace/user profiles), and managed for trust/sandboxing; Dev Containers and remote environments support MCP via `devcontainer.json` or remote user settings.
-
-- **Security & Customization**: Local MCP servers execute arbitrary code; only trusted sources should be used. Configuration supports input variables for sensitive data, with IntelliSense for `mcp.json` schema validation and centralized management via the Agent Customizations editor.
+- **MCP Integration**: Visual Studio Code supports the Model Context Protocol (MCP) for connecting AI models to external tools/services, enabling file operations, database interactions, and API integrations via MCP servers.
+- **MCP Server Management**: MCP servers can be installed globally, per-workspace, or in dev containers via `mcp.json` configuration, with support for remote execution and automated discovery.
+- **Security & Customization**: MCP servers require trust validation, support input variables for sensitive data, and integrate with VS Code’s agent customization framework for tools, prompts, and interactive apps.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:46:20.447426+05:30
+- Published: 2026-06-27T16:41:50.654140+05:30
 
 ## Related Tags
 

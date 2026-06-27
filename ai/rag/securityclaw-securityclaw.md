@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-27T14:22:24.649349+05:30'
+collected_at: '2026-06-27T16:36:51.227018+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 251
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-27T14:22:24.649349+05:30'
-last_seen: '2026-06-27T14:22:24.649349+05:30'
-last_checked: '2026-06-27T14:22:24.649349+05:30'
+first_seen: '2026-06-27T16:36:51.227018+05:30'
+last_seen: '2026-06-27T16:36:51.227018+05:30'
+last_checked: '2026-06-27T16:36:51.227018+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data ingestion, with modular design for extensibility in cybersecurity workflows.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, skill-based automation, and threat detection/hunting with modular architecture.
 
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to construct dynamic behavioral baselines, enabling contextual anomaly detection and threat validation via LLMs.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic behavioral memory from monitored data, enabling contextual anomaly validation via LLMs for adaptive threat detection.
 
-- **LLM-Driven Anomaly Validation**: Uses large language models to cross-reference real-time telemetry against learned patterns, automating threat detection and reducing false positives in SOC operations.
+- **LLM-Driven Anomaly Validation**: Validates real-time anomalies using LLMs, integrating threat intelligence and behavioral patterns to enhance autonomous SOC decision-making and reduce false positives.
 
 ## Why It Matters
 

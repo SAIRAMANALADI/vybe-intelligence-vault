@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for dynamic graph construction and retrieval in RAG systems, enabling adaptive knowledge graph updates during inference.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-driven agents for graph-based retrieval-augmented generation (RAG), enhancing contextual reasoning via persistent memory structures.
 
-- **Ontology-Enhanced Graph Construction**: Implements an ontology-driven approach to graph construction, integrating structured knowledge domains to improve semantic coherence and contextual relevance in multi-agent interactions.
+- **Graph Construction & Ontology Integration**: Implements dynamic graph construction with ontology-aware modules to structure knowledge, enabling efficient multi-hop reasoning and semantic retrieval.
 
-- **Dynamic Graph Retrieval-Augmented Gener
+- **Python Implementation**: Provides an open-source Python library optimized
 
 ## Use Cases
 

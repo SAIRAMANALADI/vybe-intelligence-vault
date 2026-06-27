@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebook, designed for modularity and ease of deployment across different environments.
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented primarily in Jupyter Notebooks, designed for modularity and ease of integration.
 
-- **Core Components**: Includes standard RAG pipelines (retriever, generator, and integration layers) with preconfigured examples for quick experimentation and customization.
+- **Core Components**: Includes standard RAG pipelines (retriever, generator, and evaluator) with support for customizable embedding models, vector databases (e.g., FAISS), and LLM backends (e.g., Hugging Face Transformers).
 
-- **Tutorial Integration**: Provides step-by-step Jupyter Notebook tutorials covering end-to-end RAG workflow
+- **Tutorial-Driven**: Provides hands-on tutorials for end-to-en
 
 ## Use Cases
 

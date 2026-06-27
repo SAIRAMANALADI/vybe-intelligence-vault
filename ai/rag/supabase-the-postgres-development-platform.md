@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com
-published_at: '2026-06-27T09:51:14.237335+05:30'
-collected_at: '2026-06-27T09:51:14.237348+05:30'
+published_at: '2026-06-27T16:38:51.713782+05:30'
+collected_at: '2026-06-27T16:38:51.713796+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -14,13 +14,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:supabase-the-postgres-development-platform
-first_seen: '2026-06-27T09:51:14.237348+05:30'
-last_seen: '2026-06-27T09:51:14.237348+05:30'
-last_checked: '2026-06-27T09:51:14.237348+05:30'
+first_seen: '2026-06-27T16:38:51.713796+05:30'
+last_seen: '2026-06-27T16:38:51.713796+05:30'
+last_checked: '2026-06-27T16:38:51.713796+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **PostgreSQL-based backend platform** providing a managed relational database with built-in authentication, RESTful APIs, and real-time capabilities via Row-Level Security (RLS) and Postgres extensions.
+- **PostgreSQL-based platform** offering a full-featured, portable database with built-in authentication (RLS), RESTful APIs, and extensibility via custom SQL.
 
-- **Serverless compute & storage integration** offering Edge Functions for custom logic, scalable object storage for media, and vector embeddings support for AI/ML workloads with integrations to OpenAI and Hugging Face.
+- **Integrated backend services** including Edge Functions (serverless compute), Realtime subscriptions (WebSocket-based sync), Storage (scalable file handling), and Vector embeddings (ML model integration).
 
-- **Unified development workflow** with an integrated dashboard for SQL/RLS policy management, table editing, and CRUD operations, enabling rapid prototyping and deployment across frameworks.
+- **Enterprise-grade scalability** with Row Level Security (RLS), multi-tenant support, and seamless integration with frameworks, enabling rapid deployment and horizontal scaling.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:51:14.237335+05:30
+- Published: 2026-06-27T16:38:51.713782+05:30
 
 ## Related Tags
 
@@ -53,7 +52,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

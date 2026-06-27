@@ -40,9 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages; optimizations include chunking strategies (e.g., semantic splitting), embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + cosine similarity).
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance factual accuracy; LangChain simplifies pipeline integration.
 
-- **Production Hardening**: Implements caching (e.g., Redis), load balancing (multi-model inference), observability (Sentry + latency metrics), and deployment via Cloudflare Workers; addresses hallucinations via retrieval
+- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding optimization (model selection, quantization), hybrid retrieval (dense+sparse), and caching reduce latency/cost.
+
+- **Scaling & Monitoring**: Cloudflare Workers for edge deployment, Sentry for observability, load balancing
 
 ## Use Cases
 

@@ -1,46 +1,42 @@
 ---
-title: Releases · gohugoio/hugo · GitHub
+title: gohugoio/hugo
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/gohugoio/hugo/releases
+source_url: https://github.com/gohugoio/hugo
 resource_id: github:gohugoio/hugo
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: workflow
 importance: medium
 tags:
-- agents
-- frontend_ui
-- hackernews
+- github-repo
+- go
 - rag
-- reddit
-- scripts
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# Releases · gohugoio/hugo · GitHub
+# gohugoio/hugo
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 (JPEG/WebP at 75 is comparable), added per-format quality configuration, and introduced `hint` parameter for YUV420/YUV444 chroma subsampling optimization.
+- **Static Site Generator**: Hugo is a highly optimized static site generator written in Go, enabling rapid website builds by pre-compiling content into static files, eliminating runtime overhead.
 
-- **Security Fixes**: Addressed integer IPv4 host encoding normalization in HTTP URL checks, dropped symlink handling in filesystem operations, and updated `golang.org/x/image` dependency to mitigate vulnerabilities.
+- **Performance-Centric Design**: Leverages Go’s concurrency model and memory efficiency to achieve sub-millisecond build times, even for large-scale sites with thousands of pages.
 
-- **Regression Fixes**: Resolved page/section name
+- **Extensible Architecture**: Supports modular themes, custom shortcodes, and a robust plugin system, enabling integrat
 
 ## Use Cases
 
@@ -50,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/gohugoio/hugo/releases
+Original source URL: https://github.com/gohugoio/hugo
 
 ## Local Vault File
 

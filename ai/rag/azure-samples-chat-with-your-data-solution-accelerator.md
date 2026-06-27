@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-27T14:22:04.472662+05:30'
+collected_at: '2026-06-27T16:36:26.269836+05:30'
 published_at: '2026-06-27T03:54:28Z'
 tags:
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-27T04:04:14Z'
+pushed_at: '2026-06-27T10:16:13Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-27T14:22:04.472662+05:30'
-last_seen: '2026-06-27T14:22:04.472662+05:30'
-last_checked: '2026-06-27T14:22:04.472662+05:30'
+first_seen: '2026-06-27T16:36:26.269836+05:30'
+last_seen: '2026-06-27T16:36:26.269836+05:30'
+last_checked: '2026-06-27T16:36:26.269836+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to implement scalable, production-ready RAG solutions.
-- **Best Practices**: Incorporates common enterprise requirements (e.g., security, monitoring) and follows Azure’s architectural guidelines for AI workloads.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** for LLM-powered chat/Q&A, with preconfigured best practices.
+- **Azure Deployment**: Leverages **Azure Developer CLI (azd)** templates for infrastructure-as-code (IaC) provisioning, automating resource deployment (e.g., OpenAI, AI Search, storage).
+- **Python-Based**: Provides a **Python** codebase with modular components for document ingestion, embedding generation (via Azure OpenAI), and chat orchestration, optimized for scalability and cost-efficiency.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-27T04:04:14Z
+- Pushed At: 2026-06-27T10:16:13Z
 
 ## Possible Use Cases
 

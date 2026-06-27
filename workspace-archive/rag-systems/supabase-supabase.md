@@ -1,43 +1,41 @@
 ---
-title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+source_url: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
-- frontend_ui
-- openai
 - rag
 - reddit
 - web-crawled
-- youtube
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
+- **Code of Conduct & Setup**: Contributors must review the [code of conduct](https://github.com/supabase/.github/blob/main/CODE_OF_CONDUCT.md) and follow [DEVELOPERS.md](https://github.com/supabase/supabase/blob/master/DEVELOPERS.md) for local setup; docs contributions require following the [docs-specific guide](https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md).
 
-- Docs are authored in **MDX** with YAML frontmatter (e.g., `title`, `hideToc`), stored in `apps/docs/content`, and use **partials** (`_partials/`) for reusable snippets; navigation is defined in `NavigationM
+- **Issue & PR Workflow**: Bug reports require reproduction steps (screenshots/URLs preferred); PRs must li
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+Original source URL: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
 
 ## Local Vault File
 

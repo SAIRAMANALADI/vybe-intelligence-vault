@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Data Processing & Indexing**: Supports automated ingestion, conversion (PDFs, Office, images), OCR, and structured indexing for fast retrieval in document stores.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, deployment, and monitoring of AI-powered applications with support for prototyping, production scaling, and lifecycle management.
 
-- **Modular AI Pipeline Construction**: Enables building multi-component RAG systems and AI agents via visual Pipeline Builder, with interchangeable retrievers, rankers, generators, and model-agnostic LLM/embedding provider integration.
+- **Modular RAG & Agentic Pipelines**: Facilitates building advanced retrieval-augmented generation (RAG) systems and autonomous AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations.
 
-- **Lifecycle Management & Observability**: Provides REST API for automation, built-in monitor
+- **Observability & Dep
 
 ## Use Cases
 

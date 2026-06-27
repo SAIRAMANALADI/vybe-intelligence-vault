@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Provides automated pipeline for hyperparameter tuning, evaluation, and optimization of Retrieval-Augmented Generation (RAG) systems with minimal manual intervention.
+- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using machine learning techniques, reducing manual configuration overhead.
 
-- **Comprehensive RAG Benchmarking**: Includes built-in evaluation metrics and benchmarks for assessing RAG performance across document parsing, embeddings, retrieval, and generation stages.
+- **Comprehensive RAG Evaluation**: Includes built-in benchmarking tools for assessing retrieval quality, generation performance, and end-to-end RAG pipeline efficiency across multiple metrics.
 
-- **Modular Python Framework**: Supports customizable components (e.g., document parsers, embedding mode
+- **Modular Python Framework**: Supports document parsing, embeddings genera
 
 ## Use Cases
 

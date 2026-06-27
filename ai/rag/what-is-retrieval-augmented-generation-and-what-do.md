@@ -4,18 +4,20 @@ title: What is retrieval-augmented generation, and what does it do for generativ
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai
-published_at: '2026-06-22T11:14:02.652038+05:30'
-collected_at: '2026-06-22T11:14:02.652052+05:30'
+source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/
+published_at: '2026-06-27T16:35:31.911203+05:30'
+collected_at: '2026-06-27T16:35:31.911214+05:30'
 tags:
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
-first_seen: '2026-06-22T11:14:02.652052+05:30'
-last_seen: '2026-06-22T11:14:02.652052+05:30'
-last_checked: '2026-06-22T11:14:02.652052+05:30'
+first_seen: '2026-06-27T16:35:31.911214+05:30'
+last_seen: '2026-06-27T16:35:31.911214+05:30'
+last_checked: '2026-06-27T16:35:31.911214+05:30'
 health_score: 100
 ---
 
@@ -23,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Contributions**: Nicole Choi is a documented contributor on GitHub, associated with [GitHub Blog](https://github.blog/author/nicchoi29/) and holds the username [@nicchoi29](https://github.com/nicchoi29).
+- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, cost reduction, and security hardening for scalable workflows.
 
-- **Profile Metadata**: The provided profile image URL (`https://avatars.githubusercontent.com/u/121124774?v=4&s=200`) indicates a GitHub user ID of `121124774` with a custom avatar of size `200x200`.
+- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, particularly in improving developer tooling, automation scripts, and documentation for enterprise-scale deployments.
 
-- **Author Affiliation**: Nicole Choi is listed as an author on the GitHub Blog, contributing under the handle `nicchoi29`.
+- **Security & Compliance Advocacy**: Advocates for secure coding practices, supply chain security, and compliance automation (e.g., SBOM generation, dependency scanning) within GitHub’s ecosystem.
 
 ## Why It Matters
 
@@ -37,14 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:14:02.652038+05:30
+- Published: 2026-06-27T16:35:31.911203+05:30
 
 ## Related Tags
 
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai
+Original source: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/

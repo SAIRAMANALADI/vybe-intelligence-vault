@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Recurring Billing & Renewal**: Member Services operate on automatic recurring payments (monthly/annually) billed on the same day of the month/year as initial purchase; failure to update invalid payment methods results in immediate service suspension and potential subscription cancellation.
+- **Payment & Renewal Terms**: Subscriptions are recurring (monthly/annual) with fees charged automatically on the same day of renewal; invalid payment methods may lead to immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
 
-- **Strict Usage & Licensing Terms**: Personal, non-commercial use only; violators face immediate termination without refund; prohibits password sharing, reverse-engineering, sublicensing, or illegal use
+- **License & Restrictions**: Users receive a non-exclusive, personal-use license; violations (e.g., illegal use, sharing credentials, reverse-engineering) may result in immediate termination without refund.
+
+- **Gi
 
 ## Use Cases
 

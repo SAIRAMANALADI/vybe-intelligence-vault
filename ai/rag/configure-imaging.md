@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-06-27T09:53:58.801428+05:30'
-collected_at: '2026-06-27T09:53:58.801443+05:30'
+published_at: '2026-06-27T16:40:32.344113+05:30'
+collected_at: '2026-06-27T16:40:32.344127+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-06-27T09:53:58.801443+05:30'
-last_seen: '2026-06-27T09:53:58.801443+05:30'
-last_checked: '2026-06-27T09:53:58.801443+05:30'
+first_seen: '2026-06-27T16:40:32.344127+05:30'
+last_seen: '2026-06-27T16:40:32.344127+05:30'
+last_checked: '2026-06-27T16:40:32.344127+05:30'
 health_score: 100
 ---
 
@@ -23,16 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Settings**: Default anchor set to `smart` (using `muesli/smartcrop` for focal point detection), background color `#ffffff`, and `box` resampling filter for resizing operations.
+- **Image Processing Configuration**: Hugo's imaging settings support `anchor` (e.g., `smart`, `center`), `bgColor` (hex RGB), and `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) for resizing/cropping operations.
 
-- **Format-Specific Configurations**:
-  - **AVIF**: Lossy compression with `encoderSpeed: 10`, `hint: photo`, and `quality: 60`.
-  - **WebP**: Lossy compression with `method: 2`, `quality: 75`, and `useSharpYuv: false`.
-  - **JPEG**: Default `quality: 75`.
+- **Format-Specific Encoding**: AVIF (`lossy`/`lossless` compression, `encoderSpeed: 1-10`, `quality: 1-100`), JPEG (`quality: 1-100`), and WebP (`compression`, `method: 0-6`, `useSharpYuv`) settings optimize output fidelity/size trade-offs.
 
-- **Metadata Handling**:
-  - **Exif Filtering**: Excludes fields like `GPS`, `Exif`, `Contrast`, and `Sharp` by default; supports custom inclusion via `includeFields`.
-  - **Sources**: Extracts metadata from `exif` and `iptc` by default, with `xmp` excluded for performance.
+- **Metadata Handling**: `exif` fields can be filtered via glob patterns (e.g., exclude `GPS|Exif|*Exposure*`), with sources limited to `exif`, `iptc`, or `xmp` (default: `['exif', 'iptc']`).
 
 ## Why It Matters
 
@@ -42,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:53:58.801428+05:30
+- Published: 2026-06-27T16:40:32.344113+05:30
 
 ## Related Tags
 

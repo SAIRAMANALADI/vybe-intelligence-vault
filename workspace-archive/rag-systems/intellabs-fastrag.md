@@ -6,7 +6,7 @@ source_url: https://github.com/IntelLabs/fastRAG
 resource_id: github:intellabs/fastrag
 local_vault_path: ai/rag/intellabs-fastrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,12 @@ selection_reason:
 
 ## Summary
 
-- **Efficient RAG Framework**: Optimized for fast retrieval-augmented generation (RAG) with support for multi-modal inputs, leveraging state-of-the-art models like ColBERT and sentence-transformers for semantic search and question-answering tasks.
+- **Framework Overview**: `fastRAG` is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, optimized for large-scale **information retrieval** and **generative AI** tasks, supporting **multi-modal** and **knowledge-graph** integrations.
 
-- **Modular Architecture**: Integrates components for knowledge graphs, diffusion models, and transformers, enabling flexible pipelines for summarization, generative AI, and information retrieval with minimal latency.
-
-- **Benchmarking & Scalability**
+- **Key Features**:
+  - **ColBERT-based retrieval** for high-precision semantic search.
+  - **Diffusion and transformer** model support for generative tasks (e.g., summarization, QA).
+  - **Sentence-transformers** integration for ef
 
 ## Use Cases
 

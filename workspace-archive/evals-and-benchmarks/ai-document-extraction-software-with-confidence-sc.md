@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Field-level confidence scoring**: Quantifies extraction certainty per field using granular metrics to assess reliability of extracted data.
-- **Layout + context-aware parsing**: Leverages reasoning-based models to optimize accuracy for complex spatial layouts, nested tables, and multi-field extraction (e.g., names, dates, decisions).
-- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection of fields, with configurable parsing modes to balance
+- **Field-level confidence scoring**: Provides granular, per-column certainty metrics for extracted data, enabling reliability assessment of individual fields in structured outputs.
+
+- **Layout + context-aware parsing**: Uses advanced reasoning to interpret spatial document structures (e.g., nested tables, multi-column layouts) for high-fidelity extraction of names, dates, numbers, and decisions.
+
+- **Iterative schema development & granular control**: Supports custom schema definition or auto-de
 
 ## Use Cases
 

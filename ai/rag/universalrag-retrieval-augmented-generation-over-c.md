@@ -4,9 +4,9 @@ title: 'UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Mod
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://universalrag.github.io
-published_at: '2026-06-17T02:50:14.571029+05:30'
-collected_at: '2026-06-17T02:50:14.571043+05:30'
+source_url: https://universalrag.github.io/
+published_at: '2026-06-27T16:35:32.540263+05:30'
+collected_at: '2026-06-27T16:35:32.540275+05:30'
 tags:
 - benchmark
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:universalrag-retrieval-augmented-generation-over-c
-first_seen: '2026-06-17T02:50:14.571043+05:30'
-last_seen: '2026-06-17T02:50:14.571043+05:30'
-last_checked: '2026-06-17T02:50:14.571043+05:30'
+first_seen: '2026-06-27T16:35:32.540275+05:30'
+last_seen: '2026-06-27T16:35:32.540275+05:30'
+last_checked: '2026-06-27T16:35:32.540275+05:30'
 health_score: 100
 ---
 
@@ -24,7 +24,11 @@ health_score: 100
 
 ## Summary
 
-Retrieval-Augmented Generation (RAG) has shown substantial promise in improving factual accuracy by grounding model responses with external knowledge relevant to queries. However, most existing approaches are limited to a text-only corpus, and while ...
+- **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
+
+- **Modality-aware routing** dynamically selects the most relevant modality-specific corpus for retrieval, mitigating the *modality gap* problem where queries favor same-modality retrieval, supported by theoretical analysis.
+
+- Evaluated on 10 benchmarks across multiple modalities, UniversalRAG outperforms both modality-specific and unified baselines by enabling fine-grained retrieval tailored to query complexity and scope.
 
 ## Why It Matters
 
@@ -34,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-17T02:50:14.571029+05:30
+- Published: 2026-06-27T16:35:32.540263+05:30
 
 ## Related Tags
 
@@ -45,4 +49,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://universalrag.github.io
+Original source: https://universalrag.github.io/

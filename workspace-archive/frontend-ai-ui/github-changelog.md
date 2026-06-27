@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Merge Tracking by Adoption Phase**: Enterprise and organization reports now include tracking of total merges segmented by adoption phase (e.g., pilot, standard, advanced), enabling granular analysis of GitHub adoption trends across user segments.
+- **Merge Tracking Enhancement**: Enterprise and organization reports now include total merge counts segmented by adoption phases (e.g., pilot, full adoption), enabling granular analysis of GitHub adoption trends across teams.
 
-- **Enhanced Account-Level Insights**: Integration with Copilot and enterprise management tools provides deeper telemetry on merge activities, correlating adoption phases with user engagement metrics (e.g., merge frequency, automation usage).
+- **Copilot Integration Metrics**: New reporting features provide visibility into Copilot usage patterns, correlating merge activity with AI-assisted development phases to assess productivity impact.
 
-- **
+- **Account-Level Adoption Analytics**: Account management dashboards e
 
 ## Use Cases
 

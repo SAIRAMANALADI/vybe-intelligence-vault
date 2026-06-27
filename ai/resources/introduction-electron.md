@@ -3,18 +3,17 @@ title: Introduction | Electron
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://www.electronjs.org/docs/latest
-published_at: '2026-06-27T09:55:14.262270+05:30'
-collected_at: '2026-06-27T09:55:14.262284+05:30'
+source_url: https://electronjs.org/docs/latest
+published_at: '2026-06-27T16:39:26.150588+05:30'
+collected_at: '2026-06-27T16:39:26.150603+05:30'
 tags:
 - producthunt
 - web-crawled
-- workflows
 status: active
 resource_id: blog:introduction-electron
-first_seen: '2026-06-27T09:55:14.262284+05:30'
-last_seen: '2026-06-27T09:55:14.262284+05:30'
-last_checked: '2026-06-27T09:55:14.262284+05:30'
+first_seen: '2026-06-27T16:39:26.150603+05:30'
+last_seen: '2026-06-27T16:39:26.150603+05:30'
+last_checked: '2026-06-27T16:39:26.150603+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- Electron is a cross-platform desktop application framework that integrates Chromium for rendering and Node.js for native APIs, enabling JavaScript/HTML/CSS-based development without native code requirements.
+- **Cross-platform desktop app framework**: Electron combines Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps that run natively on Windows, macOS, and Linux without requiring platform-specific development.
 
-- Electron Fiddle provides a sandboxed environment for prototyping and testing Electron APIs directly from documentation examples via automated `fiddle.electronjs.org` links.
+- **Core architecture**: Electron apps consist of a main process (Node.js-based, managing lifecycle/events) and renderer processes (Chromium-based, displaying UI via `BrowserWindow`), with optional preload scripts bridging Node.js APIs to the renderer securely.
 
-- Official Electron documentation is structured into categories (e.g., Tutorials, Best Practices, Distribution) with in-depth references on processes, debugging, and development workflows.
+- **Development ecosystem**: Electron provides official tutorials, examples, and tools like Electron Fiddle for prototyping, alongside comprehensive documentation covering best practices, debugging, distribution, and community support via Discord/GitHub issues.
 
 ## Why It Matters
 
@@ -36,14 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:55:14.262270+05:30
+- Published: 2026-06-27T16:39:26.150588+05:30
 
 ## Related Tags
 
 - producthunt
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://www.electronjs.org/docs/latest
+Original source: https://electronjs.org/docs/latest

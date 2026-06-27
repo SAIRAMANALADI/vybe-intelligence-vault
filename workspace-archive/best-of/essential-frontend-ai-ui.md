@@ -38,6 +38,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`next-js-by-vercel-the-react-framework.md`](../../ai/rag/next-js-by-vercel-the-react-framework.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
+- **Category**: `web-development/tailwind` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-27 14:37 IST*
+*Last updated: 2026-06-27 16:51 IST*

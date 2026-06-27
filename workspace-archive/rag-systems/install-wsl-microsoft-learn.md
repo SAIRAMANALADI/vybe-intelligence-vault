@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **WSL Installation**: Requires Windows 10 (2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default). For older builds, use manual steps or `wsl --install -d <Distro>` to specify a distribution. Offline install requires MSI package and manual feature enablement (`VirtualMachinePlatform`).
+- **WSL Installation**: Requires Windows 10 (v2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default). Older versions require manual steps or `wsl --install -d <Distro>` for specific distributions.
 
-- **Version Management**: WSL 2 is default for new installs; versions can be checked with `wsl -l -v` and modified via `wsl --set-version <Distro> <1|2>`.
+- **WSL Versions & Management**: New installs default to WSL 2; versions can be checked/modified via `wsl -l -v` and `wsl --set-version <Distro> <1|2>`. Default distro/user setup is configured post-installation.
+
+- **Offline & Advanced Install**:
 
 ## Use Cases
 

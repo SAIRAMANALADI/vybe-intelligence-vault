@@ -6,14 +6,16 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-27T14:24:14.682216+05:30'
-published_at: '2026-06-27T08:51:16Z'
+collected_at: '2026-06-27T16:38:51.283600+05:30'
+published_at: '2026-06-27T10:51:17Z'
 tags:
 - agents
 - github-repo
+- hackernews
+- models
 - python
 - rag
-stars: 29486
+stars: 29494
 language: Python
 status: active
 license: MIT
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-06-27T14:24:14.682216+05:30'
-last_seen: '2026-06-27T14:24:14.682216+05:30'
-last_checked: '2026-06-27T14:24:14.682216+05:30'
+first_seen: '2026-06-27T16:38:51.283600+05:30'
+last_seen: '2026-06-27T16:38:51.283600+05:30'
+last_checked: '2026-06-27T16:38:51.283600+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Research Agent**: STORM autonomously researches a given topic by querying search engines, retrieving relevant documents, and synthesizing information into a structured report with inline citations.
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive, citation-backed reports through iterative retrieval and synthesis.
 
-- **Multi-Stage Pipeline**: Implements a hierarchical retrieval-augmented generation (RAG) process with iterative query refinement, evidence synthesis, and report generation, optimized for deep research tasks.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with multi-agent collaboration for deep research, enabling structured exploration and synthesis of diverse sources.
 
-- **EMNLP 2024 Publication**: Presented as a novel knowledge curation system leveraging agentic RAG, with modular design for extensibility to new domains or retrieval backends.
+- **EMNLP 2024 Publication**: Presented at EMNLP 2024, the system integrates advanced NLP techniques for report generation, optimized for knowledge curation and retrieval efficiency in Python.
 
 ## Why It Matters
 
@@ -44,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: stanford-oval
-- Stars: 29486
+- Stars: 29494
 - Forks: 2743
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-06-27T08:51:16Z
+- Last Updated: 2026-06-27T10:51:17Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

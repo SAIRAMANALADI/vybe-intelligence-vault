@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Model**: Medium is a platform for long-form, insightful writing, prioritizing depth over sensationalism, with monetization via a subscription-based member model (1M+ users) instead of ads or data sales.
-- **User Base & Content**: Hosts 100M+ monthly users (developers, executives, writers) sharing expertise, experiences, and niche knowledge, fostering collaborative, thoughtful discourse.
-- **UX Focus**: Designed for simplicity and readability, Medium connects writers with relevant a
+- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful conversation over sensational or surface-level content, fostering a space for meaningful writing and knowledge sharing.
+
+- **User Base & Monetization**: Over 100M monthly users contribute diverse content (e.g., software developers, CEOs), while the platform is monetized via a community of over 1M paying members rather than ads or data sales.
+
+- **Technical Infrastructure**: Utiliz
 
 ## Use Cases
 
