@@ -1,27 +1,27 @@
 ---
 title: "nodeflare-dev/nodeflare"
 category: "Orchestrator"
-tech_stack: ["Rust", "Axum", "Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL", "Redis", "Fly.io", "Stripe", "GitHub OAuth", "Docker"]
+tech_stack: ["Rust", "Axum", "Next.js", "TypeScript", "PostgreSQL", "Redis", "Fly.io", "Stripe", "Tailwind CSS", "GitHub OAuth"]
 quality_score: 9
 rag_relevance: 8
-tags: ["MCP hosting", "Model Context Protocol", "serverless deployment", "AI tool orchestration", "GitHub integration"]
+tags: ["MCP hosting", "Model Context Protocol", "serverless deployment", "AI infrastructure", "GitHub integration"]
 source: "https://github.com/nodeflare-dev/nodeflare"
-discovered_at: "2026-06-27T11:44:58Z"
+discovered_at: "2026-06-27T13:25:09Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Nodeflare is a Vercel-like hosting platform for MCP (Model Context Protocol) servers, enabling one-click deployment from GitHub URLs and automatic conversion of stdio-based MCP servers to Streamable HTTP transport for remote AI assistants.
+Nodeflare is a Vercel-like hosting platform for MCP (Model Context Protocol) servers, enabling one-click deployment of any MCP server via GitHub URL with automatic stdio-to-HTTP conversion for remote AI assistant access.
 
 ## Key Features
 - One-click deployment of MCP servers from GitHub URLs
-- Automatic stdio-to-Streamable HTTP conversion for MCP servers
+- Automatic conversion of stdio-based MCP servers to Streamable HTTP transport
 - Built-in authentication with API keys, OAuth 2.0, and scoped permissions
 - Global edge deployment powered by Fly.io for low-latency access
 - Full audit logging and enterprise compliance features
 
 ## Why It Matters for RAG Builders
-Nodeflare simplifies the deployment and scaling of MCP servers, making it essential for AI engineers building RAG systems that require reliable, remote-accessible tools.
+Nodeflare simplifies the deployment and scaling of MCP servers, making it essential for AI stack builders who need reliable, remote-accessible MCP integrations for their RAG systems.
 
 ## Tech Stack Deep Dive
 ### Rust
@@ -36,9 +36,6 @@ Automated review identified **Next.js** as a key module contributing to infrastr
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Tailwind CSS
-Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### PostgreSQL
 Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
@@ -51,11 +48,11 @@ Automated review identified **Fly.io** as a key module contributing to infrastru
 ### Stripe
 Automated review identified **Stripe** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
+### Tailwind CSS
+Automated review identified **Tailwind CSS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
 ### GitHub OAuth
 Automated review identified **GitHub OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
