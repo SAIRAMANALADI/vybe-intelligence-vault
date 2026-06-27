@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/google/electra-base-discriminator
-published_at: '2026-06-27T09:47:00.108759+05:30'
-collected_at: '2026-06-27T09:47:00.108767+05:30'
+published_at: '2026-06-27T14:20:27.388915+05:30'
+collected_at: '2026-06-27T14:20:27.388922+05:30'
 tags:
 - hf-model
 - huggingface
 status: active
 resource_id: huggingface:google/electra-base-discriminator
 first_seen: '2026-06-18T23:35:18.374802+05:30'
-last_seen: '2026-06-27T09:47:00.108767+05:30'
-last_checked: '2026-06-27T09:47:00.108767+05:30'
+last_seen: '2026-06-27T14:20:27.388922+05:30'
+last_checked: '2026-06-27T14:20:27.388922+05:30'
 health_score: 100
 ---
 
@@ -21,7 +21,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: google/electra-base-discriminator (Likes: 128, Downloads: 41913968)
+Trending Hugging Face model: google/electra-base-discriminator (Likes: 128, Downloads: 41762860)
 
 ## Why It Matters
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/models
-- Published: 2026-06-27T09:47:00.108759+05:30
+- Published: 2026-06-27T14:20:27.388915+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure/
-published_at: '2026-06-27T09:56:19.404022+05:30'
-collected_at: '2026-06-27T09:56:19.404033+05:30'
+published_at: '2026-06-27T14:25:28.308098+05:30'
+collected_at: '2026-06-27T14:25:28.308105+05:30'
 tags:
 - hackernews
 - producthunt
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-06-27T09:56:19.404033+05:30'
-last_seen: '2026-06-27T09:56:19.404033+05:30'
-last_checked: '2026-06-27T09:56:19.404033+05:30'
+first_seen: '2026-06-27T14:25:28.308105+05:30'
+last_seen: '2026-06-27T14:25:28.308105+05:30'
+last_checked: '2026-06-27T14:25:28.308105+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Scalability**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents** with **~20M km of fiber optic backbone**.
-
-- **High Availability & Resilience**: Each AWS Region contains **≥3 physically isolated AZs**, ensuring fault tolerance and **99.99% uptime SLA** for critical workloads, while **Dedicated Local Zones** and **Outposts** extend compliance-driven hybrid deployments.
-
-- **Performance-Optimized Infrastructure**: AWS leverages **AI-driven power optimization**, **subsea/terrestrial fiber networks**, and **edge computing (Wavelength, Local Zones)** to minimize latency, maximize throughput, and support **AI/ML workloads** with **sustainable data center designs**.
+- **Global Reach & Scalability**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs** and **45 Local Zones**, enabling low-latency deployment across **7 continents** with planned expansions in **Saudi Arabia, Chile, and New Zealand**.
+- **High Availability & Resilience**: Each Region contains **≥3 physically isolated AZs**, interconnected via **20M km of fiber**, ensuring **sub-millisecond latency** and **99.99%+ uptime** for mission-critical workloads.
+- **Diverse Deployment Models**: Supports **hybrid (Outposts), edge (Wavelength/Local Zones), and sovereign (Dedicated Local Zones)** deployments, with **AI-optimized data centers** for power efficiency and performance.
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:56:19.404022+05:30
+- Published: 2026-06-27T14:25:28.308098+05:30
 
 ## Related Tags
 

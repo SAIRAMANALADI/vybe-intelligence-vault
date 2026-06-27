@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/tensorblue
-published_at: '2026-06-27T09:51:18.609364+05:30'
-collected_at: '2026-06-27T09:51:18.609377+05:30'
+published_at: '2026-06-27T14:24:24.694497+05:30'
+collected_at: '2026-06-27T14:24:24.694508+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:tensorblue-github
-first_seen: '2026-06-27T09:51:18.609377+05:30'
-last_seen: '2026-06-27T09:51:18.609377+05:30'
-last_checked: '2026-06-27T09:51:18.609377+05:30'
+first_seen: '2026-06-27T14:24:24.694508+05:30'
+last_seen: '2026-06-27T14:24:24.694508+05:30'
+last_checked: '2026-06-27T14:24:24.694508+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- GitHub user `tensorblue` has **51 starred repositories** but **no public repositories, projects, or packages** as of the snapshot.
-- User account has **2 followers** and **0 following**, with no public activity or contributions visible.
-- Block/report UI indicates **no prior interactions**, suggesting an inactive or newly created account with no published content.
+- **GitHub Profile**: `tensorblue` is a GitHub user account with 51 stars, 2 followers, and no public repositories, projects, or packages.
+- **User Actions**: GitHub provides options to block or report the user, requiring login for blocking and direct support contact for abuse reporting.
+- **Error State**: The profile page displays an error ("Something went wrong") when attempting to load popular repositories, suggesting a transient or backend issue.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:51:18.609364+05:30
+- Published: 2026-06-27T14:24:24.694497+05:30
 
 ## Related Tags
 

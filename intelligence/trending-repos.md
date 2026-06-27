@@ -4,12 +4,13 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
-| [crewAIInc/crewAI Release: 1.15.1a1](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
+| [crewAIInc/crewAI Release: 1.15.1](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
+| [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | `ai-coding-agents/` | 70 |
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [Ammumammu/https-github.com-majacinka-crewai-experiments](https://github.com/Ammumammu/https-github.com-majacinka-crewai-experiments) | `ai-coding-agents/` | 70 |
 | [ahsen-adil/Learn_OpenAI_Agents_SDK](https://github.com/ahsen-adil/Learn_OpenAI_Agents_SDK) | `ai-coding-agents/` | 70 |
 | [FailproofAI/ai-reliability-standards](https://github.com/FailproofAI/ai-reliability-standards) | `ai-coding-agents/` | 70 |
-| [Haohao-end/openagent](https://github.com/Haohao-end/openagent) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-27T09:49:33.537482+05:30'
+collected_at: '2026-06-27T14:22:44.521778+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 520
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-27T09:49:33.537482+05:30'
-last_seen: '2026-06-27T09:49:33.537482+05:30'
-last_checked: '2026-06-27T09:49:33.537482+05:30'
+first_seen: '2026-06-27T14:22:44.521778+05:30'
+last_seen: '2026-06-27T14:22:44.521778+05:30'
+last_checked: '2026-06-27T14:22:44.521778+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimized for large-scale corpora, leveraging linear graph structures for efficient retrieval.
-- Proposes a **linear-time graph traversal algorithm** to enhance retrieval speed and scalability while maintaining contextual relevance in LLM responses.
-- Achieves **state-of-the-art performance** on ICLR 2026 benchmarks, demonstrating superior accuracy and efficiency compared to traditional RAG and graph-based methods.
+- **Linear Graph RAG Architecture**: Introduces a linear-time graph retrieval mechanism for RAG, enabling efficient large-scale corpus processing by leveraging linear graph traversal instead of traditional dense retrieval methods.
+
+- **Scalability via Graph Decomposition**: Proposes a graph decomposition technique to partition large-scale corpora into linear subgraphs, reducing retrieval complexity from O(N²) to O(N) while preserving contextual relevance.
+
+- **Hybrid Retrieval-Augmentation**: Integrates linear graph traversal with LLM-based generation, optimizing retrieval latency and improving factual accuracy in downstream tasks through structured, graph-aware context augmentation.
 
 ## Why It Matters
 

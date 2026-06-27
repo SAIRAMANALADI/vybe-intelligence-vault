@@ -8,17 +8,16 @@ local_vault_path: ai/rag/decodingai-magazine-llm-twin-course.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: tutorial
+resource_kind: template
 importance: high
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # decodingai-magazine/llm-twin-course
@@ -27,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including 12 structured lessons and source code.
+- **End-to-end LLM & RAG system development**: Course provides hands-on lessons (12 sessions) for building production-ready LLMs and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and infrastructure-as-code (IaC) templates.
 
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdrant (vector DB), Comet.ml, Qwak, and Superlinked, with Docker for containerization and ML system design focus.
-
-- **MLOps Integration**: Covers end-to-end workflows including infrastructure provisioning, model deployment, monitoring, and scaling
+- **Tech stack integration**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Comet-ML) with cloud infrastructure (AWS) and IaC frameworks (Pulumi), alongside containerization (Docker) for scalable, modular ML system desig
 
 ## Use Cases
 

@@ -1,40 +1,45 @@
 ---
-title: 'Haystack: Open-Source AI Framework for Production Ready Agents, RAG'
+title: Haystack | Haystack
 archive_category: ai-tools-products
-source_category: ai/community
-source_url: https://haystack.deepset.ai
+source_category: ai/rag
+source_url: https://haystack.deepset.ai/
 resource_id: blog:haystack-haystack
 local_vault_path: ai/rag/haystack-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: framework
-importance: medium
+resource_kind: template
+importance: high
 tags:
 - agents
-- ai
-- hackernews
+- anthropic
+- mistral
+- models
+- openai
 - rag
+- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# Haystack: Open-Source AI Framework for Production Ready Agents, RAG
+# Haystack | Haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-Hacker News story by doener. Score: 60, Comments: 19.
-Original Link: https://haystack.deepset.ai/
+- **Modular AI Orchestration Framework**: Open-source framework for building production-ready LLM-powered agents, RAG pipelines, and multimodal applications with full transparency, modularity, and vendor-agnostic integrations (e.g., OpenAI, Hugging Face, Weaviate).
+
+- **Enterprise-Grade Scalability**: Supports Kubernetes deployment, cloud-agnostic pipelines, and built-in observability/logging for high-reliability AI workflows, with enterprise support options for private engineering assistance an
 
 ## Use Cases
 
@@ -44,7 +49,7 @@ Original Link: https://haystack.deepset.ai/
 
 ## Source
 
-Original source URL: https://haystack.deepset.ai
+Original source URL: https://haystack.deepset.ai/
 
 ## Local Vault File
 

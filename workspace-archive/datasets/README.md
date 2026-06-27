@@ -24,8 +24,8 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [Speechify · GitHub](https://github.com/SpeechifyInc)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
-- [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
+- [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [naver/bergen](https://github.com/naver/bergen)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-27 10:04 IST*
+*Last updated: 2026-06-27 14:37 IST*

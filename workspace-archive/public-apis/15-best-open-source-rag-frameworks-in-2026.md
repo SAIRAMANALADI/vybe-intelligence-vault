@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering structured document generation (e.g., `llms.txt`), dynamic site crawling, and deep research capabilities via REST APIs for RAG pipeline data enrichment.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring `scrape()` for Markdown/HTML conversion, `crawl` for site traversal, `Agent` for AI-driven data extraction, and `deep-research` for OpenAI-like research capabilities; integrates seamlessly with RAG pipelines via API.
 
-- **LangChain**: Modular framework for LLM application development with RAG-specific components including data connectors, model flexibility, retrieval pipelines, and evaluation tools, supporting 100k+ GitHub stars and integration with LangSmith/LangGraph
+- **RAGFlow**: Open-source RAG engine with deep document understanding (PDFs, tables, layouts), GraphRAG support for knowledge graphs, and a visual web interface; supports Elasticse
 
 ## Use Cases
 

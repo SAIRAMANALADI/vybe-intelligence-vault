@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-27T09:49:38.432696+05:30'
+collected_at: '2026-06-27T14:22:49.487981+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- models
 - python
 - rag
 stars: 171
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-27T09:49:38.432696+05:30'
-last_seen: '2026-06-27T09:49:38.432696+05:30'
-last_checked: '2026-06-27T09:49:38.432696+05:30'
+first_seen: '2026-06-27T14:22:49.487981+05:30'
+last_seen: '2026-06-27T14:22:49.487981+05:30'
+last_checked: '2026-06-27T14:22:49.487981+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that processes diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a single pipeline.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), leveraging a unified retrieval mechanism.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a shared embedding space and retrieval mechanism for heterogeneous data, enabling cross-modal retrieval and generation without task-specific fine-tuning.
+- **ACL 2026 Oral-Presented Architecture**: The system integrates modality-specific encoders, a cross-modal retriever, and a modality-agnostic generator, with dynamic routing to optimize retrieval relevance across heterogeneous corpora.
 
-- **ACL 2026 Oral Contribution**: Presents a novel architecture with empirical results demonstrating superior performance across benchmarks involving multimodal and multigranular corpora, highlighting scalability and adaptability.
+- **Open-Source Python Implementation**: Provides a modular, extensible codebase with pre-trained components, evaluation benchmarks, and APIs for custom dataset integration, supporting rapid prototyping for multimodal RAG applications.
 
 ## Why It Matters
 

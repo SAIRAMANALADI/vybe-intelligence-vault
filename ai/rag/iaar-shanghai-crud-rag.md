@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-27T09:49:08.421400+05:30'
+collected_at: '2026-06-27T14:22:19.468042+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-27T09:49:08.421400+05:30'
-last_seen: '2026-06-27T09:49:08.421400+05:30'
-last_checked: '2026-06-27T09:49:08.421400+05:30'
+first_seen: '2026-06-27T14:22:19.468042+05:30'
+last_seen: '2026-06-27T14:22:19.468042+05:30'
+last_checked: '2026-06-27T14:22:19.468042+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across four core operations: **C**reate, **R**etrieve, **U**pdate, and **D**elete, providing a standardized framework for assessing LLM performance in dynamic knowledge scenarios.
+- **Benchmark Design**: Introduces a **Chinese-language benchmark** for evaluating Retrieval-Augmented Generation (RAG) models, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval quality, generation fluency, factual accuracy).
 
-- **Evaluation Metrics**: Implements multi-dimensional metrics including **retrieval accuracy**, **generation quality**, **contextual relevance**, and **task completion efficiency**, with standardized datasets and evaluation protocols tailored for Chinese language processing.
+- **CRUD Framework**: Implements **Create, Read, Update, Delete (CRUD)** operations for dynamic benchmarking, enabling adaptive testing of RAG systems under varying data states and retrieval conditions.
 
-- **Open-Source Toolkit**: Provides a Python-based open-source repository with modular implementations of RAG pipelines, enabling reproducibility, extensibility, and benchmarking across diverse LLM architectures and retrieval strategies.
+- **Evaluation Suite**: Provides a **standardized evaluation pipeline** with metrics for retrieval precision, context relevance, and generated output quality, supporting reproducibility and comparative analysis in Chinese NLP tasks.
 
 ## Why It Matters
 

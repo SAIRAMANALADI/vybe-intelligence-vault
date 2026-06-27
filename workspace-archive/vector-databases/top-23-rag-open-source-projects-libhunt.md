@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **dify**: TypeScript-based production-ready platform for agentic workflow development, enabling orchestration of AI agents with built-in RAG capabilities and modular component integration.
+- **dify**: TypeScript-based production-ready platform for agentic workflow development, enabling modular RAG pipelines with Dockerized deployment and `.env` configuration for scalable LLM integration.
 
-- **ragflow**: Python-based open-source RAG engine combining advanced retrieval with agentic workflows, supporting structured data extraction from PDFs/images via OCR (PaddleOCR integration) for LLM context augmentation.
+- **ragflow**: Go-based open-source RAG engine combining cutting-edge retrieval with agent capabilities, optimized for low-latency context fusion and LLM inference via vectorized data pipelines.
 
-- **Milvus**: Go-based cloud-native vector database optimized for high-performance, di
+- **Milvus**: Cloud-native Go vector database (ANN search) designed for distributed memory operations
 
 ## Use Cases
 

@@ -3,16 +3,17 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://aistudio.google.com/apikey
-published_at: '2026-06-27T09:57:14.291684+05:30'
-collected_at: '2026-06-27T09:57:14.291698+05:30'
+source_url: http://fi.google.com/account#plan
+published_at: '2026-06-27T14:33:31.028859+05:30'
+collected_at: '2026-06-27T14:33:31.028868+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-06-27T09:57:14.291698+05:30'
-last_seen: '2026-06-27T09:57:14.291698+05:30'
-last_checked: '2026-06-27T09:57:14.291698+05:30'
+first_seen: '2026-06-27T14:33:31.028868+05:30'
+last_seen: '2026-06-27T14:33:31.028868+05:30'
+last_checked: '2026-06-27T14:33:31.028868+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Flow**: Google AI Studio uses OAuth 2.0-based WebLiteSignIn for user authentication, redirecting to `ServiceLogin` and `WebLiteSignIn` endpoints with a `continue` parameter for post-authentication redirection.
+- **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with a "Forgot email?" recovery option redirecting to `usernamerecovery` endpoint.
 
-- **Recovery & Guest Modes**: Supports email recovery via `usernamerecovery` endpoint and offers private browsing (Guest mode) for session isolation, with documentation linked via `signin_privatebrowsing`.
+- **Session Security**: Provides a "private browsing" mode option to prevent credential caching, linking to Google Support documentation for Guest mode usage.
 
-- **Account Creation**: Provides a `SignUp` flow (`GlifWebSignIn`) for new users, with post-registration redirection to AI Studio’s API key generation page.
+- **Account Management**: Includes a "Create account" flow redirecting to Google's signup endpoint (`GlifWebSignIn`) for new user registration.
 
 ## Why It Matters
 
@@ -34,12 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:57:14.291684+05:30
+- Published: 2026-06-27T14:33:31.028859+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source
 
-Original source: https://aistudio.google.com/apikey
+Original source: http://fi.google.com/account#plan

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-27T09:49:08.499758+05:30'
+collected_at: '2026-06-27T14:22:19.489691+05:30'
 published_at: '2026-06-26T15:53:54Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-27T09:49:08.499758+05:30'
-last_seen: '2026-06-27T09:49:08.499758+05:30'
-last_checked: '2026-06-27T09:49:08.499758+05:30'
+first_seen: '2026-06-27T14:22:19.489691+05:30'
+last_seen: '2026-06-27T14:22:19.489691+05:30'
+last_checked: '2026-06-27T14:22:19.489691+05:30'
 health_score: 100
 ---
 
@@ -30,14 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of enterprise-specific retrieval and generation performance.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
 
-- **Features**:
-  - Includes synthetic and real-world data for RAG evaluation.
-  - Covers metrics for information retrieval, semantic search, and LLM-based question answering.
-  - Supports Python-based evaluation frameworks for large language models (LLMs).
+- **Key Features**: Includes tools for semantic search, information retrieval, and LLM evaluation, with support for Python-based pipelines and synthetic data generation to simulate enterprise knowledge bases.
 
-- **Scope**: Focuses on enterprise search, knowledge base integration, and generative AI applications, with tools for benchmarking and synthetic data generation.
+- **Scope**: Covers enterprise-specific use cases (e.g., document QA, knowledge base augmentation) and supports metrics for retrieval accuracy, generative AI performance, and end-to-end RAG pipeline efficiency.
 
 ## Why It Matters
 

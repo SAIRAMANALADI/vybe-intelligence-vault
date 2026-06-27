@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-27T09:48:23.402250+05:30'
+collected_at: '2026-06-27T14:21:34.460074+05:30'
 published_at: '2026-06-26T16:19:53Z'
 tags:
 - github-repo
-- meta-ai
-- models
-- openai
 - python
 - rag
 stars: 25499
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-27T09:48:23.402250+05:30'
-last_seen: '2026-06-27T09:48:23.402250+05:30'
-last_checked: '2026-06-27T09:48:23.402250+05:30'
+first_seen: '2026-06-27T14:21:34.460074+05:30'
+last_seen: '2026-06-27T14:21:34.460074+05:30'
+last_checked: '2026-06-27T14:21:34.460074+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded chat, enabling context-aware responses by dynamically retrieving relevant document segments.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded conversational AI, enabling context-aware responses by retrieving relevant document segments before generating answers.
 
-- **Modular Python Framework**: Built with Python, leveraging libraries like LangChain or LlamaIndex for document processing, embeddings, and LLM integration (e.g., OpenAI, HuggingFace models).
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM interaction, supporting customization via plugins or direct code modifications.
 
-- **Open-Source Deployment**: Supports self-hosting with configurable pipelines for document ingestion (PDFs, text), vector DB storage (e.g., FAISS, Chroma), and customizable LLM backends.
+- **Scalable & Open-Source**: Designed for large-scale document processing with support for multi-modal inputs (text, PDFs, etc.), optimized for performance and deployable in cloud/on-premise environments.
 
 ## Why It Matters
 

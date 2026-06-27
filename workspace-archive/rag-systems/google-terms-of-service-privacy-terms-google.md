@@ -8,7 +8,7 @@ local_vault_path: ai/rag/google-terms-of-service-privacy-terms-google.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - hackernews
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Google Terms of Service – Privacy & Terms – Google
@@ -30,18 +30,14 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, USA) operates services under U.S. law, with age requirements for minors and service-specific policies for additional restrictions.
-
-- **Service Usage & Compliance**: Users must adhere to Google’s terms, service-specific policies, and privacy guidelines; violations include abuse (e.g., malware, phishing, reverse engineering) and automated scraping (e.g., violating `robots.txt`).
-
-- **Content & Licensing**: Users retain IP
+*   Google's Terms of Service (effective May 22, 202
 
 ## Use Cases
 

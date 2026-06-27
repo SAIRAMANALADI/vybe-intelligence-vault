@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-27T09:49:33.419904+05:30'
+collected_at: '2026-06-27T14:22:44.474401+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-27T09:49:33.419904+05:30'
-last_seen: '2026-06-27T09:49:33.419904+05:30'
-last_checked: '2026-06-27T09:49:33.419904+05:30'
+first_seen: '2026-06-27T14:22:44.474401+05:30'
+last_seen: '2026-06-27T14:22:44.474401+05:30'
+last_checked: '2026-06-27T14:22:44.474401+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) mimicking human-like memory structures (e.g., episodic/semantic memory) to enhance long narrative reasoning via stateful processing.
+- **Cognitive Memory Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention and retrieval.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies tailored for extended contexts, enabling coherent multi-turn reasoning by maintaining and organizing contextual dependencies across interactions.
+- **Stateful Long-Context Handling**: Implements dynamic memory updates and hierarchical retrieval mechanisms to maintain coherence and relevance across extended narrative sequences, addressing limitations in traditional RAG systems.
 
-- **AAAI 2026 Poster Submission**: Presented as a novel approach for scalable, memory-efficient RAG systems, with open-source Python implementation (339 stars, 47 forks) emphasizing modularity for stateful narrative tasks.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in AI reasoning, leveraging Python-based implementation for scalable and efficient stateful narrative understanding.
 
 ## Why It Matters
 

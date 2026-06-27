@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-06-27T09:49:58.441078+05:30'
+collected_at: '2026-06-27T14:23:09.510533+05:30'
 published_at: '2026-06-27T02:50:26Z'
 tags:
 - agents
@@ -17,11 +17,11 @@ language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
-pushed_at: '2026-06-24T03:38:04Z'
+pushed_at: '2026-06-27T08:05:53Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-06-27T09:49:58.441078+05:30'
-last_seen: '2026-06-27T09:49:58.441078+05:30'
-last_checked: '2026-06-27T09:49:58.441078+05:30'
+first_seen: '2026-06-27T14:23:09.510533+05:30'
+last_seen: '2026-06-27T14:23:09.510533+05:30'
+last_checked: '2026-06-27T14:23:09.510533+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Workshop repository guiding users to construct a **local coding agent** (e.g., AI-assisted IDE tools like Cursor or Cline) using **Go**, emphasizing modular architecture and LLM integration.
-
-- **Key Components**: Focuses on **agent-based workflows**, **AI tooling**, and **IDE plugin development**, with tutorials covering **state management**, **tool orchestration**, and **LLM prompt engineering** for code generation/editing.
-
-- **Technical Stack**: Primarily **Go** for backend logic, with potential integrations for **LLM APIs**, **file system APIs**, and **IDE extension frameworks** (e.g., VS Code extensions).
+- **Purpose**: Workshop for constructing a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering architecture, tooling, and AI integration.
+- **Key Components**: Focuses on agent-based AI workflows, including LLM interaction, tool orchestration, and real-time code assistance.
+- **Technical Scope**: Covers Go-based development, AI agent patterns, and integration with modern IDEs (Cursor, Windsurf, OpenCode).
 
 ## Why It Matters
 
@@ -49,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Last Updated: 2026-06-27T02:50:26Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
-- Pushed At: 2026-06-24T03:38:04Z
+- Pushed At: 2026-06-27T08:05:53Z
 
 ## Possible Use Cases
 

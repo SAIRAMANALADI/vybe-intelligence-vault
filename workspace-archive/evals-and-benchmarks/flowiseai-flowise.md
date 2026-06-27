@@ -6,10 +6,10 @@ source_url: https://github.com/FlowiseAI/Flowise
 resource_id: github:flowiseai/flowise
 local_vault_path: ai/rag/flowiseai-flowise.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # FlowiseAI/Flowise
@@ -29,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code TypeScript framework for constructing AI agents and workflows via a drag-and-drop interface, leveraging React for UI and LangChain for agent orchestration.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Multi-Agent & RAG Integration**: Supports multi-agent systems, Retrieval-Augmented Generation (RAG), and seamless integration with LLMs (e.g., OpenAI) for dynamic, agentic workflows.
+- **Multi-Agent & RAG Support**: Enables multi-agent systems and retrieval-augmented generation (RAG) pipelines with modular components for chatbots, automation, and agentic workflows.
 
-- **Extensible & Production-Ready**: Modular architecture with TypeScript/JavaScript backend, optim
+- **Extensible Architecture**: Modular design with 54K+ stars and 24K+ forks, supporting JavaScript/TypeScript ecosyste
 
 ## Use Cases
 

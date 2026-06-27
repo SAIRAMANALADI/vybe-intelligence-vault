@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- dataset
 - github-repo
 - python
 - rag
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-Augmented Multi-Agent Framework**: Introduces a novel **memory-based multi-agent system** for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge retention and retrieval across agents.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for dynamic graph construction and retrieval in RAG systems, enabling adaptive knowledge graph updates during inference.
 
-- **Ontology-Guided Graph Construction**: Implements **ontology-driven graph construction** to structure and link knowledge nodes, enhancing contextual relevance and retrieval efficiency in RAG pipelines.
+- **Ontology-Enhanced Graph Construction**: Implements an ontology-driven approach to graph construction, integrating structured knowledge domains to improve semantic coherence and contextual relevance in multi-agent interactions.
 
-- **Dynamic Knowledge Integration**: Leverages **agent-memory mechani
+- **Dynamic Graph Retrieval-Augmented Gener
 
 ## Use Cases
 

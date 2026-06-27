@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rbanffy. Score: 75, Comments: 39.
+Hacker News story by rbanffy. Score: 115, Comments: 82.
 Original Link: https://spectrum.ieee.org/ai-in-mathematics
 
 ## Use Cases

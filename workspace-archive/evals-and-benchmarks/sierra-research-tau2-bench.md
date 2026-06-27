@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 selection_reason:
 - Strong keyword match
@@ -34,11 +33,7 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
-
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
-
-- **Evaluation Metrics**: Measures performance via task completion rates, latency, and user-agent collaboration quality in complex, domain-specific scenarios.
+*   A Python-based benchmark for evaluating LLM agent performance in real-world tool-agent
 
 ## Use Cases
 

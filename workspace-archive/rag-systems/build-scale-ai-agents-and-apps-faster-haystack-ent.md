@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** is a production-ready framework for building, testing, and deploying custom AI agents and applications, leveraging the open-source Haystack library while adding enterprise-grade security, scalability, and support.
+- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, and deployment of production-ready AI agents/applications with enterprise-grade security, scalability, and governance, built on the open-source Haystack framework.
 
-- **Key features** include composable AI orchestration for integrating any LLM without vendor lock-in, multimodal indexing for text/tables/images with metadata management, and a governed deployment pipeline for iterative development with data soverei
+- **Multimodal & Sovereign Data Handling**: Supports retrieval-augmented generation (RAG) across text, tables, images, and documents with multimodal indexing, metadata management, and sovereign data control for sensitive
 
 ## Use Cases
 

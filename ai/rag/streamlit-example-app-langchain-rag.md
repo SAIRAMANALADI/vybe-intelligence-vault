@@ -4,13 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-27T09:48:33.403145+05:30'
+collected_at: '2026-06-27T14:21:44.453299+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
-- meta-ai
-- models
-- openai
 - python
 - rag
 stars: 156
@@ -21,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-27T09:48:33.403145+05:30'
-last_seen: '2026-06-27T09:48:33.403145+05:30'
-last_checked: '2026-06-27T09:48:33.403145+05:30'
+first_seen: '2026-06-27T14:21:44.453299+05:30'
+last_seen: '2026-06-27T14:21:44.453299+05:30'
+last_checked: '2026-06-27T14:21:44.453299+05:30'
 health_score: 100
 ---
 
@@ -31,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (e.g., FAISS, Chroma) with keyword-based retrieval (BM25) for improved document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vectorstore retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for improved document retrieval accuracy.
 
-- **LangChain Integration**: Uses LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM interaction (e.g., GPT-4, Llama).
+- **LangChain Integration**: Utilizes LangChain's modular framework for chaining LLM calls, document loaders, and retrievers, with Streamlit for interactive UI deployment.
 
-- **Streamlit UI**: Provides an interactive web interface (via Streamlit) for querying the RAG system, visualizing retrieved documents, and displaying generated responses with real-time feedback.
+- **Streamlit Deployment**: Provides a production-ready Streamlit app (`app.py`) demonstrating real-time RAG inference, with configurable parameters for vectorstore, retriever, and LLM backend.
 
 ## Why It Matters
 

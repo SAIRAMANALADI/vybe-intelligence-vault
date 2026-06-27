@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/affaan-m/agentshield
-collected_at: '2026-06-27T09:49:43.473544+05:30'
-published_at: '2026-06-26T14:53:05Z'
+collected_at: '2026-06-27T14:22:54.517356+05:30'
+published_at: '2026-06-27T08:08:17Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
+- scripts
 - typescript
-stars: 926
+stars: 928
 language: TypeScript
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-11T06:31:44Z'
 pushed_at: '2026-06-23T07:19:42Z'
 resource_id: github:affaan-m/agentshield
-first_seen: '2026-06-27T09:49:43.473544+05:30'
-last_seen: '2026-06-27T09:49:43.473544+05:30'
-last_checked: '2026-06-27T09:49:43.473544+05:30'
+first_seen: '2026-06-27T14:22:54.517356+05:30'
+last_seen: '2026-06-27T14:22:54.517356+05:30'
+last_checked: '2026-06-27T14:22:54.517356+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Scanner**: Detects vulnerabilities in AI agent configurations, MCP servers, and tool permissions with CLI, GitHub Action, ECC plugin, and GitHub App integration.
-- **Technical Stack**: Built in TypeScript, targeting AI agent ecosystems (Anthropic, Claude Code, MCP) for security hardening.
-- **Repository Metrics**: 926 stars, 202 forks, last updated 2026-06-26T14:53:05Z.
+- **Security Scanner for AI Agents**: Detects vulnerabilities in agent configurations, MCP servers, and tool permissions with support for CLI, GitHub Actions, ECC plugins, and GitHub App integrations.
+
+- **Multi-Platform Support**: Written in TypeScript, integrates with Anthropic's Claude Code and Opus, and targets AI agent security within MCP (Model Context Protocol) ecosystems.
+
+- **Active Development**: Last updated on 2026-06-27, with 928 stars and 202 forks, indicating growing adoption and community engagement.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: affaan-m
-- Stars: 926
+- Stars: 928
 - Forks: 202
 - Language: TypeScript
 - Topics: ai-agent, anthropic, claude-code, hackathon, mcp, opus, security
-- Last Updated: 2026-06-26T14:53:05Z
+- Last Updated: 2026-06-27T08:08:17Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-11T06:31:44Z

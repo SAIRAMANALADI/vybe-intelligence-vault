@@ -8,12 +8,12 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 ## Top Matched Resources
 
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag) (framework - ESSENTIAL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (prompt - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) (framework - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (template - ESSENTIAL Tier)
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
 
@@ -22,10 +22,10 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [streamlit/example-app-langchain-rag](https://github.com/streamlit/example-app-langchain-rag)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-06-27 10:03 IST*
+*Last updated: 2026-06-27 14:36 IST*

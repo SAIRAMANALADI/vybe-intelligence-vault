@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and custom components (e.g., agents, RAG, multimodal, async pipelines) with Haystack.
-- **Key focus areas** include advanced retrieval (HyDE, BM42, hybrid search), agentic workflows (MCP, function calling, memory stores), and multimodal/observability tools (e.g., Mem0, Arize Phoenix, vLLM).
-- **Experimental/advanced topics** cover domain-specific RAG (legal,
+- **Agentic RAG Integration**: Demonstrates agent-based retrieval pipelines with tools like OpenStreetMap, MCP, and custom domain-aware agents (e.g., UI/UX reviewer) using Haystack’s framework for structured workflows.
+- **Advanced Retrieval Techniques**: Showcases hybrid RAG (BM42, HyDE), metadata enrichment, and query decomposition for improved precision, alongside PostgreSQL keyword search optimizations.
+- **Multimodal & Model Serving**: Covers multimodal agents (e.g., fastRAG), vLLM inferenc
 
 ## Use Cases
 

@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 - **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
 
-- **Human-centric scheduling**: Implements effortless, automated on-call rotation with intelligent AI adjustments to ensure optimal team coverage and reduced fatigue.
+- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skills, and rotation policies, ensuring optimal coverage and reduced burnout.
 
-- **Real-time analytics & trends**: Provides actionable insights via mobile and web dashboards, tracking alert frequency, response times, and resolution trends to im
+- **Real-time incident trends analysis**: Provides actionable insights via dashboards tracking alert frequency, resolution times, and team performanc
 
 ## Use Cases
 

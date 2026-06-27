@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list of AI autonomous agents**: Repository aggregates tools, frameworks, and projects (e.g., AutoGPT, BabyAGI, GPT-Engineer) enabling autonomous AI agent development, primarily in Python.
-- **Open-source contributions**: Hosts 28.5k+ stars and 3k+ forks, indicating high community engagement and collaborative development in AI agent ecosystems.
-- **Multi-model compatibility**: Supports integration with OpenAI’s GPT-4 and other LLMs, facilitating diverse autonomous agent implementation
+- **Curated list of AI autonomous agents**: Repository aggregates frameworks, tools, and projects enabling autonomous AI agent development, including AutoGPT, BabyAGI, GPT-Engineer, and Copilot variants.
+- **Multi-language support**: Primarily Python-based, with integrations for OpenAI’s GPT-4 and other LLMs for agent orchestration and task automation.
+- **High community engagement**: 28.5K+ stars and 3K+ forks, reflecting active contributions and updates (last commit: June 27, 2026).
 
 ## Use Cases
 

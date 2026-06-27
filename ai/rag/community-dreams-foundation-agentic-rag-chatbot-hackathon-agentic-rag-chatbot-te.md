@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
-collected_at: '2026-06-27T09:47:53.502379+05:30'
+collected_at: '2026-06-27T14:21:04.528622+05:30'
 published_at: '2026-02-17T18:07:23Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 0
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2026-02-16T23:07:29Z'
 pushed_at: '2026-02-16T23:07:31Z'
 resource_id: github:community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository
-first_seen: '2026-06-27T09:47:53.502379+05:30'
-last_seen: '2026-06-27T09:47:53.502379+05:30'
-last_checked: '2026-06-27T09:47:53.502379+05:30'
+first_seen: '2026-06-27T14:21:04.528622+05:30'
+last_seen: '2026-06-27T14:21:04.528622+05:30'
+last_checked: '2026-06-27T14:21:04.528622+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Repository**: Provides a starter framework for building an **agentic RAG (Retrieval-Augmented Generation) chatbot** optimized for hackathons, with pre-configured Python dependencies and structure.
-- **GitHub Classroom Integration**: Designed for educational use, enabling automated student repository setup and assignment management via GitHub Classroom.
-- **Last Updated**: Repository was last modified on **February 17, 2026**, indicating active maintenance or recent initialization.
+- **Template Repository**: Provides a starter template for building an **Agentic RAG (Retrieval-Augmented Generation) chatbot** as part of a hackathon, designed for rapid prototyping and deployment.
+- **Technical Stack**: Implemented in **Python**, leveraging agentic workflows for dynamic retrieval and generation, with modular components for extensibility.
+- **Collaborative Tool**: Forked **68 times**, indicating active community adoption for hackathon-style development and experimentation in AI-driven conversational systems.
 
 ## Why It Matters
 

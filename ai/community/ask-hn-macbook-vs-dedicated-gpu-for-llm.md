@@ -13,13 +13,14 @@ collected_at: '2026-06-27T09:47:03.295333+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-macbook-vs-dedicated-gpu-for-llm
 first_seen: '2026-06-27T09:47:03.295333+05:30'
 last_seen: '2026-06-27T09:47:03.295333+05:30'
 last_checked: '2026-06-27T09:47:03.295333+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: MacBook vs. Dedicated GPU for LLM
 

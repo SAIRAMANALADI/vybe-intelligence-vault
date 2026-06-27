@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-27T04:12:06.579369+05:30'
-collected_at: '2026-06-27T04:12:06.579379+05:30'
+published_at: '2026-06-27T14:27:13.450904+05:30'
+collected_at: '2026-06-27T14:27:13.450913+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-27T04:12:06.579379+05:30'
-last_seen: '2026-06-27T04:12:06.579379+05:30'
-last_checked: '2026-06-27T04:12:06.579379+05:30'
+first_seen: '2026-06-27T14:27:13.450913+05:30'
+last_seen: '2026-06-27T14:27:13.450913+05:30'
+last_checked: '2026-06-27T14:27:13.450913+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics across frameworks like OpenAI, Anthropic, and CrewAI.
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, performance monitoring, and production-wide metrics across frameworks like OpenAI, Anthropic, and CrewAI.
 
-- **Key features** include automated failure detection via **Engine**, trace filtering/exporting, dashboard creation for performance monitoring, and feedback collection through inline annotation or queues.
+- **Core features** include automated failure detection via **Engine**, customizable dashboards, alerting, and user feedback collection through annotation queues or inline tools.
 
-- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances with observability, evaluation, prompt engineering, and deployment capabilities.
+- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances, with API key authentication and integrations for RAG applications, evaluation automation, and MCP-based IDE connectivity.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:12:06.579369+05:30
+- Published: 2026-06-27T14:27:13.450904+05:30
 
 ## Related Tags
 

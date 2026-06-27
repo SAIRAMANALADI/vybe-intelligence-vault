@@ -26,7 +26,7 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [truefoundry/cognita](https://github.com/truefoundry/cognita)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-27 10:03 IST*
+*Last updated: 2026-06-27 14:36 IST*

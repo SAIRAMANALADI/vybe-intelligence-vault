@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-27T09:50:58.588907+05:30'
+collected_at: '2026-06-27T14:24:09.687959+05:30'
 published_at: '2026-06-26T20:45:59Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - python
 - rag
 - scripts
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-06-26T22:03:32Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-27T09:50:58.588907+05:30'
-last_seen: '2026-06-27T09:50:58.588907+05:30'
-last_checked: '2026-06-27T09:50:58.588907+05:30'
+first_seen: '2026-06-27T14:24:09.687959+05:30'
+last_seen: '2026-06-27T14:24:09.687959+05:30'
+last_checked: '2026-06-27T14:24:09.687959+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Architecture**: Open-source, event-driven security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python for core logic and Pydantic for data validation.
-
-- **Key Features**: Low-code workflow engine with OpenAPI integration, designed for teams and AI agents, enabling automated security monitoring, orchestration, and response through modular, reusable components.
-
-- **Tech Stack & Scalability**: Utilizes temporal.io for durable execution, supports LLM integrations, and is optimized for high-throughput event processing with a scalable, distributed architecture.
+- **Platform Overview**: Open-source security automation platform designed for teams and AI agents, leveraging Python, FastAPI, and Next.js with low-code workflow capabilities.
+- **Technical Stack**: Utilizes Temporal.io for orchestration, Pydantic for data validation, and OpenAPI for API specifications, with event-driven architecture for monitoring and automation.
+- **Features**: Supports LLM integration, workflow engine for security operations, and scalable event processing with a focus on AI agent collaboration.
 
 ## Why It Matters
 

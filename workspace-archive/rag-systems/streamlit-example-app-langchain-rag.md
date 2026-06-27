@@ -6,15 +6,12 @@ source_url: https://github.com/streamlit/example-app-langchain-rag
 resource_id: github:streamlit/example-app-langchain-rag
 local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 91
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - github-repo
-- meta-ai
-- models
-- openai
 - python
 - rag
 selection_reason:
@@ -27,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 91 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (e.g., FAISS, Chroma) with keyword-based retrieval (BM25) for improved document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vectorstore retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for improved document retrieval accuracy.
 
-- **LangChain Integration**: Uses LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM interaction (e.g., GPT-4, Llama).
+- **LangChain Integration**: Utilizes LangChain's modular framework for chaining LLM calls, document loaders, and retrievers, with Streamlit for interactive UI deployment.
 
-- **Streamlit UI**: Provides an interactive web interface (via Streamlit) for queryin
+- **Streamlit Deployment**: Provides a production-ready Streamlit app (`app.py`) demonstrating
 
 ## Use Cases
 

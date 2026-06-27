@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert filtering**: Reduces noise and minimizes unnecessary pages by leveraging machine learning to prioritize critical incidents.
-- **Automated scheduling**: Implements effortless, human-centric on-call scheduling with dynamic rotation and escalation policies.
-- **Real-time analytics**: Provides trends and insights via a mobile app to optimize incident response and reduce mean time to resolution (MTTR).
+- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
+
+- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skills, and rotation policies, ensuring optimal coverage and reduced burnout.
+
+- **Real-time incident trends analysis**: Provides actionable insights via dashboards tracking alert frequency, resolution times, and team performanc
 
 ## Use Cases
 

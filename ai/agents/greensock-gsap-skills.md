@@ -4,15 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-06-27T09:50:23.497726+05:30'
-published_at: '2026-06-27T04:15:55Z'
+collected_at: '2026-06-27T14:23:34.556424+05:30'
+published_at: '2026-06-27T08:43:14Z'
 tags:
 - agents
 - animation
 - github-repo
 - hackernews
+- scripts
 - unknown
-stars: 10165
+- workflows
+stars: 10186
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-04-21T23:47:09Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-06-27T09:50:23.497726+05:30'
-last_seen: '2026-06-27T09:50:23.497726+05:30'
-last_checked: '2026-06-27T09:50:23.497726+05:30'
+first_seen: '2026-06-27T14:23:34.556424+05:30'
+last_seen: '2026-06-27T14:23:34.556424+05:30'
+last_checked: '2026-06-27T14:23:34.556424+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI coding agents to master GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration.
-- **Technical Scope**: Focuses on teaching AI agents efficient GSAP usage, including common animation techniques and optimization strategies for performance.
-- **Repository Metadata**: 10,165 stars, 615 forks, last updated June 27, 2026; language unspecified but designed for AI agent training.
+- **GSAP AI Skill Integration**: Provides structured AI skills for GSAP, enabling coding agents to implement GSAP animations with optimized best practices, validated patterns, and plugin utilization.
+- **Educational Framework**: Teaches AI agents core GSAP concepts, including timeline management, performance optimization, and advanced animation techniques via curated examples and documentation.
+- **Repository Metadata**: 10,186 stars, 616 forks; last updated June 27, 2026; language unspecified, targeting AI-driven automation in animation workflows.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 10165
-- Forks: 615
+- Stars: 10186
+- Forks: 616
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-27T04:15:55Z
+- Last Updated: 2026-06-27T08:43:14Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

@@ -16,6 +16,7 @@ tags:
 - github-repo
 - html
 - scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides open-source infrastructure for training and evaluating AI-driven Computer-Use Agents (CUAs) across macOS, Linux, and Windows via sandboxes, SDKs, and benchmarks.
-- **Virtualization & Automation Tools**: Integrates containerization (e.g., Lume), virtualization frameworks (Apple’s Virtualization.framework, Windows Sandbox), and desktop automation for full-system agent control.
-- **Swift/HTML Core**: Primarily implemented in Swift (macOS) with HTML-based com
+- **Cross-Platform Agent Infrastructure**: Provides open-source sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows) via containerization and virtualization frameworks.
+
+- **Multi-OS Virtualization Support**: Integrates with Apple’s Virtualization Framework (macOS), Windows Sandbox (Windows), and LXC/LXD (Linux) for isolated, reproducible agent testing environments.
+
+- **Swift & HTML Core**: Primary implementation in Swift (mac
 
 ## Use Cases
 

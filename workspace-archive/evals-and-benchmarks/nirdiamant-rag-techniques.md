@@ -19,7 +19,6 @@ tags:
 - models
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
-- **Technical Scope**: Integrates frameworks like LangChain, LlamaIndex, and OpenAI; supports Python and LLMs for retrieval-augmented generation workflows.
-- **Metadata**: 28.2K stars, 3.4K forks; last updated June 2026; focuses on NLP, generative AI, and machine learning applications.
+*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques through detailed Jupyter Notebook tutorials.
+*   Implements RAG systems leveraging `langchain`, `llama-index`, `OpenAI` (GPT), and various `LLMs` with `embeddings` and `vector-database` integration.
+*   Explores specialized RAG paradigms including `agentic-rag` and `semantic-search` within the RAG framework.
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source TypeScript-based coding agent** enabling AI-assisted development via CLI and IDE integration.
-- **Supports autonomous and interactive coding tasks** with context-aware AI models for code generation, debugging, and refactoring.
-- **Extensible architecture** with plugin support for custom tools, APIs, and workflows, facilitating integration with existing dev environments.
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, refactoring, and debugging via CLI and IDE integrations.
+- **Modular architecture** with extensible plugins for language models, tools, and workflows, supporting both local and cloud-based LLM backends.
+- **Real-time collaboration features** including context-aware suggestions, multi-file edits, and session persistence, optimized for developer productivity.
 
 ## Use Cases
 

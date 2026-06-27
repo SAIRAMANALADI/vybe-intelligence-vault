@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-06-27T09:48:58.356320+05:30'
+collected_at: '2026-06-27T14:22:09.393444+05:30'
 published_at: '2026-06-26T03:29:26Z'
 tags:
 - github-repo
 - hackernews
 - html
+- models
 - rag
 stars: 1358
 language: HTML
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-06-27T09:48:58.356320+05:30'
-last_seen: '2026-06-27T09:48:58.356320+05:30'
-last_checked: '2026-06-27T09:48:58.356320+05:30'
+first_seen: '2026-06-27T14:22:09.393444+05:30'
+last_seen: '2026-06-27T14:22:09.393444+05:30'
+last_checked: '2026-06-27T14:22:09.393444+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List of AI-Powered Web Search Tools**: Repository aggregating software enabling AI-assisted web searches, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) tools leveraging LLMs for enhanced information retrieval.
-
-- **Technical Focus Areas**: Covers generative AI projects, LLM inference, and AI-driven search engines with topics spanning artificial intelligence, information retrieval, and web-scale metasearch methodologies.
-
-- **Dynamic Resource**: Last updated June 2026, the list includes 1,358 stars and 111 forks, hosted as an HTML-based Awesome List with direct links to implementations and spaces (e.g., Hugging Face demos).
+- **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Covers generative AI tools** including inference engines, retrieval-augmented generation (RAG) frameworks, and AI search engines with web integration.
+- **GitHub repository** (HTML-based) with 1.3K+ stars, last updated June 2026, linking to a Hugging Face Space demo for interactive exploration.
 
 ## Why It Matters
 

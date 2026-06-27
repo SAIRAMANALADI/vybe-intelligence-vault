@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - models
 - rag
 - scripts
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Platform supports full lifecycle from prototyping to production deployment for AI-powered applications, including data ingestion, model integration, evaluation, sharing, and monitoring.
+- **Data Processing & Indexing**: Supports automated ingestion, conversion (PDFs, Office, images), OCR, and structured indexing for fast retrieval in document stores.
 
-- **Modular Pipeline Architecture**: Enables construction of enterprise-grade agents and advanced RAG systems using interchangeable components (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic LLM/embedding provider support.
+- **Modular AI Pipeline Construction**: Enables building multi-component RAG systems and AI agents via visual Pipeline Builder, with interchangeable retrievers, rankers, generators, and model-agnostic LLM/embedding provider integration.
 
-- **
+- **Lifecycle Management & Observability**: Provides REST API for automation, built-in monitor
 
 ## Use Cases
 

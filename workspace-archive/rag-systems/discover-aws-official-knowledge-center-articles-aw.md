@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: dataset
 importance: high
 tags:
-- agents
 - dataset
 - frontend_ui
 - hackernews
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Issues**: Common causes for S3 object replication failures include missing IAM permissions, incorrect bucket policy configurations, or misconfigured replication rules (e.g., missing `s3:ReplicateObject` permissions or improper destination bucket policies).
+- **S3 Replication Failures**: Amazon S3 object replication may fail due to misconfigured IAM roles, incorrect bucket policy permissions, or missing replication configuration rules, even when buckets are in the same or different regions.
 
-- **EC2 Connection Failures**: SSH/RDP connection errors to EC2 instances often stem from misconfigured security groups, missing key pairs, incorrect IAM roles, or disabled SSM Agent for Session Manager access.
+- **EC2 SSH Connection Errors**: "Connection refused" or "Connection timed out" errors during SSH access to EC2 instances typically stem from misconfigured security groups, disabled SSH access, or incorrect network ACLs blocking inbound traffic on port 22.
 
-- **Lambda
+- *
 
 ## Use Cases
 

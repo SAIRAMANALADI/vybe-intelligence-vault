@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-27T09:49:13.453293+05:30'
+collected_at: '2026-06-27T14:22:24.483569+05:30'
 published_at: '2026-06-26T21:53:06Z'
 tags:
 - frontend_ui
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-27T09:49:13.453293+05:30'
-last_seen: '2026-06-27T09:49:13.453293+05:30'
-last_checked: '2026-06-27T09:49:13.453293+05:30'
+first_seen: '2026-06-27T14:22:24.483569+05:30'
+last_seen: '2026-06-27T14:22:24.483569+05:30'
+last_checked: '2026-06-27T14:22:24.483569+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
-- **Multi-LLM & Vector Store Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), allowing flexible deployment with custom file ingestion and storage backends.
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React frontend (TypeScript/HTML/JavaScript), and API-driven architecture for secure, privacy-focused deployment across PostgreSQL, OpenAI, and other services.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types without vendor lock-in.
+
+- **Multi-Platform Compatibility**: The framework offers flexible deployment options, including Docker support, and integrates with frontend technologies (React, TypeScript, HTML/JavaScript) via APIs, enabling easy embedding into existing products.
+
+- **Privacy & Security Focus**: Built with PostgreSQL for data persistence, Quivr emphasizes privacy, security, and modularity, allowing developers to tailor configurations while avoiding proprietary dependencies.
 
 ## Why It Matters
 

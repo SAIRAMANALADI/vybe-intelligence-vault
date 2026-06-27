@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-27T09:49:03.482498+05:30'
+collected_at: '2026-06-27T14:22:14.511608+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-27T09:49:03.482498+05:30'
-last_seen: '2026-06-27T09:49:03.482498+05:30'
-last_checked: '2026-06-27T09:49:03.482498+05:30'
+first_seen: '2026-06-27T14:22:14.511608+05:30'
+last_seen: '2026-06-27T14:22:14.511608+05:30'
+last_checked: '2026-06-27T14:22:14.511608+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including knowledge-intensive QA, multi-hop reasoning, and open-domain search.
-- **Evaluation Framework**: Implements **standardized metrics** (e.g., EM, F1, accuracy) and introduces **novel evaluation dimensions** (e.g., robustness to noise, retrieval latency, and hallucination detection).
-- **Dataset & Tools**: Includes **synthetic and real-world datasets**, along with **Jupyter Notebook-based tools** for reproducibility, covering domains like Wikipedia, scientific literature, and web search.
+- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling interactive experimentation and analysis of RAG pipelines with modular components for retrieval, generation, and evaluation.
+- **Metrics & Tasks**: Includes standardized evaluation metrics and task suites to measure accuracy, robustness, and efficiency of RAG models under varying conditions (e.g., noise, latency, and domain shifts).
 
 ## Why It Matters
 

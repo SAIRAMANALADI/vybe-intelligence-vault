@@ -2,11 +2,11 @@
 title: GitHub Copilot CLI · GitHub
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+source_url: https://github.com/features/copilot/cli
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -20,7 +20,6 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -29,17 +28,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **GitHub Copilot CLI** enables terminal-native agentic workflows with native GitHub `/mcp` integration for issues, PRs, and branches, supporting `/plan`, `/fleet`, and `/resume` commands for multi-step task execution and session persistence.
+- **Multi-Model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across multiple models (Anthropic, Google, OpenAI) with `/plan` to `/IDE` workflow integration.
 
-- **Multi-agent orchestration** via `/fleet` allows parallelized subagent execution across models (Anthropic, Google, OpenAI), with `/model` switching and `/delegate` for autonomous branch creation, PR generation, and diff review under explicit user contr
+- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (`/mcp`) for direct issue/PR interaction, branch management, and policy enforcement (branch protections, org policies) with session persistence via `/resume`.
+
+- **Agentic Runtime & Extensibility**: En
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+Original source URL: https://github.com/features/copilot/cli
 
 ## Local Vault File
 

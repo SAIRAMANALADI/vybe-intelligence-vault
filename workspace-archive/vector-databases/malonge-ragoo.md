@@ -6,10 +6,10 @@ source_url: https://github.com/malonge/RaGOO
 resource_id: github:malonge/ragoo
 local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: tool
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: workflow
+importance: high
 tags:
 - github-repo
 - hackernews
@@ -24,16 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** (https://github.com/malonge/RagTag) for continued development.
-- **Technical Scope**: Designed for **genome assembly and scaffolding** in bioinformatics, leveraging Python-based tools for contig ordering and gap closure.
-- **Repository Metrics**: 173 stars, 28 forks, last updated **2026-06-18**, with a focus on **Python** implementation.
+- **Deprecation Notice**: RaGOO is officially deprecated; users are directed to migrate to **RagTag** (https://github.com/malonge/RagTag) for continued support and updates.
+- **Technical Scope**: Python-based toolkit for **genome assembly scaffolding** and **contig ordering/orienting** in bioinformatics pipelines.
+- **Metadata**: 173 GitHub stars, 28 forks, last updated **2026-06-18**; classified under **genome-assembly** and **bioinformatics** topics.
 
 ## Use Cases
 

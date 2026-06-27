@@ -1,33 +1,34 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
-- anthropic
-- producthunt
+- github-repo
+- mdx
+- models
+- openai
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset.ai for building RAG pipelines, with 25.7k stars, 2.9k forks, and active development (81 issues, 17 PRs).
+- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
 
-- **Community Tools & Discussions**: Recent community contributions include a diagnostics engine for RAG pipeline validation, agent memory guard for security, and async execution bridges for sandboxed pipelines.
+- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal apps, semantic search, and conversational systems, leveraging transformers and PyTorch for advanced NLP tasks.
 
-- **Documentation & Debugging Focus**: New open-source documentation site launched; ongoing discussions on debuggi
+- **Open-Source Framework**: Python-based, integrates with GPT-4, Gemini, and other LLMs, optimized
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

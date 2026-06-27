@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-27T09:48:28.391280+05:30'
+collected_at: '2026-06-27T14:21:39.440705+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-27T09:48:28.391280+05:30'
-last_seen: '2026-06-27T09:48:28.391280+05:30'
-last_checked: '2026-06-27T09:48:28.391280+05:30'
+first_seen: '2026-06-27T14:21:39.440705+05:30'
+last_seen: '2026-06-27T14:21:39.440705+05:30'
+last_checked: '2026-06-27T14:21:39.440705+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning while improving performance metrics.
+- **AutoML-Style RAG Optimization**: Provides automated pipeline for hyperparameter tuning, evaluation, and optimization of Retrieval-Augmented Generation (RAG) systems with minimal manual intervention.
 
-- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking, integrating seamlessly with Python-based RAG workflows.
+- **Comprehensive RAG Benchmarking**: Includes built-in evaluation metrics and benchmarks for assessing RAG performance across document parsing, embeddings, retrieval, and generation stages.
 
-- **Open-Source & Scalable**: Designed for production-grade RAG operations (LLMOps), offering benchmarking, pipeline automation, and optimization with support for multi-stage evaluation workflows.
+- **Modular Python Framework**: Supports customizable components (e.g., document parsers, embedding models, LLMs) and integrates with popular libraries (e.g., LangChain, HuggingFace) for end-to-end RAG workflow automation.
 
 ## Why It Matters
 

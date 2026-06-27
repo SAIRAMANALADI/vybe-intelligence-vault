@@ -15,6 +15,7 @@ tags:
 - benchmark
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts, reducing redundant computations and improving agent efficiency by minimizing token processing overhead.
+- **Prompt Caching with Deep Agents**: Introduces a method for caching frequently used prompts in deep agent architectures to reduce redundant LLM inference calls, improving efficiency by leveraging semantic similarity for prompt reuse and versioning.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch between LLM providers) is more critical than cloud neutrality, enabling cost optimization, performance tuning, and avoiding vendor lock-in.
-
-- **LangSmith Engine for Agent Observability**: Releases a new engine
+- **Model Neutrality > Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, emphasizing the need for abstraction layers to decouple agent logic from underlying mod
 
 ## Use Cases
 

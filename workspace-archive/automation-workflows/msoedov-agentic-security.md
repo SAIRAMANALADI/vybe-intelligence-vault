@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Python-based agentic security toolkit (`msoedov/agentic_security`) for LLM vulnerability scanning, red teaming, and fuzzing, integrating agent frameworks, guardrails, and jailbreak detection.
-
-- **Core Capabilities**: Supports LLM evaluation, prompt testing, and vulnerability aggregation via modular components for fuzzing, jailbreak detection, and security assessment.
-
-- **Technical Scope**: Encompasses LLM security domains (e.g., prompt injection, adversarial attacks)
+- **Purpose**: Agentic LLM Vulnerability Scanner and AI red teaming toolkit designed for evaluating LLM security through automated fuzzing, jailbreak detection, and prompt testing.
+- **Features**: Supports LLM evaluation frameworks, vulnerability scanning, fuzzer aggregation, and guardrail testing with modules for prompt injection, jailbreak detection, and adversarial prompt generation.
+- **Technical Stack**: Python-based framework with extensible agent architecture for LLM security research and
 
 ## Use Cases
 

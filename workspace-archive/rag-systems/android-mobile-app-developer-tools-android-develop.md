@@ -2,7 +2,7 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: https://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Android 17 release**: Source code live on AOSP; rolling out to Pixel devices; introduces API 37 with top 5 updates for app compatibility.
-- **Android XR expansion**: New tools/resources for building, testing, and scaling XR experiences across Android’s ecosystem.
-- **Play Console updates**: Expanded billing flexibility, lower fees, and new programs for developers via Google Play.
+- **Android 17 Release**: Source code available on AOSP; rolling out to supported Pixel devices; introduces API 37 with key updates for app compatibility.
+- **Android XR Expansion**: Enhanced engine support and new resources for building, testing, and scaling XR experiences across Android’s ecosystem.
+- **Google Play Billing Update**: Introduces expanded billing flexibility, lower fees, and new programs to support developer monetization strategies.
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: https://developer.android.com/index.html
 
 ## Local Vault File
 

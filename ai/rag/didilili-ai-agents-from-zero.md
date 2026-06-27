@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-27T09:49:53.447777+05:30'
-published_at: '2026-06-27T03:49:21Z'
+collected_at: '2026-06-27T14:23:04.502207+05:30'
+published_at: '2026-06-27T08:49:02Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
-stars: 2250
+stars: 2261
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-27T09:49:53.447777+05:30'
-last_seen: '2026-06-27T09:49:53.447777+05:30'
-last_checked: '2026-06-27T09:49:53.447777+05:30'
+first_seen: '2026-06-27T14:23:04.502207+05:30'
+last_seen: '2026-06-27T14:23:04.502207+05:30'
+last_checked: '2026-06-27T14:23:04.502207+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise-grade deployment, fine-tuning, and full-stack project deployment from zero to production.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured as a full learning path with hands-on projects and interview prep for AI application development roles.
 
-- **Multi-Framework & Tool Integration**: Supports agent frameworks (LangChain, LangGraph, Coze, Dify), MCP (Model Context Protocol), skills, and RAG pipelines with Python-based implementations.
+- **Enterprise-Level Implementation**: Focuses on skills, fine-tuning, and deployment strategies, bridging the gap from foundational learning to production-grade AI agent deployment.
 
-- **End-to-End Career Prep**: Combines hands-on projects, interview question banks, and role-specific training (targeting AI application development engineer positions) with updates as of June 2026.
+- **Toolchain & Ecosystem Integration**: Includes Coze, Cursor, DeepAgents, and enterprise-grade frameworks, with topics spanning AI agent frameworks, AIGC, and real-world project deployment.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2250
-- Forks: 296
+- Stars: 2261
+- Forks: 297
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-06-27T03:49:21Z
+- Last Updated: 2026-06-27T08:49:02Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

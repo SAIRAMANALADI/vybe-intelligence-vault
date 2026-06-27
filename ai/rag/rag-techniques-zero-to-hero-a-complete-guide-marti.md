@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-27T09:47:59.070456+05:30'
-collected_at: '2026-06-27T09:47:59.070469+05:30'
+published_at: '2026-06-27T14:21:09.885740+05:30'
+collected_at: '2026-06-27T14:21:09.885747+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-27T09:47:59.070469+05:30'
-last_seen: '2026-06-27T09:47:59.070469+05:30'
-last_checked: '2026-06-27T09:47:59.070469+05:30'
+first_seen: '2026-06-27T14:21:09.885747+05:30'
+last_seen: '2026-06-27T14:21:09.885747+05:30'
+last_checked: '2026-06-27T14:21:09.885747+05:30'
 health_score: 100
 ---
 
@@ -31,15 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where the retriever fetches external context to ground the LLM’s output, improving factuality and reducing hallucinations without retraining the LLM.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where retrieved context conditions generation to improve factuality and reduce hallucinations; core components include embeddings, vector stores, rerankers, and orchestration layers.
 
-- **Key Technical Components**:
-  - **Chunking**: Critical for retrieval quality; strategies include fixed-size with overlap, semantic, and structure-aware chunking to preserve coherence.
-  - **Hybrid Retrieval**: Combines BM25 (lexical) and vector search (ANN indexes like HNSW) with score normalization and fusion for higher precision/recall.
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings (off-the-shelf or domain-fine-tuned) must balance dimensionality, modality support, and normalization for effective vector search.
 
-- **Advanced Optimization**:
-  - **Reranking**: Two-stage retrieval using cross-encoders (high precision) on top-K candidates, with distillation to lighter rerankers for efficiency.
-  - **Multi-Hop & Iterative Retrieval**: Decomposes complex queries into sub-queries, leveraging graph-based (GraphRAG) or agentic workflows for structured reasoning.
+- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, and context distillation improve complex QA; hybrid retrieval (BM25 + vector) and cross-encoder rerankers enhance precision, while evaluation metrics must cover both retrieval (MRR/nDCG) and generation (factuality/hallucination rate).
 
 ## Why It Matters
 
@@ -49,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:47:59.070456+05:30
+- Published: 2026-06-27T14:21:09.885740+05:30
 
 ## Related Tags
 

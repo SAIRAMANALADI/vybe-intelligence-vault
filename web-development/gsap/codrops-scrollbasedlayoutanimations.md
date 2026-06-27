@@ -4,7 +4,7 @@ category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
 source_url: https://github.com/codrops/scrollbasedlayoutanimations
-collected_at: '2026-06-22T10:21:37.611535+05:30'
+collected_at: '2026-06-27T14:20:26.554164+05:30'
 published_at: '2026-06-22T04:17:34Z'
 tags:
 - animation
@@ -14,8 +14,8 @@ language: HTML
 status: active
 resource_id: github:codrops/scrollbasedlayoutanimations
 first_seen: '2026-06-12T10:40:19.470284+00:00'
-last_seen: '2026-06-22T10:21:37.611535+05:30'
-last_checked: '2026-06-22T10:21:37.611535+05:30'
+last_seen: '2026-06-27T14:20:26.554164+05:30'
+last_checked: '2026-06-27T14:20:26.554164+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: codrops
 - Stars: 331
-- Forks: 87
+- Forks: 86
 - Language: HTML
 - Topics: None
 - Last Updated: 2026-06-22T04:17:34Z

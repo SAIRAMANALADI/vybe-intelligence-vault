@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Android) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata, IP) data to personalize services and ads.
+- **Data Collection Scope**: Google collects diverse data types including account-specific (e.g., emails, photos, payment info) and device/browser metadata (e.g., IP, device settings, crash reports) via services like Search, YouTube, and Android, with or without an active Google Account.
 
-- **Location & Sensor Data**: Collects GPS, Wi-Fi/Bluetooth signals, IP, and labeled places (e.g., "home/work") via Timeline or Web & App Activity, with retention/storage tied to device/account settings.
-
-- **Third-Party & Public Data**
+- **Activity & Location Tracking**: User activity (searches, interactions, communications) and location data (GPS, Wi-Fi, IP) are logged, with retention tied to account settings (e.g., Timeline, Web & App Activ
 
 ## Use Cases
 

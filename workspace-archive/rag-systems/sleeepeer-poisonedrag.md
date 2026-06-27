@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -34,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval database, causing LLMs to generate incorrect or biased outputs while maintaining high retrieval relevance.
-
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that trigger specific retrieval patterns, enabling attackers to manipulate model
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems, exploiting vulnerabilities in the retrieval-augmentation pipeline to manipulate LLM outputs.
+- **Technical Mechanism**: Details a two-phase attack—*poisoning* (embedding malicious vectors in the retrieval database) and *exploitation* (triggering targeted misinformation during inference)—achieved via adversarial document insertion and retriev
 
 ## Use Cases
 

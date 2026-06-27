@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-06-27T09:50:48.569048+05:30'
-published_at: '2026-06-26T15:26:42Z'
+collected_at: '2026-06-27T14:23:59.660015+05:30'
+published_at: '2026-06-27T08:31:09Z'
 tags:
 - agents
 - anthropic
@@ -16,7 +16,7 @@ tags:
 - models
 - openai
 - python
-stars: 5655
+stars: 5656
 language: Python
 status: active
 license: MIT
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-06-27T09:50:48.569048+05:30'
-last_seen: '2026-06-27T09:50:48.569048+05:30'
-last_checked: '2026-06-27T09:50:48.569048+05:30'
+first_seen: '2026-06-27T14:23:59.660015+05:30'
+last_seen: '2026-06-27T14:23:59.660015+05:30'
+last_checked: '2026-06-27T14:23:59.660015+05:30'
 health_score: 100
 ---
 
@@ -35,8 +35,10 @@ health_score: 100
 ## Summary
 
 - **Python SDK** for AI agent monitoring, LLM cost tracking, benchmarking, and evaluation metrics integration across frameworks like CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
-- **Multi-LLM Support**: Compatible with major LLM providers (OpenAI, Anthropic, Mistral, Groq, Ollama) and agent frameworks, enabling unified observability and cost estimation.
-- **Features**: Real-time monitoring, automated evals, cost estimation, and benchmarking for AI agents, with last update on 2026-06-26 (5.6k+ stars, 602 forks).
+
+- **Multi-LLM Support** with compatibility for Anthropic, Groq, Mistral, Ollama, OpenAI, and others, enabling unified observability and cost estimation.
+
+- **Last Updated (2026-06-27)** with active development, 5,656 stars, and 602 forks, indicating strong community adoption and maintenance.
 
 ## Why It Matters
 
@@ -45,11 +47,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AgentOps-AI
-- Stars: 5655
+- Stars: 5656
 - Forks: 602
 - Language: Python
 - Topics: agent, agentops, agents-sdk, ai, anthropic, autogen, cost-estimation, crewai, evals, evaluation-metrics, groq, langchain, llm, mistral, ollama, openai, openai-agents
-- Last Updated: 2026-06-26T15:26:42Z
+- Last Updated: 2026-06-27T08:31:09Z
 - License: MIT
 - Archived: No
 - Created At: 2023-08-15T23:26:23Z

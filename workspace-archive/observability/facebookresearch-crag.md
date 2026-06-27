@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including knowledge-intensive QA, multi-hop reasoning, and open-domain search.
-- **Evaluation Framework**: Implements **standardized metrics** (e.g., EM, F1, accuracy) and introduces **novel evaluation dimensions** (e.g., robustness to noise, retrieval latency, and hallucination detection).
-- **Dataset & Tools**: Includes **synthetic and real-w
+- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
+- **Implementation**: Provided as Jupyter Notebooks, enabling interactive experimentation and analysis of RAG pipelines with modular components for retrieval, generation, and evaluation.
+- **Metrics & Tasks**: Includes standardized evaluation metrics and task suites to measure accuracy, robustness, and efficiency of RAG mod
 
 ## Use Cases
 

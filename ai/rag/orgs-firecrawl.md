@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
-published_at: '2026-06-25T16:41:09.940201+05:30'
-collected_at: '2026-06-25T16:41:09.940208+05:30'
+published_at: '2026-06-27T14:26:08.678599+05:30'
+collected_at: '2026-06-27T14:26:08.678612+05:30'
 tags:
 - agents
 - anthropic
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: github:orgs/firecrawl
-first_seen: '2026-06-25T16:41:09.940208+05:30'
-last_seen: '2026-06-25T16:41:09.940208+05:30'
-last_checked: '2026-06-25T16:41:09.940208+05:30'
+first_seen: '2026-06-27T14:26:08.678612+05:30'
+last_seen: '2026-06-27T14:26:08.678612+05:30'
+last_checked: '2026-06-27T14:26:08.678612+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,11 @@ health_score: 100
 
 ## Summary
 
-*   Firecrawl provides a scalable API for web scraping, crawling, and HTML-to
+- **Firecrawl**: TypeScript-based web scraping/crawling API with 140k stars, supporting Markdown conversion, AI integration, and structured data extraction at scale.
+
+- **pdf-inspector**: Rust-based high-performance PDF processor (Node.js/Python bindings) for intelligent text extraction, classification, and OCR routing decisions.
+
+- **fireplexity**: TypeScript open-source Perplexity-like AI search engine with real-time citations, streaming responses, and live data aggregation via Firecrawl.
 
 ## Why It Matters
 
@@ -40,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:41:09.940201+05:30
+- Published: 2026-06-27T14:26:08.678599+05:30
 
 ## Related Tags
 

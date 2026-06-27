@@ -1,5 +1,5 @@
 ---
-title: 'crewAIInc/crewAI Release: 1.15.1a1'
+title: 'crewAIInc/crewAI Release: 1.15.1'
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://github.com/crewaiinc/crewai
@@ -19,7 +19,7 @@ selection_reason:
 - Useful for project building
 ---
 
-# crewAIInc/crewAI Release: 1.15.1a1
+# crewAIInc/crewAI Release: 1.15.1
 
 ## Why This Is In The Archive
 

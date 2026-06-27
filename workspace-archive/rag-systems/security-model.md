@@ -8,7 +8,7 @@ local_vault_path: ai/rag/security-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Security model
@@ -26,16 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`, `data`) and untrusted (e.g., `content`, content adapters) directories; inline shortcodes require explicit trust of embedded logic.
-- **Runtime Protections**: Uses a virtual, read-only filesystem, restricts external binaries, and avoids arbitrary command execution; default security policy balances usability with safety but may tighten in future releases.
-- **Dependency & Output Security**: Enforces checksum val
+- **Trust Model**: Hugo distinguishes between trusted (e.g., `layouts`, `static`, `data`) and untrusted (e.g., `content`, content adapters) sources, with exceptions for inline shortcodes. The `hugo server` is restricted to local development only.
+
+- **Runtime Security**: Uses a virtual file system, read-only access for user-defined components, and strict sandboxing to prevent arbitrary OS command execution. External binaries (e.g., Asciidoctor) are predefined and disabled by default.
+
+- **Depend
 
 ## Use Cases
 

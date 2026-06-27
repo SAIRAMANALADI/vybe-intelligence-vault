@@ -8,7 +8,7 @@ local_vault_path: ai/rag/krishnaik06-rag-tutorials.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # krishnaik06/RAG-Tutorials
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Jupyter Notebook-based tutorials focused on Retrieval-Augmented Generation (RAG) techniques, with 354 stars and 322 forks.
-- **Last Activity**: Last updated on **June 26, 2026**, indicating recent or ongoing development.
-- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implementations, though specific frameworks/libraries are not detailed in the metadata.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 354 stars and 322 forks.
+- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implementation and experimentation.
+- **Last Activity**: Repository last updated on **June 26, 2026**, indicating recent or ongoing development.
 
 ## Use Cases
 

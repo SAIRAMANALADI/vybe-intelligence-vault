@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling desktop applications via JavaScript, leveraging V8 for execution and IPC for inter-process communication between the main (Node.js) and renderer (Chromium) processes.
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
 
-- **Cross-Platform Distribution**: Supports native packaging and distribution across macOS (.dmg), Windows (.msi), and Linux (.rpm) via community tools, with first-class integration into app stores (Mac App Store, Microsoft Store, Snap
+- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, while supporting npm packages and native add-ons for extensibility.
+
+- **Distribution & Tooling**: Provides auto-updater, platform-specific installers (`.dmg`, `.msi`, `.rpm`), and app store support (Mac/Windows/Linux) via Elect
 
 ## Use Cases
 

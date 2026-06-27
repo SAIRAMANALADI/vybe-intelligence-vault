@@ -6,7 +6,7 @@ source_url: https://github.com/orgs/firecrawl/repositories?q=sort%3Astars
 resource_id: github:orgs/firecrawl
 local_vault_path: ai/rag/orgs-firecrawl.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,7 +39,11 @@ selection_reason:
 
 ## Summary
 
-*   Firecrawl provides a scalable API for web scraping, crawling, and HTML-to
+- **Firecrawl**: TypeScript-based web scraping/crawling API with 140k stars, supporting Markdown conversion, AI integration, and structured data extraction at scale.
+
+- **pdf-inspector**: Rust-based high-performance PDF processor (Node.js/Python bindings) for intelligent text extraction, classification, and OCR routing decisions.
+
+- **fireplexity**: TypeScript open-source Perplexity-like AI search engine with real-time citations, streaming responses, and live data aggregation via Firecrawl.
 
 ## Use Cases
 

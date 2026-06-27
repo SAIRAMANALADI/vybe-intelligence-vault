@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Agent Framework**: Provides sandboxed environments (macOS, Linux, Windows) for training/evaluating AI agents capable of full desktop control via virtualization (Apple Virtualization Framework, Windows Sandbox) and containerization.
+- **Cross-Platform Agent Infrastructure**: Provides open-source sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control (macOS, Linux, Windows) via containerization and virtualization frameworks.
 
-- **Tooling & Benchmarks**: Includes SDKs (Swift for macOS, cross-platform APIs) and standardized benchmarks to assess agent performance in desktop automation tasks (e.g., UI interaction, file operations).
+- **Multi-OS Virtualization Support**: Integrates with Apple’s Virtualization Framework (macOS), Windows Sandbox (Windows), and LXC/LXD (Linux) for isolated, reproducible agent testing environments.
 
-- **Open-Source Infrastructure**: Modular archi
+- **Swift & HTML Core**: Primary implementation in Swift (mac
 
 ## Use Cases
 

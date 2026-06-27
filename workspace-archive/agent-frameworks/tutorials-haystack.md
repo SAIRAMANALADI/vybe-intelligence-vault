@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Tutorials | Haystack
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
-- **Agentic Architectures**: Tutorials cover advanced agent systems, including tool-calling agents, multi-agent workflows, and conversational RAG with memory management (`InMemoryChatMessageStore`).
-- **Multimodal & Optimization Techniques**: Includes multimodal RAG pipelines (vision+text), KV cache compressio
+- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG)** pipelines, including **multimodal RAG** (combining text and vision) and **conversational RAG** (leveraging chat history for multi-turn interactions).
+- Advanced tutorials cover **agentic workflows**, including **multi-agent systems**, **tool-calling agents**, and **human-in-the-loop** mechanisms for safer AI interactions.
+- Key technical topics include **metadata filtering**, **hybrid retrieval** (combining dense
 
 ## Use Cases
 

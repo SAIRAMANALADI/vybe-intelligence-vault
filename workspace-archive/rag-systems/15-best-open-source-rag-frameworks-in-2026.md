@@ -6,7 +6,7 @@ source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
 local_vault_path: ai/rag/15-best-open-source-rag-frameworks-in-2026.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` for structured content, `crawl` for site traversal, and `deep-research` for OpenAI-like research capabilities via API.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction at scale, featuring `scrape()` for Markdown/HTML conversion, `crawl` for site traversal, `Agent` for AI-driven data extraction, and `deep-research` for OpenAI-like research capabilities; integrates seamlessly with RAG pipelines via API.
 
-- **RAGFlow**: Open-source RAG engine with deep document parsing (PDFs/tables), GraphRAG support, and visual web interface; supports Elasticsearch/Infinity storage with Docker-based deployment (slim: 2GB, full: 9GB).
-
-- **Milvus**: Cloud-native vector database optimized for ANN
+- **RAGFlow**: Open-source RAG engine with deep document understanding (PDFs, tables, layouts), GraphRAG support for knowledge graphs, and a visual web interface; supports Elasticse
 
 ## Use Cases
 

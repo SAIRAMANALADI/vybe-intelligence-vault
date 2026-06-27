@@ -12,10 +12,10 @@ resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
+- hackernews
 - producthunt
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Pipelines (GA)**: Introduces full-text search and SQL-like JOINs via Firestore Pipelines, enabling advanced query capabilities in NoSQL while maintaining real-time updates and scalability.
+- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via new pipelines, enhancing NoSQL query capabilities while maintaining real-time updates.
 
-- **Dart Support in Cloud Functions**: Expands Firebase backend flexibility by adding Dart as a supported runtime for Cloud Functions, improving developer workflows for cross-platform applications.
+- **Zero-Flicker SSR with React**: Demonstrates serialization techniques to eliminate UI flickering during server-side rendering (SSR) in React applications using Firestore data hydration.
 
-- **AI Logic with Grounding**: Enhances AI applications by integrating real-world data (e.g., Map
+- **Dart Support in Cloud Functions**: Announces Dart as a first-class language for Cloud Functions for Firebase, enab
 
 ## Use Cases
 

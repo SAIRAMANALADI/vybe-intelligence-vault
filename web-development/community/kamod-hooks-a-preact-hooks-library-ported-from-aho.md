@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:kamod-hooks-a-preact-hooks-library-ported-from-aho
 first_seen: '2026-06-27T09:47:04.230631+05:30'
 last_seen: '2026-06-27T09:47:04.230631+05:30'
 last_checked: '2026-06-27T09:47:04.230631+05:30'
 health_score: 100
 ---
+
 
 # Kamod Hooks – a Preact hooks library ported from ahooks
 

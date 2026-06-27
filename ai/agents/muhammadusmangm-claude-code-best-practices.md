@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-06-27T09:50:33.493839+05:30'
+collected_at: '2026-06-27T14:23:44.535914+05:30'
 published_at: '2026-06-24T15:23:13Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 55
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-06-27T09:50:33.493839+05:30'
-last_seen: '2026-06-27T09:50:33.493839+05:30'
-last_checked: '2026-06-27T09:50:33.493839+05:30'
+first_seen: '2026-06-27T14:23:44.535914+05:30'
+last_seen: '2026-06-27T14:23:44.535914+05:30'
+last_checked: '2026-06-27T14:23:44.535914+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily shell scripts with topics covering **agentic AI**, **Anthropic’s Claude**, **CLI tools**, **LLM integration**, and **Model Context Protocol (MCP)** for developer workflows.
-- **Metadata**: 55 stars, 10 forks, last updated **2026-06-24**; serves as a curated wiki for optimizing **Claude Code** usage in AI-driven development environments.
+- **Repository Contents**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily Shell-based repository covering CLI tools, MCP (Model Context Protocol), and integration patterns for Anthropic's Claude AI model.
+- **Metadata**: 55 stars, 10 forks, last updated June 24, 2026; targets developer tools, AI/agentic workflows, and LLM optimization.
 
 ## Why It Matters
 

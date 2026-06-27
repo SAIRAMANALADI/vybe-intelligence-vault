@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-06-27T09:49:23.403505+05:30'
-published_at: '2026-06-27T03:03:59Z'
+collected_at: '2026-06-27T14:22:34.512800+05:30'
+published_at: '2026-06-27T08:17:27Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 7016
+stars: 7017
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-06-27T09:49:23.403505+05:30'
-last_seen: '2026-06-27T09:49:23.403505+05:30'
-last_checked: '2026-06-27T09:49:23.403505+05:30'
+first_seen: '2026-06-27T14:22:34.512800+05:30'
+last_seen: '2026-06-27T14:22:34.512800+05:30'
+last_checked: '2026-06-27T14:22:34.512800+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on **Production Agentic RAG (Retrieval-Augmented Generation)** with **7,016 stars** and **1,573 forks**, last updated on **June 27, 2026**.
-- **Technical Stack**: Implemented in **Python**, targeting **agentic workflows** for production-grade RAG systems.
-- **Purpose**: No explicit description provided, but inferred to be a **course or framework** for deploying scalable, agent-driven RAG pipelines.
+- **Repository Overview**: GitHub repository for a production-grade Agentic RAG (Retrieval-Augmented Generation) course, implemented in Python, with 7,017 stars and 1,573 forks.
+- **Technical Focus**: Course likely covers scalable RAG system design, agentic workflows, and production deployment strategies for LLM-based applications.
+- **Last Updated**: Repository was last updated on **June 27, 2026**, indicating active maintenance or recent development.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 7016
+- Stars: 7017
 - Forks: 1573
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-27T03:03:59Z
+- Last Updated: 2026-06-27T08:17:27Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

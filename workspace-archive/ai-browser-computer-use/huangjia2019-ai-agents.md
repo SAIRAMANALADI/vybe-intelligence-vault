@@ -16,6 +16,7 @@ tags:
 - hackernews
 - jupyter notebook
 - openai
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner-friendly guide to LLM application development.
-- **Technical Scope**: Examples are implemented in Jupyter Notebooks, covering foundational concepts in AI agents, NLP, and LLM integration.
-- **Resources**: Directs users to OpenAI Cookbook and LangChain Examples for more advanced implementations due to rapid advancements in the field.
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner-friendly guide to LLM development with foundational concepts.
+- **Technical Scope**: Implemented in Jupyter Notebooks, covering core agent architectures, workflows, and basic interactions with LLMs.
+- **Resource Context**: Positioned as a high-level overview; directs users to advanced resources like OpenAI Cookbook and LangChain Examples for deeper implementation details.
 
 ## Use Cases
 

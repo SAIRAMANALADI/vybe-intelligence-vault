@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -32,9 +31,7 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates high-quality, truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, machine learning, MLOps, and RAG, primarily implemented in Python.
-- **Community Metrics**: Maintains 3,958 stars and 464 forks, reflecting active engagement and collaborative development.
+*   Curated index of truly open-source AI projects, models, tools, and infrastructure
 
 ## Use Cases
 

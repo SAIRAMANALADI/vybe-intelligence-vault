@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.electronjs.org/
-published_at: '2026-06-27T01:46:20.847803+05:30'
-collected_at: '2026-06-27T01:46:20.847817+05:30'
+published_at: '2026-06-27T14:26:15.020301+05:30'
+collected_at: '2026-06-27T14:26:15.020309+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
-first_seen: '2026-06-27T01:46:20.847817+05:30'
-last_seen: '2026-06-27T01:46:20.847817+05:30'
-last_checked: '2026-06-27T01:46:20.847817+05:30'
+first_seen: '2026-06-27T14:26:15.020309+05:30'
+last_seen: '2026-06-27T14:26:15.020309+05:30'
+last_checked: '2026-06-27T14:26:15.020309+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling desktop applications via JavaScript, leveraging V8 for execution and IPC for inter-process communication between the main (Node.js) and renderer (Chromium) processes.
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
 
-- **Cross-Platform Distribution**: Supports native packaging and distribution across macOS (.dmg), Windows (.msi), and Linux (.rpm) via community tools, with first-class integration into app stores (Mac App Store, Microsoft Store, Snap Store).
+- **Security & Maintenance**: Releases synchronize with Chromium updates for immediate security patches, while supporting npm packages and native add-ons for extensibility.
 
-- **Extensibility & Tooling**: Integrates npm ecosystem packages and native add-ons; provides Electron Forge for standardized builds/publishing and Electron Fiddle for rapid prototyping/testing across Chromium versions.
+- **Distribution & Tooling**: Provides auto-updater, platform-specific installers (`.dmg`, `.msi`, `.rpm`), and app store support (Mac/Windows/Linux) via Electron Forge and Fiddle for rapid prototyping.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:46:20.847803+05:30
+- Published: 2026-06-27T14:26:15.020301+05:30
 
 ## Related Tags
 

@@ -37,7 +37,11 @@ selection_reason:
 
 ## Summary
 
-*   Firecrawl provides a scalable API for web scraping, crawling, and HTML-to
+- **Firecrawl**: TypeScript-based web scraping/crawling API with 140k stars, supporting Markdown conversion, AI integration, and structured data extraction at scale.
+
+- **pdf-inspector**: Rust-based high-performance PDF processor (Node.js/Python bindings) for intelligent text extraction, classification, and OCR routing decisions.
+
+- **fireplexity**: TypeScript open-source Perplexity-like AI search engine with real-time citations, streaming responses, and live data aggregation via Firecrawl.
 
 ## Use Cases
 

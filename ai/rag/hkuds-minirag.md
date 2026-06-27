@@ -4,13 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-27T09:48:28.413389+05:30'
-published_at: '2026-06-26T13:33:59Z'
+collected_at: '2026-06-27T14:21:39.451194+05:30'
+published_at: '2026-06-27T07:02:33Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
+- models
 - python
 - rag
-stars: 1954
+stars: 1955
 language: Python
 status: active
 license: MIT
@@ -18,9 +22,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-27T09:48:28.413389+05:30'
-last_seen: '2026-06-27T09:48:28.413389+05:30'
-last_checked: '2026-06-27T09:48:28.413389+05:30'
+first_seen: '2026-06-27T14:21:39.451194+05:30'
+last_seen: '2026-06-27T14:21:39.451194+05:30'
+last_checked: '2026-06-27T14:21:39.451194+05:30'
 health_score: 100
 ---
 
@@ -28,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Key Innovations**: Proposes architectural optimizations (e.g., lightweight retrieval mechanisms, distilled knowledge integration) to enable efficient RAG with minimal resource requirements, targeting ACL 2026.
+- **Technical Architecture**: Implements a lightweight retrieval mechanism paired with a distilled LLM, optimizing for efficiency via model quantization and pruning techniques to enable deployment on resource-constrained hardware.
 
-- **Open-Source Implementation**: Provides a Python-based repository with modular components for customization, supporting scalability and reproducibility in RAG applications.
+- **Benchmarking & Reproducibility**: Provides open-source codebase with standardized evaluation protocols, demonstrating competitive results against larger RAG models on benchmark datasets while reducing inference latency and memory footprint.
 
 ## Why It Matters
 
@@ -41,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1954
+- Stars: 1955
 - Forks: 251
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-26T13:33:59Z
+- Last Updated: 2026-06-27T07:02:33Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

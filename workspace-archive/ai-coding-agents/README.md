@@ -15,7 +15,7 @@ AI coding agents represent the next leap in software engineering, moving from co
 - [Speechify · GitHub](https://github.com/SpeechifyInc) (framework - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (workflow - USEFUL Tier)
+- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (tool - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-06-27 10:03 IST*
+*Last updated: 2026-06-27 14:36 IST*

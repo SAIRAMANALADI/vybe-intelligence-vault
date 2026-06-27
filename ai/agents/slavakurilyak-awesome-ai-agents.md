@@ -4,16 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-06-27T09:50:33.473414+05:30'
-published_at: '2026-06-26T09:08:05Z'
+collected_at: '2026-06-27T14:23:44.547450+05:30'
+published_at: '2026-06-27T06:36:28Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- paper
 - python
-- workflows
-stars: 1522
+stars: 1523
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-06-27T09:50:33.473414+05:30'
-last_seen: '2026-06-27T09:50:33.473414+05:30'
-last_checked: '2026-06-27T09:50:33.473414+05:30'
+first_seen: '2026-06-27T14:23:44.547450+05:30'
+last_seen: '2026-06-27T14:23:44.547450+05:30'
+last_checked: '2026-06-27T14:23:44.547450+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: Aggregates 300+ agentic AI tools, frameworks, and research papers with active maintenance (last updated 2026-06-26).
-- **Technical Scope**: Focuses on autonomous agent systems, multi-agent orchestration, and agentic workflows, primarily in Python.
-- **Community Metrics**: High engagement with 1,522 stars and 414 forks, indicating strong developer interest in agentic AI paradigms.
+- **Repository Overview**: GitHub repository `slavakurilyak/awesome-ai-agents` is a curated list of 300+ resources focused on agentic AI, with 1,523 stars and 414 forks.
+- **Technical Stack**: Primarily implemented in Python, emphasizing agent-based architectures and agentic systems.
+- **Metadata**: Last updated on 2026-06-27, categorized under `agent`, `agentic`, and `agents` topics.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 1522
+- Stars: 1523
 - Forks: 414
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-06-26T09:08:05Z
+- Last Updated: 2026-06-27T06:36:28Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

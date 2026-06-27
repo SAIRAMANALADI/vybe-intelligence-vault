@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-06-26T15:30:10.446063+05:30'
-collected_at: '2026-06-26T15:30:10.446079+05:30'
+published_at: '2026-06-27T14:27:11.153888+05:30'
+collected_at: '2026-06-27T14:27:11.153897+05:30'
 tags:
 - agents
 - anthropic
@@ -19,11 +19,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-06-26T15:30:10.446079+05:30'
-last_seen: '2026-06-26T15:30:10.446079+05:30'
-last_checked: '2026-06-26T15:30:10.446079+05:30'
+first_seen: '2026-06-27T14:27:11.153897+05:30'
+last_seen: '2026-06-27T14:27:11.153897+05:30'
+last_checked: '2026-06-27T14:27:11.153897+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: Repository of 71 technical recipes demonstrating model providers, vector databases, retrieval techniques, and integrations (e.g., OpenStreetMap, MCP, vLLM) with Haystack pipelines.
-- **Key Recipes**: Includes agentic RAG (e.g., itinerary planning, GitHub PR creator), hybrid retrieval (BM42, HyDE), multimodal QA (Gemma 4, fastRAG), and advanced metadata enrichment for structured queries.
-- **Tools & Integrations**: Covers function calling (OpenAPITool, Gorilla), model serving (NVIDIA NIMs, vLLM), observability (Arize Phoenix), and multilingual RAG (Cohere v3, podcast analysis).
+- **Agentic RAG Integration**: Demonstrates agent-based retrieval pipelines with tools like OpenStreetMap, MCP, and custom domain-aware agents (e.g., UI/UX reviewer) using Haystack’s framework for structured workflows.
+- **Advanced Retrieval Techniques**: Showcases hybrid RAG (BM42, HyDE), metadata enrichment, and query decomposition for improved precision, alongside PostgreSQL keyword search optimizations.
+- **Multimodal & Model Serving**: Covers multimodal agents (e.g., fastRAG), vLLM inference engine integration, and self-deployed AI models (NVIDIA NIMs) for scalable RAG pipelines.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:30:10.446063+05:30
+- Published: 2026-06-27T14:27:11.153888+05:30
 
 ## Related Tags
 
@@ -59,6 +60,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

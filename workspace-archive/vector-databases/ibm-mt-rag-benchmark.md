@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark designed to evaluate conversational AI systems' ability to maintain context and coherence over multi-turn interactions.
-- **Implementation**: Python-based framework with standardized evaluation metrics for assessing RAG models' performance in multi-turn dialogue scenarios.
-- **Scope**: Includes datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking of RAG systems.
+- **Benchmark Design**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems with focus on conversational context retention, dynamic query reformulation, and multi-step reasoning across sequential interactions.
+
+- **Evaluation Metrics**: Includes standard RAG metrics (e.g., answer correctness, retrieval precision) augmented with turn-level coherence, context utilization efficiency, and cumulative performance degradation over multi-turn dialogues.
+
+- **Implementation**: Python-based
 
 ## Use Cases
 

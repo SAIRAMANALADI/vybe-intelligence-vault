@@ -8,18 +8,17 @@ local_vault_path: ai/rag/mem0ai-mem0.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # mem0ai/mem0
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Provides a universal memory layer for AI agents, enabling long-term memory management and state retention in applications like chatbots and agents.
-- **Key Features**: Supports memory persistence, retrieval-augmented generation (RAG), and state management for AI-driven systems.
-- **Technical Stack**: Python-based, integrates with LLMs and AI agents for scalable memory operations.
+- **Universal Memory Layer**: Provides a modular, extensible framework for integrating long-term memory into AI agents, enabling persistent state management across sessions.
+- **Multi-Model Compatibility**: Supports integration with various LLMs (e.g., ChatGPT, RAG) and memory backends (vector DBs, SQL) via configurable adapters.
+- **Agent-Centric Design**: Implements memory primitives (e.g., recall, update, forget) with atomic operations, optimized for real-time agent interactions and context r
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by PaybackTony. Score: 32, Comments: 4.
+Hacker News story by PaybackTony. Score: 67, Comments: 13.
 Original Link: https://popflame.quickish.space/hn-flipboard/
 
 ## Use Cases
