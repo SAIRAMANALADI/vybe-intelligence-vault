@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/anyone-yuren/degital-twin-3d
-collected_at: '2026-06-24T10:06:12.960378+05:30'
-published_at: '2026-06-24T03:57:30Z'
+collected_at: '2026-06-27T21:50:15.752791+05:30'
+published_at: '2026-06-27T15:13:01Z'
 tags:
 - frontend_ui
 - threejs
-stars: 268
+stars: 269
 language: TypeScript
 status: active
 resource_id: github:anyone-yuren/degital-twin-3d
 first_seen: '2026-06-12T10:40:15.865517+00:00'
-last_seen: '2026-06-24T10:06:12.960378+05:30'
-last_checked: '2026-06-24T10:06:12.960378+05:30'
+last_seen: '2026-06-27T21:50:15.752791+05:30'
+last_checked: '2026-06-27T21:50:15.752791+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: anyone-yuren
-- Stars: 268
+- Stars: 269
 - Forks: 72
 - Language: TypeScript
 - Topics: pnpm, react, three-fiber, threejs, vite
-- Last Updated: 2026-06-24T03:57:30Z
+- Last Updated: 2026-06-27T15:13:01Z
 
 ## Possible Use Cases
 

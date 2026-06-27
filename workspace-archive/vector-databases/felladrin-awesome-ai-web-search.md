@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI-Powered Web Search Tools**: Repository listing software enabling AI-assisted web searches, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
-- **Generative AI & LLM Integration**: Focuses on tools leveraging large language models (LLMs) for enhanced information retrieval, summarization, and generative responses.
-- **Technical Scope**: Covers projects in AI search engines, generative AI tools, and information retrieval, with metadata indica
+- **Curated List of AI-Powered Web Search Tools**: Repository aggregating software enabling AI-assisted web searches, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
+
+- **Technical Scope**: Focuses on generative AI, LLM inference, and information retrieval tools, with metadata indicating language (HTML), topics (e.g., `ai-search-engine`, `rag`), and last update (2026-06-27).
+
+- **Community Metrics**: 1,359 stars, 111 forks; hosted on GitHub with a Hugg
 
 ## Use Cases
 

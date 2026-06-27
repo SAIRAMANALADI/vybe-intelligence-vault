@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -33,7 +33,7 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference

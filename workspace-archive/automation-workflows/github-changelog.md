@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Merge Tracking in Adoption Phases**: GitHub now tracks total merges segmented by adoption phases (e.g., pilot, full rollout) in enterprise and organization reports, enabling granular analysis of feature adoption metrics.
+- **Merge Tracking Enhancement**: Enterprise and organization reports now include granular tracking of total merges segmented by adoption phase (e.g., pilot, full rollout), enabling precise analytics on GitHub adoption metrics.
 
-- **Enhanced Enterprise Reporting**: Enterprise administrators can access detailed merge statistics per adoption phase, improving visibility into team or project progression during feature rollouts.
+- **Copilot Integration Metrics**: New reporting capabilities provide visibility into Copilot usage across adoption phases, correlating merge activity with AI-assisted development adoption trends.
 
-- **Integration with Copilot & Management Tools**: The feature integrates
+- **Account & Enterprise Management**: Updated account management tools e
 
 ## Use Cases
 

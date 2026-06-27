@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-27T19:38:17.353897+05:30'
+collected_at: '2026-06-27T21:51:25.078088+05:30'
 published_at: '2026-06-26T12:09:22Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 1288
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-27T19:38:17.353897+05:30'
-last_seen: '2026-06-27T19:38:17.353897+05:30'
-last_checked: '2026-06-27T19:38:17.353897+05:30'
+first_seen: '2026-06-27T21:51:25.078088+05:30'
+last_seen: '2026-06-27T21:51:25.078088+05:30'
+last_checked: '2026-06-27T21:51:25.078088+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, compatible with AI IDEs like Claude Code, Cursor, and Codex CLI.
+- **Multi-agent Codebase Q&A Engine**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
 
-- **Knowledge graph integration**: Leverages RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) servers to build a structured, queryable representation of the codebase for precise responses.
+- **MCP/Server-Based Architecture**: Implements a modular, server-driven system (Python) for real-time code intelligence, integrating with IDE plugins and MCP-compatible clients.
 
-- **Cross-tool compatibility**: Supports OpenAI models, MCP servers, and IDE plugins (e.g., Copilot, Windsurf), facilitating unified developer workflows across Python-based environments.
+- **RAG & Knowledge Graph Integration**: Combines retrieval-augmented generation (RAG) with structured knowledge graphs to provide precise, multi-agent responses across large code repositories.
 
 ## Why It Matters
 

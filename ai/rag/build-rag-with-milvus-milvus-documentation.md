@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/build-rag-with-milvus.md
-published_at: '2026-06-27T04:11:09.609366+05:30'
-collected_at: '2026-06-27T04:11:09.609378+05:30'
+published_at: '2026-06-27T21:53:46.312434+05:30'
+collected_at: '2026-06-27T21:53:46.312447+05:30'
 tags:
 - anthropic
 - openai
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:build-rag-with-milvus-milvus-documentation
-first_seen: '2026-06-27T04:11:09.609378+05:30'
-last_seen: '2026-06-27T04:11:09.609378+05:30'
-last_checked: '2026-06-27T04:11:09.609378+05:30'
+first_seen: '2026-06-27T21:53:46.312447+05:30'
+last_seen: '2026-06-27T21:53:46.312447+05:30'
+last_checked: '2026-06-27T21:53:46.312447+05:30'
 health_score: 100
 ---
 
@@ -26,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI's GPT) to answer queries using retrieved documents, demonstrated with Milvus documentation FAQs.
-- **Vector Database Integration**: Uses `pymilvus` to create a collection with 1536-dim embeddings (OpenAI `text-embedding-3-small`), storing text chunks and enabling similarity search with `IP` (inner product) metric.
-- **Dynamic Schema Handling**: Automatically manages undefined fields (e.g., `text`) in Milvus collections via JSON dynamic fields, simplifying data insertion and retrieval workflows.
+- **Milvus Architecture**: Open-source vector database optimized for similarity search and AI workloads, supporting hybrid search, multi-tenancy, and distributed deployments with configurable consistency levels (`Strong`, `Session`, `Bounded`, `Eventually`).
+
+- **RAG Pipeline Implementation**: Combines Milvus for vector retrieval (using `text-embedding-3-small` embeddings) with OpenAI’s LLM (`gpt-3.5-turbo`) for generation, where Milvus indexes FAQ data (stored as vectors + metadata) and retrieves top-*k* semantically relevant chunks for contextual prompting.
+
+- **Deployment Flexibility**: Supports local (Milvus Lite), Docker/Kubernetes, or fully managed Zilliz Cloud, with dynamic schema fields (e.g., `text`) stored in reserved JSON fields for unstructured data compatibility.
 
 ## Why It Matters
 
@@ -38,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:11:09.609366+05:30
+- Published: 2026-06-27T21:53:46.312434+05:30
 
 ## Related Tags
 
@@ -47,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

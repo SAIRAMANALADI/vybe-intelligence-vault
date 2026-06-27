@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Agents Integration**: VS Code supports autonomous AI agents for task automation, with options for local, background, or cloud execution; sessions are trackable within the editor, supporting custom AI providers and MCP servers for workflow tailoring.
+- **AI Agents Integration**: VS Code supports autonomous AI agents for task automation, with local/cloud execution, multi-provider support, and session tracking via the [Agents documentation](https://code.visualstudio.com/docs/agents/overview).
 
-- **Enterprise & Remote Capabilities**: Features enterprise policy management, AI customization, and remote development via SSH, WSL, Dev Containers, and GitHub Codespaces, with VS Code Server enabling cloud-based workflows.
-
-- **Debugging &
+- **Enterprise & Customization**: Features enterprise policies, AI model customization, and MCP server integration for tailored workflows, detailed in the [Enterprise](https://code.visualstudio.com/docs/enterprise/overview) and [Agent Customization](http
 
 ## Use Cases
 

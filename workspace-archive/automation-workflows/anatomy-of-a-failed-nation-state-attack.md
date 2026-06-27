@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by signa11. Score: 95, Comments: 16.
+Hacker News story by signa11. Score: 109, Comments: 23.
 Original Link: https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/
 
 ## Use Cases

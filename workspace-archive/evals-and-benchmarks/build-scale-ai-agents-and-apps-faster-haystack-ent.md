@@ -2,14 +2,14 @@
 title: Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.deepset.ai/products-and-services/deepset-ai-platform
+source_url: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
 resource_id: blog:build-scale-ai-agents-and-apps-faster-haystack-ent
 local_vault_path: ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - dataset
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Enterprise AI Orchestration**: deepset's Haystack Enterprise Platform enables end-to-end development, testing, and deployment of production-ready AI agents/applications with enterprise-grade security, scalability, and governance, built on the open-source Haystack framework.
+- **Enterprise AI Orchestration**: Deepset's Haystack Enterprise Platform enables end-to-end orchestration of AI agents and applications, supporting prototype-to-production workflows with governance, scalability, and enterprise-grade security while avoiding vendor lock-in.
 
-- **Multimodal & Sovereign Data Handling**: Supports retrieval-augmented generation (RAG) across text, tables, images, and documents with multimodal indexing, metadata management, and sovereign data control for sensitive
+- **Multimodal Data Integration**: Supports retrieval-augmented generation (RAG) across text, tables, images, and documents with built-in metadata management and multimodal indexing, including compliance for sensitive/classif
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.deepset.ai/products-and-services/deepset-ai-platform
+Original source URL: https://www.deepset.ai/products-and-services/haystack-enterprise-platform
 
 ## Local Vault File
 

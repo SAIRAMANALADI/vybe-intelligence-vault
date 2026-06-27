@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-27T19:40:27.488254+05:30'
+collected_at: '2026-06-27T21:53:35.239740+05:30'
 published_at: '2026-06-27T08:28:31Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 899
 language: Python
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-27T19:40:27.488254+05:30'
-last_seen: '2026-06-27T19:40:27.488254+05:30'
-last_checked: '2026-06-27T19:40:27.488254+05:30'
+first_seen: '2026-06-27T21:53:35.239740+05:30'
+last_seen: '2026-06-27T21:53:35.239740+05:30'
+last_checked: '2026-06-27T21:53:35.239740+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI agent development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from vibe coding to structured agentic engineering using Codex CLI, emphasizing modularization of tasks via agents, hooks, and context engineering for scalable AI-driven development.
 
-- **Codex CLI Best Practices**: Provides curated commands, agent templates, and CLI skills for OpenAI Codex, including context management, stateful workflows, and error handling to optimize agentic coding efficiency.
+- **CLI-Centric Best Practices**: Provides curated `codex-cli-commands`, `codex-hooks`, and `context-engineering` techniques to optimize OpenAI Codex agent interactions, including skill-based command chaining and stateful workflow orchestration.
 
-- **Pakistani Developer Contributions**: Open-source project by a Pakistani developer showcasing advanced AI agent orchestration, with 899 stars and 54 forks, serving as a reference for agentic workflows in Python-based AI engineering.
+- **Pakistan-Centric AI Development**: Tailored for Pakistani developers, the repo includes localized resources, CLI configurations, and agentic patterns optimized for regional workflows while adhering to global AI engineering standards.
 
 ## Why It Matters
 

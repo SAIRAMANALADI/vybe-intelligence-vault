@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by MrCroxx. Score: 7, Comments: 3.
+Hacker News story by MrCroxx. Score: 14, Comments: 7.
 Original Link: https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/
 
 ## Use Cases

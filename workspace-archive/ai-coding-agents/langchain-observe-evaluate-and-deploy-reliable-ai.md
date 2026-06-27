@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured tracing and SDKs (Python/TypeScript/Go/Java).
+- **Framework-Agnostic Observability & Tracing**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
 
-- **Agent Deployment**: Fault-tolerant runtime with durable checkpointing, async human-in-the-loop support, and native A2A/MCP protocol integration for scalable agent swarms.
-
-- **Evaluation & Observability**: Multi-turn LLM-as-judge evals, human feedback annotations, and structured trace analytics to iteratively optimiz
+- **Automated Evaluation & Iterative Improvement**: Enables conversion of production traces into test cases, supports LLM-as-judge and multi-turn evals, and integrates human feedback
 
 ## Use Cases
 

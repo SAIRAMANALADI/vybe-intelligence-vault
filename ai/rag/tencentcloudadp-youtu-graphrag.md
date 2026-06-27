@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-27T19:39:32.466390+05:30'
+collected_at: '2026-06-27T21:52:40.185696+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-27T19:39:32.466390+05:30'
-last_seen: '2026-06-27T19:39:32.466390+05:30'
-last_checked: '2026-06-27T19:39:32.466390+05:30'
+first_seen: '2026-06-27T21:52:40.185696+05:30'
+last_seen: '2026-06-27T21:52:40.185696+05:30'
+last_checked: '2026-06-27T21:52:40.185696+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a hierarchical agent framework integrating graph-based retrieval with large language models (LLMs) for complex reasoning tasks, enabling multi-level abstraction and dynamic collaboration among specialized agents.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based knowledge retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and logical coherence in multi-hop reasoning scenarios.
+- **Graph Retrieval-Augmented Reasoning**: Leverages graph structures to enhance retrieval-augmented generation (RAG), improving contextual relevance and reasoning depth by mapping relationships and dependencies in unstructured data.
 
-- **Optimized Python Implementation**: Provides a scalable, modular Python library with efficient graph operations (e.g., subgraph extraction, dynamic indexing) and agent orchestration, designed for high-performance complex reasoning in real-world applications.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with LLMs, optimizing for scalability and interpretability in knowledge-intensive reasoning, validated on large-scale datasets.
 
 ## Why It Matters
 

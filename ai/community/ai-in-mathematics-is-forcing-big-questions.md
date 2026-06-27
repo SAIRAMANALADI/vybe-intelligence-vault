@@ -13,13 +13,14 @@ collected_at: '2026-06-27T19:37:06.981115+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-in-mathematics-is-forcing-big-questions
 first_seen: '2026-06-27T09:47:00.824442+05:30'
 last_seen: '2026-06-27T19:37:06.981115+05:30'
 last_checked: '2026-06-27T19:37:06.981115+05:30'
 health_score: 100
 ---
+
 
 # AI in mathematics is forcing big questions
 

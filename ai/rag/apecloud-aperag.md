@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-06-27T19:39:27.471939+05:30'
+collected_at: '2026-06-27T21:52:35.173303+05:30'
 published_at: '2026-06-25T08:15:48Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-06-27T19:39:27.471939+05:30'
-last_seen: '2026-06-27T19:39:27.471939+05:30'
-last_checked: '2026-06-27T19:39:27.471939+05:30'
+first_seen: '2026-06-27T21:52:35.173303+05:30'
+last_seen: '2026-06-27T21:52:35.173303+05:30'
+last_checked: '2026-06-27T21:52:35.173303+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing**: Enables integration and processing of diverse data types (text, images, etc.) into a unified graph-based representation for enhanced retrieval and reasoning.
+- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with hybrid retrieval pipelines for context-aware RAG workflows.
 
-- **AI agents & MCP support**: Facilitates autonomous task execution via AI agents and integrates with Model Context Protocol (MCP) for standardized agentic workflows.
+- **Agentic & MCP integration**: Embeds AI agents for autonomous reasoning and supports Model Context Protocol (MCP) for dynamic tool orchestration and external system interactions.
 
-- **Scalable K8s deployment**: Optimized for Kubernetes-based orchestration, ensuring horizontal scalability, fault tolerance, and efficient resource management in production environments.
+- **Scalable K8s deployment**: Containerized architecture with Helm charts for Kubernetes, enabling horizontal scaling, fault tolerance, and cloud-agnostic orchestration.
 
 ## Why It Matters
 

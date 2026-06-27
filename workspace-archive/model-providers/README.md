@@ -9,24 +9,24 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 ## Top Matched Resources
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (benchmark - ESSENTIAL Tier)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (prompt - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-27 19:53 IST*
+*Last updated: 2026-06-27 22:06 IST*

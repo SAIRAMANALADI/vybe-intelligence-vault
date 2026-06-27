@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube
-published_at: '2026-06-27T16:42:21.649015+05:30'
-collected_at: '2026-06-27T16:42:21.649028+05:30'
+published_at: '2026-06-27T21:59:11.686327+05:30'
+collected_at: '2026-06-27T21:59:11.686337+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-google-for-developers
-first_seen: '2026-06-27T16:42:21.649028+05:30'
-last_seen: '2026-06-27T16:42:21.649028+05:30'
-last_checked: '2026-06-27T16:42:21.649028+05:30'
+first_seen: '2026-06-27T21:59:11.686337+05:30'
+last_seen: '2026-06-27T21:59:11.686337+05:30'
+last_checked: '2026-06-27T21:59:11.686337+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube IFrame API**: Enables embedded video playback with customizable parameters for web apps via IFrame, iOS helper, and player configurations.
+- **YouTube IFrame Player API**: Enables embedded video playback with customizable parameters for web apps, including iOS integration via YouTube Helper.
 
-- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and user interactions through structured endpoints and code samples.
+- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and user interactions with RESTful endpoints and code samples.
 
-- **YouTube Analytics & Live Streaming APIs**: Provides reporting for user engagement metrics and supports live broadcast scheduling/management with dedicated APIs.
+- **YouTube Analytics & Reporting API**: Provides channel/video performance metrics and user engagement data via reporting tools and sample implementations.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T16:42:21.649015+05:30
+- Published: 2026-06-27T21:59:11.686327+05:30
 
 ## Related Tags
 

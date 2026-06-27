@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's imaging settings support `anchor` (e.g., `smart`, `center`), `bgColor` (hex RGB), and `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) for resizing/cropping operations.
+- **Image Processing Configuration**: Hugo's `imaging` settings control image processing (e.g., resizing, format conversion) with defaults for `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific optimizations (AVIF/WebP/JPEG).
 
-- **Format-Specific Encoding**: AVIF (`lossy`/`lossless` compression, `encoderSpeed: 1-10`, `quality: 1-100`), JPEG (`quality: 1-100`), and WebP (`compression`, `method: 0-6`, `useSharpYuv`) settings optimize output fidelity/size trade-offs.
-
-- **Metadata Handling**: `exif` fie
+- **Format-Specific Encoding**: AVIF (`lossy` compression, `encoderSpeed: 10`, `quality: 60`), WebP (`method: 2`, `quality: 75`, `useSharpYuv: false`), and JPEG (`quality: 75`) support configurable quality, compression, and performance tradeoff
 
 ## Use Cases
 

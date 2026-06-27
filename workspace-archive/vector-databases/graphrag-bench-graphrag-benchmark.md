@@ -6,10 +6,10 @@ source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
 resource_id: github:graphrag-bench/graphrag-benchmark
 local_vault_path: ai/rag/graphrag-bench-graphrag-benchmark.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - benchmark
 - dataset
@@ -26,16 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG (Graph Retrieval-Augmented Generation) models, including datasets and metrics for assessing performance in graph-based RAG tasks.
-- **Technical Scope**: Focuses on determining optimal use cases for graphs in RAG systems, with analysis spanning retrieval strategies, graph construction, and query optimization.
-- **Implementation**: Python-based repository with modular components for dataset generation, model evaluatio
+- **Benchmark Framework**: Official repository for GraphRAG-Bench, an ICLR'26 benchmark designed to evaluate GraphRAG (Graph Retrieval-Augmented Generation) models, focusing on graph-based retrieval strategies in RAG systems.
+
+- **Technical Scope**: Provides a comprehensive analysis of when to use graphs in RAG pipelines, including datasets, evaluation metrics, and standardized testing protocols for graph-augmented retrieval tasks.
+
+- **Implementation**: Python-based implementation with modular
 
 ## Use Cases
 

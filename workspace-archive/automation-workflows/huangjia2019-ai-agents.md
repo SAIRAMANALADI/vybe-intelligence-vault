@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner-friendly guide to LLM development with foundational concepts.
-- **Technical Scope**: Implemented in Jupyter Notebooks, covering core agent architectures, workflows, and basic interactions with LLMs.
-- **Resource Context**: Positioned as a high-level overview; directs users to advanced resources like OpenAI Cookbook and LangChain Examples for deeper implementation details.
+- **Purpose**: Repository provides introductory examples for constructing LLM-based AI agents, serving as a beginner's guide to LLM development with foundational code snippets.
+
+- **Technical Scope**: Implemented in Jupyter Notebooks, covering core agent concepts (e.g., tool use, workflows) with minimal complexity to facilitate rapid onboarding.
+
+- **Resource Context**: Positioned as a high-level overview; directs users to deeper resources like OpenAI Cookbook and LangChain Examples for advanced
 
 ## Use Cases
 

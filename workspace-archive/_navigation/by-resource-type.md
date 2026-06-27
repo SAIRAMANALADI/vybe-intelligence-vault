@@ -18,18 +18,18 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## BENCHMARK
 
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (Tier: `essential` | [`Local File`](../../ai/rag/aws-samples-amazon-bedrock-samples.md))
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (Tier: `essential` | [`Local File`](../../ai/rag/onyx-dot-app-onyx.md))
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-tomaz-bratanic-github.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [tomasonjo/langchain-neo4j](https://github.com/tomasonjo/langchain-neo4j) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-langchain-neo4j.md))
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (Tier: `essential` | [`Local File`](../../ai/rag/onyx-dot-app-onyx.md))
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-tomaz-bratanic-github.md))
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [tomasonjo/langchain-neo4j](https://github.com/tomasonjo/langchain-neo4j) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-langchain-neo4j.md))
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (Tier: `essential` | [`Local File`](../../ai/rag/aws-samples-amazon-bedrock-samples.md))
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (Tier: `essential` | [`Local File`](../../ai/rag/onyx-dot-app-onyx.md))
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (Tier: `essential` | [`Local File`](../../ai/rag/onyx-dot-app-onyx.md))
+- [tomasonjo/langchain-neo4j](https://github.com/tomasonjo/langchain-neo4j) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-langchain-neo4j.md))
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (Tier: `essential` | [`Local File`](../../ai/rag/aws-samples-amazon-bedrock-samples.md))
 
 ## DATASET
 
@@ -48,18 +48,18 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## FRAMEWORK
 
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Tier: `essential` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (Tier: `essential` | [`Local File`](../../ai/rag/graphrag-bench-graphrag-benchmark.md))
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-24429.md))
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (Tier: `essential` | [`Local File`](../../ai/resources/model-context-protocol-github.md))
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) (Tier: `essential` | [`Local File`](../../ai/resources/modelcontextprotocol-python-sdk.md))
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
-- [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) (Tier: `essential` | [`Local File`](../../ai/rag/yigtwxx-awesome-rag-production.md))
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (Tier: `essential` | [`Local File`](../../ai/rag/graphrag-bench-graphrag-benchmark.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Tier: `essential` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) (Tier: `essential` | [`Local File`](../../ai/rag/quivrhq-quivr.md))
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `essential` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
-- [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2407-18245.md))
-- [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (Tier: `essential` | [`Local File`](../../ai/rag/run-llama-llama-deploy.md))
-- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (Tier: `essential` | [`Local File`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md))
 
 ## MCP-SERVER
 
@@ -85,26 +85,26 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](https://anthropic.com/news/services-track-partner-hub) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md))
 - [ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.](https://anthropic.com/news/introducing-claude-tag) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/productjun-23-2026introducing-claude-tagclaude-tag.md))
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Tier: `useful` | [`Local File`](../../ai/agents/addyosmani-agent-skills.md))
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (Tier: `useful` | [`Local File`](../../ai/rag/ajac-zero-example-rag-app.md))
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) (Tier: `useful` | [`Local File`](../../ai/agents/nixopus-nixopus.md))
 - [nixopus/nixopus](https://github.com/nixopus/nixopus) (Tier: `useful` | [`Local File`](../../ai/agents/nixopus-nixopus.md))
 - [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai) (Tier: `useful` | [`Local File`](../../ai/rag/shivayapandey-product-doc-crewai.md))
 - [microsoft/wsl](https://github.com/microsoft/wsl) (Tier: `useful` | [`Local File`](../../ai/rag/microsoft-wsl.md))
-- [PierreGode/Ragnar](https://github.com/PierreGode/Ragnar) (Tier: `useful` | [`Local File`](../../ai/rag/pierregode-ragnar.md))
 
 ## PROMPT
 
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-11456.md))
 - [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
 - [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (Tier: `essential` | [`Local File`](../../ai/rag/bakrianoo-mini-rag.md))
 - [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
 - [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (Tier: `essential` | [`Local File`](../../ai/rag/tomasonjo-kg-rag.md))
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
-- [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](https://arxiv.org/abs/2606.25760) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-25760.md))
-- [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
 
 ## REFERENCE
 
@@ -125,16 +125,16 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Tier: `essential` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Tier: `essential` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
-- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (Tier: `essential` | [`Local File`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md))
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (Tier: `essential` | [`Local File`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md))
 - [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (Tier: `essential` | [`Local File`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
+- [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 
 ## TOOL
 
@@ -153,12 +153,12 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## TUTORIAL
 
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
-- [github/roadmap](https://github.com/github/roadmap) (Tier: `essential` | [`Local File`](../../ai/resources/github-roadmap.md))
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [python/peps](https://github.com/python/peps) (Tier: `essential` | [`Local File`](../../ai/resources/python-peps.md))
+- [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (Tier: `essential` | [`Local File`](../../ai/rag/ai-vectors-supabase-docs.md))
 - [rokbenko/ai-playground](https://github.com/rokbenko/ai-playground) (Tier: `useful` | [`Local File`](../../ai/rag/rokbenko-ai-playground.md))
 - [Gradio](https://gradio.app/) (Tier: `useful` | [`Local File`](../../ai/rag/gradio.md))
 - [Add-ons for Firefox (en-US)](https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&utm_medium=referral&utm_campaign=nav&utm_content=resources) (Tier: `useful` | [`Local File`](../../ai/resources/add-ons-for-firefox-en-us.md))
@@ -177,9 +177,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
-- [continuedev/continue](https://github.com/continuedev/continue) (Tier: `useful` | [`Local File`](../../ai/agents/continuedev-continue.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
 - [Critique of Agent Model](https://arxiv.org/abs/2606.23991) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-23991.md))
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) (Tier: `useful` | [`Local File`](../../ai/agents/langchain-ai-open-swe.md))
 
 ---
-*Last updated: 2026-06-27 19:54 IST*
+*Last updated: 2026-06-27 22:07 IST*

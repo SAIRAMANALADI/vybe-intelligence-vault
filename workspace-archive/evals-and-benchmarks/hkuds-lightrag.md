@@ -6,11 +6,12 @@ source_url: https://github.com/HKUDS/LightRAG
 resource_id: github:hkuds/lightrag
 local_vault_path: ai/rag/hkuds-lightrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - models
 - openai
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Efficient RAG Framework**: Introduces LightRAG, a lightweight yet high-performance retrieval-augmented generation (RAG) system optimized for speed and simplicity, leveraging minimal computational overhead while maintaining strong retrieval accuracy.
-
-- **Graph-Based Retrieval Mechanism**: Implements a graph-augmented retrieval strategy, dynamically constructing and querying knowledge graphs to enhance contextual relevance and reduce latency in large language model (LLM) inference.
-
-- **Pytho
+- **LightRAG Framework**: Introduces a lightweight, efficient Retrieval-Augmented Generation (RAG) system optimized for speed and simplicity, leveraging Python for implementation.
+- **Graph-Based Retrieval**: Utilizes knowledge graphs to enhance retrieval precision, improving contextual relevance in LLM responses while maintaining low computational overhead.
+- **EMNLP 2025 Contribution**: Proposes a novel architecture for RAG, balancing performance and scalability, with benchmarks demonstrating
 
 ## Use Cases
 

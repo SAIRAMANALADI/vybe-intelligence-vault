@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time incident reporting, historical uptime metrics (e.g., 99.99% for Git Operations over 90 days), and region-specific status pages (AU/EU/JP/US) for GitHub Enterprise Cloud services.
+- **GitHub Status Page**: Provides real-time incident reporting, historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days), and region-specific status dashboards (AU/EU/JP/US) via dedicated subdomains.
 
-- **Notification Systems**: Supports multi-channel incident updates via email, SMS (global country code support), Slack, and webhooks for automated integration, with OTP-based verification for secure subscriptions.
+- **Notification Systems**: Supports multi-channel incident alerts via email, SMS (global country code support), Slack, and webhooks, with granular subscription controls for incident updates, resolutions, and component status changes.
 
-- **Incident Management Workflow**: Tracks incident lifecyc
+- **Incident Management Workflow**: Tra
 
 ## Use Cases
 

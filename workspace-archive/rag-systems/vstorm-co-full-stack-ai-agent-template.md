@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Pre-configured full-stack template integrating FastAPI (backend) with Next.js (frontend), featuring AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming, authentication, and 20+ third-party integrations.
+- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker for containerization.
 
-- **Tech Stack**: Python-based backend with FastAPI, PostgreSQL for data persistence, and Pydantic for data validation; frontend built with Next.js (React/TypeScript), Docker for containerization, and WebSocket support for bidirectional communication.
+- **AI Capabilities**: Pre-integrated with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG pipelines, real-time streaming via WebSocket, and 20+ third-party integrations.
 
-- **AI
+- **Features**: Built-in authentication, Pydantic-Deep for data validation, and preconfigured for LLM interactions with modular agent arc
 
 ## Use Cases
 

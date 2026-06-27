@@ -1,70 +1,51 @@
 ---
-title: milvus-io/milvus
+title: milvus-io/milvus · Discussions · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/milvus-io/milvus
-collected_at: '2026-06-27T04:12:13.840544+05:30'
-published_at: '2026-06-26T22:24:33Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/milvus-io/milvus/discussions
+published_at: '2026-06-27T21:57:45.341536+05:30'
+collected_at: '2026-06-27T21:57:45.341550+05:30'
 tags:
-- dataset
-- github-repo
-- go
+- benchmark
 - hackernews
+- openai
 - rag
-stars: 44966
-language: Go
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2019-09-16T06:43:43Z'
-pushed_at: '2026-06-26T22:24:28Z'
 resource_id: github:milvus-io/milvus
-first_seen: '2026-06-27T04:12:13.840544+05:30'
-last_seen: '2026-06-27T04:12:13.840544+05:30'
-last_checked: '2026-06-27T04:12:13.840544+05:30'
+first_seen: '2026-06-27T21:57:45.341550+05:30'
+last_seen: '2026-06-27T21:57:45.341550+05:30'
+last_checked: '2026-06-27T21:57:45.341550+05:30'
 health_score: 100
 ---
 
-# milvus-io/milvus
+# milvus-io/milvus · Discussions · GitHub
 
 ## Summary
 
-- **Scalable Vector ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance Approximate Nearest Neighbor (ANN) search, supporting billion-scale datasets with sub-millisecond latency.
-- **Multi-Model Indexing & Search**: Implements advanced indexing algorithms (HNSW, DiskANN, FAISS) and supports vector similarity search, hybrid search, and multi-modal embeddings (text, image, audio) for AI/ML applications.
-- **Go-Based Architecture**: Built in Go for concurrency and efficiency, with modular design for cloud deployment, horizontal scaling, and integration with LLM frameworks (RAG) and embedding models.
+- **Milvus GitHub Repository**: Open-source vector database with 45k+ stars, 4.1k+ forks, 713 open issues, and 207 pull requests; supports ARMv9 SVE BF16 via community discussions.
+- **Discussion Categories**: Active Q&A, feature requests, and announcements (e.g., Milvus Roadmap 2025) with unresolved threads on migration, performance evaluation, and ARM64 compatibility.
+- **Operational Concerns**: Community-reported issues include etcd corruption recovery, Pulsar retention policies, and collection creation timeouts, indicating scalability and stability challenges.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: milvus-io
-- Stars: 44966
-- Forks: 4093
-- Language: Go
-- Topics: anns, cloud-native, diskann, distributed, embedding-database, embedding-similarity, embedding-store, faiss, golang, hnsw, image-search, llm, nearest-neighbor-search, rag, vector-database, vector-search, vector-similarity, vector-store
-- Last Updated: 2026-06-26T22:24:33Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2019-09-16T06:43:43Z
-- Pushed At: 2026-06-26T22:24:28Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-06-27T21:57:45.341536+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- hackernews
+- openai
+- rag
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/milvus-io/milvus
+Original source: https://github.com/milvus-io/milvus/discussions

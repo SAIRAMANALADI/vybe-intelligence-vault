@@ -16,7 +16,6 @@ tags:
 - hackernews
 - java
 - rag
-- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implements multiple AI integration patterns** in Java using Spring AI and Alibaba Cloud services, including Server-Sent Events (SSE) streaming, Agent-based workflows, and Retrieval-Augmented Generation (RAG) with knowledge graphs.
+- **Core Components**: Implements AI Q&A systems using **SSE streaming**, **Agent-based architectures**, **knowledge graphs**, **RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **embedding/vector database** integration in Java.
 
-- **Supports multimodal AI capabilities** via Function Call, historical message management, image generation (e.g., via diffusion models), and image understanding (OCR/visual QA) with embedding-based retrieval in a vector database.
-
-- **Leverages advanced RAG tech
+- **Technical Stack**: Leverages **Spring AI**, **Alibaba Cloud AI services**, and **vector databases** for retrieval-augmented generation (RAG) workflows, with support for **embedding models** and **multimodal processing** (text
 
 ## Use Cases
 

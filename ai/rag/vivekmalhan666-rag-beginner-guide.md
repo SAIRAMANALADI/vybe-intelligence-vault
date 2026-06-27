@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VivekMalhan666/rag-beginner-guide
-collected_at: '2026-06-27T19:41:17.528920+05:30'
+collected_at: '2026-06-27T21:53:45.243898+05:30'
 published_at: '2026-02-13T16:22:48Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-12-25T17:14:02Z'
 pushed_at: '2025-12-26T14:09:43Z'
 resource_id: github:vivekmalhan666/rag-beginner-guide
-first_seen: '2026-06-27T19:41:17.528920+05:30'
-last_seen: '2026-06-27T19:41:17.528920+05:30'
-last_checked: '2026-06-27T19:41:17.528920+05:30'
+first_seen: '2026-06-27T21:53:45.243898+05:30'
+last_seen: '2026-06-27T21:53:45.243898+05:30'
+last_checked: '2026-06-27T21:53:45.243898+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility and avoiding abstracted solutions.
+- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without abstracted libraries or frameworks.
 
-- **Core components**: Covers document ingestion, text chunking, vector embeddings (e.g., using FAISS or similar), and retrieval-augmented generation with a language model (e.g., Hugging Face transformers).
+- **Core components**: Covers essential RAG pipeline elements, including document ingestion, vector embedding (e.g., using `sentence-transformers` or `FAISS`), retrieval (e.g., similarity search), and integration with a generative model (e.g., Hugging Face `transformers`).
 
-- **No external abstractions**: Focuses on manual implementation of RAG pipelines, including retrieval logic and prompt engineering, without relying on high-level frameworks like LangChain.
+- **No abstraction layer**: Focuses on raw Python implementations, avoiding high-level abstractions (e.g., LangChain) to ensure transparency in RAG mechanics like chunking, indexing, and prompt engineering.
 
 ## Why It Matters
 

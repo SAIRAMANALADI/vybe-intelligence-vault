@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Mission-driven remote-first workplace**: Medium operates as a 100% remote company with a stipend for home office expenses, Wi-Fi reimbursement, and co-working space memberships, while hosting bi-annual all-company retreats to foster in-person collaboration.
+- **Remote-first hiring & verification**: Medium operates as a 100% remote company with roles listed exclusively on [Greenhouse.io](https://job-boards.greenhouse.io/medium); external job offers (e.g., LinkedIn) may be scams and should be verified via [help.medium.com](http://help.medium.com/).
 
-- **Anti-scamming verification process**: All job offers are exclusively listed on [Greenhouse.io](https://job-boards.greenhouse.io/medium), and Medium explicitly warns against fraudulent offers via other platforms, directing candidates
+- **Mission-driven culture**: Focuses on building an ad-free, inclusive publishing platform prioritizing high-quality content, free from harassment, with employee benefits including home office stipends,
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting rules.
 
-- Docs are authored in **MDX** with YAML frontmatter (e.g., `title`, `hideToc`), stored in `apps/docs/content`, and use **partials** (`_partials/`) for reusable snippets; navigation is defined in `NavigationM
+- Docs are authored in **MDX** with structured frontmatter (e.g., `title`, `hideToc`) and organized in `apps/docs/content`, while reference docs are auto-generated from spec files (`common-client-libs-sections.json
 
 ## Use Cases
 

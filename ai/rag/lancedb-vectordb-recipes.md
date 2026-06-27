@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-27T19:38:07.394958+05:30'
+collected_at: '2026-06-27T21:51:15.143820+05:30'
 published_at: '2026-06-27T11:53:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-27T19:38:07.394958+05:30'
-last_seen: '2026-06-27T19:38:07.394958+05:30'
-last_checked: '2026-06-27T19:38:07.394958+05:30'
+first_seen: '2026-06-27T21:51:15.143820+05:30'
+last_seen: '2026-06-27T21:51:15.143820+05:30'
+last_checked: '2026-06-27T21:51:15.143820+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision) for advanced AI applications.
-
-- **Vector Database Integration**: Demonstrates the use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines, with examples leveraging LangChain and LlamaIndex for workflow orchestration.
-
-- **Agentic AI Systems**: Includes recipes for building autonomous AI agents using vector search, LLMs, and multimodal inputs, covering topics like fine-tuning, OpenAI API integration, and deep-learning-based embedding generation.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs.
+- **Integration Tools & Frameworks**: Demonstrates workflows with LangChain, LlamaIndex, OpenAI (including GPT-4 Vision), and LanceDB for embeddings, fine-tuning, and vector database operations.
+- **Technical Focus**: Covers deep learning, embeddings, and vector database optimizations for AI/ML pipelines, last updated June 2026.
 
 ## Why It Matters
 

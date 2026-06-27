@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-27T19:37:58.342889+05:30'
-collected_at: '2026-06-27T19:37:58.342900+05:30'
+published_at: '2026-06-27T21:51:06.162336+05:30'
+collected_at: '2026-06-27T21:51:06.162347+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-27T19:37:58.342900+05:30'
-last_seen: '2026-06-27T19:37:58.342900+05:30'
-last_checked: '2026-06-27T19:37:58.342900+05:30'
+first_seen: '2026-06-27T21:51:06.162347+05:30'
+last_seen: '2026-06-27T21:51:06.162347+05:30'
+last_checked: '2026-06-27T21:51:06.162347+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers for improved precision and efficiency.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata) optimize performance and cost.
 
-- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuned embeddings outperform off-the-shelf models, with dimensionality and normalization critical for performance.
+- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), cross-encoder reranking (two-stage precision), and multi-hop/query decomposition improve recall/precision; GraphRAG enables structured reasoning over knowledge graphs.
 
-- **Multi-Stage Retrieval & Context Optimization**: Hybrid (BM25 + vector) search improves recall, while cross-encoder rerankers enhance precision; context distillation and iterative multi-hop retrieval reduce hallucinations and improve reasoning in complex queries.
+- **Context Optimization & Evaluation**: Token budgeting (autocut/trimming), context distillation (LLM-based summarization), and rigorous metrics (MRR/nDCG for retrieval, hallucination rate for generation) are critical for production readiness.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:37:58.342889+05:30
+- Published: 2026-06-27T21:51:06.162336+05:30
 
 ## Related Tags
 

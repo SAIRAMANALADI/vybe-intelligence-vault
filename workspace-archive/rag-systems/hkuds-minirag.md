@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-*   Simplifies Retrieval-Augmented Generation (RAG) by leveraging small, open-source language models (SLMs).
-*   Implements a Python-based framework for RAG with a focus on SLM integration.
-*   Research project targeting publication at ACL 2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining performance, as presented at ACL2026.
+
+- **Optimized Architecture**: Implements lightweight retrieval and generation components, including a distilled retriever and a compact generator, to enable efficient inference on consumer-grade hardware without sacrificing accuracy.
+
+- **Open-Source Toolkit**:
 
 ## Use Cases
 

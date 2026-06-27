@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-27T19:39:02.448181+05:30'
+collected_at: '2026-06-27T21:52:10.169482+05:30'
 published_at: '2026-06-27T09:33:48Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-27T19:39:02.448181+05:30'
-last_seen: '2026-06-27T19:39:02.448181+05:30'
-last_checked: '2026-06-27T19:39:02.448181+05:30'
+first_seen: '2026-06-27T21:52:10.169482+05:30'
+last_seen: '2026-06-27T21:52:10.169482+05:30'
+last_checked: '2026-06-27T21:52:10.169482+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for high-performance Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit designed for efficient Retrieval-Augmented Generation (RAG) research, optimizing performance for large language models (LLMs) and retrieval tasks.
 
-- **Benchmark & Dataset Integration**: Includes built-in support for standardized RAG benchmarks and diverse datasets, enabling reproducible evaluation of retrieval and generation components across tasks.
+- **Benchmark & Datasets**: Includes curated benchmarks and datasets to evaluate and improve RAG systems, enabling standardized testing and comparison of retrieval and generation pipelines.
 
-- **Modular & Extensible**: Designed with a modular architecture for seamless integration of custom retrieval models, generators, and evaluation metrics, facilitating rapid prototyping and benchmarking.
+- **Modular & Scalable**: Provides modular components for customization, supporting integration with various LLMs and retrieval methods while ensuring scalability for large-scale experiments.
 
 ## Why It Matters
 

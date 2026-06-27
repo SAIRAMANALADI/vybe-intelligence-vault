@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
 
-- **Multimodal RAG Pipeline**: Demonstrates integration of vision and text modalities using Haystack’s multimodal components to enable cross-domain question answering.
+- **Agentic RAG with Fallback**: Demonstrates building a RAG pipeline with conditional routing to web search as a fallback mechanism, enhancing query resolution robustness.
 
-- **KV Cache Compression**: Introduces TurboQuant quantization for reducing memory footprint of LLMs, enabling deployment on consumer GPUs
+- **Multimodal RAG Pipeline**: Tutorial on constructing a vision+text RAG pipeline, enabling multimodal question answering grounded
 
 ## Use Cases
 

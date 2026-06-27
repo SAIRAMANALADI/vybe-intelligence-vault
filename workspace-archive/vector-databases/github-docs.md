@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Research Agent**: `/research` command activates a specialized agent that autonomously gathers and synthesizes information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous Research Agent**: The `/research` command in {% data variables.product.prodname_copilot_cli_short %} activates a specialized agent that autonomously gathers and synthesizes information from the local codebase, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Adaptive Output & Storage**: Reports adapt to query type (process, conceptual, or technical deep-dive) and are saved as Markdown files in a session-specific directory, with sharing options via GitHub gists or
+- **Adaptive Output & Session-Local Storage**: Reports adapt to query types (process, conceptual, or technical deep-dive) and include architecture
 
 ## Use Cases
 

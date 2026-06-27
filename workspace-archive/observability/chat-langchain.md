@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Latency Optimization**: Techniques such as connection pooling, HTTP/2 multiplexing, and edge caching reduce round-trip times and improve response speeds in distributed systems.
+- **Dynamic Resource Allocation**: The article discusses techniques for real-time adjustment of computational resources (CPU, memory, network) based on workload demands, optimizing efficiency without over-provisioning.
 
-- **Resource Efficiency**: Serverless architectures (e.g., AWS Lambda) and containerization (e.g., Kubernetes) minimize idle resource consumption by dynamically scaling compute resources based on demand.
+- **Latency Optimization**: Implements predictive scaling and edge computing strategies to minimize response times, particularly for latency-sensitive applications like real-time analytics and IoT processing.
 
-- **Security Hardening**: Zero-trust principles, mutual TLS (mTLS), and runtime application self-protection (RASP
+- **Fault Tolerance Mechanisms**: Introduces self-healing architecture
 
 ## Use Cases
 

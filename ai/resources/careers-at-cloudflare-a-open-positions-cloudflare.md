@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/careers/jobs/?department=Technology+Research
-published_at: '2026-06-27T19:43:33.647289+05:30'
-collected_at: '2026-06-27T19:43:33.647302+05:30'
+published_at: '2026-06-27T21:59:16.026439+05:30'
+collected_at: '2026-06-27T21:59:16.026453+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:careers-at-cloudflare-a-open-positions-cloudflare
-first_seen: '2026-06-27T19:43:33.647302+05:30'
-last_seen: '2026-06-27T19:43:33.647302+05:30'
-last_checked: '2026-06-27T19:43:33.647302+05:30'
+first_seen: '2026-06-27T21:59:16.026453+05:30'
+last_seen: '2026-06-27T21:59:16.026453+05:30'
+last_checked: '2026-06-27T21:59:16.026453+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Work Evolution**: Cloudflare is transitioning from a globally distributed in-office model to a more distributed hybrid model, emphasizing equitable and inclusive workplace practices.
-
-- **Mission-Driven Culture**: Focuses on hiring curious, mission-minded individuals committed to addressing the Internet's most complex challenges.
-
-- **Career Development & Open Roles**: Offers opportunities for professional growth while inviting candidates to contribute to building a better Internet.
+- Cloudflare is transitioning from a globally distributed in-office model to a more flexible hybrid model, emphasizing equitable and inclusive workplace practices.
+- The company prioritizes hiring mission-driven individuals focused on addressing complex internet infrastructure challenges.
+- Cloudflare offers career opportunities for professionals committed to solving critical internet issues and advancing its technical and operational goals.
 
 ## Why It Matters
 
@@ -34,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T19:43:33.647289+05:30
+- Published: 2026-06-27T21:59:16.026439+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

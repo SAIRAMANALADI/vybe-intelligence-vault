@@ -8,16 +8,18 @@ local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # bangoc123/retrieval-backend-with-rag
@@ -26,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including data preprocessing, embedding models, and retrieval strategies tailored to Vietnamese text.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
 
-- **Modular Python Architecture**: Implements a scalable backend using Python with components for document retrieval, vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., ViT5, PhoBERT) for Vietnamese-specific tas
+- **Modular Python Architecture**: Provides a scalable backend framework in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM interfaces (e.g., Hugging Face Transformers
 
 ## Use Cases
 

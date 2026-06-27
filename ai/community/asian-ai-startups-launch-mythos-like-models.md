@@ -16,13 +16,14 @@ tags:
 - hackernews
 - producthunt
 - rag
-status: active
+status: inactive
 resource_id: hackernews:asian-ai-startups-launch-mythos-like-models
 first_seen: '2026-06-27T19:37:06.170155+05:30'
 last_seen: '2026-06-27T19:37:06.170155+05:30'
 last_checked: '2026-06-27T19:37:06.170155+05:30'
 health_score: 100
 ---
+
 
 # Asian AI startups launch Mythos-like models
 

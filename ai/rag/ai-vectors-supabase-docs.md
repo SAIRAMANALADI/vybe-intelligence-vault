@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-06-26T22:42:51.166579+05:30'
-collected_at: '2026-06-26T22:42:51.166591+05:30'
+published_at: '2026-06-27T21:53:48.134407+05:30'
+collected_at: '2026-06-27T21:53:48.134418+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-06-26T22:42:51.166591+05:30'
-last_seen: '2026-06-26T22:42:51.166591+05:30'
-last_checked: '2026-06-26T22:42:51.166591+05:30'
+first_seen: '2026-06-27T21:53:48.134418+05:30'
+last_seen: '2026-06-27T21:53:48.134418+05:30'
+last_checked: '2026-06-27T21:53:48.134418+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector store for storing, indexing, and querying vector embeddings at scale, eliminating the need for external vector databases.
+- **PostgreSQL + pgvector Integration**: Supabase leverages PostgreSQL with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings directly within the database.
 
-- **Multi-Model Embedding Support**: Supabase supports embeddings generation via open-source models (e.g., Hugging Face) and integrates with major AI providers (OpenAI, LangChain, LlamaIndex) for hybrid search, semantic search, and keyword search capabilities.
+- **Multi-Model AI Workflows**: Supports hybrid search (semantic + keyword), integrates with OpenAI, Hugging Face, LangChain, and others, and includes Edge Function-based embedding generation using open-source models.
 
-- **Edge Function Embeddings & Migrations**: Supabase enables on-the-fly embedding generation in Edge Functions and provides database migration tools for structured embeddings, ensuring seamless integration with AI workflows.
+- **Production-Ready Toolkit**: Includes Python client (`vecs`), database migration tools, and case studies (e.g., Berri AI, Firecrawl) demonstrating scalability and GDPR-compliant deployments for AI applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:42:51.166579+05:30
+- Published: 2026-06-27T21:53:48.134407+05:30
 
 ## Related Tags
 

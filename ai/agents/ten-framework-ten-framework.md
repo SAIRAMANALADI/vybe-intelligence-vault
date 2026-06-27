@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-06-27T19:40:12.530736+05:30'
-published_at: '2026-06-27T13:51:49Z'
+collected_at: '2026-06-27T21:53:20.208914+05:30'
+published_at: '2026-06-27T15:12:01Z'
 tags:
 - agents
 - github-repo
 - python
 - youtube
-stars: 10774
+stars: 10776
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-19T14:26:15Z'
 pushed_at: '2026-06-27T06:52:40Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-06-27T19:40:12.530736+05:30'
-last_seen: '2026-06-27T19:40:12.530736+05:30'
-last_checked: '2026-06-27T19:40:12.530736+05:30'
+first_seen: '2026-06-27T21:53:20.208914+05:30'
+last_seen: '2026-06-27T21:53:20.208914+05:30'
+last_checked: '2026-06-27T21:53:20.208914+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Python framework designed for building real-time, multi-modal conversational voice AI agents with video and voice capabilities.
+- **Multi-modal conversational AI framework** in Python enabling real-time voice and video interactions via modular, pluggable components for agent development.
 
-- **Key Features**: Supports real-time processing, integrates video and voice modalities, and enables deployment of AI agents.
+- **Real-time processing pipeline** optimized for low-latency voice AI, supporting streaming input/output with integrated TTS/ASR and multi-modal data fusion.
 
-- **Status**: Actively maintained with 10,774 stars, 1,311 forks, and last updated on 2026-06-27.
+- **Open-source extensible architecture** with 10K+ GitHub stars, designed for scalable deployment of conversational agents across voice, video, and multi-modal use cases.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10774
+- Stars: 10776
 - Forks: 1311
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-06-27T13:51:49Z
+- Last Updated: 2026-06-27T15:12:01Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z

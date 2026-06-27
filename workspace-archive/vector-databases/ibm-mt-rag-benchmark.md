@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Overview**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions, emphasizing context retention and iterative retrieval quality.
+- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework with focus on conversational multi-turn interactions, enabling assessment of long-context reasoning and iterative retrieval strategies.
 
-- **Technical Implementation**: Python-based benchmark with modular components for query generation, retrieval evaluation, and response assessment, supporting customizable pipelines for domain-specific RAG testing.
+- **Technical Implementation**: Python-based benchmark with modular components for dynamic query reformulation, retrieval augmentation, and response generation, supporting customizable datasets and evaluation metrics.
 
-- **Evaluation Metrics**: Focuses on metrics li
+- **Evaluation Metrics**: Includes metrics for fact
 
 ## Use Cases
 

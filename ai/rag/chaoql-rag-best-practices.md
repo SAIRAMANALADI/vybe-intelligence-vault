@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-27T19:38:47.398700+05:30'
+collected_at: '2026-06-27T21:51:55.127322+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 92
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-27T19:38:47.398700+05:30'
-last_seen: '2026-06-27T19:38:47.398700+05:30'
-last_checked: '2026-06-27T19:38:47.398700+05:30'
+first_seen: '2026-06-27T21:51:55.127322+05:30'
+last_seen: '2026-06-27T21:51:55.127322+05:30'
+last_checked: '2026-06-27T21:51:55.127322+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `chaoql/rag-best-practices` provides best practices for **Retrieval-Augmented Generation (RAG)** with large language models (LLMs), focusing on optimization techniques for retrieval and generation workflows.
+- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated June 22, 2026.
 
-- **Technical Stack**: Implemented in **Python**, the repository likely includes components for vector databases, embedding models, and LLM integration, emphasizing modular and scalable RAG pipelines.
+- **Key Focus**: Implements and documents advanced techniques for integrating retrieval mechanisms with LLMs to enhance generation quality, relevance, and factual accuracy.
 
-- **Last Updated**: The repository was last updated on **June 22, 2026**, indicating active maintenance and relevance to current RAG advancements.
+- **Community Metrics**: 92 stars and 10 forks, indicating moderate adoption and interest in RAG optimization strategies.
 
 ## Why It Matters
 

@@ -29,9 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Framework**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks (e.g., C/C++, Java, Python, JavaScript) via static analysis.
-- **Query Development**: Provides tools (CLI, VS Code extension) and documentation (QL language reference, standard libraries) for writing, running, and sharing custom vulnerability queries.
-- **Coverage & Resources**: Includes CWE coverage metrics, release changelogs, and a GitHub repository for contrib
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
+
+- **Key Resources**: Includes QL language reference, standard libraries, and query help; provides CLI releases, VS Code extension, and open-source repository for contributions.
+
+- **Learning & Execution**: Offers guides on writing queries, language-specific documentation, and running queries on codebases;
 
 ## Use Cases
 

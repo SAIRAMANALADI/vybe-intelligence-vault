@@ -15,7 +15,6 @@ tags:
 - agents
 - hackernews
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, follows) and device/browser metadata to personalize content, enforce paywall limits, and improve services; no third-party advertising tracking is performed. Logs include server/event data, and user data is stored/processed in the U.S. and other operating regions.
-
-- **Third-Party Embeds & Disclosures**: Embedded content (e.g., YouTube, Twitter) transmits user data to third-party services, governed by their
+- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, follows) and device/browser metadata to personalize content, enforce paywall limits, and improve services; no third-party advertising tracking is performed.
+- **Third-Party Embeds & Data Sharing**: Embedded content (e.g., YouTube, Twitter) transmits user data to external services; Medium does not control or assume liability for third-party data practices.
+- **EU GDPR Compliance**: Processing of EU users' d
 
 ## Use Cases
 

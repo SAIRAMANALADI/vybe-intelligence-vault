@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using Python with LangChain, FAISS, and OpenAI embeddings to ground responses in provided documents, preventing hallucinations by restricting answers to retrieved context.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
 
-- **Modular Architecture**: Organizes the system into four core components—document loading/splitting (`document_loader.py`), vector storage (`vector_store.py`), RAG chain construction (`rag_chain.py`), and execution (`main.py`)—each handling a distinct re
+- **Modular Architecture**: Structured into four core components—document loader (splits text into 300-token chunks with 50-token overlap), vector store (FAISS index for semantic search), RAG chain (combines retrieved context with a system pro
 
 ## Use Cases
 

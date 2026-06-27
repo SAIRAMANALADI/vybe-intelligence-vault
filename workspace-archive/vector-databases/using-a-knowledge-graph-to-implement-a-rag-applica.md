@@ -6,9 +6,9 @@ source_url: https://neo4j.com/blog/developer/rag-tutorial/
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Using a knowledge graph to implement a RAG application
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Three-stage process—**retrieval** (vector/structured search), **augmentation** (combining retrieved context with query), and **generation** (LLM response grounded in augmented prompt). Core components include embedding models, vector databases, and prompt construction frameworks.
+- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLMs by retrieving relevant external data (structured/unstructured) via vector search, augmenting prompts with retrieved context, and generating grounded responses—mitigating hallucinations and improving factual accuracy.
 
-- **GraphRAG Enhancement**: Hybrid approach combining **vector search** (semantic similarity) with **knowledge graph traversal** (structured relationships) via Cypher queries. Enables explainabl
+- **GraphRAG Hybrid Approach**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) in a knowledge graph, enabling relational reasoning, explainability, and fine-
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
-published_at: '2026-06-27T16:43:08.829503+05:30'
-collected_at: '2026-06-27T16:43:08.829516+05:30'
+published_at: '2026-06-27T21:58:23.330210+05:30'
+collected_at: '2026-06-27T21:58:23.330222+05:30'
 tags:
 - agents
 - frontend_ui
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:github/docs
-first_seen: '2026-06-27T16:43:08.829516+05:30'
-last_seen: '2026-06-27T16:43:08.829516+05:30'
-last_checked: '2026-06-27T16:43:08.829516+05:30'
+first_seen: '2026-06-27T21:58:23.330222+05:30'
+last_seen: '2026-06-27T21:58:23.330222+05:30'
+last_checked: '2026-06-27T21:58:23.330222+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Research Agent**: `/research` command activates a specialized agent that autonomously gathers and synthesizes information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous Research Agent**: The `/research` command in {% data variables.product.prodname_copilot_cli_short %} activates a specialized agent that autonomously gathers and synthesizes information from the local codebase, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Adaptive Output & Storage**: Reports adapt to query type (process, conceptual, or technical deep-dive) and are saved as Markdown files in a session-specific directory, with sharing options via GitHub gists or local files (`/share gist research` or `/share file research`).
+- **Adaptive Output & Session-Local Storage**: Reports adapt to query types (process, conceptual, or technical deep-dive) and include architecture diagrams, code snippets, and confidence assessments; research is stored in session-specific directories (`~/.copilot/session-state/SESSION-ID/research/`) and persists only within the active session.
 
-- **Model-Specific & Session-Limited**: The agent uses a fixed AI model (unconfigurable) and stores reports per CLI session; prior reports require manual access via `~/.copilot/session-state/SESSION-ID/research/`. Not suited for quick fixes or code modifications.
+- **Limitations & Constraints**: The research agent uses a fixed AI model (non-configurable via `/model`), does not modify code, and is optimized for depth over speed—making it unsuitable for quick fixes or time-sensitive interactions; report quality depends on query phrasing and classification.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:43:08.829503+05:30
+- Published: 2026-06-27T21:58:23.330210+05:30
 
 ## Related Tags
 

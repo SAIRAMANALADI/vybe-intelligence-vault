@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-27T19:38:47.381560+05:30'
+collected_at: '2026-06-27T21:51:55.153113+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - java
 - rag
-- reddit
 - workflows
 stars: 35
 language: Java
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-27T19:38:47.381560+05:30'
-last_seen: '2026-06-27T19:38:47.381560+05:30'
-last_checked: '2026-06-27T19:38:47.381560+05:30'
+first_seen: '2026-06-27T21:51:55.153113+05:30'
+last_seen: '2026-06-27T21:51:55.153113+05:30'
+last_checked: '2026-06-27T21:51:55.153113+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements multiple AI integration patterns** in Java using Spring AI and Alibaba Cloud services, including Server-Sent Events (SSE) streaming, Agent-based workflows, and Retrieval-Augmented Generation (RAG) with knowledge graphs.
+- **Core Components**: Implements AI Q&A systems using **SSE streaming**, **Agent-based architectures**, **knowledge graphs**, **RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **embedding/vector database** integration in Java.
 
-- **Supports multimodal AI capabilities** via Function Call, historical message management, image generation (e.g., via diffusion models), and image understanding (OCR/visual QA) with embedding-based retrieval in a vector database.
+- **Technical Stack**: Leverages **Spring AI**, **Alibaba Cloud AI services**, and **vector databases** for retrieval-augmented generation (RAG) workflows, with support for **embedding models** and **multimodal processing** (text/images).
 
-- **Leverages advanced RAG techniques** with embedding models (e.g., `text-embedding-ada-002`), vector databases (e.g., Milvus/Weaviate), and hybrid retrieval strategies for contextual AI responses.
+- **Advanced Features**: Supports **persistent conversation history**, **dynamic tool/function calls**, and **graph-based knowledge retrieval** for enhanced contextual understanding and response generation.
 
 ## Why It Matters
 

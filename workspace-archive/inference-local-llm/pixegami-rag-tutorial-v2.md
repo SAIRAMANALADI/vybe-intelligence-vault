@@ -8,18 +8,15 @@ local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- benchmark
-- dataset
 - github-repo
-- models
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # pixegami/rag-tutorial-v2
@@ -28,18 +25,14 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local language models (LLMs) for Retrieval-Augmented Generation (RAG) pipelines, leveraging lightweight alternatives to cloud-based APIs.
-
-- **Dynamic Database Updates**: Implements automated or semi-automated mechanisms for updating the vector database (e.g., Chroma, FAISS) with new documents or embeddings, ensuring real-time or near-real-time relevance.
-
-- **Testing & Evaluation Framework**: Includes structured methodologi
+*   Demonstrates an enhanced Langchain RAG pipeline (v2) leveraging local LLM inference
 
 ## Use Cases
 

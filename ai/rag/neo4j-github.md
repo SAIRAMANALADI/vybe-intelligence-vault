@@ -4,18 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-27T19:41:13.148886+05:30'
-collected_at: '2026-06-27T19:41:13.148902+05:30'
+published_at: '2026-06-27T21:53:50.690488+05:30'
+collected_at: '2026-06-27T21:53:50.690501+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-27T19:41:13.148902+05:30'
-last_seen: '2026-06-27T19:41:13.148902+05:30'
-last_checked: '2026-06-27T19:41:13.148902+05:30'
+first_seen: '2026-06-27T21:53:50.690501+05:30'
+last_seen: '2026-06-27T21:53:50.690501+05:30'
+last_checked: '2026-06-27T21:53:50.690501+05:30'
 health_score: 100
 ---
 
@@ -23,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j** is a graph database management system with native graph storage and processing, optimized for connected data and graph traversal operations.
+- **Core Project**: [Neo4j](https://github.com/neo4j/neo4j) is an open-source graph database implemented in Java, providing ACID-compliant transactions and native graph storage/querying via Cypher.
 
-- **Core repositories** include the main `neo4j` database (Java-based, 16.8k stars), the **Graph Data Science (GDS) library** (Java, implements graph algorithms), and multiple language-specific **Bolt drivers** (Java, JavaScript, Python).
+- **Key Libraries**: Official drivers available for Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), and Python (`neo4j-python-driver`), enabling Bolt protocol integration with respective ecosystems.
 
-- **Additional tools** include the **APOC library** (Java, extends Neo4j with utilities), **Spark connector** (Scala, for Apache Spark integration), and **AWS Glue connector** (Java, for serverless ETL workflows).
+- **Extensions & Tools**: The [Graph Data Science (GDS) library](https://github.com/neo4j/graph-data-science) offers graph algorithms (e.g., PageRank, community detection), while [APOC](https://github.com/neo4j/apoc) provides procedural extensions for enhanced data operations.
 
 ## Why It Matters
 
@@ -37,14 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:41:13.148886+05:30
+- Published: 2026-06-27T21:53:50.690488+05:30
 
 ## Related Tags
 
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

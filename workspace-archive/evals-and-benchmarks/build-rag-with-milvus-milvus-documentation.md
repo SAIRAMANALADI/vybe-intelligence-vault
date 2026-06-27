@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-rag-with-milvus-milvus-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - anthropic
@@ -16,7 +16,6 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -29,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative models (e.g., OpenAI's GPT) to answer queries using retrieved documents, demonstrated with Milvus documentation FAQs.
-- **Vector Database Integration**: Uses `pymilvus` to create a collection with 1536-dim embeddings (OpenAI `text-embedding-3-small`), storing text chunks and enabling similarity search with `IP` (inner product) metric.
-- **Dynamic Schema Handling**: Automatically manages undefined fields (e.g
+- **Milvus Architecture**: Open-source vector database optimized for similarity search and AI workloads, supporting hybrid search, multi-tenancy, and distributed deployments with configurable consistency levels (`Strong`, `Session`, `Bounded`, `Eventually`).
+
+- **RAG Pipeline Implementation**: Combines Milvus for vector retrieval (using `text-embedding-3-small` embeddings) with OpenAI’s LLM (`gpt-3.5-turbo`) for generation, where Milvus indexes FAQ data (stored as vectors + metadata) and retriev
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://docs.github.com/
+source_url: https://docs.github.com
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub supports **SSH authentication** for secure remote access to repositories, enabling encrypted communication over unsecured networks via the Secure Shell Protocol (SSH).
+- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations and remote collaboration; secure access is enabled via SSH for encrypted connections over unsecured networks.
 
-- **Pull requests** facilitate collaborative code review and merging, allowing developers to propose, discuss, and integrate changes into repositories.
+- **Collaborative Workflows**: Pull requests facilitate code review, discussion, and merging; repositories serve as centralized hubs for project files, with GitHub Actions enabling CI/CD pipelines.
 
-- **GitHub Actions** provides CI/CD automation, enabling workflows for building, testing, and deploying code directly from repositories.
+- **Security & Developer Tools**: Code security features include vulnerability s
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com/
+Original source URL: https://docs.github.com
 
 ## Local Vault File
 

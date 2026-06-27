@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; 88,727 GitHub stars (as of June 25, 2026).
-- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced taxonomies, and rapid asset pipelines (image/Sass/JS processing).
-- **Development Workflow**: Includes an embedded web server for real-time previews of content, structure, and presentation changes.
+- **License & Popularity**: Distributed under Apache 2.0 License; 88,735 GitHub stars (as of June 26, 2026).
+- **Performance & Flexibility**: Go-based, optimized for speed; supports multilingual content, advanced templating, and fast asset pipelines (image/Sass/JS processing).
+- **Development Workflow**: Includes an embedded web server for real-time preview of changes during development.
 
 ## Use Cases
 

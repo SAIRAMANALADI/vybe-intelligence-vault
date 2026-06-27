@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Resource**: A beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks and hosted online at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM (Large Language Model) applications, leveraging **LangChain** and **RAG (Retrieval-Augmented Generation)** methodologies.
 
-- **Technical Focus**: Covers LangChain and Retrieval-Augmented Generation (RAG) frameworks, emphasizing practical implementation of LLM applications with modular components.
+- **Technical Implementation**: Utilizes **Jupyter Notebooks** as the primary medium for hands-on coding exercises and demonstrations, ensuring interactive learning.
 
-- **Community & Maintenance**: Actively maintained (last updated Jun
+- **Resource Accessibility**: Hosted on GitHub with **13.3K+ stars** and **1.3K+ forks**, offering an actively m
 
 ## Use Cases
 

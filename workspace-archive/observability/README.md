@@ -26,7 +26,7 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
 - [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [open-telemetry/community](https://github.com/open-telemetry/community#mailing-lists)
-- [run-llama/liteparse](https://github.com/run-llama/liteparse)
+- [KnowledgeXLab/LeanRAG](https://github.com/KnowledgeXLab/LeanRAG)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-27 19:53 IST*
+*Last updated: 2026-06-27 22:06 IST*

@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (e.g., NVIDIA Nemotron models) only when additional context is required, improving efficiency over traditional RAG systems.
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Core Model Stack**: Integrates **Nemotron Nano 9b V2** (LLM for response generation), **Llama 3.2 EmbedQA 1b V2** (embedding model for vectorization), and **Llama 3.2 RerankQA 1b V2** (reranking model for relevance optimization) via NVIDIA NIM
+- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterpri
 
 ## Use Cases
 

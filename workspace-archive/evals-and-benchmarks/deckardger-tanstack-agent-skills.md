@@ -16,6 +16,7 @@ tags:
 - rag
 - reddit
 - unknown
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Optimized Query Management**: Implements advanced caching and stale-while-revalidate strategies in TanStack Query for efficient data synchronization in AI-driven applications, reducing redundant network requests.
+- **Optimized TanStack Query Integration**: Implements advanced caching strategies, stale-while-revalidate (SWR) policies, and automatic garbage collection for stale queries to minimize network overhead and ensure data consistency in AI-driven applications.
 
-- **Intelligent Route Handling**: Leverages TanStack Router for dynamic, code-split route resolution with built-in type safety, enabling seamless navigation in AI-generated UIs.
+- **Efficient TanStack Router Configuration**: Leverages dynamic route matching, lazy-loaded route segments, and type-safe URL generation to enhance navigation performance and maintain strict type safety in agent-based routing workflows.
 
-- **Performance-Centric Startup**: Integrates TanStack Start for optimized SSR/SSG with minimal hydrati
+-
 
 ## Use Cases
 

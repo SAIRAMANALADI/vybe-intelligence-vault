@@ -8,7 +8,6 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 ## Top Matched Resources
 
-- [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [python/peps](https://github.com/python/peps) (tutorial - ESSENTIAL Tier)
 - [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (benchmark - USEFUL Tier)
 - [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
@@ -16,16 +15,17 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Unity Essentials Pathway - Learn Game Development for Beginners | Unity Learn](https://learn.unity.com/pathway/unity-essentials) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
+- [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
-- [github/roadmap](https://github.com/github/roadmap)
 - [python/peps](https://github.com/python/peps)
+- [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
-- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [milvus-io/milvus · Discussions · GitHub](https://github.com/milvus-io/milvus/discussions)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-27 19:54 IST*
+*Last updated: 2026-06-27 22:07 IST*

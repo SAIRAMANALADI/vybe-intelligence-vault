@@ -1,33 +1,36 @@
 ---
-title: supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
-published_at: '2026-06-27T16:40:21.375263+05:30'
-collected_at: '2026-06-27T16:40:21.375277+05:30'
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+published_at: '2026-06-27T21:59:22.651413+05:30'
+collected_at: '2026-06-27T21:59:22.651425+05:30'
 tags:
+- frontend_ui
+- openai
 - rag
 - reddit
 - web-crawled
 - workflows
+- youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-27T16:40:21.375277+05:30'
-last_seen: '2026-06-27T16:40:21.375277+05:30'
-last_checked: '2026-06-27T16:40:21.375277+05:30'
+first_seen: '2026-06-27T21:59:22.651425+05:30'
+last_seen: '2026-06-27T21:59:22.651425+05:30'
+last_checked: '2026-06-27T21:59:22.651425+05:30'
 health_score: 100
 ---
 
-# supabase/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Summary
 
-- **Code of Conduct & Setup**: Contributors must review the [code of conduct](https://github.com/supabase/.github/blob/main/CODE_OF_CONDUCT.md) and follow [DEVELOPERS.md](https://github.com/supabase/supabase/blob/master/DEVELOPERS.md) for local setup; docs contributions require following the [docs-specific guide](https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md).
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting rules.
 
-- **Issue & PR Workflow**: Bug reports require reproduction steps (screenshots/URLs preferred); PRs must link to existing Issues (if applicable), use the PR template, and pass `npm run build` and Prettier checks before submission.
+- Docs are authored in **MDX** with structured frontmatter (e.g., `title`, `hideToc`) and organized in `apps/docs/content`, while reference docs are auto-generated from spec files (`common-client-libs-sections.json`, `supabase_js_v2.yml`) via `$ref` transformations and library source code.
 
-- **Feature & PR Guidelines**: New features require prior discussion via [GitHub Discussions](https://github.com/orgs/supabase/discussions/new/choose); PRs for existing Issues follow a first-viable-PR policy, with priority given to `good first issue` labels for new contributors.
+- Contribution workflows include **partial reuse** (via `_partials/`), **component-based formatting** (admonitions, Mermaid diagrams, tabs), and strict **styling/grammar rules** (American English, Oxford comma, sentence-case headings) enforced by `supa-mdx-lint`.
 
 ## Why It Matters
 
@@ -37,15 +40,18 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:40:21.375263+05:30
+- Published: 2026-06-27T21:59:22.651413+05:30
 
 ## Related Tags
 
+- frontend_ui
+- openai
 - rag
 - reddit
 - web-crawled
 - workflows
+- youtube
 
 ## Source
 
-Original source: https://github.com/supabase/supabase/blob/master/CONTRIBUTING.md
+Original source: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md

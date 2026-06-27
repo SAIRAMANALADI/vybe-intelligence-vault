@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-27T16:42:23.896644+05:30'
-collected_at: '2026-06-27T16:42:23.896655+05:30'
+published_at: '2026-06-27T22:00:07.599119+05:30'
+collected_at: '2026-06-27T22:00:07.599130+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-27T16:42:23.896655+05:30'
-last_seen: '2026-06-27T16:42:23.896655+05:30'
-last_checked: '2026-06-27T16:42:23.896655+05:30'
+first_seen: '2026-06-27T22:00:07.599130+05:30'
+last_seen: '2026-06-27T22:00:07.599130+05:30'
+last_checked: '2026-06-27T22:00:07.599130+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
 
-- **Multimodal RAG Pipeline**: Demonstrates integration of vision and text modalities using Haystack’s multimodal components to enable cross-domain question answering.
+- **Agentic RAG with Fallback**: Demonstrates building a RAG pipeline with conditional routing to web search as a fallback mechanism, enhancing query resolution robustness.
 
-- **KV Cache Compression**: Introduces TurboQuant quantization for reducing memory footprint of LLMs, enabling deployment on consumer GPUs via Hugging Face integration.
+- **Multimodal RAG Pipeline**: Tutorial on constructing a vision+text RAG pipeline, enabling multimodal question answering grounded in both image and text data.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:42:23.896644+05:30
+- Published: 2026-06-27T22:00:07.599119+05:30
 
 ## Related Tags
 

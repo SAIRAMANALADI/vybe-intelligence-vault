@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated collection of community-driven resources (instructions, agents, skills, configurations) to optimize GitHub Copilot usage, hosted on GitHub with 35.8k+ stars and 4.4k+ forks.
-- **Technical Focus**: Primarily Python-based, emphasizing agent skills, custom agents, prompt engineering, and AI integration for enhanced Copilot functionality.
-- **Metadata**: Last updated June 27, 2026; includes topics like `hacktoberfest`, `awesome`, and `github-copilot` for discovery
+- **Curated GitHub Copilot Resources**: Repository aggregating community-driven instructions, agents, skills, and configurations to optimize GitHub Copilot usage, including custom agents and prompt engineering techniques.
+
+- **Multi-Topic Collection**: Features Python-based tools and resources spanning agent-skills, AI integration, hacktoberfest contributions, and advanced Copilot customization for enhanced productivity.
+
+- **Actively Maintained**: Last updated in June 2026, ensuring relevance w
 
 ## Use Cases
 

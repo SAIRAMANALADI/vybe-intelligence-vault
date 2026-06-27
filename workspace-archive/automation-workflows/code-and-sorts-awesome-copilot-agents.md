@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Aggregates GitHub Copilot custom instructions, prompts, skills, MCPs, and agent markdown files to optimize AI agent interactions.
-- **Technical Scope**: Covers agent-skills, prompt engineering, MCP integration, and VSCode Copilot Chat customization for advanced AI workflows.
-- **Repository Metrics**: 540 stars, 86 forks, TypeScript-based, last updated 2026-06-25.
+- **Curated Resource**: Repository hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI-assisted development workflows.
+- **Technical Scope**: Focuses on agent-skills, AI-agent orchestration, prompt engineering, and VS Code Copilot Chat integration, with TypeScript-based tooling and extensibility.
+- **Metadata**: 540 stars, 86 forks, last updated June 25, 2026, covering topics like `copilot-
 
 ## Use Cases
 

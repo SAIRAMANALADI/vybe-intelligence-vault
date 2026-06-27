@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-27T19:38:27.367989+05:30'
+collected_at: '2026-06-27T21:51:35.083783+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-27T19:38:27.367989+05:30'
-last_seen: '2026-06-27T19:38:27.367989+05:30'
-last_checked: '2026-06-27T19:38:27.367989+05:30'
+first_seen: '2026-06-27T21:51:35.083783+05:30'
+last_seen: '2026-06-27T21:51:35.083783+05:30'
+last_checked: '2026-06-27T21:51:35.083783+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time exploration of retrieval and generation dynamics.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive frontend, allowing users to inspect RAG components (e.g., retrieval mechanisms, LLM responses) through a browser-based dashboard.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically analyze RAG components (e.g., retrieval quality, context relevance) with Python-based visualizations.
 
-- **Python-Based Analysis**: Leverages Python for backend processing, supporting customizable RAG workflows and real-time visualization of data flows, retrieval accuracy, and model performance metrics.
+- **LLM & Python-Centric**: Designed for LLM workflows, leveraging Python libraries (e.g., `langchain`, `sentence-transformers`) to dissect and optimize RAG pipelines with 1,221+ GitHub stars and active 2026 maintenance.
 
 ## Why It Matters
 

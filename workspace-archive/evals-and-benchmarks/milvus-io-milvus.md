@@ -1,42 +1,42 @@
 ---
-title: milvus-io/milvus
+title: milvus-io/milvus · Discussions · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/milvus-io/milvus
+source_url: https://github.com/milvus-io/milvus/discussions
 resource_id: github:milvus-io/milvus
 local_vault_path: ai/rag/milvus-io-milvus.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
-- dataset
-- github-repo
-- go
+- benchmark
 - hackernews
+- openai
 - rag
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# milvus-io/milvus
+# milvus-io/milvus · Discussions · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Scalable Vector ANN Search Engine**: Milvus is a cloud-native, distributed vector database optimized for high-performance Approximate Nearest Neighbor (ANN) search, supporting billion-scale datasets with low latency.
-- **Multi-Index & Hybrid Search Support**: Implements multiple indexing algorithms (e.g., HNSW, DiskANN, FAISS) and hybrid search (vector + scalar filtering) for flexible and efficient similarity retrieval.
-- **Go-Based Architecture**: Built in Go for performance-critical compon
+- **Milvus GitHub Repository**: Open-source vector database with 45k+ stars, 4.1k+ forks, 713 open issues, and 207 pull requests; supports ARMv9 SVE BF16 via community discussions.
+- **Discussion Categories**: Active Q&A, feature requests, and announcements (e.g., Milvus Roadmap 2025) with unresolved threads on migration, performance evaluation, and ARM64 compatibility.
+- **Operational Concerns**: Community-reported issues include etcd corruption recovery, Pulsar retention policies, and collecti
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/milvus-io/milvus
+Original source URL: https://github.com/milvus-io/milvus/discussions
 
 ## Local Vault File
 

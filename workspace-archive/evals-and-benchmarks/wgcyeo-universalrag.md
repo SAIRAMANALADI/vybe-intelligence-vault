@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **UniversalRAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system designed to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and fusion mechanisms.
+- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle corpora across diverse modalities (text, images, tables) and granularities (document-level, chunk-level, entity-level) with a single architecture.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval strategy using modality-agnostic embeddings (e.g., CLIP-like encoders) and hierarchical indexing to dynamically adapt to varying granularity levels across he
+- **Key Innovation**: Implements modality-agnostic retrieval and fusion mechanisms, leveraging cross-modal embeddings and adaptive fusion strategies to dynamically integrate heterogeneous data sources during generation.
+
+- **P
 
 ## Use Cases
 

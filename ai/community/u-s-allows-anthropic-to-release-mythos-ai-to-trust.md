@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:u-s-allows-anthropic-to-release-mythos-ai-to-trust
 first_seen: '2026-06-27T09:47:00.171523+05:30'
 last_seen: '2026-06-27T19:37:06.711663+05:30'
 last_checked: '2026-06-27T19:37:06.711663+05:30'
 health_score: 100
 ---
+
 
 # U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-06-27T19:37:59.677749+05:30'
-collected_at: '2026-06-27T19:37:59.677759+05:30'
+published_at: '2026-06-27T21:51:07.181594+05:30'
+collected_at: '2026-06-27T21:51:07.181607+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-06-27T19:37:59.677759+05:30'
-last_seen: '2026-06-27T19:37:59.677759+05:30'
-last_checked: '2026-06-27T19:37:59.677759+05:30'
+first_seen: '2026-06-27T21:51:07.181607+05:30'
+last_seen: '2026-06-27T21:51:07.181607+05:30'
+last_checked: '2026-06-27T21:51:07.181607+05:30'
 health_score: 100
 ---
 
@@ -35,9 +35,9 @@ health_score: 100
 
 - **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterprise-grade reliability for LLM-based agentic RAG systems.
+- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterprise-grade reliability for LLM-powered RAG systems.
 
-- **Pipeline Components**: Includes a Retrieval Chain with a retriever tool, text splitting for document preprocessing, vector database ingestion (via Llama 3.2 EmbedQA 1b V2 embeddings), and reranking (via Llama 3.2 RerankQA 1b V2) to optimize context retrieval for grounded responses.
+- **Modular Pipeline Components**: Implements a structured workflow including text splitting, vector database ingestion, document retrieval/reranking, and agent configuration, with clear system prompts for role specification, tool utilization, grounding, and source citation.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:37:59.677749+05:30
+- Published: 2026-06-27T21:51:07.181594+05:30
 
 ## Related Tags
 

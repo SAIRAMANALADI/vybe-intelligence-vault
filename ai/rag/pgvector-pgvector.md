@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pgvector/pgvector
-collected_at: '2026-06-27T19:41:17.511360+05:30'
+collected_at: '2026-06-27T21:53:50.273813+05:30'
 published_at: '2026-06-27T11:56:23Z'
 tags:
 - c
 - github-repo
+- hackernews
 - rag
 - reddit
 stars: 21963
@@ -19,9 +20,9 @@ archived: false
 created_at: '2021-04-20T21:13:52Z'
 pushed_at: '2026-06-24T18:44:14Z'
 resource_id: github:pgvector/pgvector
-first_seen: '2026-06-27T19:41:17.511360+05:30'
-last_seen: '2026-06-27T19:41:17.511360+05:30'
-last_checked: '2026-06-27T19:41:17.511360+05:30'
+first_seen: '2026-06-27T21:53:50.273813+05:30'
+last_seen: '2026-06-27T21:53:50.273813+05:30'
+last_checked: '2026-06-27T21:53:50.273813+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends PostgreSQL with vector similarity search capabilities via an open-source extension written in C.
-- **Key Features**: Supports exact and approximate nearest neighbor search (ANN) for vector embeddings, enabling efficient similarity queries.
-- **Integration**: Operates as a PostgreSQL extension, allowing seamless deployment within existing PostgreSQL environments for AI/ML applications.
+- **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) queries for high-dimensional vectors.
+- **Implementation**: Written in C, integrates as a PostgreSQL extension, supporting L2 distance, inner product, and cosine distance metrics with optimized indexing (e.g., HNSW, IVFFlat).
+- **Features**: Supports exact and approximate search modes, vector storage up to 2^31 dimensions, and compatibility with PostgreSQL’s existing indexing and query execution frameworks.
 
 ## Why It Matters
 

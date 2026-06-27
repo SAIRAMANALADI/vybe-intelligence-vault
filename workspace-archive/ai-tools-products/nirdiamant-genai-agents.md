@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorial Repository**: Hosts 50+ technical implementations covering Generative AI agent techniques, ranging from basic conversational bots to advanced multi-agent systems.
+- **Comprehensive Tutorial Repository**: Hosts 50+ technical tutorials and implementations covering Generative AI agent techniques, ranging from basic conversational bots to advanced multi-agent systems, leveraging frameworks like LangChain, LangGraph, and MCP.
 
-- **Multi-Framework Support**: Demonstrates agentic AI workflows using LangChain, LangGraph, MCP, and integrates with OpenAI models, Python, and RAG pipelines.
+- **Multi-Framework & Multi-Tool Integration**: Demonstrates agentic AI workflows using Python, LLMs (e.g., OpenAI), RAG, and autonomous agent architectures, with practical examples in Jupyter Notebooks.
 
-- **Highly Active & Structured**: Maintained with recent updates (2026-06-27), 22.8K+ stars, and 3.8K+ forks, focusing on agent autonomy, multi-agen
+- **High Community Engagement**:
 
 ## Use Cases
 

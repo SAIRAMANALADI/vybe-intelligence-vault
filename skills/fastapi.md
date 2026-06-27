@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 183 resources matched in the intelligence vault.
+Active signals: 182 resources matched in the intelligence vault.
 Recently detected signals:
-- [electron/electron](../ai/rag/electron-electron.md) (Source: Unknown Source) - Collected 2026-06-27
-- [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) (Source: Unknown Source) - Collected 2026-06-27
-- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-27
-- [Changelog - Docs by LangChain](../ai/rag/changelog-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-27
-- [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](../ai/resources/project-jupyter-documentation-jupyter-documentatio.md) (Source: Unknown Source) - Collected 2026-06-27
+- [The Hugo CMS for visual page building | CloudCannon](../ai/agents/the-hugo-cms-for-visual-page-building-cloudcannon.md) (Source: Unknown Source) - Collected 2026-06-27
+- [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) (Source: Unknown Source) - Collected 2026-06-27
+- [zilliztech/attu](../ai/rag/zilliztech-attu.md) (Source: Unknown Source) - Collected 2026-06-27
+- [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md) (Source: Unknown Source) - Collected 2026-06-27
+- [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) (Source: Unknown Source) - Collected 2026-06-27
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -35,20 +35,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: pydantic/pydantic-ai
 
-### 2. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
+### 2. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Architecture**: Pre-configured full-stack template integrating FastAPI (backend) with Next.js (frontend), featuring AI Agents, Retrieval-Augmented Generation (RAG), real-time streaming, authent...
+- Description: - **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing...
 
-### 3. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+### 3. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **FastAPI + LangGraph Integration**: Provides a production-ready template for AI agent applications, combining FastAPI for REST endpoints with LangGraph for agent orchestration and workflow manag...
+- Description: - **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker for containerization.
 
-### 4. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
+### 4. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese Retrieval-Augmented Generation (RAG) using Python, focusing on efficient document retrieval and con...
+- Description: - **FastAPI + LangGraph Integration**: Pre-configured FastAPI template with LangGraph for building scalable AI agent services, supporting agentic workflows and LLM integration.
 
 ### 5. [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md) ([GitHub](https://github.com/vstorm-co/awesome-pydantic-ai))
 - Stars: 0
@@ -88,12 +88,12 @@ Recently detected signals:
 ### 12. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Template for deploying Retrieval-Augmented Generation (RAG) systems with FastAPI, enabling AI chatbots and document management via vector search.
+- Description: - **Purpose**: Provides a structured template for deploying Retrieval-Augmented Generation (RAG) systems with FastAPI, enabling AI chatbots and document management via vector search.
 
 ### 13. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic Workflow Platform**: Open-source, production-ready framework for building and deploying AI agents with orchestration, low-code/no-code capabilities, and support for RAG, MCP, and LLM in...
+- Description: - **Platform Overview**: Dify is a production-ready, open-source platform for building agentic workflows, enabling AI-driven automation with low-code/no-code tools.
 
 ### 14. [TracecatHQ/tracecat](../ai/rag/tracecathq-tracecat.md) ([GitHub](https://github.com/tracecathq/tracecat))
 - Stars: 0
@@ -115,80 +115,80 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **New Features**: v3.198.0 introduces UI/UX improvements (e.g., filter sidebar optimizations, Parquet export tuning, multi-select delete for datasets) and backend enhancements (e.g., ClickHouse q...
 
-### 18. [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) ([GitHub](https://github.com/quivrhq/quivr))
+### 18. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities w...
+- Description: - **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing scal...
 
-### 19. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using FastAPI, Python, and Docker.
-
-### 20. [microsoft/graphrag](../ai/rag/microsoft-graphrag.md) ([GitHub](https://github.com/microsoft/graphrag))
+### 19. [microsoft/graphrag](../ai/rag/microsoft-graphrag.md) ([GitHub](https://github.com/microsoft/graphrag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Modular Graph-Based RAG Framework**: Implements a graph-centric Retrieval-Augmented Generation (RAG) pipeline in Python, enabling structured knowledge extraction and reasoning over interconnect...
 
-### 21. [gomods/athens](../ai/rag/gomods-athens.md) ([GitHub](https://github.com/gomods/athens))
+### 20. [Cinnamon/kotaemon](../ai/rag/cinnamon-kotaemon.md) ([GitHub](https://github.com/cinnamon/kotaemon))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual query responses.
+
+### 21. [QuivrHQ/quivr](../ai/rag/quivrhq-quivr.md) ([GitHub](https://github.com/quivrhq/quivr))
+- Stars: 0
+- Language: Unknown
+- Description: - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities w...
+
+### 22. [pathwaycom/llm-app](../ai/rag/pathwaycom-llm-app.md) ([GitHub](https://github.com/pathwaycom/llm-app))
+- Stars: 0
+- Language: Unknown
+- Description: - **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization via Docker containers.
+
+### 23. [gomods/athens](../ai/rag/gomods-athens.md) ([GitHub](https://github.com/gomods/athens))
 - Stars: 0
 - Language: Unknown
 - Description: - **Go Module Proxy & Datastore**: Athens serves as a proxy server and datastore for Go modules, enabling efficient dependency management by caching and serving module files (go.mod, .zip) to Go to...
 
-### 22. [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) ([GitHub](https://github.com/mjunaidca/create-daca))
+### 24. [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) ([GitHub](https://github.com/mjunaidca/create-daca))
 - Stars: 0
 - Language: Unknown
 - Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
 
-### 23. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
-- Stars: 0
-- Language: Unknown
-- Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
-
-### 24. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
-- Stars: 0
-- Language: Unknown
-- Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
-
 ### 25. [onyx-dot-app/onyx](../ai/rag/onyx-dot-app-onyx.md) ([GitHub](https://github.com/onyx-dot-app/onyx))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-LLM Compatibility**: Open-source AI platform (`onyx`) enabling AI chat interactions across diverse LLMs with unified interface, supporting integration via API or local deployment.
+- Description: - **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
 
-### 26. [gabrielchua/RAGxplorer](../ai/rag/gabrielchua-ragxplorer.md) ([GitHub](https://github.com/gabrielchua/ragxplorer))
-- Stars: 0
-- Language: Unknown
-- Description: - **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration ...
-
-### 27. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
+### 26. [electron/electron](../ai/rag/electron-electron.md) ([GitHub](https://github.com/electron/electron))
 - Stars: 0
 - Language: Unknown
 - Description: - **Cross-platform desktop apps**: Electron enables development of native desktop applications using web technologies (JavaScript, HTML, CSS) with support for Windows, macOS, and Linux.
 
-### 28. [KruxAI/ragbuilder](../ai/rag/kruxai-ragbuilder.md) ([GitHub](https://github.com/kruxai/ragbuilder))
+### 27. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
 - Stars: 0
 - Language: Unknown
-- Description: - **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable workflows...
+- Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
 
-### 29. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([GitHub](https://github.com/microsoft/vscode))
+### 28. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
-- Description: - **Architecture**: VS Code is built on Electron (Chromium + Node.js) with a TypeScript-based frontend and backend, enabling cross-platform desktop application development.
+- Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 30. [huggingface/kernels-community](../ai/rag/huggingface-kernels-community.md) ([GitHub](https://github.com/huggingface/kernels-community))
+### 29. [huggingface/kernels-community](../ai/rag/huggingface-kernels-community.md) ([GitHub](https://github.com/huggingface/kernels-community))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Purpose**: Hosts kernel sources for the Hugging Face `kernels-community` space, enabling custom compute kernels for optimized ML/AI workloads.
 
-### 31. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 30. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 32. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 31. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
+
+### 32. [zilliztech/attu](../ai/rag/zilliztech-attu.md) ([GitHub](https://github.com/zilliztech/attu))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Attu is a **Graphical User Interface (GUI)** designed to simplify interactions with **Milvus**, an open-source vector database, by providing a user-friendly frontend for database ope...
 
 ### 33. [getsentry/sentry-python](../ai/resources/getsentry-sentry-python.md) ([GitHub](https://github.com/getsentry/sentry-python))
 - Stars: 0
@@ -250,4 +250,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-27T19:52:46.686093+05:30.141589+05:30.253693+05:30.214001+05:30.525155+05:30.745690+05:30.258818+05:30.780169+05:30.420984+05:30.419052+05:30.086467+05:30.538943+05:30.455074+05:30.905555+05:30.164624+05:30.082600+05:30.741819+05:30.001401+05:30.990811+05:30.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-27T22:05:54.474611+05:30.686093+05:30.141589+05:30.253693+05:30.214001+05:30.525155+05:30.745690+05:30.258818+05:30.780169+05:30.420984+05:30.419052+05:30.086467+05:30.538943+05:30.455074+05:30.905555+05:30.164624+05:30.082600+05:30.741819+05:30.001401+05:30.990811+05:30.015695+05:30.487002+05:30.638178+05:30.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

@@ -20,11 +20,11 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 217 resources matched in the intelligence vault.
 Recently detected signals:
-- [Changelog - Docs by LangChain](../ai/rag/changelog-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-27
 - [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) (Source: Unknown Source) - Collected 2026-06-27
-- [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) (Source: Unknown Source) - Collected 2026-06-27
 - [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) (Source: Unknown Source) - Collected 2026-06-27
-- [vercel/ai](../ai/agents/vercel-ai.md) (Source: Unknown Source) - Collected 2026-06-27
+- [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) (Source: Unknown Source) - Collected 2026-06-27
+- [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) (Source: Unknown Source) - Collected 2026-06-27
+- [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) (Source: Unknown Source) - Collected 2026-06-27
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -33,7 +33,7 @@ Recently detected signals:
 ### 1. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning, aligned ...
+- Description: - **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning.
 
 ### 2. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
 - Stars: 0
@@ -45,15 +45,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 4. [ali-bahrainian/RAG_best_practices](../ai/rag/ali-bahrainian-rag-best-practices.md) ([GitHub](https://github.com/ali-bahrainian/rag_best_practices))
+### 4. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations or guidelines.
+- Description: - **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without abstracted libraries or...
 
-### 5. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
+### 5. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility and avoiding abstracted solutions.
+- Description: - **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing scal...
 
 ### 6. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
 - Stars: 0
@@ -73,24 +73,19 @@ Recently detected signals:
 ### 9. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) compiling GitHub Copilot AI enhancement materials, including instructions, prompts, skills, MCPs, and agent mar...
+- Description: - **Curated Resource**: Repository hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI-ass...
 
-### 10. [vercel/ai](../ai/agents/vercel-ai.md) ([GitHub](https://github.com/vercel/ai))
-- Stars: 0
-- Language: Unknown
-- Description: - **AI SDK**: Open-source TypeScript library for building AI-powered apps and agents, supporting models from OpenAI, Anthropic, Gemini, and others.
-
-### 11. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
+### 10. [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](../ai/resources/lm-sys-fastchat.md) ([GitHub](https://github.com/lm-sys/fastchat))
 - Stars: 0
 - Language: Unknown
 - Description: - **FastChat** is an open-source framework from `lm-sys` (4.8k forks, 39.5k stars) designed for evaluating LLM responses, with structured prompts for pairwise and single-judge evaluations across ge...
 
-### 12. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
+### 11. [github/awesome-copilot](../ai/agents/github-awesome-copilot.md) ([GitHub](https://github.com/github/awesome-copilot))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: Curated collection of community-driven resources (instructions, agents, skills, configurations) to optimize GitHub Copilot usage, hosted on GitHub with 35.8k+ stars and 4...
+- Description: - **Curated GitHub Copilot Resources**: Repository aggregating community-driven instructions, agents, skills, and configurations to optimize GitHub Copilot usage, including custom agents and prompt...
 
-### 13. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
+### 12. [stanfordnlp/dspy](../ai/resources/stanfordnlp-dspy.md) ([GitHub](https://github.com/stanfordnlp/dspy))
 - Stars: 0
 - Language: Unknown
 - Description: - **Programmatic LM Optimization**: DSPy introduces a programming model to replace manual prompt engineering, enabling structured optimization of language model (LM) pipelines via declarative modul...
@@ -115,4 +110,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-27T19:52:46.016487+05:30.466119+05:30.587504+05:30.557388+05:30.875155+05:30.096464+05:30.599818+05:30.085236+05:30.752415+05:30.772803+05:30.502035+05:30.953011+05:30.882415+05:30.319828+05:30.612588+05:30.573867+05:30.238346+05:30.535710+05:30.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-27T22:05:53.805933+05:30.016487+05:30.466119+05:30.587504+05:30.557388+05:30.875155+05:30.096464+05:30.599818+05:30.085236+05:30.752415+05:30.772803+05:30.502035+05:30.953011+05:30.882415+05:30.319828+05:30.612588+05:30.573867+05:30.238346+05:30.535710+05:30.554991+05:30.734002+05:30.062030+05:30.168152+05:30.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

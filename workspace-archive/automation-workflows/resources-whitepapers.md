@@ -9,10 +9,11 @@ local_vault_path: ai/rag/resources-whitepapers.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 - hackernews
 - paper
 - rag
@@ -31,18 +32,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Gartner 2025 Magic Quadrant**: GitHub recognized as a Leader in AI Code Assistants for the second consecutive year, excelling in both *Ability to Execute* and *Completeness of Vision*, alongside Amazon and Cognition (Windsurf).
-
-- **AI Adoption Projection**: Gartner forecasts 90% of enterprise software engineers will use AI code assistants by 2028, up from <14% in early 2024, driven by GitHub Copilot’s integration into developer workflows.
-
-- **GitHub’s Strategic Approach**: Centralizes AI a
+- **Gartner 2025 Magic Quadrant**: GitHub ranked as a **Leader** in AI Code Assistants, excelling in both **Ability to Execute** and **Completeness of Vision**, per Gartner’s September 2025 evaluation.
+- **AI Adoption Forecast**: Gartner projects **90% of enterprise software engineers** will use AI code assistants by **2028**, up from **<14% in early 2024**.
+- **GitHub’s Strategic Approach**: Centralizes AI adoption via **GitHub Copilot integration**, **Agent Mode**, and **GitHub Enterprise Clou
 
 ## Use Cases
 

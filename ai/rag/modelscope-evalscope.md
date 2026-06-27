@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-27T19:39:07.460321+05:30'
-published_at: '2026-06-26T18:55:44Z'
+collected_at: '2026-06-27T21:52:15.210812+05:30'
+published_at: '2026-06-27T15:04:03Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
-stars: 2992
+- workflows
+stars: 2993
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-06-26T06:48:08Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-27T19:39:07.460321+05:30'
-last_seen: '2026-06-27T19:39:07.460321+05:30'
-last_checked: '2026-06-27T19:39:07.460321+05:30'
+first_seen: '2026-06-27T21:52:15.210812+05:30'
+last_seen: '2026-06-27T21:52:15.210812+05:30'
+last_checked: '2026-06-27T21:52:15.210812+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined, customizable Python framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG and performance metrics.
-- **Repository Stats**: 2,992 stars, 408 forks, last updated 2026-06-26.
-- **Key Features**: Modular design for efficient evaluation, extensible for diverse model types and tasks.
+- **Framework Purpose**: Designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable workflows.
+- **Key Features**: Supports modular evaluation pipelines for tasks like RAG, performance metrics, and multi-modal model assessment.
+- **Technical Stack**: Python-based, optimized for extensibility and integration with model evaluation workflows.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: modelscope
-- Stars: 2992
+- Stars: 2993
 - Forks: 408
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-06-26T18:55:44Z
+- Last Updated: 2026-06-27T15:04:03Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

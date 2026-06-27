@@ -1,8 +1,9 @@
 ---
-title: deepset-ai/haystack
+title: haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack
+  · GitHub
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack?source=post_page
+source_url: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -10,12 +11,20 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- anthropic
+- hackernews
+- openai
+- rag
+- reddit
+- web-crawled
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack · GitHub
 
 ## Why This Is In The Archive
 
@@ -28,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Open-source AI orchestration tool for constructing production-grade LLM applications with modular pipelines and agent workflows, enabling explicit control over retrieval, routing, memory, and generation processes.
-
-- **Technical Capabilities**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and transformer-based architectures.
-
-- **Key Features**: Designed for information retrieval, questio
+- **Open-source AI orchestration framework** for building production-grade LLM applications (AI Agents, RAG systems, multimodal search) with modular components and pipelines.
+- **Modular architecture** leveraging integrations with LLMs (OpenAI, Google, Anthropic) and open-source models (Hugging Face Transformers), supported by Document Stores, Agents, and Tools.
+- **Scalable and customizable** with enterprise-grade extensions (Haystack Enterprise Starter/Platform) for deployment, governance, and
 
 ## Use Cases
 
@@ -42,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack?source=post_page
+Original source URL: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
 
 ## Local Vault File
 

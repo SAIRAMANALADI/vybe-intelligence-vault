@@ -8,7 +8,7 @@ local_vault_path: ai/rag/fudandnn-nlp-rag.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -20,7 +20,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # FudanDNN-NLP/RAG
@@ -29,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Implementation**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices as outlined in the EMNLP 2024 paper.
+- **Implementation**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques evaluated in the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation," focusing on optimizing RAG pipelines.
 
-- **Key Features**: Includes modular components for retrieval, reranking, and generation, enabling flexible experimentation with different RAG pipelines.
+- **Key Features**: Includes modular components for retrieval, reranking, and generation, with benchmarking scripts to compare different RAG configurations and hyperparameters.
 
-- **Evaluation Framework**: Supports benchmarking across standard datasets with configurable hyperparameters for reproducibility and performance optimizatio
+- **Updates & Usage**: Last updated June 2026; designed for
 
 ## Use Cases
 

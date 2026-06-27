@@ -7,9 +7,9 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -32,8 +32,8 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference

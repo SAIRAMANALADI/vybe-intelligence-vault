@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-27T19:38:12.458623+05:30'
+collected_at: '2026-06-27T21:51:20.164091+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - rag
-- scripts
 - workflows
 stars: 313
 language: Python
@@ -22,9 +21,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-27T19:38:12.458623+05:30'
-last_seen: '2026-06-27T19:38:12.458623+05:30'
-last_checked: '2026-06-27T19:38:12.458623+05:30'
+first_seen: '2026-06-27T21:51:20.164091+05:30'
+last_seen: '2026-06-27T21:51:20.164091+05:30'
+last_checked: '2026-06-27T21:51:20.164091+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven document analysis and synthesis workflows.
-
-- **Technical Stack**: Implements Python-based RAG pipelines leveraging LangChain’s modular components (e.g., document loaders, vector stores, LLMs) for end-to-end research automation.
-
-- **Repository Status**: Actively maintained (last updated June 2026) with 313 stars and 72 forks, indicating community adoption for scalable RAG agent development.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+- **Technical Stack**: Python-based implementation leveraging LangChain's modular framework for document retrieval, LLM integration, and agent orchestration.
+- **Key Features**: Includes pre-configured components for indexing, querying, and agent workflows; last updated June 2026 with active community forks (72) and stars (313).
 
 ## Why It Matters
 

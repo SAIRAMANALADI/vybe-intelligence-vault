@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-06-27T19:40:32.460543+05:30'
-published_at: '2026-06-26T16:41:31Z'
+collected_at: '2026-06-27T21:53:40.209899+05:30'
+published_at: '2026-06-27T14:31:09Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
-stars: 33
+stars: 34
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-06-26T16:41:27Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-06-27T19:40:32.460543+05:30'
-last_seen: '2026-06-27T19:40:32.460543+05:30'
-last_checked: '2026-06-27T19:40:32.460543+05:30'
+first_seen: '2026-06-27T21:53:40.209899+05:30'
+last_seen: '2026-06-27T21:53:40.209899+05:30'
+last_checked: '2026-06-27T21:53:40.209899+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection** of frameworks, tools, and best practices for **voice AI agents**, covering **STT (Speech-to-Text)**, **TTS (Text-to-Speech)**, **VAD (Voice Activity Detection)**, **voice cloning**, **conversion**, and **synthesis**.
-- **Topics include** real-time chat integration, voice recognition, and voice assistant/agent development, with resources for **multi-modal agent architectures**.
-- **Last updated June 2026**, maintained by **yzfly**, with **33 stars** and **15 forks** as of the snapshot.
+- **Curated list** of voice AI agent frameworks, tools, and best practices, covering **STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis**.
+- **Topics** include realtime chat, voice assistants, and agentic systems, with resources for **voice activity detection (VAD)** and multi-modal interactions.
+- **Last updated** June 27, 2026; repository has **34 stars** and **15 forks**, indicating niche but active interest in voice agent technologies.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: yzfly
-- Stars: 33
+- Stars: 34
 - Forks: 15
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
-- Last Updated: 2026-06-26T16:41:31Z
+- Last Updated: 2026-06-27T14:31:09Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-11-03T02:20:30Z

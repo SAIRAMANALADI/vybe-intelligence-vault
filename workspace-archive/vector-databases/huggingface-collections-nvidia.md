@@ -8,16 +8,15 @@ local_vault_path: ai/rag/huggingface-collections-nvidia.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - hackernews
 - models
 - rag
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # NVIDIA Nemotron V2 - a nvidia Collection
@@ -26,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Model Architecture & Scale**: Nemotron-Nano-12B-v2 is a 12-billion-parameter text generation model optimized for efficiency and performance, leveraging NVIDIA's proprietary architecture for high-throughput inference.
+- **Model Specifications**: Nemotron-Nano-12B-v2 is a 12-billion-parameter text generation model optimized for efficiency and performance, released by NVIDIA on November 25, 2025.
 
-- **Training & Optimization**: Fine-tuned for low-latency, high-quality generation with optimized attention mechanisms and quantization techniques, enabling deployment on consumer-grade GPUs.
+- **Architecture & Training**: Built on a transformer-based architecture, it leverages advanced techniques (e.g., sparse attention, quantization-aware training) to balance computational cost and output quality.
 
-- **Performance Benchmarks**: Achieves competitive results on standard LLM benchmarks
+- **Deployment & Use Case**: Designed for low-latency inference, it targets edge/on-device applications whi
 
 ## Use Cases
 

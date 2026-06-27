@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - go
+- hackernews
 - rag
 - workflows
 selection_reason:
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Engine**: Open-source Retrieval-Augmented Generation (RAG) system integrating advanced RAG with agentic capabilities to enhance LLM context processing via a modular, extensible architecture.
-
-- **Multi-Language Support**: Primarily implemented in Go, with additional components in Python/JavaScript for agent orchestration, document parsing, and LLM interaction.
-
-- **Enterprise-Grade Features**: Supports structured/unstructured data ingestion, dynamic context management, and agenti
+- **RAGFlow**: Open-source RAG engine integrating advanced RAG with Agent capabilities to enhance LLM context layers via a unified retrieval-augmented pipeline.
+- **Technical Stack**: Implemented in Go, supporting agentic retrieval/search, context management, and LLM application integration with modular architecture.
+- **Features**: Supports dynamic context fusion, agentic workflows, and scalable retrieval mechanisms; last updated June 2026 with 83K+ stars and 9.7K+ forks.
 
 ## Use Cases
 

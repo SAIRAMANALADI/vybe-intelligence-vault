@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T19:38:12.466361+05:30'
+collected_at: '2026-06-27T21:51:20.160238+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T19:38:12.466361+05:30'
-last_seen: '2026-06-27T19:38:12.466361+05:30'
-last_checked: '2026-06-27T19:38:12.466361+05:30'
+first_seen: '2026-06-27T21:51:20.160238+05:30'
+last_seen: '2026-06-27T21:51:20.160238+05:30'
+last_checked: '2026-06-27T21:51:20.160238+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, designed for simplicity and modularity in integrating retrieval mechanisms with generative models.
+- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, embedding, retrieval, and generation, demonstrated via Jupyter Notebooks.
 
-- **Key Components**: Includes pre-built pipelines for document ingestion, embedding generation (e.g., via Sentence-BERT or similar), vector storage (e.g., FAISS or Chroma), and query processing with LLM integration (e.g., LangChain or HuggingFace).
+- **Technical Stack**: Utilizes Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for vector storage, embeddings, and LLM integration, ensuring reproducibility and ease of deployment.
 
-- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, covering indexing, retrieval strategies (e.g., dense vs. sparse), and evaluation metrics (e.g., hit rate, MRR) for benchmarking performance.
+- **Tutorial Focus**: Provides step-by-step guides on constructing RAG pipelines, including preprocessing, indexing, querying, and evaluation, with examples for trans-platform compatibility (Windows/Linux/macOS).
 
 ## Why It Matters
 

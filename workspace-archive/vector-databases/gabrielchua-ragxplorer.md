@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved context.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling real-time exploration of retrieval and generation dynamics.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive frontend, allowing users to inspect RAG components (e.g., retrieval mechanisms, LLM responses) through a browser-based dashboard.
+- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically analyze RAG components (e.g., retrieval quality, context relevance) with Python-based visualizations.
 
-- **Python-Based Analysis**: Leverages Python for backend p
+- **LLM & Python-Centric**: Designed for LLM w
 
 ## Use Cases
 

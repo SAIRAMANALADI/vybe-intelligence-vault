@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Enables end-to-end development, deployment, and monitoring of AI-powered applications with support for prototyping, production scaling, and lifecycle management.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, deployment, and monitoring of AI-powered applications, from prototyping to large-scale production, with integrated data handling and model management.
 
-- **Modular RAG & Agentic Pipelines**: Facilitates building advanced retrieval-augmented generation (RAG) systems and autonomous AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic integrations.
+- **Modular RAG & Agentic Pipelines**: Supports building advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and model-agnostic flexibility.
 
-- **Observability & Dep
+- **Enterprise Ob
 
 ## Use Cases
 

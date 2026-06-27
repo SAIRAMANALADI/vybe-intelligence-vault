@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/arize-ai/phoenix
-collected_at: '2026-06-27T16:34:51.183132+05:30'
-published_at: '2026-06-27T10:03:51Z'
+collected_at: '2026-06-27T21:50:16.775249+05:30'
+published_at: '2026-06-27T15:01:01Z'
 tags:
 - agents
 - anthropic
@@ -15,13 +15,13 @@ tags:
 - models
 - openai
 - rag
-stars: 10295
+stars: 10296
 language: Python
 status: active
 resource_id: github:arize-ai/phoenix
 first_seen: '2026-06-18T23:35:18.966700+05:30'
-last_seen: '2026-06-27T16:34:51.183132+05:30'
-last_checked: '2026-06-27T16:34:51.183132+05:30'
+last_seen: '2026-06-27T21:50:16.775249+05:30'
+last_checked: '2026-06-27T21:50:16.775249+05:30'
 health_score: 100
 ---
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Arize-ai
-- Stars: 10295
+- Stars: 10296
 - Forks: 944
 - Language: Python
 - Topics: agents, ai-monitoring, ai-observability, aiengineering, anthropic, datasets, evals, langchain, llamaindex, llm-eval, llm-evaluation, llmops, llms, openai, prompt-engineering, smolagents
-- Last Updated: 2026-06-27T10:03:51Z
+- Last Updated: 2026-06-27T15:01:01Z
 
 ## Possible Use Cases
 

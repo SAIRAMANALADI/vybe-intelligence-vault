@@ -1,0 +1,54 @@
+---
+title: Andrew-Jang/RAGHub
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/Andrew-Jang/RAGHub
+resource_id: github:andrew-jang/raghub
+local_vault_path: ai/rag/andrew-jang-raghub.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- github-repo
+- hackernews
+- models
+- rag
+- unknown
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Andrew-Jang/RAGHub
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
+- **Metadata**: 1,930 stars, 181 forks, last updated 2026-06-27; supports AI/ML/NLP domains with topics including LLMs, open-source tools, and RAG-specific implementations.
+- **Technical Scope**: Encompasses large language models (LLMs), natural language processing (NLP), and machin
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/Andrew-Jang/RAGHub
+
+## Local Vault File
+
+Path: [andrew-jang-raghub.md](../../ai/rag/andrew-jang-raghub.md)
