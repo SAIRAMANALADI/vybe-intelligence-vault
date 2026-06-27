@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 19:54 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 20:50 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](ai/community/u-s-allows-anthropic-to-release-mythos-ai-to-trust.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • <kbd>+34 pts</kbd>
-- 🔼 **[Anatomy of a Failed (Nation-State?) Attack](ai/community/anatomy-of-a-failed-nation-state-attack.md)** • <kbd>+31 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[AI in mathematics is forcing big questions](ai/community/ai-in-mathematics-is-forcing-big-questions.md)** • <kbd>+25 pts</kbd>
-- 🔼 **[electron/electron](ai/rag/electron-electron.md)** • Rank: <kbd>+346</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** • Score: `511`
-- 🆕 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • Score: `23`
-- 🆕 **[Task Failed Successfully: Saturating NIC and Disk Bandwidth](ai/community/task-failed-successfully-saturating-nic-and-disk-b.md)** • Score: `7`
-- 🆕 **[VivekMalhan666/Toasts-library](ai/resources/vivekmalhan666-toasts-library.md)** • Score: `0`
-- 🆕 **[VivekMalhan666/npm-package-combobox](ai/resources/vivekmalhan666-npm-package-combobox.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)**
-- 💤 **[Show HN: Hacker News on a train station-style flip board](ai/community/show-hn-hacker-news-on-a-train-station-style-flip.md)**
-- 💤 **[alchaincyf/zhangxuefeng-skill](ai/trending/alchaincyf-zhangxuefeng-skill.md)**
-- 💤 **[grafana/grafana](ai/trending/grafana-grafana.md)**
-- 💤 **[opendatalab/MinerU](ai/agents/opendatalab-mineru.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
