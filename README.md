@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 14:37 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 15:38 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](ai/community/u-s-allows-anthropic-to-release-mythos-ai-to-trust.md)** • <kbd>+120 pts</kbd>
-- 🔼 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • <kbd>+51 pts</kbd>
-- 🔼 **[AI in mathematics is forcing big questions](ai/community/ai-in-mathematics-is-forcing-big-questions.md)** • <kbd>+40 pts</kbd>
-- 🔼 **[Show HN: Hacker News on a train station-style flip board](ai/community/show-hn-hacker-news-on-a-train-station-style-flip.md)** • <kbd>+35 pts</kbd>
-- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+21 pts</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+7</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+3</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Anatomy of a Failed (Nation-State?) Attack](ai/community/anatomy-of-a-failed-nation-state-attack.md)** • Score: `49`
-- 🆕 **[Apple Design Awards - 2026 winners and finalists - Apple Developer](ai/rag/apple-design-awards-2026-winners-and-finalists-app.md)** • Score: `0`
-- 🆕 **[Contact the Google Disability Support team - Google Accessibility Help](ai/agents/contact-the-google-disability-support-team-google.md)** • Score: `0`
-- 🆕 **[Google Fi Wireless for Phone Plans & Mobile Phone Deals](ai/rag/google-fi-wireless-for-phone-plans-mobile-phone-de.md)** • Score: `0`
-- 🆕 **[Google For Families Help](ai/resources/google-for-families-help.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Ask HN: MacBook vs. Dedicated GPU for LLM](ai/community/ask-hn-macbook-vs-dedicated-gpu-for-llm.md)**
-- 💤 **[Kamod Hooks – a Preact hooks library ported from ahooks](web-development/community/kamod-hooks-a-preact-hooks-library-ported-from-aho.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
