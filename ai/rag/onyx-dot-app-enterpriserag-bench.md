@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-27T04:09:08.405474+05:30'
+collected_at: '2026-06-27T09:49:08.499758+05:30'
 published_at: '2026-06-26T15:53:54Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 424
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-27T04:09:08.405474+05:30'
-last_seen: '2026-06-27T04:09:08.405474+05:30'
-last_checked: '2026-06-27T04:09:08.405474+05:30'
+first_seen: '2026-06-27T09:49:08.499758+05:30'
+last_seen: '2026-06-27T09:49:08.499758+05:30'
+last_checked: '2026-06-27T09:49:08.499758+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,14 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a structured dataset and evaluation framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling standardized performance assessment.
+- **Purpose**: Provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling assessment of enterprise-specific retrieval and generation performance.
 
-- **Synthetic Data Generation**: Implements synthetic data generation techniques to create diverse, realistic enterprise document-query pairs for robust RAG model training and evaluation.
+- **Features**:
+  - Includes synthetic and real-world data for RAG evaluation.
+  - Covers metrics for information retrieval, semantic search, and LLM-based question answering.
+  - Supports Python-based evaluation frameworks for large language models (LLMs).
 
-- **Multi-Topic Evaluation**: Covers 19 technical topics (e.g., semantic search, LLM evaluation, knowledge base integration) to assess RAG systems across enterprise-specific use cases like information retrieval and generative AI.
+- **Scope**: Focuses on enterprise search, knowledge base integration, and generative AI applications, with tools for benchmarking and synthetic data generation.
 
 ## Why It Matters
 

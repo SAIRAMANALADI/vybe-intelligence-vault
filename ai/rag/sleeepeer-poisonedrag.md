@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-27T04:09:13.339235+05:30'
+collected_at: '2026-06-27T09:49:13.404505+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-27T04:09:13.339235+05:30'
-last_seen: '2026-06-27T04:09:13.339235+05:30'
-last_checked: '2026-06-27T04:09:13.339235+05:30'
+first_seen: '2026-06-27T09:49:13.404505+05:30'
+last_seen: '2026-06-27T09:49:13.404505+05:30'
+last_checked: '2026-06-27T09:49:13.404505+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval corpus to mislead LLMs into generating adversarial outputs.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval database, causing LLMs to generate incorrect or biased outputs while maintaining high retrieval relevance.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines via *semantic poisoning*—embedding adversarial documents that alter retrieval rankings and induce incorrect or harmful responses from downstream LLMs.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that trigger specific retrieval patterns, enabling attackers to manipulate model responses without direct access to the LLM, validated against multiple state-of-the-art RAG architectures.
 
-- **Mitigation Challenges**: Highlights the difficulty of defending against such attacks due to reliance on untrusted external corpora, proposing preliminary detection and filtering strategies to mitigate poisoning risks.
+- **Security Implications**: Highlights critical trustworthiness risks in RAG-based systems, proposing mitigation strategies (e.g., retrieval sanitization, anomaly detection) and emphasizing the need for robust adversarial defenses in production deployments.
 
 ## Why It Matters
 

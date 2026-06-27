@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-06-27T04:09:48.466344+05:30'
+collected_at: '2026-06-27T09:49:48.429528+05:30'
 published_at: '2026-06-26T20:24:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - typescript
-- workflows
 stars: 8208
 language: TypeScript
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-06-27T04:09:48.466344+05:30'
-last_seen: '2026-06-27T04:09:48.466344+05:30'
-last_checked: '2026-06-27T04:09:48.466344+05:30'
+first_seen: '2026-06-27T09:49:48.429528+05:30'
+last_seen: '2026-06-27T09:49:48.429528+05:30'
+last_checked: '2026-06-27T09:49:48.429528+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide real-time, accurate GitHub repository data to AI agents, mitigating code hallucinations in LLM-based tools.
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) via the MCP framework, facilitating direct access to GitHub projects without local cloning.
-- **Functionality**: Acts as a bridge between AI agents and GitHub repositories, supporting real-time queries (e.g., file content, commit history, issues) while maintaining low-latency performance for agentic workflows.
+- **GitMCP Server**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository for AI agents, designed to mitigate code hallucinations by providing accurate, real-time Git data.
+- **Integration & Use Cases**: Supports agentic AI tools (Claude, Copilot, Cursor) via MCP protocol, facilitating secure, structured interactions with GitHub projects for code analysis, automation, and collaboration.
+- **Technical Features**: Exposes Git operations (commits, branches, diffs) through a standardized MCP interface, optimized for low-latency remote execution and extensible via TypeScript plugins.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-27T04:08:53.370208+05:30'
+collected_at: '2026-06-27T09:48:53.422512+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
 - github-repo
 - hackernews
-- paper
 - rag
 - unknown
 stars: 1340
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-27T04:08:53.370208+05:30'
-last_seen: '2026-06-27T04:08:53.370208+05:30'
-last_checked: '2026-06-27T04:08:53.370208+05:30'
+first_seen: '2026-06-27T09:48:53.422512+05:30'
+last_seen: '2026-06-27T09:48:53.422512+05:30'
+last_checked: '2026-06-27T09:48:53.422512+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A comprehensive, community-maintained repository aggregating advanced techniques, tools, and research papers on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including embeddings, retrieval mechanisms, and hybrid architectures.
-
-- **Technical scope**: Covers **RAG-specific topics** such as retrieval strategies (dense/sparse embeddings, hybrid retrieval), RAG-embedding models, and integration frameworks for enhancing LLM factuality, contextual grounding, and long-form generation.
-
-- **Updated ecosystem**: Actively maintained with recent contributions (last updated **June 2026**), featuring 1,340+ stars and 84 forks, indicating a growing focus on **scalable, efficient RAG pipelines** for production-grade LLM applications.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research for **Large Language Models (LLMs)**.
+- **Technical focus**: Encompasses **embeddings**, **retrieval mechanisms**, and **RAG-specific optimizations** (e.g., retrieval-information strategies, RAG-embeddings).
+- **Maintained collection**: Last updated **June 2026**, with **1,340 stars** and **84 forks**, covering topics like **LLM integration**, **information retrieval**, and **embedding-based augmentation**.
 
 ## Why It Matters
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/mercadolibre-tech/building-a-large-scale-observability-ecosystem-1edf654b249e
-published_at: '2026-06-27T04:18:17.879269+05:30'
-collected_at: '2026-06-27T04:18:17.879281+05:30'
+published_at: '2026-06-27T09:57:23.048773+05:30'
+collected_at: '2026-06-27T09:57:23.048783+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-a-large-scale-observability-ecosystem-by
-first_seen: '2026-06-27T04:18:17.879281+05:30'
-last_seen: '2026-06-27T04:18:17.879281+05:30'
-last_checked: '2026-06-27T04:18:17.879281+05:30'
+first_seen: '2026-06-27T09:57:23.048783+05:30'
+last_seen: '2026-06-27T09:57:23.048783+05:30'
+last_checked: '2026-06-27T09:57:23.048783+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Observability Framework**: Mercado Libre implemented an observability maturity model to assess and improve system reliability, resilience, and troubleshooting capabilities, focusing on telemetry standardization, correlation, and visualization across 100+ microservices and 1,000+ operations.
-
-- **OpenTelemetry Adoption**: Standardized telemetry data using OpenTelemetry to mitigate vendor lock-in, enabling vendor-neutral, tool-agnostic instrumentation for logs, metrics, traces, and profiles while establishing unified APIs and naming conventions.
-
-- **Telemetry Signal Expansion**: Introduced distributed tracing and profiling within the Fury platform to enhance failure diagnosis and performance bottleneck identification, alongside a "First Pane of Glass" solution for centralized cross-company visibility.
+- **Observability Framework**: Mercado Libre established a dedicated platform team to standardize telemetry data using **OpenTelemetry**, mitigating vendor lock-in and ensuring vendor-neutral, tool-agnostic instrumentation for logs, metrics, traces, and profiles.
+- **Scalability & Standardization**: Redesigned logging solutions and implemented governance mechanisms to address tool overlap, reduce noise, and optimize telemetry data management for large-scale distributed systems (>100 microservices, >1,000 operations).
+- **Telemetry Expansion**: Introduced **distributed tracing** and **continuous profiling** to enhance diagnostic capabilities, alongside a unified "First Pane of Glass" for centralized visibility and cross-team correlation of telemetry signals.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:18:17.879269+05:30
+- Published: 2026-06-27T09:57:23.048773+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-27T04:07:59.599868+05:30'
-collected_at: '2026-06-27T04:07:59.599877+05:30'
+published_at: '2026-06-27T09:47:59.070456+05:30'
+collected_at: '2026-06-27T09:47:59.070469+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-27T04:07:59.599877+05:30'
-last_seen: '2026-06-27T04:07:59.599877+05:30'
-last_checked: '2026-06-27T04:07:59.599877+05:30'
+first_seen: '2026-06-27T09:47:59.070469+05:30'
+last_seen: '2026-06-27T09:47:59.070469+05:30'
+last_checked: '2026-06-27T09:47:59.070469+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with a generator (LLM), using embeddings, vector stores (ANN indexes like HNSW), and optional rerankers (cross-encoders) to fetch and condition generation on external context, improving factuality and reducing hallucinations.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where the retriever fetches external context to ground the LLM’s output, improving factuality and reducing hallucinations without retraining the LLM.
 
-- **Chunking & Embedding Optimization**: Effective RAG relies on semantic/structure-aware chunking (e.g., preserving paragraphs) with overlap, domain-specific embedding fine-tuning (query-document pairs), and hybrid retrieval (BM25 + vector fusion) to balance precision and recall.
+- **Key Technical Components**:
+  - **Chunking**: Critical for retrieval quality; strategies include fixed-size with overlap, semantic, and structure-aware chunking to preserve coherence.
+  - **Hybrid Retrieval**: Combines BM25 (lexical) and vector search (ANN indexes like HNSW) with score normalization and fusion for higher precision/recall.
 
-- **Advanced Techniques**: Multi-hop iterative retrieval (decomposing queries), context distillation (LLM-based summarization of retrieved chunks), and retrieval-aware fine-tuning (end-to-end training of retriever + generator) enhance reasoning and reduce noise in long-form generation.
+- **Advanced Optimization**:
+  - **Reranking**: Two-stage retrieval using cross-encoders (high precision) on top-K candidates, with distillation to lighter rerankers for efficiency.
+  - **Multi-Hop & Iterative Retrieval**: Decomposes complex queries into sub-queries, leveraging graph-based (GraphRAG) or agentic workflows for structured reasoning.
 
 ## Why It Matters
 
@@ -45,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:07:59.599868+05:30
+- Published: 2026-06-27T09:47:59.070456+05:30
 
 ## Related Tags
 

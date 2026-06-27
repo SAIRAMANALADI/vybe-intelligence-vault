@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-06-27T04:08:03.325677+05:30'
-published_at: '2026-06-26T22:19:42Z'
+collected_at: '2026-06-27T09:48:03.346091+05:30'
+published_at: '2026-06-27T04:08:28Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-stars: 36074
+- workflows
+stars: 36085
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-06-08T11:18:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-06-27T04:08:03.325677+05:30'
-last_seen: '2026-06-27T04:08:03.325677+05:30'
-last_checked: '2026-06-27T04:08:03.325677+05:30'
+first_seen: '2026-06-27T09:48:03.346091+05:30'
+last_seen: '2026-06-27T09:48:03.346091+05:30'
+last_checked: '2026-06-27T09:48:03.346091+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,074 stars and 5,981 forks, focused on AI engineering tutorials using Jupyter Notebooks.
-- **Core Topics**: Covers LLMs, RAGs, AI agents, machine learning, and MCP (Model Context Protocol) with real-world applications.
-- **Last Updated**: June 26, 2026, indicating active maintenance and recent content updates.
+*   Provides in-depth, practical tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and AI agent development.
+*   Content is delivered primarily via Jupyter Notebooks, emphasizing a hands-on, code-centric approach to AI engineering.
+*   Covers real-world applications of advanced AI systems, focusing on operationalizing LLMs and RAG for agentic workflows.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36074
-- Forks: 5981
+- Stars: 36085
+- Forks: 5984
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-06-26T22:19:42Z
+- Last Updated: 2026-06-27T04:08:28Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

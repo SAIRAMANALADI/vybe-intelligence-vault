@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/open-agents
-collected_at: '2026-06-27T04:09:58.497635+05:30'
+collected_at: '2026-06-27T09:50:03.509612+05:30'
 published_at: '2026-06-26T19:02:23Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-- workflows
 stars: 5684
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-26T17:01:07Z'
 pushed_at: '2026-06-17T21:25:51Z'
 resource_id: github:vercel-labs/open-agents
-first_seen: '2026-06-27T04:09:58.497635+05:30'
-last_seen: '2026-06-27T04:09:58.497635+05:30'
-last_checked: '2026-06-27T04:09:58.497635+05:30'
+first_seen: '2026-06-27T09:50:03.509612+05:30'
+last_seen: '2026-06-27T09:50:03.509612+05:30'
+last_checked: '2026-06-27T09:50:03.509612+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Overview**: Open-source starter kit for deploying cloud-based AI agents with Vercel, leveraging TypeScript for cross-platform compatibility.
-- **Key Features**: Supports background agent execution, integrates AI-driven workflows, and includes pre-configured templates for rapid prototyping.
-- **Ecosystem Integration**: Designed for Vercel’s serverless infrastructure, enabling scalable, event-driven agent operations with minimal boilerplate.
+- **Template Structure**: Provides a TypeScript-based open-source framework for deploying cloud-based AI agents with modular components for extensibility and scalability.
+- **Agent Orchestration**: Implements background agent patterns with Vercel’s serverless infrastructure, enabling asynchronous task execution and state management.
+- **Integration Focus**: Designed for seamless integration with AI models, APIs, and external services, leveraging Vercel’s edge runtime for low-latency execution.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: vercel-labs
 - Stars: 5684
-- Forks: 740
+- Forks: 741
 - Language: TypeScript
 - Topics: agent, agents, ai, background-agents
 - Last Updated: 2026-06-26T19:02:23Z

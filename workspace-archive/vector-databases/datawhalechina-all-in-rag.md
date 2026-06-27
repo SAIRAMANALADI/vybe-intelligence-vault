@@ -17,6 +17,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Framework**: Provides a full-stack guide for developing Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation with Python, including integration with LangChain and LlamaIndex.
+- **Comprehensive RAG Guide**: Provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications with large language models (LLMs), covering embedding, retrieval, and generation pipelines.
 
-- **Multi-Model & Data Source Support**: Supports diverse LLMs (e.g., DeepSeek, Kimi-K2), embeddings, and databases (Milvus, Neo4j) for multimodal and structured data retrieval in RAG pipelines.
+- **Multi-Tool Integration**: Demonstrates RAG implementations using frameworks like LangChain, LlamaIndex, and tools such as Milvus (vector DB), Neo4j (graph DB), and multimodal models (e.g., Kimi-K2, DeepSeek).
 
-- **Advanced Techniques & Deployment**: Includes cutting-edge RAG methodo
+- **Python-Centric**: Focuses on Python-based RAG workflows
 
 ## Use Cases
 

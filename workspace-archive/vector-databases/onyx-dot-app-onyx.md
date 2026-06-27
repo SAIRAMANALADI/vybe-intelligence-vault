@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-*   Open-source, self-hosted AI chat platform offering LLM-agnostic conversational interfaces.
-*   Integrates advanced RAG capabilities, leveraging enterprise and vector search for enhanced information retrieval.
-*   Built with a Python backend and Next.js frontend, providing a full-stack architecture for scalable LLM UI deployment.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+
+- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for scalable, self-hosted AI applications in production environments.
+
+- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering a modern chat UI, enterprise sea
 
 ## Use Cases
 

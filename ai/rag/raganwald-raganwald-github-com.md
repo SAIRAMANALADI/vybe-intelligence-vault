@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-06-27T04:07:48.360974+05:30'
+collected_at: '2026-06-27T09:47:48.369281+05:30'
 published_at: '2026-06-20T15:41:20Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-06-20T15:41:16Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-06-27T04:07:48.360974+05:30'
-last_seen: '2026-06-27T04:07:48.360974+05:30'
-last_checked: '2026-06-27T04:07:48.360974+05:30'
+first_seen: '2026-06-27T09:47:48.369281+05:30'
+last_seen: '2026-06-27T09:47:48.369281+05:30'
+last_checked: '2026-06-27T09:47:48.369281+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository for generating `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
-- **GitHub Pages Integration**: Hosted via GitHub Pages, utilizing the `gh-pages` branch for deployment with automatic build triggers.
-- **Minimalist Structure**: HTML-centric layout with no additional dependencies, relying on Jekyll’s default configurations for static site compilation.
+- **Static Site Generator**: Jekyll-based repository generating `raganwald.com` as a static website with HTML output.
+- **GitHub Pages Hosting**: Deployed via GitHub Pages, leveraging Jekyll's native integration for seamless rendering.
+- **Version Control**: Hosted on GitHub with 30 stars and 60 forks, last updated on **2026-06-20T15:41:20Z**.
 
 ## Why It Matters
 

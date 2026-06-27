@@ -8,7 +8,7 @@ local_vault_path: ai/agents/gemini-api-google-ai-for-developers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -16,7 +16,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gemini API | Google AI for Developers
@@ -25,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
 - **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects.
 
-- Supports **multi-modal generation** (text, images via Nano Banana, video via Veo 3.1) and **structured outputs** (JSON), with Python/JS/REST SDKs for seamless integration.
+- **Multi-modal & Specialized Models**: Supports cutting-edge models like `Gemini 3.1 Pro` (multimodal reasoning), `Veo 3.1` (video generation), `Nano Banana 2` (image editing), and `Gemini Robotics` (VLM for physical-world tasks).
 
-- Offers **advanced capabilities** like long-context processing (millions of tokens), function calling for tool integration, and real-time vo
+- **Key Capabilities**: Enables structured outputs (JSON), long-context processing
 
 ## Use Cases
 

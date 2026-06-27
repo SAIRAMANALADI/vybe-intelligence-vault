@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Processing**: Medium collects user-provided data (e.g., account details, content, interactions) and automatically gathers device/usage data (IP, OS, browser, cookies, analytics) via third-party services (e.g., AWS, Google Analytics). Payment data is processed by third-party processors (e.g., Stripe), subject to their policies.
+- **Data Collection & Sources**: Collects user-provided data (e.g., posts, profile info) and automatically gathers activity, device, and usage data (IP, OS, cookies, web beacons) via tracking technologies. Also sources data from third-party platforms (e.g., social networks) and derives inferences (e.g., location, reading preferences).
 
-- **Data Sharing & Disclosure**: User data is shared with service providers (e.g., hosting, analytics, fraud prevention), affiliates, and under lega
+- **Data Sharing & Third-Party Embeds**: Shares personal data with vendors, service providers, and affiliates for operations, analytics, and legal compliance. Emb
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/agents/google-for-developers-build-with-gemini.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning, generative models, and agent-first APIs for building next-gen apps and agents with native multimodal processing, long context windows, and real-time workflows via a single RESTful interface.
+- **Gemini API Integration**: Provides access to advanced reasoning, multimodal processing, and agentic workflows via a single API, supporting languages like Python, JavaScript, Go, Java, and REST for scalable AI app development.
 
-- **Google Antigravity**: Agent-first platform co-optimized with Gemini models, enabling autonomous agent operations across desktop and CLI environments with mission control for customization and orchestration.
+- **Agent-First Platforms**: Google Antigravity enables autonomous agent operations with mission control for customization, while Cloud Run automates infrastructure scaling for AI apps, reducing operational overhead.
 
-- **Cloud Run & AI Studio**
+- **Enterprise & Web AI Tools**: Gemini Enterprise
 
 ## Use Cases
 

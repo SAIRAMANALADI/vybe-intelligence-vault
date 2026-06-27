@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-27T04:09:33.419873+05:30'
+collected_at: '2026-06-27T09:49:38.448085+05:30'
 published_at: '2026-06-26T08:49:25Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - rag
 - unknown
+- workflows
 stars: 780
 language: Unknown
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-27T04:09:33.419873+05:30'
-last_seen: '2026-06-27T04:09:33.419873+05:30'
-last_checked: '2026-06-27T04:09:33.419873+05:30'
+first_seen: '2026-06-27T09:49:38.448085+05:30'
+last_seen: '2026-06-27T09:49:38.448085+05:30'
+last_checked: '2026-06-27T09:49:38.448085+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and LLM-driven search methodologies for complex knowledge synthesis.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s KnowFM track, emphasizing multi-agent collaboration, dynamic knowledge retrieval, and structured reasoning pipelines for high-fidelity research outputs.
-- **Technical Scope**: Covers reasoning architectures, search-agent frameworks, and evaluation benchmarks for deep research tasks, including hybrid retrieval, memory-augmented reasoning, and adaptive query refinement.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous agents leveraging LLMs for complex reasoning, RAG, and multi-step search workflows.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s KnowFM track, emphasizing knowledge-intensive, multi-agent systems for deep research tasks.
+- **Technical Scope**: Covers agentic RAG, reasoning agents, and search optimization, with 780+ stars and 63 forks, indicating active community engagement.
 
 ## Why It Matters
 

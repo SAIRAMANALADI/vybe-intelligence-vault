@@ -2,7 +2,7 @@
 title: Google Play for business | Launch & monetize your apps | Google Play Console
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://play.google.com/apps/publish
+source_url: https://play.google.com/console
 resource_id: blog:google-play-for-business-launch-monetize-your-apps
 local_vault_path: ai/rag/google-play-for-business-launch-monetize-your-apps.md
 quality_score: 70
@@ -35,8 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Billing Flexibility & Fee Reduction**: Google Play introduces expanded billing options and reduced fees, including the *Billing Choice Program* and *User Choice Billing Pilot*, enabling developers to offer alternative payment methods while optimizing revenue.
-- **New Developer Programs**: Launched specialized initiatives such as *Apps Accelerator*, *Indie Games*, *Teacher Approved*, and *Google Play Pass* to support monetization, audience growth, and app quality across diverse business needs
+- **Billing Flexibility & Fee Reduction**: Google Play introduces expanded billing options and reduced fees, including a **User Choice Billing Pilot** and **Billing Choice Program**, allowing developers to offer alternative payment methods beyond Google Play Billing.
+
+- **Developer Support Programs**: New initiatives such as **Apps Accelerator**, **Indie Games**, **Level Up**, and **Teacher Approved** provide targeted resources, funding, and visibility tools for app/game developers, startups, an
 
 ## Use Cases
 
@@ -46,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/apps/publish
+Original source URL: https://play.google.com/console
 
 ## Local Vault File
 

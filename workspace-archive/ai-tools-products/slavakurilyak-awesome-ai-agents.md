@@ -16,6 +16,7 @@ tags:
 - hackernews
 - paper
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Compilation of 300+ agentic AI tools, frameworks, and research papers, categorized for accessibility.
-- **Technical Scope**: Focuses on autonomous agents, multi-agent systems, and agentic AI architectures, primarily in Python.
-- **Community Metrics**: 1,522 stars and 413 forks, last updated June 25, 2026, indicating active maintenance and growth.
+- **Curated Resource**: Aggregates 300+ agentic AI tools, frameworks, and research papers with active maintenance (last updated 2026-06-26).
+- **Technical Scope**: Focuses on autonomous agent systems, multi-agent orchestration, and agentic workflows, primarily in Python.
+- **Community Metrics**: High engagement with 1,522 stars and 414 forks, indicating strong developer interest in agentic AI paradigms.
 
 ## Use Cases
 

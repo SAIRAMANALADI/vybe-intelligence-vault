@@ -14,6 +14,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j** is a graph database management system with core Java implementation, providing native graph storage and processing via the Cypher query language.
-- **Official drivers** exist for multiple languages (Java, JavaScript, Python) implementing the Bolt protocol for efficient binary communication with the database.
-- **Key repositories** include the main database (`neo4j`), Graph Data Science library (`graph-data-science`), and connectors for AWS Glue, Apache Spark, and Kafka.
+- **Neo4j Core Engine**: Open-source Java-based graph database (16.8k stars, 2.6k forks) implementing native graph storage and processing with Cypher query language support.
+
+- **Multi-Language Driver Ecosystem**: Provides official Bolt protocol drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), and other languages for graph database connectivity.
+
+- **Graph Data Science & Integration Tools**: Includes GDS library (800 stars) for graph algorithms, Spark connector (320 stars
 
 ## Use Cases
 

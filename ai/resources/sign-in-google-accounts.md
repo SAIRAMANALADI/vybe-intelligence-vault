@@ -3,17 +3,16 @@ title: Sign in - Google Accounts
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fgoogle%2Fgenerative-ai-docs%2Fblob%2Fmain%2Fsite%2Fen%2Fgemma%2Fdocs%2Flora_tuning.ipynb&ec=GAZAqQM
-published_at: '2026-06-26T15:31:03.003710+05:30'
-collected_at: '2026-06-26T15:31:03.003725+05:30'
+source_url: https://aistudio.google.com/apikey
+published_at: '2026-06-27T09:57:14.291684+05:30'
+collected_at: '2026-06-27T09:57:14.291698+05:30'
 tags:
-- models
 - web-crawled
 status: active
 resource_id: blog:sign-in-google-accounts
-first_seen: '2026-06-26T15:31:03.003725+05:30'
-last_seen: '2026-06-26T15:31:03.003725+05:30'
-last_checked: '2026-06-26T15:31:03.003725+05:30'
+first_seen: '2026-06-27T09:57:14.291698+05:30'
+last_seen: '2026-06-27T09:57:14.291698+05:30'
+last_checked: '2026-06-27T09:57:14.291698+05:30'
 health_score: 100
 ---
 
@@ -21,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Requirement**: Access to the linked resource (LoRA tuning for Gemma) requires a valid Google Account for sign-in.
-- **Session Management**: Users can opt for private browsing or guest mode to avoid account association with the current session.
-- **Access Path**: The resource is accessible via a direct URL to a Google Colab notebook hosted in the generative-ai-docs repository.
+- **Authentication Flow**: Google AI Studio uses OAuth 2.0-based WebLiteSignIn for user authentication, redirecting to `ServiceLogin` and `WebLiteSignIn` endpoints with a `continue` parameter for post-authentication redirection.
+
+- **Recovery & Guest Modes**: Supports email recovery via `usernamerecovery` endpoint and offers private browsing (Guest mode) for session isolation, with documentation linked via `signin_privatebrowsing`.
+
+- **Account Creation**: Provides a `SignUp` flow (`GlifWebSignIn`) for new users, with post-registration redirection to AI Studio’s API key generation page.
 
 ## Why It Matters
 
@@ -33,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T15:31:03.003710+05:30
+- Published: 2026-06-27T09:57:14.291684+05:30
 
 ## Related Tags
 
-- models
 - web-crawled
 
 ## Source
 
-Original source: https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fcolab.research.google.com%2Fgithub%2Fgoogle%2Fgenerative-ai-docs%2Fblob%2Fmain%2Fsite%2Fen%2Fgemma%2Fdocs%2Flora_tuning.ipynb&ec=GAZAqQM
+Original source: https://aistudio.google.com/apikey

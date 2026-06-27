@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-27T04:09:33.393836+05:30'
+collected_at: '2026-06-27T09:49:33.419904+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-27T04:09:33.393836+05:30'
-last_seen: '2026-06-27T04:09:33.393836+05:30'
-last_checked: '2026-06-27T04:09:33.393836+05:30'
+first_seen: '2026-06-27T09:49:33.419904+05:30'
+last_seen: '2026-06-27T09:49:33.419904+05:30'
+last_checked: '2026-06-27T09:49:33.419904+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and hierarchical context management.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) mimicking human-like memory structures (e.g., episodic/semantic memory) to enhance long narrative reasoning via stateful processing.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain coherent reasoning across extended narratives, leveraging episodic and semantic memory modules for contextual continuity.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies tailored for extended contexts, enabling coherent multi-turn reasoning by maintaining and organizing contextual dependencies across interactions.
 
-- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks, with modular Python-based implementation optimized for scalability and interpretability.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach for scalable, memory-efficient RAG systems, with open-source Python implementation (339 stars, 47 forks) emphasizing modularity for stateful narrative tasks.
 
 ## Why It Matters
 

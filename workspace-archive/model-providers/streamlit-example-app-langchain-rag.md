@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- models
 - openai
 - python
 - rag
@@ -33,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (likely FAISS or similar) with hybrid retrieval (e.g., BM25 + dense embeddings) for improved document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (e.g., FAISS, Chroma) with keyword-based retrieval (BM25) for improved document retrieval accuracy.
 
-- **LangChain Integration**: Utilizes LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM inference (e.g., via `ChatOpenAI` or local models).
+- **LangChain Integration**: Uses LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM interaction (e.g., GPT-4, Llama).
 
-- **Streamlit Frontend**: Deploys a real-
+- **Streamlit UI**: Provides an interactive web interface (via Streamlit) for queryin
 
 ## Use Cases
 

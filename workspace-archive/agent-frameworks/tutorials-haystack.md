@@ -6,13 +6,14 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -21,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Haystack
@@ -29,19 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
-
-- **Multimodal RAG Pipeline**: Tutorial demonstrating a Vision+Text RAG system that integrates image and text embeddings for cross-modal retrieval and question answering.
-
-- **KV Cache Compression**: Guide on using TurboQuant quantization to reduce memory usage in LLM inference, enabling deployment of l
+- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
+- **Agentic Architectures**: Tutorials cover advanced agent systems, including tool-calling agents, multi-agent workflows, and conversational RAG with memory management (`InMemoryChatMessageStore`).
+- **Multimodal & Optimization Techniques**: Includes multimodal RAG pipelines (vision+text), KV cache compressio
 
 ## Use Cases
 

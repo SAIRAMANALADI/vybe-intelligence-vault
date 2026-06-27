@@ -6,18 +6,17 @@ source_url: https://github.com/langchain-ai/rag-research-agent-template
 resource_id: github:langchain-ai/rag-research-agent-template
 local_vault_path: ai/rag/langchain-ai-rag-research-agent-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
-- anthropic
 - github-repo
+- hackernews
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a pre-configured Python-based framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain's modular architecture.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping and experimentation.
 
-- **Key Components**: Includes core modules for document retrieval, prompt engineering, and agent orchestration, optimized for research-oriented workflows.
+- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding, vector storage (e.g., Chroma/FAISS), and LLM integration (e.g., LangChain’s `RetrievalQA` or custom chains).
 
-- **Dependencies**: Relies on LangChain ecosystem (e.g., `langchain-core`, `langchain-community`) and integrates with vector stores (e.g., Chroma, FAISS) a
+- **Technical Stack**: Python-based, leveraging LangChain’s modular abstractions (e.g., `DocumentL
 
 ## Use Cases
 

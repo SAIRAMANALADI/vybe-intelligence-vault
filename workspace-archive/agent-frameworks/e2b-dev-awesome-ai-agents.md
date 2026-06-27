@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates 28,496+ curated AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for rapid discovery and integration.
-- **Multi-Topic Scope**: Encompasses Python-based agents, GPT-4/OpenAI integrations, and copilot systems, emphasizing modularity and extensibility for AI-driven automation.
-- **Active Maintenance**: Last updated June 2026, ensuring relevance with ongoing updates to repositories, dependencies, and emerging agentic AI methodolo
+- **Curated list of AI autonomous agents**: Repository aggregates tools, frameworks, and projects (e.g., AutoGPT, BabyAGI, GPT-Engineer) enabling autonomous AI agent development, primarily in Python.
+- **Open-source contributions**: Hosts 28.5k+ stars and 3k+ forks, indicating high community engagement and collaborative development in AI agent ecosystems.
+- **Multi-model compatibility**: Supports integration with OpenAI’s GPT-4 and other LLMs, facilitating diverse autonomous agent implementation
 
 ## Use Cases
 

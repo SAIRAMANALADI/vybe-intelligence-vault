@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-27T04:09:33.447182+05:30'
+collected_at: '2026-06-27T09:49:33.483321+05:30'
 published_at: '2026-06-24T11:50:55Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-27T04:09:33.447182+05:30'
-last_seen: '2026-06-27T04:09:33.447182+05:30'
-last_checked: '2026-06-27T04:09:33.447182+05:30'
+first_seen: '2026-06-27T09:49:33.483321+05:30'
+last_seen: '2026-06-27T09:49:33.483321+05:30'
+last_checked: '2026-06-27T09:49:33.483321+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with two-stage retrieval: coarse-grained (semantic clustering) and fine-grained (hierarchical graph traversal) for efficient knowledge extraction.
+- **Semantic Aggregation**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships for improved contextual relevance in generation tasks.
 
-- **AAAI 2026 Framework**: Proposes a lightweight (LeanRAG) architecture leveraging graph neural networks (GNNs) and transformer-based encoders to optimize context relevance and reduce computational overhead in knowledge-intensive generation tasks.
+- **Hierarchical Retrieval**: Utilizes a multi-layered retrieval strategy to progressively extract and synthesize information from knowledge graphs, optimizing both precision and recall.
 
-- **Python Implementation**: Open-source repository with modular components for knowledge graph construction, retrieval augmentation, and semantic aggregation, supporting scalable deployment in generative AI pipelines.
+- **Efficiency Optimization**: Designed for lightweight, scalable RAG (Retrieval-Augmented Generation) with reduced computational overhead, leveraging Python for modular implementation.
 
 ## Why It Matters
 

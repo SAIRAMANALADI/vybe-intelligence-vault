@@ -8,7 +8,7 @@ local_vault_path: ai/agents/panniantong-agent-reach.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-platform web scraping**: CLI tool in Python that scrapes content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu without API fees, enabling AI agents to "see" the internet via direct scraping.
-
-- **Zero-cost automation**: Eliminates API costs by using open-source scrapers and transcript extractors (e.g., YouTube transcripts), optimized for integration with LLM tools like Claude Code and Cursor.
-
-- **Agent infrastructure integration**: Designed as an MCP (Model Context
+- **Multi-platform web scraping**: Enables AI agents to extract and search content from Twitter, Reddit, YouTube, GitHub, Bilibili, and XiaoHongShu via a single CLI interface without API fees.
+- **Transcript & metadata extraction**: Supports fetching YouTube transcripts and structured data from GitHub repositories, enhancing search capabilities for AI agents.
+- **Lightweight Python toolkit**: Built in Python with modular design (e.g., `mcp`, `claude-code` integration) for extensibility and minim
 
 ## Use Cases
 

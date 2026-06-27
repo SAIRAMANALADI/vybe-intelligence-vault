@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with support for RAG and performance metrics.
-- **Key Features**: Efficient evaluation pipelines, modular architecture for customization, and standardized performance benchmarking across diverse model types.
-- **Repository Stats**: 2,992 stars, 408 forks, last updated 2026-06-26.
+- **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency and extensibility.
+- **Key Features**: Supports evaluation of RAG (Retrieval-Augmented Generation) systems, performance benchmarking, and integrates with ModelScope for scalable model testing.
+- **Technical Stack**: Python-based, optimized for large-scale model evaluation with active maintenance (last updated June 2026) and c
 
 ## Use Cases
 

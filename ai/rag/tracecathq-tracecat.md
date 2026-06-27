@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-27T04:10:58.561048+05:30'
+collected_at: '2026-06-27T09:50:58.588907+05:30'
 published_at: '2026-06-26T20:45:59Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-06-26T22:03:32Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-27T04:10:58.561048+05:30'
-last_seen: '2026-06-27T04:10:58.561048+05:30'
-last_checked: '2026-06-27T04:10:58.561048+05:30'
+first_seen: '2026-06-27T09:50:58.588907+05:30'
+last_seen: '2026-06-27T09:50:58.588907+05:30'
+last_checked: '2026-06-27T09:50:58.588907+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Tracecat is an open-source security automation platform designed for teams and AI agents, leveraging Python with FastAPI, Pydantic, and Temporal.io for workflow orchestration and event-driven automation.
+- **Platform Architecture**: Open-source, event-driven security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python for core logic and Pydantic for data validation.
 
-- **Technical Stack**: Uses Next.js for the frontend, OpenAPI for API specifications, and integrates LLM capabilities for AI-driven security operations, with a low-code interface for workflow design.
+- **Key Features**: Low-code workflow engine with OpenAPI integration, designed for teams and AI agents, enabling automated security monitoring, orchestration, and response through modular, reusable components.
 
-- **Core Features**: Supports monitoring, security automation, and orchestration with a focus on scalability and extensibility, last updated in June 2026.
+- **Tech Stack & Scalability**: Utilizes temporal.io for durable execution, supports LLM integrations, and is optimized for high-throughput event processing with a scalable, distributed architecture.
 
 ## Why It Matters
 
@@ -47,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TracecatHQ
 - Stars: 3694
-- Forks: 376
+- Forks: 377
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
 - Last Updated: 2026-06-26T20:45:59Z

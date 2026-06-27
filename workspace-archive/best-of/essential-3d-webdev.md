@@ -13,6 +13,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `85` | **Path**: [`ektogamat-r3f-webgpu-starter.md`](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [css-web-ui-demos/html-in-canvas/awesome-html-in-canvas.md at main · GoogleChromeLabs/css-web-ui-demos · GitHub](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `83` | **Path**: [`googlechromelabs-css-web-ui-demos.md`](../../ai/rag/googlechromelabs-css-web-ui-demos.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [playcanvas/engine](https://github.com/playcanvas/engine)
 - **Category**: `web-development/webgpu` | **Kind**: `TOOL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`playcanvas-engine.md`](../../web-development/webgpu/playcanvas-engine.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`juniorxsound-r3f-multiplayer.md`](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite)
-- **Category**: `web-development/react-three-fiber` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `83` | **Path**: [`benjaminmiles-react-three-vite.md`](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-27 04:23 IST*
+*Last updated: 2026-06-27 10:04 IST*

@@ -16,6 +16,7 @@ tags:
 - hackernews
 - paper
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository hosting 300+ agentic AI resources, including tools, frameworks, and research papers for AI agents.
-- **Metrics**: 1,522 stars and 414 forks, indicating significant community engagement and adoption.
-- **Technical Scope**: Primarily Python-based, focusing on agentic AI systems, with last update on 2026-06-26.
+- **Curated Resource**: Aggregates 300+ agentic AI tools, frameworks, and research papers with active maintenance (last updated 2026-06-26).
+- **Technical Scope**: Focuses on autonomous agent systems, multi-agent orchestration, and agentic workflows, primarily in Python.
+- **Community Metrics**: High engagement with 1,522 stars and 414 forks, indicating strong developer interest in agentic AI paradigms.
 
 ## Use Cases
 

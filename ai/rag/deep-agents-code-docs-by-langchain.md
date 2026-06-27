@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-27T04:12:11.553396+05:30'
-collected_at: '2026-06-27T04:12:11.553409+05:30'
+published_at: '2026-06-27T09:54:15.214289+05:30'
+collected_at: '2026-06-27T09:54:15.214304+05:30'
 tags:
 - agents
 - anthropic
@@ -13,14 +13,15 @@ tags:
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-27T04:12:11.553409+05:30'
-last_seen: '2026-06-27T04:12:11.553409+05:30'
-last_checked: '2026-06-27T04:12:11.553409+05:30'
+first_seen: '2026-06-27T09:54:15.214304+05:30'
+last_seen: '2026-06-27T09:54:15.214304+05:30'
+last_checked: '2026-06-27T09:54:15.214304+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model & Provider Agnostic**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command, with persistent memory for cross-conversation context.
+- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for context retention, and configurable skills/approval gates for code execution.
 
-- **Human-in-the-Loop & Approval Controls**: Destructive operations (e.g., file writes, shell execution) require explicit user approval by default; auto-approve mode (`-y`) bypasses prompts, while `--shell-allow-list` restricts executable commands.
+- **Core Capabilities**: Includes file operations (read/write/edit), shell execution (local/remote sandboxes), web search (Tavily API), task planning, subagents for parallel delegation, memory storage/retrieval, human-in-the-loop approvals, MCP tool integration, and LangSmith tracing for observability.
 
-- **Remote Execution & Observability**: Supports remote sandboxes (e.g., LangSmith, Daytona) for tool execution, web search via Tavily API, and LangSmith tracing for debugging, with non-interactive mode (`-n`) for scripted tasks and strict timeout controls.
+- **CLI Features**: Supports interactive/non-interactive modes, auto-approval toggles (`-y`), model/sandbox customization (`--model`, `--sandbox`), startup commands (`--startup-cmd`), and strict execution controls (e.g., `--shell-allow-list`, `--max-turns`).
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:12:11.553396+05:30
+- Published: 2026-06-27T09:54:15.214289+05:30
 
 ## Related Tags
 
@@ -52,6 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - youtube

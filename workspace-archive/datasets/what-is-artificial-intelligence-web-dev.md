@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing complex tasks (e.g., problem-solving, content generation) via machine learning (ML), where algorithms learn patterns from data without explicit programming. Key ML types include deep learning (e.g., neural networks) and natural language processing (NLP) for language comprehension.
+- **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity) via machine learning (ML), with generative AI creating new content from learned patterns. ML enables computers to learn from data without explicit programming, using algorithms to predict outcomes (e.g., weather rating models).
 
-- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., TensorFlow.js, Transformers.js) for low latency/priva
+- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or
 
 ## Use Cases
 

@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-27T04:08:48.369743+05:30'
+collected_at: '2026-06-27T09:48:48.363505+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 stars: 92
@@ -20,9 +22,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-27T04:08:48.369743+05:30'
-last_seen: '2026-06-27T04:08:48.369743+05:30'
-last_checked: '2026-06-27T04:08:48.369743+05:30'
+first_seen: '2026-06-27T09:48:48.363505+05:30'
+last_seen: '2026-06-27T09:48:48.363505+05:30'
+last_checked: '2026-06-27T09:48:48.363505+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for document retrieval, embedding generation, and LLM integration in Python.
-- **Dynamic Retrieval Strategies**: Supports adaptive retrieval techniques (e.g., query rewriting, multi-hop retrieval) to enhance context relevance for large language models (LLMs).
-- **Evaluation & Benchmarking**: Includes standardized metrics and tools for assessing RAG system performance (e.g., retrieval accuracy, generation quality, latency).
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques, including query rewriting, chunking strategies, and embedding optimization for large language models (LLMs).
+- **Python-Based Pipeline**: Provides a modular Python repository with components for document preprocessing, vector storage (FAISS/Chroma), and LLM integration (e.g., LangChain, LlamaIndex).
+- **Benchmarking & Best Practices**: Includes evaluation metrics (e.g., retrieval accuracy, generation coherence) and guidelines for hyperparameter tuning (e.g., chunk size, top-k retrieval).
 
 ## Why It Matters
 

@@ -13,8 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
-- models
 - python
 - rag
 selection_reason:
@@ -35,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored to Vietnamese linguistic characteristics.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including data preprocessing, embedding models, and retrieval strategies tailored to Vietnamese text.
 
-- **Modular Python Architecture**: Features a scalable backend with modular components for document retrieval, embedding generation (using models like `vinai/phobert-base`), and integration with vector dat
+- **Modular Python Architecture**: Implements a scalable backend using Python with components for document retrieval, vector storage (e.g., FAISS or Chroma), and LLM integration (e.g., ViT5, PhoBERT) for Vietnamese-specific tas
 
 ## Use Cases
 

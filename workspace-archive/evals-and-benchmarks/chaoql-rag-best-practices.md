@@ -14,6 +14,8 @@ tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -34,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for document retrieval, embedding generation, and LLM integration in Python.
-- **Dynamic Retrieval Strategies**: Supports adaptive retrieval techniques (e.g., query rewriting, multi-hop retrieval) to enhance context relevance for large language models (LLMs).
-- **Evaluation & Benchmarking**: Includes standardized metrics and tools for assessing RAG system performance (e.g., re
+- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) techniques, including query rewriting, chunking strategies, and embedding optimization for large language models (LLMs).
+- **Python-Based Pipeline**: Provides a modular Python repository with components for document preprocessing, vector storage (FAISS/Chroma), and LLM integration (e.g., LangChain, LlamaIndex).
+- **Benchmarking & Best Practices**: Includes evaluation metrics (e.g., retrieval accuracy, gene
 
 ## Use Cases
 

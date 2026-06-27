@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T04:08:13.417399+05:30'
+collected_at: '2026-06-27T09:48:13.420250+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T04:08:13.417399+05:30'
-last_seen: '2026-06-27T04:08:13.417399+05:30'
-last_checked: '2026-06-27T04:08:13.417399+05:30'
+first_seen: '2026-06-27T09:48:13.420250+05:30'
+last_seen: '2026-06-27T09:48:13.420250+05:30'
+last_checked: '2026-06-27T09:48:13.420250+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and educational use, implemented primarily in Jupyter Notebooks.
+- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebook, designed for modularity and ease of deployment across different environments.
 
-- **Core Components**: Includes modular pipelines for document ingestion, embedding generation, vector storage (e.g., FAISS/Chroma), and LLM integration with retrieval-augmented query processing.
+- **Core Components**: Includes standard RAG pipelines (retriever, generator, and integration layers) with preconfigured examples for quick experimentation and customization.
 
-- **Educational Focus**: Provides tutorials and examples for building custom RAG systems, emphasizing reproducibility and adaptability across different hardware/software environments.
+- **Tutorial Integration**: Provides step-by-step Jupyter Notebook tutorials covering end-to-end RAG workflows, from data ingestion to model evaluation, with minimal setup overhead.
 
 ## Why It Matters
 

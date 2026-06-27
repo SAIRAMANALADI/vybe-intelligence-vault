@@ -35,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- **Observability Framework**: Mercado Libre implemented an observability maturity model to assess and improve system reliability, resilience, and troubleshooting capabilities, focusing on telemetry standardization, correlation, and visualization across 100+ microservices and 1,000+ operations.
-
-- **OpenTelemetry Adoption**: Standardized telemetry data using OpenTelemetry to mitigate vendor lock-in, enabling vendor-neutral, tool-agnostic instrumentation for logs, metrics, traces, and profiles wh
+- **Observability Framework**: Mercado Libre established a dedicated platform team to standardize telemetry data using **OpenTelemetry**, mitigating vendor lock-in and ensuring vendor-neutral, tool-agnostic instrumentation for logs, metrics, traces, and profiles.
+- **Scalability & Standardization**: Redesigned logging solutions and implemented governance mechanisms to address tool overlap, reduce noise, and optimize telemetry data management for large-scale distributed systems (>100 microservice
 
 ## Use Cases
 

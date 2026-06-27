@@ -1,32 +1,35 @@
 ---
-title: supabase/examples at master · supabase/supabase · GitHub
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/supabase/supabase/tree/master/examples
-published_at: '2026-06-27T04:19:25.535750+05:30'
-collected_at: '2026-06-27T04:19:25.535762+05:30'
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+published_at: '2026-06-27T09:57:21.846431+05:30'
+collected_at: '2026-06-27T09:57:21.846444+05:30'
 tags:
+- frontend_ui
+- openai
 - rag
 - reddit
 - web-crawled
+- youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-27T04:19:25.535762+05:30'
-last_seen: '2026-06-27T04:19:25.535762+05:30'
-last_checked: '2026-06-27T04:19:25.535762+05:30'
+first_seen: '2026-06-27T09:57:21.846444+05:30'
+last_seen: '2026-06-27T09:57:21.846444+05:30'
+last_checked: '2026-06-27T09:57:21.846444+05:30'
 health_score: 100
 ---
 
-# supabase/examples at master · supabase/supabase · GitHub
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Summary
 
-- **GitHub Repository**: Supabase's official GitHub repository (`supabase/supabase`) has **105k stars**, **12.9k forks**, **235 open issues**, and **850 pull requests**, indicating high community engagement and active development.
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
 
-- **Examples Directory**: The repository includes an `/examples` directory with structured subdirectories (e.g., `auth`, `edge-functions`, `realtime`, `storage`) showcasing practical implementations of Supabase features.
+- Docs are authored in **MDX** with YAML frontmatter (e.g., `title`, `hideToc`), stored in `apps/docs/content`, and use **partials** (`_partials/`) for reusable snippets; navigation is defined in `NavigationMenu.constants.ts`.
 
-- **Enterprise & Advanced Patterns**: Contains specialized examples like `enterprise-patterns`, `clerk`, and `with-cloudflare-workers`, demonstrating integrations with third-party services and advanced architectural patterns.
+- Reference docs are auto-generated from **spec files** (common/client-specific YAML/JSON) via `$ref` properties, with updates requiring library maintainers to merge changes to `master` and regenerate specs using `make` in `/spec`.
 
 ## Why It Matters
 
@@ -36,14 +39,17 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:19:25.535750+05:30
+- Published: 2026-06-27T09:57:21.846431+05:30
 
 ## Related Tags
 
+- frontend_ui
+- openai
 - rag
 - reddit
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/supabase/supabase/tree/master/examples
+Original source: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md

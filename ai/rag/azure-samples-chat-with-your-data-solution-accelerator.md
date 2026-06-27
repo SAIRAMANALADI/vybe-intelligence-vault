@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-27T04:08:48.405529+05:30'
-published_at: '2026-06-26T12:06:59Z'
+collected_at: '2026-06-27T09:48:53.424179+05:30'
+published_at: '2026-06-27T03:54:28Z'
 tags:
 - github-repo
 - openai
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2023-06-06T01:40:48Z'
-pushed_at: '2026-06-26T20:00:44Z'
+pushed_at: '2026-06-27T04:04:14Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-27T04:08:48.405529+05:30'
-last_seen: '2026-06-27T04:08:48.405529+05:30'
-last_checked: '2026-06-27T04:08:48.405529+05:30'
+first_seen: '2026-06-27T09:48:53.424179+05:30'
+last_seen: '2026-06-27T09:48:53.424179+05:30'
+last_checked: '2026-06-27T09:48:53.424179+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to implement best practices for scalable, production-grade RAG solutions.
-- **Accelerator Features**: Provides pre-configured templates and common requirements (e.g., retrieval pipelines, prompt engineering) to accelerate development of enterprise-grade chat-with-data applications.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** for deployment, incorporating best practices for scalability, security, and cost-efficiency within Azure’s ecosystem.
+
+- **Python-Based Solution**: Provides a **Python-based accelerator** with pre-configured components, including sample data pipelines, retrieval logic, and chat interfaces, optimized for rapid deployment and customization.
 
 ## Why It Matters
 
@@ -41,14 +43,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Azure-Samples
 - Stars: 1173
-- Forks: 636
+- Forks: 638
 - Language: Python
 - Topics: ai-search, azd-templates, azure, azure-openai, openai
-- Last Updated: 2026-06-26T12:06:59Z
+- Last Updated: 2026-06-27T03:54:28Z
 - License: MIT
 - Archived: No
 - Created At: 2023-06-06T01:40:48Z
-- Pushed At: 2026-06-26T20:00:44Z
+- Pushed At: 2026-06-27T04:04:14Z
 
 ## Possible Use Cases
 

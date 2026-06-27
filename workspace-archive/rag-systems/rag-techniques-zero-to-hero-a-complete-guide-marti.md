@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with a generator (LLM), using embeddings, vector stores (ANN indexes like HNSW), and optional rerankers (cross-encoders) to fetch and condition generation on external context, improving factuality and reducing hallucinations.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where the retriever fetches external context to ground the LLM’s output, improving factuality and reducing hallucinations without retraining the LLM.
 
-- **Chunking & Embedding Optimization**: Effective RAG relies on semantic/structure-aware chunking (e.g., preserving paragraphs) with overlap, domain-specific embedding fine-tuning (query-document pai
+- **Key Technical Components**:
+  - **Chunking**: Critical for retrieval quality; strategies include fixed-size with overlap, semantic, and structure-aware chunking to preserve coherence.
+  - **Hybrid Retrieval**: Combines BM25 (lexical) and vector search (ANN in
 
 ## Use Cases
 

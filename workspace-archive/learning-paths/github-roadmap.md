@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap Tracking**: GitHub's official public roadmap for feature releases and platform updates, enabling community visibility into upcoming developments.
-- **Enterprise & Core Focus**: Tracks both GitHub.com and GitHub Enterprise roadmaps, covering core product enhancements and enterprise-specific features.
-- **Community-Driven Feedback**: Integrates user suggestions and prioritizes features based on community input, with last update timestamped for version control.
+- **Public Roadmap**: GitHub's official public roadmap outlines upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise.
+- **Community-Driven Feedback**: The roadmap is shaped by community input, with features prioritized based on user requests and discussions in GitHub Issues.
+- **Regular Updates**: The roadmap is actively maintained and updated quarterly, with the last revision on **2026-06-26**.
 
 ## Use Cases
 

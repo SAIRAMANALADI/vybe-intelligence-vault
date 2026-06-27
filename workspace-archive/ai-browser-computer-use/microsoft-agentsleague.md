@@ -14,7 +14,9 @@ tags:
 - agents
 - benchmark
 - github-repo
+- leaderboard
 - unknown
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -31,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge platform** facilitating live AI Battles with competitive, asynchronous community challenges.
-- **GitHub-integrated submission system** enabling developer participation via repository-based contributions and evaluations.
-- **Last updated June 21, 2026**, with 283 stars and 91 forks, though primary language and topics remain unspecified.
+- **E-sports-inspired AI Battles**: Hosts competitive, real-time AI agent challenges with a live tournament format, integrating asynchronous community participation and GitHub-based submissions for scalability.
+- **GitHub-Centric Workflow**: Enables developer submissions, version control, and asynchronous challenge participation via GitHub repositories, ensuring traceability and collaborative iteration.
+- **Dynamic Leaderboards & Metrics**: Tracks performance through live leaderboards, evaluatin
 
 ## Use Cases
 

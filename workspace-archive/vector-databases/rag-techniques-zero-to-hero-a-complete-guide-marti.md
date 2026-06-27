@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -22,6 +22,7 @@ tags:
 - rag
 - reddit
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,16 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with a generator (LLM), using embeddings, vector stores (ANN indexes like HNSW), and optional rerankers (cross-encoders) to fetch and condition generation on external context, improving factuality and reducing hallucinations.
+- **RAG Architecture**: Combines a retriever (vector/lexical) with a generator (LLM), where the retriever fetches external context to ground the LLM’s output, improving factuality and reducing hallucinations without retraining the LLM.
 
-- **Chunking & Embedding Optimization**: Effective RAG relies on semantic/structure-aware chunking (e.g., preserving paragraphs) with overlap, domain-specific embedding fine-tuning (query-document pai
+- **Key Technical Components**:
+  - **Chunking**: Critical for retrieval quality; strategies include fixed-size with overlap, semantic, and structure-aware chunking to preserve coherence.
+  - **Hybrid Retrieval**: Combines BM25 (lexical) and vector search (ANN in
 
 ## Use Cases
 

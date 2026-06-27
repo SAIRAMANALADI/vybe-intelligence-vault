@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, follows) and device/browser metadata to personalize content, enforce paywalls, and improve services; no third-party advertising tracking is performed. Logs include server/event data, stored in the U.S. or other operating regions.
+- **Data Collection & Usage**: Medium collects user interactions (e.g., page views, saves, follows) and device/browser metadata to personalize content, enforce paywall limits, and improve services; no third-party advertising tracking is performed. Logs include server/event data, and user data is stored/processed in the U.S. and other operating regions.
 
-- **Third-Party Embeds & Security**: Embedded content (e.g., YouTube, Twitter) transmits data to external services, governed by their policies. Medium uses HTTPS/TLS for data tra
+- **Third-Party Embeds & Disclosures**: Embedded content (e.g., YouTube, Twitter) transmits user data to third-party services, governed by their
 
 ## Use Cases
 

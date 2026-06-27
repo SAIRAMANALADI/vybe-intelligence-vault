@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-26T20:21:09.909077+05:30'
+collected_at: '2026-06-27T09:50:08.486494+05:30'
 published_at: '2026-06-23T20:27:24Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - rag
 - typescript
+- workflows
 stars: 219
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-26T20:21:09.909077+05:30'
-last_seen: '2026-06-26T20:21:09.909077+05:30'
-last_checked: '2026-06-26T20:21:09.909077+05:30'
+first_seen: '2026-06-27T09:50:08.486494+05:30'
+last_seen: '2026-06-27T09:50:08.486494+05:30'
+last_checked: '2026-06-27T09:50:08.486494+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with Phala Network, enabling decentralized AI agent execution.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI inference and agentic workflows.
 
-- **Key Components**: Includes pre-configured OpenAI API interactions, Phala Network integration for off-chain computation, and TypeScript-based smart contract scaffolding.
+- **Phala Integration**: Leverages Phala's confidential computing (TEE-based) infrastructure to execute AI agent logic securely and privately, ensuring data integrity and confidentiality.
 
-- **Technical Stack**: Leverages TypeScript for contract logic, OpenAI's API for AI agent functionality, and Phala Network's confidential computing for secure, decentralized execution.
+- **OpenAI Compatibility**: Designed for seamless interaction with OpenAI's API, facilitating LLM-driven agent tasks while abstracting blockchain-specific complexities for developers.
 
 ## Why It Matters
 

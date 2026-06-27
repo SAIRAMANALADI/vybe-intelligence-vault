@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-27T04:07:54.120036+05:30'
-collected_at: '2026-06-27T04:07:54.120050+05:30'
+published_at: '2026-06-27T09:47:54.074620+05:30'
+collected_at: '2026-06-27T09:47:54.074631+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-27T04:07:54.120050+05:30'
-last_seen: '2026-06-27T04:07:54.120050+05:30'
-last_checked: '2026-06-27T04:07:54.120050+05:30'
+first_seen: '2026-06-27T09:47:54.074631+05:30'
+last_seen: '2026-06-27T09:47:54.074631+05:30'
+last_checked: '2026-06-27T09:47:54.074631+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with support for multiple document stores (Elasticsearch, FAISS, SQL), scalable pipelines, and integration with BERT/RoBERTa/DPR models.
+- **Haystack (deepset-ai)**: Modular RAG framework with multi-document store support (Elasticsearch, FAISS, SQL), scalable pipelines for QA/summarization, and integration with BERT/RoBERTa/DPR models.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, pre-built RAG pipelines, and integration with vector databases for simplified workflow design and efficient deployment.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, pre-built RAG pipelines, and vector database integration with a focus on simplicity and efficiency.
 
-- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research with distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed performance.
+- **txtai (neuml)**: All-in-one AI framework for semantic search and LLM orchestration, featuring embeddings databases, multi-language support, and extensible workflows for document processing.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:07:54.120036+05:30
+- Published: 2026-06-27T09:47:54.074620+05:30
 
 ## Related Tags
 

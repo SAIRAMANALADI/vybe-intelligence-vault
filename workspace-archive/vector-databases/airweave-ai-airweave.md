@@ -13,10 +13,8 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,14 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source context retrieval layer designed to enhance AI agents by providing structured, efficient access to external data sources for retrieval-augmented generation (RAG) workflows.
-
-- **Key Features**:
-  - Supports **semantic search**, **API integration**, and **enterprise data connectors** (e.g., databases, document stores).
-  - Provides a **Python SDK** for seamless integration with LLM-based systems and agentic workflows.
-
-- **Technical Scope**:
-  - Implements **information
+- **Open-source context retrieval layer** for AI agents, enabling **semantic search** and **retrieval-augmented generation (RAG)** via a Python-based SDK and API.
+- Supports **enterprise data connectors**, **data integration**, and **semantic indexing** for structured/unstructured data sources.
+- Provides **search API**, **developer tools**, and **scalable retrieval** for AI agent infrastructure with **last update (2026-06-26)**.
 
 ## Use Cases
 

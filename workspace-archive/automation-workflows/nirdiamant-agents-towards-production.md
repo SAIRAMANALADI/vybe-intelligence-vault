@@ -1,0 +1,56 @@
+---
+title: NirDiamant/agents-towards-production
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://github.com/NirDiamant/agents-towards-production
+resource_id: github:nirdiamant/agents-towards-production
+local_vault_path: ai/rag/nirdiamant-agents-towards-production.md
+quality_score: 70
+archive_score: 87
+archive_tier: essential
+resource_kind: framework
+importance: high
+tags:
+- agents
+- github-repo
+- hackernews
+- jupyter notebook
+- rag
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# NirDiamant/agents-towards-production
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building enterprise-grade GenAI agents using Python and Jupyter Notebooks.
+
+- **Multi-technology integration**: Demonstrates agentic AI systems with LangGraph, MCP, RAG, and multi-agent architectures, emphasizing observability, MLOps, and deployment strategies.
+
+- **Production-ready tooling**: Focuses on scalable, enterprise-ready agent frameworks with emphasis on deployment, mo
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://github.com/NirDiamant/agents-towards-production
+
+## Local Vault File
+
+Path: [nirdiamant-agents-towards-production.md](../../ai/rag/nirdiamant-agents-towards-production.md)

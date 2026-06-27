@@ -6,13 +6,14 @@ source_url: https://github.com/wgcyeo/UniversalRAG
 resource_id: github:wgcyeo/universalrag
 local_vault_path: ai/rag/wgcyeo-universalrag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
+- benchmark
 - github-repo
+- models
 - python
 - rag
 selection_reason:
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities), leveraging unified indexing and retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that processes diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a single pipeline.
 
-- **ACL 2026 Oral Contribution**: The repository presents a novel architecture for handling heterogeneous corpora, integrating modality-specific encoders and a cross-modal retrieval system to dynamic
+- **Modality-Agnostic Retrieval & Generation**: Implements a shared embedding space and retrieval mechanism for heterogeneous data, enabling cross-modal retrieval and generation without task-specific fine-tuning.
+
+- **ACL 2026 Oral C
 
 ## Use Cases
 

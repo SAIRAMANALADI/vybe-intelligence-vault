@@ -6,10 +6,10 @@ source_url: https://github.com/bakrianoo/mini-rag
 resource_id: github:bakrianoo/mini-rag
 local_vault_path: ai/rag/bakrianoo-mini-rag.md
 quality_score: 70
-archive_score: 89
-archive_tier: essential
+archive_score: 81
+archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - github-repo
 - python
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Implements a modular, step-by-step FastAPI-based architecture for Retrieval-Augmented Generation (RAG) with Docker containerization for scalability and reproducibility.
-- **Educational Focus**: Provides structured guidance on integrating components like vector databases (e.g., FAISS), LLM APIs, and retrieval mechanisms to build end-to-end RAG systems.
-- **Tech Stack**: Python-centric with FastAPI for backend, GenAI/LLM integration (e.g., Hugging Face transfor
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-grade Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing scalability and modularity.
+- **GenAI Integration**: Demonstrates integration of generative AI models with retrieval mechanisms, including vector databases (e.g., FAISS or Chroma) and embedding models (e.g., Sentence Transformers).
+- **Deployment & Tooling**: Includes CI/CD setup, FastAPI endpoints for inference, and
 
 ## Use Cases
 

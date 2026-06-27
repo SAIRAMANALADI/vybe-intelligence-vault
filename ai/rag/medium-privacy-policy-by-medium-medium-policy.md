@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/policy/f03bf92035c9
-published_at: '2026-06-26T22:53:07.497664+05:30'
-collected_at: '2026-06-26T22:53:07.497674+05:30'
+published_at: '2026-06-27T09:54:25.164715+05:30'
+collected_at: '2026-06-27T09:54:25.164727+05:30'
 tags:
 - agents
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-privacy-policy-by-medium-medium-policy
-first_seen: '2026-06-26T22:53:07.497674+05:30'
-last_seen: '2026-06-26T22:53:07.497674+05:30'
-last_checked: '2026-06-26T22:53:07.497674+05:30'
+first_seen: '2026-06-27T09:54:25.164727+05:30'
+last_seen: '2026-06-27T09:54:25.164727+05:30'
+last_checked: '2026-06-27T09:54:25.164727+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection & Processing**: Medium collects user-provided data (e.g., account details, content, interactions) and automatically gathers device/usage data (IP, OS, browser, cookies, analytics) via third-party services (e.g., AWS, Google Analytics). Payment data is processed by third-party processors (e.g., Stripe), subject to their policies.
+- **Data Collection & Sources**: Collects user-provided data (e.g., posts, profile info) and automatically gathers activity, device, and usage data (IP, OS, cookies, web beacons) via tracking technologies. Also sources data from third-party platforms (e.g., social networks) and derives inferences (e.g., location, reading preferences).
 
-- **Data Sharing & Disclosure**: User data is shared with service providers (e.g., hosting, analytics, fraud prevention), affiliates, and under legal obligations (e.g., subpoenas). Embedded third-party content (e.g., YouTube) transmits interaction data to external domains, governed by their policies.
+- **Data Sharing & Third-Party Embeds**: Shares personal data with vendors, service providers, and affiliates for operations, analytics, and legal compliance. Embedded third-party content (e.g., YouTube videos) transmits user interactions to external hosts, governed by their policies.
 
-- **User Rights & Transfers**: Users can access, correct, or delete account data; opt out of communications; or disable cookies. Data may be transferred/stored in non-EU jurisdictions (e.g., AWS global data centers) with safeguards. California users have additional rights under CCPA.
+- **Data Transfers & User Controls**: Transfers data globally (e.g., to AWS data centers) with safeguards for cross-border compliance. Users can access, correct, or delete account data, manage cookie preferences, opt out of communications, and control mobile push notifications. CCPA rights apply to California residents.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:53:07.497664+05:30
+- Published: 2026-06-27T09:54:25.164715+05:30
 
 ## Related Tags
 

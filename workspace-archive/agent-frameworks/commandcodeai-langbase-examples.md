@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Serverless AI Agents**: Demonstrates open-source, serverless AI agent implementations using Langbase, enabling scalable and event-driven AI workflows without infrastructure management.
+- **Serverless AI Agents**: Demonstrates open-source, serverless AI agent implementations using Langbase, enabling scalable, event-driven AI workflows without infrastructure management.
 
-- **Composable AI Pipes & Memory**: Provides examples of modular AI pipelines and stateful memory systems, illustrating how to chain AI components and maintain context across interactions.
+- **Composable AI & Pipes**: Provides examples of composable AI architectures and "pipes" (modular data processing pipelines) for integrating memory, state, and multi-stage AI logic in TypeScript.
 
-- **TypeScript-Based Examples**: Contains TypeScript implementations for AI agent orchestration, showcasing best practic
+- **Memory & AI Examples**: Includes practical implementations of AI memory systems and end-to-end AI examples, sho
 
 ## Use Cases
 

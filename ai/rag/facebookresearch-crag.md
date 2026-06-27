@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-27T04:09:03.496602+05:30'
+collected_at: '2026-06-27T09:49:03.482498+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-27T04:09:03.496602+05:30'
-last_seen: '2026-06-27T04:09:03.496602+05:30'
-last_checked: '2026-06-27T04:09:03.496602+05:30'
+first_seen: '2026-06-27T09:49:03.482498+05:30'
+last_seen: '2026-06-27T09:49:03.482498+05:30'
+last_checked: '2026-06-27T09:49:03.482498+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG provides a comprehensive benchmark suite for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval quality, generation performance, and end-to-end effectiveness across diverse datasets and tasks.
-
-- **Evaluation Metrics**: Includes multi-dimensional metrics such as precision, recall, F1-score for retrieval, and coherence, factuality, and relevance for generation, enabling granular assessment of RAG components.
-
-- **Implementation**: Distributed as Jupyter Notebooks with modular components for easy integration, supporting custom datasets and retrieval/generation backends for extensibility and reproducibility.
+- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including knowledge-intensive QA, multi-hop reasoning, and open-domain search.
+- **Evaluation Framework**: Implements **standardized metrics** (e.g., EM, F1, accuracy) and introduces **novel evaluation dimensions** (e.g., robustness to noise, retrieval latency, and hallucination detection).
+- **Dataset & Tools**: Includes **synthetic and real-world datasets**, along with **Jupyter Notebook-based tools** for reproducibility, covering domains like Wikipedia, scientific literature, and web search.
 
 ## Why It Matters
 

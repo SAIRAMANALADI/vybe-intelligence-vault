@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-27T04:10:28.439690+05:30'
+collected_at: '2026-06-27T09:50:28.695066+05:30'
 published_at: '2026-06-26T03:02:38Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-24T16:17:57Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-27T04:10:28.439690+05:30'
-last_seen: '2026-06-27T04:10:28.439690+05:30'
-last_checked: '2026-06-27T04:10:28.439690+05:30'
+first_seen: '2026-06-27T09:50:28.695066+05:30'
+last_seen: '2026-06-27T09:50:28.695066+05:30'
+last_checked: '2026-06-27T09:50:28.695066+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized coding practices and best practices for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and programming languages (e.g., Kotlin, Go, Swift).
-- **Scope & Topics**: Encompasses agentic AI development, mobile (Android/iOS), and web frameworks (Next.js, Laravel), with structured guidelines for cursor rules and coding standards.
-- **Metadata**: 513 stars, 149 forks, last updated June 26, 2026, with a focus on enabling AI agents to adhere to language/framework-specific best practices.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages and frameworks, including Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, React Native, Spring Boot, and iOS.
+
+- **Key Features**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to coding standards and framework-specific best practices for consistency and efficiency.
+
+- **Metadata**: 513 stars, 149 forks, last updated June 26, 2026; covers 18+ languages/frameworks under topics like agentic AI, coding standards, and mobile/web development.
 
 ## Why It Matters
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository for generating `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
-- **GitHub Pages Integration**: Hosted via GitHub Pages, utilizing the `gh-pages` branch for deployment with automatic build triggers.
-- **Minimalist Structure**: HTML-centric layout with no additional dependencies, relying on Jekyll’s default configurations for static site compilation.
+- **Static Site Generator**: Jekyll-based repository generating `raganwald.com` as a static website with HTML output.
+- **GitHub Pages Hosting**: Deployed via GitHub Pages, leveraging Jekyll's native integration for seamless rendering.
+- **Version Control**: Hosted on GitHub with 30 stars and 60 forks, last updated on **2026-06-20T15:41:20Z**.
 
 ## Use Cases
 

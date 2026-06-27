@@ -2,7 +2,7 @@
 title: go command - cmd/go - Go Packages
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://tip.golang.org/cmd/go/#hdr-Module_aware_go_get
+source_url: https://tip.golang.org/cmd/go/#hdr-Module_downloading_and_verification
 resource_id: blog:go-command-cmd-go-go-packages
 local_vault_path: ai/rag/go-command-cmd-go-go-packages.md
 quality_score: 70
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Build Constraints & Platform Support**: Go supports cross-compilation for `linux/amd64`, `windows/amd64`, `darwin/amd64`, and `js/wasm` via build tags and environment variables.
-
-- **Build Flags & Modes**: Core flags (`-o`, `-race`, `-cover`, `-ldflags`, `-buildmode`) enable deterministic builds, race detection, coverage analysis, linker customization, and alternative build modes (e.g., `c-shared`, `pie`).
-
-- **Module System & Caching**: Commands (`go mod`, `go clean`, `go build`) manage dep
+- Go supports cross-compilation for `linux/amd64`, `windows/amd64`, `darwin/amd64`, and `js/wasm` build contexts.
+- `go build` compiles packages and dependencies without installation; flags like `-race`, `-msan`, `-asan`, and `-cover` enable advanced runtime checks (data race, memory sanitizer, address sanitizer, and code coverage, respectively).
+- Build modes (`-buildmode`), caching controls (`-mod`, `-modfile`, `-modcacherw`), and overlay files (`-overlay`) provide fine-grained control over co
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://tip.golang.org/cmd/go/#hdr-Module_aware_go_get
+Original source URL: https://tip.golang.org/cmd/go/#hdr-Module_downloading_and_verification
 
 ## Local Vault File
 

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - c++
 - github-repo
+- hackernews
 - rag
 selection_reason:
 - Strong keyword match
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration.
-- **C++ core** with bindings to JavaScript/TypeScript, providing low-level access to system APIs while abstracting platform-specific complexities.
-- **Electron Shell** encapsulates Chromium's rendering engine and Node.js runtime, enabling single-codebase deployment across Windows, macOS, and Linux.
+- **Cross-platform desktop framework**: Electron enables building native applications for Windows, macOS, and Linux using web technologies (HTML, CSS, JavaScript) with a Chromium-based runtime and Node.js integration.
+
+- **Core architecture**: Combines V8 JavaScript engine, Chromium rendering engine, and Node.js APIs to provide a hybrid environment for desktop app development while maintaining native OS capabilities.
+
+- **Performance & extensibility**: Leverages C++ for performance-critical comp
 
 ## Use Cases
 

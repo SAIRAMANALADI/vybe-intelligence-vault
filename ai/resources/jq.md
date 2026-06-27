@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jqlang.github.io/jq/
-published_at: '2026-06-27T04:18:12.089772+05:30'
-collected_at: '2026-06-27T04:18:12.089783+05:30'
+published_at: '2026-06-27T09:55:11.372224+05:30'
+collected_at: '2026-06-27T09:55:11.372235+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:jq
-first_seen: '2026-06-27T04:18:12.089783+05:30'
-last_seen: '2026-06-27T04:18:12.089783+05:30'
-last_checked: '2026-06-27T04:18:12.089783+05:30'
+first_seen: '2026-06-27T09:55:11.372235+05:30'
+last_seen: '2026-06-27T09:55:11.372235+05:30'
+last_checked: '2026-06-27T09:55:11.372235+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Lightweight JSON processor**: `jq` is a portable C-based tool with zero runtime dependencies, enabling single-binary deployment across compatible systems (e.g., via `scp`).
-- **Functionality**: Acts as a streamlined `sed`-like utility for JSON, supporting slicing, filtering, mapping, and transformation with concise syntax.
-- **Releases**: Latest stable version is `1.8.2` (June 2026), with prior versions addressing security (e.g., CVE-2023-50246) and introducing features like datetime/math functions (v1.5).
+- **Lightweight C-based JSON processor** with zero runtime dependencies, distributed as a single binary executable for cross-platform compatibility (Linux, macOS, Windows, ARM/AMD64).
+- **Functional-style transformations** enabling data slicing, filtering, mapping, and restructuring via a concise DSL, analogous to `sed`/`awk` for JSON.
+- **Version 1.8.2 (June 2026)** latest stable release with security patches (e.g., CVE-2023-50246, CVE-2023-50268 fixes in 1.7.1) and modular extensibility via a built-in module system.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T04:18:12.089772+05:30
+- Published: 2026-06-27T09:55:11.372224+05:30
 
 ## Related Tags
 

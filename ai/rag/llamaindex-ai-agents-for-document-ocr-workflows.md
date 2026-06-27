@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-06-27T04:11:04.058121+05:30'
-collected_at: '2026-06-27T04:11:04.058132+05:30'
+published_at: '2026-06-27T09:51:04.295947+05:30'
+collected_at: '2026-06-27T09:51:04.295960+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-27T04:11:04.058132+05:30'
-last_seen: '2026-06-27T04:11:04.058132+05:30'
-last_checked: '2026-06-27T04:11:04.058132+05:30'
+first_seen: '2026-06-27T09:51:04.295960+05:30'
+last_seen: '2026-06-27T09:51:04.295960+05:30'
+last_checked: '2026-06-27T09:51:04.295960+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), auto-correction loops for error detection/fixing, and structured schema extraction—achieving high pass-through rates even on messy scans and multi-modal documents.
+- **Agentic OCR with VLM Integration**: LlamaParse leverages Vision-Language Models (VLMs) to automate document parsing, reducing manual processing time from hours to seconds while enabling layout-aware understanding and structured extraction.
 
-- **Performance & Scalability**: Benchmarks demonstrate superior performance in parsing complex documents (charts, tables) compared to proprietary VLM, commercial IDP, and open-source OCR solutions; supports 50+ unstructured file types with enterprise-grade chunking, embedding, and retrieval pipelines optimized for RAG.
+- **Multi-Modal Document Agents**: Specialized agents handle diverse content types (text, charts, tables, handwritten notes) with auto-correction loops for error detection and recursive refinement, ensuring high accuracy across complex, multi-modal documents.
 
-- **Enterprise Deployment**: Offers 10K free credits/month (~1K pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud/VPC deployment, and dedicated SLAs—targeting finance, insurance, manufacturing, and healthcare industries for AI-driven document automation workflows.
+- **Enterprise-Grade Features**: Supports 50+ file types, schema-based extraction, HIPAA/GDPR/SOC2 compliance, and flexible deployment (cloud or VPC), with benchmarks demonstrating superior performance in parsing, table/chart extraction, and retrieval for RAG workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:11:04.058121+05:30
+- Published: 2026-06-27T09:51:04.295947+05:30
 
 ## Related Tags
 

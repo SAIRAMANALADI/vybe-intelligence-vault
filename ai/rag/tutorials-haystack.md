@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-27T01:44:32.221693+05:30'
-collected_at: '2026-06-27T01:44:32.221706+05:30'
+published_at: '2026-06-27T09:53:12.652383+05:30'
+collected_at: '2026-06-27T09:53:12.652399+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-27T01:44:32.221706+05:30'
-last_seen: '2026-06-27T01:44:32.221706+05:30'
-last_checked: '2026-06-27T01:44:32.221706+05:30'
+first_seen: '2026-06-27T09:53:12.652399+05:30'
+last_seen: '2026-06-27T09:53:12.652399+05:30'
+last_checked: '2026-06-27T09:53:12.652399+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive walkthrough covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
-
-- **Multimodal RAG Pipeline**: Tutorial demonstrating a Vision+Text RAG system that integrates image and text embeddings for cross-modal retrieval and question answering.
-
-- **KV Cache Compression**: Guide on using TurboQuant quantization to reduce memory usage in LLM inference, enabling deployment of large models on consumer GPUs.
+- **Evaluation Framework**: Haystack provides a guided walkthrough for implementing evaluation metrics to assess RAG pipeline performance, including statistical and model-based approaches.
+- **Agentic Architectures**: Tutorials cover advanced agent systems, including tool-calling agents, multi-agent workflows, and conversational RAG with memory management (`InMemoryChatMessageStore`).
+- **Multimodal & Optimization Techniques**: Includes multimodal RAG pipelines (vision+text), KV cache compression (`TurboQuant`), and hybrid retrieval combining keyword and dense retrieval methods.
 
 ## Why It Matters
 
@@ -41,12 +40,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:44:32.221693+05:30
+- Published: 2026-06-27T09:53:12.652383+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

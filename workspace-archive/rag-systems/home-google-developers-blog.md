@@ -2,7 +2,7 @@
 title: Home - Google Developers Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://developers.googleblog.com
+source_url: https://developers.googleblog.com/
 resource_id: blog:home-google-developers-blog
 local_vault_path: ai/rag/home-google-developers-blog.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemma 4 12B**: A dense, multimodal LLM enabling local AI execution on consumer devices (16GB RAM) with encoder-free architecture for direct multimodal data ingestion, supporting agentic workflows via Google AI Edge Gallery and Eloquent for offline voice/text processing.
+- **Gemma 4 12B Model**: A dense, multimodal LLM enabling local AI execution on consumer devices (16GB RAM laptops) with agentic workflows, direct multimodal data ingestion (encoder-free architecture), and offline capabilities via Google AI Edge tools (Eloquent, LiteRT-LM CLI).
 
-- **Google Antigravity**: Agentic development platform for autonomous task orchestration, combining AI-powered Editor View and Manager Surface to deploy agents for planning, execution, and verification across editor/terminal
+- **Google Antigravity Platform**: Agent-first development platform for orchestrating autonomous agents with Editor View and Manager Surface, supporting task planning, execution, and verification across editor/terminal/b
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.googleblog.com
+Original source URL: https://developers.googleblog.com/
 
 ## Local Vault File
 

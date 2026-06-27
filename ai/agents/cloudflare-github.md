@@ -4,18 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/cloudflare
-published_at: '2026-06-25T23:09:12.763068+05:30'
-collected_at: '2026-06-25T23:09:12.763076+05:30'
+published_at: '2026-06-27T09:58:15.032454+05:30'
+collected_at: '2026-06-27T09:58:15.032468+05:30'
 tags:
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:cloudflare-github
-first_seen: '2026-06-25T23:09:12.763076+05:30'
-last_seen: '2026-06-25T23:09:12.763076+05:30'
-last_checked: '2026-06-25T23:09:12.763076+05:30'
+first_seen: '2026-06-27T09:58:15.032468+05:30'
+last_seen: '2026-06-27T09:58:15.032468+05:30'
+last_checked: '2026-06-27T09:58:15.032468+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **QUIC/HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern edge networking requirements.
+- **quiche**: Rust-based implementation of the QUIC transport protocol and HTTP/3, with 11.6k stars and 1k forks.
 
-- **Edge Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is Cloudflare's C++-based JavaScript/Wasm runtime powering Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) (TypeScript) provides the CLI (`Wrangler`) for deploying and managing Workers.
+- **workerd**: C++-based JavaScript/Wasm runtime powering Cloudflare Workers, featuring 8.4k stars and Apache-2.0 licensing.
 
-- **Developer Ecosystem**: Cloudflare maintains Rust (`workers-rs`) and TypeScript (`vinext`, `agents`) toolchains for Workers, alongside [`cloudflared`](https://github.com/cloudflare/cloudflared) (Go) for secure tunneling and edge-optimized AI/edge compute workflows.
+- **workers-rs**: Rust library enabling 100% Rust-based Cloudflare Workers via WebAssembly, with 3.5k stars and TypeScript tooling support.
 
 ## Why It Matters
 
@@ -37,14 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-25T23:09:12.763068+05:30
+- Published: 2026-06-27T09:58:15.032454+05:30
 
 ## Related Tags
 
 - agents
 - frontend_ui
+- reddit
 - web-crawled
-- workflows
 
 ## Source
 

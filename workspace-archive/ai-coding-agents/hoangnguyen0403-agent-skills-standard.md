@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized coding practices and best practices for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and programming languages (e.g., Kotlin, Go, Swift).
-- **Scope & Topics**: Encompasses agentic AI development, mobile (Android/iOS), and web frameworks (Next.js, Laravel), with structured guidelines for cursor rules and coding standards.
-- **Metadata**: 513 stars, 149 forks, last updated June 26, 2026,
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages and frameworks, including Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, React Native, Spring Boot, and iOS.
+
+- **Key Features**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to coding standards and framework-specific best practices for consistency and efficiency.
+
+- **Metadata**: 513 stars, 149 forks, last u
 
 ## Use Cases
 

@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack?source=post_page
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -10,11 +10,18 @@ archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- anthropic
+- producthunt
+- rag
+- web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
@@ -26,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Enables construction of production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Haystack GitHub Repository**: Open-source framework by deepset.ai for building RAG pipelines, with 25.7k stars, 2.9k forks, and active development (81 issues, 17 PRs).
 
-- **Multi-Use Case Support**: Facilitates scalable agents, RAG systems, multimodal applications, semantic search, and conversational AI through a unified architecture.
+- **Community Tools & Discussions**: Recent community contributions include a diagnostics engine for RAG pipeline validation, agent memory guard for security, and async execution bridges for sandboxed pipelines.
 
-- **Technical Stack**: Implemented in Python with PyTorch, leveraging modern NLP techniques (transfo
+- **Documentation & Debugging Focus**: New open-source documentation site launched; ongoing discussions on debuggi
 
 ## Use Cases
 
@@ -40,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack?source=post_page
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

@@ -34,9 +34,10 @@ selection_reason:
 
 ## Summary
 
-- Go Modules introduced in Go 1.11 (2018), replacing `vgo` prototype; production-ready since Go 1.14 with `-mod=vendor` and `-mod=readonly` defaults.
-- Go 1.16+ enforces module mode (`GO111MODULE=on` by default), uses `-mod=readonly` for `go.mod`/`go.sum` protection, and supports `go install pkg@version` for global installs.
-- `GOPRIVATE`, `GONOPROXY`, and `GONOSUMDB` configure private module handling; `retract` in `go.mod` allows version deprecation.
+- Go Modules support was introduced in Go 1.11 (with `vgo` prototype in 2018) and declared production-ready in Go 1.14, replacing legacy dependency management systems.
+- Key behaviors by Go version:
+  - **1.16**: Module mode (`GO111MODULE=on`) is default; `-mod=readonly` prevents `go.mod`/`go.sum` modifications; `go install pkg@version` replaces global installs; `retract` added to `go.mod`.
+  - **1.15**: `GOMODCACHE` env var controls module cache location; `GODEBUG=modcacheunzipinplace=1` mitiga
 
 ## Use Cases
 

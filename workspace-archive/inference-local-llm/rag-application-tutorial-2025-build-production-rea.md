@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB like Supabase) and generation (LLMs) with chunking strategies (e.g., semantic, fixed-size) and embedding optimization (e.g., fine-tuned models, quantization) for contextual grounding.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages; optimizations include chunking strategies (e.g., semantic splitting), embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + cosine similarity).
 
-- **Production Optimizations**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching (e.g., Redis), load balancing (multi-model inference), and latency reduction via Cloudflare Workers for scalab
+- **Production Hardening**: Implements caching (e.g., Redis), load balancing (multi-model inference), observability (Sentry + latency metrics), and deployment via Cloudflare Workers; addresses hallucinations via retrieval
 
 ## Use Cases
 

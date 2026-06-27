@@ -3,16 +3,16 @@ title: Node.js — Run JavaScript Everywhere
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://nodejs.org
-published_at: '2026-06-22T11:20:54.607736+05:30'
-collected_at: '2026-06-22T11:20:54.607746+05:30'
+source_url: https://nodejs.org/
+published_at: '2026-06-27T09:57:29.214128+05:30'
+collected_at: '2026-06-27T09:57:29.214142+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:node-js-run-javascript-everywhere
-first_seen: '2026-06-22T11:20:54.607746+05:30'
-last_seen: '2026-06-22T11:20:54.607746+05:30'
-last_checked: '2026-06-22T11:20:54.607746+05:30'
+first_seen: '2026-06-27T09:57:29.214142+05:30'
+last_seen: '2026-06-27T09:57:29.214142+05:30'
+last_checked: '2026-06-27T09:57:29.214142+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform JS runtime**: Node.js is an open-source, event-driven JavaScript runtime built on Chrome's V8 engine, enabling server-side, CLI, and script execution outside browsers.
-
-- **Core capabilities**: Supports HTTP server creation (e.g., `createServer`), file I/O operations (e.g., streams, hashing), and multi-threading via worker threads for concurrent task execution.
-
-- **Execution model**: Uses non-blocking I/O and asynchronous programming patterns (e.g., callbacks, Promises) to optimize performance for I/O-bound workloads.
+- Node.js is a cross-platform JavaScript runtime enabling server-side execution of JS code outside browsers.
+- Provides core APIs for HTTP server creation, file system operations, and asynchronous I/O via event-driven architecture.
+- Supports ES modules (`import/export`) and includes built-in modules like `node:http` for low-level networking.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:20:54.607736+05:30
+- Published: 2026-06-27T09:57:29.214128+05:30
 
 ## Related Tags
 
@@ -42,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://nodejs.org
+Original source: https://nodejs.org/

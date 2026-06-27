@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/policy/9db0094a1e0f
-published_at: '2026-06-26T22:53:12.491881+05:30'
-collected_at: '2026-06-26T22:53:12.491891+05:30'
+published_at: '2026-06-27T09:54:20.169575+05:30'
+collected_at: '2026-06-27T09:54:20.169589+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-06-26T22:53:12.491891+05:30'
-last_seen: '2026-06-26T22:53:12.491891+05:30'
-last_checked: '2026-06-26T22:53:12.491891+05:30'
+first_seen: '2026-06-27T09:54:20.169589+05:30'
+last_seen: '2026-06-27T09:54:20.169589+05:30'
+last_checked: '2026-06-27T09:54:20.169589+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **License Grant**: Users retain content ownership but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (web/mobile), with attribution, for operational and derivative purposes (e.g., previews, curated lists).
+- **Licensing & Content Rights**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all media formats (e.g., web, mobile) for Service operations, with attribution required for derivative works.
 
-- **Arbitration Clause**: Disputes (excluding small claims/IP injunctions) **must be resolved via binding arbitration** under JAMS Rules, waiving class actions/jury trials. Arbitration is held in San Francisco (or user’s county if a consumer) and governed by the **Federal Arbitration Act (9 U.S.C. § 1 et seq.)**.
+- **Dispute Resolution & Liability Limits**: All disputes (except small claims/IP injunctions) are resolved via **confidential, binding arbitration** under JAMS rules, waiving class actions/jury trials. Medium’s liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, with indemnification required for user violations.
 
-- **Liability Limits**: Medium’s liability is capped at **$50 USD or fees paid** (whichever is greater) for most claims, excluding gross negligence/fraud. **No liability** for indirect damages (e.g., lost profits, incidental/consequential losses) unless prohibited by law.
+- **Data Processing & Termination**: Users consent to **cross-border data processing/storage** (including outside local privacy laws). Medium may **suspend/terminate access** at will, and retains rights to limit storage, remove content, or discontinue Services entirely.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:53:12.491881+05:30
+- Published: 2026-06-27T09:54:20.169575+05:30
 
 ## Related Tags
 

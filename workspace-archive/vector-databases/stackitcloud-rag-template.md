@@ -16,8 +16,6 @@ tags:
 - models
 - python
 - rag
-- reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Provides a template for building AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities.
-- **Tech Stack**: Utilizes FastAPI for the backend, Python for core logic, and supports Docker/Kubernetes for deployment; integrates with Ollama for LLM operations and a vector database for embeddings.
-- **Scalability & Features**: Designed for scalable deployments with Kubernetes, supports RAG-chatbot workflows, and in
+- **RAG Implementation**: Provides a template for Retrieval-Augmented Generation (RAG) chatbots with FastAPI, integrating vector search and document management.
+- **Deployment Options**: Supports Docker and Kubernetes for containerized deployment, with Ollama for local LLM inference.
+- **Tech Stack**: Python-based, leveraging vector databases, FastAPI for API endpoints, and STACKIT cloud integration.
 
 ## Use Cases
 

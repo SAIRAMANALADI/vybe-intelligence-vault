@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/huggingface
-published_at: '2026-06-26T22:44:16.158119+05:30'
-collected_at: '2026-06-26T22:44:16.158132+05:30'
+published_at: '2026-06-27T09:56:17.909812+05:30'
+collected_at: '2026-06-27T09:56:17.909826+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:hugging-face-github
-first_seen: '2026-06-26T22:44:16.158132+05:30'
-last_seen: '2026-06-26T22:44:16.158132+05:30'
-last_checked: '2026-06-26T22:44:16.158132+05:30'
+first_seen: '2026-06-27T09:56:17.909826+05:30'
+last_seen: '2026-06-27T09:56:17.909826+05:30'
+last_checked: '2026-06-27T09:56:17.909826+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: Hugging Face maintains industry-standard open-source libraries including `transformers` (SOTA ML frameworks for text/vision/audio/multimodal models), `diffusers` (diffusion models for generative tasks), `datasets` (largest AI dataset hub with efficient tools), and `tokenizers` (high-performance Rust-based tokenization optimized for research/production).
+- **Hugging Face** is an AI research organization maintaining core ML libraries like `transformers` (162k⭐) for multi-modal model definition, `diffusers` (33.9k⭐) for diffusion-based generative models, and `datasets` (21.7k⭐) for large-scale data pipelines, all under Apache-2.0 licenses.
 
-- **Optimization & Fine-Tuning**: Provides `accelerate` (PyTorch acceleration across devices with mixed precision/FP8/FSDP/DeepSpeed), `peft` (parameter-efficient fine-tuning methods like LoRA), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
+- **Key infrastructure tools** include `accelerate` (9.7k⭐) for PyTorch model training/inference optimization (FSDP, DeepSpeed, mixed precision), `peft` (21.3k⭐) for parameter-efficient fine-tuning, and `tokenizers` (10.8k⭐) for high-performance Rust-based tokenization.
 
-- **Hub & Community**: Hosts the [Hugging Face Hub](https://huggingface.co) (verified domain) with 65k+ followers, supporting model/dataset sharing, and sponsors cutting-edge projects like `agentcap` (agentic session capture) and `kernels` (compute kernel development).
+- **Emerging projects** span `candle` (Rust-based minimal ML framework, 20.5k⭐), `xet-core` (versioning for large datasets), and `speech-to-speech` (4.9k⭐) for open-source voice agent development.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T22:44:16.158119+05:30
+- Published: 2026-06-27T09:56:17.909812+05:30
 
 ## Related Tags
 

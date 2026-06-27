@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-06-27T01:40:46.349830+05:30'
-collected_at: '2026-06-27T01:40:46.349844+05:30'
+published_at: '2026-06-27T09:48:00.221182+05:30'
+collected_at: '2026-06-27T09:48:00.221196+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-06-27T01:40:46.349844+05:30'
-last_seen: '2026-06-27T01:40:46.349844+05:30'
-last_checked: '2026-06-27T01:40:46.349844+05:30'
+first_seen: '2026-06-27T09:48:00.221196+05:30'
+last_seen: '2026-06-27T09:48:00.221196+05:30'
+last_checked: '2026-06-27T09:48:00.221196+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (e.g., NVIDIA Nemotron models) only when additional context is required, improving efficiency over traditional RAG systems.
 
-- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterprise-grade reliability for agentic RAG pipelines.
+- **Core Model Stack**: Integrates **Nemotron Nano 9b V2** (LLM for response generation), **Llama 3.2 EmbedQA 1b V2** (embedding model for vectorization), and **Llama 3.2 RerankQA 1b V2** (reranking model for relevance optimization) via NVIDIA NIM endpoints for high-performance inference.
 
-- **Modular Pipeline Components**: Implements a structured workflow including text splitting, vector database ingestion, document retriever/reranker setup, and retrieval chain integration, with clear system prompts to enforce grounded responses and source citation.
+- **Pipeline Workflow**: Implements a Retrieval Chain with LangGraph, where the agent iteratively reasons, calls tools (e.g., semantic search, hybrid retrieval), and synthesizes responses, with system prompts enforcing grounded, citable, and concise output.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:40:46.349830+05:30
+- Published: 2026-06-27T09:48:00.221182+05:30
 
 ## Related Tags
 

@@ -2,22 +2,22 @@
 title: Latest News from Google Research Blog - Google Research
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://research.google/blog
+source_url: https://research.google/blog/
 resource_id: blog:latest-news-from-google-research-blog-google-resea
 local_vault_path: ai/rag/latest-news-from-google-research-blog-google-resea.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - agents
-- benchmark
 - dataset
+- models
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Latest News from Google Research Blog - Google Research
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Reasoning-Augmented LMs**: Proposes a framework where large language models (LLMs) use chain-of-thought (CoT) reasoning to dynamically retrieve and synthesize parametric knowledge, improving recall accuracy without external retrieval systems.
+- **Frozen Multi-Token Prediction (MTP)**: Introduces a method to accelerate inference in Google's **Gemini Nano** models on Pixel devices by freezing the MTP decoder, reducing computational overhead while maintaining output quality.
 
-- **Parametric Knowledge Activation**: Demonstrates that structured reasoning (e.g., step-by-step decomposition) enables LLMs to access latent knowledge more effectively than direct prompting, reducing hallucinations in factual recall tasks.
+- **Architectural Optimization**: The MTP1 architecture leverages **parallel token prediction** during training to enable efficient multi-token generation during inference, improving latency without retraining the base model.
 
-- **Evalu
+- **Pixel Deployment**: Demonstrates *
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://research.google/blog
+Original source URL: https://research.google/blog/
 
 ## Local Vault File
 

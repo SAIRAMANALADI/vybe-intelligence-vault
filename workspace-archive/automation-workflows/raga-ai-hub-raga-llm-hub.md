@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and enhancing LLM security within MLOps workflows.
-- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and deployment-time security validation for LLMs.
-- **Technical Stack**: Python-based, integrates with LLMops pipelines for scalable monitoring and compliance enforcement.
+- **Purpose**: Framework for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within MLOps workflows.
+- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and compliance enforcement for LLMs.
+- **Technical Stack**: Python-based, integrates with LLMops pipelines for deployment and monitoring.
 
 ## Use Cases
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-27T01:40:44.473024+05:30'
-collected_at: '2026-06-27T01:40:44.473041+05:30'
+published_at: '2026-06-27T09:48:00.028886+05:30'
+collected_at: '2026-06-27T09:48:00.028901+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-27T01:40:44.473041+05:30'
-last_seen: '2026-06-27T01:40:44.473041+05:30'
-last_checked: '2026-06-27T01:40:44.473041+05:30'
+first_seen: '2026-06-27T09:48:00.028901+05:30'
+last_seen: '2026-06-27T09:48:00.028901+05:30'
+last_checked: '2026-06-27T09:48:00.028901+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense/sparse retrieval), and vector storage (e.g., Supabase) for efficient retrieval augmented generation.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages; optimizations include chunking strategies (e.g., semantic splitting), embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + cosine similarity).
 
-- **Production Optimization**: Key strategies involve token usage reduction (e.g., query rewriting, selective retrieval), caching (e.g., Redis), load balancing across models, and deployment via edge workers (e.g., Cloudflare) for low-latency inference.
+- **Production Hardening**: Implements caching (e.g., Redis), load balancing (multi-model inference), observability (Sentry + latency metrics), and deployment via Cloudflare Workers; addresses hallucinations via retrieval grounding and context validation.
 
-- **Monitoring & Scalability**: Implements observability via Sentry for error tracking, benchmarks latency breakdowns, and scales through multi-model inference, hybrid retrieval, and multi-modal RAG (handling PDFs/images) while balancing cost-performance trade-offs.
+- **Advanced Patterns**: Supports multi-modal RAG (images/PDFs via OCR + CLIP embeddings), conversational memory (vector DB + session tracking), and cost optimization (token pruning, model quantization) with benchmarked trade-offs (e.g., 30% latency reduction via caching).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:40:44.473024+05:30
+- Published: 2026-06-27T09:48:00.028886+05:30
 
 ## Related Tags
 

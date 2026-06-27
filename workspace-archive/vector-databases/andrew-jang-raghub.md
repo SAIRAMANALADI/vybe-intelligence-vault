@@ -33,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
-- **Technical Scope**: Encompasses AI/ML/NLP tools, large language models (LLMs), and retrieval mechanisms, with a focus on open-source implementations and practical applications.
-- **Active Maintenance**: Last updated in 2026, indicating ongoing updates and community engagement wit
+- **Technical Breadth**: Covers AI/ML, NLP, and LLM-related tools with a focus on retrieval-augmented techniques, supporting advancements in generative AI.
+- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing updates and contributions from the developer co
 
 ## Use Cases
 

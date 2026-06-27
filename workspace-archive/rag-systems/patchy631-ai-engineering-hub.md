@@ -8,13 +8,14 @@ local_vault_path: ai/rag/patchy631-ai-engineering-hub.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) with 36,074 stars and 5,981 forks, focused on AI engineering tutorials using Jupyter Notebooks.
-- **Core Topics**: Covers LLMs, RAGs, AI agents, machine learning, and MCP (Model Context Protocol) with real-world applications.
-- **Last Updated**: June 26, 2026, indicating active maintenance and recent content updates.
+*   Provides in-depth, practical tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures, and AI agent development.
+*   Content is delivered primarily via Jupyter Notebooks, emphasizing a hands-on, code-centric approach to AI engineering.
+*   Covers real-world applications of advanced AI systems, focusing on operationalizing LLMs and RAG for agentic workflows.
 
 ## Use Cases
 

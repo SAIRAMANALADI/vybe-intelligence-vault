@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-27T04:08:33.339162+05:30'
+collected_at: '2026-06-27T09:48:33.403145+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
+- meta-ai
 - models
+- openai
 - python
 - rag
-- workflows
 stars: 156
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-27T04:08:33.339162+05:30'
-last_seen: '2026-06-27T04:08:33.339162+05:30'
-last_checked: '2026-06-27T04:08:33.339162+05:30'
+first_seen: '2026-06-27T09:48:33.403145+05:30'
+last_seen: '2026-06-27T09:48:33.403145+05:30'
+last_checked: '2026-06-27T09:48:33.403145+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector search (e.g., FAISS, Chroma) with keyword-based retrieval (BM25) for improved document retrieval accuracy.
 
-- **LangChain + RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow where user queries are processed via a vector store (e.g., FAISS or Chroma) and passed to an LLM (e.g., GPT) for contextual response generation.
+- **LangChain Integration**: Uses LangChain’s modular framework to orchestrate document loading, text splitting, embedding generation (e.g., OpenAI, HuggingFace), and LLM interaction (e.g., GPT-4, Llama).
 
-- **Streamlit UI**: Provides a real-time web interface (via Streamlit) to interact with the RAG system, displaying retrieved documents and generated answers with adjustable parameters (e.g., search weights, top-k results).
+- **Streamlit UI**: Provides an interactive web interface (via Streamlit) for querying the RAG system, visualizing retrieved documents, and displaying generated responses with real-time feedback.
 
 ## Why It Matters
 

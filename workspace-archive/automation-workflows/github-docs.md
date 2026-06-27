@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local operations, supports SSH for secure remote connections, and provides repository management for version control and collaboration.
+- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local operations and supports SSH for secure remote connections, enabling version control and collaboration workflows.
 
-- **CI/CD & Automation**: GitHub Actions enables workflow automation, GitHub Packages supports artifact management, and GitHub Pages facilitates static site hosting.
+- **Collaborative Development Workflows**: Pull requests facilitate code review and merging, while GitHub Actions enables CI/CD pipelines for automated testing and deployment.
 
-- **Security & Developer Tools**: Code security features (e.g., CodeQL, secret scanning) integrate with GitHub Advanced
+- **Security & Automation Tools**: GitHub Copilot provides AI-driven code suggestions, CodeQL enables static analysis for vuln
 
 ## Use Cases
 

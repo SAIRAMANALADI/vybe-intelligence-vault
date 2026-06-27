@@ -4,7 +4,6 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
-| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [- YouTube](https://youtu.be/XVFevYxRKAE) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [Cloudflare Dashboard | Manage Your Account](https://support.cloudflare.com) | `frontend-ai-ui/` | 70 |
@@ -17,6 +16,7 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [LMS Software for Learning Businesses | LearnWorlds](https://www.learnworlds.com/?utm_source=lwsites&utm_medium=hean tech&utm_content=lwfooter&utm_campaign=lwsites) | `frontend-ai-ui/` | 70 |
 | [Table of contents — voila 0.5.8 documentation](https://voila.readthedocs.io) | `frontend-ai-ui/` | 70 |
 | [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com) | `frontend-ai-ui/` | 70 |
+| [Google Family Link - Apps on Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter) | `frontend-ai-ui/` | 70 |
 | [Work with member roles - Operations - Confluence](https://compass-ops-help.atlassian.net/wiki/spaces/OPERATIONS/pages/10420253/Work+with+member+roles) | `frontend-ai-ui/` | 70 |
 | [Scenario Compass Initiative | IIASA](https://scenariocompass.org) | `frontend-ai-ui/` | 70 |
 | [Heroicons](https://heroicons.com) | `frontend-ai-ui/` | 70 |

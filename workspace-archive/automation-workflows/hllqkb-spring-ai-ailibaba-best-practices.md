@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (Embedding), knowledge graphs, and function calls for hybrid retrieval, supporting text, images, and structured data.
+- **Implements multiple AI integration patterns** in Java using Spring AI with Alibaba Cloud services, including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message management.
 
-- **Agentic Workflows**: Deploys AI agents with stateful history management (SSE streaming) for dynamic decision-making, integrating tool use (FunctionCall) and multi-turn conversational memory.
+- **Supports multimodal AI capabilities** with image generation (via Alibaba Cloud's Tongyi Wanxiang), image understanding (via multimodal models), and embedding/vector database integration for RAG pipelines.
 
-- **End-to-End Java Stack**: Leverages Spring AI with Alibaba Cloud services for em
+- **Leverages vector databases and embedding models** for retrie
 
 ## Use Cases
 

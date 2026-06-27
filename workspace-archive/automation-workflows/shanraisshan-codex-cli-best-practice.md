@@ -8,18 +8,19 @@ local_vault_path: ai/agents/shanraisshan-codex-cli-best-practice.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # shanraisshan/codex-cli-best-practice
@@ -28,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository provides structured methodologies to transition from traditional "vibe coding" to agentic engineering using Codex CLI, emphasizing modular, reusable agentic workflows and hooks for automation.
+- **Agentic Workflow Integration**: Repository demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing systematic AI agent workflows for code generation and automation.
 
-- **CLI-Centric Best Practices**: Focuses on Codex CLI-specific optimizations, including skill management, context engineering, and command chaining to enhance AI-driven development efficiency and reproducibility.
+- **CLI Commands & Skills**: Provides optimized Codex CLI commands, hooks, and context-engineering techniques to enhance AI agent capabilities, including reusable skills and modular workflows for OpenAI Codex.
 
-- **Open-Source Contribution Framework**: Of
+- **Best Practices Repository**: Curated collection of Python-based b
 
 ## Use Cases
 

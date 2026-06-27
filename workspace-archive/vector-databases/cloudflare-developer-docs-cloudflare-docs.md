@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Serverless Compute & AI**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI—eliminating server management, cold starts, and GPU provisioning (`npm create cloudflare@latest my-app`, `npx wrangler ai models`).
+- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI—eliminating cold starts, GPU management, and capacity planning with single-command execution (`npm create cloudflare@latest my-app`, `npx wrangler ai models`).
 
-- **Unified Data & Media Pipelines**: Provides globally distributed SQL (D1), key-value (KV), object storage (R2), and media optimization (Images/Stream) with direct Worker integratio
+- **Globally Distributed Data & Media Pipelines**: Supports serverless SQL (D1), key-value (KV), object storage (R2), and real-time media proce
 
 ## Use Cases
 

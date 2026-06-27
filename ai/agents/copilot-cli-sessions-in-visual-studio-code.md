@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-27T04:16:17.794014+05:30'
-collected_at: '2026-06-27T04:16:17.794027+05:30'
+published_at: '2026-06-27T09:52:30.182528+05:30'
+collected_at: '2026-06-27T09:52:30.182541+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-27T04:16:17.794027+05:30'
-last_seen: '2026-06-27T04:16:17.794027+05:30'
-last_checked: '2026-06-27T04:16:17.794027+05:30'
+first_seen: '2026-06-27T09:52:30.182541+05:30'
+last_seen: '2026-06-27T09:52:30.182541+05:30'
+last_checked: '2026-06-27T09:52:30.182541+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI sessions** run autonomously in the background via VS Code's Copilot SDK, enabling parallel task execution (e.g., feature implementation, POC variants) without blocking the editor, with status monitoring via the unified Chat view.
+- **Copilot CLI sessions** run autonomously in the background via the Copilot CLI agent harness, managed via VS Code’s Chat view, with SDK integration for start/stop/monitoring; sessions persist outside VS Code (unlike local agents) and support multi-repository workspaces.
 
-- **Isolation modes** include **Worktree** (Git worktree for isolated changes) and **Folder** (direct workspace modifications), with Worktree auto-approving tool calls (Bypass Approvals) and Folder supporting configurable permission levels (Default/Bypass/Autopilot).
+- **Isolation modes** include **Worktree** (Git worktree-based, auto-bypasses approvals, changes isolated) and **Folder** (direct workspace edits, configurable permissions: Default/Bypass/Autopilot).
 
-- **Session management** supports slash commands (`/research`, `/compact`, `/yolo`), multi-repository workspaces, and third-party agent integration (e.g., OpenAI Codex), with session persistence independent of VS Code closure.
+- **Key features** include slash commands (`/research`, `/yolo`), reusable prompts/skills/hooks, and permission controls; sessions are suited for scoped, low-interaction tasks (e.g., feature implementation, deep research).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-27T04:16:17.794014+05:30
+- Published: 2026-06-27T09:52:30.182528+05:30
 
 ## Related Tags
 

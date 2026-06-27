@@ -8,7 +8,7 @@ local_vault_path: ai/rag/supabase-the-postgres-development-platform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -18,9 +18,10 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Supabase | The Postgres Development Platform.
@@ -29,17 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **PostgreSQL-based platform** providing a full relational database with built-in authentication (RLS), RESTful APIs, and real-time capabilities via a managed cloud service.
+- **PostgreSQL-based backend platform** providing a managed relational database with built-in authentication, RESTful APIs, and real-time capabilities via Row-Level Security (RLS) and Postgres extensions.
 
-- **Modular backend services** including Edge Functions for serverless compute, Storage for large file handling, and Vector embeddings for ML model integration (OpenAI, Hugging Face).
+- **Serverless compute & storage integration** offering Edge Functions for custom logic, scalable object storage for media, and vector embeddings support for AI/ML workloads with integrations to OpenAI and Hugging Face.
 
-- **Scalable infrastructure** with instant deployment, automatic scaling, and enterprise-grade security, trusted by companies like Mozilla,
+- **Unified development workflow** with an integrated dashboard for SQL/R
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **No active job openings** at Medium as of the latest update.
-- **Job alert system** available for users to receive notifications for future opportunities.
-- **Medium’s mission** remains focused on building the optimal platform for reading and writing online.
+- **Role**: Senior Data Platform Engineer (Remote - US) at Medium, focusing on building infrastructure for reading/writing content at internet scale.
+- **Responsibilities**: Design, develop, and optimize distributed systems for data processing, storage, and analytics to support Medium’s platform.
+- **Requirements**: Advanced expertise in data engineering (e.g., Spark, Kafka, cloud platforms) and scalable architecture, with remote US-based eligibility.
 
 ## Use Cases
 

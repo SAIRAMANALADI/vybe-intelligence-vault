@@ -8,20 +8,18 @@ local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - openai
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
@@ -30,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- Supabase docs support four structured document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **Reference** (factual, parameter/return-type-focused, auto-generated from specs).
+- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting constraints.
 
-- Docs are authored in **MDX** with YAML frontmatter, stored in `apps/docs/content`, and organized via navigation files; reference docs are dynamically generated from spec files (`common-client-libs-sections.
+- Docs are authored in **MDX** with YAML frontmatter (e.g., `title`, `hideToc`), stored in `apps/docs/content`, and use **partials** (`_partials/`) for reusable snippets; navigation is defined in `NavigationM
 
 ## Use Cases
 

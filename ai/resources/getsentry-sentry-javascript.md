@@ -3,8 +3,8 @@ title: getsentry/sentry-javascript
 category: ai/resources
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/getsentry/sentry-javascript
-collected_at: '2026-06-27T04:20:11.203828+05:30'
+source_url: https://github.com/getsentry/sentry-javascript/
+collected_at: '2026-06-27T09:53:20.488498+05:30'
 published_at: '2026-06-26T21:28:50Z'
 tags:
 - frontend_ui
@@ -16,11 +16,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2012-02-01T20:16:25Z'
-pushed_at: '2026-06-26T22:04:06Z'
+pushed_at: '2026-06-27T04:18:38Z'
 resource_id: github:getsentry/sentry-javascript
-first_seen: '2026-06-27T04:20:11.203828+05:30'
-last_seen: '2026-06-27T04:20:11.203828+05:30'
-last_checked: '2026-06-27T04:20:11.203828+05:30'
+first_seen: '2026-06-27T09:53:20.488498+05:30'
+last_seen: '2026-06-27T09:53:20.488498+05:30'
+last_checked: '2026-06-27T09:53:20.488498+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-platform SDK**: Provides official Sentry SDKs for JavaScript, supporting environments like browser, Node.js, Angular, React, Vue, Ember, and Next.js with TypeScript-first implementation.
-- **Comprehensive Error Monitoring**: Enables real-time error tracking, crash reporting, and performance monitoring across web and server-side JavaScript applications.
-- **Modular & Extensible**: Offers integrations with frameworks (React, Vue, Angular) and tools (Raven legacy support) via plugins, with active maintenance (last updated 2026-06-26).
+- **Multi-platform SDK**: Provides official JavaScript/TypeScript SDKs for error monitoring and crash reporting across Node.js, browser, and frameworks (React, Angular, Vue, Ember, Next.js).
+- **Modular Architecture**: Implements a plugin-based system for extensibility, supporting integrations with frontend frameworks, performance monitoring, and custom error handling.
+- **TypeScript Support**: Fully typed with TypeScript definitions, enabling type-safe error tracking and IDE autocompletion across all supported environments.
 
 ## Why It Matters
 
@@ -40,14 +40,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: getsentry
 - Stars: 8697
-- Forks: 1786
+- Forks: 1787
 - Language: TypeScript
 - Topics: angular, crash-reporting, ember, error-monitoring, hacktoberfest, javascript, javascript-client, nextjs, node, raven, react, sdk, sentry, sentry-client, tag-production, team-sdk-javascript, team-web-frontend, typescript, vue
 - Last Updated: 2026-06-26T21:28:50Z
 - License: MIT
 - Archived: No
 - Created At: 2012-02-01T20:16:25Z
-- Pushed At: 2026-06-26T22:04:06Z
+- Pushed At: 2026-06-27T04:18:38Z
 
 ## Possible Use Cases
 
@@ -65,4 +65,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/getsentry/sentry-javascript
+Original source: https://github.com/getsentry/sentry-javascript/

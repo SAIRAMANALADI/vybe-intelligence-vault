@@ -8,11 +8,9 @@ local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
-- dataset
 - frontend_ui
 - github-repo
 - openai
@@ -29,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any LLM (e.g., ChatGPT, open-source models) via a unified API, enabling flexible model switching and benchmarking.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search (e.g., FAISS, Chroma) for contextual information retrieval, optimized for large-scale datasets.
+- **Enterprise-Grade Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and advanced information retrieval for scalable, self-hosted AI applications in production environments.
 
-- **Full-Stack Architecture**: Python backend with Next.js fro
+- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering a modern chat UI, enterprise sea
 
 ## Use Cases
 

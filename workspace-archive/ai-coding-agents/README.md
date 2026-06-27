@@ -9,13 +9,13 @@ AI coding agents represent the next leap in software engineering, moving from co
 ## Top Matched Resources
 
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (framework - ESSENTIAL Tier)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (framework - ESSENTIAL Tier)
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (prompt - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [Speechify · GitHub](https://github.com/SpeechifyInc) (framework - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (workflow - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/features/copilot (GitHub Copilot)
 https://github.com/addy-dcl/cline (Cline)
 https://github.com/features/claude-code (Claude Code)
 https://github.com/All-Hands-AI/OpenHands (OpenHands)
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - [Speechify · GitHub](https://github.com/SpeechifyInc)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/All-Hands-AI/OpenHands (OpenHands)
 
 ---
 
-*Last updated: 2026-06-27 04:23 IST*
+*Last updated: 2026-06-27 10:03 IST*

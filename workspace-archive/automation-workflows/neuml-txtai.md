@@ -12,10 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
+- **Framework Overview**: `txtai` is a Python-based AI framework integrating semantic search, LLM orchestration, and language model workflows, leveraging embeddings, transformers, and vector databases for advanced NLP tasks.
 
-- **Modular Components**: Supports embeddings, vector search, RAG, and transformer models with built-in agents for scalable NLP and information retrieval tasks.
+- **Core Capabilities**: Supports agents, RAG, retrieval-augmented generation, and semantic search via sentence embeddings and vector search, enabling scalable information retrieval and language model automation.
 
-- **Vector Database Integration**: Enables efficient storage and retrieval of sentence embeddings with optimized vector search capabilities for large-scale datasets.
+- **Technical Stack**: Built on Python with integrations for
 
 ## Use Cases
 

@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.npmjs.com/
-published_at: '2026-06-27T01:47:16.144585+05:30'
-collected_at: '2026-06-27T01:47:16.144598+05:30'
+published_at: '2026-06-27T09:57:27.464578+05:30'
+collected_at: '2026-06-27T09:57:27.464592+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:npm-status
-first_seen: '2026-06-27T01:47:16.144598+05:30'
-last_seen: '2026-06-27T01:47:16.144598+05:30'
-last_checked: '2026-06-27T01:47:16.144598+05:30'
+first_seen: '2026-06-27T09:57:27.464592+05:30'
+last_seen: '2026-06-27T09:57:27.464592+05:30'
+last_checked: '2026-06-27T09:57:27.464592+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **npm Statuspage** provides real-time incident tracking for npm services, including website, package installation, publishing, search, security audit, and replication feed, with historical uptime data (e.g., 99.93% uptime for `www.npmjs.com` over 90 days).
-- **Notification System** supports email and SMS alerts for incident creation, updates, and resolutions, with OTP-based verification and country-specific phone number support.
-- **Recent Incident** (June 12, 2026): Intermittent publish failures were identified, investigated, and resolved with monitoring applied after a fix was implemented.
+- **Operational Status**: npm services (website, package installation/publishing/search, security audit, replication feed) reported 99.93–100% uptime over the past 90 days, with no major outages in the displayed incident history.
+- **Notification System**: Supports email/SMS alerts for incident creation/resolution via reCAPTCHA-protected forms, adhering to Atlassian/npm privacy policies.
+- **Monitoring & Feeds**: Provides historical uptime data, Atom/RSS feeds, and Twitter updates (@npmstatus) for real-time service status tracking.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:47:16.144585+05:30
+- Published: 2026-06-27T09:57:27.464578+05:30
 
 ## Related Tags
 

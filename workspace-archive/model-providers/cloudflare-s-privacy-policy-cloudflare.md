@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloudflare’s connectivity cloud** integrates 60+ networking, security, and performance services, including SASE (Cloudflare One), application security (L7 DDoS protection, WAF, API security), and application performance (CDN, DNS, load balancing).
+- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including SASE (Zero Trust, SWG, SD-WAN), application security (L7 DDoS, WAF, API Shield), and performance optimization (CDN, DNS, load balancing).
 
-- **Developer platform** supports AI/ML (Workers AI, AI Gateway), serverless compute (Workers), storage (R2, D1), and real-time media (Realtime, Images), with pricing tiers for Workers, KV, and R2.
+- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and real-time media (Realtime, Images) with global edge deployment and pay-as-you-go pricing.
 
-- **Enterprise-grade solutions** include Zero Tr
+- **Enterprise-Grade Secu
 
 ## Use Cases
 

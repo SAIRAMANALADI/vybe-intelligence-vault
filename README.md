@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 8,954</p>
-        <p><b>Active:</b> 8,735 | <b>Inactive:</b> 219</p>
+        <p><b>Resources tracked:</b> 8,998</p>
+        <p><b>Active:</b> 8,779 | <b>Inactive:</b> 219</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,298</p>
+        <p><b>Archive Files:</b> 34,435</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 09:38 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 10:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,14 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+6</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • <kbd>+91 pts</kbd>
+- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+41 pts</kbd>
+- 🔼 **[Cloudflare · GitHub](ai/agents/cloudflare-github.md)** • Rank: <kbd>+1116</kbd>
+- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+59</kbd>
+- 🔼 **[Data Scientist Courses | Free Neo4j Courses from GraphAcademy](ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md)** • Rank: <kbd>+308</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](ai/community/u-s-allows-anthropic-to-release-mythos-ai-to-trust.md)** • Score: `294`
+- 🆕 **[AI in mathematics is forcing big questions](ai/community/ai-in-mathematics-is-forcing-big-questions.md)** • Score: `75`
+- 🆕 **[Show HN: Hacker News on a train station-style flip board](ai/community/show-hn-hacker-news-on-a-train-station-style-flip.md)** • Score: `32`
+- 🆕 **[Ask HN: MacBook vs. Dedicated GPU for LLM](ai/community/ask-hn-macbook-vs-dedicated-gpu-for-llm.md)** • Score: `9`
+- 🆕 **[Kamod Hooks – a Preact hooks library ported from ahooks](web-development/community/kamod-hooks-a-preact-hooks-library-ported-from-aho.md)** • Score: `3`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

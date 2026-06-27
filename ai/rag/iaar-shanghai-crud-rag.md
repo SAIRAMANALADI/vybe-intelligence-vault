@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-27T04:09:08.436480+05:30'
+collected_at: '2026-06-27T09:49:08.421400+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-27T04:09:08.436480+05:30'
-last_seen: '2026-06-27T04:09:08.436480+05:30'
-last_checked: '2026-06-27T04:09:08.436480+05:30'
+first_seen: '2026-06-27T09:49:08.421400+05:30'
+last_seen: '2026-06-27T09:49:08.421400+05:30'
+last_checked: '2026-06-27T09:49:08.421400+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval accuracy, generation quality, and contextual relevance).
-- **Evaluation Framework**: The benchmark includes 4 key tasks (Create, Read, Update, Delete) to simulate real-world RAG scenarios, with metrics for both retrieval (e.g., precision/recall) and generation (e.g., coherence, factuality).
-- **Open-Source Toolkit**: Provides a Python-based toolkit for reproducible benchmarking, including datasets, evaluation scripts, and baseline models (e.g., BERT, T5) for Chinese RAG systems.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across four core operations: **C**reate, **R**etrieve, **U**pdate, and **D**elete, providing a standardized framework for assessing LLM performance in dynamic knowledge scenarios.
+
+- **Evaluation Metrics**: Implements multi-dimensional metrics including **retrieval accuracy**, **generation quality**, **contextual relevance**, and **task completion efficiency**, with standardized datasets and evaluation protocols tailored for Chinese language processing.
+
+- **Open-Source Toolkit**: Provides a Python-based open-source repository with modular implementations of RAG pipelines, enabling reproducibility, extensibility, and benchmarking across diverse LLM architectures and retrieval strategies.
 
 ## Why It Matters
 

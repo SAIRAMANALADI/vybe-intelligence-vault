@@ -6,9 +6,9 @@ source_url: https://docs.langchain.com/oss/python/deepagents
 resource_id: blog:deep-agents-overview-docs-by-langchain
 local_vault_path: ai/rag/deep-agents-overview-docs-by-langchain.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Deep Agents overview - Docs by LangChain
@@ -30,17 +30,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP servers), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control via glob patterns), code execution (sandboxed shell & JS interpreter), and streaming (typed event streams for real-time monitoring).
+- **Execution Environment**: Provides tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends), filesystem permissions (declarative access control), code execution (sandboxed shell/JS interpreter), and streaming (typed event streams for real-time monitoring).
 
-- **Context Management**: Integrates skills, memory, summarization, context offloading, and prompt caching to handle growing context efficiently, enabl
+- **Context Management**: Supports skills, memory, summarization, context offloading, and prompt caching for efficient long-term task handling and growing context mitigation.
+
+- **Delegation & Steering**: Enables task p
 
 ## Use Cases
 

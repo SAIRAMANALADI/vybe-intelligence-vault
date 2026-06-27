@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Enterprise AI Agent Framework**: Open-source reference architecture for deploying intelligent agents that interface with proprietary enterprise data, enabling reasoning via state-of-the-art LLMs and delivering actionable business insights.
+- **Enterprise AI Agent Framework**: Open-source reference architecture for deploying intelligent agents that interface with proprietary enterprise data, enabling reasoning via advanced LLMs and delivering actionable business insights.
 
-- **Modular Python Implementation**: Built in Python with extensible components for data ingestion, model integration, and reasoning pipelines, optimized for enterprise-scale deployments.
+- **Modular Python Implementation**: Built in Python with extensible components for data ingestion, model inference, and business logic integration, optimized for NVIDIA’s AI ecosystem.
 
-- **Trust & Governance Focus**: Incorporates mechanisms for data p
+- **Trust & Scalability Focus**: Incorporates mechanisms for data governance
 
 ## Use Cases
 

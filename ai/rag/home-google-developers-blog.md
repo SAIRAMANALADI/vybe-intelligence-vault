@@ -3,9 +3,9 @@ title: Home - Google Developers Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.googleblog.com
-published_at: '2026-06-24T23:00:04.099249+05:30'
-collected_at: '2026-06-24T23:00:04.099263+05:30'
+source_url: https://developers.googleblog.com/
+published_at: '2026-06-27T09:57:15.503927+05:30'
+collected_at: '2026-06-27T09:57:15.503940+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:home-google-developers-blog
-first_seen: '2026-06-24T23:00:04.099263+05:30'
-last_seen: '2026-06-24T23:00:04.099263+05:30'
-last_checked: '2026-06-24T23:00:04.099263+05:30'
+first_seen: '2026-06-27T09:57:15.503940+05:30'
+last_seen: '2026-06-27T09:57:15.503940+05:30'
+last_checked: '2026-06-27T09:57:15.503940+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemma 4 12B**: A dense, multimodal LLM enabling local AI execution on consumer devices (16GB RAM) with encoder-free architecture for direct multimodal data ingestion, supporting agentic workflows via Google AI Edge Gallery and Eloquent for offline voice/text processing.
+- **Gemma 4 12B Model**: A dense, multimodal LLM enabling local AI execution on consumer devices (16GB RAM laptops) with agentic workflows, direct multimodal data ingestion (encoder-free architecture), and offline capabilities via Google AI Edge tools (Eloquent, LiteRT-LM CLI).
 
-- **Google Antigravity**: Agentic development platform for autonomous task orchestration, combining AI-powered Editor View and Manager Surface to deploy agents for planning, execution, and verification across editor/terminal/browser, with progress tracking via Artifacts.
+- **Google Antigravity Platform**: Agent-first development platform for orchestrating autonomous agents with Editor View and Manager Surface, supporting task planning, execution, and verification across editor/terminal/browser; includes Artifacts for progress tracking (public preview).
 
-- **Agent-to-Agent (A2A) Protocol**: Enables secure, modular collaboration between specialized AI agents (e.g., Python/Go) for task delegation, preventing context pollution and simplifying workflows, with real-world applications like FoldRun for protein structure predictions.
+- **Agent-to-Agent (A2A) Protocol**: Enables secure, modular collaboration between AI agents (e.g., Python/Go agents) via the Agent Development Kit, preventing context pollution and simplifying workflows (e.g., FoldRun for protein structure predictions).
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:00:04.099249+05:30
+- Published: 2026-06-27T09:57:15.503927+05:30
 
 ## Related Tags
 
@@ -68,4 +68,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.googleblog.com
+Original source: https://developers.googleblog.com/

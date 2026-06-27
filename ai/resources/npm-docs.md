@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-06-27T01:46:10.707102+05:30'
-collected_at: '2026-06-27T01:46:10.707115+05:30'
+published_at: '2026-06-27T09:55:13.719370+05:30'
+collected_at: '2026-06-27T09:55:13.719382+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-06-27T01:46:10.707115+05:30'
-last_seen: '2026-06-27T01:46:10.707115+05:30'
-last_checked: '2026-06-27T01:46:10.707115+05:30'
+first_seen: '2026-06-27T09:55:13.719382+05:30'
+last_seen: '2026-06-27T09:55:13.719382+05:30'
+last_checked: '2026-06-27T09:55:13.719382+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for managing npm packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
-- **Registry & Packages**: Centralized npm registry hosts public/private packages with versioning, dependency resolution, and semantic versioning (semver) support.
-- **Security Policies**: Enforces package signing (npm provenance), vulnerability scanning, and access controls via organizations and two-factor authentication (2FA).
+- **npm CLI**: Command-line interface for managing npm registries, packages, and dependencies; includes commands like `npm install`, `npm publish`, and `npm audit` for security checks.
+- **Package Registry**: Centralized repository for JavaScript packages with versioning, dependency resolution, and metadata (e.g., `package.json`).
+- **Security & Policies**: Enforces access controls, threat mitigations (e.g., scope-based permissions), and compliance via npm’s threat and mitigation documentation.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T01:46:10.707102+05:30
+- Published: 2026-06-27T09:55:13.719370+05:30
 
 ## Related Tags
 

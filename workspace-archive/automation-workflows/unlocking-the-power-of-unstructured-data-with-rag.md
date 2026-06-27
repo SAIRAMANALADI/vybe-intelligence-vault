@@ -2,18 +2,18 @@
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
+source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 74
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi discusses recent security improvements in GitHub Actions, including hardened runners and secret scanning enhancements to mitigate supply chain risks.
-
-- **Automated Dependency Management**: Highlights GitHub's automated dependency updates and Dependabot improvements for proactive vulnerability patching in repositories.
-
-- **CI/CD Pipeline Optimization**: Focuses on performance optimizations in GitHub Actions workflows, such as faster job ex
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to documentation and community resources.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog and documentation, focusing on developer tools and workflows.
+- **Social Presence**: Maintains a GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and shares technical insights under the same handle.
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
+Original source URL: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 
 ## Local Vault File
 

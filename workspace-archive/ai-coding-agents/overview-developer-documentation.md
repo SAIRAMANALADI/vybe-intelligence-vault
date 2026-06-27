@@ -2,7 +2,7 @@
 title: Overview | Developer Documentation
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://developers.llamaindex.ai/python/llamaagents/overview/?utm_medium=li_github&utm_source=github&utm_campaign=2026--
+source_url: https://developers.llamaindex.ai/python/llamaagents/overview/?utm_source=github&utm_medium=org_card
 resource_id: blog:overview-developer-documentation
 local_vault_path: ai/agents/overview-developer-documentation.md
 quality_score: 70
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.llamaindex.ai/python/llamaagents/overview/?utm_medium=li_github&utm_source=github&utm_campaign=2026--
+Original source URL: https://developers.llamaindex.ai/python/llamaagents/overview/?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

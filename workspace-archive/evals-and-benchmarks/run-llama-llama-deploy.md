@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework for Agentic Workflows**: Python-based framework (`llama_deploy`) designed to deploy production-ready agentic workflows with support for multi-agent systems and LLM integration (e.g., LlamaIndex).
+- **Framework for Agentic Workflows**: Python-based framework designed to deploy and manage multi-agent systems and workflows in production environments.
 
-- **Production Deployment**: Enables scalable deployment of agentic systems with tools for managing workflows, state, and inter-agent communication in distributed environments.
+- **Integration with LlamaIndex**: Leverages LlamaIndex for LLM-powered applications, enabling structured data interaction and retrieval within agentic workflows.
 
-- **Key Features**: Supports LLM orchestration, modular agent design, and integrates with LlamaIndex for retrie
+- **Production-Ready Deployment**: Supports scalable, distributed deployment of agentic systems with tools for workflow orchestration, state management, and multi-agent coordination
 
 ## Use Cases
 

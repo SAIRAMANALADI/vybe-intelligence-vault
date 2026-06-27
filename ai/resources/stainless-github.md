@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/stainless-api
-published_at: '2026-06-27T04:19:25.686452+05:30'
-collected_at: '2026-06-27T04:19:25.686464+05:30'
+published_at: '2026-06-27T09:56:12.872743+05:30'
+collected_at: '2026-06-27T09:56:12.872759+05:30'
 tags:
 - anthropic
 - openai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:stainless-github
-first_seen: '2026-06-27T04:19:25.686464+05:30'
-last_seen: '2026-06-27T04:19:25.686464+05:30'
-last_checked: '2026-06-27T04:19:25.686464+05:30'
+first_seen: '2026-06-27T09:56:12.872759+05:30'
+last_seen: '2026-06-27T09:56:12.872759+05:30'
+last_checked: '2026-06-27T09:56:12.872759+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-language SDK Generation**: Stainless produces production-grade SDKs in TypeScript, Python, Go, Java, and Kotlin, supporting popular APIs like OpenAI, Modern Treasury, Anthropic, and Cloudflare.
-
-- **Automated Workflow Integration**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App for automated Release PRs to maintain SDK synchronization with upstream APIs.
-
-- **Developer Onboarding**: Requires OpenAPI spec upload via Stainless web app or GitHub Action, with GitHub App installation for continuous SDK updates.
+- **Multi-Language SDK Generation**: Stainless produces SDKs in TypeScript (npm), Python (PyPI), Go, Java (Maven), and Kotlin (Maven) for APIs like OpenAI, Modern Treasury, Anthropic, and others.
+- **Automated SDK Maintenance**: Uses GitHub Actions for OpenAPI spec updates and a GitHub App to auto-generate Release PRs for SDK repositories.
+- **Integration Workflow**: Requires OpenAPI specs pushed to GitHub, Stainless GitHub App installation, and initial setup via the [Stainless dashboard](https://app.stainlessapi.com/signup).
 
 ## Why It Matters
 
@@ -38,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T04:19:25.686452+05:30
+- Published: 2026-06-27T09:56:12.872743+05:30
 
 ## Related Tags
 

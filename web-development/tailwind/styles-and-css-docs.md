@@ -4,16 +4,16 @@ category: web-development/tailwind
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.astro.build/en/guides/styling/#tailwind
-published_at: '2026-06-27T04:18:14.431177+05:30'
-collected_at: '2026-06-27T04:18:14.431196+05:30'
+published_at: '2026-06-27T09:56:11.851821+05:30'
+collected_at: '2026-06-27T09:56:11.851834+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: blog:styles-and-css-docs
-first_seen: '2026-06-27T04:18:14.431196+05:30'
-last_seen: '2026-06-27T04:18:14.431196+05:30'
-last_checked: '2026-06-27T04:18:14.431196+05:30'
+first_seen: '2026-06-27T09:56:11.851834+05:30'
+last_seen: '2026-06-27T09:56:11.851834+05:30'
+last_checked: '2026-06-27T09:56:11.851834+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- Astro supports scoped styles (automatically scoped to the component) via `<style>` tags, preventing CSS leakage; global styles require explicit `is:global` attribute or opt-out via `scopedStyleStrategy` config.
-- CSS cascading order in Astro prioritizes: `<head>` link tags (lowest) → imported stylesheets → scoped styles (highest), with later imports overriding earlier ones at equal specificity.
-- Tailwind integration in Astro requires either the `astro add tailwind` CLI command (for v4+ via `@tailwindcss/vite`) or manual setup; legacy v3 support uses `@astrojs/tailwind` integration.
+- Astro supports **scoped styles** (default) via `style` tags with automatic scoping via unique `data-astro-cid-*` attributes, preventing style leakage while preserving specificity, and **global styles** via `<style is:global>` to disable scoping when needed.
+- CSS **import order** determines precedence: `<link>` tags (lowest) → imported stylesheets → scoped styles (highest), with same-specificity conflicts resolved by last-imported rule.
+- Tailwind integration in Astro (≥5.2.0) uses `astro add tailwind` to install `@tailwindcss/vite`, importing `tailwindcss` in `global.css` and applying it via layout components for full project-wide utility classes.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: web-development/tailwind
-- Published: 2026-06-27T04:18:14.431177+05:30
+- Published: 2026-06-27T09:56:11.851821+05:30
 
 ## Related Tags
 

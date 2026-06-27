@@ -8,7 +8,7 @@ local_vault_path: ai/rag/security-model.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - rag
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Security model
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) directories; `hugo server` is strictly for local development.
-- **Runtime Security**: Uses a virtual file system, read-only access, and controlled external binaries (e.g., Asciidoctor) with strict sandboxing; avoids arbitrary OS command execution.
-- **Dependency & Output Security**: Enforces checksum validation via `go.sum` for dependencies; sanitizes untrusted
+- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`, `data`) and untrusted (e.g., `content`, content adapters) directories; inline shortcodes require explicit trust of embedded logic.
+- **Runtime Protections**: Uses a virtual, read-only filesystem, restricts external binaries, and avoids arbitrary command execution; default security policy balances usability with safety but may tighten in future releases.
+- **Dependency & Output Security**: Enforces checksum val
 
 ## Use Cases
 

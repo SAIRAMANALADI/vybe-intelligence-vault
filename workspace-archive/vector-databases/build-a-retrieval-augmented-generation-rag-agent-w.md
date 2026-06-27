@@ -7,7 +7,7 @@ source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemo
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
 local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -23,7 +23,6 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -32,17 +31,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: prompt
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (e.g., NVIDIA Nemotron models) only when additional context is required, improving efficiency over traditional RAG systems.
 
-- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterpri
+- **Core Model Stack**: Integrates **Nemotron Nano 9b V2** (LLM for response generation), **Llama 3.2 EmbedQA 1b V2** (embedding model for vectorization), and **Llama 3.2 RerankQA 1b V2** (reranking model for relevance optimization) via NVIDIA NIM
 
 ## Use Cases
 

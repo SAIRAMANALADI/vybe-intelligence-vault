@@ -15,6 +15,7 @@ tags:
 - meta-ai
 - models
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
@@ -36,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse** offers cloud-based OCR (Optical Character Recognition) with state-of-the-art (SOTA) agentic capabilities for document processing workflows, including parsing, extraction, and platform integration via [LlamaIndex Cloud](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
 
-- **Open-source components** include **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (comprehensive data framework), with documentation available for each.
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the core `LlamaIndex` Python library for building RAG and agentic pipelines.
 
--
+- **Multi-Channel Support**: Offers cross-platform engagement via Twitter/X, LinkedIn, and YouTube for
 
 ## Use Cases
 

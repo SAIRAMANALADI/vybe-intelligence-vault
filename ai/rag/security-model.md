@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/about/security/
-published_at: '2026-06-26T04:26:43.568690+05:30'
-collected_at: '2026-06-26T04:26:43.568697+05:30'
+published_at: '2026-06-27T09:53:52.707554+05:30'
+collected_at: '2026-06-27T09:53:52.707586+05:30'
 tags:
 - rag
 - reddit
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:security-model
-first_seen: '2026-06-26T04:26:43.568697+05:30'
-last_seen: '2026-06-26T04:26:43.568697+05:30'
-last_checked: '2026-06-26T04:26:43.568697+05:30'
+first_seen: '2026-06-27T09:53:52.707586+05:30'
+last_seen: '2026-06-27T09:53:52.707586+05:30'
+last_checked: '2026-06-27T09:53:52.707586+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`) and untrusted (e.g., `content`, content adapters) directories; `hugo server` is strictly for local development.
-- **Runtime Security**: Uses a virtual file system, read-only access, and controlled external binaries (e.g., Asciidoctor) with strict sandboxing; avoids arbitrary OS command execution.
-- **Dependency & Output Security**: Enforces checksum validation via `go.sum` for dependencies; sanitizes untrusted content by default (e.g., Markdown rendering) and provides `safe` functions for explicit trust marking.
+- **Trust Boundaries**: Hugo distinguishes between trusted (e.g., `layouts`, `static`, `data`) and untrusted (e.g., `content`, content adapters) directories; inline shortcodes require explicit trust of embedded logic.
+- **Runtime Protections**: Uses a virtual, read-only filesystem, restricts external binaries, and avoids arbitrary command execution; default security policy balances usability with safety but may tighten in future releases.
+- **Dependency & Output Security**: Enforces checksum validation via `go.sum` for Go modules, sanitizes unsafe Markdown by default, and provides `safe` functions (e.g., `safe.HTML`) to explicitly trust trusted data in templates.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:26:43.568690+05:30
+- Published: 2026-06-27T09:53:52.707554+05:30
 
 ## Related Tags
 

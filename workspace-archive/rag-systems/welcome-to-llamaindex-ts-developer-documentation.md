@@ -8,7 +8,7 @@ local_vault_path: ai/rag/welcome-to-llamaindex-ts-developer-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex.TS is a TypeScript/JavaScript framework for context engineering in LLM applications, enabling RAG, multi-agent workflows, and production deployments across modern JS runtimes (Node.js, Deno, Bun, Cloudflare Workers).
+- **Framework Purpose**: LlamaIndex.TS is a TypeScript/JavaScript framework for context engineering in LLM applications, enabling RAG, agent workflows, and multi-step orchestration with idiomatic TypeScript support.
 
-- **Core Components**: Provides data connectors (APIs, files, SQL), indexes/retrievers, LLM-powered agents, workflow orchestration, and observability tools for domain-specific data integration and automation.
+- **Core Components**: Provides data connectors (APIs, SQL, files), indexes/retrievers, agents/engines for reasoning, workflows for orchestration, and observability tools for production deployment.
 
-- **Managed Services**: LlamaCloud o
+- **Runtime & Ecosystem**: Compatible with Node.js, Deno, Bun, and Cloudflare Worker
 
 ## Use Cases
 

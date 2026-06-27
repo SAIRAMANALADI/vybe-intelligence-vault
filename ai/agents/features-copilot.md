@@ -3,9 +3,9 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-27T04:16:12.450680+05:30'
-collected_at: '2026-06-27T04:16:12.450694+05:30'
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+published_at: '2026-06-27T09:51:13.702760+05:30'
+collected_at: '2026-06-27T09:51:13.702780+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-27T04:16:12.450694+05:30'
-last_seen: '2026-06-27T04:16:12.450694+05:30'
-last_checked: '2026-06-27T04:16:12.450694+05:30'
+first_seen: '2026-06-27T09:51:13.702780+05:30'
+last_seen: '2026-06-27T09:51:13.702780+05:30'
+last_checked: '2026-06-27T09:51:13.702780+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent & Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution, `/model` for model switching, and `/plan` to `/IDE` workflows, enabling autonomous multi-step task completion with explicit user approval gates.
+- **GitHub Copilot CLI** enables terminal-native agentic workflows with native GitHub `/mcp` integration for issues, PRs, and branches, supporting `/plan`, `/fleet`, and `/resume` commands for multi-step task execution and session persistence.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`), it natively interacts with issues, PRs, branches, and labels while enforcing org-specific policies (branch protections, required checks) across all Copilot plans.
+- **Multi-agent orchestration** via `/fleet` allows parallelized subagent execution across models (Anthropic, Google, OpenAI), with `/model` switching and `/delegate` for autonomous branch creation, PR generation, and diff review under explicit user control.
 
-- **Extensible & SDK-Compatible**: Supports custom agents via `AGENTS.md`/`/skills`, MCP server integrations, and the Copilot SDK (`npm install -g @github/copilot`) for programmatic agentic workflows, with session persistence and experimental feature access (`/experimental show`).
+- **Extensible via MCP/SDK**: Supports custom agents (`/agent`), skills, and Model Context Protocol (MCP) server integrations; integrates with VS Code and inherits Copilot Business/Enterprise governance policies while requiring explicit approval for file/command actions.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-27T04:16:12.450680+05:30
+- Published: 2026-06-27T09:51:13.702760+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli
+Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026

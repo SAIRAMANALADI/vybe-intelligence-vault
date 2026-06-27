@@ -17,6 +17,7 @@ tags:
 - jupyter notebook
 - openai
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorial Repository**: Hosts 50+ technical tutorials and implementations for Generative AI Agent techniques, spanning from basic conversational bots to advanced multi-agent systems.
+- **Comprehensive Tutorial Repository**: Hosts 50+ technical implementations covering Generative AI agent techniques, ranging from basic conversational bots to advanced multi-agent systems.
 
-- **Multi-Framework Support**: Covers key frameworks/languages including LangChain, LangGraph, OpenAI, MCP, and Python, with a focus on Jupyter Notebooks for interactive learning.
+- **Multi-Framework Support**: Demonstrates agentic AI workflows using LangChain, LangGraph, MCP, and integrates with OpenAI models, Python, and RAG pipelines.
 
-- **Cutting-Edge Topics**: Focuses on agentic AI, autonomous agents, RAG, multi-agent orchestration, and LLM integrati
+- **Highly Active & Structured**: Maintained with recent updates (2026-06-27), 22.8K+ stars, and 3.8K+ forks, focusing on agent autonomy, multi-agen
 
 ## Use Cases
 

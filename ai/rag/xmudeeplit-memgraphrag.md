@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-27T04:09:38.427361+05:30'
+collected_at: '2026-06-27T09:49:38.474776+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-27T04:09:38.427361+05:30'
-last_seen: '2026-06-27T04:09:38.427361+05:30'
-last_checked: '2026-06-27T04:09:38.427361+05:30'
+first_seen: '2026-06-27T09:49:38.474776+05:30'
+last_seen: '2026-06-27T09:49:38.474776+05:30'
+last_checked: '2026-06-27T09:49:38.474776+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a memory-based multi-agent system where specialized agents collaboratively construct and refine a knowledge graph for retrieval-augmented generation (RAG).
+- **Memory-Augmented Multi-Agent Framework**: Introduces a novel **memory-based multi-agent system** for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge retention and retrieval across agents.
 
-- **Graph Construction & Ontology Integration**: Dynamically builds and maintains a graph structure with ontology alignment, enabling efficient subgraph retrieval and contextual reasoning for downstream tasks.
+- **Ontology-Guided Graph Construction**: Implements **ontology-driven graph construction** to structure and link knowledge nodes, enhancing contextual relevance and retrieval efficiency in RAG pipelines.
 
-- **Memory-Augmented RAG Pipeline**: Leverages agent memory to iteratively enhance graph construction, improving retrieval precision and generation quality in long-form or complex query scenarios.
+- **Dynamic Knowledge Integration**: Leverages **agent-memory mechanisms** to iteratively refine and update the graph-based knowledge base, ensuring adaptive and scalable RAG performance for evolving datasets.
 
 ## Why It Matters
 

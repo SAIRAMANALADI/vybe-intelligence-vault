@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Context Management System**: OpenViking provides a hierarchical, file-system-based context database for AI Agents, unifying memory, resources, and skills management with self-evolving capabilities.
-- **Agentic-RAG Integration**: Designed for OpenClaw and similar agents, it enables structured context delivery via a filesystem paradigm, optimizing retrieval-augmented generation (RAG) workflows.
-- **Python-Based Framework**: Open-source tool (26K+ stars) supporting agentic AI, memory systems, a
+- **Context Database for AI Agents**: OpenViking provides an open-source, file system-based context database (`context-engine`) for AI agents (e.g., OpenClaw), unifying memory, resources, and skills management via hierarchical context delivery and self-evolution mechanisms.
+
+- **File System Paradigm**: Implements a filesystem-like abstraction to structure and deliver agent context (skills, memory, resources) hierarchically, enabling modular and scalable context engineering for agentic RAG and LL
 
 ## Use Cases
 

@@ -9,24 +9,24 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 ## Top Matched Resources
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
+- [css-web-ui-demos/html-in-canvas/awesome-html-in-canvas.md at main · GoogleChromeLabs/css-web-ui-demos · GitHub](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md) (framework - USEFUL Tier)
 - [playcanvas/engine](https://github.com/playcanvas/engine) (tool - USEFUL Tier)
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) (framework - USEFUL Tier)
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) (tutorial - USEFUL Tier)
 - [spite/Wagner](https://github.com/spite/wagner) (tool - USEFUL Tier)
 - [pixiv/three-vrm](https://github.com/pixiv/three-vrm) (tool - USEFUL Tier)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) (framework - USEFUL Tier)
-- [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (tool - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
+- [css-web-ui-demos/html-in-canvas/awesome-html-in-canvas.md at main · GoogleChromeLabs/css-web-ui-demos · GitHub](https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md)
 - [playcanvas/engine](https://github.com/playcanvas/engine)
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia)
 - [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu)
 - [spite/Wagner](https://github.com/spite/wagner)
-- [pixiv/three-vrm](https://github.com/pixiv/three-vrm)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-06-27 04:23 IST*
+*Last updated: 2026-06-27 10:04 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-27T04:09:23.598742+05:30'
+collected_at: '2026-06-27T09:49:23.493294+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-27T04:09:23.598742+05:30'
-last_seen: '2026-06-27T04:09:23.598742+05:30'
-last_checked: '2026-06-27T04:09:23.598742+05:30'
+first_seen: '2026-06-27T09:49:23.493294+05:30'
+last_seen: '2026-06-27T09:49:23.493294+05:30'
+last_checked: '2026-06-27T09:49:23.493294+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ health_score: 100
 
 - **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance retrieval accuracy and reduce latency in real-world deployments.
 
-- **Evaluation & Deployment**: Includes built-in benchmarking tools for assessing RAG performance (e.g., context relevance, answer faithfulness) and supports seamless integration with cloud platforms (e.g., AWS, GCP) for scalable production deployment.
+- **Evaluation & Deployment**: Includes built-in benchmarking tools for assessing RAG performance (e.g., relevance, hallucination rates) and supports seamless integration with cloud platforms (e.g., AWS, GCP) for scalable inference.
 
 ## Why It Matters
 

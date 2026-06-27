@@ -6,7 +6,7 @@ source_url: https://github.com/raga-ai-hub/raga-llm-hub
 resource_id: github:raga-ai-hub/raga-llm-hub
 local_vault_path: ai/rag/raga-ai-hub-raga-llm-hub.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Guardrails and Security`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating, securing, and implementing guardrails for large language models (LLMs) in production environments.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrails for safety/compliance, and security mechanisms to mitigate risks (e.g., prompt injection, data leakage).
-- **Technical Stack**: Python-based, designed for LLMops integration with extensible APIs for custom evaluation and security policies.
+- **Purpose**: Framework for evaluating large language models (LLMs), implementing guardrails, and ensuring LLM security within MLOps workflows.
+- **Key Features**: Supports structured evaluation metrics, real-time safety checks, and compliance enforcement for LLMs.
+- **Technical Stack**: Python-based, integrates with LLMops pipelines for deployment and monitoring.
 
 ## Use Cases
 

@@ -6,9 +6,9 @@ source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
 resource_id: github:ghuntley/how-to-build-a-coding-agent
 local_vault_path: ai/agents/ghuntley-how-to-build-a-coding-agent.md
 quality_score: 70
-archive_score: 83
+archive_score: 81
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ghuntley/how-to-build-a-coding-agent
@@ -26,17 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 83 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Workshop repository guiding users in constructing a **coding agent** (e.g., Roo Code, Cline, Amp) using **Go**, covering AI-driven code assistance workflows.
-- **Technical Stack**: Primarily implemented in **Go**, with integration points for AI models, CLI tools, and IDE plugins (e.g., Cursor, Windsurf).
-- **Scope**: Includes tutorials on agent architecture, tooling, and deployment, updated as of **2026-06-26** with 5,695 stars and 641 forks.
+- **Purpose**: Workshop repository guiding users to construct a **local coding agent** (e.g., AI-assisted IDE tools like Cursor or Cline) using **Go**, emphasizing modular architecture and LLM integration.
+
+- **Key Components**: Focuses on **agent-based workflows**, **AI tooling**, and **IDE plugin development**, with tutorials covering **state management**, **tool orchestration**, and **LLM prompt engineering** for code generation/editing.
+
+- **Technical Stack**: Primarily **Go** for backend lo
 
 ## Use Cases
 
