@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai/langchainjs/tree/v0.3/docs/core_docs/docs
-published_at: '2026-06-26T02:00:07.663984+05:30'
-collected_at: '2026-06-26T02:00:07.663996+05:30'
+published_at: '2026-06-27T19:43:29.390920+05:30'
+collected_at: '2026-06-27T19:43:29.390934+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:langchain-ai/langchainjs
-first_seen: '2026-06-26T02:00:07.663996+05:30'
-last_seen: '2026-06-26T02:00:07.663996+05:30'
-last_checked: '2026-06-26T02:00:07.663996+05:30'
+first_seen: '2026-06-27T19:43:29.390934+05:30'
+last_seen: '2026-06-27T19:43:29.390934+05:30'
+last_checked: '2026-06-27T19:43:29.390934+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: LangChainJS v0.3 is a JavaScript/TypeScript framework for building LLM-powered applications, with 17.9k stars, 3.2k forks, 194 open issues, and 166 pull requests.
+- **Repository Overview**: LangChainJS (v0.3) is a JavaScript/TypeScript framework for building LLM-powered applications, with 17.9k stars and 3.2k forks on GitHub.
 
-- **Documentation Structure**: Core docs include modules for concepts, how-to guides, integrations, tutorials, troubleshooting, and additional resources under `/docs/core_docs`.
+- **Documentation Structure**: Core documentation includes modules for concepts, how-to guides, integrations, tutorials, and troubleshooting, organized under `/docs/core_docs`.
 
-- **Key Files**: Critical documentation files include `introduction.mdx`, `packages.mdx`, `security.md`, and `community.mdx`, covering foundational, security, and community aspects.
+- **Key Files**: Critical files include `introduction.mdx`, `packages.mdx`, `security.md`, and `community.mdx`, covering framework introduction, package details, security policies, and community resources.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T02:00:07.663984+05:30
+- Published: 2026-06-27T19:43:29.390920+05:30
 
 ## Related Tags
 

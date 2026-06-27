@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_space
 source_name: Hugging Face Trending Spaces
 source_url: https://huggingface.co/spaces/facebook
-published_at: '2026-06-27T16:34:50.641270+05:30'
-collected_at: '2026-06-27T16:34:50.641276+05:30'
+published_at: '2026-06-27T19:37:05.164025+05:30'
+collected_at: '2026-06-27T19:37:05.164029+05:30'
 tags:
 - hf-space
 - huggingface
 status: active
 resource_id: huggingface:spaces/facebook
 first_seen: '2026-06-18T23:35:18.515105+05:30'
-last_seen: '2026-06-27T16:34:50.641276+05:30'
-last_checked: '2026-06-27T16:34:50.641276+05:30'
+last_seen: '2026-06-27T19:37:05.164029+05:30'
+last_checked: '2026-06-27T19:37:05.164029+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Spaces
 - Category: ai/models
-- Published: 2026-06-27T16:34:50.641270+05:30
+- Published: 2026-06-27T19:37:05.164025+05:30
 
 ## Related Tags
 

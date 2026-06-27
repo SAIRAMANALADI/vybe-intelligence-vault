@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of tools, frameworks, and resources for developing AI web agents, focusing on browser automation, LLM integration, and benchmarking.
-- **Python-centric** repository with 1,484 stars and 191 forks, last updated June 2026.
-- Covers topics including AI agents, LLM evaluation, and automation frameworks under an "awesome-list" structure.
+- **Curated collection** of tools, frameworks, and resources for developing AI web agents, focusing on browser automation and LLM integration.
+- **Python-centric** repository with topics including AI agents, LLM benchmarking, and browser automation tools.
+- **Last updated June 2026**, with 1,484 stars and 191 forks, serving as a community-driven reference for AI web agent development.
 
 ## Use Cases
 

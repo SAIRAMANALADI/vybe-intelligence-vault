@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Order History Access**: Google Play order history is accessible via the Play Store app (`Payments & subscriptions` > `Budget & history`) or [play.google.com](https://play.google.com/store/account/orderhistory) (`Profile icon` > `Payments & subscriptions` > `Budget & Order history`), excluding non-Google Play transactions (e.g., Google Pay).
+- **Order History Access**: Google Play order history is accessible via the Play Store app (`Payments & subscriptions > Budget & history`) or [play.google.com](https://play.google.com/store/account/orderhistory) (`Profile icon > Payments & subscriptions > Budget & Order history`), excluding non-Google Play transactions (e.g., Google Pay, other Google services).
 
-- **Transaction Timing**: Charges for Google Play purchases appear immediately, while third-party payment method charges may take up to 10 business days
+- **Cross-Platform Review**: For non-Google Play transactions, use [payments.google.com](https://payments.google.com/) (`Activity` for
 
 ## Use Cases
 

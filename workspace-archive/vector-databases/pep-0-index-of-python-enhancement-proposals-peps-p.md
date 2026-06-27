@@ -8,7 +8,7 @@ local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -19,7 +19,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained via GitHub; metadata is exposed via a public JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in GitHub; metadata is accessible via a public JSON API (`peps.json`).
 
-- **Categorization Framework**: PEPs are classified into statuses (e.g., *Process*, *Informational*, *Provisional*) and topics (e.g., *Governance*, *Packaging*, *Typing*), enabling structured retrieval.
+- **PEP Categorization**: PEPs are classified by status (e.g., *Process*, *Informational*, *Accepted*) and topic (e.g., *Governance*, *Packaging*, *Typing*), enabling structured retrieval and governance oversight.
 
-- **Governance & Technical Specifications**: Includes PEPs defining Python’s governance (PEP 13),
+- **PEP Types & Statuses**: Defined in PEP 1, PEPs follow strict types (e.g., *Standards
 
 ## Use Cases
 

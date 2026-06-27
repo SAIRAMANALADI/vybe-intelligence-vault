@@ -2,7 +2,7 @@
 title: Introduction | Electron
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://www.electronjs.org/docs/latest
+source_url: https://electronjs.org/docs/latest
 resource_id: blog:introduction-electron
 local_vault_path: ai/resources/introduction-electron.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- Electron is a cross-platform desktop application framework that integrates Chromium for rendering and Node.js for native APIs, enabling JavaScript/HTML/CSS-based development without native code requirements.
+- Electron is a cross-platform desktop application framework that embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based development without native code requirements.
 
-- Electron Fiddle provides a sandboxed environment for prototyping and testing Electron APIs directly from documentation examples via automated `fiddle.electronjs.org` links.
+- Electron Fiddle is an official sandbox tool for prototyping and testing Electron APIs, integrating directly with documentation via "Open in Electron Fiddle" buttons for seamless code experimentation.
 
-- Official Electron documentation is structured into categories (e.g., Tutorials, Best Practices, Distribution) w
+- Electron's documentation is structured into categories (e.g., Tutorial, Processes, Best Practices
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.electronjs.org/docs/latest
+Original source URL: https://electronjs.org/docs/latest
 
 ## Local Vault File
 

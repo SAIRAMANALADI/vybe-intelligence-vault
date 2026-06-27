@@ -2,7 +2,7 @@
 title: Jupyter AI
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://jupyter-ai.readthedocs.io/en/latest
+source_url: https://jupyter-ai.readthedocs.io/en/latest/
 resource_id: blog:jupyter-ai
 local_vault_path: ai/rag/jupyter-ai.md
 quality_score: 70
@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Jupyter AI** integrates AI agents (e.g., Claude, GitHub Copilot, Gemini) into JupyterLab via a modular extension, enabling real-time collaborative editing and AI-assisted notebook workflows.
+- **Multi-Language Support**: Jupyter AI integrates with Python, R, Julia, Scala, and Haskell, alongside numerical/ML libraries like NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, and Apache Spark for computational workflows.
 
-- **Security & Control**: Implements default guardrails (e.g., permission prompts) for file operations, command execution, and MCP tool usage to mitigate risks in AI-driven notebook interactions.
+- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) for real-time collaboration, debugging, and notebook execution in JupyterLab.
 
-- **Extensibility**: Supports custom AI personas and MCP servers, allowing users to define specialized agen
+- **Security & Extensib
 
 ## Use Cases
 
@@ -53,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyter-ai.readthedocs.io/en/latest
+Original source URL: https://jupyter-ai.readthedocs.io/en/latest/
 
 ## Local Vault File
 

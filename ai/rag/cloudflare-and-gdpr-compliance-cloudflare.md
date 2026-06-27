@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/gdpr/
-published_at: '2026-06-27T09:54:12.462062+05:30'
-collected_at: '2026-06-27T09:54:12.462076+05:30'
+published_at: '2026-06-27T19:43:28.996451+05:30'
+collected_at: '2026-06-27T19:43:28.996468+05:30'
 tags:
 - hackernews
 - paper
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:gdpr-faqs-cloudflare
-first_seen: '2026-06-27T09:54:12.462076+05:30'
-last_seen: '2026-06-27T09:54:12.462076+05:30'
-last_checked: '2026-06-27T09:54:12.462076+05:30'
+first_seen: '2026-06-27T19:43:28.996468+05:30'
+last_seen: '2026-06-27T19:43:28.996468+05:30'
+last_checked: '2026-06-27T19:43:28.996468+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Processing & Compliance**: Cloudflare processes minimal personal data (primarily IP addresses as metadata) for Core Application Layer Services, with no storage of customer content unless explicitly configured; customers retain full responsibility for compliance with GDPR and other regulations.
+- **Data Processing & Compliance**: Cloudflare processes limited personal data (e.g., IP addresses) as metadata for Core Application Layer Services, stored in U.S./EU data centers for a limited period, with customers responsible for their own compliance. Core services do not store customer content unless explicitly configured.
 
-- **Security & Certifications**: Maintains ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, and EU Cloud Code of Conduct certifications; employs encryption (e.g., SSL, DNS-over-HTTPS/TLS), secure configurations, and supplementary measures per EDPB guidance for cross-border transfers.
+- **Security & Certifications**: Implements ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, EU Cloud Code of Conduct, and Germany’s C5 2020. Uses encryption (e.g., SSL, DNS-over-HTTPS/TLS) and supplementary measures (per EDPB guidance) for GDPR Article 44 transfers, including EU SCCs and DPF certifications (EU-U.S., Swiss-U.S., UK).
 
-- **Legal Safeguards for Transfers**: Relies on EU-U.S./Swiss-UK Data Privacy Frameworks and Standard Contractual Clauses (SCCs) for EEA→U.S. transfers; commits to challenging conflicting U.S. legal requests (e.g., FISA 702, CLOUD Act) via court quashing and transparency reports.
+- **Legal Safeguards & Transparency**: Complies with EO 14086 (U.S. signals intelligence safeguards) and challenges conflicting government requests. Publishes transparency reports, opposes unlawful data demands (e.g., NSLs), and includes contractual safeguards in DPAs (e.g., Section 7) to protect GDPR-covered data.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:54:12.462062+05:30
+- Published: 2026-06-27T19:43:28.996451+05:30
 
 ## Related Tags
 

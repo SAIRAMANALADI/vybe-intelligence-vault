@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-06-27T16:35:41.043788+05:30'
-published_at: '2026-06-27T10:30:28Z'
+collected_at: '2026-06-27T19:38:02.353233+05:30'
+published_at: '2026-06-27T13:26:43Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
-- models
 - rag
 - workflows
-stars: 36102
+stars: 36113
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-06-08T11:18:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-06-27T16:35:41.043788+05:30'
-last_seen: '2026-06-27T16:35:41.043788+05:30'
-last_checked: '2026-06-27T16:35:41.043788+05:30'
+first_seen: '2026-06-27T19:38:02.353233+05:30'
+last_seen: '2026-06-27T19:38:02.353233+05:30'
+last_checked: '2026-06-27T19:38:02.353233+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, technical tutorials on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, including implementation details and best practices.
+- **Comprehensive LLM & RAG Tutorials**: Repository provides in-depth, hands-on Jupyter Notebook-based guides covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures with practical implementations.
 
-- **Real-World AI Agent Applications**: Focuses on practical AI agent applications, demonstrating end-to-end workflows, integration with MCP (Model Context Protocol), and deployment strategies in production environments.
+- **Real-World AI Agent Applications**: Includes tutorials and code examples for deploying AI agents in production environments, demonstrating integration with MCP (Model Context Protocol) and real-world workflows.
 
-- **Jupyter Notebook-Based Learning**: All content is delivered via structured Jupyter Notebooks, enabling interactive, hands-on exploration of AI engineering concepts with executable code and visualizations.
+- **High-Activity Open-Source Project**: Maintained repository with 36,113 stars and 5,992 forks, last updated June 2026, focusing on AI engineering best practices in machine learning and agent systems.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 36102
-- Forks: 5988
+- Stars: 36113
+- Forks: 5992
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-06-27T10:30:28Z
+- Last Updated: 2026-06-27T13:26:43Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

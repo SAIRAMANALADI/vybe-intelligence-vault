@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows and supports **Llama 3.1 70b instruct**, reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces **semantic chunking** and **30% improved retrieval accuracy** in complex datasets, with enhanced support for **multi-modal parsing** (PDFs, images) and structured database connectors.
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by **30%** in complex datasets, with optimized document indexing and support for multi-modal data via `DBConnectors` and `Unstructured.io`.
 
-- **RAGFlow v0.24.0** integrates **Gemini 3 Pro/GPT-5**, **m
+- **RAGFlow v0.24.0** com
 
 ## Use Cases
 

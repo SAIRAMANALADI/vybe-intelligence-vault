@@ -13,6 +13,7 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Multi-Turn RAG Benchmark (`mt-rag-benchmark`) evaluates Retrieval-Augmented Generation (RAG) systems across multi-turn conversational contexts, emphasizing iterative retrieval and response refinement.
+- **Benchmark Overview**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions, emphasizing context retention and iterative retrieval quality.
 
-- **Implementation**: Python-based benchmark with modular components for simulating multi-turn dialogues, integrating retrieval mechanisms, and assessing response quality via predefined metrics (e.g., relevance, coherence, factual accuracy).
+- **Technical Implementation**: Python-based benchmark with modular components for query generation, retrieval evaluation, and response assessment, supporting customizable pipelines for domain-specific RAG testing.
 
-- **Scope**: Focuses on latency, retriev
+- **Evaluation Metrics**: Focuses on metrics li
 
 ## Use Cases
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-27T16:37:01.238932+05:30'
+collected_at: '2026-06-27T19:39:22.476309+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
-- benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-27T16:37:01.238932+05:30'
-last_seen: '2026-06-27T16:37:01.238932+05:30'
-last_checked: '2026-06-27T16:37:01.238932+05:30'
+first_seen: '2026-06-27T19:39:22.476309+05:30'
+last_seen: '2026-06-27T19:39:22.476309+05:30'
+last_checked: '2026-06-27T19:39:22.476309+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for end-to-end optimization.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable workflows for data ingestion, indexing, and retrieval.
 
-- **Data Preprocessing & Indexing**: Includes built-in utilities for chunking, embedding generation (via Sentence-Transformers), and vector storage (FAISS/Chroma) to ensure efficient retrieval.
+- **Optimized Retrieval & Generation**: Implements advanced techniques like dynamic chunking, hybrid search (vector + keyword), and query rewriting to enhance retrieval accuracy and reduce hallucinations in generated outputs.
 
-- **Evaluation & Benchmarking**: Integrates metrics (e.g., retrieval precision, answer relevance) and tools for A/B testing to validate RAG performance against custom datasets.
+- **Scalable Deployment Tools**: Includes utilities for containerization (Docker), API integration (FastAPI), and monitoring, enabling seamless transition from prototyping to production environments.
 
 ## Why It Matters
 

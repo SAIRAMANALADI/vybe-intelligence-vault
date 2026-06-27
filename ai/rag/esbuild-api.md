@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#sources-content
-published_at: '2026-06-25T16:43:22.553659+05:30'
-collected_at: '2026-06-25T16:43:22.553673+05:30'
+source_url: https://esbuild.github.io/api/#minify
+published_at: '2026-06-27T19:43:54.891205+05:30'
+collected_at: '2026-06-27T19:43:54.891221+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-06-25T16:43:22.553673+05:30'
-last_seen: '2026-06-25T16:43:22.553673+05:30'
-last_checked: '2026-06-25T16:43:22.553673+05:30'
+first_seen: '2026-06-27T19:43:54.891221+05:30'
+last_seen: '2026-06-27T19:43:54.891221+05:30'
+last_checked: '2026-06-27T19:43:54.891221+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **API Access & CLI Syntax**: Esbuild provides APIs in CLI, JavaScript, and Go with identical concepts; CLI flags use `--foo` (boolean), `--foo=bar` (single value), or `--foo:bar` (multi-value), while shell interpretation risks can be avoided via JS/Go APIs.
+- **API Language Support**: Esbuild provides APIs in CLI, JavaScript, and Go with identical core concepts; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` syntax for boolean, single-value, and multi-value flags respectively, while shell-specific argument interpretation can be avoided using JS/Go APIs.
 
-- **Build & Transform APIs**: Primary `build` API bundles entry points to filesystem with options like `--bundle`, `--outdir`, and supports incremental builds via `context` (watch/serve/rebuild modes); `transform` API operates on in-memory strings (e.g., TS→JS) without filesystem dependencies.
+- **Build & Transform APIs**: The primary `build` API bundles entry points to the filesystem with options like `--bundle`, `--outdir`, and incremental builds via `context` (watch/serve/rebuild modes), whereas the `transform` API operates on in-memory strings (e.g., minification, TS→JS) without filesystem dependencies.
 
-- **Context Lifecycle & Options**: `context` enables shared build options and incremental rebuilds; `dispose()` terminates operations; APIs support path resolution (e.g., `alias`, `external`), optimization (e.g., `minify`, `tree-shaking`), and source map generation (e.g., `sourcemap`, `sources-content`).
+- **Context Management & Options**: Long-running `context` objects in JS/Go enable shared build options and incremental rebuilds; `dispose()` releases resources, and both APIs support extensive options across input, output, path resolution, optimization, and source maps (e.g., `minify`, `define`, `sourcemap`).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:43:22.553659+05:30
+- Published: 2026-06-27T19:43:54.891205+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#sources-content
+Original source: https://esbuild.github.io/api/#minify

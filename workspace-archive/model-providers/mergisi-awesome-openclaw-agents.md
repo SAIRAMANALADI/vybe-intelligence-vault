@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
-- **Technical Scope**: Supports multi-agent systems, MCP integration, Docker deployment, and no-code configurations via SOUL.md.
-- **Community & Contributions**: Open to submissions; includes 3,734 stars and 607 forks, covering topics like Anthropic, Claude, CrewClaw, and Telegram bots.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories, with a submission process for new agents.
+- **Technical Stack**: Primarily HTML-based, supporting multi-agent systems (MCP), Docker integration, and no-code configurations via SOUL.md for automation and productivity tools.
+- **Community & Metadata**: 3,734 stars, 607 forks, last updated June 27, 2026; includes topics like Anthropic, Claude, CrewClaw, LLM, a
 
 ## Use Cases
 

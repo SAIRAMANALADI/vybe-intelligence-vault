@@ -6,9 +6,9 @@ source_url: https://github.com/duanyytop/agents-radar
 resource_id: github:duanyytop/agents-radar
 local_vault_path: ai/agents/duanyytop-agents-radar.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: product
 importance: medium
 tags:
 - agents
@@ -17,7 +17,6 @@ tags:
 - producthunt
 - scripts
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -28,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: workflow
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: product
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
-- **Bilingual Reporting**: Generates reports in both Chinese and English, automated through scheduled GitHub Actions workflows.
-- **Technical Stack**: Built in TypeScript, last updated on 2026-06-27, with 863 stars and 138 forks on GitHub.
+- **Automated AI Ecosystem Aggregation**: Daily digest compiling AI-related updates from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Report Generation**: Produces reports in both Chinese and English, synchronized with the latest updates.
+- **Technical Stack**: Built in TypeScript, last updated on 2026-06-27, with 863 stars and 138 forks.
 
 ## Use Cases
 

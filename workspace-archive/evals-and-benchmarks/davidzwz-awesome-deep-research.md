@@ -6,13 +6,12 @@ source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
 resource_id: github:davidzwz/awesome-deep-research
 local_vault_path: ai/rag/davidzwz-awesome-deep-research.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - hackernews
 - rag
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, advanced RAG (Retrieval-Augmented Generation), and LLM-driven search methodologies for complex knowledge synthesis.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s KnowFM track, emphasizing multi-agent collaboration, dynamic knowledge retrieval, and structured reasoning pipelines for high-fidelity research outputs.
-- **Technical Scope**: Covers reasoning archit
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous agents, reasoning models, and advanced RAG (Retrieval-Augmented Generation) systems.
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026 KnowFM’s emphasis on knowledge-intensive, multi-step reasoning tasks leveraging LLMs and agentic frameworks.
+- **Technical Scope**: Covers deep research agents, search agents, and reasoning architectures, with emphasis on scalability, interpretabili
 
 ## Use Cases
 

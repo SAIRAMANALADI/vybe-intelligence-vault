@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 78
+archive_score: 76
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload.
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch external context (e.g., documents, databases) dynamically, bypassing context window limits (e.g., GPT-4.1: 1M tokens) by injecting only relevant chunks (e.g., 1,000-token segments) into prompts, avoiding full-document overload.
 
-- **Injection Pipeline**: Processes raw documents via chunking (e.g., 1K-token segments) and embeddings (e.g., OpenAI’s 3,072-dim vectors) stored in vector databases (Pinecone, Weaviate, FAISS), enabling semantic similarity searches.
-
-- **Retrieval Pipeline**:
+- **Embedding Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) via embedding models, capturing semantic
 
 ## Use Cases
 

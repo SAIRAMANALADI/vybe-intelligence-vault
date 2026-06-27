@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of EMNLP2024 Paper**: Provides a codebase for evaluating best practices in Retrieval-Augmented Generation (RAG) systems, focusing on optimization techniques for retrieval and generation components.
-- **Python-Based Framework**: Built in Python, likely leveraging libraries like `transformers`, `faiss`, or `pyserini` for retrieval and generation pipelines.
-- **Evaluation-Oriented Design**: Includes tools for benchmarking RAG performance across datasets, with modular components f
+- **Implementation**: Repository provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices as outlined in the EMNLP 2024 paper.
+
+- **Key Features**: Includes modular components for retrieval, reranking, and generation, enabling flexible experimentation with different RAG pipelines.
+
+- **Evaluation Framework**: Supports benchmarking across standard datasets with configurable hyperparameters for reproducibility and performance optimizatio
 
 ## Use Cases
 

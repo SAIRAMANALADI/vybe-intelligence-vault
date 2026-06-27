@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-06-27T16:38:31.252529+05:30'
+collected_at: '2026-06-27T19:40:52.534979+05:30'
 published_at: '2026-06-27T07:14:07Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - unknown
+- workflows
 stars: 2465
 language: Unknown
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-06-27T16:38:31.252529+05:30'
-last_seen: '2026-06-27T16:38:31.252529+05:30'
-last_checked: '2026-06-27T16:38:31.252529+05:30'
+first_seen: '2026-06-27T19:40:52.534979+05:30'
+last_seen: '2026-06-27T19:40:52.534979+05:30'
+last_checked: '2026-06-27T19:40:52.534979+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI coding assistants, emphasizing multi-agent collaboration and task decomposition.
+- **Agentic AI Coding Assistants**: Investigates the architecture and workflow of autonomous AI agents in software development, focusing on prompt pattern reconstruction and multi-agent coordination mechanisms.
 
-- **Security Classification Framework**: Proposes a security classification system for agentic AI interactions, addressing vulnerabilities in prompt injection, data leakage, and unauthorized tool execution.
+- **Security Classification Framework**: Proposes a taxonomy for classifying agentic AI systems based on security risks, including prompt injection, data leakage, and adversarial misuse.
 
-- **System Prompt Optimization**: Investigates techniques for optimizing system prompts in agentic AI, including dynamic prompt adaptation, role-based context switching, and hierarchical prompt structuring.
+- **Prompt Engineering for Agentic Systems**: Analyzes system prompts and interaction patterns used in tools like Claude to optimize agentic behavior, task decomposition, and inter-agent communication.
 
 ## Why It Matters
 

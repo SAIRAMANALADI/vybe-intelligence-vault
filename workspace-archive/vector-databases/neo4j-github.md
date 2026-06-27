@@ -14,6 +14,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j** is a graph database management system (DBMS) with a core Java-based implementation, providing ACID-compliant transactional capabilities and native graph storage and processing.
+- **Neo4j** is a graph database management system with native graph storage and processing, optimized for connected data and graph traversal operations.
 
-- **Key repositories** include the main `neo4j` database engine (16.8k stars), `graph-data-science` (Java-based graph algorithms library), and language-specific drivers (Java, Python, JavaScript) for Bolt protocol integration.
+- **Core repositories** include the main `neo4j` database (Java-based, 16.8k stars), the **Graph Data Science (GDS) library** (Java, implements graph algorithms), and multiple language-specific **Bolt drivers** (Java, JavaScript, Python).
 
-- **Additional components** such as `neo4j-ogm` (Java Object-Graph Mapping), `neo4
+- **Additional tools** include the **APOC library** (Java, extends Neo4j with utilities), **Spark connecto
 
 ## Use Cases
 

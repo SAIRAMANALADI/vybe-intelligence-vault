@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-27T16:36:06.112221+05:30'
-published_at: '2026-06-27T07:02:33Z'
+collected_at: '2026-06-27T19:38:27.350270+05:30'
+published_at: '2026-06-27T12:04:36Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
-stars: 1955
+stars: 1956
 language: Python
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-27T16:36:06.112221+05:30'
-last_seen: '2026-06-27T16:36:06.112221+05:30'
-last_checked: '2026-06-27T16:36:06.112221+05:30'
+first_seen: '2026-06-27T19:38:27.350270+05:30'
+last_seen: '2026-06-27T19:38:27.350270+05:30'
+last_checked: '2026-06-27T19:38:27.350270+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining performance.
-- Proposes **modular architecture** with lightweight retrieval, re-ranking, and generation components optimized for efficiency in resource-constrained environments.
-- Demonstrates **competitive results** on benchmark tasks (e.g., QA, summarization) with models <1B parameters, outperforming larger proprietary RAG systems in inference speed and cost.
+*   Simplifies Retrieval-Augmented Generation (RAG) by leveraging small, open-source language models (SLMs).
+*   Implements a Python-based framework for RAG with a focus on SLM integration.
+*   Research project targeting publication at ACL 2026.
 
 ## Why It Matters
 
@@ -40,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1955
+- Stars: 1956
 - Forks: 251
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-27T07:02:33Z
+- Last Updated: 2026-06-27T12:04:36Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

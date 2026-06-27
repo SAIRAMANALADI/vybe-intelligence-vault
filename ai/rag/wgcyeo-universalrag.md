@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-27T16:37:16.230556+05:30'
+collected_at: '2026-06-27T19:39:37.444617+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
 - benchmark
 - github-repo
-- paper
 - python
 - rag
 stars: 171
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-27T16:37:16.230556+05:30'
-last_seen: '2026-06-27T16:37:16.230556+05:30'
-last_checked: '2026-06-27T16:37:16.230556+05:30'
+first_seen: '2026-06-27T19:39:37.444617+05:30'
+last_seen: '2026-06-27T19:39:37.444617+05:30'
+last_checked: '2026-06-27T19:39:37.444617+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling flexible retrieval strategies.
+- **UniversalRAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system designed to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and fusion mechanisms.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture for universal RAG, addressing challenges in heterogeneous corpus integration, dynamic modality alignment, and adaptive retrieval across granularities, with empirical validation on benchmarks.
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval strategy using modality-agnostic embeddings (e.g., CLIP-like encoders) and hierarchical indexing to dynamically adapt to varying granularity levels across heterogeneous corpora.
 
-- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for modality-specific encoders, granularity-aware retrievers, and fusion mechanisms, optimized for scalability and extensibility.
+- **Adaptive Generation Pipeline**: Leverages a transformer-based generator with modality-aware attention and fusion layers to synthesize coherent outputs from retrieved multi-modal and multi-granularity contexts, validated on ACL 2026 benchmarks.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T16:35:46.175953+05:30'
+collected_at: '2026-06-27T19:38:12.466361+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T16:35:46.175953+05:30'
-last_seen: '2026-06-27T16:35:46.175953+05:30'
-last_checked: '2026-06-27T16:35:46.175953+05:30'
+first_seen: '2026-06-27T19:38:12.466361+05:30'
+last_seen: '2026-06-27T19:38:12.466361+05:30'
+last_checked: '2026-06-27T19:38:12.466361+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented primarily in Jupyter Notebooks, designed for modularity and ease of integration.
+- **Framework Overview**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, designed for simplicity and modularity in integrating retrieval mechanisms with generative models.
 
-- **Core Components**: Includes standard RAG pipelines (retriever, generator, and evaluator) with support for customizable embedding models, vector databases (e.g., FAISS), and LLM backends (e.g., Hugging Face Transformers).
+- **Key Components**: Includes pre-built pipelines for document ingestion, embedding generation (e.g., via Sentence-BERT or similar), vector storage (e.g., FAISS or Chroma), and query processing with LLM integration (e.g., LangChain or HuggingFace).
 
-- **Tutorial-Driven**: Provides hands-on tutorials for end-to-end RAG workflows, covering indexing, retrieval strategies, and evaluation metrics, with examples for both English and Chinese language tasks.
+- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, covering indexing, retrieval strategies (e.g., dense vs. sparse), and evaluation metrics (e.g., hit rate, MRR) for benchmarking performance.
 
 ## Why It Matters
 

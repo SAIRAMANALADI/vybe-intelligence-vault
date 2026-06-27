@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-06-27T16:35:33.373659+05:30'
-collected_at: '2026-06-27T16:35:33.373672+05:30'
+published_at: '2026-06-27T19:37:54.827782+05:30'
+collected_at: '2026-06-27T19:37:54.827795+05:30'
 tags:
 - agents
 - anthropic
@@ -18,12 +18,13 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-06-27T16:35:33.373672+05:30'
-last_seen: '2026-06-27T16:35:33.373672+05:30'
-last_checked: '2026-06-27T16:35:33.373672+05:30'
+first_seen: '2026-06-27T19:37:54.827795+05:30'
+last_seen: '2026-06-27T19:37:54.827795+05:30'
+last_checked: '2026-06-27T19:37:54.827795+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload.
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch external context (e.g., documents, databases) dynamically, bypassing context window limits (e.g., GPT-4.1: 1M tokens) by injecting only relevant chunks (e.g., 1,000-token segments) into prompts, avoiding full-document overload.
 
-- **Injection Pipeline**: Processes raw documents via chunking (e.g., 1K-token segments) and embeddings (e.g., OpenAI’s 3,072-dim vectors) stored in vector databases (Pinecone, Weaviate, FAISS), enabling semantic similarity searches.
+- **Embedding Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) via embedding models, capturing semantic relationships (e.g., "cat" and "kitten" vectors are closer than "elephant"). These embeddings are stored in vector databases (e.g., Pinecone, FAISS) for similarity-based retrieval.
 
-- **Retrieval Pipeline**: Converts user queries to embeddings, retrieves top-*k* semantically relevant chunks via similarity matching (e.g., cosine distance), and augments the LLM’s prompt with retrieved context for accurate answer generation.
+- **Retrieval Workflow**: User queries are embedded and matched against stored vectors using similarity algorithms (e.g., cosine distance) to retrieve top-*k* relevant chunks, which are then passed to the LLM for answer synthesis. Chunking strategies (e.g., fixed-token segmentation) and embedding dimensionality (trade-off between semantic richness and cost) critically impact retrieval accuracy.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:35:33.373659+05:30
+- Published: 2026-06-27T19:37:54.827782+05:30
 
 ## Related Tags
 
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

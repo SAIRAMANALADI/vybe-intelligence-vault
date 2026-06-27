@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://js.langchain.com
-published_at: '2026-06-27T01:44:01.432870+05:30'
-collected_at: '2026-06-27T01:44:01.432885+05:30'
+published_at: '2026-06-27T19:41:13.417989+05:30'
+collected_at: '2026-06-27T19:41:13.418004+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-27T01:44:01.432885+05:30'
-last_seen: '2026-06-27T01:44:01.432885+05:30'
-last_checked: '2026-06-27T01:44:01.432885+05:30'
+first_seen: '2026-06-27T19:41:13.418004+05:30'
+last_seen: '2026-06-27T19:41:13.418004+05:30'
+last_checked: '2026-06-27T19:41:13.418004+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- `create_agent` provides a minimal, configurable agent harness in LangChain, composed of model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Unified Abstraction Layer**: Implements a standard interface for chat models, embeddings, and tools across providers, ensuring application portability with minimal code changes and incremental capability addition via middleware.
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
 
-- **LangGraph Integration & Observability**: Built on LangGraph for durable execution, persistence, and human-in-the-loop support; integrates with LangSmith for tracing, debugging, and evaluating agent behavior through execution data.
+- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like trace inspection, tool call analysis, and latency monitoring.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:44:01.432870+05:30
+- Published: 2026-06-27T19:41:13.417989+05:30
 
 ## Related Tags
 

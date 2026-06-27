@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-27T16:36:46.151679+05:30'
-published_at: '2026-06-26T15:53:54Z'
+collected_at: '2026-06-27T19:39:07.449368+05:30'
+published_at: '2026-06-27T11:11:54Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - hackernews
 - rag
 - unknown
-stars: 424
+stars: 425
 language: Unknown
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-27T16:36:46.151679+05:30'
-last_seen: '2026-06-27T16:36:46.151679+05:30'
-last_checked: '2026-06-27T16:36:46.151679+05:30'
+first_seen: '2026-06-27T19:39:07.449368+05:30'
+last_seen: '2026-06-27T19:39:07.449368+05:30'
+last_checked: '2026-06-27T19:39:07.449368+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM performance assessment for enterprise search and QA tasks.
-- **Technical Scope**: Supports Python-based evaluation frameworks for RAG pipelines, covering retrieval, augmentation, and generative AI metrics.
+- **Purpose**: Provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/company internal documents, focusing on enterprise use cases.
+- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM performance assessment for enterprise search and knowledge base applications.
+- **Technical Scope**: Supports Python-based RAG evaluation, LLM benchmarking, and retrieval-augmented pipelines for information retrieval and question-answering tasks.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: onyx-dot-app
-- Stars: 424
+- Stars: 425
 - Forks: 42
 - Language: Unknown
 - Topics: benchmark, dataset, enterprise, enterprise-search, evaluation, generative-ai, information-retrieval, knowledge-base, large-language-models, llm, llm-evaluation, python, question-answering, rag, rag-evaluation, retrieval-augmented-generation, semantic-search, synthetic-data, synthetic-data-generation
-- Last Updated: 2026-06-26T15:53:54Z
+- Last Updated: 2026-06-27T11:11:54Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-19T02:48:25Z

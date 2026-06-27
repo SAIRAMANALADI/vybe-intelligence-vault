@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://neo4j.com/blog/developer/rag-tutorial/
-published_at: '2026-06-27T14:21:08.231563+05:30'
-collected_at: '2026-06-27T14:21:08.231575+05:30'
+published_at: '2026-06-27T19:37:55.835995+05:30'
+collected_at: '2026-06-27T19:37:55.836007+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
-first_seen: '2026-06-27T14:21:08.231575+05:30'
-last_seen: '2026-06-27T14:21:08.231575+05:30'
-last_checked: '2026-06-27T14:21:08.231575+05:30'
+first_seen: '2026-06-27T19:37:55.836007+05:30'
+last_seen: '2026-06-27T19:37:55.836007+05:30'
+last_checked: '2026-06-27T19:37:55.836007+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured domain knowledge with unstructured text retrieval.
+- **RAG Architecture**: Three-stage process—**retrieval** (vector/structured search), **augmentation** (combining retrieved context with query), and **generation** (LLM response grounded in augmented prompt). Core components include embedding models, vector databases, and prompt construction frameworks.
 
-- **Core RAG Process**: Three-stage workflow—**Retrieval** (embedding-based semantic search), **Augmentation** (combining retrieved data with user input into an augmented prompt), and **Generation** (LLM response grounded in retrieved context)—with optional metadata/citations for traceability.
+- **GraphRAG Enhancement**: Hybrid approach combining **vector search** (semantic similarity) with **knowledge graph traversal** (structured relationships) via Cypher queries. Enables explainable, scalable retrieval with fine-grained control over structured/unstructured data integration.
 
-- **Implementation Requirements**: Requires Neo4j (5.11+) as a hybrid vector/graph database, OpenAI API for embeddings/LLM, and Python libraries (`langchain`, `neo4j`, `openai`) to orchestrate retrieval (vector + Cypher queries) and generation in a DevOps-focused RAG application.
+- **Implementation Workflow**: Requires **Neo4j Aura/Desktop (5.11+)** for graph/vector storage, **LangChain** for orchestration, and **OpenAI API** for embeddings/LLM. Setup involves initializing `Neo4jGraph`, ingesting multi-source data (e.g., DevOps assets), and querying via hybrid retrievers (vector + graph).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:21:08.231563+05:30
+- Published: 2026-06-27T19:37:55.835995+05:30
 
 ## Related Tags
 

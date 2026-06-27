@@ -31,6 +31,6 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-18 | [G1o22/awesome-ai-agents-2026](https://github.com/G1o22/awesome-ai-agents-2026) | `ai-coding-agents/` |
 | 2026-03-16 | [isumitsoni/awesome-ai-pm](https://github.com/isumitsoni/awesome-ai-pm) | `evals-and-benchmarks/` |
 | 2026-03-14 | [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) | `ai-coding-agents/` |
-| 2026-03-13 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | `ai-coding-agents/` |
 | 2026-03-12 | [jayta1314/awesome-ai-sre](https://github.com/jayta1314/awesome-ai-sre) | `ai-coding-agents/` |
 | 2026-03-11 | [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) | `ai-coding-agents/` |
+| 2026-03-09 | [ChiggyJain/PythonLangSmithTutorial](https://github.com/ChiggyJain/PythonLangSmithTutorial) | `rag-systems/` |

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Schema Interface**: Provides a unified TypeScript API for schema validation libraries, enabling interoperability across tools like Zod, Yup, and Joi via a common validation contract.
-- **TypeScript-First Design**: Leverages TypeScript’s static typing to enforce schema definitions at compile time, ensuring runtime validation aligns with type expectations.
-- **Extensible Core**: Defines a minimal, protocol-like interface (`StandardSchema`) that libraries can implement to support s
+- **Standardized Schema Interface**: Defines a uniform API for TypeScript schema validation libraries, enabling interoperability across tools like Zod, Yup, and Joi.
+- **TypeScript-First Design**: Leverages TypeScript’s type system for compile-time validation, reducing runtime overhead and improving developer experience.
+- **Open Standard**: Community-driven specification (MIT-licensed) with active maintenance, ensuring long-term compatibility and extensibility.
 
 ## Use Cases
 

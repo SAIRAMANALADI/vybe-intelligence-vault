@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload.
+- **RAG Architecture**: RAG combines LLMs with retrieval systems to fetch external context (e.g., documents, databases) dynamically, bypassing context window limits (e.g., GPT-4.1: 1M tokens) by injecting only relevant chunks (e.g., 1,000-token segments) into prompts, avoiding full-document overload.
 
-- **Injection Pipeline**: Processes raw documents via chunking (e.g., 1K-token segments) and embeddings (e.g., OpenAI’s 3,072-dim vectors) stored in vector databases (Pinecone, Weaviate, FAISS), enabling semantic similarity searches.
-
-- **Retrieval Pipeline**:
+- **Embedding Pipeline**: Text chunks are converted into high-dimensional vector embeddings (e.g., OpenAI’s `text-embedding-3-large` uses 3,072 dimensions) via embedding models, capturing semantic
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured/unstructured data integration (text, graphs, tables) with vector + graph-based retrieval for hybrid RAG workflows.
-- **AI agents & MCP integration**: Enables autonomous agent orchestration and Model Context Protocol (MCP) for dynamic tool/toolkit binding in RAG pipelines.
-- **Kubernetes-native scalability**: Helm-based deployment with horizontal pod autoscaling, distributed graph processing (Neo4j/JanusGraph), and vector DB (Milvus/Pinecone) suppor
+- **Multi-modal indexing**: Enables integration and processing of diverse data types (text, images, etc.) into a unified graph-based representation for enhanced retrieval and reasoning.
+
+- **AI agents & MCP support**: Facilitates autonomous task execution via AI agents and integrates with Model Context Protocol (MCP) for standardized agentic workflows.
+
+- **Scalable K8s deployment**: Optimized for Kubernetes-based orchestration, ensuring horizontal scalability, fault tolerance, and efficient res
 
 ## Use Cases
 

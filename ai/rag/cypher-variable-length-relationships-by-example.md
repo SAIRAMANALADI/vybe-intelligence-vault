@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html
-published_at: '2026-06-27T09:51:16.244003+05:30'
-collected_at: '2026-06-27T09:51:16.244018+05:30'
+published_at: '2026-06-27T19:41:09.807135+05:30'
+collected_at: '2026-06-27T19:41:09.807149+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cypher-variable-length-relationships-by-example
-first_seen: '2026-06-27T09:51:16.244018+05:30'
-last_seen: '2026-06-27T09:51:16.244018+05:30'
-last_checked: '2026-06-27T09:51:16.244018+05:30'
+first_seen: '2026-06-27T19:41:09.807149+05:30'
+last_seen: '2026-06-27T19:41:09.807149+05:30'
+last_checked: '2026-06-27T19:41:09.807149+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Variable-length relationship syntax in Cypher**: Uses `*n` for fixed-length (`-[:KNOWS*2]->`), `*m..n` for range (`-[:KNOWS*2..3]->`), and `*` for unbounded (`-[:KNOWS*]->`) paths, enabling flexible traversal depth in graph queries.
-
-- **Zero-length path utility**: Implemented via `*0..n` (e.g., `-[:PREVIOUS_POST*0..1]->`), binding nodes to the same variable without traversal, simplifying queries for optional relationships (e.g., retrieving all blog posts regardless of count).
-
-- **Performance considerations**: Unbounded paths (`*`) risk exponential runtime in dense graphs; explicit limits (e.g., `*..5`) are recommended to balance expressiveness and computational efficiency.
+- **Variable-length relationships in Cypher** allow path traversal with dynamic depth using `*min..max` syntax (e.g., `-[:KNOWS*2..3]->` for 2-3 hops), enabling flexible graph traversal without manual multi-hop queries.
+- **Zero-length paths** (`*0`) bind the same node to multiple variables in a single pattern, simplifying queries for nodes with optional relationships (e.g., `()-[:REL*0..1]->(n)` captures nodes with/without the relationship uniformly).
+- **Performance considerations** require explicit length limits (e.g., `*..5`) to avoid unbounded traversals, as infinite lengths (`*`) can degrade performance in dense or large graphs.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:51:16.244003+05:30
+- Published: 2026-06-27T19:41:09.807135+05:30
 
 ## Related Tags
 

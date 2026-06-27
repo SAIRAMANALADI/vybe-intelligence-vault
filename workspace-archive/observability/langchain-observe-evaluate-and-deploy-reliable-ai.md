@@ -6,9 +6,9 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,17 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified Agent Lifecycle Management**: LangSmith provides a framework-agnostic platform (Python, TypeScript, Go, Java SDKs) for tracing, evaluating, deploying, and monitoring AI agents across build, test, and production phases.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured tracing and SDKs (Python/TypeScript/Go/Java).
 
-- **Autonomous Debugging & Scalability**: LangSmith Engine clusters production failures, diagnoses root causes via structured traces (OpenTelemetry-compatible), and supports scalable, fault-tolerant agent deployments with durable checkpointing and async collaboration
+- **Agent Deployment**: Fault-tolerant runtime with durable checkpointing, async human-in-the-loop support, and native A2A/MCP protocol integration for scalable agent swarms.
+
+- **Evaluation & Observability**: Multi-turn LLM-as-judge evals, human feedback annotations, and structured trace analytics to iteratively optimiz
 
 ## Use Cases
 

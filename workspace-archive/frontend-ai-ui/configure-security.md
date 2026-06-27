@@ -34,10 +34,7 @@ selection_reason:
 
 - **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly permitted; violations trigger detailed failure messages.
 
-- **Configurable Security Parameters**:
-  - `allowContent`: Regex-based allowlist for content media types (e.g., `text/html` denied by default).
-  - `exec.allow`: Whitelists external executables (e.g., `^(dart-)?sass(-embedded)?$`, `^go$`).
-  - `http.urls`
+- **Configurable Allowlists**: Security policies are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), a
 
 ## Use Cases
 

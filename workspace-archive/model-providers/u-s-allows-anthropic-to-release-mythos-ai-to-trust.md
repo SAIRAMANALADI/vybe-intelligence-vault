@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by bobrenjc93. Score: 455, Comments: 543.
+Hacker News story by bobrenjc93. Score: 492, Comments: 645.
 Original Link: https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies
 
 ## Use Cases

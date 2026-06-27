@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-27T16:35:46.086353+05:30'
-published_at: '2026-06-25T15:06:50Z'
+collected_at: '2026-06-27T19:38:07.394958+05:30'
+published_at: '2026-06-27T11:53:35Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - openai
 - rag
 - workflows
-stars: 963
+stars: 964
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-27T16:35:46.086353+05:30'
-last_seen: '2026-06-27T16:35:46.086353+05:30'
-last_checked: '2026-06-27T16:35:46.086353+05:30'
+first_seen: '2026-06-27T19:38:07.394958+05:30'
+last_seen: '2026-06-27T19:38:07.394958+05:30'
+last_checked: '2026-06-27T19:38:07.394958+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, LangChain, LlamaIndex) to build Retrieval-Augmented Generation (RAG) systems and multimodal AI pipelines.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision) for advanced AI applications.
 
-- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, embeddings management, and fine-tuning workflows in deep learning and machine learning applications.
+- **Vector Database Integration**: Demonstrates the use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines, with examples leveraging LangChain and LlamaIndex for workflow orchestration.
 
-- **Agent & Tool Integration**: Showcases agent-based systems leveraging vector search for dynamic tool selection, multimodal data processing, and OpenAI API interactions, with a focus on optimizing performance and scalability.
+- **Agentic AI Systems**: Includes recipes for building autonomous AI agents using vector search, LLMs, and multimodal inputs, covering topics like fine-tuning, OpenAI API integration, and deep-learning-based embedding generation.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lancedb
-- Stars: 963
+- Stars: 964
 - Forks: 170
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
-- Last Updated: 2026-06-25T15:06:50Z
+- Last Updated: 2026-06-27T11:53:35Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-25T06:10:35Z

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations and remote collaboration; SSH is a secure method for authenticated access to repositories.
+- GitHub supports **SSH authentication** for secure remote access to repositories, enabling encrypted communication over unsecured networks via the Secure Shell Protocol (SSH).
 
-- **Collaborative Development Workflow**: Pull requests enable proposing, reviewing, and merging code changes, while GitHub Actions automates CI/CD pipelines for testing and deployment.
+- **Pull requests** facilitate collaborative code review and merging, allowing developers to propose, discuss, and integrate changes into repositories.
 
-- **Security & DevOps Tooling**: GitHub provides CodeQL for static analysis, Secrets scanning for credential pr
+- **GitHub Actions** provides CI/CD automation, enabling workflows for building, testing, and deploying code directly from repositories.
 
 ## Use Cases
 

@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- `create_agent` provides a minimal, configurable agent harness in LangChain, composed of model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
 
-- **Unified Abstraction Layer**: Implements a standard interface for chat models, embeddings, and tools across providers, ensuring application portability with minimal code changes and incremental capability addition via m
+- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
+
+- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like trace inspection, tool call analysis, and latency monitoring.
 
 ## Use Cases
 

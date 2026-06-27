@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-06-27T14:23:09.510533+05:30'
+collected_at: '2026-06-27T19:39:57.448940+05:30'
 published_at: '2026-06-27T02:50:26Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
+- reddit
 - workflows
 stars: 5696
 language: Go
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-06-27T08:05:53Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-06-27T14:23:09.510533+05:30'
-last_seen: '2026-06-27T14:23:09.510533+05:30'
-last_checked: '2026-06-27T14:23:09.510533+05:30'
+first_seen: '2026-06-27T19:39:57.448940+05:30'
+last_seen: '2026-06-27T19:39:57.448940+05:30'
+last_checked: '2026-06-27T19:39:57.448940+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Workshop for constructing a coding agent (e.g., Roo Code, Cline, Amp) using Go, covering architecture, tooling, and AI integration.
-- **Key Components**: Focuses on agent-based AI workflows, including LLM interaction, tool orchestration, and real-time code assistance.
-- **Technical Scope**: Covers Go-based development, AI agent patterns, and integration with modern IDEs (Cursor, Windsurf, OpenCode).
+- **Purpose**: Workshop for constructing a **Go-based AI coding agent** (e.g., alternatives to Cursor/Cline) with modular architecture for extensibility.
+- **Key Components**: Includes **agent orchestration**, **LLM integration**, and **IDE/tooling interfaces** (e.g., LSP, CLI).
+- **Technical Focus**: Emphasizes **real-time code analysis**, **multi-tool execution**, and **state management** for autonomous workflows.
 
 ## Why It Matters
 

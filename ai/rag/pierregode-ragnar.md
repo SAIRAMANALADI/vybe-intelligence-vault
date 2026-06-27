@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-06-27T16:36:51.204991+05:30'
+collected_at: '2026-06-27T19:39:12.400023+05:30'
 published_at: '2026-06-27T10:43:32Z'
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
@@ -17,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-06-27T00:18:39Z'
+pushed_at: '2026-06-27T11:45:58Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-06-27T16:36:51.204991+05:30'
-last_seen: '2026-06-27T16:36:51.204991+05:30'
-last_checked: '2026-06-27T16:36:51.204991+05:30'
+first_seen: '2026-06-27T19:39:12.400023+05:30'
+last_seen: '2026-06-27T19:39:12.400023+05:30'
+last_checked: '2026-06-27T19:39:12.400023+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port enumeration, service identification, and vulnerability detection.
-- **Features**: Automates reconnaissance and vulnerability assessment via Python-based scripts, integrating hardware-specific display for real-time results.
-- **Dependencies**: Requires Raspberry Pi hardware with e-Paper HAT for full functionality; relies on Python for core scanning and analysis logic.
+- **Network Scanning & Offensive Security Tool**: Ragnar is a Python-based utility designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network discovery, including targets, open ports, exposed services, and vulnerabilities.
+
+- **Automated Vulnerability Assessment**: Leverages offensive security techniques to identify and enumerate network weaknesses, enabling proactive threat detection and security auditing.
+
+- **Hardware Integration**: Optimized for Raspberry Pi with e-Paper HAT support, providing a portable, low-power solution for real-time network reconnaissance and reporting.
 
 ## Why It Matters
 
@@ -48,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-06-27T00:18:39Z
+- Pushed At: 2026-06-27T11:45:58Z
 
 ## Possible Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-27T16:38:41.660687+05:30'
-collected_at: '2026-06-27T16:38:41.660701+05:30'
+published_at: '2026-06-27T19:42:21.166992+05:30'
+collected_at: '2026-06-27T19:42:21.167005+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-27T16:38:41.660701+05:30'
-last_seen: '2026-06-27T16:38:41.660701+05:30'
-last_checked: '2026-06-27T16:38:41.660701+05:30'
+first_seen: '2026-06-27T19:42:21.167005+05:30'
+last_seen: '2026-06-27T19:42:21.167005+05:30'
+last_checked: '2026-06-27T19:42:21.167005+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs with stateful workflows.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem operations for advanced task execution.
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and file system interactions for complex task execution.
 
-- **Commercial & Extensions**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent Protocol standardize framework-agnostic APIs for agent interoperability.
+- **Commercial & Extensions**: LangSmith offers a production-grade platform for monitoring LLM applications, while MCP Adapters and Agent Protocol standardize framework-agnostic APIs for agent interoperability.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:38:41.660687+05:30
+- Published: 2026-06-27T19:42:21.166992+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-06-27T16:38:11.331898+05:30'
+collected_at: '2026-06-27T19:40:32.534766+05:30'
 published_at: '2026-06-27T10:37:35Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2025-02-26T10:04:45Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-06-27T16:38:11.331898+05:30'
-last_seen: '2026-06-27T16:38:11.331898+05:30'
-last_checked: '2026-06-27T16:38:11.331898+05:30'
+first_seen: '2026-06-27T19:40:32.534766+05:30'
+last_seen: '2026-06-27T19:40:32.534766+05:30'
+last_checked: '2026-06-27T19:40:32.534766+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated repository** of AI autonomous agents, including notable projects like AutoGPT, BabyAGI, GPT-Engineer, and GitHub Copilot, with 28.5K+ stars and 3K+ forks.
-- **Categorizes tools** by functionality (e.g., task automation, code generation, research agents) and supports Python-based implementations with OpenAI/GPT-4 integration.
-- **Last updated June 2026**, reflecting cutting-edge advancements in autonomous AI agents and their ecosystem.
+- **Curated repository** of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in artificial intelligence.
+- **Multi-language support** with primary focus on Python-based implementations for agent orchestration, task automation, and LLM integration.
+- **Active maintenance** with last update in 2026, ensuring compatibility with modern AI models (e.g., GPT-4, OpenAI APIs) and autonomous agent ecosystems.
 
 ## Why It Matters
 

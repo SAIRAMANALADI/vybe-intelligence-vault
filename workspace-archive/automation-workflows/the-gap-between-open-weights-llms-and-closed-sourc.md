@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by kkm. Score: 217, Comments: 179.
+Hacker News story by kkm. Score: 251, Comments: 197.
 Original Link: https://blog.doubleword.ai/frontier-os-llm
 
 ## Use Cases

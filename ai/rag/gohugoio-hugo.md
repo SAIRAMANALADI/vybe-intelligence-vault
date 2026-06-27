@@ -1,70 +1,57 @@
 ---
-title: gohugoio/hugo
+title: Releases · gohugoio/hugo · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/gohugoio/hugo
-collected_at: '2026-06-27T16:39:26.672913+05:30'
-published_at: '2026-06-27T08:59:19Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/gohugoio/hugo/releases
+published_at: '2026-06-27T19:42:11.558469+05:30'
+collected_at: '2026-06-27T19:42:11.558484+05:30'
 tags:
-- github-repo
-- go
+- agents
+- frontend_ui
+- hackernews
 - rag
-stars: 88746
-language: Go
+- reddit
+- scripts
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2013-07-04T15:26:26Z'
-pushed_at: '2026-06-25T10:09:52Z'
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-27T16:39:26.672913+05:30'
-last_seen: '2026-06-27T16:39:26.672913+05:30'
-last_checked: '2026-06-27T16:39:26.672913+05:30'
+first_seen: '2026-06-27T19:42:11.558484+05:30'
+last_seen: '2026-06-27T19:42:11.558484+05:30'
+last_checked: '2026-06-27T19:42:11.558484+05:30'
 health_score: 100
 ---
 
-# gohugoio/hugo
+# Releases · gohugoio/hugo · GitHub
 
 ## Summary
 
-- **Static Site Generator**: Hugo is a highly optimized static site generator written in Go, enabling rapid website builds by pre-compiling content into static files, eliminating runtime overhead.
+- **Hugo v0.163.3**: Fixes include escaping language in code blocks (`markup/highlight`), preserving non-ASCII whitespace in parsers (`parser/pageparser`), and adding support for `babel/postcss` config variants (`resources`).
 
-- **Performance-Centric Design**: Leverages Go’s concurrency model and memory efficiency to achieve sub-millisecond build times, even for large-scale sites with thousands of pages.
+- **Hugo v0.163.2**: Addresses `ERR_ACCESS_DENIED` in Node's resolver and standardizes external converter behavior (`markup`).
 
-- **Extensible Architecture**: Supports modular themes, custom shortcodes, and a robust plugin system, enabling integration with content pipelines, asset pipelines, and third-party APIs.
+- **Hugo v0.163.0**: AVIF image handling improvements (default quality reduced to 60, added `hint` for YUV420/YUV444 chroma subsampling), deprecated `baseUrl` in `jsconfig`, and removed support for Go versions older than the latest.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: gohugoio
-- Stars: 88746
-- Forks: 8280
-- Language: Go
-- Topics: blog-engine, cms, content-management-system, documentation-tool, go, hugo, static-site-generator
-- Last Updated: 2026-06-27T08:59:19Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2013-07-04T15:26:26Z
-- Pushed At: 2026-06-25T10:09:52Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-06-27T19:42:11.558469+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- frontend_ui
+- hackernews
+- rag
+- reddit
+- scripts
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/gohugoio/hugo
+Original source: https://github.com/gohugoio/hugo/releases

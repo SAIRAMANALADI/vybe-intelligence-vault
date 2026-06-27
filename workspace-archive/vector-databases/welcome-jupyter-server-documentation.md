@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Backend Service**: Jupyter Server replaces Tornado Web Server in Jupyter Notebook, providing core services, APIs, and REST endpoints for Jupyter web applications (e.g., JupyterLab, NbClassic).
-- **Extension Framework**: Enables development of server extensions (e.g., Jupyter Resource Usage, Jupyter Scheduler) for custom applications, leveraging Jupyter Server’s framework and services.
-- **Multi-Role Documentation**: Targets distinct personas (Users, Operators, Developers, Contributors)
+- **Core Backend Replacement**: Jupyter Server replaces the Tornado Web Server in Jupyter Notebook, providing core services, APIs, and REST endpoints for Jupyter web applications.
+
+- **Extension Framework**: Enables creation of applications/services via extensions (e.g., JupyterLab, Jupyter Resource Usage, Jupyter Scheduler) leveraging its framework and services.
+
+- **Multi-Persona Documentation**: Separates technical documentation for users, operators, developers, and contributors, covering dep
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: stanford-oval/storm
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm
+source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
@@ -10,13 +10,6 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- hackernews
-- python
-- rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **System Architecture**: STORM is an LLM-powered system designed for autonomous knowledge curation, integrating retrieval-augmented generation (RAG) with agentic workflows to research topics and produce structured, citation-backed reports.
-
-- **Key Components**: Utilizes a multi-agent framework where one agent decomposes research questions, another retrieves and synthesizes evidence, and a third generates the final report with inline citations, optimizing for depth and accuracy.
-
-- **Technical
+- **LLM-powered knowledge curation system** (`storm`) autonomously researches topics and synthesizes **full-length reports with inline citations** using iterative retrieval and generation.
+- **Multi-agent architecture** integrates **retrieval-augmented generation (RAG)** with **agentic workflows** for deep, structured research (EMNLP 2024/NAACL contributions).
+- **Python-based framework** supports **scalable knowledge curation**, enabling **topic-specific report generation** with verifiable cita
 
 ## Use Cases
 
@@ -49,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm
+Original source URL: https://github.com/stanford-oval/storm?source=post_page
 
 ## Local Vault File
 

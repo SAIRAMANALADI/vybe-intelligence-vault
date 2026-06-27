@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: high
 tags:
 - github-repo
+- hackernews
 - unknown
 selection_reason:
 - Strong keyword match
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap**: GitHub's official public roadmap outlines upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise.
-- **Community-Driven Feedback**: The roadmap is shaped by community input, with features prioritized based on user requests and discussions in GitHub Issues.
-- **Regular Updates**: The roadmap is actively maintained and updated quarterly, with the last revision on **2026-06-26**.
+- **Public Roadmap Tracking**: GitHub's official public roadmap repository outlines upcoming features and improvements for GitHub products, including GitHub.com and GitHub Enterprise, with community-driven feedback integration.
+
+- **Versioned Milestones**: Roadmap items are organized by versioned releases (e.g., Q3 2024, Q4 2024), providing transparency into development priorities and timelines for enterprise and core platform enhancements.
+
+- **Community Engagement**: The repository facilitates
 
 ## Use Cases
 

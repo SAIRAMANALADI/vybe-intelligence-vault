@@ -1,73 +1,50 @@
 ---
-title: neuml/txtai
+title: txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai
+  · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/neuml/txtai
-collected_at: '2026-06-27T16:38:41.334472+05:30'
-published_at: '2026-06-26T18:55:32Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb
+published_at: '2026-06-27T19:41:13.035128+05:30'
+collected_at: '2026-06-27T19:41:13.035142+05:30'
 tags:
-- agents
-- github-repo
 - hackernews
-- python
 - rag
-- workflows
-stars: 12681
-language: Python
+- reddit
+- web-crawled
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2020-08-09T19:14:59Z'
-pushed_at: '2026-06-22T17:06:32Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-06-27T16:38:41.334472+05:30'
-last_seen: '2026-06-27T16:38:41.334472+05:30'
-last_checked: '2026-06-27T16:38:41.334472+05:30'
+first_seen: '2026-06-27T19:41:13.035142+05:30'
+last_seen: '2026-06-27T19:41:13.035142+05:30'
+last_checked: '2026-06-27T19:41:13.035142+05:30'
 health_score: 100
 ---
 
-# neuml/txtai
+# txtai/examples/52_Build_RAG_pipelines_with_txtai.ipynb at master · neuml/txtai · GitHub
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging modern NLP techniques like embeddings, transformers, and vector databases.
-
-- **Modular Architecture**: Supports agents, RAG (Retrieval-Augmented Generation), and vector search with built-in sentence embeddings, enabling scalable information retrieval and generative AI applications.
-
-- **Production-Ready Toolkit**: Combines search engines, vector databases, and LLM workflows for end-to-end AI pipelines, optimized for performance and extensibility in Python.
+- **Repository Overview**: `txtai` is an open-source Python library by `neuml` for building semantic search, LLM orchestration, and RAG pipelines with 12.7k GitHub stars and 835 forks.
+- **RAG Pipeline Example**: The notebook `52_Build_RAG_pipelines_with_txtai.ipynb` demonstrates constructing Retrieval-Augmented Generation (RAG) pipelines using `txtai`, spanning 592 lines (21.8 KB).
+- **Technical Metadata**: The file is a Jupyter Notebook with 592 lines of code, located in the `/examples` directory of the `txtai` repository, with no active pull requests or security issues.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: neuml
-- Stars: 12681
-- Forks: 835
-- Language: Python
-- Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-06-26T18:55:32Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2020-08-09T19:14:59Z
-- Pushed At: 2026-06-22T17:06:32Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-06-27T19:41:13.035128+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- rag
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/neuml/txtai
+Original source: https://github.com/neuml/txtai/blob/master/examples/52_Build_RAG_pipelines_with_txtai.ipynb

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-27T16:36:51.183972+05:30'
+collected_at: '2026-06-27T19:39:12.409464+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-27T16:36:51.183972+05:30'
-last_seen: '2026-06-27T16:36:51.183972+05:30'
-last_checked: '2026-06-27T16:36:51.183972+05:30'
+first_seen: '2026-06-27T19:39:12.409464+05:30'
+last_seen: '2026-06-27T19:39:12.409464+05:30'
+last_checked: '2026-06-27T19:39:12.409464+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting adversarial documents into the retrieval corpus, causing LLMs to generate manipulated outputs while maintaining high retrieval relevance.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance metrics.
 
-- **Technical Implementation**: Leverages gradient-based optimization to craft poisoned documents that exploit the retrieval mechanism, ensuring target misinformation is consistently retrieved and prioritized over benign context during generation.
+- **Technical Implementation**: Leverages adversarial document embedding techniques to subtly alter vector representations of poisoned documents, ensuring they rank highly in retrieval while embedding misleading or biased information that propagates into generated responses.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLMs) with minimal perturbation to poisoned documents, highlighting vulnerabilities in trustworthy AI systems and proposing mitigation directions.
+- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG pipelines (e.g., dense retrieval + LLMs) with minimal perturbation (e.g., <1% poisoned corpus), achieving >90% attack success rate in misleading responses while evading detection via standard RAG evaluation metrics.
 
 ## Why It Matters
 

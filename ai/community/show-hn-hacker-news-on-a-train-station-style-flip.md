@@ -13,13 +13,14 @@ collected_at: '2026-06-27T16:34:52.248558+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-hacker-news-on-a-train-station-style-flip
 first_seen: '2026-06-27T09:47:00.322378+05:30'
 last_seen: '2026-06-27T16:34:52.248558+05:30'
 last_checked: '2026-06-27T16:34:52.248558+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Hacker News on a train station-style flip board
 

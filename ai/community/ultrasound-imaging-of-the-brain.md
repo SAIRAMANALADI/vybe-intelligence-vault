@@ -13,13 +13,14 @@ collected_at: '2026-06-27T16:34:52.410727+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ultrasound-imaging-of-the-brain
 first_seen: '2026-06-26T20:18:14.123810+05:30'
 last_seen: '2026-06-27T16:34:52.410727+05:30'
 last_checked: '2026-06-27T16:34:52.410727+05:30'
 health_score: 100
 ---
+
 
 # Ultrasound imaging of the brain
 

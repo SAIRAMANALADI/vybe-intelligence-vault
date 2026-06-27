@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-27T16:35:26.160253+05:30'
+collected_at: '2026-06-27T19:37:47.483061+05:30'
 published_at: '2026-06-25T22:30:21Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-27T16:35:26.160253+05:30'
-last_seen: '2026-06-27T16:35:26.160253+05:30'
-last_checked: '2026-06-27T16:35:26.160253+05:30'
+first_seen: '2026-06-27T19:37:47.483061+05:30'
+last_seen: '2026-06-27T19:37:47.483061+05:30'
+last_checked: '2026-06-27T19:37:47.483061+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **RAGTruth**, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by providing annotated datasets for hallucination detection.
-- Provides a **Python-based framework** for generating, curating, and benchmarking hallucination cases in RAG systems, facilitating systematic assessment of model reliability.
-- Released under an open-source license with **257 stars and 32 forks**, last updated June 25, 2026, to support community-driven research in mitigating hallucinations in LLMs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
+
+- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucination datasets, with structured metadata for fine-grained analysis of model errors in RAG pipelines.
+
+- **Evaluation Focus**: Provides standardized metrics and test suites to assess hallucination rates, enabling reproducible research and systematic comparison of RAG model robustness against factual inaccuracies.
 
 ## Why It Matters
 

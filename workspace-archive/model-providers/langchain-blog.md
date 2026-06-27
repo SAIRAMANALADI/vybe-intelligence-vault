@@ -8,16 +8,18 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -26,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Model Neutrality in Agent Architectures**: Emphasizes that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality for agent systems, ensuring flexibility and avoiding dependency on proprietary model APIs.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism for caching LLM prompts to reduce redundant computations and improve efficiency in agent-based systems, leveraging LangChain's Deep Agents framework.
 
-- **Efficient Verifiers for Legal Agents**: Introduces specialized verifier architectures for legal agents, leveraging domain-specific constraints to improve accuracy and reduce hallucinations in high-stakes applications.
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, enabling flexibility, cost optimization, and avoiding dependency on proprietary model APIs.
 
-- **LangSmith Engi
+- **LangSmith Engine for Agent Obs
 
 ## Use Cases
 

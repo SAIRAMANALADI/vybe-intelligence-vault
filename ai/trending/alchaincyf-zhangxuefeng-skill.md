@@ -9,13 +9,14 @@ collected_at: '2026-06-27T16:34:51.253825+05:30'
 tags:
 - github-trending
 - unknown
-status: active
+status: inactive
 resource_id: github:alchaincyf/zhangxuefeng-skill
 first_seen: '2026-06-26T20:18:15.054279+05:30'
 last_seen: '2026-06-27T16:34:51.253825+05:30'
 last_checked: '2026-06-27T16:34:51.253825+05:30'
 health_score: 100
 ---
+
 
 # alchaincyf/zhangxuefeng-skill
 

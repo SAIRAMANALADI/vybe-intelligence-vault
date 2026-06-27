@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-27T16:38:36.309460+05:30'
+collected_at: '2026-06-27T19:40:57.639876+05:30'
 published_at: '2026-06-27T01:13:23Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-06-27T07:10:05Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-27T16:38:36.309460+05:30'
-last_seen: '2026-06-27T16:38:36.309460+05:30'
-last_checked: '2026-06-27T16:38:36.309460+05:30'
+first_seen: '2026-06-27T19:40:57.639876+05:30'
+last_seen: '2026-06-27T19:40:57.639876+05:30'
+last_checked: '2026-06-27T19:40:57.639876+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Governance Framework**: DefenseClaw provides a structured approach to security governance for agentic AI systems, focusing on policy enforcement, risk assessment, and compliance monitoring through Python-based tooling.
+- **Security Governance Framework**: DefenseClaw provides a structured approach to governance for agentic AI systems, focusing on security policies, compliance checks, and risk management in Python.
 
-- **Agentic AI Protection**: Implements mechanisms to secure autonomous AI agents by detecting anomalous behaviors, mitigating adversarial attacks, and enforcing least-privilege access controls in real-time.
+- **Agentic AI Security**: Implements mechanisms to monitor, control, and audit AI agents, ensuring adherence to predefined security policies and mitigating adversarial risks.
 
-- **Extensible Python Toolkit**: Offers modular libraries for integrating security policies into AI workflows, supporting custom rule definitions, logging, and audit trails for agentic AI deployments.
+- **Open-Source Toolkit**: Python-based repository offering modular components for integrating security governance into AI agent workflows, with active development tracked via GitHub metrics.
 
 ## Why It Matters
 

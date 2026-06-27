@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient document retrieval and generation.
-- **Notebook Structure**: Jupyter Notebook-based implementation showcasing end-to-end RAG pipeline, including data ingestion, indexing, retrieval, and response generation.
-- **Scalability**: Designed for high-performance inference with Llama 2 70B, leveraging optimized inference techniques (e.g., quantization, parallel processing) for la
+- **Environment**: Developed in a Jupyter Notebook, leveraging GPU acceleration for Llama 2 70B inference.
+- **Updates**: Last modified on **2026-05-24**, indicating ongoing maintenance or potential future enhancements.
 
 ## Use Cases
 

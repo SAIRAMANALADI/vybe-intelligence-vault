@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **MAI-Code-1-Flash Integration**: Introduces MAI-Code-1-Flash model for Copilot Business and Enterprise, enhancing AI-driven code generation and contextual understanding with optimized performance for enterprise workflows.
+- **Merge Tracking in Adoption Phases**: GitHub now tracks total merges segmented by adoption phases (e.g., pilot, full rollout) in enterprise and organization reports, enabling granular analysis of feature adoption metrics.
 
-- **GitHub Changelog Update**: Published under GitHub’s changelog for June 26, 2026, with the `copilot` label, marking a new feature release in the Copilot product line.
+- **Enhanced Enterprise Reporting**: Enterprise administrators can access detailed merge statistics per adoption phase, improving visibility into team or project progression during feature rollouts.
 
-- **Enterprise-Focused Enhancements**: Designed to improve developer productivity in business environme
+- **Integration with Copilot & Management Tools**: The feature integrates
 
 ## Use Cases
 

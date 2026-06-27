@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-27T16:36:41.187270+05:30'
+collected_at: '2026-06-27T19:39:07.454213+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 145
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-27T16:36:41.187270+05:30'
-last_seen: '2026-06-27T16:36:41.187270+05:30'
-last_checked: '2026-06-27T16:36:41.187270+05:30'
+first_seen: '2026-06-27T19:39:07.454213+05:30'
+last_seen: '2026-06-27T19:39:07.454213+05:30'
+last_checked: '2026-06-27T19:39:07.454213+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Multi-Turn RAG Benchmark (`mt-rag-benchmark`) evaluates Retrieval-Augmented Generation (RAG) systems across multi-turn conversational contexts, emphasizing iterative retrieval and response refinement.
+- **Benchmark Overview**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework designed to assess conversational RAG systems across multi-turn interactions, emphasizing context retention and iterative retrieval quality.
 
-- **Implementation**: Python-based benchmark with modular components for simulating multi-turn dialogues, integrating retrieval mechanisms, and assessing response quality via predefined metrics (e.g., relevance, coherence, factual accuracy).
+- **Technical Implementation**: Python-based benchmark with modular components for query generation, retrieval evaluation, and response assessment, supporting customizable pipelines for domain-specific RAG testing.
 
-- **Scope**: Focuses on latency, retrieval precision, and end-to-end performance in dynamic QA scenarios, providing a standardized framework for comparing RAG pipelines under realistic multi-turn conditions.
+- **Evaluation Metrics**: Focuses on metrics like context relevance, answer accuracy, and turn-level consistency, with extensible scoring mechanisms for comparative analysis against baseline RAG models.
 
 ## Why It Matters
 

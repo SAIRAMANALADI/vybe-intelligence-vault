@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-06-27T16:38:16.259223+05:30'
-published_at: '2026-06-27T10:53:35Z'
+collected_at: '2026-06-27T19:40:37.486385+05:30'
+published_at: '2026-06-27T13:25:31Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - unknown
-stars: 1288
+stars: 1293
 language: Unknown
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-06-27T16:38:16.259223+05:30'
-last_seen: '2026-06-27T16:38:16.259223+05:30'
-last_checked: '2026-06-27T16:38:16.259223+05:30'
+first_seen: '2026-06-27T19:40:37.486385+05:30'
+last_seen: '2026-06-27T19:40:37.486385+05:30'
+last_checked: '2026-06-27T19:40:37.486385+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated `awesome-list` aggregating 300+ AI agent frameworks and tools across 20+ categories, future-dated to 2026.
-*   Resource compilation specifically targets LLM-centric architectures, including LangChain and ChatGPT integrations.
-*   Actively maintained repository, last updated 2026-06-27, demonstrating ongoing relevance in AI agent development.
+- **Curated Repository**: Hosts 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly for 2026 relevance.
+- **Technical Scope**: Covers ChatGPT, LangChain, LLMs, and machine learning tools, with GitHub topics reflecting AI agent ecosystems.
+- **Maintenance**: Last updated 2026-06-27, indicating active maintenance with 1,293 stars and 427 forks.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: caramaschiHG
-- Stars: 1288
-- Forks: 425
+- Stars: 1293
+- Forks: 427
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
-- Last Updated: 2026-06-27T10:53:35Z
+- Last Updated: 2026-06-27T13:25:31Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-03-07T13:21:09Z

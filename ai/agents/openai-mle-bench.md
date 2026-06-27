@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-06-27T14:23:59.672780+05:30'
+collected_at: '2026-06-27T19:40:47.557006+05:30'
 published_at: '2026-06-26T17:24:22Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
+- leaderboard
 - openai
 - python
 - workflows
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-06-27T14:23:59.672780+05:30'
-last_seen: '2026-06-27T14:23:59.672780+05:30'
-last_checked: '2026-06-27T14:23:59.672780+05:30'
+first_seen: '2026-06-27T19:40:47.557006+05:30'
+last_seen: '2026-06-27T19:40:47.557006+05:30'
+last_checked: '2026-06-27T19:40:47.557006+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter tuning, and deployment.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
 
-- **Technical Implementation**: Built in Python, the benchmark consists of standardized tasks with automated evaluation metrics, focusing on reproducibility and scalability in ML workflows.
+- **Technical Implementation**: Built in Python, the benchmark provides standardized APIs and evaluation metrics to assess agent performance across diverse ML workflows, with tasks ranging from simple regression to complex multi-stage pipelines.
 
-- **Evaluation Metrics**: Measures agent performance across efficiency, correctness, and adaptability, with results publicly tracked to facilitate comparative analysis.
+- **Evaluation Metrics**: Focuses on functional correctness, efficiency (compute/time), and robustness (handling edge cases), with leaderboards tracking agent performance across curated ML challenges.
 
 ## Why It Matters
 

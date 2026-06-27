@@ -9,13 +9,14 @@ collected_at: '2026-06-27T16:34:51.254135+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:mauriceboe/trek
 first_seen: '2026-06-25T16:35:46.162335+05:30'
 last_seen: '2026-06-27T16:34:51.254135+05:30'
 last_checked: '2026-06-27T16:34:51.254135+05:30'
 health_score: 100
 ---
+
 
 # mauriceboe/TREK
 

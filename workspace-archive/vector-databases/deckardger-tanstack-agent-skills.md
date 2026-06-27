@@ -8,18 +8,17 @@ local_vault_path: ai/rag/deckardger-tanstack-agent-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # DeckardGer/tanstack-agent-skills
@@ -28,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced caching techniques for TanStack Query to minimize redundant network requests and improve AI agent performance in dynamic data scenarios.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
 
-- **State Management Integration**: Demonstrates seamless synchronization between TanStack Router and Start for efficient state handling in AI-driven applications, reducing latency in route transitions.
+- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths with type-safe client-side routing and optimized prefetching.
 
-- **AI-Specific Query Patterns**: Introduces specialized query patterns tailored for AI coding agents,
+- **Start Framework Integration**: Outlines best prac
 
 ## Use Cases
 

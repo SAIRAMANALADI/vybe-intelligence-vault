@@ -8,15 +8,14 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -25,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., FAISS, Chroma) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Streamlit Implementation**: Provides a modular Python framework with backend processing (e.g., `process_pdf.py`, `question_handler.py`) for document splitting, QA chains, summarization, and translation, alongside a UI for model selection and result display.
+- **Streamlit Implementation**: Modular Python application with backend processing (`process_pdf.py`, `question_handler.py`) and UI components for PDF upload, model selection (e.g., `get_question_answer_chain`), and result display.
 
-- **Deploym
+- **Key Functions**: Includes document splitting (`load_and_split
 
 ## Use Cases
 

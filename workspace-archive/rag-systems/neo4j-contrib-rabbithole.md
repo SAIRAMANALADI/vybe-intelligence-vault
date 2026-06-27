@@ -8,7 +8,7 @@ local_vault_path: ai/rag/neo4j-contrib-rabbithole.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: api
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -25,18 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Interactive Neo4j Console**: Provides an embeddable, interactive console for Neo4j, enabling in-process Cypher query execution and database interaction without requiring a separate server instance.
-
-- **Java-Based Implementation**: Built entirely in Java, leveraging Neo4j's Java APIs for seamless integration and low-level database operations.
-
-- **Lightweight & Embeddable**: Designed for minimal overhead, allowing easy embedding into applications for rapid prototyping, testing, or lightweigh
+- **Embeddable Neo4j Console**: Provides an interactive, embeddable console for Neo4j, enabling in-process database interactions without requiring a separate server instance.
+- **Java-Based Implementation**: Developed in Java, leveraging Neo4j's core libraries for seamless integration and performance optimization.
+- **Last Updated (2026-03-07)**: Repository was last updated on March 7, 2026, indicating active maintenance and potential support for modern Neo4j versions.
 
 ## Use Cases
 

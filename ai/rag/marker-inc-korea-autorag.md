@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-27T16:36:01.111395+05:30'
+collected_at: '2026-06-27T19:38:27.465135+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
+- models
 - python
 - rag
 - scripts
-- workflows
 stars: 4841
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-27T16:36:01.111395+05:30'
-last_seen: '2026-06-27T16:36:01.111395+05:30'
-last_checked: '2026-06-27T16:36:01.111395+05:30'
+first_seen: '2026-06-27T19:38:27.465135+05:30'
+last_seen: '2026-06-27T19:38:27.465135+05:30'
+last_checked: '2026-06-27T19:38:27.465135+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Provides automated hyperparameter tuning and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using machine learning techniques, reducing manual configuration overhead.
-
-- **Comprehensive RAG Evaluation**: Includes built-in benchmarking tools for assessing retrieval quality, generation performance, and end-to-end RAG pipeline efficiency across multiple metrics.
-
-- **Modular Python Framework**: Supports document parsing, embeddings generation, retrieval strategies, and LLM integration with extensible components for custom RAG workflows.
+*   Automates Retrieval-Augmented Generation (RAG) pipeline evaluation and optimization via an AutoML-style framework.
+*   Enables benchmarking and iterative fine-tuning of RAG components, encompassing document parsing, embedding models, and LLM integration.
+*   Facilitates LLM-Ops for RAG, providing tools for performance analysis and systematic pipeline enhancement.
 
 ## Why It Matters
 
@@ -46,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Marker-Inc-Korea
 - Stars: 4841
-- Forks: 403
+- Forks: 404
 - Language: Python
 - Topics: analysis, automl, benchmarking, document-parser, embeddings, evaluation, llm, llm-evaluation, llm-ops, open-source, ops, optimization, pipeline, python, qa, rag, rag-evaluation, retrieval-augmented-generation
 - Last Updated: 2026-06-27T01:39:07Z

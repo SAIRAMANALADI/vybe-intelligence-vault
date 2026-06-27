@@ -4,17 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io/
-published_at: '2026-06-26T22:39:33.097019+05:30'
-collected_at: '2026-06-26T22:39:33.097028+05:30'
+published_at: '2026-06-27T19:37:53.869394+05:30'
+collected_at: '2026-06-27T19:37:53.869405+05:30'
 tags:
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-06-26T22:39:33.097028+05:30'
-last_seen: '2026-06-26T22:39:33.097028+05:30'
-last_checked: '2026-06-26T22:39:33.097028+05:30'
+first_seen: '2026-06-27T19:37:53.869405+05:30'
+last_seen: '2026-06-27T19:37:53.869405+05:30'
+last_checked: '2026-06-27T19:37:53.869405+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., FAISS, Chroma) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Streamlit Implementation**: Provides a modular Python framework with backend processing (e.g., `process_pdf.py`, `question_handler.py`) for document splitting, QA chains, summarization, and translation, alongside a UI for model selection and result display.
+- **Streamlit Implementation**: Modular Python application with backend processing (`process_pdf.py`, `question_handler.py`) and UI components for PDF upload, model selection (e.g., `get_question_answer_chain`), and result display.
 
-- **Deployment Workflow**: Requires libraries (e.g., LangChain, FAISS) for document indexing and retrieval, with a step-by-step guide covering installation, PDF processing, chain function execution, and real-time result rendering in a Streamlit interface.
+- **Key Functions**: Includes document splitting (`load_and_split_pdfs`), Q&A chains (`get_question_answer_chain`), summarization (`get_summary_chain`), and translation (`get_translation_chain`) with GitHub repository available at [imadmaalouf02/RAG](https://github.com/imadmaalouf02/RAG).
 
 ## Why It Matters
 
@@ -36,13 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T22:39:33.097019+05:30
+- Published: 2026-06-27T19:37:53.869394+05:30
 
 ## Related Tags
 
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

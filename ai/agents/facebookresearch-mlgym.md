@@ -4,16 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-27T16:38:26.338770+05:30'
+collected_at: '2026-06-27T19:40:52.532525+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - python
-- scripts
-- workflows
 stars: 609
 language: Python
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-27T16:38:26.338770+05:30'
-last_seen: '2026-06-27T16:38:26.338770+05:30'
-last_checked: '2026-06-27T16:38:26.338770+05:30'
+first_seen: '2026-06-27T19:40:52.532525+05:30'
+last_seen: '2026-06-27T19:40:52.532525+05:30'
+last_checked: '2026-06-27T19:40:52.532525+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a modular Python-based framework designed to standardize and automate AI research workflows, enabling reproducible experimentation through configurable pipelines and environments.
+- **Framework Design**: MLGym is a modular Python framework for training and evaluating AI research agents, emphasizing reproducibility and scalability in machine learning experiments.
 
-- **Benchmark Suite**: Introduces a comprehensive benchmark suite to evaluate AI research agents, featuring standardized tasks, metrics, and datasets to assess performance across diverse research scenarios.
+- **Benchmark Suite**: Includes a standardized benchmark for assessing AI research agents, covering tasks like hyperparameter optimization, neural architecture search, and reinforcement learning.
 
-- **Extensibility & Integration**: Supports plug-and-play integration of custom components (e.g., models, optimizers) and integrates with existing ML tools (e.g., PyTorch, TensorFlow) while providing CLI-driven automation for scalable experimentation.
+- **Integration & Extensibility**: Supports integration with existing ML libraries (e.g., PyTorch, TensorFlow) and allows custom agent/plugin development via a plugin-based architecture.
 
 ## Why It Matters
 

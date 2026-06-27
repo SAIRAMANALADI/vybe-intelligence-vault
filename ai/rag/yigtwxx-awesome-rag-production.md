@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-27T16:36:26.156873+05:30'
+collected_at: '2026-06-27T19:38:47.401317+05:30'
 published_at: '2026-06-27T00:25:45Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 126
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-26T13:53:07Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-27T16:36:26.156873+05:30'
-last_seen: '2026-06-27T16:36:26.156873+05:30'
-last_checked: '2026-06-27T16:36:26.156873+05:30'
+first_seen: '2026-06-27T19:38:47.401317+05:30'
+last_seen: '2026-06-27T19:38:47.401317+05:30'
+last_checked: '2026-06-27T19:38:47.401317+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, including LangChain, vector databases, and MLOps pipelines.
-
-- **Technical Stack & Integration**: Focuses on Python-based implementations with key components like embeddings, LLMs, and vector databases, emphasizing production readiness via LLMops and MLOps methodologies.
-
-- **Continuous Maintenance & Community**: Last updated June 2026, the repository maintains active curation with 126 stars and 33 forks, serving as a dynamic reference for AI engineering and generative AI deployment.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, emphasizing deployment-ready solutions.
+- **Comprehensive Tech Stack**: Covers essential components including embeddings, vector databases, LLM frameworks (e.g., LangChain), MLOps/LLMops pipelines, and Python-based tooling for end-to-end RAG workflows.
+- **Continuously Updated**: Last updated June 2026, ensuring relevance with curated lists of cutting-edge tools, libraries, and methodologies for AI/ML engineering teams.
 
 ## Why It Matters
 

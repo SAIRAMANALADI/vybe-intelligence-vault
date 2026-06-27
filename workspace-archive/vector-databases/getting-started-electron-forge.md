@@ -8,14 +8,14 @@ local_vault_path: ai/rag/getting-started-electron-forge.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: template
 importance: medium
 tags:
 - rag
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Getting Started | Electron Forge
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: template
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Electron Forge** is an all-in-one tool for packaging and distributing Electron apps, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing.
-- **Packaging limitations**: Forge requires `node_modules` on disk (no symlinks or Yarn PnP support); Yarn ≥2 must use `nodeLinker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc`.
-- **Customization**: Supports advanced workflows via Plugin API, custom Makers (build targets), and Pu
+- **Electron Forge** is an integrated toolchain for Electron apps, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing, while allowing customization via its **Plugin API**, **Makers**, and **Publishers** for advanced workflows.
+
+- **Packaging limitations**: Forge requires `node_modules` on disk and uses a naive module resolution algorithm; Yarn ≥2 must use `node-linker: node-modules`, and pnpm requires `node-linker=hoisted` in `.npmrc` to a
 
 ## Use Cases
 

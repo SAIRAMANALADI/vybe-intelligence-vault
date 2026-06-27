@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴) with unknown language and no topics.
-- **Last Updated**: 2026-06-09T12:30:18Z.
-- **URL**: [GitHub Link](https://github.com/techwithtim/Langflow-RAG-Tutorial).
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴)
+- **Language**: Unspecified (last updated: 2026-06-09)
+- **Purpose**: No description, topics, or language metadata provided in the repository.
 
 ## Use Cases
 

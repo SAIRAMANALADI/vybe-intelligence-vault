@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-published_at: '2026-06-26T10:21:03.090527+05:30'
-collected_at: '2026-06-26T10:21:03.090542+05:30'
+published_at: '2026-06-27T19:43:21.994722+05:30'
+collected_at: '2026-06-27T19:43:21.994735+05:30'
 tags:
 - dataset
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:open-government-licence
-first_seen: '2026-06-26T10:21:03.090542+05:30'
-last_seen: '2026-06-26T10:21:03.090542+05:30'
-last_checked: '2026-06-26T10:21:03.090542+05:30'
+first_seen: '2026-06-27T19:43:21.994735+05:30'
+last_seen: '2026-06-27T19:43:21.994735+05:30'
+last_checked: '2026-06-27T19:43:21.994735+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Licence Terms**: Grants a worldwide, royalty-free, perpetual, non-exclusive licence to use public sector information under specified conditions, including mandatory source attribution (e.g., "Contains public sector information licensed under the Open Government Licence v3.0") and compliance with attribution requirements when combining multiple sources.
+- **Licence Scope**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use public sector information under OGL v3.0, subject to attribution and compliance with specified conditions.
 
-- **Exclusions & Restrictions**: Excludes personal data, unpublished/unreleased information, logos/crests, military insignia, third-party rights, patents, trademarks, and identity documents; prohibits use implying official endorsement or status.
+- **Usage Conditions**: Requires attribution via specified statements or links; exemptions include personal data, logos, military insignia, and third-party rights; prohibits endorsement claims or warranty guarantees.
 
-- **Liability & Compliance**: Information is provided "as is" with no warranties or guarantees; licensors are not liable for errors, omissions, or damages; failure to comply with attribution terms automatically terminates usage rights.
+- **Legal Framework**: Governed by jurisdiction of the Information Provider; compatible with CC BY 4.0 and ODC-By; managed by The National Archives under the UK Government Licensing Framework.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:21:03.090527+05:30
+- Published: 2026-06-27T19:43:21.994722+05:30
 
 ## Related Tags
 

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-27T16:35:36.245242+05:30'
-collected_at: '2026-06-27T16:35:36.245256+05:30'
+published_at: '2026-06-27T19:37:57.429513+05:30'
+collected_at: '2026-06-27T19:37:57.429520+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-27T16:35:36.245256+05:30'
-last_seen: '2026-06-27T16:35:36.245256+05:30'
-last_checked: '2026-06-27T16:35:36.245256+05:30'
+first_seen: '2026-06-27T19:37:57.429520+05:30'
+last_seen: '2026-06-27T19:37:57.429520+05:30'
+last_checked: '2026-06-27T19:37:57.429520+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance factual accuracy; LangChain simplifies pipeline integration.
-
-- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding optimization (model selection, quantization), hybrid retrieval (dense+sparse), and caching reduce latency/cost.
-
-- **Scaling & Monitoring**: Cloudflare Workers for edge deployment, Sentry for observability, load balancing across models, and token-usage optimization for cost-performance trade-offs.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like late-interaction embeddings), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain/PyTorch).
+- **Production Optimization**: Key strategies involve hybrid search (dense+sparse retrieval), query rewriting for precision, caching (e.g., Redis), and load balancing across model instances; latency benchmarks highlight retrieval (≈40%) and LLM inference (≈50%) as dominant bottlenecks.
+- **Cost/Performance Trade-offs**: Token optimization (e.g., prompt compression, selective retrieval) reduces API costs by 30-50% with minimal accuracy loss; open-source models (e.g., Mistral-7B) offer 60% cost savings vs. proprietary APIs but require fine-tuning for domain adaptation.
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:35:36.245242+05:30
+- Published: 2026-06-27T19:37:57.429513+05:30
 
 ## Related Tags
 

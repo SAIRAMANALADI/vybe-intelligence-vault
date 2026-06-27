@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/standard-schema/standard-schema
-collected_at: '2026-06-26T02:00:12.153085+05:30'
-published_at: '2026-06-25T07:15:26Z'
+collected_at: '2026-06-27T19:43:28.969217+05:30'
+published_at: '2026-06-27T13:51:01Z'
 tags:
 - github-repo
 - rag
 - typescript
-stars: 3546
+stars: 3552
 language: TypeScript
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-04-08T03:15:57Z'
 pushed_at: '2026-06-12T03:47:38Z'
 resource_id: github:standard-schema/standard-schema
-first_seen: '2026-06-26T02:00:12.153085+05:30'
-last_seen: '2026-06-26T02:00:12.153085+05:30'
-last_checked: '2026-06-26T02:00:12.153085+05:30'
+first_seen: '2026-06-27T19:43:28.969217+05:30'
+last_seen: '2026-06-27T19:43:28.969217+05:30'
+last_checked: '2026-06-27T19:43:28.969217+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Schema Interface**: Provides a unified TypeScript API for schema validation libraries, enabling interoperability across tools like Zod, Yup, and Joi via a common validation contract.
-- **TypeScript-First Design**: Leverages TypeScript’s static typing to enforce schema definitions at compile time, ensuring runtime validation aligns with type expectations.
-- **Extensible Core**: Defines a minimal, protocol-like interface (`StandardSchema`) that libraries can implement to support standardized schema operations (e.g., validation, parsing, inference).
+- **Standardized Schema Interface**: Defines a uniform API for TypeScript schema validation libraries, enabling interoperability across tools like Zod, Yup, and Joi.
+- **TypeScript-First Design**: Leverages TypeScript’s type system for compile-time validation, reducing runtime overhead and improving developer experience.
+- **Open Standard**: Community-driven specification (MIT-licensed) with active maintenance, ensuring long-term compatibility and extensibility.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: standard-schema
-- Stars: 3546
+- Stars: 3552
 - Forks: 116
 - Language: TypeScript
 - Topics: interface, schema, standard, typescript, validation
-- Last Updated: 2026-06-25T07:15:26Z
+- Last Updated: 2026-06-27T13:51:01Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-08T03:15:57Z

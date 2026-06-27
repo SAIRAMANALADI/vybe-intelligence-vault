@@ -5,18 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-06-27T04:07:55.485516+05:30'
-collected_at: '2026-06-27T04:07:55.485528+05:30'
+published_at: '2026-06-27T19:37:57.982915+05:30'
+collected_at: '2026-06-27T19:37:57.982927+05:30'
 tags:
-- hackernews
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-06-27T04:07:55.485528+05:30'
-last_seen: '2026-06-27T04:07:55.485528+05:30'
-last_checked: '2026-06-27T04:07:55.485528+05:30'
+first_seen: '2026-06-27T19:37:57.982927+05:30'
+last_seen: '2026-06-27T19:37:57.982927+05:30'
+last_checked: '2026-06-27T19:37:57.982927+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using a two-step process: (1) **semantic retrieval** via FAISS vector store (indexing document chunks with OpenAI embeddings) and (2) **context-constrained generation** using a prompt template that forces the LLM to answer only from retrieved context, with fallback to "I don't know" for out-of-context queries.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system using Python with LangChain, FAISS, and OpenAI embeddings to ground responses in provided documents, preventing hallucinations by restricting answers to retrieved context.
 
-- **Modular Architecture**: Follows a clean separation of concerns with four core components: `document_loader.py` (text splitting via `RecursiveCharacterTextSplitter`), `vector_store.py` (FAISS-based vector DB with `OpenAIEmbeddings`), `rag_chain.py` (prompt engineering with `ChatPromptTemplate` and LLM integration via `ChatOpenAI`), and `main.py` (interactive CLI loop for user queries).
+- **Modular Architecture**: Organizes the system into four core components—document loading/splitting (`document_loader.py`), vector storage (`vector_store.py`), RAG chain construction (`rag_chain.py`), and execution (`main.py`)—each handling a distinct responsibility for scalability and clarity.
 
-- **Technical Stack**: Uses Python with `langchain-core`, `langchain-community`, and `langchain-openai` for modular LLM integration, FAISS-CPU for local vector search, and `python-dotenv` for API key management, ensuring a production-grade but beginner-friendly implementation without cloud dependencies.
+- **Contextual Retrieval Mechanism**: Uses FAISS for semantic search to retrieve relevant document chunks (k=3) based on query embeddings, which are then passed to a constrained LLM (GPT-3.5-turbo) with a system prompt enforcing answers only from the provided context or "I don't know."
 
 ## Why It Matters
 
@@ -38,11 +37,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:07:55.485516+05:30
+- Published: 2026-06-27T19:37:57.982915+05:30
 
 ## Related Tags
 
-- hackernews
 - openai
 - rag
 - web-crawled

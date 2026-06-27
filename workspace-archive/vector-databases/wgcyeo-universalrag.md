@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- paper
 - python
 - rag
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), enabling flexible retrieval strategies.
+- **UniversalRAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system designed to handle diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and fusion mechanisms.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture for universal RAG, addressing challenges in heterogeneous corpus integration, dynamic modality alignment, and adaptive retrieval across granularities, wi
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval strategy using modality-agnostic embeddings (e.g., CLIP-like encoders) and hierarchical indexing to dynamically adapt to varying granularity levels across he
 
 ## Use Cases
 

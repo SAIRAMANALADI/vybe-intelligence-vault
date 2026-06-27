@@ -13,13 +13,13 @@ importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
 - mistral
 - models
 - openai
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Jupyter AI** integrates AI agents (e.g., Claude, Codex, GitHub Copilot, Gemini) into JupyterLab for real-time collaboration and computation.
-- **Features** include collaborative chats, frontier agent support, real-time UI updates, default guardrails, and extensible MCP server integration.
-- **Technical stack** leverages Python, R, Julia, Scala, NumPy, Pandas, TensorFlow, PyTorch, and Apache Spark for computational notebooks.
+- **Multi-Language Support**: Jupyter AI integrates with Python, R, Julia, Scala, and Haskell, alongside numerical/ML libraries like NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, and Apache Spark for computational workflows.
+
+- **AI Agent Integration**: Supports frontier AI models (OpenAI, Anthropic, Gemini) and agents (GitHub Copilot, Goose, Kiro, Mistral Vibe, OpenCode) for real-time collaboration, debugging, and notebook execution in JupyterLab.
+
+- **Security & Extensib
 
 ## Use Cases
 

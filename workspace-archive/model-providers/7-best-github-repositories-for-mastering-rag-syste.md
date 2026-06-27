@@ -6,10 +6,10 @@ source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
+archive_score: 76
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 86 (essential)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, and output generation) supporting Python/JavaScript/TypeScript and integrating with providers like OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit with modular components (document loading, text splitting, embedding, retrieval, output generation) and integrations with OpenAI, Hugging Face, Azure, and multi-language support (Python, JavaScript, TypeScript); enables agent workflows and memory management.
 
-- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise use, featuring modular pipelines, document stores (Elasticsearch, FAISS), and pre-built components for indexing, retrieval, and query proc
+- **RAGFlow**: Open-source RAG engine with modular pipelines (document parsing, knowledge graph integration, retrieval, response generation) and support for multi-modal data (text, tables, images); o
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-27T16:37:11.231761+05:30'
+collected_at: '2026-06-27T19:39:32.481967+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-27T16:37:11.231761+05:30'
-last_seen: '2026-06-27T16:37:11.231761+05:30'
-last_checked: '2026-06-27T16:37:11.231761+05:30'
+first_seen: '2026-06-27T19:39:32.481967+05:30'
+last_seen: '2026-06-27T19:39:32.481967+05:30'
+last_checked: '2026-06-27T19:39:32.481967+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability for LLMs by leveraging linear graph structures to enhance retrieval-augmented generation (RAG) performance (ICLR 2026 submission).
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph traversal for dynamic knowledge augmentation.
 
-- **Key Innovation**: Proposes a linear-time graph traversal mechanism for document retrieval, reducing computational overhead while maintaining high retrieval accuracy in large-scale knowledge bases, addressing bottlenecks in traditional graph-based RAG systems.
+- **Scalability & Performance**: Achieves linear time complexity for retrieval operations, enabling efficient handling of large-scale corpora while maintaining high accuracy in downstream LLM tasks.
 
-- **Implementation**: Provides an open-source Python implementation with modular components for graph construction, retrieval, and generation, supporting integration with existing LLM pipelines and large-scale corpus processing.
+- **Integration with LLMs**: Proposes a lightweight, plug-and-play framework for seamless integration with existing LLM pipelines, enhancing contextual relevance without requiring model retraining.
 
 ## Why It Matters
 
