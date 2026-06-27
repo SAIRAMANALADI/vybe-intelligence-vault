@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-28T04:03:36.193393+05:30",
-  "last_updated": "2026-06-28 04:03 IST",
+  "generated_at": "2026-06-28T04:40:27.938219+05:30",
+  "last_updated": "2026-06-28 04:40 IST",
   "total_resources": 9144,
   "active_resources": 8910,
   "inactive_resources": 234,
-  "total_markdown_files": 45884,
+  "total_markdown_files": 45921,
   "archive_files": 34791,
   "archive_categories": 35,
   "workspace_archive_categories": 35,
@@ -17,11 +17,11 @@
   "examples_count": 8,
   "search_index_entries": 8910,
   "latest_resource_date": "2026-06-28T03:58:13.735772+05:30",
-  "latest_update_time": "2026-06-28T04:03:36.193439+05:30",
+  "latest_update_time": "2026-06-28T04:40:27.938275+05:30",
   "top_categories": [
     {
       "name": "ai/rag",
-      "count": 2894
+      "count": 2896
     },
     {
       "name": "ai/research",
@@ -33,7 +33,7 @@
     },
     {
       "name": "ai/agents",
-      "count": 1166
+      "count": 1165
     },
     {
       "name": "ai/models",
@@ -45,7 +45,7 @@
     },
     {
       "name": "web-development",
-      "count": 41
+      "count": 40
     },
     {
       "name": "web-development/shadcn-ui",
@@ -62,7 +62,7 @@
   ],
   "category_breakdown": {
     "": 1,
-    "ai/agents": 1166,
+    "ai/agents": 1165,
     "ai/community": 6,
     "ai/companies": 10,
     "ai/companies/anthropic": 9,
@@ -70,12 +70,12 @@
     "ai/companies/mistral": 10,
     "ai/companies/openai": 4,
     "ai/models": 780,
-    "ai/rag": 2894,
+    "ai/rag": 2896,
     "ai/releases": 3,
     "ai/research": 2444,
     "ai/resources": 1314,
     "ai/trending": 10,
-    "web-development": 41,
+    "web-development": 40,
     "web-development/dashboards": 1,
     "web-development/framer-motion": 25,
     "web-development/gsap": 6,
@@ -1856,19 +1856,6 @@
   "trends": {
     "trending_resources": [
       {
-        "id": "hackernews:ai-is-designing-radio-chips-that-humans-couldn-t-e",
-        "title": "AI learns the “dark art” of RFIC design",
-        "category": "ai/community",
-        "source_type": "hackernews",
-        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-        "file_path": "ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md",
-        "score": 159,
-        "score_change": 62,
-        "rank_change": 0,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
         "id": "hackernews:reducing-tick-density-along-recreational-trails-in",
         "title": "Reducing tick density along recreational trails in Ottawa, Canada",
         "category": "ai/community",
@@ -1982,6 +1969,19 @@
         "score": 0,
         "score_change": 0,
         "rank_change": 27,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:terms-conditions-speechify",
+        "title": "Terms & Conditions | Speechify",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://speechify.com/terms",
+        "file_path": "ai/rag/terms-conditions-speechify.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": 3983,
         "new_resource": false,
         "tier": "tier-3"
       }
@@ -2119,6 +2119,19 @@
       }
     ],
     "new_discoveries": [
+      {
+        "id": "hackernews:ai-learns-the-dark-art-of-rfic-design",
+        "title": "AI learns the “dark art” of RFIC design",
+        "category": "ai/community",
+        "source_type": "hackernews",
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "file_path": "ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md",
+        "score": 159,
+        "score_change": 0,
+        "rank_change": 0,
+        "new_resource": true,
+        "tier": "tier-3"
+      },
       {
         "id": "hackernews:asian-ai-startups-launch-mythos-like-models",
         "title": "Asian AI startups launch Mythos-like models",
@@ -2300,19 +2313,6 @@
         "rank_change": 0,
         "new_resource": true,
         "tier": "tier-3"
-      },
-      {
-        "id": "blog:build-pypi",
-        "title": "build · PyPI",
-        "category": "ai/resources",
-        "source_type": "web",
-        "url": "https://pypi.org/project/build",
-        "file_path": "ai/resources/build-pypi.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": 0,
-        "new_resource": true,
-        "tier": "tier-3"
       }
     ],
     "recently_inactive_resources": [
@@ -2337,19 +2337,6 @@
         "file_path": "ai/community/deepseek-ai-deepspec.md",
         "score": 703,
         "score_change": 27,
-        "rank_change": 0,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "hackernews:ai-is-designing-radio-chips-that-humans-couldn-t-e",
-        "title": "AI learns the “dark art” of RFIC design",
-        "category": "ai/community",
-        "source_type": "hackernews",
-        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-        "file_path": "ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md",
-        "score": 159,
-        "score_change": 62,
         "rank_change": 0,
         "new_resource": false,
         "tier": "tier-3"
@@ -57794,7 +57781,7 @@
       {
         "id": "blog:react-canaries-enabling-incremental-feature-rollou",
         "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
-        "category": "web-development",
+        "category": "ai/rag",
         "source_type": "rss",
         "url": "https://react.dev/blog/2023/05/03/react-canaries",
         "file_path": "ai/rag/react-canaries-enabling-incremental-feature-rollou.md",
@@ -70989,7 +70976,7 @@
       {
         "id": "github:crewaiinc/crewai",
         "title": "crewAIInc/crewAI Release: 1.15.1",
-        "category": "ai/agents",
+        "category": "ai/rag",
         "source_type": "github_releases",
         "url": "https://github.com/crewaiinc/crewai",
         "file_path": "ai/rag/crewaiinc-crewai.md",
@@ -117462,6 +117449,19 @@
         "tier": "tier-3"
       },
       {
+        "id": "github:deepset-ai/haystack",
+        "title": "deepset-ai/haystack",
+        "category": "ai/rag",
+        "source_type": "github",
+        "url": "https://github.com/deepset-ai/haystack",
+        "file_path": "ai/rag/deepset-ai-haystack.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -36,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
         "id": "blog:medium",
         "title": "Medium",
         "category": "ai/rag",
@@ -117470,7 +117470,7 @@
         "file_path": "ai/rag/medium.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -44,
+        "rank_change": -45,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -117483,7 +117483,7 @@
         "file_path": "ai/rag/medium-help-center.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -44,
+        "rank_change": -45,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -117496,33 +117496,7 @@
         "file_path": "ai/rag/stanford-oval-storm.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -44,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:medium-apps-on-google-play",
-        "title": "Medium - Apps on Google Play",
-        "category": "ai/rag",
-        "source_type": "web",
-        "url": "https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar",
-        "file_path": "ai/rag/medium-apps-on-google-play.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -43,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "github:deepset-ai/haystack",
-        "title": "deepset-ai/haystack",
-        "category": "ai/rag",
-        "source_type": "github",
-        "url": "https://github.com/deepset-ai/haystack",
-        "file_path": "ai/rag/deepset-ai-haystack.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -40,
+        "rank_change": -45,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -117535,7 +117509,7 @@
         "file_path": "ai/rag/pinecone-io-canopy.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -46,
+        "rank_change": -45,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -117548,7 +117522,20 @@
         "file_path": "ai/rag/pathwaycom-llm-app.md",
         "score": 0,
         "score_change": 0,
-        "rank_change": -8684,
+        "rank_change": -8683,
+        "new_resource": false,
+        "tier": "tier-3"
+      },
+      {
+        "id": "blog:medium-apps-on-google-play",
+        "title": "Medium - Apps on Google Play",
+        "category": "ai/rag",
+        "source_type": "web",
+        "url": "https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar",
+        "file_path": "ai/rag/medium-apps-on-google-play.md",
+        "score": 0,
+        "score_change": 0,
+        "rank_change": -46,
         "new_resource": false,
         "tier": "tier-3"
       },
@@ -117562,19 +117549,6 @@
         "score": 0,
         "score_change": 0,
         "rank_change": -8626,
-        "new_resource": false,
-        "tier": "tier-3"
-      },
-      {
-        "id": "blog:category",
-        "title": "[CATEGORY] - ",
-        "category": "",
-        "source_type": "",
-        "url": "",
-        "file_path": ".github/ISSUE_TEMPLATE/category-request.md",
-        "score": 0,
-        "score_change": 0,
-        "rank_change": -43,
         "new_resource": false,
         "tier": "tier-3"
       }

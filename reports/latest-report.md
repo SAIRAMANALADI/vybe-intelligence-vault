@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-28T04:03:36.193393+05:30`
+Generated at: `2026-06-28T04:40:27.938219+05:30`
 
 ## Executive Summary
 
@@ -8,6 +8,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
+- **AI learns the “dark art” of RFIC design** - Score: `159` in category `ai/community` ([Link](https://spectrum.ieee.org/ai-radio-chip-design)) ([File](../ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md))
 - **Asian AI startups launch Mythos-like models** - Score: `91` in category `ai/community` ([Link](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on)) ([File](../ai/community/asian-ai-startups-launch-mythos-like-models.md))
 - **'Careless People' author claims Meta surveilled her for 12mos to enforce silence** - Score: `85` in category `ai/community` ([Link](https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026)) ([File](../ai/community/careless-people-author-claims-meta-surveilled-her.md))
 - **Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work** - Score: `37` in category `ai/community` ([Link](https://github.com/kageroumado/adrafinil)) ([File](../ai/community/kageroumado-adrafinil.md))
@@ -22,11 +23,9 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **?nc1=f_dr** - Score: `0` in category `ai/rag` ([Link](https://repost.aws?nc1=f_dr)) ([File](../ai/rag/access-aws-expert-solutions-authoritative-knowledg.md))
 - **Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support** - Score: `0` in category `ai/rag` ([Link](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-ios-iph6e3a6d4fe/ios)) ([File](../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md))
 - **facelessuser/soupsieve** - Score: `0` in category `ai/resources` ([Link](https://github.com/facelessuser/soupsieve)) ([File](../ai/resources/facelessuser-soupsieve.md))
-- **build · PyPI** - Score: `0` in category `ai/resources` ([Link](https://pypi.org/project/build)) ([File](../ai/resources/build-pypi.md))
 
 ## Top Trending Resources
 
-- **AI learns the “dark art” of RFIC design** - Score: `159` (+62), Rank Change: `0` ([File](../ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md))
 - **Reducing tick density along recreational trails in Ottawa, Canada** - Score: `116` (+37), Rank Change: `0` ([File](../ai/community/reducing-tick-density-along-recreational-trails-in.md))
 - **DSpark: Speculative decoding accelerates LLM inference [pdf]** - Score: `703` (+27), Rank Change: `0` ([File](../ai/community/deepseek-ai-deepspec.md))
 - **Learn AI | web.dev** - Score: `0` (0), Rank Change: `+494` ([File](../ai/resources/learn-ai-web-dev.md))
@@ -36,6 +35,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Sign in - Google Accounts** - Score: `0` (0), Rank Change: `+425` ([File](../ai/resources/sign-in-google-accounts.md))
 - **Gemini Developer API | Gemma open models | Google AI for Developers** - Score: `0` (0), Rank Change: `+34` ([File](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md))
 - **Deed - Attribution-ShareAlike 4.0 International - Creative Commons** - Score: `0` (0), Rank Change: `+27` ([File](../ai/resources/deed-attribution-sharealike-4-0-international-crea.md))
+- **Terms & Conditions | Speechify** - Score: `0` (0), Rank Change: `+3983` ([File](../ai/rag/terms-conditions-speechify.md))
 
 ## 🚀 Fastest Rising Tools
 

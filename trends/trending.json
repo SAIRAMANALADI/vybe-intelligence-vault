@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-06-28T04:03:36.193393+05:30",
+  "generated_at": "2026-06-28T04:40:27.938219+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:ai-is-designing-radio-chips-that-humans-couldn-t-e",
-      "title": "AI learns the “dark art” of RFIC design",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "file_path": "ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md",
-      "score": 159,
-      "score_change": 62,
-      "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
     {
       "id": "hackernews:reducing-tick-density-along-recreational-trails-in",
       "title": "Reducing tick density along recreational trails in Ottawa, Canada",
@@ -128,6 +115,19 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 27,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:terms-conditions-speechify",
+      "title": "Terms & Conditions | Speechify",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://speechify.com/terms",
+      "file_path": "ai/rag/terms-conditions-speechify.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 3983,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -265,6 +265,19 @@
     }
   ],
   "new_discoveries": [
+    {
+      "id": "hackernews:ai-learns-the-dark-art-of-rfic-design",
+      "title": "AI learns the “dark art” of RFIC design",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "file_path": "ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md",
+      "score": 159,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
     {
       "id": "hackernews:asian-ai-startups-launch-mythos-like-models",
       "title": "Asian AI startups launch Mythos-like models",
@@ -441,19 +454,6 @@
       "source_type": "github",
       "url": "https://github.com/facelessuser/soupsieve",
       "file_path": "ai/resources/facelessuser-soupsieve.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:build-pypi",
-      "title": "build · PyPI",
-      "category": "ai/resources",
-      "source_type": "web",
-      "url": "https://pypi.org/project/build",
-      "file_path": "ai/resources/build-pypi.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
