@@ -16,6 +16,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -33,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG/LLM systems) via automated security testing.
-- **Key Features**: Detects prompt injection, OWASP Top 10 AI risks, and other LLM-specific threats; supports red-team assessments.
-- **Technical Stack**: Python-based tool with integration for OpenAI, automated testing, and CI/CD pipeline compatibility.
+- **Key Features**: Detects prompt injection, OWASP Top 10 LLM risks, and performs red-team assessments for AI security audits.
+- **Technical Stack**: Python-based tool with support for OpenAI, LLM security testing, and integration with cybersecurity workflows.
 
 ## Use Cases
 

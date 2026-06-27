@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-28T01:16:28.083050+05:30'
+collected_at: '2026-06-28T03:47:39.037675+05:30'
 published_at: '2026-06-27T11:53:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-28T01:16:28.083050+05:30'
-last_seen: '2026-06-28T01:16:28.083050+05:30'
-last_checked: '2026-06-28T01:16:28.083050+05:30'
+first_seen: '2026-06-28T03:47:39.037675+05:30'
+last_seen: '2026-06-28T03:47:39.037675+05:30'
+last_checked: '2026-06-28T03:47:39.037675+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision) for enhanced context-aware applications.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and large language models (LLMs) like GPT-4 Vision.
 
-- **Vector Database Integration**: Demonstrates workflows using LanceDB (a vector database) with frameworks like LangChain and LlamaIndex, emphasizing efficient embeddings, fine-tuning, and retrieval strategies for AI agents.
+- **Integration Frameworks**: Demonstrates workflows with popular AI frameworks including LangChain, LlamaIndex, and OpenAI APIs for fine-tuning, embeddings, and agent-based systems.
 
-- **Tooling & Best Practices**: Covers end-to-end pipelines for deploying AI agents, including OpenAI API interactions, deep learning model fine-tuning, and multimodal data processing (e.g., text, vision) with optimized vector search techniques.
+- **Vector Database Recipes**: Focuses on LanceDB for efficient vector storage, retrieval, and multimodal search, with examples covering deep learning, embeddings, and end-to-end agent architectures.
 
 ## Why It Matters
 

@@ -40,7 +40,7 @@ selection_reason:
 
 - **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` errors in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings, adds YUV420/YUV444 chroma subsampling hints,
+- **Hugo v0.163.0** improves AVIF image handling with adjusted default quality (60) and added compression hints, while deprecating
 
 ## Use Cases
 

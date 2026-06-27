@@ -8,11 +8,15 @@ local_vault_path: ai/resources/google-gemini-cookbook.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
+- models
+- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -24,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Hosts examples and guides for the Google Gemini API, implemented in Jupyter Notebook format.
-- **Metadata**: 17.4K+ stars, 2.6K+ forks, last updated June 26, 2026.
-- **Focus**: Demonstrates practical use cases and integration patterns for the Gemini API.
+- **Repository Overview**: Hosts Jupyter Notebook examples and guides for interacting with the **Gemini API**, covering use cases, best practices, and implementation strategies.
+- **Technical Scope**: Focuses on **Gemini API** integration, including model fine-tuning, prompt engineering, and multi-modal (text, image, video) processing workflows.
+- **Community & Maintenance**: Actively maintained with **17,460 stars** and **2,676 forks**, last updated **2026-06-27**, ensuring up-to-date examples
 
 ## Use Cases
 

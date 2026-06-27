@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-28T01:16:48.146061+05:30'
+collected_at: '2026-06-28T03:48:04.015396+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 369
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-28T01:16:48.146061+05:30'
-last_seen: '2026-06-28T01:16:48.146061+05:30'
-last_checked: '2026-06-28T01:16:48.146061+05:30'
+first_seen: '2026-06-28T03:48:04.015396+05:30'
+last_seen: '2026-06-28T03:48:04.015396+05:30'
+last_checked: '2026-06-28T03:48:04.015396+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation.
+- **Hybrid RAG Pipeline**: Implements a hybrid retrieval system combining dense vector embeddings (e.g., from NVIDIA's NeMo or Sentence Transformers) with sparse retrieval (e.g., BM25) for enhanced document retrieval accuracy.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, model optimization, and GPU acceleration in hybrid RAG workflows.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment of the RAG pipeline using NVIDIA's AI Workbench, leveraging GPU-accelerated components (e.g., TensorRT, Triton Inference Server) for optimized inference.
 
-- **Python-Based Example**: Provides a reference implementation in Python, showcasing best practices for hybrid RAG system architecture, retrieval scoring, and LLM integration.
+- **Modular Python Framework**: Provides a structured Python-based example with configurable components for document processing, retrieval, and generation, supporting customization for domain-specific RAG applications.
 
 ## Why It Matters
 

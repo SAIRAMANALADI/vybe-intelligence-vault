@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-28T01:17:43.191604+05:30'
+collected_at: '2026-06-28T03:48:54.058160+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
+- models
 - python
 - rag
-- reddit
 stars: 1535
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-28T01:17:43.191604+05:30'
-last_seen: '2026-06-28T01:17:43.191604+05:30'
-last_checked: '2026-06-28T01:17:43.191604+05:30'
+first_seen: '2026-06-28T03:48:54.058160+05:30'
+last_seen: '2026-06-28T03:48:54.058160+05:30'
+last_checked: '2026-06-28T03:48:54.058160+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation tools.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with modular components for data ingestion, retrieval, and generation.
 
-- **Optimized Retrieval & Generation**: Implements advanced techniques like dynamic chunking, hybrid search (vector + keyword), and query rewriting to enhance retrieval quality and generation relevance.
+- **Optimization Tools**: Includes utilities for benchmarking, fine-tuning, and validating RAG setups to ensure optimal performance and latency in real-world deployments.
 
-- **Scalable & Deployable**: Supports integration with cloud services (e.g., AWS, GCP) and includes Docker/Kubernetes configurations for seamless deployment in enterprise environments.
+- **Pre-built Integrations**: Supports seamless integration with vector databases (e.g., FAISS, Pinecone), LLMs (e.g., Hugging Face models), and embedding models (e.g., SentenceTransformers).
 
 ## Why It Matters
 

@@ -6,7 +6,7 @@ source_url: https://github.com/langchain-ai/open-swe
 resource_id: github:langchain-ai/open-swe
 local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: workflow
 importance: medium
@@ -18,7 +18,6 @@ tags:
 - python
 - workflows
 selection_reason:
-- Strong keyword match
 - Active open-source repository
 ---
 
@@ -27,17 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: workflow
 - Selection reasons:
-  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and editing using LLMs (OpenAI, Anthropic) with non-blocking I/O operations.
-- **Multi-Agent Orchestration**: Supports concurrent agent-based workflows (e.g., planning, execution, validation) with state management via shared memory or external databases.
-- **Extensible Tooling**: Provides modular interfaces for integrating custom tools (e.g., linters, debuggers) and supports dynam
+- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
+- **Multi-LLM Integration**: Supports asynchronous interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized interfaces for tool calls and context management.
+- **Stateful Execution**: Maintains persistent task states across restarts, enabling resumable workflows with checkpointing and
 
 ## Use Cases
 

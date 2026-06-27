@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-27T16:39:23.636280+05:30'
-collected_at: '2026-06-27T16:39:23.636294+05:30'
+published_at: '2026-06-28T03:54:12.692809+05:30'
+collected_at: '2026-06-28T03:54:12.692823+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-27T16:39:23.636294+05:30'
-last_seen: '2026-06-27T16:39:23.636294+05:30'
-last_checked: '2026-06-27T16:39:23.636294+05:30'
+first_seen: '2026-06-28T03:54:12.692823+05:30'
+last_seen: '2026-06-28T03:54:12.692823+05:30'
+last_checked: '2026-06-28T03:54:12.692823+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics across frameworks like OpenAI, Anthropic, and CrewAI.
+- **LangSmith Observability** provides end-to-end monitoring, debugging, and performance tracking for LLM applications, supporting frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integrations).
 
-- **Core features** include automated failure detection (Engine), trace visualization/filtering, performance dashboards, alerting, and user feedback collection via SDK/API integrations.
+- **Core features** include trace visualization, automated failure detection (via **Engine**), performance dashboards, alerting, and feedback collection, with setup via API keys and environment variables.
 
-- **Deployment options** include cloud, hybrid, or self-hosted LangSmith instances, with observability, evaluation, prompt engineering, and deployment capabilities included in all configurations.
+- **Deployment options** include cloud, hybrid, or self-hosted LangSmith instances, covering observability, evaluation, prompt engineering, and deployment with configurable retention and pricing tiers.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:39:23.636280+05:30
+- Published: 2026-06-28T03:54:12.692809+05:30
 
 ## Related Tags
 

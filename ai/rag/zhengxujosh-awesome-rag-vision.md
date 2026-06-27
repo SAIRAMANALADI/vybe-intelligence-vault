@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-28T01:17:18.130090+05:30'
+collected_at: '2026-06-28T03:48:29.041407+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-28T01:17:18.130090+05:30'
-last_seen: '2026-06-28T01:17:18.130090+05:30'
-last_checked: '2026-06-28T01:17:18.130090+05:30'
+first_seen: '2026-06-28T03:48:29.041407+05:30'
+last_seen: '2026-06-28T03:48:29.041407+05:30'
+last_checked: '2026-06-28T03:48:29.041407+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques and frameworks tailored for **Computer Vision (CV)**, including multimodal and vision-language model integrations.
+- **Curated RAG-Vision Resources**: A specialized repository compiling advanced retrieval augmented generation (RAG) techniques tailored for computer vision applications, including multimodal and vision-language integration methods.
 
-- **Active Development & Maintenance**: Last updated in **June 2026**, indicating ongoing updates and community engagement despite low fork/star activity (9/336).
+- **GitHub Metadata**: Hosted on GitHub with 336 stars, 9 forks, and last updated on 2026-06-25; language unspecified, indicating a focus on aggregated resources rather than executable code.
 
-- **Multidisciplinary Focus**: Bridges **vision-language models (VLMs)**, **image-text retrieval**, and **cross-modal RAG** applications, emphasizing cutting-edge CV-RAG hybrid architectures.
+- **Research Focus**: Encompasses cutting-edge RAG frameworks, datasets, and tools bridging vision and language models, emphasizing retrieval-augmented approaches for tasks like image captioning, visual question answering, and scene understanding.
 
 ## Why It Matters
 

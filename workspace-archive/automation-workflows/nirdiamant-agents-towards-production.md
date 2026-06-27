@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building enterprise-grade GenAI agents using Python and Jupyter Notebooks.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
 
-- **Multi-technology integration**: Demonstrates agentic AI systems with LangGraph, MCP, RAG, and multi-agent architectures, emphasizing observability, MLOps, and deployment strategies.
+- **Multi-Technology Stack**: Integrates key frameworks/tools including LangGraph, MCP, RAG, and multi-agent systems, with observability and MLOps practices for production-ready AI systems.
 
-- **Production-ready tooling**: Focuses on scalable, enterprise-ready agent frameworks with emphasis on deployment, mo
+- **Python & Jupyter Notebook-Based**: Delivered as executable Jupyter Notebooks, empha
 
 ## Use Cases
 

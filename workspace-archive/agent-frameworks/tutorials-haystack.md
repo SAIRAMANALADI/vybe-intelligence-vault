@@ -6,7 +6,7 @@ source_url: https://haystack.deepset.ai/tutorials
 resource_id: blog:tutorials-haystack
 local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
-
-- **Agentic RAG with Fallback**: Demonstrates building a RAG pipeline with conditional routing to web search as a fallback mechanism, enhancing query resolution robustness.
-
-- **Multimodal RAG Pipeline**: Tutorial on constructing a vision+text RAG pipeline, enabling multimodal question answering grounded
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering metrics and methodologies for performance analysis.
+- **Multimodal RAG Pipeline**: Demonstrates a Retrieval-Augmented Generation (RAG) system integrating both image and text modalities for enhanced question answering.
+- **Multi-Agent System**: Illustrates the construction of modular agent workflows using specialized agents for complex task decomposition and execution.
 
 ## Use Cases
 

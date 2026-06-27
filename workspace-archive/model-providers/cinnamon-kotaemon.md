@@ -13,8 +13,8 @@ importance: medium
 tags:
 - github-repo
 - meta-ai
+- mistral
 - models
-- openai
 - python
 - rag
 selection_reason:
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded chat, enabling context-aware responses by dynamically retrieving relevant document segments.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, combining retrieval of relevant document segments with LLM-based response generation.
 
-- **Modular Python Framework**: Built with Python, leveraging libraries like LangChain or LlamaIndex for document processing, embeddings, and LLM integration (e.g., OpenAI, HuggingFace models).
+- **Python Framework**: Built on Python, leveraging modern NLP libraries (e.g., Hugging Face Transformers, LangChain) for modular document processing, embedding, and retrieval pipelines.
 
-- **Open-Source Deployment**: Supports self-hosting with configurable pipelines for document ingestion (PDFs, t
+- **Open-Source Deployment**: Provides a self-hostable, open-source solution with pre-built componen
 
 ## Use Cases
 

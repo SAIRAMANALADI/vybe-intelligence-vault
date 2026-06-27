@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - typescript
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for frontend/backend integration.
-
-- **Agent-Based Architecture**: Supports modular AI agent components for task orchestration, enabling dynamic workflow customization and execution.
-
-- **Vercel-Optimized Deployment**: Pre-configured for Vercel deployments with TypeScript support, optimized for scalability and rapid iteration (last updated June 2026).
+- **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop construction of multi-agent systems with TypeScript-based orchestration.
+- **Technical Stack**: Built on Vercel’s infrastructure with TypeScript, supporting agent-based workflows and AI-driven automation.
+- **Repository Stats**: 1,157 stars, 222 forks, last updated June 27, 2026.
 
 ## Use Cases
 

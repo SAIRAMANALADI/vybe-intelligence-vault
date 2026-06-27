@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-06-28T01:18:23.230447+05:30'
+collected_at: '2026-06-28T03:49:34.119945+05:30'
 published_at: '2026-06-26T22:08:24Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-06-28T01:18:23.230447+05:30'
-last_seen: '2026-06-28T01:18:23.230447+05:30'
-last_checked: '2026-06-28T01:18:23.230447+05:30'
+first_seen: '2026-06-28T03:49:34.119945+05:30'
+last_seen: '2026-06-28T03:49:34.119945+05:30'
+last_checked: '2026-06-28T03:49:34.119945+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI service integration.
-- **Tech Stack**: Built in TypeScript, utilizing Vercel’s infrastructure for scalable, serverless agent-based workflows.
-- **Use Case**: Enables distributed AI-driven coding tasks with sandboxed environments and managed AI model access.
+- **Architecture**: Multi-agent AI system leveraging Vercel Sandbox for isolated execution environments and Vercel AI Gateway for unified API access to LLMs.
+- **Tech Stack**: Built in TypeScript, integrating Vercel’s serverless infrastructure for scalable, distributed agent workflows.
+- **Key Features**: Enables parallelized, autonomous coding tasks with sandboxed execution, dynamic agent orchestration, and unified AI model access via Vercel’s gateway.
 
 ## Why It Matters
 

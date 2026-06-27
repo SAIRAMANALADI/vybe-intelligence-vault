@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - scripts
 - unknown
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, covering agent-based modeling, multi-agent systems, CLI tools, and workflow automation.
-- **Multi-Topic Coverage**: Encompasses AI agent development, agentic workflows, frameworks (e.g., LangChain, AutoGen), and learning resources under topics like `agentic-ai`, `multi-agent-system`, and `ai-agent-framework`.
-- **Active Maintenance**: Last updated June 26, 2026, with 1,855 stars and
+- **Curated Resource Hub**: Repository containing 1,500+ technical resources, tools, and frameworks focused on AI agents, including agent-based modeling, multi-agent systems, and agentic workflows.
+- **Multi-Topic Coverage**: Encompasses AI agent development, CLI tools, frameworks, and learning materials, with emphasis on multi-agent architectures and AI-driven automation.
+- **Active Maintenance**: Last updated on **2026-06-27**, indicating ongoing curation with **1,861 stars** and **582 forks**
 
 ## Use Cases
 

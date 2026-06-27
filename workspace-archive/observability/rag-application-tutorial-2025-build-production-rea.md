@@ -40,11 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic or fixed-size), embedding models (e.g., Sentence-BERT), vector databases (e.g., Supabase), and LLM integration (e.g., LangChain) for retrieval-augmented generation.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with latency bottlenecks primarily in retrieval (~60%) and generation (~30%) phases.
 
-- **Production Optimizations**: Advanced retrieval (hybrid dense/sparse search), query expansion/rewriting, caching strategies, and load balancing across multiple models to reduce latency and improve response consistency.
+- **Production Optimizations**: Implements chunking (semantic/recursive), embedding quantization (e.g., `all-MiniLM-L6-v2` → FP16), and hybrid retrieval (BM25 + cosine similarity) to balance accuracy/cost.
 
-- **Mon
+- **Scaling & Monitoring**: Uses Cloudflare Workers for edge deployment, Sentry for observabilit
 
 ## Use Cases
 

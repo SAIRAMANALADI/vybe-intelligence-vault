@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-28T01:19:08.318771+05:30'
+collected_at: '2026-06-28T03:50:19.122125+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 609
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-28T01:19:08.318771+05:30'
-last_seen: '2026-06-28T01:19:08.318771+05:30'
-last_checked: '2026-06-28T01:19:08.318771+05:30'
+first_seen: '2026-06-28T03:50:19.122125+05:30'
+last_seen: '2026-06-28T03:50:19.122125+05:30'
+last_checked: '2026-06-28T03:50:19.122125+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a Python-based framework designed to standardize and automate AI research agent workflows, enabling reproducible experimentation and benchmarking across diverse tasks.
+- **Framework Design**: MLGym is a modular Python framework for training and evaluating AI research agents, emphasizing reproducibility and extensibility via configurable pipelines and environments.
 
-- **Benchmark Suite**: Includes a comprehensive benchmark suite to evaluate AI agents on tasks spanning reinforcement learning, optimization, and multi-agent systems, facilitating systematic comparison of algorithms.
+- **Benchmark Suite**: Includes standardized tasks and metrics to assess agent performance across domains like optimization, reinforcement learning, and multi-agent systems.
 
-- **Modular Architecture**: Implements a modular architecture with configurable components (e.g., environments, agents, trainers) to support extensibility and integration with existing ML pipelines.
+- **Scalability & Integration**: Supports distributed training, integrates with PyTorch/TensorFlow, and provides tools for logging, visualization, and hyperparameter optimization.
 
 ## Why It Matters
 

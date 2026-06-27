@@ -8,25 +8,25 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - ESSENTIAL Tier)
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) (benchmark - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (framework - ESSENTIAL Tier)
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
+- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-28 01:31 IST*
+*Last updated: 2026-06-28 04:02 IST*

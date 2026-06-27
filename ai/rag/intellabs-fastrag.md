@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-28T01:17:28.190750+05:30'
+collected_at: '2026-06-28T03:48:39.020470+05:30'
 published_at: '2026-06-22T17:29:39Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 1782
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-28T01:17:28.190750+05:30'
-last_seen: '2026-06-28T01:17:28.190750+05:30'
-last_checked: '2026-06-28T01:17:28.190750+05:30'
+first_seen: '2026-06-28T03:48:39.020470+05:30'
+last_seen: '2026-06-28T03:48:39.020470+05:30'
+last_checked: '2026-06-28T03:48:39.020470+05:30'
 health_score: 100
 ---
 
@@ -29,13 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient, modular Python framework for **Retrieval-Augmented Generation (RAG)**, integrating retrieval, generation, and evaluation components for large language models (LLMs) and multi-modal tasks.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **semantic search**, **knowledge graphs**, and **multi-modal** capabilities with **ColBERT** and **sentence-transformers** for optimized information retrieval and generation.
 
-- **Key Features**:
-  - Supports **semantic search** (ColBERT, sentence-transformers), **knowledge graphs**, and **diffusion-based retrieval**.
-  - Optimized for **low-latency inference** and scalable deployment via Intel optimizations (e.g., oneDNN, OpenVINO).
+- **Key Features**: Supports **benchmarking**, **summarization**, **question-answering**, and **diffusion-based** generative models, leveraging **transformers** and **LLMs** for enhanced performance in **NLP** and **information retrieval** tasks.
 
-- **Applications**: Enables **question-answering**, **summarization**, and **multi-modal generation** with benchmarking tools for evaluating RAG pipelines.
+- **Optimizations**: Designed for **low-latency** and **scalable** RAG pipelines, with modular architecture for **multi-modal** and **knowledge-graph** integrations, ensuring efficient handling of large-scale retrieval and generation workflows.
 
 ## Why It Matters
 

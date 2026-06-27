@@ -3,12 +3,13 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://js.langchain.com
-published_at: '2026-06-27T19:41:13.417989+05:30'
-collected_at: '2026-06-27T19:41:13.418004+05:30'
+source_url: https://python.langchain.com/
+published_at: '2026-06-28T03:50:41.569732+05:30'
+collected_at: '2026-06-28T03:50:41.569746+05:30'
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-27T19:41:13.418004+05:30'
-last_seen: '2026-06-27T19:41:13.418004+05:30'
-last_checked: '2026-06-27T19:41:13.418004+05:30'
+first_seen: '2026-06-28T03:50:41.569746+05:30'
+last_seen: '2026-06-28T03:50:41.569746+05:30'
+last_checked: '2026-06-28T03:50:41.569746+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- `create_agent` provides a minimal, configurable agent harness in LangChain, composed of model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction for specific use cases.
 
-- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
+- **Framework Integration**: Agents are built on LangGraph for durable execution, persistence, and human-in-the-loop support, while LangSmith offers observability via tracing, debugging, and evaluation of agent workflows.
 
-- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like trace inspection, tool call analysis, and latency monitoring.
+- **Modularity & Portability**: Supports a standard model interface across providers (chat, embeddings) with minimal code changes, and allows incremental capability addition through middleware in the `create_agent` harness.
 
 ## Why It Matters
 
@@ -41,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:41:13.417989+05:30
+- Published: 2026-06-28T03:50:41.569732+05:30
 
 ## Related Tags
 
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -56,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://js.langchain.com
+Original source: https://python.langchain.com/

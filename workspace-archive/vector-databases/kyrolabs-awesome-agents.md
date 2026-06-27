@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - paper
 - rag
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A structured, community-driven repository aggregating AI agent frameworks, tools, and research papers for streamlined discovery and evaluation.
-- **Multi-Domain Coverage**: Encompasses agents for automation, reasoning, multi-agent systems, and specialized domains (e.g., coding, research, or productivity).
-- **Active Maintenance**: Last updated in 2026, ensuring inclusion of recent advancements and tools in the rapidly evolving AI agent landscape.
+- **Curated Repository**: A comprehensive, community-driven collection of AI agent frameworks, tools, libraries, and research papers, designed to facilitate development and deployment of autonomous agents.
+- **Multi-Domain Coverage**: Encompasses agents for diverse applications including conversational AI, robotic process automation (RPA), multi-agent systems, and reinforcement learning-based agents.
+- **Active Maintenance**: Regularly updated (last commit: 2026-06-27) with contributions from 65
 
 ## Use Cases
 

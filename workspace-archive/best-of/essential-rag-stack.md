@@ -13,10 +13,35 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`vivekmalhan666-rag-beginner-guide.md`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [7 Best GitHub Repositories For Mastering RAG Systems](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/)
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `90` | **Path**: [`7-best-github-repositories-for-mastering-rag-syste.md`](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
+- **Score**: `91` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [truefoundry/cognita](https://github.com/truefoundry/cognita)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`datawhalechina-all-in-rag.md`](../../ai/rag/datawhalechina-all-in-rag.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
@@ -33,39 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [langgenius/dify](https://github.com/langgenius/dify)
+### [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Score**: `87` | **Path**: [`nirdiamant-agents-towards-production.md`](../../ai/rag/nirdiamant-agents-towards-production.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
+### [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`ritik-prog-n8n-automation-templates-5000.md`](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`tomasonjo-tomaz-bratanic-github.md`](../../ai/rag/tomasonjo-tomaz-bratanic-github.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
+- **Score**: `87` | **Path**: [`azure-samples-chat-with-your-data-solution-accelerator.md`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-28 01:32 IST*
+*Last updated: 2026-06-28 04:03 IST*

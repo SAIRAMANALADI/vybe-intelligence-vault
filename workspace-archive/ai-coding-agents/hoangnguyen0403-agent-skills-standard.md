@@ -14,6 +14,7 @@ tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering to coding standards.
+- **Repository Purpose**: A curated TypeScript-based collection of coding standards and best practices for AI agents, covering 18+ languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot) to enforce consistent agentic AI development.
 
-- **Scope & Topics**: Covers 19+ languages/frameworks (e.g., React, Flutter, Laravel) and tools (e.g., Cursor Rules) under topics like `agentic-ai`, `best-practices`, and `coding-standards`.
-
-- **Metadata**: 514 stars, 149 forks
+- **Technical Scope**: Includes language-specific guidelines (e.g., TypeScript, Kotlin, Go), framework-specific rules (e.g., React, NestJS, Spring Boot), and platform-specific standards (e.g., Android, iOS) to optimize
 
 ## Use Cases
 

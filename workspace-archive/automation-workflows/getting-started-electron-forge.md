@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Electron Forge** is an all-in-one tool for packaging and distributing Electron apps, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing, while allowing customization via its Plugin API, Makers, and Publishers.
+- **Electron Forge** is a unified toolkit for packaging, distributing, and publishing Electron applications, integrating build pipelines, code signing, installers, and artifact publishing with extensible [Plugin API](https://electronforge.io/config/plugins), [Makers](https://electronforge.io/config/makers), and [Publishers](https://electronforge.io/config/publishers).
 
-- **Packaging dependencies** requires `node_modules` on disk; Forge's module resolution does not support symlinked dependencies or Yarn PnP, requiring Yarn ≥2 to use `nodeLinker: node-modules` and pnpm to set `node-linker=hoiste
+- **Packaging constraints**: Requires `node_modules` on disk; does not support Yarn PnP or symlinked dependencies—use `nodeLinke
 
 ## Use Cases
 

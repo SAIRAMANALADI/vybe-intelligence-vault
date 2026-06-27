@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Three-phase pipeline—(1) **Ingestion**: documents chunked, embedded via models (e.g., `text-embedding-3-large`), and stored in vector DBs (FAISS/Weaviate); (2) **Retrieval**: user queries embedded and matched via semantic/vector similarity (cosine/L2) or hybrid BM25+dense search; (3) **Generation**: LLM (e.g., GPT-4) synthesizes answers from retrieved context, constrained by token limits (e.g., 8K-128K).
+- **RAG Architecture**: A production RAG system consists of three phases: (1) **Ingestion** (documents → chunking → embedding → vector DB storage), (2) **Retrieval** (user query → embedding → vector search → top-K chunks), and (3) **Generation** (query + context → LLM → grounded answer), optimizing for semantic relevance and token efficiency.
 
-- **Chunking Optimization**: Critical for performance—fixed-size (e
+- **Chunking Strategies**: Effective chunking balances semantic boundaries and token limits; hybrid approaches (e.g., section-aware splitting with 512-tok
 
 ## Use Cases
 

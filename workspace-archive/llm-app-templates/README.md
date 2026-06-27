@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [run-llama/llama-cloud-ts](https://github.com/run-llama/llama-cloud-ts)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-28 01:31 IST*
+*Last updated: 2026-06-28 04:02 IST*

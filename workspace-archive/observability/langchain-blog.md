@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Neutrality in Agent Architecture**: Prioritizing model neutrality over cloud neutrality ensures flexibility in agent deployment, avoiding vendor lock-in and enabling optimal model selection based on performance and cost, rather than infrastructure constraints.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse intermediate computations in agent workflows, reducing redundant LLM calls and improving efficiency by leveraging prior state and outputs.
 
-- **Efficient Verifiers for Legal Agents**: Legal agents require specialized verification mechanisms to ensure compliance and accuracy; designing lightweight, domain-specific verifiers reduces computational overhead while mainta
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, as it enables flexibility in model selection, cost optimization, and performance tuning without infrastructure constrai
 
 ## Use Cases
 

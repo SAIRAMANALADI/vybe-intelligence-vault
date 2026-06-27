@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-28T01:17:43.157125+05:30'
+collected_at: '2026-06-28T03:48:54.011836+05:30'
 published_at: '2026-06-27T15:46:08Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 642
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-28T01:17:43.157125+05:30'
-last_seen: '2026-06-28T01:17:43.157125+05:30'
-last_checked: '2026-06-28T01:17:43.157125+05:30'
+first_seen: '2026-06-28T03:48:54.011836+05:30'
+last_seen: '2026-06-28T03:48:54.011836+05:30'
+last_checked: '2026-06-28T03:48:54.011836+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a production-grade Retrieval-Augmented Generation (RAG) system using FastAPI, Python, and Docker for modular deployment and scalability.
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integration.
 
-- **Modular Architecture**: Implements a structured workflow with components for document ingestion, vector embedding (via FAISS or similar), retrieval, and LLM integration, with clear separation of concerns.
+- **Modular Architecture**: Implements a scalable microservices-based design, separating components like document ingestion, vector storage (e.g., FAISS/Chroma), and LLM inference for maintainability.
 
-- **CI/CD & Scalability**: Includes Dockerized setup for reproducible environments, FastAPI endpoints for RESTful interactions, and educational guidance on scaling RAG applications for production use.
+- **CI/CD & Deployment**: Includes Dockerized setup with FastAPI endpoints, automated testing, and deployment strategies (e.g., Kubernetes) for end-to-end production readiness.
 
 ## Why It Matters
 

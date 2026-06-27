@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/awesome-opencode/awesome-opencode
-collected_at: '2026-06-28T01:18:58.261306+05:30'
-published_at: '2026-06-27T19:17:33Z'
+collected_at: '2026-06-28T03:50:09.099264+05:30'
+published_at: '2026-06-27T21:50:36Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
 - rag
-stars: 8400
+stars: 8401
 language: JavaScript
 status: active
 license: CC0-1.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-22T00:01:14Z'
 pushed_at: '2026-06-27T09:56:24Z'
 resource_id: github:awesome-opencode/awesome-opencode
-first_seen: '2026-06-28T01:18:58.261306+05:30'
-last_seen: '2026-06-28T01:18:58.261306+05:30'
-last_checked: '2026-06-28T01:18:58.261306+05:30'
+first_seen: '2026-06-28T03:50:09.099264+05:30'
+last_seen: '2026-06-28T03:50:09.099264+05:30'
+last_checked: '2026-06-28T03:50:09.099264+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as a community-driven "awesome" list.
-- **Technical Metadata**: Repository stats include **8,400 stars**, **595 forks**, and is primarily written in **JavaScript**, with the last update on **2026-06-27T19:17:30Z**.
-- **Open-Source Contribution**: Hosted under the `awesome-opencode` organization, serving as a centralized reference for developers leveraging or extending opencode.ai's ecosystem.
+- **Curated Resource Hub**: A comprehensive, community-driven repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured for easy discovery and integration.
+
+- **Technical Stack**: Primary implementation in JavaScript, leveraging modern web technologies to ensure compatibility and extensibility across the opencode.ai ecosystem.
+
+- **Active Maintenance**: Last updated on **2026-06-27**, indicating ongoing curation with 8,401 stars and 597 forks, reflecting strong community engagement and adoption.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: awesome-opencode
-- Stars: 8400
-- Forks: 595
+- Stars: 8401
+- Forks: 597
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-06-27T19:17:33Z
+- Last Updated: 2026-06-27T21:50:36Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-09-22T00:01:14Z

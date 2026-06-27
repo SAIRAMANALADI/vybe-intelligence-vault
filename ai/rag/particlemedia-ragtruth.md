@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-28T01:16:03.147069+05:30'
+collected_at: '2026-06-28T03:47:18.984305+05:30'
 published_at: '2026-06-25T22:30:21Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-06-28T01:16:03.147069+05:30'
-last_seen: '2026-06-28T01:16:03.147069+05:30'
-last_checked: '2026-06-28T01:16:03.147069+05:30'
+first_seen: '2026-06-28T03:47:18.984305+05:30'
+last_seen: '2026-06-28T03:47:18.984305+05:30'
+last_checked: '2026-06-28T03:47:18.984305+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **RAGTruth**, a hallucination-focused corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by systematically identifying and categorizing hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- Contains **Python-based tools and datasets** for detecting, analyzing, and mitigating hallucinations in RAG systems, including annotated examples of factual inconsistencies, unsupported claims, and contextual errors.
+- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucination datasets, enabling systematic assessment of RAG model reliability against factual inconsistencies.
 
-- Provides **benchmarking frameworks** to assess RAG model performance against hallucination risks, enabling developers to fine-tune retrieval and generation strategies for improved reliability.
+- **Repository Structure**: Contains tools for synthetic hallucination generation, human annotation pipelines, and evaluation metrics, with a last update timestamp of June 25, 2026.
 
 ## Why It Matters
 

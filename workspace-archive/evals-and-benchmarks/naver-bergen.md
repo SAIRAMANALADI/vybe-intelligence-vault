@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating **Retrieval-Augmented Generation (RAG)** systems, focusing on retrieval quality and generation performance.
-- **Implementation**: Written in **Jupyter Notebook**, it provides structured evaluation metrics and methodologies for assessing augmentation, retrieval, and generation components in RAG pipelines.
-- **Scope**: Supports benchmarking across **LLMs (Large Language Models)**, enabling comparative analysis of
+- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of retrieval and generation components.
+- **Implementation**: Written in Jupyter Notebook, it provides modular tools to test augmentation strategies, retrieval methods, and LLM performance under standardized RAG evaluation protocols.
+- **Scope**: Supports comparative analysis of RAG pipelines, including metrics for retrieval quality, co
 
 ## Use Cases
 

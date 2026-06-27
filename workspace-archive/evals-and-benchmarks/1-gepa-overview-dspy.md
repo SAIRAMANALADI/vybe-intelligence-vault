@@ -2,11 +2,11 @@
 title: 1. GEPA Overview - DSPy
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://dspy.ai/api/optimizers/GEPA/overview
+source_url: https://dspy.ai/api/optimizers/GEPA/overview/
 resource_id: blog:1-gepa-overview-dspy
 local_vault_path: ai/rag/1-gepa-overview-dspy.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts in few rollouts.
+- **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts with minimal rollouts.
 
-- **Core Parameters**: Requires a `metric` function returning `{'score': float, 'feedback': str}` for predictor-level optimization; supports auto budget modes (`light`/`medium`/`heavy`), merge-based optimization (`use_merge=True`), and parallel evaluation (`
+- **Key parameters** include `metric` (required feedback/evaluation function), `reflection_lm` (required strong LLM for reflection), and optimization controls like `auto`, `max_full_evals`, or `max_metric_calls`, with advanced features such as merge-ba
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy.ai/api/optimizers/GEPA/overview
+Original source URL: https://dspy.ai/api/optimizers/GEPA/overview/
 
 ## Local Vault File
 

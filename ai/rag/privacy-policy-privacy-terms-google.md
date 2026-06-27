@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-06-28T01:20:35.151713+05:30'
-collected_at: '2026-06-28T01:20:35.151726+05:30'
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+published_at: '2026-06-28T03:55:24.368688+05:30'
+collected_at: '2026-06-28T03:55:24.368703+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-06-28T01:20:35.151726+05:30'
-last_seen: '2026-06-28T01:20:35.151726+05:30'
-last_checked: '2026-06-28T01:20:35.151726+05:30'
+first_seen: '2026-06-28T03:55:24.368703+05:30'
+last_seen: '2026-06-28T03:55:24.368703+05:30'
+last_checked: '2026-06-28T03:55:24.368703+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata, IP addresses) data to personalize services and ads.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata) data, with retention tied to user settings and regulatory compliance.
 
-- **Location & Sensor Data**: Collects GPS, Wi-Fi/Bluetooth signals, IP addresses, and labeled places (e.g., "home/work") to enable location-based features (e.g., Maps, ads), with retention tied to device/account settings (e.g., Timeline, Web & App Activity).
+- **Location & Activity Tracking**: Location data (GPS, IP, Wi-Fi/Bluetooth signals) and activity logs (searches, interactions, communications) are collected to enable personalized services (ads, recommendations), with storage duration varying by device/account configurations.
 
-- **Third-Party & Public Data**: Incorporates publicly available data (e.g., news articles) and trusted partner data (e.g., business directories) into its services, subject to compliance with privacy frameworks and user controls.
+- **Privacy Controls & Compliance**: Users can manage data via Privacy Checkup, export/delete data, and adjust settings (e.g., sync, personalization), while Google adheres to frameworks like GDPR/CCPA and retains data per policy-defined retention schedules.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:20:35.151713+05:30
+- Published: 2026-06-28T03:55:24.368688+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true

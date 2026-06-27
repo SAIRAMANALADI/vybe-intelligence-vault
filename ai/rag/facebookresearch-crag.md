@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-28T01:17:23.168284+05:30'
+collected_at: '2026-06-28T03:48:34.049075+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- reddit
 stars: 292
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-28T01:17:23.168284+05:30'
-last_seen: '2026-06-28T01:17:23.168284+05:30'
-last_checked: '2026-06-28T01:17:23.168284+05:30'
+first_seen: '2026-06-28T03:48:34.049075+05:30'
+last_seen: '2026-06-28T03:48:34.049075+05:30'
+last_checked: '2026-06-28T03:48:34.049075+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across **multiple dimensions** (e.g., factuality, hallucination detection, robustness).
-- **Evaluation Scope**: Includes **diverse datasets** (e.g., long-form QA, multi-hop reasoning, domain-specific tasks) and **metrics** for retrieval quality, answer correctness, and hallucination mitigation.
-- **Implementation**: Provided as **Jupyter Notebooks** with modular components for **custom dataset integration**, **retriever/reader evaluation**, and **reproducible pipelines**.
+- **Purpose**: CRAG is a **Comprehensive benchmark** designed to evaluate **Retrieval-Augmented Generation (RAG)** systems, providing standardized metrics and datasets for performance assessment.
+- **Implementation**: The repository is structured as **Jupyter Notebooks**, facilitating reproducibility and interactive experimentation with RAG pipelines.
+- **Scope**: Focuses on **systematic evaluation** of RAG models, including retrieval quality, generation accuracy, and robustness across diverse datasets and scenarios.
 
 ## Why It Matters
 

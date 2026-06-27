@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://android.googlesource.com
-published_at: '2026-06-26T02:02:25.335744+05:30'
-collected_at: '2026-06-26T02:02:25.335758+05:30'
+source_url: http://android.googlesource.com
+published_at: '2026-06-28T03:55:21.129121+05:30'
+collected_at: '2026-06-28T03:55:21.129138+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-26T02:02:25.335758+05:30'
-last_seen: '2026-06-26T02:02:25.335758+05:30'
-last_checked: '2026-06-26T02:02:25.335758+05:30'
+first_seen: '2026-06-28T03:55:21.129138+05:30'
+last_seen: '2026-06-28T03:55:21.129138+05:30'
+last_checked: '2026-06-28T03:55:21.129138+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official source code is hosted on Google's Git service (`android.googlesource.com`), providing a unified platform for version control and collaboration across diverse hardware/software projects (e.g., device drivers, kernels, accessories).
+- **Hosted Git Repositories**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/asus/flo`).
 
-- **Device-Specific Kernel & Hardware Support**: Repository includes per-device kernel trees (e.g., `device/google/bluejay-kernel/`, `device/google/akita-kernels/6.1/`) and hardware-specific configurations (e.g., `device/asus/flo`, `device/google/cuttlefish`), with versioned branches (e.g., Linux 5.10/6.1) for targeted Android builds.
+- **Device-Specific Kernel & SEPolicy Branches**: Many device repositories include parallel kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches, often synchronized with specific Android versions (e.g., `5.10`, `6.1` kernels for `device/google/lynx`).
 
-- **Security & Access Control**: Authentication via Google OAuth2 (`accounts.google.com/o/oauth2/auth`) enforces Gerrit code review (`android-review.googlesource.com`) and role-based access (e.g., sepolicy for SELinux policies in `device/google/*-sepolicy/`).
+- **Bug Tracking Integration**: Repository paths frequently include bug IDs (e.g., `Bug: 190208935` in `device/google/barbet`), linking directly to Google's internal issue tracker for traceability.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T02:02:25.335744+05:30
+- Published: 2026-06-28T03:55:21.129121+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://android.googlesource.com
+Original source: http://android.googlesource.com

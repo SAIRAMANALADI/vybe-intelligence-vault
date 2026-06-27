@@ -14,6 +14,7 @@ tags:
 - c++
 - github-repo
 - rag
+- reddit
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration.
-- **Core architecture** combines a modified Chromium browser engine for rendering with Node.js for backend I/O and system access, packaged as a single executable.
-- **Build system** uses GN/Ninja for compilation, supports platform-specific optimizations (e.g., GPU acceleration, sandboxing), and integrates with native APIs via C++ bindings.
+- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to render HTML/CSS/JS applications natively across Windows, macOS, and Linux.
+
+- **Core architecture** combines a stripped-down Chromium browser engine with Node.js integration, enabling direct filesystem and OS API access via JavaScript.
+
+- **Performance-critical C++ backend** with bindings to V8 for JavaScript execution, WebKit for rendering, and IPC mechanisms for secure renderer/main process communication.
 
 ## Use Cases
 

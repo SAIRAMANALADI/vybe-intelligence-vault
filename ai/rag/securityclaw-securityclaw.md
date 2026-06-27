@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-28T01:17:33.208714+05:30'
+collected_at: '2026-06-28T03:48:44.030221+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 251
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-28T01:17:33.208714+05:30'
-last_seen: '2026-06-28T01:17:33.208714+05:30'
-last_checked: '2026-06-28T01:17:33.208714+05:30'
+first_seen: '2026-06-28T03:48:44.030221+05:30'
+last_seen: '2026-06-28T03:48:44.030221+05:30'
+last_checked: '2026-06-28T03:48:44.030221+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with modular design for real-time monitoring of OpenSearch/Elasticsearch data, integrating RAG-based behavioral memory for adaptive threat detection.
-
-- **LLM-Driven Anomaly Validation**: Uses Large Language Models (LLMs) to validate and contextualize real-time anomalies, enhancing detection accuracy and reducing false positives in cybersecurity operations.
-
-- **Autonomous Threat Hunting**: Implements skill-based automation for SOC tasks, including threat hunting and anomaly detection, with retrieval-augmented generation (RAG) for dynamic behavioral pattern analysis.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory construction, and real-time anomaly validation via LLMs for threat detection and hunting.
+- **Skill-Based Architecture**: Implements modular, skill-based components for autonomous SOC operations, enabling dynamic adaptation to evolving cybersecurity threats.
+- **LLM-Driven Validation**: Uses large language models (LLMs) to validate anomalies in real-time, enhancing accuracy and reducing false positives in threat detection workflows.
 
 ## Why It Matters
 

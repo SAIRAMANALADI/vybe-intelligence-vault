@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://services.github.com
-published_at: '2026-06-27T21:58:20.649781+05:30'
-collected_at: '2026-06-27T21:58:20.649794+05:30'
+published_at: '2026-06-28T03:51:54.533969+05:30'
+collected_at: '2026-06-28T03:51:54.533984+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:expert-services-github-github
-first_seen: '2026-06-27T21:58:20.649794+05:30'
-last_seen: '2026-06-27T21:58:20.649794+05:30'
-last_checked: '2026-06-27T21:58:20.649794+05:30'
+first_seen: '2026-06-28T03:51:54.533984+05:30'
+last_seen: '2026-06-28T03:51:54.533984+05:30'
+last_checked: '2026-06-28T03:51:54.533984+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Customized GitHub Services**: GitHub Expert Services offers tailored consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize workflows, security (GHAS), and migrations for GitHub Enterprise Cloud/Server, with engagements ranging from 2-hour sessions to multi-week programs.
+- **Customized GitHub Services**: Tailored consulting, workshops, and training for organizations to adopt GitHub efficiently, including DevSecOps, Innersource, and GitHub Administration, with hands-on support from GitHub experts.
 
-- **Advanced Security & Automation**: Specialized services include CodeQL query development/customization, GitHub Advanced Security (GHAS) adoption, secret protection, supply chain security, and CI/CD migration pipelines (e.g., 4-week GitHub Actions Migration Pipeline).
+- **Specialized Training & Migration Services**: Offers intermediate and advanced training for GitHub Actions, API, Copilot, and Advanced Security, alongside migration pipelines for CI/CD systems and legacy app modernization using GitHub Copilot.
 
-- **Strategic & Operational Support**: Provides high-level strategy design, capability assessments, technical advisory services, and hands-on implementation (e.g., EMU migrations, legacy app modernization) to align GitHub adoption with organizational goals.
+- **Enterprise Security & Workflow Optimization**: Provides GitHub Advanced Security (GHAS) adoption, CodeQL customization, workflow consultations, and technical advisory services to improve secure software development lifecycle (SSDLC) and streamline processes.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:58:20.649781+05:30
+- Published: 2026-06-28T03:51:54.533969+05:30
 
 ## Related Tags
 

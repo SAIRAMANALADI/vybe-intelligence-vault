@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory hierarchies.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory layers.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and retrieval strategies to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Prese
+- **AAAI 2026 Poster Submission**: Presented as a novel approach in the AAAI 2026 co
 
 ## Use Cases
 

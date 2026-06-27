@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://speechify.com/privacy
-published_at: '2026-06-22T10:48:58.481055+05:30'
-collected_at: '2026-06-22T10:48:58.481065+05:30'
+published_at: '2026-06-28T03:57:30.735190+05:30'
+collected_at: '2026-06-28T03:57:30.735204+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:privacy-policy-speechify
-first_seen: '2026-06-22T10:48:58.481065+05:30'
-last_seen: '2026-06-22T10:48:58.481065+05:30'
-last_checked: '2026-06-22T10:48:58.481065+05:30'
+first_seen: '2026-06-28T03:57:30.735204+05:30'
+last_seen: '2026-06-28T03:57:30.735204+05:30'
+last_checked: '2026-06-28T03:57:30.735204+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Speechify collects **Personal Data** (e.g., username, email, payment info) and **Non-Personal Data** (e.g., log data, device identifiers, usage analytics) via user input, automated tracking (IP, cookies, device metadata), and third-party integrations (e.g., Google Analytics, Meta Pixel).
+- **Data Collection Scope**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., log files, device identifiers, aggregated usage stats) via user interaction, third-party sources, and automated tracking (IP, cookies, device metadata).
 
-- **Data Usage & Sharing**: Data is processed for service provision, fraud prevention, and marketing (opt-in for EEA/Swiss/UK users). **No third-party sales/rents** of Personal Data occur; sharing is limited to **service providers under contract**, legal compliance, or mergers.
+- **Data Usage & Sharing**: Data is processed for service provision, fraud prevention, and business optimization; shared only with vetted third-party service providers under contractual obligations, or when legally compelled (e.g., law enforcement requests).
 
-- **Third-Party Dependencies**: Speechify relies on **third-party plugins** (e.g., social media buttons, analytics tools) that may track user interactions across sites. **User Content** is only reviewed for ToS violations, support requests, or proofreading services.
+- **No Selling or Public Exposure**: Speechify explicitly states it does not sell or rent Personal Data; User Content is only reviewed under specific conditions (e.g., ToS violations, human proofreading) and never made public except as required by law.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:48:58.481055+05:30
+- Published: 2026-06-28T03:57:30.735190+05:30
 
 ## Related Tags
 

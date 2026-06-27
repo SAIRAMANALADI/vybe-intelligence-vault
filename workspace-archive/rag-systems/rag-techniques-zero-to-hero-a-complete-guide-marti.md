@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture & Components**: Core pipeline includes a retriever (vector/lexical), vector store (ANN indexes like HNSW), LLM generator, and optional rerankers; hybrid retrieval (BM25 + vector) improves recall/precision by fusing lexical and semantic signals.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; hybrid search (BM25 + vector) improves recall/precision by combining exact-match and semantic retrieval.
 
-- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and periodic re-em
+- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; domain-specific embedding fine-tuning and dimensionality normalization enhance performance
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/nirdiamant-genai-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # NirDiamant/GenAI_Agents
@@ -28,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `MCP Registry`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing **50+ tutorials and implementations** for Generative AI Agent techniques, ranging from basic conversational bots to **complex multi-agent systems**.
-- **Technical Stack**: Primarily implemented in **Jupyter Notebooks** with support for **LangChain, LangGraph, MCP, RAG, and OpenAI APIs**, covering **Python-based AI agent development**.
-- **High Activity & Relevance**: Last updated **June 27, 2026**, with **22.8K+ stars** and **3.8K+ forks**, ind
+- **Repository Content**: 50+ tutorials and implementations covering Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems, with examples in Jupyter Notebooks.
+
+- **Technical Stack**: Utilizes frameworks/languages such as LangChain, LangGraph, MCP, OpenAI, Python, and RAG, focusing on agentic AI, autonomous agents, and multi-agent systems.
+
+- **Metadata**: 22.8K stars, 3.8K forks, last updated June 27, 2026, and categorized under topics like LLM,
 
 ## Use Cases
 

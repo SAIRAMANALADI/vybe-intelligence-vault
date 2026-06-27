@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-28T01:17:28.152209+05:30'
+collected_at: '2026-06-28T03:48:39.024388+05:30'
 published_at: '2026-06-27T15:04:03Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 2993
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-06-26T06:48:08Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-28T01:17:28.152209+05:30'
-last_seen: '2026-06-28T01:17:28.152209+05:30'
-last_checked: '2026-06-28T01:17:28.152209+05:30'
+first_seen: '2026-06-28T03:48:39.024388+05:30'
+last_seen: '2026-06-28T03:48:39.024388+05:30'
+last_checked: '2026-06-28T03:48:39.024388+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: EvalsScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
-
-- **Key Features**: Supports evaluation of retrieval-augmented generation (RAG), multimodal models (VLMs), and generative AI tasks with streamlined workflows and extensible architecture.
-
-- **Technical Stack**: Built for scalability and performance, leveraging Python with integration-ready components for standardized model assessment and comparative analysis.
+- **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for extensibility.
+- **Key Features**: Supports evaluation of Retrieval-Augmented Generation (RAG), performance metrics, and multi-modal model assessment with standardized benchmarking pipelines.
+- **Repository Metrics**: 2,993 stars, 408 forks, last updated June 27, 2026, with active development focus on scalability and efficiency.
 
 ## Why It Matters
 

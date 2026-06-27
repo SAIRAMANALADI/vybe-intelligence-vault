@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Customized GitHub Services**: GitHub Expert Services offers tailored consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize workflows, security (GHAS), and migrations for GitHub Enterprise Cloud/Server, with engagements ranging from 2-hour sessions to multi-week programs.
+- **Customized GitHub Services**: Tailored consulting, workshops, and training for organizations to adopt GitHub efficiently, including DevSecOps, Innersource, and GitHub Administration, with hands-on support from GitHub experts.
 
-- **Advanced Security & Automation**: Specialized services include CodeQL query development/customization, GitHub Advanced Security (GHAS) adoption, secret protection, supply chain secu
+- **Specialized Training & Migration Services**: Offers intermediate and advanced training for GitHub Actions, API, Copilot, and Advanced Security, alongside migration pipelines for CI/CD systems and legacy app modernization using GitHub Copilot.
+
+- **Enterprise Securi
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-06-28T01:16:09.555544+05:30'
-collected_at: '2026-06-28T01:16:09.555551+05:30'
+published_at: '2026-06-28T03:47:26.227944+05:30'
+collected_at: '2026-06-28T03:47:26.227959+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-28T01:16:09.555551+05:30'
-last_seen: '2026-06-28T01:16:09.555551+05:30'
-last_checked: '2026-06-28T01:16:09.555551+05:30'
+first_seen: '2026-06-28T03:47:26.227959+05:30'
+last_seen: '2026-06-28T03:47:26.227959+05:30'
+last_checked: '2026-06-28T03:47:26.227959+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components (document loading, text splitting, embedding, retrieval) for end-to-end RAG pipelines, supporting integrations with OpenAI, Hugging Face, Azure, and multi-language support (Python, JS, TypeScript).
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines, supporting document loading, text splitting, embedding, retrieval, and output generation with integrations for OpenAI, Hugging Face, Azure, and multi-language support (Python, JavaScript, TypeScript).
 
-- **Haystack by deepset-ai**: Production-ready RAG framework with modular pipelines (retrievers, readers, document stores) optimized for enterprise-scale deployments, supporting Elasticsearch, Weaviate, and FAISS for vector search.
+- **Haystack by deepset-ai**: Modular RAG framework optimized for enterprise-grade search and QA systems, featuring document retrieval, preprocessing, and integration with Elasticsearch, Weaviate, and other vector databases.
 
-- **LlamaIndex**: Data framework for RAG featuring high-performance indexing (tree, keyword, vector), query engines (sub-question, router), and integrations with vector databases (Pinecone, Milvus) for structured and unstructured data retrieval.
+- **LlamaIndex**: Data framework for constructing RAG systems, enabling efficient indexing of structured/unstructured data (PDFs, APIs, databases) with built-in retrieval, query engines, and support for advanced RAG techniques like multi-modal retrieval and hybrid search.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:16:09.555544+05:30
+- Published: 2026-06-28T03:47:26.227944+05:30
 
 ## Related Tags
 

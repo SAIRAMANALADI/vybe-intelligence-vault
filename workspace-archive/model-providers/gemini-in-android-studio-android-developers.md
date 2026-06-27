@@ -6,7 +6,7 @@ source_url: https://developer.android.com/gemini-in-android
 resource_id: blog:gemini-in-android-studio-android-developers
 local_vault_path: ai/rag/gemini-in-android-studio-android-developers.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans, allowing review/acceptance of proposed changes.
-- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and analyzes screenshots for debugging, accelerating modern UI development.
-- **Enterprise Security & Customization**: Offers IP protection (no model training on user data), admin controls, and customized cod
+- **Agent Mode** enables multi-stage, goal-driven tasks (e.g., unit test generation, UI alterations, error fixes) with iterative plan execution, review, and refinement across project files.
+
+- **Multimodal UI Prototyping** allows direct conversion of wireframe images or screenshots into functional Compose code, accelerating UI development and debugging.
+
+- **Enterprise-grade features** (via Gemini Code Assist) include IP indemnification, VPC-SC compliance, Git-based code customization, and BigQu
 
 ## Use Cases
 

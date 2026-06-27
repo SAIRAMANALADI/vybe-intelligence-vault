@@ -8,7 +8,7 @@ local_vault_path: ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
@@ -17,7 +17,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (Python-based)
-- **Stats**: 1 star, 68 forks, last updated 2025-09-16T07:09:35Z
-- **Purpose**: GitHub Classroom assignment template for RAG (Retrieval-Augmented Generation) workflows
+- **Repository**: GitHub Classroom assignment for RAG2-HW02 workflow (`icensraghomework-classroom01-rag2-hw02_workflow`).
+- **Metadata**: 1 star, 68 forks, Python-based, last updated 2025-09-16.
+- **Access**: Public repository at `https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`.
 
 ## Use Cases
 

@@ -8,6 +8,7 @@ Update cycle: Refreshed every 3 hours.
 | :--- | :--- | :--- | :--- |
 | 2026-06-11 | [Jhonata-Matias/crewai-hackathon-2026](https://github.com/Jhonata-Matias/crewai-hackathon-2026) | `ai-coding-agents/` | 70 |
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` | 70 |
+| 2026-05-31 | [embeddings-benchmark/leaderboardv2](https://github.com/embeddings-benchmark/leaderboardv2) | `rag-systems/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
 | 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-03-14 | [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) | `ai-coding-agents/` | 70 |
 | 2026-03-12 | [jayta1314/awesome-ai-sre](https://github.com/jayta1314/awesome-ai-sre) | `ai-coding-agents/` | 70 |
 | 2026-03-11 | [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) | `ai-coding-agents/` | 70 |
-| 2026-03-09 | [ChiggyJain/PythonLangSmithTutorial](https://github.com/ChiggyJain/PythonLangSmithTutorial) | `rag-systems/` | 70 |
 
 More resources will appear as the harvester collects them.

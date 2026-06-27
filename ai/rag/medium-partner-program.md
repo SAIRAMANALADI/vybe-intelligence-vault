@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/creators
-published_at: '2026-06-26T10:18:03.100567+05:30'
-collected_at: '2026-06-26T10:18:03.100580+05:30'
+published_at: '2026-06-28T03:57:23.376863+05:30'
+collected_at: '2026-06-28T03:57:23.376875+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-partner-program
-first_seen: '2026-06-26T10:18:03.100580+05:30'
-last_seen: '2026-06-26T10:18:03.100580+05:30'
-last_checked: '2026-06-26T10:18:03.100580+05:30'
+first_seen: '2026-06-28T03:57:23.376875+05:30'
+last_seen: '2026-06-28T03:57:23.376875+05:30'
+last_checked: '2026-06-28T03:57:23.376875+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Earnings Model**: Medium's Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with sustained reader engagement.
-- **Quality Prioritization**: The program explicitly de-emphasizes clickbait, rewarding long-form, high-quality content through member dues redistribution, with bonuses for follower retention and community-driven interactions.
-- **Calculation Framework**: Earnings derive from a weighted combination of total views, cumulative read duration, and reader actions (claps, highlights, replies, follows), with additional Boost bonuses for strategically promoted content.
+- **Earnings Mechanism**: Medium's Partner Program compensates writers based on member read time (≥30s), positive interactions (claps, highlights, replies), follower growth, and Boosted content performance, prioritizing long-form, high-engagement content over clickbait.
+
+- **Revenue Calculation**: Earnings derive from total views, cumulative read duration, and reader actions (claps, highlights, replies, follows), with Boosted stories receiving additional weight in payouts.
+
+- **Support Resources**: Writers can access detailed earnings breakdowns via the [Partner Program Guide](https://help.medium.com/hc/en-us/articles/115011694187) and submit queries through the [Help Desk](https://help.medium.com/hc/en-us/requests/new).
 
 ## Why It Matters
 
@@ -33,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:18:03.100567+05:30
+- Published: 2026-06-28T03:57:23.376863+05:30
 
 ## Related Tags
 

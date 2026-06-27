@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
+- **UniversalRAG Framework**: Introduces an any-to-any retrieval-augmented generation (RAG) system that dynamically retrieves and integrates knowledge from heterogeneous sources across diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-modality or unified-corpus approaches.
 
-- **Modality-aware routing** dynamically selects the most relevant modality-specific corpus for retrieval, mitigating the *modality gap* problem where queries favor same-modality retrieval, supported by theoreti
+- **Modality-Aware Routing**: Mitigates the *modality gap* problem (where retrieval favors same-modality items) by dynamically selecting the most relevant modality-specific co
 
 ## Use Cases
 

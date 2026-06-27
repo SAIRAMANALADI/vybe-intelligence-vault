@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-28T01:18:43.205600+05:30'
+collected_at: '2026-06-28T03:49:59.026370+05:30'
 published_at: '2026-06-27T08:28:31Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 stars: 899
 language: Python
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-28T01:18:43.205600+05:30'
-last_seen: '2026-06-28T01:18:43.205600+05:30'
-last_checked: '2026-06-28T01:18:43.205600+05:30'
+first_seen: '2026-06-28T03:49:59.026370+05:30'
+last_seen: '2026-06-28T03:49:59.026370+05:30'
+last_checked: '2026-06-28T03:49:59.026370+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides a curated repository of Codex CLI commands, agent templates, and command patterns optimized for OpenAI Codex, enabling reproducible AI agent interactions and efficient task delegation.
+- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI’s Codex CLI, optimizing agentic coding workflows with reusable templates, context management, and error-resilient execution patterns.
 
-- **Context & Hook System**: Implements a Python-based hook architecture for dynamic context injection and workflow orchestration, facilitating real-time agent adaptability and stateful AI interactions in development pipelines.
+- **Performance & Scalability Focus**: Repository includes benchmarks and best practices for scaling agentic workflows, with examples tailored for Pakistani developers and OpenAI’s Codex ecosystem, ensuring maintainable and high-performance AI agent deployments.
 
 ## Why It Matters
 

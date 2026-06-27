@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/jnsahaj/tweakcn
-collected_at: '2026-06-28T01:15:20.079000+05:30'
-published_at: '2026-06-27T18:56:29Z'
+collected_at: '2026-06-28T03:46:36.672636+05:30'
+published_at: '2026-06-27T22:03:25Z'
 tags:
 - frontend_ui
-stars: 10084
+stars: 10085
 language: TypeScript
 status: active
 resource_id: github:jnsahaj/tweakcn
 first_seen: '2026-06-16T04:26:21.211345+00:00'
-last_seen: '2026-06-28T01:15:20.079000+05:30'
-last_checked: '2026-06-28T01:15:20.079000+05:30'
+last_seen: '2026-06-28T03:46:36.672636+05:30'
+last_checked: '2026-06-28T03:46:36.672636+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: jnsahaj
-- Stars: 10084
+- Stars: 10085
 - Forks: 647
 - Language: TypeScript
 - Topics: shadcn, shadcn-theme, shadcn-theme-editor, shadcn-ui, tailwindcss, tailwindcss-v4
-- Last Updated: 2026-06-27T18:56:29Z
+- Last Updated: 2026-06-27T22:03:25Z
 
 ## Possible Use Cases
 

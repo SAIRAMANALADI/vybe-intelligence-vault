@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-28T01:16:14.856857+05:30'
-collected_at: '2026-06-28T01:16:14.856870+05:30'
+published_at: '2026-06-28T03:47:27.723870+05:30'
+collected_at: '2026-06-28T03:47:27.723885+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-28T01:16:14.856870+05:30'
-last_seen: '2026-06-28T01:16:14.856870+05:30'
-last_checked: '2026-06-28T01:16:14.856870+05:30'
+first_seen: '2026-06-28T03:47:27.723885+05:30'
+last_seen: '2026-06-28T03:47:27.723885+05:30'
+last_checked: '2026-06-28T03:47:27.723885+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic or fixed-size), embedding models (e.g., Sentence-BERT), vector databases (e.g., Supabase), and LLM integration (e.g., LangChain) for retrieval-augmented generation.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with latency bottlenecks primarily in retrieval (~60%) and generation (~30%) phases.
 
-- **Production Optimizations**: Advanced retrieval (hybrid dense/sparse search), query expansion/rewriting, caching strategies, and load balancing across multiple models to reduce latency and improve response consistency.
+- **Production Optimizations**: Implements chunking (semantic/recursive), embedding quantization (e.g., `all-MiniLM-L6-v2` → FP16), and hybrid retrieval (BM25 + cosine similarity) to balance accuracy/cost.
 
-- **Monitoring & Scaling**: Integration with Sentry for observability, token usage optimization, and deployment via Cloudflare Workers for edge-based scaling, with benchmarks for latency and cost-performance trade-offs.
+- **Scaling & Monitoring**: Uses Cloudflare Workers for edge deployment, Sentry for observability, and caching (Redis) to reduce LLM API calls by ~40% while maintaining <2s response times.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:16:14.856857+05:30
+- Published: 2026-06-28T03:47:27.723870+05:30
 
 ## Related Tags
 

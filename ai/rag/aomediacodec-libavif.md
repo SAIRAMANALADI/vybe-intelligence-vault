@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aomediacodec/libavif
-collected_at: '2026-06-27T09:55:19.689117+05:30'
-published_at: '2026-06-26T18:40:14Z'
+collected_at: '2026-06-28T03:54:31.646044+05:30'
+published_at: '2026-06-27T08:24:23Z'
 tags:
 - c
 - github-repo
 - rag
-- reddit
-- youtube
-stars: 2123
+stars: 2124
 language: C
 status: active
 license: NOASSERTION
@@ -20,9 +18,9 @@ archived: false
 created_at: '2019-06-10T17:54:32Z'
 pushed_at: '2026-06-26T18:40:09Z'
 resource_id: github:aomediacodec/libavif
-first_seen: '2026-06-27T09:55:19.689117+05:30'
-last_seen: '2026-06-27T09:55:19.689117+05:30'
-last_checked: '2026-06-27T09:55:19.689117+05:30'
+first_seen: '2026-06-28T03:54:31.646044+05:30'
+last_seen: '2026-06-28T03:54:31.646044+05:30'
+last_checked: '2026-06-28T03:54:31.646044+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: C-based library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression.
-- **Functionality**: Supports both lossy and lossless encoding/decoding with features like multi-threaded processing, alpha channel handling, and ICC profile support.
-- **Dependencies**: Built on top of libaom (AV1 reference encoder/decoder) and other libraries (e.g., libyuv, zlib) for auxiliary image processing tasks.
+- **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
+- **Functionality**: Supports both lossy and lossless encoding/decoding, with compatibility for AV1's intra-frame coding and HEIF container integration.
+- **Integration**: Designed for seamless integration with existing media pipelines, including support for multi-threaded processing and color space conversions.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: aomediacodec
-- Stars: 2123
+- Stars: 2124
 - Forks: 294
 - Language: C
 - Topics: None
-- Last Updated: 2026-06-26T18:40:14Z
+- Last Updated: 2026-06-27T08:24:23Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2019-06-10T17:54:32Z

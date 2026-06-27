@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-28T01:17:03.151132+05:30'
+collected_at: '2026-06-28T03:48:13.986731+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 263
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-28T01:17:03.151132+05:30'
-last_seen: '2026-06-28T01:17:03.151132+05:30'
-last_checked: '2026-06-28T01:17:03.151132+05:30'
+first_seen: '2026-06-28T03:48:13.986731+05:30'
+last_seen: '2026-06-28T03:48:13.986731+05:30'
+last_checked: '2026-06-28T03:48:13.986731+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, integrating vector search and LLM inference.
-- **Key Features**: Demonstrates best practices for Vietnamese RAG pipelines, including text preprocessing, embedding models (e.g., vietnamese-sbert), and retrieval-augmented generation workflows.
-- **Deployment**: Modular design for scalability, supporting FAISS/Weaviate for vector storage and integration with Vietnamese LLMs (e.g., Vistral, PhoGPT).
+- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search with large language models (LLMs).
+
+- **Key Components**: Includes document preprocessing, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert-base`), vector database integration (e.g., FAISS or Milvus), and retrieval-augmented generation pipelines.
+
+- **Best Practices**: Demonstrates Vietnamese-specific techniques such as text normalization, chunking strategies for Vietnamese morphology, and evaluation metrics tailored for low-resource language RAG systems.
 
 ## Why It Matters
 

@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-28T01:17:48.182697+05:30'
+collected_at: '2026-06-28T03:49:04.051236+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-28T01:17:48.182697+05:30'
-last_seen: '2026-06-28T01:17:48.182697+05:30'
-last_checked: '2026-06-28T01:17:48.182697+05:30'
+first_seen: '2026-06-28T03:49:04.051236+05:30'
+last_seen: '2026-06-28T03:49:04.051236+05:30'
+last_checked: '2026-06-28T03:49:04.051236+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, enabling efficient retrieval and generation by leveraging linear graph structures to optimize query processing and contextual augmentation.
+- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework leveraging linear graph structures for scalable retrieval on large-scale corpora, optimized for efficiency in ICLR 2026.
 
-- **Scalability & Efficiency**: Implements a linear-time graph construction and retrieval mechanism, reducing computational overhead while maintaining high retrieval accuracy for LLMs, addressing scalability challenges in traditional graph-based RAG systems.
+- Proposes a **linear graph retrieval mechanism** that reduces computational overhead compared to traditional graph-based RAG methods, enabling faster inference and lower memory usage while maintaining retrieval accuracy.
 
-- **ICLR 2026 Contribution**: Proposes a method to integrate linear graph traversal with RAG pipelines, demonstrating significant improvements in retrieval latency and generation quality on large-scale textual datasets compared to conventional RAG approaches.
+- Implements a **Python-based pipeline** with modular components for graph construction, retrieval, and generation, designed for integration with large language models (LLMs) to enhance factual grounding and contextual relevance.
 
 ## Why It Matters
 

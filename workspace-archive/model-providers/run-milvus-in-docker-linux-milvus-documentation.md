@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script to deploy Milvus in a single Docker container with embedded etcd (port `2379`) and Milvus (port `19530`), with data persisted in `./volumes/milvus`; WebUI accessible at `http://127.0.0.1:9091/webui/`.
+- **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script to deploy Milvus in Docker with embedded etcd (port 2379) and Milvus server (port 19530); configurations can be overridden via `user.yaml` and data persists in `volumes/milvus`.
 
-- **Key v3.0 Features**: Introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queuing, and an **optimized architecture** with consolidated components for improved performance.
+- **Key v3.0.x Features**: Introduces **Streaming Node** for enhanced data processing, **Woodpecker MQ** for optimized message queuing, and an **optimized architecture** consolidating components for improved performance.
 
--
+- **Management & Upgrade**
 
 ## Use Cases
 

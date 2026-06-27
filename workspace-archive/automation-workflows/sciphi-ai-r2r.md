@@ -13,7 +13,6 @@ importance: high
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Framework**: Implements a production-ready, agentic Retrieval-Augmented Generation (RAG) system with a RESTful API for dynamic retrieval and generation workflows.
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector search, and LLM integration.
-- **State-of-the-Art Retrieval**: Supports advanced retrieval techniques (e.g., hybrid search, metadata filtering) optimized for large-scale question-answering and AI-driven search.
+- **Agentic RAG Framework**: Production-ready Python-based system implementing Agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows.
+
+- **Advanced Retrieval Pipeline**: Integrates state-of-the-art retrieval mechanisms optimized for large language models (LLMs), supporting structured and unstructured data indexing, hybrid search, and real-time updates.
+
+- **Scalable Architecture**: Designed for high-performance deployme
 
 ## Use Cases
 

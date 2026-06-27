@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-06-28T01:16:13.087581+05:30'
-collected_at: '2026-06-28T01:16:13.087590+05:30'
+published_at: '2026-06-28T03:47:28.304356+05:30'
+collected_at: '2026-06-28T03:47:28.304372+05:30'
 tags:
 - agents
 - anthropic
@@ -18,12 +18,13 @@ tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-06-28T01:16:13.087590+05:30'
-last_seen: '2026-06-28T01:16:13.087590+05:30'
-last_checked: '2026-06-28T01:16:13.087590+05:30'
+first_seen: '2026-06-28T03:47:28.304372+05:30'
+last_seen: '2026-06-28T03:47:28.304372+05:30'
+last_checked: '2026-06-28T03:47:28.304372+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload.
+- **RAG Fundamentals**: Combines LLMs with external retrieval systems to enhance responses by fetching relevant information from vast document repositories, addressing context window limitations (e.g., GPT-4.1: 1M tokens, enterprise data scales to quintillions of tokens).
 
-- **Injection Pipeline**: Processes raw documents via chunking (e.g., 1K tokens/chunk) and embeddings (e.g., OpenAI’s 3,072-dim vectors) stored in vector databases (e.g., Pinecone, FAISS) for semantic retrieval.
+- **Vector Embeddings & Pipeline**: Chunks documents into fixed-token segments (e.g., 1,000 tokens), converts them into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) using embedding models, and stores them in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching.
 
-- **Retrieval Pipeline**: Converts user queries to embeddings, retrieves top-*k* semantically similar chunks via similarity search (e.g., cosine distance), and feeds these chunks to the LLM for answer generation.
+- **Retrieval & Generation Workflow**: User queries are embedded and matched against stored vectors to retrieve top-*k* relevant chunks, which are then fed to the LLM for contextual answer generation, decoupling retrieval (vector math) from generation (LLM processing).
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:16:13.087581+05:30
+- Published: 2026-06-28T03:47:28.304356+05:30
 
 ## Related Tags
 
@@ -60,6 +61,7 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

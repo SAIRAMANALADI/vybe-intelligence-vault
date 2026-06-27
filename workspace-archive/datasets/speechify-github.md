@@ -6,10 +6,10 @@ source_url: https://github.com/SpeechifyInc
 resource_id: blog:speechify-github
 local_vault_path: ai/agents/speechify-github.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - dataset
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: Speechify's implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (593 stars, 32 forks).
+- **Meta-Voicebox**: Speechify's open-source implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (594 GitHub stars, 32 forks).
 
-- **Speechify AI API SDKs**: Multi-language support (TypeScript, Python) for Text-to-Speech and Voice Agents APIs, including official examples and cookbook recipes.
+- **Speechify AI API SDKs**: Multi-language SDKs (TypeScript, Python) for Text-to-Speech and Voice Agents APIs, including examples and cookbook recipes for integration.
 
-- **Open-source toolkits**: Includes `olmocr` (PDF linearization for LLM training) and `SpecForge` (speculative decoding model training and deployment)
+- **Text Processing Libraries**: Open-source tools like `olmocr` (PDF linearization for LLM training) and `textract` (multi-form
 
 ## Use Cases
 

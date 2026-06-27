@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-28T01:17:58.152544+05:30'
+collected_at: '2026-06-28T03:49:09.011372+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
-- benchmark
 - github-repo
-- models
+- paper
 - python
 - rag
 stars: 171
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-28T01:17:58.152544+05:30'
-last_seen: '2026-06-28T01:17:58.152544+05:30'
-last_checked: '2026-06-28T01:17:58.152544+05:30'
+first_seen: '2026-06-28T03:49:09.011372+05:30'
+last_seen: '2026-06-28T03:49:09.011372+05:30'
+last_checked: '2026-06-28T03:49:09.011372+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of processing diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a single pipeline.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system (`UniversalRAG`) designed to handle diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a unified architecture.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a cross-modal retrieval mechanism with modality-specific encoders and a unified decoder, enabling seamless integration of heterogeneous corpora without modality-specific fine-tuning.
+- **ACL 2026 Oral Paper**: Presents the methodology and empirical results demonstrating superior performance in tasks requiring cross-modal retrieval and generation, leveraging a modular design for adaptability to heterogeneous corpora.
 
-- **ACL 2026 Oral Contribution**: Proposes novel architectural components (e.g., granularity-aware indexing, modality fusion layers) and achieves state-of-the-art performance on benchmarks spanning text, vision, and structured data.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for retrieval, fusion, and generation, optimized for scalability and integration with existing LLM pipelines.
 
 ## Why It Matters
 

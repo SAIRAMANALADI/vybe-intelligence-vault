@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Novel Attack Framework**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
+- **Novel Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate targeted, incorrect, or harmful outputs while maintaining semantic coherence.
 
-- **Technical Mechanism**: Leverages *semantic poisoning* to embed adversarial content in document embeddings, exploiting the retrieval model's sensitivity to subtle perturbations,
+- **Technical Implementation**: Leverages adversarial document crafting techniques (e.g., embedding perturbations, trigger-based poisoning) to exploit RAG’s retrieval-augmenta
 
 ## Use Cases
 

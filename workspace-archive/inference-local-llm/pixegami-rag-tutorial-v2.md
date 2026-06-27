@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates RAG implementation using local large language models (LLMs) via frameworks like LangChain, avoiding dependency on cloud-based APIs.
-- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
-- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to benchmark RAG p
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) via frameworks like LangChain, eliminating dependency on cloud-based APIs.
+
+- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms to ensure retrieval-augmented generation (RAG) pipelines stay synchronized with updated document corpora.
+
+- **Testing & Evaluation Suite**: Includes structured testing methodologies (e.g., retrieval accuracy, response qu
 
 ## Use Cases
 

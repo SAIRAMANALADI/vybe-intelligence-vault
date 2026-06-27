@@ -2,7 +2,7 @@
 title: GitHub Copilot CLI · GitHub
 archive_category: agent-instructions
 source_category: ai/agents
-source_url: https://github.com/features/copilot/cli
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
@@ -16,6 +16,7 @@ tags:
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching for comparative analysis.
+- **Multi-Agent Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI) for concurrent task processing, with `/model` switching for comparative analysis.
 
-- **Native GitHub Integration & MCP Support**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts with issues, PRs, and branches directly, inheriting organization policies (branch protections, governance) while allowin
+- **GitHub-Native MCP Integration**: Built on GitHub’s native Model Context Protocol (MCP), it interacts directly with issues, PRs, branches, and labels, inheriting organizational policies (branch protections, governance) while maintaining explicit user a
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/features/copilot/cli
+Original source URL: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 
 ## Local Vault File
 

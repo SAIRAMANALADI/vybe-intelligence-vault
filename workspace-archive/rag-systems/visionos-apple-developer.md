@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Spatial Computing Architecture**: visionOS supports dynamic transitions between windows, 3D volumes (via RealityKit/Unity), and immersive Full Spaces, enabling apps to blend digital content with physical surroundings or create fully enclosed environments.
+- **Spatial Computing Architecture**: visionOS supports **Windows** (SwiftUI-based 2D/3D hybrid interfaces), **Volumes** (3D SwiftUI scenes for RealityKit/Unity content), and **Spaces** (Shared Space for multi-app coexistence or Full Space for immersive, app-exclusive environments).
 
-- **Integration with Apple Intelligence & Frameworks**: Apps can leverage Apple Intelligence for on-screen awareness and Siri integration via App Intents, while SwiftUI and RealityKit provide native support for 3D rendering, depth, gesture
+- **Integration of Apple Intelligence & Core Frameworks**: Supports **Apple Intelligence** (Siri AI, on-screen awareness, multimodal prompts via Foundation Models) and leverages **SwiftUI** (with 3D/depth support),
 
 ## Use Cases
 

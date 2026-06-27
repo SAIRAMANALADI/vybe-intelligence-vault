@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Implements a graph RAG framework where multiple agents collaboratively construct and query a knowledge graph using memory-driven mechanisms for enhanced retrieval-augmented generation (RAG).
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning over structured graph data.
 
-- **Ontology-Guided Graph Construction**: Dynamically builds and refines an ontology-driven knowledge graph, integrating structured and unstructured data to improve semantic retrieval and contextual reasoning in RAG pipelines.
+- **Graph Construction & Ontology Integration**: Implements automated graph construction from input data and incorporates ontology-based semantic alignment to enhance retrieval precision and contextual relevance in multi-agent interactions.
 
-- **Python-Based Implementation**: Provid
+- **Python Implemen
 
 ## Use Cases
 

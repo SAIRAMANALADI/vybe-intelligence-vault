@@ -6,10 +6,10 @@ source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
 local_vault_path: ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md
 quality_score: 70
-archive_score: 84
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - benchmark
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 84 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with support for multiple document stores (Elasticsearch, FAISS, SQL) and scalable pipelines for retrieval, QA, and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), integrating BERT/RoBERTa/DPR models, and scalable pipelines for QA, summarization, and document retrieval with 14.6k GitHub stars.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine focused on deep document understanding with pre-built pipelines, vector database integration, and a user-friendly workflow design interface for rapid prototyping.
+- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, vector DB integration, and a user-friendly workflow design interface, boasting 11.6k GitHub stars.
 
-- **txtai (neuml)**: All-in-one AI framework offeri
+- **FlashRAG (RUC-NLPIR)**: Opti
 
 ## Use Cases
 

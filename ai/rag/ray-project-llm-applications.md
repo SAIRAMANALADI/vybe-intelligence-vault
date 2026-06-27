@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-28T01:17:48.180710+05:30'
+collected_at: '2026-06-28T03:48:59.053842+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-28T01:17:48.180710+05:30'
-last_seen: '2026-06-28T01:17:48.180710+05:30'
-last_checked: '2026-06-28T01:17:48.180710+05:30'
+first_seen: '2026-06-28T03:48:59.053842+05:30'
+last_seen: '2026-06-28T03:48:59.053842+05:30'
+last_checked: '2026-06-28T03:48:59.053842+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-- **Fine-Tuning & Serving Optimization**: Provides notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them efficiently via Ray Serve, with benchmarks for latency and throughput.
-- **End-to-End Tooling**: Includes Anyscale integration for scalable compute, OpenAI API compatibility, and structured evaluation frameworks for LLM application performance in production environments.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, or fine-tuned models with scalable vector databases (e.g., Anyscale).
+- **End-to-End Optimization**: Covers fine-tuning, inference optimization, and deployment strategies (e.g., Ray Serve) for LLM applications, with Jupyter Notebook-based examples for reproducibility.
+- **Tooling & Ecosystem**: Leverages Ray’s distributed compute for efficient LLM serving, with modular components for retrieval, prompt engineering, and response generation in production environments.
 
 ## Why It Matters
 

@@ -11,6 +11,13 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. By using a graph-based structure, it enables developers to define cyclic steps, state propagation, and branching logic,
   * Tags: `agents`, `state-management`, `orchestration`, `graph`
 
+## Agent Frameworks
+
+* **[deepset-ai/haystack-experimental](ai/resources/deepset-ai-haystack-experimental.md)** (`framework` | `useful` tier)
+  * Summary: - Experimental extensions for Haystack, a Python-based NLP framework, hosted on GitHub under `deepset-ai/haystack-experimental`. - Repository last updated on **2026-06-25**, with **64 stars** and **24 forks**, indicating limited but active community
+  * Tags: `github-repo`, `python`
+  * Source URL: <https://github.com/deepset-ai/haystack-experimental>
+
 ## Agent Instructions
 
 * **[X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](ai/resources/x-680-information-technology-abstract-syntax-notat.md)** (`prompt` | `useful` tier)
@@ -36,8 +43,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12848>
 
 * **[0x4m4/hexstrike-ai](ai/agents/0x4m4-hexstrike-ai.md)** (`mcp-server` | `useful` tier)
-  * Summary: - **MCP Server Integration**: HexStrike AI MCP Agents bridges LLMs (e.g., Claude, GPT) with 150+ cybersecurity tools via MCP, enabling autonomous offensive security operations (pentesting, vulnerability discovery, bug bounty automation). - **Toolset
-  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `python`, `scripts`, `workflows`
+  * Summary: - **Autonomous Pentesting Engine**: HexStrike AI MCP Agents integrates **150+ cybersecurity tools** (e.g., Kali Linux utilities, CTF tools) into an **MCP server**, enabling AI agents (Claude, GPT, Copilot) to autonomously execute offensive security o
+  * Tags: `agents`, `anthropic`, `github-repo`, `python`, `scripts`, `workflows`
   * Source URL: <https://github.com/0x4m4/hexstrike-ai>
 
 * **[0xSteph/pentest-ai-agents](ai/agents/0xsteph-pentest-ai-agents.md)** (`framework` | `useful` tier)
@@ -373,7 +380,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2407.06312>
 
 * **[affaan-m/agentshield](ai/agents/affaan-m-agentshield.md)** (`mcp-server` | `useful` tier)
-  * Summary: - **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions. - **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. - **Tech Stack**: TypeScr
+  * Summary: - **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions. - **Features**: Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. - **Compatibility**: Supp
   * Tags: `agents`, `anthropic`, `github-repo`, `typescript`
   * Source URL: <https://github.com/affaan-m/agentshield>
 
@@ -467,9 +474,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `meta-ai`, `mistral`, `models`, `openai`, `youtube`
   * Source URL: <https://arxiv.org/abs/2602.11510>
 
-* **[AgentOps-AI/agentops](ai/agents/agentops-ai-agentops.md)** (`framework` | `essential` tier)
-  * Summary: - **Multi-Framework Integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across major frameworks (CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, CamelAI) and LLM providers (Anthropic, Groq, Mistral
-  * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `meta-ai`, `mistral`, `models`, `openai`, `python`, `workflows`
+* **[AgentOps-AI/agentops](ai/agents/agentops-ai-agentops.md)** (`framework` | `useful` tier)
+  * Summary: - **Multi-framework integration**: Python SDK (`agentops`) enabling monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI. - **LLM & provider suppor
+  * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `meta-ai`, `mistral`, `models`, `openai`, `python`
   * Source URL: <https://github.com/AgentOps-AI/agentops>
 
 * **[Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](ai/agents/arxiv-2606-11869.md)** (`framework` | `useful` tier)
@@ -757,7 +764,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11238>
 
 * **[ARUNAGIRINATHAN-K/awesome-ai-agents-2026](ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparison guides, benchmarks, and deep dives. - **Key Frameworks Included**: Feat
+  * Summary: - **Comprehensive AI Agent Repository**: Curated list of **300+ AI agents, frameworks, and tools** spanning coding, creative, voice, research, and enterprise domains, with a focus on **2026 advancements**. - **Technical Benchmarks & Comparisons**: In
   * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `unknown`
   * Source URL: <https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026>
 
@@ -872,7 +879,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.18960>
 
 * **[AvdLee/SwiftUI-Agent-Skill](ai/agents/avdlee-swiftui-agent-skill.md)** (`tool` | `useful` tier)
-  * Summary: - **Purpose**: Provides expert SwiftUI best practices in an AI coding tool (Agent Skills open format) to enhance code quality and developer guidance. - **Technical Details**: Implemented in Python, structured as a repository (`AvdLee/SwiftUI-Agent-Sk
+  * Summary: - **Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool using the Agent Skills open format. - **Technical Stack**: Implemented in Python, designed to integrate with AI agents for SwiftUI development. - **Metadata**: 3,117
   * Tags: `agents`, `github-repo`, `hackernews`, `python`
   * Source URL: <https://github.com/AvdLee/SwiftUI-Agent-Skill>
 
@@ -1157,7 +1164,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.18976>
 
 * **[caramaschiHG/awesome-ai-agents-2026](ai/agents/caramaschihg-awesome-ai-agents-2026.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated Collection**: Repository hosts 300+ AI agents, frameworks, and tools across 20+ categories, updated monthly. - **Technical Scope**: Covers AI agents, LangChain, LLMs, machine learning, and ChatGPT-related resources. - **Metadata**: 1.3k s
+  * Summary: - **Comprehensive AI Agent Resource Hub**: Curated collection of 300+ AI agents, frameworks, and tools categorized into 20+ topics, specifically focused on advancements and tools expected in 2026. - **Regularly Updated Repository**: Maintained with m
   * Tags: `agents`, `github-repo`, `hackernews`, `openai`, `unknown`
   * Source URL: <https://github.com/caramaschiHG/awesome-ai-agents-2026>
 
@@ -1202,7 +1209,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://quantumcomputing.stackexchange.com/questions/46314/shuffle-qiskit-gate-order>
 
 * **[cisco-ai-defense/defenseclaw](ai/agents/cisco-ai-defense-defenseclaw.md)** (`framework` | `useful` tier)
-  * Summary: - **Security Governance Framework**: DefenseClaw provides a structured approach to governance for agentic AI systems, focusing on security policies, compliance checks, and risk management in Python. - **Agentic AI Security**: Implements mechanisms to
+  * Summary: - **Security Governance Framework**: DefenseClaw provides a structured approach to securing agentic AI systems, focusing on governance, risk management, and compliance (GRC) for AI-driven applications. - **Python-Based Implementation**: The repositor
   * Tags: `agents`, `github-repo`, `python`, `workflows`
   * Source URL: <https://github.com/cisco-ai-defense/defenseclaw>
 
@@ -1262,7 +1269,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/>
 
 * **[Code-and-Sorts/awesome-copilot-agents](ai/agents/code-and-sorts-awesome-copilot-agents.md)** (`prompt` | `useful` tier)
-  * Summary: - **Curated Resource**: Aggregates GitHub Copilot custom instructions, prompts, skills, MCPs, and agent markdown files to enhance AI agent capabilities. - **Technical Scope**: Focuses on agent-skills, prompt engineering, and MCP integration for VS Co
+  * Summary: - **Curated Resource**: Aggregates GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize AI agent interactions. - **Technical Scope**: Covers agent-skills, prompt engineering, and VS
   * Tags: `agents`, `github-repo`, `hackernews`, `typescript`
   * Source URL: <https://github.com/Code-and-Sorts/awesome-copilot-agents>
 
@@ -1272,7 +1279,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/structured-codeagent>
 
 * **[codebasics/ai-agents](ai/agents/codebasics-ai-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials focused on AI agents, implemented in Python. - **Metadata**: 57 stars, 82 forks, last updated on **2026-05-19T06:11:13Z**. - **No Additional Metadata**: No topics
+  * Summary: - **Repository Overview**: GitHub repository `codebasics/ai-agents` provides tutorials focused on AI agents, implemented in Python. - **Metadata**: 57 stars, 82 forks, last updated on 2026-05-19. - **Topics & Structure**: No topics tagged; content st
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/codebasics/ai-agents>
 
@@ -1297,7 +1304,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.12560>
 
 * **[coleam00/ottomator-agents](ai/agents/coleam00-ottomator-agents.md)** (`tool` | `useful` tier)
-  * Summary: - **Repository Overview**: Open-source collection of AI agents hosted on the oTTomator Live Agent Studio platform, implemented in Python. - **Metrics**: 5,654 stars, 1,938 forks, last updated on 2026-06-27. - **Purpose**: Provides a centralized hub f
+  * Summary: - **Repository Overview**: Hosts open-source AI agents on the oTTomator Live Agent Studio platform, written in Python. - **Metrics**: 5,654 stars, 1,938 forks, last updated on 2026-06-27. - **Access**: Available at [GitHub repository](https://github.
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/coleam00/ottomator-agents>
 
@@ -1382,8 +1389,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.02274>
 
 * **[continuedev/continue](ai/agents/continuedev-continue.md)** (`workflow` | `useful` tier)
-  * Summary: - **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding assistant designed to automate software development tasks via an extensible agent architecture. - **CLI & IDE integration**: Supports seamless integration with popula
-  * Tags: `agents`, `github-repo`, `scripts`, `typescript`, `workflows`
+  * Summary: - **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or assisted code generation, refactoring, and debugging via CLI and IDE integrations. - **Modular architecture** supports extensibility through plugins, allowing customi
+  * Tags: `agents`, `github-repo`, `typescript`, `workflows`
   * Source URL: <https://github.com/continuedev/continue>
 
 * **[ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation](ai/agents/arxiv-2606-15930.md)** (`framework` | `useful` tier)
@@ -1392,7 +1399,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15930>
 
 * **[Copilot CLI sessions in Visual Studio Code](ai/agents/copilot-cli-sessions-in-visual-studio-code.md)** (`framework` | `useful` tier)
-  * Summary: - **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via Copilot SDK, enabling autonomous execution in Git worktrees or direct workspace modifications with configurable isolation modes (Worktree/Folder) and permission levels (Byp
+  * Summary: - **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; supports parallel execution, worktree/folder isolation, and slash commands (`/research`, `/compact`, `/yolo`). -
   * Tags: `agents`, `openai`, `web-crawled`
   * Source URL: <https://code.visualstudio.com/docs/copilot/agents/background-agents>
 
@@ -1516,8 +1523,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.datacamp.com/courses>
 
 * **[daveebbelaar/ai-cookbook](ai/agents/daveebbelaar-ai-cookbook.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, primarily in Python, with 4,250 stars and 1,501 forks. - **Technical Focus**: Covers key AI topics including ag
-  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `openai`, `python`, `reddit`, `workflows`
+  * Summary: - **Repository Overview**: A Python-based AI cookbook providing practical examples and tutorials for building AI systems, covering topics such as agents, LLMs (OpenAI, Anthropic), and AI development workflows. - **Key Metrics**: 4,250 stars, 1,501 fo
+  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `openai`, `python`, `reddit`, `scripts`, `workflows`
   * Source URL: <https://github.com/daveebbelaar/ai-cookbook>
 
 * **[daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](ai/agents/arxiv-2606-16497.md)** (`framework` | `useful` tier)
@@ -1768,9 +1775,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2511.20709>
 
-* **[duanyytop/agents-radar](ai/agents/duanyytop-agents-radar.md)** (`product` | `useful` tier)
-  * Summary: - **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, generating bilingual ZH/EN reports. - **Technical Stack**: Implemented in TypeScript, with schedu
-  * Tags: `agents`, `github-repo`, `hackernews`, `producthunt`, `scripts`, `typescript`
+* **[duanyytop/agents-radar](ai/agents/duanyytop-agents-radar.md)** (`workflow` | `useful` tier)
+  * Summary: - **Automated AI Ecosystem Aggregation**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions. - **Bilingual Report Generation**: Produces daily digests in both Chi
+  * Tags: `agents`, `github-repo`, `hackernews`, `producthunt`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/duanyytop/agents-radar>
 
 * **[DynaDebate: Breaking Homogeneity in Multi-Agent Debate with Dynamic Path Generation](ai/agents/arxiv-2601-05746.md)** (`framework` | `useful` tier)
@@ -1784,8 +1791,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/dyronrh/awesome-agentops-landscape>
 
 * **[e2b-dev/awesome-ai-agents](ai/agents/e2b-dev-awesome-ai-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated repository** of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in artificial intelligence. - **Multi-language support** with primary focus on Python-based implementations fo
-  * Tags: `agents`, `github-repo`, `models`, `openai`, `scripts`, `unknown`
+  * Summary: - **Curated repository** of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) with 28.5K+ stars and 3K+ forks, last updated June 2026. - **Multi-language support** (primarily Python) covering agent-based systems, AI c
+  * Tags: `agents`, `github-repo`, `models`, `openai`, `unknown`, `workflows`
   * Source URL: <https://github.com/e2b-dev/awesome-ai-agents>
 
 * **[EChO-Agent: Evidence Chain Orchestration Agent for Audio Reasoning](ai/agents/arxiv-2606-15141.md)** (`framework` | `useful` tier)
@@ -1942,9 +1949,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.18530>
 
-* **[EvanThomasLuke/Awesome-AI-Hacking-Agents](ai/agents/evanthomasluke-awesome-ai-hacking-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: Curated list of AI-powered hacking agents, tools, and frameworks designed for offensive security research, penetration testing, and vulnerability assessment. - **Metadata**: 509 stars, 83 forks, last updated June 27, 2026;
-  * Tags: `agents`, `github-repo`, `hackernews`, `scripts`, `unknown`
+* **[EvanThomasLuke/Awesome-AI-Hacking-Agents](ai/agents/evanthomasluke-awesome-ai-hacking-agents.md)** (`tool` | `useful` tier)
+  * Summary: - **Repository Overview**: Curated list of AI-driven autonomous agents designed for offensive security research, penetration testing, and vulnerability assessment. - **Metadata**: 509 stars, 83 forks, last updated June 27, 2026; language and topics u
+  * Tags: `agents`, `github-repo`, `hackernews`, `unknown`
   * Source URL: <https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents>
 
 * **[Events | Twilio](ai/agents/events-twilio.md)** (`tutorial` | `useful` tier)
@@ -2043,8 +2050,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.18515>
 
 * **[facebookresearch/MLGym](ai/agents/facebookresearch-mlgym.md)** (`framework` | `useful` tier)
-  * Summary: - **Framework Design**: MLGym is a Python-based framework designed to standardize and automate AI research agent workflows, enabling reproducible experimentation and benchmarking across diverse tasks. - **Benchmark Suite**: Includes a comprehensive b
-  * Tags: `agents`, `benchmark`, `github-repo`, `python`, `workflows`
+  * Summary: - **Framework Design**: MLGym is a modular Python framework for training and evaluating AI research agents, emphasizing reproducibility and extensibility via configurable pipelines and environments. - **Benchmark Suite**: Includes standardized tasks
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`
   * Source URL: <https://github.com/facebookresearch/MLGym>
 
 * **[FacProcessTwin: An LLM-Based System for Process Twin Development](ai/rag/arxiv-2606-17666.md)** (`benchmark` | `useful` tier)
@@ -2309,10 +2316,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://developers.google.com/program/gear>
 
-* **[Gemini API | Google AI for Developers](ai/agents/gemini-api-google-ai-for-developers.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Interactions API** is Google's recommended API for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing legacy endpoints for new projects. - **Multi-modal & Specialized Models**: Supports cutting-edge model
+* **[Gemini API | Google AI for Developers](ai/agents/gemini-api-google-ai-for-developers.md)** (`framework` | `useful` tier)
+  * Summary: - **Interactions API** is Google's recommended API for new projects, optimized for agentic workflows, state management, and latest models (e.g., `gemini-3.5-flash`), replacing older endpoints. - Supports **multi-modal generation** (text, images via N
   * Tags: `agents`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://ai.google.dev/gemini-api/docs>
+  * Source URL: <https://ai.google.dev/gemini-api>
 
 * **[Generalization Guarantees for Multi-Input Neural Operator Learning in Sobolev Spaces](ai/research/arxiv-2606-17419.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17419v1 Announce Type: new Abstract: We develop approximation and generalization error estimates for multi-input neural operators, with the output error measured in Sobolev norms. In contrast to standard operator-learning settings with a s
@@ -2382,18 +2389,18 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://code.launchpad.net/snapd>
 
 * **[GitHub CLI | Take GitHub to the command line](ai/agents/github-cli-take-github-to-the-command-line.md)** (`tutorial` | `useful` tier)
-  * Summary: - **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, enabling CLI-based interaction with issues, PRs, releases, and repository metadata. - **Core commands** include `gh issue list`, `gh pr s
-  * Tags: `agents`, `producthunt`, `reddit`, `web-crawled`, `workflows`
-  * Source URL: <https://cli.github.com/>
+  * Summary: - **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub functionality directly into the terminal, supporting commands like `gh issue list`, `gh pr status`, `gh pr checkout`, `gh pr create`, `gh pr checks`, `gh release create`, `gh
+  * Tags: `agents`, `producthunt`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://cli.github.com>
 
 * **[GitHub Copilot CLI command reference - GitHub Docs](ai/agents/github-copilot-cli-command-reference-github-docs.md)** (`prompt` | `useful` tier)
   * Summary: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables shell tab completion for `bash`, `zsh`, `fish`), `copilot login` (OAuth device flow with `--host` for GitHub Enterprise), `copilot init`
   * Tags: `agents`, `anthropic`, `models`, `openai`, `producthunt`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference>
 
-* **[GitHub Copilot CLI · GitHub](ai/agents/features-copilot.md)** (`mcp-server` | `useful` tier)
-  * Summary: - **Multi-agent orchestration**: Copilot CLI enables parallelized task execution via `/fleet`, distributing work across subagents while maintaining user control over final outputs. - **GitHub-native workflows**: Integrates directly with GitHub issues
-  * Tags: `agents`, `anthropic`, `frontend_ui`, `hackernews`, `openai`, `web-crawled`, `workflows`, `youtube`
+* **[GitHub Copilot CLI · GitHub](ai/agents/features-copilot.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Multi-Agent Parallel Execution**: Copilot CLI enables `/fleet`-based parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI) for concurrent task processing, with `/model` switching for comparative analysis. - **Gi
+  * Tags: `agents`, `anthropic`, `frontend_ui`, `hackernews`, `openai`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026>
 
 * **[GitHub Copilot documentation - GitHub Docs](ai/agents/github-copilot-documentation-github-docs.md)** (`tutorial` | `useful` tier)
@@ -2441,8 +2448,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://discuss.google.dev/c/google-cloud/14>
 
-* **[Google for Developers | Build with Gemini](ai/agents/google-for-developers-build-with-gemini.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Gemini API Integration**: Provides access to advanced reasoning, multimodal processing, and agentic workflows via a single API, supporting languages like Python, JavaScript, Go, Java, and REST for scalable AI app development. - **Agent-First Plat
+* **[Google for Developers | Build with Gemini](ai/agents/google-for-developers-build-with-gemini.md)** (`prompt` | `useful` tier)
+  * Summary: - **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via a single API, supporting multimodal inputs (text/code/media) and agentic workflows with long context windows for large-scale code
   * Tags: `agents`, `hackernews`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://developers.google.com/>
 
@@ -2512,8 +2519,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://community.gravitee.io>
 
 * **[greensock/gsap-skills](ai/agents/greensock-gsap-skills.md)** (`workflow` | `useful` tier)
-  * Summary: - **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration to optimize AI-driven animation workflows. - **Technical Specifications**: R
-  * Tags: `agents`, `animation`, `github-repo`, `hackernews`, `unknown`, `workflows`
+  * Summary: - **GSAP AI Skills Repository**: Provides structured AI training for GSAP (GreenSock Animation Platform), covering best practices, animation patterns, and plugin integration for AI coding agents. - **Repository Metrics**: 10,235 stars, 620 forks, las
+  * Tags: `agents`, `animation`, `github-repo`, `unknown`, `workflows`
   * Source URL: <https://github.com/greensock/gsap-skills>
 
 * **[Grounding Computer Use Agents on Human Demonstrations](ai/agents/arxiv-2511-07332.md)** (`framework` | `useful` tier)
@@ -2631,8 +2638,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HKUDS/OpenPhone>
 
 * **[HoangNguyen0403/agent-skills-standard](ai/agents/hoangnguyen0403-agent-skills-standard.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering
-  * Tags: `agents`, `frontend_ui`, `github-repo`, `typescript`
+  * Summary: - **Repository Purpose**: A curated TypeScript-based collection of coding standards and best practices for AI agents, covering 18+ languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot) to enforce cons
+  * Tags: `agents`, `frontend_ui`, `github-repo`, `hackernews`, `typescript`
   * Source URL: <https://github.com/HoangNguyen0403/agent-skills-standard>
 
 * **[HOLO-MPPI: Multi-Scenario Motion Planning via Hierarchical Policy Optimization](ai/agents/arxiv-2606-16480.md)** (`framework` | `useful` tier)
@@ -2676,8 +2683,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.schmidtfutures.com/our-work/schmidt-ai-in-science-postdocs>
 
 * **[hoodini/ai-agents-skills](ai/agents/hoodini-ai-agents-skills.md)** (`tool` | `useful` tier)
-  * Summary: - **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), authored by Yuval Avidani using GitHub Copilot in VS Code Insiders. - **Metadata**: 239 stars, 58 forks, Python-
-  * Tags: `agents`, `anthropic`, `github-repo`, `python`
+  * Summary: - **Repository Purpose**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), created via GitHub Copilot in VS Code Insiders. - **Technical Details**: Implemented in Python; last updated on 2
+  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `python`
   * Source URL: <https://github.com/hoodini/ai-agents-skills>
 
 * **[Host Mattermost on Your Own Infrastructure](ai/rag/host-mattermost-on-your-own-infrastructure.md)** (`benchmark` | `useful` tier)
@@ -2721,8 +2728,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication>
 
 * **[huangjia2019/ai-agents](ai/agents/huangjia2019-ai-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Purpose**: Repository provides introductory examples for constructing LLM-based AI agents, serving as a beginner's guide to LLM development with foundational code snippets. - **Technical Scope**: Implemented in Jupyter Notebooks, covering core ag
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `openai`, `workflows`
+  * Summary: - **Purpose**: Repository provides introductory examples for constructing LLM-based AI agents, designed as a beginner-friendly guide to LLM development. - **Content**: Includes basic implementations in Jupyter Notebook format, serving as a high-level
+  * Tags: `agents`, `github-repo`, `jupyter notebook`, `models`, `openai`
   * Source URL: <https://github.com/huangjia2019/ai-agents>
 
 * **[Hugging Face · GitHub](ai/agents/hugging-face-github.md)** (`framework` | `useful` tier)
@@ -2780,9 +2787,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `producthunt`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://electronics.stackexchange.com/questions/770071/identifying-4-pin-connector-from-haiers-ducted-hvac-motherboard>
 
-* **[idosal/git-mcp](ai/agents/idosal-git-mcp.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub repository data to AI agents and LLMs. - **Technical Stack**: Implemented in TypeSc
-  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `typescript`, `workflows`
+* **[idosal/git-mcp](ai/agents/idosal-git-mcp.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **GitMCP Server**: Open-source TypeScript-based MCP server enabling remote interaction with any GitHub repository to mitigate AI code hallucinations. - **Integration**: Facilitates agentic AI workflows (e.g., Claude, Copilot, Cursor) by providing s
+  * Tags: `agents`, `anthropic`, `github-repo`, `typescript`, `workflows`
   * Source URL: <https://github.com/idosal/git-mcp>
 
 * **[If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](ai/agents/arxiv-2605-31514.md)** (`framework` | `useful` tier)
@@ -3075,6 +3082,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/jupyter-agent-2>
 
+* **[Kangsan Kim - Homepage](ai/rag/kangsan-kim-homepage.md)** (`framework` | `useful` tier)
+  * Summary: - **Research Focus**: Develops autonomous AI agents with multimodal memory systems for real-world tasks (coding, computer use, embodied agents), leveraging reinforcement learning and cross-domain knowledge transfer (e.g., *Memory Transfer Learning*,
+  * Tags: `agents`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://kangsankim07.github.io>
+
 * **[KATANA: A Fast, Low-Power Mapping of Kalman Filters onto Edge NPUs for Real-Time Tracking](ai/agents/arxiv-2606-14992.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14992v1 Announce Type: cross Abstract: State estimation is the closed-loop core of every real-time tracking system, from radar surveillance and counter-UAV defense to autonomous driving and robotics. These deployments run on edge platforms
   * Tags: `agents`
@@ -3140,9 +3152,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `frontend_ui`, `github-repo`, `jupyter notebook`
   * Source URL: <https://github.com/kvpratama/gaia-agent>
 
-* **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** (`tool` | `useful` tier)
-  * Summary: - **Repository Overview**: Minimal Python examples for AI agents using the Model Context Protocol (MCP), maintained by kylestratis. - **Metadata**: 55 stars, 25 forks, last updated on 2026-05-17. - **Technical Focus**: Demonstrates MCP integration wi
-  * Tags: `agents`, `github-repo`, `hackernews`, `python`
+* **[kylestratis/ai_agents_mcp_examples](ai/agents/kylestratis-ai-agents-mcp-examples.md)** (`workflow` | `useful` tier)
+  * Summary: - **Repository Overview**: GitHub repository `kylestratis/ai_agents_mcp_examples` contains Python-based examples for AI agent integration with Model Context Protocol (MCP), last updated on **2026-05-17**. - **Metrics**: Currently has **55 stars** and
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `workflows`
   * Source URL: <https://github.com/kylestratis/ai_agents_mcp_examples>
 
 * **[LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](ai/agents/arxiv-2606-16802.md)** (`framework` | `useful` tier)
@@ -3176,12 +3188,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://changelog.langchain.com>
 
 * **[langchain-ai/open-swe](ai/agents/langchain-ai-open-swe.md)** (`workflow` | `useful` tier)
-  * Summary: - **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and editing using LLMs (OpenAI, Anthropic) with non-blocking I/O operations. - **Multi-Agent Orchestration**: Supports concurrent age
+  * Summary: - **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`. - **Multi-LLM Integration**: Supports asynchronous interactions with
   * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `workflows`
   * Source URL: <https://github.com/langchain-ai/open-swe>
 
 * **[LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md)** (`framework` | `useful` tier)
-  * Summary: - **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured trace analysis and code diagnostics. - **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTele
+  * Summary: - **Multi-language SDK Support**: LangSmith provides Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration, enabling cross-language agent development and observability. - **Autonomous Agent Debugging**: LangSmith
   * Tags: `agents`, `benchmark`, `web-crawled`
   * Source URL: <https://www.langchain.com/>
 
@@ -3300,7 +3312,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.10616>
 
 * **[Leonxlnx/agentic-ai-prompt-research](ai/agents/leonxlnx-agentic-ai-prompt-research.md)** (`framework` | `useful` tier)
-  * Summary: - **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing system-level prompt engineering and multi-agent collaboration frameworks.
+  * Summary: - **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms in agentic AI systems for coding tasks. - **Security Classification**: Investigates security frameworks and classifications for agentic AI as
   * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `unknown`, `workflows`
   * Source URL: <https://github.com/Leonxlnx/agentic-ai-prompt-research>
 
@@ -3355,8 +3367,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17798>
 
 * **[LlamaParse Platform Quickstart | Developer Documentation](ai/agents/llamaparse-platform-quickstart-developer-documenta.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Layout-aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans. - **Multi-format Output**: Converts processed docum
-  * Tags: `agents`, `meta-ai`, `models`, `web-crawled`
+  * Summary: - **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured markdown, text, or JSON. - **Layout-Aware OCR**: Utilizes advanced OCR technology to preserve doc
+  * Tags: `agents`, `hackernews`, `meta-ai`, `models`, `web-crawled`
   * Source URL: <https://developers.llamaindex.ai/>
 
 * **[LLM-ACES: Closed-Loop Discovery of Dynamical Systems with LLM-Guided Adaptive Search](ai/research/arxiv-2606-25039.md)** (`framework` | `useful` tier)
@@ -3584,8 +3596,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.29247>
 
 * **[mergisi/awesome-openclaw-agents](ai/agents/mergisi-awesome-openclaw-agents.md)** (`template` | `essential` tier)
-  * Summary: - **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories, with a submission mechanism for community contributions. - **Technical Stack**: Primarily HTML-based
-  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `html`, `scripts`
+  * Summary: - **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories, with a submission mechanism for community contributions. - **Technical Metadata**: Written in HTML,
+  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `html`, `scripts`, `workflows`
   * Source URL: <https://github.com/mergisi/awesome-openclaw-agents>
 
 * **[Mesh-RL: Coupled subgrid reinforcement learning](ai/research/arxiv-2606-26333.md)** (`framework` | `useful` tier)
@@ -3753,12 +3765,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/mrjf>
 
 * **[msoedov/agentic_security](ai/agents/msoedov-agentic-security.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: Agentic LLM Vulnerability Scanner and AI red teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt-based vulnerabilities. - **Features**: Supports LLM fuzzing, evaluation frameworks, guardrails testing, and vulne
-  * Tags: `agents`, `benchmark`, `github-repo`, `python`, `workflows`
+  * Summary: - **Purpose**: Agentic LLM Vulnerability Scanner / AI red teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt-testing vulnerabilities. - **Features**: Supports LLM fuzzing, vulnerability scanning, guardrails testing, and eval
+  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`
   * Source URL: <https://github.com/msoedov/agentic_security>
 
 * **[MuhammadUsmanGM/claude-code-best-practices](ai/agents/muhammadusmangm-claude-code-best-practices.md)** (`template` | `useful` tier)
-  * Summary: - **Repository Structure**: Contains `CLAUDE.md` templates, multi-agent workflows, and CLI configurations for optimizing Anthropic's Claude Code usage, with a focus on cost efficiency and developer productivity. - **Technical Focus**: Shell-based rep
+  * Summary: - **Repository Structure**: Contains a curated wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies. - **Technical Focus**: Primarily shell-based CLI too
   * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `shell`, `workflows`
   * Source URL: <https://github.com/MuhammadUsmanGM/claude-code-best-practices>
 
@@ -4095,8 +4107,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/openai/gpt-oss-120b>
 
 * **[openai/mle-bench](ai/agents/openai-mle-bench.md)** (`benchmark` | `useful` tier)
-  * Summary: - **MLE-bench**: A Python-based benchmark designed to evaluate AI agents' proficiency in machine learning engineering tasks. - **Evaluation Scope**: Measures performance across core ML engineering competencies including data preprocessing, model trai
-  * Tags: `agents`, `benchmark`, `github-repo`, `openai`, `python`
+  * Summary: - **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, covering end-to-end workflows from data preprocessing to model deployment. - **Implementation**: Written in Python, the benchmark in
+  * Tags: `agents`, `benchmark`, `github-repo`, `openai`, `python`, `workflows`
   * Source URL: <https://github.com/openai/mle-bench>
 
 * **[opendevin/opendevin](ai/agents/opendevin-opendevin.md)** (`framework` | `useful` tier)
@@ -4243,11 +4255,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2605.30880>
 
-* **[PEP 8 – Style Guide for Python Code | peps.python.org](ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Indentation & Line Breaks**: Use 4 spaces per indentation level; align continuation lines vertically or with a *hanging indent* (no arguments on first line). Break binary operators before the operator (Knuth style) for readability, and limit line
-  * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
-  * Source URL: <https://peps.python.org/pep-0008/>
-
 * **[Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning](ai/agents/arxiv-2606-12830.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12830v1 Announce Type: cross Abstract: While recent vision-language models (VLMs) demonstrate strong multimodal understanding, they remain limited in spatial reasoning tasks that require active evidence acquisition and multi-step visual in
   * Tags: `agents`, `benchmark`, `dataset`
@@ -4336,8 +4343,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2508.21720>
 
-* **[Prat011/awesome-llm-skills](ai/agents/prat011-awesome-llm-skills.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated LLM/Agent Skills**: Repository aggregates tools, resources, and skills for customizing AI agent workflows, compatible with **Claude Code, Codex, Gemini CLI**, and custom agents. - **Multi-Model Support**: Includes integrations for **Anthr
+* **[Prat011/awesome-llm-skills](ai/agents/prat011-awesome-llm-skills.md)** (`workflow` | `useful` tier)
+  * Summary: - **Curated resource** for LLM/AI agent skills, tools, and workflows, compatible with **Claude Code, Codex, Gemini CLI**, and custom agents. - **Python-based** repository with **1,344 stars** and **210 forks**, last updated **June 27, 2026**. - Cover
   * Tags: `agents`, `anthropic`, `github-repo`, `meta-ai`, `models`, `openai`, `python`, `workflows`
   * Source URL: <https://github.com/Prat011/awesome-llm-skills>
 
@@ -4825,7 +4832,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/run-llama/llama-cloud-py>
 
 * **[run-llama/llama-cloud-ts](ai/agents/run-llama-llama-cloud-ts.md)** (`framework` | `useful` tier)
-  * Summary: - **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities, enabling structured extraction of text and metadata from documents via LlamaParse API. - **Document Processing & Information Extraction**: Supports advan
+  * Summary: - **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities with a TypeScript interface for `llamaparse`, enabling structured information extraction from documents. - **Document Processing & Agent Integration**: Su
   * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `typescript`, `workflows`
   * Source URL: <https://github.com/run-llama/llama-cloud-ts>
 
@@ -5029,14 +5036,14 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2509.21862>
 
-* **[shanraisshan/claude-code-best-practice](ai/agents/shanraisshan-claude-code-best-practice.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Agentic Workflow Evolution**: Repository documents transition from traditional "vibe coding" to structured agentic engineering practices for Claude Code, emphasizing systematic workflows over ad-hoc interactions. - **Technical Best Practices**: P
+* **[shanraisshan/claude-code-best-practice](ai/agents/shanraisshan-claude-code-best-practice.md)** (`workflow` | `useful` tier)
+  * Summary: - **Agentic Workflow Transition**: Repository documents the shift from *vibe coding* to *agentic engineering* using Claude Code, emphasizing structured, iterative development with AI agents for enhanced productivity and scalability. - **Best Practice
   * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `html`, `workflows`
   * Source URL: <https://github.com/shanraisshan/claude-code-best-practice>
 
 * **[shanraisshan/codex-cli-best-practice](ai/agents/shanraisshan-codex-cli-best-practice.md)** (`template` | `useful` tier)
-  * Summary: - **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
-  * Tags: `agents`, `github-repo`, `openai`, `python`, `scripts`, `workflows`
+  * Summary: - **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for AI-driven development
+  * Tags: `agents`, `benchmark`, `github-repo`, `openai`, `python`, `workflows`
   * Source URL: <https://github.com/shanraisshan/codex-cli-best-practice>
 
 * **[SharQ: Bridging Activation Sparsity and FP4 Quantization for LLM Inference](ai/research/arxiv-2606-26587.md)** (`benchmark` | `useful` tier)
@@ -5060,7 +5067,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.22142>
 
 * **[sierra-research/tau2-bench](ai/agents/sierra-research-tau2-bench.md)** (`framework` | `useful` tier)
-  * Summary: - **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with a structured Python implementation. - **Evaluation Scope**: Tests multi-turn interactions, tool
+  * Summary: - **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with multi-turn tool usage. - **Technical Scope**: Implements Python-based evaluation framework for
   * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`
   * Source URL: <https://github.com/sierra-research/tau2-bench>
 
@@ -5139,9 +5146,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `frontend_ui`, `producthunt`, `reddit`, `web-crawled`
   * Source URL: <https://flags-sdk.dev>
 
-* **[slavakurilyak/awesome-ai-agents](ai/agents/slavakurilyak-awesome-ai-agents.md)** (`tool` | `useful` tier)
-  * Summary: * Curated "awesome list" aggregating 300+ agentic AI resources
-  * Tags: `agents`, `github-repo`, `python`
+* **[slavakurilyak/awesome-ai-agents](ai/agents/slavakurilyak-awesome-ai-agents.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated Collection**: Repository hosting 300+ meticulously organized resources on agentic AI, covering frameworks, tools, research papers, and applications. - **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-mak
+  * Tags: `agents`, `github-repo`, `hackernews`, `paper`, `python`
   * Source URL: <https://github.com/slavakurilyak/awesome-ai-agents>
 
 * **[SMEPilot: Characterizing and Optimizing LLM Inference with Scalable Matrix Extensions](ai/research/arxiv-2606-16332.md)** (`framework` | `useful` tier)
@@ -5242,8 +5249,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12485>
 
-* **[Speechify · GitHub](ai/agents/speechify-github.md)** (`framework` | `essential` tier)
-  * Summary: - **Meta-Voicebox**: Speechify's implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (593 stars, 32 forks). - **Speechify AI API SDKs**: Multi-language support (TypeScript, Pyt
+* **[Speechify · GitHub](ai/agents/speechify-github.md)** (`framework` | `useful` tier)
+  * Summary: - **Meta-Voicebox**: Speechify's open-source implementation of Meta's generative AI model for speech, enabling cross-task generalization with state-of-the-art performance (594 GitHub stars, 32 forks). - **Speechify AI API SDKs**: Multi-language SDKs
   * Tags: `agents`, `dataset`, `reddit`, `web-crawled`
   * Source URL: <https://github.com/SpeechifyInc>
 
@@ -5317,8 +5324,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://doc.rust-lang.org/std/ops/index.html>
 
 * **[steel-dev/awesome-web-agents](ai/agents/steel-dev-awesome-web-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated Collection**: Repository hosting a structured, community-driven list of tools, frameworks, and resources for developing AI-powered web agents, with a focus on browser automation and LLM integration. - **Technical Scope**: Covers Python-ba
-  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`, `scripts`
+  * Summary: - **Curated collection** of tools, frameworks, and resources for developing AI-driven web agents, focusing on browser automation and LLM integration. - **Python-centric** repository with topics including AI agents, LLM benchmarking, and automation fr
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`, `scripts`
   * Source URL: <https://github.com/steel-dev/awesome-web-agents>
 
 * **[Steering Emotional Dynamics for Art Therapy: Controllable Narrative Script Generation through Hierarchically Guided LLM Agents](ai/agents/arxiv-2606-16481.md)** (`framework` | `useful` tier)
@@ -5470,8 +5477,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.23821>
 
 * **[TEN-framework/ten-framework](ai/agents/ten-framework-ten-framework.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: Open-source framework for building real-time, multi-modal (voice/video) conversational AI agents in Python. - **Key Features**: Supports voice and video interactions, enabling real-time conversational AI applications. - **Status**: Act
-  * Tags: `agents`, `github-repo`, `python`, `youtube`
+  * Summary: - **Purpose**: Open-source framework designed for building conversational voice AI agents with multi-modal capabilities (voice, video, real-time processing). - **Technical Stack**: Primarily implemented in Python, supporting real-time audio/video int
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `youtube`
   * Source URL: <https://github.com/TEN-framework/ten-framework>
 
 * **[Tencent/AICGSecEval](ai/agents/tencent-aicgseceval.md)** (`benchmark` | `useful` tier)
@@ -5704,7 +5711,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.oracle.com/en-us/iaas/Content/generative-ai/xai-models.htm>
 
 * **[TheAgentCompany/TheAgentCompany](ai/agents/theagentcompany-theagentcompany.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: Simulated software company environment for benchmarking AI agents across diverse tasks (e.g., coding, debugging, project management). - **Technical Stack**: Python-based framework with LLM integration for evaluating agent performance i
+  * Summary: - **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks (e.g., coding, debugging, project management) in a controlled, reproducible setting. - **Technical Stack**: Python-based implement
   * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `python`, `workflows`
   * Source URL: <https://github.com/TheAgentCompany/TheAgentCompany>
 
@@ -5913,8 +5920,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17915>
 
 * **[trycua/cua](ai/agents/trycua-cua.md)** (`framework` | `useful` tier)
-  * Summary: - **Multi-OS Sandboxing Framework**: Provides isolated, reproducible environments for macOS, Linux, and Windows to safely train and evaluate AI agents capable of full desktop control via containerization and virtualization (e.g., Apple's Virtualizati
-  * Tags: `agents`, `benchmark`, `github-repo`, `html`, `scripts`
+  * Summary: - **Multi-Platform Agent Infrastructure**: Provides open-source sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows. - **Technical Stack**: Primarily uses Swift (macOS), w
+  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `html`, `scripts`
   * Source URL: <https://github.com/trycua/cua>
 
 * **[Turnitin Services Privacy Policy – Turnitin Guides](ai/agents/turnitin-services-privacy-policy-turnitin-guides.md)** (`tutorial` | `useful` tier)
@@ -6031,8 +6038,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://campus.datacamp.com/courses/free-introduction-to-r/chapter-2-vectors-2?ex=12>
 
 * **[vercel/ai](ai/agents/vercel-ai.md)** (`framework` | `useful` tier)
-  * Summary: - **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like OpenAI, Anthropic, and Gemini. - **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript,
-  * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `openai`, `typescript`, `workflows`
+  * Summary: - **AI SDK**: Open-source TypeScript library (by Vercel) for building AI-powered apps/agents with LLMs (OpenAI, Anthropic, Gemini), supporting React, Next.js, Svelte, and Vue. - **Key Features**: Generative UI, streaming responses, and structured out
+  * Tags: `agents`, `anthropic`, `frontend_ui`, `github-repo`, `openai`, `typescript`
   * Source URL: <https://github.com/vercel/ai>
 
 * **[Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems](ai/agents/arxiv-2606-17182.md)** (`reference` | `useful` tier)
@@ -6311,8 +6318,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.18142>
 
 * **[yzfly/awesome-voice-agents](ai/agents/yzfly-awesome-voice-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated resource** for voice AI agent frameworks, tools, and best practices, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis. - **Topics include** real-time chat, voice assistants, and agent architectures, with last
-  * Tags: `agents`, `github-repo`, `unknown`
+  * Summary: - **Curated resource** listing frameworks, tools, and best practices for **voice AI agents**, covering **speech-to-text (STT)**, **text-to-speech (TTS)**, **voice activity detection (VAD)**, **voice cloning**, **conversion**, **recognition**, and **s
+  * Tags: `agents`, `github-repo`, `hackernews`, `unknown`
   * Source URL: <https://github.com/yzfly/awesome-voice-agents>
 
 * **[Zabbix Cloud Images and Appliances](ai/agents/zabbix-cloud-images-and-appliances.md)** (`tutorial` | `useful` tier)
@@ -6490,13 +6497,23 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://android-developers.googleblog.com/>
 
 * **[Android Mobile App Developer Tools - Android Developers](ai/rag/android-mobile-app-developer-tools-android-develop.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Android 17 Release**: Source code live on AOSP; rolling out to Pixel devices; top 5 updates require app optimization for API 37. - **Android XR Expansion**: New tools and engine support for cross-ecosystem XR development, including testing and sc
+  * Summary: - **Android 17** released with AOSP source code and rolling out to Pixel devices; introduces API 37 with top 5 updates for app compatibility. - **Android XR** expands engine support and resources for building, testing, and scaling XR experiences acro
   * Tags: `agents`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://developer.android.com>
 
 * **[Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
   * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2>
+
+* **[aws-samples/amazon-bedrock-samples](ai/rag/aws-samples-amazon-bedrock-samples.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering use cases like generative AI, embeddings, and knowledge bases. - **Multi-Model & Multi-Too
+  * Tags: `github-repo`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/aws-samples/amazon-bedrock-samples>
+
+* **[Azure/agent-innovator-lab](ai/rag/azure-agent-innovator-lab.md)** (`framework` | `useful` tier)
+  * Summary: - **Repository Overview**: Provides a structured lab environment for building and optimizing AI agents on Azure, including modules on search optimization, agent architecture, evaluation frameworks, and RAG best practices. - **Technical Implementation
+  * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[bbPress.org](ai/rag/bbpress-org.md)** (`tutorial` | `useful` tier)
   * Summary: - **Lightweight Forum Software**: bbPress is a lightweight forum plugin for WordPress, offering asynchronous discussion, user profiles, subscriptions, and moderation tools while maintaining performance and simplicity. - **Integration & Multisite Supp
@@ -6528,11 +6545,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/cyproxio/mcp-for-security>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including frameworks like LangChain and LlamaIndex, with practical examples in Python. - **Multi-Technology Integ
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
-  * Source URL: <https://github.com/datawhalechina/all-in-rag>
-
 * **[Docker Hub Container Image Library | App Containerization](ai/rag/docker-hub-container-image-library-app-containeriz.md)** (`framework` | `useful` tier)
   * Summary: - **Docker Hardened Images**: Free, near-zero CVE images with built-in security, compliance, and continuous updates for enterprise-grade base images (e.g., Ubuntu, Debian, Java) with CVE remediation and long-term support. - **Docker Hub Content Categ
   * Tags: `agents`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -6553,6 +6565,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.14119>
 
+* **[felladrin/awesome-ai-web-search](ai/rag/felladrin-awesome-ai-web-search.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Curated AI Web Search Tools**: Aggregates software enabling AI-assisted web search, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems. - **Generative AI Integration**: Focuses on tools leveraging LLMs for
+  * Tags: `github-repo`, `hackernews`, `html`, `rag`
+  * Source URL: <https://github.com/felladrin/awesome-ai-web-search>
+
 * **[Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](ai/models/fetch-consolidates-ai-tools-and-saves-30-developme.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS
   * Source URL: <https://huggingface.co/blog/fetch-eap-case-study>
@@ -6568,9 +6585,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents>
 
 * **[Gemini Developer API | Gemma open models | Google AI for Developers](ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md)** (`framework` | `useful` tier)
-  * Summary: - **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code transformation in Google AI Studio. - **On-Device & Edge AI**: Supports deployment of li
+  * Summary: - **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt evaluation and code transformation in Google AI Studio. - **On-Device & Edge AI**: Supports deployment of lig
   * Tags: `agents`, `benchmark`, `deepmind`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://ai.google.dev/>
+  * Source URL: <http://ai.google.dev/>
 
 * **[Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](ai/research/arxiv-2606-14718.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14718v1 Announce Type: cross Abstract: As Artificial Intelligence (AI) literacy initiatives expand in K-12 settings, understanding how gender shapes student baseline perceptions, tool-use, and responsiveness to interventions is essential f
@@ -6616,10 +6633,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.snowflake.com/blog>
 
-* **[iPhone - Apple](ai/resources/iphone-apple.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Trade-in Credits**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro models, with details available via Apple’s trade-in program. - **A19/A19 Pro Chipset**: New iPhone models feature advanced Apple silic
-  * Tags: `openai`, `paper`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://www.apple.com/iphone/>
+* **[jamwithai/production-agentic-rag-course](ai/rag/jamwithai-production-agentic-rag-course.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Course Focus**: GitHub repository offering a structured course on building production-grade **Agentic RAG (Retrieval-Augmented Generation)** systems in Python. - **Scale & Activity**: High community engagement with **7,021 stars** and **1,575 for
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/jamwithai/production-agentic-rag-course>
 
 * **[JetBrains AI - The JetBrains Blog](ai/rag/jetbrains-ai-the-jetbrains-blog.md)** (`framework` | `useful` tier)
   * Summary: - **Junie AI Coding Agent**: Transitioned from experimental to production-ready within JetBrains IDEs and terminals, leveraging native tool integration for enhanced development workflows. - **Mellum2 Open-Source Model**: A 12B-parameter model optimiz
@@ -6642,7 +6659,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://langfuse.com>
 
 * **[langgenius/dify](ai/rag/langgenius-dify.md)** (`framework` | `essential` tier)
-  * Summary: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and workflows with low/no-code tools, supporting LLM integrations (OpenAI, GPT-4, Gemini) and multi-agen
+  * Summary: - **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and orchestrating agentic AI workflows with low-code/no-code capabilities, supporting LLM integrations (OpenAI, GPT-4, Gemini) and multi-agent systems.
   * Tags: `agents`, `frontend_ui`, `github-repo`, `models`, `openai`, `rag`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/langgenius/dify>
 
@@ -6676,12 +6693,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.26185>
 
-* **[neuml/txtai](ai/rag/neuml-txtai.md)** (`framework` | `useful` tier)
-  * Summary: - **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, vector databases, and transformers for end-to-end AI pipelines. - **Core Capabilities**:
-  * Source URL: <https://github.com/neuml/txtai?source=post_page>
-
 * **[onyx-dot-app/onyx](ai/rag/onyx-dot-app-onyx.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM, enabling flexible deployment across diverse language models for enterprise and self-hosted use. - **Advanced RAG & Vector Search**: Implements Retrieval-
+  * Summary: - **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends. - **Enterprise-Grade Features**: Implements **RAG (Retrieval-Aug
   * Tags: `frontend_ui`, `github-repo`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/onyx-dot-app/onyx>
 
@@ -6690,10 +6703,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://blogs.opera.com/desktop>
 
-* **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** (`template` | `useful` tier)
-  * Summary: - **Cloud-native RAG & AI pipeline templates**: Pre-configured, Docker-optimized deployments for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization. - **Multi-source real-time data integration**:
-  * Tags: `github-repo`, `jupyter notebook`, `openai`, `rag`, `workflows`
-  * Source URL: <https://github.com/pathwaycom/llm-app>
+* **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** (`framework` | `useful` tier)
+  * Summary: - **RAG Framework**: Python-based Retrieval Augmented Generation (RAG) framework integrating Pinecone's vector database for enhanced LLM context retrieval and generation. - **Context Engine**: Provides a structured context engine to optimize prompt a
+  * Source URL: <https://github.com/pinecone-io/canopy?source=post_page>
 
 * **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](ai/research/arxiv-2606-14356.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14356v1 Announce Type: cross Abstract: Applications in the 3D Computing Continuum, which unifies edge, cloud, and space, require combining multiple AI tasks such as object detection, time-series analytics, and natural language processing i
@@ -6709,6 +6721,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17164v1 Announce Type: cross Abstract: Prompting has become the primary interface between humans and generative AI, yet many natural language prompts remain fragile: roles, goals, constraints, and expected outputs are often buried in prose
   * Tags: `agents`, `anthropic`, `models`, `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.17164>
+
+* **[python/typeshed](ai/resources/python-typeshed.md)** (`framework` | `useful` tier)
+  * Summary: - **Purpose**: Provides static type stubs for Python libraries, enabling type checking and IDE support without modifying original source code. - **Content**: Repository contains `.pyi` stub files for Python standard library and third-party packages,
+  * Tags: `github-repo`, `python`
+  * Source URL: <https://github.com/python/typeshed>
 
 * **[RAG Status Template (Word, Excel)](ai/rag/rag-status-template-word-excel.md)** (`template` | `useful` tier)
   * Summary: NewExplore Mastt's New AI FeaturesAboutProduct The PlatformMastt AIReal AI tools you can use today, integrated into the Mastt PlatformPlatform OverviewUnified platform for construction project managementProjectCore workspace to manage a single projec
@@ -6789,19 +6806,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <http://www.cs.utexas.edu>
 
 * **[vercel-labs/workflow-builder-template](ai/rag/vercel-labs-workflow-builder-template.md)** (`template` | `useful` tier)
-  * Summary: - **Visual AI Workflow Automation**: Template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for frontend/backend integration. - **Agent-Based Architecture**: Supports modular AI agent components f
-  * Tags: `agents`, `github-repo`, `rag`, `scripts`, `typescript`, `workflows`
+  * Summary: - **Platform Overview**: Visual AI workflow automation platform enabling drag-and-drop construction of multi-agent systems with TypeScript-based orchestration. - **Technical Stack**: Built on Vercel’s infrastructure with TypeScript, supporting agent-
+  * Tags: `agents`, `github-repo`, `hackernews`, `rag`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/vercel-labs/workflow-builder-template>
 
 * **[What is DataLab? | DataLab Docs](ai/rag/what-is-datalab-datalab-docs.md)** (`tutorial` | `useful` tier)
   * Summary: - **AI-Powered Data Notebook**: Integrates generative AI for natural language querying ("chat with your data"), includes a full-featured IDE for code review/execution, and auto-generates shareable reports from analyses. - **Cloud-Based Environment**:
   * Tags: `agents`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://datalab-docs.datacamp.com>
-
-* **[What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](ai/rag/what-is-retrieval-augmented-generation-and-what-do.md)** (`benchmark` | `useful` tier)
-  * Summary: - **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, cost reduction, and security hardening for scalable workflows. - **Open-Source Contributions**: Activ
-  * Tags: `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
-  * Source URL: <https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/>
 
 ## Ai — Resources
 
@@ -7056,7 +7068,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://android-developers.googleblog.com/2023/12/a-new-foundation-for-ai-on-android.html>
 
 * **[Android Open Source Project](ai/resources/android-open-source-project.md)** (`reference` | `reference` tier)
-  * Summary: - **AOSP Release Schedule**: Starting 2026, AOSP source code will be published bi-annually (Q2 and Q4) to align with the trunk-stable development model, using the `android-latest-release` manifest branch for the most recent release. - **Feature Launc
+  * Summary: - **AOSP Release Schedule**: Starting 2026, AOSP source code will be published bi-annually (Q2 and Q4) to align with the trunk stable development model, using the `android-latest-release` manifest branch for the most recent release. - **Feature Launc
   * Tags: `producthunt`, `web-crawled`
   * Source URL: <https://source.android.com>
 
@@ -7596,7 +7608,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dovecot.org/upgrader>
 
 * **[Configure security](ai/resources/configure-security.md)** (`reference` | `reference` tier)
-  * Summary: - **Security Policy**: Hugo enforces a default-deny security policy via allowlists for `os/exec`, remote operations, and environment access, failing builds on unauthorized attempts with detailed error messages. - **Configuration Structure**: Security
+  * Summary: - **Default Deny Policy**: Hugo enforces a restrictive security model by default, blocking `os/exec`, remote communication, and similar operations unless explicitly allowed via allowlists; unauthorized operations fail with detailed error messages. -
   * Tags: `frontend_ui`, `reddit`, `web-crawled`
   * Source URL: <https://gohugo.io/configuration/security/>
 
@@ -7611,7 +7623,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://services.cnil.fr>
 
 * **[Contact us | ICO](ai/resources/contact-us-ico.md)** (`reference` | `reference` tier)
-  * Summary: - **Telephone Contact Issue**: The ICO is experiencing a service disruption affecting telephone communication with customers, with ongoing investigation to restore functionality. - **Alternative Contact Methods**: Customers are advised to use the Liv
+  * Summary: - **Telephone contact issue**: Current disruption affecting ICO's telephone support, under active investigation with no ETA for resolution. - **Alternative support**: Livechat service operational for immediate assistance during telephone outage. - **
   * Tags: `web-crawled`
   * Source URL: <https://ico.org.uk/global/contact-us/>
 
@@ -7619,6 +7631,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Requirement**: JavaScript execution is mandatory for full site functionality and content rendering. - **Impact**: Disabling JavaScript may result in limited or non-functional user interface and interactive elements. - **Resolution**: Enable JavaS
   * Tags: `web-crawled`
   * Source URL: <https://verify.contentauthenticity.org>
+
+* **[Continuity features and requirements for Apple devices - Apple Support](ai/resources/continuity-features-and-requirements-for-apple-dev.md)** (`reference` | `reference` tier)
+  * Summary: - **Continuity Features**: Apple devices support seamless integration via features like AirDrop, Handoff, Universal Clipboard, and Universal Control, requiring specific OS versions (e.g., iOS 16+, macOS Ventura 13+, watchOS 3+). - **Hardware/OS Requi
+  * Tags: `frontend_ui`, `web-crawled`, `youtube`
+  * Source URL: <https://support.apple.com/108046>
 
 * **[Contributing to Docs](ai/resources/contributing-to-docs.md)** (`reference` | `reference` tier)
   * Summary: - Sentry documentation is a static site generated using [Next.js](https://nextjs.org/). - Contributions to the docs are open-source and accepted via GitHub (e.g., typo fixes, content updates). - Contribution guidelines are structured into sections: e
@@ -7826,7 +7843,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://creativecommons.org/licenses/by-sa/3.0>
 
 * **[Deed - Attribution-ShareAlike 4.0 International - Creative Commons](ai/resources/deed-attribution-sharealike-4-0-international-crea.md)** (`reference` | `reference` tier)
-  * Summary: - A **canonical URL** is a web address designated as the preferred version of a page to consolidate ranking signals and avoid duplicate content issues. - Specified via the `<link rel="canonical">` HTML tag or HTTP header, it instructs search engines
+  * Summary: - A **canonical URL** is a standardized, preferred URL for a webpage, specified using the `<link rel="canonical">` HTML element or HTTP header to prevent duplicate content issues. - It consolidates ranking signals (e.g., backlinks, PageRank) to a sin
   * Tags: `web-crawled`
   * Source URL: <https://creativecommons.org/licenses/by-sa/4.0/>
 
@@ -7841,8 +7858,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://trust.deepset.ai>
 
 * **[deepset · GitHub](ai/resources/deepset-github.md)** (`reference` | `reference` tier)
-  * Summary: - **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and no stars; it has 10 followers and 1 following account. - **Repository Highlights**: Key repositories include `httphashtool` (Go-bas
-  * Tags: `hackernews`, `web-crawled`
+  * Summary: - **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and 0 stars, managed under the username `@deepset`. - **Repository Focus**: Primary repositories include `httphashtool` (Go-based HTTP
+  * Tags: `web-crawled`
   * Source URL: <https://github.com/deepset>
 
 * **[Defense Technical Information Center](ai/resources/defense-technical-information-center.md)** (`reference` | `reference` tier)
@@ -7921,8 +7938,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://nicolasconstant.github.io/sengi>
 
 * **[disintegration/imaging](ai/resources/disintegration-imaging.md)** (`reference` | `reference` tier)
-  * Summary: - **Core Functionality**: Go-based image processing library supporting operations like resizing, cropping, rotation, blurring, brightness/contrast adjustments, gamma correction, and convolution. - **Performance & API**: Optimized for simplicity with
-  * Tags: `github-repo`, `go`
+  * Summary: - **Core Functionality**: Go-based image processing library supporting operations like resizing, cropping, rotating, blurring, adjusting brightness/contrast/gamma, and applying convolution kernels. - **Performance & Features**: Optimized for speed wi
+  * Tags: `github-repo`, `go`, `hackernews`
   * Source URL: <https://github.com/disintegration/imaging#image-resizing>
 
 * **[Diálogos de Privacidad. Entrevistas con conciencia | LAB](ai/resources/dialogos-de-privacidad-entrevistas-con-conciencia.md)** (`reference` | `reference` tier)
@@ -8145,10 +8162,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://exploringjs.com>
 
+* **[facelessuser/soupsieve](ai/resources/facelessuser-soupsieve.md)** (`reference` | `reference` tier)
+  * Summary: - **CSS Selector Engine**: Implements a modern, full-featured CSS selector engine (CSS4 compliant) for parsing and querying HTML/XML documents via BeautifulSoup. - **Lightweight & Fast**: Optimized for performance, providing efficient parsing and tra
+  * Tags: `github-repo`, `python`, `reddit`
+  * Source URL: <https://github.com/facelessuser/soupsieve>
+
 * **[Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](ai/resources/factory-images-for-nexus-and-pixel-devices-google.md)** (`reference` | `reference` tier)
-  * Summary: - Factory images restore Nexus/Pixel devices to original firmware but **erase all data** and require **bootloader unlocking**, increasing security risks. - **May 2025/2026 updates** for Pixel 6/8/10 series increment bootloader anti-rollback, preventi
+  * Summary: - Factory images restore Nexus/Pixel devices to original firmware but erase all data; OTA images are safer alternatives. - May 2025/2026 updates for Pixel 6/8/10 series increment bootloader anti-rollback, requiring post-update bootloader flashing to
   * Tags: `reddit`, `web-crawled`
-  * Source URL: <https://developers.google.com/android/images/>
+  * Source URL: <http://developers.google.com/android/images/>
 
 * **[Family Link from Google - Family Safety & Parental Control Tools](ai/resources/family-link-from-google-family-safety-parental-con.md)** (`reference` | `reference` tier)
   * Summary: - **Screen Time & App Management**: Enables granular control over device usage via configurable daily time limits, app-specific restrictions (e.g., unlimited for educational apps), and automated schedules (Downtime/School Time) with support for block
@@ -8356,9 +8378,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/github/codeql>
 
 * **[gitiles - Git at Google](ai/resources/gitiles-git-at-google.md)** (`reference` | `reference` tier)
-  * Summary: - **Purpose & Design**: Gitiles is a lightweight, read-only Git repository browser built on JGit, prioritizing simplicity with no access controls, write operations, or JavaScript dependencies. - **Features**: Automatically renders Markdown (`*.md`) f
+  * Summary: - **Gitiles** is a lightweight, read-only Git repository browser built on **JGit**, prioritizing simplicity with no access controls, write operations, or JavaScript dependencies. - Supports **Markdown rendering** (`*.md` → HTML) and is configurable v
   * Tags: `hackernews`, `web-crawled`
-  * Source URL: <https://gerrit.googlesource.com/gitiles>
+  * Source URL: <https://gerrit.googlesource.com/gitiles/>
 
 * **[Give users admin permissions | Atlassian Support](ai/resources/give-users-admin-permissions-atlassian-support.md)** (`reference` | `reference` tier)
   * Summary: - **Admin Role Assignment**: Admin roles (app admin, user access admin, site admin, organization admin) are granted via Atlassian Administration > Directory > Users, with granular permissions tied to specific apps or sites; app admins cannot access A
@@ -8436,9 +8458,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.google.com/accessibility?sjid=2138668768838005940-NA#topic=9071908&utm_medium=referral&utm_campaign=productspage>
 
 * **[Google Account](ai/resources/google-account.md)** (`reference` | `reference` tier)
-  * Summary: - Google Account settings interface provides centralized management of user data via categories: *Personal info*, *Data & privacy*, *Security & sign-in*, *People & sharing*, and *Payments & subscriptions*. - *Personal info* section allows modificatio
+  * Summary: - Google Account settings provide centralized management of user data across services, including personal information, privacy controls, security settings, sharing permissions, and payment/subscription details. - The "Personal info" section allows us
   * Tags: `web-crawled`
-  * Source URL: <https://myaccount.google.com/personal-info>
+  * Source URL: <https://myaccount.google.com/personal-info?utm_source=pp>
 
 * **[Google For Families Help](ai/resources/google-for-families-help.md)** (`reference` | `reference` tier)
   * Summary: - **Family Link** enables parental control over child Google Accounts, including app management, screen time limits, and activity monitoring via supervised accounts. - **Family Group Management** allows creation/management of shared Google services (
@@ -8715,11 +8737,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <http://html5boilerplate.com>
 
-* **[Hugging Face – The AI community building the future.](ai/resources/hugging-face-the-ai-community-building-the-future.md)** (`reference` | `reference` tier)
-  * Summary: - **Model Overview**: Unlimited-OCR is a high-performance Optical Character Recognition (OCR) model developed by Baidu, optimized for extracting text from images with high accuracy and speed. - **Key Features**: Supports multilingual text recognition
-  * Tags: `hackernews`, `web-crawled`
-  * Source URL: <https://huggingface.co/>
-
 * **[Hyperskill](ai/resources/hyperskill.md)** (`reference` | `reference` tier)
   * Summary: No summary provided. Reference resource: Hyperskill
   * Tags: `web-crawled`
@@ -8876,7 +8893,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://nixtla.io/docs>
 
 * **[Introduction | Electron](ai/resources/introduction-electron.md)** (`reference` | `reference` tier)
-  * Summary: - **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based cross-platform desktop applications without native development requirements. - **Core components**: Electron apps consist
+  * Summary: - Electron integrates Chromium and Node.js into a single binary, enabling cross-platform desktop app development using JavaScript, HTML, and CSS without requiring native development expertise. - Electron Fiddle is an official sandbox tool for prototy
   * Tags: `producthunt`, `web-crawled`
   * Source URL: <https://electronjs.org/docs/latest>
 
@@ -9071,7 +9088,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://law.library.cornell.edu>
 
 * **[Learn about Google Play refund policies - Google Play Help](ai/resources/learn-about-google-play-refund-policies-google-pla.md)** (`reference` | `reference` tier)
-  * Summary: - **Refund Eligibility & Conditions**: Refunds for Google Play purchases depend on transaction type, timing, location, and payment method; unauthorized transactions must be reported within 120 days, while accidental purchases by authorized users requ
+  * Summary: - **Refund Eligibility & Restrictions**: Refunds for Google Play purchases depend on factors like purchase type, timing, location, and payment method; unauthorized transactions must be reported within 120 days, while accidental family purchases requi
   * Tags: `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://support.google.com/googleplay/answer/134336>
 
@@ -9214,6 +9231,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **HTML Renderings**: Provides HTML versions of Linux man pages from the *man-pages* project and curated pages from other free software projects, accessible via structured directories (by section, alphabetically, or by project). - **Sectioned Access
   * Tags: `web-crawled`
   * Source URL: <https://man7.org/linux/man-pages/index.html>
+
+* **[Litmaps](ai/resources/litmaps.md)** (`reference` | `reference` tier)
+  * Summary: - **Error Indication**: The message "You need to enable JavaScript to run this app" indicates that the web application requires JavaScript execution to function, and the browser has JavaScript disabled or is not supporting it. - **Technical Dependenc
+  * Tags: `hackernews`, `web-crawled`
+  * Source URL: <https://app.litmaps.com/?auth=sign-in>
 
 * **[LittleSound (Rizumu Ayaka) · GitHub](ai/resources/littlesound-rizumu-ayaka-github.md)** (`reference` | `reference` tier)
   * Summary: - **Vue Vapor Mode Development**: Leading the next major upgrade for Vue.js, introducing Vapor Mode for enhanced performance and efficiency in the Vue ecosystem. - **Vue Core Contributions**: Refactored Vue's Watch API and introduced a new API, merge
@@ -9370,6 +9392,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://mobilizon.fr>
 
+* **[modersohn/delphi-tree-sitter](ai/resources/modersohn-delphi-tree-sitter.md)** (`reference` | `reference` tier)
+  * Summary: - **Delphi Binding for Tree-sitter**: Provides a Pascal interface to integrate the tree-sitter parsing library into Delphi applications. - **Repository Metadata**: 29 stars, 9 forks, last updated April 10, 2026; primarily a Pascal-based project with
+  * Tags: `github-repo`, `hackernews`, `pascal`
+  * Source URL: <https://github.com/modersohn/delphi-tree-sitter>
+
 * **[MongoDB Courses and Trainings | MongoDB University](ai/resources/mongodb-courses-and-trainings-mongodb-university.md)** (`reference` | `reference` tier)
   * Summary: - JavaScript is required for Google AdSense to function, as it enables dynamic content loading and ad rendering. - Disabling JavaScript prevents AdSense from displaying ads or tracking user interactions, impacting revenue generation. - To resolve thi
   * Tags: `reddit`, `web-crawled`
@@ -9496,7 +9523,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://deepnote.notion.site/Media-Press-Kit-1ee4dc7a34a14cb8964700f78ec6082f>
 
 * **[npm Docs](ai/resources/npm-docs.md)** (`reference` | `reference` tier)
-  * Summary: - **npm CLI**: Command-line interface for managing npm registries, packages, and modules with commands like `npm install`, `npm publish`, and `npm audit`. - **Registry & Packages**: Centralized repository for JavaScript packages with metadata, versio
+  * Summary: - **npm CLI**: Command-line interface for managing npm registry interactions, package installations, and project dependencies via commands like `npm install`, `npm publish`, and `npm audit`. - **Package Management**: Supports semantic versioning (`se
   * Tags: `web-crawled`
   * Source URL: <https://docs.npmjs.com/>
 
@@ -9656,7 +9683,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.getpelican.com>
 
 * **[Permissions | Node.js v26.4.0 Documentation](ai/resources/permissions-node-js-v26-4-0-documentation.md)** (`reference` | `reference` tier)
-  * Summary: - **Permission Model**: Introduced in Node.js v20.0.0, this model restricts access to system resources (e.g., file system, network, child processes) via the `--permission` CLI flag, enforcing a "seat belt" approach to prevent unintended resource acce
+  * Summary: - **Permission Model**: Introduced in Node.js v20.0.0, the model restricts access to system resources (e.g., file system, network, child processes) via the `--permission` CLI flag, denying access by default unless explicitly allowed via granular flag
   * Tags: `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://nodejs.org/api/permissions.html#permission-model>
 
@@ -9859,6 +9886,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **QuakeML** is an open, modular XML-based standard for seismological data representation, designed for extensibility to cover waveform data, macroseismic information, and other advanced seismological fields. - **Version 1.2** is the stable release,
   * Tags: `hackernews`, `web-crawled`
   * Source URL: <https://quake.ethz.ch/quakeml>
+
+* **[Quick Start - Soup Sieve](ai/resources/quick-start-soup-sieve.md)** (`reference` | `reference` tier)
+  * Summary: - **CSS Selector Engine**: Soup Sieve is a CSS selector library for Beautiful Soup 4, implementing selectors from CSS level 1 to level 4 drafts, replacing Beautiful Soup's built-in `select` feature since version 4.7.0. - **API & Functionality**: Prov
+  * Tags: `web-crawled`
+  * Source URL: <https://facelessuser.github.io/soupsieve/>
 
 * **[Quickstart - Furo](ai/resources/quickstart-furo.md)** (`reference` | `reference` tier)
   * Summary: - Install Furo via PyPI: `pip install furo` - Set `html_theme = "furo"` in `conf.py` - Rebuild Sphinx docs to apply the theme
@@ -10141,9 +10173,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://cloud.shure.com>
 
 * **[Sign in - Google Accounts](ai/resources/sign-in-google-accounts.md)** (`reference` | `reference` tier)
-  * Summary: - **Authentication Interface**: Google's sign-in page requires user credentials (email/phone) for account access, with a "Forgot email?" recovery option redirecting to `usernamerecovery` endpoint. - **Session Security**: Provides a "private browsing"
-  * Tags: `hackernews`, `web-crawled`
-  * Source URL: <http://fi.google.com/account#plan>
+  * Summary: - **Authentication Flow**: Utilizes OAuth 2.0-based Google Sign-In with optional two-factor authentication (2FA) via SMS or authenticator apps. - **Session Management**: Supports secure session handling with "Guest mode" for privacy and automatic sig
+  * Tags: `web-crawled`
+  * Source URL: <https://security.google.com/settings/security/permissions>
 
 * **[Sign in to Chrome - Computer - Google Chrome Help](ai/resources/sign-in-to-chrome-computer-google-chrome-help.md)** (`reference` | `reference` tier)
   * Summary: - **Cross-device synchronization**: Chrome sign-in enables syncing bookmarks, passwords, and browsing history across devices via Google Account integration, ensuring data persistence even after device changes or loss. - **AI-enhanced browsing**: Sign
@@ -10244,6 +10276,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Forschungsabteilungen**: GFZ betreibt zwei Hauptabteilungen für Weltraumwetter: *Geomagnetismus* (mit Observatorium Niemegk) und *Weltraumphysik & Weltraumwetter*, die sich auf Strahlungsgürtelmodellierung, Ringstrommodellierung und geomagnetisch
   * Tags: `hackernews`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://spaceweather.gfz.de/de>
+
+* **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** (`reference` | `reference` tier)
+  * Summary: - **Repository Overview**: Official examples demonstrating Speechify AI API integration, hosted on GitHub with minimal activity (9 stars, 2 forks). - **Technical Stack**: Examples provided in HTML format, last updated on 2026-06-02. - **Purpose**: Se
+  * Tags: `github-repo`, `hackernews`, `html`
+  * Source URL: <https://github.com/SpeechifyInc/ai-api-examples>
 
 * **[Sphinx — Sphinx documentation](ai/resources/sphinx-sphinx-documentation.md)** (`reference` | `reference` tier)
   * Summary: - **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown, enabling structured technical documentation with tables, code blocks, math notations, and cross-references across projects via Intersphinx. - **Multi-Form
@@ -10366,7 +10403,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/supermlorg>
 
 * **[superproject](ai/resources/superproject.md)** (`reference` | `reference` tier)
-  * Summary: - **JavaScript Dependency**: The website mandates client-side JavaScript execution for full functionality. - **Dynamic Content Rendering**: Core content and interactive elements are dynamically generated via JavaScript, not server-side. - **Browser L
+  * Summary: - **JavaScript Dependency**: The website enforces client-side execution of JavaScript for full functionality, disabling static content rendering. - **Security/Compatibility Check**: Likely a fallback mechanism to ensure modern browser support or miti
   * Tags: `web-crawled`
   * Source URL: <https://cs.android.com/android/platform/superproject>
 
@@ -10454,6 +10491,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and creator tools. - **Developer & Policy Resources**: Provides APIs, SDKs, and documentation via
   * Tags: `web-crawled`, `youtube`
   * Source URL: <https://www.youtube.com/@tensorblue>
+
+* **[tensorblue · GitHub](ai/resources/tensorblue-github.md)** (`reference` | `reference` tier)
+  * Summary: - GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified items. - User account shows **2 followers** and **0 following**, with no visible activity or contributions in the provided data. - A
+  * Tags: `web-crawled`
+  * Source URL: <https://github.com/tensorblue>
 
 * **[tensorchord/awesome-llmops](ai/resources/tensorchord-awesome-llmops.md)** (`reference` | `reference` tier)
   * Summary: An awesome & curated list of best LLMOps tools for developers
@@ -10635,6 +10677,21 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`
   * Source URL: <https://webpack.js.org/guides/tree-shaking/#mark-the-file-as-side-effect-free>
 
+* **[tree-sitter · GitHub](ai/resources/tree-sitter-github.md)** (`reference` | `reference` tier)
+  * Summary: - **Incremental Parsing Engine**: Tree-sitter is an incremental parsing library and parser generator that builds and updates concrete syntax trees (CSTs) for source files efficiently, enabling real-time parsing during text editor edits. - **Multi-Lan
+  * Tags: `reddit`, `web-crawled`
+  * Source URL: <https://github.com/tree-sitter>
+
+* **[tree-sitter/py-tree-sitter](ai/resources/tree-sitter-py-tree-sitter.md)** (`reference` | `reference` tier)
+  * Summary: - **Python Bindings for Tree-sitter**: Provides Python interfaces to the Tree-sitter parsing library, enabling efficient syntax tree parsing and manipulation in Python. - **C-Based Implementation**: Core functionality is implemented in C for performa
+  * Tags: `c`, `github-repo`, `reddit`
+  * Source URL: <https://github.com/tree-sitter/py-tree-sitter>
+
+* **[tree-sitter/tree-sitter-verilog](ai/resources/tree-sitter-tree-sitter-verilog.md)** (`reference` | `reference` tier)
+  * Summary: - **Grammar Implementation**: Provides a SystemVerilog grammar specification for `tree-sitter`, enabling parsing and syntax highlighting of SystemVerilog code. - **Repository Metrics**: 118 stars, 41 forks, last updated on 2026-06-27, with JavaScript
+  * Tags: `github-repo`, `javascript`, `reddit`
+  * Source URL: <https://github.com/tree-sitter/tree-sitter-verilog>
+
 * **[Trending Papers - Hugging Face](ai/resources/trending-papers-hugging-face.md)** (`reference` | `reference` tier)
   * Summary: - Introduces **Reference Sliding Window Attention (RSWA)** to mitigate quadratic memory growth in long-sequence OCR by restricting attention to a fixed-size sliding window around reference tokens. - Enables **multi-page transcription in a single forw
   * Tags: `paper`, `paperswithcode`, `web-crawled`
@@ -10739,6 +10796,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: ucpath.universityofcalifornia.edu?utm_source=ucop-staff-resources
   * Tags: `web-crawled`
   * Source URL: <https://ucpath.universityofcalifornia.edu?utm_source=ucop-staff-resources>
+
+* **[Understanding GitHub Code Search syntax - GitHub Docs](ai/resources/understanding-github-code-search-syntax-github-doc.md)** (`reference` | `reference` tier)
+  * Summary: - GitHub code search supports **boolean operations** (`AND`, `OR`, `NOT`), **exact string matching** (via quotes), and **regex** (enclosed in `/`), with default `AND` behavior for space-separated terms. - **Qualifiers** (`repo:`, `language:`, `path:`
+  * Tags: `reddit`, `web-crawled`
+  * Source URL: <https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax#using-boolean-operations>
 
 * **[unified - Open Collective](ai/resources/unified-open-collective.md)** (`reference` | `reference` tier)
   * Summary: - **unified** is a JavaScript ecosystem of 500+ packages for processing content as structured data, with over 1M projects using it (e.g., [MDX](https://mdxjs.com/)). - **Funding** is managed via Open Collective, supporting core maintainers, technical
@@ -11184,10 +11246,15 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Automation Workflows
 
+* **['Careless People' author claims Meta surveilled her for 12mos to enforce silence](ai/community/careless-people-author-claims-meta-surveilled-her.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by 1vuio0pswjnm7. Score: 85, Comments: 23. Original Link: https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026>
+
 * **[1. GEPA Overview - DSPy](ai/rag/1-gepa-overview-dspy.md)** (`prompt` | `useful` tier)
-  * Summary: - **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts in few rollouts. - **Core
+  * Summary: - **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts with minimal rollouts. - *
   * Tags: `anthropic`, `benchmark`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
-  * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview>
+  * Source URL: <https://dspy.ai/api/optimizers/GEPA/overview/>
 
 * **[1.1 Use a Pandoc version not bundled with the RStudio IDE | R Markdown Cookbook](ai/rag/1-1-use-a-pandoc-version-not-bundled-with-the-rstu.md)** (`template` | `useful` tier)
   * Summary: - R Markdown Cookbook provides structured guidance on advanced R Markdown usage, including installation (Pandoc, TinyTeX), document anatomy (YAML, code chunks), and rendering workflows (e.g., `knitr::spin` for converting R scripts to reports). - Cove
@@ -11210,7 +11277,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation>
 
 * **[15 Best Open-Source RAG Frameworks in 2026](ai/rag/15-best-open-source-rag-frameworks-in-2026.md)** (`framework` | `useful` tier)
-  * Summary: - **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` for structured content, `crawl` for site traversal, and `deep-research` for OpenAI-like research capabilities; integrates via API for dynamic site a
+  * Summary: - **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` for structured content, `crawl` for site traversal, and `deep-research` for OpenAI-like research capabilities via API. - **LangChain**: Modular RAG
   * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.firecrawl.dev/blog/best-open-source-rag-frameworks>
 
@@ -11230,7 +11297,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm>
 
 * **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (`framework` | `useful` tier)
-  * Summary: - **LangChain**: Open-source LLM toolkit with modular components (document loading, text splitting, embedding, retrieval) for end-to-end RAG pipelines, supporting integrations with OpenAI, Hugging Face, Azure, and multi-language support (Python, JS,
+  * Summary: - **LangChain**: Open-source LLM toolkit for building RAG pipelines, supporting document loading, text splitting, embedding, retrieval, and output generation with integrations for OpenAI, Hugging Face, Azure, and multi-language support (Python, JavaS
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
   * Source URL: <https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/>
 
@@ -11283,6 +11350,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Branching Model Overview**: Git-flow defines two persistent branches (`master` for production-ready code and `develop` for integration of new features) and three temporary branches (`feature`, `release`, `hotfix`) with strict merge rules and nami
   * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <http://nvie.com/posts/a-successful-git-branching-model>
+
+* **[A/B (seamless) system updates | Android Open Source Project](ai/rag/a-b-seamless-system-updates-android-open-source-pr.md)** (`tutorial` | `useful` tier)
+  * Summary: - **A/B System Updates Mechanism**: A/B (seamless) updates use dual partition slots (A/B) to ensure fault tolerance; `update_engine` streams OTA payloads directly to the inactive slot, minimizing downtime and enabling rollback if the new slot fails t
+  * Tags: `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://source.android.com/docs/core/ota/ab>
 
 * **[About building integrations - GitHub Docs](ai/rag/about-building-integrations-github-docs.md)** (`tutorial` | `useful` tier)
   * Summary: - **Integration Types**: GitHub integrations extend functionality via GitHub Apps (server/device-hosted), GitHub Actions workflows (event-triggered), or custom actions (workflow-executable code). - **API & Webhooks**: Integrations interact with GitHu
@@ -11379,8 +11451,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.schmidtsciences.org/schmidt-ai-in-science-postdocs>
 
-* **[AI Is Designing Radio Chips That Humans Couldn't Even Imagine](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Brajeshwar. Score: 97, Comments: 51. Original Link: https://spectrum.ieee.org/ai-radio-chip-design
+* **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Brajeshwar. Score: 159, Comments: 98. Original Link: https://spectrum.ieee.org/ai-radio-chip-design
   * Tags: `ai`, `hackernews`
   * Source URL: <https://spectrum.ieee.org/ai-radio-chip-design>
 
@@ -11404,15 +11476,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.17474>
 
-* **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** (`framework` | `essential` tier)
-  * Summary: - **Open-source context retrieval layer**: Provides a modular, API-driven infrastructure for AI agents to dynamically fetch and integrate contextual data from enterprise sources, enhancing retrieval-augmented generation (RAG) workflows. - **Multi-pro
+* **[airweave-ai/airweave](ai/rag/airweave-ai-airweave.md)** (`framework` | `useful` tier)
+  * Summary: - **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to dynamically fetch and integrate external context, enhancing retrieval-augmented generation (RAG) workflows with real-time data connectors. - **Enterprise
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/airweave-ai/airweave>
-
-* **[Ais1on/CTI-RAG](ai/rag/ais1on-cti-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Framework**: CTI-RAG implements a Retrieval-Augmented Generation (RAG) system tailored for Cyber Threat Intelligence (CTI), combining knowledge graph integration with causal reasoning to enhance threat analysis. - **Technical Stack**: Built in Py
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/Ais1on/CTI-RAG>
 
 * **[AL2 - Lab Eval | App Defense Alliance](ai/rag/al2-lab-eval-app-defense-alliance.md)** (`benchmark` | `useful` tier)
   * Summary: - **Assessment Workflow**: MASA AL2 lab evaluates public Play Store apps via human analysis using specialized tools, providing remediation feedback to developers; completion involves a validation report sent to Google for security badge eligibility (
@@ -11480,12 +11547,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://antora.org>
 
 * **[apecloud/ApeRAG](ai/rag/apecloud-aperag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Multi-modal indexing**: Supports structured/unstructured data (text, images, etc.) via graph-based retrieval for enhanced context engineering. - **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP)
+  * Summary: - **Multi-modal indexing**: Supports both structured (knowledge graphs) and unstructured (text, images) data integration for GraphRAG pipelines. - **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) f
   * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/apecloud/ApeRAG>
 
 * **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** (`tutorial` | `useful` tier)
-  * Summary: - **M5 Chip Integration**: Apple Vision Pro integrates the new M5 chip, delivering high-performance mobile and wearable computing with advanced spatial processing for seamless digital-physical content blending. - **Dual Knit Band & Fit Dial**: Featur
+  * Summary: - **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital content with physical space for spatial computing experiences. - **Dual Knit Band
   * Tags: `frontend_ui`, `hackernews`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.apple.com/apple-vision-pro/>
 
@@ -11569,11 +11636,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://github.blog/2020-02-14-automating-mysql-schema-migrations-with-github-actions-and-more/>
 
-* **[aws-samples/amazon-bedrock-samples](ai/rag/aws-samples-amazon-bedrock-samples.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Overview**: Provides starter examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) with Jupyter Notebook implementations. - **Key Features**: Demonstrates use cases for embeddings, generative AI,
-  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `models`, `rag`, `workflows`
-  * Source URL: <https://github.com/aws-samples/amazon-bedrock-samples>
-
 * **[Azure Data Studio - Microsoft SQL Server Blog](ai/rag/azure-data-studio-microsoft-sql-server-blog.md)** (`tutorial` | `useful` tier)
   * Summary: - **Consolidation & Retirement**: Azure Database Migration tools are being consolidated and retired, requiring users to transition to newer migration services for database modernization. - **Cloud Modernization**: Migration to Azure enables enterpris
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
@@ -11583,31 +11645,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Defense-in-Depth Security**: Azure employs a multilayered security approach across physical datacenters, compute, storage, networking, applications, and identity, ensuring protection even if one layer is compromised. Includes built-in protections
   * Tags: `agents`, `benchmark`, `creative_dev`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/security/fundamentals/overview.md>
-
-* **[Azure-Samples/azure-openai-rag-workshop-template](ai/rag/azure-samples-azure-openai-rag-workshop-template.md)** (`template` | `useful` tier)
-  * Summary: - **Purpose**: Template for implementing a Retrieval-Augmented Generation (RAG) system using Azure OpenAI, enabling users to build a custom ChatGPT-like application with enhanced retrieval capabilities. - **Technical Stack**: Built in **TypeScript**,
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `models`, `openai`, `rag`, `typescript`, `workflows`
-  * Source URL: <https://github.com/Azure-Samples/azure-openai-rag-workshop-template>
-
-* **[Azure-Samples/chat-with-your-data-solution-accelerator](ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)** (`template` | `useful` tier)
-  * Summary: - **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, with Python-based deployment templates. - **Key Features**: Includes pre-configured **AZD temp
-  * Tags: `github-repo`, `openai`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator>
-
-* **[Azure/GenAIOps-project-template](ai/rag/azure-genaiops-project-template.md)** (`template` | `useful` tier)
-  * Summary: - **Bicep-based IaC Template**: Provides Infrastructure-as-Code (IaC) for deploying a Generative AI Ops RAG (Retrieval-Augmented Generation) solution on Azure, leveraging Bicep for declarative resource provisioning. - **RAG Pipeline Integration**: In
-  * Tags: `bicep`, `github-repo`, `openai`, `rag`, `workflows`
-  * Source URL: <https://github.com/Azure/GenAIOps-project-template>
-
-* **[bakrianoo/mini-rag](ai/rag/bakrianoo-mini-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Educational RAG Pipeline**: Demonstrates end-to-end implementation of a production-grade Retrieval-Augmented Generation (RAG) system using FastAPI, Python, and Docker for modular deployment and scalability. - **Modular Architecture**: Implements
-  * Tags: `github-repo`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/bakrianoo/mini-rag>
-
-* **[bangoc123/retrieval-backend-with-rag](ai/rag/bangoc123-retrieval-backend-with-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Implementation**: Python-based Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, integrating vector search and LLM inference. - **Key Features**: Demonstrates best practices for Vietnamese RAG pipelines, i
-  * Tags: `github-repo`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/bangoc123/retrieval-backend-with-rag>
 
 * **[Baseline | web.dev](ai/resources/baseline-web-dev.md)** (`tutorial` | `useful` tier)
   * Summary: - **Baseline Definition & Governance**: Defined by the WebDX Community Group, Baseline provides interoperability status for web platform features across core browsers (Chrome, Edge, Firefox, Safari). Features progress through stages: *Limited availab
@@ -11709,6 +11746,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://pkgdown.r-lib.org>
 
+* **[build · PyPI](ai/resources/build-pypi.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Python Build Frontend**: `build` is a minimal, correct Python build frontend compliant with PEP 517/518, enabling isolated builds of Python packages into source distributions (SDist) and wheels via `python -m build` or `pyproject-build`. - **Depe
+  * Tags: `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://pypi.org/project/build/>
+
 * **[Building a RAG Application - GeeksforGeeks](ai/rag/building-a-rag-application-geeksforgeeks.md)** (`benchmark` | `useful` tier)
   * Summary: - **RAG Architecture**: Combines a *retriever* (FAISS-indexed embeddings via `sentence-transformers`) to fetch relevant documents and a *generator* (FLAN-T5) to synthesize context-aware responses from retrieved data. - **Implementation Workflow**: Do
   * Tags: `benchmark`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -11745,7 +11787,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.askpython.com/python/examples/building-rag-applications-with-python>
 
 * **[Building RAG Systems: From Zero to Hero - DEV Community](ai/rag/building-rag-systems-from-zero-to-hero-dev-communi.md)** (`dataset` | `useful` tier)
-  * Summary: - **RAG Architecture**: Three-phase pipeline—(1) **Ingestion**: documents chunked, embedded via models (e.g., `text-embedding-3-large`), and stored in vector DBs (FAISS/Weaviate); (2) **Retrieval**: user queries embedded and matched via semantic/vect
+  * Summary: - **RAG Architecture**: A production RAG system consists of three phases: (1) **Ingestion** (documents → chunking → embedding → vector DB storage), (2) **Retrieval** (user query → embedding → vector search → top-K chunks), and (3) **Generation** (que
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://dev.to/gautamvhavle/building-production-rag-systems-from-zero-to-hero-2f1i>
 
@@ -11790,9 +11832,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://chain.link>
 
 * **[Changelog - Docs by LangChain](ai/rag/changelog-docs-by-langchain.md)** (`tutorial` | `useful` tier)
-  * Summary: - **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` via `readRaw()`), simplif
-  * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://docs.langchain.com/oss/javascript/releases/changelog>
+  * Summary: - **`deepagents` v0.6.0**: Introduced experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; added `DeltaChannel` (beta) for incremental delta storage in message history/checkpoints; introduced `Har
+  * Tags: `agents`, `anthropic`, `openai`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://docs.langchain.com/oss/python/releases/changelog>
 
 * **[ChiggyJain/PythonLangSmithTutorial](ai/rag/chiggyjain-pythonlangsmithtutorial.md)** (`benchmark` | `useful` tier)
   * Summary: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, showcasing best practices for observability and tracing w
@@ -11890,8 +11932,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/orgs/community/discussions>
 
 * **[Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)** (`template` | `useful` tier)
-  * Summary: - **Template Repository**: Provides a starter framework for building an **agentic RAG (Retrieval-Augmented Generation) chatbot** optimized for hackathon-style development. - **Python-Based**: Entirely implemented in Python, leveraging modern librarie
-  * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `python`, `rag`, `workflows`
+  * Summary: - **Template Repository**: Provides a starter framework for building an agentic RAG (Retrieval-Augmented Generation) chatbot, designed for hackathon use cases. - **Python-Based**: Implemented entirely in Python, leveraging modern libraries for NLP an
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository>
 
 * **[conda-forge | community-driven packaging for conda](ai/rag/conda-forge-community-driven-packaging-for-conda.md)** (`tutorial` | `useful` tier)
@@ -11979,10 +12021,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.15004>
 
-* **[DagsHub: Everything you need to manage multimodal AI](ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md)** (`framework` | `useful` tier)
-  * Summary: - **Unified AI Data & Model Management**: Platform supports multimodal (vision, audio, LLM) data curation, annotation, experiment tracking, and model versioning with lineage, integrating seamlessly with ML frameworks and MLOps tools. - **Scalable Pla
+* **[DagsHub: Everything you need to manage multimodal AI](ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md)** (`dataset` | `useful` tier)
+  * Summary: - **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage from data to production. - **Scalable I
   * Tags: `dataset`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://dagshub.com>
+  * Source URL: <https://dagshub.com/>
 
 * **[Data at the Point of Care](ai/rag/data-at-the-point-of-care.md)** (`tutorial` | `useful` tier)
   * Summary: - **Purpose**: Data at the Point of Care (DPC) provides Original Medicare claims data to providers in structured FHIR format, enabling a comprehensive view of patients' medical history across care settings (e.g., hospitals, urgent care) to improve ca
@@ -12004,30 +12046,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `dataset`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://datachain.ai>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
-  * Summary: - **Educational Framework**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RAG (Retrieval-Augmented Generation). - **Technical Scope**: Focus
-  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
-  * Source URL: <https://github.com/datawhalechina/llm-universe>
-
 * **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of extension. - **Technical Stack**: Leverages Python-based RAG com
-  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
+  * Summary: - **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing modularity and ease of integration across environments. - **Core Components**: Includes retrieval, indexi
+  * Tags: `benchmark`, `github-repo`, `jupyter notebook`, `rag`, `workflows`
   * Source URL: <https://github.com/datawhalechina/wow-rag>
 
 * **[DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generation](ai/rag/arxiv-2604-07590.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.07590v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) is widely used to ground large language models in external knowledge sources. However, when applied to heterogeneous corpora and multi-step queries, Naive
   * Tags: `benchmark`, `dataset`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2604.07590>
-
-* **[DeckardGer/tanstack-agent-skills](ai/rag/deckardger-tanstack-agent-skills.md)** (`framework` | `useful` tier)
-  * Summary: - **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations. - **Router Best Prac
-  * Tags: `agents`, `frontend_ui`, `github-repo`, `hackernews`, `rag`, `reddit`, `unknown`, `workflows`
-  * Source URL: <https://github.com/DeckardGer/tanstack-agent-skills>
-
-* **[decodingai-magazine/llm-twin-course](ai/rag/decodingai-magazine-llm-twin-course.md)** (`benchmark` | `essential` tier)
-  * Summary: - **End-to-end LLM & RAG system**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons. - **Tech stack integrati
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/decodingai-magazine/llm-twin-course>
 
 * **[Decoupling Inference from State Updates in Low-Latency Feature Engines via Probabilistic Thinning](ai/rag/arxiv-2606-16981.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16981v1 Announce Type: cross Abstract: Streaming data systems increasingly underpin Machine Learning workflows that maintain large numbers of continuously updated aggregations. In production settings, each incoming event typically triggers
@@ -12040,7 +12067,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.langchain.com/oss/python/deepagents>
 
 * **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** (`framework` | `essential` tier)
-  * Summary: - **Modular AI Orchestration**: Open-source framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows. - **Multi-Use Case Support**: D
+  * Summary: - **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components. - **Multi-Use Case Framework**: Suppor
   * Source URL: <https://github.com/deepset-ai/haystack?source=post_page>
 
 * **[Delegation and Verification Under AI](ai/research/arxiv-2603-02961.md)** (`framework` | `useful` tier)
@@ -12068,15 +12095,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`, `workflows`
   * Source URL: <https://developers.greenhouse.io>
 
+* **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** (`framework` | `useful` tier)
+  * Summary: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise deployment, fine-tuning, and end-to-end project deployment workflows. - **Practical & Interview-Ready**: Prov
+  * Tags: `agents`, `github-repo`, `models`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/didilili/ai-agents-from-zero>
+
 * **[Discourse | Where Tech Companies Build Communities](ai/resources/discourse-where-tech-companies-build-communities.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Scalable Community Platform**: Discourse powers 22,000+ communities with features like SSO, SAML, enterprise authentication, and dedicated infrastructure with SLA guarantees for mission-critical deployments. - **Modular Community Solutions**: Sup
+  * Summary: - **Scalable Open-Source Platform**: Discourse is an open-source, highly customizable community platform used by 22,000+ organizations (e.g., OpenAI, Zoom, GitLab) with enterprise-grade features like SSO, SAML, and dedicated infrastructure for missio
   * Tags: `hackernews`, `openai`, `producthunt`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.discourse.org>
 
 * **[Discover AWS Official Knowledge Center Articles | AWS re:Post](ai/rag/discover-aws-official-knowledge-center-articles-aw.md)** (`dataset` | `useful` tier)
-  * Summary: - **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetObjectVersion`), incorrect bucket policy configurations, or replication timeouts due to large object sizes (>5GB) requiring multipart uploads.
+  * Summary: - **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or replication rules not being properly applied to new objects; verify destination bucket ownership and enable S3 replication metric
   * Tags: `dataset`, `frontend_ui`, `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://repost.aws/knowledge-center?nc1=f_dr>
+  * Source URL: <https://repost.aws/knowledge-center/?nc1=f_dr>
 
 * **[Diátaxis](ai/resources/diataxis.md)** (`framework` | `useful` tier)
   * Summary: - **Four-Documentation Framework**: Diátaxis categorizes technical documentation into four distinct types—*tutorials* (learning-oriented), *how-to guides* (problem-solving), *technical reference* (information-oriented), and *explanation* (understandi
@@ -12134,7 +12166,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dropbox.com/>
 
 * **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by aurenvale. Score: 676, Comments: 271. Original Link: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
+  * Summary: Hacker News story by aurenvale. Score: 703, Comments: 289. Original Link: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
   * Tags: `hackernews`, `llm`, `paper`
   * Source URL: <https://github.com/deepseek-ai/deepspec>
 
@@ -12194,7 +12226,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://unity.com/community>
 
 * **[enescingoz/awesome-n8n-templates](ai/rag/enescingoz-awesome-n8n-templates.md)** (`template` | `useful` tier)
-  * Summary: - **Extensive n8n Template Collection**: Repository hosts **280+ pre-built automation workflows** for popular platforms (Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI) and use cases (AI agents, RAG chatbots, email automation
+  * Summary: - **Extensive Template Library**: Repository contains **280+ pre-built n8n automation templates** for integrations with Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more, covering AI agents, RAG chatbots, email automat
   * Tags: `agents`, `github-repo`, `openai`, `rag`, `scripts`, `unknown`, `workflows`
   * Source URL: <https://github.com/enescingoz/awesome-n8n-templates>
 
@@ -12204,7 +12236,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2511.01650>
 
 * **[eosphoros-ai/DB-GPT](ai/rag/eosphoros-ai-db-gpt.md)** (`framework` | `useful` tier)
-  * Summary: - **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for next-gen AI+Data applications. - **Multi-Model & RAG Integration**: Supports private LLMs, Retrieval-Au
+  * Summary: - **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based augmentation. - **Multi-Model & Security-Focused**: Supports privat
   * Tags: `agents`, `github-repo`, `models`, `openai`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/eosphoros-ai/DB-GPT>
 
@@ -12229,7 +12261,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.17554>
 
 * **[Expert Services | GitHub · GitHub](ai/rag/expert-services-github-github.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Customized GitHub Services**: GitHub Expert Services offers tailored consulting, workshops, and training (e.g., GitHub Actions, Admin, API, Copilot) to optimize workflows, security (GHAS), and migrations for GitHub Enterprise Cloud/Server, with e
+  * Summary: - **Customized GitHub Services**: Tailored consulting, workshops, and training for organizations to adopt GitHub efficiently, including DevSecOps, Innersource, and GitHub Administration, with hands-on support from GitHub experts. - **Specialized Trai
   * Tags: `agents`, `hackernews`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://services.github.com>
 
@@ -12324,8 +12356,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11290>
 
 * **[FlowiseAI/Flowise](ai/rag/flowiseai-flowise.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI. - **Multi-Agent & RAG Support**: Enables agentic workflo
-  * Tags: `agents`, `frontend_ui`, `github-repo`, `openai`, `rag`, `reddit`, `scripts`, `typescript`, `workflows`
+  * Summary: - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows with drag-and-drop interfaces, leveraging React for UI and LangChain for agent orchestration. - **Multi-Agent & RAG Integration**:
+  * Tags: `agents`, `frontend_ui`, `github-repo`, `openai`, `rag`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/FlowiseAI/Flowise>
 
 * **[Flutter - Build apps for any screen](ai/rag/flutter-build-apps-for-any-screen.md)** (`tutorial` | `useful` tier)
@@ -12368,8 +12400,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.07150>
 
-* **[From RAG to Context - A 2025 year-end review of RAG | RAGFlow](ai/rag/from-rag-to-context-a-2025-year-end-review-of-rag.md)** (`prompt` | `useful` tier)
-  * Summary: - **RAG's Evolution & Enterprise Adoption**: Despite skepticism and overshadowing by AI Agents in 2025, RAG solidified its role as critical enterprise AI infrastructure, with mid-to-large organizations deepening investments. Long-context capabilities
+* **[From RAG to Context - A 2025 year-end review of RAG | RAGFlow](ai/rag/from-rag-to-context-a-2025-year-end-review-of-rag.md)** (`dataset` | `useful` tier)
+  * Summary: - **RAG's Evolution & Enterprise Role**: RAG has solidified its position as a critical enterprise AI infrastructure component in 2025, despite skepticism and overshadowing by AI Agents, with mid-to-large organizations deepening investments due to its
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `hackernews`, `models`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://ragflow.io/blog/rag-review-2025-from-rag-to-context>
 
@@ -12392,11 +12424,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Gemini 3 Integration**: Provides AI-assisted development with a 1M token context window, supporting code completion, generation, and natural language chat across IDEs (VS Code, JetBrains) and Google Cloud services (Firebase, BigQuery, Apigee). -
   * Tags: `agents`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://codeassist.google>
-
-* **[Gemini in Android Studio - Android Developers](ai/rag/gemini-in-android-studio-android-developers.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans, allowing review/acceptance of proposed changes. - **Multimodal UI Prototyping**: Converts wirefr
-  * Tags: `agents`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://developer.android.com/gemini-in-android>
 
 * **[Gemma 4 with quantization-aware training](ai/rag/gemma-4-with-quantization-aware-training.md)** (`framework` | `useful` tier)
   * Summary: - **Quantization-Aware Training (QAT) Integration**: Gemma 4 models now use QAT to simulate quantization during training, minimizing quality loss and outperforming standard Post-Training Quantization (PTQ) in preserving model performance while reduci
@@ -12427,6 +12454,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15344v1 Announce Type: cross Abstract: Generative modelling requires efficient stochastic nonlinear transformations and physical platforms that can naturally realise them. We experimentally demonstrate that nonlinear optical systems operat
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.15344>
+
+* **[gepa-ai/gepa](ai/resources/gepa-ai-gepa.md)** (`framework` | `useful` tier)
+  * Summary: - **Reflective Text Evolution (RTE)**: AI-driven framework for iterative optimization of prompts, code, and other text-based artifacts via reflective feedback loops. - **Jupyter Notebook Implementation**: Repository contains executable notebooks demo
+  * Tags: `github-repo`, `jupyter notebook`, `workflows`
+  * Source URL: <https://github.com/gepa-ai/gepa>
 
 * **[Get Docker | Docker Docs](ai/resources/get-docker-docker-docs.md)** (`tutorial` | `useful` tier)
   * Summary: - Docker is an open platform enabling rapid development, shipping, and execution of applications by decoupling them from infrastructure, facilitating CI/CD workflows and reducing time-to-production. - Docker Desktop provides native applications for m
@@ -12464,7 +12496,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.affinity.co/hc/en-us/articles/5563700459533-Getting-started-with-the-Affinity-API-FAQs>
 
 * **[Getting Started | Electron Forge](ai/rag/getting-started-electron-forge.md)** (`template` | `useful` tier)
-  * Summary: - **Electron Forge** is an all-in-one tool for packaging and distributing Electron apps, providing a full build pipeline with built-in support for code signing, installers, and artifact publishing, while allowing customization via its Plugin API, Mak
+  * Summary: - **Electron Forge** is a unified toolkit for packaging, distributing, and publishing Electron applications, integrating build pipelines, code signing, installers, and artifact publishing with extensible [Plugin API](https://electronforge.io/config/p
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://electronforge.io>
 
@@ -12508,15 +12540,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants>
 
+* **[GitHub Secret Protection · GitHub](ai/rag/security-advanced-security.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Real-time Secret Detection & Prevention**: GitHub Secret Protection continuously monitors repositories, proactively blocking secret leaks (e.g., API keys, tokens) during pushes via **push protection**, leveraging **~150 service provider integrati
+  * Tags: `hackernews`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://github.com/security/advanced-security/secret-protection>
+
 * **[GitHub Security · GitHub](ai/resources/github-security-github.md)** (`tutorial` | `useful` tier)
   * Summary: - **GitHub Advanced Security (GHAS)** integrates enterprise-grade security into developer workflows via static analysis, secret protection, and supply chain security tools like CodeQL and dependency tracking. - **Secret Protection** blocks accidental
   * Tags: `hackernews`, `paper`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/security>
 
 * **[GitHub Status](ai/rag/github-status.md)** (`tutorial` | `useful` tier)
-  * Summary: - **GitHub Status Page** provides real-time incident reporting, historical uptime data (90-day metrics), and regional status checks (AU/EU/JP/US) for GitHub Enterprise Cloud services. - **Notification Systems** support email, SMS (195+ country codes)
+  * Summary: - **GitHub Status Page** provides real-time operational status for GitHub services, including uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident tracking across regions (US, EU, Australia, Japan). - **Incident Management** inc
   * Tags: `agents`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://www.githubstatus.com>
+  * Source URL: <https://githubstatus.com/>
 
 * **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](ai/research/arxiv-2604-20822.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.20822v2 Announce Type: replace-cross Abstract: The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While
@@ -12557,6 +12594,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Google Play Developer APIs** provide REST-based web services for programmatic app management, including publishing, reporting, and in-app purchase/subscription handling, reducing manual Play Console operations for large-scale deployments. - **Key
   * Tags: `dataset`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://developer.android.com/google/play/developer-api>
+
+* **[Google Play Policies | Android Developers](ai/resources/google-play-policies-android-developers.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Account Transfer Policy (May 27, 2026)**: Mandates use of official "Transfer ownership" workflow in Play Console for developer account transfers to maintain ecosystem integrity. - **Developer Verification Requirement (September 2026)**: Enforces
+  * Tags: `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://developer.android.com/distribute/play-policies>
+
+* **[google-gemini/cookbook](ai/resources/google-gemini-cookbook.md)** (`prompt` | `useful` tier)
+  * Summary: - **Repository Overview**: Hosts Jupyter Notebook examples and guides for interacting with the **Gemini API**, covering use cases, best practices, and implementation strategies. - **Technical Scope**: Focuses on **Gemini API** integration, including
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `models`, `workflows`, `youtube`
+  * Source URL: <https://github.com/google-gemini/cookbook>
 
 * **[google/gemma-3-270m • LM Studio](ai/rag/google-gemma-3-270m-lm-studio.md)** (`tutorial` | `useful` tier)
   * Summary: - **LM Studio** is a local platform enabling offline execution of **large language models (LLMs)** via a GUI and API, supporting **CPU/GPU acceleration** (e.g., CUDA, Metal) for inference. - **Key features** include **model quantization** (GGUF forma
@@ -12609,7 +12656,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.deepset.ai/products-and-services/haystack-enterprise-starter>
 
 * **[Haystack | Haystack](ai/rag/haystack-haystack.md)** (`framework` | `useful` tier)
-  * Summary: - **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full visibility for debugging and optimization. - **Vendor-Neutral Integrat
+  * Summary: - **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full inspection, debugging, and optimization capabilities. - **Vendor-Neutr
   * Tags: `agents`, `anthropic`, `mistral`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://haystack.deepset.ai/>
 
@@ -12648,9 +12695,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `github-repo`, `python`, `rag`, `workflows`, `youtube`
   * Source URL: <https://github.com/HKUDS/RAG-Anything>
 
-* **[hllqkb/Spring-AI-Ailibaba-Best-Practices](ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with embedding-based vector search (e.g., Milvus/Weaviate) and integrates SSE streaming for real-time AI responses, supporting both text and image modalities (generation/
-  * Tags: `agents`, `github-repo`, `java`, `rag`, `workflows`
+* **[hllqkb/Spring-AI-Ailibaba-Best-Practices](ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md)** (`framework` | `useful` tier)
+  * Summary: - **Implements RAG with SSE streaming**: Demonstrates real-time AI response generation using Server-Sent Events (SSE) for streaming, integrating Retrieval-Augmented Generation (RAG) with vector databases and embedding models. - **Multi-modal agent ca
+  * Tags: `agents`, `github-repo`, `java`, `rag`, `reddit`, `workflows`
   * Source URL: <https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices>
 
 * **[Home - Google Developers Blog](ai/rag/home-google-developers-blog.md)** (`benchmark` | `useful` tier)
@@ -12733,11 +12780,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `creative_dev`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md>
 
-* **[huggingface (Hugging Face)](ai/rag/huggingface-hugging-face.md)** (`framework` | `useful` tier)
-  * Summary: - **Integration Architecture**: Moon Bot is a Slack-native coding agent leveraging Hugging Face's infrastructure, specifically Hugging Face Buckets, for model storage and retrieval, enabling seamless deployment within Slack's ecosystem. - **Technical
-  * Tags: `agents`, `hackernews`, `rag`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://huggingface.co/huggingface>
-
 * **[Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](ai/research/arxiv-2606-17824.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17824v1 Announce Type: cross Abstract: Segmenting 3D assets into meaningful regions remains challenging, especially when segmentation criteria are application-dependent and require user control. We present a human-in-the-loop pipeline for
   * Tags: `benchmark`, `hackernews`, `workflows`
@@ -12764,17 +12806,17 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11722>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (`template` | `useful` tier)
-  * Summary: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based, last updated 2025-01-08). - **Metrics**: 0 stars, 101 forks, no listed topics. - **Purpose**: GitHub Classroom assignment template for RAG (Retrieval-
+  * Summary: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based) - **Metadata**: 101 forks, last updated 2025-01-08T02:26:14Z - **Purpose**: GitHub Classroom assignment template for RAG workflow development
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow>
 
-* **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`template` | `useful` tier)
-  * Summary: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (Python-based) - **Stats**: 1 star, 68 forks, last updated 2025-09-16T07:09:35Z - **Purpose**: GitHub Classroom assignment template for RAG (Retrieval-Augmented Gene
+* **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (`workflow` | `useful` tier)
+  * Summary: - **Repository**: GitHub Classroom assignment for RAG2-HW02 workflow (`icensraghomework-classroom01-rag2-hw02_workflow`). - **Metadata**: 1 star, 68 forks, Python-based, last updated 2025-09-16. - **Access**: Public repository at `https://github.com/
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow>
 
 * **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based) - **Metadata**: 0 stars, 66 forks, last updated `2025-02-14T09:55:08Z` - **Purpose**: GitHub Classroom-assigned workflow for RAG (Retrieval-Augmented
+  * Summary: - **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (0 stars, 66 forks) - **Language**: Python-based workflow for RAG (Retrieval-Augmented Generation) homework assignment - **Last Updated**: 2025-02-14T09:55:08Z
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
 
@@ -12804,8 +12846,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.uvicorn.dev>
 
 * **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context augmentation and multi-step reasoning for LLMs beyond conventional RAG pipelines.
-  * Source URL: <https://github.com/infiniflow/ragflow?source=post_page>
+  * Summary: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, enabling dynamic interaction between retrieval and reasoning components. - **Context
+  * Tags: `agents`, `github-repo`, `go`, `rag`, `workflows`
+  * Source URL: <https://github.com/infiniflow/ragflow>
 
 * **[Ingestion Admin Guide : Stack Overflow Support](ai/rag/ingestion-admin-guide-stack-overflow-support.md)** (`tutorial` | `useful` tier)
   * Summary: - **Ingestion Configuration**: Enabled via **Admin settings > INGESTION > Enable Ingestion**, allowing file uploads (manual/API) and AI-driven content transformation into Q&A pairs (knowledge objects), with a default quota of **100 objects/month** (e
@@ -12836,6 +12879,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Runtime Helpers & .astro Dialect**: Meno-Astro provides runtime utilities and a round-trippable `.astro` dialect for parsing/emitting Astro files, enabling Meno to treat `.astro` files as a source-of-truth format. - **Integration with Astro**: Th
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://astro.build/integrations/>
+
+* **[IntelLabs/fastRAG](ai/rag/intellabs-fastrag.md)** (`framework` | `useful` tier)
+  * Summary: - **Framework Overview**: FastRAG is an efficient Python-based framework for **Retrieval-Augmented Generation (RAG)**, integrating **semantic search**, **knowledge graphs**, and **multi-modal** capabilities with **ColBERT** and **sentence-transformer
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/IntelLabs/fastRAG>
 
 * **[Introducing Socket Firewall: Free, Proactive Protection for ...](ai/resources/introducing-socket-firewall-free-proactive-protect.md)** (`tutorial` | `useful` tier)
   * Summary: - **Custom Roles**: Socket introduces customizable role-based access control (RBAC) for granular repository permissions, enabling organizations to define roles with specific access levels and actions. - **Repository Access Permissions**: Fine-grained
@@ -12877,14 +12925,19 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`, `workflows`
   * Source URL: <https://peekingduck.readthedocs.io/en/stable>
 
+* **[iPhone - Apple](ai/resources/iphone-apple.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro purchases. - **Hardware durability**: Ceramic Shield 2 front display offers 3x better scratch resistance, with iPhones resistant to com
+  * Tags: `openai`, `paper`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.apple.com/iphone/>
+
 * **[IPython Documentation — IPython 9.14.1 documentation](ai/resources/ipython-documentation-ipython-9-14-1-documentation.md)** (`prompt` | `useful` tier)
   * Summary: - **Interactive Python Shell & Jupyter Kernel**: Provides an enhanced interactive Python shell with comprehensive object introspection, persistent input history, and caching of output results, alongside a Jupyter kernel enabling Python code execution
   * Tags: `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://ipython.readthedocs.io/en/stable>
 
 * **[jim-schwoebel/awesome_ai_agents](ai/rag/jim-schwoebel-awesome-ai-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, covering agent-based modeling, multi-agent systems, CLI tools, and workflow automation. - **Multi-Topic Coverage**: Encompasses AI agent
-  * Tags: `agents`, `github-repo`, `rag`, `scripts`, `unknown`, `workflows`
+  * Summary: - **Curated Resource Hub**: Repository containing 1,500+ technical resources, tools, and frameworks focused on AI agents, including agent-based modeling, multi-agent systems, and agentic workflows. - **Multi-Topic Coverage**: Encompasses AI agent dev
+  * Tags: `agents`, `github-repo`, `hackernews`, `rag`, `scripts`, `unknown`, `workflows`
   * Source URL: <https://github.com/jim-schwoebel/awesome_ai_agents>
 
 * **[Jinja2 · PyPI](ai/resources/client-challenge.md)** (`template` | `useful` tier)
@@ -12963,8 +13016,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released>
 
 * **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (`framework` | `useful` tier)
-  * Summary: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems, integrating vector search with LLMs (e.g., GPT-4 Vision) for enhanced context-aware applications.
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
+  * Summary: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and large language models (LLMs) like GPT-4 Vision. - **Integration Frame
+  * Tags: `agents`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
   * Source URL: <https://github.com/lancedb/vectordb-recipes>
 
 * **[Landmark-free Assessment of Lower-limb Alignment with Implicit Neural Shape Functions from Knee Radiographs](ai/research/arxiv-2606-15250.md)** (`framework` | `useful` tier)
@@ -12973,19 +13026,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15250>
 
 * **[LangChain Blog](ai/rag/langchain-blog.md)** (`prompt` | `useful` tier)
-  * Summary: - **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts within agent workflows, reducing redundant token processing and improving inference efficiency by up to 100x in specific cases. - **Model Neutrality vs. Cloud
-  * Tags: `agents`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Summary: - **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse intermediate computations in agent workflows, reducing redundant LLM calls and improving efficiency by leveraging prior state and outputs. - **Model Neutrality vs. Cloud N
+  * Tags: `agents`, `benchmark`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://blog.langchain.com/>
 
-* **[LangChain overview - Docs by LangChain](ai/rag/langchain-overview-docs-by-langchain.md)** (`prompt` | `useful` tier)
-  * Summary: - `create_agent` provides a minimal, configurable agent harness in LangChain, composed of model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google. - LangChain agents leverage LangGraph for durable execution, huma
-  * Tags: `agents`, `anthropic`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
-  * Source URL: <https://js.langchain.com>
-
-* **[LangChain · GitHub](ai/rag/langchain-github.md)** (`framework` | `useful` tier)
-  * Summary: - **Core Libraries**: LangChain/LangChain.js provide reusable LLM application components and integrations; LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning with
-  * Tags: `agents`, `anthropic`, `benchmark`, `rag`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://github.com/langchain-ai>
+* **[LangChain overview - Docs by LangChain](ai/rag/langchain-overview-docs-by-langchain.md)** (`framework` | `useful` tier)
+  * Summary: - **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction for specific use cases. - **Frame
+  * Tags: `agents`, `anthropic`, `benchmark`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://python.langchain.com/>
 
 * **[langchain-ai/deepagents](ai/rag/langchain-ai-deepagents.md)** (`template` | `useful` tier)
   * Summary: - **Framework Overview**: `deepagents` is a Python-based agent harness integrating LangChain and LangGraph for AI-driven workflows, supporting both Python and TypeScript ecosystems. - **Key Features**: Provides modular components for agent orchestrat
@@ -12996,6 +13044,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Framework**: Python-based open-source framework (`langgraph`) for building resilient AI agents, integrating with LangChain ecosystem and supporting multi-agent systems. - **Key Features**: Supports enterprise-grade agent orchestration, integrates
   * Tags: `agents`, `github-repo`, `openai`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/langchain-ai/langgraph>
+
+* **[langchain-ai/rag-research-agent-template](ai/rag/langchain-ai-rag-research-agent-template.md)** (`template` | `useful` tier)
+  * Summary: - **Template Purpose**: Provides a structured starter implementation for a Retrieval-Augmented Generation (RAG) research agent using LangChain, facilitating document retrieval and synthesis workflows. - **Key Components**: Includes modular Python scr
+  * Tags: `agents`, `github-repo`, `hackernews`, `openai`, `python`, `rag`, `scripts`, `workflows`
+  * Source URL: <https://github.com/langchain-ai/rag-research-agent-template>
 
 * **[LangGraph 2.0: The Definitive Guide to Building Production-Grade AI Agents in 2026 - DEV Community](ai/rag/langgraph-2-0-the-definitive-guide-to-building-pro.md)** (`tutorial` | `useful` tier)
   * Summary: Richard Dillon Posted on Mar 29 LangGraph 2.0: The Definitive Guide to Building Production-Grade AI Agents in 2026 #ai #machinelearning #programming #agents Agentic Engineering Weekly (8 Part Series) 1 LangGraph 2.0: The Definitive Guide to Building
@@ -13113,7 +13166,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://pypi.org/project/llama-index/>
 
 * **[LlamaIndex | AI Agents for Document OCR + Workflows](ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring specialized experts for text, charts, tables, and handwritten content, with auto-correction loops for error detecti
+  * Summary: - **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), recursive auto-correction loops, and structured schema e
   * Tags: `agents`, `benchmark`, `meta-ai`, `models`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.llamaindex.ai/>
 
@@ -13128,9 +13181,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://benchlm.ai/llm-agent-benchmarks>
 
 * **[LLM Powered Autonomous Agents | Lil'Log](ai/rag/llm-powered-autonomous-agents-lil-log.md)** (`framework` | `useful` tier)
-  * Summary: - **Planning Mechanisms**: LLM-based agents decompose complex tasks via Chain of Thought (CoT) prompting or Tree of Thoughts (ToT) for multi-path reasoning, while external planners (e.g., LLM+P using PDDL) handle long-horizon planning in structured d
+  * Summary: - **Planning Mechanisms**: LLM agents employ task decomposition (e.g., Chain of Thought, Tree of Thoughts) and external planners (e.g., LLM+P using PDDL) to break complex tasks into subgoals, with self-reflection frameworks (ReAct, Reflexion, Chain o
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
-  * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/>
+  * Source URL: <https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies>
 
 * **[LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](ai/research/arxiv-2606-17507.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17507v1 Announce Type: new Abstract: Generative AI and large language models (LLMs) are increasingly applied to question generation and automated assessment. However, deploying LLMs in preparation for high-stakes exams requires more than p
@@ -13163,13 +13216,13 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://meta.wikimedia.org>
 
 * **[Marker-Inc-Korea/AutoRAG](ai/rag/marker-inc-korea-autorag.md)** (`framework` | `useful` tier)
-  * Summary: - **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using a black-box optimization approach. - **Comprehensive Evaluation Sui
-  * Tags: `benchmark`, `dataset`, `github-repo`, `meta-ai`, `models`, `python`, `rag`, `scripts`, `workflows`
+  * Summary: - **AutoML-Style RAG Optimization**: AutoRAG automates end-to-end RAG pipeline optimization (retrieval, generation, and evaluation) using AutoML techniques, eliminating manual tuning for LLMs and document processing workflows. - **Comprehensive Evalu
+  * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `python`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/Marker-Inc-Korea/AutoRAG>
 
 * **[MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md)** (`framework` | `useful` tier)
-  * Summary: - **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex task execution. - **Agentic AI development**: Contains Jupyter Notebook-based tutorials covering agentic frame
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
+  * Summary: - **Multi-agent architectures**: Repository focuses on systems integrating multiple AI agents with specialized skills (e.g., planning, reasoning loops) for complex workflows, emphasizing agentic AI development frameworks. - **Memory & reasoning integ
+  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials>
 
 * **[Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)** (`dataset` | `useful` tier)
@@ -13191,6 +13244,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16337v2 Announce Type: replace-cross Abstract: Predictive modeling for clinical tabular data is central to clinical decision support and therefore requires not only strong predictive performance but also transparent decision logic. Althoug
   * Tags: `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16337>
+
+* **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving acce
+  * Source URL: <https://speechify.com/medium?source=>
 
 * **[MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](ai/research/arxiv-2606-24433.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24433v1 Announce Type: cross Abstract: Medical point cloud completion is important for anatomical reconstruction and downstream clinical workflows, yet generative modeling in this setting remains insufficiently studied. We investigate comp
@@ -13221,11 +13278,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15563v1 Announce Type: new Abstract: AI systems increasingly delegate decisions to specialized models, evaluators, tools, and supervisory controllers. The central AI problem is no longer only model accuracy, but uncertainty-aware governanc
   * Tags: `workflows`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.15563>
-
-* **[modelscope/evalscope](ai/rag/modelscope-evalscope.md)** (`framework` | `useful` tier)
-  * Summary: - **Framework Overview**: EvalsScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics. - **Key Features**: Supports evaluation of retrie
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/modelscope/evalscope>
 
 * **[Modernize your database with the consolidation and retirement of Azure Database Migration tools - Microsoft SQL Server B](ai/rag/modernize-your-database-with-the-consolidation-and.md)** (`tutorial` | `useful` tier)
   * Summary: - **Consolidation of Azure Database Migration Tools**: Microsoft is consolidating its Azure Database Migration Service (DMS) and Azure SQL Migration extension for Azure Data Studio into a unified, streamlined migration experience, reducing tool fragm
@@ -13267,10 +13319,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`, `paper`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://nbconvert.readthedocs.io/en/latest>
 
+* **[neuml/txtai](ai/rag/neuml-txtai.md)** (`framework` | `useful` tier)
+  * Summary: - **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search. - **Modular Components**: Leverages embeddings, transformers, and ve
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/neuml/txtai>
+
 * **[Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](ai/rag/next-generation-medical-image-interpretation-with.md)** (`dataset` | `useful` tier)
   * Summary: - **MedGemma 1.5 4B** introduces expanded multimodal medical imaging support, including high-dimensional CT/MRI volumes, histopathology whole-slide analysis, longitudinal chest X-ray series, and anatomical localization, with benchmark improvements of
   * Tags: `benchmark`, `dataset`, `deepmind`, `hackernews`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/>
+
+* **[NirDiamant/agents-towards-production](ai/rag/nirdiamant-agents-towards-production.md)** (`framework` | `essential` tier)
+  * Summary: - **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness. - **Multi-Technology Stack**:
+  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `workflows`
+  * Source URL: <https://github.com/NirDiamant/agents-towards-production>
+
+* **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, and vector databases, with integrations for LangChain, LlamaIndex, and OpenAI. - **Technical Scope**: Includes semantic search
+  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
+  * Source URL: <https://github.com/NirDiamant/RAG_Techniques>
 
 * **[Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)** (`dataset` | `useful` tier)
   * Summary: - **Multi-Model Integration**: Nixtla Enterprise now supports multiple foundation models (e.g., Chronos, TimesFM) alongside TimeGPT via a unified `NixtlaClient` interface, enabling benchmarking and selection without tool-switching or API fragmentatio
@@ -13303,19 +13370,19 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.nvidia.com/dgx-cloud/index.html>
 
 * **[NVIDIA/workbench-example-agentic-rag](ai/rag/nvidia-workbench-example-agentic-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Agentic RAG Implementation**: Demonstrates an autonomous RAG system using NVIDIA AI Workbench, integrating retrieval and generation with agentic workflows for dynamic decision-making. - **Jupyter Notebook-Based**: Entire project structured as exe
+  * Summary: - **Agentic RAG Implementation**: Demonstrates an autonomous RAG pipeline leveraging NVIDIA AI Workbench, integrating retrieval and generation with agentic decision-making for dynamic task execution. - **Jupyter Notebook-Based**: Entire workflow enca
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`, `workflows`
   * Source URL: <https://github.com/NVIDIA/workbench-example-agentic-rag>
 
-* **[NVIDIA/workbench-example-hybrid-rag](ai/rag/nvidia-workbench-example-hybrid-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and generation. - **NVIDIA AI Workbench Integration
-  * Tags: `github-repo`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/NVIDIA/workbench-example-hybrid-rag>
-
 * **[NVISOsecurity/cyber-security-llm-agents](ai/rag/nvisosecurity-cyber-security-llm-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate routine cybersecurity tasks, including adversary emulation. - **Integration with CALDERA**: Agents are designed to interface with th
-  * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`, `scripts`, `workflows`
+  * Summary: - **Purpose**: Repository containing LLM-based agents designed to automate routine cybersecurity tasks, including adversary emulation via integration with frameworks like **CALDERA**. - **Technical Stack**: Implemented primarily in **Jupyter Notebook
+  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/NVISOsecurity/cyber-security-llm-agents>
+
+* **[olegnazarov/rag-security-scanner](ai/rag/olegnazarov-rag-security-scanner.md)** (`prompt` | `useful` tier)
+  * Summary: - **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG/LLM systems) via automated security testing. - **Key Features**: Detects prompt injection, OWASP Top 10 LLM risks, and performs red-team assessments fo
+  * Tags: `github-repo`, `hackernews`, `openai`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/olegnazarov/rag-security-scanner>
 
 * **[On the Stability of Prompt Ranking in Large Language Model Evaluation](ai/research/arxiv-2606-24381.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24381v1 Announce Type: cross Abstract: Prompt-based interaction has become a dominant paradigm for using large language models (LLMs), where multiple candidate prompts are evaluated and the top-ranked one is selected for downstream use. Th
@@ -13407,9 +13474,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://peps.python.org/>
 
-* **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Local LLM Integration**: Demonstrates building a Retrieval-Augmented Generation (RAG) system using local LLMs via `node-llama-cpp` to eliminate dependency on proprietary APIs and enhance transparency. - **Core RAG Pipeline**: Implements end-to-en
-  * Tags: `agents`, `github-repo`, `hackernews`, `javascript`, `meta-ai`, `models`, `rag`, `workflows`
+* **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (`prompt` | `useful` tier)
+  * Summary: - **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and provide hands-on understanding of embeddings, vector
+  * Tags: `agents`, `github-repo`, `javascript`, `meta-ai`, `models`, `rag`, `workflows`
   * Source URL: <https://github.com/pguso/rag-from-scratch>
 
 * **[Phala-Network/ai-agent-template-openai](ai/rag/phala-network-ai-agent-template-openai.md)** (`template` | `useful` tier)
@@ -13422,9 +13489,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2512.02652>
 
-* **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** (`framework` | `useful` tier)
-  * Summary: - **RAG Framework**: Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLMs by integrating Pinecone's vector database for efficient context retrieval and augmentation. - **Context Engine**: Powers dynamic context manageme
-  * Source URL: <https://github.com/pinecone-io/canopy?source=post_page>
+* **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (`framework` | `useful` tier)
+  * Summary: - **Local LLM Integration**: Demonstrates advanced RAG workflows using locally hosted large language models (LLMs) via frameworks like LangChain, eliminating dependency on cloud-based APIs. - **Dynamic Database Updates**: Implements automated vector
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/pixegami/rag-tutorial-v2>
 
 * **[PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation](ai/rag/arxiv-2606-24081.md)** (`template` | `useful` tier)
   * Summary: arXiv:2606.24081v1 Announce Type: cross Abstract: As Text-to-Image (T2I) jailbreak techniques evolve rapidly, existing benchmarks and reproduction workflows often struggle to keep pace. More importantly, T2I jailbreak evaluation is not a single promp
@@ -13512,8 +13580,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developers.generativeai.google/guide/prompt_best_practices>
 
 * **[promptfoo/promptfoo-action](ai/rag/promptfoo-promptfoo-action.md)** (`prompt` | `useful` tier)
-  * Summary: - **GitHub Action Integration**: Enables automated testing of LLM prompts, agents, and RAG systems via GitHub Actions with CI/CD pipeline support. - **Multi-Model & Security Testing**: Supports performance comparison across models (GPT, Claude, Gemin
-  * Tags: `agents`, `anthropic`, `github-repo`, `meta-ai`, `models`, `rag`, `scripts`, `typescript`, `workflows`
+  * Summary: - **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems via GitHub Actions, supporting CI/CD pipelines for LLM evaluation. - **Multi-Model Benchmarking**: Compares performance across major LLMs (GPT, Claude, Gem
+  * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `meta-ai`, `models`, `rag`, `scripts`, `typescript`
   * Source URL: <https://github.com/promptfoo/promptfoo-action>
 
 * **[Propagating Structural Guidance: Synthesizing Fluorescein Angiography from Fundus Images and Sparse OCT Scans](ai/research/arxiv-2606-16234.md)** (`framework` | `useful` tier)
@@ -13592,13 +13660,18 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph/>
 
 * **[RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md)** (`dataset` | `useful` tier)
-  * Summary: - **RAG Architecture & Components**: Core pipeline includes a retriever (vector/lexical), vector store (ANN indexes like HNSW), LLM generator, and optional rerankers; hybrid retrieval (BM25 + vector) improves recall/precision by fusing lexical and se
+  * Summary: - **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; hybrid search (BM25 + vector) improves recall/precision by combining exact-match a
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `paper`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/>
 
+* **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** (`benchmark` | `useful` tier)
+  * Summary: - **RAG Fundamentals**: Combines LLMs with external retrieval systems to enhance responses by fetching relevant information from vast document repositories, addressing context window limitations (e.g., GPT-4.1: 1M tokens, enterprise data scales to qu
+  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280>
+
 * **[raga-ai-hub/raga-llm-hub](ai/rag/raga-ai-hub-raga-llm-hub.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows. - **Modular architecture** supporting LLMops integration with evaluation metrics, safety checks, and compliance en
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`, `workflows`
+  * Summary: - **Purpose**: Framework for evaluating, securing, and implementing guardrails for Large Language Models (LLMs) with a focus on LLMops workflows. - **Technical Stack**: Python-based repository with modules for LLM evaluation, security enforcement, an
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/raga-ai-hub/raga-llm-hub>
 
 * **[RAGatouille](ai/rag/ragatouille.md)** (`dataset` | `useful` tier)
@@ -13606,9 +13679,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://ben.clavie.eu/ragatouille>
 
-* **[ray-project/llm-applications](ai/rag/ray-project-llm-applications.md)** (`framework` | `useful` tier)
-  * Summary: - **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms. - **Fine-Tuning & Serving Opt
-  * Tags: `benchmark`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
+* **[ray-project/llm-applications](ai/rag/ray-project-llm-applications.md)** (`prompt` | `useful` tier)
+  * Summary: - **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2, OpenAI, or fine-tuned models with scalable vector databases (e.g., Anyscale). - **End-
+  * Tags: `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
   * Source URL: <https://github.com/ray-project/llm-applications>
 
 * **[Read the Docs · GitHub](ai/resources/read-the-docs-github.md)** (`tutorial` | `useful` tier)
@@ -13622,7 +13695,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://skills.github.com>
 
 * **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by bushwart. Score: 79, Comments: 44. Original Link: https://www.sciencedirect.com/science/article/pii/S1877959X26000476
+  * Summary: Hacker News story by bushwart. Score: 116, Comments: 64. Original Link: https://www.sciencedirect.com/science/article/pii/S1877959X26000476
   * Tags: `ai`, `hackernews`
   * Source URL: <https://sciencedirect.com/science/article/pii/s1877959x26000476>
 
@@ -13687,7 +13760,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.google.com/googleplay/answer/2850369?hl=en>
 
 * **[ritik-prog/n8n-automation-templates-5000](ai/rag/ritik-prog-n8n-automation-templates-5000.md)** (`template` | `essential` tier)
-  * Summary: - **Repository**: `ritik-prog/n8n-automation-templates-5000` hosts **5,000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation. - **Metadata**: **403 stars**, **159 forks**, last updated **2026-0
+  * Summary: - **Repository**: `ritik-prog/n8n-automation-templates-5000` offers **5,000+ production-ready n8n workflow templates** covering AI, CRM, finance, e-commerce, marketing, and RAG automation. - **Metrics**: 403 stars, 159 forks, last updated **2026-06-2
   * Tags: `github-repo`, `rag`, `scripts`, `unknown`, `workflows`
   * Source URL: <https://github.com/ritik-prog/n8n-automation-templates-5000>
 
@@ -13695,6 +13768,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.18774v1 Announce Type: new Abstract: We present RouteJudge, an online pairwise preference evaluation framework for LLM routing systems, with a public platform available at https://routejudge.cn. Different from model-level response evaluati
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.18774>
+
+* **[rtfd/sphinx_rtd_theme](ai/resources/rtfd-sphinx-rtd-theme.md)** (`workflow` | `useful` tier)
+  * Summary: - **Purpose**: Sphinx theme designed by Read the Docs to enhance documentation rendering for Sphinx-based projects. - **Technical Stack**: Built with **Sass** for styling, supporting modular and maintainable CSS architecture. - **Integration**: Optim
+  * Tags: `github-repo`, `hackernews`, `sass`, `workflows`
+  * Source URL: <https://github.com/rtfd/sphinx_rtd_theme>
 
 * **[Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study](ai/rag/arxiv-2606-12231.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.12231v1 Announce Type: cross Abstract: The adoption of AI-powered Integrated Development Environments (AI IDEs) has introduced "Rules" as a novel software artifact, allowing developers to persistently inject project-specific constraints an
@@ -13710,11 +13788,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Framework for Agentic Workflows**: Python-based framework designed to deploy and manage multi-agent systems and workflows in production environments. - **Integration with LlamaIndex**: Leverages LlamaIndex for LLM-powered applications, enabling s
   * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/run-llama/llama_deploy>
-
-* **[run-llama/ParseBench](ai/rag/run-llama-parsebench.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like OCR, PDF parsing, and table extraction across diverse document types. - **Multi-Modal Evaluation**: Supports both text-based and vision-langua
-  * Tags: `agents`, `benchmark`, `github-repo`, `meta-ai`, `models`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/run-llama/ParseBench>
 
 * **[Running CodeQL queries at scale with multi-repository variant analysis - GitHub Docs](ai/resources/running-codeql-queries-at-scale-with-multi-reposit.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-repository variant analysis (MRVA)** enables running CodeQL queries on up to 1,000 GitHub repositories from VS Code, requiring a controller repository with at least one commit for orchestration. - **Controller repository setup** mandates Gi
@@ -13740,6 +13813,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modular Research Components**: Curvenote's SCMS organizes research into reusable, shareable modular components (protocols, datasets, models) that maintain traceability across projects, enabling dynamic remixing and reducing redundant work. - **In
   * Tags: `dataset`, `paper`, `producthunt`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://curvenote.com>
+
+* **[SciPhi-AI/R2R](ai/rag/sciphi-ai-r2r.md)** (`framework` | `essential` tier)
+  * Summary: - **Agentic RAG Framework**: Production-ready Python-based system implementing Agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows. - **Advanced Retrieval Pipeline**: Inte
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/SciPhi-AI/R2R>
 
 * **[SciPy 2025](ai/rag/scipy-2025.md)** (`tutorial` | `useful` tier)
   * Summary: - **Event Details**: SciPy 2025 held July 7-13 at Tacoma Convention Center, WA, featuring tutorials (July 7-8), conference (July 9-11), and sprints (July 12-13), with virtual attendance available. - **Keynote Speakers**: Featured Dr. Yusra AlSayyad (
@@ -13771,6 +13849,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://gohugo.io/about/security/>
 
+* **[SecurityClaw/SecurityClaw](ai/rag/securityclaw-securityclaw.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory construction, and real-time anomaly validation via LLMs for threat detection and hunting. - **Skill-Based Architecture
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
+  * Source URL: <https://github.com/SecurityClaw/SecurityClaw>
+
 * **[Segment Status](ai/rag/segment-status.md)** (`tutorial` | `useful` tier)
   * Summary: - **Incident Status**: Facebook Custom Audiences destination experienced partial delivery failures for select workspaces, with a fix deployed and confirmed stable as of June 8, 2026, after root cause identification on June 5, 2026. - **System Metrics
   * Tags: `rag`, `web-crawled`, `workflows`
@@ -13800,6 +13883,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Modern Sphinx Theme**: Shibuya is a responsive, visually appealing theme for Sphinx documentation, supporting Jupyter extensions like `nbsphinx` for enhanced AI/ML documentation workflows. - **Multi-Mode Customization**: Features light/dark mode
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
+
+* **[Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](ai/community/kageroumado-adrafinil.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by kageroumado. Score: 37, Comments: 30. Original Link: https://github.com/kageroumado/adrafinil
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://github.com/kageroumado/adrafinil>
 
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v2 Announce Type: replace Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are
@@ -13921,7 +14009,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://storyset.com>
 
 * **[streamlit/example-app-langchain-rag](ai/rag/streamlit-example-app-langchain-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Implementation**: Demonstrates a Streamlit app integrating LangChain with RAG, utilizing a vector store for hybrid search (combining dense and sparse retrieval methods). - **Architecture**: Combines document embeddings (via vector store) with Lan
+  * Summary: - **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with traditional keyword-based retrieval using LangChain's `HybridSearchRetriever` for enhanced document retrieval accuracy. - **LangChain + RAG Pipeline**: Implem
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/streamlit/example-app-langchain-rag>
 
@@ -13929,11 +14017,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12983v1 Announce Type: new Abstract: Automated testbench generation has become a critical bottleneck in large language model (LLM)-driven Register Transfer Level (RTL) workflows, where large numbers of candidate designs must be verified ra
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12983>
-
-* **[study8677/antigravity-workspace-template](ai/rag/study8677-antigravity-workspace-template.md)** (`mcp-server` | `useful` tier)
-  * Summary: - **Multi-agent codebase Q&A system**: Enables grounded, file-aware interactions with codebases via LLM agents (Claude Code, Cursor, Codex CLI), providing answers with exact file paths and line numbers for precise context. - **MCP/knowledge-graph int
-  * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/study8677/antigravity-workspace-template>
 
 * **[supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub](ai/rag/supabase-supabase.md)** (`framework` | `useful` tier)
   * Summary: - Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distin
@@ -13980,11 +14063,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.24734>
 
-* **[Task Failed Successfully: Saturating NIC and Disk Bandwidth](ai/community/task-failed-successfully-saturating-nic-and-disk-b.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by MrCroxx. Score: 30, Comments: 7. Original Link: https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth>
-
 * **[Tavily AI · GitHub](ai/rag/tavily-ai-github.md)** (`framework` | `useful` tier)
   * Summary: - **API Integration**: Provides SDKs (Python/JS/TS) for seamless integration with `tavily-python` and `@tavily/core` packages, requiring an API key for authentication. - **Core Functionality**: Offers three primary operations—**search** (real-time, c
   * Tags: `agents`, `rag`, `web-crawled`, `workflows`
@@ -14016,12 +14094,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.02080>
 
 * **[The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)** (`framework` | `useful` tier)
-  * Summary: - **LangChain**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and LangSmith for observability; supports dense/sparse retrieval and vector stores like Pinecone/Weaviate, ideal for complex, multi-tool pipelines but has a steep
+  * Summary: - **LangChain**: Dominates with 700+ integrations, modular chains, and LangGraph for agentic RAG; supports dense/sparse retrieval and vector stores (Pinecone, Weaviate); enhanced by LangSmith for observability and tracing in production pipelines. - *
   * Tags: `agents`, `benchmark`, `dataset`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/>
 
-* **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`dataset` | `useful` tier)
-  * Summary: - **RAG Evolution**: Naive RAG (basic vector search + LLM generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in fre
+* **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`framework` | `useful` tier)
+  * Summary: - **RAG Overview**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucinations, freshness, and private data limitations. - **Evolution of RAG**:
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/>
 
@@ -14066,12 +14144,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.braintrust.dev/articles/top-10-llm-observability-tools-2025>
 
 * **[Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)** (`framework` | `useful` tier)
-  * Summary: - **Haystack (deepset-ai)**: Modular AI orchestration framework for production-ready LLM applications with support for multiple document stores (Elasticsearch, FAISS, SQL) and scalable pipelines for retrieval, QA, and summarization. - **RAGFlow (infi
+  * Summary: - **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), integrating BERT/RoBERTa/DPR models, and scalable pipelines for QA, summarization, and document retrieval with 14.6k GitHub
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355>
 
-* **[Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)** (`template` | `useful` tier)
-  * Summary: - **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines but has a steep learning curve. - **RAGFlow**: Python-b
+* **[Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)** (`framework` | `useful` tier)
+  * Summary: - **LangChain**: Dominates with 125K stars, offering 700+ integrations (LLMs, vector stores, tools), modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines. - **Pathway**: Focuses on real-time data processing
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91>
 
@@ -14100,13 +14178,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932>
 
-* **[towardsai/ragbook-notebooks](ai/rag/towardsai-ragbook-notebooks.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Purpose**: Hosts Jupyter Notebooks accompanying the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments. - **Technical Stack**: Utilizes **LangChain**, **LlamaIn
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `rag`, `workflows`
-  * Source URL: <https://github.com/towardsai/ragbook-notebooks>
-
 * **[TracecatHQ/tracecat](ai/rag/tracecathq-tracecat.md)** (`workflow` | `useful` tier)
-  * Summary: - **Event-driven security automation platform** built with Python, FastAPI, and Temporal.io for workflow orchestration, enabling low-code security automation for teams and AI agents. - **OpenAPI-compliant** with Pydantic models for schema validation,
+  * Summary: - **Core Architecture**: Python-based open-source security automation platform leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration) with event-driven, low-code workflows defined via Pydantic schemas and OpenAPI s
   * Tags: `agents`, `frontend_ui`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/TracecatHQ/tracecat>
 
@@ -14141,7 +14214,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dart.ucar.edu/tutorials>
 
 * **[Tutorials | Haystack](ai/rag/tutorials-haystack.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems. - **Agentic RAG with Fallback**: Demonstrates building a
+  * Summary: - **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering metrics and methodologies for performance analysis. - **Multimodal RAG Pipeline**: Demonstrates a Retrieval-Augmented Generation (RAG) system integra
   * Tags: `agents`, `benchmark`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://haystack.deepset.ai/tutorials>
 
@@ -14236,12 +14309,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.22485>
 
 * **[vercel-labs/coding-agent-template](ai/rag/vercel-labs-coding-agent-template.md)** (`template` | `useful` tier)
-  * Summary: - **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI service integration. - **Tech Stack**: Built in TypeScript, utilizing Vercel’s infrastructure for scalable, serverless a
+  * Summary: - **Architecture**: Multi-agent AI system leveraging Vercel Sandbox for isolated execution environments and Vercel AI Gateway for unified API access to LLMs. - **Tech Stack**: Built in TypeScript, integrating Vercel’s serverless infrastructure for sc
   * Tags: `agents`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/vercel-labs/coding-agent-template>
 
 * **[vercel-labs/open-agents](ai/rag/vercel-labs-open-agents.md)** (`template` | `useful` tier)
-  * Summary: - **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-based AI agents with modular components for extensibility and scalability. - **Agent Orchestration**: Implements background agent patterns with event-d
+  * Summary: - **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-native AI agents with modular components for extensibility and scalability. - **Agent Orchestration**: Implements background agent patterns with built-
   * Tags: `agents`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/vercel-labs/open-agents>
 
@@ -14251,7 +14324,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.23132>
 
 * **[visionOS - Apple Developer](ai/rag/visionos-apple-developer.md)** (`framework` | `useful` tier)
-  * Summary: - **Spatial Computing Architecture**: visionOS supports dynamic transitions between windows, 3D volumes (via RealityKit/Unity), and immersive Full Spaces, enabling apps to blend digital content with physical surroundings or create fully enclosed envi
+  * Summary: - **Spatial Computing Architecture**: visionOS supports **Windows** (SwiftUI-based 2D/3D hybrid interfaces), **Volumes** (3D SwiftUI scenes for RealityKit/Unity content), and **Spaces** (Shared Space for multi-app coexistence or Full Space for immers
   * Tags: `hackernews`, `producthunt`, `rag`, `threejs`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://developer.apple.com/visionos/>
 
@@ -14270,13 +14343,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `hackernews`, `javascript`, `workflows`
   * Source URL: <https://github.com/vitejs/awesome-vite>
 
+* **[volcengine/OpenViking](ai/rag/volcengine-openviking.md)** (`framework` | `useful` tier)
+  * Summary: - **Unified Context Management**: OpenViking provides a file system-based context database for AI Agents, integrating memory, resources, and skills into a hierarchical structure for efficient context delivery and self-evolution. - **Agentic-RAG Integ
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/volcengine/OpenViking>
+
 * **[VoltAgent/awesome-ai-agent-papers](ai/rag/voltagent-awesome-ai-agent-papers.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated 2026 AI Agent Research**: Repository aggregates peer-reviewed papers on AI agents, focusing on agent engineering, memory systems, evaluation frameworks, workflow optimization, and autonomous architectures. - **Technical Scope**: Encompass
+  * Summary: - **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, including agent engineering, memory systems, evaluation frameworks, workflows, and autonomous architectures. - **Technical Breadth**: Covers LLM-based agent
   * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `paper`, `rag`, `unknown`, `workflows`
   * Source URL: <https://github.com/VoltAgent/awesome-ai-agent-papers>
 
-* **[vstorm-co/full-stack-ai-agent-template](ai/rag/vstorm-co-full-stack-ai-agent-template.md)** (`template` | `essential` tier)
-  * Summary: - **Tech Stack**: Pre-configured full-stack template with FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker for containerization, supporting Python and TypeScript. - **AI Capabilities**: Integrates multiple agent frameworks (Cr
+* **[vstorm-co/full-stack-ai-agent-template](ai/rag/vstorm-co-full-stack-ai-agent-template.md)** (`template` | `useful` tier)
+  * Summary: - **Tech Stack**: Full-stack template combining FastAPI (backend) with Next.js (frontend), PostgreSQL (database), and Docker (containerization), supporting AI agent frameworks like CrewAI, LangChain, LangGraph, and Pydantic-AI. - **Features**: Pre-in
   * Tags: `agents`, `frontend_ui`, `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/vstorm-co/full-stack-ai-agent-template>
 
@@ -14345,6 +14423,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://aws.amazon.com/what-is/retrieval-augmented-generation>
 
+* **[What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](ai/rag/what-is-retrieval-augmented-generation-and-what-do.md)** (`benchmark` | `useful` tier)
+  * Summary: - **GitHub Actions Security Enhancements**: Introduced new security features in GitHub Actions to mitigate risks like malicious workflows and supply chain attacks, including stricter permission controls and artifact verification mechanisms. - **Impro
+  * Tags: `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/>
+
 * **[When Do Data-Driven Systems Exhibit the Capability to Infer?](ai/research/arxiv-2606-11769.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11769v1 Announce Type: cross Abstract: The European AI Act is the first comprehensive regulation of artificial intelligence (AI), setting out extensive obligations, particularly for so-called high-risk and general-purpose AI systems. A key
   * Tags: `workflows`
@@ -14409,11 +14492,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Service Eligibility**: All academic and administrative units within the university can utilize web development and application services, with technical support requests submitted via the [İş Takip Sistemi](https://istakip.boun.edu.tr/). - **Devel
   * Tags: `hackernews`, `producthunt`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://dev.boun.edu.tr>
-
-* **[Yigtwxx/awesome-rag-production](ai/rag/yigtwxx-awesome-rag-production.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated RAG Production Resources**: Repository compiling battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering AI engineering, embeddings, LLMs, and MLOps. - **Te
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/Yigtwxx/awesome-rag-production>
 
 * **[yzhao062/pyod](ai/rag/yzhao062-pyod.md)** (`framework` | `useful` tier)
   * Summary: - **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed `ADEngine` orchestration for automated model selection and evaluation. - **Agentic Workflow
@@ -14515,7 +14593,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/pai-6-month>
 
 * **[[2205.13147] Matryoshka Representation Learning](ai/resources/arxiv-2205-13147.md)** (`framework` | `useful` tier)
-  * Summary: - **Matryoshka Representation Learning (MRL)** introduces a coarse-to-fine embedding framework that encodes multi-granularity representations within a single embedding vector, enabling adaptive downstream task performance under varying computational
+  * Summary: - **Matryoshka Representation Learning (MRL)** introduces a coarse-to-fine embedding framework that encodes hierarchical granularity within a single representation, enabling adaptive dimensionality for downstream tasks without additional inference co
   * Tags: `dataset`, `paper`, `paperswithcode`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://arxiv.org/abs/2205.13147>
 
@@ -15228,11 +15306,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2
   * Source URL: <https://huggingface.co/blog/bridgetower>
 
-* **[Access AWS Expert Solutions & Authoritative Knowledge - AWS re:Post | AWS re:Post](ai/rag/access-aws-expert-solutions-authoritative-knowledg.md)** (`framework` | `useful` tier)
-  * Summary: - **AWS re:Post** is a community-driven Q&A platform providing peer, AWS, and expert advice for troubleshooting technical and account issues on AWS services. - **Key features** include curated knowledge access, AWS Knowledge Center integration, and r
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `leaderboard`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
-  * Source URL: <https://repost.aws/?nc1=f_dr>
-
 * **[Accurate and Resource-Efficient Federated Continual Learning](ai/rag/arxiv-2606-11480.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11480v1 Announce Type: new Abstract: Federated continual learning (FCL) must learn from distributed task streams under limited resources, such as communication, computation, memory, and label availability. Existing FCL methods often rely o
   * Tags: `dataset`, `rag`
@@ -15507,11 +15580,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://huggingface.co/blog/watermarking>
 
-* **[AI-Application-and-Integration-Lab/MegaRAG](ai/rag/ai-application-and-integration-lab-megarag.md)** (`framework` | `useful` tier)
-  * Summary: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal graph structures to enhance knowledge retrieval and integration across text, images, and structured data. - **AC
-  * Tags: `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/AI-Application-and-Integration-Lab/MegaRAG>
-
 * **[AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](ai/research/arxiv-2606-09831.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.09831v2 Announce Type: replace-cross Abstract: As classroom cohorts expand, team teaching is increasingly used to integrate the expertise and pedagogical perspectives of multiple teachers. Yet, there is limited empirical understanding of h
   * Tags: `paper`, `scripts`
@@ -15780,6 +15848,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[AnchorKV: Safety-Aware KV Cache Compression via Soft Penalty with a Refusal Anchor](ai/research/arxiv-2606-17872.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17872v1 Announce Type: new Abstract: Large language models (LLMs) outperform earlier architectures on generative inference and long-context tasks, but their large size introduces significant challenges in memory usage, energy cost, and on-
   * Source URL: <https://arxiv.org/abs/2606.17872>
+
+* **[ANN-Benchmarks](ai/rag/ann-benchmarks.md)** (`framework` | `useful` tier)
+  * Summary: - **Benchmarking Framework**: ANN-Benchmarks evaluates approximate nearest neighbor (ANN) search algorithms across diverse datasets and distance metrics (Angular, Euclidean, Hamming, Jaccard), reporting performance via **Recall vs. Queries per second
+  * Tags: `benchmark`, `dataset`, `hackernews`, `rag`, `web-crawled`
+  * Source URL: <http://ann-benchmarks.com>
 
 * **[Annealed Entropic Allocation for Ranking and Selection](ai/research/arxiv-2606-11347.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11347v1 Announce Type: cross Abstract: We propose Annealed Entropic Allocation, an annealed weighted soft-min framework for sequential budget allocation in ranking and selection. The central idea is to replace the non-smooth maximin large-
@@ -16776,6 +16849,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Build a Domain-Specific Embedding Model in Under a Day
   * Source URL: <https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune>
 
+* **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (`dataset` | `useful` tier)
+  * Summary: - **Indexing Pipeline**: Converts raw text into searchable vector embeddings via four steps: loading documents into `Document` objects, splitting into chunks (e.g., `RecursiveCharacterTextSplitter` with `chunk_size=1000`, `chunk_overlap=200`), embedd
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://python.langchain.com/docs/use_cases/question_answering/>
+
 * **[Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)** (`dataset` | `useful` tier)
   * Summary: - **Hybrid Retrieval Pipeline**: Combines BM25 keyword search with vector similarity search (OpenAI `text-embedding-3-small`) to improve retrieval precision, capturing both semantic relevance and exact term matches. - **Cross-Encoder Reranking**: Use
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
@@ -17594,8 +17672,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.04718>
 
 * **[coree/awesome-rag](ai/rag/coree-awesome-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated RAG resources**: A comprehensive, community-maintained list of tools, frameworks, papers, datasets, and implementations for retrieval-augmented generation (RAG) in large language models (LLMs). - **Technical coverage**: Includes embedding
-  * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `paper`, `rag`, `unknown`
+  * Summary: - **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) compiling tools, papers, frameworks, and datasets for retrieval-augmented generation (RAG) in large language models (LLMs). - **Technical Scope**: Covers embeddings, retrieval sys
+  * Tags: `dataset`, `github-repo`, `hackernews`, `paper`, `rag`, `unknown`
   * Source URL: <https://github.com/coree/awesome-rag>
 
 * **[Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching](ai/research/arxiv-2606-11925.md)** (`framework` | `useful` tier)
@@ -18043,11 +18121,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Deep-Learning-Based Pixelated Microwave Filter Design and Characterization using Electro-Optical Electric-Field Measurements](ai/research/arxiv-2606-18402.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18402v1 Announce Type: cross Abstract: Traditional microwave filter design typically relies on iterative parameter tuning and predefined topologies, which limits design space and increases development time. This study uses a deep learning
   * Source URL: <https://arxiv.org/abs/2606.18402>
-
-* **[DEEP-PolyU/LinearRAG](ai/rag/deep-polyu-linearrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, enabling efficient retrieval and generation by leveraging linear graph structures to optimize query processing
-  * Tags: `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/DEEP-PolyU/LinearRAG>
 
 * **[DeepInfra on Hugging Face Inference Providers 🔥](ai/models/deepinfra-on-hugging-face-inference-providers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: DeepInfra on Hugging Face Inference Providers 🔥
@@ -18961,9 +19034,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.26432>
 
 * **[embeddings-benchmark/mteb](ai/rag/embeddings-benchmark-mteb.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., classification, clustering, retrieval) and 112 languages, supporting both monolingual and multilingual assessments. - **Modality Support**
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/embeddings-benchmark/mteb>
+  * Summary: - **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) and **112 datasets**, supporting **multilingual** and **multimodal** evaluation with standardized metrics. - **Modul
+  * Tags: `benchmark`, `dataset`, `github-repo`, `leaderboard`, `python`, `rag`
+  * Source URL: <https://github.com/embeddings-benchmark/mteb/>
 
 * **[Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models](ai/rag/arxiv-2606-11324.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11324v1 Announce Type: cross Abstract: We introduce Embodied-R1.5, a unified Embodied Foundation Model (EFM) that integrates comprehensive embodied reasoning capabilities, spanning embodied cognition, task planning, correction, and pointin
@@ -19566,12 +19639,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/spaces/facebook>
 
 * **[facebookresearch/CRAG](ai/rag/facebookresearch-crag.md)** (`dataset` | `useful` tier)
-  * Summary: - **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across **multiple dimensions** (e.g., factuality, hallucination detection, robustness). - **Evaluation Scope**: Includ
-  * Tags: `benchmark`, `dataset`, `github-repo`, `jupyter notebook`, `rag`, `reddit`
+  * Summary: - **Purpose**: CRAG is a **Comprehensive benchmark** designed to evaluate **Retrieval-Augmented Generation (RAG)** systems, providing standardized metrics and datasets for performance assessment. - **Implementation**: The repository is structured as
+  * Tags: `benchmark`, `dataset`, `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/facebookresearch/CRAG>
 
 * **[facebookresearch/faiss](ai/rag/facebookresearch-faiss.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging advanced indexing structures like IVF, HNSW, and PQ for scalability. - **Key Features**: Suppo
+  * Summary: - **Purpose**: FAISS (Facebook AI Similarity Search) is a C++ library optimized for efficient similarity search and clustering of dense vectors, leveraging advanced indexing structures (e.g., IVF, HNSW, PQ) to handle large-scale datasets. - **Key Fea
   * Tags: `c++`, `dataset`, `github-repo`, `hackernews`, `models`, `rag`
   * Source URL: <https://github.com/facebookresearch/faiss>
 
@@ -20751,6 +20824,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
+* **[google-research/scann at master · google-research/google-research · GitHub](ai/resources/google-research-google-research.md)** (`prompt` | `useful` tier)
+  * Summary: - **Algorithm**: Implements anisotropic vector quantization (AVQ) and SOAR indexing for efficient Maximum Inner Product Search (MIPS) and Euclidean distance search, achieving state-of-the-art performance on benchmarks like glove-100-angular. - **Opti
+  * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `reddit`, `web-crawled`
+  * Source URL: <https://github.com/google-research/google-research/tree/master/scann>
+
 * **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
   * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 128, Downloads: 41762860)
   * Tags: `hf-model`, `huggingface`
@@ -20901,7 +20979,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16219>
 
 * **[GraphRAG-Bench/GraphRAG-Benchmark](ai/rag/graphrag-bench-graphrag-benchmark.md)** (`framework` | `useful` tier)
-  * Summary: - **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance in graph-based RAG scenarios. - **Technical Focus**: Implements c
+  * Summary: - **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks. - **Technical Focus**: Analyzes when and why
   * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/GraphRAG-Bench/GraphRAG-Benchmark>
 
@@ -21558,7 +21636,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.silicon.fr/Thematique/data-ia-1372/Breves/ia-generative-lucie-remisee-linagora-attaque-rag-483914.htm>
 
 * **[IAAR-Shanghai/CRUD_RAG](ai/rag/iaar-shanghai-crud-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Benchmark Design**: CRUD_RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks. - **Evaluation Metrics**: The bench
+  * Summary: - **Benchmark Design**: Introduces CRUD-RAG, a Chinese-centric benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive retrieval and generation capabilities. - **Evaluation Fram
   * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/IAAR-Shanghai/CRUD_RAG>
 
@@ -22473,7 +22551,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17034>
 
 * **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10116, Downloads: 0)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10117, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
@@ -24229,11 +24307,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.15015>
 
-* **[nicknochnack/Llama2RAG](ai/rag/nicknochnack-llama2rag.md)** (`dataset` | `useful` tier)
-  * Summary: - **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and context integration. - **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for
-  * Tags: `dataset`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `rag`
-  * Source URL: <https://github.com/nicknochnack/Llama2RAG>
-
 * **[Nightjar: Dynamic Adaptive Speculative Decoding for Large Language Models Serving](ai/research/arxiv-2512-22420.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.22420v5 Announce Type: replace-cross Abstract: Speculative decoding (SD) accelerates LLM inference by verifying draft tokens in parallel. However, this method presents a critical trade-off: it improves throughput in low-load, memory-bound
   * Tags: `benchmark`
@@ -24641,9 +24714,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13464>
 
-* **[onyx-dot-app/EnterpriseRAG-Bench](ai/rag/onyx-dot-app-enterpriserag-bench.md)** (`dataset` | `useful` tier)
-  * Summary: - **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance. - **Features**: Includes synthetic data gene
-  * Tags: `benchmark`, `dataset`, `github-repo`, `rag`, `unknown`
+* **[onyx-dot-app/EnterpriseRAG-Bench](ai/rag/onyx-dot-app-enterpriserag-bench.md)** (`framework` | `useful` tier)
+  * Summary: - **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary/company internal documents, enabling domain-specific LLM performance assessment. - **Features**: Includes synthetic data genera
+  * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `rag`, `unknown`
   * Source URL: <https://github.com/onyx-dot-app/EnterpriseRAG-Bench>
 
 * **[Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)** (`tutorial` | `useful` tier)
@@ -24651,8 +24724,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/open-asr-leaderboard>
 
-* **[Open Government Licence](ai/rag/open-government-licence.md)** (`framework` | `useful` tier)
-  * Summary: - **Licence Scope**: Grants worldwide, royalty-free, perpetual, non-exclusive rights to use public sector information under OGL v3.0, subject to attribution and compliance with specified conditions. - **Usage Conditions**: Requires attribution via sp
+* **[Open Government Licence](ai/rag/open-government-licence.md)** (`dataset` | `useful` tier)
+  * Summary: - **Global, royalty-free license**: Grants worldwide, perpetual, non-exclusive rights to use, adapt, and commercially exploit public sector information under OGL v3.0, subject to attribution and compliance conditions. - **Attribution requirements**:
   * Tags: `dataset`, `hackernews`, `rag`, `web-crawled`
   * Source URL: <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>
 
@@ -24975,8 +25048,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.19134>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth.md)** (`framework` | `useful` tier)
-  * Summary: - Introduces **RAGTruth**, a hallucination-focused corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by systematically identifying and categorizing hallucinations in generated outputs. - Contai
-  * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`
+  * Summary: - **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs. - **
+  * Tags: `benchmark`, `dataset`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/ParticleMedia/RAGTruth>
 
 * **[Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](ai/research/arxiv-2505-15201.md)** (`reference` | `useful` tier)
@@ -25561,6 +25634,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `frontend_ui`
   * Source URL: <https://arxiv.org/abs/2606.24184>
 
+* **[project-miracl/miracl](ai/resources/project-miracl-miracl.md)** (`dataset` | `useful` tier)
+  * Summary: - **Dataset Overview**: MIRACL is a large-scale, multilingual dataset designed for Information Retrieval (IR), featuring human-annotated relevance judgments across 18 diverse languages. - **Benchmarking Focus**: Enables evaluation of IR systems in mu
+  * Tags: `benchmark`, `dataset`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/project-miracl/miracl>
+
 * **[Projected random forests and conformal prediction of circular data](ai/rag/arxiv-2410-24145.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2410.24145v3 Announce Type: replace-cross Abstract: We apply conformal prediction techniques to regression problems with circular responses, producing prediction sets with adaptive arc length and finite-sample coverage guarantees for any circul
   * Tags: `dataset`, `hackernews`, `rag`
@@ -25841,7 +25919,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17062>
 
 * **[RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](ai/rag/rag-application-tutorial-2025-build-production-rea.md)** (`dataset` | `useful` tier)
-  * Summary: - **RAG Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic or fixed-size), embedding models (e.g., Sentence-BERT), vector databases (e.g., Supabase), and LLM integration (e.g., LangChain) for retrieval-aug
+  * Summary: - **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with latency bottlenecks primarily in retrieval (~60%) and generation (~30%) phases. - **Production Optimizations**: Implements chunking (s
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://sysdebug.com/posts/rag-application-tutorial-production-guide/>
 
@@ -26595,7 +26673,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2504.14798>
 
 * **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** (`framework` | `useful` tier)
-  * Summary: - **FlashRAG Toolkit**: A Python-based framework designed for efficient Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications. - **Key Features**: Includes benchmarking tools, cu
+  * Summary: - **Efficient RAG Toolkit**: FlashRAG provides a Python-based framework optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation. - **Benchmark & Dataset Inte
   * Tags: `benchmark`, `dataset`, `github-repo`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/RUC-NLPIR/FlashRAG>
 
@@ -26697,7 +26775,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai>
 
 * **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 725, Downloads: 1313499)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 727, Downloads: 1313499)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/salesforce>
 
@@ -26850,6 +26928,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.19255v1 Announce Type: new Abstract: Time series anomaly detection plays a crucial role in a wide range of real-world applications. Reconstruction-based methods have become the mainstream paradigm, but they suffer from over-generalization
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.19255>
+
+* **[scann · PyPI](ai/rag/scann-pypi.md)** (`dataset` | `useful` tier)
+  * Summary: - **Optimized Nearest Neighbor Search**: ScaNN implements anisotropic vector quantization and search space pruning for **Maximum Inner Product Search (MIPS)** and supports Euclidean distance, achieving state-of-the-art performance on benchmarks like
+  * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://pypi.org/project/scann/>
 
 * **[SceneConductor: 3D Scene Generation from a Single Image with Multi-Agent Orchestration](ai/rag/arxiv-2606-08402.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.08402v3 Announce Type: replace-cross Abstract: Generating complete 3D scenes from a single image requires inferring globally consistent geometry, object relationships, and environmental context from inherently ambiguous visual evidence. De
@@ -27107,7 +27190,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5014, Downloads: 245742847)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5015, Downloads: 245742847)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -27584,6 +27667,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks](ai/research/arxiv-2606-12287.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.12287v1 Announce Type: cross Abstract: The Transformer architecture is widely regarded as the most powerful tool for natural language processing, but due to a high number of complex operations, it inherently faces the issue of high energy
   * Source URL: <https://arxiv.org/abs/2606.12287>
+
+* **[spotify/annoy](ai/resources/spotify-annoy.md)** (`framework` | `useful` tier)
+  * Summary: - **Optimized ANN Library**: Implements **Approximate Nearest Neighbor (ANN)** search using **random projection trees** (via **Locality-Sensitive Hashing (LSH)**) for high-dimensional data, prioritizing **memory efficiency** and **fast disk I/O** via
+  * Tags: `c++`, `dataset`, `github-repo`
+  * Source URL: <https://github.com/spotify/annoy>
 
 * **[Spotlight: Synergizing Seed Exploration and Spot GPUs for DiT RL Post-Training](ai/rag/arxiv-2606-19004.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.19004v1 Announce Type: cross Abstract: Reinforcement learning (RL) post-training of Diffusion Transformers (DiTs) is prohibitively expensive, requiring thousands of high-end GPUs. Existing works explore two directions to reduce cost: seed
@@ -29477,11 +29565,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2602.00122>
 
-* **[Vector embeddings | OpenAI API](ai/rag/vector-embeddings-openai-api.md)** (`dataset` | `useful` tier)
-  * Summary: - **Model Specifications**: `text-embedding-3-small` (1536D vectors, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, 9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, with max i
-  * Tags: `benchmark`, `dataset`, `hackernews`, `openai`, `producthunt`, `rag`, `web-crawled`
-  * Source URL: <https://platform.openai.com/docs/guides/embeddings>
-
 * **[Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery](ai/research/arxiv-2602-02726.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.02726v2 Announce Type: replace Abstract: Large language models (LLMs) encode rich semantic information in their hidden states, yet it remains difficult to understand what information these internal representations capture. Latent concepts
   * Tags: `benchmark`, `dataset`
@@ -29548,6 +29631,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.24477v1 Announce Type: cross Abstract: Video large language models (LLMs) are often constrained by computation and memory budgets, leading them to use reduced frame rates and spatial resolutions, which may cause them to miss critical infor
   * Tags: `models`, `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.24477>
+
+* **[ViDoRe Benchmark V3 - a vidore Collection](ai/resources/vidore-benchmark-v3-a-vidore-collection.md)** (`dataset` | `useful` tier)
+  * Summary: - **Dataset Overview**: `vidore/vidore_v3_hr` is a high-resolution (HR) image dataset hosted on Hugging Face, designed for advanced visual processing tasks. - **Scale & Accessibility**: Contains 13.4k samples with 3.57k updates, optimized for high-pe
+  * Tags: `benchmark`, `dataset`, `web-crawled`
+  * Source URL: <https://hf.co/collections/vidore/vidore-benchmark-v3>
 
 * **[VigilFormer: Deformable Attention for Video Anomaly Detection with Causal Risk Inference](ai/research/arxiv-2606-14724.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14724v1 Announce Type: cross Abstract: Video anomaly detection in surveillance settings must balance detection accuracy against real-time throughput, a tension that existing methods address either through stronger feature extractors or mor
@@ -29900,6 +29988,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.25182v1 Announce Type: cross Abstract: Jailbreak attacks reveal a persistent weakness in aligned Large Language Models: carefully crafted prompts can elicit policy-violating responses despite safety training. While most defenses operate at
   * Tags: `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.25182>
+
+* **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** (`dataset` | `useful` tier)
+  * Summary: - **AI Fundamentals**: AI encompasses non-human programs/models performing complex problem-solving, creativity, and generative tasks (e.g., content creation) using machine learning (ML) techniques like deep learning (DL) and natural language processi
+  * Tags: `anthropic`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
+  * Source URL: <https://web.dev/articles/ai-overview>
 
 * **[What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)** (`dataset` | `useful` tier)
   * Summary: CoursesTutorialsPracticeJobsNLP TutorialLibrariesPhasesText PreprosessingTokenizationLemmatizationWord EmbeddingsProjects IdeasInterview QuestionNLP QuizNLP PipelineDL for NLPShare Your ExperiencesIntroduction to NLPIntroduction to Natural Language P
@@ -30313,6 +30406,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.14187>
 
+* **[zhengxuJosh/Awesome-RAG-Vision](ai/rag/zhengxujosh-awesome-rag-vision.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated RAG-Vision Resources**: A specialized repository compiling advanced retrieval augmented generation (RAG) techniques tailored for computer vision applications, including multimodal and vision-language integration methods. - **GitHub Metada
+  * Tags: `dataset`, `github-repo`, `hackernews`, `rag`, `unknown`
+  * Source URL: <https://github.com/zhengxuJosh/Awesome-RAG-Vision>
+
 * **[ZONOS2 Technical Report](ai/research/arxiv-2606-24320.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24320v1 Announce Type: cross Abstract: We present ZONOS2 8B, our latest TTS model, which achieves state-of-the-art naturalness, prosody, and voice cloning fidelity. We improve upon Zonos-v0.1 across scale, data, and training recipe. We sca
   * Tags: `benchmark`, `hackernews`, `models`
@@ -30398,6 +30496,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Orientaciones AEPD sobre videocámaras en hogares de mayores**: Enfoque en equilibrio entre **dignidad/privacidad de personas mayores** y **derechos de cuidadores**, con directrices técnicas para implementación ética y legal de sistemas de videovi
   * Tags: `web-crawled`, `youtube`
   * Source URL: <https://www.aepd.es>
+
+* **[Benchmark Overview Â· MTEB Leaderboard](ai/resources/benchmark-overview-a-mteb-leaderboard.md)** (`benchmark` | `useful` tier)
+  * Summary: - **MTEB Leaderboard**: Hosts standardized benchmarks for evaluating text embedding models, accessible via [MTEB Leaderboard](http://mteb-leaderboard.hf.space/benchmarks). - **Sponsorship**: Supported by Laude Institute and Hugging Face, as indicated
+  * Tags: `benchmark`, `leaderboard`, `web-crawled`
+  * Source URL: <http://mteb-leaderboard.hf.space/?benchmark_name=ViDoRe%28v3%29>
 
 * **[Binary Format — WebAssembly 3.0 (2026-06-23)](ai/resources/binary-format-webassembly-3-0-2026-06-23.md)** (`prompt` | `useful` tier)
   * Summary: - **Binary Format Structure**: Defines WebAssembly's binary encoding conventions, including grammar, auxiliary notation, and list constructs for structured data representation. - **Instruction Set**: Encompasses parametric, control, variable, table,
@@ -30493,6 +30596,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Library Services**: UT Libraries offers databases, journals, research guides, and advanced search tools for academic resource discovery and retrieval. - **Awards & Initiatives**: Open Education Fellows developed a cost-free Spanish language textb
   * Tags: `producthunt`, `web-crawled`
   * Source URL: <https://www.lib.utexas.edu>
+
+* **[Hugging Face – The AI community building the future.](ai/resources/hugging-face-the-ai-community-building-the-future.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Model Overview**: Unlimited-OCR is a high-performance optical character recognition (OCR) model developed by Baidu, optimized for extracting text from images with high accuracy and efficiency. - **Key Features**: - Supports **unlimited-length tex
+  * Tags: `benchmark`, `models`, `web-crawled`
+  * Source URL: <https://huggingface.co/>
 
 * **[IGNET | Council of the Inspectors General on Integrity and Efficiency; IGnet](ai/resources/ignet-council-of-the-inspectors-general-on-integri.md)** (`framework` | `useful` tier)
   * Summary: - **CIGIE Structure**: Independent executive branch entity established by the *Inspector General Act of 1978* (amended 2008), consolidating PCIE/ECIE into 7 committees (Audit, IT, Inspections/Evaluations, Investigations, Integrity, Legislation, Profe
@@ -30619,11 +30727,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `python`
   * Source URL: <https://github.com/tavily-ai/tavily-search-evals>
 
-* **[tensorblue · GitHub](ai/resources/tensorblue-github.md)** (`benchmark` | `useful` tier)
-  * Summary: - GitHub user `tensorblue` has **0 public repositories, projects, or packages**, with **51 stars** across unspecified content. - User account is **unfollowed by default**, with **no followers or following** listed. - GitHub UI indicates **"Something
-  * Tags: `web-crawled`
-  * Source URL: <https://github.com/tensorblue>
-
 * **[Tito Lookup](ai/resources/tito-lookup.md)** (`benchmark` | `useful` tier)
   * Summary: - **No technical data or API endpoints** are exposed in the provided HTML form snippet; it only includes a single input field for an email address. - **No backend logic or data retrieval mechanism** is visible in the given snippet; functionality is i
   * Tags: `hackernews`, `web-crawled`
@@ -30658,6 +30761,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Monograph**: A 261-page *Foundations and Trends in Information Retrieval* (FnTIR) publication by Balog & Zhai (2024) reviewing user simulation frameworks, models, and algorithms for evaluating search engines, recommender systems, and conversation
   * Tags: `benchmark`, `hackernews`, `paper`, `web-crawled`
   * Source URL: <https://usersim.ai>
+
+* **[ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases](ai/resources/huggingface-blog-quentinjg-introducing-vidore-v3.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Benchmark Composition**: ViDoRe V3 includes 8 curated items designed for multi-modal enterprise document retrieval evaluation. - **Industry Standardization**: Positioned as the latest industry gold standard for evaluating document retrieval syste
+  * Tags: `benchmark`, `web-crawled`
+  * Source URL: <https://huggingface.co/blog/QuentinJG/introducing-vidore-v3>
 
 * **[Web Accessibility Assistance – Accessibility Information](ai/resources/web-accessibility-assistance-accessibility-informa.md)** (`benchmark` | `useful` tier)
   * Summary: - **Web Accessibility Requests**: Cornell provides multiple ticket-based request forms for web accessibility support, including general information, evaluation, and remediation, with varying login requirements. - **Automated Tools**: Services like Si
@@ -30721,7 +30829,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/akash3444/shadcn-ui-blocks>
 
 * **[All-in-one incident management platform | incident.io](ai/rag/all-in-one-incident-management-platform-incident-i.md)** (`tutorial` | `useful` tier)
-  * Summary: - **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency. - **Automated human-centric scheduling**: Dynamically assigns on-call duties based o
+  * Summary: - **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency. - **Automated human-centric scheduling**: Dynamically assigns on-call duties based on
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://incident.io?utm_source=medium&utm_medium=status-pages>
 
@@ -31010,11 +31118,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/kartikk-k/dashboard-ui>
 
-* **[LangSmith Observability - Docs by LangChain](ai/rag/langsmith-observability-docs-by-langchain.md)** (`framework` | `useful` tier)
-  * Summary: - **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics across frameworks like OpenAI, Anthropic, and CrewAI. - **Core features** include automated
-  * Tags: `agents`, `anthropic`, `benchmark`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`
-  * Source URL: <https://docs.langchain.com/langsmith/home>
-
 * **[linkb15/turborepo-shadcn-ui-tailwind-4](web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md)** (`template` | `useful` tier)
   * Summary: This template is for creating a monorepo with Turborepo, shadcn/ui, tailwindcss v4, and react v19.
   * Tags: `frontend_ui`
@@ -31068,6 +31171,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.26518v1 Announce Type: new Abstract: This tutorial paper provides a step-by-step, reproducible walkthrough of NeuraDock Agent, an open-source EEG agent focused on Alpha dynamics and visual cognitive-load analysis. The goal is practical: a
   * Tags: `agents`, `benchmark`, `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.26518>
+
+* **[New embedding models and API updates | OpenAI](ai/rag/new-embedding-models-and-api-updates-openai.md)** (`benchmark` | `useful` tier)
+  * Summary: - **New Embedding Models**: Introduced `text-embedding-3-small` (5x cheaper than `text-embedding-ada-002`, 62.3% avg. MTEB score) and `text-embedding-3-large` (up to 3072D, 64.6% avg. MTEB score, $0.00013/1K tokens). - **API Model Updates**: Launched
+  * Tags: `benchmark`, `hackernews`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://openai.com/blog/new-embedding-models-and-api-updates>
 
 * **[Next.js 10](web-development/nextjs/next-js-10.md)** (`tutorial` | `useful` tier)
   * Summary: Next.js 10 introduces Built-in Image Optimization, Internationalized Routing, Next.js Analytics, React 17 Support, and more!
@@ -31524,11 +31632,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `web-crawled`
   * Source URL: <https://support.researchsquare.com>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Practical RAG Implementation**: Python-based Retrieval-Augmented Generation (RAG) system enabling interactive querying of GitHub repositories via local download and chat interface. - **Technical Stack**: Leverages Python for core logic, with unsp
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`
-  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
-
 * **[Table of contents — voila 0.5.8 documentation](ai/resources/table-of-contents-voila-0-5-8-documentation.md)** (`template` | `useful` tier)
   * Summary: - **Voilà** converts Jupyter Notebooks into secure, interactive dashboards by stripping non-executable code and rendering outputs via `nbconvert` with customizable templates. - **Voici** extends Voilà by compiling dashboards into static web applicati
   * Tags: `hackernews`, `web-crawled`
@@ -31560,7 +31663,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://svelteflow.dev>
 
 * **[The world's fastest framework for building websites](ai/resources/the-world-s-fastest-framework-for-building-website.md)** (`framework` | `useful` tier)
-  * Summary: - **Licensing & Adoption**: Distributed under Apache 2.0 License; has 88,735 GitHub stars (as of June 26, 2026) with an active community and frequent releases. - **Performance & Architecture**: Written in Go, optimized for speed; renders large sites
+  * Summary: - **License & Popularity**: Distributed under Apache 2.0 License; boasts 88,753 GitHub stars (as of June 27, 2026) with an active community and frequent releases. - **Performance & Architecture**: Go-based, optimized for speed; renders large sites in
   * Tags: `frontend_ui`, `web-crawled`
   * Source URL: <https://gohugo.io/>
 
@@ -31757,11 +31860,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14350>
 
-* **[didilili/ai-agents-from-zero](ai/rag/didilili-ai-agents-from-zero.md)** (`framework` | `useful` tier)
-  * Summary: - **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning. - **Full-Stack Learning Path**: Includes hands-on projects, interview
-  * Tags: `agents`, `github-repo`, `models`, `python`, `rag`, `workflows`
-  * Source URL: <https://github.com/didilili/ai-agents-from-zero>
-
 * **[DSA Tutorial - GeeksforGeeks](ai/resources/dsa-tutorial-geeksforgeeks.md)** (`benchmark` | `useful` tier)
   * Summary: - **Core DSA Fundamentals**: Covers essential data structures (arrays, linked lists, trees, heaps) and algorithms (binary search, quick sort, merge sort), with foundational topics like complexity analysis (Big-O, Θ, Ω), recursion, and pattern generat
   * Tags: `benchmark`, `hackernews`, `reddit`, `web-crawled`, `youtube`
@@ -31807,9 +31905,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://go.dev/learn>
 
-* **[github/roadmap](ai/resources/github-roadmap.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Public Roadmap for GitHub Features**: Repository tracks upcoming features and improvements for GitHub and GitHub Enterprise, providing transparency on development priorities. - **Community-Driven Feedback**: Allows users to submit and vote on fea
-  * Tags: `github-repo`, `unknown`
+* **[github/roadmap](ai/resources/github-roadmap.md)** (`tutorial` | `essential` tier)
+  * Summary: - **Repository Overview**: GitHub's official public roadmap repository tracks upcoming features and improvements for GitHub products (e.g., GitHub.com, GitHub Enterprise). - **Metadata**: 8,787 stars, 1,680 forks; last updated June 27, 2026; topics i
+  * Tags: `github-repo`, `unknown`, `youtube`
   * Source URL: <https://github.com/github/roadmap>
 
 * **[Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)** (`tutorial` | `useful` tier)
@@ -31846,11 +31944,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **JetBrains Academy**: Interactive learning platform offering project-based courses in software development, covering languages (Java, Kotlin, Python, etc.) and frameworks (Spring, Django, etc.) with hands-on coding exercises and mentorship. - **Co
   * Tags: `web-crawled`, `workflows`
   * Source URL: <https://jetbrains.com/academy>
-
-* **[Learn AI | web.dev](ai/resources/learn-ai-web-dev.md)** (`prompt` | `useful` tier)
-  * Summary: - **AI Course for Web Developers**: A structured learning path on [web.dev](https://web.dev/learn/ai) covering AI fundamentals, use cases, predictive/generative AI, and responsible development practices. - **Technical Modules**: Includes platform sel
-  * Tags: `benchmark`, `hackernews`, `web-crawled`
-  * Source URL: <https://web.dev/learn/ai>
 
 * **[Learn game development w/ Unity | Courses & tutorials in game design, VR, AR, & Real-time 3D | Unity Learn](ai/rag/learn-game-development-w-unity-courses-tutorials-i.md)** (`tutorial` | `useful` tier)
   * Summary: - **Unity Learn** provides structured, expert-led learning paths for real-time 3D development, including beginner tutorials (e.g., *Get Started with Unity*) and advanced pathways for game development and industry-specific skills. - **Unity 6.5** intr
@@ -31900,11 +31993,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **RAG Implementation Framework**: Provides a structured 5-week learning path for mastering Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, covering hybrid search (vector + keyword), indexing techniques (HNSW, scalar/binarization quant
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `models`, `openai`, `rag`, `reddit`
   * Source URL: <https://github.com/microsoft/rag-time>
-
-* **[milvus-io/milvus · Discussions · GitHub](ai/rag/milvus-io-milvus.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Milvus GitHub Repository**: Open-source vector database with 45k+ stars, 4.1k+ forks, 713 open issues, and 207 pull requests; supports ARMv9 SVE BF16 via community discussions. - **Discussion Categories**: Active Q&A, feature requests, and announ
-  * Tags: `benchmark`, `hackernews`, `openai`, `rag`, `web-crawled`
-  * Source URL: <https://github.com/milvus-io/milvus/discussions>
 
 * **[Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture](ai/agents/arxiv-2606-00288.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.00288v3 Announce Type: replace Abstract: Large language models are undergoing a transition from model technology to system technology. Engineering challenges like cache reuse, context capacity, agent scheduling, and permission control rese
@@ -32031,8 +32119,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://training.linuxfoundation.org/application-development>
 
 * **[WenyuChiou/awesome-agentic-ai-zh](ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)** (`prompt` | `useful` tier)
-  * Summary: - **Trilingual Learning Roadmap**: Curates 240+ resources (繁中/English/简中) covering LLM fundamentals to multi-agent systems, with hands-on Python examples and CLI tools. - **Agentic AI Focus**: Covers core topics including LLM agents, RAG, prompt engi
-  * Tags: `agents`, `anthropic`, `github-repo`, `python`, `rag`, `workflows`
+  * Summary: - **Curated Learning Path**: A trilingual (Traditional Chinese, English, Simplified Chinese) repository offering a structured roadmap for agentic AI, covering foundational LLM concepts to advanced multi-agent systems with **240+ high-quality resource
+  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/WenyuChiou/awesome-agentic-ai-zh>
 
 ## Mcp Registry
@@ -32199,6 +32287,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `microsoft-research-blog`
   * Source URL: <https://microsoft.com/en-us/research/research-area/computer-vision>
 
+* **[Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md)** (`tutorial` | `useful` tier)
+  * Summary: - **VPC Service Controls Integration**: Add `Gemini for Google Cloud API`, `Gemini Code Assist API`, and optionally `Developer Connect API` to an existing organization-level service perimeter, including all required projects and VPC networks to restr
+  * Tags: `reddit`, `web-crawled`
+  * Source URL: <https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls>
+
 * **[Content Credentials | Verify Media Authenticity](ai/resources/content-credentials-verify-media-authenticity.md)** (`tutorial` | `useful` tier)
   * Summary: - **Content Credentials (C2PA standard)** enables provenance tracking for digital content (images, videos, audio, documents) via embedded metadata, distinguishing synthetic from authentic media. - **500+ industry leaders** (Microsoft, Adobe, Intel, B
   * Tags: `openai`, `web-crawled`, `youtube`
@@ -32233,11 +32326,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from OpenAI News Blog: Global Affairs
   * Tags: `blog-post`, `openai`, `openai-news`
   * Source URL: <https://openai.com/news/global-affairs>
-
-* **[google-gemini/cookbook](ai/resources/google-gemini-cookbook.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Repository Overview**: Hosts examples and guides for the Google Gemini API, implemented in Jupyter Notebook format. - **Metadata**: 17.4K+ stars, 2.6K+ forks, last updated June 26, 2026. - **Focus**: Demonstrates practical use cases and integrati
-  * Tags: `github-repo`, `jupyter notebook`
-  * Source URL: <https://github.com/google-gemini/cookbook>
 
 * **[google/gemma-3-12b-it · Hugging Face](ai/resources/huggingface-google-gemma-3-12b-it.md)** (`tutorial` | `useful` tier)
   * Summary: - **Model Family Overview**: Google's Gemma is a collection of lightweight, state-of-the-art open models derived from the same research and technology used to create the Gemini models, optimized for performance and efficiency. - **Technical Specifica
@@ -32436,11 +32524,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://docs.sentry.io/platforms/javascript/guides/astro/manual-setup/>
 
-* **[Chat LangChain](ai/resources/chat-langchain.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Dynamic Resource Allocation**: The article discusses techniques for real-time adjustment of computational resources (CPU, memory, network) based on workload demands, optimizing efficiency without over-provisioning. - **Latency Optimization**: Imp
-  * Tags: `hackernews`, `web-crawled`
-  * Source URL: <https://chat.langchain.com/>
-
 * **[Design Tech - Cornell University](ai/resources/design-tech-cornell-university.md)** (`tutorial` | `useful` tier)
   * Summary: - **Transdisciplinary Initiative**: Cornell’s Department of Design Tech integrates expertise from Architecture, Computing, Engineering, and Human Ecology to pioneer research and education at the intersection of design and emerging technologies (e.g.,
   * Tags: `hackernews`, `models`, `paper`, `threejs`, `web-crawled`, `youtube`
@@ -32457,9 +32540,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://opentelemetry.io/docs/getting-started/>
 
 * **[Google Family Link - Apps on Google Play](ai/resources/google-family-link-apps-on-google-play.md)** (`framework` | `useful` tier)
-  * Summary: - **Parental Control Framework**: Google Family Link enables granular parental controls via supervised Google accounts, including screen time limits, app management (blocking/approvals), and content filtering across Google services (Chrome, Play, You
+  * Summary: - **Parental Controls Framework**: Google Family Link enables granular screen time management (daily limits, school/downtime schedules), app-level time restrictions, and content filtering across Google services (Chrome, Play, YouTube, Search) via sup
   * Tags: `hackernews`, `reddit`, `web-crawled`, `youtube`
-  * Source URL: <https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dfamilylink%26utm_medium%3Dwebsite%26utm_campaign%3Ddevice_footer>
+  * Source URL: <https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter>
 
 * **[open-telemetry/community](ai/resources/open-telemetry-community.md)** (`tutorial` | `useful` tier)
   * Summary: - **Repository Overview**: OpenTelemetry community repository (`open-telemetry/community`) hosts governance, documentation, and collaboration resources for the OpenTelemetry project under the CNCF umbrella. - **Technical Stack**: Primary language is
@@ -32527,7 +32610,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11219>
 
 * **[alvinreal/awesome-opensource-ai](ai/rag/alvinreal-awesome-opensource-ai.md)** (`tool` | `useful` tier)
-  * Summary: - **Curated Collection**: Repository `alvinreal/awesome-opensource-ai` aggregates high-quality, fully open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance. - **Technical Scope**: Focuses on Python-based i
+  * Summary: - **Curated Repository**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance and accuracy. - **Technical Scope**: Encompasses agents, generative AI, LLMs, machine learning, MLOps, and R
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/alvinreal/awesome-opensource-ai>
 
@@ -32680,11 +32763,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Feature-Aligned Speech Watermarking for Robustness to Reconstruction Distortions](ai/research/arxiv-2606-11828.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.11828v1 Announce Type: cross Abstract: Audio watermarking aims to embed identifiable information into audio while remaining imperceptible. Existing methods adopt high-fidelity, low-energy designs to preserve perceptual quality, but the res
   * Source URL: <https://arxiv.org/abs/2606.11828>
-
-* **[felladrin/awesome-ai-web-search](ai/rag/felladrin-awesome-ai-web-search.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated list** of AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and Q&A. - **Covers metasearch engines**, AI-driven search engines, and frameworks for web-based question answering and retri
-  * Tags: `github-repo`, `html`, `rag`
-  * Source URL: <https://github.com/felladrin/awesome-ai-web-search>
 
 * **[Forecasting Future Behavior as a Learning Task](ai/research/arxiv-2606-11445.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11445v1 Announce Type: new Abstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particu
@@ -33037,9 +33115,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12268>
 
-* **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)** (`prompt` | `useful` tier)
-  * Summary: - **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, LLM compatibility (e.g., Llama 3.1 70b), and minimal-code deployment via components like `WebBaseLoader` and `VectorstoreIndexCreator`. - **LlamaIndex v0.12.0** introdu
-  * Tags: `agents`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
+* **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)** (`dataset` | `useful` tier)
+  * Summary: - **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`. - **LlamaIndex v0.12.0**
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://dasroot.net/posts/2026/03/python-rag-projects-github/>
 
 * **[TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching](ai/research/arxiv-2605-12288.md)** (`benchmark` | `useful` tier)
@@ -33062,7 +33140,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.11662>
 
 * **[vercel-labs/ai-sdk-preview-rag](ai/rag/vercel-labs-ai-sdk-preview-rag.md)** (`template` | `useful` tier)
-  * Summary: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating Next.js for full-stack AI workflows. - **Tech Stack**: TypeScript-based, leveraging `@ai-sdk/core` and `@ai-sdk/react` for structu
+  * Summary: - **RAG Implementation**: Template demonstrates Retrieval-Augmented Generation (RAG) using the Vercel AI SDK, integrating Next.js for full-stack AI workflows. - **Key Components**: Leverages TypeScript-based AI SDK for structured prompt handling, ret
   * Tags: `frontend_ui`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/vercel-labs/ai-sdk-preview-rag>
 
@@ -33136,6 +33214,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `openai`, `rag`, `web-crawled`
   * Source URL: <https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd>
 
+* **[chaoql/rag-best-practices](ai/rag/chaoql-rag-best-practices.md)** (`prompt` | `useful` tier)
+  * Summary: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) techniques with large language models (LLMs), last updated on **2026-06-22**. - **Technical Scope**:
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+  * Source URL: <https://github.com/chaoql/rag-best-practices>
+
 * **[CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment](ai/rag/arxiv-2606-15396.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15396v1 Announce Type: cross Abstract: Malicious content generated from large language models (LLMs) could pose severe safety risks and ethical concerns. While existing LLM safety guardrails excel in English or multilingual settings, they
   * Tags: `benchmark`, `paper`, `rag`
@@ -33155,6 +33238,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12422v1 Announce Type: cross Abstract: The integration of large language models (LLMs) into educational assessment represents a transformative shift in classroom grading practices. While automated scoring systems and machine learning techn
   * Tags: `anthropic`, `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.12422>
+
+* **[Danielskry/Awesome-RAG](ai/rag/danielskry-awesome-rag.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, including research papers, libraries, and real-world implementations. - **Multi-Topic Coverage**: Enco
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `paper`, `rag`, `unknown`
+  * Source URL: <https://github.com/Danielskry/Awesome-RAG>
 
 * **[Detecting and Controlling Sycophancy with Cascading Linear Features](ai/research/arxiv-2606-26155.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.26155v1 Announce Type: new Abstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine
@@ -33180,6 +33268,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.15633>
 
+* **[gabrielchua/RAGxplorer](ai/rag/gabrielchua-ragxplorer.md)** (`framework` | `useful` tier)
+  * Summary: - **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processe
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `models`, `rag`
+  * Source URL: <https://github.com/gabrielchua/RAGxplorer>
+
 * **[Graph RAG Isn't a One-Shot Anymore — The Case for Agentic Graph RAG MCPs — ryantsuji.dev](ai/rag/graph-rag-isn-t-a-one-shot-anymore-the-case-for-ag.md)** (`prompt` | `useful` tier)
   * Summary: - **Agentic Graph RAG Design**: Retrieval steps are deterministic (human-designed graph traversals), while orchestration (tool selection, stopping criteria) is AI-driven, optimizing for multi-hop reasoning without heavy preprocessing. - **Tool Return
   * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `youtube`
@@ -33195,20 +33288,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2604.13301>
 
+* **[Hugging Face Forums - Hugging Face Community Discussion](ai/rag/hugging-face-forums-hugging-face-community-discuss.md)** (`prompt` | `useful` tier)
+  * Summary: - **Architectural Limitations in Agentic Systems**: Discussion highlights that prompt engineering alone cannot resolve core issues in agentic AI systems, emphasizing the need for fundamental architectural improvements rather than superficial prompt-b
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://discuss.huggingface.co/>
+
 * **[junwoojeong100/azure-intelligent-app-labs](ai/rag/junwoojeong100-azure-intelligent-app-labs.md)** (`prompt` | `useful` tier)
   * Summary: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/junwoojeong100/azure-intelligent-app-labs>
 
-* **[langchain-ai/rag-research-agent-template](ai/rag/langchain-ai-rag-research-agent-template.md)** (`template` | `useful` tier)
-  * Summary: - **Template Purpose**: Provides a structured framework for building Retrieval-Augmented Generation (RAG) research agents using LangChain, enabling integration of LLMs with external knowledge sources. - **Key Components**: Includes modular components
-  * Tags: `agents`, `anthropic`, `github-repo`, `hackernews`, `openai`, `python`, `rag`
-  * Source URL: <https://github.com/langchain-ai/rag-research-agent-template>
-
 * **[LATTEArena: An Evaluation Framework for LLM-powered Tabular Feature Engineering (Extended Version)](ai/research/arxiv-2606-09004.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.09004v2 Announce Type: replace Abstract: Feature engineering remains a cornerstone of tabular data analysis, and Large Language Models (LLMs) have emerged as a promising paradigm for its automation, giving rise to LLM-powered Automated Tab
   * Tags: `benchmark`, `dataset`, `leaderboard`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.09004>
+
+* **[Learn AI | web.dev](ai/resources/learn-ai-web-dev.md)** (`framework` | `useful` tier)
+  * Summary: - **AI Course for Web Developers**: A structured course on [web.dev](https://web.dev/learn/ai) covering AI fundamentals, use cases, predictive/generative AI, responsible development, platform/library selection, prompt engineering, evaluation-driven d
+  * Tags: `benchmark`, `hackernews`, `web-crawled`
+  * Source URL: <https://web.dev/learn/ai>
 
 * **[Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models](ai/research/arxiv-2606-24841.md)** (`template` | `useful` tier)
   * Summary: arXiv:2606.24841v1 Announce Type: new Abstract: Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-train
@@ -33278,11 +33376,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without abstracted libraries or frameworks. - **Core components**: Covers essential
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/VivekMalhan666/rag-beginner-guide>
-
-* **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** (`prompt` | `useful` tier)
-  * Summary: - **AI Fundamentals**: AI refers to non-human programs/models performing complex tasks (e.g., problem-solving, creativity) via machine learning (ML), with generative AI creating new content from learned patterns. ML enables computers to learn from da
-  * Tags: `anthropic`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
-  * Source URL: <https://web.dev/articles/ai-overview>
 
 * **[When Context Returns: Toward Robust Internalization in On-Policy Distillation](ai/research/arxiv-2606-11627.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11627v1 Announce Type: new Abstract: Recent work has shown that on-policy distillation can internalize privileged context, such as system prompts or task hints, into a student model so that the context is no longer needed at inference time
@@ -33415,11 +33508,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://safebrowsing.google.com/?utm_source=pp>
 
-* **[SpeechifyInc/ai-api-examples](ai/resources/speechifyinc-ai-api-examples.md)** (`api` | `essential` tier)
-  * Summary: - Repository contains official examples demonstrating Speechify AI API usage, primarily in HTML format. - Minimal activity with only 9 stars and 2 forks, last updated June 2, 2026. - Lacks additional metadata or topics despite being a technical API e
-  * Tags: `github-repo`, `hackernews`, `html`
-  * Source URL: <https://github.com/SpeechifyInc/ai-api-examples>
-
 * **[Stainless - Stainless Docs Platform](ai/rag/stainless-stainless-docs-platform.md)** (`framework` | `useful` tier)
   * Summary: - **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, ensuring real-time accuracy and eliminating manual updates. - **AI-Optimized & Developer-Friendly**: Supports AI agents with struc
   * Tags: `agents`, `frontend_ui`, `rag`, `web-crawled`
@@ -33517,6 +33605,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`, `youtube`
   * Source URL: <https://www.apple.com/watch/>
 
+* **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by bogdiyan. Score: 91, Comments: 81. Original Link: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+  * Tags: `ai`, `anthropic`, `hackernews`, `producthunt`, `rag`
+  * Source URL: <https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on>
+
+* **[Bazel](ai/resources/bazel.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Build System**: Bazel is an open-source, multi-language, multi-platform build system optimized for speed, correctness, and scalability, supporting Java, C++, Go, Android, iOS, and more, with advanced caching, parallel execution, and dependency an
+  * Tags: `web-crawled`
+  * Source URL: <https://bazel.build>
+
 * **[Bitbucket | Atlassian Community](ai/agents/bitbucket-atlassian-community.md)** (`tutorial` | `useful` tier)
   * Summary: - **Bitbucket Forums**: Atlassian's official community forums for Bitbucket, offering Q&A, discussion groups, articles, and support resources for version control collaboration. - **AI-Native SDLC Integration**: Bitbucket’s product roadmap includes AI
   * Tags: `agents`, `frontend_ui`, `leaderboard`, `meta-ai`, `models`, `producthunt`, `reddit`, `scripts`, `web-crawled`, `workflows`
@@ -33546,6 +33644,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.18543v1 Announce Type: new Abstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticat
   * Tags: `agents`, `anthropic`
   * Source URL: <https://arxiv.org/abs/2606.18543>
+
+* **[Chat LangChain](ai/resources/chat-langchain.md)** (`framework` | `useful` tier)
+  * Summary: - **Dynamic Loading Mechanism**: The article/resource discusses a system or framework that dynamically loads resources (e.g., modules, libraries, or data) at runtime rather than compile-time, optimizing memory usage and performance. - **Lazy Initiali
+  * Tags: `web-crawled`
+  * Source URL: <https://chat.langchain.com/>
 
 * **[Cloud Storage for Firebase | Store and serve content with ease](ai/rag/cloud-storage-for-firebase-store-and-serve-content.md)** (`framework` | `useful` tier)
   * Summary: - **Scalable Object Storage**: Cloud Storage for Firebase provides a cost-effective, Google-scale object storage service with client SDKs (iOS, Android, Web, C++, Unity) for storing and serving user-generated content (e.g., images, videos) with autom
@@ -33647,6 +33750,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2505.16319>
 
+* **[Gemini in Android Studio - Android Developers](ai/rag/gemini-in-android-studio-android-developers.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Agent Mode** enables multi-stage, goal-driven tasks (e.g., unit test generation, UI alterations, error fixes) with iterative plan execution, review, and refinement across project files. - **Multimodal UI Prototyping** allows direct conversion of
+  * Tags: `agents`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://developer.android.com/gemini-in-android>
+
 * **[GitHub · Change is constant. GitHub keeps you ahead. · GitHub](ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md)** (`prompt` | `useful` tier)
   * Summary: - **GitHub Copilot Integration**: AI-powered coding assistant (Copilot) enables real-time code refactoring, feature implementation, and automated workflows (e.g., extracting logic into reusable functions) across the SDLC via natural language prompts.
   * Tags: `agents`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
@@ -33661,11 +33769,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: SaaS landing page using Next.js 16, ShadcnUI and Tailwind CSS v4.
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/gonzalochale/saas-landing-template>
-
-* **[Google Play for business | Launch & monetize your apps | Google Play Console](ai/rag/google-play-for-business-launch-monetize-your-apps.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Billing Flexibility & Fee Reduction**: Google Play introduces expanded billing options and reduced fees, including a **User Choice Billing Pilot** and **Billing Choice Program**, allowing developers to offer alternative payment methods beyond Goo
-  * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
-  * Source URL: <https://play.google.com/console>
 
 * **[GraalVM](ai/rag/graalvm.md)** (`framework` | `useful` tier)
   * Summary: - **Monthly Feature Releases**: Starting with version 25.1, GraalVM introduces monthly feature releases alongside stable CPU releases to accelerate innovation delivery. - **Native Image Benefits**: GraalVM's Native Image feature produces executables
@@ -33716,13 +33819,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://jupyter-client.readthedocs.io/en/latest/>
 
+* **[LangSmith Observability - Docs by LangChain](ai/rag/langsmith-observability-docs-by-langchain.md)** (`framework` | `useful` tier)
+  * Summary: - **LangSmith Observability** provides end-to-end monitoring, debugging, and performance tracking for LLM applications, supporting frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integra
+  * Tags: `agents`, `anthropic`, `benchmark`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://docs.langchain.com/langsmith/home>
+
 * **[LLM-Powered Virtual Population for Demand Simulation and Pricing](ai/rag/arxiv-2606-16183.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16183v1 Announce Type: new Abstract: We develop an LLM-powered virtual population model that simulates demand for pricing decisions, in settings where products are described by rich unstructured information, such as text descriptions and i
   * Tags: `dataset`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16183>
 
 * **[Mac - Apple](ai/rag/mac-apple.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Mac Product Lineup**: Apple offers a range of Mac devices including MacBook Neo (13"), MacBook Air (13" & 15"), MacBook Pro (14" & 16"), iMac (all-in-one desktop with 7 color variants), Mac mini (compact desktop), and Mac Studio (high-performance
+  * Summary: - **Mac Product Lineup**: Apple offers MacBook Neo (new budget model), MacBook Air (13" & 15"), MacBook Pro (14" & 16"), iMac (7 color options + silver), Mac mini, and Mac Studio, with displays including Studio Display and Studio Display XDR. - **Edu
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.apple.com/mac/>
 
@@ -33770,11 +33878,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16059v1 Announce Type: new Abstract: For thirty years, quantitative finance has paid a costly two-language tax: models researched in Python are rewritten in C++ for production, often introducing numerical discrepancies. GPU-accelerated dee
   * Tags: `benchmark`, `creative_dev`
   * Source URL: <https://arxiv.org/abs/2606.16059>
-
-* **[New embedding models and API updates | OpenAI](ai/rag/new-embedding-models-and-api-updates-openai.md)** (`benchmark` | `useful` tier)
-  * Summary: - **New Embedding Models**: Introduced `text-embedding-3-small` (5x cheaper than `text-embedding-ada-002`, 44.0% MIRACL, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 54.9% MIRACL, 64.6% MTEB, $0.00013/1K tokens), with native support for dynami
-  * Tags: `benchmark`, `hackernews`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`
-  * Source URL: <https://openai.com/blog/new-embedding-models-and-api-updates>
 
 * **[Newest 'electron' Questions - Stack Overflow](ai/rag/newest-electron-questions-stack-overflow.md)** (`tutorial` | `useful` tier)
   * Summary: - **Electron IPC messaging**: Safe unified channel messaging in Electron requires structured `contextBridge.exposeInMainWorld` implementations in `preload.js`, avoiding single-function isolation for better maintainability and security. - **Electron-R
@@ -33832,7 +33935,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://developer.atlassian.com/platform/marketplace>
 
 * **[Pricing · Plans for every developer · GitHub](ai/rag/pricing-plans-for-every-developer-github.md)** (`tutorial` | `useful` tier)
-  * Summary: - **GitHub Free Tier**: Provides unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month (public repos), 500MB Packages storage (public repos), and community support. - **GitHub Team Plan**: Adds GitHub Codespace
+  * Summary: - **GitHub Free Tier**: Provides unlimited public/private repositories, Dependabot security updates, 2,000 CI/CD minutes/month, 500MB package storage, and community support for $0/month. - **GitHub Team Plan**: Adds GitHub Codespaces access ($0.18/hr
   * Tags: `agents`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://github.com/pricing>
 
@@ -33990,6 +34093,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `web-crawled`
   * Source URL: <https://v8.dev/>
 
+* **[Vector embeddings | OpenAI API](ai/rag/vector-embeddings-openai-api.md)** (`prompt` | `useful` tier)
+  * Summary: - **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD, 64.6% MTEB) support dynamic dimension reduction via `dimensions` parameter, enabling trade-offs bet
+  * Tags: `benchmark`, `dataset`, `hackernews`, `openai`, `producthunt`, `rag`, `web-crawled`
+  * Source URL: <https://platform.openai.com/docs/guides/embeddings>
+
 * **[Verify API | Twilio](ai/resources/verify-api-twilio.md)** (`tutorial` | `useful` tier)
   * Summary: - **Twilio Verify Pricing**: Pricing details available via provided link, structured per verification method (SMS, voice, email, etc.) with volume-based discounts. - **Product Removal**: Explicit instruction to remove the product, implying deprecatio
   * Tags: `web-crawled`, `workflows`
@@ -34081,6 +34189,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`, `youtube`
   * Source URL: <https://developer.mozilla.org/docs/Web/CSS/:has>
 
+* **[?nc1=f_dr](ai/rag/access-aws-expert-solutions-authoritative-knowledg.md)** (`prompt` | `useful` tier)
+  * Summary: - **Service Outage**: AWS is experiencing an unexpected service disruption, affecting user access to the platform. - **Error Handling**: The error page indicates a server-side issue, prompting users to refresh or navigate to the homepage. - **Feedbac
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://repost.aws/?nc1=f_dr>
+
 * **[[2212.14024] Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP](ai/rag/arxiv-2212-14024.md)** (`framework` | `useful` tier)
   * Summary: - **DSP Framework**: Introduces *Demonstrate-Search-Predict (DSP)*, a framework that composes frozen language models (LMs) and retrieval models (RMs) via natural language pipelines, decomposing knowledge-intensive tasks into modular transformations (
   * Tags: `benchmark`, `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
@@ -34111,13 +34224,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://arxiv.org/abs/2501.07391>
 
-* **[[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](ai/rag/arxiv-2504-20734.md)** (`dataset` | `useful` tier)
-  * Summary: - **Modality-aware routing**: Dynamically selects the most relevant modality-specific corpus for retrieval, addressing the modality gap issue where unified representation spaces favor same-modality retrieval. - **Granularity-aware retrieval**: Organi
+* **[[2504.20734] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](ai/rag/arxiv-2504-20734.md)** (`framework` | `useful` tier)
+  * Summary: - **Modality-Aware Routing**: UniversalRAG dynamically selects modality-specific corpora for retrieval to mitigate the *modality gap*, where unified embedding spaces favor same-modality retrieval, improving cross-modal knowledge integration. - **Mult
   * Tags: `benchmark`, `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`, `youtube`
   * Source URL: <https://arxiv.org/abs/2504.20734>
 
 * **[[2507.19457] GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](ai/rag/arxiv-2507-19457.md)** (`framework` | `useful` tier)
-  * Summary: - **GEPA (Genetic-Pareto)** introduces a prompt optimization framework leveraging natural language reflection to iteratively diagnose, update, and combine LLM prompts via trial-and-error, outperforming RL-based methods like GRPO with fewer rollouts.
+  * Summary: - **GEPA (Genetic-Pareto)** introduces a prompt optimization framework leveraging natural language reflection to iteratively diagnose, propose, and test prompt updates via trial-and-error, outperforming traditional RL methods like GRPO. - **Empirical
   * Tags: `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://arxiv.org/abs/2507.19457>
 
@@ -34267,7 +34380,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://support.google.com/legal/answer/12158374>
 
 * **[About Medium](ai/rag/about-medium.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists. - **User
+  * Summary: - **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists. - **Reve
   * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://about.medium.com/>
 
@@ -34471,6 +34584,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `openai`, `producthunt`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://ai-text-humanizer.com>
 
+* **[AI-Application-and-Integration-Lab/MegaRAG](ai/rag/ai-application-and-integration-lab-megarag.md)** (`framework` | `useful` tier)
+  * Summary: - **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, an advanced Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) and graph-based retrieval for enhanced contextual understanding in ACL 2026. - *
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/AI-Application-and-Integration-Lab/MegaRAG>
+
 * **[AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](ai/rag/arxiv-2606-15709.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15709v1 Announce Type: new Abstract: Jordan faces severe water scarcity with 50\% of water produced is lost to leakage, theft and metering issues also known as non-revenue water (NRW). Traditional reactive approaches have proven insufficie
   * Tags: `agents`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `paper`, `rag`, `scripts`
@@ -34486,8 +34604,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.15834>
 
-* **[ajac-zero/example-rag-app](ai/rag/ajac-zero-example-rag-app.md)** (`product` | `useful` tier)
-  * Summary: - **Observability & LLM Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM integration. - **Development Rigor**: Fully Dockerized deployment, TypeScript-based wit
+* **[Ais1on/CTI-RAG](ai/rag/ais1on-cti-rag.md)** (`framework` | `useful` tier)
+  * Summary: - **Framework Architecture**: CTI-RAG combines Retrieval-Augmented Generation (RAG) with a knowledge graph and causal reasoning to enhance Cyber Threat Intelligence (CTI) analysis, enabling structured threat data integration and inference. - **Core C
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+  * Source URL: <https://github.com/Ais1on/CTI-RAG>
+
+* **[ajac-zero/example-rag-app](ai/rag/ajac-zero-example-rag-app.md)** (`tool` | `useful` tier)
+  * Summary: - **Tech Stack**: TypeScript-based RAG application with Docker support, full type-checking, and 100% test coverage. - **Observability & Providers**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider support. - **Metadata**:
   * Tags: `github-repo`, `rag`, `typescript`
   * Source URL: <https://github.com/ajac-zero/example-rag-app>
 
@@ -34502,7 +34625,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.18295>
 
 * **[alfredodeza/azure-rag](ai/rag/alfredodeza-azure-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) in Python. - **Key Components**: Leverages Azure’s vector search capabilities for document retrieval and integ
+  * Summary: - **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating retrieval-based and generative AI models for enhanced responses. - **Implementation**: Python-based, leveraging Azure Cognitive Search for retrieval an
   * Tags: `github-repo`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/alfredodeza/azure-rag>
 
@@ -34511,9 +34634,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `rag`, `typescript`
   * Source URL: <https://github.com/algolia/firestore-algolia-search>
 
-* **[ali-bahrainian/RAG_best_practices](ai/rag/ali-bahrainian-rag-best-practices.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: A Python-based GitHub repository (`ali-bahrainian/RAG_best_practices`) focused on Retrieval-Augmented Generation (RAG) best practices, with 107 stars and 20 forks. - **Technical Scope**: No explicit description provided, bu
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+* **[ali-bahrainian/RAG_best_practices](ai/rag/ali-bahrainian-rag-best-practices.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and methodologies. - **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19, with
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/ali-bahrainian/RAG_best_practices>
 
 * **[AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion](ai/rag/arxiv-2601-19697.md)** (`framework` | `useful` tier)
@@ -34542,7 +34665,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.nature.com/articles/s41558-018-0119-8>
 
 * **[ALucek/GraphRAG-Breakdown](ai/rag/alucek-graphrag-breakdown.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Knowledge Graph RAG Architecture**: Repository provides a structured breakdown of integrating knowledge graphs (KGs) with Retrieval-Augmented Generation (RAG), demonstrating how KGs enhance context retrieval via graph-based indexing and subgraph
+  * Summary: - **GraphRAG Overview**: Repository provides a technical breakdown of Knowledge Graph Retrieval-Augmented Generation (RAG), combining structured knowledge graphs with LLM-based generation for enhanced reasoning and context-aware responses. - **Implem
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/ALucek/GraphRAG-Breakdown>
 
@@ -34602,7 +34725,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Andrew-Jang/RAGHub>
 
 * **[Android Apps on Google Play](ai/rag/android-apps-on-google-play.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Google Play Games Expansion**: Google Play Games now supports cross-platform gaming on Windows, mobile, tablets, TVs, Chromebooks, watches, and XR headsets, with titles like *UnGodly*, *Discounty*, and *Persona5: The Phantom X* available for PC/m
+  * Summary: - **Cross-platform gaming**: Google Play Games supports deployment across Windows, Android phones/tablets, Chromebooks, TVs, XR headsets, and watches, enabling seamless multi-device compatibility for titles like *UnGodly* and *Persona5: The Phantom X
   * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `threejs`, `web-crawled`
   * Source URL: <https://play.google.com/>
 
@@ -34612,9 +34735,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://medium.com/androiddevelopers>
 
 * **[android Git repositories - Git at Google](ai/rag/android-git-repositories-git-at-google.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Centralized Git Repository Hosting**: Android's official source code is hosted on Google's Git service (`android.googlesource.com`), providing a unified platform for version control and collaboration across diverse hardware/software projects (e.g
+  * Summary: - **Hosted Git Repositories**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/asus
   * Tags: `benchmark`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `youtube`
-  * Source URL: <https://android.googlesource.com>
+  * Source URL: <http://android.googlesource.com>
 
 * **[Android Jetpack Dev Resources - Android Developers](ai/rag/android-jetpack-dev-resources-android-developers.md)** (`template` | `useful` tier)
   * Summary: - **Jetpack Suite**: A modular set of Android libraries designed to reduce boilerplate code, enforce best practices, and ensure cross-version/device compatibility, enabling developers to focus on core functionality while handling complex tasks like l
@@ -34627,8 +34750,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://blog.google/chromium/android-sets-new-record-for-mobile-web-performance>
 
 * **[aomediacodec/libavif](ai/rag/aomediacodec-libavif.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: C-based library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression. - **Functionality**: Supports both lossy and lossless encoding/decoding with features like multi-th
-  * Tags: `c`, `github-repo`, `rag`, `reddit`, `youtube`
+  * Summary: - **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression. - **Functionality**: Supports both lossy and lossless encoding/decoding, with compatibility for AV1
+  * Tags: `c`, `github-repo`, `rag`
   * Source URL: <https://github.com/aomediacodec/libavif>
 
 * **[AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction](ai/rag/arxiv-2606-15540.md)** (`framework` | `useful` tier)
@@ -34722,8 +34845,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16595>
 
 * **[arXiv + Replicate | Replicate](ai/rag/arxiv-replicate-replicate.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 195.9K runs. - **Claude-Opus-4.7**: Anthropic's advanced model excelling in agentic coding, vision tasks, and multi-ste
-  * Tags: `agents`, `anthropic`, `rag`, `web-crawled`
+  * Summary: - **Gemini-3.1-Flash-TTS**: Google's high-speed, expressive TTS model supporting 30 voices and 70+ languages, optimized for low-latency inference and high naturalness via advanced autoregressive/non-autoregressive hybrid architecture. - **p-video-ava
+  * Tags: `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://replicate.com/docs/arxiv/about>
 
 * **[As You Wish: Mission Planning with Formal Verification using LLMs in Precision Agriculture](ai/rag/arxiv-2606-18519.md)** (`framework` | `useful` tier)
@@ -34827,7 +34950,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.27361>
 
 * **[awesome-opencode/awesome-opencode](ai/rag/awesome-opencode-awesome-opencode.md)** (`tool` | `useful` tier)
-  * Summary: - **Curated Resource Hub**: A GitHub repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as a community-driven "awesome" list. - **Technical Metadata**: Repository stats
+  * Summary: - **Curated Resource Hub**: A comprehensive, community-driven repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured for easy discovery and integration. - **Technical Stack*
   * Tags: `agents`, `github-repo`, `hackernews`, `javascript`, `rag`
   * Source URL: <https://github.com/awesome-opencode/awesome-opencode>
 
@@ -34836,20 +34959,35 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://www.theblock.co/post/398820/aws-marketplace-integrates-chainlink>
 
-* **[Azure-Samples/aisearch-openai-rag-audio](ai/rag/azure-samples-aisearch-openai-rag-audio.md)** (`template` | `essential` tier)
+* **[AWS Summit Washington, D.C. 2026. - Generative AI solutions for the public sector](ai/rag/aws-summit-washington-d-c-2026-generative-ai-solut.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Event Details**: AWS Summit Washington, D.C. is a free, two-day event (June 30–July 1, 2026) at the Walter E. Washington Convention Center, featuring 350+ technical sessions, hands-on workshops, and networking opportunities focused on cloud innov
+  * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://aws.amazon.com/events/summits/washington-dc/>
+
+* **[Azure-Samples/aisearch-openai-rag-audio](ai/rag/azure-samples-aisearch-openai-rag-audio.md)** (`template` | `useful` tier)
   * Summary: - **VoiceRAG Implementation**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing. - **Technical Stack**: Pyth
   * Tags: `github-repo`, `hackernews`, `models`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/Azure-Samples/aisearch-openai-rag-audio>
 
 * **[Azure-Samples/app-service-rag-openai-ai-search-dotnet](ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md)** (`benchmark` | `useful` tier)
-  * Summary: - **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and AI Search for document-based chat interactions. - **Hybrid Search & Security**: Supports hybrid search (vector + keyword + sem
+  * Summary: - **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and Azure AI Search, enabling hybrid search (vector + keyword + semantic ranking) for document-based chat interactions. - **Securi
   * Tags: `github-repo`, `html`, `openai`, `rag`
   * Source URL: <https://github.com/Azure-Samples/app-service-rag-openai-ai-search-dotnet>
 
-* **[Azure/agent-innovator-lab](ai/rag/azure-agent-innovator-lab.md)** (`benchmark` | `useful` tier)
-  * Summary: * Azure-centric AI agent development platform. * Focuses on search optimization, agent design, and evaluation methodologies. * Implements RAG best practices through Jupyter Notebook-based examples.
-  * Tags: `agents`, `benchmark`, `github-repo`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/Azure/agent-innovator-lab>
+* **[Azure-Samples/azure-openai-rag-workshop-template](ai/rag/azure-samples-azure-openai-rag-workshop-template.md)** (`template` | `useful` tier)
+  * Summary: - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chatbot using Azure OpenAI services, designed for workshop implementation. - **Key Components**: Integrates Azure OpenAI embeddings and vector sea
+  * Tags: `github-repo`, `openai`, `rag`, `typescript`
+  * Source URL: <https://github.com/Azure-Samples/azure-openai-rag-workshop-template>
+
+* **[Azure-Samples/chat-with-your-data-solution-accelerator](ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)** (`template` | `essential` tier)
+  * Summary: - **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A experiences. - **Azure Integration**: Leverages Azure services (AI
+  * Tags: `github-repo`, `openai`, `python`, `rag`
+  * Source URL: <https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator>
+
+* **[Azure/GenAIOps-project-template](ai/rag/azure-genaiops-project-template.md)** (`template` | `useful` tier)
+  * Summary: - **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for generative AI workloads. - **Pre-configured RAG architecture*
+  * Tags: `bicep`, `github-repo`, `openai`, `rag`, `scripts`
+  * Source URL: <https://github.com/Azure/GenAIOps-project-template>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
   * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3158, Downloads: 31360936)
@@ -34860,6 +34998,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 497, Downloads: 61803330)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
+
+* **[bakrianoo/mini-rag](ai/rag/bakrianoo-mini-rag.md)** (`benchmark` | `essential` tier)
+  * Summary: - **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integration. - **Modular Architecture**: Implements a scalable
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/bakrianoo/mini-rag>
+
+* **[bangoc123/retrieval-backend-with-rag](ai/rag/bangoc123-retrieval-backend-with-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search with large language models (LLMs). - **Key Components**: Includes document preprocessing, embedding
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`
+  * Source URL: <https://github.com/bangoc123/retrieval-backend-with-rag>
 
 * **[Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation](ai/rag/arxiv-2606-14763.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14763v1 Announce Type: cross Abstract: Real-time autonomous navigation in dynamic, unknown environments remains a fundamental challenge for mobile robotics. We propose a map-free framework that tightly integrates reactive rolling-horizon p
@@ -34872,7 +35020,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/beam-cloud/beta9/>
 
 * **[Beautiful Soup Documentation — Beautiful Soup 4.4.0 documentation](ai/rag/beautiful-soup-documentation-beautiful-soup-4-4-0.md)** (`framework` | `useful` tier)
-  * Summary: - **Library Overview**: Beautiful Soup is a Python library for parsing, navigating, searching, and modifying HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic Pythonic methods. - **Core Functiona
+  * Summary: - **HTML/XML Parsing**: Beautiful Soup is a Python library designed to parse and extract data from HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic navigation, searching, and tree modification c
   * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://beautiful-soup-4.readthedocs.io/en/latest/#beautifulsoup>
 
@@ -35091,11 +35239,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://bugs.launchpad.net/snapcraft>
 
-* **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (`benchmark` | `useful` tier)
-  * Summary: - **RAG Pipeline**: LangChain implements Retrieval-Augmented Generation (RAG) via a two-phase process: **indexing** (loading, splitting, and storing documents in a vector store) and **retrieval-and-generation** (query-time retrieval of relevant conte
-  * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
-  * Source URL: <https://docs.langchain.com/oss/python/langchain/rag>
-
 * **[Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)** (`benchmark` | `useful` tier)
   * Summary: How to Build a RAG Chatbot with Python and LangChain: Complete Tutorial (2026)Marcus ChenMarch 20, 2026AI & Machine Learning Marcus Chen March 20, 2026 25 min read Retrieval augmented generation (RAG) has become the go-to architecture for building AI
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
@@ -35256,11 +35399,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://forum.ripe.net/t/changes-to-the-ripestat-ui/1174>
 
-* **[chaoql/rag-best-practices](ai/rag/chaoql-rag-best-practices.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) techniques in large language models (LLMs), last updated June 22, 2026. - **Repository Metrics**: Co
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`
-  * Source URL: <https://github.com/chaoql/rag-best-practices>
-
 * **[Chapter 1 - Circular 92 | U.S. Copyright Office](ai/rag/chapter-1-circular-92-u-s-copyright-office.md)** (`benchmark` | `useful` tier)
   * Summary: - **Definitions**: U.S. Copyright Law (Title 17) defines key terms such as "copies" (material objects embedding works), "phonorecords" (audio-only fixed works), "audiovisual works" (image sequences with/without sound), and "derivative works" (transfo
   * Tags: `agents`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
@@ -35326,9 +35464,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.13768>
 
-* **[Cinnamon/kotaemon](ai/rag/cinnamon-kotaemon.md)** (`benchmark` | `useful` tier)
-  * Summary: - **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses. - **Python Implementation**: Built primarily in Python, utilizing modern
-  * Tags: `github-repo`, `python`, `rag`
+* **[Cinnamon/kotaemon](ai/rag/cinnamon-kotaemon.md)** (`framework` | `useful` tier)
+  * Summary: - **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, combining retrieval of relevant document segments with LLM-based response generation. - **Python Framework**: Built on Python
+  * Tags: `github-repo`, `meta-ai`, `mistral`, `models`, `python`, `rag`
   * Source URL: <https://github.com/Cinnamon/kotaemon>
 
 * **[CIRCT](ai/rag/circt.md)** (`tutorial` | `useful` tier)
@@ -35447,8 +35585,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.18286>
 
 * **[CodeQL documentation](ai/rag/codeql-documentation.md)** (`framework` | `useful` tier)
-  * Summary: - **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation. - **Query Development & Execution**: Provides structured
-  * Tags: `rag`, `web-crawled`
+  * Summary: - **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supported languages/frameworks, change logs, system requirements, and CWE coverage are documented for the latest release. - **Learning Resources**: Provid
+  * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://codeql.github.com/docs>
 
 * **[Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility](ai/rag/arxiv-2606-15078.md)** (`framework` | `useful` tier)
@@ -35517,7 +35655,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://cstheory.stackexchange.com/questions/57162/does-there-exist-a-predictor-that-eventually-predicts-every-computable-binary-se>
 
 * **[ConardLi/garden-skills](ai/rag/conardli-garden-skills.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills. - **Technical Stack**: Primarily implemented in CSS, with topics including AI agents, RAG (Retrieval
+  * Summary: - **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) with 8,812 stars and 1,194 forks, focusing on web design, knowledge retrieval, image generation, and AI agent integration. - **Technical Stack**: Primarily CSS-based, with a
   * Tags: `agents`, `anthropic`, `css`, `github-repo`, `hackernews`, `rag`
   * Source URL: <https://github.com/ConardLi/garden-skills>
 
@@ -35567,7 +35705,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://chromium.googlesource.com/crossbench/+/refs/heads/main/config/benchmark/loadline2>
 
 * **[Configure imaging](ai/rag/configure-imaging.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Image Processing Configuration**: Hugo's `imaging` settings control image processing (e.g., resizing, format conversion) with defaults for `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific optimizations (AVIF/WebP/JP
+  * Summary: - **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, and format-specific defaults for AVIF (`quality: 60`, `encoderSpeed: 10`), JPEG (`quality: 75`), and WebP (`quality: 75`, `method: 2
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://gohugo.io/configuration/imaging/#avif>
 
@@ -35590,6 +35728,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Satellite Connectivity**: Apple Watch Ultra 3 supports satellite messaging (Emergency SOS, Messages, and Location via satellite) via Globalstar’s network, enabling off-grid communication (texting, location sharing) with no cellular/Wi-Fi, though
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://support.apple.com/123924>
+
+* **[Connect to a satellite with your iPhone - Apple Support](ai/rag/connect-to-a-satellite-with-your-iphone-apple-supp.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Satellite Connectivity**: iPhone 14+ models support emergency SOS, roadside assistance, messaging, and location sharing via Globalstar’s satellite network when cellular/Wi-Fi is unavailable; free for 2 years, with regional restrictions (e.g., una
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://support.apple.com/kb/HT213885?cid=general-iphone-marcom-08062025>
 
 * **[Connected Papers | Find and explore academic papers](ai/rag/connected-papers-find-and-explore-academic-papers.md)** (`tutorial` | `useful` tier)
   * Summary: - **JavaScript Dependency**: Connected Papers requires JavaScript to function properly, as indicated by the error message. - **Core Functionality Impact**: Without JavaScript enabled, the tool cannot render its interactive graph-based paper explorati
@@ -35686,6 +35829,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `producthunt`, `rag`, `web-crawled`
   * Source URL: <http://tech.cornell.edu>
 
+* **[Countries and regions that support Apple Pay - Apple Support](ai/rag/countries-and-regions-that-support-apple-pay-apple.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Apple Pay Global Availability**: Supports contactless payments across 90+ countries/regions (Africa, Asia-Pacific, Europe, Latin America, Middle East, North America) with participating banks and card issuers. - **Apple Pay Ecosystem Integration**
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://support.apple.com/102775?cid=general-iphone-marcom-08062025>
+
 * **[Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift](ai/rag/arxiv-2602-14913.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.14913v2 Announce Type: replace Abstract: Conformal prediction (CP) offers distribution-free marginal coverage guarantees under an exchangeability assumption, but these guarantees can fail if the data distribution shifts. We analyze the use
   * Tags: `rag`
@@ -35720,6 +35868,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Schema & Context Learning**: Implements an iterative NL-to-SQL agent that dynamically learns database schema and domain context to generate analytical SQL queries. - **Guarded Reasoning**: Uses evidence-backed SQL generation with iterative refine
   * Tags: `agents`, `frontend_ui`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/crazyaiml/nl-2-sql-agent>
+
+* **[Create your own RAG | Pathway](ai/rag/create-your-own-rag-pathway.md)** (`framework` | `useful` tier)
+  * Summary: - **Real-time Document Indexing**: Pathway's Live Data Framework enables dynamic indexing of documents (e.g., PDFs) via connectors (e.g., `pw.io.fs.read`), ensuring RAG pipelines use the latest document versions without manual updates. - **Modular RA
+  * Tags: `frontend_ui`, `models`, `openai`, `producthunt`, `rag`, `scripts`, `web-crawled`
+  * Source URL: <https://pathway.com/developers/user-guide/llm-xpack/llm-app-pathway/>
 
 * **[CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges](ai/rag/arxiv-2603-11863.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.11863v2 Announce Type: replace Abstract: The saturation of high-quality pre-training data has shifted research focus toward evolutionary systems capable of continuously generating novel artifacts, leading to the success of AlphaEvolve. How
@@ -35797,7 +35950,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2512.17796>
 
 * **[cwebp | WebP | Google for Developers](ai/rag/cwebp-webp-google-for-developers.md)** (`tutorial` | `useful` tier)
-  * Summary: - `cwebp` is a command-line tool for lossy/lossless WebP image compression, supporting input formats like PNG, JPEG, TIFF, and raw Y'CbCr, with advanced options for quality (`-q`), method (`-m`), and lossless mode (`-lossless`/`-z`). - Supports image
+  * Summary: - `cwebp` is a CLI tool for lossy/lossless WebP image compression from formats like PNG, JPEG, and TIFF, with granular control via options such as `-q` (quality), `-lossless`, `-preset`, and `-m` (method). - Supports image manipulation (cropping via
   * Tags: `models`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://developers.google.com/speed/webp/docs/cwebp>
 
@@ -35831,14 +35984,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12105>
 
-* **[Danielskry/Awesome-RAG](ai/rag/danielskry-awesome-rag.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering LLMs, retrieval mechanisms, and hybrid architectures. - **Active Maintenance**: Last updated
-  * Tags: `github-repo`, `rag`, `unknown`
-  * Source URL: <https://github.com/Danielskry/Awesome-RAG>
-
 * **[dannyblaker/rag-tutorial](ai/rag/dannyblaker-rag-tutorial.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable Python code and reusable utilities. - **Core Technical Components**: Covers embeddings gene
-  * Tags: `github-repo`, `hackernews`, `models`, `python`, `rag`, `reddit`
+  * Summary: - **Progressive RAG Tutorial**: 6 structured lessons covering Retrieval-Augmented Generation (RAG) from fundamentals to production deployment, including embeddings, vector databases, LLMs, and advanced techniques. - **Code-First Approach**: Provides
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/dannyblaker/rag-tutorial>
 
 * **[Daring Fireball: Markdown Syntax Documentation](ai/rag/daring-fireball-markdown-syntax-documentation.md)** (`tutorial` | `useful` tier)
@@ -35881,19 +36029,29 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.27095>
 
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `essential` tier)
+  * Summary: - **Comprehensive RAG Guide**: A full-stack technical resource for developing RAG (Retrieval-Augmented Generation) applications with LLMs, covering embedding models, vector databases (Milvus), and multimodal integration. - **Toolchain Integration**:
+  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+  * Source URL: <https://github.com/datawhalechina/all-in-rag>
+
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive, "from scratch" tutorial on AI agent development, detailing core principles and practical implementation. * Focuses on integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) within agent architectures. * Pyt
-  * Tags: `agents`, `github-repo`, `python`, `rag`
+  * Summary: - **Educational Repository**: Provides a structured tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering both theoretical principles and practical implementations. - **Technical Focus**: Covers core topics including **Large Language
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/hello-agents>
+
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`framework` | `useful` tier)
+  * Summary: - **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks and hosted online at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/). - **Technical Focu
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
+  * Source URL: <https://github.com/datawhalechina/llm-universe>
 
 * **[Datenschutzrichtlinie - Shure Germany](ai/rag/datenschutzrichtlinie-shure-germany.md)** (`dataset` | `useful` tier)
   * Summary: - **Verantwortliche & Rechtsgrundlagen**: Shure Incorporated (USA) ist primärer Verantwortlicher; EU-Vertreter ist Shure Europe GmbH (Deutschland). Datenverarbeitung basiert auf DSGVO/UK-GDPR mit Rechtsgrundlagen wie Vertragserfüllung (Art. 6(1)(b)),
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://www.shure.com/de-DE/legal/datenschutz>
 
-* **[DavidZWZ/Awesome-Deep-Research](ai/rag/davidzwz-awesome-deep-research.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and advanced reasoning techniques. - **ACL 2026 Kn
-  * Tags: `agents`, `github-repo`, `hackernews`, `rag`, `unknown`
+* **[DavidZWZ/Awesome-Deep-Research](ai/rag/davidzwz-awesome-deep-research.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Curated resource list** for agentic deep research, focusing on LLM-driven reasoning, search, and RAG (Retrieval-Augmented Generation) systems, aligned with ACL 2026 KnowFM benchmarks. - **Covers key topics**: reasoning agents, search agents, deep
+  * Tags: `agents`, `benchmark`, `github-repo`, `rag`, `unknown`
   * Source URL: <https://github.com/DavidZWZ/Awesome-Deep-Research>
 
 * **[DCP-Prune: Ultra-Low Token Pruning with Distribution Consistency Preservation](ai/rag/arxiv-2606-16633.md)** (`framework` | `useful` tier)
@@ -35926,10 +36084,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2603.25414>
 
+* **[DeckardGer/tanstack-agent-skills](ai/rag/deckardger-tanstack-agent-skills.md)** (`framework` | `useful` tier)
+  * Summary: * Establishes best practices for integrating TanStack Query, Router, and Start. * Optimizes TanStack library utilization within AI coding agent architectures. * Provides prescriptive guidance for AI agent development leveraging the TanStack ecosystem
+  * Tags: `agents`, `github-repo`, `rag`, `reddit`, `unknown`
+  * Source URL: <https://github.com/DeckardGer/tanstack-agent-skills>
+
 * **[Decoding Insect Song: A Multitask Semisupervised Orthoptera Bioacoustic Classifier](ai/rag/arxiv-2606-13236.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13236v1 Announce Type: cross Abstract: Passive acoustic monitoring holds great promise for ecological inference, yet existing automated tools are typically narrowly trained and non-transferable. We address these limitations with PULSE, a s
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.13236>
+
+* **[decodingai-magazine/llm-twin-course](ai/rag/decodingai-magazine-llm-twin-course.md)** (`tutorial` | `essential` tier)
+  * Summary: - **Course Structure**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including 12+ instructor-led sessions and full source code. - **Tech Stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdr
+  * Tags: `github-repo`, `python`, `rag`, `scripts`
+  * Source URL: <https://github.com/decodingai-magazine/llm-twin-course>
 
 * **[DecoSearch: Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL](ai/rag/arxiv-2606-17821.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17821v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in translating natural language to SQL, yet existing methods still falter on complex queries requiring multi-step, data-aware reaso
@@ -35947,7 +36115,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16799>
 
 * **[Deep Agents Code - Docs by LangChain](ai/rag/deep-agents-code-docs-by-langchain.md)** (`framework` | `useful` tier)
-  * Summary: - **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for cross-session context, and human-in-the-loop approval for sensitiv
+  * Summary: - **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory, customizable skills, and approval-gated tool execution. - **Core Capa
   * Tags: `agents`, `anthropic`, `models`, `openai`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://docs.langchain.com/oss/python/deepagents/code/overview>
 
@@ -35961,10 +36129,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.15880>
 
-* **[DEEP-PolyU/Awesome-GraphRAG](ai/rag/deep-polyu-awesome-graphrag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Curated Repository**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies. - **Technical Scope**: Encompasse
+* **[DEEP-PolyU/Awesome-GraphRAG](ai/rag/deep-polyu-awesome-graphrag.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG frameworks. - **Technical Scope**: Encompasses
   * Tags: `benchmark`, `github-repo`, `hackernews`, `paper`, `rag`, `unknown`
   * Source URL: <https://github.com/DEEP-PolyU/Awesome-GraphRAG>
+
+* **[DEEP-PolyU/LinearRAG](ai/rag/deep-polyu-linearrag.md)** (`framework` | `useful` tier)
+  * Summary: - Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework leveraging linear graph structures for scalable retrieval on large-scale corpora, optimized for efficiency in ICLR 2026. - Proposes a **linear graph retrie
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/DEEP-PolyU/LinearRAG>
 
 * **[DeepInflation: an AI agent for research and model discovery of inflation](ai/rag/arxiv-2601-14288.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.14288v2 Announce Type: replace-cross Abstract: We present DeepInflation, an AI agent designed for research and model discovery in inflationary cosmology. Built upon a multi-agent architecture, DeepInflation integrates Large Language Models
@@ -35977,8 +36150,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15931>
 
 * **[deepset (deepset)](ai/rag/deepset-deepset.md)** (`tutorial` | `useful` tier)
-  * Summary: - **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs, allowing users to create quizzes or have an LLM play interactively. - **Functionality**: Supports quiz generation, human play, and LLM-based gameplay, lever
-  * Tags: `agents`, `rag`, `web-crawled`
+  * Summary: - **AutoQuizzer**: A Hugging Face Space tool that automates quiz generation using LLMs, enabling interactive Q&A sessions or AI-driven quiz play. - **Dual Modes**: Supports both human-generated quizzes and LLM-based quiz interaction, enhancing dynami
+  * Tags: `agents`, `rag`, `scripts`, `web-crawled`
   * Source URL: <https://huggingface.co/deepset>
 
 * **[deepset-ai/haystack-cookbook](ai/rag/deepset-ai-haystack-cookbook.md)** (`framework` | `useful` tier)
@@ -36387,13 +36560,13 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://electricitymaps.com>
 
 * **[electron/electron](ai/rag/electron-electron.md)** (`framework` | `useful` tier)
-  * Summary: - **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to enable JavaScript/HTML/CSS-based applications with native OS integration. - **Core architecture** combines a modified Chromium browser engine for rendering with Node.j
-  * Tags: `c++`, `github-repo`, `rag`
+  * Summary: - **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to render HTML/CSS/JS applications natively across Windows, macOS, and Linux. - **Core architecture** combines a stripped-down Chromium browser engine with Node.js integr
+  * Tags: `c++`, `github-repo`, `rag`, `reddit`
   * Source URL: <https://github.com/electron/electron>
 
 * **[elizaOS/eliza](ai/rag/elizaos-eliza.md)** (`framework` | `useful` tier)
-  * Summary: - **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin architecture for extensibility. - **Multi-Platform Integration**: Supports Discord, Slack, Telegram, and crypto ecosystems via modular plugins a
-  * Tags: `agents`, `github-repo`, `rag`, `scripts`, `typescript`
+  * Summary: - **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS/eliza`) enabling autonomous AI agents with plugin extensibility, supporting RAG, swarm intelligence, and multi-platform integration (Discord, Slack, Telegram). - **Decentralize
+  * Tags: `agents`, `github-repo`, `rag`, `typescript`
   * Source URL: <https://github.com/elizaOS/eliza>
 
 * **[Elo-Disentangled Player-Style Embeddings for Human Chess via Rating-Conditioned Residual Move Model](ai/rag/arxiv-2606-25176.md)** (`benchmark` | `useful` tier)
@@ -36405,6 +36578,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.23995v1 Announce Type: cross Abstract: Recent work has established that regularized policy gradient methods such as PPO, when used in self-play, can match or exceed specialized game-theoretic algorithms for solving two-player zero-sum impe
   * Tags: `agents`, `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.23995>
+
+* **[embeddings-benchmark/leaderboardv2](ai/rag/embeddings-benchmark-leaderboardv2.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Repository**: `embeddings-benchmark/leaderboardv2` is a GitHub repository written in **Svelte**, last updated on **2026-06-25**. - **Metrics**: Contains **2 stars** and **4 forks**, with no associated topics or provided description. - **URL**: Ac
+  * Tags: `benchmark`, `github-repo`, `leaderboard`, `rag`, `svelte`
+  * Source URL: <https://github.com/embeddings-benchmark/leaderboardv2>
 
 * **[EmotionAI: A Privacy-Preserving Computational Intelligence Pipeline for Speech-Emotion-Grounded Conversational Analysis](ai/rag/arxiv-2606-24941.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.24941v1 Announce Type: cross Abstract: Reviewing recorded interviews for affective cues such as composure, hesitation and agitation is slow and subjective, and cloud services that could automate it require sensitive audio to leave the devi
@@ -36532,7 +36710,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12623>
 
 * **[EternityJune25/ComoRAG](ai/rag/eternityjune25-comorag.md)** (`framework` | `useful` tier)
-  * Summary: - **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory hierarchies. - **Stat
+  * Summary: - **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies. - **Stateful Reasoning Mechanism**: Implements
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/EternityJune25/ComoRAG>
 
@@ -36742,7 +36920,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.19225>
 
 * **[Firebase | Google's Mobile and Web App Development Platform](ai/rag/firebase-google-s-mobile-and-web-app-development-p.md)** (`framework` | `useful` tier)
-  * Summary: - **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms. - **AI/ML Integration**: Offers Firebase AI Logic and Firebase ML for embedding gen
+  * Summary: - **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure. - **AI/ML Integration**: Offers Firebase AI Logi
   * Tags: `agents`, `hackernews`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`
   * Source URL: <https://firebase.google.com>
 
@@ -36941,9 +37119,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.21312>
 
-* **[FudanDNN-NLP/RAG](ai/rag/fudandnn-nlp-rag.md)** (`framework` | `useful` tier)
-  * Summary: - Implements retrieval-augmented generation (RAG) with best-practice optimizations from EMNLP 2024, focusing on efficient retrieval and generation integration. - Provides a Python-based framework with modular components for document indexing, retriev
-  * Tags: `benchmark`, `github-repo`, `paper`, `python`, `rag`
+* **[FudanDNN-NLP/RAG](ai/rag/fudandnn-nlp-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Implementation**: Provides a Python-based implementation of retrieval-augmented generation (RAG) techniques, focusing on best practices as outlined in the EMNLP 2024 paper. - **Key Features**: Includes modular components for retrieval, reranking,
+  * Tags: `github-repo`, `hackernews`, `paper`, `python`, `rag`
   * Source URL: <https://github.com/FudanDNN-NLP/RAG>
 
 * **[Function-Vector Heads Are Two Populations: Writers and Cancellers in In-Context Learning](ai/rag/arxiv-2606-07560.md)** (`framework` | `useful` tier)
@@ -36970,11 +37148,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13115v1 Announce Type: cross Abstract: While Large Language Models (LLMs) have advanced open-domain dialogue systems, maintaining long-term consistency remains a challenge due to inherent limitations in long-context reasoning and the ineff
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13115>
-
-* **[gabrielchua/RAGxplorer](ai/rag/gabrielchua-ragxplorer.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Interactive RAG Visualization Tool**: Open-source Python-based Jupyter Notebook tool (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes. - **St
-  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `models`, `rag`
-  * Source URL: <https://github.com/gabrielchua/RAGxplorer>
 
 * **[Gainsight AI - Gainsight Inc.](ai/rag/gainsight-ai-gainsight-inc.md)** (`tutorial` | `useful` tier)
   * Summary: - **Gainsight AI Integration**: Supports AI capabilities across multiple Gainsight products including Customer Success (CS), Product Experience (PX), Customer Community (CC), Skilljar, Staircase AI (ST), and Customer Education (CE). - **Security & Be
@@ -37148,7 +37321,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[gomate-community/awesome-papers-for-rag](ai/rag/gomate-community-awesome-papers-for-rag.md)** (`framework` | `useful` tier)
   * Summary: - **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, evaluation methodologies, and optimization techniques. - **Python-Centric Tooling**: Includ
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `paper`, `python`, `rag`
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `models`, `paper`, `python`, `rag`
   * Source URL: <https://github.com/gomate-community/awesome-papers-for-rag>
 
 * **[gomods/athens](ai/rag/gomods-athens.md)** (`benchmark` | `useful` tier)
@@ -37157,7 +37330,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/gomods/athens>
 
 * **[Google Account Help](ai/rag/google-account-help.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Google Account Security**: Supports 2-Step Verification, Advanced Protection, and Enhanced Safe Browsing; includes suspicious activity monitoring and digital ID linking for enhanced security. - **Account Recovery & Management**: Provides tools fo
+  * Summary: - **Account Recovery & Security**: Google provides structured recovery steps for lost/locked accounts, including 2-Step Verification, Advanced Protection, and Enhanced Safe Browsing to mitigate unauthorized access risks. - **Data & Privacy Controls**
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://support.google.com/accounts?hl=en-US&p=account_iph>
 
@@ -37186,15 +37359,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`, `youtube`
   * Source URL: <https://support.google.com/>
 
+* **[Google Play for business | Launch & monetize your apps | Google Play Console](ai/rag/google-play-for-business-launch-monetize-your-apps.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Billing Flexibility & Reduced Fees**: Google Play introduces expanded billing options and lowered service fees to enhance monetization adaptability for developers. - **New Developer Programs**: Launched initiatives like *Apps Accelerator*, *Googl
+  * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://play.google.com/console>
+
 * **[Google Store Terms of Sale for Devices](ai/rag/google-store-terms-of-sale-for-devices.md)** (`tutorial` | `useful` tier)
   * Summary: - **Arbitration Clause**: Disputes related to device/subscription purchases are resolved via binding arbitration on an individual, non-class basis, as outlined in Section 23 of the Terms. - **Subscription Billing**: Automatic recurring charges (month
   * Tags: `agents`, `hackernews`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://store.google.com/intl/en_us/about/device-terms.html>
 
-* **[Google Terms of Service – Privacy & Terms – Google](ai/rag/google-terms-of-service-privacy-terms-google.md)** (`tutorial` | `useful` tier)
-  * Summary: * Google's Terms of Service (effective May 22, 202
+* **[Google Terms of Service – Privacy & Terms – Google](ai/rag/google-terms-of-service-privacy-terms-google.md)** (`framework` | `useful` tier)
+  * Summary: - **Legal & Contractual Framework**: Google LLC (Delaware-registered, USA) provides services under updated Terms of Service (effective May 22, 2024) governing user access, compliance requirements, and service-specific policies (e.g., AI use restricti
   * Tags: `hackernews`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
-  * Source URL: <https://policies.google.com/terms>
+  * Source URL: <https://policies.google.com/terms?hl=en_US>
 
 * **[Google Transparency Report](ai/rag/google-transparency-report.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Google Transparency Report
@@ -37432,18 +37610,18 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2306.11252>
 
 * **[HKUDS/LightRAG](ai/rag/hkuds-lightrag.md)** (`framework` | `useful` tier)
-  * Summary: - **LightRAG Architecture**: Introduces a lightweight, fast Retrieval-Augmented Generation (RAG) framework optimized for efficiency, leveraging simple yet effective retrieval mechanisms to enhance LLM performance without heavy computational overhead.
+  * Summary: - **LightRAG Architecture**: Introduces a lightweight, modular RAG framework optimized for speed and simplicity, leveraging efficient retrieval mechanisms (e.g., hierarchical indexing) to reduce latency while maintaining accuracy in LLM-based generat
   * Tags: `benchmark`, `github-repo`, `models`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/HKUDS/LightRAG>
 
 * **[HKUDS/MiniRAG](ai/rag/hkuds-minirag.md)** (`framework` | `useful` tier)
-  * Summary: - Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance. - Proposes **modular design** with lightweight retrieval, reranking,
+  * Summary: - **MiniRAG Framework**: Proposes a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance. - **Efficiency Optimizations
   * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/HKUDS/MiniRAG>
 
 * **[HKUDS/VideoRAG](ai/rag/hkuds-videorag.md)** (`framework` | `useful` tier)
-  * Summary: - **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to "chat" with video content via multi-modal processing and retrieval mechanisms. - **Multi-Modal Integration**: L
-  * Tags: `github-repo`, `python`, `rag`, `youtube`
+  * Summary: - **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content via multi-modal processing. - **Technical Stack**: Implemented in Python, leveraging Large Lan
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`, `youtube`
   * Source URL: <https://github.com/HKUDS/VideoRAG>
 
 * **[Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](ai/rag/arxiv-2606-12280.md)** (`prompt` | `useful` tier)
@@ -37576,6 +37754,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://support.affinity.co/s/article/How-to-Create-and-Manage-API-Keys>
 
+* **[How to get Apple Intelligence - Apple Support](ai/rag/how-to-get-apple-intelligence-apple-support.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Device Compatibility**: Apple Intelligence requires iPhone 15 Pro/16+, iPad mini (A17 Pro)/M1+, Mac M1+, Apple Vision Pro, or Apple Watch Series 6+/SE 2+ paired with an enabled iPhone; supports iOS 18.1+, iPadOS 18.1+, macOS 15.1+, visionOS 2.4+,
+  * Tags: `openai`, `rag`, `web-crawled`
+  * Source URL: <https://support.apple.com/121115>
+
 * **[How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)** (`tutorial` | `useful` tier)
   * Summary: CourseLarge Language Models (LLMs) Concepts2 hr98.8KDiscover the full potential of LLMs with our conceptual course covering LLM applications, training methodologies, ethical considerations, and latest research.See DetailsRight ArrowStart Course
   * Tags: `hackernews`, `rag`, `web-crawled`
@@ -37587,7 +37770,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://dsp.stackexchange.com/questions/99901/how-to-programmatically-estimate-baud-rate-of-an-fsk-2-signal-in-c>
 
 * **[How to Scale the Happiness of Your Users: | by Mauricio | Google Play Apps & Games | Medium](ai/rag/how-to-scale-the-happiness-of-your-users-by-mauric.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Core functionality prioritization**: MyFitnessPal's primary feature—calorie tracking—is kept simple, accessible, and habit-forming (88% of users logging for 7 days lose weight), with no paywall barriers to essential usage. - **In-house community
+  * Summary: - **Core functionality prioritization**: MyFitnessPal's 88% weight loss success rate among users logging food for 7 days stems from focusing on a single, essential feature (calorie/exercise tracking) without gimmicks, ensuring habit formation and wor
   * Tags: `agents`, `leaderboard`, `rag`, `web-crawled`
   * Source URL: <https://medium.com/googleplaydev/how-to-scale-the-happiness-of-your-users-3e46ef72029f>
 
@@ -37620,6 +37803,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Cross-origin security model for `Window`, `WindowProxy`, and `Location` objects**: Defines security checks via `[[CrossOriginPropertyDescriptorMap]]` internal slot, restricting property access across origins unless explicitly allowed (e.g., `href
   * Tags: `agents`, `animation`, `frontend_ui`, `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://html.spec.whatwg.org/multipage/nav-history-apis.html#the-location-interface>
+
+* **[huggingface (Hugging Face)](ai/rag/huggingface-hugging-face.md)** (`framework` | `useful` tier)
+  * Summary: - **Integration Architecture**: Moon Bot is a Slack-native coding agent leveraging Hugging Face's infrastructure, utilizing Hugging Face Buckets for model storage and retrieval, enabling seamless deployment within Slack's ecosystem. - **Technical Bac
+  * Tags: `agents`, `hackernews`, `rag`, `web-crawled`
+  * Source URL: <https://huggingface.co/huggingface>
 
 * **[huggingface/kernels-community](ai/rag/huggingface-kernels-community.md)** (`tool` | `useful` tier)
   * Summary: - **Repository Purpose**: Hosts kernel sources for the Hugging Face `kernels-community` space, enabling custom compute kernels for optimized ML/AI workloads. - **Technical Stack**: Implemented in Python, leveraging low-level optimizations for GPU/TPU
@@ -37686,9 +37874,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `creative_dev`, `hackernews`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://www.iban.com>
 
-* **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** (`framework` | `useful` tier)
-  * Summary: - **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework with sequential query handling to assess long-context reasoning and iterative retrieval performance. - **Technical Scope**: Python-based implementation focus
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`
+* **[IBM/mt-rag-benchmark](ai/rag/ibm-mt-rag-benchmark.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Benchmark Suite**: Evaluates **Multi-Turn Retrieval-Augmented Generation (RAG)** systems with focus on conversational context retention, iterative retrieval, and answer consistency across turns. - **Python-Based**: Implements benchmark logic usin
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/IBM/mt-rag-benchmark>
 
 * **[iCloud](ai/rag/icloud.md)** (`benchmark` | `useful` tier)
@@ -37821,11 +38009,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2601.23018>
 
-* **[IntelLabs/fastRAG](ai/rag/intellabs-fastrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Framework Overview**: FastRAG is an efficient, modular Python framework for **Retrieval-Augmented Generation (RAG)**, integrating retrieval, generation, and evaluation components for large language models (LLMs) and multi-modal tasks. - **Key Fea
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/IntelLabs/fastRAG>
-
 * **[Intellectual Property | Electronic Frontier Foundation](ai/rag/intellectual-property-electronic-frontier-foundati.md)** (`tutorial` | `useful` tier)
   * Summary: - **Fair Use Criteria**: Copyright infringement analysis hinges on four statutory factors ([17 U.S.C. § 107](http://www4.law.cornell.edu/uscode/17/107.html)): (1) purpose/character of use (transformative > mere copying), (2) nature of copyrighted wor
   * Tags: `agents`, `hackernews`, `paper`, `rag`, `web-crawled`
@@ -37885,6 +38068,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Core Functions**: Provides `scrape` (webpage content extraction in markdown/JSON), `crawl` (full website extraction with metadata), `map` (URL enumeration), and `search` (web search with full-page content retrieval). - **Agentic Capabilities**: S
   * Tags: `agents`, `rag`, `scripts`, `web-crawled`
   * Source URL: <https://docs.firecrawl.dev/api-reference/introduction>
+
+* **[Introduction - Tree-sitter](ai/rag/introduction-tree-sitter.md)** (`framework` | `useful` tier)
+  * Summary: - **Incremental Parsing Engine**: Tree-sitter is a parser generator and incremental parsing library written in C11, designed to generate concrete syntax trees (CSTs) for source files and efficiently update them in real-time during edits, enabling sub
+  * Tags: `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://tree-sitter.github.io/tree-sitter/>
 
 * **[Introduction to Cloud TPU | Google Cloud Documentation](ai/rag/introduction-to-cloud-tpu-google-cloud-documentati.md)** (`framework` | `useful` tier)
   * Summary: - **TPU Architecture & Optimization**: TPUs are Google's ASICs optimized for large matrix operations in ML workloads, featuring on-chip HBM for larger models/batch sizes; XLA compiler converts ML framework graphs into TPU machine code, with the rest
@@ -37961,11 +38149,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://science.nasa.gov/mission/webb>
 
-* **[jamwithai/production-agentic-rag-course](ai/rag/jamwithai-production-agentic-rag-course.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository focused on production-level Agentic Retrieval-Augmented Generation (RAG) systems, written in Python. - **Scale & Activity**: Maintains 7,021 stars and 1,575 forks, with the last update on 2026-06-27. - **P
-  * Tags: `agents`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/jamwithai/production-agentic-rag-course>
-
 * **[JavaScript API | Vite](ai/rag/javascript-api-vite.md)** (`tutorial` | `useful` tier)
   * Summary: - **`createServer` API**: Async function that initializes a Vite dev server with `InlineConfig`, returning a `ViteDevServer` instance. Supports middleware mode, WebSocket proxying, and CLI shortcuts. Requires `process.env.NODE_ENV` or `mode` to be se
   * Tags: `frontend_ui`, `rag`, `reddit`, `web-crawled`, `youtube`
@@ -38021,9 +38204,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.27023>
 
-* **[jxzhangjhu/Awesome-LLM-RAG](ai/rag/jxzhangjhu-awesome-llm-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectur
-  * Tags: `github-repo`, `hackernews`, `rag`, `unknown`
+* **[jxzhangjhu/Awesome-LLM-RAG](ai/rag/jxzhangjhu-awesome-llm-rag.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated RAG resources**: Comprehensive collection of advanced techniques, frameworks, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strateg
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `models`, `paper`, `rag`, `unknown`
   * Source URL: <https://github.com/jxzhangjhu/Awesome-LLM-RAG>
 
 * **[Keras 2 <> Keras 3 incompatibilities · Issue #18467 · keras-team/keras · GitHub](ai/rag/keras-team-keras.md)** (`tutorial` | `useful` tier)
@@ -38052,18 +38235,18 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14047>
 
 * **[KnowledgeXLab/LeanRAG](ai/rag/knowledgexlab-leanrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework (LeanRAG) that enhances retrieval via multi-level semantic aggregation and hierarchical indexing for improved contextual relevance. - **AAAI 2026 Co
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: - **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-layered retrieval (semantic + hierarchical) to enhance context relevance and reduce noise in generated outputs. - **Efficiency Optimizati
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/KnowledgeXLab/LeanRAG>
 
 * **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) techniques, with 355 stars and 323 forks. - **Technical Focus**: Tutorials likely cover RAG pipelines, vector databases, and LLM
+  * Summary: - **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 355 stars and 323 forks. - **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for RAG implem
   * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/krishnaik06/RAG-Tutorials>
 
-* **[KruxAI/ragbuilder](ai/rag/kruxai-ragbuilder.md)** (`framework` | `useful` tier)
-  * Summary: - **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation tools. - **Optimized Retrieval & Generation**: Implements adva
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`, `reddit`
+* **[KruxAI/ragbuilder](ai/rag/kruxai-ragbuilder.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with modular components for data ingestion, retrieval, and generation. - **Optimization Tools**: Includes utilities for benchmarking, fine-tunin
+  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
   * Source URL: <https://github.com/KruxAI/ragbuilder>
 
 * **[Kubernetes](ai/rag/kubernetes.md)** (`tutorial` | `useful` tier)
@@ -38072,8 +38255,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://kubernetes.io>
 
 * **[kyrolabs/awesome-agents](ai/rag/kyrolabs-awesome-agents.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated Collection**: A structured, community-driven repository aggregating AI agent frameworks, tools, and research papers for streamlined discovery and evaluation. - **Multi-Domain Coverage**: Encompasses agents for automation, reasoning, multi
-  * Tags: `agents`, `benchmark`, `github-repo`, `paper`, `rag`, `scripts`, `unknown`
+  * Summary: - **Curated Repository**: A comprehensive, community-driven collection of AI agent frameworks, tools, libraries, and research papers, designed to facilitate development and deployment of autonomous agents. - **Multi-Domain Coverage**: Encompasses age
+  * Tags: `agents`, `github-repo`, `paper`, `rag`, `scripts`, `unknown`
   * Source URL: <https://github.com/kyrolabs/awesome-agents>
 
 * **[Künstliche Intelligenz: News, Business, Forschung & mehr | THE DECODER](ai/rag/kunstliche-intelligenz-news-business-forschung-meh.md)** (`benchmark` | `useful` tier)
@@ -38100,6 +38283,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Unified API Reference**: Provides centralized documentation for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, covering Python and TypeScript packages, classes, functions, and types. - **Cross-Ecosystem Coverage**: Encompas
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.GraphCypherQAChain.html>
+
+* **[LangChain · GitHub](ai/rag/langchain-github.md)** (`framework` | `useful` tier)
+  * Summary: - **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs; Deep Agents/Deep Agents.js support hierarchical agent pla
+  * Tags: `agents`, `anthropic`, `rag`, `web-crawled`, `youtube`
+  * Source URL: <https://github.com/langchain-ai>
 
 * **[Large Language Models as Optimizers: A Survey of Direct vs. Tool-Augmented Approaches and Their Performance Frontiers](ai/rag/arxiv-2606-15577.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15577v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly involved in complex mathematical optimization, even if the pragmatic user who triggers them is unaware of it. After all, many real-world problems reduce to
@@ -38481,6 +38669,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13782>
 
+* **[Mac - Official Apple Support](ai/rag/mac-official-apple-support.md)** (`tutorial` | `useful` tier)
+  * Summary: - **macOS Upgrade & Recovery**: Supports upgrading to macOS Tahoe 26 via macOS Recovery for OS reinstallation without data loss, with automated update mechanisms via System Settings. - **AppleCare & Service Programs**: Provides Apple-certified repair
+  * Tags: `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly>
+
 * **[Machine-learning-based multipoint optimization of fluidic injection parameters for improving nozzle performance](ai/rag/arxiv-2409-12707.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2409.12707v2 Announce Type: replace-cross Abstract: Fluidic injection offers a promising solution to improve the performance of the overexpanded single expansion ramp nozzles (SERNs) during vehicle acceleration. However, determining the injecti
   * Tags: `paper`, `rag`
@@ -38507,8 +38700,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://make.wordpress.org/tv>
 
 * **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (`tool` | `useful` tier)
-  * Summary: - **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to **RagTag** (successor repository: `malonge/RagTag`) for genome scaffolding and assembly tasks. - **Functionality**: Designed for **bioinformatics**, sp
-  * Tags: `github-repo`, `python`, `rag`
+  * Summary: - **Deprecation Notice**: RaGOO is no longer supported; users are directed to migrate to **RagTag** (`malonge/RagTag`) for continued development and updates. - **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/malonge/RaGOO>
 
 * **[Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help](ai/rag/manage-renewal-for-nfl-sunday-ticket-on-youtube-tv.md)** (`tutorial` | `useful` tier)
@@ -38584,13 +38777,8 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Platform**: Medium is a content-sharing platform offering long-form stories, articles, and audio versions, accessible across Android, iOS, and web, with features like highlighting, bookmarking, and personalized recommendations. - **Monetization &
   * Source URL: <https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=>
 
-* **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify’s TTS engine, enables Medium members to convert any article into audio (default + multiple narrator options), with text-highlighting for dual sensory input, expanding
-  * Tags: `producthunt`, `rag`, `web-crawled`
-  * Source URL: <https://speechify.com/medium>
-
-* **[Medium Partner Program](ai/rag/medium-partner-program.md)** (`framework` | `useful` tier)
-  * Summary: - **Earnings Model**: Medium's Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with sustained reader eng
+* **[Medium Partner Program](ai/rag/medium-partner-program.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Earnings Mechanism**: Medium's Partner Program compensates writers based on member read time (≥30s), positive interactions (claps, highlights, replies), follower growth, and Boosted content performance, prioritizing long-form, high-engagement con
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://medium.com/creators>
 
@@ -38599,8 +38787,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://medium.zendesk.com/hc/en-us/articles/360052305234>
 
-* **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** (`dataset` | `useful` tier)
-  * Summary: - **Data Collection Scope**: Medium collects user-provided data (e.g., name, email, posts) and automatically gathered data (e.g., IP addresses, device identifiers, reading history, cookies) for service operation, personalization, and analytics, inclu
+* **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Data Collection & Sources**: Medium collects personal data directly (e.g., account details, user-generated content) and automatically (e.g., IP addresses, device identifiers, cookies) from interactions, third-party platforms (e.g., social media l
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://medium.com/policy/f03bf92035c9>
 
@@ -38727,6 +38915,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `c++`, `github-repo`, `rag`
   * Source URL: <https://github.com/microsoft/wsl>
 
+* **[milvus-io/milvus](ai/rag/milvus-io-milvus.md)** (`benchmark` | `useful` tier)
+  * Summary: - **High-performance, cloud-native vector database**: Milvus is optimized for scalable Approximate Nearest Neighbor (ANN) search, leveraging distributed architectures and cloud-native principles for efficient vector similarity queries. - **Multi-algo
+  * Tags: `github-repo`, `go`, `hackernews`, `rag`
+  * Source URL: <https://github.com/milvus-io/milvus>
+
 * **[Minimum Distance Summaries for Robust Neural Posterior Estimation](ai/rag/arxiv-2602-09161.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.09161v2 Announce Type: replace-cross Abstract: Simulation-based inference (SBI) enables amortized Bayesian inference by first training a neural posterior estimator (NPE) on prior-simulator pairs, typically through low-dimensional summary s
   * Tags: `rag`
@@ -38837,6 +39030,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16509>
 
+* **[modelscope/evalscope](ai/rag/modelscope-evalscope.md)** (`framework` | `useful` tier)
+  * Summary: - **Framework Purpose**: Streamlined, customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for extensibility. - **Key Features**: Supports evaluation of Retrieval-Augmented Generation
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/modelscope/evalscope>
+
 * **[MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry](ai/rag/arxiv-2606-05693.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.05693v2 Announce Type: replace Abstract: Large language models (LLMs) have shown promise for molecular property prediction, but their ability to reason over chemical structures remains limited, as molecular representations such as SMILES d
   * Tags: `models`, `rag`
@@ -38896,6 +39094,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Grantmaking Focus**: Mozilla Foundation funds projects addressing AI bias, encryption, and climate justice tools, prioritizing alternatives to extractive tech paradigms. - **Ecosystem Investment**: Provides funding, mentorship, and networks via p
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://www.mozillafoundation.org/en/what-we-do/grantmaking>
+
+* **[MTEB - Massive Text Embedding Benchmark](ai/rag/mteb-massive-text-embedding-benchmark.md)** (`framework` | `useful` tier)
+  * Summary: - **MTEB v2.0.0** expands beyond English text embeddings to support **1000+ tasks across 1000+ languages**, including **multimodal (text, image, audio)** benchmarks, with updated evaluation frameworks and CLI tools. - **Installation** is via `pip ins
+  * Tags: `benchmark`, `hackernews`, `paper`, `rag`, `web-crawled`
+  * Source URL: <https://embeddings-benchmark.github.io/mteb/>
 
 * **[muesli/smartcrop](ai/rag/muesli-smartcrop.md)** (`tool` | `useful` tier)
   * Summary: - **Algorithm**: Implements a saliency-based cropping algorithm in Go, analyzing image entropy, edges, and face detection to determine optimal crop regions. - **Features**: Supports arbitrary crop sizes and aspect ratios, with optional face detection
@@ -38978,7 +39181,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://librarian.springernature.com/nature-masterclasses>
 
 * **[naver/bergen](ai/rag/naver-bergen.md)** (`framework` | `useful` tier)
-  * Summary: - **Purpose**: Bergen is a benchmarking library specifically designed for evaluating **Retrieval-Augmented Generation (RAG)** systems, focusing on retrieval quality and generation performance. - **Implementation**: Written in **Jupyter Notebook**, it
+  * Summary: - **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of retrieval and generation components. - **Implementation**: Written in Jupyter Noteboo
   * Tags: `benchmark`, `github-repo`, `jupyter notebook`, `rag`, `reddit`
   * Source URL: <https://github.com/naver/bergen>
 
@@ -39012,8 +39215,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`, `reddit`, `web-crawled`
   * Source URL: <http://neo4j.org/resources/cypher>
 
-* **[Neo4j · GitHub](ai/rag/neo4j-github.md)** (`framework` | `essential` tier)
-  * Summary: - **Core Project**: [Neo4j](https://github.com/neo4j/neo4j) is an open-source graph database implemented in Java, providing ACID-compliant transactions and native graph storage/querying via Cypher. - **Key Libraries**: Official drivers available for
+* **[Neo4j · GitHub](ai/rag/neo4j-github.md)** (`framework` | `useful` tier)
+  * Summary: - **Neo4j** is an open-source graph database implementing the property graph model, optimized for connected data with native graph storage and processing (Java-based core). - **Key repositories** include the main `neo4j` database engine, `graph-data-
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://github.com/neo4j>
 
@@ -39107,25 +39310,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `rag`
   * Source URL: <https://nextjs.org/blog/next-9-1>
 
+* **[nicknochnack/Llama2RAG](ai/rag/nicknochnack-llama2rag.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using **Llama 2 70B** with **LlamaIndex** for document retrieval and context augmentation. - **Structure**: Implemented as a **Jupyter Notebook**, enabling interactive experiment
+  * Tags: `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `rag`
+  * Source URL: <https://github.com/nicknochnack/Llama2RAG>
+
 * **[NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track](ai/rag/arxiv-2606-11199.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11199v1 Announce Type: cross Abstract: We present NightFeats, a structured multi-agent retrieval-augmented generation (RAG) system submitted to the MMU-RAGent competition at NeurIPS 2025, where it was awarded Best Dynamic Evaluation in the
   * Tags: `agents`, `anthropic`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11199>
 
-* **[NirDiamant/agents-towards-production](ai/rag/nirdiamant-agents-towards-production.md)** (`framework` | `useful` tier)
-  * Summary: - **End-to-end GenAI agent development**: Provides code-first tutorials covering the full lifecycle from prototype to enterprise deployment, focusing on production-grade agentic AI systems. - **Multi-technology integration**: Demonstrates practical i
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`
-  * Source URL: <https://github.com/NirDiamant/agents-towards-production>
-
-* **[NirDiamant/GenAI_Agents](ai/rag/nirdiamant-genai-agents.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Comprehensive Resource**: Repository containing **50+ tutorials and implementations** for Generative AI Agent techniques, ranging from basic conversational bots to **complex multi-agent systems**. - **Technical Stack**: Primarily implemented in *
+* **[NirDiamant/GenAI_Agents](ai/rag/nirdiamant-genai-agents.md)** (`framework` | `useful` tier)
+  * Summary: - **Repository Content**: 50+ tutorials and implementations covering Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems, with examples in Jupyter Notebooks. - **Technical Stack**: Utilizes framework
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `openai`, `rag`
   * Source URL: <https://github.com/NirDiamant/GenAI_Agents>
-
-* **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases using frameworks like LangChain, LlamaIndex, and OpenAI. - **Technical Scope**: Implemen
-  * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`
-  * Source URL: <https://github.com/NirDiamant/RAG_Techniques>
 
 * **[NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](ai/rag/nist-finalizes-lightweight-cryptography-standard-t.md)** (`tutorial` | `useful` tier)
   * Summary: - NIST finalized *Ascon-Based Lightweight Cryptography Standards for Constrained Devices* (NIST SP 800-232), selecting four Ascon-family algorithms (ASCON-128 AEAD, ASCON-Hash 256, ASCON-XOF 128, ASCON-CXOF 128) optimized for resource-constrained IoT
@@ -39168,7 +39366,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2603.14709>
 
 * **[npm Status](ai/rag/npm-status.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Operational Status**: npm services (www.npmjs.com, package installation/publishing/search, security audit, replication feed) reported 100% uptime over the past 90 days, with no major outages recorded. - **Notification System**: Users can subscrib
+  * Summary: - **Operational Status**: npm services (package installation, publishing, search, security audit, replication feed) reported 100% uptime over the past 90 days, with the website at 99.93% uptime. - **Incident Notifications**: Users can subscribe via e
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://status.npmjs.com/>
 
@@ -39197,10 +39395,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://build.nvidia.com/nvidia/nvidia-nemotron-nano-9b-v2>
 
-* **[NVIDIA/SkillSpector](ai/rag/nvidia-skillspector.md)** (`tool` | `useful` tier)
-  * Summary: - **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code. - **Python-Based**: The tool is implemented in Python, leveraging stati
+* **[NVIDIA/SkillSpector](ai/rag/nvidia-skillspector.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI-driven applications. - **Technical Stack**: Implemented in Python, leveraging static/dynamic analysis techniques to
   * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/NVIDIA/SkillSpector>
+
+* **[NVIDIA/workbench-example-hybrid-rag](ai/rag/nvidia-workbench-example-hybrid-rag.md)** (`framework` | `useful` tier)
+  * Summary: - **Hybrid RAG Pipeline**: Implements a hybrid retrieval system combining dense vector embeddings (e.g., from NVIDIA's NeMo or Sentence Transformers) with sparse retrieval (e.g., BM25) for enhanced document retrieval accuracy. - **NVIDIA AI Workbench
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/NVIDIA/workbench-example-hybrid-rag>
 
 * **[OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction](ai/rag/arxiv-2606-12838.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12838v1 Announce Type: cross Abstract: Predicting single-cell transcriptional responses to genetic, chemical and cytokine perturbations is a fundamental challenge in computational biology and AI Virtual Cell (AIVC) modeling, with direct im
@@ -39226,11 +39429,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.23978v1 Announce Type: cross Abstract: We present an offline reinforcement learning (RL) framework for optimizing SLAM throughput control in a warehouse fulfillment environment. SLAM (Scan/Label/Apply/Manifest) throughput directly influenc
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.23978>
-
-* **[olegnazarov/rag-security-scanner](ai/rag/olegnazarov-rag-security-scanner.md)** (`prompt` | `useful` tier)
-  * Summary: - **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG/LLM systems) via automated security testing. - **Key Features**: Detects prompt injection, OWASP Top 10 AI risks, and other LLM-specific threats; suppo
-  * Tags: `github-repo`, `hackernews`, `openai`, `python`, `rag`
-  * Source URL: <https://github.com/olegnazarov/rag-security-scanner>
 
 * **[OmniPlan: An Adaptive Framework for Timely and Near-Optimal Network Planning Optimization](ai/rag/arxiv-2606-18105.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18105v2 Announce Type: replace-cross Abstract: Network planning optimization is a fundamental problem across diverse domains, including transportation systems, communication networks, and power grids. It requires simultaneous optimization
@@ -39323,8 +39521,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16774>
 
 * **[opendataloader-project/opendataloader-pdf](ai/rag/opendataloader-project-opendataloader-pdf.md)** (`workflow` | `useful` tier)
-  * Summary: - **Java-based PDF Parser**: Open-source tool (`opendataloader-pdf`) for extracting and converting PDF content into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility compliance (PDF/UA, WCAG). - **Advanced Document Parsing**:
-  * Tags: `github-repo`, `java`, `rag`, `scripts`
+  * Summary: - **Java-based PDF Parser**: Open-source tool designed to parse PDFs into AI-ready formats (HTML, JSON, Markdown) with support for accessibility standards (PDF/UA, WCAG) and OCR for scanned documents. - **Structural & Semantic Extraction**: Extracts
+  * Tags: `github-repo`, `java`, `rag`
   * Source URL: <https://github.com/opendataloader-project/opendataloader-pdf>
 
 * **[opentelemetry-specification/specification/document-status.md at main · open-telemetry/opentelemetry-specification · GitH](ai/rag/open-telemetry-opentelemetry-specification.md)** (`framework` | `useful` tier)
@@ -39387,9 +39585,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://packaging.python.org/tutorials/packaging-projects/>
 
-* **[PacktPublishing/LLM-Engineers-Handbook](ai/rag/packtpublishing-llm-engineers-handbook.md)** (`framework` | `useful` tier)
-  * Summary: - Covers end-to-end LLM development: fundamentals → fine-tuning → deployment on AWS using LLMOps best practices - Includes RAG app implementation, LLM evaluation frameworks, and ML system design for production-grade GenAI systems - Provides hands-on
-  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
+* **[PacktPublishing/LLM-Engineers-Handbook](ai/rag/packtpublishing-llm-engineers-handbook.md)** (`benchmark` | `essential` tier)
+  * Summary: - **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, emphasizing LLMOps best practices. - **Technical Focus**: Includes fine-tuning LLMs, evaluation, system design, and MLOps integration for pr
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `models`, `python`, `rag`
   * Source URL: <https://github.com/PacktPublishing/LLM-Engineers-Handbook>
 
 * **[Paging Charity! How can engineering leaders avoid becoming Bond villains? - Stack Overflow](ai/rag/paging-charity-how-can-engineering-leaders-avoid-b.md)** (`tutorial` | `useful` tier)
@@ -39452,6 +39650,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `hackernews`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/patchy631/ai-engineering-hub>
 
+* **[Pathway · GitHub](ai/rag/pathway-github.md)** (`template` | `useful` tier)
+  * Summary: - **Pathway**: Open-source Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG, with 62.8k+ GitHub stars and active development. - **llm-app**: Docker-friendly cloud templates for RAG, AI pipelines, and enterprise
+  * Tags: `benchmark`, `rag`, `web-crawled`
+  * Source URL: <https://github.com/pathwaycom/>
+
+* **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** (`template` | `useful` tier)
+  * Summary: - **Purpose**: Provides cloud-ready templates for **Retrieval-Augmented Generation (RAG)**, **AI pipelines**, and **enterprise search** with live data synchronization across **SharePoint, Google Drive, S3, Kafka, PostgreSQL, and real-time APIs**. - *
+  * Source URL: <https://github.com/pathwaycom/llm-app?source=post_page>
+
 * **[PeekingDuck v1.3: New GUI with Segmentation and Optimised Models | by AI Singapore | AI Singapore TechBytes | Medium](ai/rag/peekingduck-v1-3-new-gui-with-segmentation-and-opt.md)** (`framework` | `useful` tier)
   * Summary: - **Instance Segmentation Integration**: Added `model.mask_rcnn` and `model.yolact_edge` nodes for pixel-level object masking, enabling privacy protection and precise shape detection (e.g., tumor segmentation, 3D sensor fusion in autonomous vehicles)
   * Tags: `agents`, `benchmark`, `models`, `producthunt`, `rag`, `web-crawled`, `youtube`
@@ -39471,6 +39678,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Metadata Storage**: Project metadata is stored in `pyproject.toml` under the `[project]` table, adhering to [PEP 621](https://peps.python.org/pep-0621/), [PEP 631](https://peps.python.org/pep-0631/), and [PEP 639](https://peps.python.org/pep-0639
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://pdm-project.org/latest/reference/pep621/>
+
+* **[PEP 8 – Style Guide for Python Code | peps.python.org](ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Indentation**: Use 4 spaces per level; continuation lines must align vertically or via hanging indent (no arguments on first line, further indentation for clarity). - **Line Length**: Limit to 79 chars (72 for docstrings/comments); prefer implici
+  * Tags: `hackernews`, `rag`, `reddit`, `scripts`, `web-crawled`
+  * Source URL: <http://www.python.org/dev/peps/pep-0008/>
 
 * **[PepALD: Macrocyclic Peptide Generation via Autoregressive Latent Diffusion](ai/rag/arxiv-2606-14510.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14510v1 Announce Type: new Abstract: Macrocyclic peptides are promising therapeutic candidates for intracellular targets, but their design requires simultaneous control over non-natural monomer chemistry, ring topology, membrane permeabili
@@ -39578,7 +39790,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12282>
 
 * **[PierreGode/Ragnar](ai/rag/pierregode-ragnar.md)** (`product` | `useful` tier)
-  * Summary: - **Purpose**: Ragnar is an offensive security tool designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling network scanning, target discovery, open port enumeration, service identification, and vulnerability detection. - **Architecture**: I
+  * Summary: - **Network Scanning & Offensive Security Tool**: Python-based utility (`Ragnar`) designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling discovery of network targets, open ports, exposed services, and vulnerabilities. - **Hardware Integrati
   * Tags: `github-repo`, `paper`, `python`, `rag`
   * Source URL: <https://github.com/PierreGode/Ragnar>
 
@@ -39594,13 +39806,8 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (`framework` | `useful` tier)
   * Summary: - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses. - **Python-Based**: Entirely implemented in Python, l
-  * Tags: `github-repo`, `python`, `rag`
+  * Tags: `github-repo`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/pixegami/langchain-rag-tutorial>
-
-* **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (`framework` | `useful` tier)
-  * Summary: - **Local LLM Integration**: Demonstrates RAG implementation using local large language models (LLMs) via frameworks like LangChain, avoiding dependency on cloud-based APIs. - **Dynamic Database Updates**: Implements mechanisms for real-time or perio
-  * Tags: `benchmark`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/pixegami/rag-tutorial-v2>
 
 * **[Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech](ai/rag/arxiv-2606-14750.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14750v1 Announce Type: cross Abstract: Recent advances in pixel-based text modeling show that representing text as images enables models to exploit visual cues for language understanding. Grounding text in its visual form allows structural
@@ -39728,14 +39935,14 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.linuxfoundation.org/legal/privacy-policy>
 
 * **[Privacy Policy | Speechify](ai/rag/privacy-policy-speechify.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Data Collection Scope**: Speechify collects **Personal Data** (e.g., username, email, payment info) and **Non-Personal Data** (e.g., log data, device identifiers, usage analytics) via user input, automated tracking (IP, cookies, device metadata),
+  * Summary: - **Data Collection Scope**: Speechify collects Personal Data (e.g., username, email, payment info) and Non-Personal Data (e.g., log files, device identifiers, aggregated usage stats) via user interaction, third-party sources, and automated tracking
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://speechify.com/privacy>
 
 * **[Privacy Policy – Privacy & Terms – Google](ai/rag/privacy-policy-privacy-terms-google.md)** (`framework` | `useful` tier)
-  * Summary: - **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata, IP addresses) data to personal
+  * Summary: - **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata) data, with retention tied to u
   * Tags: `agents`, `hackernews`, `models`, `paper`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
-  * Source URL: <https://policies.google.com/privacy>
+  * Source URL: <https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true>
 
 * **[Privacy policy, PostHog style](ai/rag/privacy-policy-posthog-style.md)** (`framework` | `useful` tier)
   * Summary: - **Data Collection & Legal Basis**: PostHog collects technical data (IP address, device info, page views) via first-party cookies and its own tools (e.g., Session Replay) for analytics and product improvement, acting as the **Data Controller** under
@@ -39908,7 +40115,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12476>
 
 * **[QuivrHQ/quivr](ai/rag/quivrhq-quivr.md)** (`framework` | `useful` tier)
-  * Summary: - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting complexities of RAG pipelines for developers. - **Multi-Backend Compati
+  * Summary: - **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases without deep RAG expertise. - **Mult
   * Tags: `frontend_ui`, `github-repo`, `meta-ai`, `models`, `openai`, `python`, `rag`
   * Source URL: <https://github.com/QuivrHQ/quivr>
 
@@ -39932,13 +40139,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://techcommunity.microsoft.com/blog/educatordeveloperblog/rag-time-ultimate-guide-to-mastering-rag/4386616>
 
-* **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** (`prompt` | `useful` tier)
-  * Summary: - **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context from documents/databases, mitigating context window limitations (e.g., GPT-4.1: 1M tokens, GPT-5: 400K tokens) while avoiding prompt overload. - **Injecti
-  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`, `youtube`
-  * Source URL: <https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280>
-
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: - **Static Site Generator**: Jekyll-based repository generating a static HTML website (`raganwald.github.com`). - **GitHub Pages Hosting**: Deployed via GitHub Pages with last update timestamped `2026-06-20T15:41:20Z`. - **Minimal Metadata**: No addi
+  * Summary: - **Jekyll Static Site Generator**: Repository contains the source code for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`). - **Minimalist Structure**: HTML-based project with no additional topics or dependencies, indic
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -40368,7 +40570,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.18950>
 
 * **[Run Milvus in Docker (Linux) | Milvus Documentation](ai/rag/run-milvus-in-docker-linux-milvus-documentation.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script to deploy Milvus in a single Docker container with embedded etcd (port `2379`) and Milvus (port `19530`), with data persisted in `./volumes/milvus`; WebUI accessible at `http://
+  * Summary: - **Milvus v3.0.x Docker Deployment**: Uses `standalone_embed.sh` script to deploy Milvus in Docker with embedded etcd (port 2379) and Milvus server (port 19530); configurations can be overridden via `user.yaml` and data persists in `volumes/milvus`.
   * Tags: `anthropic`, `openai`, `producthunt`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://milvus.io/docs/install_standalone-docker.md>
 
@@ -40376,6 +40578,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR pipelines, integrating with LLMs, vector databases, and multi-agent systems for RAG applications. - **Core Features**: Supports fine-tuning
   * Tags: `agents`, `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/run-llama/llama_index>
+
+* **[run-llama/ParseBench](ai/rag/run-llama-parsebench.md)** (`benchmark` | `useful` tier)
+  * Summary: - **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, with a focus on structured output evaluation. - **Multi-Modal Evaluation**: Supports vision-language mode
+  * Tags: `agents`, `benchmark`, `github-repo`, `meta-ai`, `models`, `python`, `rag`
+  * Source URL: <https://github.com/run-llama/ParseBench>
 
 * **[Running containers | Docker Docs](ai/rag/running-containers-docker-docs.md)** (`tutorial` | `useful` tier)
   * Summary: - `docker run` syntax: `docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]` with image references supporting tags (`IMAGE:TAG`) or digests (`IMAGE@DIGEST`) for versioning and immutability. - Container isolation: Containers run with isolated
@@ -40492,11 +40699,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://www.science.gov>
 
-* **[SciPhi-AI/R2R](ai/rag/sciphi-ai-r2r.md)** (`framework` | `useful` tier)
-  * Summary: - **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) architecture with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components. - **Python-Based Framewo
-  * Tags: `agents`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/SciPhi-AI/R2R>
-
 * **[SciPy](ai/rag/scipy.md)** (`tutorial` | `useful` tier)
   * Summary: - **Core Functionality**: SciPy extends NumPy with optimized algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic/differential equations, statistics, and sparse matrix operations, implemented in low-level languages
   * Tags: `rag`, `web-crawled`
@@ -40541,11 +40743,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **SCAP** is a NIST-developed suite of interoperable specifications for standardized machine-readable security configuration and vulnerability information exchange, enabling automated compliance and reporting across heterogeneous systems. - **SCAP 1
   * Tags: `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://csrc.nist.gov/projects/security-content-automation-protocol>
-
-* **[SecurityClaw/SecurityClaw](ai/rag/securityclaw-securityclaw.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Modular SOC Agent**: Python-based autonomous SOC agent with modular design for real-time monitoring of OpenSearch/Elasticsearch data, integrating RAG-based behavioral memory for adaptive threat detection. - **LLM-Driven Anomaly Validation**: Uses
-  * Tags: `agents`, `github-repo`, `python`, `rag`, `scripts`
-  * Source URL: <https://github.com/SecurityClaw/SecurityClaw>
 
 * **[SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests](ai/rag/arxiv-2606-08206.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.08206v2 Announce Type: replace-cross Abstract: We present SegmentAnyTreeV2, a sensor- and platform-agnostic framework for semantic and instance segmentation of forest point clouds. The model combines a serialization-based Point Transformer
@@ -40702,6 +40899,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US>
 
+* **[Sign in to GitHub · GitHub](ai/resources/milvus-io-milvus-docs.md)** (`tutorial` | `useful` tier)
+  * Summary: - **Authentication Failure**: GitHub login page encountered an error during page load, requiring a manual reload. - **Account Creation Option**: New users are redirected to GitHub’s signup page with a pre-filled return path to the Milvus documentatio
+  * Tags: `web-crawled`
+  * Source URL: <https://github.com/milvus-io/milvus-docs/edit/v3.0.x/site/en/getstarted/run-milvus-docker/install_standalone-docker.md>
+
 * **[Signals of Provenance: Practices & Challenges of Navigating Indicators in AI-Generated Media for Sighted and Blind Individuals](ai/rag/arxiv-2505-16057.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.16057v2 Announce Type: replace-cross Abstract: AI-Generated (AIG) content has become increasingly widespread by recent advances in generative models and the easy-to-use tools that have significantly lowered the technical barriers for produ
   * Tags: `hackernews`, `rag`, `youtube`
@@ -40773,8 +40975,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://batterycenter.slac.stanford.edu>
 
 * **[sleeepeer/PoisonedRAG](ai/rag/sleeepeer-poisonedrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework enabling adversaries to corrupt the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, leading to incorrect or ha
-  * Tags: `benchmark`, `github-repo`, `hackernews`, `python`, `rag`, `reddit`
+  * Summary: - **Novel Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate targ
+  * Tags: `benchmark`, `github-repo`, `hackernews`, `meta-ai`, `mistral`, `models`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/sleeepeer/PoisonedRAG>
 
 * **[Small Initialization Matters for Large Language Models](ai/rag/arxiv-2606-17945.md)** (`framework` | `useful` tier)
@@ -40863,7 +41065,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2510.14217>
 
 * **[Speechify AI - Voice AI Research Lab](ai/rag/speechify-ai-voice-ai-research-lab.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Streaming-native Simba 3.0 model**: Achieves lower time-to-first-byte than predecessors, supports fine-grained emotional control (neutral, happy, sad, excited, calm, mystery), zero-shot voice cloning from ≥10s reference audio, and SSML prosody co
+  * Summary: - **Streaming-native Simba 3.0 model** with lower time-to-first-byte, fine-grained emotional control, zero-shot voice cloning (from 10s reference audio), and SSML prosody support across expanding languages. - **Emotion & Multilingual Synthesis** – Mo
   * Tags: `agents`, `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://speechify.ai/>
 
@@ -40918,7 +41120,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://stackblitz.com>
 
 * **[stackitcloud/rag-template](ai/rag/stackitcloud-rag-template.md)** (`template` | `useful` tier)
-  * Summary: - **Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline using FastAPI for document ingestion, vector search, and chatbot interaction, with Ollama for LLM integration. - **Deployment**: Supports Docker for containerization and K
+  * Summary: - **RAG Implementation**: Provides a FastAPI-based template for Retrieval-Augmented Generation (RAG) chatbots with vector search capabilities, leveraging Python and Ollama for LLM integration. - **Deployment Options**: Supports Docker for containeriz
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/stackitcloud/rag-template>
 
@@ -40988,8 +41190,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16073>
 
 * **[Story’s detailed stats page – Medium Help Center](ai/rag/storys-detailed-stats-page-medium-help-center.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Lifetime Metrics**: Track hourly-updated reach funnel (presentations, views, reads, feed clickthrough rate, read ratio) and impact metrics (earnings, follower/subscription changes) for paywalled stories; earnings update daily. - **Monthly Engagem
-  * Tags: `rag`, `reddit`, `web-crawled`
+  * Summary: - **Lifetime Metrics**: Includes total presentations (suggested views), views (landing on story), reads (30+ sec engagement), and impact metrics (earnings, followers, subscribers) updated hourly (daily for earnings). - **Monthly Engagement**: Tracks
+  * Tags: `rag`, `web-crawled`
   * Source URL: <https://help.medium.com/hc/en-us/articles/34831991136151>
 
 * **[Streaming-dLLM: Accelerating Diffusion LLMs via Suffix Pruning and Dynamic Decoding](ai/rag/arxiv-2601-17917.md)** (`framework` | `useful` tier)
@@ -41026,6 +41228,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12814v1 Announce Type: cross Abstract: Recent reinforcement learning approaches have shown great promise in improving humanoid motion tracking performance and achieving fall recovery under disturbances. However, most existing works treat m
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12814>
+
+* **[study8677/antigravity-workspace-template](ai/rag/study8677-antigravity-workspace-template.md)** (`mcp-server` | `useful` tier)
+  * Summary: - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI) - **RAG-based system** leveraging MCP servers and Python to index codebases, supporting OpenAI and other LLMs - **I
+  * Tags: `agents`, `anthropic`, `github-repo`, `openai`, `python`, `rag`
+  * Source URL: <https://github.com/study8677/antigravity-workspace-template>
 
 * **[StyleShield: Exposing the Fragility of AIGC Detectors through Continuous Controllable Style Transfer](ai/rag/arxiv-2605-00924.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.00924v2 Announce Type: replace Abstract: AI-generated content (AIGC) detectors are increasingly deployed in high-stakes settings such as academic integrity screening, yet their reliability rests on a fundamental paradox: as language models
@@ -41097,6 +41304,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: - **RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interact with GitHub repositories via conversational queries. - **Technical Stack**: Built in Python, leveraging vector embeddings and retrieval me
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+  * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
+
 * **[SylphxAI/pdf-reader-mcp](ai/rag/sylphxai-pdf-reader-mcp.md)** (`mcp-server` | `essential` tier)
   * Summary: 📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
   * Tags: `agents`, `github-repo`, `rag`, `typescript`
@@ -41132,6 +41344,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16511>
 
+* **[Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](ai/rag/take-spatial-photos-and-record-spatial-videos-for.md)** (`tutorial` | `useful` tier)
+  * Summary: - **iOS 26 Compatibility & Models**: iOS 26 supports iPhone models from iPhone 11 to iPhone 17 series, including SE (2nd/3rd gen), 12/13/14/15/16/17 variants, and new models like iPhone Air and iPhone 17e. - **Key iOS 26 Features**: Introduces advanc
+  * Tags: `frontend_ui`, `openai`, `paper`, `rag`, `scripts`, `web-crawled`, `youtube`
+  * Source URL: <https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-ios-iph6e3a6d4fe/ios>
+
 * **[Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving](ai/rag/arxiv-2606-06302.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.06302v2 Announce Type: replace Abstract: Multi-turn LLM serving accumulates dialogue history whose Key-Value (KV) cache grows with every turn and every user, quickly exceeding the model weights themselves and making memory -- not compute -
   * Tags: `models`, `rag`
@@ -41158,13 +41375,13 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.01613>
 
 * **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 94 stars and 25 forks, last updated on **2026-06-09**. - **Language & Topics**: Repository language unspecified; no listed topics. - **Purpose**: No description pro
+  * Summary: - **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09. - **Language/Topics**: Undefined (metadata indicates no explicit language or topics). - **Purpose**: Unspecified (no description provided in repository metad
   * Tags: `github-repo`, `rag`, `unknown`
   * Source URL: <https://github.com/techwithtim/Langflow-RAG-Tutorial>
 
-* **[techwithtim/ProductionGradeRAGPythonApp](ai/rag/techwithtim-productiongraderagpythonapp.md)** (`framework` | `useful` tier)
-  * Summary: - **Repository Overview**: A Python-based application repository focused on production-grade RAG (Retrieval-Augmented Generation) systems, with 68 stars and 44 forks. - **Technical Stack**: Utilizes Python for implementation, though specific librarie
-  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+* **[techwithtim/ProductionGradeRAGPythonApp](ai/rag/techwithtim-productiongraderagpythonapp.md)** (`product` | `useful` tier)
+  * Summary: - **Repository**: `techwithtim/ProductionGradeRAGPythonApp` - **Metadata**: 68 stars, 44 forks, Python-based, last updated 2026-06-26T12:52:07Z - **Status**: No description, topics, or additional metadata provided
+  * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/techwithtim/ProductionGradeRAGPythonApp>
 
 * **[Temporal Preference Optimization for Unsupervised Retrieval](ai/rag/arxiv-2606-17664.md)** (`framework` | `useful` tier)
@@ -41183,7 +41400,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.energy.gov/articles/ten-years-frontiers-energy-science>
 
 * **[TencentCloudADP/youtu-graphrag](ai/rag/tencentcloudadp-youtu-graphrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., planner, retriever, reasoner) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-
+  * Summary: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks. - **Graph Retrieva
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/TencentCloudADP/youtu-graphrag>
 
@@ -41198,7 +41415,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.tensorflow.org/tensorboard>
 
 * **[Terms & Conditions | Speechify](ai/rag/terms-conditions-speechify.md)** (`tutorial` | `useful` tier)
-  * Summary: - **Mandatory Arbitration & Class Action Waiver**: Terms enforce pre-dispute arbitration for all disputes, explicitly waiving class actions, with updates retroactively affecting unresolved claims; users must opt out of arbitration via written notice
+  * Summary: - **Mandatory Arbitration & Class Action Waiver**: Terms enforce binding arbitration for disputes, explicitly waiving class actions, with updates retroactively affecting unresolved claims; users must opt out or cease service use to avoid binding term
   * Tags: `agents`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://speechify.com/terms>
 
@@ -41482,8 +41699,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12828>
 
 * **[topoteretes/awesome-ai-memory](ai/rag/topoteretes-awesome-ai-memory.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including short-term and long-term memory architectures. - **Python-centric ecosystem**: Majority of listed projects are imp
-  * Tags: `agents`, `github-repo`, `python`, `rag`
+  * Summary: - **Curated list**: Repository aggregates 798+ projects focused on AI memory systems, including RAG, agent-based memory, and ML-driven memory management. - **Technical scope**: Projects span Python-based implementations for memory architectures, retr
+  * Tags: `agents`, `github-repo`, `hackernews`, `python`, `rag`
   * Source URL: <https://github.com/topoteretes/awesome-ai-memory>
 
 * **[TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](ai/rag/arxiv-2606-27161.md)** (`framework` | `useful` tier)
@@ -41531,6 +41748,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13253>
 
+* **[towardsai/ragbook-notebooks](ai/rag/towardsai-ragbook-notebooks.md)** (`benchmark` | `useful` tier)
+  * Summary: - Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments. - Includes examples and tutorials for **LangChain**, **LlamaIndex**, and
+  * Tags: `agents`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `rag`
+  * Source URL: <https://github.com/towardsai/ragbook-notebooks>
+
 * **[Track or manage your Google Store order - Google Store Help](ai/rag/track-or-manage-your-google-store-order-google-sto.md)** (`benchmark` | `useful` tier)
   * Summary: - **Order Management**: Access order history via [Google Store order history](http://store.google.com/orderhistory) to view status, estimated delivery dates, and tracking numbers; select **Track shipment** for carrier-specific updates. - **Tracking R
   * Tags: `rag`, `reddit`, `web-crawled`, `youtube`
@@ -41571,8 +41793,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.15074>
 
-* **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** (`framework` | `useful` tier)
-  * Summary: - **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components for customization and scalability. - **Multi-Language Support**: Core in Python with Typ
+* **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** (`framework` | `essential` tier)
+  * Summary: - **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability. - **Production-Ready Features**: Support
   * Tags: `agents`, `github-repo`, `models`, `python`, `rag`
   * Source URL: <https://github.com/truefoundry/cognita>
 
@@ -41692,7 +41914,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://unifiedjs.com>
 
 * **[UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](ai/rag/universalrag-retrieval-augmented-generation-over-c.md)** (`framework` | `useful` tier)
-  * Summary: - **UniversalRAG** introduces an any-to-any retrieval-augmented generation (RAG) framework that integrates knowledge from heterogeneous sources with diverse modalities (e.g., text, images, videos) and granularities, addressing limitations of single-m
+  * Summary: - **UniversalRAG Framework**: Introduces an any-to-any retrieval-augmented generation (RAG) system that dynamically retrieves and integrates knowledge from heterogeneous sources across diverse modalities (e.g., text, images, videos) and granularities
   * Tags: `benchmark`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://universalrag.github.io/>
 
@@ -41897,7 +42119,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://docs.vllm.ai/en/latest>
 
 * **[vndee/local-assistant-examples](ai/rag/vndee-local-assistant-examples.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Implementation**: Demonstrates building a local ChatPDF application using Python, leveraging LangChain for LLM orchestration and RAG (Retrieval-Augmented Generation) for document processing. - **Dependencies**: Utilizes Ollama for local LLM infer
+  * Summary: - Implements a **local ChatPDF** system using **LangChain** and **Ollama** for LLM inference, enabling offline document interaction. - Utilizes **RAG (Retrieval-Augmented Generation)** for efficient document retrieval and context-aware responses. - S
   * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/vndee/local-assistant-examples>
 
@@ -41905,11 +42127,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2604.03472v3 Announce Type: replace-cross Abstract: Co-evolutionary self-play, where one language model generates problems and another solves them, promises autonomous curriculum learning without human supervision. In practice, the proposer qui
   * Tags: `agents`, `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.03472>
-
-* **[volcengine/OpenViking](ai/rag/volcengine-openviking.md)** (`framework` | `useful` tier)
-  * Summary: - **Context Management Framework**: OpenViking implements a hierarchical, filesystem-like paradigm to unify and manage context (memory, resources, skills) for AI Agents, enabling structured context delivery and evolution. - **Self-Evolving Architectu
-  * Tags: `agents`, `github-repo`, `python`, `rag`
-  * Source URL: <https://github.com/volcengine/OpenViking>
 
 * **[Vulnerability Disclosure Policy | Department of Energy](ai/rag/vulnerability-disclosure-policy-department-of-ener.md)** (`tutorial` | `useful` tier)
   * Summary: - **Scope & Expansion**: DOE’s Vulnerability Disclosure Policy (VDP) mandates progressive inclusion of all internet-accessible DOE systems/services, starting with at least one at issuance, expanding by ≥1 every 90 days, and covering 100% within 2 yea
@@ -42012,8 +42229,8 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://it.cornell.edu>
 
 * **[wgcyeo/UniversalRAG](ai/rag/wgcyeo-universalrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of processing diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a single
-  * Tags: `benchmark`, `github-repo`, `models`, `python`, `rag`
+  * Summary: - **Multimodal & Multi-Granularity RAG Framework**: Introduces a retrieval-augmented generation (RAG) system (`UniversalRAG`) designed to handle diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, enti
+  * Tags: `github-repo`, `paper`, `python`, `rag`
   * Source URL: <https://github.com/wgcyeo/UniversalRAG>
 
 * **[What Do Language Priors Contribute to Darcy-Flow Inversion? A Mechanistic Audit](ai/rag/arxiv-2606-24967.md)** (`framework` | `useful` tier)
@@ -42191,7 +42408,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.19256>
 
 * **[XMUDeepLIT/MemGraphRAG](ai/rag/xmudeeplit-memgraphrag.md)** (`framework` | `useful` tier)
-  * Summary: - **Memory-based Multi-Agent System**: Implements a graph RAG framework where multiple agents collaboratively construct and query a knowledge graph using memory-driven mechanisms for enhanced retrieval-augmented generation (RAG). - **Ontology-Guided
+  * Summary: - **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning over structured graph data. - **Graph Co
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/XMUDeepLIT/MemGraphRAG>
 
@@ -42209,6 +42426,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Program Structure**: *Yes, And… Laughter Lab* is a competitive incubation lab, pitch program, and showcase designed to support diverse comedy writers/performers creating socially impactful content, bridging them with industry stakeholders (entert
   * Tags: `hackernews`, `producthunt`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://yesandlaughterlab.com>
+
+* **[Yigtwxx/awesome-rag-production](ai/rag/yigtwxx-awesome-rag-production.md)** (`framework` | `useful` tier)
+  * Summary: - **Curated RAG Production Tools**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, focusing on battle-tested solutions. - **Technical Scope**: Covers embeddings,
+  * Tags: `github-repo`, `hackernews`, `python`, `rag`
+  * Source URL: <https://github.com/Yigtwxx/awesome-rag-production>
 
 * **[yonatangross/orchestkit](ai/rag/yonatangross-orchestkit.md)** (`api` | `essential` tier)
   * Summary: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
@@ -42240,14 +42462,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged&referrer=utm_source%3Dytv%26utm_medium%3Dfooter%26utm_campaign%3Dplay>
 
-* **[zhengxuJosh/Awesome-RAG-Vision](ai/rag/zhengxujosh-awesome-rag-vision.md)** (`framework` | `useful` tier)
-  * Summary: - **Curated RAG-Vision Resources**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques and frameworks tailored for **Computer Vision (CV)**, including multimodal and vision-language model integrations. - **Active
-  * Tags: `github-repo`, `hackernews`, `rag`, `unknown`
-  * Source URL: <https://github.com/zhengxuJosh/Awesome-RAG-Vision>
-
-* **[zilliztech/attu](ai/rag/zilliztech-attu.md)** (`api` | `useful` tier)
-  * Summary: - **Purpose**: Attu is a **Graphical User Interface (GUI)** designed to simplify interactions with **Milvus**, an open-source vector database, by providing a user-friendly frontend for database operations. - **Technical Stack**: Primarily implemented
-  * Tags: `frontend_ui`, `github-repo`, `hackernews`, `rag`, `shell`
+* **[zilliztech/attu](ai/rag/zilliztech-attu.md)** (`tool` | `useful` tier)
+  * Summary: - **Attu**: A web-based GUI designed for Milvus, providing a user-friendly interface for managing and interacting with the vector database. - **Shell-based**: The repository is primarily written in Shell, indicating it may include scripts or automati
+  * Tags: `github-repo`, `rag`, `scripts`, `shell`
   * Source URL: <https://github.com/zilliztech/attu>
 
 * **[zilliztech/milvus_cli](ai/rag/zilliztech-milvus-cli.md)** (`tool` | `useful` tier)
@@ -42614,7 +42831,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/anyone-yuren/degital-twin-3d>
 
 * **[Artificial Intelligence in Chrome | AI on Chrome | Chrome for Developers](ai/rag/artificial-intelligence-in-chrome-ai-on-chrome-chr.md)** (`benchmark` | `useful` tier)
-  * Summary: - **Built-in AI in Chrome**: Leverages **Gemini Nano** for browser-managed AI tasks via APIs, enabling on-device inference (e.g., translation, summarization) with hybrid workloads. - **Web AI Acceleration**: Optimizes AI performance using **WebAssemb
+  * Summary: - **Built-in AI in Chrome**: Chrome integrates **Gemini Nano** for on-device AI tasks, offering browser-managed foundation/expert models via APIs (e.g., summarization, translation) with managed compute resources. - **Web AI Acceleration**: Chrome lev
   * Tags: `agents`, `benchmark`, `hackernews`, `rag`, `reddit`, `threejs`, `web-crawled`
   * Source URL: <https://developer.chrome.com/docs/ai>
 

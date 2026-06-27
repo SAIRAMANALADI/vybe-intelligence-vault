@@ -8,16 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `93` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `91` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
@@ -27,6 +17,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`packtpublishing-llm-engineers-handbook.md`](../../ai/rag/packtpublishing-llm-engineers-handbook.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
@@ -43,6 +38,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`azure-samples-chat-with-your-data-solution-accelerator.md`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
@@ -53,11 +53,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`tomasonjo-kg-rag.md`](../../ai/rag/tomasonjo-kg-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [Azure-Samples/aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`azure-samples-aisearch-openai-rag-audio.md`](../../ai/rag/azure-samples-aisearch-openai-rag-audio.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
@@ -66,6 +61,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-28 01:32 IST*
+*Last updated: 2026-06-28 04:03 IST*

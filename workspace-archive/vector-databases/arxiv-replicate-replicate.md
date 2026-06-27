@@ -11,10 +11,10 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
-- anthropic
 - rag
+- reddit
 - web-crawled
+- youtube
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Gemini-3.1-Flash-TTS**: Google's TTS model supporting 30 voices and 70+ languages, optimized for speed and expressiveness with 195.9K runs.
-- **Claude-Opus-4.7**: Anthropic's advanced model excelling in agentic coding, vision tasks, and multi-step reasoning, with 112.6K runs.
-- **Seedream-5-Lite**: ByteDance’s image generation model featuring built-in reasoning, example-based editing, and deep domain knowledge, with 2.7M runs.
+- **Gemini-3.1-Flash-TTS**: Google's high-speed, expressive TTS model supporting 30 voices and 70+ languages, optimized for low-latency inference and high naturalness via advanced autoregressive/non-autoregressive hybrid architecture.
+
+- **p-video-avatar**: Ultra-efficient avatar/lipsync generation model (78.4K runs) leveraging lightweight transformer-based facial animation and neural rendering for real-time, low-cost synthesis.
+
+- **Music-2.6**: Minimax's text-to-music diffusion model (14.8K ru
 
 ## Use Cases
 

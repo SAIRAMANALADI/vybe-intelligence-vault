@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-28T01:20:34.604393+05:30'
-collected_at: '2026-06-28T01:20:34.604403+05:30'
+published_at: '2026-06-28T03:51:30.329682+05:30'
+collected_at: '2026-06-28T03:51:30.329698+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-28T01:20:34.604403+05:30'
-last_seen: '2026-06-28T01:20:34.604403+05:30'
-last_checked: '2026-06-28T01:20:34.604403+05:30'
+first_seen: '2026-06-28T03:51:30.329698+05:30'
+last_seen: '2026-06-28T03:51:30.329698+05:30'
+last_checked: '2026-06-28T03:51:30.329698+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 - **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` errors in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings, adds YUV420/YUV444 chroma subsampling hints, and deprecates legacy imaging compression settings.
+- **Hugo v0.163.0** improves AVIF image handling with adjusted default quality (60) and added compression hints, while deprecating legacy imaging settings and streamlining Go version support.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T01:20:34.604393+05:30
+- Published: 2026-06-28T03:51:30.329682+05:30
 
 ## Related Tags
 

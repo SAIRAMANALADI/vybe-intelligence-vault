@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-28T01:17:08.178874+05:30'
+collected_at: '2026-06-28T03:48:19.053369+05:30'
 published_at: '2026-06-27T03:54:28Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-- workflows
 stars: 1173
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-27T10:16:13Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-28T01:17:08.178874+05:30'
-last_seen: '2026-06-28T01:17:08.178874+05:30'
-last_checked: '2026-06-28T01:17:08.178874+05:30'
+first_seen: '2026-06-28T03:48:19.053369+05:30'
+last_seen: '2026-06-28T03:48:19.053369+05:30'
+last_checked: '2026-06-28T03:48:19.053369+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, with Python-based deployment templates.
-
-- **Key Features**: Includes pre-configured **AZD templates**, supports **semantic search**, **vector embeddings**, and integrates **best practices** for production-grade RAG workflows.
-
-- **Deployment**: Optimized for **Azure cloud**, leveraging **OpenAI-compatible APIs**, **authentication**, and **scalability** patterns for enterprise-grade AI applications.
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A experiences.
+- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to adhere to best practices for scalable, production-ready RAG solutions.
+- **Key Features**: Includes preconfigured components for common RAG requirements (e.g., data ingestion, indexing, retrieval, and chat orchestration) with modular architecture for customization.
 
 ## Why It Matters
 

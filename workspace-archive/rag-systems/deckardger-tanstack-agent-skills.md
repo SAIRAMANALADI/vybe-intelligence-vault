@@ -12,13 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- frontend_ui
 - github-repo
-- hackernews
 - rag
 - reddit
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
-
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic, AI-generated navigation paths while maintaining state consistency and minimizing re-renders.
-
-- **Start Framework Integration**: Outlines initiali
+*   Establishes best practices for integrating TanStack Query, Router, and Start.
+*   Optimizes TanStack library utilization within AI coding agent architectures.
+*   Provides prescriptive guidance for AI agent development leveraging the TanStack ecosystem.
 
 ## Use Cases
 

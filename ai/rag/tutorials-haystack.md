@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-27T22:00:07.599119+05:30'
-collected_at: '2026-06-27T22:00:07.599130+05:30'
+published_at: '2026-06-28T03:52:21.767776+05:30'
+collected_at: '2026-06-28T03:52:21.767791+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-27T22:00:07.599130+05:30'
-last_seen: '2026-06-27T22:00:07.599130+05:30'
-last_checked: '2026-06-27T22:00:07.599130+05:30'
+first_seen: '2026-06-28T03:52:21.767791+05:30'
+last_seen: '2026-06-28T03:52:21.767791+05:30'
+last_checked: '2026-06-28T03:52:21.767791+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
-
-- **Agentic RAG with Fallback**: Demonstrates building a RAG pipeline with conditional routing to web search as a fallback mechanism, enhancing query resolution robustness.
-
-- **Multimodal RAG Pipeline**: Tutorial on constructing a vision+text RAG pipeline, enabling multimodal question answering grounded in both image and text data.
+- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering metrics and methodologies for performance analysis.
+- **Multimodal RAG Pipeline**: Demonstrates a Retrieval-Augmented Generation (RAG) system integrating both image and text modalities for enhanced question answering.
+- **Multi-Agent System**: Illustrates the construction of modular agent workflows using specialized agents for complex task decomposition and execution.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T22:00:07.599119+05:30
+- Published: 2026-06-28T03:52:21.767776+05:30
 
 ## Related Tags
 

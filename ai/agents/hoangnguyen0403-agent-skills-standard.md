@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-28T01:18:48.205237+05:30'
+collected_at: '2026-06-28T03:49:59.039749+05:30'
 published_at: '2026-06-27T12:21:56Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 stars: 514
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-28T01:18:48.205237+05:30'
-last_seen: '2026-06-28T01:18:48.205237+05:30'
-last_checked: '2026-06-28T01:18:48.205237+05:30'
+first_seen: '2026-06-28T03:49:59.039749+05:30'
+last_seen: '2026-06-28T03:49:59.039749+05:30'
+last_checked: '2026-06-28T03:49:59.039749+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering to coding standards.
+- **Repository Purpose**: A curated TypeScript-based collection of coding standards and best practices for AI agents, covering 18+ languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot) to enforce consistent agentic AI development.
 
-- **Scope & Topics**: Covers 19+ languages/frameworks (e.g., React, Flutter, Laravel) and tools (e.g., Cursor Rules) under topics like `agentic-ai`, `best-practices`, and `coding-standards`.
+- **Technical Scope**: Includes language-specific guidelines (e.g., TypeScript, Kotlin, Go), framework-specific rules (e.g., React, NestJS, Spring Boot), and platform-specific standards (e.g., Android, iOS) to optimize AI agent performance and adherence to conventions.
 
-- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026. Focuses on enabling AI agents to implement language/framework-specific best practices efficiently.
+- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026; designed for AI agents using tools like Cursor Rules to automate compliance with standardized coding practices.
 
 ## Why It Matters
 

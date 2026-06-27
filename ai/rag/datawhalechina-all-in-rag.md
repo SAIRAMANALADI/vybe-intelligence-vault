@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-28T01:15:58.084246+05:30'
+collected_at: '2026-06-28T03:47:19.022264+05:30'
 published_at: '2026-06-27T18:32:23Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-28T01:15:58.084246+05:30'
-last_seen: '2026-06-28T01:15:58.084246+05:30'
-last_checked: '2026-06-28T01:15:58.084246+05:30'
+first_seen: '2026-06-28T03:47:19.022264+05:30'
+last_seen: '2026-06-28T03:47:19.022264+05:30'
+last_checked: '2026-06-28T03:47:19.022264+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including frameworks like LangChain and LlamaIndex, with practical examples in Python.
+- **Comprehensive RAG Guide**: A full-stack technical resource for developing RAG (Retrieval-Augmented Generation) applications with LLMs, covering embedding models, vector databases (Milvus), and multimodal integration.
 
-- **Multi-Technology Integration**: Demonstrates RAG pipelines using vector databases (Milvus), graph databases (Neo4j), embedding models, and multimodal inputs, with compatibility for models like DeepSeek and Kimi-K2.
+- **Toolchain Integration**: Demonstrates practical implementations using LangChain, LlamaIndex, and deep learning frameworks (e.g., DeepSeek, Kimi-K2) with Python, including Neo4j for graph-based retrieval.
 
-- **Updated Tooling & Deployment**: Focuses on modern AI tooling (e.g., LangChain, LlamaIndex) and deployment strategies, last updated June 2026, with a GitHub repository containing 8,971 stars and 4,472 forks.
+- **Deployment & Scalability**: Focuses on production-ready RAG pipelines, multimodal data handling, and optimization techniques for large-scale LLM applications.
 
 ## Why It Matters
 

@@ -28,10 +28,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`nirdiamant-agents-towards-production.md`](../../ai/rag/nirdiamant-agents-towards-production.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -41,11 +41,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
@@ -58,15 +53,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`run-llama-llama-deploy.md`](../../ai/rag/run-llama-llama-deploy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`airweave-ai-airweave.md`](../../ai/rag/airweave-ai-airweave.md)
+- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [cli/cli](https://github.com/cli/cli)
 - **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-28 01:32 IST*
+*Last updated: 2026-06-28 04:03 IST*

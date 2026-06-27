@@ -1,32 +1,31 @@
 ---
-title: milvus-io/milvus · Discussions · GitHub
+title: milvus-io/milvus
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/milvus-io/milvus/discussions
+source_url: https://github.com/milvus-io/milvus
 resource_id: github:milvus-io/milvus
 local_vault_path: ai/rag/milvus-io-milvus.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
+- github-repo
+- go
 - hackernews
-- openai
 - rag
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# milvus-io/milvus · Discussions · GitHub
+# milvus-io/milvus
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Milvus GitHub Repository**: Open-source vector database with 45k+ stars, 4.1k+ forks, 713 open issues, and 207 pull requests; supports ARMv9 SVE BF16 via community discussions.
-- **Discussion Categories**: Active Q&A, feature requests, and announcements (e.g., Milvus Roadmap 2025) with unresolved threads on migration, performance evaluation, and ARM64 compatibility.
-- **Operational Concerns**: Community-reported issues include etcd corruption recovery, Pulsar retention policies, and collecti
+- **High-performance, cloud-native vector database**: Milvus is optimized for scalable Approximate Nearest Neighbor (ANN) search, leveraging distributed architectures and cloud-native principles for efficient vector similarity queries.
+- **Multi-algorithm support**: Integrates multiple indexing algorithms (e.g., HNSW, DiskANN, FAISS) and supports vector similarity search, embedding storage, and retrieval for applications like LLM RAG and image search.
+- **Go-based, distributed system**: Built in
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/milvus-io/milvus/discussions
+Original source URL: https://github.com/milvus-io/milvus
 
 ## Local Vault File
 

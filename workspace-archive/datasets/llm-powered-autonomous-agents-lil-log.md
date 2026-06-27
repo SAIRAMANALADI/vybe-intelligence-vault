@@ -2,7 +2,7 @@
 title: LLM Powered Autonomous Agents | Lil'Log
 archive_category: datasets
 source_category: ai/rag
-source_url: https://lilianweng.github.io/posts/2023-06-23-agent/
+source_url: https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies
 resource_id: blog:llm-powered-autonomous-agents-lil-log
 local_vault_path: ai/rag/llm-powered-autonomous-agents-lil-log.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Planning Mechanisms**: LLM-based agents decompose complex tasks via Chain of Thought (CoT) prompting or Tree of Thoughts (ToT) for multi-path reasoning, while external planners (e.g., LLM+P using PDDL) handle long-horizon planning in structured domains. Self-reflection frameworks like ReAct and Reflexion integrate reasoning traces with environmental interaction, enabling iterative error correction via heuristic-driven trajectory evaluation.
+- **Planning Mechanisms**: LLM agents employ task decomposition (e.g., Chain of Thought, Tree of Thoughts) and external planners (e.g., LLM+P using PDDL) to break complex tasks into subgoals, with self-reflection frameworks (ReAct, Reflexion, Chain of Hindsight) enabling iterative error correction and performance improvement.
 
-- **Memory Architectures**: Short-term memory leve
+- **Memory Systems**: Agents utilize short-term memory via in-context learning and long-term memory via vector stores with MIPS for efficient retrieval, enabling retention
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://lilianweng.github.io/posts/2023-06-23-agent/
+Original source URL: https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies
 
 ## Local Vault File
 

@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AI-Application-and-Integration-Lab/MegaRAG
-collected_at: '2026-06-28T01:17:58.187856+05:30'
+collected_at: '2026-06-28T03:49:09.075019+05:30'
 published_at: '2026-06-24T06:31:29Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-14T13:38:20Z'
 pushed_at: '2026-04-17T09:26:14Z'
 resource_id: github:ai-application-and-integration-lab/megarag
-first_seen: '2026-06-28T01:17:58.187856+05:30'
-last_seen: '2026-06-28T01:17:58.187856+05:30'
-last_checked: '2026-06-28T01:17:58.187856+05:30'
+first_seen: '2026-06-28T03:49:09.075019+05:30'
+last_seen: '2026-06-28T03:49:09.075019+05:30'
+last_checked: '2026-06-28T03:49:09.075019+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal graph structures to enhance knowledge retrieval and integration across text, images, and structured data.
+- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, an advanced Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) and graph-based retrieval for enhanced contextual understanding in ACL 2026.
 
-- **ACL 2026 Contribution**: Presented as a research contribution at ACL 2026, focusing on scalable, graph-based retrieval mechanisms to improve contextual relevance and reduce hallucinations in large language models.
+- **Python Implementation**: Fully implemented in Python, enabling modular integration with existing AI pipelines and supporting extensibility for custom graph structures and retrieval strategies.
 
-- **Python Implementation**: Open-source Python library with modular components for graph construction, retrieval, and integration, optimized for multimodal datasets and real-time inference.
+- **ACL 2026 Contribution**: Presented at ACL 2026, focusing on scalable multimodal retrieval and generation, with a repository containing core algorithms, benchmarks, and integration examples.
 
 ## Why It Matters
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 94 stars and 25 forks, last updated on **2026-06-09**.
-- **Language & Topics**: Repository language unspecified; no listed topics.
-- **Purpose**: No description provided in the repository metadata.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴), last updated 2026-06-09.
+- **Language/Topics**: Undefined (metadata indicates no explicit language or topics).
+- **Purpose**: Unspecified (no description provided in repository metadata).
 
 ## Use Cases
 

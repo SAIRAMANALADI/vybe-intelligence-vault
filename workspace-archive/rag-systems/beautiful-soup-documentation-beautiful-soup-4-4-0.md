@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Library Overview**: Beautiful Soup is a Python library for parsing, navigating, searching, and modifying HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic Pythonic methods.
+- **HTML/XML Parsing**: Beautiful Soup is a Python library designed to parse and extract data from HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic navigation, searching, and tree modification capabilities.
 
-- **Core Functionality**: Provides tree traversal (e.g., `.contents`, `.descendants`, `.parent`), search methods (`find_all()`, `find()`), and DOM manipulation (e.g., `append()`, `replace_with()`, `extract()`) for structured document processing.
-
-- **Output & Encodin
+- **Tree Navigation & Search**: Provides methods for traversing the parse tree (e.g., `.contents`, `.descendants`, `.parent`, `.find_all()`) and supports CSS selectors, regex filters, and keyword-based searches for precise element targe
 
 ## Use Cases
 

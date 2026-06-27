@@ -7,7 +7,7 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 82
+archive_score: 80
 archive_tier: useful
 resource_kind: dataset
 importance: high
@@ -23,7 +23,6 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -32,19 +31,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 80 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic or fixed-size), embedding models (e.g., Sentence-BERT), vector databases (e.g., Supabase), and LLM integration (e.g., LangChain) for retrieval-augmented generation.
+- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with latency bottlenecks primarily in retrieval (~60%) and generation (~30%) phases.
 
-- **Production Optimizations**: Advanced retrieval (hybrid dense/sparse search), query expansion/rewriting, caching strategies, and load balancing across multiple models to reduce latency and improve response consistency.
+- **Production Optimizations**: Implements chunking (semantic/recursive), embedding quantization (e.g., `all-MiniLM-L6-v2` → FP16), and hybrid retrieval (BM25 + cosine similarity) to balance accuracy/cost.
 
-- **Mon
+- **Scaling & Monitoring**: Uses Cloudflare Workers for edge deployment, Sentry for observabilit
 
 ## Use Cases
 

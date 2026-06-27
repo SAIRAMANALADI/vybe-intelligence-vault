@@ -16,7 +16,6 @@ tags:
 - github-repo
 - openai
 - rag
-- reddit
 - scripts
 - typescript
 - workflows
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
+- **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript for constructing AI agents and workflows with drag-and-drop interfaces, leveraging React for UI and LangChain for agent orchestration.
 
-- **Multi-Agent & RAG Support**: Enables agentic workflows, multi-agent systems, and retrieval-augmented generation (RAG) pipelines with modular, drag-and-drop interfaces.
+- **Multi-Agent & RAG Integration**: Supports multi-agent systems, Retrieval-Augmented Generation (RAG), and seamless integration with LLMs (e.g., OpenAI, ChatGPT) for dynamic, context-aware workflow automation.
 
-- **Extensible & Self-Hosted**: Deployable via Docker/Node.js, supports custom integrations, and integrates with databases/APIs for
+- **Extensible & Scalable**: Modular architecture enables custom tool/pl
 
 ## Use Cases
 

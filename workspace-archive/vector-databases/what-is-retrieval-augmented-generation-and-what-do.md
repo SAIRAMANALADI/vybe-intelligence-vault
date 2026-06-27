@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, cost reduction, and security hardening for scalable workflows.
+- **GitHub Actions Security Enhancements**: Introduced new security features in GitHub Actions to mitigate risks like malicious workflows and supply chain attacks, including stricter permission controls and artifact verification mechanisms.
 
-- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, particularly in improving developer tooling, automation scripts, and documentation for enterprise-scale deployments.
+- **Improved CI/CD Pipeline Integrity**: Implemented hardened defaults for GitHub Actions workflows, such as mandatory approval for reusable workflows and enhanced logging for audit trails.
 
-- **Security & Compliance Advocacy**: Advocates for secure coding practices, supp
+- **OpenSSF Scorecard Integration**: Advocated for and integrated O
 
 ## Use Cases
 

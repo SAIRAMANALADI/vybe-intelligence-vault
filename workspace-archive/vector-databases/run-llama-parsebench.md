@@ -18,7 +18,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like OCR, PDF parsing, and table extraction across diverse document types.
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, with a focus on structured output evaluation.
 
-- **Multi-Modal Evaluation**: Supports both text-based and vision-language model (VLM) parsing, enabling assessment of structured and unstructured document understanding.
+- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional OCR-based pipelines, enabling cross-modal comparison for document understanding.
 
-- **Integration-Friendly**: Designed for compatibility with LlamaIndex, facilitating seamless integration into existing document processing pipelines
+- **LlamaIndex Integration**: Designed for compatibility with LlamaIndex, providing standardized metrics for parsing accuracy, table reconstr
 
 ## Use Cases
 

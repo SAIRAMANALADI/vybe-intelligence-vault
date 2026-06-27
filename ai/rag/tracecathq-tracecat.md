@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-28T01:19:13.293238+05:30'
+collected_at: '2026-06-28T03:50:29.146494+05:30'
 published_at: '2026-06-27T12:21:40Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-02-27T06:48:32Z'
 pushed_at: '2026-06-27T18:22:52Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-28T01:19:13.293238+05:30'
-last_seen: '2026-06-28T01:19:13.293238+05:30'
-last_checked: '2026-06-28T01:19:13.293238+05:30'
+first_seen: '2026-06-28T03:50:29.146494+05:30'
+last_seen: '2026-06-28T03:50:29.146494+05:30'
+last_checked: '2026-06-28T03:50:29.146494+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Event-driven security automation platform** built with Python, FastAPI, and Temporal.io for workflow orchestration, enabling low-code security automation for teams and AI agents.
+- **Core Architecture**: Python-based open-source security automation platform leveraging FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration) with event-driven, low-code workflows defined via Pydantic schemas and OpenAPI specs.
 
-- **OpenAPI-compliant** with Pydantic models for schema validation, supporting LLM integration and Next.js frontend for monitoring and management.
+- **AI & Agent Integration**: Supports LLM-driven automation with secure agent orchestration, enabling AI agents to execute security workflows via standardized APIs and event triggers.
 
-- **Modular architecture** leveraging temporal workflows for scalable, fault-tolerant security automation with real-time event processing.
+- **Security & Monitoring**: Provides real-time monitoring, incident response automation, and role-based access control (RBAC) with extensible security workflows for teams and automated agents.
 
 ## Why It Matters
 

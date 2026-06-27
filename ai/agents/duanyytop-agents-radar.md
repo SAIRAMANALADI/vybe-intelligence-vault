@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/duanyytop/agents-radar
-collected_at: '2026-06-28T01:18:03.168775+05:30'
+collected_at: '2026-06-28T03:49:14.042662+05:30'
 published_at: '2026-06-27T00:34:48Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - producthunt
 - scripts
 - typescript
+- workflows
 stars: 863
 language: TypeScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-02-23T03:22:26Z'
 pushed_at: '2026-06-27T00:34:43Z'
 resource_id: github:duanyytop/agents-radar
-first_seen: '2026-06-28T01:18:03.168775+05:30'
-last_seen: '2026-06-28T01:18:03.168775+05:30'
-last_checked: '2026-06-28T01:18:03.168775+05:30'
+first_seen: '2026-06-28T03:49:14.042662+05:30'
+last_seen: '2026-06-28T03:49:14.042662+05:30'
+last_checked: '2026-06-28T03:49:14.042662+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Automated AI Ecosystem Aggregator**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, etc.) via GitHub Actions, generating bilingual ZH/EN reports.
-- **Technical Stack**: Implemented in TypeScript, with scheduled updates (last commit: 2026-06-27) and no explicit dependency management visible in metadata.
-- **Repository Metrics**: 863 stars, 138 forks, no listed topics, indicating a niche but actively maintained tool for AI ecosystem monitoring.
+- **Automated AI Ecosystem Aggregation**: Daily curation of AI-related content from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs) via GitHub Actions.
+- **Bilingual Report Generation**: Produces daily digests in both Chinese and English using automated workflows.
+- **Technical Stack**: Built with TypeScript, last updated on 2026-06-27, with 863 stars and 138 forks.
 
 ## Why It Matters
 

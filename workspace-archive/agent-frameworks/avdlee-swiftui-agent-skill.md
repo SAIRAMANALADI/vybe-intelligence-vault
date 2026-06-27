@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices in an AI coding tool (Agent Skills open format) to enhance code quality and developer guidance.
-- **Technical Details**: Implemented in Python, structured as a repository (`AvdLee/SwiftUI-Agent-Skill`) with 3,114 stars and 144 forks.
-- **Update Status**: Last updated on **2026-06-27T16:52:03Z**, ensuring recent best practices are included.
+- **Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool using the Agent Skills open format.
+- **Technical Stack**: Implemented in Python, designed to integrate with AI agents for SwiftUI development.
+- **Metadata**: 3,117 stars, 145 forks, last updated 2026-06-27.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Discover AWS Official Knowledge Center Articles | AWS re:Post
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://repost.aws/knowledge-center?nc1=f_dr
+source_url: https://repost.aws/knowledge-center/?nc1=f_dr
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
 local_vault_path: ai/rag/discover-aws-official-knowledge-center-articles-aw.md
 quality_score: 70
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:ReplicateObject`, `s3:GetObjectVersion`), incorrect bucket policy configurations, or replication timeouts due to large object sizes (>5GB) requiring multipart uploads.
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied (publickey)" typically stem from misconfigured security groups, disabled SSH access, incorrect key pair associations, or SELinux enforcing policies blocking access.
-- **S3 40
+- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or replication rules not being properly applied to new objects; verify destination bucket ownership and enable S3 replication metrics for diagnostics.
+
+- **EC2 SSH Connection Errors**: "Connection refused" typically indicates security group or network ACL misconfigurations, while "Permission denied" errors often stem from incorrect key pair associations or disabled SSH access in
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://repost.aws/knowledge-center?nc1=f_dr
+Original source URL: https://repost.aws/knowledge-center/?nc1=f_dr
 
 ## Local Vault File
 

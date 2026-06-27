@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SciPhi-AI/R2R
-collected_at: '2026-06-28T01:17:48.177367+05:30'
+collected_at: '2026-06-28T03:48:59.055503+05:30'
 published_at: '2026-06-27T17:13:13Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 7905
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-02-12T03:24:27Z'
 pushed_at: '2025-11-07T01:02:44Z'
 resource_id: github:sciphi-ai/r2r
-first_seen: '2026-06-28T01:17:48.177367+05:30'
-last_seen: '2026-06-28T01:17:48.177367+05:30'
-last_checked: '2026-06-28T01:17:48.177367+05:30'
+first_seen: '2026-06-28T03:48:59.055503+05:30'
+last_seen: '2026-06-28T03:48:59.055503+05:30'
+last_checked: '2026-06-28T03:48:59.055503+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG System**: Implements an agentic Retrieval-Augmented Generation (RAG) architecture with a RESTful API for production-grade AI retrieval, enabling dynamic interaction between retrieval and generation components.
+- **Agentic RAG Framework**: Production-ready Python-based system implementing Agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows.
 
-- **Python-Based Framework**: Built in Python, leveraging modern libraries for large language models (LLMs), question-answering, and retrieval systems, optimized for scalability and modularity.
+- **Advanced Retrieval Pipeline**: Integrates state-of-the-art retrieval mechanisms optimized for large language models (LLMs), supporting structured and unstructured data indexing, hybrid search, and real-time updates.
 
-- **Advanced Features**: Supports structured retrieval pipelines, hybrid search (semantic + keyword), and real-time updates, with a focus on high-performance indexing and low-latency inference.
+- **Scalable Architecture**: Designed for high-performance deployment with modular components for ingestion, embedding, vector search (e.g., FAISS, Weaviate), and LLM integration, supporting distributed scaling and customizable retrieval strategies.
 
 ## Why It Matters
 

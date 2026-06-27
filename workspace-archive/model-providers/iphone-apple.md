@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Trade-in Credits**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro models, with details available via Apple’s trade-in program.
-- **A19/A19 Pro Chipset**: New iPhone models feature advanced Apple silicon (A19/A19 Pro) with Neural Accelerators in the GPU, enabling AAA gaming, AI-driven camera features, and extended battery life.
-- **Apple Intelligence Integration**: iOS 26 includes on-device AI tools (e.g., Live Translation, Visual Intelligence, Cl
+- **Trade-in credit**: Eligible smartphone trade-ins provide credit toward iPhone 17, iPhone Air, or iPhone 17 Pro purchases.
+- **Hardware durability**: Ceramic Shield 2 front display offers 3x better scratch resistance, with iPhones resistant to common liquid spills (water, coffee, soda).
+- **AI integration**: A19/A19 Pro chips enable Apple Intelligence features (on-device processing for privacy), including Live Translation, Visual Intelligence, Clean Up tool, and enhanced Siri with ChatGPT int
 
 ## Use Cases
 

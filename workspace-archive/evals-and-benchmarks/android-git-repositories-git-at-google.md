@@ -2,7 +2,7 @@
 title: android Git repositories - Git at Google
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://android.googlesource.com
+source_url: http://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official source code is hosted on Google's Git service (`android.googlesource.com`), providing a unified platform for version control and collaboration across diverse hardware/software projects (e.g., device drivers, kernels, accessories).
+- **Hosted Git Repositories**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/asus/flo`).
 
-- **Device-Specific Kernel & Hardware Support**: Repository includes per-device kernel trees (e.g., `device/google/bluejay-kernel/`, `device/google/akita-kernels/6.1/`) and hardware-specific configurations (
+- **Device-Specific Kernel & SEPolicy Branches**: Many device repositories include parallel kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches, often synchronized with specific Android versions (e.g., `5.10`, `6.1` kernels for `d
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://android.googlesource.com
+Original source URL: http://android.googlesource.com
 
 ## Local Vault File
 

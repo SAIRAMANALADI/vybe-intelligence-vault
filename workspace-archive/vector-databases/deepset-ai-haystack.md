@@ -26,11 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Open-source framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation components.
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and transformers.
+- **Multi-Use Case Framework**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with integrations for transformers, PyTorch, and major LLM APIs (e.g., GPT-4, Gemini).
 
-- **Context-Engineered LLM Apps**: Facilitates context-augmented LLM applications with explicit co
+- **Open-Source & Extensible**: Python-based framework with 25.7K+
 
 ## Use Cases
 

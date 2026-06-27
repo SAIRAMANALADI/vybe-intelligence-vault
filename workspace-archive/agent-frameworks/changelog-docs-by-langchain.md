@@ -2,25 +2,24 @@
 title: Changelog - Docs by LangChain
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/javascript/releases/changelog
+source_url: https://docs.langchain.com/oss/python/releases/changelog
 resource_id: blog:changelog-docs-by-langchain
 local_vault_path: ai/rag/changelog-docs-by-langchain.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - anthropic
-- hackernews
-- meta-ai
-- models
 - openai
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` via `readRaw()`), simplified method names, and backward compatibility via `adaptBackendProtocol`.
+- **`deepagents` v0.6.0**: Introduced experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; added `DeltaChannel` (beta) for incremental delta storage in message history/checkpoints; introduced `HarnessProfile` for per-provider/model configuration bundles; added `ContextHubBackend` for filesystem-backed agent file storage with versioning via LangSmith Hub.
 
-- **LangGraph v1.1.0**: Adds **StateSchema** with Standard JSON Schema support (Zod 4, Valibot, etc.), new state primitives (`ReducedValue`, `UntrackedValue`, `MessagesValue`),
+- **`langgraph` v1.2.0**: Added `DeltaChannel` (beta) to reduce checkpoint overhead by s
 
 ## Use Cases
 
@@ -51,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/javascript/releases/changelog
+Original source URL: https://docs.langchain.com/oss/python/releases/changelog
 
 ## Local Vault File
 

@@ -8,7 +8,7 @@ local_vault_path: ai/resources/learn-ai-web-dev.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Learn AI | web.dev
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **AI Course for Web Developers**: A structured learning path on [web.dev](https://web.dev/learn/ai) covering AI fundamentals, use cases, predictive/generative AI, and responsible development practices.
-- **Technical Modules**: Includes platform selection, client-side libraries, prompt engineering, evaluation-driven development, and UX patterns for AI integration in web applications.
-- **Community & Resources**: Offers a [WebDev Insights Community](https://cspace.eu.qualtrics.com/jfe/form/SV_d4
+- **AI Course for Web Developers**: A structured course on [web.dev](https://web.dev/learn/ai) covering AI fundamentals, use cases, predictive/generative AI, responsible development, platform/library selection, prompt engineering, evaluation-driven development, and UX patterns.
+- **Technical Modules**: Includes deep dives into client-side AI libraries, prompt engineering techniques, and evaluation frameworks for AI-driven web applications.
+- **Resources & Community**: Provides a glossary for AI
 
 ## Use Cases
 

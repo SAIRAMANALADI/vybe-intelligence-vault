@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-06-28T01:18:33.222559+05:30'
-published_at: '2026-06-27T19:32:19Z'
+collected_at: '2026-06-28T03:49:44.082223+05:30'
+published_at: '2026-06-27T21:59:20Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - youtube
-stars: 10777
+stars: 10778
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-06-19T14:26:15Z'
 pushed_at: '2026-06-27T06:52:40Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-06-28T01:18:33.222559+05:30'
-last_seen: '2026-06-28T01:18:33.222559+05:30'
-last_checked: '2026-06-28T01:18:33.222559+05:30'
+first_seen: '2026-06-28T03:49:44.082223+05:30'
+last_seen: '2026-06-28T03:49:44.082223+05:30'
+last_checked: '2026-06-28T03:49:44.082223+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source framework for building real-time, multi-modal (voice/video) conversational AI agents in Python.
-- **Key Features**: Supports voice and video interactions, enabling real-time conversational AI applications.
-- **Status**: Actively maintained with 10,777 stars and 1,311 forks as of the last update on 2026-06-27.
+- **Purpose**: Open-source framework designed for building conversational voice AI agents with multi-modal capabilities (voice, video, real-time processing).
+- **Technical Stack**: Primarily implemented in Python, supporting real-time audio/video interactions and multi-modal AI agent development.
+- **Repository Stats**: 10,778 stars, 1,311 forks, last updated June 27, 2026.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TEN-framework
-- Stars: 10777
+- Stars: 10778
 - Forks: 1311
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-06-27T19:32:19Z
+- Last Updated: 2026-06-27T21:59:20Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z

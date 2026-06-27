@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-28T01:17:28.136306+05:30'
+collected_at: '2026-06-28T03:48:43.989524+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - reddit
@@ -21,9 +24,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-28T01:17:28.136306+05:30'
-last_seen: '2026-06-28T01:17:28.136306+05:30'
-last_checked: '2026-06-28T01:17:28.136306+05:30'
+first_seen: '2026-06-28T03:48:43.989524+05:30'
+last_seen: '2026-06-28T03:48:43.989524+05:30'
+last_checked: '2026-06-28T03:48:43.989524+05:30'
 health_score: 100
 ---
 
@@ -31,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework enabling adversaries to corrupt the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, leading to incorrect or harmful outputs.
+- **Novel Attack Methodology**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate targeted, incorrect, or harmful outputs while maintaining semantic coherence.
 
-- **Technical Mechanism**: Demonstrates how poisoned documents can manipulate the retrieval process by embedding triggers or adversarial content, causing the RAG system to prioritize or retrieve manipulated information during inference.
+- **Technical Implementation**: Leverages adversarial document crafting techniques (e.g., embedding perturbations, trigger-based poisoning) to exploit RAG’s retrieval-augmentation pipeline, bypassing existing defenses like sanitization or filtering by exploiting the dynamic nature of retrieval.
 
-- **Evaluation & Impact**: Validates the attack on real-world RAG systems, showing significant degradation in response quality, factual accuracy, and potential exploitation for misinformation dissemination, with mitigation strategies discussed.
+- **Evaluation & Impact**: Validates effectiveness across multiple RAG architectures (e.g., dense retrieval, BM25) and LLMs (e.g., Llama, Mistral), showing high attack success rates (e.g., >90% targeted misinformation generation) with minimal perturbation budgets (<1% of corpus).
 
 ## Why It Matters
 

@@ -6,7 +6,7 @@ source_url: https://github.com/gohugoio/hugo/releases
 resource_id: github:gohugoio/hugo
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - scripts
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Active open-source repository
 ---
 
@@ -28,10 +27,9 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Active open-source repository
 
 ## Summary
@@ -40,7 +38,7 @@ selection_reason:
 
 - **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` errors in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings, adds YUV420/YUV444 chroma subsampling hints,
+- **Hugo v0.163.0** improves AVIF image handling with adjusted default quality (60) and added compression hints, while deprecating
 
 ## Use Cases
 

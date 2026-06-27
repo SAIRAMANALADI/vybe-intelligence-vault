@@ -3,9 +3,9 @@ title: LLM Powered Autonomous Agents | Lil'Log
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://lilianweng.github.io/posts/2023-06-23-agent/
-published_at: '2026-06-26T04:20:37.928607+05:30'
-collected_at: '2026-06-26T04:20:37.928614+05:30'
+source_url: https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies
+published_at: '2026-06-28T03:52:14.629851+05:30'
+collected_at: '2026-06-28T03:52:14.629867+05:30'
 tags:
 - agents
 - anthropic
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llm-powered-autonomous-agents-lil-log
-first_seen: '2026-06-26T04:20:37.928614+05:30'
-last_seen: '2026-06-26T04:20:37.928614+05:30'
-last_checked: '2026-06-26T04:20:37.928614+05:30'
+first_seen: '2026-06-28T03:52:14.629867+05:30'
+last_seen: '2026-06-28T03:52:14.629867+05:30'
+last_checked: '2026-06-28T03:52:14.629867+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Planning Mechanisms**: LLM-based agents decompose complex tasks via Chain of Thought (CoT) prompting or Tree of Thoughts (ToT) for multi-path reasoning, while external planners (e.g., LLM+P using PDDL) handle long-horizon planning in structured domains. Self-reflection frameworks like ReAct and Reflexion integrate reasoning traces with environmental interaction, enabling iterative error correction via heuristic-driven trajectory evaluation.
+- **Planning Mechanisms**: LLM agents employ task decomposition (e.g., Chain of Thought, Tree of Thoughts) and external planners (e.g., LLM+P using PDDL) to break complex tasks into subgoals, with self-reflection frameworks (ReAct, Reflexion, Chain of Hindsight) enabling iterative error correction and performance improvement.
 
-- **Memory Architectures**: Short-term memory leverages in-context learning, whereas long-term memory relies on vector stores (e.g., FAISS) with Maximum Inner Product Search (MIPS) for scalable retrieval. Memory types parallel human cognition: sensory (ephemeral), short-term (7±2 items, 20-30s retention), and long-term (infinite retention via external storage).
+- **Memory Systems**: Agents utilize short-term memory via in-context learning and long-term memory via vector stores with MIPS for efficient retrieval, enabling retention of task-relevant information across extended interactions.
 
-- **Tool Integration & Challenges**: Agents dynamically invoke APIs for real-time data (e.g., Wikipedia search) or code execution, augmenting static LLM knowledge. Key challenges include hallucination mitigation (e.g., Reflexion’s trajectory reset heuristics), context window limitations for multi-episode RL distillation (Algorithm Distillation), and ensuring task-agnostic generalization in offline RL setups.
+- **Tool Integration**: Agents dynamically invoke external APIs (e.g., search, code execution) to augment LLM capabilities, addressing limitations in static model weights and enabling real-time data access and computational tasks.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:20:37.928607+05:30
+- Published: 2026-06-28T03:52:14.629851+05:30
 
 ## Related Tags
 
@@ -68,4 +68,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://lilianweng.github.io/posts/2023-06-23-agent/
+Original source: https://lilianweng.github.io/posts/2023-06-23-agent/#case-studies

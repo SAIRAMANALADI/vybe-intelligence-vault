@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Core functionality prioritization**: MyFitnessPal's primary feature—calorie tracking—is kept simple, accessible, and habit-forming (88% of users logging for 7 days lose weight), with no paywall barriers to essential usage.
+- **Core functionality prioritization**: MyFitnessPal's 88% weight loss success rate among users logging food for 7 days stems from focusing on a single, essential feature (calorie/exercise tracking) without gimmicks, ensuring habit formation and word-of-mouth growth (70% of new users via referrals).
 
-- **In-house community integration**: Customer Happiness team (21 FTEs) handles support, user panels, and feature prioritization, ensuring direct feedback loops and long-term community insights (avg. team tenure: 4 years).
-
-- **User-driven inclusivity & gamification**: Im
+- **In-house community-driven development**: Customer Happiness team (21 FTEs) integrates user feedback directly into product evolution via panels, issue resolution, and feature prioritization, fos
 
 ## Use Cases
 

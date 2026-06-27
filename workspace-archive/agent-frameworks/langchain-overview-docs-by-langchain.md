@@ -2,17 +2,18 @@
 title: LangChain overview - Docs by LangChain
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://js.langchain.com
+source_url: https://python.langchain.com/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - meta-ai
 - models
 - openai
@@ -21,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain overview - Docs by LangChain
@@ -30,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- `create_agent` provides a minimal, configurable agent harness in LangChain, composed of model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction for specific use cases.
 
-- LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, enabling advanced orchestration workflows.
+- **Framework Integration**: Agents are built on LangGraph for durable execution, persistence, and human-in-the-loop support, while LangSmith offers observability via tracing, debugging, and evaluation of agent workflows.
 
-- LangSmith integrates for tracing, debugging, and evaluating agent behavior, with features like trace inspection, tool call analysis, and latency monitoring.
+- **Modularity & Portability**: Sup
 
 ## Use Cases
 
@@ -51,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://js.langchain.com
+Original source URL: https://python.langchain.com/
 
 ## Local Vault File
 

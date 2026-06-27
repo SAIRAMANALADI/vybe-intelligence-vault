@@ -8,14 +8,16 @@ local_vault_path: ai/agents/slavakurilyak-awesome-ai-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
+- paper
 - python
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # slavakurilyak/awesome-ai-agents
@@ -24,13 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-*   Curated "awesome list" aggregating 300+ agentic AI resources
+- **Curated Collection**: Repository hosting 300+ meticulously organized resources on agentic AI, covering frameworks, tools, research papers, and applications.
+- **Technical Scope**: Focuses on AI agents, agentic systems, and autonomous decision-making, with Python-centric implementations and integrations.
+- **Community & Maintenance**: Actively maintained (last update: 2026-06-27) with 1.5k+ stars and 400+ forks, indicating strong community engagement and collaborative contributions.
 
 ## Use Cases
 

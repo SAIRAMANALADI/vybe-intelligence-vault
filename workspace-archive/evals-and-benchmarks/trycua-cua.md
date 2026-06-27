@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - html
 - scripts
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-OS Sandboxing Framework**: Provides isolated, reproducible environments for macOS, Linux, and Windows to safely train and evaluate AI agents capable of full desktop control via containerization and virtualization (e.g., Apple's Virtualization Framework, Windows Sandbox).
-
-- **Agent SDK & Benchmarks**: Includes a Software Development Kit (SDK) for building Computer-Use Agents (CUAs) and standardized benchmarks to assess agent performance in desktop automation tasks across different oper
+- **Multi-Platform Agent Infrastructure**: Provides open-source sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
+- **Technical Stack**: Primarily uses Swift (macOS), with support for Windows virtualization frameworks and containerization tools (e.g., Lume, Manus).
+- **Benchmarking & Automation**: Includes standardized benchmarks for evaluating agent performance in desktop automation tasks, with active community co
 
 ## Use Cases
 

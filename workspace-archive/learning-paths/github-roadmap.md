@@ -6,13 +6,14 @@ source_url: https://github.com/github/roadmap
 resource_id: github:github/roadmap
 local_vault_path: ai/resources/github-roadmap.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - github-repo
 - unknown
+- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -23,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Learning Paths`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Public Roadmap for GitHub Features**: Repository tracks upcoming features and improvements for GitHub and GitHub Enterprise, providing transparency on development priorities.
-
-- **Community-Driven Feedback**: Allows users to submit and vote on feature requests, influencing the product roadmap via GitHub Issues.
-
-- **Regular Updates**: Roadmap is actively maintained with the latest updates (e.g., last commit on 2026-06-27), ensuring alignment with evolving user needs.
+- **Repository Overview**: GitHub's official public roadmap repository tracks upcoming features and improvements for GitHub products (e.g., GitHub.com, GitHub Enterprise).
+- **Metadata**: 8,787 stars, 1,680 forks; last updated June 27, 2026; topics include `github`, `github-enterprise`, and `roadmap`.
+- **Purpose**: Serves as a transparent communication channel for GitHub's development priorities and timelines.
 
 ## Use Cases
 

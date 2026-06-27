@@ -33,8 +33,10 @@ selection_reason:
 ## Summary
 
 - **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful discourse over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists.
-- **User Base & Monetization**: Hosts over 100M monthly users (developers, designers, executives, etc.) and operates on a membership model (1M+ paying members) instead of ad/data monetization, aligning incentives with high-quality content.
-- **Technical & Et
+
+- **Revenue Model**: Operates on a membership-based funding structure, supported by over a million paying members, avoiding ad-based monetization or data selling to maintain user trust.
+
+- **User Base & Engagement**: Hosts over 100 million monthly active us
 
 ## Use Cases
 

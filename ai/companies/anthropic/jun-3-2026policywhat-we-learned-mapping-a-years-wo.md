@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack
-published_at: '2026-06-28T01:15:26.765816+05:30'
-collected_at: '2026-06-28T01:15:26.765818+05:30'
+published_at: '2026-06-28T03:46:39.940868+05:30'
+collected_at: '2026-06-28T03:46:39.940869+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jun-3-2026policywhat-we-learned-mapping-a-years-wo
 first_seen: '2026-06-16T04:26:32.176170+00:00'
-last_seen: '2026-06-28T01:15:26.765818+05:30'
-last_checked: '2026-06-28T01:15:26.765818+05:30'
+last_seen: '2026-06-28T03:46:39.940869+05:30'
+last_checked: '2026-06-28T03:46:39.940869+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack
-- Collected At: 2026-06-28T01:15:26.765818+05:30
+- Collected At: 2026-06-28T03:46:39.940869+05:30
 
 ## Related Tags
 

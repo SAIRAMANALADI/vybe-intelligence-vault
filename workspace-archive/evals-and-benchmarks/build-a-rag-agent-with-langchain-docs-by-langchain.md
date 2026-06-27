@@ -2,17 +2,18 @@
 title: Build a RAG agent with LangChain - Docs by LangChain
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/python/langchain/rag
+source_url: https://python.langchain.com/docs/use_cases/question_answering/
 resource_id: blog:build-a-rag-agent-with-langchain-docs-by-langchain
 local_vault_path: ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - anthropic
+- dataset
 - hackernews
 - meta-ai
 - mistral
@@ -20,7 +21,6 @@ tags:
 - openai
 - rag
 - reddit
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: LangChain implements Retrieval-Augmented Generation (RAG) via a two-phase process: **indexing** (loading, splitting, and storing documents in a vector store) and **retrieval-and-generation** (query-time retrieval of relevant context followed by LLM-based response synthesis).
+- **Indexing Pipeline**: Converts raw text into searchable vector embeddings via four steps: loading documents into `Document` objects, splitting into chunks (e.g., `RecursiveCharacterTextSplitter` with `chunk_size=1000`, `chunk_overlap=200`), embedding chunks using models like `OpenAIEmbeddings` or `HuggingFaceEmbeddings`, and storing in a `VectorStore` for semantic retrieval.
 
-- **Agent/Chain Architectures**: Supports two query execution modes: (1) **RAG agents** (multi-step tool-based orchestration for complex queries) and (2) **RAG chains** (single LLM call per query for eff
+- **RAG Agent vs. RAG Chain**: A RAG agent dynamically retrieves context and generates responses, while a RAG chain si
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/python/langchain/rag
+Original source URL: https://python.langchain.com/docs/use_cases/question_answering/
 
 ## Local Vault File
 

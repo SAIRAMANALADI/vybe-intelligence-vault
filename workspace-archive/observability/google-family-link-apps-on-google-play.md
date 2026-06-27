@@ -2,7 +2,7 @@
 title: Google Family Link - Apps on Google Play
 archive_category: observability
 source_category: ai/resources
-source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dfamilylink%26utm_medium%3Dwebsite%26utm_campaign%3Ddevice_footer
+source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter
 resource_id: blog:google-family-link-apps-on-google-play
 local_vault_path: ai/resources/google-family-link-apps-on-google-play.md
 quality_score: 70
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Parental Control Framework**: Google Family Link enables granular parental controls via supervised Google accounts, including screen time limits, app management (blocking/approvals), and content filtering across Google services (Chrome, Play, YouTube, Search).
+- **Parental Controls Framework**: Google Family Link enables granular screen time management (daily limits, school/downtime schedules), app-level time restrictions, and content filtering across Google services (Chrome, Play, YouTube, Search) via supervised Google accounts.
 
-- **Location & Alert System**: Real-time device location tracking (dependent on connectivity/power) with geofence-based arrival/departure alerts, though user reviews highlight latency/inaccuracy in notifications.
+- **Location & Alerts System**: Provides real-time device location tracking and geofenced notifications (arrival/departure alerts), though user reviews highlight latency/inaccuracy in location updates and alert triggers.
 
-- **Data Handling &
+-
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dfamilylink%26utm_medium%3Dwebsite%26utm_campaign%3Ddevice_footer
+Original source URL: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter
 
 ## Local Vault File
 

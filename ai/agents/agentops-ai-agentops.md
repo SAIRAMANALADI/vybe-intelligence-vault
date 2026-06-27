@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-06-28T01:19:08.285682+05:30'
+collected_at: '2026-06-28T03:50:19.152623+05:30'
 published_at: '2026-06-27T17:26:24Z'
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - models
 - openai
 - python
-- workflows
 stars: 5657
 language: Python
 status: active
@@ -25,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-06-28T01:19:08.285682+05:30'
-last_seen: '2026-06-28T01:19:08.285682+05:30'
-last_checked: '2026-06-28T01:19:08.285682+05:30'
+first_seen: '2026-06-28T03:50:19.152623+05:30'
+last_seen: '2026-06-28T03:50:19.152623+05:30'
+last_checked: '2026-06-28T03:50:19.152623+05:30'
 health_score: 100
 ---
 
@@ -35,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Framework Integration**: Python SDK supporting monitoring, cost tracking, and benchmarking for AI agents across major frameworks (CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, CamelAI) and LLM providers (Anthropic, Groq, Mistral, Ollama, OpenAI).
+- **Multi-framework integration**: Python SDK (`agentops`) enabling monitoring, cost tracking, and benchmarking for AI agents across frameworks including CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI.
 
-- **LLM Cost & Performance Analytics**: Real-time cost estimation, evaluation metrics, and performance benchmarking with built-in support for tracking token usage, model performance, and operational efficiency.
+- **LLM & provider support**: Compatible with major LLMs and providers (OpenAI, Anthropic, Mistral, Groq, Ollama) via unified instrumentation for cost estimation, evaluation metrics, and performance tracking.
 
-- **Extensible & Production-Ready**: Actively maintained (last updated 2026-06-27) with 5.6K+ stars and 600+ forks, offering robust instrumentation for agent workflows, evals, and integration with local/remote LLM deployments.
+- **Key features**: Real-time agent monitoring, LLM cost analytics, benchmarking, and evaluation metrics; last updated June 27, 2026 (v1.0+), with 5.6K+ GitHub stars and 600+ forks.
 
 ## Why It Matters
 

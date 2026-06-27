@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,101</p>
-        <p><b>Active:</b> 8,867 | <b>Inactive:</b> 234</p>
+        <p><b>Resources tracked:</b> 9,144</p>
+        <p><b>Active:</b> 8,910 | <b>Inactive:</b> 234</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,690</p>
+        <p><b>Archive Files:</b> 34,791</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 03:36 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 04:03 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[Wikipedia’s most-read articles of 2025 | by Wikimedia | Down the Rabbit Hole](ai/rag/wikipedias-most-read-articles-of-2025-by-wikimedia.md)** • Rank: <kbd>+7</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • <kbd>+62 pts</kbd>
+- 🔼 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** • <kbd>+37 pts</kbd>
+- 🔼 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** • <kbd>+27 pts</kbd>
+- 🔼 **[Learn AI | web.dev](ai/resources/learn-ai-web-dev.md)** • Rank: <kbd>+494</kbd>
+- 🔼 **[google-gemini/cookbook](ai/resources/google-gemini-cookbook.md)** • Rank: <kbd>+491</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • Score: `91`
+- 🆕 **['Careless People' author claims Meta surveilled her for 12mos to enforce silence](ai/community/careless-people-author-claims-meta-surveilled-her.md)** • Score: `85`
+- 🆕 **[Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](ai/community/kageroumado-adrafinil.md)** • Score: `37`
+- 🆕 **[Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md)** • Score: `0`
+- 🆕 **[A/B (seamless) system updates | Android Open Source Project](ai/rag/a-b-seamless-system-updates-android-open-source-pr.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Task Failed Successfully: Saturating NIC and Disk Bandwidth](ai/community/task-failed-successfully-saturating-nic-and-disk-b.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

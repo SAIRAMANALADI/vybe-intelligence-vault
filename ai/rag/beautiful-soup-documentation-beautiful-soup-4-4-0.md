@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://beautiful-soup-4.readthedocs.io/en/latest/#beautifulsoup
-published_at: '2026-06-26T04:20:38.868272+05:30'
-collected_at: '2026-06-26T04:20:38.868285+05:30'
+published_at: '2026-06-28T03:52:15.953790+05:30'
+collected_at: '2026-06-28T03:52:15.953807+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:beautiful-soup-documentation-beautiful-soup-4-4-0
-first_seen: '2026-06-26T04:20:38.868285+05:30'
-last_seen: '2026-06-26T04:20:38.868285+05:30'
-last_checked: '2026-06-26T04:20:38.868285+05:30'
+first_seen: '2026-06-28T03:52:15.953807+05:30'
+last_seen: '2026-06-28T03:52:15.953807+05:30'
+last_checked: '2026-06-28T03:52:15.953807+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Library Overview**: Beautiful Soup is a Python library for parsing, navigating, searching, and modifying HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic Pythonic methods.
+- **HTML/XML Parsing**: Beautiful Soup is a Python library designed to parse and extract data from HTML/XML documents, supporting multiple parsers (e.g., `html.parser`, `lxml`, `html5lib`) with idiomatic navigation, searching, and tree modification capabilities.
 
-- **Core Functionality**: Provides tree traversal (e.g., `.contents`, `.descendants`, `.parent`), search methods (`find_all()`, `find()`), and DOM manipulation (e.g., `append()`, `replace_with()`, `extract()`) for structured document processing.
+- **Tree Navigation & Search**: Provides methods for traversing the parse tree (e.g., `.contents`, `.descendants`, `.parent`, `.find_all()`) and supports CSS selectors, regex filters, and keyword-based searches for precise element targeting.
 
-- **Output & Encoding**: Supports pretty-printing, direct text extraction (`get_text()`), and handles Unicode/encoding issues via `UnicodeDammit`, with parser-specific differences in malformed document recovery.
+- **Tree Modification & Output**: Enables dynamic tree manipulation (e.g., `append()`, `replace_with()`, `extract()`) and flexible output formatting (e.g., `prettify()`, `get_text()`), with support for encoding handling and performance optimization via `SoupStrainer`.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:20:38.868272+05:30
+- Published: 2026-06-28T03:52:15.953790+05:30
 
 ## Related Tags
 

@@ -9,7 +9,7 @@ local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - models
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte
@@ -33,16 +33,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic vector search + LLM generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucinations.
+- **RAG Overview**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucinations, freshness, and private data limitations.
 
-- **Core RAG Components**: Retrieval (dense/sparse embeddings, BM25, ANN), Augmentation (top-k docs + LLM context), and Generation (LLM constrained by retrieved docs with forced citations for verifiabil
+- **Evolution of RAG**: Progressed from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) to Modular/Graph RAG (entity-relation graphs, multi-hop reasoning, and tool integration).
+
+- **Key Components**: Utilizes vector databases (
 
 ## Use Cases
 

@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [idosal/git-mcp](https://github.com/idosal/git-mcp)
 - [opendevin/opendevin](https://github.com/opendevin/opendevin)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [neuml/txtai](https://github.com/neuml/txtai?source=post_page)
+- [python/typeshed](https://github.com/python/typeshed)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-28 01:32 IST*
+*Last updated: 2026-06-28 04:03 IST*

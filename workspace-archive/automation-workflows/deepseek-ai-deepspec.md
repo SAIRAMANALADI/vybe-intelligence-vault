@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by aurenvale. Score: 676, Comments: 271.
+Hacker News story by aurenvale. Score: 703, Comments: 289.
 Original Link: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf
 
 ## Use Cases

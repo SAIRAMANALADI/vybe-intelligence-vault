@@ -4,18 +4,21 @@ title: Medium Members Can Listen To Any Medium Story With The Speechify Play But
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://speechify.com/medium
-published_at: '2026-06-27T21:59:05.458167+05:30'
-collected_at: '2026-06-27T21:59:05.458178+05:30'
+source_url: https://speechify.com/medium?source=
+resource_id: blog:medium-members-can-listen-to-any-medium-story-with
+--------------------------------------------
+published_at: '2026-06-28T03:53:17.747531+05:30'
+collected_at: '2026-06-28T03:53:17.747544+05:30'
 tags:
 - producthunt
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
-first_seen: '2026-06-27T21:59:05.458178+05:30'
-last_seen: '2026-06-27T21:59:05.458178+05:30'
-last_checked: '2026-06-27T21:59:05.458178+05:30'
+first_seen: '2026-06-28T03:53:17.747544+05:30'
+last_seen: '2026-06-28T03:53:17.747544+05:30'
+last_checked: '2026-06-28T03:53:17.747544+05:30'
 health_score: 100
 ---
 
@@ -23,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify’s TTS engine, enables Medium members to convert any article into audio (default + multiple narrator options), with text-highlighting for dual sensory input, expanding content consumption beyond traditional reading (e.g., commuting, multitasking).
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving accessibility for users with dyslexia or visual impairments.
 
-- **Performance & Utility**: Users report **3x higher consumption rates** and improved retention via simultaneous listening/reading; adjustable playback speed (0.5x–4.5x) and speed-listening (2x–4.5x) enhance productivity, while writers leverage it for real-time proofreading by converting draft links to audio.
+- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x more content consumption and enhanced retention when combining listening with reading.
 
-- **Inclusivity & Customization**: Targets users with dyslexia/visual impairments by removing visual barriers; offers granular control (voice selection, playback speed) via UI buttons, ensuring personalized, barrier-free access to Medium’s content ecosystem.
+- **Proofreading & Workflow**: Writers can leverage the feature to proofread drafts by listening to their work, as spoken sentences often reveal errors or awkward phrasing not apparent in silent reading.
 
 ## Why It Matters
 
@@ -37,14 +40,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:59:05.458167+05:30
+- Published: 2026-06-28T03:53:17.747531+05:30
 
 ## Related Tags
 
 - producthunt
 - rag
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://speechify.com/medium
+Original source: https://speechify.com/medium?source=--------------------------------------------

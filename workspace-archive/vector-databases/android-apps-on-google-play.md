@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Google Play Games Expansion**: Google Play Games now supports cross-platform gaming on Windows, mobile, tablets, TVs, Chromebooks, watches, and XR headsets, with titles like *UnGodly*, *Discounty*, and *Persona5: The Phantom X* available for PC/mobile sync.
+- **Cross-platform gaming**: Google Play Games supports deployment across Windows, Android phones/tablets, Chromebooks, TVs, XR headsets, and watches, enabling seamless multi-device compatibility for titles like *UnGodly* and *Persona5: The Phantom X*.
 
-- **Featured Game Metrics**: Highlighted games include *Clash Royale* (4.5★), *Whiteout Survival* (4.1★), *Wuthering Waves × Cyberpunk* (4.3★), and *Genshin Impact* (3.1★), all offering in-app purchases and Windows compatibility.
+- **Monetization models**: Listed games (e.g., *Clash Royale*, *Arknights*) primarily utilize in-app purchases (IAPs) for revenue, with some offering pre-registration (e.g., *Discounty*) or PC-specific promotions.
 
-- **Co
+- **Content ratings & demograph
 
 ## Use Cases
 

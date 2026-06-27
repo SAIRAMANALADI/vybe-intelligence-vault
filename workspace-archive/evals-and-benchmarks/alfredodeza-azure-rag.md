@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services (e.g., Azure Cognitive Search, OpenAI) in Python.
-- **Key Components**: Leverages Azure’s vector search capabilities for document retrieval and integrates with OpenAI’s language models for augmented generation.
-- **Repository Status**: Last updated in April 2026, with moderate community engagement (53 stars, 226 forks).
+- **Purpose**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating retrieval-based and generative AI models for enhanced responses.
+- **Implementation**: Python-based, leveraging Azure Cognitive Search for retrieval and Azure OpenAI for generation, with modular architecture for scalability.
+- **Updates**: Last modified on **2026-04-23**, indicating active maintenance and potential future enhancements.
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Privacy Policy – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policies.google.com/privacy
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
 resource_id: blog:privacy-policy-privacy-terms-google
 local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata, IP addresses) data to personalize services and ads.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata) data, with retention tied to user settings and regulatory compliance.
 
-- **Location & Sensor Data**: Collects GPS, Wi-Fi/Bluetooth signals, IP addresses, and labeled places (e.g., "home/work") to enable location-based features (e.g., Maps, ads), with retention tied to device/account settings (e.g.
+- **Location & Activity Tracking**: Location data (GPS, IP, Wi-Fi/Bluetooth signals) and activity logs (searches, interactions, communications) are collected to enable personalized services (ads, recommendatio
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policies.google.com/privacy
+Original source URL: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
 
 ## Local Vault File
 

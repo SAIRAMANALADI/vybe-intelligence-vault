@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.chrome.com/docs/ai
-published_at: '2026-06-25T16:44:28.914422+05:30'
-collected_at: '2026-06-25T16:44:28.914431+05:30'
+published_at: '2026-06-28T03:55:19.899556+05:30'
+collected_at: '2026-06-28T03:55:19.899570+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:artificial-intelligence-in-chrome-ai-on-chrome-chr
-first_seen: '2026-06-25T16:44:28.914431+05:30'
-last_seen: '2026-06-25T16:44:28.914431+05:30'
-last_checked: '2026-06-25T16:44:28.914431+05:30'
+first_seen: '2026-06-28T03:55:19.899570+05:30'
+last_seen: '2026-06-28T03:55:19.899570+05:30'
+last_checked: '2026-06-28T03:55:19.899570+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-- **Built-in AI in Chrome**: Leverages **Gemini Nano** for browser-managed AI tasks via APIs, enabling on-device inference (e.g., translation, summarization) with hybrid workloads.
-- **Web AI Acceleration**: Optimizes AI performance using **WebAssembly (Wasm)**, **WebGPU**, and **WebNN** APIs for GPU-accelerated ML operations and efficient compute.
-- **AI Development Tools**: Provides **DevTools AI assistance** for debugging, **WebMCP** for structured tool exposure, and **evals pipelines** to test LLM-based features before deployment.
+- **Built-in AI in Chrome**: Chrome integrates **Gemini Nano** for on-device AI tasks, offering browser-managed foundation/expert models via APIs (e.g., summarization, translation) with managed compute resources.
+- **Web AI Acceleration**: Chrome leverages **WebAssembly (Wasm), WebGPU, and WebNN** APIs to optimize AI inference performance, enabling GPU acceleration and efficient client-side ML operations.
+- **AI Development Tools**: Chrome provides **DevTools AI assistance** (e.g., Gemini integration for debugging), **WebMCP** for standardized AI agent tooling, and **evals pipelines** to test/validate AI features pre-shipping.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:44:28.914422+05:30
+- Published: 2026-06-28T03:55:19.899556+05:30
 
 ## Related Tags
 

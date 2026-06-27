@@ -1,5 +1,5 @@
 ---
-title: AI Is Designing Radio Chips That Humans Couldn't Even Imagine
+title: AI learns the “dark art” of RFIC design
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://spectrum.ieee.org/ai-radio-chip-design
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# AI Is Designing Radio Chips That Humans Couldn't Even Imagine
+# AI learns the “dark art” of RFIC design
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Brajeshwar. Score: 97, Comments: 51.
+Hacker News story by Brajeshwar. Score: 159, Comments: 98.
 Original Link: https://spectrum.ieee.org/ai-radio-chip-design
 
 ## Use Cases

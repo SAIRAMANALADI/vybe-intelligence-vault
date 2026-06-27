@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-28T01:16:28.160571+05:30'
+collected_at: '2026-06-28T03:47:39.051560+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-28T01:16:28.160571+05:30'
-last_seen: '2026-06-28T01:16:28.160571+05:30'
-last_checked: '2026-06-28T01:16:28.160571+05:30'
+first_seen: '2026-06-28T03:47:39.051560+05:30'
+last_seen: '2026-06-28T03:47:39.051560+05:30'
+last_checked: '2026-06-28T03:47:39.051560+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of extension.
-- **Technical Stack**: Leverages Python-based RAG components (e.g., vector stores, embeddings, LLMs) with dependencies like `langchain` or `transformers` for pipeline orchestration.
-- **Tutorial-Driven**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, including data ingestion, retrieval, and generation, optimized for educational and prototyping use cases.
+- **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing modularity and ease of integration across environments.
+
+- **Core Components**: Includes retrieval, indexing, and generation modules with preconfigured pipelines for quick deployment, supporting both local and cloud-based LLM interactions.
+
+- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, covering document ingestion, vector storage (e.g., FAISS/Chroma), and LLM query processing with performance benchmarks.
 
 ## Why It Matters
 

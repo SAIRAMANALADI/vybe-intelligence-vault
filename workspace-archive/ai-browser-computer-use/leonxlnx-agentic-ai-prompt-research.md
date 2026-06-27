@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for autonomous AI-driven coding assistants, emphasizing system-level prompt engineering and multi-agent collaboration frameworks.
-
-- **Security Classification**: Investigates security risks and mitigation strategies in agentic AI systems, including prompt injection, data leakage, and adversarial attacks, with potential classification frameworks for secure deployment.
-
-- **Clau
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms in agentic AI systems for coding tasks.
+- **Security Classification**: Investigates security frameworks and classifications for agentic AI assistants in development environments.
+- **System Prompts & Tools**: Focuses on prompt engineering techniques and system prompt structures for optimizing agentic AI performance in coding workflows.
 
 ## Use Cases
 

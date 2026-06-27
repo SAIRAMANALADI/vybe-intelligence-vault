@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
+- **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
 
-- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skills, and rotation policies, ensuring optimal coverage and reduced burnout.
+- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skills, and rotation rules, ensuring optimal coverage and reduced burnout.
 
-- **Real-time incident trends analysis**: Provides actionable insights via dashboards tracking alert frequency, resolution times, and team performanc
+- **Real-time incident trends analysis**: Provides actionable insights via visual dashboards, tracking response times, incident frequency, and resolution
 
 ## Use Cases
 

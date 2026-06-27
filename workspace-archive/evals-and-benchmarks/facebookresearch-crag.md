@@ -16,7 +16,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across **multiple dimensions** (e.g., factuality, hallucination detection, robustness).
-- **Evaluation Scope**: Includes **diverse datasets** (e.g., long-form QA, multi-hop reasoning, domain-specific tasks) and **metrics** for retrieval quality, answer correctness, and hallucination mitigation.
-- **Implementation**: Provided as **Jupyter Notebooks** with modular com
+- **Purpose**: CRAG is a **Comprehensive benchmark** designed to evaluate **Retrieval-Augmented Generation (RAG)** systems, providing standardized metrics and datasets for performance assessment.
+- **Implementation**: The repository is structured as **Jupyter Notebooks**, facilitating reproducibility and interactive experimentation with RAG pipelines.
+- **Scope**: Focuses on **systematic evaluation** of RAG models, including retrieval quality, generation accuracy, and robustness across diverse d
 
 ## Use Cases
 

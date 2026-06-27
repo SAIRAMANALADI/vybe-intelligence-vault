@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-28T01:17:03.112766+05:30'
+collected_at: '2026-06-28T03:48:18.984740+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-28T01:17:03.112766+05:30'
-last_seen: '2026-06-28T01:17:03.112766+05:30'
-last_checked: '2026-06-28T01:17:03.112766+05:30'
+first_seen: '2026-06-28T03:48:18.984740+05:30'
+last_seen: '2026-06-28T03:48:18.984740+05:30'
+last_checked: '2026-06-28T03:48:18.984740+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) techniques in large language models (LLMs), last updated June 22, 2026.
+- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) techniques with large language models (LLMs), last updated on **2026-06-22**.
 
-- **Repository Metrics**: Contains 92 stars and 10 forks, indicating limited but active community engagement.
+- **Technical Scope**: Provides curated guidelines and implementations for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and integration with LLMs for enhanced generation quality.
 
-- **Purpose**: Serves as a technical resource for implementing and optimizing RAG pipelines, emphasizing practical, production-grade solutions.
+- **Repository Metrics**: 92 stars, 10 forks, and no additional topics tagged; serves as a technical reference for practitioners in LLM-driven RAG systems.
 
 ## Why It Matters
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Simulated software company environment for benchmarking AI agents across diverse tasks (e.g., coding, debugging, project management).
-- **Technical Stack**: Python-based framework with LLM integration for evaluating agent performance in multi-step workflows.
-- **Metrics**: Focuses on task completion, efficiency, and adaptability in simulated real-world software development scenarios.
+- **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks (e.g., coding, debugging, project management) in a controlled, reproducible setting.
+
+- **Technical Stack**: Python-based implementation with modular agent architectures, task generation, and evaluation metrics for assessing LLM performance in real-world software development workflows.
+
+- **Research Utility**: Open-source repository designed for AI research, enabling systematic
 
 ## Use Cases
 

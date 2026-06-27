@@ -12,10 +12,10 @@ resource_kind: template
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - openai
 - python
-- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based command execution for AI-driven development workflows.
 
-- **CLI-Centric Best Practices**: Provides a curated repository of Codex CLI commands, agent templates, and command patterns optimized for OpenAI Codex, enabling reproducible AI agent interactions and efficient task delegation.
+- **Codex CLI Best Practices**: Provides a curated set of commands, skills, and hooks for OpenAI’s Codex CLI, optimizing agentic coding workflows with reusable templates, context management, and error-resilient execution patterns.
 
-- **Context & Hook
+- **P
 
 ## Use Cases
 

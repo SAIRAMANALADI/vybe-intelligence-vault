@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/gemini-in-android
-published_at: '2026-06-26T15:29:12.223942+05:30'
-collected_at: '2026-06-26T15:29:12.223959+05:30'
+published_at: '2026-06-28T03:55:19.268664+05:30'
+collected_at: '2026-06-28T03:55:19.268680+05:30'
 tags:
 - agents
 - producthunt
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-in-android-studio-android-developers
-first_seen: '2026-06-26T15:29:12.223959+05:30'
-last_seen: '2026-06-26T15:29:12.223959+05:30'
-last_checked: '2026-06-26T15:29:12.223959+05:30'
+first_seen: '2026-06-28T03:55:19.268680+05:30'
+last_seen: '2026-06-28T03:55:19.268680+05:30'
+last_checked: '2026-06-28T03:55:19.268680+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Mode**: Enables multi-stage, complex development tasks (e.g., unit test generation, UI alterations, error fixes) via iterative execution plans, allowing review/acceptance of proposed changes.
-- **Multimodal UI Prototyping**: Converts wireframe/mockup images into functional UI code and analyzes screenshots for debugging, accelerating modern UI development.
-- **Enterprise Security & Customization**: Offers IP protection (no model training on user data), admin controls, and customized code suggestions from private repositories (GitHub/GitLab/Bitbucket) in paid tiers.
+- **Agent Mode** enables multi-stage, goal-driven tasks (e.g., unit test generation, UI alterations, error fixes) with iterative plan execution, review, and refinement across project files.
+
+- **Multimodal UI Prototyping** allows direct conversion of wireframe images or screenshots into functional Compose code, accelerating UI development and debugging.
+
+- **Enterprise-grade features** (via Gemini Code Assist) include IP indemnification, VPC-SC compliance, Git-based code customization, and BigQuery/Apigee integration, with pricing tiers at **$19/user/month (Standard)** and **$45/user/month (Enterprise)**.
 
 ## Why It Matters
 
@@ -38,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:29:12.223942+05:30
+- Published: 2026-06-28T03:55:19.268664+05:30
 
 ## Related Tags
 

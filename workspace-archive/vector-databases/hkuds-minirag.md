@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Introduces **MiniRAG**, a simplified RAG framework leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance.
-- Proposes **modular design** with lightweight retrieval, reranking, and generation components optimized for efficiency and scalability.
-- Demonstrates **state-of-the-art results** on benchmark tasks (e.g., question answering, knowledge-intensive tasks) with minimal resource requirements compared to traditional RAG p
+- **MiniRAG Framework**: Proposes a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance.
+- **Efficiency Optimizations**: Introduces lightweight retrieval and generation mechanisms (e.g., distilled embeddings, pruned attention layers) to enable deployment on resource-constrained hardware.
+- **Benchmarking**: Demonstrates state-of-the-art results on standard RAG task
 
 ## Use Cases
 

@@ -4,11 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-28T01:17:13.141948+05:30'
+collected_at: '2026-06-28T03:48:24.007975+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
+- paper
 - rag
 - unknown
 stars: 1340
@@ -18,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-28T01:17:13.141948+05:30'
-last_seen: '2026-06-28T01:17:13.141948+05:30'
-last_checked: '2026-06-28T01:17:13.141948+05:30'
+first_seen: '2026-06-28T03:48:24.007975+05:30'
+last_seen: '2026-06-28T03:48:24.007975+05:30'
+last_checked: '2026-06-28T03:48:24.007975+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval mechanisms, and hybrid architectures.
-- **Scope**: Focuses on cutting-edge RAG methods, **retrieval-information** optimization, and **RAG-embeddings** integration to enhance LLM performance in knowledge-intensive tasks.
-- **Metadata**: 1,340 stars, 84 forks, last updated **2026-06-23**; covers topics like **embeddings**, **LLMs**, and **retrieval-augmented generation**.
+- **Curated RAG resources**: Comprehensive collection of advanced techniques, frameworks, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+
+- **Technical depth**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, fine-tuning strategies, and optimization techniques for improving factual accuracy and contextual relevance in LLM outputs.
+
+- **Community-driven updates**: Actively maintained repository with frequent contributions, ensuring inclusion of the latest advancements and benchmarks in RAG-related LLMs as of June 2026.
 
 ## Why It Matters
 

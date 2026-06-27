@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://support.google.com/googleplay/answer/134336
-published_at: '2026-06-27T09:52:30.099044+05:30'
-collected_at: '2026-06-27T09:52:30.099057+05:30'
+published_at: '2026-06-28T03:52:07.208955+05:30'
+collected_at: '2026-06-28T03:52:07.208968+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:learn-about-google-play-refund-policies-google-pla
-first_seen: '2026-06-27T09:52:30.099057+05:30'
-last_seen: '2026-06-27T09:52:30.099057+05:30'
-last_checked: '2026-06-27T09:52:30.099057+05:30'
+first_seen: '2026-06-28T03:52:07.208968+05:30'
+last_seen: '2026-06-28T03:52:07.208968+05:30'
+last_checked: '2026-06-28T03:52:07.208968+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Refund Eligibility & Conditions**: Refunds for Google Play purchases depend on transaction type, timing, location, and payment method; unauthorized transactions must be reported within 120 days, while accidental purchases by authorized users require direct refund requests. Abuse of policies or unprotected accounts typically voids refund eligibility.
+- **Refund Eligibility & Restrictions**: Refunds for Google Play purchases depend on factors like purchase type, timing, location, and payment method; unauthorized transactions must be reported within 120 days, while accidental family purchases require a direct refund request. Donations to nonprofits are explicitly non-refundable.
 
-- **Developer vs. Google-Managed Refunds**: Third-party developers handle refunds for their apps per their policies and local laws; contacting them directly is often the fastest resolution. Google manages refunds for its own products (e.g., Play Books, Pass) and specific cases (e.g., EEA/UK users post-March 2018).
+- **Developer & Google Involvement**: Third-party developers handle refunds for their apps under their policies and applicable laws; contacting them directly is often the fastest resolution. Google processes refunds for its own products (e.g., Play Books, Pass) and manages refunds for unauthorized or accidental charges.
 
-- **Product-Specific & Regional Policies**: Refund rules vary by product (e.g., non-refundable donations, Play Points adjustments) and region (e.g., partial subscription refunds in Israel/France/Germany). Payment method also impacts refunds (e.g., cash transfers or codes have distinct processes).
+- **Regional & Product-Specific Policies**: EEA/UK users have distinct refund processes post-March 28, 2018; partial subscription refunds are available in Israel, France, or Germany. Refunds vary by product (e.g., subscriptions, gift cards, YouTube) and payment method (e.g., Google Play Points, cash transfers).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:52:30.099044+05:30
+- Published: 2026-06-28T03:52:07.208955+05:30
 
 ## Related Tags
 

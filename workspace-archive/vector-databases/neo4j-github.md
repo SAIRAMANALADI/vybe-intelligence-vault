@@ -6,10 +6,10 @@ source_url: https://github.com/neo4j
 resource_id: blog:neo4j-github
 local_vault_path: ai/rag/neo4j-github.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - rag
 - reddit
@@ -23,18 +23,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Core Project**: [Neo4j](https://github.com/neo4j/neo4j) is an open-source graph database implemented in Java, providing ACID-compliant transactions and native graph storage/querying via Cypher.
+- **Neo4j** is an open-source graph database implementing the property graph model, optimized for connected data with native graph storage and processing (Java-based core).
 
-- **Key Libraries**: Official drivers available for Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), and Python (`neo4j-python-driver`), enabling Bolt protocol integration with respective ecosystems.
+- **Key repositories** include the main `neo4j` database engine, `graph-data-science` (graph algorithms library), and language-specific drivers (`neo4j-java-driver`, `neo4j-python-driver`, etc.) for Bolt protocol integration.
 
-- **Extensions & Tools**: The [Graph Data Science (GDS) library](https://github.c
+- **Additional tools** span connectors (e.g., `neo4j-spark-connector` for Apache Spark, `neo4j-aws-
 
 ## Use Cases
 

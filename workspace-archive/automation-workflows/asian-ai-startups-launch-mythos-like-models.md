@@ -34,7 +34,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by bogdiyan. Score: 23, Comments: 9.
+Hacker News story by bogdiyan. Score: 91, Comments: 81.
 Original Link: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
 
 ## Use Cases
