@@ -6,7 +6,7 @@ source_url: https://github.com/mergisi/awesome-openclaw-agents
 resource_id: github:mergisi/awesome-openclaw-agents
 local_vault_path: ai/agents/mergisi-awesome-openclaw-agents.md
 quality_score: 70
-archive_score: 87
+archive_score: 89
 archive_tier: essential
 resource_kind: template
 importance: high
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories.
-- **Technical Stack**: Primarily HTML-based, with integrations for Docker, MCP, and multi-agent systems; supports LLM-driven automation and no-code configurations.
-- **Community & Contributions**: Open-source project with 3,734 stars and 608 forks; accepts community submissions for additional agent templates.
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 distinct categories, with a submission mechanism for community contributions.
+- **Technical Stack**: Primarily HTML-based, supporting AI automation via LLM integration, multi-agent systems, and MCP (Model Context Protocol) with Docker deployment options.
+- **Metadata**: 3,736 stars, 608 forks, last updated 2026-06-27, covering topics like no-code automation, Anthropic
 
 ## Use Cases
 

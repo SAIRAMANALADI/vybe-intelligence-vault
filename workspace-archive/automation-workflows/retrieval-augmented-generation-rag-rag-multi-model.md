@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by dynamically fetching and integrating external knowledge during generation.
 
-- **Streamlit Implementation**: Provides a modular Python framework with backend processing (e.g., `process_pdf.py`, `question_handler.py`) for document splitting, QA chains, summarization, and translation, alongside a UI for model selection and result display.
+- **Modular Implementation**: Python-based workflow with distinct components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for document processing, Q&A, summarization, and translation, orchestrated via Streamlit for UI.
 
-- **Deploym
+- **Multi-Model Integratio
 
 ## Use Cases
 

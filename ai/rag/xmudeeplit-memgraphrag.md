@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-27T21:52:45.206298+05:30'
+collected_at: '2026-06-28T01:17:53.189633+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-27T21:52:45.206298+05:30'
-last_seen: '2026-06-27T21:52:45.206298+05:30'
-last_checked: '2026-06-27T21:52:45.206298+05:30'
+first_seen: '2026-06-28T01:17:53.189633+05:30'
+last_seen: '2026-06-28T01:17:53.189633+05:30'
+last_checked: '2026-06-28T01:17:53.189633+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **graph retrieval-augmented generation (GraphRAG)** framework leveraging **memory-based agents** for enhanced knowledge graph construction and querying.
+- **Memory-based Multi-Agent System**: Implements a graph RAG framework where multiple agents collaboratively construct and query a knowledge graph using memory-driven mechanisms for enhanced retrieval-augmented generation (RAG).
 
-- **Ontology-Driven Graph Construction**: Implements **ontology-aware graph construction** to dynamically build and refine knowledge graphs, improving contextual retrieval and multi-agent collaboration.
+- **Ontology-Guided Graph Construction**: Dynamically builds and refines an ontology-driven knowledge graph, integrating structured and unstructured data to improve semantic retrieval and contextual reasoning in RAG pipelines.
 
-- **Python-Based Implementation**: Provides an open-source **Python** repository with modular components for **graphRAG**, **multi-agent coordination**, and **ontology integration**, optimized for scalability and adaptability.
+- **Python-Based Implementation**: Provides an open-source Python library for deploying MemGraphRAG, supporting modular agent interactions, graph-based memory storage, and scalable ontology construction for KDD 2026 applications.
 
 ## Why It Matters
 

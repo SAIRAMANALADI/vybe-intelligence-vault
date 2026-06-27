@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, focusing on Large Language Models (LLMs) with metrics for retrieval and generation performance.
+- **Benchmark Design**: CRUD_RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on comprehensive retrieval and generation tasks.
 
-- **Multi-Task Evaluation**: Supports four core RAG tasks (Closed-Book QA, Open-Book QA, Knowledge-intensive Tasks, and Long-form Generation) with 10 sub-tasks, covering diverse Chinese language challenges.
+- **Evaluation Metrics**: The benchmark assesses LLMs across multiple dimensions including **C**omprehension, **R**etrieval, **U**pdate, and **D**ecision-making, providing a structured framework for performance analysis.
 
-- **Open-Source Toolkit**: Includes a Python-based toolk
+- **Open-Source Implementation**: The repository provides a Py
 
 ## Use Cases
 

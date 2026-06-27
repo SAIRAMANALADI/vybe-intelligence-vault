@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/tomasonjo/langchain-neo4j
-collected_at: '2026-06-26T22:42:50.579672+05:30'
+collected_at: '2026-06-28T01:19:28.289613+05:30'
 published_at: '2024-12-09T14:18:02Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 0
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-12-06T08:16:26Z'
 pushed_at: '2026-03-01T19:59:29Z'
 resource_id: github:tomasonjo/langchain-neo4j
-first_seen: '2026-06-26T22:42:50.579672+05:30'
-last_seen: '2026-06-26T22:42:50.579672+05:30'
-last_checked: '2026-06-26T22:42:50.579672+05:30'
+first_seen: '2026-06-28T01:19:28.289613+05:30'
+last_seen: '2026-06-28T01:19:28.289613+05:30'
+last_checked: '2026-06-28T01:19:28.289613+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `tomasonjo/langchain-neo4j` (Python) - A GitHub repository with 0 stars and 1 fork, last updated on **2024-12-09**.
-- **Purpose**: Unspecified, but likely integrates **LangChain** with **Neo4j** for graph-based workflows or RAG (Retrieval-Augmented Generation) applications.
-- **Key Details**: No topics, description, or official documentation provided in the repository metadata.
+- **Repository**: `tomasonjo/langchain-neo4j` is a Python-based project integrating LangChain with Neo4j for graph-based data processing.
+- **Metadata**: 0 stars, 1 fork, last updated on 2024-12-09, with no specified topics.
+- **Purpose**: Implicitly leverages LangChain's framework for Neo4j graph operations, though no explicit description is provided.
 
 ## Why It Matters
 

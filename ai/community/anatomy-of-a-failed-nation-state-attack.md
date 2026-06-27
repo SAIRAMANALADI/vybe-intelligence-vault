@@ -13,13 +13,14 @@ collected_at: '2026-06-27T21:50:19.322755+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:anatomy-of-a-failed-nation-state-attack
 first_seen: '2026-06-27T14:20:29.259163+05:30'
 last_seen: '2026-06-27T21:50:19.322755+05:30'
 last_checked: '2026-06-27T21:50:19.322755+05:30'
 health_score: 100
 ---
+
 
 # Anatomy of a Failed (Nation-State?) Attack
 

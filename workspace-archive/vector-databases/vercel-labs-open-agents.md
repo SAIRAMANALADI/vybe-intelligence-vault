@@ -15,6 +15,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based open-source framework for deploying cloud-based AI agents with modular components for extensibility and scalability.
-- **Agent Orchestration**: Implements background agent patterns with Vercel’s serverless infrastructure, enabling asynchronous task execution and state management.
-- **Integration Focus**: Designed for seamless integration with AI models, APIs, and external services, leveraging Vercel’s edge runtime for low-latency execution.
+- **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-based AI agents with modular components for extensibility and scalability.
+
+- **Agent Orchestration**: Implements background agent patterns with event-driven workflows, enabling asynchronous task execution and state management via Vercel’s serverless infrastructure.
+
+- **Integration Focus**: Designed for seamless integration with AI models, APIs, and databases, leveraging Vercel’s ecosystem for dep
 
 ## Use Cases
 

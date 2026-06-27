@@ -2,21 +2,14 @@
 title: neuml/txtai
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/neuml/txtai
+source_url: https://github.com/neuml/txtai?source=post_page
 resource_id: github:neuml/txtai
 local_vault_path: ai/rag/neuml-txtai.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
-tags:
-- agents
-- github-repo
-- hackernews
-- python
-- rag
-- workflows
+importance: medium
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging modern NLP techniques like embeddings, transformers, and vector databases.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, leveraging embeddings, vector databases, and transformers for end-to-end AI pipelines.
 
-- **Modular Architecture**: Supports agents, RAG (Retrieval-Augmented Generation), and vector search with built-in sentence embeddings, enabling scalable information retrieval and generative AI applications.
+- **Core Capabilities**: Supports RAG (Retrieval-Augmented Generation), sentence embeddings, and vector search, enabling efficient information retrieval and generative AI workflows with minimal overhead.
 
-- **Production-Ready Toolkit**: Combines search engines, vector d
+- **Extensible Architecture**: Designed for modularity with built-in
 
 ## Use Cases
 
@@ -49,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/neuml/txtai
+Original source URL: https://github.com/neuml/txtai?source=post_page
 
 ## Local Vault File
 

@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini 3 Flash API**: Google's latest frontier model optimized for high-speed, scalable inference via the Gemini API, supporting multimodal (text, image, video) inputs with low-latency generation.
-- **Gemma & Edge Deployment**: Open-source Gemma models (derived from Gemini research) enable custom fine-tuning, while Google AI Edge supports on-device ML deployment (e.g., Gemini Nano on Android) for privacy-preserving, low-latency inference.
-- **Responsible AI Toolkit**: Provides Secure AI Fram
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code transformation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., Gemini Nano) across mobile, web, and embedded systems via Google AI Edge, ensuring low-latency, privacy-preserving generative AI.
+- **Responsible AI Toolkit**: Offers frameworks (e.g., Secure AI Framework/SAIF) and guidelines
 
 ## Use Cases
 

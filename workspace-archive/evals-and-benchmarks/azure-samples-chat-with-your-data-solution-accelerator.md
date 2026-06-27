@@ -6,17 +6,16 @@ source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accele
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
 local_vault_path: ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
-- reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI models (e.g., `gpt-4`) for generative responses, enabling ChatGPT-style and Q&A interactions with external data.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for chat/Q&A, with Python-based deployment templates.
 
-- **Azure Infrastructure**: Leverages Azure services including Azure AI Search (vector/keyword search), Azure OpenAI Service, and Azure Deployment Environments (via AZD templates) for scalable, production-ready deployment with best practices for securi
+- **Key Features**: Includes pre-configured **AZD templates**, supports **semantic search**, **vector embeddings**, and integrates **best practices** for production-grade RAG workflows.
+
+- **Deployment**: Optimized for **Azure cloud**, leveraging **OpenAI-compatible APIs**, **authentication**, and **sc
 
 ## Use Cases
 

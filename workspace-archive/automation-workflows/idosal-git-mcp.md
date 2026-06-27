@@ -8,12 +8,13 @@ local_vault_path: ai/agents/idosal-git-mcp.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 - workflows
 selection_reason:
@@ -27,16 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **GitMCP Server**: Open-source TypeScript-based MCP server enabling remote access to any GitHub repository for agentic AI workflows (e.g., Claude, Copilot, Cursor).
-- **Functionality**: Mitigates code hallucinations by providing real-time, accurate GitHub project data via MCP protocol for LLM-driven agents.
-- **Integration**: Supports agentic AI tools (LLMs) with Git operations, last updated June 27, 2026 (8,209 ⭐, 724 🍴).
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub repository data to AI agents and LLMs.
+
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP framework to fetch and interact with GitHub project metadata, branches, commits, and files.
+
+- **Features**: Supports agentic AI workflows by exposing Gi
 
 ## Use Cases
 

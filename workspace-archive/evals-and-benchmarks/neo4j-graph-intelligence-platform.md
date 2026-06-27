@@ -6,17 +6,15 @@ source_url: http://neo4j.org/resources/cypher
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -27,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Explores integration of Neo4j Aura Agents with GraphRAG for enhanced retrieval-augmented generation (RAG) using graph-based knowledge structures.
-- **Agentic Workflows**: Details multi-agent orchestration in Neo4j Aura for dynamic query routing, subgraph traversal, and adaptive reasoning in knowledge graphs.
-- **Performance Optimization**: Discusses scalability, latency reduction, and cost-efficiency benchmarks for production-grade agentic graph systems.
+- **GraphRAG Architecture**: Utilizes Neo4j Aura Agents for scalable, agentic Retrieval-Augmented Generation (RAG) systems, leveraging graph-based knowledge representation for enhanced contextual reasoning.
+
+- **Neo4j Aura Integration**: Demonstrates real-time, low-latency query processing via Neo4j’s cloud-native graph database, enabling dynamic agent interactions with structured knowledge graphs.
+
+- **Performance Optimization**: Focuses on distributed agent orchestration, parallelized graph tr
 
 ## Use Cases
 

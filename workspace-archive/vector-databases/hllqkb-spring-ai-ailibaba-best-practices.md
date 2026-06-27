@@ -6,14 +6,13 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 85
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 85 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Components**: Implements AI Q&A systems using **SSE streaming**, **Agent-based architectures**, **knowledge graphs**, **RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **embedding/vector database** integration in Java.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with embedding-based vector search (e.g., Milvus/Weaviate) and integrates SSE streaming for real-time AI responses, supporting both text and image modalities (generation/understanding via FunctionCall).
 
-- **Technical Stack**: Leverages **Spring AI**, **Alibaba Cloud AI services**, and **vector databases** for retrieval-augmented generation (RAG) workflows, with support for **embedding models** and **multimodal processing** (text
+- **Agentic Workflows & State Management**: Demonstrates Spring AI integration with Aliyun’s tooling for structured agent interactions, historical message persistence (e.g., Redis), and FunctionCall for dynamic tool
 
 ## Use Cases
 

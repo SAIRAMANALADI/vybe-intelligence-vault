@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-27T21:52:15.200985+05:30'
+collected_at: '2026-06-28T01:17:23.197082+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-27T21:52:15.200985+05:30'
-last_seen: '2026-06-27T21:52:15.200985+05:30'
-last_checked: '2026-06-27T21:52:15.200985+05:30'
+first_seen: '2026-06-28T01:17:23.197082+05:30'
+last_seen: '2026-06-28T01:17:23.197082+05:30'
+last_checked: '2026-06-28T01:17:23.197082+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework with focus on conversational multi-turn interactions, enabling assessment of long-context reasoning and iterative retrieval strategies.
-
-- **Technical Implementation**: Python-based benchmark with modular components for dynamic query reformulation, retrieval augmentation, and response generation, supporting customizable datasets and evaluation metrics.
-
-- **Evaluation Metrics**: Includes metrics for factual consistency, response relevance, and retrieval efficiency, with support for both automated and human-in-the-loop assessment methodologies.
+- **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) evaluation framework with sequential query handling to assess long-context reasoning and iterative retrieval performance.
+- **Technical Scope**: Python-based implementation focusing on multi-turn dialogue interactions, retrieval latency, and answer coherence metrics for RAG systems.
+- **Evaluation Metrics**: Includes turn-level accuracy, context relevance scoring, and end-to-end response quality assessment for iterative RAG pipelines.
 
 ## Why It Matters
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Comprehensive repository listing cutting-edge Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools in generative AI.
-- **Active Maintenance**: Last updated June 2026, ensuring relevance with ongoing updates to RAG methodologies and applications.
-- **Community-Driven**: 1,271 stars and 156 forks indicate strong community engagement and collaborative development in RAG advancements.
+- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering LLMs, retrieval mechanisms, and hybrid architectures.
+- **Active Maintenance**: Last updated June 27, 2026, ensuring relevance with ongoing contributions and updates to the RAG ecosystem.
+- **Community-Driven**: Open-source repository with 1,273 stars and 156 forks, indicating strong community engagement and collaborative development in RAG
 
 ## Use Cases
 

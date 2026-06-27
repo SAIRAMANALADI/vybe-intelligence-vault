@@ -4,11 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-27T21:52:05.140456+05:30'
+collected_at: '2026-06-28T01:17:18.130090+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
-- benchmark
-- dataset
 - github-repo
 - hackernews
 - rag
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-27T21:52:05.140456+05:30'
-last_seen: '2026-06-27T21:52:05.140456+05:30'
-last_checked: '2026-06-27T21:52:05.140456+05:30'
+first_seen: '2026-06-28T01:17:18.130090+05:30'
+last_seen: '2026-06-28T01:17:18.130090+05:30'
+last_checked: '2026-06-28T01:17:18.130090+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A structured collection of advanced retrieval-augmented generation (RAG) techniques specifically tailored for computer vision applications, including multimodal models, vision-language integration, and retrieval-enhanced visual tasks.
+- **Curated RAG-Vision Resources**: A structured collection of advanced **Retrieval-Augmented Generation (RAG)** techniques and frameworks tailored for **Computer Vision (CV)**, including multimodal and vision-language model integrations.
 
-- **Multimodal RAG Frameworks**: Highlights cutting-edge frameworks and methodologies that combine visual retrieval (e.g., image/text embeddings) with generative models to enhance tasks like image captioning, visual question answering (VQA), and scene understanding.
+- **Active Development & Maintenance**: Last updated in **June 2026**, indicating ongoing updates and community engagement despite low fork/star activity (9/336).
 
-- **Benchmarking & Tools**: Includes datasets, evaluation metrics, and open-source tools for assessing RAG-based vision models, with a focus on reproducibility and performance optimization in real-world scenarios.
+- **Multidisciplinary Focus**: Bridges **vision-language models (VLMs)**, **image-text retrieval**, and **cross-modal RAG** applications, emphasizing cutting-edge CV-RAG hybrid architectures.
 
 ## Why It Matters
 

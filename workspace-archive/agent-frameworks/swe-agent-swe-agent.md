@@ -30,7 +30,11 @@ selection_reason:
 
 ## Summary
 
-SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and attempts to resolve them using a specified language model (LM), reducing manual debugging effort.
+
+- **Multi-Domain Utility**: Supports offensive cybersecurity tasks and competitive coding challenges, extending beyond standard software engineering applications.
+
+- **Architecture & Ecosystem**: Implemented in Python, integrates with agent-based models and LLMs, and is optimized for developer tooling with active m
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://ai.google.dev/
-published_at: '2026-06-27T09:55:11.843767+05:30'
-collected_at: '2026-06-27T09:55:11.843778+05:30'
+published_at: '2026-06-28T01:24:22.808292+05:30'
+collected_at: '2026-06-28T01:24:22.808302+05:30'
 tags:
 - agents
 - benchmark
@@ -14,15 +14,14 @@ tags:
 - models
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:gemini-developer-api-gemma-open-models-google-ai-f
-first_seen: '2026-06-27T09:55:11.843778+05:30'
-last_seen: '2026-06-27T09:55:11.843778+05:30'
-last_checked: '2026-06-27T09:55:11.843778+05:30'
+first_seen: '2026-06-28T01:24:22.808302+05:30'
+last_seen: '2026-06-28T01:24:22.808302+05:30'
+last_checked: '2026-06-28T01:24:22.808302+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools like Google AI Studio for prompt development and model evaluation.
-- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., **Gemini Nano**) across platforms (Android, Chrome, embedded systems) for low-latency, privacy-preserving generative AI.
-- **Responsible AI & Code Assistance**: Offers frameworks (e.g., **Secure AI Framework (SAIF)**) and IDE integrations (VS Code, Android Studio) for secure, responsible AI development with code generation, analysis, and agent-based task automation.
+- **Gemini API Integration**: Provides access to advanced AI models (Gemini, Imagen, Veo) via API for app integration, with tools for prompt development and code transformation in Google AI Studio.
+- **On-Device & Edge AI**: Supports deployment of lightweight models (e.g., Gemini Nano) across mobile, web, and embedded systems via Google AI Edge, ensuring low-latency, privacy-preserving generative AI.
+- **Responsible AI Toolkit**: Offers frameworks (e.g., Secure AI Framework/SAIF) and guidelines for secure, ethical AI development, including model evaluation and system hardening.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:55:11.843767+05:30
+- Published: 2026-06-28T01:24:22.808292+05:30
 
 ## Related Tags
 
@@ -53,7 +52,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube

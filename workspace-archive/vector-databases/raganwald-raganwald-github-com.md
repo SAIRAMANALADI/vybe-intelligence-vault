@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- Static site generator using Jekyll with HTML-based source structure
-- Hosted on GitHub Pages with 30 stars and 60 forks
-- Last updated June 20, 2026 (future-dated in metadata)
+- **Static Site Generator**: Jekyll-based repository generating a static HTML website (`raganwald.github.com`).
+- **GitHub Pages Hosting**: Deployed via GitHub Pages with last update timestamped `2026-06-20T15:41:20Z`.
+- **Minimal Metadata**: No additional topics, 30 stars, 60 forks, and pure HTML output.
 
 ## Use Cases
 

@@ -1,56 +1,76 @@
 ---
-title: haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack
-  · GitHub
+title: deepset-ai/haystack
 category: ai/rag
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
-published_at: '2026-06-27T22:00:12.855605+05:30'
-collected_at: '2026-06-27T22:00:12.855618+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/deepset-ai/haystack?source=post_page
+resource_id: github:deepset-ai/haystack
+-----dba899ae0355---------------------------------------
+collected_at: '2026-06-28T01:19:28.366183+05:30'
+published_at: '2026-06-27T19:15:15Z'
 tags:
 - agents
-- anthropic
-- hackernews
+- github-repo
+- mdx
+- models
 - openai
 - rag
-- reddit
-- web-crawled
+- workflows
+stars: 25754
+language: MDX
 status: active
+license: Apache-2.0
+archived: false
+created_at: '2019-11-14T09:05:28Z'
+pushed_at: '2026-06-26T17:04:31Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-06-27T22:00:12.855618+05:30'
-last_seen: '2026-06-27T22:00:12.855618+05:30'
-last_checked: '2026-06-27T22:00:12.855618+05:30'
+first_seen: '2026-06-28T01:19:28.366183+05:30'
+last_seen: '2026-06-28T01:19:28.366183+05:30'
+last_checked: '2026-06-28T01:19:28.366183+05:30'
 health_score: 100
 ---
 
-# haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack · GitHub
+# deepset-ai/haystack
 
 ## Summary
 
-- **Open-source AI orchestration framework** for building production-grade LLM applications (AI Agents, RAG systems, multimodal search) with modular components and pipelines.
-- **Modular architecture** leveraging integrations with LLMs (OpenAI, Google, Anthropic) and open-source models (Hugging Face Transformers), supported by Document Stores, Agents, and Tools.
-- **Scalable and customizable** with enterprise-grade extensions (Haystack Enterprise Starter/Platform) for deployment, governance, and large-scale data management.
+- **Modular AI Orchestration**: Open-source framework enabling explicit control over retrieval, routing, memory, and generation for building production-ready LLM applications with modular pipelines and agent workflows.
+
+- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and transformers.
+
+- **Context-Engineered LLM Apps**: Facilitates context-augmented LLM applications with explicit control over retrieval and generation, supporting integrations with GPT-4, Gemini, and other generative AI models.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/rag
-- Published: 2026-06-27T22:00:12.855605+05:30
+- Owner: deepset-ai
+- Stars: 25754
+- Forks: 2884
+- Language: MDX
+- Topics: agent, agents, ai, gemini, generative-ai, gpt-4, information-retrieval, large-language-models, llm, machine-learning, nlp, orchestration, python, pytorch, question-answering, rag, retrieval-augmented-generation, semantic-search, summarization, transformers
+- Last Updated: 2026-06-27T19:15:15Z
+- License: Apache-2.0
+- Archived: No
+- Created At: 2019-11-14T09:05:28Z
+- Pushed At: 2026-06-26T17:04:31Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- anthropic
-- hackernews
-- openai
-- rag
-- reddit
-- web-crawled
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
+Original source: https://github.com/deepset-ai/haystack?source=post_page-----dba899ae0355---------------------------------------

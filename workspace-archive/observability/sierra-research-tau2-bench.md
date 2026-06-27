@@ -8,7 +8,7 @@ local_vault_path: ai/agents/sierra-research-tau2-bench.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - python
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # sierra-research/tau2-bench
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with tool integration.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with a structured Python implementation.
 
-- **Technical Scope**: Implemented in Python, the benchmark assesses multi-turn interactions, tool-use efficiency, and adaptability in dynamic environments.
+- **Evaluation Scope**: Tests multi-turn interactions, tool integration, and user-agent coordination across complex, domain-specific tasks to assess practical performance.
 
-- **Evaluation Metrics**: Measures performance via task completion rates, latency, and user-agent collaboration quality in complex, domain-specific scenarios.
+- **Technical Metrics**: Measures success rates, latency, and adaptability in dynamic environments, providing a standardized framework
 
 ## Use Cases
 

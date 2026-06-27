@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-native RAG & AI pipelines**: Pre-configured templates for Retrieval-Augmented Generation (RAG), AI workflows, and enterprise search with live data synchronization via Docker containers.
-
-- **Multi-source data integration**: Supports real-time sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, and REST APIs for dynamic data ingestion.
-
-- **Tech stack**: Built with Jupyter Notebooks, integrates Hugging Face models, OpenAI APIs, vector databases, and LLMops tools for secure, scala
+- **Cloud-native RAG & AI pipeline templates**: Pre-configured, Docker-optimized deployments for Retrieval-Augmented Generation (RAG), AI pipelines, and enterprise search with live data synchronization.
+- **Multi-source real-time data integration**: Supports live sync with SharePoint, Google Drive, S3, Kafka, PostgreSQL, REST APIs, and other data sources via vector databases and indexing.
+- **Enterprise-grade LLM toolkit**: Includes Hugging Face, OpenAI compatibility, LLM prompting/security, vec
 
 ## Use Cases
 

@@ -8,25 +8,25 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (prompt - ESSENTIAL Tier)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (framework - ESSENTIAL Tier)
 - [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
+- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-27 22:06 IST*
+*Last updated: 2026-06-28 01:31 IST*

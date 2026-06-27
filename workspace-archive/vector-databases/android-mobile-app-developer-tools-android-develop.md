@@ -6,10 +6,10 @@ source_url: https://developer.android.com
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - agents
 - producthunt
@@ -26,16 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Android 17** is officially released with source code available on AOSP and rolling out to supported Pixel devices; developers must prepare apps for **API 37** with top 5 updates highlighted in the Android Developers blog.
-- **Android XR** platform expands engine support and introduces new tools/resources for building, testing, and scaling XR experiences across the ecosystem.
-- **Google Play** introduces expanded billing flexibility, lower fees, and new programs to support developer monetizat
+- **Android 17 Release**: Source code live on AOSP; rolling out to Pixel devices; top 5 updates require app optimization for API 37.
+- **Android XR Expansion**: New tools and engine support for cross-ecosystem XR development, including testing and scaling resources.
+- **Play Billing Changes**: Google Play introduces lower fees, expanded billing flexibility, and new programs to support developer monetization.
 
 ## Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on AI agent development, covering multi-agent systems, memory management, planning, and reasoning loops, with 2,742 stars and 603 forks.
-- **Technical Scope**: Primarily consists of Jupyter Notebooks, addressing topics such as agentic AI, agent skills, RAG (Retrieval-Augmented Generation), workflows, and frameworks for agentic engineering.
-- **Last Update**: Repository last updated on **June 27, 2026**, indicating active maintenance and recent
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex task execution.
+- **Agentic AI development**: Contains Jupyter Notebook-based tutorials covering agentic frameworks, RAG (Retrieval-Augmented Generation), workflows, and coding implementations.
+- **Technical depth**: Covers advanced topics like memory management, agentic engineering, and hybrid AI-agent architectures, updated as of June 2026.
 
 ## Use Cases
 

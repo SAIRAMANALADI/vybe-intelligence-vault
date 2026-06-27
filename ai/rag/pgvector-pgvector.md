@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pgvector/pgvector
-collected_at: '2026-06-27T21:53:50.273813+05:30'
+collected_at: '2026-06-28T01:19:33.250994+05:30'
 published_at: '2026-06-27T11:56:23Z'
 tags:
 - c
@@ -20,9 +20,9 @@ archived: false
 created_at: '2021-04-20T21:13:52Z'
 pushed_at: '2026-06-24T18:44:14Z'
 resource_id: github:pgvector/pgvector
-first_seen: '2026-06-27T21:53:50.273813+05:30'
-last_seen: '2026-06-27T21:53:50.273813+05:30'
-last_checked: '2026-06-27T21:53:50.273813+05:30'
+first_seen: '2026-06-28T01:19:33.250994+05:30'
+last_seen: '2026-06-28T01:19:33.250994+05:30'
+last_checked: '2026-06-28T01:19:33.250994+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) queries for high-dimensional vectors.
-- **Implementation**: Written in C, integrates as a PostgreSQL extension, supporting L2 distance, inner product, and cosine distance metrics with optimized indexing (e.g., HNSW, IVFFlat).
-- **Features**: Supports exact and approximate search modes, vector storage up to 2^31 dimensions, and compatibility with PostgreSQL’s existing indexing and query execution frameworks.
+- **PostgreSQL Extension**: Implements vector similarity search (ANN/L2/cosine distance) directly in Postgres via a C-based extension, enabling efficient nearest-neighbor queries on vector embeddings.
+- **Indexing Support**: Provides specialized index types (e.g., HNSW, IVFFlat) for scalable approximate nearest neighbor (ANN) search with configurable parameters (e.g., `lists`, `probes`).
+- **Integration**: Seamlessly extends Postgres SQL syntax to support vector operations (`<->`, `<=>`, `<#>`) and integrates with existing Postgres features (e.g., transactions, replication).
 
 ## Why It Matters
 

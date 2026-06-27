@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions**: Native CI/CD with 10,000+ pre-built workflows in Marketplace; supports self-hosted and GitHub-hosted runners (Linux/Windows/macOS/ARM) with YAML-based configuration and visual pipeline graphing.
+- **GitHub Actions**: Provides pre-built CI/CD workflows with thousands of automations in the GitHub Marketplace, enabling rapid build, test, and deployment with minimal pipeline management overhead.
 
-- **Security Integration**: GitHub Advanced Security provides real-time vulnerability scanning (CodeQL), secret detection, and AI-powered remediation; supports SARIF format for third-party tool integration and RBAC for access control.
+- **Native Security Integration**: GitHub Advanced Security offers real-time vulnerability detection, secrets blocking, and AI-powered fixes directly within pull requests, eliminating the need for separate security tooling.
 
-- **AI & Developer Experience**: GitHub Copilo
+- **Agent-Native Development**: GitHub Copilot integrates AI agents across
 
 ## Use Cases
 

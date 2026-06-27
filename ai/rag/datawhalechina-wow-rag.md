@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-27T21:51:20.160238+05:30'
+collected_at: '2026-06-28T01:16:28.160571+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-27T21:51:20.160238+05:30'
-last_seen: '2026-06-27T21:51:20.160238+05:30'
-last_checked: '2026-06-27T21:51:20.160238+05:30'
+first_seen: '2026-06-28T01:16:28.160571+05:30'
+last_seen: '2026-06-28T01:16:28.160571+05:30'
+last_checked: '2026-06-28T01:16:28.160571+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, embedding, retrieval, and generation, demonstrated via Jupyter Notebooks.
-
-- **Technical Stack**: Utilizes Python-based libraries (e.g., LangChain, FAISS, or HuggingFace) for vector storage, embeddings, and LLM integration, ensuring reproducibility and ease of deployment.
-
-- **Tutorial Focus**: Provides step-by-step guides on constructing RAG pipelines, including preprocessing, indexing, querying, and evaluation, with examples for trans-platform compatibility (Windows/Linux/macOS).
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of extension.
+- **Technical Stack**: Leverages Python-based RAG components (e.g., vector stores, embeddings, LLMs) with dependencies like `langchain` or `transformers` for pipeline orchestration.
+- **Tutorial-Driven**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, including data ingestion, retrieval, and generation, optimized for educational and prototyping use cases.
 
 ## Why It Matters
 

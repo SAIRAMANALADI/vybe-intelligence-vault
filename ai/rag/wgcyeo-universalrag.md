@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-27T21:52:45.151451+05:30'
+collected_at: '2026-06-28T01:17:58.152544+05:30'
 published_at: '2026-06-24T07:15:52Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 171
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-27T21:52:45.151451+05:30'
-last_seen: '2026-06-27T21:52:45.151451+05:30'
-last_checked: '2026-06-27T21:52:45.151451+05:30'
+first_seen: '2026-06-28T01:17:58.152544+05:30'
+last_seen: '2026-06-28T01:17:58.152544+05:30'
+last_checked: '2026-06-28T01:17:58.152544+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle corpora across diverse modalities (text, images, tables) and granularities (document-level, chunk-level, entity-level) with a single architecture.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system capable of processing diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities) via a single pipeline.
 
-- **Key Innovation**: Implements modality-agnostic retrieval and fusion mechanisms, leveraging cross-modal embeddings and adaptive fusion strategies to dynamically integrate heterogeneous data sources during generation.
+- **Modality-Agnostic Retrieval & Generation**: Implements a cross-modal retrieval mechanism with modality-specific encoders and a unified decoder, enabling seamless integration of heterogeneous corpora without modality-specific fine-tuning.
 
-- **Performance & Scalability**: Evaluated on multimodal benchmarks, demonstrating superior adaptability and efficiency compared to modality-specific RAG baselines, with minimal architectural overhead for multi-granularity support.
+- **ACL 2026 Oral Contribution**: Proposes novel architectural components (e.g., granularity-aware indexing, modality fusion layers) and achieves state-of-the-art performance on benchmarks spanning text, vision, and structured data.
 
 ## Why It Matters
 

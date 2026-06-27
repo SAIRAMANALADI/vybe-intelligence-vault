@@ -2,7 +2,7 @@
 title: Wikimedia Projects – Wikimedia Foundation
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://wikimediafoundation.org/our-work/wikimedia-projects
+source_url: https://wikimediafoundation.org/our-work/wikimedia-projects/
 resource_id: blog:wikimedia-projects-wikimedia-foundation
 local_vault_path: ai/rag/wikimedia-projects-wikimedia-foundation.md
 quality_score: 70
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Wikimedia Projects**: Encompasses over 300 language editions of Wikipedia, Wikibooks (open-content textbooks), Wiktionary (multilingual dictionary), and Wikiquote (quotation repository), all collaboratively maintained by global volunteers.
-
-- **Technical Infrastructure**: Relies on Wikidata (structured data repository), Wikifunctions (collaborative code library), and MediaWiki (open-source wiki software) to enable cross-project data integration and functionality.
-
-- **Multimedia & Specialize
+- **Wikimedia Projects**: Encompasses over 300 language editions of Wikipedia, Wikibooks (open e-textbooks), Wiktionary (multilingual dictionary), and Wikiquote (quotations database), all collaboratively edited by global volunteers.
+- **Core Infrastructure**: Relies on **Wikidata** (structured data repository), **Wikifunctions** (collaborative code functions), and **MediaWiki** (open-source wiki platform) to enable cross-project data integration and functionality.
+- **Multimedia & Specialized Re
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://wikimediafoundation.org/our-work/wikimedia-projects
+Original source URL: https://wikimediafoundation.org/our-work/wikimedia-projects/
 
 ## Local Vault File
 

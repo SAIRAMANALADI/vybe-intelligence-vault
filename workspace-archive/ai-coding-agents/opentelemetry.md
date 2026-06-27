@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools to capture distributed traces, metrics, and logs from cloud-native applications, consolidating observability signals (traces, metrics, logs, baggage) with shared context propagation across service boundaries.
+- **Unified Observability Framework**: OpenTelemetry provides a single set of APIs, SDKs, and tools for vendor-neutral instrumentation, enabling collection of distributed traces, metrics, and logs from cloud-native applications with shared context propagation.
 
-- **Vendor-Neutral & Multi-Language Support**: Instrument applications once using OpenTelemetry APIs/SDKs (12+ languages) and export telemetry to any backend (Jaeger, Prometheus, commercial
+- **Multi-Language & Scalable Architecture**: Supports 12+ languages with native SDKs, auto-instrumentation for zero-code setup, and a Collector pipeline with 200+ components for processing, filtering, and exporting telemetry at scale.
+
+-
 
 ## Use Cases
 

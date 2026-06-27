@@ -1,0 +1,53 @@
+---
+title: SWE-agent/SWE-agent
+archive_category: ai-tools-products
+source_category: ai/agents
+source_url: https://github.com/SWE-agent/SWE-agent
+resource_id: github:swe-agent/swe-agent
+local_vault_path: ai/agents/swe-agent-swe-agent.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: tool
+importance: medium
+tags:
+- agents
+- github-repo
+- python
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# SWE-agent/SWE-agent
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and attempts to resolve them using a specified language model (LM), reducing manual debugging effort.
+
+- **Multi-Domain Utility**: Supports offensive cybersecurity tasks and competitive coding challenges, extending beyond standard software engineering applications.
+
+- **Architecture & Ecosystem**: Implemented in Python, integrates with agent-based models and LLMs, and is optimized for developer tooling with active m
+
+## Use Cases
+
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
+
+## Source
+
+Original source URL: https://github.com/SWE-agent/SWE-agent
+
+## Local Vault File
+
+Path: [swe-agent-swe-agent.md](../../ai/agents/swe-agent-swe-agent.md)

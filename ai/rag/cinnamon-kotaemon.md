@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-27T21:51:30.163980+05:30'
+collected_at: '2026-06-28T01:16:43.127772+05:30'
 published_at: '2026-06-26T16:19:53Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-27T21:51:30.163980+05:30'
-last_seen: '2026-06-27T21:51:30.163980+05:30'
-last_checked: '2026-06-27T21:51:30.163980+05:30'
+first_seen: '2026-06-28T01:16:43.127772+05:30'
+last_seen: '2026-06-28T01:16:43.127772+05:30'
+last_checked: '2026-06-28T01:16:43.127772+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-Based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual query responses.
-- **Modular Python Framework**: Built with extensible components for document ingestion, retrieval, and LLM integration, supporting custom pipelines and backends.
-- **Open-Source & Scalable**: Released under an open-source license, optimized for local/private deployment with support for large-scale document processing.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses.
+
+- **Python Implementation**: Built primarily in Python, utilizing modern NLP libraries (e.g., LangChain, HuggingFace) for document processing and retrieval.
+
+- **Open-Source Deployment**: Fully open-source under permissive licensing, optimized for local/self-hosted document chat applications with modular design for extensibility.
 
 ## Why It Matters
 

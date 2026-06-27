@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-27T21:52:20.151561+05:30'
+collected_at: '2026-06-28T01:17:28.136306+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-27T21:52:20.151561+05:30'
-last_seen: '2026-06-27T21:52:20.151561+05:30'
-last_checked: '2026-06-27T21:52:20.151561+05:30'
+first_seen: '2026-06-28T01:17:28.136306+05:30'
+last_seen: '2026-06-28T01:17:28.136306+05:30'
+last_checked: '2026-06-28T01:17:28.136306+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* against Retrieval-Augmented Generation (RAG) systems, where adversaries manipulate retrieved documents to mislead LLMs into generating incorrect or harmful outputs.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework enabling adversaries to corrupt the knowledge base of Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, leading to incorrect or harmful outputs.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by injecting *poisoned documents* into the retrieval corpus, leveraging *trigger-based* or *semantic similarity* attacks to alter model behavior without direct access to the LLM.
+- **Technical Mechanism**: Demonstrates how poisoned documents can manipulate the retrieval process by embedding triggers or adversarial content, causing the RAG system to prioritize or retrieve manipulated information during inference.
 
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG architectures (e.g., Dense Passage Retrieval, BM25) across benchmarks, showing significant degradation in response accuracy (up to **X%** reduction) and proposing mitigation strategies like *retrieval sanitization* and *adversarial filtering*.
+- **Evaluation & Impact**: Validates the attack on real-world RAG systems, showing significant degradation in response quality, factual accuracy, and potential exploitation for misinformation dissemination, with mitigation strategies discussed.
 
 ## Why It Matters
 

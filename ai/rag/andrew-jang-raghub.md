@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-06-27T21:51:05.107969+05:30'
+collected_at: '2026-06-28T01:16:13.102649+05:30'
 published_at: '2026-06-27T15:00:58Z'
 tags:
 - github-repo
 - hackernews
-- models
 - rag
 - unknown
-- workflows
 stars: 1930
 language: Unknown
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-10-02T12:07:52Z'
 pushed_at: '2026-06-20T16:17:32Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-06-27T21:51:05.107969+05:30'
-last_seen: '2026-06-27T21:51:05.107969+05:30'
-last_checked: '2026-06-27T21:51:05.107969+05:30'
+first_seen: '2026-06-28T01:16:13.102649+05:30'
+last_seen: '2026-06-28T01:16:13.102649+05:30'
+last_checked: '2026-06-28T01:16:13.102649+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
-- **Metadata**: 1,930 stars, 181 forks, last updated 2026-06-27; supports AI/ML/NLP domains with topics including LLMs, open-source tools, and RAG-specific implementations.
-- **Technical Scope**: Encompasses large language models (LLMs), natural language processing (NLP), and machine learning (ML) pipelines, with a focus on retrieval-augmented generation workflows and architectures.
+- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), spanning LLMs, NLP, and ML applications.
+- **Community-Driven Development**: Hosts 1,930+ stars and 181 forks, enabling collaborative contributions to the evolving RAG landscape (last updated 2026-06-27).
+- **Multi-Topic Index**: Covers AI, LLM optimization, NLP techniques, and open-source tools under the `rag` topic, facilitating cross-disciplinary research integration.
 
 ## Why It Matters
 

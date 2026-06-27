@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured (knowledge graphs) and unstructured (text, images) data integration with hybrid retrieval pipelines for context-aware RAG workflows.
+- **Multi-modal indexing**: Supports structured/unstructured data (text, images, etc.) via graph-based retrieval for enhanced context engineering.
 
-- **Agentic & MCP integration**: Embeds AI agents for autonomous reasoning and supports Model Context Protocol (MCP) for dynamic tool orchestration and external system interactions.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and knowledge graph interactions.
 
-- **Scalable K8s deployment**: Containerized architecture with Helm charts for Kubernetes, enabling horizontal scaling, fault tolerance
+- **Scalable K8s deployment**: Optimized for Kubernetes with horizontal scaling, ensuring high availability and performance for production-grade GraphRAG applications.
 
 ## Use Cases
 

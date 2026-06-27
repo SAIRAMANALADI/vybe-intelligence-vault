@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLMs by retrieving relevant external data (structured/unstructured) via vector search, augmenting prompts with retrieved context, and generating grounded responses—mitigating hallucinations and improving factual accuracy.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured knowledge graphs with unstructured data.
 
-- **GraphRAG Hybrid Approach**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) in a knowledge graph, enabling relational reasoning, explainability, and fine-
+- **Core RAG Process**: Three-stage workflow—(1) **Retrieval**: Embeds user queries and retrieves relevant data via vector similarity or structured queries, (2) **Augmentation**: Combines retrieved context wit
 
 ## Use Cases
 

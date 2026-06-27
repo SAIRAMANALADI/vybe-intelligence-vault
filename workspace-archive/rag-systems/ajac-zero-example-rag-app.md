@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with full type-checking, 100% test coverage, and Dockerized deployment for cross-platform compatibility.
+- **Observability & LLM Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM integration.
 
-- **Observability & Providers**: Integrates Langfuse for LLM observability and supports 100+ LLM providers via LiteLLM for flexible model selection.
+- **Development Rigor**: Fully Dockerized deployment, TypeScript-based with complete type-checking, and 100% test coverage for reliability and maintainability.
 
-- **CI/CD & Maintenance**: Actively maintained (last updated March 2026) with robust testing and observability features for production-grade RAG deployments.
+- **Scalability & Extensibility**: Designed for modularity with multi-provider LLM support, enabling easy integration of additional models or services.
 
 ## Use Cases
 

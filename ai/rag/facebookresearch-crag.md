@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-27T21:52:10.242205+05:30'
+collected_at: '2026-06-28T01:17:23.168284+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- reddit
 stars: 292
 language: Jupyter Notebook
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-27T21:52:10.242205+05:30'
-last_seen: '2026-06-27T21:52:10.242205+05:30'
-last_checked: '2026-06-27T21:52:10.242205+05:30'
+first_seen: '2026-06-28T01:17:23.168284+05:30'
+last_seen: '2026-06-28T01:17:23.168284+05:30'
+last_checked: '2026-06-28T01:17:23.168284+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark framework for Retrieval-Augmented Generation (RAG) systems, designed to evaluate performance across diverse tasks and datasets.
-- **Implementation**: Provided as Jupyter Notebooks, enabling modular and reproducible experimentation with RAG pipelines.
-- **Evaluation Scope**: Covers multiple dimensions (e.g., retrieval quality, generation accuracy, robustness) to assess RAG models systematically.
+- **Benchmark Design**: CRAG is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across **multiple dimensions** (e.g., factuality, hallucination detection, robustness).
+- **Evaluation Scope**: Includes **diverse datasets** (e.g., long-form QA, multi-hop reasoning, domain-specific tasks) and **metrics** for retrieval quality, answer correctness, and hallucination mitigation.
+- **Implementation**: Provided as **Jupyter Notebooks** with modular components for **custom dataset integration**, **retriever/reader evaluation**, and **reproducible pipelines**.
 
 ## Why It Matters
 

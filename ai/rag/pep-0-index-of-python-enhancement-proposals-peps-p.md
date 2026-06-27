@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org/
-published_at: '2026-06-27T19:43:11.875508+05:30'
-collected_at: '2026-06-27T19:43:11.875524+05:30'
+published_at: '2026-06-28T01:22:20.215967+05:30'
+collected_at: '2026-06-28T01:22:20.215982+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-27T19:43:11.875524+05:30'
-last_seen: '2026-06-27T19:43:11.875524+05:30'
-last_checked: '2026-06-27T19:43:11.875524+05:30'
+first_seen: '2026-06-28T01:22:20.215982+05:30'
+last_seen: '2026-06-28T01:22:20.215982+05:30'
+last_checked: '2026-06-28T01:22:20.215982+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in GitHub; metadata is accessible via a public JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in a GitHub repository; metadata is accessible via a JSON API (`peps.json`).
 
-- **PEP Categorization**: PEPs are classified by status (e.g., *Process*, *Informational*, *Accepted*) and topic (e.g., *Governance*, *Packaging*, *Typing*), enabling structured retrieval and governance oversight.
+- **Categorization & Status**: PEPs are classified by type (e.g., Process, Informational, Standards Track) and status (e.g., Accepted, Rejected, Deferred), with specialized indices for governance, packaging, and typing.
 
-- **PEP Types & Statuses**: Defined in PEP 1, PEPs follow strict types (e.g., *Standards Track*, *Informational*, *Process*) with statuses (e.g., *Draft*, *Accepted*, *Rejected*) tracked via a formal key system.
+- **Structured PEP Data**: Includes reserved numbers, topic-based filtering (e.g., `topic/typing/`), and a numerical index; examples include PEP 8 (Python Style Guide), PEP 333 (WSGI), and PEP 636 (Structural Pattern Matching Tutorial).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:43:11.875508+05:30
+- Published: 2026-06-28T01:22:20.215967+05:30
 
 ## Related Tags
 

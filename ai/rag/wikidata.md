@@ -4,19 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.wikidata.org/wiki/Wikidata:Main_Page
-published_at: '2026-06-24T21:02:28.012481+05:30'
-collected_at: '2026-06-24T21:02:28.012494+05:30'
+published_at: '2026-06-28T01:24:16.347180+05:30'
+collected_at: '2026-06-28T01:24:16.347189+05:30'
 tags:
-- anthropic
 - hackernews
+- models
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:wikidata
-first_seen: '2026-06-24T21:02:28.012494+05:30'
-last_seen: '2026-06-24T21:02:28.012494+05:30'
-last_checked: '2026-06-24T21:02:28.012494+05:30'
+first_seen: '2026-06-28T01:24:16.347189+05:30'
+last_seen: '2026-06-28T01:24:16.347189+05:30'
+last_checked: '2026-06-28T01:24:16.347189+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Wikidata** is a free, open, machine-readable knowledge base with **122M+ entities**, serving as structured data storage for Wikimedia projects and beyond, using **RDF/Linked Data** standards for interoperability.
-- Supports **SPARQL query service** for structured data retrieval, **mobile editing** of all datatypes, and **temporary accounts** for unregistered editors (replacing IP-based identification).
-- Features **WikiProjects** (e.g., WikiProject Women) for community-driven data curation, **bot-updated lists**, and tools like **Spinach** for natural language querying, with data licensed under **CC0**.
+- **Wikidata** is a free, open, machine-readable knowledge base hosting **122M+ structured entities (QIDs)** with semantic triples (subject-predicate-object) under CC0 license, enabling cross-project interoperability with Wikimedia sister projects (e.g., Wikipedia) and external linked data ecosystems via standardized exports (RDF/JSON).
+
+- **Core infrastructure** includes a **SPARQL endpoint** for complex queries, **entity schemas (P1793)**, and **constraints (P2302)**, with recent mobile editing support for all datatypes and temporary accounts replacing IP-based editing for unregistered contributors.
+
+- **Community-driven initiatives** like **WikiProject Women** address gender gaps, while **bot-updated lists** and tools (e.g., Spinach assistant) facilitate data exploration; contributions span structured data donations, query development, and UX testing for multilingual interfaces.
 
 ## Why It Matters
 
@@ -36,12 +38,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T21:02:28.012481+05:30
+- Published: 2026-06-28T01:24:16.347180+05:30
 
 ## Related Tags
 
-- anthropic
 - hackernews
+- models
 - rag
 - web-crawled
 - youtube

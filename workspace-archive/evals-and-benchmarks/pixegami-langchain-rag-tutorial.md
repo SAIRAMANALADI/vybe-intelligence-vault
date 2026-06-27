@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Implements a foundational Retrieval-Augmented Generation (RAG) system utilizing the Langchain framework.
-*   Developed in Python, serving as a practical tutorial for LLM application development.
-*   Focuses on a simplified architecture for integrating retrieval with generative models.
+- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- **Python-Based**: Entirely implemented in Python, leveraging LangChain's modular framework for LLM orchestration and vector storage (e.g., FAISS or Chroma for embeddings).
+- **Tutorial Focus**: Provides a step-by-step guide for building a RAG system, covering document loading, embedding, vector searc
 
 ## Use Cases
 

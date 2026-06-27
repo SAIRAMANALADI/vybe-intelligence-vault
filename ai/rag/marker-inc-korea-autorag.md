@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-27T21:51:35.126867+05:30'
+collected_at: '2026-06-28T01:16:43.119326+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
 - scripts
@@ -22,9 +24,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-27T21:51:35.126867+05:30'
-last_seen: '2026-06-27T21:51:35.126867+05:30'
-last_checked: '2026-06-27T21:51:35.126867+05:30'
+first_seen: '2026-06-28T01:16:43.119326+05:30'
+last_seen: '2026-06-28T01:16:43.119326+05:30'
+last_checked: '2026-06-28T01:16:43.119326+05:30'
 health_score: 100
 ---
 
@@ -32,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance metrics.
+- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using a black-box optimization approach.
 
-- **Comprehensive RAG Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation components, with built-in benchmarking and analysis tools for end-to-end RAG workflows.
+- **Comprehensive Evaluation Suite**: Provides built-in benchmarks for RAG components (retrievers, rerankers, generators) across metrics like answer correctness, faithfulness, and latency, with support for custom datasets.
 
-- **Open-Source Python Toolkit**: Developed in Python, AutoRAG provides modular, extensible components for LLM evaluation, Ops, and QA, with active community support and frequent updates.
+- **Modular Pipeline Architecture**: Supports end-to-end RAG workflows with configurable stages (document parsing, embedding, retrieval, generation) and integrates with major LLM frameworks (e.g., LangChain, LlamaIndex).
 
 ## Why It Matters
 

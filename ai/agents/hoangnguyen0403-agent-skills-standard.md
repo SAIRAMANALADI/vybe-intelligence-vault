@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-27T21:53:35.232042+05:30'
+collected_at: '2026-06-28T01:18:48.205237+05:30'
 published_at: '2026-06-27T12:21:56Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-27T21:53:35.232042+05:30'
-last_seen: '2026-06-27T21:53:35.232042+05:30'
-last_checked: '2026-06-27T21:53:35.232042+05:30'
+first_seen: '2026-06-28T01:18:48.205237+05:30'
+last_seen: '2026-06-28T01:18:48.205237+05:30'
+last_checked: '2026-06-28T01:18:48.205237+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering frameworks and languages such as Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, React Native, Spring Boot, and iOS.
-- **Purpose**: Designed to guide AI agents in adhering to industry-standard coding practices and framework-specific conventions for improved code quality and consistency.
-- **Metadata**: 514 stars, 149 forks, last updated on 2026-06-27, includes `.cursorrules` for AI agent configuration.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for programming languages (e.g., Kotlin, Go, Swift) and frameworks (e.g., Angular, NestJS, Spring Boot), designed to guide AI agents in adhering to coding standards.
+
+- **Scope & Topics**: Covers 19+ languages/frameworks (e.g., React, Flutter, Laravel) and tools (e.g., Cursor Rules) under topics like `agentic-ai`, `best-practices`, and `coding-standards`.
+
+- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026. Focuses on enabling AI agents to implement language/framework-specific best practices efficiently.
 
 ## Why It Matters
 

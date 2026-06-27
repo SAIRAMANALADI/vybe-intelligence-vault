@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-06-27T21:51:10.037557+05:30'
+collected_at: '2026-06-28T01:16:23.069663+05:30'
 published_at: '2026-06-27T12:50:15Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-06-27T21:51:10.037557+05:30'
-last_seen: '2026-06-27T21:51:10.037557+05:30'
-last_checked: '2026-06-27T21:51:10.037557+05:30'
+first_seen: '2026-06-28T01:16:23.069663+05:30'
+last_seen: '2026-06-28T01:16:23.069663+05:30'
+last_checked: '2026-06-28T01:16:23.069663+05:30'
 health_score: 100
 ---
 
@@ -27,7 +28,9 @@ health_score: 100
 
 ## Summary
 
-*   Demonstrates an enhanced Langchain RAG pipeline (v2) leveraging local LLM inference
+- **Local LLM Integration**: Demonstrates RAG implementation using local large language models (LLMs) via frameworks like LangChain, avoiding dependency on cloud-based APIs.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Testing & Evaluation Framework**: Includes structured testing methodologies (e.g., retrieval accuracy, response quality) to benchmark RAG performance and validate improvements.
 
 ## Why It Matters
 

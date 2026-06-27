@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated LLM/AI Agent Skills**: Repository provides a structured collection of tools, frameworks, and resources for customizing AI agent workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
-- **Multi-Platform Support**: Includes integrations for Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and other LLM ecosystems, with CLI tools like `claude-skills`, `codex-cli`, and `gemini-cli`.
-- **Python-Based & Actively Maintained**: Entirely Python-based repository with 1,3
+- **Curated LLM/Agent Skills**: Repository aggregates tools, resources, and skills for customizing AI agent workflows, compatible with **Claude Code, Codex, Gemini CLI**, and custom agents.
+- **Multi-Model Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and related frameworks (e.g., Qwen-Coder, OpenCode).
+- **Python-Based & Actively Maintained**: Primarily Python-focused, last updated **June 27, 2026**, with **1.3K+ stars** and **210 forks**.
 
 ## Use Cases
 

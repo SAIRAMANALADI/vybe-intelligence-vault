@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 57, Downloads: 1784310)
+Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 58, Downloads: 1784310)
 
 ## Use Cases
 

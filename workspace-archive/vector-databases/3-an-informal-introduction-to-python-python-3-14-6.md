@@ -29,9 +29,8 @@ selection_reason:
 
 ## Summary
 
-- Python supports arithmetic operations (`+`, `-`, `*`, `/`, `**` for exponentiation) and floor division (`//`), modulus (`%`) with mixed-type operands (e.g., `int` to `float` conversion).
-- Strings (`str`) are immutable sequences supporting indexing, slicing (`[start:stop]`), concatenation (`+`), repetition (`*`), and methods like `len()`; special characters are escaped with `\` or raw strings (`r'...'`).
-- Python treats the last printed expression in interactive mode as the variable `_`, enabl
+- **Numeric Operations**: Python supports arithmetic operations (`+`, `-`, `*`, `/`, `//`, `%`, `**`) with automatic type conversion between `int` and `float`; division (`/`) always returns a float, while floor division (`//`) and modulus (`%`) return integers.
+- **String Handling**: Strings (`str`) are immutable sequences supporting indexing (positive/negative), slicing, concatenation (`+`), repetition (`*`), and raw strings (`r'...'`) to disable escape sequences; triple-quoted strings (`'''...
 
 ## Use Cases
 

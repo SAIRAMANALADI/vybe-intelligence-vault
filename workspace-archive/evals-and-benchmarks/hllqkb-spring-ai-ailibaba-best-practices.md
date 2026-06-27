@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - java
 - rag
 - workflows
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Components**: Implements AI Q&A systems using **SSE streaming**, **Agent-based architectures**, **knowledge graphs**, **RAG**, **Function Calling**, **message history**, **image generation/understanding**, and **embedding/vector database** integration in Java.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with embedding-based vector search (e.g., Milvus/Weaviate) and integrates SSE streaming for real-time AI responses, supporting both text and image modalities (generation/understanding via FunctionCall).
 
-- **Technical Stack**: Leverages **Spring AI**, **Alibaba Cloud AI services**, and **vector databases** for retrieval-augmented generation (RAG) workflows, with support for **embedding models** and **multimodal processing** (text
+- **Agentic Workflows & State Management**: Demonstrates Spring AI integration with Aliyun’s tooling for structured agent interactions, historical message persistence (e.g., Redis), and FunctionCall for dynamic tool
 
 ## Use Cases
 

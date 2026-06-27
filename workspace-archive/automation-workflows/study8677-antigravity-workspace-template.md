@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent codebase Q&A system**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, compatible with AI IDEs like Claude Code, Cursor, and Codex CLI.
+- **Multi-agent codebase Q&A system**: Enables grounded, file-aware interactions with codebases via LLM agents (Claude Code, Cursor, Codex CLI), providing answers with exact file paths and line numbers for precise context.
 
-- **Knowledge graph integration**: Leverages RAG (Retrieval-Augmented Generation) and MCP (Model Context Protocol) servers to build a structured, queryable representation of the codebase for precise responses.
+- **MCP/knowledge-graph integration**: Leverages Model Context Protocol (MCP) and RAG to construct a retrievable knowledge graph of the codebase, enhancing multi-agent collaboration and reducing hallucinations.
 
-- **Cross-tool compatibility**: Supports OpenAI models, MCP servers, and IDE plugins (e.g.,
+- **Cross-IDE compatibility**: Functions as an SDK/plugin across
 
 ## Use Cases
 

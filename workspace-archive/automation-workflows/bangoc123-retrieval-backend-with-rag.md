@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Python-based RAG (Retrieval-Augmented Generation) backend optimized for Vietnamese text processing, integrating vector search with LLM inference.
-- **Key Features**: Demonstrates best practices for Vietnamese RAG pipelines, including text preprocessing, embedding generation (e.g., `vinai/phobert-base`), and retrieval-augmented generation workflows.
-- **Deployment**: Modular design with FastAPI for serving, supporting scalable Vietnamese document retrieval and generation.
+- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, integrating vector search and LLM inference.
+- **Key Features**: Demonstrates best practices for Vietnamese RAG pipelines, including text preprocessing, embedding models (e.g., vietnamese-sbert), and retrieval-augmented generation workflows.
+- **Deployment**: Modular design for scalability, supporting FAISS/Weaviate for vector storage and integration with Vietnamese LLMs
 
 ## Use Cases
 

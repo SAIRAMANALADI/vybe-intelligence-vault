@@ -14,7 +14,7 @@ LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
 *   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
 *   [Request Demo](https://www.deepset.ai/request-demo)
-*   [Neo4j Graph Intelligence Platform](http://neo4j.org/resources/cypher)
+*   [Skill-MAS: Evolving Meta-Skill for Automatic Multi-Agent Systems](https://arxiv.org/abs/2606.18837)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

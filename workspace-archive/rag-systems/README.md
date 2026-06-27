@@ -9,13 +9,13 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 ## Top Matched Resources
 
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (framework - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (prompt - ESSENTIAL Tier)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (prompt - ESSENTIAL Tier)
-- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (benchmark - ESSENTIAL Tier)
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) (benchmark - ESSENTIAL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000) (template - ESSENTIAL Tier)
+- [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
+- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/run-llama/llama_index (LlamaIndex)
 https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
+- [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [langgenius/dify](https://github.com/langgenius/dify)
+- [ritik-prog/n8n-automation-templates-5000](https://github.com/ritik-prog/n8n-automation-templates-5000)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-06-27 22:06 IST*
+*Last updated: 2026-06-28 01:31 IST*

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, supporting local operations and remote collaboration; secure access is enabled via SSH for encrypted connections over unsecured networks.
+- **Git Integration & Authentication**: GitHub relies on Git for version control, requiring local setup (e.g., SSH for secure remote connections) and repository management (creation, naming, and location control).
 
-- **Collaborative Workflows**: Pull requests facilitate code review, discussion, and merging; repositories serve as centralized hubs for project files, with GitHub Actions enabling CI/CD pipelines.
+- **Collaborative Development Workflows**: Supports pull requests for code review/merging, IDE-integrated AI assistance (GitHub Copilot), and remote repository synchronization via Git commands.
 
-- **Security & Developer Tools**: Code security features include vulnerability s
+- **Security & Automation**: Provides tools for secrets management, vulnerability scanning
 
 ## Use Cases
 

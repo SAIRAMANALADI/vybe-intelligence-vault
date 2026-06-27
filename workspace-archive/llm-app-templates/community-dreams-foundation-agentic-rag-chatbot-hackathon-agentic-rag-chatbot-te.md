@@ -1,0 +1,55 @@
+---
+title: Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
+archive_category: llm-app-templates
+source_category: ai/rag
+source_url: https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
+resource_id: github:community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository
+local_vault_path: ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
+tags:
+- agents
+- github-repo
+- meta-ai
+- models
+- python
+- rag
+- workflows
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
+
+## Why This Is In The Archive
+
+- Matched archive category: `LLM App Templates`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+- **Template Repository**: Provides a starter framework for building an **agentic RAG (Retrieval-Augmented Generation) chatbot** optimized for hackathon-style development.
+- **Python-Based**: Entirely implemented in Python, leveraging modern libraries (e.g., LangChain, LlamaIndex) for modular RAG pipeline construction.
+- **GitHub Classroom Integration**: Designed for collaborative, classroom-style deployment with 68 forks, enabling scalable agentic workflows (e.g., dynamic tool use, multi-agent
+
+## Use Cases
+
+- Rapid project starts
+- Boilerplate reference
+- FastAPI/Next.js architectures
+
+## Source
+
+Original source URL: https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository
+
+## Local Vault File
+
+Path: [community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md](../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)

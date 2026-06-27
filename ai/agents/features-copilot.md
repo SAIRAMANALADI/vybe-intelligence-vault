@@ -3,9 +3,9 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-27T21:56:57.293464+05:30'
-collected_at: '2026-06-27T21:56:57.293478+05:30'
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+published_at: '2026-06-28T01:26:57.175451+05:30'
+collected_at: '2026-06-28T01:26:57.175461+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-27T21:56:57.293478+05:30'
-last_seen: '2026-06-27T21:56:57.293478+05:30'
-last_checked: '2026-06-27T21:56:57.293478+05:30'
+first_seen: '2026-06-28T01:26:57.175461+05:30'
+last_seen: '2026-06-28T01:26:57.175461+05:30'
+last_checked: '2026-06-28T01:26:57.175461+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching for comparative analysis.
+- **Multi-agent orchestration**: Copilot CLI enables parallelized task execution via `/fleet`, distributing work across subagents while maintaining user control over final outputs.
 
-- **Native GitHub Integration & MCP Support**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts with issues, PRs, and branches directly, inheriting organization policies (branch protections, governance) while allowing custom agent definitions via `AGENTS.md` and skills.
+- **GitHub-native workflows**: Integrates directly with GitHub issues, PRs, and MCP servers for autonomous issue-to-commit workflows, including branch creation, code generation, and PR drafting with explicit approval gates.
 
-- **Autonomous Workflow with Explicit Control**: Features `/plan` for task outlining, `/resume` for session persistence, and `/delegate` for PR creation—all requiring explicit user approval for file modifications/commands, ensuring security compliance and terminal-native IDE transitions.
+- **Cross-platform agent runtime**: Supports macOS/Linux/Windows with session persistence, model switching (`/model`), and VS Code integration, while inheriting organizational Copilot policies for security and governance.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-27T21:56:57.293464+05:30
+- Published: 2026-06-28T01:26:57.175451+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli
+Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026

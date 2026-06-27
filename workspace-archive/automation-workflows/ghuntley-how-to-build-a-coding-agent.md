@@ -15,7 +15,7 @@ tags:
 - github-repo
 - go
 - hackernews
-- reddit
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Workshop for constructing a **Go-based AI coding agent** (e.g., alternatives to Cursor/Cline) with modular architecture for extensibility.
-- **Key Components**: Includes **agent orchestration**, **LLM integration**, and **IDE/tooling interfaces** (e.g., LSP, CLI).
-- **Technical Focus**: Emphasizes **real-time code analysis**, **multi-tool execution**, and **state management** for autonomous workflows.
+- **Purpose**: Provides a structured workshop to build a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven development workflows.
+- **Technical Scope**: Focuses on **agent-based automation**, integrating AI tools for code generation, debugging, and project management.
+- **Repository Stats**: 5,696 stars, 641 forks, last updated **2026-06-27**; emphasizes hands-on tutorials for AI-assisted coding agents.
 
 ## Use Cases
 

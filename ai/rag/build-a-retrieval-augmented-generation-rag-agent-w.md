@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-06-27T21:51:07.181594+05:30'
-collected_at: '2026-06-27T21:51:07.181607+05:30'
+published_at: '2026-06-28T01:16:15.284634+05:30'
+collected_at: '2026-06-28T01:16:15.284644+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-06-27T21:51:07.181607+05:30'
-last_seen: '2026-06-27T21:51:07.181607+05:30'
-last_checked: '2026-06-27T21:51:07.181607+05:30'
+first_seen: '2026-06-28T01:16:15.284644+05:30'
+last_seen: '2026-06-28T01:16:15.284644+05:30'
+last_checked: '2026-06-28T01:16:15.284644+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic tool-calling to decide between retrieval or direct response, integrating Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **NVIDIA NIM Integration**: Leverages NVIDIA NIM endpoints for high-performance inference, supporting tool binding, structured output (Pydantic), async operations, and enterprise-grade reliability for LLM-powered RAG systems.
+- **NVIDIA Nemotron Integration**: Leverages NVIDIA NIM endpoints for high-performance inference with tool binding, structured output, and async operations, enabling production-grade RAG systems with clear role-specific prompts for grounding and source citation.
 
-- **Modular Pipeline Components**: Implements a structured workflow including text splitting, vector database ingestion, document retrieval/reranking, and agent configuration, with clear system prompts for role specification, tool utilization, grounding, and source citation.
+- **Pipeline Components**: Includes document ingestion, text splitting, vector database storage, retrieval chain with a retriever tool, and agent configuration, ensuring contextually relevant responses with inline citations from the knowledge base.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:51:07.181594+05:30
+- Published: 2026-06-28T01:16:15.284634+05:30
 
 ## Related Tags
 

@@ -7,9 +7,9 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 90
+archive_score: 88
 archive_tier: essential
-resource_kind: prompt
+resource_kind: dataset
 importance: high
 tags:
 - agents
@@ -32,19 +32,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 90 (essential)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 88 (essential)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), and vector storage (e.g., Supabase) for efficient retrieval; retrieval augmented by hybrid search (dense + sparse) and query expansion techniques.
+- **RAG Architecture**: Core components include document ingestion, chunking strategies (e.g., semantic or fixed-size), embedding models (e.g., Sentence-BERT), vector databases (e.g., Supabase), and LLM integration (e.g., LangChain) for retrieval-augmented generation.
 
-- **Production Optimization**: Latency and cost are minimized via caching, load balancing across models, and token-efficient embeddings; deployment leverages Cloudflare Workers for edge scalability.
+- **Production Optimizations**: Advanced retrieval (hybrid dense/sparse search), query expansion/rewriting, caching strategies, and load balancing across multiple models to reduce latency and improve response consistency.
 
-- **Monitoring & Troubleshooting**: Obser
+- **Mon
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-27T21:51:15.092399+05:30'
+collected_at: '2026-06-28T01:16:23.059519+05:30'
 published_at: '2026-06-27T06:24:18Z'
 tags:
 - agents
@@ -14,6 +14,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-27T21:51:15.092399+05:30'
-last_seen: '2026-06-27T21:51:15.092399+05:30'
-last_checked: '2026-06-27T21:51:15.092399+05:30'
+first_seen: '2026-06-28T01:16:23.059519+05:30'
+last_seen: '2026-06-28T01:16:23.059519+05:30'
+last_checked: '2026-06-28T01:16:23.059519+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using JavaScript, emphasizing transparency by avoiding proprietary black boxes and focusing on local LLMs.
+- **Local LLM Integration**: Demonstrates building a Retrieval-Augmented Generation (RAG) system using local LLMs via `node-llama-cpp` to eliminate dependency on proprietary APIs and enhance transparency.
 
-- **Core Technical Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation, providing a hands-on understanding of the RAG pipeline.
+- **Core RAG Pipeline**: Implements end-to-end RAG workflow with embeddings generation, vector search (likely using libraries like `hnswlib` or `FAISS`), retrieval augmentation, and context-augmented generation—all in JavaScript.
 
-- **Tooling & Framework**: Utilizes `node-llama-cpp` and Node.js to build a functional RAG chatbot, with modular design for educational purposes and practical deployment.
+- **Educational Focus**: Provides a hands-on tutorial to demystify RAG components (embeddings, retrieval, context fusion) without "black boxes," targeting developers seeking practical, low-level understanding of RAG systems.
 
 ## Why It Matters
 

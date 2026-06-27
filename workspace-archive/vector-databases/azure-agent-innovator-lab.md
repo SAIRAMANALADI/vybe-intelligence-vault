@@ -14,10 +14,8 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -34,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Focus**: Provides a structured approach to building AI agents on Azure, emphasizing search optimization, agent architecture, evaluation methodologies, and Retrieval-Augmented Generation (RAG) best practices.
-- **Technical Stack**: Implemented primarily in Jupyter Notebooks, facilitating interactive development and experimentation for AI agent design and evaluation workflows.
-- **Update Status**: Last updated in May 2026, indicating ongoing maintenance and relevance for cutting-edg
+*   Azure-centric AI agent development platform.
+*   Focuses on search optimization, agent design, and evaluation methodologies.
+*   Implements RAG best practices through Jupyter Notebook-based examples.
 
 ## Use Cases
 

@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,064</p>
-        <p><b>Active:</b> 8,832 | <b>Inactive:</b> 232</p>
+        <p><b>Resources tracked:</b> 9,101</p>
+        <p><b>Active:</b> 8,867 | <b>Inactive:</b> 234</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,623</p>
+        <p><b>Archive Files:</b> 34,690</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 00:53 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 01:32 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** • <kbd>+60 pts</kbd>
+- 🔼 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** • <kbd>+53 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Task Failed Successfully: Saturating NIC and Disk Bandwidth](ai/community/task-failed-successfully-saturating-nic-and-disk-b.md)** • <kbd>+16 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[3. An Informal Introduction to Python — Python 3.14.6 documentation](ai/rag/3-an-informal-introduction-to-python-python-3-14-6.md)** • Rank: <kbd>+716</kbd>
+- 🔼 **[Release jq 1.8.2 · jqlang/jq · GitHub](ai/resources/jqlang-jq.md)** • Rank: <kbd>+433</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[AI Is Designing Radio Chips That Humans Couldn't Even Imagine](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • Score: `97`
+- 🆕 **[End Software Patents](ai/resources/end-software-patents.md)** • Score: `0`
+- 🆕 **[SciPy India · GitHub](ai/resources/scipy-india-github.md)** • Score: `0`
+- 🆕 **[FOSS United Foundation](ai/resources/foss-united-foundation.md)** • Score: `0`
+- 🆕 **[SciPy India](ai/resources/scipy-india.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)**
+- 💤 **[Anatomy of a Failed (Nation-State?) Attack](ai/community/anatomy-of-a-failed-nation-state-attack.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

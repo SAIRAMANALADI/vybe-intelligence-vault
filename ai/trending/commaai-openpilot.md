@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/commaai/openpilot
-published_at: '2026-06-27T21:50:16.936175+05:30'
-collected_at: '2026-06-27T21:50:16.936178+05:30'
+published_at: '2026-06-28T01:15:21.111601+05:30'
+collected_at: '2026-06-28T01:15:21.111604+05:30'
 tags:
 - github-trending
 - python
 status: active
 resource_id: github:commaai/openpilot
 first_seen: '2026-06-26T20:18:15.053508+05:30'
-last_seen: '2026-06-27T21:50:16.936178+05:30'
-last_checked: '2026-06-27T21:50:16.936178+05:30'
+last_seen: '2026-06-28T01:15:21.111604+05:30'
+last_checked: '2026-06-28T01:15:21.111604+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-27T21:50:16.936175+05:30
+- Published: 2026-06-28T01:15:21.111601+05:30
 
 ## Related Tags
 

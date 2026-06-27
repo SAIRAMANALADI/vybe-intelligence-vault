@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-27T21:51:06.162336+05:30'
-collected_at: '2026-06-27T21:51:06.162347+05:30'
+published_at: '2026-06-28T01:16:13.853332+05:30'
+collected_at: '2026-06-28T01:16:13.853343+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-27T21:51:06.162347+05:30'
-last_seen: '2026-06-27T21:51:06.162347+05:30'
-last_checked: '2026-06-27T21:51:06.162347+05:30'
+first_seen: '2026-06-28T01:16:13.853343+05:30'
+last_seen: '2026-06-28T01:16:13.853343+05:30'
+last_checked: '2026-06-28T01:16:13.853343+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers (caching, metadata) optimize performance and cost.
+- **RAG Architecture & Components**: Core pipeline includes a retriever (vector/lexical), vector store (ANN indexes like HNSW), LLM generator, and optional rerankers; hybrid retrieval (BM25 + vector) improves recall/precision by fusing lexical and semantic signals.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), cross-encoder reranking (two-stage precision), and multi-hop/query decomposition improve recall/precision; GraphRAG enables structured reasoning over knowledge graphs.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality normalization, and periodic re-embedding for freshness and accuracy.
 
-- **Context Optimization & Evaluation**: Token budgeting (autocut/trimming), context distillation (LLM-based summarization), and rigorous metrics (MRR/nDCG for retrieval, hallucination rate for generation) are critical for production readiness.
+- **Multi-Stage Retrieval & Context Control**: Two-stage retrieval (first-stage ANN + second-stage cross-encoder reranker) enhances precision; context distillation (LLM-based summarization) and autocut strategies mitigate hallucinations by managing token budgets and prioritizing relevant evidence.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:51:06.162336+05:30
+- Published: 2026-06-28T01:16:13.853332+05:30
 
 ## Related Tags
 

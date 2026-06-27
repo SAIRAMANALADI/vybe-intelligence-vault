@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads for programmatic use.
-- **Tooling & Automation**: Develop bots and tools to streamline editing, maintenance, and workflows for Wikimedia projects.
-- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem by contributing to software development and community-driven projects.
+- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads (e.g., RESTBase, MediaWiki Action API).
+- **Tooling & Automation**: Develop bots and tools (e.g., Pywikibot, AWB) to automate Wikimedia project maintenance and editing workflows.
+- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem (e.g., Gerrit, Phabricator) to contribute to core infrastructure and community-driven projects.
 
 ## Use Cases
 

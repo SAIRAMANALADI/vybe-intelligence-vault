@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-06-27T21:52:10.129264+05:30'
+collected_at: '2026-06-28T01:17:23.133636+05:30'
 published_at: '2026-06-26T00:59:53Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-06-27T21:52:10.129264+05:30'
-last_seen: '2026-06-27T21:52:10.129264+05:30'
-last_checked: '2026-06-27T21:52:10.129264+05:30'
+first_seen: '2026-06-28T01:17:23.133636+05:30'
+last_seen: '2026-06-28T01:17:23.133636+05:30'
+last_checked: '2026-06-28T01:17:23.133636+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, an ICLR'26 benchmark designed to evaluate GraphRAG (Graph Retrieval-Augmented Generation) models, focusing on graph-based retrieval strategies in RAG systems.
-
-- **Technical Scope**: Provides a comprehensive analysis of when to use graphs in RAG pipelines, including datasets, evaluation metrics, and standardized testing protocols for graph-augmented retrieval tasks.
-
-- **Implementation**: Python-based implementation with modular components for graph construction, retrieval, and generation, supporting reproducibility and extensibility for research in graph-enhanced RAG systems.
+- **Benchmark Suite**: Provides a standardized evaluation framework for Graph Retrieval-Augmented Generation (GraphRAG) models, including datasets and metrics for assessing performance in graph-based RAG scenarios.
+- **Technical Focus**: Implements comprehensive analysis tools to determine optimal use cases for graph structures in RAG pipelines, emphasizing retrieval efficiency and generation quality.
+- **Python Implementation**: Offers a modular Python codebase with tools for dataset preprocessing, model evaluation, and comparative benchmarking against baseline RAG approaches.
 
 ## Why It Matters
 

@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-06-27T21:50:55.202352+05:30'
+collected_at: '2026-06-28T01:16:03.223777+05:30'
 published_at: '2026-06-27T15:50:42Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 13350
 language: Jupyter Notebook
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-06-27T21:50:55.202352+05:30'
-last_seen: '2026-06-27T21:50:55.202352+05:30'
-last_checked: '2026-06-27T21:50:55.202352+05:30'
+first_seen: '2026-06-28T01:16:03.223777+05:30'
+last_seen: '2026-06-28T01:16:03.223777+05:30'
+last_checked: '2026-06-28T01:16:03.223777+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: Provides a structured, beginner-friendly tutorial for developing LLM (Large Language Model) applications, leveraging **LangChain** and **RAG (Retrieval-Augmented Generation)** methodologies.
+- **Educational Framework**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, covering foundational to advanced concepts in LangChain and RAG (Retrieval-Augmented Generation).
 
-- **Technical Implementation**: Utilizes **Jupyter Notebooks** as the primary medium for hands-on coding exercises and demonstrations, ensuring interactive learning.
+- **Technical Scope**: Focuses on practical implementation of LLM workflows, including model integration, prompt engineering, and retrieval mechanisms for real-world applications.
 
-- **Resource Accessibility**: Hosted on GitHub with **13.3K+ stars** and **1.3K+ forks**, offering an actively maintained and community-driven resource (last updated **2026-06-27**).
+- **Community & Maintenance**: Actively maintained (last updated June 2026) with 13.3K+ stars and 1.3K+ forks, indicating strong community engagement and collaborative development.
 
 ## Why It Matters
 

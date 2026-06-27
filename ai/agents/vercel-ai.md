@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-06-27T21:53:15.269217+05:30'
-published_at: '2026-06-27T16:14:16Z'
+collected_at: '2026-06-28T01:18:28.212211+05:30'
+published_at: '2026-06-27T19:12:43Z'
 tags:
 - agents
 - anthropic
@@ -14,17 +14,17 @@ tags:
 - openai
 - typescript
 - workflows
-stars: 25179
+stars: 25183
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-05-23T15:04:08Z'
-pushed_at: '2026-06-27T04:53:08Z'
+pushed_at: '2026-06-27T19:24:58Z'
 resource_id: github:vercel/ai
-first_seen: '2026-06-27T21:53:15.269217+05:30'
-last_seen: '2026-06-27T21:53:15.269217+05:30'
-last_checked: '2026-06-27T21:53:15.269217+05:30'
+first_seen: '2026-06-28T01:18:28.212211+05:30'
+last_seen: '2026-06-28T01:18:28.212211+05:30'
+last_checked: '2026-06-28T01:18:28.212211+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **AI SDK Overview**: Open-source TypeScript library (by Vercel) for building AI-powered apps and agents, supporting LLM integrations (OpenAI, Anthropic, Gemini) and generative UI frameworks (React, Next.js, Svelte, Vue).
-
-- **Key Features**: Provides structured tooling for AI workflows, including streaming responses, tool/function calling, and state management for AI-driven interfaces.
-
-- **Compatibility**: Designed for modern JavaScript/TypeScript ecosystems, optimized for Vercel deployments and Next.js, with modular support for multiple AI providers and UI frameworks.
+- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like OpenAI, Anthropic, and Gemini.
+- **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript, enabling generative UI and LLM integrations.
+- **Key Features**: Includes tools for structured outputs, streaming, and agent workflows, last updated June 27, 2026.
 
 ## Why It Matters
 
@@ -45,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel
-- Stars: 25179
+- Stars: 25183
 - Forks: 4666
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-06-27T16:14:16Z
+- Last Updated: 2026-06-27T19:12:43Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z
-- Pushed At: 2026-06-27T04:53:08Z
+- Pushed At: 2026-06-27T19:24:58Z
 
 ## Possible Use Cases
 

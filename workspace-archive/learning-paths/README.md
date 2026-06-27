@@ -8,7 +8,6 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 ## Top Matched Resources
 
-- [python/peps](https://github.com/python/peps) (tutorial - ESSENTIAL Tier)
 - [DSA Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (benchmark - USEFUL Tier)
 - [Get Started - The Go Programming Language](https://go.dev/learn) (tutorial - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
@@ -16,16 +15,17 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [FISHER: A Foundation Model for Multi-Modal Industrial Signal Comprehensive Representation](https://arxiv.org/abs/2507.16696) (framework - USEFUL Tier)
 - [github/roadmap](https://github.com/github/roadmap) (tutorial - USEFUL Tier)
+- [Postman Inc. · GitHub](https://github.com/postmanlabs) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
-- [python/peps](https://github.com/python/peps)
 - [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
 - [milvus-io/milvus · Discussions · GitHub](https://github.com/milvus-io/milvus/discussions)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-27 22:07 IST*
+*Last updated: 2026-06-28 01:32 IST*

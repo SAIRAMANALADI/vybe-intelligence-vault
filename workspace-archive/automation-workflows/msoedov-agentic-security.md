@@ -36,7 +36,7 @@ selection_reason:
 
 - **Purpose**: Agentic LLM Vulnerability Scanner and AI red teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt-based vulnerabilities.
 - **Features**: Supports LLM fuzzing, evaluation frameworks, guardrails testing, and vulnerability aggregation with Python-based agentic workflows.
-- **Scope**: Covers LLM security research, including prompt testing, fuzzing, and evaluation of agent frameworks and guardrails.
+- **Scope**: Covers LLM security assessment, prompt testing, and red teaming methodologies for AI systems.
 
 ## Use Cases
 

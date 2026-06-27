@@ -6,7 +6,7 @@ source_url: https://neo4j.com/blog/developer/rag-tutorial/
 resource_id: blog:using-a-knowledge-graph-to-implement-a-rag-applica
 local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLMs by retrieving relevant external data (structured/unstructured) via vector search, augmenting prompts with retrieved context, and generating grounded responses—mitigating hallucinations and improving factual accuracy.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured knowledge graphs with unstructured data.
 
-- **GraphRAG Hybrid Approach**: Combines vector search (semantic similarity) with graph-based structured queries (Cypher/SPARQL) in a knowledge graph, enabling relational reasoning, explainability, and fine-
+- **Core RAG Process**: Three-stage workflow—(1) **Retrieval**: Embeds user queries and retrieves relevant data via vector similarity or structured queries, (2) **Augmentation**: Combines retrieved context wit
 
 ## Use Cases
 

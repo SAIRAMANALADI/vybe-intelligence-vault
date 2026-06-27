@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-27T21:57:19.178003+05:30'
-collected_at: '2026-06-27T21:57:19.178012+05:30'
+published_at: '2026-06-28T01:20:34.604393+05:30'
+collected_at: '2026-06-28T01:20:34.604403+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-27T21:57:19.178012+05:30'
-last_seen: '2026-06-27T21:57:19.178012+05:30'
-last_checked: '2026-06-27T21:57:19.178012+05:30'
+first_seen: '2026-06-28T01:20:34.604403+05:30'
+last_seen: '2026-06-28T01:20:34.604403+05:30'
+last_checked: '2026-06-28T01:20:34.604403+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.163.3** (June 18, 2026) includes fixes for markup highlighting (escaping language in code blocks), preservation of non-ASCII whitespace in parsers, and expanded support for Babel/PostCSS config variants in resource processing.
+- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** (June 15, 2026) resolves `ERR_ACCESS_DENIED` errors in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` errors in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** (June 8, 2026) introduces AVIF image handling improvements (default quality reduction to 60, per-format quality settings, and YUV420/YUV444 chroma subsampling hints), deprecates legacy JS config settings, and enforces Go version alignment.
+- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings, adds YUV420/YUV444 chroma subsampling hints, and deprecates legacy imaging compression settings.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:57:19.178003+05:30
+- Published: 2026-06-28T01:20:34.604393+05:30
 
 ## Related Tags
 

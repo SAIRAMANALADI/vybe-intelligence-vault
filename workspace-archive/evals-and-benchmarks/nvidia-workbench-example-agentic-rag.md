@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an autonomous RAG system using NVIDIA AI Workbench, integrating multi-agent workflows for dynamic retrieval and generation.
-- **Jupyter Notebook-Based**: Entire project structured as executable notebooks, leveraging Python for modular agent interactions and retrieval pipelines.
-- **NVIDIA-Optimized Stack**: Utilizes NVIDIA’s AI/ML tooling (e.g., Triton, NeMo) for accelerated LLM inference and vector search in agentic decision-making.
+- **Agentic RAG Implementation**: Demonstrates an autonomous RAG system using NVIDIA AI Workbench, integrating retrieval and generation with agentic workflows for dynamic decision-making.
+- **Jupyter Notebook-Based**: Entire project structured as executable Jupyter Notebooks, enabling interactive experimentation with agentic RAG components (e.g., retrieval triggers, LLM integration).
+- **NVIDIA Stack Integration**: Leverages NVIDIA’s ecosystem (e.g., GPUs, optimized libraries) for efficient agen
 
 ## Use Cases
 

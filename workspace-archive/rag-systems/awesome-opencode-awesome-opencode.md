@@ -8,7 +8,7 @@ local_vault_path: ai/rag/awesome-opencode-awesome-opencode.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: api
+resource_kind: tool
 importance: medium
 tags:
 - agents
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as an "awesome-list" repository.
-- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration.
-- **High Activity Metrics**: Maintains 8,386 stars and 595 forks, indicating strong community engagement and rapid updates (last synced: 2026-06-27).
+- **Curated Resource Hub**: A GitHub repository aggregating plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), structured as a community-driven "awesome" list.
+- **Technical Metadata**: Repository stats include **8,400 stars**, **595 forks**, and is primarily written in **JavaScript**, with the last update on **2026-06-27T19:17:30Z**.
+- **Open-Source Contribution**: Hosted under the `awesome-opencode` organization, serving as a centralized reference
 
 ## Use Cases
 

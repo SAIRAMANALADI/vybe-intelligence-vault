@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Python supports **arithmetic operations** with standard operators (`+`, `-`, `*`, `/`, `//`, `**`) and **list comprehensions** for concise data transformations, enabling efficient in-place operations like `loud_fruits = [fruit.upper() for fruit in fruits]`.
-- **Control flow** in Python includes `if`, `for`, `while`, and `range`, with **functions** supporting mandatory/optional arguments, keyword arguments, and arbitrary argument lists for modular programming.
-- The **Python Software Foundation
+- **Python 3.15.0 beta 3** released with new features and optimizations (e.g., [PEP 749](https://peps.python.org/pep-0749/)), alongside security patches for `python.org` download metadata API authentication bypass.
+- **Core language features** include arithmetic operations (`/`, `//`, `**`), list comprehensions, control flow (`for`, `while`, `range`), and function definitions with optional/keyword arguments.
+- **Ecosystem highlights**: Web (Django, FastAPI), AI/ML (PyTorch, scikit-learn), scient
 
 ## Use Cases
 

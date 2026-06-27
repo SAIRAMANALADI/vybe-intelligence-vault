@@ -17,7 +17,6 @@ tags:
 - python
 - rag
 - reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: Six structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable code examples and reusable utilities.
-- **Technical Scope**: Covers embeddings, vector database integration, LLM fine-tuning, and advanced RAG techniques for building scalable retrieval-augmented systems.
-- **Python-Based Implementation**: Provides hands-on demos and modular utilities in Python, emphasizing practical deployment workflows
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from foundational concepts to production deployment, with executable Python code and reusable utilities.
+
+- **Core Technical Components**: Covers embeddings generation, vector database integration (e.g., FAISS, Chroma), LLM fine-tuning/optimization, and advanced RAG techniques like query rewriting and retrieval strategies.
+
+- **Hands-On Implementation**: Includes demos and practical exercises for building s
 
 ## Use Cases
 

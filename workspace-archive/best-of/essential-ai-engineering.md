@@ -8,24 +8,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `93` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`agentops-ai-agentops.md`](../../ai/agents/agentops-ai-agentops.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`quivrhq-quivr.md`](../../ai/rag/quivrhq-quivr.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`graphrag-bench-graphrag-benchmark.md`](../../ai/rag/graphrag-bench-graphrag-benchmark.md)
+- **Score**: `89` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
@@ -43,21 +43,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](../../ai/resources/llamasearchai-openagi-customization.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`onyx-dot-app-onyx.md`](../../ai/rag/onyx-dot-app-onyx.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`azure-samples-chat-with-your-data-solution-accelerator.md`](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
@@ -67,6 +52,21 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`tomasonjo-kg-rag.md`](../../ai/rag/tomasonjo-kg-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [Azure-Samples/aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`azure-samples-aisearch-openai-rag-audio.md`](../../ai/rag/azure-samples-aisearch-openai-rag-audio.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-27 22:07 IST*
+*Last updated: 2026-06-28 01:32 IST*

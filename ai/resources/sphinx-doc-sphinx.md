@@ -4,11 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sphinx-doc/sphinx
-collected_at: '2026-06-27T19:42:15.794015+05:30'
+collected_at: '2026-06-28T01:21:05.616424+05:30'
 published_at: '2026-06-27T13:45:19Z'
 tags:
 - github-repo
-- hackernews
 - python
 stars: 7891
 language: Python
@@ -18,9 +17,9 @@ archived: false
 created_at: '2015-01-02T10:53:28Z'
 pushed_at: '2026-06-21T23:52:48Z'
 resource_id: github:sphinx-doc/sphinx
-first_seen: '2026-06-27T19:42:15.794015+05:30'
-last_seen: '2026-06-27T19:42:15.794015+05:30'
-last_checked: '2026-06-27T19:42:15.794015+05:30'
+first_seen: '2026-06-28T01:21:05.616424+05:30'
+last_seen: '2026-06-28T01:21:05.616424+05:30'
+last_checked: '2026-06-28T01:21:05.616424+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Sphinx is a Python-based documentation generator supporting both reStructuredText and Markdown for creating technical documentation.
-- **Features**: Enables cross-referencing, syntax highlighting, and automated builds; integrates with tools like `autodoc` for API documentation extraction.
-- **Ecosystem**: Widely adopted for Python projects (e.g., NumPy, Django) with plugins for extended functionality (e.g., LaTeX, HTML themes).
+*   Python-based documentation generator supporting reStructuredText and Markdown.
+*   Core functionality as a documentation-tool for various output formats.
+*   Actively maintained project with significant community adoption (7.8k+ stars).
 
 ## Why It Matters
 

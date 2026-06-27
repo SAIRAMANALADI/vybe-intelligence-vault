@@ -12,10 +12,10 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (workflow - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
-- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) (framework - ESSENTIAL Tier)
-- [tomasonjo/langchain-neo4j](https://github.com/tomasonjo/langchain-neo4j) (benchmark - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-27 22:07 IST*
+*Last updated: 2026-06-28 01:32 IST*

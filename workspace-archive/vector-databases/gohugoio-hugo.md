@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.163.3** (June 18, 2026) includes fixes for markup highlighting (escaping language in code blocks), preservation of non-ASCII whitespace in parsers, and expanded support for Babel/PostCSS config variants in resource processing.
+- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
 
-- **Hugo v0.163.2** (June 15, 2026) resolves `ERR_ACCESS_DENIED` errors in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` errors in Node's resolver and standardizes behavior for missing external converters in markup processing.
 
-- **Hugo v0.163.0** (June 8, 2026) introduces AVIF image handling improvements (defaul
+- **Hugo v0.163.0** improves AVIF image handling with configurable quality settings, adds YUV420/YUV444 chroma subsampling hints,
 
 ## Use Cases
 

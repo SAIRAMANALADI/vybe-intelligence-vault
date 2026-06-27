@@ -13,10 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning.
-- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment strategies, and a curated interview question bank aligned with AI application development roles.
-- **End-to-End Technical Stack**: Integrates skills, LLM optimization, RAG pipelines, and agent frameworks (e.g.,
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment and fine-tuning.
+- **Full-Stack Learning Path**: Includes hands-on projects, interview question banks, and end-to-end workflows from development to production deployment.
+- **Tech Stack & Tools**: Python-based, integrates AI frameworks (e.g., LangChain), agent platforms (Coze, Dify), and deployment tools (MCP, skills) for scalable age
 
 ## Use Cases
 

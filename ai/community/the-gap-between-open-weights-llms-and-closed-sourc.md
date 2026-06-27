@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - models
-status: active
+status: inactive
 resource_id: hackernews:the-gap-between-open-weights-llms-and-closed-sourc
 first_seen: '2026-06-27T04:07:00.127350+05:30'
 last_seen: '2026-06-27T21:50:19.068428+05:30'
 last_checked: '2026-06-27T21:50:19.068428+05:30'
 health_score: 100
 ---
+
 
 # The gap between open weights LLMs and closed source LLMs
 

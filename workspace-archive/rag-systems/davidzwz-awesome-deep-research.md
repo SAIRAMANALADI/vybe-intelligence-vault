@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A GitHub repository aggregating state-of-the-art resources on agentic deep research, including large language models (LLMs), reasoning agents, and retrieval-augmented generation (RAG) frameworks, as highlighted in ACL 2026's KnowFM track.
-
-- **Technical Scope**: Focuses on advanced AI agents capable of autonomous, multi-step research tasks, integrating search, reasoning, and iterative refinement for deep knowledge synthesis.
-
-- **Community Metrics**: Maintains 780 stars
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and advanced reasoning techniques.
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM initiative, emphasizing knowledge-focused, multi-agent frameworks for deep research tasks.
+- **High-Activity Repository**: Maintains 780+ stars and 63 forks, reflecting active community engagement a
 
 ## Use Cases
 

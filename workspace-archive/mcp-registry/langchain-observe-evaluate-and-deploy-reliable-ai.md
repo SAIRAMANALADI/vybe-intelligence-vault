@@ -6,7 +6,7 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework-Agnostic Observability & Tracing**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured trace analysis and code diagnostics.
 
-- **Automated Evaluation & Iterative Improvement**: Enables conversion of production traces into test cases, supports LLM-as-judge and multi-turn evals, and integrates human feedback
+- **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, multi-turn tests), deployment (async memory, A2A/MCP protocols), and fleet management (BYOM, MCP integration, feedback loops).
+
+- **Open-Source Frameworks**: Provides `deepagents` (autonomous agents), `langcha
 
 ## Use Cases
 

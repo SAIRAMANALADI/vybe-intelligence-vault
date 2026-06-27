@@ -28,9 +28,24 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
@@ -43,30 +58,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`run-llama-llama-deploy.md`](../../ai/rag/run-llama-llama-deploy.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [tomasonjo/langchain-neo4j](https://github.com/tomasonjo/langchain-neo4j)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`tomasonjo-langchain-neo4j.md`](../../ai/rag/tomasonjo-langchain-neo4j.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`aws-samples-amazon-bedrock-samples.md`](../../ai/rag/aws-samples-amazon-bedrock-samples.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+### [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Score**: `87` | **Path**: [`airweave-ai-airweave.md`](../../ai/rag/airweave-ai-airweave.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [cli/cli](https://github.com/cli/cli)
 - **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-27 22:07 IST*
+*Last updated: 2026-06-28 01:32 IST*

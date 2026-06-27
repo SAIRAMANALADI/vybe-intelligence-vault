@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-27T19:40:57.601438+05:30'
+collected_at: '2026-06-28T01:19:13.293238+05:30'
 published_at: '2026-06-27T12:21:40Z'
 tags:
 - agents
@@ -20,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-26T22:03:32Z'
+pushed_at: '2026-06-27T18:22:52Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-27T19:40:57.601438+05:30'
-last_seen: '2026-06-27T19:40:57.601438+05:30'
-last_checked: '2026-06-27T19:40:57.601438+05:30'
+first_seen: '2026-06-28T01:19:13.293238+05:30'
+last_seen: '2026-06-28T01:19:13.293238+05:30'
+last_checked: '2026-06-28T01:19:13.293238+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Event-driven security automation platform** built with Python, FastAPI, and Next.js, leveraging Pydantic for data validation and OpenAPI for API specification.
-- **Orchestration engine** powered by Temporal.io for workflow management, enabling low-code automation with AI agents and LLM integration.
-- **Open-source security tool** with monitoring capabilities, designed for team collaboration and scalable event-driven automation.
+- **Event-driven security automation platform** built with Python, FastAPI, and Temporal.io for workflow orchestration, enabling low-code security automation for teams and AI agents.
+
+- **OpenAPI-compliant** with Pydantic models for schema validation, supporting LLM integration and Next.js frontend for monitoring and management.
+
+- **Modular architecture** leveraging temporal workflows for scalable, fault-tolerant security automation with real-time event processing.
 
 ## Why It Matters
 
@@ -51,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-26T22:03:32Z
+- Pushed At: 2026-06-27T18:22:52Z
 
 ## Possible Use Cases
 

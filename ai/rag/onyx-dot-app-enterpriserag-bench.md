@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-27T21:52:15.185003+05:30'
+collected_at: '2026-06-28T01:17:28.163160+05:30'
 published_at: '2026-06-27T11:11:54Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-27T21:52:15.185003+05:30'
-last_seen: '2026-06-27T21:52:15.185003+05:30'
-last_checked: '2026-06-27T21:52:15.185003+05:30'
+first_seen: '2026-06-28T01:17:28.163160+05:30'
+last_seen: '2026-06-28T01:17:28.163160+05:30'
+last_checked: '2026-06-28T01:17:28.163160+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset & Benchmark**: Provides a standardized evaluation framework for Retrieval-Augmented Generation (RAG) systems using synthetic and real-world enterprise internal documents, enabling benchmarking of retrieval and generation performance.
-
-- **Evaluation Suite**: Includes metrics for assessing semantic search, information retrieval, and LLM response quality in enterprise contexts, with support for Python-based evaluation pipelines.
-
-- **Synthetic Data Generation**: Implements automated methods for creating domain-specific Q&A pairs and knowledge bases to simulate real enterprise document structures for scalable RAG testing.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based Q&A testing across enterprise knowledge bases, with support for Python-based implementations.
+- **Scope**: Covers key RAG evaluation dimensions (retrieval, generation, and end-to-end performance) with tools for LLM evaluation, information retrieval, and generative AI assessment.
 
 ## Why It Matters
 

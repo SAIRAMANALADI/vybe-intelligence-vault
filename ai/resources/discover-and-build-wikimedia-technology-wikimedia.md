@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.wikimedia.org
-published_at: '2026-06-24T20:59:09.214704+05:30'
-collected_at: '2026-06-24T20:59:09.214713+05:30'
+published_at: '2026-06-28T01:24:03.344582+05:30'
+collected_at: '2026-06-28T01:24:03.344595+05:30'
 tags:
 - hackernews
 - paper
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:discover-and-build-wikimedia-technology-wikimedia
-first_seen: '2026-06-24T20:59:09.214713+05:30'
-last_seen: '2026-06-24T20:59:09.214713+05:30'
-last_checked: '2026-06-24T20:59:09.214713+05:30'
+first_seen: '2026-06-28T01:24:03.344595+05:30'
+last_seen: '2026-06-28T01:24:03.344595+05:30'
+last_checked: '2026-06-28T01:24:03.344595+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads for programmatic use.
-- **Tooling & Automation**: Develop bots and tools to streamline editing, maintenance, and workflows for Wikimedia projects.
-- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem by contributing to software development and community-driven projects.
+- **Content & Data APIs**: Access Wikipedia articles, media files, and structured data via public APIs and bulk downloads (e.g., RESTBase, MediaWiki Action API).
+- **Tooling & Automation**: Develop bots and tools (e.g., Pywikibot, AWB) to automate Wikimedia project maintenance and editing workflows.
+- **Open Source Contributions**: Engage in Wikimedia’s open source ecosystem (e.g., Gerrit, Phabricator) to contribute to core infrastructure and community-driven projects.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T20:59:09.214704+05:30
+- Published: 2026-06-28T01:24:03.344582+05:30
 
 ## Related Tags
 

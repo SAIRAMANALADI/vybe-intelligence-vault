@@ -6,15 +6,19 @@ source_url: https://github.com/Azure-Samples/azure-openai-rag-workshop-template
 resource_id: github:azure-samples/azure-openai-rag-workshop-template
 local_vault_path: ai/rag/azure-samples-azure-openai-rag-workshop-template.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
+- models
 - openai
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chatbot using Azure OpenAI, designed for workshop-style learning.
-- **Tech Stack**: Implemented in TypeScript, leveraging Azure OpenAI services for embedding and generation.
-- **Key Features**: Includes pre-configured pipelines for document ingestion, vector storage (Azure Cognitive Search), and RAG-based chat inference.
+- **Purpose**: Template for implementing a Retrieval-Augmented Generation (RAG) system using Azure OpenAI, enabling users to build a custom ChatGPT-like application with enhanced retrieval capabilities.
+
+- **Technical Stack**: Built in **TypeScript**, leveraging Azure OpenAI services for LLM integration and retrieval mechanisms, with sample code for end-to-end RAG pipeline implementation.
+
+- **Workshop Focus**: Provides structured guidance for deploying and fine-tuning RAG models, including vect
 
 ## Use Cases
 
