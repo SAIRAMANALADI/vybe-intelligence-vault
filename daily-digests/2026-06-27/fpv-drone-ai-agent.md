@@ -1,0 +1,51 @@
+---
+title: "kaffircatnumberonewood311/FPV-Drone-AI-Agent"
+category: "Tooling"
+tech_stack: ["C++", "MAVLink", "ExpressLRS", "Betaflight", "Windows API"]
+quality_score: 7
+rag_relevance: 6
+tags: ["autonomous drones", "AI flight control", "FPV navigation", "drone autonomy", "Betaflight integration"]
+source: "https://github.com/kaffircatnumberonewood311/FPV-Drone-AI-Agent"
+discovered_at: "2026-06-27T19:12:44Z"
+evaluated_by: "mistral-small-latest"
+---
+
+## Summary
+FPV-Drone-AI-Agent enables autonomous flight control for EMAX Nanohawk 1S FPV drones using AI, eliminating the need for manual piloting. It integrates with Betaflight flight controllers, ExpressLRS, and MAVLink for real-time drone navigation and sensor-based decision-making.
+
+## Key Features
+- Autonomous takeoff, navigation, and landing without manual input
+- AI-driven adaptive flight path adjustments using sensor data
+- MAVLink protocol integration for real-time flight controller communication
+- Compatibility with ExpressLRS for long-range control setups
+- No programming skills required for setup and operation
+
+## Why It Matters for RAG Builders
+It simplifies autonomous drone flight by leveraging AI for navigation, making it accessible for non-technical users while ensuring reliable performance with common drone hardware.
+
+## Tech Stack Deep Dive
+### C++
+Automated review identified **C++** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### MAVLink
+Automated review identified **MAVLink** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### ExpressLRS
+Automated review identified **ExpressLRS** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Betaflight
+Automated review identified **Betaflight** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Windows API
+Automated review identified **Windows API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+
+
+## Installation
+```bash
+# Install instruction (default)
+pip install -r requirements.txt
+```
+
+## Related Vault Entries
+<!-- Auto-populated by build-index.js based on tech_stack overlap -->
