@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-27 10:04 IST</p>
+        <p><b>Last Update:</b> 2026-06-27 12:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,12 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The gap between open weights LLMs and closed source LLMs](ai/community/the-gap-between-open-weights-llms-and-closed-sourc.md)** • <kbd>+91 pts</kbd>
-- 🔼 **[Ultrasound imaging of the brain](ai/community/ultrasound-imaging-of-the-brain.md)** • <kbd>+41 pts</kbd>
-- 🔼 **[Cloudflare · GitHub](ai/agents/cloudflare-github.md)** • Rank: <kbd>+1116</kbd>
-- 🔼 **[GitHub Status](ai/rag/github-status.md)** • Rank: <kbd>+59</kbd>
-- 🔼 **[Data Scientist Courses | Free Neo4j Courses from GraphAcademy](ai/rag/data-scientist-courses-free-neo4j-courses-from-gra.md)** • Rank: <kbd>+308</kbd>
+- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](ai/community/u-s-allows-anthropic-to-release-mythos-ai-to-trust.md)** • Score: `294`
-- 🆕 **[AI in mathematics is forcing big questions](ai/community/ai-in-mathematics-is-forcing-big-questions.md)** • Score: `75`
-- 🆕 **[Show HN: Hacker News on a train station-style flip board](ai/community/show-hn-hacker-news-on-a-train-station-style-flip.md)** • Score: `32`
-- 🆕 **[Ask HN: MacBook vs. Dedicated GPU for LLM](ai/community/ask-hn-macbook-vs-dedicated-gpu-for-llm.md)** • Score: `9`
-- 🆕 **[Kamod Hooks – a Preact hooks library ported from ahooks](web-development/community/kamod-hooks-a-preact-hooks-library-ported-from-aho.md)** • Score: `3`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
