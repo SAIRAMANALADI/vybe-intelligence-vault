@@ -1,27 +1,27 @@
 ---
 title: "brokermr810/QuantDinger"
 category: "Orchestrator"
-tech_stack: ["Python", "Docker", "PostgreSQL", "Redis", "FastAPI", "CCXT", "IBKR API", "Alpaca API", "Agent Gateway", "MCP (Model Context Protocol)", "React", "TypeScript", "Docker Compose"]
+tech_stack: ["Python", "Docker", "PostgreSQL", "Redis", "CCXT", "FastAPI", "React", "TypeScript", "MCP (Model Context Protocol)", "OAuth", "Celery", "GHCR (GitHub Container Registry)"]
 quality_score: 9
 rag_relevance: 8
-tags: ["quantitative trading", "AI-driven strategies", "self-hosted", "multi-broker execution", "backtesting"]
+tags: ["quantitative trading", "AI agent framework", "self-hosted", "multi-broker execution", "backtesting"]
 source: "https://github.com/brokermr810/QuantDinger"
-discovered_at: "2026-06-28T20:14:18Z"
+discovered_at: "2026-06-28T22:05:08Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-QuantDinger is an open-source, self-hosted AI infrastructure layer designed for quantitative trading, enabling users to transform trading ideas into Python strategies, backtests, paper trading, and live execution within a unified stack.
+QuantDinger is an open-source, self-hosted AI infrastructure layer for quantitative trading that unifies research, strategy development, backtesting, paper/live execution, and monitoring into a single stack. It enables users to turn trading ideas into executable Python strategies with multi-LLM agent support and multi-broker connectivity.
 
 ## Key Features
-- Unified stack for AI research, strategy development, backtesting, and live execution in one self-hosted environment
-- Multi-venue execution support (crypto, stocks, forex) via CCXT, IBKR, and Alpaca APIs
-- Agent-native architecture with MCP integration for AI agents (Cursor, Claude Code, Codex) to interact with trading systems
-- Production-grade infrastructure with PostgreSQL 16, Redis 7, and Docker multi-arch images (amd64/arm64)
-- Security-first model with paper-only trading by default, audit logging, and user-controlled exchange keys
+- Unified workflow from AI research to live execution with audit logging
+- Dual strategy runtimes: vectorized IndicatorStrategy and event-driven ScriptStrategy
+- Multi-venue execution support (CCXT crypto, IBKR, Alpaca) with isolated multi-tenant sessions
+- Agent Gateway integration for AI agents (Cursor, Claude Code) with paper-only trading by default
+- Production-grade infrastructure with PostgreSQL 16, Redis 7, and Docker Compose deployment
 
 ## Why It Matters for RAG Builders
-QuantDinger provides a critical bridge between AI research and executable trading strategies, enabling RAG builders to integrate real-world market execution with AI-driven decision-making in a self-hosted, secure environment.
+QuantDinger provides a critical orchestration layer for RAG/AI stack builders by enabling seamless integration of AI-driven trading strategies with robust backtesting, execution, and monitoring capabilities in a self-hosted environment.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -36,23 +36,11 @@ Automated review identified **PostgreSQL** as a key module contributing to infra
 ### Redis
 Automated review identified **Redis** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### FastAPI
-Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
 ### CCXT
 Automated review identified **CCXT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### IBKR API
-Automated review identified **IBKR API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Alpaca API
-Automated review identified **Alpaca API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Agent Gateway
-Automated review identified **Agent Gateway** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### FastAPI
+Automated review identified **FastAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### React
 Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -60,8 +48,17 @@ Automated review identified **React** as a key module contributing to infrastruc
 ### TypeScript
 Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker Compose
-Automated review identified **Docker Compose** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OAuth
+Automated review identified **OAuth** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Celery
+Automated review identified **Celery** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### GHCR (GitHub Container Registry)
+Automated review identified **GHCR (GitHub Container Registry)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
