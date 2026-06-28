@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-06-29T01:20:15.258846+05:30'
+collected_at: '2026-06-29T03:48:44.246947+05:30'
 published_at: '2026-06-27T09:27:48Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- scripts
 - shell
 - workflows
 stars: 56
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-06-29T01:20:15.258846+05:30'
-last_seen: '2026-06-29T01:20:15.258846+05:30'
-last_checked: '2026-06-29T01:20:15.258846+05:30'
+first_seen: '2026-06-29T03:48:44.246947+05:30'
+last_seen: '2026-06-29T03:48:44.246947+05:30'
+last_checked: '2026-06-29T03:48:44.246947+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Setup & Configuration**: Repository provides structured guidelines for initializing and configuring Claude Code, including `CLAUDE.md` templates for standardized project interactions and environment setup.
+- **Repository Structure**: Contains `CLAUDE.md` templates, workflow configurations, multi-agent patterns, and cost optimization strategies for Claude Code, primarily implemented in Shell scripts.
 
-- **Multi-Agent & Workflow Patterns**: Implements optimized workflows and multi-agent collaboration patterns to enhance AI-driven development efficiency, including cost-saving strategies for LLM interactions.
+- **Key Features**: Provides setup guidelines, CLI best practices, and MCP (Model Context Protocol) integration patterns for optimizing AI agent interactions and workflows.
 
-- **Cost Optimization & MCP Integration**: Focuses on minimizing operational costs through efficient resource utilization and integrates Model Context Protocol (MCP) for enhanced AI agent coordination.
+- **Maintenance**: Last updated on **2026-06-27**, with 56 stars and 10 forks, focusing on agentic AI, Anthropic's tools, and LLM-driven development workflows.
 
 ## Why It Matters
 

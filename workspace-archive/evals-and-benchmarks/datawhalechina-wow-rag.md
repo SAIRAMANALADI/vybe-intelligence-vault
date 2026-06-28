@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments.
+- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebook, designed for modularity and ease of deployment.
 
-- **Technical Stack**: Utilizes Python-based libraries (e.g., `langchain`, `sentence-transformers`) for embeddings, vector storage (FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
+- **Key Components**: Includes document preprocessing, vector embedding (e.g., via FAISS or Chroma), retrieval mechanisms, and LLM integration for contextual generation.
 
-- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end
+- **Tutorial Integration**: Provides step-by-step notebooks covering end-to-end RAG pipelines, from data ingestion to evaluation, with examples
 
 ## Use Cases
 

@@ -12,7 +12,6 @@ resource_kind: workflow
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Sphinx is a Python-based documentation generator supporting both reStructuredText and Markdown for technical documentation.
-- **Features**: Enables cross-referencing, syntax highlighting, and automated builds for large-scale documentation projects.
-- **Integration**: Supports extensions, themes, and output formats (HTML, LaTeX, ePub) for extensible documentation workflows.
+- **Core Functionality**: Sphinx is a Python-based documentation generator that converts reStructuredText (RST) and Markdown markup into static websites, PDFs, or other output formats using customizable themes and extensions.
+
+- **Key Features**: Supports cross-referencing, syntax highlighting, and automated API documentation generation (e.g., via `autodoc`), with built-in search and versioning capabilities.
+
+- **Extensibility**: Highly modular architecture allows integration with plugins (e.g.,
 
 ## Use Cases
 

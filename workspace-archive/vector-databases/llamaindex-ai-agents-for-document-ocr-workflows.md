@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **VLM-Powered Document Parsing**: LlamaParse uses Vision-Language Models (VLM) to automate document processing, converting complex layouts (tables, charts, handwriting) into structured, LLM-ready outputs with agentic OCR, reducing manual effort from hours to seconds.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring specialized experts for text, charts, tables, and handwritten content, with auto-correction loops for error detection and resolution.
 
-- **Enterprise-Grade Features**: Supports 50+ unstructured file types, schema-based extraction, auto-correction loops, and enterprise-grade chunking/embedding for high-precision RAG; includes 10K free credits/month (~1K pages), H
+- **Structured Extraction & Enterprise Features**: Supports schema-based structured extraction, enterprise-grade chunking/embedding, and 50+ unstructured file formats; includes 10K free credits/month, HIPAA/GDPR/SOC2 compliance, 9
 
 ## Use Cases
 

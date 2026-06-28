@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crazyaiml/nl-2-sql-agent
-collected_at: '2026-06-25T23:00:13.703987+05:30'
+collected_at: '2026-06-29T03:51:11.760962+05:30'
 published_at: '2026-05-12T03:38:34Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-04-23T05:50:00Z'
 pushed_at: '2026-05-12T03:38:31Z'
 resource_id: github:crazyaiml/nl-2-sql-agent
-first_seen: '2026-06-25T23:00:13.703987+05:30'
-last_seen: '2026-06-25T23:00:13.703987+05:30'
-last_checked: '2026-06-25T23:00:13.703987+05:30'
+first_seen: '2026-06-29T03:51:11.760962+05:30'
+last_seen: '2026-06-29T03:51:11.760962+05:30'
+last_checked: '2026-06-29T03:51:11.760962+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Schema & Context Learning**: Implements an iterative NL-to-SQL agent that dynamically learns database schema and domain context to generate analytical SQL queries.
+- **Schema-Aware NL-to-SQL Agent**: Implements an iterative reasoning agent that dynamically learns database schema and domain context to generate evidence-backed SQL queries from natural language inputs.
 
-- **Guarded Reasoning**: Uses evidence-backed SQL generation with iterative refinement, ensuring correctness and mitigating hallucinations in query construction.
+- **PostgreSQL Integration**: Utilizes PostgreSQL for robust SQL execution and leverages React-pattern for structured agent workflows, ensuring iterative refinement of queries based on intermediate results.
 
-- **Tech Stack**: Built in Python with PostgreSQL integration, leveraging LLM-based agents and React-pattern for frontend interaction.
+- **LLM-Driven Guardrails**: Employs a guarded mechanism using large language models (LLMs) to validate SQL generation, mitigate errors, and ensure analytical question answering adheres to domain-specific constraints.
 
 ## Why It Matters
 

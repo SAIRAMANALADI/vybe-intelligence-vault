@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Research Agent**: The `/research` command in GitHub Copilot CLI deploys a specialized agent that autonomously gathers and synthesizes in-depth information from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Autonomous Research Agent**: The `/research` command in GitHub Copilot CLI deploys a specialized agent that autonomously gathers and synthesizes in-depth technical insights from local codebases, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
 
-- **Adaptive Report Generation**: The agent adapts its output format based on query type (process/how-to, conceptual, or technical deep-dive), generating structured reports with ar
+- **Adaptive Output & Sharing**: Reports dynamically adapt to query types (process, conceptual, or technical deep-dive) and include architecture diagrams, code snippets, and
 
 ## Use Cases
 

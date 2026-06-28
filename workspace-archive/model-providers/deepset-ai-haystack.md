@@ -1,33 +1,34 @@
 ---
-title: deepset-ai/haystack · Discussions · GitHub
+title: deepset-ai/haystack
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/discussions
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
-- hackernews
+- github-repo
+- mdx
+- models
+- openai
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack · Discussions · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack GitHub Repository**: Open-source framework by deepset-ai for building RAG pipelines, with 25.8k stars, 2.9k forks, and active development (82 issues, 20 PRs).
+- **Modular AI Orchestration Framework**: Enables building production-grade LLM applications with explicit control over retrieval, routing, memory, and generation components via customizable pipelines and agent workflows.
 
-- **Community Tools & Discussions**: Active discussions on debugging retrieval failures, RAG quality, and security (e.g., AgentShield for runtime security, Haystack Diagnostics Engine for pipeline validation).
+- **Multi-Paradigm Support**: Facilitates scalable agents, RAG, multimodal systems, semantic search, and conversational AI through a unified Python-based architecture leveraging PyTorch and Transformers.
 
-- **Technical Focus Areas**: Recent community contributions include async execution bridges, memory guard mechanisms
+- **Context-Engineered & Extensible**: Designed for high-performance inf
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/discussions
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

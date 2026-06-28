@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-29T01:18:10.175812+05:30'
-published_at: '2026-06-28T18:01:16Z'
+collected_at: '2026-06-29T03:46:39.095397+05:30'
+published_at: '2026-06-28T21:33:14Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 26127
+- workflows
+stars: 26128
 language: Python
 status: active
 license: AGPL-3.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-05T07:11:17Z'
 pushed_at: '2026-06-28T17:44:44Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-29T01:18:10.175812+05:30'
-last_seen: '2026-06-29T01:18:10.175812+05:30'
-last_checked: '2026-06-29T01:18:10.175812+05:30'
+first_seen: '2026-06-29T03:46:39.095397+05:30'
+last_seen: '2026-06-29T03:46:39.095397+05:30'
+last_checked: '2026-06-29T03:46:39.095397+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Context Management**: OpenViking implements a file system-like paradigm to unify and hierarchically manage context (memory, resources, skills) for AI Agents, enabling structured and scalable context delivery.
+- **Unified Context Management**: OpenViking provides a file system-based paradigm for hierarchical context delivery (memory, resources, and skills) in AI Agents, enabling self-evolving context management.
 
-- **Self-Evolving Architecture**: Designed for dynamic adaptation, OpenViking supports self-evolving capabilities, allowing AI Agents to autonomously refine and expand their context and skill sets over time.
+- **Integration with AI Agents**: Designed for compatibility with AI Agents like OpenClaw, facilitating structured context engineering and retrieval-augmented generation (RAG) workflows.
 
-- **Integration with AI Agents**: Optimized for frameworks like OpenClaw, OpenViking serves as a context database and engine, facilitating Agentic RAG (Retrieval-Augmented Generation) and skill-based interactions via a filesystem-based interface.
+- **Open-Source Python Framework**: Implements a filesystem-like interface for context storage and retrieval, optimized for agentic RAG and skill-based LLM interactions.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: volcengine
-- Stars: 26127
-- Forks: 2028
+- Stars: 26128
+- Forks: 2027
 - Language: Python
 - Topics: agent, agentic-rag, ai-agents, clawbot, context-database, context-engineering, filesystem, llm, memory, openclaw, opencode, rag, skill
-- Last Updated: 2026-06-28T18:01:16Z
+- Last Updated: 2026-06-28T21:33:14Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-01-05T07:11:17Z

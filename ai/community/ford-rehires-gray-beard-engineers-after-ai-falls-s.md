@@ -13,13 +13,14 @@ collected_at: '2026-06-29T01:16:52.487051+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ford-rehires-gray-beard-engineers-after-ai-falls-s
 first_seen: '2026-06-29T01:16:52.487051+05:30'
 last_seen: '2026-06-29T01:16:52.487051+05:30'
 last_checked: '2026-06-29T01:16:52.487051+05:30'
 health_score: 100
 ---
+
 
 # Ford rehires 'gray beard' engineers after AI falls short
 

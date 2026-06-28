@@ -11,7 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -30,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate semantic information from retrieved data, enhancing contextual relevance in RAG pipelines.
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively refine query results, improving precision and reducing noise in generated outputs.
-- **Optimized for AAAI 2026**: Designed for high-performance generation tasks, leveraging Python for efficient integration with moder
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → full graph) and semantic aggregation for improved contextual relevance.
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+- **AAAI 2026 Benchmarking**: Evaluated on standard RAG benchmarks with reported gains in factuality, coherence, an
 
 ## Use Cases
 

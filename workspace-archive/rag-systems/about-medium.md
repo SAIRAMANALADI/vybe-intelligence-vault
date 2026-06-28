@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Mission & Model**: Medium is a platform prioritizing depth, nuance, and thoughtful discourse over sensationalism, funded by a community of over 1M members rather than ads or data monetization.
-- **User Base & Content**: Hosts 100M+ monthly users (developers, designers, executives, etc.) sharing insights, experiences, and expertise via long-form writing on niche and broad topics.
-- **Platform Features**: Provides minimalist, collaborative writing tools with built-in audience discovery, elimin
+- **Platform Purpose**: Medium is a content publishing platform designed to prioritize depth, nuance, and thoughtful conversation over sensationalism, enabling writers to share insights without requiring pre-existing audiences or mailing lists.
+
+- **User Base & Monetization**: Hosts over 100M monthly users (developers, designers, CEOs, etc.) and operates without ads/data sales, relying instead on a subscription-based model with over 1M paying members.
+
+- **Mission & Values**: Aims to foster coll
 
 ## Use Cases
 

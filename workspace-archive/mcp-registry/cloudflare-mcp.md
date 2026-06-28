@@ -6,13 +6,13 @@ source_url: https://github.com/cloudflare/mcp
 resource_id: github:cloudflare/mcp
 local_vault_path: ai/resources/cloudflare-mcp.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
 tags:
 - github-repo
-- hackernews
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: MCP server providing programmatic access to Cloudflare's API via the Model Context Protocol (MCP).
-- **Technical Stack**: Implemented in TypeScript, designed to integrate with Cloudflare Workers and other MCP-compatible clients.
-- **Repository Metadata**: 580 stars, 71 forks, last updated June 28, 2026.
+- **TypeScript-based MCP server** enabling programmatic interaction with Cloudflare's API for automation and integration.
+- **Supports Cloudflare Workers** and broader Cloudflare services via the MCP protocol for structured tooling.
+- **Last updated June 2026**, with 580 stars and 71 forks, indicating active community engagement.
 
 ## Use Cases
 

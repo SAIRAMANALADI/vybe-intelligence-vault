@@ -14,7 +14,6 @@ tags:
 - c++
 - github-repo
 - rag
-- reddit
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to render HTML/CSS/JS apps natively across Windows, macOS, and Linux.
-- **Architecture**: Combines a modified Chromium browser engine with Node.js runtime, exposing native APIs (e.g., file system, OS interactions) via JavaScript bindings.
-- **Performance & Security**: Uses multi-process model (renderer/main processes) with sandboxing (via `sandbox: true` flag) to isolate untrusted content and mitigate exploits.
+- **Cross-platform desktop framework**: Electron enables building desktop applications using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
+
+- **Core architecture**: Combines V8 JavaScript engine, Chromium browser components, and Node.js runtime in a C++-based framework to support native desktop app development.
+
+- **Development ecosystem**: Supports integration with tools like CodeSandbox, integrates with C++ for native modules, and targets des
 
 ## Use Cases
 

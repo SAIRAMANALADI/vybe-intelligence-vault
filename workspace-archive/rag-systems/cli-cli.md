@@ -13,7 +13,6 @@ importance: high
 tags:
 - github-repo
 - go
-- hackernews
 - rag
 - scripts
 - workflows
@@ -36,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Official GitHub CLI tool for interacting with GitHub repositories and APIs via command line.
-- **Technical Stack**: Implemented in Go, leveraging GitHub's GraphQL API (v4) for operations.
-- **Features**: Supports Git operations, GitHub API interactions, and workflow automation with 45,032+ GitHub stars.
+- **Implementation**: Built in Go, leveraging GitHub's GraphQL API (v4) for efficient data fetching and mutation.
+- **Features**: Supports CLI operations for Git/GitHub workflows, including issue/PR management, repository interactions, and API automation.
 
 ## Use Cases
 

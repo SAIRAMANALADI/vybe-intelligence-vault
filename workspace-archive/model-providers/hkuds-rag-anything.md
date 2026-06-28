@@ -18,7 +18,6 @@ tags:
 - python
 - rag
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Provides plug-and-play components for document parsing, embedding, vector storage, retrieval, and generation, enabling customizable RAG workflows.
-- **Optimized for Scalability**: Supports distributed vector search (e.g., FAISS, Milvus) and integrates with LLMs (e.g., Llama,
+- **Unified Multi-Modal RAG Framework**: Implements a single, extensible Python-based framework supporting retrieval-augmented generation (RAG) across text, images, audio, and structured data modalities, leveraging unified embedding and retrieval mechanisms.
+
+- **Modular Architecture**: Features plug-and-play components for document parsing, vector indexing (FAISS/Weaviate), reranking (e.g., ColBERTv2), and LLM integration (e.g., Llama, Mistral), enabling customizable pipelines for diverse RAG w
 
 ## Use Cases
 

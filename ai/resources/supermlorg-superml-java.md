@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supermlorg/superml-java/discussions
-published_at: '2026-06-29T01:20:55.820992+05:30'
-collected_at: '2026-06-29T01:20:55.821008+05:30'
+published_at: '2026-06-29T03:49:24.775030+05:30'
+collected_at: '2026-06-29T03:49:24.775056+05:30'
 tags:
+- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: github:supermlorg/superml-java
-first_seen: '2026-06-29T01:20:55.821008+05:30'
-last_seen: '2026-06-29T01:20:55.821008+05:30'
-last_checked: '2026-06-29T01:20:55.821008+05:30'
+first_seen: '2026-06-29T03:49:24.775056+05:30'
+last_seen: '2026-06-29T03:49:24.775056+05:30'
+last_checked: '2026-06-29T03:49:24.775056+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Java-based machine learning library** developed under the `supermlorg` GitHub organization, designed for scalable ML workflows in JVM environments.
-- **Repository metrics**: 5 GitHub stars, 1 fork, 1 open issue, and 1 open pull request as of the latest snapshot.
-- **Discussion categories** include Announcements, General, Ideas, Polls, Q&A, and Show-and-Tell for community engagement and support.
+- **Java-based machine learning library** under the `supermlorg` GitHub organization, currently with **1 fork and 5 stars**.
+- **Repository includes** GitHub Actions, Issues, Pull Requests, and a **dedicated Discussions tab** for community engagement.
+- **Primary focus** appears to be **machine learning tools/models** for Java, with a hosted documentation site at `superml-java.superml.org`.
 
 ## Why It Matters
 
@@ -33,12 +33,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T01:20:55.820992+05:30
+- Published: 2026-06-29T03:49:24.775030+05:30
 
 ## Related Tags
 
+- scripts
 - web-crawled
-- workflows
 
 ## Source
 

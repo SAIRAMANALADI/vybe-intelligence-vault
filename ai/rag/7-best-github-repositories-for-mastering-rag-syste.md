@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-06-29T01:17:37.019691+05:30'
-collected_at: '2026-06-29T01:17:37.019703+05:30'
+published_at: '2026-06-29T03:46:06.532302+05:30'
+collected_at: '2026-06-29T03:46:06.532314+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-29T01:17:37.019703+05:30'
-last_seen: '2026-06-29T01:17:37.019703+05:30'
-last_checked: '2026-06-29T01:17:37.019703+05:30'
+first_seen: '2026-06-29T03:46:06.532314+05:30'
+last_seen: '2026-06-29T03:46:06.532314+05:30'
+last_checked: '2026-06-29T03:46:06.532314+05:30'
 health_score: 100
 ---
 
@@ -36,11 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components for document loading, text splitting, embedding, retrieval, and output generation in RAG pipelines; supports Python, JavaScript, and TypeScript with integrations to OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JavaScript, TypeScript), integrating with providers like OpenAI, Hugging Face, and Azure.
 
-- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise search and QA systems, featuring modular pipelines, document stores (Elasticsearch, Weaviate), and pre-built components for indexing, retrieval, and generation.
+- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring advanced OCR, layout analysis, and vector database integration for high-precision retrieval and context-aware LLM responses.
 
-- **LlamaIndex**: Data framework for building RAG applications with focus on indexing and querying large-scale datasets; provides connectors for APIs, databases, and unstructured data, with advanced retrieval strategies (e.g., keyword, vector, hybrid search).
+- **Haystack by deepset-ai**: Modular NLP framework for scalable RAG systems, supporting document retrieval, question answering, and evaluation with pre-built pipelines and connectors for Elasticsearch, Weaviate, and other vector stores.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:17:37.019691+05:30
+- Published: 2026-06-29T03:46:06.532302+05:30
 
 ## Related Tags
 

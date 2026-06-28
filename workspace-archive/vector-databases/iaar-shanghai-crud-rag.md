@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG provides a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance across diverse tasks including **C**omplex query handling, **R**etrieval accuracy, **U**nderstanding depth, and **D**ocument-grounded generation.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval quality, generation coherence, and cross-domain robustness).
 
-- **Evaluation Framework**: Implements a structured evaluation pipeline with standardized metrics for assessing RAG models on Chinese datasets, emphasizing **retrieval precision**, **
+- **Evaluation Framework**: Implements a structured pipeline with standardized metrics for assessing RAG performance, including retrieval precision/recall, contextual relevance, and factual accuracy in generated outputs.
+
+-
 
 ## Use Cases
 

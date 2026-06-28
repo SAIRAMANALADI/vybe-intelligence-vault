@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - frontend_ui
+- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **QUIC/HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern edge networking requirements.
+- **QUIC & HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern web standards.
 
-- **Edge Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is Cloudflare's C++-based JavaScript/Wasm runtime powering Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) (TypeScript) provides the CLI (`Wrangler`) for de
+- **Workers Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is a C++-based JavaScript/Wasm runtime powering Cloudflare Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) provides the TypeScript-based CLI (`Wrangler`) for deployme
 
 ## Use Cases
 

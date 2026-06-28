@@ -7,10 +7,10 @@ source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmen
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
 local_vault_path: ai/rag/what-is-retrieval-augmented-generation-and-what-do.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - hackernews
 - rag
@@ -26,16 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to open-source documentation and community engagement.
-- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and best practices.
-- **Social Presence**: Maintains a GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and shares technical insights under the GitHub Blog author tag.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to documentation, blog posts, and community engagement under the handle [@nicchoi29](https://github.com/nicchoi29).
+
+- **GitHub Contributions**: Focuses on technical content, including tutorials, best practices, and updates related to GitHub’s platform, tools, and developer workflows.
+
+- **Community Engagement**: Actively participates in GitHub’s technical community via blog posts, GitHub discu
 
 ## Use Cases
 

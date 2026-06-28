@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ritik-prog/n8n-automation-templates-5000
-collected_at: '2026-06-29T01:18:00.102658+05:30'
+collected_at: '2026-06-29T03:46:29.104283+05:30'
 published_at: '2026-06-27T17:48:31Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-08-05T16:00:00Z'
 pushed_at: '2026-04-29T05:59:09Z'
 resource_id: github:ritik-prog/n8n-automation-templates-5000
-first_seen: '2026-06-29T01:18:00.102658+05:30'
-last_seen: '2026-06-29T01:18:00.102658+05:30'
-last_checked: '2026-06-29T01:18:00.102658+05:30'
+first_seen: '2026-06-29T03:46:29.104283+05:30'
+last_seen: '2026-06-29T03:46:29.104283+05:30'
+last_checked: '2026-06-29T03:46:29.104283+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `ritik-prog/n8n-automation-templates-5000` – A GitHub repository hosting **5,000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Key Features**: **Open-source, free-to-use** templates designed for real-world automation with **403 stars** and **161 forks** as of the last update.
-- **Last Updated**: **June 27, 2026** – Repository remains actively maintained with the latest commit timestamp.
+- **Repository**: `ritik-prog/n8n-automation-templates-5000` offers **5,000+ production-ready n8n workflow templates** covering AI, CRM, finance, e-commerce, marketing, and RAG automation.
+- **Metadata**: 403 stars, 161 forks, last updated **2026-06-27T17:48:31Z**, language unspecified, no topics listed.
+- **Access**: Fully **open-source and free** to use for automation workflows.
 
 ## Why It Matters
 

@@ -8,7 +8,7 @@ local_vault_path: ai/resources/home-page-yarn.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
@@ -24,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Unified Package & Project Management**: Yarn 4+ serves as both a package manager and project manager, supporting simple projects to large-scale monorepos with features like workspaces for modular sub-component management.
+- **Workspaces**: Yarn is the first package manager designed specifically for workspaces, enabling efficient management of multi-package repositories (monorepos) by splitting projects into sub-components for modular development and dependency isolation.
 
-- **Deterministic & Future-Proof Installs**: Implements strict stability guarantees ensuring reproducible builds across environments and future Yarn versions via deterministic dependency resolution and zero-installs.
+- **Stability & Reproducibility**: Yarn ensures deterministic and stable dependency resolution, guaranteeing that installations remain consistent across time and environments, mitigating "works on my machine" issues.
 
-- **Extensible Plugin Architecture**: Provides a robust
+- **Plugin Architecture**:
 
 ## Use Cases
 

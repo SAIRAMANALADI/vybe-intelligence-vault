@@ -7,12 +7,13 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
+- hackernews
 - models
 - openai
 - paper
@@ -29,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process consisting of **document loading**, **chunking**, **embedding/indexing** (using ChromaDB), **retrieval** (semantic search via vector similarity), and **generation** (LLM synthesis grounded in retrieved context).
-- **Chunking Strategy**: Documents are split into **512-token chunks with 50-token overlap** using `RecursiveCharacterTextSplitter` to balance semantic coherence and retrieval granularity.
-- **Production Enhancements**: **Cross-encoder re-ranking** (e
+- **RAG Pipeline**: A 5-step process comprising **loading documents**, **chunking text**, **embedding chunks** into vectors, **retrieving relevant chunks** via semantic similarity search, and **generating grounded answers** using an LLM with retrieved context.
+
+- **Technical Implementation**: Uses **LangChain** for document processing, **ChromaDB** for vector storage, and **OpenAI's embedding/Chat models** (e.g., `text-embedding-3-small`, `gpt-4o-mini`) for embeddings and generation, with modula
 
 ## Use Cases
 

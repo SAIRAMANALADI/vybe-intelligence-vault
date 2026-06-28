@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Next.js Template**: Production-ready starter kit optimized for Next.js with TypeScript, designed for scalability and performance.
-- **AI-Powered Workflow**: Integrates 6 specialized AI agents to automate development tasks (e.g., code generation, testing, debugging).
-- **High Activity**: 323 stars, 795 forks, last updated June 28, 2026, indicating active maintenance and community engagement.
+- **Next.js Template**: Production-ready starter kit with Next.js (TypeScript) for scalable web applications.
+- **AI Agents**: Integrates 6 specialized AI agents automating development workflows (e.g., code generation, debugging, testing).
+- **Workflow**: Optimized for rapid deployment with AI-driven CI/CD integration and modular agent architecture.
 
 ## Use Cases
 

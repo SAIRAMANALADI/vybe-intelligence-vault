@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-06-29T01:18:05.163490+05:30'
+collected_at: '2026-06-29T03:46:34.344092+05:30'
 published_at: '2026-06-28T18:12:07Z'
 tags:
 - github-repo
-- hackernews
 - java
 - rag
+- workflows
 stars: 26089
 language: Java
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-06-25T08:00:07Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-06-29T01:18:05.163490+05:30'
-last_seen: '2026-06-29T01:18:05.163490+05:30'
-last_checked: '2026-06-29T01:18:05.163490+05:30'
+first_seen: '2026-06-29T03:46:34.344092+05:30'
+last_seen: '2026-06-29T03:46:34.344092+05:30'
+last_checked: '2026-06-29T03:46:34.344092+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility compliance (e.g., PDF/UA) and automated OCR for non-text elements.
+- **Java-based PDF Parser**: Open-source tool designed to convert PDFs into AI-ready formats (HTML, JSON, Markdown) with OCR support for accessibility and structured extraction (tables, bounding boxes, tagged PDFs).
 
-- **Multi-format Output**: Converts PDFs to structured formats (HTML, JSON, Markdown) with bounding-box and table detection, enabling downstream AI/ML applications (e.g., RAG pipelines).
+- **AI & Accessibility Features**: Implements PDF/UA and WCAG standards for automated accessibility remediation, enabling RAG (Retrieval-Augmented Generation) pipelines and document parsing for AI applications.
 
-- **Accessibility & Tagged PDF Support**: Implements EAA/WCAG standards, preserves document structure via tagged PDFs, and ensures semantic extraction for assistive technologies.
+- **Multi-Format Output**: Supports conversion to HTML, JSON, and Markdown while preserving document structure, metadata, and OCR-recognized text for downstream AI/ML workflows.
 
 ## Why It Matters
 

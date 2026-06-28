@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports structured/unstructured data (text, images, tables) with graph-based retrieval for context-aware RAG pipelines.
-- **AI agents & MCP integration**: Enables autonomous agents with Model Context Protocol (MCP) for dynamic tool orchestration and real-time knowledge updates.
-- **Scalable K8s deployment**: Containerized architecture with Helm charts for distributed GraphRAG execution, optimized for high-throughput production environments.
+- **Multi-modal indexing**: Supports both textual and non-textual data (e.g., images, documents) for unified graph-based retrieval in GraphRAG pipelines.
+- **AI agents & MCP integration**: Enables autonomous agent workflows with Model Context Protocol (MCP) for dynamic tool orchestration and external system interaction.
+- **Scalable K8s deployment**: Designed for Kubernetes-native scaling with containerized services, ensuring high availability and distributed processing for large-scale RAG appli
 
 ## Use Cases
 

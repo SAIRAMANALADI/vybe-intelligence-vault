@@ -4,11 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp
-collected_at: '2026-06-28T22:13:12.940890+05:30'
+collected_at: '2026-06-29T03:51:11.865185+05:30'
 published_at: '2026-06-28T12:04:52Z'
 tags:
 - github-repo
-- hackernews
+- scripts
 - typescript
 stars: 580
 language: TypeScript
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-01-29T15:10:49Z'
 pushed_at: '2026-06-22T15:47:30Z'
 resource_id: github:cloudflare/mcp
-first_seen: '2026-06-28T22:13:12.940890+05:30'
-last_seen: '2026-06-28T22:13:12.940890+05:30'
-last_checked: '2026-06-28T22:13:12.940890+05:30'
+first_seen: '2026-06-29T03:51:11.865185+05:30'
+last_seen: '2026-06-29T03:51:11.865185+05:30'
+last_checked: '2026-06-29T03:51:11.865185+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: MCP server providing programmatic access to Cloudflare's API via the Model Context Protocol (MCP).
-- **Technical Stack**: Implemented in TypeScript, designed to integrate with Cloudflare Workers and other MCP-compatible clients.
-- **Repository Metadata**: 580 stars, 71 forks, last updated June 28, 2026.
+- **TypeScript-based MCP server** enabling programmatic interaction with Cloudflare's API for automation and integration.
+- **Supports Cloudflare Workers** and broader Cloudflare services via the MCP protocol for structured tooling.
+- **Last updated June 2026**, with 580 stars and 71 forks, indicating active community engagement.
 
 ## Why It Matters
 

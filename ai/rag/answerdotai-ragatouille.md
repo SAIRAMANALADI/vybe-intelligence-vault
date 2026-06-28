@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AnswerDotAI/RAGatouille
-collected_at: '2026-06-28T22:11:19.596079+05:30'
+collected_at: '2026-06-29T03:49:19.303466+05:30'
 published_at: '2026-06-25T11:17:43Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 stars: 3939
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-12-29T16:26:42Z'
 pushed_at: '2025-05-17T12:45:38Z'
 resource_id: github:answerdotai/ragatouille
-first_seen: '2026-06-28T22:11:19.596079+05:30'
-last_seen: '2026-06-28T22:11:19.596079+05:30'
-last_checked: '2026-06-28T22:11:19.596079+05:30'
+first_seen: '2026-06-29T03:49:19.303466+05:30'
+last_seen: '2026-06-29T03:49:19.303466+05:30'
+last_checked: '2026-06-29T03:49:19.303466+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **ColBERT Integration**: Provides a modular and user-friendly Python library for implementing late-interaction retrieval methods (specifically ColBERT) in Retrieval-Augmented Generation (RAG) pipelines, leveraging state-of-the-art retrieval techniques.
+- **ColBERT Integration**: Provides a modular Python library for implementing ColBERT (Contextualized Late Interaction over BERT) in RAG pipelines, enabling efficient late-interaction retrieval with BERT-based embeddings.
 
-- **Research-Backed Design**: Built with a focus on modularity and ease of use while being grounded in academic research, enabling efficient training and deployment of ColBERT-based retrieval systems.
+- **Training & Inference Support**: Enables both training and inference of ColBERT models, optimized for modular integration into existing RAG architectures with minimal overhead.
 
-- **Active Maintenance**: Last updated in June 2026, ensuring ongoing support, updates, and compatibility with modern RAG frameworks.
+- **Research-Backed & Maintained**: Actively maintained (last updated June 2026) with a growing community (3,939 stars, 271 forks), ensuring alignment with state-of-the-art retrieval advancements.
 
 ## Why It Matters
 

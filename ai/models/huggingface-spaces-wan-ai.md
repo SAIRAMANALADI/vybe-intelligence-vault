@@ -4,16 +4,16 @@ category: ai/models
 source_type: huggingface_space
 source_name: Hugging Face Trending Spaces
 source_url: https://huggingface.co/spaces/wan-ai
-published_at: '2026-06-29T01:16:50.347388+05:30'
-collected_at: '2026-06-29T01:16:50.347396+05:30'
+published_at: '2026-06-29T03:45:14.116297+05:30'
+collected_at: '2026-06-29T03:45:14.116301+05:30'
 tags:
 - hf-space
 - huggingface
 status: active
 resource_id: huggingface:spaces/wan-ai
 first_seen: '2026-06-18T23:35:18.515084+05:30'
-last_seen: '2026-06-29T01:16:50.347396+05:30'
-last_checked: '2026-06-29T01:16:50.347396+05:30'
+last_seen: '2026-06-29T03:45:14.116301+05:30'
+last_checked: '2026-06-29T03:45:14.116301+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Spaces
 - Category: ai/models
-- Published: 2026-06-29T01:16:50.347388+05:30
+- Published: 2026-06-29T03:45:14.116297+05:30
 
 ## Related Tags
 

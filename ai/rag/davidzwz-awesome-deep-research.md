@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-29T01:19:20.216091+05:30'
+collected_at: '2026-06-29T03:47:49.140639+05:30'
 published_at: '2026-06-28T15:23:41Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - paper
 - rag
 - unknown
-- workflows
 stars: 781
 language: Unknown
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-29T01:19:20.216091+05:30'
-last_seen: '2026-06-29T01:19:20.216091+05:30'
-last_checked: '2026-06-29T01:19:20.216091+05:30'
+first_seen: '2026-06-29T03:47:49.140639+05:30'
+last_seen: '2026-06-29T03:47:49.140639+05:30'
+last_checked: '2026-06-29T03:47:49.140639+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) for agentic deep research, focusing on LLM-driven reasoning, search, and retrieval-augmented generation (RAG) systems.
-- **ACL 2026 KnowFM Alignment**: Aligns with the ACL 2026 KnowFM track, emphasizing multi-agent collaboration, knowledge fusion, and autonomous research workflows.
-- **Technical Breadth**: Covers reasoning agents, search agents, and deep-research pipelines, with emphasis on scalability, interpretability, and integration with large language models (LLMs).
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and multi-agent architectures.
+
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM track, emphasizing knowledge-focused, autonomous deep research agents capable of iterative reasoning and retrieval-augmented generation.
+
+- **Technical Breadth**: Covers topics such as multi-agent collaboration, adaptive search strategies, and reasoning frameworks, providing a structured collection of papers, tools, and benchmarks for advancing deep research agents.
 
 ## Why It Matters
 

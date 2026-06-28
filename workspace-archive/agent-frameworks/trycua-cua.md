@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform agent sandboxing**: Provides containerized sandboxes (macOS, Linux, Windows) for training/evaluating AI agents capable of full desktop control via virtualization frameworks (e.g., Apple Virtualization, Windows Sandbox).
-- **Unified SDK & benchmarks**: Includes SDKs (Swift, Lume) and standardized benchmarks for evaluating Computer-Use Agents (CUAs) across desktop automation tasks.
-- **Hacktoberfest integration**: Open-source project with active community contributions, supporti
+- **Purpose**: Provides an open-source infrastructure for training and evaluating **Computer-Use Agents (CUAs)** capable of full desktop control across **macOS, Linux, and Windows**.
+- **Components**: Includes **sandboxes, SDKs, and benchmarks** for agent development, with support for **containerization, virtualization (Apple Virtualization Framework, Windows Sandbox), and cross-platform automation**.
+- **Tech Stack**: Primarily **HTML/JavaScript-based**, with integrations for **Swift (macOS), L
 
 ## Use Cases
 

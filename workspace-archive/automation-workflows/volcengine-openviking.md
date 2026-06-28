@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Context Management**: OpenViking provides a file system-based paradigm for hierarchical context delivery (memory, resources, skills) tailored for AI Agents, enabling self-evolving capabilities through structured context engineering.
+- **Unified Context Management**: OpenViking provides a file system-based paradigm for hierarchical context delivery (memory, resources, and skills) in AI Agents, enabling self-evolving context management.
 
-- **Agent-Specific Design**: Optimized for AI Agents (e.g., OpenClaw), it integrates seamlessly with agentic RAG (Retrieval-Augmented Generation) workflows, facilitating skill/resource retrieval and memory persistence via a filesystem-like interface.
+- **Integration with AI Agents**: Designed for compatibility with AI Agents like OpenClaw, facilitating structured context engineering and retrieval-augmented generation (RAG) workflows.
 
--
+- **Open-Source Python Framework**: Implements a filesystem-like interface for context storage and retrie
 
 ## Use Cases
 

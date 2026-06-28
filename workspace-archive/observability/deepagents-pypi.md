@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Architecture**: Built on LangGraph with a production-ready, opinionated agent harness supporting sub-agent delegation, context management, and pluggable filesystem backends (local/sandboxed/remote).
+- **Framework Architecture**: Built on LangGraph with sub-agent delegation, persistent memory, and pluggable filesystem backends (local/sandboxed/remote), enabling modular and scalable agent orchestration.
 
-- **Model Compatibility**: Supports any LLM with tool-calling capabilities (frontier APIs, open-weight models, or local LLMs) via LangChain's chat model abstraction.
+- **Model Compatibility**: Supports any tool-calling LLM (frontier APIs, open-weight, or local) via LangChain chat model integration, with production-ready features like streaming, checkpointing, and LangSmith tracing.
 
-- **Key Features**: Includes persistent memory, human-in-the-loop approvals, shell access, and skills/tools system; des
+- **Security & Extensibility**: Follows a "trust-the-LLM" model with tool
 
 ## Use Cases
 

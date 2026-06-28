@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Track hourly-updated reach funnel (presentations, views, reads, feed clickthrough rate, read ratio), impact metrics (earnings for paywalled stories, follower/subscription changes), and excludes pre-2025 data for presentations.
+- **Lifetime Metrics**: Includes total presentations (Medium-suggested exposures), views (story landings), and reads (30+ second engagements), with hourly updates (except daily earnings for paywalled stories). Additional impact metrics: earnings (paywalled only), follower/subscription changes, and read ratio (reads ÷ views).
 
-- **Monthly Engagement**: Daily-updated metrics include earnings, views, reads, and engagement (claps, highlights, responses, new followers), with yellow indicators marking monetizable actions; member read ratio (member reads ÷ member views) adjust
+- **Monthly Engagement**: Tracks paywalled story earnings, views, reads, and interactions (claps, highlights, responses, new followers) with daily updates. Highlights yello
 
 ## Use Cases
 

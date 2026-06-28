@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based machine learning library** developed under the `supermlorg` GitHub organization, designed for scalable ML workflows in JVM environments.
-- **Repository metrics**: 5 GitHub stars, 1 fork, 1 open issue, and 1 open pull request as of the latest snapshot.
-- **Discussion categories** include Announcements, General, Ideas, Polls, Q&A, and Show-and-Tell for community engagement and support.
+- **Java-based machine learning library** under the `supermlorg` GitHub organization, currently with **1 fork and 5 stars**.
+- **Repository includes** GitHub Actions, Issues, Pull Requests, and a **dedicated Discussions tab** for community engagement.
+- **Primary focus** appears to be **machine learning tools/models** for Java, with a hosted documentation site at `superml-java.superml.org`.
 
 ## Use Cases
 

@@ -12,10 +12,12 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- meta-ai
+- mistral
+- models
 - python
 - rag
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation across text, images, audio, and video modalities, enabling unified processing of heterogeneous data sources.
-- **Modular Architecture**: Implements a plug-and-play pipeline with configurable components (e.g., retrievers, rerankers, LLMs) for customizable RAG workflows.
-- **Optimized Retrieval**: Leverages advanced indexing (e.g., FAISS, Milvus) and hybrid search (dense + sparse) to enhance retrieval precision an
+- **Unified Multi-Modal RAG Framework**: Implements a single, extensible Python-based framework supporting retrieval-augmented generation (RAG) across text, images, audio, and structured data modalities, leveraging unified embedding and retrieval mechanisms.
+
+- **Modular Architecture**: Features plug-and-play components for document parsing, vector indexing (FAISS/Weaviate), reranking (e.g., ColBERTv2), and LLM integration (e.g., Llama, Mistral), enabling customizable pipelines for diverse RAG w
 
 ## Use Cases
 

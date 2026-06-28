@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-06-28T19:53:26.391193+05:30'
-collected_at: '2026-06-28T19:53:26.391208+05:30'
+published_at: '2026-06-29T03:52:28.082474+05:30'
+collected_at: '2026-06-29T03:52:28.082488+05:30'
 tags:
 - agents
 - anthropic
@@ -19,11 +19,12 @@ tags:
 - reddit
 - scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-06-28T19:53:26.391208+05:30'
-last_seen: '2026-06-28T19:53:26.391208+05:30'
-last_checked: '2026-06-28T19:53:26.391208+05:30'
+first_seen: '2026-06-29T03:52:28.082488+05:30'
+last_seen: '2026-06-29T03:52:28.082488+05:30'
+last_checked: '2026-06-29T03:52:28.082488+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook**: A repository of 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with Haystack. Topics include Agents, RAG, Advanced Retrieval, Multimodal, Model Serving, and Evaluation.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, with most examples showcasing small-scale demos.
 
-- **Key Features**: Recipes cover advanced use cases like Agentic Itinerary Planning with OpenStreetMap, Hybrid RAG with Breakpoints, Multimodal Agents, and RAG pipelines with tools like vLLM, NVIDIA NIMs, and FastEmbed.
+- **Recipes span advanced topics** including Agents, RAG, Multimodal processing, Model Serving (e.g., vLLM, NVIDIA NIMs), Hybrid Retrieval (BM42), and specialized workflows like Agentic Itinerary Planning with OpenStreetMap or Tabular Data Processing with Prior Labs MCP.
 
-- **Contribution & Tools**: Open-source contributions accepted via GitHub. Recipes include experimental features (e.g., Mem0 Memory Store, DSPy Prompt Optimization) and integrations with services like Azure AI Search, Bright Data, and AssemblyAI.
+- **Covers evaluation and optimization** with tools like Arize Phoenix, DeepEval, RAGAS, and Prometheus 2, alongside experimental features such as Multimodal Agents, Memory Stores (Mem0), and Query Expansion techniques.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:53:26.391193+05:30
+- Published: 2026-06-29T03:52:28.082474+05:30
 
 ## Related Tags
 
@@ -61,6 +62,7 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
+- workflows
 
 ## Source
 

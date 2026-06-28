@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-29T01:18:30.190287+05:30'
+collected_at: '2026-06-29T03:46:59.103357+05:30'
 published_at: '2026-06-27T20:46:42Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-27T20:46:38Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-29T01:18:30.190287+05:30'
-last_seen: '2026-06-29T01:18:30.190287+05:30'
-last_checked: '2026-06-29T01:18:30.190287+05:30'
+first_seen: '2026-06-29T03:46:59.103357+05:30'
+last_seen: '2026-06-29T03:46:59.103357+05:30'
+last_checked: '2026-06-29T03:46:59.103357+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated production-grade RAG resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-ready Retrieval-Augmented Generation (RAG) systems, covering end-to-end MLOps pipelines.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
 
-- **Comprehensive tooling ecosystem**: Includes vetted components for embeddings, vector databases, LLM orchestration (e.g., LangChain), and deployment tooling optimized for LLMOps and AI engineering workflows.
+- **Python-Centric Tooling**: Focuses on Python-based implementations, including LangChain, for integrating large language models (LLMs) with retrieval mechanisms, emphasizing production-ready pipelines and deployment strategies.
 
-- **Python-centric, continuously updated**: Repository focuses on Python-based implementations, last updated June 2026, with topics spanning AI engineering, generative AI, and vector database integration for RAG deployments.
+- **Comprehensive Ecosystem Coverage**: Encompasses 20+ topics (e.g., AI engineering, LLMops, generative AI) with curated lists of libraries, vector databases, and architectural patterns for end-to-end RAG system development.
 
 ## Why It Matters
 

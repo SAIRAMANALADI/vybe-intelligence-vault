@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-29T01:18:25.148511+05:30'
+collected_at: '2026-06-29T03:46:54.176501+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 263
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-29T01:18:25.148511+05:30'
-last_seen: '2026-06-29T01:18:25.148511+05:30'
-last_checked: '2026-06-29T01:18:25.148511+05:30'
+first_seen: '2026-06-29T03:46:54.176501+05:30'
+last_seen: '2026-06-29T03:46:54.176501+05:30'
+last_checked: '2026-06-29T03:46:54.176501+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including data preprocessing, embedding models, and retrieval strategies tailored for Vietnamese text.
 
-- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and LLM integration (e.g., ViT5, PhoBERT) using FastAPI or similar frameworks.
+- **Modular Python Architecture**: Features a scalable backend built in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM interfaces (e.g., Hugging Face Transformers) for Vietnamese-focused RAG workflows.
 
-- **Evaluation & Optimization**: Includes Vietnamese-specific benchmarks (e.g., ViQuAD) and techniques for improving retrieval relevance, latency, and response quality in low-resource language scenarios.
+- **Evaluation & Optimization**: Includes benchmarking tools and metrics (e.g., retrieval accuracy, response relevance) to evaluate Vietnamese RAG performance, with optimizations for handling linguistic nuances (e.g., diacritics, tokenization).
 
 ## Why It Matters
 

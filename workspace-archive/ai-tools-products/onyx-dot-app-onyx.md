@@ -13,8 +13,6 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
-- meta-ai
-- models
 - openai
 - python
 - rag
@@ -36,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama) via modular backend architecture in Python.
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`Onyx`) designed to integrate seamlessly with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
 
-- **Enterprise Features**: Implements RAG (Retrieval-Augmented Generation), vector search, and self-hosted deployment for scalable, privacy-focused AI applications.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for enterprise-grade information retrieval and context-aware responses.
 
-- **Tech Stack**: Frontend built with Next.js, backend in Python, supporting advanced features like information retrieval, chat UI customization, and enterprise-grade sea
+- **Full-Stack Architecture**: Combines a **Next.js** frontend with a **Python** backend, supporting self-host
 
 ## Use Cases
 

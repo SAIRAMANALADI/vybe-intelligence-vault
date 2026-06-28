@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level), enabling cross-modal retrieval and generation.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), addressing heterogeneity in real-world corpora.
 
-- **Modular Architecture for Dynamic Adaptation**: Implements a flexible pipeline with modality-specific encoders, retrievers, and fusion mechanisms, allowing dynamic adaptation to heterogeneous corpora without retrainin
+- **Unified Retrieval Mechanism**: Proposes a modality-agnostic retrieval system with adaptive granularity selection, leveraging learned embeddings and cross-modal attention to dynamically prioritize relevant inf
 
 ## Use Cases
 

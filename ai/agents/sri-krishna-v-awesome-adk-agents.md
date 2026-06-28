@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-06-29T01:20:10.284938+05:30'
+collected_at: '2026-06-29T03:48:39.220224+05:30'
 published_at: '2026-06-28T14:36:42Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-06-29T01:20:10.284938+05:30'
-last_seen: '2026-06-29T01:20:10.284938+05:30'
-last_checked: '2026-06-29T01:20:10.284938+05:30'
+first_seen: '2026-06-29T03:48:39.220224+05:30'
+last_seen: '2026-06-29T03:48:39.220224+05:30'
+last_checked: '2026-06-29T03:48:39.220224+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-- **Multi-Faceted ADK Support**: Focuses on ADK for Python (`adk-python`) and ADK for web (`adk-web`), with examples for multi-agent systems, agentic AI, and integration with Google's Gemini AI.
-- **Technical Metadata**: Python-based repository with 324 stars and 46 forks, last updated on 2026-06-28, covering topics such as `agent-samples`, `awesome-list`, and `google-adk`.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+
+- **Multi-Faceted ADK Support**: Focuses on `adk-python`, `adk-web`, and `gemini-ai` integrations, with emphasis on multi-agent systems, agentic AI, and Google ADK-specific implementations.
+
+- **Technical Stack & Metadata**: Primarily Python-based, last updated June 28, 2026, with 324 stars and 46 forks, serving as an "awesome-list" for ADK-driven agent development.
 
 ## Why It Matters
 

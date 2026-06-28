@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aomediacodec/libavif
-collected_at: '2026-06-28T03:54:31.646044+05:30'
-published_at: '2026-06-27T08:24:23Z'
+collected_at: '2026-06-29T03:52:23.068740+05:30'
+published_at: '2026-06-28T15:37:42Z'
 tags:
 - c
 - github-repo
+- hackernews
 - rag
 stars: 2124
 language: C
@@ -16,11 +17,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2019-06-10T17:54:32Z'
-pushed_at: '2026-06-26T18:40:09Z'
+pushed_at: '2026-06-28T15:37:37Z'
 resource_id: github:aomediacodec/libavif
-first_seen: '2026-06-28T03:54:31.646044+05:30'
-last_seen: '2026-06-28T03:54:31.646044+05:30'
-last_checked: '2026-06-28T03:54:31.646044+05:30'
+first_seen: '2026-06-29T03:52:23.068740+05:30'
+last_seen: '2026-06-29T03:52:23.068740+05:30'
+last_checked: '2026-06-29T03:52:23.068740+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: C-based library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
-- **Functionality**: Supports both lossy and lossless encoding/decoding, with compatibility for AV1's intra-frame coding and HEIF container integration.
-- **Integration**: Designed for seamless integration with existing media pipelines, including support for multi-threaded processing and color space conversions.
+- **Library Functionality**: libavif is a C-based library designed for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
+- **Repository Metrics**: As of the last update (2026-06-28), the repository has 2,124 stars and 293 forks, indicating moderate community engagement.
+- **Technical Stack**: The project is implemented in pure C, ensuring low-level performance and compatibility with systems requiring minimal runtime dependencies.
 
 ## Why It Matters
 
@@ -40,14 +41,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: aomediacodec
 - Stars: 2124
-- Forks: 294
+- Forks: 293
 - Language: C
 - Topics: None
-- Last Updated: 2026-06-27T08:24:23Z
+- Last Updated: 2026-06-28T15:37:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2019-06-10T17:54:32Z
-- Pushed At: 2026-06-26T18:40:09Z
+- Pushed At: 2026-06-28T15:37:37Z
 
 ## Possible Use Cases
 

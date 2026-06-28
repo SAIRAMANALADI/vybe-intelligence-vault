@@ -8,7 +8,7 @@ local_vault_path: ai/rag/crazyaiml-nl-2-sql-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Schema & Context Learning**: Implements an iterative NL-to-SQL agent that dynamically learns database schema and domain context to generate analytical SQL queries.
+- **Schema-Aware NL-to-SQL Agent**: Implements an iterative reasoning agent that dynamically learns database schema and domain context to generate evidence-backed SQL queries from natural language inputs.
 
-- **Guarded Reasoning**: Uses evidence-backed SQL generation with iterative refinement, ensuring correctness and mitigating hallucinations in query construction.
+- **PostgreSQL Integration**: Utilizes PostgreSQL for robust SQL execution and leverages React-pattern for structured agent workflows, ensuring iterative refinement of queries based on intermediate results.
 
-- **Tech Stack**: Built in Python with PostgreSQL integration, leveraging LLM-based agents and React-pattern for frontend interaction.
+- **LLM-Driven Guardrails**: Employs a guarded mechanism using large language models (
 
 ## Use Cases
 

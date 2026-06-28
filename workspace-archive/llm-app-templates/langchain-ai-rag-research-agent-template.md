@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter kit for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating document retrieval and synthesis workflows.
-
-- **Key Components**: Includes modular Python code for document loaders, vector stores (e.g., FAISS), retrievers, and agent-based query processing with LLM integration (e.g., LangChain’s `ResearchAgent`).
-
-- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vec
+- **Repository Overview**: GitHub template for building a **Retrieval-Augmented Generation (RAG)** research agent in Python, designed for research workflows.
+- **Key Components**: Likely includes modular pipelines for document retrieval, LLM integration, and agentic decision-making (e.g., tool use, multi-step reasoning).
+- **Technical Stack**: Leverages Python with dependencies on LangChain (or similar frameworks) for LLM orchestration and vector databases (e.g., Chroma, FAISS) for retrieval.
 
 ## Use Cases
 

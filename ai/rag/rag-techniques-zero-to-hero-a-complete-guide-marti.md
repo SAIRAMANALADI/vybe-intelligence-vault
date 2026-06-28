@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-28T15:04:22.579908+05:30'
-collected_at: '2026-06-28T15:04:22.579919+05:30'
+published_at: '2026-06-29T03:46:09.705748+05:30'
+collected_at: '2026-06-29T03:46:09.705761+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-28T15:04:22.579919+05:30'
-last_seen: '2026-06-28T15:04:22.579919+05:30'
-last_checked: '2026-06-28T15:04:22.579919+05:30'
+first_seen: '2026-06-29T03:46:09.705761+05:30'
+last_seen: '2026-06-29T03:46:09.705761+05:30'
+last_checked: '2026-06-29T03:46:09.705761+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional components include rerankers, query rewriters, caching, and orchestration layers for improved precision and efficiency.
+- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with an LLM generator, where retrieved context conditions generation to improve factuality and reduce hallucinations; key components include embeddings, vector stores, rerankers, and orchestration layers.
 
-- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware chunking with moderate overlap is recommended for coherence, while semantic/LLM-based methods improve semantic integrity at higher computational cost.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap significantly impact retrieval quality; domain-specific fine-tuning of embeddings (e.g., contrastive training on query-document pairs) enhances precision, while hybrid retrieval (BM25 + vector) mitigates lexical gaps.
 
-- **Hybrid Retrieval & Reranking**: Hybrid search (BM25 + vector) improves recall/precision; two-stage retrieval uses an efficient first-stage retriever followed by a cross-encoder reranker for higher precision on top-K candidates, with distillation techniques to optimize cost.
+- **Advanced Retrieval & Evaluation**: Multi-hop retrieval and iterative reasoning (e.g., GraphRAG) enable complex QA; two-stage retrieval (retriever + cross-encoder reranker) balances speed/precision, while evaluation must assess both retrieval (MRR, nDCG) and generation (factuality, hallucination rate) with gold-standard benchmarks.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:04:22.579908+05:30
+- Published: 2026-06-29T03:46:09.705748+05:30
 
 ## Related Tags
 

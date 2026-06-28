@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 81
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Java-based AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows**, and **Function Calling** for dynamic task execution.
-- **Advanced RAG & Vector DB Integration**: Utilizes **Knowledge Graph RAG**, **Embedding models**, and **Vector Databases** (e.g., Milvus/Weaviate) for semantic search and retrieval.
-- **Multimodal & History Support**: Features **image generation/understanding** (e.g., via Stable Diffusion/CLIP), **historical m
+- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced context-aware AI responses, integrating structured data retrieval with generative models.
+
+- **Multi-modal AI Capabilities**: Supports image generation (via FunctionCall), image understanding, and embedding-based vector search, leveraging Spring AI and Alibaba Cloud services for end-to-end AI workflows.
+
+- **Agentic & Streaming Workflows**: Implements SSE (Serv
 
 ## Use Cases
 

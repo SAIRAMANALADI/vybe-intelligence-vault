@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-06-29T01:17:50.106598+05:30'
+collected_at: '2026-06-29T03:46:19.104533+05:30'
 published_at: '2026-06-09T12:30:18Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-06-29T01:17:50.106598+05:30'
-last_seen: '2026-06-29T01:17:50.106598+05:30'
-last_checked: '2026-06-29T01:17:50.106598+05:30'
+first_seen: '2026-06-29T03:46:19.104533+05:30'
+last_seen: '2026-06-29T03:46:19.104533+05:30'
+last_checked: '2026-06-29T03:46:19.104533+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (94 ⭐, 25 🍴) – No description, topics, or language metadata provided.
-- **Last Updated**: 2026-06-09T12:30:18Z – Indicates future-dated activity (potential placeholder or error).
-- **URL**: [GitHub Link](https://github.com/techwithtim/Langflow-RAG-Tutorial) – Minimal metadata suggests a niche or unmaintained tutorial.
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial`
+- **Last Updated**: 2026-06-09T12:30:18Z
+- **Metrics**: 94 stars, 25 forks; language and topics unspecified
 
 ## Why It Matters
 

@@ -6,15 +6,13 @@ source_url: https://github.com/cloudflare/mcp-server-cloudflare
 resource_id: github:cloudflare/mcp-server-cloudflare
 local_vault_path: ai/resources/cloudflare-mcp-server-cloudflare.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
 tags:
 - github-repo
-- scripts
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2) into MCP-compatible clients.
-- **Repository stats**: 3.9k stars, 436 forks, last updated June 28, 2026.
-- **Purpose**: Facilitates programmatic interactions with Cloudflare’s ecosystem via MCP (Model Context Protocol) for AI/automation workflows.
+- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2, Durable Objects) into MCP-compatible clients.
+- **Repository structure** follows Cloudflare’s modular design, enabling extensible API interactions with Cloudflare’s APIs (REST/GraphQL).
+- **Last updated June 2026**, indicating active development with potential support for new Cloudflare features or MCP protocol updates.
 
 ## Use Cases
 

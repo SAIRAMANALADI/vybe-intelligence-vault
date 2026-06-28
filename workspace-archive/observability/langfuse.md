@@ -6,7 +6,7 @@ source_url: https://langfuse.com
 resource_id: blog:langfuse
 local_vault_path: ai/rag/langfuse.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Used by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
+- **Adoption Metrics**: Used by **19 of the Fortune 50**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
 
-- **Core Functionality**: Open-source AI engineering platform for tracing, evaluating, and improving AI agents/products via hierarchical traces, LLM-as-a-judge evaluations, prompt management, and human-in-the-loop annotation workflows.
+- **Core Capabilities**: Provides **end-to-end LLM observability** (traces, cost, latency), **prompt management**, **evaluation frameworks** (LLM-as-a-judge, human review), and **collaborative annotation** for continuous AI agent improvement.
 
-- **Integration Support**: Compatible with **100+ frameworks/languages** (e.g., Python, TypeS
+- **Integration Ecosystem**: Supports **100+ integrations** (e.g., LangChain, Vercel AI S
 
 ## Use Cases
 

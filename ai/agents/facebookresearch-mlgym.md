@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-29T01:20:35.349831+05:30'
+collected_at: '2026-06-29T03:49:04.316440+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 609
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-29T01:20:35.349831+05:30'
-last_seen: '2026-06-29T01:20:35.349831+05:30'
-last_checked: '2026-06-29T01:20:35.349831+05:30'
+first_seen: '2026-06-29T03:49:04.316440+05:30'
+last_seen: '2026-06-29T03:49:04.316440+05:30'
+last_checked: '2026-06-29T03:49:04.316440+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: MLGym is a Python-based framework designed to advance AI research agents through structured experimentation and benchmarking, enabling systematic evaluation of agentic AI systems.
+- **Framework Overview**: MLGym is a Python-based framework designed to standardize and advance AI research agents through modular, reproducible experimentation and benchmarking.
 
-- **Key Components**: Provides a modular architecture for defining tasks, environments, and agent policies, with built-in support for distributed training and evaluation workflows.
+- **Key Features**: Supports distributed training, hyperparameter optimization, and integrates with popular ML libraries (e.g., PyTorch, TensorFlow) for scalable agent development.
 
-- **Benchmarking System**: Includes standardized benchmarks and metrics to assess agent performance across diverse tasks, facilitating reproducible research and comparative analysis.
+- **Benchmark Suite**: Provides standardized tasks and metrics to evaluate AI agents, enabling fair comparisons across research methodologies and agent architectures.
 
 ## Why It Matters
 

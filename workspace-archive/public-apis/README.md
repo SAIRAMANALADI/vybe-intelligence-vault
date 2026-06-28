@@ -13,16 +13,17 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) (framework - USEFUL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page) (template - USEFUL Tier)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) (workflow - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
-- [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app?source=post_page)
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-29 01:33 IST*
+*Last updated: 2026-06-29 04:02 IST*

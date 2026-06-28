@@ -4,23 +4,22 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference
-published_at: '2026-06-28T15:11:21.400760+05:30'
-collected_at: '2026-06-28T15:11:21.400773+05:30'
+published_at: '2026-06-29T03:54:19.372135+05:30'
+collected_at: '2026-06-29T03:54:19.372150+05:30'
 tags:
 - agents
 - anthropic
 - models
 - openai
 - producthunt
-- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-copilot-cli-command-reference-github-docs
-first_seen: '2026-06-28T15:11:21.400773+05:30'
-last_seen: '2026-06-28T15:11:21.400773+05:30'
-last_checked: '2026-06-28T15:11:21.400773+05:30'
+first_seen: '2026-06-29T03:54:19.372150+05:30'
+last_seen: '2026-06-29T03:54:19.372150+05:30'
+last_checked: '2026-06-29T03:54:19.372150+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (shell tab completion), `copilot login` (OAuth device flow auth with `--host` support), `copilot init` (repo custom instructions), `copilot update`/`version` (version management), and `copilot mcp`/`plugin` (MCP/server/plugin management).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication via `--host` flag), `copilot init` (repository initialization), `copilot completion SHELL` (enables tab completion for `bash`, `zsh`, `fish`), and `copilot version`/`update` (versioning and updates).
 
-- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `# NUMBER` (GitHub issue/PR context), `! COMMAND` (shell bypass), `Ctrl+G`/`Ctrl+X e` (external editor), `Ctrl+Enter` (queue messages), and `Shift+Tab` (mode cycling); timeline shortcuts include `Ctrl+F` (search) and `Ctrl+T` (toggle reasoning).
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (file inclusion), `! COMMAND` (shell execution bypass), `Ctrl+X`/`e` (external editor), `Ctrl+Enter` (queue messages), and `Shift+Tab` (mode cycling); timeline shortcuts include `Ctrl+F` (search) and `Ctrl+T` (toggle reasoning).
 
-- **Advanced Features**: Supports slash commands (`/add-dir`, `/allow-all`, `/agent`), session management (`/resume`, `--continue`), diff mode (`/diff` with `c` for comments), and environment variables (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`) for headless automation with fine-grained PATs or OAuth tokens.
+- **Advanced Features**: Supports slash commands (`/add-dir`, `/allow-all`, `/agent`), session management (`/resume`, `--continue`), diff mode navigation (`j/k` for line movement, `c` for comments), and environment variables (`COPILOT_GITHUB_TOKEN` for headless auth).
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T15:11:21.400760+05:30
+- Published: 2026-06-29T03:54:19.372135+05:30
 
 ## Related Tags
 
@@ -51,7 +50,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - openai
 - producthunt
-- reddit
 - scripts
 - web-crawled
 - workflows

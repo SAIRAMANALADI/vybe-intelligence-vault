@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval-augmented generation for dynamic workflows.
+- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval and generative AI components.
 
-- **Implementation**: Implemented in Jupyter Notebooks, leveraging NVIDIA's AI frameworks (e.g., NeMo, TensorRT-LLM) for optimized LLM inference and retrieval components.
+- **Implementation**: Developed in Jupyter Notebook, leveraging modular agent interactions, dynamic tool selection, and vector-based retrieval for context-aware generation.
 
-- **Architecture**: Features modular agent interactions, dynamic tool use (e.g., search, reasoning), and retrieval-aug
+- **Key Features**: Includes agent coordination, adaptive retrieval strategies, and GPU-accelerated inference (via NVIDIA framewor
 
 ## Use Cases
 

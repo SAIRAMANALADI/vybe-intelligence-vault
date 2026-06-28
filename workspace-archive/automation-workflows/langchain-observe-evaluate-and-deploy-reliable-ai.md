@@ -2,7 +2,7 @@
 title: 'LangChain: Observe, Evaluate, and Deploy Reliable AI Agents'
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://langchain.com/
+source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework-agnostic observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs (Python, TypeScript, Go, Java) for custom integration, enabling structured timeline analysis of agent execution paths, message threading for multi-turn interactions, and AI-driven insights for pattern detection across traces.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
 
-- **Automated evaluation & iterative improvement**: Captures production traces as reusable test cases, supports
+- **Multi-Protocol Deployment**: Supports A2A & MCP protocols with fault-tolerant, scalable runtime for async agent collaboration and human-in-the-loop workflows.
+
+- **Cross-Framework Observability**: Provides native tracing for agent frameworks, OpenTelemetry integration, and SDKs (Python/TypeScript/Go/Java) for structured debugging of multi-turn
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://langchain.com/
+Original source URL: https://www.langchain.com/
 
 ## Local Vault File
 

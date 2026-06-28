@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Used by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
+- **Adoption Metrics**: Used by **19 of the Fortune 50**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
 
-- **Core Functionality**: Open-source AI engineering platform for tracing, evaluating, and improving AI agents/products via hierarchical traces, LLM-as-a-judge evaluations, prompt management, and human-in-the-loop annotation workflows.
+- **Core Capabilities**: Provides **end-to-end LLM observability** (traces, cost, latency), **prompt management**, **evaluation frameworks** (LLM-as-a-judge, human review), and **collaborative annotation** for continuous AI agent improvement.
 
-- **Integration Support**: Compatible with **100+ frameworks/languages** (e.g., Python, TypeS
+- **Integration Ecosystem**: Supports **100+ integrations** (e.g., LangChain, Vercel AI S
 
 ## Use Cases
 

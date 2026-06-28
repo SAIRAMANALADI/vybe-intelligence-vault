@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-29T01:18:45.218197+05:30'
+collected_at: '2026-06-29T03:47:14.195016+05:30'
 published_at: '2026-06-28T07:18:25Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-29T01:18:45.218197+05:30'
-last_seen: '2026-06-29T01:18:45.218197+05:30'
-last_checked: '2026-06-29T01:18:45.218197+05:30'
+first_seen: '2026-06-29T03:47:14.195016+05:30'
+last_seen: '2026-06-29T03:47:14.195016+05:30'
+last_checked: '2026-06-29T03:47:14.195016+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experiments.
+- **Efficient RAG Framework**: FlashRAG is a Python toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations to accelerate experimentation and deployment.
 
-- **Benchmark & Dataset Integration**: The toolkit includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluations and streamlined comparisons across retrieval and generation tasks.
+- **Comprehensive Toolset**: Includes benchmarking utilities, curated datasets, and modular components for end-to-end RAG pipelines, supporting large language models (LLMs) and retrieval systems.
 
-- **Modular & Extensible**: Designed with modularity in mind, FlashRAG supports custom retrieval strategies, model integrations, and evaluation metrics, facilitating rapid prototyping and adaptation for novel RAG architectures.
+- **WWW2025 Resource**: Presented as a key resource at The Web Conference 2025, emphasizing its role in advancing state-of-the-art RAG methodologies with performance-focused optimizations.
 
 ## Why It Matters
 

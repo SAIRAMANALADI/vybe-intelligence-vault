@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-29T01:19:10.199564+05:30'
+collected_at: '2026-06-29T03:47:39.179405+05:30'
 published_at: '2026-06-28T19:43:28Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 643
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-29T01:19:10.199564+05:30'
-last_seen: '2026-06-29T01:19:10.199564+05:30'
-last_checked: '2026-06-29T01:19:10.199564+05:30'
+first_seen: '2026-06-29T03:47:39.179405+05:30'
+last_seen: '2026-06-29T03:47:39.179405+05:30'
+last_checked: '2026-06-29T03:47:39.179405+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Demonstrates step-by-step implementation of a Retrieval-Augmented Generation (RAG) application using FastAPI, Python, and Docker for containerization, emphasizing scalability and deployment readiness.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular, scalable deployment.
 
-- **Modular Architecture**: Implements a structured RAG workflow with components for document ingestion, vector storage (e.g., FAISS or Chroma), retrieval, and LLM integration, with FastAPI endpoints for real-time inference.
+- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., LLMs) via FastAPI endpoints, emphasizing retrieval mechanisms, prompt engineering, and response synthesis.
 
-- **Educational Focus**: Provides a hands-on tutorial covering GenAI best practices, including prompt engineering, embedding models, and CI/CD integration, with example configurations for local and cloud deployment.
+- **DevOps Best Practices**: Includes Dockerized setup for environment consistency, CI/CD-ready configurations, and modular Python architecture for maintainability and scalability.
 
 ## Why It Matters
 

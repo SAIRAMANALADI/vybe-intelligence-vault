@@ -14,7 +14,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Demonstrates step-by-step implementation of a Retrieval-Augmented Generation (RAG) application using FastAPI, Python, and Docker for containerization, emphasizing scalability and deployment readiness.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular, scalable deployment.
 
-- **Modular Architecture**: Implements a structured RAG workflow with components for document ingestion, vector storage (e.g., FAISS or Chroma), retrieval, and LLM integration, with FastAPI endpoints for real-time inference.
+- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., LLMs) via FastAPI endpoints, emphasizing retrieval mechanisms, prompt engineering, and response synthesis.
 
-- **Educational Focus**: Provides a
+- **DevOps Best Practices**: Includes Dockerized setup for environment consistency, CI/CD-ready configura
 
 ## Use Cases
 

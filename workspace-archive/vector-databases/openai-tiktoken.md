@@ -8,7 +8,7 @@ local_vault_path: ai/rag/openai-tiktoken.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -16,7 +16,7 @@ tags:
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # openai/tiktoken
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tool
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
 - **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models.
-- **Performance**: Designed for speed, leveraging fast BPE algorithms to handle large-scale tokenization tasks.
-- **Python Library**: Provides a lightweight, standalone Python package for tokenization with minimal dependencies.
+- **Performance**: Designed for speed, leveraging Rust-based backend (via `rust-tokenizers`) for high-throughput tokenization.
+- **Compatibility**: Supports OpenAI's tokenization schemes (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with Python bindings.
 
 ## Use Cases
 

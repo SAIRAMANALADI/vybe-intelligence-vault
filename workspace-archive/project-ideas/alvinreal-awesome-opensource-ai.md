@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: `alvinreal/awesome-opensource-ai` is a continuously updated list of high-quality, truly open-source AI projects, models, tools, and infrastructure, covering agents, generative AI, LLMs, MLOps, and RAG systems.
-
-- **Technical Scope**: Primarily Python-based, the repository focuses on open-source AI components, emphasizing transparency, accessibility, and community-driven development in artificial intelligence and machine learning.
-
-- **Metrics & Activity**: Maintains 3,9
+- **Curated Collection**: Repository (`alvinreal/awesome-opensource-ai`) aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical Scope**: Focuses on agents, generative AI, LLMs, machine learning, MLOps, and RAG, implemented primarily in Python.
+- **Community Metrics**: 3,969 stars, 467 forks, last updated 2026-06-28, covering topics like `open-source-ai` and `artificial-intelligence`.
 
 ## Use Cases
 

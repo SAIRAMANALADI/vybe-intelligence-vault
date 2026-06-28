@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Fast, Rust-based document parser** optimized for OCR, PDF processing, and text extraction with minimal latency.
-- **Open-source** with 11K+ GitHub stars, supporting document-ocr, pdf-parser, and text-extraction workflows.
-- **Last updated June 2026**, offering modern parsing capabilities for structured document analysis.
+- **Rust-based OCR & PDF Parser**: Optimized for high-speed document processing with built-in OCR capabilities for extracting text from images and PDFs.
+- **Lightweight & Modular**: Designed for efficiency, minimizing dependencies while supporting extensible document parsing workflows.
+- **Open-Source & Actively Maintained**: GitHub repository last updated in 2026, with 11K+ stars and 743 forks, indicating strong community adoption.
 
 ## Use Cases
 

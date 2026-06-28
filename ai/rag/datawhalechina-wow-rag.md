@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-29T01:17:55.225664+05:30'
+collected_at: '2026-06-29T03:46:24.173568+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 232
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-29T01:17:55.225664+05:30'
-last_seen: '2026-06-29T01:17:55.225664+05:30'
-last_checked: '2026-06-29T01:17:55.225664+05:30'
+first_seen: '2026-06-29T03:46:24.173568+05:30'
+last_seen: '2026-06-29T03:46:24.173568+05:30'
+last_checked: '2026-06-29T03:46:24.173568+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments.
+- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebook, designed for modularity and ease of deployment.
 
-- **Technical Stack**: Utilizes Python-based libraries (e.g., `langchain`, `sentence-transformers`) for embeddings, vector storage (FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
+- **Key Components**: Includes document preprocessing, vector embedding (e.g., via FAISS or Chroma), retrieval mechanisms, and LLM integration for contextual generation.
 
-- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG pipelines, including preprocessing, retrieval strategies (dense/sparse), and evaluation metrics for benchmarking performance.
+- **Tutorial Integration**: Provides step-by-step notebooks covering end-to-end RAG pipelines, from data ingestion to evaluation, with examples for customization and scalability.
 
 ## Why It Matters
 

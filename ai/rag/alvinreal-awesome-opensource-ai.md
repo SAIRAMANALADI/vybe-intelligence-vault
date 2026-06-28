@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-06-29T01:18:40.160630+05:30'
+collected_at: '2026-06-29T03:47:09.142616+05:30'
 published_at: '2026-06-28T19:36:05Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-06-28T12:27:19Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-06-29T01:18:40.160630+05:30'
-last_seen: '2026-06-29T01:18:40.160630+05:30'
-last_checked: '2026-06-29T01:18:40.160630+05:30'
+first_seen: '2026-06-29T03:47:09.142616+05:30'
+last_seen: '2026-06-29T03:47:09.142616+05:30'
+last_checked: '2026-06-29T03:47:09.142616+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: `alvinreal/awesome-opensource-ai` is a continuously updated list of high-quality, truly open-source AI projects, models, tools, and infrastructure, covering agents, generative AI, LLMs, MLOps, and RAG systems.
-
-- **Technical Scope**: Primarily Python-based, the repository focuses on open-source AI components, emphasizing transparency, accessibility, and community-driven development in artificial intelligence and machine learning.
-
-- **Metrics & Activity**: Maintains 3,969 stars and 467 forks, with the latest update as of **2026-06-28T19:36:05Z**, ensuring up-to-date references for cutting-edge AI resources.
+- **Curated Collection**: Repository (`alvinreal/awesome-opensource-ai`) aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates.
+- **Technical Scope**: Focuses on agents, generative AI, LLMs, machine learning, MLOps, and RAG, implemented primarily in Python.
+- **Community Metrics**: 3,969 stars, 467 forks, last updated 2026-06-28, covering topics like `open-source-ai` and `artificial-intelligence`.
 
 ## Why It Matters
 

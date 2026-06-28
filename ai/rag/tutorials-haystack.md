@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-29T01:24:09.984326+05:30'
-collected_at: '2026-06-29T01:24:09.984337+05:30'
+published_at: '2026-06-29T03:52:23.289465+05:30'
+collected_at: '2026-06-29T03:52:23.289479+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-29T01:24:09.984337+05:30'
-last_seen: '2026-06-29T01:24:09.984337+05:30'
-last_checked: '2026-06-29T01:24:09.984337+05:30'
+first_seen: '2026-06-29T03:52:23.289479+05:30'
+last_seen: '2026-06-29T03:52:23.289479+05:30'
+last_checked: '2026-06-29T03:52:23.289479+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Evaluation Guide**: Provides a structured walkthrough for implementing evaluation metrics and methodologies for assessing RAG and agentic pipelines, covering statistical and model-based approaches.
+- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
 
-- **Multimodal & Agentic RAG Pipelines**: Tutorials demonstrate building advanced RAG systems, including multimodal (vision+text) retrieval, conversational RAG with chat history, and agentic workflows with tool-calling, fallback mechanisms, and multi-agent systems.
+- **Agentic & Multimodal Workflows**: Tutorials on building advanced agentic systems (e.g., multi-agent, tool-calling, human-in-the-loop) and multimodal RAG pipelines integrating vision+text for complex query resolution.
 
-- **Optimization & Customization Techniques**: Covers pipeline serialization (YAML/Python), metadata embedding for improved retrieval, hybrid retrieval (dense + keyword), custom SuperComponent creation, and KV cache compression (TurboQuant) for efficient LLM inference on consumer GPUs.
+- **Pipeline Optimization & Serialization**: Techniques for optimizing retrieval (e.g., hybrid retrieval, metadata embedding) and practical guides on serializing/deserializing LLM pipelines (YAML/Python) for deployment efficiency.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:24:09.984326+05:30
+- Published: 2026-06-29T03:52:23.289465+05:30
 
 ## Related Tags
 

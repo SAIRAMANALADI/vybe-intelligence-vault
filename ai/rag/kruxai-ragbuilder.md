@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-29T01:19:05.245098+05:30'
+collected_at: '2026-06-29T03:47:34.228009+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
-- reddit
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-29T01:19:05.245098+05:30'
-last_seen: '2026-06-29T01:19:05.245098+05:30'
-last_checked: '2026-06-29T01:19:05.245098+05:30'
+first_seen: '2026-06-29T03:47:34.228009+05:30'
+last_seen: '2026-06-29T03:47:34.228009+05:30'
+last_checked: '2026-06-29T03:47:34.228009+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for optimal performance.
-- **Optimization Tools**: Includes utilities for evaluating and fine-tuning RAG setups (e.g., retrieval quality, latency, cost) via automated benchmarking and hyperparameter tuning.
-- **Deployment-Ready**: Supports integration with cloud services (e.g., AWS, GCP) and includes Docker/Kubernetes templates for scalable, end-to-end RAG deployment.
+- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation tools.
+
+- **Optimization Workflows**: Implements automated pipelines for hyperparameter tuning, retrieval strategy selection, and prompt engineering to maximize RAG performance.
+
+- **Benchmarking & Deployment**: Includes built-in evaluation metrics (e.g., retrieval accuracy, answer relevance) and supports deployment-ready configurations for cloud/edge environments.
 
 ## Why It Matters
 

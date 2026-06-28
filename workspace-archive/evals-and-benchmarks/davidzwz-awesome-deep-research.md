@@ -6,18 +6,18 @@ source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
 resource_id: github:davidzwz/awesome-deep-research
 local_vault_path: ai/rag/davidzwz-awesome-deep-research.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - paper
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources (papers, tools, frameworks) for agentic deep research, focusing on LLM-driven reasoning, search, and retrieval-augmented generation (RAG) systems.
-- **ACL 2026 KnowFM Alignment**: Aligns with the ACL 2026 KnowFM track, emphasizing multi-agent collaboration, knowledge fusion, and autonomous research workflows.
-- **Technical Breadth**: Covers reasoning agents, search agents, and deep-research pipelines, with emphasis on scalability, inter
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and multi-agent architectures.
+
+- **ACL 2026 KnowFM Integration**: Aligns with the ACL 2026 KnowFM track, emphasizing knowledge-focused, autonomous deep research agents capable of iterative reasoning and retrieval-augmented generation.
+
+- **Technical Breadth**: Covers topics such as multi-agent coll
 
 ## Use Cases
 

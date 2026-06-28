@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://myaccount.google.com/privacypolicy?hl=en-US
-published_at: '2026-06-28T19:54:07.304245+05:30'
-collected_at: '2026-06-28T19:54:07.304262+05:30'
+source_url: https://policies.google.com/privacy
+published_at: '2026-06-29T03:51:17.894841+05:30'
+collected_at: '2026-06-29T03:51:17.894852+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-06-28T19:54:07.304262+05:30'
-last_seen: '2026-06-28T19:54:07.304262+05:30'
-last_checked: '2026-06-28T19:54:07.304262+05:30'
+first_seen: '2026-06-29T03:51:17.894852+05:30'
+last_seen: '2026-06-29T03:51:17.894852+05:30'
+last_checked: '2026-06-29T03:51:17.894852+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, and activity logs (e.g., searches, interactions with ads/content), both for signed-in users and anonymous sessions.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (name, email, payment data) and device/browser metadata (IP, OS, unique identifiers), with differential handling based on signed-in status.
 
-- **Personal vs. Non-Personal Data**: Signed-in users provide personal info (e.g., name, email, payment data), while non-account interactions rely on device/browser-specific identifiers to maintain preferences (e.g., language, ad relevance) without account linkage.
+- **Activity & Location Tracking**: Collects granular user activity (searches, watch history, interactions) and location data (GPS, Wi-Fi access points, IP) with retention tied to account settings; stored in services like Web & App Activity and Timeline.
 
-- **Location & Activity Tracking**: Location data (GPS, Wi-Fi, IP) and activity (searches, YouTube interactions, call logs) are collected to personalize services; users can manage retention via Google Account settings or opt out of tracking where supported.
+- **Third-Party & Public Data**: Incorporates data from public sources (e.g., indexed news articles) and trusted partners (e.g., business directories), with collection governed by [data transfer frameworks](https://policies.google.com/privacy/frameworks) and user privacy controls.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:54:07.304245+05:30
+- Published: 2026-06-29T03:51:17.894841+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://myaccount.google.com/privacypolicy?hl=en-US
+Original source: https://policies.google.com/privacy

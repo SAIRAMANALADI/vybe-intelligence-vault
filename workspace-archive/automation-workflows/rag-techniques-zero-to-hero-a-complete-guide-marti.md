@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional components include rerankers, query rewriters, caching, and orchestration layers for improved precision and efficiency.
+- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with an LLM generator, where retrieved context conditions generation to improve factuality and reduce hallucinations; key components include embeddings, vector stores, rerankers, and orchestration layers.
 
-- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware chunking with moderate overlap is recommended for coherence, while semantic/LLM-based methods improve se
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap significantly impact retrieval quality; domain-specific fine-tuning of embeddings (e.g., contrastive traini
 
 ## Use Cases
 

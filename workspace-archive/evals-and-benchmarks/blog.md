@@ -17,7 +17,6 @@ tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling modular pipelines for document retrieval, processing, and agent orchestration with support for RAG, IDP, and enterprise search workflows.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, including RAG, IDP, and enterprise search systems with modular components for document retrieval, processing, and querying.
 
-- **Harness Engineering**: Systematic approach to AI agent reliability focusing on system-level design (failure classification, context engineering) rather than model selection, with tools to build production-grade agent harnesses in Haystack Enterp
+- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harness design rather than model selection alone.
+
+- **Haystack Enterprise Platform**: Unified enterprise AI solution offer
 
 ## Use Cases
 

@@ -1,0 +1,55 @@
+---
+title: alfredodeza/azure-rag
+archive_category: prompt-libraries
+source_category: ai/rag
+source_url: https://github.com/alfredodeza/azure-rag
+resource_id: github:alfredodeza/azure-rag
+local_vault_path: ai/rag/alfredodeza-azure-rag.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: prompt
+importance: medium
+tags:
+- github-repo
+- hackernews
+- openai
+- python
+- rag
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# alfredodeza/azure-rag
+
+## Why This Is In The Archive
+
+- Matched archive category: `Prompt Libraries`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+- **Purpose**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline using Azure services, integrating document retrieval with generative AI models.
+
+- **Technical Stack**: Implemented in Python, leveraging Azure's AI Search for vector-based document retrieval and Azure OpenAI for generative capabilities.
+
+- **Key Components**: Includes data ingestion, embedding generation (via Azure OpenAI), vector search (Azure AI Search), and prompt engineering for context-aware LLM responses.
+
+## Use Cases
+
+- System prompt patterns
+- Structured prompt design
+- Few-shot examples
+
+## Source
+
+Original source URL: https://github.com/alfredodeza/azure-rag
+
+## Local Vault File
+
+Path: [alfredodeza-azure-rag.md](../../ai/rag/alfredodeza-azure-rag.md)

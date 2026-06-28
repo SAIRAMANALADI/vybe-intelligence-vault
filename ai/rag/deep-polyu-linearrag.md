@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-29T01:19:15.246686+05:30'
+collected_at: '2026-06-29T03:47:44.201918+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
-- dataset
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-29T01:19:15.246686+05:30'
-last_seen: '2026-06-29T01:19:15.246686+05:30'
-last_checked: '2026-06-29T01:19:15.246686+05:30'
+first_seen: '2026-06-29T03:47:44.201918+05:30'
+last_seen: '2026-06-29T03:47:44.201918+05:30'
+last_checked: '2026-06-29T03:47:44.201918+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing both memory and computational efficiency compared to traditional graph-based RAG methods.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based retrieval mechanism for RAG systems, optimizing large-scale corpus processing by leveraging linear graph structures to enhance retrieval efficiency and contextual relevance in LLM-based generation.
 
-- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling scalable deployment on large datasets while maintaining high accuracy and relevance in generated outputs.
+- **Scalability & Performance**: Demonstrates linear-time complexity for retrieval operations, enabling scalable deployment on large corpora while maintaining high retrieval accuracy and generation quality, as validated in ICLR 2026 evaluations.
 
-- **Implementation**: Provides an open-source Python implementation optimized for integration with LLMs, featuring modular design for customization and compatibility with existing RAG pipelines.
+- **Implementation**: Provides an open-source Python framework with modular components for graph construction, retrieval, and augmentation, supporting integration with existing LLM pipelines and graph-based RAG architectures.
 
 ## Why It Matters
 

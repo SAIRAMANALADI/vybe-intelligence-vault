@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime with CRDs (Services, Routes, Configurations, Revisions) for stateless workloads, enabling scale-to-zero, traffic splitting, and GPU resource allocation for AI/ML inference (e.g., LLM serving via KServe).
+- **Knative Serving**: Kubernetes-native HTTP-triggered autoscaling runtime with CRDs (Services, Routes, Configurations, Revisions) for stateless workloads, enabling automatic scaling (0-to-N), traffic splitting, and GPU resource support (e.g., LLM inference via KServe integration).
 
-- **Knative Eventing**: CloudEvents-compliant, loosely coupled event mesh using Brokers, Triggers, and Sources to route async events between producers/consumers, decoupling event generation from processing for pipelines
+- **Knative Eventing**: CloudEvents-compliant event mesh with loosely coupled components (Sources, Brokers, Triggers, Sinks) for async event routing, supporting real-time pipelines, workflow orchestration, and multi
 
 ## Use Cases
 

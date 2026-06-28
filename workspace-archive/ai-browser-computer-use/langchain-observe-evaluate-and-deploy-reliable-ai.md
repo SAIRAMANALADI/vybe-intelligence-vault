@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via production trace analysis.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
 
-- **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, human feedback), deployment (A2A/MCP, fault-tolerant runtime), and fleet management (BYOM, MCP integration).
+- **Multi-Protocol Deployment**: Supports A2A & MCP protocols with fault-tolerant, scalable runtime for async agent collaboration and human-in-the-loop workflows.
 
-- **Open-Source Frameworks**: Provides `deepagents` (autonomous agents), `langchain` (rapid prototyping), and `langgraph
+- **Cross-Framework Observability**: Provides native tracing for agent frameworks, OpenTelemetry integration, and SDKs (Python/TypeScript/Go/Java) for structured debugging of multi-turn
 
 ## Use Cases
 

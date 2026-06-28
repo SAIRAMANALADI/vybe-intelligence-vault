@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-29T01:18:15.190411+05:30'
+collected_at: '2026-06-29T03:46:44.184828+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 156
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-29T01:18:15.190411+05:30'
-last_seen: '2026-06-29T01:18:15.190411+05:30'
-last_checked: '2026-06-29T01:18:15.190411+05:30'
+first_seen: '2026-06-29T03:46:44.184828+05:30'
+last_seen: '2026-06-29T03:46:44.184828+05:30'
+last_checked: '2026-06-29T03:46:44.184828+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- Demonstrates a Streamlit-based RAG pipeline integrating LangChain with vector stores (e.g., FAISS, Chroma) for hybrid search (dense + sparse retrieval).
-- Implements document ingestion, chunking, embedding (e.g., OpenAI, HuggingFace), and retrieval-augmented generation (RAG) with LLM inference.
-- Includes a UI for querying, displaying retrieved context, and streaming generated responses with configurable parameters (e.g., chunk size, top-k).
+- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
+
+- **LangChain RAG Pipeline**: Integrates LangChain's retrieval-augmented generation (RAG) framework with a vector store (e.g., FAISS or Chroma) for context-aware LLM responses.
+
+- **Streamlit UI**: Provides a Streamlit-based web interface for querying and visualizing RAG results, with real-time interaction and hybrid search result fusion.
 
 ## Why It Matters
 

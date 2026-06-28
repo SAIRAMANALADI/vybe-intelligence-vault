@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-29T01:18:10.085175+05:30'
+collected_at: '2026-06-29T03:46:39.097183+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-29T01:18:10.085175+05:30'
-last_seen: '2026-06-29T01:18:10.085175+05:30'
-last_checked: '2026-06-29T01:18:10.085175+05:30'
+first_seen: '2026-06-29T03:46:39.097183+05:30'
+last_seen: '2026-06-29T03:46:39.097183+05:30'
+last_checked: '2026-06-29T03:46:39.097183+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze and debug RAG workflows interactively.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed to visualize and analyze Retrieval-Augmented Generation (RAG) pipelines dynamically.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic exploration of RAG components (e.g., retrieval, generation) with real-time updates and customizable visualizations.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components, including retrieval mechanisms, LLM outputs, and data flow visualization.
 
-- **Python-Based & Modular**: Built in Python with modular design, supporting extensibility for custom RAG pipelines, retrieval strategies, and visualization techniques (e.g., embedding projections, attention maps).
+- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, retrieval strategies, and LLM integrations for debugging and optimization.
 
 ## Why It Matters
 

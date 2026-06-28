@@ -2,7 +2,7 @@
 title: Sign in to GitHub · GitHub
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/code/overview.mdx
+source_url: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/overview.mdx
 resource_id: github:langchain-ai/docs
 local_vault_path: ai/agents/langchain-ai-docs.md
 quality_score: 70
@@ -29,11 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Error**: The GitHub login page encountered a loading error, preventing successful access to the authentication interface.
-
-- **Account Creation Link**: Provides a direct URL (`/signup`) for new users to register, bypassing the failed login attempt.
-
-- **Passkey Support**: Implements passkey-based authentication as an alternative to traditional password-based login.
+- **Authentication Error**: The page failed to load due to an unspecified error, requiring a manual reload.
+- **Password Reset Option**: Users can initiate a password recovery via the provided "Forgot password?" link.
+- **Account Creation Path**: New users are directed to a signup page with a pre-filled return URL to the specified documentation.
 
 ## Use Cases
 
@@ -43,7 +41,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/code/overview.mdx
+Original source URL: https://github.com/langchain-ai/docs/edit/main/src/oss/deepagents/overview.mdx
 
 ## Local Vault File
 

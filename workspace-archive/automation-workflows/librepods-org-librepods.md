@@ -1,5 +1,5 @@
 ---
-title: 'GitHub – librepods-org/librepods: AirPods liberated from Apple''s ecosystem'
+title: 'Librepods: AirPods liberated'
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://github.com/librepods-org/librepods
@@ -18,7 +18,7 @@ selection_reason:
 - Active open-source repository
 ---
 
-# GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem
+# Librepods: AirPods liberated
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rbanffy. Score: 6, Comments: 1.
+Hacker News story by rbanffy. Score: 191, Comments: 56.
 Original Link: https://github.com/librepods-org/librepods
 
 ## Use Cases

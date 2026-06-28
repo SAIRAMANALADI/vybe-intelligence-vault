@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AvdLee/SwiftUI-Agent-Skill
-collected_at: '2026-06-28T19:50:14.681614+05:30'
-published_at: '2026-06-28T14:12:08Z'
+collected_at: '2026-06-29T03:48:39.220479+05:30'
+published_at: '2026-06-28T19:59:53Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
-stars: 3122
+stars: 3125
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-21T14:42:30Z'
 pushed_at: '2026-06-16T08:47:28Z'
 resource_id: github:avdlee/swiftui-agent-skill
-first_seen: '2026-06-28T19:50:14.681614+05:30'
-last_seen: '2026-06-28T19:50:14.681614+05:30'
-last_checked: '2026-06-28T19:50:14.681614+05:30'
+first_seen: '2026-06-29T03:48:39.220479+05:30'
+last_seen: '2026-06-29T03:48:39.220479+05:30'
+last_checked: '2026-06-29T03:48:39.220479+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool using the Agent Skills open format.
-- **Technical Details**: Implemented in Python, last updated on 2026-06-28, with 3,122 stars and 145 forks.
-- **Repository**: Hosted at [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill).
+- **Repository Purpose**: Provides expert SwiftUI best practices guidance in an AI coding tool (Agent Skills open format).
+- **Technical Details**: Implemented in Python, last updated on 2026-06-28, with 3,125 stars and 146 forks.
+- **Integration**: Designed to enhance AI coding agents with SwiftUI expertise via open skill format.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: AvdLee
-- Stars: 3122
-- Forks: 145
+- Stars: 3125
+- Forks: 146
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T14:12:08Z
+- Last Updated: 2026-06-28T19:59:53Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-21T14:42:30Z

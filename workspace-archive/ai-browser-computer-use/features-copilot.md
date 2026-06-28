@@ -16,6 +16,7 @@ tags:
 - frontend_ui
 - hackernews
 - openai
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to PR merges.
+- **Multi-model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across multiple AI models (e.g., Anthropic, Google, OpenAI) with convergence on a decision-ready result.
 
-- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, branches, and PRs, inherits org policies (Copilot Business/Enterprise), and enforces branch protections/required checks without additional
+- **GitHub-Native Workflow Integration**: Operates via GitHub’s native `/mcp` for direct issue/PR interaction, branch management, and pull request automation, inheriting org policies (branch protections, required checks) without additional setup.
+
+- **Agentic Runtime & Extensi
 
 ## Use Cases
 

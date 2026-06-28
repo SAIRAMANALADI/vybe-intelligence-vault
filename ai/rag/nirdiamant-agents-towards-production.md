@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/agents-towards-production
-collected_at: '2026-06-29T01:19:05.191644+05:30'
+collected_at: '2026-06-29T03:47:34.173350+05:30'
 published_at: '2026-06-28T19:07:22Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 stars: 20872
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-06-16T17:33:44Z'
 pushed_at: '2026-06-17T20:54:13Z'
 resource_id: github:nirdiamant/agents-towards-production
-first_seen: '2026-06-29T01:19:05.191644+05:30'
-last_seen: '2026-06-29T01:19:05.191644+05:30'
-last_checked: '2026-06-29T01:19:05.191644+05:30'
+first_seen: '2026-06-29T03:47:34.173350+05:30'
+last_seen: '2026-06-29T03:47:34.173350+05:30'
+last_checked: '2026-06-29T03:47:34.173350+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for developing production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
 
-- **Multi-Technology Integration**: Demonstrates integration with key frameworks and tools including LangGraph, MCP, RAG, and multi-agent systems, alongside MLOps and observability practices for production environments.
+- **Multi-Topic Coverage**: Includes tutorials on agent frameworks, multi-agent systems, RAG, MLOps, observability, and deployment strategies, leveraging Python and LLMs.
 
-- **Python & Jupyter Notebook-Based**: Delivered entirely via Jupyter Notebooks, emphasizing hands-on, executable tutorials in Python for rapid prototyping, testing, and deployment of AI agents.
+- **Enterprise-Ready Tools**: Focuses on production-grade implementations with observability, scalability, and integration best practices for AI agents in enterprise environments.
 
 ## Why It Matters
 

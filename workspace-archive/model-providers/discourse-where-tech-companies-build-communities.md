@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Open-Source Platform**: Discourse is an open-source, highly customizable community platform used by 22,000+ organizations (e.g., OpenAI, Zoom, GitLab) with enterprise-grade features like SSO, SAML, and dedicated infrastructure for mission-critical deployments.
+- **Scalable Community Platform**: Discourse powers over 22,000 communities with features like customization, real-time chat, private messaging, and AI-assisted moderation, supporting enterprise-grade infrastructure with dedicated SLAs and SSO/SAML authentication.
 
-- **Modular Community Building**: Supports structured workflows (support hubs, developer collaboration, product feedback) via categories, tags, automated moderation, and GitHub integrations, while enabling real-time chat, pri
+- **Modular Use Cases**: Supports structured workflows for support hubs, team collaboration, product feedback, and developer communities, enabling organized discussions, GitHub integration, and transparent roadmap tracking with voting
 
 ## Use Cases
 

@@ -4,22 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/blog
-published_at: '2026-06-28T22:12:21.680687+05:30'
-collected_at: '2026-06-28T22:12:21.680700+05:30'
+published_at: '2026-06-29T03:50:21.926915+05:30'
+collected_at: '2026-06-29T03:50:21.926929+05:30'
 tags:
 - agents
-- creative_dev
 - hackernews
 - paper
 - producthunt
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:blog
-first_seen: '2026-06-28T22:12:21.680700+05:30'
-last_seen: '2026-06-28T22:12:21.680700+05:30'
-last_checked: '2026-06-28T22:12:21.680700+05:30'
+first_seen: '2026-06-29T03:50:21.926929+05:30'
+last_seen: '2026-06-29T03:50:21.926929+05:30'
+last_checked: '2026-06-29T03:50:21.926929+05:30'
 health_score: 100
 ---
 
@@ -27,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling modular RAG, document processing, and enterprise search workflows with support for transformer models and vector databases.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, including RAG, IDP, and enterprise search systems with modular components for document retrieval, processing, and querying.
 
-- **Haystack Enterprise Platform**: Unified enterprise-grade solution integrating MCP tooling, harness engineering for AI agent reliability, and sovereign AI compliance with cost control mechanisms for scalable deployments.
+- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harness design rather than model selection alone.
 
-- **Technical Solutions Portfolio**: Offers specialized tools for AI agents, RAG, IDP, enterprise search, and Text-to-SQL, with industry-specific implementations for government, finance, healthcare, and manufacturing sectors.
+- **Haystack Enterprise Platform**: Unified enterprise AI solution offering managed MCP tools, scalable RAG pipelines, and sovereign AI compliance with governance features for regulated industries.
 
 ## Why It Matters
 
@@ -41,18 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:12:21.680687+05:30
+- Published: 2026-06-29T03:50:21.926915+05:30
 
 ## Related Tags
 
 - agents
-- creative_dev
 - hackernews
 - paper
 - producthunt
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

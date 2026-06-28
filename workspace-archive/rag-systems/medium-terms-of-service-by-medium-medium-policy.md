@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **License Grant**: Users retain ownership of submitted content but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
+- **License Grant**: Users retain content ownership but grant Medium a **nonexclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display user content across all Services (e.g., web, mobile) with attribution, including derivative works like previews or curated lists.
 
-- **Dispute Resolution**: Mandatory **binding arbitration** (via JAMS) replaces litigation for all disputes, with class actions waived; exceptions include small claims or injunct
+- **Dispute Resolution**: Mandatory **binding arbitration** (via JAMS) replaces court proceedings for disputes, waiving class actions/jury trials; exceptions include small claims or IP in
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com/
-published_at: '2026-06-29T01:22:10.746650+05:30'
-collected_at: '2026-06-29T01:22:10.746665+05:30'
+published_at: '2026-06-29T03:51:07.788910+05:30'
+collected_at: '2026-06-29T03:51:07.788923+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-06-29T01:22:10.746665+05:30'
-last_seen: '2026-06-29T01:22:10.746665+05:30'
-last_checked: '2026-06-29T01:22:10.746665+05:30'
+first_seen: '2026-06-29T03:51:07.788923+05:30'
+last_seen: '2026-06-29T03:51:07.788923+05:30'
+last_checked: '2026-06-29T03:51:07.788923+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight**: Introduces a lossless MLP weight compression system for LLM inference, achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Lossless MLP Weight Compression**: Unweight achieves 1.44x compression on BF16 MLP weights for LLM inference with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **RFC 9935**: Specifies algorithm identifiers for ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism) in X.509 PKI, standardizing cryptographic primitives for post-quantum secure key exchange.
+- **Research Focus Areas**: Cloudflare Research targets five pillars—privacy-enhancing tech, cryptographic/security advancements, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
 
-- **Research Focus Areas**: Cloudflare’s research spans privacy-enhancing technologies, cryptographic/security advancements, next-gen network protocols (e.g., HTTP/3), distributed systems resilience, and open internet measurement/transparency initiatives.
+- **Recent Publications**: Includes RFC 9935 (ML-KEM X.509 PKI algorithm identifiers) and Kneeliverse (universal knee-detection library for performance curve analysis in storage workloads).
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:10.746650+05:30
+- Published: 2026-06-29T03:51:07.788910+05:30
 
 ## Related Tags
 

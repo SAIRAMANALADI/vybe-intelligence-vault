@@ -2,7 +2,7 @@
 title: Deep Agents overview - Docs by LangChain
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://docs.langchain.com/oss/python/deepagents
+source_url: https://docs.langchain.com/oss/python/deepagents/overview
 resource_id: blog:deep-agents-overview-docs-by-langchain
 local_vault_path: ai/rag/deep-agents-overview-docs-by-langchain.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Execution Environment**: Supports tools (custom functions, APIs, MCP), virtual filesystem (pluggable backends: in-memory, local disk, LangGraph store), filesystem permissions (declarative access control), code execution (sandboxed shell & JS interpreter), and streaming (typed event streams for messages, tools, values, and delegated tasks).
+- **Execution Environment**: Supports tools (custom functions/APIs), MCP integration, virtual filesystem (pluggable backends: in-memory, disk, LangGraph store), filesystem permissions (declarative access control), sandboxed code execution (shell/JS interpreter), and streaming event handling for real-time agent monitoring.
 
-- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching for efficient long-term task handling and grow
+- **Context Management**: Implements skills, memory, summarization, context offloading, and prompt caching to handle growing context efficiently during long-running tasks.
+
+-
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.langchain.com/oss/python/deepagents
+Original source URL: https://docs.langchain.com/oss/python/deepagents/overview
 
 ## Local Vault File
 

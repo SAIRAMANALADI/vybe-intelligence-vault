@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Divided into **Injection Pipeline** (data ingestion: chunking + embedding via models like OpenAI's 3,072-dim `text-embedding-3-large`) and **Retrieval Pipeline** (user query embedding → vector DB similarity search → top-*k* chunks → LLM generation).
-- **Vector Embeddings**: High-dimensional numerical representations (e.g., 3,072D) encoding semantic meaning; enable similarity-based retrieval via cosine distance in vector databases (e.g., Pinecone, FAISS).
-- **Chunking Stra
+- **RAG Architecture**: RAG combines LLMs with external retrieval systems to fetch relevant context from vast document repositories (e.g., PDFs, databases) without overloading the LLM's context window. The system is divided into two pipelines: **Injection** (data ingestion, chunking, embedding) and **Retrieval** (query embedding, similarity search, LLM augmentation).
+
+- **Vector Embeddings & Semantic Search**: Embeddings convert text chunks/documents into high-dimensional vectors (e.g., OpenAI's
 
 ## Use Cases
 

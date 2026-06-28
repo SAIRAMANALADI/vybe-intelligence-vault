@@ -8,17 +8,16 @@ local_vault_path: ai/agents/theagentcompany-theagentcompany.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # TheAgentCompany/TheAgentCompany
@@ -27,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks.
-- **Technical Stack**: Python-based implementation with focus on agent orchestration, task decomposition, and performance metrics.
-- **Research Utility**: Designed for LLM-driven agent research, enabling systematic comparison of agent capabilities in software development workflows.
+- **Purpose**: A Python-based AI benchmarking repository simulating tasks within a virtual software company to evaluate agentic AI systems.
+- **Scope**: Contains 734+ stars and 119 forks, focusing on agent performance, LLM capabilities, and AI research metrics.
+- **Updates**: Last modified on 2026-06-28, emphasizing continuous benchmark refinement for agentic workflows.
 
 ## Use Cases
 

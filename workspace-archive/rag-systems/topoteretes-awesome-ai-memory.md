@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval-augmented generation (RAG), and agent-based systems.
-- **Python-centric** repository with 801 stars and 87 forks, last updated June 28, 2026.
-- Covers topics including **AI agents, memory architectures, RAG pipelines, and ML-based memory optimization**.
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including RAG (Retrieval-Augmented Generation) and memory management for AI agents.
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, emphasizing compatibility with ML/AI libraries (e.g., PyTorch, LangChain).
+- **Active maintenance**: Last updated in 2026, indicating ongoing updates and relevance to cutting-edge AI memory advancements.
 
 ## Use Cases
 

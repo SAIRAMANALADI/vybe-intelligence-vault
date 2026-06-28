@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act
-published_at: '2026-06-22T15:21:53.319434+05:30'
-collected_at: '2026-06-22T15:21:53.319451+05:30'
+published_at: '2026-06-29T03:55:11.413071+05:30'
+collected_at: '2026-06-29T03:55:11.413085+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:digital-millennium-copyright-act-wikipedia
-first_seen: '2026-06-22T15:21:53.319451+05:30'
-last_seen: '2026-06-22T15:21:53.319451+05:30'
-last_checked: '2026-06-22T15:21:53.319451+05:30'
+first_seen: '2026-06-29T03:55:11.413085+05:30'
+last_seen: '2026-06-29T03:55:11.413085+05:30'
+last_checked: '2026-06-29T03:55:11.413085+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Framework**: Enacted in 1998, the DMCA amends Title 17 of the U.S. Code to implement WIPO treaties, criminalizing circumvention of DRM and access controls, regardless of infringement status.
+- **Enactment & Scope**: U.S. copyright law (Pub. L. 105-304, 1998) implementing WIPO treaties, criminalizing circumvention of DRM/access controls (17 U.S.C. §§ 1201–1205) and increasing penalties for online copyright infringement.
 
-- **Liability Shield**: Introduces safe harbor provisions (17 U.S.C. § 512) limiting liability for online service providers (OSPs) for user-generated infringing content, conditioned on compliance with takedown notices.
+- **Liability Framework**: Introduces safe harbor provisions (17 U.S.C. § 512) shielding ISPs/online platforms from direct/indirect liability for user-generated infringing content, conditioned on compliance with takedown notices.
 
-- **Enforcement & Penalties**: Heightens penalties for copyright infringement online, including statutory damages and injunctions, while enabling rapid content removal via DMCA takedown notices.
+- **Amendments & Impact**: Amended Title 17 (e.g., §§ 101, 104, 108) to extend copyright reach, while balancing intermediary protections; later influencing global frameworks like the EU’s Electronic Commerce Directive 2000.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:21:53.319434+05:30
+- Published: 2026-06-29T03:55:11.413071+05:30
 
 ## Related Tags
 

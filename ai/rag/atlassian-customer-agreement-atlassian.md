@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.atlassian.com/legal/cloud-terms-of-service
-published_at: '2026-06-23T10:11:57.037087+05:30'
-collected_at: '2026-06-23T10:11:57.037100+05:30'
+published_at: '2026-06-29T03:54:36.812496+05:30'
+collected_at: '2026-06-29T03:54:36.812512+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:atlassian-customer-agreement-atlassian
-first_seen: '2026-06-23T10:11:57.037100+05:30'
-last_seen: '2026-06-23T10:11:57.037100+05:30'
-last_checked: '2026-06-23T10:11:57.037100+05:30'
+first_seen: '2026-06-29T03:54:36.812512+05:30'
+last_seen: '2026-06-29T03:54:36.812512+05:30'
+last_checked: '2026-06-29T03:54:36.812512+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Compliance**: Atlassian Customer Agreement governs all Cloud/Software Products, aligning with enterprise-level controls (e.g., ISO, SOC2) and requiring customer compliance with documented usage policies, including restrictions on redistribution, reverse engineering, and competitive use.
+- **Scope & Compliance**: Agreement governs all Atlassian Cloud/Software Products, aligning with enterprise controls and international standards (e.g., ISO 27001, SOC 2). Includes a Data Processing Addendum (DPA) for GDPR/HIPAA compliance, with third-party audits validating security measures.
 
-- **Data & Security**: Customer Data processed via Cloud Products is subject to Atlassian’s DPA (Data Processing Addendum), with security governed by third-party audits (e.g., SOC2 Type II), encryption, and Atlassian’s right to suspend access for violations or security threats.
+- **Usage Restrictions**: Strict prohibitions on redistribution, reverse engineering, benchmarking disclosures without replication data, and AI feature usage governed by separate [AI Terms](https://www.atlassian.com/legal/ai-terms). Software Products require license verification audits (≤1/year) with penalties for scope violations.
 
-- **Licensing & Audits**: Software Products permit internal source-code modifications (with destruction obligations), while Cloud Products enforce service-level agreements (SLAs). Atlassian may audit Software usage annually, invoicing excess usage, and retains rights to limit/remove data violating terms or laws.
+- **Data & Liability**: Atlassian processes Customer Data per DPA but disclaims liability for Third-Party Products. Customer retains responsibility for user compliance, age restrictions (≥16), and HIPAA-regulated data handling. Suspension/removal of data occurs for violations or security threats.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-23T10:11:57.037087+05:30
+- Published: 2026-06-29T03:54:36.812496+05:30
 
 ## Related Tags
 

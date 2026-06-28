@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-29T01:18:35.246377+05:30'
+collected_at: '2026-06-29T03:47:04.214006+05:30'
 published_at: '2026-06-27T03:54:28Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-27T10:16:13Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-29T01:18:35.246377+05:30'
-last_seen: '2026-06-29T01:18:35.246377+05:30'
-last_checked: '2026-06-29T01:18:35.246377+05:30'
+first_seen: '2026-06-29T03:47:04.214006+05:30'
+last_seen: '2026-06-29T03:47:04.214006+05:30'
+last_checked: '2026-06-29T03:47:04.214006+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generating ChatGPT-style and Q&A responses, adhering to best practices.
-
-- **Azure Deployment**: Provides **Azure Developer CLI (azd) templates** for end-to-end deployment, including infrastructure-as-code (IaC) for Azure resources (e.g., AI Search, OpenAI, storage).
-
-- **Python-Based**: Entire solution is implemented in **Python**, with modular components for data ingestion, retrieval, and chat orchestration, optimized for scalability and performance.
+- **RAG Implementation**: Deploys a Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** models for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Azure Deployment**: Utilizes **Azure Developer CLI (azd)** templates for infrastructure-as-code deployment, incorporating best practices for scalability, security, and cost optimization.
+- **Python-Based Solution**: Provides a **Python** implementation with modular components for document ingestion, retrieval, and LLM orchestration, supporting customization for enterprise-grade scenarios.
 
 ## Why It Matters
 

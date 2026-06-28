@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,275</p>
-        <p><b>Active:</b> 9,017 | <b>Inactive:</b> 258</p>
+        <p><b>Resources tracked:</b> 9,300</p>
+        <p><b>Active:</b> 9,041 | <b>Inactive:</b> 259</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 35,150</p>
+        <p><b>Archive Files:</b> 35,213</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-29 03:37 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 04:02 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,22 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Librepods: AirPods liberated](ai/community/librepods-org-librepods.md)** • <kbd>+185 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md)** • <kbd>+22 pts</kbd>
+- 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+16 pts</kbd>
+- 🔼 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)** • <kbd>+10 pts</kbd>
+- 🔼 **[Overview - Knative](ai/rag/overview-knative.md)** • Rank: <kbd>+971</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • Score: `61`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • Score: `87`
+- 🆕 **[Professor denounces mass AI fraud on an exam at Brown](ai/community/professor-denounces-mass-ai-fraud-on-an-exam-at-br.md)** • Score: `82`
+- 🆕 **[Do LLMs pass the mirror test?](ai/community/do-llms-pass-the-mirror-test.md)** • Score: `19`
+- 🆕 **[Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](ai/community/kamaludu-bash4llm.md)** • Score: `15`
+- 🆕 **[Gemini Enterprise app: Best of Google AI for Business | Google Cloud](ai/rag/gemini-enterprise-app-best-of-google-ai-for-busine.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Ford rehires 'gray beard' engineers after AI falls short](ai/community/ford-rehires-gray-beard-engineers-after-ai-falls-s.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

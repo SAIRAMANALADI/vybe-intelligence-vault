@@ -25,7 +25,7 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
 - [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 - [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md)
-- [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
+- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-29 01:33 IST*
+*Last updated: 2026-06-29 04:02 IST*

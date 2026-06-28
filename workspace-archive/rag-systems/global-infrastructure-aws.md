@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Global Reach & Scale**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs** and **45 Local Zones/Wavelength Zones**, enabling low-latency, high-performance deployments across **6 continents** with plans for expansion in **Saudi Arabia, Chile, New Zealand, and Taiwan**.
-
-- **Resilient & Secure Architecture**: Each **Region** contains **≥3 isolated AZs**, ensuring **high availability (99.99%)** and fault tolerance. AWS leverages **20M+ km of fiber o
+- **Global Reach & Resilience**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, each containing **≥3 isolated AZs** for high availability, and plans expansions in **Saudi Arabia, Chile, New Zealand, Taiwan**, and **Australia** (AU$20B investment).
+- **Low-Latency Edge Network**: **750+ CloudFront POPs**, **15 Regional edge caches**, **45 Local Zones**, and **33 Wavelength Zones** optimize performance for latency-sensitive workloads via **20M km fiber backbone**.
+- **Hybrid &
 
 ## Use Cases
 

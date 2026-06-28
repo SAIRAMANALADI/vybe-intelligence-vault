@@ -2,13 +2,13 @@
 title: Privacy Policy – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://myaccount.google.com/privacypolicy?hl=en-US
+source_url: https://policies.google.com/privacy
 resource_id: blog:privacy-policy-privacy-terms-google
 local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -30,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, and activity logs (e.g., searches, interactions with ads/content), both for signed-in users and anonymous sessions.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (name, email, payment data) and device/browser metadata (IP, OS, unique identifiers), with differential handling based on signed-in status.
 
-- **Personal vs. Non-Personal Data**: Signed-in users provide personal info (e.g., name, email, payment data), while non-account interactions rely on device/browser-specific identifiers to maintain preferences (e.g., language, ad rele
+- **Activity & Location Tracking**: Collects granular user activity (searches, watch history, interactions) and location data (GPS, Wi-Fi access points, IP) with retention tied to account settings; stored in services lik
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://myaccount.google.com/privacypolicy?hl=en-US
+Original source URL: https://policies.google.com/privacy
 
 ## Local Vault File
 

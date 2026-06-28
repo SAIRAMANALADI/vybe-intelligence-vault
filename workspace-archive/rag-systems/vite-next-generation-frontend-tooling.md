@@ -2,7 +2,7 @@
 title: Vite | Next Generation Frontend Tooling
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://vite.dev
+source_url: https://vite.dev/
 resource_id: blog:vite-next-generation-frontend-tooling
 local_vault_path: ai/rag/vite-next-generation-frontend-tooling.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand source file serving, eliminating bundling overhead during development and enabling instant server start via dependency pre-bundling with esbuild.
+- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand source file serving, eliminating bundling overhead during development and enabling instant server start times via dependency pre-bundling with `esbuild`.
 
-- **Optimized Production Builds**: Uses Rolldown (Rollup-compatible) for advanced tree-shaking, built-in minification, and fine-grained chunking, while maintaining Rollup plugin compatibility for extensibility.
+- **Optimized Production Builds**: Uses Rollup-derived Rolldown for advanced tree-shaking, minification, and granular chunking, while maintaining compatibility with Rollup plugins through a flexible plugin system.
 
-- **Framework-Agnostic Plugin System**: Extends Rollup’s pl
+- **SSR & Framework Agnostic**: Provides first-c
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://vite.dev
+Original source URL: https://vite.dev/
 
 ## Local Vault File
 

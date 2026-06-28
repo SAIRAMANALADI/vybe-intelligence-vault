@@ -2,7 +2,7 @@
 title: Discourse | Where Tech Companies Build Communities
 archive_category: learning-paths
 source_category: ai/resources
-source_url: https://discourse.org
+source_url: https://www.discourse.org
 resource_id: blog:discourse-where-tech-companies-build-communities
 local_vault_path: ai/resources/discourse-where-tech-companies-build-communities.md
 quality_score: 70
@@ -15,7 +15,6 @@ tags:
 - openai
 - producthunt
 - reddit
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Scalable Community Platform**: Discourse powers 22,000+ communities with features like SSO, SAML, enterprise authentication, and AI-assisted moderation, supporting high-traffic sites (e.g., 1B+ monthly page views, 100K+ active users per site).
+- **Scalable Community Platform**: Discourse powers over 22,000 communities with features like customization, real-time chat, private messaging, and AI-assisted moderation, supporting enterprise-grade infrastructure with dedicated SLAs and SSO/SAML authentication.
 
-- **Modular Use Cases**: Supports structured workflows for support hubs (upvoting, internal notes), developer communities (GitHub integration, code snippets), and product feedback (voting, roadmap tracking) via customizable categories, tags, and autom
+- **Modular Use Cases**: Supports structured workflows for support hubs, team collaboration, product feedback, and developer communities, enabling organized discussions, GitHub integration, and transparent roadmap tracking with voting
 
 ## Use Cases
 
@@ -49,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://discourse.org
+Original source URL: https://www.discourse.org
 
 ## Local Vault File
 

@@ -4,13 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cloudflare/mcp-server-cloudflare
-collected_at: '2026-06-29T01:23:21.282754+05:30'
+collected_at: '2026-06-29T03:51:11.841746+05:30'
 published_at: '2026-06-28T12:04:49Z'
 tags:
 - github-repo
-- scripts
 - typescript
-- workflows
 stars: 3900
 language: TypeScript
 status: active
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-11-27T22:07:30Z'
 pushed_at: '2026-06-27T08:03:13Z'
 resource_id: github:cloudflare/mcp-server-cloudflare
-first_seen: '2026-06-29T01:23:21.282754+05:30'
-last_seen: '2026-06-29T01:23:21.282754+05:30'
-last_checked: '2026-06-29T01:23:21.282754+05:30'
+first_seen: '2026-06-29T03:51:11.841746+05:30'
+last_seen: '2026-06-29T03:51:11.841746+05:30'
+last_checked: '2026-06-29T03:51:11.841746+05:30'
 health_score: 100
 ---
 
@@ -29,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2) into MCP-compatible clients.
-- **Repository stats**: 3.9k stars, 436 forks, last updated June 28, 2026.
-- **Purpose**: Facilitates programmatic interactions with Cloudflare’s ecosystem via MCP (Model Context Protocol) for AI/automation workflows.
+- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2, Durable Objects) into MCP-compatible clients.
+- **Repository structure** follows Cloudflare’s modular design, enabling extensible API interactions with Cloudflare’s APIs (REST/GraphQL).
+- **Last updated June 2026**, indicating active development with potential support for new Cloudflare features or MCP protocol updates.
 
 ## Why It Matters
 

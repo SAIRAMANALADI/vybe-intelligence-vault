@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-29T01:18:40.149938+05:30'
+collected_at: '2026-06-29T03:47:09.180160+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-29T01:18:40.149938+05:30'
-last_seen: '2026-06-29T01:18:40.149938+05:30'
-last_checked: '2026-06-29T01:18:40.149938+05:30'
+first_seen: '2026-06-29T03:47:09.180160+05:30'
+last_seen: '2026-06-29T03:47:09.180160+05:30'
+last_checked: '2026-06-29T03:47:09.180160+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models (VLMs), and retrieval-augmented visual question answering (VQA).
+- **Curated RAG-Vision Resources**: Repository aggregates advanced retrieval augmented generation (RAG) techniques specifically tailored for Computer Vision applications, including multimodal RAG, vision-language models, and cross-modal retrieval methods.
 
-- **Scope and focus**: Encompasses cutting-edge methods bridging **vision and language**, such as **cross-modal retrieval**, **context-aware visual grounding**, and **long-form visual generation** with RAG architectures.
+- **Technical Scope**: Encompasses cutting-edge methodologies such as image-text retrieval, zero-shot/few-shot vision tasks, and integration of large vision models (LVMs) with RAG frameworks for enhanced contextual understanding.
 
-- **Metadata**: 336 stars, 9 forks, last updated **2026-06-25**; language unspecified, but likely includes Python/Markdown for documentation and code snippets.
+- **Maintenance & Updates**: Actively maintained with the latest commit on **2026-06-25**, ensuring inclusion of recent advancements in RAG-Vision research, though language and topic metadata remain unspecified.
 
 ## Why It Matters
 

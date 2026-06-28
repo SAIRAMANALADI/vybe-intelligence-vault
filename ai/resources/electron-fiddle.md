@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/fiddle
-collected_at: '2026-06-28T15:10:07.149251+05:30'
+collected_at: '2026-06-29T03:50:30.422710+05:30'
 published_at: '2026-06-27T11:52:50Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2018-06-07T10:52:57Z'
 pushed_at: '2026-06-24T06:31:13Z'
 resource_id: github:electron/fiddle
-first_seen: '2026-06-28T15:10:07.149251+05:30'
-last_seen: '2026-06-28T15:10:07.149251+05:30'
-last_checked: '2026-06-28T15:10:07.149251+05:30'
+first_seen: '2026-06-29T03:50:30.422710+05:30'
+last_seen: '2026-06-29T03:50:30.422710+05:30'
+last_checked: '2026-06-29T03:50:30.422710+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Electron Fiddle**: A TypeScript-based desktop application designed to simplify Electron development by providing an interactive environment for prototyping and testing Electron applications.
-- **Key Features**: Offers a user-friendly interface for managing Electron versions, executing code snippets, and debugging applications directly within the app.
-- **Integration & Community**: Supports hacktoberfest contributions, integrates with GitHub for version control, and is optimized for cross-platform desktop development using Electron.
+- **Electron Fiddle**: An open-source Electron sandbox IDE enabling rapid prototyping and testing of Electron applications via an interactive TypeScript/JavaScript environment.
+- **Key Features**: Provides pre-configured Electron versions, live-reload debugging, and a built-in renderer for cross-platform desktop app development.
+- **Tech Stack**: Built in TypeScript with Node.js integration, supporting Electron’s core APIs and community-driven extensions.
 
 ## Why It Matters
 

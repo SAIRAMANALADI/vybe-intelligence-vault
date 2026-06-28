@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-29T01:19:15.199485+05:30'
+collected_at: '2026-06-29T03:47:44.136211+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-29T01:19:15.199485+05:30'
-last_seen: '2026-06-29T01:19:15.199485+05:30'
-last_checked: '2026-06-29T01:19:15.199485+05:30'
+first_seen: '2026-06-29T03:47:44.136211+05:30'
+last_seen: '2026-06-29T03:47:44.136211+05:30'
+last_checked: '2026-06-29T03:47:44.136211+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Introduces a cognitive-inspired memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) designed for stateful long narrative reasoning, leveraging structured memory organization for enhanced contextual recall.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
 
-- **Key Innovation**: Implements a hierarchical memory system that dynamically organizes retrieved information based on narrative coherence and temporal relevance, improving multi-turn reasoning capabilities in long-form contexts.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory organization to maintain context consistency across extended dialogues or narratives, leveraging episodic and semantic memory modules for hierarchical retrieval.
 
-- **Performance**: Evaluated on AAAI 2026 benchmarks, demonstrating superior stateful reasoning performance over traditional RAG systems in tasks requiring extended contextual understanding.
+- **AAAI 2026 Contribution**: Presents a novel approach to RAG systems, optimizing for long-form reasoning tasks by emulating human-like memory recall and contextual adaptation in Python-based implementations.
 
 ## Why It Matters
 

@@ -6,7 +6,7 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -24,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via production trace analysis.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
 
-- **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, human feedback), deployment (A2A/MCP, fault-tolerant runtime), and fleet management (BYOM, MCP integration).
+- **Multi-Protocol Deployment**: Supports A2A & MCP protocols with fault-tolerant, scalable runtime for async agent collaboration and human-in-the-loop workflows.
 
-- **Open-Source Frameworks**: Provides `deepagents` (autonomous agents), `langchain` (rapid prototyping), and `langgraph
+- **Cross-Framework Observability**: Provides native tracing for agent frameworks, OpenTelemetry integration, and SDKs (Python/TypeScript/Go/Java) for structured debugging of multi-turn
 
 ## Use Cases
 

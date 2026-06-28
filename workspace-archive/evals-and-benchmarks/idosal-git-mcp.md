@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
+- **Purpose**: GitMCP is an open-source, remote MCP server designed to provide structured, hallucination-free access to any GitHub repository for AI agents and LLMs.
 
-- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interactions.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interactions.
 
-- **Features**: Supports real-time Git operations (e.g., cloning, diffing, file retrieval) and exposes a standardized int
+- **Features**: Supports real-time, accurate code retrieval and analysis while mitigating hallucinations in AI-generated outputs.
 
 ## Use Cases
 

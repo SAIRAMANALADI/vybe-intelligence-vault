@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-29T01:20:10.272159+05:30'
+collected_at: '2026-06-29T03:48:39.237121+05:30'
 published_at: '2026-06-28T16:14:28Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
+- scripts
 - workflows
 stars: 901
 language: Python
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-29T01:20:10.272159+05:30'
-last_seen: '2026-06-29T01:20:10.272159+05:30'
-last_checked: '2026-06-29T01:20:10.272159+05:30'
+first_seen: '2026-06-29T03:48:39.237121+05:30'
+last_seen: '2026-06-29T03:48:39.237121+05:30'
+last_checked: '2026-06-29T03:48:39.237121+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from traditional "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular agent-based workflows for software development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
 
-- **Context & Hook Engineering**: Implements advanced context engineering and Codex hooks to dynamically manage AI agent interactions, enabling precise control over task execution and skill deployment.
+- **Codex CLI Best Practices**: Provides curated commands, skills, and hooks for OpenAI’s Codex CLI to optimize agentic coding, including context management, multi-agent orchestration, and reusable CLI configurations.
 
-- **CLI Best Practices**: Provides a curated set of Codex CLI commands, skills, and best practices for OpenAI Codex, optimized for Pakistani developers and scalable agentic workflows.
+- **Pakistani Developer Contribution**: Open-source project led by a Pakistani developer, showcasing regional expertise in AI agent frameworks while maintaining alignment with global agentic engineering trends.
 
 ## Why It Matters
 

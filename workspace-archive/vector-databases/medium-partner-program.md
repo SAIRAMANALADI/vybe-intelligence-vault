@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Earnings Calculation**: Medium Partner Program compensates writers based on engagement metrics including total views, read time (≥30s), claps, highlights, replies, new follows, and follower bonuses, with additional "Boost" bonuses for high-performing stories.
+- **Earnings Calculation**: Medium Partner Program compensates writers based on engagement metrics including total views, read time (≥30s), claps, highlights, replies, new follows, and follower interactions, with Boosted stories earning higher rates.
 
-- **Quality-First Model**: Unlike ad-driven platforms, Medium prioritizes long-form, high-quality content, rewarding thoughtful reads and positive interactions (e.g., claps, replies) over clickbait or superficial engagement.
+- **Quality Incentives**: Long-form, high-quality content is prioritized; earnings scale with read duration, positive interactions, and sustained follower engagement, discouraging clickbait.
 
-- **Appli
+- **Application & Support**: Writers apply via [Partner
 
 ## Use Cases
 

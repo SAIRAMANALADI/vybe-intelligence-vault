@@ -4,12 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/codeql
-collected_at: '2026-06-28T22:13:30.679670+05:30'
-published_at: '2026-06-28T08:21:11Z'
+collected_at: '2026-06-29T03:51:26.827629+05:30'
+published_at: '2026-06-28T20:32:25Z'
 tags:
 - codeql
 - github-repo
-stars: 9769
+- scripts
+stars: 9770
 language: CodeQL
 status: active
 license: MIT
@@ -17,9 +18,9 @@ archived: false
 created_at: '2018-07-31T16:35:51Z'
 pushed_at: '2026-06-26T16:35:12Z'
 resource_id: github:github/codeql
-first_seen: '2026-06-28T22:13:30.679670+05:30'
-last_seen: '2026-06-28T22:13:30.679670+05:30'
-last_checked: '2026-06-28T22:13:30.679670+05:30'
+first_seen: '2026-06-29T03:51:26.827629+05:30'
+last_seen: '2026-06-29T03:51:26.827629+05:30'
+last_checked: '2026-06-29T03:51:26.827629+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Framework**: Provides a semantic code analysis engine and domain-specific language (CodeQL) for writing custom queries to detect security vulnerabilities, data flow, and semantic patterns across multiple programming languages.
+- **CodeQL Framework**: A semantic code analysis engine enabling security researchers to write custom queries (in QL) for vulnerability detection across multiple languages (e.g., C/C++, Java, Python, JavaScript) by modeling code as a relational database.
 
-- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, enabling automated security analysis directly within GitHub repositories, and supports GitHub Security Lab’s research initiatives.
+- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, automating vulnerability detection directly in repositories, and supports CI/CD pipelines via GitHub Actions.
 
-- **Query Library & Extensibility**: Includes a comprehensive library of pre-built security queries and allows researchers to develop custom CodeQL queries for tailored vulnerability detection and analysis.
+- **Open-Source Ecosystem**: Hosts a public query library (e.g., `codeql-coding-standards`, `codeql-security-extractor`) and integrates with GitHub Security Lab for community-driven research and query development.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 9769
+- Stars: 9770
 - Forks: 2000
 - Language: CodeQL
 - Topics: codeql, github-advanced-security, github-security-lab, semmle-ql, works-with-codespaces
-- Last Updated: 2026-06-28T08:21:11Z
+- Last Updated: 2026-06-28T20:32:25Z
 - License: MIT
 - Archived: No
 - Created At: 2018-07-31T16:35:51Z

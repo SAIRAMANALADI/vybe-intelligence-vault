@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **High-performance OLAP database**: Optimized for real-time analytics with millisecond query latency at petabyte scale, leveraging columnar storage and vectorized execution.
-- **Multi-modal data processing**: Supports structured, semi-structured, and vector data, enabling real-time analytics, observability (logs/metrics/traces), and ML/GenAI workloads via ClickStack.
-- **Enterprise-grade scalability**: Adopted by major corporations (e.g., Sony, Lyft, Cisco) for mission-critical applications, o
+- **Columnar OLAP Engine**: ClickHouse is an open-source column-oriented database management system optimized for real-time analytics, offering millisecond query performance at petabyte scale with high compression ratios and vectorized query execution.
+
+- **Multi-Model Capabilities**: Supports real-time analytics, observability (logs/metrics/traces), ML/GenAI workloads (vector search, aggregations), and data warehousing via SQL, with native integrations for 100+ tools (e.g., Langfuse, LangChain,
 
 ## Use Cases
 

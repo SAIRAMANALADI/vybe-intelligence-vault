@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Core GitHub Functionality**: GitHub integrates Git for version control, supports secure SSH connections for remote operations, and enables repository creation/management for collaborative development workflows.
-
-- **Collaborative Development Tools**: Pull requests facilitate code review and merging, while GitHub Copilot provides AI-driven code suggestions in IDEs, enhancing developer productivity.
-
-- **Security & Automation**: GitHub Actions enables CI/CD pipelines, CodeQL supports vulnerabi
+- GitHub Docs provide structured guides for **version control (Git)**, **collaborative workflows (pull requests, Codespaces)**, and **CI/CD (GitHub Actions, Packages)**.
+- Security-focused documentation covers **secret management**, **vulnerability detection (CodeQL)**, and **supply chain security** for scalable deployments.
+- Developer resources include **REST/GraphQL APIs**, **webhooks**, **GitHub CLI**, and **Copilot integration** for AI-assisted coding.
 
 ## Use Cases
 

@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AhsanAyaz/ai-agents-google-adk
-collected_at: '2026-06-29T01:20:05.253882+05:30'
+collected_at: '2026-06-29T03:48:34.214177+05:30'
 published_at: '2026-06-22T22:33:31Z'
 tags:
 - agents
 - github-repo
 - python
 - scripts
-- workflows
 stars: 60
 language: Python
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-05-05T18:14:18Z'
 pushed_at: '2026-06-03T07:13:11Z'
 resource_id: github:ahsanayaz/ai-agents-google-adk
-first_seen: '2026-06-29T01:20:05.253882+05:30'
-last_seen: '2026-06-29T01:20:05.253882+05:30'
-last_checked: '2026-06-29T01:20:05.253882+05:30'
+first_seen: '2026-06-29T03:48:34.214177+05:30'
+last_seen: '2026-06-29T03:48:34.214177+05:30'
+last_checked: '2026-06-29T03:48:34.214177+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Example implementation of Google ADK (Agent Development Kit) showcasing a marketing campaign assistant agent, written in Python.
-- **Metadata**: 60 stars, 34 forks, last updated on 2026-06-22.
-- **Utility**: Demonstrates agent-based workflows for marketing automation using Google's ADK framework.
+- **Google ADK Integration**: Demonstrates the use of Google's Agent Development Kit (ADK) to create a marketing campaign assistant agent in Python.
+- **Repository Metrics**: Contains 60 stars and 34 forks, last updated on June 22, 2026.
+- **Purpose**: Provides a practical example of building AI agents for marketing automation using Google ADK.
 
 ## Why It Matters
 

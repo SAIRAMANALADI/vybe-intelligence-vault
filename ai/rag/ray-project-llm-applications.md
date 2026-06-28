@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-29T01:19:10.243603+05:30'
+collected_at: '2026-06-29T03:47:39.395982+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
+- workflows
 stars: 1858
 language: Jupyter Notebook
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-29T01:19:10.243603+05:30'
-last_seen: '2026-06-29T01:19:10.243603+05:30'
-last_checked: '2026-06-29T01:19:10.243603+05:30'
+first_seen: '2026-06-29T03:47:39.395982+05:30'
+last_seen: '2026-06-29T03:47:39.395982+05:30'
+last_checked: '2026-06-29T03:47:39.395982+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) pipelines using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
-- **Fine-Tuning & Serving**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference, with examples leveraging Anyscale for cloud-based training.
-- **Modular Architecture**: Showcases a structured approach to building LLM applications, including data ingestion, vector database integration, and end-to-end evaluation frameworks for production readiness.
+- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized fine-tuning techniques.
+- **Scalable Serving Architecture**: Leverages Ray’s distributed computing framework for efficient LLM inference and retrieval, ensuring low-latency serving in production environments.
+- **End-to-End Tooling**: Provides Jupyter Notebook-based guides for deploying RAG systems, covering data preprocessing, model fine-tuning, and scalable serving with Anyscale integration.
 
 ## Why It Matters
 

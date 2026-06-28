@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal conversational AI framework**: Open-source Python-based system enabling real-time voice and video interactions for conversational agents with multi-modal capabilities.
-
-- **Real-time processing architecture**: Designed for low-latency, high-performance voice AI agents with support for dynamic audio/video integration and processing.
-
-- **Modular and extensible**: Provides a scalable framework with 10,797+ stars and 1,313+ forks, supporting rapid development and deployment of AI-dr
+- **Framework Overview**: Open-source Python-based framework designed for building real-time, multi-modal conversational voice AI agents with video and voice capabilities.
+- **Key Features**: Enables low-latency, real-time interactions integrating voice, video, and multi-modal inputs/outputs for AI agent development.
+- **Repository Stats**: 10,798 stars, 1,312 forks, last updated June 28, 2026.
 
 ## Use Cases
 

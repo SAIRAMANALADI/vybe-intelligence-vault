@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/tiktoken
-collected_at: '2026-06-26T22:44:10.197541+05:30'
-published_at: '2026-06-26T17:00:43Z'
+collected_at: '2026-06-29T03:51:11.784441+05:30'
+published_at: '2026-06-28T22:14:36Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-stars: 18601
+stars: 18613
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2022-12-01T23:22:11Z'
 pushed_at: '2026-05-24T08:43:54Z'
 resource_id: github:openai/tiktoken
-first_seen: '2026-06-26T22:44:10.197541+05:30'
-last_seen: '2026-06-26T22:44:10.197541+05:30'
-last_checked: '2026-06-26T22:44:10.197541+05:30'
+first_seen: '2026-06-29T03:51:11.784441+05:30'
+last_seen: '2026-06-29T03:51:11.784441+05:30'
+last_checked: '2026-06-29T03:51:11.784441+05:30'
 health_score: 100
 ---
 
@@ -30,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **BPE Tokenizer**: Implements Byte Pair Encoding (BPE) for efficient tokenization, optimized for OpenAI's models.
-- **Performance**: Designed for speed, leveraging fast BPE algorithms to handle large-scale tokenization tasks.
-- **Python Library**: Provides a lightweight, standalone Python package for tokenization with minimal dependencies.
+- **Performance**: Designed for speed, leveraging Rust-based backend (via `rust-tokenizers`) for high-throughput tokenization.
+- **Compatibility**: Supports OpenAI's tokenization schemes (e.g., `cl100k_base`, `p50k_base`, `r50k_base`) with Python bindings.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 18601
-- Forks: 1513
+- Stars: 18613
+- Forks: 1516
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-26T17:00:43Z
+- Last Updated: 2026-06-28T22:14:36Z
 - License: MIT
 - Archived: No
 - Created At: 2022-12-01T23:22:11Z

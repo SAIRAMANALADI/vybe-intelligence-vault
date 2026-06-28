@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`viktoriasemaan/multi-agent`) containing examples of AI multi-agent solutions implemented in Jupyter Notebooks.
-- **Metadata**: 209 stars, 123 forks, last updated on 2026-06-23.
-- **Technical Stack**: Focuses on multi-agent AI systems with no additional topics or language specifications beyond Jupyter Notebook.
+- **Repository Overview**: Contains Jupyter Notebook examples demonstrating AI multi-agent systems, with 209 stars and 123 forks.
+- **Technical Stack**: Implemented in Jupyter Notebook, last updated on 2026-06-23.
+- **Purpose**: Focuses on practical implementations of multi-agent AI solutions without predefined topics.
 
 ## Use Cases
 

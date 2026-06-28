@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/openai/codex
 hn_url: https://news.ycombinator.com/item?id=48706714
-score: 152
+score: 168
 author: pikseladam
-comments_count: 97
+comments_count: 110
 published_at: '2026-06-28T17:57:33+05:30'
-collected_at: '2026-06-29T01:16:50.596906+05:30'
+collected_at: '2026-06-29T03:45:16.882671+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:openai/codex
 first_seen: '2026-06-28T19:46:53.196039+05:30'
-last_seen: '2026-06-29T01:16:50.596906+05:30'
-last_checked: '2026-06-29T01:16:50.596906+05:30'
+last_seen: '2026-06-29T03:45:16.882671+05:30'
+last_checked: '2026-06-29T03:45:16.882671+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by pikseladam. Score: 152, Comments: 97.
+Hacker News story by pikseladam. Score: 168, Comments: 110.
 Original Link: https://github.com/openai/codex/issues/2847
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: pikseladam
-- Score: 152 Upvotes
-- Comments: 97 Discussions
+- Score: 168 Upvotes
+- Comments: 110 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48706714
 - Original Article: https://github.com/openai/codex
 

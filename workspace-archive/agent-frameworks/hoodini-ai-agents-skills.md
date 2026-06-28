@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic workflows in Python-based environments.
-- **Metadata**: 239 stars, 58 forks, last updated 2026-06-25; authored by Yuval Avidani using GitHub Copilot via VS Code Insiders.
-- **Technical Stack**: Python-based skills repository with no explicit topic tags, designed for extensibility in AI agent tooling.
+- **Metadata**: 239 stars, 58 forks, last updated 2026-06-25; created using GitHub Copilot via VS Code Insiders.
+- **Technical Stack**: Python-based skills repository with no additional topics listed, optimized for AI agent integration.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/neuml/txtai
-collected_at: '2026-06-29T01:20:45.325580+05:30'
+collected_at: '2026-06-29T03:49:14.303078+05:30'
 published_at: '2026-06-28T09:43:51Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-06-22T17:06:32Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-06-29T01:20:45.325580+05:30'
-last_seen: '2026-06-29T01:20:45.325580+05:30'
-last_checked: '2026-06-29T01:20:45.325580+05:30'
+first_seen: '2026-06-29T03:49:14.303078+05:30'
+last_seen: '2026-06-29T03:49:14.303078+05:30'
+last_checked: '2026-06-29T03:49:14.303078+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Capabilities**: txtai is an end-to-end Python framework integrating semantic search, LLM orchestration, and language model workflows, supporting agents, RAG, and vector-based retrieval with transformers and embeddings.
+- **Unified AI Framework**: Combines semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI-driven information retrieval and processing.
 
-- **Core Components**: Built on sentence embeddings, vector search, and retrieval-augmented generation (RAG), it includes a vector database for efficient similarity-based indexing and retrieval.
+- **Modular Architecture**: Integrates embeddings, vector search, RAG, and transformer models with support for agents, enabling scalable NLP pipelines and customizable workflows.
 
-- **Ecosystem Integration**: Supports NLP pipelines, large language models (LLMs), and AI agents, with modular design for extensibility across Python-based AI workflows.
+- **Vector Database Integration**: Leverages vector search for efficient retrieval, supports sentence embeddings, and enables hybrid search (semantic + keyword) with compatibility for multiple storage backends.
 
 ## Why It Matters
 

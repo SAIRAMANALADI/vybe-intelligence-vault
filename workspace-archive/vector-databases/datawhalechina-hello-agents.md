@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Comprehensive tutorial on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
-
-- **Key Components**: Focuses on agent architectures, LLM integration, and RAG (Retrieval-Augmented Generation) pipelines for real-world applications.
-
-- **Technical Stack**: Python-based implementation with modular design for extensibility and scalability.
+- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering principles and practical implementations.
+- **Technical Stack**: Implemented in Python, integrating LLM (Large Language Model), RAG (Retrieval-Augmented Generation), and agent-based architectures.
+- **Repository Metrics**: Highly active with 62,400 stars, 7,717 forks, and last updated on 2026-06-28, indicating strong community engagement and maintenance.
 
 ## Use Cases
 

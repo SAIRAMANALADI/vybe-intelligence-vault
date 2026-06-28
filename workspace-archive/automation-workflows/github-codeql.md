@@ -13,7 +13,7 @@ importance: medium
 tags:
 - codeql
 - github-repo
-- workflows
+- scripts
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,9 @@ selection_reason:
 
 - **CodeQL Framework**: A semantic code analysis engine enabling security researchers to write custom queries (in QL) for vulnerability detection across multiple languages (e.g., C/C++, Java, Python, JavaScript) by modeling code as a relational database.
 
-- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, providing pre-built and community-driven security queries, with seamless CI/CD pipeline integration for automated vulnerability detection.
+- **GitHub Integration**: Powers GitHub Advanced Security’s code scanning, automating vulnerability detection directly in repositories, and supports CI/CD pipelines via GitHub Actions.
 
-- **Extensible Ecosystem**: O
+- **Open-Source Ecosystem**: Hosts a public query library
 
 ## Use Cases
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Trace UI Enhancements**: v3.201.0 introduces a condensed detail layout and smoother timeline rendering in the trace view (LFE-10539, LFE-10538), while v3.201.1 fixes navigation panel toggle issues at narrow widths (LFE-10547) and restores timeline gutter touch-scrolling (LFE-10548).
+- **Trace UI Enhancements**: v3.201.0 introduced a condensed detail layout and smoother timeline rendering in trace views (LFE-10539, LFE-10538), while v3.201.1 fixed peek navigation panel toggling at narrow widths (LFE-10547) and restored timeline gutter touch-scrolling with overscan optimizations (LFE-10548).
 
-- **Timeline & Metrics Improvements**: v3.200.0 rebuilds the trace timeline as a two-pane waterfall (LFE-10527) and adds wall-clock duration display for observation subtrees (LFE-10475), while v3.199.0 introduce
+- **Timeline & Metrics Improvements**: v3.200.0 rebuilt the trace timeline as a two-pane waterfall (LFE-10527) and added wall-clock duration display for subtree observations (LFE-10475),
 
 ## Use Cases
 

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Java-based AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows**, and **Function Calling** for dynamic task execution.
-- **Advanced RAG & Vector DB Integration**: Utilizes **Knowledge Graph RAG**, **Embedding models**, and **Vector Databases** (e.g., Milvus/Weaviate) for semantic search and retrieval.
-- **Multimodal & History Support**: Features **image generation/understanding** (e.g., via Stable Diffusion/CLIP), **historical m
+- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced context-aware AI responses, integrating structured data retrieval with generative models.
+
+- **Multi-modal AI Capabilities**: Supports image generation (via FunctionCall), image understanding, and embedding-based vector search, leveraging Spring AI and Alibaba Cloud services for end-to-end AI workflows.
+
+- **Agentic & Streaming Workflows**: Implements SSE (Serv
 
 ## Use Cases
 

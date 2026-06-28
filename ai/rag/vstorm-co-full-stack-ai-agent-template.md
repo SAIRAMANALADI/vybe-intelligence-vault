@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-29T01:17:55.184564+05:30'
+collected_at: '2026-06-29T03:46:24.121426+05:30'
 published_at: '2026-06-28T19:04:59Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1471
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-27T23:32:33Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-29T01:17:55.184564+05:30'
-last_seen: '2026-06-29T01:17:55.184564+05:30'
-last_checked: '2026-06-29T01:17:55.184564+05:30'
+first_seen: '2026-06-29T03:46:24.121426+05:30'
+last_seen: '2026-06-29T03:46:24.121426+05:30'
+last_checked: '2026-06-29T03:46:24.121426+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker for containerization.
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-integrated with **20+ AI frameworks** (LangChain, LangGraph, CrewAI, Pydantic-AI) and tools (RAG, streaming, WebSocket).
 
-- **AI Capabilities**: Pre-integrated with AI agent frameworks (LangChain, LangGraph, CrewAI, Pydantic-AI), RAG pipelines, real-time streaming via WebSockets, and 20+ third-party integrations.
+- **Production-ready stack** featuring **PostgreSQL**, **authentication**, **Docker** support, and **TypeScript/Python** interoperability for scalable AI agent deployments.
 
-- **Features**: Built-in authentication, Pydantic data validation, and modular architecture for rapid deployment of AI-driven applications with production-ready tooling.
+- **Out-of-the-box integrations** for **LLM APIs**, **React components**, and **Pydantic models** (Deep/Pydantic-AI), optimized for real-time agent interactions and modular agentic workflows.
 
 ## Why It Matters
 

@@ -11,9 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
+- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation tools.
 
-- **Automated Optimization**: Implements techniques for hyperparameter tuning, embedding selection, and retrieval strategies (e.g., vector search, hybrid retrieval) to maximize performance on custom datasets.
+- **Optimization Workflows**: Implements automated pipelines for hyperparameter tuning, retrieval strategy selection, and prompt engineering to maximize RAG performance.
 
-- **Scalability & Deployment**: Supports distri
+- **Benchmarking & Deployment**: Includes built-in evaluation metrics (e.g., retrieval accuracy, answer relevance) and supports deplo
 
 ## Use Cases
 

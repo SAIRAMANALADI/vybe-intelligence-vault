@@ -8,7 +8,7 @@ local_vault_path: ai/agents/deepagents-pypi.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -30,17 +30,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: mcp-server
+- Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Framework Overview**: Deep Agents v0.6.12 is an opinionated, production-ready agent harness built on LangGraph, supporting sub-agent delegation, filesystem operations (local/sandboxed/remote), persistent memory, and human-in-the-loop tool approval.
+- **Framework Architecture**: Built on LangGraph with sub-agent delegation, persistent memory, and pluggable filesystem backends (local/sandboxed/remote), enabling modular and scalable agent orchestration.
 
-- **Technical Specifications**: Requires Python ≥3.11, <4.0; supports tool-calling LLMs (frontier/open-weight/local); includes extras for AWS and QuickJS; licensed under MIT.
+- **Model Compatibility**: Supports any tool-calling LLM (frontier APIs, open-weight, or local) via LangChain chat model integration, with production-ready features like streaming, checkpointing, and LangSmith tracing.
 
-- **Integration & Extensibility**: Model-agnostic, compatible with Lan
+- **Security & Extensibility**: Follows a "trust-the-LLM" model with tool
 
 ## Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Scope & Compliance**: Atlassian Customer Agreement governs all Cloud/Software Products, aligning with enterprise-level controls (e.g., ISO, SOC2) and requiring customer compliance with documented usage policies, including restrictions on redistribution, reverse engineering, and competitive use.
+- **Scope & Compliance**: Agreement governs all Atlassian Cloud/Software Products, aligning with enterprise controls and international standards (e.g., ISO 27001, SOC 2). Includes a Data Processing Addendum (DPA) for GDPR/HIPAA compliance, with third-party audits validating security measures.
 
-- **Data & Security**: Customer Data processed via Cloud Products is subject to Atlassian’s DPA (Data Processing Addendum), with security governed by third-party audits (e.g., SOC2 Type II), encrypti
+- **Usage Restrictions**: Strict prohibitions on redistribution, reverse engineering, benchmarking disclosures without replication data, and AI feature usage governed by separate [AI Terms](https://www.atl
 
 ## Use Cases
 

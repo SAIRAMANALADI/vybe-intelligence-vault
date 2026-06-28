@@ -14,7 +14,7 @@ tags:
 - agents
 - benchmark
 - github-repo
-- paper
+- hackernews
 - rag
 - scripts
 - unknown
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: A structured, community-driven repository aggregating AI agent frameworks, tools, and research papers for streamlined discovery and evaluation.
-- **Multi-Domain Coverage**: Encompasses agents for automation, reasoning, multi-agent systems, and specialized domains (e.g., coding, research, or productivity).
-- **Active Maintenance**: Last updated in 2026, ensuring inclusion of recent advancements and tools in the rapidly evolving AI agent landscape.
+- **Curated collection**: Aggregates state-of-the-art AI agent frameworks, libraries, and tools (e.g., AutoGen, LangChain, CrewAI) for research and development.
+- **Multi-domain coverage**: Includes agents for software engineering, research, automation, and multi-agent systems with benchmarks and evaluation metrics.
+- **Active maintenance**: Last updated June 2026, ensuring inclusion of recent advancements in agentic AI architectures and orchestration techniques.
 
 ## Use Cases
 

@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Background Execution**: Copilot CLI sessions run autonomously in the background via the Copilot CLI agent harness, managed by VS Code's Copilot SDK, enabling continuous operation even when VS Code is closed, unlike local agents tied to the editor.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via Copilot CLI, running autonomously on local machines with VS Code integration via Copilot SDK; supports multi-repository workspaces and parallel task execution.
 
-- **Isolation Modes**: Supports **Worktree** (Git worktree-based, auto-approved tool calls) and **Folder** (direct workspace changes) isolation for managing agent-induced modifications, with configurable permissions (e.g., Bypass Approvals, Autopi
+- **Isolation Modes**: Two modes for Copilot CLI sessions—**Worktree** (changes isolated in Git worktree, auto-approved) and **Folder** (direct workspace changes, configurable permissions: Default/Bypass/Autopilot).
+
+- **Permissions & Slash Commands**: Worktree
 
 ## Use Cases
 

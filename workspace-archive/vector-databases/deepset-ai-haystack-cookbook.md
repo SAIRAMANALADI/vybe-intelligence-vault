@@ -15,6 +15,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Repository of Jupyter Notebooks demonstrating practical applications of Haystack, an open-source framework for building search and question-answering systems.
-- **Content**: Examples cover agentic AI, generative AI use cases, retrieval-augmented generation (RAG), and Python-based implementations.
-- **Metadata**: 545 stars, 126 forks, last updated June 24, 2026.
+- **Purpose**: Repository of example Jupyter Notebooks demonstrating practical applications of **Haystack**, an open-source framework for building **agentic AI systems**, **RAG pipelines**, and **GenAI use cases** in Python.
+- **Scope**: Covers **agentic workflows**, **AI tools integration**, and **generative AI applications**, with notebooks showcasing real-world implementations.
+- **Metadata**: 545 ⭐, 127 🍴, last updated **2026-06-24**; focuses on **Haystack AI**, **RAG**, and **GenAI** use ca
 
 ## Use Cases
 

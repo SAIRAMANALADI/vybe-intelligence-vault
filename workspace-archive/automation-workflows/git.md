@@ -2,14 +2,14 @@
 title: Git
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://git-scm.com
+source_url: https://git-scm.com/
 resource_id: blog:git
 local_vault_path: ai/resources/git.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - web-crawled
 - workflows
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Distributed Version Control**: Git is a free, open-source distributed version control system optimized for speed and efficiency, supporting projects of all sizes from small to very large.
+- **Distributed Version Control**: Git is a free, open-source, distributed version control system optimized for speed and efficiency, supporting projects of all scales.
 
-- **Performance & Ecosystem**: Features lightning-fast performance with a vast ecosystem including GUIs, hosting services (e.g., GitHub, GitLab), and command-line tools for enhanced workflow integration.
+- **Ecosystem & Performance**: Features lightning-fast operations with a vast ecosystem including GUIs, hosting services, and command-line tools for enhanced workflow integration.
 
-- **Latest Release & Resources**: Current stable release is **2.54.0** (April 2026), with documentatio
+- **Documentation & Releases**: Provides comprehensive reference documentation, the *Pro Git* book, and regular binary releases (e.g., v2.54.0) for m
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://git-scm.com
+Original source URL: https://git-scm.com/
 
 ## Local Vault File
 

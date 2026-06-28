@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/34831991136151
-published_at: '2026-06-28T19:52:17.623289+05:30'
-collected_at: '2026-06-28T19:52:17.623301+05:30'
+published_at: '2026-06-29T03:52:13.135813+05:30'
+collected_at: '2026-06-29T03:52:13.135825+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:storys-detailed-stats-page-medium-help-center
-first_seen: '2026-06-28T19:52:17.623301+05:30'
-last_seen: '2026-06-28T19:52:17.623301+05:30'
-last_checked: '2026-06-28T19:52:17.623301+05:30'
+first_seen: '2026-06-29T03:52:13.135825+05:30'
+last_seen: '2026-06-29T03:52:13.135825+05:30'
+last_checked: '2026-06-29T03:52:13.135825+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Lifetime Metrics**: Track hourly-updated reach funnel (presentations, views, reads, feed clickthrough rate, read ratio), impact metrics (earnings for paywalled stories, follower/subscription changes), and excludes pre-2025 data for presentations.
+- **Lifetime Metrics**: Includes total presentations (Medium-suggested exposures), views (story landings), and reads (30+ second engagements), with hourly updates (except daily earnings for paywalled stories). Additional impact metrics: earnings (paywalled only), follower/subscription changes, and read ratio (reads ÷ views).
 
-- **Monthly Engagement**: Daily-updated metrics include earnings, views, reads, and engagement (claps, highlights, responses, new followers), with yellow indicators marking monetizable actions; member read ratio (member reads ÷ member views) adjusts earnings to penalize clickbait.
+- **Monthly Engagement**: Tracks paywalled story earnings, views, reads, and interactions (claps, highlights, responses, new followers) with daily updates. Highlights yellow metrics contributing to earnings; member read ratio (member reads ÷ member views) adjusts earnings to penalize clickbait.
 
-- **Traffic & Audience Insights**: Hourly-updated traffic sources breakdown (Medium’s distribution vs. external top sources) and daily-updated audience interests (topic affinity based on logged-in readers’ profiles/history), which may be absent for non-account holders or insufficient data.
+- **Traffic & Audience Insights**: Traffic sources breakdown (Medium vs. external) updated hourly; Friend link views (paywalled stories) tracked hourly. Audience interests chart (daily updates) inferred from logged-in readers’ topic follows/reading history, excluding non-account holders.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:52:17.623289+05:30
+- Published: 2026-06-29T03:52:13.135813+05:30
 
 ## Related Tags
 

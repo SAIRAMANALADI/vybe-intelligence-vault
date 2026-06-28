@@ -1,31 +1,31 @@
 ---
-title: 'GitHub – librepods-org/librepods: AirPods liberated from Apple''s ecosystem'
+title: 'Librepods: AirPods liberated'
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/librepods-org/librepods
 hn_url: https://news.ycombinator.com/item?id=48710232
-score: 6
+score: 191
 author: rbanffy
-comments_count: 1
+comments_count: 56
 published_at: '2026-06-29T00:18:53+05:30'
-collected_at: '2026-06-29T01:16:50.284208+05:30'
+collected_at: '2026-06-29T03:45:14.465737+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:librepods-org/librepods
 first_seen: '2026-06-29T01:16:50.284208+05:30'
-last_seen: '2026-06-29T01:16:50.284208+05:30'
-last_checked: '2026-06-29T01:16:50.284208+05:30'
+last_seen: '2026-06-29T03:45:14.465737+05:30'
+last_checked: '2026-06-29T03:45:14.465737+05:30'
 health_score: 100
 ---
 
-# GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem
+# Librepods: AirPods liberated
 
 ## Summary
 
-Hacker News story by rbanffy. Score: 6, Comments: 1.
+Hacker News story by rbanffy. Score: 191, Comments: 56.
 Original Link: https://github.com/librepods-org/librepods
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rbanffy
-- Score: 6 Upvotes
-- Comments: 1 Discussions
+- Score: 191 Upvotes
+- Comments: 56 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48710232
 - Original Article: https://github.com/librepods-org/librepods
 

@@ -6,7 +6,7 @@ source_url: https://github.com/embeddings-benchmark/mteb
 resource_id: github:embeddings-benchmark/mteb
 local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 diverse tasks** (e.g., retrieval, clustering, STS, reranking) in **100+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 8 tasks (e.g., classification, clustering, retrieval) and 56 datasets, supporting 12+ languages and multimodal inputs, enabling standardized cross-model comparisons.
 
-- **Modular & Extensible Framework**: Implements a **unified Python API** for benchmarking Sentence-BERT (SBERT) and other embedding models, with **automated dataset handling** and **leaderboard integration** for fair comparisons.
+- **Modular Python Framework**: Implements a unified API for embedding models (e.g., Sentence-BERT, SBERT) with extensible task-specific evaluators, facilitating reproducible research and fair performance benchmarking.
 
-- **State-of-the-Art
+- **State-of-the-Art Tracking**: Maint
 
 ## Use Cases
 
