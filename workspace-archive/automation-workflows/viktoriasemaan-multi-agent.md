@@ -8,7 +8,7 @@ local_vault_path: ai/agents/viktoriasemaan-multi-agent.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # viktoriasemaan/multi-agent
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Content**: Jupyter Notebook-based examples demonstrating multi-agent AI systems, showcasing collaborative agent architectures and workflows.
-- **Technical Stack**: Utilizes Python-based AI frameworks (e.g., LangChain, AutoGen) for agent orchestration, with dependencies like `transformers`, `fastapi`, and `pydantic`.
-- **Use Cases**: Implements scenarios such as task delegation, parallel processing, and dynamic agent communication protocols in AI-driven workflows.
+- **Repository Overview**: GitHub repository showcasing examples of AI multi-agent solutions implemented in Jupyter Notebooks.
+- **Metadata**: 209 stars, 123 forks, last updated on 2026-06-23.
+- **Technical Focus**: Demonstrates collaborative AI agent architectures, workflows, and interactions.
 
 ## Use Cases
 

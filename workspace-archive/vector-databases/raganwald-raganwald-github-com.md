@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository serving as the source for `raganwald.com`, a static website.
-- **Minimalist Structure**: HTML-centric with no additional dependencies or topics listed.
-- **Last Commit**: Updated on `2026-06-20T15:41:20Z` with 30 stars and 60 forks.
+- **Static Site Generator**: Jekyll-based repository hosting a personal website (`raganwald.com`), leveraging Markdown for content and Liquid templating for dynamic rendering.
+- **Minimalist Structure**: HTML-centric with no additional dependencies or topics, relying solely on Jekyll’s default configuration for static site generation.
+- **Outdated Metadata**: Last commit timestamp (`2026-06-20T15:41:20Z`) suggests potential future-dated or incorrect version control history.
 
 ## Use Cases
 

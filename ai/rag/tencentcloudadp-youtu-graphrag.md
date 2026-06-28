@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-28T10:23:27.514316+05:30'
+collected_at: '2026-06-28T15:05:57.272554+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-28T10:23:27.514316+05:30'
-last_seen: '2026-06-28T10:23:27.514316+05:30'
-last_checked: '2026-06-28T10:23:27.514316+05:30'
+first_seen: '2026-06-28T15:05:57.272554+05:30'
+last_seen: '2026-06-28T15:05:57.272554+05:30'
+last_checked: '2026-06-28T15:05:57.272554+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically to decompose and solve complex reasoning tasks using graph-based knowledge structures.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-based RAG system for complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Complex Reasoning**: Enhances traditional RAG by integrating graph neural networks (GNNs) to dynamically retrieve and synthesize structured knowledge, improving contextual relevance and multi-hop reasoning capabilities.
+- **Graph-Centric RAG**: Leverages a unified graph structure to integrate heterogeneous data (text, knowledge graphs) and enable dynamic, context-aware retrieval and reasoning via graph traversal and LLM interactions.
 
-- **Modular Python Implementation**: Provides an open-source Python library with extensible agent modules, graph construction tools, and evaluation benchmarks, optimized for large-scale knowledge graphs and LLM integration.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with retrieval-augmented LLMs, optimizing for vertical task decomposition and cross-agent collaboration in open-domain reasoning.
 
 ## Why It Matters
 

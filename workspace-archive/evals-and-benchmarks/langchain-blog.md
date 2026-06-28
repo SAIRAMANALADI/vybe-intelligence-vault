@@ -6,12 +6,13 @@ source_url: https://blog.langchain.com/
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
 - workflows
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Caching with Deep Agents**: Introduces a caching mechanism for LLM prompts in deep agent architectures, reducing redundant computations by storing and reusing intermediate representations, improving inference efficiency by up to 40% in iterative tasks.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts, reducing redundant token processing and improving inference efficiency by up to 100x in iterative agent workflows.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, as it enables architectural flexibility, cost optimization, and avoids pe
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, enabling cost optimization, performance tuning, and resilience against provider-specific failures.
+
+- **LangSmith Engine for Agent
 
 ## Use Cases
 

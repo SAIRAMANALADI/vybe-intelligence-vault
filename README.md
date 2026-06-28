@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,168</p>
-        <p><b>Active:</b> 8,933 | <b>Inactive:</b> 235</p>
+        <p><b>Resources tracked:</b> 9,180</p>
+        <p><b>Active:</b> 8,941 | <b>Inactive:</b> 239</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,878</p>
+        <p><b>Archive Files:</b> 34,917</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 12:36 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 15:20 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,19 +55,28 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Ford hired AI and sacked humans. It backfired badly](ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md)** • <kbd>+136 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[The best response to AI slop and online noise is from Robin Williams](ai/community/response-to-ai-slop-is-from-robin-williams.md)** • <kbd>+95 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)** • <kbd>+61 pts</kbd> • Rank: <kbd>+3</kbd>
+- 🔼 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • <kbd>+42 pts</kbd>
+- 🔼 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • <kbd>+25 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[The Swift Programming Language · GitHub](ai/resources/the-swift-programming-language-github.md)** • Score: `0`
+- 🆕 **[WebKit/WebKit](ai/resources/webkit-webkit.md)** • Score: `0`
+- 🆕 **[WebKit (@webkit@front-end.social) - Front-End Social](ai/resources/webkit-webkit-front-end-social-front-end-social.md)** • Score: `0`
+- 🆕 **[sourcekit-lsp/Documentation/Editor Integration.md at main · swiftlang/sourcekit-lsp · GitHub](ai/resources/swiftlang-sourcekit-lsp.md)** • Score: `0`
+- 🆕 **[Xcode - Apple Developer](ai/rag/xcode-apple-developer.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[What Ozempic does to the gut-brain axis](ai/community/what-ozempic-does-to-the-gut-brain-axis.md)**
+- 💤 **[Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](ai/community/kageroumado-adrafinil.md)**
+- 💤 **[Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them](ai/community/ancient-tablets-show-markets-worked-4k-years-befor.md)**
+- 💤 **[hugohe3/ppt-master](ai/trending/hugohe3-ppt-master.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

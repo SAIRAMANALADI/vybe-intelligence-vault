@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-28T10:22:07.455658+05:30'
+collected_at: '2026-06-28T15:04:37.304577+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-28T10:22:07.455658+05:30'
-last_seen: '2026-06-28T10:22:07.455658+05:30'
-last_checked: '2026-06-28T10:22:07.455658+05:30'
+first_seen: '2026-06-28T15:04:37.304577+05:30'
+last_seen: '2026-06-28T15:04:37.304577+05:30'
+last_checked: '2026-06-28T15:04:37.304577+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, emphasizing simplicity and modularity for extensibility.
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and modularity, implemented primarily in Jupyter Notebooks.
 
-- **Core Components**: Includes retrieval mechanisms (e.g., vector stores, embedding models) and generation pipelines, with tutorials demonstrating integration across different platforms (e.g., local, cloud).
+- **Key Components**: Includes core RAG pipelines (retriever, generator, and evaluator) with support for multi-modal data integration and customizable embedding models.
 
-- **Technical Stack**: Leverages Python-based tools (e.g., LangChain, FAISS, or HuggingFace) for document processing, embedding, and LLM interaction, optimized for rapid prototyping and educational use.
+- **Technical Stack**: Leverages Python-based libraries (e.g., `sentence-transformers`, `FAISS`, `LangChain`) for efficient vector search and LLM integration, optimized for rapid prototyping.
 
 ## Why It Matters
 

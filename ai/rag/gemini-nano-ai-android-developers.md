@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/ai/gemini-nano
-published_at: '2026-06-25T16:42:30.787849+05:30'
-collected_at: '2026-06-25T16:42:30.787859+05:30'
+published_at: '2026-06-28T15:09:27.142429+05:30'
+collected_at: '2026-06-28T15:09:27.142444+05:30'
 tags:
 - benchmark
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:gemini-nano-ai-android-developers
-first_seen: '2026-06-25T16:42:30.787859+05:30'
-last_seen: '2026-06-25T16:42:30.787859+05:30'
-last_checked: '2026-06-25T16:42:30.787859+05:30'
+first_seen: '2026-06-28T15:09:27.142444+05:30'
+last_seen: '2026-06-28T15:09:27.142444+05:30'
+last_checked: '2026-06-28T15:09:27.142444+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **On-device AI with Gemini Nano**: Runs via Android's AICore system service, enabling low-latency, offline generative AI (text, summarization, proofreading, etc.) while preserving privacy by processing data locally without cloud dependency.
-
-- **AICore Architecture & Safety**: Isolated system module with restricted internet access (via Private Compute Services), request-level isolation, and built-in safety filters; ensures secure, hardware-accelerated inference while adhering to Private Compute Core principles.
-
-- **Deployment & Performance Benefits**: AICore handles model updates and distribution, reducing app overhead; leverages device hardware for accelerated inference, optimizing cost and performance without manual model management.
+- **On-device AI with Gemini Nano**: Runs via Android's AICore system service, enabling low-latency, offline generative AI with privacy safeguards by processing data locally on-device.
+- **ML Kit GenAI APIs**: High-level interfaces leveraging Gemini Nano for tasks like text generation, summarization, proofreading, and image description, all executed via AICore for enhanced privacy and performance.
+- **AICore Architecture**: Isolated system module with restricted internet access (via Private Compute Services), built-in safety filters, and hardware-accelerated inference, ensuring secure, efficient, and private on-device AI operations.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:42:30.787849+05:30
+- Published: 2026-06-28T15:09:27.142429+05:30
 
 ## Related Tags
 

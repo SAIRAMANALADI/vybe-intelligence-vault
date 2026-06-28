@@ -8,18 +8,17 @@ local_vault_path: ai/rag/topoteretes-awesome-ai-memory.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # topoteretes/awesome-ai-memory
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI memory projects (`topoteretes/awesome-ai-memory`) with 797 stars, 87 forks, primarily in Python, covering AI agents, memory management, RAG, and AI engineering.
-- **Technical Scope**: Focuses on memory systems for AI, including retrieval-augmented generation (RAG), agentic workflows, and ML-driven memory architectures.
-- **Last Updated**: June 24, 2026, indicating active maintenance and recent contributions to the field.
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including RAG (Retrieval-Augmented Generation) and memory management for AI agents.
+- **Python-centric ecosystem**: All listed projects are Python-based, emphasizing compatibility with ML/AI libraries (e.g., PyTorch, LangChain) and AI engineering workflows.
+- **Actively maintained**: Last updated in 2026, indicating ongoing updates and relevance to cutting-edge AI memory
 
 ## Use Cases
 

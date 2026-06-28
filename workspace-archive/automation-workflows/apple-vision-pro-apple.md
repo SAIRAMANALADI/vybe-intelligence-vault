@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital content with physical space for spatial computing experiences.
+- **M5 Chip & Spatial Computing**: Apple Vision Pro integrates a new **M5 chip** optimized for low-latency spatial computing, enabling real-time 3D rendering, advanced eye/hand tracking, and immersive audio processing with minimal power draw.
 
-- **Dual Knit Band & Fit Dial**: The Dual Knit Band combines breathable, counterbalanced straps with an independent Fit Dial for personalized comfort, while the Light Seal magnetically conforms to the face to block stray light and ensure precise fit.
-
-- **ZEISS Optic
+- **Modular Ergonomic Design**: Features **magnetically attached Light Seal** (adjustable face interface) and **Dual Knit Band** with independent Fit Dial for personalized comfort, while **ZEISS Optical Inserts** provide prescription lens integration for p
 
 ## Use Cases
 

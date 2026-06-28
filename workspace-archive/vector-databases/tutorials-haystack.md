@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering metrics and methodologies for performance analysis.
-- **Multimodal RAG Pipeline**: Demonstrates a Retrieval-Augmented Generation (RAG) system integrating both image and text modalities for enhanced question answering.
-- **Multi-Agent System**: Illustrates the construction of modular agent workflows using specialized agents for complex task decomposition and execution.
+- **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+
+- **Multimodal RAG Pipeline**: Advanced tutorial demonstrating integration of vision and text modalities in a single RAG system using Haystack’s multimodal components for cross-domain question answering.
+
+- **KV Cache Compression**: Technical walkthrough on implementing TurboQuant KV cache quantization in
 
 ## Use Cases
 

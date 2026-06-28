@@ -13,13 +13,14 @@ collected_at: '2026-06-28T10:21:00.570758+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ancient-tablets-show-markets-worked-4k-years-befor
 first_seen: '2026-06-28T10:21:00.570758+05:30'
 last_seen: '2026-06-28T10:21:00.570758+05:30'
 last_checked: '2026-06-28T10:21:00.570758+05:30'
 health_score: 100
 ---
+
 
 # Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them
 

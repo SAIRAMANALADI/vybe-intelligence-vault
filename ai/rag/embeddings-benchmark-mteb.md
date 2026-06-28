@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-28T10:26:48.891207+05:30'
+collected_at: '2026-06-28T15:08:37.837476+05:30'
 published_at: '2026-06-27T13:39:32Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
+- leaderboard
 - python
 - rag
 stars: 3325
@@ -20,9 +22,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-25T16:37:33Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-28T10:26:48.891207+05:30'
-last_seen: '2026-06-28T10:26:48.891207+05:30'
-last_checked: '2026-06-28T10:26:48.891207+05:30'
+first_seen: '2026-06-28T15:08:37.837476+05:30'
+last_seen: '2026-06-28T15:08:37.837476+05:30'
+last_checked: '2026-06-28T15:08:37.837476+05:30'
 health_score: 100
 ---
 
@@ -30,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 8 tasks (e.g., classification, clustering, retrieval) and 56 datasets in 112 languages, supporting both monolingual and multilingual models.
-- **Multimodal & Low-Resource Support**: Includes tasks for multimodal embeddings (e.g., image-text) and prioritizes evaluation on low-resource languages, addressing gaps in existing benchmarks.
-- **Modular & Extensible**: Python-based framework with standardized APIs for integrating new models/datasets, enabling reproducible state-of-the-art (SOTA) comparisons for sentence-transformers and other embedding models.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) in 12+ languages and multimodal settings, enabling standardized comparison of models like Sentence-BERT and neural search systems.
+
+- **Multilingual & Multimodal Support**: Includes low-resource language benchmarks and multimodal tasks (e.g., image-text retrieval), addressing gaps in prior embedding evaluations with a focus on cross-lingual and cross-modal generalization.
+
+- **Python Framework**: Provides a modular, open-source toolkit for reproducible evaluation, supporting integration with Hugging Face models and facilitating benchmarking of new embedding techniques via standardized metrics and leaderboards.
 
 ## Why It Matters
 

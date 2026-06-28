@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) for contextual augmentation, with LangChain as a primary framework for implementation.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense and sparse retrieval), and vector storage/ retrieval using Supabase; LangChain provides the orchestration framework for end-to-end workflows.
 
-- **Production Optimizations**: Implements chunking strategies (e.g., semantic splitting), embedding fine-tuning (e.g., `text-embedding-3-large`), hybrid retrieval (dense + BM25), and Supabase for vector storage with latency benchmarks (~100-300ms pipeline).
-
-- **Scalability & Monitoring**: Uses Cloudfla
+- **Production Hardening**: Key optimizations involve token-efficient retrieval (e.g., query expansion/rewriting), latency mitigation via caching and load balancing across model instances, and observ
 
 ## Use Cases
 

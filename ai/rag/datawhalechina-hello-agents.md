@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-28T10:21:57.604931+05:30'
-published_at: '2026-06-28T04:51:28Z'
+collected_at: '2026-06-28T15:04:27.273588+05:30'
+published_at: '2026-06-28T09:21:29Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 62282
+stars: 62322
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-06-24T17:33:54Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-28T10:21:57.604931+05:30'
-last_seen: '2026-06-28T10:21:57.604931+05:30'
-last_checked: '2026-06-28T10:21:57.604931+05:30'
+first_seen: '2026-06-28T15:04:27.273588+05:30'
+last_seen: '2026-06-28T15:04:27.273588+05:30'
+last_checked: '2026-06-28T15:04:27.273588+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) focused on building intelligent agents from scratch, covering principles and practical implementations.
-
-- **Technical Scope**: Covers core topics including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent architectures, with hands-on Python-based implementations.
-
-- **Metadata**: 62,282 stars, 7,701 forks; last updated **2026-06-28**; primarily in Python, with emphasis on agent systems and LLM integration.
+*   Comprehensive tutorial detailing the principles and practical implementation of intelligent agents from foundational concepts.
+*   Focuses on integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) as core architectural components for agent development.
+*   Python-centric educational resource guiding end-to-end construction of AI agents.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 62282
-- Forks: 7701
+- Stars: 62322
+- Forks: 7705
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-28T04:51:28Z
+- Last Updated: 2026-06-28T09:21:29Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

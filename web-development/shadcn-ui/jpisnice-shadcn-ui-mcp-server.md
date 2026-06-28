@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/jpisnice/shadcn-ui-mcp-server
-collected_at: '2026-06-28T10:20:59.584007+05:30'
-published_at: '2026-06-28T03:18:19Z'
+collected_at: '2026-06-28T15:03:34.629143+05:30'
+published_at: '2026-06-28T07:02:07Z'
 tags:
 - frontend_ui
-stars: 2815
+stars: 2816
 language: TypeScript
 status: active
 resource_id: github:jpisnice/shadcn-ui-mcp-server
 first_seen: '2026-06-15T12:42:34.859055+00:00'
-last_seen: '2026-06-28T10:20:59.584007+05:30'
-last_checked: '2026-06-28T10:20:59.584007+05:30'
+last_seen: '2026-06-28T15:03:34.629143+05:30'
+last_checked: '2026-06-28T15:03:34.629143+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: Jpisnice
-- Stars: 2815
+- Stars: 2816
 - Forks: 295
 - Language: TypeScript
 - Topics: ai, expo, mcp, modelcontextprotocol, nextjs, npm, npm-package, npx, react, react-native, shadcn-ui, svelte, sveltekit, ts, typescript, ui, vue, vuejs, webdev
-- Last Updated: 2026-06-28T03:18:19Z
+- Last Updated: 2026-06-28T07:02:07Z
 
 ## Possible Use Cases
 

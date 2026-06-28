@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **WSL Installation**: Requires Windows 10 (v2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default). Older versions require manual steps or `wsl --install -d <Distro>` for specific distributions.
+- **WSL Installation**: Requires Windows 10 (v2004+) or Windows 11; single-command install via `wsl --install` (enables WSL and installs Ubuntu by default). Older systems require manual steps or `-d [Distro]` flag for specific distributions.
 
-- **WSL Versions & Management**: New installs default to WSL 2; versions can be checked/modified via `wsl -l -v` and `wsl --set-version <Distro> <1|2>`. Default distro/user setup is configured post-installation.
+- **WSL Versions & Management**: Defaults to WSL 2 for new installs; version toggling via `wsl --set-version <Distro> <1|2>`. List distributions with `wsl -l -v` and set defaults using `wsl --set-default <Distro>`.
 
-- **Offline & Advanced Install**:
+- **Offline & Custom Install**: Offline i
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-28T10:23:42.508896+05:30'
+collected_at: '2026-06-28T15:06:12.318361+05:30'
 published_at: '2026-06-25T15:07:30Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-28T10:23:42.508896+05:30'
-last_seen: '2026-06-28T10:23:42.508896+05:30'
-last_checked: '2026-06-28T10:23:42.508896+05:30'
+first_seen: '2026-06-28T15:06:12.318361+05:30'
+last_seen: '2026-06-28T15:06:12.318361+05:30'
+last_checked: '2026-06-28T15:06:12.318361+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of GitHub Copilot enhancement resources, including instructions, prompts, skills, MCP configurations, and agent markdown files for AI-driven development workflows.
-- **Technical Scope**: Focuses on **TypeScript**-based agent skills, prompt engineering, and custom AI agent integrations for **GitHub Copilot**, **VS Code Copilot Chat**, and MCP (Model Context Protocol) support.
-- **Metadata**: 540 stars, 86 forks, last updated **2026-06-25**; categorized under topics like `agent-skills`, `ai-agents`, and `prompt-engineering`.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files to optimize AI-assisted development workflows.
+
+- **Technical Scope**: Focuses on advanced Copilot customization via TypeScript-based agent skills, prompt engineering techniques, and VS Code Copilot Chat integrations, targeting AI agent development and GitHub Copilot enhancement.
+
+- **Metadata**: 540 stars, 86 forks, last updated 2026-06-25; categorized under `agent-skills`, `ai-agents`, `prompt-engineering`, and related topics for AI-driven development tooling.
 
 ## Why It Matters
 

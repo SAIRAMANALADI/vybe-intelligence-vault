@@ -2,7 +2,7 @@
 title: 'Scite: AI for Research'
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://scite.ai/
+source_url: https://www.scite.ai/
 resource_id: blog:scite-ai-for-research
 local_vault_path: ai/rag/scite-ai-for-research.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes 1.6B+ citations across 280M+ full-text scholarly articles, preprints, books, patents, datasets, and clinical trials, with direct publisher agreements (e.g., Wiley, SAGE) enabling full-text search beyond abstracts.
+- **Database & Coverage**: Licensed access to 280M+ full-text scholarly articles (journals, preprints, patents, datasets) via direct publisher agreements (Wiley, SAGE, 40+ others), enabling full-text search beyond abstracts.
 
-- **Smart Citations & AI Grounding**: Uses citation intelligence to classify each citation as supporting, contrasting, or mentioning, with contextual sentence-level evidence; AI answers are verifiably grounded in real papers, avoiding hallucina
+- **Smart Citation Analysis**: AI-powered **Smart Citations** classify citations as *supporting*, *contrasting*, or *mentioning*, with contextual sentence-level evidence, enabling evidence-weighted research synthesis.
+
+- **Cross-Domain Integration**: Connects literature to
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://scite.ai/
+Original source URL: https://www.scite.ai/
 
 ## Local Vault File
 

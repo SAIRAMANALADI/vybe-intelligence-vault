@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-28T10:22:12.398573+05:30'
+collected_at: '2026-06-28T15:04:42.191929+05:30'
 published_at: '2026-06-27T18:06:08Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-28T10:22:12.398573+05:30'
-last_seen: '2026-06-28T10:22:12.398573+05:30'
-last_checked: '2026-06-28T10:22:12.398573+05:30'
+first_seen: '2026-06-28T15:04:42.191929+05:30'
+last_seen: '2026-06-28T15:04:42.191929+05:30'
+last_checked: '2026-06-28T15:04:42.191929+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for precise codebase insights.
+- **Multi-agent Codebase Q&A Engine**: Implements a knowledge graph-based system (via MCP server) for grounded, file-path and line-number-referenced Q&A across codebases, compatible with AI IDEs like Cursor, Claude Code, and Codex CLI.
 
-- **MCP server integration**: Facilitates structured interactions with code intelligence tools via the Model Context Protocol (MCP), supporting OpenAI, Python, and multi-agent workflows.
+- **RAG-Enhanced Developer Tools**: Integrates retrieval-augmented generation (RAG) with OpenAI models, enabling real-time, context-aware code search and copilot-style assistance within Python-based workflows.
 
-- **IDE-agnostic plugin**: Provides a universal developer toolkit for code search, Q&A, and Copilot-like assistance across Python-based environments, optimized for AI-driven development workflows.
+- **Modular MCP Server Architecture**: Provides a Python-based MCP server framework for extensible multi-agent collaboration, supporting OpenAI APIs, knowledge graph construction, and IDE-agnostic plugin integration.
 
 ## Why It Matters
 

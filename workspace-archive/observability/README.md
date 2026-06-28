@@ -8,25 +8,25 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 ## Top Matched Resources
 
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (product - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (benchmark - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [Getting Started | OpenTelemetry](https://opentelemetry.io/docs/getting-started/) (tutorial - USEFUL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - USEFUL Tier)
-- [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](https://docs.cloud.deepset.ai/docs/getting-started) (benchmark - USEFUL Tier)
 - [Introduction - Tree-sitter](https://tree-sitter.github.io/tree-sitter/) (framework - USEFUL Tier)
 - [Distributed authority quickstart | Netcode for GameObjects | 2.11.2](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html) (tutorial - USEFUL Tier)
-- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
-- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [open-telemetry/community](https://github.com/open-telemetry/community#mailing-lists)
-- [spotify/annoy](https://github.com/spotify/annoy)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-28 10:37 IST*
+*Last updated: 2026-06-28 15:19 IST*

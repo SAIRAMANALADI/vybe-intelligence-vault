@@ -2,13 +2,13 @@
 title: android Git repositories - Git at Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://android.googlesource.com
+source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: high
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - reddit
 - scripts
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # android Git repositories - Git at Google
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Hosted Git Repositories**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/asus/flo`).
+- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for the Android Open Source Project (AOSP) and related components, with Gerrit-based code review integration.
 
-- **Device-Specific Kernel & SEPolicy Branches**: Many device repositories include parallel kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches, often synchronized with specific Android versions (e.g., `5.10`, `6.1` kernels for `d
+- **Device-Specific Kernel & HAL Repositories**: Contains device-specific repositories (e.g., `device/google/bluejay`, `device/google/barbet`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and hardware abstraction layer (HAL) configurations for
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://android.googlesource.com
+Original source URL: https://android.googlesource.com
 
 ## Local Vault File
 

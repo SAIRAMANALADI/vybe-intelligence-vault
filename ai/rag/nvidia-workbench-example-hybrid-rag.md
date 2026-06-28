@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-28T10:22:27.485105+05:30'
+collected_at: '2026-06-28T15:04:57.239719+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-28T10:22:27.485105+05:30'
-last_seen: '2026-06-28T10:22:27.485105+05:30'
-last_checked: '2026-06-28T10:22:27.485105+05:30'
+first_seen: '2026-06-28T15:04:57.239719+05:30'
+last_seen: '2026-06-28T15:04:57.239719+05:30'
+last_checked: '2026-06-28T15:04:57.239719+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a hybrid retrieval system combining dense (vector-based) and sparse (keyword-based) retrieval methods to enhance document retrieval accuracy for RAG applications.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for improved document search accuracy.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG pipeline using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models in Python.
 
-- **Modular Python Implementation**: Provides a structured Python codebase with configurable components for document preprocessing, retrieval, and generation, facilitating customization and scalability.
+- **Modular Python Codebase**: Provides a structured example with reusable components for hybrid retrieval, LLM integration, and evaluation, optimized for GPU acceleration.
 
 ## Why It Matters
 

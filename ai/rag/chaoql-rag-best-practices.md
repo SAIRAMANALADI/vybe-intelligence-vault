@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-28T10:22:42.411107+05:30'
+collected_at: '2026-06-28T15:05:12.222318+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 92
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-28T10:22:42.411107+05:30'
-last_seen: '2026-06-28T10:22:42.411107+05:30'
-last_checked: '2026-06-28T10:22:42.411107+05:30'
+first_seen: '2026-06-28T15:05:12.222318+05:30'
+last_seen: '2026-06-28T15:05:12.222318+05:30'
+last_checked: '2026-06-28T15:05:12.222318+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Focus**: Curates best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), emphasizing optimized pipelines for retrieval and generation efficiency.
+- **Repository Overview**: Hosts Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), focusing on optimization techniques for enhanced performance and reliability.
 
-- **Technical Stack**: Implemented in Python, leveraging modern NLP frameworks (e.g., Hugging Face, LangChain) for modular RAG workflows, including embedding models, vector databases, and LLM integration.
+- **Key Focus**: Provides structured methodologies for integrating retrieval mechanisms with LLMs, emphasizing efficient indexing, query refinement, and context-aware generation to mitigate hallucinations and improve factual accuracy.
 
-- **Key Updates**: Last modified on **2026-06-22**, reflecting recent advancements in prompt engineering, context augmentation, and evaluation metrics for RAG systems.
+- **Technical Scope**: Covers implementation strategies for vector databases, chunking strategies, embedding models, and hybrid retrieval pipelines, with updates as of June 2026.
 
 ## Why It Matters
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sciencedirect.com/science/article/pii/s1877959x26000476
 hn_url: https://news.ycombinator.com/item?id=48664063
-score: 173
+score: 198
 author: bushwart
-comments_count: 96
+comments_count: 106
 published_at: '2026-06-25T00:12:12+05:30'
-collected_at: '2026-06-28T10:21:02.702408+05:30'
+collected_at: '2026-06-28T15:03:36.274497+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:reducing-tick-density-along-recreational-trails-in
 first_seen: '2026-06-27T21:50:18.433862+05:30'
-last_seen: '2026-06-28T10:21:02.702408+05:30'
-last_checked: '2026-06-28T10:21:02.702408+05:30'
+last_seen: '2026-06-28T15:03:36.274497+05:30'
+last_checked: '2026-06-28T15:03:36.274497+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bushwart. Score: 173, Comments: 96.
+Hacker News story by bushwart. Score: 198, Comments: 106.
 Original Link: https://www.sciencedirect.com/science/article/pii/S1877959X26000476
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bushwart
-- Score: 173 Upvotes
-- Comments: 96 Discussions
+- Score: 198 Upvotes
+- Comments: 106 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48664063
 - Original Article: https://sciencedirect.com/science/article/pii/s1877959x26000476
 

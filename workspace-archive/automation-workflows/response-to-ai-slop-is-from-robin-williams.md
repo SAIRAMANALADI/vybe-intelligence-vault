@@ -1,5 +1,5 @@
 ---
-title: Response to AI slop is from Robin Williams
+title: The best response to AI slop and online noise is from Robin Williams
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://jayacunzo.com/blog/your-move-chief
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Response to AI slop is from Robin Williams
+# The best response to AI slop and online noise is from Robin Williams
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by herbertl. Score: 120, Comments: 68.
+Hacker News story by herbertl. Score: 215, Comments: 119.
 Original Link: https://jayacunzo.com/blog/your-move-chief
 
 ## Use Cases

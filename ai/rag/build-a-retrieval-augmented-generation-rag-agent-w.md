@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron/
-published_at: '2026-06-28T10:21:55.665611+05:30'
-collected_at: '2026-06-28T10:21:55.665624+05:30'
+published_at: '2026-06-28T15:04:23.815705+05:30'
+collected_at: '2026-06-28T15:04:23.815719+05:30'
 tags:
 - agents
 - dataset
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-a-retrieval-augmented-generation-rag-agent-w
-first_seen: '2026-06-28T10:21:55.665624+05:30'
-last_seen: '2026-06-28T10:21:55.665624+05:30'
-last_checked: '2026-06-28T10:21:55.665624+05:30'
+first_seen: '2026-06-28T15:04:23.815719+05:30'
+last_seen: '2026-06-28T15:04:23.815719+05:30'
+last_checked: '2026-06-28T15:04:23.815719+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Architecture**: Uses ReAct agent design where an LLM dynamically decides between direct response or retrieval tool activation, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
+- **Agentic RAG Architecture**: Implements a ReAct agent with dynamic tool-calling, integrating Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for vectorization, and NeMo Retriever Reranking Model for relevance scoring) to enable autonomous retrieval and reasoning.
 
-- **NVIDIA Nemotron Integration**: Leverages NVIDIA NIM endpoints for tool binding, structured output, async operations, and enterprise-grade inference; employs open-weight models (Llama 3.2 EmbedQA 1b V2 for embeddings, Llama 3.2 RerankQA 1b V2 for reranking) to enhance retrieval-augmented generation.
+- **Pipeline Workflow**: User prompts trigger a retrieval chain (embedding → vector DB search → reranking) only when the LLM deems additional context necessary, with retrieved data injected into the generation pipeline for grounded responses.
 
-- **Pipeline Components**: Implements a modular workflow including text splitting, vector database ingestion, document retriever/reranker setup, and Retrieval Chain tool integration within LangGraph, enabling dynamic knowledge retrieval and grounded response generation.
+- **NVIDIA NIM Integration**: Uses NIM endpoints for tool binding, structured output (Pydantic), async operations, and enterprise-grade inference, while enforcing system prompts for role specification, tool utilization, grounding, and citation requirements.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:21:55.665611+05:30
+- Published: 2026-06-28T15:04:23.815705+05:30
 
 ## Related Tags
 

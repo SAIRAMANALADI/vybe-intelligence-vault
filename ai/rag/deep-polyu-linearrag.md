@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-28T10:23:27.548899+05:30'
+collected_at: '2026-06-28T15:05:57.291548+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-28T10:23:27.548899+05:30'
-last_seen: '2026-06-28T10:23:27.548899+05:30'
-last_checked: '2026-06-28T10:23:27.548899+05:30'
+first_seen: '2026-06-28T15:05:57.291548+05:30'
+last_seen: '2026-06-28T15:05:57.291548+05:30'
+last_checked: '2026-06-28T15:05:57.291548+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel Graph Retrieval-Augmented Generation (GraphRAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional GraphRAG methods.
+- **Linear Graph RAG Architecture**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph traversal to reduce computational overhead in dynamic knowledge integration.
 
-- Proposes **linear graph traversal** as a scalable alternative to hierarchical or dense retrieval, enabling efficient subgraph extraction for LLMs while maintaining contextual relevance in RAG pipelines.
+- **Scalability via Linearization**: Proposes a linearized graph representation that enables O(1) or O(log n) retrieval latency for large-scale corpora, addressing the quadratic complexity limitations of traditional graph-based RAG systems.
 
-- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, outperforming prior GraphRAG and dense retrieval baselines in both efficiency and accuracy for large-scale knowledge-intensive tasks.
+- **ICLR 2026 Validation**: Demonstrates state-of-the-art performance on benchmark datasets, achieving superior retrieval accuracy and generation quality while maintaining linear time complexity in both retrieval and augmentation phases.
 
 ## Why It Matters
 

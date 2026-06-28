@@ -6,9 +6,9 @@ source_url: https://docs.github.com/en/copilot/reference/copilot-cli-reference/c
 resource_id: blog:github-copilot-cli-command-reference-github-docs
 local_vault_path: ai/agents/github-copilot-cli-command-reference-github-docs.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # GitHub Copilot CLI command reference - GitHub Docs
@@ -30,17 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth auth via `--host`), `copilot init` (repo initialization), `copilot completion SHELL` (shell tab completion), `copilot version` (version check), and `copilot update` (update CLI). Authentication supports fine-grained PATs (`COPILOT_GITHUB_TOKEN`), OAuth tokens, or classic PATs (unsupported).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (shell tab completion), `copilot login` (OAuth device flow auth with `--host` support), `copilot init` (repo custom instructions), `copilot update`/`version` (version management), and `copilot mcp`/`plugin` (MCP/server/plugin management).
 
-- **Interactive UI Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `# NUMBER` (GitHub i
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `# NUMBER` (GitHub issue/PR context), `! COMMAND` (shell bypas
 
 ## Use Cases
 

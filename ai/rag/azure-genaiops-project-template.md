@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-28T10:22:12.485217+05:30'
+collected_at: '2026-06-28T15:04:42.244036+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-28T10:22:12.485217+05:30'
-last_seen: '2026-06-28T10:22:12.485217+05:30'
-last_checked: '2026-06-28T10:22:12.485217+05:30'
+first_seen: '2026-06-28T15:04:42.244036+05:30'
+last_seen: '2026-06-28T15:04:42.244036+05:30'
+last_checked: '2026-06-28T15:04:42.244036+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for Azure resources, enabling automated provisioning of Generative AI Ops (GenAIOps) environments with RAG (Retrieval-Augmented Generation) capabilities.
-
-- **RAG Pipeline Integration**: Includes pre-configured components for RAG workflows, facilitating seamless integration of vector databases, embedding models, and LLM inference endpoints within Azure services.
-
-- **Ops-Ready Components**: Designed for operational excellence with built-in monitoring, logging, and CI/CD pipeline templates to support GenAIOps workflows in production environments.
+- **Infrastructure-as-Code (IaC) template** in Bicep for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling automated MLOps workflows for generative AI applications.
+- **Modular Bicep modules** for provisioning Azure resources (e.g., Azure OpenAI, Cognitive Search, AKS, Key Vault) with configurable parameters for scalability and security.
+- **CI/CD-ready structure** with GitHub Actions integration for automated deployment, testing, and monitoring of RAG-based generative AI solutions.
 
 ## Why It Matters
 

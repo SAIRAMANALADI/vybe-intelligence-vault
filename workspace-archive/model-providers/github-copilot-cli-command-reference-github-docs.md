@@ -16,6 +16,7 @@ tags:
 - models
 - openai
 - producthunt
+- reddit
 - scripts
 - web-crawled
 - workflows
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables shell tab completion for `bash`, `zsh`, `fish`), `copilot login` (OAuth device flow with `--host` for GitHub Enterprise), `copilot init` (repository custom instructions), `copilot update`/`version` (version management).
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (shell tab completion), `copilot login` (OAuth device flow auth with `--host` support), `copilot init` (repo custom instructions), `copilot update`/`version` (version management), and `copilot mcp`/`plugin` (MCP/server/plugin management).
 
-- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (include file context), `# NUMBER` (GitHub issue/PR context), `! COMMAND` (shell executi
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (file context), `# NUMBER` (GitHub issue/PR context), `! COMMAND` (shell bypas
 
 ## Use Cases
 

@@ -10,9 +10,9 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
-- [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](https://docs.cloud.deepset.ai/docs/getting-started) (benchmark - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) (framework - USEFUL Tier)
 - [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 - [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (tutorial - USEFUL Tier)
 - [DagsHub - YouTube](https://youtube.com/c/dagshub) (framework - USEFUL Tier)
@@ -21,6 +21,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave)
 
 ## Best Learning Resources
 
@@ -38,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-28 10:37 IST*
+*Last updated: 2026-06-28 15:20 IST*

@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-28T10:24:52.705355+05:30'
+collected_at: '2026-06-28T15:07:22.363964+05:30'
 published_at: '2026-06-27T01:13:23Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-23T00:51:19Z'
 pushed_at: '2026-06-28T02:08:54Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-28T10:24:52.705355+05:30'
-last_seen: '2026-06-28T10:24:52.705355+05:30'
-last_checked: '2026-06-28T10:24:52.705355+05:30'
+first_seen: '2026-06-28T15:07:22.363964+05:30'
+last_seen: '2026-06-28T15:07:22.363964+05:30'
+last_checked: '2026-06-28T15:07:22.363964+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Security Framework**: DefenseClaw provides a Python-based security governance framework for agentic AI systems, enabling policy enforcement, runtime monitoring, and threat mitigation for autonomous AI agents.
+- **Agentic AI Security Framework**: DefenseClaw provides a Python-based security governance toolkit for agentic AI systems, enabling policy enforcement, threat detection, and compliance monitoring in autonomous AI workflows.
 
-- **Policy-Driven Controls**: Implements declarative security policies (e.g., access control, data handling) via YAML/JSON configurations to enforce governance across AI agent interactions and workflows.
+- **Modular Architecture**: The repository implements a pluggable design with core modules for access control, audit logging, and runtime policy evaluation, facilitating integration with existing AI agent frameworks.
 
-- **Runtime Monitoring & Compliance**: Integrates real-time auditing of agent actions, logging telemetry data, and ensuring adherence to predefined security policies to mitigate risks in dynamic AI environments.
+- **Real-time Policy Enforcement**: Supports dynamic policy application via YAML/JSON configurations, allowing fine-grained control over AI agent behaviors, data handling, and inter-agent communication.
 
 ## Why It Matters
 

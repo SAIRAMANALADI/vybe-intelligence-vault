@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-28T10:22:02.427317+05:30'
+collected_at: '2026-06-28T15:04:32.217248+05:30'
 published_at: '2026-06-27T11:53:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-28T10:22:02.427317+05:30'
-last_seen: '2026-06-28T10:22:02.427317+05:30'
-last_checked: '2026-06-28T10:22:02.427317+05:30'
+first_seen: '2026-06-28T15:04:32.217248+05:30'
+last_seen: '2026-06-28T15:04:32.217248+05:30'
+last_checked: '2026-06-28T15:04:32.217248+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI applications using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
 
-- **Vector Database Integration**: Demonstrates workflows leveraging LanceDB for efficient vector search, including fine-tuning, embeddings, and agent-based systems.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient embedding storage, retrieval, and similarity search in AI pipelines, including fine-tuning and hybrid search techniques.
 
-- **Tooling & Frameworks**: Covers integration with OpenAI APIs, LangChain, and LlamaIndex for building end-to-end AI pipelines with vector databases.
+- **Toolchain & Workflows**: Showcases integration with OpenAI APIs, deep learning frameworks, and agent frameworks (e.g., LangChain, LlamaIndex) for end-to-end AI workflows, including multimodal embeddings and LLM-powered applications.
 
 ## Why It Matters
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-06-28T10:23:32.503408+05:30'
+collected_at: '2026-06-28T15:06:02.267705+05:30'
 published_at: '2026-06-26T08:49:25Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - scripts
 - unknown
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-05-02T04:18:19Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-06-28T10:23:32.503408+05:30'
-last_seen: '2026-06-28T10:23:32.503408+05:30'
-last_checked: '2026-06-28T10:23:32.503408+05:30'
+first_seen: '2026-06-28T15:06:02.267705+05:30'
+last_seen: '2026-06-28T15:06:02.267705+05:30'
+last_checked: '2026-06-28T15:06:02.267705+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous reasoning agents, RAG (Retrieval-Augmented Generation), and multi-agent systems for complex knowledge synthesis.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing structured, evidence-backed deep research methodologies leveraging LLMs.
-- **Technical Scope**: Covers reasoning agents, search optimization, and hybrid retrieval-generation pipelines, with applications in academic, industrial, and open-domain research automation.
+- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, focusing on autonomous reasoning agents, large language models (LLMs), and retrieval-augmented generation (RAG) systems, with emphasis on reasoning and search optimization.
+
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s Knowledge Foundation Models (KnowFM) initiative, emphasizing structured knowledge acquisition, multi-agent collaboration, and deep research automation in AI systems.
+
+- **High-Impact Repository**: Hosts 780+ stars and 63 forks, serving as a dynamic reference for researchers in agentic AI, deep research frameworks, and reasoning-driven LLM applications, last updated June 26, 2026.
 
 ## Why It Matters
 

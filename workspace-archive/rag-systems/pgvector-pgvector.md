@@ -6,9 +6,9 @@ source_url: https://github.com/pgvector/pgvector
 resource_id: github:pgvector/pgvector
 local_vault_path: ai/rag/pgvector-pgvector.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: product
 importance: medium
 tags:
 - c
@@ -26,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tool
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: product
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **PostgreSQL Extension**: Implements vector similarity search (ANN/L2/cosine distance) directly in Postgres via a C-based extension, enabling efficient nearest-neighbor queries on vector embeddings.
-- **Indexing Support**: Provides specialized index types (e.g., HNSW, IVFFlat) for scalable approximate nearest neighbor (ANN) search with configurable parameters (e.g., `lists`, `probes`).
-- **Integration**: Seamlessly extends Postgres SQL syntax to support vector operations (`<->`, `<=>`, `<#>`)
+- **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) queries for high-dimensional vector data.
+- **Implementation**: Written in C as a PostgreSQL extension, supporting L2 distance, inner product, and cosine distance similarity metrics with optimizations for performance.
+- **Features**: Supports HNSW (Hierarchical Navigable Small World) and IVFFlat (Inverted File with Flat Compression) indexing strategies for scalable
 
 ## Use Cases
 

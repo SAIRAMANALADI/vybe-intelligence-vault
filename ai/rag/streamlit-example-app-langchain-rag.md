@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-28T10:22:32.494917+05:30'
+collected_at: '2026-06-28T15:04:57.243998+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
-- workflows
 stars: 156
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-28T10:22:32.494917+05:30'
-last_seen: '2026-06-28T10:22:32.494917+05:30'
-last_checked: '2026-06-28T10:22:32.494917+05:30'
+first_seen: '2026-06-28T15:04:57.243998+05:30'
+last_seen: '2026-06-28T15:04:57.243998+05:30'
+last_checked: '2026-06-28T15:04:57.243998+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
 
-- **Modular Components**: Uses LangChain’s `RetrievalQA` with a custom retriever (vector + keyword-based) and a LLM (e.g., OpenAI/GPT) for augmented generation, showcasing end-to-end RAG workflow.
+- **Modular LangChain Components**: Uses LangChain’s `RetrievalQA`, `VectorStoreRetriever`, and prompt templates to orchestrate retrieval-augmented generation (RAG) with configurable chain logic.
 
-- **Streamlit UI**: Provides a minimal UI for querying the RAG system, displaying retrieved context and generated answers, with example data pre-loaded for quick testing.
+- **Streamlit UI for RAG**: Provides a real-time web interface to input queries, display retrieved contexts, and stream generated responses, leveraging Streamlit’s session state for persistence.
 
 ## Why It Matters
 

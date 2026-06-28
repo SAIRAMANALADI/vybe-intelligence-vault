@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Comprehensive list of tools, frameworks, and resources for developing AI web agents, including browser automation and LLM benchmarking tools.
-- **Technical Scope**: Focuses on Python-based solutions for AI agents, covering topics like LLMs, agent architectures, and web interaction automation.
-- **Community & Maintenance**: Actively maintained repository (last updated June 2026) with 1,485 stars and 191 forks, indicating strong community engagement.
+- **Curated Collection**: Repository aggregating tools, frameworks, and resources for developing AI-driven web agents, including browser automation and LLM benchmarking utilities.
+- **Technical Scope**: Focuses on Python-based solutions for AI agent development, covering topics like LLMs, browser automation, and agent evaluation.
+- **Community Metrics**: Maintains 1,486 stars and 191 forks, last updated June 28, 2026.
 
 ## Use Cases
 

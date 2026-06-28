@@ -4,11 +4,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-28T03:52:21.767776+05:30'
-collected_at: '2026-06-28T03:52:21.767791+05:30'
+published_at: '2026-06-28T15:09:33.335847+05:30'
+collected_at: '2026-06-28T15:09:33.335859+05:30'
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -17,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-28T03:52:21.767791+05:30'
-last_seen: '2026-06-28T03:52:21.767791+05:30'
-last_checked: '2026-06-28T03:52:21.767791+05:30'
+first_seen: '2026-06-28T15:09:33.335859+05:30'
+last_seen: '2026-06-28T15:09:33.335859+05:30'
+last_checked: '2026-06-28T15:09:33.335859+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Provides a structured walkthrough for assessing Haystack pipelines, covering metrics and methodologies for performance analysis.
-- **Multimodal RAG Pipeline**: Demonstrates a Retrieval-Augmented Generation (RAG) system integrating both image and text modalities for enhanced question answering.
-- **Multi-Agent System**: Illustrates the construction of modular agent workflows using specialized agents for complex task decomposition and execution.
+- **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
+
+- **Multimodal RAG Pipeline**: Advanced tutorial demonstrating integration of vision and text modalities in a single RAG system using Haystack’s multimodal components for cross-domain question answering.
+
+- **KV Cache Compression**: Technical walkthrough on implementing TurboQuant KV cache quantization in Haystack to enable large LLM deployment on consumer GPUs with reduced memory footprint.
 
 ## Why It Matters
 
@@ -39,12 +42,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:52:21.767776+05:30
+- Published: 2026-06-28T15:09:33.335847+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag

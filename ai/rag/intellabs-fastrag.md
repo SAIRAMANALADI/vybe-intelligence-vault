@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-28T10:23:07.502298+05:30'
+collected_at: '2026-06-28T15:05:32.269675+05:30'
 published_at: '2026-06-22T17:29:39Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 1782
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-28T10:23:07.502298+05:30'
-last_seen: '2026-06-28T10:23:07.502298+05:30'
-last_checked: '2026-06-28T10:23:07.502298+05:30'
+first_seen: '2026-06-28T15:05:32.269675+05:30'
+last_seen: '2026-06-28T15:05:32.269675+05:30'
+last_checked: '2026-06-28T15:05:32.269675+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Framework**: Implements optimized retrieval-augmented generation (RAG) with support for multi-modal inputs, leveraging sentence-transformers and ColBERT for high-performance semantic search and retrieval.
-- **Modular Architecture**: Integrates knowledge graphs, diffusion models, and transformer-based LLMs for enhanced question-answering, summarization, and generative tasks with low-latency inference.
-- **Benchmarking & Scalability**: Provides built-in benchmarking tools for evaluating RAG pipelines, optimized for Intel hardware, and supports distributed retrieval for large-scale datasets.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), integrating modules for retrieval, re-ranking, and generation optimized for speed and scalability.
+- **Key Features**: Supports multi-modal inputs (text, knowledge graphs), leverages state-of-the-art models (e.g., ColBERT, Sentence Transformers, Diffusion) and includes benchmarks for evaluation across tasks like QA, summarization, and semantic search.
+- **Performance Focus**: Designed for low-latency inference with hardware-aware optimizations (e.g., Intel optimizations) and modular pipelines for customizable RAG workflows.
 
 ## Why It Matters
 

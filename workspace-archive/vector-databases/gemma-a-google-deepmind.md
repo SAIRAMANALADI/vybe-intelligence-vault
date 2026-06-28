@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: DiffusionGemma integrates the Gemma 4 family with diffusion-based techniques from Gemini research, enabling faster text generation via iterative denoising.
+- **Architecture**: DiffusionGemma integrates the Gemma 4 family with diffusion-based text generation, leveraging Gemini Diffusion research to enhance generation speed and quality via iterative refinement.
 
-- **Performance**: Achieves significant speedups in text generation while maintaining high output quality, leveraging diffusion models for efficient sequence decoding.
+- **Efficiency**: Optimized for faster text generation through diffusion models, reducing latency while maintaining coherence and contextual relevance compared to traditional autoregressive approaches.
 
-- **Optimization**: Designed for developer accessibility, offering scalable inference with reduced latency compared to traditional autoregressive models.
+- **Compatibility**: Designed as a drop-in replacement for Gemma models, ensuring seamless
 
 ## Use Cases
 

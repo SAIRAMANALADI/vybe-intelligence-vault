@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by handfuloflight. Score: 3, Comments: 0.
+Hacker News story by handfuloflight. Score: 64, Comments: 15.
 Original Link: https://github.com/itsthelore/wayfinder-router
 
 ## Use Cases

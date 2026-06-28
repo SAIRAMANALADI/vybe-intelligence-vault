@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://android.googlesource.com
-published_at: '2026-06-28T03:55:21.129121+05:30'
-collected_at: '2026-06-28T03:55:21.129138+05:30'
+source_url: https://android.googlesource.com
+published_at: '2026-06-28T15:11:09.473958+05:30'
+collected_at: '2026-06-28T15:11:09.473975+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-28T03:55:21.129138+05:30'
-last_seen: '2026-06-28T03:55:21.129138+05:30'
-last_checked: '2026-06-28T03:55:21.129138+05:30'
+first_seen: '2026-06-28T15:11:09.473975+05:30'
+last_seen: '2026-06-28T15:11:09.473975+05:30'
+last_checked: '2026-06-28T15:11:09.473975+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosted Git Repositories**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS components, device-specific code, and accessory support (e.g., `device/google/bluejay`, `device/asus/flo`).
+- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for the Android Open Source Project (AOSP) and related components, with Gerrit-based code review integration.
 
-- **Device-Specific Kernel & SEPolicy Branches**: Many device repositories include parallel kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches, often synchronized with specific Android versions (e.g., `5.10`, `6.1` kernels for `device/google/lynx`).
+- **Device-Specific Kernel & HAL Repositories**: Contains device-specific repositories (e.g., `device/google/bluejay`, `device/google/barbet`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and hardware abstraction layer (HAL) configurations for various Google devices.
 
-- **Bug Tracking Integration**: Repository paths frequently include bug IDs (e.g., `Bug: 190208935` in `device/google/barbet`), linking directly to Google's internal issue tracker for traceability.
+- **Emulation & Testing Infrastructure**: Includes generic device emulation targets (e.g., `device/generic/arm64`, `device/generic/x86_64`) and specialized testing frameworks like Cuttlefish (`device/google/cuttlefish`) for Android virtual device (AVD) emulation and validation.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:55:21.129121+05:30
+- Published: 2026-06-28T15:11:09.473958+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://android.googlesource.com
+Original source: https://android.googlesource.com

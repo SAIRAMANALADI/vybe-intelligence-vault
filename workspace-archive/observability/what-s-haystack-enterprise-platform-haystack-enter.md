@@ -6,10 +6,10 @@ source_url: https://docs.cloud.deepset.ai/docs/getting-started
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
-archive_score: 82
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
-importance: high
+importance: medium
 tags:
 - agents
 - benchmark
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Provides end-to-end tooling for prototyping, deploying, and scaling AI-powered applications with data ingestion, model integration, evaluation, and production monitoring.
+- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
 
-- **Modular Pipeline Architecture**: Enables construction of RAG systems and AI agents via configurable pipelines (retrievers, rankers, generators) with support for multi-model integration (LLMs, embeddings) and real-time observability via Langfuse/Weave.
-
-- **Production-Ready
+- **Modular RAG & Agent Architecture**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and multi-model provid
 
 ## Use Cases
 

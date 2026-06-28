@@ -6,7 +6,7 @@ source_url: https://neo4j.com/essential-graphrag/
 resource_id: blog:free-book-essential-graphrag-from-manning-publicat
 local_vault_path: ai/rag/free-book-essential-graphrag-from-manning-publicat.md
 quality_score: 70
-archive_score: 82
+archive_score: 84
 archive_tier: useful
 resource_kind: benchmark
 importance: high
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured data to enhance RAG systems, improving LLM response accuracy, depth, and traceability while reducing hallucinations and incomplete outputs.
+- **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured (vector embeddings) data to enhance LLM responses, reducing hallucinations and improving contextual depth via interconnected data retrieval.
 
-- **Core Techniques**: Covers advanced RAG methods (e.g., vector similarity, query rewriting, parent document retrieval) and agentic AI construction, alongside knowledge graph creation using LLMs.
+- **Technical Workflow**: Covers RAG fundamentals (vector similarity) and advanced methods (query rewriting, parent doc retrieval), with a focus on constructing knowledge graphs using LLMs and evaluating system performance.
 
-- **Evaluation & Implementation**: Provides methodologies for assessing RAG p
+- **Agentic AI & Implementation**: Details buildi
 
 ## Use Cases
 

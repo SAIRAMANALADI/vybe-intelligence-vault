@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, including Amazon Titan and other supported models.
-- **Multi-Faceted AI Workflows**: Demonstrates key AI/ML use cases such as embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
-- **AWS Service Integration**: Focuses on practical implementations leveraging Amazon Bedrock’s capabilities
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples covering all available foundational models (e.g., Amazon Titan) for Amazon Bedrock, enabling quick customer adoption.
+- **Multi-Faceted AI Workflows**: Includes implementations for embeddings, generative AI, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
+- **Modular & Updated**: Structured for extensibility with recent updates (as of 2026-06-28) and active comm
 
 ## Use Cases
 

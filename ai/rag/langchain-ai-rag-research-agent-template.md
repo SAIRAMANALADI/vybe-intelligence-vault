@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-28T10:22:07.520219+05:30'
+collected_at: '2026-06-28T15:04:37.263357+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
+- workflows
 stars: 313
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-28T10:22:07.520219+05:30'
-last_seen: '2026-06-28T10:22:07.520219+05:30'
-last_checked: '2026-06-28T10:22:07.520219+05:30'
+first_seen: '2026-06-28T15:04:37.263357+05:30'
+last_seen: '2026-06-28T15:04:37.263357+05:30'
+last_checked: '2026-06-28T15:04:37.263357+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured foundation for building Retrieval-Augmented Generation (RAG) research agents using LangChain, enabling integration of LLMs with external knowledge sources.
+- **Template Purpose**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
 
-- **Key Components**: Includes modular components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval pipelines, and agent orchestration with LangChain’s framework.
+- **Key Components**: Includes modular Python implementations for document retrieval, prompt engineering, and agent orchestration, leveraging LangChain’s ecosystem for LLM integration.
 
-- **Technical Stack**: Python-based, leveraging LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) and dependencies for vector DBs, embeddings, and agent tooling.
+- **Repository Status**: Actively maintained (last updated June 2026), with 313 stars and 72 forks, indicating community adoption and potential for contributions.
 
 ## Why It Matters
 

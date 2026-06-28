@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-28T03:50:44.601344+05:30'
-collected_at: '2026-06-28T03:50:44.601360+05:30'
+published_at: '2026-06-28T15:10:27.739866+05:30'
+collected_at: '2026-06-28T15:10:27.739880+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-28T03:50:44.601360+05:30'
-last_seen: '2026-06-28T03:50:44.601360+05:30'
-last_checked: '2026-06-28T03:50:44.601360+05:30'
+first_seen: '2026-06-28T15:10:27.739880+05:30'
+last_seen: '2026-06-28T15:10:27.739880+05:30'
+last_checked: '2026-06-28T15:10:27.739880+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j** is an open-source graph database implementing the property graph model, optimized for connected data with native graph storage and processing (Java-based core).
+- **Neo4j Core Project**: Open-source Java-based graph database implementing native graph storage, ACID transactions, and the Cypher query language; flagship repository (`neo4j/neo4j`) with 16.8k stars and 2.6k forks.
 
-- **Key repositories** include the main `neo4j` database engine, `graph-data-science` (graph algorithms library), and language-specific drivers (`neo4j-java-driver`, `neo4j-python-driver`, etc.) for Bolt protocol integration.
+- **Graph Data Science Ecosystem**: Provides algorithmic libraries (`graph-data-science`, `graph-data-science-client`) in Java/Python for scalable graph analytics, including PageRank, community detection, and centrality measures.
 
-- **Additional tools** span connectors (e.g., `neo4j-spark-connector` for Apache Spark, `neo4j-aws-glue`), the APOC library for extended Cypher procedures, and visualization utilities (`python-graph-visualization`).
+- **Multi-Language Driver Support**: Maintains official Bolt protocol drivers for JavaScript (915 stars), Python (1.0k stars), and Java (342 stars), enabling programmatic interaction with Neo4j across major programming languages.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:50:44.601344+05:30
+- Published: 2026-06-28T15:10:27.739866+05:30
 
 ## Related Tags
 

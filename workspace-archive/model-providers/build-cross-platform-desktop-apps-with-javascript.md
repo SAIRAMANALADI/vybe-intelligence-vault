@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: model-providers
 source_category: ai/rag
-source_url: https://www.electronjs.org/
+source_url: https://electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop applications using JavaScript/TypeScript.
+- **Runtime Architecture**: Electron combines Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
 
-- **Security & Stability**: Releases synchronize with Chromium updates for immediate security patches and stable rendering targets, while `crashReporter` and `autoUpdater` modules enhance reliability.
+- **Security & Stability**: Releases are synchronized with Chromium updates for immediate security patches and stable rendering targets.
 
-- **Extensibility & Tooling**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular), with Electron
+- **Tooling & Ecosystem**: Supports npm packages, native add-ons, auto-updates (via Squirrel), and distribution tools (DMG/MSI/RPM) for enterprise-grade deployment.
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.electronjs.org/
+Original source URL: https://electronjs.org/
 
 ## Local Vault File
 

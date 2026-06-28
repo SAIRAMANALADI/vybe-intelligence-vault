@@ -33,9 +33,7 @@ selection_reason:
 
 ## Summary
 
-- YouTube operates under Google LLC, providing a platform for video sharing, monetization, and content discovery with integrated Google services.
-- Developers can leverage the [YouTube Data API](https://developers.google.com/youtube) for programmatic access to core YouTube functionalities (e.g., uploads, analytics, live streaming).
-- YouTube enforces policies via automated systems and human review to manage copyright (Content ID), safety (Community Guidelines), and privacy (GDPR compliance).
+*   **API Exposure:** Direct link to `developers.google.com/youtube` indicates
 
 ## Use Cases
 

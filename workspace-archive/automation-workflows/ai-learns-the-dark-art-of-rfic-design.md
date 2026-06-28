@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Brajeshwar. Score: 206, Comments: 137.
+Hacker News story by Brajeshwar. Score: 231, Comments: 151.
 Original Link: https://spectrum.ieee.org/ai-radio-chip-design
 
 ## Use Cases

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-28T10:22:37.414721+05:30'
+collected_at: '2026-06-28T15:05:07.234564+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
 - github-repo
-- models
+- hackernews
 - python
 - rag
+- workflows
 stars: 263
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-28T10:22:37.414721+05:30'
-last_seen: '2026-06-28T10:22:37.414721+05:30'
-last_checked: '2026-06-28T10:22:37.414721+05:30'
+first_seen: '2026-06-28T15:05:07.234564+05:30'
+last_seen: '2026-06-28T15:05:07.234564+05:30'
+last_checked: '2026-06-28T15:05:07.234564+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies tailored to Vietnamese linguistic features.
+- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese-specific Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding generation, and retrieval mechanisms optimized for Vietnamese language characteristics.
 
-- **Modular Python Architecture**: Utilizes a structured Python backend with components for document retrieval, vector storage (e.g., FAISS, Chroma), and integration with LLM APIs (e.g., Hugging Face Transformers) for Vietnamese-focused RAG pipelines.
+- **Modular Python Architecture**: Features a structured Python backend with components for document retrieval, vector storage (e.g., FAISS/Weaviate), and LLM integration (e.g., ViT5, PhoBERT), enabling scalable and customizable RAG workflows.
 
-- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval performance (e.g., precision/recall metrics) and fine-tuning embedding models (e.g., `vinai/phobert-base`) for Vietnamese text corpora.
+- **Evaluation & Optimization**: Includes Vietnamese-specific evaluation metrics (e.g., retrieval accuracy, response relevance) and techniques like query expansion or reranking to enhance performance for low-resource language scenarios.
 
 ## Why It Matters
 

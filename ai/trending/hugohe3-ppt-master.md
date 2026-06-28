@@ -9,13 +9,14 @@ collected_at: '2026-06-28T10:21:00.593886+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:hugohe3/ppt-master
 first_seen: '2026-06-27T19:37:06.007531+05:30'
 last_seen: '2026-06-28T10:21:00.593886+05:30'
 last_checked: '2026-06-28T10:21:00.593886+05:30'
 health_score: 100
 ---
+
 
 # hugohe3/ppt-master
 

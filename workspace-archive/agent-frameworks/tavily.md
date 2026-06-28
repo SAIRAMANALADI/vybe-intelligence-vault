@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time web access layer for AI agents**: Provides structured, chunked web data retrieval and extraction via a single API to ground LLMs with fresh context, reducing hallucinations by ensuring factual grounding.
+- **Real-time web data retrieval & extraction**: Provides structured, chunked web data via API for grounding LLMs, reducing hallucinations by ensuring fresh, factual context with real-time search and intelligent caching.
 
-- **Scalable, secure production-grade infrastructure**: Handles 300M+ monthly requests with 99.99% uptime, p50 latency of 180ms, and built-in safeguards (PII protection, prompt injection blocking, malicious source filtering).
+- **Enterprise-grade scalability & security**: Handles 300M+ monthly requests with 99.99% uptime, 180ms p50 latency, and built-in safeguards (PII blocking, prompt injection detection, malicious source filtering) for production deployment.
 
-- **Benchmark-proven performance**: Achieves state-of-
+- **Benchmark-proven performance**: Ac
 
 ## Use Cases
 

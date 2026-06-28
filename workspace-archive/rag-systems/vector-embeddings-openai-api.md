@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D vectors, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, ~9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, reducing vector size without significant performance loss (e.g., 256D `text-embedding-3-large` outperforms 1536D `text-embedding-ada-002`).
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer improved multilingual performance, lower costs, and configurable dimensionality via the `dimensions` parameter, with max input length of 8192 tokens.
 
-- **API Integration**: Embeddings are generated via OpenAI’s API (`POST /v1/embeddings`) with input token pricing; ve
+- **Embedding Mechanics**: Embeddings are vectorized representations (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; dimensionality can be reduced (e.g., to
 
 ## Use Cases
 

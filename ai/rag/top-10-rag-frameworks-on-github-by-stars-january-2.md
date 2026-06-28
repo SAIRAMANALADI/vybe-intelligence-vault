@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-06-28T10:21:48.197652+05:30'
-collected_at: '2026-06-28T10:21:48.197660+05:30'
+published_at: '2026-06-28T15:04:18.152123+05:30'
+collected_at: '2026-06-28T15:04:18.152137+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-06-28T10:21:48.197660+05:30'
-last_seen: '2026-06-28T10:21:48.197660+05:30'
-last_checked: '2026-06-28T10:21:48.197660+05:30'
+first_seen: '2026-06-28T15:04:18.152137+05:30'
+last_seen: '2026-06-28T15:04:18.152137+05:30'
+last_checked: '2026-06-28T15:04:18.152137+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Python/TypeScript framework with 125K+ GitHub stars, offering 700+ integrations, modular chains, and LangGraph for stateful agentic workflows, ideal for complex RAG pipelines but with a steep learning curve.
-
-- **RAGFlow**: Python-based framework (70K+ stars) specializing in enterprise-grade document parsing, advanced chunking, and grounded citations, optimized for deep document understanding in high-stakes environments.
-
-- **Pathway**: Python (Rust runtime) framework (50K+ stars) enabling real-time data processing for RAG, featuring 350+ data connectors, incremental updates, and unified ETL-RAG pipelines, suited for live data synchronization.
+- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex RAG pipelines.
+- **RAGFlow** (⭐70K): Python-based "deep document understanding" framework with advanced parsing (tables, images, PDFs) and grounded citations for enterprise RAG.
+- **Pathway** (⭐50K+): Python (Rust runtime) framework specializing in real-time data processing with 350+ connectors and incremental updates for live RAG systems.
 
 ## Why It Matters
 
@@ -46,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:21:48.197652+05:30
+- Published: 2026-06-28T15:04:18.152123+05:30
 
 ## Related Tags
 

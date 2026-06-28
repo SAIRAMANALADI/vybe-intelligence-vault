@@ -16,6 +16,7 @@ tags:
 - hackernews
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured data to enhance RAG systems, improving LLM response accuracy, depth, and traceability while reducing hallucinations and incomplete outputs.
+- **GraphRAG Integration**: Combines structured (knowledge graphs) and unstructured (vector embeddings) data to enhance LLM responses, reducing hallucinations and improving contextual depth via interconnected data retrieval.
 
-- **Core Techniques**: Covers advanced RAG methods (e.g., vector similarity, query rewriting, parent document retrieval) and agentic AI construction, alongside knowledge graph creation using LLMs.
+- **Technical Workflow**: Covers RAG fundamentals (vector similarity) and advanced methods (query rewriting, parent doc retrieval), with a focus on constructing knowledge graphs using LLMs and evaluating system performance.
 
-- **Evaluation & Implementation**: Provides methodologies for assessing RAG p
+- **Agentic AI & Implementation**: Details buildi
 
 ## Use Cases
 

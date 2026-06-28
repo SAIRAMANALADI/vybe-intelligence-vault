@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-06-28T10:25:10.385475+05:30'
-collected_at: '2026-06-28T10:25:10.385487+05:30'
+published_at: '2026-06-28T15:07:35.606156+05:30'
+collected_at: '2026-06-28T15:07:35.606169+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-06-28T10:25:10.385487+05:30'
-last_seen: '2026-06-28T10:25:10.385487+05:30'
-last_checked: '2026-06-28T10:25:10.385487+05:30'
+first_seen: '2026-06-28T15:07:35.606169+05:30'
+last_seen: '2026-06-28T15:07:35.606169+05:30'
+last_checked: '2026-06-28T15:07:35.606169+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536D vectors, ~62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072D vectors, ~9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, reducing vector size without significant performance loss (e.g., 256D `text-embedding-3-large` outperforms 1536D `text-embedding-ada-002`).
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer improved multilingual performance, lower costs, and configurable dimensionality via the `dimensions` parameter, with max input length of 8192 tokens.
 
-- **API Integration**: Embeddings are generated via OpenAI’s API (`POST /v1/embeddings`) with input token pricing; vectors are L2-normalized floating-point arrays used for semantic similarity tasks (cosine distance metric recommended for retrieval).
+- **Embedding Mechanics**: Embeddings are vectorized representations (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; dimensionality can be reduced (e.g., to 256) without significant loss of conceptual fidelity using the `dimensions` API parameter.
 
-- **Use Cases**: Enables search, clustering, recommendations, anomaly detection, and classification; supports dynamic dimensionality adjustment for storage/compute efficiency (e.g., truncating to 1024D for vector databases).
+- **Use Cases & Implementation**: Enables tasks like semantic search, clustering, recommendations, and anomaly detection; embeddings are generated via API calls (e.g., `openai.embeddings.create`) and can be stored in vector databases for downstream applications, with dynamic dimensionality adjustment supporting storage/compute optimization.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:25:10.385475+05:30
+- Published: 2026-06-28T15:07:35.606156+05:30
 
 ## Related Tags
 

@@ -6,10 +6,10 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 86
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 72
+archive_tier: useful
+resource_kind: prompt
+importance: medium
 tags:
 - agents
 - anthropic
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 86 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Fundamentals**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for accurate responses without overloading LLM context windows, essential for enterprise-grade AI systems.
-
-- **Vector Embeddings & Pipeline**: Documents are chunked (e.g., 1,000 tokens), converted into high-dimensional vectors (e.g., 3,072D via OpenAI's `text-embedding-3-large`), and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching during retrieval
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external information (documents, databases) dynamically, avoiding context window overload by injecting only pertinent chunks into prompts.
+- **Embedding Pipeline**: Documents are chunked (e.g., 1,000 tokens), converted into high-dimensional vectors (e.g., 3,072D for OpenAI’s `text-embedding-3-large`) via embedding models, and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching.
+- **Retr
 
 ## Use Cases
 

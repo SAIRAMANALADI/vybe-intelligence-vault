@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering Retrieval-Augmented Generation (RAG) from fundamentals to production deployment, including embeddings, vector databases, LLMs, and advanced techniques.
-- **Code-First Approach**: Provides working Python code examples, reusable utilities, and hands-on demos to facilitate practical implementation of RAG systems.
-- **Repository Metadata**: Python-based tutorial last updated on 2026-06-16, with 6 stars and 0 forks (as of the provided snap
+- **Progressive RAG Tutorial**: 6-step guide covering embeddings, vector databases, LLMs, and advanced techniques with working Python code and reusable utilities.
+- **Hands-on Learning**: Includes demos and practical examples for building Retrieval-Augmented Generation (RAG) systems from scratch to production.
+- **Updated Repository**: Last modified on 2026-06-16, with minimal community adoption (6 stars, 0 forks).
 
 ## Use Cases
 

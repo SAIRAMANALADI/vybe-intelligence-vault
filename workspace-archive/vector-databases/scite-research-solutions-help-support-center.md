@@ -14,7 +14,6 @@ tags:
 - paper
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation analysis** distinguishes between *citations* (raw references) and *citation statements* (contextual mentions in text), enabling classification of citations as supporting, contrasting, or mentioning, unlike traditional citation indexes.
+- **Scite's citation analysis** distinguishes itself by classifying citations into **supporting, mentioning, or contrasting** based on contextual NLP analysis of citation statements, unlike traditional citation indexes that only count raw citation numbers.
 
-- **Scite's coverage** includes over **1.2 billion citation statements** across **50+ million documents**, with real-time updates from **PubMed, Crossref, arXiv, and preprint servers**, though coverage gaps may exist for niche or non-indexed
+- **Scite's coverage** spans millions of research articles across disciplines, with **real-time updates** and **cross-referencing** from PubMed, arXiv, and Crossref, enabling comprehensive citation tracking and classification.
+
+- **Scite's to
 
 ## Use Cases
 

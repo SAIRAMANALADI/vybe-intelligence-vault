@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-28T10:23:27.491895+05:30'
+collected_at: '2026-06-28T15:05:57.254898+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-28T10:23:27.491895+05:30'
-last_seen: '2026-06-28T10:23:27.491895+05:30'
-last_checked: '2026-06-28T10:23:27.491895+05:30'
+first_seen: '2026-06-28T15:05:57.254898+05:30'
+last_seen: '2026-06-28T15:05:57.254898+05:30'
+last_checked: '2026-06-28T15:05:57.254898+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework inspired by human cognitive memory systems, enabling stateful long narrative reasoning via structured memory hierarchies.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning via structured memory modules.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, addressing limitations in traditional RAG systems.
+- **Memory-Organized Retrieval**: Implements hierarchical memory retrieval (short-term, episodic, semantic) with dynamic attention mechanisms to optimize context relevance for multi-turn reasoning tasks.
 
-- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks compared to baseline RAG models, with open-source Python implementation available.
+- **AAAI 2026 Poster**: Proposes a novel evaluation framework for long narrative reasoning, demonstrating superior performance over traditional RAG baselines in coherence, factual consistency, and contextual recall.
 
 ## Why It Matters
 

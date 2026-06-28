@@ -6,13 +6,12 @@ source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
 resource_id: github:iaar-shanghai/crud_rag
 local_vault_path: ai/rag/iaar-shanghai-crud-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG provides a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval quality, generation fluency, and factual accuracy).
-- **Evaluation Scope**: Includes tasks for **C**omplex query handling, **R**etrieval robustness, **U**nderstanding depth, and **D**omain adaptability, with metrics for both retrieval and generation components.
-- **Open-Source Toolkit**
+- **Benchmark Design**: CRUD-RAG introduces a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on large language models (LLMs) with metrics spanning **C**omprehension, **R**etrieval, **U**tilization, and **D**ecision-making (CRUD) tasks.
+
+- **Evaluation Framework**: The benchmark includes **multi-modal retrieval** (text, tables, knowledge graphs) and assesses LLMs on **contextual understanding**, **retrieval accuracy**, and **response generati
 
 ## Use Cases
 

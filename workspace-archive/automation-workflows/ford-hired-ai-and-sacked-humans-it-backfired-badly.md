@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by speckx. Score: 55, Comments: 31.
+Hacker News story by speckx. Score: 191, Comments: 111.
 Original Link: https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html
 
 ## Use Cases

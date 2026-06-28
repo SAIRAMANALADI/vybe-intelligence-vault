@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-06-28T03:50:19.132716+05:30'
+collected_at: '2026-06-28T15:07:12.383055+05:30'
 published_at: '2026-06-26T17:24:22Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
+- hackernews
 - openai
 - python
 - workflows
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-06-28T03:50:19.132716+05:30'
-last_seen: '2026-06-28T03:50:19.132716+05:30'
-last_checked: '2026-06-28T03:50:19.132716+05:30'
+first_seen: '2026-06-28T15:07:12.383055+05:30'
+last_seen: '2026-06-28T15:07:12.383055+05:30'
+last_checked: '2026-06-28T15:07:12.383055+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, covering end-to-end workflows from data preprocessing to model deployment.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data preprocessing, model training, hyperparameter optimization, and deployment.
 
-- **Implementation**: Written in Python, the benchmark includes standardized tasks, evaluation metrics, and a scoring system to quantify agent performance across ML engineering challenges.
+- **Technical Implementation**: Built in Python, the benchmark provides a standardized environment with curated datasets, evaluation metrics, and agent interaction protocols to assess performance across diverse ML workflows.
 
-- **Scope**: Focuses on practical ML engineering skills, including reproducibility, debugging, optimization, and integration with existing ML pipelines.
+- **Evaluation Metrics**: Focuses on metrics like task completion rate, solution correctness, efficiency (time/steps), and generalization across unseen datasets or problem variations.
 
 ## Why It Matters
 

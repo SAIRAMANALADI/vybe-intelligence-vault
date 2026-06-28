@@ -6,9 +6,9 @@ source_url: https://github.com/NirDiamant/GenAI_Agents
 resource_id: github:nirdiamant/genai_agents
 local_vault_path: ai/rag/nirdiamant-genai-agents.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -17,10 +17,9 @@ tags:
 - jupyter notebook
 - openai
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # NirDiamant/GenAI_Agents
@@ -28,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive Resource**: Repository containing **50+ tutorials** covering **Generative AI Agent techniques**, ranging from **basic conversational bots** to **complex multi-agent systems**, implemented primarily in **Jupyter Notebooks**.
-
-- **Technical Stack**: Focuses on **LangChain, LangGraph, LLMs (Large Language Models), MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation)**, and **multi-agent architectures**, with integrations for **OpenAI, Python, and machine learning** w
+*   Comprehensive repository of 50+ Jupyter Notebook tutorials implementing Generative AI agent techniques, ranging from fundamental conversational bots to complex multi-agent systems.
+*   Demonstrates practical applications leveraging key GenAI frameworks including LangChain, LangGraph, OpenAI APIs, and RAG paradigms for LLM-based agent development.
+*   Explores autonomous and multi-agent system (MAS) design patterns, including Multi-Agent Collaboration Protocol (MCP), within the context of age
 
 ## Use Cases
 

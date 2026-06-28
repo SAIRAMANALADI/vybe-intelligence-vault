@@ -12,7 +12,10 @@ resource_kind: framework
 importance: high
 tags:
 - agents
+- anthropic
 - github-repo
+- hackernews
+- openai
 - python
 - rag
 - workflows
@@ -34,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic RAG Framework**: Production-ready Python-based system implementing Agentic Retrieval-Augmented Generation (RAG) with RESTful API endpoints for dynamic, multi-step retrieval and generation workflows.
+- **Agentic RAG System**: Production-ready retrieval-augmented generation (RAG) framework with RESTful API support, enabling dynamic, multi-step agentic workflows for enhanced question-answering and retrieval tasks.
 
-- **Advanced Retrieval Pipeline**: Integrates state-of-the-art retrieval mechanisms optimized for large language models (LLMs), supporting structured and unstructured data indexing, hybrid search, and real-time updates.
+- **Scalable Architecture**: Implemented in Python, optimized for large-scale deployments with modular components for indexing, retrieval, and generation, leveraging state-of-the-art (SoTA) techniques in AI-driven search and LLM integration.
 
-- **Scalable Architecture**: Designed for high-performance deployme
+- **Advanced Features**: Supports struct
 
 ## Use Cases
 

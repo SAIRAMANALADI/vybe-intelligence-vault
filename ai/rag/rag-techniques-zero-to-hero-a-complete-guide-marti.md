@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-28T10:21:53.229871+05:30'
-collected_at: '2026-06-28T10:21:53.229882+05:30'
+published_at: '2026-06-28T15:04:22.579908+05:30'
+collected_at: '2026-06-28T15:04:22.579919+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-28T10:21:53.229882+05:30'
-last_seen: '2026-06-28T10:21:53.229882+05:30'
-last_checked: '2026-06-28T10:21:53.229882+05:30'
+first_seen: '2026-06-28T15:04:22.579919+05:30'
+last_seen: '2026-06-28T15:04:22.579919+05:30'
+last_checked: '2026-06-28T15:04:22.579919+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; ANN indexes (HNSW/IVF+PQ) enable scalable vector search, while hybrid retrieval (BM25 + vector) improves precision/recall.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional components include rerankers, query rewriters, caching, and orchestration layers for improved precision and efficiency.
 
-- **Chunking & Embedding Optimization**: Chunking strategies (fixed-size, overlap, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (dimensionality, normalization) and hybrid scoring (normalized BM25 + cosine) enhance grounding, with cross-encoders used for high-precision reranking on top-K candidates.
+- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware chunking with moderate overlap is recommended for coherence, while semantic/LLM-based methods improve semantic integrity at higher computational cost.
 
-- **Context Management & Multi-Hop Reasoning**: Token budgeting and autocut strategies mitigate hallucinations; multi-hop retrieval (decomposition, GraphRAG) and iterative workflows enable complex reasoning, while context distillation (LLM-based summarization) and chunk selection improve evidence relevance.
+- **Hybrid Retrieval & Reranking**: Hybrid search (BM25 + vector) improves recall/precision; two-stage retrieval uses an efficient first-stage retriever followed by a cross-encoder reranker for higher precision on top-K candidates, with distillation techniques to optimize cost.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:21:53.229871+05:30
+- Published: 2026-06-28T15:04:22.579908+05:30
 
 ## Related Tags
 

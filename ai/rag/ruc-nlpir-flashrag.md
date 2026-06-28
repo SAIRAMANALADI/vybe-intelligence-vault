@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-28T10:22:57.474820+05:30'
-published_at: '2026-06-27T09:33:48Z'
+collected_at: '2026-06-28T15:05:27.280322+05:30'
+published_at: '2026-06-28T07:18:25Z'
 tags:
 - benchmark
 - dataset
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - reddit
-stars: 3511
+stars: 3510
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-28T10:22:57.474820+05:30'
-last_seen: '2026-06-28T10:22:57.474820+05:30'
-last_checked: '2026-06-28T10:22:57.474820+05:30'
+first_seen: '2026-06-28T15:05:27.280322+05:30'
+last_seen: '2026-06-28T15:05:27.280322+05:30'
+last_checked: '2026-06-28T15:05:27.280322+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
+- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
 
-- **Comprehensive Benchmarking & Datasets**: Provides a suite of standardized benchmarks, datasets, and evaluation metrics tailored for RAG systems, enabling reproducible and comparative analysis across different models and configurations.
+- **Benchmark & Dataset Support**: Includes built-in benchmarks and datasets to evaluate RAG systems, enabling standardized performance comparisons across retrieval and generation tasks.
 
-- **Modular & Extensible Framework**: Designed with modularity in mind, supporting integration with various large language models (LLMs) and retrieval backends, while offering tools for custom dataset creation, preprocessing, and performance profiling.
+- **Modular & Extensible**: Provides modular components for customization, supporting integration with various LLMs, retrievers, and evaluation metrics for rapid prototyping and experimentation.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: RUC-NLPIR
-- Stars: 3511
+- Stars: 3510
 - Forks: 306
 - Language: Python
 - Topics: benchmark, datasets, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-06-27T09:33:48Z
+- Last Updated: 2026-06-28T07:18:25Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-14T01:40:33Z

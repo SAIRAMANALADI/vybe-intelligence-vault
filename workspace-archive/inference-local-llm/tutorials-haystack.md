@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - benchmark
+- hackernews
 - models
 - openai
 - rag
@@ -39,9 +40,9 @@ selection_reason:
 
 - **Evaluation Guide**: Comprehensive tutorial covering statistical and model-based metrics for assessing RAG pipeline performance, including precision, recall, and LLM-as-a-judge approaches.
 
-- **Multimodal RAG Pipeline**: Demonstrates integration of vision and text modalities using Haystack’s multimodal components to enable cross-domain question answering.
+- **Multimodal RAG Pipeline**: Advanced tutorial demonstrating integration of vision and text modalities in a single RAG system using Haystack’s multimodal components for cross-domain question answering.
 
-- **KV Cache Compression**: Introduces TurboQuant quantization for reducing memory footprint of LLMs, enabling deployment on consumer GPUs
+- **KV Cache Compression**: Technical walkthrough on implementing TurboQuant KV cache quantization in
 
 ## Use Cases
 

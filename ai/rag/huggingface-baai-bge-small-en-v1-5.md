@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/baai/bge-small-en-v1.5
-published_at: '2026-06-28T10:20:59.384650+05:30'
-collected_at: '2026-06-28T10:20:59.384657+05:30'
+published_at: '2026-06-28T15:03:34.475866+05:30'
+collected_at: '2026-06-28T15:03:34.475874+05:30'
 tags:
 - hf-model
 - huggingface
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:baai/bge-small-en-v1.5
 first_seen: '2026-06-18T23:35:18.374715+05:30'
-last_seen: '2026-06-28T10:20:59.384657+05:30'
-last_checked: '2026-06-28T10:20:59.384657+05:30'
+last_seen: '2026-06-28T15:03:34.475874+05:30'
+last_checked: '2026-06-28T15:03:34.475874+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 497, Downloads: 61803330)
+Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 498, Downloads: 61550289)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-06-28T10:20:59.384650+05:30
+- Published: 2026-06-28T15:03:34.475866+05:30
 
 ## Related Tags
 

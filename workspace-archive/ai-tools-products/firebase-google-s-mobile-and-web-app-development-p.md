@@ -41,7 +41,7 @@ selection_reason:
 
 - **AI/ML Integration**: Supports generative AI workflows via Firebase AI Logic, Agent Skills, and integrations with Google’s Gemini, enabling AI-powered features like logic automation and agent assistance.
 
-- **Extensible Backend Services**: Offers managed backend services (Firestore, Realtime D
+- **Modular Backend Services**: Offers managed backend services (Firestore, Realtime Data
 
 ## Use Cases
 

@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-06-28T10:24:07.605647+05:30'
-published_at: '2026-06-27T22:28:58Z'
+collected_at: '2026-06-28T15:06:37.356750+05:30'
+published_at: '2026-06-28T08:14:59Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 10054
+- workflows
+stars: 10057
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-06-27T01:43:32Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-06-28T10:24:07.605647+05:30'
-last_seen: '2026-06-28T10:24:07.605647+05:30'
-last_checked: '2026-06-28T10:24:07.605647+05:30'
+first_seen: '2026-06-28T15:06:37.356750+05:30'
+last_seen: '2026-06-28T15:06:37.356750+05:30'
+last_checked: '2026-06-28T15:06:37.356750+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for coding agents, enabling concurrent task execution and non-blocking I/O operations.
-- **Multi-LLM Integration**: Supports multiple LLM providers (OpenAI, Anthropic, etc.) with dynamic model switching and tool-agnostic execution via standardized interfaces.
-- **ClaudeCode Compatibility**: Designed to replicate and extend functionality of Anthropic's `claude-code`, with additional features like custom tooling, state management, and async task orchestration.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for building asynchronous coding agents, enabling parallel task execution and improved efficiency in AI-driven development workflows.
+
+- **Multi-Model LLM Support**: The repository integrates with multiple large language models (LLMs), including OpenAI and Anthropic's ClaudeCode, facilitating flexible agentic coding across different model providers.
+
+- **Python-Based & Extensible**: Implemented in Python, Open-SWE supports modular extensions for custom agent behaviors, tool integrations, and asynchronous I/O operations, optimized for scalable AI-assisted software engineering.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10054
-- Forks: 1149
+- Stars: 10057
+- Forks: 1150
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-06-27T22:28:58Z
+- Last Updated: 2026-06-28T08:14:59Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-28T10:22:42.470775+05:30'
+collected_at: '2026-06-28T15:05:12.245249+05:30'
 published_at: '2026-06-28T02:03:10Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
+- scripts
 - workflows
 stars: 4362
 language: Python
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-28T10:22:42.470775+05:30'
-last_seen: '2026-06-28T10:22:42.470775+05:30'
-last_checked: '2026-06-28T10:22:42.470775+05:30'
+first_seen: '2026-06-28T15:05:12.245249+05:30'
+last_seen: '2026-06-28T15:05:12.245249+05:30'
+last_checked: '2026-06-28T15:05:12.245249+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Content**: Provides a free, end-to-end guide for building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+- **End-to-end LLM & RAG system**: Course provides hands-on implementation of production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 instructor-led sessions.
 
-- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
+- **MLOps & Infrastructure Tooling**: Covers MLOps workflows with AWS, Pulumi (IaC), Docker, Qwak, and Comet ML; integrates vector databases (Qdrant) and streaming frameworks (Bytewax) for scalable pipelines.
 
-- **Deployment & Tools**: Includes Docker for containerization, with infrastructure managed via Pulumi, and covers ML system design, RAG, and LLMOps in a scalable, production-grade architecture.
+- **Python-Based Implementation**: Repository includes Python-based codebase for building, deploying, and monitoring LLM/RAG systems, with focus on ML system design and infrastructure-as-code automation.
 
 ## Why It Matters
 

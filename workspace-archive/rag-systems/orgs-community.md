@@ -11,12 +11,10 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- creative_dev
 - frontend_ui
-- hackernews
+- openai
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 selection_reason:
@@ -37,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Community** serves as a central hub for discussions, repositories, and packages under the `@community` GitHub organization, with structured categories for topics like AI (Copilot), automation, security, and education.
-- **Copilot-related discussions** include usage-based billing FAQs, webinar series, and general availability announcements, with active threads on configuring Copilot for team-specific coding conventions in monorepos.
-- **Technical Q&A** spans authentication issues (e.g.
+- GitHub Community serves as a central hub for discussions, repositories, and packages under the `community` organization, including sub-orgs for specific topics like AI, automation, and enterprise security.
+
+- Key active discussions include Copilot’s shift to usage-based billing (FAQ), expanded file type support for issue attachments (GA), and feature requests like custom repository folders for organization.
+
+- The platform enforces structured categorization (e.g., `Copilot Conversations`, `Rep
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-06-28T10:24:42.627907+05:30'
-published_at: '2026-06-27T14:41:19Z'
+collected_at: '2026-06-28T15:07:12.315235+05:30'
+published_at: '2026-06-28T08:47:58Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - unknown
 stars: 183
 language: Unknown
@@ -17,11 +18,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-06-01T05:40:33Z'
-pushed_at: '2026-06-27T02:28:39Z'
+pushed_at: '2026-06-28T08:47:54Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-06-28T10:24:42.627907+05:30'
-last_seen: '2026-06-28T10:24:42.627907+05:30'
-last_checked: '2026-06-28T10:24:42.627907+05:30'
+first_seen: '2026-06-28T15:07:12.315235+05:30'
+last_seen: '2026-06-28T15:07:12.315235+05:30'
+last_checked: '2026-06-28T15:07:12.315235+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Resource**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and deep dives.
-- **Key Topics & Tools**: Covers agent frameworks (e.g., CrewAI, LangChain), LLM-based agents, autonomous agents, and AI tools, organized under topics like `2026`, `ai-agents`, and `llm-agents`.
-- **Updated & Maintained**: Last updated on **2026-06-27**, with 183 stars and 84 forks, indicating active community engagement.
+*   Curates 300+ AI agents and frameworks, emphasizing future-oriented autonomous agent development for 2026.
+*   Categorizes agents across technical domains including Coding, Creative, Voice, Research, and Enterprise, providing comparison guides and benchmarks.
+*   Features prominent agent frameworks and technologies such as `crewai`, `langchain`, `llm`, and `autonomous-agents`.
 
 ## Why It Matters
 
@@ -41,14 +42,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ARUNAGIRINATHAN-K
 - Stars: 183
-- Forks: 84
+- Forks: 85
 - Language: Unknown
 - Topics: 2026, agent-frameworks, ai-agents, ai-tools, autonomous-agents, awesome, awesome-list, crewai, langchain, llm, llm-agents
-- Last Updated: 2026-06-27T14:41:19Z
+- Last Updated: 2026-06-28T08:47:58Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-06-01T05:40:33Z
-- Pushed At: 2026-06-27T02:28:39Z
+- Pushed At: 2026-06-28T08:47:54Z
 
 ## Possible Use Cases
 

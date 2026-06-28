@@ -13,13 +13,14 @@ collected_at: '2026-06-28T10:21:03.894024+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: github:kageroumado/adrafinil
 first_seen: '2026-06-28T03:46:36.185402+05:30'
 last_seen: '2026-06-28T10:21:03.894024+05:30'
 last_checked: '2026-06-28T10:21:03.894024+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work
 

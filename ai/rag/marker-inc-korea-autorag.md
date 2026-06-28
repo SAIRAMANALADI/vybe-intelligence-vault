@@ -4,15 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-28T10:22:22.443779+05:30'
+collected_at: '2026-06-28T15:04:52.272786+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
+- workflows
 stars: 4841
 language: Python
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-28T10:22:22.443779+05:30'
-last_seen: '2026-06-28T10:22:22.443779+05:30'
-last_checked: '2026-06-28T10:22:22.443779+05:30'
+first_seen: '2026-06-28T15:04:52.272786+05:30'
+last_seen: '2026-06-28T15:04:52.272786+05:30'
+last_checked: '2026-06-28T15:04:52.272786+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter and component selection.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, reducing manual tuning effort for components like embeddings, retrieval strategies, and generation models.
 
-- **Comprehensive RAG Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation stages, with built-in benchmarking and analysis tools for end-to-end RAG system evaluation.
+- **Comprehensive RAG Benchmarking**: The framework provides built-in benchmarking tools to assess RAG performance across metrics (e.g., answer correctness, retrieval relevance) and supports custom datasets for domain-specific evaluation.
 
-- **Open-Source Python Toolkit**: Implemented in Python, AutoRAG provides modular components for LLM-based QA, retrieval evaluation, and Ops automation, supporting customization and deployment in production environments.
+- **Modular Pipeline & Document Processing**: Supports end-to-end RAG workflows with configurable modules for document parsing, embedding generation, retrieval, and LLM integration, enabling flexible experimentation and deployment.
 
 ## Why It Matters
 

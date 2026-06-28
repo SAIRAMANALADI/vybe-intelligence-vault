@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Model**: Medium is a subscription-supported, ad-free publishing platform enabling writers to monetize content via a membership model, prioritizing depth and nuance over sensationalism.
-- **User Base**: Hosts over 100M monthly users (developers, designers, executives, etc.) sharing insights, experiences, and expertise across diverse topics.
-- **Mission Alignment**: Operates on a non-data-tracking model, funded by community memberships, aiming to foster thoughtful discourse and collec
+- **Mission & Model**: Medium is a subscription-supported platform (1M+ members) that prioritizes depth and nuance over sensationalism, rejecting ad-driven monetization and data sales to focus on thoughtful writing and collective understanding.
+
+- **User Base & Content**: Hosts over 100M monthly users (developers, designers, CEOs, etc.) who publish long-form content (stories, insights, analyses) without requiring pre-existing audiences or mailing lists.
+
+- **Platform Features**: Provides a minim
 
 ## Use Cases
 

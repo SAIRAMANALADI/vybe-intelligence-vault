@@ -8,11 +8,12 @@ local_vault_path: ai/rag/medium-read-and-write-stories.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -24,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Platform Overview**: Medium is a content publishing platform enabling users to read, write, and engage with human-centric stories and ideas, leveraging a subscription-based membership model for monetization.
+- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`), content retrieval (`/sitemap.xml`), and post creation (`/new-story` via `/write`).
 
-- **Authentication & Onboarding**: User access is managed via `/signin` and `/m/signin` endpoints for login/register, with redirects for seamless post-authentication navigation (e.g., `redirect=https%3A%2F%2Fmedium.com%2Fnew-story`).
+- The platform enforces content policies via `/rules` and `/terms`, with compliance overseen by a dedicated `/help` and `/status` system for uptime monitoring.
 
-- **Resource & Policy Infrastructure**: Core resourc
+- Medium integrates third-party services (e.g., `/text-to-speech` via Speechify) and supports monetization through `/member
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-06-28T10:22:37.512873+05:30'
+collected_at: '2026-06-28T15:05:07.247799+05:30'
 published_at: '2026-06-27T23:54:09Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-06-28T10:22:37.512873+05:30'
-last_seen: '2026-06-28T10:22:37.512873+05:30'
-last_checked: '2026-06-28T10:22:37.512873+05:30'
+first_seen: '2026-06-28T15:05:07.247799+05:30'
+last_seen: '2026-06-28T15:05:07.247799+05:30'
+last_checked: '2026-06-28T15:05:07.247799+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, emphasizing LLMOps best practices.
-- **Technical Focus**: Includes fine-tuning LLMs, evaluation, system design, and MLOps integration with Python-based implementations.
-- **AWS-Centric**: Demonstrates deployment strategies and infrastructure optimization for scalable GenAI applications using AWS services.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+
+- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, MLOps/ML system design, and Retrieval-Augmented Generation (RAG) implementation with Python-based tooling.
+
+- **AWS-Centric Deployment**: Provides hands-on guidance for deploying LLMs and RAG systems on AWS, emphasizing infrastructure-as-code, scalability, and operational efficiency.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: PacktPublishing
 - Stars: 5134
-- Forks: 1234
+- Forks: 1236
 - Language: Python
 - Topics: aws, fine-tuning-llm, genai, llm, llm-evaluation, llmops, ml-system-design, mlops, rag
 - Last Updated: 2026-06-27T23:54:09Z

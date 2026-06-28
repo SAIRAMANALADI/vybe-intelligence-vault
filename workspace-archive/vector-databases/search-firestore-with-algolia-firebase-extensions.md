@@ -29,11 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Firestore-to-Algolia synchronization**: Extension listens to Firestore collection changes (add/update/delete) and propagates them to Algolia as indexed records, using Firestore document IDs as Algolia object IDs.
+- **Real-time Firestore-to-Algolia synchronization**: Extension listens to Firestore collection changes (add/update/delete) and propagates them to Algolia as records, using Firestore document IDs as Algolia object IDs.
 
-- **Configurable indexing**: Only specified fields in the Firestore collection are indexed in Algolia; initial sync or reconfiguration triggers a full reindexing of the collection.
+- **Configurable indexing**: Only specified fields from Firestore documents are indexed in Algolia; initial sync occurs on installation/configuration changes.
 
-- **Multi-service billing model**: Requires Firebase Blaze plan; costs include Firestore o
+- **Multi-service billing**: Requires Firebase Blaze plan; costs include Firestore, Cloud Functions, and Algolia usage (
 
 ## Use Cases
 

@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/itsthelore/wayfinder-router
 hn_url: https://news.ycombinator.com/item?id=48704373
-score: 3
+score: 64
 author: handfuloflight
-comments_count: 0
+comments_count: 15
 published_at: '2026-06-28T10:01:18+05:30'
-collected_at: '2026-06-28T10:21:00.235564+05:30'
+collected_at: '2026-06-28T15:03:34.073448+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: github:itsthelore/wayfinder-router
 first_seen: '2026-06-28T10:21:00.235564+05:30'
-last_seen: '2026-06-28T10:21:00.235564+05:30'
-last_checked: '2026-06-28T10:21:00.235564+05:30'
+last_seen: '2026-06-28T15:03:34.073448+05:30'
+last_checked: '2026-06-28T15:03:34.073448+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by handfuloflight. Score: 3, Comments: 0.
+Hacker News story by handfuloflight. Score: 64, Comments: 15.
 Original Link: https://github.com/itsthelore/wayfinder-router
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: handfuloflight
-- Score: 3 Upvotes
-- Comments: 0 Discussions
+- Score: 64 Upvotes
+- Comments: 15 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48704373
 - Original Article: https://github.com/itsthelore/wayfinder-router
 

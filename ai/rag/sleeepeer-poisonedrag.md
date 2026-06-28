@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-28T10:23:07.504012+05:30'
+collected_at: '2026-06-28T15:05:37.241152+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
 - meta-ai
-- mistral
 - models
 - python
 - rag
@@ -24,9 +23,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-28T10:23:07.504012+05:30'
-last_seen: '2026-06-28T10:23:07.504012+05:30'
-last_checked: '2026-06-28T10:23:07.504012+05:30'
+first_seen: '2026-06-28T15:05:37.241152+05:30'
+last_seen: '2026-06-28T15:05:37.241152+05:30'
+last_checked: '2026-06-28T15:05:37.241152+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating *knowledge corruption attacks* on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus to manipulate LLM outputs without direct model access.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, altering model outputs without direct tampering with model weights.
 
-- **Technical Mechanism**: Exploits *trigger-based retrieval manipulation* where adversaries inject malicious documents into the knowledge base, causing the RAG pipeline to retrieve and prioritize attacker-controlled content, leading to misinformation or biased responses.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that manipulate the retrieval stage, causing the model to prioritize poisoned data and generate targeted, incorrect, or biased responses during inference.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval, sparse retrieval) and LLMs (e.g., Llama, Mistral), achieving high attack success rates (~90%) while maintaining stealth via subtle perturbations to avoid detection.
+- **Evaluation & Impact**: Validates attack efficacy on multiple LLMs (e.g., Llama2, Vicuna) and RAG frameworks, showing significant degradation in response accuracy and trustworthiness, with proposed mitigation strategies discussed for defense.
 
 ## Why It Matters
 

@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Python-based RAG (Retrieval-Augmented Generation) application designed for production-grade deployment, as indicated by its repository structure and naming conventions.
-
-- **Metadata**: 68 stars, 44 forks, last updated on **2026-06-26**, with no additional topics or description provided in the repository.
-
-- **Technical Stack**: Leverages Python for implementation, though specific frameworks/libraries (e.g., LangChain, FAISS, or Hugging Face) are not explicitly documen
+- **Repository Overview**: Python-based RAG (Retrieval-Augmented Generation) application designed for production-grade deployment, hosted on GitHub with 68 stars and 44 forks.
+- **Technical Stack**: Utilizes Python for implementation, though specific libraries/frameworks (e.g., LangChain, FAISS, or Hugging Face) are not explicitly documented in the provided metadata.
+- **Last Activity**: Last updated on **June 26, 2026**, indicating recent or ongoing development.
 
 ## Use Cases
 

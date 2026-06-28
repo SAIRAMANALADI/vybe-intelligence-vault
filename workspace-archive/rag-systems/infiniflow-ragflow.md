@@ -2,19 +2,14 @@
 title: infiniflow/ragflow
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/infiniflow/ragflow
+source_url: https://github.com/infiniflow/ragflow?source=post_page
 resource_id: github:infiniflow/ragflow
 local_vault_path: ai/rag/infiniflow-ragflow.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
-tags:
-- agents
-- github-repo
-- go
-- rag
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -25,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI, enabling dynamic context augmentation and multi-step reasoning for LLMs.
-- **Context Management**: Implements a structured context layer with fine-grained control over retrieval, fusion, and agent-based processing for enhanced LLM performance.
-- **Go-Based Architecture**: Built in Go for high-performance parallel processing, optimized for large-scale document retrieval and real-time agent interaction
+- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, enabling dynamic retrieval and reasoning beyond static RAG pipelines.
+
+- **Multi-Modal Context Engine**: Supports structured/unstructured data ingestion (PDFs, tables, images) with adaptive parsing, chunking, and vectorization for optimized LLM context enrichment.
+
+- **Agentic Capabilities**: Implements autonomous agents for iterativ
 
 ## Use Cases
 
@@ -45,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/infiniflow/ragflow
+Original source URL: https://github.com/infiniflow/ragflow?source=post_page
 
 ## Local Vault File
 

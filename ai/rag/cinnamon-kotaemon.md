@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-28T10:22:17.465062+05:30'
+collected_at: '2026-06-28T15:04:47.229893+05:30'
 published_at: '2026-06-27T19:54:27Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 stars: 25500
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-28T10:22:17.465062+05:30'
-last_seen: '2026-06-28T10:22:17.465062+05:30'
-last_checked: '2026-06-28T10:22:17.465062+05:30'
+first_seen: '2026-06-28T15:04:47.229893+05:30'
+last_seen: '2026-06-28T15:04:47.229893+05:30'
+last_checked: '2026-06-28T15:04:47.229893+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-aware conversational interactions with LLMs.
-- **Python Implementation**: Built primarily in Python, leveraging modern NLP libraries (e.g., LangChain, Hugging Face) for document processing and retrieval.
-- **Modular Design**: Supports extensibility via pluggable components for document ingestion, retrieval, and LLM integration.
+- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document querying and conversational chat with user-uploaded files.
+- **Python Framework**: Built with Python, leveraging modern NLP/LLM libraries (e.g., LangChain, transformers) for document processing and response generation.
+- **Modular Architecture**: Supports extensibility via plugins/hooks for document loaders, vector stores (e.g., FAISS, Chroma), and LLM backends (e.g., OpenAI, Hugging Face).
 
 ## Why It Matters
 

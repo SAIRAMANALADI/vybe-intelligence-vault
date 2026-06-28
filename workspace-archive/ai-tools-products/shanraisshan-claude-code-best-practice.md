@@ -6,9 +6,9 @@ source_url: https://github.com/shanraisshan/claude-code-best-practice
 resource_id: github:shanraisshan/claude-code-best-practice
 local_vault_path: ai/agents/shanraisshan-claude-code-best-practice.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Agentic Workflow Evolution**: Repository documents transition from traditional "vibe coding" to structured agentic engineering practices for Claude Code, emphasizing systematic workflows over ad-hoc interactions.
+- **Agentic Workflow Transition**: Repository documents the shift from traditional "vibe coding" to structured agentic engineering practices for optimizing Claude Code performance, emphasizing systematic workflows over ad-hoc development.
 
-- **Technical Best Practices**: Provides curated guidelines for optimizing Claude Code performance, including context engineering, command structuring, and skill utilization for efficient AI-driven development.
+- **Technical Best Practices**: Curates 61358+ community-driven techniques for Claude Code, including context engineering, command optimization, and skill refinement, tailored for agentic AI workflows.
 
-- **Community-Driven Resource**: Open-source repository with 61K+ star
+- **Resource Hub**: Serves as a centralized reference for
 
 ## Use Cases
 

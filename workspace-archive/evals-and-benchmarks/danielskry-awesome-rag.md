@@ -13,9 +13,9 @@ importance: medium
 tags:
 - benchmark
 - github-repo
+- models
 - rag
 - unknown
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering LLMs, vector databases, and evaluation metrics.
-- **Active Maintenance**: Repository last updated on **2026-06-28**, indicating ongoing updates and community engagement (1.2k+ stars, 156 forks).
-- **Multi-Topic Focus**: Covers core RAG domains including **LLM integration**, **vector search**, **prompt engineering**, and **benchmarking** for
+- **Curated RAG Resources**: A comprehensive, community-driven collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, covering LLMs, vector databases, and evaluation methodologies.
+
+- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing contributions from 1,274+ stars and 157+ forks, reflecting continuous community engagement.
+
+- **Multi-Topic Scope**: Encompasses core RAG concepts (e.g., retrieval mechanisms, prompt engi
 
 ## Use Cases
 

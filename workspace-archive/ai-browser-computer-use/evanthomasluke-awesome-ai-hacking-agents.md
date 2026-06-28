@@ -13,8 +13,8 @@ importance: medium
 tags:
 - agents
 - github-repo
+- scripts
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-driven autonomous hacking agents, tools, and frameworks designed for offensive security research and penetration testing.
-- **Metadata**: 511 stars, 83 forks, last updated 2026-06-27; language unspecified, no additional topics or tags.
-- **Purpose**: Centralized resource for AI-powered cybersecurity tools, enabling automated vulnerability discovery, exploitation, and red teaming workflows.
+- **Repository Overview**: GitHub repository `Awesome-AI-Hacking-Agents` curated by `EvanThomasLuke`, dedicated to AI-driven autonomous cybersecurity agents.
+- **Metadata**: 511 stars, 83 forks, last updated on 2026-06-27; primary language unspecified.
+- **Purpose**: Aggregates tools, frameworks, and research focused on AI-powered offensive/defensive security automation.
 
 ## Use Cases
 

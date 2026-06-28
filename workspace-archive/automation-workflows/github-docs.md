@@ -2,7 +2,7 @@
 title: GitHub Docs
 archive_category: automation-workflows
 source_category: ai/agents
-source_url: https://docs.github.com
+source_url: https://docs.github.com/
 resource_id: blog:github-docs
 local_vault_path: ai/agents/github-docs.md
 quality_score: 70
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Git Integration & Authentication**: GitHub relies on Git for version control, requiring local setup (e.g., SSH for secure remote connections) and repository management (creation, naming, and location control).
-
-- **Collaborative Development Workflows**: Supports pull requests for code review/merging, IDE-integrated AI assistance (GitHub Copilot), and remote repository synchronization via Git commands.
-
-- **Security & Automation**: Provides tools for secrets management, vulnerability scanning
+*   GitHub provides a comprehensive platform for distributed version control, collaborative code development via Git repositories, pull requests, and robust authentication mechanisms (SSH, tokens).
+*   The ecosystem integrates AI-driven code generation (GitHub Copilot with CLI and cloud agents), CI/CD automation (GitHub Actions), package hosting (GitHub Packages), and extensive API access (REST, GraphQL, Webhooks) for extensibility.
+*   Advanced security features include
 
 ## Use Cases
 
@@ -48,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://docs.github.com
+Original source URL: https://docs.github.com/
 
 ## Local Vault File
 

@@ -14,6 +14,7 @@ tags:
 - agents
 - openai
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; supports parallel execution, worktree/folder isolation, and slash commands (`/research`, `/compact`, `/yolo`).
+- **Background Execution & Integration**: Copilot CLI sessions run autonomously in the background via VS Code’s Copilot SDK, enabling persistent, editor-agnostic task execution (e.g., feature implementation) while maintaining real-time interaction via the unified Chat view.
 
-- **Isolation Modes**: Worktree mode creates a separate Git worktree for agent changes (auto-bypassing approvals), while folder mode applies changes directly to the workspace (supports Default/Bypass/Autopilot permissions).
-
-- **Permissions & Integrat
+- **Isolation Modes**: Supports **Worktree** (Git worktree-based isolation for safe, parallel changes) and **Folder** (direct workspace modifications), with auto-approvals in Worktree mode and configurable permissions (Defau
 
 ## Use Cases
 

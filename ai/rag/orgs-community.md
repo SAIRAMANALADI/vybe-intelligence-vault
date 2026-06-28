@@ -4,22 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/orgs/community/discussions
-published_at: '2026-06-27T01:46:58.984535+05:30'
-collected_at: '2026-06-27T01:46:58.984551+05:30'
+published_at: '2026-06-28T15:10:08.187652+05:30'
+collected_at: '2026-06-28T15:10:08.187667+05:30'
 tags:
-- creative_dev
 - frontend_ui
-- hackernews
+- openai
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 status: active
 resource_id: github:orgs/community
-first_seen: '2026-06-27T01:46:58.984551+05:30'
-last_seen: '2026-06-27T01:46:58.984551+05:30'
-last_checked: '2026-06-27T01:46:58.984551+05:30'
+first_seen: '2026-06-28T15:10:08.187667+05:30'
+last_seen: '2026-06-28T15:10:08.187667+05:30'
+last_checked: '2026-06-28T15:10:08.187667+05:30'
 health_score: 100
 ---
 
@@ -27,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Community** serves as a central hub for discussions, repositories, and packages under the `@community` GitHub organization, with structured categories for topics like AI (Copilot), automation, security, and education.
-- **Copilot-related discussions** include usage-based billing FAQs, webinar series, and general availability announcements, with active threads on configuring Copilot for team-specific coding conventions in monorepos.
-- **Technical Q&A** spans authentication issues (e.g., Laravel API 401 errors in React Native), module resolution problems (e.g., `globals.css` type declarations), and enterprise token management for organization-wide access.
+- GitHub Community serves as a central hub for discussions, repositories, and packages under the `community` organization, including sub-orgs for specific topics like AI, automation, and enterprise security.
+
+- Key active discussions include Copilot’s shift to usage-based billing (FAQ), expanded file type support for issue attachments (GA), and feature requests like custom repository folders for organization.
+
+- The platform enforces structured categorization (e.g., `Copilot Conversations`, `Repositories`, `Announcements`) and provides filtering by labels (`Shipped`, `Question`, `Feedback Wanted`) to streamline issue tracking and community feedback.
 
 ## Why It Matters
 
@@ -39,16 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T01:46:58.984535+05:30
+- Published: 2026-06-28T15:10:08.187652+05:30
 
 ## Related Tags
 
-- creative_dev
 - frontend_ui
-- hackernews
+- openai
 - rag
 - scripts
-- threejs
 - web-crawled
 - workflows
 

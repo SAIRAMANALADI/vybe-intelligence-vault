@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Embeddable Neo4j Console**: Provides an interactive, embeddable Neo4j-Console for Java-based applications, enabling in-process database interaction without external dependencies.
+- **Embeddable Neo4j Console**: Provides an interactive, embeddable Neo4j console for Java-based applications, enabling in-process database interactions without external dependencies.
 
-- **Java Implementation**: Built entirely in Java, leveraging Neo4j's core libraries for seamless integration and performance.
+- **Java Implementation**: Built entirely in Java, leveraging Neo4j's core libraries for seamless integration and performance optimization.
 
-- **Minimalist Design**: Focuses on core functionality with no additional dependencies or topics, ensuring lightweight and efficient operation.
+- **Last Updated**: Repository was last updated on **March 7, 2026**, indicating active maintenance and potential compatibility with recent Neo4j versions.
 
 ## Use Cases
 

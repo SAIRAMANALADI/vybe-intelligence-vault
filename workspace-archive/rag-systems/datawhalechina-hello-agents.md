@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) focused on building intelligent agents from scratch, covering principles and practical implementations.
-
-- **Technical Scope**: Covers core topics including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent architectures, with hands-on Python-based implementations.
-
-- **Metadata**: 62,282 stars, 7,701 forks; last updated **2026-06-28**; primarily in Python, wi
+*   Comprehensive tutorial detailing the principles and practical implementation of intelligent agents from foundational concepts.
+*   Focuses on integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) as core architectural components for agent development.
+*   Python-centric educational resource guiding end-to-end construction of AI agents.
 
 ## Use Cases
 

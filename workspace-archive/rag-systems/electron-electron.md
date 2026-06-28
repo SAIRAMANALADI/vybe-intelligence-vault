@@ -13,8 +13,8 @@ importance: medium
 tags:
 - c++
 - github-repo
+- hackernews
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to render HTML/CSS/JS applications natively across Windows, macOS, and Linux.
-
-- **Core architecture** combines a stripped-down Chromium browser engine with Node.js integration, enabling direct filesystem and OS API access via JavaScript.
-
-- **Performance-critical C++ backend** with bindings to V8 for JavaScript execution, WebKit for rendering, and IPC mechanisms for secure renderer/main process communication.
+- **Cross-platform desktop app framework** using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
+- **Core technologies**: C++ (core), V8 (JavaScript engine), and Chromium (browser engine) for high-performance execution.
+- **Key features**: Native OS APIs access, auto-updater, crash reporting, and support for Windows, macOS, and Linux.
 
 ## Use Cases
 
