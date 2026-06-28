@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/cloudflare/workers-sdk/issues/new/choose
-published_at: '2026-06-28T19:51:36.109186+05:30'
-collected_at: '2026-06-28T19:51:36.109203+05:30'
+published_at: '2026-06-29T01:22:17.086256+05:30'
+collected_at: '2026-06-29T01:22:17.086270+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:cloudflare/workers-sdk
-first_seen: '2026-06-28T19:51:36.109203+05:30'
-last_seen: '2026-06-28T19:51:36.109203+05:30'
-last_checked: '2026-06-28T19:51:36.109203+05:30'
+first_seen: '2026-06-29T01:22:17.086270+05:30'
+last_seen: '2026-06-29T01:22:17.086270+05:30'
+last_checked: '2026-06-29T01:22:17.086270+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Authentication Error**: The page failed to load due to an unspecified error during the sign-in process.
-- **Recovery Options**: Users can reset their password via the "Forgot password?" link or create a new account via the "Create an account" option.
-- **Passkey Support**: GitHub offers passkey-based authentication as an alternative to traditional credentials.
+- GitHub login interface encountered a loading error, requiring page reload
+- New users can create an account via `/signup` endpoint with return path to issue creation
+- Passkey-based authentication is supported as an alternative login method
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T19:51:36.109186+05:30
+- Published: 2026-06-29T01:22:17.086256+05:30
 
 ## Related Tags
 

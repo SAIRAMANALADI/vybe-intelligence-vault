@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Langfuse is utilized by **19 of the Fortune 50**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
+- **Adoption Metrics**: Used by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
 
-- **Core Capabilities**: Provides **end-to-end LLM observability** via hierarchical traces, **prompt management** with versioning/deployment, and **evaluation frameworks** (LLM-as-a-judge, heuristics, human review) for continuous improvement.
+- **Core Functionality**: Open-source AI engineering platform for tracing, evaluating, and improving AI agents/products via hierarchical traces, LLM-as-a-judge evaluations, prompt management, and human-in-the-loop annotation workflows.
 
-- **Integration Ecosystem**: Supports **100+ integrations** across langua
+- **Integration Support**: Compatible with **100+ frameworks/languages** (e.g., Python, TypeS
 
 ## Use Cases
 

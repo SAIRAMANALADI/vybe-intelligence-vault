@@ -13,13 +13,14 @@ collected_at: '2026-06-28T22:07:23.095026+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-origins-of-the-school-system-aimed-to-produce
 first_seen: '2026-06-28T19:46:53.984626+05:30'
 last_seen: '2026-06-28T22:07:23.095026+05:30'
 last_checked: '2026-06-28T22:07:23.095026+05:30'
 health_score: 100
 ---
+
 
 # The origins of the school system aimed to produce independent, critical thinkers
 

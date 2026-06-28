@@ -4,10 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-28T22:08:39.406395+05:30'
+collected_at: '2026-06-29T01:18:10.158150+05:30'
 published_at: '2026-06-27T21:54:07Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 1957
@@ -18,9 +22,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-28T22:08:39.406395+05:30'
-last_seen: '2026-06-28T22:08:39.406395+05:30'
-last_checked: '2026-06-28T22:08:39.406395+05:30'
+first_seen: '2026-06-29T01:18:10.158150+05:30'
+last_seen: '2026-06-29T01:18:10.158150+05:30'
+last_checked: '2026-06-29T01:18:10.158150+05:30'
 health_score: 100
 ---
 
@@ -28,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
 
-- **Key Innovations**: Focuses on modular design and lightweight retrieval mechanisms, enabling efficient integration with smaller LLMs (<1B parameters) without sacrificing accuracy in downstream tasks.
+- **Optimized Architecture**: Implements a lightweight retrieval mechanism combined with a distilled LLM, achieving efficiency gains via quantization and pruning techniques for edge deployment.
 
-- **Open-Source Implementation**: Provides a Python-based, PyTorch-compatible repository with modular components for retrieval, re-ranking, and generation, optimized for low-resource environments.
+- **Open-Source Toolkit**: Provides a Python-based repository with modular components for customization, supporting integration with existing RAG systems and benchmarking on standard datasets.
 
 ## Why It Matters
 

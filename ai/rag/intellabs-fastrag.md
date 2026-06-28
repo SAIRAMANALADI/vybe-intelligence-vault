@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-28T22:09:19.480464+05:30'
-published_at: '2026-06-22T17:29:39Z'
+collected_at: '2026-06-29T01:18:50.219237+05:30'
+published_at: '2026-06-28T18:50:15Z'
 tags:
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
-stars: 1782
+stars: 1783
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-28T22:09:19.480464+05:30'
-last_seen: '2026-06-28T22:09:19.480464+05:30'
-last_checked: '2026-06-28T22:09:19.480464+05:30'
+first_seen: '2026-06-29T01:18:50.219237+05:30'
+last_seen: '2026-06-29T01:18:50.219237+05:30'
+last_checked: '2026-06-29T01:18:50.219237+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient, open-source Python framework designed for Retrieval-Augmented Generation (RAG) workflows, optimizing multi-stage pipelines (retrieval, fusion, generation) for large language models (LLMs) and multi-modal tasks.
+- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval-Augmented Generation (RAG), integrating modules for retrieval, augmentation, and generation to optimize LLM performance in tasks like QA, summarization, and multi-modal processing.
 
-- **Key Features**: Integrates state-of-the-art components like ColBERTv2 for dense retrieval, Sentence Transformers for embeddings, and supports diffusion models, knowledge graphs, and semantic search with modular, hardware-aware optimizations (e.g., Intel optimizations).
+- **Key Components**: Supports advanced retrieval techniques (e.g., ColBERT, semantic search) and integrates sentence-transformers, knowledge graphs, and diffusion models for enhanced generative AI workflows.
 
-- **Benchmarking & Extensibility**: Provides built-in benchmarks for RAG tasks (QA, summarization) and modular APIs to plug in custom retrievers, generators, or fusion strategies, enabling reproducible evaluation across domains (NLP, vision-language).
+- **Benchmarking & Optimization**: Provides tools for benchmarking RAG pipelines, with optimizations for latency and scalability, leveraging Intel hardware acceleration for high-throughput applications.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IntelLabs
-- Stars: 1782
+- Stars: 1783
 - Forks: 169
 - Language: Python
 - Topics: benchmark, colbert, diffusion, generative-ai, information-retrieval, knowledge-graph, llm, multi-modal, nlp, question-answering, semantic-search, sentence-transformers, summarization, transformers
-- Last Updated: 2026-06-22T17:29:39Z
+- Last Updated: 2026-06-28T18:50:15Z
 - License: Apache-2.0
 - Archived: Yes
 - Created At: 2023-01-23T16:25:35Z

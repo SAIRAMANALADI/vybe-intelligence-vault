@@ -6,17 +6,19 @@ source_url: https://github.com/bangoc123/retrieval-backend-with-rag
 resource_id: github:bangoc123/retrieval-backend-with-rag
 local_vault_path: ai/rag/bangoc123-retrieval-backend-with-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # bangoc123/retrieval-backend-with-rag
@@ -24,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including text retrieval and generation pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
 
-- **Python-Based Architecture**: Utilizes Python with libraries such as `sentence-transformers`, `FAISS` (Facebook AI Similarity Search), and `FastAPI` for scalable vector search and API deployment.
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and LLM integration (e.g., ViT5, PhoBERT) using FastAPI or similar frameworks.
 
-- **Modular Design**: Features modular components for document processing, embedding generation, v
+- **Evaluation & Optimizatio
 
 ## Use Cases
 

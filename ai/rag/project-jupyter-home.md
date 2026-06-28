@@ -4,9 +4,10 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyter.org
-published_at: '2026-06-26T04:26:35.633268+05:30'
-collected_at: '2026-06-26T04:26:35.633275+05:30'
+published_at: '2026-06-29T01:23:02.480400+05:30'
+collected_at: '2026-06-29T01:23:02.480416+05:30'
 tags:
+- models
 - rag
 - reddit
 - web-crawled
@@ -14,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:project-jupyter-home
-first_seen: '2026-06-26T04:26:35.633275+05:30'
-last_seen: '2026-06-26T04:26:35.633275+05:30'
-last_checked: '2026-06-26T04:26:35.633275+05:30'
+first_seen: '2026-06-29T01:23:02.480416+05:30'
+last_seen: '2026-06-29T01:23:02.480416+05:30'
+last_checked: '2026-06-29T01:23:02.480416+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with flexible workspace configurations (single/multi-document) for scientific computing and ML workflows.
+- **Modular Architecture**: JupyterLab extends Jupyter Notebook with a modular, extensible interface supporting multi-tab workspaces, drag-and-drop layouts, and real-time collaboration via a plugin system.
 
-- **Jupyter Notebook** uses an open JSON-based document format and Interactive Computing Protocol (JSON over ZMQ/WebSockets) to enable rich, interactive outputs (HTML, LaTeX, etc.) across 40+ languages, with big data integration (Spark, pandas, TensorFlow).
+- **Multi-Language & Big Data Support**: Native integration with 40+ languages (Python, R, Julia) and big data frameworks (Apache Spark, TensorFlow, pandas), enabling unified workflows from data exploration to ML deployment.
 
-- **JupyterHub** enables centralized, scalable deployments (Docker/Kubernetes) with pluggable authentication (PAM/OAuth), supporting multi-user access for organizations, while **Voilà** transforms notebooks into secure standalone dashboards for sharing insights.
+- **Scalable Deployment & Sharing**: JupyterHub enables centralized, containerized (Docker/Kubernetes) deployments with pluggable authentication (PAM/OAuth), while Voilà transforms notebooks into shareable, secure web apps for dissemination.
 
 ## Why It Matters
 
@@ -38,10 +39,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T04:26:35.633268+05:30
+- Published: 2026-06-29T01:23:02.480400+05:30
 
 ## Related Tags
 
+- models
 - rag
 - reddit
 - web-crawled

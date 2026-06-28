@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- Repository provides structured best practices for transitioning from *vibe coding* to *agentic engineering* using Claude Code, emphasizing systematic workflows over ad-hoc AI-assisted development.
+- **Repository Focus**: Curated best practices for transitioning from vibe coding to agentic engineering using Claude Code, covering workflows, commands, and skills for AI-driven development.
 
-- Includes curated commands, skills, and context-engineering techniques to optimize Claude Code agents for scalable software engineering tasks (e.g., debugging, refactoring, multi-file projects).
+- **Technical Scope**: Includes context engineering, agentic AI workflows, and specialized Claude Code techniques for Pakistani developers and broader AI agent communities.
 
-- Highlights contributions from Pakistani developers (e.g., "Boris") and integrates Anthropic’s tooling
+- **Resource Structure**: HTML-based repository with 61.4K+ stars, updated June 2026, emphasizing structured practices for Anthropic’
 
 ## Use Cases
 

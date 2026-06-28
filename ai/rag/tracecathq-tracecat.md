@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-28T22:11:09.547906+05:30'
+collected_at: '2026-06-29T01:20:40.338892+05:30'
 published_at: '2026-06-28T14:14:34Z'
 tags:
 - agents
@@ -20,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-28T02:23:46Z'
+pushed_at: '2026-06-28T19:38:56Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-28T22:11:09.547906+05:30'
-last_seen: '2026-06-28T22:11:09.547906+05:30'
-last_checked: '2026-06-28T22:11:09.547906+05:30'
+first_seen: '2026-06-29T01:20:40.338892+05:30'
+last_seen: '2026-06-29T01:20:40.338892+05:30'
+last_checked: '2026-06-29T01:20:40.338892+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Python-based, event-driven automation platform leveraging FastAPI for API endpoints, Pydantic for data validation, and Temporal.io for workflow orchestration, with a Next.js frontend for low-code UI.
+- **Event-driven security automation platform** leveraging FastAPI, Pydantic, and TemporalIO for workflow orchestration, enabling low-code security operations with Python-based agents and AI-driven decision-making.
 
-- **Security Focus**: Designed for security automation with OpenAPI integration, LLM-driven workflows, and monitoring capabilities, enabling AI agents and teams to execute and orchestrate security operations.
+- **OpenAPI-compliant backend** with Next.js frontend, supporting real-time monitoring, event-driven triggers, and modular security workflows via a scalable architecture.
 
-- **Scalability**: Supports distributed workflow execution via Temporal.io, modular low-code components, and agent-based interactions, optimized for high-throughput security automation tasks.
+- **Integrated LLM capabilities** for intelligent automation, combining security-focused workflows with agentic systems while maintaining strict type safety and API contract adherence.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-28T02:23:46Z
+- Pushed At: 2026-06-28T19:38:56Z
 
 ## Possible Use Cases
 

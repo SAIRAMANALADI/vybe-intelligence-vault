@@ -16,7 +16,6 @@ tags:
 - openai
 - producthunt
 - rag
-- reddit
 - web-crawled
 - workflows
 - youtube
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **`deepagents` v0.6.0**: Introduces experimental `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution and tool calling; implements `DeltaChannel` (beta) for incremental state checkpointing to reduce storage overhead in long-running threads; adds `HarnessProfile` for provider/model-specific configuration bundles and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
-
-- **`langgraph` v1.2.0**: Adds `DeltaChannel` (beta) for delta-based state storage, p
+- **`deepagents` v0.6.0** introduces `CodeInterpreterMiddleware` for scoped QuickJS runtime-based code execution, `DeltaChannel` for incremental state storage in long-running threads, and `ContextHubBackend` for versioned agent file storage via LangSmith Hub.
+- **`langgraph` v1.2.0** adds `DeltaChannel` for checkpoint optimization, per-node timeouts/error handlers for fault tolerance, and a new `version="v3"` streaming API with typed, per-channel projections.
+- **`langchain` v1.3.0** and `langgr
 
 ## Use Cases
 

@@ -23,13 +23,23 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`conda-forge-staged-recipes.md`](../../ai/resources/conda-forge-staged-recipes.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [devguide/documentation/help-documenting.rst at main · python/devguide · GitHub](https://github.com/python/devguide/blob/main/documentation/help-documenting.rst?plain=true)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`python-devguide.md`](../../ai/resources/python-devguide.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yigtwxx-awesome-rag-production.md`](../../ai/rag/yigtwxx-awesome-rag-production.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
@@ -38,35 +48,25 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
+- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`bakrianoo-mini-rag.md`](../../ai/rag/bakrianoo-mini-rag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
 - **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`tomasonjo-kg-rag.md`](../../ai/rag/tomasonjo-kg-rag.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy)
+### [LlamaIndex · GitHub](https://github.com/run-llama/)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`run-llama-llama-deploy.md`](../../ai/rag/run-llama-llama-deploy.md)
+- **Score**: `87` | **Path**: [`llamaindex-github.md`](../../ai/rag/llamaindex-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [cli/cli](https://github.com/cli/cli)
-- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-28 22:24 IST*
+*Last updated: 2026-06-29 01:33 IST*

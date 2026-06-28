@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-*   A Python-based benchmark suite for evaluating AI agent performance across document parsing tasks, including OCR, PDF parsing, and table extraction.
-*   Designed to rigorously assess the capabilities of Large Language Models (LLMs) and Vision-Language Models (VLMs) in complex document AI scenarios.
-*   Developed by run-llama, indicating its relevance and potential integration with the LlamaIndex framework for advanced document processing and agentic workflows.
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like OCR, PDF parsing, and table extraction across diverse document types.
+- **Evaluation Framework**: Supports structured assessment of vision-language models (VLMs) and LLMs in document parsing, integrating metrics for accuracy, robustness, and efficiency.
+- **Tool Integration**: Compatible with libraries like LlamaIndex, enabling seamless benchmarking of document parsing pipelines in Python-
 
 ## Use Cases
 

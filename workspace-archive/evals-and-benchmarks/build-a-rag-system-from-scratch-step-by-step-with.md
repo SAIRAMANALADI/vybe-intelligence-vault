@@ -40,9 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` in ChromaDB) to improve retrieval precision by leveraging both exact term matching and semantic relevance.
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search with vector similarity (OpenAI `text-embedding-3-small`) using LangChain's `BM25Retriever` and `Chroma` vector store, improving recall for both semantic and exact-match queries.
 
-- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank the top 20 hybrid results, boosting relevance by scoring query-document pairs with a fine-tuned transformer, eliminating the nee
+- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder (`cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank hybrid retrieval results, boosting precision by re-scoring candidate chunks based on contextual relevance before generation.
+
+- **Implementation
 
 ## Use Cases
 

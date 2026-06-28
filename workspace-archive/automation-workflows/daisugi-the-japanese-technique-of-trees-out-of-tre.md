@@ -1,6 +1,5 @@
 ---
-title: Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight
-  Wood
+title: Daisugi, the Japanese technique of growing trees out of other trees (2020)
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://openculture.com/2020/10/daisugi.html
@@ -19,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood
+# Daisugi, the Japanese technique of growing trees out of other trees (2020)
 
 ## Why This Is In The Archive
 
@@ -32,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by MaysonL. Score: 8, Comments: 0.
+Hacker News story by MaysonL. Score: 61, Comments: 20.
 Original Link: https://www.openculture.com/2020/10/daisugi.html
 
 ## Use Cases

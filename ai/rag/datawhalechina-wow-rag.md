@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-28T22:08:19.518512+05:30'
+collected_at: '2026-06-29T01:17:55.225664+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 stars: 232
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-28T22:08:19.518512+05:30'
-last_seen: '2026-06-28T22:08:19.518512+05:30'
-last_checked: '2026-06-28T22:08:19.518512+05:30'
+first_seen: '2026-06-29T01:17:55.225664+05:30'
+last_seen: '2026-06-29T01:17:55.225664+05:30'
+last_checked: '2026-06-29T01:17:55.225664+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, designed for modularity and ease of integration.
-- **Components**: Includes retrieval mechanisms, embedding models, and LLM interfaces with preconfigured pipelines for rapid prototyping.
-- **Tutorials**: Provides step-by-step guides on building, customizing, and deploying RAG systems with practical examples and best practices.
+- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, retrieval, and generation, optimized for Jupyter Notebook environments.
+
+- **Technical Stack**: Utilizes Python-based libraries (e.g., `langchain`, `sentence-transformers`) for embeddings, vector storage (FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
+
+- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG pipelines, including preprocessing, retrieval strategies (dense/sparse), and evaluation metrics for benchmarking performance.
 
 ## Why It Matters
 

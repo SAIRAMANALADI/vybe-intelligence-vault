@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,232</p>
-        <p><b>Active:</b> 8,978 | <b>Inactive:</b> 254</p>
+        <p><b>Resources tracked:</b> 9,275</p>
+        <p><b>Active:</b> 9,017 | <b>Inactive:</b> 258</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 35,060</p>
+        <p><b>Archive Files:</b> 35,150</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 23:43 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 01:34 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,28 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • <kbd>+53 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+38 pts</kbd>
+- 🔼 **[The Linux Kernel documentation — The Linux Kernel documentation](ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md)** • Rank: <kbd>+962</kbd>
+- 🔼 **[Overview | Developer Documentation](ai/agents/overview-developer-documentation.md)** • Rank: <kbd>+647</kbd>
+- 🔼 **[evanw/esbuild](ai/resources/evanw-esbuild.md)** • Rank: <kbd>+1663</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md)** • Score: `56`
+- 🆕 **[Ford rehires 'gray beard' engineers after AI falls short](ai/community/ford-rehires-gray-beard-engineers-after-ai-falls-s.md)** • Score: `7`
+- 🆕 **[GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem](ai/community/librepods-org-librepods.md)** • Score: `6`
+- 🆕 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)** • Score: `4`
+- 🆕 **[python/mypy](ai/resources/python-mypy.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)**
+- 💤 **[Google limits Meta's use of its Gemini AI models](ai/community/google-limits-meta-s-use-of-its-gemini-ai-models.md)**
+- 💤 **[Austria Lobbies EU to Host Anthropic After US Access Curbs](ai/community/austria-lobbies-eu-to-host-anthropic-after-us-acce.md)**
+- 💤 **[The origins of the school system aimed to produce independent, critical thinkers](ai/community/the-origins-of-the-school-system-aimed-to-produce.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

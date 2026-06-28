@@ -6,10 +6,10 @@ source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
 local_vault_path: ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md
 quality_score: 70
-archive_score: 74
+archive_score: 82
 archive_tier: useful
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - benchmark
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), multiple LMs (BERT, RoBERTa, DPR), and scalable pipelines for QA, retrieval, and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable pipelines for QA/summarization, and integration with BERT/RoBERTa/DPR models for production-ready RAG systems.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, vector DB integration, and custom embedding model support for rapid prototyping.
+- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, and vector database integration, emphasizing simplicity and efficiency for rapid prototyping and deployment.
 
-- **Canopy (Pinecone-io)**: RAG framework optimized for Pinecone’s vector DB, featuri
+- **FlashRAG (RUC-NLPIR)**: Light
 
 ## Use Cases
 

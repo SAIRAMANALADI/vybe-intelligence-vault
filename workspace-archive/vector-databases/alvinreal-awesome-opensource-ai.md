@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates actively maintained open-source AI projects, models, tools, and infrastructure, emphasizing true open-source principles (e.g., permissive licenses, transparency).
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, RAG, and related domains, with a focus on Python-based implementations and cutting-edge advancements.
-- **Dynamic Maintenance**: Updated daily with the latest additions, ensuring relevance; last sync: **2026-06-28T12:27:21Z** (3,
+- **Curated Repository**: `alvinreal/awesome-opensource-ai` is a continuously updated list of high-quality, truly open-source AI projects, models, tools, and infrastructure, covering agents, generative AI, LLMs, MLOps, and RAG systems.
+
+- **Technical Scope**: Primarily Python-based, the repository focuses on open-source AI components, emphasizing transparency, accessibility, and community-driven development in artificial intelligence and machine learning.
+
+- **Metrics & Activity**: Maintains 3,9
 
 ## Use Cases
 

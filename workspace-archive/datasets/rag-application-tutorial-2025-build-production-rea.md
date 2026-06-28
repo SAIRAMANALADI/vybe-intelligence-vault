@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 84
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), embedding generation (via models like `text-embedding-3-large`), and vector storage/retrieval (e.g., Supabase with pgvector), followed by LLM integration for response synthesis.
+- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector database storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
 
-- **Production Optimization Techniques**: Implements hybrid retrieval (dense + sparse embeddings), query rewriting for ambiguity resolution, caching strategies (e.g., Redis for embeddings), and latency reduction
+- **Production Optimization**: Key strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via edge platforms (e.g., Cloudflare Workers) for low-latency inference
 
 ## Use Cases
 

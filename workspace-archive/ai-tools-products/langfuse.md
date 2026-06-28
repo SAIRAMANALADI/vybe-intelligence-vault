@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processing over 10 billion observations/month, with a developer community of 100,000+ engineers building on the platform.
+- **Adoption Metrics**: Used by **19** of the Fortune 50 companies, processing **10+ billion** observations/month, with **100,000+** engineers building on the platform.
 
-- **Core Capabilities**: Provides hierarchical tracing of LLM calls, tool invocations, and retrieval steps with observability, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a unified workflow.
+- **Core Functionality**: Open-source AI engineering platform for tracing, evaluating, and improving AI agents/products via hierarchical traces, LLM-as-a-judge evaluations, prompt management, and human-in-the-loop annotation workflows.
 
-- **Integration Ecosystem**: Supports OpenTelem
+- **Integration Support**: Compatible with **100+ frameworks/languages** (e.g., Python, TypeS
 
 ## Use Cases
 

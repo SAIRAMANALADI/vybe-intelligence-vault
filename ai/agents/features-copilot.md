@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-28T22:13:30.778386+05:30'
-collected_at: '2026-06-28T22:13:30.778402+05:30'
+published_at: '2026-06-29T01:23:07.684285+05:30'
+collected_at: '2026-06-29T01:23:07.684298+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-28T22:13:30.778402+05:30'
-last_seen: '2026-06-28T22:13:30.778402+05:30'
-last_checked: '2026-06-28T22:13:30.778402+05:30'
+first_seen: '2026-06-29T01:23:07.684298+05:30'
+last_seen: '2026-06-29T01:23:07.684298+05:30'
+last_checked: '2026-06-29T01:23:07.684298+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching for comparative analysis.
+- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to PR merges.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (MCP), it natively interacts with issues, PRs, and branches, inheriting organizational policies (branch protections, governance) while allowing `/plan` to `/IDE` workflow transitions.
+- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, it natively interacts with issues, branches, and PRs, inherits org policies (Copilot Business/Enterprise), and enforces branch protections/required checks without additional setup.
 
-- **Autonomous Workflow with Explicit Control**: Features `/autopilot` for hands-off task execution, `/resume` for session persistence, and mandatory user approval for all file/command modifications, ensuring security compliance and auditability.
+- **Terminal-to-IDE Continuity**: Enables seamless transitions between CLI (`/plan`, `/resume`, `/delegate`) and VS Code for refinement, with session persistence, explicit approval for file/command changes, and remote monitoring via GitHub.com or mobile.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T22:13:30.778386+05:30
+- Published: 2026-06-29T01:23:07.684285+05:30
 
 ## Related Tags
 

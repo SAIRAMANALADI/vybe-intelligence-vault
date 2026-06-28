@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-06-28T19:50:50.557409+05:30'
-collected_at: '2026-06-28T19:50:50.557424+05:30'
+published_at: '2026-06-29T01:20:41.184034+05:30'
+collected_at: '2026-06-29T01:20:41.184049+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-28T19:50:50.557424+05:30'
-last_seen: '2026-06-28T19:50:50.557424+05:30'
-last_checked: '2026-06-28T19:50:50.557424+05:30'
+first_seen: '2026-06-29T01:20:41.184049+05:30'
+last_seen: '2026-06-29T01:20:41.184049+05:30'
+last_checked: '2026-06-29T01:20:41.184049+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-driven agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), recursive auto-correction loops, and structured schema extraction with ~99% pass-through accuracy on complex, multi-modal documents.
+- **VLM-Powered Document Parsing**: LlamaParse uses Vision-Language Models (VLM) to automate document processing, converting complex layouts (tables, charts, handwriting) into structured, LLM-ready outputs with agentic OCR, reducing manual effort from hours to seconds.
 
-- **Performance & Scalability**: Benchmarks show superior performance in parsing, chart/table extraction, and overall document understanding vs. proprietary VLM, commercial IDP, and open-source OCR tools, supporting 50+ unstructured file types with enterprise-grade chunking, embedding, and retrieval pipelines.
+- **Enterprise-Grade Features**: Supports 50+ unstructured file types, schema-based extraction, auto-correction loops, and enterprise-grade chunking/embedding for high-precision RAG; includes 10K free credits/month (~1K pages), HIPAA/GDPR/SOC2 compliance, and 99.9% uptime.
 
-- **Enterprise Deployment**: Offers 10K free credits/month (~1K pages), HIPAA/GDPR/SOC2-compliant security, 99.9% uptime SLA, flexible cloud/VPC deployment, and dedicated support, enabling AI agents to process financial, healthcare, insurance, and manufacturing documents with human-level precision.
+- **Open-Source & Local Alternatives**: LiteParse offers fully open-source, local document parsing (PDFs, Office docs, images) with bounding box outputs, while LlamaParse provides cloud-based, agentic document automation with task-specific expert routing and multi-step workflows for AI agents.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:50:50.557409+05:30
+- Published: 2026-06-29T01:20:41.184034+05:30
 
 ## Related Tags
 

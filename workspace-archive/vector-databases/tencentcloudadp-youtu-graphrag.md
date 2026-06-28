@@ -12,8 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., planner, retriever, executor) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced retrieval and contextual understanding.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize structured knowledge from heterogeneous graphs, improving factual
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Extends traditional RAG by integrating graph-based knowledge representations, enabling dynamic subgraph retrieval and multi-hop reasoning to improve accuracy in complex question-
 
 ## Use Cases
 

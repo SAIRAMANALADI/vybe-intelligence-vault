@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by pikseladam. Score: 114, Comments: 77.
+Hacker News story by pikseladam. Score: 152, Comments: 97.
 Original Link: https://github.com/openai/codex/issues/2847
 
 ## Use Cases

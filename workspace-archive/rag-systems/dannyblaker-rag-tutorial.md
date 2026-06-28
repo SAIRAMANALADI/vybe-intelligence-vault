@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
-- **Technical Scope**: Covers embeddings, vector databases, LLMs, and advanced RAG techniques with executable code examples.
-- **Repository Metadata**: Python-based, last updated June 2026, minimal community adoption (6 stars, 0 forks).
+- **Progressive RAG Tutorial**: 6-step guide from basics to production, covering embeddings, vector databases, LLMs, and advanced RAG techniques with reusable Python utilities and hands-on demos.
+- **Technical Implementation**: Includes working code examples and modular utilities for building RAG systems, emphasizing practical deployment.
+- **Repository Metadata**: Python-based, last updated June 16, 2026, with 6 stars and 0 forks.
 
 ## Use Cases
 

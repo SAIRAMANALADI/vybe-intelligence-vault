@@ -6,13 +6,12 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices tailored for building **scalable, production-grade RAG systems**, covering AI engineering, MLOps, and LLM operations.
-- **Technical Scope**: Focuses on **embeddings, vector databases, LangChain, and large language models (LLMs)** with Python as the primary language, emphasizing **retrieval-augmented generation (RAG)** and generative AI workflows.
-- **Operational Readiness**: Includes **battl
+- **Curated production-grade RAG resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-ready Retrieval-Augmented Generation (RAG) systems, covering end-to-end MLOps pipelines.
+
+- **Comprehensive tooling ecosystem**: Includes vetted components for embeddings, vector databases, LLM orchestration (e.g., LangChain), and deployment tooling optimized for LLMOps and AI engineering workflows.
+
+- **Python-centric, continuously updated**: Repositor
 
 ## Use Cases
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format & Multilingual Parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with OCR for scanned content, handwriting, checkboxes, and multimodal data (tables, charts, images), alongside 100+ language support.
+- **Multi-format & Multilingual Parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with OCR for handwriting, layout-aware parsing (headers/footers/tables), and 100+ language compatibility for global enterprise use.
 
-- **Layout-Aware & Granular Control**: Uses layout-aware parsing for headers/footers/split sections and offers configurable parsing modes (cost vs. accuracy) with enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
-
-- **Enterpri
+- **Granular Control & Scalability**: Offers configurable parsing modes (accuracy vs. cost trade-offs), multimodal extraction (text, charts, images), and enterprise-grade scalability (1B+ documents processed, 25M+ monthly downloads, multi-user co
 
 ## Use Cases
 

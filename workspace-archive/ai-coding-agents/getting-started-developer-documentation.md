@@ -8,7 +8,7 @@ local_vault_path: ai/agents/getting-started-developer-documentation.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - web-crawled
 - workflows
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Getting Started | Developer Documentation
@@ -27,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Custom Agent Integration**: LlamaSheets enables the deployment of custom agents to process spreadsheet data, allowing for tailored data extraction, transformation, and analysis workflows beyond default capabilities.
+- **Custom Agent Integration**: LlamaSheets enables the deployment of custom agents to process extracted spreadsheet data, allowing for tailored data analysis pipelines via API or SDK.
 
-- **Workflow Automation**: Supports the creation of automated workflows that chain multiple agents, enabling sequential or parallel processing of spreadsheet data for complex analytical pipelines.
+- **Workflow Automation**: Supports the creation of automated workflows that chain multiple processing steps (e.g., cleaning, transformation, aggregation) for scalable, repeatable data operations.
 
-- **Extensibility via APIs**: Provides programmatic access to extracted data and
+- **Extensible Architecture**: Facilitates integration with external tools (e.g., Python scripts, cloud services) to
 
 ## Use Cases
 

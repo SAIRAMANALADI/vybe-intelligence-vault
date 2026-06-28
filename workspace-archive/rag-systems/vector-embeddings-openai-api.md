@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer improved multilingual performance, lower costs, and configurable dimensionality via the `dimensions` parameter, with max input length of 8192 tokens.
+- **Model Specifications**: New `text-embedding-3-small` (1536-dim, ~62.5k pages/USD) and `text-embedding-3-large` (3072-dim, ~9.6k pages/USD) offer lower costs, improved multilingual performance, and adjustable output dimensions via the `dimensions` parameter, with max input length of 8192 tokens.
 
-- **Embedding Mechanics**: Embeddings are vectorized representations (floating-point lists) where cosine similarity between vectors quantifies semantic relatedness; dimensionality can be reduced (e.g., to
+- **Embedding Mechanics**: Embeddings are L2-normalized vectors where cosine similarity measures text relatedness; dimensions can be truncated (e.g., to 256) without significant loss of semantic fide
 
 ## Use Cases
 

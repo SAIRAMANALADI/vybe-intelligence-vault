@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/privacy/
-published_at: '2026-06-27T09:54:07.459918+05:30'
-collected_at: '2026-06-27T09:54:07.459930+05:30'
+published_at: '2026-06-29T01:23:28.139566+05:30'
+collected_at: '2026-06-29T01:23:28.139582+05:30'
 tags:
 - agents
 - creative_dev
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cloudflare-s-privacy-policy-cloudflare
-first_seen: '2026-06-27T09:54:07.459930+05:30'
-last_seen: '2026-06-27T09:54:07.459930+05:30'
-last_checked: '2026-06-27T09:54:07.459930+05:30'
+first_seen: '2026-06-29T01:23:28.139582+05:30'
+last_seen: '2026-06-29T01:23:28.139582+05:30'
+last_checked: '2026-06-29T01:23:28.139582+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including SASE (Zero Trust, SWG, SD-WAN), application security (L7 DDoS, WAF, API Shield), and performance optimization (CDN, DNS, load balancing).
-
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and real-time media (Realtime, Images) with global edge deployment and pay-as-you-go pricing.
-
-- **Enterprise-Grade Security & Compliance** offers post-quantum cryptography, AI security, and industry-specific solutions (healthcare, finance, retail) with SOC 2, ISO 27001, and GDPR compliance certifications.
+- **Cloudflare's Connectivity Cloud** delivers over 60 integrated networking, security, and performance services (e.g., CDN, DDoS protection, Zero Trust) via a unified global network.
+- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI), storage (R2, D1), and observability tools with pay-as-you-go pricing.
+- **Enterprise-Grade Security** includes L3/4 & L7 DDoS mitigation, SASE (Cloudflare One), API security (API Shield), and post-quantum cryptography compliance.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:54:07.459918+05:30
+- Published: 2026-06-29T01:23:28.139566+05:30
 
 ## Related Tags
 

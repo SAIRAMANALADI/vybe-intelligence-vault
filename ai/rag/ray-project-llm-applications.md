@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-28T22:09:39.468042+05:30'
+collected_at: '2026-06-29T01:19:10.243603+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -21,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-28T22:09:39.468042+05:30'
-last_seen: '2026-06-28T22:09:39.468042+05:30'
-last_checked: '2026-06-28T22:09:39.468042+05:30'
+first_seen: '2026-06-29T01:19:10.243603+05:30'
+last_seen: '2026-06-29T01:19:10.243603+05:30'
+last_checked: '2026-06-29T01:19:10.243603+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, integrating retrieval mechanisms with generative models for enhanced performance.
-
-- **Multi-Model & Framework Support**: Demonstrates integration with models like Llama2, OpenAI, and Anyscale, leveraging Ray for distributed serving, fine-tuning, and scalable deployment of LLM applications.
-
-- **Jupyter Notebook-Based Guide**: Offers hands-on, executable tutorials for end-to-end implementation, covering data ingestion, retrieval systems, model fine-tuning, and serving pipelines optimized for production environments.
+- **RAG Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) pipelines using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+- **Fine-Tuning & Serving**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference, with examples leveraging Anyscale for cloud-based training.
+- **Modular Architecture**: Showcases a structured approach to building LLM applications, including data ingestion, vector database integration, and end-to-end evaluation frameworks for production readiness.
 
 ## Why It Matters
 

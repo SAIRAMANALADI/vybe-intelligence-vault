@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-28T22:08:08.111277+05:30'
-collected_at: '2026-06-28T22:08:08.111294+05:30'
+published_at: '2026-06-29T01:17:40.727516+05:30'
+collected_at: '2026-06-29T01:17:40.727531+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-28T22:08:08.111294+05:30'
-last_seen: '2026-06-28T22:08:08.111294+05:30'
-last_checked: '2026-06-28T22:08:08.111294+05:30'
+first_seen: '2026-06-29T01:17:40.727531+05:30'
+last_seen: '2026-06-29T01:17:40.727531+05:30'
+last_checked: '2026-06-29T01:17:40.727531+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking (optimized for context retention), embedding generation (via models like `text-embedding-3-large`), and vector storage/retrieval (e.g., Supabase with pgvector), followed by LLM integration for response synthesis.
+- **RAG Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector database storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
 
-- **Production Optimization Techniques**: Implements hybrid retrieval (dense + sparse embeddings), query rewriting for ambiguity resolution, caching strategies (e.g., Redis for embeddings), and latency reduction via Cloudflare Workers for edge deployment.
+- **Production Optimization**: Key strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via edge platforms (e.g., Cloudflare Workers) for low-latency inference.
 
-- **Monitoring & Cost Control**: Integrates Sentry for observability, tracks token usage metrics (input/output ratios), and enforces cost-performance trade-offs (e.g., filtering irrelevant chunks, using smaller embedding models where feasible).
+- **Monitoring & Scalability**: Implementation requires observability tools (e.g., Sentry) for latency/quality tracking, token-efficient prompt engineering, multi-modal data handling (PDFs/images), and benchmarking against trade-offs in cost vs. performance.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:08:08.111277+05:30
+- Published: 2026-06-29T01:17:40.727516+05:30
 
 ## Related Tags
 

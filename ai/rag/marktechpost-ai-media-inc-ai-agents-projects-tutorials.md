@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-06-28T22:10:04.511489+05:30'
+collected_at: '2026-06-29T01:19:35.227547+05:30'
 published_at: '2026-06-28T14:47:49Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-06-28T14:47:45Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-06-28T22:10:04.511489+05:30'
-last_seen: '2026-06-28T22:10:04.511489+05:30'
-last_checked: '2026-06-28T22:10:04.511489+05:30'
+first_seen: '2026-06-29T01:19:35.227547+05:30'
+last_seen: '2026-06-29T01:19:35.227547+05:30'
+last_checked: '2026-06-29T01:19:35.227547+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
-- **Technical stack**: Primarily implemented in Jupyter Notebooks, covering agentic RAG, coding, and framework development.
-- **Ecosystem**: Covers agentic AI engineering, including memory management, reasoning loops, and workflow automation (2,745 stars, 603 forks).
+- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
+- **Agentic AI Development**: Contains Jupyter Notebooks covering agentic frameworks, memory management, and RAG (Retrieval-Augmented Generation) integration.
+- **Technical Topics**: Covers agentic coding, engineering, and workflow automation with 2,745 stars and 603 forks as of last update (2026-06-28).
 
 ## Why It Matters
 

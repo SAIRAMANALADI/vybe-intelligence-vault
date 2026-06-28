@@ -4,19 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-28T22:13:20.340888+05:30'
-collected_at: '2026-06-28T22:13:20.340902+05:30'
+published_at: '2026-06-29T01:22:17.766703+05:30'
+collected_at: '2026-06-29T01:22:17.766717+05:30'
 tags:
 - agents
+- benchmark
 - models
 - rag
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-28T22:13:20.340902+05:30'
-last_seen: '2026-06-28T22:13:20.340902+05:30'
-last_checked: '2026-06-28T22:13:20.340902+05:30'
+first_seen: '2026-06-29T01:22:17.766717+05:30'
+last_seen: '2026-06-29T01:22:17.766717+05:30'
+last_checked: '2026-06-29T01:22:17.766717+05:30'
 health_score: 100
 ---
 
@@ -24,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Processing Pipeline**: Supports multi-format document ingestion (PDFs, Office, images) with built-in OCR and converters, enabling automated chunking and indexing into a document store for retrieval-optimized storage.
+- **Unified AI App Lifecycle Management**: Haystack Enterprise Platform supports prototyping, scaling, and production deployment of AI-powered applications with integrated data management, model selection, evaluation, and monitoring tools.
 
-- **Modular AI Agent & RAG Framework**: Enables construction of multi-component pipelines (retrievers, rankers, generators) via visual builder, supporting both AI agents with tool-use capabilities and advanced RAG systems with document-grounded responses.
+- **Modular RAG & Agentic Workflows**: Enables building advanced retrieval-augmented generation (RAG) pipelines and AI agents using interchangeable components (retrievers, rankers, generators) via a visual Pipeline Builder, with support for multi-step reasoning and tool integration.
 
-- **Model Agnostic & Observability Integration**: Facilitates seamless switching between LLM/embedding providers while integrating with tracing tools (Langfuse, Weave) and providing REST API for deployment, monitoring, and performance analytics.
+- **Multi-Provider Observability & API-Driven Control**: Model-agnostic integration with multiple LLM/embedding providers, observability tools (e.g., Langfuse, Weights & Biases), REST API for automation, and built-in performance dashboards/logs for end-to-end pipeline monitoring.
 
 ## Why It Matters
 
@@ -38,13 +40,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:13:20.340888+05:30
+- Published: 2026-06-29T01:22:17.766703+05:30
 
 ## Related Tags
 
 - agents
+- benchmark
 - models
 - rag
+- scripts
 - web-crawled
 - workflows
 

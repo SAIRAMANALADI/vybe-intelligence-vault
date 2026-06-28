@@ -8,19 +8,17 @@ local_vault_path: ai/rag/gradio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
 - hackernews
 - producthunt
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Gradio
@@ -29,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Gradio 6 Release**: Introduces new features and improvements for building ML web interfaces in Python, including enhanced component library and deployment options.
+- **Gradio 6.0 Release**: Introduces new features and improvements for faster, more efficient ML app development with enhanced UI components and deployment capabilities.
 
-- **40+ UI Components**: Supports diverse data types (Images, Audio, Video, 3D, Dataframes) with pre-built interactive elements like `Plot`, `Gallery`, `Audio`, and `Chatbot`.
+- **40+ Pre-built Components**: Supports diverse data types (images, audio, video, 3D, dataframes) with minimal code, eliminating frontend (JS/CSS) requirements.
 
-- **Zero-Frontend Workflow**: Enables rapid prototyping and deployment via Python-only scripts (`pip install gradio` + `demo.launch()`), with options for
+- **Instant Deployment & Sharing**: Enables one-command hosting on Hugging Face Spaces and shareable public links via `demo.launch(share=True)` for rapid prototyping
 
 ## Use Cases
 

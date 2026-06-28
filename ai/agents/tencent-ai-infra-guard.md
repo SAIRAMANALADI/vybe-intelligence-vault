@@ -4,18 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/tencent/ai-infra-guard
-collected_at: '2026-06-28T19:46:54.311735+05:30'
-published_at: '2026-06-28T13:47:14Z'
+collected_at: '2026-06-29T01:16:50.784371+05:30'
+published_at: '2026-06-28T17:19:50Z'
 tags:
 - agents
 - benchmark
-stars: 3999
+stars: 4001
 language: Python
 status: active
 resource_id: github:tencent/ai-infra-guard
 first_seen: '2026-06-18T23:35:18.966608+05:30'
-last_seen: '2026-06-28T19:46:54.311735+05:30'
-last_checked: '2026-06-28T19:46:54.311735+05:30'
+last_seen: '2026-06-29T01:16:50.784371+05:30'
+last_checked: '2026-06-29T01:16:50.784371+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 3999
+- Stars: 4001
 - Forks: 385
 - Language: Python
 - Topics: agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability
-- Last Updated: 2026-06-28T13:47:14Z
+- Last Updated: 2026-06-28T17:19:50Z
 
 ## Possible Use Cases
 

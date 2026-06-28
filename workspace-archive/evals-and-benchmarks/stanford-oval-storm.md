@@ -8,11 +8,11 @@ local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # stanford-oval/storm
@@ -21,16 +21,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LLM-powered research agent**: STORM autonomously researches topics by decomposing queries, retrieving evidence via iterative retrieval-augmented generation (RAG), and synthesizing citations from retrieved sources.
-- **Full-length report generation**: Produces structured, multi-section reports with inline citations, leveraging agentic workflows to ensure factual grounding and coherence.
-- **EMNLP 2024/NAACL contributions**: Implements deep-research techniques with Python, optimizing knowledge
+- **LLM-powered knowledge curation system** that autonomously researches topics via iterative retrieval and synthesis, producing structured, citation-backed reports.
+- **Agentic RAG framework** integrating multi-agent collaboration (researcher, writer, critic) for deep, iterative exploration of subtopics with adaptive query refinement.
+- **EMNLP 2024/NAACL contributions** with open-source implementation in Python, leveraging retrieval-augmented generation (RAG) for scalable, evidence-grounded kn
 
 ## Use Cases
 

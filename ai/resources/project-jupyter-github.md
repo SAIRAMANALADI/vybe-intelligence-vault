@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/jupyter/
-published_at: '2026-06-25T16:46:04.382713+05:30'
-collected_at: '2026-06-25T16:46:04.382724+05:30'
+published_at: '2026-06-29T01:25:09.015293+05:30'
+collected_at: '2026-06-29T01:25:09.015304+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-github
-first_seen: '2026-06-25T16:46:04.382724+05:30'
-last_seen: '2026-06-25T16:46:04.382724+05:30'
-last_checked: '2026-06-25T16:46:04.382724+05:30'
+first_seen: '2026-06-29T01:25:09.015304+05:30'
+last_seen: '2026-06-29T01:25:09.015304+05:30'
+last_checked: '2026-06-29T01:25:09.015304+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Project Jupyter** is an open-source initiative for interactive computing, providing tools like Jupyter Notebook, JupyterLab, and nbconvert for notebook conversion, with core components written primarily in Python.
+- **Project Jupyter** is an open-source initiative providing interactive computing environments across multiple programming languages via the **IPython kernel** and **Jupyter Notebook** architecture.
 
-- **Key repositories** include `notebook` (interactive notebooks), `docker-stacks` (pre-configured Docker images for Jupyter environments), and `jupyter_client` (APIs for Jupyter protocol interactions).
+- **Core components** include `notebook` (interactive notebooks), `docker-stacks` (pre-configured Docker images for Jupyter apps), and `nbformat` (specification for notebook file interchange).
 
-- **Licensing** is predominantly under BSD-3-Clause across core projects, with active development tracked via GitHub (e.g., `notebook` has 13.2k stars, `docker-stacks` 8.4k stars).
+- **Key repositories** like `jupyter_client` (protocol client APIs) and `nbconvert` (notebook-to-other-format conversion) enable extensibility and interoperability in Jupyter’s ecosystem.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-25T16:46:04.382713+05:30
+- Published: 2026-06-29T01:25:09.015293+05:30
 
 ## Related Tags
 

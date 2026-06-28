@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Django-allauth** is a comprehensive Django package providing integrated authentication, registration, account management, and third-party (OAuth2, OpenID Connect, SAML) social authentication with support for modern protocols like WebAuthn and passkeys.
+- **Django-allauth** is a comprehensive Django application suite providing authentication, registration, account management, and third-party (social) authentication integration, including support for OAuth2, OpenID Connect, SAML, WebAuthn, and passkeys.
 
-- **Repository metrics**: 4,113 commits, 24 branches, 122 tags, 95.3% Python, 3.9% HTML, 0.7% JavaScript, with CI/CD pipelines (Woodpecker) and active development (e.g., JWKs cache-control header and key rotation support).
-
-- **Features**: Mu
+- **Repository metrics**: 4,113 commits, 24 branches, 122 tags, 51 MiB total size with 95.3% Python, 3.9% HTML, and 0.7% JavaScript; CI/CD via Woodpecker with recent commits introducing cache-control headers for JWKs responses and key rotation s
 
 ## Use Cases
 

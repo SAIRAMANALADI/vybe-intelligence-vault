@@ -8,18 +8,18 @@ local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: benchmark
+resource_kind: template
 importance: high
 tags:
 - benchmark
 - github-repo
-- hackernews
+- models
 - python
 - rag
-- workflows
+- reddit
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # KruxAI/ragbuilder
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and workflows.
-
-- **Optimization Focus**: Implements techniques for dynamic chunking, embedding tuning, and retrieval strategies to enhance accuracy and latency in RAG deployments.
-
-- **Scalability & Deployment**: Supports integration with cloud services (e.g., AWS, GCP) and includes tools for monitoring, evaluation, and CI/CD
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for optimal performance.
+- **Optimization Tools**: Includes utilities for evaluating and fine-tuning RAG setups (e.g., retrieval quality, latency, cost) via automated benchmarking and hyperparameter tuning.
+- **Deployment-Ready**: Supports integration with cloud services (e.g., AWS, GCP) and includes Docker/Kubernetes templates
 
 ## Use Cases
 

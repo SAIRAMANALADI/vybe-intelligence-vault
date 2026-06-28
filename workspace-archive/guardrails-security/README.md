@@ -23,10 +23,10 @@ https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
-- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
 - [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
-- [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+- [sleeepeer/PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG)
+- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-28 22:23 IST*
+*Last updated: 2026-06-29 01:33 IST*

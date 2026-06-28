@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
 
-- **Technical Architecture**: Implements a lightweight retrieval mechanism paired with a distilled LLM, optimizing for efficiency via model quantization and pruning techniques to enable deployment on resource-constrained hardware.
+- **Optimized Architecture**: Implements a lightweight retrieval mechanism combined with a distilled LLM, achieving efficiency gains via quantization and pruning techniques for edge deployment.
 
-- **Benchmarking & Reproducibi
+- **Open-Source Toolkit**: Provides a Python-based repository with modu
 
 ## Use Cases
 

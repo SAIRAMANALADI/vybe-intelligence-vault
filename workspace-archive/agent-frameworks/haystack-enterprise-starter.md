@@ -2,7 +2,7 @@
 title: Haystack Enterprise Starter
 archive_category: agent-frameworks
 source_category: ai/rag
-source_url: https://www.deepset.ai/products-and-services/haystack-enterprise-starter
+source_url: https://www.deepset.ai/products-and-services/haystack-enterprise
 resource_id: blog:haystack-enterprise-starter
 local_vault_path: ai/rag/haystack-enterprise-starter.md
 quality_score: 70
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
@@ -37,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications with modular pipelines for document retrieval, processing, and generation (RAG, IDP, enterprise search).
+- **Haystack Framework**: Open-source Python framework for building production-ready LLM applications, enabling retrieval-augmented generation (RAG), document processing, and enterprise search with modular components for document indexing, retrieval, and querying.
 
-- **Enterprise Offerings**: Provides priority support, expert consultation, and pre-built templates for scalable Haystack deployments, including **Haystack Enterprise Starter**, **Platform**, and **Platform Trial**.
-
-- **Industry Solutions**: Targets sectors like government, finance, legal,
+- **Enterprise Offerings**: Provides **Haystack Enterprise Starter/Platform** with priority support, expert consultation, and pre-built templates for scalable AI deployments, including **Haystack Enterprise Platform Trial** for testin
 
 ## Use Cases
 
@@ -51,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.deepset.ai/products-and-services/haystack-enterprise-starter
+Original source URL: https://www.deepset.ai/products-and-services/haystack-enterprise
 
 ## Local Vault File
 

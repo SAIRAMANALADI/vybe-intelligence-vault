@@ -6,19 +6,18 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: framework
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: template
+importance: high
 tags:
-- dataset
+- benchmark
 - github-repo
-- hackernews
+- models
 - python
 - rag
-- workflows
+- reddit
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -27,19 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: template
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
-
-- **Automated Optimization**: Implements techniques for hyperparameter tuning, embedding selection, and retrieval strategies (e.g., vector search, hybrid retrieval) to maximize performance on custom datasets.
-
-- **Scalability & Deployment**: Supports distri
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with configurable components (e.g., embedders, retrievers, LLMs) for optimal performance.
+- **Optimization Tools**: Includes utilities for evaluating and fine-tuning RAG setups (e.g., retrieval quality, latency, cost) via automated benchmarking and hyperparameter tuning.
+- **Deployment-Ready**: Supports integration with cloud services (e.g., AWS, GCP) and includes Docker/Kubernetes templates
 
 ## Use Cases
 

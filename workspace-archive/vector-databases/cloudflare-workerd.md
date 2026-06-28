@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Runtime Architecture**: `workerd` is a JavaScript/WebAssembly runtime optimized for edge computing, leveraging a custom event loop and non-blocking I/O model to handle high concurrency with minimal overhead.
+- **JavaScript/Wasm Runtime**: `workerd` is a lightweight, high-performance JavaScript and WebAssembly (Wasm) runtime designed for serverless execution, optimized for Cloudflare Workers' edge computing environment.
 
-- **Core Components**: Implements a V8-based JavaScript engine with Wasm support, integrated with Cloudflare's proprietary networking stack for low-latency request handling and global distribution.
+- **C++ Implementation**: Built in C++ for low-latency performance and efficient resource utilization, leveraging modern V8 and Wasmtime engines for JS/Wasm execution.
 
-- **Performance Features**: Utilizes a lightweight, sandboxed execution environment with
+- **Edge Computing Focus**: Enables serverless compute at the edge by providing a secure, sandboxed runtime with mi
 
 ## Use Cases
 

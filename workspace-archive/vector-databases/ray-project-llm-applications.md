@@ -6,11 +6,12 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -18,6 +19,7 @@ tags:
 - openai
 - rag
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,18 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, integrating retrieval mechanisms with generative models for enhanced performance.
-
-- **Multi-Model & Framework Support**: Demonstrates integration with models like Llama2, OpenAI, and Anyscale, leveraging Ray for distributed serving, fine-tuning, and scalable deployment of LLM applications.
-
-- **Jupyter Notebook-Based Guide**: Offers hands-on, executa
+- **RAG Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) pipelines using Ray for distributed serving, integrating Llama2 and OpenAI models with optimized retrieval mechanisms.
+- **Fine-Tuning & Serving**: Provides Jupyter Notebooks for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference, with examples leveraging Anyscale for cloud-based training.
+- **Modular Architecture**: Showcases a structured approach to building LLM app
 
 ## Use Cases
 

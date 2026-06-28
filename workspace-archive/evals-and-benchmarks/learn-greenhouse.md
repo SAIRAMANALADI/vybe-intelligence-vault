@@ -2,7 +2,7 @@
 title: Learn Greenhouse
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://learn.greenhouse.io
+source_url: https://learn.greenhouse.io/
 resource_id: blog:learn-greenhouse
 local_vault_path: ai/rag/learn-greenhouse.md
 quality_score: 70
@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Hiring Tools**: Greenhouse integrates AI-driven features to automate sourcing, optimize hiring workflows, and deliver data-driven insights while maintaining compliance and user control.
-
-- **Structured Training Programs**: Offers role-specific, instructor-led/live training (e.g., interview scorecards, report navigation) and on-demand courses (e.g., "Structured Hiring," "Navigate Greenhouse") to enhance hiring and technical skills.
-
-- **MyGreenhouse Suite**: Provides modular tools
+- **AI-Powered Hiring Tools**: Greenhouse integrates AI-driven features such as automated sourcing, workflow optimization, and data-driven insights while ensuring compliance and user control.
+- **Structured Training Programs**: Offers role-specific live training (e.g., hiring managers, recruiters) and on-demand courses covering structured hiring, report navigation, and interview scorecards.
+- **Advanced Product Features**: Includes AI-driven tools like Talent Matching, Fraud Detection, and MyGre
 
 ## Use Cases
 
@@ -52,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://learn.greenhouse.io
+Original source URL: https://learn.greenhouse.io/
 
 ## Local Vault File
 

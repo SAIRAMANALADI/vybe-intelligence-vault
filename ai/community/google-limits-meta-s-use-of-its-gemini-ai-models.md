@@ -13,13 +13,14 @@ collected_at: '2026-06-28T22:07:22.796304+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-limits-meta-s-use-of-its-gemini-ai-models
 first_seen: '2026-06-28T19:46:53.860271+05:30'
 last_seen: '2026-06-28T22:07:22.796304+05:30'
 last_checked: '2026-06-28T22:07:22.796304+05:30'
 health_score: 100
 ---
+
 
 # Google limits Meta's use of its Gemini AI models
 

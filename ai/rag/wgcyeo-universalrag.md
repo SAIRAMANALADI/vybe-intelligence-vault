@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-28T22:09:49.445398+05:30'
+collected_at: '2026-06-29T01:19:20.241929+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-28T22:09:49.445398+05:30'
-last_seen: '2026-06-28T22:09:49.445398+05:30'
-last_checked: '2026-06-28T22:09:49.445398+05:30'
+first_seen: '2026-06-29T01:19:20.241929+05:30'
+last_seen: '2026-06-29T01:19:20.241929+05:30'
+last_checked: '2026-06-29T01:19:20.241929+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level), enabling cross-modal retrieval and generation.
 
-- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, supporting dynamic modality fusion and hierarchical retrieval strategies.
+- **Modular Architecture for Dynamic Adaptation**: Implements a flexible pipeline with modality-specific encoders, retrievers, and fusion mechanisms, allowing dynamic adaptation to heterogeneous corpora without retraining the entire model.
 
-- **Benchmark & Evaluation**: Proposes a new benchmark suite (UniversalRAG-Bench) with 12 datasets spanning 5 modalities and 3 granularities, demonstrating state-of-the-art performance across tasks while analyzing trade-offs in retrieval granularity and modality fusion.
+- **ACL 2026 Oral Contribution**: Proposes novel evaluation metrics and benchmarks for assessing cross-modal retrieval and generation performance, demonstrating state-of-the-art results on multimodal RAG tasks.
 
 ## Why It Matters
 

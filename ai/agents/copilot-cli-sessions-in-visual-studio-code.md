@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-28T19:53:23.414806+05:30'
-collected_at: '2026-06-28T19:53:23.414818+05:30'
+published_at: '2026-06-29T01:25:09.491683+05:30'
+collected_at: '2026-06-29T01:25:09.491696+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-28T19:53:23.414818+05:30'
-last_seen: '2026-06-28T19:53:23.414818+05:30'
-last_checked: '2026-06-28T19:53:23.414818+05:30'
+first_seen: '2026-06-29T01:25:09.491696+05:30'
+last_seen: '2026-06-29T01:25:09.491696+05:30'
+last_checked: '2026-06-29T01:25:09.491696+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via GitHub Copilot CLI, managed through the Chat view; support multi-repository workspaces, isolation modes (Worktree/Folder), and slash commands (`/research`, `/yolo`, etc.).
+- **Background Execution**: Copilot CLI sessions run autonomously in the background via the Copilot CLI agent harness, managed by VS Code's Copilot SDK, enabling continuous operation even when VS Code is closed, unlike local agents tied to the editor.
 
-- **Isolation & Permissions**: Worktree isolation auto-bypasses approvals (Git worktree-based), while Folder isolation allows configurable permission levels (Default/Bypass/Autopilot); changes apply directly to the workspace in Folder mode.
+- **Isolation Modes**: Supports **Worktree** (Git worktree-based, auto-approved tool calls) and **Folder** (direct workspace changes) isolation for managing agent-induced modifications, with configurable permissions (e.g., Bypass Approvals, Autopilot) depending on isolation mode.
 
-- **Session Lifecycle**: Created via Chat view or Command Palette; supports handoff from local agents, parallel execution, and deep research tasks; integrates with Copilot SDK for monitoring/control.
+- **Multi-Tasking & Slash Commands**: Enables parallel Copilot CLI sessions for independent tasks, with slash commands (`/research`, `/yolo`, `/compact`) for advanced agent interactions, including deep research and conversation management.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T19:53:23.414806+05:30
+- Published: 2026-06-29T01:25:09.491683+05:30
 
 ## Related Tags
 

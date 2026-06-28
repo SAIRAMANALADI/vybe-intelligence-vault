@@ -8,7 +8,7 @@ local_vault_path: ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -29,14 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **GitHub Copilot Integration**: AI-powered coding assistant (Copilot) enables real-time code refactoring, feature implementation, and automated workflows (e.g., extracting logic into reusable functions) across the SDLC via natural language prompts.
-- **Security & Automation**: GitHub Advanced Security leverages AI (Copilot Autofix) to detect/remediate vulnerabilities (70% MTTR reduction), Dependabot updates dependencies, and Secret Protection blocks leaked secrets (8.3M+ stopped in 12 months).
+- **GitHub Copilot Integration**: AI-powered code assistance across the entire software development lifecycle (SDLC), enabling refactoring, feature implementation, and automated fixes (e.g., Copilot Autofix reduces MTTR by 70%).
+- **Unified DevOps Platform**: Combines CI/CD (GitHub Actions), cloud-based IDEs (Codespaces), project management (Projects), and security (Advanced Security, Dependabot, Secret Protection) in a single ecosystem.
+- **Enterprise Scalability**: Supports workflows from star
 
 ## Use Cases
 

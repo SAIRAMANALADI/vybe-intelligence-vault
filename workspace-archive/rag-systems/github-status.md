@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Monitoring**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and regional status pages (AU/EU/JP/US).
-
-- **Notification Subscriptions**: Supports multi-channel incident alerts via email, SMS (global phone codes), Slack, and webhooks for automated incident updates (create/update/resolve) and component status changes.
-
-- **Historical Incident Analysis**: Detailed post-incident
+- **Incident Tracking**: GitHub Status Page provides real-time incident reporting, including current outages (e.g., Copilot cloud agent issues affecting PR operations) and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global number verification), Slack, and webhooks for automated alerts on incident creation, updates, or resolutions.
+- **Regional Status & Metrics**: Offers
 
 ## Use Cases
 

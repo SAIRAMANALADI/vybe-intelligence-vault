@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-28T22:13:13.454243+05:30'
-collected_at: '2026-06-28T22:13:13.454260+05:30'
+published_at: '2026-06-29T01:22:07.416488+05:30'
+collected_at: '2026-06-29T01:22:07.416501+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-28T22:13:13.454260+05:30'
-last_seen: '2026-06-28T22:13:13.454260+05:30'
-last_checked: '2026-06-28T22:13:13.454260+05:30'
+first_seen: '2026-06-29T01:22:07.416501+05:30'
+last_seen: '2026-06-29T01:22:07.416501+05:30'
+last_checked: '2026-06-29T01:22:07.416501+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM application development, while LangGraph/LangGraph.js enable building LLM agents as computational graphs for complex workflows.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agentic workflows with planning, subagents, and filesystem interactions.
 
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for advanced task execution.
+- **Commercial & OSS Extensions**: LangSmith offers a platform for production-grade LLM application development and monitoring; Deep Agents Code and Open SWE provide open-source coding agents; MCP Adapters and Agent Protocol standardize tool integration and framework-agnostic agent APIs.
 
-- **Commercial & Extensible Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent Protocol standardize framework-agnostic APIs for agent interoperability and deployment.
+- **Learning Resources**: Unified documentation at docs.langchain.com; community forum for discussions; LangChain Academy offers free courses on LangChain libraries and products.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:13:13.454243+05:30
+- Published: 2026-06-29T01:22:07.416488+05:30
 
 ## Related Tags
 

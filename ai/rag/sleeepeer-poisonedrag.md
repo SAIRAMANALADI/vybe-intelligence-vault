@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-28T22:09:24.410489+05:30'
+collected_at: '2026-06-29T01:18:55.172607+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-28T22:09:24.410489+05:30'
-last_seen: '2026-06-28T22:09:24.410489+05:30'
-last_checked: '2026-06-28T22:09:24.410489+05:30'
+first_seen: '2026-06-29T01:18:55.172607+05:30'
+last_seen: '2026-06-29T01:18:55.172607+05:30'
+last_checked: '2026-06-29T01:18:55.172607+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by manipulating the retrieval database to inject adversarial content, causing LLMs to generate incorrect or harmful outputs.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate adversarial or incorrect outputs while maintaining high retrieval relevance scores.
 
-- **Technical Mechanism**: Details a two-phase attack—*poisoning* the retrieval corpus with adversarial documents and *exploiting* the RAG pipeline’s reliance on retrieved context to steer model responses toward attacker-desired outcomes.
+- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting *poisoned documents* that embed trigger phrases or adversarial patterns, ensuring high retrieval rankings while subtly altering the model's contextual understanding, leading to manipulated responses without explicit prompt injection.
 
-- **Evaluation & Impact**: Validates effectiveness on multiple LLMs and RAG configurations, showing significant degradation in response accuracy and reliability, highlighting critical security vulnerabilities in production RAG systems.
+- **Evaluation & Impact**: Validates the attack on multiple RAG architectures (e.g., dense retrieval + LLMs) with empirical results showing up to **90% attack success rate** in controlled environments, highlighting critical security gaps in current trustworthy AI frameworks for RAG-based systems.
 
 ## Why It Matters
 

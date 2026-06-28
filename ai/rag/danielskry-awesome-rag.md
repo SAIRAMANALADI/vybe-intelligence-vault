@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-06-28T22:09:04.396168+05:30'
-published_at: '2026-06-28T16:09:39Z'
+collected_at: '2026-06-29T01:18:35.158766+05:30'
+published_at: '2026-06-28T17:54:20Z'
 tags:
 - github-repo
-- paper
 - rag
 - unknown
-stars: 1276
+stars: 1278
 language: Unknown
 status: active
 license: CC0-1.0
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-11T13:11:48Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-06-28T22:09:04.396168+05:30'
-last_seen: '2026-06-28T22:09:04.396168+05:30'
-last_checked: '2026-06-28T22:09:04.396168+05:30'
+first_seen: '2026-06-29T01:18:35.158766+05:30'
+last_seen: '2026-06-29T01:18:35.158766+05:30'
+last_checked: '2026-06-29T01:18:35.158766+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,7 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive repository aggregating applications, tools, frameworks, and research papers focused on Retrieval-Augmented Generation (RAG) in Generative AI.
-- **Multi-Topic Coverage**: Encompasses topics including large language models (LLMs), generative AI, and retrieval mechanisms, with emphasis on practical implementations and theoretical advancements.
-- **Active Maintenance**: Last updated in 2026, ensuring relevance with ongoing updates and community contributions (1,276 stars, 157 forks).
+*   Curated repository indexing Retrieval-Augmented Generation (RAG) applications.
 
 ## Why It Matters
 
@@ -40,11 +37,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1276
+- Stars: 1278
 - Forks: 157
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-28T16:09:39Z
+- Last Updated: 2026-06-28T17:54:20Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

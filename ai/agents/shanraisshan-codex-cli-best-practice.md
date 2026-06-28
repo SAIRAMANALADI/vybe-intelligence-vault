@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-28T22:10:39.510303+05:30'
+collected_at: '2026-06-29T01:20:10.272159+05:30'
 published_at: '2026-06-28T16:14:28Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-28T22:10:39.510303+05:30'
-last_seen: '2026-06-28T22:10:39.510303+05:30'
-last_checked: '2026-06-28T22:10:39.510303+05:30'
+first_seen: '2026-06-29T01:20:10.272159+05:30'
+last_seen: '2026-06-29T01:20:10.272159+05:30'
+last_checked: '2026-06-29T01:20:10.272159+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and automated workflows for AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from traditional "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular agent-based workflows for software development.
 
-- **CLI-Centric Best Practices**: Provides a curated set of *codex-cli-commands*, *skills*, and *hooks* for OpenAI Codex, optimizing agentic workflows with reusable templates and context-aware execution.
+- **Context & Hook Engineering**: Implements advanced context engineering and Codex hooks to dynamically manage AI agent interactions, enabling precise control over task execution and skill deployment.
 
-- **Open-Source Toolkit**: Python-based repository (901⭐, 54🍴) serving as a reference for *agentic-ai* and *codex-ai* applications, with updates as of 2026-06-28.
+- **CLI Best Practices**: Provides a curated set of Codex CLI commands, skills, and best practices for OpenAI Codex, optimized for Pakistani developers and scalable agentic workflows.
 
 ## Why It Matters
 

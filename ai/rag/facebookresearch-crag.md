@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-28T22:09:14.476413+05:30'
+collected_at: '2026-06-29T01:18:45.227837+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-28T22:09:14.476413+05:30'
-last_seen: '2026-06-28T22:09:14.476413+05:30'
-last_checked: '2026-06-28T22:09:14.476413+05:30'
+first_seen: '2026-06-29T01:18:45.227837+05:30'
+last_seen: '2026-06-29T01:18:45.227837+05:30'
+last_checked: '2026-06-29T01:18:45.227837+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG is a **Comprehensive RAG (Retrieval-Augmented Generation) benchmark** designed to evaluate RAG systems across **multiple dimensions**, including factuality, robustness, and efficiency, using **real-world and synthetic datasets**.
+- **Benchmark Design**: CRAG (Comprehensive RAG Benchmark) evaluates Retrieval-Augmented Generation (RAG) systems across diverse tasks, including open-domain QA, fact-checking, and long-form generation, with a focus on real-world challenges like noise robustness and multi-hop reasoning.
 
-- **Evaluation Framework**: The repository provides a **modular evaluation framework** with **standardized metrics** (e.g., EM, F1, hallucination rate) and **customizable pipelines** for assessing RAG models under varying conditions (e.g., noisy retrieval, multi-hop queries).
+- **Evaluation Metrics**: Implements fine-grained metrics (e.g., answer correctness, citation accuracy, and hallucination rate) via automated pipelines and human annotations to assess both retrieval quality and generation fidelity.
 
-- **Implementation**: Includes **Jupyter Notebook-based implementations** for reproducibility, with **predefined baselines** (e.g., dense retrieval, sparse retrieval) and **extensible APIs** for integrating new RAG components or datasets.
+- **Dataset & Tools**: Provides a modular framework with synthetic and real-world datasets, along with standardized evaluation scripts to ensure reproducibility and comparability across RAG architectures.
 
 ## Why It Matters
 

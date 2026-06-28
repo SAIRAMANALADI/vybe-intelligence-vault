@@ -1,53 +1,68 @@
 ---
-title: Jupyter kernels · jupyter/jupyter Wiki · GitHub
+title: jupyter/jupyter
 category: ai/resources
-source_type: web
-source_name: Web Discovery
-source_url: https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
-published_at: '2026-06-26T22:44:32.175612+05:30'
-collected_at: '2026-06-26T22:44:32.175625+05:30'
+source_type: github
+source_name: GitHub Discovery
+source_url: https://github.com/jupyter/jupyter
+collected_at: '2026-06-29T01:23:07.618541+05:30'
+published_at: '2026-06-28T06:30:36Z'
 tags:
-- hackernews
+- github-repo
+- python
 - reddit
-- scripts
-- web-crawled
-- workflows
+stars: 15327
+language: Python
 status: active
+license: BSD-3-Clause
+archived: false
+created_at: '2015-06-04T21:05:00Z'
+pushed_at: '2026-06-07T00:18:30Z'
 resource_id: github:jupyter/jupyter
-first_seen: '2026-06-26T22:44:32.175625+05:30'
-last_seen: '2026-06-26T22:44:32.175625+05:30'
-last_checked: '2026-06-26T22:44:32.175625+05:30'
+first_seen: '2026-06-29T01:23:07.618541+05:30'
+last_seen: '2026-06-29T01:23:07.618541+05:30'
+last_checked: '2026-06-29T01:23:07.618541+05:30'
 health_score: 100
 ---
 
-# Jupyter kernels · jupyter/jupyter Wiki · GitHub
+# jupyter/jupyter
 
 ## Summary
 
-- **Jupyter Kernel Ecosystem**: The Jupyter project provides a modular kernel architecture where IPython serves as the reference implementation (kernel zero), with dependencies like `ipykernel`; additional kernels support diverse languages (e.g., C++, Fortran, Elixir, Go) via projects like `xeus-cpp`, `jupyter-CAF-kernel`, `IElixir`, and `gophernotes`.
-
-- **Language-Specific Kernel Requirements**: Kernels often impose strict version dependencies (e.g., Go ≥1.8 for `gophernotes`, Java 17+ for `rapaio-jupyter-kernel`) and third-party tools (e.g., `ZeroMQ` for `IJava`, `GFortran` for `jupyter-CAF-kernel`), with some kernels requiring Docker (e.g., `dockerfile-kernel`) or hardware-specific setups (e.g., `jupyter_micropython_kernel` for ESP32).
-
-- **Polyglot and Specialized Kernels**: Kernels like `IPolyglot` (GraalVM) enable multi-language execution (JavaScript, Ruby, Python), while specialized kernels target niche domains (e.g., `HiveQL Kernel` for HiveQL queries, `RunMat` for MATLAB-syntax GPU acceleration) or architectures (e.g., `MIPS-jupyter-kernel` for MIPS32 assembly).
+- **Metapackage Role**: Aggregates core Jupyter components (e.g., `notebook`, `console`, `kernel`) for unified installation and dependency management in Python environments.
+- **Installation Hub**: Serves as the primary entry point for users via `pip install jupyter`, triggering installation of all essential Jupyter subpackages.
+- **Documentation Central**: Provides consolidated documentation links and references for Jupyter’s ecosystem, though actual docs reside in individual repositories.
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: Web Discovery
-- Category: ai/resources
-- Published: 2026-06-26T22:44:32.175612+05:30
+- Owner: jupyter
+- Stars: 15327
+- Forks: 4518
+- Language: Python
+- Topics: None
+- Last Updated: 2026-06-28T06:30:36Z
+- License: BSD-3-Clause
+- Archived: No
+- Created At: 2015-06-04T21:05:00Z
+- Pushed At: 2026-06-07T00:18:30Z
 
-## Related Tags
+## Possible Use Cases
 
-- hackernews
-- reddit
-- scripts
-- web-crawled
-- workflows
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
-Original source: https://github.com/jupyter/jupyter/wiki/Jupyter-kernels
+Original source: https://github.com/jupyter/jupyter

@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Processing & Compliance**: Cloudflare processes limited personal data (e.g., IP addresses) as metadata for Core Application Layer Services, stored in U.S./EU data centers; customers retain full responsibility for their data compliance, and Cloudflare does not store customer content unless explicitly configured.
+- **Data Processing & Compliance**: Cloudflare processes minimal personal data (primarily IP addresses) as metadata for Core Application Layer Services, stored in U.S./EU data centers with strict access controls; customers retain full responsibility for their data compliance.
 
-- **Security & Certifications**: Cloudflare enforces ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, and EU Cloud Code of Conduct/C5 2020 standards, with encryption (e.g.
+- **Security & Certifications**: Implements ISO 27001/27701/27018, SOC 2 Type II, PCI DSS Level 1, and EU Cloud Code of Conduct; Annex 2 of DPA details technical safeguards (encryption, logging, monitoring) for GDPR-covere
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/deepset-studio
-published_at: '2026-06-28T19:51:21.146022+05:30'
-collected_at: '2026-06-28T19:51:21.146038+05:30'
+published_at: '2026-06-29T01:21:22.079288+05:30'
+collected_at: '2026-06-29T01:21:22.079303+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:haystack-enterprise-platform-trial-sign-up
-first_seen: '2026-06-28T19:51:21.146038+05:30'
-last_seen: '2026-06-28T19:51:21.146038+05:30'
-last_checked: '2026-06-28T19:51:21.146038+05:30'
+first_seen: '2026-06-29T01:21:22.079303+05:30'
+last_seen: '2026-06-29T01:21:22.079303+05:30'
+last_checked: '2026-06-29T01:21:22.079303+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Enterprise Platform** provides a production-ready pipeline template library for rapid deployment of AI systems, including RAG, agents, and custom workflows.
+- **Haystack Enterprise Platform** provides a production-ready pipeline template library for rapid deployment of AI systems, including RAG, agents, and custom workflows, with a visual, code-aligned editor for pipeline design and debugging.
 
-- **Visual Pipeline Editor** enables code-aligned, drag-and-drop design of AI workflows with integrated testing, debugging, and stakeholder feedback collection.
+- **Free trial** enables users to upload proprietary or sample datasets, test indexing, metadata extraction, and retrieval accuracy, while leveraging secure built-in cloud infrastructure and Haystack’s integration library (including MCP and custom components).
 
-- **Secure Cloud Infrastructure** supports end-to-end AI pipeline execution with built-in scalability, metadata extraction, and retrieval optimization for enterprise use cases.
+- **Enterprise-grade features** include collaborative feedback collection, stakeholder sharing, and scalable deployment, with support for industries such as government, finance, healthcare, and manufacturing.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:51:21.146022+05:30
+- Published: 2026-06-29T01:21:22.079288+05:30
 
 ## Related Tags
 

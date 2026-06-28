@@ -6,13 +6,14 @@ source_url: https://github.com/promptfoo/promptfoo-action
 resource_id: github:promptfoo/promptfoo-action
 local_vault_path: ai/rag/promptfoo-promptfoo-action.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: prompt
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - meta-ai
 - models
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,8 +38,8 @@ selection_reason:
 ## Summary
 
 - **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems within CI/CD pipelines using a declarative configuration approach.
-- **Multi-Model Support**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama) and includes AI red teaming for security vulnerability scanning.
-- **Security & Pentesting**: Provides LLM-focused security testing capabilities, including automated vulnerability assessment and adversarial prompt testing.
+- **Multi-Model Benchmarking**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama, etc.) with AI red teaming and vulnerability scanning capabilities.
+- **Security & Pentesting**: Provides LLM-focused security testing and adversarial attack simulation via simple TypeScript-based configurations and CLI integ
 
 ## Use Cases
 

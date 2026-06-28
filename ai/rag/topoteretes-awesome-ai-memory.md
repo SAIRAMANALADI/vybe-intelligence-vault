@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-06-28T22:09:09.524868+05:30'
-published_at: '2026-06-28T11:36:12Z'
+collected_at: '2026-06-29T01:18:40.198545+05:30'
+published_at: '2026-06-28T19:06:05Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 800
+stars: 801
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-06-28T22:09:09.524868+05:30'
-last_seen: '2026-06-28T22:09:09.524868+05:30'
-last_checked: '2026-06-28T22:09:09.524868+05:30'
+first_seen: '2026-06-29T01:18:40.198545+05:30'
+last_seen: '2026-06-29T01:18:40.198545+05:30'
+last_checked: '2026-06-29T01:18:40.198545+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of AI memory projects focusing on memory management, RAG, and agent-based systems, primarily implemented in Python.
-- **Topics covered** include AI agents, memory architectures, retrieval-augmented generation (RAG), and AI engineering best practices.
-- **Last updated** on 2026-06-28, with 800 stars and 88 forks, indicating active community engagement.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval-augmented generation (RAG), and agent-based systems.
+- **Python-centric** repository with 801 stars and 87 forks, last updated June 28, 2026.
+- Covers topics including **AI agents, memory architectures, RAG pipelines, and ML-based memory optimization**.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 800
-- Forks: 88
+- Stars: 801
+- Forks: 87
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-06-28T11:36:12Z
+- Last Updated: 2026-06-28T19:06:05Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

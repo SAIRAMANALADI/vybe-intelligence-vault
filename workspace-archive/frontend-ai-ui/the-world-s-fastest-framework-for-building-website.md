@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **License & Popularity**: Distributed under Apache 2.0 License; 88,753 GitHub stars (as of June 27, 2026).
-
-- **Performance & Flexibility**: Go-based, optimized for speed; renders large sites in seconds with advanced templating, multilingual support, and flexible taxonomy.
-
-- **Asset Pipeline & Development**: Supports image processing, JavaScript bundling, Sass, and TailwindCSS; includes an embedded web server for live reloading during development.
+- Licensed under Apache 2.0, Hugo is open-source and free to use.
+- Written in Go, Hugo offers optimized speed, advanced templating, and a fast asset pipeline (image processing, JS bundling, Sass, TailwindCSS support).
+- Features an embedded web server for instant live-reload during development, multilingual support, and a powerful taxonomy system.
 
 ## Use Cases
 

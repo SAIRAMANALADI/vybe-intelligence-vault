@@ -6,18 +6,19 @@ source_url: https://github.com/Cinnamon/kotaemon
 resource_id: github:cinnamon/kotaemon
 local_vault_path: ai/rag/cinnamon-kotaemon.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- openai
 - python
 - rag
-- workflows
+- reddit
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Cinnamon/kotaemon
@@ -25,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline in Python, enabling document-based conversational AI with dynamic context retrieval and LLM integration.
+- **RAG-based architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for contextual responses.
 
-- **Modular Design**: Features a flexible, component-based structure for document ingestion, embedding, retrieval, and response generation, supporting customization of models and workflows.
+- **Modular Python framework**: Built in Python with extensible components for document ingestion, embedding generation, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., Hugging Face, OpenAI APIs).
 
-- **Open-Source Deployment**: Provides a fully open-source solution with pre-built integrations for popular LLMs, optimi
+- **Open-source deployment**: Supports self-hosting with Docke
 
 ## Use Cases
 

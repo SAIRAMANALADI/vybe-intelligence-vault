@@ -2,7 +2,7 @@
 title: Developer Resources | Greenhouse
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://developers.greenhouse.io
+source_url: https://developers.greenhouse.io/
 resource_id: blog:developer-resources-greenhouse
 local_vault_path: ai/resources/developer-resources-greenhouse.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Harvest API**: RESTful endpoint for programmatic access to Greenhouse Recruiting data (jobs, candidates, interviews) via standardized HTTP requests.
-- **Ingestion API**: Enables sourcing partners to submit prospect/candidate data to Greenhouse with structured payloads for candidate creation/update.
-- **Audit Log API**: Provides immutable records of user actions (e.g., edits, access) with timestamps and metadata for compliance and debugging.
+- **Harvest API**: RESTful API for programmatic access to Greenhouse Recruiting data (jobs, candidates, interviews) via standardized endpoints.
+- **Ingestion API**: RESTful API enabling sourcing partners to submit prospect/candidate data directly into Greenhouse Recruiting.
+- **Audit Log API**: RESTful API providing immutable records of user actions/edits for compliance and security monitoring.
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.greenhouse.io
+Original source URL: https://developers.greenhouse.io/
 
 ## Local Vault File
 

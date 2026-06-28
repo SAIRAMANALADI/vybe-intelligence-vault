@@ -6,9 +6,9 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # hllqkb/Spring-AI-Ailibaba-Best-Practices
@@ -26,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Implements Server-Sent Events (SSE) streaming** for real-time AI question-answering responses, enabling persistent, low-latency client-server communication.
-- **Integrates multiple AI capabilities** including RAG (Retrieval-Augmented Generation) with knowledge graphs, Function Call for tool invocation, and multimodal processing (image generation/understanding) via Embedding and Vector Database.
-- **Manages conversational context** through historical message persistence, leveraging Java-based
+- **Java-based AI Q&A System**: Implements **Server-Sent Events (SSE)** for real-time streaming responses, **Agent-based workflows**, and **Function Calling** for dynamic task execution.
+- **Advanced RAG & Vector DB Integration**: Utilizes **Knowledge Graph RAG**, **Embedding models**, and **Vector Databases** (e.g., Milvus/Weaviate) for semantic search and retrieval.
+- **Multimodal & History Support**: Features **image generation/understanding** (e.g., via Stable Diffusion/CLIP), **historical m
 
 ## Use Cases
 

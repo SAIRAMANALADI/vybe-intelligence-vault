@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - youtube
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal RAG framework** for long-video understanding, integrating Large Language Models (LLMs) with video retrieval-augmented generation (VideoRAG) to enable context-aware video querying.
-- **Python-based implementation** leveraging multi-modal LLMs to process and retrieve information from extended video sequences, optimizing for scalability and real-time interaction.
-- **Open-source repository** with 3,080+ stars, supporting retrieval-augmented generation (RAG) for video data, last upda
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs.
+
+- **Technical Implementation**: Built in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to segment, index, and retrieve video frames for contextual chat-based interactions.
+
+- **Performance & Scalability**: Achieves efficient long-video comprehension with optimized retrieval m
 
 ## Use Cases
 

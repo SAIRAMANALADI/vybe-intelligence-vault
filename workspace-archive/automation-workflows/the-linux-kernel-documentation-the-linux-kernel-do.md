@@ -6,10 +6,10 @@ source_url: https://docs.kernel.org/
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
 local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - reddit
 - web-crawled
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Kernel Development & Contribution**: The Linux Kernel documentation provides structured guides for interacting with the kernel development community, including processes for submitting patches, development workflows, and maintainer handbooks.
+- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides for kernel development, including patch submission (`Submitting patches`), community interaction (`Development process`, `Code of conduct`), and maintainer-specific processes (`Maintainer handbook`).
 
-- **API & Subsystem Documentation**: Comprehensive manuals covering internal APIs (Core API, Driver APIs, Subsystems, Locking), firmware expectations, and architecture-specific implementations (e.g., ARM, x86, RISC-V).
-
-- **Tooling & Cross-Platform Sup
+- **Core & Subsystem APIs**: Comprehensive documentation covers internal APIs such as `Core API`, `Driver APIs`, `Subsystems`, and `Locking mechanisms`, essential for kernel developers interfacing with the
 
 ## Use Cases
 

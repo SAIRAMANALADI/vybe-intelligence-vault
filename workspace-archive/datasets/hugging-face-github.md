@@ -15,7 +15,6 @@ tags:
 - dataset
 - models
 - producthunt
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Hugging Face** is an AI research organization maintaining core ML libraries like `transformers` (162k⭐) for multi-modal model definition, `diffusers` (33.9k⭐) for diffusion-based generative models, and `datasets` (21.7k⭐) for large-scale data pipelines, all under Apache-2.0 licenses.
+- **Core Libraries**: Hugging Face maintains flagship libraries like `transformers` (162k stars) for unified ML model definitions across modalities, `diffusers` (33.9k stars) for diffusion-based generative models, and `datasets` (21.7k stars) for large-scale, optimized data pipelines.
 
-- **Key infrastructure tools** include `accelerate` (9.7k⭐) for PyTorch model training/inference optimization (FSDP, DeepSpeed, mixed precision), `peft` (21.3k⭐) for parameter-efficient fine-tuning, and `tokeni
+- **Optimization & Fine-Tuning**: Key tools include `accelerate` (9.7k stars) for distributed training/FP8 mixed precision, `peft` (21.3k stars) for parameter-efficient fine-tuning, and `optimum` (3.4k stars) for
 
 ## Use Cases
 

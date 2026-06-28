@@ -8,18 +8,17 @@ local_vault_path: ai/rag/datawhalechina-hello-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
-- openai
+- hackernews
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # datawhalechina/hello-agents
@@ -28,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Multi-Agent Framework**: Tutorial repository for building intelligent agents from scratch, covering core principles and practical implementation in Python, with focus on LLM integration, RAG pipelines, and agent orchestration.
+- **Purpose**: Comprehensive tutorial on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
 
-- **Educational Resource**: Provides structured, zero-to-hero learning path for agent development, including theoretical foundations (e.g., agent architectures, decision-making) and hands-on coding exercises (e.g., tool usage, memory systems).
+- **Key Components**: Focuses on agent architectures, LLM integration, and RAG (Retrieval-Augmented Generation) pipelines for real-world applications.
 
-- **Community-Driven**:
+- **Technical Stack**: Python-based implementation with modular design for extensibility and scalability.
 
 ## Use Cases
 

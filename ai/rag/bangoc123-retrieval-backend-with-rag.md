@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-28T22:08:54.394475+05:30'
+collected_at: '2026-06-29T01:18:25.148511+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 263
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-28T22:08:54.394475+05:30'
-last_seen: '2026-06-28T22:08:54.394475+05:30'
-last_checked: '2026-06-28T22:08:54.394475+05:30'
+first_seen: '2026-06-29T01:18:25.148511+05:30'
+last_seen: '2026-06-29T01:18:25.148511+05:30'
+last_checked: '2026-06-29T01:18:25.148511+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including text retrieval and generation pipelines.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
 
-- **Python-Based Architecture**: Utilizes Python with libraries such as `sentence-transformers`, `FAISS` (Facebook AI Similarity Search), and `FastAPI` for scalable vector search and API deployment.
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and LLM integration (e.g., ViT5, PhoBERT) using FastAPI or similar frameworks.
 
-- **Modular Design**: Features modular components for document processing, embedding generation, vector storage, and retrieval, enabling customization for Vietnamese-specific NLP tasks.
+- **Evaluation & Optimization**: Includes Vietnamese-specific benchmarks (e.g., ViQuAD) and techniques for improving retrieval relevance, latency, and response quality in low-resource language scenarios.
 
 ## Why It Matters
 

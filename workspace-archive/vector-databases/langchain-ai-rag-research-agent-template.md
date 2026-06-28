@@ -32,9 +32,18 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
-- **Key Components**: Includes pre-configured pipelines for document retrieval, prompt engineering, and agent-based reasoning with modular Python components.
-- **Dependencies**: Leverages LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) for LLM integration, vector stores, and tool orchestration.
+- **Repository**: `langchain-ai/rag-research-agent-template`
+  **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+  **Language**: Python-based implementation.
+
+- **Key Features**:
+  - Pre-configured structure for RAG pipelines.
+  - Integration with LangChain’s modular components (e.g., retrievers, LLMs).
+  - Designed for research workflows with extensible agent logic.
+
+- **Metadata**:
+  - **Stars**: 313 | **Forks**: 72
+  - **Last Updated**: 2
 
 ## Use Cases
 

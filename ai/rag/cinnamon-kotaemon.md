@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-28T22:08:34.464947+05:30'
+collected_at: '2026-06-29T01:18:05.177933+05:30'
 published_at: '2026-06-27T19:54:27Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
-- workflows
+- reddit
 stars: 25500
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-28T22:08:34.464947+05:30'
-last_seen: '2026-06-28T22:08:34.464947+05:30'
-last_checked: '2026-06-28T22:08:34.464947+05:30'
+first_seen: '2026-06-29T01:18:05.177933+05:30'
+last_seen: '2026-06-29T01:18:05.177933+05:30'
+last_checked: '2026-06-29T01:18:05.177933+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline in Python, enabling document-based conversational AI with dynamic context retrieval and LLM integration.
+- **RAG-based architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-based conversational interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for contextual responses.
 
-- **Modular Design**: Features a flexible, component-based structure for document ingestion, embedding, retrieval, and response generation, supporting customization of models and workflows.
+- **Modular Python framework**: Built in Python with extensible components for document ingestion, embedding generation, vector storage (e.g., FAISS, Chroma), and LLM integration (e.g., Hugging Face, OpenAI APIs).
 
-- **Open-Source Deployment**: Provides a fully open-source solution with pre-built integrations for popular LLMs, optimized for local or cloud-based document interaction with 25.5k+ GitHub stars.
+- **Open-source deployment**: Supports self-hosting with Docker/Kubernetes, includes pre-configured pipelines for PDFs/Office docs, and offers APIs for custom chatbot integrations.
 
 ## Why It Matters
 

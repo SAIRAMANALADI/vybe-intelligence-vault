@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/terms/
-published_at: '2026-06-26T10:21:12.004311+05:30'
-collected_at: '2026-06-26T10:21:12.004325+05:30'
+published_at: '2026-06-29T01:23:28.232237+05:30'
+collected_at: '2026-06-29T01:23:28.232252+05:30'
 tags:
 - agents
 - benchmark
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:self-serve-subscription-agreement-cloudflare
-first_seen: '2026-06-26T10:21:12.004325+05:30'
-last_seen: '2026-06-26T10:21:12.004325+05:30'
-last_checked: '2026-06-26T10:21:12.004325+05:30'
+first_seen: '2026-06-29T01:23:28.232252+05:30'
+last_seen: '2026-06-29T01:23:28.232252+05:30'
+last_checked: '2026-06-29T01:23:28.232252+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits class actions against Cloudflare, requiring users to waive jury trials and collective legal actions.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for disputes and waives class action rights against Cloudflare, requiring users to accept these terms upon service access or use.
 
-- **Service Restrictions & Compliance**: Prohibits unauthorized sublicensing, reverse engineering, benchmarking disclosures without full replication data, and use of Services for VPN/proxy or processing protected health information without explicit consent.
+- **Service Restrictions & Credential Liability**: Prohibits unauthorized third-party access, reverse engineering, benchmarking disclosure without full replication data, and mandates credential confidentiality; users bear sole responsibility for third-party access risks.
 
-- **Customer Content & Credential Liability**: Grants Cloudflare a sublicensable, royalty-free license to modify Customer Content for service provision, while holding users solely responsible for credential security and third-party access risks.
+- **Customer Content & Network Data Ownership**: Grants Cloudflare a non-exclusive, sublicensable license to process Customer Content for service provision, while retaining all rights to derived Network Data; users must ensure legal compliance and assume liability for content.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:21:12.004311+05:30
+- Published: 2026-06-29T01:23:28.232237+05:30
 
 ## Related Tags
 

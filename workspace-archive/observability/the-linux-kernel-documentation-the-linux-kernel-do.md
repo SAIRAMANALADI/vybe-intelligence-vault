@@ -6,13 +6,14 @@ source_url: https://docs.kernel.org/
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
 local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -23,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Development & Contribution**: The Linux Kernel documentation provides structured guides for kernel development, including the [Development Process](https://docs.kernel.org/process/development-process.html), [Submitting Patches](https://docs.kernel.org/process/submitting-patches.html), and [Maintainer Handbook](https://docs.kernel.org/maintainer/index.html), emphasizing community interaction via `linux-doc@vger.kernel.org`.
+- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides for kernel development, including patch submission (`Submitting patches`), community interaction (`Development process`, `Code of conduct`), and maintainer-specific processes (`Maintainer handbook`).
 
-- **API & Subsystem Documentation**: Core and driver APIs, subsystem
+- **Core & Subsystem APIs**: Comprehensive documentation covers internal APIs such as `Core API`, `Driver APIs`, `Subsystems`, and `Locking mechanisms`, essential for kernel developers interfacing with the
 
 ## Use Cases
 

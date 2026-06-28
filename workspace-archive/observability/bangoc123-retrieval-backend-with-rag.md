@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding models, and retrieval strategies tailored for Vietnamese corpora.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building Retrieval-Augmented Generation (RAG) systems optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies.
 
-- **Modular Python Architecture**: Provides a scalable backend framework in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM interfaces (e.g., Hugging Face Transformers
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval, and LLM integration (e.g., ViT5, PhoBERT) using FastAPI or similar frameworks.
+
+- **Evaluation & Optimizatio
 
 ## Use Cases
 

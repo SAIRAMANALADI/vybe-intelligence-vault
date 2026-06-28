@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
+- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
 
-- **Multi-Framework Architecture**: LangChain agents are built on LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while Deep Agents offer a "batteries-included" alternative with advanced featu
+- **Framework Integration**: LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability via tracing, debugging, and evaluation of agent behavior.
+
+- **Standardi
 
 ## Use Cases
 

@@ -28,9 +28,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM-powered knowledge curation system** (`storm`) autonomously researches topics and synthesizes **full-length reports with inline citations** using iterative retrieval and generation.
-- **Multi-agent architecture** integrates **retrieval-augmented generation (RAG)** with **agentic workflows** for deep, structured research (EMNLP 2024/NAACL contributions).
-- **Python-based framework** supports **scalable knowledge curation**, enabling **topic-specific report generation** with verifiable cita
+- **LLM-powered knowledge curation system** that autonomously researches topics via iterative retrieval and synthesis, producing structured, citation-backed reports.
+- **Agentic RAG framework** integrating multi-agent collaboration (researcher, writer, critic) for deep, iterative exploration of subtopics with adaptive query refinement.
+- **EMNLP 2024/NAACL contributions** with open-source implementation in Python, leveraging retrieval-augmented generation (RAG) for scalable, evidence-grounded kn
 
 ## Use Cases
 

@@ -13,7 +13,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- hackernews
 - models
 - openai
 - paper
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising **document loading**, **chunking**, **embedding/indexing**, **retrieval**, and **generation**, enabling LLMs to answer queries using external, up-to-date data with citations.
-- **Technical Implementation**: Uses **LangChain** for orchestration, **ChromaDB** for vector storage, and **OpenAI's `text-embedding-3-small`** for embeddings, with recursive chunking (512 tokens, 50-token overlap) for semantic preservation.
-- **Production Enhancements**: Req
+- **RAG Pipeline**: A 5-step process consisting of **document loading**, **chunking**, **embedding/indexing** (using ChromaDB), **retrieval** (semantic search via vector similarity), and **generation** (LLM synthesis grounded in retrieved context).
+- **Chunking Strategy**: Documents are split into **512-token chunks with 50-token overlap** using `RecursiveCharacterTextSplitter` to balance semantic coherence and retrieval granularity.
+- **Production Enhancements**: **Cross-encoder re-ranking** (e
 
 ## Use Cases
 

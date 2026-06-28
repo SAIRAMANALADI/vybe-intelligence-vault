@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-28T22:08:44.493698+05:30'
+collected_at: '2026-06-29T01:18:15.183027+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 369
 language: Python
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-28T22:08:44.493698+05:30'
-last_seen: '2026-06-28T22:08:44.493698+05:30'
-last_checked: '2026-06-28T22:08:44.493698+05:30'
+first_seen: '2026-06-29T01:18:15.183027+05:30'
+last_seen: '2026-06-29T01:18:15.183027+05:30'
+last_checked: '2026-06-29T01:18:15.183027+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval methods for enhanced document grounding in LLMs.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated components (e.g., FAISS, Triton Inference Server).
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework for streamlined deployment, containerization, and scalability of the RAG system.
 
-- **Modular Python Framework**: Includes reusable components for document processing, retrieval, and generation, with example configurations for local and cloud-based deployment (e.g., NVIDIA NeMo, RAGAS evaluation).
+- **Python-Based Architecture**: Utilizes Python with libraries like LangChain, FAISS (for vector search), and potentially NVIDIA-accelerated components (e.g., TensorRT-LLM) for optimized performance.
 
 ## Why It Matters
 

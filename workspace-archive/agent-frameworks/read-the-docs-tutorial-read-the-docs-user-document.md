@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml`, `README.rst`, `pyproject.toml`, source code (`lumache.py`), and Sphinx docs in `docs/source/` (including `conf.py` and `index.rst`).
+- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml` (config), `pyproject.toml` (Python metadata), and Sphinx docs in `docs/source/` (`.rst`/`.py` sources).
 
-- **Account Integration**: Sign-up via GitHub OAuth grants elevated permissions for webhooks and automated workflows; email verification finalizes account creation.
+- **Automated Builds**: Triggered via GitHub webhooks; logs accessible via project dashboard; supports PDF/EPUB/HTML outputs with versioning via `.readthedocs.yaml`.
 
-- **Automated Builds**: Initial build triggered post-project creation; logs accessible via "Your documentation is buildi
+- **Integration Workflow**: OAuth-based GitHub auth for Read the Docs; project imports via dashboard; builds triggered on `main` branch pushes or PRs
 
 ## Use Cases
 

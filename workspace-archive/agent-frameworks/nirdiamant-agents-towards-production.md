@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building production-grade GenAI agents, including deployment strategies and enterprise-grade considerations.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on scalability and robustness.
 
-- **Multi-technology integration**: Demonstrates agentic AI systems using frameworks like LangGraph, MCP, and multi-agent architectures, with practical implementations in Python and Jupyter Notebooks.
+- **Multi-Technology Integration**: Demonstrates integration with key frameworks and tools including LangGraph, MCP, RAG, and multi-agent systems, alongside MLOps and observability practices for production environments.
 
-- **MLOps and observability focus**: Includes tutorials on MLOps pipe
+- **Python & Jupyter Notebook-Based**: Delivered entirely
 
 ## Use Cases
 

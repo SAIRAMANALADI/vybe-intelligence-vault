@@ -14,13 +14,14 @@ collected_at: '2026-06-28T22:07:23.588403+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:itsthelore/wayfinder-router
 first_seen: '2026-06-28T10:21:00.235564+05:30'
 last_seen: '2026-06-28T22:07:23.588403+05:30'
 last_checked: '2026-06-28T22:07:23.588403+05:30'
 health_score: 100
 ---
+
 
 # Wayfinder Router: deterministic routing of queries between local and hosted LLM
 

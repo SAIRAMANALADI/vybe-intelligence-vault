@@ -8,7 +8,7 @@ local_vault_path: ai/rag/introduction-chroma-docs.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Introduction - Chroma Docs
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Multi-modal vector database**: Chroma supports storage and retrieval of embeddings across text, images, audio, and other modalities with metadata tagging and filtering.
-
-- **Hybrid search capabilities**: Combines dense, sparse, and hybrid vector search with full-text/regex filtering and metadata-based query constraints.
-
-- **Open-source & scalable**: Apache 2.0-licensed, deployable locally, self-hosted, or via Chroma Cloud with SDK integration for AI-driven applications.
+- **Multi-model vector database**: Supports dense, sparse, and hybrid vector search with metadata filtering, enabling retrieval across text, images, audio, and other modalities.
+- **Flexible embedding integration**: Compatible with any embedding model (e.g., OpenAI, Cohere, Hugging Face) and supports full-text/regex search without embeddings.
+- **Open-source & scalable**: Apache 2.0-licensed, deployable locally, self-hosted, or via Chroma Cloud with serverless, zero-ops scaling.
 
 ## Use Cases
 

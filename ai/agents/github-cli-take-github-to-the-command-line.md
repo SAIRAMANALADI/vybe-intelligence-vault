@@ -4,19 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://cli.github.com
-published_at: '2026-06-28T15:09:06.583399+05:30'
-collected_at: '2026-06-28T15:09:06.583413+05:30'
+published_at: '2026-06-29T01:23:08.117273+05:30'
+collected_at: '2026-06-29T01:23:08.117288+05:30'
 tags:
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:github-cli-take-github-to-the-command-line
-first_seen: '2026-06-28T15:09:06.583413+05:30'
-last_seen: '2026-06-28T15:09:06.583413+05:30'
-last_checked: '2026-06-28T15:09:06.583413+05:30'
+first_seen: '2026-06-29T01:23:08.117288+05:30'
+last_seen: '2026-06-29T01:23:08.117288+05:30'
+last_checked: '2026-06-29T01:23:08.117288+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, enabling operations like issue/PR management, releases, and repository viewing without leaving the command line.
+- **GitHub CLI (`gh`)** is a free, open-source tool that integrates GitHub workflows directly into the terminal, supporting commands for issues (`gh issue list`), pull requests (`gh pr status/checkout/create/checks`), releases (`gh release create`), and repository inspection (`gh repo view`), with extensibility via aliases (`gh alias set`).
 
-- **Core commands** include `gh issue list`, `gh pr status/checkout/create/checks`, `gh release create`, `gh repo view`, and `gh alias set`, with support for scripting via GitHub API calls and custom command aliases.
+- **Installation** is platform-specific: macOS (`brew install gh`), Windows (`winget install --id GitHub.cli`), and Linux (via `apt`, `dnf`, `zypper`, or direct binary downloads for `.deb`, `.rpm`, or `.tar.gz`).
 
-- **Installation** is supported across platforms via package managers (e.g., `brew install gh`, `winget`, `apt`, `dnf`) or direct binary downloads, with enterprise compatibility for GitHub Enterprise Server.
+- **Enterprise compatibility** is supported, allowing connection to GitHub Enterprise Server, while **GitHub Copilot CLI** integration enables AI-assisted task automation within the terminal workflow.
 
 ## Why It Matters
 
@@ -38,13 +39,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T15:09:06.583399+05:30
+- Published: 2026-06-29T01:23:08.117273+05:30
 
 ## Related Tags
 
 - agents
 - producthunt
 - reddit
+- scripts
 - web-crawled
 - workflows
 

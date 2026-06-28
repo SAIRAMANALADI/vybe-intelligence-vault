@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://workers.cloudflare.com
-published_at: '2026-06-26T10:14:54.153185+05:30'
-collected_at: '2026-06-26T10:14:54.153200+05:30'
+published_at: '2026-06-29T01:20:56.474632+05:30'
+collected_at: '2026-06-29T01:20:56.474645+05:30'
 tags:
 - agents
 - frontend_ui
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cloudflare-workers-global-serverless-functions-pla
-first_seen: '2026-06-26T10:14:54.153200+05:30'
-last_seen: '2026-06-26T10:14:54.153200+05:30'
-last_checked: '2026-06-26T10:14:54.153200+05:30'
+first_seen: '2026-06-29T01:20:56.474645+05:30'
+last_seen: '2026-06-29T01:20:56.474645+05:30'
+last_checked: '2026-06-29T01:20:56.474645+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Global, zero-cold-start serverless execution**: Cloudflare Workers deploy to 330+ edge locations, scale automatically from zero to millions of requests, and eliminate cold starts by running on lightweight isolates (v8-based) instead of containers, ensuring sub-10ms startup latency.
+- **Global serverless execution**: Cloudflare Workers deploy to 330+ edge locations by default, enabling sub-100ms latency via isolates (V8-based lightweight execution environments) with automatic scaling from zero to millions of requests without cold starts or manual pre-warming.
 
-- **Multi-language, pay-per-use compute with integrated storage**: Supports JavaScript/TypeScript, Python, and Rust; charges only for CPU time (not idle I/O), with built-in bindings for D1 (SQL), KV (key-value), R2 (object storage), and Workers AI for on-the-fly image generation.
+- **Cost-efficient compute model**: Pricing is based on actual CPU time consumed ($0.02 per million CPU ms) rather than idle time or provisioned capacity, with free tier offering 100k requests/day and 10ms CPU time per request.
 
-- **Unified platform for full-stack edge applications**: Enables seamless deployment of APIs, web apps (React/Vue/Next.js), authentication, rate limiting, and background jobs (via Queues/Cron Triggers), all managed through Git integrations with instant rollback and gradual rollout capabilities.
+- **Integrated ecosystem**: Supports multi-language development (JS/TS, Python, Rust) with bindings for D1 (SQL), KV (key-value), Workers AI (edge ML), Queues (async processing), and Durable Objects (stateful compute), enabling full-stack applications without infrastructure management.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:14:54.153185+05:30
+- Published: 2026-06-29T01:20:56.474632+05:30
 
 ## Related Tags
 

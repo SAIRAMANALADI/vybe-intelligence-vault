@@ -6,7 +6,7 @@ source_url: https://github.com/steel-dev/awesome-web-agents
 resource_id: github:steel-dev/awesome-web-agents
 local_vault_path: ai/agents/steel-dev-awesome-web-agents.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository (`steel-dev/awesome-web-agents`) aggregating tools, frameworks, and benchmarks for AI web agent development, including browser automation, LLM integration, and evaluation methodologies.
-- **Technical Scope**: Focuses on Python-based solutions, covering topics like AI agents, LLM benchmarking, and automation frameworks for web interaction.
-- **Active Maintenance**: Last updated in 2026, with 1,487 stars and 192 forks, indicating ongoing community en
+- **Curated Collection**: Repository hosting a structured, community-driven list of tools, frameworks, and resources for developing AI web agents, including browser automation and LLM benchmarking utilities.
+- **Technical Scope**: Focuses on Python-based solutions, covering AI agents, LLMs, and automation frameworks with emphasis on performance and benchmarking.
+- **Metadata**: 1,487 stars, 192 forks, last updated June 28, 2026; categorized under `ai`, `ai-agents`, `awesome-list`, and related to
 
 ## Use Cases
 

@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#minify
-published_at: '2026-06-27T19:43:54.891205+05:30'
-collected_at: '2026-06-27T19:43:54.891221+05:30'
+source_url: https://esbuild.github.io/api/#target
+published_at: '2026-06-29T01:24:09.896146+05:30'
+collected_at: '2026-06-29T01:24:09.896160+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-06-27T19:43:54.891221+05:30'
-last_seen: '2026-06-27T19:43:54.891221+05:30'
-last_checked: '2026-06-27T19:43:54.891221+05:30'
+first_seen: '2026-06-29T01:24:09.896160+05:30'
+last_seen: '2026-06-29T01:24:09.896160+05:30'
+last_checked: '2026-06-29T01:24:09.896160+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **API Language Support**: Esbuild provides APIs in CLI, JavaScript, and Go with identical core concepts; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` syntax for boolean, single-value, and multi-value flags respectively, while shell-specific argument interpretation can be avoided using JS/Go APIs.
+- **API Access & Syntax**: Supports CLI, JavaScript, and Go with identical concepts; CLI flags use `--foo`, `--foo=bar`, or `--foo:bar` for boolean, single-value, or multi-value parameters respectively, while JavaScript/Go APIs use explicit objects.
 
-- **Build & Transform APIs**: The primary `build` API bundles entry points to the filesystem with options like `--bundle`, `--outdir`, and incremental builds via `context` (watch/serve/rebuild modes), whereas the `transform` API operates on in-memory strings (e.g., minification, TS→JS) without filesystem dependencies.
+- **Build & Transform APIs**: Primary `build` API processes entry points with options like bundling (`--bundle`), outdir, and incremental builds (watch/serve/rebuild modes); `transform` API processes in-memory code strings (e.g., TS→JS) with isolated, file-system-free execution.
 
-- **Context Management & Options**: Long-running `context` objects in JS/Go enable shared build options and incremental rebuilds; `dispose()` releases resources, and both APIs support extensive options across input, output, path resolution, optimization, and source maps (e.g., `minify`, `define`, `sourcemap`).
+- **Context Management**: Long-running `context` objects enable shared build options, incremental rebuilds, and combined modes (e.g., watch+serve for live reloading); `dispose()` releases resources and halts active processes.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T19:43:54.891205+05:30
+- Published: 2026-06-29T01:24:09.896146+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#minify
+Original source: https://esbuild.github.io/api/#target

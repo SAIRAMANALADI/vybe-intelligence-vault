@@ -6,16 +6,17 @@ source_url: https://www.deepset.ai/deepset-studio
 resource_id: blog:haystack-enterprise-platform-trial-sign-up
 local_vault_path: ai/rag/haystack-enterprise-platform-trial-sign-up.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - agents
 - dataset
 - hackernews
 - rag
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** provides a free trial enabling users to deploy production-grade AI pipelines (RAG, agents) via a visual, code-aligned editor with built-in debugging and collaboration tools.
+- **Haystack Enterprise Platform** provides a production-ready pipeline template library for rapid deployment of AI systems, including RAG, agents, and custom workflows, with a visual, code-aligned editor for pipeline design and debugging.
 
-- **Core features** include a pipeline template library, custom component integration (e.g., MCP), secure cloud infrastructure, and support for metadata extraction, indexing, and retrieval accuracy optimization.
-
-- **Industry adoption** by enterprises (e.g., Airbus, The Economist) demonstr
+- **Free trial** enables users to upload proprietary or sample datasets, test indexing, metadata extraction, and retrieval accuracy, while leveraging secure built-in cloud infrastructure and Haystack’s integration library (including MCP and custom components)
 
 ## Use Cases
 

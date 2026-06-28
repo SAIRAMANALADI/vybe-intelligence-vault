@@ -2,7 +2,7 @@
 title: PEP 8 – Style Guide for Python Code | peps.python.org
 archive_category: ai-browser-computer-use
 source_category: ai/rag
-source_url: https://peps.python.org/pep-0008/
+source_url: https://www.python.org/dev/peps/pep-0008/
 resource_id: blog:pep-8-style-guide-for-python-code-peps-python-org
 local_vault_path: ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md
 quality_score: 70
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Indentation & Line Breaks**: Use 4 spaces per indentation level; align continuation lines vertically or with a *hanging indent* (no arguments on first line). Break binary operators before the operator (Knuth style) for readability, and limit lines to 79 chars (72 for docstrings/comments), using parentheses for implicit continuation.
-
-- **Tabs & Encoding**: Spaces are the preferred indentation method; tabs are only allowed for consistency with existing tab-indented code. Source files must use
+- **Indentation & Line Continuation**: Use 4 spaces per level; continuation lines must align vertically or via hanging indent (no arguments on first line). Closing delimiters may align under first non-whitespace character or start of multiline construct.
+- **Line Length & Wrapping**: Limit lines to 79 chars (72 for docstrings/comments); wrap long lines using implicit continuation in parentheses/brackets/braces. Prefer breaking before binary operators for readability (Knuth’s convention).
+- **Bla
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://peps.python.org/pep-0008/
+Original source URL: https://www.python.org/dev/peps/pep-0008/
 
 ## Local Vault File
 

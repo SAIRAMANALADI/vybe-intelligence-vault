@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-06-28T22:08:49.515065+05:30'
+collected_at: '2026-06-29T01:18:20.295324+05:30'
 published_at: '2026-06-28T15:30:34Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
+- models
 - rag
 - workflows
 stars: 1459
@@ -19,9 +21,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-22T15:57:16Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-06-28T22:08:49.515065+05:30'
-last_seen: '2026-06-28T22:08:49.515065+05:30'
-last_checked: '2026-06-28T22:08:49.515065+05:30'
+first_seen: '2026-06-29T01:18:20.295324+05:30'
+last_seen: '2026-06-29T01:18:20.295324+05:30'
+last_checked: '2026-06-29T01:18:20.295324+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering generative AI, embeddings, and knowledge base integrations.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, enabling quick prototyping and evaluation.
 
-- **Multi-Model & Tool Support**: Includes demonstrations for Amazon Titan models and integrates with LangChain for RAG (Retrieval-Augmented Generation) workflows.
+- **Multi-Model & Use Case Coverage**: Includes implementations for Amazon Titan, embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation) workflows using LangChain.
 
-- **AWS Service Integration**: Focuses on practical implementations of Amazon Bedrock within AWS ecosystems, with last update timestamp (2026-06-28) indicating ongoing maintenance.
+- **AWS Integration & Best Practices**: Demonstrates AWS-native patterns for deploying, fine-tuning, and optimizing Bedrock models with tools like knowledge bases and LangChain for production-grade AI applications.
 
 ## Why It Matters
 

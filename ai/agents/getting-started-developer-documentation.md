@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.llamaindex.ai/llamacloud/getting_started
-published_at: '2026-06-26T15:28:10.474567+05:30'
-collected_at: '2026-06-26T15:28:10.474581+05:30'
+published_at: '2026-06-29T01:24:11.310690+05:30'
+collected_at: '2026-06-29T01:24:11.310700+05:30'
 tags:
 - agents
 - meta-ai
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:getting-started-developer-documentation
-first_seen: '2026-06-26T15:28:10.474581+05:30'
-last_seen: '2026-06-26T15:28:10.474581+05:30'
-last_checked: '2026-06-26T15:28:10.474581+05:30'
+first_seen: '2026-06-29T01:24:11.310700+05:30'
+last_seen: '2026-06-29T01:24:11.310700+05:30'
+last_checked: '2026-06-29T01:24:11.310700+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Custom Agent Integration**: LlamaSheets enables the deployment of custom agents to process spreadsheet data, allowing for tailored data extraction, transformation, and analysis workflows beyond default capabilities.
+- **Custom Agent Integration**: LlamaSheets enables the deployment of custom agents to process extracted spreadsheet data, allowing for tailored data analysis pipelines via API or SDK.
 
-- **Workflow Automation**: Supports the creation of automated workflows that chain multiple agents, enabling sequential or parallel processing of spreadsheet data for complex analytical pipelines.
+- **Workflow Automation**: Supports the creation of automated workflows that chain multiple processing steps (e.g., cleaning, transformation, aggregation) for scalable, repeatable data operations.
 
-- **Extensibility via APIs**: Provides programmatic access to extracted data and agent outputs, facilitating integration with external tools, databases, or downstream AI/ML models for enhanced data utilization.
+- **Extensible Architecture**: Facilitates integration with external tools (e.g., Python scripts, cloud services) to enhance functionality, enabling advanced analytics, ML model inputs, or real-time processing.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-26T15:28:10.474567+05:30
+- Published: 2026-06-29T01:24:11.310690+05:30
 
 ## Related Tags
 

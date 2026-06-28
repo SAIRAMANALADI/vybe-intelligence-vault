@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
-- **Technical stack**: Primarily implemented in Jupyter Notebooks, covering agentic RAG, coding, and framework development.
-- **Ecosystem**: Covers agentic AI engineering, including memory management, reasoning loops, and workflow automation (2,745 stars, 603 forks).
+- **Multi-Agent Systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
+- **Agentic AI Development**: Contains Jupyter Notebooks covering agentic frameworks, memory management, and RAG (Retrieval-Augmented Generation) integration.
+- **Technical Topics**: Covers agentic coding, engineering, and workflow automation with 2,745 stars and 603 forks as of last update (2026-06-28).
 
 ## Use Cases
 

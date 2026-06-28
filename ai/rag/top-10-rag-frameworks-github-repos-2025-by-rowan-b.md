@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-28T22:08:05.376913+05:30'
-collected_at: '2026-06-28T22:08:05.376927+05:30'
+published_at: '2026-06-29T01:17:36.761455+05:30'
+collected_at: '2026-06-29T01:17:36.761468+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-28T22:08:05.376927+05:30'
-last_seen: '2026-06-28T22:08:05.376927+05:30'
-last_checked: '2026-06-28T22:08:05.376927+05:30'
+first_seen: '2026-06-29T01:17:36.761468+05:30'
+last_seen: '2026-06-29T01:17:36.761468+05:30'
+last_checked: '2026-06-29T01:17:36.761468+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), multiple LMs (BERT, RoBERTa, DPR), and scalable pipelines for QA, retrieval, and summarization.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable pipelines for QA/summarization, and integration with BERT/RoBERTa/DPR models for production-ready RAG systems.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, vector DB integration, and custom embedding model support for rapid prototyping.
+- **RAGFlow (infiniflow)**: Open-source RAG engine with deep document understanding, pre-built RAG pipelines, and vector database integration, emphasizing simplicity and efficiency for rapid prototyping and deployment.
 
-- **Canopy (Pinecone-io)**: RAG framework optimized for Pinecone’s vector DB, featuring streaming/real-time updates, advanced query reranking, and scalable knowledge base management.
+- **FlashRAG (RUC-NLPIR)**: Lightweight Python toolkit optimized for efficient RAG research, featuring distributed processing, benchmarking tools, and retrieval algorithms designed for high-speed, scalable applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:08:05.376913+05:30
+- Published: 2026-06-29T01:17:36.761455+05:30
 
 ## Related Tags
 

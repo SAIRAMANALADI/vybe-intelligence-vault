@@ -12,20 +12,20 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [Apple Watch - Apple](https://www.apple.com/watch/) (tutorial - USEFUL Tier)
 - [Developer Hub | Twilio](https://www.twilio.com/en-us/developers) (tutorial - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
-- [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases) (dataset - USEFUL Tier)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing) (tutorial - USEFUL Tier)
-- [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/) (prompt - USEFUL Tier)
+- [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/) (tutorial - USEFUL Tier)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (template - USEFUL Tier)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [Releases · langfuse/langfuse · GitHub](https://github.com/langfuse/langfuse/releases)
 - [Pricing · Plans for every developer · GitHub](https://github.com/pricing)
 - [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
+- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-06-28 22:24 IST*
+*Last updated: 2026-06-29 01:33 IST*

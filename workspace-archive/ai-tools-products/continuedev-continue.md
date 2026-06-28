@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous code generation, refactoring, and debugging via CLI or IDE integration.
-- **Modular architecture** supports extensibility with custom models, tools, and workflows for tailored developer workflows.
-- **Active development** with 34.5k+ GitHub stars, frequent updates (last commit: 2026-06-28), and 4.9k+ forks indicating strong community adoption.
+- **TypeScript-based open-source coding agent** enabling AI-assisted development with CLI integration for real-time code generation, editing, and debugging.
+
+- **Modular architecture** supporting extensible plugins and customizable workflows for integration with various IDEs, LLMs, and developer tools.
+
+- **Active community-driven development** with 34.5K+ GitHub stars, frequent updates, and support for multi-language codebase interactions.
 
 ## Use Cases
 

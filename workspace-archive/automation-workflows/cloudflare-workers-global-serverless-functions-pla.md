@@ -6,7 +6,7 @@ source_url: https://workers.cloudflare.com
 resource_id: blog:cloudflare-workers-global-serverless-functions-pla
 local_vault_path: ai/rag/cloudflare-workers-global-serverless-functions-pla.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Global, zero-cold-start serverless execution**: Cloudflare Workers deploy to 330+ edge locations, scale automatically from zero to millions of requests, and eliminate cold starts by running on lightweight isolates (v8-based) instead of containers, ensuring sub-10ms startup latency.
+- **Global serverless execution**: Cloudflare Workers deploy to 330+ edge locations by default, enabling sub-100ms latency via isolates (V8-based lightweight execution environments) with automatic scaling from zero to millions of requests without cold starts or manual pre-warming.
 
-- **Multi-language, pay-per-use compute with integrated storage**: Supports JavaScript/TypeScript, Python, and Rust; charges only for CPU time (not idle I/O), with built-in bindings for D1 (SQL), KV (key-value),
+- **Cost-efficient compute model**: Pricing is based on actual CPU time consumed ($0.02 per million CPU ms) rather than idle time or provisioned capacity, with free tier offering 100k requests/day and 10ms CPU time pe
 
 ## Use Cases
 

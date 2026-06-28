@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-28T22:09:49.499600+05:30'
+collected_at: '2026-06-29T01:19:20.246234+05:30'
 published_at: '2026-06-28T07:15:39Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-28T22:09:49.499600+05:30'
-last_seen: '2026-06-28T22:09:49.499600+05:30'
-last_checked: '2026-06-28T22:09:49.499600+05:30'
+first_seen: '2026-06-29T01:19:20.246234+05:30'
+last_seen: '2026-06-29T01:19:20.246234+05:30'
+last_checked: '2026-06-29T01:19:20.246234+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces `MemGraphRAG`, a novel framework leveraging memory-augmented multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning.
+- **Memory-based Multi-Agent System**: Introduces MemGraphRAG, a novel framework leveraging memory-augmented multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning and knowledge retrieval.
 
-- **Graph Construction & Ontology Integration**: Implements automated graph construction with ontology-driven knowledge structuring, facilitating efficient subgraph retrieval and context-aware generation for complex queries.
+- **Graph Construction & Ontology Integration**: Implements dynamic graph construction with ontology-driven knowledge structuring, enabling efficient multi-hop reasoning and semantic alignment in RAG pipelines.
 
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for agent-memory management, graph operations, and ontology alignment, optimized for scalability and adaptability.
+- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, supporting graph-based RAG with memory-augmented agents for KDD 2026 research applications.
 
 ## Why It Matters
 

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unweight**: Lossless MLP weight compression system achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Introduces a lossless MLP weight compression system for LLM inference, achieving 1.44x compression on BF16 MLP weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** algorithm identifiers in **X.509 Public Key Infrastructure (PKI)** for post-quantum cryptography.
+- **RFC 9935**: Specifies algorithm identifiers for ML-KEM (Module-Lattice-Based Key-Encapsulation Mechanism) in X.509 PKI, standardizing cryptographic primitives for post-quantum secure key exchange.
 
-- **Research Focus Areas**: Cloudflare’s research spans **privacy-enhancing technologies**, **cryptographic/security meth
+- **Research Focus Areas**: Cloudflare’s research spans privacy-enhancing technologie
 
 ## Use Cases
 

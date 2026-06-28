@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-28T22:13:17.920219+05:30'
+collected_at: '2026-06-29T01:22:12.092381+05:30'
 published_at: '2026-06-27T13:39:32Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-25T16:37:33Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-28T22:13:17.920219+05:30'
-last_seen: '2026-06-28T22:13:17.920219+05:30'
-last_checked: '2026-06-28T22:13:17.920219+05:30'
+first_seen: '2026-06-29T01:22:12.092381+05:30'
+last_seen: '2026-06-29T01:22:12.092381+05:30'
+last_checked: '2026-06-29T01:22:12.092381+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) evaluates text embeddings across 58 datasets spanning 11 tasks including retrieval, clustering, classification, and reranking, supporting 100+ languages and multimodal inputs.
-- **Modular Architecture**: Implements a unified Python framework with standardized APIs for embedding model integration, task-specific evaluation pipelines, and extensible support for custom datasets and metrics.
-- **State-of-the-Art Tracking**: Provides leaderboards for comparing models (e.g., Sentence-BERT, neural search) across tasks, with automated updates and support for low-resource NLP and bitext mining evaluations.
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 diverse tasks** (e.g., retrieval, clustering, STS, reranking) in **100+ languages**, supporting **multilingual and multimodal** evaluation with standardized metrics.
+
+- **Modular & Extensible Framework**: Implements a **unified Python API** for benchmarking Sentence-BERT (SBERT) and other embedding models, with **automated dataset handling** and **leaderboard integration** for fair comparisons.
+
+- **State-of-the-Art Performance Tracking**: Provides **pre-trained model evaluations**, **low-resource language support**, and **cross-modal benchmarks** (e.g., text-image retrieval), enabling reproducible research in neural search and semantic embeddings.
 
 ## Why It Matters
 

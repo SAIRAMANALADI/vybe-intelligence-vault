@@ -6,7 +6,7 @@ source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
 resource_id: github:muhammadusmangm/claude-code-best-practices
 local_vault_path: ai/agents/muhammadusmangm-claude-code-best-practices.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -14,7 +14,6 @@ tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - shell
 - workflows
 selection_reason:
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Includes CLI tools, MCP (Model Context Protocol) integrations, and LLM (Large Language Model) optimization techniques tailored for Anthropic's Claude Code.
-- **Maintenance & Updates**: Last updated on **2026-06-27**, with 56 stars and 10 forks, indicating active community eng
+- **Setup & Configuration**: Repository provides structured guidelines for initializing and configuring Claude Code, including `CLAUDE.md` templates for standardized project interactions and environment setup.
+
+- **Multi-Agent & Workflow Patterns**: Implements optimized workflows and multi-agent collaboration patterns to enhance AI-driven development efficiency, including cost-saving strategies for LLM interactions.
+
+- **Cost Optimization & MCP Integration**: Focuses on minimizing operational co
 
 ## Use Cases
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-28T22:08:39.391391+05:30'
+collected_at: '2026-06-29T01:18:10.085175+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
-- meta-ai
 - models
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-28T22:08:39.391391+05:30'
-last_seen: '2026-06-28T22:08:39.391391+05:30'
-last_checked: '2026-06-28T22:08:39.391391+05:30'
+first_seen: '2026-06-29T01:18:10.085175+05:30'
+last_seen: '2026-06-29T01:18:10.085175+05:30'
+last_checked: '2026-06-29T01:18:10.085175+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data flows.
-- **Streamlit-Powered UI**: Leverages Streamlit for interactive web-based visualization, facilitating real-time debugging and analysis of RAG components (e.g., retrieval, generation, and context integration).
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines and integration with LLM frameworks (e.g., LangChain, LlamaIndex).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling users to analyze and debug RAG workflows interactively.
+
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing dynamic exploration of RAG components (e.g., retrieval, generation) with real-time updates and customizable visualizations.
+
+- **Python-Based & Modular**: Built in Python with modular design, supporting extensibility for custom RAG pipelines, retrieval strategies, and visualization techniques (e.g., embedding projections, attention maps).
 
 ## Why It Matters
 

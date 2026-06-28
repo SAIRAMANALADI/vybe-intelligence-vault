@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloudflare’s Connectivity Cloud** delivers 60+ integrated services across networking, security, and performance, including SASE (Zero Trust, SWG, SD-WAN), application security (L7 DDoS, WAF, API Shield), and performance optimization (CDN, DNS, load balancing).
-
-- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI, AI Gateway), storage (R2, D1), and real-time media (Realtime, Images) with global edge deployment and pay-as-you-go pricing.
-
-- **Enterprise-Grade Secu
+- **Cloudflare's Connectivity Cloud** delivers over 60 integrated networking, security, and performance services (e.g., CDN, DDoS protection, Zero Trust) via a unified global network.
+- **Developer Platform** supports serverless compute (Workers), AI/ML (Workers AI), storage (R2, D1), and observability tools with pay-as-you-go pricing.
+- **Enterprise-Grade Security** includes L3/4 & L7 DDoS mitigation, SASE (Cloudflare One), API security (API Shield), and post-quantum cryptography compliance.
 
 ## Use Cases
 

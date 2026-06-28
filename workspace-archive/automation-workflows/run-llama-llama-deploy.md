@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama/llama_deploy
 resource_id: github:run-llama/llama_deploy
 local_vault_path: ai/rag/run-llama-llama-deploy.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework for Agentic Workflows**: Python-based framework designed to deploy and manage multi-agent systems and workflows in production environments.
-
-- **Integration with LlamaIndex**: Leverages LlamaIndex for LLM-powered applications, enabling structured data interaction and retrieval within agentic workflows.
-
-- **Production-Ready Deployment**: Supports scalable, distributed deployment of agentic systems with tools for workflow orchestration, state management, and multi-agent coordination
+- **Framework Overview**: Python-based framework for deploying agentic workflows to production, leveraging LLM integration (via LlamaIndex) and multi-agent architectures.
+- **Key Features**: Supports scalable deployment of autonomous agents, workflow orchestration, and production-grade infrastructure for LLM-driven applications.
+- **Ecosystem Integration**: Compatible with LlamaIndex for data indexing and retrieval, enabling advanced RAG and agentic capabilities in deployed workflows.
 
 ## Use Cases
 

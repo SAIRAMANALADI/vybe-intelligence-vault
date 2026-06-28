@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
-published_at: '2026-06-27T16:39:19.076525+05:30'
-collected_at: '2026-06-27T16:39:19.076533+05:30'
+published_at: '2026-06-29T01:22:21.177096+05:30'
+collected_at: '2026-06-29T01:22:21.177111+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-extraction-software-with-confidence-sc
-first_seen: '2026-06-27T16:39:19.076533+05:30'
-last_seen: '2026-06-27T16:39:19.076533+05:30'
-last_checked: '2026-06-27T16:39:19.076533+05:30'
+first_seen: '2026-06-29T01:22:21.177111+05:30'
+last_seen: '2026-06-29T01:22:21.177111+05:30'
+last_checked: '2026-06-29T01:22:21.177111+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Field-level confidence scoring**: Provides granular, per-column certainty metrics for extracted data, enabling reliability assessment of individual fields in structured outputs.
+- **Field-level confidence scoring**: Quantifies extraction certainty per field with granular confidence metrics for precise data validation.
 
-- **Layout + context-aware parsing**: Uses advanced reasoning to interpret spatial document structures (e.g., nested tables, multi-column layouts) for high-fidelity extraction of names, dates, numbers, and decisions.
+- **Layout + context-aware parsing**: Uses reasoning-based extraction to handle complex spatial layouts, nested tables, and image data with superior accuracy.
 
-- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection of fields, with configurable parsing modes to balance cost and accuracy for diverse document types (e.g., invoices, contracts, call transcripts).
+- **Iterative schema development**: Supports custom schema definition or auto-detection of fields, enabling adaptive extraction workflows for diverse document types.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:39:19.076525+05:30
+- Published: 2026-06-29T01:22:21.177096+05:30
 
 ## Related Tags
 

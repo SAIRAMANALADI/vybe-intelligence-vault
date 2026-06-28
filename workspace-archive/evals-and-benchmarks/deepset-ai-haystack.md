@@ -1,8 +1,8 @@
 ---
-title: deepset-ai/haystack
+title: deepset-ai/haystack · Discussions · GitHub
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack?source=post_page
+source_url: https://github.com/deepset-ai/haystack/discussions
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -10,12 +10,19 @@ archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- anthropic
+- hackernews
+- rag
+- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# deepset-ai/haystack
+# deepset-ai/haystack · Discussions · GitHub
 
 ## Why This Is In The Archive
 
@@ -28,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Haystack GitHub Repository**: Open-source framework by deepset-ai for building RAG pipelines, with 25.8k stars, 2.9k forks, and active development (82 issues, 20 PRs).
 
-- **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging transformers and PyTorch for advanced NLP tasks.
+- **Community Tools & Discussions**: Active discussions on debugging retrieval failures, RAG quality, and security (e.g., AgentShield for runtime security, Haystack Diagnostics Engine for pipeline validation).
 
-- **Open-Source Python Framework**: Implements a context-engineered architecture optimized
+- **Technical Focus Areas**: Recent community contributions include async execution bridges, memory guard mechanisms
 
 ## Use Cases
 
@@ -42,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack?source=post_page
+Original source URL: https://github.com/deepset-ai/haystack/discussions
 
 ## Local Vault File
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-06-28T22:12:33.410656+05:30'
-collected_at: '2026-06-28T22:12:33.410673+05:30'
+published_at: '2026-06-29T01:23:16.336363+05:30'
+collected_at: '2026-06-29T01:23:16.336378+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-06-28T22:12:33.410673+05:30'
-last_seen: '2026-06-28T22:12:33.410673+05:30'
-last_checked: '2026-06-28T22:12:33.410673+05:30'
+first_seen: '2026-06-29T01:23:16.336378+05:30'
+last_seen: '2026-06-29T01:23:16.336378+05:30'
+last_checked: '2026-06-29T01:23:16.336378+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript apps, including GPU acceleration options.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript, including GPU acceleration for performance-critical workloads.
 
-- **Storage & Resource Management**: Spaces supports disk usage monitoring, custom domain configuration, and ZeroGPU mode for cost-efficient deployments, with detailed storage and GPU upgrade documentation.
+- **Integration & Customization**: Supports dependency management, GitHub Actions for CI/CD, custom domains, and embedding via API endpoints; also allows Dockerfile-based deployments for arbitrary environments.
 
-- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth sign-in, MCP server integration, and embedding Spaces as API endpoints or agent tools for advanced workflows.
+- **Storage & Performance**: Provides disk usage tracking, ZeroGPU mode for cost-efficient inference, and configurable hardware upgrades (GPU/TPU) for scalable ML demonstrations.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:12:33.410656+05:30
+- Published: 2026-06-29T01:23:16.336363+05:30
 
 ## Related Tags
 

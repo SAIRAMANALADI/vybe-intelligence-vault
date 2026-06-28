@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks (e.g., coding, debugging, project management) in a controlled, reproducible setting.
-
-- **Technical Stack**: Python-based implementation with modular agent architectures, task generation, and evaluation metrics for assessing LLM performance in real-world software development workflows.
-
-- **Research Utility**: Open-source repository designed for AI research, enabling systematic
+- **Benchmark Framework**: Simulated software company environment for evaluating AI agents on complex, multi-step tasks.
+- **Technical Stack**: Python-based implementation with focus on agent orchestration, task decomposition, and performance metrics.
+- **Research Utility**: Designed for LLM-driven agent research, enabling systematic comparison of agent capabilities in software development workflows.
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-28T22:10:39.506416+05:30'
+collected_at: '2026-06-29T01:20:10.282395+05:30'
 published_at: '2026-06-28T15:57:44Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 515
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-28T22:10:39.506416+05:30'
-last_seen: '2026-06-28T22:10:39.506416+05:30'
-last_checked: '2026-06-28T22:10:39.506416+05:30'
+first_seen: '2026-06-29T01:20:10.282395+05:30'
+last_seen: '2026-06-29T01:20:10.282395+05:30'
+last_checked: '2026-06-29T01:20:10.282395+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., React, Angular, NestJS, Spring Boot) and programming languages (e.g., Kotlin, Go, Dart).
+- **Multi-Language Best Practices Repository**: Curated collection of coding standards and best practices for TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and JavaScript frameworks (React, Next.js, NestJS, Angular) to guide AI agents in framework-specific development.
 
-- **Key Features**: Includes language/framework-specific guidelines, cursor rules, and agentic AI practices to ensure AI agents adhere to optimized coding standards.
+- **Agent-Oriented Standards**: Structured guidelines for AI agents to adhere to language/framework-specific conventions, including cursor rules, Android/iOS development standards, and React Native best practices.
 
-- **Metadata**: 515 stars, 149 forks, last updated June 28, 2026; topics span agentic AI, mobile (Android/iOS), and web (React, Next.js) development.
+- **Active Maintenance & Community Engagement**: Last updated June 2026, with 515 stars and 149 forks, indicating ongoing community contribution and relevance for AI-driven development workflows.
 
 ## Why It Matters
 

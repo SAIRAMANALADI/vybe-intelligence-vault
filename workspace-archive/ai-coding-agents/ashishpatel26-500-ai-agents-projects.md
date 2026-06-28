@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Use Cases**: Repository contains 500+ practical AI agent implementations across industries (healthcare, finance, education, retail) with open-source project links for hands-on deployment.
-- **Technical Stack & Scale**: Primarily Python-based, with 33.2K stars and 5.8K forks, indicating high community adoption and collaborative development.
-- **GenAI Integration**: Focuses on generative AI agents, last updated June 2026, reflecting cutting-edge applications in AI-driven autom
+- **Curated AI Agent Projects**: Repository containing 500+ open-source AI agent implementations across industries (healthcare, finance, education, retail) with practical use cases and implementation links.
+- **Technical Stack**: Primarily Python-based projects, categorized under AI agents and generative AI (GenAI) topics.
+- **Repository Metrics**: 33,216 stars, 5,877 forks, last updated June 28, 2026.
 
 ## Use Cases
 

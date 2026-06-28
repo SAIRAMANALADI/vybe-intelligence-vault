@@ -12,7 +12,9 @@ resource_kind: mcp-server
 importance: medium
 tags:
 - github-repo
+- scripts
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -31,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based MCP server** for Cloudflare integration, enabling programmatic interaction with Cloudflare's APIs via the Model Context Protocol (MCP).
-- **Repository metrics**: 3.8k+ stars, 435 forks, last updated June 2026.
-- **Purpose**: Facilitates structured communication between MCP-compatible clients and Cloudflare services (e.g., Workers, KV, R2, D1).
+- **TypeScript-based MCP server** for integrating Cloudflare services (e.g., Workers, KV, R2) into MCP-compatible clients.
+- **Repository stats**: 3.9k stars, 436 forks, last updated June 28, 2026.
+- **Purpose**: Facilitates programmatic interactions with Cloudflare’s ecosystem via MCP (Model Context Protocol) for AI/automation workflows.
 
 ## Use Cases
 

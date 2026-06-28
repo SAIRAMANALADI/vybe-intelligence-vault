@@ -3,17 +3,17 @@ title: Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha docum
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://docs.jupyter.org
-published_at: '2026-06-27T19:42:11.344575+05:30'
-collected_at: '2026-06-27T19:42:11.344590+05:30'
+source_url: https://docs.jupyter.org/
+published_at: '2026-06-29T01:24:17.292205+05:30'
+collected_at: '2026-06-29T01:24:17.292214+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-27T19:42:11.344590+05:30'
-last_seen: '2026-06-27T19:42:11.344590+05:30'
-last_checked: '2026-06-27T19:42:11.344590+05:30'
+first_seen: '2026-06-29T01:24:17.292214+05:30'
+last_seen: '2026-06-29T01:24:17.292214+05:30'
+last_checked: '2026-06-29T01:24:17.292214+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and rich media in a single document format.
+- **Jupyter ecosystem**: A modular framework centered around interactive computing, supporting computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
 
-- **Key sub-projects**: Includes core components like `nbformat` (notebook format), `jupyter-client` (messaging protocol), kernels (e.g., IPython, IRkernel), and deployment tools (e.g., JupyterHub, Docker Stacks) for scalable, multi-user environments.
+- **Sub-projects**: Includes core tools like `nbformat` (notebook format), `jupyter-client` (messaging protocol), `nbconvert` (conversion), and kernels (e.g., IPython, IRkernel) for multi-language support.
 
-- **Architecture & APIs**: Defined by the Jupyter Messaging Protocol, `jupyter-server` for backend operations, and extensible widgets (`ipywidgets`) for interactive UIs, with support for AI integration via `jupyter-ai`.
+- **Deployment & Extensibility**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and allows customization through extensions (e.g., widgets, AI plugins like `jupyter-ai`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T19:42:11.344575+05:30
+- Published: 2026-06-29T01:24:17.292205+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://docs.jupyter.org
+Original source: https://docs.jupyter.org/

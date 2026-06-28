@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-06-28T22:08:49.444578+05:30'
+collected_at: '2026-06-29T01:18:20.208997+05:30'
 published_at: '2026-06-25T12:08:19Z'
 tags:
 - github-repo
-- hackernews
 - models
 - openai
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-06-28T22:08:49.444578+05:30'
-last_seen: '2026-06-28T22:08:49.444578+05:30'
-last_checked: '2026-06-28T22:08:49.444578+05:30'
+first_seen: '2026-06-29T01:18:20.208997+05:30'
+last_seen: '2026-06-29T01:18:20.208997+05:30'
+last_checked: '2026-06-29T01:18:20.208997+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of VoiceRAG Pattern**: Demonstrates an interactive voice generative AI system using **RAG (Retrieval-Augmented Generation)** with **Azure AI Search** and **Azure OpenAI's `gpt-4o-realtime-preview`** model for real-time audio processing.
+- **VoiceRAG Implementation**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
 
-- **Technical Stack**: Built in **Python**, leveraging **Azure AI Search** (vector database) for retrieval and **OpenAI's gpt-4o-realtime-preview** for generative responses, enabling low-latency voice interactions.
+- **Azure Integration**: Leverages Azure AI Search for vector-based retrieval and Azure OpenAI for generative AI, enabling low-latency, context-aware voice responses.
 
-- **Deployment & Scalability**: Uses **Azure Developer CLI (azd)** templates for infrastructure-as-code deployment, supporting **vector search**, **RAG pipelines**, and **real-time audio-to-text generation**.
+- **Python-Based Template**: Provides a structured, production-ready Python implementation with Azure Developer CLI (azd) templates for deployment and scalability.
 
 ## Why It Matters
 

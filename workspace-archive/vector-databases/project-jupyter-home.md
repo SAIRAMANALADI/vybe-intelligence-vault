@@ -8,16 +8,17 @@ local_vault_path: ai/rag/project-jupyter-home.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
+- models
 - rag
 - reddit
 - web-crawled
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Project Jupyter | Home
@@ -26,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data with flexible workspace configurations (single/multi-document) for scientific computing and ML workflows.
+- **Modular Architecture**: JupyterLab extends Jupyter Notebook with a modular, extensible interface supporting multi-tab workspaces, drag-and-drop layouts, and real-time collaboration via a plugin system.
 
-- **Jupyter Notebook** uses an open JSON-based document format and Interactive Computing Protocol (JSON over ZMQ/WebSockets) to enable rich, interactive outputs (HTML, LaTeX, etc.) across 40+ languages, with big data integration (Spark, pandas, TensorFlow).
+- **Multi-Language & Big Data Support**: Native integration with 40+ languages (Python, R, Julia) and big data frameworks (Apache Spark, TensorFlow, pandas), enabling unified workflows from data exploration to ML deployment.
 
-- **JupyterHub** enables centralized, sca
+- **Scalable Deployment & Sharing**: JupyterHub enables centralized
 
 ## Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Global, zero-cold-start serverless execution**: Cloudflare Workers deploy to 330+ edge locations, scale automatically from zero to millions of requests, and eliminate cold starts by running on lightweight isolates (v8-based) instead of containers, ensuring sub-10ms startup latency.
+- **Global serverless execution**: Cloudflare Workers deploy to 330+ edge locations by default, enabling sub-100ms latency via isolates (V8-based lightweight execution environments) with automatic scaling from zero to millions of requests without cold starts or manual pre-warming.
 
-- **Multi-language, pay-per-use compute with integrated storage**: Supports JavaScript/TypeScript, Python, and Rust; charges only for CPU time (not idle I/O), with built-in bindings for D1 (SQL), KV (key-value),
+- **Cost-efficient compute model**: Pricing is based on actual CPU time consumed ($0.02 per million CPU ms) rather than idle time or provisioned capacity, with free tier offering 100k requests/day and 10ms CPU time pe
 
 ## Use Cases
 

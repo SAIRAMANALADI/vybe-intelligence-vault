@@ -6,19 +6,18 @@ source_url: https://github.com/langfuse/langfuse/releases
 resource_id: github:langfuse/langfuse
 local_vault_path: ai/rag/langfuse-langfuse.md
 quality_score: 70
-archive_score: 83
+archive_score: 77
 archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
 - agents
-- anthropic
 - dataset
 - frontend_ui
 - openai
 - rag
 - web-crawled
-- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -29,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 83 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **New Features**: v3.198.0 introduces UI/UX improvements (e.g., filter sidebar optimizations, Parquet export tuning, multi-select delete for datasets) and backend enhancements (e.g., ClickHouse query standardization, per-project blob export metrics, Gemini 3 pricing).
-- **Bug Fixes**: Resolved issues include bounded LLM queue retries, shared view link filter persistence, ClickHouse route tag propagation, and UI polish (e.g., cell typography, folder icons).
-- **Infrastructure/Chores**: Added ES
+- **Trace UI Enhancements**: v3.201.0 introduces a condensed detail layout and smoother timeline rendering in the trace view (LFE-10539, LFE-10538), while v3.201.1 fixes navigation panel toggle issues at narrow widths (LFE-10547) and restores timeline gutter touch-scrolling (LFE-10548).
+
+- **Timeline & Metrics Improvements**: v3.200.0 rebuilds the trace timeline as a two-pane waterfall (LFE-10527) and adds wall-clock duration display for observation subtrees (LFE-10475), while v3.199.0 introduce
 
 ## Use Cases
 

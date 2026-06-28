@@ -8,7 +8,7 @@ local_vault_path: ai/agents/prat011-awesome-llm-skills.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Prat011/awesome-llm-skills
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of LLM (Large Language Model) and AI Agent skills, tools, and resources for customizing AI workflows, compatible with **Claude Code**, **Codex**, **Gemini CLI**, and custom agents.
-- **Technical Scope**: Focuses on **Python-based** implementations, covering **Anthropic**, **OpenAI**, **Google (Gemini)**, **Llama**, **Qwen**, and related CLI tools (e.g., **Claude Skills Creator**, **Codex CLI**, **Gemini CLI**).
-- **Metadata**: 1,343 stars,
+- **Curated Repository**: Hosts a structured collection of LLM (Large Language Model) and AI Agent skills, tools, and resources for customizing AI workflows, compatible with platforms like **Claude Code, Codex, Gemini CLI**, and custom agents.
+- **Technical Scope**: Primarily written in **Python**, with integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen**, and related frameworks (e.g., `opencode`, `codex-cli`).
+- **Metadata**: 1,346 stars, 209 forks; last updated **June 28, 2026*
 
 ## Use Cases
 

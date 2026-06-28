@@ -13,13 +13,14 @@ collected_at: '2026-06-28T22:07:24.225785+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:austria-lobbies-eu-to-host-anthropic-after-us-acce
 first_seen: '2026-06-28T19:46:54.511049+05:30'
 last_seen: '2026-06-28T22:07:24.225785+05:30'
 last_checked: '2026-06-28T22:07:24.225785+05:30'
 health_score: 100
 ---
+
 
 # Austria Lobbies EU to Host Anthropic After US Access Curbs
 

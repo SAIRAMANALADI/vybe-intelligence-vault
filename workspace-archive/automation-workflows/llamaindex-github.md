@@ -2,14 +2,14 @@
 title: LlamaIndex · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/run-llama
+source_url: https://github.com/run-llama/
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - meta-ai
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides **SOTA Agentic OCR** via `Parse` (document parsing), `Extract` (structured data extraction), and a **Platform Documentation** suite for cloud-based document workflows and agent integration.
+- **LlamaParse Cloud Services**: Provides cloud-based OCR (Optical Character Recognition) via `Parse` and `Extract` for advanced document processing workflows, leveraging state-of-the-art (SOTA) agentic OCR capabilities.
 
-- **Open-Source Tooling**: Offers **LiteParse** (lightweight OCR), **LlamaAgents** (modular agent framework), and **LlamaIndex (Python)** (core indexing/retrieval library) with comprehensive documentation for local/development use.
+- **Open-Source Tooling**: Offers open-source solutions including `LiteParse` (lightweight OCR), `LlamaAgents` (modular agent framework), and `LlamaIndex` (Python-based data framework) with comprehensive documentation for integration and customization.
 
-- **Multi-Channel Support**: Maint
+- **Multi-Platform Engag
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama
+Original source URL: https://github.com/run-llama/
 
 ## Local Vault File
 

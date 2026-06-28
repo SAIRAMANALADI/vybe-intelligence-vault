@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://nodejs.org/api/permissions.html#permission-model
-published_at: '2026-06-28T03:54:22.317645+05:30'
-collected_at: '2026-06-28T03:54:22.317660+05:30'
+published_at: '2026-06-29T01:24:06.669189+05:30'
+collected_at: '2026-06-29T01:24:06.669203+05:30'
 tags:
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:permissions-node-js-v26-4-0-documentation
-first_seen: '2026-06-28T03:54:22.317660+05:30'
-last_seen: '2026-06-28T03:54:22.317660+05:30'
-last_checked: '2026-06-28T03:54:22.317660+05:30'
+first_seen: '2026-06-29T01:24:06.669203+05:30'
+last_seen: '2026-06-29T01:24:06.669203+05:30'
+last_checked: '2026-06-29T01:24:06.669203+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Permission Model**: Introduced in Node.js v20.0.0, the model restricts access to system resources (e.g., file system, network, child processes) via the `--permission` CLI flag, denying access by default unless explicitly allowed via granular flags like `--allow-net` or `--allow-worker`.
+- **Permission Model**: Introduced in Node.js v20.0.0, this model restricts access to system resources (e.g., file system, network, child processes) via the `--permission` CLI flag, enforcing explicit allow/deny policies for secure execution.
 
-- **Runtime API**: Exposes `process.permission.has(scope[, reference])` and `process.permission.drop(scope[, reference])` to dynamically check or revoke permissions at runtime for specific scopes (e.g., `FileSystemRead`, `Network`).
+- **Runtime API**: Exposes `process.permission.has(scope[, reference])` and `process.permission.drop(scope[, reference])` to dynamically check or revoke permissions at runtime for granular resource control.
 
-- **Constraints**: Does not enforce security against malicious code; acts as a "seat belt" to prevent accidental misuse. Requires explicit flags (e.g., `--allow-addons`, `--allow-ffi`) to enable restricted features like native addons or FFI.
+- **Flag-Based Enforcement**: Requires explicit flags (`--allow-net`, `--allow-fs-read`, etc.) to enable restricted features (e.g., network access, WASI, FFI), with granular controls like `--allow-child-process` for spawning processes.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T03:54:22.317645+05:30
+- Published: 2026-06-29T01:24:06.669189+05:30
 
 ## Related Tags
 

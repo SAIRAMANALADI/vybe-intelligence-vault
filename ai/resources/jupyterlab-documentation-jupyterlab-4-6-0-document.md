@@ -3,20 +3,19 @@ title: JupyterLab Documentation — JupyterLab 4.6.0 documentation
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://jupyterlab.readthedocs.io/en/latest/
-published_at: '2026-06-26T22:44:32.464307+05:30'
-collected_at: '2026-06-26T22:44:32.464314+05:30'
+source_url: https://jupyterlab.readthedocs.io/
+published_at: '2026-06-29T01:25:04.778497+05:30'
+collected_at: '2026-06-29T01:25:04.778516+05:30'
 tags:
-- benchmark
 - frontend_ui
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
-first_seen: '2026-06-26T22:44:32.464314+05:30'
-last_seen: '2026-06-26T22:44:32.464314+05:30'
-last_checked: '2026-06-26T22:44:32.464314+05:30'
+first_seen: '2026-06-29T01:25:04.778516+05:30'
+last_seen: '2026-06-29T01:25:04.778516+05:30'
+last_checked: '2026-06-29T01:25:04.778516+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **JupyterLab** is an extensible, feature-rich IDE for computational notebooks, supporting code execution, rich visualizations, and interactive controls within a modular, web-based interface.
+- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting notebooks, code consoles, terminals, and rich visualizations within a single interface, built atop the Jupyter ecosystem.
 
-- **Architecture** is plugin-based (using npm packages) with a client-server model, enabling customization via extensions, real-time collaboration, and integration with JupyterHub/Binder.
+- **Architecture**: Implements a client-server model with a React-based frontend, extensible via plugins (npm packages), and integrates with the Jupyter Server for kernel management and file operations.
 
-- **Development workflow** includes TypeScript-based extension development, debugging via browser tools, and testing via visual regression/UI tests, with contributions guided by strict architectural and performance benchmarks.
+- **Development & Contribution**: Supports extension development (UI components, language servers, custom CSS), follows a strict testing workflow (unit, UI, performance), and provides tools for debugging, localization, and documentation.
 
 ## Why It Matters
 
@@ -38,11 +37,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T22:44:32.464307+05:30
+- Published: 2026-06-29T01:25:04.778497+05:30
 
 ## Related Tags
 
-- benchmark
 - frontend_ui
 - reddit
 - web-crawled
@@ -50,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://jupyterlab.readthedocs.io/en/latest/
+Original source: https://jupyterlab.readthedocs.io/

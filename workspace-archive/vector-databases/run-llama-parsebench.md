@@ -8,19 +8,19 @@ local_vault_path: ai/rag/run-llama-parsebench.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # run-llama/ParseBench
@@ -29,17 +29,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates AI agents' document parsing capabilities across tasks like PDF parsing, OCR, and table extraction, integrating with LlamaIndex and vision-language models.
-
-- **Technical Scope**: Supports evaluation of machine learning models for document AI, including structured data extraction and multimodal parsing (text + tables + images).
-
-- **Repository Metrics**: 506 stars, 66 forks; last updated June 27, 2026; Python-based with dependencies on OCR, LlamaIndex,
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like OCR, PDF parsing, and table extraction across diverse document types.
+- **Evaluation Framework**: Supports structured assessment of vision-language models (VLMs) and LLMs in document parsing, integrating metrics for accuracy, robustness, and efficiency.
+- **Tool Integration**: Compatible with libraries like LlamaIndex, enabling seamless benchmarking of document parsing pipelines in Python-
 
 ## Use Cases
 

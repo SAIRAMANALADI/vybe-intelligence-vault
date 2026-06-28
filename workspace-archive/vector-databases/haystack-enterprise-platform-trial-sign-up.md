@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Enterprise Platform** provides a production-ready pipeline template library for rapid deployment of AI systems, including RAG, agents, and custom workflows.
+- **Haystack Enterprise Platform** provides a production-ready pipeline template library for rapid deployment of AI systems, including RAG, agents, and custom workflows, with a visual, code-aligned editor for pipeline design and debugging.
 
-- **Visual Pipeline Editor** enables code-aligned, drag-and-drop design of AI workflows with integrated testing, debugging, and stakeholder feedback collection.
-
-- **Secure Cloud Infrastructure** supports end-to-end AI pipeline execution with built-in scalability, metadata extraction, and retrieval optimization for enterprise u
+- **Free trial** enables users to upload proprietary or sample datasets, test indexing, metadata extraction, and retrieval accuracy, while leveraging secure built-in cloud infrastructure and Haystack’s integration library (including MCP and custom components)
 
 ## Use Cases
 
