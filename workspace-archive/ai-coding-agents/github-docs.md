@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   GitHub provides a comprehensive platform for distributed version control, collaborative code development via Git repositories, pull requests, and robust authentication mechanisms (SSH, tokens).
-*   The ecosystem integrates AI-driven code generation (GitHub Copilot with CLI and cloud agents), CI/CD automation (GitHub Actions), package hosting (GitHub Packages), and extensive API access (REST, GraphQL, Webhooks) for extensibility.
-*   Advanced security features include
+- **GitHub Core Functionality**: GitHub operates on Git, an open-source VCS, enabling local version control; supports secure remote access via SSH for authenticated interactions.
+- **Collaborative Development Workflows**: Facilitates collaborative coding through pull requests, repositories, and GitHub Discussions; integrates CI/CD via GitHub Actions and Packages.
+- **Security & Automation Tools**: Provides CodeQL for vulnerability analysis, GitHub Copilot for AI-driven code suggestions, and supp
 
 ## Use Cases
 

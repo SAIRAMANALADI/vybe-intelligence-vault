@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-28T15:06:02.263991+05:30'
+collected_at: '2026-06-28T19:49:24.659035+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
+- benchmark
 - github-repo
-- meta-ai
-- mistral
-- models
 - paper
 - python
 - rag
@@ -22,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-28T15:06:02.263991+05:30'
-last_seen: '2026-06-28T15:06:02.263991+05:30'
-last_checked: '2026-06-28T15:06:02.263991+05:30'
+first_seen: '2026-06-28T19:49:24.659035+05:30'
+last_seen: '2026-06-28T19:49:24.659035+05:30'
+last_checked: '2026-06-28T19:49:24.659035+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging unified embeddings and cross-modal retrieval mechanisms.
+- **Multimodal & Granular RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained segments) via unified embedding and retrieval mechanisms.
 
-- **ACL 2026 Oral Paper**: The system introduces novel architectures for dynamic modality fusion and granularity-aware retrieval, achieving state-of-the-art performance in cross-domain QA and knowledge-intensive tasks as validated in the ACL 2026 oral presentation.
+- **ACL 2026 Oral Paper**: Presents novel architectural designs and benchmarks demonstrating superior performance in cross-modal retrieval and generation tasks compared to modality-specific baselines.
 
-- **Python Implementation**: The open-source repository provides modular components for modality-specific encoders, granularity-aware retrievers, and fusion-based generators, with integration support for popular LLMs (e.g., Llama, Mistral) and multimodal models (e.g., CLIP, BLIP).
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for embedding, retrieval, and generation, supporting extensibility for custom modalities and retrieval strategies.
 
 ## Why It Matters
 

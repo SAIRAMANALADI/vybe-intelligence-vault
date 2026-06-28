@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://githubstatus.com/
+source_url: https://www.githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking across regions (AU, EU, JP, US).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
 
-- **Incident Management**: Recent disruptions include EU network maintenance (June 27, 2026) and multi-service degradation (June 25, 2026) affecting Webhooks, Pull Requests, and Actions, with root causes tied to configuration errors and routing layer defects.
+- **Incident Notifications**: Supports multi-channel incident updates via email, SMS (global numbering), Slack, and webhooks, with granular controls for subscription and OTP verification.
 
-- **Notification Systems*
+- **Past Incidents**: Documented disruptions include Copilot Next Edit Suggestions (27% failu
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://githubstatus.com/
+Original source URL: https://www.githubstatus.com/
 
 ## Local Vault File
 

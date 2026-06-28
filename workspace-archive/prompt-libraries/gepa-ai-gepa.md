@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Reflective Text Evolution (RTE)**: AI-driven framework for iterative optimization of prompts, code, and other text-based artifacts via reflective feedback loops.
-- **Jupyter Notebook Implementation**: Repository contains executable notebooks demonstrating RTE workflows for prompt engineering and code refinement.
-- **GitHub Metrics**: 5.4K+ stars, 441 forks, last updated June 2026, with no explicit topic tags despite functional focus.
+- **Reflective Text Evolution (RTE)**: AI-driven framework for iterative optimization of prompts, code, and other text-based artifacts through reflection and refinement cycles.
+- **Jupyter Notebook Implementation**: Repository provides executable notebooks demonstrating RTE workflows for prompt engineering and code optimization.
+- **Version**: Last updated June 2026; actively maintained with 5,403 stars and 441 forks.
 
 ## Use Cases
 

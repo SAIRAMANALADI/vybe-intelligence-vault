@@ -6,7 +6,7 @@ source_url: https://hf.co/collections/vidore/vidore-benchmark-v3
 resource_id: blog:vidore-benchmark-v3-a-vidore-collection
 local_vault_path: ai/resources/vidore-benchmark-v3-a-vidore-collection.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Overview**: `vidore/vidore_v3_hr` is a high-resolution (HR) image dataset hosted on Hugging Face, designed for advanced visual processing tasks.
-- **Scale & Accessibility**: Contains 13.4k samples with 3.57k updates, optimized for high-performance computing and machine learning applications.
-- **Purpose**: Tailored for research in computer vision, particularly for tasks requiring high-fidelity visual data (e.g., object detection, segmentation).
+- **Dataset Overview**: `vidore_v3_hr` is a high-resolution (HR) image dataset hosted on Hugging Face, designed for advanced visual recognition tasks.
+
+- **Scale & Metrics**: Contains 13.4k entries with 3.53k active users, indicating significant community engagement and dataset utility.
+
+- **Use Case**: Optimized for training/evaluating high-resolution vision models, particularly in object detection, segmentation, or multimodal AI systems.
 
 ## Use Cases
 

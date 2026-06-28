@@ -3,7 +3,7 @@ title: Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube T
   Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/youtubetv/answer/13769266?hl=en&ref_topic=13625337&sjid=17114201391902884271-NA
+source_url: https://support.google.com/youtubetv/answer/13769266
 resource_id: blog:manage-renewal-for-nfl-sunday-ticket-on-youtube-tv
 local_vault_path: ai/rag/manage-renewal-for-nfl-sunday-ticket-on-youtube-tv.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Season Pass Renewal**: Automatic renewal occurs at full retail price before the next season; cancellation must be done pre-renewal to avoid charges, but mid-season cancellations retain access until season end if YouTube TV plan remains active.
+- **Season Pass Renewal**: Automatic renewal occurs at full retail price before the next season; cancellation prior to renewal avoids charge but mid-season cancellations retain access until season end with an active YouTube TV plan.
 
-- **Month-to-Month Billing**: Charges occur on the same date monthly; cancellation is allowed anytime via Settings, with access retained until the next billing cycle.
+- **Month-to-Month Billing**: Charges occur on the same date monthly; cancellation via **Settings** maintains access until the next billing cycle, with billing dates viewable at [tv.youtube.com/settings/billing](https://tv.youtube.com/settings/billing).
 
-- **Payment & Plan Management**: Billing dates and payment methods are managed via
+- **Plan Sw
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/youtubetv/answer/13769266?hl=en&ref_topic=13625337&sjid=17114201391902884271-NA
+Original source URL: https://support.google.com/youtubetv/answer/13769266
 
 ## Local Vault File
 

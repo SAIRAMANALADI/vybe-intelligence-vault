@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-28T15:04:52.236505+05:30'
+collected_at: '2026-06-28T19:48:14.578265+05:30'
 published_at: '2026-06-27T21:54:07Z'
 tags:
 - github-repo
+- models
 - python
 - rag
 stars: 1957
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-28T15:04:52.236505+05:30'
-last_seen: '2026-06-28T15:04:52.236505+05:30'
-last_checked: '2026-06-28T15:04:52.236505+05:30'
+first_seen: '2026-06-28T19:48:14.578265+05:30'
+last_seen: '2026-06-28T19:48:14.578265+05:30'
+last_checked: '2026-06-28T19:48:14.578265+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) architecture leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms tailored for constrained environments, enabling efficient deployment on low-resource hardware without sacrificing accuracy.
+- **Architectural Efficiency**: Implements lightweight retrieval and generation components optimized for small models, enabling deployment on resource-constrained hardware without sacrificing accuracy.
 
-- **Open-Source Implementation**: Provides a Python-based, publicly accessible repository (HKUDS/MiniRAG) with modular components for customization, supporting rapid experimentation and integration with existing RAG pipelines.
+- **Open-Source Implementation**: Provides a Python-based, modular codebase (1957+ stars) with tools for fine-tuning and inference, emphasizing reproducibility and accessibility for RAG applications.
 
 ## Why It Matters
 

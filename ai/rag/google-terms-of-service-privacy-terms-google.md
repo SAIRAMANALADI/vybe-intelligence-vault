@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/terms?hl=en_US
-published_at: '2026-06-28T03:55:45.761192+05:30'
-collected_at: '2026-06-28T03:55:45.761208+05:30'
+source_url: https://myaccount.google.com/termsofservice?hl=en-US
+published_at: '2026-06-28T19:54:11.855515+05:30'
+collected_at: '2026-06-28T19:54:11.855531+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-06-28T03:55:45.761208+05:30'
-last_seen: '2026-06-28T03:55:45.761208+05:30'
-last_checked: '2026-06-28T03:55:45.761208+05:30'
+first_seen: '2026-06-28T19:54:11.855531+05:30'
+last_seen: '2026-06-28T19:54:11.855531+05:30'
+last_checked: '2026-06-28T19:54:11.855531+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal & Contractual Framework**: Google LLC (Delaware-registered, USA) provides services under updated Terms of Service (effective May 22, 2024) governing user access, compliance requirements, and service-specific policies (e.g., AI use restrictions).
+- **Service Provider & Legal Framework**: Google LLC (Mountain View, CA) operates under Delaware state laws and U.S. federal regulations, with terms effective May 22, 2024, and updates planned for July 30, 2026. Users under the age of digital consent must have parental/guardian approval, with additional age restrictions applying to specific services.
 
-- **Service Provision & Modifications**: Google reserves rights to modify/add/remove features, enforce usage limits, and terminate services with advance notice (except for urgent security/legal cases), while providing export tools (e.g., Google Takeout) for user data.
+- **Service Scope & AI Integration**: Google provides a broad suite of services (Search, Maps, Pixel devices, etc.) under a unified framework, leveraging AI/ML for features like real-time translation and spam detection. Services may auto-update, with material changes requiring advance notice unless urgent (e.g., security fixes).
 
-- **User Obligations & Restrictions**: Users must comply with laws, respect IP/privacy rights, avoid abuse (e.g., malware, reverse engineering, AI model training from content), and adhere to service-specific rules (e.g., Generative AI Prohibited Use Policy).
+- **User Obligations & Restrictions**: Users must comply with terms, service-specific policies (e.g., Generative AI Prohibited Use Policy), and laws (export controls, anti-harassment). Prohibited actions include reverse engineering, automated scraping, AI-generated content misuse, and reverse proxying services to bypass restrictions.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:55:45.761192+05:30
+- Published: 2026-06-28T19:54:11.855515+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/terms?hl=en_US
+Original source: https://myaccount.google.com/termsofservice?hl=en-US

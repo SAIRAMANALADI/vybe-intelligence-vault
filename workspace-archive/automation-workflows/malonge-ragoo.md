@@ -12,7 +12,6 @@ resource_kind: workflow
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to its successor, **RagTag** ([malonge/RagTag](https://github.com/malonge/RagTag)), for continued development.
-- **Technical Scope**: Python-based toolkit for **genome assembly and scaffolding**, optimized for bioinformatics workflows requiring high-precision contig alignment and gap closure.
-- **Repository Metrics**: 173 stars, 28 forks; last updated **2026-06-18**, indicating a shift to RagTag for future updates.
+- **RaGOO**: A discontinued Python-based tool for genome assembly and scaffolding, previously used in bioinformatics workflows.
+- **Deprecation Notice**: Users are advised to migrate to **RagTag** (https://github.com/malonge/RagTag) for continued support and updates.
+- **Metadata**: 173 stars, 28 forks, last updated 2026-06-18, categorized under genome assembly and scaffolding.
 
 ## Use Cases
 

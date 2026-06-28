@@ -13,13 +13,14 @@ collected_at: '2026-06-28T15:03:36.380158+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:response-to-ai-slop-is-from-robin-williams
 first_seen: '2026-06-28T10:21:01.970762+05:30'
 last_seen: '2026-06-28T15:03:36.380158+05:30'
 last_checked: '2026-06-28T15:03:36.380158+05:30'
 health_score: 100
 ---
+
 
 # The best response to AI slop and online noise is from Robin Williams
 

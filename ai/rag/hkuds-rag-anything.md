@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-26T04:17:12.571412+05:30'
-published_at: '2026-06-25T16:03:27Z'
+collected_at: '2026-06-28T19:47:44.546595+05:30'
+published_at: '2026-06-28T09:45:55Z'
 tags:
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
 - youtube
-stars: 21579
+stars: 21634
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-06-26T04:17:12.571412+05:30'
-last_seen: '2026-06-26T04:17:12.571412+05:30'
-last_checked: '2026-06-26T04:17:12.571412+05:30'
+first_seen: '2026-06-28T19:47:44.546595+05:30'
+last_seen: '2026-06-28T19:47:44.546595+05:30'
+last_checked: '2026-06-28T19:47:44.546595+05:30'
 health_score: 100
 ---
 
@@ -32,8 +32,10 @@ health_score: 100
 ## Summary
 
 - **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Features plug-and-play components (e.g., encoders, retrievers, generators) with configurable pipelines for custom RAG workflows across modalities.
-- **Scalable & Efficient**: Optimized for large-scale multi-modal datasets with distributed indexing, vector search (FAISS/Weaviate), and GPU acceleration support.
+
+- **Modular Architecture**: Features plug-and-play components for document parsing, embedding, vector storage, and LLM integration, enabling customizable RAG workflows across modalities.
+
+- **Optimized Retrieval Mechanisms**: Incorporates advanced retrieval techniques (e.g., hybrid search, reranking) and supports dynamic chunking strategies for efficient multi-modal knowledge extraction.
 
 ## Why It Matters
 
@@ -42,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21579
-- Forks: 2523
+- Stars: 21634
+- Forks: 2529
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-06-25T16:03:27Z
+- Last Updated: 2026-06-28T09:45:55Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

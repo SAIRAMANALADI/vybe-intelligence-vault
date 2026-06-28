@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [The Swift Programming Language · GitHub](../ai/resources/the-swift-programming-language-github.md) ([Source URL](https://github.com/swiftlang))
+### 1. [vitejs/awesome-vite](../ai/resources/vitejs-awesome-vite.md) ([Source URL](https://github.com/vitejs/awesome-vite))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:19:00.331524+05:30
-- **Local Path**: `ai/resources/the-swift-programming-language-github.md`
+- **Collected At**: 2026-06-28T20:00:28.212689+05:30
+- **Local Path**: `ai/resources/vitejs-awesome-vite.md`
 
-### 2. [WebKit/WebKit](../ai/resources/webkit-webkit.md) ([Source URL](https://github.com/webkit/webkit))
+### 2. [ML Kit | Google for Developers](../ai/resources/ml-kit-google-for-developers.md) ([Source URL](https://developers.google.com/ml-kit))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:18:59.511755+05:30
-- **Local Path**: `ai/resources/webkit-webkit.md`
+- **Collected At**: 2026-06-28T20:00:17.679149+05:30
+- **Local Path**: `ai/resources/ml-kit-google-for-developers.md`
 
-### 3. [WebKit (@webkit@front-end.social) - Front-End Social](../ai/resources/webkit-webkit-front-end-social-front-end-social.md) ([Source URL](https://front-end.social/@webkit))
+### 3. [VueUse](../ai/resources/vueuse.md) ([Source URL](https://vueuse.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:18:57.087159+05:30
-- **Local Path**: `ai/resources/webkit-webkit-front-end-social-front-end-social.md`
+- **Collected At**: 2026-06-28T19:59:48.264846+05:30
+- **Local Path**: `ai/resources/vueuse.md`
 
-### 4. [sourcekit-lsp/Documentation/Editor Integration.md at main · swiftlang/sourcekit-lsp · GitHub](../ai/resources/swiftlang-sourcekit-lsp.md) ([Source URL](https://github.com/swiftlang/sourcekit-lsp))
+### 4. [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) ([Source URL](https://vite.dev))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:59:48.244564+05:30
+- **Local Path**: `ai/rag/vite-next-generation-frontend-tooling.md`
+
+### 5. [unocss/unocss](../ai/resources/unocss-unocss.md) ([Source URL](https://github.com/unocss/unocss))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:18:54.738501+05:30
-- **Local Path**: `ai/resources/swiftlang-sourcekit-lsp.md`
+- **Collected At**: 2026-06-28T19:59:47.863137+05:30
+- **Local Path**: `ai/resources/unocss-unocss.md`
 
-### 5. [Xcode - Apple Developer](../ai/rag/xcode-apple-developer.md) ([Source URL](https://developer.apple.com/xcode))
+### 6. [Learning Center | Cloudflare](../ai/rag/learning-center-cloudflare.md) ([Source URL](https://cloudflare.com/learning))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:18:54.234485+05:30
-- **Local Path**: `ai/rag/xcode-apple-developer.md`
+- **Collected At**: 2026-06-28T19:58:30.582555+05:30
+- **Local Path**: `ai/rag/learning-center-cloudflare.md`
 
-### 6. [Swift Programming Language](../ai/rag/swift-programming-language.md) ([Source URL](https://swift.org))
+### 7. [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source URL](https://developers.cloudflare.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:18:48.103745+05:30
-- **Local Path**: `ai/rag/swift-programming-language.md`
+- **Collected At**: 2026-06-28T19:58:30.128407+05:30
+- **Local Path**: `ai/rag/cloudflare-developer-docs-cloudflare-docs.md`
 
-### 7. [macOS - Apple Developer](../ai/rag/macos-apple-developer.md) ([Source URL](https://developer.apple.com/macos))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:17:16.831386+05:30
-- **Local Path**: `ai/rag/macos-apple-developer.md`
-
-### 8. [Apple Open Source](../ai/resources/apple-open-source.md) ([Source URL](https://opensource.apple.com))
+### 8. [expressive-code/expressive-code](../ai/resources/expressive-code-expressive-code.md) ([Source URL](https://github.com/expressive-code/expressive-code))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:17:14.863882+05:30
-- **Local Path**: `ai/resources/apple-open-source.md`
+- **Collected At**: 2026-06-28T19:58:17.911708+05:30
+- **Local Path**: `ai/resources/expressive-code-expressive-code.md`
 
-### 9. [iOS - Apple Developer](../ai/rag/ios-apple-developer.md) ([Source URL](https://developer.apple.com/ios))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:17:11.590407+05:30
-- **Local Path**: `ai/rag/ios-apple-developer.md`
-
-### 10. [Site Map - Apple](../ai/rag/site-map-apple.md) ([Source URL](https://apple.com/sitemap))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:15:38.331789+05:30
-- **Local Path**: `ai/rag/site-map-apple.md`
-
-### 11. [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md) ([Source URL](https://apple.com/apple-vision-pro))
+### 9. [UnoCSS: The instant on-demand Atomic CSS engine](../ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md) ([Source URL](https://unocss.dev))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:15:33.455572+05:30
-- **Local Path**: `ai/resources/apple-vision-pro-apple.md`
+- **Collected At**: 2026-06-28T19:58:15.060965+05:30
+- **Local Path**: `ai/resources/unocss-the-instant-on-demand-atomic-css-engine.md`
 
-### 12. [GitHub Copilot CLI command reference - GitHub Docs](../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-28T15:11:21.400773+05:30
-- **Local Path**: `ai/agents/github-copilot-cli-command-reference-github-docs.md`
-
-### 13. [deepset-ai/haystack · Discussions · GitHub](../ai/rag/deepset-ai-haystack.md) ([Source URL](https://github.com/deepset-ai/haystack))
+### 10. [Integrations | Astro](../ai/rag/integrations-astro.md) ([Source URL](https://astro.build/integrations))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:20.698529+05:30
-- **Local Path**: `ai/rag/deepset-ai-haystack.md`
+- **Collected At**: 2026-06-28T19:58:12.593873+05:30
+- **Local Path**: `ai/rag/integrations-astro.md`
 
-### 14. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
+### 11. [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) ([Source URL](https://stainless.com/products/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:19.926475+05:30
-- **Local Path**: `ai/rag/microsoft-vscode.md`
+- **Collected At**: 2026-06-28T19:58:09.537124+05:30
+- **Local Path**: `ai/rag/stainless-stainless-docs-platform.md`
 
-### 15. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:19.288880+05:30
-- **Local Path**: `ai/rag/github-status.md`
-
-### 16. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
+### 12. [Overview of Parse | Developer Documentation](../ai/resources/overview-of-parse-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/cloud/llamaparse))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:11:17.531197+05:30
-- **Local Path**: `ai/resources/git.md`
+- **Collected At**: 2026-06-28T19:58:04.727311+05:30
+- **Local Path**: `ai/resources/overview-of-parse-developer-documentation.md`
 
-### 17. [Announcing Haystack Enterprise Starter: Best Practices and Support | Haystack](../ai/rag/announcing-haystack-enterprise-starter-best-practi.md) ([Source URL](https://haystack.deepset.ai/blog/announcing-haystack-enterprise))
+### 13. [Free book: Essential GraphRAG from Manning Publications - Neo4j](../ai/rag/free-book-essential-graphrag-from-manning-publicat.md) ([Source URL](https://neo4j.com/essential-graphrag))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:12.844358+05:30
-- **Local Path**: `ai/rag/announcing-haystack-enterprise-starter-best-practi.md`
-
-### 18. [Build & Scale AI Agents and Apps Faster | Haystack Enterprise Platform](../ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md) ([Source URL](https://deepset.ai/products-and-services/haystack-enterprise-platform))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:12.647095+05:30
-- **Local Path**: `ai/rag/build-scale-ai-agents-and-apps-faster-haystack-ent.md`
-
-### 19. [Firebase · GitHub](../ai/resources/firebase-github.md) ([Source URL](https://github.com/firebase))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:11:11.586857+05:30
-- **Local Path**: `ai/resources/firebase-github.md`
-
-### 20. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:09.473975+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
-
-### 21. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:11:08.975937+05:30
-- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
-
-### 22. [Search Firestore with Algolia | Firebase Extensions Hub](../ai/rag/search-firestore-with-algolia-firebase-extensions.md) ([Source URL](https://extensions.dev/extensions/algolia/firestore-algolia-search))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:11:08.153532+05:30
-- **Local Path**: `ai/rag/search-firestore-with-algolia-firebase-extensions.md`
-
-### 23. [superproject](../ai/resources/superproject.md) ([Source URL](https://cs.android.com/android/platform/superproject))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:11:06.781089+05:30
-- **Local Path**: `ai/resources/superproject.md`
-
-### 24. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/images))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:11:06.674448+05:30
-- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
-
-### 25. [[2209.10317] Android Private Compute Core Architecture](../ai/rag/arxiv-2209-10317.md) ([Source URL](https://arxiv.org/abs/2209.10317))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:38.313605+05:30
-- **Local Path**: `ai/rag/arxiv-2209-10317.md`
-
-### 26. [Neo4j · GitHub](../ai/rag/neo4j-github.md) ([Source URL](https://github.com/neo4j))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:27.739880+05:30
-- **Local Path**: `ai/rag/neo4j-github.md`
-
-### 27. [Scite – Research Solutions Help & Support Center](../ai/rag/scite-research-solutions-help-support-center.md) ([Source URL](https://help.researchsolutions.com/hc/en-us/categories/31947397460116-scite))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:25.712670+05:30
-- **Local Path**: `ai/rag/scite-research-solutions-help-support-center.md`
-
-### 28. [Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy](../ai/rag/free-self-paced-hands-on-online-training-free-neo4.md) ([Source URL](https://graphacademy.neo4j.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:24.789603+05:30
-- **Local Path**: `ai/rag/free-self-paced-hands-on-online-training-free-neo4.md`
-
-### 29. [Free book: Essential GraphRAG from Manning Publications - Neo4j](../ai/rag/free-book-essential-graphrag-from-manning-publicat.md) ([Source URL](https://neo4j.com/essential-graphrag))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:22.321725+05:30
+- **Collected At**: 2026-06-28T19:54:31.452212+05:30
 - **Local Path**: `ai/rag/free-book-essential-graphrag-from-manning-publicat.md`
 
-### 30. [Sign in to GitHub · GitHub](../ai/resources/gohugoio-hugodocs.md) ([Source URL](https://github.com/gohugoio/hugodocs))
+### 14. [ETF | EXCHANGE TRADED FUNDS | Markets Insider](../ai/resources/etf-exchange-traded-funds-markets-insider.md) ([Source URL](https://markets.businessinsider.com/etfs))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:10:22.191108+05:30
-- **Local Path**: `ai/resources/gohugoio-hugodocs.md`
+- **Collected At**: 2026-06-28T19:54:31.212247+05:30
+- **Local Path**: `ai/resources/etf-exchange-traded-funds-markets-insider.md`
 
-### 31. [disintegration/imaging](../ai/resources/disintegration-imaging.md) ([Source URL](https://github.com/disintegration/imaging))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:10:22.131061+05:30
-- **Local Path**: `ai/resources/disintegration-imaging.md`
-
-### 32. [cwebp | WebP | Google for Developers](../ai/rag/cwebp-webp-google-for-developers.md) ([Source URL](https://developers.google.com/speed/webp/docs/cwebp))
+### 15. [Stock Quotes | Stock Charts | Quote Prices | Markets Insider](../ai/rag/stock-quotes-stock-charts-quote-prices-markets-ins.md) ([Source URL](https://markets.businessinsider.com/stocks))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:20.639432+05:30
-- **Local Path**: `ai/rag/cwebp-webp-google-for-developers.md`
+- **Collected At**: 2026-06-28T19:54:31.007360+05:30
+- **Local Path**: `ai/rag/stock-quotes-stock-charts-quote-prices-markets-ins.md`
 
-### 33. [Tavily](../ai/agents/tavily.md) ([Source URL](https://tavily.com))
+### 16. [Cryptocurrencies News & Prices | Markets Insider](../ai/rag/cryptocurrencies-news-prices-markets-insider.md) ([Source URL](https://markets.businessinsider.com/cryptocurrencies))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:54:26.203349+05:30
+- **Local Path**: `ai/rag/cryptocurrencies-news-prices-markets-insider.md`
+
+### 17. [anthropic-experimental/agentic-misalignment](../ai/agents/anthropic-experimental-agentic-misalignment.md) ([Source URL](https://github.com/anthropic-experimental/agentic-misalignment))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-28T15:10:16.133844+05:30
-- **Local Path**: `ai/agents/tavily.md`
+- **Collected At**: 2026-06-28T19:54:25.970067+05:30
+- **Local Path**: `ai/agents/anthropic-experimental-agentic-misalignment.md`
 
-### 34. [Install WSL | Microsoft Learn](../ai/rag/install-wsl-microsoft-learn.md) ([Source URL](https://learn.microsoft.com/en-us/windows/wsl/install))
+### 18. [Claude Code by Anthropic | AI Coding Agent, Terminal, IDE](../ai/rag/claude-code-by-anthropic-ai-coding-agent-terminal.md) ([Source URL](https://claude.com/product/claude-code))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:15.575743+05:30
-- **Local Path**: `ai/rag/install-wsl-microsoft-learn.md`
+- **Collected At**: 2026-06-28T19:54:23.525641+05:30
+- **Local Path**: `ai/rag/claude-code-by-anthropic-ai-coding-agent-terminal.md`
 
-### 35. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
+### 19. [Documentation - Claude Platform Docs](../ai/rag/documentation-claude-platform-docs.md) ([Source URL](https://platform.claude.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:12.137963+05:30
-- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
+- **Collected At**: 2026-06-28T19:54:23.252855+05:30
+- **Local Path**: `ai/rag/documentation-claude-platform-docs.md`
 
-### 36. [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md) ([Source URL](https://medium.com/policy/f03bf92035c9))
+### 20. [supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub](../ai/rag/supabase-supabase.md) ([Source URL](https://github.com/supabase/supabase))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:09.418437+05:30
-- **Local Path**: `ai/rag/medium-privacy-policy-by-medium-medium-policy.md`
+- **Collected At**: 2026-06-28T19:54:21.637126+05:30
+- **Local Path**: `ai/rag/supabase-supabase.md`
 
-### 37. [community · Discussions · GitHub](../ai/rag/orgs-community.md) ([Source URL](https://github.com/orgs/community))
+### 21. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([Source URL](https://github.com/features))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:08.187667+05:30
-- **Local Path**: `ai/rag/orgs-community.md`
+- **Collected At**: 2026-06-28T19:54:21.287007+05:30
+- **Local Path**: `ai/rag/github-features-github.md`
 
-### 38. [Speechify AI - Voice AI Research Lab](../ai/rag/speechify-ai-voice-ai-research-lab.md) ([Source URL](https://speechify.ai))
+### 22. [Driver Binaries for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/rag/driver-binaries-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/drivers))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:07.839461+05:30
-- **Local Path**: `ai/rag/speechify-ai-voice-ai-research-lab.md`
+- **Collected At**: 2026-06-28T19:54:19.772683+05:30
+- **Local Path**: `ai/rag/driver-binaries-for-nexus-and-pixel-devices-google.md`
 
-### 39. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+### 23. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source URL](https://repost.aws/knowledge-center?nc1=f_dr))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:07.150804+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
+- **Collected At**: 2026-06-28T19:54:14.923141+05:30
+- **Local Path**: `ai/rag/discover-aws-official-knowledge-center-articles-aw.md`
 
-### 40. [electron/fiddle](../ai/resources/electron-fiddle.md) ([Source URL](https://github.com/electron/fiddle))
+### 24. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:54:14.570423+05:30
+- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
+
+### 25. [Google Terms of Service – Privacy & Terms – Google](../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source URL](https://myaccount.google.com/termsofservice?hl=en-US))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:54:11.855531+05:30
+- **Local Path**: `ai/rag/google-terms-of-service-privacy-terms-google.md`
+
+### 26. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/images))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:10:07.149251+05:30
-- **Local Path**: `ai/resources/electron-fiddle.md`
+- **Collected At**: 2026-06-28T19:54:10.170940+05:30
+- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
 
-### 41. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:10:05.016344+05:30
-- **Local Path**: `ai/resources/introduction-electron.md`
-
-### 42. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:10:04.918870+05:30
-- **Local Path**: `ai/resources/npm-docs.md`
-
-### 43. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
+### 27. [Privacy Policy – Privacy & Terms – Google](../ai/rag/privacy-policy-privacy-terms-google.md) ([Source URL](https://myaccount.google.com/privacypolicy?hl=en-US))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:04.662724+05:30
-- **Local Path**: `ai/rag/codeql-documentation.md`
+- **Collected At**: 2026-06-28T19:54:07.304262+05:30
+- **Local Path**: `ai/rag/privacy-policy-privacy-terms-google.md`
 
-### 44. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
+### 28. [Gemini 3.5 â Google DeepMind](../ai/rag/gemini-3-5-a-google-deepmind.md) ([Source URL](https://deepmind.google/technologies/gemini))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:02.289137+05:30
-- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+- **Collected At**: 2026-06-28T19:54:06.326531+05:30
+- **Local Path**: `ai/rag/gemini-3-5-a-google-deepmind.md`
 
-### 45. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
+### 29. [Legal - Apple Privacy Policy - Apple](../ai/rag/legal-apple-privacy-policy-apple.md) ([Source URL](https://apple.com/legal/privacy/en-ww))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:10:02.155603+05:30
-- **Local Path**: `ai/rag/electron-electron.md`
+- **Collected At**: 2026-06-28T19:53:35.390172+05:30
+- **Local Path**: `ai/rag/legal-apple-privacy-policy-apple.md`
 
-### 46. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-28T15:10:02.126350+05:30
-- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
-
-### 47. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
+### 30. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:09:33.335859+05:30
+- **Collected At**: 2026-06-28T19:53:31.251066+05:30
 - **Local Path**: `ai/rag/tutorials-haystack.md`
 
-### 48. [Firebase | Google's Mobile and Web App Development Platform](../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source URL](https://firebase.google.com))
+### 31. [Welcome to LlamaIndex 🦙 ! | Developer Documentation](../ai/rag/welcome-to-llamaindex-developer-documentation.md) ([Source URL](https://docs.llamaindex.ai/en/stable))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:09:27.745163+05:30
-- **Local Path**: `ai/rag/firebase-google-s-mobile-and-web-app-development-p.md`
+- **Collected At**: 2026-06-28T19:53:29.180810+05:30
+- **Local Path**: `ai/rag/welcome-to-llamaindex-developer-documentation.md`
 
-### 49. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
+### 32. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:28.614625+05:30
+- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
+
+### 33. [Langfuse](../ai/rag/langfuse.md) ([Source URL](https://langfuse.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:27.533139+05:30
+- **Local Path**: `ai/rag/langfuse.md`
+
+### 34. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:26.391208+05:30
+- **Local Path**: `ai/rag/cookbook-haystack.md`
+
+### 35. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:24.978946+05:30
+- **Local Path**: `ai/rag/getting-started-electron-forge.md`
+
+### 36. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-28T19:53:23.414818+05:30
+- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
+
+### 37. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-28T15:09:27.468647+05:30
-- **Local Path**: `ai/resources/android-open-source-project.md`
+- **Collected At**: 2026-06-28T19:53:22.887506+05:30
+- **Local Path**: `ai/resources/introduction-electron.md`
 
-### 50. [Gemini Nano | AI | Android Developers](../ai/rag/gemini-nano-ai-android-developers.md) ([Source URL](https://developer.android.com/ai/gemini-nano))
+### 38. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-28T19:53:22.675506+05:30
+- **Local Path**: `ai/resources/npm-docs.md`
+
+### 39. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-28T15:09:27.142444+05:30
+- **Collected At**: 2026-06-28T19:53:22.558146+05:30
+- **Local Path**: `ai/rag/codeql-documentation.md`
+
+### 40. [Gemini Nano | AI | Android Developers](../ai/rag/gemini-nano-ai-android-developers.md) ([Source URL](https://developer.android.com/ai/gemini-nano))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:21.300198+05:30
 - **Local Path**: `ai/rag/gemini-nano-ai-android-developers.md`
 
+### 41. [Firebase · GitHub](../ai/resources/firebase-github.md) ([Source URL](https://github.com/firebase))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-28T19:53:20.288342+05:30
+- **Local Path**: `ai/resources/firebase-github.md`
+
+### 42. [EverPass](../ai/resources/everpass.md) ([Source URL](https://help.upshow.tv/hc/en-us))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-28T19:53:19.857713+05:30
+- **Local Path**: `ai/resources/everpass.md`
+
+### 43. [Gemma â Google DeepMind](../ai/rag/gemma-a-google-deepmind.md) ([Source URL](https://deepmind.google/models/gemma))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:18.604156+05:30
+- **Local Path**: `ai/rag/gemma-a-google-deepmind.md`
+
+### 44. [Stream Firestore to BigQuery | Firebase Extensions Hub](../ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md) ([Source URL](https://extensions.dev/extensions/firebase/firestore-bigquery-export))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:16.838812+05:30
+- **Local Path**: `ai/rag/stream-firestore-to-bigquery-firebase-extensions-h.md`
+
+### 45. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-28T19:53:16.390046+05:30
+- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
+
+### 46. [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md) ([Source URL](https://huggingface.co/huggingface))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:14.884353+05:30
+- **Local Path**: `ai/rag/huggingface-hugging-face.md`
+
+### 47. [Hugging Face Forums - Hugging Face Community Discussion](../ai/rag/hugging-face-forums-hugging-face-community-discuss.md) ([Source URL](https://discuss.huggingface.co))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:12.752778+05:30
+- **Local Path**: `ai/rag/hugging-face-forums-hugging-face-community-discuss.md`
+
+### 48. [Careers at Cloudflare â Open Positions | Cloudflare](../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source URL](https://cloudflare.com/careers/jobs?department=Technology+Research))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-28T19:53:08.894716+05:30
+- **Local Path**: `ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md`
+
+### 49. [neo4j-contrib/rabbithole](../ai/rag/neo4j-contrib-rabbithole.md) ([Source URL](https://github.com/neo4j-contrib/rabbithole))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:07.077485+05:30
+- **Local Path**: `ai/rag/neo4j-contrib-rabbithole.md`
+
+### 50. [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md) ([Source URL](https://cloudflare.com/gdpr))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-28T19:53:04.070189+05:30
+- **Local Path**: `ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md`
+
 ---
-*Index generated on 2026-06-28T15:19:17.952463+05:30*
+*Index generated on 2026-06-28T20:02:39.748276+05:30*

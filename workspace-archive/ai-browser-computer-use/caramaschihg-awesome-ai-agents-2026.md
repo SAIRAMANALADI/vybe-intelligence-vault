@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts 300+ AI agent-related resources, frameworks, and tools, organized into 20+ categories, with monthly updates.
-- **Technical Scope**: Covers AI agents, LLM frameworks (e.g., LangChain), ChatGPT integrations, and machine learning tools, last updated June 28, 2026.
-- **Community Metrics**: 1,307 stars and 430 forks, indicating active engagement in the AI agent ecosystem.
+- **Curated Collection**: Repository hosts a meticulously organized list of **300+ AI agents, frameworks, and tools** spanning **20+ categories**, updated monthly to reflect 2026 advancements in AI agent ecosystems.
+- **Technical Breadth**: Encompasses cutting-edge tools and frameworks such as **LangChain, LLMs, and ChatGPT integrations**, with a focus on **machine learning, agent orchestration, and autonomous systems**.
+- **High-Activity Open Source Project**: Maintained with **1,317 stars and
 
 ## Use Cases
 

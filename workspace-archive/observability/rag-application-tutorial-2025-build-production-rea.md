@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense and sparse retrieval), and vector storage/ retrieval using Supabase; LangChain provides the orchestration framework for end-to-end workflows.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like late-interaction embeddings), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain/PyTorch-based pipelines).
 
-- **Production Hardening**: Key optimizations involve token-efficient retrieval (e.g., query expansion/rewriting), latency mitigation via caching and load balancing across model instances, and observ
+- **Production Optimizations**: Implements hybrid retrieval (dense + sparse embeddings), query rewriting, caching strategies, and load balancing across multiple models; deployment via Cloudflare Workers with Sentry
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/models
 source_type: huggingface_space
 source_name: Hugging Face Trending Spaces
 source_url: https://huggingface.co/spaces/mteb
-published_at: '2026-06-28T15:03:34.595806+05:30'
-collected_at: '2026-06-28T15:03:34.595811+05:30'
+published_at: '2026-06-28T19:46:53.890735+05:30'
+collected_at: '2026-06-28T19:46:53.890741+05:30'
 tags:
 - hf-space
 - huggingface
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:spaces/mteb
 first_seen: '2026-06-18T23:35:18.515022+05:30'
-last_seen: '2026-06-28T15:03:34.595811+05:30'
-last_checked: '2026-06-28T15:03:34.595811+05:30'
+last_seen: '2026-06-28T19:46:53.890741+05:30'
+last_checked: '2026-06-28T19:46:53.890741+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face space: mteb/leaderboard (Likes: 7513, Downloads: 0)
+Trending Hugging Face space: mteb/leaderboard (Likes: 7514, Downloads: 0)
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Spaces
 - Category: ai/models
-- Published: 2026-06-28T15:03:34.595806+05:30
+- Published: 2026-06-28T19:46:53.890735+05:30
 
 ## Related Tags
 

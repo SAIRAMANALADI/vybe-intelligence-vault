@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 - workflows
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-powered alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging ML to distinguish between high-impact incidents and low-priority noise.
+- **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging machine learning to distinguish between high-impact incidents and routine notifications.
 
-- **Dynamic on-call scheduling**: Implements intelligent rotation algorithms to ensure optimal coverage while accounting for team availability, time zones, and skill sets, reducing manual scheduling overhead.
+- **Dynamic on-call scheduling**: Implements intelligent rotation logic with conflict detection, ensuring optimal coverage while accounting for team availability, time zones, and escalation policies.
 
-- **Real-time incident trends & analytics**: Provides actionable insights via tre
+- **Real-time incident trends & analytics**: Provides historical and predi
 
 ## Use Cases
 

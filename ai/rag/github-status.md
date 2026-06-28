@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com/
-published_at: '2026-06-28T15:11:19.288867+05:30'
-collected_at: '2026-06-28T15:11:19.288880+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-06-28T19:51:28.243025+05:30'
+collected_at: '2026-06-28T19:51:28.243044+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-06-28T15:11:19.288880+05:30'
-last_seen: '2026-06-28T15:11:19.288880+05:30'
-last_checked: '2026-06-28T15:11:19.288880+05:30'
+first_seen: '2026-06-28T19:51:28.243044+05:30'
+last_seen: '2026-06-28T19:51:28.243044+05:30'
+last_checked: '2026-06-28T19:51:28.243044+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking across regions (AU, EU, JP, US).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
 
-- **Incident Management**: Recent disruptions include EU network maintenance (June 27, 2026) and multi-service degradation (June 25, 2026) affecting Webhooks, Pull Requests, and Actions, with root causes tied to configuration errors and routing layer defects.
+- **Incident Notifications**: Supports multi-channel incident updates via email, SMS (global numbering), Slack, and webhooks, with granular controls for subscription and OTP verification.
 
-- **Notification Systems**: Supports email, SMS, Slack, and webhook-based incident notifications for proactive monitoring, with privacy policies governed by GitHub/Atlassian and Google reCAPTCHA compliance.
+- **Past Incidents**: Documented disruptions include Copilot Next Edit Suggestions (27% failure rate, June 23, 2026) and Webhooks payload defects (11.3% impact, June 17, 2026), with root causes tied to configuration changes and routing layer failures.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:11:19.288867+05:30
+- Published: 2026-06-28T19:51:28.243025+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com/
+Original source: https://www.githubstatus.com/

@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- Supabase provides a managed PostgreSQL database with built-in realtime capabilities, automated backups, and support for extensions, accessible via RESTful APIs and client libraries.
-- Core services include authentication (email/password, OAuth, passwordless), object storage with Row Level Security, and globally distributed edge functions for low-latency execution.
-- Supports migrations from AWS RDS, Firebase Auth/Storage, MySQL, and other databases, with self-hosting options via dedicated Auth
+- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like real-time subscriptions, automated backups, and support for extensions (e.g., PostGIS, pg_cron).
+
+- **Unified Auth & Storage**: Supports multi-factor authentication (MFA), OAuth, and passwordless logins via `supabase-js`/`auth-helpers`, while `Storage` offers S3-compatible object storage with Row-Level Security (RLS) integration.
+
+- **Edge Compute & APIs**: Deploy globally distrib
 
 ## Use Cases
 

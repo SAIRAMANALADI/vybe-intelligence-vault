@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-28T15:05:52.246099+05:30'
+collected_at: '2026-06-28T19:49:14.611756+05:30'
 published_at: '2026-06-27T15:46:08Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-28T15:05:52.246099+05:30'
-last_seen: '2026-06-28T15:05:52.246099+05:30'
-last_checked: '2026-06-28T15:05:52.246099+05:30'
+first_seen: '2026-06-28T19:49:14.611756+05:30'
+last_seen: '2026-06-28T19:49:14.611756+05:30'
+last_checked: '2026-06-28T19:49:14.611756+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular deployment.
+- **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application in Python, covering architecture, deployment, and scalability.
 
-- **Modular Architecture**: Implements a microservices-based design with FastAPI for backend services, Docker for containerization, and integrates GenAI models for retrieval and generation tasks.
+- **Tech Stack**: Utilizes FastAPI for backend, Docker for containerization, and integrates GenAI models with a modular design for extensibility.
 
-- **Scalable Infrastructure**: Includes CI/CD-ready configurations, logging, monitoring, and testing frameworks to ensure robustness and scalability in production environments.
+- **Repository Structure**: Includes pre-configured Dockerfiles, FastAPI endpoints, and modular components for document retrieval, embedding, and LLM interaction.
 
 ## Why It Matters
 

@@ -11,12 +11,14 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - meta-ai
 - mistral
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain RAG (Retrieval-Augmented Generation)** pipeline with local LLMs (e.g., Llama, Mistral) for privacy and cost efficiency.
-- Features **dynamic database updates** (via ChromaDB) to support real-time document ingestion and vector embeddings.
-- Includes **testing framework** (e.g., pytest) for evaluating retrieval accuracy, response quality, and end-to-end RAG performance.
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Llama, Mistral) via Ollama or vLLM, emphasizing offline inference and reduced API dependency.
+
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms for real-time document ingestion and embeddings, ensuring up-to-date retrieval context.
+
+- **Testing & Evaluation Framework**: Includes unit tests (e.g., pytest) and retrieval quality
 
 ## Use Cases
 

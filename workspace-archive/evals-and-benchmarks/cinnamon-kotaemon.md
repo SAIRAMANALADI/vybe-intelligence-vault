@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable contextual document querying and conversational chat with user-uploaded files.
-- **Python Framework**: Built with Python, leveraging modern NLP/LLM libraries (e.g., LangChain, transformers) for document processing and response generation.
-- **Modular Architecture**: Supports extensibility via plugins/hooks for document loaders, vector stores (e.g., FAISS, Chroma), and LLM backends (e.g., OpenAI, Huggi
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversations with LLMs, dynamically retrieving and synthesizing information from user-provided documents.
+
+- **Modular Python Framework**: Built in Python with a flexible, extensible design supporting custom document loaders, retrievers, and LLM backends (e.g., LangChain integration).
+
+- **Scalable Deployment**: Optimized for local/enterprise use with support for vector databases (e.g., FAI
 
 ## Use Cases
 

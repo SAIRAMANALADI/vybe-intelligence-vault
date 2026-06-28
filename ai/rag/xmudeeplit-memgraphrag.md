@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-28T15:06:02.299523+05:30'
+collected_at: '2026-06-28T19:49:24.704006+05:30'
 published_at: '2026-06-28T07:15:39Z'
 tags:
 - agents
-- benchmark
 - dataset
 - github-repo
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-28T15:06:02.299523+05:30'
-last_seen: '2026-06-28T15:06:02.299523+05:30'
-last_checked: '2026-06-28T15:06:02.299523+05:30'
+first_seen: '2026-06-28T19:49:24.704006+05:30'
+last_seen: '2026-06-28T19:49:24.704006+05:30'
+last_checked: '2026-06-28T19:49:24.704006+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Based Multi-Agent System**: Introduces a novel **memory-augmented multi-agent architecture** for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agent-memory interactions to enhance knowledge retrieval and generation.
+- **Memory-Augmented Multi-Agent Framework**: Introduces a novel **memory-based multi-agent system** (MemGraphRAG) for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agentic memory to enhance graph construction and retrieval in RAG pipelines.
 
-- **Graph & Ontology Construction**: Implements **dynamic graph construction** and **ontology learning** to structure unstructured data, enabling efficient **semantic retrieval** and **context-aware generation** in RAG pipelines.
+- **Ontology-Guided Graph Construction**: Proposes an **ontology-driven approach** for dynamic graph construction, enabling structured knowledge representation and efficient multi-hop reasoning in GraphRAG systems.
 
-- **KDD 2026 Contribution**: Proposes a **scalable, memory-driven GraphRAG framework** with empirical validation on benchmark datasets, demonstrating improvements in **retrieval accuracy** and **generative coherence** over traditional RAG methods.
+- **KDD 2026 Contribution**: Presents a **scalable, memory-optimized architecture** for GraphRAG, validated on large-scale datasets, with open-source implementation in Python for reproducibility and extensibility.
 
 ## Why It Matters
 

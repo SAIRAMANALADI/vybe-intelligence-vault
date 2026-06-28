@@ -4,17 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/interviewstreet/hiring-agent
-collected_at: '2026-06-28T15:03:35.201829+05:30'
-published_at: '2026-06-28T09:29:36Z'
+collected_at: '2026-06-28T19:46:54.311757+05:30'
+published_at: '2026-06-28T14:16:09Z'
 tags:
 - agents
-stars: 3098
+stars: 3119
 language: Python
 status: active
 resource_id: github:interviewstreet/hiring-agent
 first_seen: '2026-06-18T23:35:18.966794+05:30'
-last_seen: '2026-06-28T15:03:35.201829+05:30'
-last_checked: '2026-06-28T15:03:35.201829+05:30'
+last_seen: '2026-06-28T19:46:54.311757+05:30'
+last_checked: '2026-06-28T19:46:54.311757+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: interviewstreet
-- Stars: 3098
-- Forks: 693
+- Stars: 3119
+- Forks: 696
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T09:29:36Z
+- Last Updated: 2026-06-28T14:16:09Z
 
 ## Possible Use Cases
 

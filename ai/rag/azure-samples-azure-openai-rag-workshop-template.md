@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/azure-openai-rag-workshop-template
-collected_at: '2026-06-28T15:04:42.267552+05:30'
+collected_at: '2026-06-28T19:48:09.633846+05:30'
 published_at: '2026-03-04T07:23:59Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-11-07T15:26:56Z'
 pushed_at: '2024-06-11T20:54:41Z'
 resource_id: github:azure-samples/azure-openai-rag-workshop-template
-first_seen: '2026-06-28T15:04:42.267552+05:30'
-last_seen: '2026-06-28T15:04:42.267552+05:30'
-last_checked: '2026-06-28T15:04:42.267552+05:30'
+first_seen: '2026-06-28T19:48:09.633846+05:30'
+last_seen: '2026-06-28T19:48:09.633846+05:30'
+last_checked: '2026-06-28T19:48:09.633846+05:30'
 health_score: 100
 ---
 
@@ -30,8 +30,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
-- **Key Features**: Implements RAG architecture to enhance LLM responses with external data retrieval, optimized for Azure cloud deployment.
-- **Workshop Focus**: Designed as a hands-on guide to develop a custom ChatGPT-like system with Azure OpenAI and retrieval mechanisms.
+- **Key Components**: Includes pre-configured infrastructure for Azure OpenAI, embedding generation, vector storage (e.g., Azure Cognitive Search), and retrieval pipelines.
+- **Workshop Focus**: Designed to guide users through deploying a custom ChatGPT-like system with RAG, emphasizing end-to-end integration of Azure AI services.
 
 ## Why It Matters
 

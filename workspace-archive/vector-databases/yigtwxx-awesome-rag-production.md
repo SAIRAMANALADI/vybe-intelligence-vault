@@ -6,16 +6,16 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 87
+archive_score: 89
 archive_tier: essential
 resource_kind: framework
 importance: high
 tags:
 - github-repo
-- hackernews
+- meta-ai
+- models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: A GitHub repository compiling battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, including embeddings, vector databases, and LLMops workflows.
+- **Curated Production-Grade RAG Tools**: Repository aggregates battle-tested frameworks, libraries, and tools (e.g., LangChain, vector databases) for scalable, production-ready RAG systems, emphasizing reliability and performance.
 
-- **Technical Stack Focus**: Primarily Python-based, integrating key libraries like LangChain, with topics spanning AI engineering, MLOps, generative AI, and large language models (LLMs) for end-to-end RAG pipeline development.
+- **MLOps & LLMOps Integration**: Focuses on MLOps/LLMOps best practices, including embeddings optimization, LLM deployment strategies, and vector database management for end-to-end RAG pipeline efficiency.
 
-- *
+- **Python-Centric Ecosystem**: Entirely Python-based, cove
 
 ## Use Cases
 

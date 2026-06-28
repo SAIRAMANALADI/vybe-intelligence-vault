@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-28T15:05:47.306874+05:30'
+collected_at: '2026-06-28T19:49:14.667126+05:30'
 published_at: '2026-06-09T02:56:02Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-28T15:05:47.306874+05:30'
-last_seen: '2026-06-28T15:05:47.306874+05:30'
-last_checked: '2026-06-28T15:05:47.306874+05:30'
+first_seen: '2026-06-28T19:49:14.667126+05:30'
+last_seen: '2026-06-28T19:49:14.667126+05:30'
+last_checked: '2026-06-28T19:49:14.667126+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-ready RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and workflows.
+- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Optimization Focus**: Implements techniques for dynamic chunking, embedding tuning, and retrieval strategies to enhance accuracy and latency in RAG deployments.
+- **Automated Optimization**: Implements techniques like dynamic chunking, query rewriting, and retrieval tuning to enhance context relevance and reduce hallucinations in generated responses.
 
-- **Scalability & Deployment**: Supports integration with cloud services (e.g., AWS, GCP) and includes tools for monitoring, evaluation, and CI/CD pipelines for RAG applications.
+- **Scalable Deployment**: Supports integration with vector databases (e.g., FAISS, Pinecone) and cloud services, enabling horizontal scaling for high-throughput RAG applications.
 
 ## Why It Matters
 

@@ -4,23 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-06-28T10:24:02.595417+05:30'
-published_at: '2026-06-28T04:42:25Z'
+collected_at: '2026-06-28T19:49:54.712241+05:30'
+published_at: '2026-06-28T14:05:02Z'
 tags:
 - agents
 - github-repo
+- scripts
 - typescript
-stars: 34530
+- workflows
+stars: 34542
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-06-27T06:59:33Z'
+pushed_at: '2026-06-28T08:52:49Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-06-28T10:24:02.595417+05:30'
-last_seen: '2026-06-28T10:24:02.595417+05:30'
-last_checked: '2026-06-28T10:24:02.595417+05:30'
+first_seen: '2026-06-28T19:49:54.712241+05:30'
+last_seen: '2026-06-28T19:49:54.712241+05:30'
+last_checked: '2026-06-28T19:49:54.712241+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based Open-Source Coding Agent**: Continue is an open-source AI-powered coding agent built with TypeScript, designed to assist developers with automated code generation, refactoring, and debugging.
+- **TypeScript-based Open-Source Coding Agent**: A CLI-driven AI assistant designed to automate and enhance software development workflows with extensible, agentic capabilities.
 
-- **CLI and Developer Tools Integration**: The project provides a command-line interface (CLI) and integrates with developer tools, enabling seamless interaction with AI models for real-time coding assistance.
+- **Modular Architecture**: Supports custom tools, models, and workflows via a plugin system, enabling integration with various LLMs (e.g., local/remote models) and IDEs (VS Code, JetBrains).
 
-- **High Activity and Community Support**: With 34,530+ stars and 4,881 forks, Continue demonstrates strong community engagement and frequent updates, as evidenced by its last commit in June 2026.
+- **Real-Time Collaboration & Automation**: Enables autonomous code generation, debugging, and multi-step task execution while maintaining context-aware interactions for developer assistance.
 
 ## Why It Matters
 
@@ -41,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 34530
-- Forks: 4881
+- Stars: 34542
+- Forks: 4884
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-06-28T04:42:25Z
+- Last Updated: 2026-06-28T14:05:02Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-06-27T06:59:33Z
+- Pushed At: 2026-06-28T08:52:49Z
 
 ## Possible Use Cases
 

@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts Python-based best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), focusing on optimization techniques for enhanced performance and reliability.
-
-- **Key Focus**: Provides structured methodologies for integrating retrieval mechanisms with LLMs, emphasizing efficient indexing, query refinement, and context-aware generation to mitigate hallucinations and improve factual accuracy.
-
-- **Technical Scope**: Covers implementation str
+- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated on **2026-06-22**.
+- **Scale & Activity**: Contains **92 stars** and **10 forks**, indicating moderate community engagement and adoption.
+- **Purpose**: Provides technical guidance and implementation strategies for optimizing RAG pipelines in production environments.
 
 ## Use Cases
 

@@ -6,12 +6,11 @@ source_url: https://github.com/datawhalechina/all-in-rag
 resource_id: github:datawhalechina/all-in-rag
 local_vault_path: ai/rag/datawhalechina-all-in-rag.md
 quality_score: 70
-archive_score: 89
-archive_tier: essential
+archive_score: 79
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - meta-ai
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Framework**: Repository provides a full-stack guide for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python, including integration with LangChain, LlamaIndex, and deep learning models (e.g., DeepSeek, Kimi-K2).
-
-- **Multi-Technology Integration**: Supports diverse vector databases (Milvus), graph databases (Neo4j), and multimodal embeddings, enabling hybrid retrieval strategies for advanced LLM applications.
-
-- **Production-Ready
+- **Comprehensive RAG Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) development, integrating Python-based tools and frameworks for AI application deployment.
+- **Key Technologies**: Focuses on multimodal RAG, deep learning models (e.g., DeepSeek, Kimi-K2), vector databases (Milvus), graph databases (Neo4j), and libraries (LangChain, LlamaIndex).
+- **Updated Tooling**: Includes recent advancements in embeddings, LLMs, and multimodal processing, with last u
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.stainless.com/products/docs
-published_at: '2026-06-28T10:27:48.787634+05:30'
-collected_at: '2026-06-28T10:27:48.787648+05:30'
+published_at: '2026-06-28T19:58:09.537109+05:30'
+collected_at: '2026-06-28T19:58:09.537124+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stainless-stainless-docs-platform
-first_seen: '2026-06-28T10:27:48.787648+05:30'
-last_seen: '2026-06-28T10:27:48.787648+05:30'
-last_checked: '2026-06-28T10:27:48.787648+05:30'
+first_seen: '2026-06-28T19:58:09.537124+05:30'
+last_seen: '2026-06-28T19:58:09.537124+05:30'
+last_checked: '2026-06-28T19:58:09.537124+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic, AI-Optimized Documentation**: REST API, SDK, and narrative docs auto-sync with the actual API, enabling AI agents to parse and developers to interact seamlessly via Markdown-based content.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, eliminating manual updates and ensuring accuracy.
 
-- **Extensible Astro Framework**: Built on Astro for high-performance, content-driven sites with minimal client-side JS, SEO/search optimization, and support for TypeScript-first customization via server-side actions, middleware, and integration hooks.
+- **AI-Optimized Hybrid Search**: Implements AI-powered hybrid search for both developers and AI agents, alongside integration with AI tools and support for `llms.txt` for AI agent discovery.
 
-- **Multi-Framework Theming & Deployment**: Supports CSS variables, Tailwind/SASS/LESS, and framework-agnostic components (React, Svelte, Vue, etc.), with deployment flexibility across Stainless-hosted or self-managed infrastructure.
+- **Extensible Astro-Based Framework**: Built on Astro for high-performance, content-driven websites with TypeScript-first customization, support for multiple UI frameworks (React, Svelte, Vue, etc.), and deployment flexibility across any infrastructure.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:27:48.787634+05:30
+- Published: 2026-06-28T19:58:09.537109+05:30
 
 ## Related Tags
 

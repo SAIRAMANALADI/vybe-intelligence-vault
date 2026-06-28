@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-06-28T15:05:22.250499+05:30'
+collected_at: '2026-06-28T19:48:49.628580+05:30'
 published_at: '2026-06-27T16:16:11Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-06-28T15:05:22.250499+05:30'
-last_seen: '2026-06-28T15:05:22.250499+05:30'
-last_checked: '2026-06-28T15:05:22.250499+05:30'
+first_seen: '2026-06-28T19:48:49.628580+05:30'
+last_seen: '2026-06-28T19:48:49.628580+05:30'
+last_checked: '2026-06-28T19:48:49.628580+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List of AI-Powered Web Search Tools**: Repository aggregates software enabling AI-assisted web searches, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks.
-
-- **Technical Scope**: Covers tools leveraging LLMs (e.g., inference-based models), generative AI, and information retrieval techniques to enhance search accuracy and contextual relevance.
-
-- **Metadata**: 1.3k+ stars, 111 forks; last updated June 2026; primarily HTML-based with topics spanning AI search engines, generative AI projects, and RAG implementations.
+- **Curated Resource**: Aggregates AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and Q&A.
+- **Technical Scope**: Encompasses metasearch engines, inference-based search, and retrieval-augmented generation (RAG) frameworks for dynamic web querying.
+- **Repository Metadata**: 1.3k+ stars, 111 forks; last updated June 2026; primarily HTML-based with topics spanning AI search, generative AI, and information retrieval.
 
 ## Why It Matters
 

@@ -8,16 +8,18 @@ local_vault_path: ai/rag/nvisosecurity-cyber-security-llm-agents.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- scripts
 - workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # NVISOsecurity/cyber-security-llm-agents
@@ -26,15 +28,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LLM-Driven Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate common cybersecurity tasks (e.g., adversary emulation, threat detection).
-- **Integration with CALDERA**: Agents are designed to interface with the CALDERA adversary emulation platform for red teaming and security testing workflows.
-- **Open-Source Toolkit**: Provides modular, extensible agents for infosec tasks, optimized for research and operational use in cybersecurity workflow
+- **Purpose**: Repository containing LLM-based agents designed to automate cybersecurity tasks, including adversary emulation, using frameworks like CALDERA.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging LLMs for infosec operations and workflow automation.
+- **Last Update**: Repository last updated on **2026-06-26T07:46:47Z**, with **373 stars** and **70 forks**.
 
 ## Use Cases
 

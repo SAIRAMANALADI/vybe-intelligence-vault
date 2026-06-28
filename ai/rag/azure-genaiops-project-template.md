@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-28T15:04:42.244036+05:30'
+collected_at: '2026-06-28T19:48:04.586715+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
 - scripts
 - workflows
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-28T15:04:42.244036+05:30'
-last_seen: '2026-06-28T15:04:42.244036+05:30'
-last_checked: '2026-06-28T15:04:42.244036+05:30'
+first_seen: '2026-06-28T19:48:04.586715+05:30'
+last_seen: '2026-06-28T19:48:04.586715+05:30'
+last_checked: '2026-06-28T19:48:04.586715+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) template** in Bicep for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling automated MLOps workflows for generative AI applications.
-- **Modular Bicep modules** for provisioning Azure resources (e.g., Azure OpenAI, Cognitive Search, AKS, Key Vault) with configurable parameters for scalability and security.
-- **CI/CD-ready structure** with GitHub Actions integration for automated deployment, testing, and monitoring of RAG-based generative AI solutions.
+- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a Generative AI Ops RAG (Retrieval-Augmented Generation) solution on Azure, leveraging Bicep for declarative resource provisioning.
+
+- **RAG Pipeline Integration**: Includes pre-configured components for RAG workflows, enabling seamless integration of vector databases, embedding models, and LLM endpoints for production-grade GenAI applications.
+
+- **Ops-Ready Features**: Incorporates monitoring, logging, and CI/CD pipelines (via GitHub Actions) for operationalizing GenAI workloads, ensuring scalability, observability, and maintainability.
 
 ## Why It Matters
 

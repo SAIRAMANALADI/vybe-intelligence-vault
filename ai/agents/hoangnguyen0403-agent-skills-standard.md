@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-28T15:06:52.301840+05:30'
+collected_at: '2026-06-28T19:50:19.692965+05:30'
 published_at: '2026-06-27T12:21:56Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- reddit
 - typescript
-- workflows
 stars: 514
 language: TypeScript
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-28T15:06:52.301840+05:30'
-last_seen: '2026-06-28T15:06:52.301840+05:30'
-last_checked: '2026-06-28T15:06:52.301840+05:30'
+first_seen: '2026-06-28T19:50:19.692965+05:30'
+last_seen: '2026-06-28T19:50:19.692965+05:30'
+last_checked: '2026-06-28T19:50:19.692965+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents, covering multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+- **Repository Overview**: A TypeScript-based collection of **Agent Skills Standards** and best practices for programming languages (e.g., Kotlin, Go, Dart) and frameworks (e.g., React, Spring Boot, Laravel, NestJS), designed to guide AI agents in adhering to coding standards.
 
-- **Key Features**: Provides structured guidelines for AI agents to adhere to coding standards and framework-specific best practices, including cursor rules for efficient agentic AI workflows.
+- **Scope & Topics**: Covers **18+ frameworks/languages** (Android, Angular, Flutter, iOS, Next.js, React Native) and topics like **coding standards, best practices, and Cursor rules**, with structured guidelines for AI-driven development.
 
-- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026, with topics spanning agentic AI, mobile (iOS/Android), web (React/Next.js), backend (Spring Boot/NestJS), and cross-platform (Flutter/React Native) development.
+- **Metadata**: **514 stars**, **149 forks**, last updated **2026-06-27**; serves as a reference for AI agents to enforce consistent, high-quality code generation across ecosystems.
 
 ## Why It Matters
 

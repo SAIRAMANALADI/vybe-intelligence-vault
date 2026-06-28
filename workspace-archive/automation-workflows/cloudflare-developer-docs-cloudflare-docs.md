@@ -2,7 +2,7 @@
 title: Cloudflare Developer Docs | Cloudflare Docs
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://developers.cloudflare.com/
+source_url: https://developers.cloudflare.com
 resource_id: blog:cloudflare-developer-docs-cloudflare-docs
 local_vault_path: ai/rag/cloudflare-developer-docs-cloudflare-docs.md
 quality_score: 70
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers, Containers, Durable Objects, and Workers AI—eliminating cold starts, GPU management, and capacity planning with single-command execution (`npm create cloudflare@latest my-app`, `npx wrangler ai models`).
-
-- **Globally Distributed Data & Media Pipelines**: Supports serverless SQL (D1), key-value (KV), object storage (R2), and real-time media proce
+- **Serverless Compute & AI Integration**: Cloudflare enables global deployment of serverless functions, full-stack apps, and AI inference via Workers AI (e.g., `npx wrangler ai models`) with no GPU management or capacity planning required.
+- **Distributed Data Storage**: Supports globally distributed SQL (D1), key-value (KV), and object storage (R2) with direct Worker integration and zero connection management overhead.
+- **Security & Performance**: Provides post-quantum encrypted tunnels (Clou
 
 ## Use Cases
 
@@ -50,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.cloudflare.com/
+Original source URL: https://developers.cloudflare.com
 
 ## Local Vault File
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-28T15:04:57.239719+05:30'
+collected_at: '2026-06-28T19:48:19.865441+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 369
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-28T15:04:57.239719+05:30'
-last_seen: '2026-06-28T15:04:57.239719+05:30'
-last_checked: '2026-06-28T15:04:57.239719+05:30'
+first_seen: '2026-06-28T19:48:19.865441+05:30'
+last_seen: '2026-06-28T19:48:19.865441+05:30'
+last_checked: '2026-06-28T19:48:19.865441+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for improved document search accuracy.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment and experimentation of hybrid RAG models in Python.
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying hybrid RAG models within NVIDIA's AI Workbench ecosystem, leveraging GPU-accelerated libraries (e.g., RAPIDS, Triton) for scalable inference.
 
-- **Modular Python Codebase**: Provides a structured example with reusable components for hybrid retrieval, LLM integration, and evaluation, optimized for GPU acceleration.
+- **Python-Based Example**: Includes modular Python code for end-to-end RAG workflows, featuring document preprocessing, retrieval (FAISS/BM25), and LLM integration (e.g., NVIDIA NeMo or vLLM) with Dockerized deployment for reproducibility.
 
 ## Why It Matters
 

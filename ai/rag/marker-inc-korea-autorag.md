@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-28T15:04:52.272786+05:30'
+collected_at: '2026-06-28T19:48:14.580803+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
@@ -14,7 +14,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 4841
 language: Python
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-28T15:04:52.272786+05:30'
-last_seen: '2026-06-28T15:04:52.272786+05:30'
-last_checked: '2026-06-28T15:04:52.272786+05:30'
+first_seen: '2026-06-28T19:48:14.580803+05:30'
+last_seen: '2026-06-28T19:48:14.580803+05:30'
+last_checked: '2026-06-28T19:48:14.580803+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, reducing manual tuning effort for components like embeddings, retrieval strategies, and generation models.
+- **AutoML-Style RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipeline optimization via hyperparameter tuning, prompt engineering, and retrieval component selection using black-box optimization techniques.
 
-- **Comprehensive RAG Benchmarking**: The framework provides built-in benchmarking tools to assess RAG performance across metrics (e.g., answer correctness, retrieval relevance) and supports custom datasets for domain-specific evaluation.
+- **Comprehensive RAG Evaluation Suite**: Provides built-in benchmarks for assessing retrieval quality, generation performance, and end-to-end RAG effectiveness across diverse datasets and metrics.
 
-- **Modular Pipeline & Document Processing**: Supports end-to-end RAG workflows with configurable modules for document parsing, embedding generation, retrieval, and LLM integration, enabling flexible experimentation and deployment.
+- **Modular Python Framework**: Supports document parsing, embeddings generation, retrieval strategies, and LLM integration with a pipeline-based architecture for flexible customization and deployment.
 
 ## Why It Matters
 

@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:anomalyco/opencode
 first_seen: '2026-06-28T15:03:35.519887+05:30'
 last_seen: '2026-06-28T15:03:35.519887+05:30'
 last_checked: '2026-06-28T15:03:35.519887+05:30'
 health_score: 100
 ---
+
 
 # anomalyco/opencode
 

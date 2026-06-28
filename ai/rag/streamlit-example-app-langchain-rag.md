@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-28T15:04:57.243998+05:30'
+collected_at: '2026-06-28T19:48:24.595988+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 156
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-28T15:04:57.243998+05:30'
-last_seen: '2026-06-28T15:04:57.243998+05:30'
-last_checked: '2026-06-28T15:04:57.243998+05:30'
+first_seen: '2026-06-28T19:48:24.595988+05:30'
+last_seen: '2026-06-28T19:48:24.595988+05:30'
+last_checked: '2026-06-28T19:48:24.595988+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) and hybrid search (combining dense + sparse retrieval) for enhanced document retrieval and generation.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for improved document retrieval accuracy.
 
-- **Modular LangChain Components**: Uses LangChain’s `RetrievalQA`, `VectorStoreRetriever`, and prompt templates to orchestrate retrieval-augmented generation (RAG) with configurable chain logic.
+- **LangChain Integration**: Utilizes LangChain’s modular framework for chaining LLM prompts, retrievers, and post-processing steps, with Streamlit for interactive UI deployment.
 
-- **Streamlit UI for RAG**: Provides a real-time web interface to input queries, display retrieved contexts, and stream generated responses, leveraging Streamlit’s session state for persistence.
+- **Streamlit Deployment**: Provides a production-ready Streamlit app showcasing end-to-end RAG workflows, including document ingestion, embedding generation, and real-time query response with citations.
 
 ## Why It Matters
 

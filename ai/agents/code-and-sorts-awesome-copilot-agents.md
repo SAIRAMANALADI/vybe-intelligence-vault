@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-28T15:06:12.318361+05:30'
+collected_at: '2026-06-28T19:49:34.655631+05:30'
 published_at: '2026-06-25T15:07:30Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 540
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-28T15:06:12.318361+05:30'
-last_seen: '2026-06-28T15:06:12.318361+05:30'
-last_checked: '2026-06-28T15:06:12.318361+05:30'
+first_seen: '2026-06-28T19:49:34.655631+05:30'
+last_seen: '2026-06-28T19:49:34.655631+05:30'
+last_checked: '2026-06-28T19:49:34.655631+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files to optimize AI-assisted development workflows.
-
-- **Technical Scope**: Focuses on advanced Copilot customization via TypeScript-based agent skills, prompt engineering techniques, and VS Code Copilot Chat integrations, targeting AI agent development and GitHub Copilot enhancement.
-
-- **Metadata**: 540 stars, 86 forks, last updated 2026-06-25; categorized under `agent-skills`, `ai-agents`, `prompt-engineering`, and related topics for AI-driven development tooling.
+- **Curated Resource**: Repository (`Code-and-Sorts/awesome-copilot-agents`) providing GitHub Copilot enhancement files (instructions, prompts, skills, MCPs, agent markdowns) for AI agent integration.
+- **Technical Scope**: Supports `TypeScript`-based agent skills, `prompt engineering`, `custom agents`, and `VS Code Copilot Chat` integration with `MCP` (Model Context Protocol) compatibility.
+- **Metadata**: 540 stars, 86 forks, last updated **2026-06-25**; categorized under `agent-skills`, `ai-agents`, and `prompt-engineering` for GitHub Copilot optimization.
 
 ## Why It Matters
 

@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - unknown
 selection_reason:
 - Useful for project building
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-*   Curates 300+ AI agents and frameworks, emphasizing future-oriented autonomous agent development for 2026.
-*   Categorizes agents across technical domains including Coding, Creative, Voice, Research, and Enterprise, providing comparison guides and benchmarks.
-*   Features prominent agent frameworks and technologies such as `crewai`, `langchain`, `llm`, and `autonomous-agents`.
+- **Comprehensive AI Agent Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with comparisons, benchmarks, and deep-dive analyses.
+
+- **Key Frameworks & Tools**: Includes prominent frameworks like CrewAI, LangChain, and LLM-based agents, alongside autonomous agent systems and AI tooling for 2026-focused development.
+
+- **Updated & Structured**: Last updated June 28, 2026, with topics tagged under agent-framewor
 
 ## Use Cases
 

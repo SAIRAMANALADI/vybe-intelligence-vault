@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:jcodesmore/ai-website-cloner-template
 first_seen: '2026-06-27T16:37:36.209949+05:30'
 last_seen: '2026-06-28T15:03:35.518558+05:30'
 last_checked: '2026-06-28T15:03:35.518558+05:30'
 health_score: 100
 ---
+
 
 # JCodesMore/ai-website-cloner-template
 

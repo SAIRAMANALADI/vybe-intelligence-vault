@@ -15,6 +15,7 @@ tags:
 - hackernews
 - rag
 - unknown
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Open-source repository aggregating state-of-the-art RAG (Retrieval-Augmented Generation) frameworks, projects, and resources for LLMs and NLP applications.
-- **Community-Driven**: Actively maintained with contributions from developers, featuring 1,931 stars and 181 forks as of the last update (2026-06-28).
-- **Technical Scope**: Covers retrieval mechanisms, LLM integration, and NLP pipelines, supporting advancements in AI-driven text generation and augmentation.
+- **Community-Curated RAG Resources**: Open-source repository aggregating frameworks, projects, and tools for Retrieval-Augmented Generation (RAG), covering LLM integration, NLP pipelines, and AI-driven retrieval mechanisms.
+
+- **Multi-Topic Ecosystem**: Covers key AI/NLP domains including large language models (LLMs), machine learning, and retrieval systems, with active contributions from the developer community.
+
+- **Technical Metadata**: 1,932 stars, 181 forks; last updated 2026-06-28; suppor
 
 ## Use Cases
 

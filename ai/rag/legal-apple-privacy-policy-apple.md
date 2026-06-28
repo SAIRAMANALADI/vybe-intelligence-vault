@@ -3,9 +3,9 @@ title: Legal - Apple Privacy Policy - Apple
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.apple.com/legal/privacy/en-ww
-published_at: '2026-06-22T11:18:35.378465+05:30'
-collected_at: '2026-06-22T11:18:35.378478+05:30'
+source_url: https://www.apple.com/legal/privacy/en-ww/
+published_at: '2026-06-28T19:53:35.390145+05:30'
+collected_at: '2026-06-28T19:53:35.390172+05:30'
 tags:
 - agents
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:legal-apple-privacy-policy-apple
-first_seen: '2026-06-22T11:18:35.378478+05:30'
-last_seen: '2026-06-22T11:18:35.378478+05:30'
-last_checked: '2026-06-22T11:18:35.378478+05:30'
+first_seen: '2026-06-28T19:53:35.390172+05:30'
+last_seen: '2026-06-28T19:53:35.390172+05:30'
+last_checked: '2026-06-28T19:53:35.390172+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Definition & Scope of Personal Data**: Apple defines personal data as any information relating to an identified/identifiable individual (directly or linkable via identifiers like device serial numbers), excluding aggregated data; this applies globally regardless of user location.
-- **Data Collection & Legal Basis**: Apple collects data (account, device, payment, health, location, etc.) only when necessary, relying on user consent, contractual necessity, legitimate interests, or legal obligations; third-party sources include partners, individuals, and public datasets (processed without reidentification).
-- **Data Usage & Retention**: Personal data is used for service provision, fraud prevention, legal compliance, and (with consent) personalization; retention is limited to fulfillment of purposes, with no algorithmic profiling for significant decisions without human review.
+- **Data Classification & Scope**: Apple defines "personal data" broadly as any data linked or linkable to an identifiable individual (e.g., device serial numbers, aggregated data excluded), applying globally regardless of user location, and covering interactions across Apple services, devices, and in-person engagements.
+
+- **Data Collection & Sources**: Apple collects diverse personal data (e.g., account, device, payment, location, health/fitness, government ID) directly from users or third parties (e.g., partners, individuals, or public datasets via Applebot), with retention tied to service-specific needs and legal compliance.
+
+- **Data Processing & Rights**: Apple processes data under legal bases (consent, contract necessity, legitimate interest, or law compliance), restricts sensitive data use, retains data only as long as required, and provides global privacy rights (access, correction, deletion, etc.) via [privacy.apple.com](https://privacy.apple.com), with limitations for fraud/security or legal obligations.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:18:35.378465+05:30
+- Published: 2026-06-28T19:53:35.390145+05:30
 
 ## Related Tags
 
@@ -54,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.apple.com/legal/privacy/en-ww
+Original source: https://www.apple.com/legal/privacy/en-ww/

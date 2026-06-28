@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -36,8 +36,10 @@ selection_reason:
 ## Summary
 
 - **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Features plug-and-play components (e.g., encoders, retrievers, generators) with configurable pipelines for custom RAG workflows across modalities.
-- **Scalable & Efficient**: Optimized for large-scale multi-modal datasets with distributed indexing, vector search (FAISS/Weavia
+
+- **Modular Architecture**: Features plug-and-play components for document parsing, embedding, vector storage, and LLM integration, enabling customizable RAG workflows across modalities.
+
+- **Optimized Retrieval Mechanisms**: Incorporates advanced retrieval techniques (e.g., hybrid search, reranking) a
 
 ## Use Cases
 

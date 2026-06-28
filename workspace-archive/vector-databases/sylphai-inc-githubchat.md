@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling local interaction with GitHub repositories via natural language queries.
-- **Python-Based Tool**: Built in Python, leveraging libraries for code parsing, embedding generation, and LLM integration to process and query repository content.
-- **Self-Hosted Chat Interface**: Provides a downloadable, offline-capable chat interface for analyzing and discussing GitHub repo structures, code, and documentation.
+- **RAG Implementation**: Practical Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
+- **Tech Stack**: Python-based, leveraging LLM integration for code/document retrieval and contextual chat capabilities.
+- **Repo Metadata**: 98 stars, 20 forks, last updated 2026-06-24; no explicit topics listed.
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/NirDiamant/agents-towards-production
 resource_id: github:nirdiamant/agents-towards-production
 local_vault_path: ai/rag/nirdiamant-agents-towards-production.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: End-to-end, code-first guides for building production-grade GenAI agents, covering prototype development to enterprise deployment.
-- **Technical Stack**: Utilizes LangGraph, MCP, RAG, and Python, with Jupyter Notebooks for interactive learning and MLOps practices for deployment.
-- **Key Topics**: Focuses on agent frameworks, multi-agent systems, observability, and integration of LLMs, with resources for AI agents, GenAI, and production optimization.
+- **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering development from prototype to enterprise deployment.
+
+- **Multi-Topic Coverage**: Includes tutorials on agent frameworks (e.g., LangGraph), multi-agent systems, retrieval-augmented generation (RAG), model context protocol (MCP), MLOps, and observability for AI agents.
+
+- **Technical Stack**: Implemented primarily in Python using Jupyter Notebooks, with focus on LLMs, agentic
 
 ## Use Cases
 

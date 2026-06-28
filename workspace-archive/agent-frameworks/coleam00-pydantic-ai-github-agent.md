@@ -8,7 +8,7 @@ local_vault_path: ai/agents/coleam00-pydantic-ai-github-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: api
+resource_kind: product
 importance: medium
 tags:
 - agents
@@ -25,14 +25,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: api
+- Resource kind: product
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-*   Python-based AI agent designed for programmatic interaction with the GitHub API.
-*   Lever
+*   Pydantic-orchestrated AI agent designed for GitHub interaction.
+*   Implemented entirely in Python.
+*   Demonstrates end-to-end AI agent development lifecycle, from conceptualization to production deployment.
 
 ## Use Cases
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:ford-hired-ai-and-sacked-humans-it-backfired-badly
 first_seen: '2026-06-28T10:21:00.385866+05:30'
 last_seen: '2026-06-28T15:03:35.074376+05:30'
 last_checked: '2026-06-28T15:03:35.074376+05:30'
 health_score: 100
 ---
+
 
 # Ford hired AI and sacked humans. It backfired badly
 

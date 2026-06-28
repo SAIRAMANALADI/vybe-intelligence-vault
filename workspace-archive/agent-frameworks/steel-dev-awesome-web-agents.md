@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository aggregating tools, frameworks, and resources for developing AI-driven web agents, including browser automation and LLM benchmarking utilities.
-- **Technical Scope**: Focuses on Python-based solutions for AI agent development, covering topics like LLMs, browser automation, and agent evaluation.
-- **Community Metrics**: Maintains 1,486 stars and 191 forks, last updated June 28, 2026.
+- **Curated Resource Hub**: A GitHub repository (`steel-dev/awesome-web-agents`) listing tools, frameworks, and resources for building AI web agents, with 1,487 stars and 192 forks as of the last update (2026-06-28).
+- **Technical Focus**: Primarily Python-based, covering browser automation, LLM benchmarking, and AI agent development with topics including `ai`, `ai-agents`, `llms`, and `browser-automation`.
+- **Benchmarking & Benchmarks**: Includes resources for evaluating AI agents, particularl
 
 ## Use Cases
 

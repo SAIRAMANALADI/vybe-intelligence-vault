@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-28T15:04:21.874246+05:30'
-collected_at: '2026-06-28T15:04:21.874259+05:30'
+published_at: '2026-06-28T19:47:45.942613+05:30'
+collected_at: '2026-06-28T19:47:45.942630+05:30'
 tags:
 - agents
 - benchmark
@@ -19,12 +19,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-28T15:04:21.874259+05:30'
-last_seen: '2026-06-28T15:04:21.874259+05:30'
-last_checked: '2026-06-28T15:04:21.874259+05:30'
+first_seen: '2026-06-28T19:47:45.942630+05:30'
+last_seen: '2026-06-28T19:47:45.942630+05:30'
+last_checked: '2026-06-28T19:47:45.942630+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense and sparse retrieval), and vector storage/ retrieval using Supabase; LangChain provides the orchestration framework for end-to-end workflows.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like late-interaction embeddings), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain/PyTorch-based pipelines).
 
-- **Production Hardening**: Key optimizations involve token-efficient retrieval (e.g., query expansion/rewriting), latency mitigation via caching and load balancing across model instances, and observability through Sentry integration and performance benchmarking (latency breakdown, cost vs. performance trade-offs).
+- **Production Optimizations**: Implements hybrid retrieval (dense + sparse embeddings), query rewriting, caching strategies, and load balancing across multiple models; deployment via Cloudflare Workers with Sentry for observability and latency monitoring.
 
-- **Advanced Patterns & Scaling**: Supports multi-modal RAG (handling PDFs/images), conversational memory for stateful interactions, and horizontal scaling via Cloudflare Workers; testing strategies include unit/integration validation and hallucination prevention through retrieval grounding.
+- **Cost & Quality Trade-offs**: Token usage is optimized via prompt compression and selective retrieval; benchmarks show latency reductions of ~40% with hybrid search while maintaining retrieval precision (e.g., 92% Hit@10 on MS MARCO).
 
 ## Why It Matters
 
@@ -46,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:04:21.874246+05:30
+- Published: 2026-06-28T19:47:45.942613+05:30
 
 ## Related Tags
 
@@ -61,7 +60,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

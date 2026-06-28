@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com/
-published_at: '2026-06-27T21:58:09.537559+05:30'
-collected_at: '2026-06-27T21:58:09.537569+05:30'
+published_at: '2026-06-28T19:51:32.696016+05:30'
+collected_at: '2026-06-28T19:51:32.696034+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-06-27T21:58:09.537569+05:30'
-last_seen: '2026-06-27T21:58:09.537569+05:30'
-last_checked: '2026-06-27T21:58:09.537569+05:30'
+first_seen: '2026-06-28T19:51:32.696034+05:30'
+last_seen: '2026-06-28T19:51:32.696034+05:30'
+last_checked: '2026-06-28T19:51:32.696034+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unweight**: Introduces a lossless compression system for LLM weight tensors, achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight Compression**: Lossless MLP weight tensor compression for LLM inference achieving **1.44x compression** on BF16 weights with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **Cloudflare Research Focus Areas**: Advances **privacy-enhancing technologies**, **cryptographic/security methods**, **next-gen network protocols**, **distributed systems resilience**, and **open internet measurement** through focused research initiatives.
+- **Research Focus Areas**: Cloudflare Research targets **five core domains**—privacy, security, speed, reliability, and measurability—via cryptographic, protocol, and distributed systems innovations.
 
-- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** algorithm identifiers in **X.509 PKI**, enhancing post-quantum cryptographic interoperability.
+- **Publications & Standards**: Recent contributions include **RFC 9935 (ML-KEM X.509 PKI)** and **Kneeliverse (performance curve analysis)**, bridging theoretical advancements with real-world Internet-scale deployment.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:58:09.537559+05:30
+- Published: 2026-06-28T19:51:32.696016+05:30
 
 ## Related Tags
 

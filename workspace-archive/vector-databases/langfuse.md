@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Adoption Metrics**: Used by 19 of the Fortune 50 companies, processing over 10 billion observations/month, with a developer community of 100,000+ engineers building on the platform.
+- **Adoption Metrics**: Langfuse is utilized by **19 of the Fortune 50**, processes **10+ billion observations/month**, and supports **100,000+ engineers** building AI applications.
 
-- **Core Capabilities**: Provides hierarchical tracing of LLM calls, tool invocations, and retrieval steps with observability, prompt management, evaluation (LLM-as-a-judge, heuristics, human review), experiments, and cost/latency monitoring in a unified workflow.
+- **Core Capabilities**: Provides **end-to-end LLM observability** via hierarchical traces, **prompt management** with versioning/deployment, and **evaluation frameworks** (LLM-as-a-judge, heuristics, human review) for continuous improvement.
 
-- **Integration Ecosystem**: Supports OpenTelem
+- **Integration Ecosystem**: Supports **100+ integrations** across langua
 
 ## Use Cases
 

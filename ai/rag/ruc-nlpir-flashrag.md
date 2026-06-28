@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-28T15:05:27.280322+05:30'
+collected_at: '2026-06-28T19:48:49.639930+05:30'
 published_at: '2026-06-28T07:18:25Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-28T15:05:27.280322+05:30'
-last_seen: '2026-06-28T15:05:27.280322+05:30'
-last_checked: '2026-06-28T15:05:27.280322+05:30'
+first_seen: '2026-06-28T19:48:49.639930+05:30'
+last_seen: '2026-06-28T19:48:49.639930+05:30'
+last_checked: '2026-06-28T19:48:49.639930+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Framework**: FlashRAG is a Python-based toolkit designed for high-performance Retrieval-Augmented Generation (RAG) research, optimized for speed and scalability in large language model (LLM) applications.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations for large language models (LLMs) and retrieval systems.
 
-- **Benchmark & Dataset Support**: Includes built-in benchmarks and datasets to evaluate RAG systems, enabling standardized performance comparisons across retrieval and generation tasks.
+- **Benchmark & Dataset Support**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation performance across diverse tasks.
 
-- **Modular & Extensible**: Provides modular components for customization, supporting integration with various LLMs, retrievers, and evaluation metrics for rapid prototyping and experimentation.
+- **Modular & Extensible**: Designed with modularity in mind, allowing researchers to integrate custom retrieval methods, LLMs, or pipelines while maintaining high computational efficiency.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
-published_at: '2026-06-27T21:59:22.651413+05:30'
-collected_at: '2026-06-27T21:59:22.651425+05:30'
+published_at: '2026-06-28T19:54:21.637109+05:30'
+collected_at: '2026-06-28T19:54:21.637126+05:30'
 tags:
 - frontend_ui
 - openai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-27T21:59:22.651425+05:30'
-last_seen: '2026-06-27T21:59:22.651425+05:30'
-last_checked: '2026-06-27T21:59:22.651425+05:30'
+first_seen: '2026-06-28T19:54:21.637126+05:30'
+last_seen: '2026-06-28T19:54:21.637126+05:30'
+last_checked: '2026-06-28T19:54:21.637126+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- Supabase docs support four structured content types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (concise, procedural), and **Reference** (factual, parameter/return-type-focused), each with distinct use cases and formatting rules.
+- Supabase docs support four document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (short, procedure-focused), and **Reference** (factual, parameter/return-type-focused, auto-generated from spec files).
 
-- Docs are authored in **MDX** with structured frontmatter (e.g., `title`, `hideToc`) and organized in `apps/docs/content`, while reference docs are auto-generated from spec files (`common-client-libs-sections.json`, `supabase_js_v2.yml`) via `$ref` transformations and library source code.
+- Docs are structured in MDX with YAML frontmatter; navigation entries are defined in `NavigationMenu.constants.ts`, and reference docs are auto-generated from spec files (e.g., `supabase_js_v2.yml`) via `$ref` and transformed via Makefile workflows.
 
-- Contribution workflows include **partial reuse** (via `_partials/`), **component-based formatting** (admonitions, Mermaid diagrams, tabs), and strict **styling/grammar rules** (American English, Oxford comma, sentence-case headings) enforced by `supa-mdx-lint`.
+- Content reuse is enforced via **partials** in `apps/docs/content/_partials`; admonitions (`danger`, `tip`, etc.) must be used sparingly, and code blocks require Prettier formatting (JS/TS) and lowercase SQL syntax.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:59:22.651413+05:30
+- Published: 2026-06-28T19:54:21.637109+05:30
 
 ## Related Tags
 

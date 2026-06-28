@@ -3,17 +3,17 @@ title: EverPass
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://manager.upshow.tv/
-published_at: '2026-06-26T15:29:15.532813+05:30'
-collected_at: '2026-06-26T15:29:15.532827+05:30'
+source_url: https://help.upshow.tv/hc/en-us
+published_at: '2026-06-28T19:53:19.857700+05:30'
+collected_at: '2026-06-28T19:53:19.857713+05:30'
 tags:
-- hackernews
+- reddit
 - web-crawled
 status: active
 resource_id: blog:everpass
-first_seen: '2026-06-26T15:29:15.532827+05:30'
-last_seen: '2026-06-26T15:29:15.532827+05:30'
-last_checked: '2026-06-26T15:29:15.532827+05:30'
+first_seen: '2026-06-28T19:53:19.857713+05:30'
+last_seen: '2026-06-28T19:53:19.857713+05:30'
+last_checked: '2026-06-28T19:53:19.857713+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Error Context**: The message "You need to enable JavaScript to run this app" indicates that the web application requires JavaScript execution to function, but the browser has it disabled.
+- **EverPass Platform Overview**: Centralized dashboard for managing screens, devices, and data analytics with modular control over content delivery and user engagement metrics.
 
-- **Technical Dependency**: Modern web applications rely heavily on client-side JavaScript for dynamic content rendering, API interactions, and real-time updates, making JavaScript a critical runtime dependency.
+- **Live Event Streaming**: Supports real-time streaming of live events via EverPass Manager, enabling direct integration with Xumo devices for Spectrum Business customers.
 
-- **Resolution Path**: Users must enable JavaScript in their browser settings (e.g., via `about:config` in Firefox, `chrome://settings/content/javascript` in Chrome) to resolve this blocker and access the application's full functionality.
+- **Device Management & Billing**: Provides end-to-end device lifecycle support (installation, troubleshooting, ordering) and a dedicated billing system with customizable forms for user/admin operations.
 
 ## Why It Matters
 
@@ -35,13 +35,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T15:29:15.532813+05:30
+- Published: 2026-06-28T19:53:19.857700+05:30
 
 ## Related Tags
 
-- hackernews
+- reddit
 - web-crawled
 
 ## Source
 
-Original source: https://manager.upshow.tv/
+Original source: https://help.upshow.tv/hc/en-us

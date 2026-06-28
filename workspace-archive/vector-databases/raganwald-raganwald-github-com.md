@@ -8,14 +8,14 @@ local_vault_path: ai/rag/raganwald-raganwald-github-com.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - html
 - rag
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # raganwald/raganwald.github.com
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository hosting a personal website (`raganwald.com`), leveraging Markdown for content and Liquid templating for dynamic rendering.
-- **Minimalist Structure**: HTML-centric with no additional dependencies or topics, relying solely on Jekyll’s default configuration for static site generation.
-- **Outdated Metadata**: Last commit timestamp (`2026-06-20T15:41:20Z`) suggests potential future-dated or incorrect version control history.
+- **Static Site Generator**: Jekyll-based repository for generating the personal website `raganwald.com`, leveraging Liquid templating and Markdown for content rendering.
+- **GitHub Pages Integration**: Hosted directly via GitHub Pages, utilizing the `gh-pages` branch for deployment with automatic build and update on push.
+- **Minimalist Structure**: Pure HTML output with no JavaScript frameworks; relies on Jekyll’s default Sass compilation and asset pipeline for styling.
 
 ## Use Cases
 

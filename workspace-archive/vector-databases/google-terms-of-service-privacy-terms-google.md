@@ -2,7 +2,7 @@
 title: Google Terms of Service – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://policies.google.com/terms?hl=en_US
+source_url: https://myaccount.google.com/termsofservice?hl=en-US
 resource_id: blog:google-terms-of-service-privacy-terms-google
 local_vault_path: ai/rag/google-terms-of-service-privacy-terms-google.md
 quality_score: 70
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Legal & Contractual Framework**: Google LLC (Delaware-registered, USA) provides services under updated Terms of Service (effective May 22, 2024) governing user access, compliance requirements, and service-specific policies (e.g., AI use restrictions).
+- **Service Provider & Legal Framework**: Google LLC (Mountain View, CA) operates under Delaware state laws and U.S. federal regulations, with terms effective May 22, 2024, and updates planned for July 30, 2026. Users under the age of digital consent must have parental/guardian approval, with additional age restrictions applying to specific services.
 
-- **Service Provision & Modifications**: Google reserves rights to modify/add/remove features, enforce usage limits, and terminate services with advance notice (except for urgent security/legal cases), while providing export tools (e.g., Googl
+- **Service Scope & AI Integration**: Google provides a broad suite of services (Search, Maps, Pixel devices, etc.) under a unified framework, lev
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://policies.google.com/terms?hl=en_US
+Original source URL: https://myaccount.google.com/termsofservice?hl=en-US
 
 ## Local Vault File
 

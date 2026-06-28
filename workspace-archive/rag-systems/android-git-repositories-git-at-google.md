@@ -6,10 +6,10 @@ source_url: https://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
-importance: high
+resource_kind: benchmark
+importance: medium
 tags:
 - benchmark
 - frontend_ui
@@ -23,7 +23,7 @@ tags:
 - scripts
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # android Git repositories - Git at Google
@@ -31,17 +31,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for the Android Open Source Project (AOSP) and related components, with Gerrit-based code review integration.
+- **Git Repositories**: The Android Open Source Project (AOSP) hosts hundreds of Git repositories under `android.googlesource.com`, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory/emulator targets (e.g., `device/google/accessory/arduino`, `device/generic/mini-emulator-x86`).
 
-- **Device-Specific Kernel & HAL Repositories**: Contains device-specific repositories (e.g., `device/google/bluejay`, `device/google/barbet`) with kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and hardware abstraction layer (HAL) configurations for
+- **Kernel & SEPolicy Branches**: Many device repositories include kernel branches (e.g., `device/google/akita-kernels/6.
 
 ## Use Cases
 

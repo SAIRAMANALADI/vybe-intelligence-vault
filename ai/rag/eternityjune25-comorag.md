@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-28T15:05:57.254898+05:30'
+collected_at: '2026-06-28T19:49:19.662692+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-28T15:05:57.254898+05:30'
-last_seen: '2026-06-28T15:05:57.254898+05:30'
-last_checked: '2026-06-28T15:05:57.254898+05:30'
+first_seen: '2026-06-28T19:49:19.662692+05:30'
+last_seen: '2026-06-28T19:49:19.662692+05:30'
+last_checked: '2026-06-28T19:49:19.662692+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long-form narrative reasoning via structured memory modules.
+- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Memory-Organized Retrieval**: Implements hierarchical memory retrieval (short-term, episodic, semantic) with dynamic attention mechanisms to optimize context relevance for multi-turn reasoning tasks.
+- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or documents, enhancing reasoning depth.
 
-- **AAAI 2026 Poster**: Proposes a novel evaluation framework for long narrative reasoning, demonstrating superior performance over traditional RAG baselines in coherence, factual consistency, and contextual recall.
+- **AAAI 2026 Poster Submission**: Presented as a cutting-edge RAG system with 339 GitHub stars, emphasizing advancements in memory-augmented AI for complex reasoning tasks.
 
 ## Why It Matters
 

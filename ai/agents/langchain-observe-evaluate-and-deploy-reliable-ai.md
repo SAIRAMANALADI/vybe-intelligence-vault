@@ -4,17 +4,18 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://www.langchain.com/
-published_at: '2026-06-28T10:24:58.139300+05:30'
-collected_at: '2026-06-28T10:24:58.139312+05:30'
+published_at: '2026-06-28T19:50:50.143157+05:30'
+collected_at: '2026-06-28T19:50:50.143182+05:30'
 tags:
 - agents
 - benchmark
+- scripts
 - web-crawled
 status: active
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
-first_seen: '2026-06-28T10:24:58.139312+05:30'
-last_seen: '2026-06-28T10:24:58.139312+05:30'
-last_checked: '2026-06-28T10:24:58.139312+05:30'
+first_seen: '2026-06-28T19:50:50.143182+05:30'
+last_seen: '2026-06-28T19:50:50.143182+05:30'
+last_checked: '2026-06-28T19:50:50.143182+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals for agent improvement via structured trace analysis and code diagnostics.
 
-- **Automated evaluation & deployment**: Captures production traces for reusable LLM-as-judge/multi-turn evals, integrates human feedback, and deploys agents via a fault-tolerant runtime with durable checkpointing, async collaboration, and native A2A/MCP protocol support.
+- **Multi-Layer Agent Platform**: Supports observability (native tracing, OpenTelemetry, SDKs), evaluation (LLM-as-judge, human feedback), deployment (async memory, A2A/MCP protocols), and fleet management (enterprise-grade automation).
 
-- **Enterprise agent orchestration**: Fleet enables no-code agent creation with BYOM (Bring Your Own Model), MCP server extensibility, and LangSmith-integrated tracing; supports pro-code export and iterative improvement via user feedback.
+- **Open-Source Frameworks**: Provides `deepagents` (autonomous agents), `langchain` (rapid prototyping), and `langgraph` (deterministic production agents) for flexible agent development across Python, TypeScript, Go, and Java.
 
 ## Why It Matters
 
@@ -36,12 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T10:24:58.139300+05:30
+- Published: 2026-06-28T19:50:50.143157+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- scripts
 - web-crawled
 
 ## Source

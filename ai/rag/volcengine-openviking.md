@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-28T15:04:52.225016+05:30'
-published_at: '2026-06-28T09:24:46Z'
+collected_at: '2026-06-28T19:48:14.619223+05:30'
+published_at: '2026-06-28T13:35:13Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 26121
+stars: 26124
 language: Python
 status: active
 license: AGPL-3.0
 archived: false
 created_at: '2026-01-05T07:11:17Z'
-pushed_at: '2026-06-27T06:09:16Z'
+pushed_at: '2026-06-28T10:19:04Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-28T15:04:52.225016+05:30'
-last_seen: '2026-06-28T15:04:52.225016+05:30'
-last_checked: '2026-06-28T15:04:52.225016+05:30'
+first_seen: '2026-06-28T19:48:14.619223+05:30'
+last_seen: '2026-06-28T19:48:14.619223+05:30'
+last_checked: '2026-06-28T19:48:14.619223+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Context Management**: OpenViking provides a file system-based paradigm for hierarchical context delivery (memory, resources, skills) tailored for AI Agents, enabling self-evolving capabilities through structured context engineering.
+- **Context Database for AI Agents**: OpenViking is an open-source, file system-paradigm-based context database designed to unify memory, resources, and skills management for AI agents (e.g., OpenClaw), enabling hierarchical context delivery and self-evolution.
 
-- **Agent-Specific Design**: Optimized for AI Agents (e.g., OpenClaw), it integrates seamlessly with agentic RAG (Retrieval-Augmented Generation) workflows, facilitating skill/resource retrieval and memory persistence via a filesystem-like interface.
+- **Hierarchical & Self-Evolving Architecture**: Implements a filesystem-like structure for hierarchical context organization, supporting dynamic self-evolution of agent capabilities through context engineering.
 
-- **Open-Source Python Framework**: Built in Python, OpenViking supports modular context operations (e.g., memory, skills) and is actively maintained (last updated June 2026) with a growing community (26K+ stars, 2K+ forks).
+- **Python-Based & Agentic-RAG Focused**: Built in Python, OpenViking integrates with agentic RAG (Retrieval-Augmented Generation) systems, supporting skills, memory, and resource management for LLM-powered agents.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: volcengine
-- Stars: 26121
+- Stars: 26124
 - Forks: 2028
 - Language: Python
 - Topics: agent, agentic-rag, ai-agents, clawbot, context-database, context-engineering, filesystem, llm, memory, openclaw, opencode, rag, skill
-- Last Updated: 2026-06-28T09:24:46Z
+- Last Updated: 2026-06-28T13:35:13Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-01-05T07:11:17Z
-- Pushed At: 2026-06-27T06:09:16Z
+- Pushed At: 2026-06-28T10:19:04Z
 
 ## Possible Use Cases
 

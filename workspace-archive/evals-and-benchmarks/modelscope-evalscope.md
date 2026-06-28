@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Designed for efficient evaluation and benchmarking of large models (LLM, VLM, AIGC) with customizable workflows.
-- **Key Features**: Streamlined architecture supporting modular evaluation pipelines, performance metrics, and extensible benchmarking tools.
-- **Technical Stack**: Python-based implementation with support for RAG (Retrieval-Augmented Generation) and multi-modal model evaluations.
+- **Framework Overview**: EvalScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and streamlined workflows.
+
+- **Key Features**: Supports performance benchmarking across diverse tasks (e.g., RAG, multimodal evaluation) with extensible evaluation metrics and standardized testing protocols for reproducibility.
+
+- **Technical Stack**: Built on Python with integrations for model-specific optimiz
 
 ## Use Cases
 

@@ -11,13 +11,14 @@ tags:
 - anthropic
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:luongnv89/claude-howto
 first_seen: '2026-06-27T19:37:06.008905+05:30'
 last_seen: '2026-06-28T15:03:35.519695+05:30'
 last_checked: '2026-06-28T15:03:35.519695+05:30'
 health_score: 100
 ---
+
 
 # luongnv89/claude-howto
 

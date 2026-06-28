@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-28T15:05:52.284452+05:30'
+collected_at: '2026-06-28T19:49:19.651236+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-28T15:05:52.284452+05:30'
-last_seen: '2026-06-28T15:05:52.284452+05:30'
-last_checked: '2026-06-28T15:05:52.284452+05:30'
+first_seen: '2026-06-28T19:49:19.651236+05:30'
+last_seen: '2026-06-28T19:49:19.651236+05:30'
+last_checked: '2026-06-28T19:49:19.651236+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Implementation**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed computing, integrating Llama2 and OpenAI models with optimized serving via Ray Serve.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference performance using Anyscale’s infrastructure, with benchmarks for latency/efficiency trade-offs.
-- **End-to-End Deployment**: Provides templates for deploying RAG applications in production, covering vector DB integration, dynamic prompt engineering, and scalable batch/real-time inference pipelines.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Anyscale, emphasizing scalable training and inference optimization techniques.
+- **End-to-End Deployment**: Provides guides for deploying LLM applications via Ray Serve, covering model serving, retrieval systems, and integration with vector databases.
 
 ## Why It Matters
 

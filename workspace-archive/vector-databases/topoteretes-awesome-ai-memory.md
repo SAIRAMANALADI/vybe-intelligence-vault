@@ -6,17 +6,18 @@ source_url: https://github.com/topoteretes/awesome-ai-memory
 resource_id: github:topoteretes/awesome-ai-memory
 local_vault_path: ai/rag/topoteretes-awesome-ai-memory.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,16 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including RAG (Retrieval-Augmented Generation) and memory management for AI agents.
-- **Python-centric ecosystem**: All listed projects are Python-based, emphasizing compatibility with ML/AI libraries (e.g., PyTorch, LangChain) and AI engineering workflows.
-- **Actively maintained**: Last updated in 2026, indicating ongoing updates and relevance to cutting-edge AI memory
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including long-term memory, context retention, and memory-augmented architectures.
+- **Python-centric ecosystem**: Majority of projects are implemented in Python, leveraging libraries like `transformers`, `langchain`, and `faiss` for memory storage, retrieval, and integration with LLMs.
+- **Covers RAG and agentic memory**: Includes projects on Retrieval-Augmented Generati
 
 ## Use Cases
 

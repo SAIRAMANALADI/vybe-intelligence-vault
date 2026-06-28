@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - rag
 - scripts
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Extensive Template Library**: Repository contains **280+ pre-built n8n automation templates** covering integrations with **Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI**, and more, enabling rapid workflow deployment without custom coding.
+- **Extensive n8n Template Collection**: Repository contains **280+ pre-built automation workflows** for platforms like Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, and OpenAI, covering AI agents, RAG chatbots, email automation, social media, DevOps, and document processing.
 
-- **Diverse Automation Domains**: Templates span **AI agents, RAG chatbots, email automation, social media management, DevOps pipelines, and document processing**, catering to both **low-code/no-code** and **self-hosted** use cas
+- **High Community Engagement**: Achieved **23,524 stars** and **6,205 forks**, indicating strong adoption and contribution within the n8n automation ecosystem.
+
+- **Technical Scope**: Supports **low-cod
 
 ## Use Cases
 

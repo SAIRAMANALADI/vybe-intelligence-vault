@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - leaderboard
 - python
 - rag
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 58 datasets spanning 11 tasks (e.g., retrieval, clustering, STS, reranking) in 12+ languages and multimodal settings, enabling standardized comparison of models like Sentence-BERT and neural search systems.
+- **Comprehensive Benchmark Suite**: MTEB provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, reranking, STS, and bitext mining, supporting both multilingual and multimodal evaluations.
 
-- **Multilingual & Multimodal Support**: Includes low-resource language benchmarks and multimodal tasks (e.g., image-text retrieval), addressing gaps in prior embedding evaluations with a focus on cross-lingual and cr
+- **Extensive Task Coverage**: Supports 58 datasets in 112 languages, with additional support for low-resource languages and modalities beyond text (e.g., image-text pairs), enabling robust cross-lingual and cross-modal assessment
 
 ## Use Cases
 

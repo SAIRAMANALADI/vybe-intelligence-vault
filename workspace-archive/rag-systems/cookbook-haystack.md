@@ -6,7 +6,7 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and advanced RAG pipelines, including hybrid retrieval, query decomposition, and metadata enrichment.
+- **Haystack Cookbook**: A repository of 71 technical recipes demonstrating integration of model providers, vector databases, retrieval techniques, and more, with Haystack. Topics include Agents, RAG, Advanced Retrieval, Multimodal, Model Serving, and Evaluation.
 
-- **Key features** include agentic workflows (e.g., itinerary planning, GitHub issue resolution), multimodal RAG, function calling, and model serving (e.g., vLLM, NVIDIA NIMs), with experimental tools like Mem0 memory store and DSPy prompt optimization.
+- **Key Features**: Recipes cover advanced use cases like Agentic Itinerary Planning with OpenStreetMap, Hybrid RAG with Breakpoints, Multimodal Agents, and RAG pipelines with tools like vLLM, NVIDIA NIMs, and FastEmbed.
+
+- **Contribut
 
 ## Use Cases
 

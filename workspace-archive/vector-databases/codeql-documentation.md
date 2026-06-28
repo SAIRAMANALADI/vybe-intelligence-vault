@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -29,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL** treats code as data, enabling vulnerability detection via declarative queries (QL) to identify and eliminate variants of security flaws across codebases.
-- **Supported languages/frameworks** (e.g., C/C++, Java, Python, JavaScript) and **CWE coverage** are documented, with **change logs** and **system requirements** available for the latest releases.
-- **Resources** include the **CodeQL CLI**, **VS Code extension**, and **GitHub repository**, alongside **QL language reference**, **st
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities across supported languages/frameworks via a declarative QL language.
+- **Core Resources**: Provides CLI releases, VS Code extension, and open-source repository for libraries/queries; includes system requirements and CWE coverage documentation.
+- **Technical Documentation**: Offers QL language reference, standard libraries, query help, and guides for writing/efficiently running queries on codebases.
 
 ## Use Cases
 

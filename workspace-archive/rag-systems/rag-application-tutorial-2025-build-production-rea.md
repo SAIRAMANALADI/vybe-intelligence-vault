@@ -7,9 +7,9 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 88
+archive_score: 90
 archive_tier: essential
-resource_kind: framework
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -32,17 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 88 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 90 (essential)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like hybrid search combining dense and sparse retrieval), and vector storage/ retrieval using Supabase; LangChain provides the orchestration framework for end-to-end workflows.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like late-interaction embeddings), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain/PyTorch-based pipelines).
 
-- **Production Hardening**: Key optimizations involve token-efficient retrieval (e.g., query expansion/rewriting), latency mitigation via caching and load balancing across model instances, and observ
+- **Production Optimizations**: Implements hybrid retrieval (dense + sparse embeddings), query rewriting, caching strategies, and load balancing across multiple models; deployment via Cloudflare Workers with Sentry
 
 ## Use Cases
 

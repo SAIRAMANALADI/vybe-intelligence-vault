@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs
-published_at: '2026-06-27T21:58:11.871017+05:30'
-collected_at: '2026-06-27T21:58:11.871026+05:30'
+published_at: '2026-06-28T19:52:26.292044+05:30'
+collected_at: '2026-06-28T19:52:26.292060+05:30'
 tags:
 - frontend_ui
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:supabase-docs
-first_seen: '2026-06-27T21:58:11.871026+05:30'
-last_seen: '2026-06-27T21:58:11.871026+05:30'
-last_checked: '2026-06-27T21:58:11.871026+05:30'
+first_seen: '2026-06-28T19:52:26.292060+05:30'
+last_seen: '2026-06-28T19:52:26.292060+05:30'
+last_checked: '2026-06-28T19:52:26.292060+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- Supabase provides a managed PostgreSQL database with built-in realtime capabilities, automated backups, and support for extensions, accessible via RESTful APIs and client libraries.
-- Core services include authentication (email/password, OAuth, passwordless), object storage with Row Level Security, and globally distributed edge functions for low-latency execution.
-- Supports migrations from AWS RDS, Firebase Auth/Storage, MySQL, and other databases, with self-hosting options via dedicated Auth, Realtime, Storage, and Analytics components.
+- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like real-time subscriptions, automated backups, and support for extensions (e.g., PostGIS, pg_cron).
+
+- **Unified Auth & Storage**: Supports multi-factor authentication (MFA), OAuth, and passwordless logins via `supabase-js`/`auth-helpers`, while `Storage` offers S3-compatible object storage with Row-Level Security (RLS) integration.
+
+- **Edge Compute & APIs**: Deploy globally distributed serverless functions via Edge Functions (Deno-based), with REST/GraphQL APIs auto-generated from database schema and real-time updates via WebSocket-based Realtime API.
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:58:11.871017+05:30
+- Published: 2026-06-28T19:52:26.292044+05:30
 
 ## Related Tags
 

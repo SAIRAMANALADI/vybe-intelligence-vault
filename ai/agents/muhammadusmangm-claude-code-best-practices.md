@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-06-28T15:06:57.325861+05:30'
+collected_at: '2026-06-28T19:50:19.702878+05:30'
 published_at: '2026-06-27T09:27:48Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
-- scripts
 - shell
 - workflows
 stars: 56
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-06-28T15:06:57.325861+05:30'
-last_seen: '2026-06-28T15:06:57.325861+05:30'
-last_checked: '2026-06-28T15:06:57.325861+05:30'
+first_seen: '2026-06-28T19:50:19.702878+05:30'
+last_seen: '2026-06-28T19:50:19.702878+05:30'
+last_checked: '2026-06-28T19:50:19.702878+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tools**, **LLM integration**, **MCP (Model Context Protocol)**, and **developer tooling** with Shell-based automation.
-- **Metadata**: 56 stars, 10 forks, last updated **2026-06-27**; topics include `agentic-ai`, `anthropic`, `claude`, `llm`, and `mcp`.
+- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+- **Technical Focus**: Primarily shell-based repository (`Shell` language) targeting `Claude Code` users, with emphasis on `agentic-ai`, `LLM`, and `MCP` integrations for developer tooling.
+- **Maintenance & Updates**: Last updated on **2026-06-27**, with **56 stars** and **10 forks**, indicating active community engagement in AI-driven development practices.
 
 ## Why It Matters
 

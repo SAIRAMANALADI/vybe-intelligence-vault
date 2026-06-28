@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,180</p>
-        <p><b>Active:</b> 8,941 | <b>Inactive:</b> 239</p>
+        <p><b>Resources tracked:</b> 9,209</p>
+        <p><b>Active:</b> 8,956 | <b>Inactive:</b> 253</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,917</p>
+        <p><b>Archive Files:</b> 34,987</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 17:52 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 20:03 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,19 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+10</kbd>
-- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+10</kbd>
+- 🔼 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)** • <kbd>+23 pts</kbd> • Rank: <kbd>+5</kbd>
+- 🔼 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • <kbd>+19 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[vitejs/awesome-vite](ai/resources/vitejs-awesome-vite.md)** • Rank: <kbd>+702</kbd>
+- 🔼 **[VueUse](ai/resources/vueuse.md)** • Rank: <kbd>+710</kbd>
+- 🔼 **[Vite | Next Generation Frontend Tooling](ai/rag/vite-next-generation-frontend-tooling.md)** • Rank: <kbd>+687</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The best response to AI slop and online noise is from Robin Williams](ai/community/response-to-ai-slop-is-from-robin-williams.md)** • Score: `215`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • Score: `55`
+- 🆕 **[The origins of the school system aimed to produce independent, critical thinkers](ai/community/the-origins-of-the-school-system-aimed-to-produce.md)** • Score: `24`
+- 🆕 **[From Hallmark to neon signs: A look at Jim Parkinson's career in letter art](ai/community/from-hallmark-to-neon-signs-a-look-at-jim-parkinso.md)** • Score: `19`
+- 🆕 **[Austria Lobbies EU to Host Anthropic After US Access Curbs](ai/community/austria-lobbies-eu-to-host-anthropic-after-us-acce.md)** • Score: `18`
+- 🆕 **[Google limits Meta's use of its Gemini AI models](ai/community/google-limits-meta-s-use-of-its-gemini-ai-models.md)** • Score: `15`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)**
+- 💤 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)**
+- 💤 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)**
+- 💤 **[Ford hired AI and sacked humans. It backfired badly](ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md)**
+- 💤 **[anomalyco/opencode](ai/agents/anomalyco-opencode.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

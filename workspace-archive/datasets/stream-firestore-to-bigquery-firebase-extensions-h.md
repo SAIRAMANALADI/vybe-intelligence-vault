@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Real-time Incremental Sync**: Exports real-time, incremental updates from a specified Cloud Firestore collection to BigQuery, maintaining a mirrored dataset with metadata fields (`timestamp`, `document_name`, `operation`) in a raw changelog table and a view for current state.
-
-- **Materialized View Support**: Generates both regular and materialized views in BigQuery (incremental/non-incremental), with configurable refresh intervals and max staleness; SQL definitions cannot be modified post-c
+- **Real-time Incremental Sync**: Streams realtime, incremental updates from a specified Cloud Firestore collection to BigQuery, maintaining a mirrored dataset with metadata fields (`timestamp`, `document_name`, `operation`) for change tracking.
+- **Dual BigQuery Resources**: Automatically generates a raw changelog table (full history) and a view (current state) for the mirrored collection, with support for materialized views (incremental/non-incremental) and optional partitioning/clustering.
+-
 
 ## Use Cases
 

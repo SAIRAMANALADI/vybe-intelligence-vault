@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -30,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **EverPass Manager**: Centralized dashboard for managing screens, devices, and data analytics, serving as the primary control hub for the platform.
-- **Live Event Streaming**: Supports real-time streaming of live events directly through the EverPass infrastructure with dedicated tutorials for setup and management.
-- **Device & Billing Management**: Provides end-to-end support for device installation, troubleshooting, ordering, and billing-related operations via structured forms and documentati
+- **EverPass Platform Overview**: Centralized dashboard for managing screens, devices, and data analytics with modular control over content delivery and user engagement metrics.
+
+- **Live Event Streaming**: Supports real-time streaming of live events via EverPass Manager, enabling direct integration with Xumo devices for Spectrum Business customers.
+
+- **Device Management & Billing**: Provides end-to-end device lifecycle support (installation, troubleshooting, ordering) and a dedicated billing s
 
 ## Use Cases
 

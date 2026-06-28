@@ -15,7 +15,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, planning, and reasoning loops for complex workflows.
-- **Agentic AI development**: Includes tutorials on agentic frameworks, memory management, and RAG (Retrieval-Augmented Generation) integration for enhanced agentic capabilities.
-- **Jupyter Notebook-based**: All projects and tutorials are implemented in Jupyter Notebooks, covering agentic coding, engineering, and workflow automation.
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed tasks, emphasizing inter-agent communication, role specialization, and conflict resolution.
+- **Memory & reasoning loops**: Implements persistent memory architectures and iterative reasoning pipelines for context-aware decision-making in agentic workflows.
+- **Jupyter Notebook-based tutorials**: Provides executable code examples for agentic AI development, covering planning, RAG integration, and skill-based
 
 ## Use Cases
 

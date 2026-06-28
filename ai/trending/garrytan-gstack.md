@@ -10,13 +10,14 @@ tags:
 - anthropic
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:garrytan/gstack
 first_seen: '2026-06-23T01:03:50.204293+05:30'
 last_seen: '2026-06-28T15:03:35.518728+05:30'
 last_checked: '2026-06-28T15:03:35.518728+05:30'
 health_score: 100
 ---
+
 
 # garrytan/gstack
 

@@ -13,6 +13,7 @@ importance: medium
 tags:
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, optimizing incident response efficiency.
+- **AI-driven alert noise reduction**: Automatically filters and prioritizes critical alerts to minimize unnecessary pages, leveraging machine learning to distinguish between high-impact incidents and routine notifications.
 
-- **Automated human-centric scheduling**: Dynamically assigns on-call duties based on team availability, skills, and rotation rules, ensuring optimal coverage and reduced burnout.
+- **Dynamic on-call scheduling**: Implements intelligent rotation logic with conflict detection, ensuring optimal coverage while accounting for team availability, time zones, and escalation policies.
 
-- **Real-time incident trends analysis**: Provides actionable insights via visual dashboards, tracking response times, incident frequency, and resolution
+- **Real-time incident trends & analytics**: Provides historical and predi
 
 ## Use Cases
 

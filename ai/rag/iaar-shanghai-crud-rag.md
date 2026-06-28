@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-28T15:05:32.252897+05:30'
+collected_at: '2026-06-28T19:48:54.609664+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-28T15:05:32.252897+05:30'
-last_seen: '2026-06-28T15:05:32.252897+05:30'
-last_checked: '2026-06-28T15:05:32.252897+05:30'
+first_seen: '2026-06-28T19:48:54.609664+05:30'
+last_seen: '2026-06-28T19:48:54.609664+05:30'
+last_checked: '2026-06-28T19:48:54.609664+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on large language models (LLMs) with metrics spanning **C**omprehension, **R**etrieval, **U**tilization, and **D**ecision-making (CRUD) tasks.
-
-- **Evaluation Framework**: The benchmark includes **multi-modal retrieval** (text, tables, knowledge graphs) and assesses LLMs on **contextual understanding**, **retrieval accuracy**, and **response generation** under Chinese linguistic constraints.
-
-- **Open-Source Toolkit**: Provides a Python-based toolkit for benchmarking, including **pre-trained models**, **retrieval pipelines**, and **evaluation scripts** to standardize RAG performance assessment in Chinese.
+- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create**, **Retrieve**, **Update**, and **Delete** operations in LLMs.
+- **Evaluation Framework**: Provides a standardized testbed for assessing RAG models on **Chinese-language tasks**, including knowledge-intensive QA, document retrieval, and dynamic data updates.
+- **Open-Source Toolkit**: Released under Python, the repository includes datasets, evaluation metrics, and reference implementations to facilitate reproducible research in multilingual RAG systems.
 
 ## Why It Matters
 

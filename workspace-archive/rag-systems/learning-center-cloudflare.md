@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **DDoS Attacks**: Distributed denial-of-service (DDoS) attacks involve a coordinated network of compromised machines overwhelming a target system, rendering it inaccessible to legitimate users by flooding access points with malicious traffic.
+- **DDoS Attacks**: Distributed denial-of-service (DDoS) attacks involve a coordinated network of compromised systems overwhelming a target's access point, rendering services unavailable to legitimate users by flooding bandwidth or resource limits.
 
-- **CDN Functionality**: Content Delivery Networks (CDNs) utilize distributed edge servers to cache and deliver static/dynamic content, reducing latency and improving reliability via techniques like Anycast routing and edge caching.
+- **CDN Mechanics**: Content Delivery Networks (CDNs) utilize distributed edge servers to cache and deliver static/dynamic content, reducing latency and improving reliability via techniques like Anycast routing and optimized caching strategies.
 
-- **Zero Trust Archi
+- **
 
 ## Use Cases
 

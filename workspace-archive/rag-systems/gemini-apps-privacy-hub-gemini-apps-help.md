@@ -2,7 +2,7 @@
 title: Gemini Apps Privacy Hub - Gemini Apps Help
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+source_url: https://support.google.com/gemini/answer/13594961#privacy_notice
 resource_id: blog:gemini-apps-privacy-hub-gemini-apps-help
 local_vault_path: ai/rag/gemini-apps-privacy-hub-gemini-apps-help.md
 quality_score: 70
@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection Scope**: Collects user-provided inputs (prompts, files, transcripts, feedback) and automatically generated outputs (text, code, audio, images) from Gemini Apps, including metadata from connected apps, devices, and services (e.g., browser context, device permissions, location data).
+- **Data Collection Scope**: Gemini Apps collect explicit user inputs (prompts, files, transcripts, feedback) and contextual metadata (device/browser data, permissions, location, app interactions) to power AI responses, personalization, and service improvements.
 
-- **Processing Purposes**: Data used for service provision, improvement, personalization, and security, with human review for quality control; includes grounding responses in Google Search results
+- **Processing & Retention**: Data is processed for service delivery, model training, and human review (with anonymization where possible), with retention tied to user settings (e.g., "Keep Activity" controls) and legal obligations.
+
+-
 
 ## Use Cases
 
@@ -50,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.google.com/gemini/answer/13594961?hl=en_US#privacy_notice
+Original source URL: https://support.google.com/gemini/answer/13594961#privacy_notice
 
 ## Local Vault File
 

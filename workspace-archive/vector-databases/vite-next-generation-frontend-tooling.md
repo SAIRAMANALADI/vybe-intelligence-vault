@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vite-next-generation-frontend-tooling.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - hackernews
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Vite | Next Generation Frontend Tooling
@@ -26,17 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand source file serving, eliminating bundling overhead during development and enabling instant server start times.
+- **Native ESM-based Dev Server**: Vite leverages native ES modules for on-demand source file serving, eliminating bundling overhead during development and enabling instant server start via dependency pre-bundling with esbuild.
 
-- **Optimized Production Builds**: Uses advanced tree-shaking, built-in minification, and fine-grained chunking via Rolldown for highly optimized production outputs.
+- **Optimized Production Builds**: Uses Rolldown (Rollup-compatible) for advanced tree-shaking, built-in minification, and fine-grained chunking, while maintaining Rollup plugin compatibility for extensibility.
 
-- **Extensible Plugin System**: Built on Rollup’s plugin interface with Vite-specific enhancements, supporting TypeScript, JSX, CSS, Worker
+- **Framework-Agnostic Plugin System**: Extends Rollup’s pl
 
 ## Use Cases
 

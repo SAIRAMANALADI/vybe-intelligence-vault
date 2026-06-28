@@ -6,15 +6,15 @@ source_url: https://github.com/wassim249/fastapi-langgraph-agent-production-read
 resource_id: github:wassim249/fastapi-langgraph-agent-production-ready-template
 local_vault_path: ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md
 quality_score: 70
-archive_score: 89
+archive_score: 87
 archive_tier: essential
 resource_kind: template
 importance: high
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for REST endpoints with LangGraph for building scalable, stateful AI agent workflows with structured memory and tool orchestration.
+- **FastAPI + LangGraph Integration**: Production-ready template combining FastAPI for API services with LangGraph for building scalable AI agent applications, emphasizing modularity and maintainability.
 
-- **Pre-configured Infrastructure**: Includes Docker support, security best practices (e.g., CORS, rate limiting), and modular architecture for LLM integration (LangChain/LangGraph) with persistent memory backends.
+- **Key Features**: Includes Docker support, memory management, and integration with LangChain/LLM frameworks for agentic AI workflows.
 
-- **Observability & Maintainability**: Built-in logging, error handl
+- **Technical Stack**: Python-based, optimized for agentic AI with structured templates for security, scalability, and deployment readiness.
 
 ## Use Cases
 

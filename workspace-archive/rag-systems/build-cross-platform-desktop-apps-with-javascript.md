@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://electronjs.org/
+source_url: https://www.electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Runtime Architecture**: Electron combines Chromium's rendering engine and Node.js runtime, enabling cross-platform desktop applications using JavaScript, HTML, and CSS.
 
-- **Security & Stability**: Releases are synchronized with Chromium updates for immediate security patches and stable rendering targets.
+- **Security & Maintenance**: Synchronized major releases with Chromium ensure immediate security patches, while open-source governance under the OpenJS Foundation fosters community-driven stability.
 
-- **Tooling & Ecosystem**: Supports npm packages, native add-ons, auto-updates (via Squirrel), and distribution tools (DMG/MSI/RPM) for enterprise-grade deployment.
+- **Tooling & Integration**: Supports native OS APIs (menus, dialogs, notifications), auto-updater modules, and integrates wi
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://electronjs.org/
+Original source URL: https://www.electronjs.org/
 
 ## Local Vault File
 

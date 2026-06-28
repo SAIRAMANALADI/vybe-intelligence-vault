@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/changelog
-published_at: '2026-06-28T10:26:28.940621+05:30'
-collected_at: '2026-06-28T10:26:28.940633+05:30'
+published_at: '2026-06-28T19:51:23.829202+05:30'
+collected_at: '2026-06-28T19:51:23.829220+05:30'
 tags:
+- scripts
 - web-crawled
 status: active
 resource_id: blog:github-changelog
-first_seen: '2026-06-28T10:26:28.940633+05:30'
-last_seen: '2026-06-28T10:26:28.940633+05:30'
-last_checked: '2026-06-28T10:26:28.940633+05:30'
+first_seen: '2026-06-28T19:51:23.829220+05:30'
+last_seen: '2026-06-28T19:51:23.829220+05:30'
+last_checked: '2026-06-28T19:51:23.829220+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Merge Tracking Enhancement**: Enterprise and organization reports now include total merge counts segmented by adoption phases (e.g., pilot, full adoption), enabling granular analysis of GitHub adoption trends across teams.
+- **Merge Tracking in Reports**: Enterprise and organization reports now include a new metric tracking total merges categorized by adoption phase (e.g., pilot, full adoption), enabling granular analysis of feature rollout progress.
 
-- **Copilot Integration Metrics**: New reporting capabilities track Copilot usage and merge activity, providing insights into AI-assisted development adoption and efficiency gains within organizations.
+- **Copilot Integration Metrics**: Enhanced reporting for GitHub Copilot usage, providing detailed insights into merge activity associated with AI-assisted development phases within enterprise environments.
 
-- **Account & Enterprise Tooling Updates**: Account management and enterprise tooling updates include refined reporting APIs and UI improvements for tracking merges, merges by phase, and Copilot integration metrics.
+- **Account & Enterprise Management APIs**: Updated APIs for account management and enterprise tools now expose merge adoption data, allowing programmatic access to phase-specific merge statistics for automation and integration.
 
 ## Why It Matters
 
@@ -34,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T10:26:28.940621+05:30
+- Published: 2026-06-28T19:51:23.829202+05:30
 
 ## Related Tags
 
+- scripts
 - web-crawled
 
 ## Source

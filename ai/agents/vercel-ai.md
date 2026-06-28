@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel/ai
-collected_at: '2026-06-28T15:06:32.358186+05:30'
-published_at: '2026-06-28T08:06:40Z'
+collected_at: '2026-06-28T19:49:59.709294+05:30'
+published_at: '2026-06-28T13:35:08Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - github-repo
 - openai
 - typescript
-stars: 25196
+stars: 25203
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-05-23T15:04:08Z'
 pushed_at: '2026-06-28T00:08:45Z'
 resource_id: github:vercel/ai
-first_seen: '2026-06-28T15:06:32.358186+05:30'
-last_seen: '2026-06-28T15:06:32.358186+05:30'
-last_checked: '2026-06-28T15:06:32.358186+05:30'
+first_seen: '2026-06-28T19:49:59.709294+05:30'
+last_seen: '2026-06-28T19:49:59.709294+05:30'
+last_checked: '2026-06-28T19:49:59.709294+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered applications and agents, supporting models like OpenAI, Anthropic, and Gemini.
+- **AI SDK**: Open-source TypeScript library by Vercel for building AI-powered apps and agents, supporting models like OpenAI, Anthropic, and Gemini.
 - **Multi-Framework Support**: Compatible with React, Next.js, Svelte, Vue, and JavaScript, enabling generative UI and LLM integration.
-- **Last Updated**: June 28, 2026; 25,196 stars, 4,671 forks.
+- **Active Development**: Last updated June 2026, with 25,203 stars and 4,671 forks, reflecting strong community adoption.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel
-- Stars: 25196
+- Stars: 25203
 - Forks: 4671
 - Language: TypeScript
 - Topics: anthropic, artificial-intelligence, gemini, generative-ai, generative-ui, javascript, language-model, llm, nextjs, openai, react, svelte, typescript, vercel, vue
-- Last Updated: 2026-06-28T08:06:40Z
+- Last Updated: 2026-06-28T13:35:08Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-23T15:04:08Z

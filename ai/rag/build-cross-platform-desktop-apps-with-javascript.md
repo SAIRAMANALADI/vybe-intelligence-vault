@@ -3,9 +3,9 @@ title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electr
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://electronjs.org/
-published_at: '2026-06-28T15:10:12.137950+05:30'
-collected_at: '2026-06-28T15:10:12.137963+05:30'
+source_url: https://www.electronjs.org/
+published_at: '2026-06-28T19:52:11.464603+05:30'
+collected_at: '2026-06-28T19:52:11.464619+05:30'
 tags:
 - anthropic
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
-first_seen: '2026-06-28T15:10:12.137963+05:30'
-last_seen: '2026-06-28T15:10:12.137963+05:30'
-last_checked: '2026-06-28T15:10:12.137963+05:30'
+first_seen: '2026-06-28T19:52:11.464619+05:30'
+last_seen: '2026-06-28T19:52:11.464619+05:30'
+last_checked: '2026-06-28T19:52:11.464619+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Runtime Architecture**: Electron combines Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
+- **Runtime Architecture**: Electron combines Chromium's rendering engine and Node.js runtime, enabling cross-platform desktop applications using JavaScript, HTML, and CSS.
 
-- **Security & Stability**: Releases are synchronized with Chromium updates for immediate security patches and stable rendering targets.
+- **Security & Maintenance**: Synchronized major releases with Chromium ensure immediate security patches, while open-source governance under the OpenJS Foundation fosters community-driven stability.
 
-- **Tooling & Ecosystem**: Supports npm packages, native add-ons, auto-updates (via Squirrel), and distribution tools (DMG/MSI/RPM) for enterprise-grade deployment.
+- **Tooling & Integration**: Supports native OS APIs (menus, dialogs, notifications), auto-updater modules, and integrates with front-end frameworks (React, Vue, Angular) via npm packages or native add-ons.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:10:12.137950+05:30
+- Published: 2026-06-28T19:52:11.464603+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://electronjs.org/
+Original source: https://www.electronjs.org/

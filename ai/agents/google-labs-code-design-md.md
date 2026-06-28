@@ -11,13 +11,14 @@ tags:
 - frontend_ui
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:google-labs-code/design.md
 first_seen: '2026-06-24T20:38:09.767604+05:30'
 last_seen: '2026-06-28T15:03:35.518171+05:30'
 last_checked: '2026-06-28T15:03:35.518171+05:30'
 health_score: 100
 ---
+
 
 # google-labs-code/design.md
 

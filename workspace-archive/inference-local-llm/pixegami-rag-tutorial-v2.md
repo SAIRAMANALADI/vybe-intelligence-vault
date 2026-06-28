@@ -12,13 +12,13 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- dataset
 - github-repo
 - meta-ai
+- mistral
 - models
 - python
 - rag
-- reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates end-to-end RAG pipeline using local language models (e.g., Ollama, LM Studio) with LangChain for inference and embedding generation.
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms to incorporate new documents without full re-indexing.
-- **Testing & Evaluation Framework**: Includes unit tests for retrieval quality, answer correctness, and performance benchmarks using synthetic datasets and met
+- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Llama, Mistral) via Ollama or vLLM, emphasizing offline inference and reduced API dependency.
+
+- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms for real-time document ingestion and embeddings, ensuring up-to-date retrieval context.
+
+- **Testing & Evaluation Framework**: Includes unit tests (e.g., pytest) and retrieval quality
 
 ## Use Cases
 

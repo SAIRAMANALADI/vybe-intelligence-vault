@@ -13,13 +13,14 @@ collected_at: '2026-06-28T15:03:36.274497+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:reducing-tick-density-along-recreational-trails-in
 first_seen: '2026-06-27T21:50:18.433862+05:30'
 last_seen: '2026-06-28T15:03:36.274497+05:30'
 last_checked: '2026-06-28T15:03:36.274497+05:30'
 health_score: 100
 ---
+
 
 # Reducing tick density along recreational trails in Ottawa, Canada
 

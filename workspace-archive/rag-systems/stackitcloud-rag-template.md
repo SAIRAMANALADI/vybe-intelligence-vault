@@ -35,15 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** for backend services.
+- **FastAPI-based RAG Framework**: Template implements Retrieval-Augmented Generation (RAG) with vector search for AI chatbots/document management, leveraging FastAPI for RESTful API endpoints.
 
-- **Key Components**:
-  - **FastAPI** for RESTful API endpoints.
-  - **Vector database** integration for semantic search.
-  - **Ollama** for local LLM inference (optional).
-  - **Docker/Kubernetes** support for containerized deployment.
+- **Vector Database Integration**: Supports vector search via embedded vector DB (e.g., Chroma, Weaviate) for efficient document retrieval and LLM context augmentation.
 
-- **Tech Stack**: Python-based, supports **LLM integration**, **vector
+- **Containerized Deployment**: Docker/Kubernetes-ready for scalable orchestration, with Ollama integration for local LLM inference and
 
 ## Use Cases
 

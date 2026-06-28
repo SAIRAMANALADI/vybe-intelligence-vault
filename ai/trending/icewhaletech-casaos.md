@@ -9,13 +9,14 @@ collected_at: '2026-06-28T15:03:35.517814+05:30'
 tags:
 - github-trending
 - go
-status: active
+status: inactive
 resource_id: github:icewhaletech/casaos
 first_seen: '2026-06-25T16:35:46.163710+05:30'
 last_seen: '2026-06-28T15:03:35.517814+05:30'
 last_checked: '2026-06-28T15:03:35.517814+05:30'
 health_score: 100
 ---
+
 
 # IceWhaleTech/CasaOS
 

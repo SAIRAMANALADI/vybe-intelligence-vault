@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-28T15:04:42.191929+05:30'
-published_at: '2026-06-27T18:06:08Z'
+collected_at: '2026-06-28T19:48:04.549105+05:30'
+published_at: '2026-06-28T10:31:54Z'
 tags:
 - agents
 - anthropic
@@ -13,8 +13,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 1289
+stars: 1290
 language: Python
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-28T15:04:42.191929+05:30'
-last_seen: '2026-06-28T15:04:42.191929+05:30'
-last_checked: '2026-06-28T15:04:42.191929+05:30'
+first_seen: '2026-06-28T19:48:04.549105+05:30'
+last_seen: '2026-06-28T19:48:04.549105+05:30'
+last_checked: '2026-06-28T19:48:04.549105+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent Codebase Q&A Engine**: Implements a knowledge graph-based system (via MCP server) for grounded, file-path and line-number-referenced Q&A across codebases, compatible with AI IDEs like Cursor, Claude Code, and Codex CLI.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction via AI IDEs (Claude Code, Cursor, Codex CLI, ChatGPT).
 
-- **RAG-Enhanced Developer Tools**: Integrates retrieval-augmented generation (RAG) with OpenAI models, enabling real-time, context-aware code search and copilot-style assistance within Python-based workflows.
+- **Modular MCP server** supporting RAG and knowledge graph integration, facilitating cross-tool collaboration for code intelligence and search.
 
-- **Modular MCP Server Architecture**: Provides a Python-based MCP server framework for extensible multi-agent collaboration, supporting OpenAI APIs, knowledge graph construction, and IDE-agnostic plugin integration.
+- **Python-based template** with OpenAI compatibility, designed for extensibility across IDE plugins (e.g., Copilot, Windsurf) and agent frameworks.
 
 ## Why It Matters
 
@@ -45,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: study8677
-- Stars: 1289
+- Stars: 1290
 - Forks: 261
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
-- Last Updated: 2026-06-27T18:06:08Z
+- Last Updated: 2026-06-28T10:31:54Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-19T08:51:14Z

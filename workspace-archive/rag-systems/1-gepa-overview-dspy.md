@@ -41,7 +41,7 @@ selection_reason:
 
 - **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts with minimal rollouts.
 
-- **Key parameters** include `metric` (required feedback/evaluation function), `reflection_lm` (required strong LLM for reflection), and optimization controls like `auto`, `max_full_evals`, or `max_metric_calls`, with advanced features such as merge-ba
+- **Core mechanism**: Captures execution traces, identifies predictor-specific sub-traces, and uses reflection to propose improved instructions; supports granular textual feedback at predictor or system level via a custom `GEPAFeedbackMetric` function.
 
 ## Use Cases
 

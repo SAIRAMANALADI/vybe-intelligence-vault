@@ -2,13 +2,13 @@
 title: Privacy Policy – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+source_url: https://myaccount.google.com/privacypolicy?hl=en-US
 resource_id: blog:privacy-policy-privacy-terms-google
 local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Privacy Policy – Privacy & Terms – Google
@@ -30,15 +30,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked (personal info, activity) and non-account-linked (unique identifiers, device/browser metadata) data, with retention tied to user settings and regulatory compliance.
+- **Data Collection Scope**: Google aggregates data across apps, browsers, and devices, including unique identifiers, IP addresses, device settings, and activity logs (e.g., searches, interactions with ads/content), both for signed-in users and anonymous sessions.
 
-- **Location & Activity Tracking**: Location data (GPS, IP, Wi-Fi/Bluetooth signals) and activity logs (searches, interactions, communications) are collected to enable personalized services (ads, recommendatio
+- **Personal vs. Non-Personal Data**: Signed-in users provide personal info (e.g., name, email, payment data), while non-account interactions rely on device/browser-specific identifiers to maintain preferences (e.g., language, ad rele
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+Original source URL: https://myaccount.google.com/privacypolicy?hl=en-US
 
 ## Local Vault File
 

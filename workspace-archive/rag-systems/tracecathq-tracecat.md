@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Architecture**: Tracecat is an open-source, event-driven security automation platform built with Python (FastAPI backend) and Next.js (frontend), leveraging Pydantic for data validation and OpenAPI for API specification.
+- **Event-driven security automation platform** built with Python, FastAPI, and Next.js, leveraging **Temporal.io** for workflow orchestration and **Pydantic** for data validation.
 
-- **Orchestration & Workflows**: Integrates Temporal.io for workflow orchestration and supports low-code automation with LLM-driven agents, enabling complex security operations via structured workflows.
+- **Low-code, OpenAPI-compliant** system enabling AI agents and teams to automate security workflows via **LLM integration** and declarative workflow definitions.
 
-- **Security & Extensibility**: Designed for teams and AI age
+- **Open-source core** with 3.7k+ GitHub stars, supporting **monitoring, event-driven triggers**, and **multi-agent collaboration** for security operation
 
 ## Use Cases
 

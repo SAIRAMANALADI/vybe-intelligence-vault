@@ -8,14 +8,12 @@ local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -29,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
+- **Unified AI Application Lifecycle Management**: Enables end-to-end development, prototyping, deployment, and monitoring of AI-powered applications with support for multi-step RAG pipelines and autonomous agents.
 
-- **Modular RAG & Agent Architecture**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and multi-model provid
+- **Model-Agnostic & Observability-Ready**: Supports seamless switching between LLM/embedding providers (e.g., Langfuse, Weights & Biases) with built-in tracing, debugging, and performance monitoring via REST API and dashboards.
+
+- **Enterprise Data Integration**: Automates ingestion
 
 ## Use Cases
 

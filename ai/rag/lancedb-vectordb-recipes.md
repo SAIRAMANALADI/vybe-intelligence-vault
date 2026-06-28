@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-28T15:04:32.217248+05:30'
+collected_at: '2026-06-28T19:47:54.602670+05:30'
 published_at: '2026-06-27T11:53:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-28T15:04:32.217248+05:30'
-last_seen: '2026-06-28T15:04:32.217248+05:30'
-last_checked: '2026-06-28T15:04:32.217248+05:30'
+first_seen: '2026-06-28T19:47:54.602670+05:30'
+last_seen: '2026-06-28T19:47:54.602670+05:30'
+last_checked: '2026-06-28T19:47:54.602670+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
-
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient embedding storage, retrieval, and similarity search in AI pipelines, including fine-tuning and hybrid search techniques.
-
-- **Toolchain & Workflows**: Showcases integration with OpenAI APIs, deep learning frameworks, and agent frameworks (e.g., LangChain, LlamaIndex) for end-to-end AI workflows, including multimodal embeddings and LLM-powered applications.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Vector Database Integration**: Demonstrates workflows leveraging LanceDB as a vector database for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines.
+- **Agentic & Fine-Tuning Workflows**: Includes tutorials on deploying AI agents, fine-tuning models, and integrating OpenAI APIs with vector search for advanced multimodal applications.
 
 ## Why It Matters
 

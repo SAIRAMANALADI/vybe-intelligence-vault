@@ -10,13 +10,14 @@ tags:
 - github-trending
 - javascript
 - youtube
-status: active
+status: inactive
 resource_id: github:anil-matcha/open-generative-ai
 first_seen: '2026-06-27T19:37:06.008319+05:30'
 last_seen: '2026-06-28T15:03:35.519095+05:30'
 last_checked: '2026-06-28T15:03:35.519095+05:30'
 health_score: 100
 ---
+
 
 # Anil-matcha/Open-Generative-AI
 

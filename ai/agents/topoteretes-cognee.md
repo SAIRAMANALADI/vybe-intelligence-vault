@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:topoteretes/cognee
 first_seen: '2026-06-21T20:19:14.646789+05:30'
 last_seen: '2026-06-28T15:03:35.519309+05:30'
 last_checked: '2026-06-28T15:03:35.519309+05:30'
 health_score: 100
 ---
+
 
 # topoteretes/cognee
 

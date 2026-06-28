@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - paper
-status: active
+status: inactive
 resource_id: github:deepseek-ai/deepspec
 first_seen: '2026-06-27T19:37:04.612215+05:30'
 last_seen: '2026-06-28T15:03:36.561438+05:30'
 last_checked: '2026-06-28T15:03:36.561438+05:30'
 health_score: 100
 ---
+
 
 # DSpark: Speculative decoding accelerates LLM inference [pdf]
 

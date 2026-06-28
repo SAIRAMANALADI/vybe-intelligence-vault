@@ -9,6 +9,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Stylised pathways to “well below 2°C”](https://cicero.oslo.no/en/articles/stylised-pathways-to-well-below-2c) (Score: 70) - Category: `ai-coding-agents/`
 *   [bbPress Codex](https://codex.bbpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Mojo Manual | Mojo](https://docs.modular.com/mojo/manual) (Score: 70) - Category: `ai-coding-agents/`
+*   [Replit CEO Apologizes After AI Coding Tool Wipes Company's Database - Business Insider](https://www.businessinsider.com/replit-ceo-apologizes-ai-coding-tool-delete-company-database-2025-7?utm_source=chatgpt.com) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Codex](https://codex.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [Blog | Bluesky](https://docs.bsky.app/blog) (Score: 70) - Category: `ai-coding-agents/`
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [Essential GraphRAG - Tomaž Bratanič and Oskar Hane](https://www.manning.com/books/essential-graphrag) (Score: 70) - Category: `ai-coding-agents/`
-*   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.
