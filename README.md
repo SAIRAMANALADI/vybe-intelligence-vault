@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 22:24 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 23:43 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,26 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Google limits Meta's use of its Gemini AI models](ai/community/google-limits-meta-s-use-of-its-gemini-ai-models.md)** • <kbd>+73 pts</kbd> • Rank: <kbd>+4</kbd>
-- 🔼 **[Austria Lobbies EU to Host Anthropic After US Access Curbs](ai/community/austria-lobbies-eu-to-host-anthropic-after-us-acce.md)** • <kbd>+68 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+59 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[The origins of the school system aimed to produce independent, critical thinkers](ai/community/the-origins-of-the-school-system-aimed-to-produce.md)** • <kbd>+44 pts</kbd>
-- 🔼 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)** • <kbd>+11 pts</kbd>
+- 🔼 **[neuml/txtai](ai/rag/neuml-txtai.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • Score: `8`
-- 🆕 **[Download Android Studio & App Tools - Android Developers](ai/rag/download-android-studio-app-tools-android-develope.md)** • Score: `0`
-- 🆕 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Score: `0`
-- 🆕 **[Veo 3.1 â Google DeepMind](ai/resources/veo-3-1-a-google-deepmind.md)** • Score: `0`
-- 🆕 **[Understand errors and warnings better with console insights | Chrome DevTools | Chrome for Developers](ai/resources/understand-errors-and-warnings-better-with-console.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)**
-- 💤 **[From Hallmark to neon signs: A look at Jim Parkinson's career in letter art](ai/community/from-hallmark-to-neon-signs-a-look-at-jim-parkinso.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
