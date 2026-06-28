@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nicknochnack/Llama2RAG
-collected_at: '2026-06-28T03:48:03.956986+05:30'
+collected_at: '2026-06-28T10:22:32.433444+05:30'
 published_at: '2026-05-24T09:34:54Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-08-18T00:18:33Z'
 pushed_at: '2023-08-18T00:23:09Z'
 resource_id: github:nicknochnack/llama2rag
-first_seen: '2026-06-28T03:48:03.956986+05:30'
-last_seen: '2026-06-28T03:48:03.956986+05:30'
-last_checked: '2026-06-28T03:48:03.956986+05:30'
+first_seen: '2026-06-28T10:22:32.433444+05:30'
+last_seen: '2026-06-28T10:22:32.433444+05:30'
+last_checked: '2026-06-28T10:22:32.433444+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using **Llama 2 70B** with **LlamaIndex** for document retrieval and context augmentation.
-- **Structure**: Implemented as a **Jupyter Notebook**, enabling interactive experimentation with RAG pipelines.
-- **Scalability**: Designed for large-scale LLM inference, leveraging **70B-parameter Llama 2** for high-capacity reasoning.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and generation.
+- **Environment**: Developed in a Jupyter Notebook, leveraging GPU acceleration for Llama 2 70B inference.
+- **Updates**: Last modified on May 24, 2026, with 370 stars and 112 forks, indicating active community engagement.
 
 ## Why It Matters
 

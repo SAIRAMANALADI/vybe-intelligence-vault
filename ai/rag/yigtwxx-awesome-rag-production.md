@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-28T03:48:18.957329+05:30'
+collected_at: '2026-06-28T10:22:42.441605+05:30'
 published_at: '2026-06-27T20:46:42Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-27T20:46:38Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-28T03:48:18.957329+05:30'
-last_seen: '2026-06-28T03:48:18.957329+05:30'
-last_checked: '2026-06-28T03:48:18.957329+05:30'
+first_seen: '2026-06-28T10:22:42.441605+05:30'
+last_seen: '2026-06-28T10:22:42.441605+05:30'
+last_checked: '2026-06-28T10:22:42.441605+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Production Tools**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, focusing on battle-tested solutions.
-- **Technical Scope**: Covers embeddings, vector databases, LLMops, MLOps, and integration with frameworks like LangChain, targeting Python-based implementations for AI/ML pipelines.
-- **Maintenance & Community**: Last updated June 2026, with 127 stars and 33 forks, serving as a dynamic resource for AI engineering and generative AI deployment.
+- **Curated Resource**: A GitHub repository (`Yigtwxx/awesome-rag-production`) listing production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, covering AI/ML engineering, embeddings, LLMs, and MLOps.
+
+- **Technical Scope**: Focuses on Python-based implementations, including vector databases, LangChain, and LLM integration, with emphasis on production deployment, scalability, and battle-tested solutions.
+
+- **Metadata**: 127 stars, 33 forks, last updated June 27, 2026, and tagged with topics like `ai-engineering`, `generative-ai`, `llmops`, and `retrieval-augmented-generation`.
 
 ## Why It Matters
 

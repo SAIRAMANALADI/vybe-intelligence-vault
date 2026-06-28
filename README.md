@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,144</p>
-        <p><b>Active:</b> 8,910 | <b>Inactive:</b> 234</p>
+        <p><b>Resources tracked:</b> 9,168</p>
+        <p><b>Active:</b> 8,933 | <b>Inactive:</b> 235</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,791</p>
+        <p><b>Archive Files:</b> 34,878</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 08:26 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 10:38 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • <kbd>+93 pts</kbd> • Rank: <kbd>+1</kbd>
+- 🔼 **[Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](ai/community/kageroumado-adrafinil.md)** • <kbd>+66 pts</kbd>
+- 🔼 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** • <kbd>+57 pts</kbd>
+- 🔼 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** • <kbd>+39 pts</kbd>
+- 🔼 **[Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)** • Rank: <kbd>+595</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • Score: `159`
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • Score: `206`
+- 🆕 **[What Ozempic does to the gut-brain axis](ai/community/what-ozempic-does-to-the-gut-brain-axis.md)** • Score: `120`
+- 🆕 **[Response to AI slop is from Robin Williams](ai/community/response-to-ai-slop-is-from-robin-williams.md)** • Score: `120`
+- 🆕 **[Ford hired AI and sacked humans. It backfired badly](ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md)** • Score: `55`
+- 🆕 **[Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them](ai/community/ancient-tablets-show-markets-worked-4k-years-befor.md)** • Score: `13`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **['Careless People' author claims Meta surveilled her for 12mos to enforce silence](ai/community/careless-people-author-claims-meta-surveilled-her.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

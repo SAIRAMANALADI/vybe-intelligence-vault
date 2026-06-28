@@ -2,7 +2,7 @@
 title: Welcome - GraphRAG
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://microsoft.github.io/graphrag
+source_url: https://microsoft.github.io/graphrag/
 resource_id: blog:welcome-graphrag
 local_vault_path: ai/rag/welcome-graphrag.md
 quality_score: 70
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **GraphRAG Architecture**: Structured hierarchical RAG method that constructs a knowledge graph from raw text, performs hierarchical clustering (e.g., Leiden algorithm), and generates community summaries for improved reasoning over private datasets.
+- **Knowledge Graph Construction**: GraphRAG extracts entities, relationships, and claims from raw text, constructs a hierarchical knowledge graph using Leiden clustering, and generates community-level summaries for structured retrieval augmentation.
 
-- **Query Modes**: Supports multiple retrieval strategies—*Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric traversal), *DRIFT Search* (entity-centric with community context), and *Basic Search* (b
+- **Query Modes**: Supports global search (holistic corpus reasoning via community summaries), local search (entity-centric traversal), and DRIFT search (entity traversal with community context) to enhance LLM reasoning over private datasets.
+
+- **
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://microsoft.github.io/graphrag
+Original source URL: https://microsoft.github.io/graphrag/
 
 ## Local Vault File
 

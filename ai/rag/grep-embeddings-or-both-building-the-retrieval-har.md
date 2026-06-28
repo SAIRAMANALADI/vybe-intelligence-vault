@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://watch.getcontrast.io/register/building-retrieval-harness-for-enterprise-agents
-published_at: '2026-06-22T15:32:31.046525+05:30'
-collected_at: '2026-06-22T15:32:31.046540+05:30'
+published_at: '2026-06-28T10:26:18.002253+05:30'
+collected_at: '2026-06-28T10:26:18.002265+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:grep-embeddings-or-both-building-the-retrieval-har
-first_seen: '2026-06-22T15:32:31.046540+05:30'
-last_seen: '2026-06-22T15:32:31.046540+05:30'
-last_checked: '2026-06-22T15:32:31.046540+05:30'
+first_seen: '2026-06-28T10:26:18.002265+05:30'
+last_seen: '2026-06-28T10:26:18.002265+05:30'
+last_checked: '2026-06-28T10:26:18.002265+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid retrieval necessity**: Combining semantic search (embeddings) for broad corpus coverage with grep/file-level precision enables accurate agent responses, especially for enterprise-scale, multi-tenant document retrieval.
+- **Hybrid retrieval necessity**: Combining semantic search (embeddings) for broad corpus coverage with grep/file-based retrieval for precision and verification outperforms either approach alone, particularly as corpus size increases, addressing the false binary debate.
 
-- **Harness architecture**: Integrates hybrid search (semantic + grep), directory navigation, direct file reads, and multimodal file objects (text, layout, metadata, screenshots) to mitigate hallucinations and handle complex formats.
+- **Multi-modal retrieval harness**: LlamaParse Index integrates server-side grep, semantic search, and file-level navigation (including text, layout, metadata, and screenshots) to enable agents to handle complex file formats and verify answers across multi-tenant document corpora.
 
-- **Performance trade-offs**: Benchmarking reveals embeddings excel in large corpora for initial retrieval, while grep/file tools provide precision for verification; optimal harness design requires balancing freshness, permissions, and tool composition in a reasoning loop.
+- **Live reasoning loop**: The system composes hybrid search, reranking, and direct file reads into a single reasoning loop, demonstrated via an agent navigating multiple indexes to perform enterprise tasks with visual and textual context.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T15:32:31.046525+05:30
+- Published: 2026-06-28T10:26:18.002253+05:30
 
 ## Related Tags
 

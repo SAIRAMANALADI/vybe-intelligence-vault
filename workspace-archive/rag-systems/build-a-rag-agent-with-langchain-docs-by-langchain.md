@@ -2,7 +2,7 @@
 title: Build a RAG agent with LangChain - Docs by LangChain
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://python.langchain.com/docs/use_cases/question_answering/
+source_url: https://docs.langchain.com/oss/python/langchain/rag
 resource_id: blog:build-a-rag-agent-with-langchain-docs-by-langchain
 local_vault_path: ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Indexing Pipeline**: Converts raw text into searchable vector embeddings via four steps: loading documents into `Document` objects, splitting into chunks (e.g., `RecursiveCharacterTextSplitter` with `chunk_size=1000`, `chunk_overlap=200`), embedding chunks using models like `OpenAIEmbeddings` or `HuggingFaceEmbeddings`, and storing in a `VectorStore` for semantic retrieval.
+- **Indexing Pipeline**: Converts raw text into retrievable vector embeddings via four steps: loading documents into `Document` objects, splitting into chunks (e.g., `RecursiveCharacterTextSplitter`), embedding chunks using models like `OpenAIEmbeddings` or `HuggingFaceEmbeddings`, and storing in a `VectorStore` for similarity search.
 
-- **RAG Agent vs. RAG Chain**: A RAG agent dynamically retrieves context and generates responses, while a RAG chain si
+- **RAG Implementations**: Two architectures are supported—**RAG agent** (general-purpose, multi-step retrieval/generation) and **RAG chain** (single LLM call per
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/docs/use_cases/question_answering/
+Original source URL: https://docs.langchain.com/oss/python/langchain/rag
 
 ## Local Vault File
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on
 hn_url: https://news.ycombinator.com/item?id=48697958
-score: 91
+score: 184
 author: bogdiyan
-comments_count: 81
+comments_count: 145
 published_at: '2026-06-27T18:40:21+05:30'
-collected_at: '2026-06-28T03:46:38.153420+05:30'
+collected_at: '2026-06-28T10:21:02.265057+05:30'
 tags:
 - ai
 - anthropic
@@ -19,8 +19,8 @@ tags:
 status: active
 resource_id: hackernews:asian-ai-startups-launch-mythos-like-models
 first_seen: '2026-06-27T19:37:06.170155+05:30'
-last_seen: '2026-06-28T03:46:38.153420+05:30'
-last_checked: '2026-06-28T03:46:38.153420+05:30'
+last_seen: '2026-06-28T10:21:02.265057+05:30'
+last_checked: '2026-06-28T10:21:02.265057+05:30'
 health_score: 100
 ---
 
@@ -28,7 +28,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by bogdiyan. Score: 91, Comments: 81.
+Hacker News story by bogdiyan. Score: 184, Comments: 145.
 Original Link: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
 
 ## Why It Matters
@@ -38,8 +38,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: bogdiyan
-- Score: 91 Upvotes
-- Comments: 81 Discussions
+- Score: 184 Upvotes
+- Comments: 145 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48697958
 - Original Article: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on
 

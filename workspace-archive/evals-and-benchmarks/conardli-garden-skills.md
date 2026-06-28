@@ -17,6 +17,7 @@ tags:
 - github-repo
 - hackernews
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`ConardLi/garden-skills`) with 8,812 stars and 1,194 forks, focusing on web design, knowledge retrieval, image generation, and AI agent integration.
-- **Technical Stack**: Primarily CSS-based, with additional support for tools like GPT-Image-2, RAG (Retrieval-Augmented Generation), and AI agents (e.g., Claude).
-- **Last Update**: Repository last updated on **2026-06-27**, indicating active maintenance and potential future enhancements.
+- **Multi-domain Skills Repository**: Open-source collection by ConardLi covering web design, knowledge retrieval (RAG), image generation (GPT-Image-2), and autonomous agent workflows (Claude integration).
+
+- **Technical Stack**: Primarily implemented in CSS with additional tooling for AI-driven tasks (e.g., RAG pipelines, image synthesis).
+
+- **Project Metrics**: 8,818 stars, 1,195 forks, last updated June 28, 2026. Focuses on modular, reusable skills for AI-agent ecosystems.
 
 ## Use Cases
 

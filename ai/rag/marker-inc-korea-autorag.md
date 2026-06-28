@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-28T03:47:53.991435+05:30'
+collected_at: '2026-06-28T10:22:22.443779+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4841
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-28T03:47:53.991435+05:30'
-last_seen: '2026-06-28T03:47:53.991435+05:30'
-last_checked: '2026-06-28T03:47:53.991435+05:30'
+first_seen: '2026-06-28T10:22:22.443779+05:30'
+last_seen: '2026-06-28T10:22:22.443779+05:30'
+last_checked: '2026-06-28T10:22:22.443779+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates end-to-end RAG pipeline optimization (retrieval, generation, and evaluation) using AutoML techniques, eliminating manual tuning for LLMs and document processing workflows.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance through automated hyperparameter and component selection.
 
-- **Comprehensive Evaluation Suite**: Provides built-in benchmarking tools for RAG systems, supporting metrics for retrieval quality, answer correctness, and latency, enabling systematic performance analysis across diverse datasets.
+- **Comprehensive RAG Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation stages, with built-in benchmarking and analysis tools for end-to-end RAG system evaluation.
 
-- **Modular Python Framework**: Open-source Python library with pluggable components for document parsing, embeddings, retrieval strategies, and LLM integration, designed for scalability and integration into LLM-Ops pipelines.
+- **Open-Source Python Toolkit**: Implemented in Python, AutoRAG provides modular components for LLM-based QA, retrieval evaluation, and Ops automation, supporting customization and deployment in production environments.
 
 ## Why It Matters
 

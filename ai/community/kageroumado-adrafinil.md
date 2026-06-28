@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/kageroumado/adrafinil
 hn_url: https://news.ycombinator.com/item?id=48701512
-score: 37
+score: 103
 author: kageroumado
-comments_count: 30
+comments_count: 66
 published_at: '2026-06-28T02:04:53+05:30'
-collected_at: '2026-06-28T03:46:36.185402+05:30'
+collected_at: '2026-06-28T10:21:03.894024+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: github:kageroumado/adrafinil
 first_seen: '2026-06-28T03:46:36.185402+05:30'
-last_seen: '2026-06-28T03:46:36.185402+05:30'
-last_checked: '2026-06-28T03:46:36.185402+05:30'
+last_seen: '2026-06-28T10:21:03.894024+05:30'
+last_checked: '2026-06-28T10:21:03.894024+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by kageroumado. Score: 37, Comments: 30.
+Hacker News story by kageroumado. Score: 103, Comments: 66.
 Original Link: https://github.com/kageroumado/adrafinil
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: kageroumado
-- Score: 37 Upvotes
-- Comments: 30 Discussions
+- Score: 103 Upvotes
+- Comments: 66 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48701512
 - Original Article: https://github.com/kageroumado/adrafinil
 

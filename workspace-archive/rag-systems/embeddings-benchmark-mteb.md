@@ -2,7 +2,7 @@
 title: embeddings-benchmark/mteb
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/embeddings-benchmark/mteb/
+source_url: https://github.com/embeddings-benchmark/mteb
 resource_id: github:embeddings-benchmark/mteb
 local_vault_path: ai/rag/embeddings-benchmark-mteb.md
 quality_score: 70
@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- leaderboard
 - python
 - rag
 selection_reason:
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across **15 tasks** (e.g., retrieval, clustering, STS, reranking) and **112 datasets**, supporting **multilingual** and **multimodal** evaluation with standardized metrics.
-
-- **Modular Python Framework**: Implements a **unified API** for embedding models (e.g., Sentence-BERT, SBERT) with **automated task-specific evaluation**, including **low-resource NLP** and **bitext mining** benchmarks.
-
-- **State-of-the-Art Tracking**: Pro
+- **Comprehensive Benchmark Suite**: MTEB evaluates text embeddings across 8 tasks (e.g., classification, clustering, retrieval) and 56 datasets in 112 languages, supporting both monolingual and multilingual models.
+- **Multimodal & Low-Resource Support**: Includes tasks for multimodal embeddings (e.g., image-text) and prioritizes evaluation on low-resource languages, addressing gaps in existing benchmarks.
+- **Modular & Extensible**: Python-based framework with standardized APIs for integrating
 
 ## Use Cases
 
@@ -49,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/embeddings-benchmark/mteb/
+Original source URL: https://github.com/embeddings-benchmark/mteb
 
 ## Local Vault File
 

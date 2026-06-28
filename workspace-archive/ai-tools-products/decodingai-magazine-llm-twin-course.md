@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Course Content**: Provides open-source guidance on building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 hands-on lessons.
-- **Technical Stack**: Utilizes Python-based tools (e.g., AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak) for MLOps, infrastructure-as-code, and generative AI workflows.
-- **Deployment Focus**: Emphasizes Docker, ML system design, and scalable infrastructure for deploying LLMs and RAG systems in production environments.
+- **Course Content**: Provides a free, end-to-end guide for building production-ready LLM and RAG systems using LLMOps best practices, including 12 hands-on lessons and source code.
+
+- **Technical Stack**: Utilizes Python with AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and generative AI workflows.
+
+- **Deployment & Tools**: Includes Docker for containerization, with infrastructure managed via Pulumi, and covers ML system design, RAG, and LLMO
 
 ## Use Cases
 

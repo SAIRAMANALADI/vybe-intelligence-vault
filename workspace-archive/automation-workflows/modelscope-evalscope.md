@@ -13,7 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: EvalsScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
-
-- **Key Features**: Supports evaluation of retrieval-augmented generation (RAG), multimodal models (VLMs), and generative AI tasks with streamlined workflows and extensible architecture.
-
-- **Technical Stack**: Built for scalability and performance, leveraging Python with integration-ready compone
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular architecture for extensibility.
+- **Key Features**: Supports performance benchmarking across tasks including RAG, with built-in metrics and evaluation pipelines for standardized assessment.
+- **Integration & Scalability**: Designed for efficiency, enabling rapid prototyping and deployment of custom evaluation workflows with minimal overhead.
 
 ## Use Cases
 

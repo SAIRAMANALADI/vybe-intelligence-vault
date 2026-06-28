@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing practical implementation.
-- **Technical Stack**: Primarily uses **Jupyter Notebooks** for demonstrations, covering **agents, AI, machine learning, MCP (Model Context Protocol), and RAG** methodologies.
-- **Project Metrics**: Highly active with **36,133 stars** and **5,992 forks**, last updated **June 27, 2
+- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques using Jupyter Notebooks.
+- **Real-World AI Agent Applications**: Includes practical implementations and case studies of AI agents in production environments, covering MCP (Model Context Protocol) integration.
+- **Active Maintenance & Community Engagement**: Last updated in 2026, with 36,134 stars and 5,993 forks, indicating str
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - hackernews
 - html
 - rag
+- scripts
 selection_reason:
 - Active open-source repository
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Web Search Tools**: Aggregates software enabling AI-assisted web search, including metasearch, question-answering, and retrieval-augmented generation (RAG) systems.
-- **Generative AI Integration**: Focuses on tools leveraging LLMs for enhanced search, summarization, and contextual retrieval (e.g., HF Spaces demos).
-- **Technical Scope**: Covers projects in information retrieval, LLM inference, and generative AI tools, last updated June 2026.
+- **Curated list of AI-powered web search tools** leveraging LLMs, RAG, and metasearch techniques for enhanced information retrieval and question-answering.
+- **Includes generative AI projects** with capabilities like real-time web scraping, contextual summarization, and retrieval-augmented generation (RAG) pipelines.
+- **Open-source and Hugging Face Spaces integration**, covering tools for AI search engines, metasearch aggregators, and LLM inference optimization.
 
 ## Use Cases
 

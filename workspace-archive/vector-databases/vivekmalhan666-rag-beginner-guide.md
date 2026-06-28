@@ -6,16 +6,15 @@ source_url: https://github.com/VivekMalhan666/rag-beginner-guide
 resource_id: github:vivekmalhan666/rag-beginner-guide
 local_vault_path: ai/rag/vivekmalhan666-rag-beginner-guide.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - github-repo
 - python
 - rag
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -24,19 +23,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Python-based guide for building a Retrieval-Augmented Generation (RAG) system from scratch, emphasizing beginner accessibility without abstracted libraries or frameworks.
-
-- **Core components**: Covers essential RAG pipeline elements, including document ingestion, vector embedding (e.g., using `sentence-transformers` or `FAISS`), retrieval (e.g., similarity search), and integration with a generative model (e.g., Hugging Face `transformers`).
-
-- **No abstrac
+- **Purpose**: Step-by-step guide to constructing a Python-based Retrieval-Augmented Generation (RAG) system from the ground up, designed for beginners without relying on abstracted frameworks.
+- **Implementation**: Focuses on core RAG components (e.g., document retrieval, embedding generation, and LLM integration) using Python, emphasizing transparency and manual implementation.
+- **Status**: Repository is minimally updated (1 star, 0 forks) with the last commit dated **2026-02-13**, indicating
 
 ## Use Cases
 

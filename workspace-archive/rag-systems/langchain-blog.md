@@ -12,7 +12,6 @@ resource_kind: prompt
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - web-crawled
 - workflows
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse intermediate computations in agent workflows, reducing redundant LLM calls and improving efficiency by leveraging prior state and outputs.
+- **Prompt Caching with Deep Agents**: Introduces a caching mechanism for LLM prompts in deep agent architectures, reducing redundant computations by storing and reusing intermediate representations, improving inference efficiency by up to 40% in iterative tasks.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, as it enables flexibility in model selection, cost optimization, and performance tuning without infrastructure constrai
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, as it enables architectural flexibility, cost optimization, and avoids pe
 
 ## Use Cases
 

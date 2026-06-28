@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-rag-with-milvus-milvus-documentation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: benchmark
 importance: medium
 tags:
 - anthropic
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Milvus Architecture**: Open-source vector database optimized for similarity search and AI workloads, supporting hybrid search, multi-tenancy, and distributed deployments with configurable consistency levels (`Strong`, `Session`, `Bounded`, `Eventually`).
-
-- **RAG Pipeline Implementation**: Combines Milvus for vector retrieval (using `text-embedding-3-small` embeddings) with OpenAI’s LLM (`gpt-3.5-turbo`) for generation, where Milvus indexes FAQ data (stored as vectors + metadata) and retriev
+- **Milvus RAG Pipeline**: Combines retrieval (via Milvus vector search) with generative LLMs (e.g., OpenAI) to produce context-aware responses, using semantic similarity for document retrieval.
+- **Dynamic Schema Handling**: Milvus auto-manages undefined fields (e.g., `text`) via a reserved JSON dynamic field while enforcing strict schema for primary keys (`id`) and vectors.
+- **Scalable Deployment Options**: Supports local (Milvus Lite), distributed (Docker/K8s), or fully managed cloud (Zilliz
 
 ## Use Cases
 

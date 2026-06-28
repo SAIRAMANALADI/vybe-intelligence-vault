@@ -1,10 +1,10 @@
 ---
-title: supermldev/agenticai
+title: supermldev/agenticAI
 category: ai/agents
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/supermldev/agenticai
-collected_at: '2026-06-25T23:00:13.509450+05:30'
+source_url: https://github.com/supermldev/agenticAI
+collected_at: '2026-06-28T10:27:15.450732+05:30'
 published_at: '2026-04-24T15:33:57Z'
 tags:
 - agents
@@ -18,19 +18,19 @@ archived: false
 created_at: '2025-06-04T01:40:42Z'
 pushed_at: '2026-04-23T14:29:13Z'
 resource_id: github:supermldev/agenticai
-first_seen: '2026-06-25T23:00:13.509450+05:30'
-last_seen: '2026-06-25T23:00:13.509450+05:30'
-last_checked: '2026-06-25T23:00:13.509450+05:30'
+first_seen: '2026-06-28T10:27:15.450732+05:30'
+last_seen: '2026-06-28T10:27:15.450732+05:30'
+last_checked: '2026-06-28T10:27:15.450732+05:30'
 health_score: 100
 ---
 
-# supermldev/agenticai
+# supermldev/agenticAI
 
 ## Summary
 
-- **Purpose**: Educational repository for learning Agentic AI, maintained by superml.dev.
-- **Metadata**: 2 stars, 1 fork, language unspecified, no topics, last updated 2026-04-24.
-- **Access**: Available at `https://github.com/supermldev/agenticai`.
+- **Repository Status**: Minimal activity (2 stars, 1 fork) with no specified primary language or topics.
+- **Purpose**: Educational resource focused on Agentic AI, maintained by superml.dev.
+- **Last Update**: April 24, 2026, with no recent commits or activity visible in metadata.
 
 ## Why It Matters
 
@@ -65,4 +65,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/supermldev/agenticai
+Original source: https://github.com/supermldev/agenticAI

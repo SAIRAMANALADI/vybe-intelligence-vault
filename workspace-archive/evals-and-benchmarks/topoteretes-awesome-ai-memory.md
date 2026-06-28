@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list**: Repository aggregates 798+ projects focused on AI memory systems, including RAG, agent-based memory, and ML-driven memory management.
-- **Technical scope**: Projects span Python-based implementations for memory architectures, retrieval mechanisms, and agentic memory frameworks.
-- **Last updated**: June 27, 2026, with active maintenance in AI memory research.
+- **Curated list of AI memory projects**: Repository aggregates tools, frameworks, and research focused on AI memory systems, including working memory, long-term memory, and memory-augmented architectures.
+- **Python-centric ecosystem**: Majority of listed projects are implemented in Python, emphasizing libraries/frameworks for memory management (e.g., vector DBs, RAG pipelines, agentic memory).
+- **Active maintenance**: Last updated June 2026, indicating ongoing updates to include emerging tech
 
 ## Use Cases
 

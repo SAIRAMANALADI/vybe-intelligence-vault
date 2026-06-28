@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-28T03:48:19.053369+05:30'
+collected_at: '2026-06-28T10:22:47.478971+05:30'
 published_at: '2026-06-27T03:54:28Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-27T10:16:13Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-28T03:48:19.053369+05:30'
-last_seen: '2026-06-28T03:48:19.053369+05:30'
-last_checked: '2026-06-28T03:48:19.053369+05:30'
+first_seen: '2026-06-28T10:22:47.478971+05:30'
+last_seen: '2026-06-28T10:22:47.478971+05:30'
+last_checked: '2026-06-28T10:22:47.478971+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generation, enabling ChatGPT-style and Q&A experiences.
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to adhere to best practices for scalable, production-ready RAG solutions.
-- **Key Features**: Includes preconfigured components for common RAG requirements (e.g., data ingestion, indexing, retrieval, and chat orchestration) with modular architecture for customization.
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI models for generation, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to implement best practices for scalable, production-ready RAG solutions.
+- **Key Features**: Includes pre-configured components for common requirements (e.g., indexing, retrieval, and chat interfaces) with updates as of June 2026.
 
 ## Why It Matters
 

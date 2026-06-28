@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/system-design/system-design-tutorial/
-published_at: '2026-06-25T23:00:21.022128+05:30'
-collected_at: '2026-06-25T23:00:21.022135+05:30'
+published_at: '2026-06-28T10:27:10.788445+05:30'
+collected_at: '2026-06-28T10:27:10.788458+05:30'
 tags:
 - hackernews
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:system-design-tutorial-geeksforgeeks
-first_seen: '2026-06-25T23:00:21.022135+05:30'
-last_seen: '2026-06-25T23:00:21.022135+05:30'
-last_checked: '2026-06-25T23:00:21.022135+05:30'
+first_seen: '2026-06-28T10:27:10.788458+05:30'
+last_seen: '2026-06-28T10:27:10.788458+05:30'
+last_checked: '2026-06-28T10:27:10.788458+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **System Design Fundamentals**: Covers High-Level Design (HLD) and Low-Level Design (LLD), functional vs. non-functional requirements, and system design lifecycle phases/models.
-- **Core Architectural Concepts**: Includes scalability (horizontal/vertical), database design (SQL/NoSQL, sharding, replication), CAP theorem, load balancing, caching strategies, and consistency models.
-- **Advanced Topics & Security**: Encompasses event-driven architectures, API gateways, message queues, distributed systems (consensus algorithms), security measures (TLS/SSL, authentication), and CI/CD pipelines.
+- **System Design Fundamentals**: Covers High-Level Design (HLD) and Low-Level Design (LLD), functional vs. non-functional requirements, system design life cycle, and core architectural patterns (monolithic, microservices, event-driven, serverless).
+
+- **Scalability & Performance Optimization**: Details horizontal/vertical scaling, CAP theorem, database sharding, replication, caching strategies (CDN, edge caching, cache eviction), and performance metrics (latency, throughput, consistency).
+
+- **Distributed Systems & Security**: Explores distributed consensus algorithms, fault tolerance, load balancing (consistent hashing), API gateways, message queues, security measures (TLS/SSL, authentication), and CI/CD pipelines for robust system deployment.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T23:00:21.022128+05:30
+- Published: 2026-06-28T10:27:10.788445+05:30
 
 ## Related Tags
 

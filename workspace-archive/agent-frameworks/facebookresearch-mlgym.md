@@ -6,7 +6,7 @@ source_url: https://github.com/facebookresearch/MLGym
 resource_id: github:facebookresearch/mlgym
 local_vault_path: ai/agents/facebookresearch-mlgym.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - github-repo
 - python
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,19 +24,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Framework Design**: MLGym is a modular Python framework for training and evaluating AI research agents, emphasizing reproducibility and extensibility via configurable pipelines and environments.
+- **Framework Purpose**: MLGym is a Python-based framework designed to standardize and benchmark AI research agents, enabling systematic evaluation of machine learning algorithms and agentic behaviors.
 
-- **Benchmark Suite**: Includes standardized tasks and metrics to assess agent performance across domains like optimization, reinforcement learning, and multi-agent systems.
+- **Key Components**: Includes a modular architecture for defining tasks, environments, and agent interactions, with built-in support for reproducibility and performance tracking.
 
-- **Scalability & Integration**: Supports distributed training, integrates with PyTorch/TensorFlow, and provides tools for lo
+- **Benchmarking Capabilities**: Provides a suite of standardized tasks and metrics to assess AI research agents acr
 
 ## Use Cases
 

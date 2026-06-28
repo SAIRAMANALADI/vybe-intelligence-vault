@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - agents
@@ -16,7 +16,6 @@ tags:
 - github-repo
 - openai
 - python
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -27,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements a non-blocking, event-driven architecture for parallelized code generation, execution, and debugging workflows using Python's `asyncio`.
-- **Multi-LLM Integration**: Supports asynchronous interactions with OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized interfaces for tool calls and context management.
-- **Stateful Execution**: Maintains persistent task states across restarts, enabling resumable workflows with checkpointing and
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for coding agents, enabling concurrent task execution and non-blocking I/O operations.
+- **Multi-LLM Integration**: Supports multiple LLM providers (OpenAI, Anthropic, etc.) with dynamic model switching and tool-agnostic execution via standardized interfaces.
+- **ClaudeCode Compatibility**: Designed to replicate and extend functionality of Anthropic's `claude-code`, with additional features like custom tooling
 
 ## Use Cases
 

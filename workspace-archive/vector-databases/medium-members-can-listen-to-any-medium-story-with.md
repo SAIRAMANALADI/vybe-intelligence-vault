@@ -27,9 +27,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, supporting multitasking (e.g., commuting, exercising) and improving accessibility for users with dyslexia or visual impairments.
+- **Integration & Accessibility**: Medium's "Listen" feature, powered by Speechify, enables Medium members to convert text-to-speech (TTS) for any article, with highlighted text synchronization, supporting multitasking (e.g., commuting, exercising) and improving retention via dual-modal consumption.
 
-- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) and select from multiple narrators, with reports of up to 3x more content consumption and enhanced retention when
+- **Performance & Customization**: Users can adjust playback speed (0.5x–4.5x) for productivity, with some achieving 2–3x efficiency gains; additionally, writers leverage TTS for proofreading by det
 
 ## Use Cases
 

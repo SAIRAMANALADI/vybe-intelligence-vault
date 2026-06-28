@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-06-28T03:48:34.027786+05:30'
+collected_at: '2026-06-28T10:22:57.474820+05:30'
 published_at: '2026-06-27T09:33:48Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-03-14T01:40:33Z'
 pushed_at: '2026-04-10T03:37:48Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-06-28T03:48:34.027786+05:30'
-last_seen: '2026-06-28T03:48:34.027786+05:30'
-last_checked: '2026-06-28T03:48:34.027786+05:30'
+first_seen: '2026-06-28T10:22:57.474820+05:30'
+last_seen: '2026-06-28T10:22:57.474820+05:30'
+last_checked: '2026-06-28T10:22:57.474820+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG provides a Python-based framework optimized for rapid Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation.
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and data structures to accelerate experimentation and deployment.
 
-- **Benchmark & Dataset Integration**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation across diverse retrieval and generation tasks.
+- **Comprehensive Benchmarking & Datasets**: Provides a suite of standardized benchmarks, datasets, and evaluation metrics tailored for RAG systems, enabling reproducible and comparative analysis across different models and configurations.
 
-- **Modular Architecture**: Designed with extensibility in mind, featuring modular components for retrieval, reranking, and generation, facilitating customization and integration with state-of-the-art models.
+- **Modular & Extensible Framework**: Designed with modularity in mind, supporting integration with various large language models (LLMs) and retrieval backends, while offering tools for custom dataset creation, preprocessing, and performance profiling.
 
 ## Why It Matters
 

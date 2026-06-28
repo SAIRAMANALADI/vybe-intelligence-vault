@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Suite**: Evaluates **Multi-Turn Retrieval-Augmented Generation (RAG)** systems with focus on conversational context retention, iterative retrieval, and answer consistency across turns.
-- **Python-Based**: Implements benchmark logic using Python, likely leveraging libraries like `transformers`, `langchain`, or `haystack` for RAG pipeline orchestration.
-- **Evaluation Metrics**: Includes metrics for **context relevance**, **response faithfulness**, and **multi-turn coherence**, with
+- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval accuracy.
+- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG pipelines, including retrieval precision, response coherence, and context utilization.
+- **Scope**: Tests sequential query handling, dynamic knowledge updates, and long-term dependency tracking in RAG models.
 
 ## Use Cases
 

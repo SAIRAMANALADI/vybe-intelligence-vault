@@ -6,7 +6,7 @@ source_url: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-
 resource_id: blog:7-steps-to-build-a-simple-rag-system-from-scratch
 local_vault_path: ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md
 quality_score: 70
-archive_score: 72
+archive_score: 70
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -22,7 +22,6 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -31,17 +30,14 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: dataset
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: A RAG system consists of two core components: a **retriever** (searches and fetches relevant text chunks from a knowledge base) and a **generator** (LLM that synthesizes answers using retrieved context to reduce hallucinations and improve accuracy).
-
-- **Vector Embedding & Storage**: Text chunks are converted into numerical **vector embeddings** (e.g., using `sentence-transformers/all-MiniLM-L6-v2`) and stored in a **FAISS index** for efficient similarity search, enabling
+*   A RAG system preprocesses raw text data, cleans it, and then
 
 ## Use Cases
 

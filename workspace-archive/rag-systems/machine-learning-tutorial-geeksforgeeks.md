@@ -8,7 +8,7 @@ local_vault_path: ai/rag/machine-learning-tutorial-geeksforgeeks.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Machine Learning Tutorial - GeeksforGeeks
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Core ML Types**: Supervised learning (labeled data, classification/regression), unsupervised learning (unlabeled data, clustering/dimensionality reduction), and reinforcement learning (trial-and-error, reward maximization); additional types include self-supervised and semi-supervised learning.
+- **Core ML Paradigms**: Supervised learning (labeled data for prediction/classification), unsupervised learning (pattern discovery in unlabeled data), and reinforcement learning (trial-and-error optimization via reward signals).
 
-- **Supervised Learning Algorithms**: Linear regression (predictive modeling), logistic regression (binary classification), decision trees (flowchart-based decisions), SVM (optimal separating hyperpla
+- **Key Algorithmic Families**: Supervised methods include linear/logistic regression, SVM, k-NN, decision trees, and ensemble techniques (Random Forest, boosting); unsupervised methods cover clustering (K-Means, DBSCAN), dimensionality reduction (PCA, t-SNE), and asso
 
 ## Use Cases
 

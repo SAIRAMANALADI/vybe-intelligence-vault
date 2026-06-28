@@ -14,7 +14,6 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability alongside LiteLLM, supporting 100+ LLM providers with structured logging and monitoring.
+- **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM integration.
 
-- **Full-Stack Type Safety & Testing**: Dockerized deployment with TypeScript, ensuring 100% test coverage and end-to-end type-checking for robustness.
+- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for consistency and scalability.
 
-- **Scalable RAG Architecture**: Modular design optimized for Retrieval-Augmented Generation (RAG) workflows, facilitating rapid integration and provider-agnostic LLM interacti
+- **Modern AI Stack**: Built as an open-source RAG (Retrieval-Augmented Generation) application, leveraging cutting-edge AI/ML tools and best practices.
 
 ## Use Cases
 

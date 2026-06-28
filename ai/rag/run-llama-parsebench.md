@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-06-28T03:50:14.118744+05:30'
+collected_at: '2026-06-28T10:24:42.664404+05:30'
 published_at: '2026-06-27T11:26:24Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -22,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-06-25T00:20:31Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-06-28T03:50:14.118744+05:30'
-last_seen: '2026-06-28T03:50:14.118744+05:30'
-last_checked: '2026-06-28T03:50:14.118744+05:30'
+first_seen: '2026-06-28T10:24:42.664404+05:30'
+last_seen: '2026-06-28T10:24:42.664404+05:30'
+last_checked: '2026-06-28T10:24:42.664404+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, with a focus on structured output evaluation.
+- **ParseBench**: A specialized benchmarking framework for evaluating document parsing performance of AI agents, focusing on tasks like OCR, PDF parsing, and table extraction.
 
-- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional OCR-based pipelines, enabling cross-modal comparison for document understanding.
+- **Key Features**: Supports evaluation across vision-language models (VLMs), LLM-based pipelines (e.g., LlamaIndex), and traditional document AI tools, with metrics for accuracy, robustness, and efficiency.
 
-- **LlamaIndex Integration**: Designed for compatibility with LlamaIndex, providing standardized metrics for parsing accuracy, table reconstruction, and layout comprehension in unstructured documents.
+- **Technical Scope**: Includes Python-based implementations, multi-modal input handling (text + vision), and structured evaluation of parsing pipelines for real-world document processing challenges.
 
 ## Why It Matters
 

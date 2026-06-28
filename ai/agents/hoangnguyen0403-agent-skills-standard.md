@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-28T03:49:59.039749+05:30'
+collected_at: '2026-06-28T10:24:22.585553+05:30'
 published_at: '2026-06-27T12:21:56Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - typescript
 stars: 514
 language: TypeScript
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-28T03:49:59.039749+05:30'
-last_seen: '2026-06-28T03:49:59.039749+05:30'
-last_checked: '2026-06-28T03:49:59.039749+05:30'
+first_seen: '2026-06-28T10:24:22.585553+05:30'
+last_seen: '2026-06-28T10:24:22.585553+05:30'
+last_checked: '2026-06-28T10:24:22.585553+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: A curated TypeScript-based collection of coding standards and best practices for AI agents, covering 18+ languages/frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, React, Spring Boot) to enforce consistent agentic AI development.
-
-- **Technical Scope**: Includes language-specific guidelines (e.g., TypeScript, Kotlin, Go), framework-specific rules (e.g., React, NestJS, Spring Boot), and platform-specific standards (e.g., Android, iOS) to optimize AI agent performance and adherence to conventions.
-
-- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026; designed for AI agents using tools like Cursor Rules to automate compliance with standardized coding practices.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
+- **Purpose**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to optimal coding and architectural patterns across diverse programming languages and frameworks.
+- **Metadata**: 514 stars, 149 forks, last updated June 27, 2026, with topics spanning agentic AI, best practices, and framework-specific standards.
 
 ## Why It Matters
 

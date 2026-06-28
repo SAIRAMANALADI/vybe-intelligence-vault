@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **System Design Fundamentals**: Covers High-Level Design (HLD) and Low-Level Design (LLD), functional vs. non-functional requirements, and system design lifecycle phases/models.
-- **Core Architectural Concepts**: Includes scalability (horizontal/vertical), database design (SQL/NoSQL, sharding, replication), CAP theorem, load balancing, caching strategies, and consistency models.
-- **Advanced Topics & Security**: Encompasses event-driven architectures, API gateways, message queues, distributed
+- **System Design Fundamentals**: Covers High-Level Design (HLD) and Low-Level Design (LLD), functional vs. non-functional requirements, system design life cycle, and core architectural patterns (monolithic, microservices, event-driven, serverless).
+
+- **Scalability & Performance Optimization**: Details horizontal/vertical scaling, CAP theorem, database sharding, replication, caching strategies (CDN, edge caching, cache eviction), and performance metrics (latency, throughput, consistency).
+
+- **
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-28T03:47:38.970047+05:30'
+collected_at: '2026-06-28T10:22:02.418793+05:30'
 published_at: '2026-06-27T06:24:18Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-28T03:47:38.970047+05:30'
-last_seen: '2026-06-28T03:47:38.970047+05:30'
-last_checked: '2026-06-28T03:47:38.970047+05:30'
+first_seen: '2026-06-28T10:22:02.418793+05:30'
+last_seen: '2026-06-28T10:22:02.418793+05:30'
+last_checked: '2026-06-28T10:22:02.418793+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and provide hands-on understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Modular Architecture**: Demonstrates a complete RAG workflow, including document ingestion, embedding generation (e.g., with `sentence-transformers`), vector storage (e.g., FAISS or similar), retrieval mechanisms, and prompt augmentation for LLMs.
+- **JavaScript-Based Pipeline**: Implements RAG entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and vector operations, ensuring transparency and educational value.
 
-- **Agent Integration**: Extends the pipeline to AI agents, enabling dynamic interaction with the RAG system for tasks like chatbots, leveraging Node.js for scalability and real-time processing.
+- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for building RAG systems, covering agents, chatbots, and retrieval pipelines, with last updates as of June 2026.
 
 ## Why It Matters
 

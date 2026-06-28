@@ -7,7 +7,7 @@ source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
 local_vault_path: ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -32,7 +32,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search with vector similarity search (OpenAI `text-embedding-3-small`) to improve retrieval precision, capturing both semantic relevance and exact term matches.
+- **Hybrid Retrieval Pipeline**: Combines BM25 keyword search (rank-bm25) with vector similarity search (OpenAI `text-embedding-3-small` in ChromaDB) to improve retrieval precision by leveraging both exact term matching and semantic relevance.
 
-- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model to rerank hybrid search results, boosting top-k relevance by re-scoring candidate documents based on contextual relevance before generation.
-
-- **Implementation**: Implemented via LangChain’s `BM25Retriever` + `Ch
+- **Cross-Encoder Reranking**: Uses a lightweight cross-encoder model (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) to rerank the top 20 hybrid results, boosting relevance by scoring query-document pairs with a fine-tuned transformer, eliminating the nee
 
 ## Use Cases
 

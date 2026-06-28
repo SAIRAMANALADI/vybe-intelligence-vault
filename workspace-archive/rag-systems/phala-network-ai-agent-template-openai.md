@@ -6,17 +6,17 @@ source_url: https://github.com/Phala-Network/ai-agent-template-openai
 resource_id: github:phala-network/ai-agent-template-openai
 local_vault_path: ai/rag/phala-network-ai-agent-template-openai.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
+- models
 - openai
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, facilitating seamless integration of AI capabilities with blockchain-based execution environments.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI computations.
 
-- **Key Components**: Includes pre-configured modules for agent initialization, OpenAI API interaction (e.g., chat completion, function calling), and Phala Network contract deployment, ensuring modularity and scalability.
+- **Phala Network Integration**: Utilizes Phala's confidential computing and TEE (Trusted Execution Environment) to ensure secure, private execution of AI agent logic.
 
-- **Deployment Workflow**: Simplifies the
+- **OpenAI API Compatibility**: Designed to seamlessly connect with OpenAI's API endpoints, allowing AI agents to perform tasks like text generation, embeddings, or
 
 ## Use Cases
 

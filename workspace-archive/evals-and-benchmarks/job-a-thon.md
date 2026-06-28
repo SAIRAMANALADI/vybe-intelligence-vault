@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Quarterly Recruitment Platform**: GeeksforGeeks' Job-A-Thon is a quarterly hiring challenge targeting both freshers and experienced professionals, simulating real-time recruitment rounds for companies.
+- **Quarterly Recruitment Platform**: GeeksforGeeks' Job-A-Thon is a quarterly hiring challenge designed for both freshers and experienced professionals, simulating real-time recruitment rounds with companies.
 
-- **Participation & Evaluation Criteria**: Candidates must register for live events; performance in DSA, programming logic, logical reasoning, and quantitative aptitude determines job shortlisting via the GFG Jobs portal.
+- **Participation & Evaluation Criteria**: Candidates must register individually; contest evaluates DSA, programming logic, logical reasoning, and quantitative aptitude. Performance influences job prioritization on GFG Jobs portal but does not guarantee callbacks.
 
-- **Company Onboarding & Candidate Selection**: Companies must initiat
+- **Company Integration
 
 ## Use Cases
 

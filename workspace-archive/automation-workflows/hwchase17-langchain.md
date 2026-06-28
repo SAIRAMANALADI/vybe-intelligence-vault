@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Agent Framework**: Open-source Python framework (with TypeScript support) for building, orchestrating, and deploying AI agents, integrating LLMs (OpenAI, Anthropic, Gemini), tools (RAG, multi-agent systems), and enterprise workflows via `LangGraph` for stateful, multi-step agent interactions.
+- **Modular AI Agent Framework**: Open-source Python framework (`langchain`) for building AI agents with support for LLMs (OpenAI, Anthropic, Gemini), multi-agent systems, and enterprise-grade workflows.
 
-- **Modular Architecture**: Leverages `Pydantic` for structured data validation and supports extensible components (e.g., memory, toolkits, chains) with pre-built integrations for vector stores
+- **Multi-Language & Tool Integration**: Supports Python and TypeScript (`langgraph`), with integrations for RAG, Pydantic-based data validation, and enterprise tools.
+
+- **Dynamic & Scalable**: Actively maintained (last update: 2026-06-28) with 140K+ stars, enabling scalable agent orchestratio
 
 ## Use Cases
 

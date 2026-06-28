@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-06-28T01:19:23.280633+05:30'
-published_at: '2026-06-27T12:41:17Z'
+collected_at: '2026-06-28T10:24:57.674320+05:30'
+published_at: '2026-06-27T20:40:23Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - models
 - python
 - rag
-stars: 14823
+stars: 14824
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-06-28T01:19:23.280633+05:30'
-last_seen: '2026-06-28T01:19:23.280633+05:30'
-last_checked: '2026-06-28T01:19:23.280633+05:30'
+first_seen: '2026-06-28T10:24:57.674320+05:30'
+last_seen: '2026-06-28T10:24:57.674320+05:30'
+last_checked: '2026-06-28T10:24:57.674320+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Backend Support**: Supports multiple inference backends including `llama.cpp`, `ONNX`, and `OpenVINO`, enabling deployment flexibility across different hardware and software environments.
+- **Multi-Backend Support**: Supports multiple inference backends (e.g., LlamaCpp, ONNX, OpenVINO) and model formats, enabling deployment flexibility across diverse hardware and software environments.
 
-- **Enterprise Features**: Includes built-in components for parsing, agent orchestration, and model specialization, with active development and updates as of June 2026.
+- **Enterprise-Centric Features**: Includes built-in parsing, agent integration, and retrieval mechanisms tailored for structured document processing and scalable enterprise applications.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: llmware-ai
-- Stars: 14823
+- Stars: 14824
 - Forks: 2914
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
-- Last Updated: 2026-06-27T12:41:17Z
+- Last Updated: 2026-06-27T20:40:23Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-09-29T15:19:06Z

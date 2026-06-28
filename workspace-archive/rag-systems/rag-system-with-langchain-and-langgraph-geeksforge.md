@@ -8,7 +8,7 @@ local_vault_path: ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: template
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG System with LangChain and LangGraph - GeeksforGeeks
@@ -32,18 +32,15 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: template
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Combines LangChain for document processing (chunking, embeddings) and LangGraph for orchestration, enabling context-aware LLM responses via vector similarity search (`k=5` chunks) and stateful workflow execution.
-
-- **LangGraph Workflow**: Implements a directed graph with nodes for classification, retrieval, generation, and refinement, compiled into an executable pipeline (`StateGraph`) that manages data flow and modular execution order.
-
-- **Technical Implementa
+*   A Retrieval-Augmented Generation (RAG) system is constructed using LangChain for document processing (loading, `RecursiveCharacterTextSplitter` chunking, `OpenAIEmbeddings` into `InMemoryVectorStore`) and LLM interfacing.
+*   LangGraph orchestrates the RAG workflow as a stateful graph (`TypedDict State`), defining a sequence of nodes: `classify` (initial processing), `retrieve` (vector store similarity search), `generate` (LLM invocation with custom prompt and retrieved context), and `refine
 
 ## Use Cases
 

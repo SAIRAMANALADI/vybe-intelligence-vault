@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-06-26T20:19:00.136712+05:30'
-collected_at: '2026-06-26T20:19:00.136726+05:30'
+published_at: '2026-06-28T10:21:54.170242+05:30'
+collected_at: '2026-06-28T10:21:54.170251+05:30'
 tags:
 - rag
 - web-crawled
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-06-26T20:19:00.136726+05:30'
-last_seen: '2026-06-26T20:19:00.136726+05:30'
-last_checked: '2026-06-26T20:19:00.136726+05:30'
+first_seen: '2026-06-28T10:21:54.170251+05:30'
+last_seen: '2026-06-28T10:21:54.170251+05:30'
+last_checked: '2026-06-28T10:21:54.170251+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- YouTube operates under Google LLC, adhering to corporate policies, privacy laws, and content safety frameworks outlined in official documentation.
-- Developer resources (via [developers.google.com/youtube](https://developers.google.com/youtube)) provide APIs, tools, and documentation for integrating YouTube functionality into third-party applications.
-- YouTube’s monetization, creator support, and platform features (e.g., NFL Sunday Ticket, new feature testing) are governed by separate commercial and operational policies.
+- YouTube operates under Google LLC, providing a platform for video sharing, monetization, and content discovery with integrated Google services.
+- Developers can leverage the [YouTube Data API](https://developers.google.com/youtube) for programmatic access to core YouTube functionalities (e.g., uploads, analytics, live streaming).
+- YouTube enforces policies via automated systems and human review to manage copyright (Content ID), safety (Community Guidelines), and privacy (GDPR compliance).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T20:19:00.136712+05:30
+- Published: 2026-06-28T10:21:54.170242+05:30
 
 ## Related Tags
 

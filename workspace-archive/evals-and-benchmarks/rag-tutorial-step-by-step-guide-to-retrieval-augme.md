@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: template
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: template
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: Five-stage process—**load** (ingest documents via LangChain loaders), **chunk** (split using `RecursiveCharacterTextSplitter` with 512-token chunks and 50-token overlap), **embed/index** (convert chunks to vectors using OpenAI embeddings and store in ChromaDB), **retrieve** (embed query and fetch top-*k* semantically similar chunks via cosine similarity), **generate** (pass retrieved context to LLM with a structured prompt for grounded answers).
-
-- **Key Technical Components*
+- **RAG Pipeline**: A 5-step process comprising **document loading**, **chunking**, **embedding/indexing**, **retrieval**, and **generation**, enabling LLMs to answer queries using external, up-to-date data with citations.
+- **Technical Implementation**: Uses **LangChain** for orchestration, **ChromaDB** for vector storage, and **OpenAI's `text-embedding-3-small`** for embeddings, with recursive chunking (512 tokens, 50-token overlap) for semantic preservation.
+- **Production Enhancements**: Req
 
 ## Use Cases
 

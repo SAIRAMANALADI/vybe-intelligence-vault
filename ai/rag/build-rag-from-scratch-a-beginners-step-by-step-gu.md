@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-06-27T21:51:00.606597+05:30'
-collected_at: '2026-06-27T21:51:00.606604+05:30'
+published_at: '2026-06-28T10:22:03.011697+05:30'
+collected_at: '2026-06-28T10:22:03.011710+05:30'
 tags:
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-06-27T21:51:00.606604+05:30'
-last_seen: '2026-06-27T21:51:00.606604+05:30'
-last_checked: '2026-06-27T21:51:00.606604+05:30'
+first_seen: '2026-06-28T10:22:03.011710+05:30'
+last_seen: '2026-06-28T10:22:03.011710+05:30'
+last_checked: '2026-06-28T10:22:03.011710+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using LangChain, FAISS for vector storage, and OpenAI embeddings to ground responses in retrieved document chunks, preventing hallucinations by restricting answers to provided context.
+- **Modular RAG Pipeline**: The guide implements a **three-stage RAG system**—document loading/splitting, vector embedding storage (FAISS), and retrieval-augmented generation—using LangChain’s modular components (`TextLoader`, `RecursiveCharacterTextSplitter`, `FAISS.from_documents`) to ensure semantic search and context-aware responses.
 
-- **Modular Architecture**: Structured into four core components—document loader (splits text into 300-token chunks with 50-token overlap), vector store (FAISS index for semantic search), RAG chain (combines retrieved context with a system prompt to constrain LLM output), and main interface (handles user queries via similarity search).
+- **Hallucination Mitigation**: The system enforces **grounded generation** by restricting the LLM (OpenAI’s `gpt-3.5-turbo`) to answer **only from retrieved chunks**, with a fallback to "I don’t know" if no relevant context exists, achieved via a structured prompt template and zero-temperature sampling.
 
-- **Deterministic Output**: Enforces factual responses by embedding a system prompt that mandates answers be derived solely from retrieved context, returning "I don't know" when no relevant information exists, thus eliminating probabilistic hallucinations.
+- **Local, Production-Ready Architecture**: The stack (`python-dotenv`, `langchain-community`, `faiss-cpu`) operates **locally** without cloud dependencies, using a **separation of concerns** (document loader, vector store, RAG chain) to enable scalability and debugging in real-world deployments.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T21:51:00.606597+05:30
+- Published: 2026-06-28T10:22:03.011697+05:30
 
 ## Related Tags
 

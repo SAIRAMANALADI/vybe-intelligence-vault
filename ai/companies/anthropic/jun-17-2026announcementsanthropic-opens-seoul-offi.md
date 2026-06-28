@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
-published_at: '2026-06-28T03:46:39.940700+05:30'
-collected_at: '2026-06-28T03:46:39.940703+05:30'
+published_at: '2026-06-28T10:21:03.732489+05:30'
+collected_at: '2026-06-28T10:21:03.732493+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jun-17-2026announcementsanthropic-opens-seoul-offi
 first_seen: '2026-06-17T21:32:20.512577+05:30'
-last_seen: '2026-06-28T03:46:39.940703+05:30'
-last_checked: '2026-06-28T03:46:39.940703+05:30'
+last_seen: '2026-06-28T10:21:03.732493+05:30'
+last_checked: '2026-06-28T10:21:03.732493+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
-- Collected At: 2026-06-28T03:46:39.940703+05:30
+- Collected At: 2026-06-28T10:21:03.732493+05:30
 
 ## Related Tags
 

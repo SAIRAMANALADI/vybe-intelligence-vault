@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal search engine**: Supports vector, full-text, regex, and metadata search with 90-100% recall, optimized for object storage (S3/GCS) with automatic tiering between hot (memory/SSD) and cold (object storage) layers.
+- **Multi-modal search engine**: ChromaDB supports vector, full-text, regex, and metadata search with sparse (BM25/SPLADE) and dense embeddings, enabling hybrid retrieval across lexical and semantic dimensions.
 
-- **Scalable, serverless architecture**: Achieves p50 latency of 20ms (warm) / 650ms (cold) for 100k vectors (384-dim), auto-scales to 1M collections and 5M records per collection with 30 MB/s write throughput and 2000+ QPS.
+- **Serverless, object-storage-backed architecture**: Leverages S3/GCS with intelligent tiering (hot/cold data) and caching for cost-efficient scaling (up to 10x cheaper than memory-based systems) while maintaining low latency (p99 < 57ms for warm queries).
 
-- **Enterprise-grade features**: BYOC in VPC
+- **Enterprise-grade BYOC and
 
 ## Use Cases
 

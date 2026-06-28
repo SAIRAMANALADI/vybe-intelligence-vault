@@ -6,14 +6,13 @@ source_url: https://github.com/snyk/agent-scan
 resource_id: github:snyk/agent-scan
 local_vault_path: ai/agents/snyk-agent-scan.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
 selection_reason:
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities.
-- **Key Features**: Supports detection of security flaws in AI workflows, integrates with Model Context Protocol (MCP).
-- **Technical Stack**: Implemented in Python, actively maintained with last update on 2026-06-26.
+- **Purpose**: Security scanner designed to audit AI agents, MCP servers, and agent skills for vulnerabilities and misconfigurations.
+- **Key Features**: Supports static and dynamic analysis of AI/ML pipelines, including dependency scanning, code analysis, and MCP protocol validation.
+- **Integration**: Compatible with Python-based AI workflows, integrates with Snyk’s vulnerability database for real-time threat detection.
 
 ## Use Cases
 

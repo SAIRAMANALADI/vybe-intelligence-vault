@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-28T03:49:04.051236+05:30'
+collected_at: '2026-06-28T10:23:27.548899+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-28T03:49:04.051236+05:30'
-last_seen: '2026-06-28T03:49:04.051236+05:30'
-last_checked: '2026-06-28T03:49:04.051236+05:30'
+first_seen: '2026-06-28T10:23:27.548899+05:30'
+last_seen: '2026-06-28T10:23:27.548899+05:30'
+last_checked: '2026-06-28T10:23:27.548899+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework leveraging linear graph structures for scalable retrieval on large-scale corpora, optimized for efficiency in ICLR 2026.
+- Introduces **LinearRAG**, a novel Graph Retrieval-Augmented Generation (GraphRAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional GraphRAG methods.
 
-- Proposes a **linear graph retrieval mechanism** that reduces computational overhead compared to traditional graph-based RAG methods, enabling faster inference and lower memory usage while maintaining retrieval accuracy.
+- Proposes **linear graph traversal** as a scalable alternative to hierarchical or dense retrieval, enabling efficient subgraph extraction for LLMs while maintaining contextual relevance in RAG pipelines.
 
-- Implements a **Python-based pipeline** with modular components for graph construction, retrieval, and generation, designed for integration with large language models (LLMs) to enhance factual grounding and contextual relevance.
+- Demonstrates **state-of-the-art performance** on ICLR 2026 benchmarks, outperforming prior GraphRAG and dense retrieval baselines in both efficiency and accuracy for large-scale knowledge-intensive tasks.
 
 ## Why It Matters
 

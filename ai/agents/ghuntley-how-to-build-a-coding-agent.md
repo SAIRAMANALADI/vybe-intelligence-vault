@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-06-28T01:18:13.181704+05:30'
-published_at: '2026-06-27T02:50:26Z'
+collected_at: '2026-06-28T10:23:52.501675+05:30'
+published_at: '2026-06-28T00:14:08Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
-- scripts
 - workflows
-stars: 5696
+stars: 5697
 language: Go
 status: active
 archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-06-27T08:05:53Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-06-28T01:18:13.181704+05:30'
-last_seen: '2026-06-28T01:18:13.181704+05:30'
-last_checked: '2026-06-28T01:18:13.181704+05:30'
+first_seen: '2026-06-28T10:23:52.501675+05:30'
+last_seen: '2026-06-28T10:23:52.501675+05:30'
+last_checked: '2026-06-28T10:23:52.501675+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a structured workshop to build a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven development workflows.
-- **Technical Scope**: Focuses on **agent-based automation**, integrating AI tools for code generation, debugging, and project management.
-- **Repository Stats**: 5,696 stars, 641 forks, last updated **2026-06-27**; emphasizes hands-on tutorials for AI-assisted coding agents.
+- **Purpose**: Workshop for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven development workflows.
+- **Technical Scope**: Focuses on **agent architecture**, **AI integration**, and **tooling** for autonomous/local code generation and editing.
+- **Status**: Actively maintained (last updated **2026-06-28**), with **5,697 stars** and **641 forks**, indicating strong community engagement.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ghuntley
-- Stars: 5696
+- Stars: 5697
 - Forks: 641
 - Language: Go
 - Topics: agent, ai, cursor, tutorial, workshop
-- Last Updated: 2026-06-27T02:50:26Z
+- Last Updated: 2026-06-28T00:14:08Z
 - Archived: No
 - Created At: 2025-07-24T03:56:29Z
 - Pushed At: 2026-06-27T08:05:53Z

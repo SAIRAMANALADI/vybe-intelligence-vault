@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-06-27T21:53:15.225508+05:30'
+collected_at: '2026-06-28T10:24:02.528061+05:30'
 published_at: '2026-06-23T20:27:24Z'
 tags:
 - agents
 - github-repo
+- models
 - openai
 - rag
 - typescript
-- workflows
 stars: 219
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-06-27T21:53:15.225508+05:30'
-last_seen: '2026-06-27T21:53:15.225508+05:30'
-last_checked: '2026-06-27T21:53:15.225508+05:30'
+first_seen: '2026-06-28T10:24:02.528061+05:30'
+last_seen: '2026-06-28T10:24:02.528061+05:30'
+last_checked: '2026-06-28T10:24:02.528061+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API, facilitating seamless integration of AI capabilities with blockchain-based execution environments.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI computations.
 
-- **Key Components**: Includes pre-configured modules for agent initialization, OpenAI API interaction (e.g., chat completion, function calling), and Phala Network contract deployment, ensuring modularity and scalability.
+- **Phala Network Integration**: Utilizes Phala's confidential computing and TEE (Trusted Execution Environment) to ensure secure, private execution of AI agent logic.
 
-- **Deployment Workflow**: Simplifies the process of compiling, testing, and deploying AI agents as Phala Network contracts via a CLI-driven workflow, leveraging Phala's confidential computing infrastructure for secure off-chain computation.
+- **OpenAI API Compatibility**: Designed to seamlessly connect with OpenAI's API endpoints, allowing AI agents to perform tasks like text generation, embeddings, or fine-tuning within a decentralized environment.
 
 ## Why It Matters
 

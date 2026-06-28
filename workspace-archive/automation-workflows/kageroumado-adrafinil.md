@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by kageroumado. Score: 37, Comments: 30.
+Hacker News story by kageroumado. Score: 103, Comments: 66.
 Original Link: https://github.com/kageroumado/adrafinil
 
 ## Use Cases

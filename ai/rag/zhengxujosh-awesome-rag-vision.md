@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-28T03:48:29.041407+05:30'
+collected_at: '2026-06-28T10:22:57.465087+05:30'
 published_at: '2026-06-25T08:51:35Z'
 tags:
-- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 stars: 336
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-28T03:48:29.041407+05:30'
-last_seen: '2026-06-28T03:48:29.041407+05:30'
-last_checked: '2026-06-28T03:48:29.041407+05:30'
+first_seen: '2026-06-28T10:22:57.465087+05:30'
+last_seen: '2026-06-28T10:22:57.465087+05:30'
+last_checked: '2026-06-28T10:22:57.465087+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized repository compiling advanced retrieval augmented generation (RAG) techniques tailored for computer vision applications, including multimodal and vision-language integration methods.
-
-- **GitHub Metadata**: Hosted on GitHub with 336 stars, 9 forks, and last updated on 2026-06-25; language unspecified, indicating a focus on aggregated resources rather than executable code.
-
-- **Research Focus**: Encompasses cutting-edge RAG frameworks, datasets, and tools bridging vision and language models, emphasizing retrieval-augmented approaches for tasks like image captioning, visual question answering, and scene understanding.
+- **Curated RAG-Vision Resources**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods, papers, tools, and frameworks.
+- **Metadata**: 336 stars, 9 forks, last updated **June 25, 2026**; language unspecified (likely multi-language due to academic/research focus).
+- **Scope**: Focuses on **vision-specific RAG applications**, bridging generative AI with CV tasks (e.g., image captioning, visual question answering, or multimodal retrieval).
 
 ## Why It Matters
 

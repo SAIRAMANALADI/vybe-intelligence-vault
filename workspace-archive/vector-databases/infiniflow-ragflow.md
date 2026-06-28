@@ -15,7 +15,6 @@ tags:
 - github-repo
 - go
 - rag
-- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows to enhance LLM context processing, enabling dynamic interaction between retrieval and reasoning components.
-
-- **Context Engine & Management**: Implements a specialized context layer for LLMs, featuring structured document parsing, semantic indexing, and adaptive context fusion to optimize retrieval precision and relevance.
-
-- **Open-Source Go-Based System**: Built in
+- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI, enabling dynamic context augmentation and multi-step reasoning for LLMs.
+- **Context Management**: Implements a structured context layer with fine-grained control over retrieval, fusion, and agent-based processing for enhanced LLM performance.
+- **Go-Based Architecture**: Built in Go for high-performance parallel processing, optimized for large-scale document retrieval and real-time agent interaction
 
 ## Use Cases
 

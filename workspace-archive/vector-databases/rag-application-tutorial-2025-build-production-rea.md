@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -32,17 +32,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) stages, with latency bottlenecks primarily in retrieval (~60%) and generation (~30%) phases.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) for contextual augmentation, with LangChain as a primary framework for implementation.
 
-- **Production Optimizations**: Implements chunking (semantic/recursive), embedding quantization (e.g., `all-MiniLM-L6-v2` → FP16), and hybrid retrieval (BM25 + cosine similarity) to balance accuracy/cost.
+- **Production Optimizations**: Implements chunking strategies (e.g., semantic splitting), embedding fine-tuning (e.g., `text-embedding-3-large`), hybrid retrieval (dense + BM25), and Supabase for vector storage with latency benchmarks (~100-300ms pipeline).
 
-- **Scaling & Monitoring**: Uses Cloudflare Workers for edge deployment, Sentry for observabilit
+- **Scalability & Monitoring**: Uses Cloudfla
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-28T03:48:24.007975+05:30'
+collected_at: '2026-06-28T10:22:52.471099+05:30'
 published_at: '2026-06-23T11:20:18Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-28T03:48:24.007975+05:30'
-last_seen: '2026-06-28T03:48:24.007975+05:30'
-last_checked: '2026-06-28T03:48:24.007975+05:30'
+first_seen: '2026-06-28T10:22:52.471099+05:30'
+last_seen: '2026-06-28T10:22:52.471099+05:30'
+last_checked: '2026-06-28T10:22:52.471099+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG resources**: Comprehensive collection of advanced techniques, frameworks, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated RAG Resources**: A GitHub repository compiling advanced techniques, papers, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical depth**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, fine-tuning strategies, and optimization techniques for improving factual accuracy and contextual relevance in LLM outputs.
+- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, fine-tuning strategies, and evaluation benchmarks for optimizing LLM performance with external knowledge sources.
 
-- **Community-driven updates**: Actively maintained repository with frequent contributions, ensuring inclusion of the latest advancements and benchmarks in RAG-related LLMs as of June 2026.
+- **Community-Driven**: Actively maintained with 1,340 stars and 84 forks, reflecting collaborative contributions and updates as of June 23, 2026.
 
 ## Why It Matters
 

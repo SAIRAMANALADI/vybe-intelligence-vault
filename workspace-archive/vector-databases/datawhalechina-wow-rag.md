@@ -6,16 +6,15 @@ source_url: https://github.com/datawhalechina/wow-rag
 resource_id: github:datawhalechina/wow-rag
 local_vault_path: ai/rag/datawhalechina-wow-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing modularity and ease of integration across environments.
+- **Framework Design**: A lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, emphasizing simplicity and modularity for extensibility.
 
-- **Core Components**: Includes retrieval, indexing, and generation modules with preconfigured pipelines for quick deployment, supporting both local and cloud-based LLM interactions.
+- **Core Components**: Includes retrieval mechanisms (e.g., vector stores, embedding models) and generation pipelines, with tutorials demonstrating integration across different platforms (e.g., local, cloud).
 
-- **Tutorial Integration**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, covering docum
+- **Technical Stack**: Leverages Python-based tools (e.g., LangChain, FAISS, or HuggingFace) for d
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by bushwart. Score: 116, Comments: 64.
+Hacker News story by bushwart. Score: 173, Comments: 96.
 Original Link: https://www.sciencedirect.com/science/article/pii/S1877959X26000476
 
 ## Use Cases

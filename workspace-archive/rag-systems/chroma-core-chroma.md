@@ -6,7 +6,7 @@ source_url: https://github.com/chroma-core/chroma
 resource_id: github:chroma-core/chroma
 local_vault_path: ai/rag/chroma-core-chroma.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Chroma is a vector database and search infrastructure designed for AI applications, enabling efficient storage, indexing, and retrieval of high-dimensional embeddings.
-- **Technical Stack**: Implemented in Rust for performance and safety, with support for AI agents, vector similarity search, and metadata filtering.
-- **Features**: Supports hybrid search (vector + keyword), persistent storage, and real-time updates; optimized for large-scale AI workloads.
+- **Purpose**: Chroma is a high-performance, open-source vector database and search engine designed for AI applications, enabling efficient storage, indexing, and retrieval of embeddings and metadata.
+- **Technical Stack**: Implemented in Rust for memory safety and performance, supporting distributed deployments and horizontal scaling for large-scale AI workloads.
+- **Features**: Provides APIs for similarity search (e.g., cosine similarity), metadata filtering, and integration with AI agents; op
 
 ## Use Cases
 

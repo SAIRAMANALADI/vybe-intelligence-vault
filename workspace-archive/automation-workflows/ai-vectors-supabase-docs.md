@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **PostgreSQL + pgvector Integration**: Supabase leverages PostgreSQL with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings directly within the database.
+- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector database solution, enabling storage, indexing, and querying of vector embeddings at scale using SQL.
 
-- **Multi-Model AI Workflows**: Supports hybrid search (semantic + keyword), integrates with OpenAI, Hugging Face, LangChain, and others, and includes Edge Function-based embedding generation using open-source models.
+- **Multi-Model AI Workflows**: Supports hybrid search (semantic + keyword), integrates with OpenAI, Hugging Face, LangChain, and others, and includes Edge Function-based embedding generation and inference pipelines.
 
-- **Production-Ready Toolkit**: Includes
+- **Production-Ready Tooling**: Offers database migratio
 
 ## Use Cases
 

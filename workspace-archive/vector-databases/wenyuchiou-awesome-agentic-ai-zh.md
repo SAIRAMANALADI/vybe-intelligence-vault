@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Learning Path**: A trilingual (Traditional Chinese, English, Simplified Chinese) repository offering a structured roadmap for agentic AI, covering foundational LLM concepts to advanced multi-agent systems with **240+ high-quality resources** and practical examples.
+- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese (繁中), English, and Simplified Chinese (简中), including hands-on examples.
 
-- **Technical Breadth**: Integrates key agentic AI topics including **LLM agents, RAG, prompt engineering, MCP (Model Context Protocol), CLI tools (e.g., Claude Code/Skills), and multi-agent workflows**, with Python-based
+- **Technical Scope**: Encompasses LLM agents, agentic workflows, prompt engineering, RAG, MCP (Model Context Protocol), CLI tools (e.g., Claude Code/Skills), and multi-agent system architectures.
+
+- **Repository Metrics**: 3,392 stars, 472 forks, primarily Python-based, last
 
 ## Use Cases
 

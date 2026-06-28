@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/xbtlin/ai-berkshire
-published_at: '2026-06-28T03:46:37.481693+05:30'
-collected_at: '2026-06-28T03:46:37.481696+05:30'
+published_at: '2026-06-28T10:21:00.592667+05:30'
+collected_at: '2026-06-28T10:21:00.592671+05:30'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:xbtlin/ai-berkshire
 first_seen: '2026-06-25T16:35:46.162141+05:30'
-last_seen: '2026-06-28T03:46:37.481696+05:30'
-last_checked: '2026-06-28T03:46:37.481696+05:30'
+last_seen: '2026-06-28T10:21:00.592671+05:30'
+last_checked: '2026-06-28T10:21:00.592671+05:30'
 health_score: 100
 ---
 
@@ -23,7 +23,7 @@ health_score: 100
 
 ## Summary
 
-AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
+AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-28T03:46:37.481693+05:30
+- Published: 2026-06-28T10:21:00.592667+05:30
 
 ## Related Tags
 

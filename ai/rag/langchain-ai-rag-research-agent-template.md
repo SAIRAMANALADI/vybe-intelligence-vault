@@ -4,17 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-28T03:47:44.034474+05:30'
+collected_at: '2026-06-28T10:22:07.520219+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
-- openai
 - python
 - rag
-- scripts
-- workflows
 stars: 313
 language: Python
 status: active
@@ -23,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-28T03:47:44.034474+05:30'
-last_seen: '2026-06-28T03:47:44.034474+05:30'
-last_checked: '2026-06-28T03:47:44.034474+05:30'
+first_seen: '2026-06-28T10:22:07.520219+05:30'
+last_seen: '2026-06-28T10:22:07.520219+05:30'
+last_checked: '2026-06-28T10:22:07.520219+05:30'
 health_score: 100
 ---
 
@@ -33,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter implementation for a Retrieval-Augmented Generation (RAG) research agent using LangChain, facilitating document retrieval and synthesis workflows.
+- **Template Purpose**: Provides a structured foundation for building Retrieval-Augmented Generation (RAG) research agents using LangChain, enabling integration of LLMs with external knowledge sources.
 
-- **Key Components**: Includes modular Python scripts for document loading, vector storage (e.g., Chroma/FAISS), LLM integration (e.g., LangChain’s `ChatOpenAI`), and agent orchestration for iterative research tasks.
+- **Key Components**: Includes modular components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval pipelines, and agent orchestration with LangChain’s framework.
 
-- **Technical Stack**: Built on Python, leveraging LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) with dependencies for vector DBs, embeddings (e.g., `sentence-transformers`), and agent frameworks (e.g., `crewai` or custom tools).
+- **Technical Stack**: Python-based, leveraging LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) and dependencies for vector DBs, embeddings, and agent tooling.
 
 ## Why It Matters
 

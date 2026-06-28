@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - paper
 - rag
 - scripts
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: A comprehensive, community-driven collection of AI agent frameworks, tools, libraries, and research papers, designed to facilitate development and deployment of autonomous agents.
-- **Multi-Domain Coverage**: Encompasses agents for diverse applications including conversational AI, robotic process automation (RPA), multi-agent systems, and reinforcement learning-based agents.
-- **Active Maintenance**: Regularly updated (last commit: 2026-06-27) with contributions from 65
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, spanning autonomous agents, multi-agent systems, and agent-based simulations.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, automation, gaming, and real-world applications, with links to research papers, GitHub repositories, and documentation.
+- **Active Maintenance**: Last updated in 2026, indicating ongoing updates and community-driven contributions to track emerging
 
 ## Use Cases
 

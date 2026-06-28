@@ -9,7 +9,7 @@ local_vault_path: ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Agentic RAG Architecture**: Utilizes a ReAct agent with dynamic decision-making to selectively activate retrieval pipelines (e.g., NVIDIA Nemotron models) only when additional context is required, improving efficiency over traditional RAG systems.
+- **Agentic RAG Architecture**: Uses ReAct agent design where an LLM dynamically decides between direct response or retrieval tool activation, integrating NVIDIA Nemotron models (Nemotron Nano 9b V2 for generation, NeMo Retriever Embedding Model for document embedding, and NeMo Retriever Reranking Model for document prioritization).
 
-- **Core Model Stack**: Integrates **Nemotron Nano 9b V2** (LLM for response generation), **Llama 3.2 EmbedQA 1b V2** (embedding model for vectorization), and **Llama 3.2 RerankQA 1b V2** (reranking model for relevance optimization) via NVIDIA NIM
+- **NVIDIA Nemotron Integration**: Leverages NVIDIA NIM endpoints for tool binding, structured output, async operations, and enterprise-grade inference; employs ope
 
 ## Use Cases
 

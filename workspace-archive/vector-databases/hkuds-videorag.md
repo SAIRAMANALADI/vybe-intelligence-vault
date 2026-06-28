@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat" with video content via multi-modal processing.
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to handle video retrieval and contextual generation.
-- **Key Features**: Supports long-video understanding, integrates RAG for enhanced retrieval, and is optimized for multi-modal LLMs (e.g., video + tex
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs.
+- **Technical Implementation**: Built in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to segment, retrieve, and generate responses from video data efficiently.
+- **KDD'2026 Contribution**: Proposes a novel approach for scalable video-based Q&A, addressing challenges
 
 ## Use Cases
 

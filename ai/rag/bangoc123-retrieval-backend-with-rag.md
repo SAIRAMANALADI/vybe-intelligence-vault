@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-28T03:48:13.986731+05:30'
+collected_at: '2026-06-28T10:22:37.414721+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
+- models
 - python
 - rag
 stars: 263
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-28T03:48:13.986731+05:30'
-last_seen: '2026-06-28T03:48:13.986731+05:30'
-last_checked: '2026-06-28T03:48:13.986731+05:30'
+first_seen: '2026-06-28T10:22:37.414721+05:30'
+last_seen: '2026-06-28T10:22:37.414721+05:30'
+last_checked: '2026-06-28T10:22:37.414721+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search with large language models (LLMs).
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies tailored to Vietnamese linguistic features.
 
-- **Key Components**: Includes document preprocessing, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert-base`), vector database integration (e.g., FAISS or Milvus), and retrieval-augmented generation pipelines.
+- **Modular Python Architecture**: Utilizes a structured Python backend with components for document retrieval, vector storage (e.g., FAISS, Chroma), and integration with LLM APIs (e.g., Hugging Face Transformers) for Vietnamese-focused RAG pipelines.
 
-- **Best Practices**: Demonstrates Vietnamese-specific techniques such as text normalization, chunking strategies for Vietnamese morphology, and evaluation metrics tailored for low-resource language RAG systems.
+- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval performance (e.g., precision/recall metrics) and fine-tuning embedding models (e.g., `vinai/phobert-base`) for Vietnamese text corpora.
 
 ## Why It Matters
 

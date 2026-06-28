@@ -12,8 +12,8 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (workflow - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) (framework - ESSENTIAL Tier)
-- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
 - [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
 
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
-- [langgenius/dify](https://github.com/langgenius/dify)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-28 04:03 IST*
+*Last updated: 2026-06-28 10:37 IST*

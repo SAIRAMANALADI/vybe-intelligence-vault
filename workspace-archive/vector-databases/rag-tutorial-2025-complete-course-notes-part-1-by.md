@@ -6,10 +6,10 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 76
-archive_tier: useful
+archive_score: 86
+archive_tier: essential
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
 - agents
 - anthropic
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 86 (essential)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Fundamentals**: Combines LLMs with external retrieval systems to enhance responses by fetching relevant information from vast document repositories, addressing context window limitations (e.g., GPT-4.1: 1M tokens, enterprise data scales to quintillions of tokens).
+- **RAG Fundamentals**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for accurate responses without overloading LLM context windows, essential for enterprise-grade AI systems.
 
-- **Vector Embeddings & Pipeline**: Chunks documents into fixed-token segments (e.g., 1,000 tokens), converts them into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) using embedding models, and stores them in
+- **Vector Embeddings & Pipeline**: Documents are chunked (e.g., 1,000 tokens), converted into high-dimensional vectors (e.g., 3,072D via OpenAI's `text-embedding-3-large`), and stored in vector databases (e.g., Pinecone, FAISS) for semantic similarity matching during retrieval
 
 ## Use Cases
 

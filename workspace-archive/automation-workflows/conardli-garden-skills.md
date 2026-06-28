@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Open-source collection curated by ConardLi, integrating web design, knowledge retrieval, image generation, and other technical skills.
-- **Technical Stack**: Primarily implemented in CSS, with additional components for AI-driven workflows (e.g., RAG, GPT-image-2) and agent-based systems.
-- **Metadata**: 8,783 stars, 1,188 forks; last updated June 27, 2026; topics include agent, claude, rag, and web-design.
+- **Multi-domain Skills Repository**: Open-source collection by ConardLi covering web design, knowledge retrieval (RAG), image generation (GPT-Image-2), and autonomous agent workflows (Claude integration).
+
+- **Technical Stack**: Primarily implemented in CSS with additional tooling for AI-driven tasks (e.g., RAG pipelines, image synthesis).
+
+- **Project Metrics**: 8,818 stars, 1,195 forks, last updated June 28, 2026. Focuses on modular, reusable skills for AI-agent ecosystems.
 
 ## Use Cases
 

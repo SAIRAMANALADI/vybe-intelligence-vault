@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG resources**: Comprehensive collection of advanced techniques, frameworks, and research papers on Retrieval-Augmented Generation (RAG) for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated RAG Resources**: A GitHub repository compiling advanced techniques, papers, tools, and frameworks for Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical depth**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, fine-tuning strategies, and optimization techniques for improving factual accuracy and contextual relevance in LLM outputs.
+- **Technical Scope**: Focuses on cutting-edge RAG methodologies, including hybrid retrieval, fine-tuning strategies, and evaluation benchmarks for optimizing LLM performance with external knowledge sources.
 
-- **Community-driven upda
+- **Community-Driven**: Actively ma
 
 ## Use Cases
 

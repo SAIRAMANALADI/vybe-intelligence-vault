@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jishuzhan.net/article/2058094728054935554
-published_at: '2026-06-27T09:47:57.583088+05:30'
-collected_at: '2026-06-27T09:47:57.583100+05:30'
+published_at: '2026-06-28T10:21:51.179237+05:30'
+collected_at: '2026-06-28T10:21:51.179249+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:shou-cang-bei-yong-2026-nian-suo-you-zhu-liu-rag-k
-first_seen: '2026-06-27T09:47:57.583100+05:30'
-last_seen: '2026-06-27T09:47:57.583100+05:30'
-last_checked: '2026-06-27T09:47:57.583100+05:30'
+first_seen: '2026-06-28T10:21:51.179249+05:30'
+last_seen: '2026-06-28T10:21:51.179249+05:30'
+last_checked: '2026-06-28T10:21:51.179249+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **核心RAG框架**：LangChain（700+集成，多Agent工作流）、LlamaIndex（数据特化型RAG，结构化查询）、Haystack 2.x（模块化架构，生产级流水线）、RAGFlow（可视化工作流，融合RAG+Agent，多模态支持）。
+- **核心RAG框架**：LangChain (98K+ stars) 提供700+集成和动态检索链路，适用复杂多步骤AI应用；LlamaIndex (40K+ stars) 专注数据特化型RAG与结构化查询；Haystack 2.x (18K+ stars) 采用模块化架构，支持大规模文档问答与企业级部署。
 
-- **向量数据库**：Milvus（云原生架构，存储计算分离，十亿级向量）、Qdrant（点积/余弦/欧氏距离，动态索引，过滤条件丰富）、Weaviate（语义搜索，图结构集成，自动分片）、FAISS（Facebook开发，高性能，GPU加速）。
+- **向量数据库与嵌入模型**：Milvus (Apache-2.0) 支持十亿级向量与云原生架构；Qdrant (Apache-2.0) 提供动态索引与丰富过滤条件；BGE-M3 (MIT) 为中文优化的多粒度嵌入模型，E5 (MIT) 专注检索优先的长文本支持。
 
-- **嵌入模型**：BGE-M3（多粒度，多任务，中文优化）、E5（检索优先，长文本支持）、all-MiniLM-L6-v2（轻量级，速度快）、jina-embeddings-v2-base-en（长文本(8k)，检索精度高）。
+- **GraphRAG与Agentic RAG**：Microsoft GraphRAG (31K+ stars) 实现社区检测与多跳推理，适用金融投顾；LangGraph (LangChain生态) 支持状态管理与多Agent协作，适合复杂推理任务；Youtu-RAG (Apache-2.0) 集成长期记忆与跨会话关联，用于智能客服。
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T09:47:57.583088+05:30
+- Published: 2026-06-28T10:21:51.179237+05:30
 
 ## Related Tags
 

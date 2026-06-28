@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com
-published_at: '2026-06-28T03:57:09.944230+05:30'
-collected_at: '2026-06-28T03:57:09.944244+05:30'
+published_at: '2026-06-28T10:27:08.004053+05:30'
+collected_at: '2026-06-28T10:27:08.004065+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-mobile-app-developer-tools-android-develop
-first_seen: '2026-06-28T03:57:09.944244+05:30'
-last_seen: '2026-06-28T03:57:09.944244+05:30'
-last_checked: '2026-06-28T03:57:09.944244+05:30'
+first_seen: '2026-06-28T10:27:08.004065+05:30'
+last_seen: '2026-06-28T10:27:08.004065+05:30'
+last_checked: '2026-06-28T10:27:08.004065+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Android 17** released with AOSP source code and rolling out to Pixel devices; introduces API 37 with top 5 updates for app compatibility.
-- **Android XR** expands engine support and resources for building, testing, and scaling XR experiences across the ecosystem.
-- **Google Play** introduces expanded billing flexibility, lower fees, and new programs to support developer business models.
+- **Android 17** officially released with AOSP source code and Pixel rollout; developers must prepare apps for **API 37** with top 5 updates highlighted in the [Android Developers Blog](https://android-developers.googleblog.com/2026/06/Android-17.html).
+- **Android XR** expands engine support and resources for building, testing, and scaling immersive experiences across the ecosystem ([Android XR Guide](http://android-developers.googleblog.com/2026/06/what-is-new-android-xr.html)).
+- **Google Play** introduces **expanded billing flexibility, lower fees, and new programs** to support developer monetization ([Play Developer Updates](http://goo.gle/playdev-q3-updates)).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:57:09.944230+05:30
+- Published: 2026-06-28T10:27:08.004053+05:30
 
 ## Related Tags
 

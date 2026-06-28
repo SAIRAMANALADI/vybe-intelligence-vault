@@ -39,9 +39,7 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: A RAG system consists of two core components: a **retriever** (searches and fetches relevant text chunks from a knowledge base) and a **generator** (LLM that synthesizes answers using retrieved context to reduce hallucinations and improve accuracy).
-
-- **Vector Embedding & Storage**: Text chunks are converted into numerical **vector embeddings** (e.g., using `sentence-transformers/all-MiniLM-L6-v2`) and stored in a **FAISS index** for efficient similarity search, enabling
+*   A RAG system preprocesses raw text data, cleans it, and then
 
 ## Use Cases
 

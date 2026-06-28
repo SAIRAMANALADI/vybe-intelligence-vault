@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-06-28T03:49:44.119992+05:30'
+collected_at: '2026-06-28T10:24:07.753726+05:30'
 published_at: '2026-06-27T21:23:03Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-06-28T03:49:44.119992+05:30'
-last_seen: '2026-06-28T03:49:44.119992+05:30'
-last_checked: '2026-06-28T03:49:44.119992+05:30'
+first_seen: '2026-06-28T10:24:07.753726+05:30'
+last_seen: '2026-06-28T10:24:07.753726+05:30'
+last_checked: '2026-06-28T10:24:07.753726+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to dynamically fetch and integrate external context, enhancing retrieval-augmented generation (RAG) workflows with real-time data connectors.
+- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to dynamically retrieve and integrate contextual data from enterprise sources (e.g., databases, APIs) via semantic search and retrieval-augmented generation (RAG).
 
-- **Enterprise data integration**: Supports semantic search, API-driven retrieval, and structured/unstructured data connectors (e.g., databases, APIs) to unify disparate enterprise data sources for AI agents.
+- **Enterprise data connectors**: Supports integration with structured/unstructured data (SQL, NoSQL, documents) and real-time APIs, enabling low-latency context augmentation for LLMs without manual preprocessing.
 
-- **Scalable infrastructure**: Designed for production-grade AI agent deployments, offering search APIs, modular data pipelines, and extensible SDKs for custom integrations in agentic systems.
+- **Scalable search infrastructure**: Implements vector search (embeddings) and hybrid retrieval (keyword + semantic) with API-driven access, optimized for high-throughput agent workflows and multi-source data fusion.
 
 ## Why It Matters
 

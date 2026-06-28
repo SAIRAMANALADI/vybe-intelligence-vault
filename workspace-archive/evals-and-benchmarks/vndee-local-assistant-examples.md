@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Implements a **local ChatPDF** system using **LangChain** and **Ollama** for LLM inference, enabling offline document interaction.
-- Utilizes **RAG (Retrieval-Augmented Generation)** for efficient document retrieval and context-aware responses.
-- Supports **local execution** with Python, eliminating cloud dependency for privacy-sensitive or low-latency use cases.
+- **Implementation**: Demonstrates building a local ChatPDF application using Python, leveraging **LangChain** for LLM orchestration and **Ollama** for local LLM inference.
+- **Architecture**: Utilizes **RAG (Retrieval-Augmented Generation)** to enable document-based Q&A without cloud dependency.
+- **Deployment**: Designed for offline/local execution, avoiding external API calls while maintaining modularity for customization.
 
 ## Use Cases
 

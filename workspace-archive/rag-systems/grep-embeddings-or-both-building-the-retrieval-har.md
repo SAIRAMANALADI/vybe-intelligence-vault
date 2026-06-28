@@ -6,7 +6,7 @@ source_url: https://watch.getcontrast.io/register/building-retrieval-harness-for
 resource_id: blog:grep-embeddings-or-both-building-the-retrieval-har
 local_vault_path: ai/rag/grep-embeddings-or-both-building-the-retrieval-har.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid retrieval necessity**: Combining semantic search (embeddings) for broad corpus coverage with grep/file-level precision enables accurate agent responses, especially for enterprise-scale, multi-tenant document retrieval.
+- **Hybrid retrieval necessity**: Combining semantic search (embeddings) for broad corpus coverage with grep/file-based retrieval for precision and verification outperforms either approach alone, particularly as corpus size increases, addressing the false binary debate.
 
-- **Harness architecture**: Integrates hybrid search (semantic + grep), directory navigation, direct file reads, and multimodal file objects (text, layout, metadata, screenshots) to mitigate hallucinations and handle complex formats.
-
-- **Performance trade-offs**: Benc
+- **Multi-modal retrieval harness**: LlamaParse Index integrates server-side grep, semantic search, and file-level navigation (including text, layout, metadata, and screenshots) to enable agents to handle complex file formats an
 
 ## Use Cases
 

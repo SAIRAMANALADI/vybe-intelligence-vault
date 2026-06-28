@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-06-28T03:48:24.024359+05:30'
+collected_at: '2026-06-28T10:22:47.485414+05:30'
 published_at: '2026-06-25T20:10:23Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-06-28T03:48:24.024359+05:30'
-last_seen: '2026-06-28T03:48:24.024359+05:30'
-last_checked: '2026-06-28T03:48:24.024359+05:30'
+first_seen: '2026-06-28T10:22:47.485414+05:30'
+last_seen: '2026-06-28T10:22:47.485414+05:30'
+last_checked: '2026-06-28T10:22:47.485414+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG frameworks.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, structured knowledge integration) and adjacent domains (e.g., large language models, retrieval-augmented generation).
-- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,494 stars**, **216 forks**, and last updated **June 25, 2026**.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**, emphasizing knowledge graphs and large language models (LLMs).
+- **Technical Scope**: Covers **RAG (Retrieval-Augmented Generation)**, **GraphRAG-specific methodologies**, and integration with **LLMs** and **knowledge graphs** for enhanced retrieval and generation.
+- **Community & Updates**: Actively maintained (last updated **2026-06-25**) with **2,494 stars** and **216 forks**, reflecting strong community engagement in advancing GraphRAG research and implementations.
 
 ## Why It Matters
 

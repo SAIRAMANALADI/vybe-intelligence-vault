@@ -2,7 +2,7 @@
 title: LangChain overview - Docs by LangChain
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://python.langchain.com/
+source_url: https://python.langchain.com/docs/how_to/installation/
 resource_id: blog:langchain-overview-docs-by-langchain
 local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Composition**: LangChain's `create_agent` provides a minimal, configurable harness combining a model (e.g., OpenAI, Anthropic, Google) with tools, prompts, and middleware, enabling custom agent construction for specific use cases.
+- **Modular Agent Harness**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent composition for specific use cases with support for multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Framework Integration**: Agents are built on LangGraph for durable execution, persistence, and human-in-the-loop support, while LangSmith offers observability via tracing, debugging, and evaluation of agent workflows.
-
-- **Modularity & Portability**: Sup
+- **Multi-Framework Architecture**: LangChain agents are built on LangGraph, inheriting durable execution, persistence, and human-in-the-loop capabilities, while Deep Agents offer a "batteries-included" alternative with advanced featu
 
 ## Use Cases
 
@@ -52,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/
+Original source URL: https://python.langchain.com/docs/how_to/installation/
 
 ## Local Vault File
 

@@ -15,7 +15,6 @@ tags:
 - github-repo
 - go
 - hackernews
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a structured workshop to build a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven development workflows.
-- **Technical Scope**: Focuses on **agent-based automation**, integrating AI tools for code generation, debugging, and project management.
-- **Repository Stats**: 5,696 stars, 641 forks, last updated **2026-06-27**; emphasizes hands-on tutorials for AI-assisted coding agents.
+- **Purpose**: Workshop for constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering AI-driven development workflows.
+- **Technical Scope**: Focuses on **agent architecture**, **AI integration**, and **tooling** for autonomous/local code generation and editing.
+- **Status**: Actively maintained (last updated **2026-06-28**), with **5,697 stars** and **641 forks**, indicating strong community engagement.
 
 ## Use Cases
 

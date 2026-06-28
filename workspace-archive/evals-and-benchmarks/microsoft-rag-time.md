@@ -8,7 +8,7 @@ local_vault_path: ai/rag/microsoft-rag-time.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -17,10 +17,10 @@ tags:
 - models
 - openai
 - rag
-- reddit
+- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # microsoft/rag-time
@@ -29,16 +29,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **RAG Implementation Framework**: Provides a structured 5-week learning path for mastering Retrieval-Augmented Generation (RAG) using Jupyter Notebooks, covering hybrid search (vector + keyword), indexing techniques (HNSW, scalar/binarization quantization), and integration with Azure OpenAI services.
+- **Comprehensive RAG Mastery**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
 
-- **Advanced RAG Techniques**: Demonstrates multimodal RAG, Matryoshka Representation Learning for dynamic embedding dimensionality, and responsible AI practices for LLM deployment in production
+- **Multimodal & Responsible AI Focus**: Integrates Azure-hosted OpenAI/GPT models with Matryoshka representation learning, emphasizing responsible AI practices and multimodal (text/visual) RAG pipelines in Jupyter Notebooks.
+
+- **Optimi
 
 ## Use Cases
 

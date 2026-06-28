@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.stainless.com/products/docs
-published_at: '2026-06-27T16:40:26.925080+05:30'
-collected_at: '2026-06-27T16:40:26.925092+05:30'
+published_at: '2026-06-28T10:27:48.787634+05:30'
+collected_at: '2026-06-28T10:27:48.787648+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stainless-stainless-docs-platform
-first_seen: '2026-06-27T16:40:26.925092+05:30'
-last_seen: '2026-06-27T16:40:26.925092+05:30'
-last_checked: '2026-06-27T16:40:26.925092+05:30'
+first_seen: '2026-06-28T10:27:48.787648+05:30'
+last_seen: '2026-06-28T10:27:48.787648+05:30'
+last_checked: '2026-06-28T10:27:48.787648+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, ensuring real-time accuracy and eliminating manual updates.
+- **Dynamic, AI-Optimized Documentation**: REST API, SDK, and narrative docs auto-sync with the actual API, enabling AI agents to parse and developers to interact seamlessly via Markdown-based content.
 
-- **AI-Optimized & Developer-Friendly**: Supports AI agents with structured, digestible content while providing a high-quality developer experience with features like AI-powered hybrid search and Markdown integration.
+- **Extensible Astro Framework**: Built on Astro for high-performance, content-driven sites with minimal client-side JS, SEO/search optimization, and support for TypeScript-first customization via server-side actions, middleware, and integration hooks.
 
-- **Extensible & Customizable**: Built on Astro, enabling full customization via TypeScript-first integrations, CSS variables, and support for frameworks like React, Svelte, and Vue, with deployment flexibility across any infrastructure.
+- **Multi-Framework Theming & Deployment**: Supports CSS variables, Tailwind/SASS/LESS, and framework-agnostic components (React, Svelte, Vue, etc.), with deployment flexibility across Stainless-hosted or self-managed infrastructure.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:40:26.925080+05:30
+- Published: 2026-06-28T10:27:48.787634+05:30
 
 ## Related Tags
 

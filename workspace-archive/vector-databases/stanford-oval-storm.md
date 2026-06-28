@@ -8,10 +8,10 @@ local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # stanford-oval/storm
@@ -20,15 +20,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LLM-powered knowledge curation system** (`storm`) autonomously researches topics and synthesizes **full-length reports with inline citations** using iterative retrieval and generation.
-- **Multi-agent architecture** integrates **retrieval-augmented generation (RAG)** with **agentic workflows** for deep, structured research (EMNLP 2024/NAACL contributions).
-- **Python-based framework** supports **scalable knowledge curation**, enabling **topic-specific report generation** with verifiable cita
+- **LLM-powered research agent**: STORM autonomously researches topics by decomposing queries, retrieving evidence via iterative retrieval-augmented generation (RAG), and synthesizing citations from retrieved sources.
+- **Full-length report generation**: Produces structured, multi-section reports with inline citations, leveraging agentic workflows to ensure factual grounding and coherence.
+- **EMNLP 2024/NAACL contributions**: Implements deep-research techniques with Python, optimizing knowledge
 
 ## Use Cases
 

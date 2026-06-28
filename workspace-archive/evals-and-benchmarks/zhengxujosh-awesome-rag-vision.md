@@ -11,9 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A specialized repository compiling advanced retrieval augmented generation (RAG) techniques tailored for computer vision applications, including multimodal and vision-language integration methods.
-
-- **GitHub Metadata**: Hosted on GitHub with 336 stars, 9 forks, and last updated on 2026-06-25; language unspecified, indicating a focus on aggregated resources rather than executable code.
-
-- **Research Focus**: Encompasses cutting-edge RAG frameworks, datasets, a
+- **Curated RAG-Vision Resources**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods, papers, tools, and frameworks.
+- **Metadata**: 336 stars, 9 forks, last updated **June 25, 2026**; language unspecified (likely multi-language due to academic/research focus).
+- **Scope**: Focuses on **vision-specific RAG applications**, bridging generative AI with CV tasks (e.g.
 
 ## Use Cases
 

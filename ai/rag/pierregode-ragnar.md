@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PierreGode/Ragnar
-collected_at: '2026-06-28T03:48:44.036867+05:30'
+collected_at: '2026-06-28T10:23:07.481080+05:30'
 published_at: '2026-06-27T10:43:32Z'
 tags:
 - github-repo
+- hackernews
 - paper
 - python
 - rag
@@ -17,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2025-11-01T03:12:25Z'
-pushed_at: '2026-06-27T11:45:58Z'
+pushed_at: '2026-06-28T01:34:45Z'
 resource_id: github:pierregode/ragnar
-first_seen: '2026-06-28T03:48:44.036867+05:30'
-last_seen: '2026-06-28T03:48:44.036867+05:30'
-last_checked: '2026-06-28T03:48:44.036867+05:30'
+first_seen: '2026-06-28T10:23:07.481080+05:30'
+last_seen: '2026-06-28T10:23:07.481080+05:30'
+last_checked: '2026-06-28T10:23:07.481080+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Network Scanning & Offensive Security Tool**: Python-based utility (`Ragnar`) designed for Raspberry Pi with a 2.13-inch e-Paper HAT, enabling discovery of network targets, open ports, exposed services, and vulnerabilities.
-- **Hardware Integration**: Leverages the e-Paper HAT for real-time, low-power display of scan results, enhancing portability and stealth in offensive security operations.
-- **Active Development**: Last updated in 2026, indicating ongoing maintenance and potential feature expansions for network reconnaissance and exploitation tasks.
+- **Purpose & Capabilities**: Ragnar is an offensive security tool designed for Raspberry Pi, integrating a 2.13-inch e-Paper HAT for network scanning, target discovery, open port enumeration, exposed service identification, and vulnerability detection.
+
+- **Technical Stack**: Implemented in Python, leveraging modular components for network reconnaissance and security assessment.
+
+- **Hardware Integration**: Utilizes a 2.13-inch e-Paper HAT for real-time data display of scan results, enhancing portability and usability in field operations.
 
 ## Why It Matters
 
@@ -48,7 +51,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2025-11-01T03:12:25Z
-- Pushed At: 2026-06-27T11:45:58Z
+- Pushed At: 2026-06-28T01:34:45Z
 
 ## Possible Use Cases
 

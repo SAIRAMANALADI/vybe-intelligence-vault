@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-28T03:47:58.954860+05:30'
+collected_at: '2026-06-28T10:22:22.405703+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-28T03:47:58.954860+05:30'
-last_seen: '2026-06-28T03:47:58.954860+05:30'
-last_checked: '2026-06-28T03:47:58.954860+05:30'
+first_seen: '2026-06-28T10:22:22.405703+05:30'
+last_seen: '2026-06-28T10:22:22.405703+05:30'
+last_checked: '2026-06-28T10:22:22.405703+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) designed for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing and analyzing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, facilitating real-time visualization of RAG components (e.g., retrieval mechanisms, prompt engineering, and model outputs) without requiring advanced technical setup.
+- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly web interface, facilitating real-time visualization of RAG components (e.g., retrieval mechanisms, context relevance, and model outputs) with dynamic, interactive dashboards.
 
-- **Modular Python Framework**: Built in Python with extensible components for custom RAG pipeline analysis, supporting integration with popular LLM frameworks and retrieval libraries (e.g., LangChain, FAISS, or Weaviate).
+- **Python-Based & Modular Design**: Built in Python with modular components for extensibility, supporting custom RAG pipelines, dataset integration, and performance metrics tracking for LLM-driven applications.
 
 ## Why It Matters
 

@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **BGP Vulnerability**: BGP lacks built-in security, enabling route hijacking and major internet disruptions (e.g., Verizon/Sprint incidents) due to its reliance on trust-based path selection.
+- **BGP Security Vulnerability**: BGP lacks built-in security, enabling route hijacking and major Internet disruptions (e.g., Verizon/Sprint incidents) due to its reliance on trust-based path selection.
 
-- **RPKI Adoption**: Resource Public Key Infrastructure (RPKI) provides cryptographic validation for BGP routes; major ISPs (e.g., Verizon, Deutsche Telekom, Lumen) and cloud providers (e.g., AWS, Google) have deployed RPKI Origin Validation (ROV) to filter invalid prefixes.
-
-- **Progress & Gaps**: Over
+- **RPKI Adoption Progress**: RPKI (Resource Public Key Infrastructure) provides cryptographic route origin validation; adoption is accelerating among Tier-1 ISPs (e.g., Lumen/AS3356, Verizon/AS701) and cloud providers (e.g., AWS/AS16509, Google), with 31+ major operators now filtering RPKI-inva
 
 ## Use Cases
 

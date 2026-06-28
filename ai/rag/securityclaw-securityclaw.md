@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-28T03:48:44.030221+05:30'
+collected_at: '2026-06-28T10:23:07.535260+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 251
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-28T03:48:44.030221+05:30'
-last_seen: '2026-06-28T03:48:44.030221+05:30'
-last_checked: '2026-06-28T03:48:44.030221+05:30'
+first_seen: '2026-06-28T10:23:07.535260+05:30'
+last_seen: '2026-06-28T10:23:07.535260+05:30'
+last_checked: '2026-06-28T10:23:07.535260+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch monitoring, RAG-based behavioral memory construction, and real-time anomaly validation via LLMs for threat detection and hunting.
-- **Skill-Based Architecture**: Implements modular, skill-based components for autonomous SOC operations, enabling dynamic adaptation to evolving cybersecurity threats.
-- **LLM-Driven Validation**: Uses large language models (LLMs) to validate anomalies in real-time, enhancing accuracy and reducing false positives in threat detection workflows.
+- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for monitoring OpenSearch/Elasticsearch logs, integrating RAG for behavioral memory, and validating real-time anomalies using LLMs.
+
+- **RAG & LLM Integration**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from security data, enabling LLM-driven anomaly validation for threat detection and hunting.
+
+- **Autonomous Threat Detection**: Automates SOC operations via modular skills, combining OpenSearch/Elasticsearch monitoring with LLM-powered anomaly validation for real-time cybersecurity threat mitigation.
 
 ## Why It Matters
 

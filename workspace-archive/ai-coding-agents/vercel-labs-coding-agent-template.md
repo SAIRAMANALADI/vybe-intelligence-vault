@@ -6,7 +6,7 @@ source_url: https://github.com/vercel-labs/coding-agent-template
 resource_id: github:vercel-labs/coding-agent-template
 local_vault_path: ai/rag/vercel-labs-coding-agent-template.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - github-repo
 - rag
 - typescript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution and AI Gateway for unified AI service integration.
-- **Tech Stack**: Built in TypeScript, utilizing Vercel’s infrastructure for scalable, serverless agent-based workflows.
-- **Use Case**: Enables distributed AI-driven coding tasks with sandboxed environments and managed AI model access.
+- **Multi-agent Architecture**: Leverages Vercel Sandbox and AI Gateway to orchestrate distributed AI coding agents for parallelized task execution.
+- **TypeScript-Based**: Implements a TypeScript framework for agent communication, sandboxed execution, and AI model integration.
+- **Vercel Integration**: Utilizes Vercel’s serverless infrastructure for scalable, low-latency agent deployment and AI inference routing.
 
 ## Use Cases
 

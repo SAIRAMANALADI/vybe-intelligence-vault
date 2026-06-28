@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-28T03:49:09.072411+05:30'
+collected_at: '2026-06-28T10:23:32.534938+05:30'
 published_at: '2026-06-26T01:13:42Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-28T03:49:09.072411+05:30'
-last_seen: '2026-06-28T03:49:09.072411+05:30'
-last_checked: '2026-06-28T03:49:09.072411+05:30'
+first_seen: '2026-06-28T10:23:32.534938+05:30'
+last_seen: '2026-06-28T10:23:32.534938+05:30'
+last_checked: '2026-06-28T10:23:32.534938+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning over structured graph data.
+- **Multi-Agent Architecture**: Implements a memory-based multi-agent system for graph retrieval-augmented generation (GraphRAG), leveraging distributed agent interactions for enhanced knowledge retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Implements automated graph construction from input data and incorporates ontology-based semantic alignment to enhance retrieval precision and contextual relevance in multi-agent interactions.
+- **Graph & Ontology Construction**: Dynamically constructs and integrates graph structures and ontologies to enable structured knowledge representation and efficient retrieval within the RAG pipeline.
 
-- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, with modular design for customizable agent-memory interactions and graph-based knowledge retrieval.
+- **Memory Integration**: Utilizes agent-memory mechanisms to maintain and update contextual knowledge, improving long-term coherence and relevance in generated outputs.
 
 ## Why It Matters
 

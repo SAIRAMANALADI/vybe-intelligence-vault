@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-06-28T03:50:31.383887+05:30'
-collected_at: '2026-06-28T03:50:31.383902+05:30'
+published_at: '2026-06-28T10:24:58.065762+05:30'
+collected_at: '2026-06-28T10:24:58.065775+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-28T03:50:31.383902+05:30'
-last_seen: '2026-06-28T03:50:31.383902+05:30'
-last_checked: '2026-06-28T03:50:31.383902+05:30'
+first_seen: '2026-06-28T10:24:58.065775+05:30'
+last_seen: '2026-06-28T10:24:58.065775+05:30'
+last_checked: '2026-06-28T10:24:58.065775+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), recursive auto-correction loops, and structured schema extraction for high-fidelity document understanding.
+- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Model (VLM)-powered agents for agentic OCR, enabling layout-aware parsing and structured schema-based extraction of complex documents (e.g., tables, charts, handwritten text) with 10,000 free credits/month (~1000 pages).
 
-- **Performance & Benchmarks**: Achieves industry-leading parsing accuracy across complex documents (tables, charts, handwritten text) with 99.9% uptime, enterprise-grade security (HIPAA/GDPR/SOC2 compliant), and outperforms proprietary VLM, commercial IDP, and open-source OCR baselines in structured extraction benchmarks.
+- **Multi-Stage Validation & Expert Routing**: Implements recursive auto-correction loops for error detection/fixing and task-specific agents (e.g., text, charts, tables) that route content to specialized experts, ensuring high pass-through rates even for messy scans or multi-modal inputs.
 
-- **Deployment & Scalability**: Offers a free tier (10K credits/month) and enterprise-grade features including flexible cloud/VPC deployment, granular access controls, dedicated SLAs, and supports 50+ unstructured file types with local-first open-source alternative (LiteParse) for privacy-sensitive workflows.
+- **Enterprise-Grade Performance & Security**: Benchmarked against proprietary/IDP/commercial OCR tools, LlamaParse delivers superior parsing accuracy (tables/charts) with 99.9% uptime, HIPAA/GDPR/SOC2 compliance, granular access controls, and flexible deployment (cloud or VPC).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:50:31.383887+05:30
+- Published: 2026-06-28T10:24:58.065762+05:30
 
 ## Related Tags
 

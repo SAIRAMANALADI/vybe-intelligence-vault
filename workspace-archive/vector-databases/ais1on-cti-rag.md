@@ -6,7 +6,7 @@ source_url: https://github.com/Ais1on/CTI-RAG
 resource_id: github:ais1on/cti-rag
 local_vault_path: ai/rag/ais1on-cti-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,7 +16,6 @@ tags:
 - python
 - rag
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,19 +24,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Framework Architecture**: CTI-RAG combines Retrieval-Augmented Generation (RAG) with a knowledge graph and causal reasoning to enhance Cyber Threat Intelligence (CTI) analysis, enabling structured threat data integration and inference.
-
-- **Core Components**: Implements a Python-based pipeline for threat intelligence retrieval, graph-based knowledge representation, and causal reasoning to assist security analysts in identifying and correlating threat patterns.
-
-- **Technical Stack**: Utilize
+- **Framework Architecture**: CTI-RAG integrates a Retrieval-Augmented Generation (RAG) model with a knowledge graph and causal reasoning to enhance Cyber Threat Intelligence (CTI) analysis.
+- **Technical Stack**: Implemented in Python, leveraging RAG for dynamic knowledge retrieval and graph-based reasoning for threat pattern analysis.
+- **Repository Status**: Last updated June 23, 2026, with 305 stars and 25 forks, indicating active community engagement.
 
 ## Use Cases
 

@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-28T03:48:18.984740+05:30'
+collected_at: '2026-06-28T10:22:42.411107+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 stars: 92
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-28T03:48:18.984740+05:30'
-last_seen: '2026-06-28T03:48:18.984740+05:30'
-last_checked: '2026-06-28T03:48:18.984740+05:30'
+first_seen: '2026-06-28T10:22:42.411107+05:30'
+last_seen: '2026-06-28T10:22:42.411107+05:30'
+last_checked: '2026-06-28T10:22:42.411107+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) techniques with large language models (LLMs), last updated on **2026-06-22**.
+- **Repository Focus**: Curates best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), emphasizing optimized pipelines for retrieval and generation efficiency.
 
-- **Technical Scope**: Provides curated guidelines and implementations for optimizing RAG pipelines, including retrieval strategies, prompt engineering, and integration with LLMs for enhanced generation quality.
+- **Technical Stack**: Implemented in Python, leveraging modern NLP frameworks (e.g., Hugging Face, LangChain) for modular RAG workflows, including embedding models, vector databases, and LLM integration.
 
-- **Repository Metrics**: 92 stars, 10 forks, and no additional topics tagged; serves as a technical reference for practitioners in LLM-driven RAG systems.
+- **Key Updates**: Last modified on **2026-06-22**, reflecting recent advancements in prompt engineering, context augmentation, and evaluation metrics for RAG systems.
 
 ## Why It Matters
 
