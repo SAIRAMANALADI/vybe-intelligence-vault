@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com/
-published_at: '2026-06-28T19:51:28.243025+05:30'
-collected_at: '2026-06-28T19:51:28.243044+05:30'
+source_url: https://githubstatus.com/
+published_at: '2026-06-28T22:14:09.979513+05:30'
+collected_at: '2026-06-28T22:14:09.979527+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-06-28T19:51:28.243044+05:30'
-last_seen: '2026-06-28T19:51:28.243044+05:30'
-last_checked: '2026-06-28T19:51:28.243044+05:30'
+first_seen: '2026-06-28T22:14:09.979527+05:30'
+last_seen: '2026-06-28T22:14:09.979527+05:30'
+last_checked: '2026-06-28T22:14:09.979527+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days).
+- **GitHub Status Monitoring**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and regional status pages (AU/EU/JP/US).
 
-- **Incident Notifications**: Supports multi-channel incident updates via email, SMS (global numbering), Slack, and webhooks, with granular controls for subscription and OTP verification.
+- **Notification Subscriptions**: Supports multi-channel incident alerts via email, SMS (global phone codes), Slack, and webhooks for automated incident updates (create/update/resolve) and component status changes.
 
-- **Past Incidents**: Documented disruptions include Copilot Next Edit Suggestions (27% failure rate, June 23, 2026) and Webhooks payload defects (11.3% impact, June 17, 2026), with root causes tied to configuration changes and routing layer failures.
+- **Historical Incident Analysis**: Detailed post-incident reports (e.g., June 25, 2026, Webhooks/PR/Actions degradation) include root cause summaries, mitigation timelines, and corrective actions (e.g., configuration rollbacks, validation improvements).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:51:28.243025+05:30
+- Published: 2026-06-28T22:14:09.979513+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com/
+Original source: https://githubstatus.com/

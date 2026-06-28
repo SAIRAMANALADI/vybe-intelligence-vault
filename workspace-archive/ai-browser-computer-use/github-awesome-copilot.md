@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resources**: Repository aggregating community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI integration.
+- **Curated GitHub Copilot Enhancements**: Repository aggregates community-driven instructions, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
 
-- **Technical Scope**: Focuses on Python-based implementations, including agent-skills, hacktoberfest contributions, and advanced Copilot customization for AI-driven workflows.
+- **Multi-Topic Technical Resource**: Focuses on `agent-skills`, `custom-agents`, and `prompt-engineering` with contributions under `hacktoberfest`, supporting Python-based implementations and AI integration.
 
-- **Active Maintenance**: Last updated June 2026, ensuring relevance with ongoing updates to tools, configurations,
+- **Active Maintenance & Growth**: Last updated in mid-
 
 ## Use Cases
 

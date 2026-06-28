@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-28T19:48:59.627874+05:30'
+collected_at: '2026-06-28T22:09:19.480464+05:30'
 published_at: '2026-06-22T17:29:39Z'
 tags:
 - benchmark
 - github-repo
-- models
 - python
 - rag
+- workflows
 stars: 1782
 language: Python
 status: active
@@ -20,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-28T19:48:59.627874+05:30'
-last_seen: '2026-06-28T19:48:59.627874+05:30'
-last_checked: '2026-06-28T19:48:59.627874+05:30'
+first_seen: '2026-06-28T22:09:19.480464+05:30'
+last_seen: '2026-06-28T22:09:19.480464+05:30'
+last_checked: '2026-06-28T22:09:19.480464+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Retrieval Augmented Generation (RAG) framework designed for low-latency, high-throughput applications, integrating retrieval, generation, and evaluation modules optimized for Intel hardware (e.g., CPUs/GPUs via oneDNN, OpenVINO).
+- **Framework Overview**: FastRAG is an efficient, open-source Python framework designed for Retrieval-Augmented Generation (RAG) workflows, optimizing multi-stage pipelines (retrieval, fusion, generation) for large language models (LLMs) and multi-modal tasks.
 
-- **Modular Architecture**: Supports multi-modal retrieval (text, knowledge graphs, embeddings via Sentence Transformers/ColBERT), diffusion-based generative models, and dynamic prompt optimization with plug-and-play components for semantic search, QA, and summarization.
+- **Key Features**: Integrates state-of-the-art components like ColBERTv2 for dense retrieval, Sentence Transformers for embeddings, and supports diffusion models, knowledge graphs, and semantic search with modular, hardware-aware optimizations (e.g., Intel optimizations).
 
-- **Benchmarking & Optimization**: Includes built-in benchmarks for RAG pipelines (e.g., latency, throughput, accuracy) and leverages Intel’s optimizations (e.g., AVX-512, FP16/INT8 quantization) for transformer-based models, with compatibility for PyTorch/TensorFlow backends.
+- **Benchmarking & Extensibility**: Provides built-in benchmarks for RAG tasks (QA, summarization) and modular APIs to plug in custom retrievers, generators, or fusion strategies, enabling reproducible evaluation across domains (NLP, vision-language).
 
 ## Why It Matters
 

@@ -13,12 +13,10 @@ importance: medium
 tags:
 - agents
 - anthropic
-- benchmark
 - github-repo
 - meta-ai
 - models
 - rag
-- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -38,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems via GitHub Actions with CI/CD compatibility.
-- **LLM Performance Comparison**: Supports benchmarking across models (GPT, Claude, Gemini, Llama) with declarative YAML configurations.
-- **Security & Red Teaming**: Provides AI vulnerability scanning, pentesting, and red teaming capabilities for LLM-based systems.
+- **GitHub Action Integration**: Enables automated testing of prompts, agents, and RAG systems within CI/CD pipelines using a declarative configuration approach.
+- **Multi-Model Support**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama) and includes AI red teaming for security vulnerability scanning.
+- **Security & Pentesting**: Provides LLM-focused security testing capabilities, including automated vulnerability assessment and adversarial prompt testing.
 
 ## Use Cases
 

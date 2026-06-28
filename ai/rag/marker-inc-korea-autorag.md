@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-28T19:48:14.580803+05:30'
+collected_at: '2026-06-28T22:08:34.414062+05:30'
 published_at: '2026-06-27T01:39:07Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
+- workflows
 stars: 4841
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-28T19:48:14.580803+05:30'
-last_seen: '2026-06-28T19:48:14.580803+05:30'
-last_checked: '2026-06-28T19:48:14.580803+05:30'
+first_seen: '2026-06-28T22:08:34.414062+05:30'
+last_seen: '2026-06-28T22:08:34.414062+05:30'
+last_checked: '2026-06-28T22:08:34.414062+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipeline optimization via hyperparameter tuning, prompt engineering, and retrieval component selection using black-box optimization techniques.
+- **AutoML-Style Automation**: AutoRAG provides an automated pipeline for optimizing and evaluating Retrieval-Augmented Generation (RAG) systems, reducing manual tuning via hyperparameter optimization and automated benchmarking.
 
-- **Comprehensive RAG Evaluation Suite**: Provides built-in benchmarks for assessing retrieval quality, generation performance, and end-to-end RAG effectiveness across diverse datasets and metrics.
+- **Comprehensive RAG Toolkit**: Supports document parsing, embeddings generation, retrieval evaluation, and LLM-based QA optimization with built-in metrics for performance analysis across pipelines.
 
-- **Modular Python Framework**: Supports document parsing, embeddings generation, retrieval strategies, and LLM integration with a pipeline-based architecture for flexible customization and deployment.
+- **Open-Source Python Framework**: Implements modular components for end-to-end RAG workflows, including pre-built pipelines, evaluation tools, and integration with LLMs for dynamic optimization.
 
 ## Why It Matters
 

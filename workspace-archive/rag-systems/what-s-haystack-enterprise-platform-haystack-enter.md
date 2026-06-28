@@ -6,9 +6,9 @@ source_url: https://docs.cloud.deepset.ai/docs/getting-started
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
@@ -26,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Enables end-to-end development, prototyping, deployment, and monitoring of AI-powered applications with support for multi-step RAG pipelines and autonomous agents.
+- **Data Processing Pipeline**: Supports multi-format document ingestion (PDFs, Office, images) with built-in OCR and converters, enabling automated chunking and indexing into a document store for retrieval-optimized storage.
 
-- **Model-Agnostic & Observability-Ready**: Supports seamless switching between LLM/embedding providers (e.g., Langfuse, Weights & Biases) with built-in tracing, debugging, and performance monitoring via REST API and dashboards.
+- **Modular AI Agent & RAG Framework**: Enables construction of multi-component pipelines (retrievers, rankers, generators) via visual builder, supporting both AI agents with tool-use capabilities and advanced RAG systems with document-grounded responses.
 
-- **Enterprise Data Integration**: Automates ingestion
+- **Model Agnost
 
 ## Use Cases
 

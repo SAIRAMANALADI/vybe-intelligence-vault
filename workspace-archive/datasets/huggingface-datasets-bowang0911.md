@@ -8,17 +8,17 @@ local_vault_path: ai/resources/huggingface-datasets-bowang0911.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
 - dataset
-- hackernews
+- models
 - reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # bowang0911/ToolSearch · Datasets at Hugging Face
@@ -27,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Dataset Composition**: Contains 580 English programming tools with descriptions and corresponding natural language prompts, structured as a retrieval benchmark with `test`, `corpus`, and `queries` splits for relevance judgments, tool documents, and user prompts respectively.
+- **Dataset Specification**: ToolSearch is a 580-entry English text retrieval benchmark for tool retrieval, structured in MTEB format with `test` (relevance judgments), `corpus` (tool documents), and `queries` (user prompts) splits, stored in Parquet format under MIT license.
 
-- **Technical Format**: Distributed in Parquet format via Hugging Face `datasets` library, with a standardized MTEB retrieval schema (`query-id`, `corpus-id`, `score`) and metadata fields (`title`, `text`).
+- **Retrieval Task**: Evaluates embedding models on matching 580 natural language user prompts to relevant programming tools (e.g., GitHub APIs) with relevance scores, supporting metrics like Recall@K.
 
-- **Benchma
+- **Benchmark Perfo
 
 ## Use Cases
 

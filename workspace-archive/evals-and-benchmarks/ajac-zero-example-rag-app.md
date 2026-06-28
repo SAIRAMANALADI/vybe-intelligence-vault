@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - typescript
 selection_reason:
@@ -32,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Integration**: Implements LLM observability via Langfuse for monitoring and debugging, with support for 100+ LLM providers through LiteLLM integration.
+- **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with LLM observability via Langfuse, supporting 100+ LLM providers through LiteLLM integration.
 
-- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for consistency and scalability.
+- **Technical Stack**: Dockerized, TypeScript-based with full type-checking, 100% test coverage, and modular architecture for extensibility.
 
-- **Modern AI Stack**: Built as an open-source RAG (Retrieval-Augmented Generation) application, leveraging cutting-edge AI/ML tools and best practices.
+- **Metadata**: 159 stars, 24 forks, last updated March 17, 2026, categorized under AI, LLM, and RAG topics.
 
 ## Use Cases
 

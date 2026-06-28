@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosts a meticulously organized list of **300+ AI agents, frameworks, and tools** spanning **20+ categories**, updated monthly to reflect 2026 advancements in AI agent ecosystems.
-- **Technical Breadth**: Encompasses cutting-edge tools and frameworks such as **LangChain, LLMs, and ChatGPT integrations**, with a focus on **machine learning, agent orchestration, and autonomous systems**.
-- **High-Activity Open Source Project**: Maintained with **1,317 stars and
+- **Curated Collection**: Repository `caramaschiHG/awesome-ai-agents-2026` aggregates **300+ AI agents, frameworks, and tools** across **20+ categories**, updated monthly for 2026 relevance.
+- **Technical Scope**: Focuses on **AI agents, LLM integrations (e.g., LangChain, ChatGPT), and machine learning tools**, with topics including `ai-agents`, `llm`, and `artificial-intelligence`.
+- **Metadata**: Last updated **2026-06-28**, with **1,318 stars** and **435 forks**, though primary language is un
 
 ## Use Cases
 

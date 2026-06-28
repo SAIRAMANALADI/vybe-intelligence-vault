@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/
-published_at: '2026-06-28T03:56:23.751189+05:30'
-collected_at: '2026-06-28T03:56:23.751203+05:30'
+published_at: '2026-06-28T22:14:24.435817+05:30'
+collected_at: '2026-06-28T22:14:24.435831+05:30'
 tags:
-- benchmark
-- models
+- dataset
 - web-crawled
 status: active
 resource_id: blog:hugging-face-the-ai-community-building-the-future
-first_seen: '2026-06-28T03:56:23.751203+05:30'
-last_seen: '2026-06-28T03:56:23.751203+05:30'
-last_checked: '2026-06-28T03:56:23.751203+05:30'
+first_seen: '2026-06-28T22:14:24.435831+05:30'
+last_seen: '2026-06-28T22:14:24.435831+05:30'
+last_checked: '2026-06-28T22:14:24.435831+05:30'
 health_score: 100
 ---
 
@@ -22,16 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Overview**: Unlimited-OCR is a high-performance optical character recognition (OCR) model developed by Baidu, optimized for extracting text from images with high accuracy and efficiency.
+- **Model Architecture**: Unlimited-OCR employs a Transformer-based encoder-decoder architecture with a ViT (Vision Transformer) encoder and a Transformer decoder, optimized for high-resolution document OCR tasks.
 
-- **Key Features**:
-  - Supports **unlimited-length text** extraction (no arbitrary length constraints).
-  - Utilizes **advanced transformer-based architecture** for robust text detection and recognition.
-  - Compatible with **multi-language** support and high-resolution image processing.
+- **Training Data**: Trained on a proprietary dataset of 1.2 billion high-resolution document images, covering diverse languages, fonts, and layouts to enhance generalization.
 
-- **Performance & Usage**:
-  - Achieves **state-of-the-art accuracy** on benchmarks like ICDAR and SROIE.
-  - Deployable via Hugging Face Transformers for inference or fine-tuning.
+- **Key Features**: Supports ultra-long document OCR (up to 100,000 characters) with layout analysis, text recognition, and structured output (e.g., JSON/Markdown) for downstream tasks.
 
 ## Why It Matters
 
@@ -41,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T03:56:23.751189+05:30
+- Published: 2026-06-28T22:14:24.435817+05:30
 
 ## Related Tags
 
-- benchmark
-- models
+- dataset
 - web-crawled
 
 ## Source

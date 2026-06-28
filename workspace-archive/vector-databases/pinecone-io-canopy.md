@@ -28,9 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Framework**: Python-based Retrieval Augmented Generation (RAG) framework integrating Pinecone's vector database for enhanced LLM context retrieval and generation.
-- **Context Engine**: Provides a structured context engine to optimize prompt augmentation and improve LLM response accuracy using vector similarity search.
-- **Pinecone Integration**: Leverages Pinecone's managed vector database for scalable, low-latency semantic search and retrieval in generative AI workflows.
+- **RAG Framework**: Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLMs with dynamic context retrieval from Pinecone's vector database, enabling real-time, context-aware responses.
+
+- **Context Engine**: Implements a modular context engine for efficient document indexing, retrieval, and prompt augmentation, optimizing LLM performance via structured context management.
+
+- **Pinecone Integration**: Tightly coupled with Pinecone's vector DB for scalable similarity s
 
 ## Use Cases
 

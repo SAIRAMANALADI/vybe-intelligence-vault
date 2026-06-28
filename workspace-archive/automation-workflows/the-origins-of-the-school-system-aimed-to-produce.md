@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by pseudolus. Score: 24, Comments: 10.
+Hacker News story by pseudolus. Score: 68, Comments: 26.
 Original Link: https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093
 
 ## Use Cases

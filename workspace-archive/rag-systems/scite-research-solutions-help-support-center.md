@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Scite's citation analysis** distinguishes itself by classifying citations into **supporting, mentioning, or contrasting** based on contextual NLP analysis of citation statements, unlike traditional citation indexes that only count raw citation numbers.
+- **Scite's citation classification system** distinguishes between **citations** (raw references) and **citation statements** (contextual mentions in text), using machine learning to categorize them as supporting, contrasting, or mentioning, unlike traditional citation indexes.
 
-- **Scite's coverage** spans millions of research articles across disciplines, with **real-time updates** and **cross-referencing** from PubMed, arXiv, and Crossref, enabling comprehensive citation tracking and classification.
-
-- **Scite's to
+- **Scite's coverage** spans millions of documents across disciplines, with a transparent methodology for tracking citations, including handling retracted papers and misclassified entries via user correction mechanisms.
 
 ## Use Cases
 

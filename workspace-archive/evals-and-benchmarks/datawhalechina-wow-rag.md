@@ -14,7 +14,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document retrieval and generation.
-- **Implementation**: Implemented in Jupyter Notebooks, emphasizing reproducibility and ease of integration across different environments.
-- **Tutorial-Driven**: Includes structured tutorials for building and deploying RAG pipelines, covering indexing, retrieval, and generation workflows.
+- **Framework**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, designed for modularity and ease of integration.
+- **Components**: Includes retrieval mechanisms, embedding models, and LLM interfaces with preconfigured pipelines for rapid prototyping.
+- **Tutorials**: Provides step-by-step guides on building, customizing, and deploying RAG systems with practical examples and best practices.
 
 ## Use Cases
 

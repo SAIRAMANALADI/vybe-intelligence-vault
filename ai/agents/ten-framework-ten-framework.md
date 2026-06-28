@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-06-28T19:50:04.696427+05:30'
-published_at: '2026-06-28T13:28:13Z'
+collected_at: '2026-06-28T22:10:19.492975+05:30'
+published_at: '2026-06-28T15:34:28Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-06-19T14:26:15Z'
 pushed_at: '2026-06-27T06:52:40Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-06-28T19:50:04.696427+05:30'
-last_seen: '2026-06-28T19:50:04.696427+05:30'
-last_checked: '2026-06-28T19:50:04.696427+05:30'
+first_seen: '2026-06-28T22:10:19.492975+05:30'
+last_seen: '2026-06-28T22:10:19.492975+05:30'
+last_checked: '2026-06-28T22:10:19.492975+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source Python framework** for building **real-time, multi-modal conversational voice AI agents** with support for video and voice processing.
-- **Enables low-latency, high-performance agent interactions** via optimized real-time data pipelines and modular architecture.
-- **Supports multi-modal inputs/outputs** (e.g., speech-to-text, text-to-speech, video streams) with extensible plugin system for custom components.
+- **Multi-modal real-time framework**: Python-based open-source system enabling conversational voice AI agents with real-time audio/video processing and multi-modal input/output capabilities.
+
+- **Modular architecture**: Designed for extensibility, supporting dynamic agent behavior through configurable pipelines and pluggable components for voice, video, and text processing.
+
+- **Scalable deployment**: Optimized for low-latency interactions with support for distributed execution, GPU acceleration, and integration with cloud/edge environments for production-grade AI agents.
 
 ## Why It Matters
 
@@ -44,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1312
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-06-28T13:28:13Z
+- Last Updated: 2026-06-28T15:34:28Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z

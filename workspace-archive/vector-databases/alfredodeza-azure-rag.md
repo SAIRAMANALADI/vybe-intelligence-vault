@@ -6,19 +6,19 @@ source_url: https://github.com/alfredodeza/azure-rag
 resource_id: github:alfredodeza/azure-rag
 local_vault_path: ai/rag/alfredodeza-azure-rag.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
 - workflows
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Active open-source repository
 ---
 
 # alfredodeza/azure-rag
@@ -26,18 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
-- **Repository Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, leveraging Python for AI-driven document retrieval and generation workflows.
+- **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with large language models (LLMs) for enhanced contextual responses.
 
-- **Key Components**: Integrates Azure Cognitive Search for document retrieval and Azure OpenAI for generative AI tasks, enabling context-aware responses from retrieved data.
+- **Azure Services**: Utilizes Azure AI Search for vector embeddings and retrieval, Azure OpenAI for LLM inference, and Python for orchestration.
 
-- **Technical Stack**: Python-based, utilizing Azure SDKs and APIs for seamless integration with Azure's AI and search services, upda
+- **Example Workflow**: Includes ingestion of documents, embedding generation, vector storage, retrieval, and prompt augmentation for LLM-based Q&A or summariz
 
 ## Use Cases
 

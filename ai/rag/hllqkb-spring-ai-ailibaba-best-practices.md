@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-28T19:48:39.587405+05:30'
+collected_at: '2026-06-28T22:08:59.425788+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-28T19:48:39.587405+05:30'
-last_seen: '2026-06-28T19:48:39.587405+05:30'
-last_checked: '2026-06-28T19:48:39.587405+05:30'
+first_seen: '2026-06-28T22:08:59.425788+05:30'
+last_seen: '2026-06-28T22:08:59.425788+05:30'
+last_checked: '2026-06-28T22:08:59.425788+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implements SSE streaming, Agent-based workflows, and RAG with knowledge graphs** for AI Q&A systems, leveraging Spring AI and Alibaba Cloud integrations.
-- **Supports multimodal processing** including text generation, image generation/understanding, and embedding/vector database operations for RAG pipelines.
-- **Includes FunctionCall, historical message management, and vector database integration** for enhanced AI agent capabilities and retrieval-augmented generation.
+- **Implements Server-Sent Events (SSE) streaming** for real-time AI question-answering responses, enabling persistent, low-latency client-server communication.
+- **Integrates multiple AI capabilities** including RAG (Retrieval-Augmented Generation) with knowledge graphs, Function Call for tool invocation, and multimodal processing (image generation/understanding) via Embedding and Vector Database.
+- **Manages conversational context** through historical message persistence, leveraging Java-based Spring AI and Alibaba Cloud SDKs for scalable agent-based workflows.
 
 ## Why It Matters
 

@@ -13,13 +13,14 @@ collected_at: '2026-06-28T19:46:56.395184+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-learns-the-dark-art-of-rfic-design
 first_seen: '2026-06-28T01:15:19.707828+05:30'
 last_seen: '2026-06-28T19:46:56.395184+05:30'
 last_checked: '2026-06-28T19:46:56.395184+05:30'
 health_score: 100
 ---
+
 
 # AI learns the “dark art” of RFIC design
 

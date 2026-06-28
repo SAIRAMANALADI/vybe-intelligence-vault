@@ -12,9 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
 - workflows
@@ -36,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Document Interaction**: Implements Retrieval-Augmented Generation (RAG) to enable conversational querying over uploaded documents, leveraging LLMs for contextual responses.
-- **Modular Python Architecture**: Built in Python with extensible components for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., HuggingFace models).
-- **Open-Source Deployment**: Supports self-hosting with Docker, includes REST API endpoints, and integrates with popular LLMs
+- **RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline in Python, enabling document-based conversational AI with dynamic context retrieval and LLM integration.
+
+- **Modular Design**: Features a flexible, component-based structure for document ingestion, embedding, retrieval, and response generation, supporting customization of models and workflows.
+
+- **Open-Source Deployment**: Provides a fully open-source solution with pre-built integrations for popular LLMs, optimi
 
 ## Use Cases
 

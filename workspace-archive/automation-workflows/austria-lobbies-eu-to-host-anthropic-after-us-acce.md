@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by root-parent. Score: 18, Comments: 4.
+Hacker News story by root-parent. Score: 86, Comments: 78.
 Original Link: https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs
 
 ## Use Cases

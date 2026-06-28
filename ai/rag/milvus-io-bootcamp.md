@@ -1,35 +1,34 @@
 ---
-title: bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp
+title: bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp
   · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/milvus-io/bootcamp/tree/master/tutorials/quickstart/apps/rag_search_with_milvus
-published_at: '2026-06-28T10:26:23.625142+05:30'
-collected_at: '2026-06-28T10:26:23.625152+05:30'
+source_url: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
+published_at: '2026-06-28T22:12:27.025245+05:30'
+collected_at: '2026-06-28T22:12:27.025262+05:30'
 tags:
-- openai
 - rag
 - reddit
+- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: github:milvus-io/bootcamp
-first_seen: '2026-06-28T10:26:23.625152+05:30'
-last_seen: '2026-06-28T10:26:23.625152+05:30'
-last_checked: '2026-06-28T10:26:23.625152+05:30'
+first_seen: '2026-06-28T22:12:27.025262+05:30'
+last_seen: '2026-06-28T22:12:27.025262+05:30'
+last_checked: '2026-06-28T22:12:27.025262+05:30'
 health_score: 100
 ---
 
-# bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp · GitHub
+# bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp · GitHub
 
 ## Summary
 
-- **RAG Pipeline Integration**: Combines Milvus for document retrieval with OpenAI's generative model for text augmentation, enabling context-aware responses by first retrieving relevant documents (via vector similarity search) before generating output.
+- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) providing tutorials and resources for vector database applications, with 2.4k stars and 688 forks.
 
-- **Milvus Configuration**: Uses `Milvus Lite` (default local DB) or scalable Milvus/Zilliz Cloud instances; requires environment variables (`OPENAI_API_KEY`, `MILVUS_ENDPOINT`, `COLLECTION_NAME`) for API and database connectivity.
+- **Quickstart Tutorial**: Contains `quickstart.ipynb` (779 lines, 23.3 KB) in `/tutorials/quickstart`, offering a hands-on introduction to Milvus vector database operations.
 
-- **Data Processing Workflow**: Ingests Milvus documentation (Markdown files) via `insert.py`, splitting into ~4K chunks and storing embeddings in Milvus; Streamlit (`app.py`) provides a chat interface to query the RAG system, displaying retrieved context and LLM-generated responses.
+- **Metadata**: Single open issue and pull request; repository includes CI/CD via GitHub Actions and project insights for tracking activity.
 
 ## Why It Matters
 
@@ -39,16 +38,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T10:26:23.625142+05:30
+- Published: 2026-06-28T22:12:27.025245+05:30
 
 ## Related Tags
 
-- openai
 - rag
 - reddit
+- scripts
 - web-crawled
-- workflows
 
 ## Source
 
-Original source: https://github.com/milvus-io/bootcamp/tree/master/tutorials/quickstart/apps/rag_search_with_milvus
+Original source: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb

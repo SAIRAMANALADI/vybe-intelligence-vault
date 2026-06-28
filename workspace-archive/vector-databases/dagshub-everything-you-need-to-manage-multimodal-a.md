@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage from data to production.
+- **Unified AI Data & Model Management**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, CI/CD/CT integration, and interactive pipelines for AI model development.
 
-- **Scalable Infrastructure**: Offers tiered plans (Individual/Team/Enterprise) with storage ranging from 20GB (free) to petabyte-scale, RBAC controls, on-premise/VPC deployment, and integrations with cloud storage/MLOps tools.
+- **Scalable Experiment Tracking & Model Registry**: Enables tracking of unlimited experiments (public repos) with MLflow compatibility, model versioning, and deployment capabilities, scaling from 100 private experiments (Team plan) to petabyte-scale (Enterprise).
 
-- **Enterprise-Grade Features**: I
+- **
 
 ## Use Cases
 

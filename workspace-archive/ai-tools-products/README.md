@@ -9,23 +9,23 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Android Developers Blog](https://android-developers.googleblog.com/) (tutorial - USEFUL Tier)
 - [Haystack Enterprise Platform Trial | Sign Up](https://www.deepset.ai/deepset-studio) (template - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
 - [Unlocking the power of unstructured data with RAG - The GitHub Blog](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/) (tutorial - USEFUL Tier)
 - [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
+- [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [langgenius/dify](https://github.com/langgenius/dify)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [opendevin/opendevin](https://github.com/opendevin/opendevin)
 - [DS4SD/docling](https://github.com/DS4SD/docling)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [python/typeshed](https://github.com/python/typeshed)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-28 20:03 IST*
+*Last updated: 2026-06-28 22:24 IST*

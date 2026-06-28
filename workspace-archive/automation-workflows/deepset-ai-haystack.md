@@ -2,22 +2,14 @@
 title: deepset-ai/haystack
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack
+source_url: https://github.com/deepset-ai/haystack?source=post_page
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
-tags:
-- agents
-- github-repo
-- mdx
-- models
-- openai
-- rag
-- workflows
+importance: medium
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +20,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +28,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Enables building production-ready LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
 
 - **Multi-Use Case Support**: Designed for scalable agents, RAG, multimodal systems, semantic search, and conversational AI, leveraging transformers and PyTorch for advanced NLP tasks.
 
-- **Open-Source & Extensible**: Python-based framework with 25K+ stars, supporting integrations with
+- **Open-Source Python Framework**: Implements a context-engineered architecture optimized
 
 ## Use Cases
 
@@ -50,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack
+Original source URL: https://github.com/deepset-ai/haystack?source=post_page
 
 ## Local Vault File
 

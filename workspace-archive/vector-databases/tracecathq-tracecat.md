@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Event-driven security automation platform** built with Python, FastAPI, and Next.js, leveraging **Temporal.io** for workflow orchestration and **Pydantic** for data validation.
+- **Architecture**: Python-based, event-driven automation platform leveraging FastAPI for API endpoints, Pydantic for data validation, and Temporal.io for workflow orchestration, with a Next.js frontend for low-code UI.
 
-- **Low-code, OpenAPI-compliant** system enabling AI agents and teams to automate security workflows via **LLM integration** and declarative workflow definitions.
+- **Security Focus**: Designed for security automation with OpenAPI integration, LLM-driven workflows, and monitoring capabilities, enabling AI agents and teams to execute and orchestrate security operations.
 
-- **Open-source core** with 3.7k+ GitHub stars, supporting **monitoring, event-driven triggers**, and **multi-agent collaboration** for security operation
+- **Scalability**: Supports distributed workflow execution via Tempor
 
 ## Use Cases
 

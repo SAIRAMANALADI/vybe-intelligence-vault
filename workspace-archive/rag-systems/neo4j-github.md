@@ -8,7 +8,7 @@ local_vault_path: ai/rag/neo4j-github.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: tutorial
+resource_kind: framework
 importance: high
 tags:
 - rag
@@ -16,7 +16,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Neo4j · GitHub
@@ -25,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Neo4j Core Project**: Open-source Java-based graph database implementing native graph storage, ACID transactions, and the Cypher query language; flagship repository (`neo4j/neo4j`) with 16.8k stars and 2.6k forks.
+- **Neo4j Core Engine**: Open-source graph database implementation in Java (`neo4j/neo4j`), supporting ACID transactions, Cypher query language, and native graph storage with ~16.8k GitHub stars.
 
-- **Graph Data Science Ecosystem**: Provides algorithmic libraries (`graph-data-science`, `graph-data-science-client`) in Java/Python for scalable graph analytics, including PageRank, community detection, and centrality measures.
+- **Graph Data Science (GDS) Library**: Provides scalable graph algorithms (e.g., PageRank, community detection) via `neo4j/graph-data-science` (Java) and Python client (`graph-data-science-client`), with Apache-2.0 licensing.
 
-- **Multi-Language Driver Support**: Maintains off
+- **Multi-Language Bolt Drivers**: Official drivers for Java (`neo4j-java-d
 
 ## Use Cases
 

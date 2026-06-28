@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-06-28T19:47:46.980781+05:30'
-collected_at: '2026-06-28T19:47:46.980797+05:30'
+published_at: '2026-06-28T22:08:09.334615+05:30'
+collected_at: '2026-06-28T22:08:09.334631+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-28T19:47:46.980797+05:30'
-last_seen: '2026-06-28T19:47:46.980797+05:30'
-last_checked: '2026-06-28T19:47:46.980797+05:30'
+first_seen: '2026-06-28T22:08:09.334631+05:30'
+last_seen: '2026-06-28T22:08:09.334631+05:30'
+last_checked: '2026-06-28T22:08:09.334631+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations like hallucinations, outdated data, and private knowledge access.
+- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations like hallucinations, outdated information, and private data access.
 
-- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), improving accuracy and contextual relevance.
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with modular/agentic variants enabling tool integration and adaptive routing.
 
-- **Implementation Trade-offs**: Graph RAG excels in relational reasoning but incurs higher graph construction costs, while Advanced RAG balances complexity and performance; Naive RAG offers simplicity but limited functionality.
+- **Operational Considerations**: Requires evaluation metrics (e.g., retrieval accuracy, answer correctness), production checklists (e.g., latency, permissions), and alternatives (e.g., LLM Wiki for knowledge accumulation) to balance performance, cost, and scalability.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:47:46.980781+05:30
+- Published: 2026-06-28T22:08:09.334615+05:30
 
 ## Related Tags
 

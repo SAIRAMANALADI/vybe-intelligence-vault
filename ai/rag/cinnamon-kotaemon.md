@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-28T19:48:09.594992+05:30'
+collected_at: '2026-06-28T22:08:34.464947+05:30'
 published_at: '2026-06-27T19:54:27Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 25500
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-28T19:48:09.594992+05:30'
-last_seen: '2026-06-28T19:48:09.594992+05:30'
-last_checked: '2026-06-28T19:48:09.594992+05:30'
+first_seen: '2026-06-28T22:08:34.464947+05:30'
+last_seen: '2026-06-28T22:08:34.464947+05:30'
+last_checked: '2026-06-28T22:08:34.464947+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversations with LLMs, dynamically retrieving and synthesizing information from user-provided documents.
+- **RAG Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline in Python, enabling document-based conversational AI with dynamic context retrieval and LLM integration.
 
-- **Modular Python Framework**: Built in Python with a flexible, extensible design supporting custom document loaders, retrievers, and LLM backends (e.g., LangChain integration).
+- **Modular Design**: Features a flexible, component-based structure for document ingestion, embedding, retrieval, and response generation, supporting customization of models and workflows.
 
-- **Scalable Deployment**: Optimized for local/enterprise use with support for vector databases (e.g., FAISS, Chroma) and GPU acceleration for efficient retrieval and generation.
+- **Open-Source Deployment**: Provides a fully open-source solution with pre-built integrations for popular LLMs, optimized for local or cloud-based document interaction with 25.5k+ GitHub stars.
 
 ## Why It Matters
 

@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics, with support for frameworks like OpenAI, Anthropic, and CrewAI.
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, performance monitoring, and production-wide metrics across frameworks like OpenAI, Anthropic, and CrewAI.
 
-- **Key features** include automated failure detection via **Engine**, trace visualization/filtering, performance dashboarding, alerting, and user feedback collection through annotation queues.
+- **Key features** include automated failure detection via LangSmith Engine, trace filtering/exporting, custom dashboard creation, alerting, and user feedback collection through inline annotation or queues.
 
-- **Setup options** include cloud, hybrid, or self-hosted deployments, with traci
+- **Setup options** include cloud, hybrid, or self-hosted deployments
 
 ## Use Cases
 

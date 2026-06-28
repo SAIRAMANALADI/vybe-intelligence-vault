@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Licensed access to 280M+ full-text scholarly articles (journals, preprints, patents, datasets) via direct publisher agreements (Wiley, SAGE, 40+ others), enabling full-text search beyond abstracts.
+- **Database & Coverage**: Scite indexes 280M+ full-text scholarly articles (papers, preprints, books, patents, datasets) with direct publisher agreements (e.g., Wiley, SAGE) and open-access corpora, enabling full-text search beyond abstracts.
 
-- **Smart Citation Analysis**: AI-powered **Smart Citations** classify citations as *supporting*, *contrasting*, or *mentioning*, with contextual sentence-level evidence, enabling evidence-weighted research synthesis.
+- **Smart Citation Analysis**: Uses AI to classify citations as *supporting*, *contrasting*, or *mentioning*, with contextual sentence-level evidence, enabling evidence-weighted research synthesis and verification.
 
-- **Cross-Domain Integration**: Connects literature to
+- **Cross-Domain Integration**: Aggrega
 
 ## Use Cases
 

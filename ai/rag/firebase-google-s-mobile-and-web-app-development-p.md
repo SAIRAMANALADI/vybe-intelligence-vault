@@ -4,22 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://firebase.google.com
-published_at: '2026-06-28T19:52:08.332298+05:30'
-collected_at: '2026-06-28T19:52:08.332313+05:30'
+published_at: '2026-06-28T22:13:16.753693+05:30'
+collected_at: '2026-06-28T22:13:16.753711+05:30'
 tags:
 - agents
 - hackernews
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:firebase-google-s-mobile-and-web-app-development-p
-first_seen: '2026-06-28T19:52:08.332313+05:30'
-last_seen: '2026-06-28T19:52:08.332313+05:30'
-last_checked: '2026-06-28T19:52:08.332313+05:30'
+first_seen: '2026-06-28T22:13:16.753711+05:30'
+last_seen: '2026-06-28T22:13:16.753711+05:30'
+last_checked: '2026-06-28T22:13:16.753711+05:30'
 health_score: 100
 ---
 
@@ -27,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform SDKs**: Firebase provides unified SDKs for iOS, Android, Web, Flutter, Unity, and C++, enabling seamless app development across multiple platforms with shared backend infrastructure.
+- **Cross-platform SDKs** for iOS, Android, Web, Flutter, Unity, and C++ enabling unified app development and deployment across ecosystems.
 
-- **AI/ML Integration**: Supports generative AI workflows via Firebase AI Logic, Agent Skills, and integrations with Google’s Gemini, enabling AI-powered app features like logic automation and agent assistance.
+- **Managed infrastructure** with AI-powered services (e.g., Firebase AI Logic, App Hosting, SQL Connect) leveraging Google Cloud for scalable, secure, and rapid app development.
 
-- **Backend Services Suite**: Offers managed infrastructure including Firestore (NoSQL), Realtime Database, Authentication, Cloud Functions, Hosting, and Crashlytics for scalable, secure, and globally distributed app deployment.
+- **Pre-built extensions** (e.g., Firestore-BigQuery, Algolia Search, Stripe Payments) and integrations (e.g., Gemini, Google Ads, Slack) to automate workflows and enhance app functionality.
 
 ## Why It Matters
 
@@ -41,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:52:08.332298+05:30
+- Published: 2026-06-28T22:13:16.753693+05:30
 
 ## Related Tags
 
@@ -50,7 +49,6 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 

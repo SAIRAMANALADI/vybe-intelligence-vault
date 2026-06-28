@@ -8,11 +8,10 @@ local_vault_path: ai/resources/huggingface-blog-quentinjg-introducing-vidore-v3.
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: benchmark
 importance: medium
 tags:
 - benchmark
-- dataset
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -25,16 +24,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Multi-modal benchmark**: ViDoRe V3 evaluates enterprise document retrieval across multiple modalities (e.g., text, tables, images) with 8 curated test items.
-- **Industry benchmarking**: Designed as a gold-standard benchmark for enterprise document retrieval, emphasizing real-world, multi-modal challenges.
-- **Updated dataset**: Released January 14, 2024, as part of the ViDoRe collection on Hugging Face.
+- **Benchmark Composition**: ViDoRe V3 consists of 8 curated, enterprise-focused document retrieval tasks designed for multi-modal evaluation.
+- **Evaluation Scope**: Focuses on cross-modal retrieval (e.g., text-to-image, image-to-text) with enterprise document complexity (tables, charts, invoices).
+- **Version Update**: Released January 14, 2024, as the latest iteration of the ViDoRe benchmark suite.
 
 ## Use Cases
 

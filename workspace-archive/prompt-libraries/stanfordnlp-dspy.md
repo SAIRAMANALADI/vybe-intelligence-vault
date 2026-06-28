@@ -11,11 +11,9 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
-- models
-- openai
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Programmatic LM Optimization**: DSPy introduces a programming model to replace manual prompt engineering, enabling structured optimization of language model (LM) pipelines via declarative modules (e.g., `Predict`, `Retrieve`) and automatic prompt/weight tuning.
+- **Programmatic LM Optimization**: DSPy introduces a framework to programmatically optimize language model (LM) behavior via declarative modules (e.g., `Predict`, `Retrieve`) and teleprompters, replacing ad-hoc prompting with structured, trainable pipelines.
 
-- **Modular Pipeline Design**: Supports composable, typed modules (e.g., `ChainOfThought`, `Retrieve`) with teleprompters (e.g., `BootstrapFewShot`) to dynamically generate and optimize LM prompts or weights for tasks like QA, classi
+- **Modular & Composable Design**: Supports modular components (e.g., `Signature`, `Module`) for defining LM tasks, enabling reusable, composable workflows (e.g., chains, loops) with explicit control over LM interactions.
+
+- **Automated Op
 
 ## Use Cases
 

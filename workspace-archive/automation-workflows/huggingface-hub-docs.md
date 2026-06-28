@@ -6,7 +6,7 @@ source_url: https://github.com/huggingface/hub-docs/blob/main/docs/hub/spaces.md
 resource_id: github:huggingface/hub-docs
 local_vault_path: ai/rag/huggingface-hub-docs.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -16,7 +16,7 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- youtube
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables ML demo hosting directly on user/organization profiles with support for Gradio SDK (Python), arbitrary Dockerfiles, and static JS/HTML apps; GPU/accelerated hardware upgrades available.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio (Python SDK), arbitrary Dockerfiles, and static HTML/JS apps; GPU/accelerated hardware upgrades available.
 
-- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding; includes dev mode, storage/disk usage monitoring, and ArXiv integration.
+- **Integration & Customization**: Supports dependency management, OpenCV integration, GitHub Actions for CI/CD, and embedding Spaces; includes dev mode, storage monitoring, and ArXiv submission workflows.
 
-- **SDKs & Documentation**: Provides specialized docs f
+- **SDK & Hardware Options**: Provides specia
 
 ## Use Cases
 

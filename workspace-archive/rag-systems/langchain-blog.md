@@ -2,7 +2,7 @@
 title: LangChain Blog
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://blog.langchain.com/
+source_url: https://blog.langchain.com
 resource_id: blog:langchain-blog
 local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
@@ -16,7 +16,6 @@ tags:
 - producthunt
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse model prompts, reducing redundant computations and improving efficiency in agent-based workflows by leveraging persistent memory structures.
+- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse model prompts, reducing redundant computations and improving efficiency in agent-based systems by leveraging semantic similarity for prompt reuse.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, emphasizing interoperability and flexibility in agent architectures.
+- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, emphasizing flexibility in AI model selection for agent architectures.
 
-- **LangSmith Engine for Agent Observability**:
+- **LangSmith Engine for Agent Observab
 
 ## Use Cases
 
@@ -50,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://blog.langchain.com/
+Original source URL: https://blog.langchain.com
 
 ## Local Vault File
 

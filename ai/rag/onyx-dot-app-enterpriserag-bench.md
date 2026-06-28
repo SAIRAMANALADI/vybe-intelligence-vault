@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-28T19:48:59.654489+05:30'
+collected_at: '2026-06-28T22:09:19.477977+05:30'
 published_at: '2026-06-28T09:49:43Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-28T19:48:59.654489+05:30'
-last_seen: '2026-06-28T19:48:59.654489+05:30'
-last_checked: '2026-06-28T19:48:59.654489+05:30'
+first_seen: '2026-06-28T22:09:19.477977+05:30'
+last_seen: '2026-06-28T22:09:19.477977+05:30'
+last_checked: '2026-06-28T22:09:19.477977+05:30'
 health_score: 100
 ---
 
@@ -30,14 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of performance in real-world scenarios.
-
-- **Key Features**:
-  - Includes synthetic data generation for enterprise knowledge bases.
-  - Covers evaluation metrics for retrieval quality, answer correctness, and latency in RAG pipelines.
-  - Supports Python-based implementations for extensibility and integration with existing RAG systems.
-
-- **Scope**: Targets enterprise use cases (e.g., semantic search, QA) with focus on LLM evaluation, generative AI, and information retrieval tasks.
+- **Purpose**: Provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search, and evaluation tools for LLM-based question answering, with support for Python and multiple enterprise use cases.
+- **Scope**: Covers enterprise search, knowledge base integration, and retrieval-augmented generation, with last update in June 2026 and active community engagement (427 stars, 42 forks).
 
 ## Why It Matters
 

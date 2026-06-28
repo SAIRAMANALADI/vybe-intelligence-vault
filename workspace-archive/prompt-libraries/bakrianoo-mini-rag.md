@@ -11,9 +11,7 @@ archive_tier: essential
 resource_kind: prompt
 importance: high
 tags:
-- benchmark
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -34,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, emphasizing scalability and deployment best practices.
+- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integration.
 
-- **Modular Architecture**: Implements a decoupled design with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration, facilitating maintainability and extensibility.
+- **Modular Architecture**: Implements a scalable, containerized RAG system with FastAPI endpoints for document ingestion, retrieval, and LLM-based generation, leveraging Docker for deployment.
 
-- **GenAI Integration**: Demonstrates real-time
+- **Educational Focus**: Designed to teach core RAG concepts (e.g., vector databases, embeddings, p
 
 ## Use Cases
 

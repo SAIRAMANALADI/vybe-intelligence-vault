@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Operational Status**: npm services (package installation, publishing, search, security audit, replication feed) reported 100% uptime over the past 90 days, with the website at 99.93% uptime.
-- **Incident Notifications**: Users can subscribe via email or SMS for real-time incident alerts (create/update/resolve) with OTP-based verification and regional phone number support.
-- **Monitoring & Compliance**: Historical uptime data available via Atom/RSS feeds; site adheres to Atlassian/Google priv
+- **Operational Status**: npm services (website, package installation, publishing, search, security audit, replication feed) reported 99.93%–100% uptime over the last 90 days with no major outages.
+- **Notification System**: Supports email and SMS incident notifications via reCAPTCHA-protected forms, with OTP verification for user authentication.
+- **Incident Tracking**: Public status page provides historical uptime data, incident history, and RSS/Atom feeds for real-time monitoring.
 
 ## Use Cases
 

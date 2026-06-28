@@ -6,20 +6,22 @@ source_url: https://gradio.app/
 resource_id: blog:gradio
 local_vault_path: ai/rag/gradio.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
-importance: high
+resource_kind: framework
+importance: medium
 tags:
+- frontend_ui
 - hackernews
 - producthunt
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Gradio
@@ -27,19 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Gradio 6.0** introduces enhanced UI components, improved performance, and new deployment options, including native support for **Model Context Protocol (MCP)** integration, enabling seamless model-to-model communication.
+- **Gradio 6 Release**: Introduces new features and improvements for building ML web interfaces in Python, including enhanced component library and deployment options.
 
-- **40+ pre-built components** (e.g., `Audio`, `ImageSlider`, `Chatbot`, `AnnotatedImage`) support real-time interactivity for **images, audio, video, 3D models, dataframes**, and structured data, reducing frontend development overhead.
+- **40+ UI Components**: Supports diverse data types (Images, Audio, Video, 3D, Dataframes) with pre-built interactive elements like `Plot`, `Gallery`, `Audio`, and `Chatbot`.
 
-- **Zero-config deployment** via `de
+- **Zero-Frontend Workflow**: Enables rapid prototyping and deployment via Python-only scripts (`pip install gradio` + `demo.launch()`), with options for
 
 ## Use Cases
 

@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-28T19:50:39.748810+05:30'
+collected_at: '2026-06-28T22:10:59.574813+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
+- workflows
 stars: 609
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-28T19:50:39.748810+05:30'
-last_seen: '2026-06-28T19:50:39.748810+05:30'
-last_checked: '2026-06-28T19:50:39.748810+05:30'
+first_seen: '2026-06-28T22:10:59.574813+05:30'
+last_seen: '2026-06-28T22:10:59.574813+05:30'
+last_checked: '2026-06-28T22:10:59.574813+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular, scalable, and reproducible environment for training and evaluating reinforcement learning (RL) and multi-agent systems.
+- **Framework Design**: MLGym is a Python-based framework designed to advance AI research agents, enabling systematic experimentation and benchmarking of machine learning algorithms through modular, extensible components.
 
-- **Key Features**: Supports distributed training, customizable agent-environment interactions, and integrates benchmarking tools for standardized performance evaluation across diverse AI tasks.
+- **Benchmarking System**: The repository includes a structured benchmarking system to evaluate AI agents across diverse tasks, facilitating reproducible research and comparative analysis of algorithmic performance.
 
-- **Benchmark Suite**: Includes a comprehensive set of RL and multi-agent benchmarks with configurable environments, metrics, and baselines to facilitate systematic comparison of AI research agents.
+- **Scalability & Extensibility**: MLGym supports scalable execution of experiments, with support for distributed computing and customizable agent configurations, allowing researchers to tailor workflows to specific research needs.
 
 ## Why It Matters
 

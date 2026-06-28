@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-28T19:47:44.546595+05:30'
-published_at: '2026-06-28T09:45:55Z'
+collected_at: '2026-06-28T22:08:09.489796+05:30'
+published_at: '2026-06-28T14:22:21Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
 - youtube
-stars: 21634
+stars: 21635
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-06-28T19:47:44.546595+05:30'
-last_seen: '2026-06-28T19:47:44.546595+05:30'
-last_checked: '2026-06-28T19:47:44.546595+05:30'
+first_seen: '2026-06-28T22:08:09.489796+05:30'
+last_seen: '2026-06-28T22:08:09.489796+05:30'
+last_checked: '2026-06-28T22:08:09.489796+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
+- **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, image, audio, and video modalities, enabling unified cross-modal retrieval and generation workflows.
 
-- **Modular Architecture**: Features plug-and-play components for document parsing, embedding, vector storage, and LLM integration, enabling customizable RAG workflows across modalities.
+- **Modular Architecture**: Implements a plug-and-play system with interchangeable components (e.g., retrievers, rerankers, generators) for customizable RAG pipelines tailored to specific use cases.
 
-- **Optimized Retrieval Mechanisms**: Incorporates advanced retrieval techniques (e.g., hybrid search, reranking) and supports dynamic chunking strategies for efficient multi-modal knowledge extraction.
+- **Optimized Performance**: Leverages efficient indexing (e.g., FAISS, Milvus) and parallel processing to handle large-scale multi-modal datasets with low-latency retrieval and generation.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21634
-- Forks: 2529
+- Stars: 21635
+- Forks: 2530
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-06-28T09:45:55Z
+- Last Updated: 2026-06-28T14:22:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z

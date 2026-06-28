@@ -6,16 +6,17 @@ source_url: https://docs.haystack.deepset.ai/docs/intro
 resource_id: blog:introduction-to-haystack-haystack-documentation
 local_vault_path: ai/rag/introduction-to-haystack-haystack-documentation.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - anthropic
 - hackernews
 - openai
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack is an open-source framework for building production-ready AI agents, RAG applications, and multimodal search systems using reusable, customizable components and pipelines.
+- **Framework Overview**: Haystack is an open-source AI orchestration framework for building production-grade AI agents, RAG applications, and multimodal search systems using modular, reusable components (e.g., LLMs, document stores, agents, tools).
 
-- **Core Architecture**: Comprises components (e.g., Document Stores, Agents, Tools) and integrates technologies from providers like OpenAI, Google, Anthropic, and Hugging Face Transformers.
+- **Architecture**: Implements a pipeline-based architecture with core components (Document Stores, Agents, Tools) and integrates technologies from providers like OpenAI, Google, Anthropic, and Hugging Face Transformers.
 
-- **Enterprise Extensions**: Offers Haystack Enterprise Starter (for support, best p
+- **Enterprise Support**: O
 
 ## Use Cases
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based retrieval-augmented generation (RAG) framework that aggregates semantic information hierarchically to enhance contextual relevance in generated outputs.
+- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and contextualize retrieved information using hierarchical retrieval strategies for improved generation quality.
 
-- **Hierarchical Retrieval Strategy**: Utilizes multi-layered retrieval from knowledge graphs to dynamically select and prioritize nodes, improving precision in downstream generation tasks.
+- **Hierarchical Retrieval Architecture**: Utilizes multi-layered retrieval (e.g., entity → subgraph → full graph) to dynamically refine knowledge extraction based on query complexity and relevance.
 
-- **Efficiency Optimization**: Designed for low-latency inference with modular com
+- **Efficiency Optimization**: Python-based framework designed for AAAI 2026, emphasizing l
 
 ## Use Cases
 

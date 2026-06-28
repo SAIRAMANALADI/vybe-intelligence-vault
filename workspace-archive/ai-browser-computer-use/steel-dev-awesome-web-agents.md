@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A GitHub repository (`steel-dev/awesome-web-agents`) listing tools, frameworks, and resources for building AI web agents, with 1,487 stars and 192 forks as of the last update (2026-06-28).
-- **Technical Focus**: Primarily Python-based, covering browser automation, LLM benchmarking, and AI agent development with topics including `ai`, `ai-agents`, `llms`, and `browser-automation`.
-- **Benchmarking & Benchmarks**: Includes resources for evaluating AI agents, particularl
+- **Curated Resource Hub**: A GitHub repository (`steel-dev/awesome-web-agents`) aggregating tools, frameworks, and benchmarks for AI web agent development, including browser automation, LLM integration, and evaluation methodologies.
+- **Technical Scope**: Focuses on Python-based solutions, covering topics like AI agents, LLM benchmarking, and automation frameworks for web interaction.
+- **Active Maintenance**: Last updated in 2026, with 1,487 stars and 192 forks, indicating ongoing community en
 
 ## Use Cases
 

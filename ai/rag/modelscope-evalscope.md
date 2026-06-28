@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-28T19:48:54.653552+05:30'
+collected_at: '2026-06-28T22:09:19.452006+05:30'
 published_at: '2026-06-28T11:24:27Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 2995
 language: Python
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-06-26T06:48:08Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-28T19:48:54.653552+05:30'
-last_seen: '2026-06-28T19:48:54.653552+05:30'
-last_checked: '2026-06-28T19:48:54.653552+05:30'
+first_seen: '2026-06-28T22:09:19.452006+05:30'
+last_seen: '2026-06-28T22:09:19.452006+05:30'
+last_checked: '2026-06-28T22:09:19.452006+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: EvalScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and streamlined workflows.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with a focus on efficiency and performance metrics.
 
-- **Key Features**: Supports performance benchmarking across diverse tasks (e.g., RAG, multimodal evaluation) with extensible evaluation metrics and standardized testing protocols for reproducibility.
+- **Key Features**: Supports evaluation of Retrieval-Augmented Generation (RAG), multimodal models (VLMs), and generative AI tasks with modular and extensible architecture.
 
-- **Technical Stack**: Built on Python with integrations for model-specific optimizations, leveraging community-driven contributions for scalability and adaptability to evolving evaluation demands.
+- **Repository Stats**: 2,995 stars, 408 forks, last updated June 28, 2026, with active development in evaluation and performance benchmarking tooling.
 
 ## Why It Matters
 

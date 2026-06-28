@@ -8,7 +8,7 @@ local_vault_path: ai/rag/awesome-opencode-awesome-opencode.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -16,6 +16,7 @@ tags:
 - hackernews
 - javascript
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -26,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Curated Resource Hub**: A comprehensive, community-driven collection of plugins, themes, agents, projects, and tools specifically tailored for [opencode.ai](https://opencode.ai), organized for ease of discovery and integration.
-
-- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies to ensure compatibility and extensibility across the opencode.ai ecosystem.
-
-- **Active Maintenance**: Last updated on **2026-06-28**, indicating ongoing community engageme
+- **Curated Resource Hub**: A GitHub repository hosting a structured collection of plugins, themes, agents, projects, and tools specifically for [opencode.ai](https://opencode.ai), a platform for AI-driven development.
+- **Technical Stack**: Primarily implemented in JavaScript, leveraging modern web technologies for extensibility and integration with AI workflows.
+- **Active Maintenance**: Last updated on **2026-06-28**, indicating ongoing updates and community-driven contributions (8,417 stars,
 
 ## Use Cases
 

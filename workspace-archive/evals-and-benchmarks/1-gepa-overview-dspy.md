@@ -6,7 +6,7 @@ source_url: https://dspy.ai/api/optimizers/GEPA/overview/
 resource_id: blog:1-gepa-overview-dspy
 local_vault_path: ai/rag/1-gepa-overview-dspy.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, enabling high-performing prompts with minimal rollouts.
+- **GEPA** is an evolutionary optimizer that adaptively evolves textual components (e.g., prompts) using reflection, leveraging both scalar scores and textual feedback to guide optimization, achieving high performance in few rollouts.
 
-- **Core mechanism**: Captures execution traces, identifies predictor-specific sub-traces, and uses reflection to propose improved instructions; supports granular textual feedback at predictor or system level via a custom `GEPAFeedbackMetric` function.
+- **Key parameters** include `metric` (required feedback function), `reflection_lm` (strong LLM for reflection), `candidate_selection_strategy` (Pareto or current_best), and `component_selector` (round_robin or all predictors), with advanced options like `use_merg
 
 ## Use Cases
 

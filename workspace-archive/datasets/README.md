@@ -20,12 +20,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
+- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [project-miracl/miracl](https://github.com/project-miracl/miracl)
+- [wgcyeo/UniversalRAG](https://github.com/wgcyeo/UniversalRAG)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
-- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
-- [IAAR-Shanghai/CRUD_RAG](https://github.com/IAAR-Shanghai/CRUD_RAG)
-- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
+- [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-28 20:03 IST*
+*Last updated: 2026-06-28 22:24 IST*

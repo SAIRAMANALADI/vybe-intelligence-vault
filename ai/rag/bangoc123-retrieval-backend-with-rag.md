@@ -4,12 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-28T19:48:29.613004+05:30'
+collected_at: '2026-06-28T22:08:54.394475+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 263
@@ -19,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-28T19:48:29.613004+05:30'
-last_seen: '2026-06-28T19:48:29.613004+05:30'
-last_checked: '2026-06-28T19:48:29.613004+05:30'
+first_seen: '2026-06-28T22:08:54.394475+05:30'
+last_seen: '2026-06-28T22:08:54.394475+05:30'
+last_checked: '2026-06-28T22:08:54.394475+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system tailored for Vietnamese language processing, leveraging Python-based pipelines.
+- **Vietnamese RAG Implementation**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including text retrieval and generation pipelines.
 
-- **Modular Architecture**: Features a structured backend with components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert-base`), and LLM integration (e.g., `vllm` or `transformers`).
+- **Python-Based Architecture**: Utilizes Python with libraries such as `sentence-transformers`, `FAISS` (Facebook AI Similarity Search), and `FastAPI` for scalable vector search and API deployment.
 
-- **Evaluation & Optimization**: Includes scripts for benchmarking retrieval performance (e.g., using `faiss` or `weaviate`) and fine-tuning embeddings for Vietnamese-specific tasks (e.g., handling diacritics, domain-specific corpora).
+- **Modular Design**: Features modular components for document processing, embedding generation, vector storage, and retrieval, enabling customization for Vietnamese-specific NLP tasks.
 
 ## Why It Matters
 

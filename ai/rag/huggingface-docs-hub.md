@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-06-27T16:39:29.951714+05:30'
-collected_at: '2026-06-27T16:39:29.951730+05:30'
+published_at: '2026-06-28T22:12:33.410656+05:30'
+collected_at: '2026-06-28T22:12:33.410673+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-06-27T16:39:29.951730+05:30'
-last_seen: '2026-06-27T16:39:29.951730+05:30'
-last_checked: '2026-06-27T16:39:29.951730+05:30'
+first_seen: '2026-06-28T22:12:33.410673+05:30'
+last_seen: '2026-06-28T22:12:33.410673+05:30'
+last_checked: '2026-06-28T22:12:33.410673+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JS apps, including GPU/accelerated hardware upgrades.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript apps, including GPU acceleration options.
 
-- **Multi-Environment SDKs**: Supports rapid development via Python (Gradio), full Docker flexibility, and static web apps, with additional features like Dev Mode, disk storage management, and custom domains.
+- **Storage & Resource Management**: Spaces supports disk usage monitoring, custom domain configuration, and ZeroGPU mode for cost-efficient deployments, with detailed storage and GPU upgrade documentation.
 
-- **Collaboration & Integration**: Facilitates ML portfolio showcasing, collaborative projects, and GitHub Actions integration; supports embedding Spaces, MCP servers, and API endpoints for extended functionality.
+- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth sign-in, MCP server integration, and embedding Spaces as API endpoints or agent tools for advanced workflows.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:39:29.951714+05:30
+- Published: 2026-06-28T22:12:33.410656+05:30
 
 ## Related Tags
 

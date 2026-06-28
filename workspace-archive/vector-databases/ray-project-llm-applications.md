@@ -6,22 +6,19 @@ source_url: https://github.com/ray-project/llm-applications
 resource_id: github:ray-project/llm-applications
 local_vault_path: ai/rag/ray-project-llm-applications.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 85
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
-- workflows
 selection_reason:
-- Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # ray-project/llm-applications
@@ -29,17 +26,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Anyscale, emphasizing scalable training and inference optimization techniques.
-- **End-to-End Deployment**: Provides guides for deploying LLM applications via Ray Serve, covering model serving, retrieval systems
+- **RAG-based LLM Applications**: Provides a production-ready framework for building Retrieval-Augmented Generation (RAG) applications using LLMs, integrating retrieval mechanisms with generative models for enhanced performance.
+
+- **Multi-Model & Framework Support**: Demonstrates integration with models like Llama2, OpenAI, and Anyscale, leveraging Ray for distributed serving, fine-tuning, and scalable deployment of LLM applications.
+
+- **Jupyter Notebook-Based Guide**: Offers hands-on, executa
 
 ## Use Cases
 

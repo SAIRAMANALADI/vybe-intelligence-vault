@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Comprehensive LLM toolkit for RAG pipelines, supporting document loading, text splitting, embedding, retrieval, and output generation with integrations to OpenAI, Hugging Face, Azure, and multi-language support (Python, JavaScript, TypeScript).
+- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, embedding, retrieval, output generation) and multi-language support (Python, JS/TS), integrating with providers like OpenAI, Hugging Face, and Azure.
 
-- **Haystack by deepset.ai**: Open-source framework optimized for enterprise-grade RAG workflows, featuring modular pipelines for document retrieval, pre-processing, and LLM integration with connectors for Elasticsearch, Weaviate, and Po
+- **Haystack by deepset-ai**: End-to-end RAG framework optimized for enterprise use, featuring modular pipelines, document stores (Elasticsearch, Weaviate), and pre-built components for indexing, retrieval, and query processing.
+
+- **Llam
 
 ## Use Cases
 

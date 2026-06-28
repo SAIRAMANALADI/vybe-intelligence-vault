@@ -6,14 +6,13 @@ source_url: https://github.com/langchain-ai/rag-research-agent-template
 resource_id: github:langchain-ai/rag-research-agent-template
 local_vault_path: ai/rag/langchain-ai-rag-research-agent-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured research workflows.
-- **Key Components**: Includes pre-configured pipelines for document ingestion, retrieval, and agent-based reasoning with modular Python components.
-- **Technical Stack**: Primarily Python-based, leveraging LangChain’s ecosystem for LLM integration, vector stores, and agent orchestration.
+- **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
+- **Key Components**: Includes pre-configured pipelines for document retrieval, prompt engineering, and agent-based reasoning with modular Python components.
+- **Dependencies**: Leverages LangChain’s ecosystem (e.g., `langchain-core`, `langchain-community`) for LLM integration, vector stores, and tool orchestration.
 
 ## Use Cases
 

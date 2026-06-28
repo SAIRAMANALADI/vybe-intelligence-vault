@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by root-parent. Score: 15, Comments: 4.
+Hacker News story by root-parent. Score: 88, Comments: 36.
 Original Link: https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html
 
 ## Use Cases

@@ -2,21 +2,20 @@
 title: Google Colab
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
-archive_score: 74
+archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
+- models
 - rag
-- reddit
 - web-crawled
-- workflows
 selection_reason:
-- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -25,19 +24,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Resource Link**: [Milvus Bootcamp - Build RAG with Milvus](https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb) (access requires Google sign-in).
+- **Resource Location**: The provided link directs to a Google Colab notebook hosted on GitHub under the `google/generative-ai-docs` repository, specifically for fine-tuning Gemma models using LoRA (Low-Rank Adaptation).
 
-- **Purpose**: Tutorial demonstrates **Retrieval-Augmented Generation (RAG)** using **Milvus** as a vector database for efficient similarity search in LLM applications.
+- **Content Focus**: The notebook (`lora_tuning.ipynb`) demonstrates parameter-efficient fine-tuning techniques for Gemma, a lightweight open-source model, leveraging LoRA to reduce computational overhead while maintaining performance.
 
-- **Key Components**: Covers **Milvus vector DB setup**, **embedding generation**, and **integration with gene
+- **Access Requirement**: Authentication
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
 
 ## Local Vault File
 

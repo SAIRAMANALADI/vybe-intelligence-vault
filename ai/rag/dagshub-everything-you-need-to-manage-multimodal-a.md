@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-06-28T03:55:14.777689+05:30'
-collected_at: '2026-06-28T03:55:14.777704+05:30'
+published_at: '2026-06-28T22:14:22.651060+05:30'
+collected_at: '2026-06-28T22:14:22.651077+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-06-28T03:55:14.777704+05:30'
-last_seen: '2026-06-28T03:55:14.777704+05:30'
-last_checked: '2026-06-28T03:55:14.777704+05:30'
+first_seen: '2026-06-28T22:14:22.651077+05:30'
+last_seen: '2026-06-28T22:14:22.651077+05:30'
+last_checked: '2026-06-28T22:14:22.651077+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage from data to production.
+- **Unified AI Data & Model Management**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, CI/CD/CT integration, and interactive pipelines for AI model development.
 
-- **Scalable Infrastructure**: Offers tiered plans (Individual/Team/Enterprise) with storage ranging from 20GB (free) to petabyte-scale, RBAC controls, on-premise/VPC deployment, and integrations with cloud storage/MLOps tools.
+- **Scalable Experiment Tracking & Model Registry**: Enables tracking of unlimited experiments (public repos) with MLflow compatibility, model versioning, and deployment capabilities, scaling from 100 private experiments (Team plan) to petabyte-scale (Enterprise).
 
-- **Enterprise-Grade Features**: Includes auto-labeling, SSO/LDAP/OIDC, OpenShift compatibility, and organizational resource control for high-scale AI workloads with SLA-backed support.
+- **Enterprise-Grade Deployment & Security**: Offers on-premise/VPC/air-gapped installations with SSO/LDAP/OIDC RBAC, organizational resource control, and OpenShift compatibility, supporting high-scale workloads and secure model deployment.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:55:14.777689+05:30
+- Published: 2026-06-28T22:14:22.651060+05:30
 
 ## Related Tags
 

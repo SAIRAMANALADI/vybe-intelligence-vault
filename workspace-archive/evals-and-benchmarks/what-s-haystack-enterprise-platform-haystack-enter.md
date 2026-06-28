@@ -6,21 +6,19 @@ source_url: https://docs.cloud.deepset.ai/docs/getting-started
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
 local_vault_path: ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation
@@ -28,17 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Haystack Enterprise Platform supports end-to-end development, from prototyping to large-scale production deployment, with built-in tools for data ingestion, model integration, evaluation, and monitoring.
+- **Data Processing Pipeline**: Supports multi-format document ingestion (PDFs, Office, images) with built-in OCR and converters, enabling automated chunking and indexing into a document store for retrieval-optimized storage.
 
-- **Modular RAG & Agent Architecture**: Enables construction of advanced retrieval-augmented generation (RAG) systems and AI agents via configurable pipelines (retrievers, rankers, generators) with visual Pipeline Builder and multi-model provid
+- **Modular AI Agent & RAG Framework**: Enables construction of multi-component pipelines (retrievers, rankers, generators) via visual builder, supporting both AI agents with tool-use capabilities and advanced RAG systems with document-grounded responses.
+
+- **Model Agnost
 
 ## Use Cases
 

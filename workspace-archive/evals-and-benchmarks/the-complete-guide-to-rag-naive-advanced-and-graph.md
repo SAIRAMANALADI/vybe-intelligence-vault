@@ -40,11 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations like hallucinations, outdated data, and private knowledge access.
+- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing limitations like hallucinations, outdated information, and private data access.
 
-- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph-based multi-hop reasoning), improving accuracy and contextual relevance.
-
-- **Imple
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with modular/agentic variants enabling tool i
 
 ## Use Cases
 

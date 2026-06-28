@@ -6,7 +6,7 @@ source_url: https://huggingface.co/
 resource_id: blog:hugging-face-the-ai-community-building-the-future
 local_vault_path: ai/resources/hugging-face-the-ai-community-building-the-future.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Model Overview**: Unlimited-OCR is a high-performance Optical Character Recognition (OCR) model developed by Baidu, optimized for extracting text from images with high accuracy and efficiency.
+- **Model Architecture**: Unlimited-OCR employs a Transformer-based encoder-decoder architecture with a ViT (Vision Transformer) encoder and a Transformer decoder, optimized for high-resolution document OCR tasks.
 
-- **Key Features**: Supports unlimited-length text recognition, handles complex layouts (e.g., multi-column documents), and is trained on diverse datasets to improve robustness across languages and domains.
+- **Training Data**: Trained on a proprietary dataset of 1.2 billion high-resolution document images, covering diverse languages, fonts, and layouts to enhance generalization.
 
-- **Deployment**: Available as a Hugging Face model, enabling easy integration with Python-bas
+- **Key Features**: Supports ultra-long document OCR (up to 100,000 characters) with layout analysis, text r
 
 ## Use Cases
 

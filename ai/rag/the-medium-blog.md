@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog/all?source=collection_home_page
 resource_id: blog:the-medium-blog
------d10bb5769280
-published_at: '2026-06-27T14:24:20.846929+05:30'
-collected_at: '2026-06-27T14:24:20.846940+05:30'
+----15f753907972-----1-----------------------------------
+published_at: '2026-06-28T22:13:24.076989+05:30'
+collected_at: '2026-06-28T22:13:24.077005+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-27T14:24:20.846940+05:30'
-last_seen: '2026-06-27T14:24:20.846940+05:30'
-last_checked: '2026-06-27T14:24:20.846940+05:30'
+first_seen: '2026-06-28T22:13:24.077005+05:30'
+last_seen: '2026-06-28T22:13:24.077005+05:30'
+last_checked: '2026-06-28T22:13:24.077005+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,11 @@ health_score: 100
 
 ## Summary
 
-- Medium's sitemap (`/sitemap.xml`) provides structured XML-based indexing of all published content, enabling efficient crawler discovery and SEO optimization.
-- The platform supports OAuth-based authentication via `/m/signin` endpoints, facilitating secure user session management for both login (`operation=login`) and registration (`operation=register`).
-- Medium’s newsletter subscription (`/newsletter`) leverages weekly digest delivery, with backend integration to the `/blog` CMS for content aggregation and distribution.
+- **Medium's sitemap.xml** provides structured XML-based navigation for indexing all public-facing URLs, including blog posts, product news, and static pages.
+
+- **Authentication endpoints** (`/m/signin`) handle user sessions via OAuth2 redirects, supporting both login (`operation=login`) and registration (`operation=register`) flows.
+
+- **API-driven content delivery** leverages dynamic query parameters (e.g., `?topic=product&source=---...`) to filter and serve categorized content from the Medium blog.
 
 ## Why It Matters
 
@@ -35,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T14:24:20.846929+05:30
+- Published: 2026-06-28T22:13:24.076989+05:30
 
 ## Related Tags
 
@@ -44,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.medium.com/?source=post_page-----d10bb5769280
+Original source: https://medium.com/blog/all?source=collection_home_page----15f753907972-----1-----------------------------------

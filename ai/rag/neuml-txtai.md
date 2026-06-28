@@ -6,15 +6,15 @@ source_name: GitHub Discovery
 source_url: https://github.com/neuml/txtai?source=post_page
 resource_id: github:neuml/txtai
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-28T15:07:32.379725+05:30'
-published_at: '2026-06-28T02:48:17Z'
+collected_at: '2026-06-28T22:11:19.594271+05:30'
+published_at: '2026-06-28T09:43:51Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 12682
+stars: 12683
 language: Python
 status: active
 license: Apache-2.0
@@ -22,9 +22,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-06-22T17:06:32Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-06-28T15:07:32.379725+05:30'
-last_seen: '2026-06-28T15:07:32.379725+05:30'
-last_checked: '2026-06-28T15:07:32.379725+05:30'
+first_seen: '2026-06-28T22:11:19.594271+05:30'
+last_seen: '2026-06-28T22:11:19.594271+05:30'
+last_checked: '2026-06-28T22:11:19.594271+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting embeddings, RAG, and vector search.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
 
-- **Modular Architecture**: Combines transformers, sentence embeddings, and vector databases for scalable information retrieval and NLP tasks.
+- **Modular Components**: Supports embeddings, vector search, RAG, and transformer-based models with built-in agents for scalable NLP pipelines.
 
-- **Agent & Workflow Support**: Enables AI agent development with retrieval-augmented generation (RAG) and multi-model orchestration for complex NLP pipelines.
+- **Vector Database Integration**: Enables efficient retrieval-augmented generation (RAG) via vector search and sentence embeddings for high-performance information retrieval.
 
 ## Why It Matters
 
@@ -45,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: neuml
-- Stars: 12682
+- Stars: 12683
 - Forks: 835
 - Language: Python
 - Topics: agents, ai, ai-agents, embeddings, information-retrieval, language-model, large-language-models, llm, nlp, python, rag, retrieval-augmented-generation, search, search-engine, semantic-search, sentence-embeddings, transformers, txtai, vector-database, vector-search
-- Last Updated: 2026-06-28T02:48:17Z
+- Last Updated: 2026-06-28T09:43:51Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2020-08-09T19:14:59Z

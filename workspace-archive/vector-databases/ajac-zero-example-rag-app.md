@@ -8,10 +8,11 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - typescript
 selection_reason:
@@ -24,15 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with Docker support, full type-checking, and 100% test coverage.
-- **Observability & Providers**: Integrates Langfuse for LLM observability and LiteLLM for support of 100+ LLM providers.
-- **Features**: Open-source, modular architecture, and last updated March 17, 2026.
+- **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with LLM observability via Langfuse, supporting 100+ LLM providers through LiteLLM integration.
+
+- **Technical Stack**: Dockerized, TypeScript-based with full type-checking, 100% test coverage, and modular architecture for extensibility.
+
+- **Metadata**: 159 stars, 24 forks, last updated March 17, 2026, categorized under AI, LLM, and RAG topics.
 
 ## Use Cases
 

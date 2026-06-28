@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs
 hn_url: https://news.ycombinator.com/item?id=48707146
-score: 18
+score: 86
 author: root-parent
-comments_count: 4
+comments_count: 78
 published_at: '2026-06-28T19:04:14+05:30'
-collected_at: '2026-06-28T19:46:54.511049+05:30'
+collected_at: '2026-06-28T22:07:24.225785+05:30'
 tags:
 - anthropic
 - hackernews
 status: active
 resource_id: hackernews:austria-lobbies-eu-to-host-anthropic-after-us-acce
 first_seen: '2026-06-28T19:46:54.511049+05:30'
-last_seen: '2026-06-28T19:46:54.511049+05:30'
-last_checked: '2026-06-28T19:46:54.511049+05:30'
+last_seen: '2026-06-28T22:07:24.225785+05:30'
+last_checked: '2026-06-28T22:07:24.225785+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by root-parent. Score: 18, Comments: 4.
+Hacker News story by root-parent. Score: 86, Comments: 78.
 Original Link: https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: root-parent
-- Score: 18 Upvotes
-- Comments: 4 Discussions
+- Score: 86 Upvotes
+- Comments: 78 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48707146
 - Original Article: https://bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs
 

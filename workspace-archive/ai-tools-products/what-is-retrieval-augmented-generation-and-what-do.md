@@ -7,14 +7,14 @@ source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmen
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
 local_vault_path: ai/rag/what-is-retrieval-augmented-generation-and-what-do.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: benchmark
-importance: medium
+importance: high
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Nicole Choi specializes in enhancing CI/CD pipelines via GitHub Actions, focusing on performance tuning, cost reduction, and security hardening for scalable workflows.
-
-- **Open-Source Contributions**: Actively contributes to GitHub’s open-source projects, particularly in improving developer tooling, automation scripts, and documentation for enterprise-scale deployments.
-
-- **Security & Compliance Advocacy**: Advocates for secure coding practices, supp
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to open-source documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and best practices.
+- **Social Presence**: Maintains a GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and shares technical insights under the GitHub Blog author tag.
 
 ## Use Cases
 

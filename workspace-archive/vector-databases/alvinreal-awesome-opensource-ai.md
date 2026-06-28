@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -31,8 +32,9 @@ selection_reason:
 
 ## Summary
 
-*   Curated `awesome-list` indexing truly open-source AI projects, models, tools, and infrastructure.
-*   Categorizes resources across key AI domains including agents, generative AI, LLMs, MLOps
+- **Curated Collection**: Aggregates actively maintained open-source AI projects, models, tools, and infrastructure, emphasizing true open-source principles (e.g., permissive licenses, transparency).
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, RAG, and related domains, with a focus on Python-based implementations and cutting-edge advancements.
+- **Dynamic Maintenance**: Updated daily with the latest additions, ensuring relevance; last sync: **2026-06-28T12:27:21Z** (3,
 
 ## Use Cases
 

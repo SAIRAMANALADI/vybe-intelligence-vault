@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 5950 resources matched in the intelligence vault.
+Active signals: 5958 resources matched in the intelligence vault.
 Recently detected signals:
-- [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) (Source: Unknown Source) - Collected 2026-06-28
-- [Learning Center | Cloudflare](../ai/rag/learning-center-cloudflare.md) (Source: Unknown Source) - Collected 2026-06-28
-- [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) (Source: Unknown Source) - Collected 2026-06-28
-- [Integrations | Astro](../ai/rag/integrations-astro.md) (Source: Unknown Source) - Collected 2026-06-28
-- [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) (Source: Unknown Source) - Collected 2026-06-28
+- [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) (Source: Unknown Source) - Collected 2026-06-28
+- [Download Android Studio & App Tools - Android Developers](../ai/rag/download-android-studio-app-tools-android-develope.md) (Source: Unknown Source) - Collected 2026-06-28
+- [Find information about your Windows device | Microsoft Support](../ai/rag/find-information-about-your-windows-device-microso.md) (Source: Unknown Source) - Collected 2026-06-28
+- [Scite – Research Solutions Help & Support Center](../ai/rag/scite-research-solutions-help-support-center.md) (Source: Unknown Source) - Collected 2026-06-28
+- [Google Colab](../ai/rag/google-colab.md) (Source: Unknown Source) - Collected 2026-06-28
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -34,252 +34,252 @@ Recently detected signals:
 ### 1. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval and generation workflows.
+- Description: - **Agentic RAG Implementation**: Demonstrates an agentic RAG pipeline using NVIDIA AI Workbench, integrating retrieval and generation components for dynamic, multi-step reasoning.
 
-### 2. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
+### 2. [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md) ([GitHub](https://github.com/streamlit/example-app-langchain-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured research workflows.
+- Description: - **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval augmented generation (RAG), combining vector similarity search w...
 
-### 3. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 3. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Educational RAG Implementation**: Provides a step-by-step, from-scratch implementation of Retrieval-Augmented Generation (RAG) using local LLMs (via `node-llama-cpp`) to eliminate black-box dep...
+- Description: - **Purpose**: Template for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured AI research workflows.
 
-### 4. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
+### 4. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
-- Description: - **FastAPI-based RAG Framework**: Template implements Retrieval-Augmented Generation (RAG) with vector search for AI chatbots/document management, leveraging FastAPI for RESTful API endpoints.
+- Description: - **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM inference, avoiding external black-box services.
 
 ### 5. [NVIDIA/workbench-example-hybrid-rag](../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-hybrid-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document searc...
+- Description: - **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval methods for enhanced document grounding in LLMs.
 
-### 6. [streamlit/example-app-langchain-rag](../ai/rag/streamlit-example-app-langchain-rag.md) ([GitHub](https://github.com/streamlit/example-app-langchain-rag))
+### 6. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse embeddings) for imp...
+- Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating document retrieval with LLM inference for contextual responses.
 
-### 7. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
+### 7. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with LLM observability via Langfuse, supporting 100+ LLM providers through LiteLLM integration.
+
+### 8. [alfredodeza/azure-rag](../ai/rag/alfredodeza-azure-rag.md) ([GitHub](https://github.com/alfredodeza/azure-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using Azure services, integrating vector search with large language models (LLMs) for enhanced contextual responses.
+
+### 9. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
 - Stars: 0
 - Language: Unknown
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 8. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
+### 10. [stackitcloud/rag-template](../ai/rag/stackitcloud-rag-template.md) ([GitHub](https://github.com/stackitcloud/rag-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system tailored for Vietnamese language processing, leveraging Python-based pipe...
+- Description: - **Purpose**: Template for deploying AI chatbots and document management systems using **Retrieval-Augmented Generation (RAG)** with **vector search** and **FastAPI** backend.
 
-### 9. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
+### 11. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: A Python-based course repository focused on production-level Agentic Retrieval-Augmented Generation (RAG) systems, with 7,052 stars and 1,583 forks.
+- Description: - **Curated Resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Langua...
 
-### 10. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
+### 12. [Azure-Samples/azure-openai-rag-workshop-template](../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([GitHub](https://github.com/azure-samples/azure-openai-rag-workshop-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Provides a TypeScript-based template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services.
+- Description: - **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services, designed for workshop-based learning.
 
-### 11. [ajac-zero/example-rag-app](../ai/rag/ajac-zero-example-rag-app.md) ([GitHub](https://github.com/ajac-zero/example-rag-app))
+### 13. [coree/awesome-rag](../ai/rag/coree-awesome-rag.md) ([GitHub](https://github.com/coree/awesome-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Tech Stack**: TypeScript-based RAG application with Docker support, full type-checking, and 100% test coverage.
+- Description: - **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), includ...
 
-### 12. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
+### 14. [bangoc123/retrieval-backend-with-rag](../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([GitHub](https://github.com/bangoc123/retrieval-backend-with-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Production-Grade RAG Tools**: Repository aggregates battle-tested frameworks, libraries, and tools (e.g., LangChain, vector databases) for scalable, production-ready RAG systems, emphas...
+- Description: - **Vietnamese RAG Implementation**: Repository provides a Retrieval-Augmented Generation (RAG) backend optimized for Vietnamese language processing, including text retrieval and generation pipelines.
 
-### 13. [jxzhangjhu/Awesome-LLM-RAG](../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([GitHub](https://github.com/jxzhangjhu/awesome-llm-rag))
+### 15. [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([GitHub](https://github.com/azure-samples/aisearch-openai-rag-audio))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated Resource**: A comprehensive, community-maintained repository aggregating state-of-the-art research, tools, and frameworks for **Retrieval-Augmented Generation (RAG)** in Large Language ...
+- Description: - **Implementation of VoiceRAG Pattern**: Demonstrates an interactive voice generative AI system using **RAG (Retrieval-Augmented Generation)** with **Azure AI Search** and **Azure OpenAI's `gpt-4o...
 
-### 14. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
-- Stars: 0
-- Language: Unknown
-- Description: - **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Llama, Mistral) via Ollama or vLLM, emphasizing offline inference and reduced API depe...
-
-### 15. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
+### 16. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops.md) ([GitHub](https://github.com/wagneragent/awesome-mcp-servers-devops))
 - Stars: 0
 - Language: Unknown
 - Description: A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC, Kubernetes, CI/CD, cloud, observability, security, and collaboration—with a bias toward maintain...
 
-### 16. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 17. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Visi...
+- Description: - **Repository Overview**: GitHub repository for a production-focused Agentic RAG (Retrieval-Augmented Generation) course, implemented in Python.
 
-### 17. [RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat](../ai/rag/answerdotai-ragatouille.md) ([GitHub](https://github.com/answerdotai/ragatouille))
+### 18. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
-- Description: - **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient, high-precision document retrieval and integration with LLMs.
+- Description: - **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based tutorials demonstrating vector search applications in multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based...
 
-### 18. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
+### 19. [Yigtwxx/awesome-rag-production](../ai/rag/yigtwxx-awesome-rag-production.md) ([GitHub](https://github.com/yigtwxx/awesome-rag-production))
 - Stars: 0
 - Language: Unknown
-- Description: - **Progressive RAG Tutorial**: 6-step guide covering end-to-end RAG development, from embeddings and vector databases to LLM integration and production deployment, with reusable Python utilities a...
+- Description: - **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices tailored for building **scalable, production-grade RAG systems**, covering AI engineering, ...
 
-### 19. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
-- Stars: 0
-- Language: Unknown
-- Description: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
-
-### 20. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: raga-ai-hub/RagaAI-Catalyst
-
-### 21. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by combining hierarchical agents...
-
-### 22. [Azure-Samples/aisearch-openai-rag-audio](../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([GitHub](https://github.com/azure-samples/aisearch-openai-rag-audio))
-- Stars: 0
-- Language: Unknown
-- Description: - **Implementation**: Demonstrates the VoiceRAG pattern using Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model to enable interactive voice-based generative AI experiences.
-
-### 23. [vercel-labs/ai-sdk-preview-rag](../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([GitHub](https://github.com/vercel-labs/ai-sdk-preview-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK in a Next.js environment, integrating document retrieval with LLM generation.
-
-### 24. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive RAG Mastery**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/sc...
-
-### 25. [alfredodeza/azure-rag](../ai/rag/alfredodeza-azure-rag.md) ([GitHub](https://github.com/alfredodeza/azure-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Purpose**: Demonstrates Retrieval Augmented Generation (RAG) implementation using Azure services, leveraging Python for AI-driven document retrieval and generation workflows.
-
-### 26. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive RAG Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) development, integrating Python-based tools and frameworks for AI application deployment.
-
-### 27. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
-- Stars: 0
-- Language: Unknown
-- Description: - **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-
-### 28. [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) ([GitHub](https://github.com/gomate-community/awesome-papers-for-rag))
-- Stars: 0
-- Language: Unknown
-- Description: - **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) architectures, fine-tuning methods, and evaluation fr...
-
-### 29. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([GitHub](https://github.com/embeddings-benchmark/mteb))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive Benchmark Suite**: MTEB provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, reranking, STS, and ...
-
-### 30. [Azure-Samples/app-service-rag-openai-ai-search-dotnet](../ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md) ([GitHub](https://github.com/azure-samples/app-service-rag-openai-ai-search-dotnet))
-- Stars: 0
-- Language: Unknown
-- Description: - **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and AI Search for hybrid search (vector + keyword + semantic ranking) to enab...
-
-### 31. [coree/awesome-rag](../ai/rag/coree-awesome-rag.md) ([GitHub](https://github.com/coree/awesome-rag))
-- Stars: 0
-- Language: Unknown
-- Description: *   Curated `awesome-list` repository aggregating technical resources for Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs).
-
-### 32. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 20. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
 
-### 33. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
+### 21. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
+- Stars: 0
+- Language: Unknown
+- Description: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
+
+### 22. [raga-ai-hub/RagaAI-Catalyst](../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([GitHub](https://github.com/raga-ai-hub/ragaai-catalyst))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: raga-ai-hub/RagaAI-Catalyst
+
+### 23. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications with LLMs, covering embedding, retrieval, and genera...
+
+### 24. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+- Stars: 0
+- Language: Unknown
+- Description: - **Local LLM Integration**: Demonstrates a RAG pipeline leveraging local language models (e.g., Ollama, LM Studio) for offline inference, avoiding cloud dependency.
+
+### 25. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Framework**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, designed for modularity and ease of integration.
+
+### 26. [microsoft/rag-time](../ai/rag/microsoft-rag-time.md) ([GitHub](https://github.com/microsoft/rag-time))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive RAG Mastery**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/sc...
+
+### 27. [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md) ([GitHub](https://github.com/dannyblaker/rag-tutorial))
+- Stars: 0
+- Language: Unknown
+- Description: - **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with reusable Python utilities and hands-on demos.
+
+### 28. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
+- Stars: 0
+- Language: Unknown
+- Description: - **LangChain RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with large language models (LLMs) for enhanced conte...
+
+### 29. [gomate-community/awesome-papers-for-rag](../ai/rag/gomate-community-awesome-papers-for-rag.md) ([GitHub](https://github.com/gomate-community/awesome-papers-for-rag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG), emphasizing technical depth in hybrid retrieval-gener...
+
+### 30. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-modal GraphRAG Engine**: Implements a production-ready GraphRAG system with support for text, structured, and unstructured data indexing, enabling hybrid retrieval across modalities.
+
+### 31. [Azure-Samples/app-service-rag-openai-ai-search-dotnet](../ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md) ([GitHub](https://github.com/azure-samples/app-service-rag-openai-ai-search-dotnet))
+- Stars: 0
+- Language: Unknown
+- Description: - **RAG Implementation**: Demonstrates Retrieval Augmented Generation (RAG) using a Blazor Server app with Azure OpenAI and AI Search for hybrid search (vector + keyword + semantic ranking).
+
+### 32. [VivekMalhan666/rag-beginner-guide](../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([GitHub](https://github.com/vivekmalhan666/rag-beginner-guide))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Step-by-step guide to constructing a Python-based Retrieval-Augmented Generation (RAG) system from the ground up, designed for beginners without relying on abstracted frameworks.
 
-### 34. [tomasonjo/kg-rag](../ai/rag/tomasonjo-kg-rag.md) ([GitHub](https://github.com/tomasonjo/kg-rag))
+### 33. [tomasonjo/kg-rag](../ai/rag/tomasonjo-kg-rag.md) ([GitHub](https://github.com/tomasonjo/kg-rag))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Purpose**: Supports the *Essential GraphRAG* book by Manning, focusing on **Knowledge Graph (KG)-augmented Retrieval-Augmented Generation (RAG)** using **Neo4j** and **OpenAI** for L...
 
+### 34. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveragin...
+
 ### 35. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md) ([GitHub](https://github.com/techwithtim/langflow-rag-tutorial))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Analysis**: The GitHub repository `techwithtim/Langflow-RAG-Tutorial` is a tutorial focused on **Langflow** and **Retrieval-Augmented Generation (RAG)** workflows, though no explicit...
+- Description: - **Repository Overview**: GitHub repository `techwithtim/Langflow-RAG-Tutorial` with 94 stars and 25 forks, last updated on **2026-06-09**.
 
 ### 36. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Memory-Augmented Multi-Agent Framework**: Introduces a novel **memory-based multi-agent system** (MemGraphRAG) for **Graph Retrieval-Augmented Generation (GraphRAG)**, leveraging agentic memory...
+- Description: - **Memory-based Multi-Agent System**: Introduces `MemGraphRAG`, a novel framework leveraging memory-augmented multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enabli...
 
-### 37. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
+### 37. [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) ([GitHub](https://github.com/ibm/mt-rag-benchmark))
 - Stars: 0
 - Language: Unknown
-- Description: - **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with a language model for enhanced responses.
+- Description: - **Benchmark Design**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark evaluating conversational RAG systems with multi-turn interactions, focusing on context retention and iterative que...
 
-### 38. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+### 38. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) ([GitHub](https://github.com/hkuds/rag-anything))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-modal GraphRAG Pipeline**: Implements a production-grade GraphRAG system with support for text, structured, and unstructured data indexing, leveraging knowledge graphs for enhanced retrie...
+- Description: - **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, image, audio, and video modalities, enabling unified cross-modal retrieval and generation wor...
 
-### 39. [Ais1on/CTI-RAG](../ai/rag/ais1on-cti-rag.md) ([GitHub](https://github.com/ais1on/cti-rag))
+### 39. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
 - Stars: 0
 - Language: Unknown
-- Description: - **Framework Architecture**: Implements a Retrieval-Augmented Generation (RAG) system tailored for Cyber Threat Intelligence (CTI) with integrated knowledge graph and causal reasoning modules for ...
+- Description: - **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on large model integration.
 
-### 40. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
+### 40. [Ais1on/CTI-RAG](../ai/rag/ais1on-cti-rag.md) ([GitHub](https://github.com/ais1on/cti-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Framework Overview**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document retrieval and generation.
+- Description: - **Framework**: CTI-RAG integrates **Retrieval-Augmented Generation (RAG)** with **Cyber Threat Intelligence (CTI)**, combining **knowledge graphs** and **causal reasoning** for threat analysis.
 
-### 41. [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) ([GitHub](https://github.com/krishnaik06/rag-tutorials))
+### 41. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([GitHub](https://github.com/embeddings-benchmark/mteb))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: GitHub repository `RAG-Tutorials` by `krishnaik06` containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) techniques, with 356 stars and 323 forks.
+- Description: - **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) evaluates text embeddings across 58 datasets spanning 11 tasks including retrieval, clustering, classification, and reranking, support...
 
-### 42. [Danielskry/Awesome-RAG](../ai/rag/danielskry-awesome-rag.md) ([GitHub](https://github.com/danielskry/awesome-rag))
+### 42. [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) ([GitHub](https://github.com/krishnaik06/rag-tutorials))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools for generative AI applications.
+- Description: - **Repository Overview**: GitHub repository `RAG-Tutorials` by `krishnaik06` contains Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) techniques, with 356 stars and 324 forks.
 
-### 43. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
+### 43. [towardsai/ragbook-notebooks](../ai/rag/towardsai-ragbook-notebooks.md) ([GitHub](https://github.com/towardsai/ragbook-notebooks))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction via AI IDEs (Claude Code, Cursor, Codex CLI, ChatGPT).
+- Description: - Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
 
-### 44. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+### 44. [Danielskry/Awesome-RAG](../ai/rag/danielskry-awesome-rag.md) ([GitHub](https://github.com/danielskry/awesome-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context retrieval and multi-step reas...
+- Description: - **Curated RAG Resources**: Comprehensive repository aggregating applications, tools, frameworks, and research papers focused on Retrieval-Augmented Generation (RAG) in Generative AI.
 
-### 45. [olegnazarov/rag-security-scanner](../ai/rag/olegnazarov-rag-security-scanner.md) ([GitHub](https://github.com/olegnazarov/rag-security-scanner))
+### 45. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Tool Overview**: Python-based RAG/LLM Security Scanner designed to detect critical vulnerabilities in AI applications (e.g., chatbots, virtual assistants) via automated security testing.
+- Description: - **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker, with a focus on GenAI integ...
 
-### 46. [IBM/mt-rag-benchmark](../ai/rag/ibm-mt-rag-benchmark.md) ([GitHub](https://github.com/ibm/mt-rag-benchmark))
+### 46. [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) ([GitHub](https://github.com/fudandnn-nlp/rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Purpose**: Evaluates **Multi-Turn Retrieval-Augmented Generation (RAG)** systems, focusing on conversational context retention and iterative retrieval.
+- Description: - **Implementation of EMNLP2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"* focusing on RAG optimizati...
 
-### 47. [bakrianoo/mini-rag](../ai/rag/bakrianoo-mini-rag.md) ([GitHub](https://github.com/bakrianoo/mini-rag))
+### 47. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
 - Stars: 0
 - Language: Unknown
-- Description: - **Educational RAG Pipeline**: Step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application in Python, covering architecture, deployment, and scalability.
+- Description: - **End-to-end GenAI agent development**: Provides code-first tutorials covering prototype-to-production workflows for building production-grade GenAI agents, including deployment strategies and en...
 
-### 48. [chaoql/rag-best-practices](../ai/rag/chaoql-rag-best-practices.md) ([GitHub](https://github.com/chaoql/rag-best-practices))
+### 48. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: A Python-based repository (`chaoql/rag-best-practices`) focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), last updated...
+- Description: - **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows, enabling dynamic context augmentation and multi-step reasoning for...
 
-### 49. [zhengxuJosh/Awesome-RAG-Vision](../ai/rag/zhengxujosh-awesome-rag-vision.md) ([GitHub](https://github.com/zhengxujosh/awesome-rag-vision))
+### 49. [Phala-Network/ai-agent-template-openai](../ai/rag/phala-network-ai-agent-template-openai.md) ([GitHub](https://github.com/phala-network/ai-agent-template-openai))
 - Stars: 0
 - Language: Unknown
-- Description: - **Curated RAG-Vision Resources**: A GitHub repository compiling advanced retrieval-augmented generation (RAG) techniques specifically tailored for Computer Vision applications.
+- Description: - **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on the Phala Network using OpenAI's API integration.
 
-### 50. [FudanDNN-NLP/RAG](../ai/rag/fudandnn-nlp-rag.md) ([GitHub](https://github.com/fudandnn-nlp/rag))
+### 50. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md) ([GitHub](https://github.com/wgcyeo/universalrag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Implementation**: Provides a Python-based implementation of the EMNLP 2024 paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
+- Description: - **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over diverse data modalities (text, images, tables, etc.) and granularities (document-...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-28T20:02:33.437064+05:30.505968+05:30.614896+05:30.243869+05:30.902836+05:30.632177+05:30.841957+05:30.289890+05:30.412615+05:30.385433+05:30.705570+05:30.925291+05:30.425661+05:30.902856+05:30.576583+05:30.602969+05:30.348030+05:30.799915+05:30.731221+05:30.165232+05:30.468884+05:30.435751+05:30.101818+05:30.410852+05:30.439717+05:30.660433+05:30.953648+05:30.046662+05:30.270865+05:30.946604+05:30.075552+05:30.478604+05:30.814458+05:30.811415+05:30.114458+05:30.108888+05:30.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-28T22:23:03.228740+05:30.437064+05:30.505968+05:30.614896+05:30.243869+05:30.902836+05:30.632177+05:30.841957+05:30.289890+05:30.412615+05:30.385433+05:30.705570+05:30.925291+05:30.425661+05:30.902856+05:30.576583+05:30.602969+05:30.348030+05:30.799915+05:30.731221+05:30.165232+05:30.468884+05:30.435751+05:30.101818+05:30.410852+05:30.439717+05:30.660433+05:30.953648+05:30.046662+05:30.270865+05:30.946604+05:30.075552+05:30.478604+05:30.814458+05:30.811415+05:30.114458+05:30.108888+05:30.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

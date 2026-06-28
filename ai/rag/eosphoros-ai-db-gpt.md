@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-06-28T19:49:04.686073+05:30'
-published_at: '2026-06-28T13:08:06Z'
+collected_at: '2026-06-28T22:09:29.496473+05:30'
+published_at: '2026-06-28T14:53:27Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - openai
 - python
 - rag
-stars: 19130
+stars: 19133
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-06-19T15:32:08Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-06-28T19:49:04.686073+05:30'
-last_seen: '2026-06-28T19:49:04.686073+05:30'
-last_checked: '2026-06-28T19:49:04.686073+05:30'
+first_seen: '2026-06-28T22:09:29.496473+05:30'
+last_seen: '2026-06-28T22:09:29.496473+05:30'
+last_checked: '2026-06-28T22:09:29.496473+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Framework**: Open-source Python-based system enabling autonomous AI agents for database interactions, leveraging LLMs (e.g., GPT-4, DeepSeek, Vicuna) for natural language-to-SQL conversion and data operations.
+- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases via LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based data augmentation.
 
-- **Privacy & Security Focus**: Implements RAG (Retrieval-Augmented Generation) with private/local LLM deployment to ensure data confidentiality, avoiding third-party cloud dependencies.
+- **Multi-Model & Private Deployment**: Supports integration with proprietary LLMs (BGI, GPT variants) and emphasizes local/private deployment for enhanced security and data control.
 
-- **Modular Architecture**: Supports multi-database integration (e.g., PostgreSQL, MySQL) with extensible plugins for agents, security policies, and custom LLM backends, optimized for Hacktoberfest contributions.
+- **Modular Architecture**: Python-based system with pluggable components for agents, RAG pipelines, and database connectors, optimized for scalability and hacktoberfest contributions.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19130
-- Forks: 2763
+- Stars: 19133
+- Forks: 2764
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-06-28T13:08:06Z
+- Last Updated: 2026-06-28T14:53:27Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z

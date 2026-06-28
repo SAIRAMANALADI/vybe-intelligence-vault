@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,209</p>
-        <p><b>Active:</b> 8,956 | <b>Inactive:</b> 253</p>
+        <p><b>Resources tracked:</b> 9,232</p>
+        <p><b>Active:</b> 8,978 | <b>Inactive:</b> 254</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 34,987</p>
+        <p><b>Archive Files:</b> 35,060</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 21:47 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 22:24 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,26 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[Google limits Meta's use of its Gemini AI models](ai/community/google-limits-meta-s-use-of-its-gemini-ai-models.md)** • <kbd>+73 pts</kbd> • Rank: <kbd>+4</kbd>
+- 🔼 **[Austria Lobbies EU to Host Anthropic After US Access Curbs](ai/community/austria-lobbies-eu-to-host-anthropic-after-us-acce.md)** • <kbd>+68 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+59 pts</kbd> • Rank: <kbd>+2</kbd>
+- 🔼 **[The origins of the school system aimed to produce independent, critical thinkers](ai/community/the-origins-of-the-school-system-aimed-to-produce.md)** • <kbd>+44 pts</kbd>
+- 🔼 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)** • <kbd>+11 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • Score: `8`
+- 🆕 **[Download Android Studio & App Tools - Android Developers](ai/rag/download-android-studio-app-tools-android-develope.md)** • Score: `0`
+- 🆕 **[Develop for Android | Android Developers](ai/resources/develop-for-android-android-developers.md)** • Score: `0`
+- 🆕 **[Veo 3.1 â Google DeepMind](ai/resources/veo-3-1-a-google-deepmind.md)** • Score: `0`
+- 🆕 **[Understand errors and warnings better with console insights | Chrome DevTools | Chrome for Developers](ai/resources/understand-errors-and-warnings-better-with-console.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)**
+- 💤 **[From Hallmark to neon signs: A look at Jim Parkinson's career in letter art](ai/community/from-hallmark-to-neon-signs-a-look-at-jim-parkinso.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-28T19:48:59.651568+05:30'
+collected_at: '2026-06-28T22:09:19.492911+05:30'
 published_at: '2026-06-28T12:33:58Z'
 tags:
 - frontend_ui
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-28T19:48:59.651568+05:30'
-last_seen: '2026-06-28T19:48:59.651568+05:30'
-last_checked: '2026-06-28T19:48:59.651568+05:30'
+first_seen: '2026-06-28T22:09:19.492911+05:30'
+last_seen: '2026-06-28T22:09:19.492911+05:30'
+last_checked: '2026-06-28T22:09:19.492911+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss) with flexible file ingestion.
+- **Modular RAG Framework**: QuivrHQ/quivr provides an opinionated Retrieval-Augmented Generation (RAG) system designed for seamless GenAI integration into applications, abstracting complexity for developers to focus on product development.
 
-- **Multi-Platform Compatibility**: Supports any LLM backend, vector database, and file types, with integration options via API, Docker, and frontend (React/TypeScript) for cross-platform deployment.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse AI and storage backends with customizable configurations.
 
-- **Privacy & Security Focus**: Emphasizes privacy and security in AI-driven applications, offering PostgreSQL-backed storage and customizable deployment for enterprise-grade use cases.
+- **Full-Stack Integration**: Offers a Python-based backend with Docker support, alongside a React/TypeScript frontend, enabling end-to-end AI-powered solutions with robust API, security, and privacy features.
 
 ## Why It Matters
 

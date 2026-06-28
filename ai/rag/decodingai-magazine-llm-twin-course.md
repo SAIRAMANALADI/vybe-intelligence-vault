@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-28T19:48:34.614910+05:30'
+collected_at: '2026-06-28T22:08:59.443763+05:30'
 published_at: '2026-06-28T11:17:20Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-28T19:48:34.614910+05:30'
-last_seen: '2026-06-28T19:48:34.614910+05:30'
-last_checked: '2026-06-28T19:48:34.614910+05:30'
+first_seen: '2026-06-28T22:08:59.443763+05:30'
+last_seen: '2026-06-28T22:08:59.443763+05:30'
+last_checked: '2026-06-28T22:08:59.443763+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on guide to building a production-ready LLM and RAG system using LLMOps best practices, including 12 instructor-led sessions and source code.
-- **Tech Stack**: Implements AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Superlinked (embeddings), and integrates tools like Comet ML, Qwak, and Docker for MLOps.
-- **Focus Areas**: Covers ML system design, infrastructure-as-code, and end-to-end deployment workflows for generative AI applications.
+- **Course Structure**: Provides a hands-on, end-to-end guide for building production-ready **Large Language Model (LLM)** and **Retrieval-Augmented Generation (RAG)** systems using **LLMOps** best practices, including 12 structured lessons and source code.
+
+- **Technical Stack**: Implements **Python**-based infrastructure with key tools like **AWS** (cloud), **Bytewax** (streaming), **Qdrant** (vector DB), **Pulumi** (IaC), **Comet-ML** (experiment tracking), and **Docker** for containerization.
+
+- **MLOps & Deployment**: Covers **ML system design**, **infrastructure-as-code (IaC)**, and integration with platforms like **Qwak** and **Superlinked**, emphasizing scalable, production-grade deployment workflows.
 
 ## Why It Matters
 

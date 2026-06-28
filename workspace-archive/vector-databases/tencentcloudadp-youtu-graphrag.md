@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by combining hierarchical agents (e.g., planner, retriever, executor) with graph-based knowledge structures.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
 
-- **Graph-Centric RAG Pipeline**: Implements a graph-augmented retrieval mechanism where knowledge graphs dynamically enhance LLM reasoning by resolving entities, relationships, and contextual dependencies during inference.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize structured knowledge from heterogeneous graphs, improving factual
 
 ## Use Cases
 

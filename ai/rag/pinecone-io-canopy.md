@@ -6,13 +6,13 @@ source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/canopy?source=post_page
 resource_id: github:pinecone-io/canopy
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-28T03:50:39.179428+05:30'
+collected_at: '2026-06-28T22:11:19.590270+05:30'
 published_at: '2026-06-25T23:37:23Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
-- workflows
 stars: 1032
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: true
 created_at: '2023-08-08T15:42:16Z'
 pushed_at: '2024-11-13T06:32:28Z'
 resource_id: github:pinecone-io/canopy
-first_seen: '2026-06-28T03:50:39.179428+05:30'
-last_seen: '2026-06-28T03:50:39.179428+05:30'
-last_checked: '2026-06-28T03:50:39.179428+05:30'
+first_seen: '2026-06-28T22:11:19.590270+05:30'
+last_seen: '2026-06-28T22:11:19.590270+05:30'
+last_checked: '2026-06-28T22:11:19.590270+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Framework**: Python-based Retrieval Augmented Generation (RAG) framework integrating Pinecone's vector database for enhanced LLM context retrieval and generation.
-- **Context Engine**: Provides a structured context engine to optimize prompt augmentation and improve LLM response accuracy using vector similarity search.
-- **Pinecone Integration**: Leverages Pinecone's managed vector database for scalable, low-latency semantic search and retrieval in generative AI workflows.
+- **RAG Framework**: Canopy is a Retrieval Augmented Generation (RAG) framework designed to enhance LLMs with dynamic context retrieval from Pinecone's vector database, enabling real-time, context-aware responses.
+
+- **Context Engine**: Implements a modular context engine for efficient document indexing, retrieval, and prompt augmentation, optimizing LLM performance via structured context management.
+
+- **Pinecone Integration**: Tightly coupled with Pinecone's vector DB for scalable similarity search, supporting hybrid retrieval (dense + sparse vectors) and real-time updates for dynamic datasets.
 
 ## Why It Matters
 

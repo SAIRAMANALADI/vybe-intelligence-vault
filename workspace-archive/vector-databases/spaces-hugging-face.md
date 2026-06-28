@@ -8,10 +8,11 @@ local_vault_path: ai/rag/spaces-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -24,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Boogu-Image-0.1** is a multimodal AI model enabling image generation/editing with text prompts, hosted on Hugging Face Spaces.
-- Features **Edit** and **Turbo** modes for high-quality edits and accelerated inference, respectively.
-- Built on a **diffusion-based architecture** optimized for multimodal tasks, leveraging transformer-based cross-attention mechanisms.
+- **Boogu-Image-0.1** is a multimodal AI model enabling image editing and generation, leveraging diffusion-based techniques for high-quality outputs.
+- Supports **turbo mode** for accelerated inference, optimizing speed without significant quality degradation.
+- Deployed as a **Hugging Face Space**, providing an interactive web interface for real-time image manipulation and generation tasks.
 
 ## Use Cases
 

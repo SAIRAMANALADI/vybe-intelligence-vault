@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, LLMs, and tools (e.g., `llama-cpp`, `openai-gym`) for self-hosted agentic workflows.
-- **Technical Stack**: TypeScript-based examples with Docker Compose for containerized AI agent orchestration, supporting modular integration of LLMs and tools.
-- **Use Case**: Ready-to-use templates for building scalable, self-hosted AI agents with Docker-based deployment and runtime management.
+- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, LLMs (e.g., `llama-cpp`), tools, and agent runtimes for agentic workflows.
+- **Technical Stack**: TypeScript-based examples with Docker integration, supporting self-hosted setups and compatibility with frameworks like OpenAI Gym.
+- **Features**: Ready-to-use templates for managing agentic workflows, LLMs, and tools, last updated June 2026 with 986 stars and 443 forks.
 
 ## Use Cases
 

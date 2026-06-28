@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-28T19:49:24.701328+05:30'
+collected_at: '2026-06-28T22:09:44.475611+05:30'
 published_at: '2026-06-25T08:17:18Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-28T19:49:24.701328+05:30'
-last_seen: '2026-06-28T19:49:24.701328+05:30'
-last_checked: '2026-06-28T19:49:24.701328+05:30'
+first_seen: '2026-06-28T22:09:44.475611+05:30'
+last_seen: '2026-06-28T22:09:44.475611+05:30'
+last_checked: '2026-06-28T22:09:44.475611+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Multi-Agent Framework**: Introduces a vertically integrated agent system for Graph Retrieval-Augmented Generation (GraphRAG), enabling complex reasoning by combining hierarchical agents (e.g., planner, retriever, executor) with graph-based knowledge structures.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-aware decision-making.
 
-- **Graph-Centric RAG Pipeline**: Implements a graph-augmented retrieval mechanism where knowledge graphs dynamically enhance LLM reasoning by resolving entities, relationships, and contextual dependencies during inference.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize structured knowledge from heterogeneous graphs, improving factual accuracy and reasoning depth.
 
-- **Optimized for Complex Queries**: Demonstrates superior performance on multi-hop, cross-domain reasoning tasks by leveraging graph-aware attention and retrieval strategies, validated on ICLR 2026 benchmarks.
+- **ICLR 2026 Contribution**: Proposes a novel architecture combining graph-based memory, adaptive agent routing, and LLM-driven reasoning, achieving state-of-the-art performance on complex reasoning benchmarks (e.g., multi-hop QA, logical inference).
 
 ## Why It Matters
 

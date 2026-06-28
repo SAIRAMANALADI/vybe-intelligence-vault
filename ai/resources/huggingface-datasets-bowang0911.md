@@ -4,19 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/datasets/bowang0911/ToolSearch
-published_at: '2026-06-26T01:57:33.816359+05:30'
-collected_at: '2026-06-26T01:57:33.816373+05:30'
+published_at: '2026-06-28T22:11:30.367458+05:30'
+collected_at: '2026-06-28T22:11:30.367476+05:30'
 tags:
 - benchmark
 - dataset
-- hackernews
+- models
 - reddit
 - web-crawled
 status: active
 resource_id: huggingface:datasets/bowang0911
-first_seen: '2026-06-26T01:57:33.816373+05:30'
-last_seen: '2026-06-26T01:57:33.816373+05:30'
-last_checked: '2026-06-26T01:57:33.816373+05:30'
+first_seen: '2026-06-28T22:11:30.367476+05:30'
+last_seen: '2026-06-28T22:11:30.367476+05:30'
+last_checked: '2026-06-28T22:11:30.367476+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Composition**: Contains 580 English programming tools with descriptions and corresponding natural language prompts, structured as a retrieval benchmark with `test`, `corpus`, and `queries` splits for relevance judgments, tool documents, and user prompts respectively.
+- **Dataset Specification**: ToolSearch is a 580-entry English text retrieval benchmark for tool retrieval, structured in MTEB format with `test` (relevance judgments), `corpus` (tool documents), and `queries` (user prompts) splits, stored in Parquet format under MIT license.
 
-- **Technical Format**: Distributed in Parquet format via Hugging Face `datasets` library, with a standardized MTEB retrieval schema (`query-id`, `corpus-id`, `score`) and metadata fields (`title`, `text`).
+- **Retrieval Task**: Evaluates embedding models on matching 580 natural language user prompts to relevant programming tools (e.g., GitHub APIs) with relevance scores, supporting metrics like Recall@K.
 
-- **Benchmark Performance**: Evaluates embedding models on tool retrieval with metrics like Recall@K; top-performing models include `ToolRet-trained-bge-large` (Recall@10: 94.1%) and `Qwen3-Embedding-0.6B` (Recall@10: 87.9%), outperforming lexical baseline BM25 (Recall@10: 81.6%).
+- **Benchmark Performance**: ToolRet-trained models (bge-base/large) achieve state-of-the-art results (e.g., 69.8% Recall@1) compared to baselines (BM25: 46.6%, all-MiniLM-L6-v2: 50.7%), demonstrating domain-specific fine-tuning efficacy.
 
 ## Why It Matters
 
@@ -38,13 +38,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T01:57:33.816359+05:30
+- Published: 2026-06-28T22:11:30.367458+05:30
 
 ## Related Tags
 
 - benchmark
 - dataset
-- hackernews
+- models
 - reddit
 - web-crawled
 

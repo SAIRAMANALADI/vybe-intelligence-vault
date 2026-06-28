@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-28T19:49:19.662692+05:30'
+collected_at: '2026-06-28T22:09:44.450021+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-28T19:49:19.662692+05:30'
-last_seen: '2026-06-28T19:49:19.662692+05:30'
-last_checked: '2026-06-28T19:49:19.662692+05:30'
+first_seen: '2026-06-28T22:09:44.450021+05:30'
+last_seen: '2026-06-28T22:09:44.450021+05:30'
+last_checked: '2026-06-28T22:09:44.450021+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or documents, enhancing reasoning depth.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended interactions, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge RAG system with 339 GitHub stars, emphasizing advancements in memory-augmented AI for complex reasoning tasks.
+- **AAAI 2026 Submission**: Presented as a poster at AAAI 2026, featuring a Python-based implementation with 339 stars and 47 forks, last updated June 24, 2026.
 
 ## Why It Matters
 

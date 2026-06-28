@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-28T15:10:27.739866+05:30'
-collected_at: '2026-06-28T15:10:27.739880+05:30'
+published_at: '2026-06-28T22:11:24.914628+05:30'
+collected_at: '2026-06-28T22:11:24.914646+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-28T15:10:27.739880+05:30'
-last_seen: '2026-06-28T15:10:27.739880+05:30'
-last_checked: '2026-06-28T15:10:27.739880+05:30'
+first_seen: '2026-06-28T22:11:24.914646+05:30'
+last_seen: '2026-06-28T22:11:24.914646+05:30'
+last_checked: '2026-06-28T22:11:24.914646+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j Core Project**: Open-source Java-based graph database implementing native graph storage, ACID transactions, and the Cypher query language; flagship repository (`neo4j/neo4j`) with 16.8k stars and 2.6k forks.
+- **Neo4j Core Engine**: Open-source graph database implementation in Java (`neo4j/neo4j`), supporting ACID transactions, Cypher query language, and native graph storage with ~16.8k GitHub stars.
 
-- **Graph Data Science Ecosystem**: Provides algorithmic libraries (`graph-data-science`, `graph-data-science-client`) in Java/Python for scalable graph analytics, including PageRank, community detection, and centrality measures.
+- **Graph Data Science (GDS) Library**: Provides scalable graph algorithms (e.g., PageRank, community detection) via `neo4j/graph-data-science` (Java) and Python client (`graph-data-science-client`), with Apache-2.0 licensing.
 
-- **Multi-Language Driver Support**: Maintains official Bolt protocol drivers for JavaScript (915 stars), Python (1.0k stars), and Java (342 stars), enabling programmatic interaction with Neo4j across major programming languages.
+- **Multi-Language Bolt Drivers**: Official drivers for Java (`neo4j-java-driver`), Python (`neo4j-python-driver`), JavaScript (`neo4j-javascript-driver`), and Scala (`neo4j-spark-connector`), enabling Bolt protocol integration with Neo4j clusters.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:10:27.739866+05:30
+- Published: 2026-06-28T22:11:24.914628+05:30
 
 ## Related Tags
 

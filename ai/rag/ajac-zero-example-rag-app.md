@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ajac-zero/example-rag-app
-collected_at: '2026-06-28T19:48:29.606663+05:30'
+collected_at: '2026-06-28T22:08:49.437261+05:30'
 published_at: '2026-03-17T09:29:28Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - typescript
 stars: 159
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-02-18T16:15:24Z'
 pushed_at: '2026-01-15T20:18:12Z'
 resource_id: github:ajac-zero/example-rag-app
-first_seen: '2026-06-28T19:48:29.606663+05:30'
-last_seen: '2026-06-28T19:48:29.606663+05:30'
-last_checked: '2026-06-28T19:48:29.606663+05:30'
+first_seen: '2026-06-28T22:08:49.437261+05:30'
+last_seen: '2026-06-28T22:08:49.437261+05:30'
+last_checked: '2026-06-28T22:08:49.437261+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with Docker support, full type-checking, and 100% test coverage.
-- **Observability & Providers**: Integrates Langfuse for LLM observability and LiteLLM for support of 100+ LLM providers.
-- **Features**: Open-source, modular architecture, and last updated March 17, 2026.
+- **RAG Application**: Open-source Retrieval-Augmented Generation (RAG) app with LLM observability via Langfuse, supporting 100+ LLM providers through LiteLLM integration.
+
+- **Technical Stack**: Dockerized, TypeScript-based with full type-checking, 100% test coverage, and modular architecture for extensibility.
+
+- **Metadata**: 159 stars, 24 forks, last updated March 17, 2026, categorized under AI, LLM, and RAG topics.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-28T19:48:54.651664+05:30'
+collected_at: '2026-06-28T22:09:14.476413+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-28T19:48:54.651664+05:30'
-last_seen: '2026-06-28T19:48:54.651664+05:30'
-last_checked: '2026-06-28T19:48:54.651664+05:30'
+first_seen: '2026-06-28T22:09:14.476413+05:30'
+last_seen: '2026-06-28T22:09:14.476413+05:30'
+last_checked: '2026-06-28T22:09:14.476413+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: CRAG is a **Comprehensive benchmark** designed to evaluate **Retrieval-Augmented Generation (RAG)** systems, providing standardized metrics for performance assessment.
-- **Implementation**: The repository contains **Jupyter Notebooks** with structured evaluation pipelines, enabling reproducible testing of RAG models across diverse datasets and tasks.
-- **Scope**: Focuses on **systematic benchmarking** of RAG components (retrieval, generation, and integration) with automated scoring for factuality, relevance, and robustness.
+- **Benchmark Design**: CRAG is a **Comprehensive RAG (Retrieval-Augmented Generation) benchmark** designed to evaluate RAG systems across **multiple dimensions**, including factuality, robustness, and efficiency, using **real-world and synthetic datasets**.
+
+- **Evaluation Framework**: The repository provides a **modular evaluation framework** with **standardized metrics** (e.g., EM, F1, hallucination rate) and **customizable pipelines** for assessing RAG models under varying conditions (e.g., noisy retrieval, multi-hop queries).
+
+- **Implementation**: Includes **Jupyter Notebook-based implementations** for reproducibility, with **predefined baselines** (e.g., dense retrieval, sparse retrieval) and **extensible APIs** for integrating new RAG components or datasets.
 
 ## Why It Matters
 

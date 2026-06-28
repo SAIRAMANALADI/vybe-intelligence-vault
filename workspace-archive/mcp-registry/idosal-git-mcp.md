@@ -6,14 +6,15 @@ source_url: https://github.com/idosal/git-mcp
 resource_id: github:idosal/git-mcp
 local_vault_path: ai/agents/idosal-git-mcp.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 - workflows
 selection_reason:
@@ -26,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-*   GitMCP is a TypeScript-based remote server implementing a "Master Control Program" (MCP) protocol to mitigate code hallucinations from LLM-powered coding assistants.
-*   It provides a supervisory layer for agentic AI workflows, integrating with GitHub projects to enhance the reliability of AI-generated code.
-*   The system targets improved accuracy for tools like Copilot, Claude, and Cursor by introducing a controlled interaction framework for AI agents.
+- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate code hallucinations by providing structured access to GitHub repositories for AI agents.
+- **Technical Stack**: Implemented in TypeScript, it enables integration with LLM-based tools (e.g., Claude, Copilot, Cursor) via the MCP protocol.
+- **Features**: Facilitates agentic workflows by exposing GitHub project data (e.g., repos, issues, PRs) for real-time, hallucination-free code interactions.
 
 ## Use Cases
 

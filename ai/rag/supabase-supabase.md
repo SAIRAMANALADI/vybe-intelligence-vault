@@ -1,36 +1,35 @@
 ---
-title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
-published_at: '2026-06-28T19:54:21.637109+05:30'
-collected_at: '2026-06-28T19:54:21.637126+05:30'
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx
+published_at: '2026-06-28T22:13:13.472908+05:30'
+collected_at: '2026-06-28T22:13:13.472917+05:30'
 tags:
 - frontend_ui
+- hackernews
+- meta-ai
+- models
 - openai
 - rag
 - reddit
 - web-crawled
-- workflows
-- youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-28T19:54:21.637126+05:30'
-last_seen: '2026-06-28T19:54:21.637126+05:30'
-last_checked: '2026-06-28T19:54:21.637126+05:30'
+first_seen: '2026-06-28T22:13:13.472917+05:30'
+last_seen: '2026-06-28T22:13:13.472917+05:30'
+last_checked: '2026-06-28T22:13:13.472917+05:30'
 health_score: 100
 ---
 
-# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
 
 ## Summary
 
-- Supabase docs support four document types: **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented, multi-step), **Guides** (short, procedure-focused), and **Reference** (factual, parameter/return-type-focused, auto-generated from spec files).
-
-- Docs are structured in MDX with YAML frontmatter; navigation entries are defined in `NavigationMenu.constants.ts`, and reference docs are auto-generated from spec files (e.g., `supabase_js_v2.yml`) via `$ref` and transformed via Makefile workflows.
-
-- Content reuse is enforced via **partials** in `apps/docs/content/_partials`; admonitions (`danger`, `tip`, etc.) must be used sparingly, and code blocks require Prettier formatting (JS/TS) and lowercase SQL syntax.
+- **Postgres + pgvector Integration**: Supabase provides an open-source toolkit for AI applications using Postgres with `pgvector` for storing, indexing, and querying vector embeddings at scale.
+- **Multi-Model Support**: Includes Python client for unstructured embeddings, Edge Functions for open-source model-based embedding generation, and integrations with AI providers (OpenAI, Hugging Face, LangChain, etc.).
+- **Search & Use Cases**: Supports semantic, keyword, and hybrid search; examples include image search (CLIP), caption generation (Hugging Face), and Retrieval-Augmented Generation (RAG) for ChatGPT-style applications.
 
 ## Why It Matters
 
@@ -40,18 +39,19 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:54:21.637109+05:30
+- Published: 2026-06-28T22:13:13.472908+05:30
 
 ## Related Tags
 
 - frontend_ui
+- hackernews
+- meta-ai
+- models
 - openai
 - rag
 - reddit
 - web-crawled
-- workflows
-- youtube
 
 ## Source
 
-Original source: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+Original source: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx

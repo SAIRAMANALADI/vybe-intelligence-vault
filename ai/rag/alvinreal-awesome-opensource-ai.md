@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-06-28T19:48:44.579472+05:30'
+collected_at: '2026-06-28T22:09:04.422228+05:30'
 published_at: '2026-06-28T12:27:21Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 3967
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-06-28T12:27:19Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-06-28T19:48:44.579472+05:30'
-last_seen: '2026-06-28T19:48:44.579472+05:30'
-last_checked: '2026-06-28T19:48:44.579472+05:30'
+first_seen: '2026-06-28T22:09:04.422228+05:30'
+last_seen: '2026-06-28T22:09:04.422228+05:30'
+last_checked: '2026-06-28T22:09:04.422228+05:30'
 health_score: 100
 ---
 
@@ -29,8 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curated `awesome-list` indexing truly open-source AI projects, models, tools, and infrastructure.
-*   Categorizes resources across key AI domains including agents, generative AI, LLMs, MLOps
+- **Curated Collection**: Aggregates actively maintained open-source AI projects, models, tools, and infrastructure, emphasizing true open-source principles (e.g., permissive licenses, transparency).
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, RAG, and related domains, with a focus on Python-based implementations and cutting-edge advancements.
+- **Dynamic Maintenance**: Updated daily with the latest additions, ensuring relevance; last sync: **2026-06-28T12:27:21Z** (3,967 ⭐, 466 🍴).
 
 ## Why It Matters
 

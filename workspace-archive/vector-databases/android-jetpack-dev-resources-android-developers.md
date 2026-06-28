@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Jetpack Suite**: A modular set of Android libraries designed to reduce boilerplate code, enforce best practices, and ensure cross-version/device compatibility, enabling developers to focus on core functionality while handling complex tasks like lifecycle management, navigation, and background processing.
+- **Jetpack** is a suite of libraries designed to enforce best practices, reduce boilerplate code, and ensure cross-version/device compatibility, enabling developers to focus on core functionality.
 
-- **Jetpack Compose**: A modern, declarative UI toolkit for building native Android interfaces programmatically, replacing XML-based layouts with composable functions for simplified, accele
+- **Jetpack Compose** is a modern, declarative UI toolkit for building native Android interfaces, simplifying and accelerating UI development through composable functions.
+
+- **Key Jetpack libraries** include `activity`, `navigation`, `room`, `lifecycle`, and `compose`, which handle tasks like lifecy
 
 ## Use Cases
 

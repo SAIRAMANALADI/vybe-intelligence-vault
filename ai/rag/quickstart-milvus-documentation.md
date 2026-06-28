@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://milvus.io/docs/quickstart.md
-published_at: '2026-06-26T01:57:26.182401+05:30'
-collected_at: '2026-06-26T01:57:26.182414+05:30'
+published_at: '2026-06-28T22:11:15.392193+05:30'
+collected_at: '2026-06-28T22:11:15.392208+05:30'
 tags:
 - agents
 - anthropic
@@ -14,13 +14,12 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:quickstart-milvus-documentation
-first_seen: '2026-06-26T01:57:26.182414+05:30'
-last_seen: '2026-06-26T01:57:26.182414+05:30'
-last_checked: '2026-06-26T01:57:26.182414+05:30'
+first_seen: '2026-06-28T22:11:15.392208+05:30'
+last_seen: '2026-06-28T22:11:15.392208+05:30'
+last_checked: '2026-06-28T22:11:15.392208+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Milvus Lite**: Lightweight, embeddable vector database (via `pymilvus`) for local Python applications, storing data in a single file (e.g., `milvus_demo.db`), with support for semantic search, metadata filtering, and CRUD operations.
-- **Vector Search Workflow**: Encode text to vectors (768D by default) using embedding models (e.g., `paraphrase-albert-small-v2`), insert into collections, and query via vector similarity or scalar filters (e.g., `subject == 'biology'`).
-- **Scalability & Deployment**: Supports Docker/Kubernetes for production; Milvus Lite data can be migrated to full deployments; API remains consistent across modes (URI/token-based connection).
+- **Milvus Lite**: Lightweight, embeddable Python library (`pymilvus`) for local vector database operations, supporting quick prototyping with minimal setup (Python 3.8+ required).
+- **Vector Search & Metadata Filtering**: Enables semantic search via vector embeddings (e.g., COSINE similarity) with optional scalar field filtering (e.g., `subject == 'biology'`) for enhanced query precision.
+- **Deployment Flexibility**: Supports Milvus Lite (local file storage), Docker/Kubernetes (production), and seamless migration between modes via standardized API (`MilvusClient` with URI/token configuration).
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T01:57:26.182401+05:30
+- Published: 2026-06-28T22:11:15.392193+05:30
 
 ## Related Tags
 
@@ -51,7 +50,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source

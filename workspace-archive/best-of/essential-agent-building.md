@@ -13,6 +13,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`apecloud-aperag.md`](../../ai/rag/apecloud-aperag.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
@@ -58,11 +63,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
 - **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`redhat-data-and-ai-template-mcp-server.md`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md)
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-28 20:03 IST*
+*Last updated: 2026-06-28 22:24 IST*

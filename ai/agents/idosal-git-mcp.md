@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-06-28T15:06:12.282679+05:30'
-published_at: '2026-06-28T03:19:58Z'
+collected_at: '2026-06-28T22:09:59.442736+05:30'
+published_at: '2026-06-28T15:18:58Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 - workflows
 stars: 8210
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-06-28T15:06:12.282679+05:30'
-last_seen: '2026-06-28T15:06:12.282679+05:30'
-last_checked: '2026-06-28T15:06:12.282679+05:30'
+first_seen: '2026-06-28T22:09:59.442736+05:30'
+last_seen: '2026-06-28T22:09:59.442736+05:30'
+last_checked: '2026-06-28T22:09:59.442736+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   GitMCP is a TypeScript-based remote server implementing a "Master Control Program" (MCP) protocol to mitigate code hallucinations from LLM-powered coding assistants.
-*   It provides a supervisory layer for agentic AI workflows, integrating with GitHub projects to enhance the reliability of AI-generated code.
-*   The system targets improved accuracy for tools like Copilot, Claude, and Cursor by introducing a controlled interaction framework for AI agents.
+- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate code hallucinations by providing structured access to GitHub repositories for AI agents.
+- **Technical Stack**: Implemented in TypeScript, it enables integration with LLM-based tools (e.g., Claude, Copilot, Cursor) via the MCP protocol.
+- **Features**: Facilitates agentic workflows by exposing GitHub project data (e.g., repos, issues, PRs) for real-time, hallucination-free code interactions.
 
 ## Why It Matters
 
@@ -45,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 724
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-06-28T03:19:58Z
+- Last Updated: 2026-06-28T15:18:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

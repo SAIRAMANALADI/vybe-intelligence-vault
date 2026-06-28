@@ -1,45 +1,44 @@
 ---
-title: bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp
+title: bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp
   · GitHub
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/milvus-io/bootcamp/tree/master/tutorials/quickstart/apps/rag_search_with_milvus
+source_url: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
 resource_id: github:milvus-io/bootcamp
 local_vault_path: ai/rag/milvus-io-bootcamp.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
-- openai
 - rag
 - reddit
+- scripts
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# bootcamp/tutorials/quickstart/apps/rag_search_with_milvus at master · milvus-io/bootcamp · GitHub
+# bootcamp/tutorials/quickstart/quickstart.ipynb at master · milvus-io/bootcamp · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **RAG Pipeline Integration**: Combines Milvus for document retrieval with OpenAI's generative model for text augmentation, enabling context-aware responses by first retrieving relevant documents (via vector similarity search) before generating output.
+- **Repository Overview**: Milvus Bootcamp is a GitHub repository (`milvus-io/bootcamp`) providing tutorials and resources for vector database applications, with 2.4k stars and 688 forks.
 
-- **Milvus Configuration**: Uses `Milvus Lite` (default local DB) or scalable Milvus/Zilliz Cloud instances; requires environment variables (`OPENAI_API_KEY`, `MILVUS_ENDPOINT`, `COLLECTION_NAME`) for API and database connectivity.
+- **Quickstart Tutorial**: Contains `quickstart.ipynb` (779 lines, 23.3 KB) in `/tutorials/quickstart`, offering a hands-on introduction to Milvus vector database operations.
 
-- **Data Pro
+- **Metadata**: Single open issue and pull request; repository includes CI/CD via GitHub Actions and project insights for tracking acti
 
 ## Use Cases
 
@@ -49,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/milvus-io/bootcamp/tree/master/tutorials/quickstart/apps/rag_search_with_milvus
+Original source URL: https://github.com/milvus-io/bootcamp/blob/master/tutorials/quickstart/quickstart.ipynb
 
 ## Local Vault File
 

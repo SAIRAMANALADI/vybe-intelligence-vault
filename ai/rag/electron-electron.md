@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/electron/electron
-collected_at: '2026-06-28T15:10:02.155603+05:30'
-published_at: '2026-06-28T07:47:42Z'
+collected_at: '2026-06-28T22:13:30.643487+05:30'
+published_at: '2026-06-28T15:47:06Z'
 tags:
 - c++
 - github-repo
-- hackernews
 - rag
-stars: 121807
+- reddit
+stars: 121811
 language: C++
 status: active
 license: MIT
 archived: false
 created_at: '2013-04-12T01:47:36Z'
-pushed_at: '2026-06-28T08:24:58Z'
+pushed_at: '2026-06-28T15:26:05Z'
 resource_id: github:electron/electron
-first_seen: '2026-06-28T15:10:02.155603+05:30'
-last_seen: '2026-06-28T15:10:02.155603+05:30'
-last_checked: '2026-06-28T15:10:02.155603+05:30'
+first_seen: '2026-06-28T22:13:30.643487+05:30'
+last_seen: '2026-06-28T22:13:30.643487+05:30'
+last_checked: '2026-06-28T22:13:30.643487+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop app framework** using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
-- **Core technologies**: C++ (core), V8 (JavaScript engine), and Chromium (browser engine) for high-performance execution.
-- **Key features**: Native OS APIs access, auto-updater, crash reporting, and support for Windows, macOS, and Linux.
+- **Cross-platform desktop app framework** leveraging Chromium, Node.js, and V8 to render HTML/CSS/JS apps natively across Windows, macOS, and Linux.
+- **Architecture**: Combines a modified Chromium browser engine with Node.js runtime, exposing native APIs (e.g., file system, OS interactions) via JavaScript bindings.
+- **Performance & Security**: Uses multi-process model (renderer/main processes) with sandboxing (via `sandbox: true` flag) to isolate untrusted content and mitigate exploits.
 
 ## Why It Matters
 
@@ -40,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: electron
-- Stars: 121807
-- Forks: 17278
+- Stars: 121811
+- Forks: 17277
 - Language: C++
 - Topics: c-plus-plus, chrome, css, electron, html, javascript, nodejs, v8, works-with-codespaces
-- Last Updated: 2026-06-28T07:47:42Z
+- Last Updated: 2026-06-28T15:47:06Z
 - License: MIT
 - Archived: No
 - Created At: 2013-04-12T01:47:36Z
-- Pushed At: 2026-06-28T08:24:58Z
+- Pushed At: 2026-06-28T15:26:05Z
 
 ## Possible Use Cases
 

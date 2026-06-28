@@ -8,7 +8,7 @@ local_vault_path: ai/rag/zhengxujosh-awesome-rag-vision.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: A GitHub repository compiling advanced retrieval-augmented generation (RAG) techniques specifically tailored for Computer Vision applications.
-- **Metadata**: 336 stars, 9 forks, last updated on 2026-06-25, language unspecified, no topics tagged.
-- **Focus Area**: Targets cutting-edge RAG methodologies integrating vision-language models, multimodal retrieval, and contextual augmentation for visual data tasks.
+- **Curated Collection**: Repository aggregates advanced RAG techniques specifically tailored for Computer Vision applications, serving as a centralized resource for researchers and practitioners.
+- **Metadata**: Project has 336 stars and 9 forks, last updated on June 25, 2026, with no specified primary programming language or topic tags.
+- **Focus Area**: Exclusively targets vision-centric RAG methodologies, excluding general-purpose or non-vision RAG implementations.
 
 ## Use Cases
 

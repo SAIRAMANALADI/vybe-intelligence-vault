@@ -13,13 +13,14 @@ collected_at: '2026-06-28T19:46:55.983129+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:from-hallmark-to-neon-signs-a-look-at-jim-parkinso
 first_seen: '2026-06-28T19:46:55.983129+05:30'
 last_seen: '2026-06-28T19:46:55.983129+05:30'
 last_checked: '2026-06-28T19:46:55.983129+05:30'
 health_score: 100
 ---
+
 
 # From Hallmark to neon signs: A look at Jim Parkinson's career in letter art
 

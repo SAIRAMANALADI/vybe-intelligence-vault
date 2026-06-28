@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube
-published_at: '2026-06-28T19:50:56.473915+05:30'
-collected_at: '2026-06-28T19:50:56.473927+05:30'
+published_at: '2026-06-28T22:11:26.344011+05:30'
+collected_at: '2026-06-28T22:11:26.344026+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-google-for-developers
-first_seen: '2026-06-28T19:50:56.473927+05:30'
-last_seen: '2026-06-28T19:50:56.473927+05:30'
-last_checked: '2026-06-28T19:50:56.473927+05:30'
+first_seen: '2026-06-28T22:11:26.344026+05:30'
+last_seen: '2026-06-28T22:11:26.344026+05:30'
+last_checked: '2026-06-28T22:11:26.344026+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube IFrame API**: Embed and customize YouTube video playback in apps via IFrame, iOS helper, or player parameters for tailored user experience.
+- **YouTube IFrame API**: Enables embedded video playback with customizable parameters for web apps via IFrame, iOS helper, and player configurations.
 
-- **YouTube Data API v3**: Enables search, uploads, playlist management, and other core YouTube functionalities with structured endpoints and code samples.
+- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and user interactions with comprehensive reference docs and code samples.
 
-- **YouTube Analytics & Live Streaming APIs**: Provides channel/video performance insights via reporting API and supports live broadcast scheduling/management via Live Streaming API.
+- **YouTube Analytics & Live Streaming APIs**: Provides reporting tools for user engagement metrics and supports live broadcast scheduling and stream management.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T19:50:56.473915+05:30
+- Published: 2026-06-28T22:11:26.344011+05:30
 
 ## Related Tags
 

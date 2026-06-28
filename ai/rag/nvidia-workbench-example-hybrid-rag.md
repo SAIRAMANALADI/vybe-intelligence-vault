@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-28T19:48:19.865441+05:30'
+collected_at: '2026-06-28T22:08:44.493698+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-28T19:48:19.865441+05:30'
-last_seen: '2026-06-28T19:48:19.865441+05:30'
-last_checked: '2026-06-28T19:48:19.865441+05:30'
+first_seen: '2026-06-28T22:08:44.493698+05:30'
+last_seen: '2026-06-28T22:08:44.493698+05:30'
+last_checked: '2026-06-28T22:08:44.493698+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI workflows.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector and keyword-based retrieval methods for enhanced document grounding in LLMs.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying hybrid RAG models within NVIDIA's AI Workbench ecosystem, leveraging GPU-accelerated libraries (e.g., RAPIDS, Triton) for scalable inference.
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated components (e.g., FAISS, Triton Inference Server).
 
-- **Python-Based Example**: Includes modular Python code for end-to-end RAG workflows, featuring document preprocessing, retrieval (FAISS/BM25), and LLM integration (e.g., NVIDIA NeMo or vLLM) with Dockerized deployment for reproducibility.
+- **Modular Python Framework**: Includes reusable components for document processing, retrieval, and generation, with example configurations for local and cloud-based deployment (e.g., NVIDIA NeMo, RAGAS evaluation).
 
 ## Why It Matters
 

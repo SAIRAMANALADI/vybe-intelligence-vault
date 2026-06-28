@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AI-Application-and-Integration-Lab/MegaRAG
-collected_at: '2026-06-28T19:49:29.671155+05:30'
+collected_at: '2026-06-28T22:09:49.511895+05:30'
 published_at: '2026-06-24T06:31:29Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 61
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-14T13:38:20Z'
 pushed_at: '2026-04-17T09:26:14Z'
 resource_id: github:ai-application-and-integration-lab/megarag
-first_seen: '2026-06-28T19:49:29.671155+05:30'
-last_seen: '2026-06-28T19:49:29.671155+05:30'
-last_checked: '2026-06-28T19:49:29.671155+05:30'
+first_seen: '2026-06-28T22:09:49.511895+05:30'
+last_seen: '2026-06-28T22:09:49.511895+05:30'
+last_checked: '2026-06-28T22:09:49.511895+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal (text + graph) data structures for enhanced knowledge retrieval and generation, targeting ACL 2026.
-- **Graph-Centric Retrieval Mechanism**: Implements a graph-based retrieval pipeline where entities, relationships, and modalities are jointly encoded into a unified graph structure, enabling context-aware and cross-modal retrieval.
-- **Python Implementation**: Provides an open-source Python-based implementation with modular components for graph construction, retrieval, and generation, optimized for scalability and multimodal integration.
+- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, an advanced Retrieval-Augmented Generation (RAG) system integrating multimodal data (text, images, graphs) via graph-based retrieval and fusion mechanisms for enhanced contextual understanding in ACL 2026.
+
+- **Python Implementation**: Open-source repository (Python) with modular architecture for scalable multimodal RAG pipelines, supporting dynamic graph construction, retrieval, and generation workflows.
+
+- **ACL 2026 Contribution**: Presents novel graph-based retrieval strategies (e.g., cross-modal attention, hierarchical graph traversal) to optimize knowledge fusion and mitigate hallucinations in large-scale multimodal LLM applications.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-28T19:52:03.674586+05:30'
+collected_at: '2026-06-28T22:13:17.920219+05:30'
 published_at: '2026-06-27T13:39:32Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-25T16:37:33Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-28T19:52:03.674586+05:30'
-last_seen: '2026-06-28T19:52:03.674586+05:30'
-last_checked: '2026-06-28T19:52:03.674586+05:30'
+first_seen: '2026-06-28T22:13:17.920219+05:30'
+last_seen: '2026-06-28T22:13:17.920219+05:30'
+last_checked: '2026-06-28T22:13:17.920219+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, reranking, STS, and bitext mining, supporting both multilingual and multimodal evaluations.
-
-- **Extensive Task Coverage**: Supports 58 datasets in 112 languages, with additional support for low-resource languages and modalities beyond text (e.g., image-text pairs), enabling robust cross-lingual and cross-modal assessment.
-
-- **Modular Python Implementation**: Built on Sentence-Transformers, MTEB offers modular components for easy integration of new models, datasets, and evaluation metrics, with automated leaderboard generation for performance tracking.
+- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) evaluates text embeddings across 58 datasets spanning 11 tasks including retrieval, clustering, classification, and reranking, supporting 100+ languages and multimodal inputs.
+- **Modular Architecture**: Implements a unified Python framework with standardized APIs for embedding model integration, task-specific evaluation pipelines, and extensible support for custom datasets and metrics.
+- **State-of-the-Art Tracking**: Provides leaderboards for comparing models (e.g., Sentence-BERT, neural search) across tasks, with automated updates and support for low-resource NLP and bitext mining evaluations.
 
 ## Why It Matters
 

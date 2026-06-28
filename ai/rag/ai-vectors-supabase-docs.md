@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs/guides/ai
-published_at: '2026-06-28T19:50:52.978489+05:30'
-collected_at: '2026-06-28T19:50:52.978503+05:30'
+published_at: '2026-06-28T22:11:20.725910+05:30'
+collected_at: '2026-06-28T22:11:20.725921+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,12 +15,11 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:ai-vectors-supabase-docs
-first_seen: '2026-06-28T19:50:52.978503+05:30'
-last_seen: '2026-06-28T19:50:52.978503+05:30'
-last_checked: '2026-06-28T19:50:52.978503+05:30'
+first_seen: '2026-06-28T22:11:20.725921+05:30'
+last_seen: '2026-06-28T22:11:20.725921+05:30'
+last_checked: '2026-06-28T22:11:20.725921+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase provides a native vector database solution using Postgres and the `pgvector` extension, enabling storage, indexing, and querying of vector embeddings at scale with SQL-based operations.
+- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector store for storing, indexing, and querying vector embeddings at scale, eliminating the need for external vector databases.
 
-- **Multi-Model AI Toolkit**: Supports hybrid search (semantic, keyword, hybrid) and integrates with major AI providers (OpenAI, Hugging Face, LangChain, etc.), including direct embedding generation via Edge Functions using open-source models.
+- **Multi-Modal AI Toolkit**: Supports hybrid search (semantic, keyword, and hybrid), unstructured embeddings via Python client, and direct open-source model inference in Edge Functions, with integrations for OpenAI, Hugging Face, LangChain, and others.
 
-- **Production-Ready Examples & Migrations**: Offers GitHub templates for vector search (e.g., image search with CLIP, ChatGPT plugins) and case studies (e.g., Berri AI, Firecrawl) demonstrating migrations from AWS RDS to Supabase for pgvector-based workflows.
+- **Production-Ready Examples**: Includes GitHub templates for headless vector search, image search (OpenAI CLIP), Hugging Face inference, and ChatGPT plugin development, with case studies demonstrating migration from AWS RDS and Pinecone to Supabase for improved efficiency and GDPR compliance.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:50:52.978489+05:30
+- Published: 2026-06-28T22:11:20.725910+05:30
 
 ## Related Tags
 
@@ -54,7 +53,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

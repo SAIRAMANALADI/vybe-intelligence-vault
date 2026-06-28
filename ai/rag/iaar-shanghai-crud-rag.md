@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-28T19:48:54.609664+05:30'
+collected_at: '2026-06-28T22:09:19.480224+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-28T19:48:54.609664+05:30'
-last_seen: '2026-06-28T19:48:54.609664+05:30'
-last_checked: '2026-06-28T19:48:54.609664+05:30'
+first_seen: '2026-06-28T22:09:19.480224+05:30'
+last_seen: '2026-06-28T22:09:19.480224+05:30'
+last_checked: '2026-06-28T22:09:19.480224+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: Introduces CRUD-RAG, a Chinese-language benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across **Create**, **Retrieve**, **Update**, and **Delete** operations in LLMs.
-- **Evaluation Framework**: Provides a standardized testbed for assessing RAG models on **Chinese-language tasks**, including knowledge-intensive QA, document retrieval, and dynamic data updates.
-- **Open-Source Toolkit**: Released under Python, the repository includes datasets, evaluation metrics, and reference implementations to facilitate reproducible research in multilingual RAG systems.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in large language models (LLMs), focusing on comprehensive coverage of retrieval and generation tasks.
+- **Evaluation Scope**: Assesses LLMs on Chinese-specific RAG capabilities, including context retrieval accuracy, response generation quality, and handling of complex queries with domain-specific knowledge.
+- **Open-Source Framework**: Provides a Python-based open-source repository for benchmarking, enabling reproducibility and extensibility for further research in multilingual RAG systems.
 
 ## Why It Matters
 

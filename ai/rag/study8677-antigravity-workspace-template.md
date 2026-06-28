@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-28T19:48:04.549105+05:30'
+collected_at: '2026-06-28T22:08:29.378028+05:30'
 published_at: '2026-06-28T10:31:54Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-28T19:48:04.549105+05:30'
-last_seen: '2026-06-28T19:48:04.549105+05:30'
-last_checked: '2026-06-28T19:48:04.549105+05:30'
+first_seen: '2026-06-28T22:08:29.378028+05:30'
+last_seen: '2026-06-28T22:08:29.378028+05:30'
+last_checked: '2026-06-28T22:08:29.378028+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction via AI IDEs (Claude Code, Cursor, Codex CLI, ChatGPT).
-
-- **Modular MCP server** supporting RAG and knowledge graph integration, facilitating cross-tool collaboration for code intelligence and search.
-
-- **Python-based template** with OpenAI compatibility, designed for extensibility across IDE plugins (e.g., Copilot, Windsurf) and agent frameworks.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
+- **MCP server implementation** in Python, supporting RAG and knowledge graph integration for codebase-specific LLM interactions
+- **IDE-agnostic plugin** with OpenAI compatibility, enabling cross-platform code intelligence and Copilot-like assistance
 
 ## Why It Matters
 

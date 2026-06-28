@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://supabase.com/docs
-published_at: '2026-06-28T19:52:26.292044+05:30'
-collected_at: '2026-06-28T19:52:26.292060+05:30'
+published_at: '2026-06-28T22:14:08.407016+05:30'
+collected_at: '2026-06-28T22:14:08.407031+05:30'
 tags:
 - frontend_ui
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:supabase-docs
-first_seen: '2026-06-28T19:52:26.292060+05:30'
-last_seen: '2026-06-28T19:52:26.292060+05:30'
-last_checked: '2026-06-28T19:52:26.292060+05:30'
+first_seen: '2026-06-28T22:14:08.407031+05:30'
+last_seen: '2026-06-28T22:14:08.407031+05:30'
+last_checked: '2026-06-28T22:14:08.407031+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like real-time subscriptions, automated backups, and support for extensions (e.g., PostGIS, pg_cron).
+- **PostgreSQL-Based Architecture**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and support for extensions (e.g., pgvector for AI/ML workloads).
 
-- **Unified Auth & Storage**: Supports multi-factor authentication (MFA), OAuth, and passwordless logins via `supabase-js`/`auth-helpers`, while `Storage` offers S3-compatible object storage with Row-Level Security (RLS) integration.
+- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), Row-Level Security (RLS) policies, and scalable object storage with direct Postgres integration.
 
-- **Edge Compute & APIs**: Deploy globally distributed serverless functions via Edge Functions (Deno-based), with REST/GraphQL APIs auto-generated from database schema and real-time updates via WebSocket-based Realtime API.
+- **Edge Compute & Ecosystem**: Offers globally distributed Edge Functions for low-latency serverless execution, along with client libraries (JS, Python, Flutter, etc.) and migration tools for AWS RDS, Firebase, and other databases.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:52:26.292044+05:30
+- Published: 2026-06-28T22:14:08.407016+05:30
 
 ## Related Tags
 

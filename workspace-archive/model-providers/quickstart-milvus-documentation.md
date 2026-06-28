@@ -8,7 +8,7 @@ local_vault_path: ai/rag/quickstart-milvus-documentation.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,11 +18,10 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Quickstart | Milvus Documentation
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Milvus Lite**: Lightweight, embeddable vector database (via `pymilvus`) for local Python applications, storing data in a single file (e.g., `milvus_demo.db`), with support for semantic search, metadata filtering, and CRUD operations.
-- **Vector Search Workflow**: Encode text to vectors (768D by default) using embedding models (e.g., `paraphrase-albert-small-v2`), insert into collections, and query via vector similarity or scalar filters (e.g., `subject == 'biology'`).
-- **Scalability & Deplo
+- **Milvus Lite**: Lightweight, embeddable Python library (`pymilvus`) for local vector database operations, supporting quick prototyping with minimal setup (Python 3.8+ required).
+- **Vector Search & Metadata Filtering**: Enables semantic search via vector embeddings (e.g., COSINE similarity) with optional scalar field filtering (e.g., `subject == 'biology'`) for enhanced query precision.
+- **Deployment Flexibility**: Supports Milvus Lite (local file storage), Docker/Kubernetes (production), an
 
 ## Use Cases
 

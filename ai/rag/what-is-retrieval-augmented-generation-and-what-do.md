@@ -5,19 +5,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/
-published_at: '2026-06-28T03:47:25.890678+05:30'
-collected_at: '2026-06-28T03:47:25.890690+05:30'
+published_at: '2026-06-28T22:08:06.252666+05:30'
+collected_at: '2026-06-28T22:08:06.252681+05:30'
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
-first_seen: '2026-06-28T03:47:25.890690+05:30'
-last_seen: '2026-06-28T03:47:25.890690+05:30'
-last_checked: '2026-06-28T03:47:25.890690+05:30'
+first_seen: '2026-06-28T22:08:06.252681+05:30'
+last_seen: '2026-06-28T22:08:06.252681+05:30'
+last_checked: '2026-06-28T22:08:06.252681+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Introduced new security features in GitHub Actions to mitigate risks like malicious workflows and supply chain attacks, including stricter permission controls and artifact verification mechanisms.
-
-- **Improved CI/CD Pipeline Integrity**: Implemented hardened defaults for GitHub Actions workflows, such as mandatory approval for reusable workflows and enhanced logging for audit trails.
-
-- **OpenSSF Scorecard Integration**: Advocated for and integrated OpenSSF Scorecard into GitHub’s security tooling to provide automated security health assessments for repositories and dependencies.
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to open-source documentation and community engagement.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and best practices.
+- **Social Presence**: Maintains a GitHub profile ([@nicchoi29](https://github.com/nicchoi29)) and shares technical insights under the GitHub Blog author tag.
 
 ## Why It Matters
 
@@ -39,13 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:47:25.890678+05:30
+- Published: 2026-06-28T22:08:06.252666+05:30
 
 ## Related Tags
 
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 

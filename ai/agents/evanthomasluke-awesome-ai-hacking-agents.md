@@ -4,23 +4,22 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents
-collected_at: '2026-06-28T19:50:29.697280+05:30'
-published_at: '2026-06-27T23:41:36Z'
+collected_at: '2026-06-28T22:10:49.475762+05:30'
+published_at: '2026-06-28T15:18:33Z'
 tags:
 - agents
 - github-repo
 - unknown
-- workflows
-stars: 511
+stars: 510
 language: Unknown
 status: active
 archived: false
 created_at: '2026-02-06T02:08:01Z'
 pushed_at: '2026-06-09T03:10:27Z'
 resource_id: github:evanthomasluke/awesome-ai-hacking-agents
-first_seen: '2026-06-28T19:50:29.697280+05:30'
-last_seen: '2026-06-28T19:50:29.697280+05:30'
-last_checked: '2026-06-28T19:50:29.697280+05:30'
+first_seen: '2026-06-28T22:10:49.475762+05:30'
+last_seen: '2026-06-28T22:10:49.475762+05:30'
+last_checked: '2026-06-28T22:10:49.475762+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated list of AI-driven hacking agents, tools, and frameworks designed for offensive security research and penetration testing.
-- **Metadata**: 511 stars, 83 forks, last updated 2026-06-27; language and topics unspecified.
-- **Purpose**: Centralized resource for AI-enabled cybersecurity tools, facilitating automated vulnerability discovery and exploitation workflows.
+- **Repository Overview**: GitHub repository compiling AI-driven autonomous hacking agents, tools, and frameworks for offensive security research and penetration testing.
+- **Metadata**: 510 stars, 83 forks, last updated June 28, 2026; language unspecified.
+- **Purpose**: Curated list of resources for AI-powered cyberattack simulation, vulnerability discovery, and adversarial AI tooling.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: EvanThomasLuke
-- Stars: 511
+- Stars: 510
 - Forks: 83
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-27T23:41:36Z
+- Last Updated: 2026-06-28T15:18:33Z
 - Archived: No
 - Created At: 2026-02-06T02:08:01Z
 - Pushed At: 2026-06-09T03:10:27Z

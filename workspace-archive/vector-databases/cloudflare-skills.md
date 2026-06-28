@@ -8,16 +8,16 @@ local_vault_path: ai/rag/cloudflare-skills.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: api
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
-- workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # cloudflare/skills
@@ -26,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: api
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **TypeScript-based framework** for training AI agents to develop applications on Cloudflare's ecosystem, including Workers and Pages.
-- **Repository structure** includes modular "skills" (e.g., authentication, KV storage, Durable Objects) to teach agents Cloudflare-specific workflows.
-- **Active development** (last updated June 2026) with 1,964 stars and 176 forks, indicating community adoption for agent training in serverless architectures.
+- **Purpose**: Repository providing structured learning modules (`Skills`) to educate AI agents on developing applications leveraging Cloudflare's ecosystem, including Workers and other platform services.
+- **Technical Stack**: Implemented in TypeScript, designed for agent-based training with a focus on Cloudflare's serverless and edge computing paradigms.
+- **Scope**: Covers topics like Workers, Cloudflare APIs, and edge-native development patterns, updated as of June 2026.
 
 ## Use Cases
 

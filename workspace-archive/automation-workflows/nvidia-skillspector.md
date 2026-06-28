@@ -36,8 +36,8 @@ selection_reason:
 ## Summary
 
 - **Purpose**: Security scanner for AI agent skills, designed to detect vulnerabilities, malicious patterns, and security risks in AI workflows.
-- **Technical Stack**: Implemented in Python, leveraging static and dynamic analysis techniques to evaluate AI agent skills.
-- **Repository Metrics**: 10,526 stars, 841 forks; last updated June 25, 2026.
+- **Technical Stack**: Implemented in Python, leveraging static/dynamic analysis techniques to evaluate AI agent skills.
+- **Features**: Identifies security flaws in AI agent skills, including code injection, privilege escalation, and unintended data exposure.
 
 ## Use Cases
 

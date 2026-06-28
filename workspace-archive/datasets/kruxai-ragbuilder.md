@@ -8,7 +8,7 @@ local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # KruxAI/ragbuilder
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows.
+- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with configurable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
 
-- **Automated Optimization**: Implements techniques for hyperparameter tuning, chunking strategies, and retrieval logic to maximize performance (e.g., precision, latency) for custom datasets.
+- **Automated Optimization**: Implements techniques for hyperparameter tuning, embedding selection, and retrieval strategies (e.g., vector search, hybrid retrieval) to maximize performance on custom datasets.
 
-- **Scalability & Deployment**: Supports integration with cloud services (e.g., AWS, GCP) and includes tools f
+- **Scalability & Deployment**: Supports distri
 
 ## Use Cases
 

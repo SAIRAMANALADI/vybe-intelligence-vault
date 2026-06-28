@@ -6,20 +6,22 @@ source_url: https://www.deepset.ai/blog
 resource_id: blog:blog
 local_vault_path: ai/rag/blog.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: tutorial
-importance: medium
+resource_kind: framework
+importance: high
 tags:
 - agents
+- creative_dev
 - hackernews
 - paper
 - producthunt
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Blog
@@ -27,17 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-*   deepset's Haystack Enterprise Platform unifies their enterprise AI offerings, enabling the deployment of Haystack pipelines as managed, composable MCP tools for production-grade AI agent development.
-*   Reliable AI agent construction is driven by "Harness Engineering" and "Context Engineering," focusing on robust system design and informational environments rather than solely model selection, to classify and mitigate agent failures.
-*   Sovereign AI architectures are presented as a solution
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling modular RAG, document processing, and enterprise search workflows with support for transformer models and vector databases.
+
+- **Haystack Enterprise Platform**: Unified enterprise-grade solution integrating MCP tooling, harness engineering for AI agent reliability, and sovereign AI compliance with cost control mechanisms for scalable deployments.
+
+- **Technical Solutions Portfolio**: Offe
 
 ## Use Cases
 

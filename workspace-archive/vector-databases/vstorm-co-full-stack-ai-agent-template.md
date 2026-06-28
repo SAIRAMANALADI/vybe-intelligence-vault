@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured for AI Agents, RAG, streaming, authentication, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
+- **Tech Stack**: Pre-configured full-stack template with FastAPI (backend), Next.js (frontend), PostgreSQL (database), and Docker for containerization.
 
-- **Tech stack**: Python (backend), TypeScript/React (frontend), PostgreSQL (database), Docker (containerization), WebSocket (real-time streaming), with built-in auth and modular agent frameworks.
+- **AI Capabilities**: Integrates AI agents (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG pipelines, real-time streaming via WebSocket, and 20+ third-party integrations out of the box.
 
-- **Key features**: Out-of-the-box AI agent templates, RAG pipelines, Pydantic validat
+- **Features**: Built-in authentication, Pydantic data validation, and TypeScript support for React, optimized for rapid deployment of scalable AI-driven app
 
 ## Use Cases
 

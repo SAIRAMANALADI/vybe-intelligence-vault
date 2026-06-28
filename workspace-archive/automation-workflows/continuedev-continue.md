@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- scripts
 - typescript
 - workflows
 selection_reason:
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based Open-Source Coding Agent**: A CLI-driven AI assistant designed to automate and enhance software development workflows with extensible, agentic capabilities.
-
-- **Modular Architecture**: Supports custom tools, models, and workflows via a plugin system, enabling integration with various LLMs (e.g., local/remote models) and IDEs (VS Code, JetBrains).
-
-- **Real-Time Collaboration & Automation**: Enables autonomous code generation, debugging, and multi-step task execution while m
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous code generation, refactoring, and debugging via CLI or IDE integration.
+- **Modular architecture** supports extensibility with custom models, tools, and workflows for tailored developer workflows.
+- **Active development** with 34.5k+ GitHub stars, frequent updates (last commit: 2026-06-28), and 4.9k+ forks indicating strong community adoption.
 
 ## Use Cases
 

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
-- **Modular Architecture**: Features plug-and-play components (e.g., encoders, retrievers, generators) with configurable pipelines for custom RAG workflows across modalities.
-- **Scalable & Efficient**: Optimized for large-scale multi-modal datasets with distributed indexing, vector search (FAISS/Weavia
+- **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, image, audio, and video modalities, enabling unified cross-modal retrieval and generation workflows.
+
+- **Modular Architecture**: Implements a plug-and-play system with interchangeable components (e.g., retrievers, rerankers, generators) for customizable RAG pipelines tailored to specific use cases.
+
+- **Optimized Performance**: Leverages efficient indexing (e.g., FAISS, Milvus) and parallel p
 
 ## Use Cases
 

@@ -1,41 +1,43 @@
 ---
-title: RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
-  at main · AnswerDotAI/RAGat
+title: AnswerDotAI/RAGatouille
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+source_url: https://github.com/AnswerDotAI/RAGatouille
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
-- models
+- github-repo
+- hackernews
+- python
 - rag
-- web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# RAGatouille/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb at main · AnswerDotAI/RAGat
+# AnswerDotAI/RAGatouille
 
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient, high-precision document retrieval and integration with LLMs.
+- **ColBERT Integration**: Provides a modular and user-friendly Python library for implementing late-interaction retrieval methods (specifically ColBERT) in Retrieval-Augmented Generation (RAG) pipelines, leveraging state-of-the-art retrieval techniques.
 
-- **Fine-tuning without annotations**: The repository includes a Jupyter notebook (`03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb`) demonstrating unsupervised fine-tuning of retrieval models using instructor embeddings and RAGatouille for improved downstream task performance.
+- **Research-Backed Design**: Built with a focus on modularity and ease of use while being grounded in academic research, enabling efficient training and deployment of ColBERT-based retrieval systems.
+
+- **Active Maintenance**: Last updated in
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille/blob/main/examples/03-finetuning_without_annotations_with_instructor_and_RAGatouille.ipynb
+Original source URL: https://github.com/AnswerDotAI/RAGatouille
 
 ## Local Vault File
 

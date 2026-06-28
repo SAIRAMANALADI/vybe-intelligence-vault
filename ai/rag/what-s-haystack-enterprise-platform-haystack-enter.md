@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-28T19:52:14.272562+05:30'
-collected_at: '2026-06-28T19:52:14.272574+05:30'
+published_at: '2026-06-28T22:13:20.340888+05:30'
+collected_at: '2026-06-28T22:13:20.340902+05:30'
 tags:
 - agents
 - models
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-28T19:52:14.272574+05:30'
-last_seen: '2026-06-28T19:52:14.272574+05:30'
-last_checked: '2026-06-28T19:52:14.272574+05:30'
+first_seen: '2026-06-28T22:13:20.340902+05:30'
+last_seen: '2026-06-28T22:13:20.340902+05:30'
+last_checked: '2026-06-28T22:13:20.340902+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Application Lifecycle Management**: Enables end-to-end development, prototyping, deployment, and monitoring of AI-powered applications with support for multi-step RAG pipelines and autonomous agents.
+- **Data Processing Pipeline**: Supports multi-format document ingestion (PDFs, Office, images) with built-in OCR and converters, enabling automated chunking and indexing into a document store for retrieval-optimized storage.
 
-- **Model-Agnostic & Observability-Ready**: Supports seamless switching between LLM/embedding providers (e.g., Langfuse, Weights & Biases) with built-in tracing, debugging, and performance monitoring via REST API and dashboards.
+- **Modular AI Agent & RAG Framework**: Enables construction of multi-component pipelines (retrievers, rankers, generators) via visual builder, supporting both AI agents with tool-use capabilities and advanced RAG systems with document-grounded responses.
 
-- **Enterprise Data Integration**: Automates ingestion, OCR, and indexing of diverse file formats (PDFs, Office, images) into searchable document stores, with collaborative prototype sharing and production deployment workflows.
+- **Model Agnostic & Observability Integration**: Facilitates seamless switching between LLM/embedding providers while integrating with tracing tools (Langfuse, Weave) and providing REST API for deployment, monitoring, and performance analytics.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:52:14.272562+05:30
+- Published: 2026-06-28T22:13:20.340888+05:30
 
 ## Related Tags
 

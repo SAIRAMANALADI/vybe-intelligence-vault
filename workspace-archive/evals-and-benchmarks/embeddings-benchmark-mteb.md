@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Benchmark Suite**: MTEB provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, reranking, STS, and bitext mining, supporting both multilingual and multimodal evaluations.
-
-- **Extensive Task Coverage**: Supports 58 datasets in 112 languages, with additional support for low-resource languages and modalities beyond text (e.g., image-text pairs), enabling robust cross-lingual and cross-modal assessment
+- **Benchmark Suite**: MTEB (Massive Text Embedding Benchmark) evaluates text embeddings across 58 datasets spanning 11 tasks including retrieval, clustering, classification, and reranking, supporting 100+ languages and multimodal inputs.
+- **Modular Architecture**: Implements a unified Python framework with standardized APIs for embedding model integration, task-specific evaluation pipelines, and extensible support for custom datasets and metrics.
+- **State-of-the-Art Tracking**: Provides leade
 
 ## Use Cases
 

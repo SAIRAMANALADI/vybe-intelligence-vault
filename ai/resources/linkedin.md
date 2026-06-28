@@ -3,16 +3,16 @@ title: LinkedIn
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://lnkd.in/g7JUH39T?trk=organization_guest_main-feed-card-text
-published_at: '2026-06-28T19:51:30.576700+05:30'
-collected_at: '2026-06-28T19:51:30.576715+05:30'
+source_url: https://lnkd.in/gEzeFkqC?trk=organization_guest_main-feed-card-text
+published_at: '2026-06-28T22:21:17.368987+05:30'
+collected_at: '2026-06-28T22:21:17.369002+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:linkedin
-first_seen: '2026-06-28T19:51:30.576715+05:30'
-last_seen: '2026-06-28T19:51:30.576715+05:30'
-last_checked: '2026-06-28T19:51:30.576715+05:30'
+first_seen: '2026-06-28T22:21:17.369002+05:30'
+last_seen: '2026-06-28T22:21:17.369002+05:30'
+last_checked: '2026-06-28T22:21:17.369002+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **External Link Handling**: LinkedIn warns users that clicking external links may lead to unverified pages, posing potential safety risks.
-- **Browser Optimization**: The platform explicitly supports and optimizes the experience for Chrome, Edge, and Safari browsers.
-- **Security Disclaimer**: LinkedIn does not guarantee the safety or authenticity of external links, as they are beyond its verification scope.
+- External links are not verified by LinkedIn for safety due to platform limitations.
+- Optimal user experience for the external link is guaranteed only on Chrome, Edge, and Safari browsers.
+- LinkedIn cannot provide security validation for content accessed via external URLs.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T19:51:30.576700+05:30
+- Published: 2026-06-28T22:21:17.368987+05:30
 
 ## Related Tags
 
@@ -40,4 +40,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://lnkd.in/g7JUH39T?trk=organization_guest_main-feed-card-text
+Original source: https://lnkd.in/gEzeFkqC?trk=organization_guest_main-feed-card-text
