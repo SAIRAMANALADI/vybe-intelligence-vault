@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-28T15:20:42.400956+05:30`
+Generated at: `2026-06-28T15:42:15.212164+05:30`
 
 ## Executive Summary
 
@@ -8,6 +8,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
+- **The best response to AI slop and online noise is from Robin Williams** - Score: `215` in category `ai/community` ([Link](https://jayacunzo.com/blog/your-move-chief)) ([File](../ai/community/response-to-ai-slop-is-from-robin-williams.md))
 - **The Swift Programming Language · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/swiftlang)) ([File](../ai/resources/the-swift-programming-language-github.md))
 - **WebKit/WebKit** - Score: `0` in category `ai/resources` ([Link](https://github.com/webkit/webkit)) ([File](../ai/resources/webkit-webkit.md))
 - **WebKit (@webkit@front-end.social) - Front-End Social** - Score: `0` in category `ai/resources` ([Link](https://front-end.social/@webkit)) ([File](../ai/resources/webkit-webkit-front-end-social-front-end-social.md))
@@ -20,11 +21,11 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Configure cascade** - Score: `0` in category `ai/resources` ([Link](https://gohugo.io/configuration/cascade)) ([File](../ai/resources/configure-cascade.md))
 - **cloudflare/skills** - Score: `0` in category `ai/rag` ([Link](https://github.com/cloudflare/skills)) ([File](../ai/rag/cloudflare-skills.md))
 - **anomalyco/opencode** - Score: `0` in category `ai/agents` ([Link](https://github.com/anomalyco/opencode)) ([File](../ai/agents/anomalyco-opencode.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 
 - **Ford hired AI and sacked humans. It backfired badly** - Score: `191` (+136), Rank Change: `+2` ([File](../ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md))
-- **The best response to AI slop and online noise is from Robin Williams** - Score: `215` (+95), Rank Change: `+2` ([File](../ai/community/response-to-ai-slop-is-from-robin-williams.md))
 - **Wayfinder Router: deterministic routing of queries between local and hosted LLM** - Score: `64` (+61), Rank Change: `+3` ([File](../ai/community/itsthelore-wayfinder-router.md))
 - **Asian AI startups launch Mythos-like models** - Score: `226` (+42), Rank Change: `0` ([File](../ai/community/asian-ai-startups-launch-mythos-like-models.md))
 - **AI learns the “dark art” of RFIC design** - Score: `231` (+25), Rank Change: `0` ([File](../ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md))
@@ -33,6 +34,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Swift Programming Language** - Score: `0` (0), Rank Change: `+712` ([File](../ai/rag/swift-programming-language.md))
 - **Apple Open Source** - Score: `0` (0), Rank Change: `+711` ([File](../ai/resources/apple-open-source.md))
 - **Site Map - Apple** - Score: `0` (0), Rank Change: `+3941` ([File](../ai/rag/site-map-apple.md))
+- **Apple Vision Pro - Apple** - Score: `0` (0), Rank Change: `+306` ([File](../ai/resources/apple-vision-pro-apple.md))
 
 ## 🚀 Fastest Rising Tools
 

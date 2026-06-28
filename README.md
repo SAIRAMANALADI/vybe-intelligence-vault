@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 15:20 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 15:42 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -56,19 +56,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 > Top rising resources based on momentum and community velocity.
 
 - 🔼 **[Ford hired AI and sacked humans. It backfired badly](ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md)** • <kbd>+136 pts</kbd> • Rank: <kbd>+2</kbd>
-- 🔼 **[The best response to AI slop and online noise is from Robin Williams](ai/community/response-to-ai-slop-is-from-robin-williams.md)** • <kbd>+95 pts</kbd> • Rank: <kbd>+2</kbd>
 - 🔼 **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](ai/community/itsthelore-wayfinder-router.md)** • <kbd>+61 pts</kbd> • Rank: <kbd>+3</kbd>
 - 🔼 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • <kbd>+42 pts</kbd>
 - 🔼 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • <kbd>+25 pts</kbd>
+- 🔼 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** • <kbd>+25 pts</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
+- 🆕 **[The best response to AI slop and online noise is from Robin Williams](ai/community/response-to-ai-slop-is-from-robin-williams.md)** • Score: `215`
 - 🆕 **[The Swift Programming Language · GitHub](ai/resources/the-swift-programming-language-github.md)** • Score: `0`
 - 🆕 **[WebKit/WebKit](ai/resources/webkit-webkit.md)** • Score: `0`
 - 🆕 **[WebKit (@webkit@front-end.social) - Front-End Social](ai/resources/webkit-webkit-front-end-social-front-end-social.md)** • Score: `0`
 - 🆕 **[sourcekit-lsp/Documentation/Editor Integration.md at main · swiftlang/sourcekit-lsp · GitHub](ai/resources/swiftlang-sourcekit-lsp.md)** • Score: `0`
-- 🆕 **[Xcode - Apple Developer](ai/rag/xcode-apple-developer.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.

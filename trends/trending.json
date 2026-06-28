@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T15:20:42.400956+05:30",
+  "generated_at": "2026-06-28T15:42:15.212164+05:30",
   "trending_resources": [
     {
       "id": "hackernews:ford-hired-ai-and-sacked-humans-it-backfired-badly",
@@ -10,19 +10,6 @@
       "file_path": "ai/community/ford-hired-ai-and-sacked-humans-it-backfired-badly.md",
       "score": 191,
       "score_change": 136,
-      "rank_change": 2,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:response-to-ai-slop-is-from-robin-williams",
-      "title": "The best response to AI slop and online noise is from Robin Williams",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "file_path": "ai/community/response-to-ai-slop-is-from-robin-williams.md",
-      "score": 215,
-      "score_change": 95,
       "rank_change": 2,
       "new_resource": false,
       "tier": "tier-3"
@@ -128,6 +115,19 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 3941,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:apple-vision-pro-apple",
+      "title": "Apple Vision Pro - Apple",
+      "category": "ai/resources",
+      "source_type": "web",
+      "url": "https://apple.com/apple-vision-pro",
+      "file_path": "ai/resources/apple-vision-pro-apple.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 306,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -265,6 +265,19 @@
     }
   ],
   "new_discoveries": [
+    {
+      "id": "hackernews:the-best-response-to-ai-slop-and-online-noise-is-f",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "file_path": "ai/community/response-to-ai-slop-is-from-robin-williams.md",
+      "score": 215,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
     {
       "id": "blog:the-swift-programming-language-github",
       "title": "The Swift Programming Language · GitHub",
@@ -415,6 +428,19 @@
       "source_type": "github_trending",
       "url": "https://github.com/anomalyco/opencode",
       "file_path": "ai/agents/anomalyco-opencode.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:broken-link",
+      "title": "[BROKEN LINK] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/broken-link.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
