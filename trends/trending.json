@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-06-29T01:34:13.433170+05:30",
+  "generated_at": "2026-06-29T01:48:00.104854+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:daisugi-the-japanese-technique-of-trees-out-of-tre",
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://openculture.com/2020/10/daisugi.html",
-      "file_path": "ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md",
-      "score": 61,
-      "score_change": 53,
-      "rank_change": 4,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
     {
       "id": "github:openai/codex",
       "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
@@ -128,6 +115,19 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 259,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:haystack-enterprise-starter",
+      "title": "Haystack Enterprise Starter",
+      "category": "ai/rag",
+      "source_type": "web",
+      "url": "https://deepset.ai/products-and-services/haystack-enterprise",
+      "file_path": "ai/rag/haystack-enterprise-starter.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 585,
       "new_resource": false,
       "tier": "tier-3"
     }
@@ -265,6 +265,19 @@
     }
   ],
   "new_discoveries": [
+    {
+      "id": "hackernews:daisugi-the-japanese-technique-of-growing-trees-ou",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://openculture.com/2020/10/daisugi.html",
+      "file_path": "ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md",
+      "score": 61,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
     {
       "id": "hackernews:working-around-dragons-with-the-lemote-yeeloong-la",
       "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
@@ -441,19 +454,6 @@
       "source_type": "web",
       "url": "http://matplotlib.org/sampledoc/extensions.html",
       "file_path": "ai/resources/sphinx-extensions-for-embedded-plots-math-and-more.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:met12-j-do-not-use-finalizers-cert-secure-coding",
-      "title": "MET12-J. Do not use finalizers | CERT Secure Coding",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://wiki.sei.cmu.edu/confluence/display/java/met12-j.+do+not+use+finalizers",
-      "file_path": "ai/rag/met12-j-do-not-use-finalizers-cert-secure-coding.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,

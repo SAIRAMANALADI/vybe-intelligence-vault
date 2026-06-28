@@ -1,0 +1,48 @@
+---
+title: "bernardpacis/create-mcp-server-kit"
+category: "Tooling"
+tech_stack: ["TypeScript", "JavaScript", "Model Context Protocol (MCP)", "CI/CD Templates"]
+quality_score: 6
+rag_relevance: 8
+tags: ["MCP", "scaffolding", "TypeScript", "server-generator", "production-ready"]
+source: "https://github.com/bernardpacis/create-mcp-server-kit"
+discovered_at: "2026-06-28T20:15:26Z"
+evaluated_by: "mistral-small-latest"
+---
+
+## Summary
+A scaffolding toolkit designed to rapidly generate production-ready Model Context Protocol (MCP) servers with minimal setup. It provides pre-configured templates for TypeScript, validation, and CI pipelines, enabling developers to deploy MCP servers efficiently.
+
+## Key Features
+- Pre-configured MCP server templates with TypeScript support
+- Built-in validation and CI-ready pipelines
+- Minimal setup required for rapid deployment
+- Cross-platform compatibility (Windows, macOS, Linux)
+- Simplified configuration for quick customization
+
+## Why It Matters for RAG Builders
+It accelerates the development and deployment of MCP servers, which are critical for integrating AI models with external tools and data sources in RAG systems.
+
+## Tech Stack Deep Dive
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JavaScript
+Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### CI/CD Templates
+Automated review identified **CI/CD Templates** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+
+
+## Installation
+```bash
+# Install instruction (default)
+pip install -r requirements.txt
+```
+
+## Related Vault Entries
+<!-- Auto-populated by build-index.js based on tech_stack overlap -->

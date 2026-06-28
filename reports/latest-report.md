@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-29T01:34:13.433170+05:30`
+Generated at: `2026-06-29T01:48:00.104854+05:30`
 
 ## Executive Summary
 
@@ -8,6 +8,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
+- **Daisugi, the Japanese technique of growing trees out of other trees (2020)** - Score: `61` in category `ai/community` ([Link](https://openculture.com/2020/10/daisugi.html)) ([File](../ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md))
 - **Working around dragons with the Lemote Yeeloong laptop and OpenBSD** - Score: `56` in category `ai/community` ([Link](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)) ([File](../ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md))
 - **Ford rehires 'gray beard' engineers after AI falls short** - Score: `7` in category `ai/community` ([Link](https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short)) ([File](../ai/community/ford-rehires-gray-beard-engineers-after-ai-falls-s.md))
 - **GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem** - Score: `6` in category `ai/community` ([Link](https://github.com/librepods-org/librepods)) ([File](../ai/community/librepods-org-librepods.md))
@@ -22,11 +23,9 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Binary distribution format - Python Packaging User Guide** - Score: `0` in category `ai/rag` ([Link](https://packaging.python.org/en/latest/specifications/binary-distribution-format)) ([File](../ai/rag/binary-distribution-format-python-packaging-user-g.md))
 - **PEP 256 – Docstring Processing System Framework | peps.python.org** - Score: `0` in category `ai/resources` ([Link](https://python.org/dev/peps/pep-0256)) ([File](../ai/resources/pep-256-docstring-processing-system-framework-peps.md))
 - **Sphinx extensions for embedded plots, math and more — sampledoc 1.0 documentation** - Score: `0` in category `ai/resources` ([Link](http://matplotlib.org/sampledoc/extensions.html)) ([File](../ai/resources/sphinx-extensions-for-embedded-plots-math-and-more.md))
-- **MET12-J. Do not use finalizers | CERT Secure Coding** - Score: `0` in category `ai/rag` ([Link](https://wiki.sei.cmu.edu/confluence/display/java/met12-j.+do+not+use+finalizers)) ([File](../ai/rag/met12-j-do-not-use-finalizers-cert-secure-coding.md))
 
 ## Top Trending Resources
 
-- **Daisugi, the Japanese technique of growing trees out of other trees (2020)** - Score: `61` (+53), Rank Change: `+4` ([File](../ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md))
 - **A way to exclude sensitive files issue still open for OpenAI Codex** - Score: `152` (+38), Rank Change: `0` ([File](../ai/community/openai-codex.md))
 - **The Linux Kernel documentation — The Linux Kernel documentation** - Score: `0` (0), Rank Change: `+962` ([File](../ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md))
 - **Overview | Developer Documentation** - Score: `0` (0), Rank Change: `+647` ([File](../ai/agents/overview-developer-documentation.md))
@@ -36,6 +35,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **Releases · langfuse/langfuse · GitHub** - Score: `0` (0), Rank Change: `+1380` ([File](../ai/rag/langfuse-langfuse.md))
 - **deepset-ai/haystack · Discussions · GitHub** - Score: `0` (0), Rank Change: `+8950` ([File](../ai/rag/deepset-ai-haystack.md))
 - **Cloudflare Developer Docs | Cloudflare Docs** - Score: `0` (0), Rank Change: `+259` ([File](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md))
+- **Haystack Enterprise Starter** - Score: `0` (0), Rank Change: `+585` ([File](../ai/rag/haystack-enterprise-starter.md))
 
 ## 🚀 Fastest Rising Tools
 

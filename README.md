@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-29 01:34 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 01:48 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • <kbd>+53 pts</kbd> • Rank: <kbd>+4</kbd>
 - 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+38 pts</kbd>
 - 🔼 **[The Linux Kernel documentation — The Linux Kernel documentation](ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md)** • Rank: <kbd>+962</kbd>
 - 🔼 **[Overview | Developer Documentation](ai/agents/overview-developer-documentation.md)** • Rank: <kbd>+647</kbd>
 - 🔼 **[evanw/esbuild](ai/resources/evanw-esbuild.md)** • Rank: <kbd>+1663</kbd>
+- 🔼 **[Tree Shaking | webpack](ai/resources/tree-shaking-webpack.md)** • Rank: <kbd>+1666</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
+- 🆕 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • Score: `61`
 - 🆕 **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md)** • Score: `56`
 - 🆕 **[Ford rehires 'gray beard' engineers after AI falls short](ai/community/ford-rehires-gray-beard-engineers-after-ai-falls-s.md)** • Score: `7`
 - 🆕 **[GitHub – librepods-org/librepods: AirPods liberated from Apple's ecosystem](ai/community/librepods-org-librepods.md)** • Score: `6`
 - 🆕 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)** • Score: `4`
-- 🆕 **[python/mypy](ai/resources/python-mypy.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
