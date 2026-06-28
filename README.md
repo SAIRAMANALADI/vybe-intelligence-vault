@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-28 04:40 IST</p>
+        <p><b>Last Update:</b> 2026-06-28 08:26 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Reducing tick density along recreational trails in Ottawa, Canada](ai/community/reducing-tick-density-along-recreational-trails-in.md)** • <kbd>+37 pts</kbd>
-- 🔼 **[DSpark: Speculative decoding accelerates LLM inference [pdf]](ai/community/deepseek-ai-deepspec.md)** • <kbd>+27 pts</kbd>
-- 🔼 **[Learn AI | web.dev](ai/resources/learn-ai-web-dev.md)** • Rank: <kbd>+494</kbd>
-- 🔼 **[google-gemini/cookbook](ai/resources/google-gemini-cookbook.md)** • Rank: <kbd>+491</kbd>
-- 🔼 **[What is artificial intelligence? | web.dev](ai/rag/what-is-artificial-intelligence-web-dev.md)** • Rank: <kbd>+488</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
 - 🆕 **[AI learns the “dark art” of RFIC design](ai/community/ai-is-designing-radio-chips-that-humans-couldn-t-e.md)** • Score: `159`
-- 🆕 **[Asian AI startups launch Mythos-like models](ai/community/asian-ai-startups-launch-mythos-like-models.md)** • Score: `91`
-- 🆕 **['Careless People' author claims Meta surveilled her for 12mos to enforce silence](ai/community/careless-people-author-claims-meta-surveilled-her.md)** • Score: `85`
-- 🆕 **[Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](ai/community/kageroumado-adrafinil.md)** • Score: `37`
-- 🆕 **[Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Task Failed Successfully: Saturating NIC and Disk Bandwidth](ai/community/task-failed-successfully-saturating-nic-and-disk-b.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
