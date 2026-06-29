@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-29 17:12 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 18:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,20 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md)** • <kbd>+507 pts</kbd> • Rank: <kbd>+6</kbd>
-- 🔼 **[Model Training as Code](ai/community/model-training-as-code.md)** • <kbd>+136 pts</kbd> • Rank: <kbd>+1</kbd>
-- 🔼 **[Professor denounces mass AI fraud on an exam at Brown](ai/community/professor-denounces-mass-ai-fraud-on-an-exam-at-br.md)** • <kbd>+94 pts</kbd>
-- 🔼 **[Librepods: AirPods liberated](ai/community/librepods-org-librepods.md)** • <kbd>+85 pts</kbd>
-- 🔼 **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md)** • <kbd>+30 pts</kbd>
+- 🔼 **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+4</kbd>
+- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Reflex · The platform to build and scale enterprise apps](ai/agents/reflex-the-platform-to-build-and-scale-enterprise.md)** • Score: `0`
-- 🆕 **[Builder.io: Collaborative Platform to Build With AI Agents](ai/rag/builder-io-collaborative-platform-to-build-with-ai.md)** • Score: `0`
-- 🆕 **[Microsoft Terms of Use | Microsoft Legal](ai/rag/microsoft-terms-of-use-microsoft-legal.md)** • Score: `0`
-- 🆕 **[Releases · webpack/webpack · GitHub](ai/rag/webpack-webpack.md)** • Score: `0`
-- 🆕 **[webmproject/libwebp](ai/resources/webmproject-libwebp.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[usestrix/strix](ai/trending/usestrix-strix.md)**
-- 💤 **[ByteByteGoHq/system-design-101](ai/trending/bytebytegohq-system-design-101.md)**
-- 💤 **[Robbyant/lingbot-map](ai/trending/robbyant-lingbot-map.md)**
-- 💤 **[opendatalab/MinerU](ai/agents/opendatalab-mineru.md)**
-- 💤 **[DeusData/codebase-memory-mcp](ai/rag/deusdata-codebase-memory-mcp.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
