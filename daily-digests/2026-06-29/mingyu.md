@@ -1,27 +1,27 @@
 ---
 title: "Brhiza/mingyu"
 category: "Tooling"
-tech_stack: ["TypeScript", "React 19", "Vite 7", "React Router 7", "Cloudflare Pages", "Node.js", "Zod", "tyme4ts", "iztro", "MCP Server"]
+tech_stack: ["TypeScript", "React 19", "Vite 7", "React Router 7", "Cloudflare Pages", "Node.js", "zod", "tyme4ts", "iztro", "MCP Server", "OpenAPI"]
 quality_score: 9
 rag_relevance: 8
 tags: ["divination", "AI prompts", "metaphysics", "structured data", "Chinese astrology"]
 source: "https://github.com/Brhiza/mingyu"
-discovered_at: "2026-06-29T16:44:54Z"
+discovered_at: "2026-06-29T19:05:44Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Mingyu is a divination and fate analysis tool that generates structured prompts for AI models by combining traditional Chinese metaphysics (e.g., Bazi, ZWDS, astrology) with modern AI workflows. It enables users to perform detailed fate analysis, divination, and date selection, then export structured prompts for AI interpretation.
+Mingyu is a divination and fate analysis tool that generates structured prompts for AI models by combining traditional Chinese metaphysics (e.g., Bazi, ZWDS, astrology) with modern AI workflows. It provides structured data, user-friendly summaries, and AI-optimized prompts for divination practices like Tarot, I Ching, and Qi Men Dun Jia.
 
 ## Key Features
 - Supports 12+ divination systems (Bazi, ZWDS, astrology, I Ching, Tarot, etc.) with structured data output
-- Generates AI-optimized prompts for each divination result
-- Provides public API, MCP Server, and skill integrations for AI agents
-- Includes built-in model evaluation tools for AI divination accuracy testing
-- Offers web, API, and local deployment options
+- Generates AI-optimized prompts for LLM interpretation of divination results
+- Provides public API, MCP Server, and skill integrations for seamless AI agent adoption
+- Includes built-in model evaluation framework for benchmarking AI performance on divination tasks
+- Offers time-based divination with customizable timestamps for accurate historical analysis
 
 ## Why It Matters for RAG Builders
-It bridges traditional divination systems with modern AI workflows by generating structured prompts and data, enabling AI models to perform reliable fate analysis and divination tasks.
+It bridges traditional divination systems with modern AI workflows, enabling reliable, structured, and reproducible AI-driven metaphysical analysis for RAG and agent systems.
 
 ## Tech Stack Deep Dive
 ### TypeScript
@@ -42,8 +42,8 @@ Automated review identified **Cloudflare Pages** as a key module contributing to
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Zod
-Automated review identified **Zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### zod
+Automated review identified **zod** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### tyme4ts
 Automated review identified **tyme4ts** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
@@ -53,6 +53,9 @@ Automated review identified **iztro** as a key module contributing to infrastruc
 
 ### MCP Server
 Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenAPI
+Automated review identified **OpenAPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

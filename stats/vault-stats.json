@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-29T22:19:59.257644+05:30",
-  "last_updated": "2026-06-29 22:19 IST",
+  "generated_at": "2026-06-30T00:40:29.906158+05:30",
+  "last_updated": "2026-06-30 00:40 IST",
   "total_resources": 9794,
   "active_resources": 9521,
   "inactive_resources": 273,
-  "total_markdown_files": 49264,
+  "total_markdown_files": 49290,
   "archive_files": 37104,
   "archive_categories": 35,
   "workspace_archive_categories": 35,
@@ -17,7 +17,7 @@
   "examples_count": 8,
   "search_index_entries": 9521,
   "latest_resource_date": "2026-06-29T21:55:13.763266+05:30",
-  "latest_update_time": "2026-06-29T22:19:59.257708+05:30",
+  "latest_update_time": "2026-06-30T00:40:29.906212+05:30",
   "top_categories": [
     {
       "name": "ai/rag",
