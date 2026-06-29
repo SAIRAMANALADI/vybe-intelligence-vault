@@ -6,18 +6,18 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- benchmark
 - dataset
 - frontend_ui
 - github-repo
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any LLM (e.g., ChatGPT, open-source models) via a unified API, enabling flexible model switching and benchmarking.
+- **Multi-LLM Integration**: Open-source AI chat platform supporting seamless interaction with any LLM via modular architecture, enabling dynamic model switching and hybrid inference pipelines.
 
-- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search (e.g., FAISS, Chroma) for contextual information retrieval, optimized for large-scale datasets.
+- **Enterprise-Grade RAG & Vector Search**: Implements advanced Retrieval-Augmented Generation (RAG) with optimized vector search (e.g., FAISS, Weaviate) for low-latency, high-precision information retrieval across large-scale datasets.
 
-- **Full-Stack Architecture**: Python backend with Next.js fro
+- **Next.js + Python Stack**: Full-stack deployment with Next.js fr
 
 ## Use Cases
 

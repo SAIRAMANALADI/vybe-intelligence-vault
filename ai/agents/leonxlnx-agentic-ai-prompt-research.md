@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-06-30T01:50:35.746356+05:30'
+collected_at: '2026-06-30T03:55:16.256019+05:30'
 published_at: '2026-06-29T06:07:17Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-06-30T01:50:35.746356+05:30'
-last_seen: '2026-06-30T01:50:35.746356+05:30'
-last_checked: '2026-06-30T01:50:35.746356+05:30'
+first_seen: '2026-06-30T03:55:16.256019+05:30'
+last_seen: '2026-06-30T03:55:16.256019+05:30'
+last_checked: '2026-06-30T03:55:16.256019+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows, focusing on multi-agent collaboration and task decomposition.
-
-- **Security Classification Framework**: Proposes a security taxonomy for agentic AI systems, categorizing risks (e.g., prompt injection, data leakage) and mitigation strategies in AI-assisted development environments.
-
-- **System Prompt Optimization**: Investigates structured system prompts (e.g., role definition, constraints, output formats) to enhance reliability, reproducibility, and security in agentic AI coding assistants.
+- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding assistants.
+- **Prompt Engineering & System Prompts**: Focuses on reconstructing and optimizing system prompts for agentic AI workflows, including multi-agent collaboration and task decomposition.
+- **Security & Research Artifacts**: Analyzes security risks, threat models, and mitigation strategies for agentic AI systems, with research outputs available in the repository.
 
 ## Why It Matters
 

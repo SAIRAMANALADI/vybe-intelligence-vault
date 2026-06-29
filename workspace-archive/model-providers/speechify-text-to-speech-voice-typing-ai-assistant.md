@@ -16,7 +16,6 @@ tags:
 - producthunt
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform TTS & Voice AI**: Cross-platform (web, iOS, Android, Windows, macOS, Chrome/Edge extensions) with 1,000+ AI voices, real-time text-to-speech (TTS), voice dictation (160 WPM vs. 40 WPM typing), and contextual Q&A for documents/PDFs.
+- **Cross-Platform Voice AI Assistant**: Speechify provides a unified voice AI layer across web, Chrome/Edge extensions, iOS, Android, Windows, and macOS, enabling text-to-speech (TTS), voice dictation, and contextual Q&A with lifelike AI voices (1,000+ options) and real-time text highlighting.
 
-- **Core Features**: Document scanning/reading, speed control (up to 4.5x), text highlighting, AI-generated podcasts from text, meeting note-taking with summaries, and voice-first workspace integration (Slack, Outlook, etc.).
-
-- **Awards & Adoption
+- **Core Features**: Includes document/PDF scanning-to-speech, 4.5x speed playback, AI-powered summarization, podcast generation from text, voice-based note-taking (5x faster than typing), and meeting tr
 
 ## Use Cases
 

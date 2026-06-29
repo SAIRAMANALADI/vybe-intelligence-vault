@@ -15,6 +15,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for low-latency and high-throughput applications, supporting multi-modal and knowledge-intensive tasks.
+- **Framework Overview**: FastRAG is an efficient, modular Python framework for retrieval-augmented generation (RAG) optimized for speed and scalability, supporting multi-modal, knowledge-intensive tasks like QA, summarization, and semantic search.
 
-- **Key Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., diffusion, LLMs) with support for semantic search, QA, summarization, and knowledge graphs.
+- **Key Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., LLMs, diffusion) with support for knowledge graphs, enabling hybrid retrieval and adaptive generation workflows.
 
-- **Performance Focus**: Designed for scalability
+- **Perf
 
 ## Use Cases
 

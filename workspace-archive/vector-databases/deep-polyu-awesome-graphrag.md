@@ -14,7 +14,6 @@ tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - paper
 - rag
 - unknown
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Comprehensive collection of surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, LLMs, and RAG methodologies.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, reasoning over graphs) and adjacent fields (e.g., knowledge graph integration, LLM fine-tuning for structured data).
-- **Active Maintenance**: Last updated **June 202
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based RAG (GraphRAG)**, covering knowledge graphs, LLMs, and retrieval-augmented generation.
+- **Repository Metrics**: 2,500 stars, 216 forks, last updated **June 29, 2026**; language unspecified but targets technical audiences in AI/ML.
+- **Topical Scope**: Encompasses **GraphRAG-specific research**, including implementations, benchmarks, and methodologies for integrating knowledge gr
 
 ## Use Cases
 

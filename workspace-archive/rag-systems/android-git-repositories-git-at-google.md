@@ -2,7 +2,7 @@
 title: android Git repositories - Git at Google
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://android.googlesource.com
+source_url: http://android.googlesource.com
 resource_id: blog:android-git-repositories-git-at-google
 local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Centralized Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version-controlled access to AOSP (Android Open Source Project) and related components, including kernels, device-specific configurations, and accessory support.
+- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing public access to AOSP (Android Open Source Project) and related device-specific codebases, including kernels, device trees, and accessories.
 
-- **Device-Specific Branches & Kernel Versions**: The repository includes per-device directories (e.g., `device/google/barbet/`, `device/google/bluejay-kernels/6.1/`) with kernel branches for different Andro
+- **Device-Specific Branches**: The repository includes kernel and device-specific branches for various Google devices (e.g., `device/google/bluejay`, `device/google/coral`) with versioned subdirectories (e.g., `5.10`, `6.1`) and SELinux po
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://android.googlesource.com
+Original source URL: http://android.googlesource.com
 
 ## Local Vault File
 

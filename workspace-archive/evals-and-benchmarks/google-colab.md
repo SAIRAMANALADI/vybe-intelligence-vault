@@ -2,22 +2,20 @@
 title: Google Colab
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Google Colab
@@ -26,18 +24,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Resource Link**: [Milvus Bootcamp - Build RAG with Milvus](https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb) (access requires Google sign-in).
+- **Resource Access**: The provided link is a Google Colab notebook tutorial titled *"First RAG Pipeline"* hosted on GitHub under the `deepset-ai/haystack-tutorials` repository.
 
-- **Purpose**: Tutorial demonstrates **Retrieval-Augmented Generation (RAG)** using **Milvus** as a vector database for efficient similarity search in LLM applications.
+- **Content Focus**: The notebook demonstrates building a **Retrieval-Augmented Generation (RAG)** pipeline using the Haystack framework, a tool for NLP tasks like question answering and document search.
 
-- **Key Components**: Covers **Milvus vector DB setup**, **embedding generation**, and **integration with gene
+- **Prerequisite**: Requires Google account authentication to access and execute the interactive tutorial in Google
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
+Original source URL: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 
 ## Local Vault File
 

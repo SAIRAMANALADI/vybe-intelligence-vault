@@ -8,7 +8,7 @@ local_vault_path: ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: template
 importance: medium
 tags:
 - anthropic
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Document Processing Pipeline**: Uses `SentenceTransformersDocumentEmbedder` (e.g., `all-MiniLM-L6-v2`) to generate embeddings for documents stored in `InMemoryDocumentStore`, enabling vector-based retrieval.
+- **Document Processing Pipeline**: Uses `SentenceTransformersDocumentEmbedder` (model: `all-MiniLM-L6-v2`) to generate embeddings for Wikipedia documents (Seven Wonders dataset) stored in an `InMemoryDocumentStore`.
 
-- **RAG Pipeline Architecture**: Combines `SentenceTransformersTextEmbedder` for query embedding, `InMemoryEmbeddingRetriever` for document retrieval, `ChatPromptBuilder` for structured prompt generation, and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `TransformersChatGenerator`) f
+- **RAG Pipeline Components**: Combines `SentenceTransformersTextEmbedder` (same model), `InMemoryEmbeddingRetriever`, `ChatPromptBuilder` (Jinja2 template with `documents` and `question` variables), and a `ChatGenerator` (e.g., `OpenAIChatGenerator`, `MistralChatGenerator`, or `Tr
 
 ## Use Cases
 

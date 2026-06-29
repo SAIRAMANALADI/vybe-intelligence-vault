@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-30T01:48:45.681973+05:30'
+collected_at: '2026-06-30T03:53:26.251098+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - jupyter notebook
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-30T01:48:45.681973+05:30'
-last_seen: '2026-06-30T01:48:45.681973+05:30'
-last_checked: '2026-06-30T01:48:45.681973+05:30'
+first_seen: '2026-06-30T03:53:26.251098+05:30'
+last_seen: '2026-06-30T03:53:26.251098+05:30'
+last_checked: '2026-06-30T03:53:26.251098+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRAG provides a comprehensive evaluation framework for Retrieval-Augmented Generation (RAG) systems, featuring diverse datasets and tasks to assess performance across retrieval, generation, and end-to-end metrics.
-
-- **Evaluation Metrics**: Includes granular metrics for precision, recall, latency, and factuality, enabling fine-grained analysis of RAG components (retriever, generator, and their interaction).
-
-- **Reproducibility**: Implemented in Jupyter Notebooks with open-source dependencies, ensuring transparent and reproducible benchmarking for RAG research.
+- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed for systematic assessment of performance across diverse tasks and configurations.
+- **Implementation**: Primarily structured as Jupyter Notebooks, facilitating reproducible experimentation and modular evaluation of RAG components (retriever, generator, and integration strategies).
+- **Scope**: Targets granular analysis of RAG pipelines, including robustness to noise, factuality, and adaptability to domain-specific or adversarial queries.
 
 ## Why It Matters
 

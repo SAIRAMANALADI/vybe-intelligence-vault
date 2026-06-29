@@ -4,17 +4,17 @@ title: Factory Images for Nexus and Pixel Devices | Google Play services | Googl
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.google.com/android/images/
-published_at: '2026-06-29T17:03:21.793660+05:30'
-collected_at: '2026-06-29T17:03:21.793673+05:30'
+source_url: http://developers.google.com/android/images/
+published_at: '2026-06-30T04:00:12.854035+05:30'
+collected_at: '2026-06-30T04:00:12.854047+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:factory-images-for-nexus-and-pixel-devices-google
-first_seen: '2026-06-29T17:03:21.793673+05:30'
-last_seen: '2026-06-29T17:03:21.793673+05:30'
-last_checked: '2026-06-29T17:03:21.793673+05:30'
+first_seen: '2026-06-30T04:00:12.854047+05:30'
+last_seen: '2026-06-30T04:00:12.854047+05:30'
+last_checked: '2026-06-30T04:00:12.854047+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Factory images restore Nexus/Pixel devices to original firmware but require bootloader unlock, data wipe, and relock post-installation.
-- May 2025/2026 Pixel updates (e.g., Pixel 6/8 series) increment bootloader anti-rollback versions, preventing rollback to older builds; inactive slots must be updated post-installation to avoid unbootable states.
-- Sideloading full OTA images is safer than factory images (no data loss or bootloader unlock required), but factory images are intended for restoring stock firmware after custom builds.
+- Factory images restore Nexus/Pixel devices to original firmware but require bootloader unlock, data wipe, and relock post-installation; OTA images are safer alternatives.
+- May 2025/2026 updates for specific Pixel devices (e.g., Pixel 6/8 series, Pixel 10) increment bootloader anti-rollback versions, necessitating post-update bootloader flashing to inactive slot to prevent unbootable states.
+- Factory images are licensed for personal use only; redistribution/modification is prohibited under Google’s terms, with SPL dates differing from release dates.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T17:03:21.793660+05:30
+- Published: 2026-06-30T04:00:12.854035+05:30
 
 ## Related Tags
 
@@ -43,4 +43,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.google.com/android/images/
+Original source: http://developers.google.com/android/images/

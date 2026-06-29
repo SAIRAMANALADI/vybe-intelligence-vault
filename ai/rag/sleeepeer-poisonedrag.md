@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-30T01:48:55.637670+05:30'
+collected_at: '2026-06-30T03:53:36.166995+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-30T01:48:55.637670+05:30'
-last_seen: '2026-06-30T01:48:55.637670+05:30'
-last_checked: '2026-06-30T01:48:55.637670+05:30'
+first_seen: '2026-06-30T03:53:36.166995+05:30'
+last_seen: '2026-06-30T03:53:36.166995+05:30'
+last_checked: '2026-06-30T03:53:36.166995+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance scores.
+- **Novel Attack Framework**: Introduces *PoisonedRAG*, a first-of-its-kind attack targeting Retrieval-Augmented Generation (RAG) systems by corrupting external knowledge bases to manipulate LLM outputs during inference.
 
-- **Technical Mechanism**: Exploits vulnerabilities in the retrieval-augmentation pipeline by crafting adversarial documents that trigger specific token sequences in the LLM, bypassing traditional safety mechanisms and ensuring persistent corruption even after retrieval filtering.
+- **Knowledge Corruption Mechanisms**: Demonstrates two attack vectors—*direct poisoning* (malicious document insertion) and *indirect poisoning* (trigger-based retrieval manipulation)—achieving up to 98% attack success rate in controlled experiments.
 
-- **Evaluation & Impact**: Validates the attack on multiple RAG architectures (e.g., dense retrieval + LLMs) with empirical results showing up to **90% attack success rate** across benchmarks, highlighting critical security gaps in trustworthy AI systems.
+- **Defense Evaluation**: Proposes and evaluates lightweight detection/mitigation strategies (e.g., embedding clustering, adversarial filtering) with empirical evidence of reduced attack efficacy under constrained conditions.
 
 ## Why It Matters
 

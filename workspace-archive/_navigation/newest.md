@@ -14,6 +14,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` |
 | 2026-04-22 | [aigateway-sh/awesome-ai-gateway](https://github.com/aigateway-sh/awesome-ai-gateway) | `evals-and-benchmarks/` |
 | 2026-04-21 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | `rag-systems/` |
+| 2026-04-20 | [superMLdev/smart-sdlc](https://github.com/superMLdev/smart-sdlc) | `ai-coding-agents/` |
 | 2026-04-17 | [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) | `ai-coding-agents/` |
 | 2026-04-16 | [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) | `ai-coding-agents/` |
 | 2026-04-16 | [bluehands/GirlsDay2026](https://github.com/bluehands/GirlsDay2026) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-18 | [G1o22/awesome-ai-agents-2026](https://github.com/G1o22/awesome-ai-agents-2026) | `ai-coding-agents/` |
 | 2026-03-18 | [plusai-solutions/ai-scrum-master-template](https://github.com/plusai-solutions/ai-scrum-master-template) | `rag-systems/` |
 | 2026-03-16 | [isumitsoni/awesome-ai-pm](https://github.com/isumitsoni/awesome-ai-pm) | `evals-and-benchmarks/` |
-| 2026-03-14 | [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) | `ai-coding-agents/` |

@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-29T21:43:19.489627+05:30'
-collected_at: '2026-06-29T21:43:19.489640+05:30'
+published_at: '2026-06-30T03:52:19.498609+05:30'
+collected_at: '2026-06-30T03:52:19.498621+05:30'
 tags:
 - benchmark
 - models
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-06-29T21:43:19.489640+05:30'
-last_seen: '2026-06-29T21:43:19.489640+05:30'
-last_checked: '2026-06-29T21:43:19.489640+05:30'
+first_seen: '2026-06-30T03:52:19.498621+05:30'
+last_seen: '2026-06-30T03:52:19.498621+05:30'
+last_checked: '2026-06-30T03:52:19.498621+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Five-stage pipeline—load (documents), chunk (split into retrieval-sized pieces), embed (convert to vectors via `text-embedding-3-small`), retrieve (semantic search in ChromaDB with `k=4` top chunks), and generate (LLM answer grounded in retrieved context using `gpt-4o-mini`).
+- **RAG Pipeline Architecture**: A 5-step process consisting of document loading, chunking, embedding/indexing (using ChromaDB), retrieval (semantic similarity search), and generation (LLM context integration with LangChain), enabling dynamic knowledge integration without model retraining.
 
-- **Modularity & Interchangeability**: Components (loaders, chunkers, embeddings, vector DBs, LLMs) are swappable (e.g., Pinecone/pgvector for DB, custom chunkers, or alternative LLMs), enabling scalable, production-ready systems without retraining.
+- **Chunking Strategy**: Recursive character splitting (512-token chunks with 50-token overlap) preserves semantic boundaries while optimizing retrieval granularity, balancing context retention and retrieval efficiency.
 
-- **Enhancements for Production**: Cross-encoder re-ranking (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) improves retrieval precision, while RAGAS evaluates faithfulness, relevancy, and context precision to optimize end-to-end performance.
+- **Production Enhancements**: Cross-encoder re-ranking (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) improves retrieval precision, while frameworks like RAGAS enable evaluation of faithfulness, relevancy, and context precision for deployment-ready RAG systems.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:43:19.489627+05:30
+- Published: 2026-06-30T03:52:19.498609+05:30
 
 ## Related Tags
 

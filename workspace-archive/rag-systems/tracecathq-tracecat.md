@@ -14,7 +14,6 @@ tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Architecture**: Open-source security automation platform built with FastAPI (backend), Next.js (frontend), and Temporal.io (workflow orchestration), leveraging Python and Pydantic for data validation and OpenAPI for API specification.
+- **Core Architecture**: Python-based open-source platform leveraging FastAPI for backend services, Next.js for frontend, and Temporal.io for distributed workflow orchestration with event-driven automation.
 
-- **Key Features**: Event-driven automation with low-code workflows, designed for integration with LLM agents and security monitoring, enabling AI-driven incident response and orchestration.
+- **Security & Data Modeling**: Implements Pydantic for data validation and OpenAPI for API specification, enabling low-code security automation with structured workflows and agent interactions.
 
-- **Technical Stack**: Combines Python-based backend servic
+- **Scalability & Integration**: Supports LLM integrations for AI-driven decision-making, with m
 
 ## Use Cases
 

@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG (Retrieval-Augmented Generation) implementation using local LLMs for privacy and reduced dependency on cloud APIs.
-- **Dynamic Database Updates**: Implements automated database refresh mechanisms to ensure retrieval sources remain current without manual intervention.
-- **Testing Framework**: Includes a structured testing pipeline to validate RAG performance, covering retrieval accuracy, response quality, and end-to-end latency.
+- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) with local language models (LLMs) using LangChain, eliminating dependency on cloud-based APIs.
+- **Dynamic Database Updates**: Implements automated vector database refresh mechanisms to ensure retrieval relevance with updated knowledge sources.
+- **Testing Framework**: Includes structured evaluation pipelines for RAG performance, covering retrieval accuracy, response quality, and latency benchmarks.
 
 ## Use Cases
 

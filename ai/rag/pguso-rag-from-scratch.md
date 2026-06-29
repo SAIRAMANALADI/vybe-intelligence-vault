@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-30T01:47:50.578749+05:30'
+collected_at: '2026-06-30T03:52:31.127832+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-30T01:47:50.578749+05:30'
-last_seen: '2026-06-30T01:47:50.578749+05:30'
-last_checked: '2026-06-30T01:47:50.578749+05:30'
+first_seen: '2026-06-30T03:52:31.127832+05:30'
+last_seen: '2026-06-30T03:52:31.127832+05:30'
+last_checked: '2026-06-30T03:52:31.127832+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation (RAG) system built from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Pipeline**: Provides a step-by-step implementation of Retrieval-Augmented Generation (RAG) from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and avoiding proprietary black boxes.
 
-- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components, including embedding generation, vector database operations, and dynamic context integration for enhanced LLM responses.
+- **Core Components**: Demonstrates embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation, all implemented in Node.js for hands-on learning.
 
-- **Technical Stack**: Utilizes Node.js with `node-llama-cpp` for local LLM inference, emphasizing transparency and full control over the RAG pipeline for debugging and learning purposes.
+- **Agent Integration**: Includes AI-agent functionality, enabling the RAG system to interact dynamically with retrieved data for enhanced chatbot or pipeline applications, with last updates as of June 2026.
 
 ## Why It Matters
 

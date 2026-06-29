@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Debugging**: LangSmith provides native tracing for agent frameworks (OpenTelemetry-compatible), structured timelines for multi-turn interactions, and AI-driven analytics to debug complex agent behaviors (e.g., branching logic, tool integration).
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals to accelerate agent improvement via structured production trace analysis.
 
-- **Evaluation & Iteration**: Supports reusable LLM-as-judge evals, human feedback annotations, and automated scoring (online/offline) to iteratively improve agents using production traces as test cases.
+- **Multi-Layered Agent Infrastructure**: Supports fault-tolerant, scalable deployment with native A2A/MCP protocol integration, durable checkpointing, and async human-agent collaboration.
 
-- **Deployment & Scalability
+- **Cross-Framework Observability & Evaluation**: Framework-agnostic tracing (Python/TypeScript/Go/Java SDKs) with LLM-as-judge evals, human
 
 ## Use Cases
 

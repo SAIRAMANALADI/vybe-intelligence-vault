@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-06-29T21:45:52.333596+05:30'
+collected_at: '2026-06-30T03:54:51.280469+05:30'
 published_at: '2026-06-29T13:51:19Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-06-29T21:45:52.333596+05:30'
-last_seen: '2026-06-29T21:45:52.333596+05:30'
-last_checked: '2026-06-29T21:45:52.333596+05:30'
+first_seen: '2026-06-30T03:54:51.280469+05:30'
+last_seen: '2026-06-30T03:54:51.280469+05:30'
+last_checked: '2026-06-30T03:54:51.280469+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
-- **Multi-Faceted ADK Support**: Focuses on ADK-Python and ADK-Web, with examples for multi-agent systems, agentic AI, and integration with Google's Gemini AI, facilitating diverse agent development workflows.
-- **Technical Metadata**: Python-based repository with 325 stars and 46 forks, last updated on 2026-06-29, emphasizing agentic AI, templates, and Google ADK ecosystems.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+
+- **Multi-Faceted ADK Support**: Features ADK-Python and ADK-Web implementations, with examples for single and multi-agent systems, and integration with Google’s Gemini AI for agentic workflows.
+
+- **Technical Stack & Metadata**: Primarily Python-based, with 325 stars and 46 forks, last updated June 29, 2026; categorized under topics like `agent-samples`, `multi-agent-systems`, and `gemini-ai`.
 
 ## Why It Matters
 

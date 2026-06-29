@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Gemini-3.1-Flash-TTS**: Google's high-speed, expressive TTS model supporting 30 voices and 70+ languages, optimized for low-latency inference and high naturalness via advanced autoregressive/non-autoregressive hybrid architecture.
-
-- **p-video-avatar**: Ultra-efficient avatar/lipsync generation model (78.4K runs) leveraging lightweight transformer-based facial animation and neural rendering for real-time, low-cost synthesis.
-
-- **Music-2.6**: Minimax's text-to-music diffusion model (14.8K ru
+- **HappyHorse-1.0**: Alibaba's text-to-video/image-to-video diffusion model supporting 720p/1080p resolutions, 3-15s durations, and 5 aspect ratios (25.6K runs).
+- **Grok-Imagine-Video**: xAI's video generation model leveraging Grok architecture (1.2M runs).
+- **SEEDance-2.0**: ByteDance's multimodal video generator with native audio, multimodal reference inputs, and adaptive duration control (912K runs).
 
 ## Use Cases
 

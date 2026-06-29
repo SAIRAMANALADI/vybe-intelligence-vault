@@ -14,8 +14,8 @@ tags:
 - agents
 - hackernews
 - rag
-- scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Chrome 150 Beta & 149 Stable Updates**: Introduces CSS gap decorations, WebSocket disconnection for bfcache, and Intl.Locale variants in Chrome 149 stable; Chrome 150 beta previews upcoming features.
-- **Chrome DevTools & Automation**: Chrome DevTools for debugging, Puppeteer for browser automation, and ChromeDriver for Selenium-based testing.
-- **AI & Web Platform Enhancements**: New AI-powered capabilities (e.g., auto_awesome), Baseline standardization for web features, and Web App Manifes
+- **AI Integration**: Chrome's AI capabilities (`auto_awesome`) enable developers to leverage machine learning models directly in the browser via the [Chrome AI API](https://developer.chrome.com/docs/ai), facilitating agentic web workflows.
+- **Performance & Debugging Tools**: Chrome 149/150 introduce CSS gap decorations, WebSocket bfcache handling, and Intl.Locale variants, alongside DevTools, Puppeteer, and ChromeDriver for automated testing and debugging.
+- **Web Platform APIs**: Chrome suppo
 
 ## Use Cases
 

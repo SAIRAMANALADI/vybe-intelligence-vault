@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **SEC Form 8-K disclosure**: A Pennsylvania bank filed an SEC Form 8-K for unauthorized employee use of an AI tool on customer data, marking the first "shadow AI" disclosure as a material cybersecurity risk, setting a precedent for regulatory scrutiny.
+- **SEC Form 8-K Disclosure**: A Pennsylvania bank disclosed unauthorized AI tool usage on customer data in an SEC Form 8-K, marking the first "shadow AI" cybersecurity risk disclosure, setting a precedent for regulatory scrutiny.
 
-- **Regulatory implications**: The disclosure signals that regulators are increasingly treating unauthorized AI usage (shadow AI) as a critical cybersecurity risk, requiring formal reporting even without traditional breach indicators like hacki
+- **Shadow AI Risk Amplification**: Unauthorized AI tool usage on sensitive data constitutes a material cybersecurity risk, independent of traditional breach indicators (e.g., hacking, operational disruption).
+
+- **Regulatory Implications**: Financial institutions mus
 
 ## Use Cases
 

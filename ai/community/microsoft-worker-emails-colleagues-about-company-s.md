@@ -13,13 +13,14 @@ collected_at: '2026-06-30T01:46:50.152854+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-worker-emails-colleagues-about-company-s
 first_seen: '2026-06-30T01:46:50.152854+05:30'
 last_seen: '2026-06-30T01:46:50.152854+05:30'
 last_checked: '2026-06-30T01:46:50.152854+05:30'
 health_score: 100
 ---
+
 
 # Microsoft worker emails colleagues about company's support for genocidal Israel
 

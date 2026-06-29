@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code completion and generation within the editor, providing whole-line or function-level suggestions for multiple programming languages.
-- **GitHub Actions**: CI/CD automation platform enabling workflow definition via YAML, with support for matrix builds, reusable workflows, and self-hosted or GitHub-hosted runners.
-- **GitHub Advanced Security (GHAS)**: Integrated security suite including CodeQL static analysis, secret scanning, dependency vulnerability alerts (
+- **GitHub Copilot**: AI-powered code suggestions for entire functions or lines directly in the editor, with autofix capabilities for 90% of security alerts in supported languages (JavaScript, TypeScript, Java, Python).
+
+- **GitHub Actions & CI/CD**: Automates workflows via YAML-based tasks, supports self-hosted and GitHub-hosted runners (Linux, Windows, macOS, ARM, GPU), and integrates with 10K+ community actions for testing, deployment, and security compliance.
+
+- **GitHub Advanced Security (G
 
 ## Use Cases
 

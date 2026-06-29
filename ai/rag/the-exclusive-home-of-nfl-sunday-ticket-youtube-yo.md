@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-06-28T19:50:56.717915+05:30'
-collected_at: '2026-06-28T19:50:56.717929+05:30'
+published_at: '2026-06-30T03:57:03.728506+05:30'
+collected_at: '2026-06-30T03:57:03.728520+05:30'
 tags:
 - agents
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-06-28T19:50:56.717929+05:30'
-last_seen: '2026-06-28T19:50:56.717929+05:30'
-last_checked: '2026-06-28T19:50:56.717929+05:30'
+first_seen: '2026-06-30T03:57:03.728520+05:30'
+last_seen: '2026-06-30T03:57:03.728520+05:30'
+last_checked: '2026-06-30T03:57:03.728520+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,20 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Plans**: New users can access NFL Sunday Ticket for **$20/month (12 non-cancelable payments)** or **$240/year** on YouTube TV or standalone; returning users pay **$31.50/month** or **$378/year**. Requires active YouTube TV plan for bundled option.
+- **Pricing & Availability**:
+  - **New Users**: NFL Sunday Ticket + YouTube TV Sports Plan costs **$240/yr** ($20/mo for 12 months) or standalone NFL Sunday Ticket at **$240/yr** ($20/mo).
+  - **Returning Users**: NFL Sunday Ticket + YouTube TV Sports Plan costs **$378/yr** ($31.50/mo) or standalone NFL Sunday Ticket at **$480/yr** ($40/mo).
+  - Requires **active YouTube TV Sports Plan** for access; cancellation terminates NFL Sunday Ticket access.
 
-- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC), **multiview (4 games simultaneously)**, **NFL RedZone** (touchdown-focused channel), and **unlimited cloud DVR**. Excludes digital-only games and commercial use.
+- **Content & Features**:
+  - **Out-of-Market Sunday Games**: Access to all out-of-market Sunday NFL games (32 teams, both AFC/NFC conferences).
+  - **Multiview & Enhanced Features**: Supports **4-game multiview**, **fantasy view**, and **key-play highlights replay**.
+  - **Local/National Games**: Includes Sunday Night Football, Monday Night Football, NFL Playoffs, and Super Bowl LXI via YouTube TV Sports Plan.
 
-- **Technical Requirements**: Requires **high-speed internet (7+ Mbps recommended)** and **compatible devices** (YouTube/YouTube TV apps). Standalone option available without cable/satellite subscription.
+- **Technical Requirements & Platform Support**:
+  - **Internet**: Minimum **3 Mbps** (7+ Mbps recommended for higher quality).
+  - **Devices**: Supported via **YouTube/YouTube TV apps** (web, mobile, TV, gaming consoles).
+  - **No Contracts**: Monthly installments available; no satellite dish or 2-year commitment required.
 
 ## Why It Matters
 
@@ -40,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:50:56.717915+05:30
+- Published: 2026-06-30T03:57:03.728506+05:30
 
 ## Related Tags
 

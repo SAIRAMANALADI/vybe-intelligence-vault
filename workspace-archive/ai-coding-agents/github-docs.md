@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- GitHub Docs provide structured guides for **version control (Git)**, **authentication (SSH/tokens)**, and **repository management** (creation, collaboration, and remote synchronization).
-- **CI/CD and security workflows** are supported via **GitHub Actions**, **code vulnerability scanning (CodeQL)**, and **supply chain security** tools.
-- **Developer tooling** includes **GitHub CLI**, **Copilot IDE integration**, and **REST/GraphQL APIs** for automation and custom integrations.
+- **Core GitHub Infrastructure**: GitHub relies on Git (open-source VCS) for local operations and supports secure remote access via SSH for authenticated interactions with repositories.
+
+- **Collaboration & CI/CD**: Enables code collaboration through pull requests, integrates with GitHub Actions for CI/CD pipelines, and supports secure secrets management via GitHub's native tools.
+
+- **Developer & Enterprise Tools**: Provides REST/GraphQL APIs, webhooks for event-driven automation, and enterpris
 
 ## Use Cases
 

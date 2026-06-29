@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Definition & Scope of Personal Data**: Apple defines personal data as any information relating to an identified or identifiable individual (including device identifiers, serial numbers, or aggregated data that can be linked to a user), regardless of geographic location, excluding aggregated non-personal data.
+- **Definition & Scope of Personal Data**: Apple defines "personal data" broadly to include any data linked or linkable to an identifiable individual (e.g., device serial numbers, usage data), excluding aggregated non-personal data, and applies this globally regardless of user location.
 
-- **Data Collection & Sources**: Apple collects personal data directly (e.g., account, device, payment, health/fitness, location, or transaction data) and indirectly (e.g., from third
+- **Data Collection & Sources**: Apple collects diverse personal data (e.g., account, device, payment, health, location, and transaction data) directly from users and indirectly from third parties (e.g., partner
 
 ## Use Cases
 

@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-30T01:47:40.583227+05:30'
+collected_at: '2026-06-30T03:52:21.218835+05:30'
 published_at: '2026-06-29T19:49:51Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 - youtube
 stars: 21665
 language: Python
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-06-06T06:47:29Z'
 pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
-first_seen: '2026-06-30T01:47:40.583227+05:30'
-last_seen: '2026-06-30T01:47:40.583227+05:30'
-last_checked: '2026-06-30T01:47:40.583227+05:30'
+first_seen: '2026-06-30T03:52:21.218835+05:30'
+last_seen: '2026-06-30T03:52:21.218835+05:30'
+last_checked: '2026-06-30T03:52:21.218835+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation pipelines.
-
-- **Modular Architecture**: Implements a plug-and-play design with interchangeable components (e.g., retrievers, encoders, generators) for customizable RAG workflows tailored to specific multi-modal tasks.
-
-- **Optimized End-to-End Pipeline**: Leverages advanced techniques like vector databases, cross-modal attention, and dynamic prompt engineering to enhance retrieval relevance and generation quality in heterogeneous data environments.
+- **Multi-modal RAG Integration**: Framework supports retrieval-augmented generation across text, images, audio, and video modalities, enabling unified processing of heterogeneous data sources.
+- **Modular Architecture**: Implements a plug-and-play pipeline with configurable components (retrievers, rerankers, generators) for flexible deployment in diverse RAG scenarios.
+- **Optimized Performance**: Leverages advanced indexing (e.g., FAISS, Milvus) and parallel processing to enhance retrieval efficiency and generation quality in large-scale applications.
 
 ## Why It Matters
 

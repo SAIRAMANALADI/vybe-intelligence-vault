@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,821</p>
-        <p><b>Active:</b> 9,547 | <b>Inactive:</b> 274</p>
+        <p><b>Resources tracked:</b> 9,854</p>
+        <p><b>Active:</b> 9,577 | <b>Inactive:</b> 277</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 37,153</p>
+        <p><b>Archive Files:</b> 37,204</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 02:57 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 04:08 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,25 +55,27 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Tidal AI Policy](ai/community/tidal-ai-policy.md)** • <kbd>+83 pts</kbd>
-- 🔼 **[Python Packaging User Guide](ai/resources/python-packaging-user-guide.md)** • Rank: <kbd>+62</kbd>
-- 🔼 **[pradyunsg/furo](ai/resources/pradyunsg-furo.md)** • Rank: <kbd>+34</kbd>
-- 🔼 **[PEP 621 Metadata - PDM](ai/rag/pep-621-metadata-pdm.md)** • Rank: <kbd>+2242</kbd>
-- 🔼 **[Llama Hub](ai/rag/llama-hub.md)** • Rank: <kbd>+1370</kbd>
+- 🔼 **[Standard Contractual Clauses (SCC) - European Commission](ai/resources/standard-contractual-clauses-scc-european-commissi.md)** • Rank: <kbd>+4575</kbd>
+- 🔼 **[Apple Platform Security - Apple Support](ai/resources/apple-platform-security-apple-support.md)** • Rank: <kbd>+483</kbd>
+- 🔼 **[Gerrit](ai/resources/gerrit.md)** • Rank: <kbd>+3385</kbd>
+- 🔼 **[PageSpeed Insights](ai/resources/pagespeed-insights.md)** • Rank: <kbd>+371</kbd>
+- 🔼 **[Shows | web.dev](ai/resources/shows-web-dev.md)** • Rank: <kbd>+2017</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[The CEO of Mullvad is the main financer of the Swedish Örebro party](ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md)** • Score: `402`
-- 🆕 **[Microsoft worker emails colleagues about company's support for genocidal Israel](ai/community/microsoft-worker-emails-colleagues-about-company-s.md)** • Score: `5`
-- 🆕 **[run-llama/llama-hub](ai/rag/run-llama-llama-hub.md)** • Score: `0`
-- 🆕 **[Core metadata specifications - Python Packaging User Guide](ai/rag/core-metadata-specifications-python-packaging-user.md)** • Score: `0`
-- 🆕 **[Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation](ai/resources/building-and-distributing-packages-with-setuptools.md)** • Score: `0`
+- 🆕 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • Score: `145`
+- 🆕 **[Working With AI: A concrete example](ai/community/working-with-ai-a-concrete-example.md)** • Score: `58`
+- 🆕 **[Ornith-1.0: Self-scaffolding LLMs for agentic coding](ai/community/ornith-1-0-self-scaffolding-llms-for-agentic-codin.md)** • Score: `44`
+- 🆕 **[Using custom elements - Web APIs | MDN](ai/rag/using-custom-elements-web-apis-mdn.md)** • Score: `0`
+- 🆕 **[declarative-shadow-dom/README.md at master · mfreed7/declarative-shadow-dom · GitHub](ai/resources/mfreed7-declarative-shadow-dom.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md)**
+- 💤 **[The CEO of Mullvad is the main financer of the Swedish Örebro party](ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md)**
+- 💤 **[Tidal AI Policy](ai/community/tidal-ai-policy.md)**
+- 💤 **[Microsoft worker emails colleagues about company's support for genocidal Israel](ai/community/microsoft-worker-emails-colleagues-about-company-s.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-06-30T01:48:45.611722+05:30'
+collected_at: '2026-06-30T03:53:26.150486+05:30'
 published_at: '2026-06-29T11:50:22Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 451
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-06-30T01:48:45.611722+05:30'
-last_seen: '2026-06-30T01:48:45.611722+05:30'
-last_checked: '2026-06-30T01:48:45.611722+05:30'
+first_seen: '2026-06-30T03:53:26.150486+05:30'
+last_seen: '2026-06-30T03:53:26.150486+05:30'
+last_checked: '2026-06-30T03:53:26.150486+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG (Graph Retrieval-Augmented Generation) models, designed to assess performance across graph-based retrieval tasks.
-- **Dataset & Analysis**: Includes curated datasets and analytical tools to determine optimal use cases for graph structures in RAG pipelines, with findings targeting ICLR'26 submission.
-- **Python Implementation**: Open-source Python library supporting modular evaluation of graph retrieval methods, with active maintenance (last update: 2026-06-29) and community contributions (451 stars, 52 forks).
+- **Benchmark Suite**: Provides a standardized evaluation framework for GraphRAG models, focusing on graph-based retrieval augmentation in RAG systems, with datasets and metrics designed for ICLR'26 validation.
+- **Technical Scope**: Implements Python-based tools for analyzing graph retrieval strategies, including node/edge-based indexing, graph traversal algorithms, and hybrid retrieval mechanisms.
+- **Dataset & Analysis**: Includes curated datasets for assessing performance across graph structures (e.g., knowledge graphs, document graphs) and publishes comparative results for model variants (e.g., GraphRAG vs. traditional RAG).
 
 ## Why It Matters
 

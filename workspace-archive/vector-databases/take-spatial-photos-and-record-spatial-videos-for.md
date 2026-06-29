@@ -16,7 +16,6 @@ tags:
 - openai
 - paper
 - rag
-- reddit
 - scripts
 - web-crawled
 - youtube
@@ -36,9 +35,8 @@ selection_reason:
 
 ## Summary
 
-- **iOS 26 Compatibility & Models**: iOS 26 supports iPhone models from iPhone 11 and later, including iPhone SE (2nd/3rd gen), iPhone 12/13/14/15/16/17 series, and iPhone Air/17e.
-- **Battery & Power Management**: iOS 26 introduces advanced battery features like optimized charging, charge limits, thermally limited charging, and Power Modes to extend battery lifespan and efficiency.
-- **Multitasking & UI Enhancements**: iOS 26 supports Picture in Picture, Dynamic Island Live Activities, customiz
+- **iOS 26 Compatibility & Features**: iOS 26 supports iPhone models from iPhone 11 to iPhone 17 series, including SE (2nd/3rd gen), with new features like spatial photos/videos for Vision Pro integration and enhanced battery management tools (e.g., charge limits, Power Modes).
+- **Hardware-Software Integration**: iPhone 15/16/17 series introduce Dynamic Island support for Live Activities, Action Button customization, and advanced camera controls (e.g., ProRes video, Photonic Engine for iPhone 1
 
 ## Use Cases
 

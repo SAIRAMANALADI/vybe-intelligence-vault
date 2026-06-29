@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **4** new resources across our source networks.
+During this cycle, we discovered **3** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -22,14 +22,14 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Category | Count |
 |---|---:|
 | ai/models | 767 |
-| ai/rag | 531 |
-| ai/agents | 246 |
+| ai/rag | 558 |
+| ai/agents | 249 |
 | ai/research | 235 |
-| ai/resources | 175 |
+| ai/resources | 207 |
 | web-development/nextjs | 77 |
 | web-development/react-three-fiber | 25 |
-| web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
+| web-development/webgpu | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development | 25 |
 | web-development/threejs | 23 |
@@ -42,940 +42,993 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/releases | 4 |
 | ai/companies/openai | 4 |
 | ai/community | 3 |
-| web-development/tailwind | 1 |
 | web-development/webgl | 1 |
+| web-development/tailwind | 1 |
 
 ## Most Common Tags
 
 | Tag | Count |
 |---|---:|
-| rag | 531 |
-| agents | 464 |
-| web-crawled | 381 |
-| hackernews | 333 |
-| github-repo | 325 |
-| benchmark | 298 |
-| models | 282 |
-| workflows | 274 |
-| frontend_ui | 269 |
-| reddit | 217 |
-| dataset | 201 |
-| python | 168 |
-| youtube | 166 |
-| scripts | 119 |
-| openai | 119 |
+| rag | 558 |
+| agents | 478 |
+| web-crawled | 434 |
+| hackernews | 357 |
+| github-repo | 334 |
+| benchmark | 305 |
+| models | 285 |
+| workflows | 284 |
+| frontend_ui | 276 |
+| reddit | 243 |
+| dataset | 214 |
+| youtube | 189 |
+| python | 171 |
+| scripts | 124 |
+| openai | 124 |
 
 ## Weekly Community Updates
 
-1. [The CEO of Mullvad is the main financer of the Swedish Örebro party](../../ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md) ([Source](https://det.social/@lostgen/116820546568940358)) (HN Score: 402) - `ai/community`
-2. [Tidal AI Policy](../../ai/community/tidal-ai-policy.md) ([Source](https://tidal.com/ai-policy)) (HN Score: 266) - `ai/community`
-3. [Microsoft worker emails colleagues about company's support for genocidal Israel](../../ai/community/microsoft-worker-emails-colleagues-about-company-s.md) ([Source](https://thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails)) (HN Score: 5) - `ai/community`
+1. [.self: A new top-level domain designed to support self-hosting](../../ai/community/self-a-new-top-level-domain-designed-to-support-se.md) ([Source](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain)) (HN Score: 145) - `ai/community`
+2. [Working With AI: A concrete example](../../ai/community/working-with-ai-a-concrete-example.md) ([Source](https://htmx.org/essays/working-with-ai)) (HN Score: 58) - `ai/community`
+3. [Ornith-1.0: Self-scaffolding LLMs for agentic coding](../../ai/community/ornith-1-0-self-scaffolding-llms-for-agentic-codin.md) ([Source](https://deep-reinforce.com/ornith_1_0.html)) (HN Score: 44) - `ai/community`
 4. [HashiCorp Services Status](../../ai/resources/hashicorp-services-status.md) ([Source](https://status.hashicorp.com)) - `ai/resources`
 5. [About privacy information on the App Store and the choices you have to control your data - Apple Support](../../ai/resources/about-privacy-information-on-the-app-store-and-the.md) ([Source](https://support.apple.com/kb/ht211970)) - `ai/resources`
 6. [Supported browsers for Google Workspace | Support & troubleshooting | Google Workspace Help](../../ai/resources/supported-browsers-for-google-workspace-support-tr.md) ([Source](https://support.google.com/a/answer/33864)) - `ai/resources`
 7. [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](../../ai/resources/protocolbuffers-protobuf-go.md) ([Source](https://github.com/protocolbuffers/protobuf-go)) - `ai/resources`
 8. [Helping with documentation](../../ai/resources/helping-with-documentation.md) ([Source](https://devguide.python.org/documentation/help-documenting)) - `ai/resources`
-9. [Web Vitals | Articles | web.dev](../../ai/resources/web-vitals-articles-web-dev.md) ([Source](https://web.dev/articles/vitals)) - `ai/resources`
-10. [Permissions | Node.js v26.4.0 Documentation](../../ai/resources/permissions-node-js-v26-4-0-documentation.md) ([Source](https://nodejs.org/api/permissions.html)) - `ai/resources`
-11. [Apple Platform Security - Apple Support](../../ai/resources/apple-platform-security-apple-support.md) ([Source](https://support.apple.com/guide/security/welcome/web)) - `ai/resources`
-12. [Models â Google DeepMind](../../ai/resources/models-a-google-deepmind.md) ([Source](https://deepmind.google/models)) - `ai/resources`
-13. [mypy 2.1.0 documentation](../../ai/resources/mypy-2-1-0-documentation.md) ([Source](https://mypy.readthedocs.io)) - `ai/resources`
-14. [Developer Resources | Greenhouse](../../ai/resources/developer-resources-greenhouse.md) ([Source](https://developers.greenhouse.io)) - `ai/resources`
-15. [Specification for the Python type system — typing documentation](../../ai/resources/specification-for-the-python-type-system-typing-do.md) ([Source](https://typing.python.org/en/latest/spec/index.html)) - `ai/resources`
-16. [User Guide - MkDocs](../../ai/resources/user-guide-mkdocs.md) ([Source](https://mkdocs.org/user-guide)) - `ai/resources`
-17. [Security Checkup](../../ai/resources/security-checkup.md) ([Source](https://myaccount.google.com/security-checkup)) - `ai/resources`
-18. [jq](../../ai/resources/jq.md) ([Source](https://jqlang.github.io/jq)) - `ai/resources`
-19. [Issues · python/cpython · GitHub](../../ai/resources/python-cpython.md) ([Source](https://github.com/python/cpython)) - `ai/resources`
-20. [Read the Docs · GitHub](../../ai/resources/read-the-docs-github.md) ([Source](https://github.com/readthedocs)) - `ai/resources`
-21. [AIP-9: Glossary](../../ai/resources/aip-9-glossary.md) ([Source](https://google.aip.dev/9)) - `ai/resources`
-22. [Google API Linter](../../ai/resources/google-api-linter.md) ([Source](https://linter.aip.dev)) - `ai/resources`
-23. [Python Packaging Authority — PyPA documentation](../../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source](https://pypa.io/en/latest)) - `ai/resources`
+9. [Permissions | Node.js v26.4.0 Documentation](../../ai/resources/permissions-node-js-v26-4-0-documentation.md) ([Source](https://nodejs.org/api/permissions.html)) - `ai/resources`
+10. [Models â Google DeepMind](../../ai/resources/models-a-google-deepmind.md) ([Source](https://deepmind.google/models)) - `ai/resources`
+11. [mypy 2.1.0 documentation](../../ai/resources/mypy-2-1-0-documentation.md) ([Source](https://mypy.readthedocs.io)) - `ai/resources`
+12. [Developer Resources | Greenhouse](../../ai/resources/developer-resources-greenhouse.md) ([Source](https://developers.greenhouse.io)) - `ai/resources`
+13. [Writing your pyproject.toml - Python Packaging User Guide](../../ai/resources/writing-your-pyproject-toml-python-packaging-user.md) ([Source](https://packaging.python.org/en/latest/guides/writing-pyproject-toml)) - `ai/resources`
+14. [Specification for the Python type system — typing documentation](../../ai/resources/specification-for-the-python-type-system-typing-do.md) ([Source](https://typing.python.org/en/latest/spec/index.html)) - `ai/resources`
+15. [User Guide - MkDocs](../../ai/resources/user-guide-mkdocs.md) ([Source](https://mkdocs.org/user-guide)) - `ai/resources`
+16. [Security Checkup](../../ai/resources/security-checkup.md) ([Source](https://myaccount.google.com/security-checkup)) - `ai/resources`
+17. [jq](../../ai/resources/jq.md) ([Source](https://jqlang.github.io/jq)) - `ai/resources`
+18. [Issues · python/cpython · GitHub](../../ai/resources/python-cpython.md) ([Source](https://github.com/python/cpython)) - `ai/resources`
+19. [Read the Docs · GitHub](../../ai/resources/read-the-docs-github.md) ([Source](https://github.com/readthedocs)) - `ai/resources`
+20. [AIP-9: Glossary](../../ai/resources/aip-9-glossary.md) ([Source](https://google.aip.dev/9)) - `ai/resources`
+21. [Google API Linter](../../ai/resources/google-api-linter.md) ([Source](https://linter.aip.dev)) - `ai/resources`
+22. [Python Packaging Authority — PyPA documentation](../../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source](https://pypa.io/en/latest)) - `ai/resources`
+23. [[Import-SIG] Namespace Packages resolution](../../ai/resources/import-sig-namespace-packages-resolution.md) ([Source](https://mail.python.org/pipermail/import-sig/2012-march/000421.html)) - `ai/resources`
 24. [npm Docs](../../ai/resources/npm-docs.md) ([Source](https://docs.npmjs.com)) - `ai/resources`
 25. [Firebase · GitHub](../../ai/resources/firebase-github.md) ([Source](https://github.com/firebase)) - `ai/resources`
-26. [PageSpeed Insights](../../ai/resources/pagespeed-insights.md) ([Source](https://pagespeed.web.dev)) - `ai/resources`
-27. [3.14.6 Documentation](../../ai/resources/3-14-6-documentation.md) ([Source](https://docs.python.org)) - `ai/resources`
+26. [3.14.6 Documentation](../../ai/resources/3-14-6-documentation.md) ([Source](https://docs.python.org)) - `ai/resources`
+27. [Python Packaging User Guide](../../ai/resources/python-packaging-user-guide.md) ([Source](https://packaging.python.org)) - `ai/resources`
 28. [css.Build](../../ai/resources/css-build.md) ([Source](https://gohugo.io/functions/css/build)) - `ai/resources`
 29. [Shopping Help - Apple](../../ai/resources/shopping-help-apple.md) ([Source](https://apple.com/us/shop/goto/help)) - `ai/resources`
 30. [Privacy & Terms – Google](../../ai/resources/privacy-terms-google.md) ([Source](https://policies.google.com)) - `ai/resources`
 31. [Deploy Dify with Docker Compose - Dify Docs](../../ai/resources/deploy-dify-with-docker-compose-dify-docs.md) ([Source](https://docs.dify.ai/getting-started/install-self-hosted)) - `ai/resources`
-32. [Apple Vision Pro - Apple](../../ai/resources/apple-vision-pro-apple.md) ([Source](https://apple.com/apple-vision-pro)) - `ai/resources`
+32. [Sphinx — Sphinx documentation](../../ai/resources/sphinx-sphinx-documentation.md) ([Source](https://sphinx-doc.org)) - `ai/resources`
 33. [Support the PSF with a Donation or by becoming a Supporting Member! | Python Software Foundation](../../ai/resources/support-the-psf-with-a-donation-or-by-becoming-a-s.md) ([Source](https://python.org/psf/donations)) - `ai/resources`
 34. [Accord-cadre Open Source entre la CANUT et LINAGORA : Ã©tude, intÃ©gration, assistance, maintenance et prestations assoc](../../ai/resources/accord-cadre-open-source-entre-la-canut-et-linagor.md) ([Source](https://canut-libre.fr)) - `ai/resources`
 35. [Jupyter Notebook Documentation — Jupyter Notebook 7.6.0 documentation](../../ai/resources/jupyter-notebook-documentation-jupyter-notebook-7.md) ([Source](https://jupyter-notebook.readthedocs.io)) - `ai/resources`
 36. [Data Privacy Framework](../../ai/resources/data-privacy-framework.md) ([Source](https://dataprivacyframework.gov)) - `ai/resources`
 37. [LangChain Support Portal](../../ai/resources/langchain-support-portal.md) ([Source](https://support.langchain.com)) - `ai/resources`
 38. [Introduction | Electron](../../ai/resources/introduction-electron.md) ([Source](https://electronjs.org/docs/latest)) - `ai/resources`
-39. [superproject](../../ai/resources/superproject.md) ([Source](https://cs.android.com/android/platform/superproject)) - `ai/resources`
+39. [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](../../ai/resources/project-jupyter-documentation-jupyter-documentatio.md) ([Source](https://docs.jupyter.org)) - `ai/resources`
 40. [CodeQL - Visual Studio Marketplace](../../ai/resources/codeql-visual-studio-marketplace.md) ([Source](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql)) - `ai/resources`
 41. [OpenLLM-France · GitHub](../../ai/resources/openllm-france-github.md) ([Source](https://github.com/openllm-france)) - `ai/resources`
 42. [ty](../../ai/resources/ty.md) ([Source](https://docs.astral.sh/ty)) - `ai/resources`
 43. [Sign in - Google Accounts](../../ai/resources/sign-in-google-accounts.md) ([Source](https://issues.webmproject.org/issues/new?component=1618983&template=2023995)) - `ai/resources`
-44. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source](https://developers.google.com/android/images)) - `ai/resources`
-45. [Sphinx extensions for embedded plots, math and more — sampledoc 1.0 documentation](../../ai/resources/sphinx-extensions-for-embedded-plots-math-and-more.md) ([Source](http://matplotlib.org/sampledoc/extensions.html)) - `ai/resources`
+44. [Sphinx extensions for embedded plots, math and more — sampledoc 1.0 documentation](../../ai/resources/sphinx-extensions-for-embedded-plots-math-and-more.md) ([Source](http://matplotlib.org/sampledoc/extensions.html)) - `ai/resources`
+45. [Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation](../../ai/resources/building-and-distributing-packages-with-setuptools.md) ([Source](https://setuptools.readthedocs.io/en/latest/setuptools.html)) - `ai/resources`
 46. [Deed - Attribution 4.0 International - Creative Commons](../../ai/resources/deed-attribution-4-0-international-creative-common.md) ([Source](http://creativecommons.org/licenses/by/4.0)) - `ai/resources`
 47. [readthedocs.org/docs/dev/index.rst at main · readthedocs/readthedocs.org · GitHub](../../ai/resources/readthedocs-readthedocs-org.md) ([Source](https://github.com/readthedocs/readthedocs.org)) - `ai/resources`
 48. [Make Safari your default web browser on Mac - Apple Support](../../ai/resources/make-safari-your-default-web-browser-on-mac-apple.md) ([Source](https://support.apple.com/guide/safari/make-safari-your-default-web-browser-ibrwa008/mac)) - `ai/resources`
-49. [2026 Company Logos (External) - Google Drive](../../ai/resources/2026-company-logos-external-google-drive.md) ([Source](https://drive.google.com/drive/folders/1cc_wdd8k7j5wuonbmvtfizh_bayvonym)) - `ai/resources`
-50. [Investor Relations - Apple](../../ai/resources/investor-relations-apple.md) ([Source](https://investor.apple.com)) - `ai/resources`
-51. [Legal - Use of Cookies - Apple](../../ai/resources/legal-use-of-cookies-apple.md) ([Source](https://apple.com/privacy/use-of-cookies)) - `ai/resources`
-52. [Static Typing with Python — typing documentation](../../ai/resources/static-typing-with-python-typing-documentation.md) ([Source](https://typing.python.org)) - `ai/resources`
-53. [Android Open Source Project](../../ai/resources/android-open-source-project.md) ([Source](https://source.android.com)) - `ai/resources`
-54. [Welcome to Python.org](../../ai/resources/welcome-to-python-org.md) ([Source](https://python.org)) - `ai/resources`
-55. [Sign in to GitHub · GitHub](../../ai/resources/cloudflare-workers-sdk.md) ([Source](https://github.com/cloudflare/workers-sdk)) - `ai/resources`
-56. [Personal Safety User Guide - Apple Support](../../ai/resources/personal-safety-user-guide-apple-support.md) ([Source](https://support.apple.com/guide/personal-safety/welcome/web)) - `ai/resources`
-57. [AWS Skill Builder](../../ai/resources/aws-skill-builder.md) ([Source](https://skillbuilder.aws)) - `ai/resources`
-58. [Amazon.com](../../ai/resources/amazon-com.md) ([Source](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20)) - `ai/resources`
-59. [Discourse | Where Tech Companies Build Communities](../../ai/resources/discourse-where-tech-companies-build-communities.md) ([Source](https://discourse.org)) - `ai/resources`
-60. [Dart programming language](../../ai/resources/dart-programming-language.md) ([Source](https://dart.dev)) - `ai/resources`
-61. [PEP 646 – Variadic Generics | peps.python.org](../../ai/resources/pep-646-variadic-generics-peps-python-org.md) ([Source](https://peps.python.org/pep-0646)) - `ai/resources`
-62. [Tree Shaking | webpack](../../ai/resources/tree-shaking-webpack.md) ([Source](https://webpack.js.org/guides/tree-shaking)) - `ai/resources`
-63. [Read the Docs developer documentation — Read the Docs developer documentation](../../ai/resources/read-the-docs-developer-documentation-read-the-doc.md) ([Source](https://dev.readthedocs.io)) - `ai/resources`
-64. [See your content at a glance in the Apple Support Community - Apple Support](../../ai/resources/see-your-content-at-a-glance-in-the-apple-support.md) ([Source](https://support.apple.com/ht209032)) - `ai/resources`
-65. [Terraform Registry](../../ai/resources/terraform-registry.md) ([Source](https://registry.terraform.io)) - `ai/resources`
-66. [supermlorg/superml-java · Discussions · GitHub](../../ai/resources/supermlorg-superml-java.md) ([Source](https://github.com/supermlorg/superml-java)) - `ai/resources`
-67. [Apple Open Source](../../ai/resources/apple-open-source.md) ([Source](https://opensource.apple.com)) - `ai/resources`
-68. [Newsroom - Apple](../../ai/resources/newsroom-apple.md) ([Source](https://apple.com/newsroom)) - `ai/resources`
-69. [Node.js — Run JavaScript Everywhere](../../ai/resources/node-js-run-javascript-everywhere.md) ([Source](https://nodejs.org)) - `ai/resources`
-70. [Manage your Apple Account](../../ai/resources/manage-your-apple-account.md) ([Source](https://appleid.apple.com)) - `ai/resources`
-71. [Vivek Malhan — Full Cycle Developer](../../ai/resources/vivek-malhan-full-cycle-developer.md) ([Source](https://vivekmalhan-cb919.vercel.app)) - `ai/resources`
-72. [OpenLLM-France (OpenLLM France)](../../ai/resources/openllm-france-openllm-france.md) ([Source](https://huggingface.co/openllm-france)) - `ai/resources`
-73. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source](https://developer.android.com/studio/debug/app-quality-insights)) - `ai/resources`
-74. [JupyterLab Documentation — JupyterLab 4.6.0 documentation](../../ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md) ([Source](https://jupyterlab.readthedocs.io/en/latest)) - `ai/resources`
-75. [Workflow runs · pennersr/django-allauth · GitHub](../../ai/resources/pennersr-django-allauth.md) ([Source](https://github.com/pennersr/django-allauth)) - `ai/resources`
-76. [YouTube | Google for Developers](../../ai/resources/youtube-google-for-developers.md) ([Source](https://developers.google.com/youtube)) - `ai/resources`
-77. [Redirecting to GitHub Learn](../../ai/resources/redirecting-to-github-learn.md) ([Source](https://skills.github.com)) - `ai/resources`
-78. [mkdocs/docs/user-guide/README.md at master · mkdocs/mkdocs · GitHub](../../ai/resources/mkdocs-mkdocs.md) ([Source](https://github.com/mkdocs/mkdocs)) - `ai/resources`
-79. [The official repository for Dart and Flutter packages.](../../ai/resources/the-official-repository-for-dart-and-flutter-packa.md) ([Source](https://pub.dev)) - `ai/resources`
-80. [Cloudflare Developers](../../ai/resources/cloudflare-developers.md) ([Source](https://discord.cloudflare.com)) - `ai/resources`
-81. [Open Source | portailcanut.org](../../ai/resources/open-source-portailcanut-org.md) ([Source](https://canut.org/marche-open-source)) - `ai/resources`
-82. [Luciole LLM - a OpenLLM-France Collection](../../ai/resources/luciole-llm-a-openllm-france-collection.md) ([Source](https://hf.co/collections/openllm-france/luciole-llm)) - `ai/resources`
-83. [[2205.13147] Matryoshka Representation Learning](../../ai/resources/arxiv-2205-13147.md) ([Source](https://arxiv.org/abs/2205.13147)) - `ai/resources`
-84. [Privacy and Data Collection Policy | Linagora](../../ai/resources/privacy-and-data-collection-policy-linagora.md) ([Source](https://linagora.com/en/privacy)) - `ai/resources`
-85. [NumPy reference — NumPy v2.5 Manual](../../ai/resources/numpy-reference-numpy-v2-5-manual.md) ([Source](https://numpy.org/doc/stable/reference/index.html)) - `ai/resources`
-86. [Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](../../ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md) ([Source](https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls)) - `ai/resources`
-87. [Home page | Yarn](../../ai/resources/home-page-yarn.md) ([Source](https://yarnpkg.com)) - `ai/resources`
-88. [PEP 256 – Docstring Processing System Framework | peps.python.org](../../ai/resources/pep-256-docstring-processing-system-framework-peps.md) ([Source](https://python.org/dev/peps/pep-0256)) - `ai/resources`
-89. [Releases · moby/buildkit · GitHub](../../ai/resources/moby-buildkit.md) ([Source](https://github.com/moby/buildkit)) - `ai/resources`
-90. [LangSmith US Status](../../ai/resources/langsmith-us-status.md) ([Source](https://status.smith.langchain.com)) - `ai/resources`
-91. [Project Jupyter · GitHub](../../ai/resources/project-jupyter-github.md) ([Source](https://github.com/jupyter)) - `ai/resources`
-92. [supermlorg (SuperML.org) · GitHub](../../ai/resources/supermlorg-superml-org-github.md) ([Source](https://github.com/supermlorg)) - `ai/resources`
-93. [Install Docker Engine | Docker Docs](../../ai/resources/install-docker-engine-docker-docs.md) ([Source](https://docs.docker.com/engine/install)) - `ai/resources`
-94. [Home - The GitHub Blog](../../ai/resources/home-the-github-blog.md) ([Source](https://github.blog)) - `ai/resources`
-95. [Android Developers Blog](../../ai/resources/android-developers-blog.md) ([Source](https://android-developers.googleblog.com)) - `ai/resources`
-96. [webm/libwebp - Git at Google](../../ai/resources/webm-libwebp-git-at-google.md) ([Source](https://chromium.googlesource.com/webm/libwebp)) - `ai/resources`
-97. [appstoreconnect.apple.com](../../ai/resources/app-store-connect.md) ([Source](https://appstoreconnect.apple.com)) - `ai/resources`
-98. [7. Simple statements — Python 3.14.6 documentation](../../ai/resources/7-simple-statements-python-3-14-6-documentation.md) ([Source](https://docs.python.org/3/reference/simple_stmts.html)) - `ai/resources`
-99. [Chat LangChain](../../ai/resources/chat-langchain.md) ([Source](https://chat.langchain.com)) - `ai/resources`
-100. [Gemini CLI installation, execution, and releases | Gemini CLI](../../ai/resources/gemini-cli-installation-execution-and-releases-gem.md) ([Source](https://geminicli.com/docs/get-started/installation)) - `ai/resources`
-101. [Protocol Buffers Documentation](../../ai/resources/protocol-buffers-documentation.md) ([Source](https://protobuf.dev)) - `ai/resources`
-102. [Git](../../ai/resources/git.md) ([Source](https://git-scm.com)) - `ai/resources`
-103. [API and references | Gemini for Google Cloud | Google Cloud Documentation](../../ai/resources/api-and-references-gemini-for-google-cloud-google.md) ([Source](https://docs.cloud.google.com/gemini/docs/api-and-reference)) - `ai/resources`
-104. [Develop for Android | Android Developers](../../ai/resources/develop-for-android-android-developers.md) ([Source](https://developer.android.com/docs)) - `ai/resources`
-105. [Google’s Efforts to Combat Online Child Sexual Abuse Material FAQs - Transparency Report Help Center](../../ai/resources/googles-efforts-to-combat-online-child-sexual-abus.md) ([Source](https://support.google.com/transparencyreport/answer/10330933?hl=en)) - `ai/resources`
-106. [AI Principles â Google AI](../../ai/resources/ai-principles-a-google-ai.md) ([Source](https://ai.google/responsibility/responsible-ai-practices)) - `ai/resources`
-107. [Tensorblue - YouTube](../../ai/resources/tensorblue-youtube.md) ([Source](https://youtube.com/@tensorblue)) - `ai/resources`
-108. [Diagram Syntax | Mermaid](../../ai/resources/diagram-syntax-mermaid.md) ([Source](https://mermaid.js.org/intro/syntax-reference.html)) - `ai/resources`
-109. [Type hints cheat sheet - mypy 2.1.0 documentation](../../ai/resources/type-hints-cheat-sheet-mypy-2-1-0-documentation.md) ([Source](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)) - `ai/resources`
-110. [webpack](../../ai/resources/webpack.md) ([Source](https://webpack.js.org)) - `ai/resources`
-111. [Flutter · GitHub](../../ai/resources/flutter-github.md) ([Source](https://github.com/flutter)) - `ai/resources`
-112. [devguide/documentation/help-documenting.rst at main · python/devguide · GitHub](../../ai/resources/python-devguide.md) ([Source](https://github.com/python/devguide)) - `ai/resources`
-113. [Supabase · GitHub](../../ai/resources/supabase-github.md) ([Source](https://github.com/supabase)) - `ai/resources`
-114. [Global CBPR Forum - Building Digital Trust through Partnerships](../../ai/resources/global-cbpr-forum-building-digital-trust-through-p.md) ([Source](http://globalcbpr.org)) - `ai/resources`
-115. [Careers at Cloudflare â Open Positions | Cloudflare](../../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source](https://cloudflare.com/careers/jobs?department=Technology+Research)) - `ai/resources`
-116. [Gemini 3.5: frontier intelligence with action](../../ai/rag/gemini-3-5-frontier-intelligence-with-action.md) ([Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5)) - `ai/rag`
-117. [Tutorials Â· Cloudflare Workers docs](../../ai/rag/tutorials-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers/tutorials)) - `ai/rag`
-118. [Haystack Enterprise Platform Trial | Sign Up](../../ai/rag/haystack-enterprise-platform-trial-sign-up.md) ([Source](https://deepset.ai/deepset-studio)) - `ai/rag`
-119. [Atlassian Customer Agreement | Atlassian](../../ai/rag/atlassian-customer-agreement-atlassian.md) ([Source](https://atlassian.com/legal/cloud-terms-of-service)) - `ai/rag`
-120. [Releases · langfuse/langfuse · GitHub](../../ai/rag/langfuse-langfuse.md) ([Source](https://github.com/langfuse/langfuse)) - `ai/rag`
-121. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source](https://peps.python.org)) - `ai/rag`
-122. [Transformers · Hugging Face](../../ai/rag/huggingface-docs-transformers.md) ([Source](https://huggingface.co/docs/transformers)) - `ai/rag`
-123. [Neo4j Graph Intelligence Platform](../../ai/rag/neo4j-graph-intelligence-platform.md) ([Source](http://neo4j.com)) - `ai/rag`
-124. [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](../../ai/rag/monday-service-langsmith-building-a-code-first-eva.md) ([Source](https://blog.langchain.com/customers-monday)) - `ai/rag`
-125. [allenai/scifact · Datasets at Hugging Face](../../ai/rag/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/rag`
-126. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source](https://docs.cloud.deepset.ai/docs/getting-started)) - `ai/rag`
-127. [🌦️ Docs | Open-Meteo.com](../../ai/rag/docs-open-meteo-com.md) ([Source](https://open-meteo.com/en/docs)) - `ai/rag`
-128. [django-allauth · PyPI](../../ai/rag/django-allauth-pypi.md) ([Source](https://pypi.python.org/pypi/django-allauth)) - `ai/rag`
-129. [Reference Architectures Â· Cloudflare Reference Architecture docs](../../ai/rag/reference-architectures-a-cloudflare-reference-arc.md) ([Source](https://developers.cloudflare.com/reference-architecture)) - `ai/rag`
-130. [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](../../ai/rag/cross-origin-resource-sharing-cors-http-mdn.md) ([Source](https://developer.mozilla.org/en-us/docs/web/http/guides/cors)) - `ai/rag`
-131. [LlamaIndex ð¦](../../ai/rag/llamaindex-d.md) ([Source](https://discord.com/invite/en6d2hq4ax)) - `ai/rag`
-132. [Introduction to Haystack | Haystack Documentation](../../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source](https://docs.haystack.deepset.ai/docs/intro)) - `ai/rag`
-133. [The WebM Project | Developer Overview](../../ai/rag/the-webm-project-developer-overview.md) ([Source](https://webmproject.org/code)) - `ai/rag`
-134. [Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](../../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md) ([Source](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios)) - `ai/rag`
-135. [Langfuse](../../ai/rag/langfuse.md) ([Source](https://langfuse.com)) - `ai/rag`
-136. [Learning Center | Cloudflare](../../ai/rag/learning-center-cloudflare.md) ([Source](https://cloudflare.com/learning)) - `ai/rag`
-137. [Publications – Google Research](../../ai/rag/publications-google-research.md) ([Source](https://research.google/pubs?category=responsible-ai)) - `ai/rag`
-138. [The Firebase Blog](../../ai/rag/the-firebase-blog.md) ([Source](https://firebase.blog)) - `ai/rag`
-139. [Project Jupyter | Home](../../ai/rag/project-jupyter-home.md) ([Source](https://jupyter.org)) - `ai/rag`
-140. [Style guide — numpydoc v1.11.0rc1.dev0 Manual](../../ai/rag/style-guide-numpydoc-v1-11-0rc1-dev0-manual.md) ([Source](https://numpydoc.readthedocs.io/en/latest/format.html)) - `ai/rag`
-141. [Overview - Knative](../../ai/rag/overview-knative.md) ([Source](https://knative.dev/docs)) - `ai/rag`
-142. [Official Apple Support Community](../../ai/rag/official-apple-support-community.md) ([Source](https://discussions.apple.com/welcome)) - `ai/rag`
-143. [Project Summaries - Python Packaging User Guide](../../ai/rag/project-summaries-python-packaging-user-guide.md) ([Source](https://packaging.python.org/en/latest/key_projects)) - `ai/rag`
-144. [Documentation/RelNotes/2.54.0.adoc · HEAD · git-scm / Git · GitLab](../../ai/rag/documentation-relnotes-2-54-0-adoc-head-git-scm-gi.md) ([Source](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.54.0.adoc)) - `ai/rag`
-145. [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md) ([Source](https://jamsadr.com/rules-streamlined-arbitration)) - `ai/rag`
-146. [IA Souveraine Open Source pour l'Europe](../../ai/rag/ia-souveraine-open-source-pour-l-europe.md) ([Source](https://linagora.ai)) - `ai/rag`
-147. [LangChain Reference Docs](../../ai/rag/langchain-reference-docs.md) ([Source](https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.graphcypherqachain.html)) - `ai/rag`
-148. [Introduction - Chroma Docs](../../ai/rag/introduction-chroma-docs.md) ([Source](https://docs.trychroma.com/docs/overview/introduction)) - `ai/rag`
-149. [PythonEventsCalendar](../../ai/rag/pythoneventscalendar.md) ([Source](https://wiki.python.org/moin/pythoneventscalendar)) - `ai/rag`
-150. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source](https://law.cornell.edu/uscode/text/17/512)) - `ai/rag`
-151. [cwebp | WebP | Google for Developers](../../ai/rag/cwebp-webp-google-for-developers.md) ([Source](https://developers.google.com/speed/webp/docs/cwebp)) - `ai/rag`
-152. [PEP 563 – Postponed Evaluation of Annotations | peps.python.org](../../ai/rag/pep-563-postponed-evaluation-of-annotations-peps-p.md) ([Source](https://peps.python.org/pep-0563)) - `ai/rag`
-153. [npm Status](../../ai/rag/npm-status.md) ([Source](https://status.npmjs.com)) - `ai/rag`
-154. [Cloudflare Workers - Global Serverless Functions Platform](../../ai/rag/cloudflare-workers-global-serverless-functions-pla.md) ([Source](https://workers.cloudflare.com)) - `ai/rag`
-155. [Cloudflare's Privacy Policy | Cloudflare](../../ai/rag/cloudflare-s-privacy-policy-cloudflare.md) ([Source](https://cloudflare.com/privacy)) - `ai/rag`
-156. [Fast Open-Source OLAP DBMS | ClickHouse](../../ai/rag/fast-open-source-olap-dbms-clickhouse.md) ([Source](https://clickhouse.com)) - `ai/rag`
-157. [Terraform | HashiCorp Developer](../../ai/rag/terraform-hashicorp-developer.md) ([Source](https://terraform.io)) - `ai/rag`
-158. [RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub](../../ai/rag/answerdotai-ragatouille.md) ([Source](https://github.com/answerdotai/ragatouille)) - `ai/rag`
-159. [Cloudflare Developer Docs | Cloudflare Docs](../../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source](https://developers.cloudflare.com)) - `ai/rag`
-160. [Solutions for App Development Challenges | Firebase](../../ai/rag/solutions-for-app-development-challenges-firebase.md) ([Source](https://firebase.google.com/use-cases)) - `ai/rag`
-161. [Apple - Legal](../../ai/rag/apple-legal.md) ([Source](https://apple.com/legal)) - `ai/rag`
-162. [Android Jetpack Dev Resources - Android Developers](../../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source](https://developer.android.com/jetpack)) - `ai/rag`
-163. [CodeQL documentation](../../ai/rag/codeql-documentation.md) ([Source](https://codeql.github.com/docs)) - `ai/rag`
-164. [Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation](../../ai/rag/unintended-consequences-twelve-years-under-the-dmc.md) ([Source](https://eff.org/wp/unintended-consequences-under-dmca)) - `ai/rag`
-165. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../../ai/rag/resources-whitepapers.md) ([Source](https://github.com/resources/whitepapers)) - `ai/rag`
-166. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-167. [Getting Started | Electron Forge](../../ai/rag/getting-started-electron-forge.md) ([Source](https://electronforge.io)) - `ai/rag`
-168. [Membership Terms of Service – Medium Help Center](../../ai/rag/membership-terms-of-service-medium-help-center.md) ([Source](https://help.medium.com/hc/en-us/articles/115004932468-paid-terms-of-service)) - `ai/rag`
-169. [Android Developers Blog: Entri cut UI development time by 40% with Gemini in Android Studio](../../ai/rag/android-developers-blog-entri-cut-ui-development-t.md) ([Source](https://android-developers.googleblog.com/2025/09/entri-cut-ui-development-time-gemini-android-studio.html)) - `ai/rag`
-170. [Legal - Apple Privacy Policy - Apple](../../ai/rag/legal-apple-privacy-policy-apple.md) ([Source](https://apple.com/legal/privacy/en-ww)) - `ai/rag`
-171. [Gemini Enterprise app: Best of Google AI for Business | Google Cloud](../../ai/rag/gemini-enterprise-app-best-of-google-ai-for-busine.md) ([Source](https://cloud.google.com/gemini-enterprise?e=48754805)) - `ai/rag`
-172. [Gradio](../../ai/rag/gradio.md) ([Source](https://gradio.app)) - `ai/rag`
-173. [Haystack Enterprise Starter](../../ai/rag/haystack-enterprise-starter.md) ([Source](https://deepset.ai/products-and-services/haystack-enterprise)) - `ai/rag`
-174. [esbuild - API](../../ai/rag/esbuild-api.md) ([Source](https://esbuild.github.io/api)) - `ai/rag`
-175. [Global Infrastructure - AWS](../../ai/rag/global-infrastructure-aws.md) ([Source](https://aws.amazon.com/about-aws/global-infrastructure)) - `ai/rag`
-176. [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../../ai/rag/vibrantlabsai-ragas.md) ([Source](https://github.com/vibrantlabsai/ragas)) - `ai/rag`
-177. [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md) ([Source](https://silicon.fr/thematique/data-ia-1372/breves/ia-generative-lucie-remisee-linagora-attaque-rag-483914.htm)) - `ai/rag`
-178. [Changelog - Docs by LangChain](../../ai/rag/changelog-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/releases/changelog)) - `ai/rag`
-179. [Microsoft Terms of Use | Microsoft Legal](../../ai/rag/microsoft-terms-of-use-microsoft-legal.md) ([Source](https://microsoft.com/legal/terms-of-use)) - `ai/rag`
-180. [About building integrations - GitHub Docs](../../ai/rag/about-building-integrations-github-docs.md) ([Source](https://docs.github.com/get-started/exploring-integrations/about-building-integrations)) - `ai/rag`
-181. [AWS Site Terms](../../ai/rag/aws-site-terms.md) ([Source](https://aws.amazon.com/terms?nc1=f_pr)) - `ai/rag`
-182. [Google Terms of Service – Privacy & Terms – Google](../../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source](https://policies.google.com/terms)) - `ai/rag`
-183. [Legal - App Store & Privacy- Apple](../../ai/rag/legal-app-store-privacy-apple.md) ([Source](https://apple.com/legal/privacy/data/en/app-store)) - `ai/rag`
-184. [Change your default apps for features on iPhone and iPad - Apple Support](../../ai/rag/change-your-default-apps-for-features-on-iphone-an.md) ([Source](https://support.apple.com/en-us/121430)) - `ai/rag`
-185. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
-186. [Generating content | Gemini API | Google AI for Developers](../../ai/rag/generating-content-gemini-api-google-ai-for-develo.md) ([Source](https://ai.google.dev/api/generate-content)) - `ai/rag`
-187. [Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise](../../ai/rag/agentic-ai-nl2sql-enterprise-ai-architecture-a-sup.md) ([Source](https://superml.dev)) - `ai/rag`
-188. [Digital Millennium Copyright Act - Wikipedia](../../ai/rag/digital-millennium-copyright-act-wikipedia.md) ([Source](https://en.wikipedia.org/wiki/digital_millennium_copyright_act)) - `ai/rag`
-189. [Releases · webpack/webpack · GitHub](../../ai/rag/webpack-webpack.md) ([Source](https://github.com/webpack/webpack)) - `ai/rag`
-190. [Fast, disk space efficient package manager | pnpm](../../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md) ([Source](https://pnpm.io)) - `ai/rag`
-191. [Gemini CLI authentication setup | Gemini CLI](../../ai/rag/gemini-cli-authentication-setup-gemini-cli.md) ([Source](https://geminicli.com/docs/get-started/authentication)) - `ai/rag`
-192. [Build a User Management App with Next.js | Supabase Docs](../../ai/rag/build-a-user-management-app-with-next-js-supabase.md) ([Source](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs)) - `ai/rag`
-193. [LangSmith Observability - Docs by LangChain](../../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source](https://docs.langchain.com/langsmith/home)) - `ai/rag`
-194. [Deep Agents Code - Docs by LangChain](../../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents/code/overview)) - `ai/rag`
-195. [LangChain Blog](../../ai/rag/langchain-blog.md) ([Source](https://blog.langchain.com)) - `ai/rag`
-196. [android Git repositories - Git at Google](../../ai/rag/android-git-repositories-git-at-google.md) ([Source](https://android.googlesource.com)) - `ai/rag`
-197. [MET12-J. Do not use finalizers | CERT Secure Coding](../../ai/rag/met12-j-do-not-use-finalizers-cert-secure-coding.md) ([Source](https://wiki.sei.cmu.edu/confluence/display/java/met12-j.+do+not+use+finalizers)) - `ai/rag`
-198. [An image format for the Web | WebP | Google for Developers](../../ai/rag/an-image-format-for-the-web-webp-google-for-develo.md) ([Source](https://developers.google.com/speed/webp)) - `ai/rag`
-199. [âApple Support App - App Store](../../ai/rag/aapple-support-app-app-store.md) ([Source](https://apps.apple.com/us/app/apple-support/id1130498044?pt=2003&ct=support.footer&mt=8&l=en)) - `ai/rag`
-200. [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md) ([Source](https://codeberg.org/allauth/django-allauth)) - `ai/rag`
-201. [Vite | Next Generation Frontend Tooling](../../ai/rag/vite-next-generation-frontend-tooling.md) ([Source](https://vite.dev)) - `ai/rag`
-202. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
-203. [Releases · docker/buildx · GitHub](../../ai/rag/docker-buildx.md) ([Source](https://github.com/docker/buildx)) - `ai/rag`
-204. [Make the Web Faster | Google for Developers](../../ai/rag/make-the-web-faster-google-for-developers.md) ([Source](https://developers.google.com/speed)) - `ai/rag`
-205. [Build fast. Run any code fearlessly. · Fly](../../ai/rag/build-fast-run-any-code-fearlessly-fly.md) ([Source](http://fly.io)) - `ai/rag`
-206. [GitHub · GitHub](../../ai/rag/github-github.md) ([Source](https://github.com/github)) - `ai/rag`
-207. [Story’s detailed stats page – Medium Help Center](../../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source](https://help.medium.com/hc/en-us/articles/34831991136151)) - `ai/rag`
-208. [Neo4j · GitHub](../../ai/rag/neo4j-github.md) ([Source](https://github.com/neo4j)) - `ai/rag`
-209. [Overview - Mem0](../../ai/rag/overview-mem0.md) ([Source](https://docs.mem0.ai/overview)) - `ai/rag`
-210. [Using OAuth 2.0 to Access Google APIs | Authorization | Google for Developers](../../ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md) ([Source](https://developers.google.com/identity/protocols/oauth2)) - `ai/rag`
-211. [Spaces · Hugging Face](../../ai/rag/huggingface-docs-hub.md) ([Source](https://huggingface.co/docs/hub)) - `ai/rag`
-212. [Learn Greenhouse](../../ai/rag/learn-greenhouse.md) ([Source](https://learn.greenhouse.io)) - `ai/rag`
-213. [Medium Partner Program](../../ai/rag/medium-partner-program.md) ([Source](https://medium.com/creators)) - `ai/rag`
-214. [Medium Terms of Service | by Medium | Medium Policy](../../ai/rag/medium-terms-of-service-by-medium-medium-policy.md) ([Source](https://medium.com/policy/9db0094a1e0f)) - `ai/rag`
-215. [Limits Â· Cloudflare Workers docs](../../ai/rag/limits-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers/platform/limits)) - `ai/rag`
-216. [Mem0 · GitHub](../../ai/rag/mem0-github.md) ([Source](https://github.com/mem0ai)) - `ai/rag`
-217. [Firebase | Google's Mobile and Web App Development Platform](../../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source](https://firebase.google.com)) - `ai/rag`
-218. [Sovereign, Open Source Retrieval-Augmented Generation](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md) ([Source](https://open-rag.ai)) - `ai/rag`
-219. [LINAGORA · GitHub](../../ai/rag/linagora-github.md) ([Source](https://github.com/linagora)) - `ai/rag`
-220. [Google Cloud Platform · GitHub](../../ai/rag/google-cloud-platform-github.md) ([Source](https://github.com/googlecloudplatform)) - `ai/rag`
-221. [Markdown for the component era | MDX](../../ai/rag/markdown-for-the-component-era-mdx.md) ([Source](https://mdxjs.com)) - `ai/rag`
-222. [Get Started | DataCamp](../../ai/rag/get-started-datacamp.md) ([Source](https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack)) - `ai/rag`
-223. [hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub](../../ai/rag/huggingface-hub-docs.md) ([Source](https://github.com/huggingface/hub-docs)) - `ai/rag`
-224. [Nx â Smart Monorepos Â· Fast Builds](../../ai/rag/nx-a-smart-monorepos-a-fast-builds.md) ([Source](https://nx.dev)) - `ai/rag`
-225. [Fighting child sexual abuse online](../../ai/rag/fighting-child-sexual-abuse-online.md) ([Source](https://protectingchildren.google)) - `ai/rag`
-226. [AI Document Extraction Software with confidence scores and citations | Extract](../../ai/rag/ai-document-extraction-software-with-confidence-sc.md) ([Source](https://llamaindex.ai/llamaextract)) - `ai/rag`
-227. [Jobs at Medium](../../ai/rag/jobs-at-medium.md) ([Source](https://job-boards.greenhouse.io/medium)) - `ai/rag`
-228. [Find answers and ask questions in the Apple Support Community - Apple Support](../../ai/rag/find-answers-and-ask-questions-in-the-apple-suppor.md) ([Source](https://support.apple.com/ht209030)) - `ai/rag`
-229. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source](https://cloud.google.com/apis/docs/client-libraries-explained)) - `ai/rag`
-230. [styleguide | Style guides for Google-originated open-source projects](../../ai/rag/styleguide-style-guides-for-google-originated-open.md) ([Source](https://google.github.io/styleguide/pyguide.html)) - `ai/rag`
-231. [LangChain overview - Docs by LangChain](../../ai/rag/langchain-overview-docs-by-langchain.md) ([Source](https://js.langchain.com)) - `ai/rag`
-232. [RFC 6386 - VP8 Data Format and Decoding Guide](../../ai/rag/rfc-6386-vp8-data-format-and-decoding-guide.md) ([Source](http://datatracker.ietf.org/doc/rfc6386)) - `ai/rag`
-233. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com)) - `ai/rag`
-234. [django-allauth](../../ai/rag/django-allauth.md) ([Source](https://docs.allauth.org/en/latest)) - `ai/rag`
-235. [Supabase Docs](../../ai/rag/supabase-docs.md) ([Source](https://supabase.com/docs)) - `ai/rag`
-236. [History and License — Python 3.14.6 documentation](../../ai/rag/history-and-license-python-3-14-6-documentation.md) ([Source](https://docs.python.org/3/license.html)) - `ai/rag`
-237. [Colab | Google for Developers](../../ai/rag/colab-google-for-developers.md) ([Source](https://colab.google)) - `ai/rag`
-238. [GDPR FAQs | Cloudflare](../../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md) ([Source](https://cloudflare.com/gdpr)) - `ai/rag`
-239. [Binary distribution format - Python Packaging User Guide](../../ai/rag/binary-distribution-format-python-packaging-user-g.md) ([Source](https://packaging.python.org/en/latest/specifications/binary-distribution-format)) - `ai/rag`
-240. [proto package - google.golang.org/protobuf/proto - Go Packages](../../ai/rag/proto-package-google-golang-org-protobuf-proto-go.md) ([Source](https://pkg.go.dev/google.golang.org/protobuf/proto)) - `ai/rag`
-241. [PEP 8 – Style Guide for Python Code | peps.python.org](../../ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md) ([Source](https://python.org/dev/peps/pep-0008)) - `ai/rag`
-242. [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](../../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md) ([Source](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai)) - `ai/rag`
-243. [🧑‍🍳 Cookbook | Haystack](../../ai/rag/cookbook-haystack.md) ([Source](https://haystack.deepset.ai/cookbook)) - `ai/rag`
-244. [Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud](../../ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md) ([Source](https://cloud.google.com/products/gemini-enterprise-agent-platform)) - `ai/rag`
-245. [About Medium](../../ai/rag/about-medium.md) ([Source](https://about.medium.com)) - `ai/rag`
-246. [Privacy Policy – Privacy & Terms – Google](../../ai/rag/privacy-policy-privacy-terms-google.md) ([Source](https://policies.google.com/privacy)) - `ai/rag`
-247. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
-248. [The Go Programming Language](../../ai/rag/the-go-programming-language.md) ([Source](https://go.dev)) - `ai/rag`
-249. [Zero to JupyterHub with Kubernetes — Zero to JupyterHub with Kubernetes documentation](../../ai/rag/zero-to-jupyterhub-with-kubernetes-zero-to-jupyter.md) ([Source](https://zero-to-jupyterhub.readthedocs.io/en/latest)) - `ai/rag`
-250. [Builder.io: Collaborative Platform to Build With AI Agents](../../ai/rag/builder-io-collaborative-platform-to-build-with-ai.md) ([Source](https://builder.io)) - `ai/rag`
-251. [Blog](../../ai/rag/blog.md) ([Source](https://deepset.ai/blog)) - `ai/rag`
-252. [Google Cloud Documentation](../../ai/rag/google-cloud-documentation.md) ([Source](https://docs.cloud.google.com/docs)) - `ai/rag`
-253. [Researching with GitHub Copilot CLI - GitHub Docs](../../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research)) - `ai/rag`
-254. [Hugging Face Forums - Hugging Face Community Discussion](../../ai/rag/hugging-face-forums-hugging-face-community-discuss.md) ([Source](https://discuss.huggingface.co)) - `ai/rag`
-255. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source](https://electronjs.org)) - `ai/rag`
-256. [How Klarna's AI assistant redefined customer support at scale for 85 million active users](../../ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md) ([Source](https://blog.langchain.com/customers-klarna)) - `ai/rag`
-257. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([Source](https://github.com)) - `ai/rag`
-258. [Supabase | The Postgres Development Platform.](../../ai/rag/supabase-the-postgres-development-platform.md) ([Source](https://supabase.com)) - `ai/rag`
-259. [AI & Vectors | Supabase Docs](../../ai/rag/ai-vectors-supabase-docs.md) ([Source](https://supabase.com/docs/guides/ai)) - `ai/rag`
-260. [The WebM Project | Software License](../../ai/rag/the-webm-project-software-license.md) ([Source](https://webmproject.org/license/software)) - `ai/rag`
-261. [BeginnersGuide](../../ai/rag/beginnersguide.md) ([Source](https://wiki.python.org/moin/beginnersguide)) - `ai/rag`
-262. [Gemini Developer API | Gemma open models | Google AI for Developers](../../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source](https://ai.google.dev)) - `ai/rag`
-263. [typing â Support for type hints — Python 3.14.6 documentation](../../ai/rag/typing-a-support-for-type-hints-python-3-14-6-docu.md) ([Source](https://docs.python.org/3/library/typing.html)) - `ai/rag`
-264. [🧩 Integrations | Haystack](../../ai/rag/integrations-haystack.md) ([Source](https://haystack.deepset.ai/integrations)) - `ai/rag`
-265. [LINAGORA - Éditeur français de logiciels libres](../../ai/rag/linagora-editeur-francais-de-logiciels-libres.md) ([Source](https://linagora.com)) - `ai/rag`
-266. [GitHub Features · GitHub](../../ai/rag/github-features-github.md) ([Source](https://github.com/features)) - `ai/rag`
-267. [supabase/examples/ai at master · supabase/supabase · GitHub](../../ai/rag/supabase-supabase.md) ([Source](https://github.com/supabase/supabase)) - `ai/rag`
-268. [Overview Â· Cloudflare Workers docs](../../ai/rag/overview-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers)) - `ai/rag`
-269. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source](https://repost.aws/knowledge-center?nc1=f_dr)) - `ai/rag`
-270. [Evaluate a simple LLM application - Ragas](../../ai/rag/evaluate-a-simple-llm-application-ragas.md) ([Source](https://docs.ragas.io/en/latest/getstarted/evals)) - `ai/rag`
-271. [Self-Serve Subscription Agreement | Cloudflare](../../ai/rag/self-serve-subscription-agreement-cloudflare.md) ([Source](https://cloudflare.com/terms)) - `ai/rag`
-272. [Deep Agents overview - Docs by LangChain](../../ai/rag/deep-agents-overview-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents)) - `ai/rag`
-273. [Gemini in Android Studio - Android Developers](../../ai/rag/gemini-in-android-studio-android-developers.md) ([Source](https://developer.android.com/gemini-in-android)) - `ai/rag`
-274. [WeProtect Global Alliance - WeProtect Global Alliance](../../ai/rag/weprotect-global-alliance-weprotect-global-allianc.md) ([Source](https://weprotect.org)) - `ai/rag`
-275. [Download Android Studio & App Tools - Android Developers](../../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source](https://developer.android.com/studio)) - `ai/rag`
-276. [Chapter 12 - Circular 92 | U.S. Copyright Office](../../ai/rag/chapter-12-circular-92-u-s-copyright-office.md) ([Source](https://copyright.gov/title17/92chap12.html)) - `ai/rag`
-277. [iCloud](../../ai/rag/icloud.md) ([Source](https://icloud.com)) - `ai/rag`
-278. [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md) ([Source](https://docs.godotengine.org)) - `ai/rag`
-279. [Speechify AI - Voice AI Research Lab](../../ai/rag/speechify-ai-voice-ai-research-lab.md) ([Source](https://speechify.ai)) - `ai/rag`
-280. [docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub](../../ai/rag/github-docs.md) ([Source](https://github.com/github/docs)) - `ai/rag`
-281. [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../../ai/rag/medium-privacy-policy-effective-date-december-31-2.md) ([Source](https://medium.zendesk.com/hc/en-us/articles/360052305234)) - `ai/rag`
-282. [Speechify · GitHub](../../ai/agents/speechify-github.md) ([Source](https://github.com/speechifyinc)) - `ai/agents`
-283. [Releases · docker/compose · GitHub](../../ai/agents/docker-compose.md) ([Source](https://github.com/docker/compose)) - `ai/agents`
-284. [Getting Started | Developer Documentation](../../ai/agents/getting-started-developer-documentation.md) ([Source](https://docs.cloud.llamaindex.ai/llamacloud/getting_started)) - `ai/agents`
-285. [GitHub CLI | Take GitHub to the command line](../../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source](https://cli.github.com)) - `ai/agents`
-286. [langfuse Ideas · Discussions · GitHub](../../ai/agents/orgs-langfuse.md) ([Source](https://github.com/orgs/langfuse)) - `ai/agents`
-287. [Developing LLM Apps with the Vertex AI SDK | Google Codelabs](../../ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md) ([Source](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/1-developing-apps-that-use-llms/developing-llm-apps-with-vertex-ai-sdk)) - `ai/agents`
-288. [Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context](../../ai/agents/mem0-ai-memory-layer-for-your-agents-apps-persiste.md) ([Source](https://mem0.ai)) - `ai/agents`
-289. [Newest 'protocol-buffers' Questions - Stack Overflow](../../ai/agents/newest-protocol-buffers-questions-stack-overflow.md) ([Source](https://stackoverflow.com/questions/tagged/protocol-buffers)) - `ai/agents`
-290. [Cloudflare · GitHub](../../ai/agents/cloudflare-github.md) ([Source](https://github.com/cloudflare)) - `ai/agents`
-291. [Copilot CLI sessions in Visual Studio Code](../../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source](https://code.visualstudio.com/docs/copilot/agents/background-agents)) - `ai/agents`
-292. [Legal - Website Terms of Use - Apple](../../ai/agents/legal-website-terms-of-use-apple.md) ([Source](https://apple.com/legal/internet-services/terms/site.html)) - `ai/agents`
-293. [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) ([Source](https://cloud.google.com/gemini/docs/discover/set-up-gemini)) - `ai/agents`
-294. [Medium’s Data Logs. At Medium, we maintain two types of… | by Medium | Medium Policy](../../ai/agents/mediums-data-logs-at-medium-we-maintain-two-types.md) ([Source](https://medium.com/policy/mediums-data-logs-4d2f799a7d52)) - `ai/agents`
-295. [OpenTelemetry](../../ai/agents/opentelemetry.md) ([Source](https://opentelemetry.io)) - `ai/agents`
-296. [Sign in to GitHub · GitHub](../../ai/agents/langchain-ai-docs.md) ([Source](https://github.com/langchain-ai/docs)) - `ai/agents`
-297. [deepagents · PyPI](../../ai/agents/deepagents-pypi.md) ([Source](https://pypi.org/project/deepagents)) - `ai/agents`
-298. [GitHub Copilot CLI command reference - GitHub Docs](../../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference)) - `ai/agents`
-299. [TensorFlow](../../ai/agents/tensorflow.md) ([Source](https://tensorflow.org)) - `ai/agents`
-300. [Introduction to the Agent Platform SDK for Python | Gemini Enterprise Agent Platform | Google Cloud Documentation](../../ai/agents/introduction-to-the-agent-platform-sdk-for-python.md) ([Source](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk)) - `ai/agents`
-301. [Google for Developers | Build with Gemini](../../ai/agents/google-for-developers-build-with-gemini.md) ([Source](https://developers.google.com)) - `ai/agents`
-302. [Reflex · The platform to build and scale enterprise apps](../../ai/agents/reflex-the-platform-to-build-and-scale-enterprise.md) ([Source](https://reflex.dev)) - `ai/agents`
-303. [Hugging Face · GitHub](../../ai/agents/hugging-face-github.md) ([Source](https://github.com/huggingface)) - `ai/agents`
-304. [LangChain Forum](../../ai/agents/langchain-forum.md) ([Source](https://forum.langchain.com)) - `ai/agents`
-305. [Site support — Read the Docs user documentation](../../ai/agents/site-support-read-the-docs-user-documentation.md) ([Source](https://docs.readthedocs.com/platform/stable/support.html)) - `ai/agents`
-306. [GitHub Docs](../../ai/agents/github-docs.md) ([Source](https://docs.github.com)) - `ai/agents`
-307. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
-308. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
-309. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
-310. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
-311. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
-312. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
-313. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
-314. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
-315. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
-316. [openai/clip-vit-base-patch32](../../ai/models/huggingface-openai-clip-vit-base-patch32.md) ([Source](https://huggingface.co/openai/clip-vit-base-patch32)) - `ai/models`
-317. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
-318. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
-319. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
-320. [ksolovev/FineNews](../../ai/models/huggingface-datasets-ksolovev.md) ([Source](https://huggingface.co/datasets/ksolovev)) - `ai/models`
-321. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
-322. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
-323. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
-324. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
-325. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
-326. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
-327. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
-328. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
-329. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
-330. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
-331. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
-332. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
-333. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
-334. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
-335. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
-336. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
-337. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
-338. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
-339. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
-340. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-341. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-342. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-343. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
-344. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-345. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-346. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-347. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-348. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-349. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-350. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-351. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-352. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-353. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-354. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-355. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-356. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-357. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-358. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-359. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-360. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-361. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-362. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-363. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-364. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-365. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-366. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-367. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-368. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-369. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-370. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-371. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-372. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-373. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-374. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-375. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-376. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-377. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-378. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-379. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-380. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-381. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-382. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-383. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-384. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-385. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-386. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-387. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-388. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-389. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-390. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-391. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-392. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-393. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-394. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-395. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-396. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-397. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-398. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-399. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-400. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-401. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-402. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-403. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-404. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
-405. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
-406. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
-407. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
-408. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
-409. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
-410. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
-411. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
-412. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
-413. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
-414. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
-415. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
-416. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
-417. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
-418. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../ai/rag/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
-419. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
-420. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
-421. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
-422. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
-423. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
-424. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
-425. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
-426. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
-427. [simplex-chat/simplex-chat](../../ai/trending/simplex-chat-simplex-chat.md) ([Source](https://github.com/simplex-chat/simplex-chat)) - `ai/trending`
-428. [msitarzewski/agency-agents](../../ai/agents/msitarzewski-agency-agents.md) ([Source](https://github.com/msitarzewski/agency-agents)) - `ai/agents`
-429. [cupy/cupy](../../ai/trending/cupy-cupy.md) ([Source](https://github.com/cupy/cupy)) - `ai/trending`
-430. [altic-dev/FluidVoice](../../ai/trending/altic-dev-fluidvoice.md) ([Source](https://github.com/altic-dev/fluidvoice)) - `ai/trending`
-431. [soxoj/maigret](../../ai/trending/soxoj-maigret.md) ([Source](https://github.com/soxoj/maigret)) - `ai/trending`
-432. [commaai/openpilot](../../ai/trending/commaai-openpilot.md) ([Source](https://github.com/commaai/openpilot)) - `ai/trending`
-433. [ripienaar/free-for-dev](../../ai/trending/ripienaar-free-for-dev.md) ([Source](https://github.com/ripienaar/free-for-dev)) - `ai/trending`
-434. [logto-io/logto](../../ai/trending/logto-io-logto.md) ([Source](https://github.com/logto-io/logto)) - `ai/trending`
-435. [xbtlin/ai-berkshire](../../ai/agents/xbtlin-ai-berkshire.md) ([Source](https://github.com/xbtlin/ai-berkshire)) - `ai/agents`
-436. [browser-use/video-use](../../ai/agents/browser-use-video-use.md) ([Source](https://github.com/browser-use/video-use)) - `ai/agents`
-437. [Unclecheng-li/VulnClaw](../../ai/agents/unclecheng-li-vulnclaw.md) ([Source](https://github.com/unclecheng-li/vulnclaw)) - `ai/agents`
-438. [0xNyk/council-of-high-intelligence](../../ai/trending/0xnyk-council-of-high-intelligence.md) ([Source](https://github.com/0xnyk/council-of-high-intelligence)) - `ai/trending`
-439. [HKUDS/Vibe-Trading](../../ai/agents/hkuds-vibe-trading.md) ([Source](https://github.com/hkuds/vibe-trading)) - `ai/agents`
-440. [refactoringhq/tolaria](../../ai/trending/refactoringhq-tolaria.md) ([Source](https://github.com/refactoringhq/tolaria)) - `ai/trending`
-441. [veracrypt/VeraCrypt](../../ai/trending/veracrypt-veracrypt.md) ([Source](https://github.com/veracrypt/veracrypt)) - `ai/trending`
-442. [pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
-443. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
-444. [langchain-ai/langchain Release: langchain-openrouter==0.2.5](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
-445. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
-446. [pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/releases`
-447. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
-448. [crewAIInc/crewAI Release: 1.15.1](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/agents`
-449. [The world's fastest framework for building websites](../../ai/resources/the-world-s-fastest-framework-for-building-website.md) ([Source](https://gohugo.io)) - `ai/resources`
-450. [Writing your pyproject.toml - Python Packaging User Guide](../../ai/resources/writing-your-pyproject-toml-python-packaging-user.md) ([Source](https://packaging.python.org/en/latest/guides/writing-pyproject-toml)) - `ai/resources`
-451. [[Import-SIG] Namespace Packages resolution](../../ai/resources/import-sig-namespace-packages-resolution.md) ([Source](https://mail.python.org/pipermail/import-sig/2012-march/000421.html)) - `ai/resources`
-452. [Python Packaging User Guide](../../ai/resources/python-packaging-user-guide.md) ([Source](https://packaging.python.org)) - `ai/resources`
-453. [Sphinx — Sphinx documentation](../../ai/resources/sphinx-sphinx-documentation.md) ([Source](https://sphinx-doc.org)) - `ai/resources`
-454. [Project Jupyter Documentation — Jupyter Documentation 4.1.1 alpha documentation](../../ai/resources/project-jupyter-documentation-jupyter-documentatio.md) ([Source](https://docs.jupyter.org)) - `ai/resources`
-455. [Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation](../../ai/resources/building-and-distributing-packages-with-setuptools.md) ([Source](https://setuptools.readthedocs.io/en/latest/setuptools.html)) - `ai/resources`
-456. [uv](../../ai/resources/uv.md) ([Source](https://docs.astral.sh/uv)) - `ai/resources`
-457. [JupyterHub — JupyterHub documentation](../../ai/resources/jupyterhub-jupyterhub-documentation.md) ([Source](https://jupyterhub.readthedocs.io/en/latest)) - `ai/resources`
-458. [Welcome to JupyterLab Server’s documentation! — JupyterLab Server 2.28.0 documentation](../../ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md) ([Source](https://jupyterlab-server.readthedocs.io/en/stable)) - `ai/resources`
-459. [The Linux man-pages project](../../ai/resources/the-linux-man-pages-project.md) ([Source](https://kernel.org/doc/man-pages)) - `ai/resources`
-460. [Welcome to Click — Click Documentation (8.4.x)](../../ai/resources/welcome-to-click-click-documentation-8-4-x.md) ([Source](https://click.palletsprojects.com)) - `ai/resources`
-461. [Configure security](../../ai/resources/configure-security.md) ([Source](https://gohugo.io/configuration/security)) - `ai/resources`
-462. [GitHub Changelog](../../ai/resources/github-changelog.md) ([Source](https://github.blog/changelog)) - `ai/resources`
-463. [tensorblue · GitHub](../../ai/resources/tensorblue-github.md) ([Source](https://github.com/tensorblue)) - `ai/resources`
-464. [The Linux Kernel documentation — The Linux Kernel documentation](../../ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md) ([Source](https://docs.kernel.org)) - `ai/resources`
-465. [Sign in to GitHub · GitHub](../../ai/resources/firecrawl-firecrawl-docs.md) ([Source](https://github.com/firecrawl/firecrawl-docs)) - `ai/resources`
-466. [build - 1.5.0](../../ai/resources/build-1-5-0.md) ([Source](https://pypa-build.readthedocs.io/en/latest)) - `ai/resources`
-467. [deepset · GitHub](../../ai/resources/deepset-github.md) ([Source](https://github.com/deepset)) - `ai/resources`
-468. [Alabaster: a Sphinx theme — Alabaster documentation](../../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md) ([Source](https://alabaster.readthedocs.io)) - `ai/resources`
-469. [JupyterLab Documentation — JupyterLab 4.7.0a0 documentation](../../ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md) ([Source](https://jupyterlab.readthedocs.io)) - `ai/resources`
-470. [Overview Â· Cloudflare Workers AI docs](../../ai/resources/overview-a-cloudflare-workers-ai-docs.md) ([Source](https://developers.cloudflare.com/workers-ai)) - `ai/resources`
-471. [pyproject.toml specification - Python Packaging User Guide](../../ai/resources/pyproject-toml-specification-python-packaging-user.md) ([Source](https://packaging.python.org/en/latest/specifications/pyproject-toml)) - `ai/resources`
-472. [Configuring project metadata - Hatch](../../ai/resources/configuring-project-metadata-hatch.md) ([Source](https://hatch.pypa.io/latest/config/metadata)) - `ai/resources`
-473. [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md) ([Source](https://sysdebug.com/posts/rag-application-tutorial-production-guide)) - `ai/rag`
-474. [Vector embeddings | OpenAI API](../../ai/rag/vector-embeddings-openai-api.md) ([Source](https://platform.openai.com/docs/guides/embeddings)) - `ai/rag`
-475. [GitHub Status](../../ai/rag/github-status.md) ([Source](https://githubstatus.com)) - `ai/rag`
-476. [YAML Ain’t Markup Language (YAML™) revision 1.2.2](../../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md) ([Source](https://yaml.org/spec/1.2.2)) - `ai/rag`
-477. [LangChain · GitHub](../../ai/rag/langchain-github.md) ([Source](https://github.com/langchain-ai)) - `ai/rag`
-478. [Releases · gohugoio/hugo · GitHub](../../ai/rag/gohugoio-hugo.md) ([Source](https://github.com/gohugoio/hugo)) - `ai/rag`
-479. [Welcome! — Jupyter Server documentation](../../ai/rag/welcome-jupyter-server-documentation.md) ([Source](https://jupyter-server.readthedocs.io)) - `ai/rag`
-480. [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) ([Source](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide)) - `ai/rag`
-481. [Welcome to LlamaIndex 🦙 ! | Developer Documentation](../../ai/rag/welcome-to-llamaindex-developer-documentation.md) ([Source](https://docs.llamaindex.ai/en/stable)) - `ai/rag`
-482. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-483. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-484. [Llama Hub](../../ai/rag/llama-hub.md) ([Source](https://llamahub.ai)) - `ai/rag`
-485. [PEP 621 – Storing project metadata in pyproject.toml | peps.python.org](../../ai/rag/pep-621-storing-project-metadata-in-pyproject-toml.md) ([Source](https://peps.python.org/pep-0621)) - `ai/rag`
-486. [Stainless - Stainless Docs Platform](../../ai/rag/stainless-stainless-docs-platform.md) ([Source](https://stainless.com/products/docs)) - `ai/rag`
-487. [deepset (deepset)](../../ai/rag/deepset-deepset.md) ([Source](https://huggingface.co/deepset)) - `ai/rag`
-488. [Packaging Python Projects - Python Packaging User Guide](../../ai/rag/packaging-python-projects-python-packaging-user-gu.md) ([Source](https://packaging.python.org/tutorials/packaging-projects)) - `ai/rag`
-489. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
-490. [LlamaIndex | AI Agents for Document OCR + Workflows](../../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) ([Source](https://llamaindex.ai)) - `ai/rag`
-491. [Welcome to LlamaIndex.TS | Developer Documentation](../../ai/rag/welcome-to-llamaindex-ts-developer-documentation.md) ([Source](https://ts.llamaindex.ai)) - `ai/rag`
-492. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source](https://llamaindex.ai/llamaparse)) - `ai/rag`
-493. [PEP 621 Metadata - PDM](../../ai/rag/pep-621-metadata-pdm.md) ([Source](https://pdm-project.org/latest/reference/pep621)) - `ai/rag`
-494. [RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices](../../ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md) ([Source](https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025)) - `ai/rag`
-495. [Welcome to Flask — Flask Documentation (3.1.x)](../../ai/rag/welcome-to-flask-flask-documentation-3-1-x.md) ([Source](https://flask.palletsprojects.com)) - `ai/rag`
-496. [Poetry - Python dependency management and packaging made easy](../../ai/rag/poetry-python-dependency-management-and-packaging.md) ([Source](https://python-poetry.org)) - `ai/rag`
-497. [Cloudflare Research](../../ai/rag/cloudflare-research.md) ([Source](https://research.cloudflare.com)) - `ai/rag`
-498. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
-499. [Configure imaging](../../ai/rag/configure-imaging.md) ([Source](https://gohugo.io/configuration/imaging)) - `ai/rag`
-500. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
-501. [Haystack | Haystack](../../ai/rag/haystack-haystack.md) ([Source](https://haystack.deepset.ai)) - `ai/rag`
-502. [The pyproject.toml config file — Flit 4.0.0 documentation](../../ai/rag/the-pyproject-toml-config-file-flit-4-0-0-document.md) ([Source](https://flit.pypa.io/en/stable/pyproject_toml.html)) - `ai/rag`
-503. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
-504. [LlamaIndex · GitHub](../../ai/rag/llamaindex-github.md) ([Source](https://github.com/run-llama)) - `ai/rag`
-505. [sphinx.ext.autodoc – Include documentation from docstrings — Sphinx documentation](../../ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md) ([Source](https://sphinx-doc.org/en/master/usage/extensions/autodoc.html)) - `ai/rag`
-506. [llama-index · PyPI](../../ai/rag/llama-index-pypi.md) ([Source](https://pypi.org/project/llama-index)) - `ai/rag`
-507. [Android Mobile App Developer Tools - Android Developers](../../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source](http://developer.android.com/index.html)) - `ai/rag`
-508. [PEP 420 – Implicit Namespace Packages | peps.python.org](../../ai/rag/pep-420-implicit-namespace-packages-peps-python-or.md) ([Source](https://peps.python.org/pep-0420)) - `ai/rag`
-509. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
-510. [PEP 639 – Improving License Clarity with Better Package Metadata | peps.python.org](../../ai/rag/pep-639-improving-license-clarity-with-better-pack.md) ([Source](https://peps.python.org/pep-0639)) - `ai/rag`
-511. [Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation](../../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)) - `ai/rag`
-512. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
-513. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
-514. [Core metadata specifications - Python Packaging User Guide](../../ai/rag/core-metadata-specifications-python-packaging-user.md) ([Source](https://packaging.python.org/specifications/core-metadata)) - `ai/rag`
-515. [Cypher: Variable-length relationships by example](../../ai/rag/cypher-variable-length-relationships-by-example.md) ([Source](https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html)) - `ai/rag`
-516. [Tutorials | Haystack](../../ai/rag/tutorials-haystack.md) ([Source](https://haystack.deepset.ai/tutorials)) - `ai/rag`
-517. [Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog](../../ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md) ([Source](https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron)) - `ai/rag`
-518. [Build your first project — Sphinx documentation](../../ai/agents/build-your-first-project-sphinx-documentation.md) ([Source](https://sphinx-doc.org/en/master/tutorial/index.html)) - `ai/agents`
-519. [Read the Docs tutorial — Read the Docs user documentation](../../ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md) ([Source](https://docs.readthedocs.io/page/tutorial)) - `ai/agents`
-520. [Overview | Developer Documentation](../../ai/agents/overview-developer-documentation.md) ([Source](https://developers.llamaindex.ai/python/llamaagents/overview)) - `ai/agents`
-521. [Deep Research | Firecrawl](../../ai/agents/deep-research-firecrawl.md) ([Source](https://docs.firecrawl.dev/features/alpha/deep-research)) - `ai/agents`
-522. [Configuration file overview — Read the Docs user documentation](../../ai/agents/configuration-file-overview-read-the-docs-user-doc.md) ([Source](https://docs.readthedocs.io/page/config-file/index.html)) - `ai/agents`
-523. [GitHub Copilot CLI · GitHub](../../ai/agents/features-copilot.md) ([Source](https://github.com/features/copilot)) - `ai/agents`
-524. [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) ([Source](https://langchain.com)) - `ai/agents`
-525. [LlamaParse Platform Quickstart | Developer Documentation](../../ai/agents/llamaparse-platform-quickstart-developer-documenta.md) ([Source](https://developers.llamaindex.ai)) - `ai/agents`
-526. [Full featured documentation deployment platform - Read the Docs](../../ai/agents/full-featured-documentation-deployment-platform-re.md) ([Source](https://readthedocs.org)) - `ai/agents`
+49. [uv](../../ai/resources/uv.md) ([Source](https://docs.astral.sh/uv)) - `ai/resources`
+50. [2026 Company Logos (External) - Google Drive](../../ai/resources/2026-company-logos-external-google-drive.md) ([Source](https://drive.google.com/drive/folders/1cc_wdd8k7j5wuonbmvtfizh_bayvonym)) - `ai/resources`
+51. [Investor Relations - Apple](../../ai/resources/investor-relations-apple.md) ([Source](https://investor.apple.com)) - `ai/resources`
+52. [JupyterHub — JupyterHub documentation](../../ai/resources/jupyterhub-jupyterhub-documentation.md) ([Source](https://jupyterhub.readthedocs.io/en/latest)) - `ai/resources`
+53. [Legal - Use of Cookies - Apple](../../ai/resources/legal-use-of-cookies-apple.md) ([Source](https://apple.com/privacy/use-of-cookies)) - `ai/resources`
+54. [Static Typing with Python — typing documentation](../../ai/resources/static-typing-with-python-typing-documentation.md) ([Source](https://typing.python.org)) - `ai/resources`
+55. [Welcome to Python.org](../../ai/resources/welcome-to-python-org.md) ([Source](https://python.org)) - `ai/resources`
+56. [Welcome to JupyterLab Server’s documentation! — JupyterLab Server 2.28.0 documentation](../../ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md) ([Source](https://jupyterlab-server.readthedocs.io/en/stable)) - `ai/resources`
+57. [Sign in to GitHub · GitHub](../../ai/resources/cloudflare-workers-sdk.md) ([Source](https://github.com/cloudflare/workers-sdk)) - `ai/resources`
+58. [Personal Safety User Guide - Apple Support](../../ai/resources/personal-safety-user-guide-apple-support.md) ([Source](https://support.apple.com/guide/personal-safety/welcome/web)) - `ai/resources`
+59. [AWS Skill Builder](../../ai/resources/aws-skill-builder.md) ([Source](https://skillbuilder.aws)) - `ai/resources`
+60. [Amazon.com](../../ai/resources/amazon-com.md) ([Source](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20)) - `ai/resources`
+61. [Discourse | Where Tech Companies Build Communities](../../ai/resources/discourse-where-tech-companies-build-communities.md) ([Source](https://discourse.org)) - `ai/resources`
+62. [Dart programming language](../../ai/resources/dart-programming-language.md) ([Source](https://dart.dev)) - `ai/resources`
+63. [PEP 646 – Variadic Generics | peps.python.org](../../ai/resources/pep-646-variadic-generics-peps-python-org.md) ([Source](https://peps.python.org/pep-0646)) - `ai/resources`
+64. [Tree Shaking | webpack](../../ai/resources/tree-shaking-webpack.md) ([Source](https://webpack.js.org/guides/tree-shaking)) - `ai/resources`
+65. [Read the Docs developer documentation — Read the Docs developer documentation](../../ai/resources/read-the-docs-developer-documentation-read-the-doc.md) ([Source](https://dev.readthedocs.io)) - `ai/resources`
+66. [The Linux man-pages project](../../ai/resources/the-linux-man-pages-project.md) ([Source](https://kernel.org/doc/man-pages)) - `ai/resources`
+67. [See your content at a glance in the Apple Support Community - Apple Support](../../ai/resources/see-your-content-at-a-glance-in-the-apple-support.md) ([Source](https://support.apple.com/ht209032)) - `ai/resources`
+68. [Terraform Registry](../../ai/resources/terraform-registry.md) ([Source](https://registry.terraform.io)) - `ai/resources`
+69. [Welcome to Click — Click Documentation (8.4.x)](../../ai/resources/welcome-to-click-click-documentation-8-4-x.md) ([Source](https://click.palletsprojects.com)) - `ai/resources`
+70. [Apple Open Source](../../ai/resources/apple-open-source.md) ([Source](https://opensource.apple.com)) - `ai/resources`
+71. [Newsroom - Apple](../../ai/resources/newsroom-apple.md) ([Source](https://apple.com/newsroom)) - `ai/resources`
+72. [Node.js — Run JavaScript Everywhere](../../ai/resources/node-js-run-javascript-everywhere.md) ([Source](https://nodejs.org)) - `ai/resources`
+73. [Manage your Apple Account](../../ai/resources/manage-your-apple-account.md) ([Source](https://appleid.apple.com)) - `ai/resources`
+74. [Vivek Malhan — Full Cycle Developer](../../ai/resources/vivek-malhan-full-cycle-developer.md) ([Source](https://vivekmalhan-cb919.vercel.app)) - `ai/resources`
+75. [OpenLLM-France (OpenLLM France)](../../ai/resources/openllm-france-openllm-france.md) ([Source](https://huggingface.co/openllm-france)) - `ai/resources`
+76. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source](https://developer.android.com/studio/debug/app-quality-insights)) - `ai/resources`
+77. [Configure security](../../ai/resources/configure-security.md) ([Source](https://gohugo.io/configuration/security)) - `ai/resources`
+78. [JupyterLab Documentation — JupyterLab 4.6.0 documentation](../../ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md) ([Source](https://jupyterlab.readthedocs.io/en/latest)) - `ai/resources`
+79. [Workflow runs · pennersr/django-allauth · GitHub](../../ai/resources/pennersr-django-allauth.md) ([Source](https://github.com/pennersr/django-allauth)) - `ai/resources`
+80. [Redirecting to GitHub Learn](../../ai/resources/redirecting-to-github-learn.md) ([Source](https://skills.github.com)) - `ai/resources`
+81. [mkdocs/docs/user-guide/README.md at master · mkdocs/mkdocs · GitHub](../../ai/resources/mkdocs-mkdocs.md) ([Source](https://github.com/mkdocs/mkdocs)) - `ai/resources`
+82. [The official repository for Dart and Flutter packages.](../../ai/resources/the-official-repository-for-dart-and-flutter-packa.md) ([Source](https://pub.dev)) - `ai/resources`
+83. [Cloudflare Developers](../../ai/resources/cloudflare-developers.md) ([Source](https://discord.cloudflare.com)) - `ai/resources`
+84. [Open Source | portailcanut.org](../../ai/resources/open-source-portailcanut-org.md) ([Source](https://canut.org/marche-open-source)) - `ai/resources`
+85. [Luciole LLM - a OpenLLM-France Collection](../../ai/resources/luciole-llm-a-openllm-france-collection.md) ([Source](https://hf.co/collections/openllm-france/luciole-llm)) - `ai/resources`
+86. [[2205.13147] Matryoshka Representation Learning](../../ai/resources/arxiv-2205-13147.md) ([Source](https://arxiv.org/abs/2205.13147)) - `ai/resources`
+87. [Privacy and Data Collection Policy | Linagora](../../ai/resources/privacy-and-data-collection-policy-linagora.md) ([Source](https://linagora.com/en/privacy)) - `ai/resources`
+88. [NumPy reference — NumPy v2.5 Manual](../../ai/resources/numpy-reference-numpy-v2-5-manual.md) ([Source](https://numpy.org/doc/stable/reference/index.html)) - `ai/resources`
+89. [Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](../../ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md) ([Source](https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls)) - `ai/resources`
+90. [The Linux Kernel documentation — The Linux Kernel documentation](../../ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md) ([Source](https://docs.kernel.org)) - `ai/resources`
+91. [Sign in to GitHub · GitHub](../../ai/resources/firecrawl-firecrawl-docs.md) ([Source](https://github.com/firecrawl/firecrawl-docs)) - `ai/resources`
+92. [Home page | Yarn](../../ai/resources/home-page-yarn.md) ([Source](https://yarnpkg.com)) - `ai/resources`
+93. [PEP 256 – Docstring Processing System Framework | peps.python.org](../../ai/resources/pep-256-docstring-processing-system-framework-peps.md) ([Source](https://python.org/dev/peps/pep-0256)) - `ai/resources`
+94. [Releases · moby/buildkit · GitHub](../../ai/resources/moby-buildkit.md) ([Source](https://github.com/moby/buildkit)) - `ai/resources`
+95. [LangSmith US Status](../../ai/resources/langsmith-us-status.md) ([Source](https://status.smith.langchain.com)) - `ai/resources`
+96. [Project Jupyter · GitHub](../../ai/resources/project-jupyter-github.md) ([Source](https://github.com/jupyter)) - `ai/resources`
+97. [Install Docker Engine | Docker Docs](../../ai/resources/install-docker-engine-docker-docs.md) ([Source](https://docs.docker.com/engine/install)) - `ai/resources`
+98. [Android Developers Blog](../../ai/resources/android-developers-blog.md) ([Source](https://android-developers.googleblog.com)) - `ai/resources`
+99. [webm/libwebp - Git at Google](../../ai/resources/webm-libwebp-git-at-google.md) ([Source](https://chromium.googlesource.com/webm/libwebp)) - `ai/resources`
+100. [appstoreconnect.apple.com](../../ai/resources/app-store-connect.md) ([Source](https://appstoreconnect.apple.com)) - `ai/resources`
+101. [7. Simple statements — Python 3.14.6 documentation](../../ai/resources/7-simple-statements-python-3-14-6-documentation.md) ([Source](https://docs.python.org/3/reference/simple_stmts.html)) - `ai/resources`
+102. [Gemini CLI installation, execution, and releases | Gemini CLI](../../ai/resources/gemini-cli-installation-execution-and-releases-gem.md) ([Source](https://geminicli.com/docs/get-started/installation)) - `ai/resources`
+103. [Protocol Buffers Documentation](../../ai/resources/protocol-buffers-documentation.md) ([Source](https://protobuf.dev)) - `ai/resources`
+104. [Git](../../ai/resources/git.md) ([Source](https://git-scm.com)) - `ai/resources`
+105. [API and references | Gemini for Google Cloud | Google Cloud Documentation](../../ai/resources/api-and-references-gemini-for-google-cloud-google.md) ([Source](https://docs.cloud.google.com/gemini/docs/api-and-reference)) - `ai/resources`
+106. [Develop for Android | Android Developers](../../ai/resources/develop-for-android-android-developers.md) ([Source](https://developer.android.com/docs)) - `ai/resources`
+107. [build - 1.5.0](../../ai/resources/build-1-5-0.md) ([Source](https://pypa-build.readthedocs.io/en/latest)) - `ai/resources`
+108. [deepset · GitHub](../../ai/resources/deepset-github.md) ([Source](https://github.com/deepset)) - `ai/resources`
+109. [Alabaster: a Sphinx theme — Alabaster documentation](../../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md) ([Source](https://alabaster.readthedocs.io)) - `ai/resources`
+110. [Google’s Efforts to Combat Online Child Sexual Abuse Material FAQs - Transparency Report Help Center](../../ai/resources/googles-efforts-to-combat-online-child-sexual-abus.md) ([Source](https://support.google.com/transparencyreport/answer/10330933?hl=en)) - `ai/resources`
+111. [AI Principles â Google AI](../../ai/resources/ai-principles-a-google-ai.md) ([Source](https://ai.google/responsibility/responsible-ai-practices)) - `ai/resources`
+112. [Tensorblue - YouTube](../../ai/resources/tensorblue-youtube.md) ([Source](https://youtube.com/@tensorblue)) - `ai/resources`
+113. [Diagram Syntax | Mermaid](../../ai/resources/diagram-syntax-mermaid.md) ([Source](https://mermaid.js.org/intro/syntax-reference.html)) - `ai/resources`
+114. [JupyterLab Documentation — JupyterLab 4.7.0a0 documentation](../../ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md) ([Source](https://jupyterlab.readthedocs.io)) - `ai/resources`
+115. [Overview Â· Cloudflare Workers AI docs](../../ai/resources/overview-a-cloudflare-workers-ai-docs.md) ([Source](https://developers.cloudflare.com/workers-ai)) - `ai/resources`
+116. [Type hints cheat sheet - mypy 2.1.0 documentation](../../ai/resources/type-hints-cheat-sheet-mypy-2-1-0-documentation.md) ([Source](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)) - `ai/resources`
+117. [webpack](../../ai/resources/webpack.md) ([Source](https://webpack.js.org)) - `ai/resources`
+118. [Flutter · GitHub](../../ai/resources/flutter-github.md) ([Source](https://github.com/flutter)) - `ai/resources`
+119. [devguide/documentation/help-documenting.rst at main · python/devguide · GitHub](../../ai/resources/python-devguide.md) ([Source](https://github.com/python/devguide)) - `ai/resources`
+120. [Supabase · GitHub](../../ai/resources/supabase-github.md) ([Source](https://github.com/supabase)) - `ai/resources`
+121. [pyproject.toml specification - Python Packaging User Guide](../../ai/resources/pyproject-toml-specification-python-packaging-user.md) ([Source](https://packaging.python.org/en/latest/specifications/pyproject-toml)) - `ai/resources`
+122. [Global CBPR Forum - Building Digital Trust through Partnerships](../../ai/resources/global-cbpr-forum-building-digital-trust-through-p.md) ([Source](http://globalcbpr.org)) - `ai/resources`
+123. [Careers at Cloudflare â Open Positions | Cloudflare](../../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source](https://cloudflare.com/careers/jobs?department=Technology+Research)) - `ai/resources`
+124. [Configuring project metadata - Hatch](../../ai/resources/configuring-project-metadata-hatch.md) ([Source](https://hatch.pypa.io/latest/config/metadata)) - `ai/resources`
+125. [Gemini 3.5: frontier intelligence with action](../../ai/rag/gemini-3-5-frontier-intelligence-with-action.md) ([Source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5)) - `ai/rag`
+126. [Tutorials Â· Cloudflare Workers docs](../../ai/rag/tutorials-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers/tutorials)) - `ai/rag`
+127. [Haystack Enterprise Platform Trial | Sign Up](../../ai/rag/haystack-enterprise-platform-trial-sign-up.md) ([Source](https://deepset.ai/deepset-studio)) - `ai/rag`
+128. [Atlassian Customer Agreement | Atlassian](../../ai/rag/atlassian-customer-agreement-atlassian.md) ([Source](https://atlassian.com/legal/cloud-terms-of-service)) - `ai/rag`
+129. [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md) ([Source](https://sysdebug.com/posts/rag-application-tutorial-production-guide)) - `ai/rag`
+130. [Releases · langfuse/langfuse · GitHub](../../ai/rag/langfuse-langfuse.md) ([Source](https://github.com/langfuse/langfuse)) - `ai/rag`
+131. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source](https://peps.python.org)) - `ai/rag`
+132. [Transformers · Hugging Face](../../ai/rag/huggingface-docs-transformers.md) ([Source](https://huggingface.co/docs/transformers)) - `ai/rag`
+133. [Neo4j Graph Intelligence Platform](../../ai/rag/neo4j-graph-intelligence-platform.md) ([Source](http://neo4j.com)) - `ai/rag`
+134. [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](../../ai/rag/monday-service-langsmith-building-a-code-first-eva.md) ([Source](https://blog.langchain.com/customers-monday)) - `ai/rag`
+135. [allenai/scifact · Datasets at Hugging Face](../../ai/rag/huggingface-datasets-allenai.md) ([Source](https://huggingface.co/datasets/allenai)) - `ai/rag`
+136. [🌦️ Docs | Open-Meteo.com](../../ai/rag/docs-open-meteo-com.md) ([Source](https://open-meteo.com/en/docs)) - `ai/rag`
+137. [django-allauth · PyPI](../../ai/rag/django-allauth-pypi.md) ([Source](https://pypi.python.org/pypi/django-allauth)) - `ai/rag`
+138. [Vector embeddings | OpenAI API](../../ai/rag/vector-embeddings-openai-api.md) ([Source](https://platform.openai.com/docs/guides/embeddings)) - `ai/rag`
+139. [YAML Ain’t Markup Language (YAML™) revision 1.2.2](../../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md) ([Source](https://yaml.org/spec/1.2.2)) - `ai/rag`
+140. [Reference Architectures Â· Cloudflare Reference Architecture docs](../../ai/rag/reference-architectures-a-cloudflare-reference-arc.md) ([Source](https://developers.cloudflare.com/reference-architecture)) - `ai/rag`
+141. [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](../../ai/rag/cross-origin-resource-sharing-cors-http-mdn.md) ([Source](https://developer.mozilla.org/en-us/docs/web/http/guides/cors)) - `ai/rag`
+142. [LlamaIndex ð¦](../../ai/rag/llamaindex-d.md) ([Source](https://discord.com/invite/en6d2hq4ax)) - `ai/rag`
+143. [Welcome! — Jupyter Server documentation](../../ai/rag/welcome-jupyter-server-documentation.md) ([Source](https://jupyter-server.readthedocs.io)) - `ai/rag`
+144. [The WebM Project | Developer Overview](../../ai/rag/the-webm-project-developer-overview.md) ([Source](https://webmproject.org/code)) - `ai/rag`
+145. [Langfuse](../../ai/rag/langfuse.md) ([Source](https://langfuse.com)) - `ai/rag`
+146. [Learning Center | Cloudflare](../../ai/rag/learning-center-cloudflare.md) ([Source](https://cloudflare.com/learning)) - `ai/rag`
+147. [Publications – Google Research](../../ai/rag/publications-google-research.md) ([Source](https://research.google/pubs?category=responsible-ai)) - `ai/rag`
+148. [Welcome to LlamaIndex 🦙 ! | Developer Documentation](../../ai/rag/welcome-to-llamaindex-developer-documentation.md) ([Source](https://docs.llamaindex.ai/en/stable)) - `ai/rag`
+149. [The Firebase Blog](../../ai/rag/the-firebase-blog.md) ([Source](https://firebase.blog)) - `ai/rag`
+150. [Project Jupyter | Home](../../ai/rag/project-jupyter-home.md) ([Source](https://jupyter.org)) - `ai/rag`
+151. [Style guide — numpydoc v1.11.0rc1.dev0 Manual](../../ai/rag/style-guide-numpydoc-v1-11-0rc1-dev0-manual.md) ([Source](https://numpydoc.readthedocs.io/en/latest/format.html)) - `ai/rag`
+152. [Overview - Knative](../../ai/rag/overview-knative.md) ([Source](https://knative.dev/docs)) - `ai/rag`
+153. [Official Apple Support Community](../../ai/rag/official-apple-support-community.md) ([Source](https://discussions.apple.com/welcome)) - `ai/rag`
+154. [Project Summaries - Python Packaging User Guide](../../ai/rag/project-summaries-python-packaging-user-guide.md) ([Source](https://packaging.python.org/en/latest/key_projects)) - `ai/rag`
+155. [Llama Hub](../../ai/rag/llama-hub.md) ([Source](https://llamahub.ai)) - `ai/rag`
+156. [Documentation/RelNotes/2.54.0.adoc · HEAD · git-scm / Git · GitLab](../../ai/rag/documentation-relnotes-2-54-0-adoc-head-git-scm-gi.md) ([Source](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.54.0.adoc)) - `ai/rag`
+157. [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md) ([Source](https://jamsadr.com/rules-streamlined-arbitration)) - `ai/rag`
+158. [IA Souveraine Open Source pour l'Europe](../../ai/rag/ia-souveraine-open-source-pour-l-europe.md) ([Source](https://linagora.ai)) - `ai/rag`
+159. [PEP 621 – Storing project metadata in pyproject.toml | peps.python.org](../../ai/rag/pep-621-storing-project-metadata-in-pyproject-toml.md) ([Source](https://peps.python.org/pep-0621)) - `ai/rag`
+160. [LangChain Reference Docs](../../ai/rag/langchain-reference-docs.md) ([Source](https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.graphcypherqachain.html)) - `ai/rag`
+161. [Introduction - Chroma Docs](../../ai/rag/introduction-chroma-docs.md) ([Source](https://docs.trychroma.com/docs/overview/introduction)) - `ai/rag`
+162. [PythonEventsCalendar](../../ai/rag/pythoneventscalendar.md) ([Source](https://wiki.python.org/moin/pythoneventscalendar)) - `ai/rag`
+163. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source](https://law.cornell.edu/uscode/text/17/512)) - `ai/rag`
+164. [cwebp | WebP | Google for Developers](../../ai/rag/cwebp-webp-google-for-developers.md) ([Source](https://developers.google.com/speed/webp/docs/cwebp)) - `ai/rag`
+165. [PEP 563 – Postponed Evaluation of Annotations | peps.python.org](../../ai/rag/pep-563-postponed-evaluation-of-annotations-peps-p.md) ([Source](https://peps.python.org/pep-0563)) - `ai/rag`
+166. [Stainless - Stainless Docs Platform](../../ai/rag/stainless-stainless-docs-platform.md) ([Source](https://stainless.com/products/docs)) - `ai/rag`
+167. [npm Status](../../ai/rag/npm-status.md) ([Source](https://status.npmjs.com)) - `ai/rag`
+168. [Cloudflare Workers - Global Serverless Functions Platform](../../ai/rag/cloudflare-workers-global-serverless-functions-pla.md) ([Source](https://workers.cloudflare.com)) - `ai/rag`
+169. [Cloudflare's Privacy Policy | Cloudflare](../../ai/rag/cloudflare-s-privacy-policy-cloudflare.md) ([Source](https://cloudflare.com/privacy)) - `ai/rag`
+170. [Fast Open-Source OLAP DBMS | ClickHouse](../../ai/rag/fast-open-source-olap-dbms-clickhouse.md) ([Source](https://clickhouse.com)) - `ai/rag`
+171. [Terraform | HashiCorp Developer](../../ai/rag/terraform-hashicorp-developer.md) ([Source](https://terraform.io)) - `ai/rag`
+172. [RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub](../../ai/rag/answerdotai-ragatouille.md) ([Source](https://github.com/answerdotai/ragatouille)) - `ai/rag`
+173. [Cloudflare Developer Docs | Cloudflare Docs](../../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source](https://developers.cloudflare.com)) - `ai/rag`
+174. [Solutions for App Development Challenges | Firebase](../../ai/rag/solutions-for-app-development-challenges-firebase.md) ([Source](https://firebase.google.com/use-cases)) - `ai/rag`
+175. [Apple - Legal](../../ai/rag/apple-legal.md) ([Source](https://apple.com/legal)) - `ai/rag`
+176. [Packaging Python Projects - Python Packaging User Guide](../../ai/rag/packaging-python-projects-python-packaging-user-gu.md) ([Source](https://packaging.python.org/tutorials/packaging-projects)) - `ai/rag`
+177. [Android Jetpack Dev Resources - Android Developers](../../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source](https://developer.android.com/jetpack)) - `ai/rag`
+178. [CodeQL documentation](../../ai/rag/codeql-documentation.md) ([Source](https://codeql.github.com/docs)) - `ai/rag`
+179. [Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation](../../ai/rag/unintended-consequences-twelve-years-under-the-dmc.md) ([Source](https://eff.org/wp/unintended-consequences-under-dmca)) - `ai/rag`
+180. [Getting Started | Electron Forge](../../ai/rag/getting-started-electron-forge.md) ([Source](https://electronforge.io)) - `ai/rag`
+181. [Membership Terms of Service – Medium Help Center](../../ai/rag/membership-terms-of-service-medium-help-center.md) ([Source](https://help.medium.com/hc/en-us/articles/115004932468-paid-terms-of-service)) - `ai/rag`
+182. [Android Developers Blog: Entri cut UI development time by 40% with Gemini in Android Studio](../../ai/rag/android-developers-blog-entri-cut-ui-development-t.md) ([Source](https://android-developers.googleblog.com/2025/09/entri-cut-ui-development-time-gemini-android-studio.html)) - `ai/rag`
+183. [Welcome to LlamaIndex.TS | Developer Documentation](../../ai/rag/welcome-to-llamaindex-ts-developer-documentation.md) ([Source](https://ts.llamaindex.ai)) - `ai/rag`
+184. [Gemini Enterprise app: Best of Google AI for Business | Google Cloud](../../ai/rag/gemini-enterprise-app-best-of-google-ai-for-busine.md) ([Source](https://cloud.google.com/gemini-enterprise?e=48754805)) - `ai/rag`
+185. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source](https://llamaindex.ai/llamaparse)) - `ai/rag`
+186. [Gradio](../../ai/rag/gradio.md) ([Source](https://gradio.app)) - `ai/rag`
+187. [Haystack Enterprise Starter](../../ai/rag/haystack-enterprise-starter.md) ([Source](https://deepset.ai/products-and-services/haystack-enterprise)) - `ai/rag`
+188. [esbuild - API](../../ai/rag/esbuild-api.md) ([Source](https://esbuild.github.io/api)) - `ai/rag`
+189. [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](../../ai/rag/vibrantlabsai-ragas.md) ([Source](https://github.com/vibrantlabsai/ragas)) - `ai/rag`
+190. [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md) ([Source](https://silicon.fr/thematique/data-ia-1372/breves/ia-generative-lucie-remisee-linagora-attaque-rag-483914.htm)) - `ai/rag`
+191. [PEP 621 Metadata - PDM](../../ai/rag/pep-621-metadata-pdm.md) ([Source](https://pdm-project.org/latest/reference/pep621)) - `ai/rag`
+192. [Changelog - Docs by LangChain](../../ai/rag/changelog-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/releases/changelog)) - `ai/rag`
+193. [Microsoft Terms of Use | Microsoft Legal](../../ai/rag/microsoft-terms-of-use-microsoft-legal.md) ([Source](https://microsoft.com/legal/terms-of-use)) - `ai/rag`
+194. [About building integrations - GitHub Docs](../../ai/rag/about-building-integrations-github-docs.md) ([Source](https://docs.github.com/get-started/exploring-integrations/about-building-integrations)) - `ai/rag`
+195. [AWS Site Terms](../../ai/rag/aws-site-terms.md) ([Source](https://aws.amazon.com/terms?nc1=f_pr)) - `ai/rag`
+196. [Google Terms of Service – Privacy & Terms – Google](../../ai/rag/google-terms-of-service-privacy-terms-google.md) ([Source](https://policies.google.com/terms)) - `ai/rag`
+197. [Legal - App Store & Privacy- Apple](../../ai/rag/legal-app-store-privacy-apple.md) ([Source](https://apple.com/legal/privacy/data/en/app-store)) - `ai/rag`
+198. [Change your default apps for features on iPhone and iPad - Apple Support](../../ai/rag/change-your-default-apps-for-features-on-iphone-an.md) ([Source](https://support.apple.com/en-us/121430)) - `ai/rag`
+199. [Generating content | Gemini API | Google AI for Developers](../../ai/rag/generating-content-gemini-api-google-ai-for-develo.md) ([Source](https://ai.google.dev/api/generate-content)) - `ai/rag`
+200. [Welcome to Flask — Flask Documentation (3.1.x)](../../ai/rag/welcome-to-flask-flask-documentation-3-1-x.md) ([Source](https://flask.palletsprojects.com)) - `ai/rag`
+201. [Digital Millennium Copyright Act - Wikipedia](../../ai/rag/digital-millennium-copyright-act-wikipedia.md) ([Source](https://en.wikipedia.org/wiki/digital_millennium_copyright_act)) - `ai/rag`
+202. [Releases · webpack/webpack · GitHub](../../ai/rag/webpack-webpack.md) ([Source](https://github.com/webpack/webpack)) - `ai/rag`
+203. [Fast, disk space efficient package manager | pnpm](../../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md) ([Source](https://pnpm.io)) - `ai/rag`
+204. [Gemini CLI authentication setup | Gemini CLI](../../ai/rag/gemini-cli-authentication-setup-gemini-cli.md) ([Source](https://geminicli.com/docs/get-started/authentication)) - `ai/rag`
+205. [Build a User Management App with Next.js | Supabase Docs](../../ai/rag/build-a-user-management-app-with-next-js-supabase.md) ([Source](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs)) - `ai/rag`
+206. [LangSmith Observability - Docs by LangChain](../../ai/rag/langsmith-observability-docs-by-langchain.md) ([Source](https://docs.langchain.com/langsmith/home)) - `ai/rag`
+207. [Deep Agents Code - Docs by LangChain](../../ai/rag/deep-agents-code-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents/code/overview)) - `ai/rag`
+208. [Poetry - Python dependency management and packaging made easy](../../ai/rag/poetry-python-dependency-management-and-packaging.md) ([Source](https://python-poetry.org)) - `ai/rag`
+209. [MET12-J. Do not use finalizers | CERT Secure Coding](../../ai/rag/met12-j-do-not-use-finalizers-cert-secure-coding.md) ([Source](https://wiki.sei.cmu.edu/confluence/display/java/met12-j.+do+not+use+finalizers)) - `ai/rag`
+210. [An image format for the Web | WebP | Google for Developers](../../ai/rag/an-image-format-for-the-web-webp-google-for-develo.md) ([Source](https://developers.google.com/speed/webp)) - `ai/rag`
+211. [âApple Support App - App Store](../../ai/rag/aapple-support-app-app-store.md) ([Source](https://apps.apple.com/us/app/apple-support/id1130498044?pt=2003&ct=support.footer&mt=8&l=en)) - `ai/rag`
+212. [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md) ([Source](https://codeberg.org/allauth/django-allauth)) - `ai/rag`
+213. [Vite | Next Generation Frontend Tooling](../../ai/rag/vite-next-generation-frontend-tooling.md) ([Source](https://vite.dev)) - `ai/rag`
+214. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
+215. [Releases · docker/buildx · GitHub](../../ai/rag/docker-buildx.md) ([Source](https://github.com/docker/buildx)) - `ai/rag`
+216. [Make the Web Faster | Google for Developers](../../ai/rag/make-the-web-faster-google-for-developers.md) ([Source](https://developers.google.com/speed)) - `ai/rag`
+217. [Build fast. Run any code fearlessly. · Fly](../../ai/rag/build-fast-run-any-code-fearlessly-fly.md) ([Source](http://fly.io)) - `ai/rag`
+218. [GitHub · GitHub](../../ai/rag/github-github.md) ([Source](https://github.com/github)) - `ai/rag`
+219. [Neo4j · GitHub](../../ai/rag/neo4j-github.md) ([Source](https://github.com/neo4j)) - `ai/rag`
+220. [Overview - Mem0](../../ai/rag/overview-mem0.md) ([Source](https://docs.mem0.ai/overview)) - `ai/rag`
+221. [Using OAuth 2.0 to Access Google APIs | Authorization | Google for Developers](../../ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md) ([Source](https://developers.google.com/identity/protocols/oauth2)) - `ai/rag`
+222. [Spaces · Hugging Face](../../ai/rag/huggingface-docs-hub.md) ([Source](https://huggingface.co/docs/hub)) - `ai/rag`
+223. [Learn Greenhouse](../../ai/rag/learn-greenhouse.md) ([Source](https://learn.greenhouse.io)) - `ai/rag`
+224. [Medium Partner Program](../../ai/rag/medium-partner-program.md) ([Source](https://medium.com/creators)) - `ai/rag`
+225. [Medium Terms of Service | by Medium | Medium Policy](../../ai/rag/medium-terms-of-service-by-medium-medium-policy.md) ([Source](https://medium.com/policy/9db0094a1e0f)) - `ai/rag`
+226. [Limits Â· Cloudflare Workers docs](../../ai/rag/limits-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers/platform/limits)) - `ai/rag`
+227. [Mem0 · GitHub](../../ai/rag/mem0-github.md) ([Source](https://github.com/mem0ai)) - `ai/rag`
+228. [Firebase | Google's Mobile and Web App Development Platform](../../ai/rag/firebase-google-s-mobile-and-web-app-development-p.md) ([Source](https://firebase.google.com)) - `ai/rag`
+229. [Sovereign, Open Source Retrieval-Augmented Generation](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md) ([Source](https://open-rag.ai)) - `ai/rag`
+230. [LINAGORA · GitHub](../../ai/rag/linagora-github.md) ([Source](https://github.com/linagora)) - `ai/rag`
+231. [Cloudflare Research](../../ai/rag/cloudflare-research.md) ([Source](https://research.cloudflare.com)) - `ai/rag`
+232. [Google Cloud Platform · GitHub](../../ai/rag/google-cloud-platform-github.md) ([Source](https://github.com/googlecloudplatform)) - `ai/rag`
+233. [Markdown for the component era | MDX](../../ai/rag/markdown-for-the-component-era-mdx.md) ([Source](https://mdxjs.com)) - `ai/rag`
+234. [Get Started | DataCamp](../../ai/rag/get-started-datacamp.md) ([Source](https://app.datacamp.com/learn/courses/building-ai-agents-with-haystack)) - `ai/rag`
+235. [hub-docs/docs/hub/spaces.md at main · huggingface/hub-docs · GitHub](../../ai/rag/huggingface-hub-docs.md) ([Source](https://github.com/huggingface/hub-docs)) - `ai/rag`
+236. [The pyproject.toml config file — Flit 4.0.0 documentation](../../ai/rag/the-pyproject-toml-config-file-flit-4-0-0-document.md) ([Source](https://flit.pypa.io/en/stable/pyproject_toml.html)) - `ai/rag`
+237. [Nx â Smart Monorepos Â· Fast Builds](../../ai/rag/nx-a-smart-monorepos-a-fast-builds.md) ([Source](https://nx.dev)) - `ai/rag`
+238. [Fighting child sexual abuse online](../../ai/rag/fighting-child-sexual-abuse-online.md) ([Source](https://protectingchildren.google)) - `ai/rag`
+239. [AI Document Extraction Software with confidence scores and citations | Extract](../../ai/rag/ai-document-extraction-software-with-confidence-sc.md) ([Source](https://llamaindex.ai/llamaextract)) - `ai/rag`
+240. [Jobs at Medium](../../ai/rag/jobs-at-medium.md) ([Source](https://job-boards.greenhouse.io/medium)) - `ai/rag`
+241. [Find answers and ask questions in the Apple Support Community - Apple Support](../../ai/rag/find-answers-and-ask-questions-in-the-apple-suppor.md) ([Source](https://support.apple.com/ht209030)) - `ai/rag`
+242. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source](https://cloud.google.com/apis/docs/client-libraries-explained)) - `ai/rag`
+243. [styleguide | Style guides for Google-originated open-source projects](../../ai/rag/styleguide-style-guides-for-google-originated-open.md) ([Source](https://google.github.io/styleguide/pyguide.html)) - `ai/rag`
+244. [LlamaIndex · GitHub](../../ai/rag/llamaindex-github.md) ([Source](https://github.com/run-llama)) - `ai/rag`
+245. [LangChain overview - Docs by LangChain](../../ai/rag/langchain-overview-docs-by-langchain.md) ([Source](https://js.langchain.com)) - `ai/rag`
+246. [RFC 6386 - VP8 Data Format and Decoding Guide](../../ai/rag/rfc-6386-vp8-data-format-and-decoding-guide.md) ([Source](http://datatracker.ietf.org/doc/rfc6386)) - `ai/rag`
+247. [django-allauth](../../ai/rag/django-allauth.md) ([Source](https://docs.allauth.org/en/latest)) - `ai/rag`
+248. [Supabase Docs](../../ai/rag/supabase-docs.md) ([Source](https://supabase.com/docs)) - `ai/rag`
+249. [sphinx.ext.autodoc – Include documentation from docstrings — Sphinx documentation](../../ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md) ([Source](https://sphinx-doc.org/en/master/usage/extensions/autodoc.html)) - `ai/rag`
+250. [History and License — Python 3.14.6 documentation](../../ai/rag/history-and-license-python-3-14-6-documentation.md) ([Source](https://docs.python.org/3/license.html)) - `ai/rag`
+251. [Colab | Google for Developers](../../ai/rag/colab-google-for-developers.md) ([Source](https://colab.google)) - `ai/rag`
+252. [GDPR FAQs | Cloudflare](../../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md) ([Source](https://cloudflare.com/gdpr)) - `ai/rag`
+253. [llama-index · PyPI](../../ai/rag/llama-index-pypi.md) ([Source](https://pypi.org/project/llama-index)) - `ai/rag`
+254. [Binary distribution format - Python Packaging User Guide](../../ai/rag/binary-distribution-format-python-packaging-user-g.md) ([Source](https://packaging.python.org/en/latest/specifications/binary-distribution-format)) - `ai/rag`
+255. [proto package - google.golang.org/protobuf/proto - Go Packages](../../ai/rag/proto-package-google-golang-org-protobuf-proto-go.md) ([Source](https://pkg.go.dev/google.golang.org/protobuf/proto)) - `ai/rag`
+256. [PEP 8 – Style Guide for Python Code | peps.python.org](../../ai/rag/pep-8-style-guide-for-python-code-peps-python-org.md) ([Source](https://python.org/dev/peps/pep-0008)) - `ai/rag`
+257. [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](../../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md) ([Source](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai)) - `ai/rag`
+258. [Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud](../../ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md) ([Source](https://cloud.google.com/products/gemini-enterprise-agent-platform)) - `ai/rag`
+259. [PEP 420 – Implicit Namespace Packages | peps.python.org](../../ai/rag/pep-420-implicit-namespace-packages-peps-python-or.md) ([Source](https://peps.python.org/pep-0420)) - `ai/rag`
+260. [About Medium](../../ai/rag/about-medium.md) ([Source](https://about.medium.com)) - `ai/rag`
+261. [Privacy Policy – Privacy & Terms – Google](../../ai/rag/privacy-policy-privacy-terms-google.md) ([Source](https://policies.google.com/privacy)) - `ai/rag`
+262. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
+263. [The Go Programming Language](../../ai/rag/the-go-programming-language.md) ([Source](https://go.dev)) - `ai/rag`
+264. [Zero to JupyterHub with Kubernetes — Zero to JupyterHub with Kubernetes documentation](../../ai/rag/zero-to-jupyterhub-with-kubernetes-zero-to-jupyter.md) ([Source](https://zero-to-jupyterhub.readthedocs.io/en/latest)) - `ai/rag`
+265. [Builder.io: Collaborative Platform to Build With AI Agents](../../ai/rag/builder-io-collaborative-platform-to-build-with-ai.md) ([Source](https://builder.io)) - `ai/rag`
+266. [Blog](../../ai/rag/blog.md) ([Source](https://deepset.ai/blog)) - `ai/rag`
+267. [Google Cloud Documentation](../../ai/rag/google-cloud-documentation.md) ([Source](https://docs.cloud.google.com/docs)) - `ai/rag`
+268. [Researching with GitHub Copilot CLI - GitHub Docs](../../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research)) - `ai/rag`
+269. [Hugging Face Forums - Hugging Face Community Discussion](../../ai/rag/hugging-face-forums-hugging-face-community-discuss.md) ([Source](https://discuss.huggingface.co)) - `ai/rag`
+270. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source](https://electronjs.org)) - `ai/rag`
+271. [How Klarna's AI assistant redefined customer support at scale for 85 million active users](../../ai/rag/how-klarna-s-ai-assistant-redefined-customer-suppo.md) ([Source](https://blog.langchain.com/customers-klarna)) - `ai/rag`
+272. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([Source](https://github.com)) - `ai/rag`
+273. [PEP 639 – Improving License Clarity with Better Package Metadata | peps.python.org](../../ai/rag/pep-639-improving-license-clarity-with-better-pack.md) ([Source](https://peps.python.org/pep-0639)) - `ai/rag`
+274. [Supabase | The Postgres Development Platform.](../../ai/rag/supabase-the-postgres-development-platform.md) ([Source](https://supabase.com)) - `ai/rag`
+275. [Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation](../../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html)) - `ai/rag`
+276. [AI & Vectors | Supabase Docs](../../ai/rag/ai-vectors-supabase-docs.md) ([Source](https://supabase.com/docs/guides/ai)) - `ai/rag`
+277. [The WebM Project | Software License](../../ai/rag/the-webm-project-software-license.md) ([Source](https://webmproject.org/license/software)) - `ai/rag`
+278. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
+279. [BeginnersGuide](../../ai/rag/beginnersguide.md) ([Source](https://wiki.python.org/moin/beginnersguide)) - `ai/rag`
+280. [typing â Support for type hints — Python 3.14.6 documentation](../../ai/rag/typing-a-support-for-type-hints-python-3-14-6-docu.md) ([Source](https://docs.python.org/3/library/typing.html)) - `ai/rag`
+281. [Core metadata specifications - Python Packaging User Guide](../../ai/rag/core-metadata-specifications-python-packaging-user.md) ([Source](https://packaging.python.org/specifications/core-metadata)) - `ai/rag`
+282. [Cypher: Variable-length relationships by example](../../ai/rag/cypher-variable-length-relationships-by-example.md) ([Source](https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html)) - `ai/rag`
+283. [🧩 Integrations | Haystack](../../ai/rag/integrations-haystack.md) ([Source](https://haystack.deepset.ai/integrations)) - `ai/rag`
+284. [LINAGORA - Éditeur français de logiciels libres](../../ai/rag/linagora-editeur-francais-de-logiciels-libres.md) ([Source](https://linagora.com)) - `ai/rag`
+285. [Build a Retrieval-Augmented Generation (RAG) Agent with NVIDIA Nemotron | NVIDIA Technical Blog](../../ai/rag/build-a-retrieval-augmented-generation-rag-agent-w.md) ([Source](https://developer.nvidia.com/blog/build-a-rag-agent-with-nvidia-nemotron)) - `ai/rag`
+286. [supabase/examples/ai at master · supabase/supabase · GitHub](../../ai/rag/supabase-supabase.md) ([Source](https://github.com/supabase/supabase)) - `ai/rag`
+287. [Overview Â· Cloudflare Workers docs](../../ai/rag/overview-a-cloudflare-workers-docs.md) ([Source](https://developers.cloudflare.com/workers)) - `ai/rag`
+288. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source](https://repost.aws/knowledge-center?nc1=f_dr)) - `ai/rag`
+289. [Evaluate a simple LLM application - Ragas](../../ai/rag/evaluate-a-simple-llm-application-ragas.md) ([Source](https://docs.ragas.io/en/latest/getstarted/evals)) - `ai/rag`
+290. [Self-Serve Subscription Agreement | Cloudflare](../../ai/rag/self-serve-subscription-agreement-cloudflare.md) ([Source](https://cloudflare.com/terms)) - `ai/rag`
+291. [Deep Agents overview - Docs by LangChain](../../ai/rag/deep-agents-overview-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/deepagents)) - `ai/rag`
+292. [Gemini in Android Studio - Android Developers](../../ai/rag/gemini-in-android-studio-android-developers.md) ([Source](https://developer.android.com/gemini-in-android)) - `ai/rag`
+293. [WeProtect Global Alliance - WeProtect Global Alliance](../../ai/rag/weprotect-global-alliance-weprotect-global-allianc.md) ([Source](https://weprotect.org)) - `ai/rag`
+294. [Download Android Studio & App Tools - Android Developers](../../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source](https://developer.android.com/studio)) - `ai/rag`
+295. [Chapter 12 - Circular 92 | U.S. Copyright Office](../../ai/rag/chapter-12-circular-92-u-s-copyright-office.md) ([Source](https://copyright.gov/title17/92chap12.html)) - `ai/rag`
+296. [iCloud](../../ai/rag/icloud.md) ([Source](https://icloud.com)) - `ai/rag`
+297. [Godot Docs – 4.7 branch — Godot Engine (stable) documentation in English](../../ai/rag/godot-docs-4-7-branch-godot-engine-stable-document.md) ([Source](https://docs.godotengine.org)) - `ai/rag`
+298. [Speechify AI - Voice AI Research Lab](../../ai/rag/speechify-ai-voice-ai-research-lab.md) ([Source](https://speechify.ai)) - `ai/rag`
+299. [docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub](../../ai/rag/github-docs.md) ([Source](https://github.com/github/docs)) - `ai/rag`
+300. [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../../ai/rag/medium-privacy-policy-effective-date-december-31-2.md) ([Source](https://medium.zendesk.com/hc/en-us/articles/360052305234)) - `ai/rag`
+301. [facebook/MusicGen](../../ai/models/huggingface-spaces-facebook.md) ([Source](https://huggingface.co/spaces/facebook)) - `ai/models`
+302. [Speechify · GitHub](../../ai/agents/speechify-github.md) ([Source](https://github.com/speechifyinc)) - `ai/agents`
+303. [Releases · docker/compose · GitHub](../../ai/agents/docker-compose.md) ([Source](https://github.com/docker/compose)) - `ai/agents`
+304. [Build your first project — Sphinx documentation](../../ai/agents/build-your-first-project-sphinx-documentation.md) ([Source](https://sphinx-doc.org/en/master/tutorial/index.html)) - `ai/agents`
+305. [Getting Started | Developer Documentation](../../ai/agents/getting-started-developer-documentation.md) ([Source](https://docs.cloud.llamaindex.ai/llamacloud/getting_started)) - `ai/agents`
+306. [GitHub CLI | Take GitHub to the command line](../../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source](https://cli.github.com)) - `ai/agents`
+307. [langfuse Ideas · Discussions · GitHub](../../ai/agents/orgs-langfuse.md) ([Source](https://github.com/orgs/langfuse)) - `ai/agents`
+308. [Read the Docs tutorial — Read the Docs user documentation](../../ai/agents/read-the-docs-tutorial-read-the-docs-user-document.md) ([Source](https://docs.readthedocs.io/page/tutorial)) - `ai/agents`
+309. [Developing LLM Apps with the Vertex AI SDK | Google Codelabs](../../ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md) ([Source](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/1-developing-apps-that-use-llms/developing-llm-apps-with-vertex-ai-sdk)) - `ai/agents`
+310. [Overview | Developer Documentation](../../ai/agents/overview-developer-documentation.md) ([Source](https://developers.llamaindex.ai/python/llamaagents/overview)) - `ai/agents`
+311. [Mem0 - AI Memory Layer for your Agents & Apps | Persistent Context](../../ai/agents/mem0-ai-memory-layer-for-your-agents-apps-persiste.md) ([Source](https://mem0.ai)) - `ai/agents`
+312. [Newest 'protocol-buffers' Questions - Stack Overflow](../../ai/agents/newest-protocol-buffers-questions-stack-overflow.md) ([Source](https://stackoverflow.com/questions/tagged/protocol-buffers)) - `ai/agents`
+313. [Cloudflare · GitHub](../../ai/agents/cloudflare-github.md) ([Source](https://github.com/cloudflare)) - `ai/agents`
+314. [Deep Research | Firecrawl](../../ai/agents/deep-research-firecrawl.md) ([Source](https://docs.firecrawl.dev/features/alpha/deep-research)) - `ai/agents`
+315. [Copilot CLI sessions in Visual Studio Code](../../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source](https://code.visualstudio.com/docs/copilot/agents/background-agents)) - `ai/agents`
+316. [Legal - Website Terms of Use - Apple](../../ai/agents/legal-website-terms-of-use-apple.md) ([Source](https://apple.com/legal/internet-services/terms/site.html)) - `ai/agents`
+317. [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) ([Source](https://cloud.google.com/gemini/docs/discover/set-up-gemini)) - `ai/agents`
+318. [Configuration file overview — Read the Docs user documentation](../../ai/agents/configuration-file-overview-read-the-docs-user-doc.md) ([Source](https://docs.readthedocs.io/page/config-file/index.html)) - `ai/agents`
+319. [GitHub Copilot CLI · GitHub](../../ai/agents/features-copilot.md) ([Source](https://github.com/features/copilot)) - `ai/agents`
+320. [Medium’s Data Logs. At Medium, we maintain two types of… | by Medium | Medium Policy](../../ai/agents/mediums-data-logs-at-medium-we-maintain-two-types.md) ([Source](https://medium.com/policy/mediums-data-logs-4d2f799a7d52)) - `ai/agents`
+321. [OpenTelemetry](../../ai/agents/opentelemetry.md) ([Source](https://opentelemetry.io)) - `ai/agents`
+322. [Sign in to GitHub · GitHub](../../ai/agents/langchain-ai-docs.md) ([Source](https://github.com/langchain-ai/docs)) - `ai/agents`
+323. [deepagents · PyPI](../../ai/agents/deepagents-pypi.md) ([Source](https://pypi.org/project/deepagents)) - `ai/agents`
+324. [GitHub Copilot CLI command reference - GitHub Docs](../../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference)) - `ai/agents`
+325. [TensorFlow](../../ai/agents/tensorflow.md) ([Source](https://tensorflow.org)) - `ai/agents`
+326. [Introduction to the Agent Platform SDK for Python | Gemini Enterprise Agent Platform | Google Cloud Documentation](../../ai/agents/introduction-to-the-agent-platform-sdk-for-python.md) ([Source](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk)) - `ai/agents`
+327. [Full featured documentation deployment platform - Read the Docs](../../ai/agents/full-featured-documentation-deployment-platform-re.md) ([Source](https://readthedocs.org)) - `ai/agents`
+328. [Google for Developers | Build with Gemini](../../ai/agents/google-for-developers-build-with-gemini.md) ([Source](https://developers.google.com)) - `ai/agents`
+329. [Reflex · The platform to build and scale enterprise apps](../../ai/agents/reflex-the-platform-to-build-and-scale-enterprise.md) ([Source](https://reflex.dev)) - `ai/agents`
+330. [Hugging Face · GitHub](../../ai/agents/hugging-face-github.md) ([Source](https://github.com/huggingface)) - `ai/agents`
+331. [LangChain Forum](../../ai/agents/langchain-forum.md) ([Source](https://forum.langchain.com)) - `ai/agents`
+332. [Site support — Read the Docs user documentation](../../ai/agents/site-support-read-the-docs-user-documentation.md) ([Source](https://docs.readthedocs.com/platform/stable/support.html)) - `ai/agents`
+333. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
+334. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
+335. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
+336. [google-bert/bert-base-uncased](../../ai/models/huggingface-google-bert-bert-base-uncased.md) ([Source](https://huggingface.co/google-bert/bert-base-uncased)) - `ai/models`
+337. [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](../../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) ([Source](https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2)) - `ai/rag`
+338. [google/electra-base-discriminator](../../ai/models/huggingface-google-electra-base-discriminator.md) ([Source](https://huggingface.co/google/electra-base-discriminator)) - `ai/models`
+339. [sentence-transformers/all-mpnet-base-v2](../../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)) - `ai/rag`
+340. [BAAI/bge-m3](../../ai/rag/huggingface-baai-bge-m3.md) ([Source](https://huggingface.co/baai/bge-m3)) - `ai/rag`
+341. [Qwen/Qwen3-0.6B](../../ai/models/huggingface-qwen-qwen3-0-6b.md) ([Source](https://huggingface.co/qwen/qwen3-0.6b)) - `ai/models`
+342. [openai/clip-vit-base-patch32](../../ai/models/huggingface-openai-clip-vit-base-patch32.md) ([Source](https://huggingface.co/openai/clip-vit-base-patch32)) - `ai/models`
+343. [huggingface/documentation-images](../../ai/models/huggingface-datasets-huggingface.md) ([Source](https://huggingface.co/datasets/huggingface)) - `ai/models`
+344. [Benjy/typed_digital_signatures](../../ai/models/huggingface-datasets-benjy.md) ([Source](https://huggingface.co/datasets/benjy)) - `ai/models`
+345. [KakologArchives/KakologArchives](../../ai/models/huggingface-datasets-kakologarchives.md) ([Source](https://huggingface.co/datasets/kakologarchives)) - `ai/models`
+346. [ksolovev/FineNews](../../ai/models/huggingface-datasets-ksolovev.md) ([Source](https://huggingface.co/datasets/ksolovev)) - `ai/models`
+347. [banned-historical-archives/banned-historical-archives](../../ai/models/huggingface-datasets-banned-historical-archives.md) ([Source](https://huggingface.co/datasets/banned-historical-archives)) - `ai/models`
+348. [ayuo/hd_tmp](../../ai/models/huggingface-datasets-ayuo.md) ([Source](https://huggingface.co/datasets/ayuo)) - `ai/models`
+349. [xlangai/ubuntu_osworld_file_cache](../../ai/models/huggingface-datasets-xlangai.md) ([Source](https://huggingface.co/datasets/xlangai)) - `ai/models`
+350. [Salesforce/wikitext](../../ai/models/huggingface-datasets-salesforce.md) ([Source](https://huggingface.co/datasets/salesforce)) - `ai/models`
+351. [ryanmarten/OpenThoughts-1k-sample](../../ai/models/huggingface-datasets-ryanmarten.md) ([Source](https://huggingface.co/datasets/ryanmarten)) - `ai/models`
+352. [m-a-p/FineFineWeb](../../ai/models/huggingface-datasets-m-a-p.md) ([Source](https://huggingface.co/datasets/m-a-p)) - `ai/models`
+353. [Turbopack: What's New in Next.js 16.3](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-3.md) ([Source](https://nextjs.org/blog/next-16-3-turbopack)) - `web-development/nextjs`
+354. [Next.js 16.3: AI Improvements](../../ai/agents/next-js-16-3-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-3-ai-improvements)) - `ai/agents`
+355. [Next.js 16.3: Instant Navigations](../../web-development/nextjs/next-js-16-3-instant-navigations.md) ([Source](https://nextjs.org/blog/next-16-3-instant-navigations)) - `web-development/nextjs`
+356. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+357. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+358. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+359. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+360. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
+361. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
+362. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+363. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+364. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+365. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+366. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+367. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+368. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+369. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+370. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+371. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+372. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+373. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+374. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+375. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+376. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+377. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+378. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+379. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+380. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+381. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+382. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+383. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+384. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+385. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+386. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+387. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+388. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+389. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+390. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+391. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+392. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+393. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+394. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+395. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+396. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+397. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+398. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+399. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+400. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+401. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+402. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+403. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+404. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+405. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+406. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+407. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+408. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+409. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+410. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+411. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+412. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+413. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+414. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+415. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+416. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+417. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+418. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+419. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+420. [enzostvs/deepsite](../../ai/models/huggingface-spaces-enzostvs.md) ([Source](https://huggingface.co/spaces/enzostvs)) - `ai/models`
+421. [open-llm-leaderboard/open_llm_leaderboard](../../ai/models/huggingface-spaces-open-llm-leaderboard.md) ([Source](https://huggingface.co/spaces/open-llm-leaderboard)) - `ai/models`
+422. [jbilcke-hf/ai-comic-factory](../../ai/models/huggingface-spaces-jbilcke-hf.md) ([Source](https://huggingface.co/spaces/jbilcke-hf)) - `ai/models`
+423. [Kwai-Kolors/Kolors-Virtual-Try-On](../../ai/models/huggingface-spaces-kwai-kolors.md) ([Source](https://huggingface.co/spaces/kwai-kolors)) - `ai/models`
+424. [black-forest-labs/FLUX.1-dev](../../ai/models/huggingface-spaces-black-forest-labs.md) ([Source](https://huggingface.co/spaces/black-forest-labs)) - `ai/models`
+425. [mteb/leaderboard](../../ai/models/huggingface-spaces-mteb.md) ([Source](https://huggingface.co/spaces/mteb)) - `ai/models`
+426. [dalle-mini/dalle-mini](../../ai/models/huggingface-spaces-dalle-mini.md) ([Source](https://huggingface.co/spaces/dalle-mini)) - `ai/models`
+427. [AP123/IllusionDiffusion](../../ai/models/huggingface-spaces-ap123.md) ([Source](https://huggingface.co/spaces/ap123)) - `ai/models`
+428. [Wan-AI/Wan2.2-Animate](../../ai/models/huggingface-spaces-wan-ai.md) ([Source](https://huggingface.co/spaces/wan-ai)) - `ai/models`
+429. [The React Foundation: A New Home for React Hosted by the Linux Foundation](../../web-development/the-react-foundation-a-new-home-for-react-hosted-b.md) ([Source](https://react.dev/blog/2026/02/24/the-react-foundation)) - `web-development`
+430. [Denial of Service and Source Code Exposure in React Server Components](../../web-development/denial-of-service-and-source-code-exposure-in-reac.md) ([Source](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)) - `web-development`
+431. [Critical Security Vulnerability in React Server Components](../../web-development/critical-security-vulnerability-in-react-server-co.md) ([Source](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)) - `web-development`
+432. [React Conf 2025 Recap](../../web-development/react-conf-2025-recap.md) ([Source](https://react.dev/blog/2025/10/16/react-conf-2025-recap)) - `web-development`
+433. [React Compiler v1.0](../../web-development/react-compiler-v1-0.md) ([Source](https://react.dev/blog/2025/10/07/react-compiler-1)) - `web-development`
+434. [Introducing the React Foundation](../../web-development/introducing-the-react-foundation.md) ([Source](https://react.dev/blog/2025/10/07/introducing-the-react-foundation)) - `web-development`
+435. [React 19.2](../../web-development/react-19-2.md) ([Source](https://react.dev/blog/2025/10/01/react-19-2)) - `web-development`
+436. [React Labs: View Transitions, Activity, and more](../../web-development/react-labs-view-transitions-activity-and-more.md) ([Source](https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more)) - `web-development`
+437. [Sunsetting Create React App](../../ai/rag/sunsetting-create-react-app.md) ([Source](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)) - `ai/rag`
+438. [React v19](../../web-development/react-v19.md) ([Source](https://react.dev/blog/2024/12/05/react-19)) - `web-development`
+439. [React Compiler Beta Release](../../web-development/react-compiler-beta-release.md) ([Source](https://react.dev/blog/2024/10/21/react-compiler-beta-release)) - `web-development`
+440. [React Conf 2024 Recap](../../web-development/react-conf-2024-recap.md) ([Source](https://react.dev/blog/2024/05/22/react-conf-2024-recap)) - `web-development`
+441. [React 19 Upgrade Guide](../../web-development/react-19-upgrade-guide.md) ([Source](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)) - `web-development`
+442. [React Labs: What We've Been Working On – February 2024](../../web-development/react-labs-what-we-ve-been-working-on-february-202.md) ([Source](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)) - `web-development`
+443. [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../../ai/rag/react-canaries-enabling-incremental-feature-rollou.md) ([Source](https://react.dev/blog/2023/05/03/react-canaries)) - `web-development`
+444. [React Labs: What We've Been Working On – March 2023](../../web-development/react-labs-what-we-ve-been-working-on-march-2023.md) ([Source](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)) - `web-development`
+445. [Introducing react.dev](../../web-development/introducing-react-dev.md) ([Source](https://react.dev/blog/2023/03/16/introducing-react-dev)) - `web-development`
+446. [React Labs: What We've Been Working On – June 2022](../../web-development/react-labs-what-we-ve-been-working-on-june-2022.md) ([Source](https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022)) - `web-development`
+447. [React v18.0](../../web-development/react-v18-0.md) ([Source](https://react.dev/blog/2022/03/29/react-v18)) - `web-development`
+448. [How to Upgrade to React 18](../../web-development/how-to-upgrade-to-react-18.md) ([Source](https://react.dev/blog/2022/03/08/react-18-upgrade-guide)) - `web-development`
+449. [React Conf 2021 Recap](../../web-development/react-conf-2021-recap.md) ([Source](https://react.dev/blog/2021/12/17/react-conf-2021-recap)) - `web-development`
+450. [The Plan for React 18](../../web-development/the-plan-for-react-18.md) ([Source](https://react.dev/blog/2021/06/08/the-plan-for-react-18)) - `web-development`
+451. [Introducing Zero-Bundle-Size React Server Components](../../web-development/introducing-zero-bundle-size-react-server-componen.md) ([Source](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)) - `web-development`
+452. [simplex-chat/simplex-chat](../../ai/trending/simplex-chat-simplex-chat.md) ([Source](https://github.com/simplex-chat/simplex-chat)) - `ai/trending`
+453. [msitarzewski/agency-agents](../../ai/agents/msitarzewski-agency-agents.md) ([Source](https://github.com/msitarzewski/agency-agents)) - `ai/agents`
+454. [cupy/cupy](../../ai/trending/cupy-cupy.md) ([Source](https://github.com/cupy/cupy)) - `ai/trending`
+455. [altic-dev/FluidVoice](../../ai/trending/altic-dev-fluidvoice.md) ([Source](https://github.com/altic-dev/fluidvoice)) - `ai/trending`
+456. [soxoj/maigret](../../ai/trending/soxoj-maigret.md) ([Source](https://github.com/soxoj/maigret)) - `ai/trending`
+457. [commaai/openpilot](../../ai/trending/commaai-openpilot.md) ([Source](https://github.com/commaai/openpilot)) - `ai/trending`
+458. [ripienaar/free-for-dev](../../ai/trending/ripienaar-free-for-dev.md) ([Source](https://github.com/ripienaar/free-for-dev)) - `ai/trending`
+459. [logto-io/logto](../../ai/trending/logto-io-logto.md) ([Source](https://github.com/logto-io/logto)) - `ai/trending`
+460. [xbtlin/ai-berkshire](../../ai/agents/xbtlin-ai-berkshire.md) ([Source](https://github.com/xbtlin/ai-berkshire)) - `ai/agents`
+461. [browser-use/video-use](../../ai/agents/browser-use-video-use.md) ([Source](https://github.com/browser-use/video-use)) - `ai/agents`
+462. [Unclecheng-li/VulnClaw](../../ai/agents/unclecheng-li-vulnclaw.md) ([Source](https://github.com/unclecheng-li/vulnclaw)) - `ai/agents`
+463. [0xNyk/council-of-high-intelligence](../../ai/trending/0xnyk-council-of-high-intelligence.md) ([Source](https://github.com/0xnyk/council-of-high-intelligence)) - `ai/trending`
+464. [HKUDS/Vibe-Trading](../../ai/agents/hkuds-vibe-trading.md) ([Source](https://github.com/hkuds/vibe-trading)) - `ai/agents`
+465. [refactoringhq/tolaria](../../ai/trending/refactoringhq-tolaria.md) ([Source](https://github.com/refactoringhq/tolaria)) - `ai/trending`
+466. [veracrypt/VeraCrypt](../../ai/trending/veracrypt-veracrypt.md) ([Source](https://github.com/veracrypt/veracrypt)) - `ai/trending`
+467. [pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
+468. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
+469. [langchain-ai/langchain Release: langchain-openrouter==0.2.5](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
+470. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
+471. [pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/releases`
+472. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
+473. [crewAIInc/crewAI Release: 1.15.1](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/agents`
+474. [âApps & Games for Vision - App Store](../../ai/resources/aapps-games-for-vision-app-store.md) ([Source](https://apps.apple.com/us/vision)) - `ai/resources`
+475. [Web Vitals | Articles | web.dev](../../ai/resources/web-vitals-articles-web-dev.md) ([Source](https://web.dev/articles/vitals)) - `ai/resources`
+476. [The world's fastest framework for building websites](../../ai/resources/the-world-s-fastest-framework-for-building-website.md) ([Source](https://gohugo.io)) - `ai/resources`
+477. [Apple Platform Security - Apple Support](../../ai/resources/apple-platform-security-apple-support.md) ([Source](https://support.apple.com/guide/security/welcome/web)) - `ai/resources`
+478. [Codenames, tags, and build numbers | Android Open Source Project](../../ai/resources/codenames-tags-and-build-numbers-android-open-sour.md) ([Source](https://source.android.com/docs/setup/reference/build-numbers)) - `ai/resources`
+479. [Optimize Largest Contentful Paint | Articles | web.dev](../../ai/resources/optimize-largest-contentful-paint-articles-web-dev.md) ([Source](https://web.dev/articles/optimize-lcp)) - `ai/resources`
+480. [Privacy Sandbox](../../ai/resources/privacy-sandbox.md) ([Source](https://privacysandbox.com/news)) - `ai/resources`
+481. [How to choose your Baseline target | Articles | web.dev](../../ai/resources/how-to-choose-your-baseline-target-articles-web-de.md) ([Source](https://web.dev/articles/how-to-choose-your-baseline-target)) - `ai/resources`
+482. [Gerrit](../../ai/resources/gerrit.md) ([Source](https://issues.gerritcodereview.com/issues?q=status%3Aopen+componentid%3A1370019&s=created_time%3Adesc)) - `ai/resources`
+483. [PageSpeed Insights](../../ai/resources/pagespeed-insights.md) ([Source](https://pagespeed.web.dev)) - `ai/resources`
+484. [App Privacy Details - App Store - Apple Developer](../../ai/resources/app-privacy-details-app-store-apple-developer.md) ([Source](https://developer.apple.com/support/app-privacy-on-the-app-store)) - `ai/resources`
+485. [Apple Vision Pro - Apple](../../ai/resources/apple-vision-pro-apple.md) ([Source](https://apple.com/apple-vision-pro)) - `ai/resources`
+486. [superproject](../../ai/resources/superproject.md) ([Source](https://cs.android.com/android/platform/superproject)) - `ai/resources`
+487. [Learn about Google Play refund policies - Google Play Help](../../ai/resources/learn-about-google-play-refund-policies-google-pla.md) ([Source](https://support.google.com/googleplay/answer/2479637)) - `ai/resources`
+488. [라떼군 이야기 - YouTube](../../ai/resources/raddegun-iyagi-youtube.md) ([Source](https://youtube.com/@mrlattestory)) - `ai/resources`
+489. [haystack-tutorials/Contributing.md at main · deepset-ai/haystack-tutorials · GitHub](../../ai/resources/deepset-ai-haystack-tutorials.md) ([Source](https://github.com/deepset-ai/haystack-tutorials)) - `ai/resources`
+490. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source](http://developers.google.com/android/images)) - `ai/resources`
+491. [HTMLTemplateElement: shadowRootMode property - Web APIs | MDN](../../ai/resources/htmltemplateelement-shadowrootmode-property-web-ap.md) ([Source](https://developer.mozilla.org/docs/web/api/htmltemplateelement/shadowrootmode)) - `ai/resources`
+492. [Shows | web.dev](../../ai/resources/shows-web-dev.md) ([Source](https://web.dev/shows)) - `ai/resources`
+493. [Android Open Source Project](../../ai/resources/android-open-source-project.md) ([Source](http://source.android.com)) - `ai/resources`
+494. [NFL games available with NFL Sunday Ticket - YouTube TV Help](../../ai/resources/nfl-games-available-with-nfl-sunday-ticket-youtube.md) ([Source](https://support.google.com/youtubetv/answer/15138104)) - `ai/resources`
+495. [declarative-shadow-dom/README.md at master · mfreed7/declarative-shadow-dom · GitHub](../../ai/resources/mfreed7-declarative-shadow-dom.md) ([Source](https://github.com/mfreed7/declarative-shadow-dom)) - `ai/resources`
+496. [Contact us | ICO](../../ai/resources/contact-us-ico.md) ([Source](https://ico.org.uk/global/contact-us)) - `ai/resources`
+497. [Optimize Interaction to Next Paint | web.dev](../../ai/resources/optimize-interaction-to-next-paint-web-dev.md) ([Source](https://web.dev/articles/optimize-inp)) - `ai/resources`
+498. [supermlorg/superml-java · Discussions · GitHub](../../ai/resources/supermlorg-superml-java.md) ([Source](https://github.com/supermlorg/superml-java)) - `ai/resources`
+499. [GitHub Changelog](../../ai/resources/github-changelog.md) ([Source](https://github.blog/changelog)) - `ai/resources`
+500. [YouTube | Google for Developers](../../ai/resources/youtube-google-for-developers.md) ([Source](https://developers.google.com/youtube)) - `ai/resources`
+501. [tensorblue · GitHub](../../ai/resources/tensorblue-github.md) ([Source](https://github.com/tensorblue)) - `ai/resources`
+502. [Declarative Shadow DOM | web.dev](../../ai/resources/declarative-shadow-dom-web-dev.md) ([Source](https://developer.chrome.com/docs/css-ui/declarative-shadow-dom)) - `ai/resources`
+503. [Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](../../ai/resources/performance-panel-analyze-your-website-s-performan.md) ([Source](https://developer.chrome.com/docs/devtools/performance/overview)) - `ai/resources`
+504. [Google Family Link - Apps on Google Play](../../ai/resources/google-family-link-apps-on-google-play.md) ([Source](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter)) - `ai/resources`
+505. [New CSS functional pseudo-class selectors :is() and :where() | Articles | web.dev](../../ai/resources/new-css-functional-pseudo-class-selectors-is-and-w.md) ([Source](https://web.dev/articles/css-is-and-where)) - `ai/resources`
+506. [supermlorg (SuperML.org) · GitHub](../../ai/resources/supermlorg-superml-org-github.md) ([Source](https://github.com/supermlorg)) - `ai/resources`
+507. [Home - The GitHub Blog](../../ai/resources/home-the-github-blog.md) ([Source](https://github.blog)) - `ai/resources`
+508. [Chat LangChain](../../ai/resources/chat-langchain.md) ([Source](https://chat.langchain.com)) - `ai/resources`
+509. [CSS Nesting | Chrome for Developers](../../ai/resources/css-nesting-chrome-for-developers.md) ([Source](https://developer.chrome.com/docs/css-ui/css-nesting)) - `ai/resources`
+510. [- YouTube](../../ai/resources/youtube-gnjgt-ib-e.md) ([Source](https://youtube.com/watch?v=gNJgt_IB--E)) - `ai/resources`
+511. [How to use Baseline in your project | Google Codelabs](../../ai/resources/how-to-use-baseline-in-your-project-google-codelab.md) ([Source](https://codelabs.developers.google.com/codelabs/use-baseline-in-your-project)) - `ai/resources`
+512. [gitiles - Git at Google](../../ai/resources/gitiles-git-at-google.md) ([Source](https://gerrit.googlesource.com/gitiles)) - `ai/resources`
+513. [Flag an app or review on Google Play - Computer - Google Play Help](../../ai/resources/flag-an-app-or-review-on-google-play-computer-goog.md) ([Source](https://support.google.com/googleplay/answer/2853570)) - `ai/resources`
+514. [Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users](../../ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md) ([Source](https://speechify.com)) - `ai/resources`
+515. [Baseline | web.dev](../../ai/resources/baseline-web-dev.md) ([Source](https://web.dev/baseline)) - `ai/resources`
+516. [Standard Contractual Clauses (SCC) - European Commission](../../ai/resources/standard-contractual-clauses-scc-european-commissi.md) ([Source](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)) - `ai/resources`
+517. [NFL Sunday Ticket for Business](../../ai/rag/nfl-sunday-ticket-for-business.md) ([Source](https://everpass.com/live-sports/nfl-sunday-ticket)) - `ai/rag`
+518. [Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack](../../ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md) ([Source](https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline)) - `ai/rag`
+519. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source](https://docs.cloud.deepset.ai/docs/getting-started)) - `ai/rag`
+520. [GitHub Status](../../ai/rag/github-status.md) ([Source](https://githubstatus.com)) - `ai/rag`
+521. [LangChain · GitHub](../../ai/rag/langchain-github.md) ([Source](https://github.com/langchain-ai)) - `ai/rag`
+522. [Releases · gohugoio/hugo · GitHub](../../ai/rag/gohugoio-hugo.md) ([Source](https://github.com/gohugoio/hugo)) - `ai/rag`
+523. [Introduction to Haystack | Haystack Documentation](../../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source](https://docs.haystack.deepset.ai/docs/intro)) - `ai/rag`
+524. [Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](../../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md) ([Source](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios)) - `ai/rag`
+525. [RAG Techniques: Zero to Hero — A Complete Guide | martinuke0's Blog](../../ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md) ([Source](https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide)) - `ai/rag`
+526. [Update on Plans for Privacy Sandbox Technologies](../../ai/rag/update-on-plans-for-privacy-sandbox-technologies.md) ([Source](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies)) - `ai/rag`
+527. [DSPy](../../ai/rag/dspy.md) ([Source](http://dspy.ai)) - `ai/rag`
+528. [Medium Privacy Policy | by Medium | Medium Policy](../../ai/rag/medium-privacy-policy-by-medium-medium-policy.md) ([Source](https://policy.medium.com/medium-privacy-policy-f03bf92035c9)) - `ai/rag`
+529. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
+530. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+531. [Introduction to Lighthouse | Chrome for Developers](../../ai/rag/introduction-to-lighthouse-chrome-for-developers.md) ([Source](https://developer.chrome.com/docs/lighthouse/overview)) - `ai/rag`
+532. [Hello from Privacy Sandbox Demos | Privacy Sandbox Demos](../../ai/rag/hello-from-privacy-sandbox-demos-privacy-sandbox-d.md) ([Source](https://privacy-sandbox-demos.dev)) - `ai/rag`
+533. [deepset (deepset)](../../ai/rag/deepset-deepset.md) ([Source](https://huggingface.co/deepset)) - `ai/rag`
+534. [Imprint](../../ai/rag/imprint.md) ([Source](https://deepset.ai/imprint)) - `ai/rag`
+535. [SuperML – Learning First, Backed by Open Source AI/ML Products](../../ai/rag/superml-learning-first-backed-by-open-source-ai-ml.md) ([Source](https://superml.org)) - `ai/rag`
+536. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+537. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../../ai/rag/resources-whitepapers.md) ([Source](https://github.com/resources/whitepapers)) - `ai/rag`
+538. [LlamaIndex | AI Agents for Document OCR + Workflows](../../ai/rag/llamaindex-ai-agents-for-document-ocr-workflows.md) ([Source](https://llamaindex.ai)) - `ai/rag`
+539. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+540. [Legal - Apple Privacy Policy - Apple](../../ai/rag/legal-apple-privacy-policy-apple.md) ([Source](https://apple.com/legal/privacy/en-ww)) - `ai/rag`
+541. [Global Infrastructure - AWS](../../ai/rag/global-infrastructure-aws.md) ([Source](https://aws.amazon.com/about-aws/global-infrastructure)) - `ai/rag`
+542. [RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices](../../ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md) ([Source](https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025)) - `ai/rag`
+543. [Privacy Sandbox feature status](../../ai/rag/privacy-sandbox-feature-status.md) ([Source](https://privacysandbox.google.com/overview/status)) - `ai/rag`
+544. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
+545. [Agentic AI, NL2SQL & Enterprise AI Architecture â SuperML.dev | SuperML.dev â AI/ML Architecture for Enterprise](../../ai/rag/agentic-ai-nl2sql-enterprise-ai-architecture-a-sup.md) ([Source](https://superml.dev)) - `ai/rag`
+546. [Manage renewal for NFL Sunday Ticket on YouTube TV - Computer - YouTube TV Help](../../ai/rag/manage-renewal-for-nfl-sunday-ticket-on-youtube-tv.md) ([Source](https://support.google.com/youtubetv/answer/13769266?hl=en&ref_topic=13625337&sjid=17114201391902884271-NA)) - `ai/rag`
+547. [Android Apps on Google Play](../../ai/rag/android-apps-on-google-play.md) ([Source](https://play.google.com/store)) - `ai/rag`
+548. [Retrieval-Augmented Generation (RAG) - DSPy](../../ai/rag/retrieval-augmented-generation-rag-dspy.md) ([Source](https://dspy.ai/tutorials/rag)) - `ai/rag`
+549. [LangChain Blog](../../ai/rag/langchain-blog.md) ([Source](https://blog.langchain.com)) - `ai/rag`
+550. [android Git repositories - Git at Google](../../ai/rag/android-git-repositories-git-at-google.md) ([Source](http://android.googlesource.com)) - `ai/rag`
+551. [Story’s detailed stats page – Medium Help Center](../../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source](https://help.medium.com/hc/en-us/articles/34831991136151)) - `ai/rag`
+552. [Try out CSS Nesting today | WebKit](../../ai/rag/try-out-css-nesting-today-webkit.md) ([Source](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview)) - `ai/rag`
+553. [[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together](../../ai/rag/arxiv-2407-10930.md) ([Source](https://arxiv.org/abs/2407.10930)) - `ai/rag`
+554. [Review your order history - Google Play Help](../../ai/rag/review-your-order-history-google-play-help.md) ([Source](https://support.google.com/googleplay/answer/2850369?hl=en)) - `ai/rag`
+555. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+556. [Using custom elements - Web APIs | MDN](../../ai/rag/using-custom-elements-web-apis-mdn.md) ([Source](https://developer.mozilla.org/docs/web/web_components/using_custom_elements)) - `ai/rag`
+557. [Configure imaging](../../ai/rag/configure-imaging.md) ([Source](https://gohugo.io/configuration/imaging)) - `ai/rag`
+558. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
+559. [Haystack | Haystack](../../ai/rag/haystack-haystack.md) ([Source](https://haystack.deepset.ai)) - `ai/rag`
+560. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
+561. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source](https://tv.youtube.com/learn/nflsundayticket)) - `ai/rag`
+562. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_first_rag_pipeline.ipynb)) - `ai/rag`
+563. [Vite 7.0 is out! | Vite](../../ai/rag/vite-7-0-is-out-vite.md) ([Source](https://vite.dev/blog/announcing-vite7.html)) - `ai/rag`
+564. [Android Mobile App Developer Tools - Android Developers](../../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source](http://developer.android.com/index.html)) - `ai/rag`
+565. [Medium: Read and write stories.](../../ai/rag/medium-read-and-write-stories.md) ([Source](https://medium.com)) - `ai/rag`
+566. [🧑‍🍳 Cookbook | Haystack](../../ai/rag/cookbook-haystack.md) ([Source](https://haystack.deepset.ai/cookbook)) - `ai/rag`
+567. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
+568. [CSS Nesting Module Level 1](../../ai/rag/css-nesting-module-level-1.md) ([Source](https://w3.org/tr/css-nesting-1)) - `ai/rag`
+569. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
+570. [arXiv + Replicate | Replicate](../../ai/rag/arxiv-replicate-replicate.md) ([Source](https://replicate.com/docs/arxiv/about)) - `ai/rag`
+571. [Gemini Developer API | Gemma open models | Google AI for Developers](../../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source](http://ai.google.dev)) - `ai/rag`
+572. [Tutorials | Haystack](../../ai/rag/tutorials-haystack.md) ([Source](https://haystack.deepset.ai/tutorials)) - `ai/rag`
+573. [GitHub Features · GitHub](../../ai/rag/github-features-github.md) ([Source](https://github.com/features)) - `ai/rag`
+574. [Chrome for Developers](../../ai/rag/chrome-for-developers.md) ([Source](https://developer.chrome.com/home)) - `ai/rag`
+575. [Site Policies | Google for Developers](../../ai/rag/site-policies-google-for-developers.md) ([Source](https://developers.google.com/site-policies)) - `ai/rag`
+576. [Google Play Terms of Service](../../ai/rag/google-play-terms-of-service.md) ([Source](http://play.google.com/about/play-terms.html)) - `ai/rag`
+577. [LangChain: Observe, Evaluate, and Deploy Reliable AI Agents](../../ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md) ([Source](https://langchain.com)) - `ai/agents`
+578. [LlamaParse Platform Quickstart | Developer Documentation](../../ai/agents/llamaparse-platform-quickstart-developer-documenta.md) ([Source](https://developers.llamaindex.ai)) - `ai/agents`
+579. [GitHub Docs](../../ai/agents/github-docs.md) ([Source](https://docs.github.com)) - `ai/agents`
 
 ## Weekly Research Insights
 
-1. [AI-Model Network: Concept, Current State and Future](../../ai/research/arxiv-2606-27382.md) ([Source](https://arxiv.org/abs/2606.27382)) - `ai/research`
-2. [When Does Personality Composition Matter for Multi-Agent LLM Teams?](../../ai/agents/arxiv-2606-27443.md) ([Source](https://arxiv.org/abs/2606.27443)) - `ai/agents`
-3. [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](../../ai/agents/arxiv-2606-27483.md) ([Source](https://arxiv.org/abs/2606.27483)) - `ai/agents`
-4. [Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models](../../ai/research/arxiv-2606-27593.md) ([Source](https://arxiv.org/abs/2606.27593)) - `ai/research`
-5. [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](../../ai/rag/arxiv-2606-27619.md) ([Source](https://arxiv.org/abs/2606.27619)) - `ai/rag`
-6. [MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy](../../ai/research/arxiv-2606-27652.md) ([Source](https://arxiv.org/abs/2606.27652)) - `ai/research`
-7. [ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation](../../ai/agents/arxiv-2606-27736.md) ([Source](https://arxiv.org/abs/2606.27736)) - `ai/agents`
-8. [Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework](../../ai/rag/arxiv-2606-27757.md) ([Source](https://arxiv.org/abs/2606.27757)) - `ai/rag`
-9. [Understanding Rollout Error in Graph World Models](../../ai/agents/arxiv-2606-27780.md) ([Source](https://arxiv.org/abs/2606.27780)) - `ai/agents`
-10. [Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents](../../ai/agents/arxiv-2606-27806.md) ([Source](https://arxiv.org/abs/2606.27806)) - `ai/agents`
-11. [ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents](../../ai/rag/arxiv-2606-27814.md) ([Source](https://arxiv.org/abs/2606.27814)) - `ai/rag`
-12. [NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning](../../ai/agents/arxiv-2606-27826.md) ([Source](https://arxiv.org/abs/2606.27826)) - `ai/agents`
-13. [Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing](../../ai/agents/arxiv-2606-27926.md) ([Source](https://arxiv.org/abs/2606.27926)) - `ai/agents`
-14. [RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion](../../ai/rag/arxiv-2606-27967.md) ([Source](https://arxiv.org/abs/2606.27967)) - `ai/rag`
-15. [Lifted Causal Inference](../../ai/research/arxiv-2606-28024.md) ([Source](https://arxiv.org/abs/2606.28024)) - `ai/research`
-16. [JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications](../../ai/rag/arxiv-2606-28070.md) ([Source](https://arxiv.org/abs/2606.28070)) - `ai/rag`
-17. [Ontology-Guided Evidence Path Inference for Multi-hop Knowledge Graph Question Answering](../../ai/research/arxiv-2606-28076.md) ([Source](https://arxiv.org/abs/2606.28076)) - `ai/research`
-18. [AI-Driven Synthesis for High-Tech System Design: Automating Innovation](../../ai/agents/arxiv-2606-28126.md) ([Source](https://arxiv.org/abs/2606.28126)) - `ai/agents`
-19. [Tandem Reinforcement Learning with Verifiable Rewards](../../ai/agents/arxiv-2606-28166.md) ([Source](https://arxiv.org/abs/2606.28166)) - `ai/agents`
-20. [Agent-Native Immune System: Architecture, Taxonomy, and Engineering](../../ai/agents/arxiv-2606-28270.md) ([Source](https://arxiv.org/abs/2606.28270)) - `ai/agents`
-21. [DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](../../ai/rag/arxiv-2601-16956.md) ([Source](https://arxiv.org/abs/2601.16956)) - `ai/rag`
-22. [Position: The Term "Machine Unlearning" Is Overused in LLMs](../../ai/research/arxiv-2606-27379.md) ([Source](https://arxiv.org/abs/2606.27379)) - `ai/research`
-23. [OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections](../../ai/rag/arxiv-2606-27381.md) ([Source](https://arxiv.org/abs/2606.27381)) - `ai/rag`
-24. [CalBrief: A Pilot Diagnostic Benchmark for Evidence-Calibrated Scientific Briefing with Large Language Models](../../ai/research/arxiv-2606-27383.md) ([Source](https://arxiv.org/abs/2606.27383)) - `ai/research`
-25. [Agentic Publication Protocol: An Attempt to Modernize Scientific Publication](../../ai/agents/arxiv-2606-27386.md) ([Source](https://arxiv.org/abs/2606.27386)) - `ai/agents`
-26. [SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game](../../ai/agents/arxiv-2606-27397.md) ([Source](https://arxiv.org/abs/2606.27397)) - `ai/agents`
-27. [Automated brain tumor detection in MRI images using CNN and ResNet architectures](../../ai/research/arxiv-2606-27405.md) ([Source](https://arxiv.org/abs/2606.27405)) - `ai/research`
-28. [Towards Evaluation of Implicit Software World Models in Coding LLMs](../../ai/agents/arxiv-2606-27406.md) ([Source](https://arxiv.org/abs/2606.27406)) - `ai/agents`
-29. [Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder](../../ai/rag/arxiv-2606-27411.md) ([Source](https://arxiv.org/abs/2606.27411)) - `ai/rag`
-30. [Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation](../../ai/rag/arxiv-2606-27412.md) ([Source](https://arxiv.org/abs/2606.27412)) - `ai/rag`
-31. [GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana](../../ai/research/arxiv-2606-27413.md) ([Source](https://arxiv.org/abs/2606.27413)) - `ai/research`
-32. [Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents](../../ai/agents/arxiv-2606-27472.md) ([Source](https://arxiv.org/abs/2606.27472)) - `ai/agents`
-33. [Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](../../ai/research/arxiv-2606-27474.md) ([Source](https://arxiv.org/abs/2606.27474)) - `ai/research`
-34. [DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection](../../ai/agents/arxiv-2606-27499.md) ([Source](https://arxiv.org/abs/2606.27499)) - `ai/agents`
-35. [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../ai/research/arxiv-2606-27527.md) ([Source](https://arxiv.org/abs/2606.27527)) - `ai/research`
-36. [The Context-Ready Transformer](../../ai/research/arxiv-2606-27538.md) ([Source](https://arxiv.org/abs/2606.27538)) - `ai/research`
-37. [Benchmarking Multi-Modal Graph-based Social Media Popularity Prediction](../../ai/rag/arxiv-2606-27539.md) ([Source](https://arxiv.org/abs/2606.27539)) - `ai/rag`
-38. [On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models](../../ai/rag/arxiv-2606-27567.md) ([Source](https://arxiv.org/abs/2606.27567)) - `ai/rag`
-39. [hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](../../ai/rag/arxiv-2606-27577.md) ([Source](https://arxiv.org/abs/2606.27577)) - `ai/rag`
-40. [PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration](../../ai/rag/arxiv-2606-27578.md) ([Source](https://arxiv.org/abs/2606.27578)) - `ai/rag`
-41. [Distribution-based deep multiple instance learning for tumor proportion scoring in NSCLC](../../ai/rag/arxiv-2606-27579.md) ([Source](https://arxiv.org/abs/2606.27579)) - `ai/rag`
-42. [Retroactive Advantage Correction: Closed-Form V-Trace Bias Correction for Delay-Aware RLHF](../../ai/research/arxiv-2606-27580.md) ([Source](https://arxiv.org/abs/2606.27580)) - `ai/research`
-43. [SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction](../../ai/research/arxiv-2606-27581.md) ([Source](https://arxiv.org/abs/2606.27581)) - `ai/research`
-44. [CoIn: Comprehensive 2D-3D Inpainting with Gaussian Splatting Guidance](../../ai/rag/arxiv-2606-27584.md) ([Source](https://arxiv.org/abs/2606.27584)) - `ai/rag`
-45. [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../ai/research/arxiv-2606-27596.md) ([Source](https://arxiv.org/abs/2606.27596)) - `ai/research`
-46. [Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing](../../ai/research/arxiv-2606-27598.md) ([Source](https://arxiv.org/abs/2606.27598)) - `ai/research`
-47. [Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations](../../ai/research/arxiv-2606-27599.md) ([Source](https://arxiv.org/abs/2606.27599)) - `ai/research`
-48. [HybridCodec: Modeling Discrete and Continuous Representations for Efficient Speech Language Models](../../ai/research/arxiv-2606-27627.md) ([Source](https://arxiv.org/abs/2606.27627)) - `ai/research`
-49. [Cross-Platform Chinese Offensive Comment Detection via Dual-Threshold Hard Example Mining](../../ai/research/arxiv-2606-27629.md) ([Source](https://arxiv.org/abs/2606.27629)) - `ai/research`
-50. [Reconstructing the Developmental Trajectory of Adipocytes in Human Adipose Tissue Using Single-Cell RNA Sequencing](../../ai/research/arxiv-2606-27657.md) ([Source](https://arxiv.org/abs/2606.27657)) - `ai/research`
-51. [Explainable AI for Biodiversity Monitoring and Ecological Image Analysis](../../ai/research/arxiv-2606-27667.md) ([Source](https://arxiv.org/abs/2606.27667)) - `ai/research`
-52. [From Signals to Transfer: A Factorised Study of Probe-Based Uncertainty Estimation in Large Language Models](../../ai/rag/arxiv-2606-27679.md) ([Source](https://arxiv.org/abs/2606.27679)) - `ai/rag`
-53. [CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence](../../ai/research/arxiv-2606-27683.md) ([Source](https://arxiv.org/abs/2606.27683)) - `ai/research`
-54. [Mitigating LLM-based p-Hacking by Preregistering for the Next LLM](../../ai/research/arxiv-2606-27687.md) ([Source](https://arxiv.org/abs/2606.27687)) - `ai/research`
-55. [Deployment-Side Adaptiveness in Multi-Horizon Volatility Forecasting](../../ai/research/arxiv-2606-27688.md) ([Source](https://arxiv.org/abs/2606.27688)) - `ai/research`
-56. [Halt Fast! Early Stopping for Certified Robustness](../../ai/research/arxiv-2606-27694.md) ([Source](https://arxiv.org/abs/2606.27694)) - `ai/research`
-57. [Class-frequency Guided Noise Schedule for Diffusion Models](../../ai/rag/arxiv-2606-27696.md) ([Source](https://arxiv.org/abs/2606.27696)) - `ai/rag`
-58. [What Was That Again? Certified Robustness for Automatic Speech Recognition](../../ai/research/arxiv-2606-27698.md) ([Source](https://arxiv.org/abs/2606.27698)) - `ai/research`
-59. [Room for Error: Large-Scale Simulation of Over-the-Air Acoustic Attacks](../../ai/research/arxiv-2606-27701.md) ([Source](https://arxiv.org/abs/2606.27701)) - `ai/research`
-60. [Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning](../../ai/research/arxiv-2606-27709.md) ([Source](https://arxiv.org/abs/2606.27709)) - `ai/research`
-61. [The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference](../../ai/research/arxiv-2606-27711.md) ([Source](https://arxiv.org/abs/2606.27711)) - `ai/research`
-62. [Do Speech Emphasis Models Generalize across Languages and Emotions?](../../ai/research/arxiv-2606-27717.md) ([Source](https://arxiv.org/abs/2606.27717)) - `ai/research`
-63. [Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment](../../ai/rag/arxiv-2606-27731.md) ([Source](https://arxiv.org/abs/2606.27731)) - `ai/rag`
-64. [Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation](../../ai/rag/arxiv-2606-27732.md) ([Source](https://arxiv.org/abs/2606.27732)) - `ai/rag`
-65. [KG2Cypher: Data-Centric Pipeline for Building Enterprise Text-to-Cypher Systems](../../ai/research/arxiv-2606-27742.md) ([Source](https://arxiv.org/abs/2606.27742)) - `ai/research`
-66. [End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference](../../ai/research/arxiv-2606-27743.md) ([Source](https://arxiv.org/abs/2606.27743)) - `ai/research`
-67. [Flexformer: Flexible Linear Transformer with Learnable Attention Kernel](../../ai/research/arxiv-2606-27748.md) ([Source](https://arxiv.org/abs/2606.27748)) - `ai/research`
-68. [From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](../../ai/research/arxiv-2606-27751.md) ([Source](https://arxiv.org/abs/2606.27751)) - `ai/research`
-69. [Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?](../../ai/research/arxiv-2606-27755.md) ([Source](https://arxiv.org/abs/2606.27755)) - `ai/research`
-70. [RS-Diffuser: Risk-Sensitive Diffusion Planning with Distributional Value Guidance](../../ai/research/arxiv-2606-27766.md) ([Source](https://arxiv.org/abs/2606.27766)) - `ai/research`
-71. [Improving Adversarial Robustness via Activation Amplification and Attenuation](../../ai/research/arxiv-2606-27784.md) ([Source](https://arxiv.org/abs/2606.27784)) - `ai/research`
-72. [Output-Space Allocation Costs for Calibration-Guided LLM Compression: An Empirical Study](../../ai/rag/arxiv-2606-27785.md) ([Source](https://arxiv.org/abs/2606.27785)) - `ai/rag`
-73. [SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation](../../ai/rag/arxiv-2606-27786.md) ([Source](https://arxiv.org/abs/2606.27786)) - `ai/rag`
-74. [NLL-Guided Full-Attention Layer Selection for Training-Free Sliding-Window Adaptation](../../ai/research/arxiv-2606-27791.md) ([Source](https://arxiv.org/abs/2606.27791)) - `ai/research`
-75. [Position Bias Correction is Insufficient for One-Pass Attention Sorting](../../ai/research/arxiv-2606-27793.md) ([Source](https://arxiv.org/abs/2606.27793)) - `ai/research`
-76. [Optimizing Teacher-Student Partitioning for Scalable Knowledge Distillation on HPC Systems](../../ai/research/arxiv-2606-27797.md) ([Source](https://arxiv.org/abs/2606.27797)) - `ai/research`
-77. [Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting](../../ai/research/arxiv-2606-27821.md) ([Source](https://arxiv.org/abs/2606.27821)) - `ai/research`
-78. [Pepti-drift: Toxicity-Repulsive Drifting for Antigen-Conditioned Discrete Peptide Generation](../../ai/research/arxiv-2606-27824.md) ([Source](https://arxiv.org/abs/2606.27824)) - `ai/research`
-79. [Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling](../../ai/research/arxiv-2606-27831.md) ([Source](https://arxiv.org/abs/2606.27831)) - `ai/research`
-80. [WattLayer: Get Layers Right to Estimate Inference Energy of Neural Networks](../../ai/rag/arxiv-2606-27841.md) ([Source](https://arxiv.org/abs/2606.27841)) - `ai/rag`
-81. [Applicability of memorization indicators for early spotting of overfitting while recalibrating sEMG-decoders on low sample sizes](../../ai/research/arxiv-2606-27855.md) ([Source](https://arxiv.org/abs/2606.27855)) - `ai/research`
-82. [GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](../../ai/research/arxiv-2606-27863.md) ([Source](https://arxiv.org/abs/2606.27863)) - `ai/research`
-83. [S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](../../ai/research/arxiv-2606-27872.md) ([Source](https://arxiv.org/abs/2606.27872)) - `ai/research`
-84. [SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion](../../ai/research/arxiv-2606-27876.md) ([Source](https://arxiv.org/abs/2606.27876)) - `ai/research`
-85. [A Study of Temporal Fusion Strategies for Named Entity Recognition in Historical Texts](../../ai/research/arxiv-2606-27881.md) ([Source](https://arxiv.org/abs/2606.27881)) - `ai/research`
-86. [SEADA: An efficient methodology for optimizing mixed-precision DNNs on multi-precision spatial architectures](../../ai/research/arxiv-2606-27884.md) ([Source](https://arxiv.org/abs/2606.27884)) - `ai/research`
-87. [Triadic Werewolf: A Jester Role for Multi-Hop Theory of Mind in LLMs](../../ai/agents/arxiv-2606-27909.md) ([Source](https://arxiv.org/abs/2606.27909)) - `ai/agents`
-88. [Every Step of the Way: Video-based Parkinsonian Turning Step Counting](../../ai/rag/arxiv-2606-27918.md) ([Source](https://arxiv.org/abs/2606.27918)) - `ai/rag`
-89. [Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding](../../ai/agents/arxiv-2606-27922.md) ([Source](https://arxiv.org/abs/2606.27922)) - `ai/agents`
-90. [Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design](../../ai/research/arxiv-2606-27923.md) ([Source](https://arxiv.org/abs/2606.27923)) - `ai/research`
-91. [Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy](../../ai/agents/arxiv-2606-27936.md) ([Source](https://arxiv.org/abs/2606.27936)) - `ai/agents`
-92. [Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition](../../ai/rag/arxiv-2606-27939.md) ([Source](https://arxiv.org/abs/2606.27939)) - `ai/rag`
-93. [VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring](../../ai/research/arxiv-2606-27941.md) ([Source](https://arxiv.org/abs/2606.27941)) - `ai/research`
-94. [Reasoning Beyond Prediction: From Data-Driven to Causal Software Engineering](../../ai/research/arxiv-2606-27960.md) ([Source](https://arxiv.org/abs/2606.27960)) - `ai/research`
-95. [From Black-Box to Clinical Insight: A Multi-Stage Explainable Framework for Speech-Based Cognitive Impairment Detection](../../ai/research/arxiv-2606-27973.md) ([Source](https://arxiv.org/abs/2606.27973)) - `ai/research`
-96. [ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering](../../ai/rag/arxiv-2606-27974.md) ([Source](https://arxiv.org/abs/2606.27974)) - `ai/rag`
-97. [SHARD: cell-keyed residual splitting for alignment-resistant private dense retrieval](../../ai/rag/arxiv-2606-27976.md) ([Source](https://arxiv.org/abs/2606.27976)) - `ai/rag`
-98. [Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation](../../ai/research/arxiv-2606-27978.md) ([Source](https://arxiv.org/abs/2606.27978)) - `ai/research`
-99. [Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection](../../ai/rag/arxiv-2606-28002.md) ([Source](https://arxiv.org/abs/2606.28002)) - `ai/rag`
-100. [MLVC: Multi-platform Learned Video Codec for Real-World Deployment](../../ai/rag/arxiv-2606-28027.md) ([Source](https://arxiv.org/abs/2606.28027)) - `ai/rag`
-101. [Mind the Gap: Quantifying the Domain Gap in Cross-Sensor Diffusion Super-Resolution](../../ai/research/arxiv-2606-28039.md) ([Source](https://arxiv.org/abs/2606.28039)) - `ai/research`
-102. [DG^VoiC: Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions](../../ai/research/arxiv-2606-28048.md) ([Source](https://arxiv.org/abs/2606.28048)) - `ai/research`
-103. [Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA](../../ai/research/arxiv-2606-28050.md) ([Source](https://arxiv.org/abs/2606.28050)) - `ai/research`
-104. [MultiHashFormer: Hash-based Generative Language Models](../../ai/research/arxiv-2606-28057.md) ([Source](https://arxiv.org/abs/2606.28057)) - `ai/research`
-105. [ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents](../../ai/agents/arxiv-2606-28061.md) ([Source](https://arxiv.org/abs/2606.28061)) - `ai/agents`
-106. [Single and Multi Truth Data Fusion using Large Language Models](../../ai/research/arxiv-2606-28062.md) ([Source](https://arxiv.org/abs/2606.28062)) - `ai/research`
-107. [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../../ai/research/arxiv-2606-28065.md) ([Source](https://arxiv.org/abs/2606.28065)) - `ai/research`
-108. [STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition](../../ai/research/arxiv-2606-28083.md) ([Source](https://arxiv.org/abs/2606.28083)) - `ai/research`
-109. [OSOR: One-Step Diffusion Inpainting for Effect-Aware Object Removal](../../ai/rag/arxiv-2606-28094.md) ([Source](https://arxiv.org/abs/2606.28094)) - `ai/rag`
-110. [BiDeMem: Bidirectional Degradation Memory for Explainable Image Restoration](../../ai/research/arxiv-2606-28112.md) ([Source](https://arxiv.org/abs/2606.28112)) - `ai/research`
-111. [Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs](../../ai/research/arxiv-2606-28122.md) ([Source](https://arxiv.org/abs/2606.28122)) - `ai/research`
-112. [From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond](../../ai/research/arxiv-2606-28127.md) ([Source](https://arxiv.org/abs/2606.28127)) - `ai/research`
-113. [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](../../ai/research/arxiv-2606-28128.md) ([Source](https://arxiv.org/abs/2606.28128)) - `ai/research`
-114. [Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection](../../ai/research/arxiv-2606-28134.md) ([Source](https://arxiv.org/abs/2606.28134)) - `ai/research`
-115. [Toward Robust In-Context Segmentation via Concept Guidance](../../ai/research/arxiv-2606-28149.md) ([Source](https://arxiv.org/abs/2606.28149)) - `ai/research`
-116. [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../../ai/research/arxiv-2606-28153.md) ([Source](https://arxiv.org/abs/2606.28153)) - `ai/research`
-117. [CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association](../../ai/agents/arxiv-2606-28179.md) ([Source](https://arxiv.org/abs/2606.28179)) - `ai/agents`
-118. [LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](../../ai/rag/arxiv-2606-28182.md) ([Source](https://arxiv.org/abs/2606.28182)) - `ai/rag`
-119. [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](../../ai/rag/arxiv-2606-28186.md) ([Source](https://arxiv.org/abs/2606.28186)) - `ai/rag`
-120. [The Remittance Blueprint: Data-driven Intelligence for Sri Lanka](../../ai/research/arxiv-2606-28190.md) ([Source](https://arxiv.org/abs/2606.28190)) - `ai/research`
-121. [HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration](../../ai/agents/arxiv-2606-28215.md) ([Source](https://arxiv.org/abs/2606.28215)) - `ai/agents`
-122. [Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](../../ai/agents/arxiv-2606-28217.md) ([Source](https://arxiv.org/abs/2606.28217)) - `ai/agents`
-123. [Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching](../../ai/rag/arxiv-2606-28226.md) ([Source](https://arxiv.org/abs/2606.28226)) - `ai/rag`
-124. [Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software](../../ai/agents/arxiv-2606-28235.md) ([Source](https://arxiv.org/abs/2606.28235)) - `ai/agents`
-125. [How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks](../../ai/research/arxiv-2606-28242.md) ([Source](https://arxiv.org/abs/2606.28242)) - `ai/research`
-126. [Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation](../../ai/rag/arxiv-2606-28268.md) ([Source](https://arxiv.org/abs/2606.28268)) - `ai/rag`
-127. [Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration](../../ai/research/arxiv-2606-28274.md) ([Source](https://arxiv.org/abs/2606.28274)) - `ai/research`
-128. [Towards Automating Scientific Review with Google's Paper Assistant Tool](../../ai/agents/arxiv-2606-28277.md) ([Source](https://arxiv.org/abs/2606.28277)) - `ai/agents`
-129. [Agentic Hardware Design as Repository-Level Code Evolution](../../ai/agents/arxiv-2606-28279.md) ([Source](https://arxiv.org/abs/2606.28279)) - `ai/agents`
-130. [Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes](../../ai/rag/arxiv-2606-28308.md) ([Source](https://arxiv.org/abs/2606.28308)) - `ai/rag`
-131. [DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](../../ai/rag/arxiv-2606-28323.md) ([Source](https://arxiv.org/abs/2606.28323)) - `ai/rag`
-132. ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](../../ai/rag/arxiv-2308-05201.md) ([Source](https://arxiv.org/abs/2308.05201)) - `ai/rag`
-133. [Agentic Episodic Control](../../ai/agents/arxiv-2506-01442.md) ([Source](https://arxiv.org/abs/2506.01442)) - `ai/agents`
-134. [Symmetry-Aware Transformer Training for Automated Planning](../../ai/research/arxiv-2508-07743.md) ([Source](https://arxiv.org/abs/2508.07743)) - `ai/research`
-135. [PreferThinker: Reasoning-based Personalized Image Preference Assessment](../../ai/rag/arxiv-2511-00609.md) ([Source](https://arxiv.org/abs/2511.00609)) - `ai/rag`
-136. [Chronic Kidney Disease Prognosis Prediction Using Transformer](../../ai/research/arxiv-2511-02340.md) ([Source](https://arxiv.org/abs/2511.02340)) - `ai/research`
-137. [Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](../../ai/research/arxiv-2511-20196.md) ([Source](https://arxiv.org/abs/2511.20196)) - `ai/research`
-138. [SciFig: Towards Automating Editable Figure Generation for Scientific Papers](../../ai/rag/arxiv-2601-04390.md) ([Source](https://arxiv.org/abs/2601.04390)) - `ai/rag`
-139. [Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context](../../ai/rag/arxiv-2601-17642.md) ([Source](https://arxiv.org/abs/2601.17642)) - `ai/rag`
-140. [GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](../../ai/agents/arxiv-2601-18197.md) ([Source](https://arxiv.org/abs/2601.18197)) - `ai/agents`
-141. [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](../../ai/agents/arxiv-2601-21233.md) ([Source](https://arxiv.org/abs/2601.21233)) - `ai/agents`
-142. [Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](../../ai/research/arxiv-2602-07533.md) ([Source](https://arxiv.org/abs/2602.07533)) - `ai/research`
-143. [CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching](../../ai/rag/arxiv-2602-20094.md) ([Source](https://arxiv.org/abs/2602.20094)) - `ai/rag`
-144. [Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning](../../ai/agents/arxiv-2603-00374.md) ([Source](https://arxiv.org/abs/2603.00374)) - `ai/agents`
-145. [SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](../../ai/agents/arxiv-2603-04873.md) ([Source](https://arxiv.org/abs/2603.04873)) - `ai/agents`
-146. [Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems: Technical Report](../../ai/research/arxiv-2603-15282.md) ([Source](https://arxiv.org/abs/2603.15282)) - `ai/research`
-147. [AgentPSO: Evolving Agent Reasoning Skill via Multi-agent Particle Swarm Optimization](../../ai/agents/arxiv-2605-08704.md) ([Source](https://arxiv.org/abs/2605.08704)) - `ai/agents`
-148. [Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](../../ai/rag/arxiv-2606-03269.md) ([Source](https://arxiv.org/abs/2606.03269)) - `ai/rag`
-149. [Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](../../ai/research/arxiv-2606-05950.md) ([Source](https://arxiv.org/abs/2606.05950)) - `ai/research`
-150. [RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention](../../ai/research/arxiv-2606-06256.md) ([Source](https://arxiv.org/abs/2606.06256)) - `ai/research`
-151. [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](../../ai/research/arxiv-2606-07157.md) ([Source](https://arxiv.org/abs/2606.07157)) - `ai/research`
-152. [Auto-Configuring Scientific Simulators with Lightweight Coding-Agent Adapters](../../ai/agents/arxiv-2606-09774.md) ([Source](https://arxiv.org/abs/2606.09774)) - `ai/agents`
-153. [Artificial Intelligence Index Report 2026](../../ai/research/arxiv-2606-15708.md) ([Source](https://arxiv.org/abs/2606.15708)) - `ai/research`
-154. [The Shift Toward Open and Reproducible AI Research](../../ai/research/arxiv-2606-16974.md) ([Source](https://arxiv.org/abs/2606.16974)) - `ai/research`
-155. [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](../../ai/agents/arxiv-2606-18142.md) ([Source](https://arxiv.org/abs/2606.18142)) - `ai/agents`
-156. [Agent-as-a-Router: Agentic Model Routing for Coding Tasks](../../ai/agents/arxiv-2606-22902.md) ([Source](https://arxiv.org/abs/2606.22902)) - `ai/agents`
-157. [POTracker: Optimizing Large Language Models for Standard-Compliant Power Outage Report Generation](../../ai/rag/arxiv-2606-23533.md) ([Source](https://arxiv.org/abs/2606.23533)) - `ai/rag`
-158. [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../../ai/agents/arxiv-2606-25836.md) ([Source](https://arxiv.org/abs/2606.25836)) - `ai/agents`
-159. [What the LLM Should Not Say: Boundary-Aware Context Grounding for A Seven-Channel EEG Agent](../../ai/rag/arxiv-2606-26519.md) ([Source](https://arxiv.org/abs/2606.26519)) - `ai/rag`
-160. [AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems](../../ai/agents/arxiv-2606-26859.md) ([Source](https://arxiv.org/abs/2606.26859)) - `ai/agents`
-161. [A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models](../../ai/research/arxiv-2606-26879.md) ([Source](https://arxiv.org/abs/2606.26879)) - `ai/research`
-162. [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../../ai/research/arxiv-2606-26964.md) ([Source](https://arxiv.org/abs/2606.26964)) - `ai/research`
-163. [iCost: A Novel Instance-Complexity-Based Cost-Sensitive Learning Framework](../../ai/research/arxiv-2409-13007.md) ([Source](https://arxiv.org/abs/2409.13007)) - `ai/research`
-164. [Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook](../../ai/research/arxiv-2411-19537.md) ([Source](https://arxiv.org/abs/2411.19537)) - `ai/research`
-165. [Derivation of effective gradient flow equations and dynamical truncation of training data in Deep Learning](../../ai/research/arxiv-2501-07400.md) ([Source](https://arxiv.org/abs/2501.07400)) - `ai/research`
-166. [The Minimal Search Space for Conditional Causal Bandits](../../ai/research/arxiv-2502-06577.md) ([Source](https://arxiv.org/abs/2502.06577)) - `ai/research`
-167. [ReFreeKV: Towards Threshold-Free KV Cache Compression](../../ai/research/arxiv-2502-16886.md) ([Source](https://arxiv.org/abs/2502.16886)) - `ai/research`
-168. [DMind Benchmark: Toward a Holistic Assessment of LLM Capabilities across the Web3 Domain](../../ai/research/arxiv-2504-16116.md) ([Source](https://arxiv.org/abs/2504.16116)) - `ai/research`
-169. [Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](../../ai/agents/arxiv-2505-23847.md) ([Source](https://arxiv.org/abs/2505.23847)) - `ai/agents`
-170. [PRISON: Unmasking the Criminal Potential of Large Language Models](../../ai/rag/arxiv-2506-16150.md) ([Source](https://arxiv.org/abs/2506.16150)) - `ai/rag`
-171. [SIDA: Synthetic Image Driven Zero-shot Domain Adaptation](../../ai/rag/arxiv-2507-18632.md) ([Source](https://arxiv.org/abs/2507.18632)) - `ai/rag`
-172. [Calibrating Biophysical Models for Grape Phenology Prediction via Multi-Task Learning](../../ai/research/arxiv-2508-03898.md) ([Source](https://arxiv.org/abs/2508.03898)) - `ai/research`
-173. [LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](../../ai/agents/arxiv-2508-12232.md) ([Source](https://arxiv.org/abs/2508.12232)) - `ai/agents`
-174. [SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](../../ai/research/arxiv-2508-12410.md) ([Source](https://arxiv.org/abs/2508.12410)) - `ai/research`
-175. [Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](../../ai/rag/arxiv-2509-19376.md) ([Source](https://arxiv.org/abs/2509.19376)) - `ai/rag`
-176. [Unbiased Binning for Fairness-aware Attribute Representation](../../ai/research/arxiv-2509-21785.md) ([Source](https://arxiv.org/abs/2509.21785)) - `ai/research`
-177. [Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](../../ai/research/arxiv-2510-03243.md) ([Source](https://arxiv.org/abs/2510.03243)) - `ai/research`
-178. [Deep Neural Networks Inspired by Differential Equations](../../ai/research/arxiv-2510-09685.md) ([Source](https://arxiv.org/abs/2510.09685)) - `ai/research`
-179. [MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](../../ai/research/arxiv-2510-10271.md) ([Source](https://arxiv.org/abs/2510.10271)) - `ai/research`
-180. [A Primer on SO(3) Action Representations in Deep Reinforcement Learning](../../ai/research/arxiv-2510-11103.md) ([Source](https://arxiv.org/abs/2510.11103)) - `ai/research`
-181. [LieSolver: PDE-Constrained Learning for IBVPs via Lie Symmetries](../../ai/rag/arxiv-2510-25731.md) ([Source](https://arxiv.org/abs/2510.25731)) - `ai/rag`
-182. [Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification](../../ai/rag/arxiv-2511-03217.md) ([Source](https://arxiv.org/abs/2511.03217)) - `ai/rag`
-183. [Hybrid coupling with operator inference and the overlapping Schwarz alternating method](../../ai/rag/arxiv-2511-20687.md) ([Source](https://arxiv.org/abs/2511.20687)) - `ai/rag`
-184. [Trust Region Masking for Long-Horizon LLM Reinforcement Learning](../../ai/research/arxiv-2512-23075.md) ([Source](https://arxiv.org/abs/2512.23075)) - `ai/research`
-185. [Pixelwise Uncertainty Quantification of Accelerated MRI Reconstruction](../../ai/research/arxiv-2601-13236.md) ([Source](https://arxiv.org/abs/2601.13236)) - `ai/research`
-186. [Psychometric Comparability of LLM-Based Digital Twins](../../ai/research/arxiv-2601-14264.md) ([Source](https://arxiv.org/abs/2601.14264)) - `ai/research`
-187. [DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](../../ai/research/arxiv-2601-14302.md) ([Source](https://arxiv.org/abs/2601.14302)) - `ai/research`
-188. [Reasoning-Enhanced Rare-Event Prediction with Balanced Outcome Correction](../../ai/research/arxiv-2601-16406.md) ([Source](https://arxiv.org/abs/2601.16406)) - `ai/research`
-189. [Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](../../ai/rag/arxiv-2601-16632.md) ([Source](https://arxiv.org/abs/2601.16632)) - `ai/rag`
-190. [Robustness of Constraint Automata for Description Logics with Concrete Domains](../../ai/research/arxiv-2601-19644.md) ([Source](https://arxiv.org/abs/2601.19644)) - `ai/research`
-191. [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](../../ai/research/arxiv-2601-22709.md) ([Source](https://arxiv.org/abs/2601.22709)) - `ai/research`
-192. [Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](../../ai/rag/arxiv-2602-01588.md) ([Source](https://arxiv.org/abs/2602.01588)) - `ai/rag`
-193. [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../ai/research/arxiv-2602-10179.md) ([Source](https://arxiv.org/abs/2602.10179)) - `ai/research`
-194. [Event-Grounded Question Answering over Long Audio via Structured Retrieval](../../ai/rag/arxiv-2602-14612.md) ([Source](https://arxiv.org/abs/2602.14612)) - `ai/rag`
-195. [Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training](../../ai/research/arxiv-2602-16065.md) ([Source](https://arxiv.org/abs/2602.16065)) - `ai/research`
-196. [An Interpretable, Controllable Time-Varying IIR Denoiser for On-Device Assistive Hearing](../../ai/research/arxiv-2603-02794.md) ([Source](https://arxiv.org/abs/2603.02794)) - `ai/research`
-197. [MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction](../../ai/rag/arxiv-2603-03710.md) ([Source](https://arxiv.org/abs/2603.03710)) - `ai/rag`
-198. [Measuring the Redundancy of Decoder Layers in SpeechLLMs](../../ai/research/arxiv-2603-05121.md) ([Source](https://arxiv.org/abs/2603.05121)) - `ai/research`
-199. [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](../../ai/agents/arxiv-2603-09731.md) ([Source](https://arxiv.org/abs/2603.09731)) - `ai/agents`
-200. [HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering](../../ai/research/arxiv-2603-18558.md) ([Source](https://arxiv.org/abs/2603.18558)) - `ai/research`
-201. [IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models](../../ai/research/arxiv-2604-00757.md) ([Source](https://arxiv.org/abs/2604.00757)) - `ai/research`
-202. [Can LLMs Reason About Attention? Towards Zero-Shot Analysis of Multimodal Classroom Behavior](../../ai/research/arxiv-2604-03401.md) ([Source](https://arxiv.org/abs/2604.03401)) - `ai/research`
-203. [From Dispersion to Attraction: Spectral Dynamics of Hallucination Across Whisper Model Scales](../../ai/research/arxiv-2604-08591.md) ([Source](https://arxiv.org/abs/2604.08591)) - `ai/research`
-204. [LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks](../../ai/agents/arxiv-2604-13072.md) ([Source](https://arxiv.org/abs/2604.13072)) - `ai/agents`
-205. [GenMatter: Perceiving Physical Objects with Generative Matter Models](../../ai/research/arxiv-2604-22160.md) ([Source](https://arxiv.org/abs/2604.22160)) - `ai/research`
-206. [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](../../ai/agents/arxiv-2604-24155.md) ([Source](https://arxiv.org/abs/2604.24155)) - `ai/agents`
-207. [Uncertainty-Aware Reward Discounting for Mitigating Reward Hacking](../../ai/research/arxiv-2604-26360.md) ([Source](https://arxiv.org/abs/2604.26360)) - `ai/research`
-208. [Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout](../../ai/research/arxiv-2605-05092.md) ([Source](https://arxiv.org/abs/2605.05092)) - `ai/research`
-209. [ELF: Embedded Language Flows](../../ai/research/arxiv-2605-10938.md) ([Source](https://arxiv.org/abs/2605.10938)) - `ai/research`
-210. [EAGT: Echocardiography Augmentation for Generalisability and Transferability](../../ai/research/arxiv-2605-16427.md) ([Source](https://arxiv.org/abs/2605.16427)) - `ai/research`
-211. [FormalASR: End-to-End Spoken Chinese to Formal Text](../../ai/research/arxiv-2605-19266.md) ([Source](https://arxiv.org/abs/2605.19266)) - `ai/research`
-212. [Do Vision Models Truly Forget? New Findings from Representation-Level Certification of Visual Unlearning in Vertical Federated Learning](../../ai/rag/arxiv-2605-20282.md) ([Source](https://arxiv.org/abs/2605.20282)) - `ai/rag`
-213. [Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../ai/research/arxiv-2605-23264.md) ([Source](https://arxiv.org/abs/2605.23264)) - `ai/research`
-214. [The Strongest Teacher Is Not Always the Best Teacher: Student-Centric Answer Selection](../../ai/research/arxiv-2605-26872.md) ([Source](https://arxiv.org/abs/2605.26872)) - `ai/research`
-215. [Energy-Structured Low-Rank Adaptation for Continual Learning](../../ai/research/arxiv-2605-27482.md) ([Source](https://arxiv.org/abs/2605.27482)) - `ai/research`
-216. [When are LLMs Sufficient Policy Optimizers for Sequential RL Tasks?](../../ai/rag/arxiv-2605-30719.md) ([Source](https://arxiv.org/abs/2605.30719)) - `ai/rag`
-217. [$\tau$-Rec: A Verifiable Benchmark for Agentic Recommender Systems](../../ai/agents/arxiv-2606-10156.md) ([Source](https://arxiv.org/abs/2606.10156)) - `ai/agents`
-218. [Adaptive Turn-Taking for Real-time Multi-Party Voice Agents](../../ai/agents/arxiv-2606-13544.md) ([Source](https://arxiv.org/abs/2606.13544)) - `ai/agents`
-219. [Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](../../ai/rag/arxiv-2606-16494.md) ([Source](https://arxiv.org/abs/2606.16494)) - `ai/rag`
-220. [Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution](../../ai/agents/arxiv-2606-20014.md) ([Source](https://arxiv.org/abs/2606.20014)) - `ai/agents`
-221. [Contagion Networks: Evaluator Preference Propagation in Multi-Agent LLM Systems](../../ai/agents/arxiv-2606-20493.md) ([Source](https://arxiv.org/abs/2606.20493)) - `ai/agents`
-222. [An Empirical Study of OpenPangu Quantization on Ascend NPUs](../../ai/research/arxiv-2606-21257.md) ([Source](https://arxiv.org/abs/2606.21257)) - `ai/research`
-223. [When Is an LLM Worth It for Hyperparameter Optimization? A Budget-Matched Study on Tabular Data Finds the Warm-Start Is a Default Configuration, Not the Model](../../ai/research/arxiv-2606-21641.md) ([Source](https://arxiv.org/abs/2606.21641)) - `ai/research`
-224. [On the Position Bias of On-Policy Distillation](../../ai/rag/arxiv-2606-22600.md) ([Source](https://arxiv.org/abs/2606.22600)) - `ai/rag`
-225. [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](../../ai/research/arxiv-2606-23698.md) ([Source](https://arxiv.org/abs/2606.23698)) - `ai/research`
-226. [ZONOS2 Technical Report](../../ai/research/arxiv-2606-24320.md) ([Source](https://arxiv.org/abs/2606.24320)) - `ai/research`
-227. [CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](../../ai/research/arxiv-2606-24506.md) ([Source](https://arxiv.org/abs/2606.24506)) - `ai/research`
-228. [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](../../ai/research/arxiv-2606-25034.md) ([Source](https://arxiv.org/abs/2606.25034)) - `ai/research`
-229. [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](../../ai/research/arxiv-2606-25956.md) ([Source](https://arxiv.org/abs/2606.25956)) - `ai/research`
-230. [Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment](../../ai/agents/arxiv-2606-26071.md) ([Source](https://arxiv.org/abs/2606.26071)) - `ai/agents`
-231. [Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](../../ai/research/arxiv-2606-26102.md) ([Source](https://arxiv.org/abs/2606.26102)) - `ai/research`
-232. [Assert, don't describe: Linguistic features that shift LLM reasoning about animal welfare](../../ai/research/arxiv-2606-26104.md) ([Source](https://arxiv.org/abs/2606.26104)) - `ai/research`
-233. [DiARC: Distinguishing Positive and Negative Samples Helps Improving ARC-like Reasoning Ability of Large Language Models](../../ai/research/arxiv-2606-26530.md) ([Source](https://arxiv.org/abs/2606.26530)) - `ai/research`
-234. [RANSAC Scoring Done Right](../../ai/research/arxiv-2606-27385.md) ([Source](https://arxiv.org/abs/2606.27385)) - `ai/research`
-235. [Unified Zero-Shot Time Series Forecasting: A Darts Foundation](../../ai/rag/arxiv-2606-27438.md) ([Source](https://arxiv.org/abs/2606.27438)) - `ai/rag`
-236. [PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](../../ai/rag/arxiv-2606-27440.md) ([Source](https://arxiv.org/abs/2606.27440)) - `ai/rag`
-237. [Learning in Markovian bandits with non-observable states and constrained decision epochs](../../ai/research/arxiv-2606-27448.md) ([Source](https://arxiv.org/abs/2606.27448)) - `ai/research`
-238. [Prism Transformer: Progressive Head Schedules for Hierarchical Attention Processing](../../ai/rag/arxiv-2606-27449.md) ([Source](https://arxiv.org/abs/2606.27449)) - `ai/rag`
-239. [Operator Learning for Cubic Nonlinear Schr\"odinger Equation on Periodic Domains](../../ai/research/arxiv-2606-27459.md) ([Source](https://arxiv.org/abs/2606.27459)) - `ai/research`
-240. [The Curse of Multiple Mediators: Hidden Interaction Effects in Activation Patching](../../ai/research/arxiv-2606-27510.md) ([Source](https://arxiv.org/abs/2606.27510)) - `ai/research`
-241. [Boundary condition fidelity for bottom-hole pressure and CO2 plume prediction in geological carbon storage](../../ai/rag/arxiv-2606-27515.md) ([Source](https://arxiv.org/abs/2606.27515)) - `ai/rag`
-242. [Productionized Fairness Measurement Under Privacy Constraints](../../ai/research/arxiv-2606-27558.md) ([Source](https://arxiv.org/abs/2606.27558)) - `ai/research`
-243. [Quantum Generative Diffusion Model for Real-World Time Series](../../ai/research/arxiv-2606-27561.md) ([Source](https://arxiv.org/abs/2606.27561)) - `ai/research`
-244. [Training Observable Control Policies to Expose Agent State Through Actions](../../ai/rag/arxiv-2606-27609.md) ([Source](https://arxiv.org/abs/2606.27609)) - `ai/rag`
-245. [COOPA: A Modular LLM Agent Architecture for Operations Research Problems](../../ai/rag/arxiv-2606-27611.md) ([Source](https://arxiv.org/abs/2606.27611)) - `ai/rag`
-246. [FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks](../../ai/research/arxiv-2606-27622.md) ([Source](https://arxiv.org/abs/2606.27622)) - `ai/research`
-247. [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](../../ai/research/arxiv-2606-27634.md) ([Source](https://arxiv.org/abs/2606.27634)) - `ai/research`
-248. [TeRoR: Decoupled Temporal Rotation with Relational Circular Region for Temporal Knowledge Graph Embedding](../../ai/rag/arxiv-2606-27651.md) ([Source](https://arxiv.org/abs/2606.27651)) - `ai/rag`
-249. [Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings](../../ai/rag/arxiv-2606-27672.md) ([Source](https://arxiv.org/abs/2606.27672)) - `ai/rag`
-250. [Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation](../../ai/research/arxiv-2606-27681.md) ([Source](https://arxiv.org/abs/2606.27681)) - `ai/research`
-251. [Aurora: A Leverage-Aware Spectral Optimizer](../../ai/rag/arxiv-2606-27715.md) ([Source](https://arxiv.org/abs/2606.27715)) - `ai/rag`
-252. [Learning to Reason with Curriculum II: Compositional Generalization](../../ai/rag/arxiv-2606-27721.md) ([Source](https://arxiv.org/abs/2606.27721)) - `ai/rag`
-253. [Reduction of Probabilistic Chemical Reaction Networks](../../ai/research/arxiv-2606-27737.md) ([Source](https://arxiv.org/abs/2606.27737)) - `ai/research`
-254. [The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](../../ai/research/arxiv-2606-27739.md) ([Source](https://arxiv.org/abs/2606.27739)) - `ai/research`
-255. [PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction](../../ai/research/arxiv-2606-27752.md) ([Source](https://arxiv.org/abs/2606.27752)) - `ai/research`
-256. [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](../../ai/research/arxiv-2606-27759.md) ([Source](https://arxiv.org/abs/2606.27759)) - `ai/research`
-257. [Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization](../../ai/research/arxiv-2606-27767.md) ([Source](https://arxiv.org/abs/2606.27767)) - `ai/research`
-258. [NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning](../../ai/research/arxiv-2606-27771.md) ([Source](https://arxiv.org/abs/2606.27771)) - `ai/research`
-259. [Accelerating Hierarchical Sparse Predictive Coding with Hybrid Amortized Inference](../../ai/research/arxiv-2606-27802.md) ([Source](https://arxiv.org/abs/2606.27802)) - `ai/research`
-260. [USAD: Uncertainty-aware Statistical Adversarial Detection](../../ai/research/arxiv-2606-27832.md) ([Source](https://arxiv.org/abs/2606.27832)) - `ai/research`
-261. [FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models](../../ai/research/arxiv-2606-27866.md) ([Source](https://arxiv.org/abs/2606.27866)) - `ai/research`
-262. [A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset](../../ai/research/arxiv-2606-27886.md) ([Source](https://arxiv.org/abs/2606.27886)) - `ai/research`
-263. [TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](../../ai/research/arxiv-2606-27908.md) ([Source](https://arxiv.org/abs/2606.27908)) - `ai/research`
-264. [Graph Dimensionality Reduction for Contextual Bandits: Structure-Specific Regret Bounds under Approximate Smoothness and Noisy Eigenspaces](../../ai/research/arxiv-2606-27917.md) ([Source](https://arxiv.org/abs/2606.27917)) - `ai/research`
-265. [RECAST: Model Reconstruction via Counterfactual-Aware Wasserstein Geometry under Limited Data](../../ai/research/arxiv-2606-27948.md) ([Source](https://arxiv.org/abs/2606.27948)) - `ai/research`
-266. [Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data](../../ai/research/arxiv-2606-27984.md) ([Source](https://arxiv.org/abs/2606.27984)) - `ai/research`
-267. [Benchmarking on Tasks That Matter: Dataset Selection for Preserving Model Rankings](../../ai/research/arxiv-2606-27997.md) ([Source](https://arxiv.org/abs/2606.27997)) - `ai/research`
-268. [Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../ai/research/arxiv-2606-28097.md) ([Source](https://arxiv.org/abs/2606.28097)) - `ai/research`
-269. [When One Adapter Speaks for Many: Discovering Low-Rank Redundancy in Continual Fine-Tuning](../../ai/research/arxiv-2606-28117.md) ([Source](https://arxiv.org/abs/2606.28117)) - `ai/research`
-270. [Dangerous Liaisons of Convex Learning and Non-Affine Aggregation](../../ai/rag/arxiv-2606-28123.md) ([Source](https://arxiv.org/abs/2606.28123)) - `ai/rag`
-271. [MixTTA: Low-Rank Cross-Channel Mixing for Reliable Test-Time Adaptation](../../ai/research/arxiv-2606-28142.md) ([Source](https://arxiv.org/abs/2606.28142)) - `ai/research`
-272. [Autoencoder Architectures for Athlete Performance Scoring from Wearable Telemetry](../../ai/rag/arxiv-2606-28145.md) ([Source](https://arxiv.org/abs/2606.28145)) - `ai/rag`
-273. [Regularized Reward-Punishment Reinforcement Learning](../../ai/research/arxiv-2606-28152.md) ([Source](https://arxiv.org/abs/2606.28152)) - `ai/research`
-274. [Recovering Sharp Conductivity Features in the Finite-Data Calder\'on Problem with Physics-Informed Neural Networks](../../ai/research/arxiv-2606-28158.md) ([Source](https://arxiv.org/abs/2606.28158)) - `ai/research`
-275. [COCOLogic-V2: Identifying Logical Inconsistencies via Truly Hard-Negatives](../../ai/research/arxiv-2606-28194.md) ([Source](https://arxiv.org/abs/2606.28194)) - `ai/research`
-276. [Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte](../../ai/research/arxiv-2606-28220.md) ([Source](https://arxiv.org/abs/2606.28220)) - `ai/research`
-277. [Estimation--Prediction Tradeoff in Causal Probabilistic Temporal Graphs](../../ai/research/arxiv-2606-28225.md) ([Source](https://arxiv.org/abs/2606.28225)) - `ai/research`
-278. [Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](../../ai/research/arxiv-2606-28228.md) ([Source](https://arxiv.org/abs/2606.28228)) - `ai/research`
-279. [Democratic ICAI: Debating Our Way to Steering Principles from Preferences](../../ai/rag/arxiv-2606-28294.md) ([Source](https://arxiv.org/abs/2606.28294)) - `ai/rag`
-280. [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](../../ai/research/arxiv-2606-28301.md) ([Source](https://arxiv.org/abs/2606.28301)) - `ai/research`
-281. [Elastic Time: Dynamic Frame Rate Bottlenecks for Neural Audio Coding](../../ai/research/arxiv-2606-27320.md) ([Source](https://arxiv.org/abs/2606.27320)) - `ai/research`
-282. [Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs](../../ai/research/arxiv-2606-27378.md) ([Source](https://arxiv.org/abs/2606.27378)) - `ai/research`
-283. [Forecasting Technological Directions in Wireless Networks and Mobile Computing via AutoML Framework](../../ai/research/arxiv-2606-27394.md) ([Source](https://arxiv.org/abs/2606.27394)) - `ai/research`
-284. [Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs](../../ai/research/arxiv-2606-27396.md) ([Source](https://arxiv.org/abs/2606.27396)) - `ai/research`
-285. [Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval](../../ai/research/arxiv-2606-27401.md) ([Source](https://arxiv.org/abs/2606.27401)) - `ai/research`
-286. [Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement](../../ai/agents/arxiv-2606-27409.md) ([Source](https://arxiv.org/abs/2606.27409)) - `ai/agents`
-287. [DFM: Difference Feature Modeling with Text-Guided Gated Contrastive Loss for Remote Sensing Image Change Captioning](../../ai/research/arxiv-2606-27410.md) ([Source](https://arxiv.org/abs/2606.27410)) - `ai/research`
-288. [Directed Graph Topology Inference via Graph Filter Identification](../../ai/research/arxiv-2606-27455.md) ([Source](https://arxiv.org/abs/2606.27455)) - `ai/research`
-289. [The Decision Geometry of Covariance Estimation for the Global Minimum-Variance Portfolio under Heavy Tails](../../ai/research/arxiv-2606-27462.md) ([Source](https://arxiv.org/abs/2606.27462)) - `ai/research`
-290. [Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience](../../ai/rag/arxiv-2606-27475.md) ([Source](https://arxiv.org/abs/2606.27475)) - `ai/rag`
-291. [Sampling the Schwinger Model with Gauge-Equivariant Diffusion](../../ai/research/arxiv-2606-27481.md) ([Source](https://arxiv.org/abs/2606.27481)) - `ai/research`
-292. [Learning from Annotation Uncertainty: Entropy-Aware Curriculum for Speech Emotion Recognition](../../ai/research/arxiv-2606-27536.md) ([Source](https://arxiv.org/abs/2606.27536)) - `ai/research`
-293. [Advancing Speaker-Based Vocal Effort Classification with WavLM and Data Augmentation in Naturalistic Non-Calibrated Speech Recordings](../../ai/research/arxiv-2606-27543.md) ([Source](https://arxiv.org/abs/2606.27543)) - `ai/research`
-294. [EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction](../../ai/research/arxiv-2606-27550.md) ([Source](https://arxiv.org/abs/2606.27550)) - `ai/research`
-295. [Qwen-Image-2.0-RL Technical Report](../../ai/research/arxiv-2606-27608.md) ([Source](https://arxiv.org/abs/2606.27608)) - `ai/research`
-296. [Masked Language Flow Models](../../ai/rag/arxiv-2606-27617.md) ([Source](https://arxiv.org/abs/2606.27617)) - `ai/rag`
-297. [Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](../../ai/rag/arxiv-2606-27624.md) ([Source](https://arxiv.org/abs/2606.27624)) - `ai/rag`
-298. [Adversarial Contamination Meets Hard Thresholding: An Iterative Algorithm with Signal Adaptivity and Minimax Optimality](../../ai/research/arxiv-2606-27685.md) ([Source](https://arxiv.org/abs/2606.27685)) - `ai/research`
-299. [Joint Transcription and Decryption of Images of Encrypted Handwritten Documents: A Comparison with the Traditional Pipeline](../../ai/research/arxiv-2606-27700.md) ([Source](https://arxiv.org/abs/2606.27700)) - `ai/research`
-300. [CANNs: A Toolkit for Research on Continuous Attractor Neural Networks](../../ai/rag/arxiv-2606-27783.md) ([Source](https://arxiv.org/abs/2606.27783)) - `ai/rag`
-301. [Distributed Air-Gap Flux and Rotor-Current Fusion for Operating-Regime Identification in a 10-MW Kaplan Hydrogenerator](../../ai/research/arxiv-2606-27800.md) ([Source](https://arxiv.org/abs/2606.27800)) - `ai/research`
-302. [Quantum Dynamic Time Warping for Multivariate Time Series Classification](../../ai/research/arxiv-2606-27815.md) ([Source](https://arxiv.org/abs/2606.27815)) - `ai/research`
-303. [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../ai/research/arxiv-2606-27818.md) ([Source](https://arxiv.org/abs/2606.27818)) - `ai/research`
-304. [A Unified Framework for Vision Transformers Equivariant to Discrete Subgroups of $\mathrm{O}(2)$](../../ai/research/arxiv-2606-27864.md) ([Source](https://arxiv.org/abs/2606.27864)) - `ai/research`
-305. [Mosaic: A Benchmark Suite for Differentiable Physics Solvers](../../ai/research/arxiv-2606-27895.md) ([Source](https://arxiv.org/abs/2606.27895)) - `ai/research`
-306. [From Detection to Action: Using LLM Agents for Fault-Tolerant Control](../../ai/rag/arxiv-2606-28011.md) ([Source](https://arxiv.org/abs/2606.28011)) - `ai/rag`
-307. [Cross-view Multimodal Vision-Based Assessment Framework for Traditional Chinese Medicine Rehabilitation Training](../../ai/rag/arxiv-2606-28104.md) ([Source](https://arxiv.org/abs/2606.28104)) - `ai/rag`
-308. [Physics-constrained neural networks for surrogate modeling of lossless periodic structures](../../ai/research/arxiv-2606-28119.md) ([Source](https://arxiv.org/abs/2606.28119)) - `ai/research`
-309. [EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](../../ai/research/arxiv-2606-28164.md) ([Source](https://arxiv.org/abs/2606.28164)) - `ai/research`
-310. [Non-Linear Strategic Classification Made Practical](../../ai/research/arxiv-2606-28204.md) ([Source](https://arxiv.org/abs/2606.28204)) - `ai/research`
-311. [Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection](../../ai/research/arxiv-2606-28252.md) ([Source](https://arxiv.org/abs/2606.28252)) - `ai/research`
-312. [PAC-Bayesian Certificates for Quadratic Closed-Loop Control](../../ai/research/arxiv-2606-28281.md) ([Source](https://arxiv.org/abs/2606.28281)) - `ai/research`
-313. [Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](../../ai/research/arxiv-2606-28287.md) ([Source](https://arxiv.org/abs/2606.28287)) - `ai/research`
-314. [Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization](../../ai/research/arxiv-2606-28307.md) ([Source](https://arxiv.org/abs/2606.28307)) - `ai/research`
-315. [Surprises in Proper Positive-Only Learning](../../ai/research/arxiv-2606-28309.md) ([Source](https://arxiv.org/abs/2606.28309)) - `ai/research`
-316. [Deep Residual Networks Learn the Geodesic Curve in the Wasserstein Space](../../ai/research/arxiv-2102-09235.md) ([Source](https://arxiv.org/abs/2102.09235)) - `ai/research`
-317. [Monte Carlo with kernel-based Gibbs measures: Guarantees for probabilistic herding](../../ai/research/arxiv-2402-11736.md) ([Source](https://arxiv.org/abs/2402.11736)) - `ai/research`
-318. [Active Exploration via Autoregressive Generation of Missing Data](../../ai/rag/arxiv-2405-19466.md) ([Source](https://arxiv.org/abs/2405.19466)) - `ai/rag`
-319. [Permutation Learning with Only N Parameters: From SoftSort to Self-Organizing Gaussians](../../ai/rag/arxiv-2503-13051.md) ([Source](https://arxiv.org/abs/2503.13051)) - `ai/rag`
-320. [CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection](../../ai/research/arxiv-2504-01882.md) ([Source](https://arxiv.org/abs/2504.01882)) - `ai/research`
-321. [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](../../ai/rag/arxiv-2506-10355.md) ([Source](https://arxiv.org/abs/2506.10355)) - `ai/rag`
-322. [Effects of relational graph modularity and depth on the learning performance of neural networks](../../ai/research/arxiv-2507-10005.md) ([Source](https://arxiv.org/abs/2507.10005)) - `ai/research`
-323. [Quenched large deviations for Monte Carlo integration with Coulomb gases](../../ai/research/arxiv-2508-01392.md) ([Source](https://arxiv.org/abs/2508.01392)) - `ai/research`
-324. [Revisiting Performance Claims for Chest X-Ray Models Using Clinical Context](../../ai/rag/arxiv-2509-19671.md) ([Source](https://arxiv.org/abs/2509.19671)) - `ai/rag`
-325. [Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](../../ai/research/arxiv-2510-00809.md) ([Source](https://arxiv.org/abs/2510.00809)) - `ai/research`
-326. [Accelerating Attention with Basis Decomposition](../../ai/research/arxiv-2510-01718.md) ([Source](https://arxiv.org/abs/2510.01718)) - `ai/research`
-327. [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../../ai/research/arxiv-2510-18874.md) ([Source](https://arxiv.org/abs/2510.18874)) - `ai/research`
-328. [Learning Peer Influence Probabilities with Linear Contextual Bandits](../../ai/research/arxiv-2510-19119.md) ([Source](https://arxiv.org/abs/2510.19119)) - `ai/research`
-329. [Bridging Mechanistic Interpretability and Prompt Engineering with Gradient Ascent for Interpretable Persona Control](../../ai/research/arxiv-2601-02896.md) ([Source](https://arxiv.org/abs/2601.02896)) - `ai/research`
-330. [Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../ai/research/arxiv-2602-00334.md) ([Source](https://arxiv.org/abs/2602.00334)) - `ai/research`
-331. [Taming the Monster Every Context: Complexity Measure and Unified Framework for Offline-Oracle Efficient Contextual Bandits](../../ai/rag/arxiv-2602-09456.md) ([Source](https://arxiv.org/abs/2602.09456)) - `ai/rag`
-332. [Estimating condition number with Graph Neural Networks](../../ai/research/arxiv-2603-10277.md) ([Source](https://arxiv.org/abs/2603.10277)) - `ai/research`
-333. [Context-specific Credibility-aware Multimodal Fusion with Conditional Probabilistic Circuits](../../ai/research/arxiv-2603-26629.md) ([Source](https://arxiv.org/abs/2603.26629)) - `ai/research`
-334. [Simplified Sparse Attention via Gist Tokens](../../ai/rag/arxiv-2604-20920.md) ([Source](https://arxiv.org/abs/2604.20920)) - `ai/rag`
-335. [Categorical Optimization with Bayesian Anchored Latent Trust Regions for Structural Design under High-Dimensional Uncertainty](../../ai/research/arxiv-2604-25241.md) ([Source](https://arxiv.org/abs/2604.25241)) - `ai/research`
-336. [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../ai/research/arxiv-2605-03065.md) ([Source](https://arxiv.org/abs/2605.03065)) - `ai/research`
-337. [RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion Theory](../../ai/rag/arxiv-2605-06675.md) ([Source](https://arxiv.org/abs/2605.06675)) - `ai/rag`
-338. [The Power of Second Order Methods for Sequence Preconditioning](../../ai/research/arxiv-2605-08390.md) ([Source](https://arxiv.org/abs/2605.08390)) - `ai/research`
-339. [ConTact: Contact-First Antibody CDR Design via Explicit Interface Reasoning](../../ai/research/arxiv-2605-21600.md) ([Source](https://arxiv.org/abs/2605.21600)) - `ai/research`
-340. [Diffusion Model-Based Data Assimilation for Real-World Energy Consumption Forecasting](../../ai/research/arxiv-2605-29072.md) ([Source](https://arxiv.org/abs/2605.29072)) - `ai/research`
-341. [Realistic honeypot evaluations for scheming propensity](../../ai/rag/arxiv-2605-29729.md) ([Source](https://arxiv.org/abs/2605.29729)) - `ai/rag`
-342. [SurvPFN: Towards Foundation Models for Survival Predictions](../../ai/research/arxiv-2606-04564.md) ([Source](https://arxiv.org/abs/2606.04564)) - `ai/research`
-343. [Graph Neural Networks for Predicting Solvability of Finite Groups](../../ai/research/arxiv-2606-07619.md) ([Source](https://arxiv.org/abs/2606.07619)) - `ai/research`
-344. [Kuramoto Attention: Synchronizing Self-Attention on the Torus](../../ai/research/arxiv-2606-11585.md) ([Source](https://arxiv.org/abs/2606.11585)) - `ai/research`
-345. [Multimodal Evaluator Preference Collapse: Cross-Modal Coupling in Self-Evolving Agents](../../ai/agents/arxiv-2606-16682.md) ([Source](https://arxiv.org/abs/2606.16682)) - `ai/agents`
-346. [Learning to Refine Hidden States for Reliable LLM Reasoning](../../ai/research/arxiv-2606-17524.md) ([Source](https://arxiv.org/abs/2606.17524)) - `ai/research`
-347. [Smoothness-Based Derandomization of PAC-Bayes Bounds](../../ai/research/arxiv-2606-19105.md) ([Source](https://arxiv.org/abs/2606.19105)) - `ai/research`
-348. [CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](../../ai/rag/arxiv-2606-20820.md) ([Source](https://arxiv.org/abs/2606.20820)) - `ai/rag`
-349. [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../../ai/research/arxiv-2606-24851.md) ([Source](https://arxiv.org/abs/2606.24851)) - `ai/research`
-350. [Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery](../../ai/research/arxiv-2606-26204.md) ([Source](https://arxiv.org/abs/2606.26204)) - `ai/research`
-351. [Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs](../../ai/research/arxiv-2606-27285.md) ([Source](https://arxiv.org/abs/2606.27285)) - `ai/research`
-352. [Towards Reliable Recommender Systems for Rating Data](../../ai/research/arxiv-2412-20802.md) ([Source](https://arxiv.org/abs/2412.20802)) - `ai/research`
-353. [Supervised Quadratic Feature Analysis: Information Geometry Approach for Dimensionality Reduction](../../ai/research/arxiv-2502-00168.md) ([Source](https://arxiv.org/abs/2502.00168)) - `ai/research`
-354. [Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance](../../ai/research/arxiv-2504-11299.md) ([Source](https://arxiv.org/abs/2504.11299)) - `ai/research`
-355. [Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions](../../ai/rag/arxiv-2505-05517.md) ([Source](https://arxiv.org/abs/2505.05517)) - `ai/rag`
-356. [StableMotion: One-Step Motion Estimation with Diffusion Prior](../../ai/rag/arxiv-2505-06668.md) ([Source](https://arxiv.org/abs/2505.06668)) - `ai/rag`
-357. [Temporal Convolutional Autoencoder for Interference Mitigation in FMCW Radar Altimeters](../../ai/research/arxiv-2505-22783.md) ([Source](https://arxiv.org/abs/2505.22783)) - `ai/research`
-358. [Random Matrix Theory for Deep Learning: Beyond Eigenvalues of Linear Models](../../ai/rag/arxiv-2506-13139.md) ([Source](https://arxiv.org/abs/2506.13139)) - `ai/rag`
-359. [On the Effect of Uncertainty on Layer-wise Inference Dynamics](../../ai/rag/arxiv-2507-06722.md) ([Source](https://arxiv.org/abs/2507.06722)) - `ai/rag`
-360. [Non-Linear Model-Based Sequential Decision-Making in Agriculture](../../ai/research/arxiv-2509-01924.md) ([Source](https://arxiv.org/abs/2509.01924)) - `ai/research`
-361. [Self-Concordant Perturbations for Linear Bandits](../../ai/research/arxiv-2510-24187.md) ([Source](https://arxiv.org/abs/2510.24187)) - `ai/research`
-362. [Hyperellipsoid Density Sampling: Exploitative Sequences to Accelerate High-Dimensional Optimization](../../ai/rag/arxiv-2511-07836.md) ([Source](https://arxiv.org/abs/2511.07836)) - `ai/rag`
-363. [Complex-Valued 2D Gaussian Representation for Computer-Generated Holography](../../ai/research/arxiv-2511-15022.md) ([Source](https://arxiv.org/abs/2511.15022)) - `ai/research`
-364. [Adaptive Probability Flow Residual Minimization for High-Dimensional Fokker-Planck Equations](../../ai/research/arxiv-2512-19196.md) ([Source](https://arxiv.org/abs/2512.19196)) - `ai/research`
-365. [Safe Language Generation in the Limit](../../ai/research/arxiv-2601-08648.md) ([Source](https://arxiv.org/abs/2601.08648)) - `ai/research`
-366. [A Gaussian Perspective for Distributional Discrepancy in Generative Diffusion Models](../../ai/research/arxiv-2601-13602.md) ([Source](https://arxiv.org/abs/2601.13602)) - `ai/research`
-367. [Learning to Evict from Key-Value Cache](../../ai/agents/arxiv-2602-10238.md) ([Source](https://arxiv.org/abs/2602.10238)) - `ai/agents`
-368. [Trustworthy Predictive Distributions for Tail Events with Semiparametric Diagnostic Transport Maps](../../ai/research/arxiv-2603-11229.md) ([Source](https://arxiv.org/abs/2603.11229)) - `ai/research`
-369. [Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](../../ai/rag/arxiv-2603-12001.md) ([Source](https://arxiv.org/abs/2603.12001)) - `ai/rag`
-370. [Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding](../../ai/research/arxiv-2604-02546.md) ([Source](https://arxiv.org/abs/2604.02546)) - `ai/research`
-371. [High-dimensional inference for the $\gamma$-ray sky with differentiable programming](../../ai/research/arxiv-2604-08648.md) ([Source](https://arxiv.org/abs/2604.08648)) - `ai/research`
-372. [Active-learning mapping of the Vicsek model phase diagram](../../ai/research/arxiv-2604-28167.md) ([Source](https://arxiv.org/abs/2604.28167)) - `ai/research`
-373. [Given, When, Then, Again: Mining Subscenario Refactoring Candidates in Behaviour-Driven Test Suites with ML Classifiers and LLM-Judge Baselines](../../ai/research/arxiv-2605-14568.md) ([Source](https://arxiv.org/abs/2605.14568)) - `ai/research`
-374. [RSD: Moving Local Triangular Charts for Auditing Language-Model Hidden States](../../ai/rag/arxiv-2605-17482.md) ([Source](https://arxiv.org/abs/2605.17482)) - `ai/rag`
-375. [Machine Learning for Coding Retail Product Names to Consumer-Price Categories: A Rule-plus-Bag-of-Words Pipeline with Reliability-Weighted Human-in-the-Loop Labeling](../../ai/research/arxiv-2606-02004.md) ([Source](https://arxiv.org/abs/2606.02004)) - `ai/research`
-376. [OptMuon: Closed-Loop Orthogonalized Momentum Methods for Stochastic Optimization with Zero-Noise Optimality](../../ai/rag/arxiv-2606-08783.md) ([Source](https://arxiv.org/abs/2606.08783)) - `ai/rag`
-377. [Annealed Entropic Allocation for Ranking and Selection](../../ai/research/arxiv-2606-11347.md) ([Source](https://arxiv.org/abs/2606.11347)) - `ai/research`
-378. [Conformal Bayes under Label Shift: Post-Hoc Calibration vs. In-Training Adaptation](../../ai/rag/arxiv-2606-11865.md) ([Source](https://arxiv.org/abs/2606.11865)) - `ai/rag`
-379. [MaRS: Robust Out-of-Distribution Detection via Mahalanobis Residual Scoring](../../ai/rag/arxiv-2606-22649.md) ([Source](https://arxiv.org/abs/2606.22649)) - `ai/rag`
-380. [Does My Embedding Reflect That $A = B$? Evaluating Mathematical Equivalence in Embedding Models](../../ai/rag/arxiv-2606-23959.md) ([Source](https://arxiv.org/abs/2606.23959)) - `ai/rag`
+1. [OverFlowLight: Real-Time Gridlock Prevention and Traffic Signal Optimization for Urban Intersections](../../ai/rag/arxiv-2606-27381.md) ([Source](https://arxiv.org/abs/2606.27381)) - `ai/rag`
+2. [RANSAC Scoring Done Right](../../ai/research/arxiv-2606-27385.md) ([Source](https://arxiv.org/abs/2606.27385)) - `ai/research`
+3. [Unified Zero-Shot Time Series Forecasting: A Darts Foundation](../../ai/rag/arxiv-2606-27438.md) ([Source](https://arxiv.org/abs/2606.27438)) - `ai/rag`
+4. [PairSAE: Mechanistic Interpretability from Pair Representations in Protein Co-Folding](../../ai/rag/arxiv-2606-27440.md) ([Source](https://arxiv.org/abs/2606.27440)) - `ai/rag`
+5. [Learning in Markovian bandits with non-observable states and constrained decision epochs](../../ai/research/arxiv-2606-27448.md) ([Source](https://arxiv.org/abs/2606.27448)) - `ai/research`
+6. [Prism Transformer: Progressive Head Schedules for Hierarchical Attention Processing](../../ai/rag/arxiv-2606-27449.md) ([Source](https://arxiv.org/abs/2606.27449)) - `ai/rag`
+7. [Operator Learning for Cubic Nonlinear Schr\"odinger Equation on Periodic Domains](../../ai/research/arxiv-2606-27459.md) ([Source](https://arxiv.org/abs/2606.27459)) - `ai/research`
+8. [The Curse of Multiple Mediators: Hidden Interaction Effects in Activation Patching](../../ai/research/arxiv-2606-27510.md) ([Source](https://arxiv.org/abs/2606.27510)) - `ai/research`
+9. [Boundary condition fidelity for bottom-hole pressure and CO2 plume prediction in geological carbon storage](../../ai/rag/arxiv-2606-27515.md) ([Source](https://arxiv.org/abs/2606.27515)) - `ai/rag`
+10. [Productionized Fairness Measurement Under Privacy Constraints](../../ai/research/arxiv-2606-27558.md) ([Source](https://arxiv.org/abs/2606.27558)) - `ai/research`
+11. [Quantum Generative Diffusion Model for Real-World Time Series](../../ai/research/arxiv-2606-27561.md) ([Source](https://arxiv.org/abs/2606.27561)) - `ai/research`
+12. [hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](../../ai/rag/arxiv-2606-27577.md) ([Source](https://arxiv.org/abs/2606.27577)) - `ai/rag`
+13. [PEBS: Per-rater Empirical-Bayes Shrinkage for RLHF Reward-Model Calibration](../../ai/rag/arxiv-2606-27578.md) ([Source](https://arxiv.org/abs/2606.27578)) - `ai/rag`
+14. [Retroactive Advantage Correction: Closed-Form V-Trace Bias Correction for Delay-Aware RLHF](../../ai/research/arxiv-2606-27580.md) ([Source](https://arxiv.org/abs/2606.27580)) - `ai/research`
+15. [Global Explanations for Multivariate Time Series Forecasting Models via $K$-Order Markov Approximations](../../ai/research/arxiv-2606-27599.md) ([Source](https://arxiv.org/abs/2606.27599)) - `ai/research`
+16. [Training Observable Control Policies to Expose Agent State Through Actions](../../ai/rag/arxiv-2606-27609.md) ([Source](https://arxiv.org/abs/2606.27609)) - `ai/rag`
+17. [COOPA: A Modular LLM Agent Architecture for Operations Research Problems](../../ai/rag/arxiv-2606-27611.md) ([Source](https://arxiv.org/abs/2606.27611)) - `ai/rag`
+18. [FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks](../../ai/research/arxiv-2606-27622.md) ([Source](https://arxiv.org/abs/2606.27622)) - `ai/research`
+19. [HybridCodec: Modeling Discrete and Continuous Representations for Efficient Speech Language Models](../../ai/research/arxiv-2606-27627.md) ([Source](https://arxiv.org/abs/2606.27627)) - `ai/research`
+20. [Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis](../../ai/research/arxiv-2606-27634.md) ([Source](https://arxiv.org/abs/2606.27634)) - `ai/research`
+21. [TeRoR: Decoupled Temporal Rotation with Relational Circular Region for Temporal Knowledge Graph Embedding](../../ai/rag/arxiv-2606-27651.md) ([Source](https://arxiv.org/abs/2606.27651)) - `ai/rag`
+22. [Are Time-Series Foundation Models Ready for E-Nose Data? An Empirical Assessment of Their Embeddings](../../ai/rag/arxiv-2606-27672.md) ([Source](https://arxiv.org/abs/2606.27672)) - `ai/rag`
+23. [Textual Belief States for World Models: Identifiable Representation Learning Under Strict Mediation](../../ai/research/arxiv-2606-27681.md) ([Source](https://arxiv.org/abs/2606.27681)) - `ai/research`
+24. [CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence](../../ai/research/arxiv-2606-27683.md) ([Source](https://arxiv.org/abs/2606.27683)) - `ai/research`
+25. [Deployment-Side Adaptiveness in Multi-Horizon Volatility Forecasting](../../ai/research/arxiv-2606-27688.md) ([Source](https://arxiv.org/abs/2606.27688)) - `ai/research`
+26. [Halt Fast! Early Stopping for Certified Robustness](../../ai/research/arxiv-2606-27694.md) ([Source](https://arxiv.org/abs/2606.27694)) - `ai/research`
+27. [Class-frequency Guided Noise Schedule for Diffusion Models](../../ai/rag/arxiv-2606-27696.md) ([Source](https://arxiv.org/abs/2606.27696)) - `ai/rag`
+28. [What Was That Again? Certified Robustness for Automatic Speech Recognition](../../ai/research/arxiv-2606-27698.md) ([Source](https://arxiv.org/abs/2606.27698)) - `ai/research`
+29. [The Simulacrum: Decision-Theoretic Pretraining for Near-Optimal Time-Series Forecasting and Inference](../../ai/research/arxiv-2606-27711.md) ([Source](https://arxiv.org/abs/2606.27711)) - `ai/research`
+30. [Aurora: A Leverage-Aware Spectral Optimizer](../../ai/rag/arxiv-2606-27715.md) ([Source](https://arxiv.org/abs/2606.27715)) - `ai/rag`
+31. [Learning to Reason with Curriculum II: Compositional Generalization](../../ai/rag/arxiv-2606-27721.md) ([Source](https://arxiv.org/abs/2606.27721)) - `ai/rag`
+32. [Reduction of Probabilistic Chemical Reaction Networks](../../ai/research/arxiv-2606-27737.md) ([Source](https://arxiv.org/abs/2606.27737)) - `ai/research`
+33. [The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](../../ai/research/arxiv-2606-27739.md) ([Source](https://arxiv.org/abs/2606.27739)) - `ai/research`
+34. [Flexformer: Flexible Linear Transformer with Learnable Attention Kernel](../../ai/research/arxiv-2606-27748.md) ([Source](https://arxiv.org/abs/2606.27748)) - `ai/research`
+35. [PerturbCellRL: Verifier-Guided Reinforcement Learning for Single-Cell Perturbation Prediction](../../ai/research/arxiv-2606-27752.md) ([Source](https://arxiv.org/abs/2606.27752)) - `ai/research`
+36. [Layerwise Progressive Freezing: A Training Scaffold for Depth-Scalable Binary Networks](../../ai/research/arxiv-2606-27759.md) ([Source](https://arxiv.org/abs/2606.27759)) - `ai/research`
+37. [RS-Diffuser: Risk-Sensitive Diffusion Planning with Distributional Value Guidance](../../ai/research/arxiv-2606-27766.md) ([Source](https://arxiv.org/abs/2606.27766)) - `ai/research`
+38. [Difference of Convex Programming in the Wasserstein Space with Applications to MMD Optimization](../../ai/research/arxiv-2606-27767.md) ([Source](https://arxiv.org/abs/2606.27767)) - `ai/research`
+39. [NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning](../../ai/research/arxiv-2606-27771.md) ([Source](https://arxiv.org/abs/2606.27771)) - `ai/research`
+40. [Accelerating Hierarchical Sparse Predictive Coding with Hybrid Amortized Inference](../../ai/research/arxiv-2606-27802.md) ([Source](https://arxiv.org/abs/2606.27802)) - `ai/research`
+41. [Pepti-drift: Toxicity-Repulsive Drifting for Antigen-Conditioned Discrete Peptide Generation](../../ai/research/arxiv-2606-27824.md) ([Source](https://arxiv.org/abs/2606.27824)) - `ai/research`
+42. [USAD: Uncertainty-aware Statistical Adversarial Detection](../../ai/research/arxiv-2606-27832.md) ([Source](https://arxiv.org/abs/2606.27832)) - `ai/research`
+43. [WattLayer: Get Layers Right to Estimate Inference Energy of Neural Networks](../../ai/rag/arxiv-2606-27841.md) ([Source](https://arxiv.org/abs/2606.27841)) - `ai/rag`
+44. [Applicability of memorization indicators for early spotting of overfitting while recalibrating sEMG-decoders on low sample sizes](../../ai/research/arxiv-2606-27855.md) ([Source](https://arxiv.org/abs/2606.27855)) - `ai/research`
+45. [GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](../../ai/research/arxiv-2606-27863.md) ([Source](https://arxiv.org/abs/2606.27863)) - `ai/research`
+46. [FlexMoE: One-for-All Nested Intra-Expert Pruning for MoE Language Models](../../ai/research/arxiv-2606-27866.md) ([Source](https://arxiv.org/abs/2606.27866)) - `ai/research`
+47. [A Comparison of Fusion Techniques for Multi-Modal Human Activity Recognition on the HARMES Dataset](../../ai/research/arxiv-2606-27886.md) ([Source](https://arxiv.org/abs/2606.27886)) - `ai/research`
+48. [TA-SparseMG: Trend-Aware Sparse Forecasting via Multi-Scale Gating for Long-Term Time Series](../../ai/research/arxiv-2606-27908.md) ([Source](https://arxiv.org/abs/2606.27908)) - `ai/research`
+49. [Graph Dimensionality Reduction for Contextual Bandits: Structure-Specific Regret Bounds under Approximate Smoothness and Noisy Eigenspaces](../../ai/research/arxiv-2606-27917.md) ([Source](https://arxiv.org/abs/2606.27917)) - `ai/research`
+50. [Two-Stage Fine-Tuning for Protein Sequence Generation with Targeted Amino-Acid Composition](../../ai/rag/arxiv-2606-27939.md) ([Source](https://arxiv.org/abs/2606.27939)) - `ai/rag`
+51. [RECAST: Model Reconstruction via Counterfactual-Aware Wasserstein Geometry under Limited Data](../../ai/research/arxiv-2606-27948.md) ([Source](https://arxiv.org/abs/2606.27948)) - `ai/research`
+52. [Dual-Learning based Penalized Multi-Align Clustering for Multi-View Incomplete and Disorderly Data](../../ai/research/arxiv-2606-27984.md) ([Source](https://arxiv.org/abs/2606.27984)) - `ai/research`
+53. [Benchmarking on Tasks That Matter: Dataset Selection for Preserving Model Rankings](../../ai/research/arxiv-2606-27997.md) ([Source](https://arxiv.org/abs/2606.27997)) - `ai/research`
+54. [OperatorSHAP: Fast and Accurate Shapley Value Estimation for Neural Operators](../../ai/research/arxiv-2606-28065.md) ([Source](https://arxiv.org/abs/2606.28065)) - `ai/research`
+55. [Fair Classification with Efficient and Post-hoc Controllable Fairness-Accuracy Trade-off](../../ai/research/arxiv-2606-28097.md) ([Source](https://arxiv.org/abs/2606.28097)) - `ai/research`
+56. [When One Adapter Speaks for Many: Discovering Low-Rank Redundancy in Continual Fine-Tuning](../../ai/research/arxiv-2606-28117.md) ([Source](https://arxiv.org/abs/2606.28117)) - `ai/research`
+57. [Dangerous Liaisons of Convex Learning and Non-Affine Aggregation](../../ai/rag/arxiv-2606-28123.md) ([Source](https://arxiv.org/abs/2606.28123)) - `ai/rag`
+58. [Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection](../../ai/research/arxiv-2606-28134.md) ([Source](https://arxiv.org/abs/2606.28134)) - `ai/research`
+59. [MixTTA: Low-Rank Cross-Channel Mixing for Reliable Test-Time Adaptation](../../ai/research/arxiv-2606-28142.md) ([Source](https://arxiv.org/abs/2606.28142)) - `ai/research`
+60. [Autoencoder Architectures for Athlete Performance Scoring from Wearable Telemetry](../../ai/rag/arxiv-2606-28145.md) ([Source](https://arxiv.org/abs/2606.28145)) - `ai/rag`
+61. [Regularized Reward-Punishment Reinforcement Learning](../../ai/research/arxiv-2606-28152.md) ([Source](https://arxiv.org/abs/2606.28152)) - `ai/research`
+62. [Recovering Sharp Conductivity Features in the Finite-Data Calder\'on Problem with Physics-Informed Neural Networks](../../ai/research/arxiv-2606-28158.md) ([Source](https://arxiv.org/abs/2606.28158)) - `ai/research`
+63. [CPAgents: Agentic Composite Phenotype Generation for Cardiac Disease Association](../../ai/agents/arxiv-2606-28179.md) ([Source](https://arxiv.org/abs/2606.28179)) - `ai/agents`
+64. [LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior](../../ai/rag/arxiv-2606-28182.md) ([Source](https://arxiv.org/abs/2606.28182)) - `ai/rag`
+65. [The Remittance Blueprint: Data-driven Intelligence for Sri Lanka](../../ai/research/arxiv-2606-28190.md) ([Source](https://arxiv.org/abs/2606.28190)) - `ai/research`
+66. [COCOLogic-V2: Identifying Logical Inconsistencies via Truly Hard-Negatives](../../ai/research/arxiv-2606-28194.md) ([Source](https://arxiv.org/abs/2606.28194)) - `ai/research`
+67. [Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](../../ai/agents/arxiv-2606-28217.md) ([Source](https://arxiv.org/abs/2606.28217)) - `ai/agents`
+68. [Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte](../../ai/research/arxiv-2606-28220.md) ([Source](https://arxiv.org/abs/2606.28220)) - `ai/research`
+69. [Estimation--Prediction Tradeoff in Causal Probabilistic Temporal Graphs](../../ai/research/arxiv-2606-28225.md) ([Source](https://arxiv.org/abs/2606.28225)) - `ai/research`
+70. [Disentangling Continuous-Time Latent Dynamics: Identifiability of Latent SDEs via Diffusion Shifts](../../ai/research/arxiv-2606-28228.md) ([Source](https://arxiv.org/abs/2606.28228)) - `ai/research`
+71. [How Width and Data Shape Generalization Scaling Laws in Quadratic Neural Networks](../../ai/research/arxiv-2606-28242.md) ([Source](https://arxiv.org/abs/2606.28242)) - `ai/research`
+72. [Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration](../../ai/research/arxiv-2606-28274.md) ([Source](https://arxiv.org/abs/2606.28274)) - `ai/research`
+73. [Towards Automating Scientific Review with Google's Paper Assistant Tool](../../ai/agents/arxiv-2606-28277.md) ([Source](https://arxiv.org/abs/2606.28277)) - `ai/agents`
+74. [Democratic ICAI: Debating Our Way to Steering Principles from Preferences](../../ai/rag/arxiv-2606-28294.md) ([Source](https://arxiv.org/abs/2606.28294)) - `ai/rag`
+75. [VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing](../../ai/research/arxiv-2606-28301.md) ([Source](https://arxiv.org/abs/2606.28301)) - `ai/research`
+76. [Elastic Time: Dynamic Frame Rate Bottlenecks for Neural Audio Coding](../../ai/research/arxiv-2606-27320.md) ([Source](https://arxiv.org/abs/2606.27320)) - `ai/research`
+77. [Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs](../../ai/research/arxiv-2606-27378.md) ([Source](https://arxiv.org/abs/2606.27378)) - `ai/research`
+78. [Position: The Term "Machine Unlearning" Is Overused in LLMs](../../ai/research/arxiv-2606-27379.md) ([Source](https://arxiv.org/abs/2606.27379)) - `ai/research`
+79. [Forecasting Technological Directions in Wireless Networks and Mobile Computing via AutoML Framework](../../ai/research/arxiv-2606-27394.md) ([Source](https://arxiv.org/abs/2606.27394)) - `ai/research`
+80. [Test-Input Generation for Tensor Programs: What Actually Finds Kernel Bugs](../../ai/research/arxiv-2606-27396.md) ([Source](https://arxiv.org/abs/2606.27396)) - `ai/research`
+81. [Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval](../../ai/research/arxiv-2606-27401.md) ([Source](https://arxiv.org/abs/2606.27401)) - `ai/research`
+82. [Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement](../../ai/agents/arxiv-2606-27409.md) ([Source](https://arxiv.org/abs/2606.27409)) - `ai/agents`
+83. [DFM: Difference Feature Modeling with Text-Guided Gated Contrastive Loss for Remote Sensing Image Change Captioning](../../ai/research/arxiv-2606-27410.md) ([Source](https://arxiv.org/abs/2606.27410)) - `ai/research`
+84. [Directed Graph Topology Inference via Graph Filter Identification](../../ai/research/arxiv-2606-27455.md) ([Source](https://arxiv.org/abs/2606.27455)) - `ai/research`
+85. [The Decision Geometry of Covariance Estimation for the Global Minimum-Variance Portfolio under Heavy Tails](../../ai/research/arxiv-2606-27462.md) ([Source](https://arxiv.org/abs/2606.27462)) - `ai/research`
+86. [Supersede: Diagnosing and Training the Memory-Update Gap in LLM Agents](../../ai/agents/arxiv-2606-27472.md) ([Source](https://arxiv.org/abs/2606.27472)) - `ai/agents`
+87. [Support-Constrained RL Enables Real-World Policy Improvement without Real-World Experience](../../ai/rag/arxiv-2606-27475.md) ([Source](https://arxiv.org/abs/2606.27475)) - `ai/rag`
+88. [Sampling the Schwinger Model with Gauge-Equivariant Diffusion](../../ai/research/arxiv-2606-27481.md) ([Source](https://arxiv.org/abs/2606.27481)) - `ai/research`
+89. [Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge](../../ai/research/arxiv-2606-27527.md) ([Source](https://arxiv.org/abs/2606.27527)) - `ai/research`
+90. [Learning from Annotation Uncertainty: Entropy-Aware Curriculum for Speech Emotion Recognition](../../ai/research/arxiv-2606-27536.md) ([Source](https://arxiv.org/abs/2606.27536)) - `ai/research`
+91. [Benchmarking Multi-Modal Graph-based Social Media Popularity Prediction](../../ai/rag/arxiv-2606-27539.md) ([Source](https://arxiv.org/abs/2606.27539)) - `ai/rag`
+92. [Advancing Speaker-Based Vocal Effort Classification with WavLM and Data Augmentation in Naturalistic Non-Calibrated Speech Recordings](../../ai/research/arxiv-2606-27543.md) ([Source](https://arxiv.org/abs/2606.27543)) - `ai/research`
+93. [EntMTP: Accelerating LLM Inference with Entropy Guided Multi Token Prediction](../../ai/research/arxiv-2606-27550.md) ([Source](https://arxiv.org/abs/2606.27550)) - `ai/research`
+94. [On the Inseparability of Instructions and Data in Shared-Embedding Sequence Models](../../ai/rag/arxiv-2606-27567.md) ([Source](https://arxiv.org/abs/2606.27567)) - `ai/rag`
+95. [Distribution-based deep multiple instance learning for tumor proportion scoring in NSCLC](../../ai/rag/arxiv-2606-27579.md) ([Source](https://arxiv.org/abs/2606.27579)) - `ai/rag`
+96. [Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models](../../ai/research/arxiv-2606-27593.md) ([Source](https://arxiv.org/abs/2606.27593)) - `ai/research`
+97. [Qwen-Image-2.0-RL Technical Report](../../ai/research/arxiv-2606-27608.md) ([Source](https://arxiv.org/abs/2606.27608)) - `ai/research`
+98. [Masked Language Flow Models](../../ai/rag/arxiv-2606-27617.md) ([Source](https://arxiv.org/abs/2606.27617)) - `ai/rag`
+99. [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](../../ai/rag/arxiv-2606-27619.md) ([Source](https://arxiv.org/abs/2606.27619)) - `ai/rag`
+100. [Physics-Guided Robotic Radiation Source Localization along Arbitrary Measurement Paths in Unstructured Environments](../../ai/rag/arxiv-2606-27624.md) ([Source](https://arxiv.org/abs/2606.27624)) - `ai/rag`
+101. [Adversarial Contamination Meets Hard Thresholding: An Iterative Algorithm with Signal Adaptivity and Minimax Optimality](../../ai/research/arxiv-2606-27685.md) ([Source](https://arxiv.org/abs/2606.27685)) - `ai/research`
+102. [Joint Transcription and Decryption of Images of Encrypted Handwritten Documents: A Comparison with the Traditional Pipeline](../../ai/research/arxiv-2606-27700.md) ([Source](https://arxiv.org/abs/2606.27700)) - `ai/research`
+103. [Room for Error: Large-Scale Simulation of Over-the-Air Acoustic Attacks](../../ai/research/arxiv-2606-27701.md) ([Source](https://arxiv.org/abs/2606.27701)) - `ai/research`
+104. [Do Speech Emphasis Models Generalize across Languages and Emotions?](../../ai/research/arxiv-2606-27717.md) ([Source](https://arxiv.org/abs/2606.27717)) - `ai/research`
+105. [Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment](../../ai/rag/arxiv-2606-27731.md) ([Source](https://arxiv.org/abs/2606.27731)) - `ai/rag`
+106. [Bifocal Diffusion Language Models: Asymmetric Bidirectional Context for Parallel Generation](../../ai/rag/arxiv-2606-27732.md) ([Source](https://arxiv.org/abs/2606.27732)) - `ai/rag`
+107. [End-to-End Dynamic Sparsity for Resource-Adaptive LLM Inference](../../ai/research/arxiv-2606-27743.md) ([Source](https://arxiv.org/abs/2606.27743)) - `ai/research`
+108. [CANNs: A Toolkit for Research on Continuous Attractor Neural Networks](../../ai/rag/arxiv-2606-27783.md) ([Source](https://arxiv.org/abs/2606.27783)) - `ai/rag`
+109. [Improving Adversarial Robustness via Activation Amplification and Attenuation](../../ai/research/arxiv-2606-27784.md) ([Source](https://arxiv.org/abs/2606.27784)) - `ai/research`
+110. [Optimizing Teacher-Student Partitioning for Scalable Knowledge Distillation on HPC Systems](../../ai/research/arxiv-2606-27797.md) ([Source](https://arxiv.org/abs/2606.27797)) - `ai/research`
+111. [Distributed Air-Gap Flux and Rotor-Current Fusion for Operating-Regime Identification in a 10-MW Kaplan Hydrogenerator](../../ai/research/arxiv-2606-27800.md) ([Source](https://arxiv.org/abs/2606.27800)) - `ai/research`
+112. [Quantum Dynamic Time Warping for Multivariate Time Series Classification](../../ai/research/arxiv-2606-27815.md) ([Source](https://arxiv.org/abs/2606.27815)) - `ai/research`
+113. [Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy](../../ai/research/arxiv-2606-27818.md) ([Source](https://arxiv.org/abs/2606.27818)) - `ai/research`
+114. [Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting](../../ai/research/arxiv-2606-27821.md) ([Source](https://arxiv.org/abs/2606.27821)) - `ai/research`
+115. [A Unified Framework for Vision Transformers Equivariant to Discrete Subgroups of $\mathrm{O}(2)$](../../ai/research/arxiv-2606-27864.md) ([Source](https://arxiv.org/abs/2606.27864)) - `ai/research`
+116. [Mosaic: A Benchmark Suite for Differentiable Physics Solvers](../../ai/research/arxiv-2606-27895.md) ([Source](https://arxiv.org/abs/2606.27895)) - `ai/research`
+117. [VASAE: Naming SAE Dictionary Directions with Vocabulary-Aligned Anchoring](../../ai/research/arxiv-2606-27941.md) ([Source](https://arxiv.org/abs/2606.27941)) - `ai/research`
+118. [From Detection to Action: Using LLM Agents for Fault-Tolerant Control](../../ai/rag/arxiv-2606-28011.md) ([Source](https://arxiv.org/abs/2606.28011)) - `ai/rag`
+119. [Lifted Causal Inference](../../ai/research/arxiv-2606-28024.md) ([Source](https://arxiv.org/abs/2606.28024)) - `ai/research`
+120. [MLVC: Multi-platform Learned Video Codec for Real-World Deployment](../../ai/rag/arxiv-2606-28027.md) ([Source](https://arxiv.org/abs/2606.28027)) - `ai/rag`
+121. [MultiHashFormer: Hash-based Generative Language Models](../../ai/research/arxiv-2606-28057.md) ([Source](https://arxiv.org/abs/2606.28057)) - `ai/research`
+122. [Cross-view Multimodal Vision-Based Assessment Framework for Traditional Chinese Medicine Rehabilitation Training](../../ai/rag/arxiv-2606-28104.md) ([Source](https://arxiv.org/abs/2606.28104)) - `ai/rag`
+123. [Physics-constrained neural networks for surrogate modeling of lossless periodic structures](../../ai/research/arxiv-2606-28119.md) ([Source](https://arxiv.org/abs/2606.28119)) - `ai/research`
+124. [From Tokens to States: LLMs as a Special Case of World Models and the Continuous Path Beyond](../../ai/research/arxiv-2606-28127.md) ([Source](https://arxiv.org/abs/2606.28127)) - `ai/research`
+125. [EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](../../ai/research/arxiv-2606-28164.md) ([Source](https://arxiv.org/abs/2606.28164)) - `ai/research`
+126. [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](../../ai/rag/arxiv-2606-28186.md) ([Source](https://arxiv.org/abs/2606.28186)) - `ai/rag`
+127. [Non-Linear Strategic Classification Made Practical](../../ai/research/arxiv-2606-28204.md) ([Source](https://arxiv.org/abs/2606.28204)) - `ai/research`
+128. [Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection](../../ai/research/arxiv-2606-28252.md) ([Source](https://arxiv.org/abs/2606.28252)) - `ai/research`
+129. [PAC-Bayesian Certificates for Quadratic Closed-Loop Control](../../ai/research/arxiv-2606-28281.md) ([Source](https://arxiv.org/abs/2606.28281)) - `ai/research`
+130. [Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](../../ai/research/arxiv-2606-28287.md) ([Source](https://arxiv.org/abs/2606.28287)) - `ai/research`
+131. [Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization](../../ai/research/arxiv-2606-28307.md) ([Source](https://arxiv.org/abs/2606.28307)) - `ai/research`
+132. [Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes](../../ai/rag/arxiv-2606-28308.md) ([Source](https://arxiv.org/abs/2606.28308)) - `ai/rag`
+133. [Surprises in Proper Positive-Only Learning](../../ai/research/arxiv-2606-28309.md) ([Source](https://arxiv.org/abs/2606.28309)) - `ai/research`
+134. [DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](../../ai/rag/arxiv-2606-28323.md) ([Source](https://arxiv.org/abs/2606.28323)) - `ai/rag`
+135. [Deep Residual Networks Learn the Geodesic Curve in the Wasserstein Space](../../ai/research/arxiv-2102-09235.md) ([Source](https://arxiv.org/abs/2102.09235)) - `ai/research`
+136. [Monte Carlo with kernel-based Gibbs measures: Guarantees for probabilistic herding](../../ai/research/arxiv-2402-11736.md) ([Source](https://arxiv.org/abs/2402.11736)) - `ai/research`
+137. [Active Exploration via Autoregressive Generation of Missing Data](../../ai/rag/arxiv-2405-19466.md) ([Source](https://arxiv.org/abs/2405.19466)) - `ai/rag`
+138. [iCost: A Novel Instance-Complexity-Based Cost-Sensitive Learning Framework](../../ai/research/arxiv-2409-13007.md) ([Source](https://arxiv.org/abs/2409.13007)) - `ai/research`
+139. [Derivation of effective gradient flow equations and dynamical truncation of training data in Deep Learning](../../ai/research/arxiv-2501-07400.md) ([Source](https://arxiv.org/abs/2501.07400)) - `ai/research`
+140. [The Minimal Search Space for Conditional Causal Bandits](../../ai/research/arxiv-2502-06577.md) ([Source](https://arxiv.org/abs/2502.06577)) - `ai/research`
+141. [Permutation Learning with Only N Parameters: From SoftSort to Self-Organizing Gaussians](../../ai/rag/arxiv-2503-13051.md) ([Source](https://arxiv.org/abs/2503.13051)) - `ai/rag`
+142. [CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection](../../ai/research/arxiv-2504-01882.md) ([Source](https://arxiv.org/abs/2504.01882)) - `ai/research`
+143. [TreeLoRA: Efficient Continual Learning via Layer-Wise LoRAs Guided by a Hierarchical Gradient-Similarity Tree](../../ai/rag/arxiv-2506-10355.md) ([Source](https://arxiv.org/abs/2506.10355)) - `ai/rag`
+144. [Effects of relational graph modularity and depth on the learning performance of neural networks](../../ai/research/arxiv-2507-10005.md) ([Source](https://arxiv.org/abs/2507.10005)) - `ai/research`
+145. [Quenched large deviations for Monte Carlo integration with Coulomb gases](../../ai/research/arxiv-2508-01392.md) ([Source](https://arxiv.org/abs/2508.01392)) - `ai/research`
+146. [Calibrating Biophysical Models for Grape Phenology Prediction via Multi-Task Learning](../../ai/research/arxiv-2508-03898.md) ([Source](https://arxiv.org/abs/2508.03898)) - `ai/research`
+147. [Freshness and the Limits of Heuristic Trend Detection in Temporal RAG](../../ai/rag/arxiv-2509-19376.md) ([Source](https://arxiv.org/abs/2509.19376)) - `ai/rag`
+148. [Revisiting Performance Claims for Chest X-Ray Models Using Clinical Context](../../ai/rag/arxiv-2509-19671.md) ([Source](https://arxiv.org/abs/2509.19671)) - `ai/rag`
+149. [Foundation vs. Specialized Models: Evaluating Catastrophic Forgetting in Continual Time Series Forecasting](../../ai/research/arxiv-2510-00809.md) ([Source](https://arxiv.org/abs/2510.00809)) - `ai/research`
+150. [Accelerating Attention with Basis Decomposition](../../ai/research/arxiv-2510-01718.md) ([Source](https://arxiv.org/abs/2510.01718)) - `ai/research`
+151. [Ranking Before Serving: Low-Latency LLM Serving via Pairwise Learning-to-Rank](../../ai/research/arxiv-2510-03243.md) ([Source](https://arxiv.org/abs/2510.03243)) - `ai/research`
+152. [Deep Neural Networks Inspired by Differential Equations](../../ai/research/arxiv-2510-09685.md) ([Source](https://arxiv.org/abs/2510.09685)) - `ai/research`
+153. [Retaining by Doing: The Role of On-Policy Data in Mitigating Forgetting](../../ai/research/arxiv-2510-18874.md) ([Source](https://arxiv.org/abs/2510.18874)) - `ai/research`
+154. [Learning Peer Influence Probabilities with Linear Contextual Bandits](../../ai/research/arxiv-2510-19119.md) ([Source](https://arxiv.org/abs/2510.19119)) - `ai/research`
+155. [LieSolver: PDE-Constrained Learning for IBVPs via Lie Symmetries](../../ai/rag/arxiv-2510-25731.md) ([Source](https://arxiv.org/abs/2510.25731)) - `ai/rag`
+156. [Trust Region Masking for Long-Horizon LLM Reinforcement Learning](../../ai/research/arxiv-2512-23075.md) ([Source](https://arxiv.org/abs/2512.23075)) - `ai/research`
+157. [Bridging Mechanistic Interpretability and Prompt Engineering with Gradient Ascent for Interpretable Persona Control](../../ai/research/arxiv-2601-02896.md) ([Source](https://arxiv.org/abs/2601.02896)) - `ai/research`
+158. [Reasoning-Enhanced Rare-Event Prediction with Balanced Outcome Correction](../../ai/research/arxiv-2601-16406.md) ([Source](https://arxiv.org/abs/2601.16406)) - `ai/research`
+159. [Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](../../ai/rag/arxiv-2601-16632.md) ([Source](https://arxiv.org/abs/2601.16632)) - `ai/rag`
+160. [Adaptive Momentum and Nonlinear Damping for Neural Network Training](../../ai/research/arxiv-2602-00334.md) ([Source](https://arxiv.org/abs/2602.00334)) - `ai/research`
+161. [Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](../../ai/rag/arxiv-2602-01588.md) ([Source](https://arxiv.org/abs/2602.01588)) - `ai/rag`
+162. [Taming the Monster Every Context: Complexity Measure and Unified Framework for Offline-Oracle Efficient Contextual Bandits](../../ai/rag/arxiv-2602-09456.md) ([Source](https://arxiv.org/abs/2602.09456)) - `ai/rag`
+163. [Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training](../../ai/research/arxiv-2602-16065.md) ([Source](https://arxiv.org/abs/2602.16065)) - `ai/research`
+164. [Estimating condition number with Graph Neural Networks](../../ai/research/arxiv-2603-10277.md) ([Source](https://arxiv.org/abs/2603.10277)) - `ai/research`
+165. [Context-specific Credibility-aware Multimodal Fusion with Conditional Probabilistic Circuits](../../ai/research/arxiv-2603-26629.md) ([Source](https://arxiv.org/abs/2603.26629)) - `ai/research`
+166. [From Dispersion to Attraction: Spectral Dynamics of Hallucination Across Whisper Model Scales](../../ai/research/arxiv-2604-08591.md) ([Source](https://arxiv.org/abs/2604.08591)) - `ai/research`
+167. [Simplified Sparse Attention via Gist Tokens](../../ai/rag/arxiv-2604-20920.md) ([Source](https://arxiv.org/abs/2604.20920)) - `ai/rag`
+168. [Categorical Optimization with Bayesian Anchored Latent Trust Regions for Structural Design under High-Dimensional Uncertainty](../../ai/research/arxiv-2604-25241.md) ([Source](https://arxiv.org/abs/2604.25241)) - `ai/research`
+169. [Uncertainty-Aware Reward Discounting for Mitigating Reward Hacking](../../ai/research/arxiv-2604-26360.md) ([Source](https://arxiv.org/abs/2604.26360)) - `ai/research`
+170. [OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](../../ai/research/arxiv-2605-03065.md) ([Source](https://arxiv.org/abs/2605.03065)) - `ai/research`
+171. [RateQuant: Optimal Mixed-Precision KV Cache Quantization via Rate-Distortion Theory](../../ai/rag/arxiv-2605-06675.md) ([Source](https://arxiv.org/abs/2605.06675)) - `ai/rag`
+172. [The Power of Second Order Methods for Sequence Preconditioning](../../ai/research/arxiv-2605-08390.md) ([Source](https://arxiv.org/abs/2605.08390)) - `ai/research`
+173. [ConTact: Contact-First Antibody CDR Design via Explicit Interface Reasoning](../../ai/research/arxiv-2605-21600.md) ([Source](https://arxiv.org/abs/2605.21600)) - `ai/research`
+174. [The Strongest Teacher Is Not Always the Best Teacher: Student-Centric Answer Selection](../../ai/research/arxiv-2605-26872.md) ([Source](https://arxiv.org/abs/2605.26872)) - `ai/research`
+175. [Energy-Structured Low-Rank Adaptation for Continual Learning](../../ai/research/arxiv-2605-27482.md) ([Source](https://arxiv.org/abs/2605.27482)) - `ai/research`
+176. [Diffusion Model-Based Data Assimilation for Real-World Energy Consumption Forecasting](../../ai/research/arxiv-2605-29072.md) ([Source](https://arxiv.org/abs/2605.29072)) - `ai/research`
+177. [Realistic honeypot evaluations for scheming propensity](../../ai/rag/arxiv-2605-29729.md) ([Source](https://arxiv.org/abs/2605.29729)) - `ai/rag`
+178. [When are LLMs Sufficient Policy Optimizers for Sequential RL Tasks?](../../ai/rag/arxiv-2605-30719.md) ([Source](https://arxiv.org/abs/2605.30719)) - `ai/rag`
+179. [SurvPFN: Towards Foundation Models for Survival Predictions](../../ai/research/arxiv-2606-04564.md) ([Source](https://arxiv.org/abs/2606.04564)) - `ai/research`
+180. [Graph Neural Networks for Predicting Solvability of Finite Groups](../../ai/research/arxiv-2606-07619.md) ([Source](https://arxiv.org/abs/2606.07619)) - `ai/research`
+181. [Kuramoto Attention: Synchronizing Self-Attention on the Torus](../../ai/research/arxiv-2606-11585.md) ([Source](https://arxiv.org/abs/2606.11585)) - `ai/research`
+182. [Multimodal Evaluator Preference Collapse: Cross-Modal Coupling in Self-Evolving Agents](../../ai/agents/arxiv-2606-16682.md) ([Source](https://arxiv.org/abs/2606.16682)) - `ai/agents`
+183. [Learning to Refine Hidden States for Reliable LLM Reasoning](../../ai/research/arxiv-2606-17524.md) ([Source](https://arxiv.org/abs/2606.17524)) - `ai/research`
+184. [Smoothness-Based Derandomization of PAC-Bayes Bounds](../../ai/research/arxiv-2606-19105.md) ([Source](https://arxiv.org/abs/2606.19105)) - `ai/research`
+185. [Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution](../../ai/agents/arxiv-2606-20014.md) ([Source](https://arxiv.org/abs/2606.20014)) - `ai/agents`
+186. [Contagion Networks: Evaluator Preference Propagation in Multi-Agent LLM Systems](../../ai/agents/arxiv-2606-20493.md) ([Source](https://arxiv.org/abs/2606.20493)) - `ai/agents`
+187. [CELEUS: Certifiable and Efficient LLM Evaluation via E-Processes](../../ai/rag/arxiv-2606-20820.md) ([Source](https://arxiv.org/abs/2606.20820)) - `ai/rag`
+188. [An Empirical Study of OpenPangu Quantization on Ascend NPUs](../../ai/research/arxiv-2606-21257.md) ([Source](https://arxiv.org/abs/2606.21257)) - `ai/research`
+189. [When Is an LLM Worth It for Hyperparameter Optimization? A Budget-Matched Study on Tabular Data Finds the Warm-Start Is a Default Configuration, Not the Model](../../ai/research/arxiv-2606-21641.md) ([Source](https://arxiv.org/abs/2606.21641)) - `ai/research`
+190. [On the Position Bias of On-Policy Distillation](../../ai/rag/arxiv-2606-22600.md) ([Source](https://arxiv.org/abs/2606.22600)) - `ai/rag`
+191. [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../../ai/research/arxiv-2606-24851.md) ([Source](https://arxiv.org/abs/2606.24851)) - `ai/research`
+192. [Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment](../../ai/agents/arxiv-2606-26071.md) ([Source](https://arxiv.org/abs/2606.26071)) - `ai/agents`
+193. [Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery](../../ai/research/arxiv-2606-26204.md) ([Source](https://arxiv.org/abs/2606.26204)) - `ai/research`
+194. [Recovering Governing Equations from Solution Data: Identifiability Bounds for Linear and Nonlinear ODEs](../../ai/research/arxiv-2606-27285.md) ([Source](https://arxiv.org/abs/2606.27285)) - `ai/research`
+195. [Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook](../../ai/research/arxiv-2411-19537.md) ([Source](https://arxiv.org/abs/2411.19537)) - `ai/research`
+196. [Towards Reliable Recommender Systems for Rating Data](../../ai/research/arxiv-2412-20802.md) ([Source](https://arxiv.org/abs/2412.20802)) - `ai/research`
+197. [Supervised Quadratic Feature Analysis: Information Geometry Approach for Dimensionality Reduction](../../ai/research/arxiv-2502-00168.md) ([Source](https://arxiv.org/abs/2502.00168)) - `ai/research`
+198. [Efficient and Stable Multi-Dimensional Kolmogorov-Smirnov Distance](../../ai/research/arxiv-2504-11299.md) ([Source](https://arxiv.org/abs/2504.11299)) - `ai/research`
+199. [Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions](../../ai/rag/arxiv-2505-05517.md) ([Source](https://arxiv.org/abs/2505.05517)) - `ai/rag`
+200. [StableMotion: One-Step Motion Estimation with Diffusion Prior](../../ai/rag/arxiv-2505-06668.md) ([Source](https://arxiv.org/abs/2505.06668)) - `ai/rag`
+201. [Temporal Convolutional Autoencoder for Interference Mitigation in FMCW Radar Altimeters](../../ai/research/arxiv-2505-22783.md) ([Source](https://arxiv.org/abs/2505.22783)) - `ai/research`
+202. [Random Matrix Theory for Deep Learning: Beyond Eigenvalues of Linear Models](../../ai/rag/arxiv-2506-13139.md) ([Source](https://arxiv.org/abs/2506.13139)) - `ai/rag`
+203. [On the Effect of Uncertainty on Layer-wise Inference Dynamics](../../ai/rag/arxiv-2507-06722.md) ([Source](https://arxiv.org/abs/2507.06722)) - `ai/rag`
+204. [SIDA: Synthetic Image Driven Zero-shot Domain Adaptation](../../ai/rag/arxiv-2507-18632.md) ([Source](https://arxiv.org/abs/2507.18632)) - `ai/rag`
+205. [Symmetry-Aware Transformer Training for Automated Planning](../../ai/research/arxiv-2508-07743.md) ([Source](https://arxiv.org/abs/2508.07743)) - `ai/research`
+206. [Non-Linear Model-Based Sequential Decision-Making in Agriculture](../../ai/research/arxiv-2509-01924.md) ([Source](https://arxiv.org/abs/2509.01924)) - `ai/research`
+207. [Self-Concordant Perturbations for Linear Bandits](../../ai/research/arxiv-2510-24187.md) ([Source](https://arxiv.org/abs/2510.24187)) - `ai/research`
+208. [Hyperellipsoid Density Sampling: Exploitative Sequences to Accelerate High-Dimensional Optimization](../../ai/rag/arxiv-2511-07836.md) ([Source](https://arxiv.org/abs/2511.07836)) - `ai/rag`
+209. [Complex-Valued 2D Gaussian Representation for Computer-Generated Holography](../../ai/research/arxiv-2511-15022.md) ([Source](https://arxiv.org/abs/2511.15022)) - `ai/research`
+210. [Adaptive Probability Flow Residual Minimization for High-Dimensional Fokker-Planck Equations](../../ai/research/arxiv-2512-19196.md) ([Source](https://arxiv.org/abs/2512.19196)) - `ai/research`
+211. [Safe Language Generation in the Limit](../../ai/research/arxiv-2601-08648.md) ([Source](https://arxiv.org/abs/2601.08648)) - `ai/research`
+212. [A Gaussian Perspective for Distributional Discrepancy in Generative Diffusion Models](../../ai/research/arxiv-2601-13602.md) ([Source](https://arxiv.org/abs/2601.13602)) - `ai/research`
+213. [Learning to Evict from Key-Value Cache](../../ai/agents/arxiv-2602-10238.md) ([Source](https://arxiv.org/abs/2602.10238)) - `ai/agents`
+214. [Event-Grounded Question Answering over Long Audio via Structured Retrieval](../../ai/rag/arxiv-2602-14612.md) ([Source](https://arxiv.org/abs/2602.14612)) - `ai/rag`
+215. [An Interpretable, Controllable Time-Varying IIR Denoiser for On-Device Assistive Hearing](../../ai/research/arxiv-2603-02794.md) ([Source](https://arxiv.org/abs/2603.02794)) - `ai/research`
+216. [Trustworthy Predictive Distributions for Tail Events with Semiparametric Diagnostic Transport Maps](../../ai/research/arxiv-2603-11229.md) ([Source](https://arxiv.org/abs/2603.11229)) - `ai/research`
+217. [Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case](../../ai/rag/arxiv-2603-12001.md) ([Source](https://arxiv.org/abs/2603.12001)) - `ai/rag`
+218. [Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding](../../ai/research/arxiv-2604-02546.md) ([Source](https://arxiv.org/abs/2604.02546)) - `ai/research`
+219. [High-dimensional inference for the $\gamma$-ray sky with differentiable programming](../../ai/research/arxiv-2604-08648.md) ([Source](https://arxiv.org/abs/2604.08648)) - `ai/research`
+220. [LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks](../../ai/agents/arxiv-2604-13072.md) ([Source](https://arxiv.org/abs/2604.13072)) - `ai/agents`
+221. [Active-learning mapping of the Vicsek model phase diagram](../../ai/research/arxiv-2604-28167.md) ([Source](https://arxiv.org/abs/2604.28167)) - `ai/research`
+222. [ELF: Embedded Language Flows](../../ai/research/arxiv-2605-10938.md) ([Source](https://arxiv.org/abs/2605.10938)) - `ai/research`
+223. [Given, When, Then, Again: Mining Subscenario Refactoring Candidates in Behaviour-Driven Test Suites with ML Classifiers and LLM-Judge Baselines](../../ai/research/arxiv-2605-14568.md) ([Source](https://arxiv.org/abs/2605.14568)) - `ai/research`
+224. [RSD: Moving Local Triangular Charts for Auditing Language-Model Hidden States](../../ai/rag/arxiv-2605-17482.md) ([Source](https://arxiv.org/abs/2605.17482)) - `ai/rag`
+225. [Machine Learning for Coding Retail Product Names to Consumer-Price Categories: A Rule-plus-Bag-of-Words Pipeline with Reliability-Weighted Human-in-the-Loop Labeling](../../ai/research/arxiv-2606-02004.md) ([Source](https://arxiv.org/abs/2606.02004)) - `ai/research`
+226. [OptMuon: Closed-Loop Orthogonalized Momentum Methods for Stochastic Optimization with Zero-Noise Optimality](../../ai/rag/arxiv-2606-08783.md) ([Source](https://arxiv.org/abs/2606.08783)) - `ai/rag`
+227. [Annealed Entropic Allocation for Ranking and Selection](../../ai/research/arxiv-2606-11347.md) ([Source](https://arxiv.org/abs/2606.11347)) - `ai/research`
+228. [Conformal Bayes under Label Shift: Post-Hoc Calibration vs. In-Training Adaptation](../../ai/rag/arxiv-2606-11865.md) ([Source](https://arxiv.org/abs/2606.11865)) - `ai/rag`
+229. [MaRS: Robust Out-of-Distribution Detection via Mahalanobis Residual Scoring](../../ai/rag/arxiv-2606-22649.md) ([Source](https://arxiv.org/abs/2606.22649)) - `ai/rag`
+230. [Does My Embedding Reflect That $A = B$? Evaluating Mathematical Equivalence in Embedding Models](../../ai/rag/arxiv-2606-23959.md) ([Source](https://arxiv.org/abs/2606.23959)) - `ai/rag`
+231. [CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation](../../ai/research/arxiv-2606-24506.md) ([Source](https://arxiv.org/abs/2606.24506)) - `ai/research`
+232. [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](../../ai/research/arxiv-2606-25956.md) ([Source](https://arxiv.org/abs/2606.25956)) - `ai/research`
+233. [AI-Model Network: Concept, Current State and Future](../../ai/research/arxiv-2606-27382.md) ([Source](https://arxiv.org/abs/2606.27382)) - `ai/research`
+234. [When Does Personality Composition Matter for Multi-Agent LLM Teams?](../../ai/agents/arxiv-2606-27443.md) ([Source](https://arxiv.org/abs/2606.27443)) - `ai/agents`
+235. [Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning](../../ai/agents/arxiv-2606-27483.md) ([Source](https://arxiv.org/abs/2606.27483)) - `ai/agents`
+236. [MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy](../../ai/research/arxiv-2606-27652.md) ([Source](https://arxiv.org/abs/2606.27652)) - `ai/research`
+237. [ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation](../../ai/agents/arxiv-2606-27736.md) ([Source](https://arxiv.org/abs/2606.27736)) - `ai/agents`
+238. [Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework](../../ai/rag/arxiv-2606-27757.md) ([Source](https://arxiv.org/abs/2606.27757)) - `ai/rag`
+239. [Understanding Rollout Error in Graph World Models](../../ai/agents/arxiv-2606-27780.md) ([Source](https://arxiv.org/abs/2606.27780)) - `ai/agents`
+240. [Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents](../../ai/agents/arxiv-2606-27806.md) ([Source](https://arxiv.org/abs/2606.27806)) - `ai/agents`
+241. [ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents](../../ai/rag/arxiv-2606-27814.md) ([Source](https://arxiv.org/abs/2606.27814)) - `ai/rag`
+242. [NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning](../../ai/agents/arxiv-2606-27826.md) ([Source](https://arxiv.org/abs/2606.27826)) - `ai/agents`
+243. [Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing](../../ai/agents/arxiv-2606-27926.md) ([Source](https://arxiv.org/abs/2606.27926)) - `ai/agents`
+244. [RelBall: Relation Ball with Quaternion Rotation for Knowledge Graph Completion](../../ai/rag/arxiv-2606-27967.md) ([Source](https://arxiv.org/abs/2606.27967)) - `ai/rag`
+245. [JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications](../../ai/rag/arxiv-2606-28070.md) ([Source](https://arxiv.org/abs/2606.28070)) - `ai/rag`
+246. [Ontology-Guided Evidence Path Inference for Multi-hop Knowledge Graph Question Answering](../../ai/research/arxiv-2606-28076.md) ([Source](https://arxiv.org/abs/2606.28076)) - `ai/research`
+247. [AI-Driven Synthesis for High-Tech System Design: Automating Innovation](../../ai/agents/arxiv-2606-28126.md) ([Source](https://arxiv.org/abs/2606.28126)) - `ai/agents`
+248. [Tandem Reinforcement Learning with Verifiable Rewards](../../ai/agents/arxiv-2606-28166.md) ([Source](https://arxiv.org/abs/2606.28166)) - `ai/agents`
+249. [Agent-Native Immune System: Architecture, Taxonomy, and Engineering](../../ai/agents/arxiv-2606-28270.md) ([Source](https://arxiv.org/abs/2606.28270)) - `ai/agents`
+250. [DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers](../../ai/rag/arxiv-2601-16956.md) ([Source](https://arxiv.org/abs/2601.16956)) - `ai/rag`
+251. [CalBrief: A Pilot Diagnostic Benchmark for Evidence-Calibrated Scientific Briefing with Large Language Models](../../ai/research/arxiv-2606-27383.md) ([Source](https://arxiv.org/abs/2606.27383)) - `ai/research`
+252. [Agentic Publication Protocol: An Attempt to Modernize Scientific Publication](../../ai/agents/arxiv-2606-27386.md) ([Source](https://arxiv.org/abs/2606.27386)) - `ai/agents`
+253. [SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game](../../ai/agents/arxiv-2606-27397.md) ([Source](https://arxiv.org/abs/2606.27397)) - `ai/agents`
+254. [Automated brain tumor detection in MRI images using CNN and ResNet architectures](../../ai/research/arxiv-2606-27405.md) ([Source](https://arxiv.org/abs/2606.27405)) - `ai/research`
+255. [Towards Evaluation of Implicit Software World Models in Coding LLMs](../../ai/agents/arxiv-2606-27406.md) ([Source](https://arxiv.org/abs/2606.27406)) - `ai/agents`
+256. [Compression-Driven Anomaly Detection in Brain MRI Using an Interpretable Quantum Autoencoder](../../ai/rag/arxiv-2606-27411.md) ([Source](https://arxiv.org/abs/2606.27411)) - `ai/rag`
+257. [Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation](../../ai/rag/arxiv-2606-27412.md) ([Source](https://arxiv.org/abs/2606.27412)) - `ai/rag`
+258. [GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana](../../ai/research/arxiv-2606-27413.md) ([Source](https://arxiv.org/abs/2606.27413)) - `ai/research`
+259. [Speculative Refinement: A Hybrid Autoregressive Diffusion Decoding Strategy and Its Behavior Across Benchmarks](../../ai/research/arxiv-2606-27474.md) ([Source](https://arxiv.org/abs/2606.27474)) - `ai/research`
+260. [DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection](../../ai/agents/arxiv-2606-27499.md) ([Source](https://arxiv.org/abs/2606.27499)) - `ai/agents`
+261. [The Context-Ready Transformer](../../ai/research/arxiv-2606-27538.md) ([Source](https://arxiv.org/abs/2606.27538)) - `ai/research`
+262. [SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction](../../ai/research/arxiv-2606-27581.md) ([Source](https://arxiv.org/abs/2606.27581)) - `ai/research`
+263. [CoIn: Comprehensive 2D-3D Inpainting with Gaussian Splatting Guidance](../../ai/rag/arxiv-2606-27584.md) ([Source](https://arxiv.org/abs/2606.27584)) - `ai/rag`
+264. [Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](../../ai/research/arxiv-2606-27596.md) ([Source](https://arxiv.org/abs/2606.27596)) - `ai/research`
+265. [Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing](../../ai/research/arxiv-2606-27598.md) ([Source](https://arxiv.org/abs/2606.27598)) - `ai/research`
+266. [Cross-Platform Chinese Offensive Comment Detection via Dual-Threshold Hard Example Mining](../../ai/research/arxiv-2606-27629.md) ([Source](https://arxiv.org/abs/2606.27629)) - `ai/research`
+267. [Reconstructing the Developmental Trajectory of Adipocytes in Human Adipose Tissue Using Single-Cell RNA Sequencing](../../ai/research/arxiv-2606-27657.md) ([Source](https://arxiv.org/abs/2606.27657)) - `ai/research`
+268. [Explainable AI for Biodiversity Monitoring and Ecological Image Analysis](../../ai/research/arxiv-2606-27667.md) ([Source](https://arxiv.org/abs/2606.27667)) - `ai/research`
+269. [From Signals to Transfer: A Factorised Study of Probe-Based Uncertainty Estimation in Large Language Models](../../ai/rag/arxiv-2606-27679.md) ([Source](https://arxiv.org/abs/2606.27679)) - `ai/rag`
+270. [Mitigating LLM-based p-Hacking by Preregistering for the Next LLM](../../ai/research/arxiv-2606-27687.md) ([Source](https://arxiv.org/abs/2606.27687)) - `ai/research`
+271. [Low-Agreeableness Persona Conditioning for Safe LLM Fine-Tuning](../../ai/research/arxiv-2606-27709.md) ([Source](https://arxiv.org/abs/2606.27709)) - `ai/research`
+272. [KG2Cypher: Data-Centric Pipeline for Building Enterprise Text-to-Cypher Systems](../../ai/research/arxiv-2606-27742.md) ([Source](https://arxiv.org/abs/2606.27742)) - `ai/research`
+273. [From General-Purpose Audio Tagging to Spatially Grounded Sound Event Localization and Detection](../../ai/research/arxiv-2606-27751.md) ([Source](https://arxiv.org/abs/2606.27751)) - `ai/research`
+274. [Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?](../../ai/research/arxiv-2606-27755.md) ([Source](https://arxiv.org/abs/2606.27755)) - `ai/research`
+275. [Output-Space Allocation Costs for Calibration-Guided LLM Compression: An Empirical Study](../../ai/rag/arxiv-2606-27785.md) ([Source](https://arxiv.org/abs/2606.27785)) - `ai/rag`
+276. [SHIFT: Gate-Modulated Activation Steering for Knowledge Conflict Mitigation in Retrieval-Augmented Generation](../../ai/rag/arxiv-2606-27786.md) ([Source](https://arxiv.org/abs/2606.27786)) - `ai/rag`
+277. [NLL-Guided Full-Attention Layer Selection for Training-Free Sliding-Window Adaptation](../../ai/research/arxiv-2606-27791.md) ([Source](https://arxiv.org/abs/2606.27791)) - `ai/research`
+278. [Position Bias Correction is Insufficient for One-Pass Attention Sorting](../../ai/research/arxiv-2606-27793.md) ([Source](https://arxiv.org/abs/2606.27793)) - `ai/research`
+279. [Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling](../../ai/research/arxiv-2606-27831.md) ([Source](https://arxiv.org/abs/2606.27831)) - `ai/research`
+280. [S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation](../../ai/research/arxiv-2606-27872.md) ([Source](https://arxiv.org/abs/2606.27872)) - `ai/research`
+281. [SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion](../../ai/research/arxiv-2606-27876.md) ([Source](https://arxiv.org/abs/2606.27876)) - `ai/research`
+282. [A Study of Temporal Fusion Strategies for Named Entity Recognition in Historical Texts](../../ai/research/arxiv-2606-27881.md) ([Source](https://arxiv.org/abs/2606.27881)) - `ai/research`
+283. [SEADA: An efficient methodology for optimizing mixed-precision DNNs on multi-precision spatial architectures](../../ai/research/arxiv-2606-27884.md) ([Source](https://arxiv.org/abs/2606.27884)) - `ai/research`
+284. [Triadic Werewolf: A Jester Role for Multi-Hop Theory of Mind in LLMs](../../ai/agents/arxiv-2606-27909.md) ([Source](https://arxiv.org/abs/2606.27909)) - `ai/agents`
+285. [Every Step of the Way: Video-based Parkinsonian Turning Step Counting](../../ai/rag/arxiv-2606-27918.md) ([Source](https://arxiv.org/abs/2606.27918)) - `ai/rag`
+286. [Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding](../../ai/agents/arxiv-2606-27922.md) ([Source](https://arxiv.org/abs/2606.27922)) - `ai/agents`
+287. [Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design](../../ai/research/arxiv-2606-27923.md) ([Source](https://arxiv.org/abs/2606.27923)) - `ai/research`
+288. [Agentic AI-Powered Re-Identification: An Emerging, Scalable Threat to Mobility Microdata Privacy](../../ai/agents/arxiv-2606-27936.md) ([Source](https://arxiv.org/abs/2606.27936)) - `ai/agents`
+289. [Reasoning Beyond Prediction: From Data-Driven to Causal Software Engineering](../../ai/research/arxiv-2606-27960.md) ([Source](https://arxiv.org/abs/2606.27960)) - `ai/research`
+290. [From Black-Box to Clinical Insight: A Multi-Stage Explainable Framework for Speech-Based Cognitive Impairment Detection](../../ai/research/arxiv-2606-27973.md) ([Source](https://arxiv.org/abs/2606.27973)) - `ai/research`
+291. [ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering](../../ai/rag/arxiv-2606-27974.md) ([Source](https://arxiv.org/abs/2606.27974)) - `ai/rag`
+292. [SHARD: cell-keyed residual splitting for alignment-resistant private dense retrieval](../../ai/rag/arxiv-2606-27976.md) ([Source](https://arxiv.org/abs/2606.27976)) - `ai/rag`
+293. [Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation](../../ai/research/arxiv-2606-27978.md) ([Source](https://arxiv.org/abs/2606.27978)) - `ai/research`
+294. [Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection](../../ai/rag/arxiv-2606-28002.md) ([Source](https://arxiv.org/abs/2606.28002)) - `ai/rag`
+295. [Mind the Gap: Quantifying the Domain Gap in Cross-Sensor Diffusion Super-Resolution](../../ai/research/arxiv-2606-28039.md) ([Source](https://arxiv.org/abs/2606.28039)) - `ai/research`
+296. [DG^VoiC: Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions](../../ai/research/arxiv-2606-28048.md) ([Source](https://arxiv.org/abs/2606.28048)) - `ai/research`
+297. [Can LLMs Judge Better Than They Generate? Evaluating Task Asymmetry, Mechanistic Interpretability and Transferability for In-Context QA](../../ai/research/arxiv-2606-28050.md) ([Source](https://arxiv.org/abs/2606.28050)) - `ai/research`
+298. [ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents](../../ai/agents/arxiv-2606-28061.md) ([Source](https://arxiv.org/abs/2606.28061)) - `ai/agents`
+299. [Single and Multi Truth Data Fusion using Large Language Models](../../ai/research/arxiv-2606-28062.md) ([Source](https://arxiv.org/abs/2606.28062)) - `ai/research`
+300. [STAG: Spatio-temporal Evolving Structural Representation of Action Units for Micro-expression Recognition](../../ai/research/arxiv-2606-28083.md) ([Source](https://arxiv.org/abs/2606.28083)) - `ai/research`
+301. [OSOR: One-Step Diffusion Inpainting for Effect-Aware Object Removal](../../ai/rag/arxiv-2606-28094.md) ([Source](https://arxiv.org/abs/2606.28094)) - `ai/rag`
+302. [BiDeMem: Bidirectional Degradation Memory for Explainable Image Restoration](../../ai/research/arxiv-2606-28112.md) ([Source](https://arxiv.org/abs/2606.28112)) - `ai/research`
+303. [Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs](../../ai/research/arxiv-2606-28122.md) ([Source](https://arxiv.org/abs/2606.28122)) - `ai/research`
+304. [PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation](../../ai/research/arxiv-2606-28128.md) ([Source](https://arxiv.org/abs/2606.28128)) - `ai/research`
+305. [Toward Robust In-Context Segmentation via Concept Guidance](../../ai/research/arxiv-2606-28149.md) ([Source](https://arxiv.org/abs/2606.28149)) - `ai/research`
+306. [Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models](../../ai/research/arxiv-2606-28153.md) ([Source](https://arxiv.org/abs/2606.28153)) - `ai/research`
+307. [HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration](../../ai/agents/arxiv-2606-28215.md) ([Source](https://arxiv.org/abs/2606.28215)) - `ai/agents`
+308. [Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching](../../ai/rag/arxiv-2606-28226.md) ([Source](https://arxiv.org/abs/2606.28226)) - `ai/rag`
+309. [Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software](../../ai/agents/arxiv-2606-28235.md) ([Source](https://arxiv.org/abs/2606.28235)) - `ai/agents`
+310. [Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation](../../ai/rag/arxiv-2606-28268.md) ([Source](https://arxiv.org/abs/2606.28268)) - `ai/rag`
+311. [Agentic Hardware Design as Repository-Level Code Evolution](../../ai/agents/arxiv-2606-28279.md) ([Source](https://arxiv.org/abs/2606.28279)) - `ai/agents`
+312. ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](../../ai/rag/arxiv-2308-05201.md) ([Source](https://arxiv.org/abs/2308.05201)) - `ai/rag`
+313. [Agentic Episodic Control](../../ai/agents/arxiv-2506-01442.md) ([Source](https://arxiv.org/abs/2506.01442)) - `ai/agents`
+314. [PreferThinker: Reasoning-based Personalized Image Preference Assessment](../../ai/rag/arxiv-2511-00609.md) ([Source](https://arxiv.org/abs/2511.00609)) - `ai/rag`
+315. [Chronic Kidney Disease Prognosis Prediction Using Transformer](../../ai/research/arxiv-2511-02340.md) ([Source](https://arxiv.org/abs/2511.02340)) - `ai/research`
+316. [Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning](../../ai/research/arxiv-2511-20196.md) ([Source](https://arxiv.org/abs/2511.20196)) - `ai/research`
+317. [SciFig: Towards Automating Editable Figure Generation for Scientific Papers](../../ai/rag/arxiv-2601-04390.md) ([Source](https://arxiv.org/abs/2601.04390)) - `ai/rag`
+318. [Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context](../../ai/rag/arxiv-2601-17642.md) ([Source](https://arxiv.org/abs/2601.17642)) - `ai/rag`
+319. [GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](../../ai/agents/arxiv-2601-18197.md) ([Source](https://arxiv.org/abs/2601.18197)) - `ai/agents`
+320. [Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs](../../ai/agents/arxiv-2601-21233.md) ([Source](https://arxiv.org/abs/2601.21233)) - `ai/agents`
+321. [Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](../../ai/research/arxiv-2602-07533.md) ([Source](https://arxiv.org/abs/2602.07533)) - `ai/research`
+322. [CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching](../../ai/rag/arxiv-2602-20094.md) ([Source](https://arxiv.org/abs/2602.20094)) - `ai/rag`
+323. [Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning](../../ai/agents/arxiv-2603-00374.md) ([Source](https://arxiv.org/abs/2603.00374)) - `ai/agents`
+324. [SEA-TS: Self-Evolving Agent for Autonomous Code Generation of Time Series Forecasting Algorithms](../../ai/agents/arxiv-2603-04873.md) ([Source](https://arxiv.org/abs/2603.04873)) - `ai/agents`
+325. [Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems: Technical Report](../../ai/research/arxiv-2603-15282.md) ([Source](https://arxiv.org/abs/2603.15282)) - `ai/research`
+326. [AgentPSO: Evolving Agent Reasoning Skill via Multi-agent Particle Swarm Optimization](../../ai/agents/arxiv-2605-08704.md) ([Source](https://arxiv.org/abs/2605.08704)) - `ai/agents`
+327. [Distilling Answer-Set Programming Rules from LLMs for Neurosymbolic Visual Question Answering](../../ai/rag/arxiv-2606-03269.md) ([Source](https://arxiv.org/abs/2606.03269)) - `ai/rag`
+328. [Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing](../../ai/research/arxiv-2606-05950.md) ([Source](https://arxiv.org/abs/2606.05950)) - `ai/research`
+329. [RedKnot: Efficient Long-Context LLM Serving with Head-Aware KV Reuse and SegPagedAttention](../../ai/research/arxiv-2606-06256.md) ([Source](https://arxiv.org/abs/2606.06256)) - `ai/research`
+330. [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](../../ai/research/arxiv-2606-07157.md) ([Source](https://arxiv.org/abs/2606.07157)) - `ai/research`
+331. [Auto-Configuring Scientific Simulators with Lightweight Coding-Agent Adapters](../../ai/agents/arxiv-2606-09774.md) ([Source](https://arxiv.org/abs/2606.09774)) - `ai/agents`
+332. [Artificial Intelligence Index Report 2026](../../ai/research/arxiv-2606-15708.md) ([Source](https://arxiv.org/abs/2606.15708)) - `ai/research`
+333. [The Shift Toward Open and Reproducible AI Research](../../ai/research/arxiv-2606-16974.md) ([Source](https://arxiv.org/abs/2606.16974)) - `ai/research`
+334. [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](../../ai/agents/arxiv-2606-18142.md) ([Source](https://arxiv.org/abs/2606.18142)) - `ai/agents`
+335. [Agent-as-a-Router: Agentic Model Routing for Coding Tasks](../../ai/agents/arxiv-2606-22902.md) ([Source](https://arxiv.org/abs/2606.22902)) - `ai/agents`
+336. [POTracker: Optimizing Large Language Models for Standard-Compliant Power Outage Report Generation](../../ai/rag/arxiv-2606-23533.md) ([Source](https://arxiv.org/abs/2606.23533)) - `ai/rag`
+337. [AI Snitches Get Glitches: Towards Evading Agentic Surveillance](../../ai/agents/arxiv-2606-25836.md) ([Source](https://arxiv.org/abs/2606.25836)) - `ai/agents`
+338. [What the LLM Should Not Say: Boundary-Aware Context Grounding for A Seven-Channel EEG Agent](../../ai/rag/arxiv-2606-26519.md) ([Source](https://arxiv.org/abs/2606.26519)) - `ai/rag`
+339. [AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems](../../ai/agents/arxiv-2606-26859.md) ([Source](https://arxiv.org/abs/2606.26859)) - `ai/agents`
+340. [A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models](../../ai/research/arxiv-2606-26879.md) ([Source](https://arxiv.org/abs/2606.26879)) - `ai/research`
+341. [Look-Before-Move: Narrative-Grounded World Visual Attention in Dynamic 3D Story Worlds](../../ai/research/arxiv-2606-26964.md) ([Source](https://arxiv.org/abs/2606.26964)) - `ai/research`
+342. [ReFreeKV: Towards Threshold-Free KV Cache Compression](../../ai/research/arxiv-2502-16886.md) ([Source](https://arxiv.org/abs/2502.16886)) - `ai/research`
+343. [DMind Benchmark: Toward a Holistic Assessment of LLM Capabilities across the Web3 Domain](../../ai/research/arxiv-2504-16116.md) ([Source](https://arxiv.org/abs/2504.16116)) - `ai/research`
+344. [Seven Security Challenges That Must be Solved in Cross-domain Multi-agent LLM Systems](../../ai/agents/arxiv-2505-23847.md) ([Source](https://arxiv.org/abs/2505.23847)) - `ai/agents`
+345. [PRISON: Unmasking the Criminal Potential of Large Language Models](../../ai/rag/arxiv-2506-16150.md) ([Source](https://arxiv.org/abs/2506.16150)) - `ai/rag`
+346. [LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](../../ai/agents/arxiv-2508-12232.md) ([Source](https://arxiv.org/abs/2508.12232)) - `ai/agents`
+347. [SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](../../ai/research/arxiv-2508-12410.md) ([Source](https://arxiv.org/abs/2508.12410)) - `ai/research`
+348. [Unbiased Binning for Fairness-aware Attribute Representation](../../ai/research/arxiv-2509-21785.md) ([Source](https://arxiv.org/abs/2509.21785)) - `ai/research`
+349. [MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation](../../ai/research/arxiv-2510-10271.md) ([Source](https://arxiv.org/abs/2510.10271)) - `ai/research`
+350. [A Primer on SO(3) Action Representations in Deep Reinforcement Learning](../../ai/research/arxiv-2510-11103.md) ([Source](https://arxiv.org/abs/2510.11103)) - `ai/research`
+351. [Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification](../../ai/rag/arxiv-2511-03217.md) ([Source](https://arxiv.org/abs/2511.03217)) - `ai/rag`
+352. [Hybrid coupling with operator inference and the overlapping Schwarz alternating method](../../ai/rag/arxiv-2511-20687.md) ([Source](https://arxiv.org/abs/2511.20687)) - `ai/rag`
+353. [Pixelwise Uncertainty Quantification of Accelerated MRI Reconstruction](../../ai/research/arxiv-2601-13236.md) ([Source](https://arxiv.org/abs/2601.13236)) - `ai/research`
+354. [Psychometric Comparability of LLM-Based Digital Twins](../../ai/research/arxiv-2601-14264.md) ([Source](https://arxiv.org/abs/2601.14264)) - `ai/research`
+355. [DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](../../ai/research/arxiv-2601-14302.md) ([Source](https://arxiv.org/abs/2601.14302)) - `ai/research`
+356. [Robustness of Constraint Automata for Description Logics with Concrete Domains](../../ai/research/arxiv-2601-19644.md) ([Source](https://arxiv.org/abs/2601.19644)) - `ai/research`
+357. [Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs](../../ai/research/arxiv-2601-22709.md) ([Source](https://arxiv.org/abs/2601.22709)) - `ai/research`
+358. [When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](../../ai/research/arxiv-2602-10179.md) ([Source](https://arxiv.org/abs/2602.10179)) - `ai/research`
+359. [MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction](../../ai/rag/arxiv-2603-03710.md) ([Source](https://arxiv.org/abs/2603.03710)) - `ai/rag`
+360. [Measuring the Redundancy of Decoder Layers in SpeechLLMs](../../ai/research/arxiv-2603-05121.md) ([Source](https://arxiv.org/abs/2603.05121)) - `ai/research`
+361. [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](../../ai/agents/arxiv-2603-09731.md) ([Source](https://arxiv.org/abs/2603.09731)) - `ai/agents`
+362. [HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering](../../ai/research/arxiv-2603-18558.md) ([Source](https://arxiv.org/abs/2603.18558)) - `ai/research`
+363. [IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models](../../ai/research/arxiv-2604-00757.md) ([Source](https://arxiv.org/abs/2604.00757)) - `ai/research`
+364. [Can LLMs Reason About Attention? Towards Zero-Shot Analysis of Multimodal Classroom Behavior](../../ai/research/arxiv-2604-03401.md) ([Source](https://arxiv.org/abs/2604.03401)) - `ai/research`
+365. [GenMatter: Perceiving Physical Objects with Generative Matter Models](../../ai/research/arxiv-2604-22160.md) ([Source](https://arxiv.org/abs/2604.22160)) - `ai/research`
+366. [The Alignment Target Problem: Divergent Moral Judgments of Humans, AI Systems, and Their Designers](../../ai/agents/arxiv-2604-24155.md) ([Source](https://arxiv.org/abs/2604.24155)) - `ai/agents`
+367. [Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout](../../ai/research/arxiv-2605-05092.md) ([Source](https://arxiv.org/abs/2605.05092)) - `ai/research`
+368. [EAGT: Echocardiography Augmentation for Generalisability and Transferability](../../ai/research/arxiv-2605-16427.md) ([Source](https://arxiv.org/abs/2605.16427)) - `ai/research`
+369. [FormalASR: End-to-End Spoken Chinese to Formal Text](../../ai/research/arxiv-2605-19266.md) ([Source](https://arxiv.org/abs/2605.19266)) - `ai/research`
+370. [Do Vision Models Truly Forget? New Findings from Representation-Level Certification of Visual Unlearning in Vertical Federated Learning](../../ai/rag/arxiv-2605-20282.md) ([Source](https://arxiv.org/abs/2605.20282)) - `ai/rag`
+371. [Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution](../../ai/research/arxiv-2605-23264.md) ([Source](https://arxiv.org/abs/2605.23264)) - `ai/research`
+372. [$\tau$-Rec: A Verifiable Benchmark for Agentic Recommender Systems](../../ai/agents/arxiv-2606-10156.md) ([Source](https://arxiv.org/abs/2606.10156)) - `ai/agents`
+373. [Adaptive Turn-Taking for Real-time Multi-Party Voice Agents](../../ai/agents/arxiv-2606-13544.md) ([Source](https://arxiv.org/abs/2606.13544)) - `ai/agents`
+374. [Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](../../ai/rag/arxiv-2606-16494.md) ([Source](https://arxiv.org/abs/2606.16494)) - `ai/rag`
+375. [FP8 is All You Need (Part 2): Efficient Ozaki-Bailey Style FFT Through Tensor-core Garner Reformulation and Kulisch Escape Route](../../ai/research/arxiv-2606-23698.md) ([Source](https://arxiv.org/abs/2606.23698)) - `ai/research`
+376. [ZONOS2 Technical Report](../../ai/research/arxiv-2606-24320.md) ([Source](https://arxiv.org/abs/2606.24320)) - `ai/research`
+377. [Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety](../../ai/research/arxiv-2606-25034.md) ([Source](https://arxiv.org/abs/2606.25034)) - `ai/research`
+378. [Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training](../../ai/research/arxiv-2606-26102.md) ([Source](https://arxiv.org/abs/2606.26102)) - `ai/research`
+379. [Assert, don't describe: Linguistic features that shift LLM reasoning about animal welfare](../../ai/research/arxiv-2606-26104.md) ([Source](https://arxiv.org/abs/2606.26104)) - `ai/research`
+380. [DiARC: Distinguishing Positive and Negative Samples Helps Improving ARC-like Reasoning Ability of Large Language Models](../../ai/research/arxiv-2606-26530.md) ([Source](https://arxiv.org/abs/2606.26530)) - `ai/research`
 
 ## Weekly Company Updates
 
@@ -1839,502 +1892,511 @@ No updates collected under this section this week.
 2. [astral-sh/uv](../../ai/resources/astral-sh-uv.md) ([Source](https://github.com/astral-sh/uv)) (Stars: 0, Language: Unknown) - `ai/resources`
 3. [evanw/esbuild](../../ai/resources/evanw-esbuild.md) ([Source](https://github.com/evanw/esbuild)) (Stars: 0, Language: Unknown) - `ai/resources`
 4. [hashicorp/terraform](../../ai/resources/hashicorp-terraform.md) ([Source](https://github.com/hashicorp/terraform)) (Stars: 0, Language: Unknown) - `ai/resources`
-5. [VivekMalhan666/npm-package-combobox](../../ai/resources/vivekmalhan666-npm-package-combobox.md) ([Source](https://github.com/vivekmalhan666/npm-package-combobox)) (Stars: 0, Language: Unknown) - `ai/resources`
-6. [langgenius/dify-docs](../../ai/resources/langgenius-dify-docs.md) ([Source](https://github.com/langgenius/dify-docs)) (Stars: 0, Language: Unknown) - `ai/resources`
-7. [RAIVNLab/MRL](../../ai/resources/raivnlab-mrl.md) ([Source](https://github.com/raivnlab/mrl)) (Stars: 0, Language: Unknown) - `ai/resources`
-8. [astral-sh/ruff](../../ai/resources/astral-sh-ruff.md) ([Source](https://github.com/astral-sh/ruff)) (Stars: 0, Language: Unknown) - `ai/resources`
-9. [aip-dev/google.aip.dev](../../ai/resources/aip-dev-google-aip-dev.md) ([Source](https://github.com/aip-dev/google.aip.dev)) (Stars: 0, Language: Unknown) - `ai/resources`
-10. [nodejs/node](../../ai/resources/nodejs-node.md) ([Source](https://github.com/nodejs/node)) (Stars: 0, Language: Unknown) - `ai/resources`
-11. [GoogleCloudPlatform/vertex-ai-samples](../../ai/resources/googlecloudplatform-vertex-ai-samples.md) ([Source](https://github.com/googlecloudplatform/vertex-ai-samples)) (Stars: 0, Language: Unknown) - `ai/resources`
-12. [git/git](../../ai/resources/git-git.md) ([Source](https://github.com/git/git)) (Stars: 0, Language: Unknown) - `ai/resources`
-13. [python/mypy](../../ai/resources/python-mypy.md) ([Source](https://github.com/python/mypy)) (Stars: 0, Language: Unknown) - `ai/resources`
-14. [googleapis/googleapis](../../ai/resources/googleapis-googleapis.md) ([Source](https://github.com/googleapis/googleapis)) (Stars: 0, Language: Unknown) - `ai/resources`
-15. [supermldev/genvoice-ai](../../ai/resources/supermldev-genvoice-ai.md) ([Source](https://github.com/supermldev/genvoice-ai)) (Stars: 0, Language: Unknown) - `ai/resources`
-16. [numpy/numpy](../../ai/resources/numpy-numpy.md) ([Source](https://github.com/numpy/numpy)) (Stars: 0, Language: Unknown) - `ai/resources`
-17. [jupyter/jupyter](../../ai/resources/jupyter-jupyter.md) ([Source](https://github.com/jupyter/jupyter)) (Stars: 0, Language: Unknown) - `ai/resources`
-18. [github/codeql](../../ai/resources/github-codeql.md) ([Source](https://github.com/github/codeql)) (Stars: 0, Language: Unknown) - `ai/resources`
-19. [cloudflare/mcp](../../ai/resources/cloudflare-mcp.md) ([Source](https://github.com/cloudflare/mcp)) (Stars: 0, Language: Unknown) - `ai/resources`
-20. [cloudflare/mcp-server-cloudflare](../../ai/resources/cloudflare-mcp-server-cloudflare.md) ([Source](https://github.com/cloudflare/mcp-server-cloudflare)) (Stars: 0, Language: Unknown) - `ai/resources`
-21. [SpeechifyInc/ai-api-examples](../../ai/resources/speechifyinc-ai-api-examples.md) ([Source](https://github.com/speechifyinc/ai-api-examples)) (Stars: 0, Language: Unknown) - `ai/resources`
-22. [webmproject/libwebp](../../ai/resources/webmproject-libwebp.md) ([Source](https://github.com/webmproject/libwebp)) (Stars: 0, Language: Unknown) - `ai/resources`
-23. [electron/fiddle](../../ai/resources/electron-fiddle.md) ([Source](https://github.com/electron/fiddle)) (Stars: 0, Language: Unknown) - `ai/resources`
-24. [Medium/policy](../../ai/resources/medium-policy.md) ([Source](https://github.com/medium/policy)) (Stars: 0, Language: Unknown) - `ai/resources`
-25. [adityatelange/hugo-PaperMod](../../ai/resources/adityatelange-hugo-papermod.md) ([Source](https://github.com/adityatelange/hugo-papermod)) (Stars: 0, Language: Unknown) - `ai/resources`
-26. [discourse/discourse](../../ai/resources/discourse-discourse.md) ([Source](https://github.com/discourse/discourse)) (Stars: 0, Language: Unknown) - `ai/resources`
-27. [pypa/hatch](../../ai/resources/pypa-hatch.md) ([Source](https://github.com/pypa/hatch)) (Stars: 0, Language: Unknown) - `ai/resources`
-28. [yarnpkg/berry](../../ai/resources/yarnpkg-berry.md) ([Source](https://github.com/yarnpkg/berry)) (Stars: 0, Language: Unknown) - `ai/resources`
-29. [plusai-solutions/ai-scrum-master-template](../../ai/rag/plusai-solutions-ai-scrum-master-template.md) ([Source](https://github.com/plusai-solutions/ai-scrum-master-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-30. [mem0ai/mem0](../../ai/rag/mem0ai-mem0.md) ([Source](https://github.com/mem0ai/mem0)) (Stars: 0, Language: Unknown) - `ai/rag`
-31. [Polymarket/agents](../../ai/rag/polymarket-agents.md) ([Source](https://github.com/polymarket/agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-32. [datarobot-community/datarobot-agent-templates](../../ai/rag/datarobot-community-datarobot-agent-templates.md) ([Source](https://github.com/datarobot-community/datarobot-agent-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
-33. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([Source](https://github.com/the-swarm-corporation/multi-agent-rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-34. [chroma-core/chroma](../../ai/rag/chroma-core-chroma.md) ([Source](https://github.com/chroma-core/chroma)) (Stars: 0, Language: Unknown) - `ai/rag`
-35. [langchain-ai/langgraph-swarm-py](../../ai/rag/langchain-ai-langgraph-swarm-py.md) ([Source](https://github.com/langchain-ai/langgraph-swarm-py)) (Stars: 0, Language: Unknown) - `ai/rag`
-36. [crazyaiml/nl-2-sql-agent](../../ai/rag/crazyaiml-nl-2-sql-agent.md) ([Source](https://github.com/crazyaiml/nl-2-sql-agent)) (Stars: 0, Language: Unknown) - `ai/rag`
-37. [agent0ai/agent-zero](../../ai/rag/agent0ai-agent-zero.md) ([Source](https://github.com/agent0ai/agent-zero)) (Stars: 0, Language: Unknown) - `ai/rag`
-38. [NVIDIA/SkillSpector](../../ai/rag/nvidia-skillspector.md) ([Source](https://github.com/nvidia/skillspector)) (Stars: 0, Language: Unknown) - `ai/rag`
-39. [TauricResearch/TradingAgents](../../ai/rag/tauricresearch-tradingagents.md) ([Source](https://github.com/tauricresearch/tradingagents)) (Stars: 0, Language: Unknown) - `ai/rag`
-40. [Tracer-Cloud/opensre](../../ai/rag/tracer-cloud-opensre.md) ([Source](https://github.com/tracer-cloud/opensre)) (Stars: 0, Language: Unknown) - `ai/rag`
-41. [DeckardGer/tanstack-agent-skills](../../ai/rag/deckardger-tanstack-agent-skills.md) ([Source](https://github.com/deckardger/tanstack-agent-skills)) (Stars: 0, Language: Unknown) - `ai/rag`
-42. [langchain-ai/langgraphjs](../../ai/rag/langchain-ai-langgraphjs.md) ([Source](https://github.com/langchain-ai/langgraphjs)) (Stars: 0, Language: Unknown) - `ai/rag`
-43. [Kotlin/Kotlin-AI-Examples](../../ai/rag/kotlin-kotlin-ai-examples.md) ([Source](https://github.com/kotlin/kotlin-ai-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
-44. [microsoft/ai-agents-for-beginners](../../ai/rag/microsoft-ai-agents-for-beginners.md) ([Source](https://github.com/microsoft/ai-agents-for-beginners)) (Stars: 0, Language: Unknown) - `ai/rag`
-45. [reworkd/AgentGPT](../../ai/rag/reworkd-agentgpt.md) ([Source](https://github.com/reworkd/agentgpt)) (Stars: 0, Language: Unknown) - `ai/rag`
-46. [google-gemini/gemini-fullstack-langgraph-quickstart](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([Source](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)) (Stars: 0, Language: Unknown) - `ai/rag`
-47. [daveshap/OpenAI_Agent_Swarm](../../ai/rag/daveshap-openai-agent-swarm.md) ([Source](https://github.com/daveshap/openai_agent_swarm)) (Stars: 0, Language: Unknown) - `ai/rag`
-48. [VivekMalhan666/rag-beginner-guide](../../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([Source](https://github.com/vivekmalhan666/rag-beginner-guide)) (Stars: 0, Language: Unknown) - `ai/rag`
-49. [pgvector/pgvector](../../ai/rag/pgvector-pgvector.md) ([Source](https://github.com/pgvector/pgvector)) (Stars: 0, Language: Unknown) - `ai/rag`
-50. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
-51. [hectorpine/multiple-model-crew](../../ai/rag/hectorpine-multiple-model-crew.md) ([Source](https://github.com/hectorpine/multiple-model-crew)) (Stars: 0, Language: Unknown) - `ai/rag`
-52. [cloudflare/workerd](../../ai/rag/cloudflare-workerd.md) ([Source](https://github.com/cloudflare/workerd)) (Stars: 0, Language: Unknown) - `ai/rag`
-53. [panaversity/langgraph-agents-template](../../ai/rag/panaversity-langgraph-agents-template.md) ([Source](https://github.com/panaversity/langgraph-agents-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-54. [microsoft/vscode](../../ai/rag/microsoft-vscode.md) ([Source](https://github.com/microsoft/vscode)) (Stars: 0, Language: Unknown) - `ai/rag`
-55. [pnpm/pnpm](../../ai/rag/pnpm-pnpm.md) ([Source](https://github.com/pnpm/pnpm)) (Stars: 0, Language: Unknown) - `ai/rag`
-56. [truefoundry/cognita](../../ai/rag/truefoundry-cognita.md) ([Source](https://github.com/truefoundry/cognita)) (Stars: 0, Language: Unknown) - `ai/rag`
-57. [linagora/openrag](../../ai/rag/linagora-openrag.md) ([Source](https://github.com/linagora/openrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-58. [liangdabiao/easy_investment_Agent_crewai](../../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([Source](https://github.com/liangdabiao/easy_investment_agent_crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
-59. [electron/electron](../../ai/rag/electron-electron.md) ([Source](https://github.com/electron/electron)) (Stars: 0, Language: Unknown) - `ai/rag`
-60. [jim-schwoebel/awesome_ai_agents](../../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([Source](https://github.com/jim-schwoebel/awesome_ai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-61. [zai-org/Open-AutoGLM](../../ai/rag/zai-org-open-autoglm.md) ([Source](https://github.com/zai-org/open-autoglm)) (Stars: 0, Language: Unknown) - `ai/rag`
-62. [deepset-ai/haystack-cookbook](../../ai/rag/deepset-ai-haystack-cookbook.md) ([Source](https://github.com/deepset-ai/haystack-cookbook)) (Stars: 0, Language: Unknown) - `ai/rag`
-63. [cmAIdx/headless-claude-automation-template](../../ai/rag/cmaidx-headless-claude-automation-template.md) ([Source](https://github.com/cmaidx/headless-claude-automation-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-64. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
-65. [esxr/langgraph-mcp](../../ai/rag/esxr-langgraph-mcp.md) ([Source](https://github.com/esxr/langgraph-mcp)) (Stars: 0, Language: Unknown) - `ai/rag`
-66. [rohitg00/agentmemory](../../ai/rag/rohitg00-agentmemory.md) ([Source](https://github.com/rohitg00/agentmemory)) (Stars: 0, Language: Unknown) - `ai/rag`
-67. [langchain-ai/retrieval-agent-template](../../ai/rag/langchain-ai-retrieval-agent-template.md) ([Source](https://github.com/langchain-ai/retrieval-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-68. [langchain-ai/langgraph](../../ai/rag/langchain-ai-langgraph.md) ([Source](https://github.com/langchain-ai/langgraph)) (Stars: 0, Language: Unknown) - `ai/rag`
-69. [awesome-opencode/awesome-opencode](../../ai/rag/awesome-opencode-awesome-opencode.md) ([Source](https://github.com/awesome-opencode/awesome-opencode)) (Stars: 0, Language: Unknown) - `ai/rag`
-70. [mayooear/ai-pdf-chatbot-langchain](../../ai/rag/mayooear-ai-pdf-chatbot-langchain.md) ([Source](https://github.com/mayooear/ai-pdf-chatbot-langchain)) (Stars: 0, Language: Unknown) - `ai/rag`
-71. [NicholasGoh/fastapi-mcp-langgraph-template](../../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) ([Source](https://github.com/nicholasgoh/fastapi-mcp-langgraph-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-72. [braincrew-lab/langgraph-mcp-agents](../../ai/rag/braincrew-lab-langgraph-mcp-agents.md) ([Source](https://github.com/braincrew-lab/langgraph-mcp-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-73. [mvanhorn/clawdbot-skill-manus](../../ai/rag/mvanhorn-clawdbot-skill-manus.md) ([Source](https://github.com/mvanhorn/clawdbot-skill-manus)) (Stars: 0, Language: Unknown) - `ai/rag`
-74. [Andrew-Jang/RAGHub](../../ai/rag/andrew-jang-raghub.md) ([Source](https://github.com/andrew-jang/raghub)) (Stars: 0, Language: Unknown) - `ai/rag`
-75. [GoogleCloudPlatform/generative-ai](../../ai/rag/googlecloudplatform-generative-ai.md) ([Source](https://github.com/googlecloudplatform/generative-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
-76. [run-llama/llama_deploy](../../ai/rag/run-llama-llama-deploy.md) ([Source](https://github.com/run-llama/llama_deploy)) (Stars: 0, Language: Unknown) - `ai/rag`
-77. [crazyaiml/Superml.DataTruth](../../ai/rag/crazyaiml-superml-datatruth.md) ([Source](https://github.com/crazyaiml/superml.datatruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-78. [HKUDS/LightRAG](../../ai/rag/hkuds-lightrag.md) ([Source](https://github.com/hkuds/lightrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-79. [tomasonjo/langchain-neo4j](../../ai/rag/tomasonjo-langchain-neo4j.md) ([Source](https://github.com/tomasonjo/langchain-neo4j)) (Stars: 0, Language: Unknown) - `ai/rag`
-80. [vercel-labs/open-agents](../../ai/rag/vercel-labs-open-agents.md) ([Source](https://github.com/vercel-labs/open-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-81. [FlowiseAI/Flowise](../../ai/rag/flowiseai-flowise.md) ([Source](https://github.com/flowiseai/flowise)) (Stars: 0, Language: Unknown) - `ai/rag`
-82. [aomediacodec/libavif](../../ai/rag/aomediacodec-libavif.md) ([Source](https://github.com/aomediacodec/libavif)) (Stars: 0, Language: Unknown) - `ai/rag`
-83. [virattt/dexter](../../ai/rag/virattt-dexter.md) ([Source](https://github.com/virattt/dexter)) (Stars: 0, Language: Unknown) - `ai/rag`
-84. [protocolbuffers/protobuf](../../ai/rag/protocolbuffers-protobuf.md) ([Source](https://github.com/protocolbuffers/protobuf)) (Stars: 0, Language: Unknown) - `ai/rag`
-85. [lgesuellip/langgraph-whatsapp-agent](../../ai/rag/lgesuellip-langgraph-whatsapp-agent.md) ([Source](https://github.com/lgesuellip/langgraph-whatsapp-agent)) (Stars: 0, Language: Unknown) - `ai/rag`
-86. [openai/tiktoken](../../ai/rag/openai-tiktoken.md) ([Source](https://github.com/openai/tiktoken)) (Stars: 0, Language: Unknown) - `ai/rag`
-87. [vercel-labs/knowledge-agent-template](../../ai/rag/vercel-labs-knowledge-agent-template.md) ([Source](https://github.com/vercel-labs/knowledge-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-88. [cli/cli](../../ai/rag/cli-cli.md) ([Source](https://github.com/cli/cli)) (Stars: 0, Language: Unknown) - `ai/rag`
-89. [tonykipkemboi/trip_planner_agent](../../ai/rag/tonykipkemboi-trip-planner-agent.md) ([Source](https://github.com/tonykipkemboi/trip_planner_agent)) (Stars: 0, Language: Unknown) - `ai/rag`
-90. [cline/cline](../../ai/rag/cline-cline.md) ([Source](https://github.com/cline/cline)) (Stars: 0, Language: Unknown) - `ai/rag`
-91. [kyrolabs/awesome-agents](../../ai/rag/kyrolabs-awesome-agents.md) ([Source](https://github.com/kyrolabs/awesome-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-92. [crewAIInc/awesome-crewai](../../ai/agents/crewaiinc-awesome-crewai.md) ([Source](https://github.com/crewaiinc/awesome-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
-93. [vin67/crewai_docker](../../ai/agents/vin67-crewai-docker.md) ([Source](https://github.com/vin67/crewai_docker)) (Stars: 0, Language: Unknown) - `ai/agents`
-94. [scotthavird/crewai-template](../../ai/agents/scotthavird-crewai-template.md) ([Source](https://github.com/scotthavird/crewai-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-95. [cisco-ai-defense/defenseclaw](../../ai/agents/cisco-ai-defense-defenseclaw.md) ([Source](https://github.com/cisco-ai-defense/defenseclaw)) (Stars: 0, Language: Unknown) - `ai/agents`
-96. [run-llama/llama-cloud-ts](../../ai/agents/run-llama-llama-cloud-ts.md) ([Source](https://github.com/run-llama/llama-cloud-ts)) (Stars: 0, Language: Unknown) - `ai/agents`
-97. [LangChain-OpenTutorial/LangChain-OpenTutorial](../../ai/agents/langchain-opentutorial-langchain-opentutorial.md) ([Source](https://github.com/langchain-opentutorial/langchain-opentutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-98. [Fosowl/agenticSeek](../../ai/agents/fosowl-agenticseek.md) ([Source](https://github.com/fosowl/agenticseek)) (Stars: 0, Language: Unknown) - `ai/agents`
-99. [alexfazio/crewAI-quickstart](../../ai/agents/alexfazio-crewai-quickstart.md) ([Source](https://github.com/alexfazio/crewai-quickstart)) (Stars: 0, Language: Unknown) - `ai/agents`
-100. [daimon111/daimon-template](../../ai/agents/daimon111-daimon-template.md) ([Source](https://github.com/daimon111/daimon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-101. [langchain-ai/open-swe](../../ai/agents/langchain-ai-open-swe.md) ([Source](https://github.com/langchain-ai/open-swe)) (Stars: 0, Language: Unknown) - `ai/agents`
-102. [openai/mle-bench](../../ai/agents/openai-mle-bench.md) ([Source](https://github.com/openai/mle-bench)) (Stars: 0, Language: Unknown) - `ai/agents`
-103. [transitive-bullshit/agentic](../../ai/agents/transitive-bullshit-agentic.md) ([Source](https://github.com/transitive-bullshit/agentic)) (Stars: 0, Language: Unknown) - `ai/agents`
-104. [mergisi/awesome-openclaw-agents](../../ai/agents/mergisi-awesome-openclaw-agents.md) ([Source](https://github.com/mergisi/awesome-openclaw-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-105. [The-Swarm-Corporation/Multi-Agent-Template-App](../../ai/agents/the-swarm-corporation-multi-agent-template-app.md) ([Source](https://github.com/the-swarm-corporation/multi-agent-template-app)) (Stars: 0, Language: Unknown) - `ai/agents`
-106. [pguso/ai-agents-from-scratch](../../ai/agents/pguso-ai-agents-from-scratch.md) ([Source](https://github.com/pguso/ai-agents-from-scratch)) (Stars: 0, Language: Unknown) - `ai/agents`
-107. [0xSteph/pentest-ai-agents](../../ai/agents/0xsteph-pentest-ai-agents.md) ([Source](https://github.com/0xsteph/pentest-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-108. [atticus98/codex-turbo](../../ai/agents/atticus98-codex-turbo.md) ([Source](https://github.com/atticus98/codex-turbo)) (Stars: 0, Language: Unknown) - `ai/agents`
-109. [gptme/gptme-agent-template](../../ai/agents/gptme-gptme-agent-template.md) ([Source](https://github.com/gptme/gptme-agent-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-110. [odsc2015/agentic-hackathon-template](../../ai/agents/odsc2015-agentic-hackathon-template.md) ([Source](https://github.com/odsc2015/agentic-hackathon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-111. [fparpas/Developing-Agentic-AI-Apps-Hackathon](../../ai/agents/fparpas-developing-agentic-ai-apps-hackathon.md) ([Source](https://github.com/fparpas/developing-agentic-ai-apps-hackathon)) (Stars: 0, Language: Unknown) - `ai/agents`
-112. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) (Stars: 0, Language: Unknown) - `ai/agents`
-113. [langchain-ai/data-enrichment](../../ai/agents/langchain-ai-data-enrichment.md) ([Source](https://github.com/langchain-ai/data-enrichment)) (Stars: 0, Language: Unknown) - `ai/agents`
-114. [activepieces/activepieces](../../ai/agents/activepieces-activepieces.md) ([Source](https://github.com/activepieces/activepieces)) (Stars: 0, Language: Unknown) - `ai/agents`
-115. [duanyytop/agents-radar](../../ai/agents/duanyytop-agents-radar.md) ([Source](https://github.com/duanyytop/agents-radar)) (Stars: 0, Language: Unknown) - `ai/agents`
-116. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) (Stars: 0, Language: Unknown) - `ai/agents`
-117. [vonzosten/awesome-LangGraph](../../ai/agents/vonzosten-awesome-langgraph.md) ([Source](https://github.com/vonzosten/awesome-langgraph)) (Stars: 0, Language: Unknown) - `ai/agents`
-118. [AhsanAyaz/ai-agents-google-adk](../../ai/agents/ahsanayaz-ai-agents-google-adk.md) ([Source](https://github.com/ahsanayaz/ai-agents-google-adk)) (Stars: 0, Language: Unknown) - `ai/agents`
-119. [JoshuaC215/agent-service-toolkit](../../ai/agents/joshuac215-agent-service-toolkit.md) ([Source](https://github.com/joshuac215/agent-service-toolkit)) (Stars: 0, Language: Unknown) - `ai/agents`
-120. [SamuelSchmidgall/AgentLaboratory](../../ai/agents/samuelschmidgall-agentlaboratory.md) ([Source](https://github.com/samuelschmidgall/agentlaboratory)) (Stars: 0, Language: Unknown) - `ai/agents`
-121. [langchain-ai/react-agent](../../ai/agents/langchain-ai-react-agent.md) ([Source](https://github.com/langchain-ai/react-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-122. [crewAIInc/crewAI-tools](../../ai/agents/crewaiinc-crewai-tools.md) ([Source](https://github.com/crewaiinc/crewai-tools)) (Stars: 0, Language: Unknown) - `ai/agents`
-123. [secret-mars/loop-starter-kit](../../ai/agents/secret-mars-loop-starter-kit.md) ([Source](https://github.com/secret-mars/loop-starter-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
-124. [The-Pocket/PocketFlow-Template-Python](../../ai/agents/the-pocket-pocketflow-template-python.md) ([Source](https://github.com/the-pocket/pocketflow-template-python)) (Stars: 0, Language: Unknown) - `ai/agents`
-125. [agentuniverse-ai/agentUniverse](../../ai/agents/agentuniverse-ai-agentuniverse.md) ([Source](https://github.com/agentuniverse-ai/agentuniverse)) (Stars: 0, Language: Unknown) - `ai/agents`
-126. [muhammad-uzair-yasin/CrewAi_starter_template](../../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([Source](https://github.com/muhammad-uzair-yasin/crewai_starter_template)) (Stars: 0, Language: Unknown) - `ai/agents`
-127. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([Source](https://github.com/ksm26/multi-ai-agent-systems-with-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
-128. [czl9707/build-your-own-openclaw](../../ai/agents/czl9707-build-your-own-openclaw.md) ([Source](https://github.com/czl9707/build-your-own-openclaw)) (Stars: 0, Language: Unknown) - `ai/agents`
-129. [coleam00/agentic-chat-application-template](../../ai/agents/coleam00-agentic-chat-application-template.md) ([Source](https://github.com/coleam00/agentic-chat-application-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-130. [strnad/CrewAI-Studio](../../ai/agents/strnad-crewai-studio.md) ([Source](https://github.com/strnad/crewai-studio)) (Stars: 0, Language: Unknown) - `ai/agents`
-131. [langchain-ai/new-langgraphjs-project](../../ai/agents/langchain-ai-new-langgraphjs-project.md) ([Source](https://github.com/langchain-ai/new-langgraphjs-project)) (Stars: 0, Language: Unknown) - `ai/agents`
-132. [sanbuphy/learn-coding-agent](../../ai/agents/sanbuphy-learn-coding-agent.md) ([Source](https://github.com/sanbuphy/learn-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-133. [earendil-works/pi](../../ai/agents/earendil-works-pi.md) ([Source](https://github.com/earendil-works/pi)) (Stars: 0, Language: Unknown) - `ai/agents`
-134. [masumi-network/crewai-masumi-quickstart-template](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([Source](https://github.com/masumi-network/crewai-masumi-quickstart-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-135. [airalab/autonomous_agent_template](../../ai/agents/airalab-autonomous-agent-template.md) ([Source](https://github.com/airalab/autonomous_agent_template)) (Stars: 0, Language: Unknown) - `ai/agents`
-136. [addyosmani/agent-skills](../../ai/agents/addyosmani-agent-skills.md) ([Source](https://github.com/addyosmani/agent-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
-137. [JCodesMore/ai-website-cloner-template](../../ai/agents/jcodesmore-ai-website-cloner-template.md) ([Source](https://github.com/jcodesmore/ai-website-cloner-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-138. [Sri-Krishna-V/awesome-adk-agents](../../ai/agents/sri-krishna-v-awesome-adk-agents.md) ([Source](https://github.com/sri-krishna-v/awesome-adk-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-139. [langchain-ai/deepagentsjs](../../ai/agents/langchain-ai-deepagentsjs.md) ([Source](https://github.com/langchain-ai/deepagentsjs)) (Stars: 0, Language: Unknown) - `ai/agents`
-140. [pingwu/crewai-similar-framework-finder-template](../../ai/agents/pingwu-crewai-similar-framework-finder-template.md) ([Source](https://github.com/pingwu/crewai-similar-framework-finder-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-141. [codrops/ScrollBasedLayoutAnimations](../../web-development/gsap/codrops-scrollbasedlayoutanimations.md) ([Source](https://github.com/codrops/scrollbasedlayoutanimations)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-142. [chrisgannon/ScrollLottie](../../web-development/gsap/chrisgannon-scrolllottie.md) ([Source](https://github.com/chrisgannon/scrolllottie)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-143. [codebucks27/The-Weirdos-NFT-Website-Starter-Code](../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md) ([Source](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-144. [codebucks27/3D-Landing-page-for-Apple-iPhone](../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) ([Source](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-145. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([Source](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-146. [ShowravKormokar/capsule](../../web-development/gsap/showravkormokar-capsule.md) ([Source](https://github.com/showravkormokar/capsule)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-147. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
-148. [ykob/sketch-threejs](../../web-development/threejs/ykob-sketch-threejs.md) ([Source](https://github.com/ykob/sketch-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-149. [mrdoob/three.js](../../web-development/threejs/mrdoob-three-js.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-150. [luosijie/threejs-examples](../../web-development/threejs/luosijie-threejs-examples.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-151. [davidlyons/threejs-intro](../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-152. [fireship-io/threejs-scroll-animation-demo](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-153. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-154. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
-155. [mkkellogg/GaussianSplats3D](../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-156. [vasturiano/3d-force-graph](../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-157. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-158. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-159. [gkjohnson/threejs-sandbox](../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-160. [xiao149/ThreeJsDemo](../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-161. [puxiao/threejs-tutorial](../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-162. [z2586300277/three-cesium-examples](../../web-development/threejs/z2586300277-three-cesium-examples.md) ([Source](https://github.com/z2586300277/three-cesium-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-163. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([Source](https://github.com/dhruvmisra/pathfinding-visualizer-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-164. [wechat-miniprogram/threejs-miniprogram](../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([Source](https://github.com/wechat-miniprogram/threejs-miniprogram)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-165. [chenjsh36/ThreeJSForFun](../../web-development/threejs/chenjsh36-threejsforfun.md) ([Source](https://github.com/chenjsh36/threejsforfun)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-166. [wolfwind521/indoor3D](../../web-development/threejs/wolfwind521-indoor3d.md) ([Source](https://github.com/wolfwind521/indoor3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-167. [sanderblue/solar-system-threejs](../../web-development/threejs/sanderblue-solar-system-threejs.md) ([Source](https://github.com/sanderblue/solar-system-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-168. [spite/Wagner](../../web-development/threejs/spite-wagner.md) ([Source](https://github.com/spite/wagner)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-169. [fritx/vue-threejs](../../web-development/threejs/fritx-vue-threejs.md) ([Source](https://github.com/fritx/vue-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-170. [Mario343214420/Webgl-Data-Demo](../../web-development/threejs/mario343214420-webgl-data-demo.md) ([Source](https://github.com/mario343214420/webgl-data-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-171. [josdirksen/learning-threejs-third](../../web-development/threejs/josdirksen-learning-threejs-third.md) ([Source](https://github.com/josdirksen/learning-threejs-third)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-172. [nklsrh/BuildNewGames_ThreeJSGame](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([Source](https://github.com/nklsrh/buildnewgames_threejsgame)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-173. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-174. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-175. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-176. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-177. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-178. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-179. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-180. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-181. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-182. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-183. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-184. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-185. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-186. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-187. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-188. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-189. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-190. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-191. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-192. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-193. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-194. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-195. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-196. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-197. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-198. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-199. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-200. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-201. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-202. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-203. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-204. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-205. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-206. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-207. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-208. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-209. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-210. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-211. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-212. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-213. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-214. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-215. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-216. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-217. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-218. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-219. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-220. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-221. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-222. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-223. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-224. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-225. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-226. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-227. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-228. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-229. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-230. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-231. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-232. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-233. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-234. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-235. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-236. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-237. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-238. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-239. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-240. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-241. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-242. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-243. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-244. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-245. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-246. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-247. [nobruf/shadcn-landing-page](../../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source](https://github.com/nobruf/shadcn-landing-page)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-248. [shadcnblocks/mainline-nextjs-template](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md) ([Source](https://github.com/shadcnblocks/mainline-nextjs-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-249. [shadcnstore/shadcn-dashboard-landing-template](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source](https://github.com/shadcnstore/shadcn-dashboard-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-250. [saasykits/nextjs-sessionauth-template](../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md) ([Source](https://github.com/saasykits/nextjs-sessionauth-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-251. [ChangoMan/nextjs-mdx-blog](../../web-development/nextjs/changoman-nextjs-mdx-blog.md) ([Source](https://github.com/changoman/nextjs-mdx-blog)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-252. [jolbol1/nextjs-velite-blog-template](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md) ([Source](https://github.com/jolbol1/nextjs-velite-blog-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-253. [shadcnspace/shadcnspace](../../web-development/nextjs/shadcnspace-shadcnspace.md) ([Source](https://github.com/shadcnspace/shadcnspace)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-254. [ixartz/SaaS-Boilerplate](../../web-development/nextjs/ixartz-saas-boilerplate.md) ([Source](https://github.com/ixartz/saas-boilerplate)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-255. [linkb15/turborepo-shadcn-ui-tailwind-4](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md) ([Source](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-256. [enesien/venefish](../../web-development/nextjs/enesien-venefish.md) ([Source](https://github.com/enesien/venefish)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-257. [danybeltran/nextjs-typescript-and-postgresql](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md) ([Source](https://github.com/danybeltran/nextjs-typescript-and-postgresql)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-258. [NotStark/portfolio](../../web-development/nextjs/notstark-portfolio.md) ([Source](https://github.com/notstark/portfolio)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-259. [gonzalochale/saas-landing-template](../../web-development/nextjs/gonzalochale-saas-landing-template.md) ([Source](https://github.com/gonzalochale/saas-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-260. [reliverse/relivator](../../web-development/nextjs/reliverse-relivator.md) ([Source](https://github.com/reliverse/relivator)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-261. [pdsuwwz/nextjs-nextra-starter](../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md) ([Source](https://github.com/pdsuwwz/nextjs-nextra-starter)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-262. [redpangilinan/next-entree](../../web-development/nextjs/redpangilinan-next-entree.md) ([Source](https://github.com/redpangilinan/next-entree)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-263. [asbhogal/Fyrre-Magazine](../../web-development/nextjs/asbhogal-fyrre-magazine.md) ([Source](https://github.com/asbhogal/fyrre-magazine)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-264. [shadcn-ui/ui](../../web-development/shadcn-ui/shadcn-ui-ui.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-265. [birobirobiro/awesome-shadcn-ui](../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-266. [shadcn-ui/taxonomy](../../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([Source](https://github.com/shadcn-ui/taxonomy)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-267. [unovue/shadcn-vue](../../web-development/shadcn-ui/unovue-shadcn-vue.md) ([Source](https://github.com/unovue/shadcn-vue)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-268. [satnaing/shadcn-admin](../../web-development/shadcn-ui/satnaing-shadcn-admin.md) ([Source](https://github.com/satnaing/shadcn-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-269. [huntabyte/shadcn-svelte](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([Source](https://github.com/huntabyte/shadcn-svelte)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-270. [udecode/plate](../../web-development/shadcn-ui/udecode-plate.md) ([Source](https://github.com/udecode/plate)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-271. [Jpisnice/shadcn-ui-mcp-server](../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([Source](https://github.com/jpisnice/shadcn-ui-mcp-server)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-272. [nank1ro/flutter-shadcn-ui](../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md) ([Source](https://github.com/nank1ro/flutter-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-273. [salimi-my/shadcn-ui-sidebar](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([Source](https://github.com/salimi-my/shadcn-ui-sidebar)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-274. [nextjs/saas-starter](../../web-development/shadcn-ui/nextjs-saas-starter.md) ([Source](https://github.com/nextjs/saas-starter)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-275. [zerostaticthemes/square-ui](../../web-development/shadcn-ui/zerostaticthemes-square-ui.md) ([Source](https://github.com/zerostaticthemes/square-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-276. [vbenjs/vue-vben-admin](../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-277. [jnsahaj/tweakcn](../../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([Source](https://github.com/jnsahaj/tweakcn)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-278. [hsuanyi-chou/shadcn-ui-expansions](../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md) ([Source](https://github.com/hsuanyi-chou/shadcn-ui-expansions)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-279. [dan5py/turborepo-shadcn-ui](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([Source](https://github.com/dan5py/turborepo-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-280. [ObservedObserver/streamlit-shadcn-ui](../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([Source](https://github.com/observedobserver/streamlit-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-281. [dan5py/react-vite-shadcn-ui](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md) ([Source](https://github.com/dan5py/react-vite-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-282. [bytefer/awesome-shadcn-ui](../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md) ([Source](https://github.com/bytefer/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-283. [akash3444/shadcn-ui-blocks](../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md) ([Source](https://github.com/akash3444/shadcn-ui-blocks)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-284. [marmelab/atomic-crm](../../web-development/shadcn-ui/marmelab-atomic-crm.md) ([Source](https://github.com/marmelab/atomic-crm)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-285. [shadcn-ui/next-template](../../web-development/shadcn-ui/shadcn-ui-next-template.md) ([Source](https://github.com/shadcn-ui/next-template)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-286. [sadmann7/file-uploader](../../web-development/shadcn-ui/sadmann7-file-uploader.md) ([Source](https://github.com/sadmann7/file-uploader)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-287. [magicuidesign/portfolio](../../web-development/shadcn-ui/magicuidesign-portfolio.md) ([Source](https://github.com/magicuidesign/portfolio)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-288. [jln13x/ui.jln.dev](../../web-development/shadcn-ui/jln13x-ui-jln-dev.md) ([Source](https://github.com/jln13x/ui.jln.dev)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-289. [raga-ai-hub/RagaAI-Catalyst](../../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([Source](https://github.com/raga-ai-hub/ragaai-catalyst)) (Stars: 0, Language: Unknown) - `ai/rag`
-290. [truera/trulens](../../ai/agents/truera-trulens.md) ([Source](https://github.com/truera/trulens)) (Stars: 0, Language: Unknown) - `ai/agents`
-291. [Tencent/AI-Infra-Guard](../../ai/agents/tencent-ai-infra-guard.md) ([Source](https://github.com/tencent/ai-infra-guard)) (Stars: 0, Language: Unknown) - `ai/agents`
-292. [langwatch/langwatch](../../ai/agents/langwatch-langwatch.md) ([Source](https://github.com/langwatch/langwatch)) (Stars: 0, Language: Unknown) - `ai/agents`
-293. [interviewstreet/hiring-agent](../../ai/agents/interviewstreet-hiring-agent.md) ([Source](https://github.com/interviewstreet/hiring-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-294. [trpc-group/trpc-agent-go](../../ai/rag/trpc-group-trpc-agent-go.md) ([Source](https://github.com/trpc-group/trpc-agent-go)) (Stars: 0, Language: Unknown) - `ai/rag`
-295. [Flux159/mcp-chat](../../ai/agents/flux159-mcp-chat.md) ([Source](https://github.com/flux159/mcp-chat)) (Stars: 0, Language: Unknown) - `ai/agents`
-296. [GoogleCloudPlatform/agent-starter-pack](../../ai/agents/googlecloudplatform-agent-starter-pack.md) ([Source](https://github.com/googlecloudplatform/agent-starter-pack)) (Stars: 0, Language: Unknown) - `ai/agents`
-297. [qualifire-dev/rogue](../../ai/agents/qualifire-dev-rogue.md) ([Source](https://github.com/qualifire-dev/rogue)) (Stars: 0, Language: Unknown) - `ai/agents`
-298. [Tencent/AICGSecEval](../../ai/agents/tencent-aicgseceval.md) ([Source](https://github.com/tencent/aicgseceval)) (Stars: 0, Language: Unknown) - `ai/agents`
-299. [Arize-ai/phoenix](../../ai/rag/arize-ai-phoenix.md) ([Source](https://github.com/arize-ai/phoenix)) (Stars: 0, Language: Unknown) - `ai/rag`
-300. [oxbshw/LLM-Agents-Ecosystem-Handbook](../../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([Source](https://github.com/oxbshw/llm-agents-ecosystem-handbook)) (Stars: 0, Language: Unknown) - `ai/rag`
-301. [mozilla-ai/any-agent](../../ai/agents/mozilla-ai-any-agent.md) ([Source](https://github.com/mozilla-ai/any-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-302. [google/adk-go](../../ai/agents/google-adk-go.md) ([Source](https://github.com/google/adk-go)) (Stars: 0, Language: Unknown) - `ai/agents`
-303. [python-poetry/poetry](../../ai/resources/python-poetry-poetry.md) ([Source](https://github.com/python-poetry/poetry)) (Stars: 0, Language: Unknown) - `ai/resources`
-304. [cloudflare/cloudflare-docs](../../ai/resources/cloudflare-cloudflare-docs.md) ([Source](https://github.com/cloudflare/cloudflare-docs)) (Stars: 0, Language: Unknown) - `ai/resources`
-305. [run-llama/liteparse](../../ai/resources/run-llama-liteparse.md) ([Source](https://github.com/run-llama/liteparse)) (Stars: 0, Language: Unknown) - `ai/resources`
-306. [jupyterlab/jupyterlab](../../ai/resources/jupyterlab-jupyterlab.md) ([Source](https://github.com/jupyterlab/jupyterlab)) (Stars: 0, Language: Unknown) - `ai/resources`
-307. [python-poetry/poetry-core](../../ai/resources/python-poetry-poetry-core.md) ([Source](https://github.com/python-poetry/poetry-core)) (Stars: 0, Language: Unknown) - `ai/resources`
-308. [readthedocs/sphinx_rtd_theme](../../ai/resources/readthedocs-sphinx-rtd-theme.md) ([Source](https://github.com/readthedocs/sphinx_rtd_theme)) (Stars: 0, Language: Unknown) - `ai/resources`
-309. [sphinx-doc/sphinx](../../ai/resources/sphinx-doc-sphinx.md) ([Source](https://github.com/sphinx-doc/sphinx)) (Stars: 0, Language: Unknown) - `ai/resources`
-310. [pypa/trove-classifiers](../../ai/resources/pypa-trove-classifiers.md) ([Source](https://github.com/pypa/trove-classifiers)) (Stars: 0, Language: Unknown) - `ai/resources`
-311. [openai/openai-cookbook](../../ai/resources/openai-openai-cookbook.md) ([Source](https://github.com/openai/openai-cookbook)) (Stars: 0, Language: Unknown) - `ai/resources`
-312. [pradyunsg/furo](../../ai/resources/pradyunsg-furo.md) ([Source](https://github.com/pradyunsg/furo)) (Stars: 0, Language: Unknown) - `ai/resources`
-313. [nexB/license-expression](../../ai/resources/nexb-license-expression.md) ([Source](https://github.com/nexb/license-expression)) (Stars: 0, Language: Unknown) - `ai/resources`
-314. [KnowledgeXLab/LeanRAG](../../ai/rag/knowledgexlab-leanrag.md) ([Source](https://github.com/knowledgexlab/leanrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-315. [run-llama/ParseBench](../../ai/rag/run-llama-parsebench.md) ([Source](https://github.com/run-llama/parsebench)) (Stars: 0, Language: Unknown) - `ai/rag`
-316. [onyx-dot-app/onyx](../../ai/rag/onyx-dot-app-onyx.md) ([Source](https://github.com/onyx-dot-app/onyx)) (Stars: 0, Language: Unknown) - `ai/rag`
-317. [wgcyeo/UniversalRAG](../../ai/rag/wgcyeo-universalrag.md) ([Source](https://github.com/wgcyeo/universalrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-318. [Phala-Network/ai-agent-template-openai](../../ai/rag/phala-network-ai-agent-template-openai.md) ([Source](https://github.com/phala-network/ai-agent-template-openai)) (Stars: 0, Language: Unknown) - `ai/rag`
-319. [alfredodeza/azure-rag](../../ai/rag/alfredodeza-azure-rag.md) ([Source](https://github.com/alfredodeza/azure-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-320. [yzhao062/pyod](../../ai/rag/yzhao062-pyod.md) ([Source](https://github.com/yzhao062/pyod)) (Stars: 0, Language: Unknown) - `ai/rag`
-321. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-322. [ali-bahrainian/RAG_best_practices](../../ai/rag/ali-bahrainian-rag-best-practices.md) ([Source](https://github.com/ali-bahrainian/rag_best_practices)) (Stars: 0, Language: Unknown) - `ai/rag`
-323. [datawhalechina/hello-agents](../../ai/rag/datawhalechina-hello-agents.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-324. [Azure/GenAIOps-project-template](../../ai/rag/azure-genaiops-project-template.md) ([Source](https://github.com/azure/genaiops-project-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-325. [didilili/ai-agents-from-zero](../../ai/rag/didilili-ai-agents-from-zero.md) ([Source](https://github.com/didilili/ai-agents-from-zero)) (Stars: 0, Language: Unknown) - `ai/rag`
-326. [NirDiamant/agents-towards-production](../../ai/rag/nirdiamant-agents-towards-production.md) ([Source](https://github.com/nirdiamant/agents-towards-production)) (Stars: 0, Language: Unknown) - `ai/rag`
-327. [TencentCloudADP/youtu-graphrag](../../ai/rag/tencentcloudadp-youtu-graphrag.md) ([Source](https://github.com/tencentcloudadp/youtu-graphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-328. [microsoft/rag-time](../../ai/rag/microsoft-rag-time.md) ([Source](https://github.com/microsoft/rag-time)) (Stars: 0, Language: Unknown) - `ai/rag`
-329. [TracecatHQ/tracecat](../../ai/rag/tracecathq-tracecat.md) ([Source](https://github.com/tracecathq/tracecat)) (Stars: 0, Language: Unknown) - `ai/rag`
-330. [Azure-Samples/chat-with-your-data-solution-accelerator](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([Source](https://github.com/azure-samples/chat-with-your-data-solution-accelerator)) (Stars: 0, Language: Unknown) - `ai/rag`
-331. [enescingoz/awesome-n8n-templates](../../ai/rag/enescingoz-awesome-n8n-templates.md) ([Source](https://github.com/enescingoz/awesome-n8n-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
-332. [techwithtim/Langflow-RAG-Tutorial](../../ai/rag/techwithtim-langflow-rag-tutorial.md) ([Source](https://github.com/techwithtim/langflow-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-333. [Yigtwxx/awesome-rag-production](../../ai/rag/yigtwxx-awesome-rag-production.md) ([Source](https://github.com/yigtwxx/awesome-rag-production)) (Stars: 0, Language: Unknown) - `ai/rag`
-334. [ConardLi/garden-skills](../../ai/rag/conardli-garden-skills.md) ([Source](https://github.com/conardli/garden-skills)) (Stars: 0, Language: Unknown) - `ai/rag`
-335. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([Source](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository)) (Stars: 0, Language: Unknown) - `ai/rag`
-336. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-337. [NVISOsecurity/cyber-security-llm-agents](../../ai/rag/nvisosecurity-cyber-security-llm-agents.md) ([Source](https://github.com/nvisosecurity/cyber-security-llm-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-338. [onyx-dot-app/EnterpriseRAG-Bench](../../ai/rag/onyx-dot-app-enterpriserag-bench.md) ([Source](https://github.com/onyx-dot-app/enterpriserag-bench)) (Stars: 0, Language: Unknown) - `ai/rag`
-339. [facebookresearch/CRAG](../../ai/rag/facebookresearch-crag.md) ([Source](https://github.com/facebookresearch/crag)) (Stars: 0, Language: Unknown) - `ai/rag`
-340. [decodingai-magazine/llm-twin-course](../../ai/rag/decodingai-magazine-llm-twin-course.md) ([Source](https://github.com/decodingai-magazine/llm-twin-course)) (Stars: 0, Language: Unknown) - `ai/rag`
-341. [XMUDeepLIT/MemGraphRAG](../../ai/rag/xmudeeplit-memgraphrag.md) ([Source](https://github.com/xmudeeplit/memgraphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-342. [firecrawl/firesearch](../../ai/rag/firecrawl-firesearch.md) ([Source](https://github.com/firecrawl/firesearch)) (Stars: 0, Language: Unknown) - `ai/rag`
-343. [gabrielchua/RAGxplorer](../../ai/rag/gabrielchua-ragxplorer.md) ([Source](https://github.com/gabrielchua/ragxplorer)) (Stars: 0, Language: Unknown) - `ai/rag`
-344. [elizaOS/eliza](../../ai/rag/elizaos-eliza.md) ([Source](https://github.com/elizaos/eliza)) (Stars: 0, Language: Unknown) - `ai/rag`
-345. [langgenius/dify](../../ai/rag/langgenius-dify.md) ([Source](https://github.com/langgenius/dify)) (Stars: 0, Language: Unknown) - `ai/rag`
-346. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-347. [promptfoo/promptfoo-action](../../ai/rag/promptfoo-promptfoo-action.md) ([Source](https://github.com/promptfoo/promptfoo-action)) (Stars: 0, Language: Unknown) - `ai/rag`
-348. [VoltAgent/awesome-ai-agent-papers](../../ai/rag/voltagent-awesome-ai-agent-papers.md) ([Source](https://github.com/voltagent/awesome-ai-agent-papers)) (Stars: 0, Language: Unknown) - `ai/rag`
-349. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-350. [ray-project/llm-applications](../../ai/rag/ray-project-llm-applications.md) ([Source](https://github.com/ray-project/llm-applications)) (Stars: 0, Language: Unknown) - `ai/rag`
-351. [topoteretes/awesome-ai-memory](../../ai/rag/topoteretes-awesome-ai-memory.md) ([Source](https://github.com/topoteretes/awesome-ai-memory)) (Stars: 0, Language: Unknown) - `ai/rag`
-352. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
-353. [jxzhangjhu/Awesome-LLM-RAG](../../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([Source](https://github.com/jxzhangjhu/awesome-llm-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-354. [dannyblaker/rag-tutorial](../../ai/rag/dannyblaker-rag-tutorial.md) ([Source](https://github.com/dannyblaker/rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-355. [sleeepeer/PoisonedRAG](../../ai/rag/sleeepeer-poisonedrag.md) ([Source](https://github.com/sleeepeer/poisonedrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-356. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-357. [ritik-prog/n8n-automation-templates-5000](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md) ([Source](https://github.com/ritik-prog/n8n-automation-templates-5000)) (Stars: 0, Language: Unknown) - `ai/rag`
-358. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-359. [EternityJune25/ComoRAG](../../ai/rag/eternityjune25-comorag.md) ([Source](https://github.com/eternityjune25/comorag)) (Stars: 0, Language: Unknown) - `ai/rag`
-360. [jamwithai/production-agentic-rag-course](../../ai/rag/jamwithai-production-agentic-rag-course.md) ([Source](https://github.com/jamwithai/production-agentic-rag-course)) (Stars: 0, Language: Unknown) - `ai/rag`
-361. [PacktPublishing/LLM-Engineers-Handbook](../../ai/rag/packtpublishing-llm-engineers-handbook.md) ([Source](https://github.com/packtpublishing/llm-engineers-handbook)) (Stars: 0, Language: Unknown) - `ai/rag`
-362. [study8677/antigravity-workspace-template](../../ai/rag/study8677-antigravity-workspace-template.md) ([Source](https://github.com/study8677/antigravity-workspace-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-363. [run-llama/llama_index](../../ai/rag/run-llama-llama-index.md) ([Source](https://github.com/run-llama/llama_index)) (Stars: 0, Language: Unknown) - `ai/rag`
-364. [PierreGode/Ragnar](../../ai/rag/pierregode-ragnar.md) ([Source](https://github.com/pierregode/ragnar)) (Stars: 0, Language: Unknown) - `ai/rag`
-365. [stackitcloud/rag-template](../../ai/rag/stackitcloud-rag-template.md) ([Source](https://github.com/stackitcloud/rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-366. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
-367. [IBM/mt-rag-benchmark](../../ai/rag/ibm-mt-rag-benchmark.md) ([Source](https://github.com/ibm/mt-rag-benchmark)) (Stars: 0, Language: Unknown) - `ai/rag`
-368. [HKUDS/RAG-Anything](../../ai/rag/hkuds-rag-anything.md) ([Source](https://github.com/hkuds/rag-anything)) (Stars: 0, Language: Unknown) - `ai/rag`
-369. [bakrianoo/mini-rag](../../ai/rag/bakrianoo-mini-rag.md) ([Source](https://github.com/bakrianoo/mini-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-370. [bangoc123/retrieval-backend-with-rag](../../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([Source](https://github.com/bangoc123/retrieval-backend-with-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-371. [deepset-ai/haystack](../../ai/rag/deepset-ai-haystack.md) ([Source](https://github.com/deepset-ai/haystack)) (Stars: 0, Language: Unknown) - `ai/rag`
-372. [volcengine/OpenViking](../../ai/rag/volcengine-openviking.md) ([Source](https://github.com/volcengine/openviking)) (Stars: 0, Language: Unknown) - `ai/rag`
-373. [IAAR-Shanghai/CRUD_RAG](../../ai/rag/iaar-shanghai-crud-rag.md) ([Source](https://github.com/iaar-shanghai/crud_rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-374. [NVIDIA/workbench-example-agentic-rag](../../ai/rag/nvidia-workbench-example-agentic-rag.md) ([Source](https://github.com/nvidia/workbench-example-agentic-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-375. [vstorm-co/full-stack-ai-agent-template](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([Source](https://github.com/vstorm-co/full-stack-ai-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-376. [hllqkb/Spring-AI-Ailibaba-Best-Practices](../../ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md) ([Source](https://github.com/hllqkb/spring-ai-ailibaba-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
-377. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-378. [DEEP-PolyU/Awesome-GraphRAG](../../ai/rag/deep-polyu-awesome-graphrag.md) ([Source](https://github.com/deep-polyu/awesome-graphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-379. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-380. [alvinreal/awesome-opensource-ai](../../ai/rag/alvinreal-awesome-opensource-ai.md) ([Source](https://github.com/alvinreal/awesome-opensource-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
-381. [IntelLabs/fastRAG](../../ai/rag/intellabs-fastrag.md) ([Source](https://github.com/intellabs/fastrag)) (Stars: 0, Language: Unknown) - `ai/rag`
-382. [chaoql/rag-best-practices](../../ai/rag/chaoql-rag-best-practices.md) ([Source](https://github.com/chaoql/rag-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
-383. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
-384. [HKUDS/VideoRAG](../../ai/rag/hkuds-videorag.md) ([Source](https://github.com/hkuds/videorag)) (Stars: 0, Language: Unknown) - `ai/rag`
-385. [python-poetry/poetry-plugin-export](../../ai/rag/python-poetry-poetry-plugin-export.md) ([Source](https://github.com/python-poetry/poetry-plugin-export)) (Stars: 0, Language: Unknown) - `ai/rag`
-386. [AI-Application-and-Integration-Lab/MegaRAG](../../ai/rag/ai-application-and-integration-lab-megarag.md) ([Source](https://github.com/ai-application-and-integration-lab/megarag)) (Stars: 0, Language: Unknown) - `ai/rag`
-387. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
-388. [gomate-community/awesome-papers-for-rag](../../ai/rag/gomate-community-awesome-papers-for-rag.md) ([Source](https://github.com/gomate-community/awesome-papers-for-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-389. [Azure-Samples/azure-openai-rag-workshop-template](../../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([Source](https://github.com/azure-samples/azure-openai-rag-workshop-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-390. [lancedb/vectordb-recipes](../../ai/rag/lancedb-vectordb-recipes.md) ([Source](https://github.com/lancedb/vectordb-recipes)) (Stars: 0, Language: Unknown) - `ai/rag`
-391. [Cinnamon/kotaemon](../../ai/rag/cinnamon-kotaemon.md) ([Source](https://github.com/cinnamon/kotaemon)) (Stars: 0, Language: Unknown) - `ai/rag`
-392. [apecloud/ApeRAG](../../ai/rag/apecloud-aperag.md) ([Source](https://github.com/apecloud/aperag)) (Stars: 0, Language: Unknown) - `ai/rag`
-393. [naver/bergen](../../ai/rag/naver-bergen.md) ([Source](https://github.com/naver/bergen)) (Stars: 0, Language: Unknown) - `ai/rag`
-394. [Ais1on/CTI-RAG](../../ai/rag/ais1on-cti-rag.md) ([Source](https://github.com/ais1on/cti-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-395. [datawhalechina/wow-rag](../../ai/rag/datawhalechina-wow-rag.md) ([Source](https://github.com/datawhalechina/wow-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-396. [embeddings-benchmark/mteb](../../ai/rag/embeddings-benchmark-mteb.md) ([Source](https://github.com/embeddings-benchmark/mteb)) (Stars: 0, Language: Unknown) - `ai/rag`
-397. [KruxAI/ragbuilder](../../ai/rag/kruxai-ragbuilder.md) ([Source](https://github.com/kruxai/ragbuilder)) (Stars: 0, Language: Unknown) - `ai/rag`
-398. [zhengxuJosh/Awesome-RAG-Vision](../../ai/rag/zhengxujosh-awesome-rag-vision.md) ([Source](https://github.com/zhengxujosh/awesome-rag-vision)) (Stars: 0, Language: Unknown) - `ai/rag`
-399. [GraphRAG-Bench/GraphRAG-Benchmark](../../ai/rag/graphrag-bench-graphrag-benchmark.md) ([Source](https://github.com/graphrag-bench/graphrag-benchmark)) (Stars: 0, Language: Unknown) - `ai/rag`
-400. [nicknochnack/Llama2RAG](../../ai/rag/nicknochnack-llama2rag.md) ([Source](https://github.com/nicknochnack/llama2rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-401. [langchain-ai/rag-research-agent-template](../../ai/rag/langchain-ai-rag-research-agent-template.md) ([Source](https://github.com/langchain-ai/rag-research-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-402. [Azure/agent-innovator-lab](../../ai/rag/azure-agent-innovator-lab.md) ([Source](https://github.com/azure/agent-innovator-lab)) (Stars: 0, Language: Unknown) - `ai/rag`
-403. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-404. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-405. [vndee/local-assistant-examples](../../ai/rag/vndee-local-assistant-examples.md) ([Source](https://github.com/vndee/local-assistant-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
-406. [DavidZWZ/Awesome-Deep-Research](../../ai/rag/davidzwz-awesome-deep-research.md) ([Source](https://github.com/davidzwz/awesome-deep-research)) (Stars: 0, Language: Unknown) - `ai/rag`
-407. [towardsai/ragbook-notebooks](../../ai/rag/towardsai-ragbook-notebooks.md) ([Source](https://github.com/towardsai/ragbook-notebooks)) (Stars: 0, Language: Unknown) - `ai/rag`
-408. [Marker-Inc-Korea/AutoRAG](../../ai/rag/marker-inc-korea-autorag.md) ([Source](https://github.com/marker-inc-korea/autorag)) (Stars: 0, Language: Unknown) - `ai/rag`
-409. [ajac-zero/example-rag-app](../../ai/rag/ajac-zero-example-rag-app.md) ([Source](https://github.com/ajac-zero/example-rag-app)) (Stars: 0, Language: Unknown) - `ai/rag`
-410. [Azure-Samples/aisearch-openai-rag-audio](../../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([Source](https://github.com/azure-samples/aisearch-openai-rag-audio)) (Stars: 0, Language: Unknown) - `ai/rag`
-411. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-412. [patchy631/ai-engineering-hub](../../ai/rag/patchy631-ai-engineering-hub.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-413. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
-414. [coree/awesome-rag](../../ai/rag/coree-awesome-rag.md) ([Source](https://github.com/coree/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-415. [aws-samples/amazon-bedrock-samples](../../ai/rag/aws-samples-amazon-bedrock-samples.md) ([Source](https://github.com/aws-samples/amazon-bedrock-samples)) (Stars: 0, Language: Unknown) - `ai/rag`
-416. [felladrin/awesome-ai-web-search](../../ai/rag/felladrin-awesome-ai-web-search.md) ([Source](https://github.com/felladrin/awesome-ai-web-search)) (Stars: 0, Language: Unknown) - `ai/rag`
-417. [modelscope/evalscope](../../ai/rag/modelscope-evalscope.md) ([Source](https://github.com/modelscope/evalscope)) (Stars: 0, Language: Unknown) - `ai/rag`
-418. [QuivrHQ/quivr](../../ai/rag/quivrhq-quivr.md) ([Source](https://github.com/quivrhq/quivr)) (Stars: 0, Language: Unknown) - `ai/rag`
-419. [SciPhi-AI/R2R](../../ai/rag/sciphi-ai-r2r.md) ([Source](https://github.com/sciphi-ai/r2r)) (Stars: 0, Language: Unknown) - `ai/rag`
-420. [pallets/flask](../../ai/rag/pallets-flask.md) ([Source](https://github.com/pallets/flask)) (Stars: 0, Language: Unknown) - `ai/rag`
-421. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-422. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
-423. [vercel-labs/coding-agent-template](../../ai/rag/vercel-labs-coding-agent-template.md) ([Source](https://github.com/vercel-labs/coding-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-424. [vercel-labs/ai-sdk-preview-rag](../../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([Source](https://github.com/vercel-labs/ai-sdk-preview-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-425. [SecurityClaw/SecurityClaw](../../ai/rag/securityclaw-securityclaw.md) ([Source](https://github.com/securityclaw/securityclaw)) (Stars: 0, Language: Unknown) - `ai/rag`
-426. [NirDiamant/GenAI_Agents](../../ai/rag/nirdiamant-genai-agents.md) ([Source](https://github.com/nirdiamant/genai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-427. [eosphoros-ai/DB-GPT](../../ai/rag/eosphoros-ai-db-gpt.md) ([Source](https://github.com/eosphoros-ai/db-gpt)) (Stars: 0, Language: Unknown) - `ai/rag`
-428. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-429. [Azure-Samples/app-service-rag-openai-ai-search-dotnet](../../ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md) ([Source](https://github.com/azure-samples/app-service-rag-openai-ai-search-dotnet)) (Stars: 0, Language: Unknown) - `ai/rag`
-430. [ALucek/GraphRAG-Breakdown](../../ai/rag/alucek-graphrag-breakdown.md) ([Source](https://github.com/alucek/graphrag-breakdown)) (Stars: 0, Language: Unknown) - `ai/rag`
-431. [FudanDNN-NLP/RAG](../../ai/rag/fudandnn-nlp-rag.md) ([Source](https://github.com/fudandnn-nlp/rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-432. [opendataloader-project/opendataloader-pdf](../../ai/rag/opendataloader-project-opendataloader-pdf.md) ([Source](https://github.com/opendataloader-project/opendataloader-pdf)) (Stars: 0, Language: Unknown) - `ai/rag`
-433. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
-434. [raga-ai-hub/raga-llm-hub](../../ai/rag/raga-ai-hub-raga-llm-hub.md) ([Source](https://github.com/raga-ai-hub/raga-llm-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-435. [readthedocs/tutorial-template](../../ai/rag/readthedocs-tutorial-template.md) ([Source](https://github.com/readthedocs/tutorial-template)) (Stars: 0, Language: Unknown) - `ai/rag`
-436. [streamlit/example-app-langchain-rag](../../ai/rag/streamlit-example-app-langchain-rag.md) ([Source](https://github.com/streamlit/example-app-langchain-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-437. [run-llama/llama-hub](../../ai/rag/run-llama-llama-hub.md) ([Source](https://github.com/run-llama/llama-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-438. [WenyuChiou/awesome-agentic-ai-zh](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([Source](https://github.com/wenyuchiou/awesome-agentic-ai-zh)) (Stars: 0, Language: Unknown) - `ai/rag`
-439. [llmware-ai/llmware](../../ai/rag/llmware-ai-llmware.md) ([Source](https://github.com/llmware-ai/llmware)) (Stars: 0, Language: Unknown) - `ai/rag`
-440. [pathwaycom/llm-app](../../ai/rag/pathwaycom-llm-app.md) ([Source](https://github.com/pathwaycom/llm-app)) (Stars: 0, Language: Unknown) - `ai/rag`
-441. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
-442. [Danielskry/Awesome-RAG](../../ai/rag/danielskry-awesome-rag.md) ([Source](https://github.com/danielskry/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-443. [techwithtim/ProductionGradeRAGPythonApp](../../ai/rag/techwithtim-productiongraderagpythonapp.md) ([Source](https://github.com/techwithtim/productiongraderagpythonapp)) (Stars: 0, Language: Unknown) - `ai/rag`
-444. [HKUDS/MiniRAG](../../ai/rag/hkuds-minirag.md) ([Source](https://github.com/hkuds/minirag)) (Stars: 0, Language: Unknown) - `ai/rag`
-445. [EvanThomasLuke/Awesome-AI-Hacking-Agents](../../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md) ([Source](https://github.com/evanthomasluke/awesome-ai-hacking-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-446. [Code-and-Sorts/awesome-copilot-agents](../../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([Source](https://github.com/code-and-sorts/awesome-copilot-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-447. [TEN-framework/ten-framework](../../ai/agents/ten-framework-ten-framework.md) ([Source](https://github.com/ten-framework/ten-framework)) (Stars: 0, Language: Unknown) - `ai/agents`
-448. [AvdLee/SwiftUI-Agent-Skill](../../ai/agents/avdlee-swiftui-agent-skill.md) ([Source](https://github.com/avdlee/swiftui-agent-skill)) (Stars: 0, Language: Unknown) - `ai/agents`
-449. [facebookresearch/MLGym](../../ai/agents/facebookresearch-mlgym.md) ([Source](https://github.com/facebookresearch/mlgym)) (Stars: 0, Language: Unknown) - `ai/agents`
-450. [shanraisshan/claude-code-best-practice](../../ai/agents/shanraisshan-claude-code-best-practice.md) ([Source](https://github.com/shanraisshan/claude-code-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
-451. [0x4m4/hexstrike-ai](../../ai/agents/0x4m4-hexstrike-ai.md) ([Source](https://github.com/0x4m4/hexstrike-ai)) (Stars: 0, Language: Unknown) - `ai/agents`
-452. [vercel/ai](../../ai/agents/vercel-ai.md) ([Source](https://github.com/vercel/ai)) (Stars: 0, Language: Unknown) - `ai/agents`
-453. [hoodini/ai-agents-skills](../../ai/agents/hoodini-ai-agents-skills.md) ([Source](https://github.com/hoodini/ai-agents-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
-454. [microsoft/agentsleague](../../ai/agents/microsoft-agentsleague.md) ([Source](https://github.com/microsoft/agentsleague)) (Stars: 0, Language: Unknown) - `ai/agents`
-455. [TheAgentCompany/TheAgentCompany](../../ai/agents/theagentcompany-theagentcompany.md) ([Source](https://github.com/theagentcompany/theagentcompany)) (Stars: 0, Language: Unknown) - `ai/agents`
-456. [caramaschiHG/awesome-ai-agents-2026](../../ai/agents/caramaschihg-awesome-ai-agents-2026.md) ([Source](https://github.com/caramaschihg/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-457. [idosal/git-mcp](../../ai/agents/idosal-git-mcp.md) ([Source](https://github.com/idosal/git-mcp)) (Stars: 0, Language: Unknown) - `ai/agents`
-458. [Prat011/awesome-llm-skills](../../ai/agents/prat011-awesome-llm-skills.md) ([Source](https://github.com/prat011/awesome-llm-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
-459. [codebasics/ai-agents](../../ai/agents/codebasics-ai-agents.md) ([Source](https://github.com/codebasics/ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-460. [coleam00/ottomator-agents](../../ai/agents/coleam00-ottomator-agents.md) ([Source](https://github.com/coleam00/ottomator-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-461. [github/awesome-copilot](../../ai/agents/github-awesome-copilot.md) ([Source](https://github.com/github/awesome-copilot)) (Stars: 0, Language: Unknown) - `ai/agents`
-462. [MuhammadUsmanGM/claude-code-best-practices](../../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([Source](https://github.com/muhammadusmangm/claude-code-best-practices)) (Stars: 0, Language: Unknown) - `ai/agents`
-463. [ghuntley/how-to-build-a-coding-agent](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md) ([Source](https://github.com/ghuntley/how-to-build-a-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-464. [snyk/agent-scan](../../ai/agents/snyk-agent-scan.md) ([Source](https://github.com/snyk/agent-scan)) (Stars: 0, Language: Unknown) - `ai/agents`
-465. [shanraisshan/codex-cli-best-practice](../../ai/agents/shanraisshan-codex-cli-best-practice.md) ([Source](https://github.com/shanraisshan/codex-cli-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
-466. [ashishpatel26/500-AI-Agents-Projects](../../ai/agents/ashishpatel26-500-ai-agents-projects.md) ([Source](https://github.com/ashishpatel26/500-ai-agents-projects)) (Stars: 0, Language: Unknown) - `ai/agents`
-467. [affaan-m/agentshield](../../ai/agents/affaan-m-agentshield.md) ([Source](https://github.com/affaan-m/agentshield)) (Stars: 0, Language: Unknown) - `ai/agents`
-468. [trycua/cua](../../ai/agents/trycua-cua.md) ([Source](https://github.com/trycua/cua)) (Stars: 0, Language: Unknown) - `ai/agents`
-469. [kylestratis/ai_agents_mcp_examples](../../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([Source](https://github.com/kylestratis/ai_agents_mcp_examples)) (Stars: 0, Language: Unknown) - `ai/agents`
-470. [sierra-research/tau2-bench](../../ai/agents/sierra-research-tau2-bench.md) ([Source](https://github.com/sierra-research/tau2-bench)) (Stars: 0, Language: Unknown) - `ai/agents`
-471. [wassim249/fastapi-langgraph-agent-production-ready-template](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([Source](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-472. [slavakurilyak/awesome-ai-agents](../../ai/agents/slavakurilyak-awesome-ai-agents.md) ([Source](https://github.com/slavakurilyak/awesome-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-473. [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md) ([Source](https://github.com/arunagirinathan-k/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-474. [AlexPEClub/ai-coding-starter-kit](../../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([Source](https://github.com/alexpeclub/ai-coding-starter-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
-475. [huangjia2019/ai-agents](../../ai/agents/huangjia2019-ai-agents.md) ([Source](https://github.com/huangjia2019/ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-476. [coleam00/pydantic-ai-github-agent](../../ai/agents/coleam00-pydantic-ai-github-agent.md) ([Source](https://github.com/coleam00/pydantic-ai-github-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-477. [steel-dev/awesome-web-agents](../../ai/agents/steel-dev-awesome-web-agents.md) ([Source](https://github.com/steel-dev/awesome-web-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-478. [run-llama/llama-cloud-py](../../ai/agents/run-llama-llama-cloud-py.md) ([Source](https://github.com/run-llama/llama-cloud-py)) (Stars: 0, Language: Unknown) - `ai/agents`
-479. [Leonxlnx/agentic-ai-prompt-research](../../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([Source](https://github.com/leonxlnx/agentic-ai-prompt-research)) (Stars: 0, Language: Unknown) - `ai/agents`
-480. [greensock/gsap-skills](../../ai/agents/greensock-gsap-skills.md) ([Source](https://github.com/greensock/gsap-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
-481. [daveebbelaar/ai-cookbook](../../ai/agents/daveebbelaar-ai-cookbook.md) ([Source](https://github.com/daveebbelaar/ai-cookbook)) (Stars: 0, Language: Unknown) - `ai/agents`
-482. [e2b-dev/awesome-ai-agents](../../ai/agents/e2b-dev-awesome-ai-agents.md) ([Source](https://github.com/e2b-dev/awesome-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-483. [msoedov/agentic_security](../../ai/agents/msoedov-agentic-security.md) ([Source](https://github.com/msoedov/agentic_security)) (Stars: 0, Language: Unknown) - `ai/agents`
-484. [viktoriasemaan/multi-agent](../../ai/agents/viktoriasemaan-multi-agent.md) ([Source](https://github.com/viktoriasemaan/multi-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-485. [yzfly/awesome-voice-agents](../../ai/agents/yzfly-awesome-voice-agents.md) ([Source](https://github.com/yzfly/awesome-voice-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-486. [HoangNguyen0403/agent-skills-standard](../../ai/agents/hoangnguyen0403-agent-skills-standard.md) ([Source](https://github.com/hoangnguyen0403/agent-skills-standard)) (Stars: 0, Language: Unknown) - `ai/agents`
-487. [AgentOps-AI/agentops](../../ai/agents/agentops-ai-agentops.md) ([Source](https://github.com/agentops-ai/agentops)) (Stars: 0, Language: Unknown) - `ai/agents`
+5. [python-poetry/poetry](../../ai/resources/python-poetry-poetry.md) ([Source](https://github.com/python-poetry/poetry)) (Stars: 0, Language: Unknown) - `ai/resources`
+6. [VivekMalhan666/npm-package-combobox](../../ai/resources/vivekmalhan666-npm-package-combobox.md) ([Source](https://github.com/vivekmalhan666/npm-package-combobox)) (Stars: 0, Language: Unknown) - `ai/resources`
+7. [cloudflare/cloudflare-docs](../../ai/resources/cloudflare-cloudflare-docs.md) ([Source](https://github.com/cloudflare/cloudflare-docs)) (Stars: 0, Language: Unknown) - `ai/resources`
+8. [langgenius/dify-docs](../../ai/resources/langgenius-dify-docs.md) ([Source](https://github.com/langgenius/dify-docs)) (Stars: 0, Language: Unknown) - `ai/resources`
+9. [run-llama/liteparse](../../ai/resources/run-llama-liteparse.md) ([Source](https://github.com/run-llama/liteparse)) (Stars: 0, Language: Unknown) - `ai/resources`
+10. [RAIVNLab/MRL](../../ai/resources/raivnlab-mrl.md) ([Source](https://github.com/raivnlab/mrl)) (Stars: 0, Language: Unknown) - `ai/resources`
+11. [astral-sh/ruff](../../ai/resources/astral-sh-ruff.md) ([Source](https://github.com/astral-sh/ruff)) (Stars: 0, Language: Unknown) - `ai/resources`
+12. [aip-dev/google.aip.dev](../../ai/resources/aip-dev-google-aip-dev.md) ([Source](https://github.com/aip-dev/google.aip.dev)) (Stars: 0, Language: Unknown) - `ai/resources`
+13. [jupyterlab/jupyterlab](../../ai/resources/jupyterlab-jupyterlab.md) ([Source](https://github.com/jupyterlab/jupyterlab)) (Stars: 0, Language: Unknown) - `ai/resources`
+14. [nodejs/node](../../ai/resources/nodejs-node.md) ([Source](https://github.com/nodejs/node)) (Stars: 0, Language: Unknown) - `ai/resources`
+15. [GoogleCloudPlatform/vertex-ai-samples](../../ai/resources/googlecloudplatform-vertex-ai-samples.md) ([Source](https://github.com/googlecloudplatform/vertex-ai-samples)) (Stars: 0, Language: Unknown) - `ai/resources`
+16. [git/git](../../ai/resources/git-git.md) ([Source](https://github.com/git/git)) (Stars: 0, Language: Unknown) - `ai/resources`
+17. [python-poetry/poetry-core](../../ai/resources/python-poetry-poetry-core.md) ([Source](https://github.com/python-poetry/poetry-core)) (Stars: 0, Language: Unknown) - `ai/resources`
+18. [python/mypy](../../ai/resources/python-mypy.md) ([Source](https://github.com/python/mypy)) (Stars: 0, Language: Unknown) - `ai/resources`
+19. [readthedocs/sphinx_rtd_theme](../../ai/resources/readthedocs-sphinx-rtd-theme.md) ([Source](https://github.com/readthedocs/sphinx_rtd_theme)) (Stars: 0, Language: Unknown) - `ai/resources`
+20. [googleapis/googleapis](../../ai/resources/googleapis-googleapis.md) ([Source](https://github.com/googleapis/googleapis)) (Stars: 0, Language: Unknown) - `ai/resources`
+21. [supermldev/genvoice-ai](../../ai/resources/supermldev-genvoice-ai.md) ([Source](https://github.com/supermldev/genvoice-ai)) (Stars: 0, Language: Unknown) - `ai/resources`
+22. [numpy/numpy](../../ai/resources/numpy-numpy.md) ([Source](https://github.com/numpy/numpy)) (Stars: 0, Language: Unknown) - `ai/resources`
+23. [sphinx-doc/sphinx](../../ai/resources/sphinx-doc-sphinx.md) ([Source](https://github.com/sphinx-doc/sphinx)) (Stars: 0, Language: Unknown) - `ai/resources`
+24. [jupyter/jupyter](../../ai/resources/jupyter-jupyter.md) ([Source](https://github.com/jupyter/jupyter)) (Stars: 0, Language: Unknown) - `ai/resources`
+25. [github/codeql](../../ai/resources/github-codeql.md) ([Source](https://github.com/github/codeql)) (Stars: 0, Language: Unknown) - `ai/resources`
+26. [pypa/trove-classifiers](../../ai/resources/pypa-trove-classifiers.md) ([Source](https://github.com/pypa/trove-classifiers)) (Stars: 0, Language: Unknown) - `ai/resources`
+27. [cloudflare/mcp](../../ai/resources/cloudflare-mcp.md) ([Source](https://github.com/cloudflare/mcp)) (Stars: 0, Language: Unknown) - `ai/resources`
+28. [cloudflare/mcp-server-cloudflare](../../ai/resources/cloudflare-mcp-server-cloudflare.md) ([Source](https://github.com/cloudflare/mcp-server-cloudflare)) (Stars: 0, Language: Unknown) - `ai/resources`
+29. [SpeechifyInc/ai-api-examples](../../ai/resources/speechifyinc-ai-api-examples.md) ([Source](https://github.com/speechifyinc/ai-api-examples)) (Stars: 0, Language: Unknown) - `ai/resources`
+30. [webmproject/libwebp](../../ai/resources/webmproject-libwebp.md) ([Source](https://github.com/webmproject/libwebp)) (Stars: 0, Language: Unknown) - `ai/resources`
+31. [electron/fiddle](../../ai/resources/electron-fiddle.md) ([Source](https://github.com/electron/fiddle)) (Stars: 0, Language: Unknown) - `ai/resources`
+32. [openai/openai-cookbook](../../ai/resources/openai-openai-cookbook.md) ([Source](https://github.com/openai/openai-cookbook)) (Stars: 0, Language: Unknown) - `ai/resources`
+33. [Medium/policy](../../ai/resources/medium-policy.md) ([Source](https://github.com/medium/policy)) (Stars: 0, Language: Unknown) - `ai/resources`
+34. [adityatelange/hugo-PaperMod](../../ai/resources/adityatelange-hugo-papermod.md) ([Source](https://github.com/adityatelange/hugo-papermod)) (Stars: 0, Language: Unknown) - `ai/resources`
+35. [discourse/discourse](../../ai/resources/discourse-discourse.md) ([Source](https://github.com/discourse/discourse)) (Stars: 0, Language: Unknown) - `ai/resources`
+36. [pypa/hatch](../../ai/resources/pypa-hatch.md) ([Source](https://github.com/pypa/hatch)) (Stars: 0, Language: Unknown) - `ai/resources`
+37. [pradyunsg/furo](../../ai/resources/pradyunsg-furo.md) ([Source](https://github.com/pradyunsg/furo)) (Stars: 0, Language: Unknown) - `ai/resources`
+38. [nexB/license-expression](../../ai/resources/nexb-license-expression.md) ([Source](https://github.com/nexb/license-expression)) (Stars: 0, Language: Unknown) - `ai/resources`
+39. [yarnpkg/berry](../../ai/resources/yarnpkg-berry.md) ([Source](https://github.com/yarnpkg/berry)) (Stars: 0, Language: Unknown) - `ai/resources`
+40. [plusai-solutions/ai-scrum-master-template](../../ai/rag/plusai-solutions-ai-scrum-master-template.md) ([Source](https://github.com/plusai-solutions/ai-scrum-master-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+41. [Phala-Network/ai-agent-template-openai](../../ai/rag/phala-network-ai-agent-template-openai.md) ([Source](https://github.com/phala-network/ai-agent-template-openai)) (Stars: 0, Language: Unknown) - `ai/rag`
+42. [mem0ai/mem0](../../ai/rag/mem0ai-mem0.md) ([Source](https://github.com/mem0ai/mem0)) (Stars: 0, Language: Unknown) - `ai/rag`
+43. [yzhao062/pyod](../../ai/rag/yzhao062-pyod.md) ([Source](https://github.com/yzhao062/pyod)) (Stars: 0, Language: Unknown) - `ai/rag`
+44. [Polymarket/agents](../../ai/rag/polymarket-agents.md) ([Source](https://github.com/polymarket/agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+45. [datarobot-community/datarobot-agent-templates](../../ai/rag/datarobot-community-datarobot-agent-templates.md) ([Source](https://github.com/datarobot-community/datarobot-agent-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
+46. [The-Swarm-Corporation/Multi-Agent-RAG-Template](../../ai/rag/the-swarm-corporation-multi-agent-rag-template.md) ([Source](https://github.com/the-swarm-corporation/multi-agent-rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+47. [chroma-core/chroma](../../ai/rag/chroma-core-chroma.md) ([Source](https://github.com/chroma-core/chroma)) (Stars: 0, Language: Unknown) - `ai/rag`
+48. [NVISOsecurity/cyber-security-llm-agents](../../ai/rag/nvisosecurity-cyber-security-llm-agents.md) ([Source](https://github.com/nvisosecurity/cyber-security-llm-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+49. [langchain-ai/langgraph-swarm-py](../../ai/rag/langchain-ai-langgraph-swarm-py.md) ([Source](https://github.com/langchain-ai/langgraph-swarm-py)) (Stars: 0, Language: Unknown) - `ai/rag`
+50. [firecrawl/firesearch](../../ai/rag/firecrawl-firesearch.md) ([Source](https://github.com/firecrawl/firesearch)) (Stars: 0, Language: Unknown) - `ai/rag`
+51. [agent0ai/agent-zero](../../ai/rag/agent0ai-agent-zero.md) ([Source](https://github.com/agent0ai/agent-zero)) (Stars: 0, Language: Unknown) - `ai/rag`
+52. [NVIDIA/SkillSpector](../../ai/rag/nvidia-skillspector.md) ([Source](https://github.com/nvidia/skillspector)) (Stars: 0, Language: Unknown) - `ai/rag`
+53. [TauricResearch/TradingAgents](../../ai/rag/tauricresearch-tradingagents.md) ([Source](https://github.com/tauricresearch/tradingagents)) (Stars: 0, Language: Unknown) - `ai/rag`
+54. [Tracer-Cloud/opensre](../../ai/rag/tracer-cloud-opensre.md) ([Source](https://github.com/tracer-cloud/opensre)) (Stars: 0, Language: Unknown) - `ai/rag`
+55. [langchain-ai/langgraphjs](../../ai/rag/langchain-ai-langgraphjs.md) ([Source](https://github.com/langchain-ai/langgraphjs)) (Stars: 0, Language: Unknown) - `ai/rag`
+56. [Kotlin/Kotlin-AI-Examples](../../ai/rag/kotlin-kotlin-ai-examples.md) ([Source](https://github.com/kotlin/kotlin-ai-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
+57. [microsoft/ai-agents-for-beginners](../../ai/rag/microsoft-ai-agents-for-beginners.md) ([Source](https://github.com/microsoft/ai-agents-for-beginners)) (Stars: 0, Language: Unknown) - `ai/rag`
+58. [reworkd/AgentGPT](../../ai/rag/reworkd-agentgpt.md) ([Source](https://github.com/reworkd/agentgpt)) (Stars: 0, Language: Unknown) - `ai/rag`
+59. [google-gemini/gemini-fullstack-langgraph-quickstart](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([Source](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)) (Stars: 0, Language: Unknown) - `ai/rag`
+60. [daveshap/OpenAI_Agent_Swarm](../../ai/rag/daveshap-openai-agent-swarm.md) ([Source](https://github.com/daveshap/openai_agent_swarm)) (Stars: 0, Language: Unknown) - `ai/rag`
+61. [VivekMalhan666/rag-beginner-guide](../../ai/rag/vivekmalhan666-rag-beginner-guide.md) ([Source](https://github.com/vivekmalhan666/rag-beginner-guide)) (Stars: 0, Language: Unknown) - `ai/rag`
+62. [pgvector/pgvector](../../ai/rag/pgvector-pgvector.md) ([Source](https://github.com/pgvector/pgvector)) (Stars: 0, Language: Unknown) - `ai/rag`
+63. [freddy-schuetz/n8n-claw](../../ai/rag/freddy-schuetz-n8n-claw.md) ([Source](https://github.com/freddy-schuetz/n8n-claw)) (Stars: 0, Language: Unknown) - `ai/rag`
+64. [hectorpine/multiple-model-crew](../../ai/rag/hectorpine-multiple-model-crew.md) ([Source](https://github.com/hectorpine/multiple-model-crew)) (Stars: 0, Language: Unknown) - `ai/rag`
+65. [cloudflare/workerd](../../ai/rag/cloudflare-workerd.md) ([Source](https://github.com/cloudflare/workerd)) (Stars: 0, Language: Unknown) - `ai/rag`
+66. [panaversity/langgraph-agents-template](../../ai/rag/panaversity-langgraph-agents-template.md) ([Source](https://github.com/panaversity/langgraph-agents-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+67. [microsoft/vscode](../../ai/rag/microsoft-vscode.md) ([Source](https://github.com/microsoft/vscode)) (Stars: 0, Language: Unknown) - `ai/rag`
+68. [pnpm/pnpm](../../ai/rag/pnpm-pnpm.md) ([Source](https://github.com/pnpm/pnpm)) (Stars: 0, Language: Unknown) - `ai/rag`
+69. [linagora/openrag](../../ai/rag/linagora-openrag.md) ([Source](https://github.com/linagora/openrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+70. [liangdabiao/easy_investment_Agent_crewai](../../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([Source](https://github.com/liangdabiao/easy_investment_agent_crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
+71. [electron/electron](../../ai/rag/electron-electron.md) ([Source](https://github.com/electron/electron)) (Stars: 0, Language: Unknown) - `ai/rag`
+72. [zai-org/Open-AutoGLM](../../ai/rag/zai-org-open-autoglm.md) ([Source](https://github.com/zai-org/open-autoglm)) (Stars: 0, Language: Unknown) - `ai/rag`
+73. [deepset-ai/haystack-cookbook](../../ai/rag/deepset-ai-haystack-cookbook.md) ([Source](https://github.com/deepset-ai/haystack-cookbook)) (Stars: 0, Language: Unknown) - `ai/rag`
+74. [python-poetry/poetry-plugin-export](../../ai/rag/python-poetry-poetry-plugin-export.md) ([Source](https://github.com/python-poetry/poetry-plugin-export)) (Stars: 0, Language: Unknown) - `ai/rag`
+75. [cmAIdx/headless-claude-automation-template](../../ai/rag/cmaidx-headless-claude-automation-template.md) ([Source](https://github.com/cmaidx/headless-claude-automation-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+76. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
+77. [esxr/langgraph-mcp](../../ai/rag/esxr-langgraph-mcp.md) ([Source](https://github.com/esxr/langgraph-mcp)) (Stars: 0, Language: Unknown) - `ai/rag`
+78. [langchain-ai/retrieval-agent-template](../../ai/rag/langchain-ai-retrieval-agent-template.md) ([Source](https://github.com/langchain-ai/retrieval-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+79. [langchain-ai/langgraph](../../ai/rag/langchain-ai-langgraph.md) ([Source](https://github.com/langchain-ai/langgraph)) (Stars: 0, Language: Unknown) - `ai/rag`
+80. [mayooear/ai-pdf-chatbot-langchain](../../ai/rag/mayooear-ai-pdf-chatbot-langchain.md) ([Source](https://github.com/mayooear/ai-pdf-chatbot-langchain)) (Stars: 0, Language: Unknown) - `ai/rag`
+81. [embeddings-benchmark/mteb](../../ai/rag/embeddings-benchmark-mteb.md) ([Source](https://github.com/embeddings-benchmark/mteb)) (Stars: 0, Language: Unknown) - `ai/rag`
+82. [NicholasGoh/fastapi-mcp-langgraph-template](../../ai/rag/nicholasgoh-fastapi-mcp-langgraph-template.md) ([Source](https://github.com/nicholasgoh/fastapi-mcp-langgraph-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+83. [braincrew-lab/langgraph-mcp-agents](../../ai/rag/braincrew-lab-langgraph-mcp-agents.md) ([Source](https://github.com/braincrew-lab/langgraph-mcp-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+84. [mvanhorn/clawdbot-skill-manus](../../ai/rag/mvanhorn-clawdbot-skill-manus.md) ([Source](https://github.com/mvanhorn/clawdbot-skill-manus)) (Stars: 0, Language: Unknown) - `ai/rag`
+85. [Andrew-Jang/RAGHub](../../ai/rag/andrew-jang-raghub.md) ([Source](https://github.com/andrew-jang/raghub)) (Stars: 0, Language: Unknown) - `ai/rag`
+86. [GoogleCloudPlatform/generative-ai](../../ai/rag/googlecloudplatform-generative-ai.md) ([Source](https://github.com/googlecloudplatform/generative-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
+87. [run-llama/llama_deploy](../../ai/rag/run-llama-llama-deploy.md) ([Source](https://github.com/run-llama/llama_deploy)) (Stars: 0, Language: Unknown) - `ai/rag`
+88. [crazyaiml/Superml.DataTruth](../../ai/rag/crazyaiml-superml-datatruth.md) ([Source](https://github.com/crazyaiml/superml.datatruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+89. [HKUDS/LightRAG](../../ai/rag/hkuds-lightrag.md) ([Source](https://github.com/hkuds/lightrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+90. [tomasonjo/langchain-neo4j](../../ai/rag/tomasonjo-langchain-neo4j.md) ([Source](https://github.com/tomasonjo/langchain-neo4j)) (Stars: 0, Language: Unknown) - `ai/rag`
+91. [FlowiseAI/Flowise](../../ai/rag/flowiseai-flowise.md) ([Source](https://github.com/flowiseai/flowise)) (Stars: 0, Language: Unknown) - `ai/rag`
+92. [pallets/flask](../../ai/rag/pallets-flask.md) ([Source](https://github.com/pallets/flask)) (Stars: 0, Language: Unknown) - `ai/rag`
+93. [aomediacodec/libavif](../../ai/rag/aomediacodec-libavif.md) ([Source](https://github.com/aomediacodec/libavif)) (Stars: 0, Language: Unknown) - `ai/rag`
+94. [virattt/dexter](../../ai/rag/virattt-dexter.md) ([Source](https://github.com/virattt/dexter)) (Stars: 0, Language: Unknown) - `ai/rag`
+95. [protocolbuffers/protobuf](../../ai/rag/protocolbuffers-protobuf.md) ([Source](https://github.com/protocolbuffers/protobuf)) (Stars: 0, Language: Unknown) - `ai/rag`
+96. [readthedocs/tutorial-template](../../ai/rag/readthedocs-tutorial-template.md) ([Source](https://github.com/readthedocs/tutorial-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+97. [lgesuellip/langgraph-whatsapp-agent](../../ai/rag/lgesuellip-langgraph-whatsapp-agent.md) ([Source](https://github.com/lgesuellip/langgraph-whatsapp-agent)) (Stars: 0, Language: Unknown) - `ai/rag`
+98. [openai/tiktoken](../../ai/rag/openai-tiktoken.md) ([Source](https://github.com/openai/tiktoken)) (Stars: 0, Language: Unknown) - `ai/rag`
+99. [run-llama/llama-hub](../../ai/rag/run-llama-llama-hub.md) ([Source](https://github.com/run-llama/llama-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
+100. [vercel-labs/knowledge-agent-template](../../ai/rag/vercel-labs-knowledge-agent-template.md) ([Source](https://github.com/vercel-labs/knowledge-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+101. [cli/cli](../../ai/rag/cli-cli.md) ([Source](https://github.com/cli/cli)) (Stars: 0, Language: Unknown) - `ai/rag`
+102. [tonykipkemboi/trip_planner_agent](../../ai/rag/tonykipkemboi-trip-planner-agent.md) ([Source](https://github.com/tonykipkemboi/trip_planner_agent)) (Stars: 0, Language: Unknown) - `ai/rag`
+103. [cline/cline](../../ai/rag/cline-cline.md) ([Source](https://github.com/cline/cline)) (Stars: 0, Language: Unknown) - `ai/rag`
+104. [kyrolabs/awesome-agents](../../ai/rag/kyrolabs-awesome-agents.md) ([Source](https://github.com/kyrolabs/awesome-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+105. [crewAIInc/awesome-crewai](../../ai/agents/crewaiinc-awesome-crewai.md) ([Source](https://github.com/crewaiinc/awesome-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
+106. [vin67/crewai_docker](../../ai/agents/vin67-crewai-docker.md) ([Source](https://github.com/vin67/crewai_docker)) (Stars: 0, Language: Unknown) - `ai/agents`
+107. [scotthavird/crewai-template](../../ai/agents/scotthavird-crewai-template.md) ([Source](https://github.com/scotthavird/crewai-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+108. [TEN-framework/ten-framework](../../ai/agents/ten-framework-ten-framework.md) ([Source](https://github.com/ten-framework/ten-framework)) (Stars: 0, Language: Unknown) - `ai/agents`
+109. [LangChain-OpenTutorial/LangChain-OpenTutorial](../../ai/agents/langchain-opentutorial-langchain-opentutorial.md) ([Source](https://github.com/langchain-opentutorial/langchain-opentutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+110. [Fosowl/agenticSeek](../../ai/agents/fosowl-agenticseek.md) ([Source](https://github.com/fosowl/agenticseek)) (Stars: 0, Language: Unknown) - `ai/agents`
+111. [alexfazio/crewAI-quickstart](../../ai/agents/alexfazio-crewai-quickstart.md) ([Source](https://github.com/alexfazio/crewai-quickstart)) (Stars: 0, Language: Unknown) - `ai/agents`
+112. [daimon111/daimon-template](../../ai/agents/daimon111-daimon-template.md) ([Source](https://github.com/daimon111/daimon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+113. [langchain-ai/open-swe](../../ai/agents/langchain-ai-open-swe.md) ([Source](https://github.com/langchain-ai/open-swe)) (Stars: 0, Language: Unknown) - `ai/agents`
+114. [transitive-bullshit/agentic](../../ai/agents/transitive-bullshit-agentic.md) ([Source](https://github.com/transitive-bullshit/agentic)) (Stars: 0, Language: Unknown) - `ai/agents`
+115. [The-Swarm-Corporation/Multi-Agent-Template-App](../../ai/agents/the-swarm-corporation-multi-agent-template-app.md) ([Source](https://github.com/the-swarm-corporation/multi-agent-template-app)) (Stars: 0, Language: Unknown) - `ai/agents`
+116. [microsoft/agentsleague](../../ai/agents/microsoft-agentsleague.md) ([Source](https://github.com/microsoft/agentsleague)) (Stars: 0, Language: Unknown) - `ai/agents`
+117. [TheAgentCompany/TheAgentCompany](../../ai/agents/theagentcompany-theagentcompany.md) ([Source](https://github.com/theagentcompany/theagentcompany)) (Stars: 0, Language: Unknown) - `ai/agents`
+118. [atticus98/codex-turbo](../../ai/agents/atticus98-codex-turbo.md) ([Source](https://github.com/atticus98/codex-turbo)) (Stars: 0, Language: Unknown) - `ai/agents`
+119. [gptme/gptme-agent-template](../../ai/agents/gptme-gptme-agent-template.md) ([Source](https://github.com/gptme/gptme-agent-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+120. [odsc2015/agentic-hackathon-template](../../ai/agents/odsc2015-agentic-hackathon-template.md) ([Source](https://github.com/odsc2015/agentic-hackathon-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+121. [fparpas/Developing-Agentic-AI-Apps-Hackathon](../../ai/agents/fparpas-developing-agentic-ai-apps-hackathon.md) ([Source](https://github.com/fparpas/developing-agentic-ai-apps-hackathon)) (Stars: 0, Language: Unknown) - `ai/agents`
+122. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) (Stars: 0, Language: Unknown) - `ai/agents`
+123. [langchain-ai/data-enrichment](../../ai/agents/langchain-ai-data-enrichment.md) ([Source](https://github.com/langchain-ai/data-enrichment)) (Stars: 0, Language: Unknown) - `ai/agents`
+124. [activepieces/activepieces](../../ai/agents/activepieces-activepieces.md) ([Source](https://github.com/activepieces/activepieces)) (Stars: 0, Language: Unknown) - `ai/agents`
+125. [duanyytop/agents-radar](../../ai/agents/duanyytop-agents-radar.md) ([Source](https://github.com/duanyytop/agents-radar)) (Stars: 0, Language: Unknown) - `ai/agents`
+126. [vonzosten/awesome-LangGraph](../../ai/agents/vonzosten-awesome-langgraph.md) ([Source](https://github.com/vonzosten/awesome-langgraph)) (Stars: 0, Language: Unknown) - `ai/agents`
+127. [JoshuaC215/agent-service-toolkit](../../ai/agents/joshuac215-agent-service-toolkit.md) ([Source](https://github.com/joshuac215/agent-service-toolkit)) (Stars: 0, Language: Unknown) - `ai/agents`
+128. [snyk/agent-scan](../../ai/agents/snyk-agent-scan.md) ([Source](https://github.com/snyk/agent-scan)) (Stars: 0, Language: Unknown) - `ai/agents`
+129. [SamuelSchmidgall/AgentLaboratory](../../ai/agents/samuelschmidgall-agentlaboratory.md) ([Source](https://github.com/samuelschmidgall/agentlaboratory)) (Stars: 0, Language: Unknown) - `ai/agents`
+130. [ashishpatel26/500-AI-Agents-Projects](../../ai/agents/ashishpatel26-500-ai-agents-projects.md) ([Source](https://github.com/ashishpatel26/500-ai-agents-projects)) (Stars: 0, Language: Unknown) - `ai/agents`
+131. [langchain-ai/react-agent](../../ai/agents/langchain-ai-react-agent.md) ([Source](https://github.com/langchain-ai/react-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+132. [crewAIInc/crewAI-tools](../../ai/agents/crewaiinc-crewai-tools.md) ([Source](https://github.com/crewaiinc/crewai-tools)) (Stars: 0, Language: Unknown) - `ai/agents`
+133. [secret-mars/loop-starter-kit](../../ai/agents/secret-mars-loop-starter-kit.md) ([Source](https://github.com/secret-mars/loop-starter-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
+134. [The-Pocket/PocketFlow-Template-Python](../../ai/agents/the-pocket-pocketflow-template-python.md) ([Source](https://github.com/the-pocket/pocketflow-template-python)) (Stars: 0, Language: Unknown) - `ai/agents`
+135. [agentuniverse-ai/agentUniverse](../../ai/agents/agentuniverse-ai-agentuniverse.md) ([Source](https://github.com/agentuniverse-ai/agentuniverse)) (Stars: 0, Language: Unknown) - `ai/agents`
+136. [muhammad-uzair-yasin/CrewAi_starter_template](../../ai/agents/muhammad-uzair-yasin-crewai-starter-template.md) ([Source](https://github.com/muhammad-uzair-yasin/crewai_starter_template)) (Stars: 0, Language: Unknown) - `ai/agents`
+137. [ksm26/Multi-AI-Agent-Systems-with-crewAI](../../ai/agents/ksm26-multi-ai-agent-systems-with-crewai.md) ([Source](https://github.com/ksm26/multi-ai-agent-systems-with-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
+138. [czl9707/build-your-own-openclaw](../../ai/agents/czl9707-build-your-own-openclaw.md) ([Source](https://github.com/czl9707/build-your-own-openclaw)) (Stars: 0, Language: Unknown) - `ai/agents`
+139. [coleam00/agentic-chat-application-template](../../ai/agents/coleam00-agentic-chat-application-template.md) ([Source](https://github.com/coleam00/agentic-chat-application-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+140. [strnad/CrewAI-Studio](../../ai/agents/strnad-crewai-studio.md) ([Source](https://github.com/strnad/crewai-studio)) (Stars: 0, Language: Unknown) - `ai/agents`
+141. [langchain-ai/new-langgraphjs-project](../../ai/agents/langchain-ai-new-langgraphjs-project.md) ([Source](https://github.com/langchain-ai/new-langgraphjs-project)) (Stars: 0, Language: Unknown) - `ai/agents`
+142. [coleam00/pydantic-ai-github-agent](../../ai/agents/coleam00-pydantic-ai-github-agent.md) ([Source](https://github.com/coleam00/pydantic-ai-github-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+143. [sanbuphy/learn-coding-agent](../../ai/agents/sanbuphy-learn-coding-agent.md) ([Source](https://github.com/sanbuphy/learn-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+144. [earendil-works/pi](../../ai/agents/earendil-works-pi.md) ([Source](https://github.com/earendil-works/pi)) (Stars: 0, Language: Unknown) - `ai/agents`
+145. [masumi-network/crewai-masumi-quickstart-template](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([Source](https://github.com/masumi-network/crewai-masumi-quickstart-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+146. [airalab/autonomous_agent_template](../../ai/agents/airalab-autonomous-agent-template.md) ([Source](https://github.com/airalab/autonomous_agent_template)) (Stars: 0, Language: Unknown) - `ai/agents`
+147. [addyosmani/agent-skills](../../ai/agents/addyosmani-agent-skills.md) ([Source](https://github.com/addyosmani/agent-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
+148. [JCodesMore/ai-website-cloner-template](../../ai/agents/jcodesmore-ai-website-cloner-template.md) ([Source](https://github.com/jcodesmore/ai-website-cloner-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+149. [daveebbelaar/ai-cookbook](../../ai/agents/daveebbelaar-ai-cookbook.md) ([Source](https://github.com/daveebbelaar/ai-cookbook)) (Stars: 0, Language: Unknown) - `ai/agents`
+150. [langchain-ai/deepagentsjs](../../ai/agents/langchain-ai-deepagentsjs.md) ([Source](https://github.com/langchain-ai/deepagentsjs)) (Stars: 0, Language: Unknown) - `ai/agents`
+151. [pingwu/crewai-similar-framework-finder-template](../../ai/agents/pingwu-crewai-similar-framework-finder-template.md) ([Source](https://github.com/pingwu/crewai-similar-framework-finder-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+152. [codrops/ScrollBasedLayoutAnimations](../../web-development/gsap/codrops-scrollbasedlayoutanimations.md) ([Source](https://github.com/codrops/scrollbasedlayoutanimations)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+153. [chrisgannon/ScrollLottie](../../web-development/gsap/chrisgannon-scrolllottie.md) ([Source](https://github.com/chrisgannon/scrolllottie)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+154. [codebucks27/The-Weirdos-NFT-Website-Starter-Code](../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md) ([Source](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+155. [codebucks27/3D-Landing-page-for-Apple-iPhone](../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) ([Source](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+156. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([Source](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+157. [ShowravKormokar/capsule](../../web-development/gsap/showravkormokar-capsule.md) ([Source](https://github.com/showravkormokar/capsule)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+158. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+159. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+160. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+161. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+162. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+163. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+164. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+165. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+166. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+167. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+168. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+169. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+170. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+171. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+172. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+173. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+174. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+175. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+176. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+177. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+178. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+179. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+180. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+181. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+182. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+183. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+184. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+185. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+186. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+187. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+188. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+189. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+190. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+191. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+192. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+193. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+194. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+195. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+196. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+197. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+198. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+199. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+200. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+201. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+202. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+203. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+204. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+205. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+206. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+207. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+208. [ykob/sketch-threejs](../../web-development/threejs/ykob-sketch-threejs.md) ([Source](https://github.com/ykob/sketch-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+209. [mrdoob/three.js](../../web-development/threejs/mrdoob-three-js.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+210. [luosijie/threejs-examples](../../web-development/threejs/luosijie-threejs-examples.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+211. [davidlyons/threejs-intro](../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+212. [fireship-io/threejs-scroll-animation-demo](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+213. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
+214. [mkkellogg/GaussianSplats3D](../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+215. [vasturiano/3d-force-graph](../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+216. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+217. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+218. [gkjohnson/threejs-sandbox](../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+219. [xiao149/ThreeJsDemo](../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+220. [puxiao/threejs-tutorial](../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+221. [z2586300277/three-cesium-examples](../../web-development/threejs/z2586300277-three-cesium-examples.md) ([Source](https://github.com/z2586300277/three-cesium-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+222. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([Source](https://github.com/dhruvmisra/pathfinding-visualizer-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+223. [wechat-miniprogram/threejs-miniprogram](../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([Source](https://github.com/wechat-miniprogram/threejs-miniprogram)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+224. [chenjsh36/ThreeJSForFun](../../web-development/threejs/chenjsh36-threejsforfun.md) ([Source](https://github.com/chenjsh36/threejsforfun)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+225. [wolfwind521/indoor3D](../../web-development/threejs/wolfwind521-indoor3d.md) ([Source](https://github.com/wolfwind521/indoor3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+226. [sanderblue/solar-system-threejs](../../web-development/threejs/sanderblue-solar-system-threejs.md) ([Source](https://github.com/sanderblue/solar-system-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+227. [spite/Wagner](../../web-development/threejs/spite-wagner.md) ([Source](https://github.com/spite/wagner)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+228. [fritx/vue-threejs](../../web-development/threejs/fritx-vue-threejs.md) ([Source](https://github.com/fritx/vue-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+229. [Mario343214420/Webgl-Data-Demo](../../web-development/threejs/mario343214420-webgl-data-demo.md) ([Source](https://github.com/mario343214420/webgl-data-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+230. [josdirksen/learning-threejs-third](../../web-development/threejs/josdirksen-learning-threejs-third.md) ([Source](https://github.com/josdirksen/learning-threejs-third)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+231. [nklsrh/BuildNewGames_ThreeJSGame](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([Source](https://github.com/nklsrh/buildnewgames_threejsgame)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+232. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
+233. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+234. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+235. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+236. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+237. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+238. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+239. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+240. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+241. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+242. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+243. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+244. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+245. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+246. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+247. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+248. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+249. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+250. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+251. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+252. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+253. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+254. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+255. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+256. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+257. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+258. [nobruf/shadcn-landing-page](../../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source](https://github.com/nobruf/shadcn-landing-page)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+259. [shadcnblocks/mainline-nextjs-template](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md) ([Source](https://github.com/shadcnblocks/mainline-nextjs-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+260. [shadcnstore/shadcn-dashboard-landing-template](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source](https://github.com/shadcnstore/shadcn-dashboard-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+261. [saasykits/nextjs-sessionauth-template](../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md) ([Source](https://github.com/saasykits/nextjs-sessionauth-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+262. [ChangoMan/nextjs-mdx-blog](../../web-development/nextjs/changoman-nextjs-mdx-blog.md) ([Source](https://github.com/changoman/nextjs-mdx-blog)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+263. [jolbol1/nextjs-velite-blog-template](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md) ([Source](https://github.com/jolbol1/nextjs-velite-blog-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+264. [shadcnspace/shadcnspace](../../web-development/nextjs/shadcnspace-shadcnspace.md) ([Source](https://github.com/shadcnspace/shadcnspace)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+265. [ixartz/SaaS-Boilerplate](../../web-development/nextjs/ixartz-saas-boilerplate.md) ([Source](https://github.com/ixartz/saas-boilerplate)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+266. [linkb15/turborepo-shadcn-ui-tailwind-4](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md) ([Source](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+267. [enesien/venefish](../../web-development/nextjs/enesien-venefish.md) ([Source](https://github.com/enesien/venefish)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+268. [danybeltran/nextjs-typescript-and-postgresql](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md) ([Source](https://github.com/danybeltran/nextjs-typescript-and-postgresql)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+269. [NotStark/portfolio](../../web-development/nextjs/notstark-portfolio.md) ([Source](https://github.com/notstark/portfolio)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+270. [gonzalochale/saas-landing-template](../../web-development/nextjs/gonzalochale-saas-landing-template.md) ([Source](https://github.com/gonzalochale/saas-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+271. [reliverse/relivator](../../web-development/nextjs/reliverse-relivator.md) ([Source](https://github.com/reliverse/relivator)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+272. [pdsuwwz/nextjs-nextra-starter](../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md) ([Source](https://github.com/pdsuwwz/nextjs-nextra-starter)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+273. [redpangilinan/next-entree](../../web-development/nextjs/redpangilinan-next-entree.md) ([Source](https://github.com/redpangilinan/next-entree)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+274. [asbhogal/Fyrre-Magazine](../../web-development/nextjs/asbhogal-fyrre-magazine.md) ([Source](https://github.com/asbhogal/fyrre-magazine)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+275. [shadcn-ui/ui](../../web-development/shadcn-ui/shadcn-ui-ui.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+276. [birobirobiro/awesome-shadcn-ui](../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+277. [shadcn-ui/taxonomy](../../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([Source](https://github.com/shadcn-ui/taxonomy)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+278. [unovue/shadcn-vue](../../web-development/shadcn-ui/unovue-shadcn-vue.md) ([Source](https://github.com/unovue/shadcn-vue)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+279. [satnaing/shadcn-admin](../../web-development/shadcn-ui/satnaing-shadcn-admin.md) ([Source](https://github.com/satnaing/shadcn-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+280. [huntabyte/shadcn-svelte](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([Source](https://github.com/huntabyte/shadcn-svelte)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+281. [udecode/plate](../../web-development/shadcn-ui/udecode-plate.md) ([Source](https://github.com/udecode/plate)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+282. [Jpisnice/shadcn-ui-mcp-server](../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([Source](https://github.com/jpisnice/shadcn-ui-mcp-server)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+283. [nank1ro/flutter-shadcn-ui](../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md) ([Source](https://github.com/nank1ro/flutter-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+284. [salimi-my/shadcn-ui-sidebar](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([Source](https://github.com/salimi-my/shadcn-ui-sidebar)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+285. [nextjs/saas-starter](../../web-development/shadcn-ui/nextjs-saas-starter.md) ([Source](https://github.com/nextjs/saas-starter)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+286. [zerostaticthemes/square-ui](../../web-development/shadcn-ui/zerostaticthemes-square-ui.md) ([Source](https://github.com/zerostaticthemes/square-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+287. [vbenjs/vue-vben-admin](../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+288. [jnsahaj/tweakcn](../../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([Source](https://github.com/jnsahaj/tweakcn)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+289. [hsuanyi-chou/shadcn-ui-expansions](../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md) ([Source](https://github.com/hsuanyi-chou/shadcn-ui-expansions)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+290. [dan5py/turborepo-shadcn-ui](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([Source](https://github.com/dan5py/turborepo-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+291. [ObservedObserver/streamlit-shadcn-ui](../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([Source](https://github.com/observedobserver/streamlit-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+292. [dan5py/react-vite-shadcn-ui](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md) ([Source](https://github.com/dan5py/react-vite-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+293. [bytefer/awesome-shadcn-ui](../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md) ([Source](https://github.com/bytefer/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+294. [akash3444/shadcn-ui-blocks](../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md) ([Source](https://github.com/akash3444/shadcn-ui-blocks)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+295. [marmelab/atomic-crm](../../web-development/shadcn-ui/marmelab-atomic-crm.md) ([Source](https://github.com/marmelab/atomic-crm)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+296. [shadcn-ui/next-template](../../web-development/shadcn-ui/shadcn-ui-next-template.md) ([Source](https://github.com/shadcn-ui/next-template)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+297. [sadmann7/file-uploader](../../web-development/shadcn-ui/sadmann7-file-uploader.md) ([Source](https://github.com/sadmann7/file-uploader)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+298. [magicuidesign/portfolio](../../web-development/shadcn-ui/magicuidesign-portfolio.md) ([Source](https://github.com/magicuidesign/portfolio)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+299. [jln13x/ui.jln.dev](../../web-development/shadcn-ui/jln13x-ui-jln-dev.md) ([Source](https://github.com/jln13x/ui.jln.dev)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+300. [raga-ai-hub/RagaAI-Catalyst](../../ai/rag/raga-ai-hub-ragaai-catalyst.md) ([Source](https://github.com/raga-ai-hub/ragaai-catalyst)) (Stars: 0, Language: Unknown) - `ai/rag`
+301. [truera/trulens](../../ai/agents/truera-trulens.md) ([Source](https://github.com/truera/trulens)) (Stars: 0, Language: Unknown) - `ai/agents`
+302. [Tencent/AI-Infra-Guard](../../ai/agents/tencent-ai-infra-guard.md) ([Source](https://github.com/tencent/ai-infra-guard)) (Stars: 0, Language: Unknown) - `ai/agents`
+303. [langwatch/langwatch](../../ai/agents/langwatch-langwatch.md) ([Source](https://github.com/langwatch/langwatch)) (Stars: 0, Language: Unknown) - `ai/agents`
+304. [interviewstreet/hiring-agent](../../ai/agents/interviewstreet-hiring-agent.md) ([Source](https://github.com/interviewstreet/hiring-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+305. [trpc-group/trpc-agent-go](../../ai/rag/trpc-group-trpc-agent-go.md) ([Source](https://github.com/trpc-group/trpc-agent-go)) (Stars: 0, Language: Unknown) - `ai/rag`
+306. [Flux159/mcp-chat](../../ai/agents/flux159-mcp-chat.md) ([Source](https://github.com/flux159/mcp-chat)) (Stars: 0, Language: Unknown) - `ai/agents`
+307. [GoogleCloudPlatform/agent-starter-pack](../../ai/agents/googlecloudplatform-agent-starter-pack.md) ([Source](https://github.com/googlecloudplatform/agent-starter-pack)) (Stars: 0, Language: Unknown) - `ai/agents`
+308. [qualifire-dev/rogue](../../ai/agents/qualifire-dev-rogue.md) ([Source](https://github.com/qualifire-dev/rogue)) (Stars: 0, Language: Unknown) - `ai/agents`
+309. [Tencent/AICGSecEval](../../ai/agents/tencent-aicgseceval.md) ([Source](https://github.com/tencent/aicgseceval)) (Stars: 0, Language: Unknown) - `ai/agents`
+310. [Arize-ai/phoenix](../../ai/rag/arize-ai-phoenix.md) ([Source](https://github.com/arize-ai/phoenix)) (Stars: 0, Language: Unknown) - `ai/rag`
+311. [oxbshw/LLM-Agents-Ecosystem-Handbook](../../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([Source](https://github.com/oxbshw/llm-agents-ecosystem-handbook)) (Stars: 0, Language: Unknown) - `ai/rag`
+312. [mozilla-ai/any-agent](../../ai/agents/mozilla-ai-any-agent.md) ([Source](https://github.com/mozilla-ai/any-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+313. [google/adk-go](../../ai/agents/google-adk-go.md) ([Source](https://github.com/google/adk-go)) (Stars: 0, Language: Unknown) - `ai/agents`
+314. [nvm-sh/nvm](../../ai/resources/nvm-sh-nvm.md) ([Source](https://github.com/nvm-sh/nvm)) (Stars: 0, Language: Unknown) - `ai/resources`
+315. [android/privacy-sandbox-samples](../../ai/resources/android-privacy-sandbox-samples.md) ([Source](https://github.com/android/privacy-sandbox-samples)) (Stars: 0, Language: Unknown) - `ai/resources`
+316. [privacysandbox/privacy-sandbox-demos](../../ai/resources/privacysandbox-privacy-sandbox-demos.md) ([Source](https://github.com/privacysandbox/privacy-sandbox-demos)) (Stars: 0, Language: Unknown) - `ai/resources`
+317. [GoogleChrome/web-vitals](../../ai/resources/googlechrome-web-vitals.md) ([Source](https://github.com/googlechrome/web-vitals)) (Stars: 0, Language: Unknown) - `ai/resources`
+318. [neuml/txtai](../../ai/rag/neuml-txtai.md) ([Source](https://github.com/neuml/txtai)) (Stars: 0, Language: Unknown) - `ai/rag`
+319. [KnowledgeXLab/LeanRAG](../../ai/rag/knowledgexlab-leanrag.md) ([Source](https://github.com/knowledgexlab/leanrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+320. [run-llama/ParseBench](../../ai/rag/run-llama-parsebench.md) ([Source](https://github.com/run-llama/parsebench)) (Stars: 0, Language: Unknown) - `ai/rag`
+321. [onyx-dot-app/onyx](../../ai/rag/onyx-dot-app-onyx.md) ([Source](https://github.com/onyx-dot-app/onyx)) (Stars: 0, Language: Unknown) - `ai/rag`
+322. [wgcyeo/UniversalRAG](../../ai/rag/wgcyeo-universalrag.md) ([Source](https://github.com/wgcyeo/universalrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+323. [alfredodeza/azure-rag](../../ai/rag/alfredodeza-azure-rag.md) ([Source](https://github.com/alfredodeza/azure-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+324. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
+325. [ali-bahrainian/RAG_best_practices](../../ai/rag/ali-bahrainian-rag-best-practices.md) ([Source](https://github.com/ali-bahrainian/rag_best_practices)) (Stars: 0, Language: Unknown) - `ai/rag`
+326. [datawhalechina/hello-agents](../../ai/rag/datawhalechina-hello-agents.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+327. [Azure/GenAIOps-project-template](../../ai/rag/azure-genaiops-project-template.md) ([Source](https://github.com/azure/genaiops-project-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+328. [didilili/ai-agents-from-zero](../../ai/rag/didilili-ai-agents-from-zero.md) ([Source](https://github.com/didilili/ai-agents-from-zero)) (Stars: 0, Language: Unknown) - `ai/rag`
+329. [NirDiamant/agents-towards-production](../../ai/rag/nirdiamant-agents-towards-production.md) ([Source](https://github.com/nirdiamant/agents-towards-production)) (Stars: 0, Language: Unknown) - `ai/rag`
+330. [TencentCloudADP/youtu-graphrag](../../ai/rag/tencentcloudadp-youtu-graphrag.md) ([Source](https://github.com/tencentcloudadp/youtu-graphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+331. [microsoft/rag-time](../../ai/rag/microsoft-rag-time.md) ([Source](https://github.com/microsoft/rag-time)) (Stars: 0, Language: Unknown) - `ai/rag`
+332. [TracecatHQ/tracecat](../../ai/rag/tracecathq-tracecat.md) ([Source](https://github.com/tracecathq/tracecat)) (Stars: 0, Language: Unknown) - `ai/rag`
+333. [Azure-Samples/chat-with-your-data-solution-accelerator](../../ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md) ([Source](https://github.com/azure-samples/chat-with-your-data-solution-accelerator)) (Stars: 0, Language: Unknown) - `ai/rag`
+334. [enescingoz/awesome-n8n-templates](../../ai/rag/enescingoz-awesome-n8n-templates.md) ([Source](https://github.com/enescingoz/awesome-n8n-templates)) (Stars: 0, Language: Unknown) - `ai/rag`
+335. [techwithtim/Langflow-RAG-Tutorial](../../ai/rag/techwithtim-langflow-rag-tutorial.md) ([Source](https://github.com/techwithtim/langflow-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+336. [Yigtwxx/awesome-rag-production](../../ai/rag/yigtwxx-awesome-rag-production.md) ([Source](https://github.com/yigtwxx/awesome-rag-production)) (Stars: 0, Language: Unknown) - `ai/rag`
+337. [ConardLi/garden-skills](../../ai/rag/conardli-garden-skills.md) ([Source](https://github.com/conardli/garden-skills)) (Stars: 0, Language: Unknown) - `ai/rag`
+338. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([Source](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository)) (Stars: 0, Language: Unknown) - `ai/rag`
+339. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+340. [onyx-dot-app/EnterpriseRAG-Bench](../../ai/rag/onyx-dot-app-enterpriserag-bench.md) ([Source](https://github.com/onyx-dot-app/enterpriserag-bench)) (Stars: 0, Language: Unknown) - `ai/rag`
+341. [facebookresearch/CRAG](../../ai/rag/facebookresearch-crag.md) ([Source](https://github.com/facebookresearch/crag)) (Stars: 0, Language: Unknown) - `ai/rag`
+342. [decodingai-magazine/llm-twin-course](../../ai/rag/decodingai-magazine-llm-twin-course.md) ([Source](https://github.com/decodingai-magazine/llm-twin-course)) (Stars: 0, Language: Unknown) - `ai/rag`
+343. [XMUDeepLIT/MemGraphRAG](../../ai/rag/xmudeeplit-memgraphrag.md) ([Source](https://github.com/xmudeeplit/memgraphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+344. [gabrielchua/RAGxplorer](../../ai/rag/gabrielchua-ragxplorer.md) ([Source](https://github.com/gabrielchua/ragxplorer)) (Stars: 0, Language: Unknown) - `ai/rag`
+345. [elizaOS/eliza](../../ai/rag/elizaos-eliza.md) ([Source](https://github.com/elizaos/eliza)) (Stars: 0, Language: Unknown) - `ai/rag`
+346. [crazyaiml/nl-2-sql-agent](../../ai/rag/crazyaiml-nl-2-sql-agent.md) ([Source](https://github.com/crazyaiml/nl-2-sql-agent)) (Stars: 0, Language: Unknown) - `ai/rag`
+347. [langgenius/dify](../../ai/rag/langgenius-dify.md) ([Source](https://github.com/langgenius/dify)) (Stars: 0, Language: Unknown) - `ai/rag`
+348. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+349. [promptfoo/promptfoo-action](../../ai/rag/promptfoo-promptfoo-action.md) ([Source](https://github.com/promptfoo/promptfoo-action)) (Stars: 0, Language: Unknown) - `ai/rag`
+350. [VoltAgent/awesome-ai-agent-papers](../../ai/rag/voltagent-awesome-ai-agent-papers.md) ([Source](https://github.com/voltagent/awesome-ai-agent-papers)) (Stars: 0, Language: Unknown) - `ai/rag`
+351. [DeckardGer/tanstack-agent-skills](../../ai/rag/deckardger-tanstack-agent-skills.md) ([Source](https://github.com/deckardger/tanstack-agent-skills)) (Stars: 0, Language: Unknown) - `ai/rag`
+352. [vercel-labs/workflow-builder-template](../../ai/rag/vercel-labs-workflow-builder-template.md) ([Source](https://github.com/vercel-labs/workflow-builder-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+353. [ray-project/llm-applications](../../ai/rag/ray-project-llm-applications.md) ([Source](https://github.com/ray-project/llm-applications)) (Stars: 0, Language: Unknown) - `ai/rag`
+354. [topoteretes/awesome-ai-memory](../../ai/rag/topoteretes-awesome-ai-memory.md) ([Source](https://github.com/topoteretes/awesome-ai-memory)) (Stars: 0, Language: Unknown) - `ai/rag`
+355. [olegnazarov/rag-security-scanner](../../ai/rag/olegnazarov-rag-security-scanner.md) ([Source](https://github.com/olegnazarov/rag-security-scanner)) (Stars: 0, Language: Unknown) - `ai/rag`
+356. [jxzhangjhu/Awesome-LLM-RAG](../../ai/rag/jxzhangjhu-awesome-llm-rag.md) ([Source](https://github.com/jxzhangjhu/awesome-llm-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+357. [dannyblaker/rag-tutorial](../../ai/rag/dannyblaker-rag-tutorial.md) ([Source](https://github.com/dannyblaker/rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+358. [sleeepeer/PoisonedRAG](../../ai/rag/sleeepeer-poisonedrag.md) ([Source](https://github.com/sleeepeer/poisonedrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+359. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+360. [ritik-prog/n8n-automation-templates-5000](../../ai/rag/ritik-prog-n8n-automation-templates-5000.md) ([Source](https://github.com/ritik-prog/n8n-automation-templates-5000)) (Stars: 0, Language: Unknown) - `ai/rag`
+361. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
+362. [EternityJune25/ComoRAG](../../ai/rag/eternityjune25-comorag.md) ([Source](https://github.com/eternityjune25/comorag)) (Stars: 0, Language: Unknown) - `ai/rag`
+363. [jamwithai/production-agentic-rag-course](../../ai/rag/jamwithai-production-agentic-rag-course.md) ([Source](https://github.com/jamwithai/production-agentic-rag-course)) (Stars: 0, Language: Unknown) - `ai/rag`
+364. [PacktPublishing/LLM-Engineers-Handbook](../../ai/rag/packtpublishing-llm-engineers-handbook.md) ([Source](https://github.com/packtpublishing/llm-engineers-handbook)) (Stars: 0, Language: Unknown) - `ai/rag`
+365. [study8677/antigravity-workspace-template](../../ai/rag/study8677-antigravity-workspace-template.md) ([Source](https://github.com/study8677/antigravity-workspace-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+366. [run-llama/llama_index](../../ai/rag/run-llama-llama-index.md) ([Source](https://github.com/run-llama/llama_index)) (Stars: 0, Language: Unknown) - `ai/rag`
+367. [PierreGode/Ragnar](../../ai/rag/pierregode-ragnar.md) ([Source](https://github.com/pierregode/ragnar)) (Stars: 0, Language: Unknown) - `ai/rag`
+368. [stackitcloud/rag-template](../../ai/rag/stackitcloud-rag-template.md) ([Source](https://github.com/stackitcloud/rag-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+369. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
+370. [IBM/mt-rag-benchmark](../../ai/rag/ibm-mt-rag-benchmark.md) ([Source](https://github.com/ibm/mt-rag-benchmark)) (Stars: 0, Language: Unknown) - `ai/rag`
+371. [pathwaycom/pathway](../../ai/rag/pathwaycom-pathway.md) ([Source](https://github.com/pathwaycom/pathway)) (Stars: 0, Language: Unknown) - `ai/rag`
+372. [HKUDS/RAG-Anything](../../ai/rag/hkuds-rag-anything.md) ([Source](https://github.com/hkuds/rag-anything)) (Stars: 0, Language: Unknown) - `ai/rag`
+373. [bakrianoo/mini-rag](../../ai/rag/bakrianoo-mini-rag.md) ([Source](https://github.com/bakrianoo/mini-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+374. [bangoc123/retrieval-backend-with-rag](../../ai/rag/bangoc123-retrieval-backend-with-rag.md) ([Source](https://github.com/bangoc123/retrieval-backend-with-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+375. [deepset-ai/haystack](../../ai/rag/deepset-ai-haystack.md) ([Source](https://github.com/deepset-ai/haystack)) (Stars: 0, Language: Unknown) - `ai/rag`
+376. [volcengine/OpenViking](../../ai/rag/volcengine-openviking.md) ([Source](https://github.com/volcengine/openviking)) (Stars: 0, Language: Unknown) - `ai/rag`
+377. [IAAR-Shanghai/CRUD_RAG](../../ai/rag/iaar-shanghai-crud-rag.md) ([Source](https://github.com/iaar-shanghai/crud_rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+378. [NVIDIA/workbench-example-agentic-rag](../../ai/rag/nvidia-workbench-example-agentic-rag.md) ([Source](https://github.com/nvidia/workbench-example-agentic-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+379. [vstorm-co/full-stack-ai-agent-template](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([Source](https://github.com/vstorm-co/full-stack-ai-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+380. [hllqkb/Spring-AI-Ailibaba-Best-Practices](../../ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md) ([Source](https://github.com/hllqkb/spring-ai-ailibaba-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
+381. [DEEP-PolyU/LinearRAG](../../ai/rag/deep-polyu-linearrag.md) ([Source](https://github.com/deep-polyu/linearrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+382. [DEEP-PolyU/Awesome-GraphRAG](../../ai/rag/deep-polyu-awesome-graphrag.md) ([Source](https://github.com/deep-polyu/awesome-graphrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+383. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+384. [alvinreal/awesome-opensource-ai](../../ai/rag/alvinreal-awesome-opensource-ai.md) ([Source](https://github.com/alvinreal/awesome-opensource-ai)) (Stars: 0, Language: Unknown) - `ai/rag`
+385. [jim-schwoebel/awesome_ai_agents](../../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([Source](https://github.com/jim-schwoebel/awesome_ai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+386. [IntelLabs/fastRAG](../../ai/rag/intellabs-fastrag.md) ([Source](https://github.com/intellabs/fastrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+387. [chaoql/rag-best-practices](../../ai/rag/chaoql-rag-best-practices.md) ([Source](https://github.com/chaoql/rag-best-practices)) (Stars: 0, Language: Unknown) - `ai/rag`
+388. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+389. [HKUDS/VideoRAG](../../ai/rag/hkuds-videorag.md) ([Source](https://github.com/hkuds/videorag)) (Stars: 0, Language: Unknown) - `ai/rag`
+390. [AI-Application-and-Integration-Lab/MegaRAG](../../ai/rag/ai-application-and-integration-lab-megarag.md) ([Source](https://github.com/ai-application-and-integration-lab/megarag)) (Stars: 0, Language: Unknown) - `ai/rag`
+391. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
+392. [gomate-community/awesome-papers-for-rag](../../ai/rag/gomate-community-awesome-papers-for-rag.md) ([Source](https://github.com/gomate-community/awesome-papers-for-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+393. [Azure-Samples/azure-openai-rag-workshop-template](../../ai/rag/azure-samples-azure-openai-rag-workshop-template.md) ([Source](https://github.com/azure-samples/azure-openai-rag-workshop-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+394. [lancedb/vectordb-recipes](../../ai/rag/lancedb-vectordb-recipes.md) ([Source](https://github.com/lancedb/vectordb-recipes)) (Stars: 0, Language: Unknown) - `ai/rag`
+395. [Cinnamon/kotaemon](../../ai/rag/cinnamon-kotaemon.md) ([Source](https://github.com/cinnamon/kotaemon)) (Stars: 0, Language: Unknown) - `ai/rag`
+396. [rohitg00/agentmemory](../../ai/rag/rohitg00-agentmemory.md) ([Source](https://github.com/rohitg00/agentmemory)) (Stars: 0, Language: Unknown) - `ai/rag`
+397. [apecloud/ApeRAG](../../ai/rag/apecloud-aperag.md) ([Source](https://github.com/apecloud/aperag)) (Stars: 0, Language: Unknown) - `ai/rag`
+398. [awesome-opencode/awesome-opencode](../../ai/rag/awesome-opencode-awesome-opencode.md) ([Source](https://github.com/awesome-opencode/awesome-opencode)) (Stars: 0, Language: Unknown) - `ai/rag`
+399. [naver/bergen](../../ai/rag/naver-bergen.md) ([Source](https://github.com/naver/bergen)) (Stars: 0, Language: Unknown) - `ai/rag`
+400. [Ais1on/CTI-RAG](../../ai/rag/ais1on-cti-rag.md) ([Source](https://github.com/ais1on/cti-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+401. [datawhalechina/wow-rag](../../ai/rag/datawhalechina-wow-rag.md) ([Source](https://github.com/datawhalechina/wow-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+402. [KruxAI/ragbuilder](../../ai/rag/kruxai-ragbuilder.md) ([Source](https://github.com/kruxai/ragbuilder)) (Stars: 0, Language: Unknown) - `ai/rag`
+403. [zhengxuJosh/Awesome-RAG-Vision](../../ai/rag/zhengxujosh-awesome-rag-vision.md) ([Source](https://github.com/zhengxujosh/awesome-rag-vision)) (Stars: 0, Language: Unknown) - `ai/rag`
+404. [GraphRAG-Bench/GraphRAG-Benchmark](../../ai/rag/graphrag-bench-graphrag-benchmark.md) ([Source](https://github.com/graphrag-bench/graphrag-benchmark)) (Stars: 0, Language: Unknown) - `ai/rag`
+405. [nicknochnack/Llama2RAG](../../ai/rag/nicknochnack-llama2rag.md) ([Source](https://github.com/nicknochnack/llama2rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+406. [langchain-ai/rag-research-agent-template](../../ai/rag/langchain-ai-rag-research-agent-template.md) ([Source](https://github.com/langchain-ai/rag-research-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+407. [Azure/agent-innovator-lab](../../ai/rag/azure-agent-innovator-lab.md) ([Source](https://github.com/azure/agent-innovator-lab)) (Stars: 0, Language: Unknown) - `ai/rag`
+408. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+409. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+410. [vndee/local-assistant-examples](../../ai/rag/vndee-local-assistant-examples.md) ([Source](https://github.com/vndee/local-assistant-examples)) (Stars: 0, Language: Unknown) - `ai/rag`
+411. [DavidZWZ/Awesome-Deep-Research](../../ai/rag/davidzwz-awesome-deep-research.md) ([Source](https://github.com/davidzwz/awesome-deep-research)) (Stars: 0, Language: Unknown) - `ai/rag`
+412. [towardsai/ragbook-notebooks](../../ai/rag/towardsai-ragbook-notebooks.md) ([Source](https://github.com/towardsai/ragbook-notebooks)) (Stars: 0, Language: Unknown) - `ai/rag`
+413. [Marker-Inc-Korea/AutoRAG](../../ai/rag/marker-inc-korea-autorag.md) ([Source](https://github.com/marker-inc-korea/autorag)) (Stars: 0, Language: Unknown) - `ai/rag`
+414. [ajac-zero/example-rag-app](../../ai/rag/ajac-zero-example-rag-app.md) ([Source](https://github.com/ajac-zero/example-rag-app)) (Stars: 0, Language: Unknown) - `ai/rag`
+415. [Azure-Samples/aisearch-openai-rag-audio](../../ai/rag/azure-samples-aisearch-openai-rag-audio.md) ([Source](https://github.com/azure-samples/aisearch-openai-rag-audio)) (Stars: 0, Language: Unknown) - `ai/rag`
+416. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+417. [patchy631/ai-engineering-hub](../../ai/rag/patchy631-ai-engineering-hub.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
+418. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+419. [coree/awesome-rag](../../ai/rag/coree-awesome-rag.md) ([Source](https://github.com/coree/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+420. [aws-samples/amazon-bedrock-samples](../../ai/rag/aws-samples-amazon-bedrock-samples.md) ([Source](https://github.com/aws-samples/amazon-bedrock-samples)) (Stars: 0, Language: Unknown) - `ai/rag`
+421. [felladrin/awesome-ai-web-search](../../ai/rag/felladrin-awesome-ai-web-search.md) ([Source](https://github.com/felladrin/awesome-ai-web-search)) (Stars: 0, Language: Unknown) - `ai/rag`
+422. [modelscope/evalscope](../../ai/rag/modelscope-evalscope.md) ([Source](https://github.com/modelscope/evalscope)) (Stars: 0, Language: Unknown) - `ai/rag`
+423. [QuivrHQ/quivr](../../ai/rag/quivrhq-quivr.md) ([Source](https://github.com/quivrhq/quivr)) (Stars: 0, Language: Unknown) - `ai/rag`
+424. [vercel-labs/open-agents](../../ai/rag/vercel-labs-open-agents.md) ([Source](https://github.com/vercel-labs/open-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+425. [SciPhi-AI/R2R](../../ai/rag/sciphi-ai-r2r.md) ([Source](https://github.com/sciphi-ai/r2r)) (Stars: 0, Language: Unknown) - `ai/rag`
+426. [NVIDIA/workbench-example-hybrid-rag](../../ai/rag/nvidia-workbench-example-hybrid-rag.md) ([Source](https://github.com/nvidia/workbench-example-hybrid-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+427. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+428. [vercel-labs/coding-agent-template](../../ai/rag/vercel-labs-coding-agent-template.md) ([Source](https://github.com/vercel-labs/coding-agent-template)) (Stars: 0, Language: Unknown) - `ai/rag`
+429. [vercel-labs/ai-sdk-preview-rag](../../ai/rag/vercel-labs-ai-sdk-preview-rag.md) ([Source](https://github.com/vercel-labs/ai-sdk-preview-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+430. [SecurityClaw/SecurityClaw](../../ai/rag/securityclaw-securityclaw.md) ([Source](https://github.com/securityclaw/securityclaw)) (Stars: 0, Language: Unknown) - `ai/rag`
+431. [NirDiamant/GenAI_Agents](../../ai/rag/nirdiamant-genai-agents.md) ([Source](https://github.com/nirdiamant/genai_agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+432. [eosphoros-ai/DB-GPT](../../ai/rag/eosphoros-ai-db-gpt.md) ([Source](https://github.com/eosphoros-ai/db-gpt)) (Stars: 0, Language: Unknown) - `ai/rag`
+433. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([Source](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+434. [Azure-Samples/app-service-rag-openai-ai-search-dotnet](../../ai/rag/azure-samples-app-service-rag-openai-ai-search-dotnet.md) ([Source](https://github.com/azure-samples/app-service-rag-openai-ai-search-dotnet)) (Stars: 0, Language: Unknown) - `ai/rag`
+435. [ALucek/GraphRAG-Breakdown](../../ai/rag/alucek-graphrag-breakdown.md) ([Source](https://github.com/alucek/graphrag-breakdown)) (Stars: 0, Language: Unknown) - `ai/rag`
+436. [RUC-NLPIR/FlashRAG](../../ai/rag/ruc-nlpir-flashrag.md) ([Source](https://github.com/ruc-nlpir/flashrag)) (Stars: 0, Language: Unknown) - `ai/rag`
+437. [FudanDNN-NLP/RAG](../../ai/rag/fudandnn-nlp-rag.md) ([Source](https://github.com/fudandnn-nlp/rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+438. [opendataloader-project/opendataloader-pdf](../../ai/rag/opendataloader-project-opendataloader-pdf.md) ([Source](https://github.com/opendataloader-project/opendataloader-pdf)) (Stars: 0, Language: Unknown) - `ai/rag`
+439. [airweave-ai/airweave](../../ai/rag/airweave-ai-airweave.md) ([Source](https://github.com/airweave-ai/airweave)) (Stars: 0, Language: Unknown) - `ai/rag`
+440. [raga-ai-hub/raga-llm-hub](../../ai/rag/raga-ai-hub-raga-llm-hub.md) ([Source](https://github.com/raga-ai-hub/raga-llm-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
+441. [streamlit/example-app-langchain-rag](../../ai/rag/streamlit-example-app-langchain-rag.md) ([Source](https://github.com/streamlit/example-app-langchain-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+442. [WenyuChiou/awesome-agentic-ai-zh](../../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([Source](https://github.com/wenyuchiou/awesome-agentic-ai-zh)) (Stars: 0, Language: Unknown) - `ai/rag`
+443. [llmware-ai/llmware](../../ai/rag/llmware-ai-llmware.md) ([Source](https://github.com/llmware-ai/llmware)) (Stars: 0, Language: Unknown) - `ai/rag`
+444. [pathwaycom/llm-app](../../ai/rag/pathwaycom-llm-app.md) ([Source](https://github.com/pathwaycom/llm-app)) (Stars: 0, Language: Unknown) - `ai/rag`
+445. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
+446. [Danielskry/Awesome-RAG](../../ai/rag/danielskry-awesome-rag.md) ([Source](https://github.com/danielskry/awesome-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+447. [techwithtim/ProductionGradeRAGPythonApp](../../ai/rag/techwithtim-productiongraderagpythonapp.md) ([Source](https://github.com/techwithtim/productiongraderagpythonapp)) (Stars: 0, Language: Unknown) - `ai/rag`
+448. [HKUDS/MiniRAG](../../ai/rag/hkuds-minirag.md) ([Source](https://github.com/hkuds/minirag)) (Stars: 0, Language: Unknown) - `ai/rag`
+449. [EvanThomasLuke/Awesome-AI-Hacking-Agents](../../ai/agents/evanthomasluke-awesome-ai-hacking-agents.md) ([Source](https://github.com/evanthomasluke/awesome-ai-hacking-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+450. [Code-and-Sorts/awesome-copilot-agents](../../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([Source](https://github.com/code-and-sorts/awesome-copilot-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+451. [AvdLee/SwiftUI-Agent-Skill](../../ai/agents/avdlee-swiftui-agent-skill.md) ([Source](https://github.com/avdlee/swiftui-agent-skill)) (Stars: 0, Language: Unknown) - `ai/agents`
+452. [cisco-ai-defense/defenseclaw](../../ai/agents/cisco-ai-defense-defenseclaw.md) ([Source](https://github.com/cisco-ai-defense/defenseclaw)) (Stars: 0, Language: Unknown) - `ai/agents`
+453. [facebookresearch/MLGym](../../ai/agents/facebookresearch-mlgym.md) ([Source](https://github.com/facebookresearch/mlgym)) (Stars: 0, Language: Unknown) - `ai/agents`
+454. [run-llama/llama-cloud-ts](../../ai/agents/run-llama-llama-cloud-ts.md) ([Source](https://github.com/run-llama/llama-cloud-ts)) (Stars: 0, Language: Unknown) - `ai/agents`
+455. [shanraisshan/claude-code-best-practice](../../ai/agents/shanraisshan-claude-code-best-practice.md) ([Source](https://github.com/shanraisshan/claude-code-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
+456. [openai/mle-bench](../../ai/agents/openai-mle-bench.md) ([Source](https://github.com/openai/mle-bench)) (Stars: 0, Language: Unknown) - `ai/agents`
+457. [0x4m4/hexstrike-ai](../../ai/agents/0x4m4-hexstrike-ai.md) ([Source](https://github.com/0x4m4/hexstrike-ai)) (Stars: 0, Language: Unknown) - `ai/agents`
+458. [mergisi/awesome-openclaw-agents](../../ai/agents/mergisi-awesome-openclaw-agents.md) ([Source](https://github.com/mergisi/awesome-openclaw-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+459. [vercel/ai](../../ai/agents/vercel-ai.md) ([Source](https://github.com/vercel/ai)) (Stars: 0, Language: Unknown) - `ai/agents`
+460. [hoodini/ai-agents-skills](../../ai/agents/hoodini-ai-agents-skills.md) ([Source](https://github.com/hoodini/ai-agents-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
+461. [pguso/ai-agents-from-scratch](../../ai/agents/pguso-ai-agents-from-scratch.md) ([Source](https://github.com/pguso/ai-agents-from-scratch)) (Stars: 0, Language: Unknown) - `ai/agents`
+462. [0xSteph/pentest-ai-agents](../../ai/agents/0xsteph-pentest-ai-agents.md) ([Source](https://github.com/0xsteph/pentest-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+463. [caramaschiHG/awesome-ai-agents-2026](../../ai/agents/caramaschihg-awesome-ai-agents-2026.md) ([Source](https://github.com/caramaschihg/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+464. [idosal/git-mcp](../../ai/agents/idosal-git-mcp.md) ([Source](https://github.com/idosal/git-mcp)) (Stars: 0, Language: Unknown) - `ai/agents`
+465. [Prat011/awesome-llm-skills](../../ai/agents/prat011-awesome-llm-skills.md) ([Source](https://github.com/prat011/awesome-llm-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
+466. [codebasics/ai-agents](../../ai/agents/codebasics-ai-agents.md) ([Source](https://github.com/codebasics/ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+467. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) (Stars: 0, Language: Unknown) - `ai/agents`
+468. [coleam00/ottomator-agents](../../ai/agents/coleam00-ottomator-agents.md) ([Source](https://github.com/coleam00/ottomator-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+469. [AhsanAyaz/ai-agents-google-adk](../../ai/agents/ahsanayaz-ai-agents-google-adk.md) ([Source](https://github.com/ahsanayaz/ai-agents-google-adk)) (Stars: 0, Language: Unknown) - `ai/agents`
+470. [github/awesome-copilot](../../ai/agents/github-awesome-copilot.md) ([Source](https://github.com/github/awesome-copilot)) (Stars: 0, Language: Unknown) - `ai/agents`
+471. [MuhammadUsmanGM/claude-code-best-practices](../../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([Source](https://github.com/muhammadusmangm/claude-code-best-practices)) (Stars: 0, Language: Unknown) - `ai/agents`
+472. [ghuntley/how-to-build-a-coding-agent](../../ai/agents/ghuntley-how-to-build-a-coding-agent.md) ([Source](https://github.com/ghuntley/how-to-build-a-coding-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+473. [shanraisshan/codex-cli-best-practice](../../ai/agents/shanraisshan-codex-cli-best-practice.md) ([Source](https://github.com/shanraisshan/codex-cli-best-practice)) (Stars: 0, Language: Unknown) - `ai/agents`
+474. [affaan-m/agentshield](../../ai/agents/affaan-m-agentshield.md) ([Source](https://github.com/affaan-m/agentshield)) (Stars: 0, Language: Unknown) - `ai/agents`
+475. [trycua/cua](../../ai/agents/trycua-cua.md) ([Source](https://github.com/trycua/cua)) (Stars: 0, Language: Unknown) - `ai/agents`
+476. [kylestratis/ai_agents_mcp_examples](../../ai/agents/kylestratis-ai-agents-mcp-examples.md) ([Source](https://github.com/kylestratis/ai_agents_mcp_examples)) (Stars: 0, Language: Unknown) - `ai/agents`
+477. [sierra-research/tau2-bench](../../ai/agents/sierra-research-tau2-bench.md) ([Source](https://github.com/sierra-research/tau2-bench)) (Stars: 0, Language: Unknown) - `ai/agents`
+478. [wassim249/fastapi-langgraph-agent-production-ready-template](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([Source](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+479. [slavakurilyak/awesome-ai-agents](../../ai/agents/slavakurilyak-awesome-ai-agents.md) ([Source](https://github.com/slavakurilyak/awesome-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+480. [supermldev/agenticai](../../ai/agents/supermldev-agenticai.md) ([Source](https://github.com/supermldev/agenticai)) (Stars: 0, Language: Unknown) - `ai/agents`
+481. [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md) ([Source](https://github.com/arunagirinathan-k/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+482. [AlexPEClub/ai-coding-starter-kit](../../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([Source](https://github.com/alexpeclub/ai-coding-starter-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
+483. [huangjia2019/ai-agents](../../ai/agents/huangjia2019-ai-agents.md) ([Source](https://github.com/huangjia2019/ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+484. [NVIDIA-AI-Blueprints/aiq](../../ai/agents/nvidia-ai-blueprints-aiq.md) ([Source](https://github.com/nvidia-ai-blueprints/aiq)) (Stars: 0, Language: Unknown) - `ai/agents`
+485. [steel-dev/awesome-web-agents](../../ai/agents/steel-dev-awesome-web-agents.md) ([Source](https://github.com/steel-dev/awesome-web-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+486. [run-llama/llama-cloud-py](../../ai/agents/run-llama-llama-cloud-py.md) ([Source](https://github.com/run-llama/llama-cloud-py)) (Stars: 0, Language: Unknown) - `ai/agents`
+487. [Leonxlnx/agentic-ai-prompt-research](../../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([Source](https://github.com/leonxlnx/agentic-ai-prompt-research)) (Stars: 0, Language: Unknown) - `ai/agents`
+488. [greensock/gsap-skills](../../ai/agents/greensock-gsap-skills.md) ([Source](https://github.com/greensock/gsap-skills)) (Stars: 0, Language: Unknown) - `ai/agents`
+489. [e2b-dev/awesome-ai-agents](../../ai/agents/e2b-dev-awesome-ai-agents.md) ([Source](https://github.com/e2b-dev/awesome-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+490. [msoedov/agentic_security](../../ai/agents/msoedov-agentic-security.md) ([Source](https://github.com/msoedov/agentic_security)) (Stars: 0, Language: Unknown) - `ai/agents`
+491. [Sri-Krishna-V/awesome-adk-agents](../../ai/agents/sri-krishna-v-awesome-adk-agents.md) ([Source](https://github.com/sri-krishna-v/awesome-adk-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+492. [viktoriasemaan/multi-agent](../../ai/agents/viktoriasemaan-multi-agent.md) ([Source](https://github.com/viktoriasemaan/multi-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+493. [yzfly/awesome-voice-agents](../../ai/agents/yzfly-awesome-voice-agents.md) ([Source](https://github.com/yzfly/awesome-voice-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+494. [superMLdev/smart-sdlc](../../ai/agents/supermldev-smart-sdlc.md) ([Source](https://github.com/supermldev/smart-sdlc)) (Stars: 0, Language: Unknown) - `ai/agents`
+495. [HoangNguyen0403/agent-skills-standard](../../ai/agents/hoangnguyen0403-agent-skills-standard.md) ([Source](https://github.com/hoangnguyen0403/agent-skills-standard)) (Stars: 0, Language: Unknown) - `ai/agents`
+496. [AgentOps-AI/agentops](../../ai/agents/agentops-ai-agentops.md) ([Source](https://github.com/agentops-ai/agentops)) (Stars: 0, Language: Unknown) - `ai/agents`
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../skills/automation.md) (754 updates)
-- [RAG](../../skills/rag.md) (532 updates)
-- [Vector Databases](../../skills/vector-databases.md) (532 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (486 updates)
-- [AI Agents](../../skills/ai-agents.md) (364 updates)
-- [LLMOps](../../skills/llmops.md) (99 updates)
-- [Three.js & WebGL](../../skills/threejs.md) (87 updates)
-- [FastAPI](../../skills/fastapi.md) (68 updates)
-- [Local LLMs & Inference](../../skills/local-llm.md) (41 updates)
-- [Prompt Engineering](../../skills/prompt-engineering.md) (39 updates)
+- [Workflow Automation](../../skills/automation.md) (779 updates)
+- [RAG](../../skills/rag.md) (559 updates)
+- [Vector Databases](../../skills/vector-databases.md) (559 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (504 updates)
+- [AI Agents](../../skills/ai-agents.md) (368 updates)
+- [LLMOps](../../skills/llmops.md) (96 updates)
+- [Three.js & WebGL](../../skills/threejs.md) (89 updates)
+- [FastAPI](../../skills/fastapi.md) (65 updates)
+- [Local LLMs & Inference](../../skills/local-llm.md) (43 updates)
+- [Prompt Engineering](../../skills/prompt-engineering.md) (36 updates)
 
 ## Recommended Projects To Build
 
@@ -2343,4 +2405,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-30T02:02:48.098976+05:30
+2026-06-30T04:07:15.935885+05:30

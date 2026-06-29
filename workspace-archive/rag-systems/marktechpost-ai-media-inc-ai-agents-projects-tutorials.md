@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Systems**: Repository focuses on advanced multi-agent architectures, including coordination, communication protocols, and inter-agent dependency management for complex workflows.
-
-- **Memory & Reasoning Loops**: Implements persistent memory systems (short/long-term) and iterative reasoning loops (e.g., reflection, self-critique) to enhance agent decision-making and task execution.
-
-- **Agentic Frameworks**: Provides tutorials on agentic AI development using frameworks like LangCh
+- **Multi-agent systems**: Repository focuses on collaborative AI agents with distributed skills, workflows, and reasoning loops for complex task execution.
+- **Memory & Planning**: Includes tutorials on integrating memory architectures and planning algorithms (e.g., hierarchical, reflective) for agentic decision-making.
+- **Jupyter Notebooks**: All projects/tutorials are implemented in Jupyter Notebooks, covering frameworks like LangChain, CrewAI, and agentic RAG pipelines.
 
 ## Use Cases
 

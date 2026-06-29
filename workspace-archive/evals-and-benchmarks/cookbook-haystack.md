@@ -6,9 +6,9 @@ source_url: https://haystack.deepset.ai/cookbook
 resource_id: blog:cookbook-haystack
 local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
-archive_score: 78
+archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -31,19 +31,22 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 78 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes for integrating model providers, vector databases, retrieval techniques, and more, with examples spanning RAG, agents, multimodal processing, and advanced retrieval strategies.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
 
-- **Key Technical Areas Covered**: Custom tool integration (e.g., MCP, OpenStreetMap), hybrid retrieval (e.g., BM42, HyDE), and agentic workflows (e.g., self-reflecting agents, swarm architectures) with support for async execution and function calling.
-
-- **Specialize
+- **Key Recipes Include**:
+  - Agentic Itinerary Planning with OpenStreetMap.
+  - Tabular Data Processing with Prior Labs MCP.
+  - Using Mem0 Memory Store with Haystack Agents.
+  - Hybrid RAG Pipeline with Breakpoints and Query Decomposition.
+  - Multimodal A
 
 ## Use Cases
 

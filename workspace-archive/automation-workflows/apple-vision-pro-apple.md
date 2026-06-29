@@ -8,7 +8,7 @@ local_vault_path: ai/resources/apple-vision-pro-apple.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
@@ -28,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **M5 Chip Integration**: Apple Vision Pro incorporates the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital content with physical space while maintaining power efficiency.
+- **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, delivering high-performance mobile and wearable computing with advanced spatial processing for seamless digital-physical integration.
 
-- **Dual Knit Band & Fit Dial**: Features a counterbalanced Dual Knit Band with breathable straps and an independent Fit Dial for personalized comfort, allowing users to adjust upper/lower straps for optimal fit during extended spatial computing sessions.
+- **Dual Knit Band & Fit System**: The Dual Knit Band combines breathable, counterbalanced straps with an independent Fit Dial for adjustable upper/lower tension, ensuring prolonged comfort and personalized fit.
 
-- **Z
+- **ZEISS Optical & Spatial Audio**: Magnetically attached ZEISS Optical Inserts p
 
 ## Use Cases
 

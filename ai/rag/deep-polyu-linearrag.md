@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-30T01:49:15.673646+05:30'
+collected_at: '2026-06-30T03:53:56.217801+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 520
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-30T01:49:15.673646+05:30'
-last_seen: '2026-06-30T01:49:15.673646+05:30'
-last_checked: '2026-06-30T01:49:15.673646+05:30'
+first_seen: '2026-06-30T03:53:56.217801+05:30'
+last_seen: '2026-06-30T03:53:56.217801+05:30'
+last_checked: '2026-06-30T03:53:56.217801+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval mechanism for Large Language Models (LLMs), optimizing graph traversal and retrieval efficiency for large-scale corpora by leveraging linear graph structures to reduce computational overhead.
-
-- **ICLR 2026 Contribution**: Proposes a novel approach to Graph Retrieval-Augmented Generation (GraphRAG) that integrates linear graph algorithms to enhance scalability and retrieval accuracy, addressing challenges in dynamic and large-scale knowledge graphs.
-
-- **Implementation**: Provides an open-source Python implementation with optimized graph traversal and retrieval pipelines, supporting efficient integration with LLMs for enhanced contextual generation and reasoning.
+- Introduces **LinearRAG**, a novel **graph-based Retrieval-Augmented Generation (RAG)** framework optimizing linear-time retrieval for large-scale corpora, addressing scalability limitations in traditional RAG systems.
+- Proposes **linear graph traversal** techniques to efficiently navigate and retrieve relevant information from **large knowledge graphs**, reducing computational overhead while maintaining retrieval accuracy.
+- Demonstrates **empirical improvements** in retrieval efficiency and downstream task performance on **LLM-based generation tasks**, validated through experiments on benchmark datasets.
 
 ## Why It Matters
 

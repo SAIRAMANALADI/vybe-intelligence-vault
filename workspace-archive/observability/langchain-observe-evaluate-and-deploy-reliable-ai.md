@@ -6,7 +6,7 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Observability & Debugging**: LangSmith provides native tracing for agent frameworks (OpenTelemetry-compatible), structured timelines for multi-turn interactions, and AI-driven analytics to debug complex agent behaviors (e.g., branching logic, tool integration).
+- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals to accelerate agent improvement via structured production trace analysis.
 
-- **Evaluation & Iteration**: Supports reusable LLM-as-judge evals, human feedback annotations, and automated scoring (online/offline) to iteratively improve agents using production traces as test cases.
+- **Multi-Layered Agent Infrastructure**: Supports fault-tolerant, scalable deployment with native A2A/MCP protocol integration, durable checkpointing, and async human-agent collaboration.
 
-- **Deployment & Scalability
+- **Cross-Framework Observability & Evaluation**: Framework-agnostic tracing (Python/TypeScript/Go/Java SDKs) with LLM-as-judge evals, human
 
 ## Use Cases
 

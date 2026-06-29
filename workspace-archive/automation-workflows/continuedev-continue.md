@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **TypeScript-based open-source coding agent** with CLI integration for AI-assisted development workflows.
-- **34.5K+ GitHub stars** and **4.8K+ forks**, indicating strong community adoption and collaboration.
-- **Last updated June 2026**, ensuring ongoing maintenance and feature updates for developer tools.
+- **TypeScript-based open-source coding agent** enabling AI-assisted development workflows via CLI and IDE integrations.
+- **Modular architecture** supporting extensible plugins for language models, tools, and custom workflows.
+- **GitHub repository** with 34.5K+ stars, 4.8K+ forks, and active updates as of June 2026.
 
 ## Use Cases
 

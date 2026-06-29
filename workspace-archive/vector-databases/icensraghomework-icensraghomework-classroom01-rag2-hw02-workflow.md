@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`
-- **Metadata**: 1 star, 68 forks, Python-based, last updated 2025-09-16T07:09:35Z
-- **Purpose**: GitHub Classroom assignment repository for RAG2 homework workflow
+- **Repository**: `icensraghomework-classroom01-rag2-hw02_workflow` (Python-based) for a GitHub Classroom assignment.
+- **Metadata**: 1 star, 68 forks, last updated `2025-09-16T07:09:35Z`.
+- **URL**: [GitHub Repository](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow).
 
 ## Use Cases
 

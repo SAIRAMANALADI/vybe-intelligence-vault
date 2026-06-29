@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-30T01:50:35.789000+05:30'
+collected_at: '2026-06-30T03:55:16.314290+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-30T01:50:35.789000+05:30'
-last_seen: '2026-06-30T01:50:35.789000+05:30'
-last_checked: '2026-06-30T01:50:35.789000+05:30'
+first_seen: '2026-06-30T03:55:16.314290+05:30'
+last_seen: '2026-06-30T03:55:16.314290+05:30'
+last_checked: '2026-06-30T03:55:16.314290+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: MLGym is a modular Python framework for training and evaluating AI research agents, emphasizing reproducibility and scalability in machine learning experiments.
+- **Framework & Benchmark**: MLGym introduces a modular Python framework and benchmark suite designed to standardize the evaluation and advancement of AI research agents, enabling reproducible experimentation and comparison across tasks.
 
-- **Benchmark Suite**: Includes standardized benchmarks to assess agent performance across diverse tasks, enabling systematic comparison of algorithms and methodologies.
+- **Modular Architecture**: The framework supports customizable agent-environment interactions via configurable components (e.g., task definitions, agent policies, and training loops), facilitating extensibility for diverse research scenarios.
 
-- **Key Features**: Supports distributed training, hyperparameter optimization, and integrates with popular ML libraries (e.g., PyTorch, TensorFlow) for extensibility.
+- **Benchmark Suite**: Includes standardized benchmarks with predefined metrics to assess agent performance, covering tasks such as optimization, decision-making, and multi-agent coordination under controlled experimental conditions.
 
 ## Why It Matters
 

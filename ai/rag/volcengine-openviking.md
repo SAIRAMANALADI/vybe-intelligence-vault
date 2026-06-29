@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-30T01:48:10.608307+05:30'
+collected_at: '2026-06-30T03:52:51.175740+05:30'
 published_at: '2026-06-29T20:16:42Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
 stars: 26164
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-01-05T07:11:17Z'
 pushed_at: '2026-06-29T16:38:28Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-30T01:48:10.608307+05:30'
-last_seen: '2026-06-30T01:48:10.608307+05:30'
-last_checked: '2026-06-30T01:48:10.608307+05:30'
+first_seen: '2026-06-30T03:52:51.175740+05:30'
+last_seen: '2026-06-30T03:52:51.175740+05:30'
+last_checked: '2026-06-30T03:52:51.175740+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Context Management**: OpenViking provides a file system-based context database for AI Agents, unifying memory, resources, and skills into a hierarchical structure for efficient context delivery and self-evolution.
-- **Agent Integration**: Designed for compatibility with AI Agents like OpenClaw, enabling seamless hierarchical context management and skill utilization.
-- **Technical Stack**: Implemented in Python, supporting agentic RAG, context engineering, and filesystem-based operations for LLM-driven applications.
+- **Context Database for AI Agents**: OpenViking is an open-source context database designed for AI Agents (e.g., OpenClaw), unifying memory, resources, and skills management via a file system paradigm for hierarchical context delivery and self-evolution.
+
+- **File System Paradigm**: Implements a filesystem-like structure to manage agent context, enabling modular organization of memory, resources, and skills for efficient hierarchical delivery and dynamic self-improvement.
+
+- **Python-Based Implementation**: Built in Python, OpenViking supports agentic-RAG, LLM integration, and context engineering, aligning with modern AI agent frameworks and open-source development practices.
 
 ## Why It Matters
 

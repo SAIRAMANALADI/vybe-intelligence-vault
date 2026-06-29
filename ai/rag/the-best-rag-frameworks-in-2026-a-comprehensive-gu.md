@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
-published_at: '2026-06-30T01:47:35.952710+05:30'
-collected_at: '2026-06-30T01:47:35.952725+05:30'
+published_at: '2026-06-30T03:52:16.934486+05:30'
+collected_at: '2026-06-30T03:52:16.934499+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
-first_seen: '2026-06-30T01:47:35.952725+05:30'
-last_seen: '2026-06-30T01:47:35.952725+05:30'
-last_checked: '2026-06-30T01:47:35.952725+05:30'
+first_seen: '2026-06-30T03:52:16.934499+05:30'
+last_seen: '2026-06-30T03:52:16.934499+05:30'
+last_checked: '2026-06-30T03:52:16.934499+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Dominates with 700+ integrations, LangGraph for agentic workflows, and modular chains for retrieval/reranking/generation; ideal for complex, multi-tool RAG pipelines but has a steep learning curve.
-- **LlamaIndex**: Optimized for production-grade indexing and retrieval with multimodal support (text/images/PDFs), advanced routers/query engines, and 100+ data source integrations.
-- **Haystack**: Enterprise-ready with pipeline abstractions for custom RAG flows, supports dense/sparse retrieval (Elasticsearch/Weaviate), built-in evaluation, and scalability for production search applications.
+- **LangChain**: Dominates RAG frameworks with 700+ integrations, modular chains, and LangGraph for agentic workflows; supports dense/sparse retrieval and vector stores (Pinecone, Weaviate); enhanced observability via LangSmith. Ideal for complex, multi-tool pipelines but has a steep learning curve.
+
+- **LlamaIndex**: Optimized for production-grade indexing and retrieval, handling multimodal data (text, images, PDFs) with advanced routers and query engines; integrates with 100+ data sources and vector DBs; excels in knowledge-intensive applications with strong enterprise scalability.
+
+- **Haystack by deepset**: Enterprise-ready framework for document search and QA, featuring modular pipelines, dense/sparse retrieval, and built-in evaluation tools; supports Elasticsearch and Weaviate; designed for production-scale applications with security and monitoring features.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T01:47:35.952710+05:30
+- Published: 2026-06-30T03:52:16.934486+05:30
 
 ## Related Tags
 

@@ -15,6 +15,7 @@ tags:
 - meta-ai
 - models
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Document Parsing**: Parse is a layout-aware OCR system designed for LLM pipelines, converting PDFs, scans, tables, and charts into structured markdown, plain text, or JSON.
-- **Multi-Format Support**: Handles diverse document types (PDFs, images, tables, charts) with specialized processing for each format.
-- **Structured Output**: Outputs clean, machine-readable formats (markdown, JSON) optimized for downstream LLM processing.
+- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured formats (markdown, text, or JSON).
+- **Layout-Aware Processing**: Extracts and preserves document structure, enabling accurate reconstruction of complex layouts, including multi-column text and embedded visuals.
+- **Output Flexibility**: Supports multiple structured outputs (markdown, text, JSON) for seamless integration into downstream LLM or d
 
 ## Use Cases
 

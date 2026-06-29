@@ -13,13 +13,14 @@ collected_at: '2026-06-30T01:46:51.246555+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tidal-ai-policy
 first_seen: '2026-06-29T21:42:24.591793+05:30'
 last_seen: '2026-06-30T01:46:51.246555+05:30'
 last_checked: '2026-06-30T01:46:51.246555+05:30'
 health_score: 100
 ---
+
 
 # Tidal AI Policy
 

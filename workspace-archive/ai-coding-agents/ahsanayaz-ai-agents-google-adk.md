@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates implementation of a marketing campaign assistant agent using Google's Agent Development Kit (ADK) in Python.
-- **Repository Metrics**: 61 stars, 34 forks, last updated June 29, 2026.
-- **Structure**: Minimalist repository with no additional topics, focusing solely on ADK-based agent development.
+- **Purpose**: Demonstrates a marketing campaign assistant agent built using Google's Agent Development Kit (ADK) in Python.
+- **Key Details**: Repository has 61 stars, 34 forks, and was last updated on 2026-06-29.
+- **Tech Stack**: Uses Google ADK for agent development, implemented in Python.
 
 ## Use Cases
 

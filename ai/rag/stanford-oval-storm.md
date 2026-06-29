@@ -6,15 +6,14 @@ source_name: GitHub Discovery
 source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-30T01:50:50.773170+05:30'
-published_at: '2026-06-29T20:08:40Z'
+collected_at: '2026-06-30T03:55:31.302940+05:30'
+published_at: '2026-06-29T22:17:30Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
 stars: 29631
 language: Python
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-03-24T16:23:39Z'
 pushed_at: '2025-09-30T18:07:21Z'
 resource_id: github:stanford-oval/storm
-first_seen: '2026-06-30T01:50:50.773170+05:30'
-last_seen: '2026-06-30T01:50:50.773170+05:30'
-last_checked: '2026-06-30T01:50:50.773170+05:30'
+first_seen: '2026-06-30T03:55:31.302940+05:30'
+last_seen: '2026-06-30T03:55:31.302940+05:30'
+last_checked: '2026-06-30T03:55:31.302940+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Research & Report Generation**: Automates topic research and produces full-length, citation-backed reports using large language models (LLMs) with agentic retrieval-augmented generation (RAG).
+- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive reports with inline citations, enabling structured knowledge synthesis.
 
-- **Multi-Stage Curation Pipeline**: Implements a structured workflow combining iterative retrieval, synthesis, and verification to curate high-quality knowledge with citations from diverse sources.
+- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with iterative query refinement, multi-source retrieval, and adaptive synthesis for deep research tasks.
 
-- **EMNLP 2024 Benchmark**: Evaluated as a deep-research system, demonstrating state-of-the-art performance in automated knowledge curation and report generation with 29.6K GitHub stars and 2.7K forks.
+- **EMNLP 2024 Benchmark**: Presented as a novel system for automated report generation, evaluated on factuality, coverage, and citation grounding, with open-source Python implementation supporting extensibility.
 
 ## Why It Matters
 
@@ -50,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2758
 - Language: Python
 - Topics: agentic-rag, deep-research, emnlp2024, knowledge-curation, large-language-models, naacl, nlp, report-generation, retrieval-augmented-generation
-- Last Updated: 2026-06-29T20:08:40Z
+- Last Updated: 2026-06-29T22:17:30Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-24T16:23:39Z

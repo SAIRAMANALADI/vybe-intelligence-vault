@@ -2,20 +2,19 @@
 title: Google Colab
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://colab.research.google.com/
+source_url: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - rag
-- reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Google Colab
@@ -24,17 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Authentication Endpoint**: The provided URL is a Google Accounts sign-in endpoint (`ServiceLogin`) designed for passive authentication (no user interaction beyond initial sign-in).
+- **Resource Access**: The provided link is a Google Colab notebook tutorial titled *"First RAG Pipeline"* hosted on GitHub under the `deepset-ai/haystack-tutorials` repository.
 
-- **OAuth2 Flow**: The `continue` parameter (`colab.research.google.com`) indicates redirection to Google Colab post-authentication, leveraging OAuth2 for secure session management.
+- **Content Focus**: The notebook demonstrates building a **Retrieval-Augmented Generation (RAG)** pipeline using the Haystack framework, a tool for NLP tasks like question answering and document search.
 
-- **Security Parameters**: The `passive=true` flag suggests silent authentication (e.g., session cookies), while `ec=GAZAqQM` may e
+- **Prerequisite**: Requires Google account authentication to access and execute the interactive tutorial in Google
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.research.google.com/
+Original source URL: https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_First_RAG_Pipeline.ipynb
 
 ## Local Vault File
 

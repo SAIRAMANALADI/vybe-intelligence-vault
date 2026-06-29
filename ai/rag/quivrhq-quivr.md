@@ -4,16 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-30T01:48:55.654952+05:30'
+collected_at: '2026-06-30T03:53:36.208644+05:30'
 published_at: '2026-06-29T18:04:30Z'
 tags:
 - frontend_ui
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
 - python
 - rag
+- workflows
 stars: 39184
 language: Python
 status: active
@@ -22,9 +24,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-30T01:48:55.654952+05:30'
-last_seen: '2026-06-30T01:48:55.654952+05:30'
-last_checked: '2026-06-30T01:48:55.654952+05:30'
+first_seen: '2026-06-30T03:53:36.208644+05:30'
+last_seen: '2026-06-30T03:53:36.208644+05:30'
+last_checked: '2026-06-30T03:53:36.208644+05:30'
 health_score: 100
 ---
 
@@ -32,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types without vendor lock-in.
 
-- **Multi-Backend Compatibility**: Supports integration with any LLM backend and vector database, enabling flexible deployment in existing products without vendor lock-in, while offering Docker-based deployment for scalability.
+- **Multi-Environment Compatibility**: The framework offers flexibility in deployment, with support for Docker, PostgreSQL, and frontend technologies (React, TypeScript, HTML/JavaScript), enabling integration into existing products via APIs or custom workflows.
 
-- **Full-Stack Toolkit**: Combines Python backend with React/TypeScript frontend, providing API-driven RAG capabilities, security, and privacy controls, optimized for rapid deployment of AI-powered chatbots or assistants.
+- **Privacy & Security Focus**: Prioritizes data privacy with self-hosting capabilities and modular architecture, allowing developers to bypass third-party dependencies while maintaining control over data storage and processing.
 
 ## Why It Matters
 

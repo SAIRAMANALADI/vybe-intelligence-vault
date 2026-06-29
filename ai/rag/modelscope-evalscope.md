@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-30T01:48:50.660580+05:30'
+collected_at: '2026-06-30T03:53:31.214318+05:30'
 published_at: '2026-06-29T10:15:01Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-06-29T09:47:14Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-30T01:48:50.660580+05:30'
-last_seen: '2026-06-30T01:48:50.660580+05:30'
-last_checked: '2026-06-30T01:48:50.660580+05:30'
+first_seen: '2026-06-30T03:53:31.214318+05:30'
+last_seen: '2026-06-30T03:53:31.214318+05:30'
+last_checked: '2026-06-30T03:53:31.214318+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency and extensibility.
-- **Core Capabilities**: Supports performance benchmarking across tasks including RAG, with built-in metrics and evaluation pipelines for standardized assessment.
-- **Integration & Scalability**: Designed for seamless integration with existing workflows, featuring distributed evaluation and support for custom model configurations.
+- **Framework Purpose**: Streamlined, customizable Python framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular, extensible architecture.
+- **Core Features**: Supports performance benchmarking across tasks (e.g., RAG, reasoning) with standardized metrics and automated workflows for reproducibility.
+- **Integration & Scalability**: Designed for efficiency with parallel processing, distributed evaluation, and compatibility with Hugging Face/PEFT models; actively maintained (last update: 2026-06-29).
 
 ## Why It Matters
 

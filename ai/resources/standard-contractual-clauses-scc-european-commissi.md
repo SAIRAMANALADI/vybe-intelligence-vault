@@ -3,17 +3,17 @@ title: Standard Contractual Clauses (SCC) - European Commission
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
-published_at: '2026-06-22T11:19:10.520324+05:30'
-collected_at: '2026-06-22T11:19:10.520332+05:30'
+source_url: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
+published_at: '2026-06-30T04:04:22.956288+05:30'
+collected_at: '2026-06-30T04:04:22.956300+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:standard-contractual-clauses-scc-european-commissi
-first_seen: '2026-06-22T11:19:10.520332+05:30'
-last_seen: '2026-06-22T11:19:10.520332+05:30'
-last_checked: '2026-06-22T11:19:10.520332+05:30'
+first_seen: '2026-06-30T04:04:22.956300+05:30'
+last_seen: '2026-06-30T04:04:22.956300+05:30'
+last_checked: '2026-06-30T04:04:22.956300+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Modernized EU SCCs**: Adopted by the European Commission on **4 June 2021** under GDPR, replacing prior Directive 95/46 SCCs; designed for data transfers from EU/EEA controllers/processors to non-EU counterparts, with dynamic Q&A guidance for compliance.
+- **Modernized EU SCCs (2021)**: Replaced prior Directive 95/46 SCCs, providing updated contractual safeguards for GDPR-compliant data transfers from EU/EEA to third countries, with dynamic Q&A guidance for stakeholder compliance.
 
-- **Global Model Clauses Alignment**: Multiple jurisdictions (UK, Switzerland, ASEAN, Council of Europe, etc.) have adopted or developed model clauses aligned with EU SCC principles, facilitating cross-border data flows under converging data protection standards.
+- **Global Model Clauses Alignment**: Jurisdictions (UK, Switzerland, ASEAN, Council of Europe, etc.) adopt or align with EU SCC principles, either endorsing EU SCCs directly or developing converging model clauses for cross-border data flows.
 
-- **Joint EU-ASEAN Compliance Guide**: Released to harmonize EU SCCs and ASEAN Model Contractual Clauses, providing best practices for companies operating in both regions to operationalize required safeguards.
+- **Joint EU-ASEAN Compliance Guide (2023)**: Provides comparative analysis of EU SCCs and ASEAN MCCs, highlighting commonalities and operational best practices to facilitate dual-jurisdiction compliance for multinational entities.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T11:19:10.520324+05:30
+- Published: 2026-06-30T04:04:22.956288+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
+Original source: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en

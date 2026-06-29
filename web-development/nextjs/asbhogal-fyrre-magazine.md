@@ -4,19 +4,19 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/asbhogal/fyrre-magazine
-collected_at: '2026-06-29T16:54:59.656583+05:30'
-published_at: '2026-06-18T21:48:27Z'
+collected_at: '2026-06-30T03:51:22.836731+05:30'
+published_at: '2026-06-29T21:17:33Z'
 tags:
 - animation
 - frontend_ui
 - scripts
-stars: 126
+stars: 127
 language: TypeScript
 status: active
 resource_id: github:asbhogal/fyrre-magazine
 first_seen: '2026-06-11T08:45:43.851346+00:00'
-last_seen: '2026-06-29T16:54:59.656583+05:30'
-last_checked: '2026-06-29T16:54:59.656583+05:30'
+last_seen: '2026-06-30T03:51:22.836731+05:30'
+last_checked: '2026-06-30T03:51:22.836731+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: asbhogal
-- Stars: 126
+- Stars: 127
 - Forks: 34
 - Language: TypeScript
 - Topics: context-api, custom-hooks, e2e, e2e-tests, eslint, figma, gsap, next, nextjs, nextjs13, playwright, react, react-hooks, react-server-components, rsc, shadcn, shadcn-ui, tailwind, tailwindcss, typescript
-- Last Updated: 2026-06-18T21:48:27Z
+- Last Updated: 2026-06-29T21:17:33Z
 
 ## Possible Use Cases
 

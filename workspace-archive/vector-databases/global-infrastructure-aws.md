@@ -14,7 +14,6 @@ tags:
 - hackernews
 - producthunt
 - rag
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Global Reach & Resilience**: AWS operates 123 Availability Zones (AZs) across 39 Geographic Regions, with plans for expansion, ensuring high availability via multi-AZ redundancy and low-latency performance via a 20M km fiber-optic backbone.
-- **Edge & Hybrid Solutions**: Supports 750+ CloudFront POPs, 15 Regional Edge Caches, 45 Local Zones, and 33 Wavelength Zones, enabling low-latency edge computing, hybrid deployments (Outposts), and telco-integrated Wavelength deployments.
-- **Security &
+- **Global Reach & Scale**: AWS operates **39 geographic regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **6 continents** with ongoing expansions (e.g., Chile, Saudi Arabia, New Zealand).
+
+- **Resilient & Secure Architecture**: Each region comprises **≥3 physically isolated AZs**, interconnected via **~20M km of fiber**, ensuring **high availability (99.99%)*
 
 ## Use Cases
 

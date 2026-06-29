@@ -4,13 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-30T01:49:20.638828+05:30'
+collected_at: '2026-06-30T03:54:01.210919+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
-- benchmark
 - github-repo
-- hackernews
-- models
+- paper
 - python
 - rag
 stars: 172
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-30T01:49:20.638828+05:30'
-last_seen: '2026-06-30T01:49:20.638828+05:30'
-last_checked: '2026-06-30T01:49:20.638828+05:30'
+first_seen: '2026-06-30T03:54:01.210919+05:30'
+last_seen: '2026-06-30T03:54:01.210919+05:30'
+last_checked: '2026-06-30T03:54:01.210919+05:30'
 health_score: 100
 ---
 
@@ -31,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle corpora across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, chunks, entities) without requiring modality-specific fine-tuning.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by integrating diverse modalities (text, images, tables, etc.) and varying granularities (documents, paragraphs, entities) into a unified retrieval-augmented generation pipeline, enabling cross-modal knowledge synthesis.
 
-- **Key Innovation**: Implements a modality-agnostic retriever and generator architecture, leveraging cross-modal embeddings and adaptive fusion mechanisms to dynamically integrate heterogeneous data sources during generation.
+- **ACL 2026 Oral Paper**: The system is presented as an oral paper at ACL 2026, highlighting its novelty in handling heterogeneous corpora and advancing state-of-the-art performance in multimodal generative tasks.
 
-- **Technical Highlights**: Achieves state-of-the-art performance on multimodal benchmarks by employing a hierarchical retrieval strategy and a unified attention mechanism, enabling efficient and scalable processing of mixed-modality corpora.
+- **Python Implementation**: The repository provides a Python-based implementation with modular components for retrieval, fusion, and generation, optimized for scalability and integration with LLMs.
 
 ## Why It Matters
 

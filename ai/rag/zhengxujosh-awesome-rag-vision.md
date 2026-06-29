@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-30T01:48:40.640045+05:30'
+collected_at: '2026-06-30T03:53:21.152934+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-30T01:48:40.640045+05:30'
-last_seen: '2026-06-30T01:48:40.640045+05:30'
-last_checked: '2026-06-30T01:48:40.640045+05:30'
+first_seen: '2026-06-30T03:53:21.152934+05:30'
+last_seen: '2026-06-30T03:53:21.152934+05:30'
+last_checked: '2026-06-30T03:53:21.152934+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG-Vision Resources**: Repository aggregates advanced techniques in retrieval-augmented generation (RAG) tailored for computer vision applications, including multimodal and vision-language model integrations.
+- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal RAG systems.
 
-- **Minimal Maintenance**: Last updated in 2026 with no explicit language or topic tags, suggesting limited recent contributions or maintenance activity.
+- **Scope & focus**: Encompasses cutting-edge RAG architectures tailored for CV tasks (e.g., image captioning, visual question answering, object detection) with emphasis on **cross-modal retrieval**, **contextual grounding**, and **multimodal fusion** strategies.
 
-- **Low Community Engagement**: 337 stars and 9 forks indicate niche interest, with no specified language or topics further highlighting its specialized focus.
+- **Metadata**: 337 stars, 9 forks, last updated **June 29, 2026**; language unspecified, categorized under **vision-language models** and **multimodal AI** research.
 
 ## Why It Matters
 

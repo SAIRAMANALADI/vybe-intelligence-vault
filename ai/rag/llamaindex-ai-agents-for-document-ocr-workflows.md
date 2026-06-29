@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-06-30T01:50:46.071336+05:30'
-collected_at: '2026-06-30T01:50:46.071349+05:30'
+published_at: '2026-06-30T03:55:26.694604+05:30'
+collected_at: '2026-06-30T03:55:26.694614+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-30T01:50:46.071349+05:30'
-last_seen: '2026-06-30T01:50:46.071349+05:30'
-last_checked: '2026-06-30T01:50:46.071349+05:30'
+first_seen: '2026-06-30T03:55:26.694614+05:30'
+last_seen: '2026-06-30T03:55:26.694614+05:30'
+last_checked: '2026-06-30T03:55:26.694614+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Models (VLM) for layout-aware document parsing, enabling structured extraction of schemas (e.g., tables, charts, handwritten text) with 10,000 free credits/month (~1,000 pages) and no training required.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, featuring task-specific experts (text, charts, tables, handwriting), recursive auto-correction loops for error mitigation, and structured schema extraction—achieving high pass-through rates even on noisy, multi-modal inputs.
 
-- **Multi-Stage Validation Pipeline**: Implements recursive auto-correction loops and task-specific agents (e.g., text, tables, charts) to detect/fix errors, achieving high pass-through rates even on messy scans or multi-modal documents.
+- **Performance & Scalability**: Benchmarks demonstrate superior accuracy in parsing, chart/table extraction, and overall document understanding compared to proprietary VLM, commercial IDP, and open-source OCR solutions, with enterprise-grade support for 50+ unstructured file types, embedded images, and complex layouts.
 
-- **Enterprise-Grade Features**: Supports 50+ unstructured file types, offers HIPAA/GDPR/SOC2-compliant security, 99.9% uptime, and flexible deployment (cloud or VPC), optimized for RAG with precision chunking/embedding pipelines.
+- **Enterprise Deployment**: Offers 10K free credits/month (~1K pages), supports HIPAA/GDPR/SOC2 compliance, 99.9% uptime, flexible cloud/VPC deployment, and integrates with LlamaIndex’s chunking/embedding pipeline for precision RAG workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T01:50:46.071336+05:30
+- Published: 2026-06-30T03:55:26.694604+05:30
 
 ## Related Tags
 

@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-30T01:48:50.643868+05:30'
+collected_at: '2026-06-30T03:53:31.219274+05:30'
 published_at: '2026-06-29T07:31:03Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 428
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-30T01:48:50.643868+05:30'
-last_seen: '2026-06-30T01:48:50.643868+05:30'
-last_checked: '2026-06-30T01:48:50.643868+05:30'
+first_seen: '2026-06-30T03:53:31.219274+05:30'
+last_seen: '2026-06-30T03:53:31.219274+05:30'
+last_checked: '2026-06-30T03:53:31.219274+05:30'
 health_score: 100
 ---
 
@@ -31,16 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary enterprise documents, enabling standardized assessment of LLM performance in enterprise contexts.
+- **Purpose**: Provides a benchmarking framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary, company-internal documents, enabling standardized assessment of enterprise RAG performance.
 
-- **Key Features**:
-  - Synthetic data generation for diverse enterprise knowledge bases.
-  - Includes evaluation frameworks for RAG pipelines (retrieval + generation).
-  - Supports semantic search, QA, and information retrieval metrics.
+- **Dataset Composition**: Includes synthetic and real-world internal documents, with tools for synthetic data generation to simulate enterprise knowledge bases, covering domains like QA, semantic search, and information retrieval.
 
-- **Technical Scope**:
-  - Python-based toolkit with modules for synthetic data creation, evaluation, and benchmarking.
-  - Targets LLM evaluation for enterprise search, generative AI, and internal document retrieval.
+- **Evaluation Metrics**: Supports multi-dimensional RAG evaluation (e.g., retrieval accuracy, answer correctness, latency) via Python-based tooling, facilitating comparison across LLMs, retrievers, and pipelines.
 
 ## Why It Matters
 

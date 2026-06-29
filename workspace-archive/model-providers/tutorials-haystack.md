@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tutorials-haystack.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Tutorials | Haystack
@@ -30,16 +30,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG) pipelines**, including **multimodal RAG** (text + vision) and **conversational RAG** with chat history integration.
-- Advanced tutorials cover **multi-agent systems**, **human-in-the-loop validation**, and **KV cache compression** (TurboQuant) for efficient LLM inference on consumer GPUs.
-- Key features include **metadata filtering**, **hybrid retrieval** (dense + keyword), **structured output generation**, and **p
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
+
+- **Multimodal RAG Pipeline**: Tutorial demonstrates building a multimodal RAG system combining vision and text embeddings for question answering grounded in both image and textual data.
+
+- **Agentic RAG with Fallback**: Covers creation of agentic RAG pipelines with conditional routing to w
 
 ## Use Cases
 

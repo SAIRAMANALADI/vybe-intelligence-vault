@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.cloud.deepset.ai/docs/getting-started
-published_at: '2026-06-29T21:48:24.294337+05:30'
-collected_at: '2026-06-29T21:48:24.294354+05:30'
+published_at: '2026-06-30T04:00:33.767838+05:30'
+collected_at: '2026-06-30T04:00:33.767848+05:30'
 tags:
 - agents
+- benchmark
 - models
 - rag
 - scripts
@@ -15,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:what-s-haystack-enterprise-platform-haystack-enter
-first_seen: '2026-06-29T21:48:24.294354+05:30'
-last_seen: '2026-06-29T21:48:24.294354+05:30'
-last_checked: '2026-06-29T21:48:24.294354+05:30'
+first_seen: '2026-06-30T04:00:33.767848+05:30'
+last_seen: '2026-06-30T04:00:33.767848+05:30'
+last_checked: '2026-06-30T04:00:33.767848+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Ingestion & Indexing**: Supports automated processing of diverse file types (PDFs, Office docs, images) via built-in converters, OCR, and preprocessors; indexes cleaned/chunked data into a document store for fast retrieval in AI pipelines.
+- **Unified AI Application Lifecycle Management**: Platform supports end-to-end development, from prototyping to production deployment, with built-in tools for data ingestion, model selection, evaluation, and monitoring.
 
-- **Modular AI Pipeline Construction**: Enables building multi-component pipelines (retrievers, rankers, generators) for RAG or AI agents via a visual Pipeline Builder; supports model-agnostic switching of LLMs/embeddings and tool integration for multi-step tasks.
+- **Modular Pipeline Architecture**: Enables construction of AI agents and RAG systems using interchangeable components (retrievers, rankers, generators) with support for OCR, document conversion, and multi-model provider integration.
 
-- **Production-Grade Features**: Provides REST API for automation, observability integrations (Langfuse, Weights & Biases), prototype sharing with branding, and built-in monitoring/logs for performance tracking and debugging across development to production.
+- **Observability & Deployment Flexibility**: Provides REST API for automation, built-in performance dashboards, third-party tracing (Langfuse, Weave), and prototype sharing via branded links before production rollout.
 
 ## Why It Matters
 
@@ -39,11 +40,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:48:24.294337+05:30
+- Published: 2026-06-30T04:00:33.767838+05:30
 
 ## Related Tags
 
 - agents
+- benchmark
 - models
 - rag
 - scripts

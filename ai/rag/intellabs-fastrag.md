@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IntelLabs/fastRAG
-collected_at: '2026-06-30T01:48:50.663486+05:30'
+collected_at: '2026-06-30T03:53:31.258448+05:30'
 published_at: '2026-06-28T18:50:15Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 1783
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: true
 created_at: '2023-01-23T16:25:35Z'
 pushed_at: '2026-01-12T19:58:22Z'
 resource_id: github:intellabs/fastrag
-first_seen: '2026-06-30T01:48:50.663486+05:30'
-last_seen: '2026-06-30T01:48:50.663486+05:30'
-last_checked: '2026-06-30T01:48:50.663486+05:30'
+first_seen: '2026-06-30T03:53:31.258448+05:30'
+last_seen: '2026-06-30T03:53:31.258448+05:30'
+last_checked: '2026-06-30T03:53:31.258448+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: FastRAG is an efficient Python-based framework for Retrieval Augmented Generation (RAG), optimized for low-latency and high-throughput applications, supporting multi-modal and knowledge-intensive tasks.
+- **Framework Overview**: FastRAG is an efficient, modular Python framework for retrieval-augmented generation (RAG) optimized for speed and scalability, supporting multi-modal, knowledge-intensive tasks like QA, summarization, and semantic search.
 
-- **Key Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., diffusion, LLMs) with support for semantic search, QA, summarization, and knowledge graphs.
+- **Key Components**: Integrates state-of-the-art retrieval (e.g., ColBERT, sentence-transformers) and generative models (e.g., LLMs, diffusion) with support for knowledge graphs, enabling hybrid retrieval and adaptive generation workflows.
 
-- **Performance Focus**: Designed for scalability and efficiency, leveraging Intel hardware optimizations (e.g., oneAPI, AVX-512) to accelerate RAG pipelines while maintaining benchmark-grade accuracy.
+- **Performance Focus**: Designed for low-latency, high-throughput RAG pipelines with benchmarking tools, leveraging Intel hardware acceleration (e.g., oneAPI, optimized transformers) for efficient inference and training.
 
 ## Why It Matters
 

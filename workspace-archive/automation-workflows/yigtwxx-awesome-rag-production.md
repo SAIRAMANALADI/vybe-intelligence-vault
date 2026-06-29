@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated resources**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems.
-- **Technical scope**: Covers core components such as embeddings, vector databases, LLM integration (e.g., LangChain), and MLOps/LLMOps workflows for deployment and scaling.
-- **Python-centric**: Focuses on Python-based implementations, with last update timestamped `2026-06-29T08:41:07Z` and 129 stars/32 for
+- **Curated resources**: Repository aggregates production-grade RAG tools, frameworks, and best practices for scalable deployment, covering embeddings, vector databases, and LLM integration.
+- **Technical scope**: Focuses on Python-based solutions, including LangChain, MLOps, and LLMOps, with emphasis on retrieval augmentation and generative AI workflows.
+- **Community metrics**: Maintains 129 stars and 32 forks as of last update (2026-06-29), reflecting active community engagement in AI enginee
 
 ## Use Cases
 

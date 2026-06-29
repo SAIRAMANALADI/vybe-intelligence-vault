@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform agent infrastructure**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
+- **Multi-Platform Agent Infrastructure**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
 
-- **Technical stack**: Utilizes containerization (via Lume), virtualization frameworks (Apple Virtualization, Windows Sandbox), and Swift for macOS compatibility.
+- **Technical Stack**: Utilizes containerization (via Lume) and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) for secure agent execution.
 
-- **Benchmarking & automation**: Includes standardized tasks for evaluating agent performance in desktop environments, supporting desktop automation an
+- **Open-Source Focus**: Supports Swift (macOS) and cross-platform automation with Hacktoberfest contributions, emphasizing a
 
 ## Use Cases
 

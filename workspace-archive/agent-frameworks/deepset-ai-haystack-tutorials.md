@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Tutorial contributions to Haystack require either submitting an issue (bug report or new tutorial request) or directly adding/editing `.ipynb` files in the `tutorials` folder, with Markdown generation handled automatically.
-- New tutorials must follow the template structure, use the specified naming convention (e.g., `22_creating_a_summarizer_pipeline.ipynb`), and update `index.toml` with metadata (e.g., `weight` for ordering, `colab = false` if incompatible with Google Colab).
-- CI checks val
+- Tutorial contributions to Haystack involve submitting issues (bug reports or new tutorial requests) or directly adding/editing `.ipynb` files in the `tutorials` folder, with Markdown generation for accompanying docs.
+- New tutorials require copying the template, renaming per convention (e.g., `XX_descriptive_name.ipynb`), updating `index.toml` (including `weight` for ordering and `colab` flag), and ensuring CI checks pass post-PR.
+- Existing tutorials are edited directly in the `.ipynb` file;
 
 ## Use Cases
 

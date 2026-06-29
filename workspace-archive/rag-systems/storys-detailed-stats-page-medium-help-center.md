@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Includes total presentations (Medium-suggested views), views (story landings), reads (30+ second engagements), and impact metrics (earnings, followers, subscribers) updated hourly (daily for earnings); feed clickthrough rate and read ratio provided where applicable.
+- **Lifetime Metrics**: Hourly-updated (daily for earnings) performance funnel includes total presentations, views, reads (with 30s threshold), Feed clickthrough rate (feed-only presentations), and Read ratio; Impact metrics include paywall earnings (daily), follower/unfollower counts, and subscriber changes (paywalled stories only).
 
-- **Monthly Engagement**: Tracks paywall earnings, views, reads, and engagement metrics (claps, highlights, responses, new followers) per selected month; member read ratio influences earnings to deter clickba
+- **Monthly Engagement**: Daily-updated metrics per selected month include earnings (yellow = earnings contribution), views, reads, and engagement (clappers, highl
 
 ## Use Cases
 

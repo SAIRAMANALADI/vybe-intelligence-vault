@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-30T01:52:21.083809+05:30'
-collected_at: '2026-06-30T01:52:21.083823+05:30'
+published_at: '2026-06-30T03:57:15.248692+05:30'
+collected_at: '2026-06-30T03:57:15.248715+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-30T01:52:21.083823+05:30'
-last_seen: '2026-06-30T01:52:21.083823+05:30'
-last_checked: '2026-06-30T01:52:21.083823+05:30'
+first_seen: '2026-06-30T03:57:15.248715+05:30'
+last_seen: '2026-06-30T03:57:15.248715+05:30'
+last_checked: '2026-06-30T03:57:15.248715+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG) pipelines**, including **multimodal RAG** (text + vision) and **conversational RAG** with chat history integration.
-- Advanced tutorials cover **multi-agent systems**, **human-in-the-loop validation**, and **KV cache compression** (TurboQuant) for efficient LLM inference on consumer GPUs.
-- Key features include **metadata filtering**, **hybrid retrieval** (dense + keyword), **structured output generation**, and **pipeline serialization** (YAML/Python).
+- **Evaluation Framework**: Haystack provides a guided walkthrough for evaluating RAG pipelines using statistical and model-based metrics, enabling systematic performance assessment of generative QA systems.
+
+- **Multimodal RAG Pipeline**: Tutorial demonstrates building a multimodal RAG system combining vision and text embeddings for question answering grounded in both image and textual data.
+
+- **Agentic RAG with Fallback**: Covers creation of agentic RAG pipelines with conditional routing to web search when primary retrieval fails, enhancing robustness in dynamic environments.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T01:52:21.083809+05:30
+- Published: 2026-06-30T03:57:15.248692+05:30
 
 ## Related Tags
 

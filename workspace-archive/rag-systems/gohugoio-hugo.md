@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 (JPEG/WebP at 75 comparable), added per-format quality configuration, and introduced `hint` parameter (YUV420 for lossy, YUV444 for text/icons) to optimize memory usage.
+- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 for parity with JPEG/WebP at 75; added `hint` parameter (YUV420 for lossy, YUV444 for text/icons) to optimize memory usage during encoding.
 
-- **Security Fixes**: Addressed vulnerabilities in `golang.org/x/image` (CVE-related), normalized IPv4 host encodings in URL checks, and dropped symlink handling in `os.ReadDir`, `os.ReadFile`, `os.Stat`, and `os.FileExists`.
+- **Security Fixes**: Addressed multiple vulnerabilities including integer IPv4 host encoding normalization in HTTP URL checks (`a00b5c7`), symlink handling in filesystem operations (`cf9c8f9`), and updated `golang.org/x/image` dependency for upstream fixes.
 
-- **Deprecations & Cleanup*
+- **Deprecations & Clean
 
 ## Use Cases
 

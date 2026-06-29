@@ -13,13 +13,14 @@ collected_at: '2026-06-30T01:46:51.333814+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-ceo-of-mullvad-is-the-main-financer-of-the-swe
 first_seen: '2026-06-30T01:46:51.333814+05:30'
 last_seen: '2026-06-30T01:46:51.333814+05:30'
 last_checked: '2026-06-30T01:46:51.333814+05:30'
 health_score: 100
 ---
+
 
 # The CEO of Mullvad is the main financer of the Swedish Örebro party
 

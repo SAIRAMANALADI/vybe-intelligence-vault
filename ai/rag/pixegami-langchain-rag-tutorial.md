@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-06-30T01:47:45.558876+05:30'
+collected_at: '2026-06-30T03:52:26.154246+05:30'
 published_at: '2026-06-28T16:05:18Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-06-30T01:47:45.558876+05:30'
-last_seen: '2026-06-30T01:47:45.558876+05:30'
-last_checked: '2026-06-30T01:47:45.558876+05:30'
+first_seen: '2026-06-30T03:52:26.154246+05:30'
+last_seen: '2026-06-30T03:52:26.154246+05:30'
+last_checked: '2026-06-30T03:52:26.154246+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a basic **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** in Python.
-- **Key Components**: Integrates **document retrieval** (vector store) with **LLM generation** (e.g., OpenAI, HuggingFace) via LangChain’s modular framework.
-- **Structure**: Includes **data loading**, **embedding generation**, **vector database storage** (e.g., FAISS/Chroma), and **query handling** with retrieval-augmented responses.
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** in Python for document-based question answering.
+- Utilizes **vector embeddings** (e.g., `sentence-transformers`) and **FAISS** for efficient document retrieval and similarity search.
+- Demonstrates integration with **LLMs** (e.g., OpenAI, HuggingFace) for contextual response generation with retrieved context.
 
 ## Why It Matters
 

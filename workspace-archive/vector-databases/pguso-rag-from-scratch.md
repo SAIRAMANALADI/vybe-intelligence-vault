@@ -6,14 +6,13 @@ source_url: https://github.com/pguso/rag-from-scratch
 resource_id: github:pguso/rag-from-scratch
 local_vault_path: ai/rag/pguso-rag-from-scratch.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -28,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation (RAG) system built from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Pipeline**: Provides a step-by-step implementation of Retrieval-Augmented Generation (RAG) from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and avoiding proprietary black boxes.
 
-- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components, including embedding generation, vector database operations, and dynamic context integration for enhanced
+- **Core Components**: Demonstrates embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation, all implemented in Node.js for hands-on learning.
+
+- **Agent Integration**: Inclu
 
 ## Use Cases
 

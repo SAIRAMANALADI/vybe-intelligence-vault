@@ -1,8 +1,8 @@
 ---
-title: supermldev/agenticAI
+title: supermldev/agenticai
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://github.com/supermldev/agenticAI
+source_url: https://github.com/supermldev/agenticai
 resource_id: github:supermldev/agenticai
 local_vault_path: ai/agents/supermldev-agenticai.md
 quality_score: 70
@@ -13,12 +13,13 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - unknown
 selection_reason:
 - Active open-source repository
 ---
 
-# supermldev/agenticAI
+# supermldev/agenticai
 
 ## Why This Is In The Archive
 
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Status**: Minimal activity (2 stars, 1 fork) with no specified primary language or topics.
-- **Purpose**: Educational resource focused on Agentic AI, maintained by superml.dev.
-- **Last Update**: April 24, 2026, with no recent commits or activity visible in metadata.
+- **Repository**: `supermldev/agenticai` – Educational resource for learning Agentic AI, maintained by superml.dev.
+- **Metadata**: 2 stars, 1 fork, language unspecified, no topics, last updated 2026-04-24.
+- **Purpose**: Designed as a technical educational tool for studying Agentic AI systems.
 
 ## Use Cases
 
@@ -42,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supermldev/agenticAI
+Original source URL: https://github.com/supermldev/agenticai
 
 ## Local Vault File
 

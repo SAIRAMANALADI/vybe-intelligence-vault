@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-30T01:47:45.668088+05:30'
-published_at: '2026-06-29T19:38:26Z'
+collected_at: '2026-06-30T03:52:26.208006+05:30'
+published_at: '2026-06-29T21:14:42Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 62677
+stars: 62678
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-06-24T17:33:54Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-30T01:47:45.668088+05:30'
-last_seen: '2026-06-30T01:47:45.668088+05:30'
-last_checked: '2026-06-30T01:47:45.668088+05:30'
+first_seen: '2026-06-30T03:52:26.208006+05:30'
+last_seen: '2026-06-30T03:52:26.208006+05:30'
+last_checked: '2026-06-30T03:52:26.208006+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorial**: Provides a structured, step-by-step guide on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
+- **Comprehensive Agent Development Guide**: Provides a zero-to-one tutorial on agent principles and practices, covering foundational concepts to advanced implementations in Python.
 
-- **Multi-Technique Integration**: Focuses on combining key AI techniques such as Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent architectures for real-world applications.
+- **Key Technical Components**: Focuses on integrating large language models (LLMs), retrieval-augmented generation (RAG), and agent architectures for practical AI system construction.
 
-- **Open-Source Python Repository**: Hosts a Python-based, community-driven project with 62,677+ stars and 7,751+ forks, updated as of June 29, 2026, to facilitate hands-on learning and collaboration.
+- **Open-Source Educational Resource**: Hosted on GitHub with 62.7K+ stars and 7.8K+ forks, offering structured learning paths and code examples for agent-based AI development.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 62677
+- Stars: 62678
 - Forks: 7751
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-29T19:38:26Z
+- Last Updated: 2026-06-29T21:14:42Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

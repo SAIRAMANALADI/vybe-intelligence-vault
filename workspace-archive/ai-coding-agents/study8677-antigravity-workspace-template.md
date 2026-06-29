@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Codebase Q&A Engine**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
-- **Knowledge Graph Integration**: Implements a retrieval-augmented generation (RAG) system with a multi-agent architecture to enhance code intelligence and search capabilities.
-- **IDE-Agnostic MCP Server**: Functions as a modular MCP (Model Context Protocol) server, compatible with Python-based AI IDEs and
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
+- **Python-based MCP server** integrating RAG, knowledge graphs, and OpenAI-compatible APIs for codebase-specific LLM interactions.
+- **IDE-agnostic plugin** supporting Copilot, Windsurf, and other AI-driven developer tools via standardized agent SDKs.
 
 ## Use Cases
 

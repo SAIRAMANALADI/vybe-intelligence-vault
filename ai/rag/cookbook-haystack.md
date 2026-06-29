@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/cookbook
-published_at: '2026-06-29T21:51:42.883150+05:30'
-collected_at: '2026-06-29T21:51:42.883164+05:30'
+published_at: '2026-06-30T03:57:15.273648+05:30'
+collected_at: '2026-06-30T03:57:15.273661+05:30'
 tags:
 - agents
 - anthropic
@@ -19,12 +19,11 @@ tags:
 - reddit
 - scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:cookbook-haystack
-first_seen: '2026-06-29T21:51:42.883164+05:30'
-last_seen: '2026-06-29T21:51:42.883164+05:30'
-last_checked: '2026-06-29T21:51:42.883164+05:30'
+first_seen: '2026-06-30T03:57:15.273661+05:30'
+last_seen: '2026-06-30T03:57:15.273661+05:30'
+last_checked: '2026-06-30T03:57:15.273661+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,19 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes for integrating model providers, vector databases, retrieval techniques, and more, with examples spanning RAG, agents, multimodal processing, and advanced retrieval strategies.
+- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, categorized by topics like Agents, RAG, Advanced Retrieval, and Multimodal processing.
 
-- **Key Technical Areas Covered**: Custom tool integration (e.g., MCP, OpenStreetMap), hybrid retrieval (e.g., BM42, HyDE), and agentic workflows (e.g., self-reflecting agents, swarm architectures) with support for async execution and function calling.
+- **Key Recipes Include**:
+  - Agentic Itinerary Planning with OpenStreetMap.
+  - Tabular Data Processing with Prior Labs MCP.
+  - Using Mem0 Memory Store with Haystack Agents.
+  - Hybrid RAG Pipeline with Breakpoints and Query Decomposition.
+  - Multimodal Agent with fastRAG and Haystack.
 
-- **Specialized Use Cases**: Includes domain-specific implementations like legal document analysis, multilingual RAG, and SQL database interaction, alongside evaluation frameworks (e.g., RAGAS, DeepEval) and model serving optimizations (e.g., vLLM, NVIDIA NIMs).
+- **Advanced Features Demonstrated**:
+  - Integration with vLLM inference engine for model serving.
+  - Metadata enrichment and extraction for improved retrieval.
+  - Function calling, async pipelines, and safety guardrails in RAG systems.
 
 ## Why It Matters
 
@@ -46,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:51:42.883150+05:30
+- Published: 2026-06-30T03:57:15.273648+05:30
 
 ## Related Tags
 
@@ -62,7 +69,6 @@ General public resource representing technology updates, guides, or tutorials.
 - reddit
 - scripts
 - web-crawled
-- workflows
 
 ## Source
 

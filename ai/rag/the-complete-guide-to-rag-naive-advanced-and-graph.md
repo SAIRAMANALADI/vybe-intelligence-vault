@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-06-29T03:46:06.216959+05:30'
-collected_at: '2026-06-29T03:46:06.216971+05:30'
+published_at: '2026-06-30T03:52:22.464092+05:30'
+collected_at: '2026-06-30T03:52:22.464136+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-29T03:46:06.216971+05:30'
-last_seen: '2026-06-29T03:46:06.216971+05:30'
-last_checked: '2026-06-29T03:46:06.216971+05:30'
+first_seen: '2026-06-30T03:52:22.464136+05:30'
+last_seen: '2026-06-30T03:52:22.464136+05:30'
+last_checked: '2026-06-30T03:52:22.464136+05:30'
 health_score: 100
 ---
 
@@ -39,11 +39,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG (Retrieval-Augmented Generation)** integrates retrieval, augmentation, and generation, enabling LLMs to pull external knowledge dynamically, addressing issues like hallucinations, freshness, and private data limitations by using external knowledge bases instead of relying solely on model parameters.
+- **RAG Overview**: RAG combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external documents, addressing issues like hallucinations, outdated knowledge, and private data limitations.
 
-- **Evolution of RAG**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (routing, looping, tool integration), and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning), each addressing specific limitations in retrieval accuracy, flexibility, and relational reasoning.
+- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with Modular RAG enabling dynamic routing and tool integration.
 
-- **Key Techniques**: Includes hybrid retrieval (dense + sparse), query rewriting (HyDE), reranking (cross-encoders), and graph-based retrieval (entity/relation extraction), with frameworks like LangChain, LlamaIndex, and vector databases (Chroma, Qdrant) facilitating implementation and scalability.
+- **Key Components & Techniques**: Includes embeddings (e.g., `BAAI/bge-m3`), vector DBs (e.g., Chroma, Pinecone), retrieval algorithms (BM25, ANN), and frameworks (LangChain, LlamaIndex), with advanced methods like HyDE, MMR, and RRF improving retrieval quality.
 
 ## Why It Matters
 
@@ -53,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:46:06.216959+05:30
+- Published: 2026-06-30T03:52:22.464092+05:30
 
 ## Related Tags
 

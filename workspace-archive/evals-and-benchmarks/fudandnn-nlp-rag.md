@@ -17,7 +17,6 @@ tags:
 - paper
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG Best Practices**: Repository provides a Python-based implementation of the EMNLP 2024 paper "Searching for Best Practices in Retrieval-Augmented Generation," focusing on optimized RAG methodologies.
-
-- **Key Features**: Includes modular components for retrieval, generation, and evaluation, enabling systematic experimentation with RAG architectures and hyperparameters.
-
-- **Technical Stack**: Leverages Python with dependencies for NLP (e.g., Hugging Face Transformers, Py
+- **Implementation of EMNLP 2024 Paper**: Repository provides a Python-based implementation of the paper *"Searching for Best Practices in Retrieval-Augmented Generation"*, focusing on RAG optimization techniques.
+- **Key Features**: Includes modular components for retrieval, generation, and evaluation, enabling reproducible experiments for RAG best practices.
+- **Metadata**: 346 stars, 21 forks, last updated June 28, 2026, with no additional topics listed.
 
 ## Use Cases
 

@@ -14,6 +14,8 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Enterprise AI Agent Framework**: Open-source reference architecture for deploying intelligent AI agents that interface with enterprise data sources, enabling reasoning via state-of-the-art LLMs and delivering actionable business insights.
-
-- **Modular Python Implementation**: Built in Python with extensible components for data ingestion, model integration, and reasoning pipelines, supporting customization for domain-specific applications.
-
-- **Trust & Scalability**: Incorporates mechanisms f
+- **Enterprise AI Agent Framework**: Open-source reference architecture for constructing AI agents that interface with enterprise data sources, integrate reasoning via advanced LLMs, and generate actionable business insights.
+- **Modular Python Implementation**: Provides a Python-based, extensible codebase for agent orchestration, tool integration, and workflow automation in enterprise environments.
+- **Trust & Scalability Focus**: Incorporates mechanisms for data governance, model reliability,
 
 ## Use Cases
 

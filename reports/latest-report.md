@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-30T02:57:05.618624+05:30`
+Generated at: `2026-06-30T04:08:49.230455+05:30`
 
 ## Executive Summary
 
@@ -8,47 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **The CEO of Mullvad is the main financer of the Swedish Örebro party** - Score: `402` in category `ai/community` ([Link](https://det.social/@lostgen/116820546568940358)) ([File](../ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md))
-- **Microsoft worker emails colleagues about company's support for genocidal Israel** - Score: `5` in category `ai/community` ([Link](https://thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails)) ([File](../ai/community/microsoft-worker-emails-colleagues-about-company-s.md))
-- **run-llama/llama-hub** - Score: `0` in category `ai/rag` ([Link](https://github.com/run-llama/llama-hub)) ([File](../ai/rag/run-llama-llama-hub.md))
-- **Core metadata specifications - Python Packaging User Guide** - Score: `0` in category `ai/rag` ([Link](https://packaging.python.org/specifications/core-metadata)) ([File](../ai/rag/core-metadata-specifications-python-packaging-user.md))
-- **Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation** - Score: `0` in category `ai/resources` ([Link](https://setuptools.readthedocs.io/en/latest/setuptools.html)) ([File](../ai/resources/building-and-distributing-packages-with-setuptools.md))
-- **python-poetry/poetry-core** - Score: `0` in category `ai/resources` ([Link](https://github.com/python-poetry/poetry-core)) ([File](../ai/resources/python-poetry-poetry-core.md))
-- **python-poetry/poetry-plugin-export** - Score: `0` in category `ai/rag` ([Link](https://github.com/python-poetry/poetry-plugin-export)) ([File](../ai/rag/python-poetry-poetry-plugin-export.md))
-- **python-poetry/poetry** - Score: `0` in category `ai/resources` ([Link](https://github.com/python-poetry/poetry)) ([File](../ai/resources/python-poetry-poetry.md))
-- **nexB/license-expression** - Score: `0` in category `ai/resources` ([Link](https://github.com/nexb/license-expression)) ([File](../ai/resources/nexb-license-expression.md))
-- **uv** - Score: `0` in category `ai/resources` ([Link](https://docs.astral.sh/uv)) ([File](../ai/resources/uv.md))
-- **JupyterLab Documentation — JupyterLab 4.7.0a0 documentation** - Score: `0` in category `ai/resources` ([Link](https://jupyterlab.readthedocs.io)) ([File](../ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md))
-- **[Import-SIG] Namespace Packages resolution** - Score: `0` in category `ai/resources` ([Link](https://mail.python.org/pipermail/import-sig/2012-march/000421.html)) ([File](../ai/resources/import-sig-namespace-packages-resolution.md))
-- **Poetry - Python dependency management and packaging made easy** - Score: `0` in category `ai/rag` ([Link](https://python-poetry.org)) ([File](../ai/rag/poetry-python-dependency-management-and-packaging.md))
-- **pypa/trove-classifiers** - Score: `0` in category `ai/resources` ([Link](https://github.com/pypa/trove-classifiers)) ([File](../ai/resources/pypa-trove-classifiers.md))
-- **build - 1.5.0** - Score: `0` in category `ai/resources` ([Link](https://pypa-build.readthedocs.io/en/latest)) ([File](../ai/resources/build-1-5-0.md))
+- **.self: A new top-level domain designed to support self-hosting** - Score: `145` in category `ai/community` ([Link](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain)) ([File](../ai/community/self-a-new-top-level-domain-designed-to-support-se.md))
+- **Working With AI: A concrete example** - Score: `58` in category `ai/community` ([Link](https://htmx.org/essays/working-with-ai)) ([File](../ai/community/working-with-ai-a-concrete-example.md))
+- **Ornith-1.0: Self-scaffolding LLMs for agentic coding** - Score: `44` in category `ai/community` ([Link](https://deep-reinforce.com/ornith_1_0.html)) ([File](../ai/community/ornith-1-0-self-scaffolding-llms-for-agentic-codin.md))
+- **Using custom elements - Web APIs | MDN** - Score: `0` in category `ai/rag` ([Link](https://developer.mozilla.org/docs/web/web_components/using_custom_elements)) ([File](../ai/rag/using-custom-elements-web-apis-mdn.md))
+- **declarative-shadow-dom/README.md at master · mfreed7/declarative-shadow-dom · GitHub** - Score: `0` in category `ai/resources` ([Link](https://github.com/mfreed7/declarative-shadow-dom)) ([File](../ai/resources/mfreed7-declarative-shadow-dom.md))
+- **App Privacy Details - App Store - Apple Developer** - Score: `0` in category `ai/resources` ([Link](https://developer.apple.com/support/app-privacy-on-the-app-store)) ([File](../ai/resources/app-privacy-details-app-store-apple-developer.md))
+- **Try out CSS Nesting today | WebKit** - Score: `0` in category `ai/rag` ([Link](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview)) ([File](../ai/rag/try-out-css-nesting-today-webkit.md))
+- **HTMLTemplateElement: shadowRootMode property - Web APIs | MDN** - Score: `0` in category `ai/resources` ([Link](https://developer.mozilla.org/docs/web/api/htmltemplateelement/shadowrootmode)) ([File](../ai/resources/htmltemplateelement-shadowrootmode-property-web-ap.md))
+- **Optimize Interaction to Next Paint | web.dev** - Score: `0` in category `ai/resources` ([Link](https://web.dev/articles/optimize-inp)) ([File](../ai/resources/optimize-interaction-to-next-paint-web-dev.md))
+- **How to choose your Baseline target | Articles | web.dev** - Score: `0` in category `ai/resources` ([Link](https://web.dev/articles/how-to-choose-your-baseline-target)) ([File](../ai/resources/how-to-choose-your-baseline-target-articles-web-de.md))
+- **New CSS functional pseudo-class selectors :is() and :where() | Articles | web.dev** - Score: `0` in category `ai/resources` ([Link](https://web.dev/articles/css-is-and-where)) ([File](../ai/resources/new-css-functional-pseudo-class-selectors-is-and-w.md))
+- **Optimize Largest Contentful Paint | Articles | web.dev** - Score: `0` in category `ai/resources` ([Link](https://web.dev/articles/optimize-lcp)) ([File](../ai/resources/optimize-largest-contentful-paint-articles-web-dev.md))
+- **CSS Nesting Module Level 1** - Score: `0` in category `ai/rag` ([Link](https://w3.org/tr/css-nesting-1)) ([File](../ai/rag/css-nesting-module-level-1.md))
+- **nvm-sh/nvm** - Score: `0` in category `ai/resources` ([Link](https://github.com/nvm-sh/nvm)) ([File](../ai/resources/nvm-sh-nvm.md))
+- **Update on Plans for Privacy Sandbox Technologies** - Score: `0` in category `ai/rag` ([Link](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies)) ([File](../ai/rag/update-on-plans-for-privacy-sandbox-technologies.md))
 
 ## Top Trending Resources
 
-- **Tidal AI Policy** - Score: `266` (+83), Rank Change: `0` ([File](../ai/community/tidal-ai-policy.md))
-- **Python Packaging User Guide** - Score: `0` (0), Rank Change: `+62` ([File](../ai/resources/python-packaging-user-guide.md))
-- **pradyunsg/furo** - Score: `0` (0), Rank Change: `+34` ([File](../ai/resources/pradyunsg-furo.md))
-- **PEP 621 Metadata - PDM** - Score: `0` (0), Rank Change: `+2242` ([File](../ai/rag/pep-621-metadata-pdm.md))
-- **Llama Hub** - Score: `0` (0), Rank Change: `+1370` ([File](../ai/rag/llama-hub.md))
-- **jupyterlab/jupyterlab** - Score: `0` (0), Rank Change: `+949` ([File](../ai/resources/jupyterlab-jupyterlab.md))
-- **Welcome to JupyterLab Server’s documentation! — JupyterLab Server 2.28.0 documentation** - Score: `0` (0), Rank Change: `+1977` ([File](../ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md))
-- **JupyterHub — JupyterHub documentation** - Score: `0` (0), Rank Change: `+426` ([File](../ai/resources/jupyterhub-jupyterhub-documentation.md))
-- **Welcome! — Jupyter Server documentation** - Score: `0` (0), Rank Change: `+419` ([File](../ai/rag/welcome-jupyter-server-documentation.md))
-- **Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation** - Score: `0` (0), Rank Change: `+2225` ([File](../ai/rag/configuring-setuptools-using-pyproject-toml-files.md))
+- **Standard Contractual Clauses (SCC) - European Commission** - Score: `0` (0), Rank Change: `+4575` ([File](../ai/resources/standard-contractual-clauses-scc-european-commissi.md))
+- **Apple Platform Security - Apple Support** - Score: `0` (0), Rank Change: `+483` ([File](../ai/resources/apple-platform-security-apple-support.md))
+- **Gerrit** - Score: `0` (0), Rank Change: `+3385` ([File](../ai/resources/gerrit.md))
+- **PageSpeed Insights** - Score: `0` (0), Rank Change: `+371` ([File](../ai/resources/pagespeed-insights.md))
+- **Shows | web.dev** - Score: `0` (0), Rank Change: `+2017` ([File](../ai/resources/shows-web-dev.md))
+- **Site Policies | Google for Developers** - Score: `0` (0), Rank Change: `+1342` ([File](../ai/rag/site-policies-google-for-developers.md))
+- **Contact us | ICO** - Score: `0` (0), Rank Change: `+1098` ([File](../ai/resources/contact-us-ico.md))
+- **Global Infrastructure - AWS** - Score: `0` (0), Rank Change: `+418` ([File](../ai/rag/global-infrastructure-aws.md))
+- **Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users** - Score: `0` (0), Rank Change: `+1335` ([File](../ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md))
+- **Gemini Developer API | Gemma open models | Google AI for Developers** - Score: `0` (0), Rank Change: `+291` ([File](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **YAML Ain’t Markup Language (YAML™) revision 1.2.2** - (Rank Change: `+4717`) ([File](../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md))
-- **Configuration file overview — Read the Docs user documentation** - (Rank Change: `+2989`) ([File](../ai/agents/configuration-file-overview-read-the-docs-user-doc.md))
-- **Packaging Python Projects - Python Packaging User Guide** - (Rank Change: `+2250`) ([File](../ai/rag/packaging-python-projects-python-packaging-user-gu.md))
-- **PEP 621 Metadata - PDM** - (Rank Change: `+2242`) ([File](../ai/rag/pep-621-metadata-pdm.md))
-- **Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation** - (Rank Change: `+2225`) ([File](../ai/rag/configuring-setuptools-using-pyproject-toml-files.md))
-- **Welcome to Click — Click Documentation (8.4.x)** - (Rank Change: `+2053`) ([File](../ai/resources/welcome-to-click-click-documentation-8-4-x.md))
-- **Welcome to JupyterLab Server’s documentation! — JupyterLab Server 2.28.0 documentation** - (Rank Change: `+1977`) ([File](../ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md))
-- **Alabaster: a Sphinx theme — Alabaster documentation** - (Rank Change: `+1532`) ([File](../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md))
-- **The Linux man-pages project** - (Rank Change: `+1532`) ([File](../ai/resources/the-linux-man-pages-project.md))
-- **pallets/flask** - (Rank Change: `+1459`) ([File](../ai/rag/pallets-flask.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9482`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **neuml/txtai** - (Rank Change: `+9434`) ([File](../ai/rag/neuml-txtai.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+9340`) ([File](../ai/rag/ruc-nlpir-flashrag.md))
+- **Standard Contractual Clauses (SCC) - European Commission** - (Rank Change: `+4575`) ([File](../ai/resources/standard-contractual-clauses-scc-european-commissi.md))
+- **[2407.10930] Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together** - (Rank Change: `+3912`) ([File](../ai/rag/arxiv-2407-10930.md))
+- **âApps & Games for Vision - App Store** - (Rank Change: `+3392`) ([File](../ai/resources/aapps-games-for-vision-app-store.md))
+- **Gerrit** - (Rank Change: `+3385`) ([File](../ai/resources/gerrit.md))
+- **Chrome for Developers** - (Rank Change: `+3360`) ([File](../ai/rag/chrome-for-developers.md))
+- **Retrieval-Augmented Generation (RAG) - DSPy** - (Rank Change: `+3156`) ([File](../ai/rag/retrieval-augmented-generation-rag-dspy.md))
+- **Baseline | web.dev** - (Rank Change: `+2064`) ([File](../ai/resources/baseline-web-dev.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -59,4 +59,6 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88** (Category: `ai/community`) ([File](../ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md))
+- **The CEO of Mullvad is the main financer of the Swedish Örebro party** (Category: `ai/community`) ([File](../ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md))
+- **Tidal AI Policy** (Category: `ai/community`) ([File](../ai/community/tidal-ai-policy.md))
+- **Microsoft worker emails colleagues about company's support for genocidal Israel** (Category: `ai/community`) ([File](../ai/community/microsoft-worker-emails-colleagues-about-company-s.md))

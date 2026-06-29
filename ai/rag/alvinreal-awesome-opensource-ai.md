@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alvinreal/awesome-opensource-ai
-collected_at: '2026-06-30T01:48:40.659374+05:30'
+collected_at: '2026-06-30T03:53:21.192044+05:30'
 published_at: '2026-06-29T18:32:47Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-24T15:58:22Z'
 pushed_at: '2026-06-29T18:31:47Z'
 resource_id: github:alvinreal/awesome-opensource-ai
-first_seen: '2026-06-30T01:48:40.659374+05:30'
-last_seen: '2026-06-30T01:48:40.659374+05:30'
-last_checked: '2026-06-30T01:48:40.659374+05:30'
+first_seen: '2026-06-30T03:53:21.192044+05:30'
+last_seen: '2026-06-30T03:53:21.192044+05:30'
+last_checked: '2026-06-30T03:53:21.192044+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Aggregates truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance and accuracy.
-
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG systems, primarily implemented in Python, with a focus on transparency and open collaboration.
-
-- **Community Metrics**: Maintains 3,973 stars and 468 forks, indicating active engagement and adoption within the open-source AI ecosystem.
+- **Curated Collection**: Aggregates actively maintained, truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
+- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG systems, primarily implemented in Python.
+- **Community Engagement**: Maintains 3,973 stars and 468 forks, reflecting active community contribution and validation.
 
 ## Why It Matters
 

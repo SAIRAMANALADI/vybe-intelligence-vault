@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-30T01:48:15.654700+05:30'
+collected_at: '2026-06-30T03:52:56.195266+05:30'
 published_at: '2026-05-26T16:59:46Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-30T01:48:15.654700+05:30'
-last_seen: '2026-06-30T01:48:15.654700+05:30'
-last_checked: '2026-06-30T01:48:15.654700+05:30'
+first_seen: '2026-06-30T03:52:56.195266+05:30'
+last_seen: '2026-06-30T03:52:56.195266+05:30'
+last_checked: '2026-06-30T03:52:56.195266+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in LLM responses.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy.
 
-- **NVIDIA AI Workbench Integration**: Leverages NVIDIA's AI Workbench framework to streamline deployment, dependency management, and GPU acceleration for scalable hybrid RAG workflows.
+- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying RAG workflows using NVIDIA AI Workbench, leveraging GPU-accelerated components (e.g., FAISS, Triton Inference Server).
 
-- **Python-Based Example**: Provides a reference implementation in Python, showcasing modular components for retrieval, reranking, and LLM inference with NVIDIA-optimized libraries (e.g., NeMo, TensorRT-LLM).
+- **Python-Based Example**: Includes a modular Python implementation with dependencies for vector databases (e.g., Milvus/FAISS), LLM inference (e.g., NVIDIA NeMo or Hugging Face), and hybrid retrieval logic.
 
 ## Why It Matters
 

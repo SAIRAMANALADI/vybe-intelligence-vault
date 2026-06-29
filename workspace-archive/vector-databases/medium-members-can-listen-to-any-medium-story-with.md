@@ -9,7 +9,7 @@ local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -21,15 +21,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert text-to-speech (TTS) for any story, with highlighted text synchronization, supporting multitasking (e.g., commuting, exercising) and improving retention via dual-modal input.
+- **Integration & Accessibility**: Medium’s partnership with Speechify enables all Medium members to convert any article into audio via the "Listen" feature, using multiple narrators, with text-to-speech highlighting for enhanced comprehension and retention.
 
-- **Performance & Customization**: Users can adjust playback speed up to 4.5x, optimizing productivity for speed listeners, while writers leverage TTS for proofreading drafts to detect awkward phrasing or e
+- **Performance & Utility**: Users report consuming up to 3x more content via audio, with adjustable playback speeds (0.5x–4.5x) for productivity, and writers leverage the tool for proofreading by detecting awkward phrasing in drafts.
+
+- **
 
 ## Use Cases
 

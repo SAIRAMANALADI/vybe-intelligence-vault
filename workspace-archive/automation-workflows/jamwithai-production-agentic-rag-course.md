@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Focus**: Production-ready Agentic RAG (Retrieval-Augmented Generation) implementation in Python, emphasizing scalable, real-world deployment.
-- **Repository Metrics**: 7,166 stars, 1,602 forks, last updated June 29, 2026.
-- **Technical Stack**: Python-based, targeting agentic workflows for RAG systems in production environments.
+- **Course Repository**: GitHub repository (`jamwithai/production-agentic-rag-course`) focused on production-grade Agentic RAG (Retrieval-Augmented Generation) systems, with 7,226 stars and 1,613 forks as of the last update.
+- **Technical Stack**: Implemented in Python, emphasizing scalable, production-ready RAG architectures with agentic workflows for dynamic retrieval and generation.
+- **Last Updated**: Repository last modified on **2026-06-29T22:13:19Z**, indicating active development or main
 
 ## Use Cases
 

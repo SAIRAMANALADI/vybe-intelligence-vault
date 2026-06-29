@@ -2,13 +2,13 @@
 title: Retrieval-Augmented Generation (RAG) - DSPy
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://dspy.ai/tutorials/rag
+source_url: https://dspy.ai/tutorials/rag/
 resource_id: blog:retrieval-augmented-generation-rag-dspy
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-dspy.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -23,7 +23,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Retrieval-Augmented Generation (RAG) - DSPy
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **DSPy Modules**: DSPy provides structured `Modules` (e.g., `dspy.Predict`, `dspy.ChainOfThought`) that encapsulate LM interactions via defined signatures (input/output schemas), enabling modular and interpretable LM program construction with built-in adapters for input/output handling.
+- **DSPy RAG Pipeline**: Demonstrates a basic RAG system using DSPy with `dspy.Predict` and `dspy.ChainOfThought` modules, configured with OpenAI's `gpt-4o-mini` via `dspy.LM`, and structured input/output handling via DSPy Signatures.
 
-- **Evaluation Framework**: DSPy supports iterative development through evaluation using datasets (e.g., RAG-QA Arena Tech) and metrics, with `dspy.Example` objects for structured data handling, enabling optim
+- **Dataset Integration & Evaluation**: Uses the RAG-QA Arena "Tech" dataset (StackExchange-based QA pairs) with `dspy.Example` for structured data handling, splitting into `trainset` (200), `devset` (300), and `testset` (500) for iterative optimization and evalua
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://dspy.ai/tutorials/rag
+Original source URL: https://dspy.ai/tutorials/rag/
 
 ## Local Vault File
 

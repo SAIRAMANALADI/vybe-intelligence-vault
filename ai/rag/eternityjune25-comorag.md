@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-30T01:49:15.651088+05:30'
+collected_at: '2026-06-30T03:53:56.215852+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-30T01:49:15.651088+05:30'
-last_seen: '2026-06-30T01:49:15.651088+05:30'
-last_checked: '2026-06-30T01:49:15.651088+05:30'
+first_seen: '2026-06-30T03:53:56.215852+05:30'
+last_seen: '2026-06-30T03:53:56.215852+05:30'
+last_checked: '2026-06-30T03:53:56.215852+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long-form narrative reasoning with structured memory retention.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory retrieval and hierarchical reasoning layers.
 
-- **Stateful Long Narrative Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or documents, enhancing reasoning depth and accuracy.
+- **Stateful Long-Form Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in AI reasoning, leveraging Python-based modular design for scalability and adaptability in complex narrative understanding tasks.
+- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-context reasoning tasks compared to traditional RAG baselines, with optimizations for scalability and interpretability.
 
 ## Why It Matters
 

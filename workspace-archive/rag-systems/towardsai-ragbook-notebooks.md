@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementation of LLMs in production environments.
-- **Technical Stack**: Primarily utilizes Python with integrations for LangChain, LlamaIndex, and RAG (Retrieval-Augmented Generation) frameworks for agent-based AI workflows.
-- **Metadata**: 553 stars, 196 forks, last updated June 10, 2026; topics include AI, LLMs, and agent systems.
+- **Repository Purpose**: Hosts Jupyter Notebooks accompanying the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
+
+- **Technical Stack**: Primarily utilizes Python with libraries/frameworks such as LangChain, LlamaIndex, and agents for RAG (Retrieval-Augmented Generation) workflows.
+
+- **Metadata**: 553 stars, 196 forks, last updated June 10, 2026; topics include AI, LLMs, RAG, and agent-based systems.
 
 ## Use Cases
 

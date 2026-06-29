@@ -2,18 +2,17 @@
 title: 'Medium: Read and write stories.'
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://medium.com/
+source_url: https://medium.com
 resource_id: blog:medium-read-and-write-stories
 local_vault_path: ai/rag/medium-read-and-write-stories.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -24,17 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- Medium is a content publishing platform leveraging a RESTful API architecture for user authentication (`/signin`, `/membership`), content retrieval (`/sitemap.xml`), and post creation (`/new-story` via `/write`).
+- Medium is a content publishing platform leveraging XML sitemaps (`sitemap.xml`) for SEO and discoverability, with core endpoints including `/about`, `/membership`, and `/new-story`.
 
-- The platform enforces content policies via `/rules` and `/terms`, with compliance overseen by a dedicated `/help` and `/status` system for uptime monitoring.
+- User authentication and content creation are facilitated via `/signin` (login/register) and `/write` endpoints, with registration redirecting to new post creation.
 
-- Medium integrates third-party services (e.g., `/text-to-speech` via Speechify) and supports monetization through `/member
+- Platform policies and support are governed by `/help`, `/status`, `/privacy`, `/terms`, and `/rules`, while monetization and career opportunities
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://medium.com/
+Original source URL: https://medium.com
 
 ## Local Vault File
 

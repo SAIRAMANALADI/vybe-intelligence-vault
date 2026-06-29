@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Hosts best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), implemented in Python.
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), maintained in Python.
+
 - **Metadata**: 92 stars, 10 forks, last updated on **2026-06-22T11:51:50Z**.
-- **Focus**: Technical guidance on optimizing RAG pipelines for LLMs, though no explicit topic tags are assigned.
+
+- **Purpose**: Provides technical guidelines and implementations for optimizing RAG pipelines in production environments.
 
 ## Use Cases
 

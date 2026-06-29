@@ -8,18 +8,17 @@ local_vault_path: ai/rag/nvidia-workbench-example-agentic-rag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - jupyter notebook
 - rag
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # NVIDIA/workbench-example-agentic-rag
@@ -28,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating multi-agent orchestration with retrieval-augmented generation for dynamic knowledge synthesis.
-
-- **Implementation**: Implemented in Jupyter Notebook, leveraging modular agent components for retrieval, reasoning, and generation, with potential integration of NVIDIA-optimized libraries (e.g., TensorRT-LLM, NeMo) for performance acceleration.
-
-- **Structure**: Contains exampl
+- **Agentic RAG Implementation**: Demonstrates an agent-based Retrieval-Augmented Generation (RAG) system using NVIDIA AI Workbench, integrating retrieval and generative components for dynamic knowledge synthesis.
+- **Jupyter Notebook-Based**: Entire project structured as a Jupyter Notebook, providing an interactive, executable environment for experimentation and prototyping.
+- **NVIDIA AI Workbench Integration**: Leverages NVIDIA’s AI Workbench for streamlined development, deployment, and depen
 
 ## Use Cases
 

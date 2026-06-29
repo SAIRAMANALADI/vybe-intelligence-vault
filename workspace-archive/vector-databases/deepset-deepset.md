@@ -12,6 +12,9 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
+- meta-ai
+- models
 - rag
 - web-crawled
 selection_reason:
@@ -30,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoQuizzer**: An automated quiz generation tool leveraging LLMs to create, play, or simulate quiz interactions.
-- **Multi-modal Functionality**: Supports quiz generation, interactive gameplay, and LLM-based simulation.
-- **Deployment**: Hosted as a Hugging Face Space by deepset, accessible via [this link](https://huggingface.co/spaces/deepset/autoquizzer).
+- **AutoQuizzer**: A Hugging Face Space by deepset that automates quiz generation using LLMs (e.g., Llama), allowing users to create, play, or let the model play quizzes interactively.
+- **Core Functionality**: Leverages LLMs to dynamically generate quiz questions, answers, and explanations, with optional multi-agent gameplay where the LLM participates as a player.
+- **Technical Stack**: Built on Hugging Face Spaces, utilizing open-source LLMs for inference, enabling rapid prototyping and deploy
 
 ## Use Cases
 

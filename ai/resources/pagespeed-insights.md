@@ -3,16 +3,16 @@ title: PageSpeed Insights
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://pagespeed.web.dev
-published_at: '2026-06-29T17:04:21.633461+05:30'
-collected_at: '2026-06-29T17:04:21.633473+05:30'
+source_url: https://pagespeed.web.dev/
+published_at: '2026-06-30T04:04:14.721225+05:30'
+collected_at: '2026-06-30T04:04:14.721231+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:pagespeed-insights
-first_seen: '2026-06-29T17:04:21.633473+05:30'
-last_seen: '2026-06-29T17:04:21.633473+05:30'
-last_checked: '2026-06-29T17:04:21.633473+05:30'
+first_seen: '2026-06-30T04:04:14.721231+05:30'
+last_seen: '2026-06-30T04:04:14.721231+05:30'
+last_checked: '2026-06-30T04:04:14.721231+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **PageSpeed Insights (PSI)** analyzes web page performance using **Lighthouse** and **Chrome UX Report (CrUX)** data to provide Core Web Vitals metrics (LCP, FID, CLS).
-- **Optimization recommendations** include resource minification, efficient caching, image compression, and JavaScript/CSS deferral to improve **Time to Interactive (TTI)** and **First Contentful Paint (FCP)**.
-- **Real-world performance data** from CrUX is combined with **lab-based audits** via Lighthouse to generate actionable insights for cross-device optimization.
+- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on mobile and desktop devices using real-world data (CrUX) and lab data, providing optimization suggestions.
+
+- **Scoring Mechanism**: Utilizes Lighthouse audits to generate performance scores (0-100) based on Core Web Vitals (LCP, FID, CLS) and other metrics.
+
+- **Optimization Recommendations**: Provides actionable insights (e.g., image compression, JavaScript minification, caching strategies) to improve load times and user experience.
 
 ## Why It Matters
 
@@ -32,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T17:04:21.633461+05:30
+- Published: 2026-06-30T04:04:14.721225+05:30
 
 ## Related Tags
 
@@ -40,4 +42,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://pagespeed.web.dev
+Original source: https://pagespeed.web.dev/

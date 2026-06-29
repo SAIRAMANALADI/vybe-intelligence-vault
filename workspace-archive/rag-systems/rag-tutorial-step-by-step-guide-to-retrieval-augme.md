@@ -7,10 +7,10 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 84
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
-importance: high
+resource_kind: framework
+importance: medium
 tags:
 - benchmark
 - models
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -29,17 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Five-stage pipeline—load (documents), chunk (split into retrieval-sized pieces), embed (convert to vectors via `text-embedding-3-small`), retrieve (semantic search in ChromaDB with `k=4` top chunks), and generate (LLM answer grounded in retrieved context using `gpt-4o-mini`).
+- **RAG Pipeline Architecture**: A 5-step process consisting of document loading, chunking, embedding/indexing (using ChromaDB), retrieval (semantic similarity search), and generation (LLM context integration with LangChain), enabling dynamic knowledge integration without model retraining.
 
-- **Modularity & Interchangeability**: Components (loaders, chunkers, embeddings, vector DBs, LLMs) are swappable (e.g., Pinecone/pgvector for DB, custom chunkers, or alternative LLMs), enabling sca
+- **Chunking Strategy**: Recursive character splitting (512-token chunks with 50-token overlap) preserves semantic boundaries while optimizing retrieval granularity, balancing context retention and retrieval
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/msitarzewski/agency-agents
-published_at: '2026-06-30T01:46:50.552132+05:30'
-collected_at: '2026-06-30T01:46:50.552137+05:30'
+published_at: '2026-06-30T03:51:23.724441+05:30'
+collected_at: '2026-06-30T03:51:23.724446+05:30'
 tags:
 - agents
 - github-trending
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:msitarzewski/agency-agents
 first_seen: '2026-06-29T16:55:00.770210+05:30'
-last_seen: '2026-06-30T01:46:50.552137+05:30'
-last_checked: '2026-06-30T01:46:50.552137+05:30'
+last_seen: '2026-06-30T03:51:23.724446+05:30'
+last_checked: '2026-06-30T03:51:23.724446+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-30T01:46:50.552132+05:30
+- Published: 2026-06-30T03:51:23.724441+05:30
 
 ## Related Tags
 
