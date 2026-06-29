@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
+### 1. [run-llama/llama-hub](../ai/rag/run-llama-llama-hub.md) ([Source URL](https://github.com/run-llama/llama-hub))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T02:00:19.357157+05:30
+- **Local Path**: `ai/rag/run-llama-llama-hub.md`
+
+### 2. [Core metadata specifications - Python Packaging User Guide](../ai/rag/core-metadata-specifications-python-packaging-user.md) ([Source URL](https://packaging.python.org/specifications/core-metadata))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T02:00:18.139377+05:30
+- **Local Path**: `ai/rag/core-metadata-specifications-python-packaging-user.md`
+
+### 3. [Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation](../ai/resources/building-and-distributing-packages-with-setuptools.md) ([Source URL](https://setuptools.readthedocs.io/en/latest/setuptools.html))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:55:13.763266+05:30
-- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
+- **Collected At**: 2026-06-30T02:00:14.803948+05:30
+- **Local Path**: `ai/resources/building-and-distributing-packages-with-setuptools.md`
 
-### 2. [Gemini CLI installation, execution, and releases | Gemini CLI](../ai/resources/gemini-cli-installation-execution-and-releases-gem.md) ([Source URL](https://geminicli.com/docs/get-started/installation))
+### 4. [python-poetry/poetry-core](../ai/resources/python-poetry-poetry-core.md) ([Source URL](https://github.com/python-poetry/poetry-core))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:55:13.499329+05:30
-- **Local Path**: `ai/resources/gemini-cli-installation-execution-and-releases-gem.md`
+- **Collected At**: 2026-06-30T02:00:14.344075+05:30
+- **Local Path**: `ai/resources/python-poetry-poetry-core.md`
 
-### 3. [Generating content | Gemini API | Google AI for Developers](../ai/rag/generating-content-gemini-api-google-ai-for-develo.md) ([Source URL](https://ai.google.dev/api/generate-content))
+### 5. [python-poetry/poetry-plugin-export](../ai/rag/python-poetry-poetry-plugin-export.md) ([Source URL](https://github.com/python-poetry/poetry-plugin-export))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:13.349138+05:30
-- **Local Path**: `ai/rag/generating-content-gemini-api-google-ai-for-develo.md`
+- **Collected At**: 2026-06-30T02:00:14.318753+05:30
+- **Local Path**: `ai/rag/python-poetry-poetry-plugin-export.md`
 
-### 4. [API and references | Gemini for Google Cloud | Google Cloud Documentation](../ai/resources/api-and-references-gemini-for-google-cloud-google.md) ([Source URL](https://docs.cloud.google.com/gemini/docs/api-and-reference))
+### 6. [python-poetry/poetry](../ai/resources/python-poetry-poetry.md) ([Source URL](https://github.com/python-poetry/poetry))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:55:12.064036+05:30
-- **Local Path**: `ai/resources/api-and-references-gemini-for-google-cloud-google.md`
+- **Collected At**: 2026-06-30T02:00:14.316735+05:30
+- **Local Path**: `ai/resources/python-poetry-poetry.md`
 
-### 5. [Introduction to the Agent Platform SDK for Python | Gemini Enterprise Agent Platform | Google Cloud Documentation](../ai/agents/introduction-to-the-agent-platform-sdk-for-python.md) ([Source URL](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:55:11.412505+05:30
-- **Local Path**: `ai/agents/introduction-to-the-agent-platform-sdk-for-python.md`
-
-### 6. [🌦️ Docs | Open-Meteo.com](../ai/rag/docs-open-meteo-com.md) ([Source URL](https://open-meteo.com/en/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:10.647136+05:30
-- **Local Path**: `ai/rag/docs-open-meteo-com.md`
-
-### 7. [Google Cloud Documentation](../ai/rag/google-cloud-documentation.md) ([Source URL](https://docs.cloud.google.com/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:09.955895+05:30
-- **Local Path**: `ai/rag/google-cloud-documentation.md`
-
-### 8. [Using OAuth 2.0 to Access Google APIs | Authorization | Google for Developers](../ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md) ([Source URL](https://developers.google.com/identity/protocols/oauth2))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:08.618416+05:30
-- **Local Path**: `ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md`
-
-### 9. [Gemini CLI authentication setup | Gemini CLI](../ai/rag/gemini-cli-authentication-setup-gemini-cli.md) ([Source URL](https://geminicli.com/docs/get-started/authentication))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:08.124305+05:30
-- **Local Path**: `ai/rag/gemini-cli-authentication-setup-gemini-cli.md`
-
-### 10. [Google Cloud Platform · GitHub](../ai/rag/google-cloud-platform-github.md) ([Source URL](https://github.com/googlecloudplatform))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:07.138261+05:30
-- **Local Path**: `ai/rag/google-cloud-platform-github.md`
-
-### 11. [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) ([Source URL](https://cloud.google.com/gemini/docs/discover/set-up-gemini))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:55:04.216808+05:30
-- **Local Path**: `ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md`
-
-### 12. [Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](../ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md) ([Source URL](https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls))
+### 7. [Python Packaging User Guide](../ai/resources/python-packaging-user-guide.md) ([Source URL](https://packaging.python.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:55:03.670059+05:30
-- **Local Path**: `ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md`
+- **Collected At**: 2026-06-30T02:00:13.023424+05:30
+- **Local Path**: `ai/resources/python-packaging-user-guide.md`
 
-### 13. [Android Developers Blog: Entri cut UI development time by 40% with Gemini in Android Studio](../ai/rag/android-developers-blog-entri-cut-ui-development-t.md) ([Source URL](https://android-developers.googleblog.com/2025/09/entri-cut-ui-development-time-gemini-android-studio.html))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:55:03.470625+05:30
-- **Local Path**: `ai/rag/android-developers-blog-entri-cut-ui-development-t.md`
-
-### 14. [GoogleCloudPlatform/generative-ai](../ai/rag/googlecloudplatform-generative-ai.md) ([Source URL](https://github.com/googlecloudplatform/generative-ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:37.274802+05:30
-- **Local Path**: `ai/rag/googlecloudplatform-generative-ai.md`
-
-### 15. [Developing LLM Apps with the Vertex AI SDK | Google Codelabs](../ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md) ([Source URL](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/1-developing-apps-that-use-llms/developing-llm-apps-with-vertex-ai-sdk))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:54:36.171673+05:30
-- **Local Path**: `ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md`
-
-### 16. [GoogleCloudPlatform/vertex-ai-samples](../ai/resources/googlecloudplatform-vertex-ai-samples.md) ([Source URL](https://github.com/googlecloudplatform/vertex-ai-samples))
+### 8. [nexB/license-expression](../ai/resources/nexb-license-expression.md) ([Source URL](https://github.com/nexb/license-expression))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:32.236466+05:30
-- **Local Path**: `ai/resources/googlecloudplatform-vertex-ai-samples.md`
+- **Collected At**: 2026-06-30T02:00:09.444743+05:30
+- **Local Path**: `ai/resources/nexb-license-expression.md`
 
-### 17. [Gemini in Android Studio - Android Developers](../ai/rag/gemini-in-android-studio-android-developers.md) ([Source URL](https://developer.android.com/gemini-in-android))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:30.344586+05:30
-- **Local Path**: `ai/rag/gemini-in-android-studio-android-developers.md`
-
-### 18. [Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud](../ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md) ([Source URL](https://cloud.google.com/products/gemini-enterprise-agent-platform))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:28.929798+05:30
-- **Local Path**: `ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md`
-
-### 19. [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](../ai/resources/protocolbuffers-protobuf-go.md) ([Source URL](https://github.com/protocolbuffers/protobuf-go))
+### 9. [pradyunsg/furo](../ai/resources/pradyunsg-furo.md) ([Source URL](https://github.com/pradyunsg/furo))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:25.130256+05:30
-- **Local Path**: `ai/resources/protocolbuffers-protobuf-go.md`
-
-### 20. [Protocol Buffers Documentation](../ai/resources/protocol-buffers-documentation.md) ([Source URL](https://protobuf.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:20.055832+05:30
-- **Local Path**: `ai/resources/protocol-buffers-documentation.md`
-
-### 21. [The Go Programming Language](../ai/rag/the-go-programming-language.md) ([Source URL](https://go.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:20.006567+05:30
-- **Local Path**: `ai/rag/the-go-programming-language.md`
-
-### 22. [protocolbuffers/protobuf](../ai/rag/protocolbuffers-protobuf.md) ([Source URL](https://github.com/protocolbuffers/protobuf))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:19.697959+05:30
-- **Local Path**: `ai/rag/protocolbuffers-protobuf.md`
-
-### 23. [proto package - google.golang.org/protobuf/proto - Go Packages](../ai/rag/proto-package-google-golang-org-protobuf-proto-go.md) ([Source URL](https://pkg.go.dev/google.golang.org/protobuf/proto))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:17.142062+05:30
-- **Local Path**: `ai/rag/proto-package-google-golang-org-protobuf-proto-go.md`
-
-### 24. [Newest 'protocol-buffers' Questions - Stack Overflow](../ai/agents/newest-protocol-buffers-questions-stack-overflow.md) ([Source URL](https://stackoverflow.com/questions/tagged/protocol-buffers))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:54:17.008549+05:30
-- **Local Path**: `ai/agents/newest-protocol-buffers-questions-stack-overflow.md`
-
-### 25. [HashiCorp Services Status](../ai/resources/hashicorp-services-status.md) ([Source URL](https://status.hashicorp.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:15.485794+05:30
-- **Local Path**: `ai/resources/hashicorp-services-status.md`
-
-### 26. [hashicorp/terraform](../ai/resources/hashicorp-terraform.md) ([Source URL](https://github.com/hashicorp/terraform))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:14.697945+05:30
-- **Local Path**: `ai/resources/hashicorp-terraform.md`
-
-### 27. [Terraform Registry](../ai/resources/terraform-registry.md) ([Source URL](https://registry.terraform.io))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:14.551890+05:30
-- **Local Path**: `ai/resources/terraform-registry.md`
-
-### 28. [Terraform | HashiCorp Developer](../ai/rag/terraform-hashicorp-developer.md) ([Source URL](https://terraform.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:54:12.020714+05:30
-- **Local Path**: `ai/rag/terraform-hashicorp-developer.md`
-
-### 29. [aip-dev/google.aip.dev](../ai/resources/aip-dev-google-aip-dev.md) ([Source URL](https://github.com/aip-dev/google.aip.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:09.597326+05:30
-- **Local Path**: `ai/resources/aip-dev-google-aip-dev.md`
-
-### 30. [Google API Linter](../ai/resources/google-api-linter.md) ([Source URL](https://linter.aip.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:09.477674+05:30
-- **Local Path**: `ai/resources/google-api-linter.md`
-
-### 31. [AIP-9: Glossary](../ai/resources/aip-9-glossary.md) ([Source URL](https://google.aip.dev/9))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:54:09.302127+05:30
-- **Local Path**: `ai/resources/aip-9-glossary.md`
-
-### 32. [astral-sh/uv](../ai/resources/astral-sh-uv.md) ([Source URL](https://github.com/astral-sh/uv))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:53:59.384052+05:30
-- **Local Path**: `ai/resources/astral-sh-uv.md`
-
-### 33. [pypa/hatch](../ai/resources/pypa-hatch.md) ([Source URL](https://github.com/pypa/hatch))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:53:54.366542+05:30
-- **Local Path**: `ai/resources/pypa-hatch.md`
-
-### 34. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:53:54.287051+05:30
-- **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
-
-### 35. [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md) ([Source URL](https://discourse.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:53:06.935195+05:30
-- **Local Path**: `ai/resources/discourse-where-tech-companies-build-communities.md`
-
-### 36. [Solutions for App Development Challenges | Firebase](../ai/rag/solutions-for-app-development-challenges-firebase.md) ([Source URL](https://firebase.google.com/use-cases))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:56.578565+05:30
-- **Local Path**: `ai/rag/solutions-for-app-development-challenges-firebase.md`
-
-### 37. [The Firebase Blog](../ai/rag/the-firebase-blog.md) ([Source URL](https://firebase.blog))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:47.057343+05:30
-- **Local Path**: `ai/rag/the-firebase-blog.md`
-
-### 38. [googleapis/googleapis](../ai/resources/googleapis-googleapis.md) ([Source URL](https://github.com/googleapis/googleapis))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:52:43.745365+05:30
-- **Local Path**: `ai/resources/googleapis-googleapis.md`
-
-### 39. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source URL](https://cloud.google.com/apis/docs/client-libraries-explained))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:40.930632+05:30
-- **Local Path**: `ai/rag/client-libraries-and-cloud-apis-explained-google-c.md`
-
-### 40. [Develop for Android | Android Developers](../ai/resources/develop-for-android-android-developers.md) ([Source URL](https://developer.android.com/docs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:52:23.993285+05:30
-- **Local Path**: `ai/resources/develop-for-android-android-developers.md`
-
-### 41. [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source URL](https://developer.android.com/jetpack))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:23.743983+05:30
-- **Local Path**: `ai/rag/android-jetpack-dev-resources-android-developers.md`
-
-### 42. [Project Summaries - Python Packaging User Guide](../ai/rag/project-summaries-python-packaging-user-guide.md) ([Source URL](https://packaging.python.org/en/latest/key_projects))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:19.926325+05:30
-- **Local Path**: `ai/rag/project-summaries-python-packaging-user-guide.md`
-
-### 43. [Download Android Studio & App Tools - Android Developers](../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source URL](https://developer.android.com/studio))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:52:18.566770+05:30
-- **Local Path**: `ai/rag/download-android-studio-app-tools-android-develope.md`
-
-### 44. [pradyunsg/furo](../ai/resources/pradyunsg-furo.md) ([Source URL](https://github.com/pradyunsg/furo))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:51:47.939016+05:30
+- **Collected At**: 2026-06-30T02:00:09.310466+05:30
 - **Local Path**: `ai/resources/pradyunsg-furo.md`
 
-### 45. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
+### 10. [uv](../ai/resources/uv.md) ([Source URL](https://docs.astral.sh/uv))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:51:46.794572+05:30
-- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
+- **Collected At**: 2026-06-30T02:00:08.207416+05:30
+- **Local Path**: `ai/resources/uv.md`
 
-### 46. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
+### 11. [PEP 621 Metadata - PDM](../ai/rag/pep-621-metadata-pdm.md) ([Source URL](https://pdm-project.org/latest/reference/pep621))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:51:42.883164+05:30
-- **Local Path**: `ai/rag/cookbook-haystack.md`
+- **Collected At**: 2026-06-30T02:00:04.114595+05:30
+- **Local Path**: `ai/rag/pep-621-metadata-pdm.md`
 
-### 47. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
+### 12. [Llama Hub](../ai/rag/llama-hub.md) ([Source URL](https://llamahub.ai))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:51:40.912744+05:30
-- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
+- **Collected At**: 2026-06-30T02:00:02.757324+05:30
+- **Local Path**: `ai/rag/llama-hub.md`
 
-### 48. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
+### 13. [JupyterLab Documentation — JupyterLab 4.7.0a0 documentation](../ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md) ([Source URL](https://jupyterlab.readthedocs.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:57:14.148516+05:30
+- **Local Path**: `ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md`
+
+### 14. [jupyterlab/jupyterlab](../ai/resources/jupyterlab-jupyterlab.md) ([Source URL](https://github.com/jupyterlab/jupyterlab))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:57:12.055338+05:30
+- **Local Path**: `ai/resources/jupyterlab-jupyterlab.md`
+
+### 15. [Welcome to JupyterLab Server’s documentation! — JupyterLab Server 2.28.0 documentation](../ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md) ([Source URL](https://jupyterlab-server.readthedocs.io/en/stable))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:57:08.637882+05:30
+- **Local Path**: `ai/resources/welcome-to-jupyterlab-servers-documentation-jupyte.md`
+
+### 16. [JupyterHub — JupyterHub documentation](../ai/resources/jupyterhub-jupyterhub-documentation.md) ([Source URL](https://jupyterhub.readthedocs.io/en/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:57:08.561588+05:30
+- **Local Path**: `ai/resources/jupyterhub-jupyterhub-documentation.md`
+
+### 17. [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) ([Source URL](https://jupyter-server.readthedocs.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:57:08.232289+05:30
+- **Local Path**: `ai/rag/welcome-jupyter-server-documentation.md`
+
+### 18. [[Import-SIG] Namespace Packages resolution](../ai/resources/import-sig-namespace-packages-resolution.md) ([Source URL](https://mail.python.org/pipermail/import-sig/2012-march/000421.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:55.636423+05:30
+- **Local Path**: `ai/resources/import-sig-namespace-packages-resolution.md`
+
+### 19. [Poetry - Python dependency management and packaging made easy](../ai/rag/poetry-python-dependency-management-and-packaging.md) ([Source URL](https://python-poetry.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:28.867012+05:30
+- **Local Path**: `ai/rag/poetry-python-dependency-management-and-packaging.md`
+
+### 20. [pypa/trove-classifiers](../ai/resources/pypa-trove-classifiers.md) ([Source URL](https://github.com/pypa/trove-classifiers))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:25.688071+05:30
+- **Local Path**: `ai/resources/pypa-trove-classifiers.md`
+
+### 21. [build - 1.5.0](../ai/resources/build-1-5-0.md) ([Source URL](https://pypa-build.readthedocs.io/en/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:22.824461+05:30
+- **Local Path**: `ai/resources/build-1-5-0.md`
+
+### 22. [PEP 621 – Storing project metadata in pyproject.toml | peps.python.org](../ai/rag/pep-621-storing-project-metadata-in-pyproject-toml.md) ([Source URL](https://peps.python.org/pep-0621))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:22.534739+05:30
+- **Local Path**: `ai/rag/pep-621-storing-project-metadata-in-pyproject-toml.md`
+
+### 23. [PEP 420 – Implicit Namespace Packages | peps.python.org](../ai/rag/pep-420-implicit-namespace-packages-peps-python-or.md) ([Source URL](https://peps.python.org/pep-0420))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:22.436281+05:30
+- **Local Path**: `ai/rag/pep-420-implicit-namespace-packages-peps-python-or.md`
+
+### 24. [Writing your pyproject.toml - Python Packaging User Guide](../ai/resources/writing-your-pyproject-toml-python-packaging-user.md) ([Source URL](https://packaging.python.org/en/latest/guides/writing-pyproject-toml))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:21.961277+05:30
+- **Local Path**: `ai/resources/writing-your-pyproject-toml-python-packaging-user.md`
+
+### 25. [PEP 639 – Improving License Clarity with Better Package Metadata | peps.python.org](../ai/rag/pep-639-improving-license-clarity-with-better-pack.md) ([Source URL](https://peps.python.org/pep-0639))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:17.186453+05:30
+- **Local Path**: `ai/rag/pep-639-improving-license-clarity-with-better-pack.md`
+
+### 26. [pyproject.toml specification - Python Packaging User Guide](../ai/resources/pyproject-toml-specification-python-packaging-user.md) ([Source URL](https://packaging.python.org/en/latest/specifications/pyproject-toml))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:17.061338+05:30
+- **Local Path**: `ai/resources/pyproject-toml-specification-python-packaging-user.md`
+
+### 27. [Configuring project metadata - Hatch](../ai/resources/configuring-project-metadata-hatch.md) ([Source URL](https://hatch.pypa.io/latest/config/metadata))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:56:13.865720+05:30
+- **Local Path**: `ai/resources/configuring-project-metadata-hatch.md`
+
+### 28. [The pyproject.toml config file — Flit 4.0.0 documentation](../ai/rag/the-pyproject-toml-config-file-flit-4-0-0-document.md) ([Source URL](https://flit.pypa.io/en/stable/pyproject_toml.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:13.762494+05:30
+- **Local Path**: `ai/rag/the-pyproject-toml-config-file-flit-4-0-0-document.md`
+
+### 29. [Configuring setuptools using pyproject.toml files - setuptools 82.0.1 documentation](../ai/rag/configuring-setuptools-using-pyproject-toml-files.md) ([Source URL](https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:13.698274+05:30
+- **Local Path**: `ai/rag/configuring-setuptools-using-pyproject-toml-files.md`
+
+### 30. [Packaging Python Projects - Python Packaging User Guide](../ai/rag/packaging-python-projects-python-packaging-user-gu.md) ([Source URL](https://packaging.python.org/tutorials/packaging-projects))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:56:09.569939+05:30
+- **Local Path**: `ai/rag/packaging-python-projects-python-packaging-user-gu.md`
+
+### 31. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T21:51:38.693926+05:30
-- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
+- **Collected At**: 2026-06-30T01:53:12.061663+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
 
-### 49. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
+### 32. [Alabaster: a Sphinx theme — Alabaster documentation](../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md) ([Source URL](https://alabaster.readthedocs.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:53:04.674276+05:30
+- **Local Path**: `ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md`
+
+### 33. [The Linux man-pages project](../ai/resources/the-linux-man-pages-project.md) ([Source URL](https://kernel.org/doc/man-pages))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:53:04.429109+05:30
+- **Local Path**: `ai/resources/the-linux-man-pages-project.md`
+
+### 34. [pallets/flask](../ai/rag/pallets-flask.md) ([Source URL](https://github.com/pallets/flask))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T21:51:37.660044+05:30
+- **Collected At**: 2026-06-30T01:52:46.894874+05:30
+- **Local Path**: `ai/rag/pallets-flask.md`
+
+### 35. [Welcome to Click — Click Documentation (8.4.x)](../ai/resources/welcome-to-click-click-documentation-8-4-x.md) ([Source URL](https://click.palletsprojects.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:52:46.861576+05:30
+- **Local Path**: `ai/resources/welcome-to-click-click-documentation-8-4-x.md`
+
+### 36. [sphinx.ext.autodoc – Include documentation from docstrings — Sphinx documentation](../ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md) ([Source URL](https://sphinx-doc.org/en/master/usage/extensions/autodoc.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:29.692824+05:30
+- **Local Path**: `ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md`
+
+### 37. [Build your first project — Sphinx documentation](../ai/agents/build-your-first-project-sphinx-documentation.md) ([Source URL](https://sphinx-doc.org/en/master/tutorial/index.html))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T01:52:29.457372+05:30
+- **Local Path**: `ai/agents/build-your-first-project-sphinx-documentation.md`
+
+### 38. [readthedocs/tutorial-template](../ai/rag/readthedocs-tutorial-template.md) ([Source URL](https://github.com/readthedocs/tutorial-template))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:28.557313+05:30
+- **Local Path**: `ai/rag/readthedocs-tutorial-template.md`
+
+### 39. [YAML Ain’t Markup Language (YAML™) revision 1.2.2](../ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md) ([Source URL](https://yaml.org/spec/1.2.2))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:25.352897+05:30
+- **Local Path**: `ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md`
+
+### 40. [deepset · GitHub](../ai/resources/deepset-github.md) ([Source URL](https://github.com/deepset))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:52:23.664287+05:30
+- **Local Path**: `ai/resources/deepset-github.md`
+
+### 41. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:21.083823+05:30
 - **Local Path**: `ai/rag/tutorials-haystack.md`
 
-### 50. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
+### 42. [run-llama/llama-cloud-py](../ai/agents/run-llama-llama-cloud-py.md) ([Source URL](https://github.com/run-llama/llama-cloud-py))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T01:52:18.779222+05:30
+- **Local Path**: `ai/agents/run-llama-llama-cloud-py.md`
+
+### 43. [Configure imaging](../ai/rag/configure-imaging.md) ([Source URL](https://gohugo.io/configuration/imaging))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:17.203820+05:30
+- **Local Path**: `ai/rag/configure-imaging.md`
+
+### 44. [llama-index · PyPI](../ai/rag/llama-index-pypi.md) ([Source URL](https://pypi.org/project/llama-index))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:16.655227+05:30
+- **Local Path**: `ai/rag/llama-index-pypi.md`
+
+### 45. [Welcome to LlamaIndex.TS | Developer Documentation](../ai/rag/welcome-to-llamaindex-ts-developer-documentation.md) ([Source URL](https://ts.llamaindex.ai))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:16.009976+05:30
+- **Local Path**: `ai/rag/welcome-to-llamaindex-ts-developer-documentation.md`
+
+### 46. [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) ([Source URL](https://stainless.com/products/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:14.984215+05:30
+- **Local Path**: `ai/rag/stainless-stainless-docs-platform.md`
+
+### 47. [GitHub Status](../ai/rag/github-status.md) ([Source URL](https://githubstatus.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:13.993190+05:30
+- **Local Path**: `ai/rag/github-status.md`
+
+### 48. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([Source URL](https://github.com/openai/openai-cookbook))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T21:51:35.689881+05:30
-- **Local Path**: `ai/resources/introduction-electron.md`
+- **Collected At**: 2026-06-30T01:52:13.652699+05:30
+- **Local Path**: `ai/resources/openai-openai-cookbook.md`
+
+### 49. [cloudflare/cloudflare-docs](../ai/resources/cloudflare-cloudflare-docs.md) ([Source URL](https://github.com/cloudflare/cloudflare-docs))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T01:52:13.615126+05:30
+- **Local Path**: `ai/resources/cloudflare-cloudflare-docs.md`
+
+### 50. [embeddings-benchmark/mteb](../ai/rag/embeddings-benchmark-mteb.md) ([Source URL](https://github.com/embeddings-benchmark/mteb))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T01:52:13.611039+05:30
+- **Local Path**: `ai/rag/embeddings-benchmark-mteb.md`
 
 ---
-*Index generated on 2026-06-29T21:58:17.759218+05:30*
+*Index generated on 2026-06-30T02:02:49.836741+05:30*

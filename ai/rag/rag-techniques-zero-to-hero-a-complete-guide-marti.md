@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-29T21:43:22.649304+05:30'
-collected_at: '2026-06-29T21:43:22.649317+05:30'
+published_at: '2026-06-30T01:47:40.917361+05:30'
+collected_at: '2026-06-30T01:47:40.917376+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-29T21:43:22.649317+05:30'
-last_seen: '2026-06-29T21:43:22.649317+05:30'
-last_checked: '2026-06-29T21:43:22.649317+05:30'
+first_seen: '2026-06-30T01:47:40.917376+05:30'
+last_seen: '2026-06-30T01:47:40.917376+05:30'
+last_checked: '2026-06-30T01:47:40.917376+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to ground outputs in external, up-to-date knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
+- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize efficiency.
 
-- **Key Optimization Techniques**: Includes hybrid retrieval (BM25 + vector fusion), cross-encoder reranking, query rewriting, and context distillation to enhance precision, recall, and efficiency in multi-stage pipelines.
+- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap improve retrieval coherence; domain-specific embedding fine-tuning and hybrid (BM25 + vector) search enhance precision/recall.
 
-- **Operational Challenges**: Requires careful management of chunking strategies, embedding dimensionality, latency/cost trade-offs, and evaluation metrics (e.g., nDCG, hallucination rate) for production readiness.
+- **Advanced Techniques & Evaluation**: Multi-hop retrieval, iterative reasoning, and context distillation reduce hallucinations; evaluation metrics (nDCG, MRR, factuality) and operational concerns (latency, cost, safety) are critical for production readiness.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:43:22.649304+05:30
+- Published: 2026-06-30T01:47:40.917361+05:30
 
 ## Related Tags
 

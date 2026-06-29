@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- `pyproject.toml` replaces `setup.py` for project metadata per [PEP 621](https://peps.python.org/pep-0621), with `[project]` table defining core fields (name, version, dependencies, etc.) and `[build-system]` specifying build requirements/backends.
+- `pyproject.toml` replaces `setup.py` for project metadata and build configuration per [PEP 621](https://peps.python.org/pep-0621/), with `[build-system]` defining build dependencies and backend (e.g., `setuptools.build_meta`) and `[project]` specifying core metadata like `name`, `version`, `dependencies`, and `optional-dependencies`.
 
-- Setuptools-specific configs (e.g., `packages`, `ext-modules`, `package-data`) are defined under `[tool.setuptools]`, with deprecated/obsolete fields (e.g., `zip-safe`, `eager-resources`) retained for legacy compatibility.
-
-- Dynamic metadata (e.g.
+- Setuptools-specific configurations are defined under `[tool.setuptools]` for advanced use cases, including `packages` (or `find` directive for discovery), `ext
 
 ## Use Cases
 

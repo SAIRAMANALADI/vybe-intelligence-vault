@@ -6,7 +6,7 @@ source_url: https://github.com/study8677/antigravity-workspace-template
 resource_id: github:study8677/antigravity-workspace-template
 local_vault_path: ai/rag/study8677-antigravity-workspace-template.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: mcp-server
 importance: medium
@@ -17,6 +17,7 @@ tags:
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -27,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server integration** with RAG and knowledge graph capabilities for semantic codebase search and retrieval.
-- **Python-based template** supporting OpenAI, MCP, and IDE plugins for Copilot-like contextual assistance.
+- **Multi-Agent Codebase Q&A Engine**: Enables grounded, context-aware interactions with codebases via file paths and line numbers, supporting tools like Claude Code, Cursor, and Codex CLI.
+- **Knowledge Graph Integration**: Implements a retrieval-augmented generation (RAG) system with a multi-agent architecture to enhance code intelligence and search capabilities.
+- **IDE-Agnostic MCP Server**: Functions as a modular MCP (Model Context Protocol) server, compatible with Python-based AI IDEs and
 
 ## Use Cases
 

@@ -1,9 +1,8 @@
 ---
-title: haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack
-  · GitHub
+title: deepset-ai/haystack
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
+source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
@@ -13,18 +12,18 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- anthropic
-- hackernews
+- github-repo
+- mdx
+- models
 - openai
 - rag
-- reddit
-- web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# haystack/docs-website/versioned_docs/version-2.30/intro.mdx at main · deepset-ai/haystack · GitHub
+# deepset-ai/haystack
 
 ## Why This Is In The Archive
 
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI orchestration framework** for building production-grade LLM applications (AI Agents, RAG systems, multimodal search) with modular components and pipelines.
-- **Modular architecture** leveraging integrations with LLMs (OpenAI, Google, Anthropic) and open-source models (Hugging Face Transformers), supported by Document Stores, Agents, and Tools.
-- **Scalable and customizable** with enterprise-grade extensions (Haystack Enterprise Starter/Platform) for deployment, governance, and
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+
+- **Scalable Agent & RAG Support**: Designed for scalable agents, retrieval-augmented generation (RAG), multimodal systems, semantic search, and conversational AI with PyTorch and transformer integration.
+
+- **Open-Source Framework**: Python-based framework optimized for information retrieval, que
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-2.30/intro.mdx
+Original source URL: https://github.com/deepset-ai/haystack
 
 ## Local Vault File
 

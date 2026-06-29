@@ -4,15 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-29T21:44:07.217791+05:30'
+collected_at: '2026-06-30T01:48:30.649991+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
-- benchmark
-- dataset
 - github-repo
-- meta-ai
-- mistral
-- models
+- hackernews
 - python
 - rag
 stars: 92
@@ -23,9 +19,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-29T21:44:07.217791+05:30'
-last_seen: '2026-06-29T21:44:07.217791+05:30'
-last_checked: '2026-06-29T21:44:07.217791+05:30'
+first_seen: '2026-06-30T01:48:30.649991+05:30'
+last_seen: '2026-06-30T01:48:30.649991+05:30'
+last_checked: '2026-06-30T01:48:30.649991+05:30'
 health_score: 100
 ---
 
@@ -33,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Mistral) for enhanced contextual accuracy.
-
-- **Hybrid Retrieval Strategies**: Combines dense (embedding-based) and sparse (BM25/keyword) retrieval methods to improve recall and precision, with dynamic reranking via cross-encoders (e.g., BERT-based) for query refinement.
-
-- **Evaluation & Benchmarking**: Includes automated evaluation pipelines for assessing RAG performance metrics (e.g., answer correctness, context relevance) using datasets like MS MARCO or custom domain-specific corpora, with logging for A/B testing.
+- **Repository Overview**: Hosts best practices for Retrieval-Augmented Generation (RAG) with large language models (LLMs), implemented in Python.
+- **Metadata**: 92 stars, 10 forks, last updated on **2026-06-22T11:51:50Z**.
+- **Focus**: Technical guidance on optimizing RAG pipelines for LLMs, though no explicit topic tags are assigned.
 
 ## Why It Matters
 

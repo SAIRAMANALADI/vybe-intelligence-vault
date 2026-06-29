@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-29T21:44:37.318917+05:30'
+collected_at: '2026-06-30T01:48:55.667280+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 251
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-29T21:44:37.318917+05:30'
-last_seen: '2026-06-29T21:44:37.318917+05:30'
-last_checked: '2026-06-29T21:44:37.318917+05:30'
+first_seen: '2026-06-30T01:48:55.667280+05:30'
+last_seen: '2026-06-30T01:48:55.667280+05:30'
+last_checked: '2026-06-30T01:48:55.667280+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility across cybersecurity workflows.
-
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory, enabling LLM-driven validation of anomalies and threat detection.
-
-- **LLM-Powered Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically assess and validate real-time anomalies, integrating threat hunting and SOC automation for adaptive cybersecurity operations.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for log monitoring, with modular design for extensibility in cybersecurity operations.
+- **RAG & LLM Integration**: Uses Retrieval-Augmented Generation (RAG) to build behavioral memory from SOC data, with LLMs validating real-time anomalies for threat detection.
+- **Automated Threat Hunting**: Combines SOC automation, anomaly detection, and threat-hunting capabilities to autonomously identify and respond to security incidents.
 
 ## Why It Matters
 

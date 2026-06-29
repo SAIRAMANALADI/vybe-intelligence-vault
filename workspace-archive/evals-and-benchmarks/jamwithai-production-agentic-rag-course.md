@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Focus**: A structured educational repository on building production-grade **agentic Retrieval-Augmented Generation (RAG)** systems using Python.
-- **Scale & Activity**: High community engagement with **7,208 stars** and **1,609 forks**, indicating strong adoption and collaborative development.
-- **Last Updated**: Repository was last modified on **June 29, 2026**, ensuring recent and active maintenance.
+- **Course Repository**: GitHub repository for a production-focused agentic RAG (Retrieval-Augmented Generation) course, written in Python.
+- **Metrics**: 7,220 stars, 1,613 forks, last updated on June 29, 2026.
+- **Purpose**: No description provided; focuses on agentic RAG systems in production environments.
 
 ## Use Cases
 

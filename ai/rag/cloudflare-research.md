@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://research.cloudflare.com/
-published_at: '2026-06-29T03:51:07.788910+05:30'
-collected_at: '2026-06-29T03:51:07.788923+05:30'
+published_at: '2026-06-30T01:52:10.506963+05:30'
+collected_at: '2026-06-30T01:52:10.506976+05:30'
 tags:
 - hackernews
 - models
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:cloudflare-research
-first_seen: '2026-06-29T03:51:07.788923+05:30'
-last_seen: '2026-06-29T03:51:07.788923+05:30'
-last_checked: '2026-06-29T03:51:07.788923+05:30'
+first_seen: '2026-06-30T01:52:10.506976+05:30'
+last_seen: '2026-06-30T01:52:10.506976+05:30'
+last_checked: '2026-06-30T01:52:10.506976+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Lossless MLP Weight Compression**: Unweight achieves 1.44x compression on BF16 MLP weights for LLM inference with GPU-native decompression optimized for NVIDIA Hopper GPUs (H100, H200).
+- **Unweight**: Lossless MLP weight compression system achieving **1.44x compression** on BF16 MLP weights with **GPU-native decompression** optimized for NVIDIA Hopper GPUs (H100, H200).
 
-- **Research Focus Areas**: Cloudflare Research targets five pillars—privacy-enhancing tech, cryptographic/security advancements, next-gen network protocols, distributed system resilience, and open internet measurement/verification.
+- **RFC 9935**: Standardizes **Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM)** algorithm identifiers in **X.509 PKI**, enhancing post-quantum cryptographic interoperability.
 
-- **Recent Publications**: Includes RFC 9935 (ML-KEM X.509 PKI algorithm identifiers) and Kneeliverse (universal knee-detection library for performance curve analysis in storage workloads).
+- **Research Focus Areas**: Cloudflare targets **privacy, security, speed, reliability, and measurability** via advanced cryptography, network protocols, distributed systems, and open measurement initiatives.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:51:07.788910+05:30
+- Published: 2026-06-30T01:52:10.506963+05:30
 
 ## Related Tags
 

@@ -1,44 +1,41 @@
 ---
-title: 'langchain-ai/langchain Release: langchain-fireworks==1.4.3'
+title: 'langchain-ai/langchain Release: langchain-openrouter==0.2.5'
 archive_category: model-providers
 source_category: ai/releases
 source_url: https://github.com/langchain-ai/langchain
 resource_id: github:langchain-ai/langchain
 local_vault_path: ai/releases/langchain-ai-langchain.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
-- benchmark
 - github-release
 - langchain-ai-langchain
-- openai
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# langchain-ai/langchain Release: langchain-fireworks==1.4.3
+# langchain-ai/langchain Release: langchain-openrouter==0.2.5
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-Changes since langchain-fireworks==1.4.2
+Changes since langchain-openrouter==0.2.4
 
-release(fireworks): 1.4.3
-chore: bump vcrpy from 8.1.1 to 8.2.1 in /libs/partners/fireworks (#38314)
-chore: bump langsmith from 0.8.16 to 0.8.18 in /libs/partners/fireworks (#38313)
-chore: bump langsmith from 0.8.14 to 0.8.16 in /libs/partners/fireworks (#38...
+release(openrouter): 0.2.5 (#38553)
+fix(openrouter): deduplicate repeated finish metadata (#38552)
+fix(openrouter): strip Responses reasoning IDs (#38383)
 
 ## Use Cases
 

@@ -8,11 +8,11 @@ local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # stanford-oval/storm
@@ -21,18 +21,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **LLM-powered knowledge curation system**: Automates research and report generation for a given topic, leveraging large language models (LLMs) to synthesize information and produce structured, citation-backed outputs.
+- **LLM-Powered Research & Report Generation**: Automates topic research and produces full-length, citation-backed reports using large language models (LLMs) with agentic retrieval-augmented generation (RAG).
 
-- **Agentic RAG framework**: Implements retrieval-augmented generation (RAG) with an agentic approach, dynamically querying sources, refining queries, and iteratively improving report quality (published at EMNLP 2024/NAACL).
+- **Multi-Stage Curation Pipeline**: Implements a structured workflow combining iterative retrieval, synthesis, and verification to curate high-quality knowledge with citations from diverse sources.
 
-- **Python-based implementation**: Open-source tool w
+- **EMNLP 2024 Benchmark**: Evaluated as a deep-research system, demonstrating state-of-th
 
 ## Use Cases
 

@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: openai/clip-vit-base-patch32 (Likes: 965, Downloads: 22768594)
+Trending Hugging Face model: openai/clip-vit-base-patch32 (Likes: 966, Downloads: 22768594)
 
 ## Use Cases
 

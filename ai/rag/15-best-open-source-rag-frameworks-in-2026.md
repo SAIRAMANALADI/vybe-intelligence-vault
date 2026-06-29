@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-29T21:43:18.378732+05:30'
-collected_at: '2026-06-29T21:43:18.378748+05:30'
+published_at: '2026-06-30T01:47:37.350039+05:30'
+collected_at: '2026-06-30T01:47:37.350054+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-06-29T21:43:18.378748+05:30'
-last_seen: '2026-06-29T21:43:18.378748+05:30'
-last_checked: '2026-06-29T21:43:18.378748+05:30'
+first_seen: '2026-06-30T01:47:37.350054+05:30'
+last_seen: '2026-06-30T01:47:37.350054+05:30'
+last_checked: '2026-06-30T01:47:37.350054+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine enabling LLM-friendly data extraction at scale via APIs (e.g., `scrape()` for Markdown/HTML conversion) with features like `llms.txt` generation, agent-based extraction, and deep research endpoints for dynamic site access.
+- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` for structured content, `crawl` for site traversal, and `deep-research` for OpenAI-like research capabilities, with built-in Markdown/HTML conversion and dynamic site access.
 
-- **LangChain**: Modular framework for LLM/RAG pipelines with 105k+ GitHub stars, offering data connectors, model flexibility, retrieval components, and evaluation tools (e.g., LangSmith) for structured AI application development.
+- **LangChain**: Modular RAG framework with 105k GitHub stars, providing data connectors, model flexibility, retrieval components, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management (`pip install -U langchain`).
 
-- **Milvus**: Cloud-native vector database (33.9k+ stars) optimized for ANN search, hybrid queries, and multi-modal embeddings, with horizontal scalability and RAG-specific optimizations like multi-vector search for production-grade retrieval systems.
+- **Milvus**: High-performance, distributed vector database (33.9k stars) optimized for ANN search, supporting hybrid queries, multi-modal embeddings, and RAG-specific optimizations like multi-vector search; deployable via Docker (`milvusdb/milvus:latest`).
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:43:18.378732+05:30
+- Published: 2026-06-30T01:47:37.350039+05:30
 
 ## Related Tags
 

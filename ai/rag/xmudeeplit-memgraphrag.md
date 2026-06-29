@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-29T21:44:57.299379+05:30'
+collected_at: '2026-06-30T01:49:20.684199+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-29T21:44:57.299379+05:30'
-last_seen: '2026-06-29T21:44:57.299379+05:30'
-last_checked: '2026-06-29T21:44:57.299379+05:30'
+first_seen: '2026-06-30T01:49:20.684199+05:30'
+last_seen: '2026-06-30T01:49:20.684199+05:30'
+last_checked: '2026-06-30T01:49:20.684199+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-Based Multi-Agent System**: Implements a graph retrieval-augmented generation (GraphRAG) framework where multiple agents collaboratively construct and query a memory graph for enhanced knowledge retrieval and generation.
+- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for dynamic graph construction and retrieval in RAG systems, optimizing context-aware generation.
 
-- **Ontology-Driven Graph Construction**: Dynamically builds and maintains an ontology-based graph structure to organize and retrieve information, improving contextual relevance in RAG tasks.
+- **Ontology-Guided Graph Construction**: Implements an ontology-driven approach to build structured knowledge graphs, enhancing semantic coherence and multi-hop reasoning in graph-based RAG.
 
-- **Python Implementation**: Provides an open-source Python repository with modular components for agent-memory integration, graph construction, and multi-agent coordination, optimized for scalability and adaptability.
+- **KDD 2026 Contribution**: Proposes a scalable, memory-efficient architecture for multi-agent collaboration, improving retrieval precision and adaptability in large-scale knowledge-intensive tasks.
 
 ## Why It Matters
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step guide to building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs, emphasizing transparency by avoiding proprietary black boxes.
-- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for LLM inference, covering embeddings, vector search, retrieval mechanisms, and context-augmented generation in a single pipeline.
-- **Open-Source Focus**: Designed as a hands-on tutorial for developers to un
+- **Implementation of RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation (RAG) system built from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components, including embedding generation, vector database operations, and dynamic context integration for enhanced
 
 ## Use Cases
 

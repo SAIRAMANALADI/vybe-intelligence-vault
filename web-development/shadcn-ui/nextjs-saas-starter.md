@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/nextjs/saas-starter
-collected_at: '2026-06-29T21:42:24.668451+05:30'
-published_at: '2026-06-29T14:00:43Z'
+collected_at: '2026-06-30T01:46:50.011451+05:30'
+published_at: '2026-06-29T18:26:55Z'
 tags:
 - frontend_ui
-stars: 15920
+stars: 15922
 language: TypeScript
 status: active
 resource_id: github:nextjs/saas-starter
 first_seen: '2026-06-16T04:26:21.211272+00:00'
-last_seen: '2026-06-29T21:42:24.668451+05:30'
-last_checked: '2026-06-29T21:42:24.668451+05:30'
+last_seen: '2026-06-30T01:46:50.011451+05:30'
+last_checked: '2026-06-30T01:46:50.011451+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: nextjs
-- Stars: 15920
+- Stars: 15922
 - Forks: 2671
 - Language: TypeScript
 - Topics: nextjs, postgres, shadcn-ui, stripe
-- Last Updated: 2026-06-29T14:00:43Z
+- Last Updated: 2026-06-29T18:26:55Z
 
 ## Possible Use Cases
 

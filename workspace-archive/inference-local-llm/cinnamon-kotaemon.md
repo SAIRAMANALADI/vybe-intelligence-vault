@@ -11,9 +11,12 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- anthropic
 - github-repo
+- openai
 - python
 - rag
+- reddit
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded chat, enabling context-aware responses by dynamically fetching relevant document segments.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable context-aware document interactions, leveraging LLMs for dynamic responses grounded in user-provided documents.
 
-- **Modular Python Framework**: Built with Python, leveraging modern NLP libraries (e.g., LangChain, Transformers) for document ingestion, vector storage (FAISS/Chroma), and LLM integration.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., HuggingFace Transformers, vLLM).
 
-- **Open-Source & Extensible**: Provides a customizable pipeline for document preprocessing, retrieval, and LLM inte
+- **Open-Source Deployment**: Supports self-hosting with Docker/Kubernetes, includes APIs for programm
 
 ## Use Cases
 

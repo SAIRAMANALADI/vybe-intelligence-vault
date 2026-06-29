@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 84
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -33,16 +33,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like query expansion/rewriting), vector storage (e.g., Supabase), and retrieval-augmented generation with latency-critical optimizations for production deployment.
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like fine-tuning or quantization), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain framework).
 
-- **Production Optimization Strategies**: Implements hybrid search (dense + sparse retrieval), caching layers, load balancing across models, and Cloudflare Workers for edge deployment, with benchmarks targeting s
+- **Production Optimization Strategies**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via Cloudflare Workers for low-latency scaling
 
 ## Use Cases
 

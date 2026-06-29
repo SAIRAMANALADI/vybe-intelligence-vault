@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling local interaction with GitHub repositories via natural language queries.
-- **Python-Based Tool**: Leverages Python for core functionality, facilitating repository ingestion, indexing, and conversational querying.
-- **Self-Hosted Solution**: Designed for local deployment, avoiding cloud dependencies while supporting offline GitHub repository analysis.
+- **RAG Implementation**: Implements a Retrieval-Augmented Generation (RAG) system for querying and interacting with GitHub repositories locally.
+- **Tech Stack**: Built in Python, leveraging GitHub's API for repository data retrieval and vector embeddings for efficient document search.
+- **Self-Contained**: Enables offline chat functionality with downloaded repositories, avoiding real-time API dependency after initial setup.
 
 ## Use Cases
 

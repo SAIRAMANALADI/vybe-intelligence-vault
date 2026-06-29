@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Configuration File**: Read the Docs uses a `.readthedocs.yaml` YAML file (version 2) for project-specific settings, placed in the repository root, enabling automated builds upon Git commits.
-
-- **Build Customization**: Supports Sphinx/MkDocs with OS (e.g., Ubuntu 24.04), Python version (e.g., 3.12), and toolchain configuration (e.g., `build.tools.python`, `sphinx.configuration`), with optional formats like PDF/ePub.
-
-- **Environment & Advanced Features**: Allows Python dependency management
+- **Configuration File**: `.readthedocs.yaml` (YAML-based) must be placed in the root directory of the project repository to define build settings, OS, Python version, and tool configurations (e.g., Sphinx/MkDocs paths).
+- **Build Customization**: Supports version 2 schema with fields like `build.os` (Ubuntu versions), `build.tools.python` (Python versions), and `sphinx`/`mkdocs` configurations for reproducible builds.
+- **Advanced Features**: Optional configurations include `python.install.requ
 
 ## Use Cases
 

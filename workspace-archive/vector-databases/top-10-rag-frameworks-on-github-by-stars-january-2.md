@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain** (⭐125K): Python/TypeScript framework with 700+ integrations, modular chains, and LangGraph for agentic workflows; ideal for complex, multi-step RAG pipelines.
-- **RAGFlow** (⭐70K): Python-based "deep document understanding" framework with advanced parsing (tables, images, PDFs), template-based chunking, and grounded citations for enterprise-grade RAG.
-- **LightRAG** (⭐27.4K): Graph-based RAG from HKU (EMNLP 2025) using knowledge graphs for relationship-aware retrieval, optimized
+- **LangChain**: 125k GitHub stars; Python/TypeScript; modular chains/agents with 700+ integrations; LangGraph for stateful workflows; ideal for complex RAG pipelines.
+- **RAGFlow**: 70k stars; Python; deep document parsing (tables, images, PDFs); template-based chunking; enterprise-grade accuracy with grounded citations.
+- **Pathway**: 50k+ stars; Python/Rust; real-time data processing with 350+ connectors; incremental updates for live knowledge bases; cloud-agnostic deployment.
 
 ## Use Cases
 

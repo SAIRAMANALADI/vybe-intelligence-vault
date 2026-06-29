@@ -15,7 +15,6 @@ tags:
 - hackernews
 - rag
 - unknown
-- youtube
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) applications.
-- **Scope**: Focuses on cutting-edge RAG methods that integrate **visual data retrieval** (e.g., images, videos) with generative models to enhance tasks like image captioning, VQA, and visual grounding.
-- **Maintenance**: Last updated **June
+- **Curated RAG-Vision Resources**: Repository aggregates advanced techniques in retrieval-augmented generation (RAG) tailored for computer vision applications, including multimodal and vision-language model integrations.
+
+- **Minimal Maintenance**: Last updated in 2026 with no explicit language or topic tags, suggesting limited recent contributions or maintenance activity.
+
+- **Low Community Engagement**: 337 stars and 9 forks indicate niche interest, with no specified language or topics furthe
 
 ## Use Cases
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-29T21:51:37.660030+05:30'
-collected_at: '2026-06-29T21:51:37.660044+05:30'
+published_at: '2026-06-30T01:52:21.083809+05:30'
+collected_at: '2026-06-30T01:52:21.083823+05:30'
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -18,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-29T21:51:37.660044+05:30'
-last_seen: '2026-06-29T21:51:37.660044+05:30'
-last_checked: '2026-06-29T21:51:37.660044+05:30'
+first_seen: '2026-06-30T01:52:21.083823+05:30'
+last_seen: '2026-06-30T01:52:21.083823+05:30'
+last_checked: '2026-06-30T01:52:21.083823+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Provides a comprehensive walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG systems.
-
-- **Agentic & Multimodal Workflows**: Tutorials demonstrate tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems for complex task decomposition.
-
-- **Advanced Optimization Techniques**: Includes KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured output generation with OpenAI Pydantic/JSON schema integration.
+- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG) pipelines**, including **multimodal RAG** (text + vision) and **conversational RAG** with chat history integration.
+- Advanced tutorials cover **multi-agent systems**, **human-in-the-loop validation**, and **KV cache compression** (TurboQuant) for efficient LLM inference on consumer GPUs.
+- Key features include **metadata filtering**, **hybrid retrieval** (dense + keyword), **structured output generation**, and **pipeline serialization** (YAML/Python).
 
 ## Why It Matters
 
@@ -42,13 +39,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T21:51:37.660030+05:30
+- Published: 2026-06-30T01:52:21.083809+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag

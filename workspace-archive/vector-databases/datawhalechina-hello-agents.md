@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering both theoretical principles and practical implementations in Python.
+- **Comprehensive Tutorial**: Provides a structured, step-by-step guide on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
 
-- **Core Components**: Focuses on key technologies including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent architectures for autonomous task execution.
+- **Multi-Technique Integration**: Focuses on combining key AI techniques such as Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent architectures for real-world applications.
 
-- **Community & Scalability**: Highly active with **62,666 stars** and **7,748 forks**, indicating strong communi
+- **Open-Source Python Repository**: Hosts a Python-based, community-driven project with 62,677+ stars and 7,
 
 ## Use Cases
 

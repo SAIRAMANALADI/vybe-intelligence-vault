@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows, emphasizing multi-agent collaboration and task decomposition.
+- **Agentic AI Coding Assistants**: Analyzes reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows, focusing on multi-agent collaboration and task decomposition.
 
-- **Security Classification Framework**: Proposes a security taxonomy for agentic AI systems, classifying risks associated with prompt injection, data leakage, and adversarial attacks in autonomous coding environments.
+- **Security Classification Framework**: Proposes a security taxonomy for agentic AI systems, categorizing risks (e.g., prompt injection, data leakage) and mitigation strategies in AI-assisted development environments.
 
-- **System Prompt Engineering**: Analyzes optimal system prom
+- **System Prompt Optimization**: Investigates structured system
 
 ## Use Cases
 

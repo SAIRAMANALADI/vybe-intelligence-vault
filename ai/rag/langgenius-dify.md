@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langgenius/dify
-collected_at: '2026-06-29T21:44:47.281747+05:30'
-published_at: '2026-06-29T16:00:25Z'
+collected_at: '2026-06-30T01:49:05.654273+05:30'
+published_at: '2026-06-29T19:30:15Z'
 tags:
 - agents
 - frontend_ui
@@ -16,17 +16,17 @@ tags:
 - scripts
 - typescript
 - workflows
-stars: 146987
+stars: 146994
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2023-04-12T07:40:24Z'
-pushed_at: '2026-06-29T15:52:45Z'
+pushed_at: '2026-06-29T20:05:13Z'
 resource_id: github:langgenius/dify
-first_seen: '2026-06-29T21:44:47.281747+05:30'
-last_seen: '2026-06-29T21:44:47.281747+05:30'
-last_checked: '2026-06-29T21:44:47.281747+05:30'
+first_seen: '2026-06-30T01:49:05.654273+05:30'
+last_seen: '2026-06-30T01:49:05.654273+05:30'
+last_checked: '2026-06-30T01:49:05.654273+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Platform**: Open-source, production-ready framework for building, deploying, and orchestrating AI agents and workflows with low/no-code tools, supporting LLM integrations (OpenAI, GPT-4, Gemini) and retrieval-augmented generation (RAG).
+- **Multi-agent orchestration framework**: Supports agentic workflows with low-code/no-code tools, integrating LLM APIs (OpenAI, GPT-4, Gemini) and MCP (Model Context Protocol) for dynamic agent collaboration and task automation.
 
-- **Multi-Language & MCP Support**: Built with TypeScript (Next.js frontend) and Python (backend), featuring Model Context Protocol (MCP) for tool orchestration, enabling modular agent interactions and automation pipelines.
+- **Hybrid development stack**: Combines Next.js (TypeScript frontend) with Python backend, enabling both visual workflow builders and programmatic customization for RAG (Retrieval-Augmented Generation) and AI agent deployment.
 
-- **Scalable Deployment**: Optimized for enterprise-grade workflows with versioning, API-first design, and extensible plugin architecture for custom tools, connectors, and AI model integrations.
+- **Production-grade deployment**: Optimized for scalability with built-in orchestration, API endpoints for AI model integration, and support for MCP, GenAI, and automation pipelines.
 
 ## Why It Matters
 
@@ -47,15 +47,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langgenius
-- Stars: 146987
-- Forks: 23144
+- Stars: 146994
+- Forks: 23147
 - Language: TypeScript
 - Topics: agent, agentic-ai, agentic-framework, agentic-workflow, ai, automation, gemini, genai, gpt, gpt-4, llm, low-code, mcp, nextjs, no-code, openai, orchestration, python, rag, workflow
-- Last Updated: 2026-06-29T16:00:25Z
+- Last Updated: 2026-06-29T19:30:15Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-04-12T07:40:24Z
-- Pushed At: 2026-06-29T15:52:45Z
+- Pushed At: 2026-06-29T20:05:13Z
 
 ## Possible Use Cases
 

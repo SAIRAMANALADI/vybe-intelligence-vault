@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,794</p>
-        <p><b>Active:</b> 9,521 | <b>Inactive:</b> 273</p>
+        <p><b>Resources tracked:</b> 9,821</p>
+        <p><b>Active:</b> 9,547 | <b>Inactive:</b> 274</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 37,104</p>
+        <p><b>Archive Files:</b> 37,153</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 00:40 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 02:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- No trending items found.
+- 🔼 **[Tidal AI Policy](ai/community/tidal-ai-policy.md)** • <kbd>+83 pts</kbd>
+- 🔼 **[Python Packaging User Guide](ai/resources/python-packaging-user-guide.md)** • Rank: <kbd>+62</kbd>
+- 🔼 **[pradyunsg/furo](ai/resources/pradyunsg-furo.md)** • Rank: <kbd>+34</kbd>
+- 🔼 **[PEP 621 Metadata - PDM](ai/rag/pep-621-metadata-pdm.md)** • Rank: <kbd>+2242</kbd>
+- 🔼 **[Llama Hub](ai/rag/llama-hub.md)** • Rank: <kbd>+1370</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[The CEO of Mullvad is the main financer of the Swedish Örebro party](ai/community/the-ceo-of-mullvad-is-the-main-financer-of-the-swe.md)** • Score: `402`
+- 🆕 **[Microsoft worker emails colleagues about company's support for genocidal Israel](ai/community/microsoft-worker-emails-colleagues-about-company-s.md)** • Score: `5`
+- 🆕 **[run-llama/llama-hub](ai/rag/run-llama-llama-hub.md)** • Score: `0`
+- 🆕 **[Core metadata specifications - Python Packaging User Guide](ai/rag/core-metadata-specifications-python-packaging-user.md)** • Score: `0`
+- 🆕 **[Building and Distributing Packages with Setuptools - setuptools 82.0.1 documentation](ai/resources/building-and-distributing-packages-with-setuptools.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

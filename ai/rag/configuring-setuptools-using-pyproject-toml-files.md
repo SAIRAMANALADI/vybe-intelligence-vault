@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
-published_at: '2026-06-25T16:47:06.377935+05:30'
-collected_at: '2026-06-25T16:47:06.377945+05:30'
+published_at: '2026-06-30T01:56:13.698261+05:30'
+collected_at: '2026-06-30T01:56:13.698274+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configuring-setuptools-using-pyproject-toml-files
-first_seen: '2026-06-25T16:47:06.377945+05:30'
-last_seen: '2026-06-25T16:47:06.377945+05:30'
-last_checked: '2026-06-25T16:47:06.377945+05:30'
+first_seen: '2026-06-30T01:56:13.698274+05:30'
+last_seen: '2026-06-30T01:56:13.698274+05:30'
+last_checked: '2026-06-30T01:56:13.698274+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- `pyproject.toml` replaces `setup.py` for project metadata per [PEP 621](https://peps.python.org/pep-0621), with `[project]` table defining core fields (name, version, dependencies, etc.) and `[build-system]` specifying build requirements/backends.
+- `pyproject.toml` replaces `setup.py` for project metadata and build configuration per [PEP 621](https://peps.python.org/pep-0621/), with `[build-system]` defining build dependencies and backend (e.g., `setuptools.build_meta`) and `[project]` specifying core metadata like `name`, `version`, `dependencies`, and `optional-dependencies`.
 
-- Setuptools-specific configs (e.g., `packages`, `ext-modules`, `package-data`) are defined under `[tool.setuptools]`, with deprecated/obsolete fields (e.g., `zip-safe`, `eager-resources`) retained for legacy compatibility.
+- Setuptools-specific configurations are defined under `[tool.setuptools]` for advanced use cases, including `packages` (or `find` directive for discovery), `ext-modules` (for C extensions), `package-data` (for non-Python files), and deprecated/obsolete fields like `data-files` or `zip-safe`.
 
-- Dynamic metadata (e.g., `version`, `readme`) is declared in `[project.dynamic]` and resolved via `[tool.setuptools.dynamic]` using directives like `attr` (module attribute) or `file` (file content), supporting PEP 508-compliant dependency specifications.
+- Dynamic metadata fields (e.g., `version`, `readme`, `dependencies`) can be computed at build time via `[tool.setuptools.dynamic]`, using directives like `attr` (module attribute) or `file` (file content) to populate values from external sources.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:47:06.377935+05:30
+- Published: 2026-06-30T01:56:13.698261+05:30
 
 ## Related Tags
 

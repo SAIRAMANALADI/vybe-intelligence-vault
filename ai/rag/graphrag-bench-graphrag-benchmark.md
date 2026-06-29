@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-06-29T21:44:27.250260+05:30'
+collected_at: '2026-06-30T01:48:45.611722+05:30'
 published_at: '2026-06-29T11:50:22Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 451
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-06-29T21:44:27.250260+05:30'
-last_seen: '2026-06-29T21:44:27.250260+05:30'
-last_checked: '2026-06-29T21:44:27.250260+05:30'
+first_seen: '2026-06-30T01:48:45.611722+05:30'
+last_seen: '2026-06-30T01:48:45.611722+05:30'
+last_checked: '2026-06-30T01:48:45.611722+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Official repository for GraphRAG-Bench, designed to evaluate Graph Retrieval-Augmented Generation (GraphRAG) models, providing standardized metrics and datasets for comparative analysis.
-
-- **Technical Scope**: Focuses on determining optimal use cases for graph-based retrieval in RAG systems, with emphasis on graph structure integration, retrieval efficiency, and generation quality.
-
-- **Implementation**: Python-based toolkit featuring modular components for graph construction, retrieval evaluation, and performance benchmarking, aligned with ICLR'26 standards.
+- **Benchmark Framework**: Provides a standardized evaluation suite for GraphRAG (Graph Retrieval-Augmented Generation) models, designed to assess performance across graph-based retrieval tasks.
+- **Dataset & Analysis**: Includes curated datasets and analytical tools to determine optimal use cases for graph structures in RAG pipelines, with findings targeting ICLR'26 submission.
+- **Python Implementation**: Open-source Python library supporting modular evaluation of graph retrieval methods, with active maintenance (last update: 2026-06-29) and community contributions (451 stars, 52 forks).
 
 ## Why It Matters
 

@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of AI models (e.g., GPT, Claude, Gemini, Llama) via CI/CD pipelines using declarative YAML configurations for prompt evaluation, agent testing, and RAG assessment.
-
-- **AI Security & Red Teaming**: Supports LLM vulnerability scanning, pentesting, and adversarial testing to identify weaknesses in AI systems through automated red teaming workflows.
-
-- **Multi-Model Comparison**: Facilitates benchmarking of LLMs (including proprietary and o
+- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems within CI/CD pipelines via a declarative configuration approach.
+- **Multi-Model Benchmarking**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama) with AI red teaming and vulnerability scanning capabilities.
+- **Security & Pentesting**: Supports LLM security assessment through adversarial testing and automated vulnerability detection in AI-driven workflows.
 
 ## Use Cases
 

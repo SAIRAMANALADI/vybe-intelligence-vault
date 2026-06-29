@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-29T21:44:32.303801+05:30'
-published_at: '2026-06-29T04:52:55Z'
+collected_at: '2026-06-30T01:48:55.654952+05:30'
+published_at: '2026-06-29T18:04:30Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,8 +14,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 39183
+stars: 39184
 language: Python
 status: active
 license: NOASSERTION
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-29T21:44:32.303801+05:30'
-last_seen: '2026-06-29T21:44:32.303801+05:30'
-last_checked: '2026-06-29T21:44:32.303801+05:30'
+first_seen: '2026-06-30T01:48:55.654952+05:30'
+last_seen: '2026-06-30T01:48:55.654952+05:30'
+last_checked: '2026-06-30T01:48:55.654952+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types.
 
-- **Multi-Backend Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss), supporting flexible file ingestion and API-driven workflows for scalable deployment.
+- **Multi-Backend Compatibility**: Supports integration with any LLM backend and vector database, enabling flexible deployment in existing products without vendor lock-in, while offering Docker-based deployment for scalability.
 
-- **Tech Stack**: Built in Python with React/TypeScript frontend, Dockerized for deployment, and integrates with PostgreSQL, HTML, and JavaScript for full-stack GenAI application development.
+- **Full-Stack Toolkit**: Combines Python backend with React/TypeScript frontend, providing API-driven RAG capabilities, security, and privacy controls, optimized for rapid deployment of AI-powered chatbots or assistants.
 
 ## Why It Matters
 
@@ -46,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: QuivrHQ
-- Stars: 39183
+- Stars: 39184
 - Forks: 3722
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-06-29T04:52:55Z
+- Last Updated: 2026-06-29T18:04:30Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

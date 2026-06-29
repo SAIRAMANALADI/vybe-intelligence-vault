@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-29T21:45:02.257752+05:30'
+collected_at: '2026-06-30T01:49:20.638828+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 172
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-29T21:45:02.257752+05:30'
-last_seen: '2026-06-29T21:45:02.257752+05:30'
-last_checked: '2026-06-29T21:45:02.257752+05:30'
+first_seen: '2026-06-30T01:49:20.638828+05:30'
+last_seen: '2026-06-30T01:49:20.638828+05:30'
+last_checked: '2026-06-30T01:49:20.638828+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by supporting retrieval and generation over diverse modalities (text, images, tables) and granularities (document, paragraph, sentence), enabling unified augmentation for complex queries.
+- **Framework Overview**: UniversalRAG introduces a unified retrieval-augmented generation (RAG) framework designed to handle corpora across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, chunks, entities) without requiring modality-specific fine-tuning.
 
-- **ACL 2026 Oral-Presented Architecture**: Implements a modular retrieval pipeline with modality-specific encoders, cross-modal fusion, and a unified generator, optimizing for heterogeneous corpus integration and dynamic context selection.
+- **Key Innovation**: Implements a modality-agnostic retriever and generator architecture, leveraging cross-modal embeddings and adaptive fusion mechanisms to dynamically integrate heterogeneous data sources during generation.
 
-- **Python-Based Open-Source Toolkit**: Provides extensible APIs for custom retrievers, fusion strategies, and evaluation metrics, with pre-built support for common multimodal datasets and LLMs.
+- **Technical Highlights**: Achieves state-of-the-art performance on multimodal benchmarks by employing a hierarchical retrieval strategy and a unified attention mechanism, enabling efficient and scalable processing of mixed-modality corpora.
 
 ## Why It Matters
 

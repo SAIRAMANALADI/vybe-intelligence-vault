@@ -6,7 +6,7 @@ source_url: https://pypi.org/project/llama-index/
 resource_id: blog:llama-index-pypi
 local_vault_path: ai/rag/llama-index-pypi.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source Python framework (MIT-licensed) designed as an interface between LLMs and structured/unstructured data, enabling RAG, agentic workflows, and document processing pipelines.
+- **Framework Purpose**: LlamaIndex v0.14.23 is an open-source Python framework designed as an interface between large language models (LLMs) and structured/unstructured data, enabling agentic applications and retrieval-augmented generation (RAG) pipelines.
 
-- **Core Architecture**: Supports two installation modes—`llama-index` (starter package with core + curated integrations) and `llama-index-core` (modular, allowing 300+ LlamaHub integrations for custom LLM/embedding/vector store providers).
-
-- **Enterprise Compone
+- **Installation & Structure**: Installed via `pip install llama-index`, it offers two Python packages: `llama-index` (starter package with core + integrations) and `llama-index-core` (modular core for custom integrations via [LlamaHub](http
 
 ## Use Cases
 

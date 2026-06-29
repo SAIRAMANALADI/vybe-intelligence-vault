@@ -17,8 +17,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -37,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering core RAG concepts, hybrid search (vector + keyword), quantization techniques (binary/scalar), and multimodal retrieval, with hands-on Jupyter Notebook exercises.
+- **Comprehensive RAG Mastery Curriculum**: A structured 5-week learning path covering core RAG concepts, implementation strategies, and advanced techniques (e.g., hybrid search, quantization methods like binary/scalar, and Matryoshka representation learning) using Jupyter Notebooks.
 
-- **Advanced Retrieval & Indexing Techniques**: Implements HNSW for approximate nearest neighbor search, Matryoshka representation learning for dynamic embedding sizes, and Azure-optimized pipelines for scalable vector/keyword hybrid search.
-
-- **Responsi
+- **Azure & OpenAI Integration**: Focuses on deploying RAG pipelines in Azure environments, leveraging OpenAI models (e.g., GPT) for retrieval-augmented generation, with emphasis on responsible AI practices and mul
 
 ## Use Cases
 

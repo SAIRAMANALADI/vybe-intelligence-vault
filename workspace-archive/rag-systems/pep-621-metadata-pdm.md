@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Metadata Storage**: Project metadata is stored in `pyproject.toml` under the `[project]` table, adhering to [PEP 621](https://peps.python.org/pep-0621/), [PEP 631](https://peps.python.org/pep-0631/), and [PEP 639](https://peps.python.org/pep-0639/).
+- **Metadata Storage**: Project metadata is stored in `pyproject.toml` under the `[project]` table, adhering to [PEP 621](https://peps.python.org/pep-0621/), [PEP 631](https://peps.python.org/pep-0631/), and [PEP 639](https://peps.python.org/pep-0639).
 
-- **Dynamic Versioning**: Version can be statically defined (`version = "1.0.0"`) or dynamically sourced (e.g., from `mypackage/__version__.py`) via `dynamic = ["version"]` and `[tool.pdm].version` configuration.
+- **Dynamic Versioning**: Version can be statically defined (`version = "1.0.0"`) or dynamically sourced (e.g., from `mypackage/__version__.py` via `dynamic = ["version"]` and `[tool.pdm].version`).
 
-- **Dependency & Entry Points**
+- **Dependency Specification**: Dependencies f
 
 ## Use Cases
 

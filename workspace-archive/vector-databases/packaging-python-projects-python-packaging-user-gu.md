@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Project Structure**: Python packages require a specific directory structure with an `__init__.py` file to be recognized as a package, typically placed under a `src/` directory matching the package name (e.g., `src/example_package_YOUR_USERNAME_HERE/`).
+- **Project Structure**: Python package requires a structured directory with `__init__.py` (empty or with imports) and module files (e.g., `example.py`) under a source directory (e.g., `src/example_package_YOUR_USERNAME_HERE/`), matching the distribution name.
 
-- **Build Configuration**: The `pyproject.toml` file defines build-system dependencies, backend, and project metadata (e.g., name, version, license, Python version compatibility) using standardized `[project]` and `[build-system]` tables.
-
--
+- **Build Configuration**: `pyproject.toml` defines build backend (e.g., Hatchling, Setuptools) via `[build-system]` and project metadata (name, version, dependencies, license) under `[project]`, enabling `pip` and `build` to generate dis
 
 ## Use Cases
 

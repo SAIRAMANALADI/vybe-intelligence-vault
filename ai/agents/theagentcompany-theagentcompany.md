@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TheAgentCompany/TheAgentCompany
-collected_at: '2026-06-29T21:46:12.463728+05:30'
+collected_at: '2026-06-30T01:50:30.761970+05:30'
 published_at: '2026-06-28T10:43:35Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - python
-- workflows
 stars: 734
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-11T09:08:11Z'
 pushed_at: '2025-11-17T20:31:16Z'
 resource_id: github:theagentcompany/theagentcompany
-first_seen: '2026-06-29T21:46:12.463728+05:30'
-last_seen: '2026-06-29T21:46:12.463728+05:30'
-last_checked: '2026-06-29T21:46:12.463728+05:30'
+first_seen: '2026-06-30T01:50:30.761970+05:30'
+last_seen: '2026-06-30T01:50:30.761970+05:30'
+last_checked: '2026-06-30T01:50:30.761970+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Python-based AI benchmark simulating a software company environment for evaluating agent performance across complex, multi-step tasks.
-- **Metrics & Evaluation**: Measures agent capabilities in software development workflows, including task decomposition, tool usage, and collaboration.
-- **Research Utility**: Designed for AI research, enabling comparative analysis of LLMs and agentic systems in realistic software engineering scenarios.
+- **Purpose**: A Python-based AI benchmark simulating tasks within a virtual software company to evaluate agentic AI systems.
+- **Scope**: Includes 734 GitHub stars and 119 forks, focusing on agentic AI research, LLM performance, and benchmarking.
+- **Updates**: Last modified on **2026-06-28**, ensuring recent task and evaluation relevance.
 
 ## Why It Matters
 

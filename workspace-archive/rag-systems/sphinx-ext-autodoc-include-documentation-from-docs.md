@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **`sphinx.ext.autodoc`** automates Python documentation generation by parsing docstrings from modules, classes, functions, and attributes using directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, etc.
+- **`sphinx.ext.autodoc`** automates documentation generation by parsing Python docstrings and module structures, supporting directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, and `.. autodata::` to include API references with configurable options (e.g., `:members:`, `:exclude-members:`, `:inherited-members:`).
 
-- Key configuration options include `autoclass_content` (control docstring inheritance), `autodoc_typehints` (format/type of type hints in output), and `autodoc_member_order` (order of documented members).
-
-- Supports preprocessing via `cut_lines()`/`between()` for docstrin
+- **Configuration** is controlled via `conf.py` with parameters such as `autoclass_content` (class docstring sources), `autodoc_member_order` (sorting), `autodoc_t
 
 ## Use Cases
 

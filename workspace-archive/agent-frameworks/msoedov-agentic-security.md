@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Agentic LLM Vulnerability Scanner and AI red teaming toolkit designed for evaluating LLM security, jailbreaks, and prompt injection risks.
-- **Features**: Supports LLM fuzzing, vulnerability scanning, and evaluation frameworks with guardrails for testing agent-based systems.
-- **Technical Stack**: Python-based, integrates with agent frameworks for automated LLM security assessments and vulnerability aggregation.
+- **Agentic LLM Vulnerability Scanner**: Python-based framework for evaluating LLM security via agentic red teaming, supporting jailbreak detection, prompt testing, and vulnerability scanning.
+- **LLM Fuzzing & Evaluation**: Implements automated fuzzing techniques to test LLM robustness, including prompt injection, guardrail bypasses, and adversarial input generation.
+- **Modular Security Toolkit**: Aggregates LLM security tools (e.g., fuzzer, scanner, jailbreak detectors) with extensible agent
 
 ## Use Cases
 

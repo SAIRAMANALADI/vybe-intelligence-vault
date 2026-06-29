@@ -4,8 +4,8 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/uixmat/onborda
-collected_at: '2026-06-29T21:42:24.159032+05:30'
-published_at: '2026-06-29T11:46:56Z'
+collected_at: '2026-06-30T01:46:49.606875+05:30'
+published_at: '2026-06-29T16:46:15Z'
 tags:
 - animation
 - frontend_ui
@@ -14,8 +14,8 @@ language: TypeScript
 status: active
 resource_id: github:uixmat/onborda
 first_seen: '2026-06-15T23:08:36.644488+00:00'
-last_seen: '2026-06-29T21:42:24.159032+05:30'
-last_checked: '2026-06-29T21:42:24.159032+05:30'
+last_seen: '2026-06-30T01:46:49.606875+05:30'
+last_checked: '2026-06-30T01:46:49.606875+05:30'
 health_score: 100
 ---
 
@@ -36,7 +36,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 - Forks: 68
 - Language: TypeScript
 - Topics: framer-motion, next, nextjs, onboarding, product, product-tour, product-tours, react, setup, tailwindcss, tour, wizard
-- Last Updated: 2026-06-29T11:46:56Z
+- Last Updated: 2026-06-29T16:46:15Z
 
 ## Possible Use Cases
 

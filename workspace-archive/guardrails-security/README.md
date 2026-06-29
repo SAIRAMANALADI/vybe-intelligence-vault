@@ -25,8 +25,8 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 - [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent)
-- [promptfoo/promptfoo-action](https://github.com/promptfoo/promptfoo-action)
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-29 21:59 IST*
+*Last updated: 2026-06-30 02:03 IST*

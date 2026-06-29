@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-29T21:44:32.255528+05:30'
+collected_at: '2026-06-30T01:48:55.637670+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-29T21:44:32.255528+05:30'
-last_seen: '2026-06-29T21:44:32.255528+05:30'
-last_checked: '2026-06-29T21:44:32.255528+05:30'
+first_seen: '2026-06-30T01:48:55.637670+05:30'
+last_seen: '2026-06-30T01:48:55.637670+05:30'
+last_checked: '2026-06-30T01:48:55.637670+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high retrieval relevance scores.
 
-- **Technical Mechanism**: Exploits vulnerabilities in RAG pipelines by crafting adversarial documents that manipulate the retriever to prioritize poisoned content, leading to targeted misinformation or bias amplification in generated responses without altering the LLM parameters.
+- **Technical Mechanism**: Exploits vulnerabilities in the retrieval-augmentation pipeline by crafting adversarial documents that trigger specific token sequences in the LLM, bypassing traditional safety mechanisms and ensuring persistent corruption even after retrieval filtering.
 
-- **Evaluation & Impact**: Validates attack efficacy on multiple RAG architectures (e.g., dense/sparse retrievers) and LLMs, showing significant degradation in response accuracy (up to 90% attack success rate) while evading detection via standard safety filters.
+- **Evaluation & Impact**: Validates the attack on multiple RAG architectures (e.g., dense retrieval + LLMs) with empirical results showing up to **90% attack success rate** across benchmarks, highlighting critical security gaps in trustworthy AI systems.
 
 ## Why It Matters
 

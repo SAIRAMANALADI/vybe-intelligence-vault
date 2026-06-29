@@ -6,19 +6,17 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - agents
 - github-repo
 - java
 - rag
-- workflows
 selection_reason:
-- Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # hllqkb/Spring-AI-Ailibaba-Best-Practices
@@ -26,17 +24,14 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: benchmark
 - Selection reasons:
-  - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Implementation of RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embeddings and vector databases for knowledge retrieval in AI Q&A systems.
-- **Agent-Based Workflows**: Integrates AI agents with Function Call capabilities for dynamic task execution, including SSE streaming for real-time responses.
-- **Multi-Modal AI Processing**: Supports image generation, image understanding, and historical message handling within a Java-based Spring AI framework.
+*   Implements a Retrieval Augmented Generation (RAG) system over personal knowledge bases
 
 ## Use Cases
 

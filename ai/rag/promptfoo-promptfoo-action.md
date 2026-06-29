@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/promptfoo/promptfoo-action
-collected_at: '2026-06-29T21:44:42.438043+05:30'
+collected_at: '2026-06-30T01:49:00.795536+05:30'
 published_at: '2026-06-15T04:02:00Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-06-21T03:10:38Z'
 pushed_at: '2026-06-29T14:00:49Z'
 resource_id: github:promptfoo/promptfoo-action
-first_seen: '2026-06-29T21:44:42.438043+05:30'
-last_seen: '2026-06-29T21:44:42.438043+05:30'
-last_checked: '2026-06-29T21:44:42.438043+05:30'
+first_seen: '2026-06-30T01:49:00.795536+05:30'
+last_seen: '2026-06-30T01:49:00.795536+05:30'
+last_checked: '2026-06-30T01:49:00.795536+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of AI models (e.g., GPT, Claude, Gemini, Llama) via CI/CD pipelines using declarative YAML configurations for prompt evaluation, agent testing, and RAG assessment.
-
-- **AI Security & Red Teaming**: Supports LLM vulnerability scanning, pentesting, and adversarial testing to identify weaknesses in AI systems through automated red teaming workflows.
-
-- **Multi-Model Comparison**: Facilitates benchmarking of LLMs (including proprietary and open-source models) with simple CLI and CI/CD compatibility for performance and security validation.
+- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems within CI/CD pipelines via a declarative configuration approach.
+- **Multi-Model Benchmarking**: Facilitates performance comparison across major LLMs (GPT, Claude, Gemini, Llama) with AI red teaming and vulnerability scanning capabilities.
+- **Security & Pentesting**: Supports LLM security assessment through adversarial testing and automated vulnerability detection in AI-driven workflows.
 
 ## Why It Matters
 

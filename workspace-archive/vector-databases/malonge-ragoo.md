@@ -8,13 +8,14 @@ local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
 - hackernews
 - python
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer supported; users are directed to migrate to **RagTag** (`malonge/RagTag`) for continued development and updates.
-- **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and **scaffolding** of large genomic sequences.
-- **Metadata**: 173 GitHub stars, 28 forks, Python-based, last updated **2026-06-18**.
+- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** (`malonge/RagTag`) for continued development and support.
+- **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and **scaffolding** workflows in Python-based pipelines.
+- **Repository Metrics**: 173 stars, 28 forks; last updated **2026-06-18** (future-dated in metadata).
 
 ## Use Cases
 

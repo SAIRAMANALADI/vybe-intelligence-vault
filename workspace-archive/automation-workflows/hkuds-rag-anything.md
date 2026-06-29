@@ -12,12 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- mistral
-- models
+- hackernews
 - python
 - rag
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single, extensible Python-based framework supporting retrieval-augmented generation (RAG) across text, images, audio, and structured data modalities, leveraging unified embedding and retrieval mechanisms.
+- **Multi-Modal RAG Integration**: Framework supports retrieval-augmented generation (RAG) across text, images, audio, and video modalities, enabling unified cross-modal retrieval and generation pipelines.
 
-- **Modular Architecture**: Features plug-and-play components for document parsing, vector indexing (FAISS/Weaviate), reranking (e.g., ColBERTv2), and LLM integration (e.g., Llama, Mistral), enabling customizable pipelines for diverse RAG w
+- **Modular Architecture**: Implements a plug-and-play design with interchangeable components (e.g., retrievers, encoders, generators) for customizable RAG workflows tailored to specific multi-modal tasks.
+
+- **Optimized End-to-End Pipeline**: Leverages advanced techniques like vector databas
 
 ## Use Cases
 

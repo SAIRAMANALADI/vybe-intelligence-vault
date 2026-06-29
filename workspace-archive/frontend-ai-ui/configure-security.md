@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Default Deny Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly permitted; violations trigger detailed failure messages.
+- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other high-risk operations unless explicitly allowed via allowlists (e.g., `exec.allow` for permitted executables like `sass`, `git`, `node`).
 
-- **Configurable Allowlists**: Security policies are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), a
+- **Content & HTTP Restrictions**: Content formats (e.g., `text/html`) and HTTP operations (methods/URLs) are controlled via regex-based allowlists; negation rules (`!`) enable deny-listing (e.g., blocking `localhost` or `e
 
 ## Use Cases
 

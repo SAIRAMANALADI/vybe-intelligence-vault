@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-29T21:43:22.282679+05:30'
-published_at: '2026-06-29T16:11:20Z'
+collected_at: '2026-06-30T01:47:45.668088+05:30'
+published_at: '2026-06-29T19:38:26Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 62666
+stars: 62677
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-06-24T17:33:54Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-29T21:43:22.282679+05:30'
-last_seen: '2026-06-29T21:43:22.282679+05:30'
-last_checked: '2026-06-29T21:43:22.282679+05:30'
+first_seen: '2026-06-30T01:47:45.668088+05:30'
+last_seen: '2026-06-30T01:47:45.668088+05:30'
+last_checked: '2026-06-30T01:47:45.668088+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building AI agents from scratch, covering both theoretical principles and practical implementations in Python.
+- **Comprehensive Tutorial**: Provides a structured, step-by-step guide on building intelligent agents from scratch, covering both theoretical foundations and practical implementations.
 
-- **Core Components**: Focuses on key technologies including **Large Language Models (LLM)**, **Retrieval-Augmented Generation (RAG)**, and agent architectures for autonomous task execution.
+- **Multi-Technique Integration**: Focuses on combining key AI techniques such as Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent architectures for real-world applications.
 
-- **Community & Scalability**: Highly active with **62,666 stars** and **7,748 forks**, indicating strong community adoption; last updated **June 29, 2026**, ensuring relevance with recent advancements.
+- **Open-Source Python Repository**: Hosts a Python-based, community-driven project with 62,677+ stars and 7,751+ forks, updated as of June 29, 2026, to facilitate hands-on learning and collaboration.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 62666
-- Forks: 7748
+- Stars: 62677
+- Forks: 7751
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-29T16:11:20Z
+- Last Updated: 2026-06-29T19:38:26Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

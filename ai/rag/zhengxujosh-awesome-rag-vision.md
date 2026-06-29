@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-29T21:44:22.238739+05:30'
+collected_at: '2026-06-30T01:48:40.640045+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - unknown
-- youtube
 stars: 337
 language: Unknown
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-29T21:44:22.238739+05:30'
-last_seen: '2026-06-29T21:44:22.238739+05:30'
-last_checked: '2026-06-29T21:44:22.238739+05:30'
+first_seen: '2026-06-30T01:48:40.640045+05:30'
+last_seen: '2026-06-30T01:48:40.640045+05:30'
+last_checked: '2026-06-30T01:48:40.640045+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) applications.
-- **Scope**: Focuses on cutting-edge RAG methods that integrate **visual data retrieval** (e.g., images, videos) with generative models to enhance tasks like image captioning, VQA, and visual grounding.
-- **Maintenance**: Last updated **June 29, 2026**, with **337 stars** and **9 forks**, indicating active community engagement but limited metadata (language/topics unspecified).
+- **Curated RAG-Vision Resources**: Repository aggregates advanced techniques in retrieval-augmented generation (RAG) tailored for computer vision applications, including multimodal and vision-language model integrations.
+
+- **Minimal Maintenance**: Last updated in 2026 with no explicit language or topic tags, suggesting limited recent contributions or maintenance activity.
+
+- **Low Community Engagement**: 337 stars and 9 forks indicate niche interest, with no specified language or topics further highlighting its specialized focus.
 
 ## Why It Matters
 

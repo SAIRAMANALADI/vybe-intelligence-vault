@@ -14,7 +14,6 @@ tags:
 - agents
 - github-repo
 - meta-ai
-- mistral
 - models
 - python
 - rag
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an integrated Python-based pipeline for enterprise Retrieval-Augmented Generation (RAG) using small, specialized models optimized for efficiency (e.g., ONNX, OpenVINO) and compatibility with libraries like `llama.cpp`.
+- **Unified RAG Framework**: Provides an end-to-end Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Model & Tool Support**: Supports diverse model architectures (e.g., Llama, Mistral) and integrates with generative AI tools, parsing utilities, and agent frameworks for modular, scalable deployment.
+- **Multi-Backend Support**: Integrates multiple inference backends (e.g., LlamaCPP, ONNX, OpenVINO) and supports lightweight models for low-latency, high-throughput applications in production environments.
 
-- **Enterprise-Grade Features**:
+- **Modular Components**: Offers modular tools for parsing, r
 
 ## Use Cases
 

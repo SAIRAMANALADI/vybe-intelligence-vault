@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-29T21:45:52.328897+05:30'
+collected_at: '2026-06-30T01:50:10.764210+05:30'
 published_at: '2026-06-29T12:58:46Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-29T21:45:52.328897+05:30'
-last_seen: '2026-06-29T21:45:52.328897+05:30'
-last_checked: '2026-06-29T21:45:52.328897+05:30'
+first_seen: '2026-06-30T01:50:10.764210+05:30'
+last_seen: '2026-06-30T01:50:10.764210+05:30'
+last_checked: '2026-06-30T01:50:10.764210+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering frameworks like React, Angular, Next.js, NestJS, Spring Boot, Laravel, and mobile platforms (Android, iOS, Flutter).
+- **Repository Overview**: A TypeScript-based collection of standardized best practices for AI agents, covering 18+ programming languages and frameworks (e.g., React, Angular, Spring Boot, Flutter, Laravel) to ensure consistent and high-quality code generation.
 
-- **Purpose & Scope**: Designed to enforce consistent coding standards and agentic AI behavior across multiple programming languages and frameworks, including cursor rules for AI-assisted development.
+- **Key Features**: Includes language/framework-specific coding standards, cursor rules, and agentic AI guidelines to optimize AI agent performance and adherence to best practices across diverse tech stacks.
 
-- **Metadata**: 515 stars, 149 forks, last updated on 2026-06-29; serves as a reference for AI agents to adhere to industry-standard practices in software development.
+- **Metadata**: 515 stars, 149 forks, last updated 2026-06-29; serves as a reference for AI agents to follow structured programming conventions in multi-language environments.
 
 ## Why It Matters
 

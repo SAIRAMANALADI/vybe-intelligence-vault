@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format & Multimodal Parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with layout-aware OCR, multimodal context extraction (tables, charts, images), and handwriting recognition.
+- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
 
-- **Scalable & Multilingual**: Processes 1B+ documents with enterprise-grade throughput (25M+ package downloads/month), supports 100+ languages, and offers granular parsing modes for cost/accuracy optimization.
+- **Multimodal & multilingual processing**: Combines OCR, layout analysis, and multimodal understanding (charts, images) with out-of-the-box support for 100+ languages, optimized for enterprise-scale workflows.
 
-- **Enterprise-Ready Features**: Local/cloud deployment options, hi
+- **Granular control & scalability**: Offers configurable parsing
 
 ## Use Cases
 

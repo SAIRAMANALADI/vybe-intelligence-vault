@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-29T21:44:52.312781+05:30'
+collected_at: '2026-06-30T01:49:15.673646+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-29T21:44:52.312781+05:30'
-last_seen: '2026-06-29T21:44:52.312781+05:30'
-last_checked: '2026-06-29T21:44:52.312781+05:30'
+first_seen: '2026-06-30T01:49:15.673646+05:30'
+last_seen: '2026-06-30T01:49:15.673646+05:30'
+last_checked: '2026-06-30T01:49:15.673646+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval efficiency and scalability compared to traditional graph-based RAG methods.
+- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval mechanism for Large Language Models (LLMs), optimizing graph traversal and retrieval efficiency for large-scale corpora by leveraging linear graph structures to reduce computational overhead.
 
-- **Efficient Retrieval Mechanism**: Utilizes linear graph traversal (e.g., shortest-path or neighborhood-based queries) to reduce computational overhead while maintaining retrieval accuracy in LLMs.
+- **ICLR 2026 Contribution**: Proposes a novel approach to Graph Retrieval-Augmented Generation (GraphRAG) that integrates linear graph algorithms to enhance scalability and retrieval accuracy, addressing challenges in dynamic and large-scale knowledge graphs.
 
-- **ICLR 2026 Contribution**: Proposes a scalable, graph-structured RAG pipeline with linear-time complexity for retrieval, addressing bottlenecks in prior graph-based RAG approaches on large datasets.
+- **Implementation**: Provides an open-source Python implementation with optimized graph traversal and retrieval pipelines, supporting efficient integration with LLMs for enhanced contextual generation and reasoning.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/imaging/#avif
-published_at: '2026-06-29T17:00:13.694015+05:30'
-collected_at: '2026-06-29T17:00:13.694028+05:30'
+published_at: '2026-06-30T01:52:17.203805+05:30'
+collected_at: '2026-06-30T01:52:17.203820+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-06-29T17:00:13.694028+05:30'
-last_seen: '2026-06-29T17:00:13.694028+05:30'
-last_checked: '2026-06-29T17:00:13.694028+05:30'
+first_seen: '2026-06-30T01:52:17.203820+05:30'
+last_seen: '2026-06-30T01:52:17.203820+05:30'
+last_checked: '2026-06-30T01:52:17.203820+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,15 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` settings control image processing (e.g., resizing, format conversion) with defaults like `anchor: smart`, `resampleFilter: box`, and format-specific parameters (AVIF/WebP/JPEG).
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `resampleFilter: box`, `bgColor: #ffffff`, and format-specific defaults (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75`).
 
-- **Format-Specific Encoding**: AVIF (`lossy` compression, `encoderSpeed: 10`, `quality: 60`), WebP (`method: 2`, `quality: 75`), and JPEG (`quality: 75`) support configurable trade-offs between file size and quality.
+- **Format-Specific Configurations**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed: 1-10`, `hint: photo/drawing/icon/text`, and `quality: 1-100`.
+  - **WebP**: Configurable via `compression`, `method: 0-6`, `useSharpYuv: bool`, and `quality: 1-100`.
 
-- **Metadata Handling**: `meta.fields` filters EXIF/IPTC/XMP metadata (e.g., excluding `GPS`, `Exif` by default), while `sources` defines extraction sources (`exif`, `iptc`).
+- **Metadata Handling**:
+  - **EXIF Filtering**: Excludes fields like `GPS`, `Exif`, `Contrast`, etc., by default; configurable via `excludeFields`/`includeFields`.
+  - **Meta Method**: Controls metadata extraction via `fields` (glob patterns) and `sources` (`exif`, `iptc`, `xmp`).
 
 ## Why It Matters
 
@@ -37,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T17:00:13.694015+05:30
+- Published: 2026-06-30T01:52:17.203805+05:30
 
 ## Related Tags
 

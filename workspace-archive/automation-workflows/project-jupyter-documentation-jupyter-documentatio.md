@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular, extensible framework for interactive computing, centered around computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and rich text in a single document format (`.ipynb`).
+- **Jupyter ecosystem**: A modular, extensible framework for interactive computing, centered around computational notebooks that integrate code, visualizations, and narrative text; includes core tools like Jupyter Notebook and JupyterLab, along with subprojects for kernels (e.g., IPython, IRkernel), interfaces (e.g., JupyterLite, Voilà), and deployment (e.g., JupyterHub, Docker Stacks).
 
-- **Sub-projects and kernels**: Comprises standalone tools (e.g., `nbconvert`, `nbformat`, `JupyterHub`) and language-specific kernels (e.g., IPython, IRkernel, IJulia) enabling multi-language support via the Jupyter Messaging Protocol (`jupyter-c
+- **Notebook architecture**: Notebooks are structured as `.ipynb` files (JSON-based `nbformat` specification)
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-06-29T21:44:07.262210+05:30'
+collected_at: '2026-06-30T01:48:25.637759+05:30'
 published_at: '2026-06-29T08:29:41Z'
 tags:
 - benchmark
@@ -13,7 +13,7 @@ tags:
 - models
 - python
 - rag
-- scripts
+- workflows
 stars: 5137
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-06-29T21:44:07.262210+05:30'
-last_seen: '2026-06-29T21:44:07.262210+05:30'
-last_checked: '2026-06-29T21:44:07.262210+05:30'
+first_seen: '2026-06-30T01:48:25.637759+05:30'
+last_seen: '2026-06-30T01:48:25.637759+05:30'
+last_checked: '2026-06-30T01:48:25.637759+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, emphasizing LLMOps best practices for scalable, production-grade systems.
+- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation methodologies, ML system design, and MLOps integration, with Python-based implementations and AWS infrastructure.
+- **Key Technical Components**: Includes fine-tuning LLMs, evaluation frameworks, MLOps/ML system design, and RAG (Retrieval-Augmented Generation) implementation with Python.
 
-- **Updated Tooling & Practices**: Reflects 2026 best practices for GenAI, RAG optimization, and deployment automation, with repository updates as of June 29, 2026.
+- **AWS-Centric Workflow**: Demonstrates end-to-end deployment strategies on AWS, emphasizing infrastructure-as-code (IaC), scalability, and operational efficiency for generative AI applications.
 
 ## Why It Matters
 

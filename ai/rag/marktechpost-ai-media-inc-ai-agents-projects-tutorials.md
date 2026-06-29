@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-06-29T21:45:12.304242+05:30'
+collected_at: '2026-06-30T01:49:35.780150+05:30'
 published_at: '2026-06-29T12:15:54Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
 stars: 2749
 language: Jupyter Notebook
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-06-28T20:37:52Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-06-29T21:45:12.304242+05:30'
-last_seen: '2026-06-29T21:45:12.304242+05:30'
-last_checked: '2026-06-29T21:45:12.304242+05:30'
+first_seen: '2026-06-30T01:49:35.780150+05:30'
+last_seen: '2026-06-30T01:49:35.780150+05:30'
+last_checked: '2026-06-30T01:49:35.780150+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and implementations for deploying multiple AI agents with specialized skills, enabling collaborative problem-solving and workflow automation.
-- **Memory & reasoning loops**: Includes tutorials on integrating memory architectures (short/long-term) and iterative reasoning loops to enhance agent decision-making and adaptability.
-- **Agentic RAG & workflows**: Demonstrates advanced Retrieval-Augmented Generation (RAG) techniques and end-to-end agentic workflows for dynamic task execution in AI-driven applications.
+- **Multi-Agent Systems**: Repository focuses on advanced multi-agent architectures, including coordination, communication protocols, and inter-agent dependency management for complex workflows.
+
+- **Memory & Reasoning Loops**: Implements persistent memory systems (short/long-term) and iterative reasoning loops (e.g., reflection, self-critique) to enhance agent decision-making and task execution.
+
+- **Agentic Frameworks**: Provides tutorials on agentic AI development using frameworks like LangChain, CrewAI, and AutoGen, with Jupyter Notebook examples for planning, RAG integration, and tool-use optimization.
 
 ## Why It Matters
 

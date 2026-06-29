@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source framework for building real-time, multi-modal conversational voice AI agents with support for video and voice modalities.
-
-- **Technical Stack**: Primarily implemented in Python, enabling integration with AI/ML pipelines and real-time processing.
-
-- **Features**: Supports multi-modal interactions (voice/video), real-time processing, and modular agent development with a growing community (10.8k+ stars, 1.3k+ forks).
+- **Purpose**: Open-source framework enabling development of conversational voice AI agents with multimodal (voice/video) and real-time processing capabilities.
+- **Technical Stack**: Primarily implemented in Python, supporting integration with AI models, video/audio processing, and real-time communication protocols.
+- **Metrics**: 10,807 GitHub stars, 1,312 forks, last updated June 29, 2026.
 
 ## Use Cases
 

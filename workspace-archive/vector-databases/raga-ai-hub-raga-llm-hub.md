@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security within Python-based workflows.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrail enforcement, and security protocols for AI model deployment.
-- **Integration**: Designed for LLM operations (LLMOps) with modular components for extensibility and customization.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security protocols in Python-based workflows.
+- **Key features** include structured LLM evaluation pipelines, runtime safety mechanisms, and security hardening for production deployments.
+- **Integration-focused** with LLMops workflows, supporting CI/CD pipelines and real-time monitoring for model reliability and compliance.
 
 ## Use Cases
 

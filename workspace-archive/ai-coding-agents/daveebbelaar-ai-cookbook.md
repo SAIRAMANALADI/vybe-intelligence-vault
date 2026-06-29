@@ -15,6 +15,7 @@ tags:
 - anthropic
 - github-repo
 - hackernews
+- models
 - openai
 - python
 - reddit
@@ -35,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, with 4,256 stars and 1,503 forks.
-- **Technical Focus**: Primarily Python-based, covering AI agents, LLM integration (Anthropic, OpenAI), and AI system development workflows.
-- **Last Updated**: June 29, 2026, with active maintenance and updates.
+- **Repository Overview**: Open-source Python-based AI cookbook (`daveebbelaar/ai-cookbook`) providing practical examples and tutorials for building AI systems, covering agents, LLMs, and integrations with Anthropic and OpenAI APIs.
+
+- **Technical Scope**: Focuses on agent-based architectures, LLM fine-tuning, and multi-model workflows, with emphasis on modular Python implementations for extensibility and reproducibility.
+
+- **Maintenance & Community**: Actively maintained (last updated June 202
 
 ## Use Cases
 

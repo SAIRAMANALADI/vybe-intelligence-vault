@@ -4,18 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/deepset
-published_at: '2026-06-28T03:51:25.784024+05:30'
-collected_at: '2026-06-28T03:51:25.784038+05:30'
+published_at: '2026-06-30T01:51:27.240168+05:30'
+collected_at: '2026-06-30T01:51:27.240184+05:30'
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 status: active
 resource_id: blog:deepset-deepset
-first_seen: '2026-06-28T03:51:25.784038+05:30'
-last_seen: '2026-06-28T03:51:25.784038+05:30'
-last_checked: '2026-06-28T03:51:25.784038+05:30'
+first_seen: '2026-06-30T01:51:27.240184+05:30'
+last_seen: '2026-06-30T01:51:27.240184+05:30'
+last_checked: '2026-06-30T01:51:27.240184+05:30'
 health_score: 100
 ---
 
@@ -23,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **AutoQuizzer**: A Hugging Face Space tool that automates quiz generation using LLMs, enabling interactive Q&A sessions or AI-driven quiz play.
-- **Dual Modes**: Supports both human-generated quizzes and LLM-based quiz interaction, enhancing dynamic learning/assessment.
-- **Integration**: Built by deepset, leveraging open-source LLMs for scalable, customizable quiz automation.
+- **AutoQuizzer**: An automated quiz generation tool leveraging LLMs to create, play, or simulate quiz interactions.
+- **Multi-modal Functionality**: Supports quiz generation, interactive gameplay, and LLM-based simulation.
+- **Deployment**: Hosted as a Hugging Face Space by deepset, accessible via [this link](https://huggingface.co/spaces/deepset/autoquizzer).
 
 ## Why It Matters
 
@@ -35,13 +34,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:51:25.784024+05:30
+- Published: 2026-06-30T01:51:27.240168+05:30
 
 ## Related Tags
 
 - agents
 - rag
-- scripts
 - web-crawled
 
 ## Source

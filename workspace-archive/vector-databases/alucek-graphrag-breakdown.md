@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline enhanced with knowledge graphs (GraphRAG), integrating structured data for improved context retrieval and generation.
-- **Interactive Jupyter Notebook**: Provides executable examples with diagrams, illustrating the end-to-end process of constructing, querying, and leveraging knowledge graphs in RAG systems.
-- **Technical Breakdown**: Covers key components such as graph construction, retrieval str
+- **Knowledge Graph RAG Architecture**: Repository provides a structured breakdown of Knowledge Graph Retrieval-Augmented Generation (KG-RAG) systems, including modular components like graph construction, retrieval strategies, and integration with LLMs.
+- **Visual & Practical Examples**: Contains Jupyter Notebooks with diagrams and executable examples demonstrating end-to-end KG-RAG workflows, such as entity resolution, graph traversal, and query augmentation.
+- **Technical Implementation**: Foc
 
 ## Use Cases
 

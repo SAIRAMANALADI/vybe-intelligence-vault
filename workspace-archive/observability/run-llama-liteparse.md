@@ -8,17 +8,16 @@ local_vault_path: ai/resources/run-llama-liteparse.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
-- workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # run-llama/liteparse
@@ -27,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Fast, Rust-based document parser** optimized for OCR, PDF processing, and text extraction with minimal latency.
-- **Open-source** with 11K+ GitHub stars, supporting document-ocr, pdf-parser, and text-extraction workflows.
-- **Last updated June 2026**, offering modern parsing capabilities for structured document analysis.
+- **Rust-based OCR & PDF Parser**: `liteparse` is a high-performance document parser written in Rust, optimized for fast OCR, PDF processing, and text extraction with minimal latency.
+- **Modular Architecture**: Supports extensible pipelines for document preprocessing, OCR (Tesseract/alternatives), and structured text extraction with configurable backends.
+- **Lightweight & Open-Source**: Designed for efficiency with minimal dependencies, offering an MIT-licensed alternative to heavier document
 
 ## Use Cases
 

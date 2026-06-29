@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: LlamaIndex.TS is a TypeScript/JavaScript framework for context engineering in LLM applications, enabling RAG, agent workflows, and multi-step orchestration with idiomatic TypeScript support.
+- **Framework Purpose**: LlamaIndex.TS is a TypeScript/JavaScript framework for context engineering, enabling LLM application development with RAG, agents, and workflows across modern JavaScript runtimes (Node.js, Deno, Bun, Cloudflare Workers).
 
-- **Core Components**: Provides data connectors (APIs, SQL, files), indexes/retrievers, agents/engines for reasoning, workflows for orchestration, and observability tools for production deployment.
+- **Core Components**: Provides data connectors, indexes/retrievers, agents/engines, workflows, and observability tools for ingesting, processing, and orchestrating LLM interactions with private/domain-specific data.
 
-- **Runtime & Ecosystem**: Compatible with Node.js, Deno, Bun, and Cloudflare Worker
+- **Managed Services**: Offers Llam
 
 ## Use Cases
 

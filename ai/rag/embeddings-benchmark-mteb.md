@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-29T21:48:17.463425+05:30'
+collected_at: '2026-06-30T01:52:13.611039+05:30'
 published_at: '2026-06-29T15:19:42Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-29T07:31:22Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-29T21:48:17.463425+05:30'
-last_seen: '2026-06-29T21:48:17.463425+05:30'
-last_checked: '2026-06-29T21:48:17.463425+05:30'
+first_seen: '2026-06-30T01:52:13.611039+05:30'
+last_seen: '2026-06-30T01:52:13.611039+05:30'
+last_checked: '2026-06-30T01:52:13.611039+05:30'
 health_score: 100
 ---
 
@@ -31,8 +31,10 @@ health_score: 100
 ## Summary
 
 - **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks (e.g., retrieval, clustering, classification) and languages/modalities, integrating 58 datasets and 11 task categories.
-- **Multilingual & Multimodal Support**: Evaluates embeddings in low-resource and high-resource languages, including multimodal tasks (e.g., image-text retrieval) with state-of-the-art (SBERT, sentence-transformers) models.
-- **Modular Architecture**: Supports custom task integration, standardized metrics (e.g., Spearman correlation, nDCG), and reproducible evaluation pipelines for neural search and semantic-text similarity (STS) tasks.
+
+- **Multilingual & Multimodal Support**: Evaluates embeddings in low-resource and high-resource languages, including multimodal tasks (e.g., image-text retrieval), leveraging models like SBERT and Sentence Transformers.
+
+- **State-of-the-Art Metrics**: Provides standardized evaluation metrics (e.g., accuracy, NDCG, Spearman correlation) for 150+ embedding models, enabling fair comparison and reproducibility in neural search and semantic tasks.
 
 ## Why It Matters
 

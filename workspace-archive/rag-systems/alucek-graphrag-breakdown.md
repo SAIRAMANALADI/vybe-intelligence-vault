@@ -6,7 +6,7 @@ source_url: https://github.com/ALucek/GraphRAG-Breakdown
 resource_id: github:alucek/graphrag-breakdown
 local_vault_path: ai/rag/alucek-graphrag-breakdown.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Knowledge Graph RAG Architecture**: Demonstrates a retrieval-augmented generation (RAG) pipeline enhanced with knowledge graphs (GraphRAG), integrating structured data for improved context retrieval and generation.
-- **Interactive Jupyter Notebook**: Provides executable examples with diagrams, illustrating the end-to-end process of constructing, querying, and leveraging knowledge graphs in RAG systems.
-- **Technical Breakdown**: Covers key components such as graph construction, retrieval str
+- **Knowledge Graph RAG Architecture**: Repository provides a structured breakdown of Knowledge Graph Retrieval-Augmented Generation (KG-RAG) systems, including modular components like graph construction, retrieval strategies, and integration with LLMs.
+- **Visual & Practical Examples**: Contains Jupyter Notebooks with diagrams and executable examples demonstrating end-to-end KG-RAG workflows, such as entity resolution, graph traversal, and query augmentation.
+- **Technical Implementation**: Foc
 
 ## Use Cases
 

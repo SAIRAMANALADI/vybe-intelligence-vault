@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-06-29T21:43:12.210280+05:30'
+collected_at: '2026-06-30T01:47:30.636169+05:30'
 published_at: '2026-06-24T12:43:09Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-05T01:54:18Z'
 pushed_at: '2025-02-10T20:07:53Z'
 resource_id: github:sylphai-inc/githubchat
-first_seen: '2026-06-29T21:43:12.210280+05:30'
-last_seen: '2026-06-29T21:43:12.210280+05:30'
-last_checked: '2026-06-29T21:43:12.210280+05:30'
+first_seen: '2026-06-30T01:47:30.636169+05:30'
+last_seen: '2026-06-30T01:47:30.636169+05:30'
+last_checked: '2026-06-30T01:47:30.636169+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling local interaction with GitHub repositories via natural language queries.
-- **Python-Based Tool**: Leverages Python for core functionality, facilitating repository ingestion, indexing, and conversational querying.
-- **Self-Hosted Solution**: Designed for local deployment, avoiding cloud dependencies while supporting offline GitHub repository analysis.
+- **RAG Implementation**: Implements a Retrieval-Augmented Generation (RAG) system for querying and interacting with GitHub repositories locally.
+- **Tech Stack**: Built in Python, leveraging GitHub's API for repository data retrieval and vector embeddings for efficient document search.
+- **Self-Contained**: Enables offline chat functionality with downloaded repositories, avoiding real-time API dependency after initial setup.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-29T21:43:27.205482+05:30'
+collected_at: '2026-06-30T01:47:50.578749+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-29T21:43:27.205482+05:30'
-last_seen: '2026-06-29T21:43:27.205482+05:30'
-last_checked: '2026-06-29T21:43:27.205482+05:30'
+first_seen: '2026-06-30T01:47:50.578749+05:30'
+last_seen: '2026-06-30T01:47:50.578749+05:30'
+last_checked: '2026-06-30T01:47:50.578749+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step guide to building Retrieval-Augmented Generation (RAG) systems from scratch using local LLMs, emphasizing transparency by avoiding proprietary black boxes.
-- **Technical Stack**: Utilizes JavaScript/Node.js with `node-llama-cpp` for LLM inference, covering embeddings, vector search, retrieval mechanisms, and context-augmented generation in a single pipeline.
-- **Open-Source Focus**: Designed as a hands-on tutorial for developers to understand core RAG components (e.g., vector DBs, retrieval strategies) without relying on managed services.
+- **Implementation of RAG Pipeline**: Demonstrates a complete Retrieval-Augmented Generation (RAG) system built from scratch using JavaScript, leveraging local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, covering embeddings, vector search, retrieval, and context-augmented generation.
+
+- **Educational Focus**: Provides a hands-on tutorial for understanding core RAG components, including embedding generation, vector database operations, and dynamic context integration for enhanced LLM responses.
+
+- **Technical Stack**: Utilizes Node.js with `node-llama-cpp` for local LLM inference, emphasizing transparency and full control over the RAG pipeline for debugging and learning purposes.
 
 ## Why It Matters
 

@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Microframework Architecture**: Flask is a lightweight WSGI-based Python web framework leveraging Werkzeug for request/response handling and Jinja2 for templating, enabling minimalist yet extensible web application development.
-
-- **Core Components**: Built on Werkzeug (WSGI toolkit) and Jinja (templating engine), Flask provides routing, request/response objects, and session management while maintaining a modular design for third-party extensions.
-
-- **Ecosystem & Adoption**: Supports 71.7k+
+- **Micro Framework**: Flask is a lightweight Python web framework leveraging **Werkzeug** (WSGI toolkit) and **Jinja2** (templating engine) for modular, minimalist web application development.
+- **Core Components**: Built around **WSGI** compliance, it provides routing, request/response handling, and session management with extensibility via plugins.
+- **Ecosystem**: Supports integration with **Pallets** projects, enabling scalable web services with Pythonic simplicity and RESTful API support.
 
 ## Use Cases
 

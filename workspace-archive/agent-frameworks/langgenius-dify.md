@@ -38,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Dify enables development of **agentic workflows** with **Python/TypeScript** (Next.js) support, integrating **LLM APIs** (OpenAI, GPT-4, Gemini) and **RAG** for dynamic task automation.
-- **Low-code/no-code tooling**: Provides a **visual workflow editor** for **agentic AI** pipelines, with **MCP (Model Context Protocol)** support for extensible tool integration and **automation** via drag-and-drop interfaces.
-- **Production-grade deployment**: Supports
+- **Multi-agent orchestration framework**: Supports agentic workflows with low-code/no-code tools, integrating LLM APIs (OpenAI, GPT-4, Gemini) and MCP (Model Context Protocol) for dynamic agent collaboration and task automation.
+
+- **Hybrid development stack**: Combines Next.js (TypeScript frontend) with Python backend, enabling both visual workflow builders and programmatic customization for RAG (Retrieval-Augmented Generation) and AI agent deployment.
+
+- **Production-grade deployment**: Optim
 
 ## Use Cases
 

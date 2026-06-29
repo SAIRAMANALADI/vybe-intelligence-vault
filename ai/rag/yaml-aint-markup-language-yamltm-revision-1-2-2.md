@@ -3,9 +3,9 @@ title: YAML Ain’t Markup Language (YAML™) revision 1.2.2
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://yaml.org/spec/1.2.2
-published_at: '2026-06-22T10:45:08.092804+05:30'
-collected_at: '2026-06-22T10:45:08.092818+05:30'
+source_url: https://yaml.org/spec/1.2.2/#chapter-1-introduction-to-yaml
+published_at: '2026-06-30T01:52:25.352881+05:30'
+collected_at: '2026-06-30T01:52:25.352897+05:30'
 tags:
 - hackernews
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:yaml-aint-markup-language-yamltm-revision-1-2-2
-first_seen: '2026-06-22T10:45:08.092818+05:30'
-last_seen: '2026-06-22T10:45:08.092818+05:30'
-last_checked: '2026-06-22T10:45:08.092818+05:30'
+first_seen: '2026-06-30T01:52:25.352897+05:30'
+last_seen: '2026-06-30T01:52:25.352897+05:30'
+last_checked: '2026-06-30T01:52:25.352897+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **YAML 1.2.2 Specification**: Revision 1.2.2 (2021-10-01) corrects errors and clarifies the YAML 1.2 data language without normative changes, while transitioning to an open, Markdown-based development process with public source hosting.
+- **YAML 1.2.2 Specification**: Defines YAML 1.2 data language with no normative changes from v1.2, focusing on error correction, clarity, and process transparency (Markdown-based, LaTeX-derived images, public source hosting).
 
-- **Core Language Features**: YAML is a human-friendly, Unicode-based serialization language supporting mappings, sequences, and scalars, with optional typing and aliasing for native data structure representation.
+- **Core Data Model**: YAML is a human-friendly, Unicode-based serialization language using three primitives—mappings (key-value pairs), sequences (lists/arrays), and scalars (strings/numbers)—with optional typing and aliasing for native data structure representation.
 
-- **Processing Model**: Defines serialization/deserialization via dump/load processes, structured as a representation graph, serialization tree, and presentation stream with explicit failure points for robust implementation.
+- **Processing & Schemas**: Specifies `dump`/`load` processes, representation/serialization trees, and three recommended schemas (Failsafe, JSON, Core) for tag resolution and validation.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:45:08.092804+05:30
+- Published: 2026-06-30T01:52:25.352881+05:30
 
 ## Related Tags
 
@@ -52,4 +52,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://yaml.org/spec/1.2.2
+Original source: https://yaml.org/spec/1.2.2/#chapter-1-introduction-to-yaml

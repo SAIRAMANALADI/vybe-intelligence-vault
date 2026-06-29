@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
 - unknown
 selection_reason:
@@ -35,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research, including agentic RAG, reasoning agents, and search agents, with a focus on large language models (LLMs) and reasoning architectures.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026's KnowFM initiative, emphasizing knowledge-focused multi-agent systems for deep research tasks.
-- **Technical Scope**: Covers topics like deep research agents, LLM-based reasoning, and search optimization, with last update
+- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026 KnowFM, emphasizing knowledge-first multimodal (KnowFM) approaches for deep research applications.
+- **High-Activity Repository**: Maintains active development (781 stars, 62 forks) with last update on 2026-06-28, reflectin
 
 ## Use Cases
 

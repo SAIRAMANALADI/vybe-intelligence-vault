@@ -6,11 +6,12 @@ source_url: https://github.blog/changelog
 resource_id: blog:github-changelog
 local_vault_path: ai/resources/github-changelog.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- anthropic
 - web-crawled
 - workflows
 selection_reason:
@@ -23,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Merge Tracking Enhancement**: Enterprise and organization reports now include granular tracking of total merges segmented by adoption phase (e.g., pilot, full rollout), enabling precise analytics on GitHub adoption metrics.
-
-- **Copilot Integration Metrics**: New reporting capabilities provide visibility into Copilot usage across adoption phases, correlating merge activity with AI-assisted development adoption trends.
-
-- **Account & Enterprise Management**: Updated account management tools e
+- **Claude Opus 4.8 Fast Mode Integration**: GitHub Copilot now supports **Claude Opus 4.8 Fast Mode** in preview, enhancing real-time code generation and completion efficiency.
+- **Performance Optimization**: The update introduces **latency reductions** and **throughput improvements**, enabling faster AI-driven coding assistance for developers.
+- **GitHub Copilot Changelog Update**: The release is documented under the **Copilot** label in GitHub’s official changelog, marking a step toward broad
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-06-29T21:44:22.327327+05:30'
+collected_at: '2026-06-30T01:48:40.683196+05:30'
 published_at: '2026-06-28T19:06:05Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-06-29T21:44:22.327327+05:30'
-last_seen: '2026-06-29T21:44:22.327327+05:30'
-last_checked: '2026-06-29T21:44:22.327327+05:30'
+first_seen: '2026-06-30T01:48:40.683196+05:30'
+last_seen: '2026-06-30T01:48:40.683196+05:30'
+last_checked: '2026-06-30T01:48:40.683196+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated List**: Repository aggregates open-source and research projects focused on AI memory systems, including agent-based memory, retrieval-augmented generation (RAG), and memory management frameworks, primarily in Python.
-- **Metrics**: 801 stars, 87 forks; last updated June 28, 2026, indicating active maintenance and community engagement.
-- **Scope**: Encompasses topics like AI agents, memory architectures, and ML integration, serving as a technical resource for researchers and engineers in AI memory systems.
+- **Curated Collection**: GitHub repository listing 800+ AI memory projects, focusing on memory management, RAG, and AI agent frameworks in Python.
+- **Technical Scope**: Covers topics like long-term memory, context retention, and memory-augmented architectures for AI/ML systems.
+- **Maintenance**: Last updated June 2026, indicating active curation of cutting-edge tools and research in AI memory systems.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: topoteretes
 - Stars: 801
-- Forks: 87
+- Forks: 88
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
 - Last Updated: 2026-06-28T19:06:05Z

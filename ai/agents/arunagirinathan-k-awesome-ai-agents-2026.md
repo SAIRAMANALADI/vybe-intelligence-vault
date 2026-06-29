@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
-collected_at: '2026-06-29T21:46:07.436603+05:30'
+collected_at: '2026-06-30T01:50:30.732187+05:30'
 published_at: '2026-06-29T14:46:01Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-01T05:40:33Z'
 pushed_at: '2026-06-29T11:44:03Z'
 resource_id: github:arunagirinathan-k/awesome-ai-agents-2026
-first_seen: '2026-06-29T21:46:07.436603+05:30'
-last_seen: '2026-06-29T21:46:07.436603+05:30'
-last_checked: '2026-06-29T21:46:07.436603+05:30'
+first_seen: '2026-06-30T01:50:30.732187+05:30'
+last_seen: '2026-06-30T01:50:30.732187+05:30'
+last_checked: '2026-06-30T01:50:30.732187+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ health_score: 100
 ## Summary
 
 - **Comprehensive Repository**: Curated list of 300+ AI agents, frameworks, and tools spanning coding, creative, voice, research, and enterprise domains, with focus on 2026 advancements.
-- **Technical Resources**: Includes comparison guides, benchmarks, and deep dives on agent frameworks like CrewAI, LangChain, and LLM-based autonomous agents.
+- **Technical Resources**: Includes comparison guides, benchmarks, and deep dives on frameworks like CrewAI, LangChain, and LLM-based autonomous agents.
 - **Active Maintenance**: Last updated June 29, 2026, with 190 stars and 87 forks, indicating ongoing community engagement and updates.
 
 ## Why It Matters

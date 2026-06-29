@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - benchmark
-- hackernews
 - models
 - openai
 - rag
@@ -36,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Provides a comprehensive walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG systems.
-
-- **Agentic & Multimodal Workflows**: Tutorials demonstrate tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems for complex task decomposition.
-
-- **Advanced Optimization Techniques**: Includes KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured o
+- Haystack provides tutorials for building **Retrieval-Augmented Generation (RAG) pipelines**, including **multimodal RAG** (text + vision) and **conversational RAG** with chat history integration.
+- Advanced tutorials cover **multi-agent systems**, **human-in-the-loop validation**, and **KV cache compression** (TurboQuant) for efficient LLM inference on consumer GPUs.
+- Key features include **metadata filtering**, **hybrid retrieval** (dense + keyword), **structured output generation**, and **p
 
 ## Use Cases
 

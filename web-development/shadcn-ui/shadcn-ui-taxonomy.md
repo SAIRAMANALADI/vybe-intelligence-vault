@@ -4,8 +4,8 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/shadcn-ui/taxonomy
-collected_at: '2026-06-29T21:42:24.667937+05:30'
-published_at: '2026-06-29T12:44:38Z'
+collected_at: '2026-06-30T01:46:50.011348+05:30'
+published_at: '2026-06-29T16:45:52Z'
 tags:
 - frontend_ui
 stars: 19249
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:shadcn-ui/taxonomy
 first_seen: '2026-06-15T23:08:40.021375+00:00'
-last_seen: '2026-06-29T21:42:24.667937+05:30'
-last_checked: '2026-06-29T21:42:24.667937+05:30'
+last_seen: '2026-06-30T01:46:50.011348+05:30'
+last_checked: '2026-06-30T01:46:50.011348+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 - Forks: 2733
 - Language: TypeScript
 - Topics: nextauthjs, nextjs, prisma, radix-ui, tailwindcss, typescript, vercel
-- Last Updated: 2026-06-29T12:44:38Z
+- Last Updated: 2026-06-29T16:45:52Z
 
 ## Possible Use Cases
 

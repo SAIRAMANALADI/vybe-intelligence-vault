@@ -6,12 +6,11 @@ source_url: https://github.com/pixegami/rag-tutorial-v2
 resource_id: github:pixegami/rag-tutorial-v2
 local_vault_path: ai/rag/pixegami-rag-tutorial-v2.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -25,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment of Retrieval-Augmented Generation (RAG) using local language models (LLMs) via frameworks like LangChain, eliminating dependency on cloud-based APIs.
-
-- **Dynamic Database Updates**: Implements mechanisms for real-time or incremental updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance and mitigate stale data issues.
-
-- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., retrieval accu
+- **Local LLM Integration**: Demonstrates advanced RAG (Retrieval-Augmented Generation) implementation using local LLMs for privacy and reduced dependency on cloud APIs.
+- **Dynamic Database Updates**: Implements automated database refresh mechanisms to ensure retrieval sources remain current without manual intervention.
+- **Testing Framework**: Includes a structured testing pipeline to validate RAG performance, covering retrieval accuracy, response quality, and end-to-end latency.
 
 ## Use Cases
 

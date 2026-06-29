@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-29T21:43:47.232356+05:30'
+collected_at: '2026-06-30T01:48:10.613222+05:30'
 published_at: '2026-06-29T10:07:39Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-29T21:43:47.232356+05:30'
-last_seen: '2026-06-29T21:43:47.232356+05:30'
-last_checked: '2026-06-29T21:43:47.232356+05:30'
+first_seen: '2026-06-30T01:48:10.613222+05:30'
+last_seen: '2026-06-30T01:48:10.613222+05:30'
+last_checked: '2026-06-30T01:48:10.613222+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance metrics.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance metrics (e.g., answer relevance, context precision).
 
-- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking with built-in metrics for end-to-end RAG pipeline analysis.
+- **Modular Pipeline & Benchmarking**: Provides a Python-based framework with configurable components (e.g., document parsers, embeddings, retrievers) and built-in benchmarking tools for standardized RAG system evaluation across datasets.
 
-- **Open-Source Python Framework**: Provides modular components for RAG operations (e.g., `rag-evaluation`, `llm-ops`) with extensible APIs for custom dataset integration and AutoML-driven hyperparameter optimization.
+- **Open-Source & Scalable**: Supports large-scale RAG operations (LLM-Ops) with parallel processing, integrates with popular LLMs, and includes tools for document parsing, embedding generation, and automated hyperparameter optimization.
 
 ## Why It Matters
 

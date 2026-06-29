@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-29T21:45:17.285573+05:30'
-published_at: '2026-06-29T15:40:26Z'
+collected_at: '2026-06-30T01:49:35.675681+05:30'
+published_at: '2026-06-29T17:05:25Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
-- workflows
-stars: 2319
+stars: 2320
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-29T21:45:17.285573+05:30'
-last_seen: '2026-06-29T21:45:17.285573+05:30'
-last_checked: '2026-06-29T21:45:17.285573+05:30'
+first_seen: '2026-06-30T01:49:35.675681+05:30'
+last_seen: '2026-06-30T01:49:35.675681+05:30'
+last_checked: '2026-06-30T01:49:35.675681+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment, fine-tuning, and real-world projects aligned with AI application engineer roles.
+- **Comprehensive 2026 AI Agent Guide**: Covers end-to-end AI agent development, from foundational concepts (LLMs, RAG, prompts) to enterprise deployment, fine-tuning, and production-grade projects, aligned with roles like "Large Model Application Development Engineer."
 
-- **Full-Stack Learning Path**: Integrates hands-on projects, interview prep, and deployment workflows (skills, RAG, LLM) with tools like Cursor and DeepAgents, targeting end-to-end agentic AI development from zero to production.
+- **Toolchain & Frameworks**: Integrates LangChain, LangGraph, Coze, Dify, MCP, and Skills, with practical implementations and comparisons for building agentic systems.
 
-- **Enterprise & Interview Readiness**: Includes enterprise-grade deployment strategies, model fine-tuning, and a curated interview question database, ensuring alignment with 2026 AI agent application development job requirements.
+- **Interview & Deployment Focus**: Includes a curated interview question bank, project-based learning (0 → enterprise-grade), and deployment strategies for AI agents in production environments.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2319
+- Stars: 2320
 - Forks: 302
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-06-29T15:40:26Z
+- Last Updated: 2026-06-29T17:05:25Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

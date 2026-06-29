@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - python
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resources**: Repository aggregating community-driven guides, agents, skills, and configurations to enhance GitHub Copilot's utility across development workflows.
-- **Technical Scope**: Focuses on Python-based implementations, prompt engineering techniques, and custom agent development for AI-driven coding assistance.
-- **Community & Maintenance**: Actively maintained with 35.9K+ stars and 4.4K+ forks, incorporating contributions under hacktoberfest and frequent updates (last sync: 20
+- **Curated Repository**: Hosts community-driven resources (instructions, agents, skills, configs) to optimize GitHub Copilot usage, with 35,912 stars and 4,441 forks.
+- **Technical Scope**: Focuses on AI-driven agent skills, prompt engineering, and custom agent configurations, primarily in Python.
+- **Active Maintenance**: Last updated June 29, 2026, with topics including `agent-skills`, `hacktoberfest`, and `github-copilot`.
 
 ## Use Cases
 

@@ -6,17 +6,18 @@ source_url: https://docs.kernel.org/
 resource_id: blog:the-linux-kernel-documentation-the-linux-kernel-do
 local_vault_path: ai/resources/the-linux-kernel-documentation-the-linux-kernel-do.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
-importance: high
+resource_kind: framework
+importance: medium
 tags:
+- hackernews
 - reddit
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Linux Kernel documentation — The Linux Kernel documentation
@@ -24,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Kernel Development Workflow**: The Linux Kernel documentation provides structured guides for kernel development, including patch submission (`Submitting patches`), community interaction (`Development process`, `Code of conduct`), and maintainer-specific processes (`Maintainer handbook`).
+- **Kernel Development Workflow**: The Linux Kernel documentation outlines the structured process for contributing to the kernel, including patch submission guidelines, community interaction protocols (e.g., `linux-doc@vger.kernel.org`), and maintainer handbook specifications for upstream integration.
 
-- **Core & Subsystem APIs**: Comprehensive documentation covers internal APIs such as `Core API`, `Driver APIs`, `Subsystems`, and `Locking mechanisms`, essential for kernel developers interfacing with the
+- **Core & Subsystem APIs**: Provides detailed technical references for kernel internal APIs, including core subsystems, driver interfaces, synchronization primitives (locking), and architecture-s
 
 ## Use Cases
 

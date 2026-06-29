@@ -4,12 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-29T21:43:52.257994+05:30'
+collected_at: '2026-06-30T01:48:10.604535+05:30'
 published_at: '2026-06-29T14:05:32Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- models
 - python
 - rag
 stars: 1960
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-29T21:43:52.257994+05:30'
-last_seen: '2026-06-29T21:43:52.257994+05:30'
-last_checked: '2026-06-29T21:43:52.257994+05:30'
+first_seen: '2026-06-30T01:48:10.604535+05:30'
+last_seen: '2026-06-30T01:48:10.604535+05:30'
+last_checked: '2026-06-30T01:48:10.604535+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, targeting ACL 2026.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance in downstream tasks.
 
-- **Architectural Efficiency**: Optimizes retrieval and generation stages via lightweight model distillation and modular design, enabling deployment on resource-constrained hardware without sacrificing accuracy.
+- **Modular Architecture**: Implements a lightweight, modular design with decoupled retrieval and generation components, enabling efficient fine-tuning and deployment on resource-constrained hardware.
 
-- **Open-Source Implementation**: Provides a Python-based, modular codebase (1960+ stars) with pre-trained models, evaluation tools, and integration support for custom datasets, last updated June 2026.
+- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., KILT, BEIR) with models <1B parameters, outperforming larger proprietary models in efficiency and scalability.
 
 ## Why It Matters
 

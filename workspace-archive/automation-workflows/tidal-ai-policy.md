@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by hn8726. Score: 183, Comments: 214.
+Hacker News story by hn8726. Score: 266, Comments: 302.
 Original Link: https://tidal.com/ai-policy
 
 ## Use Cases

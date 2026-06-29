@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/GenAI_Agents
-collected_at: '2026-06-29T21:45:12.309159+05:30'
+collected_at: '2026-06-30T01:49:35.636789+05:30'
 published_at: '2026-06-29T15:06:53Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - jupyter notebook
 - openai
 - rag
+- workflows
 stars: 22925
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-09-09T20:10:19Z'
 pushed_at: '2026-06-17T20:54:15Z'
 resource_id: github:nirdiamant/genai_agents
-first_seen: '2026-06-29T21:45:12.309159+05:30'
-last_seen: '2026-06-29T21:45:12.309159+05:30'
-last_checked: '2026-06-29T21:45:12.309159+05:30'
+first_seen: '2026-06-30T01:49:35.636789+05:30'
+last_seen: '2026-06-30T01:49:35.636789+05:30'
+last_checked: '2026-06-30T01:49:35.636789+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Tutorial Repository**: 50+ Jupyter Notebook-based tutorials covering Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems, with implementations in Python.
+- **Comprehensive Resource**: Repository containing **50+ tutorials** covering Generative AI Agent techniques, spanning from **basic conversational bots** to **complex multi-agent systems**, with implementations in **Jupyter Notebooks**.
 
-- **Key Technologies & Frameworks**: Focus on agentic AI, LangChain, LangGraph, LLMs (OpenAI), RAG, MCP, and multi-agent orchestration, with practical examples for autonomous agent development.
+- **Technical Scope**: Focuses on **agentic AI**, **autonomous agents**, **LangChain**, **LangGraph**, **LLMs**, **RAG**, and **multi-agent architectures**, with integrations for **OpenAI**, **MCP**, and **Python**-based workflows.
 
-- **High Community Engagement**: 22,925 stars and 3,852 forks, indicating strong adoption, frequent updates (last commit: 2026-06-29), and relevance in AI agent research and deployment.
+- **High Activity & Relevance**: **22,925 stars**, **3,852 forks**, last updated **June 29, 2026**, ensuring up-to-date content for **GenAI**, **AI agents**, and **machine learning** applications.
 
 ## Why It Matters
 

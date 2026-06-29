@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-06-29T21:43:22.310006+05:30'
+collected_at: '2026-06-30T01:47:40.593088+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -13,8 +13,6 @@ tags:
 - models
 - openai
 - rag
-- reddit
-- workflows
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-06-29T21:43:22.310006+05:30'
-last_seen: '2026-06-29T21:43:22.310006+05:30'
-last_checked: '2026-06-29T21:43:22.310006+05:30'
+first_seen: '2026-06-30T01:47:40.593088+05:30'
+last_seen: '2026-06-30T01:47:40.593088+05:30'
+last_checked: '2026-06-30T01:47:40.593088+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering core RAG concepts, hybrid search (vector + keyword), quantization techniques (binary/scalar), and multimodal retrieval, with hands-on Jupyter Notebook exercises.
+- **Comprehensive RAG Mastery Curriculum**: A structured 5-week learning path covering core RAG concepts, implementation strategies, and advanced techniques (e.g., hybrid search, quantization methods like binary/scalar, and Matryoshka representation learning) using Jupyter Notebooks.
 
-- **Advanced Retrieval & Indexing Techniques**: Implements HNSW for approximate nearest neighbor search, Matryoshka representation learning for dynamic embedding sizes, and Azure-optimized pipelines for scalable vector/keyword hybrid search.
+- **Azure & OpenAI Integration**: Focuses on deploying RAG pipelines in Azure environments, leveraging OpenAI models (e.g., GPT) for retrieval-augmented generation, with emphasis on responsible AI practices and multimodal capabilities.
 
-- **Responsible AI & Tooling Integration**: Focuses on responsible AI practices, OpenAI/GPT integration, and Visual Studio Code-based workflows, with emphasis on binary quantization for efficient LLM inference and retrieval.
+- **Optimized Search & Indexing**: Implements HNSW (Hierarchical Navigable Small World) for vector search, combines keyword and vector search for hybrid retrieval, and includes indexing techniques for scalable, low-latency performance in VS Code.
 
 ## Why It Matters
 

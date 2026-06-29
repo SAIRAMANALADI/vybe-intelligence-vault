@@ -6,7 +6,7 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Onyx** is an open-source AI platform enabling AI chat with advanced features, supporting integration with any LLM (Large Language Model) via Python backend.
-- **Key capabilities** include enterprise-grade information retrieval, RAG (Retrieval-Augmented Generation), and vector search, with a Next.js-based chat UI for seamless interaction.
-- **Deployment flexibility** allows self-hosting, with support for scalable vector databases and modular architecture for custom AI workflows.
+- **Modular AI Chat Platform**: Open-source Python-based system supporting cross-LLM compatibility with advanced chat features, enterprise search, and RAG (Retrieval-Augmented Generation) capabilities for enhanced information retrieval.
+
+- **Full-Stack Architecture**: Combines Next.js frontend for UI with Python backend, enabling self-hosted deployment, vector search, and scalable Gen-AI workflows.
+
+- **Enterprise & Self-Hosting Focus**: Designed for production use with features like multi-LLM i
 
 ## Use Cases
 

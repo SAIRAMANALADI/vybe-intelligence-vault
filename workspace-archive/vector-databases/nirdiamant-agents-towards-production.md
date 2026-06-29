@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment.
-- **Technical Scope**: Focuses on agent frameworks (e.g., LangGraph), multi-agent systems, RAG, MCP integration, and MLOps practices with Python and Jupyter Notebooks.
-- **Key Features**: Includes observability, deployment strategies, and tutorials on LLMs, GenAI, and agentic AI systems.
+- **End-to-end GenAI agent development**: Provides code-first tutorials covering the full pipeline from prototype to enterprise deployment, including LangGraph, MCP, RAG, and multi-agent systems.
+- **Production-grade focus**: Covers MLOps, observability, and deployment strategies for scalable, enterprise-ready GenAI agents.
+- **Technical stack**: Primarily implemented in Python with Jupyter Notebooks, leveraging LLMs, agent frameworks, and agentic AI methodologies.
 
 ## Use Cases
 

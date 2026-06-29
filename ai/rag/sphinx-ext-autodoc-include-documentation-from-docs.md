@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc
-published_at: '2026-06-29T10:38:22.968712+05:30'
-collected_at: '2026-06-29T10:38:22.968725+05:30'
+published_at: '2026-06-30T01:52:29.692808+05:30'
+collected_at: '2026-06-30T01:52:29.692824+05:30'
 tags:
 - benchmark
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sphinx-ext-autodoc-include-documentation-from-docs
-first_seen: '2026-06-29T10:38:22.968725+05:30'
-last_seen: '2026-06-29T10:38:22.968725+05:30'
-last_checked: '2026-06-29T10:38:22.968725+05:30'
+first_seen: '2026-06-30T01:52:29.692824+05:30'
+last_seen: '2026-06-30T01:52:29.692824+05:30'
+last_checked: '2026-06-30T01:52:29.692824+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **`sphinx.ext.autodoc`** automates Python documentation generation by parsing docstrings from modules, classes, functions, and attributes using directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, etc.
+- **`sphinx.ext.autodoc`** automates documentation generation by parsing Python docstrings and module structures, supporting directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, and `.. autodata::` to include API references with configurable options (e.g., `:members:`, `:exclude-members:`, `:inherited-members:`).
 
-- Key configuration options include `autoclass_content` (control docstring inheritance), `autodoc_typehints` (format/type of type hints in output), and `autodoc_member_order` (order of documented members).
+- **Configuration** is controlled via `conf.py` with parameters such as `autoclass_content` (class docstring sources), `autodoc_member_order` (sorting), `autodoc_typehints` (formatting), and `autodoc_mock_imports` (stubbing dependencies), enabling fine-grained control over docstring preprocessing and output.
 
-- Supports preprocessing via `cut_lines()`/`between()` for docstring filtering and provides fine-grained control over documented members using options like `:members:`, `:exclude-members:`, and `:private-members:`.
+- **Docstring preprocessing** supports tools like `cut_lines()` and `between()` to filter content, while **skipping members** and **legacy class-based** modes (`autodoc_use_legacy_class_based`) allow exclusion of private/undocumented elements or backward compatibility with older Sphinx versions.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:38:22.968712+05:30
+- Published: 2026-06-30T01:52:29.692808+05:30
 
 ## Related Tags
 

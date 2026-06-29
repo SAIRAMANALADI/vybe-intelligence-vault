@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-29T21:43:37.306471+05:30'
+collected_at: '2026-06-30T01:47:55.674936+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - hackernews
 - python
 - rag
+- scripts
 - workflows
 stars: 313
 language: Python
@@ -21,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-29T21:43:37.306471+05:30'
-last_seen: '2026-06-29T21:43:37.306471+05:30'
-last_checked: '2026-06-29T21:43:37.306471+05:30'
+first_seen: '2026-06-30T01:47:55.674936+05:30'
+last_seen: '2026-06-30T01:47:55.674936+05:30'
+last_checked: '2026-06-30T01:47:55.674936+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven research workflows.
+- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for rapid prototyping and deployment.
 
-- **Key Components**: Includes pre-configured pipelines for document ingestion, embedding, vector storage (e.g., Chroma/FAISS), and LLM integration (e.g., LangChain’s `RetrievalQA` or custom agent frameworks).
+- **Key Components**: Includes modular Python scripts for document ingestion, vector storage (e.g., Chroma/FAISS), and agent-based query processing with LLM integration (e.g., LangChain's `ConversationalRetrievalChain`).
 
-- **Technical Stack**: Python-based, leveraging LangChain’s modular architecture, with dependencies on libraries like `langchain`, `pydantic`, and vector DB clients (e.g., `chromadb`, `faiss-cpu`).
+- **Technical Stack**: Leverages Python with dependencies like `langchain`, `pydantic`, and vector DB clients; designed for extensibility with custom retrievers, tools, or multi-agent workflows.
 
 ## Why It Matters
 

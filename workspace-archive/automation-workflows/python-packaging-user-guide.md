@@ -2,13 +2,13 @@
 title: Python Packaging User Guide
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://packaging.python.org
+source_url: https://packaging.python.org/
 resource_id: blog:python-packaging-user-guide
 local_vault_path: ai/resources/python-packaging-user-guide.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 tags:
 - models
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Ecosystem Overview**: Python Packaging User Guide provides structured documentation on modern tools for distributing and installing Python packages, maintained by the PyPA on GitHub with open contributions.
-- **Resource Structure**: Organized into tutorials (e.g., packaging projects, dependency management), guides (task-specific instructions), discussions (in-depth topics like pip vs. easy_install), and references (PyPA specs, glossary, and key projects).
-- **Workflow Guidance**: Includes an
+- **Python Packaging User Guide** maintained by PyPA provides tutorials and references for distributing and installing Python packages using modern tools.
+- **Key sections** include tutorials (e.g., installing packages, managing dependencies, packaging projects), guides (e.g., package installation, building/distributing packages), and discussions (e.g., deploying applications, pip vs. easy_install).
+- **Reference materials** include PyPA specifications, key projects list, and a glossary of Pytho
 
 ## Use Cases
 
@@ -44,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://packaging.python.org
+Original source URL: https://packaging.python.org/
 
 ## Local Vault File
 

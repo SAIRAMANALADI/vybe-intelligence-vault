@@ -4,8 +4,8 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jupyterlab/jupyterlab
-collected_at: '2026-06-29T01:25:08.587289+05:30'
-published_at: '2026-06-28T15:08:36Z'
+collected_at: '2026-06-30T01:57:12.055338+05:30'
+published_at: '2026-06-29T18:33:57Z'
 tags:
 - github-repo
 - typescript
@@ -16,11 +16,11 @@ status: active
 license: BSD-3-Clause
 archived: false
 created_at: '2016-06-03T20:09:17Z'
-pushed_at: '2026-06-28T11:35:25Z'
+pushed_at: '2026-06-29T12:46:47Z'
 resource_id: github:jupyterlab/jupyterlab
-first_seen: '2026-06-29T01:25:08.587289+05:30'
-last_seen: '2026-06-29T01:25:08.587289+05:30'
-last_checked: '2026-06-29T01:25:08.587289+05:30'
+first_seen: '2026-06-30T01:57:12.055338+05:30'
+last_seen: '2026-06-30T01:57:12.055338+05:30'
+last_checked: '2026-06-30T01:57:12.055338+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript-based JupyterLab**: A modular, extensible computational environment built with TypeScript, enabling interactive data science and scientific computing workflows.
-- **GitHub Metrics**: 15,218 stars, 4,027 forks, last updated on 2026-06-28, with active development in the Jupyter ecosystem.
-- **Core Features**: Supports Jupyter notebooks, interactive widgets, and integrates with Jupyter's kernel system for multi-language computation.
+- **TypeScript-based JupyterLab**: A modular, extensible computational environment built in TypeScript, enabling interactive data science and scientific computing workflows.
+- **GitHub Metrics**: 15,218 stars, 4,028 forks, last updated on 2026-06-29T18:33:57Z.
+- **Core Features**: Supports Jupyter notebooks, interactive widgets, and integrates with Jupyter ecosystem tools for enhanced computational workflows.
 
 ## Why It Matters
 
@@ -40,14 +40,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: jupyterlab
 - Stars: 15218
-- Forks: 4027
+- Forks: 4028
 - Language: TypeScript
 - Topics: jupyter, jupyterlab
-- Last Updated: 2026-06-28T15:08:36Z
+- Last Updated: 2026-06-29T18:33:57Z
 - License: BSD-3-Clause
 - Archived: No
 - Created At: 2016-06-03T20:09:17Z
-- Pushed At: 2026-06-28T11:35:25Z
+- Pushed At: 2026-06-29T12:46:47Z
 
 ## Possible Use Cases
 

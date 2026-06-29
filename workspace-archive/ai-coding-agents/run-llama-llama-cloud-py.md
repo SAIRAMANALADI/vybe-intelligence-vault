@@ -34,8 +34,10 @@ selection_reason:
 ## Summary
 
 - **Python SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llama-cloud-py` repository, enabling structured extraction from unstructured documents.
-- **Key Features**: Supports information extraction, parsing, and document processing with integrations for agents and document agents, optimized for Python environments.
-- **Metadata**: 45 stars, 10 forks, last updated 2026-06-29; focuses on OCR, parsing, and document-agent workflows.
+
+- **Key Features**: Supports document processing workflows with `document-agent`, `information-extraction`, and OCR functionalities, optimized for integration with Llama ecosystem tools.
+
+- **Metadata**: 45 stars, 10 forks, last updated on **2026-06-29**; primarily written in Python, with topics including `ll
 
 ## Use Cases
 

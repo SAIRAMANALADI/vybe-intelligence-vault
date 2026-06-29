@@ -2,7 +2,7 @@
 title: YAML Ain’t Markup Language (YAML™) revision 1.2.2
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://yaml.org/spec/1.2.2
+source_url: https://yaml.org/spec/1.2.2/#chapter-1-introduction-to-yaml
 resource_id: blog:yaml-aint-markup-language-yamltm-revision-1-2-2
 local_vault_path: ai/rag/yaml-aint-markup-language-yamltm-revision-1-2-2.md
 quality_score: 70
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **YAML 1.2.2 Specification**: Revision 1.2.2 (2021-10-01) corrects errors and clarifies the YAML 1.2 data language without normative changes, while transitioning to an open, Markdown-based development process with public source hosting.
+- **YAML 1.2.2 Specification**: Defines YAML 1.2 data language with no normative changes from v1.2, focusing on error correction, clarity, and process transparency (Markdown-based, LaTeX-derived images, public source hosting).
 
-- **Core Language Features**: YAML is a human-friendly, Unicode-based serialization language supporting mappings, sequences, and scalars, with optional typing and aliasing for native data structure representation.
+- **Core Data Model**: YAML is a human-friendly, Unicode-based serialization language using three primitives—mappings (key-value pairs), sequences (lists/arrays), and scalars (strings/numbers)—with optional typing and aliasing for native data structure representation.
 
-- **Processing Model**: Defines serialization
+-
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://yaml.org/spec/1.2.2
+Original source URL: https://yaml.org/spec/1.2.2/#chapter-1-introduction-to-yaml
 
 ## Local Vault File
 

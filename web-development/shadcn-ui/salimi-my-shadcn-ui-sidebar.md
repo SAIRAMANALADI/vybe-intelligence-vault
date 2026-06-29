@@ -4,8 +4,8 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/salimi-my/shadcn-ui-sidebar
-collected_at: '2026-06-27T14:20:27.651380+05:30'
-published_at: '2026-06-27T05:45:31Z'
+collected_at: '2026-06-30T01:46:50.011440+05:30'
+published_at: '2026-06-29T16:46:18Z'
 tags:
 - frontend_ui
 stars: 1800
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:salimi-my/shadcn-ui-sidebar
 first_seen: '2026-06-12T10:40:21.841535+00:00'
-last_seen: '2026-06-27T14:20:27.651380+05:30'
-last_checked: '2026-06-27T14:20:27.651380+05:30'
+last_seen: '2026-06-30T01:46:50.011440+05:30'
+last_checked: '2026-06-30T01:46:50.011440+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 - Forks: 214
 - Language: TypeScript
 - Topics: admin-panel, dashboard, nextjs, shadcn-ui, sidebar, tailwind
-- Last Updated: 2026-06-27T05:45:31Z
+- Last Updated: 2026-06-29T16:46:18Z
 
 ## Possible Use Cases
 

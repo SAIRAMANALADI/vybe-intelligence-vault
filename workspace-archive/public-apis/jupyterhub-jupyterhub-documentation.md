@@ -13,7 +13,6 @@ importance: medium
 tags:
 - hackernews
 - producthunt
-- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -34,9 +33,8 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: JupyterHub consists of four core subsystems—a **Tornado-based Hub** (process management), a **configurable HTTP proxy** (node-http-proxy), **single-user Jupyter servers** (spawned per user via Spawners), and an **authentication layer** (extensible via `config.py`).
-- **Scalability Models**: Supports two distributions—**The Littlest JupyterHub** (1–100 users, single-server) and **Zero to JupyterHub with Kubernetes** (dynamic cloud scaling via Kubernetes).
-- **API & Admin**: Pr
+- **Architecture**: JupyterHub consists of four core subsystems: a **Tornado-based Hub** (central process), a **configurable HTTP proxy** (node-http-proxy), **multi-user single-server instances** (Python/IPython/Tornado) managed by Spawners, and an **authentication layer** (extensible via `config.py`).
+- **Deployment Modes**: Supports two primary distributions—**The Littlest JupyterHub** (single-server, 1–100 users) and **Zero to JupyterHub with Kubernetes** (dynamic cloud scaling via Kubernetes
 
 ## Use Cases
 

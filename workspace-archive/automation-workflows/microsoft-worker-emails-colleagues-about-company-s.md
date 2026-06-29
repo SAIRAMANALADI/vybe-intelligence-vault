@@ -1,0 +1,49 @@
+---
+title: Microsoft worker emails colleagues about company's support for genocidal Israel
+archive_category: automation-workflows
+source_category: ai/community
+source_url: https://thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails
+resource_id: hackernews:microsoft-worker-emails-colleagues-about-company-s
+local_vault_path: ai/community/microsoft-worker-emails-colleagues-about-company-s.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: workflow
+importance: medium
+tags:
+- ai
+- hackernews
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Microsoft worker emails colleagues about company's support for genocidal Israel
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Hacker News story by DeusExMachina. Score: 5, Comments: 0.
+Original Link: https://www.thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails/
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://thecanary.co/global/world-analysis/2026/06/26/microsoft-worker-emails
+
+## Local Vault File
+
+Path: [microsoft-worker-emails-colleagues-about-company-s.md](../../ai/community/microsoft-worker-emails-colleagues-about-company-s.md)

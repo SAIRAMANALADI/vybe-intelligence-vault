@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://readthedocs.org
-published_at: '2026-06-29T21:46:28.510342+05:30'
-collected_at: '2026-06-29T21:46:28.510354+05:30'
+published_at: '2026-06-30T01:50:51.396328+05:30'
+collected_at: '2026-06-30T01:50:51.396336+05:30'
 tags:
 - agents
 - web-crawled
 - workflows
 status: active
 resource_id: blog:full-featured-documentation-deployment-platform-re
-first_seen: '2026-06-29T21:46:28.510354+05:30'
-last_seen: '2026-06-29T21:46:28.510354+05:30'
-last_checked: '2026-06-29T21:46:28.510354+05:30'
+first_seen: '2026-06-30T01:50:51.396336+05:30'
+last_seen: '2026-06-30T01:50:51.396336+05:30'
+last_checked: '2026-06-30T01:50:51.396336+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code for Documentation**: Enables Git-based documentation workflows with automated builds, previews, and versioning via `.readthedocs.yaml` configuration, supporting tools like Sphinx and MkDocs.
+- **Infrastructure-as-a-Service for Documentation**: Automates builds, previews, and hosting for docs-as-code workflows, eliminating manual pipeline management for engineering and documentation teams.
 
-- **AI-Ready & Access-Control Features**: Supports AI agent integration (e.g., llms.txt, Markdown negotiation) and offers SSO (GitHub/GitLab) for permission management, with free tiers for open-source projects.
+- **Multi-Tool & Version Support**: Supports Sphinx, MkDocs, Docusaurus, and others with versioned docs, PR-based live previews, and visual diffs against production for regression detection.
 
-- **PR Preview & Versioning**: Provides live preview builds with visual diffs for pull requests and automated versioned documentation from branches/tags, ensuring consistency with product releases.
+- **Enterprise & Open Source Features**: Free for open-source projects; paid plans offer SSO (GitHub/GitLab), private repo integration, and AI agent compatibility (llms.txt, Markdown negotiation).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T21:46:28.510342+05:30
+- Published: 2026-06-30T01:50:51.396328+05:30
 
 ## Related Tags
 

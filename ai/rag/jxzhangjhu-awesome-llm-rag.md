@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-29T21:44:17.226801+05:30'
+collected_at: '2026-06-30T01:48:35.611522+05:30'
 published_at: '2026-06-29T05:59:26Z'
 tags:
 - github-repo
 - hackernews
-- models
 - rag
 - unknown
 stars: 1339
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-29T21:44:17.226801+05:30'
-last_seen: '2026-06-29T21:44:17.226801+05:30'
-last_checked: '2026-06-29T21:44:17.226801+05:30'
+first_seen: '2026-06-30T01:48:35.611522+05:30'
+last_seen: '2026-06-30T01:48:35.611522+05:30'
+last_checked: '2026-06-30T01:48:35.611522+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive list of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
+- **Curated RAG Resources**: Comprehensive collection of advanced Retrieval-Augmented Generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Technical Scope**: Focuses on retrieval-information optimization, LLM fine-tuning with augmented context, and advanced embedding models to enhance generative performance.
+- **Technical Focus**: Encompasses topics such as RAG embeddings, retrieval-information optimization, and LLM-specific RAG implementations, with emphasis on improving factual accuracy and contextual relevance in generated outputs.
 
-- **Repository Metrics**: 1,339 stars, 84 forks, last updated June 29, 2026, with topics including embeddings, LLMs, and RAG-specific methodologies.
+- **Active Maintenance**: Repository is actively updated (last commit: 2026-06-29) with contributions from the community, reflecting the latest advancements in RAG methodologies and their applications in LLMs.
 
 ## Why It Matters
 

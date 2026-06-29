@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/cupy/cupy
-published_at: '2026-06-29T21:42:25.395044+05:30'
-collected_at: '2026-06-29T21:42:25.395049+05:30'
+published_at: '2026-06-30T01:46:50.559456+05:30'
+collected_at: '2026-06-30T01:46:50.559466+05:30'
 tags:
 - github-trending
 - python
 status: active
 resource_id: github:cupy/cupy
 first_seen: '2026-06-28T19:46:54.546660+05:30'
-last_seen: '2026-06-29T21:42:25.395049+05:30'
-last_checked: '2026-06-29T21:42:25.395049+05:30'
+last_seen: '2026-06-30T01:46:50.559466+05:30'
+last_checked: '2026-06-30T01:46:50.559466+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-29T21:42:25.395044+05:30
+- Published: 2026-06-30T01:46:50.559456+05:30
 
 ## Related Tags
 

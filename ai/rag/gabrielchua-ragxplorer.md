@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-29T21:43:52.215918+05:30'
+collected_at: '2026-06-30T01:48:10.572346+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- benchmark
 - dataset
 - github-repo
 - jupyter notebook
+- models
 - rag
 stars: 1221
 language: Jupyter Notebook
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-29T21:43:52.215918+05:30'
-last_seen: '2026-06-29T21:43:52.215918+05:30'
-last_checked: '2026-06-29T21:43:52.215918+05:30'
+first_seen: '2026-06-30T01:48:10.572346+05:30'
+last_seen: '2026-06-30T01:48:10.572346+05:30'
+last_checked: '2026-06-30T01:48:10.572346+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for an interactive web interface, allowing users to dynamically explore RAG components (e.g., retrieval, generation) and their interactions via visual graphs.
-
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom datasets, models, and visualization metrics (e.g., retrieval latency, answer relevance).
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance assessment.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, generator, embeddings) with dynamic visual feedback.
+- **Python-Centric Design**: Leverages Python libraries (e.g., `langchain`, `faiss`, `plotly`) for modular RAG pipeline construction and visualization, supporting custom dataset integration.
 
 ## Why It Matters
 

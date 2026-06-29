@@ -14,13 +14,14 @@ collected_at: '2026-06-29T21:42:24.513938+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:hackerrank-open-sourced-its-ats-my-resume-scored-9
 first_seen: '2026-06-29T10:30:04.609867+05:30'
 last_seen: '2026-06-29T21:42:24.513938+05:30'
 last_checked: '2026-06-29T21:42:24.513938+05:30'
 health_score: 100
 ---
+
 
 # HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-29T21:43:32.252409+05:30'
+collected_at: '2026-06-30T01:47:55.651053+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-29T21:43:32.252409+05:30'
-last_seen: '2026-06-29T21:43:32.252409+05:30'
-last_checked: '2026-06-29T21:43:32.252409+05:30'
+first_seen: '2026-06-30T01:47:55.651053+05:30'
+last_seen: '2026-06-30T01:47:55.651053+05:30'
+last_checked: '2026-06-30T01:47:55.651053+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, enabling modular integration of retrieval and generation components.
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of deployment.
 
-- **Tutorial**: Includes step-by-step tutorials for building and deploying RAG pipelines, covering data ingestion, embedding generation, vector storage, and LLM integration.
+- **Key Components**: Includes pre-built pipelines for document ingestion, embedding generation (via Sentence-Transformers), vector storage (FAISS/Chroma), and LLM integration (e.g., Hugging Face models).
 
-- **Compatibility**: Designed for multi-platform use (local/cloud) with minimal dependencies, leveraging Python-based tools for accessibility and extensibility.
+- **Tutorial-Driven**: Provides step-by-step notebooks demonstrating end-to-end RAG workflows, from data preprocessing to query augmentation and response generation.
 
 ## Why It Matters
 
