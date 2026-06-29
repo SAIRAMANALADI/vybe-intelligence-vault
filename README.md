@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-29 21:59 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 22:19 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md)** • <kbd>+268 pts</kbd>
-- 🔼 **[Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md)** • Rank: <kbd>+1016</kbd>
-- 🔼 **[Google Cloud Platform · GitHub](ai/rag/google-cloud-platform-github.md)** • Rank: <kbd>+1465</kbd>
-- 🔼 **[Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md)** • Rank: <kbd>+1091</kbd>
-- 🔼 **[Gemini in Android Studio - Android Developers](ai/rag/gemini-in-android-studio-android-developers.md)** • Rank: <kbd>+1113</kbd>
+- No trending items found.
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Tidal AI Policy](ai/community/tidal-ai-policy.md)** • Score: `183`
-- 🆕 **[Gemini CLI installation, execution, and releases | Gemini CLI](ai/resources/gemini-cli-installation-execution-and-releases-gem.md)** • Score: `0`
-- 🆕 **[Generating content | Gemini API | Google AI for Developers](ai/rag/generating-content-gemini-api-google-ai-for-develo.md)** • Score: `0`
-- 🆕 **[API and references | Gemini for Google Cloud | Google Cloud Documentation](ai/resources/api-and-references-gemini-for-google-cloud-google.md)** • Score: `0`
-- 🆕 **[Introduction to the Agent Platform SDK for Python | Gemini Enterprise Agent Platform | Google Cloud Documentation](ai/agents/introduction-to-the-agent-platform-sdk-for-python.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Professor denounces mass AI fraud on an exam at Brown](ai/community/professor-denounces-mass-ai-fraud-on-an-exam-at-br.md)**
-- 💤 **[Librepods: AirPods liberated](ai/community/librepods-org-librepods.md)**
-- 💤 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)**
-- 💤 **[Model Training as Code](ai/community/model-training-as-code.md)**
-- 💤 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
