@@ -4,19 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-29T03:46:19.146401+05:30'
-published_at: '2026-06-27T11:53:35Z'
+collected_at: '2026-06-29T10:31:40.641392+05:30'
+published_at: '2026-06-29T00:55:35Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
 - openai
 - rag
 - workflows
-stars: 964
+stars: 965
 language: Jupyter Notebook
 status: active
 license: Apache-2.0
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-29T03:46:19.146401+05:30'
-last_seen: '2026-06-29T03:46:19.146401+05:30'
-last_checked: '2026-06-29T03:46:19.146401+05:30'
+first_seen: '2026-06-29T10:31:40.641392+05:30'
+last_seen: '2026-06-29T10:31:40.641392+05:30'
+last_checked: '2026-06-29T10:31:40.641392+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and AI agents using vector search and LLMs.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
 
-- **Tooling Integration**: Demonstrates workflows with LanceDB (vector database), LangChain, LlamaIndex, OpenAI APIs (including GPT-4 Vision), and fine-tuning techniques for embeddings and models.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines.
 
-- **Technical Focus**: Covers deep learning, embeddings optimization, and agent-based architectures with last update timestamp of **2026-06-27T11:53:35Z**.
+- **Agent & LLM Tooling**: Includes tutorials for building AI agents with OpenAI models, fine-tuning workflows, and leveraging deep-learning embeddings for multimodal and RAG applications.
 
 ## Why It Matters
 
@@ -47,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lancedb
-- Stars: 964
-- Forks: 170
+- Stars: 965
+- Forks: 171
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
-- Last Updated: 2026-06-27T11:53:35Z
+- Last Updated: 2026-06-29T00:55:35Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-25T06:10:35Z

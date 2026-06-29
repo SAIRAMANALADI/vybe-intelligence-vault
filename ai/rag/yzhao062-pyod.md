@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-06-28T19:50:34.719128+05:30'
+collected_at: '2026-06-29T10:34:20.769718+05:30'
 published_at: '2026-06-28T06:56:12Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-06-28T19:50:34.719128+05:30'
-last_seen: '2026-06-28T19:50:34.719128+05:30'
-last_checked: '2026-06-28T19:50:34.719128+05:30'
+first_seen: '2026-06-29T10:34:20.769718+05:30'
+last_seen: '2026-06-29T10:34:20.769718+05:30'
+last_checked: '2026-06-29T10:34:20.769718+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for performance evaluation.
 
-- **Agentic & Benchmark-Driven Orchestration**: Features ADEngine for automated detector selection/ensemble optimization, and integrates agentic workflows for AI-driven anomaly detection pipelines.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously orchestrate anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive detection strategies.
 
-- **Foundation for Fraud & OOD Detection**: Optimized for fraud detection, out-of-distribution (OOD) analysis, and novelty detection, leveraging deep learning and unsupervised methods with benchmark-backed validation.
+- **Multimodal & Fraud Detection Focus**: Specialized modules for graph anomaly detection, NLP-based novelty detection, and fraud detection, with support for unsupervised learning and out-of-distribution (OOD) scenarios.
 
 ## Why It Matters
 

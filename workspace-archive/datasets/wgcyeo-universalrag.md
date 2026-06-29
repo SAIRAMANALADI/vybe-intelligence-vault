@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) over diverse data modalities (text, images, tables, etc.) and granularities (document-level to fine-grained spans), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level retrieval) via modality-specific encoders and hierarchical indexing.
 
-- **Modular Architecture**: Implements a plug-and-play system with modality-specific encoders, a shared retrieval index, and a modality-agnostic generator, supporting dynamic modality fusion and hierarchical retriev
+- **Dynamic Retrieval Routing**: Implements an adaptive retrieval mechanism that dynamically selects optimal retrieval strategies (dense, sparse, or hybrid) based on query complexity and corpus charac
 
 ## Use Cases
 

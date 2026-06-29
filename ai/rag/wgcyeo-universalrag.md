@@ -4,10 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-29T03:47:49.155705+05:30'
+collected_at: '2026-06-29T10:33:10.705194+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
-- benchmark
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-29T03:47:49.155705+05:30'
-last_seen: '2026-06-29T03:47:49.155705+05:30'
-last_checked: '2026-06-29T03:47:49.155705+05:30'
+first_seen: '2026-06-29T10:33:10.705194+05:30'
+last_seen: '2026-06-29T10:33:10.705194+05:30'
+last_checked: '2026-06-29T10:33:10.705194+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), addressing heterogeneity in real-world corpora.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces a unified retrieval-augmented generation (RAG) system supporting diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence-level retrieval) via modality-specific encoders and hierarchical indexing.
 
-- **Unified Retrieval Mechanism**: Proposes a modality-agnostic retrieval system with adaptive granularity selection, leveraging learned embeddings and cross-modal attention to dynamically prioritize relevant information regardless of input structure.
+- **Dynamic Retrieval Routing**: Implements an adaptive retrieval mechanism that dynamically selects optimal retrieval strategies (dense, sparse, or hybrid) based on query complexity and corpus characteristics, optimizing performance across heterogeneous datasets.
 
-- **ACL 2026 Oral Contribution**: Presents an end-to-end system with benchmarks demonstrating superior performance in tasks requiring cross-modal reasoning, outperforming prior RAG methods in multimodal QA and document-grounded generation.
+- **End-to-End Optimization**: Proposes a joint training pipeline for retrieval and generation components, leveraging contrastive learning and modality alignment to mitigate cross-modal discrepancies and enhance generation quality in multimodal contexts.
 
 ## Why It Matters
 

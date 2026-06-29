@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-29T03:46:44.184828+05:30'
+collected_at: '2026-06-29T10:32:05.666195+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
+- frontend_ui
 - github-repo
 - python
 - rag
+- workflows
 stars: 156
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-29T03:46:44.184828+05:30'
-last_seen: '2026-06-29T03:46:44.184828+05:30'
-last_checked: '2026-06-29T03:46:44.184828+05:30'
+first_seen: '2026-06-29T10:32:05.666195+05:30'
+last_seen: '2026-06-29T10:32:05.666195+05:30'
+last_checked: '2026-06-29T10:32:05.666195+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining vector similarity search with keyword-based retrieval for improved accuracy.
 
-- **LangChain RAG Pipeline**: Integrates LangChain's retrieval-augmented generation (RAG) framework with a vector store (e.g., FAISS or Chroma) for context-aware LLM responses.
+- **LangChain Integration**: Uses LangChain’s modular components (e.g., `RetrievalQA`, `VectorStoreRetriever`) to chain document retrieval with LLM inference, showcasing end-to-end RAG workflows.
 
-- **Streamlit UI**: Provides a Streamlit-based web interface for querying and visualizing RAG results, with real-time interaction and hybrid search result fusion.
+- **Streamlit UI**: Provides a real-time interactive interface for querying documents, visualizing retrieval results, and displaying generated responses, leveraging Streamlit’s reactive framework.
 
 ## Why It Matters
 
@@ -42,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: streamlit
 - Stars: 156
-- Forks: 81
+- Forks: 80
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-26T07:34:34Z

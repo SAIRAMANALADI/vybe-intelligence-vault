@@ -15,9 +15,9 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Main Page « WordPress Codex](https://codex.wordpress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Score: 70) - Category: `ai-coding-agents/`
 *   [crewAIInc/crewAI Release: 1.15.1](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
+*   ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://arxiv.org/abs/2308.05201) (Score: 70) - Category: `ai-coding-agents/`
 *   [What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/) (Score: 70) - Category: `ai-coding-agents/`
 *   [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
-*   [Essential GraphRAG - Tomaž Bratanič and Oskar Hane](https://www.manning.com/books/essential-graphrag) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

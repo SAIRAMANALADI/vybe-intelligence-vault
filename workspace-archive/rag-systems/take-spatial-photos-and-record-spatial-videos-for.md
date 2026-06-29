@@ -3,7 +3,7 @@ title: Take spatial photos and record spatial videos for Apple Vision Pro with y
   iPhone camera - Apple Support
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-ios-iph6e3a6d4fe/ios
+source_url: https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios
 resource_id: blog:take-spatial-photos-and-record-spatial-videos-for
 local_vault_path: ai/rag/take-spatial-photos-and-record-spatial-videos-for.md
 quality_score: 70
@@ -16,6 +16,7 @@ tags:
 - openai
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - youtube
@@ -37,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **iOS 26 Compatibility & Models**: iOS 26 supports iPhone models from iPhone 11 to iPhone 17 series, including SE (2nd/3rd gen), 12/13/14/15/16/17 variants, and new models like iPhone Air and iPhone 17e.
-- **Key iOS 26 Features**: Introduces advanced battery management (Thermally Limited Charging, Power Modes), enhanced spatial photo/video capture for Vision Pro integration, and refined Focus/Do Not Disturb customization.
-- **Hardware-Software Integration**: Detailed setup guides for cellular
+- **iOS 26 Compatibility & Models**: iOS 26 supports iPhone models from iPhone 11 and later, including iPhone SE (2nd/3rd gen), iPhone 12/13/14/15/16/17 series, and iPhone Air/17e.
+- **Battery & Power Management**: iOS 26 introduces advanced battery features like optimized charging, charge limits, thermally limited charging, and Power Modes to extend battery lifespan and efficiency.
+- **Multitasking & UI Enhancements**: iOS 26 supports Picture in Picture, Dynamic Island Live Activities, customiz
 
 ## Use Cases
 
@@ -49,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-ios-iph6e3a6d4fe/ios
+Original source URL: https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios
 
 ## Local Vault File
 

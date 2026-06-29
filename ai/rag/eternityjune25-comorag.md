@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-29T03:47:44.136211+05:30'
+collected_at: '2026-06-29T10:33:05.790181+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-29T03:47:44.136211+05:30'
-last_seen: '2026-06-29T03:47:44.136211+05:30'
-last_checked: '2026-06-29T03:47:44.136211+05:30'
+first_seen: '2026-06-29T10:33:05.790181+05:30'
+last_seen: '2026-06-29T10:33:05.790181+05:30'
+last_checked: '2026-06-29T10:33:05.790181+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval.
+- **Cognitive Architecture Integration**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive memory structures, enabling stateful long narrative reasoning.
 
-- **Stateful Reasoning Mechanism**: Implements dynamic memory organization to maintain context consistency across extended dialogues or narratives, leveraging episodic and semantic memory modules for hierarchical retrieval.
+- **Stateful Reasoning Mechanism**: Implements dynamic memory updates and hierarchical retrieval to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
 
-- **AAAI 2026 Contribution**: Presents a novel approach to RAG systems, optimizing for long-form reasoning tasks by emulating human-like memory recall and contextual adaptation in Python-based implementations.
+- **AAAI 2026 Poster Submission**: Presents empirical evaluations demonstrating superior performance in long-form reasoning tasks compared to traditional RAG systems, with codebase available in Python.
 
 ## Why It Matters
 

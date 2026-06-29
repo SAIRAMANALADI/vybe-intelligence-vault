@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeberg.org/allauth/django-allauth
-published_at: '2026-06-29T01:22:27.328842+05:30'
-collected_at: '2026-06-29T01:22:27.328856+05:30'
+published_at: '2026-06-29T10:38:21.028826+05:30'
+collected_at: '2026-06-29T10:38:21.028839+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:allauth-django-allauth-integrated-set-of-django-ap
-first_seen: '2026-06-29T01:22:27.328856+05:30'
-last_seen: '2026-06-29T01:22:27.328856+05:30'
-last_checked: '2026-06-29T01:22:27.328856+05:30'
+first_seen: '2026-06-29T10:38:21.028839+05:30'
+last_seen: '2026-06-29T10:38:21.028839+05:30'
+last_checked: '2026-06-29T10:38:21.028839+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Django-allauth** is a comprehensive Django application suite providing authentication, registration, account management, and third-party (social) authentication integration, including support for OAuth2, OpenID Connect, SAML, WebAuthn, and passkeys.
+- **Django-allauth** is a comprehensive Django package integrating authentication, registration, account management, and third-party (social) authentication (OAuth2, OpenID Connect, SAML, WebAuthn, passkeys).
 
-- **Repository metrics**: 4,113 commits, 24 branches, 122 tags, 51 MiB total size with 95.3% Python, 3.9% HTML, and 0.7% JavaScript; CI/CD via Woodpecker with recent commits introducing cache-control headers for JWKs responses and key rotation support.
+- **Key features** include local and social authentication flows, email verification, multi-factor authentication (MFA), and support for providers like Klaviyo, with 95.3% Python and 3.9% HTML codebase.
 
-- **Features**: Supports multi-factor authentication (MFA), social account providers (e.g., Klaviyo), email verification, and template customization; recent updates include refactoring for `IDP_OIDC_PRIVATE_KEYS` and dropping Python 3.8/3.9 support.
+- **Repository metrics**: 4,113 commits, 24 branches, 122 tags, 113 stars, 148 forks, and CI/CD via Woodpecker with recent updates for JWKs cache-control headers and key rotation support.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:27.328842+05:30
+- Published: 2026-06-29T10:38:21.028826+05:30
 
 ## Related Tags
 

@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 - [opendevin/opendevin](https://github.com/opendevin/opendevin)
 - [DS4SD/docling](https://github.com/DS4SD/docling)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
-- [python/typeshed](https://github.com/python/typeshed)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-29 04:02 IST*
+*Last updated: 2026-06-29 10:47 IST*

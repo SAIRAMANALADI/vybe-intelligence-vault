@@ -10,7 +10,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-06-04 | [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability) | `ai-coding-agents/` | 70 |
 | 2026-05-31 | [embeddings-benchmark/leaderboardv2](https://github.com/embeddings-benchmark/leaderboardv2) | `rag-systems/` | 70 |
 | 2026-05-09 | [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) | `ai-coding-agents/` | 70 |
-| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `mcp-registry/` | 70 |
+| 2026-05-04 | [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) | `ai-coding-agents/` | 70 |
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
 | 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` | 70 |
@@ -26,15 +26,15 @@ Update cycle: Refreshed every 3 hours.
 | 2026-04-04 | [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) | `ai-coding-agents/` | 70 |
 | 2026-03-31 | [purduehackers/coding-agent-workshop-template](https://github.com/purduehackers/coding-agent-workshop-template) | `ai-coding-agents/` | 70 |
 | 2026-03-31 | [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | `ai-coding-agents/` | 70 |
+| 2026-03-31 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` | 70 |
 | 2026-03-28 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` | 70 |
 | 2026-03-24 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | `rag-systems/` | 70 |
 | 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` | 70 |
 | 2026-03-22 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | `ai-coding-agents/` | 70 |
 | 2026-03-21 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | `rag-systems/` | 70 |
 | 2026-03-18 | [G1o22/awesome-ai-agents-2026](https://github.com/G1o22/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
+| 2026-03-18 | [plusai-solutions/ai-scrum-master-template](https://github.com/plusai-solutions/ai-scrum-master-template) | `rag-systems/` | 70 |
 | 2026-03-16 | [isumitsoni/awesome-ai-pm](https://github.com/isumitsoni/awesome-ai-pm) | `evals-and-benchmarks/` | 70 |
 | 2026-03-14 | [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server) | `ai-coding-agents/` | 70 |
-| 2026-03-13 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | `ai-coding-agents/` | 70 |
-| 2026-03-12 | [jayta1314/awesome-ai-sre](https://github.com/jayta1314/awesome-ai-sre) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

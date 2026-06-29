@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-06-29T03:47:39.179405+05:30'
+collected_at: '2026-06-29T10:33:00.693952+05:30'
 published_at: '2026-06-28T19:43:28Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 643
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-06-29T03:47:39.179405+05:30'
-last_seen: '2026-06-29T03:47:39.179405+05:30'
-last_checked: '2026-06-29T03:47:39.179405+05:30'
+first_seen: '2026-06-29T10:33:00.693952+05:30'
+last_seen: '2026-06-29T10:33:00.693952+05:30'
+last_checked: '2026-06-29T10:33:00.693952+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Step-by-step guide to constructing a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker for modular, scalable deployment.
+- **Production-Ready RAG Pipeline**: Implements a modular FastAPI-based architecture for Retrieval-Augmented Generation (RAG) with Docker containerization, covering end-to-end workflows from ingestion to inference.
 
-- **GenAI Integration**: Demonstrates integration with generative AI models (e.g., LLMs) via FastAPI endpoints, emphasizing retrieval mechanisms, prompt engineering, and response synthesis.
+- **Educational Step-by-Step Guide**: Provides a structured tutorial on building scalable RAG systems, including vector database integration (e.g., Chroma/FAISS), embedding models (e.g., Sentence Transformers), and LLM interaction via APIs.
 
-- **DevOps Best Practices**: Includes Dockerized setup for environment consistency, CI/CD-ready configurations, and modular Python architecture for maintainability and scalability.
+- **GenAI Integration**: Demonstrates real-time retrieval and generation with optimizations for latency, cost, and accuracy, leveraging Python libraries like `langchain`, `pydantic`, and `uvicorn` for deployment.
 
 ## Why It Matters
 

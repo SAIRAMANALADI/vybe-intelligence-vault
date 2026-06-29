@@ -17,7 +17,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +37,9 @@ selection_reason:
 
 - **VoiceRAG Implementation**: Demonstrates interactive voice generative AI using Retrieval-Augmented Generation (RAG) with Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model for real-time audio processing.
 
-- **Technical Stack**: Python-based solution leveraging Azure AI Search (vector database) for retrieval and Azure OpenAI for generative AI, enabling end-to-end voice-based RAG workflows.
+- **Technical Stack**: Python-based solution leveraging Azure AI Search (vector database) for retrieval and Azure OpenAI for generative AI, enabling RAG-based voice interactions.
 
-- **Deployment & Integration**: Uses Azure Developer CLI (`azd`) templates for infrastru
+- **Deployment & Tooling**: Uses Azure Developer CLI (azd) templates for infrastructure-as-code
 
 ## Use Cases
 

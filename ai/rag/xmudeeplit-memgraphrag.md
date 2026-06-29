@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-29T03:47:49.225126+05:30'
+collected_at: '2026-06-29T10:33:10.758262+05:30'
 published_at: '2026-06-28T07:15:39Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 106
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-29T03:47:49.225126+05:30'
-last_seen: '2026-06-29T03:47:49.225126+05:30'
-last_checked: '2026-06-29T03:47:49.225126+05:30'
+first_seen: '2026-06-29T10:33:10.758262+05:30'
+last_seen: '2026-06-29T10:33:10.758262+05:30'
+last_checked: '2026-06-29T10:33:10.758262+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning via persistent memory structures.
+- **Memory-based Multi-Agent System**: Introduces a novel framework (MemGraphRAG) leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge graph construction and retrieval.
 
-- **Graph Construction & Ontology Integration**: Implements dynamic graph construction with ontology-driven knowledge organization, enabling efficient multi-hop reasoning and structured knowledge retrieval during generation tasks.
+- **Ontology-Driven Graph Construction**: Implements an ontology-aware approach to build and refine graph structures, enhancing semantic coherence and contextual relevance in multi-agent interactions.
 
-- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability, supporting multi-agent collaboration, graph-based memory storage, and ontology-aware RAG workflows.
+- **KDD 2026 Contribution**: Proposes a scalable, Python-based system for integrating memory mechanisms with graph RAG, optimizing long-term dependency modeling and multi-agent collaboration in knowledge-intensive tasks.
 
 ## Why It Matters
 

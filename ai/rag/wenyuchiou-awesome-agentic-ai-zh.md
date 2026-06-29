@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/WenyuChiou/awesome-agentic-ai-zh
-collected_at: '2026-06-29T03:48:29.202507+05:30'
-published_at: '2026-06-28T17:17:36Z'
+collected_at: '2026-06-29T10:33:50.785325+05:30'
+published_at: '2026-06-29T04:39:18Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - python
 - rag
 - workflows
-stars: 3416
+stars: 3432
 language: Python
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-05-04T22:18:51Z'
 pushed_at: '2026-06-24T08:49:02Z'
 resource_id: github:wenyuchiou/awesome-agentic-ai-zh
-first_seen: '2026-06-29T03:48:29.202507+05:30'
-last_seen: '2026-06-29T03:48:29.202507+05:30'
-last_checked: '2026-06-29T03:48:29.202507+05:30'
+first_seen: '2026-06-29T10:33:50.785325+05:30'
+last_seen: '2026-06-29T10:33:50.785325+05:30'
+last_checked: '2026-06-29T10:33:50.785325+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, with hands-on Python examples in English, Simplified Chinese, and Traditional Chinese.
+- **Trilingual Learning Roadmap**: Curated 240+ resources spanning LLM fundamentals to multi-agent systems, available in Traditional Chinese (繁中), English, and Simplified Chinese (简中), with hands-on Python examples and CLI tools.
 
-- **Key Topics Covered**: Includes agentic AI workflows, LLM agents, prompt engineering, RAG, CLI tools (e.g., `claude-code`), MCP (Model Context Protocol), and multi-agent architectures.
+- **Comprehensive Topics**: Covers agentic AI workflows, LLM agents, MCP (Model Context Protocol), RAG, prompt engineering, and multi-agent architectures, integrating tools like Claude Code/Skills.
 
-- **Repository Stats**: 3,416 stars, 474 forks, last updated June 28, 2026, with topics spanning AI agents, Chinese LLMs, and agentic workflows.
+- **Active Maintenance**: Last updated June 29, 2026, with 3,432 stars and 477 forks, reflecting ongoing community engagement and updates in agentic AI research and applications.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: WenyuChiou
-- Stars: 3416
-- Forks: 474
+- Stars: 3432
+- Forks: 477
 - Language: Python
 - Topics: agentic-ai, agentic-workflows, ai-agent, ai-agents, awesome-list, chinese-llm, claude-code, claude-skills, cli, learning-roadmap, llm, llm-agents, mcp, model-context-protocol, multi-agent-systems, prompt-engineering, rag, trilingual, tutorial
-- Last Updated: 2026-06-28T17:17:36Z
+- Last Updated: 2026-06-29T04:39:18Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-04T22:18:51Z

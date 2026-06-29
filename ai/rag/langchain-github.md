@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-06-29T03:49:14.859379+05:30'
-collected_at: '2026-06-29T03:49:14.859391+05:30'
+published_at: '2026-06-29T10:35:46.365435+05:30'
+collected_at: '2026-06-29T10:35:46.365448+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-06-29T03:49:14.859391+05:30'
-last_seen: '2026-06-29T03:49:14.859391+05:30'
-last_checked: '2026-06-29T03:49:14.859391+05:30'
+first_seen: '2026-06-29T10:35:46.365448+05:30'
+last_seen: '2026-06-29T10:35:46.365448+05:30'
+last_checked: '2026-06-29T10:35:46.365448+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support multi-agent planning, subagent delegation, and filesystem interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as computational graphs with structured workflows.
 
-- **Commercial & OSS Extensions**: LangSmith offers a platform for deploying and monitoring production-grade LLM apps; OSS tools like Deep Agents Code, Open SWE, MCP Adapters, and Agent Protocol extend functionality for coding agents, MCP tooling, and framework-agnostic agent APIs.
+- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution.
 
-- **Ecosystem & Learning**: Unified documentation (docs.langchain.com), community forums, and free courses (LangChain Academy) support development and adoption of LangChain’s tools and methodologies.
+- **Commercial & Extensible Tools**: LangSmith offers production-grade monitoring for LLM applications, and MCP Adapters/Agent Protocol standardize framework-agnostic APIs for deploying LLM agents in production environments.
 
 ## Why It Matters
 
@@ -38,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:49:14.859379+05:30
+- Published: 2026-06-29T10:35:46.365435+05:30
 
 ## Related Tags
 
@@ -46,6 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

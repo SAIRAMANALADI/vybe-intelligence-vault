@@ -2,7 +2,7 @@
 title: LangChain Reference Docs
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://python.langchain.com/api_reference/neo4j/chains/
+source_url: https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.GraphCypherQAChain.html
 resource_id: blog:langchain-reference-docs
 local_vault_path: ai/rag/langchain-reference-docs.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive API Coverage**: Provides unified reference documentation for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, covering Python and TypeScript packages.
-- **Detailed Class/Function Documentation**: Includes exhaustive listings of classes, functions, and types across the entire LangChain ecosystem.
-- **Separate Learning Resources**: Directs users to dedicated guides, tutorials, and conceptual documentation via the main LangChain documentation site.
+- **Comprehensive API Coverage**: Encompasses Python and TypeScript packages for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, detailing classes, functions, and types.
+- **Structured Documentation**: Provides unified reference documentation across the LangChain ecosystem for technical implementation.
+- **Separation of Resources**: Directs users to conceptual guides, tutorials, and additional documentation via the main site ([docs.langchain.com](https://docs.langchain.com)
 
 ## Use Cases
 
@@ -42,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://python.langchain.com/api_reference/neo4j/chains/
+Original source URL: https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.GraphCypherQAChain.html
 
 ## Local Vault File
 

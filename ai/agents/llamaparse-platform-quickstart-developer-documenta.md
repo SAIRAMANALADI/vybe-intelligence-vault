@@ -3,9 +3,9 @@ title: LlamaParse Platform Quickstart | Developer Documentation
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://developers.llamaindex.ai/
-published_at: '2026-06-29T03:50:23.677977+05:30'
-collected_at: '2026-06-29T03:50:23.677990+05:30'
+source_url: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card
+published_at: '2026-06-29T10:36:54.511320+05:30'
+collected_at: '2026-06-29T10:36:54.511333+05:30'
 tags:
 - agents
 - meta-ai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaparse-platform-quickstart-developer-documenta
-first_seen: '2026-06-29T03:50:23.677990+05:30'
-last_seen: '2026-06-29T03:50:23.677990+05:30'
-last_checked: '2026-06-29T03:50:23.677990+05:30'
+first_seen: '2026-06-29T10:36:54.511333+05:30'
+last_seen: '2026-06-29T10:36:54.511333+05:30'
+last_checked: '2026-06-29T10:36:54.511333+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Layout-Aware OCR**: Parse employs advanced OCR to extract text while preserving document layout, structure, and formatting for downstream LLM processing.
-- **Multi-Format Support**: Converts PDFs, scans, tables, and charts into clean markdown, plain text, or structured JSON for compatibility with LLM pipelines.
-- **Agentic Processing**: Designed as an autonomous agent for document parsing, optimizing extraction workflows for efficiency and accuracy in LLM applications.
+- **Layout-Aware OCR**: Parse performs advanced optical character recognition (OCR) while preserving document structure, enabling accurate extraction of text, tables, and charts from PDFs and scans.
+- **Multi-Format Output**: Converts parsed documents into clean markdown, plain text, or structured JSON, facilitating seamless integration with LLM pipelines.
+- **Agentic Processing**: Designed as an autonomous parser, optimized for LLM workflows to handle complex document layouts efficiently.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T03:50:23.677977+05:30
+- Published: 2026-06-29T10:36:54.511320+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://developers.llamaindex.ai/
+Original source: https://developers.llamaindex.ai/python/cloud/?utm_source=github&utm_medium=org_card

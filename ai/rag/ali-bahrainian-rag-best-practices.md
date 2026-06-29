@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ali-bahrainian/RAG_best_practices
-collected_at: '2026-06-29T03:46:54.167974+05:30'
+collected_at: '2026-06-29T10:32:15.668112+05:30'
 published_at: '2026-06-19T11:36:42Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-12-12T14:15:52Z'
 pushed_at: '2025-03-25T10:37:20Z'
 resource_id: github:ali-bahrainian/rag_best_practices
-first_seen: '2026-06-29T03:46:54.167974+05:30'
-last_seen: '2026-06-29T03:46:54.167974+05:30'
-last_checked: '2026-06-29T03:46:54.167974+05:30'
+first_seen: '2026-06-29T10:32:15.668112+05:30'
+last_seen: '2026-06-29T10:32:15.668112+05:30'
+last_checked: '2026-06-29T10:32:15.668112+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
-- **Activity Metrics**: 107 stars, 20 forks, last updated on **2026-06-19T11:36:42Z**, indicating active maintenance or recent updates.
-- **Technical Scope**: No explicit topics listed, but implied specialization in RAG optimization, retrieval strategies, and integration techniques for generative AI models.
+- **Repository**: `ali-bahrainian/RAG_best_practices` – A Python-based repository focused on best practices for Retrieval-Augmented Generation (RAG) systems.
+- **Metadata**: 107 stars, 20 forks, last updated on **2026-06-19T11:36:42Z**.
+- **Purpose**: Likely provides technical guidelines, implementations, or benchmarks for optimizing RAG pipelines (e.g., retrieval strategies, prompt engineering, or evaluation metrics).
 
 ## Why It Matters
 

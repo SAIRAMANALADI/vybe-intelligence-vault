@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Project Initialization**: Quickstart command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM app), and evaluation artifacts (datasets, experiments, logs) via `uvx ragas quickstart rag_eval`.
+- **Project Setup**: The `ragas quickstart` command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and directories for datasets, experiments, and logs.
 
-- **LLM Provider Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama) via `llm_factory` in `_init_clients()`, with API keys configured via environment variables and model-specific initialization.
+- **LLM Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama) via `llm_factory` in `evals.py`, allowing flexible model swapping with minimal code changes.
 
-- **Evaluation Workflow**:
+- **Evaluation Workflow**: Uses `SingleTurnSample` to define test cases, queries the RAG system,
 
 ## Use Cases
 

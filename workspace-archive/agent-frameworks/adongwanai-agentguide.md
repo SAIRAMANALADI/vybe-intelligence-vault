@@ -8,16 +8,19 @@ local_vault_path: ai/rag/adongwanai-agentguide.md
 quality_score: 70
 archive_score: 81
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
 - html
+- models
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # adongwanai/AgentGuide
@@ -26,14 +29,18 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 81 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+- **Comprehensive AI Agent Development Guide**: Repository provides a detailed technical guide for AI agent development, covering LangGraph, advanced RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO, SFT).
+
+- **Interview & Job-Hunting Resources**: Includes specialized content for transitioning into large model roles, with curated interview questions, algorithm engineer preparation, and job-hunting strategies for AI/ML positions.
+
+- **Technical Stack & T
 
 ## Use Cases
 

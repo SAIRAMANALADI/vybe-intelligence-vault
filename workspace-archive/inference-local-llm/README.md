@@ -23,7 +23,7 @@ https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 - [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [microsoft/rag-time](https://github.com/microsoft/rag-time)
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-29 04:01 IST*
+*Last updated: 2026-06-29 10:47 IST*

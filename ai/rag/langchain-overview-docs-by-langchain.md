@@ -3,9 +3,9 @@ title: LangChain overview - Docs by LangChain
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/docs/how_to/installation/
-published_at: '2026-06-29T01:20:56.886883+05:30'
-collected_at: '2026-06-29T01:20:56.886898+05:30'
+source_url: https://js.langchain.com
+published_at: '2026-06-29T10:35:57.002327+05:30'
+collected_at: '2026-06-29T10:35:57.002341+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-29T01:20:56.886898+05:30'
-last_seen: '2026-06-29T01:20:56.886898+05:30'
-last_checked: '2026-06-29T01:20:56.886898+05:30'
+first_seen: '2026-06-29T10:35:57.002341+05:30'
+last_seen: '2026-06-29T10:35:57.002341+05:30'
+last_checked: '2026-06-29T10:35:57.002341+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Composition**: `create_agent` provides a minimal, configurable harness combining model, tools, prompt, and middleware, enabling custom agent construction for specific use cases with support for multiple providers (OpenAI, Anthropic, Google, etc.).
+- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompts, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
 
-- **Framework Integration**: LangChain agents leverage LangGraph for durable execution, human-in-the-loop support, and persistence, while LangSmith offers observability via tracing, debugging, and evaluation of agent behavior.
+- **Hierarchical Agent Frameworks**: Deep Agents offer a "batteries-included" solution with features like automatic context compression and subagent spawning, while LangChain (`create_agent`) focuses on customizable harnesses and LangGraph provides low-level orchestration for deterministic and agentic workflows.
 
-- **Standardized Interface & Debugging**: Supports a unified model interface across providers for portability, and integrates LangSmith for real-time debugging, trace inspection, and performance evaluation of agent workflows.
+- **Observability & Integration**: LangSmith enables tracing, debugging, and evaluation of agent behavior, with LangSmith Engine monitoring traces for issue detection and fixes; LangChain agents are built on LangGraph for durable execution, human-in-the-loop support, and persistence.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:20:56.886883+05:30
+- Published: 2026-06-29T10:35:57.002327+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://python.langchain.com/docs/how_to/installation/
+Original source: https://js.langchain.com

@@ -18,6 +18,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for Retrieval-Augmented Generation (RAG) systems using black-box or white-box optimization techniques.
+- **AutoML-Style Automation**: Implements automated pipeline optimization for Retrieval-Augmented Generation (RAG) systems, including hyperparameter tuning, component selection, and end-to-end workflow automation via black-box optimization techniques.
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarks for RAG components (retriever, reranker, generator) across metrics like answer correctness, context relevance, and latency, with support for custom datasets.
-
-- **Modular Pipeline Architecture**: S
+- **Comprehensive RAG Evaluation**: Provides built-in benchmarking and analysis tools for assessing RAG performance across metrics like retrieval quality, generation coherence, and end-task accuracy, with support for custom datasets and evaluation
 
 ## Use Cases
 

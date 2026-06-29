@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-06-29T03:46:59.164102+05:30'
+collected_at: '2026-06-29T10:32:20.672272+05:30'
 published_at: '2026-06-28T11:17:20Z'
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- scripts
+- workflows
 stars: 4363
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-06-29T03:46:59.164102+05:30'
-last_seen: '2026-06-29T03:46:59.164102+05:30'
-last_checked: '2026-06-29T03:46:59.164102+05:30'
+first_seen: '2026-06-29T10:32:20.672272+05:30'
+last_seen: '2026-06-29T10:32:20.672272+05:30'
+last_checked: '2026-06-29T10:32:20.672272+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems, including source code and 12 instructor-led sessions covering LLMOps best practices.
-
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Qdrant (vector DB), Bytewax (streaming), Comet.ML (experiment tracking), and Qwak (MLOps platform) with Docker-based deployment.
-
-- **Focus Areas**: Covers ML system design, MLOps, generative AI, and infrastructure automation, emphasizing scalable, production-grade LLM/RAG pipelines.
+- **End-to-end LLM & RAG system**: Course provides hands-on implementation of production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **MLOps & infrastructure tooling**: Covers AWS, Pulumi (IaC), Docker, Qdrant (vector DB), Bytewax (streaming), Qwak (MLOps platform), and Comet.ml (experiment tracking) for scalable deployment.
+- **Python-based course**: Focuses on machine learning engineering, system design, and generative AI with practical exercises in ML system architecture and deployment workflows.
 
 ## Why It Matters
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Authentication Framework**: `django-allauth` is a Django package providing integrated solutions for authentication, registration, account management, and third-party (social) account authentication, supporting OAuth, OpenID, and email-based flows.
+- **Comprehensive Authentication Framework**: `django-allauth` is a Django package providing integrated solutions for authentication, registration, account management, and third-party (social) authentication via modular Django applications.
 
-- **Modular Architecture**: Supports regular accounts, social accounts, multi-factor authentication (MFA), user sessions, headless APIs, and identity provider (IdP) functionality (e.g., OpenID Connect) via extensible modules and adap
+- **Modular Architecture**: Supports regular accounts, social accounts, multi-factor authentication (MFA), user sessions, headless APIs, and identity provider (IdP) functionality, with extensive configuration options and adapter-based extensibility.
+
+- **Cro
 
 ## Use Cases
 

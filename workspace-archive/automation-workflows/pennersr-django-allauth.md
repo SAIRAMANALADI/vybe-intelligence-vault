@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **django-allauth** is a Django integration package providing authentication, registration, account management, and third-party (social) account authentication (OAuth1/OAuth2) with **215+ GitHub Actions workflow runs** for CI, dependency updates, and dependency graph management.
+- **django-allauth** is a Python package providing a comprehensive authentication solution for Django, supporting OAuth 1/2, OpenID, and social account integrations with 10.3k GitHub stars and 3.1k forks.
 
-- **CI workflows** include automated testing (e.g., `CI` #2124) and release management (e.g., `chore: release 65.18.0`), while **Dependabot** automates dependency updates (e.g., #108) with **21-57s execution times** pe
+- **CI/CD workflows** include automated testing (CI), dependency updates via Dependabot, and dependency graph management, with 216 recorded workflow runs for maintenance and updates.
+
+- **Release automation** is implemented via GitHub Actions, with recent commits triggering version bumps (e.g.
 
 ## Use Cases
 

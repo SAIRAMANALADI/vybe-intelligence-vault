@@ -8,12 +8,14 @@ local_vault_path: ai/rag/icloud.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
+- dataset
 - hackernews
 - rag
+- reddit
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -25,17 +27,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Architecture**: Describes a novel neural network architecture leveraging [specific technique, e.g., transformers, graph neural networks] with [X] layers and [Y] parameters, optimized for [specific task, e.g., NLP, computer vision].
-
-- **Performance**: Achieves state-of-the-art results on [benchmark/task], outperforming prior models by [Z]% in [metric, e.g., accuracy, F1-score], with [specific improvement, e.g., lower latency, higher efficiency].
-
-- **Key Innovation**: Introduces [specific in
+```markdown
+- **Technique**: Proposed method leverages [specific algorithm/method] to optimize [specific parameter/process] in [domain/application].
+- **Performance**: Achieves [quantifiable metric, e.g., X% improvement] in [specific benchmark/task] compared to baseline approaches.
+- **Limitations**: Constrained by [specific factor, e.g., computational complexity, dataset size] and requires [specific resource/condition] for optimal operation.
+```
 
 ## Use Cases
 

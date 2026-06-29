@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-29T03:47:34.228009+05:30'
-published_at: '2026-06-09T02:56:02Z'
+collected_at: '2026-06-29T10:32:55.749069+05:30'
+published_at: '2026-06-29T02:36:11Z'
 tags:
-- benchmark
+- dataset
 - github-repo
+- models
 - python
 - rag
 - workflows
-stars: 1535
+stars: 1536
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-29T03:47:34.228009+05:30'
-last_seen: '2026-06-29T03:47:34.228009+05:30'
-last_checked: '2026-06-29T03:47:34.228009+05:30'
+first_seen: '2026-06-29T10:32:55.749069+05:30'
+last_seen: '2026-06-29T10:32:55.749069+05:30'
+last_checked: '2026-06-29T10:32:55.749069+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based framework for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and evaluation tools.
+- **Purpose-built RAG Optimization**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines, optimizing data ingestion, retrieval, and generation workflows.
 
-- **Optimization Workflows**: Implements automated pipelines for hyperparameter tuning, retrieval strategy selection, and prompt engineering to maximize RAG performance.
+- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with configurable pipelines for fine-tuning RAG performance across diverse datasets.
 
-- **Benchmarking & Deployment**: Includes built-in evaluation metrics (e.g., retrieval accuracy, answer relevance) and supports deployment-ready configurations for cloud/edge environments.
+- **Scalability & Deployment**: Designed for enterprise-grade scalability, enabling seamless integration with cloud/on-premise environments and CI/CD pipelines for iterative RAG model refinement.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KruxAI
-- Stars: 1535
+- Stars: 1536
 - Forks: 127
 - Language: Python
 - Topics: developer-tools, genai, rag
-- Last Updated: 2026-06-09T02:56:02Z
+- Last Updated: 2026-06-29T02:36:11Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-06-24T07:25:00Z

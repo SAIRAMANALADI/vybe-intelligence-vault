@@ -2,22 +2,24 @@
 title: JupyterLab Documentation — JupyterLab 4.6.0 documentation
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://jupyterlab.readthedocs.io/
+source_url: https://jupyterlab.readthedocs.io/en/latest/
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-6-0-document
 local_vault_path: ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
+- hackernews
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # JupyterLab Documentation — JupyterLab 4.6.0 documentation
@@ -26,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting notebooks, code consoles, terminals, and rich visualizations within a single interface, built atop the Jupyter ecosystem.
+- **JupyterLab** is a modular, extensible IDE built on web technologies (TypeScript, React, Lumino) for interactive computing, supporting notebooks, code consoles, terminals, and file editors in a single interface.
 
-- **Architecture**: Implements a client-server model with a React-based frontend, extensible via plugins (npm packages), and integrates with the Jupyter Server for kernel management and file operations.
+- **Core architecture** consists of a frontend (JupyterLab UI) communicating with a backend (Jupyter Server) via WebSockets, with extensibility via plugins (JupyterLab Extension API) and support for Language Server Protocol (LSP) for advanced code intelligence.
 
-- **Development & Contribution**: Supports extension development (UI components, language
+- **Development ecosy
 
 ## Use Cases
 
@@ -47,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyterlab.readthedocs.io/
+Original source URL: https://jupyterlab.readthedocs.io/en/latest/
 
 ## Local Vault File
 

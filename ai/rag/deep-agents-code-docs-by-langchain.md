@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-28T22:14:15.501809+05:30'
-collected_at: '2026-06-28T22:14:15.501823+05:30'
+published_at: '2026-06-29T10:37:28.784766+05:30'
+collected_at: '2026-06-29T10:37:28.784780+05:30'
 tags:
 - agents
 - anthropic
@@ -15,12 +15,13 @@ tags:
 - rag
 - scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-28T22:14:15.501823+05:30'
-last_seen: '2026-06-28T22:14:15.501823+05:30'
-last_checked: '2026-06-28T22:14:15.501823+05:30'
+first_seen: '2026-06-29T10:37:28.784780+05:30'
+last_seen: '2026-06-29T10:37:28.784780+05:30'
+last_checked: '2026-06-29T10:37:28.784780+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command, with optional model-specific parameters (`--model-params JSON`).
+- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
 
-- **Human-in-the-Loop (HITL) & Auto-Approval**: Enforces user approval for destructive operations (e.g., `write_file`, `edit_file`, `execute`) by default; bypassable via `--auto-approve` (`-y`) or shell allowlist (`--shell-allow-list`).
+- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts shell access via `--shell-allow-list` (e.g., `recommended` for safe defaults).
 
-- **Remote Execution & Sandboxing**: Executes shell commands locally or in remote sandboxes (e.g., LangSmith, Daytona, Modal) with configurable setup scripts (`--sandbox-setup PATH`) and snapshot management (`--sandbox-snapshot-name NAME`).
+- **Observability & Extensibility**: Integrates with LangSmith for tracing agent operations, supports MCP tools for external tool integration, and enables task delegation to subagents with async execution capabilities for parallelized workflows.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:14:15.501809+05:30
+- Published: 2026-06-29T10:37:28.784766+05:30
 
 ## Related Tags
 
@@ -54,6 +55,7 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source

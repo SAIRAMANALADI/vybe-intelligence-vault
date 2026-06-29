@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-29T03:50:20.508689+05:30'
-collected_at: '2026-06-29T03:50:20.508704+05:30'
+published_at: '2026-06-29T10:37:28.624822+05:30'
+collected_at: '2026-06-29T10:37:28.624835+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-29T03:50:20.508704+05:30'
-last_seen: '2026-06-29T03:50:20.508704+05:30'
-last_checked: '2026-06-29T03:50:20.508704+05:30'
+first_seen: '2026-06-29T10:37:28.624835+05:30'
+last_seen: '2026-06-29T10:37:28.624835+05:30'
+last_checked: '2026-06-29T10:37:28.624835+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring of LLM applications, including individual trace analysis and production-wide performance metrics, with support for frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, enabling trace-level debugging, production monitoring, and performance metrics across frameworks (e.g., OpenAI, Anthropic, CrewAI).
 
-- **Setup and Tracing**: Requires account creation at [smith.langchain.com](https://smith.langchain.com), API key generation, and integration via environment variables, SDK, or framework-specific methods to enable tracing for applications (e.g., RAG pipelines).
+- **Core features** include automated failure detection via **Engine**, custom dashboards/alerts, trace filtering/export, and user feedback collection through annotation queues.
 
-- **Advanced Features**: Includes automated failure detection via **Engine**, performance monitoring with dashboards/alerts, trace filtering/exporting, user feedback collection, and deployment options (cloud/hybrid/self-hosted) with observability, evaluation, and prompt engineering capabilities.
+- **Deployment options** include cloud, hybrid, or self-hosted setups, with MCP support for IDE integration (e.g., VSCode, Claude) and usage-based pricing tied to trace retention/limits.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:50:20.508689+05:30
+- Published: 2026-06-29T10:37:28.624822+05:30
 
 ## Related Tags
 

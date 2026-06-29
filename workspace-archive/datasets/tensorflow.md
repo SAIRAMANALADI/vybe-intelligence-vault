@@ -2,14 +2,14 @@
 title: TensorFlow
 archive_category: datasets
 source_category: ai/agents
-source_url: https://www.tensorflow.org
+source_url: https://www.tensorflow.org/
 resource_id: blog:tensorflow
 local_vault_path: ai/agents/tensorflow.md
 quality_score: 70
-archive_score: 74
+archive_score: 84
 archive_tier: useful
 resource_kind: dataset
-importance: medium
+importance: high
 tags:
 - agents
 - dataset
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **End-to-end ML platform**: TensorFlow provides a comprehensive ecosystem for developing, training, deploying, and managing machine learning models across diverse environments, from edge devices to cloud platforms.
+- **End-to-End ML Platform**: TensorFlow provides a comprehensive ecosystem for developing, training, and deploying machine learning models across diverse environments (e.g., cloud, edge, browser) via high-level APIs like `tf.keras` and specialized libraries (`TFX`, `TensorFlow.js`, `LiteRT`).
 
-- **High-level APIs & tools**: Includes `tf.keras` for model building, `tf.data` for input pipelines, TensorBoard for visualization, and specialized libraries like TensorFlow GNN (graph neural networks) and TF Agents (reinforcement learning).
-
-- **Cross-platform deployment**: Suppo
+- **Graph Neural Networks (GNNs) & Reinforcement Learning (RL)**: TensorFlow GNN enables analysis of relational data (e.g., traffic forecasting, medical discovery), while TensorFlow Agents facilitates RL-
 
 ## Use Cases
 
@@ -51,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.tensorflow.org
+Original source URL: https://www.tensorflow.org/
 
 ## Local Vault File
 

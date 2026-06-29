@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, offering `scrape()` API for structured Markdown/HTML conversion, `crawl` for site traversal, and `deep-research` endpoint for OpenAI-like research capabilities, with built-in infrastructure for dynamic site access.
+- **Firecrawl**: AI-powered web scraping engine enabling LLM-friendly data extraction at scale, featuring `scrape()` for structured Markdown/HTML conversion, `crawl()` for site traversal, and `deep-research` endpoint for OpenAI-like research capabilities via API key-based access.
 
-- **LangChain**: Open-source framework for LLM application development with modular RAG pipelines, supporting 100k+ GitHub stars; features data connectors, model flexibility, retrieval components, and e
+- **LangChain**: Modular framework (105k ⭐) for LLM/RAG pipelines with 5 core components: data connectors (100+ integrations), model flexibility (swap LLMs), retrieval strategies (vector/keyword), evaluation tools (Lan
 
 ## Use Cases
 

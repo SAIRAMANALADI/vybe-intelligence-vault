@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session, with persistent memory for cross-conversation context and configurable approval gates for code execution.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
 
-- **Built-in Toolset & Sandboxing**: Provides 15+ native tools (file ops, shell execution, web search via Tavily) with human-in-the-loop approval for destructive actions, plus optional remote sandboxes (LangSmith, E2B, Modal) for isolated code executio
+- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts sh
 
 ## Use Cases
 

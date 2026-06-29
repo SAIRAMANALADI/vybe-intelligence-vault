@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll to compile Markdown/HTML into a static website hosted on GitHub Pages.
-- **Minimalist Structure**: Repository contains raw HTML/CSS and Markdown source files for a personal blog/jekyll site.
-- **Deprecated/Archived**: Last updated in 2026 (future date), suggesting the repository is no longer actively maintained.
+- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+- **Minimalist structure**: Hosted as a GitHub Pages repository with HTML as the primary language, indicating a lightweight, content-focused site.
+- **Stale repository**: Last updated in 2026 (future date), suggesting minimal or no recent maintenance, with 30 stars and 60 forks indicating limited community engagement.
 
 ## Use Cases
 

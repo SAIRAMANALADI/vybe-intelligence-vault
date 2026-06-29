@@ -4,25 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hoodini/ai-agents-skills
-collected_at: '2026-06-29T03:47:54.228336+05:30'
-published_at: '2026-06-25T20:34:25Z'
+collected_at: '2026-06-29T10:33:15.682284+05:30'
+published_at: '2026-06-29T02:03:00Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - python
-- workflows
-stars: 239
+stars: 240
 language: Python
 status: active
 archived: false
 created_at: '2026-01-07T15:25:35Z'
 pushed_at: '2026-06-18T13:29:17Z'
 resource_id: github:hoodini/ai-agents-skills
-first_seen: '2026-06-29T03:47:54.228336+05:30'
-last_seen: '2026-06-29T03:47:54.228336+05:30'
-last_checked: '2026-06-29T03:47:54.228336+05:30'
+first_seen: '2026-06-29T10:33:15.682284+05:30'
+last_seen: '2026-06-29T10:33:15.682284+05:30'
+last_checked: '2026-06-29T10:33:15.682284+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic workflows in Python-based environments.
-- **Metadata**: 239 stars, 58 forks, last updated 2026-06-25; created using GitHub Copilot via VS Code Insiders.
-- **Technical Stack**: Python-based skills repository with no additional topics listed, optimized for AI agent integration.
+- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), created using GitHub Copilot via VS Code Insiders.
+- **Metadata**: 240 stars, 58 forks, Python-based, last updated on 2026-06-29.
+- **Purpose**: Repository aims to enhance AI agent capabilities through modular, reusable skill implementations.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: hoodini
-- Stars: 239
+- Stars: 240
 - Forks: 58
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-25T20:34:25Z
+- Last Updated: 2026-06-29T02:03:00Z
 - Archived: No
 - Created At: 2026-01-07T15:25:35Z
 - Pushed At: 2026-06-18T13:29:17Z

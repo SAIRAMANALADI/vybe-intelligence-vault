@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Step-by-step guide to constructing a Python-based Retrieval-Augmented Generation (RAG) system from the ground up, designed for beginners without relying on abstracted frameworks.
-- **Implementation**: Focuses on core RAG components (e.g., document retrieval, embedding generation, and LLM integration) using Python, emphasizing transparency and manual implementation.
-- **Status**: Repository is minimally updated (1 star, 0 forks) with the last commit dated **2026-02-13**, indicating
+- **Step-by-step Python implementation** of a Retrieval-Augmented Generation (RAG) system from scratch, designed for beginners with no reliance on abstracted libraries or frameworks.
+- **Core components** include document ingestion, vector embedding (e.g., using Sentence Transformers), retrieval via similarity search (e.g., FAISS or cosine similarity), and integration with a generative model (e.g., Hugging Face Transformers).
+- **Repository structure** focuses on modularity, with clear scripts f
 
 ## Use Cases
 

@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, integrating Python-based frameworks like LangChain and LlamaIndex for LLM application development.
+- **Comprehensive RAG Stack Guide**: Provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications with large language models (LLMs), covering embedding, retrieval, and generation workflows.
 
-- **Multi-Technology Integration**: Demonstrates RAG pipelines with diverse tools including vector databases (Milvus), graph databases (Neo4j), embedding models, and multimodal inputs, optimized for models like DeepSeek and Kimi-K2.
+- **Multi-Tool Integration**: Demonstrates integration with frameworks like LangChain, LlamaIndex, and vector databases (Milvus) alongside graph databases (Neo4j) for multimodal and structured data retrieval.
 
-- **Practical Implementation*
+- **LLM & Embedding Support**: Focuses on practical imple
 
 ## Use Cases
 

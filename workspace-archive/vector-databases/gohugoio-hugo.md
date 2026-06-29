@@ -6,7 +6,7 @@ source_url: https://github.com/gohugoio/hugo/releases
 resource_id: github:gohugoio/hugo
 local_vault_path: ai/rag/gohugoio-hugo.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - scripts
 - web-crawled
 selection_reason:
-- Strong keyword match
 - Active open-source repository
 ---
 
@@ -28,19 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: tutorial
 - Selection reasons:
-  - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
-
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
-
-- **Hugo v0.163.0** improves AVIF image handling with lower default quality (60) and YUV420 chroma subsampling for lossy compression, a
+- **Security & Bug Fixes**:
+  - Fixed page/section name collision regression in `hugolib` ([#15046](https://github.com/gohugoio/hugo/issues/15046)).
+  - Resolved `ERR_ACCESS_DENIED` in Node.js resolver ([#15041](https://github.com/gohugoio/hugo/issues/15041)).
+  - Standardized behavior for missing external converters in `markup` ([#14222](https://github.com/gohugoio/hugo/issues/14222)).
+  - Security patches: Normalized IPv4 host encodings in `http.urls` check and dropped symlinks in filesystem o
 
 ## Use Cases
 

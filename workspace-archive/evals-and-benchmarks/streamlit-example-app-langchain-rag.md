@@ -11,9 +11,11 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- frontend_ui
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid Search Implementation**: Demonstrates combining vector similarity search with keyword-based retrieval (BM25) using LangChain's `HybridSearchRetriever` for enhanced document retrieval performance.
+- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining vector similarity search with keyword-based retrieval for improved accuracy.
 
-- **LangChain RAG Pipeline**: Integrates LangChain's retrieval-augmented generation (RAG) framework with a vector store (e.g., FAISS or Chroma) for context-aware LLM responses.
+- **LangChain Integration**: Uses LangChain’s modular components (e.g., `RetrievalQA`, `VectorStoreRetriever`) to chain document retrieval with LLM inference, showcasing end-to-end RAG workflows.
 
-- **Streamlit UI**: Provides a Streamlit-based web interface for querying and visualizing RAG results, with real-t
+- **Streamlit UI**: Provides a real-time interactive i
 
 ## Use Cases
 

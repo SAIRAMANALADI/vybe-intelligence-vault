@@ -13,13 +13,14 @@ collected_at: '2026-06-29T03:45:15.431262+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:kamaludu/bash4llm
 first_seen: '2026-06-29T03:45:15.431262+05:30'
 last_seen: '2026-06-29T03:45:15.431262+05:30'
 last_checked: '2026-06-29T03:45:15.431262+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs
 

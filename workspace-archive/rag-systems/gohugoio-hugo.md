@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
-
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
-
-- **Hugo v0.163.0** improves AVIF image handling with lower default quality (60) and YUV420 chroma subsampling for lossy compression, a
+- **Security & Bug Fixes**:
+  - Fixed page/section name collision regression in `hugolib` ([#15046](https://github.com/gohugoio/hugo/issues/15046)).
+  - Resolved `ERR_ACCESS_DENIED` in Node.js resolver ([#15041](https://github.com/gohugoio/hugo/issues/15041)).
+  - Standardized behavior for missing external converters in `markup` ([#14222](https://github.com/gohugoio/hugo/issues/14222)).
+  - Security patches: Normalized IPv4 host encodings in `http.urls` check and dropped symlinks in filesystem o
 
 ## Use Cases
 

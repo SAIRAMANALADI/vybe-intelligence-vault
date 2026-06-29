@@ -8,13 +8,14 @@ local_vault_path: ai/agents/viktoriasemaan-multi-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Contains Jupyter Notebook examples demonstrating AI multi-agent systems, with 209 stars and 123 forks.
-- **Technical Stack**: Implemented in Jupyter Notebook, last updated on 2026-06-23.
-- **Purpose**: Focuses on practical implementations of multi-agent AI solutions without predefined topics.
+- **Repository Overview**: GitHub repository (`viktoriasemaan/multi-agent`) showcasing examples of AI multi-agent solutions implemented in Jupyter Notebook format.
+- **Metadata**: 209 stars, 123 forks, last updated on 2026-06-23.
+- **Technical Focus**: Demonstrates collaborative AI agent architectures, workflows, or simulations without additional metadata or topics.
 
 ## Use Cases
 

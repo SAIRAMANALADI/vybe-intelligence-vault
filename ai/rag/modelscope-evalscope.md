@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-29T03:47:19.217917+05:30'
+collected_at: '2026-06-29T10:32:40.906566+05:30'
 published_at: '2026-06-28T22:05:06Z'
 tags:
 - benchmark
@@ -17,11 +17,11 @@ status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-07T06:10:49Z'
-pushed_at: '2026-06-26T06:48:08Z'
+pushed_at: '2026-06-29T02:42:37Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-29T03:47:19.217917+05:30'
-last_seen: '2026-06-29T03:47:19.217917+05:30'
-last_checked: '2026-06-29T03:47:19.217917+05:30'
+first_seen: '2026-06-29T10:32:40.906566+05:30'
+last_seen: '2026-06-29T10:32:40.906566+05:30'
+last_checked: '2026-06-29T10:32:40.906566+05:30'
 health_score: 100
 ---
 
@@ -29,8 +29,10 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with efficiency.
-- **Key Features**: Supports evaluation across tasks like RAG, performance metrics, and modular customization for diverse model types.
+- **Framework Purpose**: Streamlined and customizable Python-based framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with efficiency and flexibility.
+
+- **Key Features**: Supports evaluation across multiple domains (e.g., RAG, performance metrics) with modular design for extensibility and reproducibility.
+
 - **Repository Stats**: 2,996 stars, 408 forks, last updated 2026-06-28.
 
 ## Why It Matters
@@ -48,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z
-- Pushed At: 2026-06-26T06:48:08Z
+- Pushed At: 2026-06-29T02:42:37Z
 
 ## Possible Use Cases
 

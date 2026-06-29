@@ -19,6 +19,7 @@ tags:
 - rag
 - scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command, with optional model-specific parameters (`--model-params JSON`).
+- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
 
-- **Human-in-the-Loop (HITL) & Auto-Approval**: Enforces user approval for destructive operations (e.g., `write_file`, `edit_file`, `execute`) by default; bypassable via `--auto-approve` (`-y`) or shell allowlist (`--shell-allow-list`).
-
-- **Remote Execution & Sandboxing**: Exec
+- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts sh
 
 ## Use Cases
 

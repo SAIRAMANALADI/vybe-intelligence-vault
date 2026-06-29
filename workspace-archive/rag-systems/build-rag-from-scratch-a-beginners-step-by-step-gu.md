@@ -7,17 +7,17 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 82
+archive_score: 74
 archive_tier: useful
-resource_kind: template
-importance: high
+resource_kind: prompt
+importance: medium
 tags:
 - openai
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: template
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Modular RAG Pipeline**: The guide implements a **three-stage RAG system**—document loading/splitting, vector embedding storage (FAISS), and retrieval-augmented generation—using LangChain’s modular components (`TextLoader`, `RecursiveCharacterTextSplitter`, `FAISS.from_documents`) to ensure semantic search and context-aware responses.
-
-- **Hallucination Mitigation**: The system enforces **grounded generation** by restricting the LLM (OpenAI’s `gpt-3.5-turbo`) to answer **only from retrieved c
+*   A RAG system is implemented by loading and recursively splitting source documents into chunks, which are then transformed into numerical embeddings using `OpenAIEmbeddings`.
+*   These embeddings are stored in a local `FAISS` vector database, facilitating semantic similarity search to retrieve contextually relevant document chunks based on user queries.
+*   A `ChatOpenAI` LLM is then prompted with the retrieved context and the user's question, explicitly instructed via a system prompt to answ
 
 ## Use Cases
 

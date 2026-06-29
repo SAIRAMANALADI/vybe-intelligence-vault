@@ -2,7 +2,7 @@
 title: Legal - App Store & Privacy- Apple
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.apple.com/legal/privacy/data/en/app-store
+source_url: https://www.apple.com/legal/privacy/data/en/app-store/
 resource_id: blog:legal-app-store-privacy-apple
 local_vault_path: ai/rag/legal-app-store-privacy-apple.md
 quality_score: 70
@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Data Collection & Personalization**: Apple collects account, purchase, and device usage data (e.g., searches, downloads, device trust score) to personalize App Store experiences, recommend content, and serve targeted ads, with opt-out options available for personalization and marketing communications.
+- **Data Collection & Personalization**: Apple collects account, purchase, search, and device usage data (e.g., app launches, installs, deletions) to personalize App Store recommendations, optimize store performance, and target ads. Personalization can be disabled via settings, and app usage data is processed locally on-device.
 
-- **Fraud Prevention & Analytics**: Device activity (e.g., call/email frequency) is used to compute a privacy-preserving "device trust score" for fraud detection, while aggregated browsing/pur
+- **Fraud Prevention & Device Trust Score**: Apple computes a temporary, privacy-preserving *device trust score* (based on approximate call/email activity) to detect fra
 
 ## Use Cases
 
@@ -43,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.apple.com/legal/privacy/data/en/app-store
+Original source URL: https://www.apple.com/legal/privacy/data/en/app-store/
 
 ## Local Vault File
 

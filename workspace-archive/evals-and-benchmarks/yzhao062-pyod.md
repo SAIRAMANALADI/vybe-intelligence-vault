@@ -6,9 +6,9 @@ source_url: https://github.com/yzhao062/pyod
 resource_id: github:yzhao062/pyod
 local_vault_path: ai/rag/yzhao062-pyod.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # yzhao062/pyod
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified APIs.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for performance evaluation.
 
-- **Agentic & Benchmark-Driven Orchestration**: Features ADEngine for automated detector selection/ensemble optimization, and integrates agentic workflows for AI-driven anomaly detection pipelines.
+- **Agentic Workflow Integration**: Enables AI agents to autonomously orchestrate anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive detection strategies.
 
-- **Foundation for Fraud & OOD Detection**: Optimized for fraud detection, out-of-distribution (OOD) analysis, and
+- **Multimodal & Fraud Detection Focus**: Specialized modules for graph anomaly detection, NL
 
 ## Use Cases
 

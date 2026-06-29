@@ -4,23 +4,22 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-29T03:51:21.957284+05:30'
-collected_at: '2026-06-29T03:51:21.957296+05:30'
+published_at: '2026-06-29T10:38:06.870517+05:30'
+collected_at: '2026-06-29T10:38:06.870530+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-29T03:51:21.957296+05:30'
-last_seen: '2026-06-29T03:51:21.957296+05:30'
-last_checked: '2026-06-29T03:51:21.957296+05:30'
+first_seen: '2026-06-29T10:38:06.870530+05:30'
+last_seen: '2026-06-29T10:38:06.870530+05:30'
+last_checked: '2026-06-29T10:38:06.870530+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-model & Parallel Execution**: Supports `/model` switching and `/fleet` for parallelized subagent execution across multiple AI models (e.g., Anthropic, Google, OpenAI) with convergence on a decision-ready result.
+- **Multi-agent orchestration**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and result convergence.
 
-- **GitHub-Native Workflow Integration**: Operates via GitHub’s native `/mcp` for direct issue/PR interaction, branch management, and pull request automation, inheriting org policies (branch protections, required checks) without additional setup.
+- **Native GitHub integration**: Built on GitHub’s `/mcp` (Model Context Protocol), CLI interacts directly with issues, PRs, branches, and labels, inheriting org-level policies (branch protections, governance) while enabling `/plan` → `/delegate` → PR workflows.
 
-- **Agentic Runtime & Extensibility**: Built on an agentic runtime with `/plan`, `/resume`, and `/delegate` commands; supports custom agents via `AGENTS.md` and `MCP` server integrations for tailored tool access and persistent session context.
+- **Session persistence & security**: Maintains chat history and context across sessions with memory compaction; enforces explicit approval for file/command execution and inherits Copilot Business/Enterprise governance policies.
 
 ## Why It Matters
 
@@ -42,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T03:51:21.957284+05:30
+- Published: 2026-06-29T10:38:06.870517+05:30
 
 ## Related Tags
 
@@ -51,7 +50,6 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- scripts
 - web-crawled
 - workflows
 - youtube

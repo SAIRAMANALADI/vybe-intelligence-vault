@@ -22,11 +22,11 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
 - [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent)
-- [raga-ai-hub/raga-llm-hub](https://github.com/raga-ai-hub/raga-llm-hub)
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+- [olegnazarov/rag-security-scanner](https://github.com/olegnazarov/rag-security-scanner)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-29 04:01 IST*
+*Last updated: 2026-06-29 10:47 IST*

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
-- **Technical Scope**: Focuses on Python-based implementations, including agent-skills, hacktoberfest contributions, and advanced Copilot integrations for automation and AI-assisted development.
-- **Dynamic Maintenance**: Actively updated (last commit: 2026-06-28) with 35.8K+ stars and 4.4K+ forks
+- **Curated Resources**: Repository aggregates community-driven guides, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI-driven workflows.
+
+- **Technical Scope**: Primarily Python-based, with focus on agent-skills, customization, and integration with GitHub Copilot for advanced automation and hacktoberfest contributions.
+
+- **Active Maintenance**: Last updated June 2026, ensuring relevance with ongoing updates, community enga
 
 ## Use Cases
 

@@ -15,6 +15,7 @@ tags:
 - github-repo
 - rag
 - typescript
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OS Framework**: Open-source TypeScript-based system (`elizaOS`) designed for building autonomous AI agents with modular plugin architecture, supporting RAG (Retrieval-Augmented Generation) for enhanced contextual reasoning.
+- **Agentic OS Framework**: Open-source TypeScript-based system enabling autonomous AI agents with plugin architecture for extensibility (RAG, crypto, multi-platform integrations like Discord/Slack/Telegram).
 
-- **Multi-Platform Integration**: Enables deployment across Discord, Slack, Telegram, and other platforms via dedicated plugins, facilitating swarm intelligence and cross-environment agent collaboration.
+- **Multi-Platform Autonomy**: Supports swarm intelligence and agentic workflows across crypto, chatbots, and real-time collaboration tools via modular plugins.
 
-- **Extensible Architecture**: Supports crypto-native inte
+- **Active Development**: Last updated June 2026, with 18.6K+ stars and 5.5K+ forks, indicating a rapidly evolving ecosystem for
 
 ## Use Cases
 

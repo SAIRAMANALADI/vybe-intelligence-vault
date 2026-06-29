@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-06-29T03:48:24.269453+05:30'
+collected_at: '2026-06-29T10:33:45.758605+05:30'
 published_at: '2026-06-28T21:40:18Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-05-21T21:44:24Z'
 pushed_at: '2026-06-28T20:21:03Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-06-29T03:48:24.269453+05:30'
-last_seen: '2026-06-29T03:48:24.269453+05:30'
-last_checked: '2026-06-29T03:48:24.269453+05:30'
+first_seen: '2026-06-29T10:33:45.758605+05:30'
+last_seen: '2026-06-29T10:33:45.758605+05:30'
+last_checked: '2026-06-29T10:33:45.758605+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for multi-agent collaboration in code generation and debugging tasks.
-- **Multi-LLM Integration**: Supports parallel execution with OpenAI, Anthropic (ClaudeCode), and other LLM backends via standardized interfaces.
-- **State Management**: Uses persistent task queues and checkpointing to handle long-running workflows with fault tolerance.
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for real-time code generation and editing using LLM APIs (OpenAI, Anthropic).
+- **Multi-Tool Integration**: Supports dynamic tool usage (e.g., file I/O, shell commands) via a modular plugin system with async/await concurrency.
+- **Stateful Workflow**: Maintains conversation context and task state across interactions, enabling iterative refinement of code snippets with persistent memory.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 10059
-- Forks: 1149
+- Forks: 1150
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
 - Last Updated: 2026-06-28T21:40:18Z

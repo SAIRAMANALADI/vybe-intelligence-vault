@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://opensource.apple.com
-published_at: '2026-06-28T15:17:14.863870+05:30'
-collected_at: '2026-06-28T15:17:14.863882+05:30'
+published_at: '2026-06-29T10:42:14.396111+05:30'
+collected_at: '2026-06-29T10:42:14.396123+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:apple-open-source
-first_seen: '2026-06-28T15:17:14.863882+05:30'
-last_seen: '2026-06-28T15:17:14.863882+05:30'
-last_checked: '2026-06-28T15:17:14.863882+05:30'
+first_seen: '2026-06-29T10:42:14.396123+05:30'
+last_seen: '2026-06-29T10:42:14.396123+05:30'
+last_checked: '2026-06-29T10:42:14.396123+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Language Design**: Swift is a statically-typed, compiled language developed by Apple, combining C++-inspired syntax with modern safety and performance optimizations (e.g., memory safety via ARC, value types, and optional handling).
+- **Modern Language Design**: Swift is a statically-typed, compiled language emphasizing safety (e.g., optional types, bounds checking) and performance via LLVM optimization, with syntax influenced by Rust, Haskell, and C++.
 
-- **Compiler & Toolchain**: Features LLVM-based compilation with Just-In-Time (JIT) and Ahead-Of-Time (AOT) support, enabling cross-platform deployment (Linux, Windows, macOS) and integration with Xcode for debugging/optimization.
+- **Memory Safety**: Implements automatic reference counting (ARC) and compile-time enforcement of value semantics to prevent memory leaks and data races without requiring garbage collection.
 
-- **Paradigms & Features**: Supports protocol-oriented programming, generics, and functional patterns (e.g., immutability, closures), with interoperability for Objective-C/C++ and a growing ecosystem of libraries/tools.
+- **Interoperability & Tooling**: Provides seamless C/C++ interoperability, a REPL for interactive development, and integrates with Xcode for debugging, profiling, and package management via Swift Package Manager (SPM).
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T15:17:14.863870+05:30
+- Published: 2026-06-29T10:42:14.396111+05:30
 
 ## Related Tags
 

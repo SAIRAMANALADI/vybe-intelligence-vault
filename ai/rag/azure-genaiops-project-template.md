@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-29T03:46:29.328810+05:30'
+collected_at: '2026-06-29T10:31:50.690596+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
-- openai
 - rag
-- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -21,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-29T03:46:29.328810+05:30'
-last_seen: '2026-06-29T03:46:29.328810+05:30'
-last_checked: '2026-06-29T03:46:29.328810+05:30'
+first_seen: '2026-06-29T10:31:50.690596+05:30'
+last_seen: '2026-06-29T10:31:50.690596+05:30'
+last_checked: '2026-06-29T10:31:50.690596+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
-- **Pre-configured RAG architecture** with modular components (e.g., vector databases, compute, APIs) for scalable generative AI operations, leveraging Azure services like Azure OpenAI, Cognitive Search, and AKS.
-- **CI/CD-ready template** with GitHub Actions integration for automated deployments, supporting MLOps/GitOps workflows for continuous updates to the RAG system.
+- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a Generative AI Operations (GenAIOps) Retrieval-Augmented Generation (RAG) pipeline on Azure, using Bicep for declarative resource provisioning.
+
+- **RAG Pipeline Integration**: Includes pre-configured components for vector databases, embedding models, and LLM orchestration to enable end-to-end RAG workflows with minimal setup.
+
+- **GenAIOps Best Practices**: Implements operational frameworks for monitoring, logging, and CI/CD tailored for generative AI workloads, ensuring scalability and maintainability.
 
 ## Why It Matters
 

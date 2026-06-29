@@ -14,7 +14,6 @@ tags:
 - agents
 - benchmark
 - web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
+- **Multi-SDK Integration**: LangSmith supports Python, TypeScript, Go, and Java SDKs, enabling framework-agnostic tracing and integration with any agent stack or preferred framework.
 
-- **Multi-Protocol Deployment**: Supports A2A & MCP protocols with fault-tolerant, scalable runtime for async agent collaboration and human-in-the-loop workflows.
+- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, identifies root causes in traces/code, and proposes fixes, accelerating agent improvement cycles.
 
-- **Cross-Framework Observability**: Provides native tracing for agent frameworks, OpenTelemetry integration, and SDKs (Python/TypeScript/Go/Java) for structured debugging of multi-turn
+- **Production-Grade Deployment**: The platform provides fault-tolerant, scalable agent servers with native support for A2
 
 ## Use Cases
 

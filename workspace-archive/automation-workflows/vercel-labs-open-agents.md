@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based open-source framework for constructing cloud-native AI agents with modular components for extensibility and scalability.
-
-- **Agent Orchestration**: Implements background agent patterns with built-in support for persistent, long-running tasks and event-driven workflows via Vercel’s serverless infrastructure.
-
-- **Integration Focus**: Designed for seamless deployment on Vercel, leveraging its edge network for low-latency agent interactions and
+- **Template Overview**: Open-source starter kit for constructing cloud-based AI agents using TypeScript, emphasizing modularity and scalability.
+- **Key Features**: Supports background agents, integrates AI-driven workflows, and includes pre-configured tooling for rapid deployment.
+- **Ecosystem Integration**: Designed for Vercel deployments, leveraging serverless architecture for low-latency agent operations.
 
 ## Use Cases
 

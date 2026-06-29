@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-29T03:47:19.168015+05:30'
+collected_at: '2026-06-29T10:32:40.715376+05:30'
 published_at: '2026-06-28T18:39:04Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 427
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-29T03:47:19.168015+05:30'
-last_seen: '2026-06-29T03:47:19.168015+05:30'
-last_checked: '2026-06-29T03:47:19.168015+05:30'
+first_seen: '2026-06-29T10:32:40.715376+05:30'
+last_seen: '2026-06-29T10:32:40.715376+05:30'
+last_checked: '2026-06-29T10:32:40.715376+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-
-- **Scope**: Covers key RAG evaluation dimensions including retrieval accuracy, response relevance, and contextual grounding, with a focus on enterprise-specific use cases like internal knowledge base search and semantic document retrieval.
-
-- **Technical Stack**: Implements Python-based synthetic data generation for enterprise documents, supports large language model (LLM) evaluation, and includes tools for semantic search and information retrieval testing.
+- **Purpose**: Provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search, and evaluation tools for LLM-based question answering, with support for Python-based implementations.
+- **Scope**: Covers enterprise search, knowledge base integration, and large-scale LLM evaluation, last updated in June 2026.
 
 ## Why It Matters
 

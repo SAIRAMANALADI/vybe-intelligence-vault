@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/SkillSpector
-collected_at: '2026-06-29T03:49:04.364704+05:30'
-published_at: '2026-06-28T22:03:33Z'
+collected_at: '2026-06-29T10:34:25.870868+05:30'
+published_at: '2026-06-29T05:01:26Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 11261
+stars: 11317
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-21T00:28:43Z'
 pushed_at: '2026-06-28T09:17:18Z'
 resource_id: github:nvidia/skillspector
-first_seen: '2026-06-29T03:49:04.364704+05:30'
-last_seen: '2026-06-29T03:49:04.364704+05:30'
-last_checked: '2026-06-29T03:49:04.364704+05:30'
+first_seen: '2026-06-29T10:34:25.870868+05:30'
+last_seen: '2026-06-29T10:34:25.870868+05:30'
+last_checked: '2026-06-29T10:34:25.870868+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills to detect vulnerabilities, malicious patterns, and security risks without executing the code.
-
-- **Python-Based**: The tool is implemented in Python, leveraging static analysis techniques to inspect AI agent skill definitions and configurations.
-
-- **NVIDIA Developed**: Developed by NVIDIA, the repository is actively maintained with the last update on June 28, 2026, and has gained significant traction with over 11K stars and 900+ forks.
+- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills (e.g., LLM prompts, tool integrations) to detect security vulnerabilities, malicious patterns, and misconfigurations without execution.
+- **Python-Based Implementation**: The scanner is written in Python, leveraging AST parsing and rule-based checks to identify risks like prompt injection, unsafe tool usage, or data leakage.
+- **Extensible Framework**: Supports custom rule definitions and integrates with CI/CD pipelines for continuous security assessment of AI agent deployments.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 11261
-- Forks: 914
+- Stars: 11317
+- Forks: 922
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-28T22:03:33Z
+- Last Updated: 2026-06-29T05:01:26Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-21T00:28:43Z

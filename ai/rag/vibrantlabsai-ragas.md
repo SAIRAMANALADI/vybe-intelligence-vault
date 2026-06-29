@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
-published_at: '2026-06-28T22:12:32.299823+05:30'
-collected_at: '2026-06-28T22:12:32.299840+05:30'
+published_at: '2026-06-29T10:37:18.098862+05:30'
+collected_at: '2026-06-29T10:37:18.098875+05:30'
 tags:
 - anthropic
 - benchmark
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: github:vibrantlabsai/ragas
-first_seen: '2026-06-28T22:12:32.299840+05:30'
-last_seen: '2026-06-28T22:12:32.299840+05:30'
-last_checked: '2026-06-28T22:12:32.299840+05:30'
+first_seen: '2026-06-29T10:37:18.098875+05:30'
+last_seen: '2026-06-29T10:37:18.098875+05:30'
+last_checked: '2026-06-29T10:37:18.098875+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Project Initialization**: Quickstart command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM app), and evaluation artifacts (datasets, experiments, logs) via `uvx ragas quickstart rag_eval`.
+- **Project Setup**: The `ragas quickstart` command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and directories for datasets, experiments, and logs.
 
-- **LLM Provider Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama) via `llm_factory` in `_init_clients()`, with API keys configured via environment variables and model-specific initialization.
+- **LLM Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama) via `llm_factory` in `evals.py`, allowing flexible model swapping with minimal code changes.
 
-- **Evaluation Workflow**: Uses `SingleTurnSample` to define test cases, queries the RAG system, evaluates responses against ground truth using pre-built metrics (e.g., `DiscreteMetric`), and saves results to CSV in `evals/experiments/`.
+- **Evaluation Workflow**: Uses `SingleTurnSample` to define test cases, queries the RAG system, evaluates responses against ground truth using metrics (e.g., `DiscreteMetric`), and saves results to CSV in `evals/experiments/`.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:12:32.299823+05:30
+- Published: 2026-06-29T10:37:18.098862+05:30
 
 ## Related Tags
 

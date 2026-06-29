@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Type**: Visual AI workflow automation platform built with TypeScript, enabling drag-and-drop construction of AI-driven workflows.
-- **Key Features**: Supports agent-based automation with modular components for integrating AI models, APIs, and custom logic.
-- **Repository Stats**: 1,158 stars, 222 forks, last updated June 28, 2026.
+- **Visual AI Workflow Automation**: Open-source template for building AI-driven workflow automation platforms using TypeScript, enabling drag-and-drop visual composition of multi-agent systems.
+
+- **Multi-Agent Orchestration**: Supports dynamic agent collaboration with configurable triggers, dependencies, and parallel execution paths for complex workflows.
+
+- **Vercel Integration**: Optimized for Vercel deployments with serverless functions, edge runtime compatibility, and seamless Git integrat
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-29T03:46:24.121426+05:30'
+collected_at: '2026-06-29T10:31:45.645872+05:30'
 published_at: '2026-06-28T19:04:59Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1471
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-27T23:32:33Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-29T03:46:24.121426+05:30'
-last_seen: '2026-06-29T03:46:24.121426+05:30'
-last_checked: '2026-06-29T03:46:24.121426+05:30'
+first_seen: '2026-06-29T10:31:45.645872+05:30'
+last_seen: '2026-06-29T10:31:45.645872+05:30'
+last_checked: '2026-06-29T10:31:45.645872+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-integrated with **20+ AI frameworks** (LangChain, LangGraph, CrewAI, Pydantic-AI) and tools (RAG, streaming, WebSocket).
+- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, featuring AI Agents, RAG, streaming, authentication, and 20+ integrations pre-configured.
 
-- **Production-ready stack** featuring **PostgreSQL**, **authentication**, **Docker** support, and **TypeScript/Python** interoperability for scalable AI agent deployments.
+- **Tech stack**: Python (FastAPI, LangChain/LangGraph, Pydantic), TypeScript (Next.js, React), PostgreSQL, Docker, WebSockets; supports CrewAI and Pydantic-AI integrations.
 
-- **Out-of-the-box integrations** for **LLM APIs**, **React components**, and **Pydantic models** (Deep/Pydantic-AI), optimized for real-time agent interactions and modular agentic workflows.
+- **Key features**: Pre-built AI agent framework, modular architecture, and out-of-the-box support for LLM, RAG, and multi-agent orchestration.
 
 ## Why It Matters
 

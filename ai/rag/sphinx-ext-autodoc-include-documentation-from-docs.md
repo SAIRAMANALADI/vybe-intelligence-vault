@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#module-sphinx.ext.autodoc
-published_at: '2026-06-29T01:22:23.804906+05:30'
-collected_at: '2026-06-29T01:22:23.804921+05:30'
+published_at: '2026-06-29T10:38:22.968712+05:30'
+collected_at: '2026-06-29T10:38:22.968725+05:30'
 tags:
 - benchmark
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sphinx-ext-autodoc-include-documentation-from-docs
-first_seen: '2026-06-29T01:22:23.804921+05:30'
-last_seen: '2026-06-29T01:22:23.804921+05:30'
-last_checked: '2026-06-29T01:22:23.804921+05:30'
+first_seen: '2026-06-29T10:38:22.968725+05:30'
+last_seen: '2026-06-29T10:38:22.968725+05:30'
+last_checked: '2026-06-29T10:38:22.968725+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **`sphinx.ext.autodoc`** automates Python API documentation generation by parsing docstrings via directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, etc., with granular control via options (e.g., `:members:`, `:exclude-members:`, `:inherited-members:`).
+- **`sphinx.ext.autodoc`** automates Python documentation generation by parsing docstrings from modules, classes, functions, and attributes using directives like `.. automodule::`, `.. autoclass::`, `.. autofunction::`, etc.
 
-- Supports **configuration flags** (e.g., `autodoc_typehints`, `autodoc_member_order`) and **preprocessing** (e.g., `cut_lines()`, `between()`) to customize docstring parsing, inheritance handling, and output formatting.
+- Key configuration options include `autoclass_content` (control docstring inheritance), `autodoc_typehints` (format/type of type hints in output), and `autodoc_member_order` (order of documented members).
 
-- Integrates with **Sphinx's extension ecosystem** (e.g., `sphinx.ext.napoleon` for NumPy/Google docstrings, `sphinx.ext.viewcode` for source links) and enforces **importability** of documented code for accurate autodoc resolution.
+- Supports preprocessing via `cut_lines()`/`between()` for docstring filtering and provides fine-grained control over documented members using options like `:members:`, `:exclude-members:`, and `:private-members:`.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:23.804906+05:30
+- Published: 2026-06-29T10:38:22.968712+05:30
 
 ## Related Tags
 

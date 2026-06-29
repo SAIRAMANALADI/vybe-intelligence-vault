@@ -8,15 +8,15 @@ local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Retrieval-Augmented Generation (RAG) — RAG multi model documentation
@@ -25,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., vector DBs like FAISS) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
+- **RAG Architecture**: Combines retrieval systems (e.g., document indexing, vector search) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
 
-- **Streamlit Implementation**: Modular Python framework with components for PDF processing (`process_pdf.py`), Q&A (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), leveraging LangChain for chain-based workflows.
+- **Implementation Components**: Includes document processing (PDF splitting, embedding), chain functions (retrieval + generation pipelines), and UI integration (Streamlit) for interactive model comparison and task execution (QA, summarization, translation).
 
-- **Key Workflow**: Document ing
+- **Modular Codebase**: Features `process_pdf.
 
 ## Use Cases
 

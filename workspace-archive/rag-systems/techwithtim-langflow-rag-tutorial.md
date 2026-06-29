@@ -8,7 +8,7 @@ local_vault_path: ai/rag/techwithtim-langflow-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial`
-- **Last Updated**: 2026-06-09T12:30:18Z
-- **Metrics**: 94 stars, 25 forks; language and topics unspecified
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (95 ⭐, 25 🍴) – No description, topics, or language metadata provided.
+- **Last Updated**: 2026-06-29T00:42:26Z (future-dated, likely placeholder or error).
+- **Purpose**: Implicitly focuses on **Langflow-based RAG (Retrieval-Augmented Generation) pipelines**, though no explicit documentation or code context is available.
 
 ## Use Cases
 

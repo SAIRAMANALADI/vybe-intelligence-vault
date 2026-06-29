@@ -9,11 +9,10 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
-- hackernews
 - models
 - openai
 - paper
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising **loading documents**, **chunking text**, **embedding chunks** into vectors, **retrieving relevant chunks** via semantic similarity search, and **generating grounded answers** using an LLM with retrieved context.
+- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLM responses by dynamically retrieving relevant documents from a knowledge base at query time, ensuring answers are grounded in current, domain-specific data rather than static training data, improving accuracy, auditability, and cost-efficiency.
 
-- **Technical Implementation**: Uses **LangChain** for document processing, **ChromaDB** for vector storage, and **OpenAI's embedding/Chat models** (e.g., `text-embedding-3-small`, `gpt-4o-mini`) for embeddings and generation, with modula
+- **Pipeline Components**: A RAG system consists of five core steps: (1) **Loading** documents (PDFs, web pages, etc.), (2) **Chunking** documents into semantically meaningful segme
 
 ## Use Cases
 

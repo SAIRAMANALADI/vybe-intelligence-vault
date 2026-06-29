@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-29T03:47:19.172490+05:30'
+collected_at: '2026-06-29T10:32:40.665755+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-29T03:47:19.172490+05:30'
-last_seen: '2026-06-29T03:47:19.172490+05:30'
-last_checked: '2026-06-29T03:47:19.172490+05:30'
+first_seen: '2026-06-29T10:32:40.665755+05:30'
+last_seen: '2026-06-29T10:32:40.665755+05:30'
+last_checked: '2026-06-29T10:32:40.665755+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive assessment across multiple dimensions (e.g., retrieval quality, generation coherence, and cross-domain robustness).
+- **Benchmark Design**: CRUD_RAG introduces a Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), focusing on **Create**, **Read**, **Update**, and **Delete** operations to assess multi-stage retrieval and generation capabilities.
 
-- **Evaluation Framework**: Implements a structured pipeline with standardized metrics for assessing RAG performance, including retrieval precision/recall, contextual relevance, and factual accuracy in generated outputs.
+- **Evaluation Scope**: The benchmark includes **30K+ manually annotated Chinese QA pairs** across diverse domains, testing LLMs' ability to integrate retrieved knowledge with contextual understanding in a structured CRUD pipeline.
 
-- **Dataset & Tools**: Provides a curated Chinese dataset and open-source Python tools for benchmarking LLMs, enabling reproducible experiments and comparative analysis of RAG architectures.
+- **Performance Metrics**: Evaluates models using **retrieval accuracy**, **generation quality**, and **end-to-end task completion**, providing a standardized framework for comparing RAG systems in Chinese language scenarios.
 
 ## Why It Matters
 

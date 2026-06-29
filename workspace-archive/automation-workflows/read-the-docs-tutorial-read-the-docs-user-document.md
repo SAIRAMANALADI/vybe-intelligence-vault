@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml` (config), `pyproject.toml` (Python metadata), and Sphinx docs in `docs/source/` (`.rst`/`.py` sources).
+- **GitHub Repository Setup**: Tutorial requires a public GitHub repo with `.readthedocs.yaml`, `pyproject.toml`, Sphinx config (`docs/source/conf.py`), and reStructuredText documentation in `docs/source/`.
 
-- **Automated Builds**: Triggered via GitHub webhooks; logs accessible via project dashboard; supports PDF/EPUB/HTML outputs with versioning via `.readthedocs.yaml`.
+- **Read the Docs Integration**: Account creation via GitHub OAuth grants permissions for webhook installation; project import auto-triggers documentation builds from the default branch (`main`).
 
-- **Integration Workflow**: OAuth-based GitHub auth for Read the Docs; project imports via dashboard; builds triggered on `main` branch pushes or PRs
+- **Build Process**: Initial build logs accessible via project home; subsequent builds customiz
 
 ## Use Cases
 

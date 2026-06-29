@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.readthedocs.io/page/tutorial/index.html
-published_at: '2026-06-29T01:21:28.043904+05:30'
-collected_at: '2026-06-29T01:21:28.043916+05:30'
+published_at: '2026-06-29T10:37:14.143279+05:30'
+collected_at: '2026-06-29T10:37:14.143293+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
-first_seen: '2026-06-29T01:21:28.043916+05:30'
-last_seen: '2026-06-29T01:21:28.043916+05:30'
-last_checked: '2026-06-29T01:21:28.043916+05:30'
+first_seen: '2026-06-29T10:37:14.143293+05:30'
+last_seen: '2026-06-29T10:37:14.143293+05:30'
+last_checked: '2026-06-29T10:37:14.143293+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml` (config), `pyproject.toml` (Python metadata), and Sphinx docs in `docs/source/` (`.rst`/`.py` sources).
+- **GitHub Repository Setup**: Tutorial requires a public GitHub repo with `.readthedocs.yaml`, `pyproject.toml`, Sphinx config (`docs/source/conf.py`), and reStructuredText documentation in `docs/source/`.
 
-- **Automated Builds**: Triggered via GitHub webhooks; logs accessible via project dashboard; supports PDF/EPUB/HTML outputs with versioning via `.readthedocs.yaml`.
+- **Read the Docs Integration**: Account creation via GitHub OAuth grants permissions for webhook installation; project import auto-triggers documentation builds from the default branch (`main`).
 
-- **Integration Workflow**: OAuth-based GitHub auth for Read the Docs; project imports via dashboard; builds triggered on `main` branch pushes or PRs.
+- **Build Process**: Initial build logs accessible via project home; subsequent builds customizable via `.readthedocs.yaml` for Python versions, dependencies, and output formats (PDF/EPUB).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T01:21:28.043904+05:30
+- Published: 2026-06-29T10:37:14.143279+05:30
 
 ## Related Tags
 

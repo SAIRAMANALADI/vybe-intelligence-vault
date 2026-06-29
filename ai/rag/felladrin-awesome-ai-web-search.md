@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-06-29T03:47:09.118626+05:30'
-published_at: '2026-06-27T16:16:11Z'
+collected_at: '2026-06-29T10:32:30.622793+05:30'
+published_at: '2026-06-28T22:59:18Z'
 tags:
 - github-repo
-- hackernews
 - html
 - rag
-- workflows
-stars: 1359
+stars: 1360
 language: HTML
 status: active
 license: CC0-1.0
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-06-29T03:47:09.118626+05:30'
-last_seen: '2026-06-29T03:47:09.118626+05:30'
-last_checked: '2026-06-29T03:47:09.118626+05:30'
+first_seen: '2026-06-29T10:32:30.622793+05:30'
+last_seen: '2026-06-29T10:32:30.622793+05:30'
+last_checked: '2026-06-29T10:32:30.622793+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and applications for generative AI, RAG, and metasearch workflows.
-- **Technical scope**: Covers LLM inference, question-answering, retrieval-augmented generation (RAG), and information retrieval systems optimized for AI-driven search.
-- **Metadata**: 1.3k+ stars, 111 forks; last updated June 2026; includes topics like `llm-inference`, `metasearch`, and `generative-ai-tools`.
+- **Curated list** of AI-powered web search tools leveraging **LLMs, RAG, and metasearch** for enhanced information retrieval and question-answering.
+- **Categorized resources** covering **generative AI tools**, **inference engines**, and **retrieval-augmented generation (RAG)** frameworks for web search optimization.
+- **Open-source project** (HTML-based) with **1.36k stars** and **111 forks**, last updated **June 2026**, hosted on GitHub with a companion Hugging Face Space.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: felladrin
-- Stars: 1359
+- Stars: 1360
 - Forks: 111
 - Language: HTML
 - Topics: ai, ai-search-engine, artificial-intelligence, artificial-intelligence-projects, awesome, awesome-list, generative-ai, generative-ai-projects, generative-ai-tools, information-retrieval, llm-inference, metasearch, question-answering, rag, retrieval-augmented-generation, web-search
-- Last Updated: 2026-06-27T16:16:11Z
+- Last Updated: 2026-06-28T22:59:18Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-11-09T19:13:37Z

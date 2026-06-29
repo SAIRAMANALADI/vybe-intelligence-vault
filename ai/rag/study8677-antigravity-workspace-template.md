@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-29T03:46:29.126314+05:30'
+collected_at: '2026-06-29T10:31:50.659688+05:30'
 published_at: '2026-06-28T10:31:54Z'
 tags:
 - agents
@@ -13,8 +13,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
-- workflows
 stars: 1290
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-29T03:46:29.126314+05:30'
-last_seen: '2026-06-29T03:46:29.126314+05:30'
-last_checked: '2026-06-29T03:46:29.126314+05:30'
+first_seen: '2026-06-29T10:31:50.659688+05:30'
+last_seen: '2026-06-29T10:31:50.659688+05:30'
+last_checked: '2026-06-29T10:31:50.659688+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase-specific interactions in AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server integration** facilitating structured knowledge graph construction and retrieval-augmented generation (RAG) for precise, context-aware code intelligence.
-- **Cross-platform compatibility** as a Python-based template supporting OpenAI, MCP, and IDE plugins (e.g., Copilot, Windsurf) for unified developer workflow automation.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for any AI IDE (Claude Code, Cursor, Codex CLI).
+- **Python-based MCP server** integrating RAG, knowledge graphs, and OpenAI-compatible APIs for codebase-specific intelligence.
+- **Supports 100+ repos** (1290+ stars) with IDE plugins, CLI tools, and cross-platform compatibility (Windows, macOS, Linux).
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: study8677
 - Stars: 1290
-- Forks: 261
+- Forks: 260
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
 - Last Updated: 2026-06-28T10:31:54Z

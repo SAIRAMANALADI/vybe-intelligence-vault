@@ -3,18 +3,19 @@ title: LangChain Reference Docs
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://python.langchain.com/api_reference/neo4j/chains/
-published_at: '2026-06-29T03:49:24.858984+05:30'
-collected_at: '2026-06-29T03:49:24.858993+05:30'
+source_url: https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.GraphCypherQAChain.html
+published_at: '2026-06-29T10:35:56.735788+05:30'
+collected_at: '2026-06-29T10:35:56.735801+05:30'
 tags:
 - agents
+- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:langchain-reference-docs
-first_seen: '2026-06-29T03:49:24.858993+05:30'
-last_seen: '2026-06-29T03:49:24.858993+05:30'
-last_checked: '2026-06-29T03:49:24.858993+05:30'
+first_seen: '2026-06-29T10:35:56.735801+05:30'
+last_seen: '2026-06-29T10:35:56.735801+05:30'
+last_checked: '2026-06-29T10:35:56.735801+05:30'
 health_score: 100
 ---
 
@@ -22,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive API Coverage**: Provides unified reference documentation for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, covering Python and TypeScript packages.
-- **Detailed Class/Function Documentation**: Includes exhaustive listings of classes, functions, and types across the entire LangChain ecosystem.
-- **Separate Learning Resources**: Directs users to dedicated guides, tutorials, and conceptual documentation via the main LangChain documentation site.
+- **Comprehensive API Coverage**: Encompasses Python and TypeScript packages for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, detailing classes, functions, and types.
+- **Structured Documentation**: Provides unified reference documentation across the LangChain ecosystem for technical implementation.
+- **Separation of Resources**: Directs users to conceptual guides, tutorials, and additional documentation via the main site ([docs.langchain.com](https://docs.langchain.com)).
 
 ## Why It Matters
 
@@ -34,14 +35,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:49:24.858984+05:30
+- Published: 2026-06-29T10:35:56.735788+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - rag
 - web-crawled
 
 ## Source
 
-Original source: https://python.langchain.com/api_reference/neo4j/chains/
+Original source: https://python.langchain.com/api_reference/neo4j/chains/langchain_neo4j.chains.graph_qa.cypher.GraphCypherQAChain.html

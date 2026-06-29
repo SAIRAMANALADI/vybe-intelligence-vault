@@ -6,7 +6,7 @@ source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
 resource_id: github:leonxlnx/agentic-ai-prompt-research
 local_vault_path: ai/agents/leonxlnx-agentic-ai-prompt-research.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -18,7 +18,6 @@ tags:
 - unknown
 - workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -27,17 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and agent coordination mechanisms for AI-driven coding assistants, emphasizing system prompts and prompt engineering techniques.
-- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, ensuring safe and controlled interactions in coding environments.
-- **Multi-Agent Systems**: Examines coordination strategies among multiple AI agents, optimizing task delegati
+- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications in agentic AI systems for coding tasks.
+- **Reconstructed Prompt Patterns**: Analyzes and reconstructs prompt engineering techniques specific to agentic AI assistants, focusing on efficiency and task decomposition.
+- **Security & System Prompts**: Classifies security risks and optimizes system prompts for agentic AI frameworks like Claude, ensuring robust and secure agent
 
 ## Use Cases
 

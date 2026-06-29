@@ -8,7 +8,7 @@ local_vault_path: ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (GitHub Classroom-created assignment)
-- **Metadata**: 1 star, 68 forks, Python-based, last updated `2025-09-16T07:09:35Z`
-- **Access**: Public repository with no additional topics tagged.
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), last updated 2025-09-16.
+- **Language**: Python-based workflow for a GitHub Classroom assignment (`rag2-hw02`).
+- **Purpose**: Part of a RAG (Retrieval-Augmented Generation) homework assignment, hosted under GitHub Classroom.
 
 ## Use Cases
 

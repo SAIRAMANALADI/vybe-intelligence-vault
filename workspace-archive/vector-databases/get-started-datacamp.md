@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Methods**: Supports email/password login, SSO (Single Sign-On), and OAuth via Google, LinkedIn, Facebook, and Apple.
-- **Session Persistence**: "Remember me" option enables persistent sessions via cookies.
-- **Data Compliance**: Login requires acceptance of Terms of Use, Privacy Policy, and data storage in the USA.
+- **Authentication Methods**: Supports email/password login, SSO, and OAuth via Google, LinkedIn, Facebook, and Apple.
+- **Session Persistence**: "Remember me" option enables persistent sessions via secure cookies.
+- **Data Compliance**: Terms of Use, Privacy Policy, and data storage in the USA are enforced upon sign-in.
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced context-aware AI responses, integrating structured data retrieval with generative models.
-
-- **Multi-modal AI Capabilities**: Supports image generation (via FunctionCall), image understanding, and embedding-based vector search, leveraging Spring AI and Alibaba Cloud services for end-to-end AI workflows.
-
-- **Agentic & Streaming Workflows**: Implements SSE (Serv
+- **Implements SSE streaming, Agent-based workflows, and Knowledge Graph RAG** in Java using Spring AI and Alibaba Cloud services for real-time AI Q&A systems.
+- **Supports advanced AI capabilities** including Function Call, historical message management, image generation/understanding, and Embedding/Vector Database integration for RAG.
+- **Utilizes Alibaba Cloud's AI ecosystem** with modular components for embedding, vector storage, and retrieval-augmented generation (RAG) pipelines.
 
 ## Use Cases
 

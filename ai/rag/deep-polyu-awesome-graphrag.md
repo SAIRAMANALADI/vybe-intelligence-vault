@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-06-29T03:47:04.173926+05:30'
+collected_at: '2026-06-29T10:32:25.680882+05:30'
 published_at: '2026-06-25T20:10:23Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-06-29T03:47:04.173926+05:30'
-last_seen: '2026-06-29T03:47:04.173926+05:30'
-last_checked: '2026-06-29T03:47:04.173926+05:30'
+first_seen: '2026-06-29T10:32:25.680882+05:30'
+last_seen: '2026-06-29T10:32:25.680882+05:30'
+last_checked: '2026-06-29T10:32:25.680882+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on graph-based Retrieval-Augmented Generation (GraphRAG), facilitating research and development in the field.
-
-- **Multi-Domain Coverage**: Encompasses key topics including graphRAG architectures, knowledge graphs, large language models (LLMs), and retrieval-augmented generation (RAG) methodologies.
-
-- **Active Maintenance**: Last updated on **2026-06-25**, ensuring inclusion of recent advancements and trends in GraphRAG research.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based retrieval-augmented generation (GraphRAG)**.
+- **Domain Coverage**: Encompasses **knowledge graphs**, **large language models (LLMs)**, and **retrieval-augmented generation (RAG)** methodologies.
+- **Repository Metrics**: 2,494 stars, 216 forks, last updated **June 25, 2026**.
 
 ## Why It Matters
 

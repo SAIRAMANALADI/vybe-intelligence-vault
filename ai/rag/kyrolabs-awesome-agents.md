@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-06-29T03:48:44.436177+05:30'
+collected_at: '2026-06-29T10:34:05.801115+05:30'
 published_at: '2026-06-28T13:31:57Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- hackernews
+- paper
 - rag
 - scripts
 - unknown
@@ -21,9 +20,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-06-22T00:56:18Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-06-29T03:48:44.436177+05:30'
-last_seen: '2026-06-29T03:48:44.436177+05:30'
-last_checked: '2026-06-29T03:48:44.436177+05:30'
+first_seen: '2026-06-29T10:34:05.801115+05:30'
+last_seen: '2026-06-29T10:34:05.801115+05:30'
+last_checked: '2026-06-29T10:34:05.801115+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated collection**: Aggregates state-of-the-art AI agent frameworks, libraries, and tools (e.g., AutoGen, LangChain, CrewAI) for research and development.
-- **Multi-domain coverage**: Includes agents for software engineering, research, automation, and multi-agent systems with benchmarks and evaluation metrics.
-- **Active maintenance**: Last updated June 2026, ensuring inclusion of recent advancements in agentic AI architectures and orchestration techniques.
+- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, including autonomous agents, multi-agent systems, and agent-based modeling platforms.
+- **Multi-Domain Coverage**: Encompasses agents for research, coding, web browsing, task automation, and reinforcement learning, with links to research papers, GitHub repositories, and documentation.
+- **Community-Driven**: Open-source repository with 2,559 stars and 661 forks, last updated in June 2026, facilitating contributions and updates from the AI research community.
 
 ## Why It Matters
 

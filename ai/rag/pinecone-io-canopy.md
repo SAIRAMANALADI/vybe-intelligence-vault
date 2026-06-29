@@ -6,7 +6,7 @@ source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/canopy?source=post_page
 resource_id: github:pinecone-io/canopy
 -----dba899ae0355---------------------------------------
-collected_at: '2026-06-29T03:49:19.337464+05:30'
+collected_at: '2026-06-29T10:35:50.889553+05:30'
 published_at: '2026-06-25T23:37:23Z'
 tags:
 - github-repo
@@ -21,9 +21,9 @@ archived: true
 created_at: '2023-08-08T15:42:16Z'
 pushed_at: '2024-11-13T06:32:28Z'
 resource_id: github:pinecone-io/canopy
-first_seen: '2026-06-29T03:49:19.337464+05:30'
-last_seen: '2026-06-29T03:49:19.337464+05:30'
-last_checked: '2026-06-29T03:49:19.337464+05:30'
+first_seen: '2026-06-29T10:35:50.889553+05:30'
+last_seen: '2026-06-29T10:35:50.889553+05:30'
+last_checked: '2026-06-29T10:35:50.889553+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: Canopy is a Python-based Retrieval Augmented Generation (RAG) framework and context engine designed to integrate with Pinecone's vector database for enhanced LLM performance.
-- **Key Features**: Optimized for generative AI workflows, it facilitates efficient retrieval and augmentation of context using Pinecone's vector search capabilities.
-- **Integration**: Leverages Pinecone's vector database to power real-time, scalable RAG pipelines for LLM applications.
+- **RAG Framework**: Python-based Retrieval Augmented Generation (RAG) framework integrating Pinecone's vector database for efficient context retrieval and augmentation in generative AI workflows.
+
+- **Context Engine**: Powers dynamic context generation by combining Pinecone's vector search with LLMs, enabling real-time, context-aware responses for AI applications.
+
+- **Scalability & Integration**: Optimized for production use with Pinecone's managed vector database, supporting high-performance retrieval and seamless LLM integration for scalable generative AI solutions.
 
 ## Why It Matters
 

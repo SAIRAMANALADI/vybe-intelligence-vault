@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: high
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Structure**: Provides a hands-on, end-to-end guide for building production-ready **Large Language Model (LLM)** and **Retrieval-Augmented Generation (RAG)** systems using **LLMOps** best practices, including 12 structured lessons and source code.
-
-- **Technical Stack**: Implements **Python**-based infrastructure with key tools like **AWS** (cloud), **Bytewax** (streaming), **Qdrant** (vector DB), **Pulumi** (IaC), **Comet-ML** (experiment tracking), and **Docker** for containerization
+- **End-to-end LLM & RAG system**: Course provides hands-on implementation of production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+- **MLOps & infrastructure tooling**: Covers AWS, Pulumi (IaC), Docker, Qdrant (vector DB), Bytewax (streaming), Qwak (MLOps platform), and Comet.ml (experiment tracking) for scalable deployment.
+- **Python-based course**: Focuses on machine learning engineering, system des
 
 ## Use Cases
 

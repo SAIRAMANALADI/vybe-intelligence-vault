@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-29T03:46:24.173837+05:30'
+collected_at: '2026-06-29T10:31:45.769888+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
+- anthropic
 - github-repo
-- hackernews
+- openai
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-29T03:46:24.173837+05:30'
-last_seen: '2026-06-29T03:46:24.173837+05:30'
-last_checked: '2026-06-29T03:46:24.173837+05:30'
+first_seen: '2026-06-29T10:31:45.769888+05:30'
+last_seen: '2026-06-29T10:31:45.769888+05:30'
+last_checked: '2026-06-29T10:31:45.769888+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub template for building a **Retrieval-Augmented Generation (RAG)** research agent in Python, designed for research workflows.
-- **Key Components**: Likely includes modular pipelines for document retrieval, LLM integration, and agentic decision-making (e.g., tool use, multi-step reasoning).
-- **Technical Stack**: Leverages Python with dependencies on LangChain (or similar frameworks) for LLM orchestration and vector databases (e.g., Chroma, FAISS) for retrieval.
+- **Template Structure**: Provides a modular Python framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document retrieval, processing, and agent orchestration.
+
+- **Key Dependencies**: Implicitly relies on LangChain’s core libraries (e.g., `langchain-core`, `langchain-community`) and likely integrates with vector stores (e.g., Chroma, FAISS) and LLM APIs (e.g., OpenAI, Anthropic) for RAG pipelines.
+
+- **Use Case**: Designed for automating research workflows, enabling agents to query, synthesize, and generate insights from large document corpora via hybrid retrieval (semantic + keyword) and agentic decision-making.
 
 ## Why It Matters
 

@@ -39,9 +39,7 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Architecture**: RAG integrates a retriever (vector/lexical) with an LLM generator, where retrieved context conditions generation to improve factuality and reduce hallucinations; key components include embeddings, vector stores, rerankers, and orchestration layers.
-
-- **Chunking & Embeddings Optimization**: Chunking strategies (fixed-size, semantic, structure-aware) and overlap significantly impact retrieval quality; domain-specific fine-tuning of embeddings (e.g., contrastive traini
+*   RAG systems augment LLMs by integrating a retriever (optimized via hybrid search, ANN indexes
 
 ## Use Cases
 

@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR systems, enabling integration with LLMs, vector databases, and multi-agent architectures for RAG applications.
-- **Core Features**: Supports fine-tuning, data ingestion, and retrieval-augmented generation (RAG) workflows with modular components for document processing, indexing, and querying.
-- **Ecosystem Integration**: Compatible with vector databases, multi-agent systems, and fine-tu
+- **Framework Overview**: LlamaIndex is a Python-based framework designed for building document agents and OCR systems, integrating with LLMs for retrieval-augmented generation (RAG) and multi-agent workflows.
+
+- **Key Features**: Supports vector databases, fine-tuning, and multi-agent architectures, enabling advanced document processing and application development.
+
+- **Ecosystem**: Actively maintained (last updated June 2026) with 50.4K+ stars and 7.6K+ forks, emphasizing agents, data pipeline
 
 ## Use Cases
 

@@ -8,13 +8,16 @@ local_vault_path: ai/agents/addyosmani-agent-skills.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: product
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
+- scripts
 - shell
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,14 +29,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: product
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-Production-grade engineering skills for AI coding agents.
+- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, focusing on automation and efficiency in development workflows.
+- **Key Features**: Includes specialized tools and configurations for agents like `claude-code` and `cursor`, optimized for tasks such as code generation, debugging, and project scaffolding.
+- **Technical Stack**: Primarily implemented in Shell, with integrations for AI-driven development environments (e.g., Antigravity IDE) and last updated
 
 ## Use Cases
 

@@ -4,6 +4,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
+| ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://arxiv.org/abs/2308.05201) | `ai-coding-agents/` | 70 |
 | [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) | `ai-coding-agents/` | 70 |
 | [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) | `ai-coding-agents/` | 70 |
 | [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents](https://arxiv.org/abs/2606.12666) | `ai-coding-agents/` | 70 |
 | [How to Detect and Measure the AI Dangers to Democracy](https://arxiv.org/abs/2606.16054) | `ai-coding-agents/` | 70 |
 | [GCT-MARL: Graph-Based Contrastive Transfer for Sample-Efficient Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2606.25073) | `ai-coding-agents/` | 70 |
-| [From AGI to ASI](https://arxiv.org/abs/2606.12683) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

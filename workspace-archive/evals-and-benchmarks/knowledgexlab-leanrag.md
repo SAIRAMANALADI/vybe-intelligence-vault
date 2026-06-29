@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → full graph) and semantic aggregation for improved contextual relevance.
-- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
-- **AAAI 2026 Benchmarking**: Evaluated on standard RAG benchmarks with reported gains in factuality, coherence, an
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to optimize context relevance for generation tasks.
+
+- **Efficiency Optimizations**: Utilizes lightweight graph traversal and pruning techniques to reduce retrieval latency while maintaining high recall, targeting AAAI 2026 efficiency benchmarks.
+
+- **Python-Based Implementation**: Provides modular compone
 
 ## Use Cases
 

@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source framework (105k ⭐) for LLM application development with modular RAG components, supporting 100+ integrations (models, vector stores, retrievers), evaluation tools, and LangSmith/LangGraph ecosystem integration. Core RAG pipelines require `pip install -U langchain`.
+- **Firecrawl**: AI-powered web scraping engine enabling LLM-friendly data extraction at scale, featuring `scrape()` for structured Markdown/HTML conversion, `crawl()` for site traversal, and `deep-research` endpoint for OpenAI-like research capabilities via API key-based access.
 
-- **Milvus**: Cloud-native vector database (33.9k ⭐) optimized for billion-scale ANN search, offering hybrid vector/scalar queries, multi-modal embeddings, and seamless integration with RAG frameworks (La
+- **LangChain**: Modular framework (105k ⭐) for LLM/RAG pipelines with 5 core components: data connectors (100+ integrations), model flexibility (swap LLMs), retrieval strategies (vector/keyword), evaluation tools (Lan
 
 ## Use Cases
 

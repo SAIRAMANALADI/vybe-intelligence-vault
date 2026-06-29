@@ -8,16 +8,15 @@ local_vault_path: ai/rag/django-allauth-pypi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - rag
 - reddit
 - web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # django-allauth · PyPI
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Purpose & Scope**: `django-allauth` is a production-stable Django package (v65.18.0) integrating authentication, registration, account management, and third-party (social) authentication with support for OAuth 1.0/2.0, OpenID Connect, SAML 2.0, and custom protocols (e.g., Telegram).
+- **Django Integration**: `django-allauth` v65.18.0 is a production-stable Django package (MIT License) requiring Python ≥3.10, supporting Django 4.2–6.0, providing integrated local/social authentication, account management, and verification flows via adapter-based customization.
 
-- **Key Features**: Supports multiple authentication schemes (local/email/username), mandatory email verification, rate limiting, account enumeration prevention, and enterprise-grade SAML 2.0 integration; highly
+- **Authentication Features**: Supports local (username/email) and social (OAuth 1.0/2.0, OpenID Connect, SAML 2.0, Telegram) auth, with rate limiting, account enumeration prevention, and MFA via extras (`mfa`, `saml`,
 
 ## Use Cases
 

@@ -14,6 +14,7 @@ tags:
 - anthropic
 - producthunt
 - reddit
+- scripts
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Python 3.15.0 beta 3** released with new features and optimizations (e.g., [PEP 749](https://peps.python.org/pep-0749/)), alongside security patches for `python.org` download metadata API authentication bypass.
-- **Core language features** include arithmetic operations (`/`, `//`, `**`), list comprehensions, control flow (`for`, `while`, `range`), and function definitions with optional/keyword arguments.
-- **Ecosystem highlights**: Web (Django, FastAPI), AI/ML (PyTorch, scikit-learn), scient
+- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with intuitive syntax, including true division (`/`) and floor division (`//`), and allows grouping via parentheses.
+- Python’s **compound data types** (e.g., lists) support indexing, slicing, and built-in functions, with list comprehensions enabling concise transformations (e.g., `[fruit.upper() for fruit in fruits]`).
+- Python’s **control flow** includes standard constructs (`if`, `for`, `while`, `range`) and **functi
 
 ## Use Cases
 

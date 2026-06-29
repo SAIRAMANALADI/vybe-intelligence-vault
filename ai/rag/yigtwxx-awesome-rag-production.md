@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-29T03:46:59.103357+05:30'
+collected_at: '2026-06-29T10:32:20.644173+05:30'
 published_at: '2026-06-27T20:46:42Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 127
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-27T20:46:38Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-29T03:46:59.103357+05:30'
-last_seen: '2026-06-29T03:46:59.103357+05:30'
-last_checked: '2026-06-29T03:46:59.103357+05:30'
+first_seen: '2026-06-29T10:32:20.644173+05:30'
+last_seen: '2026-06-29T10:32:20.644173+05:30'
+last_checked: '2026-06-29T10:32:20.644173+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering AI engineering, embeddings, LLMs, and MLOps.
 
-- **Python-Centric Tooling**: Focuses on Python-based implementations, including LangChain, for integrating large language models (LLMs) with retrieval mechanisms, emphasizing production-ready pipelines and deployment strategies.
+- **Technical Stack Focus**: Primarily Python-based, with integrations for LangChain, vector databases, and LLM operations (LLMOps), emphasizing production deployment and scalability.
 
-- **Comprehensive Ecosystem Coverage**: Encompasses 20+ topics (e.g., AI engineering, LLMops, generative AI) with curated lists of libraries, vector databases, and architectural patterns for end-to-end RAG system development.
+- **Continuous Updates & Community**: Last updated June 2026, the repository maintains active development with 127 stars and 33 forks, serving as a dynamic reference for RAG system implementation.
 
 ## Why It Matters
 

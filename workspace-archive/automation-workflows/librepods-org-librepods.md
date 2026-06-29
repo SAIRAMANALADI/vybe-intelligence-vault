@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rbanffy. Score: 191, Comments: 56.
+Hacker News story by rbanffy. Score: 323, Comments: 105.
 Original Link: https://github.com/librepods-org/librepods
 
 ## Use Cases

@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-06-29T03:48:04.404804+05:30'
-published_at: '2026-06-28T19:26:51Z'
+collected_at: '2026-06-29T10:33:25.708091+05:30'
+published_at: '2026-06-29T04:35:03Z'
 tags:
 - agents
 - github-repo
 - models
 - python
 - rag
-stars: 2286
+- workflows
+stars: 2298
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-06-29T03:48:04.404804+05:30'
-last_seen: '2026-06-29T03:48:04.404804+05:30'
-last_checked: '2026-06-29T03:48:04.404804+05:30'
+first_seen: '2026-06-29T10:33:25.708091+05:30'
+last_seen: '2026-06-29T10:33:25.708091+05:30'
+last_checked: '2026-06-29T10:33:25.708091+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Guide (2026)**: Covers LangChain, LangGraph, Coze, Dify, MCP, skills, LLM, RAG, and prompt engineering with a structured learning path from basics to enterprise deployment and fine-tuning.
+- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering; includes enterprise-grade deployment, fine-tuning, and end-to-end project deployment workflows.
 
-- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-grade deployment strategies, and an interview question bank tailored for AI application development engineer roles.
+- **Multi-Framework & Tool Integration**: Integrates agent frameworks (LangChain, LangGraph), AI platforms (Coze, Dify), and MCP for modular agent development with skills-based architectures.
 
-- **Multi-Framework & Tool Integration**: Focuses on Python-based agent frameworks (e.g., LangChain, LangGraph) and tools (e.g., Coze, Dify, MCP) for building, deploying, and optimizing AI agents.
+- **Interview & Project Readiness**: Provides a structured curriculum with hands-on projects, interview question banks, and role-specific preparation for AI application development engineering positions.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: didilili
-- Stars: 2286
+- Stars: 2298
 - Forks: 300
 - Language: Python
 - Topics: agent, agent-framework, agentic-ai, ai-agent, aigc, coze, cursor, deepagents, dify, gpt, langchain, langgraph, llm, mcp, rag, skills, tutorial
-- Last Updated: 2026-06-28T19:26:51Z
+- Last Updated: 2026-06-29T04:35:03Z
 - License: MIT
 - Archived: No
 - Created At: 2026-01-29T02:49:11Z

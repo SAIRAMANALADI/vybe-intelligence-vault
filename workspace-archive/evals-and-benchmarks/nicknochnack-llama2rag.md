@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient data indexing and retrieval.
-- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for modular RAG pipeline construction.
-- **Scalability**: Supports large-scale LLM inference with optimized retrieval mechanisms for enhanced contextual generation.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient document retrieval and generation.
+- **Architecture**: Combines vector embeddings (likely via FAISS or similar) for document indexing and Llama 2 for contextual response generation.
+- **Environment**: Jupyter Notebook-based implementation, optimized for GPU acceleration (assumed due to 70B model size).
 
 ## Use Cases
 

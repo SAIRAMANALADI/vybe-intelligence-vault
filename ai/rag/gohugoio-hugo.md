@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases
-published_at: '2026-06-29T03:50:26.539755+05:30'
-collected_at: '2026-06-29T03:50:26.539770+05:30'
+published_at: '2026-06-29T10:37:33.093210+05:30'
+collected_at: '2026-06-29T10:37:33.093223+05:30'
 tags:
 - agents
 - frontend_ui
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-06-29T03:50:26.539770+05:30'
-last_seen: '2026-06-29T03:50:26.539770+05:30'
-last_checked: '2026-06-29T03:50:26.539770+05:30'
+first_seen: '2026-06-29T10:37:33.093223+05:30'
+last_seen: '2026-06-29T10:37:33.093223+05:30'
+last_checked: '2026-06-29T10:37:33.093223+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,20 @@ health_score: 100
 
 ## Summary
 
-- **Hugo v0.163.3** introduces fixes for code block rendering (escaping language identifiers), preserves non-ASCII whitespace in parsers, and adds support for Babel/PostCSS config variants in resource processing.
+- **Security & Bug Fixes**:
+  - Fixed page/section name collision regression in `hugolib` ([#15046](https://github.com/gohugoio/hugo/issues/15046)).
+  - Resolved `ERR_ACCESS_DENIED` in Node.js resolver ([#15041](https://github.com/gohugoio/hugo/issues/15041)).
+  - Standardized behavior for missing external converters in `markup` ([#14222](https://github.com/gohugoio/hugo/issues/14222)).
+  - Security patches: Normalized IPv4 host encodings in `http.urls` check and dropped symlinks in filesystem operations.
 
-- **Hugo v0.163.2** resolves `ERR_ACCESS_DENIED` in Node.js resolvers and standardizes behavior for missing external converters in markup processing.
+- **AVIF & Imaging Improvements**:
+  - Reduced default AVIF `quality` to 60 (comparable to JPEG/WebP at 75) and added per-format quality/config support.
+  - Introduced `hint` parameter for AVIF (YUV420 for photos, YUV444 for text/icons) to optimize encoding memory.
 
-- **Hugo v0.163.0** improves AVIF image handling with lower default quality (60) and YUV420 chroma subsampling for lossy compression, alongside deprecations and Go version alignment.
+- **Deprecations & Build Updates**:
+  - Deprecated `Imaging.Compression` in favor of format-specific configs (`webp`, `avif`).
+  - Removed deprecated `baseUrl` in `jsconfig` and aligned tests with deprecated link/image render hook settings.
+  - Enforced Go version alignment (latest only) and re-added `macos-latest` to CI test matrix.
 
 ## Why It Matters
 
@@ -40,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:50:26.539755+05:30
+- Published: 2026-06-29T10:37:33.093210+05:30
 
 ## Related Tags
 

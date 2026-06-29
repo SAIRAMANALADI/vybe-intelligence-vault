@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-06-29T03:47:14.200479+05:30'
+collected_at: '2026-06-29T10:32:35.682793+05:30'
 published_at: '2026-06-11T16:55:48Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - paper
 - python
 - rag
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-06-29T03:47:14.200479+05:30'
-last_seen: '2026-06-29T03:47:14.200479+05:30'
-last_checked: '2026-06-29T03:47:14.200479+05:30'
+first_seen: '2026-06-29T10:32:35.682793+05:30'
+last_seen: '2026-06-29T10:32:35.682793+05:30'
+last_checked: '2026-06-29T10:32:35.682793+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository contains a structured collection of research papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric**: All listed resources are Python-based, ensuring compatibility with popular ML/NLP libraries (e.g., Hugging Face, PyTorch) and facilitating reproducibility.
-- **Recent Updates**: Last synchronized on **2026-06-11**, indicating active maintenance and inclusion of cutting-edge RAG advancements.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG), emphasizing technical depth in retrieval mechanisms and generative integration.
+- **Python-Centric Implementation**: All listed resources are Python-based, ensuring compatibility with libraries like `transformers`, `faiss`, and `pyserini` for scalable RAG pipelines.
+- **Last Updated (2026-06-11)**: Repository reflects recent advancements in RAG, including dynamic retrieval strategies, hybrid search architectures, and evaluation benchmarks.
 
 ## Why It Matters
 

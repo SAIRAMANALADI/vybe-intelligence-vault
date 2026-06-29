@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/GraphRAG-Bench/GraphRAG-Benchmark
-collected_at: '2026-06-29T03:47:14.146785+05:30'
+collected_at: '2026-06-29T10:32:35.637321+05:30'
 published_at: '2026-06-28T13:40:20Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 450
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T03:34:06Z'
 pushed_at: '2026-06-07T02:17:59Z'
 resource_id: github:graphrag-bench/graphrag-benchmark
-first_seen: '2026-06-29T03:47:14.146785+05:30'
-last_seen: '2026-06-29T03:47:14.146785+05:30'
-last_checked: '2026-06-29T03:47:14.146785+05:30'
+first_seen: '2026-06-29T10:32:35.637321+05:30'
+last_seen: '2026-06-29T10:32:35.637321+05:30'
+last_checked: '2026-06-29T10:32:35.637321+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: Provides a standardized evaluation suite (`GraphRAG-Bench`) for GraphRAG models, including datasets and metrics for assessing performance in graph-based retrieval-augmented generation (RAG) tasks.
-
-- **Technical Scope**: Focuses on analyzing when graph structures enhance RAG performance, covering retrieval strategies, graph construction methods, and model architectures optimized for graph-augmented generation.
-
-- **Implementation**: Python-based repository with modular components for dataset generation, evaluation pipelines, and comparative analysis across different GraphRAG configurations.
+- **Benchmark Framework**: Provides an official evaluation suite for GraphRAG models, designed to assess performance in graph-based retrieval-augmented generation (RAG) systems, with a focus on ICLR'26 standards.
+- **Dataset & Analysis Tools**: Includes a comprehensive dataset and analytical tools to evaluate when graph structures enhance RAG performance, covering retrieval, generation, and reasoning tasks.
+- **Python Implementation**: Implements the benchmark in Python, supporting modular extensions for custom graph RAG configurations and standardized evaluation metrics.
 
 ## Why It Matters
 

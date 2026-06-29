@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Overview - Knative](../ai/rag/overview-knative.md) ([Source URL](https://knative.dev/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:59:19.134719+05:30
-- **Local Path**: `ai/rag/overview-knative.md`
-
-### 2. [Gemini Enterprise app: Best of Google AI for Business | Google Cloud](../ai/rag/gemini-enterprise-app-best-of-google-ai-for-busine.md) ([Source URL](https://cloud.google.com/gemini-enterprise?e=48754805))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:59:15.727841+05:30
-- **Local Path**: `ai/rag/gemini-enterprise-app-best-of-google-ai-for-busine.md`
-
-### 3. [Gemini 3.5: frontier intelligence with action](../ai/rag/gemini-3-5-frontier-intelligence-with-action.md) ([Source URL](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:59:11.653002+05:30
-- **Local Path**: `ai/rag/gemini-3-5-frontier-intelligence-with-action.md`
-
-### 4. [Models â Google DeepMind](../ai/resources/models-a-google-deepmind.md) ([Source URL](https://deepmind.google/models))
+### 1. [Make Safari your default web browser on Mac - Apple Support](../ai/resources/make-safari-your-default-web-browser-on-mac-apple.md) ([Source URL](https://support.apple.com/guide/safari/make-safari-your-default-web-browser-ibrwa008/mac))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:59:09.333365+05:30
-- **Local Path**: `ai/resources/models-a-google-deepmind.md`
+- **Collected At**: 2026-06-29T10:45:17.484064+05:30
+- **Local Path**: `ai/resources/make-safari-your-default-web-browser-on-mac-apple.md`
 
-### 5. [sphinx-doc/sphinx](../ai/resources/sphinx-doc-sphinx.md) ([Source URL](https://github.com/sphinx-doc/sphinx))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:58:48.960618+05:30
-- **Local Path**: `ai/resources/sphinx-doc-sphinx.md`
-
-### 6. [Unintended Consequences: Twelve Years under the DMCA | Electronic Frontier Foundation](../ai/rag/unintended-consequences-twelve-years-under-the-dmc.md) ([Source URL](https://eff.org/wp/unintended-consequences-under-dmca))
+### 2. [Change your default apps for features on iPhone and iPad - Apple Support](../ai/rag/change-your-default-apps-for-features-on-iphone-an.md) ([Source URL](https://support.apple.com/en-us/121430))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:58:18.077763+05:30
-- **Local Path**: `ai/rag/unintended-consequences-twelve-years-under-the-dmc.md`
+- **Collected At**: 2026-06-29T10:45:17.141611+05:30
+- **Local Path**: `ai/rag/change-your-default-apps-for-features-on-iphone-an.md`
 
-### 7. [Chapter 12 - Circular 92 | U.S. Copyright Office](../ai/rag/chapter-12-circular-92-u-s-copyright-office.md) ([Source URL](https://copyright.gov/title17/92chap12.html))
+### 3. [Personal Safety User Guide - Apple Support](../ai/resources/personal-safety-user-guide-apple-support.md) ([Source URL](https://support.apple.com/guide/personal-safety/welcome/web))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:45:12.538874+05:30
+- **Local Path**: `ai/resources/personal-safety-user-guide-apple-support.md`
+
+### 4. [Manage your Apple Account](../ai/resources/manage-your-apple-account.md) ([Source URL](https://appleid.apple.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:45:12.022561+05:30
+- **Local Path**: `ai/resources/manage-your-apple-account.md`
+
+### 5. [Apple - Legal](../ai/rag/apple-legal.md) ([Source URL](https://apple.com/legal))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:58:17.324207+05:30
-- **Local Path**: `ai/rag/chapter-12-circular-92-u-s-copyright-office.md`
+- **Collected At**: 2026-06-29T10:45:12.014430+05:30
+- **Local Path**: `ai/rag/apple-legal.md`
 
-### 8. [Publications – Google Research](../ai/rag/publications-google-research.md) ([Source URL](https://research.google/pubs?category=responsible-ai))
+### 6. [iCloud](../ai/rag/icloud.md) ([Source URL](https://icloud.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:55:25.508388+05:30
-- **Local Path**: `ai/rag/publications-google-research.md`
+- **Collected At**: 2026-06-29T10:45:10.991529+05:30
+- **Local Path**: `ai/rag/icloud.md`
 
-### 9. [pradyunsg/furo](../ai/resources/pradyunsg-furo.md) ([Source URL](https://github.com/pradyunsg/furo))
+### 7. [Shopping Help - Apple](../ai/resources/shopping-help-apple.md) ([Source URL](https://apple.com/us/shop/goto/help))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:55:23.202409+05:30
-- **Local Path**: `ai/resources/pradyunsg-furo.md`
+- **Collected At**: 2026-06-29T10:45:08.103352+05:30
+- **Local Path**: `ai/resources/shopping-help-apple.md`
 
-### 10. [Sphinx — Sphinx documentation](../ai/resources/sphinx-sphinx-documentation.md) ([Source URL](https://sphinx-doc.org))
+### 8. [Legal - Use of Cookies - Apple](../ai/resources/legal-use-of-cookies-apple.md) ([Source URL](https://apple.com/privacy/use-of-cookies))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:55:22.562279+05:30
-- **Local Path**: `ai/resources/sphinx-sphinx-documentation.md`
+- **Collected At**: 2026-06-29T10:44:03.307962+05:30
+- **Local Path**: `ai/resources/legal-use-of-cookies-apple.md`
 
-### 11. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
+### 9. [About privacy information on the App Store and the choices you have to control your data - Apple Support](../ai/resources/about-privacy-information-on-the-app-store-and-the.md) ([Source URL](https://support.apple.com/kb/ht211970))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:55:22.402855+05:30
-- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
+- **Collected At**: 2026-06-29T10:43:58.542470+05:30
+- **Local Path**: `ai/resources/about-privacy-information-on-the-app-store-and-the.md`
 
-### 12. [Cloudflare · GitHub](../ai/agents/cloudflare-github.md) ([Source URL](https://github.com/cloudflare))
+### 10. [Legal - App Store & Privacy- Apple](../ai/rag/legal-app-store-privacy-apple.md) ([Source URL](https://apple.com/legal/privacy/data/en/app-store))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:43:58.217656+05:30
+- **Local Path**: `ai/rag/legal-app-store-privacy-apple.md`
+
+### 11. [Transformers · Hugging Face](../ai/rag/huggingface-docs-transformers.md) ([Source URL](https://huggingface.co/docs/transformers))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:42:36.027278+05:30
+- **Local Path**: `ai/rag/huggingface-docs-transformers.md`
+
+### 12. [TensorFlow](../ai/agents/tensorflow.md) ([Source URL](https://tensorflow.org))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T03:55:18.579346+05:30
-- **Local Path**: `ai/agents/cloudflare-github.md`
+- **Collected At**: 2026-06-29T10:42:35.868856+05:30
+- **Local Path**: `ai/agents/tensorflow.md`
 
-### 13. [Learning Center | Cloudflare](../ai/rag/learning-center-cloudflare.md) ([Source URL](https://cloudflare.com/learning))
+### 13. [âApple Support App - App Store](../ai/rag/aapple-support-app-app-store.md) ([Source URL](https://apps.apple.com/us/app/apple-support/id1130498044?pt=2003&ct=support.footer&mt=8&l=en))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:55:16.817205+05:30
-- **Local Path**: `ai/rag/learning-center-cloudflare.md`
+- **Collected At**: 2026-06-29T10:42:25.111849+05:30
+- **Local Path**: `ai/rag/aapple-support-app-app-store.md`
 
-### 14. [AWS Site Terms](../ai/rag/aws-site-terms.md) ([Source URL](https://aws.amazon.com/terms?nc1=f_pr))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:55:14.646027+05:30
-- **Local Path**: `ai/rag/aws-site-terms.md`
-
-### 15. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](https://law.cornell.edu/uscode/text/17/512))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:55:12.029850+05:30
-- **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
-
-### 16. [Digital Millennium Copyright Act - Wikipedia](../ai/rag/digital-millennium-copyright-act-wikipedia.md) ([Source URL](https://en.wikipedia.org/wiki/digital_millennium_copyright_act))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:55:11.413085+05:30
-- **Local Path**: `ai/rag/digital-millennium-copyright-act-wikipedia.md`
-
-### 17. [GitHub Features · GitHub](../ai/rag/github-features-github.md) ([Source URL](https://github.com/features))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:41.559062+05:30
-- **Local Path**: `ai/rag/github-features-github.md`
-
-### 18. [Atlassian Customer Agreement | Atlassian](../ai/rag/atlassian-customer-agreement-atlassian.md) ([Source URL](https://atlassian.com/legal/cloud-terms-of-service))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:36.812512+05:30
-- **Local Path**: `ai/rag/atlassian-customer-agreement-atlassian.md`
-
-### 19. [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](../ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md) ([Source URL](https://github.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:36.550934+05:30
-- **Local Path**: `ai/rag/github-change-is-constant-github-keeps-you-ahead-g.md`
-
-### 20. [git/git](../ai/resources/git-git.md) ([Source URL](https://github.com/git/git))
+### 14. [Newsroom - Apple](../ai/resources/newsroom-apple.md) ([Source URL](https://apple.com/newsroom))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:25.309417+05:30
-- **Local Path**: `ai/resources/git-git.md`
+- **Collected At**: 2026-06-29T10:42:18.812066+05:30
+- **Local Path**: `ai/resources/newsroom-apple.md`
 
-### 21. [pnpm/pnpm](../ai/rag/pnpm-pnpm.md) ([Source URL](https://github.com/pnpm/pnpm))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:25.285994+05:30
-- **Local Path**: `ai/rag/pnpm-pnpm.md`
-
-### 22. [yarnpkg/berry](../ai/resources/yarnpkg-berry.md) ([Source URL](https://github.com/yarnpkg/berry))
+### 15. [Investor Relations - Apple](../ai/resources/investor-relations-apple.md) ([Source URL](https://investor.apple.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:25.263784+05:30
-- **Local Path**: `ai/resources/yarnpkg-berry.md`
+- **Collected At**: 2026-06-29T10:42:18.404185+05:30
+- **Local Path**: `ai/resources/investor-relations-apple.md`
 
-### 23. [Nx â Smart Monorepos Â· Fast Builds](../ai/rag/nx-a-smart-monorepos-a-fast-builds.md) ([Source URL](https://nx.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:24.548656+05:30
-- **Local Path**: `ai/rag/nx-a-smart-monorepos-a-fast-builds.md`
-
-### 24. [Vite | Next Generation Frontend Tooling](../ai/rag/vite-next-generation-frontend-tooling.md) ([Source URL](https://vite.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:23.730801+05:30
-- **Local Path**: `ai/rag/vite-next-generation-frontend-tooling.md`
-
-### 25. [Amazon.com](../ai/resources/amazon-com.md) ([Source URL](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20))
+### 16. [appstoreconnect.apple.com](../ai/resources/app-store-connect.md) ([Source URL](https://appstoreconnect.apple.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:22.533453+05:30
-- **Local Path**: `ai/resources/amazon-com.md`
+- **Collected At**: 2026-06-29T10:42:14.468087+05:30
+- **Local Path**: `ai/resources/app-store-connect.md`
 
-### 26. [Documentation/RelNotes/2.54.0.adoc · HEAD · git-scm / Git · GitLab](../ai/rag/documentation-relnotes-2-54-0-adoc-head-git-scm-gi.md) ([Source URL](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.54.0.adoc))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:22.074176+05:30
-- **Local Path**: `ai/rag/documentation-relnotes-2-54-0-adoc-head-git-scm-gi.md`
-
-### 27. [Releases · langfuse/langfuse · GitHub](../ai/rag/langfuse-langfuse.md) ([Source URL](https://github.com/langfuse/langfuse))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:21.276619+05:30
-- **Local Path**: `ai/rag/langfuse-langfuse.md`
-
-### 28. [discourse/discourse](../ai/resources/discourse-discourse.md) ([Source URL](https://github.com/discourse/discourse))
+### 17. [Apple Open Source](../ai/resources/apple-open-source.md) ([Source URL](https://opensource.apple.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:20.495253+05:30
-- **Local Path**: `ai/resources/discourse-discourse.md`
+- **Collected At**: 2026-06-29T10:42:14.396123+05:30
+- **Local Path**: `ai/resources/apple-open-source.md`
 
-### 29. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
+### 18. [numpy/numpy](../ai/resources/numpy-numpy.md) ([Source URL](https://github.com/numpy/numpy))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:20.280279+05:30
-- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
+- **Collected At**: 2026-06-29T10:42:11.157420+05:30
+- **Local Path**: `ai/resources/numpy-numpy.md`
 
-### 30. [GitHub Copilot CLI command reference - GitHub Docs](../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
+### 19. [Welcome to Python.org](../ai/resources/welcome-to-python-org.md) ([Source URL](https://python.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:42:02.568614+05:30
+- **Local Path**: `ai/resources/welcome-to-python-org.md`
+
+### 20. [django-allauth](../ai/rag/django-allauth.md) ([Source URL](https://docs.allauth.org/en/latest))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:41:43.558281+05:30
+- **Local Path**: `ai/rag/django-allauth.md`
+
+### 21. [Workflow runs · pennersr/django-allauth · GitHub](../ai/resources/pennersr-django-allauth.md) ([Source URL](https://github.com/pennersr/django-allauth))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:41:42.753673+05:30
+- **Local Path**: `ai/resources/pennersr-django-allauth.md`
+
+### 22. [django-allauth · PyPI](../ai/rag/django-allauth-pypi.md) ([Source URL](https://pypi.python.org/pypi/django-allauth))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:41:42.405605+05:30
+- **Local Path**: `ai/rag/django-allauth-pypi.md`
+
+### 23. [See your content at a glance in the Apple Support Community - Apple Support](../ai/resources/see-your-content-at-a-glance-in-the-apple-support.md) ([Source URL](https://support.apple.com/ht209032))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:41:29.654610+05:30
+- **Local Path**: `ai/resources/see-your-content-at-a-glance-in-the-apple-support.md`
+
+### 24. [Find answers and ask questions in the Apple Support Community - Apple Support](../ai/rag/find-answers-and-ask-questions-in-the-apple-suppor.md) ([Source URL](https://support.apple.com/ht209030))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:41:28.963417+05:30
+- **Local Path**: `ai/rag/find-answers-and-ask-questions-in-the-apple-suppor.md`
+
+### 25. [Official Apple Support Community](../ai/rag/official-apple-support-community.md) ([Source URL](https://discussions.apple.com/welcome))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:41:20.931063+05:30
+- **Local Path**: `ai/rag/official-apple-support-community.md`
+
+### 26. [Legal - Website Terms of Use - Apple](../ai/agents/legal-website-terms-of-use-apple.md) ([Source URL](https://apple.com/legal/internet-services/terms/site.html))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T03:54:19.372150+05:30
-- **Local Path**: `ai/agents/github-copilot-cli-command-reference-github-docs.md`
+- **Collected At**: 2026-06-29T10:41:19.770191+05:30
+- **Local Path**: `ai/agents/legal-website-terms-of-use-apple.md`
 
-### 31. [Fast Open-Source OLAP DBMS | ClickHouse](../ai/rag/fast-open-source-olap-dbms-clickhouse.md) ([Source URL](https://clickhouse.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:17.982831+05:30
-- **Local Path**: `ai/rag/fast-open-source-olap-dbms-clickhouse.md`
-
-### 32. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:15.274665+05:30
-- **Local Path**: `ai/rag/microsoft-vscode.md`
-
-### 33. [Researching with GitHub Copilot CLI - GitHub Docs](../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:13.210578+05:30
-- **Local Path**: `ai/rag/researching-with-github-copilot-cli-github-docs.md`
-
-### 34. [deepset-ai/haystack-cookbook](../ai/rag/deepset-ai-haystack-cookbook.md) ([Source URL](https://github.com/deepset-ai/haystack-cookbook))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:54:10.427600+05:30
-- **Local Path**: `ai/rag/deepset-ai-haystack-cookbook.md`
-
-### 35. [nodejs/node](../ai/resources/nodejs-node.md) ([Source URL](https://github.com/nodejs/node))
+### 27. [Apple Platform Security - Apple Support](../ai/resources/apple-platform-security-apple-support.md) ([Source URL](https://support.apple.com/guide/security/welcome/web))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:54:10.318607+05:30
-- **Local Path**: `ai/resources/nodejs-node.md`
+- **Collected At**: 2026-06-29T10:41:08.964818+05:30
+- **Local Path**: `ai/resources/apple-platform-security-apple-support.md`
 
-### 36. [About building integrations - GitHub Docs](../ai/rag/about-building-integrations-github-docs.md) ([Source URL](https://docs.github.com/get-started/exploring-integrations/about-building-integrations))
+### 28. [Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md) ([Source URL](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:31.858809+05:30
+- **Collected At**: 2026-06-29T10:40:40.881156+05:30
+- **Local Path**: `ai/rag/take-spatial-photos-and-record-spatial-videos-for.md`
+
+### 29. [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md) ([Source URL](https://apple.com/apple-vision-pro))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:40:34.574362+05:30
+- **Local Path**: `ai/resources/apple-vision-pro-apple.md`
+
+### 30. [Legal - Apple Privacy Policy - Apple](../ai/rag/legal-apple-privacy-policy-apple.md) ([Source URL](https://apple.com/legal/privacy/en-ww))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:40:34.387159+05:30
+- **Local Path**: `ai/rag/legal-apple-privacy-policy-apple.md`
+
+### 31. [NumPy reference — NumPy v2.5 Manual](../ai/resources/numpy-reference-numpy-v2-5-manual.md) ([Source URL](https://numpy.org/doc/stable/reference/index.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:40:34.232938+05:30
+- **Local Path**: `ai/resources/numpy-reference-numpy-v2-5-manual.md`
+
+### 32. [Style guide — numpydoc v1.11.0rc1.dev0 Manual](../ai/rag/style-guide-numpydoc-v1-11-0rc1-dev0-manual.md) ([Source URL](https://numpydoc.readthedocs.io/en/latest/format.html))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:40:21.103956+05:30
+- **Local Path**: `ai/rag/style-guide-numpydoc-v1-11-0rc1-dev0-manual.md`
+
+### 33. [About building integrations - GitHub Docs](../ai/rag/about-building-integrations-github-docs.md) ([Source URL](https://docs.github.com/get-started/exploring-integrations/about-building-integrations))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:38:24.430648+05:30
 - **Local Path**: `ai/rag/about-building-integrations-github-docs.md`
 
-### 37. [WeProtect Global Alliance - WeProtect Global Alliance](../ai/rag/weprotect-global-alliance-weprotect-global-allianc.md) ([Source URL](https://weprotect.org))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:27.845072+05:30
-- **Local Path**: `ai/rag/weprotect-global-alliance-weprotect-global-allianc.md`
-
-### 38. [Google’s Efforts to Combat Online Child Sexual Abuse Material FAQs - Transparency Report Help Center](../ai/resources/googles-efforts-to-combat-online-child-sexual-abus.md) ([Source URL](https://support.google.com/transparencyreport/answer/10330933?hl=en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:26.893304+05:30
-- **Local Path**: `ai/resources/googles-efforts-to-combat-online-child-sexual-abus.md`
-
-### 39. [AI Principles â Google AI](../ai/resources/ai-principles-a-google-ai.md) ([Source URL](https://ai.google/responsibility/responsible-ai-practices))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:24.956660+05:30
-- **Local Path**: `ai/resources/ai-principles-a-google-ai.md`
-
-### 40. [Privacy & Terms – Google](../ai/resources/privacy-terms-google.md) ([Source URL](https://policies.google.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:24.842529+05:30
-- **Local Path**: `ai/resources/privacy-terms-google.md`
-
-### 41. [Medium Partner Program](../ai/rag/medium-partner-program.md) ([Source URL](https://medium.com/creators))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:22.496228+05:30
-- **Local Path**: `ai/rag/medium-partner-program.md`
-
-### 42. [langchain-ai/deepagentsjs](../ai/agents/langchain-ai-deepagentsjs.md) ([Source URL](https://github.com/langchain-ai/deepagentsjs))
+### 34. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T03:53:21.587199+05:30
-- **Local Path**: `ai/agents/langchain-ai-deepagentsjs.md`
+- **Collected At**: 2026-06-29T10:38:23.680900+05:30
+- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
 
-### 43. [Python Packaging User Guide](../ai/resources/python-packaging-user-guide.md) ([Source URL](https://packaging.python.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:21.527269+05:30
-- **Local Path**: `ai/resources/python-packaging-user-guide.md`
-
-### 44. [Deep Agents overview - Docs by LangChain](../ai/rag/deep-agents-overview-docs-by-langchain.md) ([Source URL](https://docs.langchain.com/oss/python/deepagents/overview))
+### 35. [Welcome! — Jupyter Server documentation](../ai/rag/welcome-jupyter-server-documentation.md) ([Source URL](https://jupyter-server.readthedocs.io))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:21.182952+05:30
-- **Local Path**: `ai/rag/deep-agents-overview-docs-by-langchain.md`
+- **Collected At**: 2026-06-29T10:38:23.080679+05:30
+- **Local Path**: `ai/rag/welcome-jupyter-server-documentation.md`
 
-### 45. [Cloudflare Developer Docs | Cloudflare Docs](../ai/rag/cloudflare-developer-docs-cloudflare-docs.md) ([Source URL](https://developers.cloudflare.com))
+### 36. [sphinx.ext.autodoc – Include documentation from docstrings — Sphinx documentation](../ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md) ([Source URL](https://sphinx-doc.org/en/master/usage/extensions/autodoc.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:18.703653+05:30
-- **Local Path**: `ai/rag/cloudflare-developer-docs-cloudflare-docs.md`
+- **Collected At**: 2026-06-29T10:38:22.968725+05:30
+- **Local Path**: `ai/rag/sphinx-ext-autodoc-include-documentation-from-docs.md`
 
-### 46. [AWS Skill Builder](../ai/resources/aws-skill-builder.md) ([Source URL](https://skillbuilder.aws))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:17.521704+05:30
-- **Local Path**: `ai/resources/aws-skill-builder.md`
-
-### 47. [Discover AWS Official Knowledge Center Articles | AWS re:Post](../ai/rag/discover-aws-official-knowledge-center-articles-aw.md) ([Source URL](https://repost.aws/knowledge-center?nc1=f_dr))
+### 37. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source URL](https://peps.python.org))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:16.932665+05:30
-- **Local Path**: `ai/rag/discover-aws-official-knowledge-center-articles-aw.md`
+- **Collected At**: 2026-06-29T10:38:22.383147+05:30
+- **Local Path**: `ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md`
 
-### 48. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
+### 38. [Static Typing with Python — typing documentation](../ai/resources/static-typing-with-python-typing-documentation.md) ([Source URL](https://typing.python.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:38:21.266812+05:30
+- **Local Path**: `ai/resources/static-typing-with-python-typing-documentation.md`
+
+### 39. [Zero to JupyterHub with Kubernetes — Zero to JupyterHub with Kubernetes documentation](../ai/rag/zero-to-jupyterhub-with-kubernetes-zero-to-jupyter.md) ([Source URL](https://zero-to-jupyterhub.readthedocs.io/en/latest))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T03:53:11.554309+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
+- **Collected At**: 2026-06-29T10:38:21.163954+05:30
+- **Local Path**: `ai/rag/zero-to-jupyterhub-with-kubernetes-zero-to-jupyter.md`
 
-### 49. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:09.679549+05:30
-- **Local Path**: `ai/resources/git.md`
+### 40. [allauth/django-allauth: Integrated set of Django applications addressing authentication, registration, account managemen](../ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md) ([Source URL](https://codeberg.org/allauth/django-allauth))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:38:21.028839+05:30
+- **Local Path**: `ai/rag/allauth-django-allauth-integrated-set-of-django-ap.md`
 
-### 50. [Home page | Yarn](../ai/resources/home-page-yarn.md) ([Source URL](https://yarnpkg.com))
+### 41. [JupyterHub — JupyterHub documentation](../ai/resources/jupyterhub-jupyterhub-documentation.md) ([Source URL](https://jupyterhub.readthedocs.io/en/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T03:53:09.545714+05:30
-- **Local Path**: `ai/resources/home-page-yarn.md`
+- **Collected At**: 2026-06-29T10:38:20.700196+05:30
+- **Local Path**: `ai/resources/jupyterhub-jupyterhub-documentation.md`
+
+### 42. [JupyterLab Documentation — JupyterLab 4.6.0 documentation](../ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md) ([Source URL](https://jupyterlab.readthedocs.io/en/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:38:20.230313+05:30
+- **Local Path**: `ai/resources/jupyterlab-documentation-jupyterlab-4-6-0-document.md`
+
+### 43. [Full featured documentation deployment platform - Read the Docs](../ai/agents/full-featured-documentation-deployment-platform-re.md) ([Source URL](https://about.readthedocs.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T10:38:19.169213+05:30
+- **Local Path**: `ai/agents/full-featured-documentation-deployment-platform-re.md`
+
+### 44. [Releases · docker/compose · GitHub](../ai/agents/docker-compose.md) ([Source URL](https://github.com/docker/compose))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T10:38:18.766098+05:30
+- **Local Path**: `ai/agents/docker-compose.md`
+
+### 45. [Releases · docker/buildx · GitHub](../ai/rag/docker-buildx.md) ([Source URL](https://github.com/docker/buildx))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:38:18.491159+05:30
+- **Local Path**: `ai/rag/docker-buildx.md`
+
+### 46. [Releases · moby/buildkit · GitHub](../ai/resources/moby-buildkit.md) ([Source URL](https://github.com/moby/buildkit))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T10:38:17.605473+05:30
+- **Local Path**: `ai/resources/moby-buildkit.md`
+
+### 47. [Build your first project — Sphinx documentation](../ai/agents/build-your-first-project-sphinx-documentation.md) ([Source URL](https://sphinx-doc.org/en/master/tutorial/index.html))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T10:38:17.394581+05:30
+- **Local Path**: `ai/agents/build-your-first-project-sphinx-documentation.md`
+
+### 48. [run-llama/llama-cloud-ts](../ai/agents/run-llama-llama-cloud-ts.md) ([Source URL](https://github.com/run-llama/llama-cloud-ts))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T10:38:11.828569+05:30
+- **Local Path**: `ai/agents/run-llama-llama-cloud-ts.md`
+
+### 49. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T10:38:06.870530+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
+
+### 50. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T10:38:03.090426+05:30
+- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
 
 ---
-*Index generated on 2026-06-29T04:01:04.364238+05:30*
+*Index generated on 2026-06-29T10:46:26.701236+05:30*

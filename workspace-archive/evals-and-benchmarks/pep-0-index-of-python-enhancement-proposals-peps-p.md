@@ -6,7 +6,7 @@ source_url: https://peps.python.org/
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
 local_vault_path: ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records stored in a GitHub repository; metadata is accessible via a JSON API (`peps.json`).
+- **PEP Indexing System**: PEPs are assigned immutable numbers by editors, with version-controlled historical records maintained via GitHub; numerical and categorical indices (e.g., Process, Informational) are dynamically generated from metadata.
 
-- **Categorization & Status**: PEPs are classified by type (e.g., Process, Informational, Standards Track) and status (e.g., Accepted, Rejected, Deferred), with specialized indices for governance, packaging, and typing.
+- **API & Metadata Access**: A public JSON API (`peps.json`) provides structured metadata for all published PEPs, enabling programmatic retrieval of PEP details, statuses, and categorizations.
 
-- **Structured PEP Data**: Includes reserved numbers, topic-based filtering
+- **Governance & Process PEPs**: Meta-PEPs (e.g., PEP 1, P
 
 ## Use Cases
 

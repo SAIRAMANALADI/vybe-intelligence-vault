@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Model Framework**: Transformers provides a standardized, cross-framework model-definition system (PyTorch, JAX, TensorFlow) supporting state-of-the-art architectures (text, vision, audio, multimodal) for both training and inference, ensuring compatibility with ecosystems like DeepSpeed, vLLM, and llama.cpp.
+- **Unified Model Framework**: Transformers provides a standardized model-definition framework supporting state-of-the-art architectures across modalities (text, vision, audio, video, multimodal) for both training and inference, ensuring compatibility with major frameworks (e.g., PyTorch-Lightning, vLLM) and libraries (e.g., llama.cpp, mlx).
 
-- **Core Components**: Implements models via three primary classes (config, model, preprocessor), enabling rapid deployment via `Pipeline` (optimized inference) and `Trainer` (di
+- **Core Components**: Implemented via three primary classes (configuration, model, preprocessor), enabling rapid deployment via `Pipeline` (optimized infe
 
 ## Use Cases
 

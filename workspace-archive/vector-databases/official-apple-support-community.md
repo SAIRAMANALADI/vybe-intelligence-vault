@@ -2,7 +2,7 @@
 title: Official Apple Support Community
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://discussions.apple.com
+source_url: https://discussions.apple.com/welcome
 resource_id: blog:official-apple-support-community
 local_vault_path: ai/rag/official-apple-support-community.md
 quality_score: 70
@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Automatic Activation**: Focus modes (e.g., Do Not Disturb) can trigger automatically based on contextual factors like location, time, or app usage patterns.
-- **Smart Activation**: Uses on-device intelligence (e.g., ML) to detect user behavior (e.g., work hours, sleep patterns) and enable Focus modes without manual input.
-- **Scheduled Activation**: Predefined time-based triggers (e.g., calendar events, recurring schedules) to enforce Focus modes at specific intervals.
+- **Automatic Activation**: Focus modes (e.g., Do Not Disturb) can trigger automatically based on contextual factors like location, time, or app usage patterns, leveraging on-device AI to infer user intent.
+
+- **Smart Activation**: System integrates with Apple ecosystem (e.g., Calendar, Messages, or third-party apps) to dynamically enable Focus modes when detecting high-priority disruptions (e.g., work hours, sleep patterns).
+
+- **Scheduled Activation**: Users can predefine time-based rules (e.g
 
 ## Use Cases
 
@@ -42,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://discussions.apple.com
+Original source URL: https://discussions.apple.com/welcome
 
 ## Local Vault File
 

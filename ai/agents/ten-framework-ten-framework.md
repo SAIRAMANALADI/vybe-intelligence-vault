@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TEN-framework/ten-framework
-collected_at: '2026-06-29T03:48:24.239273+05:30'
-published_at: '2026-06-28T20:43:29Z'
+collected_at: '2026-06-29T10:33:45.760198+05:30'
+published_at: '2026-06-29T03:27:28Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: NOASSERTION
 archived: false
 created_at: '2024-06-19T14:26:15Z'
-pushed_at: '2026-06-27T06:52:40Z'
+pushed_at: '2026-06-29T03:25:24Z'
 resource_id: github:ten-framework/ten-framework
-first_seen: '2026-06-29T03:48:24.239273+05:30'
-last_seen: '2026-06-29T03:48:24.239273+05:30'
-last_checked: '2026-06-29T03:48:24.239273+05:30'
+first_seen: '2026-06-29T10:33:45.760198+05:30'
+last_seen: '2026-06-29T10:33:45.760198+05:30'
+last_checked: '2026-06-29T10:33:45.760198+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based framework designed for building real-time, multi-modal conversational voice AI agents with video and voice capabilities.
-- **Key Features**: Enables low-latency, real-time interactions integrating voice, video, and multi-modal inputs/outputs for AI agent development.
-- **Repository Stats**: 10,798 stars, 1,312 forks, last updated June 28, 2026.
+- **Multi-modal conversational AI framework** enabling real-time voice and video interactions via Python, supporting concurrent audio/video streams and text-based dialogues.
+- **Modular architecture** with pluggable components for speech-to-text, text-to-speech, LLMs, and custom logic, optimized for low-latency processing.
+- **Open-source under permissive license**, actively maintained with 10.8k+ GitHub stars, facilitating rapid prototyping of voice AI agents.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 1312
 - Language: Python
 - Topics: ai, multi-modal, real-time, video, voice
-- Last Updated: 2026-06-28T20:43:29Z
+- Last Updated: 2026-06-29T03:27:28Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-06-19T14:26:15Z
-- Pushed At: 2026-06-27T06:52:40Z
+- Pushed At: 2026-06-29T03:25:24Z
 
 ## Possible Use Cases
 

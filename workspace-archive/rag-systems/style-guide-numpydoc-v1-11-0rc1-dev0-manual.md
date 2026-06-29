@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Docstring Structure**: NumPy-style docstrings follow a strict reST-based format with mandatory sections (Short Summary, Extended Summary, Parameters, Returns) and optional sections (e.g., Raises, Warnings, Notes), each underlined with hyphens and ordered consistently.
+- **Docstring Structure**: NumPy-style docstrings follow a strict sectioned format (e.g., `Short summary`, `Parameters`, `Returns`, `Notes`) using reStructuredText (reST) syntax, with headings underlined by hyphens and line lengths capped at 75 characters for terminal readability.
 
-- **Parameter Formatting**: Parameters are listed with type annotations (e.g., `x : int`) followed by descriptions; optional parameters use `optional` or default values (e.g., `copy : bool, default=True`), and variable-length
+- **Parameter/Return Typing**: Parameters and return values must explicitly specify types (e.g., `x : int`, `y : str or None`), with optional defaults (e.g., `copy : bool, default=True`) and support for unions (`{'C',
 
 ## Use Cases
 

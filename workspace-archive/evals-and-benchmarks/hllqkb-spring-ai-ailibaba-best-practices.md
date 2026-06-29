@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using a knowledge graph for enhanced context-aware AI responses, integrating structured data retrieval with generative models.
-
-- **Multi-modal AI Capabilities**: Supports image generation (via FunctionCall), image understanding, and embedding-based vector search, leveraging Spring AI and Alibaba Cloud services for end-to-end AI workflows.
-
-- **Agentic & Streaming Workflows**: Implements SSE (Serv
+- **Implements SSE streaming, Agent-based workflows, and Knowledge Graph RAG** in Java using Spring AI and Alibaba Cloud services for real-time AI Q&A systems.
+- **Supports advanced AI capabilities** including Function Call, historical message management, image generation/understanding, and Embedding/Vector Database integration for RAG.
+- **Utilizes Alibaba Cloud's AI ecosystem** with modular components for embedding, vector storage, and retrieval-augmented generation (RAG) pipelines.
 
 ## Use Cases
 

@@ -4,10 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-29T03:46:39.117654+05:30'
+collected_at: '2026-06-29T10:32:00.622054+05:30'
 published_at: '2026-06-27T21:54:07Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
+- meta-ai
+- models
 - python
 - rag
 stars: 1957
@@ -18,9 +23,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-29T03:46:39.117654+05:30'
-last_seen: '2026-06-29T03:46:39.117654+05:30'
-last_checked: '2026-06-29T03:46:39.117654+05:30'
+first_seen: '2026-06-29T10:32:00.622054+05:30'
+last_seen: '2026-06-29T10:32:00.622054+05:30'
+last_checked: '2026-06-29T10:32:00.622054+05:30'
 health_score: 100
 ---
 
@@ -28,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as presented in ACL2026.
+- **MiniRAG Framework**: Introduces a simplified RAG pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
 
-- **Architectural Efficiency**: Implements lightweight retrieval and generation components optimized for edge/low-resource deployment, achieving comparable results to larger models with fewer parameters.
+- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms (e.g., distilled retrievers, quantized embeddings) and model compression techniques (e.g., LoRA, pruning) to enable deployment on resource-constrained hardware.
 
-- **Open-Source Toolkit**: Provides a Python-based, modular implementation with pre-trained models, enabling reproducibility and community-driven improvements in RAG systems.
+- **Benchmark Performance**: Achieves comparable results to larger RAG systems (e.g., LlamaIndex, LangChain) on standard datasets (e.g., MS MARCO, NQ) with <10% of the parameters, demonstrating scalability for edge applications.
 
 ## Why It Matters
 

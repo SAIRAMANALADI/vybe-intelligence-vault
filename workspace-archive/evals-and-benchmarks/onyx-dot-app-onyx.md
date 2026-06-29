@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform (`Onyx`) designed to integrate seamlessly with any Large Language Model (LLM), enabling flexible deployment across diverse AI backends.
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting integration with any LLM, enabling flexible model selection and deployment for AI-driven interactions.
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based similarity search for enterprise-grade information retrieval and context-aware responses.
+- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based search for enterprise-grade information retrieval and context-aware AI responses.
 
-- **Full-Stack Architecture**: Combines a **Next.js** frontend with a **Python** backend, supporting self-host
+- **Full-Stack Architecture**: Combines Python backend with Next.js frontend, offering a self-hostable, scalable solution for AI ch
 
 ## Use Cases
 
