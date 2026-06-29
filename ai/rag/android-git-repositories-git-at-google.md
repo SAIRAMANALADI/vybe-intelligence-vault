@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-28T19:54:14.570412+05:30'
-collected_at: '2026-06-28T19:54:14.570423+05:30'
+published_at: '2026-06-29T17:03:27.256208+05:30'
+collected_at: '2026-06-29T17:03:27.256216+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-28T19:54:14.570423+05:30'
-last_seen: '2026-06-28T19:54:14.570423+05:30'
-last_checked: '2026-06-28T19:54:14.570423+05:30'
+first_seen: '2026-06-29T17:03:27.256216+05:30'
+last_seen: '2026-06-29T17:03:27.256216+05:30'
+last_checked: '2026-06-29T17:03:27.256216+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Git Repositories**: The Android Open Source Project (AOSP) hosts hundreds of Git repositories under `android.googlesource.com`, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory/emulator targets (e.g., `device/google/accessory/arduino`, `device/generic/mini-emulator-x86`).
+- **Centralized Android Git Repository**: The [android.googlesource.com](https://android.googlesource.com/) platform hosts a vast, structured collection of Git repositories for Android, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory/emulator targets (e.g., `device/generic/qemu`).
 
-- **Kernel & SEPolicy Branches**: Many device repositories include kernel branches (e.g., `device/google/akita-kernels/6.1`) and SELinux policy (SEPolicy) directories (e.g., `device/google/bluejay-sepolicy`), indicating versioned kernel support and mandatory access control configurations for Android devices.
+- **Device-Specific Kernel & Hardware Support**: Many repositories are organized by device codename (e.g., `device/google/barbet`, `device/asus/flo-kernel`) with dedicated kernel branches (e.g., `device/google/bluejay-kernels/6.1`) and SELinux policies (e.g., `device/google/gs101-sepolicy`), reflecting Google’s modular approach to Android hardware enablement.
 
-- **Bug Tracking Integration**: Repository paths often include bug IDs (e.g., `Bug: 141248619` in `device/google/coral`) linked to Google’s internal tracking system, enabling traceability between code changes and issue resolution.
+- **Build & Development Infrastructure**: Includes manifest repositories (e.g., `accessories/manifest`, `brillo/manifest`) and emulator/device templates (e.g., `device/generic/arm64`, `device/google/cuttlefish`) for AOSP development, with references to bug tracking (e.g., `Bug: 141248619`) for issue resolution.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T19:54:14.570412+05:30
+- Published: 2026-06-29T17:03:27.256208+05:30
 
 ## Related Tags
 

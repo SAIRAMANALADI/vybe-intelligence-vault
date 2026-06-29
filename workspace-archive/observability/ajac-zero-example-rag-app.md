@@ -6,12 +6,11 @@ source_url: https://github.com/ajac-zero/example-rag-app
 resource_id: github:ajac-zero/example-rag-app
 local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: benchmark
-importance: high
+archive_score: 81
+archive_tier: useful
+resource_kind: api
+importance: medium
 tags:
-- benchmark
 - github-repo
 - rag
 - typescript
@@ -25,17 +24,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Observability`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Full-stack RAG application** with TypeScript, Dockerized deployment, and 100% test coverage, leveraging LiteLLM for 100+ LLM provider compatibility.
-- **Observability integration** via Langfuse for real-time LLM monitoring, logging, and evaluation.
-- **Strict type-checking** (TypeScript) and modular architecture for scalable, production-ready RAG pipelines.
+*   RAG application featuring Langfuse for LLM observability and tracing.
+*   Integrates LiteLLM for multi-provider LLM API access, supporting over 100 models.
+*   Engineered with Dockerized deployment, full TypeScript type-checking, and 100% test coverage.
 
 ## Use Cases
 

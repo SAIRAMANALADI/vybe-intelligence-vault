@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - typescript
 - workflows
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Overview**: Open-source starter kit for constructing cloud-based AI agents using TypeScript, emphasizing modularity and scalability.
-- **Key Features**: Supports background agents, integrates AI-driven workflows, and includes pre-configured tooling for rapid deployment.
-- **Ecosystem Integration**: Designed for Vercel deployments, leveraging serverless architecture for low-latency agent operations.
+- **Template Overview**: Provides an open-source starter kit for constructing cloud-based AI agents using TypeScript, emphasizing modularity and scalability.
+- **Key Features**: Supports background agents, integrates AI workflows, and leverages Vercel’s infrastructure for deployment and scaling.
+- **Technical Stack**: TypeScript-based, optimized for Vercel environments, with dependencies for AI/agent orchestration (e.g., `@vercel/ai`, `@xenova/transformers`).
 
 ## Use Cases
 

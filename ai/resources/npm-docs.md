@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-06-29T03:50:28.767546+05:30'
-collected_at: '2026-06-29T03:50:28.767559+05:30'
+published_at: '2026-06-29T17:01:12.959204+05:30'
+collected_at: '2026-06-29T17:01:12.959216+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-06-29T03:50:28.767559+05:30'
-last_seen: '2026-06-29T03:50:28.767559+05:30'
-last_checked: '2026-06-29T03:50:28.767559+05:30'
+first_seen: '2026-06-29T17:01:12.959216+05:30'
+last_seen: '2026-06-29T17:01:12.959216+05:30'
+last_checked: '2026-06-29T17:01:12.959216+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **npm CLI**: Command-line interface for interacting with the npm registry, enabling package installation, version management, and script execution via commands like `npm install`, `npm update`, and `npm run`.
-
-- **Package Registry**: Centralized repository for publishing, discovering, and managing JavaScript packages with metadata (e.g., `package.json`) for dependency resolution and distribution.
-
-- **Security Policies**: Defines threat models (e.g., dependency confusion, typosquatting) and mitigations (e.g., scope restrictions, two-factor authentication) to secure package publishing and consumption.
+- **npm CLI**: Command-line interface for managing npm registries, packages, and dependencies, including commands like `npm install`, `npm publish`, and `npm audit` for security checks.
+- **Registry & Packages**: Centralized repository for JavaScript packages with metadata, versioning, and dependency resolution via semantic versioning (semver).
+- **Security & Policies**: Enforces access control (scopes, tokens), vulnerability scanning (`npm audit`), and threat mitigation (e.g., package signing, two-factor authentication).
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T03:50:28.767546+05:30
+- Published: 2026-06-29T17:01:12.959204+05:30
 
 ## Related Tags
 

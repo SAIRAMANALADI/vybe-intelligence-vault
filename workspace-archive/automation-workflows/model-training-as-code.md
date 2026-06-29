@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by peterBlue75. Score: 29, Comments: 10.
+Hacker News story by peterBlue75. Score: 165, Comments: 17.
 Original Link: https://aleph-alpha.com/en/blog/model-training-as-code/
 
 ## Use Cases

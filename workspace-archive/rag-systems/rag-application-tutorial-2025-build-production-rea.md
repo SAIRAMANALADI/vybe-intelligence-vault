@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 90
 archive_tier: essential
-resource_kind: dataset
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -33,16 +33,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 90 (essential)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) to enhance factual accuracy without fine-tuning; critical components include chunking strategies, embedding models (e.g., `text-embedding-3-large`), and Supabase/PGVector for vector storage.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) with generation (LLMs), optimized via chunking strategies, embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + cosine similarity).
 
-- **Production Optimization**: Implements hybrid search (dense + BM25), query rewriting, caching (Redis), and load balancing (Cloudflare Workers) to reduce latency (~50-80% improvements) and token cost
+- **Production Optimizations**: Implements Supabase for vector storage, caching (Redis), load balancing (multiple LLM endpoints), and latency reduction via query rewriting and token-efficient prompting.
+
+- **Monitoring & Scaling**: Integrates Sentry for obs
 
 ## Use Cases
 

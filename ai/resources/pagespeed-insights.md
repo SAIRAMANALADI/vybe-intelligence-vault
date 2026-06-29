@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://pagespeed.web.dev
-published_at: '2026-06-26T02:00:24.712505+05:30'
-collected_at: '2026-06-26T02:00:24.712517+05:30'
+published_at: '2026-06-29T17:04:21.633461+05:30'
+collected_at: '2026-06-29T17:04:21.633473+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:pagespeed-insights
-first_seen: '2026-06-26T02:00:24.712517+05:30'
-last_seen: '2026-06-26T02:00:24.712517+05:30'
-last_checked: '2026-06-26T02:00:24.712517+05:30'
+first_seen: '2026-06-29T17:04:21.633473+05:30'
+last_seen: '2026-06-29T17:04:21.633473+05:30'
+last_checked: '2026-06-29T17:04:21.633473+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Performance Analysis Tool**: Google's PageSpeed Insights evaluates web page performance on both mobile and desktop devices, providing optimization suggestions based on Core Web Vitals and other metrics.
-
-- **Scoring Mechanism**: Scores are derived from Lighthouse audits, assessing metrics like First Contentful Paint (FCP), Largest Contentful Paint (LCP), and Cumulative Layout Shift (CLS).
-
-- **Optimization Recommendations**: Generates actionable insights (e.g., image compression, JavaScript/CSS minification, caching strategies) to improve page load speed and user experience.
+- **PageSpeed Insights (PSI)** analyzes web page performance using **Lighthouse** and **Chrome UX Report (CrUX)** data to provide Core Web Vitals metrics (LCP, FID, CLS).
+- **Optimization recommendations** include resource minification, efficient caching, image compression, and JavaScript/CSS deferral to improve **Time to Interactive (TTI)** and **First Contentful Paint (FCP)**.
+- **Real-world performance data** from CrUX is combined with **lab-based audits** via Lighthouse to generate actionable insights for cross-device optimization.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T02:00:24.712505+05:30
+- Published: 2026-06-29T17:04:21.633461+05:30
 
 ## Related Tags
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Extends PostgreSQL with vector similarity search capabilities via an open-source extension, enabling efficient approximate nearest neighbor (ANN) and nearest neighbor search operations.
+- **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) and nearest neighbor search operations directly within the database.
 
-- **Implementation**: Written in C, integrates with PostgreSQL as an extension, supporting vector storage and similarity search via L2 distance, inner product, or cosine distance metrics.
+- **Implementation**: Written in C, integrates as a PostgreSQL extension, supporting vector storage and similarity search via optimized indexing (e.g., HNSW, IVFFlat) and distance metrics (L2, inner product, cosine).
 
-- **Features**: Optimized for high-dimensional vector search, supports indexing strategies (e.g., HNSW, IVFFl
+- **Features**: Supports exact and approximate search modes, hybrid queries, and
 
 ## Use Cases
 

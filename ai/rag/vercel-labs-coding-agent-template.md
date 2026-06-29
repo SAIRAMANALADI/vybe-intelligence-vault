@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-06-29T10:33:35.728203+05:30'
-published_at: '2026-06-28T09:51:00Z'
+collected_at: '2026-06-29T16:57:59.457828+05:30'
+published_at: '2026-06-29T06:43:03Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 1738
+stars: 1739
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-04-13T21:44:42Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-06-29T10:33:35.728203+05:30'
-last_seen: '2026-06-29T10:33:35.728203+05:30'
-last_checked: '2026-06-29T10:33:35.728203+05:30'
+first_seen: '2026-06-29T16:57:59.457828+05:30'
+last_seen: '2026-06-29T16:57:59.457828+05:30'
+last_checked: '2026-06-29T16:57:59.457828+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI service integration.
-- **Tech Stack**: Implemented in TypeScript, utilizing Vercel’s infrastructure for scalable, serverless agent orchestration.
-- **Key Features**: Enables collaborative AI-driven coding workflows with dynamic agent deployment and real-time sandboxed execution.
+- **Architecture**: Multi-agent system leveraging Vercel Sandbox for isolated execution environments and AI Gateway for unified AI model access.
+- **Tech Stack**: Built in TypeScript with Vercel's serverless infrastructure for scalable, distributed agent workflows.
+- **Purpose**: Enables collaborative AI-driven coding tasks with sandboxed execution and managed AI model interactions.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1738
+- Stars: 1739
 - Forks: 285
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-28T09:51:00Z
+- Last Updated: 2026-06-29T06:43:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

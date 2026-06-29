@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-29T10:33:05.741304+05:30'
+collected_at: '2026-06-29T16:57:29.377561+05:30'
 published_at: '2026-06-28T15:07:31Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-29T10:33:05.741304+05:30'
-last_seen: '2026-06-29T10:33:05.741304+05:30'
-last_checked: '2026-06-29T10:33:05.741304+05:30'
+first_seen: '2026-06-29T16:57:29.377561+05:30'
+last_seen: '2026-06-29T16:57:29.377561+05:30'
+last_checked: '2026-06-29T16:57:29.377561+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system designed for long-video understanding, enabling LLMs to interact with video content via multi-modal inputs (text + video).
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal encoders to process and retrieve relevant video segments for contextual Q&A.
-- **Key Features**: Supports hierarchical retrieval (chunk-level to segment-level) and dynamic prompt augmentation for efficient long-video comprehension, optimized for KDD'2026.
+- **Multi-modal Retrieval-Augmented Generation (RAG) Framework**: Introduces *VideoRAG*, a system enabling LLMs to process and reason over long videos via chunked retrieval and multi-modal fusion, addressing challenges in long-video understanding.
+
+- **Technical Pipeline**: Implements a hierarchical retrieval mechanism (temporal + semantic) with video chunking, adaptive embedding, and cross-modal alignment to enhance LLM comprehension of video content.
+
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for video preprocessing, retrieval, and LLM integration, optimized for scalability and multi-modal interaction.
 
 ## Why It Matters
 

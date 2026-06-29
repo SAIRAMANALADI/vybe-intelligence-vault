@@ -14,6 +14,7 @@ tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - reddit
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating **Retrieval-Augmented Generation (RAG)** systems, enabling systematic assessment of retrieval and generation components.
-- **Implementation**: Developed primarily in **Jupyter Notebooks**, it provides modular tools for testing augmentation strategies, retrieval mechanisms, and LLM-based generation pipelines.
-- **Scope**: Supports evaluation across key RAG dimensions (e.g., retrieval quality, context relevance, a
+- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on augmentation, generation, and retrieval performance.
+- **Implementation**: Written in Jupyter Notebook, it provides a structured framework to assess RAG pipelines, including metrics for retrieval quality, generation accuracy, and end-to-end system efficiency.
+- **Scope**: Supports comparison of RAG models and techniques, enabling reproducibility and stand
 
 ## Use Cases
 

@@ -8,11 +8,12 @@ local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - benchmark
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,18 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and proposed fixes for agent debugging, reducing manual review overhead.
+- **Unified Agent Development Lifecycle**: LangSmith provides a framework-agnostic platform for **observability, evaluation, deployment, and fleet management** of AI agents, supporting Python, TypeScript, Go, and Java SDKs with native tracing for OpenTelemetry and popular frameworks.
 
-- **Multi-Protocol Deployment**: Supports A2A & MCP protocols with fault-tolerant, scalable runtime for async agent collaboration and human-in-the-loop workflows.
-
-- **Cross-Framework Observability**: Provides native tracing for agent frameworks, OpenTelemetry integration, and SDKs (Python/TypeScript/Go/Java) for structured debugging of multi-turn
+- **Autonomous Debugging & Scalability**: LangSmith Engine **automatically clusters production failures**, identifies root causes via trace analysis, and proposes fixes, while the agent server supports **long-runni
 
 ## Use Cases
 

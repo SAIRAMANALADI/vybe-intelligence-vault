@@ -37,7 +37,11 @@ selection_reason:
 
 ## Summary
 
-*   RAG systems augment LLMs by integrating a retriever (optimized via hybrid search, ANN indexes
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
+
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality optimization, and modality/language support for high-performance retrieval.
+
+- **Advanced Techn
 
 ## Use Cases
 

@@ -2,7 +2,7 @@
 title: Fast, disk space efficient package manager | pnpm
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://pnpm.io
+source_url: https://pnpm.io/
 resource_id: blog:fast-disk-space-efficient-package-manager-pnpm
 local_vault_path: ai/rag/fast-disk-space-efficient-package-manager-pnpm.md
 quality_score: 70
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Optimized Dependency Management**: Uses a strict, non-flat `node_modules` structure with hard links to reduce disk space usage and prevent dependency conflicts, while maintaining fast installation speeds via content-addressable storage and caching.
+- **Optimized Dependency Management**: Uses a content-addressable store and hard links to avoid redundant disk usage, reducing storage overhead by sharing common dependencies across projects in monorepos.
 
-- **Monorepo & Workspace Support**: Provides built-in workspace management for polyrepos, enabling efficient dependency sharing, task parallelization, and isolated builds across projects without redundant installations.
+- **Enhanced Security & Control**: Implements `minimumReleaseAge` to delay dependency updates, mitigating supply chain risks by preventing immediate adoption of new versions; also disables postinstall scripts by default.
 
-- **Security & Supply Cha
+- **Performance & Scalability**: Achieves ~40% faster CI/CD flows in mon
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://pnpm.io
+Original source URL: https://pnpm.io/
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-29T10:31:50.690596+05:30'
+collected_at: '2026-06-29T16:56:14.338322+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-29T10:31:50.690596+05:30'
-last_seen: '2026-06-29T10:31:50.690596+05:30'
-last_checked: '2026-06-29T10:31:50.690596+05:30'
+first_seen: '2026-06-29T16:56:14.338322+05:30'
+last_seen: '2026-06-29T16:56:14.338322+05:30'
+last_checked: '2026-06-29T16:56:14.338322+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC Template**: Provides infrastructure-as-code (IaC) for deploying a Generative AI Operations (GenAIOps) Retrieval-Augmented Generation (RAG) pipeline on Azure, using Bicep for declarative resource provisioning.
+- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
 
-- **RAG Pipeline Integration**: Includes pre-configured components for vector databases, embedding models, and LLM orchestration to enable end-to-end RAG workflows with minimal setup.
+- **RAG Pipeline Integration**: Includes pre-configured components for RAG workflows, such as vector databases, embedding models, and LLM endpoints, facilitating end-to-end generative AI application deployment.
 
-- **GenAIOps Best Practices**: Implements operational frameworks for monitoring, logging, and CI/CD tailored for generative AI workloads, ensuring scalability and maintainability.
+- **CI/CD & Operational Readiness**: Designed for GenAIOps with built-in monitoring, logging, and scalability features, ensuring operational efficiency and maintainability in production environments.
 
 ## Why It Matters
 

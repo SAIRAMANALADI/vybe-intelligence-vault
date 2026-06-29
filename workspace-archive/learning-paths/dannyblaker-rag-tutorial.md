@@ -13,6 +13,7 @@ importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Progressive Learning Path**: 6 structured lessons covering RAG fundamentals to production deployment, with reusable utilities and hands-on demos.
-- **Technical Scope**: Covers embeddings, vector databases, LLMs, and advanced RAG techniques with working Python code examples.
-- **Repository Details**: Python-based, last updated June 2026, minimal Git activity (6 stars, 0 forks).
+- **Progressive RAG Learning Path**: 6 structured lessons covering foundational concepts to production deployment, with incremental complexity in embeddings, vector databases, and LLM integration.
+
+- **Hands-On Technical Resources**: Includes working Python code examples, reusable utilities, and interactive demos for practical implementation of RAG systems.
+
+- **Advanced RAG Techniques**: Covers embeddings optimization, vector database selection/configuration, and LLM fine-tuning strategies for
 
 ## Use Cases
 

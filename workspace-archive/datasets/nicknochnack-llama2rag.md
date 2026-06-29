@@ -6,7 +6,7 @@ source_url: https://github.com/nicknochnack/Llama2RAG
 resource_id: github:nicknochnack/llama2rag
 local_vault_path: ai/rag/nicknochnack-llama2rag.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -28,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for document retrieval and context integration.
-- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for LLM interaction and vectorized document processing.
-- **Scalability**: Designed for extensibility, supporting custom datasets and retrieval strategies while maintaining modularity for large-scale LLM inference.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient document retrieval and generation workflows.
+- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based RAG pipelines for modular and reproducible experimentation.
+- **Scalability**: Optimized for large-scale LLM inference (70B parameters) with potential for custom dataset integration and hybrid retrieval strategies.
 
 ## Use Cases
 

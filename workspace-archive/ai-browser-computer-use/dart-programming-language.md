@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Language Features**: Dart 3.12 introduces sound null safety, pattern matching, and collection control flow operators (`collection if`), enabling safer and more concise code while maintaining a familiar syntax for developers.
+- **Language Features**: Dart 3.12 introduces sound null safety, pattern matching, and collection control flow operators (`collection if`), enabling safer and more concise code while maintaining a familiar syntax.
 
-- **Multiplatform Compilation**: Supports AOT compilation to ARM, x64, and RISC-V machine code for native performance across mobile, desktop, and backend, alongside mature JavaScript and WebAssembly compilation for web deployment.
+- **Multiplatform Compilation**: Supports AOT compilation to ARM, x64, and RISC-V machine code for native performance, alongside JavaScript and WebAssembly for web deployment, with backend support via Dart’s server-side runtime.
 
-- **Developer Productivity**: Features
+- **Developer Productivity**: Features hot reload for i
 
 ## Use Cases
 

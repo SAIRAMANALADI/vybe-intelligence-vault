@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-29T10:34:00.766183+05:30'
+collected_at: '2026-06-29T16:58:24.387766+05:30'
 published_at: '2026-06-28T15:57:44Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - typescript
 stars: 515
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-27T12:21:53Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-29T10:34:00.766183+05:30'
-last_seen: '2026-06-29T10:34:00.766183+05:30'
-last_checked: '2026-06-29T10:34:00.766183+05:30'
+first_seen: '2026-06-29T16:58:24.387766+05:30'
+last_seen: '2026-06-29T16:58:24.387766+05:30'
+last_checked: '2026-06-29T16:58:24.387766+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks (e.g., Angular, React, NestJS, Spring Boot) and platforms (Android, iOS, Flutter).
-
-- **Scope & Topics**: Encompasses agentic AI, coding standards, and framework-specific rules (e.g., `cursor-rules` for IDE integration) to ensure AI agents adhere to optimal programming practices.
-
-- **Metadata**: 515 stars, 149 forks, last updated June 28, 2026; includes topics like `agent-`, `best-practices`, and language/framework-specific tags (e.g., `kotlin`, `laravel`).
+*   Defines agent skills standards and best practices for AI agents to adhere to established coding conventions across a broad spectrum of programming languages and frameworks.
+*   Covers technical ecosystems including TypeScript, Go, Kotlin, Java (Spring Boot), PHP (Laravel), and major web/mobile frameworks such as React, Angular, Next.js, NestJS, Flutter, React Native, Android, and iOS.
+*   Aims to standardize AI agent behavior in code generation and modification by providing structured guidelines for framework-specific and language-specific best practices.
 
 ## Why It Matters
 

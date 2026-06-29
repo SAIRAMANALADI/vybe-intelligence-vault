@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by MaysonL. Score: 125, Comments: 39.
+Hacker News story by MaysonL. Score: 146, Comments: 47.
 Original Link: https://www.openculture.com/2020/10/daisugi.html
 
 ## Use Cases

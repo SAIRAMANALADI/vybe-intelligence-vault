@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-29T10:31:40.599013+05:30'
+collected_at: '2026-06-29T16:56:04.252619+05:30'
 published_at: '2026-06-28T15:57:21Z'
 tags:
 - agents
@@ -14,6 +14,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1470
 language: JavaScript
 status: active
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-29T10:31:40.599013+05:30'
-last_seen: '2026-06-29T10:31:40.599013+05:30'
-last_checked: '2026-06-29T10:31:40.599013+05:30'
+first_seen: '2026-06-29T16:56:04.252619+05:30'
+last_seen: '2026-06-29T16:56:04.252619+05:30'
+last_checked: '2026-06-29T16:56:04.252619+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+- **Local LLM Integration**: Demonstrates building a Retrieval-Augmented Generation (RAG) system using `node-llama-cpp` for local Large Language Model (LLM) execution, eliminating dependency on cloud-based black-box APIs.
 
-- **Technical Stack**: Built in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with modular components for embeddings, vector databases, and retrieval logic.
+- **Core RAG Pipeline**: Implements end-to-end RAG workflow with embeddings generation, vector search (likely via libraries like `hnswlib` or `faiss`), retrieval-augmented context integration, and context-augmented generation—all in JavaScript/Node.js.
 
-- **Purpose**: Serves as a hands-on tutorial for understanding RAG architectures, enabling developers to dissect and implement core components (e.g., embeddings, retrieval, and generation) without proprietary abstractions.
+- **Educational Focus**: Provides a hands-on tutorial for understanding RAG fundamentals, including embedding models, vector databases, retrieval strategies, and prompt augmentation techniques without abstraction layers.
 
 ## Why It Matters
 

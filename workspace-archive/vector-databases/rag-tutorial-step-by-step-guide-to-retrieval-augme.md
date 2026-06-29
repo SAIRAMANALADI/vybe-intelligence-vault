@@ -7,7 +7,7 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLM responses by dynamically retrieving relevant documents from a knowledge base at query time, ensuring answers are grounded in current, domain-specific data rather than static training data, improving accuracy, auditability, and cost-efficiency.
+- **RAG Pipeline Core**: A 5-step process—**Load** (ingest documents via LangChain loaders), **Chunk** (split into 512-token segments with 50-token overlap using `RecursiveCharacterTextSplitter`), **Embed** (convert chunks to vectors via OpenAI `text-embedding-3-small` and store in ChromaDB), **Retrieve** (semantic search with cosine similarity, returning top-*k* chunks), and **Generate** (LLM synthesizes answers from retrieved context using a structured prompt).
 
-- **Pipeline Components**: A RAG system consists of five core steps: (1) **Loading** documents (PDFs, web pages, etc.), (2) **Chunking** documents into semantically meaningful segme
+- **Modular Architecture**: The
 
 ## Use Cases
 

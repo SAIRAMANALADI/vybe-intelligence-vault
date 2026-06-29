@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 7, Downloads: 1817226)
+Trending Hugging Face dataset: Benjy/typed_digital_signatures (Likes: 7, Downloads: 2038624)
 
 ## Use Cases
 

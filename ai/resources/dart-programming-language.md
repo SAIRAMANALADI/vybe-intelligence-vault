@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://dart.dev
-published_at: '2026-06-24T21:04:02.566460+05:30'
-collected_at: '2026-06-24T21:04:02.566472+05:30'
+published_at: '2026-06-29T17:03:26.115559+05:30'
+collected_at: '2026-06-29T17:03:26.115573+05:30'
 tags:
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:dart-programming-language
-first_seen: '2026-06-24T21:04:02.566472+05:30'
-last_seen: '2026-06-24T21:04:02.566472+05:30'
-last_checked: '2026-06-24T21:04:02.566472+05:30'
+first_seen: '2026-06-29T17:03:26.115573+05:30'
+last_seen: '2026-06-29T17:03:26.115573+05:30'
+last_checked: '2026-06-29T17:03:26.115573+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Language Features**: Dart 3.12 introduces sound null safety, pattern matching, and collection control flow operators (`collection if`), enabling safer and more concise code while maintaining a familiar syntax for developers.
+- **Language Features**: Dart 3.12 introduces sound null safety, pattern matching, and collection control flow operators (`collection if`), enabling safer and more concise code while maintaining a familiar syntax.
 
-- **Multiplatform Compilation**: Supports AOT compilation to ARM, x64, and RISC-V machine code for native performance across mobile, desktop, and backend, alongside mature JavaScript and WebAssembly compilation for web deployment.
+- **Multiplatform Compilation**: Supports AOT compilation to ARM, x64, and RISC-V machine code for native performance, alongside JavaScript and WebAssembly for web deployment, with backend support via Dart’s server-side runtime.
 
-- **Developer Productivity**: Features hot reload for iterative UI updates, isolate-based concurrency for event-driven code, and robust tooling (profiling, logging, debugging) integrated with IDEs for efficient development workflows.
+- **Developer Productivity**: Features hot reload for iterative UI updates, mature async-await and isolate-based concurrency, and robust tooling (static analysis, profiling, logging, debugging) across all platforms.
 
 ## Why It Matters
 
@@ -36,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-24T21:04:02.566460+05:30
+- Published: 2026-06-29T17:03:26.115559+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 - youtube
 
 ## Source

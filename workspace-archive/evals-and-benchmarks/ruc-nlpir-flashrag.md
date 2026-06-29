@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient implementations for large language models (LLMs).
+- **Efficient RAG Toolkit**: FlashRAG is a Python-based toolkit optimized for fast and scalable Retrieval-Augmented Generation (RAG) research, leveraging efficient algorithms and parallel processing for low-latency inference.
 
-- **Benchmark & Dataset Support**: Includes built-in support for standardized RAG benchmarks and datasets, enabling reproducible evaluation of retrieval and generation performance.
+- **Benchmark & Datasets**: Includes standardized benchmarks and curated datasets to evaluate RAG systems across tasks like open-domain QA, multi-hop reasoning, and knowledge-intensive applications.
 
-- **Modular Architecture**: Designed with modular components for retrieval, reranking, and generation,
+- **Modular & Extensible**: Designed with modular components (retrievers,
 
 ## Use Cases
 

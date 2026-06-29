@@ -6,18 +6,15 @@ source_url: https://github.com/HKUDS/RAG-Anything
 resource_id: github:hkuds/rag-anything
 local_vault_path: ai/rag/hkuds-rag-anything.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- meta-ai
-- mistral
-- models
 - python
 - rag
-- workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -28,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Multi-Modal RAG Framework**: Implements a single, extensible Python-based framework supporting retrieval-augmented generation (RAG) across text, images, audio, and structured data modalities, leveraging unified embedding and retrieval mechanisms.
+- **Unified Multi-Modal RAG Framework**: Implements a single framework supporting text, image, audio, and video retrieval-augmented generation (RAG) with unified indexing and retrieval pipelines.
 
-- **Modular Architecture**: Features plug-and-play components for document parsing, vector indexing (FAISS/Weaviate), reranking (e.g., ColBERTv2), and LLM integration (e.g., Llama, Mistral), enabling customizable pipelines for diverse RAG w
+- **Modular Architecture**: Features plug-and-play components for document parsing, embedding, vector storage, and LLM integration, enabling customization for diverse multi-modal use cases.
+
+- **Scalable Vector Search**: Utilizes optimized vector databases (e.g., FAISS, Milvus) with cross-modal retriev
 
 ## Use Cases
 

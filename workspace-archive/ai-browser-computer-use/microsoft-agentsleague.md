@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live "AI Battles" and asynchronous community challenges, gamifying agentic AI development with competitive elements.
-- **GitHub-based submission system**: Enables asynchronous participation with structured submissions directly via GitHub repositories.
-- **Microsoft-backed initiative**: Part of Microsoft's developer engagement ecosystem, last updated June 2026 with 284 stars and 91 forks.
+- **E-sports-inspired AI challenge platform** enabling live AI Battles with competitive, asynchronous community challenges and GitHub-based submissions for agentic AI systems.
+- **GitHub-integrated submission system** allowing developers to compete in structured challenges with version-controlled, auditable agent implementations.
+- **Last updated June 2026**, indicating active development or maintenance with potential for evolving challenge formats and AI battle mechanics.
 
 ## Use Cases
 

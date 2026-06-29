@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-06-29T10:34:30.833470+05:30'
-published_at: '2026-06-26T07:46:47Z'
+collected_at: '2026-06-29T16:58:54.481436+05:30'
+published_at: '2026-06-29T07:47:34Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 373
 language: Jupyter Notebook
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-06-29T10:34:30.833470+05:30'
-last_seen: '2026-06-29T10:34:30.833470+05:30'
-last_checked: '2026-06-29T10:34:30.833470+05:30'
+first_seen: '2026-06-29T16:58:54.481436+05:30'
+last_seen: '2026-06-29T16:58:54.481436+05:30'
+last_checked: '2026-06-29T16:58:54.481436+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository containing LLM-based agents designed to automate routine cybersecurity tasks (e.g., adversary emulation) using frameworks like **CALDERA**.
-- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging LLMs for cybersecurity workflows (infosec/ai integration).
-- **Metadata**: 373 stars, 70 forks; last updated **2026-06-26**; focuses on **adversary-emulation**, **LLM**, and **cybersecurity** applications.
+- **Purpose**: Repository containing LLM-based agents designed to automate cybersecurity tasks, including adversary emulation.
+- **Technical Stack**: Implemented in Jupyter Notebooks, leveraging LLMs for cybersecurity operations.
+- **Integration**: Compatible with frameworks like CALDERA for adversary simulation and red teaming.
 
 ## Why It Matters
 
@@ -45,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 70
 - Language: Jupyter Notebook
 - Topics: adversary-emulation, ai, caldera, cybersecurity, infosec, llm
-- Last Updated: 2026-06-26T07:46:47Z
+- Last Updated: 2026-06-29T07:47:34Z
 - Archived: No
 - Created At: 2024-02-29T09:54:26Z
 - Pushed At: 2024-05-07T15:31:28Z

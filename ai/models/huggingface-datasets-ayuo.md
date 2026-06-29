@@ -5,7 +5,7 @@ source_type: huggingface_dataset
 source_name: Hugging Face Trending Datasets
 source_url: https://huggingface.co/datasets/ayuo
 published_at: '2026-06-10T22:01:38.000Z'
-collected_at: '2026-06-28T19:46:53.831402+05:30'
+collected_at: '2026-06-29T16:54:59.964339+05:30'
 tags:
 - dataset
 - hf-dataset
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: huggingface:datasets/ayuo
 first_seen: '2026-06-18T23:35:18.472171+05:30'
-last_seen: '2026-06-28T19:46:53.831402+05:30'
-last_checked: '2026-06-28T19:46:53.831402+05:30'
+last_seen: '2026-06-29T16:54:59.964339+05:30'
+last_checked: '2026-06-29T16:54:59.964339+05:30'
 health_score: 100
 ---
 
@@ -22,7 +22,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 18, Downloads: 1456887)
+Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 18, Downloads: 1453546)
 
 ## Why It Matters
 

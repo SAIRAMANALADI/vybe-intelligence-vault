@@ -26,11 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Knowledge Curation**: STORM autonomously researches topics by leveraging large language models (LLMs) to generate comprehensive, citation-backed reports through iterative retrieval and synthesis.
+- **LLM-powered knowledge curation system**: Automates research and report generation for a given topic, leveraging large language models (LLMs) to synthesize information and produce structured, citation-backed outputs.
 
-- **Agentic RAG Framework**: Implements an agentic retrieval-augmented generation (RAG) pipeline with multi-agent collaboration for deep research, enabling structured exploration and synthesis of diverse sources.
+- **Agentic RAG framework**: Implements retrieval-augmented generation (RAG) with an agentic approach, dynamically querying sources, refining queries, and iteratively improving report quality (published at EMNLP 2024/NAACL).
 
-- **EMNLP 2024 & NAACL Integration**: Developed as a research system for
+- **Python-based implementation**: Open-source tool w
 
 ## Use Cases
 

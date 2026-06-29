@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **MDX 3** drops Node.js <16 support, adds ES2024 features (e.g., `await`), and removes deprecated options while maintaining JSX-in-markdown functionality for modern frameworks.
+- **MDX 3** drops Node.js <16 support, introduces ES2024 features (e.g., `await`), and removes deprecated options while maintaining backward compatibility for JSX-based frameworks.
 
-- **MDX compiles markdown with embedded JSX components** (e.g., `<Chart />`) into framework-compatible JavaScript, enabling dynamic content in static markdown (e.g., `{year}` interpolation, component imports).
+- **MDX** compiles markdown with embedded JSX components into framework-compatible JavaScript, enabling dynamic content (e.g., interactive charts) without runtime overhead.
 
-- **Zero runtime overhead**: MDX compiles entirely during build, preserving markdown simplicity while allowin
+- **Key features**: Seamless markdown-JSX integration, component-based extensibility, customizable rendering (e.g., `{h1: MyHeading}`), and zero
 
 ## Use Cases
 

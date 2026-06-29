@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Natural Language Query Engine**: Enables users to query structured/unstructured data using plain English, eliminating the need for SQL by leveraging NLP and semantic parsing.
-- **Real-time Visualization & Insights**: Automatically generates interactive dashboards and visualizations from queried data, providing instant analytical insights.
-- **Semantic Data Quality Enforcement**: Implements AI-driven data validation and quality checks at the semantic layer, ensuring consistency and accuracy w
+- **NLP-driven data querying**: Enables users to query structured/unstructured data using natural language, eliminating the need for SQL.
+- **Real-time visualization & semantic enforcement**: Provides instant insights via AI-native analytics while ensuring data quality at the semantic layer.
+- **Python-based ML integration**: Leverages machine learning for NLP and analytics, supporting AI-driven data processing and visualization.
 
 ## Use Cases
 

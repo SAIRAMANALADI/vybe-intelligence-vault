@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, dynamically retrieving and synthesizing information from user-provided documents.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded chat, enabling context-aware responses by dynamically fetching relevant document segments.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization for diverse use cases.
+- **Modular Python Framework**: Built with Python, leveraging modern NLP libraries (e.g., LangChain, Transformers) for document ingestion, vector storage (FAISS/Chroma), and LLM integration.
 
-- **Open-Source Ecosystem**: Released under an open-source license with active community contribution
+- **Open-Source & Extensible**: Provides a customizable pipeline for document preprocessing, retrieval, and LLM inte
 
 ## Use Cases
 

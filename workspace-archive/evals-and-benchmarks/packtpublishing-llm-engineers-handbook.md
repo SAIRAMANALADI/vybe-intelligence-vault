@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+- **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
 
-- **Technical Toolkit**: Includes fine-tuning methodologies, evaluation frameworks, and ML system design patterns for optimizing LLM performance in AWS environments.
+- **Technical Focus Areas**: Includes fine-tuning LLMs, evaluation frameworks, MLOps/ML system design, and GenAI-specific workflows with hands-on Python implementations.
 
-- **Hands-on Resources**: Provides Python-based implementations for deploying, monitoring, and maintaining LLM applications with MLOps and LLMOps wo
+- **AWS-Centric Deployment**: Demonstrates end-to-end deployment strategies for LLM/RAG systems on AWS, emphasizing operational effi
 
 ## Use Cases
 

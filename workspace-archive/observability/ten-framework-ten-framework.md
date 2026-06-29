@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal conversational AI framework** enabling real-time voice and video interactions via Python, supporting concurrent audio/video streams and text-based dialogues.
-- **Modular architecture** with pluggable components for speech-to-text, text-to-speech, LLMs, and custom logic, optimized for low-latency processing.
-- **Open-source under permissive license**, actively maintained with 10.8k+ GitHub stars, facilitating rapid prototyping of voice AI agents.
+- **Multi-modal conversational AI framework** in Python enabling real-time voice and video interactions via modular, event-driven architecture.
+- **Supports dynamic agent orchestration** with pluggable components for speech-to-text, LLMs, and text-to-speech, optimized for low-latency streaming.
+- **Open-source under permissive license** (MIT), with 10.8K+ GitHub stars, facilitating extensibility for custom voice AI pipelines.
 
 ## Use Cases
 

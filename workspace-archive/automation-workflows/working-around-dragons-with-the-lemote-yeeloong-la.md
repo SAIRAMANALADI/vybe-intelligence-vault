@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by zdw. Score: 97, Comments: 27.
+Hacker News story by zdw. Score: 127, Comments: 36.
 Original Link: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html
 
 ## Use Cases

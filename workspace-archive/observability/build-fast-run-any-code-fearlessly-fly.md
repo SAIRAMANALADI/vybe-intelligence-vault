@@ -2,7 +2,7 @@
 title: Build fast. Run any code fearlessly. · Fly
 archive_category: observability
 source_category: ai/rag
-source_url: https://fly.io
+source_url: http://fly.io/
 resource_id: blog:build-fast-run-any-code-fearlessly-fly
 local_vault_path: ai/rag/build-fast-run-any-code-fearlessly-fly.md
 quality_score: 70
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instantly as KVM-isolated containers with per-VM dedicated resources (CPU, memory, networking, filesystem), scaling to tens of thousands of instances with sub-second startup times for ephemeral or persistent workloads.
-
-- **Global, Low-Latency Infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and NVMe storage for distributed systems (e.g., CockroachDB, globally-distri
+- **Hardware-virtualized containers (Fly Machines)**: Launch instantly, run only when needed, and scale to tens of thousands of instances with sub-second startup times, supporting HTTP requests and untrusted code execution in isolated sandboxes.
+- **Global, low-latency infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and persistent NVMe storage alongside global object storage for durable data retention.
+- **Enterp
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://fly.io
+Original source URL: http://fly.io/
 
 ## Local Vault File
 

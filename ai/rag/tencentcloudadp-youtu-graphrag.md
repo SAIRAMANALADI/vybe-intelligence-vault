@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-29T10:33:05.712820+05:30'
-published_at: '2026-06-25T08:17:18Z'
+collected_at: '2026-06-29T16:57:29.397045+05:30'
+published_at: '2026-06-29T07:58:04Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-29T10:33:05.712820+05:30'
-last_seen: '2026-06-29T10:33:05.712820+05:30'
-last_checked: '2026-06-29T10:33:05.712820+05:30'
+first_seen: '2026-06-29T16:57:29.397045+05:30'
+last_seen: '2026-06-29T16:57:29.397045+05:30'
+last_checked: '2026-06-29T16:57:29.397045+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,7 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
-
-- **Graph Retrieval-Augmented Architecture**: Integrates graph-based retrieval with LLMs, enabling dynamic subgraph extraction and iterative reasoning loops to improve factual grounding and multi-hop question answering.
-
-- **ICLR 2026 Contribution**: Proposes a novel paradigm for GraphRAG, optimizing agent coordination and graph traversal strategies to scale complex reasoning while maintaining interpretability and efficiency.
+*   Implements Youtu-GraphRAG, a system for complex reasoning
 
 ## Why It Matters
 
@@ -46,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 183
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
-- Last Updated: 2026-06-25T08:17:18Z
+- Last Updated: 2026-06-29T07:58:04Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-01T02:52:13Z

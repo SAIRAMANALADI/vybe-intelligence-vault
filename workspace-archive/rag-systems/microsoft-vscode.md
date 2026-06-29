@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Electron-based cross-platform editor**: VS Code is built using Electron (a framework for cross-platform desktop apps with web technologies) and TypeScript, enabling a native-like experience across Windows, macOS, and Linux.
+- **Electron-based Architecture**: VS Code is built using Electron, a framework enabling cross-platform desktop applications with web technologies (HTML, CSS, JavaScript/TypeScript).
 
-- **Extensible architecture**: The editor supports a rich extension API (written in TypeScript) for language services, debuggers, and tooling, leveraging Language Server Protocol (LSP) for language intelligence.
+- **TypeScript-Centric Development**: The core editor logic is implemented in TypeScript, leveraging static typing for maintainability and scalability, while compiling to JavaScript for execution.
 
-- **Performance-optimized runtime**: Uses a multi-process
+- **Extensible Plugin System**: VS Code supports a rich ecosystem of extensions (written in TypeScript/JavaScript) for
 
 ## Use Cases
 

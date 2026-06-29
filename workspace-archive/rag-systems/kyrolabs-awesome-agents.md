@@ -13,9 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
-- paper
 - rag
-- scripts
 - unknown
 selection_reason:
 - Strong keyword match
@@ -35,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates a comprehensive list of AI agent frameworks, libraries, and tools, including autonomous agents, multi-agent systems, and agent-based modeling platforms.
-- **Multi-Domain Coverage**: Encompasses agents for research, coding, web browsing, task automation, and reinforcement learning, with links to research papers, GitHub repositories, and documentation.
-- **Community-Driven**: Open-source repository with 2,559 stars and 661 forks, last updated in June 2026, faci
+- **Curated Collection**: Aggregates a comprehensive list of AI agents, frameworks, libraries, and tools for research and development.
+- **Open-Source**: Hosted on GitHub under the `kyrolabs` organization, encouraging community contributions and collaboration.
+- **Last Updated**: Repository content was last synchronized on **2026-06-28T13:31:57Z**, ensuring recent additions and updates.
 
 ## Use Cases
 

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by geox. Score: 329, Comments: 444.
+Hacker News story by geox. Score: 423, Comments: 562.
 Original Link: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html
 
 ## Use Cases

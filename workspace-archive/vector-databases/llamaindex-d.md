@@ -8,16 +8,15 @@ local_vault_path: ai/rag/llamaindex-d.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
 - meta-ai
 - models
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LlamaIndex ð¦
@@ -26,17 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Client-Side Requirement**: The message indicates that JavaScript execution is necessary for the web application to function, as it relies on client-side scripting for dynamic content rendering and interactivity.
-
-- **Browser Dependency**: The error suggests that the user's browser has JavaScript disabled or is not executing it, which is a common prerequisite for modern web applications built with frameworks like React, Angular, or Vue.js.
-
-- **Potential Causes**: Possible reasons include dis
+- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for proper functionality.
+- **Client-Side Execution**: Core application logic and rendering are executed on the client side, necessitating JavaScript support.
+- **Browser Configuration**: Users must ensure their browser settings allow JavaScript execution to access the application's full features.
 
 ## Use Cases
 

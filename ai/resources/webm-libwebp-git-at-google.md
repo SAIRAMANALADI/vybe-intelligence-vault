@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://chromium.googlesource.com/webm/libwebp/
-published_at: '2026-06-27T09:57:32.279243+05:30'
-collected_at: '2026-06-27T09:57:32.279254+05:30'
+published_at: '2026-06-29T17:02:09.944831+05:30'
+collected_at: '2026-06-29T17:02:09.944844+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:webm-libwebp-git-at-google
-first_seen: '2026-06-27T09:57:32.279254+05:30'
-last_seen: '2026-06-27T09:57:32.279254+05:30'
-last_checked: '2026-06-27T09:57:32.279254+05:30'
+first_seen: '2026-06-29T17:02:09.944844+05:30'
+last_seen: '2026-06-29T17:02:09.944844+05:30'
+last_checked: '2026-06-29T17:02:09.944844+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `libwebp` is a WebP codec library hosted on Chromium's Git source (part of the WebM project), with branches spanning from `0.2.0` to `main` and tags up to `v1.6.0`.
+- **Repository**: `libwebp` is a WebP image codec library hosted on Chromium's Gitiles, supporting encoding/decoding via `cwebp`/`dwebp` tools, with branches (e.g., `main`, `0.5.1`) and tags (e.g., `v1.6.0`, `webp-rfc9649`) for version control.
 
-- **Functionality**: Provides encoding/decoding tools (`cwebp`, `dwebp`) and a library for WebP image format support, released under the same license as WebM (see `COPYING`/`PATENTS`).
+- **Build & APIs**: Provides build instructions (see `doc/building.md`), API documentation (`doc/api.md`), and example tools in `examples/` for image/animation processing, all under the same license as WebM (see `COPYING`/`PATENTS`).
 
-- **Development**: Includes build/docs (e.g., `building.md`, `tools.md`), API references, and contribution guidelines; bugs/issues tracked via WebM’s issue tracker.
+- **Contributions & Bugs**: Accepts patches (see `CONTRIBUTING.md`) and reports bugs via the [WebP issue tracker](https://issues.webmproject.org/issues/new?component=1618983&template=2023995); security reports require selecting the "Security report" template.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-27T09:57:32.279243+05:30
+- Published: 2026-06-29T17:02:09.944831+05:30
 
 ## Related Tags
 

@@ -6,12 +6,13 @@ source_url: https://github.com/Yigtwxx/awesome-rag-production
 resource_id: github:yigtwxx/awesome-rag-production
 local_vault_path: ai/rag/yigtwxx-awesome-rag-production.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, covering LLMs, embeddings, vector databases, and MLOps workflows.
+- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, emphasizing battle-tested solutions.
 
-- **Python-Centric Tooling**: Focuses on Python-based implementations, including LangChain, for integrating large language models (LLMs) with retrieval mechanisms, emphasizing production-ready pipelines and deployment strategies.
+- **Technical scope**: Covers core components including embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMops workflows for deployment and scalability.
 
-- **C
+- **Python-centric**: Focuses on Python-based implementations, with last update timestamped 2026-06-29, and includes 129 stars
 
 ## Use Cases
 

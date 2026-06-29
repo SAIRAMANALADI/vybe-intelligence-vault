@@ -6,19 +6,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://danunparsed.com/p/hackerrank-open-source-ats
 hn_url: https://news.ycombinator.com/item?id=48713832
-score: 22
+score: 529
 author: sambellll
-comments_count: 1
+comments_count: 212
 published_at: '2026-06-29T07:14:40+05:30'
-collected_at: '2026-06-29T10:30:04.609867+05:30'
+collected_at: '2026-06-29T16:54:59.309249+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:hackerrank-open-sourced-its-ats-my-resume-scored-9
 first_seen: '2026-06-29T10:30:04.609867+05:30'
-last_seen: '2026-06-29T10:30:04.609867+05:30'
-last_checked: '2026-06-29T10:30:04.609867+05:30'
+last_seen: '2026-06-29T16:54:59.309249+05:30'
+last_checked: '2026-06-29T16:54:59.309249+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sambellll. Score: 22, Comments: 1.
+Hacker News story by sambellll. Score: 529, Comments: 212.
 Original Link: https://danunparsed.com/p/hackerrank-open-source-ats
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sambellll
-- Score: 22 Upvotes
-- Comments: 1 Discussions
+- Score: 529 Upvotes
+- Comments: 212 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48713832
 - Original Article: https://danunparsed.com/p/hackerrank-open-source-ats
 

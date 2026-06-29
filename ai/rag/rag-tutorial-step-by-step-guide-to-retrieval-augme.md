@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-29T10:31:29.072391+05:30'
-collected_at: '2026-06-29T10:31:29.072404+05:30'
+published_at: '2026-06-29T16:55:55.318859+05:30'
+collected_at: '2026-06-29T16:55:55.318872+05:30'
 tags:
 - benchmark
 - models
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-06-29T10:31:29.072404+05:30'
-last_seen: '2026-06-29T10:31:29.072404+05:30'
-last_checked: '2026-06-29T10:31:29.072404+05:30'
+first_seen: '2026-06-29T16:55:55.318872+05:30'
+last_seen: '2026-06-29T16:55:55.318872+05:30'
+last_checked: '2026-06-29T16:55:55.318872+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLM responses by dynamically retrieving relevant documents from a knowledge base at query time, ensuring answers are grounded in current, domain-specific data rather than static training data, improving accuracy, auditability, and cost-efficiency.
+- **RAG Pipeline Core**: A 5-step process—**Load** (ingest documents via LangChain loaders), **Chunk** (split into 512-token segments with 50-token overlap using `RecursiveCharacterTextSplitter`), **Embed** (convert chunks to vectors via OpenAI `text-embedding-3-small` and store in ChromaDB), **Retrieve** (semantic search with cosine similarity, returning top-*k* chunks), and **Generate** (LLM synthesizes answers from retrieved context using a structured prompt).
 
-- **Pipeline Components**: A RAG system consists of five core steps: (1) **Loading** documents (PDFs, web pages, etc.), (2) **Chunking** documents into semantically meaningful segments (e.g., 512 tokens with 50-token overlap), (3) **Embedding** chunks into vector representations using models like `text-embedding-3-small` and storing them in a vector database (e.g., ChromaDB), (4) **Retrieving** top-*k* relevant chunks via semantic similarity search, and (5) **Generating** answers by passing retrieved context to an LLM (e.g., GPT-4o-mini) with a structured prompt.
+- **Modular Architecture**: The system is **interchangeable**—embedding models (OpenAI, HuggingFace), vector databases (ChromaDB, Pinecone, pgvector), and LLMs (GPT-4o-mini, open-source alternatives) can be swapped without pipeline redesign, enabling cost/performance optimization.
 
-- **Production Enhancements**: For improved performance, integrate **re-ranking** (e.g., cross-encoder models like `cross-encoder/ms-marco-MiniLM-L-6-v2`) to refine retrieval relevance and **evaluation** (e.g., RAGAS metrics for faithfulness, answer relevancy, and context precision) to assess system robustness. Hybrid retrieval and query expansion further optimize results.
+- **Production Enhancements**: **Re-ranking** (cross-encoder models like `cross-encoder/ms-marco-MiniLM-L-6-v2` refine retrieval precision) and **Evaluation** (RAGAS metrics for faithfulness, relevancy, and context precision) are critical for enterprise-grade RAG systems to mitigate hallucinations and ensure answer quality.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:31:29.072391+05:30
+- Published: 2026-06-29T16:55:55.318859+05:30
 
 ## Related Tags
 

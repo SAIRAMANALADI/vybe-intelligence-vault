@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Retrieval-Augmented Generation (RAG) enhances LLM responses by dynamically retrieving relevant documents from a knowledge base at query time, ensuring answers are grounded in current, domain-specific data rather than static training data, improving accuracy, auditability, and cost-efficiency.
+- **RAG Pipeline Core**: A 5-step process—**Load** (ingest documents via LangChain loaders), **Chunk** (split into 512-token segments with 50-token overlap using `RecursiveCharacterTextSplitter`), **Embed** (convert chunks to vectors via OpenAI `text-embedding-3-small` and store in ChromaDB), **Retrieve** (semantic search with cosine similarity, returning top-*k* chunks), and **Generate** (LLM synthesizes answers from retrieved context using a structured prompt).
 
-- **Pipeline Components**: A RAG system consists of five core steps: (1) **Loading** documents (PDFs, web pages, etc.), (2) **Chunking** documents into semantically meaningful segme
+- **Modular Architecture**: The
 
 ## Use Cases
 

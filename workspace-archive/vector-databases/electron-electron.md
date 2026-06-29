@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-platform desktop framework**: Electron enables building desktop applications using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
-
-- **Core architecture**: Combines V8 JavaScript engine, Chromium browser components, and Node.js runtime in a C++-based framework to support native desktop app development.
-
-- **Development ecosystem**: Supports integration with tools like CodeSandbox, integrates with C++ for native modules, and targets des
+- **Cross-platform desktop app framework** using JavaScript, HTML, and CSS, leveraging Chromium for rendering and Node.js for backend integration.
+- **Core components**: V8 JavaScript engine, Chromium browser engine, and Node.js runtime for native OS APIs.
+- **Architecture**: C++-based with bindings to JavaScript/HTML/CSS, enabling desktop app development across Windows, macOS, and Linux.
 
 ## Use Cases
 

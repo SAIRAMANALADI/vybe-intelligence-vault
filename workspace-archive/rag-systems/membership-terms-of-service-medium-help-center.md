@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Payment & Renewal Terms**: Subscriptions are recurring (monthly/annual) with fees charged automatically on the same day of renewal; invalid payment methods may lead to immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
+- **Subscription Model**: Medium's Member Services operate on a recurring payment model (monthly/annually), with fees charged automatically on the same day of each billing cycle; cancellation takes effect at the end of the current period without refunds for unused time.
 
-- **License & Restrictions**: Users receive a non-exclusive, personal-use license; violations (e.g., illegal use, sharing credentials, reverse-engineering) may result in immediate termination without refund.
-
-- **Gi
+- **Payment & Access Control**: Payments are processed via stored payment methods (credit card, Apple Pay, etc.), with Medium reserving the right to revoke access for failed payments or policy violations; taxes are user’s respon
 
 ## Use Cases
 

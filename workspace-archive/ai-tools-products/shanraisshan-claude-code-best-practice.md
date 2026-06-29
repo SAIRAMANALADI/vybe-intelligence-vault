@@ -16,6 +16,7 @@ tags:
 - github-repo
 - hackernews
 - html
+- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -35,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Evolution of AI Workflows**: Transition from *vibe coding* (intuitive, unstructured AI-assisted development) to *agentic engineering* (structured, autonomous AI-driven development with defined workflows and tools like `claude-code`).
+- **Evolution from Vibe Coding to Agentic Engineering**: Repository documents the transition from unstructured "vibe coding" to structured, autonomous AI-driven workflows using Claude Code agents, emphasizing scalability and precision in AI-assisted development.
 
-- **Technical Best Practices**: Repository provides curated guidelines for optimizing `claude-code` agents, including context engineering, command structuring, and skill integration for high-efficiency AI-assisted coding.
+- **Best Practices for Claude Code Agents**: Provides technical guidelines for optimizing Claude Code performance, including context engineering, command structuring, and skill integration for enterprise-grade AI workflows.
 
-- **Community & Tooling**: Focus on *a
+- **Context
 
 ## Use Cases
 

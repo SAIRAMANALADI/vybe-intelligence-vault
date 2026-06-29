@@ -2,14 +2,21 @@
 title: truefoundry/cognita
 archive_category: ai-tools-products
 source_category: ai/rag
-source_url: https://github.com/truefoundry/cognita?source=post_page
+source_url: https://github.com/truefoundry/cognita
 resource_id: github:truefoundry/cognita
 local_vault_path: ai/rag/truefoundry-cognita.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
+tags:
+- agents
+- github-repo
+- models
+- python
+- rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -20,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -28,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for customization and scalability.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Supports both Python (backend) and TypeScript (frontend), enabling full-stack development for AI-driven applications.
+- **Multi-Language Support**: Supports Python for backend components and TypeScript for frontend integration, enabling full-stack development of AI applications.
 
-- **MLOps & Deployment Features**: Integrates LLM-ops capabilities (fine-tuning, model deployment, and retrieval pipelines) with production-ready t
+- **MLOps & Deployment Features**: Includes LLM Ops capabilities (e.g., fine-tuning, model deployment) and retrieval mechanism
 
 ## Use Cases
 
@@ -42,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/truefoundry/cognita?source=post_page
+Original source URL: https://github.com/truefoundry/cognita
 
 ## Local Vault File
 

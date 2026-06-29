@@ -12,12 +12,11 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - python
 - rag
-- reddit
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a template for building AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities, implemented via FastAPI.
-- **Key Components**: Includes FastAPI for API endpoints, Ollama for LLM integration, and a vector database for efficient document retrieval, deployable via Docker and Kubernetes.
-- **Technologies**: Python-based, leveraging RAG, LLM, vector search, and integrates with Stackit cloud services; supports Dock
+- **Template Structure**: Provides a FastAPI-based framework for RAG (Retrieval-Augmented Generation) systems, integrating vector search with LLM (Ollama) for document management and AI chatbots.
+
+- **Deployment Options**: Supports Docker for containerization and Kubernetes for orchestration, enabling scalable deployment of RAG pipelines.
+
+- **Key Components**: Includes a vector database (unspecified), FastAPI for API endpoints, and Ollama for local LLM inference, optimized for Python-based RAG
 
 ## Use Cases
 

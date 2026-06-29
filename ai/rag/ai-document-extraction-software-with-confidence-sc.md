@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
-published_at: '2026-06-29T01:22:21.177096+05:30'
-collected_at: '2026-06-29T01:22:21.177111+05:30'
+published_at: '2026-06-29T17:00:17.943981+05:30'
+collected_at: '2026-06-29T17:00:17.943993+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-extraction-software-with-confidence-sc
-first_seen: '2026-06-29T01:22:21.177111+05:30'
-last_seen: '2026-06-29T01:22:21.177111+05:30'
-last_checked: '2026-06-29T01:22:21.177111+05:30'
+first_seen: '2026-06-29T17:00:17.943993+05:30'
+last_seen: '2026-06-29T17:00:17.943993+05:30'
+last_checked: '2026-06-29T17:00:17.943993+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Field-level confidence scoring**: Quantifies extraction certainty per field with granular confidence metrics for precise data validation.
+- **Field-level confidence scoring**: Provides per-field extraction confidence metrics to quantify certainty in structured data extraction.
 
-- **Layout + context-aware parsing**: Uses reasoning-based extraction to handle complex spatial layouts, nested tables, and image data with superior accuracy.
+- **Layout + context-aware parsing**: Uses advanced reasoning to handle complex spatial layouts, nested tables, and image extraction for superior accuracy.
 
-- **Iterative schema development**: Supports custom schema definition or auto-detection of fields, enabling adaptive extraction workflows for diverse document types.
+- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection with configurable parsing modes to optimize cost-accuracy tradeoffs.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:21.177096+05:30
+- Published: 2026-06-29T17:00:17.943981+05:30
 
 ## Related Tags
 

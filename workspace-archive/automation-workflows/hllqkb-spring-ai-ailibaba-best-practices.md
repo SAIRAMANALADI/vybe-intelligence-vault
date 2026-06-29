@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Implements SSE streaming, Agent-based workflows, and Knowledge Graph RAG** in Java using Spring AI and Alibaba Cloud services for real-time AI Q&A systems.
-- **Supports advanced AI capabilities** including Function Call, historical message management, image generation/understanding, and Embedding/Vector Database integration for RAG.
-- **Utilizes Alibaba Cloud's AI ecosystem** with modular components for embedding, vector storage, and retrieval-augmented generation (RAG) pipelines.
+- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
+
+- **Agentic Workflows with SSE & Function Calls**: Integrates Server-Sent Events (SSE) for real-time streaming and FunctionCall for dynamic agent interactions, enabling multi-step reasoning and tool usage.
+
+- **Multimodal & Vector Storage Capabilities**: Supports image generation/und
 
 ## Use Cases
 

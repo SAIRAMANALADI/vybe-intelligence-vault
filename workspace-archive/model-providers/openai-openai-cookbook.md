@@ -8,7 +8,7 @@ local_vault_path: ai/resources/openai-openai-cookbook.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
@@ -27,16 +27,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Repository Overview**: Hosts examples and guides for OpenAI API integration, covering models like ChatGPT and GPT-4, with 74,420 stars and 12,589 forks.
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, facilitating interactive API experimentation and demonstration.
-- **Last Updated**: Repository was last updated on June 26, 2026, ensuring relevance for current API practices.
+- **Repository Overview**: Curated collection of Jupyter Notebooks demonstrating OpenAI API usage, covering GPT-4, ChatGPT, and other API features with practical examples and guides.
+
+- **Technical Scope**: Includes advanced implementations such as fine-tuning, prompt engineering, and multi-modal interactions, with a focus on reproducibility and scalability.
+
+- **Community & Maintenance**: Actively maintained (last updated June 2026) with 74.4k stars and 12.6k forks, indicating strong community
 
 ## Use Cases
 

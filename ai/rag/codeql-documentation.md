@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://codeql.github.com/docs/
-published_at: '2026-06-29T03:53:03.001111+05:30'
-collected_at: '2026-06-29T03:53:03.001125+05:30'
+published_at: '2026-06-29T17:04:29.806698+05:30'
+collected_at: '2026-06-29T17:04:29.806709+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:codeql-documentation
-first_seen: '2026-06-29T03:53:03.001125+05:30'
-last_seen: '2026-06-29T03:53:03.001125+05:30'
-last_checked: '2026-06-29T03:53:03.001125+05:30'
+first_seen: '2026-06-29T17:04:29.806709+05:30'
+last_seen: '2026-06-29T17:04:29.806709+05:30'
+last_checked: '2026-06-29T17:04:29.806709+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **CodeQL Overview**: Treats source code as data, enabling vulnerability detection via structured queries (QL) to identify and mitigate security flaws across supported languages/frameworks.
-- **Core Components**: Includes QL language reference, standard libraries, and query help; supports system requirements, CLI releases, and IDE extensions (e.g., VS Code).
-- **Functionality**: Provides CWE coverage metrics, query execution options, and resources for contributing to CodeQL’s libraries/queries (e.g., GitHub repository).
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
+- **Query Development**: Provides structured guides for writing, running, and optimizing CodeQL queries, including language-specific documentation and CLI/IDE integration.
+- **Resources & References**: Offers official repositories, CLI releases, VS Code extension, and comprehensive QL language/standard library references for advanced query development and community contributions.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:53:03.001111+05:30
+- Published: 2026-06-29T17:04:29.806698+05:30
 
 ## Related Tags
 

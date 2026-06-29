@@ -2,7 +2,7 @@
 title: truefoundry/cognita
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/truefoundry/cognita?source=post_page
+source_url: https://github.com/truefoundry/cognita
 resource_id: github:truefoundry/cognita
 local_vault_path: ai/rag/truefoundry-cognita.md
 quality_score: 70
@@ -10,6 +10,13 @@ archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
+tags:
+- agents
+- github-repo
+- models
+- python
+- rag
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -26,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for scalability and customization.
+- **Modular RAG Framework**: Open-source Python-based framework for building production-grade Retrieval Augmented Generation (RAG) applications with modular components for seamless integration and scalability.
 
-- **Multi-Language Support**: Supports both Python and TypeScript, enabling integration across diverse tech stacks for frontend/ backend applications.
+- **Multi-Language Support**: Supports Python for backend components and TypeScript for frontend integration, enabling full-stack development of AI applications.
 
-- **MLOps & Deployment Features**: Includes LLM-ops capabilities (fine-tuning, model deployment) and integrates with MLOps tools for end-to-end
+- **MLOps & Deployment Features**: Includes LLM Ops capabilities (e.g., fine-tuning, model deployment) and retrieval mechanism
 
 ## Use Cases
 
@@ -40,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/truefoundry/cognita?source=post_page
+Original source URL: https://github.com/truefoundry/cognita
 
 ## Local Vault File
 

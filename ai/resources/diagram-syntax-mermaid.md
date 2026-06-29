@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://mermaid.js.org/intro/syntax-reference.html
-published_at: '2026-06-26T22:45:09.889793+05:30'
-collected_at: '2026-06-26T22:45:09.889801+05:30'
+published_at: '2026-06-29T17:04:17.443369+05:30'
+collected_at: '2026-06-29T17:04:17.443380+05:30'
 tags:
 - hackernews
-- reddit
 - web-crawled
 status: active
 resource_id: blog:diagram-syntax-mermaid
-first_seen: '2026-06-26T22:45:09.889801+05:30'
-last_seen: '2026-06-26T22:45:09.889801+05:30'
-last_checked: '2026-06-26T22:45:09.889801+05:30'
+first_seen: '2026-06-29T17:04:17.443380+05:30'
+last_seen: '2026-06-29T17:04:17.443380+05:30'
+last_checked: '2026-06-29T17:04:17.443380+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Diagram Initialization**: All Mermaid diagrams begin with a type declaration (e.g., `erDiagram` for Entity Relationship Diagrams), followed by entity definitions; exceptions include Frontmatter configurations.
+- All Mermaid diagram definitions **must** start with a diagram type declaration (e.g., `erDiagram`), except when using [Frontmatter](https://mermaid.js.org/intro/syntax-reference.html#frontmatter-for-diagram-code) configuration.
 
-- **Syntax Pitfalls**: Specific words/symbols (e.g., `end`, `%%{}`) break diagrams; solutions include wrapping terms in quotes or avoiding certain comment formats.
+- **Diagram-breaking syntax** includes reserved keywords (e.g., `end` in Flowcharts) and symbols (e.g., `%%{}` in comments); wrapping such terms in quotes prevents rendering failures.
 
-- **Configuration Methods**: Mermaid supports three core components—syntax, deployment, and configuration—where the latter customizes behavior/appearance via methods like `initialize()` or Live Editor settings.
+- Mermaid supports **configuration** via methods like `initialize()` (JavaScript API) or Live Editor settings to customize diagram behavior, themes, and appearance.
 
 ## Why It Matters
 
@@ -36,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-26T22:45:09.889793+05:30
+- Published: 2026-06-29T17:04:17.443369+05:30
 
 ## Related Tags
 
 - hackernews
-- reddit
 - web-crawled
 
 ## Source

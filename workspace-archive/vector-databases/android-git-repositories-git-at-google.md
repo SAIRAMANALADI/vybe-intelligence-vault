@@ -8,7 +8,7 @@ local_vault_path: ai/rag/android-git-repositories-git-at-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: template
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - reddit
 - scripts
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # android Git repositories - Git at Google
@@ -31,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: template
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Git Repositories**: The Android Open Source Project (AOSP) hosts hundreds of Git repositories under `android.googlesource.com`, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory/emulator targets (e.g., `device/google/accessory/arduino`, `device/generic/mini-emulator-x86`).
+- **Centralized Android Git Repository**: The [android.googlesource.com](https://android.googlesource.com/) platform hosts a vast, structured collection of Git repositories for Android, including device-specific kernels (e.g., `device/google/bluejay-kernel`), platform-agnostic components (e.g., `device/generic/common`), and accessory/emulator targets (e.g., `device/generic/qemu`).
 
-- **Kernel & SEPolicy Branches**: Many device repositories include kernel branches (e.g., `device/google/akita-kernels/6.
+- **Device-Specific Kernel & Hardware Support**: Many repositories are organized by device codename (e.g., `device/
 
 ## Use Cases
 

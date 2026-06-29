@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 78
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Divided into **injection pipeline** (data ingestion: chunking + embedding via models like OpenAI's `text-embedding-3-large` with 3,072 dimensions) and **retrieval pipeline** (user query embedding → vector DB search → top-*k* relevant chunks → LLM generation).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while managing context window limits (e.g., GPT-4.1: 1M tokens, Claude Sonnet: 200K tokens).
 
-- **Vector Embeddings**: Mathematical representations (e.g., 3,072-dim vectors) encoding semantic meaning; higher dimensions capture more nuance but increase storage/compute costs. Popular models include OpenAI’s `t
+- **Embedding Pipeline**: Chunks documents (e.g., 10M tokens → 10K chunks of 1K tokens each), converts text to high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings), and stores them in vector databases (Pinecone, Weaviate, FAISS) for semantic similarity matchi
 
 ## Use Cases
 

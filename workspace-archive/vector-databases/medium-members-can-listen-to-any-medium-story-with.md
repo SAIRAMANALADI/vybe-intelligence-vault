@@ -3,7 +3,7 @@ title: Medium Members Can Listen To Any Medium Story With The Speechify Play But
   | Speechify
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://speechify.com/medium?source=post_page
+source_url: https://speechify.com/medium?source=
 resource_id: blog:medium-members-can-listen-to-any-medium-story-with
 local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
@@ -27,9 +27,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert text-to-speech (TTS) for any story, with highlighted text synchronization, supporting multitasking (e.g., commuting, exercising) and improving retention via dual-modal consumption.
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert text-to-speech (TTS) for any story, with highlighted text synchronization, supporting multitasking (e.g., commuting, exercising) and improving retention via dual-modal input.
 
-- **Performance & Customization**: Supports playback speeds up to **4.5x** (with default at 1x), optimizing productivity for speed listeners; additionally, writers leverage TTS for proofreading by det
+- **Performance & Customization**: Users can adjust playback speed up to 4.5x, optimizing productivity for speed listeners, while writers leverage TTS for proofreading drafts to detect awkward phrasing or e
 
 ## Use Cases
 
@@ -39,7 +39,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://speechify.com/medium?source=post_page
+Original source URL: https://speechify.com/medium?source=
 
 ## Local Vault File
 

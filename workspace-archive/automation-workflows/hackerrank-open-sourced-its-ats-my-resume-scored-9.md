@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by sambellll. Score: 22, Comments: 1.
+Hacker News story by sambellll. Score: 529, Comments: 212.
 Original Link: https://danunparsed.com/p/hackerrank-open-source-ats
 
 ## Use Cases

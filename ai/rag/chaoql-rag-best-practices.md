@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-29T10:32:20.653676+05:30'
+collected_at: '2026-06-29T16:56:44.257786+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-29T10:32:20.653676+05:30'
-last_seen: '2026-06-29T10:32:20.653676+05:30'
-last_checked: '2026-06-29T10:32:20.653676+05:30'
+first_seen: '2026-06-29T16:56:44.257786+05:30'
+last_seen: '2026-06-29T16:56:44.257786+05:30'
+last_checked: '2026-06-29T16:56:44.257786+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) pipelines with modular components for indexing, retrieval, and generation in Python.
-- **Best Practices Integration**: Incorporates state-of-the-art techniques for chunking, embedding, reranking, and prompt engineering to enhance LLM performance.
-- **Evaluation & Benchmarking**: Includes scripts for assessing retrieval quality, generation accuracy, and end-to-end RAG system efficiency.
+- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model performance and retrieval efficiency.
+- **Technical Implementation**: Includes methodologies for integrating large language models (LLMs) with vector databases, emphasizing chunking strategies, embedding models, and retrieval tuning.
+- **Evaluation Metrics**: Implements benchmarking for RAG systems, covering metrics like answer relevance, context precision, and latency optimization for production deployment.
 
 ## Why It Matters
 

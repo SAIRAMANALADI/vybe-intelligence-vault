@@ -1,40 +1,39 @@
 ---
-title: AnswerDotAI/RAGatouille
+title: RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/AnswerDotAI/RAGatouille
+source_url: https://github.com/AnswerDotAI/RAGatouille/tree/main/examples
 resource_id: github:answerdotai/ragatouille
 local_vault_path: ai/rag/answerdotai-ragatouille.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
-- github-repo
-- python
+- meta-ai
+- models
 - rag
+- web-crawled
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
-# AnswerDotAI/RAGatouille
+# RAGatouille/examples at main · AnswerDotAI/RAGatouille · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: benchmark
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **ColBERT Integration**: Provides a modular Python library for implementing ColBERT (Contextualized Late Interaction over BERT) in RAG pipelines, enabling efficient late-interaction retrieval with BERT-based embeddings.
-
-- **Training & Inference Support**: Enables both training and inference of ColBERT models, optimized for modular integration into existing RAG architectures with minimal overhead.
-
-- **Research-Backed & Maintained**: Actively maintained (last updated June 2026) with a growing
+- **RAGatouille**: A GitHub repository by AnswerDotAI implementing Retrieval-Augmented Generation (RAG) with ColBERTv2 for efficient and scalable document retrieval and reranking.
+- **Key Features**: Includes examples for basic indexing/search, fine-tuning without annotations, reranking, and integration with Llama Hub and index-free usage.
+- **Metrics**: 271 forks, 3.9k stars, 90 open issues, and 7 pull requests as of the latest snapshot.
 
 ## Use Cases
 
@@ -44,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/AnswerDotAI/RAGatouille
+Original source URL: https://github.com/AnswerDotAI/RAGatouille/tree/main/examples
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/workflow-builder-template
-collected_at: '2026-06-29T10:33:35.773776+05:30'
+collected_at: '2026-06-29T16:57:59.433016+05:30'
 published_at: '2026-06-28T17:39:22Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-03T17:14:16Z'
 pushed_at: '2026-01-13T08:27:13Z'
 resource_id: github:vercel-labs/workflow-builder-template
-first_seen: '2026-06-29T10:33:35.773776+05:30'
-last_seen: '2026-06-29T10:33:35.773776+05:30'
-last_checked: '2026-06-29T10:33:35.773776+05:30'
+first_seen: '2026-06-29T16:57:59.433016+05:30'
+last_seen: '2026-06-29T16:57:59.433016+05:30'
+last_checked: '2026-06-29T16:57:59.433016+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Visual AI Workflow Automation**: Open-source template for building AI-driven workflow automation platforms using TypeScript, enabling drag-and-drop visual composition of multi-agent systems.
+- **Visual AI Workflow Automation**: Open-source template for building AI-driven workflow automation platforms with a visual interface, leveraging TypeScript for extensibility.
 
-- **Multi-Agent Orchestration**: Supports dynamic agent collaboration with configurable triggers, dependencies, and parallel execution paths for complex workflows.
+- **Agent-Based Architecture**: Supports modular AI agents with configurable interactions, enabling dynamic task orchestration and multi-step automation pipelines.
 
-- **Vercel Integration**: Optimized for Vercel deployments with serverless functions, edge runtime compatibility, and seamless Git integration for CI/CD pipelines.
+- **Vercel Integration**: Optimized for Vercel deployments, featuring serverless functions, edge runtime compatibility, and seamless CI/CD workflows.
 
 ## Why It Matters
 

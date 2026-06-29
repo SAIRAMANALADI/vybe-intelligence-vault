@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: http://creativecommons.org/licenses/by/4.0/
-published_at: '2026-06-29T03:52:05.400155+05:30'
-collected_at: '2026-06-29T03:52:05.400169+05:30'
+published_at: '2026-06-29T17:01:24.399345+05:30'
+collected_at: '2026-06-29T17:01:24.399358+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:deed-attribution-4-0-international-creative-common
-first_seen: '2026-06-29T03:52:05.400169+05:30'
-last_seen: '2026-06-29T03:52:05.400169+05:30'
-last_checked: '2026-06-29T03:52:05.400169+05:30'
+first_seen: '2026-06-29T17:01:24.399358+05:30'
+last_seen: '2026-06-29T17:01:24.399358+05:30'
+last_checked: '2026-06-29T17:01:24.399358+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- A **canonical URL** is a standardized web address that specifies the preferred version of a webpage to avoid duplicate content issues.
-- It is defined using the `<link rel="canonical">` tag in the HTML `<head>` section or via HTTP headers.
-- Canonical URLs help search engines consolidate ranking signals (e.g., links, content metrics) to a single, authoritative URL.
+- **Definition**: A canonical URL is a specific URL designated as the preferred version among duplicate or similar content pages to consolidate ranking signals and avoid SEO dilution.
+- **Purpose**: Prevents search engines from indexing multiple versions of the same content, reducing duplicate content issues and improving SEO performance.
+- **Implementation**: Specified using the `<link rel="canonical">` tag in HTML or via HTTP headers, ensuring search engines recognize the canonical version.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T03:52:05.400155+05:30
+- Published: 2026-06-29T17:01:24.399345+05:30
 
 ## Related Tags
 

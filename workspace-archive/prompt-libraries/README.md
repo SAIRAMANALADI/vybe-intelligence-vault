@@ -15,7 +15,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl) (template - USEFUL Tier)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) (framework - USEFUL Tier)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) (prompt - USEFUL Tier)
-- [ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices) (prompt - USEFUL Tier)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 - [FastChat/fastchat/llm_judge/data/judge_prompts.jsonl at main · lm-sys/FastChat · GitHub](https://github.com/lm-sys/FastChat/blob/main/fastchat/llm_judge/data/judge_prompts.jsonl)
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook)
-- [ali-bahrainian/RAG_best_practices](https://github.com/ali-bahrainian/RAG_best_practices)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+- [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-29 10:47 IST*
+*Last updated: 2026-06-29 17:11 IST*

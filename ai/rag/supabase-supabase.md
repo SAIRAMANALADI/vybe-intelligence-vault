@@ -1,35 +1,36 @@
 ---
-title: supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx
-published_at: '2026-06-28T22:13:13.472908+05:30'
-collected_at: '2026-06-28T22:13:13.472917+05:30'
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+published_at: '2026-06-29T17:02:14.199224+05:30'
+collected_at: '2026-06-29T17:02:14.199240+05:30'
 tags:
 - frontend_ui
 - hackernews
-- meta-ai
-- models
 - openai
 - rag
 - reddit
 - web-crawled
+- youtube
 status: active
 resource_id: github:supabase/supabase
-first_seen: '2026-06-28T22:13:13.472917+05:30'
-last_seen: '2026-06-28T22:13:13.472917+05:30'
-last_checked: '2026-06-28T22:13:13.472917+05:30'
+first_seen: '2026-06-29T17:02:14.199240+05:30'
+last_seen: '2026-06-29T17:02:14.199240+05:30'
+last_checked: '2026-06-29T17:02:14.199240+05:30'
 health_score: 100
 ---
 
-# supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase provides an open-source toolkit for AI applications using Postgres with `pgvector` for storing, indexing, and querying vector embeddings at scale.
-- **Multi-Model Support**: Includes Python client for unstructured embeddings, Edge Functions for open-source model-based embedding generation, and integrations with AI providers (OpenAI, Hugging Face, LangChain, etc.).
-- **Search & Use Cases**: Supports semantic, keyword, and hybrid search; examples include image search (CLIP), caption generation (Hugging Face), and Retrieval-Augmented Generation (RAG) for ChatGPT-style applications.
+- Supabase docs are structured into **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **References** (factual, parameter/return-type-focused, auto-generated from specs).
+
+- Docs follow **MDX** format with YAML frontmatter (e.g., `title`, `hideToc`), and reference specs are split into **common** (shared function definitions) and **library-specific** (language SDK details) files, transformed via `Makefile` for automated updates.
+
+- Content reuse is enforced via **partials** (MDX snippets in `content/_partials`), while styling enforces **American English**, **sentence-case headings**, **Oxford commas**, and **Mermaid diagrams** (light/dark mode compatible) for technical illustrations.
 
 ## Why It Matters
 
@@ -39,19 +40,18 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:13:13.472908+05:30
+- Published: 2026-06-29T17:02:14.199224+05:30
 
 ## Related Tags
 
 - frontend_ui
 - hackernews
-- meta-ai
-- models
 - openai
 - rag
 - reddit
 - web-crawled
+- youtube
 
 ## Source
 
-Original source: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx
+Original source: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md

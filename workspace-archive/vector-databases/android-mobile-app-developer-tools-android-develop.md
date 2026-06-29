@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with top 5 updates for app compatibility.
-- **Android XR Expansion**: Enhanced engine support and new resources for building, testing, and scaling XR experiences across the ecosystem.
-- **Google Play Billing Update**: Introduces expanded billing flexibility, lower fees, and new programs to support developer business models.
+- **Android 17 (API 37) released**: AOSP source code live; rolling out to supported Pixel devices; top 5 updates highlighted for app compatibility.
+- **Android XR expansion**: New tools/resources for building, testing, and scaling XR experiences across Android’s ecosystem.
+- **Google Play billing changes**: Expanded billing flexibility, lower fees, and new programs introduced to support developer monetization.
 
 ## Use Cases
 

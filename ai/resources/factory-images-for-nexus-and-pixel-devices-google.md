@@ -5,16 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/android/images/
-published_at: '2026-06-28T19:54:10.170925+05:30'
-collected_at: '2026-06-28T19:54:10.170940+05:30'
+published_at: '2026-06-29T17:03:21.793660+05:30'
+collected_at: '2026-06-29T17:03:21.793673+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:factory-images-for-nexus-and-pixel-devices-google
-first_seen: '2026-06-28T19:54:10.170940+05:30'
-last_seen: '2026-06-28T19:54:10.170940+05:30'
-last_checked: '2026-06-28T19:54:10.170940+05:30'
+first_seen: '2026-06-29T17:03:21.793673+05:30'
+last_seen: '2026-06-29T17:03:21.793673+05:30'
+last_checked: '2026-06-29T17:03:21.793673+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- Factory images restore Nexus/Pixel devices to original firmware but **erase all data** and require **bootloader unlocking**, posing security risks; **full OTA images** are safer alternatives.
-- **May 2025/2026 updates** for Pixel 6/8/10 series increment bootloader anti-rollback versions, preventing downgrades; users must flash the bootloader to the inactive slot post-update to avoid unbootable states.
-- Post-flash, **relocking the bootloader** is mandatory for security, and **seamless updates** rely on dual slots—failure to follow special instructions may result in unbootable devices.
+- Factory images restore Nexus/Pixel devices to original firmware but require bootloader unlock, data wipe, and relock post-installation.
+- May 2025/2026 Pixel updates (e.g., Pixel 6/8 series) increment bootloader anti-rollback versions, preventing rollback to older builds; inactive slots must be updated post-installation to avoid unbootable states.
+- Sideloading full OTA images is safer than factory images (no data loss or bootloader unlock required), but factory images are intended for restoring stock firmware after custom builds.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T19:54:10.170925+05:30
+- Published: 2026-06-29T17:03:21.793660+05:30
 
 ## Related Tags
 

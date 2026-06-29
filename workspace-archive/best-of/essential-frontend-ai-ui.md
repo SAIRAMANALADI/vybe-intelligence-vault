@@ -33,6 +33,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`next-js-by-vercel-the-react-framework.md`](../../ai/rag/next-js-by-vercel-the-react-framework.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Builder.io: Collaborative Platform to Build With AI Agents](https://builder.io)
+- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`builder-io-collaborative-platform-to-build-with-ai.md`](../../ai/rag/builder-io-collaborative-platform-to-build-with-ai.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Styles and CSS | Docs](https://docs.astro.build/en/guides/styling/#tailwind)
 - **Category**: `web-development/tailwind` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-29 10:47 IST*
+*Last updated: 2026-06-29 17:12 IST*

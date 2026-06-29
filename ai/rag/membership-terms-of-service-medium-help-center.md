@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/115004932468-Paid-Terms-of-Service
-published_at: '2026-06-27T16:41:18.563266+05:30'
-collected_at: '2026-06-27T16:41:18.563280+05:30'
+published_at: '2026-06-29T17:00:24.945238+05:30'
+collected_at: '2026-06-29T17:00:24.945248+05:30'
 tags:
 - agents
 - hackernews
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:membership-terms-of-service-medium-help-center
-first_seen: '2026-06-27T16:41:18.563280+05:30'
-last_seen: '2026-06-27T16:41:18.563280+05:30'
-last_checked: '2026-06-27T16:41:18.563280+05:30'
+first_seen: '2026-06-29T17:00:24.945248+05:30'
+last_seen: '2026-06-29T17:00:24.945248+05:30'
+last_checked: '2026-06-29T17:00:24.945248+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Payment & Renewal Terms**: Subscriptions are recurring (monthly/annual) with fees charged automatically on the same day of renewal; invalid payment methods may lead to immediate service suspension until updated, with potential subscription cancellation after a reasonable period.
+- **Subscription Model**: Medium's Member Services operate on a recurring payment model (monthly/annually), with fees charged automatically on the same day of each billing cycle; cancellation takes effect at the end of the current period without refunds for unused time.
 
-- **License & Restrictions**: Users receive a non-exclusive, personal-use license; violations (e.g., illegal use, sharing credentials, reverse-engineering) may result in immediate termination without refund.
+- **Payment & Access Control**: Payments are processed via stored payment methods (credit card, Apple Pay, etc.), with Medium reserving the right to revoke access for failed payments or policy violations; taxes are user’s responsibility where applicable.
 
-- **Gift Memberships**: Prepaid, one-year access codes are non-transferable, non-refundable, and void upon redemption; recipients must have a Medium account to activate, with no cash redemption or combination with other offers permitted.
+- **License & Restrictions**: Users receive a non-exclusive, personal license to Member Services; prohibited actions include sublicensing, reverse-engineering, or sharing credentials, with Medium reserving the right to terminate access for violations.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T16:41:18.563266+05:30
+- Published: 2026-06-29T17:00:24.945238+05:30
 
 ## Related Tags
 

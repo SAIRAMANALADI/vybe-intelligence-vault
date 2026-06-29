@@ -6,7 +6,7 @@ source_url: https://supabase.com/docs
 resource_id: blog:supabase-docs
 local_vault_path: ai/rag/supabase-docs.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **PostgreSQL-Based Architecture**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and support for extensions (e.g., pgvector for AI/ML workloads).
+- **PostgreSQL-Based Backend**: Supabase provides a full PostgreSQL database per project with built-in features like realtime subscriptions, automated backups, and support for extensions (e.g., pgvector for AI/vector operations).
 
-- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), Row-Level Security (RLS) policies, and scalable object storage with direct Postgres integration.
+- **Unified Auth & Storage**: Supports multi-factor authentication (email/password, OAuth, passwordless), Row-Level Security (RLS) for fine-grained access control, and scalable object storage with direct Postgres integration.
 
-- **Edge Compute & Ecosystem**: Offers globally distributed Edge
+- **Edge Compute & APIs**: Offers globally
 
 ## Use Cases
 

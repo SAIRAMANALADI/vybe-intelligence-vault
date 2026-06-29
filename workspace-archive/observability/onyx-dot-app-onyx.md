@@ -11,8 +11,11 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - frontend_ui
 - github-repo
+- meta-ai
+- models
 - openai
 - python
 - rag
@@ -34,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI platform supporting integration with any large language model (LLM) via standardized APIs, enabling flexible deployment across diverse AI backends.
+- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama) via modular API adapters, enabling cross-model inference and benchmarking.
 
-- **Advanced RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with vector-based semantic search for enterprise-grade information retrieval and context-aware AI responses.
+- **Enterprise-Grade RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector search (FAISS/Weaviate) and hybrid retrieval (keyword + semantic) for low-latency, high-precision information retrieval.
 
-- **Next.js + Python Stack**: Hybrid frontend (Next.js) and backend (Python) architecture with self-hosting cap
+- **Full-Stack Architecture**: Python backend (FastAPI) + Next.js frontend with TypeSc
 
 ## Use Cases
 

@@ -3,9 +3,9 @@ title: Build fast. Run any code fearlessly. · Fly
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://fly.io
-published_at: '2026-06-27T04:19:16.827475+05:30'
-collected_at: '2026-06-27T04:19:16.827487+05:30'
+source_url: http://fly.io/
+published_at: '2026-06-29T17:02:39.382402+05:30'
+collected_at: '2026-06-29T17:02:39.382415+05:30'
 tags:
 - agents
 - producthunt
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-fast-run-any-code-fearlessly-fly
-first_seen: '2026-06-27T04:19:16.827487+05:30'
-last_seen: '2026-06-27T04:19:16.827487+05:30'
-last_checked: '2026-06-27T04:19:16.827487+05:30'
+first_seen: '2026-06-29T17:02:39.382415+05:30'
+last_seen: '2026-06-29T17:02:39.382415+05:30'
+last_checked: '2026-06-29T17:02:39.382415+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Hardware-virtualized Fly Machines**: Launch instantly as KVM-isolated containers with per-VM dedicated resources (CPU, memory, networking, filesystem), scaling to tens of thousands of instances with sub-second startup times for ephemeral or persistent workloads.
-
-- **Global, Low-Latency Infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and NVMe storage for distributed systems (e.g., CockroachDB, globally-distributed Postgres) without requiring Terraform.
-
-- **Security-First, Memory-Safe Stack**: Enterprise-grade isolation via hardware virtualization, SOC2 Type 2 attested, with a Rust/Go-based memory-safe architecture; supports AI-generated code execution in isolated Sprites with per-second billing and checkpoint/restore capabilities.
+- **Hardware-virtualized containers (Fly Machines)**: Launch instantly, run only when needed, and scale to tens of thousands of instances with sub-second startup times, supporting HTTP requests and untrusted code execution in isolated sandboxes.
+- **Global, low-latency infrastructure**: Deploy in 18 regions with sub-100ms response times, featuring built-in private networking, end-to-end encryption, and persistent NVMe storage alongside global object storage for durable data retention.
+- **Enterprise-grade security & compliance**: KVM hardware-isolated VMs running on a memory-safe Rust/Go stack, with SOC2 Type 2 attestation, SSO, guaranteed support response times, and CI/CD integration for secure, scalable deployments.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-27T04:19:16.827475+05:30
+- Published: 2026-06-29T17:02:39.382402+05:30
 
 ## Related Tags
 
@@ -48,4 +46,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://fly.io
+Original source: http://fly.io/

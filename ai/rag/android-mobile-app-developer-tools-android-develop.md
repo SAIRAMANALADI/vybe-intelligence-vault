@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com
-published_at: '2026-06-28T22:13:18.344696+05:30'
-collected_at: '2026-06-28T22:13:18.344712+05:30'
+published_at: '2026-06-29T17:00:29.931355+05:30'
+collected_at: '2026-06-29T17:00:29.931369+05:30'
 tags:
 - agents
 - producthunt
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-mobile-app-developer-tools-android-develop
-first_seen: '2026-06-28T22:13:18.344712+05:30'
-last_seen: '2026-06-28T22:13:18.344712+05:30'
-last_checked: '2026-06-28T22:13:18.344712+05:30'
+first_seen: '2026-06-29T17:00:29.931369+05:30'
+last_seen: '2026-06-29T17:00:29.931369+05:30'
+last_checked: '2026-06-29T17:00:29.931369+05:30'
 health_score: 100
 ---
 
@@ -25,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Android 17 Release**: Source code live on AOSP; rolling out to supported Pixel devices; introduces API 37 with top 5 updates for app compatibility.
-- **Android XR Expansion**: Enhanced engine support and new resources for building, testing, and scaling XR experiences across the ecosystem.
-- **Google Play Billing Update**: Introduces expanded billing flexibility, lower fees, and new programs to support developer business models.
+- **Android 17 (API 37) released**: AOSP source code live; rolling out to supported Pixel devices; top 5 updates highlighted for app compatibility.
+- **Android XR expansion**: New tools/resources for building, testing, and scaling XR experiences across Android’s ecosystem.
+- **Google Play billing changes**: Expanded billing flexibility, lower fees, and new programs introduced to support developer monetization.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T22:13:18.344696+05:30
+- Published: 2026-06-29T17:00:29.931355+05:30
 
 ## Related Tags
 

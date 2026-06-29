@@ -6,10 +6,10 @@ source_url: https://github.com/langgenius/dify
 resource_id: github:langgenius/dify
 local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
-archive_score: 89
-archive_tier: essential
+archive_score: 79
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 89 (essential)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent orchestration framework**: Supports agentic workflows with MCP, RAG, and LLM integrations (OpenAI, GPT-4, Gemini) for autonomous task execution and automation.
-- **Low-code/no-code tooling**: Built with Next.js (TypeScript) and Python, enabling rapid agentic workflow development via drag-and-drop interfaces.
-- **Production-ready deployment**: Optimized for scalability with built-in orchestration, vector databases, and API-driven automation for enterprise-grade AI applications.
+- **Multi-agent orchestration framework**: Dify enables development of **agentic workflows** with **Python/TypeScript** (Next.js) support, integrating **LLM APIs** (OpenAI, GPT-4, Gemini) and **RAG** for dynamic task automation.
+- **Low-code/no-code tooling**: Provides a **visual workflow editor** for **agentic AI** pipelines, with **MCP (Model Context Protocol)** support for extensible tool integration and **automation** via drag-and-drop interfaces.
+- **Production-grade deployment**: Supports
 
 ## Use Cases
 

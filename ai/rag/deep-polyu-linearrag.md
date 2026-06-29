@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-29T10:33:05.708004+05:30'
+collected_at: '2026-06-29T16:57:29.368227+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-29T10:33:05.708004+05:30'
-last_seen: '2026-06-29T10:33:05.708004+05:30'
-last_checked: '2026-06-29T10:33:05.708004+05:30'
+first_seen: '2026-06-29T16:57:29.368227+05:30'
+last_seen: '2026-06-29T16:57:29.368227+05:30'
+last_checked: '2026-06-29T16:57:29.368227+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval-augmented generation (RAG) by leveraging linear graph structures to enhance efficiency and scalability in LLMs.
+- Introduces **LinearRAG**, a novel graph-based Retrieval-Augmented Generation (RAG) framework optimizing large-scale corpus retrieval via linear graph traversal, reducing computational overhead compared to traditional graph traversal methods.
 
-- **Efficiency & Scalability**: Proposes a linear-time retrieval mechanism (O(n) complexity) for graph-based RAG, reducing computational overhead compared to traditional graph-based methods (e.g., GraphRAG) while maintaining high retrieval accuracy.
+- Leverages **linear graph structures** to enable efficient subgraph retrieval, enhancing contextual relevance in LLM responses while maintaining scalability for large corpora.
 
-- **ICLR 2026 Contribution**: Presents empirical results demonstrating superior performance in retrieval quality and generation coherence on large-scale datasets, validated through extensive benchmarks against state-of-the-art RAG baselines.
+- Achieves **state-of-the-art performance** in retrieval efficiency and generation quality, as validated on benchmark datasets, with open-source implementation in Python.
 
 ## Why It Matters
 

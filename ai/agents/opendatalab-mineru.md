@@ -11,13 +11,14 @@ tags:
 - github-trending
 - python
 - workflows
-status: active
+status: inactive
 resource_id: github:opendatalab/mineru
 first_seen: '2026-06-25T16:35:46.163894+05:30'
 last_seen: '2026-06-29T10:30:04.469411+05:30'
 last_checked: '2026-06-29T10:30:04.469411+05:30'
 health_score: 100
 ---
+
 
 # opendatalab/MinerU
 

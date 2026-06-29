@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-29T10:31:40.641392+05:30'
+collected_at: '2026-06-29T16:56:04.295606+05:30'
 published_at: '2026-06-29T00:55:35Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-29T10:31:40.641392+05:30'
-last_seen: '2026-06-29T10:31:40.641392+05:30'
-last_checked: '2026-06-29T10:31:40.641392+05:30'
+first_seen: '2026-06-29T16:56:04.295606+05:30'
+last_seen: '2026-06-29T16:56:04.295606+05:30'
+last_checked: '2026-06-29T16:56:04.295606+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for multimodal AI applications, including Retrieval-Augmented Generation (RAG) using vector search and LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain).
 
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines.
+- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines, supporting deep learning and machine learning workflows.
 
-- **Agent & LLM Tooling**: Includes tutorials for building AI agents with OpenAI models, fine-tuning workflows, and leveraging deep-learning embeddings for multimodal and RAG applications.
+- **Agent & LLM Tooling**: Includes tutorials for building AI agents with OpenAI models, fine-tuning embeddings, and integrating tools like LangChain/Llama-Index for multimodal and RAG-based applications.
 
 ## Why It Matters
 

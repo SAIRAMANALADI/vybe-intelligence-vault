@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/vscode
-collected_at: '2026-06-29T03:54:15.274665+05:30'
-published_at: '2026-06-28T22:01:30Z'
+collected_at: '2026-06-29T17:02:18.882439+05:30'
+published_at: '2026-06-29T11:27:00Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - typescript
-stars: 186996
+stars: 187032
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2015-09-03T20:23:38Z'
-pushed_at: '2026-06-28T22:10:18Z'
+pushed_at: '2026-06-29T11:30:48Z'
 resource_id: github:microsoft/vscode
-first_seen: '2026-06-29T03:54:15.274665+05:30'
-last_seen: '2026-06-29T03:54:15.274665+05:30'
-last_checked: '2026-06-29T03:54:15.274665+05:30'
+first_seen: '2026-06-29T17:02:18.882439+05:30'
+last_seen: '2026-06-29T17:02:18.882439+05:30'
+last_checked: '2026-06-29T17:02:18.882439+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Electron-based cross-platform editor**: VS Code is built using Electron (a framework for cross-platform desktop apps with web technologies) and TypeScript, enabling a native-like experience across Windows, macOS, and Linux.
+- **Electron-based Architecture**: VS Code is built using Electron, a framework enabling cross-platform desktop applications with web technologies (HTML, CSS, JavaScript/TypeScript).
 
-- **Extensible architecture**: The editor supports a rich extension API (written in TypeScript) for language services, debuggers, and tooling, leveraging Language Server Protocol (LSP) for language intelligence.
+- **TypeScript-Centric Development**: The core editor logic is implemented in TypeScript, leveraging static typing for maintainability and scalability, while compiling to JavaScript for execution.
 
-- **Performance-optimized runtime**: Uses a multi-process architecture (main process + renderer processes) and Web Workers for responsiveness, with TypeScript compilation and static analysis enhancing IDE features.
+- **Extensible Plugin System**: VS Code supports a rich ecosystem of extensions (written in TypeScript/JavaScript) for language support, debuggers, and tooling, dynamically loaded via its extension host process.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 186996
-- Forks: 40697
+- Stars: 187032
+- Forks: 40705
 - Language: TypeScript
 - Topics: editor, electron, microsoft, typescript, visual-studio-code
-- Last Updated: 2026-06-28T22:01:30Z
+- Last Updated: 2026-06-29T11:27:00Z
 - License: MIT
 - Archived: No
 - Created At: 2015-09-03T20:23:38Z
-- Pushed At: 2026-06-28T22:10:18Z
+- Pushed At: 2026-06-29T11:30:48Z
 
 ## Possible Use Cases
 

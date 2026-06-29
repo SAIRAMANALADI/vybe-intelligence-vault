@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document retrieval and generation.
-- **Implementation**: Implemented in Jupyter Notebooks, emphasizing reproducibility and ease of integration across different environments.
-- **Tutorial-Driven**: Includes structured tutorials for building and deploying RAG pipelines, covering indexing, retrieval, and generation workflows.
+- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and educational purposes, implemented primarily in Jupyter Notebooks.
+
+- **Core Components**: Includes modular pipelines for document ingestion, embedding generation, vector storage, and retrieval-augmented generation, enabling end-to-end RAG workflows with minimal setup.
+
+- **Educational Focus**: Provides tutorials and examples to demonstrate RAG implementation, emphasi
 
 ## Use Cases
 

@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://aws.amazon.com/about-aws/global-infrastructure/
-published_at: '2026-06-29T03:52:05.368115+05:30'
-collected_at: '2026-06-29T03:52:05.368129+05:30'
+published_at: '2026-06-29T16:59:52.150019+05:30'
+collected_at: '2026-06-29T16:59:52.150032+05:30'
 tags:
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:global-infrastructure-aws
-first_seen: '2026-06-29T03:52:05.368129+05:30'
-last_seen: '2026-06-29T03:52:05.368129+05:30'
-last_checked: '2026-06-29T03:52:05.368129+05:30'
+first_seen: '2026-06-29T16:59:52.150032+05:30'
+last_seen: '2026-06-29T16:59:52.150032+05:30'
+last_checked: '2026-06-29T16:59:52.150032+05:30'
 health_score: 100
 ---
 
@@ -24,9 +25,9 @@ health_score: 100
 
 ## Summary
 
-- **Global Reach & Resilience**: AWS operates **39 Regions** with **123 Availability Zones (AZs)**, each containing **≥3 isolated AZs** for high availability, and plans expansions in **Saudi Arabia, Chile, New Zealand, Taiwan**, and **Australia** (AU$20B investment).
-- **Low-Latency Edge Network**: **750+ CloudFront POPs**, **15 Regional edge caches**, **45 Local Zones**, and **33 Wavelength Zones** optimize performance for latency-sensitive workloads via **20M km fiber backbone**.
-- **Hybrid & Sovereignty Solutions**: Supports **on-prem (Outposts)**, **edge (Local Zones)**, **telco-integrated (Wavelength)**, and **dedicated sovereign deployments (Dedicated Local Zones)** for regulatory compliance.
+- **Global Reach & Resilience**: AWS operates 123 Availability Zones (AZs) across 39 Geographic Regions, with plans for expansion, ensuring high availability via multi-AZ redundancy and low-latency performance via a 20M km fiber-optic backbone.
+- **Edge & Hybrid Solutions**: Supports 750+ CloudFront POPs, 15 Regional Edge Caches, 45 Local Zones, and 33 Wavelength Zones, enabling low-latency edge computing, hybrid deployments (Outposts), and telco-integrated Wavelength deployments.
+- **Security & Optimization**: Designed for security (Gartner/IDC Leader in 2025), with AI-driven power efficiency in data centers, and dedicated infrastructure (Dedicated Local Zones) for regulatory compliance.
 
 ## Why It Matters
 
@@ -36,13 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:52:05.368115+05:30
+- Published: 2026-06-29T16:59:52.150019+05:30
 
 ## Related Tags
 
 - hackernews
 - producthunt
 - rag
+- reddit
 - web-crawled
 - youtube
 

@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: RAG combines LLMs with external retrieval systems to fetch relevant context from vast document repositories (e.g., PDFs, databases) without overloading the LLM's context window. The system is divided into two pipelines: **Injection** (data ingestion, chunking, embedding) and **Retrieval** (query embedding, similarity search, LLM augmentation).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while managing context window limits (e.g., GPT-4.1: 1M tokens, Claude Sonnet: 200K tokens).
 
-- **Vector Embeddings & Semantic Search**: Embeddings convert text chunks/documents into high-dimensional vectors (e.g., OpenAI's
+- **Embedding Pipeline**: Chunks documents (e.g., 10M tokens → 10K chunks of 1K tokens each), converts text to high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings), and stores them in vector databases (Pinecone, Weaviate, FAISS) for semantic similarity matchi
 
 ## Use Cases
 

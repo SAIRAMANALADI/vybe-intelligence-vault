@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-06-29T01:22:26.183181+05:30'
-collected_at: '2026-06-29T01:22:26.183194+05:30'
+published_at: '2026-06-29T17:02:23.509641+05:30'
+collected_at: '2026-06-29T17:02:23.509652+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-06-29T01:22:26.183194+05:30'
-last_seen: '2026-06-29T01:22:26.183194+05:30'
-last_checked: '2026-06-29T01:22:26.183194+05:30'
+first_seen: '2026-06-29T17:02:23.509652+05:30'
+last_seen: '2026-06-29T17:02:23.509652+05:30'
+last_checked: '2026-06-29T17:02:23.509652+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format & Multilingual Parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with OCR for handwriting, layout-aware parsing (headers/footers/tables), and 100+ language compatibility for global enterprise use.
+- **Multi-format & Multimodal Parsing**: Supports 90+ document formats (PDFs, invoices, healthcare forms, etc.) with layout-aware OCR, multimodal context extraction (tables, charts, images), and handwriting recognition.
 
-- **Granular Control & Scalability**: Offers configurable parsing modes (accuracy vs. cost trade-offs), multimodal extraction (text, charts, images), and enterprise-grade scalability (1B+ documents processed, 25M+ monthly downloads, multi-user concurrency).
+- **Scalable & Multilingual**: Processes 1B+ documents with enterprise-grade throughput (25M+ package downloads/month), supports 100+ languages, and offers granular parsing modes for cost/accuracy optimization.
 
-- **Developer-Focused & Enterprise-Ready**: Provides TypeScript/Python SDKs, live notebooks, and local/cloud deployment options with dedicated customer support, optimized for workflow automation (parse → index → act → decide).
+- **Enterprise-Ready Features**: Local/cloud deployment options, high concurrency, dedicated customer success, and workflow automation integration for production-grade AI pipelines.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:26.183181+05:30
+- Published: 2026-06-29T17:02:23.509641+05:30
 
 ## Related Tags
 

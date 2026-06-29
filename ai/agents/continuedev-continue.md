@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/continuedev/continue
-collected_at: '2026-06-29T10:33:40.762087+05:30'
-published_at: '2026-06-29T01:32:59Z'
+collected_at: '2026-06-29T16:58:04.401858+05:30'
+published_at: '2026-06-29T11:15:12Z'
 tags:
 - agents
 - github-repo
-- scripts
 - typescript
 - workflows
-stars: 34554
+stars: 34572
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-05-24T03:39:39Z'
-pushed_at: '2026-06-28T08:52:49Z'
+pushed_at: '2026-06-29T09:42:06Z'
 resource_id: github:continuedev/continue
-first_seen: '2026-06-29T10:33:40.762087+05:30'
-last_seen: '2026-06-29T10:33:40.762087+05:30'
-last_checked: '2026-06-29T10:33:40.762087+05:30'
+first_seen: '2026-06-29T16:58:04.401858+05:30'
+last_seen: '2026-06-29T16:58:04.401858+05:30'
+last_checked: '2026-06-29T16:58:04.401858+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, editing, and debugging via natural language prompts.
-- **CLI and IDE integration** support (VS Code, JetBrains) with extensible plugin architecture for custom tooling and workflow automation.
-- **Active development** with 34.5k+ stars, 4.8k+ forks, and last commit (2026-06-29) indicating ongoing enhancements in agentic coding capabilities.
+- **TypeScript-based open-source coding agent** with CLI integration for AI-assisted development workflows.
+- **34.5K+ GitHub stars** and **4.8K+ forks**, indicating strong community adoption and collaboration.
+- **Last updated June 2026**, ensuring ongoing maintenance and feature updates for developer tools.
 
 ## Why It Matters
 
@@ -41,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: continuedev
-- Stars: 34554
-- Forks: 4891
+- Stars: 34572
+- Forks: 4893
 - Language: TypeScript
 - Topics: agent, ai, cli, developer-tools, open-source
-- Last Updated: 2026-06-29T01:32:59Z
+- Last Updated: 2026-06-29T11:15:12Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-05-24T03:39:39Z
-- Pushed At: 2026-06-28T08:52:49Z
+- Pushed At: 2026-06-29T09:42:06Z
 
 ## Possible Use Cases
 

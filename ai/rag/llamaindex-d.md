@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://discord.com/invite/eN6D2HQ4aX
-published_at: '2026-06-26T10:17:48.312910+05:30'
-collected_at: '2026-06-26T10:17:48.312920+05:30'
+published_at: '2026-06-29T17:01:16.248102+05:30'
+collected_at: '2026-06-29T17:01:16.248115+05:30'
 tags:
-- frontend_ui
 - meta-ai
 - models
 - rag
 - web-crawled
 status: active
 resource_id: blog:llamaindex-d
-first_seen: '2026-06-26T10:17:48.312920+05:30'
-last_seen: '2026-06-26T10:17:48.312920+05:30'
-last_checked: '2026-06-26T10:17:48.312920+05:30'
+first_seen: '2026-06-29T17:01:16.248115+05:30'
+last_seen: '2026-06-29T17:01:16.248115+05:30'
+last_checked: '2026-06-29T17:01:16.248115+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Client-Side Requirement**: The message indicates that JavaScript execution is necessary for the web application to function, as it relies on client-side scripting for dynamic content rendering and interactivity.
-
-- **Browser Dependency**: The error suggests that the user's browser has JavaScript disabled or is not executing it, which is a common prerequisite for modern web applications built with frameworks like React, Angular, or Vue.js.
-
-- **Potential Causes**: Possible reasons include disabled JavaScript in browser settings, ad-blockers/privacy extensions blocking scripts, or corrupted browser cache preventing proper execution.
+- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for proper functionality.
+- **Client-Side Execution**: Core application logic and rendering are executed on the client side, necessitating JavaScript support.
+- **Browser Configuration**: Users must ensure their browser settings allow JavaScript execution to access the application's full features.
 
 ## Why It Matters
 
@@ -38,11 +35,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T10:17:48.312910+05:30
+- Published: 2026-06-29T17:01:16.248102+05:30
 
 ## Related Tags
 
-- frontend_ui
 - meta-ai
 - models
 - rag

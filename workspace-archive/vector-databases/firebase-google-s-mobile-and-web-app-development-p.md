@@ -8,7 +8,7 @@ local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -17,9 +17,8 @@ tags:
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Firebase | Google's Mobile and Web App Development Platform
@@ -28,17 +27,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Cross-platform SDKs** for iOS, Android, Web, Flutter, Unity, and C++ enabling unified app development and deployment across ecosystems.
-
-- **Managed infrastructure** with AI-powered services (e.g., Firebase AI Logic, App Hosting, SQL Connect) leveraging Google Cloud for scalable, secure, and rapid app development.
-
-- **Pre-built extensions** (e.g., Firestore-BigQuery, Algolia Search, Stripe Payments) and integrations (e.g., Gemini, Google Ads, Slack) to automate workflows and enhance app fun
+*   Firebase is a comprehensive, Google-backed platform providing managed infrastructure and services for the full app development lifecycle, encompassing build (e.g., App Hosting, Firestore, Cloud Functions, SQL Connect) and run (e.g., Crashlytics, Performance Monitoring, A/B Testing) phases across multiple platforms (iOS, Android, Web, Flutter, Unity, C++).
+*   The platform now features deep integration with Google's generative AI technologies, including Gemini, through services like Firebase
 
 ## Use Cases
 

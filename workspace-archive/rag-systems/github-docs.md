@@ -1,9 +1,9 @@
 ---
-title: docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs
-  · GitHub
+title: docs/content/integrations/concepts/about-building-integrations.md at main ·
+  github/docs · GitHub
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+source_url: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
 resource_id: github:github/docs
 local_vault_path: ai/rag/github-docs.md
 quality_score: 70
@@ -12,17 +12,17 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
-- frontend_ui
-- hackernews
 - rag
+- reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
 ---
 
-# docs/content/copilot/concepts/agents/copilot-cli/research.md at main · github/docs · GitHub
+# docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub
 
 ## Why This Is In The Archive
 
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Research Agent**: The `/research` command in {% data variables.product.prodname_copilot_cli_short %} activates a specialized agent that autonomously gathers and synthesizes information from the local codebase, GitHub repositories (public/private), and the web, producing a comprehensive Markdown report with citations and a CLI summary.
+- **Integration Types**: {% data variables.product.company_short %} supports three primary integration types: **{% data variables.product.prodname_github_apps %}** (server/device-hosted), **{% data variables.product.prodname_actions %} workflows** (event-triggered automation), and **custom actions** (executable code within workflows).
 
-- **Adaptive Output & Session-Local Storage**: Reports adapt to query types (process, conceptual, or technical deep-dive) and include architecture
+- **API & Webhook Support**: Integrations leverage **REST** or **GraphQL APIs** for data operations and **webhooks** to receive real-time event notifications (e.g
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/github/docs/blob/main/content/copilot/concepts/agents/copilot-cli/research.md
+Original source URL: https://github.com/github/docs/blob/main/content/integrations/concepts/about-building-integrations.md
 
 ## Local Vault File
 

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook examples for all available Amazon Bedrock foundational models, covering generative AI, embeddings, and knowledge base integration.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides Jupyter Notebook-based examples for all available Amazon Bedrock foundational models, covering use cases like generative AI, embeddings, and knowledge bases.
 
-- **Multi-Model & Tooling Support**: Includes implementations for Amazon Titan models, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows for enhanced AI applications.
+- **Multi-Model & Tool Integration**: Includes demonstrations for Amazon Titan models, LangChain integration, and Retrieval-Augmented Generation (RAG) workflows.
 
-- **AWS Service Integration**: Demonstrates practical use cases leveraging Amazon Bedrock’s ca
+- **AWS Service Synergy**: Showcases Amazon Bedrock's integration with AWS services like Knowledge Base, emphasiz
 
 ## Use Cases
 

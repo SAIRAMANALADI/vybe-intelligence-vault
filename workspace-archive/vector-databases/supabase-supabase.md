@@ -1,43 +1,42 @@
 ---
-title: supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
+title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx
+source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - frontend_ui
 - hackernews
-- meta-ai
-- models
 - openai
 - rag
 - reddit
 - web-crawled
+- youtube
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
-# supabase/apps/docs/content/guides/ai.mdx at master · supabase/supabase · GitHub
+# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase provides an open-source toolkit for AI applications using Postgres with `pgvector` for storing, indexing, and querying vector embeddings at scale.
-- **Multi-Model Support**: Includes Python client for unstructured embeddings, Edge Functions for open-source model-based embedding generation, and integrations with AI providers (OpenAI, Hugging Face, LangChain, etc.).
-- **Search & Use Cases**: Supports semantic, keyword, and hybrid search; examples inc
+- Supabase docs are structured into **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **References** (factual, parameter/return-type-focused, auto-generated from specs).
+
+- Docs follow **MDX** format with YAML frontmatter (e.g., `title`, `hideToc`), and reference specs are split into **common** (shared function definitions) and **library-specific** (language SDK details) files, transformed via `
 
 ## Use Cases
 
@@ -47,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/content/guides/ai.mdx
+Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
 
 ## Local Vault File
 

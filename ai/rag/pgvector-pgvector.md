@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pgvector/pgvector
-collected_at: '2026-06-29T03:49:24.299658+05:30'
-published_at: '2026-06-28T19:29:55Z'
+collected_at: '2026-06-29T16:59:09.460364+05:30'
+published_at: '2026-06-29T10:07:20Z'
 tags:
 - c
 - github-repo
 - hackernews
 - rag
 - reddit
-stars: 21969
+stars: 21981
 language: C
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2021-04-20T21:13:52Z'
-pushed_at: '2026-06-24T18:44:14Z'
+pushed_at: '2026-06-29T08:08:28Z'
 resource_id: github:pgvector/pgvector
-first_seen: '2026-06-29T03:49:24.299658+05:30'
-last_seen: '2026-06-29T03:49:24.299658+05:30'
-last_checked: '2026-06-29T03:49:24.299658+05:30'
+first_seen: '2026-06-29T16:59:09.460364+05:30'
+last_seen: '2026-06-29T16:59:09.460364+05:30'
+last_checked: '2026-06-29T16:59:09.460364+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends PostgreSQL with vector similarity search capabilities via an open-source extension, enabling efficient approximate nearest neighbor (ANN) and nearest neighbor search operations.
+- **Purpose**: Extends PostgreSQL with vector similarity search capabilities, enabling efficient approximate nearest neighbor (ANN) and nearest neighbor search operations directly within the database.
 
-- **Implementation**: Written in C, integrates with PostgreSQL as an extension, supporting vector storage and similarity search via L2 distance, inner product, or cosine distance metrics.
+- **Implementation**: Written in C, integrates as a PostgreSQL extension, supporting vector storage and similarity search via optimized indexing (e.g., HNSW, IVFFlat) and distance metrics (L2, inner product, cosine).
 
-- **Features**: Optimized for high-dimensional vector search, supports indexing strategies (e.g., HNSW, IVFFlat) for scalable ANN queries, and is compatible with PostgreSQL's existing ecosystem.
+- **Features**: Supports exact and approximate search modes, hybrid queries, and integrates seamlessly with PostgreSQL's existing ecosystem (e.g., transactions, SQL queries, and extensions).
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pgvector
-- Stars: 21969
+- Stars: 21981
 - Forks: 1227
 - Language: C
 - Topics: approximate-nearest-neighbor-search, nearest-neighbor-search
-- Last Updated: 2026-06-28T19:29:55Z
+- Last Updated: 2026-06-29T10:07:20Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-04-20T21:13:52Z
-- Pushed At: 2026-06-24T18:44:14Z
+- Pushed At: 2026-06-29T08:08:28Z
 
 ## Possible Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Cloud-hosted Jupyter Notebooks** with pre-configured runtimes, offering zero-setup environments and free access to GPUs/TPUs for accelerated ML workflows.
+- **Zero-setup cloud notebooks**: Hosted Jupyter environment with pre-configured runtimes, free GPU/TPU access, and seamless Google Drive integration for collaborative workflows.
 
-- **AI-driven features** including natural language code generation, debugging, autonomous analysis via Gemini, and effortless code transformation/optimization.
+- **AI-powered coding assistant**: Natural language-to-code generation, real-time debugging, autonomous data analysis via Gemini, and effortless code optimization/refactoring.
 
-- **Enterprise-grade security & scalability** via Vertex AI/Google Cloud, with IAM-managed workspaces, regional storage (Dataform), and Pro/Pro+ tiers for extended compute (24h b
+- **Enterprise-grade scalability**: Vertex AI-integrated security (IAM), regional storage via Dataform, 24-hour background execution, and Pro/P
 
 ## Use Cases
 

@@ -18,6 +18,6 @@ Curated highlights from the current week's collection, representing high-quality
 *   ["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://arxiv.org/abs/2308.05201) (Score: 70) - Category: `ai-coding-agents/`
 *   [What is the Model Context Protocol (MCP)? - Model Context Protocol](https://modelcontextprotocol.io/) (Score: 70) - Category: `ai-coding-agents/`
 *   [The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control](https://arxiv.org/abs/2606.26117) (Score: 70) - Category: `ai-coding-agents/`
-*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
+*   [monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1](https://blog.langchain.com/customers-monday/) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

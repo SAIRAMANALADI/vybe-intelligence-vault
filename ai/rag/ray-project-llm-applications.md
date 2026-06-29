@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-06-29T10:33:00.672977+05:30'
+collected_at: '2026-06-29T16:57:24.406861+05:30'
 published_at: '2026-06-23T06:21:46Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2024-08-02T00:27:10Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-06-29T10:33:00.672977+05:30'
-last_seen: '2026-06-29T10:33:00.672977+05:30'
-last_checked: '2026-06-29T10:33:00.672977+05:30'
+first_seen: '2026-06-29T16:57:24.406861+05:30'
+last_seen: '2026-06-29T16:57:24.406861+05:30'
+last_checked: '2026-06-29T16:57:24.406861+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, integrating Llama2 and OpenAI models with vector databases for real-time inference.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed compute, with benchmarks for latency/throughput in production environments.
-- **Anyscale & Tooling**: Leverages Anyscale for scalable training/serving, with examples for deploying OpenAI-compatible APIs and integrating with external tools (e.g., vector stores, APIs) for end-to-end LLM application pipelines.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) and optimizing inference via Ray’s distributed compute, covering latency/throughput tradeoffs.
+- **End-to-End Serving**: Provides deployment strategies for scalable LLM applications, integrating vector databases (e.g., FAISS) and Ray Serve for real-time inference.
 
 ## Why It Matters
 

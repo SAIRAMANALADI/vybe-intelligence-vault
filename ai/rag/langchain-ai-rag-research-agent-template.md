@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-06-29T10:31:45.769888+05:30'
+collected_at: '2026-06-29T16:56:09.319498+05:30'
 published_at: '2026-06-24T06:49:45Z'
 tags:
 - agents
-- anthropic
 - github-repo
-- openai
+- hackernews
 - python
 - rag
-- workflows
 stars: 313
 language: Python
 status: active
@@ -22,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-06-29T10:31:45.769888+05:30'
-last_seen: '2026-06-29T10:31:45.769888+05:30'
-last_checked: '2026-06-29T10:31:45.769888+05:30'
+first_seen: '2026-06-29T16:56:09.319498+05:30'
+last_seen: '2026-06-29T16:56:09.319498+05:30'
+last_checked: '2026-06-29T16:56:09.319498+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,16 @@ health_score: 100
 
 ## Summary
 
-- **Template Structure**: Provides a modular Python framework for building Retrieval-Augmented Generation (RAG) research agents, leveraging LangChain components for document retrieval, processing, and agent orchestration.
+- **Repository**: `langchain-ai/rag-research-agent-template` – A Python-based template for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
 
-- **Key Dependencies**: Implicitly relies on LangChain’s core libraries (e.g., `langchain-core`, `langchain-community`) and likely integrates with vector stores (e.g., Chroma, FAISS) and LLM APIs (e.g., OpenAI, Anthropic) for RAG pipelines.
+- **Key Features**:
+  - Pre-configured pipeline for document retrieval, indexing, and agent-based querying.
+  - Leverages LangChain’s modular architecture for extensibility (e.g., custom retrievers, LLMs, or tools).
 
-- **Use Case**: Designed for automating research workflows, enabling agents to query, synthesize, and generate insights from large document corpora via hybrid retrieval (semantic + keyword) and agentic decision-making.
+- **Technical Stack**:
+  - Primary language: Python.
+  - Last updated: June 24, 2026 (commit-level details unspecified).
+  - No explicit dependencies listed (assumed to align with LangChain’s ecosystem).
 
 ## Why It Matters
 

@@ -12,9 +12,9 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain-based RAG Implementation**: Demonstrates a Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with large language models (LLMs) for enhanced response generation.
-
-- **Python-Based Architecture**: Utilizes Python with LangChain libraries (e.g., `langchain`, `transformers`, `faiss`) for document indexing, embedding, and retrieval workflows.
-
-- **Modular Design**: Provides a structured tutorial with clear steps for setting up vector stores (e
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** in Python, combining document retrieval with LLM generation.
+- Demonstrates **vector embeddings** (likely via `sentence-transformers` or similar) for document indexing and retrieval using a **vector store** (e.g., FAISS or Chroma).
+- Includes a **retriever-augmented chain** for querying, with optional components like **document loaders**, **text splitters**, and **LLM integration** (e.g., OpenAI, Hugging Face).
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-29T10:38:06.870517+05:30'
-collected_at: '2026-06-29T10:38:06.870530+05:30'
+published_at: '2026-06-29T17:00:16.250241+05:30'
+collected_at: '2026-06-29T17:00:16.250253+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-29T10:38:06.870530+05:30'
-last_seen: '2026-06-29T10:38:06.870530+05:30'
-last_checked: '2026-06-29T10:38:06.870530+05:30'
+first_seen: '2026-06-29T17:00:16.250253+05:30'
+last_seen: '2026-06-29T17:00:16.250253+05:30'
+last_checked: '2026-06-29T17:00:16.250253+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent orchestration**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing with `/model` switching and result convergence.
+- **Multi-Agent Workflows**: Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching. Sessions persist via `/resume`, maintaining context across long-running tasks.
 
-- **Native GitHub integration**: Built on GitHub’s `/mcp` (Model Context Protocol), CLI interacts directly with issues, PRs, branches, and labels, inheriting org-level policies (branch protections, governance) while enabling `/plan` → `/delegate` → PR workflows.
+- **GitHub-Native Integration**: Built on GitHub’s `/mcp` protocol, Copilot CLI interacts with issues, PRs, and branches natively, inheriting organizational policies (branch protections, governance) and enabling direct `/delegate` of tasks (e.g., branch creation, PR generation) with diff review.
 
-- **Session persistence & security**: Maintains chat history and context across sessions with memory compaction; enforces explicit approval for file/command execution and inherits Copilot Business/Enterprise governance policies.
+- **Extensible & Secure**: Supports custom MCP servers, skills, and plugins for tailored workflows. Security/compliance enforced via inherited Copilot policies; all file/command changes require explicit user approval. Available across Free, Pro, Business, and Enterprise plans.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T10:38:06.870517+05:30
+- Published: 2026-06-29T17:00:16.250241+05:30
 
 ## Related Tags
 

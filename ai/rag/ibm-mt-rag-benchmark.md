@@ -4,16 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-06-29T10:32:40.652961+05:30'
+collected_at: '2026-06-29T16:57:04.347840+05:30'
 published_at: '2026-06-26T15:53:38Z'
 tags:
 - benchmark
-- dataset
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 stars: 145
 language: Python
 status: active
@@ -22,9 +19,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-05-01T18:23:01Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-06-29T10:32:40.652961+05:30'
-last_seen: '2026-06-29T10:32:40.652961+05:30'
-last_checked: '2026-06-29T10:32:40.652961+05:30'
+first_seen: '2026-06-29T16:57:04.347840+05:30'
+last_seen: '2026-06-29T16:57:04.347840+05:30'
+last_checked: '2026-06-29T16:57:04.347840+05:30'
 health_score: 100
 ---
 
@@ -32,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Focus**: Evaluates **multi-turn Retrieval-Augmented Generation (RAG)** systems, emphasizing conversational context retention and iterative retrieval refinement.
-- **Technical Scope**: Implements Python-based pipelines with standardized metrics for **context relevance**, **answer accuracy**, and **multi-turn coherence** in RAG workflows.
-- **Dataset & Metrics**: Provides curated datasets and evaluation scripts to assess **long-form dialogue**, **query reformulation**, and **citation grounding** in multi-turn RAG scenarios.
+- **Multi-Turn RAG Evaluation Framework**: Provides a benchmarking suite for assessing multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+
+- **Python-Based Implementation**: Includes modular Python code for defining custom multi-turn RAG tasks, metrics, and evaluation pipelines, with dependencies on libraries like `transformers`, `langchain`, and `pyserini`.
+
+- **Standardized Metrics & Baselines**: Offers predefined evaluation metrics (e.g., answer correctness, context relevance) and baseline models (e.g., dense retrievers, LLM backends) to compare multi-turn RAG performance.
 
 ## Why It Matters
 

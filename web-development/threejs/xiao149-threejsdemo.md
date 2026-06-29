@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/xiao149/threejsdemo
-collected_at: '2026-06-16T17:27:23.869367+05:30'
-published_at: '2026-05-26T12:46:43Z'
+collected_at: '2026-06-29T16:54:59.297497+05:30'
+published_at: '2026-06-29T08:28:14Z'
 tags:
 - threejs
-stars: 226
+stars: 225
 language: JavaScript
 status: active
 resource_id: github:xiao149/threejsdemo
 first_seen: '2026-06-11T08:45:35.488459+00:00'
-last_seen: '2026-06-16T17:27:23.869367+05:30'
-last_checked: '2026-06-16T17:27:23.869367+05:30'
+last_seen: '2026-06-29T16:54:59.297497+05:30'
+last_checked: '2026-06-29T16:54:59.297497+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: xiao149
-- Stars: 226
+- Stars: 225
 - Forks: 133
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-05-26T12:46:43Z
+- Last Updated: 2026-06-29T08:28:14Z
 
 ## Possible Use Cases
 

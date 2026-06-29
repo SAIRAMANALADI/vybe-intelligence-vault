@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-29T10:31:30.662524+05:30'
-collected_at: '2026-06-29T10:31:30.662538+05:30'
+published_at: '2026-06-29T16:55:55.705920+05:30'
+collected_at: '2026-06-29T16:55:55.705933+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-29T10:31:30.662538+05:30'
-last_seen: '2026-06-29T10:31:30.662538+05:30'
-last_checked: '2026-06-29T10:31:30.662538+05:30'
+first_seen: '2026-06-29T16:55:55.705933+05:30'
+last_seen: '2026-06-29T16:55:55.705933+05:30'
+last_checked: '2026-06-29T16:55:55.705933+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) and generation (LLM) to enhance factual accuracy without fine-tuning; critical components include chunking strategies, embedding models (e.g., `text-embedding-3-large`), and Supabase/PGVector for vector storage.
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB) with generation (LLMs), optimized via chunking strategies, embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + cosine similarity).
 
-- **Production Optimization**: Implements hybrid search (dense + BM25), query rewriting, caching (Redis), and load balancing (Cloudflare Workers) to reduce latency (~50-80% improvements) and token costs; observability via Sentry for error tracking and performance metrics.
+- **Production Optimizations**: Implements Supabase for vector storage, caching (Redis), load balancing (multiple LLM endpoints), and latency reduction via query rewriting and token-efficient prompting.
 
-- **Advanced Patterns & Trade-offs**: Supports multi-modal RAG (images/PDFs via OCR), conversational memory (LangChain), and cost-performance balancing (e.g., smaller embedding models vs. retrieval quality); benchmarks highlight latency bottlenecks in retrieval (~60% of total pipeline time).
+- **Monitoring & Scaling**: Integrates Sentry for observability, benchmarks pipeline latency (retrieval vs. generation), and deploys via Cloudflare Workers with cost-performance trade-offs (e.g., `gpt-3.5-turbo` vs. open-source alternatives).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:31:30.662524+05:30
+- Published: 2026-06-29T16:55:55.705920+05:30
 
 ## Related Tags
 

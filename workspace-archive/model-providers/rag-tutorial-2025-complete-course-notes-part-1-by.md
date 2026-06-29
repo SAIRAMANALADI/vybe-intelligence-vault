@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Divided into **injection pipeline** (data ingestion: chunking + embedding via models like OpenAI's `text-embedding-3-large` with 3,072 dimensions) and **retrieval pipeline** (user query embedding → vector DB search → top-*k* relevant chunks → LLM generation).
+- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while managing context window limits (e.g., GPT-4.1: 1M tokens, Claude Sonnet: 200K tokens).
 
-- **Vector Embeddings**: Mathematical representations (e.g., 3,072-dim vectors) encoding semantic meaning; higher dimensions capture more nuance but increase storage/compute costs. Popular models include OpenAI’s `t
+- **Embedding Pipeline**: Chunks documents (e.g., 10M tokens → 10K chunks of 1K tokens each), converts text to high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings), and stores them in vector databases (Pinecone, Weaviate, FAISS) for semantic similarity matchi
 
 ## Use Cases
 

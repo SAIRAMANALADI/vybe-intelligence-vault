@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Security & Bug Fixes**:
-  - Fixed page/section name collision regression in `hugolib` ([#15046](https://github.com/gohugoio/hugo/issues/15046)).
-  - Resolved `ERR_ACCESS_DENIED` in Node.js resolver ([#15041](https://github.com/gohugoio/hugo/issues/15041)).
-  - Standardized behavior for missing external converters in `markup` ([#14222](https://github.com/gohugoio/hugo/issues/14222)).
-  - Security patches: Normalized IPv4 host encodings in `http.urls` check and dropped symlinks in filesystem o
+- **AVIF Image Handling Improvements**: Default AVIF quality reduced to 60 for parity with JPEG/WebP at 75; added `hint` parameter (YUV420 for lossy, YUV444 for text/icons) to optimize memory usage during encoding.
+
+- **Security Fixes**: Addressed multiple vulnerabilities including integer IPv4 host encoding normalization in `http.urls` checks and symlink handling in `os.ReadDir`, `os.ReadFile`, `os.Stat`, and `os.FileExists`.
+
+- **Deprecations & Cleanup**: Removed deprecated `baseUrl` setting i
 
 ## Use Cases
 

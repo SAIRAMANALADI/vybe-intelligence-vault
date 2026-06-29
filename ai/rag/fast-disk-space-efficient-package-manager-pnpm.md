@@ -3,9 +3,9 @@ title: Fast, disk space efficient package manager | pnpm
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://pnpm.io
-published_at: '2026-06-22T11:22:28.388379+05:30'
-collected_at: '2026-06-22T11:22:28.388388+05:30'
+source_url: https://pnpm.io/
+published_at: '2026-06-29T17:04:33.299133+05:30'
+collected_at: '2026-06-29T17:04:33.299145+05:30'
 tags:
 - frontend_ui
 - openai
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:fast-disk-space-efficient-package-manager-pnpm
-first_seen: '2026-06-22T11:22:28.388388+05:30'
-last_seen: '2026-06-22T11:22:28.388388+05:30'
-last_checked: '2026-06-22T11:22:28.388388+05:30'
+first_seen: '2026-06-29T17:04:33.299145+05:30'
+last_seen: '2026-06-29T17:04:33.299145+05:30'
+last_checked: '2026-06-29T17:04:33.299145+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized Dependency Management**: Uses a strict, non-flat `node_modules` structure with hard links to reduce disk space usage and prevent dependency conflicts, while maintaining fast installation speeds via content-addressable storage and caching.
+- **Optimized Dependency Management**: Uses a content-addressable store and hard links to avoid redundant disk usage, reducing storage overhead by sharing common dependencies across projects in monorepos.
 
-- **Monorepo & Workspace Support**: Provides built-in workspace management for polyrepos, enabling efficient dependency sharing, task parallelization, and isolated builds across projects without redundant installations.
+- **Enhanced Security & Control**: Implements `minimumReleaseAge` to delay dependency updates, mitigating supply chain risks by preventing immediate adoption of new versions; also disables postinstall scripts by default.
 
-- **Security & Supply Chain Resilience**: Implements `minimumReleaseAge` to delay dependency updates, disables post-install scripts by default, and enforces strict dependency resolution to mitigate supply chain attacks.
+- **Performance & Scalability**: Achieves ~40% faster CI/CD flows in monorepos (e.g., Bit) via parallel task execution and efficient dependency resolution, outperforming npm/yarn in large-scale projects.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:22:28.388379+05:30
+- Published: 2026-06-29T17:04:33.299133+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://pnpm.io
+Original source: https://pnpm.io/

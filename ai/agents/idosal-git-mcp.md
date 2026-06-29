@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-06-29T10:33:20.708804+05:30'
+collected_at: '2026-06-29T16:57:44.330502+05:30'
 published_at: '2026-06-29T02:00:18Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 - workflows
 stars: 8214
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-06-29T10:33:20.708804+05:30'
-last_seen: '2026-06-29T10:33:20.708804+05:30'
-last_checked: '2026-06-29T10:33:20.708804+05:30'
+first_seen: '2026-06-29T16:57:44.330502+05:30'
+last_seen: '2026-06-29T16:57:44.330502+05:30'
+last_checked: '2026-06-29T16:57:44.330502+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **GitMCP Server**: Open-source TypeScript-based MCP (Model Context Protocol) server enabling remote interactions with any GitHub repository to mitigate AI code hallucinations.
-- **Integration & Features**: Supports agentic AI workflows (e.g., Claude, Copilot, Cursor) by providing structured, real-time GitHub project access via MCP for enhanced LLM reliability.
-- **Metadata**: 8,214 stars, 726 forks; last updated 2026-06-29; focuses on AI-driven Git operations and hallucination prevention.
+- **Purpose**: GitMCP is an open-source, remote MCP (Model Context Protocol) server designed to provide structured access to any GitHub repository, mitigating AI code hallucinations by ensuring accurate, context-aware interactions with codebases.
+
+- **Technical Stack**: Implemented in TypeScript, GitMCP enables seamless integration with AI agents (e.g., Claude, Copilot, Cursor) by exposing repository data via the MCP standard, facilitating real-time, repository-aware AI workflows.
+
+- **Features**: Supports bidirectional operations (read/write) on GitHub projects, enabling agents to fetch, analyze, and modify code while maintaining synchronization with the remote repository.
 
 ## Why It Matters
 

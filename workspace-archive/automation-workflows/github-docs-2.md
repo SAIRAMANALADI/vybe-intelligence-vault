@@ -14,6 +14,7 @@ importance: medium
 tags:
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration Types**: {% data variables.product.company_short %} supports three primary integration types: {% data variables.product.prodname_github_apps %} (server/device-hosted), {% data variables.product.prodname_actions %} workflows (event-triggered), and custom actions (executable code within workflows).
+- **Integration Types**: {% data variables.product.company_short %} supports three primary integration types: **{% data variables.product.prodname_github_apps %}** (server/device-hosted), **{% data variables.product.prodname_actions %} workflows** (event-triggered automation), and **custom actions** (executable code within workflows).
 
-- **API & Webhook Support**: Integrations leverage {% data variables.product.company_short %}'s REST/GraphQL APIs for data manipulation and webhooks for real-time event notifications (e
+- **API & Webhook Support**: Integrations leverage **REST** or **GraphQL APIs** for data operations and **webhooks** to receive real-time event notifications (e.g
 
 ## Use Cases
 

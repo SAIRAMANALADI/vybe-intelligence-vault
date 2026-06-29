@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-06-29T10:31:31.183393+05:30'
-collected_at: '2026-06-29T10:31:31.183406+05:30'
+published_at: '2026-06-29T16:55:55.753293+05:30'
+collected_at: '2026-06-29T16:55:55.753305+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-06-29T10:31:31.183406+05:30'
-last_seen: '2026-06-29T10:31:31.183406+05:30'
-last_checked: '2026-06-29T10:31:31.183406+05:30'
+first_seen: '2026-06-29T16:55:55.753305+05:30'
+last_seen: '2026-06-29T16:55:55.753305+05:30'
+last_checked: '2026-06-29T16:55:55.753305+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   RAG systems augment LLMs by integrating a retriever (optimized via hybrid search, ANN indexes
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for improved precision and efficiency.
+
+- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality optimization, and modality/language support for high-performance retrieval.
+
+- **Advanced Techniques**: Multi-hop iterative retrieval, hybrid search (BM25 + vector), cross-encoder reranking, and context distillation reduce hallucinations and improve factual grounding; evaluation must assess both retrieval and generation stages.
 
 ## Why It Matters
 
@@ -41,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:31:31.183393+05:30
+- Published: 2026-06-29T16:55:55.753293+05:30
 
 ## Related Tags
 
