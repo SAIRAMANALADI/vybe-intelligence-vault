@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-29 10:47 IST</p>
+        <p><b>Last Update:</b> 2026-06-29 13:03 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,27 +55,19 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Professor denounces mass AI fraud on an exam at Brown](ai/community/professor-denounces-mass-ai-fraud-on-an-exam-at-br.md)** • <kbd>+247 pts</kbd> • Rank: <kbd>+3</kbd>
-- 🔼 **[Librepods: AirPods liberated](ai/community/librepods-org-librepods.md)** • <kbd>+132 pts</kbd>
-- 🔼 **[Daisugi, the Japanese technique of growing trees out of other trees (2020)](ai/community/daisugi-the-japanese-technique-of-trees-out-of-tre.md)** • <kbd>+38 pts</kbd>
-- 🔼 **[Working around dragons with the Lemote Yeeloong laptop and OpenBSD](ai/community/working-around-dragons-with-the-lemote-yeeloong-la.md)** • <kbd>+19 pts</kbd>
-- 🔼 **[A way to exclude sensitive files issue still open for OpenAI Codex](ai/community/openai-codex.md)** • <kbd>+18 pts</kbd>
+- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+6</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pathwaycom/llm-app](ai/rag/pathwaycom-llm-app.md)** • Rank: <kbd>+2</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Model Training as Code](ai/community/model-training-as-code.md)** • Score: `29`
-- 🆕 **[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](ai/community/hackerrank-open-sourced-its-ats-my-resume-scored-9.md)** • Score: `22`
-- 🆕 **[Make Safari your default web browser on Mac - Apple Support](ai/resources/make-safari-your-default-web-browser-on-mac-apple.md)** • Score: `0`
-- 🆕 **[Change your default apps for features on iPhone and iPad - Apple Support](ai/rag/change-your-default-apps-for-features-on-iphone-an.md)** • Score: `0`
-- 🆕 **[Personal Safety User Guide - Apple Support](ai/resources/personal-safety-user-guide-apple-support.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[Do LLMs pass the mirror test?](ai/community/do-llms-pass-the-mirror-test.md)**
-- 💤 **[Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs](ai/community/kamaludu-bash4llm.md)**
-- 💤 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
