@@ -1,49 +1,49 @@
 ---
-title: "Anmol-Srv/sigil"
-category: "Orchestrator"
-tech_stack: ["Postgres", "pgvector", "MCP (Model Context Protocol)", "TypeScript/JavaScript", "Shell scripting", "Git", "Docker"]
+title: "Sigil-Trade/sigil"
+category: "Tooling"
+tech_stack: ["Solana", "Anchor Framework", "TypeScript", "SPL Token", "TEE (Trusted Execution Environment)", "Jupiter", "Flash Trade"]
 quality_score: 9
-rag_relevance: 10
-tags: ["memory layer", "local-first", "MCP-native", "cross-agent", "Postgres-backed"]
-source: "https://github.com/Anmol-Srv/sigil"
-discovered_at: "2026-06-29T07:31:03Z"
+rag_relevance: 8
+tags: ["on-chain security", "AI agent guardrails", "Solana vaults", "policy enforcement", "transaction sandboxing"]
+source: "https://github.com/Sigil-Trade/sigil"
+discovered_at: "2026-06-29T21:22:47Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Sigil provides a local-first memory layer for AI agents, enabling shared context across tools like Claude Code, Codex CLI, Cursor, and Kiro. It stores memory in a user-controlled Postgres database and integrates via MCP or CLI, eliminating vendor lock-in and enabling cross-agent, cross-machine knowledge consistency.
+Sigil provides on-chain guardrails for AI agents operating on Solana by enforcing spending caps, protocol allowlists, and agent permissions through Solana validators. It uses a three-layer security model combining client-side checks, TEE key custody, and on-chain PDA vault enforcement to prevent unauthorized transactions.
 
 ## Key Features
-- Universal memory layer for AI agents with zero vendor dependency
-- Auto-capture of context from Claude Code via hooks (no manual input required)
-- Hybrid retrieval (pgvector + BM25 + RRF) with ACT-R and Hebbian re-ranking for relevance
-- Cross-machine synchronization via shared Postgres database
-- Pluggable pod system for extensible memory types (sessions, projects, people, playbooks, vitals)
+- On-chain spending caps and protocol allowlists enforced by Solana validators
+- Client-side fast-deny checks and TEE key custody for agent private keys
+- Atomic transaction composition to avoid Solana CPI depth limits
+- Rolling 24h spend tracking with no midnight reset vulnerabilities
+- Timelocked policy changes and kill switch for emergency vault freezing
 
 ## Why It Matters for RAG Builders
-Sigil eliminates fragmented agent memory by providing a shared, local-first brain that any agent can access, ensuring consistent context and reducing redundant explanations across tools and machines.
+Sigil ensures AI agents on Solana cannot bypass spending limits or unauthorized actions by enforcing policies at the blockchain level, providing critical security for RAG/AI stack builders integrating with DeFi protocols.
 
 ## Tech Stack Deep Dive
-### Postgres
-Automated review identified **Postgres** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Solana
+Automated review identified **Solana** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### pgvector
-Automated review identified **pgvector** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Anchor Framework
+Automated review identified **Anchor Framework** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### TypeScript/JavaScript
-Automated review identified **TypeScript/JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### SPL Token
+Automated review identified **SPL Token** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Shell scripting
-Automated review identified **Shell scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TEE (Trusted Execution Environment)
+Automated review identified **TEE (Trusted Execution Environment)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Jupiter
+Automated review identified **Jupiter** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Docker
-Automated review identified **Docker** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Flash Trade
+Automated review identified **Flash Trade** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
