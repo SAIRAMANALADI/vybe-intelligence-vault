@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-06-29T16:56:04.229208+05:30'
+collected_at: '2026-06-29T21:43:27.204419+05:30'
 published_at: '2026-06-28T12:55:22Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-06-29T16:56:04.229208+05:30'
-last_seen: '2026-06-29T16:56:04.229208+05:30'
-last_checked: '2026-06-29T16:56:04.229208+05:30'
+first_seen: '2026-06-29T21:43:27.204419+05:30'
+last_seen: '2026-06-29T21:43:27.204419+05:30'
+last_checked: '2026-06-29T21:43:27.204419+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Jupyter Notebook-based tutorials focused on Retrieval-Augmented Generation (RAG) techniques, with 356 stars and 327 forks.
-- **Technical Scope**: Likely covers implementation details, best practices, and experimental setups for RAG pipelines (e.g., vector databases, LLM integration, evaluation metrics).
-- **Last Activity**: Repository last updated on **2026-06-28**, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 356 stars and 327 forks.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks for educational content on RAG methodologies.
+- **Last Activity**: Last updated on June 28, 2026, indicating recent or ongoing development.
 
 ## Why It Matters
 

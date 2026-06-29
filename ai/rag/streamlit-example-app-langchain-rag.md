@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-29T16:56:29.328390+05:30'
+collected_at: '2026-06-29T21:43:57.254497+05:30'
 published_at: '2026-06-26T07:34:34Z'
 tags:
+- frontend_ui
 - github-repo
 - openai
 - python
 - rag
+- workflows
 stars: 156
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-29T16:56:29.328390+05:30'
-last_seen: '2026-06-29T16:56:29.328390+05:30'
-last_checked: '2026-06-29T16:56:29.328390+05:30'
+first_seen: '2026-06-29T21:43:57.254497+05:30'
+last_seen: '2026-06-29T21:43:57.254497+05:30'
+last_checked: '2026-06-29T21:43:57.254497+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining sparse (BM25) and dense (embedding-based) retrieval methods for enhanced accuracy.
-
-- **Modular LangChain Components**: Implements LangChain’s `RetrievalQA` chain with customizable LLM backends (e.g., OpenAI, HuggingFace) and prompt engineering for contextual response generation.
-
-- **Streamlit UI for RAG**: Provides a real-time interactive interface to input queries, display retrieved documents, and stream generated responses, with optional hybrid search configuration.
+- **Hybrid RAG Pipeline**: Implements a Streamlit app integrating LangChain with a vector store (e.g., FAISS/Chroma) for retrieval-augmented generation (RAG), combining dense (vector) and sparse (keyword/BM25) search methods for improved retrieval accuracy.
+- **LangChain Integration**: Utilizes LangChain’s modular framework to chain components (e.g., retrievers, LLMs, prompt templates) for end-to-end QA workflows, with configurable parameters for chunking, embeddings (e.g., OpenAI/HuggingFace), and generation.
+- **Streamlit UI**: Provides a reactive web interface for real-time user queries, displaying retrieved context and generated responses, with optional features like source citation tracking and model parameter tuning.
 
 ## Why It Matters
 

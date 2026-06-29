@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **CRAG** is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across diverse tasks, including factuality, hallucination detection, and robustness to noise.
-- The repository includes **Jupyter Notebook-based evaluations** with structured datasets and metrics for assessing RAG performance in real-world scenarios.
-- The benchmark emphasizes **scalability and reproducibility**, providing tools for automated testing and comparative analysis of RAG m
+- **Purpose**: CRAG is a comprehensive benchmark designed to evaluate Retrieval-Augmented Generation (RAG) systems across multiple dimensions, including accuracy, robustness, and efficiency.
+
+- **Implementation**: The repository is implemented in Jupyter Notebooks, providing modular and reproducible evaluation pipelines for RAG models.
+
+- **Scope**: The benchmark covers diverse datasets and tasks to assess RAG performance in real-world scenarios, with a focus on factuality and contextual relevan
 
 ## Use Cases
 

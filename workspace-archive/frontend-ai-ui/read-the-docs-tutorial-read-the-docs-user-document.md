@@ -8,7 +8,7 @@ local_vault_path: ai/agents/read-the-docs-tutorial-read-the-docs-user-document.m
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Read the Docs tutorial — Read the Docs user documentation
@@ -29,18 +29,16 @@ selection_reason:
 
 - Matched archive category: `Frontend AI UI`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Repository Setup**: Requires a public GitHub repo with `.readthedocs.yaml` (config), `pyproject.toml` (Python metadata), and Sphinx docs in `docs/source/` (`.rst`/`.py` sources).
+- **GitHub Repository Setup**: Create a public GitHub repo using the [Read the Docs tutorial template](https://github.com/readthedocs/tutorial-template/), ensuring it includes `.readthedocs.yaml`, `pyproject.toml`, and a `docs/` directory with Sphinx configuration (`conf.py`) and reStructuredText (`index.rst`) files.
 
-- **Automated Builds**: Triggered via GitHub webhooks; logs accessible via project dashboard; supports PDF/EPUB/HTML outputs with versioning via `.readthedocs.yaml`.
-
-- **Integration Workflow**: OAuth-based GitHub auth for Read the Docs; project imports via dashboard; builds triggered on `main` branch pushes or PRs
+- **Read the Docs Integration**: Authorize Read the Docs via GitHub OAuth, then import the repo as a project, configuring the default branch (`main`) and unique subdomain during se
 
 ## Use Cases
 

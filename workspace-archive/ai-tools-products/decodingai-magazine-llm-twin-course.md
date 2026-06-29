@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Course Content**: Provides hands-on guidance for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Integrates AWS, Bytewax, Comet-ML, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, MLOps, and vector database management.
-- **Deployment & Scalability**: Utilizes Docker for containerization and emphasizes scalable, cloud-native LLM system design with MLOps and generative AI workfl
+- **Course Content**: Provides a structured, hands-on guide to building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12+ instructor-led sessions.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Qdrant (vector DB), Bytewax (streaming), Comet.ml (ML tracking), and Qwak (ML deployment) with Docker for containerization.
+- **MLOps Focus**: Covers end-to-end ML system design, infrastructure-as-code, and integration of generative AI workflows with MLO
 
 ## Use Cases
 

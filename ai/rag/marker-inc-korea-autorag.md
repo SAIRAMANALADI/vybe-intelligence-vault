@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-29T16:56:24.319284+05:30'
+collected_at: '2026-06-29T21:43:47.232356+05:30'
 published_at: '2026-06-29T10:07:39Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4846
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-29T16:56:24.319284+05:30'
-last_seen: '2026-06-29T16:56:24.319284+05:30'
-last_checked: '2026-06-29T16:56:24.319284+05:30'
+first_seen: '2026-06-29T21:43:47.232356+05:30'
+last_seen: '2026-06-29T21:43:47.232356+05:30'
+last_checked: '2026-06-29T21:43:47.232356+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates hyperparameter tuning, prompt optimization, and retrieval strategies for RAG pipelines using AutoML techniques, reducing manual configuration overhead.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance metrics.
 
-- **Comprehensive RAG Evaluation**: Provides built-in benchmarking tools for assessing RAG performance across metrics like answer correctness, retrieval relevance, and latency, supporting both offline and online evaluation modes.
+- **Comprehensive RAG Toolkit**: Supports document parsing, embedding generation, retrieval evaluation, and LLM-based QA benchmarking with built-in metrics for end-to-end RAG pipeline analysis.
 
-- **Modular Pipeline & Document Processing**: Offers a flexible pipeline architecture with integrated document parsing, embedding generation, and retrieval components, supporting multiple LLMs and embedding models for end-to-end RAG workflows.
+- **Open-Source Python Framework**: Provides modular components for RAG operations (e.g., `rag-evaluation`, `llm-ops`) with extensible APIs for custom dataset integration and AutoML-driven hyperparameter optimization.
 
 ## Why It Matters
 

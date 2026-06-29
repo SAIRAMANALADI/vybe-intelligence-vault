@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html
-published_at: '2026-06-29T10:35:58.522482+05:30'
-collected_at: '2026-06-29T10:35:58.522494+05:30'
+published_at: '2026-06-29T21:46:36.290768+05:30'
+collected_at: '2026-06-29T21:46:36.290782+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cypher-variable-length-relationships-by-example
-first_seen: '2026-06-29T10:35:58.522494+05:30'
-last_seen: '2026-06-29T10:35:58.522494+05:30'
-last_checked: '2026-06-29T10:35:58.522494+05:30'
+first_seen: '2026-06-29T21:46:36.290782+05:30'
+last_seen: '2026-06-29T21:46:36.290782+05:30'
+last_checked: '2026-06-29T21:46:36.290782+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Variable-length relationships in Cypher** are defined using `*min..max` syntax (e.g., `-[:KNOWS*2..3]->`), enabling traversal of paths with dynamic relationship counts between nodes.
-- **Zero-length paths** (`*0`) bind the same node to multiple variables in a single pattern, simplifying queries for nodes with optional relationships (e.g., retrieving all blog posts regardless of `PREVIOUS_POST` existence).
-- **Performance considerations** require explicit length limits (e.g., `-[:KNOWS*..5]->`) to avoid unbounded traversals, which can degrade query performance in densely connected graphs.
+- **Variable-length relationship syntax in Cypher** allows specifying path lengths using `*minHops..maxHops` (e.g., `-[:KNOWS*2..3]->` for 2-3 hops), enabling flexible traversal depth control in graph queries.
+
+- **Zero-length paths** (`*0`) bind the same node to multiple variables in a pattern, simplifying queries by avoiding `OPTIONAL MATCH` clauses (e.g., `-[:LAST_POST]->()-[:PREVIOUS_POST*0..1]->(post)` captures all posts, including the last one).
+
+- **Performance considerations** require explicit length limits (`*..5`) over infinite paths (`*`) to prevent excessive traversal and ensure query efficiency in large, densely connected graphs.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:35:58.522482+05:30
+- Published: 2026-06-29T21:46:36.290768+05:30
 
 ## Related Tags
 

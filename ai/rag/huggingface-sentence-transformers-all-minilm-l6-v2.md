@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/sentence-transformers/all-minilm-l6-v2
-published_at: '2026-06-29T16:54:59.810417+05:30'
-collected_at: '2026-06-29T16:54:59.810442+05:30'
+published_at: '2026-06-29T21:42:24.576171+05:30'
+collected_at: '2026-06-29T21:42:24.576193+05:30'
 tags:
 - dataset
 - hf-model
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: huggingface:sentence-transformers/all-minilm-l6-v2
 first_seen: '2026-06-18T23:35:18.374658+05:30'
-last_seen: '2026-06-29T16:54:59.810442+05:30'
-last_checked: '2026-06-29T16:54:59.810442+05:30'
+last_seen: '2026-06-29T21:42:24.576193+05:30'
+last_checked: '2026-06-29T21:42:24.576193+05:30'
 health_score: 100
 ---
 
@@ -23,7 +23,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5017, Downloads: 244269075)
+Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5019, Downloads: 244269075)
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-06-29T16:54:59.810417+05:30
+- Published: 2026-06-29T21:42:24.576171+05:30
 
 ## Related Tags
 

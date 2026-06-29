@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-29T16:56:54.289532+05:30'
+collected_at: '2026-06-29T21:44:22.238739+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
 - github-repo
 - hackernews
 - rag
 - unknown
+- youtube
 stars: 337
 language: Unknown
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-29T16:56:54.289532+05:30'
-last_seen: '2026-06-29T16:56:54.289532+05:30'
-last_checked: '2026-06-29T16:56:54.289532+05:30'
+first_seen: '2026-06-29T21:44:22.238739+05:30'
+last_seen: '2026-06-29T21:44:22.238739+05:30'
+last_checked: '2026-06-29T21:44:22.238739+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)** applications.
-- **Scope**: Focuses on integrating RAG with vision tasks (e.g., image captioning, visual question answering, or multimodal retrieval) to enhance generative models with external knowledge or retrieval mechanisms.
-- **Status**: Last updated in **2026**, with moderate activity (337 stars, 9 forks), indicating an evolving but niche collection of cutting-edge CV-RAG research and implementations.
+- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal and vision-language model (VLM) applications.
+- **Scope**: Focuses on cutting-edge RAG methods that integrate **visual data retrieval** (e.g., images, videos) with generative models to enhance tasks like image captioning, VQA, and visual grounding.
+- **Maintenance**: Last updated **June 29, 2026**, with **337 stars** and **9 forks**, indicating active community engagement but limited metadata (language/topics unspecified).
 
 ## Why It Matters
 

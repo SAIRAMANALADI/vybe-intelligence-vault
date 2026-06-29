@@ -8,7 +8,7 @@ local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - agents
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit for building RAG pipelines with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JavaScript, TypeScript), integrating with providers like OpenAI, Hugging Face, and Azure.
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, supporting Python, JavaScript, and TypeScript; provides modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipelines, including agent workflows and memory integration with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring advanced document parsing (OCR, layout analysis), multi-modal retrieval, and fine-tuned pipelines for enterprise-gra
+- **RAG Architecture**: Integrates external knowledge retrieval to augment LLM responses, mitigating hallucinations and knowledge cut-off issues; enables context-awa
 
 ## Use Cases
 

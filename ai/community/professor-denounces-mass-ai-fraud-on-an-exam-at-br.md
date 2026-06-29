@@ -13,13 +13,14 @@ collected_at: '2026-06-29T16:55:01.421347+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:professor-denounces-mass-ai-fraud-on-an-exam-at-br
 first_seen: '2026-06-29T03:45:15.110435+05:30'
 last_seen: '2026-06-29T16:55:01.421347+05:30'
 last_checked: '2026-06-29T16:55:01.421347+05:30'
 health_score: 100
 ---
+
 
 # Professor denounces mass AI fraud on an exam at Brown
 

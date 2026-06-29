@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.readthedocs.io/page/tutorial/index.html
-published_at: '2026-06-29T10:37:14.143279+05:30'
-collected_at: '2026-06-29T10:37:14.143293+05:30'
+published_at: '2026-06-29T21:47:33.278697+05:30'
+collected_at: '2026-06-29T21:47:33.278715+05:30'
 tags:
 - agents
 - dataset
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:read-the-docs-tutorial-read-the-docs-user-document
-first_seen: '2026-06-29T10:37:14.143293+05:30'
-last_seen: '2026-06-29T10:37:14.143293+05:30'
-last_checked: '2026-06-29T10:37:14.143293+05:30'
+first_seen: '2026-06-29T21:47:33.278715+05:30'
+last_seen: '2026-06-29T21:47:33.278715+05:30'
+last_checked: '2026-06-29T21:47:33.278715+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Repository Setup**: Tutorial requires a public GitHub repo with `.readthedocs.yaml`, `pyproject.toml`, Sphinx config (`docs/source/conf.py`), and reStructuredText documentation in `docs/source/`.
+- **GitHub Repository Setup**: Create a public GitHub repo using the [Read the Docs tutorial template](https://github.com/readthedocs/tutorial-template/), ensuring it includes `.readthedocs.yaml`, `pyproject.toml`, and a `docs/` directory with Sphinx configuration (`conf.py`) and reStructuredText (`index.rst`) files.
 
-- **Read the Docs Integration**: Account creation via GitHub OAuth grants permissions for webhook installation; project import auto-triggers documentation builds from the default branch (`main`).
+- **Read the Docs Integration**: Authorize Read the Docs via GitHub OAuth, then import the repo as a project, configuring the default branch (`main`) and unique subdomain during setup to enable automated documentation builds.
 
-- **Build Process**: Initial build logs accessible via project home; subsequent builds customizable via `.readthedocs.yaml` for Python versions, dependencies, and output formats (PDF/EPUB).
+- **Build Process & Validation**: Read the Docs auto-triggers a build post-import; verify success by inspecting logs via the project dashboard, confirming output formats (HTML/PDF/ePub) and resolving any build failures.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T10:37:14.143279+05:30
+- Published: 2026-06-29T21:47:33.278697+05:30
 
 ## Related Tags
 

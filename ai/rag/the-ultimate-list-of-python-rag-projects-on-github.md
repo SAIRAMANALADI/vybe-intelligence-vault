@@ -5,11 +5,12 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github/
-published_at: '2026-06-29T16:55:50.719823+05:30'
-collected_at: '2026-06-29T16:55:50.719835+05:30'
+published_at: '2026-06-29T21:43:17.850113+05:30'
+collected_at: '2026-06-29T21:43:17.850127+05:30'
 tags:
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models
@@ -19,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:the-ultimate-list-of-python-rag-projects-on-github
-first_seen: '2026-06-29T16:55:50.719835+05:30'
-last_seen: '2026-06-29T16:55:50.719835+05:30'
-last_checked: '2026-06-29T16:55:50.719835+05:30'
+first_seen: '2026-06-29T21:43:17.850127+05:30'
+last_seen: '2026-06-29T21:43:17.850127+05:30'
+last_checked: '2026-06-29T21:43:17.850127+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting **Llama 3.1 70b instruct** and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
+- **LangChain v0.24.0** enables modular RAG pipelines with multi-agent workflows, supporting LLMs like Llama 3.1 70b instruct and reducing deployment overhead via components like `WebBaseLoader` and `VectorstoreIndexCreator`.
 
-- **LlamaIndex v0.12.0** introduces **semantic chunking** and **30% improved retrieval accuracy** in unstructured data, with `DBConnectors` for structured databases and `Unstructured.io` support for multi-format document parsing (PDFs, images, CSVs).
+- **LlamaIndex v0.12.0** introduces semantic chunking and advanced filtering, improving retrieval accuracy by up to 30% in complex datasets, with optimized support for unstructured data parsing (PDFs, images) and structured database integration.
 
-- **RAGFlow v0.24.0** offers **enterprise-grade RAG** with multi-modal parsing, **Gemini 3 Pro/GPT-5 compatibility**, and a **Python/JavaScript code executor** for agent workflows, optimized for **Confluence/S3/Google Drive** integrations via Docker-based deployment.
+- **RAGFlow v0.24.0** delivers enterprise-grade RAG with multi-modal document parsing, agent-based workflows, and dynamic code execution (Python/JavaScript), supporting models like Gemini 3 Pro and GPT-5 for cross-language queries and long-term context retention.
 
 ## Why It Matters
 
@@ -43,12 +44,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T16:55:50.719823+05:30
+- Published: 2026-06-29T21:43:17.850113+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - models

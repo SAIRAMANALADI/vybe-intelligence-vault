@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.deepset.ai/blog
-published_at: '2026-06-29T03:50:21.926915+05:30'
-collected_at: '2026-06-29T03:50:21.926929+05:30'
+published_at: '2026-06-29T21:47:25.873454+05:30'
+collected_at: '2026-06-29T21:47:25.873467+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:blog
-first_seen: '2026-06-29T03:50:21.926929+05:30'
-last_seen: '2026-06-29T03:50:21.926929+05:30'
-last_checked: '2026-06-29T03:50:21.926929+05:30'
+first_seen: '2026-06-29T21:47:25.873467+05:30'
+last_seen: '2026-06-29T21:47:25.873467+05:30'
+last_checked: '2026-06-29T21:47:25.873467+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, including RAG, IDP, and enterprise search systems with modular components for document retrieval, processing, and querying.
+- **Haystack Framework**: Open-source Python framework for building production-ready NLP pipelines, enabling modular components for document retrieval, extraction, and processing with support for transformer-based models.
 
-- **Harness Engineering**: System-level approach to AI agent reliability, focusing on failure classification, context engineering, and production-grade harness design rather than model selection alone.
+- **Enterprise AI Solutions**: Provides Haystack Enterprise Platform (unified name for prior offerings) with MCP tool integration, enabling managed, composable AI agent toolkits and production-grade system engineering for reliability.
 
-- **Haystack Enterprise Platform**: Unified enterprise AI solution offering managed MCP tools, scalable RAG pipelines, and sovereign AI compliance with governance features for regulated industries.
+- **Sovereign AI Focus**: Advocates for sovereign AI systems with transparent, open infrastructure (e.g., Deutschland-Stack alignment) to address cost control, governance, and scalability challenges in enterprise AI deployments.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:50:21.926915+05:30
+- Published: 2026-06-29T21:47:25.873454+05:30
 
 ## Related Tags
 

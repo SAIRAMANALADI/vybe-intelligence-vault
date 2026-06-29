@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Reflex · The platform to build and scale enterprise apps](../ai/agents/reflex-the-platform-to-build-and-scale-enterprise.md) ([Source URL](https://reflex.dev))
+### 1. [Analyze issues from Firebase Crashlytics and Android Vitals with App Quality Insights | Android Studio | Android Develop](../ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md) ([Source URL](https://developer.android.com/studio/debug/app-quality-insights))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:55:13.763266+05:30
+- **Local Path**: `ai/resources/analyze-issues-from-firebase-crashlytics-and-andro.md`
+
+### 2. [Gemini CLI installation, execution, and releases | Gemini CLI](../ai/resources/gemini-cli-installation-execution-and-releases-gem.md) ([Source URL](https://geminicli.com/docs/get-started/installation))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:55:13.499329+05:30
+- **Local Path**: `ai/resources/gemini-cli-installation-execution-and-releases-gem.md`
+
+### 3. [Generating content | Gemini API | Google AI for Developers](../ai/rag/generating-content-gemini-api-google-ai-for-develo.md) ([Source URL](https://ai.google.dev/api/generate-content))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:55:13.349138+05:30
+- **Local Path**: `ai/rag/generating-content-gemini-api-google-ai-for-develo.md`
+
+### 4. [API and references | Gemini for Google Cloud | Google Cloud Documentation](../ai/resources/api-and-references-gemini-for-google-cloud-google.md) ([Source URL](https://docs.cloud.google.com/gemini/docs/api-and-reference))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:55:12.064036+05:30
+- **Local Path**: `ai/resources/api-and-references-gemini-for-google-cloud-google.md`
+
+### 5. [Introduction to the Agent Platform SDK for Python | Gemini Enterprise Agent Platform | Google Cloud Documentation](../ai/agents/introduction-to-the-agent-platform-sdk-for-python.md) ([Source URL](https://cloud.google.com/vertex-ai/docs/python-sdk/use-vertex-ai-python-sdk))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T17:05:08.756474+05:30
-- **Local Path**: `ai/agents/reflex-the-platform-to-build-and-scale-enterprise.md`
+- **Collected At**: 2026-06-29T21:55:11.412505+05:30
+- **Local Path**: `ai/agents/introduction-to-the-agent-platform-sdk-for-python.md`
 
-### 2. [Builder.io: Collaborative Platform to Build With AI Agents](../ai/rag/builder-io-collaborative-platform-to-build-with-ai.md) ([Source URL](https://builder.io))
+### 6. [🌦️ Docs | Open-Meteo.com](../ai/rag/docs-open-meteo-com.md) ([Source URL](https://open-meteo.com/en/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:05:08.123386+05:30
-- **Local Path**: `ai/rag/builder-io-collaborative-platform-to-build-with-ai.md`
+- **Collected At**: 2026-06-29T21:55:10.647136+05:30
+- **Local Path**: `ai/rag/docs-open-meteo-com.md`
 
-### 3. [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md) ([Source URL](https://microsoft.com/legal/terms-of-use))
+### 7. [Google Cloud Documentation](../ai/rag/google-cloud-documentation.md) ([Source URL](https://docs.cloud.google.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:58.942562+05:30
-- **Local Path**: `ai/rag/microsoft-terms-of-use-microsoft-legal.md`
+- **Collected At**: 2026-06-29T21:55:09.955895+05:30
+- **Local Path**: `ai/rag/google-cloud-documentation.md`
 
-### 4. [Fast, disk space efficient package manager | pnpm](../ai/rag/fast-disk-space-efficient-package-manager-pnpm.md) ([Source URL](https://pnpm.io))
+### 8. [Using OAuth 2.0 to Access Google APIs | Authorization | Google for Developers](../ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md) ([Source URL](https://developers.google.com/identity/protocols/oauth2))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:33.299145+05:30
-- **Local Path**: `ai/rag/fast-disk-space-efficient-package-manager-pnpm.md`
+- **Collected At**: 2026-06-29T21:55:08.618416+05:30
+- **Local Path**: `ai/rag/using-oauth-2-0-to-access-google-apis-authorizatio.md`
 
-### 5. [Node.js — Run JavaScript Everywhere](../ai/resources/node-js-run-javascript-everywhere.md) ([Source URL](https://nodejs.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:33.121100+05:30
-- **Local Path**: `ai/resources/node-js-run-javascript-everywhere.md`
-
-### 6. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:32.978834+05:30
-- **Local Path**: `ai/resources/git.md`
-
-### 7. [docs/content/integrations/concepts/about-building-integrations.md at main · github/docs · GitHub](../ai/rag/github-docs.md) ([Source URL](https://github.com/github/docs))
+### 9. [Gemini CLI authentication setup | Gemini CLI](../ai/rag/gemini-cli-authentication-setup-gemini-cli.md) ([Source URL](https://geminicli.com/docs/get-started/authentication))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:32.801673+05:30
-- **Local Path**: `ai/rag/github-docs.md`
+- **Collected At**: 2026-06-29T21:55:08.124305+05:30
+- **Local Path**: `ai/rag/gemini-cli-authentication-setup-gemini-cli.md`
 
-### 8. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
+### 10. [Google Cloud Platform · GitHub](../ai/rag/google-cloud-platform-github.md) ([Source URL](https://github.com/googlecloudplatform))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:29.806709+05:30
-- **Local Path**: `ai/rag/codeql-documentation.md`
+- **Collected At**: 2026-06-29T21:55:07.138261+05:30
+- **Local Path**: `ai/rag/google-cloud-platform-github.md`
 
-### 9. [Releases · webpack/webpack · GitHub](../ai/rag/webpack-webpack.md) ([Source URL](https://github.com/webpack/webpack))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:29.007912+05:30
-- **Local Path**: `ai/rag/webpack-webpack.md`
-
-### 10. [jq](../ai/resources/jq.md) ([Source URL](https://jqlang.github.io/jq))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:27.301312+05:30
-- **Local Path**: `ai/resources/jq.md`
-
-### 11. [OpenTelemetry](../ai/agents/opentelemetry.md) ([Source URL](https://opentelemetry.io))
+### 11. [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) ([Source URL](https://cloud.google.com/gemini/docs/discover/set-up-gemini))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T17:04:27.251207+05:30
-- **Local Path**: `ai/agents/opentelemetry.md`
+- **Collected At**: 2026-06-29T21:55:04.216808+05:30
+- **Local Path**: `ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md`
 
-### 12. [Make the Web Faster | Google for Developers](../ai/rag/make-the-web-faster-google-for-developers.md) ([Source URL](https://developers.google.com/speed))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:23.674257+05:30
-- **Local Path**: `ai/rag/make-the-web-faster-google-for-developers.md`
-
-### 13. [webmproject/libwebp](../ai/resources/webmproject-libwebp.md) ([Source URL](https://github.com/webmproject/libwebp))
+### 12. [Configure VPC Service Controls for Gemini | Gemini for Google Cloud | Google Cloud Documentation](../ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md) ([Source URL](https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:22.385179+05:30
-- **Local Path**: `ai/resources/webmproject-libwebp.md`
+- **Collected At**: 2026-06-29T21:55:03.670059+05:30
+- **Local Path**: `ai/resources/configure-vpc-service-controls-for-gemini-gemini-f.md`
 
-### 14. [Web Vitals | Articles | web.dev](../ai/resources/web-vitals-articles-web-dev.md) ([Source URL](https://web.dev/articles/vitals))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:21.793014+05:30
-- **Local Path**: `ai/resources/web-vitals-articles-web-dev.md`
-
-### 15. [PageSpeed Insights](../ai/resources/pagespeed-insights.md) ([Source URL](https://pagespeed.web.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:21.633473+05:30
-- **Local Path**: `ai/resources/pagespeed-insights.md`
-
-### 16. [Build a User Management App with Next.js | Supabase Docs](../ai/rag/build-a-user-management-app-with-next-js-supabase.md) ([Source URL](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs))
+### 13. [Android Developers Blog: Entri cut UI development time by 40% with Gemini in Android Studio](../ai/rag/android-developers-blog-entri-cut-ui-development-t.md) ([Source URL](https://android-developers.googleblog.com/2025/09/entri-cut-ui-development-time-gemini-android-studio.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:21.097890+05:30
-- **Local Path**: `ai/rag/build-a-user-management-app-with-next-js-supabase.md`
+- **Collected At**: 2026-06-29T21:55:03.470625+05:30
+- **Local Path**: `ai/rag/android-developers-blog-entri-cut-ui-development-t.md`
 
-### 17. [RFC 6386 - VP8 Data Format and Decoding Guide](../ai/rag/rfc-6386-vp8-data-format-and-decoding-guide.md) ([Source URL](http://datatracker.ietf.org/doc/rfc6386))
+### 14. [GoogleCloudPlatform/generative-ai](../ai/rag/googlecloudplatform-generative-ai.md) ([Source URL](https://github.com/googlecloudplatform/generative-ai))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:20.959716+05:30
-- **Local Path**: `ai/rag/rfc-6386-vp8-data-format-and-decoding-guide.md`
+- **Collected At**: 2026-06-29T21:54:37.274802+05:30
+- **Local Path**: `ai/rag/googlecloudplatform-generative-ai.md`
 
-### 18. [Supabase | The Postgres Development Platform.](../ai/rag/supabase-the-postgres-development-platform.md) ([Source URL](https://supabase.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:20.230643+05:30
-- **Local Path**: `ai/rag/supabase-the-postgres-development-platform.md`
-
-### 19. [Sign in - Google Accounts](../ai/resources/sign-in-google-accounts.md) ([Source URL](https://issues.webmproject.org/issues/new?component=1618983&template=2023995))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:19.606496+05:30
-- **Local Path**: `ai/resources/sign-in-google-accounts.md`
-
-### 20. [The WebM Project | Software License](../ai/rag/the-webm-project-software-license.md) ([Source URL](https://webmproject.org/license/software))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:18.674890+05:30
-- **Local Path**: `ai/rag/the-webm-project-software-license.md`
-
-### 21. [An image format for the Web | WebP | Google for Developers](../ai/rag/an-image-format-for-the-web-webp-google-for-develo.md) ([Source URL](https://developers.google.com/speed/webp))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:18.660990+05:30
-- **Local Path**: `ai/rag/an-image-format-for-the-web-webp-google-for-develo.md`
-
-### 22. [Diagram Syntax | Mermaid](../ai/resources/diagram-syntax-mermaid.md) ([Source URL](https://mermaid.js.org/intro/syntax-reference.html))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:04:17.443380+05:30
-- **Local Path**: `ai/resources/diagram-syntax-mermaid.md`
-
-### 23. [Markdown for the component era | MDX](../ai/rag/markdown-for-the-component-era-mdx.md) ([Source URL](https://mdxjs.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:04:17.397940+05:30
-- **Local Path**: `ai/rag/markdown-for-the-component-era-mdx.md`
-
-### 24. [LangSmith US Status](../ai/resources/langsmith-us-status.md) ([Source URL](https://status.smith.langchain.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:49.801423+05:30
-- **Local Path**: `ai/resources/langsmith-us-status.md`
-
-### 25. [LangChain Support Portal](../ai/resources/langchain-support-portal.md) ([Source URL](https://support.langchain.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:48.939477+05:30
-- **Local Path**: `ai/resources/langchain-support-portal.md`
-
-### 26. [Flutter · GitHub](../ai/resources/flutter-github.md) ([Source URL](https://github.com/flutter))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:27.558982+05:30
-- **Local Path**: `ai/resources/flutter-github.md`
-
-### 27. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](https://android.googlesource.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:03:27.256216+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
-
-### 28. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
+### 15. [Developing LLM Apps with the Vertex AI SDK | Google Codelabs](../ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md) ([Source URL](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/1-developing-apps-that-use-llms/developing-llm-apps-with-vertex-ai-sdk))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T17:03:27.245803+05:30
+- **Collected At**: 2026-06-29T21:54:36.171673+05:30
+- **Local Path**: `ai/agents/developing-llm-apps-with-the-vertex-ai-sdk-google.md`
+
+### 16. [GoogleCloudPlatform/vertex-ai-samples](../ai/resources/googlecloudplatform-vertex-ai-samples.md) ([Source URL](https://github.com/googlecloudplatform/vertex-ai-samples))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:32.236466+05:30
+- **Local Path**: `ai/resources/googlecloudplatform-vertex-ai-samples.md`
+
+### 17. [Gemini in Android Studio - Android Developers](../ai/rag/gemini-in-android-studio-android-developers.md) ([Source URL](https://developer.android.com/gemini-in-android))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:30.344586+05:30
+- **Local Path**: `ai/rag/gemini-in-android-studio-android-developers.md`
+
+### 18. [Gemini Enterprise Agent Platform (formerly Vertex AI) | Google Cloud](../ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md) ([Source URL](https://cloud.google.com/products/gemini-enterprise-agent-platform))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:28.929798+05:30
+- **Local Path**: `ai/rag/gemini-enterprise-agent-platform-formerly-vertex-a.md`
+
+### 19. [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](../ai/resources/protocolbuffers-protobuf-go.md) ([Source URL](https://github.com/protocolbuffers/protobuf-go))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:25.130256+05:30
+- **Local Path**: `ai/resources/protocolbuffers-protobuf-go.md`
+
+### 20. [Protocol Buffers Documentation](../ai/resources/protocol-buffers-documentation.md) ([Source URL](https://protobuf.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:20.055832+05:30
+- **Local Path**: `ai/resources/protocol-buffers-documentation.md`
+
+### 21. [The Go Programming Language](../ai/rag/the-go-programming-language.md) ([Source URL](https://go.dev))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:20.006567+05:30
+- **Local Path**: `ai/rag/the-go-programming-language.md`
+
+### 22. [protocolbuffers/protobuf](../ai/rag/protocolbuffers-protobuf.md) ([Source URL](https://github.com/protocolbuffers/protobuf))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:19.697959+05:30
+- **Local Path**: `ai/rag/protocolbuffers-protobuf.md`
+
+### 23. [proto package - google.golang.org/protobuf/proto - Go Packages](../ai/rag/proto-package-google-golang-org-protobuf-proto-go.md) ([Source URL](https://pkg.go.dev/google.golang.org/protobuf/proto))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:17.142062+05:30
+- **Local Path**: `ai/rag/proto-package-google-golang-org-protobuf-proto-go.md`
+
+### 24. [Newest 'protocol-buffers' Questions - Stack Overflow](../ai/agents/newest-protocol-buffers-questions-stack-overflow.md) ([Source URL](https://stackoverflow.com/questions/tagged/protocol-buffers))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T21:54:17.008549+05:30
+- **Local Path**: `ai/agents/newest-protocol-buffers-questions-stack-overflow.md`
+
+### 25. [HashiCorp Services Status](../ai/resources/hashicorp-services-status.md) ([Source URL](https://status.hashicorp.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:15.485794+05:30
+- **Local Path**: `ai/resources/hashicorp-services-status.md`
+
+### 26. [hashicorp/terraform](../ai/resources/hashicorp-terraform.md) ([Source URL](https://github.com/hashicorp/terraform))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:14.697945+05:30
+- **Local Path**: `ai/resources/hashicorp-terraform.md`
+
+### 27. [Terraform Registry](../ai/resources/terraform-registry.md) ([Source URL](https://registry.terraform.io))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:14.551890+05:30
+- **Local Path**: `ai/resources/terraform-registry.md`
+
+### 28. [Terraform | HashiCorp Developer](../ai/rag/terraform-hashicorp-developer.md) ([Source URL](https://terraform.io))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:54:12.020714+05:30
+- **Local Path**: `ai/rag/terraform-hashicorp-developer.md`
+
+### 29. [aip-dev/google.aip.dev](../ai/resources/aip-dev-google-aip-dev.md) ([Source URL](https://github.com/aip-dev/google.aip.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:09.597326+05:30
+- **Local Path**: `ai/resources/aip-dev-google-aip-dev.md`
+
+### 30. [Google API Linter](../ai/resources/google-api-linter.md) ([Source URL](https://linter.aip.dev))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:09.477674+05:30
+- **Local Path**: `ai/resources/google-api-linter.md`
+
+### 31. [AIP-9: Glossary](../ai/resources/aip-9-glossary.md) ([Source URL](https://google.aip.dev/9))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:54:09.302127+05:30
+- **Local Path**: `ai/resources/aip-9-glossary.md`
+
+### 32. [astral-sh/uv](../ai/resources/astral-sh-uv.md) ([Source URL](https://github.com/astral-sh/uv))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:53:59.384052+05:30
+- **Local Path**: `ai/resources/astral-sh-uv.md`
+
+### 33. [pypa/hatch](../ai/resources/pypa-hatch.md) ([Source URL](https://github.com/pypa/hatch))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:53:54.366542+05:30
+- **Local Path**: `ai/resources/pypa-hatch.md`
+
+### 34. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-29T21:53:54.287051+05:30
 - **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
 
-### 29. [The official repository for Dart and Flutter packages.](../ai/resources/the-official-repository-for-dart-and-flutter-packa.md) ([Source URL](https://pub.dev))
+### 35. [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md) ([Source URL](https://discourse.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:26.880606+05:30
-- **Local Path**: `ai/resources/the-official-repository-for-dart-and-flutter-packa.md`
+- **Collected At**: 2026-06-29T21:53:06.935195+05:30
+- **Local Path**: `ai/resources/discourse-where-tech-companies-build-communities.md`
 
-### 30. [Dart programming language](../ai/resources/dart-programming-language.md) ([Source URL](https://dart.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:26.115573+05:30
-- **Local Path**: `ai/resources/dart-programming-language.md`
-
-### 31. [Google Colab](../ai/rag/google-colab.md) ([Source URL](https://colab.research.google.com))
+### 36. [Solutions for App Development Challenges | Firebase](../ai/rag/solutions-for-app-development-challenges-firebase.md) ([Source URL](https://firebase.google.com/use-cases))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:03:24.460015+05:30
-- **Local Path**: `ai/rag/google-colab.md`
+- **Collected At**: 2026-06-29T21:52:56.578565+05:30
+- **Local Path**: `ai/rag/solutions-for-app-development-challenges-firebase.md`
 
-### 32. [SpeechifyInc/ai-api-examples](../ai/resources/speechifyinc-ai-api-examples.md) ([Source URL](https://github.com/speechifyinc/ai-api-examples))
+### 37. [The Firebase Blog](../ai/rag/the-firebase-blog.md) ([Source URL](https://firebase.blog))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:52:47.057343+05:30
+- **Local Path**: `ai/rag/the-firebase-blog.md`
+
+### 38. [googleapis/googleapis](../ai/resources/googleapis-googleapis.md) ([Source URL](https://github.com/googleapis/googleapis))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:21.945553+05:30
-- **Local Path**: `ai/resources/speechifyinc-ai-api-examples.md`
+- **Collected At**: 2026-06-29T21:52:43.745365+05:30
+- **Local Path**: `ai/resources/googleapis-googleapis.md`
 
-### 33. [Factory Images for Nexus and Pixel Devices | Google Play services | Google for Developers](../ai/resources/factory-images-for-nexus-and-pixel-devices-google.md) ([Source URL](https://developers.google.com/android/images))
+### 39. [Client libraries and Cloud APIs explained | Google Cloud SDK | Google Cloud Documentation](../ai/rag/client-libraries-and-cloud-apis-explained-google-c.md) ([Source URL](https://cloud.google.com/apis/docs/client-libraries-explained))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:52:40.930632+05:30
+- **Local Path**: `ai/rag/client-libraries-and-cloud-apis-explained-google-c.md`
+
+### 40. [Develop for Android | Android Developers](../ai/resources/develop-for-android-android-developers.md) ([Source URL](https://developer.android.com/docs))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:21.793673+05:30
-- **Local Path**: `ai/resources/factory-images-for-nexus-and-pixel-devices-google.md`
+- **Collected At**: 2026-06-29T21:52:23.993285+05:30
+- **Local Path**: `ai/resources/develop-for-android-android-developers.md`
 
-### 34. [superproject](../ai/resources/superproject.md) ([Source URL](https://cs.android.com/android/platform/superproject))
+### 41. [Android Jetpack Dev Resources - Android Developers](../ai/rag/android-jetpack-dev-resources-android-developers.md) ([Source URL](https://developer.android.com/jetpack))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:52:23.743983+05:30
+- **Local Path**: `ai/rag/android-jetpack-dev-resources-android-developers.md`
+
+### 42. [Project Summaries - Python Packaging User Guide](../ai/rag/project-summaries-python-packaging-user-guide.md) ([Source URL](https://packaging.python.org/en/latest/key_projects))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:52:19.926325+05:30
+- **Local Path**: `ai/rag/project-summaries-python-packaging-user-guide.md`
+
+### 43. [Download Android Studio & App Tools - Android Developers](../ai/rag/download-android-studio-app-tools-android-develope.md) ([Source URL](https://developer.android.com/studio))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:52:18.566770+05:30
+- **Local Path**: `ai/rag/download-android-studio-app-tools-android-develope.md`
+
+### 44. [pradyunsg/furo](../ai/resources/pradyunsg-furo.md) ([Source URL](https://github.com/pradyunsg/furo))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:21.773243+05:30
-- **Local Path**: `ai/resources/superproject.md`
+- **Collected At**: 2026-06-29T21:51:47.939016+05:30
+- **Local Path**: `ai/resources/pradyunsg-furo.md`
 
-### 35. [Medium’s Data Logs. At Medium, we maintain two types of… | by Medium | Medium Policy](../ai/agents/mediums-data-logs-at-medium-we-maintain-two-types.md) ([Source URL](https://medium.com/policy/mediums-data-logs-4d2f799a7d52))
+### 45. [Python Packaging Authority — PyPA documentation](../ai/resources/python-packaging-authority-pypa-documentation.md) ([Source URL](https://pypa.io/en/latest))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-29T21:51:46.794572+05:30
+- **Local Path**: `ai/resources/python-packaging-authority-pypa-documentation.md`
+
+### 46. [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md) ([Source URL](https://haystack.deepset.ai/cookbook))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:51:42.883164+05:30
+- **Local Path**: `ai/rag/cookbook-haystack.md`
+
+### 47. [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) ([Source URL](https://electronjs.org))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:51:40.912744+05:30
+- **Local Path**: `ai/rag/build-cross-platform-desktop-apps-with-javascript.md`
+
+### 48. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-29T17:03:13.937174+05:30
-- **Local Path**: `ai/agents/mediums-data-logs-at-medium-we-maintain-two-types.md`
+- **Collected At**: 2026-06-29T21:51:38.693926+05:30
+- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
 
-### 36. [Medium/policy](../ai/resources/medium-policy.md) ([Source URL](https://github.com/medium/policy))
+### 49. [Tutorials | Haystack](../ai/rag/tutorials-haystack.md) ([Source URL](https://haystack.deepset.ai/tutorials))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-29T21:51:37.660044+05:30
+- **Local Path**: `ai/rag/tutorials-haystack.md`
+
+### 50. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:03:11.094258+05:30
-- **Local Path**: `ai/resources/medium-policy.md`
-
-### 37. [Build fast. Run any code fearlessly. · Fly](../ai/rag/build-fast-run-any-code-fearlessly-fly.md) ([Source URL](http://fly.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:39.382415+05:30
-- **Local Path**: `ai/rag/build-fast-run-any-code-fearlessly-fly.md`
-
-### 38. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:23.871440+05:30
-- **Local Path**: `ai/rag/electron-electron.md`
-
-### 39. [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md) ([Source URL](https://llamaindex.ai/llamaparse))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:23.509652+05:30
-- **Local Path**: `ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md`
-
-### 40. [GitHub Copilot CLI command reference - GitHub Docs](../ai/agents/github-copilot-cli-command-reference-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-29T17:02:22.656664+05:30
-- **Local Path**: `ai/agents/github-copilot-cli-command-reference-github-docs.md`
-
-### 41. [npm Status](../ai/rag/npm-status.md) ([Source URL](https://status.npmjs.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:22.452841+05:30
-- **Local Path**: `ai/rag/npm-status.md`
-
-### 42. [About building integrations - GitHub Docs](../ai/rag/about-building-integrations-github-docs.md) ([Source URL](https://docs.github.com/get-started/exploring-integrations/about-building-integrations))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:21.195366+05:30
-- **Local Path**: `ai/rag/about-building-integrations-github-docs.md`
-
-### 43. [Getting Started | Electron Forge](../ai/rag/getting-started-electron-forge.md) ([Source URL](https://electronforge.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:20.151096+05:30
-- **Local Path**: `ai/rag/getting-started-electron-forge.md`
-
-### 44. [github/codeql](../ai/resources/github-codeql.md) ([Source URL](https://github.com/github/codeql))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:02:18.885189+05:30
-- **Local Path**: `ai/resources/github-codeql.md`
-
-### 45. [microsoft/vscode](../ai/rag/microsoft-vscode.md) ([Source URL](https://github.com/microsoft/vscode))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:18.882439+05:30
-- **Local Path**: `ai/rag/microsoft-vscode.md`
-
-### 46. [Researching with GitHub Copilot CLI - GitHub Docs](../ai/rag/researching-with-github-copilot-cli-github-docs.md) ([Source URL](https://docs.github.com/en/copilot/concepts/agents/copilot-cli/research))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:16.773195+05:30
-- **Local Path**: `ai/rag/researching-with-github-copilot-cli-github-docs.md`
-
-### 47. [supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub](../ai/rag/supabase-supabase.md) ([Source URL](https://github.com/supabase/supabase))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-29T17:02:14.199240+05:30
-- **Local Path**: `ai/rag/supabase-supabase.md`
-
-### 48. [mishoo/UglifyJS](../ai/resources/mishoo-uglifyjs.md) ([Source URL](https://github.com/mishoo/uglifyjs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:02:13.785214+05:30
-- **Local Path**: `ai/resources/mishoo-uglifyjs.md`
-
-### 49. [webpack](../ai/resources/webpack.md) ([Source URL](https://webpack.js.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:02:13.301528+05:30
-- **Local Path**: `ai/resources/webpack.md`
-
-### 50. [webm/libwebp - Git at Google](../ai/resources/webm-libwebp-git-at-google.md) ([Source URL](https://chromium.googlesource.com/webm/libwebp))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-29T17:02:09.944844+05:30
-- **Local Path**: `ai/resources/webm-libwebp-git-at-google.md`
+- **Collected At**: 2026-06-29T21:51:35.689881+05:30
+- **Local Path**: `ai/resources/introduction-electron.md`
 
 ---
-*Index generated on 2026-06-29T17:10:49.352280+05:30*
+*Index generated on 2026-06-29T21:58:17.759218+05:30*

@@ -2,7 +2,7 @@
 title: 7 Best GitHub Repositories For Mastering RAG Systems
 archive_category: prompt-libraries
 source_category: ai/rag
-source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
+source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
 local_vault_path: ai/rag/7-best-github-repositories-for-mastering-rag-syste.md
 quality_score: 70
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **LangChain**: Open-source LLM toolkit with modular components (document loading, text splitting, embedding, retrieval, output generation) and multi-language support (Python, JS/TS), integrating with providers like OpenAI, Hugging Face, and Azure. Features tool chaining, prompt templates, agents, and memory for RAG pipelines.
+- **LangChain**: Open-source LLM toolkit (MIT license) with 70K+ GitHub stars, supporting Python, JavaScript, and TypeScript; provides modular components (prompt templates, LLM wrappers, vector stores) for end-to-end RAG pipelines, including agent workflows and memory integration with providers like OpenAI, Hugging Face, and Azure.
 
-- **RAGFlow**: Open-source RAG framework optimized for document understanding, featuring adaptive chunking, OCR integration, and multi-modal retrieval (text, tables, ima
+- **RAG Architecture**: Integrates external knowledge retrieval to augment LLM responses, mitigating hallucinations and knowledge cut-off issues; enables context-awa
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
+Original source URL: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
 
 ## Local Vault File
 

@@ -12,8 +12,11 @@ resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 selection_reason:
@@ -34,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model performance and retrieval efficiency.
-- **Technical Implementation**: Includes methodologies for integrating large language models (LLMs) with vector databases, emphasizing chunking strategies, embedding models, and retrieval tuning.
-- **Evaluation Metrics**: Implements benchmarking for RAG systems, covering metrics like answer relevan
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Mistral) for enhanced contextual accuracy.
+
+- **Hybrid Retrieval Strategies**: Combines dense (embedding-based) and sparse (BM25/keyword) retrieval methods to improve recall and precision, with dynamic reranking via cross-encoders (e.g., BERT-based) for query refin
 
 ## Use Cases
 

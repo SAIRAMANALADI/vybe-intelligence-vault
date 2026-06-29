@@ -13,7 +13,6 @@ importance: medium
 tags:
 - github-repo
 - hackernews
-- openai
 - python
 - rag
 selection_reason:
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Python-based toolkit for constructing production-grade Retrieval Augmented Generation (RAG) systems optimized for user data integration.
-
-- **Key Features**: Includes modular components for data ingestion, embedding generation, vector storage, retrieval, and LLM integration to streamline end-to-end RAG pipeline development.
-
-- **Technical Stack**: Leverages Python with dependencies for vector databases (e.g., FAISS, Chroma), embeddings (e.g., Sentence-Transformers), and
+- **Purpose**: Toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for user-specific data.
+- **Key Features**: Supports modular pipeline construction with components for data ingestion, retrieval, and generation, ensuring scalability and efficiency.
+- **Technical Stack**: Python-based, leveraging GenAI and developer tools for integration with modern RAG architectures.
 
 ## Use Cases
 

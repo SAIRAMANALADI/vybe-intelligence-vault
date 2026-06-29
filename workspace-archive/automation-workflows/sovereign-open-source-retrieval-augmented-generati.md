@@ -2,7 +2,7 @@
 title: Sovereign, Open Source Retrieval-Augmented Generation
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://open-rag.ai
+source_url: https://www.open-rag.ai/
 resource_id: blog:sovereign-open-source-retrieval-augmented-generati
 local_vault_path: ai/rag/sovereign-open-source-retrieval-augmented-generati.md
 quality_score: 70
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: OpenRAG is an AGPL-licensed, open-source framework for Retrieval-Augmented Generation (RAG) designed for transparency, rapid experimentation, and production-scale deployment of document-grounded AI systems.
+- **Modular RAG Framework**: OpenRAG is an open-source, AGPL-licensed framework designed for modular RAG experimentation, enabling production-scale deployment of document-grounded AI systems with transparent, auditable workflows.
 
-- **Optimized Embedding-Reranking Pipeline**: Benchmarked on SciFact dataset, the framework pairs **KaLM-mini-instruct** with **GTE** or **Jina v2** embedders for optimal performance/latency trade-offs in retrieval tasks.
+- **Hybrid Retrieval & LLM Agnosticism**: Implements hybrid retrieval (semantic + BM25) with optional HyDE query reformulation, supports multilingual reranking (GTE/Jina v2), and integrates seamlessly with any LLM (Mistral, GPT, Claude) via OpenAI-compatible APIs.
 
-- **Distributed & Multimodal Processing*
+- *
 
 ## Use Cases
 
@@ -53,7 +53,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://open-rag.ai
+Original source URL: https://www.open-rag.ai/
 
 ## Local Vault File
 

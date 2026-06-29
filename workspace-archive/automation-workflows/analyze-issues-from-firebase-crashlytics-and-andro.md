@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio integrates Firebase Crashlytics and Android Vitals data directly into the IDE, requiring **Android Studio Narwhal 4 Feature Drop** or newer (or within 10 months of release) for full functionality, including crash stack traces, severity filtering, and device/version breakdowns.
+- **Integration & Compatibility**: App Quality Insights (AQI) in Android Studio integrates Firebase Crashlytics and Android Vitals data, requiring **Android Studio Narwhal 4 Feature Drop** or newer (10-month support window). AQI supports crash analysis, stack traces, and issue filtering directly in the IDE, with offline mode for cached data.
 
-- **Key Features**: AQI highlights crash-related code lines, provides stack trace navigation to source code, supports **version control diffs
+- **Key Features**: AQI highlights crash-related code lines, provides stack traces with code navigation, and offers statistics grouped by device/OS. Suppor
 
 ## Use Cases
 

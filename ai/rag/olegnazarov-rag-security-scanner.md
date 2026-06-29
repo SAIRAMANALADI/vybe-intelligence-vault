@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-06-29T16:57:09.337301+05:30'
+collected_at: '2026-06-29T21:44:37.280229+05:30'
 published_at: '2026-06-24T12:14:44Z'
 tags:
 - github-repo
-- hackernews
 - openai
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-06-29T16:57:09.337301+05:30'
-last_seen: '2026-06-29T16:57:09.337301+05:30'
-last_checked: '2026-06-29T16:57:09.337301+05:30'
+first_seen: '2026-06-29T21:44:37.280229+05:30'
+last_seen: '2026-06-29T21:44:37.280229+05:30'
+last_checked: '2026-06-29T21:44:37.280229+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing.
-- **Features**: Detects prompt injection, OWASP Top 10 LLM risks, and performs red-team security audits.
-- **Technical Stack**: Python-based tool leveraging LLM security frameworks for penetration testing and vulnerability scanning.
+- **Purpose**: A Python-based security scanner designed to detect vulnerabilities in RAG (Retrieval-Augmented Generation) and LLM (Large Language Model) applications, including prompt injection, data leakage, and adversarial attacks.
+- **Features**: Implements automated testing for OWASP Top 10 LLM risks, red-team methodologies, and penetration testing tailored for AI-powered systems (e.g., chatbots, virtual assistants).
+- **Scope**: Supports security audits for OpenAI-based models and integrates with CI/CD pipelines for continuous vulnerability assessment.
 
 ## Why It Matters
 

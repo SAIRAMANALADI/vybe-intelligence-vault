@@ -4,17 +4,18 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/enescingoz/awesome-n8n-templates
-collected_at: '2026-06-29T16:56:09.189372+05:30'
-published_at: '2026-06-29T09:12:11Z'
+collected_at: '2026-06-29T21:43:32.216049+05:30'
+published_at: '2026-06-29T15:03:18Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - rag
 - scripts
 - unknown
 - workflows
-stars: 23537
+stars: 23546
 language: Unknown
 status: active
 license: NOASSERTION
@@ -22,9 +23,9 @@ archived: false
 created_at: '2025-05-08T18:34:01Z'
 pushed_at: '2026-06-20T19:12:52Z'
 resource_id: github:enescingoz/awesome-n8n-templates
-first_seen: '2026-06-29T16:56:09.189372+05:30'
-last_seen: '2026-06-29T16:56:09.189372+05:30'
-last_checked: '2026-06-29T16:56:09.189372+05:30'
+first_seen: '2026-06-29T21:43:32.216049+05:30'
+last_seen: '2026-06-29T21:43:32.216049+05:30'
+last_checked: '2026-06-29T21:43:32.216049+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Extensive n8n Template Collection**: Repository hosts **280+ pre-built automation workflows** for platforms like Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, and OpenAI, covering AI agents, RAG chatbots, email automation, DevOps, and document processing.
+- **Repository**: `enescingoz/awesome-n8n-templates` hosts **280+ pre-built n8n automation workflows** for platforms like Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, and OpenAI, covering AI agents, RAG chatbots, email automation, DevOps, and document processing.
 
-- **Open-Source & Self-Hosted**: Templates are **open-source** and designed for **self-hosted** deployment, enabling low-code/no-code automation without vendor lock-in.
+- **Technical Scope**: Supports **AI automation, low-code/no-code workflows**, and **self-hosted integrations**, with templates for AI agents, chatbots, and multi-platform bot interactions (e.g., Telegram, Discord).
 
-- **High Community Adoption**: Repository has **23,537+ stars** and **6,205+ forks**, indicating strong community engagement and validation for n8n automation workflows.
+- **Metadata**: **23,546 stars**, **6,206 forks**, last updated **2026-06-29**, and categorized under topics like `n8n-automation`, `no-code-ai`, and `workflow-automation`.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: enescingoz
-- Stars: 23537
-- Forks: 6205
+- Stars: 23546
+- Forks: 6206
 - Language: Unknown
 - Topics: ai-agents, ai-automation, automation, automation-templates, awesome, awesome-list, integration, low-code, n8n, n8n-automation, n8n-template, no-code-ai, no-code-automation, self-hosted, telegram-bot, workflow-automation
-- Last Updated: 2026-06-29T09:12:11Z
+- Last Updated: 2026-06-29T15:03:18Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-05-08T18:34:01Z

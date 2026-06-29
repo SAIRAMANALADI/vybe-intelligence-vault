@@ -4,14 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-06-29T16:56:59.329230+05:30'
+collected_at: '2026-06-29T21:44:22.242723+05:30'
 published_at: '2026-06-11T16:55:48Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- meta-ai
-- models
 - paper
 - python
 - rag
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-06-29T16:56:59.329230+05:30'
-last_seen: '2026-06-29T16:56:59.329230+05:30'
-last_checked: '2026-06-29T16:56:59.329230+05:30'
+first_seen: '2026-06-29T21:44:22.242723+05:30'
+last_seen: '2026-06-29T21:44:22.242723+05:30'
+last_checked: '2026-06-29T21:44:22.242723+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports focused on retrieval-augmented generation (RAG) architectures, evaluation methodologies, and optimization techniques.
-- **Python-Centric Tooling**: Includes Python-based implementations, frameworks (e.g., LangChain, LlamaIndex), and libraries for RAG pipeline development, retrieval mechanisms, and LLM integration.
-- **Continuous Updates**: Last synchronized in June 2026, ensuring inclusion of recent advancements in RAG research, hybrid retrieval methods, and context-aware generation strategies.
+- **Curated RAG Resources**: Repository compiling peer-reviewed papers, frameworks, and tools focused on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
+
+- **Technical Scope**: Encompasses Python-based implementations, empirical studies, and theoretical advancements in RAG, including retrieval mechanisms, integration strategies, and performance benchmarks.
+
+- **Maintenance Status**: Last updated June 11, 2026, with 135 stars and 12 forks, indicating active community engagement and periodic updates.
 
 ## Why It Matters
 

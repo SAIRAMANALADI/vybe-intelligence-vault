@@ -13,6 +13,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `91` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
@@ -32,6 +37,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`next-js-by-vercel-the-react-framework.md`](../../ai/rag/next-js-by-vercel-the-react-framework.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Overview - Mem0](https://docs.mem0.ai/overview)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`overview-mem0.md`](../../ai/rag/overview-mem0.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Builder.io: Collaborative Platform to Build With AI Agents](https://builder.io)
 - **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
@@ -58,16 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-24937.md`](../../ai/rag/arxiv-2606-24937.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](../../web-development/nextjs/asbhogal-fyrre-magazine.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-29 17:12 IST*
+*Last updated: 2026-06-29 21:59 IST*

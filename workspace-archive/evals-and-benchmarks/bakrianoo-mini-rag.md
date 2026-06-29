@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational RAG Pipeline**: Mini-RAG provides a step-by-step guide to constructing a production-grade Retrieval-Augmented Generation (RAG) application, covering architecture, implementation, and deployment.
+- **Educational RAG Pipeline**: Demonstrates end-to-end production-grade Retrieval-Augmented Generation (RAG) application development with step-by-step guidance, covering indexing, retrieval, and generation workflows.
 
-- **Tech Stack**: Built with Python, FastAPI for the backend, Docker for containerization, and integrates GenAI components for retrieval and generation workflows.
+- **Tech Stack**: Implements FastAPI for backend services, Docker for containerization, and integrates GenAI models (e.g., LLMs) with Python-based pipelines for modularity and scalability.
 
-- **Modular Design**: Repository includes structured components for document processing, vector storage (e.g., FAISS/Chroma)
+- **Modular Architecture**: Features a structured repository with components for document p
 
 ## Use Cases
 

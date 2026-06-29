@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-29T16:56:39.255481+05:30'
+collected_at: '2026-06-29T21:44:02.204011+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
 - benchmark
 - github-repo
+- models
 - python
 - rag
 stars: 263
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-29T16:56:39.255481+05:30'
-last_seen: '2026-06-29T16:56:39.255481+05:30'
-last_checked: '2026-06-29T16:56:39.255481+05:30'
+first_seen: '2026-06-29T21:44:02.204011+05:30'
+last_seen: '2026-06-29T21:44:02.204011+05:30'
+last_checked: '2026-06-29T21:44:02.204011+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging Vietnamese-specific embeddings and retrieval mechanisms.
-- Utilizes **Python** with frameworks like `LangChain`, `FAISS`, and `Vietnamese embedding models` (e.g., `vinai/phobert-base`) for efficient document retrieval and generation.
-- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **retrieval evaluation**, and **integration with LLMs** for Vietnamese context-aware responses.
+- **Vietnamese RAG Implementation**: Demonstrates best practices for building a Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, including text preprocessing, embedding, and retrieval strategies tailored for Vietnamese corpora.
+
+- **Modular Python Architecture**: Features a structured backend with components for document ingestion, vector storage (e.g., FAISS/Weaviate), retrieval pipelines, and LLM integration (e.g., ViT5, PhoBERT), with clear separation of concerns for scalability.
+
+- **Evaluation & Optimization**: Includes metrics for retrieval performance (e.g., MRR, Recall@K) and generation quality, with tools for fine-tuning embeddings (e.g., Vietnamese-specific SBERT models) and prompt engineering for domain-specific QA tasks.
 
 ## Why It Matters
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive API Coverage**: Encompasses Python and TypeScript packages for LangChain, LangGraph, Deep Agents, LangSmith, and their integrations, detailing classes, functions, and types.
-- **Structured Documentation**: Provides unified reference documentation across the LangChain ecosystem for technical implementation.
-- **Separation of Resources**: Directs users to conceptual guides, tutorials, and additional documentation via the main site ([docs.langchain.com](https://docs.langchain.com)
+- **Unified API Reference**: Provides centralized documentation for LangChain, LangGraph, Deep Agents, LangSmith, and integrations, covering Python and TypeScript packages with detailed classes, functions, and types.
+
+- **Cross-Ecosystem Coverage**: Encompasses the entire LangChain ecosystem, including core libraries and integrations, ensuring comprehensive technical reference for developers.
+
+- **Separate Guides & Tutorials**: Directs users to conceptual documentation and learning resources via
 
 ## Use Cases
 

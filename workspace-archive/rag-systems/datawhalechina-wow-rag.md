@@ -6,7 +6,7 @@ source_url: https://github.com/datawhalechina/wow-rag
 resource_id: github:datawhalechina/wow-rag
 local_vault_path: ai/rag/datawhalechina-wow-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,7 +14,6 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and educational purposes, implemented primarily in Jupyter Notebooks.
+- **Framework**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, enabling modular integration of retrieval and generation components.
 
-- **Core Components**: Includes modular pipelines for document ingestion, embedding generation, vector storage, and retrieval-augmented generation, enabling end-to-end RAG workflows with minimal setup.
+- **Tutorial**: Includes step-by-step tutorials for building and deploying RAG pipelines, covering data ingestion, embedding generation, vector storage, and LLM integration.
 
-- **Educational Focus**: Provides tutorials and examples to demonstrate RAG implementation, emphasi
+- **Compatibility**: Designed for multi-platform use (local/cloud) with minimal dependencies, leveraging Python-based t
 
 ## Use Cases
 

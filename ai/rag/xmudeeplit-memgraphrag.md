@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-29T16:57:34.360333+05:30'
+collected_at: '2026-06-29T21:44:57.299379+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-29T16:57:34.360333+05:30'
-last_seen: '2026-06-29T16:57:34.360333+05:30'
-last_checked: '2026-06-29T16:57:34.360333+05:30'
+first_seen: '2026-06-29T21:44:57.299379+05:30'
+last_seen: '2026-06-29T21:44:57.299379+05:30'
+last_checked: '2026-06-29T21:44:57.299379+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning over structured graphs.
+- **Memory-Based Multi-Agent System**: Implements a graph retrieval-augmented generation (GraphRAG) framework where multiple agents collaboratively construct and query a memory graph for enhanced knowledge retrieval and generation.
 
-- **Graph Construction & Ontology Integration**: Implements automated graph construction from unstructured data and incorporates ontology-driven schema to enhance semantic retrieval and contextual understanding in multi-agent interactions.
+- **Ontology-Driven Graph Construction**: Dynamically builds and maintains an ontology-based graph structure to organize and retrieve information, improving contextual relevance in RAG tasks.
 
-- **KDD 2026 Contribution**: Proposes a scalable, Python-based system for graph-enhanced RAG, optimizing long-term memory retention and multi-agent collaboration for improved knowledge synthesis and generation tasks.
+- **Python Implementation**: Provides an open-source Python repository with modular components for agent-memory integration, graph construction, and multi-agent coordination, optimized for scalability and adaptability.
 
 ## Why It Matters
 

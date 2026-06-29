@@ -43,9 +43,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nirdiamant-agents-towards-production.md`](../../ai/rag/nirdiamant-agents-towards-production.md)
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag)
@@ -62,11 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [cli/cli](https://github.com/cli/cli)
-- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-29 17:12 IST*
+*Last updated: 2026-06-29 21:59 IST*

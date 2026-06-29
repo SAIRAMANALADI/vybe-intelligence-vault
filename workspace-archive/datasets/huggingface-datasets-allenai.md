@@ -12,6 +12,7 @@ resource_kind: dataset
 importance: medium
 tags:
 - dataset
+- paper
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Model**: `SCIFACT_xlm_roberta_large` is a fine-tuned XLM-RoBERTa-large model for scientific claim verification.
-- **Performance**: Achieves high accuracy on the SCIFACT dataset, designed to validate scientific claims against evidence.
-- **Use Case**: Optimized for zero-shot or few-shot scientific fact-checking tasks, leveraging cross-lingual transfer capabilities.
+- **Model**: `SCIFACT_xlm_roberta_large` is a fine-tuned variant of XLM-RoBERTa-large for scientific claim verification, optimized for detecting factuality in scientific claims.
+- **Performance**: Achieves high accuracy in classifying claims as supported, refuted, or not enough info, leveraging cross-lingual understanding from XLM-RoBERTa.
+- **Dataset**: Trained on the SCIFACT dataset, which contains scientific claims paired with evidence from research papers for fact-checking.
 
 ## Use Cases
 

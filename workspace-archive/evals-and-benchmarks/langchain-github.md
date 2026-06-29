@@ -6,13 +6,14 @@ source_url: https://github.com/langchain-ai
 resource_id: blog:langchain-github
 local_vault_path: ai/rag/langchain-github.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - rag
 - web-crawled
 - youtube
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-*   LangChain offers core OSS libraries (`LangChain`, `LangGraph`, `Deep Agents`) in Python/JS for building LLM applications, enabling reusable components, graph-based agent construction, and advanced agentic capabilities (planning, subagents, filesystem interaction).
-*   The commercial `LangSmith` platform provides end-to-end tooling for developing, monitoring, and evaluating production-grade LLM applications and agent systems.
-*   LangChain extends its ecosystem with OSS tools like `Deep Agent
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as computational graphs; Deep Agents/Deep Agents.js support agent planning, subagent delegation, and filesystem interactions.
+
+- **Commercial Platform**: LangSmith offers a production-grade environment for developing, deploying, and monitoring LLM applications with observability and evaluation tools.
+
+- **OSS Extensions & Protocols**: D
 
 ## Use Cases
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-29T16:56:49.274505+05:30'
+collected_at: '2026-06-29T21:44:17.226801+05:30'
 published_at: '2026-06-29T05:59:26Z'
 tags:
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
 stars: 1339
@@ -18,9 +19,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-29T16:56:49.274505+05:30'
-last_seen: '2026-06-29T16:56:49.274505+05:30'
-last_checked: '2026-06-29T16:56:49.274505+05:30'
+first_seen: '2026-06-29T21:44:17.226801+05:30'
+last_seen: '2026-06-29T21:44:17.226801+05:30'
+last_checked: '2026-06-29T21:44:17.226801+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval methods, and integration strategies.
+- **Curated RAG Resources**: A comprehensive list of advanced retrieval-augmented generation (RAG) techniques, frameworks, and tools for Large Language Models (LLMs), covering embeddings, retrieval mechanisms, and integration strategies.
 
-- **Multi-Topic Coverage**: Focuses on key areas including LLM optimization, embedding models (e.g., dense/sparse retrieval), and retrieval-augmented generation pipelines for enhanced factuality and context-aware generation.
+- **Technical Scope**: Focuses on retrieval-information optimization, LLM fine-tuning with augmented context, and advanced embedding models to enhance generative performance.
 
-- **Active Maintenance**: Repository is regularly updated (last commit: June 29, 2026) with community-driven contributions, ensuring relevance for cutting-edge RAG research and implementation.
+- **Repository Metrics**: 1,339 stars, 84 forks, last updated June 29, 2026, with topics including embeddings, LLMs, and RAG-specific methodologies.
 
 ## Why It Matters
 

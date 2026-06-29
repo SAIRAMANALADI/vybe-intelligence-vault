@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/adrianhajdin/project_metaverse
-collected_at: '2026-06-28T22:07:21.957397+05:30'
-published_at: '2026-06-28T15:17:46Z'
+collected_at: '2026-06-29T21:42:24.158915+05:30'
+published_at: '2026-06-29T15:19:30Z'
 tags:
 - animation
 - frontend_ui
-stars: 864
+stars: 863
 language: JavaScript
 status: active
 resource_id: github:adrianhajdin/project_metaverse
 first_seen: '2026-06-12T10:40:18.782826+00:00'
-last_seen: '2026-06-28T22:07:21.957397+05:30'
-last_checked: '2026-06-28T22:07:21.957397+05:30'
+last_seen: '2026-06-29T21:42:24.158915+05:30'
+last_checked: '2026-06-29T21:42:24.158915+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: adrianhajdin
-- Stars: 864
+- Stars: 863
 - Forks: 303
 - Language: JavaScript
 - Topics: react
-- Last Updated: 2026-06-28T15:17:46Z
+- Last Updated: 2026-06-29T15:19:30Z
 
 ## Possible Use Cases
 

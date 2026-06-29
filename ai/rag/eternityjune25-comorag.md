@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-29T16:57:29.331724+05:30'
+collected_at: '2026-06-29T21:44:57.241986+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-29T16:57:29.331724+05:30'
-last_seen: '2026-06-29T16:57:29.331724+05:30'
-last_checked: '2026-06-29T16:57:29.331724+05:30'
+first_seen: '2026-06-29T21:44:57.241986+05:30'
+last_seen: '2026-06-29T21:44:57.241986+05:30'
+last_checked: '2026-06-29T21:44:57.241986+05:30'
 health_score: 100
 ---
 
@@ -28,7 +29,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements ComoRAG, a Retrieval-Augmented Generation (RAG) system with
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
+
+- **Stateful Reasoning Mechanism**: Implements dynamic memory retrieval and update policies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
+
+- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics for long-form reasoning tasks, demonstrating superior performance in coherence, factual consistency, and contextual retention compared to traditional RAG baselines.
 
 ## Why It Matters
 

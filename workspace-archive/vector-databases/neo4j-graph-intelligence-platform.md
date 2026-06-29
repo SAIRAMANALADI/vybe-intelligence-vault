@@ -2,18 +2,16 @@
 title: Neo4j Graph Intelligence Platform
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://neo4j.org/resources/cypher
+source_url: http://neo4j.com/
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
-- agents
 - rag
-- reddit
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -25,17 +23,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **GraphRAG Architecture**: Utilizes Neo4j Aura Agents for scalable, agentic Retrieval-Augmented Generation (RAG) systems, leveraging graph-based knowledge representation for enhanced contextual reasoning.
+- **Causal AI Integration**: Leveraging graph databases (e.g., Neo4j) to embed causal reasoning into AI models, enabling explainable decision-making by modeling relationships and dependencies between variables.
 
-- **Neo4j Aura Integration**: Demonstrates real-time, low-latency query processing via Neo4j’s cloud-native graph database, enabling dynamic agent interactions with structured knowledge graphs.
+- **Explainability as a Value Driver**: Positioning transparent AI decision-making as a trillion-dollar market opportunity by addressing regulatory compliance, trust, and ethical AI adoption in high-stakes domains.
 
-- **Performance Optimization**: Focuses on distributed agent orchestration, parallelized graph tr
+- **Real-Time Decision Context**: Utilizing dynamic knowledge graphs to
 
 ## Use Cases
 
@@ -45,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://neo4j.org/resources/cypher
+Original source URL: http://neo4j.com/
 
 ## Local Vault File
 

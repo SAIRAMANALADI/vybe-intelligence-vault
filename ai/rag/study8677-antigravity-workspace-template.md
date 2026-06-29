@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-29T16:56:14.276381+05:30'
+collected_at: '2026-06-29T21:43:42.201360+05:30'
 published_at: '2026-06-29T10:31:44Z'
 tags:
 - agents
@@ -13,8 +13,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
-- workflows
 stars: 1291
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-29T16:56:14.276381+05:30'
-last_seen: '2026-06-29T16:56:14.276381+05:30'
-last_checked: '2026-06-29T16:56:14.276381+05:30'
+first_seen: '2026-06-29T21:43:42.201360+05:30'
+last_seen: '2026-06-29T21:43:42.201360+05:30'
+last_checked: '2026-06-29T21:43:42.201360+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
-- **MCP server implementation** in Python, integrating RAG, knowledge graphs, and OpenAI-compatible APIs for enhanced code intelligence and search.
-- **Modular template** supporting IDE plugins (e.g., Copilot, Windsurf) and MCP-based multi-agent workflows for developer tooling automation.
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI).
+- **MCP server integration** with RAG and knowledge graph capabilities for semantic codebase search and retrieval.
+- **Python-based template** supporting OpenAI, MCP, and IDE plugins for Copilot-like contextual assistance.
 
 ## Why It Matters
 
@@ -45,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: study8677
 - Stars: 1291
-- Forks: 260
+- Forks: 259
 - Language: Python
 - Topics: agents-sdk, ai-agent, claude-code, code-intelligence, code-search, codebase-qa, codex-cli, copilot, cursor, developer-tools, ide-plugin, knowledge-graph, llm, mcp, mcp-server, multi-agent, openai, python, rag, windsurf
 - Last Updated: 2026-06-29T10:31:44Z

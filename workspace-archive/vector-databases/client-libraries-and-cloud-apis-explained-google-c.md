@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Cloud Client Libraries** are the recommended method for accessing Google Cloud APIs, offering idiomatic, language-specific wrappers that simplify API interactions, handle authentication, and leverage gRPC for performance benefits where available.
-- **Google API Client Libraries** serve as an alternative for languages/APIs without Cloud Client Library support, providing REST-only access with auto-generated (less idiomatic) interfaces, but still managing low-level communication.
-- **Custom cli
+- **Cloud Client Libraries** are the recommended method for interacting with Google Cloud APIs, offering idiomatic, language-specific wrappers that simplify API usage, handle authentication, and leverage gRPC for performance benefits where available.
+- **Google API Client Libraries** serve as an alternative when Cloud Client Libraries are unavailable, providing REST-only access with auto-generated interfaces but lacking gRPC support.
+- **Custom client code** can be developed to directly access G
 
 ## Use Cases
 

@@ -4,16 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/readthedocs/
-published_at: '2026-06-29T10:37:18.065257+05:30'
-collected_at: '2026-06-29T10:37:18.065271+05:30'
+published_at: '2026-06-29T21:47:35.989260+05:30'
+collected_at: '2026-06-29T21:47:35.989274+05:30'
 tags:
+- hackernews
 - reddit
+- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: blog:read-the-docs-github
-first_seen: '2026-06-29T10:37:18.065271+05:30'
-last_seen: '2026-06-29T10:37:18.065271+05:30'
-last_checked: '2026-06-29T10:37:18.065271+05:30'
+first_seen: '2026-06-29T21:47:35.989274+05:30'
+last_seen: '2026-06-29T21:47:35.989274+05:30'
+last_checked: '2026-06-29T21:47:35.989274+05:30'
 health_score: 100
 ---
 
@@ -21,16 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Primary Platform**: Read the Docs hosts and serves open-source documentation via a Python-based platform (`readthedocs.org`), supporting Sphinx-generated docs with a custom theme (`sphinx_rtd_theme`) in Sass.
+- **Hosting Platform**: Read the Docs is an open-source platform primarily written in Python, hosting documentation for over 100,000 projects, with core infrastructure managed via `readthedocs.org`.
 
-- **Key Repositories**:
-  - `readthedocs.org`: Core infrastructure (Python, MIT license, 8.4k+ stars).
-  - `ethical-ad-server`: Python-based ad server (AGPL-3.0, 268+ stars) for privacy-focused monetization.
-  - `readthedocs-docker-images`: Docker image definitions for reproducible builds.
+- **Key Repositories**: Primary components include `readthedocs.org` (core platform), `sphinx_rtd_theme` (Sphinx theme), `ethical-ad-server` (ad server for monetization), and `readthedocs-docker-images` (Dockerized environments for deployment).
 
-- **Secondary Tools**:
-  - `addons`: JavaScript client for Read the Docs integration.
-  - `ext-theme`: HTML-based drop-in replacement templates for site customization.
+- **Technical Stack**: Utilizes Sphinx for documentation generation, JavaScript/TypeScript for frontend components (`addons`, `actions`), and supports CI/CD via GitHub Actions with Docker-based deployment workflows.
 
 ## Why It Matters
 
@@ -40,12 +38,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T10:37:18.065257+05:30
+- Published: 2026-06-29T21:47:35.989260+05:30
 
 ## Related Tags
 
+- hackernews
 - reddit
+- scripts
 - web-crawled
+- workflows
 
 ## Source
 

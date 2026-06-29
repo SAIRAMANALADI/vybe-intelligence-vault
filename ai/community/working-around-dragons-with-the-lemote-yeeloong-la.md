@@ -13,13 +13,14 @@ collected_at: '2026-06-29T16:55:01.527068+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:working-around-dragons-with-the-lemote-yeeloong-la
 first_seen: '2026-06-29T01:16:49.995797+05:30'
 last_seen: '2026-06-29T16:55:01.527068+05:30'
 last_checked: '2026-06-29T16:55:01.527068+05:30'
 health_score: 100
 ---
+
 
 # Working around dragons with the Lemote Yeeloong laptop and OpenBSD
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-29T16:57:09.425302+05:30'
+collected_at: '2026-06-29T21:44:32.303801+05:30'
 published_at: '2026-06-29T04:52:55Z'
 tags:
 - frontend_ui
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-29T16:57:09.425302+05:30'
-last_seen: '2026-06-29T16:57:09.425302+05:30'
-last_checked: '2026-06-29T16:57:09.425302+05:30'
+first_seen: '2026-06-29T21:44:32.303801+05:30'
+last_seen: '2026-06-29T21:44:32.303801+05:30'
+last_checked: '2026-06-29T21:44:32.303801+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization and easy embedding in existing products.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for diverse use cases.
 
-- **Multi-LLM & Vectorstore Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible GenAI workflows with diverse storage and inference backends.
+- **Multi-Backend Support**: Compatible with any LLM (e.g., GPT4, Groq, Llama) and vector store (e.g., PGVector, Faiss), supporting flexible file ingestion and API-driven workflows for scalable deployment.
 
-- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React frontend, and TypeScript/JavaScript compatibility, facilitating end-to-end AI-powered applications with file ingestion, API-driven access, and privacy/security features.
+- **Tech Stack**: Built in Python with React/TypeScript frontend, Dockerized for deployment, and integrates with PostgreSQL, HTML, and JavaScript for full-stack GenAI application development.
 
 ## Why It Matters
 

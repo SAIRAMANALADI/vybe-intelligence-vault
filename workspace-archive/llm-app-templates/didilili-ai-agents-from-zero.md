@@ -6,7 +6,7 @@ source_url: https://github.com/didilili/ai-agents-from-zero
 resource_id: github:didilili/ai-agents-from-zero
 local_vault_path: ai/rag/didilili-ai-agents-from-zero.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `LLM App Templates`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering with a structured learning path for AI Agent Application Development Engineer roles.
-- **Enterprise-Level Projects & Deployment**: Includes hands-on projects, enterprise-grade deployment, fine-tuning, and end-to-end workflows from learning to production.
-- **Interview Preparation & Tooling**: Provides a curated interview question bank and integrates tools like Cursor, DeepAgent
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, structured for enterprise-level deployment, fine-tuning, and real-world projects aligned with AI application engineer roles.
+
+- **Full-Stack Learning Path**: Integrates hands-on projects, interview prep, and deployment workflows (skills, RAG, LLM) with tools like Cursor and DeepAgents, targeting end-to-end agentic AI development from zero to production.
+
+- **Enterprise & Inter
 
 ## Use Cases
 

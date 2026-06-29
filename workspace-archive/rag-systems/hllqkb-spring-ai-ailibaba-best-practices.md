@@ -6,9 +6,9 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # hllqkb/Spring-AI-Ailibaba-Best-Practices
@@ -26,19 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Implementation of RAG with Knowledge Graph**: Demonstrates Retrieval-Augmented Generation (RAG) using knowledge graphs for enhanced contextual retrieval and response generation in a Java-based Spring AI system.
-
-- **Agentic Workflows with SSE & Function Calls**: Integrates Server-Sent Events (SSE) for real-time streaming and FunctionCall for dynamic agent interactions, enabling multi-step reasoning and tool usage.
-
-- **Multimodal & Vector Storage Capabilities**: Supports image generation/und
+- **Implementation of RAG with Vector Databases**: Demonstrates Retrieval-Augmented Generation (RAG) using embeddings and vector databases for knowledge retrieval in AI Q&A systems.
+- **Agent-Based Workflows**: Integrates AI agents with Function Call capabilities for dynamic task execution, including SSE streaming for real-time responses.
+- **Multi-Modal AI Processing**: Supports image generation, image understanding, and historical message handling within a Java-based Spring AI framework.
 
 ## Use Cases
 

@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/hsuanyi-chou/shadcn-ui-expansions
-collected_at: '2026-06-26T15:22:55.111793+05:30'
-published_at: '2026-06-26T07:43:01Z'
+collected_at: '2026-06-29T21:42:24.668523+05:30'
+published_at: '2026-06-29T15:16:54Z'
 tags:
 - frontend_ui
-stars: 1927
+stars: 1928
 language: TypeScript
 status: active
 resource_id: github:hsuanyi-chou/shadcn-ui-expansions
 first_seen: '2026-06-12T10:40:21.841575+00:00'
-last_seen: '2026-06-26T15:22:55.111793+05:30'
-last_checked: '2026-06-26T15:22:55.111793+05:30'
+last_seen: '2026-06-29T21:42:24.668523+05:30'
+last_checked: '2026-06-29T21:42:24.668523+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: hsuanyi-chou
-- Stars: 1927
+- Stars: 1928
 - Forks: 84
 - Language: TypeScript
 - Topics: nextjs, react, shadcnui
-- Last Updated: 2026-06-26T07:43:01Z
+- Last Updated: 2026-06-29T15:16:54Z
 
 ## Possible Use Cases
 

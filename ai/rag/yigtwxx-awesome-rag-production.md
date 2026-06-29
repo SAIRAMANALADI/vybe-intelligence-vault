@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-06-29T16:56:44.305926+05:30'
+collected_at: '2026-06-29T21:44:12.232923+05:30'
 published_at: '2026-06-29T08:41:07Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 129
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-06-29T08:10:37Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-06-29T16:56:44.305926+05:30'
-last_seen: '2026-06-29T16:56:44.305926+05:30'
-last_checked: '2026-06-29T16:56:44.305926+05:30'
+first_seen: '2026-06-29T21:44:12.232923+05:30'
+last_seen: '2026-06-29T21:44:12.232923+05:30'
+last_checked: '2026-06-29T21:44:12.232923+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resources**: Repository aggregates production-grade tools, frameworks, and best practices for scalable Retrieval-Augmented Generation (RAG) systems, emphasizing battle-tested solutions.
-
-- **Technical scope**: Covers core components including embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMops workflows for deployment and scalability.
-
-- **Python-centric**: Focuses on Python-based implementations, with last update timestamped 2026-06-29, and includes 129 stars and 33 forks.
+- **Curated list**: Repository provides a vetted collection of production-grade tools, frameworks, and best practices for scalable RAG systems, covering components like embeddings, vector databases, and LLM integration.
+- **Technical scope**: Focuses on AI/ML engineering topics including LangChain, LLMOps, MLOps, and vector database optimization for high-performance RAG deployments.
+- **Python-centric**: All tools and frameworks listed are Python-based, ensuring compatibility with common AI/ML ecosystems and facilitating integration into existing pipelines.
 
 ## Why It Matters
 
@@ -44,7 +41,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: Yigtwxx
 - Stars: 129
-- Forks: 33
+- Forks: 32
 - Language: Python
 - Topics: ai, ai-engineering, artificial-intelligence, awesome, awesome-list, curated-list, embeddings, generative-ai, langchain, large-language-models, list, llm, llmops, machine-learning, mlops, production, python, rag, retrieval-augmented-generation, vector-database
 - Last Updated: 2026-06-29T08:41:07Z

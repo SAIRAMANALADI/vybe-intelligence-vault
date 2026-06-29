@@ -12,8 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - reddit
-- scripts
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-device development**: Android provides SDKs (e.g., Cross Device SDK) and tools (e.g., adaptive layouts) to optimize apps for phones, tablets, foldables, wearables, TVs, cars, XR, and ChromeOS, ensuring seamless multi-form-factor compatibility.
+- **Multi-device development**: Android provides tools and APIs for building adaptive apps across phones, tablets, foldables, wearables, TVs, cars, XR devices, and ChromeOS, ensuring consistent UX across form factors via Jetpack libraries and responsive design guidelines.
 
-- **AI/ML integration**: Android supports integration of Google’s AI/ML tools (e.g., Gemini) to enhance app functionality, enabling developers to build intelligent, context-aware experiences.
-
-- **Build & test automation**: Android Studio with G
+- **AI/ML integration**: Google’s AI stack (Gemini, ML Kit) enables developers to embed advanced AI features (e.g., on-device ML, generative AI) into apps for enhanced functionality like contextual recommendations or real-time
 
 ## Use Cases
 

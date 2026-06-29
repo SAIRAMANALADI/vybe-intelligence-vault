@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-29T16:57:29.397045+05:30'
+collected_at: '2026-06-29T21:44:57.296654+05:30'
 published_at: '2026-06-29T07:58:04Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-29T16:57:29.397045+05:30'
-last_seen: '2026-06-29T16:57:29.397045+05:30'
-last_checked: '2026-06-29T16:57:29.397045+05:30'
+first_seen: '2026-06-29T21:44:57.296654+05:30'
+last_seen: '2026-06-29T21:44:57.296654+05:30'
+last_checked: '2026-06-29T21:44:57.296654+05:30'
 health_score: 100
 ---
 
@@ -29,7 +30,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements Youtu-GraphRAG, a system for complex reasoning
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context-awareness.
+
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Integrates graph-based knowledge retrieval with LLMs, enabling dynamic subgraph extraction and structured prompting to improve factual accuracy and reasoning depth in downstream tasks.
+
+- **Optimized for Complex Reasoning**: Implements adaptive agent coordination and graph-augmented memory to handle multi-hop queries, with benchmarks demonstrating superior performance over traditional RAG and LLM-only approaches.
 
 ## Why It Matters
 

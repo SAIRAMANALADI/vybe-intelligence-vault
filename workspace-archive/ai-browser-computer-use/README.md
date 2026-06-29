@@ -12,10 +12,10 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (api - ESSENTIAL Tier)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (tutorial - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
 - [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit) (template - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
-- [secret-mars/loop-starter-kit](https://github.com/secret-mars/loop-starter-kit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-06-29 17:12 IST*
+*Last updated: 2026-06-29 21:59 IST*

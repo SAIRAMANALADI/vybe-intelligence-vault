@@ -8,7 +8,7 @@ local_vault_path: ai/rag/vector-embeddings-openai-api.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
@@ -29,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **New Models & Performance**: `text-embedding-3-small` (1536-dim, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 64.6% MTEB) offer lower cost, improved multilingual performance, and configurable output dimensions via the `dimensions` parameter.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, reducing vector size without significant performance loss (e.g., 256-dim `text-embedding-3-large` outperforms 1536-dim `text-embedding-ada-002`).
 
-- **Embedding Mechanics**: Text embeddings are floating-point vectors where cosine similarity between vectors measures semantic relatedness; default dimensions can be reduced (e.g., to 256) without significant performance loss using the `dimension
+- **API Integration**: Embeddings are generated via API calls to `/v1/embeddings` with input text and model specification;
 
 ## Use Cases
 

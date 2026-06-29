@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-29T16:57:04.325219+05:30'
+collected_at: '2026-06-29T21:44:27.288665+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- leaderboard
 - python
 - rag
 stars: 393
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-29T16:57:04.325219+05:30'
-last_seen: '2026-06-29T16:57:04.325219+05:30'
-last_checked: '2026-06-29T16:57:04.325219+05:30'
+first_seen: '2026-06-29T21:44:27.288665+05:30'
+last_seen: '2026-06-29T21:44:27.288665+05:30'
+last_checked: '2026-06-29T21:44:27.288665+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on comprehensive performance metrics across diverse retrieval and generation tasks.
-
-- **Evaluation Scope**: Tests include multi-stage retrieval (e.g., coarse-to-fine), context relevance, and generation quality (faithfulness, coherence) under Chinese linguistic constraints.
-
-- **Open-Source Toolkit**: Provides a Python-based framework with standardized datasets, evaluation scripts, and leaderboard support for reproducibility and community-driven benchmarking.
+- **Benchmark Design**: Introduces a **Chinese-language benchmark** for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on **retrieval quality, generation accuracy, and end-to-end performance** across diverse tasks.
+- **Evaluation Framework**: Implements **CRUD operations (Create, Read, Update, Delete)** to assess RAG models' ability to handle dynamic knowledge updates, including **contextual relevance, factual consistency, and adaptability**.
+- **Open-Source Toolkit**: Provides a **Python-based benchmarking suite** with standardized datasets, metrics, and evaluation protocols to facilitate reproducible research in Chinese RAG systems.
 
 ## Why It Matters
 

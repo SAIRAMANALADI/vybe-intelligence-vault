@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-29T16:57:04.398559+05:30'
+collected_at: '2026-06-29T21:44:32.241117+05:30'
 published_at: '2026-06-29T07:31:03Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - rag
 - unknown
 stars: 428
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-29T16:57:04.398559+05:30'
-last_seen: '2026-06-29T16:57:04.398559+05:30'
-last_checked: '2026-06-29T16:57:04.398559+05:30'
+first_seen: '2026-06-29T21:44:32.241117+05:30'
+last_seen: '2026-06-29T21:44:32.241117+05:30'
+last_checked: '2026-06-29T21:44:32.241117+05:30'
 health_score: 100
 ---
 
@@ -31,14 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-
-- **Key Features**:
-  - Synthetic data generation for internal knowledge bases.
-  - Multi-faceted evaluation (retrieval, QA, semantic search) tailored for enterprise use cases.
-  - Compatibility with Python-based RAG pipelines and LLM evaluation frameworks.
-
-- **Scope**: Covers 19 technical topics (e.g., `rag-evaluation`, `semantic-search`, `llm-evaluation`) with 428 stars and 42 forks, last updated June 2026.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal document retrieval.
+- **Scope**: Covers Python-based tools for RAG evaluation, large language model (LLM) assessment, and information retrieval metrics, with a focus on generative AI and enterprise search applications.
 
 ## Why It Matters
 

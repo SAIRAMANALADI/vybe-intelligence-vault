@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-29T10:37:14.979876+05:30'
-collected_at: '2026-06-29T10:37:14.979889+05:30'
+published_at: '2026-06-29T21:47:30.903627+05:30'
+collected_at: '2026-06-29T21:47:30.903641+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-29T10:37:14.979889+05:30'
-last_seen: '2026-06-29T10:37:14.979889+05:30'
-last_checked: '2026-06-29T10:37:14.979889+05:30'
+first_seen: '2026-06-29T21:47:30.903641+05:30'
+last_seen: '2026-06-29T21:47:30.903641+05:30'
+last_checked: '2026-06-29T21:47:30.903641+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,11 @@ health_score: 100
 
 ## Summary
 
-- Python 3.14.6 is the latest stable release, with documentation including "What's new," tutorials, library references, and language specifications hosted on [docs.python.org](https://docs.python.org/3.14/).
+- **Python 3.14.6** is the latest stable release, with documentation hosted at `https://docs.python.org/3.14/`, including sections for tutorials, library/reference manuals, and language specifications.
 
-- The official Python documentation provides version-specific resources (e.g., 3.16 in development, 3.15 pre-release, and EOL versions like 3.9–2.6) alongside supplementary materials such as PEPs, packaging guides, and C API references.
+- **Legacy versions** (e.g., 3.12, 3.11) receive security fixes, while **EOL versions** (≤3.9) are no longer maintained; all docs are accessible via `https://docs.python.org/[version]/`.
 
-- Documentation is generated via Sphinx 8.2.3, licensed under PSF-2.0, with examples under the Zero-Clause BSD License, and includes indices for modules, glossary terms, and search functionality.
+- **Additional resources** include PEPs (`peps.python.org`), packaging guides (`packaging.python.org`), and the Python C API (`docs.python.org/c-api`) for extending Python with C/C++.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T10:37:14.979876+05:30
+- Published: 2026-06-29T21:47:30.903627+05:30
 
 ## Related Tags
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/browser-use/video-use
-published_at: '2026-06-29T16:55:00.773055+05:30'
-collected_at: '2026-06-29T16:55:00.773061+05:30'
+published_at: '2026-06-29T21:42:25.396374+05:30'
+collected_at: '2026-06-29T21:42:25.396376+05:30'
 tags:
 - agents
 - github-trending
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:browser-use/video-use
 first_seen: '2026-06-28T19:46:54.550221+05:30'
-last_seen: '2026-06-29T16:55:00.773061+05:30'
-last_checked: '2026-06-29T16:55:00.773061+05:30'
+last_seen: '2026-06-29T21:42:25.396376+05:30'
+last_checked: '2026-06-29T21:42:25.396376+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-29T16:55:00.773055+05:30
+- Published: 2026-06-29T21:42:25.396374+05:30
 
 ## Related Tags
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/firebase-google-s-mobile-and-web-app-development-p.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -16,11 +16,12 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Firebase | Google's Mobile and Web App Development Platform
@@ -29,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Cross-platform SDKs** for iOS, Android, Web, Flutter, Unity, and C++ enabling unified app development and deployment across ecosystems.
+- **Unified Backend Services**: Firebase provides a suite of managed backend services (Firestore, Realtime Database, Authentication, Cloud Functions, Hosting, etc.) for building scalable, secure, and AI-integrated applications across iOS, Android, Web, Flutter, Unity, and C++.
 
-- **Managed infrastructure** with AI-powered services (e.g., Firebase AI Logic, App Hosting, SQL Connect) leveraging Google Cloud for scalable, secure, and rapid app development.
-
-- **Pre-built extensions** (e.g., Firestore-BigQuery, Algolia Search, Stripe Payments) and integrations (e.g., Gemini, Google Ads, Slack) to automate workflows and enhance app fun
+- **AI & Generative Integration**: Supports Firebase AI Logic and Agent Skills for generative AI workflows, with native integrations to Google’s Gemini and third-party tools (BigQuery, Algolia, Stripe) via pre-packaged ex
 
 ## Use Cases
 

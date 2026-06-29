@@ -19,6 +19,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Postgres + pgvector Integration**: Supabase leverages Postgres with the `pgvector` extension to provide a native vector store for storing, indexing, and querying vector embeddings at scale, eliminating the need for external vector databases.
+- **Postgres + pgvector Integration**: Supabase provides a native vector store and embeddings support using Postgres with the `pgvector` extension, enabling efficient storage, indexing, and querying of vector embeddings at scale.
 
-- **Multi-Modal AI Toolkit**: Supports hybrid search (semantic, keyword, and hybrid), unstructured embeddings via Python client, and direct open-source model inference in Edge Functions, with integrations for OpenAI, Hugging Face, LangChain, and others.
+- **Multi-Model AI Workflows**: Supports hybrid search (semantic + keyword), integrates with OpenAI, Hugging Face, LangChain, and others, and includes Edge Function-based embedding generation using open-source models.
+
+- **Production-Ready AI Templates**: Offers pre-bu
 
 ## Use Cases
 

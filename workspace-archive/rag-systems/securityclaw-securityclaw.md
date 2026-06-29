@@ -16,6 +16,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs and events.
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory for anomaly validation and threat detection.
-- **LLM-Powered Anomaly Validation**: Uses Large Language Models (LLMs) to validate real-time anomalies, enabling automated threat hunting and SOC automation.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility across cybersecurity workflows.
+
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory, enabling LLM-driven validation of anomalies and threat detection.
+
+- **LLM-Powered Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically assess and validate real
 
 ## Use Cases
 

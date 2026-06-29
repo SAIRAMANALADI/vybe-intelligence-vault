@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/AgentOps-AI/agentops
-collected_at: '2026-06-29T16:58:44.535452+05:30'
+collected_at: '2026-06-29T21:46:12.456961+05:30'
 published_at: '2026-06-29T10:55:10Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2023-08-15T23:26:23Z'
 pushed_at: '2026-06-25T08:25:03Z'
 resource_id: github:agentops-ai/agentops
-first_seen: '2026-06-29T16:58:44.535452+05:30'
-last_seen: '2026-06-29T16:58:44.535452+05:30'
-last_checked: '2026-06-29T16:58:44.535452+05:30'
+first_seen: '2026-06-29T21:46:12.456961+05:30'
+last_seen: '2026-06-29T21:46:12.456961+05:30'
+last_checked: '2026-06-29T21:46:12.456961+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Python SDK** for monitoring AI agents, tracking LLM costs, and benchmarking, supporting integration with **CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI**.
+- **Python SDK** for comprehensive AI agent monitoring, LLM cost tracking, and benchmarking, supporting integration with major LLMs and agent frameworks (e.g., CrewAI, LangChain, Autogen, OpenAI Agents SDK, AG2, CamelAI).
 
-- **Multi-LLM & Framework Compatibility**: Works with **Anthropic, Groq, Mistral, Ollama, OpenAI**, and others, enabling cost estimation and evaluation metrics across diverse agent frameworks.
+- **Multi-framework compatibility** with Anthropic, Groq, Mistral, Ollama, and OpenAI, enabling cost estimation, evaluation metrics, and performance tracking across diverse agent ecosystems.
 
-- **Active Development**: Last updated **2026-06-29**, with **5,662 stars** and **603 forks**, indicating strong community adoption and continuous improvement.
+- **Active development** (last updated June 2026) with 5,662+ stars and 603+ forks, positioning it as a leading tool for AI agent observability and optimization.
 
 ## Why It Matters
 

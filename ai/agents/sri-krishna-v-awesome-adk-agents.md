@@ -4,15 +4,16 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-06-29T16:58:24.364778+05:30'
-published_at: '2026-06-28T14:36:42Z'
+collected_at: '2026-06-29T21:45:52.333596+05:30'
+published_at: '2026-06-29T13:51:19Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - scripts
-stars: 324
+- workflows
+stars: 325
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-06-29T16:58:24.364778+05:30'
-last_seen: '2026-06-29T16:58:24.364778+05:30'
-last_checked: '2026-06-29T16:58:24.364778+05:30'
+first_seen: '2026-06-29T21:45:52.333596+05:30'
+last_seen: '2026-06-29T21:45:52.333596+05:30'
+last_checked: '2026-06-29T21:45:52.333596+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Curates AI agents developed with Google's Agent Development Kit (ADK), primarily implemented in Python.
-*   Provides templates, best practices, and production-ready examples for building agentic AI and multi-agent systems.
-*   Emphasizes practical applications and integration with Gemini AI within the ADK framework.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google's Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Multi-Faceted ADK Support**: Focuses on ADK-Python and ADK-Web, with examples for multi-agent systems, agentic AI, and integration with Google's Gemini AI, facilitating diverse agent development workflows.
+- **Technical Metadata**: Python-based repository with 325 stars and 46 forks, last updated on 2026-06-29, emphasizing agentic AI, templates, and Google ADK ecosystems.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Sri-Krishna-V
-- Stars: 324
+- Stars: 325
 - Forks: 46
 - Language: Python
 - Topics: adk, adk-python, adk-web, agent-samples, agentic-ai, agents, awesome, awesome-list, gemini-ai, google-adk, multi-agent-systems, templates
-- Last Updated: 2026-06-28T14:36:42Z
+- Last Updated: 2026-06-29T13:51:19Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-05-27T11:48:53Z

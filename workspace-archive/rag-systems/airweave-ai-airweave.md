@@ -6,7 +6,7 @@ source_url: https://github.com/airweave-ai/airweave
 resource_id: github:airweave-ai/airweave
 local_vault_path: ai/rag/airweave-ai-airweave.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) via semantic search and retrieval-augmented generation (RAG) pipelines.
-
-- **Enterprise data integration**: Supports connectors for structured/unstructured data (SQL, NoSQL, documents) with API-driven retrieval, enabling real-time context augmentation for LLMs without manual preprocessing.
-
-- **Scalable re
+- **Open-source context retrieval layer** for AI agents, enabling **semantic search** and **retrieval-augmented generation (RAG)** via Python SDK and API.
+- Supports **enterprise data connectors**, **real-time information retrieval**, and **semantic indexing** for structured/unstructured data.
+- Provides **developer tools** for **AI agent infrastructure**, including **search API**, **data integration**, and **context-aware retrieval** for LLMs.
 
 ## Use Cases
 

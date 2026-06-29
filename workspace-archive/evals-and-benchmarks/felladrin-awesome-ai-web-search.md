@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource**: Aggregates software enabling AI-assisted web search, including LLMs, RAG frameworks, and metasearch tools.
-- **Technical Scope**: Covers generative AI, retrieval-augmented generation (RAG), question-answering, and information retrieval systems.
-- **Repository Metadata**: 1.3K+ stars, 111 forks, last updated June 2026; hosted as an HTML-based Awesome List on GitHub.
+- **Curated List**: Repository aggregating AI-powered web search tools leveraging LLMs, RAG, and generative AI for enhanced information retrieval and question-answering.
+- **Technical Scope**: Covers metasearch engines, inference-based search systems, and projects integrating retrieval-augmented generation (RAG) for dynamic web data processing.
+- **Framework**: Hosted as an HTML-based "awesome list" with 1,361 stars, updated June 2026, and includes tools for both generative AI and traditional AI
 
 ## Use Cases
 

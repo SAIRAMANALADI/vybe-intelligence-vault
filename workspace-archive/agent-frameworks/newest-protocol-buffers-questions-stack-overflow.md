@@ -14,8 +14,10 @@ tags:
 - agents
 - hackernews
 - openai
+- paper
 - reddit
 - scripts
+- threejs
 - web-crawled
 selection_reason:
 - Valuable developer reference
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Cross-language compatibility**: Protobuf guarantees runtime compatibility between generated code and runtime libraries across versions, as per [protobuf.dev/support/cross-version-runtime-guarantee](https://protobuf.dev/support/cross-version-runtime-guarantee/).
-- **Inheritance support**: `protobuf-net` supports polymorphic serialization via `[ProtoInclude]` attributes for multi-level inheritance hierarchies in C#.
-- **Tooling limitations**: No native `protoc` compiler injects deprecation war
+- **Cross-language compatibility**: Protocol Buffers (protobuf) guarantees runtime compatibility between generated code and runtime libraries across versions, but version mismatches in `protoc` can break functionality (e.g., .NET runtime issues).
+- **Inheritance support**: `protobuf-net` enables polymorphic serialization via `[ProtoInclude]` attributes, allowing derived types (e.g., `Test2`, `Test3`) to extend base types (`Test`) in C#.
+- **Binary-to-JSON conversion**: Tooling limitations exist
 
 ## Use Cases
 

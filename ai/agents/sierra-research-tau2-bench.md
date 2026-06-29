@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-06-29T16:58:39.416451+05:30'
-published_at: '2026-06-29T11:15:23Z'
+collected_at: '2026-06-29T21:46:07.478884+05:30'
+published_at: '2026-06-29T16:09:02Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
 - python
-- workflows
-stars: 1467
+stars: 1472
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-06-25T17:13:21Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-06-29T16:58:39.416451+05:30'
-last_seen: '2026-06-29T16:58:39.416451+05:30'
-last_checked: '2026-06-29T16:58:39.416451+05:30'
+first_seen: '2026-06-29T21:46:07.478884+05:30'
+last_seen: '2026-06-29T21:46:07.478884+05:30'
+last_checked: '2026-06-29T21:46:07.478884+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with standardized evaluation protocols.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool integration with a structured, domain-specific task framework.
 
-- **Technical Scope**: Implements a Python-based framework for assessing agent performance in dynamic, multi-turn interactions requiring tool usage, user feedback, and adaptive decision-making.
+- **Technical Scope**: Implemented in Python, the benchmark includes 1472+ GitHub stars, 373 forks, and emphasizes multi-turn interactions, tool-use proficiency, and dynamic user-agent-tool coordination in complex scenarios.
 
-- **Evaluation Metrics**: Includes metrics for task completion, efficiency, robustness to user errors, and adaptability to domain-specific constraints in tool-agent-user workflows.
+- **Evaluation Metrics**: Measures agent performance via task completion rates, tool selection efficiency, and adaptability to user feedback, with last update timestamp indicating active development as of June 2026.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1467
+- Stars: 1472
 - Forks: 373
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-06-29T11:15:23Z
+- Last Updated: 2026-06-29T16:09:02Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

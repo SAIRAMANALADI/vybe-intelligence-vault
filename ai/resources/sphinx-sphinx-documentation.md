@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.sphinx-doc.org/
-published_at: '2026-06-29T10:35:49.502526+05:30'
-collected_at: '2026-06-29T10:35:49.502540+05:30'
+published_at: '2026-06-29T21:46:27.915460+05:30'
+collected_at: '2026-06-29T21:46:27.915475+05:30'
 tags:
 - hackernews
-- scripts
 - web-crawled
 status: active
 resource_id: blog:sphinx-sphinx-documentation
-first_seen: '2026-06-29T10:35:49.502540+05:30'
-last_seen: '2026-06-29T10:35:49.502540+05:30'
-last_checked: '2026-06-29T10:35:49.502540+05:30'
+first_seen: '2026-06-29T21:46:27.915475+05:30'
+last_seen: '2026-06-29T21:46:27.915475+05:30'
+last_checked: '2026-06-29T21:46:27.915475+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Documentation Generation**: Sphinx supports authoring in reStructuredText or MyST Markdown to produce structured technical documents with tables, code blocks, mathematical notations, and cross-references, outputting to formats like HTML, LaTeX (PDF), ePub, and Texinfo.
+- **Documentation Generation**: Sphinx automates API documentation for Python, C++, and other languages via `autodoc` and supports multiple output formats (HTML, LaTeX/PDF, ePub, Texinfo) using configurable builders.
 
-- **Extensibility & Automation**: Features robust extension mechanisms for custom functionality (e.g., diagrams, testing), automatic API documentation generation from docstrings for Python/C++, and Intersphinx for cross-project referencing.
+- **Extensible Markup & Cross-Referencing**: Supports reStructuredText and MyST Markdown for structured content, with robust cross-referencing (`xref`) and inter-project linking via `intersphinx` for sections, code objects, and glossaries.
 
-- **Internationalization & Theming**: Supports multi-language documentation via i18n, extensive HTML theming (built-in/third-party), and LaTeX customization for PDF output, with active community-driven development and support.
+- **Customization & Integration**: Features extensible architecture with built-in/third-party themes and extensions (e.g., diagrams, testing), configurable via `conf.py`, and supports internationalization (i18n) for multilingual documentation.
 
 ## Why It Matters
 
@@ -36,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T10:35:49.502526+05:30
+- Published: 2026-06-29T21:46:27.915460+05:30
 
 ## Related Tags
 
 - hackernews
-- scripts
 - web-crawled
 
 ## Source

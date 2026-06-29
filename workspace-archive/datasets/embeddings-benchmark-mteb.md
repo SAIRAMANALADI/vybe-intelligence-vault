@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks including retrieval, clustering, reranking, STS, classification, and bitext mining, supporting multilingual and multimodal evaluation.
-- **Multilingual & Multimodal Support**: Evaluates embeddings in low-resource and high-resource languages, with modalities spanning text, audio, and vision, leveraging state-of-the-art models like Sentence-BERT (SBERT) and neural search frameworks.
-- **Dynam
+- **MTEB Framework**: A Python-based benchmarking tool for evaluating text embeddings across diverse tasks (e.g., retrieval, clustering, classification) and languages/modalities, integrating 58 datasets and 11 task categories.
+- **Multilingual & Multimodal Support**: Evaluates embeddings in low-resource and high-resource languages, including multimodal tasks (e.g., image-text retrieval) with state-of-the-art (SBERT, sentence-transformers) models.
+- **Modular Architecture**: Supports custom task
 
 ## Use Cases
 

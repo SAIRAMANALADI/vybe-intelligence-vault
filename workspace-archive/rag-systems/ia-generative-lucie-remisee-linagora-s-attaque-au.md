@@ -11,7 +11,7 @@ archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
-- agents
+- anthropic
 - dataset
 - hackernews
 - models
@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture OpenRAG** : Utilise un mécanisme *map & reduce* alternatif aux *rerankers* traditionnels, avec Ray pour l'indexation distribuée, Doclink pour l'analyse PDF, et Infinity pour le *reranking* optimisé en débit.
-- **Techniques avancées** : Intègre HyDe pour améliorer la pertinence des réponses aux requêtes ambiguës, exploite des *chunks* enrichis (métadonnées, résumés) et évalue les paires *embedder-reranker* (KaLM-mini-instruct + GTE/Jina v2) via le *dataset* SciFact.
-- **Infrastru
+- **OpenRAG** utilise une approche *map & reduce* pour remplacer les *rerankers* traditionnels dans les pipelines RAG, avec **Ray** pour l'indexation distribuée et **Doclink** pour l'analyse de documents PDF.
+- **HyDe** (Hyper Document Embedding) est intégré pour améliorer la pertinence des réponses aux requêtes ambiguës, tandis que **KaLM-mini-instruct** ou **Jina v2** sont utilisés comme *embedder-reranker* optimal pour performance/latence.
+- **Milvus** sert de base vectorielle avec partitionn
 
 ## Use Cases
 

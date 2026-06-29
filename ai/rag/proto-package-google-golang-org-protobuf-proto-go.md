@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pkg.go.dev/google.golang.org/protobuf/proto
-published_at: '2026-06-24T23:03:24.839425+05:30'
-collected_at: '2026-06-24T23:03:24.839438+05:30'
+published_at: '2026-06-29T21:54:17.142047+05:30'
+collected_at: '2026-06-29T21:54:17.142062+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:proto-package-google-golang-org-protobuf-proto-go
-first_seen: '2026-06-24T23:03:24.839438+05:30'
-last_seen: '2026-06-24T23:03:24.839438+05:30'
-last_checked: '2026-06-24T23:03:24.839438+05:30'
+first_seen: '2026-06-29T21:54:17.142062+05:30'
+last_seen: '2026-06-29T21:54:17.142062+05:30'
+last_checked: '2026-06-29T21:54:17.142062+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- `proto` package provides core functions for protocol buffer message manipulation, including binary serialization (`Marshal`, `Unmarshal`, `Size`), deep copying (`Clone`), merging (`Merge`), and validation (`CheckInitialized`).
+- `Marshal`/`Unmarshal` functions convert protocol buffer messages to/from wire format (binary serialization), with `MarshalOptions`/`UnmarshalOptions` providing advanced control over the process, including deterministic serialization and append operations.
 
-- Supports optional scalar field construction via pointer-based constructors (`Bool`, `Int32`, `Float64`, etc.) and extension field accessors (`GetExtension`, `SetExtension`, `ClearExtension`).
+- Core message operations include `Clone` (deep copy), `Merge` (merge content), `Equal` (recursive comparison), `Reset` (clear content), and `CheckInitialized` (validate required fields), with `protoreflect`-based extensions for proto2 via `HasExtension`, `GetExtension`, `SetExtension`, and `ClearExtension`.
 
-- Includes `MarshalOptions` and `UnmarshalOptions` for advanced control over binary serialization, with related packages for JSON/text conversion (`protojson`, `prototext`) and reflection (`protoreflect`).
+- Optional scalar fields in proto2 are represented as pointers (e.g., `*string`), with helper functions (`Bool`, `Int32`, `Float64`, etc.) to simplify construction, while related packages (`protojson`, `prototext`, `protoreflect`, etc.) provide JSON/text serialization, reflection, and dynamic message handling.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T23:03:24.839425+05:30
+- Published: 2026-06-29T21:54:17.142047+05:30
 
 ## Related Tags
 

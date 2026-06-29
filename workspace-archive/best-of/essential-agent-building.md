@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
@@ -17,11 +22,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
-
-### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
-- **Category**: `ai/agents` | **Kind**: `TOOL` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
 - **Category**: `ai/resources` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -48,6 +48,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
@@ -58,14 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`redhat-data-and-ai-template-mcp-server.md`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md)
+### [Mem0 · GitHub](https://github.com/mem0ai)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`mem0-github.md`](../../ai/rag/mem0-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-29 17:12 IST*
+*Last updated: 2026-06-29 21:59 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-06-29T16:58:59.451789+05:30'
+collected_at: '2026-06-29T21:46:27.465212+05:30'
 published_at: '2026-06-29T09:43:27Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-06-29T16:58:59.451789+05:30'
-last_seen: '2026-06-29T16:58:59.451789+05:30'
-last_checked: '2026-06-29T16:58:59.451789+05:30'
+first_seen: '2026-06-29T21:46:27.465212+05:30'
+last_seen: '2026-06-29T21:46:27.465212+05:30'
+last_checked: '2026-06-29T21:46:27.465212+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an end-to-end Python framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines optimized for small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO).
+- **Unified RAG Framework**: Provides an integrated Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
 
-- **Multi-Backend Support**: Integrates lightweight inference engines (LlamaCPP, ONNX Runtime, OpenVINO) and parsing tools for efficient deployment across CPU/GPU environments.
+- **Multi-Backend Support**: Supports multiple inference backends including LlamaCPP, ONNX, and OpenVINO, enabling deployment flexibility across diverse hardware and software environments.
 
-- **Modular Architecture**: Enables customization of agents, retrieval components, and model inference with support for structured parsing and hybrid retrieval strategies.
+- **Enterprise Features**: Includes built-in parsing, agent integration, and modular components for scalable, production-ready RAG implementations with last update as of June 2026.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: llmware-ai
 - Stars: 14819
-- Forks: 2914
+- Forks: 2913
 - Language: Python
 - Topics: agents, generative-ai-tools, llamacpp, llm, onnx, openvino, parsing, retrieval-augmented-generation, small-specialized-models
 - Last Updated: 2026-06-29T09:43:27Z

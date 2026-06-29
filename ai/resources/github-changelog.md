@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/changelog
-published_at: '2026-06-29T03:50:19.811842+05:30'
-collected_at: '2026-06-29T03:50:19.811855+05:30'
+published_at: '2026-06-29T21:47:30.519958+05:30'
+collected_at: '2026-06-29T21:47:30.519973+05:30'
 tags:
+- scripts
 - web-crawled
 status: active
 resource_id: blog:github-changelog
-first_seen: '2026-06-29T03:50:19.811855+05:30'
-last_seen: '2026-06-29T03:50:19.811855+05:30'
-last_checked: '2026-06-29T03:50:19.811855+05:30'
+first_seen: '2026-06-29T21:47:30.519973+05:30'
+last_seen: '2026-06-29T21:47:30.519973+05:30'
+last_checked: '2026-06-29T21:47:30.519973+05:30'
 health_score: 100
 ---
 
@@ -20,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Merge Tracking by Adoption Phase**: Enterprise and organization reports now include tracking of total merges segmented by adoption phases (e.g., pilot, standard, and advanced), enabling granular analysis of GitHub adoption trends across user segments.
-
-- **Enhanced Account-Level Insights**: Integration with Copilot and enterprise management tools provides deeper telemetry on merge activities, correlating adoption phases with user engagement metrics for targeted optimization.
-
-- **API & UI Extensions**: New endpoints and dashboard widgets expose merge statistics via GitHub’s GraphQL API and organization-level analytics, supporting programmatic and manual review of adoption progression.
+- **Merge Tracking Enhancement**: Enterprise and organization reports now include total merge counts categorized by adoption phases (e.g., `adopted`, `trialing`, `unadopted`), enabling granular insights into adoption trends.
+- **Account-Level Integration**: Merge metrics are aggregated at the account level, providing unified visibility across teams and repositories within an organization.
+- **API & UI Accessibility**: The feature is exposed via both the GitHub UI (organization reports) and REST API (`/orgs/{org}/stats/code_scanning`), supporting programmatic access for automation and integration.
 
 ## Why It Matters
 
@@ -34,10 +33,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T03:50:19.811842+05:30
+- Published: 2026-06-29T21:47:30.519958+05:30
 
 ## Related Tags
 
+- scripts
 - web-crawled
 
 ## Source

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Framework**: Python-based AI agent benchmark simulating tasks within a virtual software company to evaluate agent capabilities in structured, multi-step workflows.
-- **Evaluation Metrics**: Focuses on assessing agent performance in software engineering tasks, including debugging, code review, and project management.
-- **Open-Source Tool**: Designed for AI research, enabling reproducibility and comparative analysis of LLM-driven agents in a controlled, task-specific environment.
+- **Benchmark Framework**: Python-based AI benchmark simulating a software company environment for evaluating agent performance across complex, multi-step tasks.
+- **Metrics & Evaluation**: Measures agent capabilities in software development workflows, including task decomposition, tool usage, and collaboration.
+- **Research Utility**: Designed for AI research, enabling comparative analysis of LLMs and agentic systems in realistic software engineering scenarios.
 
 ## Use Cases
 

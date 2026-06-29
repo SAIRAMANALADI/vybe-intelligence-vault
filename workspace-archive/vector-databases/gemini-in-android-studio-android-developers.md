@@ -15,6 +15,7 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Agent Mode** enables multi-stage, goal-driven tasks (e.g., unit test generation, UI alterations, error fixes) with iterative plan execution, review, and refinement across project files.
+- **Agent Mode** enables multi-stage, project-spanning task automation (e.g., unit test generation, UI alterations, error fixes) with iterative execution plans and real-time code review/acceptance workflows.
 
-- **Multimodal UI Prototyping** allows direct conversion of wireframe images or screenshots into functional Compose code, accelerating UI development and debugging.
+- **Multimodal UI Prototyping** allows direct conversion of wireframe images or screenshots into functional Compose code, accelerating modern UI development and debugging.
 
-- **Enterprise-grade features** (via Gemini Code Assist) include IP indemnification, VPC-SC compliance, Git-based code customization, and BigQu
+- **Enterprise-grade privacy controls** via `.aiexclude` file configuration ensure selective data exclusion, while pai
 
 ## Use Cases
 

@@ -14,10 +14,8 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -36,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Focus**: Evaluates **multi-turn Retrieval-Augmented Generation (RAG)** systems, emphasizing conversational context retention and iterative retrieval refinement.
-- **Technical Scope**: Implements Python-based pipelines with standardized metrics for **context relevance**, **answer accuracy**, and **multi-turn coherence** in RAG workflows.
-- **Dataset & Metrics**: Provides curated datasets and evaluation scripts to assess **long-form dialogue**, **query reformulation**, and **citation
+- **Purpose**: Evaluates multi-turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
+- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG pipelines, including context relevance and response coherence.
+- **Structure**: Contains datasets, evaluation scripts, and baseline models for reproducible benchmarking of RAG systems across multi-turn interactions.
 
 ## Use Cases
 

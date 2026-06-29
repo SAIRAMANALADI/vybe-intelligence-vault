@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/docs/copilot/agents/background-agents
-published_at: '2026-06-29T17:01:12.676418+05:30'
-collected_at: '2026-06-29T17:01:12.676428+05:30'
+published_at: '2026-06-29T21:51:38.693912+05:30'
+collected_at: '2026-06-29T21:51:38.693926+05:30'
 tags:
 - agents
 - openai
 - web-crawled
 status: active
 resource_id: blog:copilot-cli-sessions-in-visual-studio-code
-first_seen: '2026-06-29T17:01:12.676428+05:30'
-last_seen: '2026-06-29T17:01:12.676428+05:30'
-last_checked: '2026-06-29T17:01:12.676428+05:30'
+first_seen: '2026-06-29T21:51:38.693926+05:30'
+last_seen: '2026-06-29T21:51:38.693926+05:30'
+last_checked: '2026-06-29T21:51:38.693926+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Background Execution**: Copilot CLI sessions run autonomously in the background via the Copilot SDK, persisting even when VS Code is closed, unlike local agents which terminate with the editor.
+- **Copilot CLI Sessions**: Background agent sessions in VS Code, managed via GitHub Copilot CLI, enabling autonomous task execution (e.g., feature implementation, research) with local/remote isolation modes (Worktree/Folder) and integrated Chat view interaction.
 
-- **Isolation Modes**: Supports **Worktree** (Git worktree-based isolation) and **Folder** (direct workspace modification) isolation, with Worktree auto-approving tool calls due to isolated context.
+- **Isolation Modes**: Worktree mode creates a separate Git worktree for agent changes (auto-bypassing approvals), while Folder mode applies changes directly to the workspace with configurable permission levels (Default/Bypass/Autopilot).
 
-- **Permissions & Slash Commands**: Offers **Default Approvals**, **Bypass Approvals**, and **Autopilot** modes (Folder isolation only); includes slash commands like `/research`, `/yolo`, and `/compact` for session control.
+- **Permissions & Slash Commands**: Supports structured permission levels (per isolation mode), slash commands (`/research`, `/yolo`), and reusable prompts/skills/hooks for session management and tool auto-approval.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T17:01:12.676418+05:30
+- Published: 2026-06-29T21:51:38.693912+05:30
 
 ## Related Tags
 

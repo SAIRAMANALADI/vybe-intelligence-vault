@@ -5,16 +5,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/gemini-code-assist/docs/configure-vpc-service-controls
-published_at: '2026-06-28T03:58:11.875532+05:30'
-collected_at: '2026-06-28T03:58:11.875545+05:30'
+published_at: '2026-06-29T21:55:03.670044+05:30'
+collected_at: '2026-06-29T21:55:03.670059+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-vpc-service-controls-for-gemini-gemini-f
-first_seen: '2026-06-28T03:58:11.875545+05:30'
-last_seen: '2026-06-28T03:58:11.875545+05:30'
-last_checked: '2026-06-28T03:58:11.875545+05:30'
+first_seen: '2026-06-29T21:55:03.670059+05:30'
+last_seen: '2026-06-29T21:55:03.670059+05:30'
+last_checked: '2026-06-29T21:55:03.670059+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API`, `Gemini Code Assist API`, and optionally `Developer Connect API` to an existing organization-level service perimeter, including all required projects and VPC networks to restrict access.
-- **VPC Network Configuration**: Enable Private Google Access, configure firewall rules (deny-all egress + allow restricted VIP range `199.36.153.4/30:443`), and set Cloud DNS response policy to resolve `*.googleapis.com` to `restricted.googleapis.com`.
-- **Optional Access Controls**: Configure ingress policies for external IDE access (e.g., Cloud Code plugin), set access levels via Access Context Manager, and ensure client machines comply with perimeter restrictions (e.g., block `https://www.google.com/tools/feedback/mobile` for Gemini Code Assist).
+- **VPC Service Controls Integration**: Add `Gemini for Google Cloud API` and `Gemini Code Assist API` to an existing organization-level service perimeter, including all required projects and VPC networks, while optionally configuring ingress policies for IDE access.
+- **Network Configuration**: Enable Private Google Access, enforce firewall rules (deny-all egress + allow restricted VIP range `199.36.153.4/30:443`), and configure Cloud DNS to resolve `*.googleapis.com` to `restricted.googleapis.com`.
+- **Additional Considerations**: Extend perimeter access via VPN/Interconnect for external clients, manage IDE/GitHub access restrictions, and review VPC Service Controls limitations for compliance with Gemini Code Assist.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T03:58:11.875532+05:30
+- Published: 2026-06-29T21:55:03.670044+05:30
 
 ## Related Tags
 

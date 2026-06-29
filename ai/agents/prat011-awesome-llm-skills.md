@@ -4,28 +4,28 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Prat011/awesome-llm-skills
-collected_at: '2026-06-29T16:58:39.416755+05:30'
-published_at: '2026-06-29T08:59:13Z'
+collected_at: '2026-06-29T21:46:02.376403+05:30'
+published_at: '2026-06-29T15:22:45Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - meta-ai
 - models
 - openai
 - python
-- scripts
 - workflows
-stars: 1349
+stars: 1350
 language: Python
 status: active
 archived: false
 created_at: '2025-10-22T06:15:37Z'
 pushed_at: '2026-06-23T07:39:26Z'
 resource_id: github:prat011/awesome-llm-skills
-first_seen: '2026-06-29T16:58:39.416755+05:30'
-last_seen: '2026-06-29T16:58:39.416755+05:30'
-last_checked: '2026-06-29T16:58:39.416755+05:30'
+first_seen: '2026-06-29T21:46:02.376403+05:30'
+last_seen: '2026-06-29T21:46:02.376403+05:30'
+last_checked: '2026-06-29T21:46:02.376403+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated LLM/AI Agent Skills**: Repository aggregates tools, resources, and workflows for customizing AI agents (Claude Code, Codex, Gemini CLI, custom agents) with a focus on LLM integration and automation.
-
-- **Multi-Platform Support**: Compatible with Anthropic, OpenAI, Google, and other LLM ecosystems, including Qwen, Llama, and CodeLlama variants.
-
-- **Python-Based Tooling**: Repository is Python-centric, emphasizing CLI-driven agent interactions and skill development for AI-driven workflows.
+- **Curated Resource**: Repository compiling tools, libraries, and frameworks for customizing LLM and AI Agent workflows, compatible with Claude Code, Codex, Gemini CLI, and custom agents.
+- **Technical Scope**: Focuses on Python-based implementations, covering Anthropic, OpenAI, Google (Gemini), Meta (Llama), and Qwen models, with CLI and skill integration support.
+- **Metadata**: 1,350 stars, 210 forks, last updated June 29, 2026, under MIT License.
 
 ## Why It Matters
 
@@ -46,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Prat011
-- Stars: 1349
+- Stars: 1350
 - Forks: 210
 - Language: Python
 - Topics: anthropic, awesome-list, awesome-lists, claude-code, claude-skills, claude-skills-creator, codex, codex-cli, gemini, gemini-cli, llama, llms, openai, opencode, qwen, qwen-coder, skills
-- Last Updated: 2026-06-29T08:59:13Z
+- Last Updated: 2026-06-29T15:22:45Z
 - Archived: No
 - Created At: 2025-10-22T06:15:37Z
 - Pushed At: 2026-06-23T07:39:26Z

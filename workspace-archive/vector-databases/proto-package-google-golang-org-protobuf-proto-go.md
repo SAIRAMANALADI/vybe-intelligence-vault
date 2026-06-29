@@ -29,11 +29,9 @@ selection_reason:
 
 ## Summary
 
-- `proto` package provides core functions for protocol buffer message manipulation, including binary serialization (`Marshal`, `Unmarshal`, `Size`), deep copying (`Clone`), merging (`Merge`), and validation (`CheckInitialized`).
+- `Marshal`/`Unmarshal` functions convert protocol buffer messages to/from wire format (binary serialization), with `MarshalOptions`/`UnmarshalOptions` providing advanced control over the process, including deterministic serialization and append operations.
 
-- Supports optional scalar field construction via pointer-based constructors (`Bool`, `Int32`, `Float64`, etc.) and extension field accessors (`GetExtension`, `SetExtension`, `ClearExtension`).
-
-- Includes `MarshalOptions` and `UnmarshalOptions` for advanced control ove
+- Core message operations include `Clone` (deep copy), `Merge` (merge content), `Equal` (recursive comparison), `Reset` (clear content), and `CheckInitialized` (validate required fields), with `protoreflect`-based extensions for proto2 via `
 
 ## Use Cases
 

@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Development**: Android Studio integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific queries, enhancing developer productivity.
-- **Cross-Device Testing**: Features **Android Device Streaming** for real-device testing and **Emulator** support for foldables, Wear OS, TV, and ChromeOS, ensuring broad compatibility.
-- **Build & Optimization Tools**: Supports **Android App Bundles**, **APK Analyzer**, and **Gradle-based flexible builds** for multi-
+- **AI-Powered Development**: Android Studio integrates **Gemini**, an AI assistant for code generation, debugging, and Android-specific Q&A, enhancing developer productivity.
+- **Multi-Device Testing**: Supports **Android Device Streaming** for real-device testing across diverse screen sizes, OEMs, and Android versions, alongside an emulator for foldables, Wear OS, TV, and ChromeOS.
+- **Build & Optimization Tools**: Features a **Gradle-based flexible build system** for multi-variant builds, **A
 
 ## Use Cases
 

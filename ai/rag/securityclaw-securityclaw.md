@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-29T16:57:09.291981+05:30'
+collected_at: '2026-06-29T21:44:37.318917+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 251
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-29T16:57:09.291981+05:30'
-last_seen: '2026-06-29T16:57:09.291981+05:30'
-last_checked: '2026-06-29T16:57:09.291981+05:30'
+first_seen: '2026-06-29T21:44:37.318917+05:30'
+last_seen: '2026-06-29T21:44:37.318917+05:30'
+last_checked: '2026-06-29T21:44:37.318917+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs and events.
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory for anomaly validation and threat detection.
-- **LLM-Powered Anomaly Validation**: Uses Large Language Models (LLMs) to validate real-time anomalies, enabling automated threat hunting and SOC automation.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data monitoring, with modular design for extensibility across cybersecurity workflows.
+
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory, enabling LLM-driven validation of anomalies and threat detection.
+
+- **LLM-Powered Anomaly Validation**: Uses Large Language Models (LLMs) to dynamically assess and validate real-time anomalies, integrating threat hunting and SOC automation for adaptive cybersecurity operations.
 
 ## Why It Matters
 

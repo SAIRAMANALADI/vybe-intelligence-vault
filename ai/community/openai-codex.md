@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: github:openai/codex
 first_seen: '2026-06-28T19:46:53.196039+05:30'
 last_seen: '2026-06-29T16:55:02.614701+05:30'
 last_checked: '2026-06-29T16:55:02.614701+05:30'
 health_score: 100
 ---
+
 
 # A way to exclude sensitive files issue still open for OpenAI Codex
 

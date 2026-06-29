@@ -16,7 +16,9 @@ tags:
 - producthunt
 - rag
 - reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -35,8 +37,9 @@ selection_reason:
 
 ## Summary
 
-*   Firebase is a comprehensive, Google-backed platform providing managed infrastructure and services for the full app development lifecycle, encompassing build (e.g., App Hosting, Firestore, Cloud Functions, SQL Connect) and run (e.g., Crashlytics, Performance Monitoring, A/B Testing) phases across multiple platforms (iOS, Android, Web, Flutter, Unity, C++).
-*   The platform now features deep integration with Google's generative AI technologies, including Gemini, through services like Firebase
+- **Unified Backend Services**: Firebase provides a suite of managed backend services (Firestore, Realtime Database, Authentication, Cloud Functions, Hosting, etc.) for building scalable, secure, and AI-integrated applications across iOS, Android, Web, Flutter, Unity, and C++.
+
+- **AI & Generative Integration**: Supports Firebase AI Logic and Agent Skills for generative AI workflows, with native integrations to Google’s Gemini and third-party tools (BigQuery, Algolia, Stripe) via pre-packaged ex
 
 ## Use Cases
 

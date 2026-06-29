@@ -6,14 +6,13 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -26,17 +25,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Unified Agent Development Lifecycle**: LangSmith provides a framework-agnostic platform for **observability, evaluation, deployment, and fleet management** of AI agents, supporting Python, TypeScript, Go, and Java SDKs with native tracing for OpenTelemetry and popular frameworks.
+- **Autonomous Agent Debugging**: LangSmith Engine clusters production failures, identifies root causes in traces/code, and proposes fixes autonomously to accelerate agent improvement.
 
-- **Autonomous Debugging & Scalability**: LangSmith Engine **automatically clusters production failures**, identifies root causes via trace analysis, and proposes fixes, while the agent server supports **long-runni
+- **Multi-Framework Observability**: Provides native tracing for popular agent frameworks (via OpenTelemetry) with SDKs in Python, TypeScript, Go, and Java, enabling structured debugging of long-context, branching agent workflows.
+
+- **Production-Grade Deployment**: Agent server supports human-in-the-loop interac
 
 ## Use Cases
 

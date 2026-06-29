@@ -14,7 +14,7 @@ tags:
 - agents
 - github-repo
 - go
-- workflows
+- scripts
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Go-based workshop**: Provides a step-by-step guide to building a coding agent (e.g., Roo Code, Cline) using Go, covering core architecture and implementation patterns.
+- **Go-based workshop** for constructing a **coding agent** (similar to Cursor, Cline, or Roo Code) with modular architecture for AI-driven code generation, analysis, and automation.
 
-- **Agent development focus**: Covers key components like LLM integration, tool orchestration, and real-time code interaction for autonomous coding workflows.
+- **Key components** include **LLM integration**, **tool orchestration**, and **IDE/editor plugins** (e.g., VS Code, JetBrains) for real-time codebase interaction and task execution.
 
-- **Modern IDE compatibility**: Designed to integrate with tools like Cursor, Windsurf, and OpenCode, emphasizing extensibility and multi-agent collaboration.
+- **Open-source repository** with **5.7K+ stars**, providing **step-by-step tutorials**, **example agents**, and **scalable patterns
 
 ## Use Cases
 

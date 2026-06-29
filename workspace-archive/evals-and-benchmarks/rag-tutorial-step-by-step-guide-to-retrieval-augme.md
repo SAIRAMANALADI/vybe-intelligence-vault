@@ -7,10 +7,10 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 76
-archive_tier: useful
-resource_kind: prompt
-importance: medium
+archive_score: 86
+archive_tier: essential
+resource_kind: benchmark
+importance: high
 tags:
 - benchmark
 - models
@@ -29,17 +29,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 86 (essential)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Core**: A 5-step process—**Load** (ingest documents via LangChain loaders), **Chunk** (split into 512-token segments with 50-token overlap using `RecursiveCharacterTextSplitter`), **Embed** (convert chunks to vectors via OpenAI `text-embedding-3-small` and store in ChromaDB), **Retrieve** (semantic search with cosine similarity, returning top-*k* chunks), and **Generate** (LLM synthesizes answers from retrieved context using a structured prompt).
+- **RAG Architecture**: Five-stage pipeline—load (documents), chunk (split into retrieval-sized pieces), embed (convert to vectors via `text-embedding-3-small`), retrieve (semantic search in ChromaDB with `k=4` top chunks), and generate (LLM answer grounded in retrieved context using `gpt-4o-mini`).
 
-- **Modular Architecture**: The
+- **Modularity & Interchangeability**: Components (loaders, chunkers, embeddings, vector DBs, LLMs) are swappable (e.g., Pinecone/pgvector for DB, custom chunkers, or alternative LLMs), enabling sca
 
 ## Use Cases
 

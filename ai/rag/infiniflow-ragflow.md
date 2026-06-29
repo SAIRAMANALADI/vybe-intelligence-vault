@@ -3,28 +3,26 @@ title: infiniflow/ragflow
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/infiniflow/ragflow?source=post_page
-resource_id: github:infiniflow/ragflow
------dba899ae0355---------------------------------------
-collected_at: '2026-06-29T16:59:04.470830+05:30'
-published_at: '2026-06-29T11:09:38Z'
+source_url: https://github.com/infiniflow/ragflow
+collected_at: '2026-06-29T21:43:42.207470+05:30'
+published_at: '2026-06-29T16:04:36Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
 - workflows
-stars: 83843
+stars: 83861
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-06-29T11:09:33Z'
+pushed_at: '2026-06-29T16:10:33Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-06-29T16:59:04.470830+05:30'
-last_seen: '2026-06-29T16:59:04.470830+05:30'
-last_checked: '2026-06-29T16:59:04.470830+05:30'
+first_seen: '2026-06-29T21:43:42.207470+05:30'
+last_seen: '2026-06-29T21:43:42.207470+05:30'
+last_checked: '2026-06-29T21:43:42.207470+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic workflows, enabling dynamic context augmentation and multi-step reasoning for LLMs beyond static retrieval.
+- **Hybrid RAG-Plus-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with agentic capabilities, enabling dynamic context augmentation and multi-step reasoning for LLMs beyond traditional RAG pipelines.
 
-- **Go-Based Context Engine**: Implemented in Go, the system emphasizes high-performance context management, optimized for low-latency retrieval and structured context fusion in production-grade LLM applications.
+- **Context Engine & Management**: Implements a sophisticated context layer for LLMs, featuring context pruning, fusion, and structured memory management to optimize retrieval precision and reduce hallucination risks.
 
-- **Modular Agentic Capabilities**: Supports agentic search, retrieval, and task decomposition, allowing customizable pipelines for adaptive RAG workflows, including multi-agent collaboration and dynamic query refinement.
+- **Go-Based Scalability**: Built in Go for high-performance concurrency, supporting distributed retrieval, real-time indexing, and modular agent workflows for enterprise-grade AI applications.
 
 ## Why It Matters
 
@@ -45,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 83843
-- Forks: 9722
+- Stars: 83861
+- Forks: 9724
 - Language: Go
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-29T11:09:38Z
+- Last Updated: 2026-06-29T16:04:36Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-06-29T11:09:33Z
+- Pushed At: 2026-06-29T16:10:33Z
 
 ## Possible Use Cases
 
@@ -71,4 +69,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/infiniflow/ragflow?source=post_page-----dba899ae0355---------------------------------------
+Original source: https://github.com/infiniflow/ragflow

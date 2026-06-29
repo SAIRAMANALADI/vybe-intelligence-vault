@@ -7,7 +7,7 @@ source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-imple
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
 local_vault_path: ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md
 quality_score: 70
-archive_score: 80
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -19,7 +19,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -30,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for semantic search, with retrieval strategies like hybrid search (vector + BM25) and re-ranking (cross-encoder models) to improve precision.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval and LLM response augmentation.
 
-- **Implementation Workflow**: Involves document ingestion (LangChain `RecursiveCharacterTextSplitter`), embedding storage (Pinecone/FAIS
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion, hybrid search (dense + sparse vectors), re-ranking (e.g., ms-marco-MiniLM), and adaptive retrieval (Self-RAG) to improve recall, precision,
 
 ## Use Cases
 

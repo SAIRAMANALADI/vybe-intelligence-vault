@@ -2,7 +2,7 @@
 title: The Firebase Blog
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://firebase.blog/
+source_url: https://firebase.blog
 resource_id: blog:the-firebase-blog
 local_vault_path: ai/rag/the-firebase-blog.md
 quality_score: 70
@@ -12,7 +12,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - frontend_ui
-- hackernews
 - producthunt
 - rag
 - web-crawled
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Firestore Pipelines GA**: Introduces full-text search and SQL-like JOIN operations in Firestore via new pipelines, enhancing NoSQL query capabilities while maintaining real-time updates.
+- **Firestore Pipelines GA**: Introduces full-text search and JOIN-like operations in Firestore via pipelines, enabling complex queries on NoSQL data while maintaining real-time capabilities.
 
-- **Zero-Flicker SSR with React**: Demonstrates serialization techniques to eliminate UI flickering during server-side rendering (SSR) in React applications using Firestore data hydration.
+- **Dart Support in Cloud Functions**: Expands Cloud Functions for Firebase to support Dart runtime, allowing developers to write serverless functions in Dart for improved type safety and performance.
 
-- **Dart Support in Cloud Functions**: Announces Dart as a first-class language for Cloud Functions for Firebase, enab
+- **Firebase Phone Number Verification (GA)**: Rolls out general availability for phone number verificati
 
 ## Use Cases
 
@@ -46,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firebase.blog/
+Original source URL: https://firebase.blog
 
 ## Local Vault File
 

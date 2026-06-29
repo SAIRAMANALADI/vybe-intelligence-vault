@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
+- **Evaluation Guide**: Provides a comprehensive walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG systems.
 
-- **Agentic & Multimodal Workflows**: Tutorials on building advanced agentic systems (e.g., multi-agent, tool-calling, human-in-the-loop) and multimodal RAG pipelines integrating vision+text for complex query resolution.
+- **Agentic & Multimodal Workflows**: Tutorials demonstrate tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems for complex task decomposition.
 
-- **Pipeline Optimization & Serialization**: Techniques for optimizing retrieval (e.
+- **Advanced Optimization Techniques**: Includes KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured o
 
 ## Use Cases
 

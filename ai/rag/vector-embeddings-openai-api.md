@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-06-29T16:59:08.173610+05:30'
-collected_at: '2026-06-29T16:59:08.173617+05:30'
+published_at: '2026-06-29T21:46:37.040032+05:30'
+collected_at: '2026-06-29T21:46:37.040048+05:30'
 tags:
 - benchmark
 - dataset
@@ -16,9 +16,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-06-29T16:59:08.173617+05:30'
-last_seen: '2026-06-29T16:59:08.173617+05:30'
-last_checked: '2026-06-29T16:59:08.173617+05:30'
+first_seen: '2026-06-29T21:46:37.040048+05:30'
+last_seen: '2026-06-29T21:46:37.040048+05:30'
+last_checked: '2026-06-29T21:46:37.040048+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **New Models & Performance**: `text-embedding-3-small` (1536-dim, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 64.6% MTEB) offer lower cost, improved multilingual performance, and configurable output dimensions via the `dimensions` parameter.
+- **Model Specifications**: `text-embedding-3-small` (1536-dim, 62.5k pages/USD, 62.3% MTEB) and `text-embedding-3-large` (3072-dim, 9.6k pages/USD, 64.6% MTEB) support dynamic dimensionality reduction via `dimensions` parameter, reducing vector size without significant performance loss (e.g., 256-dim `text-embedding-3-large` outperforms 1536-dim `text-embedding-ada-002`).
 
-- **Embedding Mechanics**: Text embeddings are floating-point vectors where cosine similarity between vectors measures semantic relatedness; default dimensions can be reduced (e.g., to 256) without significant performance loss using the `dimensions` API parameter.
+- **API Integration**: Embeddings are generated via API calls to `/v1/embeddings` with input text and model specification; response includes a vector of floats (default 1536/3072 dimensions) and token usage metrics (`prompt_tokens`, `total_tokens`).
 
-- **Use Cases & API Integration**: Embeddings enable search, clustering, recommendations, and classification; API calls require input text and model selection (e.g., `text-embedding-3-small`), with responses containing vectors and metadata (e.g., token usage).
+- **Use Cases & Optimization**: Embeddings enable semantic search, clustering, recommendations, and classification via cosine similarity; dimensionality reduction (`dimensions` parameter) optimizes storage/compute costs while maintaining performance, with normalization required for manual dimension truncation.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T16:59:08.173610+05:30
+- Published: 2026-06-29T21:46:37.040032+05:30
 
 ## Related Tags
 

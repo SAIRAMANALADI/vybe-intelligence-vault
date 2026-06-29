@@ -11,14 +11,12 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - frontend_ui
 - github-repo
-- meta-ai
-- models
 - openai
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -37,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM Compatibility**: Open-source AI chat platform supporting integration with any LLM (e.g., ChatGPT, Llama) via modular API adapters, enabling cross-model inference and benchmarking.
-
-- **Enterprise-Grade RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector search (FAISS/Weaviate) and hybrid retrieval (keyword + semantic) for low-latency, high-precision information retrieval.
-
-- **Full-Stack Architecture**: Python backend (FastAPI) + Next.js frontend with TypeSc
+- **Onyx** is an open-source AI platform enabling AI chat with advanced features, supporting integration with any LLM (Large Language Model) via Python backend.
+- **Key capabilities** include enterprise-grade information retrieval, RAG (Retrieval-Augmented Generation), and vector search, with a Next.js-based chat UI for seamless interaction.
+- **Deployment flexibility** allows self-hosting, with support for scalable vector databases and modular architecture for custom AI workflows.
 
 ## Use Cases
 

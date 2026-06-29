@@ -8,16 +8,16 @@ local_vault_path: ai/rag/google-cloud-platform-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
-- reddit
+- scripts
 - web-crawled
+- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # Google Cloud Platform · GitHub
@@ -26,15 +26,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: template
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Google Cloud Platform (GCP) GitHub Organization**: Hosts 1,490+ public repositories providing code samples, tools, and libraries for GCP services across multiple languages (Python, Go, JavaScript, Java, PHP, .NET, etc.), licensed under Apache-2.0.
+- **Repository Ecosystem**: GoogleCloudPlatform hosts 1,491+ repositories, including language-specific samples (Python, Go, Node.js, Java, PHP, .NET) and infrastructure tools (Terraform, GKE, GCSFuse) under Apache-2.0 license.
 
-- **Key Projects**: Includes `prometheus-engine` (GCP Managed Service for Prometheus), `gcsfuse` (user-space filesystem for Google Cloud Storage), `PerfKitBenchmarker` (cloud benchmarking tool), and `cluster-toolkit` (Terraform-based AI/ML/HPC dep
+- **Key Projects**: `magic-modules` (Terraform-GCP integration), `gcsfuse` (userspace GCS filesystem), and `DataflowTemplates` (pre-built Apache Beam pipelines) demonstrate core GCP integration and automation workflows.
+
+- **Collaborative Structure**: Maintains multi-lang
 
 ## Use Cases
 

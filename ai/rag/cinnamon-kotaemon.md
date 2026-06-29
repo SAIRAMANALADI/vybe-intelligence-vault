@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-06-29T16:56:19.282815+05:30'
-published_at: '2026-06-28T20:41:57Z'
+collected_at: '2026-06-29T21:43:47.230586+05:30'
+published_at: '2026-06-29T14:46:43Z'
 tags:
 - github-repo
 - python
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-06-09T09:55:55Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-06-29T16:56:19.282815+05:30'
-last_seen: '2026-06-29T16:56:19.282815+05:30'
-last_checked: '2026-06-29T16:56:19.282815+05:30'
+first_seen: '2026-06-29T21:43:47.230586+05:30'
+last_seen: '2026-06-29T21:43:47.230586+05:30'
+last_checked: '2026-06-29T21:43:47.230586+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) for document-grounded chat, enabling context-aware responses by dynamically fetching relevant document segments.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document segments.
 
-- **Modular Python Framework**: Built with Python, leveraging modern NLP libraries (e.g., LangChain, Transformers) for document ingestion, vector storage (FAISS/Chroma), and LLM integration.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization via configurable pipelines.
 
-- **Open-Source & Extensible**: Provides a customizable pipeline for document preprocessing, retrieval, and LLM interaction, with support for local/remote model deployment (e.g., Hugging Face, vLLM).
+- **Open-Source Deployment**: Released under an open-source license, facilitating local or cloud-based deployment with support for scalable document processing and multi-modal input handling.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2124
 - Language: Python
 - Topics: chatbot, llms, open-source, rag
-- Last Updated: 2026-06-28T20:41:57Z
+- Last Updated: 2026-06-29T14:46:43Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-25T08:16:42Z

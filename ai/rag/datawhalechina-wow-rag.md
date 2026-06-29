@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-29T16:56:09.339063+05:30'
+collected_at: '2026-06-29T21:43:32.252409+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-29T16:56:09.339063+05:30'
-last_seen: '2026-06-29T16:56:09.339063+05:30'
-last_checked: '2026-06-29T16:56:09.339063+05:30'
+first_seen: '2026-06-29T21:43:32.252409+05:30'
+last_seen: '2026-06-29T21:43:32.252409+05:30'
+last_checked: '2026-06-29T21:43:32.252409+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Overview**: A lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework designed for simplicity and educational purposes, implemented primarily in Jupyter Notebooks.
+- **Framework**: Provides a lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebook, enabling modular integration of retrieval and generation components.
 
-- **Core Components**: Includes modular pipelines for document ingestion, embedding generation, vector storage, and retrieval-augmented generation, enabling end-to-end RAG workflows with minimal setup.
+- **Tutorial**: Includes step-by-step tutorials for building and deploying RAG pipelines, covering data ingestion, embedding generation, vector storage, and LLM integration.
 
-- **Educational Focus**: Provides tutorials and examples to demonstrate RAG implementation, emphasizing practical, hands-on learning for developers and researchers.
+- **Compatibility**: Designed for multi-platform use (local/cloud) with minimal dependencies, leveraging Python-based tools for accessibility and extensibility.
 
 ## Why It Matters
 

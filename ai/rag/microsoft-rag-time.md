@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-06-28T10:21:52.489577+05:30'
-published_at: '2026-06-26T13:19:21Z'
+collected_at: '2026-06-29T21:43:22.310006+05:30'
+published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
 - hackernews
@@ -13,8 +13,9 @@ tags:
 - models
 - openai
 - rag
+- reddit
 - workflows
-stars: 887
+stars: 888
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +23,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-06-28T10:21:52.489577+05:30'
-last_seen: '2026-06-28T10:21:52.489577+05:30'
-last_checked: '2026-06-28T10:21:52.489577+05:30'
+first_seen: '2026-06-29T21:43:22.310006+05:30'
+last_seen: '2026-06-29T21:43:22.310006+05:30'
+last_checked: '2026-06-29T21:43:22.310006+05:30'
 health_score: 100
 ---
 
@@ -32,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and HNSW indexing for efficient vector search.
+- **Comprehensive RAG Mastery Program**: 5-week structured learning path covering core RAG concepts, hybrid search (vector + keyword), quantization techniques (binary/scalar), and multimodal retrieval, with hands-on Jupyter Notebook exercises.
 
-- **Multimodal & Responsible AI Focus**: Integrates Azure-hosted OpenAI/GPT models with Matryoshka representation learning, emphasizing responsible AI practices and multimodal (text/visual) RAG pipelines in Jupyter Notebooks.
+- **Advanced Retrieval & Indexing Techniques**: Implements HNSW for approximate nearest neighbor search, Matryoshka representation learning for dynamic embedding sizes, and Azure-optimized pipelines for scalable vector/keyword hybrid search.
 
-- **Optimized Tooling & Deployment**: Demonstrates deployment workflows in VS Code, leveraging Azure AI services for scalable RAG systems with hybrid search, indexing optimizations, and quantization techniques for performance-critical applications.
+- **Responsible AI & Tooling Integration**: Focuses on responsible AI practices, OpenAI/GPT integration, and Visual Studio Code-based workflows, with emphasis on binary quantization for efficient LLM inference and retrieval.
 
 ## Why It Matters
 
@@ -45,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 887
+- Stars: 888
 - Forks: 317
 - Language: Jupyter Notebook
 - Topics: ai, azure, binary-quantization, generative-ai, gpt, hnsw, hybrid-search, indexing, keyword-search, language-model, llm, matryoshka-representation-learning, multimodal, openai, rag, responsible-ai, retrieval-augmented-generation, scalar-quantization, vector-search, visual-studio-code
-- Last Updated: 2026-06-26T13:19:21Z
+- Last Updated: 2026-06-28T15:57:16Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-11T17:25:02Z

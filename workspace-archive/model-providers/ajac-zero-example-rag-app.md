@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tool
+resource_kind: workflow
 importance: medium
 tags:
 - anthropic
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tool
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
-- **Strict Type Safety & Testing**: Full TypeScript type-checking with 100% test coverage, ensuring robustness and maintainability.
-- **Containerized Deployment**: Dockerized setup for scalable, reproducible execution across environments.
+- **Observability & Multi-Provider Support**: Integrates Langfuse for LLM observability and LiteLLM for 100+ LLM provider compatibility (e.g., OpenAI, Anthropic, Hugging Face).
+- **Strict Type Safety & Testing**: Fully TypeScript-typed with 100% test coverage, enforced via CI/CD pipelines.
+- **Containerized Deployment**: Dockerized for scalable, reproducible RAG application deployment with modular provider configuration.
 
 ## Use Cases
 

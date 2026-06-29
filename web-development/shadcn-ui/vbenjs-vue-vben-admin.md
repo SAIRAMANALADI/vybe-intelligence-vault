@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/vbenjs/vue-vben-admin
-collected_at: '2026-06-29T16:55:00.280947+05:30'
-published_at: '2026-06-29T09:05:25Z'
+collected_at: '2026-06-29T21:42:24.668487+05:30'
+published_at: '2026-06-29T15:09:04Z'
 tags:
 - frontend_ui
-stars: 32785
+stars: 32788
 language: Vue
 status: active
 resource_id: github:vbenjs/vue-vben-admin
 first_seen: '2026-06-16T04:26:21.211293+00:00'
-last_seen: '2026-06-29T16:55:00.280947+05:30'
-last_checked: '2026-06-29T16:55:00.280947+05:30'
+last_seen: '2026-06-29T21:42:24.668487+05:30'
+last_checked: '2026-06-29T21:42:24.668487+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: vbenjs
-- Stars: 32785
-- Forks: 8847
+- Stars: 32788
+- Forks: 8850
 - Language: Vue
 - Topics: admin-template, ant-design, element-plus, monorepo, naive-ui, shadcn-ui, tsx, typescript, vben, vite, vite-template, vue-router, vue3, vuex
-- Last Updated: 2026-06-29T09:05:25Z
+- Last Updated: 2026-06-29T15:09:04Z
 
 ## Possible Use Cases
 

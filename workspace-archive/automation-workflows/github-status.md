@@ -2,7 +2,7 @@
 title: GitHub Status
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://www.githubstatus.com
+source_url: https://githubstatus.com/
 resource_id: blog:github-status
 local_vault_path: ai/rag/github-status.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics, incident tracking, and maintenance notifications.
+- **GitHub Status Page** provides real-time operational status for GitHub services, including uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident tracking across regions (US, EU, Australia, Japan).
 
-- **Notification Channels** include email, SMS (global), Slack, and webhooks for incident updates, with authentication via reCAPTCHA and compliance with Atlassian/GitHub privacy policies.
+- **Incident Management** includes automated notifications via email, SMS (global carrier support), Slack, and webhooks, with historical incident data (e.g., Copilot disruptions on June 23, 2026, due to authentication token misconfiguration).
 
-- **Recent Incidents** (June 2026) involved degraded performance in Copilot, Webhooks, Pull Requests,
+- **Service Degradations** documen
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.githubstatus.com
+Original source URL: https://githubstatus.com/
 
 ## Local Vault File
 

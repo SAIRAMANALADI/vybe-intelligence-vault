@@ -6,12 +6,14 @@ source_url: https://github.com/readthedocs/
 resource_id: blog:read-the-docs-github
 local_vault_path: ai/resources/read-the-docs-github.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -24,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Platform**: Read the Docs is an open-source documentation hosting platform primarily built in Python (Django), with core repositories like `readthedocs.org` (8.4k stars) providing the infrastructure for hosting and building documentation from source (e.g., Sphinx projects).
+- **Hosting Platform**: Read the Docs is an open-source platform primarily written in Python, hosting documentation for over 100,000 projects, with core infrastructure managed via `readthedocs.org`.
 
-- **Ecosystem Components**: The platform includes auxiliary projects such as `sphinx_rtd_theme` (Sass-based Sphinx theme, 5.1k stars), `ethical-ad-server` (Python-based ad server for monetization, AGPL-3.0 licensed)
+- **Key Repositories**: Primary components include `readthedocs.org` (core platform), `sphinx_rtd_theme` (Sphinx theme), `ethical-ad-server` (ad server for monetization), and `readthedocs-docker-images` (Dockerized environments for deployment).
+
+- **Technical Stack**: Utilizes Sphinx for documentati
 
 ## Use Cases
 

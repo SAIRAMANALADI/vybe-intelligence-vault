@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-06-29T16:56:14.338322+05:30'
+collected_at: '2026-06-29T21:43:37.253639+05:30'
 published_at: '2026-05-21T00:52:07Z'
 tags:
 - bicep
 - github-repo
 - rag
+- scripts
 - workflows
 stars: 44
 language: Bicep
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-04-21T19:25:21Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-06-29T16:56:14.338322+05:30'
-last_seen: '2026-06-29T16:56:14.338322+05:30'
-last_checked: '2026-06-29T16:56:14.338322+05:30'
+first_seen: '2026-06-29T21:43:37.253639+05:30'
+last_seen: '2026-06-29T21:43:37.253639+05:30'
+last_checked: '2026-06-29T21:43:37.253639+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for RAG (Retrieval-Augmented Generation) workflows.
+- **Purpose**: Provides a Bicep-based infrastructure-as-code template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling automated MLOps workflows for generative AI applications.
 
-- **RAG Pipeline Integration**: Includes pre-configured components for RAG workflows, such as vector databases, embedding models, and LLM endpoints, facilitating end-to-end generative AI application deployment.
+- **Key Components**: Includes pre-configured Azure resources (e.g., **Azure Machine Learning, Cognitive Search, Key Vault, and Container Instances**) to support end-to-end RAG workflows with scalability and security.
 
-- **CI/CD & Operational Readiness**: Designed for GenAIOps with built-in monitoring, logging, and scalability features, ensuring operational efficiency and maintainability in production environments.
+- **Deployment**: Uses **Bicep** for declarative infrastructure provisioning, ensuring reproducibility and integration with Azure DevOps or GitHub Actions for CI/CD pipelines.
 
 ## Why It Matters
 

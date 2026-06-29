@@ -4,17 +4,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io/
-published_at: '2026-06-29T10:31:27.511508+05:30'
-collected_at: '2026-06-29T10:31:27.511521+05:30'
+published_at: '2026-06-29T21:43:18.179543+05:30'
+collected_at: '2026-06-29T21:43:18.179558+05:30'
 tags:
-- benchmark
+- meta-ai
+- models
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-06-29T10:31:27.511521+05:30'
-last_seen: '2026-06-29T10:31:27.511521+05:30'
-last_checked: '2026-06-29T10:31:27.511521+05:30'
+first_seen: '2026-06-29T21:43:18.179558+05:30'
+last_seen: '2026-06-29T21:43:18.179558+05:30'
+last_checked: '2026-06-29T21:43:18.179558+05:30'
 health_score: 100
 ---
 
@@ -22,11 +24,16 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document indexing, vector search) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
+- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs.
 
-- **Implementation Components**: Includes document processing (PDF splitting, embedding), chain functions (retrieval + generation pipelines), and UI integration (Streamlit) for interactive model comparison and task execution (QA, summarization, translation).
+- **Key Components**:
+  - Document processing (`process_pdf.py`): Splits/embeds PDFs using libraries like `PyPDF2`/`LangChain`.
+  - Query handling (`question_handler.py`): Implements retrieval chains (e.g., `RetrievalQA`) and answer generation via LLM APIs (e.g., HuggingFace transformers).
+  - Multi-model support: Integrates models (e.g., `FLAN-T5`, `Llama2`) for tasks like QA, summarization, and translation via modular chains.
 
-- **Modular Codebase**: Features `process_pdf.py` (document handling), `question_handler.py` (QA chains), `summarizer.py` (document summarization), and `translator.py` (text translation), with backend processing and model selection for multi-model evaluation.
+- **Implementation Workflow**:
+  - Streamlit-based UI for model selection, PDF upload, and task execution.
+  - Backend processes include vector storage (FAISS/Chroma), prompt templating, and parallel model inference with results displayed in real-time.
 
 ## Why It Matters
 
@@ -36,13 +43,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:31:27.511508+05:30
+- Published: 2026-06-29T21:43:18.179543+05:30
 
 ## Related Tags
 
-- benchmark
+- meta-ai
+- models
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

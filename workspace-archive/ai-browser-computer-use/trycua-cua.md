@@ -16,6 +16,7 @@ tags:
 - github-repo
 - html
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides an open-source infrastructure for training and evaluating **Computer-Use Agents (CUAs)** capable of full desktop control across **macOS, Linux, and Windows**.
-- **Components**: Includes **sandboxes, SDKs, and benchmarks** for agent development, with support for **containerization, virtualization (Apple Virtualization Framework, Windows Sandbox), and cross-platform automation**.
-- **Tech Stack**: Primarily **HTML/JavaScript-based**, with integrations for **Swift (macOS), L
+- **Multi-OS Agent Sandboxing**: Provides containerized sandboxes for macOS, Linux, and Windows to safely train and evaluate AI agents capable of full desktop control via virtualization frameworks (e.g., Virtualization Framework, Windows Sandbox).
+
+- **Cross-Platform SDKs & Benchmarks**: Offers SDKs (Swift, HTML) and standardized benchmarks to assess AI agent performance in computer-use tasks, supporting automation, UI interaction, and cross-OS compatibility.
+
+- **Open-Source Infrastructure**: M
 
 ## Use Cases
 

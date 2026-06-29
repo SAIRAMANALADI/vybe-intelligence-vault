@@ -7,7 +7,7 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,8 @@ selection_reason:
 
 ## Summary
 
-*   A RAG system is implemented by loading and recursively splitting source documents into chunks, which are then transformed into numerical embeddings using `OpenAIEmbeddings`.
-*   These embeddings are stored in a local `FAISS` vector database, facilitating semantic similarity search to retrieve contextually relevant document chunks based on user queries.
-*   A `ChatOpenAI` LLM is then prompted with the retrieved context and the user's question, explicitly instructed via a system prompt to answ
+- **RAG Pipeline**: Implements a retrieval-augmented generation system with three core components: document loading/splitting, embedding generation (via OpenAI or local models), and semantic search using FAISS for vector storage and retrieval.
+- **Modular Architecture**: Follows a structured Python implementation with separate modules for document processing (`document_loader.py`), vector storage (`vector_store.py`), and RAG chain construction (`rag_chain.py`), enforcing single-responsibility pr
 
 ## Use Cases
 

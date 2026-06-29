@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/tutorials
-published_at: '2026-06-29T03:52:23.289465+05:30'
-collected_at: '2026-06-29T03:52:23.289479+05:30'
+published_at: '2026-06-29T21:51:37.660030+05:30'
+collected_at: '2026-06-29T21:51:37.660044+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:tutorials-haystack
-first_seen: '2026-06-29T03:52:23.289479+05:30'
-last_seen: '2026-06-29T03:52:23.289479+05:30'
-last_checked: '2026-06-29T03:52:23.289479+05:30'
+first_seen: '2026-06-29T21:51:37.660044+05:30'
+last_seen: '2026-06-29T21:51:37.660044+05:30'
+last_checked: '2026-06-29T21:51:37.660044+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Evaluation Guide**: Comprehensive tutorial covering evaluation metrics and methodologies for assessing Haystack pipelines, including statistical and model-based approaches for RAG systems.
+- **Evaluation Guide**: Provides a comprehensive walkthrough for assessing Haystack pipelines, covering statistical and model-based metrics for RAG systems.
 
-- **Agentic & Multimodal Workflows**: Tutorials on building advanced agentic systems (e.g., multi-agent, tool-calling, human-in-the-loop) and multimodal RAG pipelines integrating vision+text for complex query resolution.
+- **Agentic & Multimodal Workflows**: Tutorials demonstrate tool-calling agents, conversational RAG with chat history, multimodal RAG (vision+text), and multi-agent systems for complex task decomposition.
 
-- **Pipeline Optimization & Serialization**: Techniques for optimizing retrieval (e.g., hybrid retrieval, metadata embedding) and practical guides on serializing/deserializing LLM pipelines (YAML/Python) for deployment efficiency.
+- **Advanced Optimization Techniques**: Includes KV cache compression (TurboQuant), hybrid retrieval (dense + keyword), and structured output generation with OpenAI Pydantic/JSON schema integration.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:52:23.289465+05:30
+- Published: 2026-06-29T21:51:37.660030+05:30
 
 ## Related Tags
 

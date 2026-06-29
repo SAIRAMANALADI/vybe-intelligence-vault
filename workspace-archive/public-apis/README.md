@@ -15,7 +15,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) (framework - USEFUL Tier)
-- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,6 +23,7 @@ https://github.com/public-apis/public-apis (Public APIs)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-29 17:12 IST*
+*Last updated: 2026-06-29 21:59 IST*

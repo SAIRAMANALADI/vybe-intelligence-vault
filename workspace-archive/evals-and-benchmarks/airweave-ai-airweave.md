@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source context retrieval layer**: Airweave provides a Python-based SDK for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs) via semantic search and retrieval-augmented generation (RAG) pipelines.
-
-- **Enterprise data integration**: Supports connectors for structured/unstructured data (SQL, NoSQL, documents) with API-driven retrieval, enabling real-time context augmentation for LLMs without manual preprocessing.
-
-- **Scalable re
+- **Open-source context retrieval layer** for AI agents, enabling **semantic search** and **retrieval-augmented generation (RAG)** via Python SDK and API.
+- Supports **enterprise data connectors**, **real-time information retrieval**, and **semantic indexing** for structured/unstructured data.
+- Provides **developer tools** for **AI agent infrastructure**, including **search API**, **data integration**, and **context-aware retrieval** for LLMs.
 
 ## Use Cases
 

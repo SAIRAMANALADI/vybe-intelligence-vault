@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-29T16:56:04.295606+05:30'
+collected_at: '2026-06-29T21:43:32.241352+05:30'
 published_at: '2026-06-29T00:55:35Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-29T16:56:04.295606+05:30'
-last_seen: '2026-06-29T16:56:04.295606+05:30'
-last_checked: '2026-06-29T16:56:04.295606+05:30'
+first_seen: '2026-06-29T21:43:32.241352+05:30'
+last_seen: '2026-06-29T21:43:32.241352+05:30'
+last_checked: '2026-06-29T21:43:32.241352+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for multimodal AI applications, including Retrieval-Augmented Generation (RAG) using vector search and LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain).
+- **Multimodal AI & RAG Implementations**: Provides practical examples and tutorials for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to enable multimodal AI and Retrieval-Augmented Generation (RAG) workflows.
 
-- **Vector Database Integration**: Demonstrates practical use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines, supporting deep learning and machine learning workflows.
+- **Vector Database Recipes**: Demonstrates optimized use of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in machine learning pipelines.
 
-- **Agent & LLM Tooling**: Includes tutorials for building AI agents with OpenAI models, fine-tuning embeddings, and integrating tools like LangChain/Llama-Index for multimodal and RAG-based applications.
+- **Agent & Tool Integration**: Includes recipes for building AI agents with tools like OpenAI APIs, focusing on multimodal embeddings, fine-tuning, and end-to-end LLM-driven applications.
 
 ## Why It Matters
 

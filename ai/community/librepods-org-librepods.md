@@ -13,13 +13,14 @@ collected_at: '2026-06-29T16:55:02.417840+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:librepods-org/librepods
 first_seen: '2026-06-29T01:16:50.284208+05:30'
 last_seen: '2026-06-29T16:55:02.417840+05:30'
 last_checked: '2026-06-29T16:55:02.417840+05:30'
 health_score: 100
 ---
+
 
 # Librepods: AirPods liberated
 

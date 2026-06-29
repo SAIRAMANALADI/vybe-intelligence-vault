@@ -4,22 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-29T16:57:29.328567+05:30'
-published_at: '2026-06-29T10:23:23Z'
+collected_at: '2026-06-29T21:44:57.340473+05:30'
+published_at: '2026-06-29T15:25:39Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-stars: 193
+stars: 194
 language: Python
 status: active
 archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-29T16:57:29.328567+05:30'
-last_seen: '2026-06-29T16:57:29.328567+05:30'
-last_checked: '2026-06-29T16:57:29.328567+05:30'
+first_seen: '2026-06-29T21:44:57.340473+05:30'
+last_seen: '2026-06-29T21:44:57.340473+05:30'
+last_checked: '2026-06-29T21:44:57.340473+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-*   Implements Knowledge-Graph-Based Generation for RAG.
-*   Utilizes Semantic Aggregation for enhanced context understanding.
-*   Features Hierarchical Retrieval mechanisms for relevant information extraction.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity, relation, subgraph) and semantic aggregation for improved context relevance.
+
+- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+
+- **AAAI 2026 Framework**: Designed for structured knowledge integration, enabling dynamic graph updates and adaptive retrieval strategies for generative tasks.
 
 ## Why It Matters
 
@@ -38,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KnowledgeXLab
-- Stars: 193
+- Stars: 194
 - Forks: 26
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-29T10:23:23Z
+- Last Updated: 2026-06-29T15:25:39Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-03-23T06:52:23Z

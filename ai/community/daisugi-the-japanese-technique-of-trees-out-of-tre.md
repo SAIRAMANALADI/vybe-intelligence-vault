@@ -13,13 +13,14 @@ collected_at: '2026-06-29T16:55:02.202880+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:daisugi-the-japanese-technique-of-growing-trees-ou
 first_seen: '2026-06-28T22:07:21.869805+05:30'
 last_seen: '2026-06-29T16:55:02.202880+05:30'
 last_checked: '2026-06-29T16:55:02.202880+05:30'
 health_score: 100
 ---
+
 
 # Daisugi, the Japanese technique of growing trees out of other trees (2020)
 

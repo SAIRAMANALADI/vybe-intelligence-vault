@@ -8,7 +8,7 @@ local_vault_path: ai/rag/cookbook-haystack.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - reddit
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # 🧑‍🍳 Cookbook | Haystack
@@ -32,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Haystack Cookbook** provides 71 technical recipes demonstrating integrations with model providers, vector databases, retrieval techniques, and more, with most examples showcasing small-scale demos.
+- **Haystack Cookbook** provides 71 technical recipes for integrating model providers, vector databases, retrieval techniques, and more, with examples spanning RAG, agents, multimodal processing, and advanced retrieval strategies.
 
-- **Recipes span advanced topics** including Agents, RAG, Multimodal processing, Model Serving (e.g., vLLM, NVIDIA NIMs), Hybrid Retrieval (BM42), and specialized workflows like Agentic Itinerary Planning with OpenStreetMap or Tabular Data Processing with Prior Labs MCP.
+- **Key Technical Areas Covered**: Custom tool integration (e.g., MCP, OpenStreetMap), hybrid retrieval (e.g., BM42, HyDE), and agentic workflows (e.g., self-reflecting agents, swarm architectures) with support for async execution and function calling.
 
-- **Covers evaluation an
+- **Specialize
 
 ## Use Cases
 

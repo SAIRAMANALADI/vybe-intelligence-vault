@@ -33,9 +33,8 @@ selection_reason:
 
 ## Summary
 
-*   A RAG system is implemented by loading and recursively splitting source documents into chunks, which are then transformed into numerical embeddings using `OpenAIEmbeddings`.
-*   These embeddings are stored in a local `FAISS` vector database, facilitating semantic similarity search to retrieve contextually relevant document chunks based on user queries.
-*   A `ChatOpenAI` LLM is then prompted with the retrieved context and the user's question, explicitly instructed via a system prompt to answ
+- **RAG Pipeline**: Implements a retrieval-augmented generation system with three core components: document loading/splitting, embedding generation (via OpenAI or local models), and semantic search using FAISS for vector storage and retrieval.
+- **Modular Architecture**: Follows a structured Python implementation with separate modules for document processing (`document_loader.py`), vector storage (`vector_store.py`), and RAG chain construction (`rag_chain.py`), enforcing single-responsibility pr
 
 ## Use Cases
 

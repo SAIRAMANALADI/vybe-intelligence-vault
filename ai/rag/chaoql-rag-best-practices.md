@@ -4,12 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chaoql/rag-best-practices
-collected_at: '2026-06-29T16:56:44.257786+05:30'
+collected_at: '2026-06-29T21:44:07.217791+05:30'
 published_at: '2026-06-22T11:51:50Z'
 tags:
 - benchmark
+- dataset
 - github-repo
-- hackernews
+- meta-ai
+- mistral
+- models
 - python
 - rag
 stars: 92
@@ -20,9 +23,9 @@ archived: false
 created_at: '2024-07-23T09:37:21Z'
 pushed_at: '2024-09-04T09:54:21Z'
 resource_id: github:chaoql/rag-best-practices
-first_seen: '2026-06-29T16:56:44.257786+05:30'
-last_seen: '2026-06-29T16:56:44.257786+05:30'
-last_checked: '2026-06-29T16:56:44.257786+05:30'
+first_seen: '2026-06-29T21:44:07.217791+05:30'
+last_seen: '2026-06-29T21:44:07.217791+05:30'
+last_checked: '2026-06-29T21:44:07.217791+05:30'
 health_score: 100
 ---
 
@@ -30,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Optimization Framework**: Repository provides Python-based best practices for optimizing Retrieval-Augmented Generation (RAG) pipelines, focusing on model performance and retrieval efficiency.
-- **Technical Implementation**: Includes methodologies for integrating large language models (LLMs) with vector databases, emphasizing chunking strategies, embedding models, and retrieval tuning.
-- **Evaluation Metrics**: Implements benchmarking for RAG systems, covering metrics like answer relevance, context precision, and latency optimization for production deployment.
+- **RAG Optimization Framework**: Implements retrieval-augmented generation (RAG) best practices with modular components for indexing, retrieval, and generation, leveraging vector databases (e.g., FAISS, Chroma) and LLMs (e.g., Llama, Mistral) for enhanced contextual accuracy.
+
+- **Hybrid Retrieval Strategies**: Combines dense (embedding-based) and sparse (BM25/keyword) retrieval methods to improve recall and precision, with dynamic reranking via cross-encoders (e.g., BERT-based) for query refinement.
+
+- **Evaluation & Benchmarking**: Includes automated evaluation pipelines for assessing RAG performance metrics (e.g., answer correctness, context relevance) using datasets like MS MARCO or custom domain-specific corpora, with logging for A/B testing.
 
 ## Why It Matters
 

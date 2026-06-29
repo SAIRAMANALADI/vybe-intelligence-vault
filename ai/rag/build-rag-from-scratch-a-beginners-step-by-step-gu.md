@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-06-29T10:31:31.133811+05:30'
-collected_at: '2026-06-29T10:31:31.133825+05:30'
+published_at: '2026-06-29T21:43:21.186575+05:30'
+collected_at: '2026-06-29T21:43:21.186587+05:30'
 tags:
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-06-29T10:31:31.133825+05:30'
-last_seen: '2026-06-29T10:31:31.133825+05:30'
-last_checked: '2026-06-29T10:31:31.133825+05:30'
+first_seen: '2026-06-29T21:43:21.186587+05:30'
+last_seen: '2026-06-29T21:43:21.186587+05:30'
+last_checked: '2026-06-29T21:43:21.186587+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-*   A RAG system is implemented by loading and recursively splitting source documents into chunks, which are then transformed into numerical embeddings using `OpenAIEmbeddings`.
-*   These embeddings are stored in a local `FAISS` vector database, facilitating semantic similarity search to retrieve contextually relevant document chunks based on user queries.
-*   A `ChatOpenAI` LLM is then prompted with the retrieved context and the user's question, explicitly instructed via a system prompt to answer *only* from the provided context to mitigate hallucinations.
+- **RAG Pipeline**: Implements a retrieval-augmented generation system with three core components: document loading/splitting, embedding generation (via OpenAI or local models), and semantic search using FAISS for vector storage and retrieval.
+- **Modular Architecture**: Follows a structured Python implementation with separate modules for document processing (`document_loader.py`), vector storage (`vector_store.py`), and RAG chain construction (`rag_chain.py`), enforcing single-responsibility principles.
+- **Hallucination Mitigation**: Enforces answer generation strictly from retrieved context with a system prompt that rejects out-of-context responses, ensuring factual grounding by returning "I don't know" when no relevant information is found.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:31:31.133811+05:30
+- Published: 2026-06-29T21:43:21.186575+05:30
 
 ## Related Tags
 

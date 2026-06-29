@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Persistent Memory System**: Provides durable, long-term storage for AI coding agents, enabling context retention across sessions based on real-world benchmarking.
+- **Persistent Memory System**: Provides long-term storage for AI coding agents, enabling retention of context and state across sessions based on real-world benchmarks.
 
-- **TypeScript Implementation**: Built in TypeScript with modular architecture, supporting integration with popular AI coding tools (Claude, Codex, Copilot, etc.).
+- **TypeScript Implementation**: Built in TypeScript, offering type safety and scalability for integration with AI agents like Claude, Codex, and Copilot.
 
-- **Benchmark-Driven Design**: Optimized for performance and reliability, with active community adoption (24.2k+ stars, 1.99k+ forks) and recent updates (June 2026).
+- **Benchmark-Driven Design**: Optimized for performance and reliability, leveraging real-world usage metrics to enhance agent efficiency and memory persistence.
 
 ## Use Cases
 

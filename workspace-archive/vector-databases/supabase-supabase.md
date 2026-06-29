@@ -1,42 +1,40 @@
 ---
-title: supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+title: supabase/examples/ai at master · supabase/supabase · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+source_url: https://github.com/supabase/supabase/tree/master/examples/ai
 resource_id: github:supabase/supabase
 local_vault_path: ai/rag/supabase-supabase.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- frontend_ui
-- hackernews
-- openai
+- meta-ai
+- models
 - rag
 - reddit
 - web-crawled
-- youtube
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
-# supabase/apps/docs/CONTRIBUTING.md at master · supabase/supabase · GitHub
+# supabase/examples/ai at master · supabase/supabase · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- Supabase docs are structured into **Explainers** (conceptual, prose-based), **Tutorials** (goal-oriented with mixed prose/procedures), **Guides** (concise, step-by-step procedures), and **References** (factual, parameter/return-type-focused, auto-generated from specs).
-
-- Docs follow **MDX** format with YAML frontmatter (e.g., `title`, `hideToc`), and reference specs are split into **common** (shared function definitions) and **library-specific** (language SDK details) files, transformed via `
+- **Repository Overview**: Supabase's main GitHub repository has **105k stars** and **12.9k forks**, with **235 open issues** and **856 pull requests**.
+- **AI Examples Directory**: Contains subdirectories for AI-related examples, including `aws_bedrock_image_gen`, `edge-functions`, `llamaindex`, and Jupyter notebooks (`face_similarity.ipynb`, `vector_hello_world.ipynb`).
+- **Security & Quality Metrics**: The repository reports **0 security alerts** and **0 quality insights** in the latest scan.
 
 ## Use Cases
 
@@ -46,7 +44,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supabase/supabase/blob/master/apps/docs/CONTRIBUTING.md
+Original source URL: https://github.com/supabase/supabase/tree/master/examples/ai
 
 ## Local Vault File
 
