@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 02:39 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 03:47 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • <kbd>+32 pts</kbd>
-- 🔼 **[OpenTelemetry - CNCF · GitHub](ai/resources/opentelemetry-cncf-github.md)** • Rank: <kbd>+2544</kbd>
-- 🔼 **[opentelemetry-specification/oteps/0232-maturity-of-otel.md at v1.58.0 · open-telemetry/opentelemetry-specification · Git](ai/rag/open-telemetry-opentelemetry-specification.md)** • Rank: <kbd>+2645</kbd>
-- 🔼 **[Model Context Protocol · GitHub](ai/resources/model-context-protocol-github.md)** • Rank: <kbd>+2490</kbd>
-- 🔼 **[docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub](ai/rag/github-docs.md)** • Rank: <kbd>+311</kbd>
+- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Antares achieves criticality of Mark-0 reactor](web-development/community/antares-achieves-criticality-of-mark-0-reactor.md)** • Score: `57`
-- 🆕 **[Blowfish](ai/resources/blowfish.md)** • Score: `0`
-- 🆕 **[Jun 11, 2026AnnouncementsIntroducing Claude Corps](ai/companies/anthropic/jun-11-2026announcementsintroducing-claude-corps.md)** • Score: `0`
-- 🆕 **[ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)** • Score: `0`
-- 🆕 **[hasaneyldrm/exercises-dataset](ai/trending/hasaneyldrm-exercises-dataset.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[EU commissioners shut down air conditioning for employees, leave theirs on](ai/community/eu-commissioners-shut-down-air-conditioning-for-em.md)**
-- 💤 **[Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](ai/community/scammers-sell-seeds-for-exotic-ai-generated-flower.md)**
-- 💤 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)**
-- 💤 **[Jun 30, 2026AnnouncementsClaude Science, an AI workbench for scientists, is now available](ai/companies/anthropic/jun-30-2026announcementsclaude-science-an-ai-workb.md)**
-- 💤 **[facebook/astryx](ai/agents/facebook-astryx.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
