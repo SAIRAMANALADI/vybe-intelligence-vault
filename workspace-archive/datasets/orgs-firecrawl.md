@@ -8,7 +8,7 @@ local_vault_path: ai/rag/orgs-firecrawl.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: dataset
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # firecrawl repositories · GitHub
@@ -32,18 +32,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: dataset
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Firecrawl**: TypeScript-based web scraping/crawling API with 140k stars, supporting Markdown conversion, AI integration, and structured data extraction at scale.
+- **Firecrawl**: TypeScript-based web scraping and interaction API supporting Markdown conversion, AI integration, and large-scale crawling with 142k stars and AGPL-3.0 license.
 
-- **pdf-inspector**: Rust-based high-performance PDF processor (Node.js/Python bindings) for intelligent text extraction, classification, and OCR routing decisions.
+- **PDF Inspector**: Rust-based high-performance library for PDF text extraction, classification (scanned vs. text-based), and OCR routing with 1.5k stars.
 
-- **fireplexity**: TypeScript open-source Perplexity-like AI search engine with real-time citations, streaming responses, and live data aggregation via Firecrawl.
+- **Firecrawl MCP Server**: JavaScript-based Model Context Protocol (MCP) server enabling real-time web scraping and search integration for LLM clients like Cursor
 
 ## Use Cases
 

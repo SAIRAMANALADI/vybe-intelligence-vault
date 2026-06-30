@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/addyosmani/agent-skills
-collected_at: '2026-06-29T10:34:40.812665+05:30'
-published_at: '2026-06-29T04:56:18Z'
+collected_at: '2026-06-30T10:09:35.588015+05:30'
+published_at: '2026-06-30T04:33:15Z'
 tags:
 - agents
 - anthropic
@@ -14,7 +14,7 @@ tags:
 - scripts
 - shell
 - workflows
-stars: 67710
+stars: 68010
 language: Shell
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-02-15T20:20:26Z'
 pushed_at: '2026-06-28T18:11:20Z'
 resource_id: github:addyosmani/agent-skills
-first_seen: '2026-06-29T10:34:40.812665+05:30'
-last_seen: '2026-06-29T10:34:40.812665+05:30'
-last_checked: '2026-06-29T10:34:40.812665+05:30'
+first_seen: '2026-06-30T10:09:35.588015+05:30'
+last_seen: '2026-06-30T10:09:35.588015+05:30'
+last_checked: '2026-06-30T10:09:35.588015+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, focusing on automation and efficiency in development workflows.
-- **Key Features**: Includes specialized tools and configurations for agents like `claude-code` and `cursor`, optimized for tasks such as code generation, debugging, and project scaffolding.
-- **Technical Stack**: Primarily implemented in Shell, with integrations for AI-driven development environments (e.g., Antigravity IDE) and last updated in June 2026.
+- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `cursor`, and `antigravity-ide`.
+
+- **Technical Stack**: Primarily implemented in Shell, with focus on agent-specific workflows and automation.
+
+- **Metrics**: 68,010 stars, 7,381 forks, last updated June 30, 2026.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: addyosmani
-- Stars: 67710
-- Forks: 7345
+- Stars: 68010
+- Forks: 7381
 - Language: Shell
 - Topics: agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
-- Last Updated: 2026-06-29T04:56:18Z
+- Last Updated: 2026-06-30T04:33:15Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-15T20:20:26Z

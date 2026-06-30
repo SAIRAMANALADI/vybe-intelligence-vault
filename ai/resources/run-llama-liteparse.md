@@ -4,24 +4,25 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/liteparse
-collected_at: '2026-06-30T01:51:26.637016+05:30'
-published_at: '2026-06-29T20:01:21Z'
+collected_at: '2026-06-30T10:11:31.947575+05:30'
+published_at: '2026-06-30T04:23:46Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
-stars: 11253
+- workflows
+stars: 11261
 language: Rust
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-09T22:16:30Z'
-pushed_at: '2026-06-29T20:01:08Z'
+pushed_at: '2026-06-30T03:52:44Z'
 resource_id: github:run-llama/liteparse
-first_seen: '2026-06-30T01:51:26.637016+05:30'
-last_seen: '2026-06-30T01:51:26.637016+05:30'
-last_checked: '2026-06-30T01:51:26.637016+05:30'
+first_seen: '2026-06-30T10:11:31.947575+05:30'
+last_seen: '2026-06-30T10:11:31.947575+05:30'
+last_checked: '2026-06-30T10:11:31.947575+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Rust-based OCR & PDF Parser**: `liteparse` is a high-performance document parser written in Rust, optimized for fast OCR, PDF processing, and text extraction with minimal latency.
-- **Modular Architecture**: Supports extensible pipelines for document preprocessing, OCR (Tesseract/alternatives), and structured text extraction with configurable backends.
-- **Lightweight & Open-Source**: Designed for efficiency with minimal dependencies, offering an MIT-licensed alternative to heavier document processing frameworks.
+*   High-performance document parsing and text extraction engine, implemented in Rust.
+*   Specializes in OCR recognition for diverse document types, including PDF processing.
+*   Provides an open-source solution for robust document processing and text extraction workflows.
 
 ## Why It Matters
 
@@ -40,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 11253
-- Forks: 748
+- Stars: 11261
+- Forks: 747
 - Language: Rust
 - Topics: document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction
-- Last Updated: 2026-06-29T20:01:21Z
+- Last Updated: 2026-06-30T04:23:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:16:30Z
-- Pushed At: 2026-06-29T20:01:08Z
+- Pushed At: 2026-06-30T03:52:44Z
 
 ## Possible Use Cases
 

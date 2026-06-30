@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **Authentication Error**: The page failed to load due to an unspecified error, requiring a manual reload.
-- **Password Reset Option**: Users can initiate a password recovery via the provided "Forgot password?" link.
-- **Account Creation Path**: New users are directed to a signup page with a pre-filled return URL to the specified documentation.
+- GitHub authentication failure detected during page load, requiring a manual reload.
+- Account creation link provided for new users, redirecting to signup with return path to specific documentation edit page.
+- Passkey-based authentication option available as an alternative sign-in method.
 
 ## Use Cases
 

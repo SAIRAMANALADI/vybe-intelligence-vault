@@ -15,7 +15,6 @@ tags:
 - github-repo
 - hackernews
 - javascript
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Ecosystem Index**: Curated collection of resources for LangChain and LangGraph, covering concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
+- **Comprehensive Ecosystem Index**: Curated collection of resources covering LangChain and LangGraph, including concepts, projects, tools, templates, and guides for building LLM and multi-agent applications.
 
-- **Technical Breadth**: Encompasses JavaScript-based implementations and integrates topics like AI, LLM agents, and workflow orchestration within the LangGraph framework.
+- **Technical Breadth**: Focuses on JavaScript-based implementations, with curated content spanning AI frameworks, agent orchestration, and LLM integration patterns.
 
-- **Active Maintenance**: Last updated June 28, 2026, with 1,883 stars and 226 forks, indicating ongoing community engageme
+- **High-Activity Repository**: Maintained with recent updates (as of 2026-06-29), featuring 1,884 stars and 229 forks, ind
 
 ## Use Cases
 

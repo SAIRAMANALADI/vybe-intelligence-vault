@@ -8,19 +8,19 @@ local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: dataset
 importance: medium
 tags:
 - agents
 - anthropic
 - benchmark
+- dataset
 - hackernews
 - meta-ai
 - mistral
 - models
 - openai
 - producthunt
-- rag
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -32,16 +32,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch external information (documents, databases) for enhanced responses while managing context window limits (e.g., GPT-4.1: 1M tokens, Claude Sonnet: 200K tokens).
+- **RAG Architecture**: Combines LLMs with external retrieval systems to fetch relevant context (e.g., documents) dynamically, avoiding context window overload by processing only pertinent chunks (~1K tokens each) instead of entire datasets (e.g., 10M tokens).
 
-- **Embedding Pipeline**: Chunks documents (e.g., 10M tokens → 10K chunks of 1K tokens each), converts text to high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings), and stores them in vector databases (Pinecone, Weaviate, FAISS) for semantic similarity matchi
+- **Embedding Pipeline**: Chunks of source data (PDFs, CSVs) are converted into high-dimensional vector embeddings (e.g., OpenAI’s 3,072-dim "text-embedding-3-large") using specialized models, enabling semantic similarity search via vecto
 
 ## Use Cases
 

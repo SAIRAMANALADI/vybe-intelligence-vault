@@ -6,10 +6,10 @@ source_url: https://github.com/run-llama
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - meta-ai
@@ -27,18 +27,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified platform with [documentation](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (modular agent framework), and core `LlamaIndex` (Python) library for document workflows with [documentation](https://docs.llamaindex.ai/en/stable/).
+- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the core `LlamaIndex` Python library for building RAG/LLM pipelines with comprehensive documentation.
 
-- **Community & Support**: Active on [X](ht
+- **Community & Ecosystem**: Maintains active presence on X (Twitter), LinkedI
 
 ## Use Cases
 

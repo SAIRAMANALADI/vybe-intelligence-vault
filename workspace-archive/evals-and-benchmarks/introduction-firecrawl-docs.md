@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Functions**: Provides `scrape` (webpage content extraction in markdown/JSON), `crawl` (full website extraction with metadata), `map` (URL enumeration), and `search` (web search with full-page content retrieval).
-- **Agentic Capabilities**: Supports `extract` for structured data extraction from webpages using natural language queries.
-- **Authentication & Rate Limits**: Requires `Bearer <API_KEY>` in `Authorization` header; returns HTTP `429` for rate/concurrency limit breaches, with det
+- **Core Functions**: Provides `scrape` (markdown/JSON extraction), `crawl` (full-site extraction), `map` (URL listing), `search` (web search + content retrieval), and `extract` (structured data via NLP).
+- **API Specs**: Base URL is `https://api.firecrawl.dev`; requires `Authorization: Bearer fc-<API_KEY>` header.
+- **Error Handling**: Uses HTTP codes (2xx/4xx/5xx); specific errors include `SCRAPE_TIMEOUT`, `SCRAPE_SSL_ERROR`, and `429` for rate limits.
 
 ## Use Cases
 

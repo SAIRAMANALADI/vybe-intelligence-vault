@@ -9,7 +9,7 @@ local_vault_path: ai/rag/medium-members-can-listen-to-any-medium-story-with.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -22,18 +22,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Integration & Accessibility**: Medium’s partnership with Speechify enables all Medium members to convert any article into audio via the "Listen" feature, using multiple narrators, with text-to-speech highlighting for enhanced comprehension and retention.
+- **Integration & Accessibility**: Medium’s "Listen" feature, powered by Speechify, enables Medium members to convert any article into audio with synchronized text highlighting, enhancing accessibility for users with dyslexia, visual impairments, or those seeking multitasking efficiency (e.g., commuting, exercising).
 
-- **Performance & Utility**: Users report consuming up to 3x more content via audio, with adjustable playback speeds (0.5x–4.5x) for productivity, and writers leverage the tool for proofreading by detecting awkward phrasing in drafts.
-
-- **
+- **Performance & Customization**: Users can adjust playback speed from 0.5x to 4.5x, with reports of up to 3x more content consumption; writers leverage the tool for proofreading
 
 ## Use Cases
 

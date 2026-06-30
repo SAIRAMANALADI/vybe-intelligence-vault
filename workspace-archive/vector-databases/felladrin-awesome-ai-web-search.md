@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated List of AI-Powered Web Search Tools**: Repository aggregates software enabling AI-assisted web searches, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks for enhanced information retrieval.
+- **Curated Resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and projects, including Hugging Face Space integration (`hf.co/spaces/felladrin/awesome-ai-web-search`).
 
-- **Technical Scope**: Covers tools leveraging LLMs for inference, generative AI projects, and AI-driven search engines, with emphasis on retrieval-augmented generation (RAG) and metasearch methodologies.
+- **Technical Scope**: Focuses on **LLM inference**, **RAG (Retrieval-Augmented Generation)**, **metasearch engines**, **question-answering systems**, and **generative AI tools** for enhanced web information retrieval.
 
-- **Metadata**: Hosted on GitH
+- **Metadata**: 1,362 stars, 111 forks, primari
 
 ## Use Cases
 

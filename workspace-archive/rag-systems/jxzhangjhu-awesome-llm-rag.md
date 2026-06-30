@@ -6,18 +6,19 @@ source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
 resource_id: github:jxzhangjhu/awesome-llm-rag
 local_vault_path: ai/rag/jxzhangjhu-awesome-llm-rag.md
 quality_score: 70
-archive_score: 79
+archive_score: 81
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # jxzhangjhu/Awesome-LLM-RAG
@@ -25,17 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated resource**: Comprehensive collection of advanced RAG techniques for LLMs, covering embeddings, retrieval-augmented generation, and retrieval-information optimization.
-- **Technical scope**: Includes state-of-the-art methods in LLM-RAG integration, focusing on retrieval mechanisms, embedding models, and hybrid architectures.
-- **Updated repository**: Last modified in 2026, maintaining relevance with ongoing advancements in LLM-RAG research and applications.
+- **Curated Resource**: A comprehensive, community-maintained repository aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research papers for **Large Language Models (LLMs)**.
+- **Technical Scope**: Focuses on **embeddings**, **retrieval mechanisms**, and **RAG-augmented LLMs**, covering topics like retrieval efficiency, hybrid search, and context augmentation.
+- **Updated & Active**: Last synchronized on **2026-06-29**, with 1,339 stars and 84 forks, ind
 
 ## Use Cases
 

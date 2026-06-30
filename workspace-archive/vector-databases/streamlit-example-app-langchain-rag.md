@@ -6,16 +6,14 @@ source_url: https://github.com/streamlit/example-app-langchain-rag
 resource_id: github:streamlit/example-app-langchain-rag
 local_vault_path: ai/rag/streamlit-example-app-langchain-rag.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 81 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a Streamlit app integrating LangChain with a vector store (e.g., FAISS) for **hybrid search** (combining dense and sparse retrieval) to enhance document retrieval relevance.
+- **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
 
-- **Modular LangChain Components**: Implements a **retrieval-augmented generation (RAG)** workflow using LangChain's `RetrievalQA` chain, with configurable parameters for chunking, embeddings (e.g., HuggingFace), and LLM integration (e.g., OpenAI, local models).
+- **Streamlit UI**: Provides a frontend interface built with Streamlit to interact with LangChain's RAG pipeline, enabling user queries and result visualization.
 
-- **Streamlit UI for
+- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS, Chroma) for efficient storage and retrieval of embeddings, supporting semantic search capab
 
 ## Use Cases
 

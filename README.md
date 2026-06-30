@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 9,854</p>
-        <p><b>Active:</b> 9,577 | <b>Inactive:</b> 277</p>
+        <p><b>Resources tracked:</b> 10,845</p>
+        <p><b>Active:</b> 10,568 | <b>Inactive:</b> 277</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 37,204</p>
+        <p><b>Archive Files:</b> 41,358</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 09:27 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 10:22 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,19 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+3</kbd>
-- 🔼 **[stanford-oval/storm](ai/rag/stanford-oval-storm.md)** • Rank: <kbd>+1</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • <kbd>+244 pts</kbd>
+- 🔼 **[Working With AI: A concrete example](ai/community/working-with-ai-a-concrete-example.md)** • <kbd>+55 pts</kbd>
+- 🔼 **[psf/requests](ai/resources/psf-requests.md)** • Rank: <kbd>+1610</kbd>
+- 🔼 **[NVIDIA Documentation Hub - NVIDIA Docs](ai/rag/nvidia-documentation-hub-nvidia-docs.md)** • Rank: <kbd>+3445</kbd>
+- 🔼 **[Alabaster: a Sphinx theme — Alabaster documentation](ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md)** • Rank: <kbd>+319</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Developer Guides — Twisted 25.5.0 documentation](ai/rag/developer-guides-twisted-25-5-0-documentation.md)** • Score: `0`
+- 🆕 **[Models | Django documentation | Django](ai/rag/models-django-documentation-django.md)** • Score: `0`
+- 🆕 **[twisted/twisted](ai/resources/twisted-twisted.md)** • Score: `0`
+- 🆕 **[Twisted Web In 60 Seconds — Twisted 25.5.0 documentation](ai/resources/twisted-web-in-60-seconds-twisted-25-5-0-documenta.md)** • Score: `0`
+- 🆕 **[django/django](ai/rag/django-django.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Ornith-1.0: Self-scaffolding LLMs for agentic coding](ai/community/ornith-1-0-self-scaffolding-llms-for-agentic-codin.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

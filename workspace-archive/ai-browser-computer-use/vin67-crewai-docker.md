@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python-based framework for multi-agent AI systems.
-- **Python-Based**: Uses Python as the primary language, ensuring compatibility with CrewAI’s dependencies and libraries.
-- **Last Updated**: Repository was last modified on **2026-03-15**, indicating recent maintenance or updates.
+- **Dockerfile Template**: Provides a pre-configured Docker setup for CrewAI, a Python-based framework for multi-agent AI systems, enabling containerized deployment.
+
+- **Minimal Configuration**: Optimized for lightweight execution with Python dependencies isolated, ensuring reproducible environments for CrewAI applications.
+
+- **GitHub Repository**: Hosts the template under `vin67/crewai_docker` with 9 stars and 10 forks, last updated March 15, 2026.
 
 ## Use Cases
 

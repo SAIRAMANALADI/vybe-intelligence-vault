@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-06-30T03:53:56.217801+05:30'
+collected_at: '2026-06-30T10:07:55.527033+05:30'
 published_at: '2026-06-27T02:54:33Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 520
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-05-21T00:49:58Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-06-30T03:53:56.217801+05:30'
-last_seen: '2026-06-30T03:53:56.217801+05:30'
-last_checked: '2026-06-30T03:53:56.217801+05:30'
+first_seen: '2026-06-30T10:07:55.527033+05:30'
+last_seen: '2026-06-30T10:07:55.527033+05:30'
+last_checked: '2026-06-30T10:07:55.527033+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- Introduces **LinearRAG**, a novel **graph-based Retrieval-Augmented Generation (RAG)** framework optimizing linear-time retrieval for large-scale corpora, addressing scalability limitations in traditional RAG systems.
-- Proposes **linear graph traversal** techniques to efficiently navigate and retrieve relevant information from **large knowledge graphs**, reducing computational overhead while maintaining retrieval accuracy.
-- Demonstrates **empirical improvements** in retrieval efficiency and downstream task performance on **LLM-based generation tasks**, validated through experiments on benchmark datasets.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing LLM performance via graph-based indexing and retrieval mechanisms.
+
+- **Scalability & Efficiency**: Implements linear-time graph traversal algorithms (O(V+E)) for retrieval, enabling scalable processing of massive document collections while maintaining low latency and high throughput.
+
+- **ICLR 2026 Contribution**: Proposes a graph-centric RAG paradigm that outperforms traditional vector-based retrieval in both accuracy and computational efficiency, with empirical validation on benchmark datasets.
 
 ## Why It Matters
 

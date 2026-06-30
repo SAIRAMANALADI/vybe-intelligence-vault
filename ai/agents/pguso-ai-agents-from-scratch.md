@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-06-30T03:54:16.255258+05:30'
+collected_at: '2026-06-30T10:08:20.511125+05:30'
 published_at: '2026-06-29T22:03:25Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-06-30T03:54:16.255258+05:30'
-last_seen: '2026-06-30T03:54:16.255258+05:30'
-last_checked: '2026-06-30T03:54:16.255258+05:30'
+first_seen: '2026-06-30T10:08:20.511125+05:30'
+last_seen: '2026-06-30T10:08:20.511125+05:30'
+last_checked: '2026-06-30T10:08:20.511125+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation Guide**: Demonstrates building AI agents from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to avoid black-box dependencies and enable hands-on learning of core concepts.
+- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and focusing on core concepts like function calling, memory, and ReAct patterns.
 
-- **Key Technical Concepts**: Covers function calling, memory management, and ReAct (Reasoning and Acting) patterns, providing a practical, code-level understanding of agent architectures.
+- **Technical Implementation**: Utilizes JavaScript and `node-llama-cpp` to demonstrate agent architecture, including function-calling mechanisms and React-based agent patterns for real-world applicability.
 
-- **Educational Focus**: Structured as a tutorial to demystify AI agents, emphasizing real-world implementation over abstract theory, with updates as recent as June 2026.
+- **Repository Metadata**: Maintained with 4,336 stars and 631 forks, last updated on June 29, 2026, targeting developers interested in AI agent development without external dependencies.
 
 ## Why It Matters
 

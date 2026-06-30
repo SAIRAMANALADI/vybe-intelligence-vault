@@ -12,6 +12,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Practical RAG Implementation**: Implements a Retrieval-Augmented Generation (RAG) system enabling interaction with GitHub repositories via natural language queries.
-- **Python-Based Tool**: Developed in Python, facilitating local downloads and conversational querying of repository contents.
-- **Recent Update**: Last modified on June 24, 2026, with moderate community engagement (98 stars, 20 forks).
+- **Purpose**: Implements a Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language.
+- **Technical Stack**: Built in Python, leveraging RAG architecture for context-aware responses from repository content.
+- **Key Features**: Supports real-time chat with GitHub repos, enabling efficient code/document retrieval and Q&A (last updated: 2026-06-24).
 
 ## Use Cases
 

@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Andrew-Jang/RAGHub
-collected_at: '2026-06-29T10:31:30.738253+05:30'
-published_at: '2026-06-29T02:51:44Z'
+collected_at: '2026-06-30T10:06:25.444848+05:30'
+published_at: '2026-06-30T03:20:38Z'
 tags:
 - github-repo
-- models
+- hackernews
 - rag
 - unknown
-stars: 1936
+stars: 1939
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-10-02T12:07:52Z'
 pushed_at: '2026-06-20T16:17:32Z'
 resource_id: github:andrew-jang/raghub
-first_seen: '2026-06-29T10:31:30.738253+05:30'
-last_seen: '2026-06-29T10:31:30.738253+05:30'
-last_checked: '2026-06-29T10:31:30.738253+05:30'
+first_seen: '2026-06-30T10:06:25.444848+05:30'
+last_seen: '2026-06-30T10:06:25.444848+05:30'
+last_checked: '2026-06-30T10:06:25.444848+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Aggregates open-source RAG frameworks, projects, and resources, facilitating community contributions and exploration of retrieval-augmented generation (RAG) advancements.
-- **Metadata**: 1,936 stars, 180 forks; topics include AI, LLMs, NLP, and open-source RAG implementations; last updated June 29, 2026.
-- **Repository**: Hosted on GitHub (`Andrew-Jang/RAGHub`), focusing on RAG-related tools and research in machine learning and natural language processing.
+- **Community-curated RAG ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG) across AI, NLP, and LLM domains.
+- **Metadata**: 1,939 stars, 179 forks, last updated June 30, 2026; supports AI/ML/NLP topics with open-source contributions.
+- **Technical focus**: Centralized hub for RAG-related tools, libraries, and research, facilitating collaboration in large language model augmentation.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Andrew-Jang
-- Stars: 1936
-- Forks: 180
+- Stars: 1939
+- Forks: 179
 - Language: Unknown
 - Topics: ai, artificial-intelligence, large-language-models, llm, machine-learning, natural-language-processing, nlp, open-source, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-29T02:51:44Z
+- Last Updated: 2026-06-30T03:20:38Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T12:07:52Z

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Empty Python repository with no description, topics, or commits
-- 0 stars and 0 forks as of last update (2024-12-05)
-- No active development or contributions detected
+- **Repository**: `imadmaalouf02/RAG` is an empty Python-based repository with no provided description or topics.
+- **Metadata**: The repository has 0 stars, 0 forks, and was last updated on December 5, 2024.
+- **Access**: The repository is publicly accessible at `https://github.com/imadmaalouf02/RAG`.
 
 ## Use Cases
 

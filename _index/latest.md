@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Using custom elements - Web APIs | MDN](../ai/rag/using-custom-elements-web-apis-mdn.md) ([Source URL](https://developer.mozilla.org/docs/web/web_components/using_custom_elements))
+### 1. [psf/requests](../ai/resources/psf-requests.md) ([Source URL](https://github.com/psf/requests))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:18:44.245600+05:30
+- **Local Path**: `ai/resources/psf-requests.md`
+
+### 2. [NVIDIA Documentation Hub - NVIDIA Docs](../ai/rag/nvidia-documentation-hub-nvidia-docs.md) ([Source URL](https://docs.nvidia.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:25.486291+05:30
-- **Local Path**: `ai/rag/using-custom-elements-web-apis-mdn.md`
+- **Collected At**: 2026-06-30T10:18:29.474407+05:30
+- **Local Path**: `ai/rag/nvidia-documentation-hub-nvidia-docs.md`
 
-### 2. [declarative-shadow-dom/README.md at master · mfreed7/declarative-shadow-dom · GitHub](../ai/resources/mfreed7-declarative-shadow-dom.md) ([Source URL](https://github.com/mfreed7/declarative-shadow-dom))
+### 3. [Alabaster: a Sphinx theme — Alabaster documentation](../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md) ([Source URL](https://alabaster.readthedocs.io))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:24.256388+05:30
-- **Local Path**: `ai/resources/mfreed7-declarative-shadow-dom.md`
+- **Collected At**: 2026-06-30T10:17:36.467285+05:30
+- **Local Path**: `ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md`
 
-### 3. [Standard Contractual Clauses (SCC) - European Commission](../ai/resources/standard-contractual-clauses-scc-european-commissi.md) ([Source URL](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:22.956300+05:30
-- **Local Path**: `ai/resources/standard-contractual-clauses-scc-european-commissi.md`
-
-### 4. [Apple Platform Security - Apple Support](../ai/resources/apple-platform-security-apple-support.md) ([Source URL](https://support.apple.com/guide/security/welcome/web))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:22.224893+05:30
-- **Local Path**: `ai/resources/apple-platform-security-apple-support.md`
-
-### 5. [App Privacy Details - App Store - Apple Developer](../ai/resources/app-privacy-details-app-store-apple-developer.md) ([Source URL](https://developer.apple.com/support/app-privacy-on-the-app-store))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:21.573907+05:30
-- **Local Path**: `ai/resources/app-privacy-details-app-store-apple-developer.md`
-
-### 6. [Gerrit](../ai/resources/gerrit.md) ([Source URL](https://issues.gerritcodereview.com/issues?q=status%3Aopen+componentid%3A1370019&s=created_time%3Adesc))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:21.405167+05:30
-- **Local Path**: `ai/resources/gerrit.md`
-
-### 7. [Try out CSS Nesting today | WebKit](../ai/rag/try-out-css-nesting-today-webkit.md) ([Source URL](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview))
+### 4. [Developer Guides — Twisted 25.5.0 documentation](../ai/rag/developer-guides-twisted-25-5-0-documentation.md) ([Source URL](https://docs.twisted.org/en/stable/core/howto/index.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:20.760977+05:30
-- **Local Path**: `ai/rag/try-out-css-nesting-today-webkit.md`
+- **Collected At**: 2026-06-30T10:17:13.019629+05:30
+- **Local Path**: `ai/rag/developer-guides-twisted-25-5-0-documentation.md`
 
-### 8. [HTMLTemplateElement: shadowRootMode property - Web APIs | MDN](../ai/resources/htmltemplateelement-shadowrootmode-property-web-ap.md) ([Source URL](https://developer.mozilla.org/docs/web/api/htmltemplateelement/shadowrootmode))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:20.518471+05:30
-- **Local Path**: `ai/resources/htmltemplateelement-shadowrootmode-property-web-ap.md`
-
-### 9. [Optimize Interaction to Next Paint | web.dev](../ai/resources/optimize-interaction-to-next-paint-web-dev.md) ([Source URL](https://web.dev/articles/optimize-inp))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:19.979885+05:30
-- **Local Path**: `ai/resources/optimize-interaction-to-next-paint-web-dev.md`
-
-### 10. [How to choose your Baseline target | Articles | web.dev](../ai/resources/how-to-choose-your-baseline-target-articles-web-de.md) ([Source URL](https://web.dev/articles/how-to-choose-your-baseline-target))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:19.930278+05:30
-- **Local Path**: `ai/resources/how-to-choose-your-baseline-target-articles-web-de.md`
-
-### 11. [New CSS functional pseudo-class selectors :is() and :where() | Articles | web.dev](../ai/resources/new-css-functional-pseudo-class-selectors-is-and-w.md) ([Source URL](https://web.dev/articles/css-is-and-where))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:19.823167+05:30
-- **Local Path**: `ai/resources/new-css-functional-pseudo-class-selectors-is-and-w.md`
-
-### 12. [Optimize Largest Contentful Paint | Articles | web.dev](../ai/resources/optimize-largest-contentful-paint-articles-web-dev.md) ([Source URL](https://web.dev/articles/optimize-lcp))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:19.812668+05:30
-- **Local Path**: `ai/resources/optimize-largest-contentful-paint-articles-web-dev.md`
-
-### 13. [CSS Nesting Module Level 1](../ai/rag/css-nesting-module-level-1.md) ([Source URL](https://w3.org/tr/css-nesting-1))
+### 5. [Models | Django documentation | Django](../ai/rag/models-django-documentation-django.md) ([Source URL](https://docs.djangoproject.com/en/stable/topics/db/models))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:19.222646+05:30
-- **Local Path**: `ai/rag/css-nesting-module-level-1.md`
+- **Collected At**: 2026-06-30T10:17:10.934207+05:30
+- **Local Path**: `ai/rag/models-django-documentation-django.md`
 
-### 14. [nvm-sh/nvm](../ai/resources/nvm-sh-nvm.md) ([Source URL](https://github.com/nvm-sh/nvm))
+### 6. [twisted/twisted](../ai/resources/twisted-twisted.md) ([Source URL](https://github.com/twisted/twisted))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:18.257860+05:30
-- **Local Path**: `ai/resources/nvm-sh-nvm.md`
+- **Collected At**: 2026-06-30T10:17:10.513760+05:30
+- **Local Path**: `ai/resources/twisted-twisted.md`
 
-### 15. [Update on Plans for Privacy Sandbox Technologies](../ai/rag/update-on-plans-for-privacy-sandbox-technologies.md) ([Source URL](https://privacysandbox.com/news/update-on-plans-for-privacy-sandbox-technologies))
+### 7. [Twisted Web In 60 Seconds — Twisted 25.5.0 documentation](../ai/resources/twisted-web-in-60-seconds-twisted-25-5-0-documenta.md) ([Source URL](https://docs.twisted.org/en/stable/web/howto/web-in-60/index.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:17:07.930094+05:30
+- **Local Path**: `ai/resources/twisted-web-in-60-seconds-twisted-25-5-0-documenta.md`
+
+### 8. [django/django](../ai/rag/django-django.md) ([Source URL](https://github.com/django/django))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:18.253020+05:30
-- **Local Path**: `ai/rag/update-on-plans-for-privacy-sandbox-technologies.md`
+- **Collected At**: 2026-06-30T10:17:05.533982+05:30
+- **Local Path**: `ai/rag/django-django.md`
 
-### 16. [Vite 7.0 is out! | Vite](../ai/rag/vite-7-0-is-out-vite.md) ([Source URL](https://vite.dev/blog/announcing-vite7.html))
+### 9. [Writing your first Django app, part 1 | Django documentation | Django](../ai/resources/writing-your-first-django-app-part-1-django-docume.md) ([Source URL](https://docs.djangoproject.com/en/stable/intro/tutorial01))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:17:05.452156+05:30
+- **Local Path**: `ai/resources/writing-your-first-django-app-part-1-django-docume.md`
+
+### 10. [Twisted](../ai/agents/twisted.md) ([Source URL](https://twistedmatrix.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:17:04.354116+05:30
+- **Local Path**: `ai/agents/twisted.md`
+
+### 11. [CFFI documentation — CFFI 2.0.0 documentation](../ai/resources/cffi-documentation-cffi-2-0-0-documentation.md) ([Source URL](https://cffi.readthedocs.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:17:03.520365+05:30
+- **Local Path**: `ai/resources/cffi-documentation-cffi-2-0-0-documentation.md`
+
+### 12. [The web framework for perfectionists with deadlines | Django](../ai/rag/the-web-framework-for-perfectionists-with-deadline.md) ([Source URL](https://djangoproject.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:16.786037+05:30
-- **Local Path**: `ai/rag/vite-7-0-is-out-vite.md`
+- **Collected At**: 2026-06-30T10:17:03.126584+05:30
+- **Local Path**: `ai/rag/the-web-framework-for-perfectionists-with-deadline.md`
 
-### 17. [PageSpeed Insights](../ai/resources/pagespeed-insights.md) ([Source URL](https://pagespeed.web.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:14.721231+05:30
-- **Local Path**: `ai/resources/pagespeed-insights.md`
-
-### 18. [Shows | web.dev](../ai/resources/shows-web-dev.md) ([Source URL](https://web.dev/shows))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:14.579312+05:30
-- **Local Path**: `ai/resources/shows-web-dev.md`
-
-### 19. [Site Policies | Google for Developers](../ai/rag/site-policies-google-for-developers.md) ([Source URL](https://developers.google.com/site-policies))
+### 13. [PyPy](../ai/rag/pypy.md) ([Source URL](https://pypy.org))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:13.324012+05:30
-- **Local Path**: `ai/rag/site-policies-google-for-developers.md`
+- **Collected At**: 2026-06-30T10:14:22.667658+05:30
+- **Local Path**: `ai/rag/pypy.md`
 
-### 20. [privacysandbox/privacy-sandbox-demos](../ai/resources/privacysandbox-privacy-sandbox-demos.md) ([Source URL](https://github.com/privacysandbox/privacy-sandbox-demos))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:13.229732+05:30
-- **Local Path**: `ai/resources/privacysandbox-privacy-sandbox-demos.md`
-
-### 21. [Privacy Sandbox](../ai/resources/privacy-sandbox.md) ([Source URL](https://privacysandbox.com/news))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:13.227268+05:30
-- **Local Path**: `ai/resources/privacy-sandbox.md`
-
-### 22. [Privacy Sandbox feature status](../ai/rag/privacy-sandbox-feature-status.md) ([Source URL](https://privacysandbox.google.com/overview/status))
+### 14. [AI Inference: Balancing Cost, Latency, and Performance | EBook | NVIDIA](../ai/rag/ai-inference-balancing-cost-latency-and-performanc.md) ([Source URL](https://nvidia.com/en-us/solutions/ai/inference/balancing-cost-latency-and-performance-ebook))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:13.135604+05:30
-- **Local Path**: `ai/rag/privacy-sandbox-feature-status.md`
+- **Collected At**: 2026-06-30T10:14:10.724912+05:30
+- **Local Path**: `ai/rag/ai-inference-balancing-cost-latency-and-performanc.md`
 
-### 23. [Contact us | ICO](../ai/resources/contact-us-ico.md) ([Source URL](https://ico.org.uk/global/contact-us))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:11.592136+05:30
-- **Local Path**: `ai/resources/contact-us-ico.md`
-
-### 24. [Global Infrastructure - AWS](../ai/rag/global-infrastructure-aws.md) ([Source URL](https://aws.amazon.com/about-aws/global-infrastructure))
+### 15. [Metrics — NVIDIA NIM LLMs Benchmarking](../ai/rag/metrics-nvidia-nim-llms-benchmarking.md) ([Source URL](https://docs.nvidia.com/nim/benchmarking/llm/latest/metrics.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:10.160987+05:30
-- **Local Path**: `ai/rag/global-infrastructure-aws.md`
+- **Collected At**: 2026-06-30T10:14:10.718477+05:30
+- **Local Path**: `ai/rag/metrics-nvidia-nim-llms-benchmarking.md`
 
-### 25. [Speechify: Text to Speech & Voice Typing AI Assistant | 55M+ Users](../ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md) ([Source URL](https://speechify.com))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:08.404082+05:30
-- **Local Path**: `ai/resources/speechify-text-to-speech-voice-typing-ai-assistant.md`
-
-### 26. [Codenames, tags, and build numbers | Android Open Source Project](../ai/resources/codenames-tags-and-build-numbers-android-open-sour.md) ([Source URL](https://source.android.com/docs/setup/reference/build-numbers))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:04:07.755763+05:30
-- **Local Path**: `ai/resources/codenames-tags-and-build-numbers-android-open-sour.md`
-
-### 27. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](http://ai.google.dev))
+### 16. [Self-Serve Subscription Agreement | Cloudflare](../ai/rag/self-serve-subscription-agreement-cloudflare.md) ([Source URL](https://cloudflare.com/terms))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:04:06.477027+05:30
+- **Collected At**: 2026-06-30T10:14:09.893582+05:30
+- **Local Path**: `ai/rag/self-serve-subscription-agreement-cloudflare.md`
+
+### 17. [Careers at Cloudflare â Open Positions | Cloudflare](../ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md) ([Source URL](https://cloudflare.com/careers/jobs?department=Technology+Research))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:14:09.688719+05:30
+- **Local Path**: `ai/resources/careers-at-cloudflare-a-open-positions-cloudflare.md`
+
+### 18. [UAX #15: Unicode Normalization Forms](../ai/rag/uax-15-unicode-normalization-forms.md) ([Source URL](http://unicode.org/reports/tr15))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:14:07.955274+05:30
+- **Local Path**: `ai/rag/uax-15-unicode-normalization-forms.md`
+
+### 19. [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md) ([Source URL](https://huggingface.co/huggingface))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:14:07.615419+05:30
+- **Local Path**: `ai/rag/huggingface-hugging-face.md`
+
+### 20. [DagsHub: Everything you need to manage multimodal AI](../ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md) ([Source URL](https://dagshub.com))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:14:07.441980+05:30
+- **Local Path**: `ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md`
+
+### 21. [Scite: AI for Research](../ai/rag/scite-ai-for-research.md) ([Source URL](https://scite.ai))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:14:07.434849+05:30
+- **Local Path**: `ai/rag/scite-ai-for-research.md`
+
+### 22. [GDPR FAQs | Cloudflare](../ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md) ([Source URL](https://cloudflare.com/gdpr))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:14:04.961146+05:30
+- **Local Path**: `ai/rag/cloudflare-and-gdpr-compliance-cloudflare.md`
+
+### 23. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source URL](https://tv.youtube.com/learn/nflsundayticket))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:51.905472+05:30
+- **Local Path**: `ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md`
+
+### 24. [Neo4j Graph Intelligence Platform](../ai/rag/neo4j-graph-intelligence-platform.md) ([Source URL](http://neo4j.org/resources/cypher))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:33.386708+05:30
+- **Local Path**: `ai/rag/neo4j-graph-intelligence-platform.md`
+
+### 25. [neo4j-contrib/rabbithole](../ai/rag/neo4j-contrib-rabbithole.md) ([Source URL](https://github.com/neo4j-contrib/rabbithole))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:33.081786+05:30
+- **Local Path**: `ai/rag/neo4j-contrib-rabbithole.md`
+
+### 26. [Sign in to GitHub · GitHub](../ai/agents/langchain-ai-docs.md) ([Source URL](https://github.com/langchain-ai/docs))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:13:26.840989+05:30
+- **Local Path**: `ai/agents/langchain-ai-docs.md`
+
+### 27. [deepagents · PyPI](../ai/agents/deepagents-pypi.md) ([Source URL](https://pypi.org/project/deepagents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:13:26.534103+05:30
+- **Local Path**: `ai/agents/deepagents-pypi.md`
+
+### 28. [Agentic Misalignment: How LLMs could be insider threats \ Anthropic](../ai/rag/agentic-misalignment-how-llms-could-be-insider-thr.md) ([Source URL](https://anthropic.com/research/agentic-misalignment))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:20.921258+05:30
+- **Local Path**: `ai/rag/agentic-misalignment-how-llms-could-be-insider-thr.md`
+
+### 29. [youtube/api-samples](../ai/resources/youtube-api-samples.md) ([Source URL](https://github.com/youtube/api-samples))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:13:19.883705+05:30
+- **Local Path**: `ai/resources/youtube-api-samples.md`
+
+### 30. [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md) ([Source URL](https://support.google.com/googleplay/answer/2850369?hl=en))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:18.175731+05:30
+- **Local Path**: `ai/rag/review-your-order-history-google-play-help.md`
+
+### 31. [Gemini Developer API | Gemma open models | Google AI for Developers](../ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md) ([Source URL](https://ai.google.dev))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:13:17.701663+05:30
 - **Local Path**: `ai/rag/gemini-developer-api-gemma-open-models-google-ai-f.md`
 
-### 28. [Google Family Link - Apps on Google Play](../ai/resources/google-family-link-apps-on-google-play.md) ([Source URL](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:02:47.762112+05:30
-- **Local Path**: `ai/resources/google-family-link-apps-on-google-play.md`
-
-### 29. [Google Colab](../ai/rag/google-colab.md) ([Source URL](https://colab.research.google.com/github/deepset-ai/haystack-tutorials/blob/main/tutorials/27_first_rag_pipeline.ipynb))
+### 32. [Android Mobile App Developer Tools - Android Developers](../ai/rag/android-mobile-app-developer-tools-android-develop.md) ([Source URL](https://developer.android.com))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:01:34.639522+05:30
-- **Local Path**: `ai/rag/google-colab.md`
+- **Collected At**: 2026-06-30T10:13:17.272915+05:30
+- **Local Path**: `ai/rag/android-mobile-app-developer-tools-android-develop.md`
 
-### 30. [Flag an app or review on Google Play - Computer - Google Play Help](../ai/resources/flag-an-app-or-review-on-google-play-computer-goog.md) ([Source URL](https://support.google.com/googleplay/answer/2853570))
+### 33. [Research Index | Firecrawl](../ai/agents/research-index-firecrawl.md) ([Source URL](https://docs.firecrawl.dev/features/research))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:13:16.850895+05:30
+- **Local Path**: `ai/agents/research-index-firecrawl.md`
+
+### 34. [Maven Central: org.superml:superml-core](../ai/resources/maven-central-org-superml-superml-core.md) ([Source URL](https://central.sonatype.com/artifact/org.superml/superml-core))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:01:19.409619+05:30
-- **Local Path**: `ai/resources/flag-an-app-or-review-on-google-play-computer-goog.md`
+- **Collected At**: 2026-06-30T10:13:15.772340+05:30
+- **Local Path**: `ai/resources/maven-central-org-superml-superml-core.md`
 
-### 31. [Learn about Google Play refund policies - Google Play Help](../ai/resources/learn-about-google-play-refund-policies-google-pla.md) ([Source URL](https://support.google.com/googleplay/answer/2479637))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:01:19.368174+05:30
-- **Local Path**: `ai/resources/learn-about-google-play-refund-policies-google-pla.md`
-
-### 32. [âApps & Games for Vision - App Store](../ai/resources/aapps-games-for-vision-app-store.md) ([Source URL](https://apps.apple.com/us/vision))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:38.765857+05:30
-- **Local Path**: `ai/resources/aapps-games-for-vision-app-store.md`
-
-### 33. [Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](../ai/rag/take-spatial-photos-and-record-spatial-videos-for.md) ([Source URL](https://support.apple.com/guide/iphone/spatial-photos-record-videos-apple-vision-pro-iph6e3a6d4fe/ios))
+### 35. [firecrawl repositories · GitHub](../ai/rag/orgs-firecrawl.md) ([Source URL](https://github.com/orgs/firecrawl))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:38.044199+05:30
-- **Local Path**: `ai/rag/take-spatial-photos-and-record-spatial-videos-for.md`
+- **Collected At**: 2026-06-30T10:13:15.235996+05:30
+- **Local Path**: `ai/rag/orgs-firecrawl.md`
 
-### 34. [What's Haystack Enterprise Platform? | Haystack Enterprise Platform Documentation](../ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md) ([Source URL](https://docs.cloud.deepset.ai/docs/getting-started))
+### 36. [GitHub Docs](../ai/agents/github-docs.md) ([Source URL](https://docs.github.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:13:15.122571+05:30
+- **Local Path**: `ai/agents/github-docs.md`
+
+### 37. [firecrawl/web-agent](../ai/agents/firecrawl-web-agent.md) ([Source URL](https://github.com/firecrawl/web-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:13:14.869865+05:30
+- **Local Path**: `ai/agents/firecrawl-web-agent.md`
+
+### 38. [Introduction - Firecrawl Docs](../ai/rag/introduction-firecrawl-docs.md) ([Source URL](https://docs.firecrawl.dev/api-reference/introduction))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:33.767848+05:30
-- **Local Path**: `ai/rag/what-s-haystack-enterprise-platform-haystack-enter.md`
+- **Collected At**: 2026-06-30T10:13:11.903363+05:30
+- **Local Path**: `ai/rag/introduction-firecrawl-docs.md`
 
-### 35. [Introduction to Haystack | Haystack Documentation](../ai/rag/introduction-to-haystack-haystack-documentation.md) ([Source URL](https://docs.haystack.deepset.ai/docs/intro))
+### 39. [JupyterLite — JupyterLite 0.8.0 documentation](../ai/rag/jupyterlite-jupyterlite-0-8-0-documentation.md) ([Source URL](https://jupyterlite.readthedocs.io/en/latest))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:33.697796+05:30
-- **Local Path**: `ai/rag/introduction-to-haystack-haystack-documentation.md`
+- **Collected At**: 2026-06-30T10:13:09.575442+05:30
+- **Local Path**: `ai/rag/jupyterlite-jupyterlite-0-8-0-documentation.md`
 
-### 36. [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md) ([Source URL](https://apple.com/apple-vision-pro))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:33.574750+05:30
-- **Local Path**: `ai/resources/apple-vision-pro-apple.md`
-
-### 37. [Legal - Apple Privacy Policy - Apple](../ai/rag/legal-apple-privacy-policy-apple.md) ([Source URL](https://apple.com/legal/privacy/en-ww))
+### 40. [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](../ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md) ([Source URL](https://peps.python.org))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:28.403030+05:30
-- **Local Path**: `ai/rag/legal-apple-privacy-policy-apple.md`
+- **Collected At**: 2026-06-30T10:13:07.996047+05:30
+- **Local Path**: `ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md`
 
-### 38. [gitiles - Git at Google](../ai/resources/gitiles-git-at-google.md) ([Source URL](https://gerrit.googlesource.com/gitiles))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:26.955085+05:30
-- **Local Path**: `ai/resources/gitiles-git-at-google.md`
-
-### 39. [Performance panel: Analyze your website's performance | Chrome DevTools | Chrome for Developers](../ai/resources/performance-panel-analyze-your-website-s-performan.md) ([Source URL](https://developer.chrome.com/docs/devtools/performance/overview))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:26.123089+05:30
-- **Local Path**: `ai/resources/performance-panel-analyze-your-website-s-performan.md`
-
-### 40. [Declarative Shadow DOM | web.dev](../ai/resources/declarative-shadow-dom-web-dev.md) ([Source URL](https://developer.chrome.com/docs/css-ui/declarative-shadow-dom))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:25.891166+05:30
-- **Local Path**: `ai/resources/declarative-shadow-dom-web-dev.md`
-
-### 41. [CSS Nesting | Chrome for Developers](../ai/resources/css-nesting-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/css-ui/css-nesting))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:25.822487+05:30
-- **Local Path**: `ai/resources/css-nesting-chrome-for-developers.md`
-
-### 42. [How to use Baseline in your project | Google Codelabs](../ai/resources/how-to-use-baseline-in-your-project-google-codelab.md) ([Source URL](https://codelabs.developers.google.com/codelabs/use-baseline-in-your-project))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:24.253947+05:30
-- **Local Path**: `ai/resources/how-to-use-baseline-in-your-project-google-codelab.md`
-
-### 43. [GoogleChrome/web-vitals](../ai/resources/googlechrome-web-vitals.md) ([Source URL](https://github.com/googlechrome/web-vitals))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:23.380632+05:30
-- **Local Path**: `ai/resources/googlechrome-web-vitals.md`
-
-### 44. [Introduction to Lighthouse | Chrome for Developers](../ai/rag/introduction-to-lighthouse-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/lighthouse/overview))
+### 41. [Python Developer’s Guide](../ai/rag/python-developers-guide.md) ([Source URL](https://devguide.python.org))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:20.936233+05:30
-- **Local Path**: `ai/rag/introduction-to-lighthouse-chrome-for-developers.md`
+- **Collected At**: 2026-06-30T10:13:07.986721+05:30
+- **Local Path**: `ai/rag/python-developers-guide.md`
 
-### 45. [Hello from Privacy Sandbox Demos | Privacy Sandbox Demos](../ai/rag/hello-from-privacy-sandbox-demos-privacy-sandbox-d.md) ([Source URL](https://privacy-sandbox-demos.dev))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:18.747122+05:30
-- **Local Path**: `ai/rag/hello-from-privacy-sandbox-demos-privacy-sandbox-d.md`
-
-### 46. [android/privacy-sandbox-samples](../ai/resources/android-privacy-sandbox-samples.md) ([Source URL](https://github.com/android/privacy-sandbox-samples))
+### 42. [Python Packaging User Guide](../ai/resources/python-packaging-user-guide.md) ([Source URL](https://packaging.python.org))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:18.345814+05:30
-- **Local Path**: `ai/resources/android-privacy-sandbox-samples.md`
+- **Collected At**: 2026-06-30T10:13:07.848560+05:30
+- **Local Path**: `ai/resources/python-packaging-user-guide.md`
 
-### 47. [android Git repositories - Git at Google](../ai/rag/android-git-repositories-git-at-google.md) ([Source URL](http://android.googlesource.com))
+### 43. [LangChain Careers](../ai/rag/langchain-careers.md) ([Source URL](https://langchain.com/careers))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:17.247755+05:30
-- **Local Path**: `ai/rag/android-git-repositories-git-at-google.md`
+- **Collected At**: 2026-06-30T10:12:47.502126+05:30
+- **Local Path**: `ai/rag/langchain-careers.md`
 
-### 48. [Web Vitals | Articles | web.dev](../ai/resources/web-vitals-articles-web-dev.md) ([Source URL](https://web.dev/articles/vitals))
+### 44. [Stainless - Stainless Docs Platform](../ai/rag/stainless-stainless-docs-platform.md) ([Source URL](https://stainless.com/products/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:12:47.354743+05:30
+- **Local Path**: `ai/rag/stainless-stainless-docs-platform.md`
+
+### 45. [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md) ([Source URL](https://github.com/run-llama/llamaindexts))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:12:28.817605+05:30
+- **Local Path**: `ai/rag/run-llama-llamaindexts.md`
+
+### 46. [Overview of Parse | Developer Documentation](../ai/resources/overview-of-parse-developer-documentation.md) ([Source URL](https://developers.llamaindex.ai/python/cloud/llamaparse))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T04:00:15.864418+05:30
-- **Local Path**: `ai/resources/web-vitals-articles-web-dev.md`
+- **Collected At**: 2026-06-30T10:12:24.048098+05:30
+- **Local Path**: `ai/resources/overview-of-parse-developer-documentation.md`
 
-### 49. [Medium Privacy Policy | by Medium | Medium Policy](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md) ([Source URL](https://policy.medium.com/medium-privacy-policy-f03bf92035c9))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:14.839889+05:30
-- **Local Path**: `ai/rag/medium-privacy-policy-by-medium-medium-policy.md`
+### 47. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([Source URL](https://github.com/features/copilot))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T10:12:23.972589+05:30
+- **Local Path**: `ai/agents/features-copilot.md`
 
-### 50. [Medium: Read and write stories.](../ai/rag/medium-read-and-write-stories.md) ([Source URL](https://medium.com))
+### 48. [openai/openai-cookbook](../ai/resources/openai-openai-cookbook.md) ([Source URL](https://github.com/openai/openai-cookbook))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T10:12:23.858263+05:30
+- **Local Path**: `ai/resources/openai-openai-cookbook.md`
+
+### 49. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md) ([Source URL](https://github.com/resources/whitepapers))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T04:00:14.500248+05:30
-- **Local Path**: `ai/rag/medium-read-and-write-stories.md`
+- **Collected At**: 2026-06-30T10:12:23.857574+05:30
+- **Local Path**: `ai/rag/resources-whitepapers.md`
+
+### 50. [What Are AI Tokens? The Language and Currency Powering Modern AI | NVIDIA Blog](../ai/rag/what-are-ai-tokens-the-language-and-currency-power.md) ([Source URL](https://blogs.nvidia.com/blog/ai-tokens-explained))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T10:12:20.351478+05:30
+- **Local Path**: `ai/rag/what-are-ai-tokens-the-language-and-currency-power.md`
 
 ---
-*Index generated on 2026-06-30T04:07:17.833912+05:30*
+*Index generated on 2026-06-30T10:21:20.214191+05:30*

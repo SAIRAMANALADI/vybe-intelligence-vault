@@ -14,9 +14,9 @@ tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - html
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Platform Agent Infrastructure**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows.
+- **Cross-platform desktop automation framework**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of controlling full desktops across macOS, Linux, and Windows.
 
-- **Technical Stack**: Utilizes containerization (via Lume) and virtualization frameworks (e.g., Apple's Virtualization Framework, Windows Sandbox) for secure agent execution.
+- **Virtualization & containerization support**: Integrates Apple's Virtualization Framework, Windows Sandbox, and containerization tools for secure agent-environment isolation and testing.
 
-- **Open-Source Focus**: Supports Swift (macOS) and cross-platform automation with Hacktoberfest contributions, emphasizing a
+- **Multi-language toolkit**: Primarily Swift-based with HTML components, supporting agent development, virtual
 
 ## Use Cases
 

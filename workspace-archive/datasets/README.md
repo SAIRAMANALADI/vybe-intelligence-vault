@@ -22,10 +22,10 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 - [project-miracl/miracl](https://github.com/project-miracl/miracl)
-- [run-llama/ParseBench](https://github.com/run-llama/ParseBench)
+- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
 - [onyx-dot-app/EnterpriseRAG-Bench](https://github.com/onyx-dot-app/EnterpriseRAG-Bench)
-- [ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub](https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md)
-- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
+- [facebookresearch/CRAG](https://github.com/facebookresearch/CRAG)
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-30 04:08 IST*
+*Last updated: 2026-06-30 10:22 IST*

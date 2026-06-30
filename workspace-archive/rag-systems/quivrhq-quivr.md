@@ -13,13 +13,11 @@ importance: medium
 tags:
 - frontend_ui
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -38,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types without vendor lock-in.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs without deep RAG expertise.
 
-- **Multi-Environment Compatibility**: The framework offers flexibility in deployment, with support for Docker, PostgreSQL, and frontend technologies (React, TypeScript, HTML/JavaScript), en
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructure and file formats.
+
+- **Tech Stack & Deployment**: Built in Python with React/Typ
 
 ## Use Cases
 

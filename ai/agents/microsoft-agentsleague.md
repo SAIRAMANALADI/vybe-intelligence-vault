@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/agentsleague
-collected_at: '2026-06-30T01:49:25.700872+05:30'
-published_at: '2026-06-28T12:07:27Z'
+collected_at: '2026-06-30T10:08:10.588032+05:30'
+published_at: '2026-06-29T21:20:35Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
-stars: 284
+stars: 285
 language: Unknown
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-12-15T11:55:32Z'
 pushed_at: '2026-04-06T09:34:39Z'
 resource_id: github:microsoft/agentsleague
-first_seen: '2026-06-30T01:49:25.700872+05:30'
-last_seen: '2026-06-30T01:49:25.700872+05:30'
-last_checked: '2026-06-30T01:49:25.700872+05:30'
+first_seen: '2026-06-30T10:08:10.588032+05:30'
+last_seen: '2026-06-30T10:08:10.588032+05:30'
+last_checked: '2026-06-30T10:08:10.588032+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,8 @@ health_score: 100
 
 ## Summary
 
-- **E-sports-inspired AI challenge**: Hosts live AI Battles with competitive, asynchronous community challenges and GitHub-based submissions for agentic AI development.
-- **GitHub-centric submission system**: Enables developers to submit and evaluate AI agents through GitHub repositories, fostering collaborative and competitive innovation.
-- **High-energy developer engagement**: Designed to attract and retain developers with dynamic, competitive events and real-time interactions, last updated in June 2026.
+*   Establishes a competitive e-sports framework for agentic AI development and evaluation.
+*   Facilitates AI agent submission and participation
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 284
+- Stars: 285
 - Forks: 91
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-06-28T12:07:27Z
+- Last Updated: 2026-06-29T21:20:35Z
 - License: MIT
 - Archived: No
 - Created At: 2025-12-15T11:55:32Z

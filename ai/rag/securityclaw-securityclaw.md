@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-06-30T03:53:36.217589+05:30'
+collected_at: '2026-06-30T10:07:40.518657+05:30'
 published_at: '2026-06-25T05:58:18Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 251
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-06-18T03:28:29Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-06-30T03:53:36.217589+05:30'
-last_seen: '2026-06-30T03:53:36.217589+05:30'
-last_checked: '2026-06-30T03:53:36.217589+05:30'
+first_seen: '2026-06-30T10:07:40.518657+05:30'
+last_seen: '2026-06-30T10:07:40.518657+05:30'
+last_checked: '2026-06-30T10:07:40.518657+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent for Security Operations Centers (SOCs), integrating OpenSearch/Elasticsearch monitoring with skill-based automation for threat detection and response.
+- **Modular SOC Agent**: Python-based autonomous agent integrating OpenSearch/Elasticsearch for real-time log monitoring, with modular components for extensibility in threat detection workflows.
 
-- **RAG & LLM Integration**: Uses Retrieval-Augmented Generation (RAG) to build behavioral memory from monitored data and employs Large Language Models (LLMs) to validate real-time anomalies dynamically.
+- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build dynamic behavioral profiles of entities, enabling contextual anomaly validation via LLMs for adaptive threat hunting.
 
-- **Autonomous Threat Detection**: Implements autonomous threat hunting and anomaly validation, leveraging AI-driven decision-making for SOC automation and cybersecurity operations.
+- **LLM-Driven Anomaly Validation**: Uses large language models to cross-reference detected anomalies against historical patterns, improving false-positive suppression and prioritizing high-risk security events.
 
 ## Why It Matters
 

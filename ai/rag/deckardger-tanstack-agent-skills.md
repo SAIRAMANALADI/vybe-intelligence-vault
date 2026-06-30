@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DeckardGer/tanstack-agent-skills
-collected_at: '2026-06-30T03:54:51.433161+05:30'
+collected_at: '2026-06-30T10:08:55.543260+05:30'
 published_at: '2026-06-29T02:03:10Z'
 tags:
 - agents
-- frontend_ui
 - github-repo
 - rag
 - reddit
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-01-16T07:31:33Z'
 pushed_at: '2026-04-03T05:02:53Z'
 resource_id: github:deckardger/tanstack-agent-skills
-first_seen: '2026-06-30T03:54:51.433161+05:30'
-last_seen: '2026-06-30T03:54:51.433161+05:30'
-last_checked: '2026-06-30T03:54:51.433161+05:30'
+first_seen: '2026-06-30T10:08:55.543260+05:30'
+last_seen: '2026-06-30T10:08:55.543260+05:30'
+last_checked: '2026-06-30T10:08:55.543260+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications, leveraging TanStack Query's reactivity and performance optimizations.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
 
-- **Router Best Practices for AI Agents**: Provides structured routing strategies using TanStack Router to handle dynamic AI agent workflows, including nested routes and state management for complex navigation scenarios.
+- **Router-Level State Management**: Implements dynamic route-based data loading and state persistence in TanStack Router, leveraging nested route matching and loader functions to minimize client-side state duplication.
 
-- **Start Framework Integration**: Outlines best practices for initializing and configuring TanStack Start in AI agents, focusing on modular architecture and performance tuning for scalable applications.
+- **AI Agent-Specific Patterns**: Provides specialized hooks and utilities for Start (TanStack's meta-framework) to streamline AI agent workflows, including automatic error handling, retry mechanisms, and context-aware query invalidation.
 
 ## Why It Matters
 

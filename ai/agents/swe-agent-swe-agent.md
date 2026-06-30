@@ -4,23 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SWE-agent/SWE-agent
-collected_at: '2026-06-28T01:18:08.200751+05:30'
-published_at: '2026-06-27T18:08:48Z'
+collected_at: '2026-06-30T10:08:15.538648+05:30'
+published_at: '2026-06-30T02:50:00Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
-stars: 19647
+- scripts
+- workflows
+stars: 19670
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-04-02T04:09:47Z'
-pushed_at: '2026-06-22T21:51:09Z'
+pushed_at: '2026-06-29T21:39:06Z'
 resource_id: github:swe-agent/swe-agent
-first_seen: '2026-06-28T01:18:08.200751+05:30'
-last_seen: '2026-06-28T01:18:08.200751+05:30'
-last_checked: '2026-06-28T01:18:08.200751+05:30'
+first_seen: '2026-06-30T10:08:15.538648+05:30'
+last_seen: '2026-06-30T10:08:15.538648+05:30'
+last_checked: '2026-06-30T10:08:15.538648+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and attempts to resolve them using a specified language model (LM), reducing manual debugging effort.
+- **Automated Issue Resolution**: SWE-agent autonomously processes GitHub issues and generates fixes using a specified language model (LM), reducing manual debugging effort.
 
-- **Multi-Domain Utility**: Supports offensive cybersecurity tasks and competitive coding challenges, extending beyond standard software engineering applications.
+- **Multi-Domain Utility**: Supports offensive cybersecurity tasks, competitive coding, and developer tooling via agent-based modeling and LM integration.
 
-- **Architecture & Ecosystem**: Implemented in Python, integrates with agent-based models and LLMs, and is optimized for developer tooling with active maintenance (last updated June 2026).
+- **Technical Stack**: Python-based framework with LM orchestration, optimized for AI-driven automation in software engineering workflows.
 
 ## Why It Matters
 
@@ -41,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: SWE-agent
-- Stars: 19647
-- Forks: 2146
+- Stars: 19670
+- Forks: 2148
 - Language: Python
 - Topics: agent, agent-based-model, ai, cybersecurity, developer-tools, llm, lms
-- Last Updated: 2026-06-27T18:08:48Z
+- Last Updated: 2026-06-30T02:50:00Z
 - License: MIT
 - Archived: No
 - Created At: 2024-04-02T04:09:47Z
-- Pushed At: 2026-06-22T21:51:09Z
+- Pushed At: 2026-06-29T21:39:06Z
 
 ## Possible Use Cases
 

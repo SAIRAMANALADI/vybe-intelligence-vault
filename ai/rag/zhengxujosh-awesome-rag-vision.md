@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-06-30T03:53:21.152934+05:30'
+collected_at: '2026-06-30T10:07:25.512819+05:30'
 published_at: '2026-06-29T08:53:18Z'
 tags:
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
 stars: 337
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-06-30T03:53:21.152934+05:30'
-last_seen: '2026-06-30T03:53:21.152934+05:30'
-last_checked: '2026-06-30T03:53:21.152934+05:30'
+first_seen: '2026-06-30T10:07:25.512819+05:30'
+last_seen: '2026-06-30T10:07:25.512819+05:30'
+last_checked: '2026-06-30T10:07:25.512819+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically for **Computer Vision (CV)**, including methods integrating vision-language models (VLMs) and multimodal RAG systems.
-
-- **Scope & focus**: Encompasses cutting-edge RAG architectures tailored for CV tasks (e.g., image captioning, visual question answering, object detection) with emphasis on **cross-modal retrieval**, **contextual grounding**, and **multimodal fusion** strategies.
-
-- **Metadata**: 337 stars, 9 forks, last updated **June 29, 2026**; language unspecified, categorized under **vision-language models** and **multimodal AI** research.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including methods integrating vision models with RAG frameworks.
+- **Metadata**: 337 stars, 9 forks, last updated **June 29, 2026**; language unspecified, with no listed topics.
+- **Purpose**: Serves as a centralized hub for cutting-edge RAG-CV research, tools, and implementations, facilitating exploration of multimodal generative AI applications.
 
 ## Why It Matters
 

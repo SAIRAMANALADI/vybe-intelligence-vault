@@ -38,9 +38,9 @@ selection_reason:
 
 - **Browser-based autonomous AI agent deployment**: Enables users to assemble, configure, and deploy AI agents directly in the browser without local setup, leveraging modern web technologies.
 
-- **Tech stack**: Built with **TypeScript**, **Next.js (T3 Stack)**, and integrates **LangChain** with **OpenAI's LLM** for agent orchestration and language model interactions.
+- **Tech stack**: Built with **TypeScript**, **Next.js** (T3 stack), and integrates **LangChain** for agent orchestration, **OpenAI's LLM APIs**, and supports **BabyAGI**-style autonomous task execution.
 
-- **Feature-rich ecosystem**: Supports **AgentGPT**, **BabyAGI**, and related AI agent frameworks, optimized for **AGI research**
+- **Scalable architecture**: Open-source repository with **36,236+ stars** and **9,304 forks**, optimi
 
 ## Use Cases
 

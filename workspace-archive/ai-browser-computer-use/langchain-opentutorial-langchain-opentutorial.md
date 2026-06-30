@@ -15,6 +15,7 @@ tags:
 - github-repo
 - hackernews
 - jupyter notebook
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Open-source tutorial repository for LangChain and LangGraph, designed to educate users on building AI agents with these frameworks.
-- **Technical Stack**: Primarily uses Jupyter Notebooks for interactive learning and demonstrations.
-- **Metadata**: 1,079 stars, 338 forks, last updated June 28, 2026.
+- **Repository Overview**: A comprehensive open-source tutorial repository for LangChain and LangGraph, designed for educational purposes with Jupyter Notebook-based examples.
+- **Technical Scope**: Covers agent-based workflows, integrating LangChain (a framework for LLM applications) and LangGraph (a graph-based execution engine) for structured AI pipelines.
+- **Metadata**: 1,080 stars, 338 forks, last updated June 29, 2026, with a focus on practical implementation in notebook format.
 
 ## Use Cases
 

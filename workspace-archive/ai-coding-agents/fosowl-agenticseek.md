@@ -30,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Local-first autonomous agent**: Implements a fully local AI system (Manus AI) with no external API dependencies or cloud costs, relying solely on local compute for inference and task execution.
-
-- **Multi-modal agentic capabilities**: Supports autonomous web browsing, code generation, and voice assistant functionality via deepseek-r1 and other LLM backends, all running locally in Python.
-
-- **Self-hosted & cost-efficient**: Designed for minimal operational expense (electricity only), with of
+- **Local LLM Integration**: Fully local implementation of Manus AI using Python, eliminating dependency on external APIs or cloud services, operating solely on local compute resources.
+- **Autonomous Agent Capabilities**: Enables autonomous agents with web browsing, code execution, and reasoning via DeepSeek-R1, supporting multimodal interactions (e.g., voice assistants).
+- **Cost Efficiency**: Operates at the marginal cost of electricity, avoiding subscription fees or high computational bills,
 
 ## Use Cases
 

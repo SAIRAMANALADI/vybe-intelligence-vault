@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/MLGym
-collected_at: '2026-06-30T03:55:16.314290+05:30'
+collected_at: '2026-06-30T10:09:15.608132+05:30'
 published_at: '2026-06-27T04:18:19Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-02-18T18:26:47Z'
 pushed_at: '2025-08-10T20:00:53Z'
 resource_id: github:facebookresearch/mlgym
-first_seen: '2026-06-30T03:55:16.314290+05:30'
-last_seen: '2026-06-30T03:55:16.314290+05:30'
-last_checked: '2026-06-30T03:55:16.314290+05:30'
+first_seen: '2026-06-30T10:09:15.608132+05:30'
+last_seen: '2026-06-30T10:09:15.608132+05:30'
+last_checked: '2026-06-30T10:09:15.608132+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework & Benchmark**: MLGym introduces a modular Python framework and benchmark suite designed to standardize the evaluation and advancement of AI research agents, enabling reproducible experimentation and comparison across tasks.
+- **Framework**: MLGym is a Python-based framework designed to advance AI research agents by providing a modular and scalable environment for training and evaluating reinforcement learning (RL) and multi-agent systems.
 
-- **Modular Architecture**: The framework supports customizable agent-environment interactions via configurable components (e.g., task definitions, agent policies, and training loops), facilitating extensibility for diverse research scenarios.
+- **Benchmarking**: The repository includes a benchmark suite to standardize evaluation of AI research agents, enabling reproducible experiments and comparative analysis across different algorithms and configurations.
 
-- **Benchmark Suite**: Includes standardized benchmarks with predefined metrics to assess agent performance, covering tasks such as optimization, decision-making, and multi-agent coordination under controlled experimental conditions.
+- **Key Features**: Supports distributed training, integrates with popular RL libraries (e.g., PyTorch), and offers tools for hyperparameter optimization and performance tracking.
 
 ## Why It Matters
 

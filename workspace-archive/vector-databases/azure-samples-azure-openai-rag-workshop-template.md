@@ -16,6 +16,7 @@ tags:
 - openai
 - rag
 - typescript
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services, designed as a hands-on workshop.
-- **Technical Stack**: Implemented in TypeScript, leveraging Azure OpenAI for LLM integration and retrieval mechanisms.
-- **Repository Details**: Last updated on 2026-03-04, with 21 stars and 41 forks.
+- **Purpose**: Template for building a Retrieval-Augmented Generation (RAG) chat application using Azure OpenAI services, designed for workshop-based learning.
+
+- **Technical Stack**: Implemented in TypeScript, leveraging Azure OpenAI for LLM inference and retrieval-augmented generation workflows.
+
+- **Repository Details**: Last updated on 2026-03-04, with 21 stars and 41 forks, serving as a starter template for custom ChatGPT-like implementations.
 
 ## Use Cases
 

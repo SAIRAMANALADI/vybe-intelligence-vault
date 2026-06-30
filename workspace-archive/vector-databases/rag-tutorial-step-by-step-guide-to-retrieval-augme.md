@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Architecture**: A 5-step process consisting of document loading, chunking, embedding/indexing (using ChromaDB), retrieval (semantic similarity search), and generation (LLM context integration with LangChain), enabling dynamic knowledge integration without model retraining.
+- **RAG Architecture**: A 5-step pipeline (Load, Chunk, Embed, Retrieve, Generate) that augments LLM responses with real-time retrieval from external knowledge bases, ensuring accuracy, auditability, and updatability without fine-tuning.
 
-- **Chunking Strategy**: Recursive character splitting (512-token chunks with 50-token overlap) preserves semantic boundaries while optimizing retrieval granularity, balancing context retention and retrieval
+- **Core Components**: Uses `langchain` for document processing, `ChromaDB` for vector storage, and OpenAI embeddings (`text-embedding-3-small`) with recursive chunking (512 tokens, 50-token overlap) to balance semantic context and retrieval efficiency.
+
+- **Pr
 
 ## Use Cases
 

@@ -8,18 +8,17 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: template
 importance: medium
 tags:
 - agents
-- benchmark
 - rag
 - web-crawled
 - workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # LangChain Blog
@@ -28,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: template
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Prompt Caching in Deep Agents**: Introduces a mechanism to cache and reuse LLM prompts, reducing redundant token processing and improving inference efficiency by up to 100x in iterative agent workflows.
+- **Dynamic Subagents in Deep Agents**: Introduces a framework for dynamically spawning specialized subagents within Deep Agents, enabling hierarchical task decomposition and adaptive agent architectures for complex workflows.
 
-- **Model Neutrality vs. Cloud Neutrality**: Argues that model neutrality (ability to switch LLMs without vendor lock-in) is more critical than cloud neutrality, enabling cost optimization, performance tuning, and resilience against provider-specific failures.
+- **LangSmith Engine**: A new execution engine in LangSmith that standardizes agentic workflows, enabling deterministic, reproducible, and observable agent behavior with built-in sandboxing and resource constraints.
 
-- **LangSmith Engine for Agent
+- **Prompt Caching in Deep Agents**: Implements a promp
 
 ## Use Cases
 

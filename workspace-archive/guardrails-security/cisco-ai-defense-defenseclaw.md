@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Python-based framework designed for security governance in agentic AI systems, providing mechanisms to enforce policies, monitor behavior, and mitigate risks in autonomous AI agents.
-
-- **Key Features**: Implements runtime policy enforcement, audit logging, and compliance checks for AI agents, ensuring adherence to predefined security and operational guidelines.
-
-- **Repository Status**: Actively maintained with the latest update on June 29, 2026, indicating ongoi
+- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring.
+- **Key Features**: Implements **runtime policy enforcement**, **AI agent behavior auditing**, and **automated incident response** for securing autonomous AI workflows.
+- **Repository Status**: Actively maintained (last updated June 2026) with **760 stars** and **134 forks**, indicating growing adoption in AI
 
 ## Use Cases
 

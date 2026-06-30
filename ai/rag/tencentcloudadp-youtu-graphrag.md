@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-30T03:53:56.232127+05:30'
+collected_at: '2026-06-30T10:08:00.540092+05:30'
 published_at: '2026-06-29T07:58:04Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-30T03:53:56.232127+05:30'
-last_seen: '2026-06-30T03:53:56.232127+05:30'
-last_checked: '2026-06-30T03:53:56.232127+05:30'
+first_seen: '2026-06-30T10:08:00.540092+05:30'
+last_seen: '2026-06-30T10:08:00.540092+05:30'
+last_checked: '2026-06-30T10:08:00.540092+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a hierarchical agent framework integrating graph-based retrieval with large language models (LLMs) for complex reasoning tasks, optimizing multi-step reasoning via structured knowledge graphs.
-
-- **Graph Retrieval-Augmented Reasoning**: Enhances traditional RAG by leveraging graph neural networks (GNNs) to dynamically retrieve and synthesize contextual subgraphs, improving factual accuracy and reasoning depth in LLM outputs.
-
-- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, agent orchestration, and retrieval-augmented reasoning, optimized for scalability and integration with existing LLM pipelines.
+- **Vertically Unified Agents**: Introduces a hierarchical agent framework integrating multi-layered reasoning (planning, retrieval, reasoning) with graph-augmented memory for complex question answering.
+- **Graph Retrieval-Augmented Architecture**: Leverages graph-based retrieval to enhance LLM reasoning, combining structured knowledge graphs with dynamic memory updates for improved factual grounding.
+- **ICLR 2026 Contribution**: Proposes a novel GraphRAG paradigm optimizing agent collaboration via graph-structured prompts and adaptive retrieval strategies for multi-hop reasoning tasks.
 
 ## Why It Matters
 

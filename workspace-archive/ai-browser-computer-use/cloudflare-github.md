@@ -6,7 +6,7 @@ source_url: https://github.com/cloudflare
 resource_id: blog:cloudflare-github
 local_vault_path: ai/agents/cloudflare-github.md
 quality_score: 70
-archive_score: 75
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -14,9 +14,10 @@ tags:
 - agents
 - frontend_ui
 - reddit
+- scripts
 - web-crawled
-- workflows
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -25,16 +26,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Browser and Computer Use`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **QUIC & HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a high-performance, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting modern web standards.
+- **QUIC & HTTP/3 Implementation**: Cloudflare's [`quiche`](https://github.com/cloudflare/quiche) is a production-grade, Rust-based implementation of the QUIC transport protocol and HTTP/3, supporting edge networking and high-performance web services.
 
-- **Workers Runtime & Tooling**: [`workerd`](https://github.com/cloudflare/workerd) is a C++-based JavaScript/Wasm runtime powering Cloudflare Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) provides the TypeScript-based CLI (`Wrangler`) for deployme
+- **Workers Runtime & SDKs**: [`workerd`](https://github.com/cloudflare/workerd) is a C++-based JavaScript/Wasm runtime powering Cloudflare Workers, while [`workers-sdk`](https://github.com/cloudflare/workers-sdk) (TypeScript) provides the CLI too
 
 ## Use Cases
 

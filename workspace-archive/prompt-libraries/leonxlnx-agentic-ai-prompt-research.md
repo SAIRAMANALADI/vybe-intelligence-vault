@@ -6,19 +6,20 @@ source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
 resource_id: github:leonxlnx/agentic-ai-prompt-research
 local_vault_path: ai/agents/leonxlnx-agentic-ai-prompt-research.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
+- benchmark
 - github-repo
 - unknown
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Leonxlnx/agentic-ai-prompt-research
@@ -26,17 +27,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Prompt Libraries`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Investigates prompt patterns, agent coordination mechanisms, and security classifications for autonomous AI-driven coding assistants.
-- **Prompt Engineering & System Prompts**: Focuses on reconstructing and optimizing system prompts for agentic AI workflows, including multi-agent collaboration and task decomposition.
-- **Security & Research Artifacts**: Analyzes security risks, threat models, and mitigation strategies for agentic AI systems, with research outp
+- **Agentic AI Coding Assistants**: Investigates reconstructed prompt patterns and agent coordination mechanisms for autonomous AI-driven coding workflows.
+- **Security Classification**: Analyzes security risks and mitigation strategies in agentic AI systems, including system prompt vulnerabilities and access controls.
+- **Multi-Agent Orchestration**: Explores frameworks for coordinating multiple AI agents in collaborative coding tasks, with benchmarks for efficiency and reliability.
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-06-30T03:53:31.168885+05:30'
+collected_at: '2026-06-30T10:07:30.527596+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 393
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-06-30T03:53:31.168885+05:30'
-last_seen: '2026-06-30T03:53:31.168885+05:30'
-last_checked: '2026-06-30T03:53:31.168885+05:30'
+first_seen: '2026-06-30T10:07:30.527596+05:30'
+last_seen: '2026-06-30T10:07:30.527596+05:30'
+last_checked: '2026-06-30T10:07:30.527596+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: Introduces a comprehensive Chinese benchmark (CRUD-RAG) for evaluating Retrieval-Augmented Generation (RAG) systems with Large Language Models (LLMs), focusing on real-world Chinese language tasks.
+- **Benchmark Design**: CRUD-RAG introduces a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive coverage of CRUD (Create, Read, Update, Delete) operations in retrieval-augmented contexts.
 
-- **Evaluation Framework**: Provides a structured evaluation suite with metrics for assessing retrieval quality, generation performance, and end-to-end RAG effectiveness in Chinese contexts.
+- **Evaluation Scope**: The benchmark assesses LLMs' capabilities in integrating retrieved knowledge with generative tasks, emphasizing accuracy, contextual relevance, and operational robustness in Chinese language processing.
 
-- **Open-Source Toolkit**: Offers a Python-based repository with datasets, evaluation scripts, and baseline models to facilitate reproducible research and benchmarking in Chinese RAG systems.
+- **Technical Implementation**: The repository provides a Python-based framework for benchmarking, including datasets, evaluation metrics, and baseline models, enabling reproducible and standardized assessment of RAG systems.
 
 ## Why It Matters
 

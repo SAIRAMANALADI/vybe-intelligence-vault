@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - rag
 - reddit
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug
@@ -32,15 +32,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (optimized via techniques like fine-tuning or quantization), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration (LangChain framework).
+- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings via vector DB like Supabase) and generation (LLMs) to enhance factual accuracy without fine-tuning; latency dominated by embedding (~40%) and retrieval (~30%) stages.
 
-- **Production Optimization Strategies**: Implements hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via Cloudflare Workers for low-latency scaling
+- **Production Optimizations**: Chunking strategies (semantic/recursive), embedding quantization (e.g., `int8`), hybrid search (BM25 + vector), and caching (Redis) reduce costs by 30-50% while maintaining 95%+ retrieval precision.
+
+- **Scaling & Monitoring**:
 
 ## Use Cases
 

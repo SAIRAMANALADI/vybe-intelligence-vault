@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dannyblaker/rag-tutorial
-collected_at: '2026-06-30T03:52:21.171642+05:30'
+collected_at: '2026-06-30T10:06:25.447850+05:30'
 published_at: '2026-06-29T08:47:18Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-01-03T09:47:50Z'
 pushed_at: '2026-01-03T09:50:45Z'
 resource_id: github:dannyblaker/rag-tutorial
-first_seen: '2026-06-30T03:52:21.171642+05:30'
-last_seen: '2026-06-30T03:52:21.171642+05:30'
-last_checked: '2026-06-30T03:52:21.171642+05:30'
+first_seen: '2026-06-30T10:06:25.447850+05:30'
+last_seen: '2026-06-30T10:06:25.447850+05:30'
+last_checked: '2026-06-30T10:06:25.447850+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6-step guide covering Retrieval-Augmented Generation (RAG) from fundamentals to production, including embeddings, vector databases, LLMs, and advanced techniques.
-- **Code & Utilities**: Provides working Python code examples, reusable utilities, and hands-on demos for practical implementation.
-- **Metadata**: Last updated June 29, 2026; 7 stars, 0 forks; hosted on GitHub with Python as the primary language.
+- **Progressive RAG Tutorial**: 6 structured lessons covering end-to-end RAG development, from fundamentals to production deployment, with executable code examples and reusable utilities.
+- **Core Technical Components**: Focuses on embeddings, vector databases, and large language models (LLMs), integrating advanced techniques for building scalable RAG systems.
+- **Python-Based Implementation**: Provides hands-on demos and practical utilities in Python, last updated June 2026, with no prior forks and minimal GitHub activity.
 
 ## Why It Matters
 

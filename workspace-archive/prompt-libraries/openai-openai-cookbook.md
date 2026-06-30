@@ -16,6 +16,7 @@ tags:
 - jupyter notebook
 - models
 - openai
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: Curated collection of Jupyter Notebooks demonstrating OpenAI API usage, covering GPT-4, ChatGPT, and other API features with practical examples and guides.
+- **Repository Overview**: Curated collection of Jupyter Notebooks demonstrating OpenAI API usage, covering models like GPT-4 and ChatGPT with practical examples and guides.
 
-- **Technical Scope**: Includes advanced implementations such as fine-tuning, prompt engineering, and multi-modal interactions, with a focus on reproducibility and scalability.
+- **Technical Scope**: Includes advanced implementations for API integration, fine-tuning, and prompt engineering with structured workflows for reproducibility.
 
-- **Community & Maintenance**: Actively maintained (last updated June 2026) with 74.4k stars and 12.6k forks, indicating strong community
+- **Community & Maintenance**: Actively maintained (last update: 2026-06-30) with 74,463 stars and 12,601 forks, indicating broad adoption and collaborative contri
 
 ## Use Cases
 

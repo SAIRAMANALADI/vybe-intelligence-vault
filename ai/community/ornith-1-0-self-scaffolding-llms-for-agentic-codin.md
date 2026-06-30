@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:ornith-1-0-self-scaffolding-llms-for-agentic-codin
 first_seen: '2026-06-30T03:51:24.865007+05:30'
 last_seen: '2026-06-30T03:51:24.865007+05:30'
 last_checked: '2026-06-30T03:51:24.865007+05:30'
 health_score: 100
 ---
+
 
 # Ornith-1.0: Self-scaffolding LLMs for agentic coding
 

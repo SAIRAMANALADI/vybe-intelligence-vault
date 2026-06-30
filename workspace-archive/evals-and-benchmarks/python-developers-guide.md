@@ -15,6 +15,7 @@ tags:
 - hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -36,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Contribution Pathways**: Python’s developer guide provides structured pathways for contributing via **documentation**, **code**, or **issue triage**, with dedicated sections for setup, PR lifecycle, testing, and grammar modifications.
+- **Contribution Workflows**: Python’s contribution guide outlines distinct workflows for documentation (PEP 8/PEP 7 compliance, reStructuredText), code (Git setup, PR lifecycle, test writing), and issue triage (labeling, expert indexing, GitHub issue management).
 
-- **Technical Prerequisites**: Contributors must adhere to **PEP 7 (C code)** and **PEP 8 (Python code)** style guides, use Git for version control, and follow build/development workflows (e.g., compiling CPython, running tests, and managing pull requests).
-
--
+- **CPython Internals & Tooling**: Core contributions require C/Python expertise for stdlib additions or language changes, with tooling support for debugging (GDB), dynamic analysis (Clang), and build automation (Buildbot, ABI dump re
 
 ## Use Cases
 

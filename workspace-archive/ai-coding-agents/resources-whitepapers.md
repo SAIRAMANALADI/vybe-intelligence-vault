@@ -7,7 +7,7 @@ source_url: https://github.com/resources/whitepapers/gartner-magic-quadrant-and-
 resource_id: github:resources/whitepapers
 local_vault_path: ai/rag/resources-whitepapers.md
 quality_score: 70
-archive_score: 81
+archive_score: 79
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Gartner 2025 Magic Quadrant**: GitHub ranked as a Leader in AI Code Assistants, achieving highest marks in *Ability to Execute* and *Completeness of Vision*, alongside Amazon and Cognition (Windsurf).
-- **Enterprise AI Adoption Projection**: Gartner forecasts 90% of enterprise software engineers will use AI code assistants by 2028, up from <14% in early 2024.
-- **GitHub’s AI Strategy**: Centralizes development via GitHub Enterprise Cloud, embeds GitHub Copilot into workflows, and introduces
+- **GitHub recognized as Leader in Gartner® Magic Quadrant™ for AI Code Assistants (2025)**, achieving highest ratings in *Ability to Execute* and *Completeness of Vision* for the second consecutive year.
+- **Gartner predicts 90% of enterprise software engineers will use AI code assistants by 2028**, up from <14% in early 2024, with GitHub Copilot embedded in workflows to mitigate tool sprawl and governance fragmentation.
+- **GitHub’s strategy focuses on centralized AI adoption via GitHub Enterp
 
 ## Use Cases
 

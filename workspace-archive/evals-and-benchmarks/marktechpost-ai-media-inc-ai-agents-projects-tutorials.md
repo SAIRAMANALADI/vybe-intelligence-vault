@@ -16,7 +16,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
 selection_reason:
 - Strong keyword match
@@ -36,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent systems**: Repository focuses on frameworks and implementations for deploying multiple AI agents with specialized skills, enabling collaborative problem-solving and workflow automation.
-- **Memory & reasoning loops**: Includes tutorials on integrating memory architectures (short/long-term) and iterative reasoning loops to enhance agent decision-making and adaptability.
-- **Agentic RAG & workflows**: Demonstrates advanced Retrieval-Augmented Generation (RAG) techniques and end-to-
+- **Multi-Agent Architectures**: Repository focuses on advanced multi-agent systems, emphasizing memory management, planning algorithms, and reasoning loop optimizations for agentic AI workflows.
+
+- **Technical Stack**: Primarily implemented in Jupyter Notebooks, leveraging Python-based frameworks for agentic development, RAG (Retrieval-Augmented Generation), and agentic coding/engineering practices.
+
+- **Ecosystem & Tools**: Covers agentic AI development tools, frameworks, and methodologies, in
 
 ## Use Cases
 

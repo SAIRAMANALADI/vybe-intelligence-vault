@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by comma_at. Score: 58, Comments: 19.
+Hacker News story by comma_at. Score: 113, Comments: 37.
 Original Link: https://htmx.org/essays/working-with-ai/
 
 ## Use Cases

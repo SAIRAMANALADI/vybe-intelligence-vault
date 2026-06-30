@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Arbitration & Class Action Waiver**: Mandates arbitration for disputes and waives class action rights against Cloudflare, requiring users to accept these terms upon service access or use.
+- **Arbitration & Class Action Waiver**: Mandates arbitration for dispute resolution and prohibits participation in class actions against Cloudflare, requiring explicit acceptance of these terms.
 
-- **Service Restrictions & Credential Liability**: Prohibits unauthorized third-party access, reverse engineering, benchmarking disclosure without full replication data, and mandates credential confidentiality; users bear sole responsibility for third-party access risks.
+- **Service Access & Restrictions**: Grants revocable, non-exclusive access to Cloudflare Services under strict compliance, prohibiting third-party resale, reverse engineering, unauthorized benchmarking, or use of Customer Content violating intellectual property or export control laws.
 
-- **Customer Content & Network Dat
+- **Data Owners
 
 ## Use Cases
 

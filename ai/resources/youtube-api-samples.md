@@ -4,23 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/youtube/api-samples
-collected_at: '2026-06-28T01:24:22.062033+05:30'
-published_at: '2026-06-26T06:57:37Z'
+collected_at: '2026-06-30T10:13:19.883705+05:30'
+published_at: '2026-06-29T21:04:40Z'
 tags:
 - github-repo
-- hackernews
 - java
 - youtube
-stars: 6000
+stars: 6004
 language: Java
 status: active
 archived: true
 created_at: '2013-12-09T18:41:41Z'
 pushed_at: '2024-06-09T20:38:03Z'
 resource_id: github:youtube/api-samples
-first_seen: '2026-06-28T01:24:22.062033+05:30'
-last_seen: '2026-06-28T01:24:22.062033+05:30'
-last_checked: '2026-06-28T01:24:22.062033+05:30'
+first_seen: '2026-06-30T10:13:19.883705+05:30'
+last_seen: '2026-06-30T10:13:19.883705+05:30'
+last_checked: '2026-06-30T10:13:19.883705+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Contains code samples for YouTube Data, Analytics, and Live Streaming APIs, organized by programming language.
-- **Technical Details**: Primarily Java-based, last updated on **2026-06-26**, with **6,000 stars** and **3,054 forks**.
-- **Purpose**: Demonstrates API integration patterns for YouTube services, facilitating developer onboarding and implementation.
+- **Multi-API Sample Repository**: Provides code samples for YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API, organized by programming language.
+- **Java-Centric Implementation**: Primary language focus is Java, with structured directories for language-specific samples.
+- **Actively Maintained**: Last updated June 29, 2026, indicating ongoing support and updates for API integration examples.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: youtube
-- Stars: 6000
-- Forks: 3054
+- Stars: 6004
+- Forks: 3053
 - Language: Java
 - Topics: None
-- Last Updated: 2026-06-26T06:57:37Z
+- Last Updated: 2026-06-29T21:04:40Z
 - Archived: Yes
 - Created At: 2013-12-09T18:41:41Z
 - Pushed At: 2024-06-09T20:38:03Z

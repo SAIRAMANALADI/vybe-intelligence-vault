@@ -4,8 +4,8 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/0xnyk/council-of-high-intelligence
-published_at: '2026-06-30T03:51:23.726399+05:30'
-collected_at: '2026-06-30T03:51:23.726403+05:30'
+published_at: '2026-06-30T10:04:36.510815+05:30'
+collected_at: '2026-06-30T10:04:36.510819+05:30'
 tags:
 - github-trending
 - hackernews
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:0xnyk/council-of-high-intelligence
 first_seen: '2026-06-29T21:42:25.396690+05:30'
-last_seen: '2026-06-30T03:51:23.726403+05:30'
-last_checked: '2026-06-30T03:51:23.726403+05:30'
+last_seen: '2026-06-30T10:04:36.510819+05:30'
+last_checked: '2026-06-30T10:04:36.510819+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-30T03:51:23.726399+05:30
+- Published: 2026-06-30T10:04:36.510815+05:30
 
 ## Related Tags
 

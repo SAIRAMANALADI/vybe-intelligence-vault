@@ -11,7 +11,7 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
 - [Getting Started | OpenTelemetry](https://opentelemetry.io/docs/getting-started/) (tutorial - USEFUL Tier)
-- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (framework - USEFUL Tier)
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (prompt - USEFUL Tier)
 - [Introduction - Tree-sitter](https://tree-sitter.github.io/tree-sitter/) (framework - USEFUL Tier)
 - [Distributed authority quickstart | Netcode for GameObjects | 2.11.2](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@2.11/manual/da-quickstart.html) (tutorial - USEFUL Tier)
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
@@ -25,8 +25,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [open-telemetry/community](https://github.com/open-telemetry/community#mailing-lists)
-- [run-llama/liteparse](https://github.com/run-llama/liteparse)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-30 04:08 IST*
+*Last updated: 2026-06-30 10:21 IST*

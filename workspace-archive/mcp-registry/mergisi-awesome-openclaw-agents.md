@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `mergisi/awesome-openclaw-agents` hosts **162 production-ready AI agent templates** for **OpenClaw**, utilizing **SOUL.md** configurations across **19 categories** for rapid deployment.
-- **Technical Stack**: Templates support **multi-agent systems**, **LLM integration**, **MCP**, and **no-code automation**, with **Docker** compatibility for containerized execution.
-- **Community & Contributions**: Open to submissions; includes **Telegram bot**, **Claude/Anthropic** integration
+- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories.
+- **Technical Scope**: Supports multi-agent systems, MCP, LLM integration, Docker deployment, and no-code configurations with community-driven contributions.
+- **Metadata**: 3,750 stars, 612 forks, last updated 2026-06-30, covering topics like automation, productivity, and AI-agent templates.
 
 ## Use Cases
 

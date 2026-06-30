@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-06-29T10:34:55.879130+05:30'
-published_at: '2026-06-29T04:29:39Z'
+collected_at: '2026-06-30T10:09:50.646128+05:30'
+published_at: '2026-06-30T00:37:09Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 3701
+stars: 3705
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-06-29T10:34:55.879130+05:30'
-last_seen: '2026-06-29T10:34:55.879130+05:30'
-last_checked: '2026-06-29T10:34:55.879130+05:30'
+first_seen: '2026-06-30T10:09:50.646128+05:30'
+last_seen: '2026-06-30T10:09:50.646128+05:30'
+last_checked: '2026-06-30T10:09:50.646128+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, leveraging market-making and prediction strategies.
-
-- **Modular Architecture**: Designed with extensible components for strategy implementation, order execution, and real-time market data processing.
-
-- **Open-Source Toolkit**: Provides foundational codebase for developers to build, test, and deploy AI-driven trading agents on Polymarket’s prediction market platform.
+*   Python-based AI agents for autonomous trading on the Polymarket platform.
+*   Enables automated market participation and execution within decentralized prediction markets.
+*   Leverages AI for decision-making and strategy implementation in a trading context.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Polymarket
-- Stars: 3701
-- Forks: 815
+- Stars: 3705
+- Forks: 820
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-29T04:29:39Z
+- Last Updated: 2026-06-30T00:37:09Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-30T03:52:31.158835+05:30'
+collected_at: '2026-06-30T10:06:35.496939+05:30'
 published_at: '2026-06-29T00:55:35Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-30T03:52:31.158835+05:30'
-last_seen: '2026-06-30T03:52:31.158835+05:30'
-last_checked: '2026-06-30T03:52:31.158835+05:30'
+first_seen: '2026-06-30T10:06:35.496939+05:30'
+last_seen: '2026-06-30T10:06:35.496939+05:30'
+last_checked: '2026-06-30T10:06:35.496939+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Provides practical examples and tutorials for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to enable multimodal retrieval-augmented generation (RAG) workflows.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples for multimodal AI applications, Retrieval-Augmented Generation (RAG), and agent-based systems using vector search and Large Language Models (LLMs).
 
-- **Vector Database Recipes**: Demonstrates efficient use of LanceDB (a vector database) for storing, indexing, and querying embeddings in AI pipelines, including fine-tuning and agent-based systems.
+- **Toolchain Integration**: Demonstrates workflows with key AI frameworks including LangChain, LlamaIndex, OpenAI (GPT/GPT-4-Vision), and vector database LanceDB for embeddings, fine-tuning, and multimodal processing.
 
-- **End-to-End AI Pipelines**: Includes Jupyter Notebooks showcasing real-world applications like multimodal embeddings, agent frameworks, and OpenAI integration for scalable AI deployments.
+- **Technical Focus**: Covers deep-learning techniques, embedding generation, and vector database optimization for scalable AI pipelines, last updated with modern tooling as of June 2026.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://js.langchain.com
-published_at: '2026-06-29T10:35:57.002327+05:30'
-collected_at: '2026-06-29T10:35:57.002341+05:30'
+published_at: '2026-06-30T10:10:42.872142+05:30'
+collected_at: '2026-06-30T10:10:42.872155+05:30'
 tags:
 - agents
 - anthropic
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langchain-overview-docs-by-langchain
-first_seen: '2026-06-29T10:35:57.002341+05:30'
-last_seen: '2026-06-29T10:35:57.002341+05:30'
-last_checked: '2026-06-29T10:35:57.002341+05:30'
+first_seen: '2026-06-30T10:10:42.872155+05:30'
+last_seen: '2026-06-30T10:10:42.872155+05:30'
+last_checked: '2026-06-30T10:10:42.872155+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompts, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
-
-- **Hierarchical Agent Frameworks**: Deep Agents offer a "batteries-included" solution with features like automatic context compression and subagent spawning, while LangChain (`create_agent`) focuses on customizable harnesses and LangGraph provides low-level orchestration for deterministic and agentic workflows.
-
-- **Observability & Integration**: LangSmith enables tracing, debugging, and evaluation of agent behavior, with LangSmith Engine monitoring traces for issue detection and fixes; LangChain agents are built on LangGraph for durable execution, human-in-the-loop support, and persistence.
+- `create_agent` in LangChain provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- LangChain agents leverage LangGraph’s durable execution, persistence, and human-in-the-loop capabilities while enabling incremental customization via middleware.
+- LangSmith integrates for observability, enabling trace debugging, failure analysis, and performance evaluation of agent workflows.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:35:57.002327+05:30
+- Published: 2026-06-30T10:10:42.872142+05:30
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: 'UAX #15: Unicode Normalization Forms'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.unicode.org/reports/tr15
+source_url: http://unicode.org/reports/tr15/
 resource_id: blog:uax-15-unicode-normalization-forms
 local_vault_path: ai/rag/uax-15-unicode-normalization-forms.md
 quality_score: 70
@@ -34,8 +34,8 @@ selection_reason:
 ## Summary
 
 - **Normalization Forms**: Defines four Unicode Normalization Forms (NFD, NFC, NFKD, NFKC) to ensure unique binary representation of equivalent strings via canonical/compatibility decomposition and composition.
-- **Equivalence Types**: Canonical equivalence preserves visual/behavioral identity (e.g., `Ç` ↔ `C+◌̧`), while compatibility equivalence allows stylistic/semantic distinctions (e.g., `¼` → `1/4`).
-- **Stability & Versioning**: Specifies composition exclusions, stream-safe text format, an
+- **Canonical vs. Compatibility Equivalence**: Canonical equivalence preserves visual/behavioral identity (e.g., `Ç` ↔ `C+◌̧`), while compatibility equivalence allows stylistic/semantic distinctions (e.g., `①` → `1`).
+- **Stream-Safe & Stabilized Strings**: Specifies Stream-Safe Text Form
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.unicode.org/reports/tr15
+Original source URL: http://unicode.org/reports/tr15/
 
 ## Local Vault File
 

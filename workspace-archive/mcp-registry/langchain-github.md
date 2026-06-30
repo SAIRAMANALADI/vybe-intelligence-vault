@@ -6,7 +6,7 @@ source_url: https://github.com/langchain-ai
 resource_id: blog:langchain-github
 local_vault_path: ai/rag/langchain-github.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,7 +15,6 @@ tags:
 - anthropic
 - rag
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -27,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable graph-based agent construction with stateful workflows.
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution.
-- **Commercial & OSS Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications, while LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support complex tasks via planning, subagents, and file system interactions.
+
+- **Commercial Platform**: LangSmith offers a production-grade platform for building and monitoring LLM applications.
+
+- **OSS Extensions**: Includes Deep Agents Code (terminal-based coding agent), Open SWE (asynchro
 
 ## Use Cases
 

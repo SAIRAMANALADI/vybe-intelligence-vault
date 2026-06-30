@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/esxr/langgraph-mcp
-collected_at: '2026-06-29T10:35:10.803463+05:30'
+collected_at: '2026-06-30T10:10:05.598683+05:30'
 published_at: '2026-06-19T20:15:14Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-01-10T07:40:37Z'
 pushed_at: '2025-02-25T10:10:11Z'
 resource_id: github:esxr/langgraph-mcp
-first_seen: '2026-06-29T10:35:10.803463+05:30'
-last_seen: '2026-06-29T10:35:10.803463+05:30'
-last_checked: '2026-06-29T10:35:10.803463+05:30'
+first_seen: '2026-06-30T10:10:05.598683+05:30'
+last_seen: '2026-06-30T10:10:05.598683+05:30'
+last_checked: '2026-06-30T10:10:05.598683+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: LangGraph solution template for Model Context Protocol (MCP), enabling structured workflows for MCP interactions in Python.
-- **Key Features**: Template provides a modular framework for building MCP-compatible agents with LangGraph, supporting stateful, multi-actor workflows.
-- **Technical Stack**: Python-based, leveraging LangGraph for graph-based orchestration; last updated June 19, 2026.
+- **Purpose**: LangGraph-based template for Model Context Protocol (MCP) integration in Python, enabling structured multi-agent workflows.
+- **Key Features**: Pre-configured graph-based orchestration for MCP servers/clients, modular design for extensibility.
+- **Technical Stack**: Python; leverages LangGraph for stateful, parallelizable agent interactions with MCP compliance.
 
 ## Why It Matters
 

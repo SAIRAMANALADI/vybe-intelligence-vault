@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **New Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and vector size.
+- **New Embedding Models**: `text-embedding-3-small` and `text-embedding-3-large` offer lower costs, improved multilingual performance, and configurable embedding dimensions (default: 1536/3072) via the `dimensions` parameter, enabling trade-offs between performance and vector size.
 
-- **Embedding Mechanics**: Text strings are converted to high-dimensional floating-point vectors (embeddings) where cosine distance measures semantic relatedness; embeddings are billed per input token and can be dynamically t
+- **Embedding Mechanics**: Text strings are converted into floating-point vectors where cosine distance measures semantic relatedness; embeddings support use cases like search, clustering, classification, and anomal
 
 ## Use Cases
 

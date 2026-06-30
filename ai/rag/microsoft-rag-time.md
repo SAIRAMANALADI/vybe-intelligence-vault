@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-06-30T03:52:21.222501+05:30'
+collected_at: '2026-06-30T10:06:25.483733+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-06-30T03:52:21.222501+05:30'
-last_seen: '2026-06-30T03:52:21.222501+05:30'
-last_checked: '2026-06-30T03:52:21.222501+05:30'
+first_seen: '2026-06-30T10:06:25.483733+05:30'
+last_seen: '2026-06-30T10:06:25.483733+05:30'
+last_checked: '2026-06-30T10:06:25.483733+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG), hybrid search (vector + keyword), and advanced indexing techniques (HNSW, scalar/binary quantization) using Jupyter Notebooks.
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced topics like hybrid search, vector indexing (HNSW), and quantization techniques (binary/scalar) for efficient LLM retrieval.
 
-- **Azure & OpenAI Integration**: Demonstrates deployment and optimization of RAG pipelines on Azure, leveraging OpenAI models (e.g., GPT) with responsible AI practices and multimodal capabilities.
+- **Multimodal & Azure Integration**: Hands-on labs using Azure AI services, OpenAI models, and Matryoshka representation learning for scalable, cross-modal RAG applications with responsible AI practices.
 
-- **Advanced Optimization Techniques**: Implements Matryoshka representation learning for dynamic embedding dimensionality and efficient retrieval, with tooling support for VS Code and Azure AI services.
+- **Toolchain & Optimization**: Demonstrates deployment in VS Code with hybrid search pipelines, keyword-to-vector conversion, and performance tuning via advanced indexing strategies (e.g., HNSW, scalar/binary quantization).
 
 ## Why It Matters
 

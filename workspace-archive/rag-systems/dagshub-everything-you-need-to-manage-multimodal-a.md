@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -19,7 +19,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # DagsHub: Everything you need to manage multimodal AI
@@ -28,18 +28,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, CI/CD/CT integration, and interactive pipelines for AI model development.
-
-- **Scalable Experiment Tracking & Model Registry**: Enables tracking of unlimited experiments (public repos) with MLflow compatibility, model versioning, and deployment capabilities, scaling from 100 private experiments (Team plan) to petabyte-scale (Enterprise).
-
-- **
+- **Unified AI Data & Model Management**: Supports multimodal dataset curation (vision, audio, LLM data) with versioning, lineage tracking, and annotation workspaces; integrates CI/CD/CT pipelines and MLflow for experiment tracking.
+- **Scalable Deployment Options**: Team plan ($99/user/month) offers 1TB storage, multimodal auto-labeling, and RBAC; Enterprise adds petabyte-scale storage, VPC/air-gapped on-premise deployment, and SSO/LDAP/OIDC support.
+- **Model Registry & Collaboration**: Provid
 
 ## Use Cases
 

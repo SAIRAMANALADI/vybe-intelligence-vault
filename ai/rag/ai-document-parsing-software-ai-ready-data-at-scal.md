@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-06-30T01:51:22.049007+05:30'
-collected_at: '2026-06-30T01:51:22.049021+05:30'
+published_at: '2026-06-30T10:11:30.396361+05:30'
+collected_at: '2026-06-30T10:11:30.396373+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-06-30T01:51:22.049021+05:30'
-last_seen: '2026-06-30T01:51:22.049021+05:30'
-last_checked: '2026-06-30T01:51:22.049021+05:30'
+first_seen: '2026-06-30T10:11:30.396373+05:30'
+last_seen: '2026-06-30T10:11:30.396373+05:30'
+last_checked: '2026-06-30T10:11:30.396373+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
+- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately extract structured data from complex documents, including headers, footers, split sections, tables, charts, and handwritten content.
 
-- **Multimodal & multilingual processing**: Combines OCR, layout analysis, and multimodal understanding (charts, images) with out-of-the-box support for 100+ languages, optimized for enterprise-scale workflows.
+- **Multimodal & multilingual support**: Processes 90+ formats (PDFs, scans, invoices, etc.) with granular control over parsing modes, while supporting 100+ languages for global enterprise use cases.
 
-- **Granular control & scalability**: Offers configurable parsing modes (cost/accuracy trade-offs), local/cloud deployment options, and handles millions of pages with high concurrency for enterprise-grade reliability.
+- **Scalable & enterprise-ready**: Handles millions of pages with high concurrency, supports local/cloud deployment, and integrates with LlamaIndex for downstream AI/ML workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T01:51:22.049007+05:30
+- Published: 2026-06-30T10:11:30.396361+05:30
 
 ## Related Tags
 

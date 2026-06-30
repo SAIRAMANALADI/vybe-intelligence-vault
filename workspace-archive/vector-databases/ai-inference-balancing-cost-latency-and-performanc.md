@@ -1,0 +1,57 @@
+---
+title: 'AI Inference: Balancing Cost, Latency, and Performance | EBook | NVIDIA'
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://www.nvidia.com/en-us/solutions/ai/inference/balancing-cost-latency-and-performance-ebook/
+resource_id: blog:ai-inference-balancing-cost-latency-and-performanc
+local_vault_path: ai/rag/ai-inference-balancing-cost-latency-and-performanc.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- agents
+- dataset
+- hackernews
+- rag
+- reddit
+- scripts
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Valuable developer reference
+---
+
+# AI Inference: Balancing Cost, Latency, and Performance | EBook | NVIDIA
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+- **NVIDIA AI Inference Solutions**: Provides optimized inference platforms (e.g., Dynamo, NIM) for fast AI model deployment, balancing peak performance, throughput, and ultra-low latency critical for large-scale LLM inference.
+
+- **Cost Optimization Strategies**: Offers actionable best practices to minimize cost per token in AI inference, leveraging full-stack NVIDIA solutions for maximum efficiency and value.
+
+- **Use Case-Driven Infrastructure**: Tailors compute, networking, and software requ
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://www.nvidia.com/en-us/solutions/ai/inference/balancing-cost-latency-and-performance-ebook/
+
+## Local Vault File
+
+Path: [ai-inference-balancing-cost-latency-and-performanc.md](../../ai/rag/ai-inference-balancing-cost-latency-and-performanc.md)

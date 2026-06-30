@@ -6,7 +6,7 @@ source_url: https://github.com/langchain-ai/langgraphjs
 resource_id: github:langchain-ai/langgraphjs
 local_vault_path: ai/rag/langchain-ai-langgraphjs.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables the construction of resilient language agents using graph-based architectures, allowing for complex workflows and state management in TypeScript.
+- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph-based workflows, allowing complex agentic systems to be modeled as stateful graphs with nodes and edges.
 
-- **TypeScript Implementation**: The repository provides a TypeScript-based framework optimized for building AI agents, leveraging modern JavaScript/TypeScript features for robustness and scalability.
+- **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and leveraging modern JavaScript/TypeScript features for agent orchestration.
 
-- **Stateful Multi-Agent Systems**: Supports stateful, multi-agent systems with built-in persist
+- **Stateful & Modular Design**: Supports stateful multi-actor workflows with persistence, checkpointing, and modu
 
 ## Use Cases
 

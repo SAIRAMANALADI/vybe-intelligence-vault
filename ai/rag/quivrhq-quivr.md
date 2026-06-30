@@ -4,18 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/QuivrHQ/quivr
-collected_at: '2026-06-30T03:53:36.208644+05:30'
+collected_at: '2026-06-30T10:07:35.521612+05:30'
 published_at: '2026-06-29T18:04:30Z'
 tags:
 - frontend_ui
 - github-repo
-- hackernews
 - meta-ai
 - models
 - openai
 - python
 - rag
-- workflows
 stars: 39184
 language: Python
 status: active
@@ -24,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2025-07-09T12:55:23Z'
 resource_id: github:quivrhq/quivr
-first_seen: '2026-06-30T03:53:36.208644+05:30'
-last_seen: '2026-06-30T03:53:36.208644+05:30'
-last_checked: '2026-06-30T03:53:36.208644+05:30'
+first_seen: '2026-06-30T10:07:35.521612+05:30'
+last_seen: '2026-06-30T10:07:35.521612+05:30'
+last_checked: '2026-06-30T10:07:35.521612+05:30'
 health_score: 100
 ---
 
@@ -34,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization across LLMs (e.g., GPT4, Groq, Llama), vector stores (e.g., PGVector, Faiss), and file types without vendor lock-in.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for product-specific needs without deep RAG expertise.
 
-- **Multi-Environment Compatibility**: The framework offers flexibility in deployment, with support for Docker, PostgreSQL, and frontend technologies (React, TypeScript, HTML/JavaScript), enabling integration into existing products via APIs or custom workflows.
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across diverse infrastructure and file formats.
 
-- **Privacy & Security Focus**: Prioritizes data privacy with self-hosting capabilities and modular architecture, allowing developers to bypass third-party dependencies while maintaining control over data storage and processing.
+- **Tech Stack & Deployment**: Built in Python with React/TypeScript frontend, Dockerized for deployment, and integrates with PostgreSQL, OpenAI, and privacy/security-focused tools for scalable, secure AI-driven applications.
 
 ## Why It Matters
 

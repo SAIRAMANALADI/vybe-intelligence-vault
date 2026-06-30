@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-06-30T03:52:51.173550+05:30'
-published_at: '2026-06-29T14:05:32Z'
+collected_at: '2026-06-30T10:06:55.483985+05:30'
+published_at: '2026-06-30T01:10:58Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
-stars: 1960
+stars: 1962
 language: Python
 status: active
 license: MIT
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-06-30T03:52:51.173550+05:30'
-last_seen: '2026-06-30T03:52:51.173550+05:30'
-last_checked: '2026-06-30T03:52:51.173550+05:30'
+first_seen: '2026-06-30T10:06:55.483985+05:30'
+last_seen: '2026-06-30T10:06:55.483985+05:30'
+last_checked: '2026-06-30T10:06:55.483985+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-source language models (SLMs) to reduce computational overhead while maintaining competitive performance.
+- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL2026.
 
-- **Efficiency Optimizations**: Implements lightweight retrieval and generation mechanisms (e.g., distilled embeddings, quantized inference) to enable deployment on resource-constrained hardware without sacrificing accuracy.
+- **Architectural Efficiency**: Implements lightweight retrieval and generation components (e.g., distilled encoders, quantized decoders) to optimize inference speed and memory usage without sacrificing accuracy.
 
-- **Benchmark Performance**: Achieves ACL2026 SOTA results among small-scale RAG models, demonstrating comparable effectiveness to larger models in tasks like open-domain QA and document-grounded generation.
+- **Open-Source Toolkit**: Provides a Python-based repository with modular components for customizable RAG deployments, supporting rapid experimentation and integration with existing LLM ecosystems.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 1960
-- Forks: 251
+- Stars: 1962
+- Forks: 252
 - Language: Python
 - Topics: large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-29T14:05:32Z
+- Last Updated: 2026-06-30T01:10:58Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-11T13:24:14Z

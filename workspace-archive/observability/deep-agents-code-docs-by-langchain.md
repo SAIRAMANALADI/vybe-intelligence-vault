@@ -19,7 +19,6 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -39,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
+- **Multi-Provider LLM Integration**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command, with persistent memory for cross-conversation context and configurable skills for behavior customization.
 
-- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts sh
+- **Human-in-the-Loop & Sandboxing**: Implements approval controls for destructive operations (e.g., file writes, shell execution) and supports remote sandboxes (LangSmith, Daytona, Modal) for isolated
 
 ## Use Cases
 

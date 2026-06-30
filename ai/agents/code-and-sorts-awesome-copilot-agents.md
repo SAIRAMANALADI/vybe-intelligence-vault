@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-30T03:54:11.253112+05:30'
+collected_at: '2026-06-30T10:08:10.544407+05:30'
 published_at: '2026-06-29T02:12:54Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 541
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-30T03:54:11.253112+05:30'
-last_seen: '2026-06-30T03:54:11.253112+05:30'
-last_checked: '2026-06-30T03:54:11.253112+05:30'
+first_seen: '2026-06-30T10:08:10.544407+05:30'
+last_seen: '2026-06-30T10:08:10.544407+05:30'
+last_checked: '2026-06-30T10:08:10.544407+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) compiling GitHub Copilot enhancement materials, including instructions, prompts, skills, MCPs, and agent markdown files for AI-driven development workflows.
-- **Technical Scope**: Focuses on agent skills, AI agents, prompt engineering, and custom GitHub Copilot integrations (e.g., VSCode Copilot Chat) with TypeScript-based implementations.
-- **Metadata**: 541 stars, 86 forks, last updated June 29, 2026; categorized under topics like `agent-skills`, `copilot-prompting`, and `mcp`.
+- **Curated resource** for GitHub Copilot enhancement, featuring GitHub instructions, prompts, skills, MCPs, and agent markdown files to optimize AI agent interactions.
+- **Technical stack**: TypeScript-based repository with focus on `agent-skills`, `ai-agents`, `prompt-engineering`, and `custom-agents` for VS Code Copilot Chat integration.
+- **Last updated**: 2026-06-29T02:12:54Z, with 541 stars and 86 forks, covering topics like `copilot-instructions`, `mcp`, and `github-copilot` customization.
 
 ## Why It Matters
 

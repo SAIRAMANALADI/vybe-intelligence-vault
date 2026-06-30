@@ -15,6 +15,7 @@ tags:
 - github-repo
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **12-Lesson Curriculum**: Structured guide covering fundamental to advanced concepts in building AI agents, including agentic RAG, Autogen, and Semantic Kernel frameworks.
-- **Jupyter Notebook-Based**: Hands-on, executable lessons with interactive code examples for practical learning in agentic AI development.
-- **Microsoft Ecosystem Integration**: Focuses on tools like Autogen and Semantic Kernel, leveraging Microsoft’s agentic AI frameworks for agent development.
+- **12-Lesson Curriculum**: Structured guide covering foundational to advanced concepts in AI agent development, including agentic RAG, Autogen, and Semantic Kernel frameworks.
+- **Jupyter Notebook-Based**: Hands-on, executable lessons with practical implementations in Python, focusing on agentic AI workflows and frameworks.
+- **Microsoft Ecosystem Integration**: Utilizes Autogen, Semantic Kernel, and other Microsoft AI tools for building scalable, agent-based generative AI solutions.
 
 ## Use Cases
 

@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/topoteretes/awesome-ai-memory
-collected_at: '2026-06-30T03:53:21.188204+05:30'
-published_at: '2026-06-28T19:06:05Z'
+collected_at: '2026-06-30T10:07:25.514807+05:30'
+published_at: '2026-06-30T01:42:07Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-stars: 801
+stars: 802
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-11-23T12:40:05Z'
 pushed_at: '2026-06-18T15:07:20Z'
 resource_id: github:topoteretes/awesome-ai-memory
-first_seen: '2026-06-30T03:53:21.188204+05:30'
-last_seen: '2026-06-30T03:53:21.188204+05:30'
-last_checked: '2026-06-30T03:53:21.188204+05:30'
+first_seen: '2026-06-30T10:07:25.514807+05:30'
+last_seen: '2026-06-30T10:07:25.514807+05:30'
+last_checked: '2026-06-30T10:07:25.514807+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregates 800+ projects focused on AI memory systems, including RAG, agent-based memory, and long-term context retention in Python.
-- **Technical Scope**: Covers memory management for AI/ML pipelines, spanning retrieval-augmented generation (RAG), agent architectures, and persistent contextual storage.
-- **Recent Update**: Last synchronized on **2026-06-28**, ensuring inclusion of cutting-edge tools and frameworks in AI memory research.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval-augmented generation (RAG), and agentic memory systems.
+- **Python-centric** repository with 802 stars and 88 forks, last updated in 2026, covering topics like AI agents, memory architectures, and ML-based memory optimization.
+- **Resource hub** for AI engineers and researchers, aggregating state-of-the-art methods in persistent memory, context retention, and long-term knowledge integration for LLMs.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: topoteretes
-- Stars: 801
+- Stars: 802
 - Forks: 88
 - Language: Python
 - Topics: ai, ai-agents, ai-engineering, ai-memory, ai-ml, memory-management, rag
-- Last Updated: 2026-06-28T19:06:05Z
+- Last Updated: 2026-06-30T01:42:07Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-11-23T12:40:05Z

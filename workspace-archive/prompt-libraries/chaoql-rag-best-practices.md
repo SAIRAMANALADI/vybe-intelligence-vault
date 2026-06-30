@@ -34,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Optimization Framework**: Implements advanced retrieval-augmented generation (RAG) pipelines with modular components for indexing, retrieval, and generation in Python.
-- **Best Practices Integration**: Incorporates state-of-the-art techniques for chunking, embedding, reranking, and prompt engineering to enhance LLM performance.
-- **Evaluation & Benchmarking**: Includes scripts for assessing retrieval quality, generation accuracy, and end-to-end RAG system efficiency.
+- **Repository Overview**: Python-based repository (`chaoql/rag-best-practices`) focused on **Retrieval-Augmented Generation (RAG)** best practices for large language models (LLMs), last updated June 22, 2026.
+- **Scale & Activity**: 92 stars, 10 forks, with no additional topics or language specifications beyond Python.
+- **Purpose**: Provides curated technical guidelines and implementations for optimizing **RAG pipelines**, including retrieval strategies, prompt engineering, and evaluation fram
 
 ## Use Cases
 

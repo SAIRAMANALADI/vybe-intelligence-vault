@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent LLM Framework**: Implements a modular Python-based system where specialized Large Language Model (LLM) agents collaborate for financial trading, leveraging agent-based architectures for decision-making.
+- **Multi-Agent LLM Framework**: Implements a collaborative multi-agent system leveraging large language models (LLMs) for financial trading strategies, enabling distributed decision-making and task specialization among agents.
 
-- **Financial Trading Focus**: Designed for quantitative trading, market analysis, and strategy execution, integrating real-time data processing and adaptive learning for dynamic market conditions.
+- **Python-Based Architecture**: Built in Python with modular components for market data processing, strategy execution, and agent coordination, optimized for extensibility and integration with financial APIs.
 
-- **Open-Source & Scalable**: Released under an open-source license, supports ext
+- **High-Frequency & Adaptive Trading**: Supports real-time
 
 ## Use Cases
 

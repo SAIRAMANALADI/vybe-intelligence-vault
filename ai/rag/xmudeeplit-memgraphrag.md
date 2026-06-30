@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-30T03:54:01.215670+05:30'
+collected_at: '2026-06-30T10:08:00.524128+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-30T03:54:01.215670+05:30'
-last_seen: '2026-06-30T03:54:01.215670+05:30'
-last_checked: '2026-06-30T03:54:01.215670+05:30'
+first_seen: '2026-06-30T10:08:00.524128+05:30'
+last_seen: '2026-06-30T10:08:00.524128+05:30'
+last_checked: '2026-06-30T10:08:00.524128+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory-augmented agents for **Graph Retrieval-Augmented Generation (GraphRAG)**, enabling dynamic knowledge integration and reasoning over graph-structured data.
+- **Memory-augmented multi-agent framework** leveraging graph-based retrieval for enhanced LLM reasoning, integrating agent-memory with structured knowledge graphs for dynamic context retention.
 
-- **Graph Construction & Ontology Integration**: Implements **ontology-driven graph construction** to model relationships and entities, enhancing semantic retrieval and contextual understanding in multi-agent interactions.
+- **Ontology-driven graph construction** enables hierarchical knowledge representation, facilitating efficient subgraph retrieval and multi-agent collaboration via memory-optimized graph traversal.
 
-- **Python Implementation**: Provides an open-source Python-based system optimized for **scalable graph-based RAG**, with modular components for agent memory, graph construction, and retrieval mechanisms.
+- **GraphRAG integration** combines retrieval-augmented generation with graph neural networks, optimizing long-term memory retention and adaptive knowledge synthesis for complex multi-step reasoning tasks.
 
 ## Why It Matters
 

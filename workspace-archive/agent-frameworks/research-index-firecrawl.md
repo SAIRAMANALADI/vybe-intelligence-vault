@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **API Endpoints**: Provides structured RESTful endpoints (`/search/research/papers`, `/search/research/papers/{id}`, `/search/research/papers/{id}/similar`, `/search/research/github`) for paper search, metadata inspection, related-paper discovery, and GitHub history analysis.
+- **Research Index API**: Provides endpoints for searching papers (`GET /search/research/papers`), inspecting metadata/reading passages (`GET /search/research/papers/{id}`), finding related papers (`GET /search/research/papers/{id}/similar`), and searching GitHub history (`GET /search/research/github`).
 
-- **Semantic Expansion & Filtering**: Enables natural-language queries for paper search with optional filters (`authors`, `categories`, `from/to dates`), and supports intent-based expansion modes (`similar`, `citers`, `r
+- **Search Functionality**: Supports natural-language queries with filters for authors, categories (`cs.LG`), and date ranges (`from`, `to`), returning ranked papers with metadata, abstracts, an
 
 ## Use Cases
 

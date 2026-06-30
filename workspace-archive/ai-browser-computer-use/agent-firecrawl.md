@@ -31,9 +31,8 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Web Navigation & Data Extraction**: Firecrawl `/agent` performs deep web searches and autonomous navigation without requiring predefined URLs, dynamically exploring sites to gather structured data based on natural language prompts (`prompt` parameter) or optional URL lists (`urls`). Supports structured output via JSON schemas (Pydantic/Zod) for type-safe extraction.
-
-- **Asynchronous Job Processing with Dual Model Options**: Agent jobs run asynchronously, returning a `Job ID` for
+*   Firecrawl's `/agent` API enables autonomous, prompt-driven web data extraction, performing deep navigation and search without requiring explicit URLs, and supports structured output via JSON schema.
+*   Agent jobs
 
 ## Use Cases
 

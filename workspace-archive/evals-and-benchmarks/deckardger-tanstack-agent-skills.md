@@ -6,13 +6,12 @@ source_url: https://github.com/DeckardGer/tanstack-agent-skills
 resource_id: github:deckardger/tanstack-agent-skills
 local_vault_path: ai/rag/deckardger-tanstack-agent-skills.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - github-repo
 - rag
 - reddit
@@ -20,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # DeckardGer/tanstack-agent-skills
@@ -28,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Optimized Caching Strategies**: Implements advanced TanStack Query patterns (e.g., stale-while-revalidate, parallel queries) to minimize redundant API calls and improve AI agent response latency.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
 
-- **State Management for AI Workflows**: Leverages TanStack Router for declarative route-based state synchronization, ensuring consistent data across multi-step AI agent interactions.
+- **Router-Level State Management**: Implements dynamic route-based data loading and state persistence in TanStack Router, leveraging nested route matching and loader functions to minimize client-side state duplication.
 
-- **Performance Benchmarks**: Includes benchmarking utilities for TanStack Start to validate query/router optimiza
+- **
 
 ## Use Cases
 

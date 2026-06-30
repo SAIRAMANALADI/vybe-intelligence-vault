@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-format parsing**: Supports 90+ document formats (PDFs, scans, invoices, healthcare forms, etc.) with layout-aware extraction of headers, footers, tables, charts, handwriting, and checkboxes into clean markdown.
+- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately extract structured data from complex documents, including headers, footers, split sections, tables, charts, and handwritten content.
 
-- **Multimodal & multilingual processing**: Combines OCR, layout analysis, and multimodal understanding (charts, images) with out-of-the-box support for 100+ languages, optimized for enterprise-scale workflows.
+- **Multimodal & multilingual support**: Processes 90+ formats (PDFs, scans, invoices, etc.) with granular control over parsing modes, while supporting 100+ languages for global enterprise use cases.
 
-- **Granular control & scalability**: Offers configurable parsing
+- **Scalable & enterprise-ready**: Handles millions of pages with high concurren
 
 ## Use Cases
 

@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG), hybrid search (vector + keyword), and advanced indexing techniques (HNSW, scalar/binary quantization) using Jupyter Notebooks.
+- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced topics like hybrid search, vector indexing (HNSW), and quantization techniques (binary/scalar) for efficient LLM retrieval.
 
-- **Azure & OpenAI Integration**: Demonstrates deployment and optimization of RAG pipelines on Azure, leveraging OpenAI models (e.g., GPT) with responsible AI practices and multimodal capabilities.
+- **Multimodal & Azure Integration**: Hands-on labs using Azure AI services, OpenAI models, and Matryoshka representation learning for scalable, cross-modal RAG applications with responsible AI practices.
 
-- **Advanced Optimization Techniques**: Implements Matr
+- **Toolchain & Optimizatio
 
 ## Use Cases
 

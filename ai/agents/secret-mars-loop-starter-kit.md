@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/secret-mars/loop-starter-kit
-collected_at: '2026-06-29T10:34:50.788900+05:30'
+collected_at: '2026-06-30T10:09:45.563181+05:30'
 published_at: '2026-04-15T18:57:02Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-02-20T00:25:20Z'
 pushed_at: '2026-05-06T17:07:51Z'
 resource_id: github:secret-mars/loop-starter-kit
-first_seen: '2026-06-29T10:34:50.788900+05:30'
-last_seen: '2026-06-29T10:34:50.788900+05:30'
-last_checked: '2026-06-29T10:34:50.788900+05:30'
+first_seen: '2026-06-30T10:09:45.563181+05:30'
+last_seen: '2026-06-30T10:09:45.563181+05:30'
+last_checked: '2026-06-30T10:09:45.563181+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ health_score: 100
 
 - **Autonomous Agent Loop Template**: Provides a 10-phase perpetual cycle framework for AIBTC agents, designed for immediate forking and deployment with self-updating prompts.
 - **Production-Ready Foundation**: Built on 166+ validated production cycles, ensuring robustness and scalability for autonomous agent development.
-- **GitHub Repository**: Hosted at `secret-mars/loop-starter-kit`, last updated on **2026-04-15**, with 20 forks and no stars (language unspecified).
+- **GitHub Repository**: Hosted at `secret-mars/loop-starter-kit`, last updated on **2026-04-15**, with 20 forks and no stars or specified primary language.
 
 ## Why It Matters
 

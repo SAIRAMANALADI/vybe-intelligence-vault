@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment templates (AZD) to implement best practices for scalable, production-grade RAG solutions.
-- **Accelerator Features**: Provides pre-configured templates and common requirements (e.g., retrieval
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generation, enabling ChatGPT-style and Q&A interactions.
+- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** and **Python** for deployment, adhering to Azure best practices for scalability and security.
+- **Preconfigured Features**: Includes common RAG requirements (e.g., document ingestion, vector search, prompt engineering)
 
 ## Use Cases
 

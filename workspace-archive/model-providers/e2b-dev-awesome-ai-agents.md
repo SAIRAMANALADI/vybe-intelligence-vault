@@ -8,18 +8,17 @@ local_vault_path: ai/agents/e2b-dev-awesome-ai-agents.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - github-repo
 - models
 - openai
-- scripts
 - unknown
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # e2b-dev/awesome-ai-agents
@@ -28,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Curated list of AI autonomous agents**: Repository aggregates open-source autonomous AI agents (e.g., AutoGPT, BabyAGI, GPT-Engineer) with focus on Python-based implementations and OpenAI/GPT-4 compatibility.
-- **High community engagement**: 28.5K+ stars and 3K+ forks indicate widespread adoption and active maintenance as of last update (June 2026).
-- **Multi-topic indexing**: Tags include `agent`, `autonomous-agents`, `copilot`, and `artificial-intelligence`, emphasizing diverse use cases (
+- **Curated List**: Repository aggregating autonomous AI agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in AI-driven agent systems.
+- **Multi-Topic Scope**: Covers Python-based implementations, OpenAI integrations (GPT-4), and copilot-style agents under topics like `agent`, `ai`, and `autonomous-agents`.
+- **High Activity**: Maintained with 28.5K+ stars and 3K+ forks, last updated June 2026, indicating active community engagement and rapid evolu
 
 ## Use Cases
 

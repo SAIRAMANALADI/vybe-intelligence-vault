@@ -8,7 +8,7 @@ local_vault_path: ai/rag/langchain-overview-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # LangChain overview - Docs by LangChain
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Modular Agent Harness**: LangChain's `create_agent` provides a minimal, configurable harness combining model, tools, prompts, and middleware, enabling custom agent composition for specific use cases while supporting multiple LLM providers (OpenAI, Anthropic, Google, etc.).
-
-- **Hierarchical Agent Frameworks**: Deep Agents offer a "batteries-included" solution with features like automatic context compression and subagent spawning, while LangChain (`create_agent`) focuses on customizable harne
+- `create_agent` in LangChain provides a minimal, modular harness for composing agents from model, tools, prompt, and middleware, supporting providers like OpenAI, Anthropic, and Google.
+- LangChain agents leverage LangGraph’s durable execution, persistence, and human-in-the-loop capabilities while enabling incremental customization via middleware.
+- LangSmith integrates for observability, enabling trace debugging, failure analysis, and performance evaluation of agent workflows.
 
 ## Use Cases
 

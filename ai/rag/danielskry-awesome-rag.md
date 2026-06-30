@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-06-30T03:53:16.334772+05:30'
-published_at: '2026-06-29T17:44:51Z'
+collected_at: '2026-06-30T10:07:20.515243+05:30'
+published_at: '2026-06-30T04:29:27Z'
 tags:
 - github-repo
+- hackernews
 - rag
 - unknown
-stars: 1280
+stars: 1281
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-06-11T13:11:48Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-06-30T03:53:16.334772+05:30'
-last_seen: '2026-06-30T03:53:16.334772+05:30'
-last_checked: '2026-06-30T03:53:16.334772+05:30'
+first_seen: '2026-06-30T10:07:20.515243+05:30'
+last_seen: '2026-06-30T10:07:20.515243+05:30'
+last_checked: '2026-06-30T10:07:20.515243+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Applications**: Comprehensive repository listing cutting-edge Retrieval-Augmented Generation (RAG) implementations across generative AI, LLMs, and related domains.
-- **High Engagement Metrics**: 1,280 stars and 156 forks indicate strong community adoption and collaborative interest in RAG advancements.
-- **Last Updated**: Repository maintained with recent updates as of **2026-06-29**, ensuring relevance in rapidly evolving RAG research.
+*   Curated repository of Retrieval-Augmented Generation (RAG) application implementations.
+*   Focuses on practical RAG system integration within Generative AI and Large Language Models.
+*   Serves as a technical index for RAG development resources and examples.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1280
+- Stars: 1281
 - Forks: 156
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-29T17:44:51Z
+- Last Updated: 2026-06-30T04:29:27Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

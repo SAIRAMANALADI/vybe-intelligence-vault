@@ -18,7 +18,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates advanced RAG workflows using locally deployed language models (e.g., Llama, Mistral) via Ollama or vLLM, emphasizing offline inference and reduced API dependency.
-
-- **Dynamic Database Updates**: Implements automated vector database (e.g., Chroma, FAISS) refresh mechanisms for real-time document ingestion and embeddings, ensuring up-to-date retrieval context.
-
-- **Testing & Evaluation Framework**: Includes unit tests (e.g., pytest) and retrieval quality
+- Implements **LangChain-based RAG pipeline** with **local LLMs** (e.g., Llama, Mistral) for offline inference, reducing dependency on cloud APIs.
+- Features **dynamic database updates** via **vector embeddings** (e.g., Chroma, FAISS) with automated chunking and re-indexing for real-time knowledge integration.
+- Includes **testing framework** with **evaluation metrics** (e.g., retrieval precision/recall, answer correctness) and **benchmarking scripts** for reproducibility.
 
 ## Use Cases
 

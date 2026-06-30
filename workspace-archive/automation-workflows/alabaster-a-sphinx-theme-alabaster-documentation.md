@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Dependencies & Compatibility**: Requires Python ≥3.10 and Sphinx ≥6.2; default theme in Sphinx ≥1.3.
-- **Customization & Features**: Provides extensive theme tweaks (code-block alignment, footer placement) and configurable hooks for sidebar/footer/header elements.
-- **Heritage & Implementation**: Derived from Kenneth Reitz’s "krTheme" (Requests project), includes a minimal Sphinx extension for dynamic metadata injection.
+- **Dependencies & Compatibility**: Requires Python 3.10+ and Sphinx 6.2+, originally derived from Kenneth Reitz’s `krTheme` (Requests project) with Flask theme ancestry.
+- **Customization & Features**: Provides extensive theme tweaks (code-block alignment, GitHub button placement) and configurable hooks for sidebar/footer components, header/link colors, and dynamic metadata injection via a minimal Sphinx extension.
+- **Integration & Licensing**: Bundled as an install-time dependency of Sphinx (
 
 ## Use Cases
 

@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, focusing on automation and efficiency in development workflows.
-- **Key Features**: Includes specialized tools and configurations for agents like `claude-code` and `cursor`, optimized for tasks such as code generation, debugging, and project scaffolding.
-- **Technical Stack**: Primarily implemented in Shell, with integrations for AI-driven development environments (e.g., Antigravity IDE) and last updated
+- **Repository Purpose**: Provides production-grade engineering skills for AI coding agents, optimized for tools like `claude-code`, `cursor`, and `antigravity-ide`.
+
+- **Technical Stack**: Primarily implemented in Shell, with focus on agent-specific workflows and automation.
+
+- **Metrics**: 68,010 stars, 7,381 forks, last updated June 30, 2026.
 
 ## Use Cases
 

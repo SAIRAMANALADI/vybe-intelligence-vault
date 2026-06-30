@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-30T03:52:51.156112+05:30'
+collected_at: '2026-06-30T10:06:50.538620+05:30'
 published_at: '2026-06-29T10:07:39Z'
 tags:
 - benchmark
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-23T23:12:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-30T03:52:51.156112+05:30'
-last_seen: '2026-06-30T03:52:51.156112+05:30'
-last_checked: '2026-06-30T03:52:51.156112+05:30'
+first_seen: '2026-06-30T10:06:50.538620+05:30'
+last_seen: '2026-06-30T10:06:50.538620+05:30'
+last_checked: '2026-06-30T10:06:50.538620+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, optimizing components like retrieval strategies, embeddings, and generation parameters without manual tuning.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using AutoML techniques, supporting end-to-end hyperparameter tuning, component selection, and performance benchmarking.
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarking and analysis tools for RAG systems, enabling quantitative assessment of retrieval quality, answer correctness, and end-to-end performance across diverse datasets.
+- **Modular Pipeline & Multi-Component Support**: Framework provides a configurable pipeline for document parsing, embedding generation, retrieval, and LLM integration, with built-in support for multiple embedding models, retrieval strategies, and evaluation metrics.
 
-- **Modular Python Toolkit**: Open-source Python library with pre-built modules for document parsing, embedding generation, retrieval, and LLM integration, supporting customization and deployment in production environments.
+- **Open-Source & Benchmarking-Centric**: Python-based toolkit includes standardized evaluation protocols for QA tasks, supports custom dataset integration, and enables reproducible RAG performance comparisons across diverse configurations.
 
 ## Why It Matters
 

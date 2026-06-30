@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-29T21:47:30.903627+05:30'
-collected_at: '2026-06-29T21:47:30.903641+05:30'
+published_at: '2026-06-30T10:12:03.676148+05:30'
+collected_at: '2026-06-30T10:12:03.676162+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-29T21:47:30.903641+05:30'
-last_seen: '2026-06-29T21:47:30.903641+05:30'
-last_checked: '2026-06-29T21:47:30.903641+05:30'
+first_seen: '2026-06-30T10:12:03.676162+05:30'
+last_seen: '2026-06-30T10:12:03.676162+05:30'
+last_checked: '2026-06-30T10:12:03.676162+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Python 3.14.6** is the latest stable release, with documentation hosted at `https://docs.python.org/3.14/`, including sections for tutorials, library/reference manuals, and language specifications.
-
-- **Legacy versions** (e.g., 3.12, 3.11) receive security fixes, while **EOL versions** (≤3.9) are no longer maintained; all docs are accessible via `https://docs.python.org/[version]/`.
-
-- **Additional resources** include PEPs (`peps.python.org`), packaging guides (`packaging.python.org`), and the Python C API (`docs.python.org/c-api`) for extending Python with C/C++.
+- **Python 3.14.6** is the latest stable release, with documentation sections covering new features, tutorials, library references, language syntax, and setup/usage guides.
+- **Legacy support** is provided for Python versions 2.7 through 3.13, with EOL (End of Life) status for versions prior to 3.12, while 3.14+ receive security fixes.
+- **Comprehensive resources** include PEPs, packaging guides, static typing docs, and C API references, all hosted under the Python Software Foundation’s Sphinx-based documentation framework.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T21:47:30.903627+05:30
+- Published: 2026-06-30T10:12:03.676148+05:30
 
 ## Related Tags
 

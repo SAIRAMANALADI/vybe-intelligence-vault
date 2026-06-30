@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-30T03:52:31.127832+05:30'
+collected_at: '2026-06-30T10:06:30.437154+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-30T03:52:31.127832+05:30'
-last_seen: '2026-06-30T03:52:31.127832+05:30'
-last_checked: '2026-06-30T03:52:31.127832+05:30'
+first_seen: '2026-06-30T10:06:30.437154+05:30'
+last_seen: '2026-06-30T10:06:30.437154+05:30'
+last_checked: '2026-06-30T10:06:30.437154+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Provides a step-by-step implementation of Retrieval-Augmented Generation (RAG) from scratch using JavaScript, emphasizing transparency with local LLMs (via `node-llama-cpp`) and avoiding proprietary black boxes.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external black-box APIs.
 
-- **Core Components**: Demonstrates embeddings generation, vector search (likely using cosine similarity or similar), retrieval mechanisms, and context-augmented generation, all implemented in Node.js for hands-on learning.
+- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval of relevant context, and context-augmented generation with a local LLM.
 
-- **Agent Integration**: Includes AI-agent functionality, enabling the RAG system to interact dynamically with retrieved data for enhanced chatbot or pipeline applications, with last updates as of June 2026.
+- **Educational Focus**: Provides a hands-on tutorial to deconstruct RAG mechanics, emphasizing transparency, customization, and practical implementation for AI agents or chatbots.
 
 ## Why It Matters
 

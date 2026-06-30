@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-06-30T03:53:56.227695+05:30'
-published_at: '2026-06-29T22:09:27Z'
+collected_at: '2026-06-30T10:08:00.599467+05:30'
+published_at: '2026-06-29T23:20:21Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
-stars: 198
+stars: 199
 language: Python
 status: active
 archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-03-23T06:52:23Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-06-30T03:53:56.227695+05:30'
-last_seen: '2026-06-30T03:53:56.227695+05:30'
-last_checked: '2026-06-30T03:53:56.227695+05:30'
+first_seen: '2026-06-30T10:08:00.599467+05:30'
+last_seen: '2026-06-30T10:08:00.599467+05:30'
+last_checked: '2026-06-30T10:08:00.599467+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (entity → subgraph → global) and semantic aggregation for improved context relevance (AAAI 2026 submission).
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) to enhance context relevance in generation tasks.
 
-- **Efficiency Optimizations**: Uses lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy in large-scale KGs.
+- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic indexing to reduce retrieval latency while maintaining high precision in knowledge-grounded responses.
 
-- **Python Implementation**: Provides modular components for graph construction, retrieval, and generation, with dependencies on PyTorch and DGL for scalable knowledge-augmented LLM inference.
+- **Python Implementation**: Provides an open-source Python library with modular components for graph construction, retrieval, and generation, optimized for AAAI 2026 benchmarking.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: KnowledgeXLab
-- Stars: 198
+- Stars: 199
 - Forks: 26
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-29T22:09:27Z
+- Last Updated: 2026-06-29T23:20:21Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-03-23T06:52:23Z

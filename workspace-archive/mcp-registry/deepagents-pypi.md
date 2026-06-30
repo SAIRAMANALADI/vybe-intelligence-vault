@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Overview**: Deep Agents v0.6.12 is an opinionated, production-ready agent harness built on LangGraph, supporting sub-agent delegation, filesystem operations (local/sandboxed/remote), persistent memory, and human-in-the-loop tool approval.
+- **Framework Architecture**: Deep Agents v0.6.12 is an opinionated, production-ready agent harness built on LangGraph, offering streaming, persistence, checkpointing, and sub-agent delegation with isolated context windows.
 
-- **Technical Specifications**: Requires Python ≥3.11, <4.0; supports tool-calling LLMs (frontier/open-weight/local); includes extras for AWS and QuickJS; licensed under MIT.
+- **Technical Dependencies & Compatibility**: Requires Python ≥3.11 and <4.0, supports tool-calling LLMs (frontier/open-weight/local), and provides extras for `aws` and `quickjs` environments.
 
-- **Integration & Extensibility**: Model-agnostic, compatible with Lan
+- **Security & Extensibility**: Implements a "trust-the-LLM" model with tool-leve
 
 ## Use Cases
 

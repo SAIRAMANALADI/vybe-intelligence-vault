@@ -4,22 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/psf/requests
-collected_at: '2026-06-26T10:20:25.034853+05:30'
-published_at: '2026-06-25T17:13:02Z'
+collected_at: '2026-06-30T10:18:44.245600+05:30'
+published_at: '2026-06-30T04:29:19Z'
 tags:
 - github-repo
 - python
-stars: 54070
+- scripts
+stars: 54190
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2011-02-13T18:38:17Z'
-pushed_at: '2026-06-24T22:47:17Z'
+pushed_at: '2026-06-29T17:37:21Z'
 resource_id: github:psf/requests
-first_seen: '2026-06-26T10:20:25.034853+05:30'
-last_seen: '2026-06-26T10:20:25.034853+05:30'
-last_checked: '2026-06-26T10:20:25.034853+05:30'
+first_seen: '2026-06-30T10:18:44.245600+05:30'
+last_seen: '2026-06-30T10:18:44.245600+05:30'
+last_checked: '2026-06-30T10:18:44.245600+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **HTTP Library**: Python-based `requests` library simplifies HTTP interactions with a clean, user-friendly API for handling requests/responses, cookies, and sessions.
-- **Key Features**: Supports session management, connection pooling, authentication, and automatic content decoding (e.g., JSON, XML) with minimal boilerplate.
-- **Ecosystem**: Widely adopted (54K+ stars) for its reliability, extensibility, and integration with tools like `urllib3` for low-level HTTP operations.
+- **HTTP Library**: Python-based library (`requests`) simplifies HTTP interactions with a user-friendly API for handling requests/responses, cookies, and sessions.
+- **Key Features**: Supports all HTTP methods (GET, POST, etc.), connection pooling, SSL verification, and automatic content decoding (JSON, XML, etc.).
+- **Ecosystem**: Widely adopted (54K+ stars), integrates with Python’s standard library, and underpins many web automation/testing frameworks.
 
 ## Why It Matters
 
@@ -38,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: psf
-- Stars: 54070
-- Forks: 9987
+- Stars: 54190
+- Forks: 9994
 - Language: Python
 - Topics: client, cookies, forhumans, http, humans, python, python-requests, requests
-- Last Updated: 2026-06-25T17:13:02Z
+- Last Updated: 2026-06-30T04:29:19Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2011-02-13T18:38:17Z
-- Pushed At: 2026-06-24T22:47:17Z
+- Pushed At: 2026-06-29T17:37:21Z
 
 ## Possible Use Cases
 

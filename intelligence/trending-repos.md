@@ -6,9 +6,11 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [crewAIInc/crewAI Release: 1.15.1](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
+| [LangChain · GitHub](https://github.com/langchain-ai) | `ai-coding-agents/` | 70 |
 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | `ai-coding-agents/` | 70 |
 | [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants) | `ai-coding-agents/` | 70 |
 | [study8677/antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) | `ai-coding-agents/` | 70 |
+| [firecrawl repositories · GitHub](https://github.com/orgs/firecrawl/repositories?q=sort%3Astars) | `ai-coding-agents/` | 70 |
 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) | `ai-coding-agents/` | 70 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | `ai-coding-agents/` | 70 |
 | [Zijian-Ni/awesome-ai-agents-2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
-| [aden-hive/hive](https://github.com/aden-hive/hive) | `ai-coding-agents/` | 70 |
-| [jmahoro2022/GitHub-Start-up-project](https://github.com/jmahoro2022/GitHub-Start-up-project) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

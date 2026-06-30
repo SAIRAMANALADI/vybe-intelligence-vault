@@ -8,11 +8,10 @@ local_vault_path: ai/resources/github-changelog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
-- benchmark
 - web-crawled
 - workflows
 selection_reason:
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Integration**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing AI-assisted coding workflows.
-- **Performance**: Optimized for **faster inference** while maintaining high-quality output, reducing latency in real-time code suggestions.
-- **Availability**: Currently in **preview phase**, accessible via GitHub Copilot with potential for broader rollout post-evaluation.
+- **Integration Update**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing real-time code generation and assistance.
+- **Performance Optimization**: Fast mode prioritizes **lower-latency inference**, improving responsiveness for interactive development workflows.
+- **Preview Availability**: Feature is currently in **limited preview** under GitHub Copilot’s changelog updates for June 29, 2026.
 
 ## Use Cases
 

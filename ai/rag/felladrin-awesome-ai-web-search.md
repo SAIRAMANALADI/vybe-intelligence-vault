@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/felladrin/awesome-ai-web-search
-collected_at: '2026-06-30T03:53:21.152678+05:30'
+collected_at: '2026-06-30T10:07:25.530751+05:30'
 published_at: '2026-06-29T21:15:15Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-09T19:13:37Z'
 pushed_at: '2026-06-26T03:29:22Z'
 resource_id: github:felladrin/awesome-ai-web-search
-first_seen: '2026-06-30T03:53:21.152678+05:30'
-last_seen: '2026-06-30T03:53:21.152678+05:30'
-last_checked: '2026-06-30T03:53:21.152678+05:30'
+first_seen: '2026-06-30T10:07:25.530751+05:30'
+last_seen: '2026-06-30T10:07:25.530751+05:30'
+last_checked: '2026-06-30T10:07:25.530751+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated List of AI-Powered Web Search Tools**: Repository aggregates software enabling AI-assisted web searches, including metasearch engines, question-answering systems, and retrieval-augmented generation (RAG) frameworks for enhanced information retrieval.
+- **Curated Resource**: GitHub repository (`felladrin/awesome-ai-web-search`) listing AI-powered web search tools, frameworks, and projects, including Hugging Face Space integration (`hf.co/spaces/felladrin/awesome-ai-web-search`).
 
-- **Technical Scope**: Covers tools leveraging LLMs for inference, generative AI projects, and AI-driven search engines, with emphasis on retrieval-augmented generation (RAG) and metasearch methodologies.
+- **Technical Scope**: Focuses on **LLM inference**, **RAG (Retrieval-Augmented Generation)**, **metasearch engines**, **question-answering systems**, and **generative AI tools** for enhanced web information retrieval.
 
-- **Metadata**: Hosted on GitHub (HTML-based), last updated June 29, 2026, with 1,362 stars and 111 forks, focusing on AI search, generative AI, and information retrieval topics.
+- **Metadata**: 1,362 stars, 111 forks, primarily HTML-based, last updated **2026-06-29**, covering topics like **AI search engines**, **artificial intelligence projects**, and **information retrieval**.
 
 ## Why It Matters
 

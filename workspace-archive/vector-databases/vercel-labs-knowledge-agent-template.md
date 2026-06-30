@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Overview**: Open-source starter kit for building AI agents with file-system and knowledge base integration, enabling real-time updates and contextual responses.
-- **Tech Stack**: TypeScript-based, leveraging Nuxt and Vue for frontend, with sandboxed execution for secure knowledge retrieval.
-- **Key Features**: Supports dynamic knowledge base updates, agent-based interactions, and modular file-system integration for scalable AI deployments.
+- **Template Purpose**: Provides a TypeScript-based open-source framework for building AI agents that dynamically sync with a file-system knowledge base, enabling real-time updates and contextual retrieval.
+
+- **Core Components**: Integrates **Nuxt** and **Vue** for frontend, with a **sandboxed** environment for secure agent execution; supports structured knowledge ingestion and retrieval via file-system interactions.
+
+- **Deployment & Scalability**: Designed for Vercel deployments; leverages mo
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-06-30T03:53:36.210771+05:30'
+collected_at: '2026-06-30T10:07:40.536937+05:30'
 published_at: '2026-06-24T12:14:44Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- scripts
 stars: 71
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-06-30T03:53:36.210771+05:30'
-last_seen: '2026-06-30T03:53:36.210771+05:30'
-last_checked: '2026-06-30T03:53:36.210771+05:30'
+first_seen: '2026-06-30T10:07:40.536937+05:30'
+last_seen: '2026-06-30T10:07:40.536937+05:30'
+last_checked: '2026-06-30T10:07:40.536937+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Automated security scanner for RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 LLM risks, and red-team attack vectors.
-- **Features**: Implements penetration testing, automated vulnerability scanning, and security audits tailored for AI systems, including OpenAI/GPT integrations and knowledge retrieval pipelines.
-- **Technical Stack**: Python-based tool with support for CI/CD integration, security testing automation, and compatibility with LLM frameworks (e.g., RAG, LangChain).
+- **Purpose**: Automated security scanner for RAG/LLM-based AI applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection and OWASP Top 10 risks.
+- **Features**: Implements red-team techniques, automated testing, and security audits for AI systems; supports OpenAI and general LLM security assessments.
+- **Technical Details**: Python-based tool with active community (71 stars, 10 forks); last updated June 2026; focuses on AI security, penetration testing, and vulnerability scanning.
 
 ## Why It Matters
 

@@ -6,7 +6,7 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **LangSmith Engine**: Autonomous failure clustering, root cause analysis, and fix proposals to accelerate agent improvement via structured production trace analysis.
+- **Multi-language SDK Support**: LangSmith provides Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration, enabling cross-language agent development and observability.
 
-- **Multi-Layered Agent Infrastructure**: Supports fault-tolerant, scalable deployment with native A2A/MCP protocol integration, durable checkpointing, and async human-agent collaboration.
+- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, diagnoses root causes in traces/code, and proposes fixes, accelerating agent improvement without manual intervention.
 
-- **Cross-Framework Observability & Evaluation**: Framework-agnostic tracing (Python/TypeScript/Go/Java SDKs) with LLM-as-judge evals, human
+- **Production-Grade Agent Deployment**: LangSmith’s agent server offers memory,
 
 ## Use Cases
 

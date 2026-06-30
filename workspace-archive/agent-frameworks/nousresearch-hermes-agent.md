@@ -2,20 +2,22 @@
 title: NousResearch/hermes-agent
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/nousresearch/hermes-agent
+source_url: https://github.com/NousResearch/hermes-agent
 resource_id: github:nousresearch/hermes-agent
 local_vault_path: ai/agents/nousresearch-hermes-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- github-trending
+- anthropic
+- github-repo
+- openai
 - python
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # NousResearch/hermes-agent
@@ -24,13 +26,15 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-The agent that grows with you
+- **Multi-Provider LLM Integration**: Supports Anthropic (Claude), OpenAI (ChatGPT, Codex), and other LLM APIs for dynamic agent behavior across providers.
+- **Extensible Agent Framework**: Python-based architecture with modular components for custom tool integration, state management, and adaptive learning.
+- **Tool Ecosystem**: Includes `claude-code`, `clawdbot`, and `moltbot` for code execution, web browsing, and system interaction via structured API calls.
 
 ## Use Cases
 
@@ -40,7 +44,7 @@ The agent that grows with you
 
 ## Source
 
-Original source URL: https://github.com/nousresearch/hermes-agent
+Original source URL: https://github.com/NousResearch/hermes-agent
 
 ## Local Vault File
 

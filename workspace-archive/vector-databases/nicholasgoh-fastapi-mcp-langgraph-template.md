@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Template integrates FastAPI with MCP (Model Context Protocol) and LangGraph for agentic orchestration, enabling modular, scalable workflows with Python-based tooling.
+- **Architecture**: Template integrates FastAPI (web framework), LangGraph (agentic orchestration), and MCP (Model Context Protocol) for modular, scalable agent systems with SQLModel for ORM and Supabase for database/storage.
 
-- **Observability & Storage**: Pre-configured with Prometheus/Grafana for monitoring, Langfuse for LLM observability, and Supabase/SQLModel for PostgreSQL-based data persistence.
+- **Observability & Deployment**: Includes Prometheus (metrics), Grafana (visualization), Langfuse (LLM observability), and Nginx (reverse proxy) for production-grade monitoring and deployment.
 
-- **Deployment**: Includes Nginx for reverse proxy and Compose for containerized orchestration, optimized for rapid iteration and cl
+- **Tooling**: Pre-configured with LangGraph-Python for stateful workflows, Su
 
 ## Use Cases
 

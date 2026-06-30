@@ -14,6 +14,7 @@ tags:
 - agents
 - github-repo
 - go
+- hackernews
 - workflows
 selection_reason:
 - Strong keyword match
@@ -33,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Go-based Workshop**: Provides a step-by-step guide to building a coding agent (similar to Cursor, Cline, or OpenCode) using the Go programming language.
-
-- **Agent Architecture Focus**: Covers core components like LLM integration, tool orchestration, and real-time code execution for autonomous coding tasks.
-
-- **Modern AI Tooling**: Demonstrates integration with contemporary AI workflows, including context-aware code generation and multi-agent collaboration patterns.
+- **Workshop Overview**: Provides a step-by-step guide to constructing a **coding agent** (e.g., Roo Code, Cline, Cursor) using **Go**, covering architecture, tooling, and AI integration.
+- **Technical Stack**: Implements **Go** for core agent logic, with potential extensions for AI model interactions (e.g., LLM APIs) and IDE/plugin integrations (e.g., Cursor, Windsurf).
+- **Key Focus**: Emphasizes **modular design**, **autonomous coding workflows**, and **real-time collaboration** features, wit
 
 ## Use Cases
 

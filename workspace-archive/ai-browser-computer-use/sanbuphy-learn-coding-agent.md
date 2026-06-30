@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository focused on research and development of coding agents, with 12,087 stars and 19,687 forks, indicating significant community engagement.
-- **Technical Scope**: Primary focus on autonomous coding agents, though specific technical details (e.g., frameworks, methodologies) are not explicitly documented in the provided metadata.
-- **Activity & Maintenance**: Last updated on **2026-06-29**, suggesting active or recent development, though language and topics
+- **Repository Overview**: GitHub repository `sanbuphy/learn-coding-agent` focuses on research and development of coding agents, with 12,089 stars and 19,689 forks, indicating significant community interest and collaboration.
+- **Technical Scope**: The project's primary language is unspecified ("Unknown"), suggesting potential use of multiple languages or frameworks, and lacks predefined topics, implying broad or evolving research objectives.
+- **Update Status**: Last updated on **2026-06-29T15:
 
 ## Use Cases
 

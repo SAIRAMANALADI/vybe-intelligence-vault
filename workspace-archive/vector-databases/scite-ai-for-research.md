@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Database & Coverage**: Scite indexes 280M+ full-text scholarly articles (papers, preprints, books, patents, datasets) with direct publisher agreements (e.g., Wiley, SAGE) and open-access corpora, enabling full-text search beyond abstracts.
+- **Smart Citation Analysis**: Classifies citations as supporting, contrasting, or mentioning, providing contextual sentence-level evidence for each classification across 1.6B+ indexed citations.
 
-- **Smart Citation Analysis**: Uses AI to classify citations as *supporting*, *contrasting*, or *mentioning*, with contextual sentence-level evidence, enabling evidence-weighted research synthesis and verification.
+- **Comprehensive Data Coverage**: Aggregates 280M+ full-text scholarly articles, patents, clinical trials, grants, preprints, and datasets from 40+ publishers and open-access sources.
 
-- **Cross-Domain Integration**: Aggrega
+- **Verifiable AI-Powered Research**: Integrates with tools like Claude, ChatGPT, and Zotero, offering API access for
 
 ## Use Cases
 

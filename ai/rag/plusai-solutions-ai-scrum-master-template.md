@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/plusai-solutions/ai-scrum-master-template
-collected_at: '2026-06-29T10:34:50.851714+05:30'
+collected_at: '2026-06-30T10:09:45.639608+05:30'
 published_at: '2026-05-06T10:12:06Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-03-18T13:11:16Z'
 pushed_at: '2026-03-19T12:36:58Z'
 resource_id: github:plusai-solutions/ai-scrum-master-template
-first_seen: '2026-06-29T10:34:50.851714+05:30'
-last_seen: '2026-06-29T10:34:50.851714+05:30'
-last_checked: '2026-06-29T10:34:50.851714+05:30'
+first_seen: '2026-06-30T10:09:45.639608+05:30'
+last_seen: '2026-06-30T10:09:45.639608+05:30'
+last_checked: '2026-06-30T10:09:45.639608+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Development Orchestration**: Leverages GitHub Actions and Claude to deploy AI agents under a Scrum framework, enabling autonomous issue-driven project management and development.
+- **Autonomous Development Orchestration**: Template leverages GitHub Actions and Claude to automate AI agents under Scrum framework, enabling autonomous issue-driven development and management directly from GitHub Issues.
 
-- **Issue-Centric Workflow**: Transforms GitHub repositories into self-managing teams by autonomously processing and resolving issues through AI-driven sprints and backlog prioritization.
+- **Scrum Framework Integration**: Implements Scrum workflows (e.g., sprints, backlog grooming, standups) via AI agents, autonomously assigning tasks, tracking progress, and generating reports without human intervention.
 
-- **Open-Source Scrum Template**: Provides a pre-configured, extensible template for autonomous AI agent collaboration, with last update timestamped **2026-05-06T10:12:06Z**.
+- **Open-Source AI Agent System**: Provides a modular, extensible template for deploying AI-driven development teams, with predefined agent roles (e.g., Product Owner, Scrum Master, Developer) and CI/CD pipeline integration.
 
 ## Why It Matters
 

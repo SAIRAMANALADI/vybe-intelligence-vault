@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io/
-published_at: '2026-06-30T01:47:36.821437+05:30'
-collected_at: '2026-06-30T01:47:36.821450+05:30'
+published_at: '2026-06-30T10:06:21.330631+05:30'
+collected_at: '2026-06-30T10:06:21.330643+05:30'
 tags:
 - rag
 - web-crawled
 - workflows
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-06-30T01:47:36.821450+05:30'
-last_seen: '2026-06-30T01:47:36.821450+05:30'
-last_checked: '2026-06-30T01:47:36.821450+05:30'
+first_seen: '2026-06-30T10:06:21.330643+05:30'
+last_seen: '2026-06-30T10:06:21.330643+05:30'
+last_checked: '2026-06-30T10:06:21.330643+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., FAISS, Chroma) with generative models (e.g., LLMs) to enhance contextual relevance by fetching external knowledge before generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching relevant data during generation.
 
-- **Implementation Stack**: Streamlit-based UI with modular Python components (`process_pdf.py`, `question_handler.py`, `summarizer.py`, `translator.py`) for PDF processing, Q&A, summarization, and translation via LangChain/LLM chains.
+- **Streamlit Implementation**: Modular Python application with backend processing (e.g., `process_pdf.py`, `question_handler.py`) for document splitting, QA chains, summarization, and translation, integrated via a UI with model selection and PDF upload capabilities.
 
-- **Workflow**: Document ingestion → chunking → vector embeddings → retrieval → LLM generation; supports model comparison (e.g., differences between models) and real-time UI interactions.
+- **Deployment Workflow**: Step-by-step guide includes installation (e.g., `pip install -r requirements.txt`), document ingestion (PDF splitting/embedding), chain function orchestration (e.g., `get_question_answer_chain`), and real-time result display with comparative analysis of different RAG models.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T01:47:36.821437+05:30
+- Published: 2026-06-30T10:06:21.330631+05:30
 
 ## Related Tags
 

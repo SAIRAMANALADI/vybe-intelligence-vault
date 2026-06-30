@@ -2,7 +2,7 @@
 title: GoogleCloudPlatform/agent-starter-pack
 archive_category: ai-coding-agents
 source_category: ai/agents
-source_url: https://github.com/googlecloudplatform/agent-starter-pack
+source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
 resource_id: github:googlecloudplatform/agent-starter-pack
 local_vault_path: ai/agents/googlecloudplatform-agent-starter-pack.md
 quality_score: 70
@@ -13,6 +13,9 @@ importance: high
 tags:
 - agents
 - benchmark
+- github-repo
+- python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -29,7 +32,11 @@ selection_reason:
 
 ## Summary
 
-Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+- **Production-ready AI agent templates** for Google Cloud, pre-configured with CI/CD pipelines, evaluation frameworks, and observability tools to accelerate deployment.
+
+- **Gemini and GenAI agent integration** with built-in LLMops/MLops support, enabling scalable, enterprise-grade generative AI workflows.
+
+- **Python-based framework** optimized for Google Cloud Platform (GCP), last updated in 2026, with 6.5K+ stars and 1.5K+ forks.
 
 ## Use Cases
 
@@ -39,7 +46,7 @@ Ship AI Agents to Google Cloud in minutes, not months. Production-ready template
 
 ## Source
 
-Original source URL: https://github.com/googlecloudplatform/agent-starter-pack
+Original source URL: https://github.com/GoogleCloudPlatform/agent-starter-pack
 
 ## Local Vault File
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-29T10:37:28.784766+05:30'
-collected_at: '2026-06-29T10:37:28.784780+05:30'
+published_at: '2026-06-30T10:11:32.938662+05:30'
+collected_at: '2026-06-30T10:11:32.938676+05:30'
 tags:
 - agents
 - anthropic
@@ -15,13 +15,12 @@ tags:
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-29T10:37:28.784780+05:30'
-last_seen: '2026-06-29T10:37:28.784780+05:30'
-last_checked: '2026-06-29T10:37:28.784780+05:30'
+first_seen: '2026-06-30T10:11:32.938676+05:30'
+last_seen: '2026-06-30T10:11:32.938676+05:30'
+last_checked: '2026-06-30T10:11:32.938676+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model`), with persistent memory and customizable skills for contextual continuity.
+- **Multi-Provider LLM Integration**: Deep Agents Code (`dcode`) supports dynamic switching between LLM providers (e.g., OpenAI, Anthropic, Google) or models mid-session via `/model` command, with persistent memory for cross-conversation context and configurable skills for behavior customization.
 
-- **Sandboxed Execution & Security**: Enforces human-in-the-loop approval for destructive operations (e.g., file writes, shell commands) with optional auto-approve (`-y`), supports remote sandboxes (LangSmith, E2B, etc.), and restricts shell access via `--shell-allow-list` (e.g., `recommended` for safe defaults).
+- **Human-in-the-Loop & Sandboxing**: Implements approval controls for destructive operations (e.g., file writes, shell execution) and supports remote sandboxes (LangSmith, Daytona, Modal) for isolated code execution, with auto-approval toggles (`-y`/Shift+Tab) and allowlisted commands.
 
-- **Observability & Extensibility**: Integrates with LangSmith for tracing agent operations, supports MCP tools for external tool integration, and enables task delegation to subagents with async execution capabilities for parallelized workflows.
+- **Built-in Tools & Tracing**: Provides 15+ native tools (e.g., `read_file`, `execute`, `web_search`) with human-in-the-loop gates, async subagent delegation, and LangSmith integration for tracing agent operations, decisions, and tool calls via `LANGSMITH_TRACING` env variable.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T10:37:28.784766+05:30
+- Published: 2026-06-30T10:11:32.938662+05:30
 
 ## Related Tags
 
@@ -55,7 +54,6 @@ General public resource representing technology updates, guides, or tutorials.
 - rag
 - scripts
 - web-crawled
-- workflows
 - youtube
 
 ## Source

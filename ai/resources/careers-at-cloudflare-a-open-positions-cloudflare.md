@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://www.cloudflare.com/careers/jobs/?department=Technology+Research
-published_at: '2026-06-29T03:52:07.593917+05:30'
-collected_at: '2026-06-29T03:52:07.593932+05:30'
+published_at: '2026-06-30T10:14:09.688705+05:30'
+collected_at: '2026-06-30T10:14:09.688719+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:careers-at-cloudflare-a-open-positions-cloudflare
-first_seen: '2026-06-29T03:52:07.593932+05:30'
-last_seen: '2026-06-29T03:52:07.593932+05:30'
-last_checked: '2026-06-29T03:52:07.593932+05:30'
+first_seen: '2026-06-30T10:14:09.688719+05:30'
+last_seen: '2026-06-30T10:14:09.688719+05:30'
+last_checked: '2026-06-30T10:14:09.688719+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Work Model Evolution**: Cloudflare is transitioning from a globally distributed in-office model to a more distributed hybrid work model, emphasizing equitable and inclusive workplace practices.
-
-- **Mission-Driven Culture**: Focuses on hiring curious, mission-minded individuals committed to addressing the Internet's most complex challenges.
-
-- **Career Development & Open Roles**: Offers roles aimed at building a better Internet, supporting employee career growth through investment in professional development.
+- **Hybrid Work Model Evolution**: Cloudflare is transitioning from a globally distributed in-office model to a more distributed hybrid work structure while maintaining equity and inclusivity.
+- **Mission-Driven Recruitment**: Focuses on hiring curious, mission-oriented individuals committed to addressing the Internet's most complex challenges.
+- **Open Roles**: Actively hiring for positions aimed at improving Internet infrastructure and services.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-29T03:52:07.593917+05:30
+- Published: 2026-06-30T10:14:09.688705+05:30
 
 ## Related Tags
 

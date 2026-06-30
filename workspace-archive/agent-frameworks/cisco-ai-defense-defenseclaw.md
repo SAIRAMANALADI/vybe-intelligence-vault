@@ -31,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Python-based framework** for enforcing security governance in agentic AI systems, enabling policy-driven control and monitoring of AI agents.
-
-- **Repository** (`cisco-ai-defense/defenseclaw`) hosts tools for securing AI workflows, with 760 stars and 133 forks as of last update (2026-06-29).
-
-- **Focuses on governance** via structured policies to mitigate risks in autonomous AI agents, aligning with enterprise security requirements.
+- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring.
+- **Key Features**: Implements **runtime policy enforcement**, **AI agent behavior auditing**, and **automated incident response** for securing autonomous AI workflows.
+- **Repository Status**: Actively maintained (last updated June 2026) with **760 stars** and **134 forks**, indicating growing adoption in AI
 
 ## Use Cases
 

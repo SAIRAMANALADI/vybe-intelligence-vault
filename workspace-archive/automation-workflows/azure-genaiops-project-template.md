@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Provides a Bicep-based Azure Resource Manager (ARM) template for deploying a **Generative AI Ops (GenAIOps) project** with **Retrieval-Augmented Generation (RAG)** capabilities.
-- **Key Components**: Includes infrastructure-as-code (IaC) definitions for Azure services required for GenAIOps workflows (e.g., compute, storage, networking, and AI services).
-- **Deployment**: Enables automated provisioning of Azure resources via Bicep, supporting scalability and repeatability for GenAI
+- **Purpose**: Provides a Bicep-based infrastructure-as-code template for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure.
+- **Key Components**: Includes modular Bicep files for provisioning Azure resources (e.g., ACR, AKS, AI Search, Cosmos DB) to support RAG workflows.
+- **Deployment Target**: Designed for Azure environments, enabling scalable GenAIOps solutions with CI/CD integration.
 
 ## Use Cases
 

@@ -6,15 +6,16 @@ source_url: https://github.com/scotthavird/crewai-template
 resource_id: github:scotthavird/crewai-template
 local_vault_path: ai/agents/scotthavird-crewai-template.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
 - producthunt
 - python
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -24,16 +25,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Coding Agents`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Dockerized Scaffolding**: Provides a minimal, production-ready Docker Compose setup for CrewAI projects, preconfigured with essential dependencies and best practices for rapid deployment.
-- **Python-Based**: Entirely implemented in Python, ensuring compatibility with CrewAI’s core framework and agent orchestration requirements.
-- **Minimalist Structure**: Offers a lightweight, no-fluff template with core configurations (e.g., environment variables, service definitions) to streamline initial
+- **Dockerized Scaffolding**: Provides a minimal, pre-configured Docker Compose setup for rapid CrewAI project initialization with standardized dependencies and environment isolation.
+- **Python-Based Structure**: Implements a Python-based template optimized for CrewAI workflows, ensuring compatibility with the framework’s API and agent orchestration.
+- **Predefined Best Practices**: Incorporates established project conventions (e.g., modular agent definitions, task configurations) to streamline
 
 ## Use Cases
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-30T03:53:26.251098+05:30'
+collected_at: '2026-06-30T10:07:30.539328+05:30'
 published_at: '2026-06-25T22:35:46Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - jupyter notebook
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-30T03:53:26.251098+05:30'
-last_seen: '2026-06-30T03:53:26.251098+05:30'
-last_checked: '2026-06-30T03:53:26.251098+05:30'
+first_seen: '2026-06-30T10:07:30.539328+05:30'
+last_seen: '2026-06-30T10:07:30.539328+05:30'
+last_checked: '2026-06-30T10:07:30.539328+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed for systematic assessment of performance across diverse tasks and configurations.
-- **Implementation**: Primarily structured as Jupyter Notebooks, facilitating reproducible experimentation and modular evaluation of RAG components (retriever, generator, and integration strategies).
-- **Scope**: Targets granular analysis of RAG pipelines, including robustness to noise, factuality, and adaptability to domain-specific or adversarial queries.
+- **Benchmark Design**: CRAG provides a **comprehensive benchmark** for evaluating **Retrieval-Augmented Generation (RAG)** systems, focusing on factuality, robustness, and efficiency across diverse datasets and tasks.
+
+- **Evaluation Metrics**: Implements **standardized metrics** (e.g., accuracy, latency, hallucination rate) to assess RAG performance under **noisy retrieval conditions**, adversarial queries, and domain shifts.
+
+- **Open-Source Toolkit**: Delivered as a **Jupyter Notebook-based repository**, enabling reproducible experimentation with preconfigured pipelines, datasets, and baseline models for rapid prototyping and analysis.
 
 ## Why It Matters
 

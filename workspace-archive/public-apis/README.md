@@ -8,22 +8,21 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 ## Top Matched Resources
 
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [The official repository for Dart and Flutter packages.](https://pub.dev) (benchmark - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [FastAPI - FastAPI](https://fastapi.tiangolo.com/) (template - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) (framework - USEFUL Tier)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) (template - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
+- [Canvas LMS | Instructure Developer Documentation Portal](https://api.instructure.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
 - [gradio-app/gradio](https://github.com/gradio-app/gradio)
-- [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -41,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-06-30 04:08 IST*
+*Last updated: 2026-06-30 10:22 IST*

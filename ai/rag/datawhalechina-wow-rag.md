@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-30T03:52:36.252334+05:30'
+collected_at: '2026-06-30T10:06:35.506781+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-30T03:52:36.252334+05:30'
-last_seen: '2026-06-30T03:52:36.252334+05:30'
-last_checked: '2026-06-30T03:52:36.252334+05:30'
+first_seen: '2026-06-30T10:06:35.506781+05:30'
+last_seen: '2026-06-30T10:06:35.506781+05:30'
+last_checked: '2026-06-30T10:06:35.506781+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Implements a cross-platform RAG (Retrieval-Augmented Generation) framework with modular components for document ingestion, vector storage, and query processing, demonstrated via Jupyter Notebooks.
+- **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing simplicity and modularity for rapid prototyping.
 
-- **Technical Stack**: Utilizes Python-based libraries (e.g., `langchain`, `faiss`, `sentence-transformers`) for embedding generation, similarity search, and LLM integration, ensuring compatibility across OS environments.
+- **Core Components**: Includes retrieval mechanisms, vector storage integration, and LLM interaction pipelines, with tutorials demonstrating end-to-end workflows for document Q&A and knowledge augmentation.
 
-- **Tutorial Integration**: Provides step-by-step guides on deploying RAG pipelines, including preprocessing, retrieval strategies, and evaluation metrics, with examples for rapid prototyping and benchmarking.
+- **Technical Stack**: Leverages Python-based libraries (e.g., `langchain`, `faiss`, `sentence-transformers`) for embedding generation, similarity search, and hybrid retrieval strategies.
 
 ## Why It Matters
 

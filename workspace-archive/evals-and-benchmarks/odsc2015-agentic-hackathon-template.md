@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-structured folder layout for Agentic AI App Hackathon submissions, ensuring consistency across teams.
+- **Standardized Starter Repository**: Provides a pre-structured template for Agentic AI App Hackathon submissions, including folder organization, environment specifications, and documentation templates to ensure consistency and reproducibility.
 
-- **Reproducible Environment**: Includes a spec file for environment reproducibility, enabling consistent execution and judging of submissions.
+- **Reproducible Environment Spec**: Includes a defined environment setup (e.g., `requirements.txt`, `Dockerfile`, or `conda.yml`) to ensure all teams use identical dependencies and configurations for fair judging.
 
-- **Documentation Placeholders**: Contains template placeholders for documentation, streamlining the submission and evaluation process.
+- **Documentation Placeholders**: Off
 
 ## Use Cases
 

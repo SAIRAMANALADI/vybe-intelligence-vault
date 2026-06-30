@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay synchronized with the actual API, ensuring consistency across all documentation layers.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, eliminating manual updates and ensuring accuracy.
 
-- **AI-Optimized & Developer-Friendly Features**: Supports AI-powered hybrid search, Markdown copying, and integration with AI tools, while offering performance optimization (minimal client-side JS), SEO/search optimization, and light/dark modes for enhanced usability.
+- **AI-Optimized Hybrid Search**: Integrates AI-powered hybrid search for both developer usability and AI agent compatibility, enhancing discoverability and integration with AI tools.
 
-- **Extensible & Customizable Architecture**: Bui
+- **Extensible Astro-Based Framework**: Built on Astro for high-performance, content-driven websites with TypeScript-first customization, suppor
 
 ## Use Cases
 

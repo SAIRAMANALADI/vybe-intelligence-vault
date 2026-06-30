@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by HumanCCF. Score: 145, Comments: 96.
+Hacker News story by HumanCCF. Score: 389, Comments: 224.
 Original Link: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
 
 ## Use Cases

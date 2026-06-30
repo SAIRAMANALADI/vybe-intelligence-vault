@@ -17,6 +17,7 @@ tags:
 - hackernews
 - paper
 - rag
+- scripts
 - unknown
 - workflows
 selection_reason:
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated 2026 AI Agent Research**: Repository aggregates peer-reviewed papers on AI agents, focusing on agent engineering, memory architectures, evaluation frameworks, workflow optimization, and autonomous system design.
-- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG) integration, and memory-augmented architectures for enhanced reasoning and task execution.
-- **Metadata**: 1,484 stars, 160 forks; last updated June 29, 2026; topics include `ai-agents`
+- **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agents, including agent engineering, memory systems, evaluation frameworks, workflow automation, and autonomous architectures.
+- **Technical Scope**: Encompasses LLM-driven agents, Retrieval-Augmented Generation (RAG), memory optimization, and workflow orchestration for autonomous decision-making systems.
+- **Metadata**: 1,486 stars, 160 forks; last updated June 30, 2026; topics include `ai-agents`, `llm-agents
 
 ## Use Cases
 

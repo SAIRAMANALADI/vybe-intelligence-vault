@@ -2,7 +2,7 @@
 title: JupyterLite — JupyterLite 0.8.0 documentation
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://jupyterlite.readthedocs.io
+source_url: https://jupyterlite.readthedocs.io/en/latest/
 resource_id: blog:jupyterlite-jupyterlite-0-8-0-documentation
 local_vault_path: ai/rag/jupyterlite-jupyterlite-0-8-0-documentation.md
 quality_score: 70
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Browser-native JupyterLab distribution** leveraging Pyodide (CPython compiled to WebAssembly) and Xeus-Python kernels for in-browser Python execution without a backend server.
-- **Static-first deployment model** with zero server dependencies, served via cached static HTTP(S) assets, enabling instant browser-based interactive computing and embeddable REPL environments.
-- **Modular architecture** supporting JupyterLab/Notebook UIs, multi-kernel session management, and federated extension reuse
+- **Browser-Only Execution**: JupyterLite runs entirely in the browser using WebAssembly-based kernels (Pyodide, Xeus Python) with no server dependency, enabling instant deployment via static HTTP(S).
+
+- **JupyterLab/Notebook Compatibility**: Supports JupyterLab and Jupyter Notebook interfaces with federated extensions, session/kernel management, and interactive libraries (matplotlib, plotly, ipywidgets) while persisting state via IndexedDB/localStorage.
+
+- **Lightweight Deployment**: Zero-confi
 
 ## Use Cases
 
@@ -45,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyterlite.readthedocs.io
+Original source URL: https://jupyterlite.readthedocs.io/en/latest/
 
 ## Local Vault File
 

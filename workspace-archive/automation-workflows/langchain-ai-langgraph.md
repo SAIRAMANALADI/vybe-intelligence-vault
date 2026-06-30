@@ -6,10 +6,10 @@ source_url: https://github.com/langchain-ai/langgraph
 resource_id: github:langchain-ai/langgraph
 local_vault_path: ai/rag/langchain-ai-langgraph.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework for resilient AI agents**: LangGraph is a Python-based framework designed to build, deploy, and manage resilient multi-agent systems, integrating with LLM providers like OpenAI, Gemini, and LangChain.
+- **Multi-agent orchestration framework** enabling resilient, distributed AI agent systems with Python-based workflows and state management via Pydantic models.
 
-- **Stateful, graph-based orchestration**: Uses a graph-based workflow (Pydantic-validated) to model agent interactions, enabling complex multi-agent collaboration, tool usage, and dynamic state management.
+- **Integrated tooling** for enterprise-grade agent development, supporting LLM APIs (OpenAI, Gemini), RAG pipelines, and multi-agent collaboration patterns.
 
-- **Enterprise-grade features**: Supports RAG, tool integration, and enterpr
+- **Production-ready resilience** via checkpointing, fault tolerance, and scalable execution, with last update (2026-06-30) reflecting active maintenance and feature expansion.
 
 ## Use Cases
 

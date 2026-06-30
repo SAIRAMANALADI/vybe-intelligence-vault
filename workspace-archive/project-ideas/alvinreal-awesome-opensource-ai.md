@@ -8,7 +8,7 @@ local_vault_path: ai/rag/alvinreal-awesome-opensource-ai.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: api
 importance: medium
 tags:
 - agents
@@ -27,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Project Ideas`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: api
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Curated Collection**: Aggregates actively maintained, truly open-source AI projects, models, tools, and infrastructure, with daily updates to ensure relevance.
-- **Technical Scope**: Encompasses agents, generative AI, LLMs, MLOps, and RAG systems, primarily implemented in Python.
-- **Community Engagement**: Maintains 3,973 stars and 468 forks, reflecting active community contribution and validation.
+- **Curated Collection**: Repository (`alvinreal/awesome-opensource-ai`) maintains a continuously updated, highly selective list of open-source AI projects, models, tools, and infrastructure, spanning agents, LLMs, RAG, MLOps, and generative AI.
+- **Technical Scope**: Primarily Python-based, the list emphasizes *truly open-source* solutions (no proprietary restrictions), with daily updates ensuring relevance in rapidly evolving AI/ML ecosystems.
+- **Community Metrics**: High engagement (3,975 st
 
 ## Use Cases
 

@@ -12,10 +12,10 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to convert PDFs, scans, tables, and charts into structured formats (markdown, text, or JSON).
-- **Layout-Aware Processing**: Extracts and preserves document structure, enabling accurate reconstruction of complex layouts, including multi-column text and embedded visuals.
-- **Output Flexibility**: Supports multiple structured outputs (markdown, text, JSON) for seamless integration into downstream LLM or d
+- **Layout-Aware OCR**: Parse employs advanced OCR technology with layout recognition to process PDFs, scans, tables, and charts, preserving document structure and formatting.
+
+- **Multi-Format Output**: Converts parsed content into clean markdown, plain text, or structured JSON, enabling seamless integration with LLM pipelines.
+
+- **Agentic Processing**: Designed as an autonomous agent for document parsing, optimizing accuracy and efficiency in extracting and structuring data from complex docum
 
 ## Use Cases
 
