@@ -6,16 +6,16 @@ source_url: https://github.com/NirDiamant/agents-towards-production
 resource_id: github:nirdiamant/agents-towards-production
 local_vault_path: ai/rag/nirdiamant-agents-towards-production.md
 quality_score: 70
-archive_score: 79
-archive_tier: useful
+archive_score: 89
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -26,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Agent Frameworks`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Code-First Tutorials**: Provides end-to-end, production-grade tutorials for building GenAI agents, covering prototype development to enterprise deployment using a hands-on, code-first approach in Jupyter Notebooks.
+- **End-to-end GenAI agent development**: Provides code-first tutorials covering the full lifecycle from prototype to enterprise deployment, including MLOps, observability, and production-grade scaling.
 
-- **Comprehensive Tooling**: Integrates modern frameworks and tools including LangGraph, MCP, and RAG, with support for multi-agent systems, observability, and MLOps for scalable AI agent deployment.
+- **Multi-agent & LangGraph integration**: Demonstrates building and orchestrating multi-agent systems using LangGraph for complex workflows, with support for MCP and RAG architectures.
 
-- **Technical Depth**: Focuses on advanced topics like LLM integration, agent f
+- **Python & Jupyter Notebook-based**: Implements production-ready agentic AI systems in Python, leveraging J
 
 ## Use Cases
 

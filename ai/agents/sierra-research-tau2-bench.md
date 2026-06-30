@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sierra-research/tau2-bench
-collected_at: '2026-06-30T10:09:10.681180+05:30'
-published_at: '2026-06-30T04:11:09Z'
+collected_at: '2026-06-30T15:35:40.863301+05:30'
+published_at: '2026-06-30T06:32:01Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - hackernews
 - python
-stars: 1482
+stars: 1484
 language: Python
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-09T23:46:17Z'
 pushed_at: '2026-06-29T21:42:51Z'
 resource_id: github:sierra-research/tau2-bench
-first_seen: '2026-06-30T10:09:10.681180+05:30'
-last_seen: '2026-06-30T10:09:10.681180+05:30'
-last_checked: '2026-06-30T10:09:10.681180+05:30'
+first_seen: '2026-06-30T15:35:40.863301+05:30'
+last_seen: '2026-06-30T15:35:40.863301+05:30'
+last_checked: '2026-06-30T15:35:40.863301+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with tool-use capabilities.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based systems with standardized metrics for performance assessment.
 
-- **Technical Scope**: Implements a Python-based framework to assess agent performance in dynamic, multi-turn interactions requiring tool integration, user feedback, and adaptive decision-making.
+- **Technical Scope**: Implemented in Python, the benchmark includes diverse scenarios requiring multi-turn interactions, tool integration, and dynamic user-agent collaboration under realistic constraints.
 
-- **Evaluation Metrics**: Measures agent proficiency in task completion, tool selection, error recovery, and user collaboration efficiency across diverse, domain-specific scenarios.
+- **Evaluation Metrics**: Measures agent efficiency, task completion rates, and adaptability to user inputs, providing comparative insights for optimizing tool-agent systems in practical applications.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sierra-research
-- Stars: 1482
-- Forks: 375
+- Stars: 1484
+- Forks: 376
 - Language: Python
 - Topics: ai, benchmark, conversational-agents, language-model-agent, llm
-- Last Updated: 2026-06-30T04:11:09Z
+- Last Updated: 2026-06-30T06:32:01Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-09T23:46:17Z

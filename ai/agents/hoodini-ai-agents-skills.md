@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hoodini/ai-agents-skills
-collected_at: '2026-06-30T10:08:10.524773+05:30'
+collected_at: '2026-06-30T15:34:40.731759+05:30'
 published_at: '2026-06-29T02:03:00Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-07T15:25:35Z'
 pushed_at: '2026-06-18T13:29:17Z'
 resource_id: github:hoodini/ai-agents-skills
-first_seen: '2026-06-30T10:08:10.524773+05:30'
-last_seen: '2026-06-30T10:08:10.524773+05:30'
-last_checked: '2026-06-30T10:08:10.524773+05:30'
+first_seen: '2026-06-30T15:34:40.731759+05:30'
+last_seen: '2026-06-30T15:34:40.731759+05:30'
+last_checked: '2026-06-30T15:34:40.731759+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf), authored by Yuval Avidani using GitHub Copilot via VS Code Insiders.
-- **Metadata**: 240 stars, 58 forks, Python-based, last updated 2026-06-29.
-- **Purpose**: Repository provides modular, agent-specific skills to enhance AI-driven coding workflows across supported platforms.
+- **Purpose**: Curated repository of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf) to enhance agentic workflows in Python.
+- **Metadata**: 240 stars, 58 forks, last updated June 29, 2026; created via GitHub Copilot in VS Code Insiders.
+- **Structure**: Repository contains modular Python-based skills, though no explicit topics are defined in metadata.
 
 ## Why It Matters
 

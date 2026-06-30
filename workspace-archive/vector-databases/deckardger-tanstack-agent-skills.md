@@ -16,7 +16,6 @@ tags:
 - rag
 - reddit
 - unknown
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) strategies and automatic background refetching.
+- **Optimized TanStack Query Integration**: Demonstrates advanced patterns for efficient data fetching, caching, and synchronization in AI-driven applications using TanStack Query (v5+), including stale-while-revalidate (SWR) and optimistic updates.
 
-- **Router-Level State Management**: Implements dynamic route-based data loading and state persistence in TanStack Router, leveraging nested route matching and loader functions to minimize client-side state duplication.
+- **TanStack Router Best Practices**: Implements dynamic routing, lazy loading, and type-safe navigation for AI agents, leveraging TanStack Router’s file-based routing and route loaders for scalable frontend architectures.
 
-- **
+- **TanStack Start for AI
 
 ## Use Cases
 

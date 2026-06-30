@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.google.com/youtube
-published_at: '2026-06-30T10:12:08.912210+05:30'
-collected_at: '2026-06-30T10:12:08.912222+05:30'
+published_at: '2026-06-30T15:36:08.961866+05:30'
+collected_at: '2026-06-30T15:36:08.961879+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:youtube-google-for-developers
-first_seen: '2026-06-30T10:12:08.912222+05:30'
-last_seen: '2026-06-30T10:12:08.912222+05:30'
-last_checked: '2026-06-30T10:12:08.912222+05:30'
+first_seen: '2026-06-30T15:36:08.961879+05:30'
+last_seen: '2026-06-30T15:36:08.961879+05:30'
+last_checked: '2026-06-30T15:36:08.961879+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **YouTube IFrame API**: Enables embedded video playback with customizable parameters for web apps via `IFrame`, iOS (`youtube-ios-helper`), and parameterized controls.
+- **YouTube IFrame API**: Embed and customize YouTube video playback in apps via IFrame, iOS helper, or player parameters for tailored user experiences.
 
-- **YouTube Data API v3**: Facilitates search, uploads, playlist management, and user interactions via RESTful endpoints with comprehensive reference docs and code samples.
+- **YouTube Data API v3**: Enables programmatic search, uploads, playlist management, and user interactions with YouTube content and metadata.
 
-- **YouTube Analytics & Live Streaming APIs**: Provides channel/video performance metrics (via reporting API) and live broadcast scheduling/management (via Live Streaming API).
+- **YouTube Analytics & Live Streaming APIs**: Provides reporting for user engagement metrics and supports scheduling/managing live broadcasts via dedicated endpoints.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T10:12:08.912210+05:30
+- Published: 2026-06-30T15:36:08.961866+05:30
 
 ## Related Tags
 

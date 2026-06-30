@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub provides **version control via Git**, **SSH-based secure authentication**, and **repository management** for collaborative development workflows.
-- **CI/CD pipelines** are supported through **GitHub Actions**, **Packages**, and **Pages**, enabling automated testing, deployment, and static site hosting.
-- **Security features** include **CodeQL vulnerability scanning**, **secret management**, and **supply chain security** via dependency analysis and policy enforcement.
+- GitHub supports **secure authentication** via SSH, tokens, and passwords, with detailed docs on [SSH setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and [authentication methods](https://docs.github.com/en/authentication).
+
+- **Collaborative workflows** are enabled through [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), [GitHub Actions](https://docs.g
 
 ## Use Cases
 

@@ -8,15 +8,14 @@ local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Neo4j Graph Intelligence Platform
@@ -25,18 +24,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to embed causal reasoning and decision pathways in AI models, enabling transparent "why" explanations for high-stakes applications (e.g., healthcare, finance).
+- **Explainable AI (XAI) Integration**: Leveraging graph databases (e.g., Neo4j) to enable AI models to provide transparent, traceable decision pathways by mapping causal relationships and dependencies in data, addressing the "black box" problem in deep learning.
 
-- **Trillion-Dollar Market Potential**: Addresses regulatory compliance (e.g., EU AI Act) and enterprise demand for auditable AI, with projected growth in explainability-driven solutions across industries.
-
-- **Technical Framework**: Utilizes graph-based ca
+- **Trillion-Dollar Economic Impact**: Highlighting the potential market value of AI systems capable of explaining their reasoning, with applications in healthcare, finance, and regulatory compliance driving demand for interpretable AI
 
 ## Use Cases
 

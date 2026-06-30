@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC/General Counsel oversees administration, with discretion to assign to Resolution Centers.
-
-- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter after meeting criteria (e.g., executed agreement, court order); service/e-filing via JAMS Electronic Filing System is valid if transmission completes by 11:59
+- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC/General Counsel administers per agreement or discretion.
+- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter; service/e-filing governed by Rule 5(e-f), with deadlines extended for mail service and technical filing errors addressed via "nunc pro tunc" provisions.
+- **Consolidation & Administrative Aut
 
 ## Use Cases
 

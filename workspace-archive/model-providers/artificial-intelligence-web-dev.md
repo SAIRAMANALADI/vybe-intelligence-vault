@@ -39,9 +39,8 @@ selection_reason:
 
 ## Summary
 
-- **AI Integration in Web Development**: Leverages client-side AI (e.g., WebLLM, Prompt API) for low-latency, offline-capable, privacy-preserving applications, with tools like Chrome’s built-in AI APIs and TensorFlow.js for on-device inference.
-
-- **Model Optimization & Ethics**: Emphasizes "right-sized" AI (model selection, caching via Background Fetch API) and responsible deployment, including toxicity detection, prompt engineering, and ethical considerations for sustainable, scalable web appl
+- **AI Integration in Web Development**: Web.dev provides resources on leveraging AI/ML for enhanced web experiences, including client-side AI benefits (low latency, privacy, offline access) and model optimization techniques (e.g., caching, right-sized models).
+- **Technical Implementation Guides**: Detailed documentation covers practical aspects like prompt engineering, LLM size comparisons, performance optimization (e.g., WebGPU/WebAssembly), and toxicity detection systems using client-side AI
 
 ## Use Cases
 

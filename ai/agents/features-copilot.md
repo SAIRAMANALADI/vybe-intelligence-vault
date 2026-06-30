@@ -3,9 +3,9 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-30T10:12:23.972576+05:30'
-collected_at: '2026-06-30T10:12:23.972589+05:30'
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+published_at: '2026-06-30T15:41:13.613507+05:30'
+collected_at: '2026-06-30T15:41:13.613521+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-30T10:12:23.972589+05:30'
-last_seen: '2026-06-30T10:12:23.972589+05:30'
-last_checked: '2026-06-30T10:12:23.972589+05:30'
+first_seen: '2026-06-30T15:41:13.613521+05:30'
+last_seen: '2026-06-30T15:41:13.613521+05:30'
+last_checked: '2026-06-30T15:41:13.613521+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing and decision convergence with user-controlled approvals.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to merged PRs.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`), the CLI interacts with issues, PRs, branches, and labels natively, inheriting org policies (branch protections, governance) and enabling seamless transitions from `/plan` to merged code.
+- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels, inheriting organization policies (branch protections, governance) while maintaining explicit user approval for file/command execution.
 
-- **Session Persistence & Autopilot**: Maintains chat history and context across sessions via memory compaction (`/resume`), supports `/autopilot` for autonomous task execution, and integrates with VS Code while enforcing explicit approvals for file/command modifications.
+- **Extensible & Cross-Platform**: Supports custom MCP servers, skills, and plugins for tailored workflows, operates across macOS/Linux/Windows, and integrates with VS Code’s terminal/chat panel, with session persistence and experimental feature access via `/experimental show`.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T10:12:23.972576+05:30
+- Published: 2026-06-30T15:41:13.613507+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli
+Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026

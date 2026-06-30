@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-06-30T10:12:04.070082+05:30'
-collected_at: '2026-06-30T10:12:04.070091+05:30'
+published_at: '2026-06-30T15:37:10.550143+05:30'
+collected_at: '2026-06-30T15:37:10.550158+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-06-30T10:12:04.070091+05:30'
-last_seen: '2026-06-30T10:12:04.070091+05:30'
-last_checked: '2026-06-30T10:12:04.070091+05:30'
+first_seen: '2026-06-30T15:37:10.550158+05:30'
+last_seen: '2026-06-30T15:37:10.550158+05:30'
+last_checked: '2026-06-30T15:37:10.550158+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code execution, rich text, visualizations, and interactive controls in a shareable document format.
+- **Jupyter Ecosystem**: A modular framework consisting of interactive computing tools (e.g., Jupyter Notebook, JupyterLab) centered around computational notebooks, supporting code execution, rich visualizations, and narrative text in a single document format.
 
-- **Sub-projects and kernels**: Includes specialized tools like `nbconvert` (conversion), `nbclient` (execution), `jupyter-server` (backend), and kernels (e.g., IPython, IRkernel, IJulia) enabling multi-language support (Python, R, Julia, etc.).
+- **Sub-Projects & Kernels**: Includes specialized components like `nbformat` (notebook format), `jupyter-client` (messaging protocol), and kernels (e.g., IPython, IRkernel, IJulia) enabling multi-language support (Python, R, Julia, etc.).
 
-- **Deployment and extensibility**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and allows customization through extensions (e.g., widgets, AI integrations like `jupyter-ai`) or standalone tools like Voilà for rendered notebooks.
+- **Deployment & Extensibility**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and allows customization through extensions (e.g., `ipywidgets`, `jupyter-ai`) or standalone tools like `nbconvert` for notebook conversion.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T10:12:04.070082+05:30
+- Published: 2026-06-30T15:37:10.550143+05:30
 
 ## Related Tags
 

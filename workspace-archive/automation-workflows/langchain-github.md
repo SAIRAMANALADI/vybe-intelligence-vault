@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable graph-based agent construction with stateful workflows.
-- **Agent Frameworks**: Deep Agents/Deep Agents.js support hierarchical agent planning, subagent delegation, and filesystem interactions for complex task execution.
-- **Commercial & OSS Tools**: LangSmith offers production-grade LLM application monitoring, while MCP Adapters and Agent
+- **Core Libraries**: LangChain/LangChain.js provide modular components and integrations for LLM application development, while LangGraph/LangGraph.js enable agent construction via graph-based workflows; Deep Agents/Deep Agents.js support hierarchical agent planning and file system interactions.
+
+- **Commercial & OSS Extensions**: LangSmith offers a production-grade platform for building and monitoring LLM applications, while extensions like Deep Agents Code, Open SWE, MCP Adapters, and Agent Pr
 
 ## Use Cases
 

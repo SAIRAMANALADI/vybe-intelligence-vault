@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Discount & Hardware Offer**: Up to **15% off NFL Sunday Ticket** for commercial U.S. venues (bars/restaurants) signing up by **June 30, 2026**, including **6 free commercial-grade streaming devices** and **3 months free EverPass Core** (scheduling/device management platform).
+- **Discounted NFL Sunday Ticket**: Up to **15% off** commercial subscriptions for out-of-market Sunday NFL games, valid for new/existing EverPass customers signing up by **June 30, 2026**; max discount capped at **$1,500 per location**.
 
-- **Content Scope**: Provides **live out-of-market Sunday NFL games** (excluding in-market/local broadcasts, NFL Network, national games, or digital-only matches) via EverPass, integrated with existing TV providers for
+- **Hardware & Software Bundle**: Includes **up to 6 preconfigured commercial-grade streaming devices**, **3 months free EverPass Core** (for scheduling/device management), and **flexible multi-payment plans** for total package costs.
+
+- **Eligibility & Exclusi
 
 ## Use Cases
 

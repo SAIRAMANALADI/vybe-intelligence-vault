@@ -3,9 +3,9 @@ title: Google Terms of Service – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/terms
-published_at: '2026-06-29T03:51:12.555948+05:30'
-collected_at: '2026-06-29T03:51:12.555963+05:30'
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US
+published_at: '2026-06-30T15:39:03.910329+05:30'
+collected_at: '2026-06-30T15:39:03.910348+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-06-29T03:51:12.555963+05:30'
-last_seen: '2026-06-29T03:51:12.555963+05:30'
-last_checked: '2026-06-29T03:51:12.555963+05:30'
+first_seen: '2026-06-30T15:39:03.910348+05:30'
+last_seen: '2026-06-30T15:39:03.910348+05:30'
+last_checked: '2026-06-30T15:39:03.910348+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Provider & Legal Framework**: Google LLC (Delaware, USA) operates under U.S. laws, providing services under a contractual agreement where users must comply with Terms of Service and Privacy Policy; age requirements apply, with parental consent mandatory for minors.
+- **Service Provider & Legal Framework**: Google LLC (Delaware-registered, US jurisdiction) provides services under updated Terms of Service (effective May 22, 2024) with a major revision planned for July 30, 2026, defining user-Google relationship, age requirements (parental consent for minors), and compliance with US laws.
 
-- **Content & Intellectual Property**: Users retain IP rights to their uploaded content, but grant Google a license for service operation; reverse engineering, automated scraping, or AI model training using Google’s content is explicitly prohibited unless permitted by law.
+- **Service Usage & AI Integration**: Google services (Search, Maps, Pixel, etc.) leverage AI/ML for features like real-time translation and spam detection, with automatic updates to software/features; users must comply with terms, service-specific policies (e.g., Generative AI Prohibited Use Policy), and avoid abuse (e.g., malware, phishing, reverse engineering).
 
-- **Conduct & Prohibited Actions**: Users must adhere to laws, respect privacy/IP rights, and avoid abuse (e.g., malware, phishing, fake accounts, prompt injection, or AI-generated content misrepresentation); violations may result in account termination or legal action.
+- **Content & Intellectual Property**: Users retain rights to their content but grant Google a license to host/process it; Google retains IP rights to services, prohibits unauthorized scraping/training on content (e.g., via robots.txt), and provides mechanisms (e.g., Google Takeout) for data export/deletion under applicable laws.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:51:12.555948+05:30
+- Published: 2026-06-30T15:39:03.910329+05:30
 
 ## Related Tags
 
@@ -56,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/terms
+Original source: https://accounts.google.com/TOS?loc=US&hl=en-US

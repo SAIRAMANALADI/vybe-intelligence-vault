@@ -32,9 +32,7 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `techwithtim/ProductionGradeRAGPythonApp` – A Python-based application focused on production-grade Retrieval-Augmented Generation (RAG) systems.
-- **Metadata**: 70 stars, 45 forks, last updated on 2026-06-29; no topics or description provided.
-- **Tech Stack**: Implements RAG pipelines in Python, optimized for production deployment (exact architecture/components unspecified).
+*   Implements a Retrieval-Augmented Generation (RAG) system.
 
 ## Use Cases
 

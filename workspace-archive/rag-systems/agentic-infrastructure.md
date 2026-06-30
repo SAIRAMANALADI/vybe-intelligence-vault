@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -34,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic Deployment & Automation**: Vercel provides infrastructure for coding agents to autonomously deploy apps and agents using APIs, CLI, MCP, and Skills, with sandboxed VMs, durable backends, and error resolution via automated PRs.
+- **Agentic Deployment Infrastructure**: Enables autonomous deployment of applications and agents via Vercel's API, CLI, MCP, and Skills, supporting sandboxed VMs with durable backends and multi-model execution.
 
-- **Scalable Serverless Platform**: Supports zero-to-millions scaling with global delivery, serverless functions, and WAF, exemplified by Zapier serving 100M+ monthly visits.
+- **Scalable Serverless Architecture**: Supports instant scaling from zero to millions of users with global delivery, serverless functions, and a Web Application Firewall (WAF), as demonstrated by Zapier’s 100M+ monthly visits.
 
-- **Multi-Tenant Hosting Features**: Offers tenant isolation, domain management, cus
+- **Multi-Tenant Platform Features**: Provides tenant isol
 
 ## Use Cases
 

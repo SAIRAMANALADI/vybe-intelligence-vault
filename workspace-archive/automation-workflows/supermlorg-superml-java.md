@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Java-based machine learning library** under the `supermlorg` GitHub organization, currently with **1 fork and 5 stars**.
-- **Repository includes** GitHub Actions, Issues, Pull Requests, and a **dedicated Discussions tab** for community engagement.
-- **Primary focus** appears to be **machine learning tools/models** for Java, with a hosted documentation site at `superml-java.superml.org`.
+- **Java-based machine learning framework** developed under the `supermlorg` GitHub organization, with 5 stars and 1 fork at the time of documentation.
+
+- **Repository structure** includes core code, issues (1), pull requests (1), discussions, CI/CD via GitHub Actions, and a dedicated `Models` section for ML artifacts.
+
+- **Discussions categorized** into `Announcements`, `General`, `Ideas`, `Polls`, `Q&A`, and `Show and Tell`, with a pinned welcome announcement dated July 12, 2025.
 
 ## Use Cases
 

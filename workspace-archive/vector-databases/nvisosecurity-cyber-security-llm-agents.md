@@ -13,8 +13,10 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- scripts
 - workflows
 selection_reason:
 - Useful for project building
@@ -32,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate common cybersecurity tasks, including adversary emulation and red teaming.
-
-- **Integration with CALDERA**: Agents are designed to interact with the CALDERA adversary emulation platform, enabling automated attack simulation and security testing workflows.
-
-- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to extend and
+- **Purpose**: Repository of LLM-based agents designed to automate routine cybersecurity tasks (e.g., adversary emulation) using Jupyter Notebooks.
+- **Integration**: Leverages frameworks like **CALDERA** for adversary simulation and emulation workflows.
+- **Technical Stack**: Focuses on AI-driven cybersecurity automation with Python-based LLM agents for infosec operations.
 
 ## Use Cases
 

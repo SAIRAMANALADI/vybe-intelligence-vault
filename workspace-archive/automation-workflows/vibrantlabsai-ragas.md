@@ -1,49 +1,42 @@
 ---
-title: ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
+title: vibrantlabsai/ragas
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
+source_url: https://github.com/vibrantlabsai/ragas
 resource_id: github:vibrantlabsai/ragas
 local_vault_path: ai/rag/vibrantlabsai-ragas.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
-- anthropic
 - benchmark
-- dataset
-- meta-ai
-- mistral
-- models
-- openai
+- github-repo
+- python
 - rag
-- web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
-# ragas/docs/getstarted/evals.md at main · vibrantlabsai/ragas · GitHub
+# vibrantlabsai/ragas
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Project Setup**: The `ragas quickstart` command generates a structured project (`rag_eval/`) with `evals.py` (evaluation workflow), `rag.py` (RAG/LLM application), and directories for datasets, experiments, and logs.
-
-- **LLM Integration**: Supports multiple providers (OpenAI, Anthropic, Google, Ollama) via `llm_factory` in `evals.py`, allowing flexible model swapping with minimal code changes.
-
-- **Evaluation Workflow**: Uses `SingleTurnSample` to define test cases, queries the RAG system,
+- **Ragas**: Python library for evaluating LLM applications, focusing on **LLMOps** and **RAG pipelines** with 14,581+ GitHub stars.
+- **Key Features**: Provides **automated, multi-metric evaluation** (e.g., faithfulness, context relevance) for LLM outputs and RAG systems.
+- **Integration**: Designed for seamless integration into **LLM workflows**, supporting customizable metrics and benchmarking.
 
 ## Use Cases
 
@@ -53,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/vibrantlabsai/ragas/blob/master/docs/getstarted/evals.md
+Original source URL: https://github.com/vibrantlabsai/ragas
 
 ## Local Vault File
 

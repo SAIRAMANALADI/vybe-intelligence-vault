@@ -8,25 +8,25 @@ Starter kits and application templates drastically accelerate the deployment of 
 
 ## Top Matched Resources
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
+- [Haystack | Haystack](https://haystack.deepset.ai/) (template - USEFUL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 - [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
-- [Next.js 7](https://nextjs.org/blog/next-7) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [langchain-ai/langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py)
 - [Azure-Samples/azure-openai-rag-workshop-template](https://github.com/Azure-Samples/azure-openai-rag-workshop-template)
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-30 10:21 IST*
+*Last updated: 2026-06-30 15:48 IST*

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Template Structure**: Provides a TypeScript-based starter template for deploying AI agents on Phala Network using OpenAI's API, including pre-configured contract interactions and agent logic.
+- **Template Structure**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling on-chain AI computations.
 
-- **OpenAI Integration**: Implements OpenAI's function-calling API for structured agent responses, enabling seamless LLM-powered agent execution within Phala's confidential computing environment.
+- **OpenAI Integration**: Facilitates secure, off-chain AI inference via OpenAI's API while leveraging Phala's confidential computing for privacy-preserving execution.
 
-- **Phala Network Compatibility**: Designed for Phala's TEE (Trusted Execution Environment) to ensure secu
+- **Phala Network Compatibility**: Designed for deployment on Phala's decentralized cloud, ensuring trustless execution with TEE (Trusted Execution Environment) gua
 
 ## Use Cases
 

@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced context.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and multi-hop reasoning in RAG pipelines
+- **Graph Retrieval-Augmented Architecture**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and contextual relevance in reasoning.
+
+- **ICLR 2026 Contributio
 
 ## Use Cases
 

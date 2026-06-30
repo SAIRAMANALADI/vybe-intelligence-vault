@@ -3,9 +3,9 @@ title: android Git repositories - Git at Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: http://android.googlesource.com
-published_at: '2026-06-30T04:00:17.247745+05:30'
-collected_at: '2026-06-30T04:00:17.247755+05:30'
+source_url: https://android.googlesource.com
+published_at: '2026-06-30T15:40:31.927533+05:30'
+collected_at: '2026-06-30T15:40:31.927550+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-30T04:00:17.247755+05:30'
-last_seen: '2026-06-30T04:00:17.247755+05:30'
-last_checked: '2026-06-30T04:00:17.247755+05:30'
+first_seen: '2026-06-30T15:40:31.927550+05:30'
+last_seen: '2026-06-30T15:40:31.927550+05:30'
+last_checked: '2026-06-30T15:40:31.927550+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Git Repository Hosting**: Android's official Git repositories are hosted on `android.googlesource.com`, providing public access to AOSP (Android Open Source Project) and related device-specific codebases, including kernels, device trees, and accessories.
+- **Centralized Android Git Repository**: Hosted on `android.googlesource.com`, providing version-controlled access to Android OS, kernel, device-specific code, and accessory support (e.g., Arduino, demo kits) via Gerrit for code review.
 
-- **Device-Specific Branches**: The repository includes kernel and device-specific branches for various Google devices (e.g., `device/google/bluejay`, `device/google/coral`) with versioned subdirectories (e.g., `5.10`, `6.1`) and SELinux policy configurations (`sepolicy`).
+- **Device-Specific Branches & Kernels**: Contains per-device repositories (e.g., `device/google/bluejay`, `device/google/lynx-kernel`) with versioned kernel branches (e.g., `5.10`, `6.1`) and SELinux policies (`-sepolicy` suffix) for hardware-specific optimizations.
 
-- **Manifest & Accessory Support**: The `manifest` directory defines repository groupings, while `accessories/` contains Android accessory support (e.g., Arduino, ADK2012), and `cts_drno_filter` targets CTS projects requiring Dr.No modifications.
+- **Emulation & Testing Infrastructure**: Includes generic device emulators (e.g., `device/generic/x86_64`, `device/generic/goldfish`) and Cuttlefish (Android Virtual Device) for hardware-agnostic testing, alongside manifest projects (e.g., `accessories/manifest`) for dependency management.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T04:00:17.247745+05:30
+- Published: 2026-06-30T15:40:31.927533+05:30
 
 ## Related Tags
 
@@ -66,4 +66,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: http://android.googlesource.com
+Original source: https://android.googlesource.com

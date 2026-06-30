@@ -18,9 +18,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+### [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`vstorm-co-full-stack-ai-agent-template.md`](../../ai/rag/vstorm-co-full-stack-ai-agent-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
@@ -58,14 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Haystack | Haystack](https://haystack.deepset.ai/)
+- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`haystack-haystack.md`](../../ai/rag/haystack-haystack.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`generative-ai-build-ai-powered-apps-with-speed-sec.md`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-30 10:22 IST*
+*Last updated: 2026-06-30 15:49 IST*

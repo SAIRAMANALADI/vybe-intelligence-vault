@@ -33,7 +33,11 @@ selection_reason:
 
 ## Summary
 
-*   **API Exposure:** Direct link to `developers.google.com/youtube` indicates
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and advertising infrastructure.
+
+- **Developer & API Access**: Provides a [YouTube Data API](https://developers.google.com/youtube) for programmatic interaction with video metadata, uploads, and analytics, enabling integration with third-party applications.
+
+- **Policy & Compliance**: Enforces [Terms of Service]
 
 ## Use Cases
 

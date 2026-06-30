@@ -8,7 +8,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (prompt - USEFUL Tier)
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
@@ -19,7 +19,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Best GitHub Repositories
 
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [crewAIInc/crewAI Release: 1.15.1](https://github.com/crewaiinc/crewai)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 - [crewAIInc/awesome-crewai](https://github.com/crewAIInc/awesome-crewai)
@@ -40,4 +40,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-30 10:22 IST*
+*Last updated: 2026-06-30 15:49 IST*

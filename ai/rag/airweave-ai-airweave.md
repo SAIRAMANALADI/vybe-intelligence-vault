@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airweave-ai/airweave
-collected_at: '2026-06-30T10:08:35.580647+05:30'
+collected_at: '2026-06-30T15:35:10.840329+05:30'
 published_at: '2026-06-29T20:14:22Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 6461
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-12-24T10:00:06Z'
 pushed_at: '2026-06-05T09:52:19Z'
 resource_id: github:airweave-ai/airweave
-first_seen: '2026-06-30T10:08:35.580647+05:30'
-last_seen: '2026-06-30T10:08:35.580647+05:30'
-last_checked: '2026-06-30T10:08:35.580647+05:30'
+first_seen: '2026-06-30T15:35:10.840329+05:30'
+last_seen: '2026-06-30T15:35:10.840329+05:30'
+last_checked: '2026-06-30T15:35:10.840329+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a modular, API-driven infrastructure for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs, documents) for enhanced LLM performance.
+- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to dynamically fetch and integrate relevant context from enterprise data sources via semantic search and retrieval-augmented generation (RAG).
 
-- **Multi-protocol data connectors**: Supports semantic search, vector databases, and structured/unstructured data retrieval via pre-built integrations (e.g., PostgreSQL, Elasticsearch, S3) with real-time sync capabilities.
+- **Enterprise data integration**: Supports connectors for structured/unstructured data (e.g., databases, APIs, documents) with a search API enabling low-latency, semantic queries for context-aware AI responses.
 
-- **Developer-focused SDK**: Offers a Python-based SDK for custom pipeline construction, enabling fine-grained control over retrieval logic, caching, and agent-specific context augmentation for RAG workflows.
+- **Scalable agent infrastructure**: Designed for production-grade deployment with modular components for retrieval, caching, and integration, optimized for high-throughput LLM interactions.
 
 ## Why It Matters
 

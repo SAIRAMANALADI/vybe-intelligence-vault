@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: A customizable Sphinx documentation theme designed by Read the Docs to enhance the visual presentation of Sphinx-generated documentation.
-- **Technical Stack**: Built using **Sass** for styling, enabling modular and maintainable CSS architecture with preprocessor features.
-- **Integration**: Optimized for **Sphinx-doc** projects, providing responsive layouts and theme components tailored for technical documentation workflows.
+- **Sass-based Sphinx theme**: Implements responsive, mobile-friendly styling for documentation via SCSS compilation.
+- **Read the Docs integration**: Designed for seamless compatibility with Sphinx documentation builds in Read the Docs environments.
+- **Modular components**: Includes reusable UI elements (e.g., navigation, search, versioning) optimized for technical documentation workflows.
 
 ## Use Cases
 

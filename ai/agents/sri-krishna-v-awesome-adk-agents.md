@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Sri-Krishna-V/awesome-adk-agents
-collected_at: '2026-06-30T03:54:51.280469+05:30'
+collected_at: '2026-06-30T15:35:25.723272+05:30'
 published_at: '2026-06-29T13:51:19Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - python
 - scripts
-- workflows
 stars: 325
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-05-27T11:48:53Z'
 pushed_at: '2026-06-28T14:36:38Z'
 resource_id: github:sri-krishna-v/awesome-adk-agents
-first_seen: '2026-06-30T03:54:51.280469+05:30'
-last_seen: '2026-06-30T03:54:51.280469+05:30'
-last_checked: '2026-06-30T03:54:51.280469+05:30'
+first_seen: '2026-06-30T15:35:25.723272+05:30'
+last_seen: '2026-06-30T15:35:25.723272+05:30'
+last_checked: '2026-06-30T15:35:25.723272+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
+- **Repository Overview**: GitHub repository `Sri-Krishna-V/awesome-adk-agents` is a curated list of AI agents built using Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education domains.
 
-- **Multi-Faceted ADK Support**: Features ADK-Python and ADK-Web implementations, with examples for single and multi-agent systems, and integration with Google’s Gemini AI for agentic workflows.
+- **Technical Stack**: Primarily implemented in Python (`adk-python`), with support for `adk-web`; includes examples for multi-agent systems, agentic AI, and integration with Google's Gemini AI.
 
-- **Technical Stack & Metadata**: Primarily Python-based, with 325 stars and 46 forks, last updated June 29, 2026; categorized under topics like `agent-samples`, `multi-agent-systems`, and `gemini-ai`.
+- **Metadata**: 325 stars, 46 forks; last updated June 29, 2026; tagged with topics like `awesome-list`, `google-adk`, and `agent-samples`.
 
 ## Why It Matters
 

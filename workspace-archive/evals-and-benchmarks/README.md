@@ -9,13 +9,13 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 ## Top Matched Resources
 
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (framework - ESSENTIAL Tier)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark) (framework - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto) (benchmark - ESSENTIAL Tier)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
 - [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
-- [tomasonjo (Tomaz Bratanic) · GitHub](https://github.com/tomasonjo/) (benchmark - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
-- [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
 - [Mem0 · GitHub](https://github.com/mem0ai)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [GraphRAG-Bench/GraphRAG-Benchmark](https://github.com/GraphRAG-Bench/GraphRAG-Benchmark)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - [protobuf-go/proto at v1.36.11 · protocolbuffers/protobuf-go · GitHub](https://github.com/protocolbuffers/protobuf-go/tree/v1.36.11/proto)
-- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-30 10:21 IST*
+*Last updated: 2026-06-30 15:48 IST*

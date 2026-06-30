@@ -48,9 +48,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+### [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
+- **Score**: `87` | **Path**: [`nirdiamant-agents-towards-production.md`](../../ai/rag/nirdiamant-agents-towards-production.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
@@ -58,14 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
+### [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
+- **Score**: `87` | **Path**: [`datawhalechina-all-in-rag.md`](../../ai/rag/datawhalechina-all-in-rag.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [truefoundry/cognita](https://github.com/truefoundry/cognita?source=post_page)
+### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`truefoundry-cognita.md`](../../ai/rag/truefoundry-cognita.md)
+- **Score**: `87` | **Path**: [`langchain-ai-langgraph.md`](../../ai/rag/langchain-ai-langgraph.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-30 10:22 IST*
+*Last updated: 2026-06-30 15:49 IST*

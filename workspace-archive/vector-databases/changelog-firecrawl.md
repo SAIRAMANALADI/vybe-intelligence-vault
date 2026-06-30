@@ -37,9 +37,7 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl Research Index**: Specialized index for AI/ML research with 3M+ arXiv papers and GitHub artifacts (issues, PRs, READMEs), achieving 53.3% recall on arXivQA (18% higher than competitors) with daily updates and claim verification against full text.
-
-- **v2.11.0 Features**: Introduces keyless endpoint access for `/scrape`, `/search`, `/interact`, and `/parse`; automatic PII redaction; `deterministicJson` format for structured JSON without LLM overhead; and video discovery on any page
+*   Introduced Firecrawl Research Index, a specialized, daily-refreshed
 
 ## Use Cases
 

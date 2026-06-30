@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to its predecessor.
+- **Engine & Performance**: Jupyter Book 2 is built on the MyST Document Engine, offering faster builds, modern features, and improved workflows compared to its predecessor.
 
-- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via MyST Markdown or Jupyter Notebooks, with features like cross-referencing, in-build code execution (Python, R, Julia), and live widget integration for web publishing.
+- **Core Capabilities**: Supports reusable, reproducible, and interactive computational narratives via MyST Markdown/Notebooks, with cross-referencing, live code execution (Python, R, Julia), and web deployment (JupyterHub/Binder).
 
-- **Deployment & Extensibility**: Facilitates deployment to the
+- **Ecosystem & Workflows**: Provides plugin extensibility, upgrade paths from JB1, and comm
 
 ## Use Cases
 

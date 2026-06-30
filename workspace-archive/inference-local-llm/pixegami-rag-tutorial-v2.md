@@ -13,8 +13,6 @@ importance: medium
 tags:
 - benchmark
 - github-repo
-- meta-ai
-- mistral
 - models
 - python
 - rag
@@ -36,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain-based RAG pipeline** with **local LLMs** (e.g., Llama, Mistral) for offline inference, reducing dependency on cloud APIs.
-- Features **dynamic database updates** via **vector embeddings** (e.g., Chroma, FAISS) with automated chunking and re-indexing for real-time knowledge integration.
-- Includes **testing framework** with **evaluation metrics** (e.g., retrieval precision/recall, answer correctness) and **benchmarking scripts** for reproducibility.
+- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local large language models (LLMs) for Retrieval-Augmented Generation (RAG) pipelines using LangChain.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to ensure retrieval relevance with evolving data.
+- **Testing & Evaluation Framework**: Includes automated testing suites for RAG components (retriever, generator, and pipeline) with metrics l
 
 ## Use Cases
 

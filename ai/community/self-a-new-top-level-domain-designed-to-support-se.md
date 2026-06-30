@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain
 hn_url: https://news.ycombinator.com/item?id=48724230
-score: 389
+score: 518
 author: HumanCCF
-comments_count: 224
+comments_count: 296
 published_at: '2026-06-30T01:19:28+05:30'
-collected_at: '2026-06-30T10:04:35.330419+05:30'
+collected_at: '2026-06-30T15:31:49.705397+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:self-a-new-top-level-domain-designed-to-support-se
 first_seen: '2026-06-30T03:51:22.407840+05:30'
-last_seen: '2026-06-30T10:04:35.330419+05:30'
-last_checked: '2026-06-30T10:04:35.330419+05:30'
+last_seen: '2026-06-30T15:31:49.705397+05:30'
+last_checked: '2026-06-30T15:31:49.705397+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by HumanCCF. Score: 389, Comments: 224.
+Hacker News story by HumanCCF. Score: 518, Comments: 296.
 Original Link: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: HumanCCF
-- Score: 389 Upvotes
-- Comments: 224 Discussions
+- Score: 518 Upvotes
+- Comments: 296 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48724230
 - Original Article: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain
 

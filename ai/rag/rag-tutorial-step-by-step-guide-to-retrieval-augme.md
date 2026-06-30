@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-30T10:06:22.259195+05:30'
-collected_at: '2026-06-30T10:06:22.259207+05:30'
+published_at: '2026-06-30T15:32:55.131580+05:30'
+collected_at: '2026-06-30T15:32:55.131594+05:30'
 tags:
 - benchmark
 - models
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-06-30T10:06:22.259207+05:30'
-last_seen: '2026-06-30T10:06:22.259207+05:30'
-last_checked: '2026-06-30T10:06:22.259207+05:30'
+first_seen: '2026-06-30T15:32:55.131594+05:30'
+last_seen: '2026-06-30T15:32:55.131594+05:30'
+last_checked: '2026-06-30T15:32:55.131594+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: A 5-step pipeline (Load, Chunk, Embed, Retrieve, Generate) that augments LLM responses with real-time retrieval from external knowledge bases, ensuring accuracy, auditability, and updatability without fine-tuning.
+- **RAG Architecture**: Five-step pipeline—load documents, chunk text, embed chunks into vectors, retrieve semantically similar chunks via vector similarity search, and generate answers using an LLM with retrieved context to mitigate hallucinations and ensure traceability.
 
-- **Core Components**: Uses `langchain` for document processing, `ChromaDB` for vector storage, and OpenAI embeddings (`text-embedding-3-small`) with recursive chunking (512 tokens, 50-token overlap) to balance semantic context and retrieval efficiency.
+- **Implementation Stack**: Uses `langchain` for orchestration, `ChromaDB` as the vector store, and OpenAI’s `text-embedding-3-small` for embeddings; supports modular swapping of components (e.g., Pinecone, pgvector, or HuggingFace models).
 
-- **Production Enhancements**: Requires re-ranking (e.g., cross-encoder models like `cross-encoder/ms-marco-MiniLM-L-6-v2`) for precision and evaluation frameworks (e.g., RAGAS) to measure faithfulness, relevancy, and context precision.
+- **Production Enhancements**: Incorporates cross-encoder re-ranking (e.g., `cross-encoder/ms-marco-MiniLM-L-6-v2`) for precision and RAGAS for evaluating faithfulness, answer relevancy, and context precision to optimize retrieval and generation quality.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:06:22.259195+05:30
+- Published: 2026-06-30T15:32:55.131580+05:30
 
 ## Related Tags
 

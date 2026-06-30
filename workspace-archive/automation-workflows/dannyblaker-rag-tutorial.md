@@ -8,11 +8,12 @@ local_vault_path: ai/rag/dannyblaker-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
 - hackernews
+- models
 - python
 - rag
 - reddit
@@ -28,16 +29,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Progressive RAG Tutorial**: 6 structured lessons covering foundational to advanced RAG concepts, from embeddings and vector databases to LLM integration and production deployment.
-- **Code-Centric Learning**: Provides reusable Python utilities, working examples, and hands-on demos for practical implementation of RAG systems.
-- **Updated Tooling**: Last modified in June 2026, ensuring alignment with current RAG best practices and modern Python-based workflows.
+- **Progressive RAG Tutorial**: 6-step guide from fundamentals to production deployment, covering embeddings, vector databases, LLMs, and advanced RAG techniques with hands-on code examples and reusable utilities.
+- **Technical Implementation**: Demonstrates end-to-end RAG system construction, including vector DB integration, LLM fine-tuning, and retrieval-augmented workflows with Python-based demos.
+- **Updated Tooling**: Last modified June 2026, repository includes modular utilities, working e
 
 ## Use Cases
 

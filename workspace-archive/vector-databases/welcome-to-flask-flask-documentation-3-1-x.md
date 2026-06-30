@@ -8,14 +8,13 @@ local_vault_path: ai/rag/welcome-to-flask-flask-documentation-3-1-x.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: template
 importance: medium
 tags:
 - hackernews
 - rag
 - reddit
 - web-crawled
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -26,17 +25,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- Flask is a lightweight WSGI web application framework leveraging Werkzeug (WSGI toolkit), Jinja (templating engine), and Click (CLI toolkit) for scalable web development.
+- Flask is a lightweight WSGI web application framework leveraging **Werkzeug** (WSGI toolkit), **Jinja** (templating engine), and **Click** (CLI toolkit) for scalable web development with minimal boilerplate.
 
-- Core components include modular applications via Blueprints, request/response handling, templating with Jinja2, and CLI integration for development and deployment workflows.
+- Core components include **blueprints** for modular application structure, **application/request contexts** for lifecycle management, and **signals** for decoupled event handling.
 
-- Supports structured patterns (e.g., application factories, SQLite/SQLAlchemy integration) and extensibility through community-maintained plugins fo
+- Supports **templating**, **error handling**, **configuration management**, **CLI integration**, and **ext
 
 ## Use Cases
 

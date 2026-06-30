@@ -16,7 +16,6 @@ tags:
 - meta-ai
 - models
 - rag
-- reddit
 - scripts
 - web-crawled
 - workflows
@@ -38,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Agentic OCR & Structured Extraction**: LlamaParse leverages Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured schema extraction and automated document processing with minimal manual intervention.
+- **Agentic OCR & Structured Extraction**: LlamaParse uses Vision-Language Model (VLM)-powered agents for layout-aware document parsing, enabling structured extraction of defined schemas with minimal manual intervention.
 
-- **Multi-Modal & Error-Resilient Parsing**: Supports complex layouts, handwritten text, tables, and charts via specialized agents and recursive auto-correction loops, ensuring high accuracy even with noisy or multi-modal inputs.
+- **Multi-Modal Document Processing**: Supports 50+ unstructured file types (PDFs, images, handwritten notes) with specialized agents for text, charts, tables, and auto-correction loops for error detection and resolution.
 
-- **Enterprise-Grade
+- **Enterprise-Grade Performance**: Benchmarked for acc
 
 ## Use Cases
 

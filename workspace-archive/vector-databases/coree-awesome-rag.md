@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
+- hackernews
 - paper
 - rag
 - unknown
@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs), including embeddings, retrieval systems, and model architectures.
-- **Multi-Topic Coverage**: Encompasses key areas such as RAG models, retrieval mechanisms, embeddings optimization, and integration strategies for enhancing LLMs with external knowledge retrieval.
-- **Active Maintenance**: Last updated in Jun
+- **Curated RAG Resources**: Comprehensive collection of tools, frameworks, libraries, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
+- **Technical Scope**: Covers embeddings, retrieval systems, RAG models, and integration techniques for enhancing LLMs with external knowledge retrieval.
+- **Community-Driven**: Actively maintained GitHub repository with 425 stars and 49 forks, last updated in June 2026, serving as a centralized hub for RAG ad
 
 ## Use Cases
 

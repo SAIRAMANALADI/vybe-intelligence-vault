@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-30T10:06:30.437154+05:30'
+collected_at: '2026-06-30T15:33:05.647607+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-30T10:06:30.437154+05:30'
-last_seen: '2026-06-30T10:06:30.437154+05:30'
-last_checked: '2026-06-30T10:06:30.437154+05:30'
+first_seen: '2026-06-30T15:33:05.647607+05:30'
+last_seen: '2026-06-30T15:33:05.647607+05:30'
+last_checked: '2026-06-30T15:33:05.647607+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using JavaScript, leveraging `node-llama-cpp` for local LLM integration without external black-box APIs.
+- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to demystify embeddings, vector search, retrieval, and context-augmented generation without relying on proprietary APIs or black-box systems.
 
-- **Core Components**: Covers end-to-end RAG workflow—embeddings generation, vector search (likely via cosine similarity or FAISS), retrieval of relevant context, and context-augmented generation with a local LLM.
+- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a focus on modularity for educational purposes in understanding RAG components (embedding generation, vector DB operations, and retrieval-augmented prompting).
 
-- **Educational Focus**: Provides a hands-on tutorial to deconstruct RAG mechanics, emphasizing transparency, customization, and practical implementation for AI agents or chatbots.
+- **Open-Source Tutorial Repository**: Provides a hands-on guide for developers to build a RAG chatbot pipeline, covering agents, AI-agent integration, and RAG-specific optimizations (e.g., retrieval strategies, context window management) with an updated codebase as of June 2026.
 
 ## Why It Matters
 

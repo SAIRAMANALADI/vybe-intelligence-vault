@@ -6,18 +6,19 @@ source_url: https://github.com/KruxAI/ragbuilder
 resource_id: github:kruxai/ragbuilder
 local_vault_path: ai/rag/kruxai-ragbuilder.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
-resource_kind: benchmark
-importance: medium
+archive_score: 91
+archive_tier: essential
+resource_kind: framework
+importance: high
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
 selection_reason:
-- Active open-source repository
+- Strong keyword match
+- Useful for project building
 ---
 
 # KruxAI/ragbuilder
@@ -25,16 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 91 (essential)
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Toolkit for constructing production-grade Retrieval Augmented Generation (RAG) pipelines optimized for user-specific data.
-- **Key Features**: Supports end-to-end RAG workflows including data ingestion, chunking, vector embedding, retrieval, and LLM integration.
-- **Technical Stack**: Python-based with modular components for customization, designed for scalability and deployment in production environments.
+- **RAG Optimization Toolkit**: Provides a Python-based framework for building production-ready Retrieval Augmented Generation (RAG) pipelines, optimizing data retrieval and generation workflows.
+
+- **Modular Architecture**: Supports customizable components (e.g., embedders, retrievers, LLMs) with built-in evaluation metrics for performance tuning and benchmarking.
+
+- **Scalable Deployment**: Includes tools for integrating with vector databases (e.g., FAISS, Pinecone) and cloud services, enablin
 
 ## Use Cases
 

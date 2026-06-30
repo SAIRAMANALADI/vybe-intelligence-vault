@@ -32,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Improved merge-ort performance**: Git 2.55 introduces optimizations to the merge-ort strategy, reducing memory usage and speeding up large repository merges by up to 30% in benchmarks.
-
-- **New `git maintenance` subcommand**: Adds automated repository maintenance tasks (e.g., commit-graph updates, repacking) via `git maintenance run`, configurable via `maintenance.strategy`.
-
-- **Enhanced `git range-diff`**: Supports `--left-only` and `--right-only` flags to filter diff ranges, improving usa
+- **Improved merge-ort performance**: Git 2.55 introduces optimizations to the `merge-ort` strategy, reducing memory usage and speeding up large repository merges by up to 30% in benchmarks.
+- **New `git maintenance` subcommand**: Adds a built-in maintenance system (`git maintenance start/stop/run`) for automated repository optimization, including `gc`, `commit-graph`, and `prefetch` tasks.
+- **SHA-256 repository support expanded**: Enhances SHA-256 hash compatibility for repositories, including
 
 ## Use Cases
 

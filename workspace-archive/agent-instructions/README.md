@@ -9,7 +9,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 ## Top Matched Resources
 
 - [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) (template - USEFUL Tier)
-- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) (framework - USEFUL Tier)
+- [HoangNguyen0403/agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard) (template - USEFUL Tier)
 - [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/rec/T-REC-X.680/en) (prompt - USEFUL Tier)
 - [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](https://www.itu.int/rec/T-REC-X.690/en) (tutorial - USEFUL Tier)
 - [Introduction | WordPress Playground](https://wordpress.github.io/wordpress-playground) (tutorial - USEFUL Tier)
@@ -40,4 +40,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-06-30 10:21 IST*
+*Last updated: 2026-06-30 15:48 IST*

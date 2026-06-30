@@ -2,13 +2,13 @@
 title: GitHub Copilot CLI · GitHub
 archive_category: model-providers
 source_category: ai/agents
-source_url: https://github.com/features/copilot/cli
+source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 resource_id: github:features/copilot
 local_vault_path: ai/agents/features-copilot.md
 quality_score: 70
 archive_score: 79
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -21,7 +21,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # GitHub Copilot CLI · GitHub
@@ -30,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 79 (useful)
-- Resource kind: tutorial
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing and decision convergence with user-controlled approvals.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and multi-step autonomous workflows from `/plan` to merged PRs.
 
-- **GitHub-Native MCP Integration**: Built on GitHub’s Model Context Protocol (`/mcp`), the CLI interacts with issues, PRs, branches, and labels natively, inheriting org policies (branch protections, governance) and enabling seamless transition
+- **GitHub-Native Integration**: Built on GitHub’s native Model Context Protocol (MCP), Copilot CLI interacts directly with issues, PRs, branches, and labels, inheriting organization policies (branch protections, governance)
 
 ## Use Cases
 
@@ -49,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/features/copilot/cli
+Original source URL: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
 
 ## Local Vault File
 

@@ -6,17 +6,16 @@ source_name: Web Discovery
 source_url: https://blog.medium.com/?source=post_page
 resource_id: blog:the-medium-blog
 -----d10bb5769280---------------------------------------
-published_at: '2026-06-30T10:10:42.385494+05:30'
-collected_at: '2026-06-30T10:10:42.385504+05:30'
+published_at: '2026-06-30T15:36:08.473685+05:30'
+collected_at: '2026-06-30T15:36:08.473701+05:30'
 tags:
 - rag
 - web-crawled
-- workflows
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-30T10:10:42.385504+05:30'
-last_seen: '2026-06-30T10:10:42.385504+05:30'
-last_checked: '2026-06-30T10:10:42.385504+05:30'
+first_seen: '2026-06-30T15:36:08.473701+05:30'
+last_seen: '2026-06-30T15:36:08.473701+05:30'
+last_checked: '2026-06-30T15:36:08.473701+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured XML-based indexing of all published content, enabling search engine crawlers to efficiently discover and index blog posts, static pages, and media assets.
+- **Medium’s sitemap.xml** provides structured indexing of all public-facing URLs, enabling efficient crawling and SEO optimization for search engines.
 
-- **Medium’s navigation and authentication flows** leverage URL-encoded redirects (`redirect=https%3A%2F%2F...`) for seamless user transitions between sign-in, sign-up, and content creation workflows, ensuring session persistence via `utm_source` and `referrer` parameters.
+- **Medium’s Android app** (`com.medium.reader`) integrates deep linking via `utm_source=mobileNavBar` for tracking user acquisition from the mobile navigation bar.
 
-- **Medium’s editorial and product infrastructure** includes a multi-editor team, categorized content feeds (e.g., `/all?topic=product`), a weekly newsletter subscription system, and a status page (`status.medium.com`) for real-time service monitoring.
+- **Medium’s newsletter subscription** (`/newsletter`) leverages weekly content delivery, with promotional imagery dynamically resized (`fit:500/900`) for responsive web display.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:10:42.385494+05:30
+- Published: 2026-06-30T15:36:08.473685+05:30
 
 ## Related Tags
 
 - rag
 - web-crawled
-- workflows
 
 ## Source
 

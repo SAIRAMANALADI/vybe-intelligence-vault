@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-06-30T10:07:20.520171+05:30'
-published_at: '2026-06-30T03:10:20Z'
+collected_at: '2026-06-30T15:33:50.693742+05:30'
+published_at: '2026-06-30T09:59:55Z'
 tags:
 - benchmark
 - github-repo
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-06-30T10:07:20.520171+05:30'
-last_seen: '2026-06-30T10:07:20.520171+05:30'
-last_checked: '2026-06-30T10:07:20.520171+05:30'
+first_seen: '2026-06-30T15:33:50.693742+05:30'
+last_seen: '2026-06-30T15:33:50.693742+05:30'
+last_checked: '2026-06-30T15:33:50.693742+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, emphasizing knowledge graphs and large language models (LLMs).
-- **Technical Scope**: Covers **GraphRAG-specific methodologies**, including retrieval mechanisms, graph construction, and integration with LLMs for enhanced contextual reasoning.
-- **Community & Updates**: Maintained repository with **2,501 stars** and **216 forks**, last updated **June 30, 2026**, serving as a dynamic reference for cutting-edge GraphRAG research and implementations.
+- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG architectures.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** (e.g., graph-augmented retrieval, LLM-grounded reasoning) and broader **RAG methodologies**, with emphasis on graph-structured knowledge integration.
+- **Repository Metrics**: **2,501 stars**, **216 forks**, last updated **June 30, 2026**; primarily serves as a **dynamic knowledge base** for cutting-edge research in graph-enhanced LLM applications.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 216
 - Language: Unknown
 - Topics: graphrag, graphrag-paper, graphrag-survey, knowledge-graph, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-30T03:10:20Z
+- Last Updated: 2026-06-30T09:59:55Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T08:29:58Z

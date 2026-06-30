@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphaware.com/graphaware/2015/05/19/neo4j-cypher-variable-length-relationships-by-example.html
-published_at: '2026-06-30T10:10:43.236455+05:30'
-collected_at: '2026-06-30T10:10:43.236468+05:30'
+published_at: '2026-06-30T15:36:13.041831+05:30'
+collected_at: '2026-06-30T15:36:13.041854+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:cypher-variable-length-relationships-by-example
-first_seen: '2026-06-30T10:10:43.236468+05:30'
-last_seen: '2026-06-30T10:10:43.236468+05:30'
-last_checked: '2026-06-30T10:10:43.236468+05:30'
+first_seen: '2026-06-30T15:36:13.041854+05:30'
+last_seen: '2026-06-30T15:36:13.041854+05:30'
+last_checked: '2026-06-30T15:36:13.041854+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Variable-length relationships in Cypher** are specified using `*minHops..maxHops` syntax, enabling traversal of paths with dynamic depth (e.g., `-[:KNOWS*2..3]->` for 2-3 hops). Infinite traversal (`*`) risks performance degradation in large graphs.
+- **Variable-length relationships in Cypher** are defined using the `*n..m` syntax, where `n` is the minimum and `m` the maximum path length (e.g., `-[:KNOWS*2..3]->` matches paths with 2 or 3 `KNOWS` relationships).
 
-- **Zero-length paths** (`*0`) bind the same node to multiple variables in a single pattern, simplifying queries for optional relationships (e.g., `-[:PREVIOUS_POST*0..1]->` captures posts with/without prior posts uniformly).
+- **Zero-length paths** (`*0`) allow binding a node to itself, enabling unified result handling (e.g., `()-[:REL*0..1]->(post)` includes nodes with/without outgoing `REL` relationships).
 
-- **Performance optimization** requires explicit length bounds (e.g., `-[:KNOWS*..5]->`) to avoid unbounded traversals, balancing query completeness with computational efficiency.
+- **Performance considerations** require explicit length limits (e.g., `-[:KNOWS*..5]->`) to avoid unbounded traversals, which can degrade query performance in large graphs.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:10:43.236455+05:30
+- Published: 2026-06-30T15:36:13.041831+05:30
 
 ## Related Tags
 

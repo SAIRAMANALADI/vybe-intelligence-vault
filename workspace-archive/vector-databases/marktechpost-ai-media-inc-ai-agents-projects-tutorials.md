@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Agent Architectures**: Repository focuses on advanced multi-agent systems, emphasizing memory management, planning algorithms, and reasoning loop optimizations for agentic AI workflows.
-
-- **Technical Stack**: Primarily implemented in Jupyter Notebooks, leveraging Python-based frameworks for agentic development, RAG (Retrieval-Augmented Generation), and agentic coding/engineering practices.
-
-- **Ecosystem & Tools**: Covers agentic AI development tools, frameworks, and methodologies, in
+- **Multi-Agent Systems & Workflows**: Repository focuses on agentic AI development, covering multi-agent systems, memory management, planning, and reasoning loops for complex task execution.
+- **Technical Stack**: Primarily implemented in Jupyter Notebooks, with resources on agentic RAG, coding, and framework engineering for AI agent deployment.
+- **Educational Focus**: Provides tutorials and projects on agentic AI skills, workflows, and tools for building autonomous AI agents.
 
 ## Use Cases
 

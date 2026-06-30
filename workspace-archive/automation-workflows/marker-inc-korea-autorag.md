@@ -8,10 +8,11 @@ local_vault_path: ai/rag/marker-inc-korea-autorag.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
@@ -20,7 +21,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # Marker-Inc-Korea/AutoRAG
@@ -29,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates hyperparameter tuning, prompt optimization, and retrieval strategies for RAG pipelines using AutoML techniques, reducing manual configuration overhead.
+- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance across metrics like answer correctness, context relevance, and latency.
 
-- **Comprehensive RAG Evaluation**: Provides built-in benchmarking tools for assessing RAG performance across metrics like answer correctness, retrieval relevance, and latency, supporting both offline and online evaluation modes.
-
-- **Modular Pipeline & Document Processing**: Offers a flexib
+- **Comprehensive RAG Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation components, with built-in support for multiple LLMs, embeddings, and retr
 
 ## Use Cases
 

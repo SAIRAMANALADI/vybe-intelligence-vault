@@ -6,10 +6,10 @@ source_url: https://github.com/neo4j
 resource_id: blog:neo4j-github
 local_vault_path: ai/rag/neo4j-github.md
 quality_score: 70
-archive_score: 77
-archive_tier: useful
+archive_score: 87
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - rag
 - reddit
@@ -24,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 87 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -32,14 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j** is a graph database management system implemented in Java, providing ACID-compliant transactions, native graph storage, and processing with Cypher query language support.
+- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage optimizations for high-performance traversals.
 
-- **Core repositories** include:
-  - `neo4j` (Java-based core DB, 16.8k stars)
-  - `graph-data-science` (Java library for graph algorithms, 801 stars)
-  - Multi-language Bolt drivers (`neo4j-java-driver`, `neo4j-python-driver`, etc.).
+- **Graph Data Science Library**: Provides scalable implementations of graph algorithms (e.g., PageRank, community detection) via the `graph-data-science` repository (803 stars), designed for integration with Neo4j’s property graph model.
 
-- **Key integrations** span AWS Glue, Apache Spark (Scala), and Kafka connectors
+- **Multi-Language Bolt Drivers**: Official drivers
 
 ## Use Cases
 

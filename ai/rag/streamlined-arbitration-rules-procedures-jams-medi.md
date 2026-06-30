@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.jamsadr.com/rules-streamlined-arbitration/
-published_at: '2026-06-29T17:01:26.458505+05:30'
-collected_at: '2026-06-29T17:01:26.458519+05:30'
+published_at: '2026-06-30T15:37:15.554867+05:30'
+collected_at: '2026-06-30T15:37:15.554881+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:streamlined-arbitration-rules-procedures-jams-medi
-first_seen: '2026-06-29T17:01:26.458519+05:30'
-last_seen: '2026-06-29T17:01:26.458519+05:30'
-last_checked: '2026-06-29T17:01:26.458519+05:30'
+first_seen: '2026-06-30T15:37:15.554881+05:30'
+last_seen: '2026-06-30T15:37:15.554881+05:30'
+last_checked: '2026-06-30T15:37:15.554881+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC/General Counsel oversees administration, with discretion to assign to Resolution Centers.
-
-- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter after meeting criteria (e.g., executed agreement, court order); service/e-filing via JAMS Electronic Filing System is valid if transmission completes by 11:59 p.m. (sender’s timezone).
-
-- **Consolidation & Fees**: JAMS may consolidate arbitrations if multiple cases involve overlapping parties or claims; failure to pay fees may suspend/terminate proceedings, with non-paying party’s costs allocated per Rules 19(e)/26(c).
+- **Scope & Applicability**: Rules govern JAMS-administered arbitrations where parties agree to use them or claims ≤$250K (excl. interest/fees); JAMS NAC/General Counsel administers per agreement or discretion.
+- **Commencement & Service**: Arbitration deemed commenced upon JAMS issuing Commencement Letter; service/e-filing governed by Rule 5(e-f), with deadlines extended for mail service and technical filing errors addressed via "nunc pro tunc" provisions.
+- **Consolidation & Administrative Authority**: JAMS may consolidate arbitrations (Rule 6(e)) or suspend proceedings for unpaid fees (Rule 6(c)), with administrative conferences (Rule 6(a)) and location determinations (Rule 6(b)) facilitating procedural efficiency.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T17:01:26.458505+05:30
+- Published: 2026-06-30T15:37:15.554867+05:30
 
 ## Related Tags
 

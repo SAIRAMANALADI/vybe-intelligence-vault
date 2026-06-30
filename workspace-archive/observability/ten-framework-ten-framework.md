@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source Python framework** for building **real-time, multi-modal conversational voice AI agents** with support for video and voice modalities.
-- **Highly scalable architecture** designed for **low-latency interactions**, enabling dynamic agent behavior in dynamic environments.
-- **Modular design** with extensible components for **multi-modal input/output**, facilitating integration with ASR, TTS, and LLMs.
+- **Framework Overview**: Open-source Python-based framework (`ten-framework`) designed for building **real-time, multi-modal conversational voice AI agents** with support for **video and voice** modalities.
+- **Key Features**: Enables **low-latency, real-time** interactions by integrating **voice, video, and multi-modal** inputs/outputs for AI agent communication.
+- **Repository Stats**: 10,810 stars, 1,312 forks; last updated **June 30, 2026**, with a focus on **AI-driven, multi-modal agent de
 
 ## Use Cases
 

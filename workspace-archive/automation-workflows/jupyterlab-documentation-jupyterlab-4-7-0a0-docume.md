@@ -2,15 +2,16 @@
 title: JupyterLab Documentation — JupyterLab 4.7.0a0 documentation
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://jupyterlab.readthedocs.io
+source_url: https://jupyterlab.readthedocs.io/
 resource_id: blog:jupyterlab-documentation-jupyterlab-4-7-0a0-docume
 local_vault_path: ai/resources/jupyterlab-documentation-jupyterlab-4-7-0a0-docume.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - frontend_ui
 - reddit
 - web-crawled
@@ -26,18 +27,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting computational notebooks with embedded code, visualizations, and rich text, built as part of **Project Jupyter**.
+- **JupyterLab** is a modular, extensible IDE for interactive computing, supporting notebooks, terminals, and rich text editing within a single interface, built as part of the **Project Jupyter** ecosystem.
 
-- **Key Features**: Multi-tab interface with integrated text editors, notebooks, terminals, debuggers, and real-time collaboration; supports **Language Server Protocol (LSP)**, custom workspaces, and **Jupyter Server Extensions** for enhanced functionality.
+- **Core features** include real-time collaboration, Language Server Protocol (LSP) integration, a debugger, and a plugin-based architecture enabling customization via extensions (e.g., prebuilt, source, or NPM-based).
 
-- **Development & Deployment**: Extensible
+- **Development workflow** supports TypeScript/JavaScript-based extensio
 
 ## Use Cases
 
@@ -47,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://jupyterlab.readthedocs.io
+Original source URL: https://jupyterlab.readthedocs.io/
 
 ## Local Vault File
 

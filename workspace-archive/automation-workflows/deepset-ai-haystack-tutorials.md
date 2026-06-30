@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- Tutorial contributions to Haystack involve submitting issues (bug reports or new tutorial requests) or directly adding/editing `.ipynb` files in the `tutorials` folder, with Markdown generation for accompanying docs.
-- New tutorials require copying the template, renaming per convention (e.g., `XX_descriptive_name.ipynb`), updating `index.toml` (including `weight` for ordering and `colab` flag), and ensuring CI checks pass post-PR.
-- Existing tutorials are edited directly in the `.ipynb` file;
+- Tutorial contributions require either submitting an issue (bug report or new tutorial request) or directly adding/editing `.ipynb` files in the `tutorials` folder, with generated Markdown accompaniments.
+- New tutorials must follow the template structure, adhere to naming conventions (e.g., `XX_descriptive_name.ipynb`), and update `index.toml` (including `weight` for ordering and `colab` flag for Google Colab compatibility).
+- CI checks validate tutorial execution upon PR submission; failures
 
 ## Use Cases
 

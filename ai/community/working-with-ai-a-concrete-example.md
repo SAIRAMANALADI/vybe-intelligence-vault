@@ -13,13 +13,14 @@ collected_at: '2026-06-30T10:04:37.347853+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:working-with-ai-a-concrete-example
 first_seen: '2026-06-30T03:51:24.715975+05:30'
 last_seen: '2026-06-30T10:04:37.347853+05:30'
 last_checked: '2026-06-30T10:04:37.347853+05:30'
 health_score: 100
 ---
+
 
 # Working With AI: A concrete example
 

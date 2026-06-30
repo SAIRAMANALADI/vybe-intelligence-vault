@@ -1,33 +1,31 @@
 ---
-title: Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
+title: GraphAcademy — Free, Hands-On Neo4j Training & Certification
 category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://graphacademy.neo4j.com/
-published_at: '2026-06-28T15:10:24.789590+05:30'
-collected_at: '2026-06-28T15:10:24.789603+05:30'
+published_at: '2026-06-30T15:41:05.801921+05:30'
+collected_at: '2026-06-30T15:41:05.801933+05:30'
 tags:
-- agents
-- frontend_ui
-- hackernews
 - rag
-- reddit
 - web-crawled
 status: active
-resource_id: blog:free-self-paced-hands-on-online-training-free-neo4
-first_seen: '2026-06-28T15:10:24.789603+05:30'
-last_seen: '2026-06-28T15:10:24.789603+05:30'
-last_checked: '2026-06-28T15:10:24.789603+05:30'
+resource_id: blog:graphacademy-free-hands-on-neo4j-training-certific
+first_seen: '2026-06-30T15:41:05.801933+05:30'
+last_seen: '2026-06-30T15:41:05.801933+05:30'
+last_checked: '2026-06-30T15:41:05.801933+05:30'
 health_score: 100
 ---
 
-# Free, Self-Paced, Hands-on Online Training | Free Neo4j Courses from GraphAcademy
+# GraphAcademy — Free, Hands-On Neo4j Training & Certification
 
 ## Summary
 
-- **Neo4j GraphAcademy** offers free, self-paced, hands-on training for Neo4j, including courses on fundamentals, Cypher query language, graph data modeling, and data import (1–2 hours each).
-- **Generative AI & GraphRAG track** includes 10+ courses (2 hours each) on integrating Neo4j with LLMs, vector indexes, knowledge graph construction, and building AI agents or chatbots in Python/TypeScript.
-- **Certifications** available: *Neo4j Certified Professional* (1 hour) and *Neo4j Graph Data Science Certification* (1 hour), with t-shirt incentives upon completion.
+- **Graph Databases**: Introduces graph databases as a data structure comprising nodes, edges, and properties, optimized for storing and querying highly connected data.
+
+- **Neo4j Basics**: Covers the core components of Neo4j, including its native graph storage, Cypher query language, and ACID-compliant transactional capabilities.
+
+- **Hands-on Learning**: Provides practical exercises to model real-world domains as graphs, execute Cypher queries, and leverage Neo4j’s graph algorithms for data analysis.
 
 ## Why It Matters
 
@@ -37,15 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T15:10:24.789590+05:30
+- Published: 2026-06-30T15:41:05.801921+05:30
 
 ## Related Tags
 
-- agents
-- frontend_ui
-- hackernews
 - rag
-- reddit
 - web-crawled
 
 ## Source

@@ -11,7 +11,10 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
+- hackernews
+- paper
 - python
 - rag
 selection_reason:
@@ -30,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), leveraging a unified framework for heterogeneous corpora.
+- **Framework Overview**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a unified RAG framework supporting diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and generation.
 
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating significant advancements in scalable, cross-modal retrieval and generation for large language
+- **Technical Architecture**: Implements a two-stage pipeline—(1) modality-agnostic retriever (e.g., contrastive embeddings) and (2) modality-specific generators (e.g., LLMs, diffusion models) with cross-modal attention for fused context in
 
 ## Use Cases
 

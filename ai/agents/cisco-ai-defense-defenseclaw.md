@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cisco-ai-defense/defenseclaw
-collected_at: '2026-06-30T10:09:25.608319+05:30'
+collected_at: '2026-06-30T15:35:55.841232+05:30'
 published_at: '2026-06-30T03:33:40Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
-- workflows
 stars: 760
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-03-23T00:51:19Z'
-pushed_at: '2026-06-30T04:28:53Z'
+pushed_at: '2026-06-30T07:16:53Z'
 resource_id: github:cisco-ai-defense/defenseclaw
-first_seen: '2026-06-30T10:09:25.608319+05:30'
-last_seen: '2026-06-30T10:09:25.608319+05:30'
-last_checked: '2026-06-30T10:09:25.608319+05:30'
+first_seen: '2026-06-30T15:35:55.841232+05:30'
+last_seen: '2026-06-30T15:35:55.841232+05:30'
+last_checked: '2026-06-30T15:35:55.841232+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, threat detection, and compliance monitoring.
-- **Key Features**: Implements **runtime policy enforcement**, **AI agent behavior auditing**, and **automated incident response** for securing autonomous AI workflows.
-- **Repository Status**: Actively maintained (last updated June 2026) with **760 stars** and **134 forks**, indicating growing adoption in AI security research.
+- **Purpose**: DefenseClaw is a Python-based framework designed for **security governance in agentic AI systems**, enabling policy enforcement, monitoring, and compliance checks for AI agents.
+- **Key Features**: Implements **runtime security controls** for AI agents, including **policy-based access control (PBAC)**, **behavioral monitoring**, and **incident response mechanisms** to mitigate risks like prompt injection and unauthorized actions.
+- **Architecture**: Modular design with **Python SDK** for integration, supporting **real-time policy evaluation** and **audit logging** to ensure adherence to predefined security policies.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-03-23T00:51:19Z
-- Pushed At: 2026-06-30T04:28:53Z
+- Pushed At: 2026-06-30T07:16:53Z
 
 ## Possible Use Cases
 

@@ -4,26 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trycua/cua
-collected_at: '2026-06-30T10:09:10.657115+05:30'
-published_at: '2026-06-30T04:02:21Z'
+collected_at: '2026-06-30T15:35:40.880788+05:30'
+published_at: '2026-06-30T09:59:34Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - html
 - scripts
-- workflows
-stars: 19213
+stars: 19221
 language: HTML
 status: active
 license: MIT
 archived: false
 created_at: '2025-01-31T15:02:49Z'
-pushed_at: '2026-06-30T03:51:45Z'
+pushed_at: '2026-06-30T09:35:12Z'
 resource_id: github:trycua/cua
-first_seen: '2026-06-30T10:09:10.657115+05:30'
-last_seen: '2026-06-30T10:09:10.657115+05:30'
-last_checked: '2026-06-30T10:09:10.657115+05:30'
+first_seen: '2026-06-30T15:35:40.880788+05:30'
+last_seen: '2026-06-30T15:35:40.880788+05:30'
+last_checked: '2026-06-30T15:35:40.880788+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Cross-platform desktop automation framework**: Provides sandboxes, SDKs, and benchmarks for training/evaluating AI agents capable of controlling full desktops across macOS, Linux, and Windows.
+- **Multi-OS Agent Framework**: Provides sandboxed environments, SDKs, and benchmarks for training/evaluating AI agents capable of full desktop control across macOS, Linux, and Windows via containerization and virtualization (e.g., Apple Virtualization Framework, Windows Sandbox).
 
-- **Virtualization & containerization support**: Integrates Apple's Virtualization Framework, Windows Sandbox, and containerization tools for secure agent-environment isolation and testing.
+- **Technical Stack**: Primarily HTML-based with integrations for Swift (macOS), Windows automation tools, and Lume for benchmarking; supports containerization and virtualization for isolated agent execution.
 
-- **Multi-language toolkit**: Primarily Swift-based with HTML components, supporting agent development, virtualization, and desktop automation workflows under open-source licensing.
+- **Open-Source Tooling**: Includes CUDA-like infrastructure (CUA) for Computer-Use Agents, targeting automation, operator tasks, and desktop interaction with hacktoberfest contributions and Manus SDK alignment.
 
 ## Why It Matters
 
@@ -44,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trycua
-- Stars: 19213
-- Forks: 1261
+- Stars: 19221
+- Forks: 1262
 - Language: HTML
 - Topics: agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
-- Last Updated: 2026-06-30T04:02:21Z
+- Last Updated: 2026-06-30T09:59:34Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-31T15:02:49Z
-- Pushed At: 2026-06-30T03:51:45Z
+- Pushed At: 2026-06-30T09:35:12Z
 
 ## Possible Use Cases
 

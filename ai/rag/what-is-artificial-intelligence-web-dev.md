@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://web.dev/articles/ai-overview
-published_at: '2026-06-28T03:58:08.582162+05:30'
-collected_at: '2026-06-28T03:58:08.582176+05:30'
+published_at: '2026-06-30T15:40:25.308959+05:30'
+collected_at: '2026-06-30T15:40:25.308973+05:30'
 tags:
 - anthropic
 - dataset
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:what-is-artificial-intelligence-web-dev
-first_seen: '2026-06-28T03:58:08.582176+05:30'
-last_seen: '2026-06-28T03:58:08.582176+05:30'
-last_checked: '2026-06-28T03:58:08.582176+05:30'
+first_seen: '2026-06-30T15:40:25.308973+05:30'
+last_seen: '2026-06-30T15:40:25.308973+05:30'
+last_checked: '2026-06-30T15:40:25.308973+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **AI Fundamentals**: AI encompasses non-human programs/models performing complex problem-solving, creativity, and generative tasks (e.g., content creation) using machine learning (ML) techniques like deep learning (DL) and natural language processing (NLP).
+- **AI Fundamentals**: AI encompasses non-human programs/models performing complex problem-solving and creativity, including generative AI which creates new content; capabilities vary widely across technologies.
 
-- **AI Deployment Models**: AI inference occurs either client-side (browser-based, e.g., Transformers.js, TensorFlow.js) for low latency/privacy or server-side (cloud-based, e.g., LLMs like Gemini) for scalability, with hybrid approaches combining both.
+- **AI Deployment Models**: Client-side AI (browser-based inference) offers low latency, privacy, and offline access via libraries like Transformers.js/TensorFlow.js, while server-side AI leverages cloud-based LLMs (e.g., Gemini 1.5 Pro); hybrid approaches combine both.
 
-- **Key Challenges**: AI faces issues like data quality/recency, ethical bias (e.g., Monk Skin Tone Scale), security/privacy risks, and requires techniques like RLHF or LoRA for model tuning to align with specific use cases.
+- **Challenges & Considerations**: Key issues include data quality/recency (mitigated via prompt engineering), ethical biases (e.g., Monk Skin Tone Scale), and security/privacy risks (addressed via client-side processing); tuning techniques like RLHF/LoRA optimize pre-trained models.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-28T03:58:08.582162+05:30
+- Published: 2026-06-30T15:40:25.308959+05:30
 
 ## Related Tags
 

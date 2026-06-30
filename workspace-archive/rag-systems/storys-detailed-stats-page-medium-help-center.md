@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Lifetime Metrics**: Hourly-updated (daily for earnings) performance funnel includes total presentations, views, reads (with 30s threshold), Feed clickthrough rate (feed-only presentations), and Read ratio; Impact metrics include paywall earnings (daily), follower/unfollower counts, and subscriber changes (paywalled stories only).
+- **Lifetime Metrics**: Tracks story performance via presentations (suggested views), views (story landings), and reads (≥30s engagement), with hourly updates (daily for earnings). Includes follower/subscribe changes post-reading and excludes Digest presentations.
 
-- **Monthly Engagement**: Daily-updated metrics per selected month include earnings (yellow = earnings contribution), views, reads, and engagement (clappers, highl
+- **Monthly Engagement**: Provides paywall earnings, views, reads, and interaction metrics (claps, highlights, responses, new followers) per selected month, updated daily. Highlights yellow-marked metrics contributing to earnings.
+
+-
 
 ## Use Cases
 

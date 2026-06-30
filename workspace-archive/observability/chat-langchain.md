@@ -8,9 +8,10 @@ local_vault_path: ai/resources/chat-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: benchmark
 importance: medium
 tags:
+- hackernews
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -23,18 +24,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Dynamic Loading Mechanism**: The system employs a runtime dynamic loading strategy for modules/plugins, enabling on-demand execution without full initial memory residency.
+- **Latency & Throughput Trade-offs**: The article discusses the inherent trade-offs between latency and throughput in distributed systems, emphasizing how optimizing for one often degrades the other due to factors like network congestion, queueing delays, and synchronization overhead.
 
-- **Asynchronous Resource Fetching**: Utilizes non-blocking I/O operations to prefetch dependencies, optimizing startup latency and resource utilization.
-
-- **Modular Dependency Graph**: Maintains an in-memory dependency graph to resolve and validate module linkages at runtime, ensuring correct execution order and prevent
+- **Consensus Protocols**: It evaluates modern consensus algorithms (e.g., Paxos, Raft, PBFT) in terms of fault tolerance, message complexity, and performance under varying workloads, highlighting their suitabili
 
 ## Use Cases
 

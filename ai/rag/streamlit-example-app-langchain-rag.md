@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-30T10:07:00.477503+05:30'
+collected_at: '2026-06-30T15:33:30.737316+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-30T10:07:00.477503+05:30'
-last_seen: '2026-06-30T10:07:00.477503+05:30'
-last_checked: '2026-06-30T10:07:00.477503+05:30'
+first_seen: '2026-06-30T15:33:30.737316+05:30'
+last_seen: '2026-06-30T15:33:30.737316+05:30'
+last_checked: '2026-06-30T15:33:30.737316+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector-based similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
+- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced RAG performance.
 
-- **Streamlit UI**: Provides a frontend interface built with Streamlit to interact with LangChain's RAG pipeline, enabling user queries and result visualization.
+- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS, Chroma) for efficient document embeddings and retrieval in the RAG pipeline.
 
-- **Vectorstore Utilization**: Implements a vector database (e.g., FAISS, Chroma) for efficient storage and retrieval of embeddings, supporting semantic search capabilities.
+- **Streamlit UI**: Provides a web interface via Streamlit to interact with the LangChain-based RAG system, enabling real-time query processing and response generation.
 
 ## Why It Matters
 

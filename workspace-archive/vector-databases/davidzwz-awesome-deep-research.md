@@ -12,6 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
+- dataset
 - github-repo
 - hackernews
 - rag
@@ -32,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on ACL 2026 KnowFM contributions, including agentic RAG, reasoning agents, and search agents.
-- **Technical Scope**: Encompasses large language models (LLMs), deep research methodologies, and reasoning frameworks for autonomous information synthesis.
-- **Repository Metrics**: 781 stars, 62 forks, last updated June 28, 2026, with topics spanning agentic AI, deep research, and RAG systems.
+- **Curated Resource Hub**: Aggregates state-of-the-art tools, datasets, and methodologies for agentic deep research, focusing on reasoning agents, search agents, and agentic RAG systems.
+- **ACL 2026 KnowFM Integration**: Aligns with [ACL 2026 KnowFM] benchmarks, emphasizing knowledge-intensive, multi-step reasoning tasks for large language models (LLMs).
+- **Technical Breadth**: Covers LLM-driven reasoning, deep research agents, and hybrid search-augmented frameworks, with last update timestam
 
 ## Use Cases
 

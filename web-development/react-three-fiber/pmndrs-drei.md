@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/drei
-collected_at: '2026-06-30T01:46:49.471906+05:30'
+collected_at: '2026-06-30T15:31:49.224720+05:30'
 published_at: '2026-06-29T18:25:25Z'
 tags:
 - frontend_ui
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:pmndrs/drei
 first_seen: '2026-06-12T10:40:15.865352+00:00'
-last_seen: '2026-06-30T01:46:49.471906+05:30'
-last_checked: '2026-06-30T01:46:49.471906+05:30'
+last_seen: '2026-06-30T15:31:49.224720+05:30'
+last_checked: '2026-06-30T15:31:49.224720+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: pmndrs
 - Stars: 9717
-- Forks: 814
+- Forks: 815
 - Language: JavaScript
 - Topics: helpers, hooks, react, react-three-fiber, threejs
 - Last Updated: 2026-06-29T18:25:25Z

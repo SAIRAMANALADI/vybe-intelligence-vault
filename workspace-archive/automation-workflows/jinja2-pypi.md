@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Template Engine Features**: Jinja2 supports template inheritance, macro definitions, autoescaping for XSS prevention, sandboxed environments for untrusted templates, AsyncIO for async template rendering, I18N via Babel, and JIT compilation of templates to optimized Python code with caching or ahead-of-time compilation.
+- **Template Engine Features**: Jinja2 is a high-performance, extensible templating engine supporting template inheritance, macro inclusion, autoescaping (XSS prevention), sandboxed environments, AsyncIO, and i18n via Babel; templates compile to optimized Python code (JIT or AOT) with precise error reporting.
 
-- **Technical Specifications**: Requires Python ≥3.7, licensed under BSD, and classified as a production-stable web templating tool with OS-independent compatibility and typi
+- **Technical Specifications**: Requires Python ≥3.7, licensed under BSD, and classified as OS-independent; supports typed annotations and provides extras like `i18n`; source available on
 
 ## Use Cases
 

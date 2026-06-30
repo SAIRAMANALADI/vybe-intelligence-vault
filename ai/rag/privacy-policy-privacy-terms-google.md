@@ -3,9 +3,9 @@ title: Privacy Policy – Privacy & Terms – Google
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policies.google.com/privacy
-published_at: '2026-06-29T03:51:17.894841+05:30'
-collected_at: '2026-06-29T03:51:17.894852+05:30'
+source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+published_at: '2026-06-30T15:39:08.819436+05:30'
+collected_at: '2026-06-30T15:39:08.819451+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:privacy-policy-privacy-terms-google
-first_seen: '2026-06-29T03:51:17.894852+05:30'
-last_seen: '2026-06-29T03:51:17.894852+05:30'
-last_checked: '2026-06-29T03:51:17.894852+05:30'
+first_seen: '2026-06-30T15:39:08.819451+05:30'
+last_seen: '2026-06-30T15:39:08.819451+05:30'
+last_checked: '2026-06-30T15:39:08.819451+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (name, email, payment data) and device/browser metadata (IP, OS, unique identifiers), with differential handling based on signed-in status.
+- **Data Collection Scope**: Google collects user data across services (e.g., Search, YouTube, Chrome) via account-linked and anonymized identifiers (IP, device, browser), including content (emails, files), activity logs (searches, interactions), and location data (GPS, Wi-Fi, IP) for personalization and ads.
 
-- **Activity & Location Tracking**: Collects granular user activity (searches, watch history, interactions) and location data (GPS, Wi-Fi access points, IP) with retention tied to account settings; stored in services like Web & App Activity and Timeline.
+- **Account vs. Non-Account Data**: Signed-in users’ data is tied to their Google Account (treated as personal info), while non-signed-in users’ data is stored with unique identifiers tied to browsers/devices, enabling cross-session preferences (e.g., language, ad relevance) without account linkage.
 
-- **Third-Party & Public Data**: Incorporates data from public sources (e.g., indexed news articles) and trusted partners (e.g., business directories), with collection governed by [data transfer frameworks](https://policies.google.com/privacy/frameworks) and user privacy controls.
+- **Retention & Control**: Google retains data based on account settings and regulatory compliance, offering users tools to export, delete, or manage data via Privacy Checkup; retention periods vary by data type (e.g., activity logs, location history).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T03:51:17.894841+05:30
+- Published: 2026-06-30T15:39:08.819436+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policies.google.com/privacy
+Original source: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true

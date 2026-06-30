@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/apecloud/ApeRAG
-collected_at: '2026-06-30T10:07:55.516489+05:30'
-published_at: '2026-06-30T00:10:24Z'
+collected_at: '2026-06-30T15:34:25.777977+05:30'
+published_at: '2026-06-30T09:02:26Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
-stars: 1209
+stars: 1210
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-06-20T12:18:12Z'
 pushed_at: '2026-05-02T05:01:36Z'
 resource_id: github:apecloud/aperag
-first_seen: '2026-06-30T10:07:55.516489+05:30'
-last_seen: '2026-06-30T10:07:55.516489+05:30'
-last_checked: '2026-06-30T10:07:55.516489+05:30'
+first_seen: '2026-06-30T15:34:25.777977+05:30'
+last_seen: '2026-06-30T15:34:25.777977+05:30'
+last_checked: '2026-06-30T15:34:25.777977+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal indexing & GraphRAG**: Implements production-ready GraphRAG with support for structured/unstructured data (text, images, etc.) via vector + knowledge graph hybrid indexing for contextual retrieval.
-
-- **AI Agents & MCP Integration**: Incorporates autonomous AI agents for dynamic query processing and extends functionality via Model Context Protocol (MCP) for tool orchestration and external system interactions.
-
-- **Scalable K8s Deployment**: Designed for horizontal scalability using Kubernetes, with modular microservices architecture for distributed graph processing, retrieval, and agent-based workflows.
+- **Multi-modal indexing**: Supports structured/unstructured data integration (text, graphs, images) via vector + graph databases (e.g., Neo4j, Weaviate) for hybrid retrieval.
+- **AI agents & MCP integration**: Implements autonomous agents with Model Context Protocol (MCP) for dynamic tool orchestration and external API interactions.
+- **Kubernetes-native scalability**: Helm charts for auto-scaling RAG pipelines, with modular microservices (ingestion, retrieval, LLM layers) for distributed deployment.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: apecloud
-- Stars: 1209
+- Stars: 1210
 - Forks: 135
 - Language: Python
 - Topics: agents, context-engineering, graphrag, knowledge-graph, mcp
-- Last Updated: 2026-06-30T00:10:24Z
+- Last Updated: 2026-06-30T09:02:26Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-06-20T12:18:12Z

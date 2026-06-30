@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/wow-rag
-collected_at: '2026-06-30T10:06:35.506781+05:30'
+collected_at: '2026-06-30T15:33:10.724964+05:30'
 published_at: '2026-05-25T12:18:52Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 stars: 232
 language: Jupyter Notebook
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-11-16T06:58:08Z'
 pushed_at: '2026-01-17T02:01:35Z'
 resource_id: github:datawhalechina/wow-rag
-first_seen: '2026-06-30T10:06:35.506781+05:30'
-last_seen: '2026-06-30T10:06:35.506781+05:30'
-last_checked: '2026-06-30T10:06:35.506781+05:30'
+first_seen: '2026-06-30T15:33:10.724964+05:30'
+last_seen: '2026-06-30T15:33:10.724964+05:30'
+last_checked: '2026-06-30T15:33:10.724964+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Design**: Lightweight, cross-platform RAG (Retrieval-Augmented Generation) framework implemented in Jupyter Notebooks, emphasizing simplicity and modularity for rapid prototyping.
+- **Framework Overview**: `wow-rag` is a lightweight, cross-platform Retrieval-Augmented Generation (RAG) framework implemented in Jupyter Notebooks, designed for modularity and ease of integration across different environments.
 
-- **Core Components**: Includes retrieval mechanisms, vector storage integration, and LLM interaction pipelines, with tutorials demonstrating end-to-end workflows for document Q&A and knowledge augmentation.
+- **Key Features**: Supports plug-and-play components for document processing, vector storage (e.g., FAISS/Chroma), and LLM interaction, with tutorials demonstrating end-to-end pipelines for custom RAG applications.
 
-- **Technical Stack**: Leverages Python-based libraries (e.g., `langchain`, `faiss`, `sentence-transformers`) for embedding generation, similarity search, and hybrid retrieval strategies.
+- **Technical Stack**: Leverages Python-based libraries (e.g., `langchain`, `sentence-transformers`) for embedding generation and retrieval, with optional GPU acceleration for vector search and LLM inference.
 
 ## Why It Matters
 

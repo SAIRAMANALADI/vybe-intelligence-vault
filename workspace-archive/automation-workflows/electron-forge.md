@@ -13,7 +13,6 @@ importance: medium
 tags:
 - github-repo
 - rag
-- scripts
 - typescript
 - workflows
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Electron Forge is a comprehensive toolkit for building, packaging, and publishing Electron applications across Windows, macOS, and Linux.
-- **Key Features**: Supports TypeScript, Webpack integration, and automated publishing workflows for Electron apps.
-- **Tech Stack**: Primarily written in TypeScript, leveraging JavaScript for cross-platform compatibility and build automation.
+- **Electron Forge**: A comprehensive toolkit for Electron app development, enabling build, packaging, and publishing workflows.
+- **Multi-Platform Support**: Facilitates cross-platform builds for Windows, macOS, and Linux with TypeScript, JavaScript, and Webpack integration.
+- **Modular Architecture**: Leverages TypeScript for extensibility, supports custom loaders (e.g., Webpack), and includes hooks for CI/CD integration.
 
 ## Use Cases
 

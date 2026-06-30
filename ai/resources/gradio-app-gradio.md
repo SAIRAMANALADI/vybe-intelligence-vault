@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gradio-app/gradio
-collected_at: '2026-06-28T22:17:45.740290+05:30'
-published_at: '2026-06-28T15:28:15Z'
+collected_at: '2026-06-30T15:39:21.224005+05:30'
+published_at: '2026-06-30T09:54:39Z'
 tags:
 - github-repo
 - python
-stars: 43017
+stars: 43038
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2018-12-19T08:24:04Z'
-pushed_at: '2026-06-28T05:56:21Z'
+pushed_at: '2026-06-30T07:32:04Z'
 resource_id: github:gradio-app/gradio
-first_seen: '2026-06-28T22:17:45.740290+05:30'
-last_seen: '2026-06-28T22:17:45.740290+05:30'
-last_checked: '2026-06-28T22:17:45.740290+05:30'
+first_seen: '2026-06-30T15:39:21.224005+05:30'
+last_seen: '2026-06-30T15:39:21.224005+05:30'
+last_checked: '2026-06-30T15:39:21.224005+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Gradio**: Open-source Python library enabling rapid development and deployment of interactive ML/web apps with minimal code, supporting real-time data visualization, model inference, and UI component integration.
-
-- **Key Features**: Facilitates deployment of ML models via customizable interfaces (e.g., forms, sliders, plots), supports frameworks like TensorFlow/PyTorch, and enables sharing via public links or private networks.
-
-- **Ecosystem**: Integrates with Jupyter notebooks, offers REST API support, and includes pre-built components for data analysis, deep learning, and model explainability, with active community-driven development.
+- **Gradio** is an open-source Python library enabling rapid development and deployment of interactive **machine learning (ML) and data science applications** with minimal UI/UX overhead.
+- Supports **real-time inference** via Python functions, models, or notebooks, with built-in components for **data visualization, file uploads, and interactive interfaces**.
+- Enables **one-click sharing** of apps via Gradio’s cloud hosting or local tunnels, facilitating collaboration and model deployment without complex web development.
 
 ## Why It Matters
 
@@ -40,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gradio-app
-- Stars: 43017
-- Forks: 3518
+- Stars: 43038
+- Forks: 3521
 - Language: Python
 - Topics: data-analysis, data-science, data-visualization, deep-learning, deploy, gradio, gradio-interface, interface, machine-learning, models, python, python-notebook, ui, ui-components
-- Last Updated: 2026-06-28T15:28:15Z
+- Last Updated: 2026-06-30T09:54:39Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2018-12-19T08:24:04Z
-- Pushed At: 2026-06-28T05:56:21Z
+- Pushed At: 2026-06-30T07:32:04Z
 
 ## Possible Use Cases
 

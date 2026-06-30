@@ -8,15 +8,16 @@ local_vault_path: ai/rag/nvidia-skillspector.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # NVIDIA/SkillSpector
@@ -25,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Static Analysis Tool**: SkillSpector performs static analysis on AI agent skills (e.g., LLM prompts, tool integrations) to detect security vulnerabilities, malicious patterns, and misconfigurations without execution.
-- **Python-Based Implementation**: The scanner is written in Python, leveraging AST parsing and rule-based checks to identify risks like prompt injection, unsafe tool usage, or data leakage.
-- **Extensible Framework**: Supports custom rule definitions and integrates with CI/CD p
+- **Purpose**: Security scanner designed to detect vulnerabilities, malicious patterns, and security risks in AI agent skills.
+- **Features**: Analyzes AI agent skills for security flaws, leveraging static and dynamic analysis techniques.
+- **Implementation**: Python-based tool with support for extensible rule sets and integration into CI/CD pipelines.
 
 ## Use Cases
 

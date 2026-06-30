@@ -4,25 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-06-29T21:45:32.356037+05:30'
-published_at: '2026-06-29T15:05:04Z'
+collected_at: '2026-06-30T15:35:10.811750+05:30'
+published_at: '2026-06-30T07:24:51Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 10062
+- workflows
+stars: 10068
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-06-29T14:24:17Z'
+pushed_at: '2026-06-30T03:44:23Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-06-29T21:45:32.356037+05:30'
-last_seen: '2026-06-29T21:45:32.356037+05:30'
-last_checked: '2026-06-29T21:45:32.356037+05:30'
+first_seen: '2026-06-30T15:35:10.811750+05:30'
+last_seen: '2026-06-30T15:35:10.811750+05:30'
+last_checked: '2026-06-30T15:35:10.811750+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for autonomous code generation and modification using LLMs (e.g., OpenAI, Anthropic) with streaming support.
-- **Multi-Provider LLM Integration**: Supports multiple LLM backends (OpenAI, Anthropic, ClaudeCode) with dynamic provider switching and context-aware prompt engineering for code tasks.
-- **Open-Source CLI Tool**: Provides a Python-based CLI (`open-swe`) for real-time code editing, issue resolution, and repository interaction with async I/O and task prioritization.
+- **Asynchronous Multi-Agent Framework**: Implements a distributed, event-driven architecture using Python's `asyncio` for concurrent task execution across multiple AI coding agents with non-blocking I/O operations.
+
+- **Tool Integration & LLM Agnosticism**: Supports pluggable LLM backends (OpenAI, Anthropic, etc.) and provides pre-built tools for repository cloning, file editing, and terminal command execution via structured API interfaces.
+
+- **State Management & Fault Tolerance**: Utilizes persistent task queues (e.g., Redis) for job scheduling and implements checkpointing to resume interrupted workflows, ensuring idempotency in long-running coding sessions.
 
 ## Why It Matters
 
@@ -41,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10062
-- Forks: 1153
+- Stars: 10068
+- Forks: 1155
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-06-29T15:05:04Z
+- Last Updated: 2026-06-30T07:24:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-06-29T14:24:17Z
+- Pushed At: 2026-06-30T03:44:23Z
 
 ## Possible Use Cases
 

@@ -40,9 +40,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Overview**: RAG combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external documents, addressing issues like hallucinations, outdated knowledge, and private data limitations.
+- **RAG Architecture**: Combines retrieval, augmentation, and generation to enhance LLM responses by dynamically fetching relevant external knowledge, addressing limitations in freshness, private knowledge, and hallucinations.
 
-- **Evolution of RAG**: Progressed from Naive RAG (basic vector search) to Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), with Modular RAG enabling dynamic routing and
+- **RAG Evolution**: Progressed from Naive RAG (basic retrieval) to Advanced RAG (hybrid search, reranking, query transformation) and Graph RAG (entity-relation graph-based retrieval for multi-hop reasoning).
+
+- **Implementation Frameworks**: Utilizes libraries like LangC
 
 ## Use Cases
 

@@ -4,11 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-06-30T10:08:00.524128+05:30'
+collected_at: '2026-06-30T15:34:35.787708+05:30'
 published_at: '2026-06-29T11:01:01Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 107
@@ -19,9 +21,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-06-30T10:08:00.524128+05:30'
-last_seen: '2026-06-30T10:08:00.524128+05:30'
-last_checked: '2026-06-30T10:08:00.524128+05:30'
+first_seen: '2026-06-30T15:34:35.787708+05:30'
+last_seen: '2026-06-30T15:34:35.787708+05:30'
+last_checked: '2026-06-30T15:34:35.787708+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-augmented multi-agent framework** leveraging graph-based retrieval for enhanced LLM reasoning, integrating agent-memory with structured knowledge graphs for dynamic context retention.
+- **Memory-based Multi-Agent System**: Introduces a novel framework combining memory mechanisms with multi-agent collaboration for Graph Retrieval-Augmented Generation (GraphRAG), enabling dynamic knowledge graph construction and retrieval.
 
-- **Ontology-driven graph construction** enables hierarchical knowledge representation, facilitating efficient subgraph retrieval and multi-agent collaboration via memory-optimized graph traversal.
+- **Ontology-Guided Graph Construction**: Implements ontology-driven techniques to automate and refine graph structure generation, improving semantic coherence and contextual relevance in RAG pipelines.
 
-- **GraphRAG integration** combines retrieval-augmented generation with graph neural networks, optimizing long-term memory retention and adaptive knowledge synthesis for complex multi-step reasoning tasks.
+- **Python-Based Implementation**: Provides an open-source Python repository with modular components for agent-memory integration, graph construction, and multi-agent orchestration, optimized for KDD 2026 benchmarking.
 
 ## Why It Matters
 

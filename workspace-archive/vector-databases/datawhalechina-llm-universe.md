@@ -12,8 +12,10 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
+- workflows
 selection_reason:
 - Active open-source repository
 ---
@@ -30,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Resource**: A beginner-friendly tutorial for developing LLM (Large Language Model) applications, structured as Jupyter Notebooks, covering topics like LangChain and RAG (Retrieval-Augmented Generation).
+- **Educational Resource**: A beginner-friendly tutorial for developing LLM applications, structured as Jupyter Notebooks, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
 
-- **Scalable Content**: Designed to scale from foundational concepts to advanced implementations, with an online version available at [datawhalechina.github.io/llm-universe](https://datawhalechina.github.io/llm-universe/).
+- **Technical Focus**: Covers LangChain and Retrieval-Augmented Generation (RAG) workflows for LLM application development.
 
-- **Active Maintenance**: Last updated on **2026-06-30**
+- **Repository Metrics**: 13,366 stars, 1,367 forks, last updated on 2026-06-30.
 
 ## Use Cases
 

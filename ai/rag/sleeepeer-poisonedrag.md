@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-06-30T10:07:35.495486+05:30'
+collected_at: '2026-06-30T15:34:10.671199+05:30'
 published_at: '2026-06-26T13:23:43Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
+- meta-ai
+- models
 - python
 - rag
 - reddit
@@ -21,9 +23,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-06-30T10:07:35.495486+05:30'
-last_seen: '2026-06-30T10:07:35.495486+05:30'
-last_checked: '2026-06-30T10:07:35.495486+05:30'
+first_seen: '2026-06-30T15:34:10.671199+05:30'
+last_seen: '2026-06-30T15:34:10.671199+05:30'
+last_checked: '2026-06-30T15:34:10.671199+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate targeted misinformation or biased outputs while maintaining high retrieval relevance.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate adversarially controlled outputs without direct model manipulation.
 
-- **Technical Mechanism**: Leverages *semantic poisoning* to embed adversarial triggers in document embeddings, exploiting the retrieval model's sensitivity to subtle perturbations, enabling attackers to manipulate retrieved context without direct access to the LLM or retrieval pipeline.
+- **Technical Mechanism**: Leverages *semantic poisoning* to embed malicious but contextually plausible snippets in the retrieval database, exploiting RAG’s reliance on external knowledge to mislead the LLM’s context-aware generation.
 
-- **Evaluation & Impact**: Demonstrates effectiveness across multiple RAG architectures (e.g., dense retrieval + LLMs) with minimal perturbation budgets, highlighting vulnerabilities in trustworthy AI systems and proposing mitigation strategies like adversarial training and robust embedding defenses.
+- **Evaluation & Impact**: Validates attack efficacy on multiple LLMs (e.g., Llama2, Vicuna) and RAG pipelines, showing high success rates in inducing targeted misinformation or biased responses while evading detection via standard safety filters.
 
 ## Why It Matters
 

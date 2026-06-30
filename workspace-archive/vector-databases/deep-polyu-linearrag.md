@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - dataset
 - github-repo
 - python
@@ -32,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing LLM performance via graph-based indexing and retrieval mechanisms.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel RAG framework leveraging linear graph structures for efficient retrieval in large-scale corpora, optimizing LLM performance via graph-based indexing and query routing.
 
-- **Scalability & Efficiency**: Implements linear-time graph traversal algorithms (O(V+E)) for retrieval, enabling scalable processing of massive document collections while maintaining low latency and high throughput.
+- **Scalable Architecture**: Implements a linear-time graph traversal mechanism (O(V+E)) for retrieval, enabling sub-linear query latency on massive datasets (e.g., >1M documents) while maintaining high recall/precision.
 
-- **ICLR 2026 Contribut
+- **Python Implementation**
 
 ## Use Cases
 

@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://vercel.com
-published_at: '2026-06-24T10:15:45.715563+05:30'
-collected_at: '2026-06-24T10:15:45.715576+05:30'
+published_at: '2026-06-30T15:39:19.720255+05:30'
+collected_at: '2026-06-30T15:39:19.720268+05:30'
 tags:
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 status: active
 resource_id: blog:agentic-infrastructure
-first_seen: '2026-06-24T10:15:45.715576+05:30'
-last_seen: '2026-06-24T10:15:45.715576+05:30'
-last_checked: '2026-06-24T10:15:45.715576+05:30'
+first_seen: '2026-06-30T15:39:19.720268+05:30'
+last_seen: '2026-06-30T15:39:19.720268+05:30'
+last_checked: '2026-06-30T15:39:19.720268+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Deployment & Automation**: Vercel provides infrastructure for coding agents to autonomously deploy apps and agents using APIs, CLI, MCP, and Skills, with sandboxed VMs, durable backends, and error resolution via automated PRs.
+- **Agentic Deployment Infrastructure**: Enables autonomous deployment of applications and agents via Vercel's API, CLI, MCP, and Skills, supporting sandboxed VMs with durable backends and multi-model execution.
 
-- **Scalable Serverless Platform**: Supports zero-to-millions scaling with global delivery, serverless functions, and WAF, exemplified by Zapier serving 100M+ monthly visits.
+- **Scalable Serverless Architecture**: Supports instant scaling from zero to millions of users with global delivery, serverless functions, and a Web Application Firewall (WAF), as demonstrated by Zapier’s 100M+ monthly visits.
 
-- **Multi-Tenant Hosting Features**: Offers tenant isolation, domain management, custom SSL, and preview URLs, enabling platforms like Mintlify to host 20K+ companies' documentation.
+- **Multi-Tenant Platform Features**: Provides tenant isolation, domain management, custom SSL certificates, and preview URLs for hosting platforms like Mintlify, which serves 20K+ companies’ documentation.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-24T10:15:45.715563+05:30
+- Published: 2026-06-30T15:39:19.720255+05:30
 
 ## Related Tags
 
 - agents
 - rag
-- scripts
 - web-crawled
 - workflows
 

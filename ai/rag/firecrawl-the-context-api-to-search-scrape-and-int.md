@@ -4,9 +4,9 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://firecrawl.dev/
-published_at: '2026-06-25T16:40:06.314717+05:30'
-collected_at: '2026-06-25T16:40:06.314726+05:30'
+source_url: https://firecrawl.dev
+published_at: '2026-06-30T15:37:12.834200+05:30'
+collected_at: '2026-06-30T15:37:12.834216+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
-first_seen: '2026-06-25T16:40:06.314726+05:30'
-last_seen: '2026-06-25T16:40:06.314726+05:30'
-last_checked: '2026-06-25T16:40:06.314726+05:30'
+first_seen: '2026-06-30T15:37:12.834216+05:30'
+last_seen: '2026-06-30T15:37:12.834216+05:30'
+last_checked: '2026-06-30T15:37:12.834216+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-format Web Extraction**: Supports structured outputs (Markdown, JSON) and screenshots, with 93% fewer input tokens by excluding non-essential content (navs, footers, ads).
+- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval with minimal noise.
 
-- **Real-time Web Interaction**: Enables AI agents to perform dynamic actions (click, scroll, type) and interact with JavaScript-heavy pages via a unified API.
+- **Multi-Format Web Data Extraction**: Supports real-time scraping into structured formats (Markdown, JSON) with embedded screenshots, PDF/DOCX parsing, and interactive page manipulation (clicks, navigation, form filling) via API/SDK.
 
-- **Open-Source Infrastructure**: Provides a high-performance, 96% coverage web scraping/crawling toolkit with P95 latency of 3.4s, optimized for AI agent integration.
+- **Performance & Reliability Metrics**: Achieves 96% web coverage (including JS-heavy pages), 3.4s P95 latency, and 93% token reduction by excluding non-essential content, with open-source core (141.8K GitHub stars) and enterprise-grade scalability.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-25T16:40:06.314717+05:30
+- Published: 2026-06-30T15:37:12.834200+05:30
 
 ## Related Tags
 
@@ -65,4 +65,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://firecrawl.dev/
+Original source: https://firecrawl.dev

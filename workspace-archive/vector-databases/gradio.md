@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Gradio 6.0 Release**: Introduces new features and improvements for faster, more efficient ML app development with enhanced UI components and deployment capabilities.
+- **Gradio 6** introduces rapid ML web app development with **40+ pre-built components** (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`) for handling diverse data types (images, audio, 3D, dataframes) without frontend expertise.
 
-- **40+ Pre-built Components**: Supports diverse data types (images, audio, video, 3D, dataframes) with minimal code, eliminating frontend (JS/CSS) requirements.
+- **Deployment flexibility** via `demo.launch(share=True)` for instant local sharing or **Hugging Face Spaces** for permanent, auto-scaling hosting with a shareable URL.
 
-- **Instant Deployment & Sharing**: Enables one-command hosting on Hugging Face Spaces and shareable public links via `demo.launch(share=True)` for rapid prototyping
+- **Lightning-fast setup** with `pip install gradio` and minimal Python code (e.g., `gr.Interfac
 
 ## Use Cases
 

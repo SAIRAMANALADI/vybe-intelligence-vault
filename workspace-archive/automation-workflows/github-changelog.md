@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Integration Update**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing real-time code generation and assistance.
-- **Performance Optimization**: Fast mode prioritizes **lower-latency inference**, improving responsiveness for interactive development workflows.
-- **Preview Availability**: Feature is currently in **limited preview** under GitHub Copilot’s changelog updates for June 29, 2026.
+- **Integration**: GitHub Copilot now supports **Claude Opus 4.8 (fast mode)** in preview, enhancing AI-assisted coding workflows.
+- **Performance**: Optimized for **faster inference** while maintaining high accuracy in code generation and contextual understanding.
+- **Availability**: Currently in **preview phase** for GitHub Copilot users, with broader rollout anticipated.
 
 ## Use Cases
 

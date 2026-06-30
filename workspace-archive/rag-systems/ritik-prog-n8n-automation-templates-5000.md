@@ -12,7 +12,6 @@ resource_kind: template
 importance: high
 tags:
 - github-repo
-- hackernews
 - rag
 - scripts
 - unknown
@@ -36,8 +35,8 @@ selection_reason:
 ## Summary
 
 - **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** spanning AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Metadata**: 408 stars, 164 forks, last updated **2026-06-29T11:29:06Z**, open-source and free.
-- **Technical Scope**: Templates designed for **real-world automation** with no specified primary language or topics.
+- **Metadata**: **409 stars**, **164 forks**, last updated **2026-06-30T06:44:25Z**, language unspecified.
+- **License**: **Free and open-source**, no explicit topics listed.
 
 ## Use Cases
 

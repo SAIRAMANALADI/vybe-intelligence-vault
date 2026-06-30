@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-30T10:08:05.504765+05:30'
+collected_at: '2026-06-30T15:34:35.766400+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
+- paper
 - python
 - rag
 stars: 172
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-30T10:08:05.504765+05:30'
-last_seen: '2026-06-30T10:08:05.504765+05:30'
-last_checked: '2026-06-30T10:08:05.504765+05:30'
+first_seen: '2026-06-30T15:34:35.766400+05:30'
+last_seen: '2026-06-30T15:34:35.766400+05:30'
+last_checked: '2026-06-30T15:34:35.766400+05:30'
 health_score: 100
 ---
 
@@ -28,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation across diverse data modalities (e.g., text, images, tables) and granularities (e.g., document, paragraph, sentence), leveraging a unified framework for heterogeneous corpora.
+- **Framework Overview**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a unified RAG framework supporting diverse modalities (text, images, tables) and granularities (document, paragraph, sentence) via modality-agnostic retrieval and generation.
 
-- **ACL 2026 Oral Presentation**: The system is highlighted as an oral presentation at ACL 2026, indicating significant advancements in scalable, cross-modal retrieval and generation for large language models (LLMs).
+- **Technical Architecture**: Implements a two-stage pipeline—(1) modality-agnostic retriever (e.g., contrastive embeddings) and (2) modality-specific generators (e.g., LLMs, diffusion models) with cross-modal attention for fused context integration.
 
-- **Python Implementation**: The framework is implemented in Python, supporting modular integration with existing LLM pipelines and retrieval systems, with open-source availability for research and development.
+- **Key Innovation**: Enables zero-shot or few-shot adaptation across modalities via shared latent spaces and granularity-aware retrieval, validated on benchmarks spanning text, images, and structured data.
 
 ## Why It Matters
 

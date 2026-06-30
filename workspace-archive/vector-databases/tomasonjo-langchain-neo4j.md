@@ -8,7 +8,7 @@ local_vault_path: ai/rag/tomasonjo-langchain-neo4j.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: workflow
 importance: medium
 tags:
 - github-repo
@@ -25,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: workflow
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Repository**: `tomasonjo/langchain-neo4j` is a Python-based repository with 0 stars and 1 fork, last updated on 2024-12-09.
-- **Purpose**: Integrates LangChain with Neo4j, likely for graph-based data processing or retrieval-augmented generation (RAG) workflows.
-- **Status**: Minimal activity (no topics, low engagement) as of the last commit.
+- **Repository**: `tomasonjo/langchain-neo4j` – A Python-based repository integrating LangChain with Neo4j for graph-based workflows.
+- **Metadata**: 0 stars, 1 fork, last updated `2024-12-09T14:18:02Z`.
+- **Purpose**: Unspecified, but implies a toolkit for leveraging Neo4j graph databases within LangChain applications.
 
 ## Use Cases
 

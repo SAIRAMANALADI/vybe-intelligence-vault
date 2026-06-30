@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,845</p>
-        <p><b>Active:</b> 10,568 | <b>Inactive:</b> 277</p>
+        <p><b>Resources tracked:</b> 10,864</p>
+        <p><b>Active:</b> 10,586 | <b>Inactive:</b> 278</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,358</p>
+        <p><b>Archive Files:</b> 41,408</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 13:26 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 15:49 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,20 +55,25 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[truefoundry/cognita](ai/rag/truefoundry-cognita.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[RUC-NLPIR/FlashRAG](ai/rag/ruc-nlpir-flashrag.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • <kbd>+129 pts</kbd>
+- 🔼 **[GitHub Copilot CLI · GitHub](ai/agents/features-copilot.md)** • Rank: <kbd>+45</kbd>
+- 🔼 **[Neo4j · GitHub](ai/rag/neo4j-github.md)** • Rank: <kbd>+2125</kbd>
+- 🔼 **[Free book: Essential GraphRAG from Manning Publications - Neo4j](ai/rag/free-book-essential-graphrag-from-manning-publicat.md)** • Rank: <kbd>+2169</kbd>
+- 🔼 **[Python Packaging Authority — PyPA documentation](ai/resources/python-packaging-authority-pypa-documentation.md)** • Rank: <kbd>+1486</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[Melvor Idle 2 on Steam](ai/rag/melvor-idle-2-on-steam.md)** • Score: `0`
+- 🆕 **[Games by Malcs :: Home](ai/resources/games-by-malcs-home.md)** • Score: `0`
+- 🆕 **[NFL Sunday Ticket pricing & billing - YouTube TV Help](ai/rag/nfl-sunday-ticket-pricing-billing-youtube-tv-help.md)** • Score: `0`
+- 🆕 **[GraphAcademy — Free, Hands-On Neo4j Training & Certification](ai/rag/free-self-paced-hands-on-online-training-free-neo4.md)** • Score: `0`
+- 🆕 **[typing/conformance at main · python/typing · GitHub](ai/resources/python-typing.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Working With AI: A concrete example](ai/community/working-with-ai-a-concrete-example.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

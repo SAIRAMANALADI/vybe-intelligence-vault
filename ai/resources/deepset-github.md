@@ -4,15 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/deepset
-published_at: '2026-06-30T01:52:23.664274+05:30'
-collected_at: '2026-06-30T01:52:23.664287+05:30'
+published_at: '2026-06-30T15:37:34.056033+05:30'
+collected_at: '2026-06-30T15:37:34.056047+05:30'
 tags:
+- hackernews
 - web-crawled
 status: active
 resource_id: blog:deepset-github
-first_seen: '2026-06-30T01:52:23.664287+05:30'
-last_seen: '2026-06-30T01:52:23.664287+05:30'
-last_checked: '2026-06-30T01:52:23.664287+05:30'
+first_seen: '2026-06-30T15:37:34.056047+05:30'
+last_seen: '2026-06-30T15:37:34.056047+05:30'
+last_checked: '2026-06-30T15:37:34.056047+05:30'
 health_score: 100
 ---
 
@@ -20,14 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 10 followers, and 1 following, primarily focused on Go-based tools and educational resources.
+- **Organization Profile**: `deepset` is a GitHub organization with 5 public repositories, 0 projects, 0 packages, and 0 stars, managed by a single user with 10 followers and 1 following.
 
-- **Key Repositories**:
-  - [`httphashtool`](https://github.com/deepset/httphashtool): A Go utility for HTTP hash computations.
-  - [`go-patterns`](https://github.com/deepset/go-patterns): A curated collection of Go design patterns, idioms, and best practices.
-  - [`most-active-cookie`](https://github.com/deepset/most-active-cookie): A Go application for identifying the most frequent cookie in a log file using binary search.
+- **Repository Focus**: Primary repositories include `httphashtool` (Go-based HTTP hash tool), `go-patterns` (curated Go design patterns), `most-active-cookie` (log file analysis via binary search), `node-express-course` (Node.js/Express.js tutorial), and `tweether` (JSON data parser).
 
-- **Educational Content**: Includes [`node-express-course`](https://github.com/deepset/node-express-course) for Node.js/Express.js server fundamentals and [`tweether`](https://github.com/deepset/tweether), a Go-based JSON data parser.
+- **Technical Stack**: All repositories are implemented in Go, with one additional Node.js/Express.js course repository, indicating a strong emphasis on backend development and algorithmic problem-solving.
 
 ## Why It Matters
 
@@ -37,10 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T01:52:23.664274+05:30
+- Published: 2026-06-30T15:37:34.056033+05:30
 
 ## Related Tags
 
+- hackernews
 - web-crawled
 
 ## Source

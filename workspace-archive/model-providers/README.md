@@ -9,24 +9,24 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 ## Top Matched Resources
 
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page) (framework - ESSENTIAL Tier)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) (framework - ESSENTIAL Tier)
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [tomasonjo/kg-rag](https://github.com/tomasonjo/kg-rag) (prompt - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/openai/openai-python (OpenAI SDK)
 https://github.com/google/generative-ai-python (Gemini SDK)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack?source=post_page)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 - [Mem0 · GitHub](https://github.com/mem0ai)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-30 10:22 IST*
+*Last updated: 2026-06-30 15:48 IST*

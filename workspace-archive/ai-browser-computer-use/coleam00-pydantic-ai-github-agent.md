@@ -8,12 +8,11 @@ local_vault_path: ai/agents/coleam00-pydantic-ai-github-agent.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - youtube
 selection_reason:
@@ -26,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Purpose**: Demonstrates end-to-end development of an AI agent for GitHub interactions, covering the full pipeline from conceptualization to production deployment.
-- **Technical Stack**: Built in Python using Pydantic for data validation and structured outputs, with GitHub API integration for agent functionality.
-- **Repository Status**: Last updated in May 2026, with 65 stars and 23 forks, indicating active community engagement.
+- **Purpose**: Demonstrates end-to-end development of an AI agent for GitHub interactions, covering design, implementation, and deployment as part of a YouTube series.
+- **Tech Stack**: Built in Python using Pydantic for data validation and AI agent orchestration.
+- **Repository Stats**: 65 stars, 23 forks, last updated May 11, 2026.
 
 ## Use Cases
 

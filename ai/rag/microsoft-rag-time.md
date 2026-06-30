@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/rag-time
-collected_at: '2026-06-30T10:06:25.483733+05:30'
+collected_at: '2026-06-30T15:32:55.690823+05:30'
 published_at: '2026-06-28T15:57:16Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -14,6 +15,7 @@ tags:
 - openai
 - rag
 - reddit
+- workflows
 stars: 888
 language: Jupyter Notebook
 status: active
@@ -22,9 +24,9 @@ archived: false
 created_at: '2024-12-11T17:25:02Z'
 pushed_at: '2025-06-17T15:00:20Z'
 resource_id: github:microsoft/rag-time
-first_seen: '2026-06-30T10:06:25.483733+05:30'
-last_seen: '2026-06-30T10:06:25.483733+05:30'
-last_checked: '2026-06-30T10:06:25.483733+05:30'
+first_seen: '2026-06-30T15:32:55.690823+05:30'
+last_seen: '2026-06-30T15:32:55.690823+05:30'
+last_checked: '2026-06-30T15:32:55.690823+05:30'
 health_score: 100
 ---
 
@@ -32,11 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Mastery Guide**: 5-week structured learning path covering retrieval-augmented generation (RAG) fundamentals to advanced topics like hybrid search, vector indexing (HNSW), and quantization techniques (binary/scalar) for efficient LLM retrieval.
-
-- **Multimodal & Azure Integration**: Hands-on labs using Azure AI services, OpenAI models, and Matryoshka representation learning for scalable, cross-modal RAG applications with responsible AI practices.
-
-- **Toolchain & Optimization**: Demonstrates deployment in VS Code with hybrid search pipelines, keyword-to-vector conversion, and performance tuning via advanced indexing strategies (e.g., HNSW, scalar/binary quantization).
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient indexing.
+- **Tools & Integration**: Hands-on labs using Azure, OpenAI APIs, HNSW for vector search, and VS Code; includes responsible AI practices and multimodal RAG workflows.
+- **Optimization Focus**: Techniques for scalar/binary quantization, hybrid search tuning, and performance benchmarks across LLM-based retrieval-augmented generation systems.
 
 ## Why It Matters
 

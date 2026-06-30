@@ -4,10 +4,9 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://jupyter.org
-published_at: '2026-06-29T01:23:02.480400+05:30'
-collected_at: '2026-06-29T01:23:02.480416+05:30'
+published_at: '2026-06-30T15:38:10.980857+05:30'
+collected_at: '2026-06-30T15:38:10.980874+05:30'
 tags:
-- models
 - rag
 - reddit
 - web-crawled
@@ -15,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:project-jupyter-home
-first_seen: '2026-06-29T01:23:02.480416+05:30'
-last_seen: '2026-06-29T01:23:02.480416+05:30'
-last_checked: '2026-06-29T01:23:02.480416+05:30'
+first_seen: '2026-06-30T15:38:10.980874+05:30'
+last_seen: '2026-06-30T15:38:10.980874+05:30'
+last_checked: '2026-06-30T15:38:10.980874+05:30'
 health_score: 100
 ---
 
@@ -25,11 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular Architecture**: JupyterLab extends Jupyter Notebook with a modular, extensible interface supporting multi-tab workspaces, drag-and-drop layouts, and real-time collaboration via a plugin system.
-
-- **Multi-Language & Big Data Support**: Native integration with 40+ languages (Python, R, Julia) and big data frameworks (Apache Spark, TensorFlow, pandas), enabling unified workflows from data exploration to ML deployment.
-
-- **Scalable Deployment & Sharing**: JupyterHub enables centralized, containerized (Docker/Kubernetes) deployments with pluggable authentication (PAM/OAuth), while Voilà transforms notebooks into shareable, secure web apps for dissemination.
+- **JupyterLab** is a modular, extensible web-based IDE supporting notebooks, code, and data workflows with multi-document workspaces and rich interactive outputs (HTML, LaTeX, videos, etc.).
+- **Jupyter Notebook** is the classic JSON-based document format for computational narratives, supporting 40+ languages and integrating with big data tools (Spark, pandas, TensorFlow) via pluggable kernels.
+- **JupyterHub** enables centralized, scalable deployments with pluggable authentication (PAM/OAuth), Docker/Kubernetes containerization, and multi-user isolation for enterprise/research environments.
 
 ## Why It Matters
 
@@ -39,11 +36,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:23:02.480400+05:30
+- Published: 2026-06-30T15:38:10.980857+05:30
 
 ## Related Tags
 
-- models
 - rag
 - reddit
 - web-crawled

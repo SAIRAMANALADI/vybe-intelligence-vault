@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Provides a beginner-friendly guide to building a Retrieval-Augmented Generation (RAG) system from scratch in Python, avoiding abstracted solutions.
-- **Core components**: Covers essential RAG pipeline elements, including document retrieval, embedding generation, and LLM integration, with practical code examples.
-- **No external dependencies**: Focuses on minimal abstraction, using fundamental Python libraries (e.g., `sentence-transformers`, `faiss`) for mod
+- **Step-by-step RAG implementation**: Provides a beginner-friendly Python guide to building a Retrieval-Augmented Generation (RAG) system from scratch without abstracted libraries.
+- **Core components**: Covers essential RAG pipeline elements (document retrieval, embedding generation, and LLM integration) using foundational Python tools.
+- **Updated repository**: Last modified on **2026-02-13**, with no prior forks/stars, indicating an early-stage, hands-on tutorial.
 
 ## Use Cases
 

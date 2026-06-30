@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-29T01:20:55.963084+05:30'
-collected_at: '2026-06-29T01:20:55.963096+05:30'
+published_at: '2026-06-30T15:41:09.063233+05:30'
+collected_at: '2026-06-30T15:41:09.063245+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-29T01:20:55.963096+05:30'
-last_seen: '2026-06-29T01:20:55.963096+05:30'
-last_checked: '2026-06-29T01:20:55.963096+05:30'
+first_seen: '2026-06-30T15:41:09.063245+05:30'
+last_seen: '2026-06-30T15:41:09.063245+05:30'
+last_checked: '2026-06-30T15:41:09.063245+05:30'
 health_score: 100
 ---
 
@@ -22,14 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j** is a graph database management system implemented in Java, providing ACID-compliant transactions, native graph storage, and processing with Cypher query language support.
+- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage optimizations for high-performance traversals.
 
-- **Core repositories** include:
-  - `neo4j` (Java-based core DB, 16.8k stars)
-  - `graph-data-science` (Java library for graph algorithms, 801 stars)
-  - Multi-language Bolt drivers (`neo4j-java-driver`, `neo4j-python-driver`, etc.).
+- **Graph Data Science Library**: Provides scalable implementations of graph algorithms (e.g., PageRank, community detection) via the `graph-data-science` repository (803 stars), designed for integration with Neo4j’s property graph model.
 
-- **Key integrations** span AWS Glue, Apache Spark (Scala), and Kafka connectors, with additional tools like `apoc` (Java-based procedures) and Python graph visualization libraries.
+- **Multi-Language Bolt Drivers**: Official drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), and Scala (320 stars) enable Bolt protocol communication with Neo4j, supporting typed data exchange and session management.
 
 ## Why It Matters
 
@@ -39,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:20:55.963084+05:30
+- Published: 2026-06-30T15:41:09.063233+05:30
 
 ## Related Tags
 

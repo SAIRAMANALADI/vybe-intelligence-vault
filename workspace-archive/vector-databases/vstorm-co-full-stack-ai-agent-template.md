@@ -6,10 +6,10 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 75
-archive_tier: useful
+archive_score: 85
+archive_tier: essential
 resource_kind: template
-importance: medium
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -25,18 +25,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 75 (useful)
+- Quality score: 70 | Archive score: 85 (essential)
 - Resource kind: template
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, featuring PostgreSQL for data persistence and Docker for containerization.
+- **Tech Stack**: Full-stack AI application template combining FastAPI (backend) and Next.js (frontend) with Docker containerization, PostgreSQL for storage, and WebSocket for real-time streaming.
 
-- **AI Capabilities**: Pre-integrated with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG (Retrieval-Augmented Generation), real-time streaming via WebSocket, and 20+ third-party integrations.
+- **AI Capabilities**: Pre-integrated with AI agent frameworks (CrewAI, LangChain, LangGraph, Pydantic-AI), RAG pipelines, and 20+ third-party integrations for rapid AI agent development.
 
-- **Features**: Built-in authentication, Pydantic models (Deep/Standard) for data validation,
+- **Key Features**: Built-in authentication, Pydantic-Deep for structured data validation, and TypeScript/React f
 
 ## Use Cases
 

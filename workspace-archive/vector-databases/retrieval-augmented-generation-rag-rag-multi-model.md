@@ -6,11 +6,14 @@ source_url: https://rag.readthedocs.io/
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
 local_vault_path: ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md
 quality_score: 70
-archive_score: 72
+archive_score: 76
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- meta-ai
+- mistral
+- models
 - rag
 - web-crawled
 - workflows
@@ -24,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -32,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval systems (e.g., document embeddings, vector databases) with generative models (e.g., LLMs) to enhance contextual relevance and factual accuracy in outputs by dynamically fetching relevant data during generation.
+- **RAG Architecture**: Combines retrieval systems (e.g., vector databases) with generative models (e.g., LLMs) to enhance contextual relevance by fetching relevant documents before generating responses.
 
-- **Streamlit Implementation**: Modular Python application with backend processing (e.g., `process_pdf.py`, `question_handler.py`) for document splitting, QA chains, summarization, and translation, integrated via a UI with model selection and PD
+- **Streamlit Implementation**: Demonstrates a modular Python application with components for PDF processing (`process_pdf.py`), Q&A (`question_handler.py`), summarization (`summarizer.py`), and translation (`translator.py`), integrated via chain functions.
+
+- **Key Workflow**: Includes documen
 
 ## Use Cases
 

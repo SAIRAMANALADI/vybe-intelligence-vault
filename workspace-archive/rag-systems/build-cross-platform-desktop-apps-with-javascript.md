@@ -19,7 +19,6 @@ tags:
 - scripts
 - threejs
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -39,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for native APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
-- **Security & Maintenance**: Releases sync with Chromium updates for immediate security patches; supports native add-ons via Node.js bindings for extensibility.
-- **Distribution & Tooling**: Provides auto-updater, platform-specific installers (DMG/MSI/RPM), and app store support; Electron Forge simplifies build/publish workflows.
+- **Architecture**: Electron combines Chromium's rendering engine with Node.js runtime, enabling cross-platform desktop app development using JavaScript, HTML, and CSS.
+- **Security & Stability**: Releases are synchronized with Chromium updates, ensuring timely security patches and a stable rendering target with modern web features.
+- **Extensibility & Tooling**: Supports npm packages, native add-ons, and tools like Electron Forge for building/publishing; includes modules for auto-updates, crash
 
 ## Use Cases
 

@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-06-30T10:08:50.532030+05:30'
+collected_at: '2026-06-30T15:35:25.775460+05:30'
 published_at: '2026-06-29T07:35:47Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
-- scripts
 - workflows
 stars: 903
 language: Python
@@ -22,9 +20,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-06-30T10:08:50.532030+05:30'
-last_seen: '2026-06-30T10:08:50.532030+05:30'
-last_checked: '2026-06-30T10:08:50.532030+05:30'
+first_seen: '2026-06-30T15:35:25.775460+05:30'
+last_seen: '2026-06-30T15:35:25.775460+05:30'
+last_checked: '2026-06-30T15:35:25.775460+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from "vibe coding" to structured agentic engineering using Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for AI-driven development workflows.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular, autonomous agent-based workflows for software development.
 
-- **CLI-Centric Best Practices**: Provides a curated set of Codex CLI commands, skills, and hooks for OpenAI's Codex, optimizing agentic task execution with context-aware execution pipelines and reusable automation patterns.
+- **CLI-Centric Development**: Provides best practices for Codex CLI, including custom *hooks*, *skills*, and *commands* to enhance AI-driven coding efficiency, context engineering, and multi-agent collaboration.
 
-- **Open-Source Pakistani Developer Initiative**: Repository serves as a technical reference for agentic AI workflows, showcasing Pakistan-based contributions to Codex CLI tooling, hooks, and best practices for scalable AI agent deployments.
+- **Open-Source Contribution Framework**: Serves as a Pakistan-based reference for AI agentic development, offering reusable patterns, CLI configurations, and documentation to standardize agentic engineering workflows.
 
 ## Why It Matters
 

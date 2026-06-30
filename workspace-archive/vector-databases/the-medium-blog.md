@@ -26,11 +26,11 @@ selection_reason:
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured XML-based indexing of all published content, enabling search engine crawlers to efficiently discover and index blog posts, static pages, and media assets.
+- **Medium’s sitemap.xml** provides structured indexing of all public-facing URLs, enabling efficient crawling and SEO optimization for search engines.
 
-- **Medium’s navigation and authentication flows** leverage URL-encoded redirects (`redirect=https%3A%2F%2F...`) for seamless user transitions between sign-in, sign-up, and content creation workflows, ensuring session persistence via `utm_source` and `referrer` parameters.
+- **Medium’s Android app** (`com.medium.reader`) integrates deep linking via `utm_source=mobileNavBar` for tracking user acquisition from the mobile navigation bar.
 
-- **Medium’s editorial
+- **Medium’s newsletter subscription** (`/newsletter`) leverages weekly content delivery, with promotional imagery dynamically resized (`fit:500/900`) for responsive web display.
 
 ## Use Cases
 

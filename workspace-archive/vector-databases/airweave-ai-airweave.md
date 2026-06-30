@@ -6,7 +6,7 @@ source_url: https://github.com/airweave-ai/airweave
 resource_id: github:airweave-ai/airweave
 local_vault_path: ai/rag/airweave-ai-airweave.md
 quality_score: 70
-archive_score: 77
+archive_score: 75
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -15,9 +15,7 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
-- Strong keyword match
 - Useful for project building
 ---
 
@@ -26,19 +24,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
-  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Open-source context retrieval layer**: Provides a modular, API-driven infrastructure for AI agents to dynamically fetch and integrate contextual data from enterprise sources (e.g., databases, APIs, documents) for enhanced LLM performance.
+- **Open-source context retrieval layer**: Provides a Python-based SDK for AI agents to dynamically fetch and integrate relevant context from enterprise data sources via semantic search and retrieval-augmented generation (RAG).
 
-- **Multi-protocol data connectors**: Supports semantic search, vector databases, and structured/unstructured data retrieval via pre-built integrations (e.g., PostgreSQL, Elasticsearch, S3) with real-time sync capabilities.
+- **Enterprise data integration**: Supports connectors for structured/unstructured data (e.g., databases, APIs, documents) with a search API enabling low-latency, semantic queries for context-aware AI responses.
 
-- **Developer-focused SDK**: Of
+- **Scalable agent infrastructure**: Designed for producti
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-06-30T10:07:15.560871+05:30'
+collected_at: '2026-06-30T15:33:50.844119+05:30'
 published_at: '2026-06-29T14:28:04Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-30T03:17:43Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-06-30T10:07:15.560871+05:30'
-last_seen: '2026-06-30T10:07:15.560871+05:30'
-last_checked: '2026-06-30T10:07:15.560871+05:30'
+first_seen: '2026-06-30T15:33:50.844119+05:30'
+last_seen: '2026-06-30T15:33:50.844119+05:30'
+last_checked: '2026-06-30T15:33:50.844119+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for generation, enabling ChatGPT-style and Q&A interactions.
-- **Azure Integration**: Leverages **Azure Developer CLI (azd) templates** and **Python** for deployment, adhering to Azure best practices for scalability and security.
-- **Preconfigured Features**: Includes common RAG requirements (e.g., document ingestion, vector search, prompt engineering) with modular architecture for customization.
+- **RAG Pattern Implementation**: Deploys Azure AI Search for retrieval and Azure OpenAI LLMs for generating ChatGPT-style and Q&A responses, adhering to common enterprise requirements and best practices.
+
+- **Azure Deployment Templates**: Includes AZD (Azure Developer CLI) templates for streamlined provisioning of Azure resources (e.g., AI Search, OpenAI, storage) in a production-ready configuration.
+
+- **Python-Based Solution**: Provides a Python-based reference architecture with modular components for indexing, retrieval, and chat orchestration, optimized for scalability and integration with Azure services.
 
 ## Why It Matters
 

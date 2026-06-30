@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-30T10:06:55.459435+05:30'
+collected_at: '2026-06-30T15:33:25.646139+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - jupyter notebook
 - models
 - rag
-- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -22,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-30T10:06:55.459435+05:30'
-last_seen: '2026-06-30T10:06:55.459435+05:30'
-last_checked: '2026-06-30T10:06:55.459435+05:30'
+first_seen: '2026-06-30T15:33:25.646139+05:30'
+last_seen: '2026-06-30T15:33:25.646139+05:30'
+last_checked: '2026-06-30T15:33:25.646139+05:30'
 health_score: 100
 ---
 
@@ -32,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and optimization via interactive exploration of retrieval, generation, and evaluation metrics.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for a web-based, user-friendly interface, allowing dynamic interaction with RAG components (e.g., query reformulation, context retrieval, LLM outputs) and supporting custom dataset integration for tailored evaluations.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based visualization, allowing users to inspect RAG components (e.g., retrieval mechanisms, LLM responses) in real-time with Python-based notebooks.
 
-- **Modular Python Architecture**: Built in Python with modular design for extensibility, supporting integration with LLMs (e.g., via LangChain) and enabling visualization of multi-stage RAG workflows (e.g., embedding retrieval, prompt engineering, response synthesis).
+- **Modular Python Framework**: Designed for extensibility, supporting custom RAG pipelines with visualization hooks for debugging, performance analysis, and comparative evaluation of retrieval strategies.
 
 ## Why It Matters
 

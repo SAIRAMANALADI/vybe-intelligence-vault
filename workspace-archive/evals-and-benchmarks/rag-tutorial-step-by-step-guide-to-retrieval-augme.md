@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
-resource_kind: framework
+resource_kind: dataset
 importance: medium
 tags:
 - benchmark
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -30,18 +30,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: framework
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: A 5-step pipeline (Load, Chunk, Embed, Retrieve, Generate) that augments LLM responses with real-time retrieval from external knowledge bases, ensuring accuracy, auditability, and updatability without fine-tuning.
+- **RAG Architecture**: Five-step pipeline—load documents, chunk text, embed chunks into vectors, retrieve semantically similar chunks via vector similarity search, and generate answers using an LLM with retrieved context to mitigate hallucinations and ensure traceability.
 
-- **Core Components**: Uses `langchain` for document processing, `ChromaDB` for vector storage, and OpenAI embeddings (`text-embedding-3-small`) with recursive chunking (512 tokens, 50-token overlap) to balance semantic context and retrieval efficiency.
-
-- **Pr
+- **Implementation Stack**: Uses `langchain` for orchestration, `ChromaDB` as the vector store, and OpenAI’s `text-embedding-3-small` for embeddings; supports modular swapping of components (e.g., Pinecone, pgvector, or Huggi
 
 ## Use Cases
 

@@ -3,13 +3,13 @@ title: Firecrawl - The context API to search, scrape, and interact with the web 
   scale. 🔥
 archive_category: observability
 source_category: ai/rag
-source_url: https://firecrawl.dev/
+source_url: https://firecrawl.dev
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
 local_vault_path: ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: high
 tags:
 - agents
@@ -24,7 +24,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥
@@ -33,18 +33,18 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-format Web Extraction**: Supports structured outputs (Markdown, JSON) and screenshots, with 93% fewer input tokens by excluding non-essential content (navs, footers, ads).
+- **Specialized AI/ML Research Index**: Firecrawl Research Index provides state-of-the-art (SOTA) recall for AI/ML research, optimized for high-precision data retrieval with minimal noise.
 
-- **Real-time Web Interaction**: Enables AI agents to perform dynamic actions (click, scroll, type) and interact with JavaScript-heavy pages via a unified API.
+- **Multi-Format Web Data Extraction**: Supports real-time scraping into structured formats (Markdown, JSON) with embedded screenshots, PDF/DOCX parsing, and interactive page manipulation (clicks, navigation, form filling) via API/SDK.
 
-- **Open-Source Infrastructure**: Provides a high-performance, 96% coverage web scraping/crawling toolkit with P95 latency of 3.4s, optimized for AI agent i
+- **Performance & Reliability Metrics**: Achieves 96% web coverage (inclu
 
 ## Use Cases
 
@@ -54,7 +54,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://firecrawl.dev/
+Original source URL: https://firecrawl.dev
 
 ## Local Vault File
 

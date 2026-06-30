@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- dataset
 - github-repo
 - python
 - rag
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
-
-- **Modular Python Framework**: Open-source toolkit written in Python, designed for extensibility with customizable pipelines for document ingestion, retrieval, and LLM interaction.
-
-- **Document Processing Pipeline**: Supports multi-format document ingestion (PDFs, text, etc.)
+- **RAG-based Chatbot Framework**: Open-source Python tool leveraging Retrieval-Augmented Generation (RAG) to enable document-based conversational AI with LLMs.
+- **Modular Architecture**: Supports customizable pipelines for document ingestion, retrieval, and response generation, optimized for scalability and extensibility.
+- **Integration-Ready**: Compatible with major LLM APIs and vector databases (e.g., FAISS, Chroma), with pre-built connectors for rapid deployment.
 
 ## Use Cases
 
