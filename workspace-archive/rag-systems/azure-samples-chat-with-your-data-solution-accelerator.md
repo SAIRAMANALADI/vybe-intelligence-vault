@@ -6,12 +6,13 @@ source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accele
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
 local_vault_path: ai/rag/azure-samples-chat-with-your-data-solution-accelerator.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
 - github-repo
+- models
 - openai
 - python
 - rag
@@ -25,7 +26,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -33,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs (e.g., `gpt-4`) for contextual chat/Q&A generation, with Python-based orchestration.
 
-- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment, including AZD templates for infrastructure-as-code (IaC) and best practices for scalability and security.
+- **Key Components**: Includes **AZD templates** for deployment, supports **semantic search** with hybrid retrieval (vector + keyword), and integrates **Azure Monitor** for observability/logging.
 
-- **Prebuilt Components**: Includes preconfigured pipelines for data ingestion, embe
+- **Best Practices**: Demonstrates **chunking strateg
 
 ## Use Cases
 

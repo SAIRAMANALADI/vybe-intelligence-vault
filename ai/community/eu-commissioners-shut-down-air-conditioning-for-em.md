@@ -13,13 +13,14 @@ collected_at: '2026-06-30T22:47:06.675565+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eu-commissioners-shut-down-air-conditioning-for-em
 first_seen: '2026-06-30T22:47:06.675565+05:30'
 last_seen: '2026-06-30T22:47:06.675565+05:30'
 last_checked: '2026-06-30T22:47:06.675565+05:30'
 health_score: 100
 ---
+
 
 # EU commissioners shut down air conditioning for employees, leave theirs on
 

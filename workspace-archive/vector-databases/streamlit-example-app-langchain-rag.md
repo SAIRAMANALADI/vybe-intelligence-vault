@@ -12,7 +12,6 @@ resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
-- openai
 - python
 - rag
 selection_reason:
@@ -33,11 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (semantic + keyword-based) using LangChain for document processing and LLM integration.
-
-- **Streamlit Frontend**: Deploys a Streamlit-based web interface to interact with the RAG system, enabling user queries and real-time response generation with citations.
-
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain,
+- **Hybrid RAG Pipeline**: Demonstrates a retrieval-augmented generation (RAG) system combining vector store (e.g., FAISS) with hybrid search (semantic + keyword) using LangChain for document retrieval and generation.
+- **Streamlit Integration**: Implements a Streamlit-based UI to interact with the RAG pipeline, enabling real-time query processing and response visualization.
+- **Modular Architecture**: Uses LangChain’s `RetrievalQA` with customizable retrievers (e.g., `MultiVectorRetriever`) and
 
 ## Use Cases
 

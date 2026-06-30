@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-06-30T22:48:52.204782+05:30'
+collected_at: '2026-07-01T01:51:40.283434+05:30'
 published_at: '2026-06-22T04:33:47Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 263
 language: Python
 status: active
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-06-30T22:48:52.204782+05:30'
-last_seen: '2026-06-30T22:48:52.204782+05:30'
-last_checked: '2026-06-30T22:48:52.204782+05:30'
+first_seen: '2026-07-01T01:51:40.283434+05:30'
+last_seen: '2026-07-01T01:51:40.283434+05:30'
+last_checked: '2026-07-01T01:51:40.283434+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese-specific Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding models (e.g., `vinai/phobert-base`), and vector database integration (FAISS/Weaviate).
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Modular Architecture**: Features a structured backend with components for document ingestion, retrieval (BM25/semantic search), and generation (Vietnamese LLMs like `vllm` or `transformers`), optimized for low-latency Vietnamese QA systems.
+- **Key Components**: Includes vector database integration (e.g., FAISS/Weaviate), embedding models (e.g., vietnamese-sbert), and retrieval-augmented generation workflows optimized for Vietnamese NLP tasks.
 
-- **Evaluation & Deployment**: Includes scripts for Vietnamese RAG evaluation (e.g., `RAGAS`, `TREC-style` metrics) and Dockerized deployment for scalability, with support for Vietnamese-specific tokenization and stopword handling.
+- **Deployment-Ready**: Provides modular backend architecture with FastAPI/Flask endpoints, supporting scalable RAG deployments for Vietnamese LLMs.
 
 ## Why It Matters
 

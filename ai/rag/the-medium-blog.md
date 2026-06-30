@@ -3,19 +3,19 @@ title: The Medium Blog
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://blog.medium.com/?source=post_page
+source_url: https://medium.com/blog?source=collection_home_page
 resource_id: blog:the-medium-blog
------d10bb5769280---------------------------------------
-published_at: '2026-06-30T15:36:08.473685+05:30'
-collected_at: '2026-06-30T15:36:08.473701+05:30'
+----15f753907972----------------------------------------
+published_at: '2026-07-01T01:55:13.820647+05:30'
+collected_at: '2026-07-01T01:55:13.820660+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:the-medium-blog
-first_seen: '2026-06-30T15:36:08.473701+05:30'
-last_seen: '2026-06-30T15:36:08.473701+05:30'
-last_checked: '2026-06-30T15:36:08.473701+05:30'
+first_seen: '2026-07-01T01:55:13.820660+05:30'
+last_seen: '2026-07-01T01:55:13.820660+05:30'
+last_checked: '2026-07-01T01:55:13.820660+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Medium’s sitemap.xml** provides structured indexing of all public-facing URLs, enabling efficient crawling and SEO optimization for search engines.
-
-- **Medium’s Android app** (`com.medium.reader`) integrates deep linking via `utm_source=mobileNavBar` for tracking user acquisition from the mobile navigation bar.
-
-- **Medium’s newsletter subscription** (`/newsletter`) leverages weekly content delivery, with promotional imagery dynamically resized (`fit:500/900`) for responsive web display.
+- **Medium's sitemap** (`/sitemap.xml`) provides structured XML-based indexing of all public routes, including `/blog`, `/search`, and `/m/signin`, enabling efficient crawler discovery.
+- **Authentication endpoints** (`/m/signin`, `/m/register`) use OAuth2-based redirects with `operation=login/register` parameters and `redirect` query strings for session management.
+- **Content delivery** leverages CDN-resized images (e.g., `resize:fill:64:64`) and topic-specific RSS feeds (e.g., `/blog/all?topic=product`) for optimized static asset and dynamic content distribution.
 
 ## Why It Matters
 
@@ -37,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:36:08.473685+05:30
+- Published: 2026-07-01T01:55:13.820647+05:30
 
 ## Related Tags
 
@@ -46,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://blog.medium.com/?source=post_page-----d10bb5769280---------------------------------------
+Original source: https://medium.com/blog?source=collection_home_page----15f753907972----------------------------------------

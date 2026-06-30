@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-30T22:50:37.296481+05:30'
+collected_at: '2026-07-01T01:53:25.366128+05:30'
 published_at: '2026-06-29T22:29:00Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-30T22:50:37.296481+05:30'
-last_seen: '2026-06-30T22:50:37.296481+05:30'
-last_checked: '2026-06-30T22:50:37.296481+05:30'
+first_seen: '2026-07-01T01:53:25.366128+05:30'
+last_seen: '2026-07-01T01:53:25.366128+05:30'
+last_checked: '2026-07-01T01:53:25.366128+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Language & Framework Standards**: Repository consolidates best practices and coding standards for **TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and others**, structured to guide AI agents in adhering to language/framework-specific conventions.
-
-- **Agent-Oriented Tooling**: Includes **Cursor Rules** and **Agent Skills** configurations to enforce standardized code generation, linting, and architectural patterns across **React, Next.js, NestJS, Angular, and mobile frameworks (React Native, Android/iOS)**.
-
-- **Structured Compliance**: Provides a **versioned, updatable reference (last synced 2026-06-29)** for AI agents to validate and auto-correct code against community-vetted standards, reducing framework-specific anti-patterns.
+- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., Angular, NestJS, React, Spring Boot) and programming languages (e.g., Kotlin, Go, Swift).
+- **Scope & Topics**: Includes guidelines for Android, iOS, Flutter, Laravel, Next.js, and more, with a focus on agentic AI development, cursor rules, and cross-platform consistency.
+- **Metadata**: 516 stars, 149 forks, last updated June 29, 2026; serves as a reference for AI agents to adhere to industry-standard coding practices.
 
 ## Why It Matters
 

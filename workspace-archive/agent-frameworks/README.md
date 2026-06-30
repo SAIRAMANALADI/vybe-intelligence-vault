@@ -11,11 +11,11 @@ Agent frameworks simplify state management, tool usage, and memory in multi-agen
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) (framework - ESSENTIAL Tier)
 - [Mem0 · GitHub](https://github.com/mem0ai) (mcp-server - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (framework - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
-- [LlamaIndex · GitHub](https://github.com/run-llama) (framework - ESSENTIAL Tier)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/microsoft/autogen (AutoGen)
 https://github.com/pydantic/pydantic-ai (Pydantic AI)
 - [Mem0 · GitHub](https://github.com/mem0ai)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
-- [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-06-30 23:03 IST*
+*Last updated: 2026-07-01 02:06 IST*

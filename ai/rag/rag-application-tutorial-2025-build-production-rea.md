@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-06-30T20:15:09.961258+05:30'
-collected_at: '2026-06-30T20:15:09.961276+05:30'
+published_at: '2026-07-01T01:50:55.709695+05:30'
+collected_at: '2026-07-01T01:50:55.709711+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-30T20:15:09.961276+05:30'
-last_seen: '2026-06-30T20:15:09.961276+05:30'
-last_checked: '2026-06-30T20:15:09.961276+05:30'
+first_seen: '2026-07-01T01:50:55.709711+05:30'
+last_seen: '2026-07-01T01:50:55.709711+05:30'
+last_checked: '2026-07-01T01:50:55.709711+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings + vector DB like Supabase) and generation (LLMs) to enhance factual accuracy; critical components include chunking strategies, embedding models (e.g., `text-embedding-3-large`), and hybrid search (BM25 + vector similarity).
+- **RAG Pipeline Architecture**: Core components include document chunking, embedding generation (e.g., via LangChain), vector storage (e.g., Supabase), and retrieval-augmented generation with LLM integration for contextual response synthesis.
 
-- **Production Optimization**: Implements caching (Redis), load balancing (multiple LLM endpoints), and deployment via Cloudflare Workers; emphasizes token efficiency (e.g., `max_tokens` limits, prompt compression) and latency reduction (e.g., pre-filtering, query rewriting).
+- **Production Optimization Techniques**: Advanced strategies involve hybrid search (dense + sparse retrieval), query expansion/rewriting, caching layers, load balancing across models, and deployment via Cloudflare Workers for scalability.
 
-- **Monitoring & Scalability**: Uses Sentry for observability, tracks metrics like retrieval precision/recall, and employs multi-modal RAG (e.g., PDF/image parsing) with conversational memory (e.g., LangChain’s `ConversationBufferMemory`).
+- **Monitoring & Cost Control**: Implementation requires observability tools (e.g., Sentry for error tracking), latency benchmarking, token usage optimization, and trade-off analysis between performance and operational costs.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:15:09.961258+05:30
+- Published: 2026-07-01T01:50:55.709695+05:30
 
 ## Related Tags
 

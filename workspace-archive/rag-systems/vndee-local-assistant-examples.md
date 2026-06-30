@@ -16,6 +16,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates building a local ChatPDF application using Python, LangChain, and Ollama for LLM inference.
-- **Key Components**: Implements RAG (Retrieval-Augmented Generation) for document processing and Ollama for local LLM execution.
-- **Setup**: Requires Python environment; leverages LangChain for pipeline orchestration and Ollama for model serving.
+*   Implements a local Retrieval-Augmented Generation (RAG) system for PDF interaction.
+*   Utilizes LangChain for orchestrating LLM workflows and data processing.
+*   Leverages Ollama for local large language model (LLM) inference, developed in Python.
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/xbtlin/ai-berkshire
-published_at: '2026-06-30T22:47:06.202342+05:30'
-collected_at: '2026-06-30T22:47:06.202345+05:30'
+published_at: '2026-07-01T01:49:59.649240+05:30'
+collected_at: '2026-07-01T01:49:59.649241+05:30'
 tags:
 - agents
 - anthropic
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:xbtlin/ai-berkshire
 first_seen: '2026-06-25T16:35:46.162141+05:30'
-last_seen: '2026-06-30T22:47:06.202345+05:30'
-last_checked: '2026-06-30T22:47:06.202345+05:30'
+last_seen: '2026-07-01T01:49:59.649241+05:30'
+last_checked: '2026-07-01T01:49:59.649241+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-30T22:47:06.202342+05:30
+- Published: 2026-07-01T01:49:59.649240+05:30
 
 ## Related Tags
 

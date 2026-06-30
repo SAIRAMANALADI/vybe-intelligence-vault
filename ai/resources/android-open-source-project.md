@@ -3,17 +3,17 @@ title: Android Open Source Project
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://source.android.com
-published_at: '2026-06-30T22:54:18.153240+05:30'
-collected_at: '2026-06-30T22:54:18.153255+05:30'
+source_url: http://source.android.com
+published_at: '2026-07-01T01:56:05.215185+05:30'
+collected_at: '2026-07-01T01:56:05.215199+05:30'
 tags:
 - producthunt
 - web-crawled
 status: active
 resource_id: blog:android-open-source-project
-first_seen: '2026-06-30T22:54:18.153255+05:30'
-last_seen: '2026-06-30T22:54:18.153255+05:30'
-last_checked: '2026-06-30T22:54:18.153255+05:30'
+first_seen: '2026-07-01T01:56:05.215199+05:30'
+last_seen: '2026-07-01T01:56:05.215199+05:30'
+last_checked: '2026-07-01T01:56:05.215199+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **AOSP Release Schedule**: Starting in 2026, AOSP source code will be published bi-annually (Q2 and Q4) to align with the trunk-stable development model, using the `android-latest-release` manifest branch for builds and contributions.
+- **AOSP Release Schedule**: Starting 2026, source code will be published to AOSP in Q2 and Q4 to align with the trunk stable development model, using the `android-latest-release` manifest branch for building and contributions.
 
-- **Feature Launch Flags**: Android employs feature launch flags in AOSP to ensure stability by enabling only tested code execution, preventing unstable features from impacting the development branch.
+- **Feature Launch Flags**: Android employs feature launch flags to ensure AOSP's development branch stability by enabling only tested code execution, as detailed in the [feature flagging documentation](https://source.android.com/docs/setup/build/feature-flagging).
 
-- **AOSP Development Resources**: Key documentation includes setup guides, security practices, core architecture, connectivity standards, and compatibility requirements for customizing and testing Android devices.
+- **AOSP Development Resources**: Comprehensive guides for setting up, building, and contributing to AOSP are available, covering security, compatibility, architecture, and connectivity at [source.android.com/docs](https://source.android.com/docs).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T22:54:18.153240+05:30
+- Published: 2026-07-01T01:56:05.215185+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://source.android.com
+Original source: http://source.android.com

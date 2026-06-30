@@ -8,18 +8,19 @@ local_vault_path: ai/agents/shanraisshan-codex-cli-best-practice.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: template
+resource_kind: workflow
 importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # shanraisshan/codex-cli-best-practice
@@ -28,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: template
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular agent-based task decomposition and execution.
+- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and reusable skills for scalable AI-driven development.
 
-- **CLI-Centric Best Practices**: Provides a curated set of `codex-cli` commands, hooks, and skills for context engineering, enabling reproducible AI-driven workflows with OpenAI’s Codex.
+- **CLI-Centric Best Practices**: Provides a repository of optimized *codex-cli-commands*, *hooks*, and *skills* to enhance OpenAI Codex agent interactions, including Pakistan-specific developer adaptations and workflow automation.
 
-- **Open-Source Repository**: Hosts 903+ stars, 54 forks, and includes Python-based templates for Pakistani deve
+- **Context & Skill Optimizati
 
 ## Use Cases
 

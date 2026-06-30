@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents.
-- **Technical Stack**: Implements agent frameworks using Python, integrating large language models (LLM), retrieval-augmented generation (RAG), and agent orchestration patterns.
-- **Resource Metrics**: Highly active with **62,964 stars**, **7,784 forks**, and last updated on **2026-06-30**, ind
+- **Comprehensive Agent Development Tutorial**: Provides a step-by-step guide on building intelligent agents from scratch, covering core principles, architectures, and practical implementations using Python.
+
+- **Key Technologies Integrated**: Focuses on leveraging large language models (LLMs), retrieval-augmented generation (RAG), and modular agent frameworks to enable autonomous decision-making and task execution.
+
+- **Open-Source Educational Resource**: Hosted on GitHub with 62,970+ stars and
 
 ## Use Cases
 

@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Copilot CLI Sessions**: Background agent sessions in VS Code that run autonomously on local machines via Copilot CLI, managed through the unified Chat view; support multi-repository workspaces, custom agents, and deep research tasks with isolation modes (Worktree/Folder) for codebase changes.
-
-- **Isolation Modes**: Worktree mode creates a separate Git worktree for agent changes (auto-approved, isolated from main workspace), while Folder mode applies changes directly to the current workspace
+- **Copilot CLI Sessions**: Background agent sessions in VS Code run autonomously via Copilot CLI, managed through the Chat view; support multi-repository workspaces, custom agents, and deep research via `/research` command.
+- **Isolation Modes**: Copilot CLI supports **Worktree** (Git worktree-based, auto-approved changes) and **Folder** (direct workspace changes, configurable permissions) isolation for task execution.
+- **Permissions & Approvals**: Worktree isolation enforces **Bypass Approval
 
 ## Use Cases
 

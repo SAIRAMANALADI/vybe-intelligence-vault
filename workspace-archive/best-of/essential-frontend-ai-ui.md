@@ -18,6 +18,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`jcodesmore-ai-website-cloner-template.md`](../../ai/agents/jcodesmore-ai-website-cloner-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `85` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
@@ -47,11 +52,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `web-development/tailwind` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`styles-and-css-docs.md`](../../web-development/tailwind/styles-and-css-docs.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Haystack | Haystack](https://haystack.deepset.ai/)
-- **Category**: `ai/rag` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`haystack-haystack.md`](../../ai/rag/haystack-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-30 23:04 IST*
+*Last updated: 2026-07-01 02:07 IST*

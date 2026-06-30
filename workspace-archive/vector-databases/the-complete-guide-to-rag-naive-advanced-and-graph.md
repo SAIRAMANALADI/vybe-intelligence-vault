@@ -7,7 +7,7 @@ source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
 local_vault_path: ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md
 quality_score: 70
-archive_score: 70
+archive_score: 78
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -23,6 +23,7 @@ tags:
 - mistral
 - models
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -31,16 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector DB + similarity search), augmentation (injecting retrieved context), and generation (LLM producing grounded answers) to mitigate hallucinations, enable freshness, and handle private knowledge without retraining models.
+- **RAG Overview**: Retrieval-Augmented Generation (RAG) integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucination, data freshness, and private knowledge constraints.
 
-- **RAG Generations**: Naive RAG (basic retrieval → generate), Advanced RAG (hybrid retrieval, reranking, query rewriting), Modular RAG (agentic routing/looping), and Graph RAG (entity-relation graph traversal for multi-hop reaso
+- **RAG Generations**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (dynamic routing, tool integration), and Graph RAG (entity-relation graph-based retrieval f
 
 ## Use Cases
 

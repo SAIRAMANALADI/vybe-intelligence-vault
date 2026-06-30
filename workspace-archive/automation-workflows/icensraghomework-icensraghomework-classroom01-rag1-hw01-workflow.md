@@ -12,6 +12,7 @@ resource_kind: template
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based)
-- **Metadata**: 101 forks, last updated 2025-01-08T02:26:14Z
-- **Purpose**: GitHub Classroom assignment template for RAG workflow implementation
+- **Repository Purpose**: GitHub Classroom assignment template for a RAG (Retrieval-Augmented Generation) workflow, specifically `classroom01-rag1-hw01_workflow`.
+- **Technical Stack**: Implemented in Python, with no additional topics or dependencies explicitly listed.
+- **Metadata**: Last updated on 2025-01-08, forked 101 times, with 0 stars and no associated topics.
 
 ## Use Cases
 

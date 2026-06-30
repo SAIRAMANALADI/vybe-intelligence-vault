@@ -37,7 +37,7 @@ selection_reason:
 
 - **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
 
-- **Android 17 & XR Platform**: Android 17 (API 37) is officially released with AOSP source code and Pixel device rollout, while Android XR expands engine support and resources for immersive a
+- **Android 17 & API 37**: Android 17 is officially released with AOSP source code available and rolling out to Pixel devices; developers must prepare for key updates via the [Android 17 blog]
 
 ## Use Cases
 

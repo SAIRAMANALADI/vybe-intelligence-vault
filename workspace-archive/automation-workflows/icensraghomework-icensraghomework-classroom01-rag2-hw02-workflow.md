@@ -12,7 +12,6 @@ resource_kind: workflow
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 - workflows
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Details**: GitHub Classroom assignment repository (`icensraghomework-classroom01-rag2-hw02_workflow`) with 1 star and 68 forks.
-- **Technical Stack**: Python-based workflow implementation.
-- **Metadata**: Last updated on 2025-09-16T07:09:35Z.
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow`, a GitHub Classroom-created Python-based project.
+- **Activity**: Last updated on **2025-09-16T07:09:35Z** with **1 star** and **68 forks**.
+- **Metadata**: No topics assigned; language explicitly set to Python.
 
 ## Use Cases
 

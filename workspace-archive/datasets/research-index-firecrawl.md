@@ -6,7 +6,7 @@ source_url: https://docs.firecrawl.dev/features/research?utm_source=firecrawl-we
 resource_id: blog:research-index-firecrawl
 local_vault_path: ai/agents/research-index-firecrawl.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,14 @@ selection_reason:
 
 ## Summary
 
-- **Research Index API**: Provides endpoints for searching papers (`GET /search/research/papers`), inspecting metadata/reading passages (`GET /search/research/papers/{id}`), finding related papers (`GET /search/research/papers/{id}/similar`), and searching GitHub history (`GET /search/research/github`).
+- **API Endpoints**: Provides structured endpoints for research tasks:
+  - `GET /search/research/papers` (search papers by query/filters)
+  - `GET /search/research/papers/{id}` (inspect metadata/passages)
+  - `GET /search/research/papers/{id}/similar` (find related papers via semantic expansion)
+  - `GET /search/research/github` (search GitHub history/READMEs)
 
-- **Search Functionality**: Supports natural-language queries with filters for authors, categories (`cs.LG`), and date ranges (`from`, `to`), returning ranked papers with metadata, abstracts, an
+- **Paper Analysis Features**:
+  - Natural-language paper search with ranked results (title, abstract, `paperId`, `primaryId`, score)
 
 ## Use Cases
 

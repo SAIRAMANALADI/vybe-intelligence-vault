@@ -11,10 +11,10 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
+- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Implementation of RAG for Vietnamese**: Repository demonstrates best practices for Vietnamese-specific Retrieval-Augmented Generation (RAG) pipelines, including text preprocessing, embedding models (e.g., `vinai/phobert-base`), and vector database integration (FAISS/Weaviate).
+- **Vietnamese RAG Implementation**: Repository demonstrates best practices for Retrieval-Augmented Generation (RAG) tailored for Vietnamese language processing, leveraging Python-based pipelines.
 
-- **Modular Architecture**: Features a structured backend with components for document ingestion, retrieval (BM25/semantic search), and generation (Vietnamese LLMs like `vllm` or `transformers`), optimized for low-lat
+- **Key Components**: Includes vector database integration (e.g., FAISS/Weaviate), embedding models (e.g., vietnamese-sbert), and retrieval-augmented generation workflows optimized for Vietnamese NLP tasks.
+
+- **Deployment-Ready**: Provides modular backend architecture with FastAPI/Flask endpoints, su
 
 ## Use Cases
 

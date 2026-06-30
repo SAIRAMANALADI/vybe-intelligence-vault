@@ -21,11 +21,11 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 188 resources matched in the intelligence vault.
 Recently detected signals:
-- [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) (Source: Unknown Source) - Collected 2026-06-30
-- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-30
-- [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md) (Source: Unknown Source) - Collected 2026-06-30
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-30
-- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-30
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-07-01
+- [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) (Source: Unknown Source) - Collected 2026-07-01
+- [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) (Source: Unknown Source) - Collected 2026-07-01
+- [ektogamat/r3f-webgpu-starter](../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) (Source: Unknown Source) - Collected 2026-07-01
+- [whoisryosuke/r3f-next-starter](../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) (Source: Unknown Source) - Collected 2026-07-01
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -246,40 +246,40 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: pmndrs/react-postprocessing
 
-### 44. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
+### 44. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: patriciogonzalezvivo/lygia
+
+### 45. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: playcanvas/engine
+
+### 46. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mkkellogg/GaussianSplats3D
 
-### 45. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
+### 47. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pixiv/three-vrm
 
-### 46. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+### 48. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wolfwind521/indoor3D
 
-### 47. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
+### 49. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pmndrs/drei
 
-### 48. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
+### 50. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pmndrs/uikit
-
-### 49. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-flex
-
-### 50. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/triplex
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-30T23:02:57.437225+05:30.189690+05:30.554306+05:30.296297+05:30.965790+05:30.342675+05:30.488597+05:30.722671+05:30.801239+05:30.128427+05:30.394556+05:30.913603+05:30.126481+05:30.140569+05:30.242331+05:30.864131+05:30.522960+05:30.247075+05:30.458020+05:30.914503+05:30.028234+05:30.990976+05:30.306232+05:30.528723+05:30.034581+05:30.546426+05:30.195924+05:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-01T02:05:46.833579+05:30.437225+05:30.189690+05:30.554306+05:30.296297+05:30.965790+05:30.342675+05:30.488597+05:30.722671+05:30.801239+05:30.128427+05:30.394556+05:30.913603+05:30.126481+05:30.140569+05:30.242331+05:30.864131+05:30.522960+05:30.247075+05:30.458020+05:30.914503+05:30.028234+05:30.990976+05:30.306232+05:30.528723+05:30.034581+05:30.546426+05:30.195924+05:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

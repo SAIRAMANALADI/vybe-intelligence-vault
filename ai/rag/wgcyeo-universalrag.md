@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-30T22:49:47.238259+05:30'
+collected_at: '2026-07-01T01:52:35.327943+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-30T22:49:47.238259+05:30'
-last_seen: '2026-06-30T22:49:47.238259+05:30'
-last_checked: '2026-06-30T22:49:47.238259+05:30'
+first_seen: '2026-07-01T01:52:35.327943+05:30'
+last_seen: '2026-07-01T01:52:35.327943+05:30'
+last_checked: '2026-07-01T01:52:35.327943+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities), leveraging unified embeddings and cross-modal retrieval.
 
-- **ACL 2026 Oral Paper**: Presents an advanced RAG system with novel indexing and retrieval mechanisms optimized for heterogeneous corpora, achieving state-of-the-art performance in multimodal downstream tasks.
+- **ACL 2026 Oral Paper**: Presents a novel architecture with adaptive retrieval strategies, dynamic modality fusion, and hierarchical indexing to optimize performance for heterogeneous corpora, achieving state-of-the-art results in multimodal QA and generation tasks.
 
-- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customizable RAG pipelines, supporting integration with LLMs and multimodal encoders (e.g., CLIP, BLIP) for end-to-end generation.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for embedding, retrieval, and generation, supporting extensibility for custom modalities and granularities, and optimized for scalability in large-scale deployments.
 
 ## Why It Matters
 

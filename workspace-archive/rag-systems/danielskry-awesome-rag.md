@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - paper
 - rag
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools for generative AI, covering diverse domains (e.g., chatbots, QA systems, document processing).
-- **Multi-Topic Index**: Organized by subcategories (e.g., `RAG pipelines`, `evaluation tools`, `vector databases`) with links to research papers, GitHub repos, and production-grade systems.
-- **Metadata-Driven Discovery**: Last updated June 2026;
+- **Curated RAG Applications**: Comprehensive collection of Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools in generative AI, covering diverse use cases (e.g., QA, summarization, code generation).
+- **Active Maintenance**: Last updated June 2026, ensuring relevance with ongoing updates to tools, papers, and methodologies in RAG research.
+- **Community-Driven**: Open-source repository with 1,284 stars and 157 forks, indicating strong community engagement and collaborat
 
 ## Use Cases
 

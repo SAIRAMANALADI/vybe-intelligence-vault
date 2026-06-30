@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/wass08/r3f-ultimate-character-configurator
-collected_at: '2026-06-27T16:34:50.329456+05:30'
-published_at: '2026-06-27T10:26:08Z'
+collected_at: '2026-07-01T01:49:58.396820+05:30'
+published_at: '2026-06-30T17:38:30Z'
 tags:
 - frontend_ui
 - threejs
-stars: 134
+stars: 135
 language: JavaScript
 status: active
 resource_id: github:wass08/r3f-ultimate-character-configurator
 first_seen: '2026-06-12T10:40:15.865496+00:00'
-last_seen: '2026-06-27T16:34:50.329456+05:30'
-last_checked: '2026-06-27T16:34:50.329456+05:30'
+last_seen: '2026-07-01T01:49:58.396820+05:30'
+last_checked: '2026-07-01T01:49:58.396820+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: wass08
-- Stars: 134
+- Stars: 135
 - Forks: 37
 - Language: JavaScript
 - Topics: r3f, react-three-fiber, threejs, webgl
-- Last Updated: 2026-06-27T10:26:08Z
+- Last Updated: 2026-06-30T17:38:30Z
 
 ## Possible Use Cases
 

@@ -4,17 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-06-30T22:50:52.361694+05:30'
+collected_at: '2026-07-01T01:53:40.422506+05:30'
 published_at: '2026-06-30T16:29:33Z'
 tags:
 - agents
 - benchmark
+- dataset
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-- workflows
 stars: 509
 language: Python
 status: active
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-06-25T00:20:31Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-06-30T22:50:52.361694+05:30'
-last_seen: '2026-06-30T22:50:52.361694+05:30'
-last_checked: '2026-06-30T22:50:52.361694+05:30'
+first_seen: '2026-07-01T01:53:40.422506+05:30'
+last_seen: '2026-07-01T01:53:40.422506+05:30'
+last_checked: '2026-07-01T01:53:40.422506+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, table extraction, and vision-language model (VLM) interactions.
-- **Integration Focus**: Designed for compatibility with LlamaIndex, supporting structured and unstructured document parsing workflows for LLM-based agents.
-- **Evaluation Metrics**: Provides standardized metrics to assess parsing accuracy, robustness, and efficiency across diverse document types (e.g., tables, text, images).
+- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents, covering tasks like PDF parsing, OCR, and table extraction across structured and unstructured documents.
+
+- **Multi-Modal Evaluation**: Supports vision-language models (VLMs) and traditional NLP/OCR pipelines, enabling comparative analysis of parsing performance in mixed-content scenarios (text, tables, images).
+
+- **LlamaIndex Integration**: Designed for seamless evaluation with LlamaIndex, providing standardized metrics and datasets to benchmark document parsing pipelines under consistent conditions.
 
 ## Why It Matters
 

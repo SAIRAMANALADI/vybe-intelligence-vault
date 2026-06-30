@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://jqlang.github.io/jq/
-published_at: '2026-06-30T20:21:31.632772+05:30'
-collected_at: '2026-06-30T20:21:31.632783+05:30'
+published_at: '2026-07-01T02:05:01.142134+05:30'
+collected_at: '2026-07-01T02:05:01.142147+05:30'
 tags:
 - web-crawled
 - youtube
 status: active
 resource_id: blog:jq
-first_seen: '2026-06-30T20:21:31.632783+05:30'
-last_seen: '2026-06-30T20:21:31.632783+05:30'
-last_checked: '2026-06-30T20:21:31.632783+05:30'
+first_seen: '2026-07-01T02:05:01.142147+05:30'
+last_seen: '2026-07-01T02:05:01.142147+05:30'
+last_checked: '2026-07-01T02:05:01.142147+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Lightweight JSON processor**: `jq` is a portable C-based command-line tool with zero runtime dependencies, enabling JSON data manipulation via filtering, transformation, and slicing operations similar to `sed`/`awk` for text.
+- **Portable C-based JSON processor** with zero runtime dependencies, enabling single-binary deployment across compatible systems via SCP or direct transfer.
 
-- **Cross-platform binary compatibility**: Single-binary distribution allows direct execution across compatible systems (e.g., `scp` between machines) without compilation or dependencies.
+- **Functionally analogous to `sed`/`awk` for JSON**, providing streamlined data transformation, filtering, and manipulation with concise, expressive syntax.
 
-- **Version 1.8.2 release (2026)**: Latest stable version includes security/bug fixes; downloadable binaries available for Linux (AMD64/ARM64), macOS (Apple Silicon/Intel), and Windows (AMD64).
+- **Version 1.8.2 released (June 2026)** with platform-specific binaries (Linux AMD64/ARM64, macOS Intel/Apple Silicon, Windows AMD64) and prior versions available for legacy systems.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T20:21:31.632772+05:30
+- Published: 2026-07-01T02:05:01.142134+05:30
 
 ## Related Tags
 

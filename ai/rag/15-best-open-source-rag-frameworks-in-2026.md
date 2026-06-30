@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-30T22:48:05.203890+05:30'
-collected_at: '2026-06-30T22:48:05.203908+05:30'
+published_at: '2026-07-01T01:50:52.583790+05:30'
+collected_at: '2026-07-01T01:50:52.583805+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-06-30T22:48:05.203908+05:30'
-last_seen: '2026-06-30T22:48:05.203908+05:30'
-last_checked: '2026-06-30T22:48:05.203908+05:30'
+first_seen: '2026-07-01T01:50:52.583805+05:30'
+last_seen: '2026-07-01T01:50:52.583805+05:30'
+last_checked: '2026-07-01T01:50:52.583805+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Open-source framework with 105k stars, offering modular components for LLM application development, including RAG pipelines, model flexibility, and integration with LangSmith/LangGraph for debugging and workflow management.
+- **Firecrawl** provides AI-powered web scraping and data extraction for RAG pipelines, including LLM-friendly markdown conversion, agent-based data retrieval, and deep research capabilities via API endpoints.
 
-- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding, supporting structured extraction from complex PDFs, GraphRAG for knowledge graphs, and a visual web interface for document management and RAG workflow creation.
+- **LangChain** offers a modular framework for RAG with model flexibility, vector store integrations, retrieval optimization, and evaluation tools, supporting 100k+ GitHub stars and ecosystem tools like LangSmith.
 
-- **Milvus**: High-performance, cloud-native vector database (33.9k stars) optimized for scalable vector similarity search, supporting hybrid search, multi-modal embeddings, and seamless integration with RAG frameworks like LangChain and LlamaIndex.
+- **Milvus** is a high-performance, distributed vector database optimized for ANN search, supporting hybrid retrieval, multi-modal embeddings, and seamless integration with RAG frameworks for scalable production deployments.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:48:05.203890+05:30
+- Published: 2026-07-01T01:50:52.583790+05:30
 
 ## Related Tags
 

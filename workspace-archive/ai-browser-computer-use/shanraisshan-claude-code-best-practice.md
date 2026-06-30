@@ -34,11 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Evolution from Vibe Coding to Agentic Engineering**: Repository documents the transition from unstructured "vibe coding" to structured, agentic workflows using Claude Code, emphasizing systematic practices for AI-driven development.
+- **Evolution from Vibe Coding to Agentic Engineering**: Repository documents a structured progression from unstructured "vibe coding" to disciplined agentic workflows, emphasizing systematic practices for Claude Code agents.
 
-- **Comprehensive Best Practices Guide**: Provides curated techniques, commands, and skills for optimizing Claude Code agents, including context engineering, workflow automation, and performance tuning for Pakistani developers and beyond.
+- **Technical Best Practices for Claude Code**: Provides curated guidelines, commands, and skills for optimizing Claude Code performance, including context engineering and workflow automation.
 
-- **Open-Source Collab
+- **Community-Driven Repository**: Open-source hub with 61.6K+ stars, focusing
 
 ## Use Cases
 

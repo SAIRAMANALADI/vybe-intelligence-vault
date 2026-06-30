@@ -9,7 +9,7 @@ local_vault_path: ai/rag/github-docs.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: prompt
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -23,7 +23,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub
@@ -32,16 +32,14 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: prompt
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Core CLI Commands**: `copilot` launches an interactive UI; `copilot init` initializes custom instructions; `copilot login` authenticates via OAuth device flow (supports `--host` for GitHub Enterprise); `copilot completion SHELL` enables shell-specific tab completion (bash/zsh/fish); `copilot update`/`version` manage CLI updates.
-
-- **Authentication Modes**: Supports OAuth tokens (CLI app or `gh` app), fine-grained PATs (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`), and stores tokens i
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables tab completion for `bash`, `zsh`, `fish`), `copilot help [TOPIC]` (displays help for topics like `billing`, `config`, `permissions`), `copilot init` (initializes custom instructions), `copilot login` (authenticates via OAuth device flow or PAT), `copilot mcp` (manages MCP server configs), `copilot plugin` (manages plugins), `copilot update` (updates CLI), and `copilot version` (displ
 
 ## Use Cases
 

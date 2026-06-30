@@ -31,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified Observability Framework**: OpenTelemetry provides a vendor-neutral, open-source suite of APIs, SDKs, and tools for instrumenting, collecting, and exporting telemetry data (metrics, logs, and traces) to enable comprehensive software performance and behavior analysis.
+- **OpenTelemetry** is a unified framework providing APIs, SDKs, and tools for instrumenting, generating, collecting, and exporting telemetry data (metrics, logs, and traces) to analyze software performance and behavior.
 
-- **Multi-Signal Support**: Supports three core observability signals—traces (distributed request tracking), metrics (quantitative measurements), and logs (structured event records)—via standardized instrumentation and e
+- **Unified telemetry signals** (metrics, logs, traces) are standardized via OpenTelemetry, enabling portable and vendor-agnostic observability across heterogeneous systems and environments.
+
+- **CNCF graduated project** formed from the merger of OpenTracing and OpenCensus, wit
 
 ## Use Cases
 

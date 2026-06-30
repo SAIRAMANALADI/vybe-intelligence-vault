@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Next.js Production Template**: Pre-configured Next.js starter kit optimized for production with TypeScript support.
-- **AI-Powered Workflow**: Integrates 6 specialized agents for automated development tasks (e.g., code generation, testing, debugging).
-- **High Activity Metrics**: 324 stars, 795 forks, last updated June 29, 2026.
+- **Next.js Production Template**: Pre-configured Next.js starter kit optimized for production with TypeScript, including CI/CD, testing, and deployment workflows.
+
+- **AI-Powered Agents**: Integrates 6 specialized AI agents (e.g., coding, debugging, documentation) to automate development tasks and enhance code quality.
+
+- **High Activity Metrics**: 324 stars, 796 forks, and last updated on 2026-06-29, indicating active maintenance and community engagement.
 
 ## Use Cases
 

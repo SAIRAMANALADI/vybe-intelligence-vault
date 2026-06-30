@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-30T22:48:02.823597+05:30'
-collected_at: '2026-06-30T22:48:02.823608+05:30'
+published_at: '2026-07-01T01:50:50.914260+05:30'
+collected_at: '2026-07-01T01:50:50.914275+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-30T22:48:02.823608+05:30'
-last_seen: '2026-06-30T22:48:02.823608+05:30'
-last_checked: '2026-06-30T22:48:02.823608+05:30'
+first_seen: '2026-07-01T01:50:50.914275+05:30'
+last_seen: '2026-07-01T01:50:50.914275+05:30'
+last_checked: '2026-07-01T01:50:50.914275+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Haystack (deepset-ai)**: Modular AI orchestration framework enabling end-to-end RAG pipelines with support for multiple document stores (Elasticsearch, FAISS, SQL), LLMs (BERT, RoBERTa, DPR), and scalable document processing for QA, summarization, and retrieval tasks.
+- **Haystack (deepset-ai)**: Modular AI orchestration framework supporting multi-document stores (Elasticsearch, FAISS, SQL), scalable pipelines for retrieval, QA, and summarization, with integration for BERT/RoBERTa/DPR models and RESTful API.
 
-- **RAGFlow (infiniflow)**: Open-source RAG engine optimized for deep document understanding, featuring pre-built RAG pipelines, intuitive workflow design, and integration with vector databases and custom embedding models for rapid deployment.
+- **RAGFlow (infiniflow)**: Open-source RAG engine emphasizing deep document understanding, featuring pre-built RAG pipelines, intuitive workflow design, and compatibility with vector databases and custom embedding models.
 
-- **txtai (neuml)**: All-in-one AI framework combining semantic search, LLM orchestration, and embeddings database for multi-language, multi-data-type workflows, enabling efficient similarity search and customizable AI pipelines.
+- **txtai (neuml)**: Unified AI framework for semantic search and LLM orchestration, providing embeddings databases, multi-language support, and extensible workflows for document processing and real-time AI applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:48:02.823597+05:30
+- Published: 2026-07-01T01:50:50.914260+05:30
 
 ## Related Tags
 

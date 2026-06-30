@@ -6,7 +6,7 @@ source_url: https://developers.cloudflare.com/workers/platform/limits/#cpu-time
 resource_id: blog:limits-a-cloudflare-workers-docs
 local_vault_path: ai/rag/limits-a-cloudflare-workers-docs.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -29,7 +29,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -37,8 +37,13 @@ selection_reason:
 
 ## Summary
 
-- **Account Plan Limits**: Free plan allows 100K daily requests, 10ms CPU time per HTTP request, 128MB memory per isolate, 50 subrequests per invocation, and 6 simultaneous open connections. Paid plans offer no daily request limit, up to 5 minutes CPU time, 10MB worker size, and 10K subrequests per invocation.
-- **Request/Response Limits**: Max URL size is 16KB; request/response header sizes capped at 128KB. Free/Pro plans enforce 100MB max request body, Business 200MB, Enterprise 500MB (adjusta
+- **Plan-Specific Limits**:
+  - **Free Plan**: 100K daily requests, 10ms CPU time per HTTP request, 50 subrequests/invocation, 100 Workers/account.
+  - **Paid Plan**: Unlimited daily requests, 5min CPU time (configurable up to 300K ms), 10K subrequests/invocation, 500 Workers/account.
+
+- **Resource Constraints**:
+  - **Memory**: 128MB per isolate (includes JS heap and WebAssembly).
+  - **Concurrent Connections**: Max 6 simultaneous outgoing connections per invocation (headers-waiting phase only)
 
 ## Use Cases
 

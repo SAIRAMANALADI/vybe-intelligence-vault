@@ -6,10 +6,10 @@ source_url: https://github.com/langgenius/dify
 resource_id: github:langgenius/dify
 local_vault_path: ai/rag/langgenius-dify.md
 quality_score: 70
-archive_score: 79
-archive_tier: useful
+archive_score: 89
+archive_tier: essential
 resource_kind: framework
-importance: medium
+importance: high
 tags:
 - agents
 - frontend_ui
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 89 (essential)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Language Agentic Workflow Platform**: Open-source framework in TypeScript/Python for building production-grade agentic workflows with support for LLM orchestration (OpenAI, GPT-4, Gemini), RAG integration, and MCP (Model Context Protocol) for tool orchestration.
+- **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low/no-code capabilities, supporting LLM integrations (OpenAI, GPT-4, Gemini) and workflow automation.
 
-- **Low-Code/No-Code Development**: Provides a Next.js-based web interface for visual workflow design, enabling rapid deployment of AI agents without deep coding expertise while maintaining extensibility via custom components.
+- **Key Features**: Includes Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP) support, Next.js-based UI, and modular components for agentic workflows, enabling rapid development of AI-driven automation p
 
 ## Use Cases
 

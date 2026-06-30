@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems/
-published_at: '2026-06-30T22:48:03.453592+05:30'
-collected_at: '2026-06-30T22:48:03.453605+05:30'
+published_at: '2026-07-01T01:50:51.100921+05:30'
+collected_at: '2026-07-01T01:50:51.100937+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
-first_seen: '2026-06-30T22:48:03.453605+05:30'
-last_seen: '2026-06-30T22:48:03.453605+05:30'
-last_checked: '2026-06-30T22:48:03.453605+05:30'
+first_seen: '2026-07-01T01:50:51.100937+05:30'
+last_seen: '2026-07-01T01:50:51.100937+05:30'
+last_checked: '2026-07-01T01:50:51.100937+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain (2026)**: Dominates RAG with 700+ integrations, LangGraph for agentic workflows, and LangSmith for observability; ideal for complex, stateful pipelines but has a steep learning curve.
-- **LlamaIndex (2026)**: Optimized for advanced indexing and retrieval, supporting multimodal data and 100+ sources; excels in knowledge-intensive applications with sophisticated query engines and evaluation tools.
-- **Haystack (2026)**: Enterprise-focused framework with modular pipelines, dense/sparse retrieval, and built-in evaluation; supports Elasticsearch and Weaviate, targeting production-scale search and QA systems.
+- **LangChain**: Dominates RAG frameworks with 700+ integrations, LangGraph for agentic workflows, and LangSmith for observability; ideal for complex, multi-tool pipelines but has a steep learning curve.
+- **LlamaIndex**: Optimized for advanced indexing and retrieval of multimodal data (text, images, PDFs) with 100+ data source integrations; excels in knowledge-intensive applications and enterprise-scale indexing.
+- **Haystack**: Enterprise-ready framework with modular pipelines, dense/sparse retrieval, and built-in evaluation tools; supports Elasticsearch and Weaviate, making it suitable for production-grade search and QA applications.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:48:03.453592+05:30
+- Published: 2026-07-01T01:50:51.100921+05:30
 
 ## Related Tags
 

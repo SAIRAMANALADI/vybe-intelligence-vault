@@ -40,9 +40,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector DB + similarity search), augmentation (injecting retrieved context), and generation (LLM producing grounded answers) to mitigate hallucinations, enable freshness, and handle private knowledge without retraining models.
+- **RAG Overview**: Retrieval-Augmented Generation (RAG) integrates retrieval, augmentation, and generation to enhance LLM responses by dynamically pulling relevant external knowledge, addressing issues like hallucination, data freshness, and private knowledge constraints.
 
-- **RAG Generations**: Naive RAG (basic retrieval → generate), Advanced RAG (hybrid retrieval, reranking, query rewriting), Modular RAG (agentic routing/looping), and Graph RAG (entity-relation graph traversal for multi-hop reaso
+- **RAG Generations**: Naive RAG (basic vector search), Advanced RAG (hybrid retrieval, reranking, query transformation), Modular RAG (dynamic routing, tool integration), and Graph RAG (entity-relation graph-based retrieval f
 
 ## Use Cases
 

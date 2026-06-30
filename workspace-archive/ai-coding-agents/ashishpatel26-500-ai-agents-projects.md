@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated AI Agent Use Cases**: Repository contains 500+ practical AI agent applications across industries (healthcare, finance, education, retail) with open-source implementations for hands-on learning and deployment.
+- **Curated Collection**: Repository hosts 500+ AI agent projects across industries (healthcare, finance, education, retail) with open-source implementations and practical use cases.
 
-- **Multi-Industry Showcase**: Demonstrates AI agent transformation in diverse sectors, providing links to GitHub projects for direct integration and experimentation.
+- **Technical Scope**: Primarily Python-based, focusing on AI agents and generative AI (GenAI) applications with links to executable projects.
 
-- **Technical Stack & Maintenance**: Entirely Python-based, actively maintained (last updated June 2026), with
+- **Metadata**: 33.3K stars, 5.9K forks; last updated June 30, 2026, under `ai-agents` and `genai` topics.
 
 ## Use Cases
 

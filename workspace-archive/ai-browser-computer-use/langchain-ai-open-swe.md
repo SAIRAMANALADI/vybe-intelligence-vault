@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Asynchronous Multi-Agent Framework**: Implements a distributed, event-driven architecture using Python's `asyncio` for concurrent task execution across multiple AI coding agents with non-blocking I/O operations.
+- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for asynchronous execution of coding tasks, enabling parallel processing and efficient task management in AI-driven development workflows.
 
-- **Tool Integration & LLM Agnosticism**: Supports pluggable LLM backends (OpenAI, Anthropic, etc.) and provides pre-built tools for repository cloning, file editing, and terminal command execution via structured API interfaces.
+- **Multi-LLM & Provider Support**: The repository integrates with multiple large language models (LLMs) and providers (e.g., OpenAI, Anthropic) via standardized APIs, facilitating cross-platform compatibility for agent-based coding solutions.
 
-- **State Management & Fault Tolerance**: Utilizes pe
+- **Scalable Agent Architecture**: I
 
 ## Use Cases
 

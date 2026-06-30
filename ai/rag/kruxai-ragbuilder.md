@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KruxAI/ragbuilder
-collected_at: '2026-06-30T22:49:32.276767+05:30'
+collected_at: '2026-07-01T01:52:20.361788+05:30'
 published_at: '2026-06-30T12:14:06Z'
 tags:
 - benchmark
-- dataset
 - github-repo
+- hackernews
 - python
 - rag
+- workflows
 stars: 1535
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-06-24T07:25:00Z'
 pushed_at: '2025-05-20T03:53:13Z'
 resource_id: github:kruxai/ragbuilder
-first_seen: '2026-06-30T22:49:32.276767+05:30'
-last_seen: '2026-06-30T22:49:32.276767+05:30'
-last_checked: '2026-06-30T22:49:32.276767+05:30'
+first_seen: '2026-07-01T01:52:20.361788+05:30'
+last_seen: '2026-07-01T01:52:20.361788+05:30'
+last_checked: '2026-07-01T01:52:20.361788+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Production-Ready RAG Pipeline**: Provides a modular Python toolkit for constructing end-to-end Retrieval Augmented Generation (RAG) systems optimized for production deployment, including data ingestion, chunking, embedding, retrieval, and generation components.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable workflows.
 
-- **Modular Architecture**: Implements a configurable framework with interchangeable components (e.g., vector stores, LLMs, rerankers) to enable customization for diverse datasets and use cases while maintaining scalability.
+- **Optimized Retrieval & Generation**: Implements techniques like dynamic chunking, reranking, and hybrid search to enhance retrieval quality and mitigate hallucinations in LLM outputs.
 
-- **Optimization Tools**: Includes utilities for benchmarking, evaluation, and hyperparameter tuning to maximize retrieval quality and generation performance in production environments.
+- **Scalability & Deployment**: Supports integration with vector databases (e.g., FAISS, Pinecone) and cloud services, enabling scalable RAG deployments with monitoring and evaluation tools.
 
 ## Why It Matters
 

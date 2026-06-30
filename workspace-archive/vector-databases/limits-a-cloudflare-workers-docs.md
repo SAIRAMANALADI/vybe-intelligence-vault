@@ -35,8 +35,13 @@ selection_reason:
 
 ## Summary
 
-- **Account Plan Limits**: Free plan allows 100K daily requests, 10ms CPU time per HTTP request, 128MB memory per isolate, 50 subrequests per invocation, and 6 simultaneous open connections. Paid plans offer no daily request limit, up to 5 minutes CPU time, 10MB worker size, and 10K subrequests per invocation.
-- **Request/Response Limits**: Max URL size is 16KB; request/response header sizes capped at 128KB. Free/Pro plans enforce 100MB max request body, Business 200MB, Enterprise 500MB (adjusta
+- **Plan-Specific Limits**:
+  - **Free Plan**: 100K daily requests, 10ms CPU time per HTTP request, 50 subrequests/invocation, 100 Workers/account.
+  - **Paid Plan**: Unlimited daily requests, 5min CPU time (configurable up to 300K ms), 10K subrequests/invocation, 500 Workers/account.
+
+- **Resource Constraints**:
+  - **Memory**: 128MB per isolate (includes JS heap and WebAssembly).
+  - **Concurrent Connections**: Max 6 simultaneous outgoing connections per invocation (headers-waiting phase only)
 
 ## Use Cases
 

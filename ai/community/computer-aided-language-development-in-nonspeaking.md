@@ -13,13 +13,14 @@ collected_at: '2026-06-30T22:47:09.160690+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:computer-aided-language-development-in-nonspeaking
 first_seen: '2026-06-29T01:16:50.887299+05:30'
 last_seen: '2026-06-30T22:47:09.160690+05:30'
 last_checked: '2026-06-30T22:47:09.160690+05:30'
 health_score: 100
 ---
+
 
 # Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]
 

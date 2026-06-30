@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-06-30T22:49:42.259244+05:30'
+collected_at: '2026-07-01T01:52:30.350281+05:30'
 published_at: '2026-06-30T16:52:23Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-06-30T22:49:42.259244+05:30'
-last_seen: '2026-06-30T22:49:42.259244+05:30'
-last_checked: '2026-06-30T22:49:42.259244+05:30'
+first_seen: '2026-07-01T01:52:30.350281+05:30'
+last_seen: '2026-07-01T01:52:30.350281+05:30'
+last_checked: '2026-07-01T01:52:30.350281+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents (VUA)**: Introduces a novel framework integrating multiple specialized agents (e.g., retrieval, reasoning, planning) into a cohesive system for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Extends traditional RAG by incorporating graph-based knowledge representations, enabling dynamic retrieval and synthesis of interconnected information for improved multi-hop reasoning and factual consistency.
+- **Graph Retrieval-Augmented Reasoning**: Leverages graph neural networks (GNNs) and retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs, improving contextual relevance and multi-hop reasoning over large-scale knowledge graphs.
 
-- **Python Implementation**: Provides an open-source Python library optimized for large-scale graph operations and LLM integration, with modular components for customization and scalability in complex reasoning pipelines.
+- **ICLR 2026 Contribution**: Proposes a vertically integrated agent system optimized for graph-based RAG, demonstrating state-of-the-art performance in complex reasoning benchmarks through adaptive agent collaboration and graph-aware memory mechanisms.
 
 ## Why It Matters
 

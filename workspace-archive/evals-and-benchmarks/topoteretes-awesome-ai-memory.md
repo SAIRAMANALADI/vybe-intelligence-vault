@@ -15,7 +15,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated list** of AI memory projects, frameworks, and tools focused on **long-term memory, context retention, and adaptive learning** in AI agents.
-- **Python-centric** repository covering **RAG (Retrieval-Augmented Generation), memory architectures, and agentic workflows** for persistent AI state management.
-- **Actively maintained** (last updated 2026-06-30) with **803 stars and 88 forks**, reflecting community engagement in **AI memory optimization and scalability**.
+- **Curated list** of AI memory projects, frameworks, and tools focused on memory management, retrieval, and integration in AI systems.
+- **Python-centric** repository with 801 stars and 88 forks, covering topics like RAG, AI agents, and memory architectures.
+- **Last updated** June 30, 2026, with active development in AI memory, retrieval, and agent-based systems.
 
 ## Use Cases
 

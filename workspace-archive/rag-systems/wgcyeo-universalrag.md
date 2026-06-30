@@ -33,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities), leveraging unified embeddings and cross-modal retrieval.
 
-- **ACL 2026 Oral Paper**: Presents an advanced RAG system with novel indexing and retrieval mechanisms optimized for heterogeneous corpora, achieving state-of-the-art performance in multimodal downstream tasks.
-
-- **Open-Sour
+- **ACL 2026 Oral Paper**: Presents a novel architecture with adaptive retrieval strategies, dynamic modality fusion, and hierarchical indexing to optimize performance for heterogeneous corpora, achieving state-of-the-art re
 
 ## Use Cases
 

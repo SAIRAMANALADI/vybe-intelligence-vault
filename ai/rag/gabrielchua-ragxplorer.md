@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-30T22:48:37.171550+05:30'
+collected_at: '2026-07-01T01:51:25.259184+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
-- dataset
 - github-repo
 - jupyter notebook
 - models
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-30T22:48:37.171550+05:30'
-last_seen: '2026-06-30T22:48:37.171550+05:30'
-last_checked: '2026-06-30T22:48:37.171550+05:30'
+first_seen: '2026-07-01T01:51:25.259184+05:30'
+last_seen: '2026-07-01T01:51:25.259184+05:30'
+last_checked: '2026-07-01T01:51:25.259184+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization of LLM interactions.
+- **Interactive RAG Visualization Tool**: Open-source Python-based application (Jupyter Notebook + Streamlit) designed for real-time exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic interaction with vector databases, prompts, and LLM outputs.
 
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retrievers, embeddings, LLM outputs) with Python-based visualization modules for granular inspection of retrieval quality and generation performance.
+- **Modular Architecture**: Integrates with popular RAG frameworks (e.g., LangChain) and supports custom vector stores (FAISS, Chroma, Pinecone), allowing users to visualize retrieval mechanisms, embedding spaces, and generation quality through interactive dashboards.
 
-- **Modular Python Framework**: Designed for extensibility with support for custom datasets, embeddings, and LLM backends; last updated June 2026 with active community contributions (1.2k+ stars, 115 forks).
+- **Performance Metrics & Debugging**: Provides built-in analytics for evaluating RAG components (e.g., retrieval precision, answer relevance) with exportable reports, facilitating iterative optimization of LLM-based question-answering systems.
 
 ## Why It Matters
 

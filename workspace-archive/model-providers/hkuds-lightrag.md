@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **LightRAG Framework**: Introduces a lightweight, fast Retrieval-Augmented Generation (RAG) system designed for efficiency, leveraging simple yet effective retrieval mechanisms to enhance large language model (LLM) performance with minimal computational overhead.
+- **LightRAG Framework**: Introduces a lightweight, fast Retrieval-Augmented Generation (RAG) system optimized for efficiency and simplicity, leveraging minimal computational overhead while maintaining high performance in downstream tasks.
 
-- **Graph-Based Retrieval**: Implements a graph-augmented retrieval strategy to dynamically construct context graphs from retrieved documents, enabling structured and context-aware knowledge integration for improved generation qualit
+- **Graph-Based Retrieval**: Implements a graph-structured retrieval mechanism to enhance contextual relevance, dynamically constructing and querying knowledge graphs for improved document and information retrieval.
+
+- **Python Implementation**: Provides a Py
 
 ## Use Cases
 

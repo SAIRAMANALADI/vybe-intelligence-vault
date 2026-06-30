@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-30T22:48:57.198820+05:30'
+collected_at: '2026-07-01T01:51:45.241330+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
-- reddit
 - workflows
 stars: 35
 language: Java
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-30T22:48:57.198820+05:30'
-last_seen: '2026-06-30T22:48:57.198820+05:30'
-last_checked: '2026-06-30T22:48:57.198820+05:30'
+first_seen: '2026-07-01T01:51:45.241330+05:30'
+last_seen: '2026-07-01T01:51:45.241330+05:30'
+last_checked: '2026-07-01T01:51:45.241330+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (e.g., Milvus/Weaviate) for embedding-based retrieval, supporting text, image generation (via Stable Diffusion/Flux), and image understanding (OCR/CLIP-based).
+- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for retrieval-augmented generation (RAG) to enhance AI question-answering systems with structured knowledge retrieval.
 
-- **Agentic Workflows**: Integrates Function Calling (via Spring AI’s `@Tool` annotation) and SSE (Server-Sent Events) for real-time agent interactions, with historical message persistence (e.g., Redis/PostgreSQL) for session management.
+- **Supports SSE Streaming & Agent Workflows**: Enables real-time Server-Sent Events (SSE) streaming for AI responses and integrates agent-based architectures for dynamic, multi-step task execution.
 
-- **Knowledge Graph Integration**: Extends RAG with graph-based retrieval (Neo4j/JanusGraph) for structured knowledge queries, combining vector search with graph traversal for hybrid retrieval.
+- **Multi-Modal & Function Call Capabilities**: Incorporates image generation/understanding, function calling for tool integration, and historical message management for conversational context retention.
 
 ## Why It Matters
 

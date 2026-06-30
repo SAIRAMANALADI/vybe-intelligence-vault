@@ -6,15 +6,14 @@ source_url: https://www.langchain.com/
 resource_id: blog:langchain-observe-evaluate-and-deploy-reliable-ai
 local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
-archive_score: 76
+archive_score: 74
 archive_tier: useful
-resource_kind: mcp-server
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - benchmark
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -25,17 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 76 (useful)
-- Resource kind: mcp-server
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
+- **Multi-SDK Integration**: LangSmith supports Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration with any agent stack.
 
-- **Automated evaluation & deployment**: Captures production traces for reusable LLM-as-judge/multi-turn evals, integrates human feedback for calibration, and deploys agents via a scalable runtime
+- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, identifies root causes in traces/code, and proposes fixes to accelerate agent improvement.
+
+- **Production-Grade Agent Deployment**: LangSmith provides fault-tolerant, scalable agent servers with native support for A2A & MCP protocols, durable
 
 ## Use Cases
 

@@ -8,24 +8,24 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol) (framework - ESSENTIAL Tier)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
 - [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (framework - USEFUL Tier)
+- [Haystack | Haystack](https://haystack.deepset.ai/) (framework - USEFUL Tier)
 - [JetBrains AI - The JetBrains Blog](https://blog.jetbrains.com/ai) (framework - USEFUL Tier)
 - [Android Mobile App Developer Tools - Android Developers](https://developer.android.com) (framework - USEFUL Tier)
+- [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/) (benchmark - USEFUL Tier)
+- [AI & Vectors | Supabase Docs](https://supabase.com/docs/guides/ai) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
-- [vercel-labs/ai-sdk-preview-rag](https://github.com/vercel-labs/ai-sdk-preview-rag)
+- [opendevin/opendevin](https://github.com/opendevin/opendevin)
+- [DS4SD/docling](https://github.com/DS4SD/docling)
+- [OpenLLM-France · GitHub](https://github.com/OpenLLM-France)
+- [GoogleCloudPlatform/vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples/)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-30 23:04 IST*
+*Last updated: 2026-07-01 02:07 IST*

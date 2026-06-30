@@ -14,6 +14,8 @@ tags:
 - agents
 - github-repo
 - python
+- scripts
+- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -30,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Demonstrates implementation of a marketing campaign assistant agent using Google's Agent Development Kit (ADK) in Python.
-- **Repository Stats**: 61 stars, 34 forks, last updated 2026-06-29.
-- **Tech Stack**: Uses Google ADK framework with Python for agent development.
+- **Repository Overview**: Example implementation of Google ADK (Agent Development Kit) demonstrating a marketing campaign assistant agent in Python.
+- **Metadata**: 62 stars, 34 forks, last updated on 2026-06-30.
+- **Purpose**: Showcases agent-based workflows for marketing automation using Google's ADK framework.
 
 ## Use Cases
 

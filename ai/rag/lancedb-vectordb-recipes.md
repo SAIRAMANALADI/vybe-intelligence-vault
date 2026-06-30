@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-30T22:48:17.163311+05:30'
+collected_at: '2026-07-01T01:51:05.267672+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-30T22:48:17.163311+05:30'
-last_seen: '2026-06-30T22:48:17.163311+05:30'
-last_checked: '2026-06-30T22:48:17.163311+05:30'
+first_seen: '2026-07-01T01:51:05.267672+05:30'
+last_seen: '2026-07-01T01:51:05.267672+05:30'
+last_checked: '2026-07-01T01:51:05.267672+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides practical examples and tutorials for integrating vector search with LLMs, focusing on multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using LanceDB as the vector database.
+- **Multimodal AI & RAG Implementations**: Provides Jupyter Notebook-based examples and tutorials for Retrieval-Augmented Generation (RAG) and agent-based systems leveraging vector search, LLMs, and multimodal embeddings (e.g., GPT-4 Vision).
 
-- **Tooling & Framework Integration**: Demonstrates workflows using LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for embeddings, fine-tuning, and multimodal processing, with Jupyter Notebooks as the primary medium for tutorials.
+- **Tooling Integration**: Demonstrates workflows using LangChain, LlamaIndex, and OpenAI APIs for fine-tuning, embedding generation, and vector database operations with LanceDB.
 
-- **Vector Search Optimization**: Leverages LanceDB’s vector database for efficient storage, retrieval, and querying of high-dimensional embeddings, supporting deep learning and machine learning pipelines for scalable AI applications.
+- **Technical Focus**: Covers deep learning, embeddings optimization, and vector database management for scalable AI applications, updated as of June 2026.
 
 ## Why It Matters
 

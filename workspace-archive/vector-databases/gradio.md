@@ -8,9 +8,10 @@ local_vault_path: ai/rag/gradio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
+- frontend_ui
 - hackernews
 - producthunt
 - rag
@@ -18,7 +19,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Gradio
@@ -27,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Gradio 6** introduces rapid ML web app development with **40+ pre-built components** (e.g., `ImageSlider`, `AnnotatedImage`, `Chatbot`) for handling diverse data types (images, audio, 3D, dataframes) without frontend expertise.
+- **Gradio 6 Release**: Introduces new features and improvements, including enhanced component library and deployment options, with a focus on simplifying ML app development and deployment.
 
-- **Deployment flexibility** via `demo.launch(share=True)` for instant local sharing or **Hugging Face Spaces** for permanent, auto-scaling hosting with a shareable URL.
+- **40+ UI Components**: Supports diverse data types (images, audio, video, 3D, dataframes) with pre-built interactive elements (e.g., `Plot`, `Gallery`, `Audio`, `Chatbot`) for rapid prototyping.
 
-- **Lightning-fast setup** with `pip install gradio` and minimal Python code (e.g., `gr.Interfac
+- **Deployment & Sharing**: Enables one-command installation (`pip install gradio`), local/remote hosting (e.g.
 
 ## Use Cases
 

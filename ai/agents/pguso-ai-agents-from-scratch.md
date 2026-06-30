@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-06-30T22:50:02.261284+05:30'
+collected_at: '2026-07-01T01:52:50.347034+05:30'
 published_at: '2026-06-30T15:59:35Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-05-31T08:52:06Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-06-30T22:50:02.261284+05:30'
-last_seen: '2026-06-30T22:50:02.261284+05:30'
-last_checked: '2026-06-30T22:50:02.261284+05:30'
+first_seen: '2026-07-01T01:52:50.347034+05:30'
+last_seen: '2026-07-01T01:52:50.347034+05:30'
+last_checked: '2026-07-01T01:52:50.347034+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using local LLMs, emphasizing transparency and eliminating "black boxes" in agent architecture.
+- **Local LLM Implementation**: Demonstrates building AI agents from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, enabling full transparency in agent architecture and behavior.
 
-- **Core Technical Focus**: Covers essential AI agent components including function calling, memory management, and ReAct (Reasoning and Acting) patterns, implemented in JavaScript.
+- **Core Agent Patterns**: Implements and explains key agent design patterns, including **function calling** (tool use) and **ReAct** (Reasoning + Acting) loops, with practical examples in JavaScript.
 
-- **Tooling & Integration**: Utilizes `node-llama-cpp` for local LLM inference and includes React-based agent implementations, updated as of June 30, 2026.
+- **Memory & State Management**: Focuses on agent memory systems and stateful interactions, providing a hands-on tutorial for constructing agents with persistent context and adaptive decision-making.
 
 ## Why It Matters
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: End-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
+- **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
 
-- **Technical Scope**: Covers agent frameworks, multi-agent systems, LangGraph, MCP, RAG, MLOps, and observability, leveraging Python and Jupyter Notebooks for hands-on learning.
+- **Multi-Topic Technical Focus**: Covers agent frameworks, multi-agent systems, RAG, MLOps, observability, and deployment strategies, with Python-based Jupyter Notebook implementations.
 
-- **Enterprise Readiness**: Addresses deployment, scalability, and production-grade considerations, including LLMs, agentic AI
+- **Enterprise-Ready Tooling**: Integrates LLM orchestration, agentic AI, and observability to
 
 ## Use Cases
 

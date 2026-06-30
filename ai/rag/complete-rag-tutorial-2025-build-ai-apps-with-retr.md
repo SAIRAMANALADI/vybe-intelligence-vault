@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/playlist?list=PLNIQLFWpQMRUMjxfe8o6g3uzJ6LH_VotY
-published_at: '2026-06-30T22:48:07.385577+05:30'
-collected_at: '2026-06-30T22:48:07.385592+05:30'
+published_at: '2026-07-01T01:50:53.285153+05:30'
+collected_at: '2026-07-01T01:50:53.285170+05:30'
 tags:
 - hackernews
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:complete-rag-tutorial-2025-build-ai-apps-with-retr
-first_seen: '2026-06-30T22:48:07.385592+05:30'
-last_seen: '2026-06-30T22:48:07.385592+05:30'
-last_checked: '2026-06-30T22:48:07.385592+05:30'
+first_seen: '2026-07-01T01:50:53.285170+05:30'
+last_seen: '2026-07-01T01:50:53.285170+05:30'
+last_checked: '2026-07-01T01:50:53.285170+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,9 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partner Program), and advertising solutions (Google Ads).
-- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video delivery, with backend services optimized for low-latency streaming, recommendation algorithms (e.g., deep neural networks for content suggestions), and copyright enforcement (Content ID system).
-- **Developer & Policy Framework**: Provides APIs (YouTube Data/Player APIs) for third-party integration, enforces [Terms of Service](https://www.youtube.com/t/terms) and [Privacy Policy](https://www.youtube.com/t/privacy), and offers tools like YouTube Studio for creators to manage channels and analytics.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, live streaming, monetization (via YouTube Partners/Advertising), and creator tools (YouTube Studio, YouTube Kids, YouTube Music).
+- **Technical Infrastructure**: Utilizes Google’s distributed systems (e.g., CDNs, AI-driven recommendation algorithms) for scalable content delivery, copyright enforcement (Content ID), and policy compliance (e.g., age restrictions, community guidelines).
+- **Developer & API Access**: Provides public APIs (YouTube Data API, YouTube Analytics API) for third-party integration, enabling programmatic access to video metadata, uploads, and analytics under Google’s Terms of Service.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:48:07.385577+05:30
+- Published: 2026-07-01T01:50:53.285153+05:30
 
 ## Related Tags
 

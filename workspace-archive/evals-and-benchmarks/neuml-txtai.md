@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system for end-to-end AI applications.
-
-- **Modular Components**: Supports embeddings, vector search, RAG, and transformer models with built-in agents, enabling scalable NLP pipelines and information retrieval.
-
-- **Vector Database Integration**: Facilitates efficient vector search and retrieval-augmented generation (RAG) with support for sentence embeddings and larg
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system.
+- **Core Components**: Supports embeddings, vector search, RAG, and transformer models with built-in agents for AI-driven tasks.
+- **Scalable Architecture**: Combines sentence embeddings, vector databases, and retrieval-augmented generation (RAG) for high-performance information retrieval.
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-30T22:49:42.260732+05:30'
+collected_at: '2026-07-01T01:52:30.300040+05:30'
 published_at: '2026-06-30T16:48:54Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-30T22:49:42.260732+05:30'
-last_seen: '2026-06-30T22:49:42.260732+05:30'
-last_checked: '2026-06-30T22:49:42.260732+05:30'
+first_seen: '2026-07-01T01:52:30.300040+05:30'
+last_seen: '2026-07-01T01:52:30.300040+05:30'
+last_checked: '2026-07-01T01:52:30.300040+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework**: VideoRAG is a Retrieval-Augmented Generation (RAG) system designed for long-video understanding, enabling LLMs to interact with video content via multi-modal inputs (video, audio, text).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system enabling LLMs to process and interact with long-form video content, bridging the gap between multi-modal inputs and language models.
 
-- **Key Features**: Implements hierarchical video chunking, multi-modal embeddings, and dynamic retrieval to enhance long-context video comprehension in LLMs.
+- **Multi-Modal Integration**: Leverages advanced video understanding techniques to extract and structure temporal and semantic features, facilitating precise frame/segment retrieval for context-aware video Q&A.
 
-- **Technical Stack**: Python-based, leveraging large language models (LLMs), multi-modal encoders, and vector databases for efficient retrieval and generation.
+- **KDD'2026 Contribution**: Proposes a scalable architecture for long-video comprehension, optimizing retrieval efficiency and response generation for real-time video-based conversational AI.
 
 ## Why It Matters
 

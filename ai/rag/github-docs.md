@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/github/docs/blob/main/content/copilot/reference/copilot-cli-reference/cli-command-reference.md
-published_at: '2026-06-30T20:21:36.376938+05:30'
-collected_at: '2026-06-30T20:21:36.376955+05:30'
+published_at: '2026-07-01T02:05:07.312696+05:30'
+collected_at: '2026-07-01T02:05:07.312712+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: github:github/docs
-first_seen: '2026-06-30T20:21:36.376955+05:30'
-last_seen: '2026-06-30T20:21:36.376955+05:30'
-last_checked: '2026-06-30T20:21:36.376955+05:30'
+first_seen: '2026-07-01T02:05:07.312712+05:30'
+last_seen: '2026-07-01T02:05:07.312712+05:30'
+last_checked: '2026-07-01T02:05:07.312712+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Core CLI Commands**: `copilot` launches an interactive UI; `copilot init` initializes custom instructions; `copilot login` authenticates via OAuth device flow (supports `--host` for GitHub Enterprise); `copilot completion SHELL` enables shell-specific tab completion (bash/zsh/fish); `copilot update`/`version` manage CLI updates.
+- **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot completion SHELL` (enables tab completion for `bash`, `zsh`, `fish`), `copilot help [TOPIC]` (displays help for topics like `billing`, `config`, `permissions`), `copilot init` (initializes custom instructions), `copilot login` (authenticates via OAuth device flow or PAT), `copilot mcp` (manages MCP server configs), `copilot plugin` (manages plugins), `copilot update` (updates CLI), and `copilot version` (displays version info).
 
-- **Authentication Modes**: Supports OAuth tokens (CLI app or `gh` app), fine-grained PATs (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`), and stores tokens in system credential store or `~/.copilot/` (fallback to plaintext if no store exists).
+- **Authentication Methods**: Supports OAuth device flow (with `--host` for custom GitHub Enterprise URLs), environment variables (`COPILOT_GITHUB_TOKEN`, `GH_TOKEN`, `GITHUB_TOKEN`), and stores tokens securely in system credential stores or plaintext config (`~/.copilot/`). Valid token types include {% data variables.product.pat_v2_plural %} (v2 PATs) with "Copilot Requests" permission, OAuth tokens from CLI/GitHub CLI apps; classic PATs (`ghp_`) are unsupported.
 
-- **Interactive Shortcuts**: Global: `@ FILENAME` includes files, `# NUMBER` references GitHub issues/PRs, `! COMMAND` executes shell commands; Diff mode: `↑`/`↓` navigates changes, `c` comments, `b` toggles branch diff; Navigation: `Ctrl+A/E` moves cursor, `Alt+←/→` moves by word.
+- **Interactive Interface Shortcuts**: Global shortcuts include `@ FILENAME` (include file content), `# NUMBER` (include GitHub issue/PR), `! COMMAND` (execute shell command), `Ctrl+C` (cancel/clear), `Ctrl+G` (edit prompt in `$EDITOR`), and `/slash commands` (e.g., `/diff` for diff mode, `/init` for project initialization, `/delegate` for PR generation). Timeline/diff mode shortcuts enable navigation, search, and interaction with responses (e.g., `Ctrl+F` for search, `c` to comment in diff mode).
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:21:36.376938+05:30
+- Published: 2026-07-01T02:05:07.312696+05:30
 
 ## Related Tags
 

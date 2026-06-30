@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developers.cloudflare.com/workers/platform/limits/#cpu-time
-published_at: '2026-06-29T01:22:15.717646+05:30'
-collected_at: '2026-06-29T01:22:15.717659+05:30'
+published_at: '2026-07-01T01:55:23.552657+05:30'
+collected_at: '2026-07-01T01:55:23.552674+05:30'
 tags:
 - agents
 - dataset
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:limits-a-cloudflare-workers-docs
-first_seen: '2026-06-29T01:22:15.717659+05:30'
-last_seen: '2026-06-29T01:22:15.717659+05:30'
-last_checked: '2026-06-29T01:22:15.717659+05:30'
+first_seen: '2026-07-01T01:55:23.552674+05:30'
+last_seen: '2026-07-01T01:55:23.552674+05:30'
+last_checked: '2026-07-01T01:55:23.552674+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,18 @@ health_score: 100
 
 ## Summary
 
-- **Account Plan Limits**: Free plan allows 100K daily requests, 10ms CPU time per HTTP request, 128MB memory per isolate, 50 subrequests per invocation, and 6 simultaneous open connections. Paid plans offer no daily request limit, up to 5 minutes CPU time, 10MB worker size, and 10K subrequests per invocation.
-- **Request/Response Limits**: Max URL size is 16KB; request/response header sizes capped at 128KB. Free/Pro plans enforce 100MB max request body, Business 200MB, Enterprise 500MB (adjustable). No enforced response body limit (CDN cache limits apply: 512MB for Free/Pro/Business, 5GB for Enterprise).
-- **CPU Time & Memory Enforcement**: CPU time excludes network wait time; Free plan enforces 10ms per request, Paid up to 5 minutes (configurable). Memory limit is 128MB per isolate; exceeding triggers Error 1102. Streaming (e.g., `TransformStream`) and offloading to Durable Objects/KV/R2/D1 recommended for optimization.
+- **Plan-Specific Limits**:
+  - **Free Plan**: 100K daily requests, 10ms CPU time per HTTP request, 50 subrequests/invocation, 100 Workers/account.
+  - **Paid Plan**: Unlimited daily requests, 5min CPU time (configurable up to 300K ms), 10K subrequests/invocation, 500 Workers/account.
+
+- **Resource Constraints**:
+  - **Memory**: 128MB per isolate (includes JS heap and WebAssembly).
+  - **Concurrent Connections**: Max 6 simultaneous outgoing connections per invocation (headers-waiting phase only).
+  - **Request/Response**: 128KB header size limit; response body has no enforced limit (Enterprise: 5GB cache max).
+
+- **Duration & Subrequests**:
+  - **HTTP Requests**: No duration limit; Cron Triggers/Durable Objects limited to 15min.
+  - **Subrequests**: Free plan allows 50/invocation (1K to internal services), Paid allows 10K (configurable up to 10M).
 
 ## Why It Matters
 
@@ -39,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:22:15.717646+05:30
+- Published: 2026-07-01T01:55:23.552657+05:30
 
 ## Related Tags
 

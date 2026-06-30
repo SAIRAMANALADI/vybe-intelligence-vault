@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Maturity Levels**: OpenTelemetry specification documents follow defined maturity stages (Alpha, Beta, Release Candidate, Stable, Deprecated, Unmaintained), each with distinct stability guarantees, breaking change policies, and production readiness criteria per [OTEP 0232](https://github.com/open-telemetry/opentelemetry-specification/tree/v1.58.0/oteps/0232-maturity-of-otel.md#explanation).
+- **Maturity Levels**: OpenTelemetry specification documents follow defined maturity levels (Alpha, Beta, Release Candidate, Stable, Deprecated, Unmaintained) with distinct support guarantees, breaking change policies, and deprecation timelines as per [OTEP 0232](https://github.com/open-telemetry/opentelemetry-specification/tree/v1.58.0/oteps/0232-maturity-of-otel.md).
 
-- **Status Indicators**: Individual documents explicitly declare their maturity status (e.g., "Alpha"
+- **Document Statuses**: Individual documents may have explicit statuses (e.g., Development, Alpha, Beta) indicating stability,
 
 ## Use Cases
 

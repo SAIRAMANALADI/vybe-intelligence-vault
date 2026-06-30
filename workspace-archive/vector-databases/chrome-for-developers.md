@@ -14,6 +14,7 @@ tags:
 - agents
 - hackernews
 - rag
+- scripts
 - web-crawled
 - workflows
 - youtube
@@ -33,9 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Integration**: Chrome's AI capabilities (`auto_awesome`) enable developers to leverage machine learning models directly in the browser via the [Chrome AI API](https://developer.chrome.com/docs/ai), facilitating agentic web workflows.
-- **Performance & Debugging Tools**: Chrome 149/150 introduce CSS gap decorations, WebSocket bfcache handling, and Intl.Locale variants, alongside DevTools, Puppeteer, and ChromeDriver for automated testing and debugging.
-- **Web Platform APIs**: Chrome suppo
+- **AI Integration**: Chrome's AI-powered tool `auto_awesome` enables developers to leverage AI capabilities directly within the browser for enhanced web development workflows.
+- **Performance & Debugging**: Chrome 149 stable introduces CSS gap decorations, WebSocket bfcache disconnect handling, and Intl.Locale variants, while DevTools and Puppeteer provide advanced debugging and automation tools.
+- **Open Web Standards**: Chrome supports open initiatives like Baseline, ensuring cross-browser co
 
 ## Use Cases
 

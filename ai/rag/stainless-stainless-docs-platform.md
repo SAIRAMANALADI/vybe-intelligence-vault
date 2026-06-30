@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.stainless.com/products/docs
-published_at: '2026-06-30T10:12:47.354728+05:30'
-collected_at: '2026-06-30T10:12:47.354743+05:30'
+published_at: '2026-07-01T01:55:20.156005+05:30'
+collected_at: '2026-07-01T01:55:20.156022+05:30'
 tags:
 - agents
 - frontend_ui
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:stainless-stainless-docs-platform
-first_seen: '2026-06-30T10:12:47.354743+05:30'
-last_seen: '2026-06-30T10:12:47.354743+05:30'
-last_checked: '2026-06-30T10:12:47.354743+05:30'
+first_seen: '2026-07-01T01:55:20.156022+05:30'
+last_seen: '2026-07-01T01:55:20.156022+05:30'
+last_checked: '2026-07-01T01:55:20.156022+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically stay in sync with the actual API, eliminating manual updates and ensuring accuracy.
+- **Dynamic, Synchronized API Documentation**: REST API, SDK, and narrative docs stay automatically synchronized with the actual API, leveraging Astro for customization and cross-platform deployment.
 
-- **AI-Optimized Hybrid Search**: Integrates AI-powered hybrid search for both developer usability and AI agent compatibility, enhancing discoverability and integration with AI tools.
+- **AI-Agent & Developer-Optimized Features**: Supports AI-powered hybrid search, integration with AI tools (e.g., `llms.txt`), and minimal client-side JS for performance, alongside SEO/search optimization and light/dark modes.
 
-- **Extensible Astro-Based Framework**: Built on Astro for high-performance, content-driven websites with TypeScript-first customization, supporting SSG/SSR, and enabling full UI framework integration (React, Svelte, Vue, etc.).
+- **Extensible & Customizable Architecture**: Built on Astro with TypeScript-first customization (e.g., server-side actions, middleware, integrations), supports Tailwind/SASS/LESS theming, and allows deployment flexibility (Stainless-hosted or self-hosted).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:12:47.354728+05:30
+- Published: 2026-07-01T01:55:20.156005+05:30
 
 ## Related Tags
 

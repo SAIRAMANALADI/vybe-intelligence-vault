@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://workers.cloudflare.com
-published_at: '2026-06-29T01:20:56.474632+05:30'
-collected_at: '2026-06-29T01:20:56.474645+05:30'
+published_at: '2026-07-01T01:54:07.385138+05:30'
+collected_at: '2026-07-01T01:54:07.385156+05:30'
 tags:
 - agents
 - frontend_ui
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:cloudflare-workers-global-serverless-functions-pla
-first_seen: '2026-06-29T01:20:56.474645+05:30'
-last_seen: '2026-06-29T01:20:56.474645+05:30'
-last_checked: '2026-06-29T01:20:56.474645+05:30'
+first_seen: '2026-07-01T01:54:07.385156+05:30'
+last_seen: '2026-07-01T01:54:07.385156+05:30'
+last_checked: '2026-07-01T01:54:07.385156+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Global serverless execution**: Cloudflare Workers deploy to 330+ edge locations by default, enabling sub-100ms latency via isolates (V8-based lightweight execution environments) with automatic scaling from zero to millions of requests without cold starts or manual pre-warming.
+- **Global, Zero-Cold-Start Serverless Execution**: Cloudflare Workers deploy to 330+ edge locations with automatic scaling (0 → millions of requests), no cold starts, and pay-per-CPU-time billing (no idle charges).
 
-- **Cost-efficient compute model**: Pricing is based on actual CPU time consumed ($0.02 per million CPU ms) rather than idle time or provisioned capacity, with free tier offering 100k requests/day and 10ms CPU time per request.
+- **Multi-Language Edge Compute with Isolates**: Runs JavaScript/TypeScript, Python, or Rust on lightweight V8 isolates (vs. containers), enabling sub-10ms startup and infinite concurrency without pre-provisioning.
 
-- **Integrated ecosystem**: Supports multi-language development (JS/TS, Python, Rust) with bindings for D1 (SQL), KV (key-value), Workers AI (edge ML), Queues (async processing), and Durable Objects (stateful compute), enabling full-stack applications without infrastructure management.
+- **Integrated Edge Services**: Combines serverless functions with D1 (SQL), KV (key-value), Workers AI (on-device inference), and Durable Objects for stateful compute, all deployable via Git or CLI in seconds.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T01:20:56.474632+05:30
+- Published: 2026-07-01T01:54:07.385138+05:30
 
 ## Related Tags
 

@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents (VUA)**: Introduces a novel framework integrating multiple specialized agents (e.g., retrieval, reasoning, planning) into a cohesive system for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Generation (GraphRAG)**: Extends traditional RAG by incorporating graph-based knowledge representations, enabling dynamic retrieval and synthesis of interconnected information for improved multi-hop reas
+- **Graph Retrieval-Augmented Reasoning**: Leverages graph neural networks (GNNs) and retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs, improving contextual relevance and multi-hop reasoning over large-scale knowledge graphs.
+
+- **
 
 ## Use Cases
 

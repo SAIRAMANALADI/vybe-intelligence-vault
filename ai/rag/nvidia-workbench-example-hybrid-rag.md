@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-30T22:48:42.238106+05:30'
+collected_at: '2026-07-01T01:51:30.311746+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-30T22:48:42.238106+05:30'
-last_seen: '2026-06-30T22:48:42.238106+05:30'
-last_checked: '2026-06-30T22:48:42.238106+05:30'
+first_seen: '2026-07-01T01:51:30.311746+05:30'
+last_seen: '2026-07-01T01:51:30.311746+05:30'
+last_checked: '2026-07-01T01:51:30.311746+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Demonstrates a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document search accuracy in Python.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword) retrieval methods for enhanced document search and context augmentation.
 
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG pipeline using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG model using NVIDIA AI Workbench, leveraging GPU acceleration for efficient inference and retrieval.
 
-- **Modular Architecture**: Implements a scalable, modular design with configurable components for retrieval, reranking, and generation, supporting customization for domain-specific use cases.
+- **Python-Based Implementation**: Provides a Python-based reference implementation with modular components for document processing, retrieval, and generation, optimized for NVIDIA GPUs.
 
 ## Why It Matters
 

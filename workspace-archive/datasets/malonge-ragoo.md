@@ -13,7 +13,6 @@ importance: medium
 tags:
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** (`malonge/RagTag`) for continued development and support.
-- **Functionality**: Designed for **genome assembly scaffolding**, optimizing contig ordering and orientation using reference genomes or related datasets.
-- **Technical Stack**: Python-based tool with applications in **bioinformatics**, particularly for improving draft genome assemblies via alignment-based correction.
+- **Deprecation Notice**: RaGOO (Python-based) is no longer maintained; users are directed to migrate to **RagTag** ([GitHub](https://github.com/malonge/RagTag)) for genome scaffolding.
+- **Functionality**: Designed for **bioinformatics** tasks, specifically **genome assembly** and **scaffolding** of large genomic datasets.
+- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases
 

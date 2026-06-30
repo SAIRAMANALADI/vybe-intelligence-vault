@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems via GitHub Actions with declarative YAML configurations for CI/CD pipelines.
-- **Multi-Model Benchmarking**: Supports performance comparison across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning for LLM security assessment.
-- **TypeScript-Based Tooling**: Provides a TypeScript implementation for local/remote prompt evaluation, prompt engineering
+- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems via GitHub Actions with CI/CD compatibility.
+- **Multi-Model Benchmarking**: Supports performance comparison across LLM providers (GPT, Claude, Gemini, Llama) with declarative configuration.
+- **Security & Red Teaming**: Provides AI vulnerability scanning, pentesting, and red teaming capabilities for LLM-based systems.
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `ali-bahrainian/RAG_best_practices` – A Python-based repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, with 107 stars and 20 forks.
-- **Last Updated**: 2026-06-19T11:36:42Z – Indicates recent activity and maintenance.
-- **Topics**: None explicitly defined – Lacks categorized tags despite technical focus.
+- **Repository Overview**: GitHub repository focused on best practices for Retrieval-Augmented Generation (RAG) systems, containing Python-based implementations and guidelines.
+- **Metadata**: 107 stars, 20 forks, last updated on 2026-06-19.
+- **Technical Stack**: Primarily Python, with no additional topics or detailed description provided.
 
 ## Use Cases
 

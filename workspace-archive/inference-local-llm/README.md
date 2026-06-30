@@ -9,8 +9,8 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 ## Top Matched Resources
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) (api - ESSENTIAL Tier)
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) (tutorial - ESSENTIAL Tier)
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (benchmark - ESSENTIAL Tier)
 - [Community Providers: Ollama](https://ai-sdk.dev/providers/community-providers/ollama) (framework - USEFUL Tier)
 - [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (framework - USEFUL Tier)
@@ -23,10 +23,10 @@ https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
-- [pguso/ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch)
-- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
-- [vndee/local-assistant-examples](https://github.com/vndee/local-assistant-examples)
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
+- [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-30 23:04 IST*
+*Last updated: 2026-07-01 02:06 IST*

@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Guide**: Covers LLM fundamentals, fine-tuning, deployment, and advanced RAG applications on AWS with LLMOps best practices.
-- **Technical Depth**: Includes ML system design, evaluation frameworks, and MLOps integration for production-grade LLM systems.
-- **Practical Implementation**: Provides Python-based examples for deploying scalable LLM/RAG solutions with AWS infrastructure.
+- **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
+
+- **Technical Stack**: Implemented in Python, with modules for fine-tuning LLMs, RAG pipelines, evaluation frameworks, and ML system design for AWS environments.
+
+- **MLOps & LLMOps Integration**: Includes deployment strategies, monitoring, and operational best practices for LLMs, with AWS-specific configurations
 
 ## Use Cases
 

@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic, AI-Optimized Documentation**: REST API, SDK, and narrative docs auto-sync with the actual API, enabling AI agents to parse and developers to interact seamlessly via Markdown-based content.
+- **Dynamic, Synchronized API Documentation**: REST API, SDK, and narrative docs stay automatically synchronized with the actual API, leveraging Astro for customization and cross-platform deployment.
 
-- **Extensible Astro Framework**: Built on Astro for high-performance, content-driven sites with minimal client-side JS, SEO/search optimization, and support for TypeScript-first customization via server-side actions, middleware, and integration hooks.
+- **AI-Agent & Developer-Optimized Features**: Supports AI-powered hybrid search, integration with AI tools (e.g., `llms.txt`), and minimal client-side JS for performance, alongside SEO/search optimization and light/dark modes.
 
-- **Multi-Framework Theming & Deployment**:
+- **Extensible & Customizable Architecture**: Built on Astro with Type
 
 ## Use Cases
 

@@ -6,7 +6,7 @@ source_url: https://github.com/AgentOps-AI/agentops
 resource_id: github:agentops-ai/agentops
 local_vault_path: ai/agents/agentops-ai-agentops.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Inference and Local LLM`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Python SDK** for **AI agent monitoring**, **LLM cost tracking**, **benchmarking**, and **evaluation metrics** with support for **multi-framework integration** (CrewAI, Agno, OpenAI Agents SDK, LangChain, Autogen, AG2, CamelAI).
+- **Multi-framework SDK**: Python-based monitoring toolkit for AI agents, supporting integration with CrewAI, Agno, OpenAI Agents SDK, LangChain, AutoGen, AG2, and CamelAI, enabling cross-framework observability and cost tracking.
 
-- **Real-time analytics** for **cost estimation**, **performance evaluation**, and **debugging** across **OpenAI, Anthropic, Mistral, Groq, Ollama**, and other LLM providers.
+- **LLM Agnostic Cost & Performance Tracking**: Provides real-time monitoring of LLM token usage, cost estimation (across providers like OpenAI, Anthropic, Mistral, Groq), and benchmarking metrics for agent workflows.
 
-- **Seamless deployment** with **auto-instrumentation** for agent frameworks, enabling **pr
+- **Evaluation & Debugging Suite**: Includes buil
 
 ## Use Cases
 

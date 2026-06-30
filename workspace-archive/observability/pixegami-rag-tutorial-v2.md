@@ -11,9 +11,8 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- Implements **LangChain RAG pipeline** with **local LLMs** (e.g., Llama.cpp, Ollama) for offline inference.
-- Features **dynamic database updates** via automated document ingestion (e.g., ChromaDB, FAISS) with change detection.
-- Includes **testing framework** (e.g., pytest) for evaluating retrieval quality, latency, and LLM response accuracy.
+- **Local LLM Integration**: Demonstrates a Langchain-based RAG pipeline leveraging local large language models (LLMs) for offline inference, reducing dependency on cloud APIs.
+- **Dynamic Database Updates**: Implements a mechanism for real-time or periodic updates to the vector database (e.g., Chroma, FAISS) to reflect new or modified documents without full re-indexing.
+- **Testing Framework**: Includes automated evaluation tools (e.g., RAGAS, TruLens) to assess retrieval quality, response accu
 
 ## Use Cases
 

@@ -6,13 +6,12 @@ source_url: https://github.com/decodingai-magazine/llm-twin-course
 resource_id: github:decodingai-magazine/llm-twin-course
 local_vault_path: ai/rag/decodingai-magazine-llm-twin-course.md
 quality_score: 70
-archive_score: 87
+archive_score: 91
 archive_tier: essential
 resource_kind: tutorial
 importance: high
 tags:
 - github-repo
-- hackernews
 - python
 - rag
 selection_reason:
@@ -25,7 +24,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 91 (essential)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (streaming), Qdrant (vector DB), Qwak (MLOps), and Comet-ML (experiment tracking) with Docker for containerization.
-- **Focus Areas**: Covers ML system design, MLOps, and generative AI deployment, emphasizing scalability, infrastructure-as-code, and
+- **Course Structure**: Provides a free, hands-on curriculum for building production-ready LLM and RAG systems using LLMOps best practices, including 12 instructor-led sessions and source code.
+
+- **Tech Stack**: Implements AWS, Pulumi (IaC), Bytewax, Qdrant, Comet-ML, and Qwak for MLOps, with Docker for containerization and Superlinked for vector search optimization.
+
+- **Key Topics**: Covers LLM system design, MLOps, generative AI deployment, infrastructure-as-code, and integrates tools like Q
 
 ## Use Cases
 

@@ -14,8 +14,8 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) (workflow - ESSENTIAL Tier)
 - [devguide/documentation/help-documenting.rst at main · python/devguide · GitHub](https://github.com/python/devguide/blob/main/documentation/help-documenting.rst?plain=true) (tutorial - ESSENTIAL Tier)
 - [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) (framework - ESSENTIAL Tier)
-- [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag) (benchmark - ESSENTIAL Tier)
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) (framework - ESSENTIAL Tier)
+- [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) (benchmark - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-30 23:04 IST*
+*Last updated: 2026-07-01 02:07 IST*

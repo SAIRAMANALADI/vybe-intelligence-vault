@@ -6,7 +6,7 @@ source_url: https://developers.cloudflare.com/workers
 resource_id: blog:overview-a-cloudflare-workers-docs
 local_vault_path: ai/rag/overview-a-cloudflare-workers-docs.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -20,6 +20,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
+- Strong keyword match
 - Useful for project building
 ---
 
@@ -28,16 +29,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Serverless Execution Model**: Cloudflare Workers enables serverless execution of JavaScript, TypeScript, Python, Rust, and WebAssembly on Cloudflare’s global edge network, eliminating infrastructure management via a single-command deployment model.
+- **Serverless execution environment**: Cloudflare Workers enables deployment of JavaScript/TypeScript/Python/Rust functions on Cloudflare’s global edge network, eliminating infrastructure management via a single CLI command (`wrangler`).
 
-- **Integrated Storage & Compute Bindings**: Supports stateful (Durable Objects), SQL (D1), key-value (KV), vector (Vectorize), and object storage (R2), alongside AI inference (Workers AI), cron triggers, and durable workflows for full-stack edge
+- **Integrated storage & compute bindings**: Supports stateful (Durable Objects), SQL (D1), KV, and vector databases (Vectorize), plus serverless AI (Workers AI) and durable workflows (Workflows) with optimized latency via Smart Placement.
+
+- **Observability &
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
-collected_at: '2026-06-30T22:49:47.250052+05:30'
-published_at: '2026-06-30T16:56:05Z'
+collected_at: '2026-07-01T01:52:35.342291+05:30'
+published_at: '2026-06-30T19:11:27Z'
 tags:
 - agents
 - benchmark
@@ -15,7 +15,7 @@ tags:
 - rag
 - unknown
 - workflows
-stars: 1489
+stars: 1490
 language: Unknown
 status: active
 license: MIT
@@ -23,9 +23,9 @@ archived: false
 created_at: '2026-02-10T10:58:31Z'
 pushed_at: '2026-05-25T07:32:17Z'
 resource_id: github:voltagent/awesome-ai-agent-papers
-first_seen: '2026-06-30T22:49:47.250052+05:30'
-last_seen: '2026-06-30T22:49:47.250052+05:30'
-last_checked: '2026-06-30T22:49:47.250052+05:30'
+first_seen: '2026-07-01T01:52:35.342291+05:30'
+last_seen: '2026-07-01T01:52:35.342291+05:30'
+last_checked: '2026-07-01T01:52:35.342291+05:30'
 health_score: 100
 ---
 
@@ -34,8 +34,8 @@ health_score: 100
 ## Summary
 
 - **Curated 2026 AI Agent Research**: Repository aggregates cutting-edge papers on AI agent engineering, memory systems, evaluation frameworks, workflows, and autonomous systems.
-- **Technical Scope**: Encompasses LLM-based agents, retrieval-augmented generation (RAG), agent memory architectures, and workflow optimization for autonomous decision-making.
-- **Repository Metrics**: 1,489 stars, 160 forks, last updated June 30, 2026; serves as a high-signal reference for AI agent advancements.
+- **Technical Scope**: Covers LLM-based agents, retrieval-augmented generation (RAG), and multi-agent architectures with emphasis on scalability and autonomy.
+- **Metadata**: 1,490 stars, 160 forks; last updated June 30, 2026; supports research in AI agent systems and memory-augmented architectures.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: VoltAgent
-- Stars: 1489
+- Stars: 1490
 - Forks: 160
 - Language: Unknown
 - Topics: ai-agents, awesome, awesome-list, llm, llm-agents, memory, rag, research-paper
-- Last Updated: 2026-06-30T16:56:05Z
+- Last Updated: 2026-06-30T19:11:27Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-10T10:58:31Z

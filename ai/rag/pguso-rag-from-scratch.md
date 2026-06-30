@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-30T22:48:17.139836+05:30'
+collected_at: '2026-07-01T01:51:05.220531+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-- scripts
+- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-06-30T22:48:17.139836+05:30'
-last_seen: '2026-06-30T22:48:17.139836+05:30'
-last_checked: '2026-06-30T22:48:17.139836+05:30'
+first_seen: '2026-07-01T01:51:05.220531+05:30'
+last_seen: '2026-07-01T01:51:05.220531+05:30'
+last_checked: '2026-07-01T01:51:05.220531+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
-
-- **JavaScript-Based Pipeline**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with a modular design for educational clarity in RAG components (embedding models, vector DBs, retrieval logic, and prompt augmentation).
-
-- **Agent & Chatbot Use Case**: Implements a RAG-powered chatbot/agent system, showcasing practical applications of the pipeline for interactive Q&A or task automation, with topics covering AI agents, RAG pipelines, and Node.js LLM integration.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM inference, avoiding external black-box APIs.
+- **Core Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation with step-by-step educational breakdown.
+- **Educational Focus**: Provides a hands-on tutorial for building RAG systems from scratch, emphasizing transparency and real-world understanding of AI agent workflows.
 
 ## Why It Matters
 

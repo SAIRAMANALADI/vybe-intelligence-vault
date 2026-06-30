@@ -4,17 +4,18 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/jqlang/jq/releases/tag/jq-1.8.2
-published_at: '2026-06-28T01:27:29.462135+05:30'
-collected_at: '2026-06-28T01:27:29.462142+05:30'
+published_at: '2026-07-01T02:05:06.521376+05:30'
+collected_at: '2026-07-01T02:05:06.521392+05:30'
 tags:
 - frontend_ui
 - hackernews
+- scripts
 - web-crawled
 status: active
 resource_id: github:jqlang/jq
-first_seen: '2026-06-28T01:27:29.462142+05:30'
-last_seen: '2026-06-28T01:27:29.462142+05:30'
-last_checked: '2026-06-28T01:27:29.462142+05:30'
+first_seen: '2026-07-01T02:05:06.521392+05:30'
+last_seen: '2026-07-01T02:05:06.521392+05:30'
+last_checked: '2026-07-01T02:05:06.521392+05:30'
 health_score: 100
 ---
 
@@ -22,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Security Patches**: Addressed 16 CVEs in jq 1.8.2, including heap buffer overflows (`CVE-2026-32316`), stack overflows (`CVE-2026-33947`), NUL truncation (`CVE-2026-33948`), and hash collision DoS mitigations (`CVE-2026-40164`), among others.
+- **Security fixes**: Patched 16 CVEs in jq 1.8.2, including heap buffer overflows (`jvp_string_append`, `jvp_string_copy_replace_bad`), stack overflows (`jv_setpath`, `contains`), NUL truncation in JSON parser, and hash collision DoS mitigation via randomized hash seed.
 
-- **New Architectural Support**: Added Windows ARM64 builds and Docker support for ARMv7 architecture, enhancing cross-platform compatibility.
+- **New architectures & signing**: Added Windows arm64 builds and Docker arm/v7 support; updated GPG signing key and introduced GitHub Actions artifact attestation for release verification.
 
-- **Bug Fixes & Improvements**: Fixed critical issues like `del(.[nan])` infinite loops, UTF-8 corruption in `@uri`/`@urid`, and increased max printing depth from 256 to 10,000 for large outputs.
+- **Performance & correctness**: Increased max printing depth to 10000, fixed `tonumber`/`toboolean` null-byte handling, resolved year 2038 issue on 32-bit platforms, and corrected UTF-8 corruption in `@uri`/`@urid` functions.
 
 ## Why It Matters
 
@@ -36,12 +37,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-28T01:27:29.462135+05:30
+- Published: 2026-07-01T02:05:06.521376+05:30
 
 ## Related Tags
 
 - frontend_ui
 - hackernews
+- scripts
 - web-crawled
 
 ## Source

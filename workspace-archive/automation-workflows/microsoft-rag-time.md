@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -38,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient indexing.
-- **Tools & Integration**: Hands-on labs using Azure, OpenAI APIs, HNSW for vector search, and VS Code; includes responsible AI practices and multimodal RAG workflows.
-- **Optimization Focus**: Techniques for scalar/binary quantization, hybrid search tuning, and perform
+- **Learning Path**: 5-week structured curriculum covering RAG fundamentals, hybrid search (vector + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM retrieval.
+- **Technical Stack**: Integrates Azure OpenAI, HNSW for vector search, and VS Code notebooks; includes responsible AI practices and multimodal indexing workflows.
+- **Optimization Focus**: Demonstrates scalar/binary quantization for storage efficiency and retrieva
 
 ## Use Cases
 

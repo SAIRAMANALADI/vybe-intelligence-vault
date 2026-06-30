@@ -4,23 +4,23 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/copilot/cli
-published_at: '2026-06-30T22:53:13.188612+05:30'
-collected_at: '2026-06-30T22:53:13.188629+05:30'
+published_at: '2026-07-01T01:55:28.413377+05:30'
+collected_at: '2026-07-01T01:55:28.413392+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
-- reddit
+- scripts
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-30T22:53:13.188629+05:30'
-last_seen: '2026-06-30T22:53:13.188629+05:30'
-last_checked: '2026-06-30T22:53:13.188629+05:30'
+first_seen: '2026-07-01T01:55:28.413392+05:30'
+last_seen: '2026-07-01T01:55:28.413392+05:30'
+last_checked: '2026-07-01T01:55:28.413392+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and autonomous multi-step workflows from `/plan` to merged PRs.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports `/fleet` for parallelized subagent execution, enabling concurrent task processing across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching and `/plan` to `/pr` automation.
 
-- **Native GitHub Integration**: Built on GitHub’s Model Context Protocol (MCP), it natively interacts with issues, branches, and PRs, inherits org policies (Business/Enterprise), and enforces branch protections/required checks without additional setup.
+- **Native GitHub Integration**: Built on GitHub’s `/mcp` protocol, it interacts directly with issues, PRs, and branches, inheriting org policies (branch protections, required checks) while allowing `/remote` access across devices.
 
-- **Session Persistence & Extensibility**: Maintains context across sessions via `/resume`, supports custom agents (`/agent`) and skills (AGENTS.md), and allows MCP server/plugin integrations for tailored tooling, with experimental features accessible via `/experimental show`.
+- **Terminal-to-IDE Continuity**: Operates via terminal commands (`/plan`, `/resume`, `/delegate`) with VS Code integration, session persistence, and explicit approval gates for file modifications/commands, ensuring governance and security compliance.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T22:53:13.188612+05:30
+- Published: 2026-07-01T01:55:28.413377+05:30
 
 ## Related Tags
 
@@ -51,7 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
-- reddit
+- scripts
 - web-crawled
 - workflows
 - youtube

@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance contextual relevance.
-- **AAAI 2026 Framework**: Proposed method for efficient knowledge-grounded generation, optimizing retrieval-augmented pipelines via graph-aware hierarchical indexing.
-- **Python Implementation**: Open-source codebase with modular components for knowledge graph integration,
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic aggregation + hierarchical traversal) for improved context relevance in generation tasks.
+
+- **Efficiency Optimization**: Designed for AAAI 2026 with lightweight architecture (Python) to reduce computational overhead while maintaining high retrieval accuracy via graph pruning and semantic caching.
+
+- **Modular Pipeline**: Provides a structured, extensible ret
 
 ## Use Cases
 

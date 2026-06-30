@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-06-30T22:49:02.188645+05:30'
+collected_at: '2026-07-01T01:51:50.280164+05:30'
 published_at: '2026-06-30T11:35:52Z'
 tags:
-- benchmark
 - github-repo
 - hackernews
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-06-15T18:27:39Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-06-30T22:49:02.188645+05:30'
-last_seen: '2026-06-30T22:49:02.188645+05:30'
-last_checked: '2026-06-30T22:49:02.188645+05:30'
+first_seen: '2026-07-01T01:51:50.280164+05:30'
+last_seen: '2026-07-01T01:51:50.280164+05:30'
+last_checked: '2026-07-01T01:51:50.280164+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A comprehensive, community-maintained repository aggregating state-of-the-art research, tools, and frameworks focused on **Retrieval-Augmented Generation (RAG)** for Large Language Models (LLMs), including embeddings, retrieval techniques, and hybrid architectures.
-
-- **Technical Scope**: Covers advanced topics such as **dense retrieval (e.g., DPR, Contriever), sparse retrieval (e.g., BM25, TF-IDF), fusion methods (e.g., RRF, reciprocal rank fusion), and LLM integration strategies** (e.g., self-RAG, adaptive retrieval).
-
-- **Dynamic Updates**: Actively maintained with the latest advancements (last updated **2026-06-30**), featuring contributions from academia and industry, including benchmarks (e.g., BEIR, MTEB), open-source implementations, and evaluation methodologies.
+- **Curated resource**: A GitHub repository (`jxzhangjhu/Awesome-LLM-RAG`) aggregating advanced **Retrieval-Augmented Generation (RAG)** techniques, frameworks, and research for **Large Language Models (LLMs)**.
+- **Key focus areas**: Includes **embeddings**, **retrieval mechanisms**, and **RAG-optimized architectures** to enhance LLM performance via external knowledge integration.
+- **Updated**: Last modified **2026-06-30**, with **1,340 stars** and **84 forks**, indicating active community engagement.
 
 ## Why It Matters
 

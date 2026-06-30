@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/study8677/antigravity-workspace-template
-collected_at: '2026-06-30T22:48:27.154611+05:30'
+collected_at: '2026-07-01T01:51:15.243749+05:30'
 published_at: '2026-06-30T08:59:45Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-11-19T08:51:14Z'
 pushed_at: '2026-06-20T03:01:07Z'
 resource_id: github:study8677/antigravity-workspace-template
-first_seen: '2026-06-30T22:48:27.154611+05:30'
-last_seen: '2026-06-30T22:48:27.154611+05:30'
-last_checked: '2026-06-30T22:48:27.154611+05:30'
+first_seen: '2026-07-01T01:51:15.243749+05:30'
+last_seen: '2026-07-01T01:51:15.243749+05:30'
+last_checked: '2026-07-01T01:51:15.243749+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI)
-- **MCP server integration** for Python-based codebase Q&A, RAG, and knowledge graph construction
-- **IDE-agnostic plugin** supporting OpenAI, Copilot, and Windsurf with cross-platform developer tool compatibility
+- **Multi-agent knowledge engine** enabling grounded Q&A with file paths and line numbers for codebase interaction across AI IDEs (Claude Code, Cursor, Codex CLI).
+
+- **MCP server-based architecture** integrating RAG, knowledge graphs, and OpenAI-compatible APIs for real-time, context-aware code intelligence.
+
+- **Plug-and-play template** in Python supporting IDE plugins (e.g., Copilot, Windsurf) with 1,293+ stars, 259+ forks, and active development (last updated 2026-06-30).
 
 ## Why It Matters
 

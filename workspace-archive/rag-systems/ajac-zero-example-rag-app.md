@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: tool
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -25,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: tool
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based RAG application with full type-checking, 100% test coverage, and Dockerized deployment.
-- **Observability & Providers**: Integrates Langfuse for LLM observability and LiteLLM for support of 100+ LLM providers.
-- **Metadata**: 159 stars, 24 forks, last updated March 17, 2026.
+- **Observability & LLM Integration**: Implements Langfuse for LLM observability, supporting 100+ providers via LiteLLM for seamless model switching and monitoring.
+- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility and scalability.
+- **Modern AI Stack**: Built as a RAG (Retrieval-Augmented Generation) application with AI/ML best practices, last updated March 2026.
 
 ## Use Cases
 

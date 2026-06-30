@@ -11,13 +11,14 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: active
+status: inactive
 resource_id: blog:jun-30-2026announcementsclaude-science-an-ai-workb
 first_seen: '2026-06-30T22:47:05.477193+05:30'
 last_seen: '2026-06-30T22:47:05.477193+05:30'
 last_checked: '2026-06-30T22:47:05.477193+05:30'
 health_score: 100
 ---
+
 
 # Jun 30, 2026AnnouncementsClaude Science, an AI workbench for scientists, is now available
 

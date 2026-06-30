@@ -14,6 +14,7 @@ tags:
 - github-repo
 - java
 - rag
+- scripts
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility standards (PDF/UA, WCAG) and automated tagging for screen readers.
-- **Multi-format output** with OCR support, enabling conversion to HTML, JSON, Markdown, and bounding-box annotated formats for structured document parsing.
-- **Enterprise-grade features** including table detection, tagged-PDF processing, and integration with RAG pipelines for AI applications.
+- **Java-based PDF parser** designed for AI-ready data extraction, supporting accessibility compliance (PDF/UA, WCAG) and automated tagging for structured content.
+- **Multi-format output** with OCR support, enabling conversion to HTML, JSON, Markdown, and bounding box annotations for tables and complex layouts.
+- **Open-source tool** optimized for RAG pipelines, document parsing, and accessibility automation, with active community maintenance (26K+ stars, 2.4K+ forks).
 
 ## Use Cases
 

@@ -16,6 +16,7 @@ tags:
 - hackernews
 - python
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `Sri-Krishna-V/awesome-adk-agents` is a curated list of AI agents built using Google's Agent Development Kit (ADK), featuring templates, best practices, and production-ready examples across research, business, automation, and education domains.
+- **Curated ADK Resources**: Repository offering a structured collection of AI agents built with Google’s Agent Development Kit (ADK), including templates, best practices, and production-ready examples across domains like research, business, automation, and education.
 
-- **Technical Stack**: Primarily implemented in Python (`adk-python`), with support for `adk-web`; includes examples for multi-agent systems, agentic AI, and integration with Google's Gemini AI.
+- **Multi-Faceted ADK Support**: Focuses on `ADK-Python`, `ADK-Web`, and `Gemini-AI` integrations, enabling development of agentic AI systems, multi-agent architectures, and deployment-ready solutions with modular templates.
 
-- **Metadata*
+- **
 
 ## Use Cases
 

@@ -1,9 +1,9 @@
 ---
-title: opentelemetry-specification/specification/document-status.md at main · open-telemetry/opentelemetry-specification
-  · GitH
+title: opentelemetry-specification/oteps/0232-maturity-of-otel.md at v1.58.0 · open-telemetry/opentelemetry-specification
+  · Git
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/open-telemetry/opentelemetry-specification/tree/main/specification/document-status.md
+source_url: https://github.com/open-telemetry/opentelemetry-specification/tree/v1.58.0/oteps/0232-maturity-of-otel.md#explanation
 resource_id: github:open-telemetry/opentelemetry-specification
 local_vault_path: ai/rag/open-telemetry-opentelemetry-specification.md
 quality_score: 70
@@ -12,6 +12,7 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- agents
 - hackernews
 - rag
 - web-crawled
@@ -19,7 +20,7 @@ selection_reason:
 - Useful for project building
 ---
 
-# opentelemetry-specification/specification/document-status.md at main · open-telemetry/opentelemetry-specification · GitH
+# opentelemetry-specification/oteps/0232-maturity-of-otel.md at v1.58.0 · open-telemetry/opentelemetry-specification · Git
 
 ## Why This Is In The Archive
 
@@ -31,7 +32,8 @@ selection_reason:
 
 ## Summary
 
-- **Status Definitions**: No explicit status = Alpha; Development = incomplete, unstable, not for production; Alpha = limited production use, unstable interfaces, may be dropped; Beta = stable interfaces, broader non-critical production use; Release Candidate = feature-complete, near-stable, minimal breaking changes; Stable = general availability, rare breaking changes; Deprecated = halted development, removal planned; Unmaintained = no active owner, seeking contributors, may be deprecated after
+- **Maturity Levels Framework**: OpenTelemetry SIGs must declare maturity levels (Development, Alpha, Beta, Release Candidate, Stable, Deprecated, Unmaintained) for deliverables/components, with stability requirements enforced hierarchically (e.g., a component's stability cannot exceed its dependencies').
+- **Stability Criteria**: Components must adhere to stability-specific constraints (e.g., breaking changes allowed only in special cases for Stable/Release Candidate), with explicit deprecation
 
 ## Use Cases
 
@@ -41,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/open-telemetry/opentelemetry-specification/tree/main/specification/document-status.md
+Original source URL: https://github.com/open-telemetry/opentelemetry-specification/tree/v1.58.0/oteps/0232-maturity-of-otel.md#explanation
 
 ## Local Vault File
 

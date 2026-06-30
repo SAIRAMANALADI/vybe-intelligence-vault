@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-06-30T22:49:17.207553+05:30'
+collected_at: '2026-07-01T01:52:05.372249+05:30'
 published_at: '2026-06-30T16:56:26Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-06-30T22:49:17.207553+05:30'
-last_seen: '2026-06-30T22:49:17.207553+05:30'
-last_checked: '2026-06-30T22:49:17.207553+05:30'
+first_seen: '2026-07-01T01:52:05.372249+05:30'
+last_seen: '2026-07-01T01:52:05.372249+05:30'
+last_checked: '2026-07-01T01:52:05.372249+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world contexts.
+- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized performance assessment of LLMs in real-world contexts.
 
-- **Features**: Includes synthetic data generation, semantic search evaluation, and question-answering tasks tailored for enterprise knowledge bases and large language models (LLMs).
+- **Key Features**:
+  - Includes synthetic data generation for enterprise knowledge bases.
+  - Supports evaluation metrics for retrieval quality, answer correctness, and semantic search performance in RAG pipelines.
 
-- **Technical Scope**: Supports Python-based implementations, covers LLM evaluation metrics, and integrates tools for information retrieval, generative AI, and semantic search within enterprise environments.
+- **Technical Scope**:
+  - Covers Python-based implementations for RAG evaluation, semantic search, and information retrieval.
+  - Designed for large-scale enterprise search and generative AI applications, with a focus on LLM integration and synthetic data augmentation.
 
 ## Why It Matters
 

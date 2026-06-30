@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates building AI agents using local large language models (LLMs) via `node-llama-cpp`, eliminating reliance on external APIs or black-box systems.
+- **Local LLM Implementation**: Demonstrates building AI agents from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box dependencies, enabling full transparency in agent architecture and behavior.
 
-- **Core Agent Mechanics**: Implements key agent patterns including **function calling**, **memory management**, and **ReAct (Reasoning and Acting)** logic to enable autonomous decision-making and tool use.
+- **Core Agent Patterns**: Implements and explains key agent design patterns, including **function calling** (tool use) and **ReAct** (Reasoning + Acting) loops, with practical examples in JavaScript.
 
-- **Educational Focus**: Provides a hands-on tutorial in JavaScript to dissect and construct AI agents from
+- **Memory & State Management**: Focuses on agent memory systems and stateful intera
 
 ## Use Cases
 

@@ -4,16 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/openai/mle-bench
-collected_at: '2026-06-30T20:17:56.112164+05:30'
-published_at: '2026-06-30T11:24:58Z'
+collected_at: '2026-07-01T01:53:45.421185+05:30'
+published_at: '2026-06-30T16:47:46Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - openai
 - python
 - workflows
-stars: 1603
+stars: 1601
 language: Python
 status: active
 license: NOASSERTION
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-10-08T17:07:40Z'
 pushed_at: '2026-04-24T17:33:44Z'
 resource_id: github:openai/mle-bench
-first_seen: '2026-06-30T20:17:56.112164+05:30'
-last_seen: '2026-06-30T20:17:56.112164+05:30'
-last_checked: '2026-06-30T20:17:56.112164+05:30'
+first_seen: '2026-07-01T01:53:45.421185+05:30'
+last_seen: '2026-07-01T01:53:45.421185+05:30'
+last_checked: '2026-07-01T01:53:45.421185+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **MLE-bench**: A benchmark suite designed to evaluate AI agents' proficiency in machine learning engineering tasks, including model training, debugging, and optimization.
-
-- **Implementation**: Written in Python, the benchmark provides standardized tasks and metrics to assess performance across key ML engineering workflows.
-
-- **Metadata**: 1,603 stars, 256 forks, last updated June 30, 2026.
+- **Benchmark Scope**: MLE-bench evaluates AI agents' proficiency in end-to-end machine learning engineering tasks, including data processing, model training, and deployment.
+- **Technical Implementation**: Python-based framework with standardized tasks and metrics to assess agent performance across ML engineering workflows.
+- **Repository Status**: Actively maintained (last update: 2026-06-30), with 1.6k stars and 256 forks, indicating community engagement.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: openai
-- Stars: 1603
+- Stars: 1601
 - Forks: 256
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-30T11:24:58Z
+- Last Updated: 2026-06-30T16:47:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-10-08T17:07:40Z

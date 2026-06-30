@@ -8,7 +8,7 @@ local_vault_path: ai/rag/wenyuchiou-awesome-agentic-ai-zh.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: prompt
 importance: medium
 tags:
 - agents
@@ -19,7 +19,7 @@ tags:
 - rag
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # WenyuChiou/awesome-agentic-ai-zh
@@ -28,17 +28,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: prompt
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals, agentic workflows, multi-agent systems, and hands-on examples in Traditional Chinese, English, and Simplified Chinese.
+- **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including hands-on examples.
 
-- **Technical Scope**: Covers prompt engineering, RAG, MCP, CLI tools (e.g., `claude-code`), and integration with frameworks like `claude-skills`, with Python-focused implementations.
+- **Technical Scope**: Encompasses LLM agents, agentic workflows, prompt engineering, RAG, MCP, CLI tools (e.g., Claude Code/Skills), and multi-agent system architectures.
 
-- **Community & Maintenance**: Actively maintained (last updated 2026-06-30), with 3,615 stars and 489 forks,
+- **Repository Metrics**: 3,615 stars, 489 forks; primarily Python-based with structured tutorials and CLI integr
 
 ## Use Cases
 

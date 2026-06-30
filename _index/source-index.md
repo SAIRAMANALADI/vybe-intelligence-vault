@@ -5864,11 +5864,10 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+  - [Jun 11, 2026AnnouncementsIntroducing Claude Corps](../ai/companies/anthropic/jun-11-2026announcementsintroducing-claude-corps.md)
   - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
   - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
   - [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)
-  - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
-  - [Jun 30, 2026AnnouncementsClaude Science, an AI workbench for scientists, is now available](../ai/companies/anthropic/jun-30-2026announcementsclaude-science-an-ai-workb.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
@@ -5879,6 +5878,7 @@ Resources organized by publisher feed and query sources.
   - [Product Introducing Search Toolkit Production search pipelines, anywhere. May 28, 2026 Mistral](../ai/companies/mistral/introducing-search-toolkit.md)
   - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
   - [ProductJun 23, 2026Introducing Claude TagClaude Tag is a new way for teams to work with Claude.](../ai/companies/anthropic/productjun-23-2026introducing-claude-tagclaude-tag.md)
+  - [ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md)
   - [Publications](../ai/companies/publications.md)
   - [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
@@ -6655,7 +6655,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: github_releases)
 
-  - [crewAIInc/crewAI Release: 1.15.1](../ai/rag/crewaiinc-crewai.md)
+  - [crewAIInc/crewAI Release: 1.15.2a1](../ai/rag/crewaiinc-crewai.md)
   - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
   - [langchain-ai/langchain Release: langchain-openrouter==0.2.5](../ai/releases/langchain-ai-langchain.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
@@ -6670,8 +6670,8 @@ Resources organized by publisher feed and query sources.
   - [altic-dev/FluidVoice](../ai/trending/altic-dev-fluidvoice.md)
   - [browser-use/video-use](../ai/agents/browser-use-video-use.md)
   - [diegosouzapw/OmniRoute](../ai/trending/diegosouzapw-omniroute.md)
-  - [facebook/astryx](../ai/agents/facebook-astryx.md)
   - [google/agents-cli](../ai/agents/google-agents-cli.md)
+  - [hasaneyldrm/exercises-dataset](../ai/trending/hasaneyldrm-exercises-dataset.md)
   - [microsoft/AI-For-Beginners](../ai/trending/microsoft-ai-for-beginners.md)
   - [msitarzewski/agency-agents](../ai/agents/msitarzewski-agency-agents.md)
   - [ogulcancelik/herdr](../ai/agents/ogulcancelik-herdr.md)
@@ -6684,9 +6684,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [.self: A new top-level domain designed to support self-hosting](../ai/community/self-a-new-top-level-domain-designed-to-support-se.md)
-  - [Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](../ai/community/computer-aided-language-development-in-nonspeaking.md)
-  - [EU commissioners shut down air conditioning for employees, leave theirs on](../ai/community/eu-commissioners-shut-down-air-conditioning-for-em.md)
-  - [Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](../ai/community/scammers-sell-seeds-for-exotic-ai-generated-flower.md)
+  - [Antares achieves criticality of Mark-0 reactor](../web-development/community/antares-achieves-criticality-of-mark-0-reactor.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -7322,6 +7320,7 @@ Resources organized by publisher feed and query sources.
   - [Scaling robotics datasets with video encoding](../ai/models/scaling-robotics-datasets-with-video-encoding.md)
   - [Scaling up BERT-like model Inference on modern CPU - Part 2](../ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)
   - [Scaling-up BERT Inference on CPU (Part 1)](../ai/models/scaling-up-bert-inference-on-cpu-part-1.md)
+  - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](../ai/agents/huggingface-blog-ibm-research-scarfbench.md)
   - [ScreenEnv: Deploy your full stack Desktop Agent](../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)
   - [ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)
   - [SegMoE: Segmind Mixture of Diffusion Experts](../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)
@@ -7994,6 +7993,7 @@ Resources organized by publisher feed and query sources.
   - [Blog | Chrome for Developers](../web-development/blog-chrome-for-developers.md)
   - [Blog | Discourse](../ai/rag/blog-discourse.md)
   - [Blog | RAGFlow](../ai/rag/blog-ragflow.md)
+  - [Blowfish](../ai/resources/blowfish.md)
   - [Booster Robotics Becomes RoboCup’s Official Partner! | by Booster Robotics | Medium](../ai/agents/booster-robotics-becomes-robocups-official-partner.md)
   - [Booster Robotics Official Website | Made for Developers | Made for Champion](../ai/resources/booster-robotics-official-website-made-for-develop.md)
   - [Booster Robotics Won Two World Championships Consecutively | by Booster Robotics | Medium](../ai/agents/booster-robotics-won-two-world-championships-conse.md)
@@ -10559,7 +10559,7 @@ Resources organized by publisher feed and query sources.
   - [nvidia / nvidia-nemotron-nano-9b-v2](../ai/rag/nvidia-nvidia-nemotron-nano-9b-v2.md)
   - [nvidia-nemotron-nano-9b-v2 Model by NVIDIA | NVIDIA NIM](../ai/rag/nvidia-nemotron-nano-9b-v2-model-by-nvidia-nvidia.md)
   - [openai/gpt-oss-120b · Hugging Face](../ai/agents/huggingface-openai-gpt-oss-120b.md)
-  - [opentelemetry-specification/specification/document-status.md at main · open-telemetry/opentelemetry-specification · GitH](../ai/rag/open-telemetry-opentelemetry-specification.md)
+  - [opentelemetry-specification/oteps/0232-maturity-of-otel.md at v1.58.0 · open-telemetry/opentelemetry-specification · Git](../ai/rag/open-telemetry-opentelemetry-specification.md)
   - [p9-26.html](../ai/resources/p9-26-html.md)
   - [pandoc • pandoc](../ai/rag/pandoc-pandoc.md)
   - [pandoc: Conversion between markup formats](../ai/rag/pandoc-conversion-between-markup-formats.md)
@@ -10677,4 +10677,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-06-30T23:03:04.326941+05:30*
+*Index generated on 2026-07-01T02:05:53.286523+05:30*

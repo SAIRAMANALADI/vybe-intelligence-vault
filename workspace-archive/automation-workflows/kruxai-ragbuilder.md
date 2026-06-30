@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
 - python
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and optimized workflows for data ingestion, indexing, and retrieval.
+- **Modular RAG Pipeline**: Provides a Python-based toolkit for constructing production-grade RAG systems with customizable components (e.g., embedders, retrievers, LLMs) and configurable workflows.
 
-- **Performance Optimization**: Implements advanced techniques like dynamic chunking, reranking, and hybrid search (dense + sparse retrieval) to enhance accuracy and latency in real-world deployments.
+- **Optimized Retrieval & Generation**: Implements techniques like dynamic chunking, reranking, and hybrid search to enhance retrieval quality and mitigate hallucinations in LLM outputs.
 
-- **Scalability & Deployment**: Supports integration with
+- **Scalability & Deployment**: Supports integration with vector databases (e.g., FAISS, Pinecone) and cloud ser
 
 ## Use Cases
 

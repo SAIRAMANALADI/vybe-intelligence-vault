@@ -8,13 +8,14 @@ local_vault_path: ai/agents/hugging-face-github.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
 - dataset
 - models
 - producthunt
+- reddit
 - web-crawled
 - youtube
 selection_reason:
@@ -27,15 +28,17 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Core Libraries**: Hugging Face maintains flagship libraries like `transformers` (162k stars) for unified ML model definitions across modalities, `diffusers` (33.9k stars) for diffusion-based generative models, and `datasets` (21.7k stars) for large-scale, optimized data pipelines.
+- **Hugging Face** is an AI research organization developing foundational libraries like `transformers` (state-of-the-art ML frameworks for text/vision/audio), `diffusers` (diffusion models for generative AI), and `datasets` (optimized data pipelines for AI training).
 
-- **Optimization & Fine-Tuning**: Key tools include `accelerate` (9.7k stars) for distributed training/FP8 mixed precision, `peft` (21.3k stars) for parameter-efficient fine-tuning, and `optimum` (3.4k stars) for
+- Core tools include `peft` (parameter-efficient fine-tuning), `accelerate` (PyTorch acceleration for distributed training/inference), and `optimum` (hardware-optimized inference/training for Transformers/Diffusers).
+
+- Key reposi
 
 ## Use Cases
 

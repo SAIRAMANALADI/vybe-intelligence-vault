@@ -13,13 +13,14 @@ collected_at: '2026-06-30T22:47:08.853344+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:scammers-sell-seeds-for-exotic-ai-generated-flower
 first_seen: '2026-06-30T22:47:08.853344+05:30'
 last_seen: '2026-06-30T22:47:08.853344+05:30'
 last_checked: '2026-06-30T22:47:08.853344+05:30'
 health_score: 100
 ---
+
 
 # Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist
 

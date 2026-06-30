@@ -4,8 +4,8 @@ category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
 source_url: https://github.com/codebucks27/3d-landing-page-for-apple-iphone
-collected_at: '2026-06-23T09:51:00.316780+05:30'
-published_at: '2026-06-22T23:08:49Z'
+collected_at: '2026-07-01T01:49:57.691611+05:30'
+published_at: '2026-06-30T17:19:04Z'
 tags:
 - animation
 - frontend_ui
@@ -15,8 +15,8 @@ language: JavaScript
 status: active
 resource_id: github:codebucks27/3d-landing-page-for-apple-iphone
 first_seen: '2026-06-11T08:45:42.451808+00:00'
-last_seen: '2026-06-23T09:51:00.316780+05:30'
-last_checked: '2026-06-23T09:51:00.316780+05:30'
+last_seen: '2026-07-01T01:49:57.691611+05:30'
+last_checked: '2026-07-01T01:49:57.691611+05:30'
 health_score: 100
 ---
 
@@ -37,7 +37,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 - Forks: 34
 - Language: JavaScript
 - Topics: animation-css, gsap, landing-page, react, reactjs, rendering-3d-graphics, scrolltrigger, threejs, threejs-example, threejs-template, webapp, website-template
-- Last Updated: 2026-06-22T23:08:49Z
+- Last Updated: 2026-06-30T17:19:04Z
 
 ## Possible Use Cases
 

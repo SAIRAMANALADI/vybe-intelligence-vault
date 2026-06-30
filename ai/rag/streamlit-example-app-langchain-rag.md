@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-06-30T22:48:42.235882+05:30'
+collected_at: '2026-07-01T01:51:30.296086+05:30'
 published_at: '2026-06-30T01:41:05Z'
 tags:
 - github-repo
-- openai
 - python
 - rag
 stars: 157
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-06-30T22:48:42.235882+05:30'
-last_seen: '2026-06-30T22:48:42.235882+05:30'
-last_checked: '2026-06-30T22:48:42.235882+05:30'
+first_seen: '2026-07-01T01:51:30.296086+05:30'
+last_seen: '2026-07-01T01:51:30.296086+05:30'
+last_checked: '2026-07-01T01:51:30.296086+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (semantic + keyword-based) using LangChain for document processing and LLM integration.
-
-- **Streamlit Frontend**: Deploys a Streamlit-based web interface to interact with the RAG system, enabling user queries and real-time response generation with citations.
-
-- **Modular LangChain Components**: Utilizes LangChain’s `RetrievalQA` chain, document loaders (e.g., PyPDFLoader), and embeddings (e.g., HuggingFace or OpenAI) to construct a scalable RAG pipeline with configurable retriever and LLM backend.
+- **Hybrid RAG Pipeline**: Demonstrates a retrieval-augmented generation (RAG) system combining vector store (e.g., FAISS) with hybrid search (semantic + keyword) using LangChain for document retrieval and generation.
+- **Streamlit Integration**: Implements a Streamlit-based UI to interact with the RAG pipeline, enabling real-time query processing and response visualization.
+- **Modular Architecture**: Uses LangChain’s `RetrievalQA` with customizable retrievers (e.g., `MultiVectorRetriever`) and chains (e.g., `stuff` or `map_reduce`) for scalable document processing.
 
 ## Why It Matters
 

@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Protocol Definition**: MCP is an open, standardized protocol enabling LLMs to interface with external data sources/tools via a unified interface, facilitating context-aware AI workflows.
+- **Protocol Definition**: MCP is an open protocol enabling standardized integration between LLM applications and external data sources/tools via a unified interface for context sharing and tool invocation.
 
 - **Multi-Language SDK Support**: Provides official SDKs (TypeScript, Python, Java, Kotlin, C#, Go, PHP, Ruby, Rust, Swift) for protocol implementation and server development.
 
-- **Project Ecosystem**: Hosted under the Linux Foundation, MCP includes maintained servers, authorization extensions, and a struct
+- **Project Ecosystem**: Hosted under The Linux Foundation, includes specification docs, maintained servers, and au
 
 ## Use Cases
 

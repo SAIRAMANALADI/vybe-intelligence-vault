@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting 500+ open-source AI agent projects across industries (healthcare, finance, education, retail) with practical use cases and implementation links.
-- **Technical Scope**: Primarily Python-based projects focused on AI agents and generative AI (GenAI), demonstrating real-world applications.
-- **Metadata**: 33.3k stars, 5.8k forks, last updated June 30, 2026.
+- **Curated Collection**: Repository hosts 500+ AI agent projects across industries (healthcare, finance, education, retail) with open-source implementations and practical use cases.
+
+- **Technical Scope**: Primarily Python-based, focusing on AI agents and generative AI (GenAI) applications with links to executable projects.
+
+- **Metadata**: 33.3K stars, 5.9K forks; last updated June 30, 2026, under `ai-agents` and `genai` topics.
 
 ## Use Cases
 

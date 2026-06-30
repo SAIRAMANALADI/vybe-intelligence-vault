@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Serverless Execution Model**: Cloudflare Workers enables serverless execution of JavaScript, TypeScript, Python, Rust, and WebAssembly on Cloudflare’s global edge network, eliminating infrastructure management via a single-command deployment model.
+- **Serverless execution environment**: Cloudflare Workers enables deployment of JavaScript/TypeScript/Python/Rust functions on Cloudflare’s global edge network, eliminating infrastructure management via a single CLI command (`wrangler`).
 
-- **Integrated Storage & Compute Bindings**: Supports stateful (Durable Objects), SQL (D1), key-value (KV), vector (Vectorize), and object storage (R2), alongside AI inference (Workers AI), cron triggers, and durable workflows for full-stack edge
+- **Integrated storage & compute bindings**: Supports stateful (Durable Objects), SQL (D1), KV, and vector databases (Vectorize), plus serverless AI (Workers AI) and durable workflows (Workflows) with optimized latency via Smart Placement.
+
+- **Observability &
 
 ## Use Cases
 
