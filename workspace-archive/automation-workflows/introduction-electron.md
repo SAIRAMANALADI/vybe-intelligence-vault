@@ -8,7 +8,7 @@ local_vault_path: ai/resources/introduction-electron.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: high
 tags:
 - producthunt
@@ -16,7 +16,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Introduction | Electron
@@ -25,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Cross-platform desktop app framework**: Electron combines Chromium (for rendering) and Node.js (for backend APIs) into a single binary, enabling cross-platform desktop app development using JavaScript, HTML, and CSS without native development experience.
+- **Cross-platform desktop apps**: Electron embeds Chromium and Node.js into a single binary, enabling JavaScript/HTML/CSS-based desktop apps to run natively on Windows, macOS, and Linux without native development dependencies.
 
-- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle and windows, a preload script (`preload.js`) bridging Node.js APIs to the renderer, and HTML/CSS for UI rendering.
+- **Core components**: Electron apps consist of a main process (`main.js`) managing app lifecycle, preload scripts (`preload.js`) bridging Node.js APIs to the renderer, and UI windows (`index.html`) rendering Chromium-based content.
 
-- **Development tools**: E
+- **Development ecosystem**: Electron
 
 ## Use Cases
 

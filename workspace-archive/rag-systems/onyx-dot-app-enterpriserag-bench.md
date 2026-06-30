@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **EnterpriseRAG-Bench**: A specialized benchmark dataset designed to evaluate Retrieval-Augmented Generation (RAG) systems on company internal documents, enabling domain-specific performance assessment.
-- **Key Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and information retrieval systems.
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering large language models (LLMs), ret
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in real-world contexts.
+
+- **Features**: Includes synthetic data generation, semantic search evaluation, and question-answering tasks tailored for enterprise knowledge bases and large language models (LLMs).
+
+- **Technical Scope**: Supports Python-based implementations, covers LLM evaluation metrics, and
 
 ## Use Cases
 

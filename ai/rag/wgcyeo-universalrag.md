@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-06-30T20:16:45.982893+05:30'
+collected_at: '2026-06-30T22:49:47.238259+05:30'
 published_at: '2026-06-28T05:14:03Z'
 tags:
 - github-repo
+- paper
 - python
 - rag
 stars: 172
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-06-30T20:16:45.982893+05:30'
-last_seen: '2026-06-30T20:16:45.982893+05:30'
-last_checked: '2026-06-30T20:16:45.982893+05:30'
+first_seen: '2026-06-30T22:49:47.238259+05:30'
+last_seen: '2026-06-30T22:49:47.238259+05:30'
+last_checked: '2026-06-30T22:49:47.238259+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) with unified indexing and retrieval.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence), leveraging unified embeddings and cross-modal retrieval.
 
-- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval mechanism using modality-agnostic embeddings (e.g., via contrastive learning) to dynamically select relevant content regardless of input type.
+- **ACL 2026 Oral Paper**: Presents an advanced RAG system with novel indexing and retrieval mechanisms optimized for heterogeneous corpora, achieving state-of-the-art performance in multimodal downstream tasks.
 
-- **Adaptive Generation Pipeline**: Features a hierarchical retrieval and generation system that dynamically adjusts retrieval granularity and fusion strategies based on query complexity and corpus structure.
+- **Open-Source Implementation**: Provides a Python-based toolkit with modular components for customizable RAG pipelines, supporting integration with LLMs and multimodal encoders (e.g., CLIP, BLIP) for end-to-end generation.
 
 ## Why It Matters
 

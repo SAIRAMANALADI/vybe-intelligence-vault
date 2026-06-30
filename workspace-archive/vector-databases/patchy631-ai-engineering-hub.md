@@ -13,6 +13,7 @@ importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -32,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides covering Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures with executable Jupyter Notebooks.
-- **Real-World AI Agent Applications**: Includes practical implementations and case studies demonstrating AI agent workflows, integration with MCP (Model Context Protocol), and deployment strategies.
-- **Active Maintenance & Community Engagement**: Last updated June 2026, with 36,215 st
+- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems, including implementation strategies and optimization techniques.
+
+- **Real-World AI Agent Applications**: Focuses on practical deployments of AI agents, covering architecture design, integration with MCP (Model Context Protocol), and end-to-end workflows for production environments.
+
+- **Jupyter Notebook-Based Learning**: All tut
 
 ## Use Cases
 

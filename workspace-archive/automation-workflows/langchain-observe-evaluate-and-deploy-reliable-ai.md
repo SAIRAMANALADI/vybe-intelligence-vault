@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-observe-evaluate-and-deploy-reliable-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: mcp-server
 importance: medium
 tags:
 - agents
@@ -26,18 +26,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: mcp-server
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Observability & Debugging**: LangSmith provides native tracing for agent frameworks (OpenTelemetry-compatible), structured timelines for multi-turn interactions, and AI-driven analytics to debug complex agent behaviors (e.g., branching logic, tool integration).
+- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
 
-- **Evaluation & Iteration**: Supports reusable LLM-as-judge evals, human feedback annotations, and automated scoring (online/offline) to iteratively improve agents using production traces as test cases.
-
-- **Deployment & Scalability
+- **Automated evaluation & deployment**: Captures production traces for reusable LLM-as-judge/multi-turn evals, integrates human feedback for calibration, and deploys agents via a scalable runtime
 
 ## Use Cases
 

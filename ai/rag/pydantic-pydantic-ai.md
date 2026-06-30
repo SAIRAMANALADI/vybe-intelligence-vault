@@ -1,35 +1,33 @@
 ---
-title: 'pydantic/pydantic-ai Release: v2.1.1 (2026-06-29)'
+title: 'pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)'
 category: ai/rag
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pydantic/pydantic-ai
-published_at: '2026-06-30T00:01:11Z'
-collected_at: '2026-06-30T20:14:13.412240+05:30'
+published_at: '2026-06-29T09:39:33Z'
+collected_at: '2026-06-30T22:47:08.811571+05:30'
 tags:
+- anthropic
 - github-release
-- mistral
-- models
+- hackernews
 - pydantic-pydantic-ai
-- youtube
 status: active
 resource_id: github:pydantic/pydantic-ai
 first_seen: '2026-06-16T13:57:15.241580+05:30'
-last_seen: '2026-06-30T20:14:13.412240+05:30'
-last_checked: '2026-06-30T20:14:13.412240+05:30'
+last_seen: '2026-06-30T22:47:08.811571+05:30'
+last_checked: '2026-06-30T22:47:08.811571+05:30'
 health_score: 100
 ---
 
 
-# pydantic/pydantic-ai Release: v2.1.1 (2026-06-29)
+# pydantic/pydantic-ai Release: v2.1.0 (2026-06-29)
 
 ## Summary
 
 ## What's Changed
-### 📖 Documentation
-* feat: add TwelveLabs Pegasus video-understanding example by @mohit-twelvelabs in https://github.com/pydantic/pydantic-ai/pull/6061
-### 🐛 Bug Fixes
-* Forward image `detai...
+### 🚀 Features
+* feat: Add Anthropic `_20260209` web tools with server-tool replay by @adtyavrdhn in https://github.com/pydantic/pydantic-ai/pull/4844
+* Serialize instrumentation message attri...
 
 ## Why It Matters
 
@@ -39,15 +37,14 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Releases AI
 - Category: ai/releases
-- Published: 2026-06-30T00:01:11Z
+- Published: 2026-06-29T09:39:33Z
 
 ## Related Tags
 
+- anthropic
 - github-release
-- mistral
-- models
+- hackernews
 - pydantic-pydantic-ai
-- youtube
 
 ## Source
 

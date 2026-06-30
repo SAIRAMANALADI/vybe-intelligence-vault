@@ -3,20 +3,20 @@ title: Medium Terms of Service | by Medium | Medium Policy
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=
+source_url: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
---------------------------------------------
-published_at: '2026-06-30T20:19:55.166012+05:30'
-collected_at: '2026-06-30T20:19:55.166030+05:30'
+-----d10bb69280
+published_at: '2026-06-30T22:51:22.800965+05:30'
+collected_at: '2026-06-30T22:51:22.800979+05:30'
 tags:
 - agents
 - rag
 - web-crawled
 status: active
 resource_id: blog:medium-terms-of-service-by-medium-medium-policy
-first_seen: '2026-06-30T20:19:55.166030+05:30'
-last_seen: '2026-06-30T20:19:55.166030+05:30'
-last_checked: '2026-06-30T20:19:55.166030+05:30'
+first_seen: '2026-06-30T22:51:22.800979+05:30'
+last_seen: '2026-06-30T22:51:22.800979+05:30'
+last_checked: '2026-06-30T22:51:22.800979+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Licensing & Content Rights**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) with attribution, including derivative works (e.g., previews, curated lists).
+- **License Grant & IP Rights**: Users retain ownership of submitted content but grant Medium a **non-exclusive, worldwide, royalty-free, sublicensable license** to reproduce, modify, distribute, and display content across all Services (e.g., web, mobile) for operational purposes (e.g., previews, derivative works) with attribution.
 
-- **Liability & Dispute Resolution**: Medium disclaims all warranties (e.g., accuracy, reliability) and limits liability to **$50 USD or fees paid** (except for gross negligence/fraud). Disputes are resolved via **mandatory binding arbitration** under JAMS rules, waiving class actions/jury trials, with venue in San Francisco (or consumer’s county).
+- **Dispute Resolution & Liability Limits**: Mandatory **binding arbitration** (JAMS Streamlined Rules) replaces court proceedings for disputes, with class actions waived; liability is capped at **$50 USD or fees paid**, excluding gross negligence/fraud, and excludes indirect damages (e.g., lost profits).
 
-- **Data Processing & Compliance**: Users consent to cross-border data processing/storage (including outside local jurisdiction) and must comply with Medium’s **Rules** and **Copyright Policy**. Personal data handling is governed by Medium’s **Privacy Policy**, with indemnification for violations by users.
+- **Data Processing & Termination**: Users consent to **cross-border data processing** (US/international) for Service delivery; Medium reserves the right to **suspend/terminate access** at will, with content removal authority for violations (e.g., IP infringement, Rule breaches).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:19:55.166012+05:30
+- Published: 2026-06-30T22:51:22.800965+05:30
 
 ## Related Tags
 
@@ -48,4 +48,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=--------------------------------------------
+Original source: https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----d10bb69280

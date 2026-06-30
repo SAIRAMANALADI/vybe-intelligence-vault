@@ -2,22 +2,21 @@
 title: Google Colab
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+source_url: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 resource_id: blog:google-colab
 local_vault_path: ai/rag/google-colab.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
-- benchmark
-- dataset
-- models
+- hackernews
 - rag
 - web-crawled
 selection_reason:
-- Useful for project building
+- Strong keyword match
+- Valuable developer reference
 ---
 
 # Google Colab
@@ -25,18 +24,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
-- **LoRA (Low-Rank Adaptation)**: Introduces trainable rank decomposition matrices into transformer layers, reducing trainable parameters by freezing pre-trained weights while enabling efficient fine-tuning for downstream tasks.
+- **Resource Unavailable**: The provided link is a Google Sign-In page, not the actual technical article/resource to summarize.
 
-- **Implementation in Gemma**: Demonstrates LoRA integration with Google’s Gemma models via Hugging Face Transformers, leveraging `peft` library for parameter-efficient fine-tuning with minimal compute overhead.
+- **Action Required**: Users must authenticate via Google to access the content hosted on Google Colab.
 
-- **Performance Metrics**: Achieves competitive results w
+- **Content Context**: The target resource appears to be a Jupyter Notebook tutorial titled *"Build RAG with Milvus"* from the Milvus Bootcamp repository.
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://colab.sandbox.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
+Original source URL: https://colab.research.google.com/github/milvus-io/bootcamp/blob/master/tutorials/quickstart/build_RAG_with_milvus.ipynb
 
 ## Local Vault File
 

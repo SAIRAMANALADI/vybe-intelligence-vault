@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-06-30T20:16:16.004022+05:30'
+collected_at: '2026-06-30T22:49:12.221993+05:30'
 published_at: '2026-06-30T13:18:58Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-06-30T20:16:16.004022+05:30'
-last_seen: '2026-06-30T20:16:16.004022+05:30'
-last_checked: '2026-06-30T20:16:16.004022+05:30'
+first_seen: '2026-06-30T22:49:12.221993+05:30'
+last_seen: '2026-06-30T22:49:12.221993+05:30'
+last_checked: '2026-06-30T22:49:12.221993+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **CRAG**: A comprehensive benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems, designed to assess performance across diverse tasks and datasets.
-- **Implementation**: Provided as a Jupyter Notebook repository, enabling interactive experimentation and analysis of RAG pipelines.
-- **Evaluation Scope**: Covers multiple dimensions (e.g., retrieval quality, generation accuracy, robustness) to provide a holistic assessment of RAG models.
+- **CRAG** is a **Comprehensive Retrieval-Augmented Generation (RAG) benchmark** designed to evaluate RAG systems across multiple dimensions, including factuality, robustness, and efficiency.
+- The repository contains **Jupyter Notebooks** with structured evaluations, metrics, and datasets for standardized RAG performance testing.
+- Last updated in **June 2026**, the project is actively maintained by **Facebook Research** with **293 stars** and **35 forks**.
 
 ## Why It Matters
 

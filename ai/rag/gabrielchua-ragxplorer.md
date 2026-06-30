@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-06-30T20:15:40.984255+05:30'
+collected_at: '2026-06-30T22:48:37.171550+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - jupyter notebook
 - models
 - rag
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-06-30T20:15:40.984255+05:30'
-last_seen: '2026-06-30T20:15:40.984255+05:30'
-last_checked: '2026-06-30T20:15:40.984255+05:30'
+first_seen: '2026-06-30T22:48:37.171550+05:30'
+last_seen: '2026-06-30T22:48:37.171550+05:30'
+last_checked: '2026-06-30T22:48:37.171550+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions with retrieved data.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based utility (`RAGxplorer`) for dynamic visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling real-time debugging and optimization of LLM interactions.
 
-- **Streamlit Integration**: Leverages Streamlit for interactive web-based visualization, facilitating real-time analysis of RAG components (retrieval, generation, and context integration) with Python-based tooling.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retrievers, embeddings, LLM outputs) with Python-based visualization modules for granular inspection of retrieval quality and generation performance.
 
-- **Technical Stack & Features**: Built with Python, designed for modularity and extensibility; supports visualization of retrieval mechanisms, prompt engineering, and LLM output alignment with retrieved context.
+- **Modular Python Framework**: Designed for extensibility with support for custom datasets, embeddings, and LLM backends; last updated June 2026 with active community contributions (1.2k+ stars, 115 forks).
 
 ## Why It Matters
 

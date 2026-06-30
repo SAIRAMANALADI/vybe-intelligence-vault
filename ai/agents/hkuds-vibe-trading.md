@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:hkuds/vibe-trading
 first_seen: '2026-06-28T19:46:54.549480+05:30'
 last_seen: '2026-06-30T20:14:10.927430+05:30'
 last_checked: '2026-06-30T20:14:10.927430+05:30'
 health_score: 100
 ---
+
 
 # HKUDS/Vibe-Trading
 

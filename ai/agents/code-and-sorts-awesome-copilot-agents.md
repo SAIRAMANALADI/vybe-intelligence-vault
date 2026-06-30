@@ -4,14 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-06-30T20:16:56.045400+05:30'
+collected_at: '2026-06-30T22:49:57.308491+05:30'
 published_at: '2026-06-29T02:12:54Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - typescript
-- workflows
 stars: 541
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-06-30T20:16:56.045400+05:30'
-last_seen: '2026-06-30T20:16:56.045400+05:30'
-last_checked: '2026-06-30T20:16:56.045400+05:30'
+first_seen: '2026-06-30T22:49:57.308491+05:30'
+last_seen: '2026-06-30T22:49:57.308491+05:30'
+last_checked: '2026-06-30T22:49:57.308491+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of GitHub Copilot enhancement resources, including instructions, prompts, skills, MCPs, and agent markdown files for AI-driven development workflows.
-- **Technical Scope**: Focuses on agent-skills, prompt engineering, custom agents, and MCP (Model Context Protocol) integration, optimized for VS Code Copilot Chat and GitHub Copilot.
-- **Metadata**: 541 stars, 87 forks, TypeScript-based, last updated June 29, 2026, under the `awesome-list` paradigm for AI agent tooling.
+- **Curated Resource**: A GitHub repository (`Code-and-Sorts/awesome-copilot-agents`) hosting a structured collection of GitHub Copilot custom instructions, prompts, skills, MCP (Model Context Protocol) configurations, and agent markdown files to optimize AI agent interactions.
+
+- **Technical Scope**: Focuses on enhancing GitHub Copilot's capabilities via TypeScript-based agent skills, prompt engineering, and VS Code Copilot Chat integration, covering topics like `agent-skills`, `copilot-prompting`, and `custom-agents`.
+
+- **Metadata**: 541 stars, 87 forks, last updated **2026-06-29T02:12:54Z**, with primary topics including `ai-agents`, `awesome-list`, `mcp`, and `prompt-engineering`.
 
 ## Why It Matters
 

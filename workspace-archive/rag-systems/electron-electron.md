@@ -8,7 +8,7 @@ local_vault_path: ai/rag/electron-electron.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: api
+resource_kind: framework
 importance: medium
 tags:
 - c++
@@ -17,7 +17,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # electron/electron
@@ -26,18 +26,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Cross-platform desktop apps**: Electron enables development of native applications using web technologies (HTML, CSS, JavaScript) with support for Windows, macOS, and Linux.
+- **Cross-platform desktop framework**: Electron enables development of native desktop applications using web technologies (HTML, CSS, JavaScript) with support for Windows, macOS, and Linux.
 
-- **Chromium + Node.js integration**: Combines the rendering engine (Chromium) and Node.js runtime, leveraging V8 for JavaScript execution and providing native APIs via C++ bindings.
+- **Chromium + Node.js integration**: Combines the rendering engine (Chromium) with Node.js runtime, leveraging V8 for JavaScript execution and enabling low-level system access.
 
-- **Extensible architecture**: Built on C++ with modular design, allowing integration with additional tools (e.g., Codespaces) and custom
+- **Core components**: Built on C++ with bindings to Chromium (Blink), Node.js, and V8, providing APIs for native OS features (e.
 
 ## Use Cases
 

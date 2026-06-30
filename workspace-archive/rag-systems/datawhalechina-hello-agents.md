@@ -16,7 +16,6 @@ tags:
 - hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Agent Development Guide**: Provides a structured tutorial from fundamentals to advanced implementation of AI agents, covering core principles, architectures, and practical deployment strategies.
-
-- **Multi-Technique Integration**: Focuses on combining large language models (LLMs) with retrieval-augmented generation (RAG), workflow orchestration, and tool-use mechanisms to build functional agents.
-
-- **Open-Source Python Framework**: Offers a hands-on, code-first approach with m
+- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents.
+- **Technical Stack**: Implements agent frameworks using Python, integrating large language models (LLM), retrieval-augmented generation (RAG), and agent orchestration patterns.
+- **Resource Metrics**: Highly active with **62,964 stars**, **7,784 forks**, and last updated on **2026-06-30**, ind
 
 ## Use Cases
 

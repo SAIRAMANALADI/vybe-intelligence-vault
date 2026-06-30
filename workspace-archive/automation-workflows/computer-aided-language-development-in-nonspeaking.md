@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by dang. Score: 14, Comments: 1.
+Hacker News story by dang. Score: 33, Comments: 1.
 Original Link: https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children
 
 ## Use Cases

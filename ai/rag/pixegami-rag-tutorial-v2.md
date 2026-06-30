@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-06-30T20:15:15.905695+05:30'
+collected_at: '2026-06-30T22:48:12.113784+05:30'
 published_at: '2026-06-27T12:50:15Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 957
@@ -17,9 +19,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-06-30T20:15:15.905695+05:30'
-last_seen: '2026-06-30T20:15:15.905695+05:30'
-last_checked: '2026-06-30T20:15:15.905695+05:30'
+first_seen: '2026-06-30T22:48:12.113784+05:30'
+last_seen: '2026-06-30T22:48:12.113784+05:30'
+last_checked: '2026-06-30T22:48:12.113784+05:30'
 health_score: 100
 ---
 
@@ -27,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Implements an improved Langchain RAG v2 architecture, emphasizing local LLM integration.
-*   Demonstrates database update functionalities within the RAG pipeline for dynamic content management.
-*   Incorporates testing methodologies to validate RAG system performance and reliability.
+- Implements **LangChain RAG pipeline** with **local LLMs** (e.g., Llama.cpp, Ollama) for offline inference.
+- Features **dynamic database updates** via automated document ingestion (e.g., ChromaDB, FAISS) with change detection.
+- Includes **testing framework** (e.g., pytest) for evaluating retrieval quality, latency, and LLM response accuracy.
 
 ## Why It Matters
 

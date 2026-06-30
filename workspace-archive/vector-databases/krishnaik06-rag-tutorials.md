@@ -31,8 +31,9 @@ selection_reason:
 
 ## Summary
 
-*   Focuses on Retrieval Augmented Generation (RAG) system implementations.
-*   Lever
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 357 stars and 329 forks.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks for educational content on RAG techniques.
+- **Last Activity**: Last updated on **2026-06-29**, indicating recent or ongoing development.
 
 ## Use Cases
 

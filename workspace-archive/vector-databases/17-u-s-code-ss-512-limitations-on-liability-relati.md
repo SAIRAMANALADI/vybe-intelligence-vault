@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from liability for copyright infringement when transmitting, routing, or providing connections for material through their systems, provided the process is automatic, unmodified, and transient (no persistent storage beyond necessary transmission time).
+- **Transitory Digital Network Communications (§512(a))**: Service providers are shielded from liability for copyright infringement when transmitting, routing, or providing connections for material through their systems/networks, provided the process is automated, initiated by a third party, and material is not modified or retained beyond transient storage.
 
-- **System Caching (§512(b))**: Providers are not liable for temporary storage of infringing material if caching is automatic, unmodified, and compliant with
+- **System Caching (§512(b))**: Service providers are not liable for temporary storage of material if caching is automatic, content remains
 
 ## Use Cases
 

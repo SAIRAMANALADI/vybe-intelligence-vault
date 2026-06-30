@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-06-30T20:15:40.992825+05:30'
-published_at: '2026-05-26T16:59:46Z'
+collected_at: '2026-06-30T22:48:42.238106+05:30'
+published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
-- workflows
-stars: 369
+stars: 368
 language: Python
 status: active
 license: Apache-2.0
@@ -19,9 +18,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-06-30T20:15:40.992825+05:30'
-last_seen: '2026-06-30T20:15:40.992825+05:30'
-last_checked: '2026-06-30T20:15:40.992825+05:30'
+first_seen: '2026-06-30T22:48:42.238106+05:30'
+last_seen: '2026-06-30T22:48:42.238106+05:30'
+last_checked: '2026-06-30T22:48:42.238106+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword/BM25) retrieval methods for enhanced document search and generation.
+- **Hybrid RAG Pipeline**: Demonstrates a hybrid retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document search accuracy in Python.
 
-- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG system using NVIDIA’s AI Workbench for scalable, GPU-accelerated inference and retrieval workflows.
+- **NVIDIA AI Workbench Integration**: Showcases deployment and optimization of the RAG pipeline using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
 
-- **Python-Based Example**: Provides a reference implementation in Python, leveraging libraries like LangChain, FAISS (for vector search), and potentially NVIDIA’s NeMo or TensorRT for LLM acceleration.
+- **Modular Architecture**: Implements a scalable, modular design with configurable components for retrieval, reranking, and generation, supporting customization for domain-specific use cases.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NVIDIA
-- Stars: 369
+- Stars: 368
 - Forks: 1007
 - Language: Python
 - Topics: None
-- Last Updated: 2026-05-26T16:59:46Z
+- Last Updated: 2026-06-30T16:45:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-03-11T15:57:29Z

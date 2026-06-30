@@ -2,7 +2,7 @@
 title: Neo4j Graph Intelligence Platform
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://neo4j.org/resources/cypher
+source_url: http://neo4j.com/
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
@@ -29,9 +29,11 @@ selection_reason:
 
 ## Summary
 
-- **Explainable AI (XAI) Integration**: Leveraging graph databases (e.g., Neo4j) to enable AI models to provide transparent, traceable decision pathways by mapping causal relationships and dependencies in data, addressing the "black box" problem in deep learning.
+- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to enable AI systems to provide human-interpretable rationales for decisions, addressing the "black box" problem in deep learning models.
 
-- **Trillion-Dollar Economic Impact**: Highlighting the potential market value of AI systems capable of explaining their reasoning, with applications in healthcare, finance, and regulatory compliance driving demand for interpretable AI
+- **Enterprise Decision Optimization**: Utilizing causal inference and graph-based reasoning to enhance AI-driven business decisions, potentially unlocking trillions in value by improving transparency and trust in automated systems.
+
+- **Real-Time Explainability**: Deploying dyn
 
 ## Use Cases
 
@@ -41,7 +43,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://neo4j.org/resources/cypher
+Original source URL: http://neo4j.com/
 
 ## Local Vault File
 

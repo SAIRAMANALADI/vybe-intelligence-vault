@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal indexing**: Supports text, structured data, and unstructured sources (e.g., PDFs, images) via vector embeddings and graph-based indexing for unified retrieval.
-- **AI agents & MCP integration**: Deploys autonomous agents for dynamic query resolution and integrates with Model Context Protocol (MCP) for extended tooling and interoperability.
-- **Scalable K8s deployment**: Optimized for Kubernetes with Helm charts, enabling horizontal scaling, fault tolerance, and cloud-agnostic orc
+- **Multi-modal indexing**: Supports text, structured, and unstructured data integration with graph-based retrieval for enhanced context engineering.
+
+- **AI agents & MCP integration**: Features autonomous agents for dynamic query resolution and Model Context Protocol (MCP) support for extensible tooling.
+
+- **Scalable K8s deployment**: Designed for Kubernetes with modular architecture for horizontal scaling, optimized for production-grade GraphRAG workloads.
 
 ## Use Cases
 

@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage optimizations for high-performance traversals.
+- **Core Project**: [neo4j/neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, with 16.8k stars and 2.6k forks, enabling ACID-compliant transactional graph operations.
 
-- **Graph Data Science Library**: Provides scalable implementations of graph algorithms (e.g., PageRank, community detection) via the `graph-data-science` repository (803 stars), designed for integration with Neo4j’s property graph model.
+- **Driver Ecosystem**: Provides official Bolt protocol drivers for multiple languages: Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), Python (`neo4j-python-driver`), and .NET (`neo4j-dotnet-driver`), all Apache-2.0 licensed.
 
-- **Multi-Language Bolt Drivers**: Official drivers
+- **GDS & Extensions**: [graph
 
 ## Use Cases
 

@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks with detailed CWE coverage documentation.
-- **Core Components**: Includes QL query language, standard libraries, and tools like CLI, VS Code extension, and GitHub repository for development and contribution.
-- **Learning & Execution**: Provides language-specific guides, query-writing tutorials, and documentation on running queries across codebases
+- **CodeQL Overview**: Enables querying code as data to identify and eradicate vulnerabilities; supports multiple languages, libraries, and frameworks (see [supported list](https://codeql.github.com/codeql-overview/supported-languages-and-frameworks/)).
+
+- **Query Development & Execution**: Provides tools for writing (via [puzzles](https://codeql.github.com/writing-codeql-queries)), running, and sharing CodeQL queries; includes CLI, VS Code extension, and [standard libraries](https://codeql.gith
 
 ## Use Cases
 

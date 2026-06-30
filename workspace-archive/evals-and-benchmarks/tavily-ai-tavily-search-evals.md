@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluation metrics.
-- **Implementation**: Python-based framework with automated evaluation pipelines for comparative analysis of search engine responses.
-- **Metadata**: Minimal activity (11 stars, 0 forks) with last update in May 2026, indicating limited recent development or community engagement.
+- **Purpose**: Public repository for benchmarking search performance across multiple search providers using standardized evaluations.
+- **Implementation**: Python-based framework for executing and comparing search benchmarks.
+- **Metadata**: Last updated on 2026-05-31; no active forks or topics as of the latest commit.
 
 ## Use Cases
 

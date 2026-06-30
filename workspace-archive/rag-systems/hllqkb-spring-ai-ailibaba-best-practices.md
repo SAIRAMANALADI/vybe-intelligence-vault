@@ -15,6 +15,7 @@ tags:
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal AI Integration**: Implements SSE streaming, RAG with knowledge graphs, function calls, and historical message handling for AI Q&A, supporting image generation/understanding alongside text-based interactions.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (e.g., Milvus/Weaviate) for embedding-based retrieval, supporting text, image generation (via Stable Diffusion/Flux), and image understanding (OCR/CLIP-based).
 
-- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus/Weaviate) for semantic search, with embedding models (e.g., BERT, Sentence-BERT) to enable efficient retrieval-augmented generation (RAG).
-
-- **Agentic Workflows & Java Backend**: Deploys AI
+- **Agentic Workflows**: Integrates Function Calling (via Spring AI’s `@Tool` annotation) and SSE (Server-Sent Events) for real-time agent interactions, with historical message persistence (e.g., Redis/PostgreSQL) for session management.
 
 ## Use Cases
 

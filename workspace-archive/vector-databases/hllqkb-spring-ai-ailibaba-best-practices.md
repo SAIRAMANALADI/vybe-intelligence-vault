@@ -6,7 +6,7 @@ source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
 local_vault_path: ai/rag/hllqkb-spring-ai-ailibaba-best-practices.md
 quality_score: 70
-archive_score: 81
+archive_score: 83
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -15,6 +15,7 @@ tags:
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 selection_reason:
 - Strong keyword match
@@ -26,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 81 (useful)
+- Quality score: 70 | Archive score: 83 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -34,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Multi-modal AI Integration**: Implements SSE streaming, RAG with knowledge graphs, function calls, and historical message handling for AI Q&A, supporting image generation/understanding alongside text-based interactions.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (e.g., Milvus/Weaviate) for embedding-based retrieval, supporting text, image generation (via Stable Diffusion/Flux), and image understanding (OCR/CLIP-based).
 
-- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus/Weaviate) for semantic search, with embedding models (e.g., BERT, Sentence-BERT) to enable efficient retrieval-augmented generation (RAG).
-
-- **Agentic Workflows & Java Backend**: Deploys AI
+- **Agentic Workflows**: Integrates Function Calling (via Spring AI’s `@Tool` annotation) and SSE (Server-Sent Events) for real-time agent interactions, with historical message persistence (e.g., Redis/PostgreSQL) for session management.
 
 ## Use Cases
 

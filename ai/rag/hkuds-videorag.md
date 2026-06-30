@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-06-30T20:16:40.997305+05:30'
-published_at: '2026-06-30T07:39:05Z'
+collected_at: '2026-06-30T22:49:42.260732+05:30'
+published_at: '2026-06-30T16:48:54Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
 - youtube
-stars: 3086
+stars: 3084
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-06-30T20:16:40.997305+05:30'
-last_seen: '2026-06-30T20:16:40.997305+05:30'
-last_checked: '2026-06-30T20:16:40.997305+05:30'
+first_seen: '2026-06-30T22:49:42.260732+05:30'
+last_seen: '2026-06-30T22:49:42.260732+05:30'
+last_checked: '2026-06-30T22:49:42.260732+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs.
-- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to enhance video comprehension and query response.
-- **KDD'2026 Contribution**: Proposes a novel approach for chat-based interaction with videos, improving retrieval and generation for extended video content analysis.
+- **Framework**: VideoRAG is a Retrieval-Augmented Generation (RAG) system designed for long-video understanding, enabling LLMs to interact with video content via multi-modal inputs (video, audio, text).
+
+- **Key Features**: Implements hierarchical video chunking, multi-modal embeddings, and dynamic retrieval to enhance long-context video comprehension in LLMs.
+
+- **Technical Stack**: Python-based, leveraging large language models (LLMs), multi-modal encoders, and vector databases for efficient retrieval and generation.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 3086
-- Forks: 434
+- Stars: 3084
+- Forks: 433
 - Language: Python
 - Topics: large-language-models, llms, long-video-understanding, multi-modal-llms, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-30T07:39:05Z
+- Last Updated: 2026-06-30T16:48:54Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-02-03T03:59:11Z

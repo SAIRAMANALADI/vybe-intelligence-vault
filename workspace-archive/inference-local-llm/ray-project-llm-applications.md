@@ -11,8 +11,8 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
+- benchmark
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -37,9 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2 and OpenAI models.
-- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs (e.g., Llama2) with Anyscale, emphasizing scalable training and inference optimization techniques.
-- **End-to-End Deployment**: Provides guides for deploying LLM applications via Ray Serve, covering model serving, retrieval systems
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modules for indexing, retrieval, and generation optimized for Llama2 and OpenAI models.
+
+- **Fine-Tuning & Serving**: Includes end-to-end examples for fine-tuning LLMs (e.g., Llama2) and deploying them via Ray Serve for scalable inference, with support for custom adapters and model quantization.
+
+- **Multi-Provider Compatibility**: Supports hybrid a
 
 ## Use Cases
 

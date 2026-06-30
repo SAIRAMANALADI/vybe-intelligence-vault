@@ -38,9 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Evolution**: Naive RAG (basic retrieval + generation) evolved into Advanced RAG (hybrid retrieval, reranking, query transformation) and Graph RAG (entity-relation graph traversal for multi-hop reasoning), addressing limitations in freshness, private knowledge, and hallucination mitigation.
+- **RAG Architecture**: Combines retrieval (vector DB + similarity search), augmentation (injecting retrieved context), and generation (LLM producing grounded answers) to mitigate hallucinations, enable freshness, and handle private knowledge without retraining models.
 
-- **Core RAG Components**: Retrieval (vector/keyword search), Augmentation (context injection), and Generation (LLM reasoning), with modular frameworks (LangChain/LCEL) enabling flexible pipelines and
+- **RAG Generations**: Naive RAG (basic retrieval → generate), Advanced RAG (hybrid retrieval, reranking, query rewriting), Modular RAG (agentic routing/looping), and Graph RAG (entity-relation graph traversal for multi-hop reaso
 
 ## Use Cases
 

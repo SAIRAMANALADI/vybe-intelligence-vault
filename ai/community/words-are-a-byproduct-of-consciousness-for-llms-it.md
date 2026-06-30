@@ -13,13 +13,14 @@ collected_at: '2026-06-30T20:14:09.386360+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:words-are-a-byproduct-of-consciousness-for-llms-it
 first_seen: '2026-06-30T20:14:09.386360+05:30'
 last_seen: '2026-06-30T20:14:09.386360+05:30'
 last_checked: '2026-06-30T20:14:09.386360+05:30'
 health_score: 100
 ---
+
 
 # Words Are a Byproduct of Consciousness. For LLMs, It's Backwards
 

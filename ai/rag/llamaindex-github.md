@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/run-llama
-published_at: '2026-06-30T10:10:31.024403+05:30'
-collected_at: '2026-06-30T10:10:31.024415+05:30'
+published_at: '2026-06-30T22:53:18.421320+05:30'
+collected_at: '2026-06-30T22:53:18.421334+05:30'
 tags:
 - agents
 - meta-ai
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:llamaindex-github
-first_seen: '2026-06-30T10:10:31.024415+05:30'
-last_seen: '2026-06-30T10:10:31.024415+05:30'
-last_checked: '2026-06-30T10:10:31.024415+05:30'
+first_seen: '2026-06-30T22:53:18.421334+05:30'
+last_seen: '2026-06-30T22:53:18.421334+05:30'
+last_checked: '2026-06-30T22:53:18.421334+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
+- **LlamaParse** provides SOTA agentic OCR for document processing workflows, enabling high-fidelity extraction from unstructured documents via cloud-based APIs (`Parse`, `Extract`) and open-source alternatives (`LiteParse`).
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the core `LlamaIndex` Python library for building RAG/LLM pipelines with comprehensive documentation.
+- **Open-source ecosystem** includes `LlamaAgents` for multi-agent orchestration and `LlamaIndex (Python)` for modular RAG pipelines, with comprehensive documentation for integration and deployment.
 
-- **Community & Ecosystem**: Maintains active presence on X (Twitter), LinkedIn, and YouTube for updates, with shields.io badges linking to official documentation and social platforms.
+- **Multi-platform support** via official SDKs (Python/JS) and cloud services, complemented by community engagement through X (Twitter), LinkedIn, and YouTube for updates and tutorials.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:10:31.024403+05:30
+- Published: 2026-06-30T22:53:18.421320+05:30
 
 ## Related Tags
 

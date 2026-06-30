@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Layout-aware OCR engine** designed for LLM pipelines, extracting structured text, tables, and figures from PDFs, scans, and images.
-- **Output flexibility**: Converts documents into clean markdown, plain text, or structured JSON for downstream processing.
-- **Agentic parsing**: Dynamically adapts extraction logic based on document layout, improving accuracy for complex layouts (e.g., multi-column, mixed text/tables).
+- **Agentic Document Parser**: Parse is designed for LLM pipelines, offering layout-aware OCR to process PDFs, scans, tables, and charts.
+- **Output Formats**: Converts documents into clean markdown, text, or JSON for structured data extraction.
+- **Layout-Aware Processing**: Preserves document structure and formatting, enabling accurate interpretation of complex layouts.
 
 ## Use Cases
 

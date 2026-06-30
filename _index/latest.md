@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [IAIK/merkle-tree](../ai/resources/iaik-merkle-tree.md) ([Source URL](https://github.com/iaik/merkle-tree))
+### 1. [git/git](../ai/resources/git-git.md) ([Source URL](https://github.com/git/git))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:29:05.634577+05:30
-- **Local Path**: `ai/resources/iaik-merkle-tree.md`
+- **Collected At**: 2026-06-30T23:02:16.276121+05:30
+- **Local Path**: `ai/resources/git-git.md`
 
-### 2. [FinOps Certified Practitioner](../ai/resources/finops-certified-practitioner.md) ([Source URL](https://learn.finops.org/path/finops-certified-practitioner-self-paced))
+### 2. [Amazon.com](../ai/resources/amazon-com.md) ([Source URL](https://amazon.com/pro-git-scott-chacon/dp/1484200772?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430218339&linkCode=as2&tag=git-sfconservancy-20))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:28:18.712396+05:30
-- **Local Path**: `ai/resources/finops-certified-practitioner.md`
+- **Collected At**: 2026-06-30T23:02:13.062303+05:30
+- **Local Path**: `ai/resources/amazon-com.md`
 
-### 3. [FinOps Foundation · GitHub](../ai/resources/finops-foundation-github.md) ([Source URL](https://github.com/finopsfoundation))
+### 3. [Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](../ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md) ([Source URL](https://gitlab.com/git-scm/git/-/blob/head/documentation/relnotes/2.55.0.adoc))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T23:02:12.996157+05:30
+- **Local Path**: `ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md`
+
+### 4. [git-for-windows/git](../ai/resources/git-for-windows-git.md) ([Source URL](https://github.com/git-for-windows/git))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:28:18.284575+05:30
-- **Local Path**: `ai/resources/finops-foundation-github.md`
+- **Collected At**: 2026-06-30T23:02:11.333605+05:30
+- **Local Path**: `ai/resources/git-for-windows-git.md`
 
-### 4. [The FinOps Foundation](../ai/agents/the-finops-foundation.md) ([Source URL](https://finops.org))
+### 5. [git-ecosystem/git-credential-manager](../ai/rag/git-ecosystem-git-credential-manager.md) ([Source URL](https://github.com/git-ecosystem/git-credential-manager))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T23:02:11.289919+05:30
+- **Local Path**: `ai/rag/git-ecosystem-git-credential-manager.md`
+
+### 6. [Git](../ai/resources/git.md) ([Source URL](https://git-scm.com))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:02:09.591028+05:30
+- **Local Path**: `ai/resources/git.md`
+
+### 7. [Git for Windows](../ai/resources/git-for-windows.md) ([Source URL](https://gitforwindows.org))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:02:06.454082+05:30
+- **Local Path**: `ai/resources/git-for-windows.md`
+
+### 8. [progit/progit2](../ai/resources/progit-progit2.md) ([Source URL](https://github.com/progit/progit2))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:02:06.279829+05:30
+- **Local Path**: `ai/resources/progit-progit2.md`
+
+### 9. [Workshop Studio](../ai/resources/workshop-studio.md) ([Source URL](https://streaming-analytics.workshop.aws/beam-on-kda))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:00:32.489276+05:30
+- **Local Path**: `ai/resources/workshop-studio.md`
+
+### 10. [Git - Installing Git](../ai/rag/git-installing-git.md) ([Source URL](https://git-scm.com/book/en/v2/getting-started-installing-git))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T23:00:31.827532+05:30
+- **Local Path**: `ai/rag/git-installing-git.md`
+
+### 11. [ParDo](../ai/resources/pardo.md) ([Source URL](https://beam.apache.org/releases/javadoc/2.0.0/org/apache/beam/sdk/transforms/pardo.html))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:00:31.629012+05:30
+- **Local Path**: `ai/resources/pardo.md`
+
+### 12. [microsoft/pyright](../ai/resources/microsoft-pyright.md) ([Source URL](https://github.com/microsoft/pyright))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T23:00:09.567285+05:30
+- **Local Path**: `ai/resources/microsoft-pyright.md`
+
+### 13. [windowsserverdocs/WindowsServerDocs/administration/OpenSSH/OpenSSH_Install_FirstUse.md at main · MicrosoftDocs/windowsse](../ai/resources/microsoftdocs-windowsserverdocs.md) ([Source URL](https://github.com/microsoftdocs/windowsserverdocs))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:59:29.322994+05:30
+- **Local Path**: `ai/resources/microsoftdocs-windowsserverdocs.md`
+
+### 14. [Editing Python in Visual Studio Code](../ai/rag/editing-python-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/python/editing))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:59:22.040729+05:30
+- **Local Path**: `ai/rag/editing-python-in-visual-studio-code.md`
+
+### 15. [Python environments in VS Code](../ai/resources/python-environments-in-vs-code.md) ([Source URL](https://code.visualstudio.com/docs/python/environments))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:58:49.380461+05:30
+- **Local Path**: `ai/resources/python-environments-in-vs-code.md`
+
+### 16. [Get started with OpenSSH Server for Windows | Microsoft Learn](../ai/resources/get-started-with-openssh-server-for-windows-micros.md) ([Source URL](https://learn.microsoft.com/windows-server/administration/openssh/openssh_install_firstuse))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:58:47.883084+05:30
+- **Local Path**: `ai/resources/get-started-with-openssh-server-for-windows-micros.md`
+
+### 17. [Python debugging in VS Code](../ai/resources/python-debugging-in-vs-code.md) ([Source URL](https://code.visualstudio.com/docs/python/debugging))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:58:44.477656+05:30
+- **Local Path**: `ai/resources/python-debugging-in-vs-code.md`
+
+### 18. [Microsoft/vscode-python](../ai/resources/microsoft-vscode-python.md) ([Source URL](https://github.com/microsoft/vscode-python))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:58:44.166741+05:30
+- **Local Path**: `ai/resources/microsoft-vscode-python.md`
+
+### 19. [modular/modular](../ai/resources/modular-modular.md) ([Source URL](https://github.com/modular/modular))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:58:36.724173+05:30
+- **Local Path**: `ai/resources/modular-modular.md`
+
+### 20. [Using C++ on Linux in VS Code](../ai/resources/using-c-on-linux-in-vs-code.md) ([Source URL](https://code.visualstudio.com/docs/cpp/config-linux))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:57:24.965137+05:30
+- **Local Path**: `ai/resources/using-c-on-linux-in-vs-code.md`
+
+### 21. [Configure VS Code for Microsoft C++](../ai/resources/configure-vs-code-for-microsoft-c.md) ([Source URL](https://code.visualstudio.com/docs/cpp/config-msvc))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:57:22.926293+05:30
+- **Local Path**: `ai/resources/configure-vs-code-for-microsoft-c.md`
+
+### 22. [C/C++ - Visual Studio Marketplace](../ai/resources/c-c-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:57:14.465433+05:30
+- **Local Path**: `ai/resources/c-c-visual-studio-marketplace.md`
+
+### 23. [Python - Visual Studio Marketplace](../ai/resources/python-visual-studio-marketplace.md) ([Source URL](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:57:09.763789+05:30
+- **Local Path**: `ai/resources/python-visual-studio-marketplace.md`
+
+### 24. [Mojo](../ai/agents/mojo.md) ([Source URL](https://modular.com/mojo))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-30T20:28:14.477476+05:30
-- **Local Path**: `ai/agents/the-finops-foundation.md`
+- **Collected At**: 2026-06-30T22:55:53.672380+05:30
+- **Local Path**: `ai/agents/mojo.md`
 
-### 5. [Linux Foundation | Browse Projects](../ai/resources/linux-foundation-browse-projects.md) ([Source URL](https://linuxfoundation.org/projects))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:28:11.154808+05:30
-- **Local Path**: `ai/resources/linux-foundation-browse-projects.md`
-
-### 6. [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md) ([Source URL](https://c2pa.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:28:07.792567+05:30
-- **Local Path**: `ai/resources/c2pa-verifying-media-content-sources.md`
-
-### 7. [Media Types](../ai/rag/media-types.md) ([Source URL](http://iana.org/assignments/media-types))
+### 25. [Create an application using Apache Beam - Managed Service for Apache Flink](../ai/rag/create-an-application-using-apache-beam-managed-se.md) ([Source URL](https://docs.aws.amazon.com/kinesisanalytics/latest/java/examples-beam.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:27:37.863804+05:30
-- **Local Path**: `ai/rag/media-types.md`
+- **Collected At**: 2026-06-30T22:55:07.619786+05:30
+- **Local Path**: `ai/rag/create-an-application-using-apache-beam-managed-se.md`
 
-### 8. [RFC 6838 - Media Type Specifications and Registration Procedures](../ai/rag/rfc-6838-media-type-specifications-and-registratio.md) ([Source URL](https://tools.ietf.org/html/rfc6838))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:27:31.086973+05:30
-- **Local Path**: `ai/rag/rfc-6838-media-type-specifications-and-registratio.md`
-
-### 9. [Merkle tree - Wikipedia](../ai/rag/merkle-tree-wikipedia.md) ([Source URL](https://en.wikipedia.org/wiki/merkle_tree))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:27:30.837650+05:30
-- **Local Path**: `ai/rag/merkle-tree-wikipedia.md`
-
-### 10. [@celphase.bsky.social on Bluesky](../ai/resources/celphase-bsky-social-on-bluesky.md) ([Source URL](https://bsky.app/profile/celphase.bsky.social))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:26:51.062609+05:30
-- **Local Path**: `ai/resources/celphase-bsky-social-on-bluesky.md`
-
-### 11. [opencontainers/runc](../ai/rag/opencontainers-runc.md) ([Source URL](https://github.com/opencontainers/runc))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:25:51.330330+05:30
-- **Local Path**: `ai/rag/opencontainers-runc.md`
-
-### 12. [image-spec/manifest.md at main · opencontainers/image-spec · GitHub](../ai/resources/opencontainers-image-spec.md) ([Source URL](https://github.com/opencontainers/image-spec))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:25:46.833656+05:30
-- **Local Path**: `ai/resources/opencontainers-image-spec.md`
-
-### 13. [cli/cli](../ai/rag/cli-cli.md) ([Source URL](https://github.com/cli/cli))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:25:27.196413+05:30
-- **Local Path**: `ai/rag/cli-cli.md`
-
-### 14. [Making sure you're not a bot!](../ai/resources/making-sure-you-re-not-a-bot.md) ([Source URL](https://lumendatabase.org))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:22:32.911906+05:30
-- **Local Path**: `ai/resources/making-sure-you-re-not-a-bot.md`
-
-### 15. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](https://law.cornell.edu/uscode/text/17/512))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:22.852661+05:30
-- **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
-
-### 16. [iPad - Apple](../ai/resources/ipad-apple.md) ([Source URL](https://apple.com/ipad))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:22:22.497853+05:30
-- **Local Path**: `ai/resources/ipad-apple.md`
-
-### 17. [Mac - Apple](../ai/rag/mac-apple.md) ([Source URL](https://apple.com/mac))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:22.475924+05:30
-- **Local Path**: `ai/rag/mac-apple.md`
-
-### 18. [Site Map - Apple](../ai/rag/site-map-apple.md) ([Source URL](https://apple.com/sitemap))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:22.211921+05:30
-- **Local Path**: `ai/rag/site-map-apple.md`
-
-### 19. [Legal - Website Terms of Use - Apple](../ai/agents/legal-website-terms-of-use-apple.md) ([Source URL](https://apple.com/legal/internet-services/terms/site.html))
+### 26. [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md) ([Source URL](https://code.visualstudio.com))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-30T20:22:22.055454+05:30
-- **Local Path**: `ai/agents/legal-website-terms-of-use-apple.md`
+- **Collected At**: 2026-06-30T22:54:31.309858+05:30
+- **Local Path**: `ai/agents/visual-studio-code-the-open-source-ai-code-editor.md`
 
-### 20. [Legal - Apple Privacy Policy - Apple](../ai/rag/legal-apple-privacy-policy-apple.md) ([Source URL](https://apple.com/legal/privacy/en-ww))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:22.018202+05:30
-- **Local Path**: `ai/rag/legal-apple-privacy-policy-apple.md`
-
-### 21. [Watch YouTube TV on supported devices - Computer - YouTube TV Help](../ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md) ([Source URL](https://support.google.com/youtubetv/answer/7129767?hl=en&ref_topic=7071745))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:16.497881+05:30
-- **Local Path**: `ai/rag/watch-youtube-tv-on-supported-devices-computer-you.md`
-
-### 22. [YouTube TV: Live TV & more - Apps on Google Play](../ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md) ([Source URL](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:11.607942+05:30
-- **Local Path**: `ai/rag/youtube-tv-live-tv-more-apps-on-google-play.md`
-
-### 23. [Get extra features on YouTube TV with 4K Plus - Computer - YouTube TV Help](../ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md) ([Source URL](https://support.google.com/youtubetv/answer/10383365))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:11.350420+05:30
-- **Local Path**: `ai/rag/get-extra-features-on-youtube-tv-with-4k-plus-comp.md`
-
-### 24. [T5Gemma: A new collection of encoder-decoder Gemma models - Google Developers Blog](../ai/rag/t5gemma-a-new-collection-of-encoder-decoder-gemma.md) ([Source URL](https://developers.googleblog.com/en/t5gemma))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:07.141053+05:30
-- **Local Path**: `ai/rag/t5gemma-a-new-collection-of-encoder-decoder-gemma.md`
-
-### 25. [MedGemma: Our most capable open models for health AI development](../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md) ([Source URL](https://research.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:07.064170+05:30
-- **Local Path**: `ai/rag/medgemma-our-most-capable-open-models-for-health-a.md`
-
-### 26. [Google variants - a Gemmaverse Collection](../ai/rag/huggingface-collections-gemmaverse.md) ([Source URL](https://huggingface.co/collections/gemmaverse))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:22:06.845595+05:30
-- **Local Path**: `ai/rag/huggingface-collections-gemmaverse.md`
-
-### 27. [Baseline | web.dev](../ai/resources/baseline-web-dev.md) ([Source URL](https://web.dev/baseline))
+### 27. [tavily-ai/tavily-search-evals](../ai/resources/tavily-ai-tavily-search-evals.md) ([Source URL](https://github.com/tavily-ai/tavily-search-evals))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:22:05.735882+05:30
-- **Local Path**: `ai/resources/baseline-web-dev.md`
+- **Collected At**: 2026-06-30T22:54:29.769701+05:30
+- **Local Path**: `ai/resources/tavily-ai-tavily-search-evals.md`
 
-### 28. [Privacy Sandbox](../ai/resources/privacy-sandbox.md) ([Source URL](https://developers.google.com/privacy-sandbox))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:22:05.273355+05:30
-- **Local Path**: `ai/resources/privacy-sandbox.md`
-
-### 29. [PageSpeed Insights](../ai/resources/pagespeed-insights.md) ([Source URL](https://pagespeed.web.dev))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:22:05.199173+05:30
-- **Local Path**: `ai/resources/pagespeed-insights.md`
-
-### 30. [specs/specs/serving/knative-api-specification-1.0.md at main · knative/specs · GitHub](../ai/resources/knative-specs.md) ([Source URL](https://github.com/knative/specs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:57.610721+05:30
-- **Local Path**: `ai/resources/knative-specs.md`
-
-### 31. [About the Open Container Initiative - Open Container Initiative](../ai/rag/about-the-open-container-initiative-open-container.md) ([Source URL](https://opencontainers.org/about/overview))
+### 28. [electron/electron](../ai/rag/electron-electron.md) ([Source URL](https://github.com/electron/electron))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:56.997631+05:30
-- **Local Path**: `ai/rag/about-the-open-container-initiative-open-container.md`
+- **Collected At**: 2026-06-30T22:54:29.731442+05:30
+- **Local Path**: `ai/rag/electron-electron.md`
 
-### 32. [Tutorials | Claude by Anthropic](../ai/agents/tutorials-claude-by-anthropic.md) ([Source URL](https://claude.com/resources/tutorials))
+### 29. [cwebp | WebP | Google for Developers](../ai/rag/cwebp-webp-google-for-developers.md) ([Source URL](https://developers.google.com/speed/webp/docs/cwebp))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:27.205046+05:30
+- **Local Path**: `ai/rag/cwebp-webp-google-for-developers.md`
+
+### 30. [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) ([Source URL](https://code.visualstudio.com/docs/copilot/agents/background-agents))
 - **Category**: ai/agents
-- **Collected At**: 2026-06-30T20:21:36.823282+05:30
-- **Local Path**: `ai/agents/tutorials-claude-by-anthropic.md`
+- **Collected At**: 2026-06-30T22:54:26.559138+05:30
+- **Local Path**: `ai/agents/copilot-cli-sessions-in-visual-studio-code.md`
 
-### 33. [docs/content/copilot/reference/copilot-cli-reference/cli-command-reference.md at main · github/docs · GitHub](../ai/rag/github-docs.md) ([Source URL](https://github.com/github/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:36.376955+05:30
-- **Local Path**: `ai/rag/github-docs.md`
-
-### 34. [anthropic-experimental/agentic-misalignment](../ai/agents/anthropic-experimental-agentic-misalignment.md) ([Source URL](https://github.com/anthropic-experimental/agentic-misalignment))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-30T20:21:35.445686+05:30
-- **Local Path**: `ai/agents/anthropic-experimental-agentic-misalignment.md`
-
-### 35. [Story’s detailed stats page – Medium Help Center](../ai/rag/storys-detailed-stats-page-medium-help-center.md) ([Source URL](https://help.medium.com/hc/en-us/articles/34831991136151))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:34.759210+05:30
-- **Local Path**: `ai/rag/storys-detailed-stats-page-medium-help-center.md`
-
-### 36. [jq](../ai/resources/jq.md) ([Source URL](https://jqlang.github.io/jq))
+### 31. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:31.632783+05:30
-- **Local Path**: `ai/resources/jq.md`
-
-### 37. [Claude Platform | Claude by Anthropic](../ai/resources/claude-platform-claude-by-anthropic.md) ([Source URL](https://claude.com/platform/api))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:31.448343+05:30
-- **Local Path**: `ai/resources/claude-platform-claude-by-anthropic.md`
-
-### 38. [Visual Studio Support - Customer Help & FAQs](../ai/resources/visual-studio-support-customer-help-faqs.md) ([Source URL](https://visualstudio.com/support/support-overview-vs))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:29.030614+05:30
-- **Local Path**: `ai/resources/visual-studio-support-customer-help-faqs.md`
-
-### 39. [GitHub CLI telemetry - GitHub Docs](../ai/agents/github-cli-telemetry-github-docs.md) ([Source URL](https://docs.github.com/en/github-cli/github-cli/github-cli-telemetry))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-30T20:21:27.394889+05:30
-- **Local Path**: `ai/agents/github-cli-telemetry-github-docs.md`
-
-### 40. [WSL/WSL/install.md at main · MicrosoftDocs/WSL · GitHub](../ai/rag/microsoftdocs-wsl.md) ([Source URL](https://github.com/microsoftdocs/wsl))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:25.754380+05:30
-- **Local Path**: `ai/rag/microsoftdocs-wsl.md`
-
-### 41. [Introduction | Electron](../ai/resources/introduction-electron.md) ([Source URL](https://electronjs.org/docs/latest))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:25.040367+05:30
+- **Collected At**: 2026-06-30T22:54:25.612606+05:30
 - **Local Path**: `ai/resources/introduction-electron.md`
 
-### 42. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:24.836229+05:30
-- **Local Path**: `ai/rag/codeql-documentation.md`
-
-### 43. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
+### 32. [npm Docs](../ai/resources/npm-docs.md) ([Source URL](https://docs.npmjs.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:24.453355+05:30
+- **Collected At**: 2026-06-30T22:54:25.330548+05:30
 - **Local Path**: `ai/resources/npm-docs.md`
 
-### 44. [Releases · microsoft/WSL · GitHub](../ai/rag/microsoft-wsl.md) ([Source URL](https://github.com/microsoft/wsl))
+### 33. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([Source URL](https://codeql.github.com/docs))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:21.418415+05:30
-- **Local Path**: `ai/rag/microsoft-wsl.md`
+- **Collected At**: 2026-06-30T22:54:25.106427+05:30
+- **Local Path**: `ai/rag/codeql-documentation.md`
 
-### 45. [Install WSL with a single command now available in Windows 10 version 2004 and higher - Windows Command Line](../ai/resources/install-wsl-with-a-single-command-now-available-in.md) ([Source URL](https://devblogs.microsoft.com/commandline/install-wsl-with-a-single-command-now-available-in-windows-10-version-2004-and-higher))
+### 34. [aomediacodec/libavif](../ai/rag/aomediacodec-libavif.md) ([Source URL](https://github.com/aomediacodec/libavif))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:24.625225+05:30
+- **Local Path**: `ai/rag/aomediacodec-libavif.md`
+
+### 35. [Google for Developers | Build with Gemini](../ai/agents/google-for-developers-build-with-gemini.md) ([Source URL](https://developers.google.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T22:54:22.383365+05:30
+- **Local Path**: `ai/agents/google-for-developers-build-with-gemini.md`
+
+### 36. [Gemini Code Assist for teams and businesses](../ai/rag/gemini-code-assist-for-teams-and-businesses.md) ([Source URL](https://codeassist.google))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:21.451243+05:30
+- **Local Path**: `ai/rag/gemini-code-assist-for-teams-and-businesses.md`
+
+### 37. [Overview - Knative](../ai/rag/overview-knative.md) ([Source URL](https://knative.dev/docs))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:20.328341+05:30
+- **Local Path**: `ai/rag/overview-knative.md`
+
+### 38. [Neo4j - YouTube](../ai/rag/neo4j-youtube.md) ([Source URL](https://youtube.com/neo4j))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:19.714744+05:30
+- **Local Path**: `ai/rag/neo4j-youtube.md`
+
+### 39. [Android Open Source Project](../ai/resources/android-open-source-project.md) ([Source URL](https://source.android.com))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:20.879097+05:30
-- **Local Path**: `ai/resources/install-wsl-with-a-single-command-now-available-in.md`
+- **Collected At**: 2026-06-30T22:54:18.153255+05:30
+- **Local Path**: `ai/resources/android-open-source-project.md`
 
-### 46. [Turn on Match Dynamic Range or Match Frame Rate on your Apple TV - Apple Support](../ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md) ([Source URL](https://support.apple.com/en-us/ht208288))
+### 40. [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) ([Source URL](https://developer.chrome.com/docs/ai/built-in))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:17.672990+05:30
+- **Local Path**: `ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md`
+
+### 41. [Keras: Deep Learning for humans](../ai/rag/keras-deep-learning-for-humans.md) ([Source URL](https://keras.io/keras_3))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:16.991798+05:30
+- **Local Path**: `ai/rag/keras-deep-learning-for-humans.md`
+
+### 42. [Gemma â Google DeepMind](../ai/rag/gemma-a-google-deepmind.md) ([Source URL](https://deepmind.google/models/gemma))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:16.816413+05:30
+- **Local Path**: `ai/rag/gemma-a-google-deepmind.md`
+
+### 43. [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md) ([Source URL](https://law.cornell.edu/uscode/text/17/512))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:54:14.645840+05:30
+- **Local Path**: `ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md`
+
+### 44. [Medium/medium-policy](../ai/resources/medium-medium-policy.md) ([Source URL](https://github.com/medium/medium-policy))
 - **Category**: ai/resources
-- **Collected At**: 2026-06-30T20:21:14.708248+05:30
-- **Local Path**: `ai/resources/turn-on-match-dynamic-range-or-match-frame-rate-on.md`
+- **Collected At**: 2026-06-30T22:54:14.591343+05:30
+- **Local Path**: `ai/resources/medium-medium-policy.md`
 
-### 47. [About Medium](../ai/rag/about-medium.md) ([Source URL](https://about.medium.com))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:11.709671+05:30
-- **Local Path**: `ai/rag/about-medium.md`
+### 45. [Medium’s Copyright and DMCA Policy | by Medium | Medium Policy](../ai/agents/mediums-copyright-and-dmca-policy-by-medium-medium.md) ([Source URL](https://medium.com/policy/mediums-copyright-and-dmca-policy-d126f73695))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T22:54:12.090365+05:30
+- **Local Path**: `ai/agents/mediums-copyright-and-dmca-policy-by-medium-medium.md`
 
-### 48. [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md) ([Source URL](https://jamsadr.com/rules-streamlined-arbitration))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:11.324322+05:30
-- **Local Path**: `ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md`
+### 46. [Licenses List - Creative Commons](../ai/resources/licenses-list-creative-commons.md) ([Source URL](https://creativecommons.org/licenses))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-30T22:54:11.954603+05:30
+- **Local Path**: `ai/resources/licenses-list-creative-commons.md`
 
-### 49. [Change audio settings on Apple TV 4K - Apple Support](../ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md) ([Source URL](https://support.apple.com/guide/tv/adjust-video-and-audio-settings-atvba773c3c9))
+### 47. [Medium Partner Program](../ai/rag/medium-partner-program.md) ([Source URL](https://medium.com/creators))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:21:09.940797+05:30
-- **Local Path**: `ai/rag/change-audio-settings-on-apple-tv-4k-apple-support.md`
+- **Collected At**: 2026-06-30T22:53:50.566419+05:30
+- **Local Path**: `ai/rag/medium-partner-program.md`
 
-### 50. [The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV](../ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md) ([Source URL](https://tv.youtube.com/learn/nflsundayticket))
+### 48. [GitHub for teams · Build like the best teams on the planet · GitHub](../ai/rag/github-for-teams-build-like-the-best-teams-on-the.md) ([Source URL](https://github.com/team))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-30T20:20:49.774279+05:30
-- **Local Path**: `ai/rag/the-exclusive-home-of-nfl-sunday-ticket-youtube-yo.md`
+- **Collected At**: 2026-06-30T22:53:49.201728+05:30
+- **Local Path**: `ai/rag/github-for-teams-build-like-the-best-teams-on-the.md`
+
+### 49. [GitHub CLI | Take GitHub to the command line](../ai/agents/github-cli-take-github-to-the-command-line.md) ([Source URL](https://cli.github.com))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-30T22:53:49.076292+05:30
+- **Local Path**: `ai/agents/github-cli-take-github-to-the-command-line.md`
+
+### 50. [GitHub recognized as a Leader by 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents · GitHub](../ai/rag/resources-whitepapers.md) ([Source URL](https://github.com/resources/whitepapers))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-30T22:53:28.808982+05:30
+- **Local Path**: `ai/rag/resources-whitepapers.md`
 
 ---
-*Index generated on 2026-06-30T20:30:08.642656+05:30*
+*Index generated on 2026-06-30T23:03:04.335492+05:30*

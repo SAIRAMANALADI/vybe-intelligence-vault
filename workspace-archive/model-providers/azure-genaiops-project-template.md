@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Uses Bicep for deploying Azure resources required for a Retrieval-Augmented Generation (RAG) pipeline, including compute, storage, and networking components.
-- **GenAIOps Focus**: Designed for operationalizing generative AI workloads with built-in monitoring, logging, and CI/CD integration for RAG applications.
-- **Modular Design**: Provides reusable Bicep modules for scalable deployment of Azure AI services (e.g., Azure OpenAI, Cognitive Search) and
+- **Infrastructure-as-Code (IaC) Template**: Uses Bicep to deploy a Generative AI Operations (GenAIOps) solution with Retrieval-Augmented Generation (RAG) capabilities on Azure.
+- **Modular Design**: Provides a structured template for deploying RAG-based GenAIOps components, enabling scalability and customization.
+- **Azure Integration**: Leverages Azure-native services (e.g., Azure OpenAI, Cognitive Search, or similar) for end-to-end RAG pipeline deployment.
 
 ## Use Cases
 

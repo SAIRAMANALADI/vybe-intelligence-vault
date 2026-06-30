@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/modelscope/evalscope
-collected_at: '2026-06-30T20:16:16.005871+05:30'
-published_at: '2026-06-30T10:35:25Z'
+collected_at: '2026-06-30T22:49:17.285537+05:30'
+published_at: '2026-06-30T16:45:10Z'
 tags:
 - benchmark
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-12-07T06:10:49Z'
 pushed_at: '2026-06-30T10:35:20Z'
 resource_id: github:modelscope/evalscope
-first_seen: '2026-06-30T20:16:16.005871+05:30'
-last_seen: '2026-06-30T20:16:16.005871+05:30'
-last_checked: '2026-06-30T20:16:16.005871+05:30'
+first_seen: '2026-06-30T22:49:17.285537+05:30'
+last_seen: '2026-06-30T22:49:17.285537+05:30'
+last_checked: '2026-06-30T22:49:17.285537+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Framework Purpose**: Streamlined, customizable Python framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency and adaptability.
-- **Key Features**: Supports evaluation of language models (LLMs), vision-language models (VLMs), and AI-generated content (AIGC), including RAG (Retrieval-Augmented Generation) performance metrics.
-- **Technical Stack**: Built in Python, optimized for extensibility and scalability with active maintenance (last updated June 2026).
+- **Framework Overview**: EvalsScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
+
+- **Key Features**: Supports streamlined performance assessment across tasks like RAG, with extensible evaluation modules and standardized benchmarking protocols for reproducibility.
+
+- **Technical Stack**: Built for scalability, leveraging Python with optimized data handling and distributed computing capabilities for large-scale model evaluations.
 
 ## Why It Matters
 
@@ -45,7 +47,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 409
 - Language: Python
 - Topics: evaluation, llm, performance, rag, vlm
-- Last Updated: 2026-06-30T10:35:25Z
+- Last Updated: 2026-06-30T16:45:10Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-07T06:10:49Z

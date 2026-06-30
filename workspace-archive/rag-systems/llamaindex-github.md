@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` (document parsing), `Extract` (structured data extraction), and a unified `Platform` for document workflows and agent integration.
+- **LlamaParse** provides SOTA agentic OCR for document processing workflows, enabling high-fidelity extraction from unstructured documents via cloud-based APIs (`Parse`, `Extract`) and open-source alternatives (`LiteParse`).
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight parsing), `LlamaAgents` (modular agent framework), and the core `LlamaIndex` Python library for building RAG/LLM pipelines with comprehensive documentation.
+- **Open-source ecosystem** includes `LlamaAgents` for multi-agent orchestration and `LlamaIndex (Python)` for modular RAG pipelines, with comprehensive documentation for integration and deployment.
 
-- **Community & Ecosystem**: Maintains active presence on X (Twitter), LinkedI
+- **Multi-platform support** via official SDKs (Python/JS) and cloud serv
 
 ## Use Cases
 

@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Purpose**: Framework for evaluating LLMs, implementing guardrails, and ensuring LLM security in production environments.
-- **Key Features**: Supports LLM evaluation metrics, real-time guardrail enforcement, and security protocols for safe deployment.
-- **Tech Stack**: Python-based, integrates with LLMops workflows for scalable and secure model deployment.
+- **Purpose-built framework** for evaluating LLMs, implementing guardrails, and enforcing security policies in Python-based workflows.
+- **Modular architecture** supports integration with LLMops pipelines, enabling automated testing and deployment of safety mechanisms.
+- **Open-source repository** (114 stars, 14 forks) with last update in 2026, focusing on LLM evaluation, security hardening, and operational best practices.
 
 ## Use Cases
 

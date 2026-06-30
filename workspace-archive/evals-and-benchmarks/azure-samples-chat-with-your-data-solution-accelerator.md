@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern using **Azure AI Search** for retrieval and **Azure OpenAI** LLMs for conversational Q&A, deployed in Azure.
-- **Key Components**: Includes **Python-based** solution with **AZD templates**, covering common RAG requirements and best practices for chat and Q&A experiences.
-- **Updates & Usage**: Last updated **2026-06-29**, with **1173 stars** and **642 forks**, focusing on `ai-search`, `azure-openai`, and `openai` integra
+- **RAG Implementation**: Deploys Retrieval-Augmented Generation (RAG) pattern using Azure AI Search for retrieval and Azure OpenAI LLMs for generative responses, enabling ChatGPT-style and Q&A interactions.
+
+- **Azure Integration**: Leverages Azure services (AI Search, OpenAI) with Python-based deployment, including AZD templates for infrastructure-as-code (IaC) and best practices for scalability and security.
+
+- **Prebuilt Components**: Includes preconfigured pipelines for data ingestion, embe
 
 ## Use Cases
 

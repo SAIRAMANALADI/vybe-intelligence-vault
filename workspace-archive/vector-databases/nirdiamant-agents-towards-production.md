@@ -32,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive Tutorials**: End-to-end, code-first guides for developing production-grade GenAI agents, covering stages from prototyping to enterprise deployment.
-- **Technical Stack**: Utilizes Python, LangGraph, MCP, and integrates MLOps practices with observability, RAG, and multi-agent systems for scalable AI agent frameworks.
-- **Resources**: Repository includes Jupyter Notebooks with 20,885+ stars and 2,773+ forks, last updated June 2026, focusing on agentic AI, LLM integration, and dep
+- **Comprehensive Tutorials**: End-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with a focus on practical implementation.
+
+- **Technical Scope**: Covers agent frameworks, multi-agent systems, LangGraph, MCP, RAG, MLOps, and observability, leveraging Python and Jupyter Notebooks for hands-on learning.
+
+- **Enterprise Readiness**: Addresses deployment, scalability, and production-grade considerations, including LLMs, agentic AI
 
 ## Use Cases
 

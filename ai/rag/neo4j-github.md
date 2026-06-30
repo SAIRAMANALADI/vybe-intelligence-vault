@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/neo4j
-published_at: '2026-06-30T15:41:09.063233+05:30'
-collected_at: '2026-06-30T15:41:09.063245+05:30'
+published_at: '2026-06-30T22:51:27.868438+05:30'
+collected_at: '2026-06-30T22:51:27.868455+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:neo4j-github
-first_seen: '2026-06-30T15:41:09.063245+05:30'
-last_seen: '2026-06-30T15:41:09.063245+05:30'
-last_checked: '2026-06-30T15:41:09.063245+05:30'
+first_seen: '2026-06-30T22:51:27.868455+05:30'
+last_seen: '2026-06-30T22:51:27.868455+05:30'
+last_checked: '2026-06-30T22:51:27.868455+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Neo4j Core Engine**: Open-source graph database (Java-based) with 16.8k stars, supporting ACID transactions, Cypher query language, and native graph storage optimizations for high-performance traversals.
+- **Core Project**: [neo4j/neo4j](https://github.com/neo4j/neo4j) is the primary open-source graph database implementation in Java, with 16.8k stars and 2.6k forks, enabling ACID-compliant transactional graph operations.
 
-- **Graph Data Science Library**: Provides scalable implementations of graph algorithms (e.g., PageRank, community detection) via the `graph-data-science` repository (803 stars), designed for integration with Neo4j’s property graph model.
+- **Driver Ecosystem**: Provides official Bolt protocol drivers for multiple languages: Java (`neo4j-java-driver`), JavaScript (`neo4j-javascript-driver`), Python (`neo4j-python-driver`), and .NET (`neo4j-dotnet-driver`), all Apache-2.0 licensed.
 
-- **Multi-Language Bolt Drivers**: Official drivers for Java (342 stars), JavaScript (915 stars), Python (1k stars), and Scala (320 stars) enable Bolt protocol communication with Neo4j, supporting typed data exchange and session management.
+- **GDS & Extensions**: [graph-data-science](https://github.com/neo4j/graph-data-science) library offers scalable graph algorithms (e.g., PageRank, community detection), while [apoc](https://github.com/neo4j/apoc) provides procedural extensions for data integration and utility functions.
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T15:41:09.063233+05:30
+- Published: 2026-06-30T22:51:27.868438+05:30
 
 ## Related Tags
 

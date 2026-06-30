@@ -6,10 +6,10 @@ source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
 resource_id: github:vstorm-co/full-stack-ai-agent-template
 local_vault_path: ai/rag/vstorm-co-full-stack-ai-agent-template.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
+archive_score: 77
+archive_tier: useful
 resource_kind: template
-importance: high
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: template
 - Selection reasons:
   - Strong keyword match
@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-integrated with **20+ AI frameworks** (LangChain, LangGraph, CrewAI, Pydantic-AI) and tools (RAG, streaming, WebSocket).
+- **Full-stack AI agent template** with FastAPI backend and Next.js frontend, pre-configured with **AI Agents, RAG, streaming, auth**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
 
-- **Production-ready stack** featuring **PostgreSQL**, **authentication**, **Docker** support, and **TypeScript/Python** interoperability for scalable AI agent deployments.
+- **Tech stack**: Python (FastAPI), TypeScript (Next.js/React), PostgreSQL, WebSockets; supports Docker deployment and includes **Pydantic models, auth, and streaming** out of the box.
 
-- **Out-of-the-box integrations** for **LLM APIs**, **React components**, and **Pydantic models** (Deep/Pydantic-AI), optim
+- **Key features**: Pre-built AI agent workflows, **RAG integration**, and **multi-framework supp
 
 ## Use Cases
 

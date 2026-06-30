@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model integrated with Llama Index for document retrieval and generation.
-- **Technical Stack**: Jupyter Notebook-based implementation leveraging Llama 2 70B (70 billion parameter model) for high-capacity language processing.
-- **Update Status**: Last updated on May 24, 2026, indicating ongoing maintenance and relevance.
+- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) using Llama 2 70B model with LlamaIndex for efficient data retrieval and generation.
+- **Environment**: Developed in a Jupyter Notebook, leveraging Python-based libraries for modular RAG pipeline construction.
+- **Scalability**: Supports large-scale inference with 70B parameter model, optimized for performance via LlamaIndex’s retrieval mechanisms.
 
 ## Use Cases
 

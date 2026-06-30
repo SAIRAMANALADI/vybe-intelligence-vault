@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/langsmith/home
-published_at: '2026-06-30T20:19:24.007233+05:30'
-collected_at: '2026-06-30T20:19:24.007253+05:30'
+published_at: '2026-06-30T22:52:32.439969+05:30'
+collected_at: '2026-06-30T22:52:32.439985+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:langsmith-observability-docs-by-langchain
-first_seen: '2026-06-30T20:19:24.007253+05:30'
-last_seen: '2026-06-30T20:19:24.007253+05:30'
-last_checked: '2026-06-30T20:19:24.007253+05:30'
+first_seen: '2026-06-30T22:52:32.439985+05:30'
+last_seen: '2026-06-30T22:52:32.439985+05:30'
+last_checked: '2026-06-30T22:52:32.439985+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **LangSmith Observability** provides end-to-end monitoring, debugging, and performance tracking for LLM applications, supporting frameworks like OpenAI, Anthropic, and CrewAI via [available integrations](https://docs.langchain.com/langsmith/integrations).
+- **LangSmith Observability** provides end-to-end visibility into LLM applications, including individual traces, production metrics, and performance monitoring across frameworks like OpenAI, Anthropic, and CrewAI.
 
-- **Core features** include trace visualization, automated failure detection (via **Engine**), performance dashboards, user feedback collection, and alert-based monitoring with configurable automations.
+- **Core features** include automated failure detection (via Engine), trace filtering/exporting, dashboard-based performance monitoring, and user feedback collection through annotation queues or inline methods.
 
-- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances, requiring an account ([smith.langchain.com](https://smith.langchain.com)), API key generation, and instrumentation via environment variables, SDK, or framework-specific integrations.
+- **Setup options** include cloud, hybrid, or self-hosted LangSmith instances, with API key authentication and framework-specific tracing (e.g., RAG applications) via SDKs or environment variables.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:19:24.007233+05:30
+- Published: 2026-06-30T22:52:32.439969+05:30
 
 ## Related Tags
 

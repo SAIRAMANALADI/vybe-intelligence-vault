@@ -35,11 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) across global regions (US, EU, Japan, Australia).
+- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime metrics (e.g., 99.99% uptime for Git Operations over 90 days) for GitHub services (Git Operations, Webhooks, API Requests, etc.) across regions (US, EU, Australia, Japan).
 
-- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (100+ country codes), Slack, and webhooks for automated incident tracking (e.g., Copilot AI model provider outages).
-
-- **Incident Root Cause Analysis**: Recent disruptions (e.g., June 25, 2026
+- **Notification Systems**: Supports multiple incident notification channels including email, SMS (global phone number list), Slack, and webhooks for automated incident tracking (e.g., `POST` to webhook URLs for `create/up
 
 ## Use Cases
 

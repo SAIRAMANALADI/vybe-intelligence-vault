@@ -6,10 +6,10 @@ source_url: https://github.com/TracecatHQ/tracecat
 resource_id: github:tracecathq/tracecat
 local_vault_path: ai/rag/tracecathq-tracecat.md
 quality_score: 70
-archive_score: 87
-archive_tier: essential
-resource_kind: framework
-importance: high
+archive_score: 77
+archive_tier: useful
+resource_kind: workflow
+importance: medium
 tags:
 - agents
 - frontend_ui
@@ -20,7 +20,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # TracecatHQ/tracecat
@@ -28,19 +28,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: workflow
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and OpenAPI for workflow orchestration, with event-driven architecture powered by Temporal.io.
-
-- **Low-code, agent-friendly system** integrating LLM capabilities, Next.js for frontend, and modular workflow engine for security automation and monitoring.
-
-- **Scalable, production-ready framework** with 3,703 GitHub stars, supporting AI agents and security teams via temporal workflows and RESTful API design.
+- **Open-source security automation platform** leveraging Python, FastAPI, and Next.js, designed for teams and AI agents with event-driven orchestration.
+- **Workflow engine** built on Temporal.io for durable execution, featuring low-code configuration via Pydantic schemas and OpenAPI integration.
+- **Security-focused** with LLM support, monitoring capabilities, and a scalable architecture for automated threat detection and response.
 
 ## Use Cases
 

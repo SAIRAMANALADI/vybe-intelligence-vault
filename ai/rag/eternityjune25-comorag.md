@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-06-30T20:16:41.003046+05:30'
+collected_at: '2026-06-30T22:49:42.232555+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-06-30T20:16:41.003046+05:30'
-last_seen: '2026-06-30T20:16:41.003046+05:30'
-last_checked: '2026-06-30T20:16:41.003046+05:30'
+first_seen: '2026-06-30T22:49:42.232555+05:30'
+last_seen: '2026-06-30T22:49:42.232555+05:30'
+last_checked: '2026-06-30T22:49:42.232555+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework mimicking human cognitive processes for stateful long narrative reasoning, enabling dynamic memory updates and retrieval.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements a hierarchical memory structure (short-term, long-term, and episodic memory) with adaptive retrieval strategies to maintain context coherence over extended interactions.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics for long-form narrative reasoning, demonstrating superior performance in benchmarks requiring multi-turn reasoning and memory retention.
+- **AAAI 2026 Contribution**: Proposes a novel approach to RAG systems, validated through poster presentation, with open-source Python implementation for reproducibility and further research.
 
 ## Why It Matters
 

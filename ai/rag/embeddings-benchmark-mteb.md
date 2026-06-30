@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/embeddings-benchmark/mteb
-collected_at: '2026-06-30T20:20:07.530665+05:30'
+collected_at: '2026-06-30T22:53:28.719273+05:30'
 published_at: '2026-06-30T13:56:16Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2022-04-05T08:25:47Z'
 pushed_at: '2026-06-30T13:56:11Z'
 resource_id: github:embeddings-benchmark/mteb
-first_seen: '2026-06-30T20:20:07.530665+05:30'
-last_seen: '2026-06-30T20:20:07.530665+05:30'
-last_checked: '2026-06-30T20:20:07.530665+05:30'
+first_seen: '2026-06-30T22:53:28.719273+05:30'
+last_seen: '2026-06-30T22:53:28.719273+05:30'
+last_checked: '2026-06-30T22:53:28.719273+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **MTEB Framework**: Comprehensive Python-based benchmark for evaluating text embeddings across diverse tasks (e.g., retrieval, clustering, classification) and languages/modalities, integrating 58 datasets and 11 task categories.
-- **Multimodal & Multilingual Support**: Evaluates embeddings in low-resource and cross-lingual settings, including multimodal tasks (e.g., image-text retrieval), with standardized metrics (e.g., Spearman correlation, nDCG).
-- **Modular Architecture**: Supports integration of Sentence-BERT models, custom datasets, and task-specific adapters, enabling reproducible state-of-the-art comparisons for neural search, STS, and reranking tasks.
+- **Benchmark Suite**: MTEB provides a standardized framework for evaluating text embeddings across diverse tasks including retrieval, clustering, classification, and reranking, supporting both monolingual and multilingual scenarios.
+
+- **Multimodal & Low-Resource Support**: Includes evaluation for multimodal embeddings and specifically targets low-resource languages, enabling assessment of models in underrepresented linguistic contexts.
+
+- **Integration & Extensibility**: Built on Python, it integrates with libraries like Sentence-Transformers (SBERT) and supports modular extensions for new datasets, tasks, and embedding models.
 
 ## Why It Matters
 

@@ -2,13 +2,13 @@
 title: Google for Developers | Build with Gemini
 archive_category: ai-tools-products
 source_category: ai/agents
-source_url: https://developers.google.com/
+source_url: https://developers.google.com
 resource_id: blog:google-for-developers-build-with-gemini
 local_vault_path: ai/agents/google-for-developers-build-with-gemini.md
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Google for Developers | Build with Gemini
@@ -26,19 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Gemini API Integration**: Provides access to advanced reasoning and generative models (e.g., `gemini-3.5-flash`) via REST and SDKs (Python, JavaScript, Go, Java) for multimodal, long-context AI workflows in applications.
+- **Gemini API Integration**: Provides access to advanced reasoning and generative models via a single API, supporting long context windows, native multimodal reasoning, and real-time agentic workflows for scalable app/agent development.
 
-- **Agent-First Platforms**: Google Antigravity (desktop/CLI) and AI Studio enable autonomous agent development, mission control customization, and prompt-to-production app generation with Gemini models.
+- **Agent-First Platforms**: Google Antigravity and AI Studio enable autonomous agent operations with mission control interfaces, allowing developers to build, steer, and customize agents for tasks across desktop/CLI environments.
 
-- **Enterprise & Web AI Tools**: Gemini Enterprise Agent Platform sca
+- **Multi-Platform AI Develop
 
 ## Use Cases
 
@@ -48,7 +48,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developers.google.com/
+Original source URL: https://developers.google.com
 
 ## Local Vault File
 

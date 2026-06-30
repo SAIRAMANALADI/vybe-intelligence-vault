@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - web-crawled
-- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **DMCA Compliance Requirements**: Notifications must include (1) a signature (e.g., typed name) of the copyright owner or authorized agent, (2) identification of the infringed work (e.g., original content or clear description), and (3) sufficient details (e.g., links) to locate the infringing material on Medium’s platform.
+- **DMCA Compliance Requirements**: Medium adheres to Section 512 of the DMCA, requiring formal copyright infringement reports to include a signature, identification of the copyrighted work, infringing material location, contact details, good-faith belief statement, and accuracy certification under penalty of perjury.
 
-- **Processing & Counter-Notification Workflow**: Medium processes claims in order received, removes/restricts allegedly infringing content, and notifies affected users wit
+- **Processing & Enforcement**: Medium processes claims in order received, may remove/restrict infringing content, notifies affected users, forwards complaints to the Lumen databa
 
 ## Use Cases
 

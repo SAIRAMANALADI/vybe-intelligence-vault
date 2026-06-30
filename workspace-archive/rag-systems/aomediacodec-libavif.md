@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Library Overview**: `libavif` is a C-based open-source library for encoding and decoding AVIF (AV1 Image File Format) files, leveraging the AV1 codec for high-efficiency compression.
-- **Key Features**: Supports AVIF's core functionalities, including lossy/lossless encoding, multi-layer image handling, and metadata preservation (e.g., EXIF, XMP).
-- **Dependencies**: Relies on `libaom` (AOMedia's AV1 encoder/decoder) and optionally integrates with other AV1 implementations (e.g., `dav1d` for
+- **Purpose**: C-based library for encoding and decoding AV1 Image File Format (AVIF) files, leveraging the AV1 codec for high-efficiency compression.
+- **Key Features**: Supports both lossy and lossless encoding/decoding, with integration of libaom (AOMedia's AV1 encoder/decoder) and optional support for other AV1 implementations.
+- **Dependencies**: Requires libaom (or alternative AV1 codec) and standard C libraries; designed for cross-platform compatibility (Linux, macOS, Windows).
 
 ## Use Cases
 

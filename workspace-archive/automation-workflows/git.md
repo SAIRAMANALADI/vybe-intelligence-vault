@@ -2,7 +2,7 @@
 title: Git
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://git-scm.com/
+source_url: https://git-scm.com
 resource_id: blog:git
 local_vault_path: ai/resources/git.md
 quality_score: 70
@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Distributed Version Control**: Git is a free, open-source, distributed version control system optimized for speed and efficiency, supporting projects of all scales.
+- **Distributed Version Control**: Git is a free, open-source, distributed version control system optimized for speed and efficiency, scaling from small to very large projects.
 
-- **Ecosystem & Performance**: Features lightning-fast operations with a vast ecosystem including GUIs, hosting services, and command-line tools for enhanced workflow integration.
+- **Ecosystem & Performance**: Features lightning-fast performance with a vast ecosystem including GUIs, hosting services, and command-line tools for enhanced workflow integration.
 
-- **Documentation & Releases**: Provides comprehensive reference documentation, the *Pro Git* book, and regular binary releases (e.g., v2.54.0) for m
+- **Documentation & Releases**: Provides comprehensive resources (e.g., *Pro Git* book), reference documentation, and regular binary release
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://git-scm.com/
+Original source URL: https://git-scm.com
 
 ## Local Vault File
 

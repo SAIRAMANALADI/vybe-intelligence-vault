@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-*   Comprehensive repository with 50+ Jupyter Notebook implementations covering GenAI agent techniques from basic conversational bots to complex multi-agent systems.
-*   Leverages frameworks like LangChain, LangGraph, and OpenAI APIs for practical agent development, integrating LLMs and RAG architectures.
-*   Explores autonomous agent design patterns, including multi-agent coordination protocols (MCP) and various LLM integration strategies.
+- **Repository Scope**: 50+ tutorials and implementations covering Generative AI Agent techniques, ranging from basic conversational bots to complex multi-agent systems.
+- **Technical Stack**: Primarily utilizes Python in Jupyter Notebooks, integrating frameworks like LangChain, LangGraph, and MCP, with support for RAG, LLM interactions, and OpenAI models.
+- **Metrics**: 22,940 stars, 3,854 forks, last updated June 30, 2026, focusing on agentic AI, autonomous agents, and multi-agent systems.
 
 ## Use Cases
 

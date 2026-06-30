@@ -3,23 +3,24 @@ title: GitHub Copilot CLI · GitHub
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
-published_at: '2026-06-30T20:18:26.312299+05:30'
-collected_at: '2026-06-30T20:18:26.312315+05:30'
+source_url: https://github.com/features/copilot/cli
+published_at: '2026-06-30T22:53:13.188612+05:30'
+collected_at: '2026-06-30T22:53:13.188629+05:30'
 tags:
 - agents
 - anthropic
 - frontend_ui
 - hackernews
 - openai
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: github:features/copilot
-first_seen: '2026-06-30T20:18:26.312315+05:30'
-last_seen: '2026-06-30T20:18:26.312315+05:30'
-last_checked: '2026-06-30T20:18:26.312315+05:30'
+first_seen: '2026-06-30T22:53:13.188629+05:30'
+last_seen: '2026-06-30T22:53:13.188629+05:30'
+last_checked: '2026-06-30T22:53:13.188629+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Native GitHub Integration**: Copilot CLI operates via GitHub’s native `/mcp` integration, enabling direct interaction with issues, PRs, branches, and labels while enforcing existing branch protections, required checks, and org policies.
+- **Multi-Agent Workflows**: GitHub Copilot CLI supports parallelized subagents via `/fleet`, enabling concurrent task execution across multiple models (e.g., Anthropic, Google, OpenAI) with `/model` switching, and autonomous multi-step workflows from `/plan` to merged PRs.
 
-- **Multi-Agent & Parallel Execution**: Supports `/fleet` for parallelized subagent workflows, `/model` for switching between providers (e.g., Anthropic, Google, OpenAI), and `/plan` to `/autopilot` transitions for autonomous task execution with explicit user approval gates.
+- **Native GitHub Integration**: Built on GitHub’s Model Context Protocol (MCP), it natively interacts with issues, branches, and PRs, inherits org policies (Business/Enterprise), and enforces branch protections/required checks without additional setup.
 
-- **Cross-Platform & Extensible**: Works across macOS/Linux/Windows, integrates with VS Code, and supports custom MCP servers, skills, and plugins via `AGENTS.md`; session persistence and `/remote` access allow seamless transitions between terminal, IDE, and mobile.
+- **Session Persistence & Extensibility**: Maintains context across sessions via `/resume`, supports custom agents (`/agent`) and skills (AGENTS.md), and allows MCP server/plugin integrations for tailored tooling, with experimental features accessible via `/experimental show`.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T20:18:26.312299+05:30
+- Published: 2026-06-30T22:53:13.188612+05:30
 
 ## Related Tags
 
@@ -50,10 +51,11 @@ General public resource representing technology updates, guides, or tutorials.
 - frontend_ui
 - hackernews
 - openai
+- reddit
 - web-crawled
 - workflows
 - youtube
 
 ## Source
 
-Original source: https://github.com/features/copilot/cli?utm_source=blog-top-nav-cli-features-cta&utm_medium=blog&utm_campaign=dev-pod-copilot-cli-2026
+Original source: https://github.com/features/copilot/cli

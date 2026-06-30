@@ -18,6 +18,7 @@ tags:
 - meta-ai
 - models
 - rag
+- scripts
 - typescript
 selection_reason:
 - Strong keyword match
@@ -37,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Action Integration**: Enables automated testing of LLMs (e.g., GPT, Claude, Gemini, Llama) via declarative configs in CI/CD pipelines, supporting prompt engineering, RAG evaluation, and agent testing.
-
-- **AI Red Teaming & Security**: Provides pentesting and vulnerability scanning for LLMs, facilitating adversarial robustness assessments and security audits.
-
-- **Multi-Model Comparison**: Facilitates benchmarking across major LLMs (e.g., GPT, Claude, Gemini, Llama) with simple YAML/JS
+- **GitHub Action Integration**: Enables automated testing of AI prompts, agents, and RAG systems via GitHub Actions with declarative YAML configurations for CI/CD pipelines.
+- **Multi-Model Benchmarking**: Supports performance comparison across major LLMs (GPT, Claude, Gemini, Llama, etc.) with built-in AI red teaming and vulnerability scanning for LLM security assessment.
+- **TypeScript-Based Tooling**: Provides a TypeScript implementation for local/remote prompt evaluation, prompt engineering
 
 ## Use Cases
 

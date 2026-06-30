@@ -8,7 +8,7 @@ local_vault_path: ai/agents/the-agent-skills-directory.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
@@ -20,9 +20,9 @@ tags:
 - models
 - paper
 - reddit
-- scripts
+- web-crawled
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # The Agent Skills Directory
@@ -31,15 +31,20 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Top 3 Skills by Install Count**: `find-skills` (2.2M), `frontend-design` (592.9K), `vercel-react-best-practices` (504.2K), all hosted on Vercel Labs, Anthropic, and Vercel Labs respectively.
-- **Dominant Publishers**: Microsoft Azure Skills (6.2M total installs across 14 skills), Larksuite CLI (6.5M total installs across 22 skills), and Matt Pocock Skills (1.4M+ total installs across 10 skills).
-- **AI/ML & Automation Focus**: High concentration of AI-driven skills (e.g., `ai-image-generatio
+- **Top 3 Skills by Install Count**:
+  - `find-skills` (vercel-labs/skills): **2.3M** installs
+  - `frontend-design` (anthropics/skills): **608.2K** installs
+  - `vercel-react-best-practices` (vercel-labs/agent-skills): **514.1K** installs
+
+- **Dominant Ecosystem Contributions**:
+  - **Microsoft Azure Skills**: 6+ entries (e.g., `azure-ai`, `azure-cost-optimization`) totaling **6.3M+ installs**
+  - **Agentspace-so/runcomfy-agent-skills**: 10+ entries (e.g., `ai-video-generation`, `video-inpainti
 
 ## Use Cases
 

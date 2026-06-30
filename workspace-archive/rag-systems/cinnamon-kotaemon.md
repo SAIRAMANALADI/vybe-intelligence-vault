@@ -14,7 +14,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -33,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses.
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, retrieval, and LLM integration.
-- **Open-Source License**: Released under an open-source license, supporting community contributions and self-hosting for document-based Q&A workflows.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions, leveraging LLMs for contextual responses while retrieving relevant document snippets.
+
+- **Modular Python Framework**: Built with a Python-centric, extensible design supporting custom document loaders, embedders, and vector stores (e.g., FAISS, Chroma) for scalable document processing.
+
+- **Open-Source Deployment**: Provides a self-hostable, MIT-licensed toolkit with pre-c
 
 ## Use Cases
 

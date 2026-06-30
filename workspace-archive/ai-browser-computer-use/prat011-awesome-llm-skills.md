@@ -19,7 +19,6 @@ tags:
 - models
 - openai
 - python
-- scripts
 - workflows
 selection_reason:
 - Active open-source repository
@@ -37,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Repository**: Hosts a structured collection of LLM/AI agent skills, tools, and resources for customizing workflows across platforms like **Claude Code, Codex, Gemini CLI**, and custom agents.
-- **Multi-Platform Support**: Includes integrations for **Anthropic, OpenAI, Google (Gemini), Llama, Qwen, and CodeX**, with CLI tools for agent orchestration.
-- **Technical Stack**: Primarily **Python-based**, last updated **June 30, 2026**, with **1.3K+ stars** and **212 forks**, focusing on a
+- **Curated Resource**: Repository providing a structured collection of LLM/AI Agent skills, tools, and resources for customizing workflows across platforms like **Claude Code, Codex, Gemini CLI**, and custom agents.
+- **Technical Scope**: Focuses on **Python-based** integrations with **Anthropic, OpenAI, Google (Gemini), Meta (Llama), and Qwen** models, including CLI tools (e.g., `claude-skills-creator`, `codex-cli`, `gemini-cli`).
+- **Metadata**: 1,354 stars, 212 forks; last updated **2026-06-
 
 ## Use Cases
 

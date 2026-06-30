@@ -4,17 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gomate-community/awesome-papers-for-rag
-collected_at: '2026-06-30T20:16:11.012051+05:30'
+collected_at: '2026-06-30T22:49:12.223562+05:30'
 published_at: '2026-06-11T16:55:48Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - paper
 - python
 - rag
-- workflows
 stars: 135
 language: Python
 status: active
@@ -23,9 +21,9 @@ archived: false
 created_at: '2024-02-23T08:38:47Z'
 pushed_at: '2025-10-31T14:16:08Z'
 resource_id: github:gomate-community/awesome-papers-for-rag
-first_seen: '2026-06-30T20:16:11.012051+05:30'
-last_seen: '2026-06-30T20:16:11.012051+05:30'
-last_checked: '2026-06-30T20:16:11.012051+05:30'
+first_seen: '2026-06-30T22:49:12.223562+05:30'
+last_seen: '2026-06-30T22:49:12.223562+05:30'
+last_checked: '2026-06-30T22:49:12.223562+05:30'
 health_score: 100
 ---
 
@@ -33,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG) methodologies, architectures, and applications.
-- **Python-Centric**: Primarily Python-based with structured metadata (e.g., BibTeX, arXiv IDs) for easy integration with ML pipelines and research workflows.
-- **Last Updated**: Actively maintained with the latest commit (2026-06-11) reflecting ongoing updates to RAG advancements and benchmarking datasets.
+- **Curated RAG Resources**: Repository aggregates peer-reviewed papers, surveys, and technical reports on retrieval-augmented generation (RAG), focusing on advancements in hybrid retrieval-generation architectures.
+- **Python-Centric Tooling**: Primarily Python-based, facilitating integration with NLP libraries (e.g., Hugging Face Transformers, LangChain) and vector databases (e.g., FAISS, Chroma) for RAG pipeline implementations.
+- **Dynamic Maintenance**: Last updated June 2026, ensuring inclusion of recent works (e.g., 2024–2026) on RAG optimizations, evaluation benchmarks, and domain-specific adaptations.
 
 ## Why It Matters
 

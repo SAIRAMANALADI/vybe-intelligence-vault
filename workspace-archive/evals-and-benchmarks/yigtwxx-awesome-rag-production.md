@@ -12,10 +12,8 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Curated resources**: Repository provides a structured, community-vetted list of production-grade RAG tools, frameworks, and best practices for scalable AI deployment.
-- **Technical scope**: Covers critical components including embeddings, vector databases, LLM orchestration (e.g., LangChain), and MLOps/LLMops integration for end-to-end RAG pipelines.
-- **Python-centric**: Focuses on Python-based implementations with last update timestamp of 2026-06-30, emphasizing modern AI engineering workf
+- **Curated Production-Grade RAG Resources**: Repository aggregates battle-tested tools, frameworks, and best practices for scalable, production-grade Retrieval-Augmented Generation (RAG) systems, focusing on AI/ML engineering and MLOps.
+
+- **Comprehensive Toolset**: Includes curated lists of embeddings, vector databases, LLM frameworks (e.g., LangChain), and deployment tools optimized for RAG pipelines in Python-based environments.
+
+- **AI/ML Engineering Focus**: Covers topics like LLMops, gene
 
 ## Use Cases
 

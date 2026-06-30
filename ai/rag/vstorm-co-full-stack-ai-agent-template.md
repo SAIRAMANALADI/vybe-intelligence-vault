@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-06-30T20:15:25.961870+05:30'
+collected_at: '2026-06-30T22:48:22.223151+05:30'
 published_at: '2026-06-30T09:08:11Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 1478
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-30T13:26:31Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-06-30T20:15:25.961870+05:30'
-last_seen: '2026-06-30T20:15:25.961870+05:30'
-last_checked: '2026-06-30T20:15:25.961870+05:30'
+first_seen: '2026-06-30T22:48:22.223151+05:30'
+last_seen: '2026-06-30T22:48:22.223151+05:30'
+last_checked: '2026-06-30T22:48:22.223151+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Full-stack AI app generator** with FastAPI backend and Next.js frontend, pre-configured with **AI Agents, RAG, streaming, auth**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
+- **Full-stack AI agent template** with FastAPI backend and Next.js frontend, pre-configured with **AI Agents, RAG, streaming, auth**, and **20+ integrations** (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI/Deep).
 
-- **Tech stack**: Python (FastAPI, Pydantic), TypeScript (Next.js, React), PostgreSQL, Docker; supports **LLM integration**, WebSocket streaming, and **Pydantic-Deep** for structured outputs.
+- **Tech stack**: Python (FastAPI), TypeScript (Next.js/React), PostgreSQL, WebSockets; supports Docker deployment and includes **Pydantic models, auth, and streaming** out of the box.
 
-- **Production-ready features**: Built-in authentication, **multi-agent orchestration**, and modular architecture for rapid deployment of AI-driven applications.
+- **Key features**: Pre-built AI agent workflows, **RAG integration**, and **multi-framework support** (LangChain, CrewAI, Pydantic-AI), with **real-time updates** and **PostgreSQL persistence**.
 
 ## Why It Matters
 

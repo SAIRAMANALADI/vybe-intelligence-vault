@@ -3,9 +3,9 @@ title: Gemini Code Assist for teams and businesses
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://codeassist.google
-published_at: '2026-06-22T10:53:33.468313+05:30'
-collected_at: '2026-06-22T10:53:33.468326+05:30'
+source_url: https://codeassist.google/
+published_at: '2026-06-30T22:54:21.451227+05:30'
+collected_at: '2026-06-30T22:54:21.451243+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:gemini-code-assist-for-teams-and-businesses
-first_seen: '2026-06-22T10:53:33.468326+05:30'
-last_seen: '2026-06-22T10:53:33.468326+05:30'
-last_checked: '2026-06-22T10:53:33.468326+05:30'
+first_seen: '2026-06-30T22:54:21.451243+05:30'
+last_seen: '2026-06-30T22:54:21.451243+05:30'
+last_checked: '2026-06-30T22:54:21.451243+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Gemini 3 Integration**: Provides AI-assisted development with a 1M token context window, supporting code completion, generation, and natural language chat across IDEs (VS Code, JetBrains) and Google Cloud services (Firebase, BigQuery, Apigee).
+- **Gemini 3 Integration**: Leverages Google's most advanced LLM (1M token context window) for AI-assisted coding, natural language chat, and code generation across IDEs (VS Code, JetBrains), terminal (Gemini CLI), and Google Cloud services (Firebase, BigQuery, Apigee).
 
-- **Agentic Workflows**: Features AI agents for multi-file edits, project-wide context, and MCP tool integration, enabling end-to-end automation in tasks like API design, troubleshooting, and CI/CD workflows.
+- **Agentic Workflows & Automation**: Supports multi-file edits, project-wide context, and Human-in-the-Loop (HiTL) oversight via agent mode; automates tasks like API design (Apigee), CI/CD flows (Application Integration), and test generation using smart actions/commands.
 
-- **Enterprise Security & Compliance**: Enforces data governance policies, VPC controls, and IP indemnification, with certifications (SOC 2, ISO 27001) ensuring secure, compliant AI-driven development.
+- **Enterprise Security & Compliance**: Enforces data governance (no training on customer data/IP), VPC controls, IAM granularity, and source citation for license compliance; certified under SOC 2, ISO 27001/27017/27018/27701 with IP indemnification for copyright risks.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:53:33.468313+05:30
+- Published: 2026-06-30T22:54:21.451227+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://codeassist.google
+Original source: https://codeassist.google/

@@ -14,6 +14,7 @@ tags:
 - agents
 - benchmark
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -32,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Framework-agnostic observability & tracing**: Supports native tracing for major agent frameworks (e.g., LangChain, LangGraph, DeepAgents) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; enables structured debugging via message threading and AI-driven analytics for multi-turn agent interactions.
+- **Multi-framework observability**: LangSmith provides native tracing for popular agent frameworks (e.g., LangChain, LangGraph) and OpenTelemetry, with SDKs in Python, TypeScript, Go, and Java; supports message threading for multi-turn interactions and AI-driven analytics for trace pattern detection.
 
-- **Automated evaluation & iterative improvement**: Converts production traces into reusable test cases with LLM-as-judge and multi-turn evals, incorporating human feedback for cali
+- **Automated evaluation & deployment**: Captures production traces for reusable LLM-as-judge/multi-turn evals, integrates human feedback for calibration, and deploys agents via a scalable runtime
 
 ## Use Cases
 

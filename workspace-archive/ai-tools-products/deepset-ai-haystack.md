@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack provides a framework for designing modular pipelines and agent workflows, enabling explicit control over retrieval, routing, memory, and generation components for production-grade LLM applications.
 
-- **Scalable Agent & RAG Support**: Designed for scalable agents, retrieval-augmented generation (RAG), multimodal systems, semantic search, and conversational AI with PyTorch and transformer integration.
+- **Context-Engineered Systems**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems with built-in support for retrieval-augmented generation (RAG) and transformer-based models (e.g., GPT-4, Gemini).
 
-- **Open-Source Framework**: Python-based framework optimized for information retrieval, que
+- **Python
 
 ## Use Cases
 

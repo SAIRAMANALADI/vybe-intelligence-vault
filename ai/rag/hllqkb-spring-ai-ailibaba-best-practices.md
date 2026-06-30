@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-06-30T20:16:01.108829+05:30'
+collected_at: '2026-06-30T22:48:57.198820+05:30'
 published_at: '2026-06-17T01:51:32Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
+- reddit
 - workflows
 stars: 35
 language: Java
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-06-30T20:16:01.108829+05:30'
-last_seen: '2026-06-30T20:16:01.108829+05:30'
-last_checked: '2026-06-30T20:16:01.108829+05:30'
+first_seen: '2026-06-30T22:48:57.198820+05:30'
+last_seen: '2026-06-30T22:48:57.198820+05:30'
+last_checked: '2026-06-30T22:48:57.198820+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal AI Integration**: Implements SSE streaming, RAG with knowledge graphs, function calls, and historical message handling for AI Q&A, supporting image generation/understanding alongside text-based interactions.
+- **Multi-modal RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) with vector databases (e.g., Milvus/Weaviate) for embedding-based retrieval, supporting text, image generation (via Stable Diffusion/Flux), and image understanding (OCR/CLIP-based).
 
-- **Vector Database & Embedding Pipeline**: Utilizes vector databases (e.g., Milvus/Weaviate) for semantic search, with embedding models (e.g., BERT, Sentence-BERT) to enable efficient retrieval-augmented generation (RAG).
+- **Agentic Workflows**: Integrates Function Calling (via Spring AI’s `@Tool` annotation) and SSE (Server-Sent Events) for real-time agent interactions, with historical message persistence (e.g., Redis/PostgreSQL) for session management.
 
-- **Agentic Workflows & Java Backend**: Deploys AI agents (e.g., LangChain4j) for orchestration, integrates Alibaba Cloud AI services (e.g., Qwen, DashScope), and leverages Spring AI for Java-based AI application development.
+- **Knowledge Graph Integration**: Extends RAG with graph-based retrieval (Neo4j/JanusGraph) for structured knowledge queries, combining vector search with graph traversal for hybrid retrieval.
 
 ## Why It Matters
 

@@ -4,15 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/aws-samples/amazon-bedrock-samples
-collected_at: '2026-06-30T20:15:51.180043+05:30'
+collected_at: '2026-06-30T22:48:47.279746+05:30'
 published_at: '2026-06-30T11:27:37Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
-- models
 - rag
-- workflows
 stars: 1460
 language: Jupyter Notebook
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-07-05T18:23:34Z'
 pushed_at: '2026-06-30T09:33:23Z'
 resource_id: github:aws-samples/amazon-bedrock-samples
-first_seen: '2026-06-30T20:15:51.180043+05:30'
-last_seen: '2026-06-30T20:15:51.180043+05:30'
-last_checked: '2026-06-30T20:15:51.180043+05:30'
+first_seen: '2026-06-30T22:48:47.279746+05:30'
+last_seen: '2026-06-30T22:48:47.279746+05:30'
+last_checked: '2026-06-30T22:48:47.279746+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Provides Jupyter Notebook examples for Amazon Bedrock, covering all available foundational models (e.g., Amazon Titan) and use cases like embeddings, generative AI, knowledge bases, and RAG (Retrieval-Augmented Generation).
-- **Integration Focus**: Demonstrates integration with AWS services and frameworks such as LangChain for building generative AI applications.
-- **Technical Scope**: Includes topics like knowledge base management, embeddings generation, and model fine-tuning workflows for Amazon Bedrock deployments.
+- **Comprehensive Amazon Bedrock Examples**: Repository provides starter code and notebooks for all available Amazon Bedrock foundational models, including Amazon Titan, for generative AI applications.
+
+- **Key Technical Components**: Includes implementations for embeddings, knowledge bases, and Retrieval-Augmented Generation (RAG) using LangChain integration.
+
+- **AWS Service Integration**: Demonstrates practical use cases leveraging Amazon Bedrock's capabilities within AWS ecosystems, updated as of June 30, 2026.
 
 ## Why It Matters
 

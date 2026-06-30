@@ -6,9 +6,9 @@ source_url: https://github.com/onyx-dot-app/onyx
 resource_id: github:onyx-dot-app/onyx
 local_vault_path: ai/rag/onyx-dot-app-onyx.md
 quality_score: 70
-archive_score: 77
+archive_score: 81
 archive_tier: useful
-resource_kind: framework
+resource_kind: benchmark
 importance: medium
 tags:
 - frontend_ui
@@ -19,7 +19,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Active open-source repository
 ---
 
 # onyx-dot-app/onyx
@@ -27,19 +27,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Modular AI Chat Platform**: Open-source Python-based framework supporting cross-LLM compatibility with advanced features like RAG, vector search, and enterprise-grade information retrieval.
+- **Multi-LLM Compatibility**: Open-source AI chat platform (`onyx`) supporting seamless integration with any Large Language Model (LLM), enabling flexible model switching and hybrid inference workflows.
 
-- **Full-Stack Architecture**: Combines Next.js frontend with Python backend, enabling self-hosted deployment with scalable chat UI and enterprise search capabilities.
+- **Enterprise-Grade RAG & Vector Search**: Implements Retrieval-Augmented Generation (RAG) with advanced vector search (e.g., FAISS, Chroma) for scalable, low-latency information retrieval across proprietary and public knowledge bases.
 
-- **Feature-Rich Toolset**: Integrates Gen-AI workflows, LLM UI customization, and vector-based semantic search for enhanced AI-driven i
+- **Full-Stack Architecture**: Combines Python backend (F
 
 ## Use Cases
 

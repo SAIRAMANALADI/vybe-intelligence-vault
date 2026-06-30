@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TracecatHQ/tracecat
-collected_at: '2026-06-30T20:18:06.112545+05:30'
-published_at: '2026-06-30T13:19:40Z'
+collected_at: '2026-06-30T22:51:07.402773+05:30'
+published_at: '2026-06-30T17:03:25Z'
 tags:
 - agents
 - frontend_ui
@@ -20,11 +20,11 @@ status: active
 license: AGPL-3.0
 archived: false
 created_at: '2024-02-27T06:48:32Z'
-pushed_at: '2026-06-30T14:40:42Z'
+pushed_at: '2026-06-30T16:09:28Z'
 resource_id: github:tracecathq/tracecat
-first_seen: '2026-06-30T20:18:06.112545+05:30'
-last_seen: '2026-06-30T20:18:06.112545+05:30'
-last_checked: '2026-06-30T20:18:06.112545+05:30'
+first_seen: '2026-06-30T22:51:07.402773+05:30'
+last_seen: '2026-06-30T22:51:07.402773+05:30'
+last_checked: '2026-06-30T22:51:07.402773+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Python-based open-source security automation platform** leveraging FastAPI, Pydantic, and OpenAPI for workflow orchestration, with event-driven architecture powered by Temporal.io.
-
-- **Low-code, agent-friendly system** integrating LLM capabilities, Next.js for frontend, and modular workflow engine for security automation and monitoring.
-
-- **Scalable, production-ready framework** with 3,703 GitHub stars, supporting AI agents and security teams via temporal workflows and RESTful API design.
+- **Open-source security automation platform** leveraging Python, FastAPI, and Next.js, designed for teams and AI agents with event-driven orchestration.
+- **Workflow engine** built on Temporal.io for durable execution, featuring low-code configuration via Pydantic schemas and OpenAPI integration.
+- **Security-focused** with LLM support, monitoring capabilities, and a scalable architecture for automated threat detection and response.
 
 ## Why It Matters
 
@@ -46,14 +44,14 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TracecatHQ
 - Stars: 3703
-- Forks: 378
+- Forks: 379
 - Language: Python
 - Topics: agents, automation, event-driven, fastapi, llm, low-code, monitoring, nextjs, openapi, orchestration, pydantic, security, temporalio, workflow-engine
-- Last Updated: 2026-06-30T13:19:40Z
+- Last Updated: 2026-06-30T17:03:25Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2024-02-27T06:48:32Z
-- Pushed At: 2026-06-30T14:40:42Z
+- Pushed At: 2026-06-30T16:09:28Z
 
 ## Possible Use Cases
 

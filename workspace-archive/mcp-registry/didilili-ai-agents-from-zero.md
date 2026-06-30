@@ -6,7 +6,7 @@ source_url: https://github.com/didilili/ai-agents-from-zero
 resource_id: github:didilili/ai-agents-from-zero
 local_vault_path: ai/rag/didilili-ai-agents-from-zero.md
 quality_score: 70
-archive_score: 79
+archive_score: 77
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -27,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `MCP Registry`
-- Quality score: 70 | Archive score: 79 (useful)
+- Quality score: 70 | Archive score: 77 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -35,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers end-to-end AI agent development, from foundational concepts (LLMs, RAG, prompts) to enterprise deployment, fine-tuning, and real-world projects, aligned with AI application engineer roles.
-- **Toolchain Integration**: Includes hands-on tutorials with LangChain, LangGraph, Coze, Dify, MCP, and Skills, with a focus on agent frameworks, workflows, and MCP (Model Context Protocol) for tool orchestration.
-- **Career-Ready Resources**: Provides a structu
+- **Comprehensive AI Agent Learning Path**: Covers LangChain, LangGraph, Coze, Dify, MCP, and other frameworks/tools, including LLM integration, RAG, prompt engineering, and enterprise deployment/fine-tuning for AI Agent roles.
+- **Hands-on Projects & Interview Prep**: Provides real-world projects, interview question banks, and end-to-end workflows from learning to deployment, targeting AI application development engineer positions.
+- **Multi-Topic Coverage**: Includes skills, LLM optimization,
 
 ## Use Cases
 

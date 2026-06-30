@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-30T20:15:20.966404+05:30'
+collected_at: '2026-06-30T22:48:17.163311+05:30'
 published_at: '2026-06-30T08:00:12Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-30T20:15:20.966404+05:30'
-last_seen: '2026-06-30T20:15:20.966404+05:30'
-last_checked: '2026-06-30T20:15:20.966404+05:30'
+first_seen: '2026-06-30T22:48:17.163311+05:30'
+last_seen: '2026-06-30T22:48:17.163311+05:30'
+last_checked: '2026-06-30T22:48:17.163311+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & RAG Implementations**: Provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI using vector search, LLMs (e.g., GPT-4 Vision), and frameworks like LangChain and LlamaIndex.
+- **Multimodal AI & RAG Implementations**: Repository provides practical examples and tutorials for integrating vector search with LLMs, focusing on multimodal AI, Retrieval-Augmented Generation (RAG), and agent-based systems using LanceDB as the vector database.
 
-- **Vector Database Integration**: Demonstrates LanceDB as a vector database for efficient storage and retrieval of embeddings, supporting deep learning and fine-tuning workflows.
+- **Tooling & Framework Integration**: Demonstrates workflows using LangChain, LlamaIndex, and OpenAI APIs (including GPT-4 Vision) for embeddings, fine-tuning, and multimodal processing, with Jupyter Notebooks as the primary medium for tutorials.
 
-- **Agent & Pipeline Examples**: Includes tutorials for building AI agents and multimodal pipelines, covering topics like OpenAI embeddings, fine-tuning, and end-to-end LLM applications.
+- **Vector Search Optimization**: Leverages LanceDB’s vector database for efficient storage, retrieval, and querying of high-dimensional embeddings, supporting deep learning and machine learning pipelines for scalable AI applications.
 
 ## Why It Matters
 

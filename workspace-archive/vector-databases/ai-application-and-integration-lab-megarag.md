@@ -30,9 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, a novel Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) structured as a graph for enhanced contextual retrieval and generation.
-- **ACL 2026 Contribution**: Presented as a research contribution at ACL 2026, emphasizing advanced graph-based retrieval mechanisms to improve accuracy and relevance in multimodal RAG tasks.
-- **Python Implementation**: Open-source Python repository with 61 sta
+- **Multimodal Graph-based RAG Framework**: Introduces MegaRAG, an advanced Retrieval-Augmented Generation (RAG) system leveraging multimodal data (text, images, graphs) integrated via a graph-based retrieval mechanism for enhanced contextual understanding and generation.
+
+- **ACL 2026 Contribution**: Proposes a novel architecture combining graph neural networks (GNNs) with RAG, optimizing cross-modal retrieval and fusion for improved performance in multimodal tasks, as presented at ACL 2026.
+
+-
 
 ## Use Cases
 

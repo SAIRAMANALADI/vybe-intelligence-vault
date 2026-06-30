@@ -4,12 +4,12 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/pyright
-collected_at: '2026-06-30T15:40:03.974501+05:30'
-published_at: '2026-06-29T23:04:42Z'
+collected_at: '2026-06-30T23:00:09.567285+05:30'
+published_at: '2026-06-30T17:00:38Z'
 tags:
 - github-repo
 - python
-stars: 15494
+stars: 15492
 language: Python
 status: active
 license: NOASSERTION
@@ -17,9 +17,9 @@ archived: false
 created_at: '2019-03-12T03:38:46Z'
 pushed_at: '2026-06-29T21:07:20Z'
 resource_id: github:microsoft/pyright
-first_seen: '2026-06-30T15:40:03.974501+05:30'
-last_seen: '2026-06-30T15:40:03.974501+05:30'
-last_checked: '2026-06-30T15:40:03.974501+05:30'
+first_seen: '2026-06-30T23:00:09.567285+05:30'
+last_seen: '2026-06-30T23:00:09.567285+05:30'
+last_checked: '2026-06-30T23:00:09.567285+05:30'
 health_score: 100
 ---
 
@@ -28,8 +28,8 @@ health_score: 100
 ## Summary
 
 - **Static Type Checker**: Pyright is a static type checker for Python, enabling early detection of type-related errors without executing code.
-- **Python Compatibility**: Supports Python 3.7+ and integrates with tools like Pylance in VS Code for enhanced IDE functionality.
-- **Performance & Features**: Optimized for speed, includes type inference, gradual typing, and supports complex type constructs (e.g., generics, unions).
+- **Language Server Protocol (LSP) Support**: Implements LSP for integration with IDEs (e.g., VS Code), providing real-time type checking and autocompletion.
+- **Performance & Scalability**: Optimized for large codebases with incremental analysis and parallel processing to minimize overhead.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 15494
+- Stars: 15492
 - Forks: 1794
 - Language: Python
 - Topics: None
-- Last Updated: 2026-06-29T23:04:42Z
+- Last Updated: 2026-06-30T17:00:38Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2019-03-12T03:38:46Z

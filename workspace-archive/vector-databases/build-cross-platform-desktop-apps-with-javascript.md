@@ -2,13 +2,13 @@
 title: Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://www.electronjs.org/
+source_url: https://electronjs.org/
 resource_id: blog:build-cross-platform-desktop-apps-with-javascript
 local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -21,7 +21,7 @@ tags:
 - web-crawled
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -30,15 +30,17 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Architecture**: Electron combines Chromium's rendering engine with Node.js runtime, enabling cross-platform desktop app development using JavaScript, HTML, and CSS.
-- **Security & Stability**: Releases are synchronized with Chromium updates, ensuring timely security patches and a stable rendering target with modern web features.
-- **Extensibility & Tooling**: Supports npm packages, native add-ons, and tools like Electron Forge for building/publishing; includes modules for auto-updates, crash
+- **Runtime Architecture**: Electron combines Chromium's rendering engine with Node.js, enabling cross-platform desktop apps using JavaScript, HTML, and CSS while supporting native OS APIs via the main process.
+
+- **Security & Maintenance**: Releases sync with Chromium updates for immediate security patches, and the open-source framework (under OpenJS Foundation) leverages npm for extensibility via native add-ons or third-party packages.
+
+- **Distribution & Tooling**: Supports platform-specific
 
 ## Use Cases
 
@@ -48,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.electronjs.org/
+Original source URL: https://electronjs.org/
 
 ## Local Vault File
 

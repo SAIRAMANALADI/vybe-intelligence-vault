@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-06-30T20:15:35.945688+05:30'
+collected_at: '2026-06-30T22:48:37.212172+05:30'
 published_at: '2026-06-30T13:21:42Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - hackernews
 - python
 - rag
 - scripts
-- workflows
 stars: 4849
 language: Python
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-30T10:37:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-06-30T20:15:35.945688+05:30'
-last_seen: '2026-06-30T20:15:35.945688+05:30'
-last_checked: '2026-06-30T20:15:35.945688+05:30'
+first_seen: '2026-06-30T22:48:37.212172+05:30'
+last_seen: '2026-06-30T22:48:37.212172+05:30'
+last_checked: '2026-06-30T22:48:37.212172+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-Style Automation for RAG**: AutoRAG provides an open-source framework for automated evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines, leveraging AutoML techniques to streamline hyperparameter tuning, component selection, and performance benchmarking.
+- **AutoML-Style Optimization**: AutoRAG automates hyperparameter tuning, prompt optimization, and pipeline configuration for RAG systems using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms) to maximize performance metrics (e.g., answer correctness, retrieval precision) without manual intervention.
 
-- **Comprehensive RAG Pipeline Support**: Supports end-to-end RAG workflows including document parsing, embedding generation, retrieval, and LLM-based generation, with built-in tools for analysis, benchmarking, and optimization across multiple stages.
+- **Comprehensive Evaluation Framework**: Provides built-in benchmarks for RAG components (retriever, generator, reranker) with standardized metrics (e.g., F1, EM, MRR) and supports custom datasets, enabling reproducible and comparative analysis across different RAG architectures.
 
-- **Python-Based Modular Architecture**: Implemented in Python with modular components for embeddings, retrieval, evaluation, and optimization, enabling extensibility and integration with existing LLM/ML pipelines.
+- **Modular Pipeline & Document Processing**: Implements a configurable pipeline for document parsing (e.g., PDF, Markdown), chunking, embedding (via Sentence-Transformers or proprietary models), and retrieval (dense/sparse), with integration for LLMs (e.g., Hugging Face Transformers, vLLM) and vector databases (e.g., FAISS, Chroma).
 
 ## Why It Matters
 

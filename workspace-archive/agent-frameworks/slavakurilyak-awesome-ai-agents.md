@@ -16,6 +16,7 @@ tags:
 - hackernews
 - paper
 - python
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -34,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a structured, community-driven list of 300+ agentic AI resources, including frameworks, tools, and research papers.
-- **Technical Scope**: Primarily Python-based, focusing on agentic AI systems, multi-agent architectures, and autonomous agent frameworks.
-- **Active Maintenance**: Last updated June 30, 2026, with 1,580 stars and 423 forks, indicating sustained community engagement and growth.
+- **Curated Collection**: Repository hosting a structured, community-driven list of 300+ resources focused on agentic AI, including frameworks, tools, research papers, and applications.
+- **Technical Scope**: Primarily Python-based, emphasizing agent-oriented architectures, multi-agent systems, and autonomous AI workflows.
+- **Maintenance & Growth**: Actively updated (last commit: 2026-06-30), with 1,580 stars and 423 forks, reflecting strong community engagement and scalability.
 
 ## Use Cases
 

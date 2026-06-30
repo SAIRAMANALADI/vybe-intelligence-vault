@@ -16,6 +16,7 @@ tags:
 - models
 - rag
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: DiffusionGemma integrates the Gemma 4 family with advanced diffusion-based techniques from Gemini research, enhancing text generation via iterative denoising refinement.
+- **Architecture**: DiffusionGemma integrates the Gemma 4 family with advanced diffusion-based text generation techniques from Gemini Diffusion research, enabling efficient probabilistic text generation.
 
-- **Performance**: Optimized for faster inference compared to traditional autoregressive models, leveraging diffusion processes to balance quality and speed in text generation tasks.
+- **Performance**: Optimized for faster inference speeds while maintaining high-quality output, leveraging diffusion models to refine text generation compared to traditional autoregressive approaches.
 
-- **Applications**: Designed for developers, enabling efficient deployment in scenarios requiring high-throughput text genera
+- **Compatibility**: Designed as a plug-in replacement for standard text generation models, e
 
 ## Use Cases
 

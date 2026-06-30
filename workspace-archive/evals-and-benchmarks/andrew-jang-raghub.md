@@ -6,13 +6,15 @@ source_url: https://github.com/Andrew-Jang/RAGHub
 resource_id: github:andrew-jang/raghub
 local_vault_path: ai/rag/andrew-jang-raghub.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- benchmark
 - github-repo
 - hackernews
+- models
 - rag
 - unknown
 selection_reason:
@@ -25,7 +27,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +35,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Ecosystem**: Open-source repository aggregating diverse RAG frameworks, projects, and resources for LLMs, NLP, and AI applications.
-- **Community-Driven**: Actively maintained with contributions from developers; last updated June 30, 2026.
-- **Technical Scope**: Encompasses retrieval-augmented generation (RAG) tools, ML/NLP libraries, and LLM integrations under AI/ML topics.
+- **Curated RAG Ecosystem**: Open-source repository aggregating frameworks, projects, and resources for Retrieval-Augmented Generation (RAG), facilitating community contributions and exploration of the RAG landscape.
+- **Metadata**: 1,941 stars, 180 forks, last updated 2026-06-30; covers AI, LLMs, NLP, and machine learning with a focus on RAG.
+- **Technical Scope**: Encompasses tools and libraries for RAG pipelines, including retrieval mechanisms, LLM integration, and evaluation frameworks under
 
 ## Use Cases
 

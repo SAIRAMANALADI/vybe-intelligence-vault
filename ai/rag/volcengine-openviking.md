@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/volcengine/OpenViking
-collected_at: '2026-06-30T20:15:35.958065+05:30'
-published_at: '2026-06-30T13:43:35Z'
+collected_at: '2026-06-30T22:48:37.173634+05:30'
+published_at: '2026-06-30T16:54:46Z'
 tags:
 - agents
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-05T07:11:17Z'
 pushed_at: '2026-06-30T14:44:34Z'
 resource_id: github:volcengine/openviking
-first_seen: '2026-06-30T20:15:35.958065+05:30'
-last_seen: '2026-06-30T20:15:35.958065+05:30'
-last_checked: '2026-06-30T20:15:35.958065+05:30'
+first_seen: '2026-06-30T22:48:37.173634+05:30'
+last_seen: '2026-06-30T22:48:37.173634+05:30'
+last_checked: '2026-06-30T22:48:37.173634+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **File System-Based Context Management**: OpenViking implements a hierarchical, file system-like paradigm to unify and manage context (memory, resources, and skills) for AI Agents, enabling structured and scalable context delivery.
+- **Unified Context Management**: OpenViking provides a file system-based paradigm to unify memory, resources, and skills management for AI Agents (e.g., OpenClaw), enabling hierarchical context delivery and self-evolution.
 
-- **Self-Evolving Architecture**: Designed for dynamic adaptation, OpenViking supports autonomous evolution of context management, facilitating continuous improvement in agentic performance without manual intervention.
+- **Agentic-RAG Integration**: Designed as an open-source context database, it supports Agentic Retrieval-Augmented Generation (RAG) by dynamically managing contextual data for LLM interactions.
 
-- **Integration with AI Agents**: Optimized for frameworks like OpenClaw, OpenViking provides a specialized context database to enhance AI agent capabilities in tasks such as RAG (Retrieval-Augmented Generation) and skill execution.
+- **Python-Based Framework**: Implemented in Python, OpenViking facilitates modular context engineering with filesystem-like operations for scalable AI agent development.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 2031
 - Language: Python
 - Topics: agent, agentic-rag, ai-agents, clawbot, context-database, context-engineering, filesystem, llm, memory, openclaw, opencode, rag, skill
-- Last Updated: 2026-06-30T13:43:35Z
+- Last Updated: 2026-06-30T16:54:46Z
 - License: AGPL-3.0
 - Archived: No
 - Created At: 2026-01-05T07:11:17Z

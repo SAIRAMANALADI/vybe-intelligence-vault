@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/malonge/RaGOO
-collected_at: '2026-06-30T20:15:00.906841+05:30'
+collected_at: '2026-06-30T22:47:57.176900+05:30'
 published_at: '2026-06-18T17:12:07Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - python
@@ -20,9 +19,9 @@ archived: false
 created_at: '2018-02-01T16:24:07Z'
 pushed_at: '2021-05-30T18:18:23Z'
 resource_id: github:malonge/ragoo
-first_seen: '2026-06-30T20:15:00.906841+05:30'
-last_seen: '2026-06-30T20:15:00.906841+05:30'
-last_checked: '2026-06-30T20:15:00.906841+05:30'
+first_seen: '2026-06-30T22:47:57.176900+05:30'
+last_seen: '2026-06-30T22:47:57.176900+05:30'
+last_checked: '2026-06-30T22:47:57.176900+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to **RagTag** (`malonge/RagTag`) for continued development and support.
-- **Functionality**: Designed for **genome assembly scaffolding**, optimizing contig ordering and orientation using reference genomes or related datasets.
-- **Technical Stack**: Python-based tool with applications in **bioinformatics**, particularly for improving draft genome assemblies via alignment-based correction.
+- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to migrate to [RagTag](https://github.com/malonge/RagTag) for continued development and support.
+- **Technical Scope**: Python-based tool for **bioinformatics**, specifically designed for **genome assembly** and **scaffolding** of large genomic sequences.
+- **Metadata**: 173 GitHub stars, 28 forks, last updated **2026-06-18**; categorized under **genome-assembly** and **genome-scaffolding** topics.
 
 ## Why It Matters
 

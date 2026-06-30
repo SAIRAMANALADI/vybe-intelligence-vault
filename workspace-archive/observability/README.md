@@ -25,8 +25,8 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
 - [NicholasGoh/fastapi-mcp-langgraph-template](https://github.com/NicholasGoh/fastapi-mcp-langgraph-template)
+- [ajac-zero/example-rag-app](https://github.com/ajac-zero/example-rag-app)
 - [open-telemetry/community](https://github.com/open-telemetry/community#mailing-lists)
-- [spotify/annoy](https://github.com/spotify/annoy)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-30 20:30 IST*
+*Last updated: 2026-06-30 23:03 IST*

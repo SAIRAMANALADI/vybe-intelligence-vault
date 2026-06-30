@@ -18,7 +18,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-LLM & Vector Store Agnostic RAG Framework**: Supports integration with any LLM (e.g., GPT4, Groq, Llama) and vector databases (e.g., PGVector, Faiss), enabling flexible GenAI deployment without vendor lock-in.
+- **Modular RAG Framework**: QuivrHQ/quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while supporting customization (e.g., LLMs like GPT4, Groq, Llama; vector stores like PGVector, Faiss).
 
-- **Opinionated RAG Optimization**: Focuses on simplifying Retrieval-Augmented Generation (RAG) workflows for seamless integration into existing products, with customizable pipelines for files, APIs, and frontend components.
+- **Multi-Backend Compatibility**: Supports any file type, LLM provider (OpenAI, Groq, etc.), and vector database (PostgreSQL, Faiss), with Dockerized deployment for cross-platform scalability.
 
-- **Full-Stack Deployment**: Provides a Dockerized, P
+- **
 
 ## Use Cases
 

@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -33,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized RAG (Retrieval-Augmented Generation) framework mimicking human cognitive processes for stateful long narrative reasoning, enabling dynamic memory updates and retrieval.
+- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Mechanism**: Implements a hierarchical memory structure (short-term, long-term, and episodic memory) with adaptive retrieval strategies to maintain context coherence over extended interactions.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Proposes
+- **AAAI 2026 Contribution**: Proposes a novel approach to RAG systems, validated through poster presen
 
 ## Use Cases
 

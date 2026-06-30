@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
@@ -37,9 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Techniques**: Repository provides advanced RAG methodologies with Jupyter Notebook tutorials covering agentic RAG, embeddings, semantic search, and vector databases.
-- **Multi-Framework Integration**: Demonstrates implementations using LangChain, LlamaIndex, and OpenAI APIs for LLM integration and retrieval augmentation.
-- **Performance & Scalability**: Includes tutorials on optimizing RAG pipelines with vector databases (e.g., FAISS, Chroma) and evaluating retrieval qualit
+- **Advanced RAG Techniques**: Repository provides Jupyter Notebook tutorials on cutting-edge RAG methodologies, including agentic RAG, hybrid retrieval, and multi-modal integration for enhanced LLM performance.
+
+- **Multi-Framework Support**: Demonstrates implementations using LangChain, LlamaIndex, and custom pipelines, with integration for OpenAI, GPT, and other LLMs via Python-based vector databases.
+
+- **Optimized Retrieval & Evaluation**: Focuses on semantic search, embeddings optimization
 
 ## Use Cases
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-06-30T20:17:41.033688+05:30'
+collected_at: '2026-06-30T22:50:37.296481+05:30'
 published_at: '2026-06-29T22:29:00Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-06-30T20:17:41.033688+05:30'
-last_seen: '2026-06-30T20:17:41.033688+05:30'
-last_checked: '2026-06-30T20:17:41.033688+05:30'
+first_seen: '2026-06-30T22:50:37.296481+05:30'
+last_seen: '2026-06-30T22:50:37.296481+05:30'
+last_checked: '2026-06-30T22:50:37.296481+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding guidelines for AI agents, covering multiple frameworks and programming languages (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
-- **Purpose & Scope**: Designed to enforce consistent, high-quality code standards for AI agents, including cursor rules and language-specific frameworks (e.g., React Native, iOS, Android).
-- **Metadata**: 516 stars, 149 forks, last updated June 29, 2026; includes topics like `agentic-ai`, `coding-standards`, and `best-practices`.
+- **Multi-Language & Framework Standards**: Repository consolidates best practices and coding standards for **TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and others**, structured to guide AI agents in adhering to language/framework-specific conventions.
+
+- **Agent-Oriented Tooling**: Includes **Cursor Rules** and **Agent Skills** configurations to enforce standardized code generation, linting, and architectural patterns across **React, Next.js, NestJS, Angular, and mobile frameworks (React Native, Android/iOS)**.
+
+- **Structured Compliance**: Provides a **versioned, updatable reference (last synced 2026-06-29)** for AI agents to validate and auto-correct code against community-vetted standards, reducing framework-specific anti-patterns.
 
 ## Why It Matters
 

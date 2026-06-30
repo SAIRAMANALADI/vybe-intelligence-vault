@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-06-30T20:18:11.112915+05:30'
+collected_at: '2026-06-30T22:51:07.394573+05:30'
 published_at: '2026-06-29T07:47:34Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-06-30T20:18:11.112915+05:30'
-last_seen: '2026-06-30T20:18:11.112915+05:30'
-last_checked: '2026-06-30T20:18:11.112915+05:30'
+first_seen: '2026-06-30T22:51:07.394573+05:30'
+last_seen: '2026-06-30T22:51:07.394573+05:30'
+last_checked: '2026-06-30T22:51:07.394573+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository of LLM-based agents designed to automate common cybersecurity tasks (e.g., adversary emulation) using Jupyter Notebooks.
-- **Integration**: Leverages frameworks like **CALDERA** for adversary simulation and emulation workflows.
-- **Technical Stack**: Python-based agents utilizing LLMs for infosec operations, last updated in **2026**.
+- **Purpose**: Repository of LLM-based agents designed to automate cybersecurity tasks, including adversary emulation, using frameworks like **CALDERA**.
+- **Technical Stack**: Implemented in **Jupyter Notebooks**, leveraging Large Language Models (LLMs) for infosec workflows.
+- **Scope**: Covers cybersecurity operations such as threat simulation, AI-driven security analysis, and integration with adversary emulation tools.
 
 ## Why It Matters
 

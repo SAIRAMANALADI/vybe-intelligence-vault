@@ -13,12 +13,10 @@ importance: medium
 tags:
 - agents
 - benchmark
-- dataset
 - github-repo
 - hackernews
 - python
 - scripts
-- workflows
 selection_reason:
 - Useful for project building
 ---
@@ -35,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated Resource Hub**: A structured, community-driven repository listing tools, frameworks, and datasets for developing AI web agents, covering browser automation, LLM integration, and agentic workflows.
-- **Technical Scope**: Focuses on Python-based solutions with emphasis on LLM benchmarking, agent orchestration, and browser interaction automation for autonomous web tasks.
-- **Active Maintenance**: Last updated June 2026, indicating ongoing updates to tools, benchmarks, and research in AI
+- **Curated Resource Hub**: A GitHub repository (`steel-dev/awesome-web-agents`) aggregating tools, frameworks, and resources for developing AI-driven web agents, with a focus on browser automation and LLM integration.
+- **Technical Scope**: Covers Python-based libraries, benchmarks, and methodologies for evaluating and deploying AI agents capable of interacting with web environments.
+- **Community & Maintenance**: Actively maintained (last updated June 2026) with 1.4K+ stars and 193 forks, refl
 
 ## Use Cases
 

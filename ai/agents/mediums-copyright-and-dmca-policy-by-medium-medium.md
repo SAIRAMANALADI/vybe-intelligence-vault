@@ -4,17 +4,16 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/policy/mediums-copyright-and-dmca-policy-d126f73695
-published_at: '2026-06-30T15:38:23.265716+05:30'
-collected_at: '2026-06-30T15:38:23.265729+05:30'
+published_at: '2026-06-30T22:54:12.090351+05:30'
+collected_at: '2026-06-30T22:54:12.090365+05:30'
 tags:
 - agents
 - web-crawled
-- workflows
 status: active
 resource_id: blog:mediums-copyright-and-dmca-policy-by-medium-medium
-first_seen: '2026-06-30T15:38:23.265729+05:30'
-last_seen: '2026-06-30T15:38:23.265729+05:30'
-last_checked: '2026-06-30T15:38:23.265729+05:30'
+first_seen: '2026-06-30T22:54:12.090365+05:30'
+last_seen: '2026-06-30T22:54:12.090365+05:30'
+last_checked: '2026-06-30T22:54:12.090365+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **DMCA Compliance Requirements**: Notifications must include (1) a signature (e.g., typed name) of the copyright owner or authorized agent, (2) identification of the infringed work (e.g., original content or clear description), and (3) sufficient details (e.g., links) to locate the infringing material on Medium’s platform.
+- **DMCA Compliance Requirements**: Medium adheres to Section 512 of the DMCA, requiring formal copyright infringement reports to include a signature, identification of the copyrighted work, infringing material location, contact details, good-faith belief statement, and accuracy certification under penalty of perjury.
 
-- **Processing & Counter-Notification Workflow**: Medium processes claims in order received, removes/restricts allegedly infringing content, and notifies affected users with takedown details. Users may file counter-notices under penalty of perjury if they believe the claim was erroneous, triggering a 10-day waiting period before potential content restoration.
+- **Processing & Enforcement**: Medium processes claims in order received, may remove/restrict infringing content, notifies affected users, forwards complaints to the Lumen database, and suspends repeat violators or terminates accounts for serious offenses.
 
-- **Legal Liabilities & Penalties**: Fraudulent or bad-faith DMCA claims/counter-notices may result in legal damages (17 U.S.C. § 512(f)), including costs and attorney fees. Repeat offenders may face account suspension or termination.
+- **Counter-Notice Procedure**: Users receiving a DMCA notice can file a counter-notice with a signature, material identification, good-faith misidentification statement, and consent to jurisdiction, leading to potential content reinstatement if no legal action is pursued within 10 business days.
 
 ## Why It Matters
 
@@ -36,13 +35,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T15:38:23.265716+05:30
+- Published: 2026-06-30T22:54:12.090351+05:30
 
 ## Related Tags
 
 - agents
 - web-crawled
-- workflows
 
 ## Source
 

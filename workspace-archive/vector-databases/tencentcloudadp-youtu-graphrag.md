@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents (VUA)**: Introduces a novel framework integrating multiple specialized agents (e.g., retrieval, reasoning, planning) into a cohesive system for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with LLM reasoning, enabling dynamic subgraph extraction and iterative refinement of knowledge graphs to improve factual accuracy and contextual relevance
+- **Graph Retrieval-Augmented Generation (GraphRAG)**: Extends traditional RAG by incorporating graph-based knowledge representations, enabling dynamic retrieval and synthesis of interconnected information for improved multi-hop reas
 
 ## Use Cases
 

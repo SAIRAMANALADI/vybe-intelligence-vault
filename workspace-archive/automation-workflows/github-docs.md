@@ -34,8 +34,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub supports **secure authentication** via SSH, tokens, and passwords, with detailed docs on [SSH setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and [authentication methods](https://docs.github.com/en/authentication).
-- **Collaborative workflows** are enabled through [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), [GitHub Actions](https://docs.gi
+- GitHub Docs provides structured guidance across **account management, authentication (SSH/tokens), repositories, and CI/CD** via GitHub Actions, Packages, and Pages.
+- **Collaborative workflows** are supported through **Pull Requests, Codespaces, GitHub Discussions, and integrations**, enabling real-time code review and cloud-based development.
+- **Security and DevOps tooling** includes **CodeQL for vulnerability analysis, GitHub Copilot for AI-assisted coding, and enterprise-scale security po
 
 ## Use Cases
 

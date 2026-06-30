@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-30T20:15:07.170986+05:30'
-collected_at: '2026-06-30T20:15:07.171003+05:30'
+published_at: '2026-06-30T22:48:05.203890+05:30'
+collected_at: '2026-06-30T22:48:05.203908+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-06-30T20:15:07.171003+05:30'
-last_seen: '2026-06-30T20:15:07.171003+05:30'
-last_checked: '2026-06-30T20:15:07.171003+05:30'
+first_seen: '2026-06-30T22:48:05.203908+05:30'
+last_seen: '2026-06-30T22:48:05.203908+05:30'
+last_checked: '2026-06-30T22:48:05.203908+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **LangChain**: Modular framework (105k⭐) for LLM/RAG pipelines with 200+ integrations, structured component chaining, and LangSmith/LangGraph ecosystem support for evaluation and workflow management.
+- **LangChain**: Open-source framework with 105k stars, offering modular components for LLM application development, including RAG pipelines, model flexibility, and integration with LangSmith/LangGraph for debugging and workflow management.
 
-- **RAGFlow**: Open-source RAG engine (48.5k⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG, agentic reasoning, and dual storage backend (Elasticsearch/Infinity) via intuitive web UI.
+- **RAGFlow**: Open-source RAG engine (48.5k stars) specializing in deep document understanding, supporting structured extraction from complex PDFs, GraphRAG for knowledge graphs, and a visual web interface for document management and RAG workflow creation.
 
-- **Milvus**: High-performance vector database (33.9k⭐) optimized for billion-scale ANN search, hybrid querying (vector + scalar), and seamless integration with RAG frameworks, deployable via standalone Docker.
+- **Milvus**: High-performance, cloud-native vector database (33.9k stars) optimized for scalable vector similarity search, supporting hybrid search, multi-modal embeddings, and seamless integration with RAG frameworks like LangChain and LlamaIndex.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:15:07.170986+05:30
+- Published: 2026-06-30T22:48:05.203890+05:30
 
 ## Related Tags
 

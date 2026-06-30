@@ -16,7 +16,6 @@ tags:
 - models
 - python
 - rag
-- reddit
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -35,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **FastAPI-based RAG template**: Implements Retrieval-Augmented Generation (RAG) with vector search for AI chatbots and document management, leveraging FastAPI for backend operations.
-- **Multi-component architecture**: Integrates Ollama for LLM inference, a vector database for embeddings, and supports Docker/Kubernetes for deployment.
-- **Stackit Cloud integration**: Designed for STACKIT Cloud ecosystem, with modular Python implementation for extensibility and scalability.
+- **FastAPI-based RAG template**: Implements Retrieval-Augmented Generation (RAG) with vector search for AI chatbots and document management, leveraging FastAPI for API endpoints.
+
+- **Vector DB integration**: Supports vector databases for efficient similarity search, with Docker and Kubernetes configurations for scalable deployment.
+
+- **LLM & Ollama compatibility**: Designed to work with large language models (LLMs) and Ollama for local LLM inference, with Python as the primary language.
 
 ## Use Cases
 

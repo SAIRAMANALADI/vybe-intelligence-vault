@@ -21,11 +21,11 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 188 resources matched in the intelligence vault.
 Recently detected signals:
-- [Media Types](../ai/rag/media-types.md) (Source: Unknown Source) - Collected 2026-06-30
+- [Built-in AI | AI on Chrome | Chrome for Developers](../ai/rag/built-in-ai-ai-on-chrome-chrome-for-developers.md) (Source: Unknown Source) - Collected 2026-06-30
+- [Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron](../ai/rag/build-cross-platform-desktop-apps-with-javascript.md) (Source: Unknown Source) - Collected 2026-06-30
 - [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md) (Source: Unknown Source) - Collected 2026-06-30
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-30
 - [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-30
-- [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) (Source: Unknown Source) - Collected 2026-06-30
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-30T20:30:02.189690+05:30.554306+05:30.296297+05:30.965790+05:30.342675+05:30.488597+05:30.722671+05:30.801239+05:30.128427+05:30.394556+05:30.913603+05:30.126481+05:30.140569+05:30.242331+05:30.864131+05:30.522960+05:30.247075+05:30.458020+05:30.914503+05:30.028234+05:30.990976+05:30.306232+05:30.528723+05:30.034581+05:30.546426+05:30.195924+05:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-30T23:02:57.437225+05:30.189690+05:30.554306+05:30.296297+05:30.965790+05:30.342675+05:30.488597+05:30.722671+05:30.801239+05:30.128427+05:30.394556+05:30.913603+05:30.126481+05:30.140569+05:30.242331+05:30.864131+05:30.522960+05:30.247075+05:30.458020+05:30.914503+05:30.028234+05:30.990976+05:30.306232+05:30.528723+05:30.034581+05:30.546426+05:30.195924+05:30.199970+05:30.887209+05:30.340408+05:30.262537+05:30.709285+05:30.980448+05:30.914121+05:30.573049+05:30.846180+05:30.845735+05:30.922199+05:30.345054+05:30.484934+05:30.618762+05:30.287167+05:30.414877+05:30.777948+05:30.122469+05:30.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

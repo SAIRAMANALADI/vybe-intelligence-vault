@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/supermlorg/superml-java/discussions
-published_at: '2026-06-30T20:18:26.625005+05:30'
-collected_at: '2026-06-30T20:18:26.625019+05:30'
+published_at: '2026-06-30T22:51:22.752022+05:30'
+collected_at: '2026-06-30T22:51:22.752034+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: github:supermlorg/superml-java
-first_seen: '2026-06-30T20:18:26.625019+05:30'
-last_seen: '2026-06-30T20:18:26.625019+05:30'
-last_checked: '2026-06-30T20:18:26.625019+05:30'
+first_seen: '2026-06-30T22:51:22.752034+05:30'
+last_seen: '2026-06-30T22:51:22.752034+05:30'
+last_checked: '2026-06-30T22:51:22.752034+05:30'
 health_score: 100
 ---
 
@@ -20,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Java-based Machine Learning Library**: `superml-java` is a Java implementation of the `superml` ecosystem, providing machine learning functionalities for the JVM ecosystem.
-
-- **GitHub Repository Metrics**: The repository has 1 fork, 5 stars, 1 open issue, and 1 open pull request as of the latest snapshot.
-
-- **Discussion Framework**: The project includes structured discussions categorized into Announcements, General, Ideas, Polls, Q&A, and Show and Tell for community engagement.
+- **Java-based Machine Learning Library**: `superml-java` is a Java implementation of the SuperML framework, providing machine learning capabilities in a JVM-compatible environment.
+- **GitHub Repository Metrics**: The project has 1 fork, 5 stars, 1 open issue, and 1 open pull request as of the latest snapshot.
+- **Discussion Categories**: Supports structured community interactions via GitHub Discussions, including Announcements, General Q&A, Ideas, Polls, and Show-and-Tell categories.
 
 ## Why It Matters
 
@@ -34,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T20:18:26.625005+05:30
+- Published: 2026-06-30T22:51:22.752022+05:30
 
 ## Related Tags
 

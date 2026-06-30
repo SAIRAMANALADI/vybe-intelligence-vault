@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -29,11 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Earnings Model**: Medium’s Partner Program compensates writers based on member engagement metrics (30+ sec read time, claps, highlights, replies, follows) and Boosted content, prioritizing long-form, high-quality reads over clickbait.
-
-- **Engagement Metrics**: Total earnings derive from read duration, interaction frequency (claps, highlights, replies), follower retention, and Boosted story performance, with cumulative bonuses for sustained reader engagement.
-
-- **Support Resources**: Writer
+- **Earnings Model**: Medium's Partner Program compensates writers based on member engagement metrics, including read time (≥30s), claps, highlights, replies, new follows, and Boosted story interactions, with payouts scaling with sustained reader engagement.
+- **Quality Emphasis**: The program prioritizes long-form, high-quality content over clickbait, rewarding thoughtful reads and community-building via follower bonuses and Boosted story visibility.
+- **Calculation & Support**: Earnings are de
 
 ## Use Cases
 

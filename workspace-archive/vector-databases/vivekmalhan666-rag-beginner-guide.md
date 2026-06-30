@@ -12,6 +12,8 @@ resource_kind: benchmark
 importance: high
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 selection_reason:
@@ -31,8 +33,8 @@ selection_reason:
 ## Summary
 
 - **Step-by-step RAG implementation**: Provides a beginner-friendly Python guide to building a Retrieval-Augmented Generation (RAG) system from scratch without abstracted libraries.
-- **Core components**: Covers essential RAG pipeline elements (document retrieval, embedding generation, and LLM integration) using foundational Python tools.
-- **Updated repository**: Last modified on **2026-02-13**, with no prior forks/stars, indicating an early-stage, hands-on tutorial.
+- **Core components**: Covers essential RAG pipeline elements (document retrieval, embedding generation, and LLM integration) using vanilla Python.
+- **No external dependencies**: Focuses on minimal tooling to ensure clarity, avoiding "magic" abstractions like LangChain or LlamaIndex.
 
 ## Use Cases
 

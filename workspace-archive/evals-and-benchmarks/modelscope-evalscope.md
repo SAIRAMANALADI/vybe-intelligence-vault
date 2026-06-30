@@ -34,9 +34,11 @@ selection_reason:
 
 ## Summary
 
-- **Framework Purpose**: Streamlined, customizable Python framework for evaluating and benchmarking large models (LLMs, VLMs, AIGC) with modular design for efficiency and adaptability.
-- **Key Features**: Supports evaluation of language models (LLMs), vision-language models (VLMs), and AI-generated content (AIGC), including RAG (Retrieval-Augmented Generation) performance metrics.
-- **Technical Stack**: Built in Python, optimized for extensibility and scalability with active maintenance (last up
+- **Framework Overview**: EvalsScope is a Python-based, modular framework designed for efficient evaluation and benchmarking of large models (LLMs, VLMs, AIGC) with customizable pipelines and metrics.
+
+- **Key Features**: Supports streamlined performance assessment across tasks like RAG, with extensible evaluation modules and standardized benchmarking protocols for reproducibility.
+
+- **Technical Stack**: Built for scalability, leveraging Python with optimized data handling and distributed compu
 
 ## Use Cases
 

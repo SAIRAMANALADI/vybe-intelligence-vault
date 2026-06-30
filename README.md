@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,891</p>
-        <p><b>Active:</b> 10,606 | <b>Inactive:</b> 285</p>
+        <p><b>Resources tracked:</b> 10,922</p>
+        <p><b>Active:</b> 10,635 | <b>Inactive:</b> 287</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,474</p>
+        <p><b>Archive Files:</b> 41,528</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 21:58 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 23:04 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,21 +55,27 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8</kbd>
-- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
-- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
-- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • <kbd>+30 pts</kbd>
+- 🔼 **[git/git](ai/resources/git-git.md)** • Rank: <kbd>+2130</kbd>
+- 🔼 **[Amazon.com](ai/resources/amazon-com.md)** • Rank: <kbd>+2134</kbd>
+- 🔼 **[Git](ai/resources/git.md)** • Rank: <kbd>+1665</kbd>
+- 🔼 **[microsoft/pyright](ai/resources/microsoft-pyright.md)** • Rank: <kbd>+301</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[EU commissioners shut down air conditioning for employees, leave theirs on](ai/community/eu-commissioners-shut-down-air-conditioning-for-em.md)** • Score: `105`
+- 🆕 **[Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist](ai/community/scammers-sell-seeds-for-exotic-ai-generated-flower.md)** • Score: `42`
+- 🆕 **[Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]](ai/community/computer-aided-language-development-in-nonspeaking.md)** • Score: `33`
+- 🆕 **[Documentation/RelNotes/2.55.0.adoc · HEAD · git-scm / Git · GitLab](ai/rag/documentation-relnotes-2-55-0-adoc-head-git-scm-gi.md)** • Score: `0`
+- 🆕 **[git-for-windows/git](ai/resources/git-for-windows-git.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](ai/community/words-are-a-byproduct-of-consciousness-for-llms-it.md)**
+- 💤 **[HKUDS/Vibe-Trading](ai/agents/hkuds-vibe-trading.md)**
+- 💤 **[Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

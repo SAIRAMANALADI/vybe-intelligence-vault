@@ -38,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Gartner 2025 Magic Quadrant**: GitHub ranked as a Leader in AI Code Assistants, achieving highest marks in *Ability to Execute* and *Completeness of Vision*, alongside Amazon and Cognition (Windsurf).
+- **Gartner 2025 Magic Quadrant**: GitHub ranked as a **Leader** in AI Code Assistants for the second consecutive year, excelling in both **Ability to Execute** and **Completeness of Vision**, alongside Amazon and Cognition (Windsurf).
 
-- **AI Adoption Projection**: Gartner forecasts 90% of enterprise software engineers will use AI code assistants by 2028, up from <14% in early 2024, driven by GitHub Copilot integration and Agent Mode.
+- **AI Adoption Projection**: Gartner forecasts **90% of enterprise software engineers** will use AI code assistants by **2028**, up from **<14% in early 2024**, driven by GitHub’s integrated AI workflows (e.g., GitHub Copilot, Agent Mode).
 
-- **GitHub’s Strategic Approach**: Centralizes AI adoption via GitHub Enterprise Cloud, mi
+- **Strategic Differe
 
 ## Use Cases
 

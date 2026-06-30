@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/python/deepagents/code/overview
-published_at: '2026-06-30T20:19:19.021376+05:30'
-collected_at: '2026-06-30T20:19:19.021393+05:30'
+published_at: '2026-06-30T22:52:27.470628+05:30'
+collected_at: '2026-06-30T22:52:27.470642+05:30'
 tags:
 - agents
 - anthropic
@@ -13,15 +13,15 @@ tags:
 - openai
 - producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:deep-agents-code-docs-by-langchain
-first_seen: '2026-06-30T20:19:19.021393+05:30'
-last_seen: '2026-06-30T20:19:19.021393+05:30'
-last_checked: '2026-06-30T20:19:19.021393+05:30'
+first_seen: '2026-06-30T22:52:27.470642+05:30'
+last_seen: '2026-06-30T22:52:27.470642+05:30'
+last_checked: '2026-06-30T22:52:27.470642+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Terminal Coding Agent**: `dcode` is an open-source terminal-based coding agent built on the Deep Agents SDK, supporting dynamic LLM provider/model switching, persistent memory for cross-session context, and configurable skills for behavior customization.
+- **Multi-Provider LLM Integration**: Supports dynamic switching between any tool-calling LLM (e.g., OpenAI, Anthropic, Google) mid-session via `/model` command or CLI flags (`--model provider:model`), with persistent memory for cross-session context.
 
-- **Built-in Tools & Capabilities**: Includes file operations (read/write/edit), shell execution (with approval controls), web search (via Tavily API), task planning, subagents for parallel delegation, memory storage/retrieval, and MCP tool integration for extensibility.
+- **Human-in-the-Loop & Safety Controls**: Enforces approval gates for destructive operations (e.g., file edits, shell execution) with optional auto-approval (`-y`/`--auto-approve`), and supports non-interactive mode with restricted shell commands (`--shell-allow-list`).
 
-- **CLI & Execution Modes**: Supports interactive/non-interactive modes, auto-approval (`-y`), remote sandboxes (e.g., LangSmith, E2B), and LangSmith tracing for observability; CLI flags include `--model`, `--sandbox`, `--auto-approve`, and `--max-turns` for constrained execution.
+- **Advanced Task Management**: Implements goal/rubric-based workflows for structured task decomposition, subagent delegation for parallel execution, and LangSmith tracing for observability, with remote sandboxing options (e.g., LangSmith, E2B) for isolated code execution.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:19:19.021376+05:30
+- Published: 2026-06-30T22:52:27.470628+05:30
 
 ## Related Tags
 
@@ -53,9 +53,9 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
-- reddit
 - scripts
 - web-crawled
+- workflows
 - youtube
 
 ## Source

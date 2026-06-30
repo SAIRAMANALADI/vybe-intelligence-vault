@@ -4,14 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/ai-sdk-preview-rag
-collected_at: '2026-06-30T20:15:25.967157+05:30'
-published_at: '2026-06-29T07:57:22Z'
+collected_at: '2026-06-30T22:48:22.225021+05:30'
+published_at: '2026-06-30T16:47:01Z'
 tags:
 - frontend_ui
 - github-repo
 - rag
+- reddit
 - typescript
-stars: 409
+- workflows
+stars: 408
 language: TypeScript
 status: active
 license: MIT
@@ -19,9 +21,9 @@ archived: true
 created_at: '2024-07-10T16:28:52Z'
 pushed_at: '2026-04-19T20:34:23Z'
 resource_id: github:vercel-labs/ai-sdk-preview-rag
-first_seen: '2026-06-30T20:15:25.967157+05:30'
-last_seen: '2026-06-30T20:15:25.967157+05:30'
-last_checked: '2026-06-30T20:15:25.967157+05:30'
+first_seen: '2026-06-30T22:48:22.225021+05:30'
+last_seen: '2026-06-30T22:48:22.225021+05:30'
+last_checked: '2026-06-30T22:48:22.225021+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG Implementation**: Template for Retrieval-Augmented Generation (RAG) using Vercel's AI SDK, enabling context-aware LLM responses via vector search and retrieval.
-- **Tech Stack**: Built with Next.js (TypeScript) and integrates AI SDK for structured LLM interactions, optimized for Vercel deployments.
-- **Key Features**: Supports dynamic document retrieval, embeddings, and prompt augmentation; last updated June 2026 with active community (409 stars, 84 forks).
+- **RAG Implementation**: Template demonstrates retrieval-augmented generation (RAG) using Vercel's AI SDK, integrating Next.js for full-stack AI workflows.
+- **Tech Stack**: Built with TypeScript, leveraging AI SDK for structured LLM interactions and Next.js for server/client-side components.
+- **Repository Metadata**: 408 stars, 84 forks; last updated June 30, 2026, under `vercel-labs` for experimental AI tooling.
 
 ## Why It Matters
 
@@ -40,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 409
+- Stars: 408
 - Forks: 84
 - Language: TypeScript
 - Topics: ai-sdk, nextjs, rag
-- Last Updated: 2026-06-29T07:57:22Z
+- Last Updated: 2026-06-30T16:47:01Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-10T16:28:52Z

@@ -9,10 +9,11 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
+- hackernews
 - models
 - openai
 - paper
@@ -30,15 +31,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising **load** (ingest documents), **chunk** (split into retrieval-sized pieces), **embed** (convert to vector embeddings and index), **retrieve** (find semantically similar chunks at query time), and **generate** (pass retrieved context to LLM for grounded answers).
-- **Chunking Strategy**: Recursive character splitting with **512-token chunks** and **50-token overlap** to balance semantic boundaries and context retention, implemented via `RecursiveChar
+- **RAG Architecture**: A 5-stage pipeline—**load** (ingest documents), **chunk** (split into retrieval-sized segments), **embed** (convert chunks to vectors using `text-embedding-3-small`), **retrieve** (semantic search via ChromaDB with `k=4` top chunks), and **generate** (LLM synthesizes answers grounded in retrieved context using a structured prompt).
+
+- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** (or Pinecone/pgvector) for vector storage, and **OpenAI’s
 
 ## Use Cases
 

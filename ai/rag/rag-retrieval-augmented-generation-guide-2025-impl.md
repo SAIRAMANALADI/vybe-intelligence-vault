@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-06-30T20:15:08.236672+05:30'
-collected_at: '2026-06-30T20:15:08.236685+05:30'
+published_at: '2026-06-30T22:48:05.655026+05:30'
+collected_at: '2026-06-30T22:48:05.655040+05:30'
 tags:
 - anthropic
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-06-30T20:15:08.236685+05:30'
-last_seen: '2026-06-30T20:15:08.236685+05:30'
-last_checked: '2026-06-30T20:15:08.236685+05:30'
+first_seen: '2026-06-30T22:48:05.655040+05:30'
+last_seen: '2026-06-30T22:48:05.655040+05:30'
+last_checked: '2026-06-30T22:48:05.655040+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI text-embedding-ada-002, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for dynamic knowledge retrieval, reducing LLM hallucinations from 30% to <5% while enabling real-time updates.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, Qdrant) for dynamic knowledge retrieval, reducing hallucinations by ~80% and improving accuracy to 90-95%.
 
-- **Advanced Retrieval Techniques**: Implements hybrid search (semantic + BM25), query expansion (LLM-generated variants), re-ranking (cross-encoder models), and hierarchical retrieval to improve recall/precision by 20-30% and reduce noise in retrieved context.
+- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), re-ranking (cross-encoder models), and adaptive retrieval (Self-RAG) to optimize precision and context coherence.
 
-- **Production Optimization**: Achieves sub-2s latency via caching (30-40% hit rate), monitors retrieval relevance, and reduces costs to $0.02-0.10/query at scale, outperforming fine-tuning (10-50x cheaper) for knowledge-intensive tasks like legal Q&A (92% accuracy) and customer support (78% automated resolution).
+- **Production Metrics**: Achieves <2s end-to-end latency, $0.02-0.10/query cost at scale, and 10-50x cost savings vs fine-tuning, validated in case studies (e.g., 92% accuracy in legal Q&A, 78% automated resolution in customer support).
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T20:15:08.236672+05:30
+- Published: 2026-06-30T22:48:05.655026+05:30
 
 ## Related Tags
 

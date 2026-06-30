@@ -7,12 +7,13 @@ source_url: https://superml.org/tutorials/rag-beginner
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
 local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - benchmark
+- hackernews
 - models
 - openai
 - paper
@@ -20,6 +21,7 @@ tags:
 - reddit
 - web-crawled
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -28,15 +30,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline**: A 5-step process comprising **load** (ingest documents), **chunk** (split into retrieval-sized pieces), **embed** (convert to vector embeddings and index), **retrieve** (find semantically similar chunks at query time), and **generate** (pass retrieved context to LLM for grounded answers).
-- **Chunking Strategy**: Recursive character splitting with **512-token chunks** and **50-token overlap** to balance semantic boundaries and context retention, implemented via `RecursiveChar
+- **RAG Architecture**: A 5-stage pipeline—**load** (ingest documents), **chunk** (split into retrieval-sized segments), **embed** (convert chunks to vectors using `text-embedding-3-small`), **retrieve** (semantic search via ChromaDB with `k=4` top chunks), and **generate** (LLM synthesizes answers grounded in retrieved context using a structured prompt).
+
+- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** (or Pinecone/pgvector) for vector storage, and **OpenAI’s
 
 ## Use Cases
 

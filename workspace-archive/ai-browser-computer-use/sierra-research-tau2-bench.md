@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions across real-world domains, focusing on conversational agents and LLM-based tool usage with structured, domain-specific tasks.
+- **Benchmark Design**: τ-Bench evaluates tool-agent-user interactions in real-world domains, focusing on conversational agents and LLM-based systems with structured, domain-specific tasks.
 
-- **Technical Scope**: Implements a Python-based framework for benchmarking agent performance in dynamic, multi-turn interactions involving tool integration, user feedback, and adaptive decision-making.
+- **Technical Scope**: Implements a Python-based framework to simulate multi-turn interactions, tool integration, and user-agent collaboration across diverse, domain-specific scenarios.
 
-- **Evaluation Metrics**: Measures agent efficiency, task completion accuracy, and interaction rob
+- **Evaluation Metrics**: Measures performance via task completion rates, interaction efficiency, and adaptability, provid
 
 ## Use Cases
 
