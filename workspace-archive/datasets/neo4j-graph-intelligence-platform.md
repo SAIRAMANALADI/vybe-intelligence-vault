@@ -1,0 +1,53 @@
+---
+title: Neo4j Graph Intelligence Platform
+archive_category: datasets
+source_category: ai/rag
+source_url: http://neo4j.org/resources/cypher
+resource_id: blog:neo4j-graph-intelligence-platform
+local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
+quality_score: 70
+archive_score: 74
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- dataset
+- rag
+- web-crawled
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Neo4j Graph Intelligence Platform
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to embed causal reasoning and traceability into AI decision-making, enabling transparent "why" explanations for high-stakes applications.
+
+- **Enterprise Value Proposition**: Addressing regulatory compliance (e.g., EU AI Act) and operational trust by converting opaque AI models into auditable, interpretable systems with measurable ROI in sectors like healthcare and finance.
+
+- **Scalable Knowledge Graphs**: Utilizi
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: http://neo4j.org/resources/cypher
+
+## Local Vault File
+
+Path: [neo4j-graph-intelligence-platform.md](../../ai/rag/neo4j-graph-intelligence-platform.md)

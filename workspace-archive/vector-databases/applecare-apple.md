@@ -2,7 +2,7 @@
 title: AppleCare - Apple
 archive_category: vector-databases
 source_category: ai/rag
-source_url: http://www.apple.com/support/products
+source_url: https://www.apple.com/support/products/
 resource_id: blog:applecare-apple
 local_vault_path: ai/rag/applecare-apple.md
 quality_score: 70
@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Coverage & Claims**: AppleCare One consolidates protection for up to 3 Apple devices (expandable to additional devices at $5.99/month each), offering unlimited accidental damage repairs (drops/spills), liquid damage coverage, and up to 3 annual theft/loss claims for iPhone/iPad/Apple Watch—exceeding AppleCare+’s 2-claim limit.
+- **AppleCare One** consolidates coverage for up to three Apple devices (e.g., iPhone, Mac, iPad) under a single plan at **$19.99/month**, with additional devices at **$5.99/month** each, including **three annual theft/loss claims** for iPhone, iPad, or Apple Watch.
 
-- **Hardware & Battery Assurance**: Includes no-cost battery replacements if capacity drops below 80%, extended warranty coverage for hardware defects, and sa
+- **Accidental damage coverage** includes **same-day repairs** (via Apple Store or authorized providers), **liquid damage protection**, and **battery replacements** (if capacity drops below 80%) at no extra charge for iPhones and Ma
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://www.apple.com/support/products
+Original source URL: https://www.apple.com/support/products/
 
 ## Local Vault File
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/Awesome-GraphRAG
-collected_at: '2026-07-01T01:51:50.318258+05:30'
+collected_at: '2026-07-01T04:12:45.874568+05:30'
 published_at: '2026-06-30T14:23:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-10-21T08:29:58Z'
 pushed_at: '2026-06-02T12:52:38Z'
 resource_id: github:deep-polyu/awesome-graphrag
-first_seen: '2026-07-01T01:51:50.318258+05:30'
-last_seen: '2026-07-01T01:51:50.318258+05:30'
-last_checked: '2026-07-01T01:51:50.318258+05:30'
+first_seen: '2026-07-01T04:12:45.874568+05:30'
+last_seen: '2026-07-01T04:12:45.874568+05:30'
+last_checked: '2026-07-01T04:12:45.874568+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG methodologies.
-- **Technical Scope**: Encompasses **GraphRAG-specific topics**, including graph-augmented retrieval architectures, graph neural networks (GNNs) for RAG, and integration of knowledge graphs with LLMs for enhanced context retrieval.
-- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,502 stars**, **216 forks**, and last updated **June 30, 2026**; serves as a dynamic reference for cutting-edge research in graph-enhanced RAG systems.
+- **Curated Repository**: Aggregates surveys, papers, benchmarks, and open-source projects focused on **graph-based Retrieval-Augmented Generation (GraphRAG)**, covering knowledge graphs, large language models (LLMs), and RAG techniques.
+- **Technical Scope**: Encompasses **GraphRAG-specific topics** including graph-augmented retrieval, graph neural networks (GNNs) for RAG, and integration of knowledge graphs with LLMs for enhanced generation.
+- **Repository Metrics**: Maintained by **DEEP-PolyU**, with **2,502 stars**, **216 forks**, and last updated on **2026-06-30**; serves as a central hub for cutting-edge research in graph-augmented RAG systems.
 
 ## Why It Matters
 

@@ -8,10 +8,11 @@ local_vault_path: ai/rag/pixegami-langchain-rag-tutorial.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -26,16 +27,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, leveraging document retrieval and LLM integration for question-answering workflows.
-- Utilizes **Python** with standard NLP libraries (e.g., `langchain`, `sentence-transformers`) for embedding generation and vector storage (likely via FAISS or Chroma).
-- Demonstrates a **modular RAG architecture** with components for document loading, text splitting, vector indexing, and retrieval-augmented generation.
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** in Python, combining document retrieval with LLM generation.
+- Utilizes **vector embeddings** (e.g., via `sentence-transformers` or OpenAI) for semantic search over a document corpus.
+- Demonstrates **end-to-end workflow**: document ingestion → vector storage (e.g., FAISS/Chroma) → retrieval → prompt augmentation → LLM inference.
 
 ## Use Cases
 

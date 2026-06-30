@@ -8,7 +8,7 @@ local_vault_path: ai/rag/ajac-zero-example-rag-app.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
@@ -24,15 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: benchmark
+- Resource kind: tool
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-- **Observability & LLM Integration**: Implements Langfuse for LLM observability, supporting 100+ providers via LiteLLM for seamless model switching and monitoring.
-- **Development Rigor**: Full TypeScript type-checking, 100% test coverage, and Dockerized deployment for reproducibility and scalability.
-- **Modern AI Stack**: Built as a RAG (Retrieval-Augmented Generation) application with AI/ML best practices, last updated March 2026.
+*   RAG application featuring integrated LLM observability via Langfuse.
+*   Extensive LLM provider compatibility, supporting 100+ models through LiteLLM.
+*   Dockerized TypeScript codebase with full type-checking and 100% test coverage.
 
 ## Use Cases
 

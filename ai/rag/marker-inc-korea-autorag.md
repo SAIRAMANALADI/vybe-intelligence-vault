@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Marker-Inc-Korea/AutoRAG
-collected_at: '2026-07-01T01:51:25.277936+05:30'
+collected_at: '2026-07-01T04:12:20.870017+05:30'
 published_at: '2026-06-30T13:21:42Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -23,9 +22,9 @@ archived: false
 created_at: '2024-01-10T12:25:00Z'
 pushed_at: '2026-06-30T10:37:36Z'
 resource_id: github:marker-inc-korea/autorag
-first_seen: '2026-07-01T01:51:25.277936+05:30'
-last_seen: '2026-07-01T01:51:25.277936+05:30'
-last_checked: '2026-07-01T01:51:25.277936+05:30'
+first_seen: '2026-07-01T04:12:20.870017+05:30'
+last_seen: '2026-07-01T04:12:20.870017+05:30'
+last_checked: '2026-07-01T04:12:20.870017+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **AutoML-driven RAG Optimization**: Framework automates hyperparameter tuning, prompt optimization, and retrieval strategies for RAG pipelines using AutoML techniques, reducing manual configuration overhead.
+- **AutoML-driven RAG optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for RAG systems using a black-box optimization approach (e.g., Bayesian optimization, TPE, or genetic algorithms).
 
-- **Comprehensive RAG Evaluation Suite**: Provides built-in benchmarks for retrieval quality, generation performance, and end-to-end QA metrics, enabling standardized assessment across datasets and models.
+- **Comprehensive evaluation framework**: Provides built-in metrics (e.g., answer correctness, context relevance, latency) and supports custom benchmarks for assessing RAG performance across datasets like MS MARCO, TriviaQA, or domain-specific corpora.
 
-- **Modular Pipeline Architecture**: Supports customizable components (e.g., document parsers, embeddings, LLMs) with plug-and-play interfaces, facilitating integration into existing RAG workflows.
+- **Modular pipeline architecture**: Supports end-to-end RAG workflows with configurable stages (retrieval, reranking, generation) and integrates with LLMs (e.g., Hugging Face Transformers, vLLM) while offering document parsing, embedding generation, and deployment tools.
 
 ## Why It Matters
 

@@ -11,13 +11,14 @@ tags:
 - github-trending
 - html
 - youtube
-status: active
+status: inactive
 resource_id: github:hasaneyldrm/exercises-dataset
 first_seen: '2026-07-01T01:49:59.648080+05:30'
 last_seen: '2026-07-01T01:49:59.648080+05:30'
 last_checked: '2026-07-01T01:49:59.648080+05:30'
 health_score: 100
 ---
+
 
 # hasaneyldrm/exercises-dataset
 

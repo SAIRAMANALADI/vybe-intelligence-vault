@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:google/agents-cli
 first_seen: '2026-06-30T20:14:10.926055+05:30'
 last_seen: '2026-07-01T01:49:59.649686+05:30'
 last_checked: '2026-07-01T01:49:59.649686+05:30'
 health_score: 100
 ---
+
 
 # google/agents-cli
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/stackitcloud/rag-template
-collected_at: '2026-07-01T01:51:15.288651+05:30'
+collected_at: '2026-07-01T04:12:10.885120+05:30'
 published_at: '2026-06-28T03:40:40Z'
 tags:
 - github-repo
@@ -12,7 +12,7 @@ tags:
 - models
 - python
 - rag
-- workflows
+- reddit
 stars: 83
 language: Python
 status: active
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-01-16T12:14:53Z'
 pushed_at: '2026-06-28T04:35:40Z'
 resource_id: github:stackitcloud/rag-template
-first_seen: '2026-07-01T01:51:15.288651+05:30'
-last_seen: '2026-07-01T01:51:15.288651+05:30'
-last_checked: '2026-07-01T01:51:15.288651+05:30'
+first_seen: '2026-07-01T04:12:10.885120+05:30'
+last_seen: '2026-07-01T04:12:10.885120+05:30'
+last_checked: '2026-07-01T04:12:10.885120+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **FastAPI-based RAG Template**: Provides a structured Python implementation for Retrieval-Augmented Generation (RAG) chatbots with FastAPI, supporting vector search and document management.
-
-- **Vector Database Integration**: Utilizes a vector database (e.g., for embeddings) and integrates with Ollama for LLM inference, enabling efficient document retrieval and contextual responses.
-
-- **Deployment-Ready**: Includes Docker and Kubernetes configurations for scalable deployment, with modular components for AI, API, and document processing workflows.
+- **RAG Implementation**: Provides a template for building AI chatbots and document management systems using Retrieval-Augmented Generation (RAG) with vector search capabilities.
+- **Tech Stack**: Utilizes FastAPI for the backend, Python for core logic, and supports Docker/Kubernetes for deployment; integrates with Ollama for LLM access and a vector database for embeddings.
+- **Deployment Ready**: Pre-configured for cloud deployment with STACKIT, including Docker and Kubernetes support for scalable RAG-based applications.
 
 ## Why It Matters
 

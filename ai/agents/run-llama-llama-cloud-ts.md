@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-cloud-ts
-collected_at: '2026-06-30T03:57:08.004018+05:30'
-published_at: '2026-06-28T14:12:53Z'
+collected_at: '2026-07-01T04:16:24.929861+05:30'
+published_at: '2026-06-30T19:20:45Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - models
 - typescript
 - workflows
-stars: 25
+stars: 24
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-11-06T21:59:46Z'
-pushed_at: '2026-06-27T07:45:11Z'
+pushed_at: '2026-06-30T19:20:49Z'
 resource_id: github:run-llama/llama-cloud-ts
-first_seen: '2026-06-30T03:57:08.004018+05:30'
-last_seen: '2026-06-30T03:57:08.004018+05:30'
-last_checked: '2026-06-30T03:57:08.004018+05:30'
+first_seen: '2026-07-01T04:16:24.929861+05:30'
+last_seen: '2026-07-01T04:16:24.929861+05:30'
+last_checked: '2026-07-01T04:16:24.929861+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **TypeScript SDK for LlamaParse**: Provides a cloud-based OCR and document parsing interface optimized for TypeScript, enabling structured extraction from unstructured documents via LlamaParse.
-- **Key Features**: Supports document processing, information extraction, and integration with AI agents (`document-agent`) for automated workflows.
-- **Repository Metadata**: 25 stars, 8 forks, last updated June 28, 2026; categorized under OCR, parsing, and agent-based document workflows.
+- **TypeScript SDK for LlamaParse**: Provides cloud-based OCR and document parsing capabilities via the `llamaparse` library, enabling structured extraction of text and metadata from documents.
+- **Document Processing & Information Extraction**: Supports advanced parsing workflows for structured/unstructured documents, facilitating information extraction for downstream AI/agent applications.
+- **Integration with Llama Agents**: Designed for seamless use with Llama agent frameworks, enabling document-aware agents for tasks like summarization, Q&A, and automated workflows.
 
 ## Why It Matters
 
@@ -42,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 25
+- Stars: 24
 - Forks: 8
 - Language: TypeScript
 - Topics: agent, agents, document-agent, document-processing, information-extraction, llamaparse, ocr, parser
-- Last Updated: 2026-06-28T14:12:53Z
+- Last Updated: 2026-06-30T19:20:45Z
 - License: MIT
 - Archived: No
 - Created At: 2025-11-06T21:59:46Z
-- Pushed At: 2026-06-27T07:45:11Z
+- Pushed At: 2026-06-30T19:20:49Z
 
 ## Possible Use Cases
 

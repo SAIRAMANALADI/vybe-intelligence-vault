@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Unified RAG Framework**: Provides a Python-based framework for building enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency (e.g., LlamaCpp, ONNX, OpenVINO).
 
-- **Multi-Backend Support**: Integrates with multiple inference engines (e.g., llama.cpp, ONNX, OpenVINO) and supports parsing tools for structured/unstructured data processing in RAG workflows.
+- **Multi-Model & Tool Integration**: Supports modular integration of generative AI tools, agents, and parsing utilities, enabling hybrid workflows with lightweight LLMs and retrieval components.
 
-- **Agent & Tool Integration**: Enables deployment of AI agents with generative capab
+- **Enterprise Optimization**: Focuses on low-latency, high-throughput
 
 ## Use Cases
 

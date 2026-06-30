@@ -4,17 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://luma.com/langchain?k=c
-published_at: '2026-06-28T22:21:09.364485+05:30'
-collected_at: '2026-06-28T22:21:09.364502+05:30'
+published_at: '2026-07-01T04:18:34.768144+05:30'
+collected_at: '2026-07-01T04:18:34.768159+05:30'
 tags:
 - agents
-- hackernews
 - web-crawled
+- workflows
 status: active
 resource_id: blog:langchain-events-events-calendar
-first_seen: '2026-06-28T22:21:09.364502+05:30'
-last_seen: '2026-06-28T22:21:09.364502+05:30'
-last_checked: '2026-06-28T22:21:09.364502+05:30'
+first_seen: '2026-07-01T04:18:34.768159+05:30'
+last_seen: '2026-07-01T04:18:34.768159+05:30'
+last_checked: '2026-07-01T04:18:34.768159+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,14 @@ health_score: 100
 
 ## Summary
 
-- **LangChain Events Platform**: Aggregates community-hosted and LangChain-organized events focused on LangChain technologies, accessible via [luma.com/langchain](https://luma.com/langchain?k=c).
+- **LangChain Events Platform**: Luma hosts a dedicated platform ([luma.com/langchain](https://luma.com/langchain?k=c)) for LangChain-related events, including meetups, workshops, and community gatherings, with submission and approval workflows for event organizers.
 
-- **Event Types**: Includes meetups such as *"Building Great Agents (Berlin)"* and *"Washington DC LangChain Meetup"*, with RSVP functionality and location details for registered attendees.
+- **Upcoming Events**:
+  - *LangChain Meetup: Building Great Agents (Berlin)* (LangChain-hosted, location TBA).
+  - *Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit* (London, UK, community-hosted, +46 attendees).
+  - *Washington DC LangChain Meetup* (LangChain-hosted, Washington, DC).
 
-- **Submission & Moderation**: Users can submit events for approval, which are listed publicly only after validation by calendar administrators.
+- **Event Management**: Events require manual approval by calendar admins before appearing publicly; organizers can submit events via [luma.com/discover](https://luma.com/discover) for visibility.
 
 ## Why It Matters
 
@@ -36,13 +39,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-28T22:21:09.364485+05:30
+- Published: 2026-07-01T04:18:34.768144+05:30
 
 ## Related Tags
 
 - agents
-- hackernews
 - web-crawled
+- workflows
 
 ## Source
 

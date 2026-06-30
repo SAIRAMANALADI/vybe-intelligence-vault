@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://cloud.google.com/terms/cloud-privacy-notice
-published_at: '2026-06-26T15:28:41.008167+05:30'
-collected_at: '2026-06-26T15:28:41.008182+05:30'
+published_at: '2026-07-01T04:18:16.488426+05:30'
+collected_at: '2026-07-01T04:18:16.488441+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-cloud-privacy-notice
-first_seen: '2026-06-26T15:28:41.008182+05:30'
-last_seen: '2026-06-26T15:28:41.008182+05:30'
-last_checked: '2026-06-26T15:28:41.008182+05:30'
+first_seen: '2026-07-01T04:18:16.488441+05:30'
+last_seen: '2026-07-01T04:18:16.488441+05:30'
+last_checked: '2026-07-01T04:18:16.488441+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Service Data Processing Scope**: Google Cloud Privacy Notice applies exclusively to *Service Data* (e.g., account info, billing records, usage metrics, support interactions) collected during Cloud Services provisioning, excluding *Customer/Partner Data*; processing includes fraud detection, billing, and service optimization via algorithms, manual review, and aggregation.
+- **Service Data Definition & Processing Scope**: Service Data includes account info (usernames, contact details), billing records, cloud configurations, usage metrics, and technical support interactions, processed solely for Cloud Services delivery, optimization, security, and legal compliance under Google’s Privacy Notice.
 
-- **Data Sharing & Security Controls**: Service Data is encrypted at rest/transit, restricted to authorized personnel, and shared externally only for third-party services, legal compliance, or with consent; Google retains data for up to 180 days (longer for security/fraud prevention) and deletes/anonymizes when no longer needed.
+- **Data Handling & Security Controls**: Service Data is encrypted at rest/in-transit, restricted to authorized personnel under strict confidentiality agreements, and shared externally only for third-party services, user consent, legal obligations, or with administrators/resellers with account management access.
 
-- **Regional Processing & Compliance**: Service Data may be processed in global data centers (EU/UK/Swiss data processed under GDPR frameworks); users/admins can access/export data, while Google enforces confidentiality during mergers/acquisitions.
+- **Retention & Regional Processing**: Service Data retention varies by purpose (default 180 days, extended for security/abuse prevention), processed globally across Google’s data centers with GDPR/legal framework compliance for cross-border transfers.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-26T15:28:41.008167+05:30
+- Published: 2026-07-01T04:18:16.488426+05:30
 
 ## Related Tags
 

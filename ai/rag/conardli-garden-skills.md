@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-07-01T01:51:25.239597+05:30'
+collected_at: '2026-07-01T04:12:20.807061+05:30'
 published_at: '2026-06-30T18:01:38Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - github-repo
 - hackernews
 - rag
+- workflows
 stars: 8955
 language: CSS
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-06-10T13:43:52Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-07-01T01:51:25.239597+05:30'
-last_seen: '2026-07-01T01:51:25.239597+05:30'
-last_checked: '2026-07-01T01:51:25.239597+05:30'
+first_seen: '2026-07-01T04:12:20.807061+05:30'
+last_seen: '2026-07-01T04:12:20.807061+05:30'
+last_checked: '2026-07-01T04:12:20.807061+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, with 8,955 stars and 1,210 forks.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI tools like Claude, GPT-Image-2, and RAG (Retrieval-Augmented Generation) pipelines.
-- **Last Update**: Repository last modified on **2026-06-30**, indicating active maintenance and updates.
+- **Repository Overview**: Open-source collection by ConardLi covering web design, knowledge retrieval, image generation, and other technical skills, implemented primarily in CSS.
+- **Key Features**: Integrates AI agents, RAG (Retrieval-Augmented Generation), and tools like GPT-Image-2 for image generation; supports Claude for agent-based workflows.
+- **Metadata**: 8,955 stars, 1,210 forks; last updated June 30, 2026; categorized under agent, RAG, web-design, and image-generation topics.
 
 ## Why It Matters
 

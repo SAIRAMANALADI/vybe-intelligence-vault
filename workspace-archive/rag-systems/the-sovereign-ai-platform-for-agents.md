@@ -6,7 +6,7 @@ source_url: https://www.deepset.ai/
 resource_id: blog:the-sovereign-ai-platform-for-agents
 local_vault_path: ai/rag/the-sovereign-ai-platform-for-agents.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: framework
 importance: medium
@@ -28,7 +28,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Sovereign AI Framework**: Haystack provides an open-source AI framework enabling full control over infrastructure, models, and data boundaries, supporting deployment in cloud, VPC, on-premise, or air-gapped environments while adhering to SOC 2 Type II, ISO 27001, GDPR, HIPAA, and CSA Star Level 1 compliance.
+- **Modular AI Framework**: Haystack provides an open-source, extensible framework for building custom AI pipelines (RAG, agents, IDP, search) with full control over models, tools, and infrastructure, enabling transparent, adaptable deployments across cloud, VPC, on-premise, or air-gapped environments.
 
-- **Modular AI Pipelines**: Supports custom AI agents, Retrieval-Augmented Generation (RAG), enterprise search, Intelligent Document Processing (IDP), and Text-to-SQL with deterministic
+- **Enterprise-Grade RAG & Agents**: Supports high-precision retrieval-augmented generation (RAG) with hybrid search, multimodal inputs, and deterministic orchestration, while enabling multi-step
 
 ## Use Cases
 

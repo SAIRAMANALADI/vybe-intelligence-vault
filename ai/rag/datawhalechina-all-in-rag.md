@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-07-01T01:50:45.307612+05:30'
+collected_at: '2026-07-01T04:11:40.916823+05:30'
 published_at: '2026-06-30T20:11:41Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-07-01T01:50:45.307612+05:30'
-last_seen: '2026-07-01T01:50:45.307612+05:30'
-last_checked: '2026-07-01T01:50:45.307612+05:30'
+first_seen: '2026-07-01T04:11:40.916823+05:30'
+last_seen: '2026-07-01T04:11:40.916823+05:30'
+last_checked: '2026-07-01T04:11:40.916823+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Provides a full-stack technical guide for developing large model applications with Retrieval-Augmented Generation (RAG), covering theory, implementation, and deployment.
+- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing RAG (Retrieval-Augmented Generation) applications with large language models (LLMs), covering end-to-end implementation strategies.
 
-- **Multi-Framework Integration**: Demonstrates RAG implementations using popular libraries/frameworks including LangChain, LlamaIndex, and integrates with vector databases (Milvus) and graph databases (Neo4j).
+- **Toolchain Integration**: Supports multiple frameworks and tools including LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and multimodal embeddings, with Python as the primary language.
 
-- **Advanced Features & Use Cases**: Explores multimodal RAG, advanced embedding techniques, and practical applications with models like DeepSeek and Kimi-K2, emphasizing real-world deployment scenarios.
+- **Model Compatibility**: Designed to work with advanced LLMs like DeepSeek, Kimi-K2, and integrates embedding models for enhanced retrieval performance, last updated June 2026.
 
 ## Why It Matters
 

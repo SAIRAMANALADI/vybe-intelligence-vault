@@ -9,13 +9,14 @@ collected_at: '2026-07-01T01:49:59.648749+05:30'
 tags:
 - github-trending
 - swift
-status: active
+status: inactive
 resource_id: github:altic-dev/fluidvoice
 first_seen: '2026-06-28T19:46:54.546934+05:30'
 last_seen: '2026-07-01T01:49:59.648749+05:30'
 last_checked: '2026-07-01T01:49:59.648749+05:30'
 health_score: 100
 ---
+
 
 # altic-dev/FluidVoice
 

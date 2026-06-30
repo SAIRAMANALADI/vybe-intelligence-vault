@@ -37,9 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Service Data Processing Scope**: Google Cloud Privacy Notice applies exclusively to *Service Data* (e.g., account info, billing records, usage metrics, support interactions) collected during Cloud Services provisioning, excluding *Customer/Partner Data*; processing includes fraud detection, billing, and service optimization via algorithms, manual review, and aggregation.
+- **Service Data Definition & Processing Scope**: Service Data includes account info (usernames, contact details), billing records, cloud configurations, usage metrics, and technical support interactions, processed solely for Cloud Services delivery, optimization, security, and legal compliance under Google’s Privacy Notice.
 
-- **Data Sharing & Security Controls**: Service Data is encrypted at rest/transit, restricted to authorized personnel, an
+- **Data Handling & Security Controls**: Service Data is encrypted at rest/in-transit, restricted to authorized personnel under strict confidentiality agreements, and share
 
 ## Use Cases
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-07-01T01:52:05.318863+05:30'
+collected_at: '2026-07-01T04:13:00.877650+05:30'
 published_at: '2026-06-26T08:31:01Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - rag
 stars: 393
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-07-01T01:52:05.318863+05:30'
-last_seen: '2026-07-01T01:52:05.318863+05:30'
-last_checked: '2026-07-01T01:52:05.318863+05:30'
+first_seen: '2026-07-01T04:13:00.877650+05:30'
+last_seen: '2026-07-01T04:13:00.877650+05:30'
+last_checked: '2026-07-01T04:13:00.877650+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on large language models (LLMs) with metrics for retrieval quality, generation accuracy, and end-to-end performance.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) in Large Language Models (LLMs), focusing on comprehensive Chinese contextual understanding and retrieval tasks.
 
-- **Task Coverage**: Includes **Create**, **Read**, **Update**, and **Delete (CRUD)** operations to assess RAG capabilities across dynamic knowledge scenarios, simulating real-world data manipulation and retrieval challenges.
+- **Evaluation Scope**: Covers four core RAG operations—**C**reate, **R**etrieve, **U**pdate, and **D**elete—assessing LLMs' dynamic interaction with external knowledge bases and real-time data manipulation.
 
-- **Evaluation Framework**: Implements standardized Chinese-language datasets and metrics to benchmark LLMs' ability to integrate retrieved context, handle ambiguity, and maintain factual consistency in generation tasks.
+- **Technical Implementation**: Provides a Python-based framework with standardized datasets, metrics, and evaluation protocols to benchmark RAG performance across diverse Chinese linguistic and domain-specific scenarios.
 
 ## Why It Matters
 

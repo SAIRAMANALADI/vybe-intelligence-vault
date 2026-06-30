@@ -12,8 +12,9 @@ resource_kind: prompt
 importance: medium
 tags:
 - agents
+- anthropic
 - github-repo
-- scripts
+- openai
 - typescript
 selection_reason:
 - Active open-source repository
@@ -31,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-source AI coding agent**: Continue is a TypeScript-based autonomous coding agent designed to assist developers with code generation, debugging, and optimization via natural language prompts.
+- **Open-source AI coding agent** implemented in TypeScript, enabling autonomous or semi-autonomous code generation, refactoring, and debugging via natural language prompts.
 
-- **CLI and IDE integration**: Supports seamless integration with popular IDEs (VS Code, JetBrains) and provides a command-line interface for autonomous code execution and task automation.
+- **CLI-based interface** with extensible architecture, supporting integration with multiple LLM providers (e.g., OpenAI, Anthropic) and custom model configurations.
 
-- **Extensible architecture**: Modular design allows customization via plugins, enabling integration with pro
+- **Developer tooling integration** via plugins (e.g., VS Code, JetBrains) for real-time context-aware assistance, repository-level analysis, and multi-file m
 
 ## Use Cases
 

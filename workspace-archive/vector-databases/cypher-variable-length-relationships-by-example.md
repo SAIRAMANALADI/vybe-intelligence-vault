@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Variable-length relationships in Cypher** are defined using the `*n..m` syntax, where `n` is the minimum and `m` the maximum path length (e.g., `-[:KNOWS*2..3]->` matches paths with 2 or 3 `KNOWS` relationships).
+- **Variable-length relationship syntax** in Cypher allows pattern matching with dynamic path lengths using `*min..max` notation (e.g., `-[:KNOWS*2..3]->` for 2-3 hops), enabling flexible traversal depth control in graph queries.
 
-- **Zero-length paths** (`*0`) allow binding a node to itself, enabling unified result handling (e.g., `()-[:REL*0..1]->(post)` includes nodes with/without outgoing `REL` relationships).
+- **Zero-length paths** (`*0`) bind a node to itself, useful for unifying results (e.g., matching blog posts regardless of `PREVIOUS_POST` existence) without `OPTIONAL MATCH` complexity.
 
-- **Performance considerations** require explicit length limits (e.g., `-[:KNOWS*..5]->`) to a
+- **Performance considerations** mandate explicit length limits (e.g., `-[:KNOWS*
 
 ## Use Cases
 

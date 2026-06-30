@@ -2,7 +2,7 @@
 title: LlamaIndex · GitHub
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://github.com/run-llama
+source_url: https://github.com/run-llama/
 resource_id: blog:llamaindex-github
 local_vault_path: ai/rag/llamaindex-github.md
 quality_score: 70
@@ -12,10 +12,10 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
-- scripts
 - web-crawled
 - workflows
 - youtube
@@ -35,11 +35,14 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` for document workflows, with platform documentation available at [developers.llamaindex.ai](https://developers.llamaindex.ai/python/cloud/).
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for advanced document processing and structured data extraction, with platform documentation available for integration.
 
-- **Open-Source Tooling**: Includes `LiteParse` (lightweight OCR), `LlamaAgents` (workflow automation), and `LlamaIndex` (Python framework) with respective docs linked in the repository.
+- **Open-Source Tooling**:
+  - `LiteParse` for lightweight OCR parsing.
+  - `LlamaAgents` for agent-based workflow orchestration.
+  - Core `LlamaIndex` Python library for document indexing and retrieval, with full documentation.
 
-- **Community & Support**: Maintains active presence on X (Twitter), LinkedIn, and Yo
+- **Community & Support**: Active presence on X (Twitter),
 
 ## Use Cases
 
@@ -49,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/run-llama
+Original source URL: https://github.com/run-llama/
 
 ## Local Vault File
 

@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store with embeddings, and an LLM generator conditioned on retrieved context; optional rerankers, query rewriting, caching, and orchestration layers enhance precision and efficiency.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to ground responses in external, up-to-date knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
 
-- **Chunking & Embeddings Optimization**: Uses structure-aware or semantic chunking (with overlap) to preserve coherence; embeddings require domain-specific fine-tuning, dimensionality normalization (cosine similarity), and hybrid retrieval (BM2
+- **Key Components**: Includes chunking strategies (semantic/structure-aware), hybrid retrieval (BM25 + vector), cross-encoder reranking, query rewriting, and context distillation to optimize retrieval precision and generation quality.
+
+- **Operational Challenges**:
 
 ## Use Cases
 

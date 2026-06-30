@@ -2,14 +2,14 @@
 title: Android Mobile App Developer Tools - Android Developers
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://developer.android.com
+source_url: https://developer.android.com/index.html
 resource_id: blog:android-mobile-app-developer-tools-android-develop
 local_vault_path: ai/rag/android-mobile-app-developer-tools-android-develop.md
 quality_score: 70
-archive_score: 80
+archive_score: 70
 archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - producthunt
@@ -26,16 +26,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 70 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to enhance developer monetization, with details available in the [Q3 updates blog](http://goo.gle/playdev-q3-updates) and a [dedicated video](https://www.youtube.com/watch?v=hcvvo6Sag0Q).
+- **Google Play Billing Updates**: Google Play introduced expanded billing flexibility, reduced fees, and new programs to support developers, as detailed in the Q3 2026 updates ([watch](https://www.youtube.com/watch?v=hcvvo6Sag0Q), [read](http://goo.gle/playdev-q3-updates)).
 
-- **Android 17 & API 37**: Android 17 is officially released with AOSP source code available and rolling out to Pixel devices; developers must prepare for key updates via the [Android 17 blog]
+- **Android 17 & XR Platform**: Android 17 (API 37) is now available on AOSP with Pixel rollouts, while Android XR expands engine support and resources for immersive app development ([XR](http://android-developers.googleblo
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://developer.android.com
+Original source URL: https://developer.android.com/index.html
 
 ## Local Vault File
 

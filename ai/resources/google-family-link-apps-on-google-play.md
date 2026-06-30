@@ -4,18 +4,19 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&referrer=utm_source%3Dplayhelpcenter
-published_at: '2026-07-01T01:56:04.637559+05:30'
-collected_at: '2026-07-01T01:56:04.637572+05:30'
+published_at: '2026-07-01T04:18:18.874738+05:30'
+collected_at: '2026-07-01T04:18:18.874752+05:30'
 tags:
+- frontend_ui
 - hackernews
 - reddit
 - web-crawled
 - youtube
 status: active
 resource_id: blog:google-family-link-apps-on-google-play
-first_seen: '2026-07-01T01:56:04.637572+05:30'
-last_seen: '2026-07-01T01:56:04.637572+05:30'
-last_checked: '2026-07-01T01:56:04.637572+05:30'
+first_seen: '2026-07-01T04:18:18.874752+05:30'
+last_seen: '2026-07-01T04:18:18.874752+05:30'
+last_checked: '2026-07-01T04:18:18.874752+05:30'
 health_score: 100
 ---
 
@@ -23,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Parental Control Framework**: Google Family Link enables granular parental controls, including screen time limits, app management (blocking/unblocking, time restrictions), and content filtering across Google services (Chrome, Play, YouTube, Search) via supervised accounts.
+- **Parental Controls & Monitoring**: Google Family Link enables granular parental controls, including screen time limits, app-specific usage restrictions, and content filtering across Google services (Chrome, Play Store, YouTube, Search). It supports supervised Google accounts, allowing parents to manage privacy settings, reset passwords, and enforce digital ground rules.
 
-- **Location & Alert System**: Provides real-time location tracking and geofencing alerts (arrival/departure notifications), though user reviews highlight inconsistencies in accuracy and notification delays.
+- **Location Tracking & Alerts**: The app provides real-time location tracking for supervised devices, with geofencing capabilities to alert parents when a child arrives/leaves designated locations. Critical notifications include device battery status and remote device ringing.
 
-- **Data Handling & Limitations**: No third-party data sharing, but collects personal/financial data; location tracking requires active device connectivity, and updates may disrupt prior functionality (e.g., delayed notifications).
+- **Data Handling & Limitations**: Family Link encrypts data in transit, allows user-requested data deletion, and restricts third-party data sharing. However, it lacks approval for app updates (even those expanding permissions), and purchase approvals only apply to Google Play billing, not alternate payment systems. Compatibility varies by device.
 
 ## Why It Matters
 
@@ -37,10 +38,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-07-01T01:56:04.637559+05:30
+- Published: 2026-07-01T04:18:18.874738+05:30
 
 ## Related Tags
 
+- frontend_ui
 - hackernews
 - reddit
 - web-crawled

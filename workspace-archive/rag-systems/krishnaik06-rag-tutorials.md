@@ -15,7 +15,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -34,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) techniques, with 358 stars and 329 forks.
-- **Technical Stack**: Primarily utilizes Python-based Jupyter Notebooks for implementing and demonstrating RAG workflows.
-- **Last Activity**: Last updated on June 30, 2026, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository containing Jupyter Notebooks focused on Retrieval-Augmented Generation (RAG) tutorials, with 358 stars and 329 forks.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks for educational content on RAG methodologies.
+- **Update Status**: Last updated on **2026-06-30T20:16:26Z**, indicating recent maintenance or additions.
 
 ## Use Cases
 

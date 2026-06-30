@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Agent Mode** enables multi-stage, project-spanning task automation (e.g., unit test generation, UI alterations, error fixes) with iterative execution plans and real-time code review/acceptance workflows.
+- **Agentic AI Integration**: Android Studio integrates **Gemini** as an agentic AI assistant for end-to-end development workflows, enabling multi-stage task automation (e.g., unit test generation, UI refactoring, crash analysis) with iterative feedback loops and execution plans across project files.
 
-- **Multimodal UI Prototyping** allows direct conversion of wireframe images or screenshots into functional Compose code, accelerating modern UI development and debugging.
-
-- **Enterprise-grade privacy controls** via `.aiexclude` file configuration ensure selective data exclusion, while pai
+- **Multimodal & Context-Aware Features**: Supports **image-based UI prototyping** (converting wireframes to code), **file/multimodal attachments**, and **context-aware code generation** (e.g., Com
 
 ## Use Cases
 

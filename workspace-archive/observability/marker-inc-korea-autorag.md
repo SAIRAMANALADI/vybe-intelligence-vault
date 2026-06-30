@@ -14,7 +14,6 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
@@ -37,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style RAG Optimization**: AutoRAG automates the evaluation and optimization of Retrieval-Augmented Generation (RAG) pipelines using machine learning techniques, reducing manual tuning and improving performance across metrics like answer correctness, context relevance, and latency.
+- **AutoML-driven RAG optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for RAG systems using a black-box optimization approach (e.g., Bayesian optimization, TPE, or genetic algorithms).
 
-- **Comprehensive RAG Pipeline Support**: The framework integrates document parsing, embedding generation, retrieval, and generation components, with built-in support for multiple LLMs, embeddings, and retr
+- **Comprehensive evaluation framework**: Provides built-in metrics (e.g., answer correctness, context relevance, latency) and supports custom benchmarks for assessing RAG performance across datasets like MS MARCO, TriviaQA, or domain-specific corpora.
+
+-
 
 ## Use Cases
 

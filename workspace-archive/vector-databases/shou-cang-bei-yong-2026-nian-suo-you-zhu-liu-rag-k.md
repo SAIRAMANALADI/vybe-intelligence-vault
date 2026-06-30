@@ -6,7 +6,7 @@ source_url: https://jishuzhan.net/article/2058094728054935554
 resource_id: blog:shou-cang-bei-yong-2026-nian-suo-you-zhu-liu-rag-k
 local_vault_path: ai/rag/shou-cang-bei-yong-2026-nian-suo-you-zhu-liu-rag-k.md
 quality_score: 70
-archive_score: 76
+archive_score: 78
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 76 (useful)
+- Quality score: 70 | Archive score: 78 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,9 @@ selection_reason:
 
 ## Summary
 
-- **核心RAG框架**：LangChain（700+集成，多Agent工作流）、LlamaIndex（数据特化型RAG，结构化查询）、Haystack 2.x（模块化架构，生产级流水线）、RAGFlow（可视化工作流，融合RAG+Agent）
-- **向量数据库**：Milvus（云原生架构，存储计算分离，十亿级向量）、Qdrant（点积/余弦/欧氏距离，动态索引，亿级规模）、Weaviate（语义搜索，图结构集成，自动分片）
-- **嵌入模型**：BGE-M3（多粒度，多任务，中文优化）、E5（检索优先，长文本支持）、all-MiniLM-L6-v2（轻量级，速度快，MIT协议）
+- **核心RAG框架**：LangChain（700+集成，动态检索链路）、LlamaIndex（结构化查询）、Haystack 2.x（模块化生产级流水线）、RAGFlow（可视化工作流，多模态支持）。
+- **向量数据库**：Milvus（云原生，10亿+向量）、Qdrant（动态索引，亿级规模）、Weaviate（语义搜索，图结构集成）、FAISS（高性能GPU加速）。
+- **Agentic RAG**：LangGraph（状态管理，多Agent协作）、Youtu-RAG（长期记忆，跨会话关联）、MetaGPT（团队协作，角色分配）。
 
 ## Use Cases
 

@@ -8,10 +8,11 @@ local_vault_path: ai/rag/langchain-blog.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: template
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- benchmark
 - rag
 - web-crawled
 - workflows
@@ -27,18 +28,18 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: template
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-- **Dynamic Subagents in Deep Agents**: Introduces a framework for dynamically spawning specialized subagents within Deep Agents, enabling hierarchical task decomposition and adaptive agent architectures for complex workflows.
+- **Untrusted Agent Execution**: Proposes a framework for executing untrusted agent code without traditional sandboxing, leveraging deterministic execution traces and cryptographic verification to ensure safety and integrity.
 
-- **LangSmith Engine**: A new execution engine in LangSmith that standardizes agentic workflows, enabling deterministic, reproducible, and observable agent behavior with built-in sandboxing and resource constraints.
+- **Dynamic Subagents in Deep Agents**: Introduces a mechanism for dynamically spawning subagents within Deep Agents, enabling hierarchical task decomposition and adaptive agent architectures for complex workflows.
 
-- **Prompt Caching in Deep Agents**: Implements a promp
+- **LangSmith Engine for Agent Observability**: Details t
 
 ## Use Cases
 

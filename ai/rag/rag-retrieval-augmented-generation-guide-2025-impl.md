@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tensorblue.com/blog/rag-retrieval-augmented-generation-implementation-guide-2025
-published_at: '2026-07-01T01:50:52.837854+05:30'
-collected_at: '2026-07-01T01:50:52.837868+05:30'
+published_at: '2026-07-01T04:11:50.078752+05:30'
+collected_at: '2026-07-01T04:11:50.078765+05:30'
 tags:
 - anthropic
 - hackernews
@@ -15,11 +15,12 @@ tags:
 - openai
 - rag
 - web-crawled
+- workflows
 status: active
 resource_id: blog:rag-retrieval-augmented-generation-guide-2025-impl
-first_seen: '2026-07-01T01:50:52.837868+05:30'
-last_seen: '2026-07-01T01:50:52.837868+05:30'
-last_checked: '2026-07-01T01:50:52.837868+05:30'
+first_seen: '2026-07-01T04:11:50.078765+05:30'
+last_seen: '2026-07-01T04:11:50.078765+05:30'
+last_checked: '2026-07-01T04:11:50.078765+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) to dynamically retrieve and ground LLM responses in external knowledge, reducing hallucinations by ~80% and improving accuracy from 70% to 95%+.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for scalable, low-latency retrieval; retrieval strategies include semantic search, hybrid search (vector + BM25), and re-ranking (cross-encoder models like `ms-marco-MiniLM`).
 
-- **Advanced Techniques**: Implements hierarchical retrieval, query expansion (20-30% recall improvement), hybrid search (dense + sparse vectors), re-ranking (15-25% precision gain), and adaptive retrieval (Self-RAG) to optimize context relevance and minimize noise.
+- **Implementation Workflow**: Documents are split into 200-500 token chunks, embedded, and stored in a vector DB; retrieval uses `k=5` nearest neighbors, with retrieved context injected into prompts for LLM generation (e.g., GPT-4), reducing hallucinations from 30% to <5% while cutting costs by 10-50x vs fine-tuning.
 
-- **Production Metrics**: Achieves sub-2s latency, $0.02-0.10/query cost at scale, and 90-95% accuracy in case studies (e.g., legal Q&A: 92% accuracy, 2.5s response time; customer support: 78% automated resolution, 62% cost reduction), outperforming fine-tuning in cost and real-time updates.
+- **Advanced Techniques & Trade-offs**: Hierarchical retrieval and query expansion improve recall by 20-30%; self-RAG enables adaptive retrieval; production systems require <2s latency, caching (30-40% hit rate), and monitoring for retrieval quality, with costs ranging from $0.02-0.10/query at scale.
 
 ## Why It Matters
 
@@ -41,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:50:52.837854+05:30
+- Published: 2026-07-01T04:11:50.078752+05:30
 
 ## Related Tags
 
@@ -52,6 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - rag
 - web-crawled
+- workflows
 
 ## Source
 

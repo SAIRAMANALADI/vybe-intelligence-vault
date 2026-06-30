@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
+- hackernews
 - meta-ai
 - models
 - rag
@@ -36,11 +37,14 @@ selection_reason:
 
 ## Summary
 
-- **LlamaParse** provides **state-of-the-art (SOTA) agentic OCR** for document processing, enabling high-accuracy extraction and parsing in workflows and agent-based systems.
+- **LlamaParse Cloud Services**: Provides SOTA agentic OCR via `Parse` and `Extract` APIs for advanced document processing and structured data extraction, with platform documentation available for integration.
 
-- **Cloud-based tools** include **Parse** (document parsing), **Extract** (structured data extraction), and **Platform Documentation** for API integration and deployment.
+- **Open-Source Tooling**:
+  - `LiteParse` for lightweight OCR parsing.
+  - `LlamaAgents` for agent-based workflow orchestration.
+  - Core `LlamaIndex` Python library for document indexing and retrieval, with full documentation.
 
-- **Open-source offerings** feature **LiteParse** (lightweight parsing), **LlamaAgents** (agentic workflows), and **LlamaIndex (Python)** (core indexing
+- **Community & Support**: Active presence on X (Twitter),
 
 ## Use Cases
 

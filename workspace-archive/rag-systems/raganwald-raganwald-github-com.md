@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Jekyll-based repository serving as the source for `raganwald.com`, a static website.
-- **Minimal Metadata**: No specified topics, 30 stars, and 60 forks, indicating limited community engagement.
-- **Last Commit**: Updated on 2026-06-28, with the site built using HTML.
+- **Static Site Generator**: Jekyll-based repository generating a static website hosted on GitHub Pages (`raganwald.github.io`).
+- **Minimal Structure**: Contains only HTML files with no additional assets or configuration beyond Jekyll defaults.
+- **Outdated Metadata**: Last commit timestamp (`2026-06-28`) suggests potential future-dated or placeholder data.
 
 ## Use Cases
 

@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, environment management, and Jupyter Notebook support for Python in VS Code.
+- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, and environment management for Python in VS Code, supporting all actively maintained Python versions.
 
-- **Extensibility & Dependencies**: Automatically installs optional extensions (Pylance, Python Debugger, Python Environments) for enhanced functionality; supports custom formatters/linters and integrates with `vscode.dev` for partial IntelliSense.
+- **Extensibility & Dependencies**: Automatically installs optional extensions (Pylance, Python Debugger, Python Environments) for enhanced functionality, with support for third-party formatters/linters and Jupyter notebook integration.
 
-- **Environment & Workflow**: Manages
+- **Environment & Workfl
 
 ## Use Cases
 

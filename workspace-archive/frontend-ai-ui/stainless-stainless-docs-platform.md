@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic, Synchronized API Documentation**: REST API, SDK, and narrative docs stay automatically synchronized with the actual API, leveraging Astro for customization and cross-platform deployment.
+- **Dynamic API Documentation Sync**: REST API, SDK, and narrative docs automatically synchronize with the actual API, ensuring consistency across all documentation layers.
 
-- **AI-Agent & Developer-Optimized Features**: Supports AI-powered hybrid search, integration with AI tools (e.g., `llms.txt`), and minimal client-side JS for performance, alongside SEO/search optimization and light/dark modes.
+- **Astro-Based Customization**: Built on Astro for high-performance, customizable, and deployable documentation sites with minimal client-side JavaScript and support for SEO/search optimization.
 
-- **Extensible & Customizable Architecture**: Built on Astro with Type
+- **AI & Developer-Centric Features**: Supports AI-powered hybrid search, integration with AI tools, and customizable themes (lig
 
 ## Use Cases
 

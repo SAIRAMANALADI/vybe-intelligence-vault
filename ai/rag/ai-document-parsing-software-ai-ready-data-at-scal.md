@@ -3,9 +3,9 @@ title: 'AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex'
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
-published_at: '2026-06-30T10:11:30.396361+05:30'
-collected_at: '2026-06-30T10:11:30.396373+05:30'
+source_url: https://www.llamaindex.ai/llamaparse
+published_at: '2026-07-01T04:18:10.356951+05:30'
+collected_at: '2026-07-01T04:18:10.356966+05:30'
 tags:
 - benchmark
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
-first_seen: '2026-06-30T10:11:30.396373+05:30'
-last_seen: '2026-06-30T10:11:30.396373+05:30'
-last_checked: '2026-06-30T10:11:30.396373+05:30'
+first_seen: '2026-07-01T04:18:10.356966+05:30'
+last_seen: '2026-07-01T04:18:10.356966+05:30'
+last_checked: '2026-07-01T04:18:10.356966+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately extract structured data from complex documents, including headers, footers, split sections, tables, charts, and handwritten content.
+- **High-accuracy parsing engine** supporting 90+ formats with layout-aware processing for headers, footers, and split sections, plus multimodal extraction from charts, tables, and images.
 
-- **Multimodal & multilingual support**: Processes 90+ formats (PDFs, scans, invoices, etc.) with granular control over parsing modes, while supporting 100+ languages for global enterprise use cases.
+- **Granular parsing modes** enabling configurable trade-offs between cost and accuracy, with multilingual support for 100+ languages and enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
 
-- **Scalable & enterprise-ready**: Handles millions of pages with high concurrency, supports local/cloud deployment, and integrates with LlamaIndex for downstream AI/ML workflows.
+- **Workflow-optimized** for complex document types (invoices, insurance claims, healthcare forms) with SDKs (TypeScript/Python) and local/cloud deployment options for high concurrency and dedicated customer success.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T10:11:30.396361+05:30
+- Published: 2026-07-01T04:18:10.356951+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
+Original source: https://www.llamaindex.ai/llamaparse

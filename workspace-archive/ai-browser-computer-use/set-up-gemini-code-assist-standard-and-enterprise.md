@@ -3,7 +3,7 @@ title: Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Clo
   | Google Cloud Documentation
 archive_category: ai-browser-computer-use
 source_category: ai/agents
-source_url: https://cloud.google.com/gemini/docs/discover/set-up-gemini#purchase-subscription
+source_url: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise
 resource_id: blog:set-up-gemini-code-assist-standard-and-enterprise
 local_vault_path: ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md
 quality_score: 70
@@ -16,7 +16,6 @@ tags:
 - producthunt
 - reddit
 - web-crawled
-- workflows
 - youtube
 selection_reason:
 - Valuable developer reference
@@ -34,10 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Unified Platform Transition**: Google Cloud's Gemini Code Assist (Standard/Enterprise) is being deprecated in favor of **Antigravity**, a unified multi-agent platform with Antigravity CLI, effective June 18, 2026. Users must migrate to Antigravity for continued access to IDE extensions and CLI services.
+- **Deprecation & Migration**: Gemini Code Assist IDE extensions and CLI for individual tiers (Standard/Enterprise) are deprecated as of June 18, 2026, with users required to migrate to **Antigravity** and **Antigravity CLI** per [deprecation page](https://developers.google.com/gemini-code-assist/docs/deprecations/code-assist-individuals).
 
-- **Setup & Licensing Workflow**:
-  - **Admin Steps (1-4)**: Purchase subscription via **Admin for Gemini** page, assign licenses (auto/manual), enable **Gemini for Google Cloud API** (`clou
+- **Subscription & License Management**: Admin must purchase a subscription (Standard/Enterprise) via **Admin for Gemini** console, assign licenses (auto/man
 
 ## Use Cases
 
@@ -47,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://cloud.google.com/gemini/docs/discover/set-up-gemini#purchase-subscription
+Original source URL: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise
 
 ## Local Vault File
 

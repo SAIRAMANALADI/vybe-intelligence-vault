@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.llamaindex.ai/
-published_at: '2026-06-30T22:51:12.979850+05:30'
-collected_at: '2026-06-30T22:51:12.979862+05:30'
+published_at: '2026-07-01T04:14:56.462316+05:30'
+collected_at: '2026-07-01T04:14:56.462329+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:llamaindex-ai-agents-for-document-ocr-workflows
-first_seen: '2026-06-30T22:51:12.979862+05:30'
-last_seen: '2026-06-30T22:51:12.979862+05:30'
-last_checked: '2026-06-30T22:51:12.979862+05:30'
+first_seen: '2026-07-01T04:14:56.462329+05:30'
+last_seen: '2026-07-01T04:14:56.462329+05:30'
+last_checked: '2026-07-01T04:14:56.462329+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic OCR Pipeline**: LlamaParse employs a Vision-Language Model (VLM)-powered agentic stack for layout-aware document parsing, featuring task-specific agents for text, charts, tables, and handwritten content, with auto-correction loops for recursive error detection and correction.
+- **Agentic OCR Pipeline**: LlamaParse employs Vision-Language Model (VLM)-powered agents for layout-aware document parsing, combining agentic understanding, specialized experts (e.g., text, charts, tables), and auto-correction loops to achieve high accuracy on complex, multi-modal documents.
 
-- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-driven structured extraction without training, achieving industry-best parsing accuracy across 50+ unstructured file types, demonstrated by superior benchmark performance in overall, charts, and tables metrics compared to VLM, commercial IDP, and open-source OCR solutions.
+- **Structured Extraction & Benchmark Performance**: Supports schema-based, LLM-driven extraction of unstructured content (e.g., handwritten text, tables, charts) with industry-leading performance, outperforming proprietary VLM, commercial IDP, and open-source OCR baselines in overall parsing, table, and chart extraction benchmarks.
 
-- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1,000 pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible cloud or VPC deployment, and dedicated SLAs for mission-critical AI workloads, with open-source LiteParse for local, fast document parsing.
+- **Enterprise-Grade Features**: Offers 10,000 free credits/month (~1,000 pages), 99.9% uptime, HIPAA/GDPR/SOC2 compliance, flexible deployment (cloud or VPC), and dedicated SLAs—optimized for scalable, secure, and mission-critical document automation workflows.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-30T22:51:12.979850+05:30
+- Published: 2026-07-01T04:14:56.462316+05:30
 
 ## Related Tags
 

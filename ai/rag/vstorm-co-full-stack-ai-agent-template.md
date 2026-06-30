@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-07-01T01:51:10.282495+05:30'
+collected_at: '2026-07-01T04:12:05.820424+05:30'
 published_at: '2026-06-30T19:07:34Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - python
 - rag
-- workflows
 stars: 1480
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-06-30T13:26:31Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-07-01T01:51:10.282495+05:30'
-last_seen: '2026-07-01T01:51:10.282495+05:30'
-last_checked: '2026-07-01T01:51:10.282495+05:30'
+first_seen: '2026-07-01T04:12:05.820424+05:30'
+last_seen: '2026-07-01T04:12:05.820424+05:30'
+last_checked: '2026-07-01T04:12:05.820424+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker containerization for deployment.
+- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for data persistence, and Docker for containerization.
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, real-time streaming via WebSocket, and 20+ third-party integrations.
+- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, real-time streaming via WebSocket, and 20+ third-party tool integrations.
 
-- **Features**: Built-in authentication, Pydantic models for data validation, and modular architecture supporting LLM inference, agent workflows, and scalable AI agent deployment.
+- **Features**: Built-in authentication, Pydantic models (Deep/Standard), and modular architecture for rapid deployment of AI agents with production-grade scalability.
 
 ## Why It Matters
 

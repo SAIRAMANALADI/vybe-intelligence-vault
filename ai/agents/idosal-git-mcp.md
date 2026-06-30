@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-07-01T01:52:45.354264+05:30'
-published_at: '2026-06-30T15:21:07Z'
+collected_at: '2026-07-01T04:13:40.884390+05:30'
+published_at: '2026-06-30T20:30:55Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
-- workflows
-stars: 8218
+stars: 8219
 language: TypeScript
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-07-01T01:52:45.354264+05:30'
-last_seen: '2026-07-01T01:52:45.354264+05:30'
-last_checked: '2026-07-01T01:52:45.354264+05:30'
+first_seen: '2026-07-01T04:13:40.884390+05:30'
+last_seen: '2026-07-01T04:13:40.884390+05:30'
+last_checked: '2026-07-01T04:13:40.884390+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: GitMCP is an open-source TypeScript-based remote MCP (Model Context Protocol) server designed to mitigate "code hallucinations" by providing accurate, real-time GitHub repository context to AI agents.
-
-- **Functionality**: Acts as a bridge between AI agents (e.g., Claude, Copilot, Cursor) and GitHub projects, enabling direct, structured access to repositories via MCP for enhanced code generation and debugging.
-
-- **Integration**: Supports agentic workflows by exposing GitHub project data (e.g., files, commits, issues) through a standardized MCP interface, reducing dependency on potentially outdated or hallucinated data.
+- **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
+- **Technical Stack**: Implemented in TypeScript, it enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP protocol for repository interaction.
+- **Features**: Supports real-time Git operations (e.g., cloning, diffing, file access) and exposes a standardized interface for AI-driven code analysis and generation.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: idosal
-- Stars: 8218
+- Stars: 8219
 - Forks: 726
 - Language: TypeScript
 - Topics: agentic-ai, agents, ai, claude, copilot, cursor, git, llm, mcp
-- Last Updated: 2026-06-30T15:21:07Z
+- Last Updated: 2026-06-30T20:30:55Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-03-29T00:44:19Z

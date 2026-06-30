@@ -8,7 +8,7 @@ local_vault_path: ai/agents/langchain-ai-open-swe.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: framework
+resource_kind: workflow
 importance: medium
 tags:
 - agents
@@ -18,7 +18,7 @@ tags:
 - python
 - workflows
 selection_reason:
-- Useful for project building
+- Active open-source repository
 ---
 
 # langchain-ai/open-swe
@@ -27,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: framework
+- Resource kind: workflow
 - Selection reasons:
-  - Useful for project building
+  - Active open-source repository
 
 ## Summary
 
-- **Asynchronous Coding Agent**: Open-SWE is an open-source framework designed for asynchronous execution of coding tasks, enabling parallel processing and efficient task management in AI-driven development workflows.
-
-- **Multi-LLM & Provider Support**: The repository integrates with multiple large language models (LLMs) and providers (e.g., OpenAI, Anthropic) via standardized APIs, facilitating cross-platform compatibility for agent-based coding solutions.
-
-- **Scalable Agent Architecture**: I
+- **Asynchronous Coding Agent**: Implements an asynchronous, event-driven architecture for concurrent task execution using Python's `asyncio`, enabling non-blocking LLM interactions and tool usage.
+- **Multi-Provider LLM Integration**: Supports asynchronous calls to OpenAI, Anthropic (ClaudeCode), and other LLM providers via standardized interfaces, optimizing throughput for parallelized workflows.
+- **Tool & Workflow Orchestration**: Features a modular tooling system with async-compatible inter
 
 ## Use Cases
 

@@ -2,16 +2,17 @@
 title: Privacy Policy – Privacy & Terms – Google
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+source_url: https://policies.google.com/privacy
 resource_id: blog:privacy-policy-privacy-terms-google
 local_vault_path: ai/rag/privacy-policy-privacy-terms-google.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
 - agents
+- dataset
 - hackernews
 - models
 - paper
@@ -30,15 +31,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Valuable developer reference
 
 ## Summary
 
-- **Data Collection Scope**: Google collects user data across services (e.g., Search, YouTube, Chrome) via account-linked and anonymized identifiers (IP, device, browser), including content (emails, files), activity logs (searches, interactions), and location data (GPS, Wi-Fi, IP) for personalization and ads.
+- **Data Collection Scope**: Google aggregates data across services (e.g., Search, YouTube, Chrome) including account-linked personal info (emails, photos), device identifiers (IP, unique IDs), and activity logs (searches, watch history, location via GPS/Wi-Fi/cell towers) to personalize content and ads.
 
-- **Account vs. Non-Account Data**: Signed-in users’ data is tied to their Google Account (treated as personal info), while non-signed-in users’ data is stored with unique identifiers tied
+- **Cross-Platform Tracking**: Non-account data is tied to browser/device identifiers (e.g., Chrome Incognito mode), enabling cross-session personalization (language, ad relevance) without acco
 
 ## Use Cases
 
@@ -48,7 +49,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true
+Original source URL: https://policies.google.com/privacy
 
 ## Local Vault File
 

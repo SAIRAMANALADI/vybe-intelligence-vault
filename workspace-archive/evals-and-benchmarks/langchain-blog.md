@@ -35,9 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Dynamic Subagents in Deep Agents**: Introduces a hierarchical agent architecture where subagents are dynamically spawned and terminated based on task complexity, enabling adaptive decomposition of multi-step workflows with runtime model selection for specialized subtasks.
+- **Untrusted Agent Execution**: Proposes a framework for executing untrusted agent code without traditional sandboxing, leveraging deterministic execution traces and cryptographic verification to ensure safety and integrity.
 
-- **LangSmith Engine**: A new evaluation framework for agentic systems that enforces deterministic execution traces, enabling precise cost/performance benchmarking and regression testing across heterogeneous agent architec
+- **Dynamic Subagents in Deep Agents**: Introduces a mechanism for dynamically spawning subagents within Deep Agents, enabling hierarchical task decomposition and adaptive agent architectures for complex workflows.
+
+- **LangSmith Engine for Agent Observability**: Details t
 
 ## Use Cases
 

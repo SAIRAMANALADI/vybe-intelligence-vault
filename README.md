@@ -33,17 +33,17 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
     <tr>
       <td align="center">
         <h3>🗄️ Core Storage</h3>
-        <p><b>Resources tracked:</b> 10,928</p>
-        <p><b>Active:</b> 10,635 | <b>Inactive:</b> 293</p>
+        <p><b>Resources tracked:</b> 10,941</p>
+        <p><b>Active:</b> 10,631 | <b>Inactive:</b> 310</p>
       </td>
       <td align="center">
         <h3>📂 Archives & Maps</h3>
-        <p><b>Archive Files:</b> 41,543</p>
+        <p><b>Archive Files:</b> 41,572</p>
         <p><b>Builder Maps:</b> 8</p>
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-07-01 03:47 IST</p>
+        <p><b>Last Update:</b> 2026-07-01 04:28 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,17 +55,29 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[The Medium Blog](ai/rag/the-medium-blog.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Take spatial photos and record spatial videos for Apple Vision Pro with your iPhone camera - Apple Support](ai/rag/take-spatial-photos-and-record-spatial-videos-for.md)** • Rank: <kbd>+1593</kbd>
+- 🔼 **[microsoft/pyright](ai/resources/microsoft-pyright.md)** • Rank: <kbd>+253</kbd>
+- 🔼 **[Editing Python in Visual Studio Code](ai/rag/editing-python-in-visual-studio-code.md)** • Rank: <kbd>+254</kbd>
+- 🔼 **[Find answers and ask questions in the Apple Support Community - Apple Support](ai/rag/find-answers-and-ask-questions-in-the-apple-suppor.md)** • Rank: <kbd>+1802</kbd>
+- 🔼 **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** • Rank: <kbd>+1591</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
+- 🆕 **[From brain waves to words: a new path to communication without surgery](ai/community/from-brain-waves-to-words-a-new-path-to-communicat.md)** • Score: `56`
+- 🆕 **[Ask HN: Since when does Craigslist's front page have emojis?](ai/community/ask-hn-since-when-does-craigslist-s-front-page-hav.md)** • Score: `5`
+- 🆕 **[Share what you know and get recognized - Apple Support](ai/resources/share-what-you-know-and-get-recognized-apple-suppo.md)** • Score: `0`
+- 🆕 **[Getting Started with Python in VS Code](ai/resources/getting-started-with-python-in-vs-code.md)** • Score: `0`
+- 🆕 **[Support - Documentation](ai/resources/support-documentation.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- None.
+- 💤 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)**
+- 💤 **[Antares achieves criticality of Mark-0 reactor](web-development/community/antares-achieves-criticality-of-mark-0-reactor.md)**
+- 💤 **[hasaneyldrm/exercises-dataset](ai/trending/hasaneyldrm-exercises-dataset.md)**
+- 💤 **[CoreBunch/Instatic](ai/trending/corebunch-instatic.md)**
+- 💤 **[microsoft/AI-For-Beginners](ai/trending/microsoft-ai-for-beginners.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

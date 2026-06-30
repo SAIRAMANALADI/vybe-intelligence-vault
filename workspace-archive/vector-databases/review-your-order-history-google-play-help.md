@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Order History Access**: Google Play order history is accessible via the Play Store app (`Payments & subscriptions > Budget & history`) or [play.google.com](https://play.google.com/store/account/orderhistory) (`Profile icon > Payments & subscriptions > Budget & Order history`), excluding non-Google Play transactions (e.g., Google Pay) which require [payments.google.com](https://payments.google.com/) (`Activity` or `Subscriptions & services`).
+- **Order History Access**: Google Play order history is accessible via the Play Store app (`Payments & subscriptions` > `Budget & history`) or [play.google.com](https://play.google.com/store/account/orderhistory) (`Profile icon` > `Payments & subscriptions` > `Budget & Order history`), excluding non-Google Play transactions (e.g., Google Pay).
 
-- **Charge Timing**: Google Play charges appear i
+- **Cross-Platform Tracking**: Non-Google Play transactions (e.g., subscriptions, other Google services) require [payments.google.com](https://payments.
 
 ## Use Cases
 

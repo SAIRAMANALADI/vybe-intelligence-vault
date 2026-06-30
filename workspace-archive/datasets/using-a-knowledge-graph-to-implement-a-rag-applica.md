@@ -8,7 +8,7 @@ local_vault_path: ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -32,16 +32,18 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **GraphRAG Architecture**: Combines vector search (for semantic similarity) with graph search (for relational/structured queries) using Neo4j and LangChain, enabling LLMs to generate more accurate, explainable, and scalable responses by integrating structured knowledge graphs with unstructured text retrieval.
+- **GraphRAG Architecture**: Combines vector search (semantic similarity) with graph search (structured relationships) using Neo4j and LangChain, enabling explainable, scalable RAG pipelines that integrate structured and unstructured data.
 
-- **Core RAG Process**: Retrieval (embedding-based vector search), Augmentation (combining retrieved data with user input into an augmented prompt), and Generation (LLM response based on
+- **Core RAG Workflow**: Three-stage process—retrieval (embedding-based or structured filtering), augmentation (combining retrieved context with user query), and generation (LLM response grounded in retrieved data).
+
+- **Implementation Prerequisites**: Requir
 
 ## Use Cases
 

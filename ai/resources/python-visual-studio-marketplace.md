@@ -4,8 +4,8 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://marketplace.visualstudio.com/items?itemName=ms-python.python
-published_at: '2026-06-30T22:57:09.763776+05:30'
-collected_at: '2026-06-30T22:57:09.763789+05:30'
+published_at: '2026-07-01T04:24:00.218388+05:30'
+collected_at: '2026-07-01T04:24:00.218402+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:python-visual-studio-marketplace
-first_seen: '2026-06-30T22:57:09.763789+05:30'
-last_seen: '2026-06-30T22:57:09.763789+05:30'
-last_checked: '2026-06-30T22:57:09.763789+05:30'
+first_seen: '2026-07-01T04:24:00.218402+05:30'
+last_seen: '2026-07-01T04:24:00.218402+05:30'
+last_checked: '2026-07-01T04:24:00.218402+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, environment management, and Jupyter Notebook support for Python in VS Code.
+- **Core Features**: Provides IntelliSense (via Pylance), debugging (Python Debugger), linting, formatting, refactoring, unit testing, and environment management for Python in VS Code, supporting all actively maintained Python versions.
 
-- **Extensibility & Dependencies**: Automatically installs optional extensions (Pylance, Python Debugger, Python Environments) for enhanced functionality; supports custom formatters/linters and integrates with `vscode.dev` for partial IntelliSense.
+- **Extensibility & Dependencies**: Automatically installs optional extensions (Pylance, Python Debugger, Python Environments) for enhanced functionality, with support for third-party formatters/linters and Jupyter notebook integration.
 
-- **Environment & Workflow**: Manages Python environments (virtualenv, venv, conda, etc.) via the new Python Environments Extension; includes commands for interpreter selection, REPL, test configuration, and debugging.
+- **Environment & Workflow**: Introduces a dedicated Python Environments extension for managing virtual/conda/pyenv environments, with telemetry-enabled usage data collection and multi-language locale support.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T22:57:09.763776+05:30
+- Published: 2026-07-01T04:24:00.218388+05:30
 
 ## Related Tags
 

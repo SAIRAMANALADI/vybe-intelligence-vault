@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1895 resources matched in the intelligence vault.
+Active signals: 1891 resources matched in the intelligence vault.
 Recently detected signals:
+- [AI and Cloud Computing Services | Google Cloud](../ai/rag/ai-and-cloud-computing-services-google-cloud.md) (Source: Unknown Source) - Collected 2026-07-01
+- [Mojo](../ai/agents/mojo.md) (Source: Unknown Source) - Collected 2026-07-01
+- [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md) (Source: Unknown Source) - Collected 2026-07-01
 - [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md) (Source: Unknown Source) - Collected 2026-07-01
-- [Hugging Face · GitHub](../ai/agents/hugging-face-github.md) (Source: Unknown Source) - Collected 2026-07-01
-- [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) (Source: Unknown Source) - Collected 2026-07-01
-- [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md) (Source: Unknown Source) - Collected 2026-07-01
-- [run-llama/llama_index](../ai/rag/run-llama-llama-index.md) (Source: Unknown Source) - Collected 2026-07-01
+- [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md) (Source: Unknown Source) - Collected 2026-07-01
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -44,7 +44,7 @@ Recently detected signals:
 ### 3. [NVIDIA/workbench-example-agentic-rag](../ai/rag/nvidia-workbench-example-agentic-rag.md) ([GitHub](https://github.com/nvidia/workbench-example-agentic-rag))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic RAG Implementation**: Demonstrates an agentic RAG system leveraging NVIDIA AI Workbench for dynamic retrieval and generation workflows.
+- Description: - **Agentic RAG Implementation**: Demonstrates an autonomous RAG system leveraging NVIDIA AI Workbench, integrating agentic workflows for dynamic retrieval and generation.
 
 ### 4. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
 - Stars: 0
@@ -61,25 +61,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Purpose**: Provides a lightweight, high-performance template for rapidly deploying multi-agent applications with support for frameworks like AutoGen, CrewAI, LangChain, and HuggingFace Transfor...
 
-### 7. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
-- Stars: 0
-- Language: Unknown
-- Description: - **Trilingual Learning Roadmap**: Covers agentic AI from LLM fundamentals to multi-agent systems, with 240+ curated resources in Traditional Chinese, English, and Simplified Chinese, including han...
-
-### 8. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
+### 7. [google-gemini/gemini-fullstack-langgraph-quickstart](../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md) ([GitHub](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Demonstrates building full-stack agents using **Gemini 2.5** and **LangGraph** for agentic workflows.
 
-### 9. [panaversity/langgraph-agents-template](../ai/rag/panaversity-langgraph-agents-template.md) ([GitHub](https://github.com/panaversity/langgraph-agents-template))
+### 8. [panaversity/langgraph-agents-template](../ai/rag/panaversity-langgraph-agents-template.md) ([GitHub](https://github.com/panaversity/langgraph-agents-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Provides a starter template for constructing multi-agent systems using Python, leveraging LangGraph for orchestration.
 
-### 10. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
+### 9. [Denis2054/Context-Engineering-for-Multi-Agent-Systems](../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md) ([GitHub](https://github.com/denis2054/context-engineering-for-multi-agent-systems))
 - Stars: 0
 - Language: Unknown
 - Description: - **Universal MAS Blueprint**: Provides a production-ready, domain-agnostic framework for Multi-Agent Systems (MAS) using a high-level semantic orchestration engine, replacing rigid workflows with ...
+
+### 10. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+- Stars: 0
+- Language: Unknown
+- Description: - **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, with hands-on examples in Python, covering English, Traditional Chinese, and Simplified C...
 
 ### 11. [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md) ([GitHub](https://github.com/datarobot-community/datarobot-agent-templates))
 - Stars: 0
@@ -104,7 +104,7 @@ Recently detected signals:
 ### 15. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **FastAPI + LangGraph Integration**: Pre-configured FastAPI template with LangGraph for building scalable AI agent applications, featuring modular architecture and production-grade dependencies.
+- Description: - **Template Structure**: Provides a production-ready FastAPI framework with LangGraph integration for building scalable AI agent applications, including Docker support for containerization.
 
 ### 16. [langchain-ai/langgraph-swarm-py](../ai/rag/langchain-ai-langgraph-swarm-py.md) ([GitHub](https://github.com/langchain-ai/langgraph-swarm-py))
 - Stars: 0
@@ -159,22 +159,22 @@ Recently detected signals:
 ### 26. [jamwithai/production-agentic-rag-course](../ai/rag/jamwithai-production-agentic-rag-course.md) ([GitHub](https://github.com/jamwithai/production-agentic-rag-course))
 - Stars: 0
 - Language: Unknown
-- Description: - **Repository Overview**: GitHub repository `jamwithai/production-agentic-rag-course` focused on production-grade agentic Retrieval-Augmented Generation (RAG) systems, with 7,277 stars and 1,624 f...
+- Description: - **Course Focus**: Production-grade implementation of Agentic RAG (Retrieval-Augmented Generation) systems in Python, emphasizing scalable, real-world deployment.
 
 ### 27. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
 - Stars: 0
 - Language: Unknown
 - Description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task b...
 
-### 28. [transitive-bullshit/agentic](../ai/agents/transitive-bullshit-agentic.md) ([GitHub](https://github.com/transitive-bullshit/agentic))
-- Stars: 0
-- Language: Unknown
-- Description: - **TypeScript-based MCP Framework**: Open-source library (`agentic`) for converting APIs into paid MCP servers, enabling monetization of AI agent interactions via standardized Model Context Protoc...
-
-### 29. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
+### 28. [jim-schwoebel/awesome_ai_agents](../ai/rag/jim-schwoebel-awesome-ai-agents.md) ([GitHub](https://github.com/jim-schwoebel/awesome_ai_agents))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive AI Agent Resource Hub**: Curated list of 1,500+ tools, frameworks, and resources for AI agents, including agent-based modeling, multi-agent systems, and agentic workflows.
+
+### 29. [transitive-bullshit/agentic](../ai/agents/transitive-bullshit-agentic.md) ([GitHub](https://github.com/transitive-bullshit/agentic))
+- Stars: 0
+- Language: Unknown
+- Description: - **TypeScript-based MCP Framework**: Open-source library (`agentic`) for converting APIs into paid MCP servers, enabling monetization of AI agent interactions via standardized Model Context Protoc...
 
 ### 30. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
 - Stars: 0
@@ -186,20 +186,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Repository Overview**: Provides Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflow implementations and tools.
 
-### 32. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
-- Stars: 0
-- Language: Unknown
-- Description: - **Comprehensive GenAI Agent Development**: Provides end-to-end, code-first tutorials for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like...
-
-### 33. [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md) ([GitHub](https://github.com/vonzosten/awesome-langgraph))
+### 32. [vonzosten/awesome-LangGraph](../ai/agents/vonzosten-awesome-langgraph.md) ([GitHub](https://github.com/vonzosten/awesome-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive Ecosystem Index**: Curated collection of resources covering LangChain and LangGraph, including concepts, projects, tools, templates, and guides for building LLM and multi-agent ap...
 
-### 34. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
+### 33. [langchain-ai/rag-research-agent-template](../ai/rag/langchain-ai-rag-research-agent-template.md) ([GitHub](https://github.com/langchain-ai/rag-research-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic AI Coding Assistants**: Analyzes the architecture and workflow of autonomous AI coding agents, focusing on prompt reconstruction patterns, multi-agent coordination mechanisms, and hiera...
+- Description: - **Template Structure**: Provides a starter framework for building Retrieval-Augmented Generation (RAG) research agents using LangChain, optimized for Python-based LLM integration.
+
+### 34. [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md) ([GitHub](https://github.com/nirdiamant/genai_agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive Resource**: Repository containing 50+ tutorials and implementations for Generative AI Agent techniques, ranging from basic conversational bots to advanced multi-agent systems.
 
 ### 35. [kno2gether/crewai-examples](../ai/agents/kno2gether-crewai-examples.md) ([GitHub](https://github.com/kno2gether/crewai-examples))
 - Stars: 0
@@ -214,42 +214,42 @@ Recently detected signals:
 ### 37. [langgenius/dify](../ai/rag/langgenius-dify.md) ([GitHub](https://github.com/langgenius/dify))
 - Stars: 0
 - Language: Unknown
-- Description: - **Agentic Workflow Platform**: Open-source, production-ready framework (TypeScript/Python) for building, deploying, and orchestrating AI agents and multi-agent systems with low/no-code capabiliti...
+- Description: - **Agentic Workflow Platform**: Open-source, production-ready framework for building and deploying AI agents with orchestration, low-code/no-code tools, and support for LLM integrations (OpenAI, G...
 
 ### 38. [vstorm-co/full-stack-ai-agent-template](../ai/rag/vstorm-co-full-stack-ai-agent-template.md) ([GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template))
 - Stars: 0
 - Language: Unknown
-- Description: - **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL database, and Docker containerization for deployment.
+- Description: - **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, PostgreSQL for data persistence, and Docker for containerization.
 
-### 39. [viktoriasemaan/multi-agent](../ai/agents/viktoriasemaan-multi-agent.md) ([GitHub](https://github.com/viktoriasemaan/multi-agent))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Overview**: Contains Jupyter Notebook examples demonstrating AI multi-agent solutions, with 209 stars and 124 forks.
-
-### 40. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
+### 39. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
 - Stars: 0
 - Language: Unknown
 - Description: - **Comprehensive AI Agent Development Guide**: Repository provides a detailed technical guide for AI agent development, covering LangGraph, advanced RAG (Retrieval-Augmented Generation), multi-age...
 
-### 41. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
+### 40. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: This project leverages AI tools to automate the process of fetching code from a GitHub repository and generating comprehensive documentation for it.
 
-### 42. [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md) ([GitHub](https://github.com/crewaiinc/crewai-tools))
+### 41. [crewAIInc/crewAI-tools](../ai/agents/crewaiinc-crewai-tools.md) ([GitHub](https://github.com/crewaiinc/crewai-tools))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Extends CrewAI agent functionality via modular Python tools for enhanced AI agent capabilities.
 
-### 43. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
+### 42. [MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials](../ai/rag/marktechpost-ai-media-inc-ai-agents-projects-tutorials.md) ([GitHub](https://github.com/marktechpost-ai-media-inc/ai-agents-projects-tutorials))
 - Stars: 0
 - Language: Unknown
-- Description: - **Multi-Agent Systems**: Repository focuses on frameworks and tutorials for developing AI agents with collaborative capabilities, emphasizing agent interactions, task delegation, and coordination...
+- Description: - **Multi-Agent Systems**: Repository focuses on collaborative AI agents with skills in memory, planning, and reasoning loops for complex task execution.
 
-### 44. [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([GitHub](https://github.com/liangdabiao/easy_investment_agent_crewai))
+### 43. [liangdabiao/easy_investment_Agent_crewai](../ai/rag/liangdabiao-easy-investment-agent-crewai.md) ([GitHub](https://github.com/liangdabiao/easy_investment_agent_crewai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-agent A-share analysis system**: Implements 4 specialized AI agents (data collection, financial analysis, sentiment evaluation, decision synthesis) using CrewAI for collaborative A-share ...
+
+### 44. [NirDiamant/agents-towards-production](../ai/rag/nirdiamant-agents-towards-production.md) ([GitHub](https://github.com/nirdiamant/agents-towards-production))
+- Stars: 0
+- Language: Unknown
+- Description: - **Comprehensive Tutorials**: Provides end-to-end, code-first guides for building production-grade GenAI agents, covering prototyping to enterprise deployment with frameworks like LangGraph and MCP.
 
 ### 45. [microsoft/ai-agents-for-beginners](../ai/rag/microsoft-ai-agents-for-beginners.md) ([GitHub](https://github.com/microsoft/ai-agents-for-beginners))
 - Stars: 0
@@ -266,20 +266,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: - **Curated Open-Source Projects**: Repository aggregating community-built AI agent projects using CrewAI, enabling discovery and contribution.
 
-### 48. [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md) ([GitHub](https://github.com/langchain-ai/langgraphjs))
+### 48. [Leonxlnx/agentic-ai-prompt-research](../ai/agents/leonxlnx-agentic-ai-prompt-research.md) ([GitHub](https://github.com/leonxlnx/agentic-ai-prompt-research))
+- Stars: 0
+- Language: Unknown
+- Description: - **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI agents in coding tasks, emphasizing system prompts and agentic w...
+
+### 49. [langchain-ai/langgraphjs](../ai/rag/langchain-ai-langgraphjs.md) ([GitHub](https://github.com/langchain-ai/langgraphjs))
 - Stars: 0
 - Language: Unknown
 - Description: - **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph-based workflows, allowing complex agentic systems to be modeled as stateful graphs with nodes a...
 
-### 49. [denniszielke/agentic-playground](../ai/agents/denniszielke-agentic-playground.md) ([GitHub](https://github.com/denniszielke/agentic-playground))
+### 50. [denniszielke/agentic-playground](../ai/agents/denniszielke-agentic-playground.md) ([GitHub](https://github.com/denniszielke/agentic-playground))
 - Stars: 0
 - Language: Unknown
 - Description: This is an AI agent playground to demonstrate different agent orchestration patterns and capabilities
-
-### 50. [rominirani/autogen-experiments](../ai/agents/rominirani-autogen-experiments.md) ([GitHub](https://github.com/rominirani/autogen-experiments))
-- Stars: 0
-- Language: Unknown
-- Description: Experiments with Autogen Framework (https://github.com/microsoft/autogen)
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-07-01T02:05:45.842569+05:30.599812+05:30.296122+05:30.728023+05:30.592918+05:30.194483+05:30.502675+05:30.742124+05:30.975006+05:30.063023+05:30.425144+05:30.676715+05:30.151693+05:30.357180+05:30.431912+05:30.542133+05:30.174636+05:30.832869+05:30.558143+05:30.769616+05:30.218074+05:30.340716+05:30.314542+05:30.639505+05:30.858696+05:30.354223+05:30.828959+05:30.504812+05:30.534248+05:30.285570+05:30.737030+05:30.668747+05:30.104736+05:30.410581+05:30.384632+05:30.050602+05:30.366932+05:30.399836+05:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-07-01T04:26:41.553430+05:30.842569+05:30.599812+05:30.296122+05:30.728023+05:30.592918+05:30.194483+05:30.502675+05:30.742124+05:30.975006+05:30.063023+05:30.425144+05:30.676715+05:30.151693+05:30.357180+05:30.431912+05:30.542133+05:30.174636+05:30.832869+05:30.558143+05:30.769616+05:30.218074+05:30.340716+05:30.314542+05:30.639505+05:30.858696+05:30.354223+05:30.828959+05:30.504812+05:30.534248+05:30.285570+05:30.737030+05:30.668747+05:30.104736+05:30.410581+05:30.384632+05:30.050602+05:30.366932+05:30.399836+05:30.636405+05:30.915604+05:30.999625+05:30.236595+05:30.913096+05:30.042557+05:30.450675+05:30.783290+05:30.782425+05:30.083616+05:30.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.

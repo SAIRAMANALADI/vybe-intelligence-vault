@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-07-01T01:53:30.379058+05:30'
-published_at: '2026-06-28T22:10:26Z'
+collected_at: '2026-07-01T04:14:25.906154+05:30'
+published_at: '2026-06-30T22:08:10Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: CC0-1.0
 archived: false
 created_at: '2025-11-03T02:20:30Z'
-pushed_at: '2026-06-28T22:10:22Z'
+pushed_at: '2026-06-30T22:08:06Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-07-01T01:53:30.379058+05:30'
-last_seen: '2026-07-01T01:53:30.379058+05:30'
-last_checked: '2026-07-01T01:53:30.379058+05:30'
+first_seen: '2026-07-01T04:14:25.906154+05:30'
+last_seen: '2026-07-01T04:14:25.906154+05:30'
+last_checked: '2026-07-01T04:14:25.906154+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated repository** of voice AI agent frameworks, tools, and best practices, covering **STT (Speech-to-Text), TTS (Text-to-Speech), VAD (Voice Activity Detection), voice cloning, conversion, recognition, and synthesis**.
-- **Topics include** realtime chat, voice assistants, and agent frameworks, with last update on **2026-06-28**.
-- **Minimal activity** (34 stars, 15 forks) despite broad scope in voice AI technologies.
+- **Curated Resource**: Comprehensive list of frameworks, tools, and best practices for voice AI agents, covering speech-to-text (STT), text-to-speech (TTS), voice activity detection (VAD), voice cloning, conversion, recognition, and synthesis.
+- **Technical Scope**: Includes real-time chat integration, multi-modal voice agent development, and specialized topics like voice assistant optimization and agent orchestration.
+- **Maintenance**: Last updated June 30, 2026, with active community contributions (34 stars, 15 forks), ensuring relevance in evolving voice AI technologies.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 15
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
-- Last Updated: 2026-06-28T22:10:26Z
+- Last Updated: 2026-06-30T22:08:10Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2025-11-03T02:20:30Z
-- Pushed At: 2026-06-28T22:10:22Z
+- Pushed At: 2026-06-30T22:08:06Z
 
 ## Possible Use Cases
 

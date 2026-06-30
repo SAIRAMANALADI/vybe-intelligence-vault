@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/neuml/txtai
-collected_at: '2026-07-01T01:54:00.391121+05:30'
+collected_at: '2026-07-01T04:15:00.994048+05:30'
 published_at: '2026-06-30T14:33:25Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2020-08-09T19:14:59Z'
 pushed_at: '2026-06-22T17:06:32Z'
 resource_id: github:neuml/txtai
-first_seen: '2026-07-01T01:54:00.391121+05:30'
-last_seen: '2026-07-01T01:54:00.391121+05:30'
-last_checked: '2026-07-01T01:54:00.391121+05:30'
+first_seen: '2026-07-01T04:15:00.994048+05:30'
+last_seen: '2026-07-01T04:15:00.994048+05:30'
+last_checked: '2026-07-01T04:15:00.994048+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system.
-- **Core Components**: Supports embeddings, vector search, RAG, and transformer models with built-in agents for AI-driven tasks.
-- **Scalable Architecture**: Combines sentence embeddings, vector databases, and retrieval-augmented generation (RAG) for high-performance information retrieval.
+- **Unified AI Framework**: Integrates semantic search, LLM orchestration, and language model workflows into a single Python-based system, supporting agents, RAG, and vector search.
+
+- **Modular Components**: Leverages transformers, sentence embeddings, and vector databases for efficient information retrieval and NLP tasks.
+
+- **Scalable Architecture**: Designed for extensibility with support for custom workflows, embeddings, and integration with large language models (LLMs).
 
 ## Why It Matters
 

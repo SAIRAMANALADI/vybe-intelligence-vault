@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - rust
-status: active
+status: inactive
 resource_id: github:ogulcancelik/herdr
 first_seen: '2026-06-30T20:14:10.926750+05:30'
 last_seen: '2026-07-01T01:49:59.650008+05:30'
 last_checked: '2026-07-01T01:49:59.650008+05:30'
 health_score: 100
 ---
+
 
 # ogulcancelik/herdr
 

@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator
-collected_at: '2026-07-01T01:51:50.342233+05:30'
+collected_at: '2026-07-01T04:12:45.902630+05:30'
 published_at: '2026-06-30T16:43:51Z'
 tags:
 - github-repo
-- models
 - openai
 - python
 - rag
+- scripts
+- workflows
 stars: 1172
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2023-06-06T01:40:48Z'
 pushed_at: '2026-06-30T12:46:56Z'
 resource_id: github:azure-samples/chat-with-your-data-solution-accelerator
-first_seen: '2026-07-01T01:51:50.342233+05:30'
-last_seen: '2026-07-01T01:51:50.342233+05:30'
-last_checked: '2026-07-01T01:51:50.342233+05:30'
+first_seen: '2026-07-01T04:12:45.902630+05:30'
+last_seen: '2026-07-01T04:12:45.902630+05:30'
+last_checked: '2026-07-01T04:12:45.902630+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern in Azure using **Azure AI Search** for vector-based retrieval and **Azure OpenAI** LLMs (e.g., `gpt-4`) for contextual chat/Q&A generation, with Python-based orchestration.
-
-- **Key Components**: Includes **AZD templates** for deployment, supports **semantic search** with hybrid retrieval (vector + keyword), and integrates **Azure Monitor** for observability/logging.
-
-- **Best Practices**: Demonstrates **chunking strategies** for document processing, **prompt engineering** for grounded responses, and **cost optimization** via Azure OpenAI service tiers.
+- **Architecture**: Implements Retrieval-Augmented Generation (RAG) pattern on Azure using **Azure AI Search** for retrieval and **Azure OpenAI** for LLM-powered chat/Q&A experiences.
+- **Components**: Includes pre-configured **Python-based** solution with **AZD templates**, adhering to Azure best practices for scalability and integration.
+- **Features**: Supports **ChatGPT-style interactions**, **Q&A workflows**, and common enterprise requirements like security, monitoring, and deployment automation.
 
 ## Why It Matters
 

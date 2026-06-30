@@ -2,15 +2,16 @@
 title: Neo4j Graph Intelligence Platform
 archive_category: rag-systems
 source_category: ai/rag
-source_url: http://neo4j.com/
+source_url: http://neo4j.org/resources/cypher
 resource_id: blog:neo4j-graph-intelligence-platform
 local_vault_path: ai/rag/neo4j-graph-intelligence-platform.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: dataset
 importance: medium
 tags:
+- dataset
 - rag
 - web-crawled
 selection_reason:
@@ -24,18 +25,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to enable AI systems to provide human-interpretable rationales for decisions, addressing the "black box" problem in deep learning models.
+- **Explainable AI (XAI) Integration**: Leveraging knowledge graphs (e.g., Neo4j) to embed causal reasoning and traceability into AI decision-making, enabling transparent "why" explanations for high-stakes applications.
 
-- **Enterprise Decision Optimization**: Utilizing causal inference and graph-based reasoning to enhance AI-driven business decisions, potentially unlocking trillions in value by improving transparency and trust in automated systems.
+- **Enterprise Value Proposition**: Addressing regulatory compliance (e.g., EU AI Act) and operational trust by converting opaque AI models into auditable, interpretable systems with measurable ROI in sectors like healthcare and finance.
 
-- **Real-Time Explainability**: Deploying dyn
+- **Scalable Knowledge Graphs**: Utilizi
 
 ## Use Cases
 
@@ -45,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: http://neo4j.com/
+Original source URL: http://neo4j.org/resources/cypher
 
 ## Local Vault File
 

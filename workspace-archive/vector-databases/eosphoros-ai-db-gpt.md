@@ -33,9 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-agent framework**: Implements an agentic AI system for database interactions using LLMs (e.g., DeepSeek, GPT-4, Vicuna) with RAG for contextual query processing.
-- **Private & secure**: Enables local deployment for data privacy, supporting offline operation and secure access controls.
-- **Extensible architecture**: Modular Python-based design with support for multiple databases, hacktoberfest contributions, and integration with BGI for enhanced data processing.
+- **Agentic AI Framework**: Open-source Python-based system integrating Large Language Models (LLMs) like GPT-4 and DeepSeek with database interaction capabilities for autonomous data analysis and processing.
+
+- **Privacy & Security Focus**: Implements Retrieval-Augmented Generation (RAG) and private/local LLM deployment to ensure secure, on-premise data handling without cloud dependency.
+
+- **Modular Architecture**: Supports multi-agent orchestration for database operations, leveraging tools li
 
 ## Use Cases
 

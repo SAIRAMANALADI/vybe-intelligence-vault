@@ -1,28 +1,31 @@
 ---
-title: supermlorg/superml-java · Discussions · GitHub
+title: superml-java/superml-core at master · supermlorg/superml-java · GitHub
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://github.com/supermlorg/superml-java/discussions
-published_at: '2026-06-30T22:51:22.752022+05:30'
-collected_at: '2026-06-30T22:51:22.752034+05:30'
+source_url: https://github.com/supermlorg/superml-java/tree/master/superml-core
+published_at: '2026-07-01T04:19:18.763753+05:30'
+collected_at: '2026-07-01T04:19:18.763765+05:30'
 tags:
+- reddit
+- scripts
 - web-crawled
+- workflows
 status: active
 resource_id: github:supermlorg/superml-java
-first_seen: '2026-06-30T22:51:22.752034+05:30'
-last_seen: '2026-06-30T22:51:22.752034+05:30'
-last_checked: '2026-06-30T22:51:22.752034+05:30'
+first_seen: '2026-07-01T04:19:18.763765+05:30'
+last_seen: '2026-07-01T04:19:18.763765+05:30'
+last_checked: '2026-07-01T04:19:18.763765+05:30'
 health_score: 100
 ---
 
-# supermlorg/superml-java · Discussions · GitHub
+# superml-java/superml-core at master · supermlorg/superml-java · GitHub
 
 ## Summary
 
-- **Java-based Machine Learning Library**: `superml-java` is a Java implementation of the SuperML framework, providing machine learning capabilities in a JVM-compatible environment.
-- **GitHub Repository Metrics**: The project has 1 fork, 5 stars, 1 open issue, and 1 open pull request as of the latest snapshot.
-- **Discussion Categories**: Supports structured community interactions via GitHub Discussions, including Announcements, General Q&A, Ideas, Polls, and Show-and-Tell categories.
+- Java-based machine learning framework (`superml-java`) under the `supermlorg` GitHub organization, with 5 stars and 1 fork.
+- Core module (`superml-core`) structured in Maven (`pom.xml`) under `src/main/java/org/superml/core`, indicating a modular Java ML library.
+- Repository includes GitHub Actions, issue tracking, and pull request workflows, with 1 open issue and 1 pull request.
 
 ## Why It Matters
 
@@ -32,12 +35,15 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-30T22:51:22.752022+05:30
+- Published: 2026-07-01T04:19:18.763753+05:30
 
 ## Related Tags
 
+- reddit
+- scripts
 - web-crawled
+- workflows
 
 ## Source
 
-Original source: https://github.com/supermlorg/superml-java/discussions
+Original source: https://github.com/supermlorg/superml-java/tree/master/superml-core

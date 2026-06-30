@@ -2,22 +2,17 @@
 title: stanford-oval/storm
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://github.com/stanford-oval/storm
+source_url: https://github.com/stanford-oval/storm?source=post_page
 resource_id: github:stanford-oval/storm
 local_vault_path: ai/rag/stanford-oval-storm.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
-tags:
-- agents
-- github-repo
-- python
-- rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # stanford-oval/storm
@@ -26,16 +21,16 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **LLM-powered knowledge curation**: Automates topic research and report generation with citations using large language models (LLMs).
-- **Agentic RAG pipeline**: Implements retrieval-augmented generation (RAG) with multi-agent orchestration for deep, iterative research.
-- **EMNLP 2024 contribution**: Introduces a system for structured, evidence-backed report generation with 29.7K GitHub stars and 2.8K forks.
+- **LLM-Powered Research & Report Generation**: Uses large language models to autonomously research a topic, synthesize information, and produce a full-length, citation-backed report.
+- **Agentic RAG Framework**: Implements retrieval-augmented generation (RAG) with an agentic loop, enabling iterative querying, verification, and refinement of sources.
+- **EMNLP 2024 & NAACL Contributions**: Designed for deep research tasks, leveraging structured reasoning and citation grounding for high-fidelity
 
 ## Use Cases
 
@@ -45,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/stanford-oval/storm
+Original source URL: https://github.com/stanford-oval/storm?source=post_page
 
 ## Local Vault File
 

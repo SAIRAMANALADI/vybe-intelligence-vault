@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-07-01T01:53:25.366128+05:30'
+collected_at: '2026-07-01T04:14:20.933131+05:30'
 published_at: '2026-06-29T22:29:00Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
 - typescript
+- workflows
 stars: 516
 language: TypeScript
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-06-29T13:00:12Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-07-01T01:53:25.366128+05:30'
-last_seen: '2026-07-01T01:53:25.366128+05:30'
-last_checked: '2026-07-01T01:53:25.366128+05:30'
+first_seen: '2026-07-01T04:14:20.933131+05:30'
+last_seen: '2026-07-01T04:14:20.933131+05:30'
+last_checked: '2026-07-01T04:14:20.933131+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A TypeScript-based collection of standardized best practices and coding standards for AI agents, covering multiple frameworks (e.g., Angular, NestJS, React, Spring Boot) and programming languages (e.g., Kotlin, Go, Swift).
-- **Scope & Topics**: Includes guidelines for Android, iOS, Flutter, Laravel, Next.js, and more, with a focus on agentic AI development, cursor rules, and cross-platform consistency.
-- **Metadata**: 516 stars, 149 forks, last updated June 29, 2026; serves as a reference for AI agents to adhere to industry-standard coding practices.
+- **Multi-Language Best Practices Repository**: Curates standardized coding guidelines and best practices for AI agents across TypeScript, Kotlin, Go, Java (Spring Boot), PHP (Laravel), Dart (Flutter), and more, ensuring framework-agnostic consistency.
+
+- **Agent-Oriented Development Standards**: Defines structured `cursor-rules` and skill templates to optimize AI agent performance in Android, iOS, React, Next.js, Angular, and NestJS ecosystems.
+
+- **Version-Controlled Standards Hub**: Actively maintained (last updated 2026-06-29) with 516 stars and 149 forks, serving as a collaborative reference for AI-driven software development workflows.
 
 ## Why It Matters
 

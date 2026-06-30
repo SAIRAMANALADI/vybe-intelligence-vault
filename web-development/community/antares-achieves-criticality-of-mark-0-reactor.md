@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:antares-achieves-criticality-of-mark-0-reactor
 first_seen: '2026-07-01T01:50:01.590465+05:30'
 last_seen: '2026-07-01T01:50:01.590465+05:30'
 last_checked: '2026-07-01T01:50:01.590465+05:30'
 health_score: 100
 ---
+
 
 # Antares achieves criticality of Mark-0 reactor
 

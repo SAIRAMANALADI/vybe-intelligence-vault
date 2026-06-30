@@ -9,11 +9,10 @@ local_vault_path: ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
-- hackernews
 - models
 - openai
 - paper
@@ -22,7 +21,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
@@ -31,16 +30,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **RAG Architecture**: A 5-stage pipeline—**load** (ingest documents), **chunk** (split into retrieval-sized segments), **embed** (convert chunks to vectors using `text-embedding-3-small`), **retrieve** (semantic search via ChromaDB with `k=4` top chunks), and **generate** (LLM synthesizes answers grounded in retrieved context using a structured prompt).
-
-- **Key Technical Components**: Uses **LangChain** for orchestration, **ChromaDB** (or Pinecone/pgvector) for vector storage, and **OpenAI’s
+- **RAG Pipeline**: A 5-step process comprising document loading, chunking, embedding/indexing, retrieval, and generation, enabling LLMs to produce grounded answers from external data without fine-tuning.
+- **Chunking Strategy**: Recursive character splitting with 512-token chunks and 50-token overlap optimizes semantic context retention for retrieval while avoiding irrelevant or fragmented data.
+- **Re-ranking & Evaluation**: Production-grade RAG requires cross-encoder re-ranking (e.g., `cross-
 
 ## Use Cases
 

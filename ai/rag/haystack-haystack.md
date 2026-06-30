@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://haystack.deepset.ai/
-published_at: '2026-07-01T01:54:02.004120+05:30'
-collected_at: '2026-07-01T01:54:02.004135+05:30'
+published_at: '2026-07-01T04:14:56.756784+05:30'
+collected_at: '2026-07-01T04:14:56.756799+05:30'
 tags:
 - agents
 - anthropic
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:haystack-haystack
-first_seen: '2026-07-01T01:54:02.004135+05:30'
-last_seen: '2026-07-01T01:54:02.004135+05:30'
-last_checked: '2026-07-01T01:54:02.004135+05:30'
+first_seen: '2026-07-01T04:14:56.756799+05:30'
+last_seen: '2026-07-01T04:14:56.756799+05:30'
+last_checked: '2026-07-01T04:14:56.756799+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG pipelines, and multimodal applications with full inspection, debugging, and optimization capabilities across retrieval, reasoning, memory, and tool integration.
+- **Modular AI Orchestration**: Haystack provides a transparent, modular framework for building production-ready AI agents, RAG systems, and context-engineered workflows with full visibility for debugging and optimization.
 
-- **Vendor-Agnostic Integration**: Supports seamless integration with major AI/LLM providers (e.g., OpenAI, Anthropic, Mistral) and vector databases (e.g., Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, customizable AI workflows.
+- **Vendor-Neutral Integration**: Supports seamless integration with major AI models (OpenAI, Anthropic, Mistral) and vector databases (Weaviate, Pinecone, Elasticsearch) without vendor lock-in, enabling flexible, composable AI stacks.
 
-- **Enterprise-Grade Scalability**: Designed for Kubernetes-ready, cloud-agnostic deployment with built-in reliability, observability, and scalability features, including serializable pipelines, logging, monitoring, and enterprise support options.
+- **Enterprise-Grade Scalability**: Offers cloud-agnostic, Kubernetes-ready pipelines with built-in reliability, observability, and deployment tools, supporting scalable AI operations across environments.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:54:02.004120+05:30
+- Published: 2026-07-01T04:14:56.756784+05:30
 
 ## Related Tags
 

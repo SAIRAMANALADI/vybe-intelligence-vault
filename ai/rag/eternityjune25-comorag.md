@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-07-01T01:52:30.334634+05:30'
+collected_at: '2026-07-01T04:13:25.849927+05:30'
 published_at: '2026-06-24T19:23:14Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-07-01T01:52:30.334634+05:30'
-last_seen: '2026-07-01T01:52:30.334634+05:30'
-last_checked: '2026-07-01T01:52:30.334634+05:30'
+first_seen: '2026-07-01T04:13:25.849927+05:30'
+last_seen: '2026-07-01T04:13:25.849927+05:30'
+last_checked: '2026-07-01T04:13:25.849927+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive-Inspired Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework (`ComoRAG`) that mimics human-like memory structures for stateful long narrative reasoning, leveraging cognitive psychology principles.
+- **Cognitive Architecture**: Introduces *ComoRAG*, a Retrieval-Augmented Generation (RAG) framework inspired by human memory organization, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Long-Context Processing**: Implements a hierarchical memory system to maintain context coherence across extended dialogues or narratives, enabling dynamic memory updates and retrieval tailored for complex reasoning tasks.
+- **Memory Organization**: Implements a multi-layered memory system (episodic, semantic, procedural) with dynamic retrieval and consolidation mechanisms to maintain contextual coherence over extended interactions.
 
-- **AAAI 2026 Poster Submission**: Presented as a cutting-edge approach in AI reasoning, with open-source Python implementation (339 stars, 47 forks) focusing on scalable, memory-efficient RAG for long-form reasoning.
+- **AAAI 2026 Contribution**: Proposes novel memory update policies and retrieval strategies, validated on long-form reasoning benchmarks, achieving state-of-the-art performance in narrative consistency and factual recall.
 
 ## Why It Matters
 

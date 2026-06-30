@@ -12,7 +12,6 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
-- paper
 - python
 - rag
 selection_reason:
@@ -33,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (documents, paragraphs, entities), leveraging unified embeddings and cross-modal retrieval.
+- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling corpora across diverse modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) with unified retrieval and generation mechanisms.
 
-- **ACL 2026 Oral Paper**: Presents a novel architecture with adaptive retrieval strategies, dynamic modality fusion, and hierarchical indexing to optimize performance for heterogeneous corpora, achieving state-of-the-art re
+- **Modality-Agnostic Retrieval**: Implements a cross-modal retrieval strategy using modality-specific encoders and a shared embedding space, enabling efficient retrieval of relevant content regardless of input modality
 
 ## Use Cases
 

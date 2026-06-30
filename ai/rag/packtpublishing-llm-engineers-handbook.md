@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/PacktPublishing/LLM-Engineers-Handbook
-collected_at: '2026-07-01T01:51:40.312912+05:30'
+collected_at: '2026-07-01T04:12:35.832298+05:30'
 published_at: '2026-06-30T19:42:43Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-09T10:56:03Z'
 pushed_at: '2026-04-22T08:25:03Z'
 resource_id: github:packtpublishing/llm-engineers-handbook
-first_seen: '2026-07-01T01:51:40.312912+05:30'
-last_seen: '2026-07-01T01:51:40.312912+05:30'
-last_checked: '2026-07-01T01:51:40.312912+05:30'
+first_seen: '2026-07-01T04:12:35.832298+05:30'
+last_seen: '2026-07-01T04:12:35.832298+05:30'
+last_checked: '2026-07-01T04:12:35.832298+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems.
-
-- **Technical Stack**: Implemented in Python, with modules for fine-tuning LLMs, RAG pipelines, evaluation frameworks, and ML system design for AWS environments.
-
-- **MLOps & LLMOps Integration**: Includes deployment strategies, monitoring, and operational best practices for LLMs, with AWS-specific configurations and CI/CD pipelines.
+- **Comprehensive LLM Guide**: Covers fundamentals to deployment of advanced LLM and RAG applications on AWS, integrating LLMOps best practices for scalable GenAI systems.
+- **Technical Stack**: Implemented in Python with focus on fine-tuning LLMs, evaluation frameworks, and MLOps/MLLMOps pipelines for production-grade GenAI applications.
+- **AWS Integration**: Demonstrates deployment strategies and system design for LLM/RAG apps on AWS, including infrastructure-as-code and operational best practices.
 
 ## Why It Matters
 

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Modular AI Framework**: Open-source Haystack enables custom AI agent orchestration, RAG, enterprise search, IDP, and Text-to-SQL with deterministic/iterative workflows, fine-grained tool control, and production-grade monitoring for mission-critical deployments.
+- **Modular AI Framework**: Haystack provides an open-source, extensible framework for building custom AI pipelines (RAG, agents, IDP, search) with full control over models, tools, and infrastructure, enabling transparent, adaptable deployments across cloud, VPC, on-premise, or air-gapped environments.
 
-- **Sovereign AI Deployment**: Supports sovereign-by-design execution across cloud, VPC, on-premise, or air-gapped environments with SOC 2 Type II, ISO 27001, GDPR, HIPAA, and CSA Star Level 1 compliance for regulated industries.
-
--
+- **Enterprise-Grade RAG & Agents**: Supports high-precision retrieval-augmented generation (RAG) with hybrid search, multimodal inputs, and deterministic orchestration, while enabling multi-step
 
 ## Use Cases
 

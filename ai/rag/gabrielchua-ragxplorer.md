@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-07-01T01:51:25.259184+05:30'
+collected_at: '2026-07-01T04:12:20.809167+05:30'
 published_at: '2026-06-25T20:12:14Z'
 tags:
 - github-repo
 - jupyter notebook
 - models
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-07-01T01:51:25.259184+05:30'
-last_seen: '2026-07-01T01:51:25.259184+05:30'
-last_checked: '2026-07-01T01:51:25.259184+05:30'
+first_seen: '2026-07-01T04:12:20.809167+05:30'
+last_seen: '2026-07-01T04:12:20.809167+05:30'
+last_checked: '2026-07-01T04:12:20.809167+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based application (Jupyter Notebook + Streamlit) designed for real-time exploration and debugging of Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic interaction with vector databases, prompts, and LLM outputs.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM interactions and data flows.
 
-- **Modular Architecture**: Integrates with popular RAG frameworks (e.g., LangChain) and supports custom vector stores (FAISS, Chroma, Pinecone), allowing users to visualize retrieval mechanisms, embedding spaces, and generation quality through interactive dashboards.
+- **Streamlit-Powered UI**: Leverages Streamlit for an interactive web interface, facilitating real-time manipulation and visualization of RAG components (e.g., retrieval, generation, and context integration).
 
-- **Performance Metrics & Debugging**: Provides built-in analytics for evaluating RAG components (e.g., retrieval precision, answer relevance) with exportable reports, facilitating iterative optimization of LLM-based question-answering systems.
+- **Python-Based & Modular Design**: Implements core RAG functionalities (retrieval, prompt engineering, LLM inference) in Python, with modular architecture for extensibility and customization of visualization workflows.
 
 ## Why It Matters
 

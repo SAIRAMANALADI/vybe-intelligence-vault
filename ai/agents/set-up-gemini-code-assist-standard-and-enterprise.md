@@ -4,21 +4,20 @@ title: Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Clo
 category: ai/agents
 source_type: web
 source_name: Web Discovery
-source_url: https://cloud.google.com/gemini/docs/discover/set-up-gemini#purchase-subscription
-published_at: '2026-06-29T21:55:04.216794+05:30'
-collected_at: '2026-06-29T21:55:04.216808+05:30'
+source_url: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise
+published_at: '2026-07-01T04:19:14.688306+05:30'
+collected_at: '2026-07-01T04:19:14.688319+05:30'
 tags:
 - agents
 - producthunt
 - reddit
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:set-up-gemini-code-assist-standard-and-enterprise
-first_seen: '2026-06-29T21:55:04.216808+05:30'
-last_seen: '2026-06-29T21:55:04.216808+05:30'
-last_checked: '2026-06-29T21:55:04.216808+05:30'
+first_seen: '2026-07-01T04:19:14.688319+05:30'
+last_seen: '2026-07-01T04:19:14.688319+05:30'
+last_checked: '2026-07-01T04:19:14.688319+05:30'
 health_score: 100
 ---
 
@@ -26,15 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified Platform Transition**: Google Cloud's Gemini Code Assist (Standard/Enterprise) is being deprecated in favor of **Antigravity**, a unified multi-agent platform with Antigravity CLI, effective June 18, 2026. Users must migrate to Antigravity for continued access to IDE extensions and CLI services.
+- **Deprecation & Migration**: Gemini Code Assist IDE extensions and CLI for individual tiers (Standard/Enterprise) are deprecated as of June 18, 2026, with users required to migrate to **Antigravity** and **Antigravity CLI** per [deprecation page](https://developers.google.com/gemini-code-assist/docs/deprecations/code-assist-individuals).
 
-- **Setup & Licensing Workflow**:
-  - **Admin Steps (1-4)**: Purchase subscription via **Admin for Gemini** page, assign licenses (auto/manual), enable **Gemini for Google Cloud API** (`cloudaicompanion.googleapis.com`) in a Cloud project, and grant IAM roles (`Gemini for Google Cloud User`, `Service Usage Consumer`).
-  - **User Steps**: Install IDE plugins (e.g., Android Studio), configure CLI (`geminicli.com/docs`), and ensure firewall allows API traffic (e.g., `oauth2.googleapis.com`, `cloudaicompanion.googleapis.com`).
+- **Subscription & License Management**: Admin must purchase a subscription (Standard/Enterprise) via **Admin for Gemini** console, assign licenses (auto/manual), and ensure users have `cloudaicompanion.licences.selfAssign` IAM permission for automatic assignment; Enterprise requires ≥10 licenses.
 
-- **Network & Security Configurations**:
-  - **Firewall Rules**: Allow outbound TCP to Google’s dynamic IP ranges (or use `private.googleapis.com`/`Private Service Connect`).
-  - **VPC Service Controls**: Add **Gemini for Google Cloud API** and **Gemini Code Assist API** to service perimeters; modify ingress policies for external access.
+- **API & IAM Setup**: Enable `cloudaicompanion.googleapis.com` API in a Google Cloud project via console/gcloud CLI, grant `roles/gemini.codeAssistUser` (or equivalent) IAM roles, and configure firewall rules for API traffic (e.g., `oauth2.googleapis.com`, `cloudaicompanion.googleapis.com`).
 
 ## Why It Matters
 
@@ -44,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-29T21:55:04.216794+05:30
+- Published: 2026-07-01T04:19:14.688306+05:30
 
 ## Related Tags
 
@@ -52,9 +47,8 @@ General public resource representing technology updates, guides, or tutorials.
 - producthunt
 - reddit
 - web-crawled
-- workflows
 - youtube
 
 ## Source
 
-Original source: https://cloud.google.com/gemini/docs/discover/set-up-gemini#purchase-subscription
+Original source: https://developers.google.com/gemini-code-assist/docs/set-up-gemini-standard-enterprise

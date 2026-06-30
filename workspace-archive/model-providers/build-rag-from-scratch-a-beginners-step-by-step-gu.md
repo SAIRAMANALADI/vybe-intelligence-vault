@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using a modular Python pipeline with document loading, chunking, embedding generation (via OpenAI or local models), and FAISS-based vector storage for semantic search.
-- **Hallucination Mitigation**: Enforces answer generation strictly from retrieved context with a system prompt instructing the LLM to respond with "I don't know" if the answer is not found in the provided documents.
-- **Production-Grade Structure**: Follows a
+- **RAG Pipeline Architecture**: Implements a two-stage process—retrieval (using FAISS for semantic search via embeddings) followed by generation (using OpenAI's LLM with a constrained prompt to prevent hallucinations).
+
+- **Modular Implementation**: Structured into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS-based embeddings), `rag_chain.py` (prompt engineering + LLM integration), and `main.py` (orchestration), ensuring separation of concerns and scalab
 
 ## Use Cases
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/microsoft-rag-time.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -19,7 +19,7 @@ tags:
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # microsoft/rag-time
@@ -28,16 +28,16 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Comprehensive RAG Mastery Curriculum**: A structured 5-week learning path covering core RAG concepts, implementation strategies, and advanced techniques (e.g., hybrid search, quantization methods like binary/scalar, and Matryoshka representation learning) using Jupyter Notebooks.
-
-- **Azure & OpenAI Integration**: Focuses on deploying RAG pipelines in Azure environments, leveraging OpenAI models (e.g., GPT) for retrieval-augmented generation, with emphasis on responsible AI practices and mul
+- **Learning Framework**: 5-week structured curriculum covering RAG fundamentals, hybrid search (HNSW + keyword), and advanced techniques like binary/scalar quantization and Matryoshka representation learning for efficient LLM retrieval.
+- **Tooling & Integration**: Hands-on labs using Azure OpenAI, VS Code, and Python/Jupyter Notebooks, with focus on multimodal RAG, responsible AI practices, and production-grade indexing pipelines.
+- **Optimization Techniques**: Implements binary/scalar quantiz
 
 ## Use Cases
 

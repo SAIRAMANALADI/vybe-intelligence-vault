@@ -9,13 +9,14 @@ collected_at: '2026-07-01T01:49:59.648318+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:usestrix/strix
 first_seen: '2026-06-28T19:46:54.549971+05:30'
 last_seen: '2026-07-01T01:49:59.648318+05:30'
 last_checked: '2026-07-01T01:49:59.648318+05:30'
 health_score: 100
 ---
+
 
 # usestrix/strix
 

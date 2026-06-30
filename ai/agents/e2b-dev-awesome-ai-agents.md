@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/e2b-dev/awesome-ai-agents
-collected_at: '2026-06-30T22:50:42.361678+05:30'
-published_at: '2026-06-30T16:32:32Z'
+collected_at: '2026-07-01T04:14:25.989849+05:30'
+published_at: '2026-06-30T22:02:33Z'
 tags:
 - agents
 - github-repo
 - models
 - openai
 - unknown
-stars: 28549
+stars: 28551
 language: Unknown
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2023-06-19T00:20:06Z'
 pushed_at: '2025-02-26T10:04:45Z'
 resource_id: github:e2b-dev/awesome-ai-agents
-first_seen: '2026-06-30T22:50:42.361678+05:30'
-last_seen: '2026-06-30T22:50:42.361678+05:30'
-last_checked: '2026-06-30T22:50:42.361678+05:30'
+first_seen: '2026-07-01T04:14:25.989849+05:30'
+last_seen: '2026-07-01T04:14:25.989849+05:30'
+last_checked: '2026-07-01T04:14:25.989849+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-*   Curates a comprehensive list of AI autonomous agents.
-*   Features prominent agent frameworks such as AutoGPT, BabyAGI, and GPT-Engineer.
-*   Covers GPT/GPT-4 model integrations, OpenAI platforms, and Python-centric AI agent development.
+- **Curated Collection**: Repository hosting a comprehensive, community-driven list of AI autonomous agents, frameworks, and tools (e.g., AutoGPT, BabyAGI, GPT-Engineer) for research and development in autonomous AI systems.
+
+- **Multi-Topic Scope**: Covers autonomous agents, AI copilots, and LLM-driven tools (GPT-4, OpenAI) with a focus on Python-based implementations and practical applications.
+
+- **High Activity**: Maintained with frequent updates (last commit: 2026-06-30), indicating active development and broad community engagement (28.5K+ stars, 3K+ forks).
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: e2b-dev
-- Stars: 28549
-- Forks: 3087
+- Stars: 28551
+- Forks: 3089
 - Language: Unknown
 - Topics: agent, ai, artificial-intelligence, autogpt, autonomous-agents, awesome, babyagi, copilot, gpt, gpt-4, gpt-engineer, openai, python
-- Last Updated: 2026-06-30T16:32:32Z
+- Last Updated: 2026-06-30T22:02:33Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-06-19T00:20:06Z

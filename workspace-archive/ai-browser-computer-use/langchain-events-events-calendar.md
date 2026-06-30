@@ -12,8 +12,8 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - web-crawled
+- workflows
 selection_reason:
 - Valuable developer reference
 ---
@@ -30,11 +30,11 @@ selection_reason:
 
 ## Summary
 
-- **LangChain Events Platform**: Aggregates community-hosted and LangChain-organized events focused on LangChain technologies, accessible via [luma.com/langchain](https://luma.com/langchain?k=c).
+- **LangChain Events Platform**: Luma hosts a dedicated platform ([luma.com/langchain](https://luma.com/langchain?k=c)) for LangChain-related events, including meetups, workshops, and community gatherings, with submission and approval workflows for event organizers.
 
-- **Event Types**: Includes meetups such as *"Building Great Agents (Berlin)"* and *"Washington DC LangChain Meetup"*, with RSVP functionality and location details for registered attendees.
-
-- **Submission & Moderation**: Users can submit events for approval, which are listed publicly only after valida
+- **Upcoming Events**:
+  - *LangChain Meetup: Building Great Agents (Berlin)* (LangChain-hosted, location TBA).
+  - *Hands-On Workshop — Build an Agentic Application with LangChain & CopilotKit* (London, UK, community-hosted, +46 at
 
 ## Use Cases
 

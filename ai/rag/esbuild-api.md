@@ -3,9 +3,9 @@ title: esbuild - API
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://esbuild.github.io/api/#loader
-published_at: '2026-06-29T17:01:11.547704+05:30'
-collected_at: '2026-06-29T17:01:11.547723+05:30'
+source_url: https://esbuild.github.io/api/#sourcemap
+published_at: '2026-07-01T04:18:10.548414+05:30'
+collected_at: '2026-07-01T04:18:10.548431+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:esbuild-api
-first_seen: '2026-06-29T17:01:11.547723+05:30'
-last_seen: '2026-06-29T17:01:11.547723+05:30'
-last_checked: '2026-06-29T17:01:11.547723+05:30'
+first_seen: '2026-07-01T04:18:10.548431+05:30'
+last_seen: '2026-07-01T04:18:10.548431+05:30'
+last_checked: '2026-07-01T04:18:10.548431+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **API Access & Syntax**: Esbuild provides identical APIs in CLI (flags: `--foo`, `--foo=bar`, `--foo:bar`), JavaScript (async/sync), and Go, with language-specific optimizations and TypeScript/Go documentation available.
+- **API Access**: esbuild provides three language interfaces (CLI, JavaScript, Go) with identical core concepts; CLI flags support `--foo`, `--foo=bar`, or `--foo:bar` syntax for boolean, single-value, or multi-value options respectively.
 
-- **Build & Transform APIs**: Core APIs include `build` (file-based bundling with incremental modes: watch/serve/rebuild) and `transform` (in-memory code transformation), supporting extensive options for input/output, optimization, and metadata.
+- **Build API**: Primary interface for processing entry points with options like bundling (`--bundle`), output directory (`--outdir`), and incremental builds via `context` in JS/Go (watch, serve, rebuild modes).
 
-- **Incremental Build Modes**: Supports watch (auto-rebuild), serve (dev server), and rebuild (manual) modes, with context-based shared options for performance; `dispose()` cleans up resources post-use.
+- **Transform API**: Specialized in-memory code transformation (e.g., TS→JS, minification) with isolated execution, supporting options like `loader`, `minify`, and `target` but lacking bundling/plugins.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-29T17:01:11.547704+05:30
+- Published: 2026-07-01T04:18:10.548414+05:30
 
 ## Related Tags
 
@@ -50,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://esbuild.github.io/api/#loader
+Original source: https://esbuild.github.io/api/#sourcemap

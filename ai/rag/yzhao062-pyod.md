@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-06-30T01:50:30.704057+05:30'
+collected_at: '2026-07-01T04:14:40.937647+05:30'
 published_at: '2026-06-29T09:31:03Z'
 tags:
 - agents
 - benchmark
 - github-repo
+- hackernews
 - python
 - rag
 - workflows
@@ -21,9 +22,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-06-17T02:43:09Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-06-30T01:50:30.704057+05:30'
-last_seen: '2026-06-30T01:50:30.704057+05:30'
-last_checked: '2026-06-30T01:50:30.704057+05:30'
+first_seen: '2026-07-01T04:14:40.937647+05:30'
+last_seen: '2026-07-01T04:14:40.937647+05:30'
+last_checked: '2026-07-01T04:14:40.937647+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, covering supervised, unsupervised, and semi-supervised methods.
+- **Multimodal Anomaly Detection**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, enabling cross-domain anomaly detection with unified interfaces.
 
-- **Advanced Orchestration & Workflows**: Features ADEngine for benchmark-backed detector orchestration and an agentic workflow enabling AI agents to autonomously select and optimize anomaly detection strategies.
+- **Agentic & Benchmark-Driven Workflow**: Features ADEngine for orchestrating detectors and an agentic workflow, leveraging benchmark-backed evaluations for adaptive anomaly detection.
 
-- **Multimodal & Foundation Model Integration**: Supports multimodal anomaly detection (e.g., NLP, graph, image) and leverages foundation models for out-of-distribution (OOD) and novelty detection.
+- **Foundation Model Integration**: Incorporates deep learning, multimodal, and out-of-distribution detection techniques, with applications in fraud detection, NLP, and graph anomaly scenarios.
 
 ## Why It Matters
 

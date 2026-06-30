@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sleeepeer/PoisonedRAG
-collected_at: '2026-07-01T01:52:10.308514+05:30'
+collected_at: '2026-07-01T04:13:05.852178+05:30'
 published_at: '2026-06-30T11:39:04Z'
 tags:
 - benchmark
 - github-repo
 - hackernews
-- models
 - python
 - rag
 - reddit
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-02-09T04:25:56Z'
 pushed_at: '2026-01-27T15:29:32Z'
 resource_id: github:sleeepeer/poisonedrag
-first_seen: '2026-07-01T01:52:10.308514+05:30'
-last_seen: '2026-07-01T01:52:10.308514+05:30'
-last_checked: '2026-07-01T01:52:10.308514+05:30'
+first_seen: '2026-07-01T04:13:05.852178+05:30'
+last_seen: '2026-07-01T04:13:05.852178+05:30'
+last_checked: '2026-07-01T04:13:05.852178+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by poisoning the retrieval corpus, causing LLMs to generate adversarially manipulated outputs while maintaining high retrieval relevance.
+- **Novel Attack Vector**: Introduces *PoisonedRAG*, a framework demonstrating knowledge corruption attacks on Retrieval-Augmented Generation (RAG) systems by injecting malicious documents into the retrieval corpus, causing LLMs to generate incorrect or harmful outputs while maintaining high semantic similarity to the corrupted data.
 
-- **Technical Mechanism**: Leverages *trigger-based backdoor insertion* into document embeddings (via adversarial fine-tuning of retrieval models) to ensure targeted documents are retrieved with high confidence, enabling stealthy manipulation of LLM responses without altering model weights.
+- **Technical Mechanism**: Leverages *trigger-based poisoning* where adversaries embed subtle, context-aware triggers in documents to manipulate retrieval rankings and downstream generation, bypassing existing defenses like sanitization or filtering.
 
-- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., Wikipedia-based QA) with attack success rates up to **92%**, while evading detection via semantic-preserving perturbations; highlights critical vulnerabilities in trustworthy AI systems relying on external knowledge retrieval.
+- **Evaluation & Impact**: Validated on multiple RAG pipelines (e.g., Dense Passage Retrieval + LLM) with empirical results showing >90% attack success rate across diverse tasks, highlighting critical vulnerabilities in current trustworthy AI methodologies.
 
 ## Why It Matters
 

@@ -5,8 +5,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://code.visualstudio.com/
-published_at: '2026-06-30T22:54:31.309843+05:30'
-collected_at: '2026-06-30T22:54:31.309858+05:30'
+published_at: '2026-07-01T04:19:08.720216+05:30'
+collected_at: '2026-07-01T04:19:08.720227+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:visual-studio-code-the-open-source-ai-code-editor
-first_seen: '2026-06-30T22:54:31.309858+05:30'
-last_seen: '2026-06-30T22:54:31.309858+05:30'
-last_checked: '2026-06-30T22:54:31.309858+05:30'
+first_seen: '2026-07-01T04:19:08.720227+05:30'
+last_seen: '2026-07-01T04:19:08.720227+05:30'
+last_checked: '2026-07-01T04:19:08.720227+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Component Extraction**: Refactored `MailList.tsx` by extracting individual mail item rendering into a dedicated `MailListItem` component, reducing complexity and improving maintainability while preserving keyboard navigation and accessibility features.
+- **Component Refactoring**: Extracted `MailListItem` from `MailList.tsx` into a standalone, reusable component with typed props (`email`, `isSelected`, `onOpen`), reducing `MailList` complexity from 30 to 6 lines while preserving keyboard navigation, selection state, and accessibility (ARIA roles).
 
-- **Batch Processing Optimization**: Implemented a `POST /process/batch` endpoint in Go with parallel file processing (up to 8 concurrent tasks), per-request timeouts (30s), and OpenTelemetry instrumentation, reducing end-to-end latency for 64-image batches from 184ms to 31ms.
+- **Batch Processing Optimization**: Implemented `POST /process/batch` in Go with parallel file processing (8 concurrent workers via `semaphore`), per-request 30s timeout, OpenTelemetry spans, and structured logging, improving throughput from **184ms to 31ms** for 64-image batches.
 
-- **Performance Enhancement**: Optimized `MailList` rendering performance by abstracting items into a standalone component, reducing render time on a 10k-message fixture from 41ms to 12ms while maintaining all functional tests (184/184 passing).
+- **Performance Gains**: Reduced `MailList` render time from **41ms to 12ms** for 10k messages by abstracting items into `React.memo`-wrapped components, and optimized batch processing via `errgroup` with weighted concurrency control.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-06-30T22:54:31.309843+05:30
+- Published: 2026-07-01T04:19:08.720216+05:30
 
 ## Related Tags
 

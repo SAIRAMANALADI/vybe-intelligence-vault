@@ -6,13 +6,14 @@ source_url: https://github.com/deepset-ai/haystack
 resource_id: github:deepset-ai/haystack
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
-archive_score: 85
-archive_tier: essential
+archive_score: 75
+archive_tier: useful
 resource_kind: framework
-importance: high
+importance: medium
 tags:
 - agents
 - github-repo
+- hackernews
 - mdx
 - models
 - openai
@@ -27,18 +28,18 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 85 (essential)
+- Quality score: 70 | Archive score: 75 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Useful for project building
 
 ## Summary
 
-- **Modular AI Orchestration Framework**: Haystack enables building production-ready LLM applications with explicit control over retrieval, routing, memory, and generation via modular pipelines and agent workflows.
+- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines with explicit control over retrieval, routing, memory, and generation components.
 
-- **Scalable & Multimodal Support**: Designed for scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python, PyTorch, and transformer architectures.
+- **Multi-Domain Support**: Supports scalable agents, RAG, multimodal apps, semantic search, and conversational systems with integrations for models like GPT-4 and Gemini.
 
-- **Context-Engineered & Open-Source**: Open-source framework optimized for contex
+- **Technical Stack**: Python-based framework leveraging PyTorch and Transformers, optimized for information retrieval, quest
 
 ## Use Cases
 

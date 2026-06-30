@@ -9,13 +9,14 @@ collected_at: '2026-07-01T01:49:59.650341+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:corebunch/instatic
 first_seen: '2026-06-30T22:47:06.203836+05:30'
 last_seen: '2026-07-01T01:49:59.650341+05:30'
 last_checked: '2026-07-01T01:49:59.650341+05:30'
 health_score: 100
 ---
+
 
 # CoreBunch/Instatic
 

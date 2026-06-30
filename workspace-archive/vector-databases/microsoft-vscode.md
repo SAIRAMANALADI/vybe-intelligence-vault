@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - rag
 - typescript
 selection_reason:
@@ -30,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Electron-based IDE**: Built using Electron framework, combining Chromium rendering engine with Node.js for cross-platform desktop application development (Windows, macOS, Linux).
+- **Electron-based Architecture**: VS Code is built using Electron, a framework enabling cross-platform desktop applications with web technologies (HTML, CSS, JavaScript/TypeScript).
 
-- **TypeScript Core**: Primary codebase written in TypeScript (~95%), leveraging strict type-checking for maintainability and scalability, with JavaScript for performance-critical components.
+- **TypeScript Core**: The editor’s core functionality is implemented in TypeScript, leveraging static typing for maintainability and scalability.
 
-- **Extensible Architecture**: Implements Language Server Protocol (LSP) for language intelligence, with a modular extensio
+- **Extensible Plugin System**: VS Code supports a rich extension API, allowing third-party integrations for language support, debuggers, and tooling via a centralized
 
 ## Use Cases
 

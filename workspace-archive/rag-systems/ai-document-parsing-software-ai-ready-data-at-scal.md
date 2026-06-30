@@ -2,13 +2,13 @@
 title: 'AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
+source_url: https://www.llamaindex.ai/llamaparse
 resource_id: blog:ai-document-parsing-software-ai-ready-data-at-scal
 local_vault_path: ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - benchmark
@@ -22,7 +22,7 @@ tags:
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex
@@ -31,18 +31,18 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Layout-aware parsing**: Utilizes advanced OCR and layout detection to accurately extract structured data from complex documents, including headers, footers, split sections, tables, charts, and handwritten content.
+- **High-accuracy parsing engine** supporting 90+ formats with layout-aware processing for headers, footers, and split sections, plus multimodal extraction from charts, tables, and images.
 
-- **Multimodal & multilingual support**: Processes 90+ formats (PDFs, scans, invoices, etc.) with granular control over parsing modes, while supporting 100+ languages for global enterprise use cases.
+- **Granular parsing modes** enabling configurable trade-offs between cost and accuracy, with multilingual support for 100+ languages and enterprise-grade scalability (1B+ docs processed, 25M+ monthly downloads).
 
-- **Scalable & enterprise-ready**: Handles millions of pages with high concurren
+- **Workflow-optimized** for complex document types (invoices, insurance claims, healthcare form
 
 ## Use Cases
 
@@ -52,7 +52,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaparse?utm_source=github&utm_medium=org_card
+Original source URL: https://www.llamaindex.ai/llamaparse
 
 ## Local Vault File
 

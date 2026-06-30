@@ -8,17 +8,15 @@ local_vault_path: ai/rag/vivekmalhan666-rag-beginner-guide.md
 quality_score: 70
 archive_score: 87
 archive_tier: essential
-resource_kind: benchmark
+resource_kind: framework
 importance: high
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
 selection_reason:
 - Strong keyword match
-- Active open-source repository
+- Useful for project building
 ---
 
 # VivekMalhan666/rag-beginner-guide
@@ -27,16 +25,18 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 87 (essential)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Step-by-step RAG implementation**: Provides a beginner-friendly Python guide to building a Retrieval-Augmented Generation (RAG) system from scratch without abstracted libraries.
-- **Core components**: Covers essential RAG pipeline elements (document retrieval, embedding generation, and LLM integration) using vanilla Python.
-- **No external dependencies**: Focuses on minimal tooling to ensure clarity, avoiding "magic" abstractions like LangChain or LlamaIndex.
+- **Implementation Guide**: Step-by-step Python tutorial for constructing a Retrieval-Augmented Generation (RAG) system from the ground up, emphasizing clarity and accessibility for beginners without relying on opaque abstractions.
+
+- **Core Components**: Covers essential RAG pipeline elements, including document ingestion, vector embedding, retrieval mechanisms, and integration with large language models (LLMs) for augmented responses.
+
+- **Minimalist Approach**: Focuses on fundamental Python l
 
 ## Use Cases
 

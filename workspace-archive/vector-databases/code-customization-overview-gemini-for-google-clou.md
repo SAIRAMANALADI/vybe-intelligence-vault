@@ -30,8 +30,9 @@ selection_reason:
 
 ## Summary
 
-- **Code Customization in Gemini Code Assist Enterprise** enables IDE-based code suggestions aligned with an organization's private repositories by indexing codebases (reindexed every 24 hours) and integrating with VS Code, IntelliJ, Cloud Workstations, and Cloud Shell Editor.
-- **Security & Access Controls** ensure private code is stored in a single-tenant environment, with administrative access restrictions, IAM permissions, and an `.aiexclude` file to exclude specific files/repositories from
+- **Code Customization in Gemini Code Assist Enterprise** enables organization-specific code suggestions by indexing private repositories (reindexed every 24h) and integrating with IDEs (VS Code, IntelliJ, Cloud Workstations, Cloud Shell Editor) via remote context, distinct from full codebase awareness which is limited to local files/tabs.
+
+- **Security & Access Controls** enforce single-tenant storage, administrative access restrictions, and prevent model training on private code; IAM permissio
 
 ## Use Cases
 

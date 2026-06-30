@@ -28,9 +28,9 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-31 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` |
 | 2026-03-28 | [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) | `ai-coding-agents/` |
 | 2026-03-27 | [firecrawl/web-agent](https://github.com/firecrawl/web-agent) | `ai-coding-agents/` |
+| 2026-03-26 | [ekimetrics/adaptive-chunking](https://github.com/ekimetrics/adaptive-chunking) | `rag-systems/` |
 | 2026-03-24 | [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) | `rag-systems/` |
 | 2026-03-23 | [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) | `ai-coding-agents/` |
 | 2026-03-22 | [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices) | `ai-coding-agents/` |
 | 2026-03-21 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | `rag-systems/` |
 | 2026-03-18 | [G1o22/awesome-ai-agents-2026](https://github.com/G1o22/awesome-ai-agents-2026) | `ai-coding-agents/` |
-| 2026-03-18 | [plusai-solutions/ai-scrum-master-template](https://github.com/plusai-solutions/ai-scrum-master-template) | `rag-systems/` |

@@ -7,7 +7,7 @@ source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-ste
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
 local_vault_path: ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: prompt
 importance: medium
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Prompt Libraries`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **RAG Pipeline**: Implements a retrieval-augmented generation system using a modular Python pipeline with document loading, chunking, embedding generation (via OpenAI or local models), and FAISS-based vector storage for semantic search.
-- **Hallucination Mitigation**: Enforces answer generation strictly from retrieved context with a system prompt instructing the LLM to respond with "I don't know" if the answer is not found in the provided documents.
-- **Production-Grade Structure**: Follows a
+- **RAG Pipeline Architecture**: Implements a two-stage process—retrieval (using FAISS for semantic search via embeddings) followed by generation (using OpenAI's LLM with a constrained prompt to prevent hallucinations).
+
+- **Modular Implementation**: Structured into four core components: `document_loader.py` (text splitting), `vector_store.py` (FAISS-based embeddings), `rag_chain.py` (prompt engineering + LLM integration), and `main.py` (orchestration), ensuring separation of concerns and scalab
 
 ## Use Cases
 

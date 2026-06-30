@@ -9,7 +9,7 @@ local_vault_path: ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: prompt
 importance: medium
 tags:
 - anthropic
@@ -31,16 +31,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for semantic search, with retrieval strategies like hybrid search (vector + BM25) and re-ranking (cross-encoder models) to improve precision.
+- **RAG Architecture**: Combines document processing (chunking, metadata extraction), embedding generation (e.g., OpenAI `text-embedding-ada-002`, Sentence Transformers), and vector databases (Pinecone, Weaviate, FAISS) for scalable, low-latency retrieval; retrieval strategies include semantic search, hybrid search (vector + BM25), and re-ranking (cross-encoder models like `ms-marco-MiniLM`).
 
-- **Implementation Workflow**: Involves document ingestion (LangChain `RecursiveCharacterTextSplitter`), embedding storage (Pinecone/FAIS
+- **Implementation Workflow**: Documents are split into 200-500 token chunks, embedded, and stored in a
 
 ## Use Cases
 

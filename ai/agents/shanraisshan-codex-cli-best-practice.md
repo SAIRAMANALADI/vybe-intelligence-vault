@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-07-01T01:53:25.354077+05:30'
+collected_at: '2026-07-01T04:14:20.939514+05:30'
 published_at: '2026-06-30T17:26:03Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - python
 - scripts
@@ -22,9 +21,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-07-01T01:53:25.354077+05:30'
-last_seen: '2026-07-01T01:53:25.354077+05:30'
-last_checked: '2026-07-01T01:53:25.354077+05:30'
+first_seen: '2026-07-01T04:14:20.939514+05:30'
+last_seen: '2026-07-01T04:14:20.939514+05:30'
+last_checked: '2026-07-01T04:14:20.939514+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and reusable skills for scalable AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using Codex CLI, emphasizing modular hooks, context engineering, and command chaining for reproducible AI-driven development.
 
-- **CLI-Centric Best Practices**: Provides a repository of optimized *codex-cli-commands*, *hooks*, and *skills* to enhance OpenAI Codex agent interactions, including Pakistan-specific developer adaptations and workflow automation.
+- **CLI Skills & Context Engineering**: Implements custom Codex CLI skills (Python-based) with hooks for dynamic context injection, enabling stateful agent interactions, multi-step task automation, and OpenAI API orchestration.
 
-- **Context & Skill Optimization**: Focuses on *context-engineering* techniques to refine AI agent performance, with version-controlled best practices (last updated 2026-06-30) for maintaining high-fidelity code generation and debugging.
+- **Best Practices & Scalability**: Provides a framework for scalable agentic workflows, including error handling, state management, and modular skill design, optimized for collaborative AI-agent ecosystems.
 
 ## Why It Matters
 

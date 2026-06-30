@@ -8,7 +8,7 @@ local_vault_path: ai/rag/olegnazarov-rag-security-scanner.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: prompt
+resource_kind: framework
 importance: medium
 tags:
 - github-repo
@@ -16,9 +16,8 @@ tags:
 - openai
 - python
 - rag
-- workflows
 selection_reason:
-- Active open-source repository
+- Useful for project building
 ---
 
 # olegnazarov/rag-security-scanner
@@ -27,15 +26,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Active open-source repository
+  - Useful for project building
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems, LLM integrations) via automated security testing.
-- **Features**: Detects prompt injection, OWASP Top 10 LLM risks, and other AI-specific threats; supports red-team testing and security audits.
-- **Technical Stack**: Python-based tool with integration for OpenAI, LLM APIs, and automated vulnerability scanning workflows.
+- **Purpose**: Automated security scanner for RAG/LLM-based applications (e.g., chatbots, virtual assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and AI-specific threats.
+- **Features**: Implements red-team techniques, automated testing, and security audits tailored for LLM/rag systems, supporting OpenAI and other AI frameworks.
+- **Technical Stack**: Python-based tool with integration for CI/CD pipelines, vulnerability scanning, and penetration testing
 
 ## Use Cases
 

@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Schema & Context Learning**: Agent dynamically learns database schema and domain context to interpret natural language queries for analytical SQL generation.
-
-- **Iterative, Evidence-Backed SQL**: Generates SQL queries through iterative refinement, ensuring outputs are grounded in retrieved evidence for accuracy.
-
-- **Tech Stack**: Python-based with PostgreSQL integration; employs React-pattern for frontend and leverages LLM for reasoning.
+- **Schema & Context Learning**: Implements an NL-to-SQL agent that dynamically learns database schema and domain context for accurate query generation.
+- **Iterative Evidence-Backed SQL**: Uses iterative reasoning to validate SQL queries against evidence before execution, ensuring analytical question answering.
+- **Tech Stack**: Built in Python with PostgreSQL integration, leveraging React-pattern for frontend interaction and LLM for natural language processing.
 
 ## Use Cases
 

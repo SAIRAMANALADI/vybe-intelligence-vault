@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Model Size & Hardware Constraints**: Client-side AI models vary widely in size (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B), requiring careful selection based on task specificity and device capabilities; use APIs like `Navigator.hardwareConcurrency` and `Navigator.deviceMemory` to assess hardware limitations and WebGPU support for acceleration.
+- **Client-side AI benefits and libraries**: Client-side AI runs in-browser, offering low latency, reduced server costs, privacy, and offline access. Key libraries include TensorFlow.js, Transformers.js, and MediaPipe GenAI, but performance overheads (model size, GPU/CPU load) must be managed.
 
-- **Optimized Download & Caching**: Prioritize lazy-loading models only when needed, explicitly cache them via the Cache API, and use chunked downlo
+- **Model size and optimization strategies**: Model size varies widely (e.g., 9.4KB for BudouX, 1.3GB for Gemma 2B). Optimize by selecting task-specific models, using model shrinking techniques, and lever
 
 ## Use Cases
 

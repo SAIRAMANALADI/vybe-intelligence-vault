@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-07-01T01:51:05.220531+05:30'
+collected_at: '2026-07-01T04:12:00.786812+05:30'
 published_at: '2026-06-29T11:33:03Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - meta-ai
 - models
 - rag
-- workflows
 stars: 1469
 language: JavaScript
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-07-01T01:51:05.220531+05:30'
-last_seen: '2026-07-01T01:51:05.220531+05:30'
-last_checked: '2026-07-01T01:51:05.220531+05:30'
+first_seen: '2026-07-01T04:12:00.786812+05:30'
+last_seen: '2026-07-01T04:12:00.786812+05:30'
+last_checked: '2026-07-01T04:12:00.786812+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline in JavaScript using `node-llama-cpp` for local LLM inference, avoiding external black-box APIs.
-- **Core Components**: Covers embeddings generation, vector search, retrieval mechanisms, and context-augmented generation with step-by-step educational breakdown.
-- **Educational Focus**: Provides a hands-on tutorial for building RAG systems from scratch, emphasizing transparency and real-world understanding of AI agent workflows.
+- **Implementation Focus**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline construction from scratch using local LLMs (via `node-llama-cpp`) in JavaScript, emphasizing transparency over black-box solutions.
+
+- **Core Components**: Covers end-to-end RAG mechanics—embeddings generation, vector search, retrieval augmentation, and context-augmented LLM generation—without external dependencies.
+
+- **Educational Tool**: Provides a hands-on tutorial for Node.js developers to understand and customize RAG pipelines, with topics including AI agents, chatbots, and vector databases.
 
 ## Why It Matters
 

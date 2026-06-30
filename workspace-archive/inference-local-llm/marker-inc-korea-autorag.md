@@ -14,10 +14,10 @@ tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 - scripts
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,9 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **AutoML-Style Optimization**: AutoRAG automates hyperparameter tuning, prompt optimization, and pipeline configuration for RAG systems using black-box optimization techniques (e.g., Bayesian optimization, genetic algorithms) to maximize performance metrics (e.g., answer correctness, retrieval precision) without manual intervention.
+- **AutoML-driven RAG optimization**: Implements automated hyperparameter tuning, component selection, and pipeline optimization for RAG systems using a black-box optimization approach (e.g., Bayesian optimization, TPE, or genetic algorithms).
 
-- **Comprehensive Evaluation Framework**: Provides built-in benchmarks for RAG components (retriever, generator, reranker) with standardized metrics (e.g., F1, EM
+- **Comprehensive evaluation framework**: Provides built-in metrics (e.g., answer correctness, context relevance, latency) and supports custom benchmarks for assessing RAG performance across datasets like MS MARCO, TriviaQA, or domain-specific corpora.
+
+-
 
 ## Use Cases
 

@@ -4,17 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/google/adk-go
-collected_at: '2026-06-30T22:47:05.917478+05:30'
-published_at: '2026-06-30T16:50:29Z'
+collected_at: '2026-07-01T04:10:43.527815+05:30'
+published_at: '2026-06-30T22:09:53Z'
 tags:
 - agents
-stars: 8270
+stars: 8273
 language: Go
 status: active
 resource_id: github:google/adk-go
 first_seen: '2026-06-18T23:35:18.966776+05:30'
-last_seen: '2026-06-30T22:47:05.917478+05:30'
-last_checked: '2026-06-30T22:47:05.917478+05:30'
+last_seen: '2026-07-01T04:10:43.527815+05:30'
+last_checked: '2026-07-01T04:10:43.527815+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: google
-- Stars: 8270
+- Stars: 8273
 - Forks: 720
 - Language: Go
 - Topics: a2a, agents, agents-sdk, ai, aiagentframework, gemini, genai, go, llm, mcp, multi-agent-collaboration, multi-agent-systems, sdk, vertex-ai
-- Last Updated: 2026-06-30T16:50:29Z
+- Last Updated: 2026-06-30T22:09:53Z
 
 ## Possible Use Cases
 

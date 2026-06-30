@@ -30,9 +30,9 @@ selection_reason:
 
 ## Summary
 
-- Apple's official website provides centralized access to product pages for Mac, iPad, iPhone, Watch, Vision, AirPods, TV & Home, and accessories, along with dedicated support and store sections.
-- The Apple Support Community allows users to search existing answers or post new technical queries, requiring product specs, software versions, and issue context for effective troubleshooting.
-- Community etiquette includes upvoting helpful content, automatic email notifications for responses, and adhe
+- Apple's official website provides centralized access to product pages for Mac, iPad, iPhone, Watch, Vision, AirPods, TV & Home, and accessories, along with enterprise and entertainment sections.
+- The Apple Support Community allows users to search existing solutions or post new technical queries, with structured steps for submission (including product specs, software versions, and troubleshooting details).
+- Users can upvote helpful responses, subscribe to email notifications for updates, and
 
 ## Use Cases
 

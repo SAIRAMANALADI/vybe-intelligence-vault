@@ -2,7 +2,7 @@
 title: Editing Python in Visual Studio Code
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://code.visualstudio.com/docs/python/editing#_refactoring
+source_url: https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
 resource_id: blog:editing-python-in-visual-studio-code
 local_vault_path: ai/rag/editing-python-in-visual-studio-code.md
 quality_score: 70
@@ -16,6 +16,7 @@ tags:
 - rag
 - reddit
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
@@ -35,9 +36,7 @@ selection_reason:
 
 ## Summary
 
-- **IntelliSense & Autocomplete**: VS Code's Python extension leverages [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) (based on [Pyright](https://github.com/microsoft/pyright)) for static type checking and lazy type inferencing, with `.pyi` stub files for enhanced performance. Auto-imports are supported via `python.analysis.autoImportCompletions` in `settings.json`.
-
-- **Custom Paths & Analysis**: Non-standard package locations can be added to `python.an
+- **IntelliSense & Autocomplete**: VS Code's Python extension leverages [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) (based on [Pyright](https://github.com/microsoft/pyright)) for static type checking and lazy type inferencing, providing AI-enhanced completions via [IntelliCode](https://go.microsoft.com/fwlink/?linkid=2006060). Features include auto-import suggestions (`python.analysis.autoImportCompletions`) and custom path resolution (`python.analysis
 
 ## Use Cases
 
@@ -47,7 +46,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://code.visualstudio.com/docs/python/editing#_refactoring
+Original source URL: https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
 
 ## Local Vault File
 

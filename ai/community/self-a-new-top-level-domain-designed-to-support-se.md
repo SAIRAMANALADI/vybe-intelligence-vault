@@ -13,13 +13,14 @@ collected_at: '2026-07-01T01:50:01.289666+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:self-a-new-top-level-domain-designed-to-support-se
 first_seen: '2026-06-30T03:51:22.407840+05:30'
 last_seen: '2026-07-01T01:50:01.289666+05:30'
 last_checked: '2026-07-01T01:50:01.289666+05:30'
 health_score: 100
 ---
+
 
 # .self: A new top-level domain designed to support self-hosting
 

@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-07-01T01:51:30.311746+05:30'
+collected_at: '2026-07-01T04:12:25.875377+05:30'
 published_at: '2026-06-30T16:45:55Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 368
 language: Python
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-07-01T01:51:30.311746+05:30'
-last_seen: '2026-07-01T01:51:30.311746+05:30'
-last_checked: '2026-07-01T01:51:30.311746+05:30'
+first_seen: '2026-07-01T04:12:25.875377+05:30'
+last_seen: '2026-07-01T04:12:25.875377+05:30'
+last_checked: '2026-07-01T04:12:25.875377+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining dense (vector) and sparse (keyword) retrieval methods for enhanced document search and context augmentation.
+- **Hybrid RAG Implementation**: Demonstrates a Retrieval Augmented Generation (RAG) pipeline combining dense (vector-based) and sparse (keyword-based) retrieval methods for enhanced document search and context augmentation in generative AI models.
 
-- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG model using NVIDIA AI Workbench, leveraging GPU acceleration for efficient inference and retrieval.
+- **NVIDIA AI Workbench Integration**: Provides a reference architecture for deploying hybrid RAG workflows using NVIDIA's AI Workbench, leveraging GPU-accelerated libraries (e.g., RAPIDS, Triton) for scalable inference and retrieval.
 
-- **Python-Based Implementation**: Provides a Python-based reference implementation with modular components for document processing, retrieval, and generation, optimized for NVIDIA GPUs.
+- **Python-Based Example**: Includes a modular Python implementation with dependencies for vector databases (e.g., FAISS, Milvus), LLM inference (e.g., NVIDIA NeMo), and hybrid retrieval orchestration, optimized for NVIDIA GPUs.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 368
-- Forks: 1007
+- Forks: 1006
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-30T16:45:55Z

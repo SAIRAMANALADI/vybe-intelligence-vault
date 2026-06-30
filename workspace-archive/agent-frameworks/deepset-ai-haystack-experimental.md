@@ -31,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- Experimental extensions for Haystack, a Python-based NLP framework, hosted on GitHub under `deepset-ai/haystack-experimental`.
-- Repository last updated on **2026-06-25**, with **64 stars** and **24 forks**, indicating limited but active community engagement.
-- Focuses on **unreleased or prototype features** for Haystack, serving as a sandbox for future core integrations.
+- **Experimental Features**: Repository (`deepset-ai/haystack-experimental`) hosts untested/unstable extensions for Haystack, a Python-based NLP framework.
+- **Metadata**: 64 stars, 24 forks, last updated on 2026-06-30; no assigned topics.
+- **Purpose**: Designed for developers to experiment with advanced or bleeding-edge Haystack functionalities before potential integration into the main codebase.
 
 ## Use Cases
 

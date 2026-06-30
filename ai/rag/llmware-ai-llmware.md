@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-06-30T22:51:17.366024+05:30'
+collected_at: '2026-07-01T04:15:00.997731+05:30'
 published_at: '2026-06-30T16:44:37Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-06-30T22:51:17.366024+05:30'
-last_seen: '2026-06-30T22:51:17.366024+05:30'
-last_checked: '2026-06-30T22:51:17.366024+05:30'
+first_seen: '2026-07-01T04:15:00.997731+05:30'
+last_seen: '2026-07-01T04:15:00.997731+05:30'
+last_checked: '2026-07-01T04:15:00.997731+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides a Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency and performance.
+- **Unified RAG Framework**: Provides a Python-based framework for building enterprise-grade Retrieval-Augmented Generation (RAG) pipelines using small, specialized models optimized for efficiency (e.g., LlamaCpp, ONNX, OpenVINO).
 
-- **Multi-Backend Support**: Integrates with multiple inference engines (e.g., llama.cpp, ONNX, OpenVINO) and supports parsing tools for structured/unstructured data processing in RAG workflows.
+- **Multi-Model & Tool Integration**: Supports modular integration of generative AI tools, agents, and parsing utilities, enabling hybrid workflows with lightweight LLMs and retrieval components.
 
-- **Agent & Tool Integration**: Enables deployment of AI agents with generative capabilities, leveraging lightweight models for scalable, cost-effective enterprise applications.
+- **Enterprise Optimization**: Focuses on low-latency, high-throughput deployment with specialized model support, optimized inference backends, and last-updated tooling (June 2026) for production-grade AI systems.
 
 ## Why It Matters
 

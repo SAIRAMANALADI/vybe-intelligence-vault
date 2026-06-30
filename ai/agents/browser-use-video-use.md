@@ -11,13 +11,14 @@ tags:
 - github-trending
 - python
 - youtube
-status: active
+status: inactive
 resource_id: github:browser-use/video-use
 first_seen: '2026-06-28T19:46:54.550221+05:30'
 last_seen: '2026-07-01T01:49:59.649083+05:30'
 last_checked: '2026-07-01T01:49:59.649083+05:30'
 health_score: 100
 ---
+
 
 # browser-use/video-use
 

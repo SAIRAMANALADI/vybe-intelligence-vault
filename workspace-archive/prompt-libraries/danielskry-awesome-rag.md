@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Curated RAG Applications**: Repository aggregates open-source and commercial Retrieval-Augmented Generation (RAG) implementations, frameworks, and tools for generative AI applications.
-- **Multi-Topic Coverage**: Includes resources spanning large language models (LLMs), vector databases, prompt engineering, and domain-specific RAG use cases (e.g., healthcare, finance).
-- **Active Maintenance**: Last updated June 2026, ensuring inclusion of recent advancements in RAG architectures, evaluation
+- **Curated RAG Resources**: Aggregates cutting-edge Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in Generative AI, spanning LLMs, vector databases, and hybrid retrieval mechanisms.
+- **High-Activity Open-Source Project**: Maintained repository with 1,284 stars and 157 forks, indicating strong community engagement and rapid updates (last commit: 2026-06-30).
+- **Multi-Topic Focus**: Covers core RAG components including retrieval strategies, prompt engineering, evaluat
 
 ## Use Cases
 

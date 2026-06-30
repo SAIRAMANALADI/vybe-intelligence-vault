@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://www.githubstatus.com
-published_at: '2026-07-01T02:04:50.801111+05:30'
-collected_at: '2026-07-01T02:04:50.801124+05:30'
+source_url: https://githubstatus.com
+published_at: '2026-07-01T04:19:07.108821+05:30'
+collected_at: '2026-07-01T04:19:07.108831+05:30'
 tags:
 - agents
 - hackernews
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-07-01T02:04:50.801124+05:30'
-last_seen: '2026-07-01T02:04:50.801124+05:30'
-last_checked: '2026-07-01T02:04:50.801124+05:30'
+first_seen: '2026-07-01T04:19:07.108831+05:30'
+last_seen: '2026-07-01T04:19:07.108831+05:30'
+last_checked: '2026-07-01T04:19:07.108831+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page** provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with 90-day uptime metrics and incident tracking.
-- **Notification Systems** support email, SMS (global), Slack, and webhook integrations for incident alerts, with OTP-based verification for security.
-- **Past Incidents** include disruptions in Copilot, Webhooks, and Pull Requests (June 2026), with root causes ranging from configuration errors to maintenance events, all resolved with mitigations.
+- **GitHub Status Page** provides real-time operational status for GitHub services, including uptime metrics (e.g., 99.99% for Git Operations over 90 days) and incident tracking with historical data via Atom/RSS feeds.
+
+- **Multi-Channel Incident Notifications** support email, SMS (global numbers), Slack, and webhooks for GitHub **incident creation, updates, resolutions, and component status changes**, with OTP-based verification for security.
+
+- **Regional Status Monitoring** tracks GitHub Enterprise Cloud by region (AU/EU/JP/US) and documents past incidents (e.g., Copilot completions degradation on June 23, 2026) with root cause analyses and mitigation timelines.
 
 ## Why It Matters
 
@@ -39,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T02:04:50.801111+05:30
+- Published: 2026-07-01T04:19:07.108821+05:30
 
 ## Related Tags
 
@@ -54,4 +56,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://www.githubstatus.com
+Original source: https://githubstatus.com

@@ -1,29 +1,31 @@
 ---
-title: supermlorg/superml-java · Discussions · GitHub
+title: superml-java/superml-core at master · supermlorg/superml-java · GitHub
 archive_category: automation-workflows
 source_category: ai/resources
-source_url: https://github.com/supermlorg/superml-java/discussions
+source_url: https://github.com/supermlorg/superml-java/tree/master/superml-core
 resource_id: github:supermlorg/superml-java
 local_vault_path: ai/resources/supermlorg-superml-java.md
 quality_score: 70
-archive_score: 77
+archive_score: 79
 archive_tier: useful
 resource_kind: framework
 importance: medium
 tags:
+- reddit
 - scripts
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
 
-# supermlorg/superml-java · Discussions · GitHub
+# superml-java/superml-core at master · supermlorg/superml-java · GitHub
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 77 (useful)
+- Quality score: 70 | Archive score: 79 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -31,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Java-based machine learning framework** developed under the `supermlorg` GitHub organization, with 5 stars and 1 fork at the time of documentation.
-
-- **Repository structure** includes core code, issues (1), pull requests (1), discussions, CI/CD via GitHub Actions, and a dedicated `Models` section for ML artifacts.
-
-- **Discussions categorized** into `Announcements`, `General`, `Ideas`, `Polls`, `Q&A`, and `Show and Tell`, with a pinned welcome announcement dated July 12, 2025.
+- Java-based machine learning framework (`superml-java`) under the `supermlorg` GitHub organization, with 5 stars and 1 fork.
+- Core module (`superml-core`) structured in Maven (`pom.xml`) under `src/main/java/org/superml/core`, indicating a modular Java ML library.
+- Repository includes GitHub Actions, issue tracking, and pull request workflows, with 1 open issue and 1 pull request.
 
 ## Use Cases
 
@@ -45,7 +45,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/supermlorg/superml-java/discussions
+Original source URL: https://github.com/supermlorg/superml-java/tree/master/superml-core
 
 ## Local Vault File
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=org_card
-published_at: '2026-07-01T01:54:30.943484+05:30'
-collected_at: '2026-07-01T01:54:30.943498+05:30'
+published_at: '2026-07-01T04:16:22.751743+05:30'
+collected_at: '2026-07-01T04:16:22.751756+05:30'
 tags:
 - meta-ai
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:welcome-to-llamaindex-developer-documentation
-first_seen: '2026-07-01T01:54:30.943498+05:30'
-last_seen: '2026-07-01T01:54:30.943498+05:30'
-last_checked: '2026-07-01T01:54:30.943498+05:30'
+first_seen: '2026-07-01T04:16:22.751756+05:30'
+last_seen: '2026-07-01T04:16:22.751756+05:30'
+last_checked: '2026-07-01T04:16:22.751756+05:30'
 health_score: 100
 ---
 
@@ -23,9 +23,9 @@ health_score: 100
 
 ## Summary
 
-- **Abstraction**: Simplifying complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
-- **Encapsulation**: Bundling data (attributes) and methods (functions) within a single unit (class) while restricting direct access to some components.
-- **Polymorphism**: Enabling objects of different classes to be treated as objects of a common superclass, facilitating method overriding and interface implementation.
+- **Abstraction**: Simplifies complex systems by hiding lower-level details, enabling focus on high-level functionality.
+- **Modularity**: Divides systems into independent, interchangeable components for easier maintenance and scalability.
+- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) to restrict direct access and enforce controlled interaction.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:54:30.943484+05:30
+- Published: 2026-07-01T04:16:22.751743+05:30
 
 ## Related Tags
 

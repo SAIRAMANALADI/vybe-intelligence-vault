@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: http://play.google.com/about/play-terms.html
-published_at: '2026-07-01T01:56:04.567127+05:30'
-collected_at: '2026-07-01T01:56:04.567143+05:30'
+published_at: '2026-07-01T04:18:18.661621+05:30'
+collected_at: '2026-07-01T04:18:18.661636+05:30'
 tags:
 - agents
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:google-play-terms-of-service
-first_seen: '2026-07-01T01:56:04.567143+05:30'
-last_seen: '2026-07-01T01:56:04.567143+05:30'
-last_checked: '2026-07-01T01:56:04.567143+05:30'
+first_seen: '2026-07-01T04:18:18.661636+05:30'
+last_seen: '2026-07-01T04:18:18.661636+05:30'
+last_checked: '2026-07-01T04:18:18.661636+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Account & Age Compliance**: Users must possess a valid Google Account with age restrictions enforced per regional laws; minors require parental/guardian consent. Unauthorized account sharing or data harvesting is prohibited, with disabled accounts risking loss of access to Google Play and shared family content.
+- **Account & Access Control**: Users must maintain secure Google accounts (age-restricted for minors) and comply with regional availability; unauthorized access or sharing of account details voids service eligibility, with account disabling triggering loss of family-shared content or payment methods.
 
-- **Content & Security Policies**: Google Play distributes Content (apps, media, etc.) with automatic Updates (including critical security patches) enforced irrespective of user settings. Malware protection scans apps/URLs, with warnings or blocks applied to detected threats, while Instant Apps temporarily sync data across devices.
+- **Content & Transaction Policies**: Purchases (including pre-orders) are binding upon confirmation email, with all sales final per [Refund Policy](https://support.google.com/googleplay/answer/2479637); subscriptions auto-renew unless canceled ≥24h pre-billing, and taxes are user-responsible with pricing subject to real-time changes.
 
-- **Purchases & Subscriptions**: All transactions are binding sale contracts (with Google or Providers), subject to Google Payments/third-party billing terms. Subscriptions auto-renew unless canceled pre-trial, with all sales final per Google Play’s Refund Policy. Taxes and carrier billing eligibility are user-responsible, with family payment methods enabling shared purchases under manager oversight.
+- **Security & Data Handling**: Google scans apps/URLs for malware via network/OS/app telemetry, with mandatory critical updates enforced; family groups expose member data (name, email, purchases) to managers, and Instant Apps temporarily cache app data synced across devices.
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-01T01:56:04.567127+05:30
+- Published: 2026-07-01T04:18:18.661621+05:30
 
 ## Related Tags
 
