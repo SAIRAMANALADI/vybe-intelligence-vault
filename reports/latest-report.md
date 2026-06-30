@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-07-01T02:07:27.445983+05:30`
+Generated at: `2026-07-01T02:39:59.017068+05:30`
 
 ## Executive Summary
 
@@ -14,6 +14,7 @@ This report summarizes the major shifts, new entries, and delta movements across
 - **ProductJun 30, 2026Introducing Claude Sonnet 5Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/claude-sonnet-5)) ([File](../ai/companies/anthropic/productjun-30-2026introducing-claude-sonnet-5sonne.md))
 - **hasaneyldrm/exercises-dataset** - Score: `0` in category `ai/trending` ([Link](https://github.com/hasaneyldrm/exercises-dataset)) ([File](../ai/trending/hasaneyldrm-exercises-dataset.md))
 - **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration** - Score: `0` in category `ai/agents` ([Link](https://huggingface.co/blog/ibm-research/scarfbench)) ([File](../ai/agents/huggingface-blog-ibm-research-scarfbench.md))
+- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
 
 ## Top Trending Resources
 
