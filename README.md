@@ -43,7 +43,7 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
       </td>
       <td align="center">
         <h3>⚡ Status</h3>
-        <p><b>Last Update:</b> 2026-06-30 20:31 IST</p>
+        <p><b>Last Update:</b> 2026-06-30 21:58 IST</p>
         <p><b>Health:</b> 🟢 Optimal</p>
       </td>
     </tr>
@@ -55,29 +55,21 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 ### 📈 Trending Signals
 > Top rising resources based on momentum and community velocity.
 
-- 🔼 **[.self: A new top-level domain designed to support self-hosting](ai/community/self-a-new-top-level-domain-designed-to-support-se.md)** • <kbd>+69 pts</kbd>
-- 🔼 **[Linux Foundation | Browse Projects](ai/resources/linux-foundation-browse-projects.md)** • Rank: <kbd>+5749</kbd>
-- 🔼 **[C2PA | Verifying Media Content Sources](ai/resources/c2pa-verifying-media-content-sources.md)** • Rank: <kbd>+5782</kbd>
-- 🔼 **[Media Types](ai/rag/media-types.md)** • Rank: <kbd>+5815</kbd>
-- 🔼 **[cli/cli](ai/rag/cli-cli.md)** • Rank: <kbd>+2092</kbd>
+- 🔼 **[Medium Privacy Policy | by Medium | Medium Policy](ai/rag/medium-privacy-policy-by-medium-medium-policy.md)** • Rank: <kbd>+8</kbd>
+- 🔼 **[Medium Rules | by Medium | Medium Policy](ai/rag/medium-rules-by-medium-medium-policy.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[deepset-ai/haystack](ai/rag/deepset-ai-haystack.md)** • Rank: <kbd>+5</kbd>
+- 🔼 **[Medium Terms of Service | by Medium | Medium Policy](ai/rag/medium-terms-of-service-by-medium-medium-policy.md)** • Rank: <kbd>+2</kbd>
+- 🔼 **[pinecone-io/canopy](ai/rag/pinecone-io-canopy.md)** • Rank: <kbd>+1</kbd>
 
 ### 🌟 New Discoveries
 > Fresh intelligence recently indexed into the vault.
 
-- 🆕 **[Words Are a Byproduct of Consciousness. For LLMs, It's Backwards](ai/community/words-are-a-byproduct-of-consciousness-for-llms-it.md)** • Score: `38`
-- 🆕 **[IAIK/merkle-tree](ai/resources/iaik-merkle-tree.md)** • Score: `0`
-- 🆕 **[FinOps Certified Practitioner](ai/resources/finops-certified-practitioner.md)** • Score: `0`
-- 🆕 **[FinOps Foundation · GitHub](ai/resources/finops-foundation-github.md)** • Score: `0`
-- 🆕 **[The FinOps Foundation](ai/agents/the-finops-foundation.md)** • Score: `0`
+- 🆕 **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** • Score: `0`
 
 ### 💤 Recently Inactive
 > Resources showing declined activity or relevance.
 
-- 💤 **[0xNyk/council-of-high-intelligence](ai/trending/0xnyk-council-of-high-intelligence.md)**
-- 💤 **[veracrypt/VeraCrypt](ai/trending/veracrypt-veracrypt.md)**
-- 💤 **[refactoringhq/tolaria](ai/trending/refactoringhq-tolaria.md)**
-- 💤 **[Unclecheng-li/VulnClaw](ai/agents/unclecheng-li-vulnclaw.md)**
-- 💤 **[logto-io/logto](ai/trending/logto-io-logto.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
